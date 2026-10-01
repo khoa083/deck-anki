@@ -25,6 +25,26 @@ def spoken(word):
     """Văn bản đọc = headword (bỏ chú thích trong ngoặc, giữ somebody/something như demo)."""
     return re.sub(r"\s*\(.*?\)", "", word).replace("/", " or ").strip()
 
+# Từ nhóm BATH (chuẩn Anh /ɑː/, Kokoro en-gb hay đọc /æ/ = 'a'). Tự sửa khi headword chứa các từ này và chưa có tts_phonemes.
+BATH = {"after", "afterwards", "ask", "asks", "asked", "asking", "pass", "passed", "passing", "past", "last", "fast", "class", "glass",
+        "grass", "path", "bath", "laugh", "dance", "chance", "plant", "branch", "answer", "cast", "castle", "blast", "grasp", "staff",
+        "can't", "aunt", "master", "vast", "draft", "craft", "advance", "demand", "example", "rather", "half", "calm", "father"}
+_tok = None
+def auto_phonemes(text):
+    """Trả về chuỗi phoneme đã sửa BATH nếu text có từ nhóm BATH, ngược lại None (để Kokoro tự xử lý)."""
+    global _tok
+    ws = text.split()
+    if not any(w.lower().strip(".,!?…") in BATH for w in ws): return None
+    if _tok is None:
+        from kokoro_onnx.tokenizer import Tokenizer
+        _tok = Tokenizer()
+    out = []
+    for w in ws:
+        ph = _tok.phonemize(w, "en-gb")
+        if w.lower().strip(".,!?…") in BATH: ph = re.sub(r"a(?=[fsθnmlː]|$)", "ɑː", ph, count=1).replace("ɑːː", "ɑː")
+        out.append(ph)
+    return " ".join(out)
+
 def model():
     os.makedirs(CACHE, exist_ok=True)
     for f in FILES:
@@ -44,7 +64,8 @@ def main(args):
         u = json.load(open(p, encoding="utf-8"))
         for it in u["items"]:
             fn = os.path.join(MEDIA, audio_name(u["book"], u["unit"], it))
-            if force or not os.path.exists(fn) or it["word"] in PH: todo.append((fn, spoken(it["word"]), PH.get(it["word"])))
+            ph = PH.get(it["word"]) or auto_phonemes(spoken(it["word"]))
+            if force or not os.path.exists(fn) or it["word"] in PH: todo.append((fn, spoken(it["word"]), ph))
     if not todo: print("audio: đủ, không cần tạo"); return
     import soundfile as sf
     k = model(); voice = CFG.get("tts_voice", "bm_george"); speed = CFG.get("tts_speed", 0.95)
@@ -62,7 +83,7 @@ def report():
     for p in sorted(glob.glob(os.path.join(KIT, "units", "*.json"))):
         u = json.load(open(p, encoding="utf-8"))
         for it in u["items"]:
-            ph = PH.get(it["word"]) or t.phonemize(spoken(it["word"]), "en-gb")
+            ph = PH.get(it["word"]) or auto_phonemes(spoken(it["word"])) or t.phonemize(spoken(it["word"]), "en-gb")
             print(f'{u["book"]}_u{u["unit"]:02d}  {spoken(it["word"]):34s} TTS {ph:34s} IPA {it["ipa"]}')
 
 if __name__ == "__main__":
