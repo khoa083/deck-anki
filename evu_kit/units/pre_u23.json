@@ -1,0 +1,392 @@
+{
+ "book": "pre",
+ "unit": 23,
+ "title_vi": "Mua sắm",
+ "theory_html": "<p><b>A. In a supermarket</b><br><i>A. Trong siêu thị</i></p> <p>Labels: <b>sweets, shelves, checkout, trolley, basket</b>. How do supermarkets <b>make us</b> spend more? <b>fresh</b> bread near the <b>entrance</b>; sweets near the checkout while we wait in the <b>queue</b>; expensive <b>items</b> on the middle shelves where we are more <b>likely</b> to see them; <b>special offers</b> – people buy more than they need and <b>throw away</b> half of it.</p><p><i><b>kẹo, kệ, quầy thanh toán, xe đẩy, giỏ; khiến, tươi, lối vào, hàng người chờ, món hàng, có khả năng, khuyến mãi, vứt đi</b>.</i></p> <p><b>B. Shopping centres and street markets</b><br><i>B. Trung tâm mua sắm và chợ đường phố</i></p> <p><b>shopping centres</b>: everything <b>under one roof</b>, <b>convenient</b>, a <b>wide range</b> of shops; the shop will <b>replace</b> it or give you a <b>refund</b>. <b>street markets</b>: the <b>atmosphere</b> of the <b>stalls</b>; <b>haggling</b> (agree a lower price); you can’t <b>take it back</b>.</p><p><i><b>trung tâm mua sắm, dưới một mái nhà, tiện lợi, đủ loại, đổi, hoàn tiền; chợ đường phố, bầu không khí, quầy hàng, mặc cả, trả lại</b>.</i></p>",
+ "items": [
+  {
+   "word": "sweets",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/swiːts/",
+   "def_en": "Small pieces of sweet food, e.g. chocolate.",
+   "def_vi": "Đồ ngọt nhỏ, ví dụ sô-cô-la.",
+   "gloss_vi": "kẹo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sweets</i> (plural noun) = kẹo. <b>Grammar</b>: Anh–Anh; Mỹ <i>candy</i>.",
+   "example": {
+    "en": "They put <b>sweets</b> and chocolate near the checkout.",
+    "vi": "Họ đặt <b>kẹo</b> và sô-cô-la gần quầy thanh toán."
+   }
+  },
+  {
+   "word": "shelf",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ʃelf/",
+   "def_en": "A flat board for putting things on in a shop or cupboard.",
+   "def_vi": "Tấm phẳng để đặt đồ trong cửa hàng hay tủ.",
+   "gloss_vi": "kệ, giá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shelf</i> (noun) = kệ, giá. <b>Grammar</b>: số nhiều bất quy tắc <i>shelves</i>.",
+   "example": {
+    "en": "They put the most expensive items on the middle <b>shelves</b>.",
+    "vi": "Họ đặt hàng đắt nhất ở các <b>kệ</b> giữa."
+   }
+  },
+  {
+   "word": "checkout",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtʃekaʊt/",
+   "def_en": "The place in a supermarket where you pay.",
+   "def_vi": "Chỗ trả tiền trong siêu thị.",
+   "gloss_vi": "quầy thanh toán",
+   "synonyms": "till <i>(n. quầy tính tiền)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Checkout</i> (noun) = quầy thanh toán. <b>Grammar</b>: <i>at the checkout</i>.",
+   "example": {
+    "en": "They put sweets and chocolate near the <b>checkout</b>.",
+    "vi": "Họ đặt kẹo và sô-cô-la gần <b>quầy thanh toán</b>."
+   }
+  },
+  {
+   "word": "trolley",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtrɒli/",
+   "def_en": "A large metal basket on wheels for shopping.",
+   "def_vi": "Giỏ kim loại lớn có bánh xe để mua hàng.",
+   "gloss_vi": "xe đẩy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trolley</i> (noun) = xe đẩy. <b>Grammar</b>: Anh–Anh; Mỹ <i>cart</i>.",
+   "example": {
+    "en": "It is easy to add bars of chocolate to our basket or <b>trolley</b>.",
+    "vi": "Thật dễ cho thêm thanh sô-cô-la vào giỏ hay <b>xe đẩy</b>."
+   }
+  },
+  {
+   "word": "basket",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɑːskɪt/",
+   "def_en": "A container you carry for shopping.",
+   "def_vi": "Đồ đựng xách tay khi mua hàng.",
+   "gloss_vi": "giỏ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Basket</i> (noun) = giỏ. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "It is easy to add bars of chocolate to our <b>basket</b> or trolley.",
+    "vi": "Thật dễ cho thêm thanh sô-cô-la vào <b>giỏ</b> hay xe đẩy."
+   }
+  },
+  {
+   "word": "make",
+   "sense": "cause",
+   "pos": "verb",
+   "ipa": "/meɪk/",
+   "def_en": "To cause someone to do or be something.",
+   "def_vi": "Khiến ai làm gì hay trở nên thế nào.",
+   "gloss_vi": "khiến, làm cho",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Make</i> (verb) = khiến, làm cho. <b>Grammar</b>: <i>make sb do sth</i> (không <i>to</i>); <i>make sb</i> + tính từ.",
+   "example": {
+    "en": "I don’t like rain; it <b>makes me</b> depressed.",
+    "vi": "Tôi không thích mưa; nó <b>làm tôi</b> chán nản."
+   }
+  },
+  {
+   "word": "fresh",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/freʃ/",
+   "def_en": "Just made or cooked.",
+   "def_vi": "Vừa làm hay nấu xong.",
+   "gloss_vi": "tươi, mới ra lò",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "stale <i>(adj. ôi)</i>",
+   "grammar_vi": "<i>Fresh</i> (adjective) = tươi, mới ra lò. <b>Grammar</b>: <i>fresh bread/fruit/fish</i>.",
+   "example": {
+    "en": "They put <b>fresh</b> bread near the entrance.",
+    "vi": "Họ đặt bánh mì <b>mới ra lò</b> gần lối vào."
+   }
+  },
+  {
+   "word": "entrance",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈentrəns/",
+   "def_en": "The place where you go into a building.",
+   "def_vi": "Chỗ đi vào tòa nhà.",
+   "gloss_vi": "lối vào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "exit <i>(n. lối ra)</i>",
+   "grammar_vi": "<i>Entrance</i> (noun) = lối vào. <b>Grammar</b>: <i>the entrance to sth</i>; <i>at the entrance</i>.",
+   "example": {
+    "en": "They put fresh bread near the <b>entrance</b>.",
+    "vi": "Họ đặt bánh mì mới ra lò gần <b>lối vào</b>."
+   }
+  },
+  {
+   "word": "queue",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kjuː/",
+   "def_en": "A line of people who are waiting for something.",
+   "def_vi": "Hàng người chờ thứ gì.",
+   "gloss_vi": "hàng (người chờ)",
+   "synonyms": "line <i>(n. hàng (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Queue</i> (noun) = hàng (người chờ). <b>Grammar</b>: <i>wait in a queue</i>; <i>queue (up)</i> (v.). <b>Common mistakes</b>: /kjuː/.",
+   "example": {
+    "en": "It is easy to add bars of chocolate to our basket while we are waiting in the <b>queue</b>.",
+    "vi": "Ta dễ cho thêm sô-cô-la vào giỏ trong lúc chờ trong <b>hàng</b>."
+   }
+  },
+  {
+   "word": "item",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈaɪtəm/",
+   "def_en": "A single thing.",
+   "def_vi": "Một món đồ đơn lẻ.",
+   "gloss_vi": "món hàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Item</i> (noun) = món hàng. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "They put the most expensive <b>items</b> on the middle shelves.",
+    "vi": "Họ đặt <b>món hàng</b> đắt nhất ở kệ giữa."
+   }
+  },
+  {
+   "word": "likely",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈlaɪkli/",
+   "def_en": "Probably going to happen.",
+   "def_vi": "Có thể sẽ xảy ra.",
+   "gloss_vi": "có khả năng",
+   "synonyms": "probable <i>(adj. có khả năng)</i>",
+   "antonyms": "unlikely <i>(adj. không chắc)</i>",
+   "grammar_vi": "<i>Likely</i> (adjective) = có khả năng. <b>Grammar</b>: <i>be likely to do sth</i>.",
+   "example": {
+    "en": "They put the most expensive items on the middle shelves where you are more <b>likely</b> to see them.",
+    "vi": "Đó là chỗ bạn <b>dễ</b> nhìn thấy chúng hơn."
+   }
+  },
+  {
+   "word": "special offer",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌspeʃl ˈɒfə(r)/",
+   "def_en": "A cheaper price than normal.",
+   "def_vi": "Giá rẻ hơn bình thường.",
+   "gloss_vi": "khuyến mãi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Special offer</i> (noun phrase) = khuyến mãi. <b>Grammar</b>: <i>on special offer</i>.",
+   "example": {
+    "en": "Be careful of <b>special offers</b>, e.g. three for the price of two.",
+    "vi": "Hãy cẩn thận với <b>khuyến mãi</b>, ví dụ mua ba tính tiền hai."
+   }
+  },
+  {
+   "word": "throw away",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌθrəʊ əˈweɪ/",
+   "def_en": "To get rid of something you do not want.",
+   "def_vi": "Bỏ thứ không cần.",
+   "gloss_vi": "vứt đi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "keep <i>(v. giữ)</i>",
+   "grammar_vi": "<i>Throw away</i> (phrasal verb) = vứt đi. <b>Grammar</b>: tách được: <i>throw it away</i>. <b>Common mistakes</b>: <i>throw – threw – thrown</i>.",
+   "example": {
+    "en": "People often buy more than they need and <b>throw away</b> half of it.",
+    "vi": "Người ta thường mua nhiều hơn cần và <b>vứt đi</b> một nửa."
+   }
+  },
+  {
+   "word": "shopping centre",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈʃɒpɪŋ ˌsentə(r)/",
+   "def_en": "A large covered shopping area.",
+   "def_vi": "Khu mua sắm lớn có mái che.",
+   "gloss_vi": "trung tâm mua sắm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shopping centre</i> (noun phrase) = trung tâm mua sắm. <b>Grammar</b>: Anh–Anh; Mỹ <i>mall</i>.",
+   "example": {
+    "en": "Some people like modern <b>shopping centres</b>.",
+    "vi": "Một số người thích <b>trung tâm mua sắm</b> hiện đại."
+   }
+  },
+  {
+   "word": "under one roof",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌʌndə wʌn ˈruːf/",
+   "def_en": "In one place.",
+   "def_vi": "Ở cùng một nơi.",
+   "gloss_vi": "dưới cùng một mái nhà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Under one roof</i> (phrase) = dưới cùng một mái nhà. <b>Grammar</b>: cụm cố định.",
+   "example": {
+    "en": "Everything is <b>under one roof</b> and it is convenient.",
+    "vi": "Mọi thứ đều <b>ở cùng một chỗ</b> và rất tiện."
+   }
+  },
+  {
+   "word": "convenient",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kənˈviːniənt/",
+   "def_en": "Practical and easy to use.",
+   "def_vi": "Thiết thực và dễ dùng.",
+   "gloss_vi": "tiện lợi",
+   "synonyms": "handy <i>(adj. tiện)</i>",
+   "antonyms": "inconvenient <i>(adj. bất tiện)</i>",
+   "grammar_vi": "<i>Convenient</i> (adjective) = tiện lợi. <b>Grammar</b>: <i>convenient for sb</i>. <b>Word family</b>: <i>convenience</i> (n.).",
+   "example": {
+    "en": "Everything is under one roof and it is <b>convenient</b>.",
+    "vi": "Mọi thứ đều ở cùng một chỗ và rất <b>tiện lợi</b>."
+   }
+  },
+  {
+   "word": "wide range",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌwaɪd ˈreɪndʒ/",
+   "def_en": "Many different things of the same type.",
+   "def_vi": "Nhiều thứ khác nhau cùng loại.",
+   "gloss_vi": "đủ loại",
+   "synonyms": "variety <i>(n. sự đa dạng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wide range</i> (noun phrase) = đủ loại. <b>Grammar</b>: <i>a wide range of</i> + danh từ số nhiều.",
+   "example": {
+    "en": "There’s a <b>wide range</b> of shops.",
+    "vi": "Có <b>đủ loại</b> cửa hàng."
+   }
+  },
+  {
+   "word": "replace",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rɪˈpleɪs/",
+   "def_en": "To exchange something for another one.",
+   "def_vi": "Đổi thứ gì lấy cái khác.",
+   "gloss_vi": "đổi, thay thế",
+   "synonyms": "exchange <i>(v. đổi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Replace</i> (verb) = đổi, thay thế. <b>Grammar</b>: <i>replace sth (with sth)</i>.",
+   "example": {
+    "en": "If there is anything wrong with something you buy, the shop will <b>replace</b> it.",
+    "vi": "Nếu đồ mua có lỗi, cửa hàng sẽ <b>đổi</b> nó."
+   }
+  },
+  {
+   "word": "refund",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈriːfʌnd/",
+   "def_en": "Money that is paid back when you return something.",
+   "def_vi": "Tiền được trả lại khi trả hàng.",
+   "gloss_vi": "tiền hoàn lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Refund</i> (noun) = tiền hoàn lại. <b>Grammar</b>: <i>give/get a refund</i>; động từ <i>refund</i> /rɪˈfʌnd/.",
+   "example": {
+    "en": "The shop will replace it, or give you a <b>refund</b>.",
+    "vi": "Cửa hàng sẽ đổi hoặc <b>hoàn tiền</b> cho bạn."
+   }
+  },
+  {
+   "word": "street market",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌstriːt ˈmɑːkɪt/",
+   "def_en": "A market in the street with stalls.",
+   "def_vi": "Chợ có quầy trên phố.",
+   "gloss_vi": "chợ đường phố",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Street market</i> (noun phrase) = chợ đường phố. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Other people prefer going to <b>street markets</b>.",
+    "vi": "Người khác thích đi <b>chợ đường phố</b>."
+   }
+  },
+  {
+   "word": "atmosphere",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈætməsfɪə(r)/",
+   "def_en": "The feeling in a place or situation.",
+   "def_vi": "Cảm giác ở một nơi hay tình huống.",
+   "gloss_vi": "bầu không khí",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Atmosphere</i> (noun) = bầu không khí. <b>Grammar</b>: <i>a friendly/relaxed atmosphere</i>. <b>Common mistakes</b>: trọng âm âm tiết 1.",
+   "example": {
+    "en": "They like the <b>atmosphere</b> you get from the different stalls.",
+    "vi": "Họ thích <b>bầu không khí</b> từ các quầy hàng khác nhau."
+   }
+  },
+  {
+   "word": "stall",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/stɔːl/",
+   "def_en": "A table or small shop in a market.",
+   "def_vi": "Bàn hay quầy nhỏ ở chợ.",
+   "gloss_vi": "quầy hàng, sạp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stall</i> (noun) = quầy hàng, sạp. <b>Grammar</b>: <i>a market stall</i>.",
+   "example": {
+    "en": "They like the atmosphere you get from the different <b>stalls</b>.",
+    "vi": "Họ thích bầu không khí từ các <b>quầy hàng</b> khác nhau."
+   }
+  },
+  {
+   "word": "haggling",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhæɡlɪŋ/",
+   "def_en": "Trying to agree a lower price.",
+   "def_vi": "Cố thỏa thuận giá thấp hơn.",
+   "gloss_vi": "sự mặc cả",
+   "synonyms": "bargaining <i>(n. mặc cả)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Haggling</i> (noun) = sự mặc cả. <b>Grammar</b>: động từ <i>haggle (over/about sth)</i>.",
+   "example": {
+    "en": "We call this <b>haggling</b>.",
+    "vi": "Chúng ta gọi việc này là <b>mặc cả</b>."
+   }
+  },
+  {
+   "word": "take back",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌteɪk ˈbæk/",
+   "def_en": "To return something to a shop.",
+   "def_vi": "Đem trả lại thứ gì cho cửa hàng.",
+   "gloss_vi": "đem trả lại",
+   "synonyms": "return <i>(v. trả lại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take back</i> (phrasal verb) = đem trả lại. <b>Grammar</b>: tách được: <i>take it back</i>.",
+   "example": {
+    "en": "You can’t normally <b>take it back</b> and get a refund.",
+    "vi": "Bạn thường không thể <b>đem trả lại</b> và lấy tiền hoàn."
+   }
+  }
+ ]
+}
