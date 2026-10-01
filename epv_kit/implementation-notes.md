@@ -25,6 +25,7 @@
 | 14 | Int 21–25 | 70 mục / 140 thẻ + 5 note lý thuyết + 70 audio | build 1672 note / 3256 thẻ, 0 bad renders, audio 1237/1237 |
 | 15 | Int 26–30 | 61 mục / 122 thẻ + 5 note lý thuyết + 61 audio | build 1738 note / 3383 thẻ, 0 bad renders, audio 1298/1298 |
 | 16 | Int 31–35 | 71 mục / 142 thẻ + 5 note lý thuyết + 71 audio | build 1814 note / 3530 thẻ, 0 bad renders, audio 1369/1369 |
+| 17 | Int 36–40 | 56 mục / 112 thẻ + 5 note lý thuyết + 56 audio | build 1875 note / 3647 thẻ, 0 bad renders, audio 1425/1425 |
 
 ## Quyết định (xem PROMPT.md §3)
 D1 thứ tự Adv 16→60 → bổ sung demo → Int 1→70 · D2 IPA chuẩn Anh (config.ipa_style) · D3 1 deck gốc `English Phrasal Verbs in Use` → `Advanced`/`Intermediate` · D4 thẻ demo chỉ có ở bản 1: giữ + tag `EPV::demo_ban1` · D5 audio **bắt buộc**: Kokoro TTS offline, giọng Anh–Anh nam `bm_george` (sửa từ lượt 1c; trước đó để trống) · D6 chọn mục theo Mini dictionary + cụm in đậm.
@@ -198,7 +199,13 @@ D1 thứ tự Adv 16→60 → bổ sung demo → Int 1→70 · D2 IPA chuẩn An
 - Nghĩa mới → `sense`: `deal with` (handle), `pass on` (news), `dry up` (speech), `turn down` (refuse), `speak up` ×2 (u31); `wrap up` (warm clothes), `go together` (match), `stick out` ×2 (u32); `take off` (imitate), `put on` (organise), `stand in`, `walk out`, `pass off` (u33); `turn out`, `calm down` (situation) (u34); `point out` ×2, `turn to` (topic), `latch on` (understand), `watch out for` ×2, `give up` (guessing), `slip out` ×2 (u35).
 - Mục chỉ có trong Mini, không có trên trang → bỏ: `pour out`, `put forward` (sự kiện) (u33). `turn out` = đến dự (33.2) chỉ nhắc trong lý thuyết.
 
+**Lượt 17 (Intermediate 36–40)**
+- Mục chỉ có ở bài tập kèm định nghĩa (đáp án) vẫn làm thẻ: `dawn on`, `jump out at`, `work through` (36.3). `look over` (Mini 37) không có trên trang → bỏ.
+- u38: Mini OCR thiếu `fall out`; trang chỉ có dạng `fell/fallen` → bổ sung src (mục “BỔ SUNG TỪ ẢNH TRANG”).
+- `sense` mới: `call for` (u36 cần / u39 kêu gọi; u19 ghé đón), `put forward` (u39 đề xuất / u11 đồng hồ), `put down somebody` (u38 hạ thấp), `back up somebody` (u38), `stand out` (u40 vượt trội), `screw up` (u40 làm hỏng / u30 vò giấy), `rub it in` (u40 / `rub in` u16 xoa kem), `lie in` (u36).
+
 ## Kiểm trôi
+- Lượt 17: soát Int 36–40 khi viết (ảnh trang + đáp án); viết lại câu bối cảnh tự đặt (u36 sort yourself out/see about, u38 fall out, u40 outstanding/hit back). Không phát hiện lệch nghĩa.
 - Lượt 16: soát Int 31–35 khi viết (ảnh trang + đáp án); sửa 1 đoạn lý thuyết u34 trùng 13 từ (Over to you), viết lại câu bối cảnh tự đặt (u33 packed out, u34 run up against/caught up in/hot up, u35 watch out for/match up). Không phát hiện lệch nghĩa.
 - Lượt 15: soát Int 26–30 khi viết (ảnh trang + đáp án); viết lại câu bối cảnh tự đặt (u26 5 câu, u28 set out, u29 get down) và 1 đoạn lý thuyết u29 trùng 12 từ. Không phát hiện lệch nghĩa.
 - Lượt 14: soát Int 21–25 khi viết (ảnh trang + đáp án); context_score từng unit, viết lại câu bối cảnh tự đặt (u21 burst into/buy into/tidy away, u22 while away, u23 leftover/bygone/be left over, u25 set off ×2/pay back). Không phát hiện lệch nghĩa.
