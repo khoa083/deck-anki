@@ -1,9 +1,10 @@
-"""In ra các cụm >=12 từ liên tiếp trong theory_html trùng src (giúp sửa cảnh báo check)."""
-import json, re, sys
+"""In ra đoạn dài nhất của theory_html trùng src (cùng thuật toán với epv.py check, §3)."""
+import json, os, sys
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+import epv
 u = sys.argv[1]
-t = re.sub(r'<[^>]+>', ' ', json.load(open(f'units/{u}.json'))['theory_html']).lower()
-sw = ' '.join(re.findall(r"[a-z’']+", open(f'src/{u}.txt').read().lower()))
-w = re.findall(r"[a-z’']+", t)
-for i in range(len(w) - 11):
-    g = ' '.join(w[i:i + 12])
-    if g in sw: print(g)
+d = json.load(open(f'units/{u}.json'))
+body = epv.SUM_RE.sub("", d["theory_html"])
+A = epv.toks(epv.strip(body)); T = " " + " ".join(epv.toks(epv.src(d["book"], d["unit"]))) + " "
+for i in range(len(A) - 11):
+    if " " + " ".join(A[i:i + 12]) + " " in T: print(" ".join(A[i:i + 14]))
