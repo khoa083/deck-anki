@@ -1,0 +1,376 @@
+{
+ "book": "pre",
+ "unit": 43,
+ "title_vi": "Sách và phim",
+ "theory_html": "<p><b>A. Books</b><br><i>A. Sách</i></p> <p><b>literature, fiction, novels, thrillers, science fiction, author, biographies, poetry, poets, poems, century</b>.</p><p><i><b>văn học, tiểu thuyết hư cấu, tiểu thuyết, truyện ly kỳ, khoa học viễn tưởng, tác giả, tiểu sử, thơ ca, nhà thơ, bài thơ, thế kỷ</b>.</i></p> <p><b>B. Films</b><br><i>B. Phim</i></p> <p><b>horror film, reviews, a big star, actors, complicated, entertainment, comedies, romantic comedies, what’s on, fancy seeing, film director, the latest film</b>. Word families: <b>entertainment – entertainer – entertain; review – reviewer – review; acting – actor – act; directing – director – direct</b>.</p><p><i><b>phim kinh dị, bài phê bình, ngôi sao, diễn viên, phức tạp, giải trí, phim hài, phim hài lãng mạn, phim đang chiếu, thích xem, đạo diễn, mới nhất</b>.</i></p>",
+ "items": [
+  {
+   "word": "literature",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlɪtrətʃə(r)/",
+   "def_en": "Serious and important writing.",
+   "def_vi": "Tác phẩm viết nghiêm túc, quan trọng.",
+   "gloss_vi": "văn học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Literature</i> (noun) = văn học. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "I used to hate <b>literature</b> at school.",
+    "vi": "Hồi đi học tôi từng ghét môn <b>văn học</b>."
+   }
+  },
+  {
+   "word": "fiction",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfɪkʃn/",
+   "def_en": "Stories about imaginary people and events.",
+   "def_vi": "Truyện về người và sự việc tưởng tượng.",
+   "gloss_vi": "truyện hư cấu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "non-fiction <i>(n. sách phi hư cấu)</i>",
+   "grammar_vi": "<i>Fiction</i> (noun) = truyện hư cấu. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "I started off with <b>fiction</b>.",
+    "vi": "Tôi bắt đầu với <b>truyện hư cấu</b>."
+   }
+  },
+  {
+   "word": "novel",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈnɒvl/",
+   "def_en": "A fiction book.",
+   "def_vi": "Sách hư cấu.",
+   "gloss_vi": "tiểu thuyết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Novel</i> (noun) = tiểu thuyết. <b>Grammar</b>: đếm được. <b>Word family</b>: <i>novelist</i>.",
+   "example": {
+    "en": "I read hundreds of <b>novels</b>.",
+    "vi": "Tôi đã đọc hàng trăm cuốn <b>tiểu thuyết</b>."
+   }
+  },
+  {
+   "word": "thriller",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈθrɪlə(r)/",
+   "def_en": "An exciting story, often about crime.",
+   "def_vi": "Truyện hấp dẫn, thường về tội phạm.",
+   "gloss_vi": "truyện/phim ly kỳ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Thriller</i> (noun) = truyện/phim ly kỳ. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "I read hundreds of novels, mostly <b>thrillers</b> and science fiction.",
+    "vi": "Tôi đọc hàng trăm tiểu thuyết, chủ yếu là <b>truyện ly kỳ</b> và khoa học viễn tưởng."
+   }
+  },
+  {
+   "word": "science fiction",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌsaɪəns ˈfɪkʃn/",
+   "def_en": "Stories about the future.",
+   "def_vi": "Truyện về tương lai.",
+   "gloss_vi": "khoa học viễn tưởng",
+   "synonyms": "sci-fi <i>(n. khoa học viễn tưởng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Science fiction</i> (noun phrase) = khoa học viễn tưởng. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "Mostly thrillers and <b>science fiction</b>.",
+    "vi": "Chủ yếu là truyện ly kỳ và <b>khoa học viễn tưởng</b>."
+   }
+  },
+  {
+   "word": "author",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɔːθə(r)/",
+   "def_en": "Someone who writes books.",
+   "def_vi": "Người viết sách.",
+   "gloss_vi": "tác giả",
+   "synonyms": "writer <i>(n. nhà văn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Author</i> (noun) = tác giả. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "My favourite <b>author</b> is John le Carré.",
+    "vi": "<b>Tác giả</b> yêu thích của tôi là John le Carré."
+   }
+  },
+  {
+   "word": "biography",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/baɪˈɒɡrəfi/",
+   "def_en": "The story of a person’s life, written by another person.",
+   "def_vi": "Câu chuyện đời một người do người khác viết.",
+   "gloss_vi": "tiểu sử",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Biography</i> (noun) = tiểu sử. <b>Grammar</b>: số nhiều <i>biographies</i>; <i>autobiography</i> = tự truyện.",
+   "example": {
+    "en": "Recently, I’ve started reading quite a lot of <b>biographies</b>.",
+    "vi": "Gần đây tôi đọc khá nhiều <b>tiểu sử</b>."
+   }
+  },
+  {
+   "word": "poetry",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpəʊətri/",
+   "def_en": "Pieces of creative writing in short lines.",
+   "def_vi": "Tác phẩm sáng tác thành dòng ngắn.",
+   "gloss_vi": "thơ ca",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "prose <i>(n. văn xuôi)</i>",
+   "grammar_vi": "<i>Poetry</i> (noun) = thơ ca. <b>Grammar</b>: không đếm được; <i>a poem</i> (đếm được).",
+   "example": {
+    "en": "Recently, I’ve started reading even some <b>poetry</b>.",
+    "vi": "Gần đây tôi đọc cả một ít <b>thơ</b>."
+   }
+  },
+  {
+   "word": "poet",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpəʊɪt/",
+   "def_en": "A person who writes poems.",
+   "def_vi": "Người làm thơ.",
+   "gloss_vi": "nhà thơ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Poet</i> (noun) = nhà thơ. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Two of my favourite <b>poets</b> are Antonio Machado and Federico García Lorca.",
+    "vi": "Hai <b>nhà thơ</b> yêu thích của tôi là Antonio Machado và Lorca."
+   }
+  },
+  {
+   "word": "poem",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpəʊɪm/",
+   "def_en": "A piece of poetry.",
+   "def_vi": "Một bài thơ.",
+   "gloss_vi": "bài thơ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Poem</i> (noun) = bài thơ. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "They both wrote <b>poems</b> in the early 20th century.",
+    "vi": "Cả hai đều viết <b>thơ</b> vào đầu thế kỷ 20."
+   }
+  },
+  {
+   "word": "century",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsentʃəri/",
+   "def_en": "A period of 100 years.",
+   "def_vi": "Khoảng 100 năm.",
+   "gloss_vi": "thế kỷ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Century</i> (noun) = thế kỷ. <b>Grammar</b>: <i>in the 20th century</i>.",
+   "example": {
+    "en": "They both wrote poems in the early 20th <b>century</b>.",
+    "vi": "Cả hai đều viết thơ vào đầu <b>thế kỷ</b> 20."
+   }
+  },
+  {
+   "word": "horror film",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈhɒrə fɪlm/",
+   "def_en": "A film that makes people frightened.",
+   "def_vi": "Phim làm người xem sợ hãi.",
+   "gloss_vi": "phim kinh dị",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Horror film</i> (noun phrase) = phim kinh dị. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "If it’s a <b>horror film</b>, I usually go and see it.",
+    "vi": "Nếu là <b>phim kinh dị</b>, tôi thường đi xem."
+   }
+  },
+  {
+   "word": "review",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˈvjuː/",
+   "def_en": "An opinion of a film or book in a newspaper or magazine.",
+   "def_vi": "Ý kiến về phim hay sách trên báo, tạp chí.",
+   "gloss_vi": "bài phê bình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Review</i> (noun) = bài phê bình. <b>Grammar</b>: <i>get good/bad reviews</i>. <b>Word family</b>: <i>reviewer</i>.",
+   "example": {
+    "en": "If a film gets good <b>reviews</b>, then I often go and see it.",
+    "vi": "Nếu phim được <b>phê bình</b> tốt, tôi thường đi xem."
+   }
+  },
+  {
+   "word": "star",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/stɑː(r)/",
+   "def_en": "A famous actor.",
+   "def_vi": "Diễn viên nổi tiếng.",
+   "gloss_vi": "ngôi sao",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Star</i> (noun) = ngôi sao. <b>Grammar</b>: <i>a film/movie star</i>.",
+   "example": {
+    "en": "If there’s a big <b>star</b> in it, then I am more likely to see it.",
+    "vi": "Nếu có một <b>ngôi sao</b> lớn đóng, tôi dễ đi xem hơn."
+   }
+  },
+  {
+   "word": "actor",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈæktə(r)/",
+   "def_en": "A person who is in films or plays.",
+   "def_vi": "Người đóng phim hay kịch.",
+   "gloss_vi": "diễn viên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Actor</i> (noun) = diễn viên. <b>Grammar</b>: dùng cho cả nam và nữ. <b>Word family</b>: <i>act, acting</i>.",
+   "example": {
+    "en": "I don’t normally go and see films if I don’t recognise the names of the <b>actors</b>.",
+    "vi": "Tôi không đi xem nếu không nhận ra tên các <b>diễn viên</b>."
+   }
+  },
+  {
+   "word": "complicated",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈkɒmplɪkeɪtɪd/",
+   "def_en": "Difficult to understand.",
+   "def_vi": "Khó hiểu.",
+   "gloss_vi": "phức tạp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "simple <i>(adj. đơn giản)</i>",
+   "grammar_vi": "<i>Complicated</i> (adjective) = phức tạp. <b>Grammar</b>: <i>complicated</i> (adj.).",
+   "example": {
+    "en": "I’m not interested in films that are serious or <b>complicated</b>.",
+    "vi": "Tôi không thích phim nghiêm túc hay <b>phức tạp</b>."
+   }
+  },
+  {
+   "word": "entertainment",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌentəˈteɪnmənt/",
+   "def_en": "Things you see or do to enjoy yourself.",
+   "def_vi": "Thứ xem hay làm để vui.",
+   "gloss_vi": "sự giải trí",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Entertainment</i> (noun) = sự giải trí. <b>Grammar</b>: không đếm được. <b>Word family</b>: <i>entertain, entertainer</i>.",
+   "example": {
+    "en": "I only go to the cinema for <b>entertainment</b>.",
+    "vi": "Tôi chỉ đi xem phim để <b>giải trí</b>."
+   }
+  },
+  {
+   "word": "comedy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɒmədi/",
+   "def_en": "A film that is funny.",
+   "def_vi": "Phim hài hước.",
+   "gloss_vi": "phim hài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Comedy</i> (noun) = phim hài. <b>Grammar</b>: số nhiều <i>comedies</i>.",
+   "example": {
+    "en": "I like <b>comedies</b> and especially romantic comedies.",
+    "vi": "Tôi thích <b>phim hài</b>, đặc biệt là phim hài lãng mạn."
+   }
+  },
+  {
+   "word": "romantic comedy",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/rəʊˌmæntɪk ˈkɒmədi/",
+   "def_en": "A comedy that has a love story.",
+   "def_vi": "Phim hài có chuyện tình.",
+   "gloss_vi": "phim hài lãng mạn",
+   "synonyms": "rom-com <i>(n. phim hài lãng mạn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Romantic comedy</i> (noun phrase) = phim hài lãng mạn. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "I like comedies and especially <b>romantic comedies</b>.",
+    "vi": "Tôi thích phim hài, đặc biệt là <b>phim hài lãng mạn</b>."
+   }
+  },
+  {
+   "word": "what’s on",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌwɒts ˈɒn/",
+   "def_en": "What films are being shown at the cinema.",
+   "def_vi": "Phim nào đang chiếu ở rạp.",
+   "gloss_vi": "(phim) đang chiếu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>What’s on</i> (phrase) = (phim) đang chiếu. <b>Grammar</b>: <i>What’s on at the cinema?</i>.",
+   "example": {
+    "en": "I look to see <b>what’s on</b>.",
+    "vi": "Tôi xem có <b>phim gì đang chiếu</b>."
+   }
+  },
+  {
+   "word": "fancy",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈfænsi/",
+   "def_en": "To want to do something (informal).",
+   "def_vi": "Muốn làm gì (thân mật).",
+   "gloss_vi": "thích, muốn",
+   "synonyms": "feel like <i>(pv. muốn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fancy</i> (verb) = thích, muốn. <b>Grammar</b>: <i>fancy</i> + V-ing / danh từ (<i>Fancy a coffee?</i>).",
+   "example": {
+    "en": "I go to anything that I <b>fancy</b> seeing.",
+    "vi": "Tôi đi xem bất cứ phim nào tôi <b>thích</b> xem."
+   }
+  },
+  {
+   "word": "film director",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈfɪlm dəˌrektə(r)/",
+   "def_en": "The person who tells the actors what to do.",
+   "def_vi": "Người chỉ đạo diễn viên.",
+   "gloss_vi": "đạo diễn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Film director</i> (noun phrase) = đạo diễn. <b>Grammar</b>: <i>direct</i> (v.), <i>directing</i> (n.).",
+   "example": {
+    "en": "For me, the <b>film director</b> is the most important thing.",
+    "vi": "Với tôi, <b>đạo diễn</b> là quan trọng nhất."
+   }
+  },
+  {
+   "word": "latest",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈleɪtɪst/",
+   "def_en": "The newest, most recent.",
+   "def_vi": "Mới nhất, gần nhất.",
+   "gloss_vi": "mới nhất",
+   "synonyms": "newest <i>(adj. mới nhất)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Latest</i> (adjective) = mới nhất. <b>Grammar</b>: <i>the latest news/film/model</i>.",
+   "example": {
+    "en": "I always go and see the <b>latest</b> film by directors I really like.",
+    "vi": "Tôi luôn đi xem phim <b>mới nhất</b> của các đạo diễn tôi thích."
+   }
+  }
+ ]
+}

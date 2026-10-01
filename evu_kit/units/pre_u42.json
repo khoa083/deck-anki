@@ -1,0 +1,456 @@
+{
+ "book": "pre",
+ "unit": 42,
+ "title_vi": "Thể thao thi đấu",
+ "theory_html": "<p><b>A. Winning and losing</b><br><i>A. Thắng và thua</i></p> <p>the <b>score</b>; Spain <b>won</b> 2–0 (<b>two nil</b>), Poland <b>lost</b>; Spain <b>beat</b> Poland (NOT <b>won Poland</b>); Poland <b>lost to</b> Spain; Spain <b>defeated</b> Poland / Poland <b>were defeated by</b> Spain; Spain and Italy <b>drew</b> 1–1 (<b>one all</b>) – <b>a 1–1 draw</b>. The final score is the <b>result</b> (not at half-time).</p><p><i><b>tỷ số, thắng, thua, không (0), đánh bại, hòa, kết quả</b>.</i></p> <p><b>B. Competitions</b><br><i>B. Các cuộc thi</i></p> <p>A <b>competition</b>; <b>individuals</b> and <b>teams</b> <b>take part in</b> <b>tournaments</b>, <b>league</b> competitions (<b>play against</b>), <b>cup</b> competitions ending in a <b>final</b>; the <b>winners</b> (opp <b>losers</b>) are the <b>champions</b>; the <b>captain</b>.</p><p><i><b>cuộc thi, cá nhân, đội, tham gia, giải đấu, giải vô địch quốc gia, cúp, trận chung kết, người thắng/thua, nhà vô địch, đội trưởng</b>.</i></p> <p><b>C. Reporting sports events</b><br><i>C. Đưa tin thể thao</i></p> <p><b>an incredible race</b>; <b>break the world record</b>; a great <b>victory</b>; an <b>outstanding</b> time; the <b>championship</b>; <b>gave up</b> tennis; a <b>superb</b> race; the <b>winner</b>; Rosberg <b>leads</b> the championship. <b>superb, incredible, outstanding</b> = very good.</p><p><i><b>phi thường, phá kỷ lục, chiến thắng, xuất sắc, giải vô địch, tuyệt vời, dẫn đầu</b>.</i></p>",
+ "items": [
+  {
+   "word": "score",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/skɔː(r)/",
+   "def_en": "The number of goals or points a team has.",
+   "def_vi": "Số bàn thắng hay điểm của một đội.",
+   "gloss_vi": "tỷ số",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Score</i> (noun) = tỷ số. <b>Grammar</b>: <i>the final score</i>; <i>What’s the score?</i>.",
+   "example": {
+    "en": "The <b>score</b> at half-time was 1–0.",
+    "vi": "<b>Tỷ số</b> lúc nghỉ giữa hiệp là 1–0."
+   }
+  },
+  {
+   "word": "win",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/wɪn/",
+   "def_en": "To be the best or first in a game or competition.",
+   "def_vi": "Giỏi nhất hay đứng đầu trong trận/cuộc thi.",
+   "gloss_vi": "thắng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "lose <i>(v. thua)</i>",
+   "grammar_vi": "<i>Win</i> (verb) = thắng. <b>Grammar</b>: <i>win a game/match/competition</i> (không <i>win a team</i>); <i>win – won – won</i>.",
+   "example": {
+    "en": "Spain played Poland and they <b>won</b> the game.",
+    "vi": "Tây Ban Nha đấu với Ba Lan và họ <b>thắng</b> trận đó."
+   }
+  },
+  {
+   "word": "lose",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/luːz/",
+   "def_en": "Not to win a game.",
+   "def_vi": "Không thắng trận.",
+   "gloss_vi": "thua",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "win <i>(v. thắng)</i>",
+   "grammar_vi": "<i>Lose</i> (verb) = thua. <b>Grammar</b>: <i>lose – lost – lost</i>; <i>lose to sb</i>.",
+   "example": {
+    "en": "Poland <b>lost</b> 2–0.",
+    "vi": "Ba Lan <b>thua</b> 2–0."
+   }
+  },
+  {
+   "word": "nil",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/nɪl/",
+   "def_en": "Zero, in football scores.",
+   "def_vi": "Số không, trong tỷ số bóng đá.",
+   "gloss_vi": "không (0)",
+   "synonyms": "zero <i>(n. số không)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nil</i> (noun) = không (0). <b>Grammar</b>: Anh–Anh, dùng cho tỷ số.",
+   "example": {
+    "en": "Spain won 2–0 (spoken as two <b>nil</b>).",
+    "vi": "Tây Ban Nha thắng 2–0 (đọc là hai – <b>không</b>)."
+   }
+  },
+  {
+   "word": "beat",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/biːt/",
+   "def_en": "To defeat someone in a game.",
+   "def_vi": "Đánh bại ai trong trận đấu.",
+   "gloss_vi": "đánh bại, thắng",
+   "synonyms": "defeat <i>(v. đánh bại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Beat</i> (verb) = đánh bại, thắng. <b>Grammar</b>: <i>beat</i> + đối thủ (không <i>win</i> + đối thủ); <i>beat – beat – beaten</i>.",
+   "example": {
+    "en": "Spain <b>beat</b> Poland (2–0).",
+    "vi": "Tây Ban Nha <b>thắng</b> Ba Lan 2–0."
+   }
+  },
+  {
+   "word": "lose to",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˈluːz tə/",
+   "def_en": "To be beaten by a team or player.",
+   "def_vi": "Bị đội hay người chơi khác đánh bại.",
+   "gloss_vi": "thua (ai)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "beat <i>(v. thắng)</i>",
+   "grammar_vi": "<i>Lose to</i> (phrasal verb) = thua (ai). <b>Grammar</b>: <i>lose to sb</i>.",
+   "example": {
+    "en": "Poland <b>lost</b> (2–0) <b>to</b> Spain.",
+    "vi": "Ba Lan <b>thua</b> Tây Ban Nha 2–0."
+   }
+  },
+  {
+   "word": "defeat",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪˈfiːt/",
+   "def_en": "To win against someone.",
+   "def_vi": "Thắng ai.",
+   "gloss_vi": "đánh bại",
+   "synonyms": "beat <i>(v. thắng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Defeat</i> (verb) = đánh bại. <b>Grammar</b>: thường bị động: <i>be defeated by</i>; cũng là danh từ.",
+   "example": {
+    "en": "Spain <b>defeated</b> Poland (2–0).",
+    "vi": "Tây Ban Nha <b>đánh bại</b> Ba Lan 2–0."
+   }
+  },
+  {
+   "word": "draw",
+   "sense": "score",
+   "pos": "verb",
+   "ipa": "/drɔː/",
+   "def_en": "To finish a game with the same score.",
+   "def_vi": "Kết thúc trận với tỷ số bằng nhau.",
+   "gloss_vi": "hòa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Draw</i> (verb) = hòa. <b>Grammar</b>: <i>draw – drew – drawn</i>; danh từ <i>a 1–1 draw</i>.",
+   "example": {
+    "en": "Spain and Italy <b>drew</b> 1–1.",
+    "vi": "Tây Ban Nha và Ý <b>hòa</b> 1–1."
+   }
+  },
+  {
+   "word": "one all",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌwʌn ˈɔːl/",
+   "def_en": "One goal each (1–1).",
+   "def_vi": "Mỗi bên một bàn (1–1).",
+   "gloss_vi": "một đều",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>One all</i> (phrase) = một đều. <b>Grammar</b>: <i>two all, three all</i>.",
+   "example": {
+    "en": "Spain and Italy drew 1–1 (spoken as <b>one all</b>).",
+    "vi": "Tây Ban Nha và Ý hòa 1–1 (đọc là <b>một đều</b>)."
+   }
+  },
+  {
+   "word": "result",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˈzʌlt/",
+   "def_en": "The score at the end of a game.",
+   "def_vi": "Tỷ số cuối trận.",
+   "gloss_vi": "kết quả",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Result</i> (noun) = kết quả. <b>Grammar</b>: chỉ dùng cho tỷ số cuối trận (không dùng giữa hiệp).",
+   "example": {
+    "en": "The final score/<b>result</b> was 2–0.",
+    "vi": "Tỷ số cuối cùng / <b>kết quả</b> là 2–0."
+   }
+  },
+  {
+   "word": "competition",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkɒmpəˈtɪʃn/",
+   "def_en": "An organised event in which people try to win something.",
+   "def_vi": "Sự kiện có tổ chức để người ta tranh thắng.",
+   "gloss_vi": "cuộc thi",
+   "synonyms": "contest <i>(n. cuộc thi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Competition</i> (noun) = cuộc thi. <b>Grammar</b>: <i>enter/win a competition</i>. <b>Word family</b>: <i>compete, competitive</i>.",
+   "example": {
+    "en": "A <b>competition</b> is an organised event in which people try to win something.",
+    "vi": "<b>Cuộc thi</b> là một sự kiện có tổ chức trong đó người ta cố giành chiến thắng."
+   }
+  },
+  {
+   "word": "individual",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɪndɪˈvɪdʒuəl/",
+   "def_en": "A single person.",
+   "def_vi": "Một người riêng lẻ.",
+   "gloss_vi": "cá nhân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "team <i>(n. đội)</i>",
+   "grammar_vi": "<i>Individual</i> (noun) = cá nhân. <b>Grammar</b>: cũng là tính từ <i>individual</i>.",
+   "example": {
+    "en": "<b>Individuals</b>, such as tennis players Serena Williams or Rafael Nadal, take part in different types of competition.",
+    "vi": "<b>Cá nhân</b>, như tay vợt Serena Williams, tham gia nhiều loại cuộc thi."
+   }
+  },
+  {
+   "word": "take part in",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌteɪk ˈpɑːt ɪn/",
+   "def_en": "To join with others in an activity.",
+   "def_vi": "Cùng người khác tham gia hoạt động.",
+   "gloss_vi": "tham gia",
+   "synonyms": "participate in <i>(pv. tham gia)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take part in</i> (verb phrase) = tham gia. <b>Grammar</b>: <i>take part in sth</i>.",
+   "example": {
+    "en": "Individuals and teams <b>take part in</b> different types of competition.",
+    "vi": "Cá nhân và đội tuyển <b>tham gia</b> nhiều loại cuộc thi."
+   }
+  },
+  {
+   "word": "tournament",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtʊənəmənt/",
+   "def_en": "A sports competition with many players or teams.",
+   "def_vi": "Cuộc thi thể thao có nhiều người hay đội.",
+   "gloss_vi": "giải đấu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tournament</i> (noun) = giải đấu. <b>Grammar</b>: <i>enter/win a tournament</i>.",
+   "example": {
+    "en": "Tennis players and golfers enter <b>tournaments</b> such as the French Open.",
+    "vi": "Tay vợt và người chơi gôn tham dự các <b>giải đấu</b> như Pháp mở rộng."
+   }
+  },
+  {
+   "word": "league",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/liːɡ/",
+   "def_en": "A group of teams that play against each other during a season.",
+   "def_vi": "Nhóm đội đấu với nhau suốt mùa giải.",
+   "gloss_vi": "giải vô địch (theo mùa)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>League</i> (noun) = giải vô địch (theo mùa). <b>Grammar</b>: <i>the Premier League</i>. <b>Common mistakes</b>: /liːɡ/.",
+   "example": {
+    "en": "Football and ice hockey teams play in <b>league</b> competitions.",
+    "vi": "Các đội bóng đá thi đấu ở giải <b>vô địch quốc gia</b>."
+   }
+  },
+  {
+   "word": "play against",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˈpleɪ əˌɡenst/",
+   "def_en": "To compete with another team.",
+   "def_vi": "Thi đấu với đội khác.",
+   "gloss_vi": "thi đấu với",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Play against</i> (phrasal verb) = thi đấu với. <b>Grammar</b>: <i>play against sb</i>.",
+   "example": {
+    "en": "They <b>play against</b> different teams.",
+    "vi": "Họ <b>thi đấu với</b> các đội khác nhau."
+   }
+  },
+  {
+   "word": "cup",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kʌp/",
+   "def_en": "A competition in which the winner receives a cup.",
+   "def_vi": "Cuộc thi mà người thắng nhận cúp.",
+   "gloss_vi": "cúp, giải cúp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cup</i> (noun) = cúp, giải cúp. <b>Grammar</b>: <i>the World Cup</i>.",
+   "example": {
+    "en": "Many teams also play in <b>cup</b> competitions, e.g. the FA Cup.",
+    "vi": "Nhiều đội cũng thi đấu ở các giải <b>cúp</b>, ví dụ FA Cup."
+   }
+  },
+  {
+   "word": "final",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfaɪnl/",
+   "def_en": "The last game in a competition, which decides the winner.",
+   "def_vi": "Trận cuối quyết định người thắng.",
+   "gloss_vi": "trận chung kết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Final</i> (noun) = trận chung kết. <b>Grammar</b>: <i>in the final</i>. <b>Word family</b>: <i>semi-final</i>.",
+   "example": {
+    "en": "It ends with two teams playing against each other in a <b>final</b>.",
+    "vi": "Giải kết thúc bằng trận hai đội đấu với nhau ở <b>chung kết</b>."
+   }
+  },
+  {
+   "word": "champion",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtʃæmpiən/",
+   "def_en": "The winner of a competition.",
+   "def_vi": "Người/đội thắng cuộc thi.",
+   "gloss_vi": "nhà vô địch",
+   "synonyms": "winner <i>(n. người thắng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Champion</i> (noun) = nhà vô địch. <b>Grammar</b>: đếm được. <b>Word family</b>: <i>championship</i>.",
+   "example": {
+    "en": "Germany became World Cup <b>champions</b> in 2014.",
+    "vi": "Đức trở thành <b>nhà vô địch</b> World Cup năm 2014."
+   }
+  },
+  {
+   "word": "captain",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkæptɪn/",
+   "def_en": "The leader of a team.",
+   "def_vi": "Người dẫn dắt đội.",
+   "gloss_vi": "đội trưởng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Captain</i> (noun) = đội trưởng. <b>Grammar</b>: <i>the captain of the team</i>.",
+   "example": {
+    "en": "Philipp Lahm received the cup as <b>captain</b> of the winning team.",
+    "vi": "Philipp Lahm nhận cúp với tư cách <b>đội trưởng</b> đội thắng."
+   }
+  },
+  {
+   "word": "incredible",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪnˈkredəbl/",
+   "def_en": "Very good and of a very high quality.",
+   "def_vi": "Rất tốt, chất lượng rất cao.",
+   "gloss_vi": "phi thường",
+   "synonyms": "amazing <i>(adj. kinh ngạc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Incredible</i> (adjective) = phi thường. <b>Grammar</b>: cũng = khó tin.",
+   "example": {
+    "en": "In one of the most <b>incredible</b> races of all time, Usain Bolt won the 100 metres final.",
+    "vi": "Một trong những cuộc đua <b>phi thường</b> nhất mọi thời đại."
+   }
+  },
+  {
+   "word": "break a record",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌbreɪk ə ˈrekɔːd/",
+   "def_en": "To do better than anyone before.",
+   "def_vi": "Làm tốt hơn mọi người trước đó.",
+   "gloss_vi": "phá kỷ lục",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Break a record</i> (verb phrase) = phá kỷ lục. <b>Grammar</b>: <i>break/set/hold a record</i>. <b>Common mistakes</b>: danh từ /ˈrekɔːd/.",
+   "example": {
+    "en": "Bolt did not <b>break</b> his own world <b>record</b> of 9.69 seconds.",
+    "vi": "Bolt không <b>phá</b> được <b>kỷ lục</b> thế giới 9,69 giây của chính mình."
+   }
+  },
+  {
+   "word": "victory",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈvɪktəri/",
+   "def_en": "The time when you win a game or competition.",
+   "def_vi": "Lúc thắng trận hay cuộc thi.",
+   "gloss_vi": "chiến thắng",
+   "synonyms": "win <i>(n. trận thắng)</i>",
+   "antonyms": "defeat <i>(n. thất bại)</i>",
+   "grammar_vi": "<i>Victory</i> (noun) = chiến thắng. <b>Grammar</b>: <i>a victory over sb</i>.",
+   "example": {
+    "en": "He achieved a great <b>victory</b>.",
+    "vi": "Anh ấy giành một <b>chiến thắng</b> lớn."
+   }
+  },
+  {
+   "word": "outstanding",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/aʊtˈstændɪŋ/",
+   "def_en": "Extremely good.",
+   "def_vi": "Cực kỳ tốt.",
+   "gloss_vi": "xuất sắc",
+   "synonyms": "excellent <i>(adj. xuất sắc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Outstanding</i> (adjective) = xuất sắc. <b>Grammar</b>: không dùng <i>very outstanding</i>.",
+   "example": {
+    "en": "He achieved a great victory running an <b>outstanding</b> time of 9.81 seconds.",
+    "vi": "Anh ấy chạy với thời gian <b>xuất sắc</b> 9,81 giây."
+   }
+  },
+  {
+   "word": "championship",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtʃæmpiənʃɪp/",
+   "def_en": "An important competition to decide who is the best.",
+   "def_vi": "Cuộc thi quan trọng để chọn ra người giỏi nhất.",
+   "gloss_vi": "giải vô địch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Championship</i> (noun) = giải vô địch. <b>Grammar</b>: <i>win the championship</i>.",
+   "example": {
+    "en": "She first won the <b>championship</b> in 2005.",
+    "vi": "Lần đầu cô ấy vô địch <b>giải</b> này là năm 2005."
+   }
+  },
+  {
+   "word": "superb",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/suːˈpɜːb/",
+   "def_en": "Very good, of a very high quality.",
+   "def_vi": "Rất tốt, chất lượng rất cao.",
+   "gloss_vi": "tuyệt vời",
+   "synonyms": "excellent <i>(adj. xuất sắc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Superb</i> (adjective) = tuyệt vời. <b>Grammar</b>: không dùng <i>very superb</i>.",
+   "example": {
+    "en": "There was a <b>superb</b> race for the Canadian Grand Prix.",
+    "vi": "Đã có một cuộc đua <b>tuyệt vời</b> cho giải Canadian Grand Prix."
+   }
+  },
+  {
+   "word": "winner",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɪnə(r)/",
+   "def_en": "The person who wins.",
+   "def_vi": "Người thắng cuộc.",
+   "gloss_vi": "người chiến thắng",
+   "synonyms": "champion <i>(n. nhà vô địch)</i>",
+   "antonyms": "loser <i>(n. người thua)</i>",
+   "grammar_vi": "<i>Winner</i> (noun) = người chiến thắng. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "The <b>winner</b>, Lewis Hamilton, passed Sebastian Vettel and won by five seconds.",
+    "vi": "<b>Người chiến thắng</b>, Lewis Hamilton, đã vượt Sebastian Vettel."
+   }
+  },
+  {
+   "word": "lead",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/liːd/",
+   "def_en": "To be in front of others during a competition.",
+   "def_vi": "Dẫn trước người khác trong cuộc thi.",
+   "gloss_vi": "dẫn đầu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lead</i> (verb) = dẫn đầu. <b>Grammar</b>: <i>lead – led – led</i>; <i>Milan are leading 1–0</i>.",
+   "example": {
+    "en": "Nico Rosberg now <b>leads</b> the drivers championship with 107 points.",
+    "vi": "Nico Rosberg giờ <b>dẫn đầu</b> giải vô địch các tay đua."
+   }
+  }
+ ]
+}
