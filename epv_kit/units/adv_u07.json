@@ -1,0 +1,148 @@
+{
+ "book": "adv",
+ "unit": 7,
+ "supplement": true,
+ "theory_html": " <hr> <p><b>Phrasal verb summary</b></p> <p><i>Tóm tắt phrasal verb trong bài</i></p> <table><thead><tr><th>Phrasal verb</th><th>Nghĩa</th><th>Example / Ví dụ</th></tr></thead><tbody><tr><td><b>climb down</b></td><td>trèo xuống</td><td>The cat got up the tree easily but then couldn’t <b>climb down</b>.<br><i>Con mèo trèo lên cây dễ dàng nhưng rồi không <b>trèo xuống</b> được.</i></td></tr><tr><td><b>climb down</b></td><td>chịu nhận sai, xuống nước</td><td>Molly hates losing an argument, so she will never <b>climb down</b>.<br><i>Molly ghét thua trong tranh cãi, nên cô ấy sẽ chẳng bao giờ <b>chịu xuống nước</b>.</i></td></tr><tr><td><b>warm up something</b></td><td>hâm nóng (đồ ăn)</td><td>There’s some soup in the fridge that you can <b>warm up</b> when you get home.<br><i>Có ít súp trong tủ lạnh, về nhà bạn <b>hâm nóng</b> lên mà ăn.</i></td></tr><tr><td><b>warm up somebody</b></td><td>khuấy động (khán giả)</td><td>Before the main programme, a brilliant singer <b>warmed</b> the audience <b>up</b>.<br><i>Trước chương trình chính, một ca sĩ xuất sắc đã <b>khuấy động</b> khán giả.</i></td></tr></tbody></table>",
+ "items": [
+  {
+   "word": "climb down",
+   "sense": "literal",
+   "pos": "phr.v.",
+   "register": "neutral",
+   "def_en": "To go back down to the ground from somewhere high, such as a tree.",
+   "ipa": "/ˌklaɪm ˈdaʊn/",
+   "def_vi": "Leo xuống lại mặt đất từ chỗ cao, như từ trên cây.",
+   "gloss_vi": "trèo xuống",
+   "example": {
+    "en": "The cat got up the tree easily but then couldn’t <b>climb down</b>.",
+    "vi": "Con mèo trèo lên cây dễ dàng nhưng rồi không <b>trèo xuống</b> được."
+   },
+   "grammar_vi": "<i>climb down</i> (phr.v.) = leo xuống (nghĩa đen). <b>Grammar</b>: Đây là phrasal verb <b>nội động từ</b>, không cần tân ngữ: <i>The cat couldn’t climb down</i>, nên không có dạng tách. Thêm <i>from</i> + nơi: <i>climb down from a tree</i>. Bài 7.4 (nghĩa đen): con mèo lên được cây nhưng không trèo xuống được. Đáp án 7.4: cả hai nghĩa của <i>climb down</i> đều gợi ý trở về ngang hàng với người khác từ một vị trí tách biệt. <b>Collocations / chunks</b>: <i>couldn’t climb down</i> (không trèo xuống được). <b>Register</b>: trung tính, dùng được cả khi nói và viết. <b>Common mistakes</b>: dùng <i>climb off</i> cho cây (sách dùng <i>climb down</i>).",
+   "synonyms": [
+    {
+     "text": "get down",
+     "pos": "phr.v.",
+     "vi": "xuống"
+    },
+    {
+     "text": "descend",
+     "pos": "v.",
+     "vi": "đi xuống"
+    }
+   ],
+   "antonyms": [
+    {
+     "text": "climb up",
+     "pos": "phr.v.",
+     "vi": "trèo lên"
+    }
+   ],
+   "audio": ""
+  },
+  {
+   "word": "climb down",
+   "sense": "admit wrong",
+   "pos": "phr.v.",
+   "register": "neutral",
+   "def_en": "To admit that you were wrong, for example in an argument.",
+   "ipa": "/ˌklaɪm ˈdaʊn/",
+   "def_vi": "Thừa nhận mình sai, ví dụ trong một cuộc tranh cãi.",
+   "gloss_vi": "chịu nhận sai, xuống nước",
+   "example": {
+    "en": "Molly hates losing an argument, so she will never <b>climb down</b>.",
+    "vi": "Molly ghét thua trong tranh cãi, nên cô ấy sẽ chẳng bao giờ <b>chịu xuống nước</b>."
+   },
+   "grammar_vi": "<i>climb down</i> (phr.v.) = nhận sai (nghĩa bóng). <b>Grammar</b>: Đây là phrasal verb <b>nội động từ</b>, không cần tân ngữ: <i>She refused to climb down</i>, nên không có dạng tách. Bài 7.4 (nghĩa bóng): Molly luôn muốn thắng tranh cãi – bạn sẽ không bao giờ khiến cô ấy chịu nhận sai. Đáp án 7.4: <i>climb down</i> trong tranh cãi = thừa nhận mình sai, giống như leo xuống để trở lại ngang hàng với người khác. <b>Collocations / chunks</b>: <i>get her to climb down</i> (khiến cô ấy chịu nhận sai). <b>Register</b>: trung tính, dùng được cả khi nói và viết. <b>Common mistakes</b>: hiểu theo nghĩa đen ‘trèo xuống’.",
+   "synonyms": [
+    {
+     "text": "back down",
+     "pos": "phr.v.",
+     "vi": "lùi bước"
+    },
+    {
+     "text": "admit you were wrong",
+     "pos": "phr.",
+     "vi": "nhận mình sai"
+    }
+   ],
+   "antonyms": [
+    {
+     "text": "stand firm",
+     "pos": "phr.",
+     "vi": "giữ vững lập trường"
+    }
+   ],
+   "audio": ""
+  },
+  {
+   "word": "warm up something",
+   "sense": "food",
+   "pos": "phr.v.",
+   "register": "neutral",
+   "def_en": "To make food that was cooked earlier hot again.",
+   "ipa": "/ˌwɔːm ˈʌp ˈsʌmθɪŋ/",
+   "def_vi": "Hâm nóng món ăn đã nấu sẵn.",
+   "gloss_vi": "hâm nóng (đồ ăn)",
+   "example": {
+    "en": "There’s some soup in the fridge that you can <b>warm up</b> when you get home.",
+    "vi": "Có ít súp trong tủ lạnh, về nhà bạn <b>hâm nóng</b> lên mà ăn."
+   },
+   "grammar_vi": "<i>warm up something</i> (phr.v.) = hâm lại. <b>Grammar</b>: Đây là phrasal verb <b>ngoại động từ</b> và <b>tách được</b>: tân ngữ đứng sau cả cụm (<i>warm up the soup</i>) hoặc giữa động từ và tiểu từ (<i>warm the soup up</i>); nếu tân ngữ là <b>đại từ</b> thì bắt buộc đặt giữa: <i>warm it up</i>. Bài 7.4 (nghĩa đen): tôi để phần súp cho bạn hâm nóng khi về nhà. Đáp án 7.4: hâm nóng đồ ăn và khuấy động khán giả đều có ý làm cho thứ gì dễ chịu hơn. Khác nghĩa ở unit 44 (khởi động cơ thể) và 54 (máy khởi động). <b>Collocations / chunks</b>: <i>soup which you can warm up</i> (súp bạn có thể hâm nóng). <b>Register</b>: trung tính, dùng được cả khi nói và viết. <b>Common mistakes</b>: đặt đại từ sau tiểu từ (<i>warm up it</i>).",
+   "synonyms": [
+    {
+     "text": "heat up",
+     "pos": "phr.v.",
+     "vi": "làm nóng"
+    },
+    {
+     "text": "reheat",
+     "pos": "v.",
+     "vi": "hâm lại"
+    }
+   ],
+   "antonyms": [
+    {
+     "text": "cool down",
+     "pos": "phr.v.",
+     "vi": "để nguội"
+    }
+   ],
+   "audio": ""
+  },
+  {
+   "word": "warm up somebody",
+   "sense": "audience",
+   "pos": "phr.v.",
+   "register": "neutral",
+   "def_en": "To entertain an audience for a short time before a show so that they start to enjoy themselves.",
+   "ipa": "/ˌwɔːm ˈʌp ˈsʌmbədi/",
+   "def_vi": "Giải trí cho khán giả một lúc trước buổi diễn để họ bắt đầu thấy vui.",
+   "gloss_vi": "khuấy động (khán giả)",
+   "example": {
+    "en": "Before the main programme, a brilliant singer <b>warmed</b> the audience <b>up</b>.",
+    "vi": "Trước chương trình chính, một ca sĩ xuất sắc đã <b>khuấy động</b> khán giả."
+   },
+   "grammar_vi": "<i>warm up somebody</i> (phr.v.) = làm nóng không khí. <b>Grammar</b>: Đây là phrasal verb <b>ngoại động từ</b> và <b>tách được</b>: tân ngữ đứng sau cả cụm (<i>warm up the audience</i>) hoặc giữa động từ và tiểu từ (<i>warm the audience up</i>); nếu tân ngữ là <b>đại từ</b> thì bắt buộc đặt giữa: <i>warm them up</i>. Bài 7.4 (nghĩa bóng): một ca sĩ tuyệt vời khuấy động khán giả trước chương trình chính. Đáp án 7.4: trong tiếng Anh lạnh = không thân thiện, ấm = thân thiện; khuấy động khán giả là làm họ cởi mở, thoải mái hơn (có thể bằng vài câu đùa). Danh từ <i>warm-up</i> (thẻ demo bài 3). <b>Collocations / chunks</b>: <i>warmed up the audience</i> (khuấy động khán giả). <b>Register</b>: trung tính, dùng được cả khi nói và viết. <b>Common mistakes</b>: đặt đại từ sau tiểu từ (<i>warm up them</i>).",
+   "synonyms": [
+    {
+     "text": "get the crowd going",
+     "pos": "phr.",
+     "vi": "làm khán giả hào hứng"
+    },
+    {
+     "text": "entertain",
+     "pos": "v.",
+     "vi": "giải trí"
+    }
+   ],
+   "antonyms": [
+    {
+     "text": "bore",
+     "pos": "v.",
+     "vi": "làm chán"
+    }
+   ],
+   "audio": ""
+  }
+ ]
+}

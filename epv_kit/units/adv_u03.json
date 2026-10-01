@@ -1,0 +1,253 @@
+{
+ "book": "adv",
+ "unit": 3,
+ "supplement": true,
+ "theory_html": " <hr> <p><b>Phrasal verb summary</b></p> <p><i>Tóm tắt phrasal verb trong bài</i></p> <table><thead><tr><th>Phrasal verb</th><th>Nghĩa</th><th>Example / Ví dụ</th></tr></thead><tbody><tr><td><b>break-in</b></td><td>vụ đột nhập</td><td>Police are looking into last night’s <b>break-in</b>, in which two office computers were stolen.<br><i>Cảnh sát đang điều tra <b>vụ đột nhập</b> đêm qua, trong đó hai máy tính văn phòng bị lấy mất.</i></td></tr><tr><td><b>downpour</b></td><td>trận mưa như trút</td><td>We were caught in a sudden <b>downpour</b> and got soaked.<br><i>Chúng tôi gặp một trận <b>mưa như trút</b> bất chợt và ướt sũng.</i></td></tr><tr><td><b>lift-off</b></td><td>lúc phóng (tàu vũ trụ)</td><td>The astronauts will be ready for <b>lift-off</b> early on Friday.<br><i>Các phi hành gia sẽ sẵn sàng cho <b>lúc phóng</b> sáng sớm thứ Sáu.</i></td></tr><tr><td><b>lookout</b></td><td>người canh gác</td><td>While the robbers were inside the bank, one gang member was the <b>lookout</b>.<br><i>Trong lúc bọn cướp ở trong ngân hàng, một tên trong băng làm <b>người canh gác</b>.</i></td></tr><tr><td><b>outbreak</b></td><td>sự bùng nổ, bùng phát</td><td>Few people foresaw how much the <b>outbreak</b> of war in 1914 would change Europe.<br><i>Ít ai lường trước sự <b>bùng nổ</b> chiến tranh năm 1914 sẽ thay đổi châu Âu nhiều đến thế.</i></td></tr><tr><td><b>outlook</b></td><td>triển vọng, viễn cảnh</td><td>With factory output rising, the economic <b>outlook</b> is much brighter this year.<br><i>Với sản lượng nhà máy tăng, <b>triển vọng</b> kinh tế năm nay sáng sủa hơn nhiều.</i></td></tr><tr><td><b>output</b></td><td>sản lượng</td><td>The factory is doing well because its <b>output</b> rose this year.<br><i>Nhà máy làm ăn tốt vì <b>sản lượng</b> năm nay tăng.</i></td></tr></tbody></table>",
+ "items": [
+  {
+   "word": "break-in",
+   "sense": "",
+   "pos": "n.",
+   "register": "neutral",
+   "def_en": "An occasion when someone gets into a building by force, usually to steal something.",
+   "ipa": "/ˈbreɪk ɪn/",
+   "def_vi": "Vụ ai đó dùng vũ lực đột nhập vào tòa nhà, thường để trộm.",
+   "gloss_vi": "vụ đột nhập",
+   "example": {
+    "en": "Police are looking into last night’s <b>break-in</b>, in which two office computers were stolen.",
+    "vi": "Cảnh sát đang điều tra <b>vụ đột nhập</b> đêm qua, trong đó hai máy tính văn phòng bị lấy mất."
+   },
+   "grammar_vi": "<i>break-in</i> (n.) = vụ đột nhập. <b>Grammar</b>: Danh từ đếm được, có gạch nối (tiểu từ <i>in</i> đứng sau – mục A), trọng âm âm đầu: <i>a break-in</i>. Bài 3.4: chọn <i>a break-in</i> (không phải <i>an in-break</i>) – văn phòng bị đột nhập, mất hai máy tính. Mẹo của sách: trọng âm luôn ở âm tiết đầu của danh từ phrasal. <b>Collocations / chunks</b>: <i>a break-in at our office</i> (vụ đột nhập ở văn phòng). <b>Register</b>: trung tính, dùng được cả khi nói và viết. <b>Common mistakes</b>: đảo vị trí tiểu từ (<i>an in-break</i>) – phương án sai trong bài 3.4.",
+   "synonyms": [
+    {
+     "text": "burglary",
+     "pos": "n.",
+     "vi": "vụ trộm"
+    },
+    {
+     "text": "robbery",
+     "pos": "n.",
+     "vi": "vụ cướp"
+    }
+   ],
+   "antonyms": [
+    {
+     "text": "security",
+     "pos": "n.",
+     "vi": "an ninh"
+    }
+   ],
+   "audio": ""
+  },
+  {
+   "word": "downpour",
+   "sense": "",
+   "pos": "n.",
+   "register": "neutral",
+   "def_en": "A sudden heavy fall of rain.",
+   "ipa": "/ˈdaʊnpɔː/",
+   "def_vi": "Một trận mưa to bất chợt.",
+   "gloss_vi": "trận mưa như trút",
+   "example": {
+    "en": "We were caught in a sudden <b>downpour</b> and got soaked.",
+    "vi": "Chúng tôi gặp một trận <b>mưa như trút</b> bất chợt và ướt sũng."
+   },
+   "grammar_vi": "<i>downpour</i> (n.) = mưa rào lớn. <b>Grammar</b>: Danh từ đếm được, viết liền (tiểu từ đứng trước nên không có gạch nối – mục A), trọng âm âm đầu. Bài 3.4: chọn <i>downpour</i> (không phải <i>pourdown</i>) – có trận mưa to bất chợt và mọi người ướt sũng. <b>Collocations / chunks</b>: <i>a sudden downpour</i> (trận mưa như trút bất chợt). <b>Register</b>: trung tính, dùng được cả khi nói và viết. <b>Common mistakes</b>: đảo vị trí (<i>pourdown</i>) – phương án sai trong bài 3.4.",
+   "synonyms": [
+    {
+     "text": "cloudburst",
+     "pos": "n.",
+     "vi": "mưa như trút"
+    },
+    {
+     "text": "heavy rain",
+     "pos": "n.",
+     "vi": "mưa to"
+    }
+   ],
+   "antonyms": [
+    {
+     "text": "drizzle",
+     "pos": "n.",
+     "vi": "mưa phùn"
+    }
+   ],
+   "audio": ""
+  },
+  {
+   "word": "lift-off",
+   "sense": "",
+   "pos": "n.",
+   "register": "neutral",
+   "def_en": "The instant at which a spacecraft rises from the launch pad.",
+   "ipa": "/ˈlɪft ɒf/",
+   "def_vi": "Khoảnh khắc tàu vũ trụ rời mặt đất.",
+   "gloss_vi": "lúc phóng (tàu vũ trụ)",
+   "example": {
+    "en": "The astronauts will be ready for <b>lift-off</b> early on Friday.",
+    "vi": "Các phi hành gia sẽ sẵn sàng cho <b>lúc phóng</b> sáng sớm thứ Sáu."
+   },
+   "grammar_vi": "<i>lift-off</i> (n.) = sự phóng lên. <b>Grammar</b>: Danh từ, có gạch nối (tiểu từ đứng sau), trọng âm âm đầu; thường dùng không mạo từ: <i>Lift-off is scheduled for …</i>. Bài 3.4: chọn <i>Lift-off</i> (không phải <i>Off-lift</i>) – giờ phóng lúc 7 giờ thứ Sáu, phi hành gia tới trạm vũ trụ cuối ngày. <b>Collocations / chunks</b>: <i>lift-off is scheduled for 07.00</i> (giờ phóng lúc 7 giờ). <b>Register</b>: trung tính, dùng được cả khi nói và viết. <b>Common mistakes</b>: đảo vị trí (<i>off-lift</i>) – phương án sai trong bài 3.4.",
+   "synonyms": [
+    {
+     "text": "launch",
+     "pos": "n.",
+     "vi": "vụ phóng"
+    },
+    {
+     "text": "take-off",
+     "pos": "n.",
+     "vi": "sự cất cánh"
+    }
+   ],
+   "antonyms": [
+    {
+     "text": "landing",
+     "pos": "n.",
+     "vi": "sự hạ cánh"
+    }
+   ],
+   "audio": ""
+  },
+  {
+   "word": "lookout",
+   "sense": "",
+   "pos": "n.",
+   "register": "neutral",
+   "def_en": "A person who watches what is happening around them, especially to look for any danger.",
+   "ipa": "/ˈlʊkaʊt/",
+   "def_vi": "Người quan sát xung quanh, nhất là để canh chừng nguy hiểm.",
+   "gloss_vi": "người canh gác",
+   "example": {
+    "en": "While the robbers were inside the bank, one gang member was the <b>lookout</b>.",
+    "vi": "Trong lúc bọn cướp ở trong ngân hàng, một tên trong băng làm <b>người canh gác</b>."
+   },
+   "grammar_vi": "<i>lookout</i> (n.) = người canh chừng. <b>Grammar</b>: Danh từ đếm được, viết liền, trọng âm âm đầu; hay đi với <i>act as / stand as a lookout</i>. Bài 3.4: chọn <i>lookout</i> (không phải <i>outlook</i>) – một tên cướp đứng canh trong lúc đồng bọn cướp ngân hàng. <b>Collocations / chunks</b>: <i>acted as lookout</i> (đứng canh gác). <b>Register</b>: trung tính, dùng được cả khi nói và viết. <b>Common mistakes</b>: nhầm với <i>outlook</i> (triển vọng) – phương án sai trong bài 3.4.",
+   "synonyms": [
+    {
+     "text": "guard",
+     "pos": "n.",
+     "vi": "người gác"
+    },
+    {
+     "text": "watchman",
+     "pos": "n.",
+     "vi": "người canh"
+    }
+   ],
+   "antonyms": [
+    {
+     "text": "intruder",
+     "pos": "n.",
+     "vi": "kẻ đột nhập"
+    }
+   ],
+   "audio": ""
+  },
+  {
+   "word": "outbreak",
+   "sense": "",
+   "pos": "n.",
+   "register": "neutral",
+   "def_en": "The sudden start of something, especially something unpleasant such as war or disease.",
+   "ipa": "/ˈaʊtbreɪk/",
+   "def_vi": "Sự bắt đầu đột ngột của điều gì, nhất là điều tồi tệ như chiến tranh hay dịch bệnh.",
+   "gloss_vi": "sự bùng nổ, bùng phát",
+   "example": {
+    "en": "Few people foresaw how much the <b>outbreak</b> of war in 1914 would change Europe.",
+    "vi": "Ít ai lường trước sự <b>bùng nổ</b> chiến tranh năm 1914 sẽ thay đổi châu Âu nhiều đến thế."
+   },
+   "grammar_vi": "<i>outbreak</i> (n.) = sự bùng phát. <b>Grammar</b>: Danh từ đếm được, viết liền, trọng âm âm đầu; hay đi với <i>of</i>: <i>the outbreak of war</i>. Bài 3.4: chọn <i>outbreak</i> (không phải <i>breakout</i>) – chiến tranh bùng nổ năm 1914. Mini dictionary unit 3 ghi nhầm nghĩa này dưới mục <i>breakout</i>; <i>breakout</i> = vượt ngục (unit 1). <b>Collocations / chunks</b>: <i>the outbreak of war</i> (chiến tranh bùng nổ). <b>Register</b>: trung tính, dùng được cả khi nói và viết. <b>Common mistakes</b>: nhầm với <i>breakout</i> (vượt ngục) – phương án sai trong bài 3.4.",
+   "synonyms": [
+    {
+     "text": "start",
+     "pos": "n.",
+     "vi": "sự bắt đầu"
+    },
+    {
+     "text": "eruption",
+     "pos": "n.",
+     "vi": "sự bùng nổ"
+    }
+   ],
+   "antonyms": [
+    {
+     "text": "end",
+     "pos": "n.",
+     "vi": "sự kết thúc"
+    }
+   ],
+   "audio": ""
+  },
+  {
+   "word": "outlook",
+   "sense": "",
+   "pos": "n.",
+   "register": "neutral",
+   "def_en": "The situation that is likely to exist in the future.",
+   "ipa": "/ˈaʊtlʊk/",
+   "def_vi": "Tình hình có khả năng xảy ra trong tương lai.",
+   "gloss_vi": "triển vọng, viễn cảnh",
+   "example": {
+    "en": "With factory output rising, the economic <b>outlook</b> is much brighter this year.",
+    "vi": "Với sản lượng nhà máy tăng, <b>triển vọng</b> kinh tế năm nay sáng sủa hơn nhiều."
+   },
+   "grammar_vi": "<i>outlook</i> (n.) = viễn cảnh tương lai. <b>Grammar</b>: Danh từ (thường số ít, đi với <i>the</i>), viết liền vì tiểu từ đứng trước (mục A), trọng âm âm đầu như mọi danh từ phrasal. Trong bài 3.4, <i>outlook</i> chỉ xuất hiện như phương án sai (đáp án là <i>lookout</i>); nghĩa lấy từ Mini dictionary unit 3, ví dụ trên thẻ do kit đặt. <b>Collocations / chunks</b>: <i>the outlook</i> (triển vọng). <b>Register</b>: trung tính, dùng được cả khi nói và viết. <b>Common mistakes</b>: nhầm với <i>lookout</i> (người canh gác).",
+   "synonyms": [
+    {
+     "text": "prospects",
+     "pos": "n.",
+     "vi": "triển vọng"
+    },
+    {
+     "text": "future",
+     "pos": "n.",
+     "vi": "tương lai"
+    }
+   ],
+   "antonyms": [
+    {
+     "text": "past",
+     "pos": "n.",
+     "vi": "quá khứ"
+    }
+   ],
+   "audio": ""
+  },
+  {
+   "word": "output",
+   "sense": "",
+   "pos": "n.",
+   "register": "neutral",
+   "def_en": "How much a worker, machine, factory or country produces.",
+   "ipa": "/ˈaʊtpʊt/",
+   "def_vi": "Lượng thứ gì do một người, máy móc, nhà máy hay quốc gia sản xuất ra.",
+   "gloss_vi": "sản lượng",
+   "example": {
+    "en": "The factory is doing well because its <b>output</b> rose this year.",
+    "vi": "Nhà máy làm ăn tốt vì <b>sản lượng</b> năm nay tăng."
+   },
+   "grammar_vi": "<i>output</i> (n.) = sản lượng. <b>Grammar</b>: Danh từ (thường không đếm được), viết liền, trọng âm âm đầu; đối lập với <i>input</i> (thẻ demo bài 3). Bài 3.4: chọn <i>Output</i> (không phải <i>Putout</i>) – sản lượng tăng và nhà máy làm ăn tốt. <b>Collocations / chunks</b>: <i>output has increased</i> (sản lượng tăng). <b>Register</b>: trung tính, dùng được cả khi nói và viết. <b>Common mistakes</b>: đảo vị trí (<i>putout</i>) – phương án sai trong bài 3.4.",
+   "synonyms": [
+    {
+     "text": "production",
+     "pos": "n.",
+     "vi": "sản xuất"
+    },
+    {
+     "text": "yield",
+     "pos": "n.",
+     "vi": "sản lượng"
+    }
+   ],
+   "antonyms": [
+    {
+     "text": "input",
+     "pos": "n.",
+     "vi": "đầu vào"
+    }
+   ],
+   "audio": ""
+  }
+ ]
+}

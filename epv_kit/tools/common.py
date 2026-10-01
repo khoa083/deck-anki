@@ -72,3 +72,9 @@ def NOTE(en, vi):
 def T(rows, head=("Phrasal verb", "Meaning in this text", "Nghĩa trong bài")):
     """Bảng lý thuyết bám sách: rows = [(phrasal verb, nghĩa en diễn đạt lại, nghĩa vi)]."""
     return table([head[0], head[1]], [head[0], head[2]], [(pv, "", en, vi) for pv, en, vi in rows])
+
+def save_supp(book, unit, items):
+    """Unit bổ sung cho demo (Advanced 1–15): chỉ thêm thẻ, dùng lý thuyết của demo (build gắn tag EPV::bosung_ban2)."""
+    out = os.path.join(_KIT, "units", f"{book}_u{unit:02d}.json")
+    json.dump({"book": book, "unit": unit, "supplement": True, "theory_html": "", "items": items}, open(out, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    print("saved (supplement)", out, len(items), "items")

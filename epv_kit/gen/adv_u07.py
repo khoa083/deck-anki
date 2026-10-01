@@ -1,0 +1,38 @@
+exec(open('tools/common.py').read())
+# BỔ SUNG cho demo unit 7 Meaning and metaphor (bản 2): bài 7.4 (nghĩa đen – nghĩa bóng) có trong Mini dictionary unit 7 mà demo chưa có thẻ.
+# Bám sách: trang 18–19 (đã xem ảnh trang 19) + đáp án 7.4 + Mini dictionary. Không chép nguyên văn.
+items = [
+ I("climb down", "phr.v.", "neutral", "To go back down to the ground from somewhere high, such as a tree.", "/ˌklaɪm ˈdaʊn/",
+   "Leo xuống lại mặt đất từ chỗ cao, như từ trên cây.", "trèo xuống",
+   "The cat got up the tree easily but then couldn’t <b>climb down</b>.", "Con mèo trèo lên cây dễ dàng nhưng rồi không <b>trèo xuống</b> được.",
+   G("climb down", "phr.v.", "leo xuống (nghĩa đen)", INT("The cat couldn’t climb down") + " Thêm <i>from</i> + nơi: <i>climb down from a tree</i>.",
+     "Bài 7.4 (nghĩa đen): con mèo lên được cây nhưng không trèo xuống được. Đáp án 7.4: cả hai nghĩa của <i>climb down</i> đều gợi ý trở về ngang hàng với người khác từ một vị trí tách biệt.",
+     "<i>couldn’t climb down</i> (không trèo xuống được)", "neutral",
+     "dùng <i>climb off</i> cho cây (sách dùng <i>climb down</i>)."),
+   [S("get down", "phr.v.", "xuống"), S("descend", "v.", "đi xuống")], [S("climb up", "phr.v.", "trèo lên")], sense="literal"),
+ I("climb down", "phr.v.", "neutral", "To admit that you were wrong, for example in an argument.", "/ˌklaɪm ˈdaʊn/",
+   "Thừa nhận mình sai, ví dụ trong một cuộc tranh cãi.", "chịu nhận sai, xuống nước",
+   "Molly hates losing an argument, so she will never <b>climb down</b>.", "Molly ghét thua trong tranh cãi, nên cô ấy sẽ chẳng bao giờ <b>chịu xuống nước</b>.",
+   G("climb down", "phr.v.", "nhận sai (nghĩa bóng)", INT("She refused to climb down"),
+     "Bài 7.4 (nghĩa bóng): Molly luôn muốn thắng tranh cãi – bạn sẽ không bao giờ khiến cô ấy chịu nhận sai. Đáp án 7.4: <i>climb down</i> trong tranh cãi = thừa nhận mình sai, giống như leo xuống để trở lại ngang hàng với người khác.",
+     "<i>get her to climb down</i> (khiến cô ấy chịu nhận sai)", "neutral",
+     "hiểu theo nghĩa đen ‘trèo xuống’."),
+   [S("back down", "phr.v.", "lùi bước"), S("admit you were wrong", "phr.", "nhận mình sai")], [S("stand firm", "phr.", "giữ vững lập trường")], sense="admit wrong"),
+ I("warm up something", "phr.v.", "neutral", "To make food that was cooked earlier hot again.", "/ˌwɔːm ˈʌp ˈsʌmθɪŋ/",
+   "Hâm nóng món ăn đã nấu sẵn.", "hâm nóng (đồ ăn)",
+   "There’s some soup in the fridge that you can <b>warm up</b> when you get home.", "Có ít súp trong tủ lạnh, về nhà bạn <b>hâm nóng</b> lên mà ăn.",
+   G("warm up something", "phr.v.", "hâm lại", SEP("warm up the soup", "warm the soup up", "warm it up"),
+     "Bài 7.4 (nghĩa đen): tôi để phần súp cho bạn hâm nóng khi về nhà. Đáp án 7.4: hâm nóng đồ ăn và khuấy động khán giả đều có ý làm cho thứ gì dễ chịu hơn. Khác nghĩa ở unit 44 (khởi động cơ thể) và 54 (máy khởi động).",
+     "<i>soup which you can warm up</i> (súp bạn có thể hâm nóng)", "neutral",
+     "đặt đại từ sau tiểu từ (<i>warm up it</i>)."),
+   [S("heat up", "phr.v.", "làm nóng"), S("reheat", "v.", "hâm lại")], [S("cool down", "phr.v.", "để nguội")], sense="food"),
+ I("warm up somebody", "phr.v.", "neutral", "To entertain an audience for a short time before a show so that they start to enjoy themselves.", "/ˌwɔːm ˈʌp ˈsʌmbədi/",
+   "Giải trí cho khán giả một lúc trước buổi diễn để họ bắt đầu thấy vui.", "khuấy động (khán giả)",
+   "Before the main programme, a brilliant singer <b>warmed</b> the audience <b>up</b>.", "Trước chương trình chính, một ca sĩ xuất sắc đã <b>khuấy động</b> khán giả.",
+   G("warm up somebody", "phr.v.", "làm nóng không khí", SEP("warm up the audience", "warm the audience up", "warm them up"),
+     "Bài 7.4 (nghĩa bóng): một ca sĩ tuyệt vời khuấy động khán giả trước chương trình chính. Đáp án 7.4: trong tiếng Anh lạnh = không thân thiện, ấm = thân thiện; khuấy động khán giả là làm họ cởi mở, thoải mái hơn (có thể bằng vài câu đùa). Danh từ <i>warm-up</i> (thẻ demo bài 3).",
+     "<i>warmed up the audience</i> (khuấy động khán giả)", "neutral",
+     "đặt đại từ sau tiểu từ (<i>warm up them</i>)."),
+   [S("get the crowd going", "phr.", "làm khán giả hào hứng"), S("entertain", "v.", "giải trí")], [S("bore", "v.", "làm chán")], sense="audience"),
+]
+save_supp("adv", 7, items)

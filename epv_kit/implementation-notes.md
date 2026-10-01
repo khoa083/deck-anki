@@ -3,7 +3,7 @@
 ## Tiến độ
 | Sách | Có sẵn | Còn làm |
 |---|---|---|
-| Advanced (60) | unit 1–15 (demo) + *New phrasal verbs* (bản 1) + **16–20** (lượt 1) + **21–25** (lượt 2) + **26–30** (lượt 3) + **31–35** (lượt 4) + **36–40** (lượt 5) + **41–45** (lượt 6) + **46–50** (lượt 7) + **51–55** (lượt 8) + **56–60** (lượt 9) | bổ sung mục thiếu cho 1–15 |
+| Advanced (60) | unit 1–15 (demo) + *New phrasal verbs* (bản 1) + **16–20** (lượt 1) + **21–25** (lượt 2) + **26–30** (lượt 3) + **31–35** (lượt 4) + **36–40** (lượt 5) + **41–45** (lượt 6) + **46–50** (lượt 7) + **51–55** (lượt 8) + **56–60** (lượt 9) + **bổ sung 1–15** (lượt 10) | – (xong) |
 | Intermediate (70) | – | 1–70 |
 
 | Lượt | Unit | Số thẻ | Ghi chú |
@@ -18,6 +18,7 @@
 | 7 | Adv 46–50 | 96 mục / 192 thẻ + 5 note lý thuyết + 96 audio | build 1029 note / 2006 thẻ, 0 bad renders, audio 630/630 |
 | 8 | Adv 51–55 | 92 mục / 184 thẻ + 5 note lý thuyết + 92 audio | build 1126 note / 2195 thẻ, 0 bad renders, audio 722/722 |
 | 9 | Adv 56–60 | 66 mục / 132 thẻ + 5 note lý thuyết + 66 audio | build 1197 note / 2332 thẻ, 0 bad renders, audio 788/788 |
+| 10 | Adv bổ sung 1–15 | 44 mục / 88 thẻ + 44 audio (dùng lý thuyết demo) | build 1241 note / 2420 thẻ, 0 bad renders, audio 832/832 |
 
 ## Quyết định (xem PROMPT.md §3)
 D1 thứ tự Adv 16→60 → bổ sung demo → Int 1→70 · D2 IPA chuẩn Anh (config.ipa_style) · D3 1 deck gốc `English Phrasal Verbs in Use` → `Advanced`/`Intermediate` · D4 thẻ demo chỉ có ở bản 1: giữ + tag `EPV::demo_ban1` · D5 audio **bắt buộc**: Kokoro TTS offline, giọng Anh–Anh nam `bm_george` (sửa từ lượt 1c; trước đó để trống) · D6 chọn mục theo Mini dictionary + cụm in đậm.
@@ -150,6 +151,13 @@ D1 thứ tự Adv 16→60 → bổ sung demo → Int 1→70 · D2 IPA chuẩn An
 - Không có ngữ cảnh trên trang (ví dụ do kit đặt): `take off something` (nghỉ làm – Mini u60), `take out` (tiêu diệt – chỉ có định nghĩa). `coming in` (công nghệ mới xuất hiện, u56) in đậm nhưng không có chú thích/Mini → chỉ nhắc trong lý thuyết.
 - Sửa phát âm TTS: *go after* (BATH /ɑː/), *take-off* (trọng âm danh từ).
 
+**Lượt 10 (bổ sung Advanced 1–15 cho demo)**
+- Đối chiếu Mini dictionary bản 2 của từng unit 1–15 với thẻ demo và thẻ các unit khác (heuristic + đọc tay). File `units/adv_uNN.json` có `"supplement": true` → không tạo note lý thuyết, thẻ dùng lý thuyết của demo, tag `EPV::bosung_ban2`, nằm đúng deck unit của demo (đã kiểm tên deck 15/15). Helper `save_supp()` trong `tools/common.py`.
+- Bổ sung: u1 (9) `breakaway, breakout, come along, cover-up, hold down, hold out for, lockout, shake-up, shutdown`; u3 (7) `break-in, downpour, lift-off, lookout, outbreak, outlook, output`; u4 (4) `fallback, left out, outstretched, worked up`; u6 (9) `ask out, back up, go into, hack into, log in, sell up, sum up (tóm tắt), take on, take over (công ty)`; u7 (4) `climb down` ×2, `warm up` ×2 (đồ ăn / khán giả); u8 (1) `wake up to the fact` (bản 2 thay *wake up and smell the coffee*); u9 (6) `blunder about, crowd around, knock somebody about, knock something about, roll about, turn around (doanh nghiệp)`; u10 (1) `take down` (ghi chép); u14 (3) `cry out, scream out, shout out`.
+- Không bổ sung vì đã có thẻ cùng nghĩa: u2 (`catch up on`, `look forward to`), u5 (tất cả), u6 `scroll up/down` (demo bài bản 1), `be asking for`, `be gunning for`, `hang around`…; u7 `nose around`, `drag yourself away`, `brush off/down`; u11 `fit in with`; u15 `prop yourself up`; các mục Mini ghi cho unit sau (bail out, put out, print off, go over to, water down, send in, walk out, wear out, work out…) đã làm ở unit sau.
+- **Ghi chú nguồn**: thẻ demo `hold out` (u1) dùng câu *England holds out for a draw* nhưng định nghĩa ‘cầm cự’ – Mini bản 2 xếp câu này vào `hold out for` → thêm thẻ `hold out for`, giữ thẻ demo (xem Todo). Mini u3 định nghĩa `breakout` bằng nghĩa của *outbreak* (đáp án 3.4 chọn *outbreak*) → không làm thẻ `breakout` nghĩa đó. Mini u9 `knock sth about` = ‘cân nhắc ý tưởng’ nhưng câu gợi ý Over to you dùng nghĩa ‘đá bóng qua lại’ → thẻ theo Mini, ghi chú nghĩa kia. Ví dụ do kit đặt (sách chỉ có tên bài hát/phim hoặc định nghĩa): `come along`, `hold down`, `outlook`, `hack into`, `log in`, `sell up`, `take over`, `knock somebody/something about`, `take down`.
+- Sửa phát âm TTS: *cover-up, shake-up, break-in, lift-off* (trọng âm danh từ), *ask out* (BATH /ɑː/).
+
 ## Kiểm trôi
 - Lượt 9: kiểm u28 (ngẫu nhiên). **Lệch hệ thống như u31**: 13/19 ví dụ đặt bối cảnh tự nghĩ (thợ làm hỏng bếp, đàm phán công đoàn đổ vỡ, khách kẹt vì đình công sân bay, fan không có cúp, báo cáo đầy lỗi…) thay vì chuyện của Kate (bị dọa cắt giảm, con gái chia tay, con trai kẹt ở Phrasalia, chị gái Leo bị ung thư) và lời khuyên của Annette Berg → viết lại cả 13. **Kết luận: các lượt 2–6 viết ví dụ ‘theo nghĩa’ nhiều hơn ‘theo ngữ cảnh sách’; bước kiểm trôi cuối phải soát toàn bộ ví dụ Adv 16–45** (danh sách ưu tiên từ `tools/context_score.py`).
 - Lượt 8: kiểm u18 (ngẫu nhiên) – Bethany/Toby/George mục A, hội thoại Rory/Maya bài 18.2 khớp. Sửa 2 ví dụ: `store up` (câu cũ ‘bà tích trữ hàng trăm câu chuyện gia đình’ không có trong sách → Rory: kỷ niệm đẹp mới nên cất giữ), `block out` (câu cũ gọi là ‘vụ đánh nhau’ → cảnh anh trai Anna buộc tội, xô đẩy Rory).
@@ -162,6 +170,7 @@ D1 thứ tự Adv 16→60 → bổ sung demo → Int 1→70 · D2 IPA chuẩn An
 - Lượt 1b: kiểm u16 và u20 với src – bối cảnh 'Trong bài' đúng (sửa: u16 người nói là người của trường, sách không nói là hiệu trưởng → đã sửa; ví dụ u16 *hold over* bỏ chi tiết 'tháng Bảy' không có trong sách; u17 *put down to* sửa cho khớp thư của Ms Johnson). Dạng tách/không tách, register khớp Mini dictionary.
 
 ## Todo for human
+- (lượt 10) Thẻ demo `hold out` (u1): định nghĩa ‘cầm cự’ nhưng ví dụ *England holds out for a draw* thuộc nghĩa `hold out for` (đã thêm thẻ riêng). Sửa ví dụ thẻ demo không?
 - (lượt 9) `take off something` (nghỉ làm) và `take out` (tiêu diệt) ở u60 không có câu ngữ cảnh trong sách – ví dụ do kit đặt. Giữ hay bỏ?
 - (lượt 8) `water down` nghĩa ‘làm nhẹ ý kiến/kế hoạch’ (u55): trang chỉ nhắc trong Tip, ví dụ do kit đặt. Giữ hay bỏ?
 - (lượt 6) Tính từ `done in`, `wiped out`, `burnt-out` và danh từ `burnout` (u43) đang gộp vào thẻ động từ. Muốn làm thẻ riêng cho từng dạng không?

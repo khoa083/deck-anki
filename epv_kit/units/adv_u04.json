@@ -1,0 +1,148 @@
+{
+ "book": "adv",
+ "unit": 4,
+ "supplement": true,
+ "theory_html": " <hr> <p><b>Phrasal verb summary</b></p> <p><i>Tóm tắt phrasal verb trong bài</i></p> <table><thead><tr><th>Phrasal verb</th><th>Nghĩa</th><th>Example / Ví dụ</th></tr></thead><tbody><tr><td><b>fallback</b></td><td>dự phòng</td><td>In case the union rejects our offer, we need a <b>fallback</b> position.<br><i>Phòng khi công đoàn bác đề nghị của ta, ta cần một lập trường <b>dự phòng</b>.</i></td></tr><tr><td><b>left out</b></td><td>bị bỏ rơi, bị ra rìa</td><td>Whenever her brother has friends over, Clara ends up feeling <b>left out</b>.<br><i>Hễ anh trai có bạn đến chơi là Clara lại thấy mình <b>bị ra rìa</b>.</i></td></tr><tr><td><b>outstretched</b></td><td>dang rộng (tay)</td><td>Zack was waiting at the airport with <b>outstretched</b> arms, ready to hug me.<br><i>Zack đợi ở sân bay với vòng tay <b>dang rộng</b>, sẵn sàng ôm tôi.</i></td></tr><tr><td><b>worked up</b></td><td>kích động, cuống lên</td><td>Calm down – it isn’t worth getting <b>worked up</b> about such a small problem.<br><i>Bình tĩnh nào – chuyện nhỏ thế này đâu đáng để <b>cuống lên</b>.</i></td></tr></tbody></table>",
+ "items": [
+  {
+   "word": "fallback",
+   "sense": "",
+   "pos": "adj.",
+   "register": "neutral",
+   "def_en": "A fallback position or plan is one you use when other things have failed or there is no other choice.",
+   "ipa": "/ˈfɔːlbæk/",
+   "def_vi": "Một lập trường hay kế hoạch dự phòng là cái bạn dùng khi mọi cách khác thất bại hoặc không còn lựa chọn nào.",
+   "gloss_vi": "dự phòng",
+   "example": {
+    "en": "In case the union rejects our offer, we need a <b>fallback</b> position.",
+    "vi": "Phòng khi công đoàn bác đề nghị của ta, ta cần một lập trường <b>dự phòng</b>."
+   },
+   "grammar_vi": "<i>fallback</i> (adj.) = phương án lùi. <b>Grammar</b>: Tính từ viết liền, đứng trước danh từ: <i>a fallback position/plan</i>; liên quan động từ <i>fall back on</i> (unit 28). Trọng âm âm đầu. Bài 4.5: nếu công đoàn không chấp nhận điều kiện, ta có lập trường dự phòng nào? Đáp án gợi ý: lập trường ta sẽ chấp nhận nếu không đạt mục tiêu chính. <b>Collocations / chunks</b>: <i>our fallback position</i> (lập trường dự phòng của ta). <b>Register</b>: trung tính, dùng được cả khi nói và viết. <b>Common mistakes</b>: viết tách (<i>fall back position</i>).",
+   "synonyms": [
+    {
+     "text": "back-up",
+     "pos": "adj.",
+     "vi": "dự phòng"
+    },
+    {
+     "text": "alternative",
+     "pos": "adj.",
+     "vi": "thay thế"
+    }
+   ],
+   "antonyms": [
+    {
+     "text": "main",
+     "pos": "adj.",
+     "vi": "chính"
+    }
+   ],
+   "audio": ""
+  },
+  {
+   "word": "left out",
+   "sense": "",
+   "pos": "adj.",
+   "register": "neutral",
+   "def_en": "Feeling sad because others have not let you join in what they are doing or talking about.",
+   "ipa": "/ˌleft ˈaʊt/",
+   "def_vi": "Nếu ai thấy ‘left out’, họ buồn vì không được cho tham gia hoạt động hay câu chuyện.",
+   "gloss_vi": "bị bỏ rơi, bị ra rìa",
+   "example": {
+    "en": "Whenever her brother has friends over, Clara ends up feeling <b>left out</b>.",
+    "vi": "Hễ anh trai có bạn đến chơi là Clara lại thấy mình <b>bị ra rìa</b>."
+   },
+   "grammar_vi": "<i>left out</i> (adj.) = bị gạt ra ngoài. <b>Grammar</b>: Tính từ, thường đứng sau <i>feel</i>: <i>feel left out</i>; liên quan động từ <i>leave out</i> (bỏ ra ngoài). Bài 4.5: Clara luôn thấy bị bỏ rơi khi bạn của anh trai đến chơi. Đáp án gợi ý thay bằng <i>ignored / lonely</i>. <b>Collocations / chunks</b>: <i>feels left out</i> (cảm thấy bị bỏ rơi). <b>Register</b>: trung tính, dùng được cả khi nói và viết. <b>Common mistakes</b>: dùng <i>left over</i> (còn thừa) thay cho <i>left out</i>.",
+   "synonyms": [
+    {
+     "text": "ignored",
+     "pos": "adj.",
+     "vi": "bị phớt lờ"
+    },
+    {
+     "text": "lonely",
+     "pos": "adj.",
+     "vi": "cô đơn"
+    }
+   ],
+   "antonyms": [
+    {
+     "text": "included",
+     "pos": "adj.",
+     "vi": "được hòa vào"
+    }
+   ],
+   "audio": ""
+  },
+  {
+   "word": "outstretched",
+   "sense": "",
+   "pos": "adj.",
+   "register": "neutral",
+   "def_en": "Used about arms reaching forward from the body, often to welcome or hug someone.",
+   "ipa": "/ˌaʊtˈstretʃt/",
+   "def_vi": "Nếu tay ai ‘outstretched’, chúng được dang ra phía trước, thường để đón ai.",
+   "gloss_vi": "dang rộng (tay)",
+   "example": {
+    "en": "Zack was waiting at the airport with <b>outstretched</b> arms, ready to hug me.",
+    "vi": "Zack đợi ở sân bay với vòng tay <b>dang rộng</b>, sẵn sàng ôm tôi."
+   },
+   "grammar_vi": "<i>outstretched</i> (adj.) = giang ra. <b>Grammar</b>: Tính từ, đứng trước danh từ (<i>outstretched arms/hands</i>) hoặc sau: <i>with arms outstretched</i>. Bài 4.5: Zack đón tôi ở sân bay với vòng tay dang rộng. Đáp án gợi ý: tay mở rộng sẵn sàng ôm. <b>Collocations / chunks</b>: <i>with outstretched arms</i> (với vòng tay dang rộng). <b>Register</b>: trung tính, dùng được cả khi nói và viết. <b>Common mistakes</b>: đảo vị trí (<i>stretched-out arms</i> không phải dạng sách dạy).",
+   "synonyms": [
+    {
+     "text": "open wide",
+     "pos": "phr.",
+     "vi": "mở rộng"
+    },
+    {
+     "text": "extended",
+     "pos": "adj.",
+     "vi": "đưa ra"
+    }
+   ],
+   "antonyms": [
+    {
+     "text": "folded",
+     "pos": "adj.",
+     "vi": "khoanh lại"
+    }
+   ],
+   "audio": ""
+  },
+  {
+   "word": "worked up",
+   "sense": "",
+   "pos": "adj.",
+   "register": "neutral",
+   "def_en": "Very agitated – upset, anxious or excited – about something.",
+   "ipa": "/ˌwɜːkt ˈʌp/",
+   "def_vi": "Nếu bạn ‘worked up’, bạn rất bực bội, lo lắng hoặc kích động về điều gì.",
+   "gloss_vi": "kích động, cuống lên",
+   "example": {
+    "en": "Calm down – it isn’t worth getting <b>worked up</b> about such a small problem.",
+    "vi": "Bình tĩnh nào – chuyện nhỏ thế này đâu đáng để <b>cuống lên</b>."
+   },
+   "grammar_vi": "<i>worked up</i> (adj.) = bị kích động. <b>Grammar</b>: Tính từ, thường đi với <i>get</i> hoặc <i>be</i>: <i>get worked up about something</i>; Mini dictionary viết cả dạng có gạch nối <i>worked-up</i>. Bài 4.5: bạn không nên cuống lên vì từng chuyện nhỏ. Đáp án gợi ý thay bằng <i>upset / in such a state</i>. Liên quan <i>work yourself into</i> (unit 41). <b>Collocations / chunks</b>: <i>get so worked up about every little thing</i> (cuống lên vì từng chuyện nhỏ). <b>Register</b>: trung tính, dùng được cả khi nói và viết. <b>Common mistakes</b>: dùng <i>working up</i> (dạng V-ing) thay cho tính từ <i>worked up</i>.",
+   "synonyms": [
+    {
+     "text": "upset",
+     "pos": "adj.",
+     "vi": "bực bội"
+    },
+    {
+     "text": "agitated",
+     "pos": "adj.",
+     "vi": "bồn chồn"
+    }
+   ],
+   "antonyms": [
+    {
+     "text": "calm",
+     "pos": "adj.",
+     "vi": "bình tĩnh"
+    }
+   ],
+   "audio": ""
+  }
+ ]
+}

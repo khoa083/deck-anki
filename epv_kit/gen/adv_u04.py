@@ -1,0 +1,38 @@
+exec(open('tools/common.py').read())
+# BỔ SUNG cho demo unit 4 (bản 2): tính từ phrasal của bài 4.5 có trong Mini dictionary unit 4 mà demo chưa có thẻ.
+# Bám sách: trang 12–13, bài 4.5 + đáp án + Mini dictionary. Không chép nguyên văn.
+items = [
+ I("fallback", "adj.", "neutral", "A fallback position or plan is one you use when other things have failed or there is no other choice.", "/ˈfɔːlbæk/",
+   "Một lập trường hay kế hoạch dự phòng là cái bạn dùng khi mọi cách khác thất bại hoặc không còn lựa chọn nào.", "dự phòng",
+   "In case the union rejects our offer, we need a <b>fallback</b> position.", "Phòng khi công đoàn bác đề nghị của ta, ta cần một lập trường <b>dự phòng</b>.",
+   G("fallback", "adj.", "phương án lùi", "Tính từ viết liền, đứng trước danh từ: <i>a fallback position/plan</i>; liên quan động từ <i>fall back on</i> (unit 28). Trọng âm âm đầu.",
+     "Bài 4.5: nếu công đoàn không chấp nhận điều kiện, ta có lập trường dự phòng nào? Đáp án gợi ý: lập trường ta sẽ chấp nhận nếu không đạt mục tiêu chính.",
+     "<i>our fallback position</i> (lập trường dự phòng của ta)", "neutral",
+     "viết tách (<i>fall back position</i>)."),
+   [S("back-up", "adj.", "dự phòng"), S("alternative", "adj.", "thay thế")], [S("main", "adj.", "chính")]),
+ I("left out", "adj.", "neutral", "Feeling sad because others have not let you join in what they are doing or talking about.", "/ˌleft ˈaʊt/",
+   "Nếu ai thấy ‘left out’, họ buồn vì không được cho tham gia hoạt động hay câu chuyện.", "bị bỏ rơi, bị ra rìa",
+   "Whenever her brother has friends over, Clara ends up feeling <b>left out</b>.", "Hễ anh trai có bạn đến chơi là Clara lại thấy mình <b>bị ra rìa</b>.",
+   G("left out", "adj.", "bị gạt ra ngoài", "Tính từ, thường đứng sau <i>feel</i>: <i>feel left out</i>; liên quan động từ <i>leave out</i> (bỏ ra ngoài).",
+     "Bài 4.5: Clara luôn thấy bị bỏ rơi khi bạn của anh trai đến chơi. Đáp án gợi ý thay bằng <i>ignored / lonely</i>.",
+     "<i>feels left out</i> (cảm thấy bị bỏ rơi)", "neutral",
+     "dùng <i>left over</i> (còn thừa) thay cho <i>left out</i>."),
+   [S("ignored", "adj.", "bị phớt lờ"), S("lonely", "adj.", "cô đơn")], [S("included", "adj.", "được hòa vào")]),
+ I("outstretched", "adj.", "neutral", "Used about arms reaching forward from the body, often to welcome or hug someone.", "/ˌaʊtˈstretʃt/",
+   "Nếu tay ai ‘outstretched’, chúng được dang ra phía trước, thường để đón ai.", "dang rộng (tay)",
+   "Zack was waiting at the airport with <b>outstretched</b> arms, ready to hug me.", "Zack đợi ở sân bay với vòng tay <b>dang rộng</b>, sẵn sàng ôm tôi.",
+   G("outstretched", "adj.", "giang ra", "Tính từ, đứng trước danh từ (<i>outstretched arms/hands</i>) hoặc sau: <i>with arms outstretched</i>.",
+     "Bài 4.5: Zack đón tôi ở sân bay với vòng tay dang rộng. Đáp án gợi ý: tay mở rộng sẵn sàng ôm.",
+     "<i>with outstretched arms</i> (với vòng tay dang rộng)", "neutral",
+     "đảo vị trí (<i>stretched-out arms</i> không phải dạng sách dạy)."),
+   [S("open wide", "phr.", "mở rộng"), S("extended", "adj.", "đưa ra")], [S("folded", "adj.", "khoanh lại")]),
+ I("worked up", "adj.", "neutral", "Very agitated – upset, anxious or excited – about something.", "/ˌwɜːkt ˈʌp/",
+   "Nếu bạn ‘worked up’, bạn rất bực bội, lo lắng hoặc kích động về điều gì.", "kích động, cuống lên",
+   "Calm down – it isn’t worth getting <b>worked up</b> about such a small problem.", "Bình tĩnh nào – chuyện nhỏ thế này đâu đáng để <b>cuống lên</b>.",
+   G("worked up", "adj.", "bị kích động", "Tính từ, thường đi với <i>get</i> hoặc <i>be</i>: <i>get worked up about something</i>; Mini dictionary viết cả dạng có gạch nối <i>worked-up</i>.",
+     "Bài 4.5: bạn không nên cuống lên vì từng chuyện nhỏ. Đáp án gợi ý thay bằng <i>upset / in such a state</i>. Liên quan <i>work yourself into</i> (unit 41).",
+     "<i>get so worked up about every little thing</i> (cuống lên vì từng chuyện nhỏ)", "neutral",
+     "dùng <i>working up</i> (dạng V-ing) thay cho tính từ <i>worked up</i>."),
+   [S("upset", "adj.", "bực bội"), S("agitated", "adj.", "bồn chồn")], [S("calm", "adj.", "bình tĩnh")]),
+]
+save_supp("adv", 4, items)

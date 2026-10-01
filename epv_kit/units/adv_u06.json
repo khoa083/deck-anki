@@ -1,0 +1,328 @@
+{
+ "book": "adv",
+ "unit": 6,
+ "supplement": true,
+ "theory_html": " <hr> <p><b>Phrasal verb summary</b></p> <p><i>Tóm tắt phrasal verb trong bài</i></p> <table><thead><tr><th>Phrasal verb</th><th>Nghĩa</th><th>Example / Ví dụ</th></tr></thead><tbody><tr><td><b>ask out somebody</b></td><td>mời đi chơi, rủ hẹn hò</td><td>He has liked her for months but still hasn’t dared to <b>ask</b> her <b>out</b>.<br><i>Anh thích cô ấy cả mấy tháng nay mà vẫn chưa dám <b>rủ</b> cô <b>đi chơi</b>.</i></td></tr><tr><td><b>back up something</b></td><td>sao lưu</td><td>Always <b>back up</b> your files before you install new software.<br><i>Luôn <b>sao lưu</b> tệp trước khi cài phần mềm mới.</i></td></tr><tr><td><b>go into something</b></td><td>đi sâu vào</td><td>The professor didn’t just mention the topic – he <b>went into</b> it in great detail.<br><i>Giáo sư không chỉ nhắc qua chủ đề – ông <b>đi sâu vào</b> nó rất chi tiết.</i></td></tr><tr><td><b>hack into something</b></td><td>tin tặc xâm nhập</td><td>Someone <b>hacked into</b> the company’s network and stole customer data.<br><i>Có kẻ đã <b>xâm nhập</b> mạng của công ty và đánh cắp dữ liệu khách hàng.</i></td></tr><tr><td><b>log in</b></td><td>đăng nhập</td><td>You need your password to <b>log in</b> to the college network.<br><i>Bạn cần mật khẩu để <b>đăng nhập</b> vào mạng của trường.</i></td></tr><tr><td><b>sell up</b></td><td>bán hết (nhà, cơ sở)</td><td>After thirty years running the shop, they decided to <b>sell up</b> and retire to the coast.<br><i>Sau ba mươi năm kinh doanh cửa hàng, họ quyết định <b>bán hết</b> và về hưu ở vùng biển.</i></td></tr><tr><td><b>sum up</b></td><td>tóm tắt, tổng kết</td><td>At the end of the lecture, the professor <b>summed up</b> the main arguments.<br><i>Cuối bài giảng, giáo sư <b>tóm tắt</b> các luận điểm chính.</i></td></tr><tr><td><b>take on something</b></td><td>đảm nhận</td><td>After his father’s death, the president’s son <b>took on</b> the title of Great Leader.<br><i>Sau khi cha qua đời, con trai tổng thống <b>đảm nhận</b> danh hiệu Lãnh tụ Vĩ đại.</i></td></tr><tr><td><b>take over something</b></td><td>thâu tóm (công ty)</td><td>A larger rival has offered to <b>take over</b> the family firm.<br><i>Một đối thủ lớn hơn đã đề nghị <b>thâu tóm</b> công ty gia đình.</i></td></tr></tbody></table>",
+ "items": [
+  {
+   "word": "ask out somebody",
+   "sense": "",
+   "pos": "phr.v.",
+   "register": "neutral",
+   "def_en": "To invite someone to go somewhere with you, such as a restaurant or the cinema, especially to start a romantic relationship.",
+   "ipa": "/ˌɑːsk ˈaʊt ˈsʌmbədi/",
+   "def_vi": "Mời ai đi đâu đó cùng mình, như nhà hàng hay rạp phim, nhất là để bắt đầu hẹn hò.",
+   "gloss_vi": "mời đi chơi, rủ hẹn hò",
+   "example": {
+    "en": "He has liked her for months but still hasn’t dared to <b>ask</b> her <b>out</b>.",
+    "vi": "Anh thích cô ấy cả mấy tháng nay mà vẫn chưa dám <b>rủ</b> cô <b>đi chơi</b>."
+   },
+   "grammar_vi": "<i>ask out somebody</i> (phr.v.) = mời đi hẹn hò. <b>Grammar</b>: Đây là phrasal verb <b>ngoại động từ</b> và <b>tách được</b>: tân ngữ đứng sau cả cụm (<i>ask out a colleague</i>) hoặc giữa động từ và tiểu từ (<i>ask Kate out</i>); nếu tân ngữ là <b>đại từ</b> thì bắt buộc đặt giữa: <i>ask her out</i>. Bài 6.2: viết lại cho bớt trang trọng – ‘mời cô ấy đi chơi với tôi’ (<i>invite her to go out with me</i>) → <i>ask her out</i>. Unit 6 bàn về register: phrasal verb thường ít trang trọng hơn động từ một từ. <b>Collocations / chunks</b>: <i>should I ask her out</i> (tôi có nên rủ cô ấy đi chơi). <b>Register</b>: trung tính, dùng được cả khi nói và viết. <b>Common mistakes</b>: đặt đại từ sau tiểu từ (<i>ask out her</i>).",
+   "synonyms": [
+    {
+     "text": "invite out",
+     "pos": "phr.",
+     "vi": "mời đi chơi"
+    },
+    {
+     "text": "ask on a date",
+     "pos": "phr.",
+     "vi": "mời hẹn hò"
+    }
+   ],
+   "antonyms": [
+    {
+     "text": "turn down",
+     "pos": "phr.v.",
+     "vi": "từ chối"
+    }
+   ],
+   "audio": ""
+  },
+  {
+   "word": "back up something",
+   "sense": "computer",
+   "pos": "phr.v.",
+   "register": "neutral",
+   "def_en": "To save a spare copy of computer data in case the original is lost.",
+   "ipa": "/ˌbæk ˈʌp ˈsʌmθɪŋ/",
+   "def_vi": "Sao chép thông tin trên máy tính để không bị mất.",
+   "gloss_vi": "sao lưu",
+   "example": {
+    "en": "Always <b>back up</b> your files before you install new software.",
+    "vi": "Luôn <b>sao lưu</b> tệp trước khi cài phần mềm mới."
+   },
+   "grammar_vi": "<i>back up something</i> (phr.v.) = sao lưu dữ liệu. <b>Grammar</b>: Đây là phrasal verb <b>ngoại động từ</b> và <b>tách được</b>: tân ngữ đứng sau cả cụm (<i>back up your files</i>) hoặc giữa động từ và tiểu từ (<i>back your work up</i>); nếu tân ngữ là <b>đại từ</b> thì bắt buộc đặt giữa: <i>back it up</i>. Mini dictionary ghi <i>back up (sth)</i>: cũng dùng không tân ngữ (<i>remember to back up</i>). Bài 6.3: xếp vào nhóm từ chuyên ngành ‘máy tính và công nghệ’ (cùng <i>hack into, log in, print off, scroll down</i>). Danh từ liên quan: <i>back-up</i> (thẻ demo bài 3). <b>Collocations / chunks</b>: <i>back up</i> (sao lưu – nhóm máy tính và công nghệ). <b>Register</b>: trung tính, dùng được cả khi nói và viết. <b>Common mistakes</b>: đặt đại từ sau tiểu từ (<i>back up it</i>).",
+   "synonyms": [
+    {
+     "text": "copy",
+     "pos": "v.",
+     "vi": "sao chép"
+    },
+    {
+     "text": "save",
+     "pos": "v.",
+     "vi": "lưu"
+    }
+   ],
+   "antonyms": [
+    {
+     "text": "delete",
+     "pos": "v.",
+     "vi": "xóa"
+    },
+    {
+     "text": "wipe off",
+     "pos": "phr.v.",
+     "vi": "xóa sạch"
+    }
+   ],
+   "audio": ""
+  },
+  {
+   "word": "go into something",
+   "sense": "in detail",
+   "pos": "phr.v.",
+   "register": "neutral",
+   "def_en": "To deal with a subject thoroughly, looking at all its details.",
+   "ipa": "/ˌɡəʊ ˈɪntə ˈsʌmθɪŋ/",
+   "def_vi": "Mô tả, bàn luận hoặc xem xét điều gì một cách chi tiết.",
+   "gloss_vi": "đi sâu vào",
+   "example": {
+    "en": "The professor didn’t just mention the topic – he <b>went into</b> it in great detail.",
+    "vi": "Giáo sư không chỉ nhắc qua chủ đề – ông <b>đi sâu vào</b> nó rất chi tiết."
+   },
+   "grammar_vi": "<i>go into something</i> (phr.v.) = phân tích kỹ. <b>Grammar</b>: Đây là phrasal verb <b>không tách được</b>: tân ngữ luôn đứng sau cả cụm, kể cả khi là đại từ: <i>go into it</i>. Hay đi với <i>in (great) detail</i>. Bài 6.2: viết lại cho bớt trang trọng – ‘ông ấy khảo sát chủ đề rất kỹ trong bài giảng’ (<i>explored</i>) → <i>went into the subject in great detail</i>. Khác <i>go in to</i> (theo nghề – unit 31). <b>Collocations / chunks</b>: <i>went into the subject in great detail</i> (đi sâu vào chủ đề rất chi tiết). <b>Register</b>: trung tính, dùng được cả khi nói và viết. <b>Common mistakes</b>: nhầm với <i>go in to</i> (theo đuổi một nghề – unit 31).",
+   "synonyms": [
+    {
+     "text": "explore",
+     "pos": "v.",
+     "vi": "khảo sát"
+    },
+    {
+     "text": "examine",
+     "pos": "v.",
+     "vi": "xem xét"
+    }
+   ],
+   "antonyms": [
+    {
+     "text": "gloss over",
+     "pos": "phr.v.",
+     "vi": "lướt qua"
+    }
+   ],
+   "audio": ""
+  },
+  {
+   "word": "hack into something",
+   "sense": "",
+   "pos": "phr.v.",
+   "register": "neutral",
+   "def_en": "To get into someone else’s computer system without permission, to look at information or do something illegal.",
+   "ipa": "/ˌhæk ˈɪntə ˈsʌmθɪŋ/",
+   "def_vi": "Xâm nhập trái phép vào hệ thống máy tính của người khác để xem thông tin hoặc làm điều phạm pháp.",
+   "gloss_vi": "tin tặc xâm nhập",
+   "example": {
+    "en": "Someone <b>hacked into</b> the company’s network and stole customer data.",
+    "vi": "Có kẻ đã <b>xâm nhập</b> mạng của công ty và đánh cắp dữ liệu khách hàng."
+   },
+   "grammar_vi": "<i>hack into something</i> (phr.v.) = đột nhập (hệ thống máy tính). <b>Grammar</b>: Đây là phrasal verb <b>không tách được</b>: tân ngữ luôn đứng sau cả cụm, kể cả khi là đại từ: <i>hack into it</i>. Bài 6.3: xếp vào nhóm từ chuyên ngành ‘máy tính và công nghệ’. Sách chỉ cho nghĩa, không có câu ngữ cảnh; ví dụ do kit đặt. <b>Collocations / chunks</b>: <i>hack into</i> (xâm nhập – nhóm máy tính và công nghệ). <b>Register</b>: trung tính, dùng được cả khi nói và viết. <b>Common mistakes</b>: bỏ <i>into</i> (<i>hack the network</i> vẫn dùng được nhưng không phải dạng phrasal verb của sách).",
+   "synonyms": [
+    {
+     "text": "break into",
+     "pos": "phr.v.",
+     "vi": "đột nhập"
+    },
+    {
+     "text": "access illegally",
+     "pos": "phr.",
+     "vi": "truy cập trái phép"
+    }
+   ],
+   "antonyms": [
+    {
+     "text": "protect",
+     "pos": "v.",
+     "vi": "bảo vệ"
+    }
+   ],
+   "audio": ""
+  },
+  {
+   "word": "log in",
+   "sense": "",
+   "pos": "phr.v.",
+   "register": "neutral",
+   "def_en": "To connect to a computer system by typing your name or password, usually so that you can start working.",
+   "ipa": "/ˌlɒɡ ˈɪn/",
+   "def_vi": "Kết nối vào hệ thống máy tính bằng cách gõ tên hoặc mật khẩu, thường để bắt đầu làm việc.",
+   "gloss_vi": "đăng nhập",
+   "example": {
+    "en": "You need your password to <b>log in</b> to the college network.",
+    "vi": "Bạn cần mật khẩu để <b>đăng nhập</b> vào mạng của trường."
+   },
+   "grammar_vi": "<i>log in</i> (phr.v.) = đăng nhập. <b>Grammar</b>: Mini dictionary ghi <i>log in/into sth</i>: không tân ngữ (<i>log in</i>) hoặc <i>log into + hệ thống</i> (<i>log into the network</i>). Bài 6.3: xếp vào nhóm từ chuyên ngành ‘máy tính và công nghệ’. Sách chỉ cho nghĩa, không có câu ngữ cảnh; ví dụ do kit đặt. <b>Collocations / chunks</b>: <i>log in</i> (đăng nhập – nhóm máy tính và công nghệ). <b>Register</b>: trung tính, dùng được cả khi nói và viết. <b>Common mistakes</b>: dùng <i>log in the system</i> (thiếu <i>to/into</i>).",
+   "synonyms": [
+    {
+     "text": "sign in",
+     "pos": "phr.v.",
+     "vi": "đăng nhập"
+    },
+    {
+     "text": "log on",
+     "pos": "phr.v.",
+     "vi": "đăng nhập"
+    }
+   ],
+   "antonyms": [
+    {
+     "text": "log out",
+     "pos": "phr.v.",
+     "vi": "đăng xuất"
+    }
+   ],
+   "audio": ""
+  },
+  {
+   "word": "sell up",
+   "sense": "",
+   "pos": "phr.v.",
+   "register": "neutral",
+   "def_en": "To sell your house or business so that you can go somewhere else or do something different.",
+   "ipa": "/ˌsel ˈʌp/",
+   "def_vi": "Bán nhà hoặc cơ sở kinh doanh của mình để đi nơi khác hoặc làm việc khác.",
+   "gloss_vi": "bán hết (nhà, cơ sở)",
+   "example": {
+    "en": "After thirty years running the shop, they decided to <b>sell up</b> and retire to the coast.",
+    "vi": "Sau ba mươi năm kinh doanh cửa hàng, họ quyết định <b>bán hết</b> và về hưu ở vùng biển."
+   },
+   "grammar_vi": "<i>sell up</i> (phr.v.) = bán sạch để đổi đời. <b>Grammar</b>: Mini dictionary ghi <i>sell up (sth) or sell (sth) up</i>: thường dùng không tân ngữ; có thể có tân ngữ, tách được (<i>sell the business up</i>). Cách nói Anh và Úc. Bài 6.3: xếp vào nhóm từ ‘tiền bạc và kinh doanh’. Sách chỉ cho nghĩa, không có câu ngữ cảnh; ví dụ do kit đặt. <b>Collocations / chunks</b>: <i>sell up</i> (bán hết – nhóm tiền bạc và kinh doanh). <b>Register</b>: trung tính, dùng được cả khi nói và viết. <b>Common mistakes</b>: nhầm với <i>sell out</i> (bán hết hàng).",
+   "synonyms": [
+    {
+     "text": "sell everything",
+     "pos": "phr.",
+     "vi": "bán hết"
+    },
+    {
+     "text": "cash in",
+     "pos": "phr.v.",
+     "vi": "bán lấy tiền"
+    }
+   ],
+   "antonyms": [
+    {
+     "text": "buy up",
+     "pos": "phr.v.",
+     "vi": "mua gom"
+    }
+   ],
+   "audio": ""
+  },
+  {
+   "word": "sum up",
+   "sense": "summarise",
+   "pos": "phr.v.",
+   "register": "neutral",
+   "def_en": "To describe briefly the most important facts or features of something or someone.",
+   "ipa": "/ˌsʌm ˈʌp/",
+   "def_vi": "Mô tả ngắn gọn những sự kiện hoặc đặc điểm quan trọng nhất của điều gì hoặc ai.",
+   "gloss_vi": "tóm tắt, tổng kết",
+   "example": {
+    "en": "At the end of the lecture, the professor <b>summed up</b> the main arguments.",
+    "vi": "Cuối bài giảng, giáo sư <b>tóm tắt</b> các luận điểm chính."
+   },
+   "grammar_vi": "<i>sum up</i> (phr.v.) = tóm lược. <b>Grammar</b>: Mini dictionary ghi <i>sum up (sth/sb) or sum (sth/sb) up</i>: không tân ngữ (<i>to sum up, …</i>) hoặc có tân ngữ, tách được (<i>sum up the arguments</i>, <i>sum them up</i>). Bài 6.3: xếp vào nhóm ‘bài giảng/bài viết học thuật’ (cùng <i>base on, gloss over, put forward</i>). Khác thẻ unit 34 (<i>sum up</i> = thể hiện nét tiêu biểu). <b>Collocations / chunks</b>: <i>sum up</i> (tóm tắt – nhóm học thuật). <b>Register</b>: trung tính, dùng được cả khi nói và viết. <b>Common mistakes</b>: nhầm với nghĩa ở unit 34 (thể hiện nét tiêu biểu nhất).",
+   "synonyms": [
+    {
+     "text": "summarise",
+     "pos": "v.",
+     "vi": "tóm tắt"
+    },
+    {
+     "text": "recap",
+     "pos": "v.",
+     "vi": "tóm lại"
+    }
+   ],
+   "antonyms": [
+    {
+     "text": "go into",
+     "pos": "phr.v.",
+     "vi": "đi sâu vào"
+    }
+   ],
+   "audio": ""
+  },
+  {
+   "word": "take on something",
+   "sense": "responsibility",
+   "pos": "phr.v.",
+   "register": "neutral",
+   "def_en": "To accept a particular job, title or responsibility and start doing what is needed.",
+   "ipa": "/ˌteɪk ˈɒn ˈsʌmθɪŋ/",
+   "def_vi": "Nhận một công việc, chức danh hay trách nhiệm và bắt đầu làm những gì cần làm.",
+   "gloss_vi": "đảm nhận",
+   "example": {
+    "en": "After his father’s death, the president’s son <b>took on</b> the title of Great Leader.",
+    "vi": "Sau khi cha qua đời, con trai tổng thống <b>đảm nhận</b> danh hiệu Lãnh tụ Vĩ đại."
+   },
+   "grammar_vi": "<i>take on something</i> (phr.v.) = nhận lấy (trách nhiệm). <b>Grammar</b>: Đây là phrasal verb <b>ngoại động từ</b> và <b>tách được</b>: tân ngữ đứng sau cả cụm (<i>take on the title</i>) hoặc giữa động từ và tiểu từ (<i>take the job on</i>); nếu tân ngữ là <b>đại từ</b> thì bắt buộc đặt giữa: <i>take it on</i>. Bài 6.2: viết lại cho bớt trang trọng – ‘con trai ông kế nhận danh hiệu’ (<i>assumed the title</i>) → <i>took on the title of Great Leader</i>. <b>Collocations / chunks</b>: <i>took on the title of Great Leader</i> (đảm nhận danh hiệu Lãnh tụ Vĩ đại). <b>Register</b>: trung tính, dùng được cả khi nói và viết. <b>Common mistakes</b>: đặt đại từ sau tiểu từ (<i>take on it</i>).",
+   "synonyms": [
+    {
+     "text": "assume",
+     "pos": "v.",
+     "vi": "đảm nhận"
+    },
+    {
+     "text": "accept",
+     "pos": "v.",
+     "vi": "nhận"
+    }
+   ],
+   "antonyms": [
+    {
+     "text": "give up",
+     "pos": "phr.v.",
+     "vi": "từ bỏ"
+    }
+   ],
+   "audio": ""
+  },
+  {
+   "word": "take over something",
+   "sense": "company",
+   "pos": "phr.v.",
+   "register": "neutral",
+   "def_en": "To become the owner and controller of a company by purchasing the majority of its shares.",
+   "ipa": "/ˌteɪk ˈəʊvə ˈsʌmθɪŋ/",
+   "def_vi": "Giành quyền kiểm soát một công ty bằng cách mua phần lớn cổ phần.",
+   "gloss_vi": "thâu tóm (công ty)",
+   "example": {
+    "en": "A larger rival has offered to <b>take over</b> the family firm.",
+    "vi": "Một đối thủ lớn hơn đã đề nghị <b>thâu tóm</b> công ty gia đình."
+   },
+   "grammar_vi": "<i>take over something</i> (phr.v.) = mua lại để kiểm soát. <b>Grammar</b>: Đây là phrasal verb <b>ngoại động từ</b> và <b>tách được</b>: tân ngữ đứng sau cả cụm (<i>take over the company</i>) hoặc giữa động từ và tiểu từ (<i>take the company over</i>); nếu tân ngữ là <b>đại từ</b> thì bắt buộc đặt giữa: <i>take it over</i>. Bài 6.3: xếp vào nhóm từ ‘tiền bạc và kinh doanh’. Sách chỉ cho nghĩa, không có câu ngữ cảnh; ví dụ do kit đặt. Khác nghĩa ở unit 47 (chiếm lãnh thổ). <b>Collocations / chunks</b>: <i>take over</i> (thâu tóm – nhóm tiền bạc và kinh doanh). <b>Register</b>: trung tính, dùng được cả khi nói và viết. <b>Common mistakes</b>: đặt đại từ sau tiểu từ (<i>take over it</i>).",
+   "synonyms": [
+    {
+     "text": "buy out",
+     "pos": "phr.v.",
+     "vi": "mua lại"
+    },
+    {
+     "text": "acquire",
+     "pos": "v.",
+     "vi": "thâu tóm"
+    }
+   ],
+   "antonyms": [
+    {
+     "text": "sell off",
+     "pos": "phr.v.",
+     "vi": "bán bớt"
+    }
+   ],
+   "audio": ""
+  }
+ ]
+}

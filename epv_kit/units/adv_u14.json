@@ -1,0 +1,113 @@
+{
+ "book": "adv",
+ "unit": 14,
+ "supplement": true,
+ "theory_html": " <hr> <p><b>Phrasal verb summary</b></p> <p><i>Tóm tắt phrasal verb trong bài</i></p> <table><thead><tr><th>Phrasal verb</th><th>Nghĩa</th><th>Example / Ví dụ</th></tr></thead><tbody><tr><td><b>cry out</b></td><td>kêu lên</td><td>From the bottom of the stairs, someone <b>cried out</b> for help.<br><i>Từ chân cầu thang, ai đó <b>kêu lên</b> cầu cứu.</i></td></tr><tr><td><b>scream out</b></td><td>thét lên</td><td>When I opened the door, I heard someone <b>scream out</b> on the staircase.<br><i>Khi mở cửa, tôi nghe ai đó <b>thét lên</b> ở cầu thang.</i></td></tr><tr><td><b>shout out</b></td><td>hô to, la lên</td><td>Someone on the stairs below <b>shouted out</b> my name.<br><i>Ai đó ở cầu thang bên dưới <b>gọi to</b> tên tôi.</i></td></tr></tbody></table>",
+ "items": [
+  {
+   "word": "cry out",
+   "sense": "",
+   "pos": "phr.v.",
+   "register": "neutral",
+   "def_en": "To suddenly call out something loudly, especially to get someone’s attention.",
+   "ipa": "/ˌkraɪ ˈaʊt/",
+   "def_vi": "Bất ngờ nói to điều gì, nhất là để gây sự chú ý của ai.",
+   "gloss_vi": "kêu lên",
+   "example": {
+    "en": "From the bottom of the stairs, someone <b>cried out</b> for help.",
+    "vi": "Từ chân cầu thang, ai đó <b>kêu lên</b> cầu cứu."
+   },
+   "grammar_vi": "<i>cry out</i> (phr.v.) = kêu to. <b>Grammar</b>: Mini dictionary ghi <i>cry out (sth) or cry (sth) out</i>: dùng không tân ngữ (<i>someone cried out</i>) hoặc có tân ngữ, tách được với đại từ. Đáp án unit 14: câu ‘tôi mở cửa và nghe ai đó hét lên từ cầu thang bên dưới’ dùng <i>yell out</i> (thẻ demo), và sách ghi <i>shout out / cry out / scream out</i> cũng dùng được. Unit 14: tiểu từ <i>out</i> ở đây gợi âm thanh phát ra to, ra ngoài. <b>Collocations / chunks</b>: <i>cry out from the staircase</i> (hét lên từ cầu thang). <b>Register</b>: trung tính, dùng được cả khi nói và viết. <b>Common mistakes</b>: quên <i>out</i> khi muốn nhấn mạnh hành động bật ra đột ngột.",
+   "synonyms": [
+    {
+     "text": "yell out",
+     "pos": "phr.v.",
+     "vi": "hét lên"
+    },
+    {
+     "text": "call out",
+     "pos": "phr.v.",
+     "vi": "gọi to"
+    }
+   ],
+   "antonyms": [
+    {
+     "text": "whisper",
+     "pos": "v.",
+     "vi": "thì thầm"
+    }
+   ],
+   "audio": ""
+  },
+  {
+   "word": "scream out",
+   "sense": "",
+   "pos": "phr.v.",
+   "register": "neutral",
+   "def_en": "To suddenly call out something loudly, especially to get someone’s attention.",
+   "ipa": "/ˌskriːm ˈaʊt/",
+   "def_vi": "Bất ngờ nói to điều gì, nhất là để gây sự chú ý của ai.",
+   "gloss_vi": "thét lên",
+   "example": {
+    "en": "When I opened the door, I heard someone <b>scream out</b> on the staircase.",
+    "vi": "Khi mở cửa, tôi nghe ai đó <b>thét lên</b> ở cầu thang."
+   },
+   "grammar_vi": "<i>scream out</i> (phr.v.) = thét to. <b>Grammar</b>: Mini dictionary ghi <i>scream out (sth) or scream (sth) out</i>: dùng không tân ngữ (<i>someone screamed out</i>) hoặc có tân ngữ, tách được với đại từ. Đáp án unit 14: câu ‘tôi mở cửa và nghe ai đó hét lên từ cầu thang bên dưới’ dùng <i>yell out</i> (thẻ demo), và sách ghi <i>shout out / cry out / scream out</i> cũng dùng được. Ba động từ có cùng định nghĩa trong Mini dictionary. <b>Collocations / chunks</b>: <i>scream out from the staircase</i> (hét lên từ cầu thang). <b>Register</b>: trung tính, dùng được cả khi nói và viết. <b>Common mistakes</b>: quên <i>out</i> khi muốn nhấn mạnh hành động bật ra đột ngột.",
+   "synonyms": [
+    {
+     "text": "yell out",
+     "pos": "phr.v.",
+     "vi": "hét lên"
+    },
+    {
+     "text": "call out",
+     "pos": "phr.v.",
+     "vi": "gọi to"
+    }
+   ],
+   "antonyms": [
+    {
+     "text": "whisper",
+     "pos": "v.",
+     "vi": "thì thầm"
+    }
+   ],
+   "audio": ""
+  },
+  {
+   "word": "shout out",
+   "sense": "",
+   "pos": "phr.v.",
+   "register": "neutral",
+   "def_en": "To suddenly call out something loudly, especially to get someone’s attention.",
+   "ipa": "/ˌʃaʊt ˈaʊt/",
+   "def_vi": "Bất ngờ nói to điều gì, nhất là để gây sự chú ý của ai.",
+   "gloss_vi": "hô to, la lên",
+   "example": {
+    "en": "Someone on the stairs below <b>shouted out</b> my name.",
+    "vi": "Ai đó ở cầu thang bên dưới <b>gọi to</b> tên tôi."
+   },
+   "grammar_vi": "<i>shout out</i> (phr.v.) = la to. <b>Grammar</b>: Mini dictionary ghi <i>shout out (sth) or shout (sth) out</i>: dùng không tân ngữ (<i>someone shouted out</i>) hoặc có tân ngữ, tách được với đại từ. Đáp án unit 14: câu ‘tôi mở cửa và nghe ai đó hét lên từ cầu thang bên dưới’ dùng <i>yell out</i> (thẻ demo), và sách ghi <i>shout out / cry out / scream out</i> cũng dùng được. Ba động từ có cùng định nghĩa trong Mini dictionary. <b>Collocations / chunks</b>: <i>shout out from the staircase</i> (hét lên từ cầu thang). <b>Register</b>: trung tính, dùng được cả khi nói và viết. <b>Common mistakes</b>: quên <i>out</i> khi muốn nhấn mạnh hành động bật ra đột ngột.",
+   "synonyms": [
+    {
+     "text": "yell out",
+     "pos": "phr.v.",
+     "vi": "hét lên"
+    },
+    {
+     "text": "call out",
+     "pos": "phr.v.",
+     "vi": "gọi to"
+    }
+   ],
+   "antonyms": [
+    {
+     "text": "whisper",
+     "pos": "v.",
+     "vi": "thì thầm"
+    }
+   ],
+   "audio": ""
+  }
+ ]
+}

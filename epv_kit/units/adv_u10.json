@@ -1,0 +1,43 @@
+{
+ "book": "adv",
+ "unit": 10,
+ "supplement": true,
+ "theory_html": " <hr> <p><b>Phrasal verb summary</b></p> <p><i>Tóm tắt phrasal verb trong bài</i></p> <table><thead><tr><th>Phrasal verb</th><th>Nghĩa</th><th>Example / Ví dụ</th></tr></thead><tbody><tr><td><b>take down something</b></td><td>ghi chép lại</td><td>The lecturer spoke quickly, so I tried to <b>take down</b> every word.<br><i>Giảng viên nói nhanh nên tôi cố <b>ghi lại</b> từng chữ.</i></td></tr></tbody></table>",
+ "items": [
+  {
+   "word": "take down something",
+   "sense": "write",
+   "pos": "phr.v.",
+   "register": "neutral",
+   "def_en": "To write something down, especially what someone is saying.",
+   "ipa": "/ˌteɪk ˈdaʊn ˈsʌmθɪŋ/",
+   "def_vi": "Viết lại điều gì, nhất là những gì ai đó đang nói.",
+   "gloss_vi": "ghi chép lại",
+   "example": {
+    "en": "The lecturer spoke quickly, so I tried to <b>take down</b> every word.",
+    "vi": "Giảng viên nói nhanh nên tôi cố <b>ghi lại</b> từng chữ."
+   },
+   "grammar_vi": "<i>take down something</i> (phr.v.) = ghi lại (lời nói). <b>Grammar</b>: Đây là phrasal verb <b>ngoại động từ</b> và <b>tách được</b>: tân ngữ đứng sau cả cụm (<i>take down the address</i>) hoặc giữa động từ và tiểu từ (<i>take the message down</i>); nếu tân ngữ là <b>đại từ</b> thì bắt buộc đặt giữa: <i>take it down</i>. Bài tập chọn cách hiểu của unit 10: <i>I think you should take this down</i> – có thể hiểu là ‘ghi lại’ (<i>write it</i>) hoặc ‘tháo dỡ’ (<i>dismantle it</i>, xem unit 60). <i>Down</i> ở đây gợi ý đưa lời nói xuống giấy. Ví dụ trên thẻ do kit đặt. <b>Collocations / chunks</b>: <i>take this down</i> (ghi lại cái này). <b>Register</b>: trung tính, dùng được cả khi nói và viết. <b>Common mistakes</b>: đặt đại từ sau tiểu từ (<i>take down it</i>).",
+   "synonyms": [
+    {
+     "text": "write down",
+     "pos": "phr.v.",
+     "vi": "ghi xuống"
+    },
+    {
+     "text": "note down",
+     "pos": "phr.v.",
+     "vi": "ghi chú"
+    }
+   ],
+   "antonyms": [
+    {
+     "text": "forget",
+     "pos": "v.",
+     "vi": "quên"
+    }
+   ],
+   "audio": ""
+  }
+ ]
+}
