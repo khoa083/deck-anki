@@ -29,6 +29,7 @@
 | 18 | Int 41–45 | 73 mục / 146 thẻ + 5 note lý thuyết + 73 audio | build 1953 note / 3798 thẻ, 0 bad renders, audio 1498/1498 |
 | 19 | Int 46–50 | 75 mục / 150 thẻ + 5 note lý thuyết + 75 audio | build 2033 note / 3953 thẻ, 0 bad renders, audio 1573/1573 |
 | 20 | Int 51–55 | 66 mục / 132 thẻ + 5 note lý thuyết + 66 audio | build 2104 note / 4090 thẻ, 0 bad renders, audio 1639/1639 |
+| 21 | Int 56–60 | 67 mục / 134 thẻ + 5 note lý thuyết + 67 audio | build 2176 note / 4229 thẻ, 0 bad renders, audio 1706/1706 |
 
 ## Quyết định (xem PROMPT.md §3)
 D1 thứ tự Adv 16→60 → bổ sung demo → Int 1→70 · D2 IPA chuẩn Anh (config.ipa_style) · D3 1 deck gốc `English Phrasal Verbs in Use` → `Advanced`/`Intermediate` · D4 thẻ demo chỉ có ở bản 1: giữ + tag `EPV::demo_ban1` · D5 audio **bắt buộc**: Kokoro TTS offline, giọng Anh–Anh nam `bm_george` (sửa từ lượt 1c; trước đó để trống) · D6 chọn mục theo Mini dictionary + cụm in đậm.
@@ -226,7 +227,13 @@ D1 thứ tự Adv 16→60 → bổ sung demo → Int 1→70 · D2 IPA chuẩn An
 - u52: `turn sb on` (Mini 52) không có trên trang → bỏ; `fall out` (u38) chỉ nhắc.
 - u55: **sai số chú thích trên trang sách**: chú thích 9 (‘start to do or take something bad…’) là nghĩa của `turn to`, còn `wind up` mang chú thích 10 → thẻ `wind up` theo Mini, thẻ `turn to` (bad habit) theo bài 55.3; ghi chú trong thẻ. OCR email thứ tư mất chữ → bổ sung src.
 
+**Lượt 21 (Intermediate 56–60)**
+- u59: `invite over/round/out` (u3), `come round` (u2) chỉ nhắc; `stand up`, `tag along`, `run across` chỉ có ở bài 59.5 nhưng có định nghĩa ở đáp án → thẻ.
+- u60: `go off` (u8), `go with` (u19), `boil over` (u17), `heat up` (u26), `be left over` (u23), `leftovers` (u4), `eat out` (u1) đã có thẻ → chỉ nhắc; nghĩa mới làm thẻ có sense: `put on` (cook), `pour out` (drink), `take away` (food), `live on/off` (food). `pass round` chỉ ở bài 60.3–60.4 (có đáp án) → thẻ. OCR bài 60.1 câu 3 lỗi → bổ sung src.
+- Đoạn "BỔ SUNG TỪ ẢNH TRANG" ở src u30/u38/u55/u60 chuyển lên trước `### KEY` để check không đọc nhầm thành mục Mini dictionary (chỉ ảnh hưởng cảnh báo, không đổi thẻ).
+
 ## Kiểm trôi
+- Lượt 21: soát Int 56–60 khi viết (ảnh trang + đáp án); viết lại 4 def_en u59 gần Mini dictionary; không có đoạn lý thuyết trùng ≥12 từ. Không phát hiện lệch nghĩa.
 - Lượt 20: soát Int 51–55 khi viết (ảnh trang + đáp án); sửa 1 đoạn lý thuyết u55 trùng 13 từ; viết lại câu bối cảnh tự đặt (u51 cheer up/feel for, u52 falling-out, u53 break off, u54 let on/talk down to). Không phát hiện lệch nghĩa.
 - Lượt 19: soát Int 46–50 khi viết (ảnh trang + đáp án); sửa 1 đoạn lý thuyết u49 trùng 13 từ; viết lại câu bối cảnh tự đặt (u46 branch out/squeeze in, u47 save up, u48 fork out/sell-off, u49 takeover, u50 call up). Không phát hiện lệch nghĩa.
 - Lượt 18: soát Int 41–45 khi viết (ảnh trang + đáp án); sửa 1 đoạn lý thuyết u43 trùng 12 từ; viết lại câu bối cảnh tự đặt (u42 give out/play up, u43 mug up/write up/keep up, u44 read up on/fill out, u45 stand down/pencil in). Không phát hiện lệch nghĩa.
