@@ -1,0 +1,329 @@
+{
+ "book": "pre",
+ "unit": 37,
+ "title_vi": "Xây dựng sự nghiệp",
+ "theory_html": "<p><b>A. Getting a job</b><br><i>A. Kiếm việc</i></p> <p><b>I applied for jobs… sending out lots of CVs and having some interviews, a small company employed me… gave me some training.</b> <b>some training</b> (NOT <b>a training</b>); <b>go on / do a training course</b>.</p><p><i><b>nộp đơn xin việc, sơ yếu lý lịch, phỏng vấn, tuyển dụng, đào tạo, khóa đào tạo</b>.</i></p> <p><b>B. Promotion</b><br><i>B. Thăng chức</i></p> <p><b>I was promoted… a good pay rise… good experience… an important promotion.</b></p><p><i><b>được thăng chức, tăng lương, kinh nghiệm, sự thăng chức</b>.</i></p> <p><b>C. Resignation</b><br><i>C. Thôi việc</i></p> <p><b>I wanted to work abroad. So I quit my job (syn resign).</b></p><p><i><b>ra nước ngoài, nghỉ việc, từ chức</b>.</i></p> <p><b>D. Unemployment</b><br><i>D. Thất nghiệp</i></p> <p><b>the company sacked me (syn gave me the sack)… I was unemployed (syn out of work)… a part-time job (opp full-time).</b> <b>have a job</b> (NOT <b>a work</b>).</p><p><i><b>sa thải, thất nghiệp, bán thời gian / toàn thời gian</b>.</i></p> <p><b>E. Success and retirement</b><br><i>E. Thành công và nghỉ hưu</i></p> <p><b>my own restaurant… very successful… I owned five restaurants… the owner of two hotels… anyone can succeed… I retired.</b></p><p><i><b>của riêng, thành công, sở hữu, chủ, thành công, nghỉ hưu</b>.</i></p>",
+ "items": [
+  {
+   "word": "apply for",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/əˈplaɪ fə(r)/",
+   "def_en": "To write a letter of application for a job.",
+   "def_vi": "Viết đơn xin một công việc.",
+   "gloss_vi": "nộp đơn xin",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Apply for</i> (phrasal verb) = nộp đơn xin. <b>Grammar</b>: <i>apply for a job</i>; <i>apply to a company</i>. <b>Word family</b>: <i>application</i> (n.).",
+   "example": {
+    "en": "When I left school, I <b>applied for</b> jobs in different companies.",
+    "vi": "Khi ra trường, tôi <b>nộp đơn xin</b> việc ở nhiều công ty."
+   }
+  },
+  {
+   "word": "CV",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsiː ˈviː/",
+   "def_en": "A document which describes your education and the jobs you have done.",
+   "def_vi": "Tài liệu mô tả học vấn và công việc đã làm.",
+   "gloss_vi": "sơ yếu lý lịch",
+   "synonyms": "résumé <i>(n. sơ yếu lý lịch (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>CV</i> (noun) = sơ yếu lý lịch. <b>Grammar</b>: viết tắt <i>curriculum vitae</i>.",
+   "example": {
+    "en": "After sending out lots of <b>CVs</b> and having some interviews, a small company employed me.",
+    "vi": "Sau khi gửi đi nhiều <b>sơ yếu lý lịch</b> và vài cuộc phỏng vấn, một công ty nhỏ đã tuyển tôi."
+   }
+  },
+  {
+   "word": "interview",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɪntəvjuː/",
+   "def_en": "A meeting where someone asks you questions to see if you are suitable for a job.",
+   "def_vi": "Buổi gặp hỏi để xem bạn có hợp với việc không.",
+   "gloss_vi": "buổi phỏng vấn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Interview</i> (noun) = buổi phỏng vấn. <b>Grammar</b>: <i>have/attend an interview</i>.",
+   "example": {
+    "en": "After sending out lots of CVs and having some <b>interviews</b>, a small company employed me.",
+    "vi": "Sau khi gửi nhiều sơ yếu lý lịch và qua vài <b>buổi phỏng vấn</b>, một công ty nhỏ đã tuyển tôi."
+   }
+  },
+  {
+   "word": "employ",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪmˈplɔɪ/",
+   "def_en": "To give someone a job.",
+   "def_vi": "Cho ai việc làm.",
+   "gloss_vi": "tuyển dụng, thuê",
+   "synonyms": "hire <i>(v. thuê)</i>",
+   "antonyms": "sack <i>(v. sa thải)</i>",
+   "grammar_vi": "<i>Employ</i> (verb) = tuyển dụng, thuê. <b>Grammar</b>: <i>employ sb (as sth)</i>. <b>Word family</b>: <i>employer, employee, employment</i>.",
+   "example": {
+    "en": "A small company <b>employed</b> me.",
+    "vi": "Một công ty nhỏ đã <b>tuyển</b> tôi."
+   }
+  },
+  {
+   "word": "training",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtreɪnɪŋ/",
+   "def_en": "Help and advice to learn how to do a job or activity.",
+   "def_vi": "Giúp đỡ để học cách làm công việc.",
+   "gloss_vi": "sự đào tạo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Training</i> (noun) = sự đào tạo. <b>Grammar</b>: không đếm được: <i>some training</i> (không <i>a training</i>).",
+   "example": {
+    "en": "The company gave me some <b>training</b>, which was good.",
+    "vi": "Công ty cho tôi một ít <b>đào tạo</b>, điều đó rất tốt."
+   }
+  },
+  {
+   "word": "training course",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈtreɪnɪŋ kɔːs/",
+   "def_en": "A period of organised help and advice, often in a different place.",
+   "def_vi": "Thời gian được hướng dẫn có tổ chức, thường ở nơi khác.",
+   "gloss_vi": "khóa đào tạo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Training course</i> (noun phrase) = khóa đào tạo. <b>Grammar</b>: <i>go on / do a training course</i> (không <i>formation, stage</i>).",
+   "example": {
+    "en": "You can also go on / do a <b>training course</b>.",
+    "vi": "Bạn cũng có thể tham gia một <b>khóa đào tạo</b>."
+   }
+  },
+  {
+   "word": "promote",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/prəˈməʊt/",
+   "def_en": "To give someone a better job with more responsibility.",
+   "def_vi": "Cho ai việc tốt hơn với nhiều trách nhiệm hơn.",
+   "gloss_vi": "thăng chức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Promote</i> (verb) = thăng chức. <b>Grammar</b>: thường bị động <i>be promoted (to sth)</i>.",
+   "example": {
+    "en": "I worked hard and soon I was <b>promoted</b>.",
+    "vi": "Tôi làm việc chăm chỉ và sớm được <b>thăng chức</b>."
+   }
+  },
+  {
+   "word": "pay rise",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈpeɪ raɪz/",
+   "def_en": "An increase in the money you are paid.",
+   "def_vi": "Sự tăng tiền lương.",
+   "gloss_vi": "sự tăng lương",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "pay cut <i>(np. giảm lương)</i>",
+   "grammar_vi": "<i>Pay rise</i> (noun phrase) = sự tăng lương. <b>Grammar</b>: Anh–Anh; Mỹ <i>raise</i>.",
+   "example": {
+    "en": "They also gave me a good <b>pay rise</b>.",
+    "vi": "Họ cũng cho tôi một khoản <b>tăng lương</b> tốt."
+   }
+  },
+  {
+   "word": "experience",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪkˈspɪəriəns/",
+   "def_en": "Knowledge you get from doing something such as a job.",
+   "def_vi": "Kiến thức có được từ làm việc gì.",
+   "gloss_vi": "kinh nghiệm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Experience</i> (noun) = kinh nghiệm. <b>Grammar</b>: không đếm được ở nghĩa này. <b>Common mistakes</b>: đếm được = trải nghiệm.",
+   "example": {
+    "en": "It was really good <b>experience</b>.",
+    "vi": "Đó thật sự là <b>kinh nghiệm</b> tốt."
+   }
+  },
+  {
+   "word": "promotion",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/prəˈməʊʃn/",
+   "def_en": "A move to a higher job in the company.",
+   "def_vi": "Việc lên vị trí cao hơn trong công ty.",
+   "gloss_vi": "sự thăng chức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Promotion</i> (noun) = sự thăng chức. <b>Grammar</b>: <i>get/be given a promotion</i>.",
+   "example": {
+    "en": "When my boss left the company, they gave me an important <b>promotion</b>.",
+    "vi": "Khi sếp rời công ty, họ cho tôi một <b>vị trí thăng chức</b> quan trọng."
+   }
+  },
+  {
+   "word": "abroad",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/əˈbrɔːd/",
+   "def_en": "In another country.",
+   "def_vi": "Ở nước khác.",
+   "gloss_vi": "ở nước ngoài",
+   "synonyms": "overseas <i>(adv. hải ngoại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Abroad</i> (adverb) = ở nước ngoài. <b>Grammar</b>: trạng từ: <i>go/work abroad</i> (không <i>to abroad</i>).",
+   "example": {
+    "en": "I decided I wanted to work <b>abroad</b>.",
+    "vi": "Tôi quyết định muốn làm việc ở <b>nước ngoài</b>."
+   }
+  },
+  {
+   "word": "quit your job",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌkwɪt jə ˈdʒɒb/",
+   "def_en": "To tell the company you are leaving.",
+   "def_vi": "Báo công ty là mình nghỉ.",
+   "gloss_vi": "nghỉ việc",
+   "synonyms": "resign <i>(v. từ chức)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Quit your job</i> (verb phrase) = nghỉ việc. <b>Grammar</b>: <i>quit – quit – quit</i>.",
+   "example": {
+    "en": "So, I <b>quit my job</b> and started looking for jobs in the UK.",
+    "vi": "Vì thế tôi <b>nghỉ việc</b> và bắt đầu tìm việc ở Anh."
+   }
+  },
+  {
+   "word": "resign",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rɪˈzaɪn/",
+   "def_en": "To say officially you are leaving a job.",
+   "def_vi": "Chính thức thông báo thôi việc.",
+   "gloss_vi": "từ chức, xin nghỉ",
+   "synonyms": "quit <i>(v. nghỉ việc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Resign</i> (verb) = từ chức, xin nghỉ. <b>Grammar</b>: <i>resign (from a job)</i>. <b>Word family</b>: <i>resignation</i> (n.). <b>Common mistakes</b>: <i>g</i> câm.",
+   "ex_kit": true,
+   "example": {
+    "en": "He <b>resigned</b> because he wanted to work abroad.",
+    "vi": "Anh ấy <b>từ chức</b> vì muốn làm việc ở nước ngoài."
+   }
+  },
+  {
+   "word": "sack",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/sæk/",
+   "def_en": "To tell someone to leave the company.",
+   "def_vi": "Bảo ai rời công ty.",
+   "gloss_vi": "sa thải",
+   "synonyms": "fire <i>(v. đuổi việc)</i>",
+   "antonyms": "employ <i>(v. tuyển dụng)</i>",
+   "grammar_vi": "<i>Sack</i> (verb) = sa thải. <b>Grammar</b>: <i>sack sb</i>; <i>give sb the sack</i>; <i>get the sack</i>.",
+   "example": {
+    "en": "Finally, the company <b>sacked</b> me.",
+    "vi": "Cuối cùng công ty <b>sa thải</b> tôi."
+   }
+  },
+  {
+   "word": "unemployed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʌnɪmˈplɔɪd/",
+   "def_en": "Without a job.",
+   "def_vi": "Không có việc làm.",
+   "gloss_vi": "thất nghiệp",
+   "synonyms": "out of work <i>(phr. không có việc)</i>",
+   "antonyms": "employed <i>(adj. có việc làm)</i>",
+   "grammar_vi": "<i>Unemployed</i> (adjective) = thất nghiệp. <b>Grammar</b>: <i>the unemployed</i> = người thất nghiệp. <b>Word family</b>: <i>unemployment</i> (n.).",
+   "example": {
+    "en": "After that I was <b>unemployed</b> for two months.",
+    "vi": "Sau đó tôi <b>thất nghiệp</b> hai tháng."
+   }
+  },
+  {
+   "word": "part-time",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌpɑːt ˈtaɪm/",
+   "def_en": "Working only part of the day or week.",
+   "def_vi": "Chỉ làm một phần ngày hay tuần.",
+   "gloss_vi": "bán thời gian",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "full-time <i>(adj. toàn thời gian)</i>",
+   "grammar_vi": "<i>Part-time</i> (adjective) = bán thời gian. <b>Grammar</b>: <i>a part-time job</i>; <i>work part-time</i> (trạng từ).",
+   "example": {
+    "en": "Finally I got a <b>part-time</b> job in the kitchen of a restaurant.",
+    "vi": "Cuối cùng tôi có một công việc <b>bán thời gian</b> trong bếp nhà hàng."
+   }
+  },
+  {
+   "word": "successful",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/səkˈsesfl/",
+   "def_en": "Doing well and making money.",
+   "def_vi": "Làm tốt và kiếm ra tiền.",
+   "gloss_vi": "thành công",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "unsuccessful <i>(adj. không thành công)</i>",
+   "grammar_vi": "<i>Successful</i> (adjective) = thành công. <b>Grammar</b>: <i>success</i> (n.) + <i>-ful</i>.",
+   "example": {
+    "en": "It was very <b>successful</b>.",
+    "vi": "Nhà hàng rất <b>thành công</b>."
+   }
+  },
+  {
+   "word": "owner",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈəʊnə(r)/",
+   "def_en": "A person who owns something.",
+   "def_vi": "Người sở hữu thứ gì.",
+   "gloss_vi": "chủ sở hữu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Owner</i> (noun) = chủ sở hữu. <b>Grammar</b>: <i>the owner of sth</i>. <b>Word family</b>: <i>own</i> (v.).",
+   "example": {
+    "en": "I was the <b>owner</b> of two hotels.",
+    "vi": "Tôi là <b>chủ</b> của hai khách sạn."
+   }
+  },
+  {
+   "word": "succeed",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/səkˈsiːd/",
+   "def_en": "To be successful.",
+   "def_vi": "Thành công.",
+   "gloss_vi": "thành công",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "fail <i>(v. thất bại)</i>",
+   "grammar_vi": "<i>Succeed</i> (verb) = thành công. <b>Grammar</b>: <i>succeed in (doing) sth</i>.",
+   "example": {
+    "en": "I believe anyone can <b>succeed</b> if they work hard enough.",
+    "vi": "Tôi tin ai cũng có thể <b>thành công</b> nếu làm việc đủ chăm."
+   }
+  },
+  {
+   "word": "retire",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rɪˈtaɪə(r)/",
+   "def_en": "To stop work, often at 60 or 65.",
+   "def_vi": "Thôi làm việc, thường lúc 60 hay 65.",
+   "gloss_vi": "nghỉ hưu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Retire</i> (verb) = nghỉ hưu. <b>Grammar</b>: <i>retire (from work)</i>. <b>Word family</b>: <i>retirement</i> (n.).",
+   "example": {
+    "en": "Last year, aged sixty, I <b>retired</b> and went back to Italy.",
+    "vi": "Năm ngoái, ở tuổi sáu mươi, tôi <b>nghỉ hưu</b> và về Ý."
+   }
+  }
+ ]
+}
