@@ -1,0 +1,428 @@
+{
+ "book": "pre",
+ "unit": 6,
+ "title_vi": "Thế giới tự nhiên",
+ "theory_html": "<p><b>A. Facts</b><br><i>A. Sự thật về thế giới</i></p> <p><b>Two thirds of the surface of the Earth is covered in water.</b> The hottest place <b>in the world</b> (<b>temperatures of over 57 degrees</b>), the coldest place <b>on earth</b> (<b>minus 89 °C</b>); the deepest <b>cave</b>, the longest <b>canal</b>, the highest <b>waterfall</b>, the largest <b>rainforest</b> and <b>ocean</b>.</p><p><i>Hai phần ba <b>bề mặt Trái Đất</b> được nước <b>bao phủ</b>; nơi nóng/lạnh nhất <b>trên thế giới / trên trái đất</b>; <b>hang, kênh đào, thác nước, rừng mưa nhiệt đới, đại dương</b>.</i></p> <p><b>Language help. Cover</b><br><i>Language help. Động từ cover</i></p> <p><b>cover</b> = be over something (<b>covered in water / covered with snow</b>), the size of something (<b>covers 40% of South America</b>) or the distance you travel (<b>We covered ten miles</b>).</p><p><i><b>cover</b> = phủ lên; chiếm (diện tích); đi được (quãng đường).</i></p> <p><b>B. Geography</b><br><i>B. Địa lý</i></p> <p><b>Switzerland consists of three main regions… a land of contrasts, with different landscapes. The climate can change within a short distance.</b> Compass points: <b>north, south, east, west, north-east, north-west, south-east, south-west</b>.</p><p><i><b>gồm có, vùng, sự tương phản, cảnh quan, khí hậu, khoảng cách</b>; các hướng.</i></p>",
+ "items": [
+  {
+   "word": "surface",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɜːfɪs/",
+   "def_en": "The top or outside part of something.",
+   "def_vi": "Phần trên cùng hay bên ngoài của vật.",
+   "gloss_vi": "bề mặt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Surface</i> (noun) = bề mặt. <b>Grammar</b>: <i>the surface of sth</i>; <i>on the surface</i>. <b>Common mistakes</b>: /ˈsɜːfɪs/, không đọc /feɪs/.",
+   "example": {
+    "en": "Two thirds of the <b>surface</b> of the Earth is covered in water.",
+    "vi": "Hai phần ba <b>bề mặt</b> Trái Đất được nước bao phủ."
+   }
+  },
+  {
+   "word": "the Earth",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ði ˈɜːθ/",
+   "def_en": "The planet we live on.",
+   "def_vi": "Hành tinh chúng ta sống.",
+   "gloss_vi": "Trái Đất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The Earth</i> (noun phrase) = Trái Đất. <b>Grammar</b>: thường có <i>the</i>, viết hoa <i>Earth</i> khi là hành tinh. <b>Collocations / chunks</b>: <i>on earth</i> (trên đời).",
+   "example": {
+    "en": "Two thirds of the surface of <b>the Earth</b> is covered in water.",
+    "vi": "Hai phần ba bề mặt <b>Trái Đất</b> được nước bao phủ."
+   }
+  },
+  {
+   "word": "covered in",
+   "sense": "",
+   "pos": "adjp",
+   "ipa": "/ˈkʌvəd ɪn/",
+   "def_en": "Having something all over the surface.",
+   "def_vi": "Bị phủ đầy thứ gì trên bề mặt.",
+   "gloss_vi": "được phủ, bao phủ bởi",
+   "synonyms": "covered with <i>(adjp. phủ đầy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Covered in</i> (adjp) = được phủ, bao phủ bởi. <b>Grammar</b>: <i>be covered in/with sth</i>: <i>covered with snow</i>.",
+   "example": {
+    "en": "Two thirds of the surface of the Earth is <b>covered in</b> water.",
+    "vi": "Hai phần ba bề mặt Trái Đất <b>được</b> nước <b>bao phủ</b>."
+   }
+  },
+  {
+   "word": "in the world",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪn ðə ˈwɜːld/",
+   "def_en": "Of all places on our planet; used after superlatives.",
+   "def_vi": "Trong mọi nơi trên hành tinh; dùng sau so sánh nhất.",
+   "gloss_vi": "trên thế giới",
+   "synonyms": "on earth <i>(phr. trên trái đất)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In the world</i> (phrase) = trên thế giới. <b>Grammar</b>: so sánh nhất + <i>in the world</i> (không dùng <i>of the world</i>).",
+   "example": {
+    "en": "El Azizia in Libya is the hottest place <b>in the world</b>.",
+    "vi": "El Azizia ở Libya là nơi nóng nhất <b>trên thế giới</b>."
+   }
+  },
+  {
+   "word": "temperature",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtemprətʃə(r)/",
+   "def_en": "How hot or cold something is.",
+   "def_vi": "Mức nóng hay lạnh.",
+   "gloss_vi": "nhiệt độ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Temperature</i> (noun) = nhiệt độ. <b>Grammar</b>: <i>a temperature of 30 degrees</i>; <i>high/low temperatures</i>. <b>Common mistakes</b>: /ˈtemprətʃə/.",
+   "example": {
+    "en": "<b>temperatures</b> of over 57 °C have been recorded",
+    "vi": "Ở đó đã ghi nhận <b>nhiệt độ</b> trên 57 °C."
+   }
+  },
+  {
+   "word": "degree",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈɡriː/",
+   "def_en": "A unit for measuring temperature.",
+   "def_vi": "Đơn vị đo nhiệt độ.",
+   "gloss_vi": "độ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Degree</i> (noun) = độ. <b>Grammar</b>: <i>degrees Celsius / Fahrenheit</i>; <i>10 degrees below zero</i>.",
+   "example": {
+    "en": "57 °C (57 <b>degrees</b> Celsius)",
+    "vi": "57 °C (57 <b>độ</b> C)."
+   }
+  },
+  {
+   "word": "on earth",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɒn ˈɜːθ/",
+   "def_en": "In the world; used after superlatives.",
+   "def_vi": "Trên thế giới; dùng sau so sánh nhất.",
+   "gloss_vi": "trên trái đất",
+   "synonyms": "in the world <i>(phr. trên thế giới)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>On earth</i> (phrase) = trên trái đất. <b>Grammar</b>: so sánh nhất + <i>on earth</i>. <b>Note</b>: <i>What on earth…?</i> = nhấn mạnh câu hỏi.",
+   "example": {
+    "en": "The coldest place <b>on earth</b> is probably Vostok in Antarctica.",
+    "vi": "Nơi lạnh nhất <b>trên trái đất</b> có lẽ là Vostok ở Nam Cực."
+   }
+  },
+  {
+   "word": "minus",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ˈmaɪnəs/",
+   "def_en": "Below zero, used for temperatures.",
+   "def_vi": "Dưới không độ, dùng cho nhiệt độ.",
+   "gloss_vi": "âm",
+   "synonyms": "below zero <i>(phr. dưới 0 độ)</i>",
+   "antonyms": "plus <i>(prep. cộng)</i>",
+   "grammar_vi": "<i>Minus</i> (preposition) = âm. <b>Grammar</b>: <i>minus</i> + số: <i>minus 10</i> = <i>10 degrees below zero</i>.",
+   "example": {
+    "en": "Vostok in Antarctica reached a temperature of <b>minus</b> 89 °C.",
+    "vi": "Nơi đó từng đạt nhiệt độ <b>âm</b> 89 °C."
+   }
+  },
+  {
+   "word": "over",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ˈəʊvə(r)/",
+   "def_en": "More than.",
+   "def_vi": "Hơn, trên (số lượng).",
+   "gloss_vi": "hơn, trên",
+   "synonyms": "more than <i>(phr. hơn)</i>",
+   "antonyms": "under <i>(prep. dưới)</i>",
+   "grammar_vi": "<i>Over</i> (preposition) = hơn, trên. <b>Grammar</b>: <i>over</i> + số lượng = <i>more than</i>. <b>Collocations / chunks</b>: <i>over 50 people</i>.",
+   "example": {
+    "en": "It is <b>over</b> 2000 metres deep.",
+    "vi": "Hang này sâu <b>hơn</b> 2000 mét."
+   }
+  },
+  {
+   "word": "cave",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/keɪv/",
+   "def_en": "A large hole in the side of a hill or under the ground.",
+   "def_vi": "Lỗ lớn trong sườn đồi hay dưới mặt đất.",
+   "gloss_vi": "hang động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cave</i> (noun) = hang động. <b>Grammar</b>: đếm được; viết hoa khi là tên riêng.",
+   "example": {
+    "en": "The Krubera-Voronja <b>Cave</b> near the Black Sea coast in Georgia, is the deepest cave in the world.",
+    "vi": "Hang Krubera-Voronja gần bờ Biển Đen ở Georgia là <b>hang</b> sâu nhất thế giới."
+   }
+  },
+  {
+   "word": "canal",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəˈnæl/",
+   "def_en": "A long man-made river for boats.",
+   "def_vi": "Dòng sông nhân tạo dài cho tàu thuyền.",
+   "gloss_vi": "kênh đào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Canal</i> (noun) = kênh đào. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: trọng âm âm tiết 2: /kəˈnæl/.",
+   "example": {
+    "en": "The Beijing–Hangzhou Grand <b>Canal</b> is the longest canal in the world.",
+    "vi": "Đại <b>kênh đào</b> Bắc Kinh–Hàng Châu là kênh đào dài nhất thế giới."
+   }
+  },
+  {
+   "word": "waterfall",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɔːtəfɔːl/",
+   "def_en": "A place where a river falls down from a high place.",
+   "def_vi": "Nơi dòng sông đổ xuống từ trên cao.",
+   "gloss_vi": "thác nước",
+   "synonyms": "falls <i>(n. thác)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Waterfall</i> (noun) = thác nước. <b>Grammar</b>: đếm được; tên riêng dùng <i>Falls</i> (<i>the Angel Falls</i>).",
+   "example": {
+    "en": "The highest <b>waterfall</b> in the world is the Angel Falls in Venezuela.",
+    "vi": "<b>Thác nước</b> cao nhất thế giới là thác Angel ở Venezuela."
+   }
+  },
+  {
+   "word": "rainforest",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈreɪnfɒrɪst/",
+   "def_en": "A thick forest in a hot area with a lot of rain.",
+   "def_vi": "Khu rừng rậm ở vùng nóng, mưa nhiều.",
+   "gloss_vi": "rừng mưa nhiệt đới",
+   "synonyms": "jungle <i>(n. rừng rậm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rainforest</i> (noun) = rừng mưa nhiệt đới. <b>Grammar</b>: đếm được; viết liền.",
+   "example": {
+    "en": "The Amazon Rainforest is the largest <b>rainforest</b> in the world.",
+    "vi": "Rừng Amazon là <b>rừng mưa nhiệt đới</b> lớn nhất thế giới."
+   }
+  },
+  {
+   "word": "cover",
+   "sense": "size",
+   "pos": "verb",
+   "ipa": "/ˈkʌvə(r)/",
+   "def_en": "To be a particular size or area.",
+   "def_vi": "Có diện tích, chiếm một vùng nhất định.",
+   "gloss_vi": "bao phủ, chiếm (diện tích)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cover</i> (verb) = bao phủ, chiếm (diện tích). <b>Grammar</b>: <i>cover</i> + diện tích / phần trăm. <b>Common mistakes</b>: cũng = đi được quãng đường: <i>We covered ten miles in one day</i>.",
+   "example": {
+    "en": "The Amazon rainforest <b>covers</b> 40% of South America.",
+    "vi": "Rừng Amazon <b>chiếm</b> 40% diện tích Nam Mỹ."
+   }
+  },
+  {
+   "word": "ocean",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈəʊʃn/",
+   "def_en": "One of the very large areas of sea on the Earth.",
+   "def_vi": "Một trong những vùng biển rất lớn của Trái Đất.",
+   "gloss_vi": "đại dương",
+   "synonyms": "sea <i>(n. biển)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ocean</i> (noun) = đại dương. <b>Grammar</b>: <i>the Pacific/Atlantic Ocean</i> (có <i>the</i>). <b>Common mistakes</b>: /ˈəʊʃn/.",
+   "example": {
+    "en": "The Pacific is the largest <b>ocean</b> in the world.",
+    "vi": "Thái Bình Dương là <b>đại dương</b> lớn nhất thế giới."
+   }
+  },
+  {
+   "word": "consist of",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/kənˈsɪst əv/",
+   "def_en": "To be made or formed from.",
+   "def_vi": "Được tạo thành từ.",
+   "gloss_vi": "gồm có",
+   "synonyms": "be made up of <i>(vp. được tạo thành từ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Consist of</i> (phrasal verb) = gồm có. <b>Grammar</b>: không dùng tiếp diễn và bị động: <i>consists of</i> (không <i>is consisted of</i>).",
+   "example": {
+    "en": "Switzerland <b>consists of</b> three main geographical regions.",
+    "vi": "Thụy Sĩ <b>gồm có</b> ba vùng địa lý chính."
+   }
+  },
+  {
+   "word": "region",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈriːdʒən/",
+   "def_en": "An area in a country or the world.",
+   "def_vi": "Một vùng trong một nước hay trên thế giới.",
+   "gloss_vi": "vùng, miền",
+   "synonyms": "area <i>(n. khu vực)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Region</i> (noun) = vùng, miền. <b>Grammar</b>: đếm được. <b>Word family</b>: <i>regional</i> (adj.).",
+   "example": {
+    "en": "Switzerland consists of three main geographical <b>regions</b>.",
+    "vi": "Thụy Sĩ gồm ba <b>vùng</b> địa lý chính."
+   }
+  },
+  {
+   "word": "contrast",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɒntrɑːst/",
+   "def_en": "A big difference.",
+   "def_vi": "Sự khác biệt lớn.",
+   "gloss_vi": "sự tương phản",
+   "synonyms": "difference <i>(n. sự khác biệt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Contrast</i> (noun) = sự tương phản. <b>Grammar</b>: <i>a contrast between A and B</i>. <b>Common mistakes</b>: danh từ nhấn âm 1 /ˈkɒn-/, động từ nhấn âm 2 /kənˈtrɑːst/.",
+   "example": {
+    "en": "Switzerland is a land of <b>contrasts</b>.",
+    "vi": "Thụy Sĩ là vùng đất của những <b>tương phản</b>."
+   }
+  },
+  {
+   "word": "landscape",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlændskeɪp/",
+   "def_en": "The appearance of an area of land.",
+   "def_vi": "Diện mạo của một vùng đất.",
+   "gloss_vi": "cảnh quan, phong cảnh",
+   "synonyms": "scenery <i>(n. phong cảnh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Landscape</i> (noun) = cảnh quan, phong cảnh. <b>Grammar</b>: đếm được (<i>scenery</i> không đếm được).",
+   "example": {
+    "en": "Switzerland is a land of contrasts, with completely different <b>landscapes</b>.",
+    "vi": "Thụy Sĩ có những <b>cảnh quan</b> hoàn toàn khác nhau."
+   }
+  },
+  {
+   "word": "climate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈklaɪmət/",
+   "def_en": "The usual weather conditions in a place.",
+   "def_vi": "Điều kiện thời tiết thường có ở một nơi.",
+   "gloss_vi": "khí hậu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Climate</i> (noun) = khí hậu. <b>Grammar</b>: <i>a cold/Mediterranean climate</i>. <b>Common mistakes</b>: /ˈklaɪmət/, không đọc /-meɪt/.",
+   "example": {
+    "en": "The <b>climate</b> can also change within a very short distance.",
+    "vi": "<b>Khí hậu</b> cũng có thể thay đổi trong một khoảng cách rất ngắn."
+   }
+  },
+  {
+   "word": "distance",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdɪstəns/",
+   "def_en": "The amount of space between two places.",
+   "def_vi": "Khoảng không gian giữa hai nơi.",
+   "gloss_vi": "khoảng cách",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Distance</i> (noun) = khoảng cách. <b>Grammar</b>: <i>the distance between A and B</i>; <i>a short/long distance</i>. <b>Word family</b>: <i>distant</i> (adj.).",
+   "example": {
+    "en": "The <b>distance</b> between the two is just 70 kilometres.",
+    "vi": "<b>Khoảng cách</b> giữa hai nơi chỉ là 70 km."
+   }
+  },
+  {
+   "word": "in the south",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪn ðə ˈsaʊθ/",
+   "def_en": "In the southern part of a country or area.",
+   "def_vi": "Ở phần phía nam của một nước hay vùng.",
+   "gloss_vi": "ở phía nam",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "in the north <i>(phr. ở phía bắc)</i>",
+   "grammar_vi": "<i>In the south</i> (phrase) = ở phía nam. <b>Grammar</b>: <i>in the north/south/east/west of</i> + nơi chốn.",
+   "example": {
+    "en": "Ascona <b>in the south</b> has an almost Mediterranean climate.",
+    "vi": "Ascona <b>ở phía nam</b> có khí hậu gần như Địa Trung Hải."
+   }
+  },
+  {
+   "word": "north",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/nɔːθ/",
+   "def_en": "The direction to your left when you face the rising sun.",
+   "def_vi": "Hướng bên trái khi bạn quay mặt về phía mặt trời mọc.",
+   "gloss_vi": "phía bắc, hướng bắc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "south <i>(n. phía nam)</i>",
+   "grammar_vi": "<i>North</i> (noun) = phía bắc, hướng bắc. <b>Grammar</b>: <i>in the north</i>; <i>north-east, north-west</i> (có gạch nối). <b>Word family</b>: <i>northern</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "Basel is in the <b>north</b> of Switzerland.",
+    "vi": "Basel nằm ở <b>phía bắc</b> Thụy Sĩ."
+   }
+  },
+  {
+   "word": "east",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/iːst/",
+   "def_en": "The direction where the sun rises.",
+   "def_vi": "Hướng mặt trời mọc.",
+   "gloss_vi": "phía đông, hướng đông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "west <i>(n. phía tây)</i>",
+   "grammar_vi": "<i>East</i> (noun) = phía đông, hướng đông. <b>Grammar</b>: <i>in the east</i>; <i>south-east, north-east</i>. <b>Word family</b>: <i>eastern</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "St Gallen is in the <b>east</b> of Switzerland.",
+    "vi": "St Gallen nằm ở <b>phía đông</b> Thụy Sĩ."
+   }
+  },
+  {
+   "word": "west",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/west/",
+   "def_en": "The direction where the sun goes down.",
+   "def_vi": "Hướng mặt trời lặn.",
+   "gloss_vi": "phía tây, hướng tây",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "east <i>(n. phía đông)</i>",
+   "grammar_vi": "<i>West</i> (noun) = phía tây, hướng tây. <b>Grammar</b>: <i>in the west</i>; <i>south-west, north-west</i>. <b>Word family</b>: <i>western</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "Geneva is in the <b>west</b> of Switzerland.",
+    "vi": "Geneva nằm ở <b>phía tây</b> Thụy Sĩ."
+   }
+  },
+  {
+   "word": "south",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/saʊθ/",
+   "def_en": "The direction opposite north.",
+   "def_vi": "Hướng ngược với phía bắc.",
+   "gloss_vi": "phía nam, hướng nam",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "north <i>(n. phía bắc)</i>",
+   "grammar_vi": "<i>South</i> (noun) = phía nam, hướng nam. <b>Grammar</b>: <i>in the south</i>; <i>south-east, south-west</i>. <b>Word family</b>: <i>southern</i> (adj.) /ˈsʌðən/.",
+   "ex_kit": true,
+   "example": {
+    "en": "Locarno is in the <b>south</b> of Switzerland.",
+    "vi": "Locarno nằm ở <b>phía nam</b> Thụy Sĩ."
+   }
+  }
+ ]
+}
