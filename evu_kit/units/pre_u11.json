@@ -1,0 +1,548 @@
+{
+ "book": "pre",
+ "unit": 11,
+ "title_vi": "Miêu tả tính cách",
+ "theory_html": "<p><b>A. What are you like?</b><br><i>A. Bạn là người thế nào?</i></p> <p>Pairs to describe your <b>character</b> (what you are like as a person): <b>positive / negative, reliable / unreliable, confident / shy, hard-working / lazy, a good sense of humour / serious, patient / impatient</b>. Ask <b>What’s he like?</b> (NOT <b>How is he like?</b>).</p><p><i>Các cặp từ tả <b>tính cách</b>: tích cực/tiêu cực, đáng tin/không đáng tin, tự tin/nhút nhát, chăm chỉ/lười, hài hước/nghiêm túc, kiên nhẫn/thiếu kiên nhẫn. Hỏi <b>What’s he like?</b></i></p> <p><b>B. Opposites</b><br><i>B. Từ trái nghĩa</i></p> <p><b>generous / mean, honest / dishonest, clever, intelligent / stupid, calm / nervous, anxious</b>. <b>kind</b> = wants to help people; <b>nice, friendly, pleasant</b> = happy to talk to people; opposites <b>unkind, unfriendly, unpleasant</b>.</p><p><i><b>hào phóng/keo kiệt, trung thực/không trung thực, thông minh/ngốc, bình tĩnh/lo lắng; tốt bụng, dễ mến, thân thiện, dễ chịu</b>.</i></p> <p><b>C. Describing a friend</b><br><i>C. Miêu tả một người bạn</i></p> <p><b>She’s very sensible… I’ve never known Emilia to do anything silly, and I can always trust her. She’s very creative… a very talented artist. I wish I had her talent.</b></p><p><i><b>biết điều, ngớ ngẩn, tin tưởng, sáng tạo, có tài, ước, tài năng</b>.</i></p>",
+ "items": [
+  {
+   "word": "character",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkærəktə(r)/",
+   "def_en": "What you are like as a person.",
+   "def_vi": "Con người bạn là thế nào.",
+   "gloss_vi": "tính cách",
+   "synonyms": "personality <i>(n. tính cách)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Character</i> (noun) = tính cách. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: /ˈkærəktə/, <i>ch</i> = /k/.",
+   "example": {
+    "en": "Describe your <b>character</b>.",
+    "vi": "Hãy miêu tả <b>tính cách</b> của bạn."
+   }
+  },
+  {
+   "word": "positive",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈpɒzətɪv/",
+   "def_en": "Believing that good things will happen.",
+   "def_vi": "Tin rằng điều tốt sẽ xảy ra.",
+   "gloss_vi": "lạc quan, tích cực",
+   "synonyms": "optimistic <i>(adj. lạc quan)</i>",
+   "antonyms": "negative <i>(adj. tiêu cực)</i>",
+   "grammar_vi": "<i>Positive</i> (adjective) = lạc quan, tích cực. <b>Grammar</b>: <i>a positive person/attitude</i>.",
+   "example": {
+    "en": "I think I’m very <b>positive</b>.",
+    "vi": "Tôi nghĩ tôi rất <b>tích cực</b>."
+   }
+  },
+  {
+   "word": "negative",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈneɡətɪv/",
+   "def_en": "Believing that bad things will happen.",
+   "def_vi": "Tin rằng điều xấu sẽ xảy ra.",
+   "gloss_vi": "tiêu cực",
+   "synonyms": "pessimistic <i>(adj. bi quan)</i>",
+   "antonyms": "positive <i>(adj. tích cực)</i>",
+   "grammar_vi": "<i>Negative</i> (adjective) = tiêu cực. <b>Grammar</b>: <i>quite a negative person</i> (vị trí <i>quite a</i>).",
+   "example": {
+    "en": "I’m quite a <b>negative</b> person.",
+    "vi": "Tôi là người khá <b>tiêu cực</b>."
+   }
+  },
+  {
+   "word": "reliable",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/rɪˈlaɪəbl/",
+   "def_en": "Can be trusted to do what people expect you to do.",
+   "def_vi": "Có thể tin sẽ làm điều người khác mong đợi.",
+   "gloss_vi": "đáng tin cậy",
+   "synonyms": "dependable <i>(adj. đáng tin)</i>",
+   "antonyms": "unreliable <i>(adj. không đáng tin)</i>",
+   "grammar_vi": "<i>Reliable</i> (adjective) = đáng tin cậy. <b>Grammar</b>: <i>rely on</i> (v.) → <i>reliable</i>.",
+   "example": {
+    "en": "I’m usually <b>reliable</b>.",
+    "vi": "Tôi thường <b>đáng tin cậy</b>."
+   }
+  },
+  {
+   "word": "unreliable",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʌnrɪˈlaɪəbl/",
+   "def_en": "Cannot be trusted to do what people expect.",
+   "def_vi": "Không thể tin sẽ làm điều được mong đợi.",
+   "gloss_vi": "không đáng tin cậy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "reliable <i>(adj. đáng tin cậy)</i>",
+   "grammar_vi": "<i>Unreliable</i> (adjective) = không đáng tin cậy. <b>Grammar</b>: tiền tố <i>un-</i> = không.",
+   "example": {
+    "en": "I’m quite <b>unreliable</b>.",
+    "vi": "Tôi khá <b>không đáng tin cậy</b>."
+   }
+  },
+  {
+   "word": "confident",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈkɒnfɪdənt/",
+   "def_en": "Feeling sure about yourself and your abilities.",
+   "def_vi": "Chắc chắn về bản thân và khả năng của mình.",
+   "gloss_vi": "tự tin",
+   "synonyms": "self-confident <i>(adj. tự tin)</i>",
+   "antonyms": "shy <i>(adj. nhút nhát)</i>",
+   "grammar_vi": "<i>Confident</i> (adjective) = tự tin. <b>Grammar</b>: <i>confident about/of sth</i>. <b>Word family</b>: <i>confidence</i> (n.).",
+   "example": {
+    "en": "I’m quite <b>confident</b>.",
+    "vi": "Tôi khá <b>tự tin</b>."
+   }
+  },
+  {
+   "word": "shy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ʃaɪ/",
+   "def_en": "Not confident, especially about meeting or talking to new people.",
+   "def_vi": "Không tự tin, nhất là khi gặp hay nói chuyện với người lạ.",
+   "gloss_vi": "nhút nhát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "confident <i>(adj. tự tin)</i>",
+   "grammar_vi": "<i>Shy</i> (adjective) = nhút nhát. <b>Grammar</b>: <i>shy – shyer – shyest</i>. <b>Word family</b>: <i>shyness</i> (n.).",
+   "example": {
+    "en": "I’m quite <b>shy</b>.",
+    "vi": "Tôi khá <b>nhút nhát</b>."
+   }
+  },
+  {
+   "word": "hard-working",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌhɑːd ˈwɜːkɪŋ/",
+   "def_en": "Putting a lot of effort and time into your work.",
+   "def_vi": "Bỏ nhiều công sức và thời gian vào công việc.",
+   "gloss_vi": "chăm chỉ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "lazy <i>(adj. lười)</i>",
+   "grammar_vi": "<i>Hard-working</i> (adjective) = chăm chỉ. <b>Grammar</b>: có gạch nối.",
+   "example": {
+    "en": "I’m <b>hard-working</b>.",
+    "vi": "Tôi <b>chăm chỉ</b>."
+   }
+  },
+  {
+   "word": "lazy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈleɪzi/",
+   "def_en": "Not wanting to work or make an effort.",
+   "def_vi": "Không muốn làm việc hay cố gắng.",
+   "gloss_vi": "lười biếng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "hard-working <i>(adj. chăm chỉ)</i>",
+   "grammar_vi": "<i>Lazy</i> (adjective) = lười biếng. <b>Grammar</b>: <i>lazy – lazier – laziest</i>.",
+   "example": {
+    "en": "I’m quite <b>lazy</b>.",
+    "vi": "Tôi khá <b>lười</b>."
+   }
+  },
+  {
+   "word": "sense of humour",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌsens əv ˈhjuːmə(r)/",
+   "def_en": "The ability to laugh and understand when something is funny.",
+   "def_vi": "Khả năng cười và hiểu khi điều gì buồn cười.",
+   "gloss_vi": "óc hài hước",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sense of humour</i> (noun phrase) = óc hài hước. <b>Grammar</b>: <i>have a good/great sense of humour</i>. <b>Word family</b>: Mỹ <i>humor</i>.",
+   "example": {
+    "en": "I have a good <b>sense of humour</b>.",
+    "vi": "Tôi có <b>óc hài hước</b> tốt."
+   }
+  },
+  {
+   "word": "serious",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsɪəriəs/",
+   "def_en": "(Of a person) quiet and not laughing very much.",
+   "def_vi": "(Người) trầm lặng, ít cười.",
+   "gloss_vi": "nghiêm túc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Serious</i> (adjective) = nghiêm túc. <b>Grammar</b>: <i>a serious person</i>. <b>Common mistakes</b>: cũng = nghiêm trọng (<i>a serious problem</i>).",
+   "example": {
+    "en": "I’m usually quite <b>serious</b>.",
+    "vi": "Tôi thường khá <b>nghiêm túc</b>."
+   }
+  },
+  {
+   "word": "patient",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈpeɪʃnt/",
+   "def_en": "Able to stay calm and not get angry when things take a lot of time.",
+   "def_vi": "Giữ bình tĩnh, không giận khi việc mất nhiều thời gian.",
+   "gloss_vi": "kiên nhẫn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "impatient <i>(adj. thiếu kiên nhẫn)</i>",
+   "grammar_vi": "<i>Patient</i> (adjective) = kiên nhẫn. <b>Grammar</b>: <i>patient with sb</i>. <b>Common mistakes</b>: cũng là danh từ (bệnh nhân).",
+   "example": {
+    "en": "I’m usually quite <b>patient</b>.",
+    "vi": "Tôi thường khá <b>kiên nhẫn</b>."
+   }
+  },
+  {
+   "word": "impatient",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪmˈpeɪʃnt/",
+   "def_en": "Not able to wait calmly.",
+   "def_vi": "Không chờ đợi bình tĩnh được.",
+   "gloss_vi": "thiếu kiên nhẫn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "patient <i>(adj. kiên nhẫn)</i>",
+   "grammar_vi": "<i>Impatient</i> (adjective) = thiếu kiên nhẫn. <b>Grammar</b>: tiền tố <i>im-</i> trước <i>p</i>.",
+   "example": {
+    "en": "I’m quite <b>impatient</b>.",
+    "vi": "Tôi khá <b>thiếu kiên nhẫn</b>."
+   }
+  },
+  {
+   "word": "generous",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈdʒenərəs/",
+   "def_en": "Happy to give more money or help than is usual.",
+   "def_vi": "Sẵn lòng cho nhiều tiền hay giúp đỡ hơn bình thường.",
+   "gloss_vi": "hào phóng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "mean <i>(adj. keo kiệt)</i>",
+   "grammar_vi": "<i>Generous</i> (adjective) = hào phóng. <b>Grammar</b>: <i>generous to sb</i>. <b>Word family</b>: <i>generosity</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "My grandfather is very <b>generous</b> – he always gives us money.",
+    "vi": "Ông tôi rất <b>hào phóng</b> – ông luôn cho chúng tôi tiền."
+   }
+  },
+  {
+   "word": "mean",
+   "sense": "character",
+   "pos": "adjective",
+   "ipa": "/miːn/",
+   "def_en": "Not wanting to give money or share things.",
+   "def_vi": "Không muốn cho tiền hay chia sẻ.",
+   "gloss_vi": "keo kiệt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "generous <i>(adj. hào phóng)</i>",
+   "grammar_vi": "<i>Mean</i> (adjective) = keo kiệt. <b>Grammar</b>: Anh–Anh = keo kiệt; Mỹ thường = xấu tính.",
+   "ex_kit": true,
+   "example": {
+    "en": "He’s so <b>mean</b> he never buys anyone a drink.",
+    "vi": "Anh ấy quá <b>keo kiệt</b> đến nỗi không bao giờ mua đồ uống cho ai."
+   }
+  },
+  {
+   "word": "honest",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɒnɪst/",
+   "def_en": "Always telling the truth.",
+   "def_vi": "Luôn nói thật.",
+   "gloss_vi": "trung thực",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "dishonest <i>(adj. không trung thực)</i>",
+   "grammar_vi": "<i>Honest</i> (adjective) = trung thực. <b>Grammar</b>: <i>an honest</i> (<i>h</i> câm). <b>Word family</b>: <i>honesty</i> (n.).",
+   "example": {
+    "en": "An <b>honest</b> person tells the truth.",
+    "vi": "Một người <b>trung thực</b> nói sự thật."
+   }
+  },
+  {
+   "word": "dishonest",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dɪsˈɒnɪst/",
+   "def_en": "Not telling the truth.",
+   "def_vi": "Không nói thật.",
+   "gloss_vi": "không trung thực",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "honest <i>(adj. trung thực)</i>",
+   "grammar_vi": "<i>Dishonest</i> (adjective) = không trung thực. <b>Grammar</b>: tiền tố <i>dis-</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I don’t trust him – he’s <b>dishonest</b>.",
+    "vi": "Tôi không tin anh ta – anh ta <b>không trung thực</b>."
+   }
+  },
+  {
+   "word": "clever",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈklevə(r)/",
+   "def_en": "Able to learn and understand things quickly.",
+   "def_vi": "Học và hiểu nhanh.",
+   "gloss_vi": "thông minh, lanh lợi",
+   "synonyms": "intelligent <i>(adj. thông minh)</i>",
+   "antonyms": "stupid <i>(adj. ngu ngốc)</i>",
+   "grammar_vi": "<i>Clever</i> (adjective) = thông minh, lanh lợi. <b>Grammar</b>: <i>clever – cleverer – cleverest</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She’s very <b>clever</b> – she learns everything so quickly.",
+    "vi": "Cô ấy rất <b>thông minh</b> – cô ấy học mọi thứ rất nhanh."
+   }
+  },
+  {
+   "word": "intelligent",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪnˈtelɪdʒənt/",
+   "def_en": "Able to learn and understand things quickly.",
+   "def_vi": "Học và hiểu nhanh.",
+   "gloss_vi": "thông minh",
+   "synonyms": "clever <i>(adj. thông minh)</i>",
+   "antonyms": "stupid <i>(adj. ngu ngốc)</i>",
+   "grammar_vi": "<i>Intelligent</i> (adjective) = thông minh. <b>Grammar</b>: <i>more intelligent</i>. <b>Word family</b>: <i>intelligence</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "He’s a very <b>intelligent</b> student.",
+    "vi": "Anh ấy là một học sinh rất <b>thông minh</b>."
+   }
+  },
+  {
+   "word": "stupid",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈstjuːpɪd/",
+   "def_en": "Not intelligent.",
+   "def_vi": "Không thông minh.",
+   "gloss_vi": "ngu ngốc",
+   "synonyms": "silly <i>(adj. ngớ ngẩn)</i>",
+   "antonyms": "clever <i>(adj. thông minh)</i>",
+   "grammar_vi": "<i>Stupid</i> (adjective) = ngu ngốc. <b>Grammar</b>: <i>a stupid question/mistake</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "That was a <b>stupid</b> question.",
+    "vi": "Đó là một câu hỏi <b>ngớ ngẩn</b>."
+   }
+  },
+  {
+   "word": "calm",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kɑːm/",
+   "def_en": "Relaxed and not worried or frightened.",
+   "def_vi": "Thoải mái, không lo lắng hay sợ.",
+   "gloss_vi": "bình tĩnh",
+   "synonyms": "relaxed <i>(adj. thư thái)</i>",
+   "antonyms": "nervous <i>(adj. lo lắng)</i>",
+   "grammar_vi": "<i>Calm</i> (adjective) = bình tĩnh. <b>Grammar</b>: <i>stay/keep calm</i>. <b>Common mistakes</b>: <i>l</i> câm /kɑːm/.",
+   "ex_kit": true,
+   "example": {
+    "en": "She always stays <b>calm</b>, even when things go wrong.",
+    "vi": "Cô ấy luôn <b>bình tĩnh</b>, kể cả khi có chuyện không ổn."
+   }
+  },
+  {
+   "word": "nervous",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈnɜːvəs/",
+   "def_en": "Worried or frightened.",
+   "def_vi": "Lo lắng hay sợ.",
+   "gloss_vi": "lo lắng, hồi hộp",
+   "synonyms": "anxious <i>(adj. lo âu)</i>",
+   "antonyms": "calm <i>(adj. bình tĩnh)</i>",
+   "grammar_vi": "<i>Nervous</i> (adjective) = lo lắng, hồi hộp. <b>Grammar</b>: <i>nervous about sth</i>; <i>get nervous</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I always get <b>nervous</b> before exams.",
+    "vi": "Tôi luôn <b>hồi hộp</b> trước kỳ thi."
+   }
+  },
+  {
+   "word": "anxious",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈæŋkʃəs/",
+   "def_en": "Worried and nervous.",
+   "def_vi": "Lo lắng, bồn chồn.",
+   "gloss_vi": "lo âu",
+   "synonyms": "nervous <i>(adj. lo lắng)</i>",
+   "antonyms": "calm <i>(adj. bình tĩnh)</i>",
+   "grammar_vi": "<i>Anxious</i> (adjective) = lo âu. <b>Grammar</b>: <i>anxious about sth</i>. <b>Common mistakes</b>: /ˈæŋkʃəs/.",
+   "ex_kit": true,
+   "example": {
+    "en": "She’s <b>anxious</b> about her exam results.",
+    "vi": "Cô ấy <b>lo lắng</b> về kết quả thi."
+   }
+  },
+  {
+   "word": "kind",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kaɪnd/",
+   "def_en": "Wanting to help people a lot.",
+   "def_vi": "Muốn giúp người khác nhiều.",
+   "gloss_vi": "tốt bụng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "unkind <i>(adj. không tử tế)</i>",
+   "grammar_vi": "<i>Kind</i> (adjective) = tốt bụng. <b>Grammar</b>: <i>kind to sb</i>; <i>It’s kind of you to…</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "It’s very <b>kind</b> of you to help me.",
+    "vi": "Thật <b>tốt bụng</b> khi bạn giúp tôi."
+   }
+  },
+  {
+   "word": "friendly",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈfrendli/",
+   "def_en": "Happy to talk to people.",
+   "def_vi": "Vui vẻ trò chuyện với người khác.",
+   "gloss_vi": "thân thiện",
+   "synonyms": "nice <i>(adj. dễ mến)</i>",
+   "antonyms": "unfriendly <i>(adj. không thân thiện)</i>",
+   "grammar_vi": "<i>Friendly</i> (adjective) = thân thiện. <b>Grammar</b>: tận cùng <i>-ly</i> nhưng là tính từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "Our neighbours are very <b>friendly</b>.",
+    "vi": "Hàng xóm của chúng tôi rất <b>thân thiện</b>."
+   }
+  },
+  {
+   "word": "pleasant",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈpleznt/",
+   "def_en": "Nice and happy to talk to people.",
+   "def_vi": "Dễ mến, vui vẻ trò chuyện với người khác.",
+   "gloss_vi": "dễ chịu",
+   "synonyms": "nice <i>(adj. dễ mến)</i>",
+   "antonyms": "unpleasant <i>(adj. khó chịu)</i>",
+   "grammar_vi": "<i>Pleasant</i> (adjective) = dễ chịu. <b>Grammar</b>: <i>pleasant to sb</i>. <b>Common mistakes</b>: /ˈpleznt/.",
+   "ex_kit": true,
+   "example": {
+    "en": "The shop assistant was very <b>pleasant</b> and helpful.",
+    "vi": "Cô bán hàng rất <b>dễ chịu</b> và hay giúp đỡ."
+   }
+  },
+  {
+   "word": "sensible",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsensəbl/",
+   "def_en": "Practical; not doing stupid things.",
+   "def_vi": "Thực tế; không làm điều ngốc nghếch.",
+   "gloss_vi": "biết điều, khôn ngoan",
+   "synonyms": "practical <i>(adj. thực tế)</i>",
+   "antonyms": "silly <i>(adj. ngớ ngẩn)</i>",
+   "grammar_vi": "<i>Sensible</i> (adjective) = biết điều, khôn ngoan. <b>Grammar</b>: ≠ <i>sensitive</i> (nhạy cảm).",
+   "example": {
+    "en": "My best friend is very <b>sensible</b>.",
+    "vi": "Bạn thân tôi rất <b>biết điều</b>."
+   }
+  },
+  {
+   "word": "silly",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsɪli/",
+   "def_en": "Not sensible, a bit stupid.",
+   "def_vi": "Không biết điều, hơi ngốc.",
+   "gloss_vi": "ngớ ngẩn",
+   "synonyms": "stupid <i>(adj. ngốc)</i>",
+   "antonyms": "sensible <i>(adj. biết điều)</i>",
+   "grammar_vi": "<i>Silly</i> (adjective) = ngớ ngẩn. <b>Grammar</b>: <i>anything/something silly</i>.",
+   "example": {
+    "en": "I’ve never known Emilia to do anything <b>silly</b>.",
+    "vi": "Tôi chưa từng thấy Emilia làm điều gì <b>ngớ ngẩn</b>."
+   }
+  },
+  {
+   "word": "trust",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/trʌst/",
+   "def_en": "To be sure that someone is honest.",
+   "def_vi": "Chắc chắn ai đó trung thực.",
+   "gloss_vi": "tin tưởng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "distrust <i>(v. không tin)</i>",
+   "grammar_vi": "<i>Trust</i> (verb) = tin tưởng. <b>Grammar</b>: <i>trust sb</i> (không dùng <i>trust in sb</i> trong văn nói thường). <b>Word family</b>: <i>trust</i> (n.).",
+   "example": {
+    "en": "I know I can always <b>trust</b> her.",
+    "vi": "Tôi biết mình luôn có thể <b>tin tưởng</b> cô ấy."
+   }
+  },
+  {
+   "word": "creative",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kriˈeɪtɪv/",
+   "def_en": "Good at thinking of new ideas and using your imagination.",
+   "def_vi": "Giỏi nghĩ ý mới và dùng trí tưởng tượng.",
+   "gloss_vi": "sáng tạo",
+   "synonyms": "imaginative <i>(adj. giàu tưởng tượng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Creative</i> (adjective) = sáng tạo. <b>Grammar</b>: <i>create</i> (v.) → <i>creative</i>. <b>Common mistakes</b>: /kriˈeɪtɪv/.",
+   "example": {
+    "en": "She’s also very <b>creative</b>.",
+    "vi": "Cô ấy cũng rất <b>sáng tạo</b>."
+   }
+  },
+  {
+   "word": "talented",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈtæləntɪd/",
+   "def_en": "Having a natural ability.",
+   "def_vi": "Có khả năng bẩm sinh.",
+   "gloss_vi": "có tài",
+   "synonyms": "gifted <i>(adj. có năng khiếu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Talented</i> (adjective) = có tài. <b>Grammar</b>: <i>a talented artist/player</i>.",
+   "example": {
+    "en": "She’s a very <b>talented</b> artist.",
+    "vi": "Cô ấy là một họa sĩ rất <b>có tài</b>."
+   }
+  },
+  {
+   "word": "wish",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/wɪʃ/",
+   "def_en": "To want something that is not true now.",
+   "def_vi": "Muốn điều hiện không có thật.",
+   "gloss_vi": "ước",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wish</i> (verb) = ước. <b>Grammar</b>: <i>wish</i> + quá khứ (<i>I wish I had…</i>) cho điều không có thật.",
+   "example": {
+    "en": "I <b>wish</b> I had her talent.",
+    "vi": "Tôi <b>ước</b> mình có tài năng như cô ấy."
+   }
+  },
+  {
+   "word": "talent",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtælənt/",
+   "def_en": "A natural ability to do something well.",
+   "def_vi": "Khả năng bẩm sinh làm tốt việc gì.",
+   "gloss_vi": "tài năng",
+   "synonyms": "gift <i>(n. năng khiếu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Talent</i> (noun) = tài năng. <b>Grammar</b>: <i>a talent for sth</i>.",
+   "example": {
+    "en": "I wish I had her <b>talent</b>.",
+    "vi": "Tôi ước mình có <b>tài năng</b> như cô ấy."
+   }
+  }
+ ]
+}

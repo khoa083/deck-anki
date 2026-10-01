@@ -1,0 +1,543 @@
+{
+ "book": "pre",
+ "unit": 9,
+ "title_vi": "Cơ thể và cử động",
+ "theory_html": "<p><b>A. Parts of the body</b><br><i>A. Các bộ phận cơ thể</i></p> <p><b>The outer part of the body is covered in skin.</b> Labels: <b>forehead, cheek, chin, lips, neck, shoulder, chest, breast, waist, hip, bottom, elbow, wrist, thumb, knee, ankle, heel, toe</b>.</p><p><i><b>da</b>; trán, má, cằm, môi, cổ, vai, ngực, eo, hông, mông, khuỷu tay, cổ tay, ngón cái, đầu gối, mắt cá, gót chân, ngón chân.</i></p> <p><b>B. Movements with your mouth, face and head</b><br><i>B. Cử động của miệng, mặt, đầu</i></p> <p><b>breathe (in/out), smile (at), laugh at, cry, nod your head</b> (yes), <b>shake your head</b> (no), <b>yawn</b> (tired/bored).</p><p><i><b>thở (vào/ra), mỉm cười, cười, khóc, gật đầu, lắc đầu, ngáp</b>.</i></p> <p><b>C. Common expressions</b><br><i>C. Cụm thường gặp</i></p> <p><b>shake hands with someone, fold your arms, comb your hair, wave to somebody, blow your nose</b>.</p><p><i><b>bắt tay, khoanh tay, chải tóc, vẫy tay chào, hỉ mũi</b>.</i></p>",
+ "items": [
+  {
+   "word": "skin",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/skɪn/",
+   "def_en": "The outer part of the body.",
+   "def_vi": "Lớp ngoài cùng của cơ thể.",
+   "gloss_vi": "da",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Skin</i> (noun) = da. <b>Grammar</b>: không đếm được (<i>dry/oily skin</i>).",
+   "example": {
+    "en": "Too much sun is bad for your <b>skin</b>.",
+    "vi": "Quá nhiều nắng có hại cho <b>da</b> của bạn."
+   }
+  },
+  {
+   "word": "forehead",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfɔːhed/",
+   "def_en": "The part of the face above your eyes.",
+   "def_vi": "Phần mặt phía trên mắt.",
+   "gloss_vi": "trán",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Forehead</i> (noun) = trán. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: /ˈfɔːhed/ hoặc /ˈfɒrɪd/.",
+   "ex_kit": true,
+   "example": {
+    "en": "She put her hand on my <b>forehead</b> to see if I had a temperature.",
+    "vi": "Cô ấy đặt tay lên <b>trán</b> tôi xem tôi có sốt không."
+   }
+  },
+  {
+   "word": "cheek",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tʃiːk/",
+   "def_en": "The soft part of your face below your eyes.",
+   "def_vi": "Phần mềm trên mặt dưới mắt.",
+   "gloss_vi": "má",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cheek</i> (noun) = má. <b>Grammar</b>: <i>on the cheek</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She kissed her grandson on the <b>cheek</b>.",
+    "vi": "Bà hôn lên <b>má</b> cháu."
+   }
+  },
+  {
+   "word": "chin",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tʃɪn/",
+   "def_en": "The part of your face below your mouth.",
+   "def_vi": "Phần mặt dưới miệng.",
+   "gloss_vi": "cằm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chin</i> (noun) = cằm. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "He has a small scar on his <b>chin</b>.",
+    "vi": "Anh ấy có một vết sẹo nhỏ trên <b>cằm</b>."
+   }
+  },
+  {
+   "word": "lips",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/lɪps/",
+   "def_en": "The two soft edges of your mouth.",
+   "def_vi": "Hai mép mềm của miệng.",
+   "gloss_vi": "môi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lips</i> (plural noun) = môi. <b>Grammar</b>: số ít <i>lip</i>. <b>Collocations / chunks</b>: <i>lipstick</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "My <b>lips</b> are dry because of the cold.",
+    "vi": "<b>Môi</b> tôi bị khô vì lạnh."
+   }
+  },
+  {
+   "word": "neck",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/nek/",
+   "def_en": "The part between your head and your shoulders.",
+   "def_vi": "Phần giữa đầu và vai.",
+   "gloss_vi": "cổ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Neck</i> (noun) = cổ. <b>Grammar</b>: <i>round/around your neck</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She wore a gold chain round her <b>neck</b>.",
+    "vi": "Cô ấy đeo dây chuyền vàng quanh <b>cổ</b>."
+   }
+  },
+  {
+   "word": "shoulder",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈʃəʊldə(r)/",
+   "def_en": "The part between your neck and the top of your arm.",
+   "def_vi": "Phần giữa cổ và đầu cánh tay.",
+   "gloss_vi": "vai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shoulder</i> (noun) = vai. <b>Grammar</b>: <i>on your shoulder</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He carried the bag on his <b>shoulder</b>.",
+    "vi": "Anh ấy mang túi trên <b>vai</b>."
+   }
+  },
+  {
+   "word": "chest",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tʃest/",
+   "def_en": "The front part of your body between your neck and waist.",
+   "def_vi": "Phần trước cơ thể giữa cổ và eo.",
+   "gloss_vi": "ngực",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chest</i> (noun) = ngực. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>a chest pain</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I’ve got a pain in my <b>chest</b>.",
+    "vi": "Tôi bị đau ở <b>ngực</b>."
+   }
+  },
+  {
+   "word": "breast",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/brest/",
+   "def_en": "One of the two soft parts on a woman’s chest.",
+   "def_vi": "Một trong hai bầu ngực của phụ nữ.",
+   "gloss_vi": "vú, ngực (phụ nữ)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Breast</i> (noun) = vú, ngực (phụ nữ). <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>breast cancer</i>. <b>Common mistakes</b>: /brest/.",
+   "ex_kit": true,
+   "example": {
+    "en": "She felt a pain in her left <b>breast</b>.",
+    "vi": "Cô ấy thấy đau ở <b>ngực</b> trái."
+   }
+  },
+  {
+   "word": "waist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/weɪst/",
+   "def_en": "The middle part of your body above your hips.",
+   "def_vi": "Phần giữa cơ thể phía trên hông.",
+   "gloss_vi": "eo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Waist</i> (noun) = eo. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: /weɪst/ như <i>waste</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The trousers are too big around the <b>waist</b>.",
+    "vi": "Chiếc quần quá rộng ở <b>eo</b>."
+   }
+  },
+  {
+   "word": "hip",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/hɪp/",
+   "def_en": "One of the two parts at the side of your body below your waist.",
+   "def_vi": "Một trong hai phần ở bên người dưới eo.",
+   "gloss_vi": "hông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hip</i> (noun) = hông. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "My grandmother has a bad <b>hip</b>.",
+    "vi": "Bà tôi bị đau <b>hông</b>."
+   }
+  },
+  {
+   "word": "bottom",
+   "sense": "body",
+   "pos": "noun",
+   "ipa": "/ˈbɒtəm/",
+   "def_en": "The part of your body you sit on.",
+   "def_vi": "Phần cơ thể dùng để ngồi.",
+   "gloss_vi": "mông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bottom</i> (noun) = mông. <b>Grammar</b>: đếm được; thân mật hơn <i>backside</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The child fell on his <b>bottom</b>.",
+    "vi": "Đứa bé ngã đập <b>mông</b> xuống đất."
+   }
+  },
+  {
+   "word": "elbow",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈelbəʊ/",
+   "def_en": "The joint in the middle of your arm.",
+   "def_vi": "Khớp ở giữa cánh tay.",
+   "gloss_vi": "khuỷu tay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Elbow</i> (noun) = khuỷu tay. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "He put his <b>elbows</b> on the table.",
+    "vi": "Anh ấy đặt <b>khuỷu tay</b> lên bàn."
+   }
+  },
+  {
+   "word": "wrist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪst/",
+   "def_en": "The joint between your hand and your arm.",
+   "def_vi": "Khớp giữa bàn tay và cánh tay.",
+   "gloss_vi": "cổ tay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wrist</i> (noun) = cổ tay. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: <i>w</i> câm.",
+   "ex_kit": true,
+   "example": {
+    "en": "She wears her watch on her left <b>wrist</b>.",
+    "vi": "Cô ấy đeo đồng hồ ở <b>cổ tay</b> trái."
+   }
+  },
+  {
+   "word": "thumb",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/θʌm/",
+   "def_en": "The short thick finger on the side of your hand.",
+   "def_vi": "Ngón ngắn và to ở bên bàn tay.",
+   "gloss_vi": "ngón tay cái",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Thumb</i> (noun) = ngón tay cái. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: <i>b</i> câm.",
+   "ex_kit": true,
+   "example": {
+    "en": "I cut my <b>thumb</b>.",
+    "vi": "Tôi cắt vào <b>ngón tay cái</b>."
+   }
+  },
+  {
+   "word": "knee",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/niː/",
+   "def_en": "The joint in the middle of your leg.",
+   "def_vi": "Khớp ở giữa chân.",
+   "gloss_vi": "đầu gối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Knee</i> (noun) = đầu gối. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: <i>k</i> câm.",
+   "ex_kit": true,
+   "example": {
+    "en": "I fell and hurt my <b>knee</b>.",
+    "vi": "Tôi ngã và đau <b>đầu gối</b>."
+   }
+  },
+  {
+   "word": "ankle",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈæŋkl/",
+   "def_en": "The joint between your foot and your leg.",
+   "def_vi": "Khớp giữa bàn chân và cẳng chân.",
+   "gloss_vi": "mắt cá chân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ankle</i> (noun) = mắt cá chân. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "I twisted my <b>ankle</b> playing football.",
+    "vi": "Tôi bị trẹo <b>mắt cá chân</b> khi chơi bóng đá."
+   }
+  },
+  {
+   "word": "heel",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/hiːl/",
+   "def_en": "The back part of your foot.",
+   "def_vi": "Phần sau của bàn chân.",
+   "gloss_vi": "gót chân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Heel</i> (noun) = gót chân. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: cũng là gót giày (<i>high heels</i>).",
+   "ex_kit": true,
+   "example": {
+    "en": "My new shoes hurt my <b>heels</b>.",
+    "vi": "Đôi giày mới làm đau <b>gót chân</b> tôi."
+   }
+  },
+  {
+   "word": "toe",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/təʊ/",
+   "def_en": "One of the five parts at the end of your foot.",
+   "def_vi": "Một trong năm ngón ở cuối bàn chân.",
+   "gloss_vi": "ngón chân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Toe</i> (noun) = ngón chân. <b>Grammar</b>: đếm được; khác <i>finger</i> (ngón tay).",
+   "ex_kit": true,
+   "example": {
+    "en": "Someone stood on my <b>toe</b>.",
+    "vi": "Ai đó giẫm lên <b>ngón chân</b> tôi."
+   }
+  },
+  {
+   "word": "breathe",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/briːð/",
+   "def_en": "To take air into your body and let it out.",
+   "def_vi": "Đưa không khí vào người rồi thở ra.",
+   "gloss_vi": "thở",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Breathe</i> (verb) = thở. <b>Grammar</b>: <i>breathe in / breathe out</i>. <b>Common mistakes</b>: động từ /briːð/ ≠ danh từ <i>breath</i> /breθ/.",
+   "example": {
+    "en": "People <b>breathe</b> through their nose or mouth.",
+    "vi": "Người ta <b>thở</b> bằng mũi hoặc miệng."
+   }
+  },
+  {
+   "word": "breathe in",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌbriːð ˈɪn/",
+   "def_en": "To take air into your body.",
+   "def_vi": "Hít không khí vào người.",
+   "gloss_vi": "hít vào",
+   "synonyms": "inhale <i>(v. hít vào)</i>",
+   "antonyms": "breathe out <i>(pv. thở ra)</i>",
+   "grammar_vi": "<i>Breathe in</i> (phrasal verb) = hít vào. <b>Grammar</b>: không có tân ngữ, hoặc <i>breathe in the fresh air</i>.",
+   "example": {
+    "en": "You <b>breathe in</b> and out about 12–15 times a minute.",
+    "vi": "Bạn <b>hít vào</b> thở ra khoảng 12–15 lần một phút."
+   }
+  },
+  {
+   "word": "smile at",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˈsmaɪl ət/",
+   "def_en": "To make your face look happy towards someone.",
+   "def_vi": "Làm nét mặt vui vẻ hướng về ai.",
+   "gloss_vi": "mỉm cười với",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Smile at</i> (phrasal verb) = mỉm cười với. <b>Grammar</b>: <i>smile at sb</i>. <b>Word family</b>: <i>smile</i> (n.).",
+   "example": {
+    "en": "People sometimes <b>smile at</b> people to be polite.",
+    "vi": "Đôi khi người ta <b>mỉm cười với</b> người khác để tỏ ra lịch sự."
+   }
+  },
+  {
+   "word": "laugh at",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˈlɑːf ət/",
+   "def_en": "To make sounds that show you think something is funny.",
+   "def_vi": "Phát ra tiếng thể hiện thấy điều gì buồn cười.",
+   "gloss_vi": "cười (vì điều gì)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Laugh at</i> (phrasal verb) = cười (vì điều gì). <b>Grammar</b>: <i>laugh at sth/sb</i> (cũng = chế giễu). <b>Common mistakes</b>: /lɑːf/.",
+   "example": {
+    "en": "People <b>laugh at</b> things which are funny.",
+    "vi": "Người ta <b>cười</b> những điều buồn cười."
+   }
+  },
+  {
+   "word": "cry",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kraɪ/",
+   "def_en": "To have tears coming from your eyes.",
+   "def_vi": "Nước mắt chảy ra.",
+   "gloss_vi": "khóc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "laugh <i>(v. cười)</i>",
+   "grammar_vi": "<i>Cry</i> (verb) = khóc. <b>Grammar</b>: <i>cry – cried</i>. <b>Common mistakes</b>: cũng = kêu to.",
+   "example": {
+    "en": "People sometimes <b>cry</b> if they’re very unhappy, or receive bad news.",
+    "vi": "Đôi khi người ta <b>khóc</b> nếu rất buồn hay nhận tin xấu."
+   }
+  },
+  {
+   "word": "nod your head",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌnɒd jə ˈhed/",
+   "def_en": "To move your head up and down.",
+   "def_vi": "Đưa đầu lên xuống.",
+   "gloss_vi": "gật đầu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "shake your head <i>(vp. lắc đầu)</i>",
+   "grammar_vi": "<i>Nod your head</i> (verb phrase) = gật đầu. <b>Grammar</b>: <i>nod – nodded</i> (gấp đôi <i>d</i>).",
+   "example": {
+    "en": "People in some countries <b>nod their head</b> to mean ‘yes’.",
+    "vi": "Ở một số nước người ta <b>gật đầu</b> để nói “có”."
+   }
+  },
+  {
+   "word": "shake your head",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌʃeɪk jə ˈhed/",
+   "def_en": "To move your head from side to side.",
+   "def_vi": "Đưa đầu sang hai bên.",
+   "gloss_vi": "lắc đầu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "nod your head <i>(vp. gật đầu)</i>",
+   "grammar_vi": "<i>Shake your head</i> (verb phrase) = lắc đầu. <b>Grammar</b>: bất quy tắc <i>shake – shook – shaken</i>.",
+   "example": {
+    "en": "People <b>shake their head</b> for ‘no’.",
+    "vi": "Người ta <b>lắc đầu</b> để nói “không”."
+   }
+  },
+  {
+   "word": "yawn",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/jɔːn/",
+   "def_en": "To open your mouth wide when tired or bored.",
+   "def_vi": "Há miệng rộng khi mệt hay chán.",
+   "gloss_vi": "ngáp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Yawn</i> (verb) = ngáp. <b>Grammar</b>: cũng là danh từ <i>a yawn</i>. <b>Common mistakes</b>: /jɔːn/.",
+   "example": {
+    "en": "People often <b>yawn</b> when they’re tired, and sometimes when they’re bored.",
+    "vi": "Người ta thường <b>ngáp</b> khi mệt, đôi khi khi chán."
+   }
+  },
+  {
+   "word": "shake hands with",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌʃeɪk ˈhændz wɪð/",
+   "def_en": "To hold someone’s hand and move it up and down as a greeting.",
+   "def_vi": "Nắm tay ai lắc lên xuống để chào.",
+   "gloss_vi": "bắt tay với",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shake hands with</i> (verb phrase) = bắt tay với. <b>Grammar</b>: <i>hands</i> số nhiều; <i>shake – shook – shaken</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He <b>shook hands with</b> everyone in the room.",
+    "vi": "Anh ấy <b>bắt tay với</b> mọi người trong phòng."
+   }
+  },
+  {
+   "word": "fold your arms",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌfəʊld jər ˈɑːmz/",
+   "def_en": "To cross your arms over your chest.",
+   "def_vi": "Bắt chéo hai tay trước ngực.",
+   "gloss_vi": "khoanh tay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fold your arms</i> (verb phrase) = khoanh tay. <b>Grammar</b>: tính từ sở hữu thay đổi: <i>fold his/her arms</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She <b>folded her arms</b> and waited.",
+    "vi": "Cô ấy <b>khoanh tay</b> và chờ."
+   }
+  },
+  {
+   "word": "comb your hair",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌkəʊm jə ˈheə(r)/",
+   "def_en": "To make your hair tidy with a comb.",
+   "def_vi": "Làm tóc gọn gàng bằng lược.",
+   "gloss_vi": "chải tóc",
+   "synonyms": "brush your hair <i>(vp. chải tóc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Comb your hair</i> (verb phrase) = chải tóc. <b>Grammar</b>: <i>comb</i> /kəʊm/ (<i>b</i> câm).",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Comb your hair</b> before you go out.",
+    "vi": "<b>Chải tóc</b> trước khi ra ngoài nhé."
+   }
+  },
+  {
+   "word": "wave to",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˈweɪv tə/",
+   "def_en": "To move your hand from side to side to say hello or goodbye.",
+   "def_vi": "Đưa tay qua lại để chào.",
+   "gloss_vi": "vẫy tay chào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wave to</i> (phrasal verb) = vẫy tay chào. <b>Grammar</b>: <i>wave to/at sb</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The children <b>waved to</b> us as the train left.",
+    "vi": "Bọn trẻ <b>vẫy tay chào</b> chúng tôi khi tàu chạy đi."
+   }
+  },
+  {
+   "word": "blow your nose",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌbləʊ jə ˈnəʊz/",
+   "def_en": "To clear your nose by blowing hard into a tissue.",
+   "def_vi": "Thổi mạnh vào khăn giấy cho thông mũi.",
+   "gloss_vi": "hỉ mũi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Blow your nose</i> (verb phrase) = hỉ mũi. <b>Grammar</b>: <i>blow – blew – blown</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Do you need a tissue to <b>blow your nose</b>?",
+    "vi": "Bạn cần khăn giấy để <b>hỉ mũi</b> không?"
+   }
+  }
+ ]
+}
