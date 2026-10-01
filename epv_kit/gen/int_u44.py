@@ -18,7 +18,7 @@ theory = (
      "Ông bố góp ý bài luận của con gái: <b>cut out</b> một đoạn (cắt bỏ); thêm đoạn <b>summing up</b> các ý chính (tóm tắt); <b>tone down</b> đoạn văn gay gắt (làm dịu); ý về tội phạm <b>crops up</b> ở nhiều chỗ (xuất hiện); con chỉ <b>touches on</b> vấn đề kiểm soát của chính phủ (nhắc qua – cũng nói <i>touch upon</i>); con nên <b>set out</b> lập luận rõ hơn (trình bày rõ). Cô con gái đáp: ‘Thế bố viết luôn đi!’")
 )
 items = [
- PV("read up on something", "phr.v.", "neutral", "To read a lot about a particular subject in order to learn about it.", "/ˌriːd ˈʌp ɒn ˈsʌmθɪŋ/",
+ PV("read up on something", "phr.v.", "neutral", "To study a topic by reading widely about it.", "/ˌriːd ˈʌp ɒn ˈsʌmθɪŋ/",
    "Đọc nhiều về một chủ đề để tìm hiểu.", "đọc kỹ, tìm hiểu (qua sách)",
    "For homework, please <b>read up on</b> climate change before Monday’s class.", "Bài về nhà: các em <b>đọc tìm hiểu</b> về biến đổi khí hậu trước tiết thứ Hai.",
    INS("read up on air pollution"),
