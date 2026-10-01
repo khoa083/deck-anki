@@ -1,0 +1,296 @@
+{
+ "book": "pre",
+ "unit": 65,
+ "title_vi": "Xin lỗi, lý do và cảm ơn",
+ "theory_html": "<p><b>A. Apologies with common replies</b><br><i>A. Lời xin lỗi và đáp lại</i></p> <p><b>apologise</b>: <b>I’m (terribly/really) sorry – Never mind / That’s OK</b>; <b>I beg your pardon</b> (more formal, e.g. if you walk into someone) – <b>That’s all right</b>; <b>Sorry to disturb you</b> (when you <b>interrupt</b>) – <b>Don’t worry</b>; <b>Sorry to keep you waiting – I won’t be long</b>; <b>Excuse me, I won’t be a minute</b>; <b>I must apologise for…</b> (formal); <b>I’m sorry I’m late</b> (NOT <b>sorry for be late</b>).</p><p><i><b>xin lỗi; không sao; xin thứ lỗi; xin lỗi đã làm phiền; ngắt lời; xin lỗi đã để bạn đợi; tôi sẽ quay lại ngay</b>.</i></p> <p><b>B. Excuses</b><br><i>B. Lý do</i></p> <p>An <b>excuse</b> = a reason for an apology (may not be true): <b>a delay / hold-up</b> on the underground; <b>held up</b> in traffic; my train <b>was cancelled</b>; I <b>overslept</b>.</p><p><i><b>lý do, sự chậm trễ, bị kẹt, bị hủy, ngủ quên</b>.</i></p> <p><b>C. Thanks and replies</b><br><i>C. Cảm ơn và đáp lại</i></p> <p><b>thank</b>: <b>Thanks (very much) – Not at all / That’s OK</b>; <b>Oh, cheers</b> (infml) – <b>No problem</b>; <b>That’s very kind of you</b>.</p><p><i><b>cảm ơn; không có gì; cảm ơn nhé; bạn thật tốt bụng</b>.</i></p>",
+ "items": [
+  {
+   "word": "apologise",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈpɒlədʒaɪz/",
+   "def_en": "To say sorry.",
+   "def_vi": "Nói xin lỗi.",
+   "gloss_vi": "xin lỗi",
+   "synonyms": "say sorry <i>(vp. nói xin lỗi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Apologise</i> (verb) = xin lỗi. <b>Grammar</b>: <i>apologise (to sb) for sth</i>. <b>Word family</b>: <i>apology</i> (n.).",
+   "example": {
+    "en": "We can <b>apologise</b> in different ways in different situations.",
+    "vi": "Chúng ta có thể <b>xin lỗi</b> theo nhiều cách trong những tình huống khác nhau."
+   }
+  },
+  {
+   "word": "terribly sorry",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌterəbli ˈsɒri/",
+   "def_en": "Very sorry.",
+   "def_vi": "Rất xin lỗi.",
+   "gloss_vi": "vô cùng xin lỗi",
+   "synonyms": "really sorry <i>(phr. thật sự xin lỗi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Terribly sorry</i> (phrase) = vô cùng xin lỗi. <b>Grammar</b>: <i>terribly/really</i> làm lời xin lỗi mạnh hơn.",
+   "example": {
+    "en": "I’m <b>terribly sorry</b> – I’ve forgotten your book.",
+    "vi": "Tôi <b>vô cùng xin lỗi</b> – tôi quên mất sách của bạn."
+   }
+  },
+  {
+   "word": "never mind",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌnevə ˈmaɪnd/",
+   "def_en": "Don’t worry; it’s not important.",
+   "def_vi": "Đừng lo; không quan trọng.",
+   "gloss_vi": "không sao",
+   "synonyms": "don’t worry <i>(phr. đừng lo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Never mind</i> (phrase) = không sao. <b>Grammar</b>: đáp lại lời xin lỗi.",
+   "example": {
+    "en": "<b>Never mind</b>. That’s OK.",
+    "vi": "<b>Không sao</b>. Ổn mà."
+   }
+  },
+  {
+   "word": "I beg your pardon",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/aɪ ˌbeɡ jə ˈpɑːdn/",
+   "def_en": "A formal apology, often if you walk into someone.",
+   "def_vi": "Lời xin lỗi trang trọng, thường khi va vào ai.",
+   "gloss_vi": "xin thứ lỗi",
+   "synonyms": "excuse me <i>(phr. xin lỗi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>I beg your pardon</i> (phrase) = xin thứ lỗi. <b>Grammar</b>: cũng dùng để xin nhắc lại (<i>Pardon?</i>).",
+   "example": {
+    "en": "<b>I beg your pardon</b> – I didn’t see you there.",
+    "vi": "<b>Xin thứ lỗi</b> – tôi không thấy anh ở đó."
+   }
+  },
+  {
+   "word": "sorry to disturb you",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌsɒri tə dɪˈstɜːb juː/",
+   "def_en": "Used when you speak to someone who is busy working.",
+   "def_vi": "Dùng khi nói với người đang bận.",
+   "gloss_vi": "xin lỗi đã làm phiền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sorry to disturb you</i> (phrase) = xin lỗi đã làm phiền. <b>Grammar</b>: <i>disturb sb</i> = làm phiền.",
+   "example": {
+    "en": "<b>Sorry to disturb you</b>. – Don’t worry. Come on in.",
+    "vi": "<b>Xin lỗi đã làm phiền</b>. – Không sao. Vào đi."
+   }
+  },
+  {
+   "word": "interrupt",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɪntəˈrʌpt/",
+   "def_en": "To speak to someone who is busy, or stop them speaking.",
+   "def_vi": "Nói với người đang bận hay cắt ngang.",
+   "gloss_vi": "làm gián đoạn, ngắt lời",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Interrupt</i> (verb) = làm gián đoạn, ngắt lời. <b>Grammar</b>: <i>interrupt sb</i>. <b>Word family</b>: <i>interruption</i> (n.).",
+   "example": {
+    "en": "We use this phrase when we <b>interrupt</b> someone who is busy working.",
+    "vi": "Chúng ta dùng cụm này khi <b>làm gián đoạn</b> người đang bận."
+   }
+  },
+  {
+   "word": "keep sb waiting",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌkiːp ˈsʌmbədi ˈweɪtɪŋ/",
+   "def_en": "To make someone wait.",
+   "def_vi": "Bắt ai phải đợi.",
+   "gloss_vi": "để ai phải đợi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Keep sb waiting</i> (verb phrase) = để ai phải đợi. <b>Grammar</b>: <i>keep sb waiting</i>.",
+   "example": {
+    "en": "Sorry to <b>keep you waiting</b> – I won’t be long.",
+    "vi": "Xin lỗi đã <b>để bạn phải đợi</b> – tôi sẽ không lâu đâu."
+   }
+  },
+  {
+   "word": "I won’t be long",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/aɪ ˌwəʊnt bi ˈlɒŋ/",
+   "def_en": "I will be with you very soon.",
+   "def_vi": "Tôi sẽ quay lại rất nhanh.",
+   "gloss_vi": "tôi sẽ không lâu đâu",
+   "synonyms": "I won’t be a minute <i>(phr. tôi quay lại ngay)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>I won’t be long</i> (phrase) = tôi sẽ không lâu đâu. <b>Grammar</b>: cũng <i>I won’t be a minute</i>.",
+   "example": {
+    "en": "Sorry to keep you waiting – <b>I won’t be long</b>.",
+    "vi": "Xin lỗi đã để bạn đợi – <b>tôi sẽ không lâu đâu</b>."
+   }
+  },
+  {
+   "word": "excuse",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪkˈskjuːs/",
+   "def_en": "A reason for an apology, which may or may not be true.",
+   "def_vi": "Lý do cho lời xin lỗi, có thể thật hay không.",
+   "gloss_vi": "lý do, cớ",
+   "synonyms": "reason <i>(n. lý do)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Excuse</i> (noun) = lý do, cớ. <b>Grammar</b>: danh từ /-s/; động từ <i>excuse</i> /-z/.",
+   "example": {
+    "en": "We often give an explanation or <b>excuse</b> after an apology.",
+    "vi": "Chúng ta thường đưa ra lời giải thích hay <b>lý do</b> sau lời xin lỗi."
+   }
+  },
+  {
+   "word": "hold-up",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhəʊld ʌp/",
+   "def_en": "A delay.",
+   "def_vi": "Sự chậm trễ.",
+   "gloss_vi": "sự chậm trễ, ùn tắc",
+   "synonyms": "delay <i>(n. chậm trễ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hold-up</i> (noun) = sự chậm trễ, ùn tắc. <b>Grammar</b>: danh từ có gạch nối. <b>Common mistakes</b>: cũng = vụ cướp có vũ khí.",
+   "example": {
+    "en": "There was a delay / <b>hold-up</b> on the underground.",
+    "vi": "Có <b>sự chậm trễ</b> trên tàu điện ngầm."
+   }
+  },
+  {
+   "word": "hold up",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌhəʊld ˈʌp/",
+   "def_en": "To cause a delay and make someone late.",
+   "def_vi": "Gây chậm trễ làm ai muộn.",
+   "gloss_vi": "làm chậm trễ, cầm chân",
+   "synonyms": "delay <i>(v. làm chậm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hold up</i> (phrasal verb) = làm chậm trễ, cầm chân. <b>Grammar</b>: thường bị động: <i>be held up</i>.",
+   "example": {
+    "en": "I was <b>held up</b> in traffic.",
+    "vi": "Tôi <b>bị kẹt</b> xe."
+   }
+  },
+  {
+   "word": "cancel",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈkænsl/",
+   "def_en": "To decide that something will not happen.",
+   "def_vi": "Quyết định việc gì sẽ không diễn ra.",
+   "gloss_vi": "hủy",
+   "synonyms": "call off <i>(pv. hủy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cancel</i> (verb) = hủy. <b>Grammar</b>: Anh <i>cancelled</i>, Mỹ <i>canceled</i>. <b>Word family</b>: <i>cancellation</i> (n.).",
+   "example": {
+    "en": "My train <b>was cancelled</b>.",
+    "vi": "Chuyến tàu của tôi <b>bị hủy</b>."
+   }
+  },
+  {
+   "word": "oversleep",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌəʊvəˈsliːp/",
+   "def_en": "To sleep longer than you planned.",
+   "def_vi": "Ngủ lâu hơn dự định.",
+   "gloss_vi": "ngủ quên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Oversleep</i> (verb) = ngủ quên. <b>Grammar</b>: <i>oversleep – overslept – overslept</i>.",
+   "example": {
+    "en": "I <b>overslept</b>.",
+    "vi": "Tôi <b>ngủ quên</b>."
+   }
+  },
+  {
+   "word": "thank",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/θæŋk/",
+   "def_en": "To tell someone you are grateful.",
+   "def_vi": "Nói với ai là mình biết ơn.",
+   "gloss_vi": "cảm ơn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Thank</i> (verb) = cảm ơn. <b>Grammar</b>: <i>thank sb for sth</i>; <i>Thanks / Thank you</i>.",
+   "example": {
+    "en": "These are some common ways of <b>thanking</b> people.",
+    "vi": "Đây là vài cách <b>cảm ơn</b> mọi người thường gặp."
+   }
+  },
+  {
+   "word": "not at all",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌnɒt ət ˈɔːl/",
+   "def_en": "A polite reply to thanks.",
+   "def_vi": "Câu đáp lịch sự khi được cảm ơn.",
+   "gloss_vi": "không có gì",
+   "synonyms": "you’re welcome <i>(phr. không có chi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Not at all</i> (phrase) = không có gì. <b>Grammar</b>: đáp lại lời cảm ơn.",
+   "example": {
+    "en": "Thanks very much. – <b>Not at all</b>.",
+    "vi": "Cảm ơn nhiều. – <b>Không có gì</b>."
+   }
+  },
+  {
+   "word": "cheers",
+   "sense": "",
+   "pos": "exclamation",
+   "ipa": "/tʃɪəz/",
+   "def_en": "Thanks (informal).",
+   "def_vi": "Cảm ơn (thân mật).",
+   "gloss_vi": "cảm ơn nhé",
+   "synonyms": "thanks <i>(intj. cảm ơn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cheers</i> (exclamation) = cảm ơn nhé. <b>Grammar</b>: thân mật, Anh–Anh. <b>Common mistakes</b>: cũng = cạn ly.",
+   "example": {
+    "en": "I’ve brought your books. – Oh, <b>cheers</b>.",
+    "vi": "Tôi mang sách cho bạn rồi. – Ồ, <b>cảm ơn nhé</b>."
+   }
+  },
+  {
+   "word": "no problem",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌnəʊ ˈprɒbləm/",
+   "def_en": "A reply to thanks (informal).",
+   "def_vi": "Câu đáp lời cảm ơn (thân mật).",
+   "gloss_vi": "không có gì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>No problem</i> (phrase) = không có gì. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "Oh, cheers. – <b>No problem</b>.",
+    "vi": "Ồ, cảm ơn nhé. – <b>Không có gì</b>."
+   }
+  },
+  {
+   "word": "that’s very kind of you",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ðæts ˌveri ˈkaɪnd əv juː/",
+   "def_en": "A polite way to thank someone.",
+   "def_vi": "Cách cảm ơn lịch sự.",
+   "gloss_vi": "bạn thật tốt bụng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>That’s very kind of you</i> (phrase) = bạn thật tốt bụng. <b>Grammar</b>: <i>It’s/That’s kind of you (to do sth)</i>.",
+   "example": {
+    "en": "Oh, thank you. <b>That’s very kind of you</b>.",
+    "vi": "Ồ, cảm ơn. <b>Bạn thật tốt bụng</b>."
+   }
+  }
+ ]
+}

@@ -1,0 +1,458 @@
+{
+ "book": "pre",
+ "unit": 63,
+ "title_vi": "Đồ vật, chất liệu, hình dạng và màu sắc",
+ "theory_html": "<p><b>A. Objects and materials</b><br><i>A. Đồ vật và chất liệu</i></p> <p><b>objects</b> (things you can see or touch) and <b>materials</b> (what something is made of): a <b>bell</b> (<b>metal</b>), an <b>antique</b> chair (wood), a hat (<b>fur</b>, from a <b>real</b> animal), a <b>bone</b> (<b>rubber</b>, a <b>toy</b> for dogs), a <b>flag</b> (the Italian <b>national</b> flag), a shirt (<b>cotton</b>, red <b>stripes</b>), a top (<b>silk</b>), a sofa (<b>leather</b>), a <b>ladder</b>, a <b>tissue</b>, a <b>bucket</b> (<b>plastic</b>). Materials are adjectives or nouns (<b>a cotton shirt / made of cotton</b>), but <b>wood → wooden</b>.</p><p><i><b>đồ vật, chất liệu; chuông, kim loại, đồ cổ, lông thú, thật, khúc xương, cao su, đồ chơi, lá cờ, quốc gia, vải bông, sọc, lụa, da, thang, khăn giấy, xô, nhựa, bằng gỗ</b>.</i></p> <p><b>B. Shapes and colours</b><br><i>B. Hình dạng và màu sắc</i></p> <p><b>a grey square, a pink star, a navy blue circle, a green semi-circle, a purple heart; a round ball, a square box, pointed toes</b>. <b>-ish</b> = almost / a sort of (<b>roundish, greenish</b>).</p><p><i><b>hình vuông, ngôi sao, hình tròn, nửa hình tròn, hình trái tim; tròn, vuông, nhọn; hơi…</b></i></p>",
+ "items": [
+  {
+   "word": "object",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɒbdʒɪkt/",
+   "def_en": "A thing you can see or touch.",
+   "def_vi": "Vật có thể nhìn hay chạm.",
+   "gloss_vi": "đồ vật",
+   "synonyms": "thing <i>(n. vật)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Object</i> (noun) = đồ vật. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: động từ <i>object</i> /əbˈdʒekt/ = phản đối.",
+   "ex_kit": true,
+   "example": {
+    "en": "A bell is an <b>object</b> made of metal.",
+    "vi": "Một cái chuông là một <b>đồ vật</b> làm bằng kim loại."
+   }
+  },
+  {
+   "word": "material",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/məˈtɪəriəl/",
+   "def_en": "What something is made of or from.",
+   "def_vi": "Thứ làm nên một vật.",
+   "gloss_vi": "chất liệu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Material</i> (noun) = chất liệu. <b>Grammar</b>: đếm được và không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "What <b>material</b> is this shirt made of?",
+    "vi": "Áo này làm bằng <b>chất liệu</b> gì?"
+   }
+  },
+  {
+   "word": "bell",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bel/",
+   "def_en": "A metal object that rings.",
+   "def_vi": "Vật kim loại kêu reng.",
+   "gloss_vi": "cái chuông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bell</i> (noun) = cái chuông. <b>Grammar</b>: <i>ring a bell</i>.",
+   "example": {
+    "en": "a <b>bell</b> – metal – used in hotel receptions",
+    "vi": "Một cái <b>chuông</b> kim loại dùng ở quầy lễ tân khách sạn."
+   }
+  },
+  {
+   "word": "metal",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmetl/",
+   "def_en": "A hard material such as iron or steel.",
+   "def_vi": "Chất liệu cứng như sắt, thép.",
+   "gloss_vi": "kim loại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Metal</i> (noun) = kim loại. <b>Grammar</b>: không đếm được; tính từ <i>metal</i> (<i>a metal box</i>).",
+   "example": {
+    "en": "a ladder – <b>metal</b> – light and easy to carry",
+    "vi": "Chiếc thang bằng <b>kim loại</b>, nhẹ và dễ mang."
+   }
+  },
+  {
+   "word": "antique",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ænˈtiːk/",
+   "def_en": "An object that is old and often rare or beautiful.",
+   "def_vi": "Đồ cũ, thường hiếm hay đẹp.",
+   "gloss_vi": "đồ cổ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Antique</i> (noun) = đồ cổ. <b>Grammar</b>: cũng là tính từ: <i>antique furniture</i>.",
+   "example": {
+    "en": "a chair – wood – an <b>antique</b>",
+    "vi": "Chiếc ghế gỗ là một <b>đồ cổ</b>."
+   }
+  },
+  {
+   "word": "fur",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/fɜː(r)/",
+   "def_en": "The thick hair of some animals.",
+   "def_vi": "Lớp lông dày của một số động vật.",
+   "gloss_vi": "lông thú",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fur</i> (noun) = lông thú. <b>Grammar</b>: không đếm được; <i>a fur coat</i>.",
+   "example": {
+    "en": "a hat – <b>fur</b> – made from a real animal",
+    "vi": "Chiếc mũ bằng <b>lông thú</b> làm từ một con vật thật."
+   }
+  },
+  {
+   "word": "real",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈriːəl/",
+   "def_en": "Not false or artificial.",
+   "def_vi": "Không giả, không nhân tạo.",
+   "gloss_vi": "thật",
+   "synonyms": "genuine <i>(adj. thật)</i>",
+   "antonyms": "fake <i>(adj. giả)</i>",
+   "grammar_vi": "<i>Real</i> (adjective) = thật. <b>Grammar</b>: <i>real leather/fur</i>.",
+   "example": {
+    "en": "a hat – fur – made from a <b>real</b> animal",
+    "vi": "Chiếc mũ lông làm từ một con vật <b>thật</b>."
+   }
+  },
+  {
+   "word": "bone",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bəʊn/",
+   "def_en": "One of the hard white parts inside the body.",
+   "def_vi": "Phần cứng màu trắng trong cơ thể.",
+   "gloss_vi": "khúc xương",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bone</i> (noun) = khúc xương. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "a <b>bone</b> – rubber – a toy for dogs",
+    "vi": "Một <b>khúc xương</b> cao su làm đồ chơi cho chó."
+   }
+  },
+  {
+   "word": "rubber",
+   "sense": "material",
+   "pos": "noun",
+   "ipa": "/ˈrʌbə(r)/",
+   "def_en": "A soft material that bends easily.",
+   "def_vi": "Chất liệu mềm dễ uốn.",
+   "gloss_vi": "cao su",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rubber</i> (noun) = cao su. <b>Grammar</b>: không đếm được ở nghĩa chất liệu. <b>Common mistakes</b>: cũng = cục tẩy.",
+   "example": {
+    "en": "a bone – <b>rubber</b> – a toy for dogs",
+    "vi": "Một khúc xương <b>cao su</b> làm đồ chơi cho chó."
+   }
+  },
+  {
+   "word": "toy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tɔɪ/",
+   "def_en": "An object for children or animals to play with.",
+   "def_vi": "Đồ cho trẻ con hay thú chơi.",
+   "gloss_vi": "đồ chơi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Toy</i> (noun) = đồ chơi. <b>Grammar</b>: số nhiều <i>toys</i>.",
+   "example": {
+    "en": "a bone – rubber – a <b>toy</b> for dogs",
+    "vi": "Một khúc xương cao su là <b>đồ chơi</b> cho chó."
+   }
+  },
+  {
+   "word": "flag",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/flæɡ/",
+   "def_en": "A piece of cloth with a pattern that represents a country.",
+   "def_vi": "Mảnh vải có họa tiết đại diện một nước.",
+   "gloss_vi": "lá cờ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flag</i> (noun) = lá cờ. <b>Grammar</b>: <i>the national flag</i>.",
+   "example": {
+    "en": "a <b>flag</b> – cloth – the Italian national flag",
+    "vi": "Lá <b>cờ</b> quốc gia của Ý."
+   }
+  },
+  {
+   "word": "cotton",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɒtn/",
+   "def_en": "Cloth made from a plant.",
+   "def_vi": "Vải làm từ một loài cây.",
+   "gloss_vi": "vải bông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cotton</i> (noun) = vải bông. <b>Grammar</b>: không đếm được; <i>a cotton shirt</i>.",
+   "example": {
+    "en": "a shirt – <b>cotton</b> – it has red stripes",
+    "vi": "Chiếc áo sơ mi <b>vải bông</b> có sọc đỏ."
+   }
+  },
+  {
+   "word": "stripe",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/straɪp/",
+   "def_en": "A long narrow line of colour.",
+   "def_vi": "Đường màu dài hẹp.",
+   "gloss_vi": "sọc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stripe</i> (noun) = sọc. <b>Grammar</b>: <i>striped</i> (adj.).",
+   "example": {
+    "en": "a shirt – cotton – it has red <b>stripes</b>",
+    "vi": "Chiếc áo sơ mi vải bông có <b>sọc</b> đỏ."
+   }
+  },
+  {
+   "word": "silk",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/sɪlk/",
+   "def_en": "A soft, smooth and shiny cloth.",
+   "def_vi": "Vải mềm, mịn, bóng.",
+   "gloss_vi": "lụa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Silk</i> (noun) = lụa. <b>Grammar</b>: không đếm được; <i>a silk scarf</i>.",
+   "example": {
+    "en": "a top – <b>silk</b> – beautifully soft and stylish",
+    "vi": "Chiếc áo <b>lụa</b> mềm mại và sang trọng."
+   }
+  },
+  {
+   "word": "leather",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈleðə(r)/",
+   "def_en": "Animal skin used to make shoes, bags, etc.",
+   "def_vi": "Da động vật dùng làm giày, túi…",
+   "gloss_vi": "da (thuộc)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Leather</i> (noun) = da (thuộc). <b>Grammar</b>: không đếm được; <i>a leather sofa</i>.",
+   "example": {
+    "en": "a sofa – <b>leather</b> – stylish",
+    "vi": "Một chiếc sofa <b>da</b> sành điệu."
+   }
+  },
+  {
+   "word": "ladder",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlædə(r)/",
+   "def_en": "A piece of equipment with steps for climbing up.",
+   "def_vi": "Dụng cụ có bậc để trèo lên.",
+   "gloss_vi": "cái thang",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ladder</i> (noun) = cái thang. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "a <b>ladder</b> – metal – light and easy to carry",
+    "vi": "Một chiếc <b>thang</b> kim loại nhẹ và dễ mang."
+   }
+  },
+  {
+   "word": "tissue",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtɪʃuː/",
+   "def_en": "A soft piece of paper that you use for cleaning your nose.",
+   "def_vi": "Mảnh giấy mềm để lau mũi.",
+   "gloss_vi": "khăn giấy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tissue</i> (noun) = khăn giấy. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "a <b>tissue</b> – paper – a soft piece of paper that you use for cleaning your nose",
+    "vi": "<b>Khăn giấy</b> là mảnh giấy mềm dùng để lau mũi."
+   }
+  },
+  {
+   "word": "bucket",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbʌkɪt/",
+   "def_en": "A container with a handle for carrying water.",
+   "def_vi": "Đồ đựng có quai để xách nước.",
+   "gloss_vi": "cái xô",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bucket</i> (noun) = cái xô. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "a <b>bucket</b> – plastic – used to clean floors",
+    "vi": "Một cái <b>xô</b> nhựa dùng để lau sàn."
+   }
+  },
+  {
+   "word": "plastic",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈplæstɪk/",
+   "def_en": "A light, man-made material.",
+   "def_vi": "Chất liệu nhẹ nhân tạo.",
+   "gloss_vi": "nhựa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Plastic</i> (noun) = nhựa. <b>Grammar</b>: không đếm được; <i>a plastic bag</i>.",
+   "example": {
+    "en": "a bucket – <b>plastic</b> – used to clean floors",
+    "vi": "Một cái xô <b>nhựa</b> dùng để lau sàn."
+   }
+  },
+  {
+   "word": "wooden",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈwʊdn/",
+   "def_en": "Made of wood.",
+   "def_vi": "Làm bằng gỗ.",
+   "gloss_vi": "bằng gỗ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wooden</i> (adjective) = bằng gỗ. <b>Grammar</b>: ngoại lệ: <i>wood</i> → <i>wooden</i> (không <i>a wood chair</i>).",
+   "example": {
+    "en": "A chair made of wood is a <b>wooden</b> chair.",
+    "vi": "Một chiếc ghế làm bằng gỗ là một chiếc ghế <b>gỗ</b>."
+   }
+  },
+  {
+   "word": "square",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/skweə(r)/",
+   "def_en": "A shape with four equal sides.",
+   "def_vi": "Hình có bốn cạnh bằng nhau.",
+   "gloss_vi": "hình vuông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Square</i> (noun) = hình vuông. <b>Grammar</b>: cũng là tính từ: <i>a square box</i>. <b>Common mistakes</b>: cũng = quảng trường.",
+   "example": {
+    "en": "a grey <b>square</b>",
+    "vi": "Một <b>hình vuông</b> màu xám."
+   }
+  },
+  {
+   "word": "star",
+   "sense": "shape",
+   "pos": "noun",
+   "ipa": "/stɑː(r)/",
+   "def_en": "A shape with five or more points.",
+   "def_vi": "Hình có năm cánh trở lên.",
+   "gloss_vi": "ngôi sao, hình sao",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Star</i> (noun) = ngôi sao, hình sao. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: cũng = ngôi sao điện ảnh.",
+   "example": {
+    "en": "a pink <b>star</b>",
+    "vi": "Một <b>ngôi sao</b> màu hồng."
+   }
+  },
+  {
+   "word": "circle",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɜːkl/",
+   "def_en": "A completely round shape.",
+   "def_vi": "Hình tròn hoàn toàn.",
+   "gloss_vi": "hình tròn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Circle</i> (noun) = hình tròn. <b>Grammar</b>: <i>in a circle</i>.",
+   "example": {
+    "en": "a navy blue <b>circle</b>",
+    "vi": "Một <b>hình tròn</b> màu xanh hải quân."
+   }
+  },
+  {
+   "word": "semi-circle",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsemi sɜːkl/",
+   "def_en": "Half a circle.",
+   "def_vi": "Nửa hình tròn.",
+   "gloss_vi": "nửa hình tròn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Semi-circle</i> (noun) = nửa hình tròn. <b>Grammar</b>: tiền tố <i>semi-</i> = nửa.",
+   "example": {
+    "en": "a green <b>semi-circle</b>",
+    "vi": "Một <b>nửa hình tròn</b> màu xanh lá."
+   }
+  },
+  {
+   "word": "heart",
+   "sense": "shape",
+   "pos": "noun",
+   "ipa": "/hɑːt/",
+   "def_en": "A shape that represents love.",
+   "def_vi": "Hình biểu tượng tình yêu.",
+   "gloss_vi": "hình trái tim",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Heart</i> (noun) = hình trái tim. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "a purple <b>heart</b>",
+    "vi": "Một <b>hình trái tim</b> màu tím."
+   }
+  },
+  {
+   "word": "round",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/raʊnd/",
+   "def_en": "Shaped like a circle or ball.",
+   "def_vi": "Có hình tròn hay quả bóng.",
+   "gloss_vi": "tròn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Round</i> (adjective) = tròn. <b>Grammar</b>: <i>roundish</i> = hơi tròn.",
+   "example": {
+    "en": "a <b>round</b> ball",
+    "vi": "Một quả bóng <b>tròn</b>."
+   }
+  },
+  {
+   "word": "pointed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈpɔɪntɪd/",
+   "def_en": "With a sharp end.",
+   "def_vi": "Có đầu nhọn.",
+   "gloss_vi": "nhọn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "round <i>(adj. tròn)</i>",
+   "grammar_vi": "<i>Pointed</i> (adjective) = nhọn. <b>Grammar</b>: <i>point</i> (n.) → <i>pointed</i> (adj.).",
+   "example": {
+    "en": "shoes with <b>pointed</b> toes",
+    "vi": "Đôi giày mũi <b>nhọn</b>."
+   }
+  },
+  {
+   "word": "-ish",
+   "sense": "",
+   "pos": "suffix",
+   "ipa": "/ɪʃ/",
+   "def_en": "Almost; a sort of.",
+   "def_vi": "Gần như; kiểu như.",
+   "gloss_vi": "hơi…",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>-ish</i> (suffix) = hơi…. <b>Grammar</b>: <i>greenish, roundish, tallish</i>.",
+   "example": {
+    "en": "She had a <b>roundish</b> face.",
+    "vi": "Cô ấy có khuôn mặt <b>hơi tròn</b>."
+   }
+  }
+ ]
+}

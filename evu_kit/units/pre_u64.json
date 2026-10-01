@@ -1,0 +1,345 @@
+{
+ "book": "pre",
+ "unit": 64,
+ "title_vi": "Vật chứa và số lượng",
+ "theory_html": "<p><b>A. Containers and contents</b><br><i>A. Vật chứa và vật bên trong</i></p> <p><b>a bag of shopping, a bottle of juice, a jar of jam, a bowl of sugar, a jug of water, a box of chocolates, a packet of biscuits/crisps, a can of cola, a carton of orange juice, a tube of toothpaste, a vase of flowers, a tin of fruit, a bar of chocolate</b>. A <b>tin</b> has food; a <b>can</b> has a drink.</p><p><i><b>túi, chai, lọ, bát, bình, hộp, gói, lon, hộp giấy, tuýp, bình hoa, hộp thiếc, thanh</b>.</i></p> <p><b>B. Quantities</b><br><i>B. Số lượng</i></p> <p><b>a drop of milk, slices/pieces of beef, a bunch of flowers/keys, a sheet/piece/bit of paper, two pairs of trousers, a couple of books, several churches, half a dozen eggs, a dozen students, a spoonful of sugar, plenty of time, in large quantities</b>. <b>slice</b> for bread, cake, meat; <b>bunch</b> for flowers, grapes, bananas, keys.</p><p><i><b>giọt, lát, bó/chùm, tờ, đôi, vài, một số, nửa tá, một tá, một thìa, nhiều, số lượng lớn</b>.</i></p>",
+ "items": [
+  {
+   "word": "contents",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈkɒntents/",
+   "def_en": "The things inside something.",
+   "def_vi": "Những thứ bên trong vật gì.",
+   "gloss_vi": "vật bên trong",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Contents</i> (plural noun) = vật bên trong. <b>Grammar</b>: số nhiều; ≠ <i>content</i> (adj.) = hài lòng.",
+   "ex_kit": true,
+   "example": {
+    "en": "He emptied the <b>contents</b> of his bag onto the table.",
+    "vi": "Anh ấy đổ <b>đồ bên trong</b> túi ra bàn."
+   }
+  },
+  {
+   "word": "jar",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dʒɑː(r)/",
+   "def_en": "A glass container for food such as jam.",
+   "def_vi": "Lọ thủy tinh đựng thức ăn như mứt.",
+   "gloss_vi": "lọ, hũ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Jar</i> (noun) = lọ, hũ. <b>Grammar</b>: <i>a jar of jam/honey</i>.",
+   "example": {
+    "en": "a <b>jar of</b> jam",
+    "vi": "Một <b>lọ</b> mứt."
+   }
+  },
+  {
+   "word": "bowl",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bəʊl/",
+   "def_en": "A round deep dish.",
+   "def_vi": "Đĩa tròn sâu.",
+   "gloss_vi": "cái bát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bowl</i> (noun) = cái bát. <b>Grammar</b>: <i>a bowl of soup/rice</i>.",
+   "example": {
+    "en": "a <b>bowl of</b> sugar",
+    "vi": "Một <b>bát</b> đường."
+   }
+  },
+  {
+   "word": "jug",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dʒʌɡ/",
+   "def_en": "A container with a handle for pouring liquids.",
+   "def_vi": "Bình có quai để rót chất lỏng.",
+   "gloss_vi": "cái bình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Jug</i> (noun) = cái bình. <b>Grammar</b>: Anh–Anh; Mỹ <i>pitcher</i>.",
+   "example": {
+    "en": "a <b>jug of</b> water",
+    "vi": "Một <b>bình</b> nước."
+   }
+  },
+  {
+   "word": "packet",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpækɪt/",
+   "def_en": "A small paper or plastic container.",
+   "def_vi": "Gói nhỏ bằng giấy hay nhựa.",
+   "gloss_vi": "gói",
+   "synonyms": "pack <i>(n. gói)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Packet</i> (noun) = gói. <b>Grammar</b>: <i>a packet of crisps/biscuits</i>.",
+   "example": {
+    "en": "a <b>packet of</b> biscuits",
+    "vi": "Một <b>gói</b> bánh quy."
+   }
+  },
+  {
+   "word": "can",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kæn/",
+   "def_en": "A metal container for drinks.",
+   "def_vi": "Hộp kim loại đựng đồ uống.",
+   "gloss_vi": "lon",
+   "synonyms": "tin <i>(n. hộp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Can</i> (noun) = lon. <b>Grammar</b>: <i>can</i> đựng đồ uống; <i>tin</i> đựng thức ăn.",
+   "example": {
+    "en": "a <b>can of</b> cola",
+    "vi": "Một <b>lon</b> cola."
+   }
+  },
+  {
+   "word": "carton",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɑːtn/",
+   "def_en": "A paper or plastic box for liquids.",
+   "def_vi": "Hộp giấy hay nhựa đựng chất lỏng.",
+   "gloss_vi": "hộp giấy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Carton</i> (noun) = hộp giấy. <b>Grammar</b>: <i>a carton of milk/juice</i>.",
+   "example": {
+    "en": "a <b>carton of</b> orange juice",
+    "vi": "Một <b>hộp</b> nước cam."
+   }
+  },
+  {
+   "word": "tube",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tjuːb/",
+   "def_en": "A soft container that you squeeze.",
+   "def_vi": "Đồ đựng mềm để bóp.",
+   "gloss_vi": "tuýp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tube</i> (noun) = tuýp. <b>Grammar</b>: <i>a tube of toothpaste</i>. <b>Common mistakes</b>: cũng = tàu điện ngầm London.",
+   "example": {
+    "en": "a <b>tube of</b> toothpaste",
+    "vi": "Một <b>tuýp</b> kem đánh răng."
+   }
+  },
+  {
+   "word": "vase",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/vɑːz/",
+   "def_en": "A container for flowers.",
+   "def_vi": "Bình cắm hoa.",
+   "gloss_vi": "bình hoa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Vase</i> (noun) = bình hoa. <b>Grammar</b>: Anh /vɑːz/, Mỹ /veɪs/.",
+   "example": {
+    "en": "a <b>vase of</b> flowers",
+    "vi": "Một <b>bình</b> hoa."
+   }
+  },
+  {
+   "word": "tin",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tɪn/",
+   "def_en": "A metal container for food.",
+   "def_vi": "Hộp kim loại đựng thức ăn.",
+   "gloss_vi": "hộp (thiếc)",
+   "synonyms": "can <i>(n. hộp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tin</i> (noun) = hộp (thiếc). <b>Grammar</b>: <i>tin</i> đựng thức ăn (Anh–Anh).",
+   "example": {
+    "en": "a <b>tin of</b> fruit",
+    "vi": "Một <b>hộp</b> trái cây."
+   }
+  },
+  {
+   "word": "bar",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bɑː(r)/",
+   "def_en": "A long piece of something, e.g. chocolate.",
+   "def_vi": "Miếng dài của thứ gì, như sô-cô-la.",
+   "gloss_vi": "thanh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bar</i> (noun) = thanh. <b>Grammar</b>: <i>a bar of chocolate/soap</i>.",
+   "example": {
+    "en": "a <b>bar of</b> chocolate",
+    "vi": "Một <b>thanh</b> sô-cô-la."
+   }
+  },
+  {
+   "word": "drop",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/drɒp/",
+   "def_en": "A very small amount of liquid.",
+   "def_vi": "Lượng chất lỏng rất nhỏ.",
+   "gloss_vi": "giọt, chút",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Drop</i> (noun) = giọt, chút. <b>Grammar</b>: <i>a drop of</i> + chất lỏng.",
+   "example": {
+    "en": "Just a <b>drop of</b> milk and no sugar in my coffee, please.",
+    "vi": "Cho tôi chỉ một <b>chút</b> sữa và không đường."
+   }
+  },
+  {
+   "word": "slice",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/slaɪs/",
+   "def_en": "A thin flat piece of bread, cake or meat.",
+   "def_vi": "Miếng mỏng phẳng của bánh mì, bánh, thịt.",
+   "gloss_vi": "lát",
+   "synonyms": "piece <i>(n. miếng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Slice</i> (noun) = lát. <b>Grammar</b>: dùng cho bánh mì, bánh, thịt.",
+   "example": {
+    "en": "I’ve cut three <b>slices of</b> beef.",
+    "vi": "Tôi đã cắt ba <b>lát</b> thịt bò."
+   }
+  },
+  {
+   "word": "bunch",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bʌntʃ/",
+   "def_en": "A number of things held or growing together.",
+   "def_vi": "Nhiều thứ bó lại hay mọc cùng.",
+   "gloss_vi": "bó, chùm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bunch</i> (noun) = bó, chùm. <b>Grammar</b>: dùng cho hoa, nho, chuối, chìa khóa.",
+   "example": {
+    "en": "I took my boss a <b>bunch of</b> flowers.",
+    "vi": "Tôi mang cho sếp một <b>bó</b> hoa."
+   }
+  },
+  {
+   "word": "sheet",
+   "sense": "paper",
+   "pos": "noun",
+   "ipa": "/ʃiːt/",
+   "def_en": "A flat thin piece of paper.",
+   "def_vi": "Tờ giấy phẳng mỏng.",
+   "gloss_vi": "tờ (giấy)",
+   "synonyms": "piece <i>(n. mảnh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sheet</i> (noun) = tờ (giấy). <b>Grammar</b>: <i>a sheet/piece/bit of paper</i>.",
+   "example": {
+    "en": "I need a <b>sheet of</b> paper.",
+    "vi": "Tôi cần một <b>tờ</b> giấy."
+   }
+  },
+  {
+   "word": "pair",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/peə(r)/",
+   "def_en": "Two things of the same type used together.",
+   "def_vi": "Hai thứ cùng loại dùng chung.",
+   "gloss_vi": "đôi, cặp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pair</i> (noun) = đôi, cặp. <b>Grammar</b>: <i>a pair of trousers/jeans/scissors</i> (một vật).",
+   "example": {
+    "en": "Andrew bought two <b>pairs of</b> trousers and a pair of shoes yesterday.",
+    "vi": "Andrew mua hai <b>chiếc</b> quần và một đôi giày hôm qua."
+   }
+  },
+  {
+   "word": "several",
+   "sense": "",
+   "pos": "determiner",
+   "ipa": "/ˈsevrəl/",
+   "def_en": "Some but not a lot, e.g. between three and eight.",
+   "def_vi": "Một số, không nhiều, khoảng ba đến tám.",
+   "gloss_vi": "một vài, vài",
+   "synonyms": "some <i>(det. một số)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Several</i> (determiner) = một vài, vài. <b>Grammar</b>: + danh từ số nhiều.",
+   "example": {
+    "en": "We saw <b>several</b> churches on our way here.",
+    "vi": "Chúng tôi thấy <b>vài</b> nhà thờ trên đường đến đây."
+   }
+  },
+  {
+   "word": "half a dozen",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌhɑːf ə ˈdʌzn/",
+   "def_en": "Six.",
+   "def_vi": "Sáu.",
+   "gloss_vi": "nửa tá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Half a dozen</i> (noun phrase) = nửa tá. <b>Grammar</b>: không có <i>of</i>: <i>half a dozen eggs</i>.",
+   "example": {
+    "en": "I bought <b>half a dozen</b> eggs at the supermarket.",
+    "vi": "Tôi mua <b>nửa tá</b> trứng ở siêu thị."
+   }
+  },
+  {
+   "word": "dozen",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdʌzn/",
+   "def_en": "Twelve.",
+   "def_vi": "Mười hai.",
+   "gloss_vi": "một tá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dozen</i> (noun) = một tá. <b>Grammar</b>: <i>a dozen eggs</i> (không <i>of</i>); <i>dozens of</i> = rất nhiều.",
+   "example": {
+    "en": "There are a <b>dozen</b> students in the class.",
+    "vi": "Có <b>một tá</b> học sinh trong lớp."
+   }
+  },
+  {
+   "word": "spoonful",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈspuːnfʊl/",
+   "def_en": "The amount a spoon can hold.",
+   "def_vi": "Lượng một thìa chứa được.",
+   "gloss_vi": "thìa (đầy)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spoonful</i> (noun) = thìa (đầy). <b>Grammar</b>: số nhiều <i>spoonfuls</i>.",
+   "example": {
+    "en": "Could I have <b>a spoonful of</b> sugar in my tea?",
+    "vi": "Cho tôi một <b>thìa</b> đường vào trà được không?"
+   }
+  },
+  {
+   "word": "in large quantities",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪn ˌlɑːdʒ ˈkwɒntətiz/",
+   "def_en": "In big amounts.",
+   "def_vi": "Với lượng lớn.",
+   "gloss_vi": "với số lượng lớn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "in small quantities <i>(phr. số lượng nhỏ)</i>",
+   "grammar_vi": "<i>In large quantities</i> (phrase) = với số lượng lớn. <b>Grammar</b>: <i>quantity</i> = số lượng.",
+   "example": {
+    "en": "The company is now making the toys <b>in large quantities</b>.",
+    "vi": "Công ty hiện sản xuất đồ chơi <b>với số lượng lớn</b>."
+   }
+  }
+ ]
+}
