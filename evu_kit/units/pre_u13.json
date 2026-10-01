@@ -1,0 +1,377 @@
+{
+ "book": "pre",
+ "unit": 13,
+ "title_vi": "Gia đình và bạn bè",
+ "theory_html": "<p><b>A. Relatives</b><br><i>A. Họ hàng</i></p> <p><b>relatives</b> (syn <b>relations</b>): <b>a widow</b> (husband has died), <b>remarry</b>, <b>stepfather</b>, <b>elder</b> (older) brother, <b>twins</b>, <b>a close family</b>, <b>an only child</b>, <b>altogether five cousins</b>, <b>get on well with</b>, <b>nephew, niece</b>, <b>get married</b>, <b>sister-in-law</b> (also <b>mother/brother/son-in-law</b>). Say <b>Thomas’s wife</b> (NOT <b>the wife of Thomas</b>).</p><p><i><b>họ hàng; góa phụ, tái hôn, bố dượng, anh/chị cả, sinh đôi, gia đình gắn bó, con một, anh chị em họ, hòa hợp, cháu trai/gái, kết hôn, chị/em dâu</b>.</i></p> <p><b>B. Friends</b><br><i>B. Bạn bè</i></p> <p><b>best friend, old school friend, got to know each other, mates, ever since, friendship, current girlfriend, ex-girlfriend</b>. <b>ex-</b> = a past relationship (<b>my ex-husband</b>).</p><p><i><b>bạn thân, bạn học cũ, quen nhau, bạn bè, kể từ đó, tình bạn, hiện tại, người yêu cũ</b>.</i></p>",
+ "items": [
+  {
+   "word": "relatives",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈrelətɪvz/",
+   "def_en": "Members of your family.",
+   "def_vi": "Thành viên trong gia đình.",
+   "gloss_vi": "họ hàng",
+   "synonyms": "relations <i>(pn. họ hàng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Relatives</i> (plural noun) = họ hàng. <b>Grammar</b>: số ít <i>a relative</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We visit our <b>relatives</b> every Christmas.",
+    "vi": "Chúng tôi đến thăm <b>họ hàng</b> vào mỗi dịp Giáng sinh."
+   }
+  },
+  {
+   "word": "widow",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɪdəʊ/",
+   "def_en": "A woman whose husband has died.",
+   "def_vi": "Người phụ nữ có chồng đã mất.",
+   "gloss_vi": "góa phụ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "widower <i>(n. người góa vợ)</i>",
+   "grammar_vi": "<i>Widow</i> (noun) = góa phụ. <b>Grammar</b>: đếm được; nam: <i>widower</i>.",
+   "example": {
+    "en": "My mother was a <b>widow</b> with four young children.",
+    "vi": "Mẹ tôi là một <b>góa phụ</b> với bốn con nhỏ."
+   }
+  },
+  {
+   "word": "remarry",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌriːˈmæri/",
+   "def_en": "To marry again.",
+   "def_vi": "Kết hôn lần nữa.",
+   "gloss_vi": "tái hôn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Remarry</i> (verb) = tái hôn. <b>Grammar</b>: tiền tố <i>re-</i> = lại; <i>remarry – remarried</i>.",
+   "example": {
+    "en": "She <b>remarried</b> five years later.",
+    "vi": "Bà <b>tái hôn</b> năm năm sau đó."
+   }
+  },
+  {
+   "word": "stepfather",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈstepfɑːðə(r)/",
+   "def_en": "The man who is married to your mother but is not your real father.",
+   "def_vi": "Người đàn ông lấy mẹ bạn nhưng không phải bố ruột.",
+   "gloss_vi": "bố dượng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stepfather</i> (noun) = bố dượng. <b>Grammar</b>: <i>step-</i> + <i>mother/son/daughter/brother/sister</i>.",
+   "example": {
+    "en": "Now I have a <b>stepfather</b>.",
+    "vi": "Giờ tôi có một <b>bố dượng</b>."
+   }
+  },
+  {
+   "word": "elder",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈeldə(r)/",
+   "def_en": "Older.",
+   "def_vi": "Lớn tuổi hơn.",
+   "gloss_vi": "(anh/chị) lớn, cả",
+   "synonyms": "older <i>(adj. lớn tuổi hơn)</i>",
+   "antonyms": "younger <i>(adj. nhỏ tuổi hơn)</i>",
+   "grammar_vi": "<i>Elder</i> (adjective) = (anh/chị) lớn, cả. <b>Grammar</b>: chỉ đứng trước danh từ (<i>an elder brother</i>), không dùng <i>elder than</i>.",
+   "example": {
+    "en": "I’ve got an <b>elder</b> brother called Thomas.",
+    "vi": "Tôi có một <b>anh trai</b> tên Thomas."
+   }
+  },
+  {
+   "word": "twins",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/twɪnz/",
+   "def_en": "Two children born to one mother at the same time.",
+   "def_vi": "Hai đứa trẻ cùng một mẹ sinh cùng lúc.",
+   "gloss_vi": "cặp sinh đôi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Twins</i> (plural noun) = cặp sinh đôi. <b>Grammar</b>: số ít <i>a twin</i>; <i>twin brother/sister</i>.",
+   "example": {
+    "en": "I’ve got two younger sisters, Anya and Claudia, who are <b>twins</b>.",
+    "vi": "Hai em gái tôi, Anya và Claudia, là <b>sinh đôi</b>."
+   }
+  },
+  {
+   "word": "close family",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌkləʊs ˈfæmli/",
+   "def_en": "A family who like each other and stay together a lot.",
+   "def_vi": "Gia đình yêu thương nhau và hay ở cùng nhau.",
+   "gloss_vi": "gia đình gắn bó",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Close family</i> (noun phrase) = gia đình gắn bó. <b>Grammar</b>: <i>close</i> /kləʊs/ (adj.) ≠ <i>close</i> /kləʊz/ (v.).",
+   "example": {
+    "en": "We’re a <b>close family</b>.",
+    "vi": "Chúng tôi là một <b>gia đình gắn bó</b>."
+   }
+  },
+  {
+   "word": "only child",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌəʊnli ˈtʃaɪld/",
+   "def_en": "A child without brothers or sisters.",
+   "def_vi": "Đứa trẻ không có anh chị em.",
+   "gloss_vi": "con một",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Only child</i> (noun phrase) = con một. <b>Grammar</b>: <i>an only child</i>.",
+   "example": {
+    "en": "My mother is an <b>only child</b>.",
+    "vi": "Mẹ tôi là <b>con một</b>."
+   }
+  },
+  {
+   "word": "altogether",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌɔːltəˈɡeðə(r)/",
+   "def_en": "In total.",
+   "def_vi": "Tổng cộng.",
+   "gloss_vi": "tổng cộng",
+   "synonyms": "in total <i>(phr. tổng cộng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Altogether</i> (adverb) = tổng cộng. <b>Grammar</b>: viết liền ≠ <i>all together</i> (tất cả cùng nhau).",
+   "example": {
+    "en": "So <b>altogether</b> I have five cousins.",
+    "vi": "Vậy <b>tổng cộng</b> tôi có năm anh chị em họ."
+   }
+  },
+  {
+   "word": "cousin",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkʌzn/",
+   "def_en": "The child of your uncle or aunt.",
+   "def_vi": "Con của chú/bác/cô/dì.",
+   "gloss_vi": "anh chị em họ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cousin</i> (noun) = anh chị em họ. <b>Grammar</b>: đếm được; dùng cho cả nam và nữ. <b>Common mistakes</b>: /ˈkʌzn/.",
+   "example": {
+    "en": "So altogether I have five <b>cousins</b>.",
+    "vi": "Vậy tổng cộng tôi có năm <b>anh chị em họ</b>."
+   }
+  },
+  {
+   "word": "get on well with",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌɡet ɒn ˈwel wɪð/",
+   "def_en": "To have a good relationship with.",
+   "def_vi": "Có quan hệ tốt với.",
+   "gloss_vi": "hòa hợp với",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get on well with</i> (phrasal verb) = hòa hợp với. <b>Grammar</b>: <i>get on (well) with sb</i>. <b>Common mistakes</b>: <i>get – got – got</i>.",
+   "example": {
+    "en": "I <b>get on well with</b> Uncle Rolf.",
+    "vi": "Tôi <b>hòa hợp với</b> chú Rolf."
+   }
+  },
+  {
+   "word": "nephew",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈnefjuː/",
+   "def_en": "The son of your brother or sister.",
+   "def_vi": "Con trai của anh chị em mình.",
+   "gloss_vi": "cháu trai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "niece <i>(n. cháu gái)</i>",
+   "grammar_vi": "<i>Nephew</i> (noun) = cháu trai. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: /ˈnefjuː/.",
+   "example": {
+    "en": "He always tells me I’m his favourite <b>nephew</b>.",
+    "vi": "Chú luôn nói tôi là <b>cháu trai</b> yêu thích của chú."
+   }
+  },
+  {
+   "word": "niece",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/niːs/",
+   "def_en": "The daughter of your brother or sister.",
+   "def_vi": "Con gái của anh chị em mình.",
+   "gloss_vi": "cháu gái",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "nephew <i>(n. cháu trai)</i>",
+   "grammar_vi": "<i>Niece</i> (noun) = cháu gái. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Of his <b>nieces</b>, I think he likes Anya best.",
+    "vi": "Trong các <b>cháu gái</b>, tôi nghĩ chú thích Anya nhất."
+   }
+  },
+  {
+   "word": "get married",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡet ˈmærid/",
+   "def_en": "To become husband and wife.",
+   "def_vi": "Trở thành vợ chồng.",
+   "gloss_vi": "kết hôn",
+   "synonyms": "marry <i>(v. cưới)</i>",
+   "antonyms": "get divorced <i>(vp. ly hôn)</i>",
+   "grammar_vi": "<i>Get married</i> (verb phrase) = kết hôn. <b>Grammar</b>: <i>get married (to sb)</i> (không dùng <i>with</i>).",
+   "example": {
+    "en": "Recently my brother Thomas <b>got married</b>.",
+    "vi": "Gần đây anh trai Thomas của tôi đã <b>kết hôn</b>."
+   }
+  },
+  {
+   "word": "sister-in-law",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɪstər ɪn lɔː/",
+   "def_en": "The wife of your brother, or the sister of your husband or wife.",
+   "def_vi": "Vợ của anh/em trai, hay chị/em của vợ/chồng.",
+   "gloss_vi": "chị/em dâu, chị/em chồng/vợ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sister-in-law</i> (noun) = chị/em dâu, chị/em chồng/vợ. <b>Grammar</b>: số nhiều <i>sisters-in-law</i>; cũng <i>mother/brother/son-in-law</i>.",
+   "example": {
+    "en": "I now have a <b>sister-in-law</b> as well.",
+    "vi": "Giờ tôi cũng có một <b>chị dâu</b>."
+   }
+  },
+  {
+   "word": "best friend",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌbest ˈfrend/",
+   "def_en": "The friend you like most.",
+   "def_vi": "Người bạn bạn quý nhất.",
+   "gloss_vi": "bạn thân nhất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Best friend</i> (noun phrase) = bạn thân nhất. <b>Grammar</b>: <i>my best friend</i>.",
+   "example": {
+    "en": "My <b>best friend</b> is Florian.",
+    "vi": "<b>Bạn thân nhất</b> của tôi là Florian."
+   }
+  },
+  {
+   "word": "old friend",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌəʊld ˈfrend/",
+   "def_en": "A friend you have known for a long time.",
+   "def_vi": "Người bạn quen từ lâu.",
+   "gloss_vi": "bạn cũ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Old friend</i> (noun phrase) = bạn cũ. <b>Grammar</b>: <i>old</i> = quen lâu, không phải già.",
+   "example": {
+    "en": "My best friend is Florian, an <b>old</b> school <b>friend</b>.",
+    "vi": "Bạn thân nhất của tôi là Florian, một <b>người bạn</b> học <b>cũ</b>."
+   }
+  },
+  {
+   "word": "get to know",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡet tə ˈnəʊ/",
+   "def_en": "To start to know someone.",
+   "def_vi": "Bắt đầu quen biết ai.",
+   "gloss_vi": "làm quen, quen biết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get to know</i> (verb phrase) = làm quen, quen biết. <b>Grammar</b>: <i>get to know sb / each other</i>.",
+   "example": {
+    "en": "We <b>got to know each other</b> when we were in the same class at school.",
+    "vi": "Chúng tôi <b>quen nhau</b> khi học cùng lớp."
+   }
+  },
+  {
+   "word": "mate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/meɪt/",
+   "def_en": "A friend.",
+   "def_vi": "Bạn.",
+   "gloss_vi": "bạn",
+   "synonyms": "friend <i>(n. bạn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mate</i> (noun) = bạn. <b>Grammar</b>: thân mật, Anh–Anh.",
+   "example": {
+    "en": "We’ve been <b>mates</b> ever since.",
+    "vi": "Chúng tôi là <b>bạn</b> từ đó đến nay."
+   }
+  },
+  {
+   "word": "ever since",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌevə ˈsɪns/",
+   "def_en": "From that time until now.",
+   "def_vi": "Từ lúc đó đến nay.",
+   "gloss_vi": "kể từ đó",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ever since</i> (adverb) = kể từ đó. <b>Grammar</b>: thường dùng với hiện tại hoàn thành.",
+   "example": {
+    "en": "We’ve been mates <b>ever since</b>.",
+    "vi": "Chúng tôi là bạn <b>kể từ đó</b>."
+   }
+  },
+  {
+   "word": "friendship",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfrendʃɪp/",
+   "def_en": "A relationship between friends.",
+   "def_vi": "Mối quan hệ giữa bạn bè.",
+   "gloss_vi": "tình bạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Friendship</i> (noun) = tình bạn. <b>Grammar</b>: hậu tố <i>-ship</i>.",
+   "example": {
+    "en": "Our <b>friendship</b> is very important to both of us.",
+    "vi": "<b>Tình bạn</b> của chúng tôi rất quan trọng với cả hai."
+   }
+  },
+  {
+   "word": "current",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈkʌrənt/",
+   "def_en": "Happening or existing now.",
+   "def_vi": "Đang xảy ra hay tồn tại bây giờ.",
+   "gloss_vi": "hiện tại",
+   "synonyms": "present <i>(adj. hiện tại)</i>",
+   "antonyms": "former <i>(adj. trước đây)</i>",
+   "grammar_vi": "<i>Current</i> (adjective) = hiện tại. <b>Grammar</b>: chỉ đứng trước danh từ. <b>Word family</b>: <i>currently</i> (adv.).",
+   "example": {
+    "en": "His <b>current</b> girlfriend is actually one of Thomas’s ex-girlfriends.",
+    "vi": "Bạn gái <b>hiện tại</b> của anh ấy là một trong những bạn gái cũ của Thomas."
+   }
+  },
+  {
+   "word": "ex-",
+   "sense": "",
+   "pos": "prefix",
+   "ipa": "/eks/",
+   "def_en": "Used for a relationship you had in the past but do not have now.",
+   "def_vi": "Dùng cho mối quan hệ trước đây nay không còn.",
+   "gloss_vi": "cũ (người yêu, vợ, chồng…)",
+   "synonyms": "former <i>(adj. trước đây)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ex-</i> (prefix) = cũ (người yêu, vợ, chồng…). <b>Grammar</b>: <i>ex-</i> + danh từ: <i>ex-wife, ex-boyfriend</i>; thân mật: <i>my ex</i>.",
+   "example": {
+    "en": "The children stay with my <b>ex-husband</b> at the weekend.",
+    "vi": "Bọn trẻ ở với <b>chồng cũ</b> của tôi vào cuối tuần."
+   }
+  }
+ ]
+}

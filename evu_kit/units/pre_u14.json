@@ -1,0 +1,432 @@
+{
+ "book": "pre",
+ "unit": 14,
+ "title_vi": "Trưởng thành",
+ "theory_html": "<p><b>A. Ages and stages in the UK</b><br><i>A. Độ tuổi và giai đoạn ở Anh</i></p> <p><b>birth</b> → a baby → a <b>toddler</b> (1–3) → a child (<b>childhood</b>) → a <b>teenager</b> (<b>in your teens</b>) → an <b>adult</b> → <b>middle-aged</b> (40+) → <b>retirement</b> (<b>retired</b>) → old age (<b>elderly</b>).</p><p><i><b>sự ra đời, trẻ chập chững, tuổi thơ, thiếu niên, người lớn, trung niên, nghỉ hưu, cao tuổi</b>.</i></p> <p><b>B. Approximate ages</b><br><i>B. Tuổi ước chừng</i></p> <p><b>in my early twenties</b> (21–23), <b>in their mid-fifties</b> (54–56), <b>in her late seventies</b> (77–79), <b>nearly/almost eighty</b>, <b>approximately/roughly thirty</b>. Say <b>he’s 30 / 30 years old</b> (NOT <b>he has 30</b>) and <b>a 30-year-old man</b>.</p><p><i><b>đầu/giữa/cuối độ tuổi…, gần, khoảng</b>.</i></p> <p><b>C. Past and present</b><br><i>C. Xưa và nay</i></p> <p><b>She’s dead now</b> (opp <b>alive</b>); <b>brought up on a farm</b>; <b>strict</b> parents didn’t <b>allow</b> her…; <b>in the end</b>; <b>at first</b>; <b>managed to find work</b>; <b>she was allowed to go to parties</b>; <b>let her stay out late</b>. <b>let</b> is more informal; <b>allow</b> is often passive. <b>You’re not allowed to smoke</b> (NOT <b>It’s not allowed to…</b>).</p><p><i><b>đã mất, được nuôi dạy, nghiêm khắc, cho phép, cuối cùng, lúc đầu, xoay xở được, đi chơi về khuya</b>.</i></p>",
+ "items": [
+  {
+   "word": "birth",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bɜːθ/",
+   "def_en": "The moment a baby is born.",
+   "def_vi": "Lúc em bé chào đời.",
+   "gloss_vi": "sự ra đời, sự sinh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "death <i>(n. cái chết)</i>",
+   "grammar_vi": "<i>Birth</i> (noun) = sự ra đời, sự sinh. <b>Grammar</b>: <i>at birth</i>; <i>date/place of birth</i>. <b>Word family</b>: <i>be born</i> (v.).",
+   "ex_kit": true,
+   "example": {
+    "en": "The baby’s weight at <b>birth</b> was 3.5 kilos.",
+    "vi": "Cân nặng của em bé lúc <b>sinh</b> là 3,5 kg."
+   }
+  },
+  {
+   "word": "toddler",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtɒdlə(r)/",
+   "def_en": "A child aged between about one and three years old.",
+   "def_vi": "Trẻ khoảng một đến ba tuổi.",
+   "gloss_vi": "trẻ chập chững",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Toddler</i> (noun) = trẻ chập chững. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: từ <i>toddle</i> = đi chập chững.",
+   "ex_kit": true,
+   "example": {
+    "en": "My son is a two-year-old <b>toddler</b>.",
+    "vi": "Con trai tôi là một <b>đứa trẻ chập chững</b> hai tuổi."
+   }
+  },
+  {
+   "word": "childhood",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtʃaɪldhʊd/",
+   "def_en": "The period of time when you are a child.",
+   "def_vi": "Thời kỳ bạn còn là trẻ con.",
+   "gloss_vi": "tuổi thơ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Childhood</i> (noun) = tuổi thơ. <b>Grammar</b>: hậu tố <i>-hood</i>: <i>childhood, adulthood</i>.",
+   "example": {
+    "en": "She had a very different <b>childhood</b>.",
+    "vi": "Bà có một <b>tuổi thơ</b> rất khác."
+   }
+  },
+  {
+   "word": "teenager",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtiːneɪdʒə(r)/",
+   "def_en": "A person aged between 13 and 19.",
+   "def_vi": "Người từ 13 đến 19 tuổi.",
+   "gloss_vi": "thiếu niên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Teenager</i> (noun) = thiếu niên. <b>Grammar</b>: đếm được. <b>Word family</b>: <i>teenage</i> (adj.).",
+   "example": {
+    "en": "As a <b>teenager</b>, they didn’t allow her to listen to the radio.",
+    "vi": "Khi còn là <b>thiếu niên</b>, bà không được nghe radio."
+   }
+  },
+  {
+   "word": "in your teens",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪn jə ˈtiːnz/",
+   "def_en": "Aged between 13 and 19.",
+   "def_vi": "Ở tuổi 13–19.",
+   "gloss_vi": "ở tuổi thiếu niên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In your teens</i> (phrase) = ở tuổi thiếu niên. <b>Grammar</b>: tính từ sở hữu thay đổi: <i>in his/her teens</i>; <i>in her early/late teens</i>.",
+   "example": {
+    "en": "She died about ten years ago when I was <b>in my teens</b>.",
+    "vi": "Bà mất khoảng mười năm trước khi tôi <b>ở tuổi thiếu niên</b>."
+   }
+  },
+  {
+   "word": "adult",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈædʌlt/",
+   "def_en": "A person who is fully grown.",
+   "def_vi": "Người đã trưởng thành.",
+   "gloss_vi": "người lớn",
+   "synonyms": "grown-up <i>(n. người lớn)</i>",
+   "antonyms": "child <i>(n. trẻ em)</i>",
+   "grammar_vi": "<i>Adult</i> (noun) = người lớn. <b>Grammar</b>: đếm được; cũng là tính từ. <b>Common mistakes</b>: /ˈædʌlt/ (Anh).",
+   "ex_kit": true,
+   "example": {
+    "en": "Tickets are £12 for <b>adults</b> and £6 for children.",
+    "vi": "Vé cho <b>người lớn</b> giá 12 bảng, trẻ em 6 bảng."
+   }
+  },
+  {
+   "word": "middle-aged",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌmɪdl ˈeɪdʒd/",
+   "def_en": "In the middle of your life (about 40–60).",
+   "def_vi": "Ở giữa cuộc đời (khoảng 40–60).",
+   "gloss_vi": "trung niên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Middle-aged</i> (adjective) = trung niên. <b>Grammar</b>: có gạch nối.",
+   "ex_kit": true,
+   "example": {
+    "en": "A <b>middle-aged</b> man sat next to me on the train.",
+    "vi": "Một người đàn ông <b>trung niên</b> ngồi cạnh tôi trên tàu."
+   }
+  },
+  {
+   "word": "retirement",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˈtaɪəmənt/",
+   "def_en": "The time when people stop work.",
+   "def_vi": "Lúc người ta thôi làm việc.",
+   "gloss_vi": "sự nghỉ hưu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Retirement</i> (noun) = sự nghỉ hưu. <b>Grammar</b>: <i>in retirement</i>. <b>Word family</b>: <i>retire</i> (v.).",
+   "ex_kit": true,
+   "example": {
+    "en": "My father is looking forward to his <b>retirement</b>.",
+    "vi": "Bố tôi đang mong đến lúc <b>nghỉ hưu</b>."
+   }
+  },
+  {
+   "word": "retired",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/rɪˈtaɪəd/",
+   "def_en": "Having stopped work because of your age.",
+   "def_vi": "Đã thôi làm việc vì tuổi tác.",
+   "gloss_vi": "đã nghỉ hưu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Retired</i> (adjective) = đã nghỉ hưu. <b>Grammar</b>: <i>be retired</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "My grandparents are both <b>retired</b>.",
+    "vi": "Ông bà tôi đều <b>đã nghỉ hưu</b>."
+   }
+  },
+  {
+   "word": "elderly",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈeldəli/",
+   "def_en": "Old (a polite word).",
+   "def_vi": "Già (cách nói lịch sự).",
+   "gloss_vi": "cao tuổi",
+   "synonyms": "old <i>(adj. già)</i>",
+   "antonyms": "young <i>(adj. trẻ)</i>",
+   "grammar_vi": "<i>Elderly</i> (adjective) = cao tuổi. <b>Grammar</b>: lịch sự hơn <i>old</i>; <i>the elderly</i> = người cao tuổi.",
+   "ex_kit": true,
+   "example": {
+    "en": "She looks after her <b>elderly</b> mother.",
+    "vi": "Bà ấy chăm sóc mẹ <b>cao tuổi</b> của mình."
+   }
+  },
+  {
+   "word": "in your early twenties",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪn jər ˌɜːli ˈtwentiz/",
+   "def_en": "Aged about 21–23.",
+   "def_vi": "Khoảng 21–23 tuổi.",
+   "gloss_vi": "ở đầu tuổi hai mươi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In your early twenties</i> (phrase) = ở đầu tuổi hai mươi. <b>Grammar</b>: <i>in my/his/her early/mid/late</i> + số đếm thập niên (số nhiều).",
+   "example": {
+    "en": "I’m <b>in my early twenties</b>.",
+    "vi": "Tôi <b>ở đầu tuổi hai mươi</b>."
+   }
+  },
+  {
+   "word": "in your mid-fifties",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪn jə ˌmɪd ˈfɪftiz/",
+   "def_en": "Aged about 54–56.",
+   "def_vi": "Khoảng 54–56 tuổi.",
+   "gloss_vi": "ở giữa tuổi năm mươi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In your mid-fifties</i> (phrase) = ở giữa tuổi năm mươi. <b>Grammar</b>: <i>mid-</i> có gạch nối.",
+   "example": {
+    "en": "My parents are <b>in their mid-fifties</b>.",
+    "vi": "Bố mẹ tôi <b>ở giữa tuổi năm mươi</b>."
+   }
+  },
+  {
+   "word": "in your late seventies",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪn jə ˌleɪt ˈsevntiz/",
+   "def_en": "Aged about 77–79.",
+   "def_vi": "Khoảng 77–79 tuổi.",
+   "gloss_vi": "ở cuối tuổi bảy mươi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In your late seventies</i> (phrase) = ở cuối tuổi bảy mươi. <b>Grammar</b>: <i>in her late seventies</i>.",
+   "example": {
+    "en": "My grandmother is <b>in her late seventies</b>.",
+    "vi": "Bà tôi <b>ở cuối tuổi bảy mươi</b>."
+   }
+  },
+  {
+   "word": "nearly",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈnɪəli/",
+   "def_en": "Almost.",
+   "def_vi": "Gần như.",
+   "gloss_vi": "gần, sắp",
+   "synonyms": "almost <i>(adv. gần như)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nearly</i> (adverb) = gần, sắp. <b>Grammar</b>: <i>nearly/almost</i> + số.",
+   "example": {
+    "en": "My grandfather is <b>nearly</b> eighty.",
+    "vi": "Ông tôi <b>gần</b> tám mươi tuổi."
+   }
+  },
+  {
+   "word": "approximately",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/əˈprɒksɪmətli/",
+   "def_en": "About; more or less.",
+   "def_vi": "Khoảng; xấp xỉ.",
+   "gloss_vi": "khoảng, xấp xỉ",
+   "synonyms": "roughly <i>(adv. khoảng)</i>",
+   "antonyms": "exactly <i>(adv. chính xác)</i>",
+   "grammar_vi": "<i>Approximately</i> (adverb) = khoảng, xấp xỉ. <b>Grammar</b>: trang trọng hơn <i>about</i>.",
+   "example": {
+    "en": "My English teacher’s <b>approximately</b> thirty.",
+    "vi": "Cô giáo tiếng Anh của tôi <b>khoảng</b> ba mươi tuổi."
+   }
+  },
+  {
+   "word": "dead",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ded/",
+   "def_en": "Not living.",
+   "def_vi": "Không còn sống.",
+   "gloss_vi": "đã chết, đã mất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "alive <i>(adj. còn sống)</i>",
+   "grammar_vi": "<i>Dead</i> (adjective) = đã chết, đã mất. <b>Grammar</b>: <i>dead</i> (adj.) ≠ <i>died</i> (v.) ≠ <i>death</i> (n.).",
+   "example": {
+    "en": "She’s <b>dead</b> now.",
+    "vi": "Giờ bà đã <b>mất</b>."
+   }
+  },
+  {
+   "word": "alive",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əˈlaɪv/",
+   "def_en": "Living.",
+   "def_vi": "Còn sống.",
+   "gloss_vi": "còn sống",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "dead <i>(adj. đã chết)</i>",
+   "grammar_vi": "<i>Alive</i> (adjective) = còn sống. <b>Grammar</b>: không đứng trước danh từ (không nói <i>an alive man</i>).",
+   "ex_kit": true,
+   "example": {
+    "en": "My grandfather is still <b>alive</b> and well.",
+    "vi": "Ông tôi vẫn <b>còn sống</b> và khỏe mạnh."
+   }
+  },
+  {
+   "word": "bring up",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌbrɪŋ ˈʌp/",
+   "def_en": "To look after a child until he or she is an adult.",
+   "def_vi": "Chăm sóc đứa trẻ đến khi trưởng thành.",
+   "gloss_vi": "nuôi nấng, nuôi dạy",
+   "synonyms": "raise <i>(v. nuôi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bring up</i> (phrasal verb) = nuôi nấng, nuôi dạy. <b>Grammar</b>: tách được: <i>bring a child up</i>; thường bị động. <b>Common mistakes</b>: <i>bring – brought – brought</i>.",
+   "example": {
+    "en": "She was <b>brought up</b> on a farm in Wales.",
+    "vi": "Bà <b>được nuôi dạy</b> ở một trang trại ở xứ Wales."
+   }
+  },
+  {
+   "word": "strict",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/strɪkt/",
+   "def_en": "Making people obey rules.",
+   "def_vi": "Bắt người khác tuân theo quy tắc.",
+   "gloss_vi": "nghiêm khắc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Strict</i> (adjective) = nghiêm khắc. <b>Grammar</b>: <i>strict with sb</i>.",
+   "example": {
+    "en": "Her parents were very <b>strict</b>.",
+    "vi": "Bố mẹ bà rất <b>nghiêm khắc</b>."
+   }
+  },
+  {
+   "word": "allow",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈlaʊ/",
+   "def_en": "To give permission.",
+   "def_vi": "Cho phép.",
+   "gloss_vi": "cho phép",
+   "synonyms": "let <i>(v. để cho)</i>",
+   "antonyms": "forbid <i>(v. cấm)</i>",
+   "grammar_vi": "<i>Allow</i> (verb) = cho phép. <b>Grammar</b>: <i>allow sb to do sth</i>; bị động <i>be allowed to</i>. <b>Common mistakes</b>: /əˈlaʊ/.",
+   "example": {
+    "en": "They didn’t <b>allow</b> her to listen to the radio.",
+    "vi": "Khi bà còn là thiếu niên, họ không <b>cho phép</b> bà nghe radio."
+   }
+  },
+  {
+   "word": "in the end",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪn ði ˈend/",
+   "def_en": "Finally, after a lot of time or thought.",
+   "def_vi": "Cuối cùng, sau nhiều thời gian hay suy nghĩ.",
+   "gloss_vi": "cuối cùng",
+   "synonyms": "finally <i>(adv. cuối cùng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In the end</i> (phrase) = cuối cùng. <b>Grammar</b>: ≠ <i>at the end (of sth)</i> (ở cuối).",
+   "example": {
+    "en": "<b>In the end</b>, she decided to leave home and get a job in Cardiff.",
+    "vi": "<b>Cuối cùng</b>, bà quyết định rời nhà và đi làm ở Cardiff."
+   }
+  },
+  {
+   "word": "at first",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ət ˈfɜːst/",
+   "def_en": "At the beginning.",
+   "def_vi": "Lúc đầu.",
+   "gloss_vi": "lúc đầu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>At first</i> (phrase) = lúc đầu. <b>Grammar</b>: dùng để đối lập với sau này (<i>At first…, but…</i>).",
+   "example": {
+    "en": "<b>At first</b> it wasn’t easy.",
+    "vi": "<b>Lúc đầu</b> mọi chuyện không dễ dàng."
+   }
+  },
+  {
+   "word": "manage",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈmænɪdʒ/",
+   "def_en": "To be able to do something, but with difficulty.",
+   "def_vi": "Làm được việc gì nhưng khó khăn.",
+   "gloss_vi": "xoay xở được",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "fail <i>(v. thất bại)</i>",
+   "grammar_vi": "<i>Manage</i> (verb) = xoay xở được. <b>Grammar</b>: <i>manage to do sth</i>. <b>Common mistakes</b>: cũng = quản lý.",
+   "example": {
+    "en": "She <b>managed</b> to find work.",
+    "vi": "Bà <b>xoay xở</b> tìm được việc."
+   }
+  },
+  {
+   "word": "be allowed to",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/bi əˈlaʊd tə/",
+   "def_en": "To have permission to do something.",
+   "def_vi": "Được phép làm gì.",
+   "gloss_vi": "được phép",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be allowed to</i> (verb phrase) = được phép. <b>Grammar</b>: <i>You’re not allowed to smoke</i> (không dùng <i>It’s not allowed to…</i>).",
+   "example": {
+    "en": "She <b>was allowed to</b> go to parties.",
+    "vi": "Mẹ tôi <b>được phép</b> đi dự tiệc."
+   }
+  },
+  {
+   "word": "let",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/let/",
+   "def_en": "To allow.",
+   "def_vi": "Cho phép.",
+   "gloss_vi": "để cho, cho phép",
+   "synonyms": "allow <i>(v. cho phép)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Let</i> (verb) = để cho, cho phép. <b>Grammar</b>: <i>let sb do sth</i> (không <i>to</i>); <i>let – let – let</i>; không dùng bị động.",
+   "example": {
+    "en": "Her parents <b>let</b> her stay out late.",
+    "vi": "Bố mẹ <b>cho</b> bà đi chơi về khuya."
+   }
+  },
+  {
+   "word": "stay out late",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌsteɪ aʊt ˈleɪt/",
+   "def_en": "To not go home until late.",
+   "def_vi": "Không về nhà đến tận khuya.",
+   "gloss_vi": "đi chơi về khuya",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stay out late</i> (verb phrase) = đi chơi về khuya. <b>Grammar</b>: <i>stay out (late)</i>.",
+   "example": {
+    "en": "Her parents let her <b>stay out late</b>.",
+    "vi": "Bố mẹ cho bà <b>đi chơi về khuya</b>."
+   }
+  }
+ ]
+}

@@ -1,0 +1,431 @@
+{
+ "book": "pre",
+ "unit": 12,
+ "title_vi": "Cảm xúc",
+ "theory_html": "<p><b>A. How do you feel?</b><br><i>A. Bạn cảm thấy thế nào?</i></p> <p><b>emotion, feeling(s)</b> = something someone feels strongly (love, hate, anger); <b>an emotional person</b> shows his feelings easily; <b>feeling</b> is often plural. Adjectives: <b>proud of, disappointed, confused, hopeful, curious, anxious, scared/frightened, jealous, upset</b>. Nouns: <b>pride, disappointment, jealousy, confusion, curiosity, anxiety</b>.</p><p><i><b>cảm xúc, tình cảm, người dễ xúc động</b>; <b>tự hào, thất vọng, bối rối, hy vọng, tò mò, lo lắng, sợ, ghen, buồn bực</b> và danh từ tương ứng.</i></p> <p><b>B. The effect of the weather on our feelings</b><br><i>B. Thời tiết ảnh hưởng tới cảm xúc</i></p> <p><b>cheerful</b> (happy) when the sun shines, <b>miserable</b> (unhappy) when it’s raining; <b>depressed</b> during long dark winters; can the weather affect our <b>mood</b>?</p><p><i><b>vui vẻ, khổ sở, chán nản, tâm trạng</b>.</i></p> <p><b>C. The effect of colour on our emotions</b><br><i>C. Màu sắc ảnh hưởng tới cảm xúc</i></p> <p>Red: <b>energetic</b> but also <b>anger</b>; pink: <b>caring for</b> people; green: good for <b>stress</b>; blue: helps us be <b>creative</b>.</p><p><i><b>tràn đầy năng lượng, cơn giận, chăm sóc, căng thẳng, sáng tạo</b>.</i></p>",
+ "items": [
+  {
+   "word": "emotion",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪˈməʊʃn/",
+   "def_en": "A strong feeling such as love, hate or anger.",
+   "def_vi": "Cảm giác mạnh như yêu, ghét, giận.",
+   "gloss_vi": "cảm xúc",
+   "synonyms": "feeling <i>(n. cảm giác)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Emotion</i> (noun) = cảm xúc. <b>Grammar</b>: đếm được. <b>Word family</b>: <i>emotional</i> (adj.).",
+   "example": {
+    "en": "<b>Emotions</b> are part of our character.",
+    "vi": "<b>Cảm xúc</b> là một phần tính cách của chúng ta."
+   }
+  },
+  {
+   "word": "emotional",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪˈməʊʃənl/",
+   "def_en": "Showing your feelings easily.",
+   "def_vi": "Dễ bộc lộ cảm xúc.",
+   "gloss_vi": "dễ xúc động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Emotional</i> (adjective) = dễ xúc động. <b>Grammar</b>: <i>an emotional person/speech</i>.",
+   "example": {
+    "en": "Timo is a very <b>emotional</b> person.",
+    "vi": "Timo là người rất <b>dễ xúc động</b>."
+   }
+  },
+  {
+   "word": "feelings",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈfiːlɪŋz/",
+   "def_en": "Emotions such as love, anger or fear.",
+   "def_vi": "Cảm xúc như yêu, giận, sợ.",
+   "gloss_vi": "tình cảm, cảm xúc",
+   "synonyms": "emotions <i>(pn. cảm xúc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Feelings</i> (plural noun) = tình cảm, cảm xúc. <b>Grammar</b>: thường dùng số nhiều. <b>Collocations / chunks</b>: <i>hurt sb’s feelings</i>.",
+   "example": {
+    "en": "She doesn’t like talking about her <b>feelings</b>.",
+    "vi": "Cô ấy không thích nói về <b>cảm xúc</b> của mình."
+   }
+  },
+  {
+   "word": "proud of",
+   "sense": "",
+   "pos": "adjp",
+   "ipa": "/ˈpraʊd əv/",
+   "def_en": "Feeling good because you or someone you know has done something well.",
+   "def_vi": "Thấy vui vì mình hay người quen làm tốt việc gì.",
+   "gloss_vi": "tự hào về",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "ashamed of <i>(adjp. xấu hổ về)</i>",
+   "grammar_vi": "<i>Proud of</i> (adjp) = tự hào về. <b>Grammar</b>: <i>proud of sb/sth</i> (không dùng <i>for</i>). <b>Word family</b>: <i>pride</i> (n.).",
+   "example": {
+    "en": "I’m very <b>proud of</b> my son’s success.",
+    "vi": "Tôi rất <b>tự hào về</b> thành công của con trai."
+   }
+  },
+  {
+   "word": "disappointed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌdɪsəˈpɔɪntɪd/",
+   "def_en": "Unhappy because something was not as good as you hoped.",
+   "def_vi": "Buồn vì điều gì không tốt như mong đợi.",
+   "gloss_vi": "thất vọng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Disappointed</i> (adjective) = thất vọng. <b>Grammar</b>: <i>disappointed with/about sth</i>; <i>disappointed that…</i>. <b>Word family</b>: <i>disappointment</i> (n.).",
+   "example": {
+    "en": "I’m a bit <b>disappointed</b> that the local paper hasn’t shown more interest in the story.",
+    "vi": "Tôi hơi <b>thất vọng</b> vì tờ báo địa phương không quan tâm hơn tới câu chuyện."
+   }
+  },
+  {
+   "word": "confused",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kənˈfjuːzd/",
+   "def_en": "Not able to think clearly or understand something.",
+   "def_vi": "Không suy nghĩ rõ ràng hay hiểu được.",
+   "gloss_vi": "bối rối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Confused</i> (adjective) = bối rối. <b>Grammar</b>: <i>confused about sth</i>. <b>Word family</b>: <i>confusion</i> (n.), <i>confusing</i> (adj.).",
+   "example": {
+    "en": "The politicians seem <b>confused</b> about what to do.",
+    "vi": "Các chính trị gia có vẻ <b>bối rối</b> không biết phải làm gì."
+   }
+  },
+  {
+   "word": "hopeful",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈhəʊpfl/",
+   "def_en": "Feeling positive about a future situation.",
+   "def_vi": "Lạc quan về tình huống tương lai.",
+   "gloss_vi": "hy vọng, lạc quan",
+   "synonyms": "optimistic <i>(adj. lạc quan)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hopeful</i> (adjective) = hy vọng, lạc quan. <b>Grammar</b>: <i>hopeful that…</i>; <i>hopeful about sth</i>.",
+   "example": {
+    "en": "I’m not <b>hopeful</b> that things will improve.",
+    "vi": "Tôi không <b>hy vọng</b> mọi chuyện sẽ khá hơn."
+   }
+  },
+  {
+   "word": "curious",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈkjʊəriəs/",
+   "def_en": "Wanting to know or learn about something.",
+   "def_vi": "Muốn biết hay tìm hiểu điều gì.",
+   "gloss_vi": "tò mò",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Curious</i> (adjective) = tò mò. <b>Grammar</b>: <i>curious to see/know</i>; <i>curious about sth</i>. <b>Word family</b>: <i>curiosity</i> (n.).",
+   "example": {
+    "en": "We were <b>curious</b> to see what all the noise was about.",
+    "vi": "Chúng tôi <b>tò mò</b> muốn xem tiếng ồn đó là gì."
+   }
+  },
+  {
+   "word": "scared",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/skeəd/",
+   "def_en": "Afraid.",
+   "def_vi": "Sợ.",
+   "gloss_vi": "sợ hãi",
+   "synonyms": "frightened <i>(adj. sợ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Scared</i> (adjective) = sợ hãi. <b>Grammar</b>: <i>scared of sth</i>; <i>scared to do sth</i>.",
+   "example": {
+    "en": "I felt really <b>scared</b> when they started coming towards us.",
+    "vi": "Tôi thật sự <b>sợ</b> khi họ bắt đầu tiến về phía chúng tôi."
+   }
+  },
+  {
+   "word": "frightened",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈfraɪtnd/",
+   "def_en": "Afraid.",
+   "def_vi": "Sợ.",
+   "gloss_vi": "sợ hãi",
+   "synonyms": "scared <i>(adj. sợ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Frightened</i> (adjective) = sợ hãi. <b>Grammar</b>: <i>frightened of sth</i>. <b>Word family</b>: <i>frightening</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "The children are <b>frightened</b> of dogs.",
+    "vi": "Bọn trẻ <b>sợ</b> chó."
+   }
+  },
+  {
+   "word": "jealous",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈdʒeləs/",
+   "def_en": "Unhappy and angry because someone you love seems too interested in another person.",
+   "def_vi": "Buồn và giận vì người mình yêu có vẻ quá quan tâm người khác.",
+   "gloss_vi": "ghen",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Jealous</i> (adjective) = ghen. <b>Grammar</b>: <i>jealous of sb</i>. <b>Word family</b>: <i>jealousy</i> (n.).",
+   "example": {
+    "en": "Harry’s girlfriend was getting <b>jealous</b>.",
+    "vi": "Bạn gái Harry ngày càng <b>ghen</b>."
+   }
+  },
+  {
+   "word": "upset",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ʌpˈset/",
+   "def_en": "Unhappy because something unpleasant has happened.",
+   "def_vi": "Buồn vì có chuyện không vui xảy ra.",
+   "gloss_vi": "buồn bực, buồn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Upset</i> (adjective) = buồn bực, buồn. <b>Grammar</b>: <i>upset about sth</i>. <b>Common mistakes</b>: trọng âm âm tiết 2.",
+   "example": {
+    "en": "Now he’s quite <b>upset</b>.",
+    "vi": "Giờ anh ấy khá <b>buồn</b>."
+   }
+  },
+  {
+   "word": "pride",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/praɪd/",
+   "def_en": "The feeling of being proud.",
+   "def_vi": "Cảm giác tự hào.",
+   "gloss_vi": "niềm tự hào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "shame <i>(n. sự xấu hổ)</i>",
+   "grammar_vi": "<i>Pride</i> (noun) = niềm tự hào. <b>Grammar</b>: không đếm được; <i>proud</i> (adj.) → <i>pride</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "Her parents watched her with <b>pride</b>.",
+    "vi": "Bố mẹ cô ấy nhìn cô với <b>niềm tự hào</b>."
+   }
+  },
+  {
+   "word": "disappointment",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdɪsəˈpɔɪntmənt/",
+   "def_en": "The feeling of being disappointed.",
+   "def_vi": "Cảm giác thất vọng.",
+   "gloss_vi": "sự thất vọng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Disappointment</i> (noun) = sự thất vọng. <b>Grammar</b>: đếm được và không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The film was a big <b>disappointment</b>.",
+    "vi": "Bộ phim là một <b>sự thất vọng</b> lớn."
+   }
+  },
+  {
+   "word": "jealousy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdʒeləsi/",
+   "def_en": "The feeling of being jealous.",
+   "def_vi": "Cảm giác ghen.",
+   "gloss_vi": "sự ghen tuông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Jealousy</i> (noun) = sự ghen tuông. <b>Grammar</b>: không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Jealousy</b> can destroy a relationship.",
+    "vi": "<b>Sự ghen tuông</b> có thể phá hỏng một mối quan hệ."
+   }
+  },
+  {
+   "word": "confusion",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kənˈfjuːʒn/",
+   "def_en": "A feeling of not understanding.",
+   "def_vi": "Cảm giác không hiểu.",
+   "gloss_vi": "sự bối rối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Confusion</i> (noun) = sự bối rối. <b>Grammar</b>: không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "There was a lot of <b>confusion</b> about the time of the meeting.",
+    "vi": "Có nhiều <b>bối rối</b> về thời gian buổi họp."
+   }
+  },
+  {
+   "word": "curiosity",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkjʊəriˈɒsəti/",
+   "def_en": "The feeling of wanting to know about something.",
+   "def_vi": "Cảm giác muốn biết điều gì.",
+   "gloss_vi": "sự tò mò",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Curiosity</i> (noun) = sự tò mò. <b>Grammar</b>: <i>out of curiosity</i>. <b>Common mistakes</b>: trọng âm /ˈɒs/.",
+   "ex_kit": true,
+   "example": {
+    "en": "I opened the box out of <b>curiosity</b>.",
+    "vi": "Tôi mở hộp vì <b>tò mò</b>."
+   }
+  },
+  {
+   "word": "anxiety",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/æŋˈzaɪəti/",
+   "def_en": "The feeling of being worried.",
+   "def_vi": "Cảm giác lo lắng.",
+   "gloss_vi": "sự lo âu",
+   "synonyms": "worry <i>(n. nỗi lo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Anxiety</i> (noun) = sự lo âu. <b>Grammar</b>: không đếm được. <b>Common mistakes</b>: /æŋˈzaɪəti/.",
+   "ex_kit": true,
+   "example": {
+    "en": "Exams cause a lot of <b>anxiety</b> for students.",
+    "vi": "Kỳ thi gây ra nhiều <b>lo âu</b> cho học sinh."
+   }
+  },
+  {
+   "word": "cheerful",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈtʃɪəfl/",
+   "def_en": "Happy.",
+   "def_vi": "Vui.",
+   "gloss_vi": "vui vẻ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "miserable <i>(adj. khổ sở)</i>",
+   "grammar_vi": "<i>Cheerful</i> (adjective) = vui vẻ. <b>Grammar</b>: <i>feel/look cheerful</i>.",
+   "example": {
+    "en": "Why do people say they feel more <b>cheerful</b> when the sun shines?",
+    "vi": "Vì sao người ta nói họ thấy <b>vui vẻ</b> hơn khi trời nắng?"
+   }
+  },
+  {
+   "word": "miserable",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈmɪzrəbl/",
+   "def_en": "Unhappy.",
+   "def_vi": "Không vui.",
+   "gloss_vi": "khổ sở, buồn bã",
+   "synonyms": "unhappy <i>(adj. buồn)</i>",
+   "antonyms": "cheerful <i>(adj. vui vẻ)</i>",
+   "grammar_vi": "<i>Miserable</i> (adjective) = khổ sở, buồn bã. <b>Grammar</b>: <i>feel miserable</i>. <b>Common mistakes</b>: /ˈmɪzrəbl/.",
+   "example": {
+    "en": "Why do people say they feel <b>miserable</b> when it’s raining?",
+    "vi": "Vì sao người ta thấy <b>buồn bã</b> khi trời mưa?"
+   }
+  },
+  {
+   "word": "depressed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dɪˈprest/",
+   "def_en": "Unhappy, often for a long time, and without hope for the future.",
+   "def_vi": "Buồn, thường kéo dài, không hy vọng vào tương lai.",
+   "gloss_vi": "chán nản, trầm cảm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Depressed</i> (adjective) = chán nản, trầm cảm. <b>Grammar</b>: <i>feel depressed</i>. <b>Word family</b>: <i>depression</i> (n.).",
+   "example": {
+    "en": "Some people feel <b>depressed</b> during long dark winters.",
+    "vi": "Một số người thấy <b>chán nản</b> trong những mùa đông dài tối tăm."
+   }
+  },
+  {
+   "word": "mood",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/muːd/",
+   "def_en": "The way you feel at a particular time.",
+   "def_vi": "Cảm giác của bạn vào một lúc nào đó.",
+   "gloss_vi": "tâm trạng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mood</i> (noun) = tâm trạng. <b>Grammar</b>: <i>in a good/bad mood</i>.",
+   "example": {
+    "en": "Can the weather really affect our <b>mood</b>?",
+    "vi": "Thời tiết có thật sự ảnh hưởng đến <b>tâm trạng</b> chúng ta không?"
+   }
+  },
+  {
+   "word": "energetic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌenəˈdʒetɪk/",
+   "def_en": "Wanting to be busy and doing a lot of things.",
+   "def_vi": "Muốn bận rộn, làm nhiều việc.",
+   "gloss_vi": "tràn đầy năng lượng",
+   "synonyms": "lively <i>(adj. sôi nổi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Energetic</i> (adjective) = tràn đầy năng lượng. <b>Grammar</b>: <i>energy</i> (n.) → <i>energetic</i>. <b>Common mistakes</b>: trọng âm /ˈdʒet/.",
+   "example": {
+    "en": "Red can make us feel <b>energetic</b>.",
+    "vi": "Màu đỏ có thể làm chúng ta thấy <b>tràn đầy năng lượng</b>."
+   }
+  },
+  {
+   "word": "anger",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈæŋɡə(r)/",
+   "def_en": "The feeling of being angry.",
+   "def_vi": "Cảm giác giận.",
+   "gloss_vi": "cơn giận, sự tức giận",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Anger</i> (noun) = cơn giận, sự tức giận. <b>Grammar</b>: không đếm được. <b>Word family</b>: <i>angry</i> (adj.).",
+   "example": {
+    "en": "It can also indicate <b>anger</b>.",
+    "vi": "Màu đỏ cũng có thể thể hiện <b>sự tức giận</b>."
+   }
+  },
+  {
+   "word": "care for",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˈkeə fə(r)/",
+   "def_en": "To look after someone, especially someone young or old.",
+   "def_vi": "Chăm sóc ai, nhất là trẻ hay người già.",
+   "gloss_vi": "chăm sóc",
+   "synonyms": "look after <i>(pv. chăm sóc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Care for</i> (phrasal verb) = chăm sóc. <b>Grammar</b>: <i>care for sb</i>. <b>Common mistakes</b>: ≠ <i>care about</i> (quan tâm).",
+   "example": {
+    "en": "Pink is more about maternal love and <b>caring for</b> people.",
+    "vi": "Màu hồng gắn với tình mẹ và việc <b>chăm sóc</b> người khác."
+   }
+  },
+  {
+   "word": "stress",
+   "sense": "worry",
+   "pos": "noun",
+   "ipa": "/stres/",
+   "def_en": "Feelings of worry caused by difficult situations.",
+   "def_vi": "Cảm giác lo lắng do tình huống khó khăn.",
+   "gloss_vi": "sự căng thẳng",
+   "synonyms": "pressure <i>(n. áp lực)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stress</i> (noun) = sự căng thẳng. <b>Grammar</b>: không đếm được. <b>Word family</b>: <i>stressful, stressed</i> (adj.).",
+   "example": {
+    "en": "Green is good for people suffering from <b>stress</b>.",
+    "vi": "Màu xanh lá tốt cho người bị <b>căng thẳng</b>."
+   }
+  }
+ ]
+}
