@@ -116,7 +116,7 @@ def find_example(word, src):
     cands = []
     for prio, block in ((0, left), (2, right)):
         for s in sentences(block):
-            mm = rx.search(s.replace("**", ""))
+            mm = rx.search(re.sub(r"\s*\[[^\]]*\]|\s*\((?:See|see) [^)]*\)", "", s.replace("**", "")))
             if not mm: continue
             bold = bool(re.search(r"\*\*[^*]*" + re.escape(mm.group(0).split()[0]) , s, re.I))
             n = len(s.split())
@@ -126,6 +126,8 @@ def find_example(word, src):
     if not cands: return None
     cands.sort(key=lambda x: x[0])
     s = cands[0][1].replace("**", "")
+    s = re.sub(r"\s*\[[^\]]*\]", "", s)                       # bỏ chú giải [..] của sách khỏi câu ví dụ
+    s = re.sub(r"\s*\((?:See|see) [^)]*\)", "", s).strip()
     s = re.sub(r"\s+([,.;:!?])", r"\1", s)
     return rx.sub(lambda x: f"<b>{x.group(0)}</b>", s, count=1)
 

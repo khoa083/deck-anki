@@ -20,7 +20,7 @@
 - **Root** theo tên demo: `English Vocabulary In Use (Elementary)`, `(Pre-Intermediate and Intermediate)`, `(Upper-Intermediate)`, … Hai sách không mang tên EVU (Business Vocabulary in Use, Grammar and Vocabulary for Advanced) dùng đúng tên sách.
 - **Câu ví dụ = nguyên văn câu sách** (demo dùng nguyên câu sách). `tools/compile.py` tự tìm câu chứa headword trên trang lý thuyết (ưu tiên chỗ in đậm), rồi trang bài tập; bôi đậm headword (kể cả dạng chia: bất quy tắc, -e/-y/gấp đôi phụ âm, rút gọn ’ve/’m/’s, phrasal verb tách được).
   - `exb=` : câu sách ghép lại bằng tay khi PDF trích rời (bảng 2–3 cột, bong bóng thoại) – vẫn là chữ của sách.
-  - `ex=` : câu kit tự đặt khi từ chỉ có ở nhãn tranh/danh sách (demo cũng tự đặt câu cho mục lục). Tag `EVU::ex_kit`. Elementary: 425/1244 câu kit đặt (chủ yếu unit tranh: bộ phận cơ thể, quần áo, đồ bếp, quốc tịch…).
+  - `ex=` : câu kit tự đặt khi từ chỉ có ở nhãn tranh/danh sách (demo cũng tự đặt câu cho mục lục). Tag `EVU::ex_kit`. Elementary: 357/1244 câu kit đặt (chủ yếu unit tranh: bộ phận cơ thể, quần áo, đồ bếp, quốc tịch…).
 - **Mật độ thẻ**: mục in đậm trên trang lý thuyết + cụm thiết yếu ở mục Expressions/Common mistakes; không làm thẻ cho chữ thường không in đậm, không làm lại thẻ đã có ở unit trước của cùng sách (trừ nghĩa khác → `sense`). Trung bình Elementary 20,7 mục/unit (demo 40–70/unit có cả từ phổ thông không in đậm – bỏ để tránh thẻ ít giá trị theo yêu cầu "no redundant/low-value cards").
 - **Lý thuyết**: tóm tắt song ngữ theo mục A/B/C… của trang (như EPV), không chép nguyên trang như demo – giữ nguyên tắc của dự án EPV (không chép đoạn dài), câu sách vẫn có trong thẻ.
 - **IPA**: chuẩn Anh, viết tay (không dùng IPA máy). Demo upp dùng IPA Mỹ → build đổi sang chuẩn Anh bằng `uk_ipa` (như EPV).
@@ -37,5 +37,5 @@
 - E1: mọi unit chạy `compile` có in ngữ cảnh câu được chọn; soát từng câu với bản dịch, sửa các trường hợp câu tự động chọn khác câu đã dịch (u5 old/fair, u8 bảng ngày lễ, u9 bảng từ, u10 fruit/vegetables, u12 shower, u18 danh sách đồ mang theo, u23 tennis/badminton/swimming, u26 music/musical/musician/band, u32 arrive/check, u34 robbery/mugging, u38 have to/had to/have got, u39 go…, u58 bảng tiền tố). Sau mỗi lần sửa bộ tách câu, compile lại toàn bộ và `git diff` units để chắc câu cũ không đổi ngoài ý muốn.
 
 ## Todo for human
-- 425 câu ví dụ Elementary là câu kit đặt (tag `EVU::ex_kit`) vì từ chỉ xuất hiện ở nhãn tranh / bảng; lọc bằng tag nếu muốn xem lại.
+- 357 câu ví dụ Elementary là câu kit đặt (tag `EVU::ex_kit`) vì từ chỉ xuất hiện ở nhãn tranh / bảng; lọc bằng tag nếu muốn xem lại.
 - Lý thuyết là bản tóm tắt song ngữ, không chép nguyên trang như demo – nếu muốn chép nguyên trang như demo, cần quyết định riêng (vấn đề bản quyền và độ dài).
