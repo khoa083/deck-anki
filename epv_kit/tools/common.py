@@ -78,3 +78,7 @@ def save_supp(book, unit, items):
     out = os.path.join(_KIT, "units", f"{book}_u{unit:02d}.json")
     json.dump({"book": book, "unit": unit, "supplement": True, "theory_html": "", "items": items}, open(out, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     print("saved (supplement)", out, len(items), "items")
+
+def PV(word, pos, reg, d_en, ipa, d_vi, gl, ex_en, ex_vi, gram, note, coll, mist, syn, ant, sense=""):
+    """Rút gọn I()+G(): nghĩa ngắn trong grammar_vi lấy từ gloss_vi."""
+    return I(word, pos, reg, d_en, ipa, d_vi, gl, ex_en, ex_vi, G(word, pos, gl, gram, note, coll, reg, mist), syn, ant, sense=sense)

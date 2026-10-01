@@ -24,8 +24,6 @@ theory = (
  + NOTE("<b>Exercise 1.4</b>: some phrasal verbs are followed by a fixed preposition (three-part verbs): <i>look forward to</i>, <i>go out with</i>, <i>look down on</i>, <i>do away with</i>, <i>come up against</i>, <i>get away with</i>, <i>put up with</i>. Learn the preposition together with the verb.",
         "<b>Bài 1.4</b>: một số phrasal verb đi kèm giới từ cố định (động từ ba thành phần): <i>look forward to</i>, <i>go out with</i>, <i>look down on</i>, <i>do away with</i>, <i>come up against</i>, <i>get away with</i>, <i>put up with</i>. Hãy học giới từ cùng với động từ.")
 )
-def PV(word, pos, reg, d_en, ipa, d_vi, gl, ex_en, ex_vi, gram, note, coll, mist, syn, ant, sense=""):
-    return I(word, pos, reg, d_en, ipa, d_vi, gl, ex_en, ex_vi, G(word, pos, gl, gram, note, coll, reg, mist), syn, ant, sense=sense)
 items = [
  PV("ask out somebody", "phr.v.", "neutral", "To invite someone to go somewhere with you, such as the cinema or a restaurant, often to start a romantic relationship.", "/ˌɑːsk ˈaʊt ˈsʌmbədi/",
    "Mời ai đi đâu đó cùng mình, như rạp phim hay nhà hàng, thường để bắt đầu hẹn hò.", "rủ đi chơi, mời hẹn hò",
