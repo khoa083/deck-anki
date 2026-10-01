@@ -31,6 +31,7 @@
 | 20 | Int 51–55 | 66 mục / 132 thẻ + 5 note lý thuyết + 66 audio | build 2104 note / 4090 thẻ, 0 bad renders, audio 1639/1639 |
 | 21 | Int 56–60 | 67 mục / 134 thẻ + 5 note lý thuyết + 67 audio | build 2176 note / 4229 thẻ, 0 bad renders, audio 1706/1706 |
 | 22 | Int 61–65 | 72 mục / 144 thẻ + 5 note lý thuyết + 72 audio | build 2253 note / 4378 thẻ, 0 bad renders, audio 1778/1778 |
+| 23 | Int 66–70 | 69 mục / 138 thẻ + 5 note lý thuyết + 69 audio | build 2327 note / 4521 thẻ, 0 bad renders, audio 1847/1847 – **xong Intermediate 70/70** |
 
 ## Quyết định (xem PROMPT.md §3)
 D1 thứ tự Adv 16→60 → bổ sung demo → Int 1→70 · D2 IPA chuẩn Anh (config.ipa_style) · D3 1 deck gốc `English Phrasal Verbs in Use` → `Advanced`/`Intermediate` · D4 thẻ demo chỉ có ở bản 1: giữ + tag `EPV::demo_ban1` · D5 audio **bắt buộc**: Kokoro TTS offline, giọng Anh–Anh nam `bm_george` (sửa từ lượt 1c; trước đó để trống) · D6 chọn mục theo Mini dictionary + cụm in đậm.
@@ -241,7 +242,15 @@ D1 thứ tự Adv 16→60 → bổ sung demo → Int 1→70 · D2 IPA chuẩn An
 - u65: `set up` cùng nghĩa thẻ u64 → chỉ nhắc; log in / log on / log off / log out bốn thẻ theo bốn mục Mini.
 - OCR mất chữ ở bài tập u61, u62, u63 → bổ sung src (trước `### KEY`).
 
+**Lượt 23 (Intermediate 66–70)**
+- u66: breakthrough (u4), crack down (u17), look out for + lookout (u9) chỉ nhắc; nghĩa mới go off (explode), pull out (withdraw), break off (talks); bảng danh từ 66.2 (crackdown, breakout, outbreak, hideaway, flare-up) + `hide away`, `break through` (Mini) → thẻ.
+- u67: break-in (u4), breakout (u66), take sb in (u5) chỉ nhắc; `hold up` / `hold-up` nghĩa cướp (u23 = trì hoãn) → thẻ sense rob; `be mixed up in` gộp vào thẻ `get mixed up in`. OCR bài 67.3 mất chữ → bổ sung src.
+- u68: do away with (u1), back sb up (u38), carry out (u45) chỉ nhắc; stand for (election), bring in (law), enter into (agreement) → thẻ có sense.
+- u69: tương đương Anh đã có thẻ (mess around u18, freshen up u32, throw yourself into u21, lay into u40, call around u50) chỉ nhắc; `tell off`, `suss out`, `work out` (understand) có trong Mini 69 → thẻ; `wash up` hai thẻ (US / UK); `Wait up!` sense command (u58 = thức đợi). `do a runner`, `cheer for` chỉ là tương đương Anh, không có mục Mini → chỉ nhắc.
+- u70: start off, set out, touch on, sum up, come back to, turn to, come to, draw on, point out, go on đã có thẻ → chỉ nhắc; `move on` (Mini 64) xuất hiện ở trang này → thẻ.
+
 ## Kiểm trôi
+- Lượt 23: soát Int 66–70 khi viết (ảnh trang + đáp án); viết lại def_en gần Mini (u66 go off, u69 tell off/suss out); thay collocation có từ ngoài src. Không phát hiện lệch nghĩa.
 - Lượt 22: soát Int 61–65 khi viết (ảnh trang + đáp án); sửa 1 câu lý thuyết u65 trùng danh sách của sách; viết lại def_en u62 touch down gần Mini. Không phát hiện lệch nghĩa.
 - Lượt 21: soát Int 56–60 khi viết (ảnh trang + đáp án); viết lại 4 def_en u59 gần Mini dictionary; không có đoạn lý thuyết trùng ≥12 từ. Không phát hiện lệch nghĩa.
 - Lượt 20: soát Int 51–55 khi viết (ảnh trang + đáp án); sửa 1 đoạn lý thuyết u55 trùng 13 từ; viết lại câu bối cảnh tự đặt (u51 cheer up/feel for, u52 falling-out, u53 break off, u54 let on/talk down to). Không phát hiện lệch nghĩa.
