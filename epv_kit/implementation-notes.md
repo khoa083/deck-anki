@@ -20,6 +20,7 @@
 | 9 | Adv 56–60 | 66 mục / 132 thẻ + 5 note lý thuyết + 66 audio | build 1197 note / 2332 thẻ, 0 bad renders, audio 788/788 |
 | 10 | Adv bổ sung 1–15 | 44 mục / 88 thẻ + 44 audio (dùng lý thuyết demo) | build 1241 note / 2420 thẻ, 0 bad renders, audio 832/832 |
 | 11 | Int 1–10 | 177 mục / 354 thẻ + 10 note lý thuyết (+ Contents) + 177 audio | build 1429 note / 2785 thẻ, 0 bad renders, audio 1009/1009 |
+| 12 | Int 11–15 | 77 mục / 154 thẻ + 5 note lý thuyết + 77 audio | build 1511 note / 2944 thẻ, 0 bad renders, audio 1086/1086 |
 
 ## Quyết định (xem PROMPT.md §3)
 D1 thứ tự Adv 16→60 → bổ sung demo → Int 1→70 · D2 IPA chuẩn Anh (config.ipa_style) · D3 1 deck gốc `English Phrasal Verbs in Use` → `Advanced`/`Intermediate` · D4 thẻ demo chỉ có ở bản 1: giữ + tag `EPV::demo_ban1` · D5 audio **bắt buộc**: Kokoro TTS offline, giọng Anh–Anh nam `bm_george` (sửa từ lượt 1c; trước đó để trống) · D6 chọn mục theo Mini dictionary + cụm in đậm.
@@ -168,7 +169,13 @@ D1 thứ tự Adv 16→60 → bổ sung demo → Int 1→70 · D2 IPA chuẩn An
 - Int 10: `make up` 3 nghĩa (lừa dối / sáng tác / tạo thành) + `make-up` n. (thành phần); nghĩa ‘đồ trang điểm’ chỉ nhắc trong lý thuyết (sách nói người học đã biết, không có trong Mini).
 - Ví dụ: đặt trong bối cảnh trang/bài tập của unit; `tools/context_score.py` chạy từng unit, câu điểm thấp đã viết lại theo ngữ cảnh sách (vd. u6 *come down to*, u7 *can’t get over / be getting at*, u9 *lookout / look around / look through*, u10 *make up / make-up / make it up to*).
 
+**Lượt 12 (Intermediate 11–15)**
+- Mục chỉ có trong bài tập kèm định nghĩa (không có trong Mini OCR) vẫn làm thẻ khi trang/bài tập in đậm và có nghĩa: `put on` (mặc – 11.4d), `put forward` (đồng hồ – mục B), `put up` (xây/dựng lều – mục A), `eat up` (13A). Mini OCR sót các dòng này.
+- Int 13: động từ `set up` (Mini 13, 49, 64) không có câu trên trang → để unit 49; chỉ làm danh từ `set-up`. Int 14: trang in đậm tính từ `worn-out` (Mini ghi động từ `wear out`) → thẻ `worn-out`, ghi động từ trong ngữ pháp. `run off` = ‘chạy đi’ (15B) chỉ nhắc, không có trong Mini.
+- Thẻ trùng headword khác nghĩa có `sense`: `put off somebody` (u11 khất hẹn / u15 làm ngán), `turn off` (u2 tắt / u15 làm mất hứng), `sort out` (u1 giải quyết / u14 sắp xếp), `come out` (u6 ×4 / u14 phát hành), `take in` (u5 ×6 / u12 nhìn kỹ).
+
 ## Kiểm trôi
+- Lượt 12: soát Int 11–15 khi viết (ảnh trang + đáp án); context_score từng unit, viết lại các câu bối cảnh tự đặt (u12 take apart/aside, u13 use up, u14 spread out, u15 sell off/run off ×2/put off/off-putting). Không phát hiện lệch.
 - Lượt 11: soát Int 6–10 khi viết (xem ảnh trang + đáp án từng unit); kiểm lại u7 & u9: thẻ đã có ở unit trước (get on ×2, get away, get away with; look after/down on/forward to/up ×3/over/on) chỉ nhắc trong lý thuyết, không tạo thẻ trùng. Không phát hiện lệch.
 - Lượt 9: kiểm u28 (ngẫu nhiên). **Lệch hệ thống như u31**: 13/19 ví dụ đặt bối cảnh tự nghĩ (thợ làm hỏng bếp, đàm phán công đoàn đổ vỡ, khách kẹt vì đình công sân bay, fan không có cúp, báo cáo đầy lỗi…) thay vì chuyện của Kate (bị dọa cắt giảm, con gái chia tay, con trai kẹt ở Phrasalia, chị gái Leo bị ung thư) và lời khuyên của Annette Berg → viết lại cả 13. **Kết luận: các lượt 2–6 viết ví dụ ‘theo nghĩa’ nhiều hơn ‘theo ngữ cảnh sách’; bước kiểm trôi cuối phải soát toàn bộ ví dụ Adv 16–45** (danh sách ưu tiên từ `tools/context_score.py`).
 - Lượt 8: kiểm u18 (ngẫu nhiên) – Bethany/Toby/George mục A, hội thoại Rory/Maya bài 18.2 khớp. Sửa 2 ví dụ: `store up` (câu cũ ‘bà tích trữ hàng trăm câu chuyện gia đình’ không có trong sách → Rory: kỷ niệm đẹp mới nên cất giữ), `block out` (câu cũ gọi là ‘vụ đánh nhau’ → cảnh anh trai Anna buộc tội, xô đẩy Rory).
