@@ -1,0 +1,414 @@
+{
+ "book": "pre",
+ "unit": 15,
+ "title_vi": "Tình yêu, hôn nhân và ly hôn",
+ "theory_html": "<p><b>A. Romance</b><br><i>A. Chuyện tình cảm</i></p> <p><b>my first date</b>, <b>went out with</b> a girl, <b>broke up</b>, <b>my first serious relationship</b>, <b>got to know</b> Melanie, <b>in love</b>, <b>got engaged</b> <b>a couple of</b> years after university.</p><p><i><b>buổi hẹn hò, hẹn hò với, chia tay, mối quan hệ nghiêm túc, quen biết, yêu, đính hôn, vài</b>.</i></p> <p><b>B. Marriage</b><br><i>B. Hôn nhân</i></p> <p><b>we got married</b>; a small <b>ceremony</b>; the <b>wedding</b> in the local church; the <b>reception</b> in a hotel; <b>honeymoon</b> in Greece; <b>bride, (bride)groom</b>. Say <b>get married to sb</b> (NOT <b>with</b>), <b>plan to get married</b> (NOT <b>get marry</b>).</p><p><i><b>kết hôn, nghi lễ, đám cưới, tiệc cưới, tuần trăng mật, cô dâu, chú rể</b>.</i></p> <p><b>C. Children</b><br><i>C. Con cái</i></p> <p><b>got pregnant</b>, our fourth wedding <b>anniversary</b>, a big <b>celebration</b>. Word forms: <b>engaged – engagement, pregnant – pregnancy, celebrate – celebration, marry – marriage</b>.</p><p><i><b>mang thai, ngày kỷ niệm, lễ ăn mừng</b>.</i></p> <p><b>D. Divorce</b><br><i>D. Ly hôn</i></p> <p><b>Things started to go wrong… she was often alone / on her own… I couldn’t give up my job… Melanie decided to leave me… we got divorced.</b></p><p><i><b>trục trặc, một mình, từ bỏ, bỏ đi, ly hôn</b>.</i></p>",
+ "items": [
+  {
+   "word": "date",
+   "sense": "romance",
+   "pos": "noun",
+   "ipa": "/deɪt/",
+   "def_en": "A planned romantic meeting.",
+   "def_vi": "Cuộc gặp lãng mạn đã hẹn trước.",
+   "gloss_vi": "buổi hẹn hò",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Date</i> (noun) = buổi hẹn hò. <b>Grammar</b>: <i>go on a date</i>; <i>have a date with sb</i>. <b>Common mistakes</b>: cũng là ngày tháng.",
+   "example": {
+    "en": "I had my first <b>date</b> when I was 16, and it was terrible.",
+    "vi": "Tôi có <b>buổi hẹn hò</b> đầu tiên năm 16 tuổi, và nó thật tệ."
+   }
+  },
+  {
+   "word": "go out with",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌɡəʊ ˈaʊt wɪð/",
+   "def_en": "To have a romantic relationship with.",
+   "def_vi": "Có quan hệ yêu đương với.",
+   "gloss_vi": "hẹn hò với",
+   "synonyms": "date <i>(v. hẹn hò)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go out with</i> (phrasal verb) = hẹn hò với. <b>Grammar</b>: <i>go out with sb</i>; <i>go out together</i>. <b>Common mistakes</b>: <i>go – went – gone</i>.",
+   "example": {
+    "en": "When I was 17, I <b>went out with</b> a girl for three months.",
+    "vi": "Năm 17 tuổi, tôi <b>hẹn hò với</b> một cô gái trong ba tháng."
+   }
+  },
+  {
+   "word": "break up",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌbreɪk ˈʌp/",
+   "def_en": "(Of a relationship) to end.",
+   "def_vi": "(Mối quan hệ) kết thúc.",
+   "gloss_vi": "chia tay",
+   "synonyms": "split up <i>(pv. chia tay)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Break up</i> (phrasal verb) = chia tay. <b>Grammar</b>: <i>break up (with sb)</i>. <b>Common mistakes</b>: <i>break – broke – broken</i>.",
+   "example": {
+    "en": "We <b>broke up</b> when she met a boy who was two years older than me.",
+    "vi": "Chúng tôi <b>chia tay</b> khi cô ấy gặp một chàng trai hơn tôi hai tuổi."
+   }
+  },
+  {
+   "word": "serious relationship",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌsɪəriəs rɪˈleɪʃnʃɪp/",
+   "def_en": "An important romantic relationship.",
+   "def_vi": "Mối quan hệ yêu đương quan trọng.",
+   "gloss_vi": "mối quan hệ nghiêm túc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Serious relationship</i> (noun phrase) = mối quan hệ nghiêm túc. <b>Grammar</b>: <i>have a serious relationship (with sb)</i>.",
+   "example": {
+    "en": "My first <b>serious relationship</b> was when I went to university.",
+    "vi": "<b>Mối quan hệ nghiêm túc</b> đầu tiên của tôi là khi tôi vào đại học."
+   }
+  },
+  {
+   "word": "in love",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪn ˈlʌv/",
+   "def_en": "Feeling romantic love for someone.",
+   "def_vi": "Có tình yêu lãng mạn với ai.",
+   "gloss_vi": "đang yêu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In love</i> (phrase) = đang yêu. <b>Grammar</b>: <i>be/fall in love (with sb)</i>.",
+   "example": {
+    "en": "After a few months we realised we were <b>in love</b>.",
+    "vi": "Sau vài tháng, chúng tôi nhận ra mình <b>đang yêu</b>."
+   }
+  },
+  {
+   "word": "get engaged",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡet ɪnˈɡeɪdʒd/",
+   "def_en": "To formally agree to marry.",
+   "def_vi": "Chính thức đồng ý cưới.",
+   "gloss_vi": "đính hôn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get engaged</i> (verb phrase) = đính hôn. <b>Grammar</b>: <i>get engaged (to sb)</i>. <b>Word family</b>: <i>engagement</i> (n.).",
+   "example": {
+    "en": "We <b>got engaged</b> a couple of years after we left university.",
+    "vi": "Chúng tôi <b>đính hôn</b> vài năm sau khi ra trường."
+   }
+  },
+  {
+   "word": "a couple of",
+   "sense": "",
+   "pos": "determiner",
+   "ipa": "/ə ˈkʌpl əv/",
+   "def_en": "Two, perhaps three.",
+   "def_vi": "Hai, có thể ba.",
+   "gloss_vi": "vài, một hai",
+   "synonyms": "a few <i>(det. một vài)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A couple of</i> (determiner) = vài, một hai. <b>Grammar</b>: + danh từ số nhiều.",
+   "example": {
+    "en": "We got engaged <b>a couple of</b> years after we left university.",
+    "vi": "Chúng tôi đính hôn <b>vài</b> năm sau khi ra trường."
+   }
+  },
+  {
+   "word": "ceremony",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈserəməni/",
+   "def_en": "An important public event.",
+   "def_vi": "Sự kiện công cộng quan trọng.",
+   "gloss_vi": "nghi lễ, buổi lễ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ceremony</i> (noun) = nghi lễ, buổi lễ. <b>Grammar</b>: <i>a wedding ceremony</i>. <b>Common mistakes</b>: /ˈserəməni/.",
+   "example": {
+    "en": "We didn’t want a big <b>ceremony</b>.",
+    "vi": "Chúng tôi không muốn một <b>buổi lễ</b> lớn."
+   }
+  },
+  {
+   "word": "wedding",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwedɪŋ/",
+   "def_en": "The ceremony when people get married.",
+   "def_vi": "Lễ cưới.",
+   "gloss_vi": "đám cưới",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wedding</i> (noun) = đám cưới. <b>Grammar</b>: <i>wedding</i> (sự kiện) ≠ <i>marriage</i> (cuộc hôn nhân).",
+   "example": {
+    "en": "We had the <b>wedding</b> in the local church near Melanie’s home.",
+    "vi": "Chúng tôi tổ chức <b>đám cưới</b> ở nhà thờ địa phương gần nhà Melanie."
+   }
+  },
+  {
+   "word": "reception",
+   "sense": "wedding",
+   "pos": "noun",
+   "ipa": "/rɪˈsepʃn/",
+   "def_en": "The wedding party.",
+   "def_vi": "Tiệc cưới.",
+   "gloss_vi": "tiệc cưới",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reception</i> (noun) = tiệc cưới. <b>Grammar</b>: <i>a wedding reception</i>. <b>Common mistakes</b>: cũng là quầy lễ tân.",
+   "example": {
+    "en": "Afterwards we had the <b>reception</b> in a small hotel nearby.",
+    "vi": "Sau đó chúng tôi tổ chức <b>tiệc cưới</b> ở một khách sạn nhỏ gần đó."
+   }
+  },
+  {
+   "word": "honeymoon",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhʌnimuːn/",
+   "def_en": "A holiday just after getting married.",
+   "def_vi": "Kỳ nghỉ ngay sau khi cưới.",
+   "gloss_vi": "tuần trăng mật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Honeymoon</i> (noun) = tuần trăng mật. <b>Grammar</b>: <i>go on (your) honeymoon</i>.",
+   "example": {
+    "en": "Then we went on our <b>honeymoon</b> to Greece.",
+    "vi": "Rồi chúng tôi đi <b>tuần trăng mật</b> ở Hy Lạp."
+   }
+  },
+  {
+   "word": "bride",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/braɪd/",
+   "def_en": "A woman on her wedding day.",
+   "def_vi": "Người phụ nữ trong ngày cưới.",
+   "gloss_vi": "cô dâu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "bridegroom <i>(n. chú rể)</i>",
+   "grammar_vi": "<i>Bride</i> (noun) = cô dâu. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>bride</b> wore a beautiful white dress.",
+    "vi": "<b>Cô dâu</b> mặc váy trắng tuyệt đẹp."
+   }
+  },
+  {
+   "word": "groom",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɡruːm/",
+   "def_en": "A man on his wedding day.",
+   "def_vi": "Người đàn ông trong ngày cưới.",
+   "gloss_vi": "chú rể",
+   "synonyms": "bridegroom <i>(n. chú rể)</i>",
+   "antonyms": "bride <i>(n. cô dâu)</i>",
+   "grammar_vi": "<i>Groom</i> (noun) = chú rể. <b>Grammar</b>: cũng <i>bridegroom</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>groom</b> made a short speech at the reception.",
+    "vi": "<b>Chú rể</b> phát biểu ngắn trong tiệc cưới."
+   }
+  },
+  {
+   "word": "pregnant",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈpreɡnənt/",
+   "def_en": "Having a baby growing inside your body.",
+   "def_vi": "Có em bé đang lớn trong bụng.",
+   "gloss_vi": "mang thai",
+   "synonyms": "expecting a baby <i>(phr. sắp có em bé)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pregnant</i> (adjective) = mang thai. <b>Grammar</b>: <i>get/be pregnant</i>. <b>Word family</b>: <i>pregnancy</i> (n.).",
+   "example": {
+    "en": "Just over three years later Melanie got <b>pregnant</b>.",
+    "vi": "Hơn ba năm sau Melanie <b>mang thai</b>."
+   }
+  },
+  {
+   "word": "anniversary",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌænɪˈvɜːsəri/",
+   "def_en": "A day exactly one or more years after an important event.",
+   "def_vi": "Ngày tròn một hay nhiều năm sau sự kiện quan trọng.",
+   "gloss_vi": "ngày kỷ niệm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Anniversary</i> (noun) = ngày kỷ niệm. <b>Grammar</b>: <i>wedding anniversary</i> ≠ <i>birthday</i>.",
+   "example": {
+    "en": "Cal was born just two days after our fourth wedding <b>anniversary</b>.",
+    "vi": "Cal chào đời chỉ hai ngày sau <b>kỷ niệm</b> bốn năm ngày cưới."
+   }
+  },
+  {
+   "word": "celebration",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌselɪˈbreɪʃn/",
+   "def_en": "A time when you do something you enjoy because it is a special day.",
+   "def_vi": "Dịp làm điều mình thích vì là ngày đặc biệt.",
+   "gloss_vi": "lễ ăn mừng",
+   "synonyms": "party <i>(n. bữa tiệc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Celebration</i> (noun) = lễ ăn mừng. <b>Grammar</b>: đếm được. <b>Word family</b>: <i>celebrate</i> (v.).",
+   "example": {
+    "en": "We had a big <b>celebration</b>.",
+    "vi": "Chúng tôi tổ chức một <b>buổi ăn mừng</b> lớn."
+   }
+  },
+  {
+   "word": "engagement",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˈɡeɪdʒmənt/",
+   "def_en": "An agreement to marry someone.",
+   "def_vi": "Sự thỏa thuận kết hôn với ai.",
+   "gloss_vi": "lễ đính hôn, sự đính hôn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Engagement</i> (noun) = lễ đính hôn, sự đính hôn. <b>Grammar</b>: <i>engaged</i> (adj.) → <i>engagement</i> (n.). <b>Collocations / chunks</b>: <i>an engagement ring</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "They announced their <b>engagement</b> last week.",
+    "vi": "Họ thông báo <b>đính hôn</b> tuần trước."
+   }
+  },
+  {
+   "word": "pregnancy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpreɡnənsi/",
+   "def_en": "The time when a woman is pregnant.",
+   "def_vi": "Thời gian người phụ nữ mang thai.",
+   "gloss_vi": "thai kỳ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pregnancy</i> (noun) = thai kỳ. <b>Grammar</b>: <i>pregnant</i> (adj.) → <i>pregnancy</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "She felt well during her <b>pregnancy</b>.",
+    "vi": "Cô ấy cảm thấy khỏe suốt <b>thai kỳ</b>."
+   }
+  },
+  {
+   "word": "celebrate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈselɪbreɪt/",
+   "def_en": "To do something enjoyable for a special day.",
+   "def_vi": "Làm điều vui vẻ cho ngày đặc biệt.",
+   "gloss_vi": "ăn mừng, kỷ niệm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Celebrate</i> (verb) = ăn mừng, kỷ niệm. <b>Grammar</b>: <i>celebrate sth</i> (không có giới từ).",
+   "ex_kit": true,
+   "example": {
+    "en": "We went out for dinner to <b>celebrate</b> our anniversary.",
+    "vi": "Chúng tôi đi ăn ngoài để <b>kỷ niệm</b> ngày cưới."
+   }
+  },
+  {
+   "word": "marriage",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmærɪdʒ/",
+   "def_en": "The time when you are married.",
+   "def_vi": "Thời gian bạn đã kết hôn.",
+   "gloss_vi": "cuộc hôn nhân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "divorce <i>(n. ly hôn)</i>",
+   "grammar_vi": "<i>Marriage</i> (noun) = cuộc hôn nhân. <b>Grammar</b>: <i>marry</i> (v.) → <i>marriage</i> (n.); ≠ <i>wedding</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "My parents have a very happy <b>marriage</b>.",
+    "vi": "Bố mẹ tôi có một <b>cuộc hôn nhân</b> rất hạnh phúc."
+   }
+  },
+  {
+   "word": "go wrong",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ ˈrɒŋ/",
+   "def_en": "To become a problem.",
+   "def_vi": "Trở thành vấn đề.",
+   "gloss_vi": "trục trặc, hỏng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go wrong</i> (verb phrase) = trục trặc, hỏng. <b>Grammar</b>: <i>sth goes wrong</i> (nội động từ).",
+   "example": {
+    "en": "Things started to <b>go wrong</b> when I got a job as manager of a sportswear company.",
+    "vi": "Mọi chuyện bắt đầu <b>trục trặc</b> khi tôi làm quản lý một công ty đồ thể thao."
+   }
+  },
+  {
+   "word": "on your own",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɒn jər ˈəʊn/",
+   "def_en": "Without other people.",
+   "def_vi": "Không có người khác.",
+   "gloss_vi": "một mình",
+   "synonyms": "alone <i>(adj. một mình)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>On your own</i> (phrase) = một mình. <b>Grammar</b>: tính từ sở hữu thay đổi: <i>on my/his/her own</i>.",
+   "example": {
+    "en": "At weekends she was often alone / <b>on her own</b> with two young children.",
+    "vi": "Cuối tuần cô ấy thường <b>một mình</b> với hai con nhỏ."
+   }
+  },
+  {
+   "word": "give up",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌɡɪv ˈʌp/",
+   "def_en": "To stop doing something.",
+   "def_vi": "Ngừng làm gì.",
+   "gloss_vi": "từ bỏ",
+   "synonyms": "quit <i>(v. bỏ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Give up</i> (phrasal verb) = từ bỏ. <b>Grammar</b>: <i>give up sth / give it up</i>; <i>give up doing sth</i>.",
+   "example": {
+    "en": "I felt I couldn’t <b>give up</b> my job.",
+    "vi": "Tôi cảm thấy không thể <b>từ bỏ</b> công việc."
+   }
+  },
+  {
+   "word": "leave",
+   "sense": "partner",
+   "pos": "verb",
+   "ipa": "/liːv/",
+   "def_en": "To stop living with your husband, wife or partner.",
+   "def_vi": "Thôi sống chung với vợ/chồng/người yêu.",
+   "gloss_vi": "bỏ (ai) đi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Leave</i> (verb) = bỏ (ai) đi. <b>Grammar</b>: <i>leave sb</i>; <i>leave – left – left</i>.",
+   "example": {
+    "en": "In the end Melanie decided to <b>leave</b> me.",
+    "vi": "Cuối cùng Melanie quyết định <b>bỏ</b> tôi."
+   }
+  },
+  {
+   "word": "get divorced",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡet dɪˈvɔːst/",
+   "def_en": "(Of a marriage) to officially end.",
+   "def_vi": "(Hôn nhân) chính thức chấm dứt.",
+   "gloss_vi": "ly hôn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "get married <i>(vp. kết hôn)</i>",
+   "grammar_vi": "<i>Get divorced</i> (verb phrase) = ly hôn. <b>Grammar</b>: <i>get divorced (from sb)</i>. <b>Word family</b>: <i>divorce</i> (n./v.).",
+   "example": {
+    "en": "The following year we <b>got divorced</b>.",
+    "vi": "Năm sau chúng tôi <b>ly hôn</b>."
+   }
+  }
+ ]
+}

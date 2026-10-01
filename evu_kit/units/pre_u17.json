@@ -1,0 +1,412 @@
+{
+ "book": "pre",
+ "unit": 17,
+ "title_vi": "Nơi bạn sống",
+ "theory_html": "<p><b>A. Location</b><br><i>A. Vị trí</i></p> <p><b>We live on the outskirts of town – a very nice location. We moved to our present flat because there’s more space and it has nice views.</b></p><p><i><b>ở ngoại ô thị trấn, vị trí, chuyển nhà, không gian, tầm nhìn</b>.</i></p> <p><b>B. Our flat</b><br><i>B. Căn hộ của chúng tôi</i></p> <p><b>We rent a flat on the second floor</b>; a family <b>downstairs</b>, a couple <b>upstairs</b> on the <b>top floor</b>; a modern <b>block of flats</b>; the <b>lift</b> is small; no <b>air conditioning</b>. Labels: <b>ground floor, first floor, balcony, steps, front door</b>. <b>flat</b> (BrE) / <b>apartment</b> (AmE).</p><p><i><b>thuê, tầng hai, tầng dưới, tầng trên, khu chung cư, thang máy, điều hòa; tầng trệt, ban công, bậc thềm, cửa chính</b>.</i></p> <p><b>C. A house in the country</b><br><i>C. Ngôi nhà ở nông thôn</i></p> <p><b>My parents own a cottage. It’s a charming house and has lots of character, but it’s quite dark (opp light), difficult to heat, and doesn’t have central heating.</b></p><p><i><b>sở hữu, nhà tranh, duyên dáng, có nét riêng, tối, sưởi ấm, hệ thống sưởi trung tâm</b>.</i></p>",
+ "items": [
+  {
+   "word": "on the outskirts of town",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɒn ði ˈaʊtskɜːts əv ˈtaʊn/",
+   "def_en": "On the edge of town.",
+   "def_vi": "Ở rìa thị trấn.",
+   "gloss_vi": "ở ngoại ô thị trấn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "in the centre <i>(phr. ở trung tâm)</i>",
+   "grammar_vi": "<i>On the outskirts of town</i> (phrase) = ở ngoại ô thị trấn. <b>Grammar</b>: <i>outskirts</i> luôn số nhiều.",
+   "example": {
+    "en": "We live <b>on the outskirts of town</b>.",
+    "vi": "Chúng tôi sống <b>ở ngoại ô thị trấn</b>."
+   }
+  },
+  {
+   "word": "location",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ləʊˈkeɪʃn/",
+   "def_en": "The place and position of something.",
+   "def_vi": "Nơi chốn và vị trí của thứ gì.",
+   "gloss_vi": "vị trí",
+   "synonyms": "position <i>(n. vị trí)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Location</i> (noun) = vị trí. <b>Grammar</b>: đếm được. <b>Word family</b>: <i>located</i> (adj.).",
+   "example": {
+    "en": "It’s a very nice <b>location</b>.",
+    "vi": "Đó là một <b>vị trí</b> rất đẹp."
+   }
+  },
+  {
+   "word": "move",
+   "sense": "home",
+   "pos": "verb",
+   "ipa": "/muːv/",
+   "def_en": "To change the place where you live.",
+   "def_vi": "Thay đổi nơi ở.",
+   "gloss_vi": "chuyển nhà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Move</i> (verb) = chuyển nhà. <b>Grammar</b>: <i>move (house)</i>; <i>move to/into a new flat</i>.",
+   "example": {
+    "en": "We <b>moved</b> to our present flat when we had children.",
+    "vi": "Chúng tôi <b>chuyển</b> đến căn hộ hiện tại khi có con."
+   }
+  },
+  {
+   "word": "space",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/speɪs/",
+   "def_en": "An area that is empty or not used.",
+   "def_vi": "Khoảng trống, chưa dùng tới.",
+   "gloss_vi": "không gian, chỗ",
+   "synonyms": "room <i>(n. chỗ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Space</i> (noun) = không gian, chỗ. <b>Grammar</b>: không đếm được ở nghĩa này. <b>Common mistakes</b>: cũng là vũ trụ.",
+   "example": {
+    "en": "There’s more <b>space</b> for them to play.",
+    "vi": "Ở đây có nhiều <b>chỗ</b> hơn cho bọn trẻ chơi."
+   }
+  },
+  {
+   "word": "view",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/vjuː/",
+   "def_en": "The things you can see from a place.",
+   "def_vi": "Những gì nhìn thấy được từ một nơi.",
+   "gloss_vi": "tầm nhìn, quang cảnh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>View</i> (noun) = tầm nhìn, quang cảnh. <b>Grammar</b>: <i>a view of the sea</i>; <i>a room with a view</i>.",
+   "example": {
+    "en": "It has nice <b>views</b>.",
+    "vi": "Căn hộ có <b>quang cảnh</b> đẹp."
+   }
+  },
+  {
+   "word": "rent",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rent/",
+   "def_en": "To pay money every week or month to use something that isn’t yours.",
+   "def_vi": "Trả tiền hằng tuần/tháng để dùng thứ không phải của mình.",
+   "gloss_vi": "thuê",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "own <i>(v. sở hữu)</i>",
+   "grammar_vi": "<i>Rent</i> (verb) = thuê. <b>Grammar</b>: <i>rent a flat/car</i>; cũng là danh từ (tiền thuê).",
+   "example": {
+    "en": "We <b>rent</b> a flat on the second floor.",
+    "vi": "Chúng tôi <b>thuê</b> một căn hộ ở tầng hai."
+   }
+  },
+  {
+   "word": "second floor",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌsekənd ˈflɔː(r)/",
+   "def_en": "The floor two levels above the ground floor.",
+   "def_vi": "Tầng cao hơn tầng trệt hai tầng.",
+   "gloss_vi": "tầng hai (BrE)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Second floor</i> (noun phrase) = tầng hai (BrE). <b>Grammar</b>: <i>on the second floor</i>; Anh–Anh: <i>ground floor</i> = tầng trệt, <i>first floor</i> = tầng 1 (trên trệt).",
+   "example": {
+    "en": "We rent a flat <b>on the second floor</b>.",
+    "vi": "Chúng tôi thuê một căn hộ ở <b>tầng hai</b>."
+   }
+  },
+  {
+   "word": "downstairs",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌdaʊnˈsteəz/",
+   "def_en": "On a lower level of a building.",
+   "def_vi": "Ở tầng thấp hơn của tòa nhà.",
+   "gloss_vi": "ở tầng dưới",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "upstairs <i>(adv. ở tầng trên)</i>",
+   "grammar_vi": "<i>Downstairs</i> (adverb) = ở tầng dưới. <b>Grammar</b>: trạng từ, không dùng <i>to</i>: <i>go downstairs</i>.",
+   "example": {
+    "en": "There’s a family in the flat <b>downstairs</b>.",
+    "vi": "Có một gia đình ở căn hộ <b>tầng dưới</b>."
+   }
+  },
+  {
+   "word": "upstairs",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌʌpˈsteəz/",
+   "def_en": "On a higher level of a building.",
+   "def_vi": "Ở tầng cao hơn của tòa nhà.",
+   "gloss_vi": "ở tầng trên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "downstairs <i>(adv. ở tầng dưới)</i>",
+   "grammar_vi": "<i>Upstairs</i> (adverb) = ở tầng trên. <b>Grammar</b>: <i>go upstairs</i> (không <i>to</i>).",
+   "example": {
+    "en": "A young French couple live <b>upstairs</b>, on the top floor.",
+    "vi": "Một cặp vợ chồng trẻ người Pháp sống <b>ở tầng trên</b>, tầng thượng."
+   }
+  },
+  {
+   "word": "top floor",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌtɒp ˈflɔː(r)/",
+   "def_en": "The highest floor of a building.",
+   "def_vi": "Tầng cao nhất của tòa nhà.",
+   "gloss_vi": "tầng trên cùng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "ground floor <i>(np. tầng trệt)</i>",
+   "grammar_vi": "<i>Top floor</i> (noun phrase) = tầng trên cùng. <b>Grammar</b>: <i>on the top floor</i>.",
+   "example": {
+    "en": "A young French couple live upstairs, on the <b>top floor</b>.",
+    "vi": "Một cặp vợ chồng trẻ sống ở tầng trên, <b>tầng trên cùng</b>."
+   }
+  },
+  {
+   "word": "block of flats",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌblɒk əv ˈflæts/",
+   "def_en": "A building with a number of flats in it.",
+   "def_vi": "Tòa nhà gồm nhiều căn hộ.",
+   "gloss_vi": "khu chung cư",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Block of flats</i> (noun phrase) = khu chung cư. <b>Grammar</b>: số nhiều <i>blocks of flats</i>; Mỹ: <i>apartment building</i>.",
+   "example": {
+    "en": "It’s a modern <b>block of flats</b>.",
+    "vi": "Đó là một <b>khu chung cư</b> hiện đại."
+   }
+  },
+  {
+   "word": "lift",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/lɪft/",
+   "def_en": "The machine that takes people up or down a floor.",
+   "def_vi": "Máy đưa người lên xuống các tầng.",
+   "gloss_vi": "thang máy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lift</i> (noun) = thang máy. <b>Grammar</b>: Anh–Anh; Mỹ: <i>elevator</i>. <b>Common mistakes</b>: <i>give sb a lift</i> = cho đi nhờ xe.",
+   "example": {
+    "en": "The <b>lift</b> is small.",
+    "vi": "<b>Thang máy</b> thì nhỏ."
+   }
+  },
+  {
+   "word": "air conditioning",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈeə kəndɪʃənɪŋ/",
+   "def_en": "A system that keeps the air cool.",
+   "def_vi": "Hệ thống giữ không khí mát.",
+   "gloss_vi": "điều hòa không khí",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Air conditioning</i> (noun phrase) = điều hòa không khí. <b>Grammar</b>: không đếm được; <i>air conditioner</i> (cái máy).",
+   "example": {
+    "en": "There’s no <b>air conditioning</b>.",
+    "vi": "Không có <b>điều hòa</b>."
+   }
+  },
+  {
+   "word": "ground floor",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌɡraʊnd ˈflɔː(r)/",
+   "def_en": "The floor of a building at the same level as the ground.",
+   "def_vi": "Tầng ngang mặt đất.",
+   "gloss_vi": "tầng trệt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "top floor <i>(np. tầng trên cùng)</i>",
+   "grammar_vi": "<i>Ground floor</i> (noun phrase) = tầng trệt. <b>Grammar</b>: Anh–Anh; Mỹ: <i>first floor</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "There’s a shop on the <b>ground floor</b>.",
+    "vi": "Có một cửa hàng ở <b>tầng trệt</b>."
+   }
+  },
+  {
+   "word": "balcony",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbælkəni/",
+   "def_en": "A small area outside an upstairs window where you can sit.",
+   "def_vi": "Khoảng nhỏ bên ngoài cửa sổ tầng trên, có thể ngồi.",
+   "gloss_vi": "ban công",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Balcony</i> (noun) = ban công. <b>Grammar</b>: <i>on the balcony</i>; số nhiều <i>balconies</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We have breakfast on the <b>balcony</b> when it’s sunny.",
+    "vi": "Chúng tôi ăn sáng ngoài <b>ban công</b> khi trời đẹp."
+   }
+  },
+  {
+   "word": "steps",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/steps/",
+   "def_en": "A set of stairs outside a building.",
+   "def_vi": "Bậc lên xuống bên ngoài tòa nhà.",
+   "gloss_vi": "bậc thềm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Steps</i> (plural noun) = bậc thềm. <b>Grammar</b>: số ít <i>a step</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Be careful – the <b>steps</b> are slippery.",
+    "vi": "Cẩn thận – <b>bậc thềm</b> trơn lắm."
+   }
+  },
+  {
+   "word": "front door",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌfrʌnt ˈdɔː(r)/",
+   "def_en": "The main door at the front of a building.",
+   "def_vi": "Cửa chính phía trước tòa nhà.",
+   "gloss_vi": "cửa chính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "back door <i>(np. cửa sau)</i>",
+   "grammar_vi": "<i>Front door</i> (noun phrase) = cửa chính. <b>Grammar</b>: <i>at the front door</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "There’s someone at the <b>front door</b>.",
+    "vi": "Có ai đó đang ở <b>cửa chính</b>."
+   }
+  },
+  {
+   "word": "flat",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/flæt/",
+   "def_en": "A set of rooms for living in, on one floor of a building.",
+   "def_vi": "Dãy phòng để ở trên một tầng của tòa nhà.",
+   "gloss_vi": "căn hộ",
+   "synonyms": "apartment <i>(n. căn hộ (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flat</i> (noun) = căn hộ. <b>Grammar</b>: Anh–Anh; <i>apartment</i> (Mỹ, ngày càng phổ biến ở Anh).",
+   "example": {
+    "en": "We rent a <b>flat</b> on the second floor.",
+    "vi": "Chúng tôi thuê một <b>căn hộ</b> ở tầng hai."
+   }
+  },
+  {
+   "word": "own",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əʊn/",
+   "def_en": "To have bought something so it belongs to you.",
+   "def_vi": "Đã mua nên là của mình.",
+   "gloss_vi": "sở hữu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "rent <i>(v. thuê)</i>",
+   "grammar_vi": "<i>Own</i> (verb) = sở hữu. <b>Grammar</b>: <i>own sth</i>. <b>Word family</b>: <i>owner</i> (n.).",
+   "example": {
+    "en": "My parents <b>own</b> a cottage.",
+    "vi": "Bố mẹ tôi <b>sở hữu</b> một ngôi nhà tranh."
+   }
+  },
+  {
+   "word": "cottage",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɒtɪdʒ/",
+   "def_en": "A small, old and attractive house, usually in the country.",
+   "def_vi": "Ngôi nhà nhỏ, cũ, đẹp, thường ở nông thôn.",
+   "gloss_vi": "nhà tranh, nhà nhỏ ở quê",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cottage</i> (noun) = nhà tranh, nhà nhỏ ở quê. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: /ˈkɒtɪdʒ/.",
+   "example": {
+    "en": "My parents own a <b>cottage</b>.",
+    "vi": "Bố mẹ tôi sở hữu một <b>ngôi nhà nhỏ ở quê</b>."
+   }
+  },
+  {
+   "word": "charming",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈtʃɑːmɪŋ/",
+   "def_en": "Pleasant and attractive.",
+   "def_vi": "Dễ chịu và hấp dẫn.",
+   "gloss_vi": "duyên dáng, xinh xắn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Charming</i> (adjective) = duyên dáng, xinh xắn. <b>Grammar</b>: dùng cho nơi chốn và người. <b>Word family</b>: <i>charm</i> (n.).",
+   "example": {
+    "en": "It’s a <b>charming</b> house.",
+    "vi": "Đó là một ngôi nhà <b>xinh xắn</b>."
+   }
+  },
+  {
+   "word": "have lots of character",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌhæv lɒts əv ˈkærəktə(r)/",
+   "def_en": "To be interesting and unusual.",
+   "def_vi": "Thú vị và khác thường.",
+   "gloss_vi": "có nét riêng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have lots of character</i> (verb phrase) = có nét riêng. <b>Grammar</b>: <i>character</i> không đếm được ở nghĩa này.",
+   "example": {
+    "en": "It’s a charming house and <b>has lots of character</b>.",
+    "vi": "Đó là một ngôi nhà xinh xắn và <b>có nhiều nét riêng</b>."
+   }
+  },
+  {
+   "word": "dark",
+   "sense": "light",
+   "pos": "adjective",
+   "ipa": "/dɑːk/",
+   "def_en": "Without much light.",
+   "def_vi": "Không có nhiều ánh sáng.",
+   "gloss_vi": "tối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "light <i>(adj. sáng sủa)</i>",
+   "grammar_vi": "<i>Dark</i> (adjective) = tối. <b>Grammar</b>: <i>a dark room</i>.",
+   "example": {
+    "en": "Like many old buildings, it’s quite <b>dark</b>.",
+    "vi": "Như nhiều tòa nhà cũ, ngôi nhà khá <b>tối</b>."
+   }
+  },
+  {
+   "word": "heat",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/hiːt/",
+   "def_en": "To make warm or hot.",
+   "def_vi": "Làm ấm hay nóng.",
+   "gloss_vi": "sưởi ấm",
+   "synonyms": "warm <i>(v. làm ấm)</i>",
+   "antonyms": "cool <i>(v. làm mát)</i>",
+   "grammar_vi": "<i>Heat</i> (verb) = sưởi ấm. <b>Grammar</b>: <i>heat a house/room</i>. <b>Word family</b>: <i>heating</i> (n.).",
+   "example": {
+    "en": "It’s quite difficult to <b>heat</b>.",
+    "vi": "Ngôi nhà khá khó <b>sưởi ấm</b>."
+   }
+  },
+  {
+   "word": "central heating",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌsentrəl ˈhiːtɪŋ/",
+   "def_en": "A system that heats a whole house.",
+   "def_vi": "Hệ thống sưởi cả ngôi nhà.",
+   "gloss_vi": "hệ thống sưởi trung tâm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Central heating</i> (noun phrase) = hệ thống sưởi trung tâm. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "It doesn’t have <b>central heating</b>.",
+    "vi": "Ngôi nhà không có <b>hệ thống sưởi trung tâm</b>."
+   }
+  }
+ ]
+}

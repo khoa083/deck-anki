@@ -1,0 +1,504 @@
+{
+ "book": "pre",
+ "unit": 16,
+ "title_vi": "Sinh hoạt hằng ngày",
+ "theory_html": "<p><b>A. Sleep</b><br><i>A. Giấc ngủ</i></p> <p><b>wake up</b> (my mum <b>wakes me up</b>), <b>get up</b>, <b>go to bed</b>, <b>go to sleep</b> (syn <b>fall asleep</b>) <b>straight away</b>, <b>have a late night</b> (opp <b>an early night</b>), <b>have a sleep</b>.</p><p><i><b>thức dậy, ra khỏi giường, đi ngủ, ngủ thiếp đi, ngay lập tức, thức khuya, chợp mắt</b>.</i></p> <p><b>B. Food</b><br><i>B. Ăn uống</i></p> <p><b>cereal</b> for breakfast, <b>have a light lunch</b>, a <b>snack</b>, our <b>main meal</b>, she <b>doesn’t bother</b> to cook, a <b>takeaway</b>, <b>feed</b> the cat.</p><p><i><b>ngũ cốc, bữa trưa nhẹ, bữa ăn vặt, bữa chính, không buồn, đồ ăn mang về, cho ăn</b>.</i></p> <p><b>C. Bathroom routines</b><br><i>C. Vệ sinh cá nhân</i></p> <p><b>have a shower / a wash / a bath / a shave</b>, <b>clean (brush) my teeth</b>, <b>put on make-up</b>, <b>instead of</b>.</p><p><i><b>tắm vòi sen, rửa ráy, tắm bồn, cạo râu, đánh răng, trang điểm, thay vì</b>.</i></p> <p><b>D. Housework</b><br><i>D. Việc nhà</i></p> <p><b>Fortunately</b> (syn <b>luckily</b>) we’ve got a <b>cleaner</b> who <b>does the housework</b> and <b>my washing</b>; I <b>make my bed</b>, <b>do the ironing</b>, <b>do the shopping</b> (buy food) ≠ <b>go shopping</b> (leisure).</p><p><i><b>may mắn, người dọn dẹp, việc nhà, giặt đồ, dọn giường, là quần áo, đi chợ</b>.</i></p> <p><b>E. Spare time</b><br><i>E. Thời gian rảnh</i></p> <p><b>stay in</b>, <b>go out</b>, <b>eat out</b> (opp <b>eat in</b>) <b>once a week</b>, friends <b>come round</b>, we <b>chat</b>.</p><p><i><b>ở nhà, đi chơi, ăn ngoài, ghé chơi, tán gẫu</b>.</i></p>",
+ "items": [
+  {
+   "word": "wake up",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌweɪk ˈʌp/",
+   "def_en": "To stop sleeping.",
+   "def_vi": "Thôi ngủ.",
+   "gloss_vi": "thức dậy; đánh thức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "go to sleep <i>(vp. đi ngủ)</i>",
+   "grammar_vi": "<i>Wake up</i> (phrasal verb) = thức dậy; đánh thức. <b>Grammar</b>: <i>wake up</i>; <i>wake sb up</i> (tách được). <b>Common mistakes</b>: <i>wake – woke – woken</i>.",
+   "example": {
+    "en": "During the week I usually <b>wake up</b> about 7.30 am.",
+    "vi": "Ngày thường tôi hay <b>thức dậy</b> khoảng 7 giờ 30."
+   }
+  },
+  {
+   "word": "get up",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌɡet ˈʌp/",
+   "def_en": "To get out of bed.",
+   "def_vi": "Ra khỏi giường.",
+   "gloss_vi": "dậy, ra khỏi giường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "go to bed <i>(vp. đi ngủ)</i>",
+   "grammar_vi": "<i>Get up</i> (phrasal verb) = dậy, ra khỏi giường. <b>Grammar</b>: ≠ <i>wake up</i> (tỉnh giấc).",
+   "example": {
+    "en": "I <b>get up</b> a few minutes later.",
+    "vi": "Vài phút sau tôi <b>dậy</b>."
+   }
+  },
+  {
+   "word": "go to sleep",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ tə ˈsliːp/",
+   "def_en": "To start sleeping.",
+   "def_vi": "Bắt đầu ngủ.",
+   "gloss_vi": "ngủ thiếp đi",
+   "synonyms": "fall asleep <i>(vp. ngủ thiếp đi)</i>",
+   "antonyms": "wake up <i>(pv. thức dậy)</i>",
+   "grammar_vi": "<i>Go to sleep</i> (verb phrase) = ngủ thiếp đi. <b>Grammar</b>: ≠ <i>go to bed</i> (lên giường).",
+   "example": {
+    "en": "I usually <b>go to sleep</b> straight away.",
+    "vi": "Tôi thường <b>ngủ thiếp đi</b> ngay lập tức."
+   }
+  },
+  {
+   "word": "straight away",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌstreɪt əˈweɪ/",
+   "def_en": "Immediately.",
+   "def_vi": "Ngay lập tức.",
+   "gloss_vi": "ngay lập tức",
+   "synonyms": "immediately <i>(adv. ngay lập tức)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Straight away</i> (adverb) = ngay lập tức. <b>Grammar</b>: thường đứng cuối câu.",
+   "example": {
+    "en": "I usually go to sleep <b>straight away</b>.",
+    "vi": "Tôi thường ngủ thiếp đi <b>ngay lập tức</b>."
+   }
+  },
+  {
+   "word": "have a late night",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌhæv ə ˌleɪt ˈnaɪt/",
+   "def_en": "To go to bed very late.",
+   "def_vi": "Đi ngủ rất muộn.",
+   "gloss_vi": "thức khuya",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "have an early night <i>(vp. đi ngủ sớm)</i>",
+   "grammar_vi": "<i>Have a late night</i> (verb phrase) = thức khuya. <b>Grammar</b>: <i>have a late/an early night</i>.",
+   "example": {
+    "en": "If I <b>have a late night</b> I try to have a sleep in the afternoon.",
+    "vi": "Nếu <b>thức khuya</b>, tôi cố chợp mắt vào buổi chiều."
+   }
+  },
+  {
+   "word": "have a sleep",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌhæv ə ˈsliːp/",
+   "def_en": "To sleep for a short time, e.g. half an hour.",
+   "def_vi": "Ngủ một lúc ngắn, khoảng nửa tiếng.",
+   "gloss_vi": "chợp mắt",
+   "synonyms": "have a nap <i>(vp. ngủ trưa)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have a sleep</i> (verb phrase) = chợp mắt. <b>Grammar</b>: <i>sleep</i> là danh từ đếm được ở đây.",
+   "example": {
+    "en": "I try to <b>have a sleep</b> in the afternoon when I get home from college.",
+    "vi": "Tôi cố <b>chợp mắt</b> vào buổi chiều khi đi học về."
+   }
+  },
+  {
+   "word": "cereal",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɪəriəl/",
+   "def_en": "Food made from grain, eaten with milk for breakfast.",
+   "def_vi": "Thức ăn từ ngũ cốc, ăn với sữa vào bữa sáng.",
+   "gloss_vi": "ngũ cốc (ăn sáng)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cereal</i> (noun) = ngũ cốc (ăn sáng). <b>Grammar</b>: đếm được và không đếm được. <b>Common mistakes</b>: /ˈsɪəriəl/ như <i>serial</i>.",
+   "example": {
+    "en": "I have coffee and <b>cereal</b> for breakfast.",
+    "vi": "Tôi ăn sáng bằng cà phê và <b>ngũ cốc</b>."
+   }
+  },
+  {
+   "word": "have a light lunch",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌhæv ə ˌlaɪt ˈlʌntʃ/",
+   "def_en": "To have a small meal at lunchtime.",
+   "def_vi": "Ăn một bữa nhỏ vào buổi trưa.",
+   "gloss_vi": "ăn trưa nhẹ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have a light lunch</i> (verb phrase) = ăn trưa nhẹ. <b>Grammar</b>: <i>a light meal/lunch</i> ≠ <i>a heavy meal</i>.",
+   "example": {
+    "en": "Then I <b>have a light lunch</b>, maybe a sandwich and an apple.",
+    "vi": "Rồi tôi <b>ăn trưa nhẹ</b>, có thể là bánh mì kẹp và một quả táo."
+   }
+  },
+  {
+   "word": "snack",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/snæk/",
+   "def_en": "A small amount of food you eat between meals.",
+   "def_vi": "Một ít thức ăn ăn giữa các bữa.",
+   "gloss_vi": "bữa ăn vặt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Snack</i> (noun) = bữa ăn vặt. <b>Grammar</b>: <i>have a snack</i>. <b>Collocations / chunks</b>: <i>snack bar</i>.",
+   "example": {
+    "en": "I have a <b>snack</b> in the afternoon.",
+    "vi": "Tôi ăn <b>vặt</b> một chút vào buổi chiều."
+   }
+  },
+  {
+   "word": "main meal",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌmeɪn ˈmiːl/",
+   "def_en": "The biggest meal of the day.",
+   "def_vi": "Bữa lớn nhất trong ngày.",
+   "gloss_vi": "bữa chính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Main meal</i> (noun phrase) = bữa chính. <b>Grammar</b>: <i>have your main meal</i>.",
+   "example": {
+    "en": "We have our <b>main meal</b> in the evening.",
+    "vi": "Chúng tôi ăn <b>bữa chính</b> vào buổi tối."
+   }
+  },
+  {
+   "word": "not bother",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/nɒt ˈbɒðə(r)/",
+   "def_en": "Not to do something because there is no reason or it is too much work.",
+   "def_vi": "Không làm gì vì không cần hay quá mất công.",
+   "gloss_vi": "không buồn (làm gì)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Not bother</i> (verb phrase) = không buồn (làm gì). <b>Grammar</b>: <i>not bother to do sth / doing sth</i>.",
+   "example": {
+    "en": "If Mum’s late home from work, she <b>doesn’t bother</b> to cook.",
+    "vi": "Nếu mẹ đi làm về muộn, mẹ <b>không buồn</b> nấu ăn."
+   }
+  },
+  {
+   "word": "takeaway",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈteɪkəweɪ/",
+   "def_en": "A meal you buy in a restaurant but eat at home.",
+   "def_vi": "Bữa ăn mua ở nhà hàng nhưng ăn ở nhà.",
+   "gloss_vi": "đồ ăn mang về",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Takeaway</i> (noun) = đồ ăn mang về. <b>Grammar</b>: Anh–Anh; Mỹ: <i>takeout</i>.",
+   "example": {
+    "en": "We just get a <b>takeaway</b> instead.",
+    "vi": "Thay vào đó chúng tôi chỉ mua <b>đồ ăn mang về</b>."
+   }
+  },
+  {
+   "word": "feed",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/fiːd/",
+   "def_en": "To give food to a person or animal.",
+   "def_vi": "Cho người hay con vật ăn.",
+   "gloss_vi": "cho ăn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Feed</i> (verb) = cho ăn. <b>Grammar</b>: <i>feed – fed – fed</i>; <i>feed sb/an animal</i>.",
+   "example": {
+    "en": "One of us has to <b>feed</b> the cat as well.",
+    "vi": "Một trong chúng tôi cũng phải <b>cho</b> mèo <b>ăn</b>."
+   }
+  },
+  {
+   "word": "have a wash",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌhæv ə ˈwɒʃ/",
+   "def_en": "To wash your face and hands.",
+   "def_vi": "Rửa mặt mũi tay chân.",
+   "gloss_vi": "rửa ráy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have a wash</i> (verb phrase) = rửa ráy. <b>Grammar</b>: <i>have a wash/shower/bath/shave</i>.",
+   "example": {
+    "en": "I only have time to <b>have a wash</b> and clean my teeth.",
+    "vi": "Buổi sáng tôi chỉ kịp <b>rửa ráy</b> và đánh răng."
+   }
+  },
+  {
+   "word": "clean your teeth",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌkliːn jə ˈtiːθ/",
+   "def_en": "To clean your teeth with a brush.",
+   "def_vi": "Làm sạch răng bằng bàn chải.",
+   "gloss_vi": "đánh răng",
+   "synonyms": "brush your teeth <i>(vp. đánh răng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Clean your teeth</i> (verb phrase) = đánh răng. <b>Grammar</b>: <i>clean/brush your teeth</i>.",
+   "example": {
+    "en": "I only have time to have a wash and <b>clean my teeth</b>.",
+    "vi": "Tôi chỉ kịp rửa ráy và <b>đánh răng</b>."
+   }
+  },
+  {
+   "word": "make-up",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmeɪk ʌp/",
+   "def_en": "Coloured substances put on the face to look attractive.",
+   "def_vi": "Phấn son bôi lên mặt cho đẹp.",
+   "gloss_vi": "đồ trang điểm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Make-up</i> (noun) = đồ trang điểm. <b>Grammar</b>: không đếm được; <i>put on / wear make-up</i>.",
+   "example": {
+    "en": "Rosie comes in to put on a bit of <b>make-up</b>.",
+    "vi": "Rosie vào để <b>trang điểm</b> một chút."
+   }
+  },
+  {
+   "word": "have a bath",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌhæv ə ˈbɑːθ/",
+   "def_en": "To wash your body in a bath.",
+   "def_vi": "Tắm trong bồn.",
+   "gloss_vi": "tắm bồn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have a bath</i> (verb phrase) = tắm bồn. <b>Grammar</b>: <i>have a bath/shower</i> (Anh–Anh); Mỹ: <i>take a bath</i>.",
+   "example": {
+    "en": "In the winter I sometimes <b>have a bath</b> instead of a shower.",
+    "vi": "Mùa đông đôi khi tôi <b>tắm bồn</b> thay vì tắm vòi sen."
+   }
+  },
+  {
+   "word": "instead of",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ɪnˈsted əv/",
+   "def_en": "In place of.",
+   "def_vi": "Thay cho.",
+   "gloss_vi": "thay vì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Instead of</i> (preposition) = thay vì. <b>Grammar</b>: <i>instead of</i> + danh từ / V-ing.",
+   "example": {
+    "en": "In the winter I sometimes have a bath <b>instead of</b> a shower.",
+    "vi": "Mùa đông đôi khi tôi tắm bồn <b>thay vì</b> tắm vòi sen."
+   }
+  },
+  {
+   "word": "have a shave",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌhæv ə ˈʃeɪv/",
+   "def_en": "To cut the hair from your face.",
+   "def_vi": "Cạo râu trên mặt.",
+   "gloss_vi": "cạo râu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have a shave</i> (verb phrase) = cạo râu. <b>Grammar</b>: <i>have a shave</i>; <i>shave</i> (v.).",
+   "example": {
+    "en": "Marcus <b>having a shave</b>",
+    "vi": "Marcus đang <b>cạo râu</b>."
+   }
+  },
+  {
+   "word": "fortunately",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈfɔːtʃənətli/",
+   "def_en": "Happening because of good luck.",
+   "def_vi": "Xảy ra nhờ may mắn.",
+   "gloss_vi": "may mắn thay",
+   "synonyms": "luckily <i>(adv. may thay)</i>",
+   "antonyms": "unfortunately <i>(adv. không may)</i>",
+   "grammar_vi": "<i>Fortunately</i> (adverb) = may mắn thay. <b>Grammar</b>: thường đứng đầu câu.",
+   "example": {
+    "en": "<b>Fortunately</b> we’ve got a cleaner who does a lot of the housework.",
+    "vi": "<b>May mắn thay</b> chúng tôi có người dọn dẹp lo phần lớn việc nhà."
+   }
+  },
+  {
+   "word": "cleaner",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkliːnə(r)/",
+   "def_en": "A person who cleans.",
+   "def_vi": "Người làm vệ sinh.",
+   "gloss_vi": "người dọn dẹp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cleaner</i> (noun) = người dọn dẹp. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Fortunately we’ve got a <b>cleaner</b> who does a lot of the housework.",
+    "vi": "May mắn thay chúng tôi có <b>người dọn dẹp</b> lo phần lớn việc nhà."
+   }
+  },
+  {
+   "word": "do the housework",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌduː ðə ˈhaʊswɜːk/",
+   "def_en": "To do the work of keeping a home clean and tidy.",
+   "def_vi": "Làm việc giữ nhà sạch sẽ, gọn gàng.",
+   "gloss_vi": "làm việc nhà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Do the housework</i> (verb phrase) = làm việc nhà. <b>Grammar</b>: <i>housework</i> không đếm được; dùng <i>do</i> (không <i>make</i>).",
+   "example": {
+    "en": "We’ve got a cleaner who <b>does</b> a lot of the <b>housework</b>.",
+    "vi": "Chúng tôi có người dọn dẹp <b>làm</b> phần lớn <b>việc nhà</b>."
+   }
+  },
+  {
+   "word": "do the washing",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌduː ðə ˈwɒʃɪŋ/",
+   "def_en": "To wash clothes.",
+   "def_vi": "Giặt quần áo.",
+   "gloss_vi": "giặt đồ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Do the washing</i> (verb phrase) = giặt đồ. <b>Grammar</b>: <i>do the/my washing</i>.",
+   "example": {
+    "en": "That includes <b>doing</b> my <b>washing</b>.",
+    "vi": "Việc đó gồm cả <b>giặt đồ</b> cho tôi."
+   }
+  },
+  {
+   "word": "make your bed",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌmeɪk jə ˈbed/",
+   "def_en": "To make your bed tidy after sleeping.",
+   "def_vi": "Sắp gọn giường sau khi ngủ.",
+   "gloss_vi": "dọn giường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Make your bed</i> (verb phrase) = dọn giường. <b>Grammar</b>: dùng <i>make</i> (không <i>do</i>).",
+   "example": {
+    "en": "But I still have to <b>make</b> my <b>bed</b>.",
+    "vi": "Nhưng tôi vẫn phải <b>dọn giường</b> của mình."
+   }
+  },
+  {
+   "word": "do the ironing",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌduː ði ˈaɪənɪŋ/",
+   "def_en": "To make clothes smooth with an iron.",
+   "def_vi": "Làm phẳng quần áo bằng bàn là.",
+   "gloss_vi": "là (ủi) quần áo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Do the ironing</i> (verb phrase) = là (ủi) quần áo. <b>Grammar</b>: <i>ironing</i> không đếm được. <b>Common mistakes</b>: /ˈaɪənɪŋ/, <i>r</i> câm.",
+   "example": {
+    "en": "I still have to <b>do</b> some of my <b>ironing</b>.",
+    "vi": "Tôi vẫn phải <b>là</b> một ít <b>quần áo</b>."
+   }
+  },
+  {
+   "word": "do the shopping",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌduː ðə ˈʃɒpɪŋ/",
+   "def_en": "To buy food at the supermarket.",
+   "def_vi": "Mua thực phẩm ở siêu thị.",
+   "gloss_vi": "đi chợ, mua đồ ăn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Do the shopping</i> (verb phrase) = đi chợ, mua đồ ăn. <b>Grammar</b>: <i>do the shopping</i> (mua thực phẩm) ≠ <i>go shopping</i> (đi mua sắm giải trí).",
+   "example": {
+    "en": "I sometimes <b>do the shopping</b> with Mum.",
+    "vi": "Đôi khi tôi <b>đi chợ</b> với mẹ."
+   }
+  },
+  {
+   "word": "stay in",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌsteɪ ˈɪn/",
+   "def_en": "To stay at home.",
+   "def_vi": "Ở nhà.",
+   "gloss_vi": "ở nhà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "go out <i>(pv. ra ngoài)</i>",
+   "grammar_vi": "<i>Stay in</i> (phrasal verb) = ở nhà. <b>Grammar</b>: nội động từ.",
+   "example": {
+    "en": "On weekdays I usually <b>stay in</b> and watch TV in the evening.",
+    "vi": "Ngày thường tôi hay <b>ở nhà</b> xem TV buổi tối."
+   }
+  },
+  {
+   "word": "eat out",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌiːt ˈaʊt/",
+   "def_en": "To eat in a restaurant.",
+   "def_vi": "Ăn ở nhà hàng.",
+   "gloss_vi": "ăn ngoài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "eat in <i>(pv. ăn ở nhà)</i>",
+   "grammar_vi": "<i>Eat out</i> (phrasal verb) = ăn ngoài. <b>Grammar</b>: nội động từ.",
+   "example": {
+    "en": "I <b>eat out</b> once a week.",
+    "vi": "Tôi <b>ăn ngoài</b> mỗi tuần một lần."
+   }
+  },
+  {
+   "word": "once a week",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌwʌns ə ˈwiːk/",
+   "def_en": "One time every week.",
+   "def_vi": "Mỗi tuần một lần.",
+   "gloss_vi": "mỗi tuần một lần",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Once a week</i> (phrase) = mỗi tuần một lần. <b>Grammar</b>: <i>once/twice/three times a week/month</i>.",
+   "example": {
+    "en": "I eat out <b>once a week</b>.",
+    "vi": "Tôi ăn ngoài <b>mỗi tuần một lần</b>."
+   }
+  },
+  {
+   "word": "come round",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌkʌm ˈraʊnd/",
+   "def_en": "To visit someone in their home.",
+   "def_vi": "Đến nhà ai chơi.",
+   "gloss_vi": "ghé chơi",
+   "synonyms": "come over <i>(pv. ghé qua)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Come round</i> (phrasal verb) = ghé chơi. <b>Grammar</b>: <i>come round (to sb’s house)</i>.",
+   "example": {
+    "en": "Sometimes friends <b>come round</b> and we chat about clothes, music and college.",
+    "vi": "Đôi khi bạn bè <b>ghé chơi</b> và chúng tôi tán gẫu."
+   }
+  },
+  {
+   "word": "chat",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/tʃæt/",
+   "def_en": "To have an informal conversation.",
+   "def_vi": "Trò chuyện thân mật.",
+   "gloss_vi": "tán gẫu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chat</i> (verb) = tán gẫu. <b>Grammar</b>: <i>chat (to/with sb) about sth</i>; <i>chat – chatted</i>.",
+   "example": {
+    "en": "Sometimes friends come round and we <b>chat</b> about clothes, music and college.",
+    "vi": "Đôi khi bạn bè ghé chơi và chúng tôi <b>tán gẫu</b> về quần áo, âm nhạc và trường học."
+   }
+  }
+ ]
+}
