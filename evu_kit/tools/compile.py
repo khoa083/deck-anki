@@ -43,6 +43,7 @@ def grammar(word, pos, gloss, g):
 def sentences(block):
     """Tách câu từ trang đã trích; nối dòng gãy của đoạn văn, tách dòng nhãn ngắn (tên trên tranh, tiêu đề)."""
     lines = [l.strip() for l in block.split("\n") if l.strip() and l.strip() not in ("Audio not supported",)]
+    lines = ["@@BREAK@@" if l in ("•", "■", "–", "-", "▪", "●") else l for l in lines]
     lines = [l for l in lines if not (re.fullmatch(r"\*\*[^*]*\*\*", l) and not re.search(r"[.?!]\**$", l) and len(l.split()) < 6
                                       and not re.match(r"^\*\*[a-z]", l))
              and not re.fullmatch(r"[\d\W]{1,4}", l)]
@@ -53,6 +54,9 @@ def sentences(block):
     out, cur, last = [], "", ""
     lab = lambda x: bool(re.fullmatch(r"\*\*[^*]+\*\*", x)) and len(x.split()) < 5 and not re.search(r"[.!?]\**$", x)
     for l in lines:
+        if l == "@@BREAK@@":
+            if cur: out.append(cur)
+            cur = last = ""; continue
         plain = l.replace("**", "")
         if cur:
             pl = last.replace("**", "")
@@ -119,9 +123,10 @@ def find_example(word, src):
             mm = rx.search(re.sub(r"\s*\[[^\]]*\]|\s*\((?:See|see) [^)]*\)", "", s.replace("**", "")))
             if not mm: continue
             bold = bool(re.search(r"\*\*[^*]*" + re.escape(mm.group(0).split()[0]) , s, re.I))
-            n = len(s.split())
-            nb = len(" ".join(re.findall(r"\*\*([^*]+)\*\*", s)).split())
-            bad = n > 45 or n < 2 or (re.fullmatch(r"\*\*[^*]+\*\*", s.strip()) is not None) or (nb / n > 0.6 and n >= 4 and not re.search(r"[.!?]\**$", s.strip())) or "……" in s or "…….." in s or ".........." in s
+            s2 = re.sub(r"\s*\[[^\]]*\]", "", s).strip()
+            n = len(s2.split())
+            nb = len(" ".join(re.findall(r"\*\*([^*]+)\*\*", s2)).split())
+            bad = n > 45 or n < 2 or (re.fullmatch(r"\*\*[^*]+\*\*", s2) is not None) or (nb / n > 0.6 and n >= 4 and not re.search(r"[.!?]\**$", s2)) or "……" in s or "…….." in s or ".........." in s
             if not bad: cands.append((prio + (0 if bold else 1), s))
     if not cands: return None
     cands.sort(key=lambda x: x[0])
