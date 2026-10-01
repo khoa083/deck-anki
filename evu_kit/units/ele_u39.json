@@ -1,0 +1,232 @@
+{
+ "book": "ele",
+ "unit": 39,
+ "title_vi": "Go / went / gone",
+ "theory_html": "<p><b>A. Go</b><br><i>A. Go</i></p> <p><b>Go</b> means to move from one place to another: <b>go to work by bike, go by car; We went to Paris; Is this train going to Granada? Where does this road go?</b></p><p><i><b>Go</b> nghĩa là di chuyển từ nơi này đến nơi khác.</i></p> <p><b>B. Go + prepositions</b><br><i>B. Go + giới từ</i></p> <p><b>go in(to), go out of, go up (the stairs), go down (the stairs)</b>.</p><p><i><b>đi vào, đi ra khỏi, đi lên, đi xuống</b>.</i></p> <p><b>C. Future plans</b><br><i>C. Kế hoạch tương lai</i></p> <p><b>be going to</b> + verb for plans: <b>Jan is going to study maths.</b></p><p><i><b>be going to</b> + động từ để nói dự định.</i></p> <p><b>D. Go + -ing for activities</b><br><i>D. Go + V-ing cho hoạt động</i></p> <p><b>go swimming, go shopping, go dancing, go sightseeing, go skiing, go fishing</b>. Say <b>go swimming</b> (not <b>go to / for swimming</b>), <b>go there / anywhere</b> (not <b>go to there</b>), <b>go home</b> (not <b>go to home</b>).</p><p><i><b>đi bơi, đi mua sắm, đi nhảy, đi tham quan, đi trượt tuyết, đi câu cá</b>. Không dùng <b>to</b> với <b>there, home, anywhere</b>.</i></p>",
+ "items": [
+  {
+   "word": "go",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɡəʊ/",
+   "def_en": "To move from one place to another.",
+   "def_vi": "Di chuyển từ nơi này sang nơi khác.",
+   "gloss_vi": "đi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "come <i>(v. đến)</i>",
+   "grammar_vi": "<i>Go</i> (verb) = đi. <b>Grammar</b>: <i>go / went / gone</i>; <i>go to</i> + nơi; <i>go by</i> + phương tiện. <b>Common mistakes</b>: <i>go home, go there</i> không có <i>to</i>.",
+   "example": {
+    "en": "I <b>go</b> to work by bike.",
+    "vi": "Tôi <b>đi</b> làm bằng xe đạp."
+   }
+  },
+  {
+   "word": "went",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/went/",
+   "def_en": "The past tense of ‘go’.",
+   "def_vi": "Quá khứ của “go”.",
+   "gloss_vi": "đã đi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Went</i> (verb) = đã đi. <b>Grammar</b>: quá khứ đơn bất quy tắc của <i>go</i>; phân từ <i>gone</i>.",
+   "example": {
+    "en": "<b>Go</b> means to move from one place to another.",
+    "vi": "Mùa hè năm ngoái chúng tôi <b>đã đi</b> Paris."
+   }
+  },
+  {
+   "word": "go into",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ ˈɪntə/",
+   "def_en": "To enter a room or building.",
+   "def_vi": "Đi vào phòng hay tòa nhà.",
+   "gloss_vi": "đi vào",
+   "synonyms": "enter <i>(v. vào)</i>",
+   "antonyms": "go out of <i>(vp. đi ra khỏi)</i>",
+   "grammar_vi": "<i>Go into</i> (verb phrase) = đi vào. <b>Grammar</b>: <i>go in</i> (không tân ngữ) / <i>go into</i> + nơi.",
+   "example": {
+    "en": "Ethan <b>went in(to)</b> his room.",
+    "vi": "Ethan <b>đi vào</b> phòng mình."
+   }
+  },
+  {
+   "word": "go out of",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ ˈaʊt əv/",
+   "def_en": "To leave a room or building.",
+   "def_vi": "Rời khỏi phòng hay tòa nhà.",
+   "gloss_vi": "đi ra khỏi",
+   "synonyms": "leave <i>(v. rời)</i>",
+   "antonyms": "go into <i>(vp. đi vào)</i>",
+   "grammar_vi": "<i>Go out of</i> (verb phrase) = đi ra khỏi. <b>Grammar</b>: <i>go out of</i> + nơi; <i>go out</i> (ra ngoài).",
+   "example": {
+    "en": "Yuko <b>went out of</b> the house and shut the door.",
+    "vi": "Yuko <b>đi ra khỏi</b> nhà và đóng cửa lại."
+   }
+  },
+  {
+   "word": "go up",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ ˈʌp/",
+   "def_en": "To move to a higher place, for example up the stairs.",
+   "def_vi": "Di chuyển lên cao, ví dụ lên cầu thang.",
+   "gloss_vi": "đi lên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "go down <i>(vp. đi xuống)</i>",
+   "grammar_vi": "<i>Go up</i> (verb phrase) = đi lên. <b>Grammar</b>: <i>go up the stairs</i> (lên cầu thang).",
+   "example": {
+    "en": "Jacob was tired. He <b>went up</b> the stairs slowly.",
+    "vi": "Jacob mệt. Cậu ấy <b>đi lên</b> cầu thang chậm rãi."
+   }
+  },
+  {
+   "word": "go down",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ ˈdaʊn/",
+   "def_en": "To move to a lower place, for example down the stairs.",
+   "def_vi": "Di chuyển xuống thấp, ví dụ xuống cầu thang.",
+   "gloss_vi": "đi xuống",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "go up <i>(vp. đi lên)</i>",
+   "grammar_vi": "<i>Go down</i> (verb phrase) = đi xuống. <b>Grammar</b>: <i>go down the stairs</i> (xuống cầu thang).",
+   "example": {
+    "en": "The phone was ringing. She <b>went down</b> the stairs quickly.",
+    "vi": "Điện thoại reo. Cô ấy <b>đi xuống</b> cầu thang thật nhanh."
+   }
+  },
+  {
+   "word": "be going to",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/bi ˈɡəʊɪŋ tə/",
+   "def_en": "Used to talk about future plans.",
+   "def_vi": "Dùng để nói về dự định tương lai.",
+   "gloss_vi": "sẽ, định",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be going to</i> (phrase) = sẽ, định. <b>Grammar</b>: <i>be going to</i> + động từ nguyên mẫu: <i>I’m going to learn…</i>.",
+   "example": {
+    "en": "<b>Be going to</b> is often used to talk about future plans.",
+    "vi": "Jan <b>định</b> học toán ở đại học."
+   }
+  },
+  {
+   "word": "go shopping",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ ˈʃɒpɪŋ/",
+   "def_en": "To go to shops to buy things.",
+   "def_vi": "Đến cửa hàng mua đồ.",
+   "gloss_vi": "đi mua sắm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go shopping</i> (verb phrase) = đi mua sắm. <b>Grammar</b>: <i>go</i> + V-ing. <b>Common mistakes</b>: không nói <i>go to shopping</i>.",
+   "example": {
+    "en": "I hate <b>going shopping</b>.",
+    "vi": "Tôi ghét <b>đi mua sắm</b>."
+   }
+  },
+  {
+   "word": "go dancing",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ ˈdɑːnsɪŋ/",
+   "def_en": "To go out to dance.",
+   "def_vi": "Đi nhảy.",
+   "gloss_vi": "đi nhảy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go dancing</i> (verb phrase) = đi nhảy. <b>Grammar</b>: <i>go</i> + V-ing; Anh–Anh đọc /ˈdɑːnsɪŋ/.",
+   "example": {
+    "en": "Let’s <b>go dancing</b>.",
+    "vi": "Chúng ta <b>đi nhảy</b> đi."
+   }
+  },
+  {
+   "word": "go sightseeing",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ ˈsaɪtsiːɪŋ/",
+   "def_en": "To visit interesting places as a tourist.",
+   "def_vi": "Đi thăm các nơi thú vị như khách du lịch.",
+   "gloss_vi": "đi tham quan",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go sightseeing</i> (verb phrase) = đi tham quan. <b>Grammar</b>: <i>go</i> + V-ing. <b>Word family</b>: <i>sightseeing</i> (n.).",
+   "example": {
+    "en": "Do you like <b>going sightseeing</b> when you are on holiday?",
+    "vi": "Bạn có thích <b>đi tham quan</b> khi đi nghỉ không?"
+   }
+  },
+  {
+   "word": "go skiing",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ ˈskiːɪŋ/",
+   "def_en": "To go somewhere to ski.",
+   "def_vi": "Đi trượt tuyết.",
+   "gloss_vi": "đi trượt tuyết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go skiing</i> (verb phrase) = đi trượt tuyết. <b>Grammar</b>: <i>go</i> + V-ing.",
+   "example": {
+    "en": "Hans <b>goes skiing</b> every winter.",
+    "vi": "Mùa đông nào Hans cũng <b>đi trượt tuyết</b>."
+   }
+  },
+  {
+   "word": "go fishing",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ ˈfɪʃɪŋ/",
+   "def_en": "To go somewhere to catch fish.",
+   "def_vi": "Đi câu cá.",
+   "gloss_vi": "đi câu cá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go fishing</i> (verb phrase) = đi câu cá. <b>Grammar</b>: <i>go</i> + V-ing.",
+   "example": {
+    "en": "Carter is <b>going fishing</b> today.",
+    "vi": "Hôm nay Carter <b>đi câu cá</b>."
+   }
+  },
+  {
+   "word": "go home",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ ˈhəʊm/",
+   "def_en": "To return to the place where you live.",
+   "def_vi": "Về nơi mình sống.",
+   "gloss_vi": "về nhà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go home</i> (verb phrase) = về nhà. <b>Grammar</b>: không dùng <i>to</i>: <i>go home</i>. <b>Common mistakes</b>: không nói <i>go to home</i>.",
+   "example": {
+    "en": "I must <b>go home</b> at 10 o’clock. [NOT I must go to / at home at 10 o’clock.]",
+    "vi": "Tôi phải <b>về nhà</b> lúc 10 giờ."
+   }
+  },
+  {
+   "word": "go there",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ ˈðeə(r)/",
+   "def_en": "To go to that place.",
+   "def_vi": "Đến chỗ đó.",
+   "gloss_vi": "đến đó",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go there</i> (verb phrase) = đến đó. <b>Grammar</b>: không dùng <i>to</i>: <i>go there</i>. <b>Common mistakes</b>: không nói <i>go to there</i>.",
+   "example": {
+    "en": "I <b>go there</b> every week.",
+    "vi": "Tuần nào tôi cũng <b>đến đó</b>."
+   }
+  }
+ ]
+}

@@ -1,0 +1,188 @@
+{
+ "book": "ele",
+ "unit": 40,
+ "title_vi": "Do / did / done",
+ "theory_html": "<p><b>A. Do as auxiliary</b><br><i>A. Do làm trợ động từ</i></p> <p>Questions: <b>Do you like tennis? Did they like the film?</b> Short answers: <b>Yes, I do. So does Matteo.</b> Negatives: <b>He doesn’t play well. Leo didn’t see it.</b></p><p><i>Câu hỏi, câu trả lời ngắn, câu phủ định dùng <b>do / does / did</b>.</i></p> <p><b>B. Do as a general verb</b><br><i>B. Do là động từ thường</i></p> <p><b>Don’t do that! I usually do nothing. What are they doing?</b></p><p><i><b>Đừng làm thế! Tôi thường chẳng làm gì. Họ đang làm gì?</b></i></p> <p><b>C. What do you do?</b><br><i>C. Bạn làm nghề gì?</i></p> <p><b>What do you do?</b> = What is your job?</p><p><i>= Nghề của bạn là gì?</i></p> <p><b>D. Do + activity</b><br><i>D. Do + hoạt động</i></p> <p><b>do the housework, the gardening, the washing, the washing-up, your homework, some exercises; do business with; do your best</b>. See Unit 41 for <b>do</b> vs <b>make</b>.</p><p><i><b>làm việc nhà, làm vườn, giặt giũ, rửa bát, làm bài tập, tập thể dục; làm ăn với; cố hết sức</b>.</i></p>",
+ "items": [
+  {
+   "word": "do",
+   "sense": "auxiliary",
+   "pos": "auxiliary verb",
+   "ipa": "/duː/",
+   "def_en": "An auxiliary verb used in questions, short answers and negatives.",
+   "def_vi": "Trợ động từ dùng trong câu hỏi, trả lời ngắn và phủ định.",
+   "gloss_vi": "(trợ động từ)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Do</i> (auxiliary verb) = (trợ động từ). <b>Grammar</b>: <i>do / does</i> (hiện tại), <i>did</i> (quá khứ); phủ định <i>don’t / doesn’t / didn’t</i>.",
+   "example": {
+    "en": "<b>Do</b> you like tennis?",
+    "vi": "Bạn <b>có</b> thích quần vợt không?"
+   }
+  },
+  {
+   "word": "did",
+   "sense": "",
+   "pos": "auxiliary verb",
+   "ipa": "/dɪd/",
+   "def_en": "The past form of ‘do’, used in questions, short answers and negatives.",
+   "def_vi": "Dạng quá khứ của “do” trong câu hỏi, trả lời ngắn, phủ định.",
+   "gloss_vi": "(trợ động từ quá khứ)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Did</i> (auxiliary verb) = (trợ động từ quá khứ). <b>Grammar</b>: <i>Did</i> + chủ ngữ + động từ nguyên mẫu: <i>Did they like…?</i>. <b>Common mistakes</b>: không nói <i>Did they liked</i>.",
+   "example": {
+    "en": "<b>Did</b> they like the film?",
+    "vi": "Họ <b>có</b> thích bộ phim không?"
+   }
+  },
+  {
+   "word": "So does …",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌsəʊ ˈdʌz/",
+   "def_en": "Used to say that something is also true for another person.",
+   "def_vi": "Dùng để nói điều đó cũng đúng với người khác.",
+   "gloss_vi": "… cũng vậy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "Neither does … <i>(phr. … cũng không)</i>",
+   "grammar_vi": "<i>So does …</i> (phrase) = … cũng vậy. <b>Grammar</b>: <i>So + do/does/did + chủ ngữ</i>: <i>So did I.</i>.",
+   "example": {
+    "en": "<b>So does</b> Matteo.",
+    "vi": "Matteo <b>cũng vậy</b>."
+   }
+  },
+  {
+   "word": "doesn’t",
+   "sense": "",
+   "pos": "auxiliary verb",
+   "ipa": "/ˈdʌznt/",
+   "def_en": "Does not; used in negative sentences with he, she, it.",
+   "def_vi": "Không (phủ định ngôi thứ ba số ít).",
+   "gloss_vi": "không (phủ định)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Doesn’t</i> (auxiliary verb) = không (phủ định). <b>Grammar</b>: <i>doesn’t</i> + động từ nguyên mẫu: <i>He doesn’t play</i>. <b>Common mistakes</b>: không nói <i>He doesn’t plays</i>.",
+   "example": {
+    "en": "He <b>doesn’t</b> play well.",
+    "vi": "Anh ấy chơi <b>không</b> giỏi."
+   }
+  },
+  {
+   "word": "do the housework",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌduː ðə ˈhaʊswɜːk/",
+   "def_en": "To clean and tidy your home.",
+   "def_vi": "Lau dọn nhà cửa.",
+   "gloss_vi": "làm việc nhà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Do the housework</i> (verb phrase) = làm việc nhà. <b>Grammar</b>: <i>housework</i> không đếm được. <b>Common mistakes</b>: không nói <i>make the housework</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We <b>do the housework</b> together at the weekend.",
+    "vi": "Cuối tuần chúng tôi <b>làm việc nhà</b> cùng nhau."
+   }
+  },
+  {
+   "word": "do the gardening",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌduː ðə ˈɡɑːdnɪŋ/",
+   "def_en": "To work in the garden.",
+   "def_vi": "Làm việc trong vườn.",
+   "gloss_vi": "làm vườn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Do the gardening</i> (verb phrase) = làm vườn. <b>Grammar</b>: <i>do the</i> + V-ing (việc nhà).",
+   "ex_kit": true,
+   "example": {
+    "en": "My dad <b>does the gardening</b> on Sundays.",
+    "vi": "Bố tôi <b>làm vườn</b> vào Chủ nhật."
+   }
+  },
+  {
+   "word": "do the washing",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌduː ðə ˈwɒʃɪŋ/",
+   "def_en": "To wash clothes.",
+   "def_vi": "Giặt quần áo.",
+   "gloss_vi": "giặt giũ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Do the washing</i> (verb phrase) = giặt giũ. <b>Grammar</b>: <i>do the washing</i>. <b>Common mistakes</b>: không nói <i>make the washing</i>.",
+   "example": {
+    "en": "A: Did you <b>do the washing</b> this morning?",
+    "vi": "Sáng nay bạn <b>đã giặt đồ</b> chưa?"
+   }
+  },
+  {
+   "word": "do the washing-up",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌduː ðə ˌwɒʃɪŋ ˈʌp/",
+   "def_en": "To wash the plates, cups and pans after a meal.",
+   "def_vi": "Rửa bát đĩa sau bữa ăn.",
+   "gloss_vi": "rửa bát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Do the washing-up</i> (verb phrase) = rửa bát. <b>Grammar</b>: Anh–Anh; <i>washing-up</i> có gạch nối.",
+   "ex_kit": true,
+   "example": {
+    "en": "I’ll cook if you <b>do the washing-up</b>.",
+    "vi": "Tôi nấu, bạn <b>rửa bát</b> nhé."
+   }
+  },
+  {
+   "word": "do some exercises",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌduː səm ˈeksəsaɪzɪz/",
+   "def_en": "To do physical movements to stay fit.",
+   "def_vi": "Tập vài động tác để giữ dáng.",
+   "gloss_vi": "tập thể dục",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Do some exercises</i> (verb phrase) = tập thể dục. <b>Grammar</b>: <i>do exercises</i> (tập thể dục, làm bài tập).",
+   "ex_kit": true,
+   "example": {
+    "en": "I <b>do some exercises</b> every morning.",
+    "vi": "Tôi <b>tập thể dục</b> mỗi sáng."
+   }
+  },
+  {
+   "word": "do business with",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌduː ˈbɪznəs wɪð/",
+   "def_en": "To buy from or sell to a company or country.",
+   "def_vi": "Mua bán, làm ăn với công ty hay nước nào.",
+   "gloss_vi": "làm ăn với",
+   "synonyms": "trade with <i>(vp. buôn bán với)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Do business with</i> (verb phrase) = làm ăn với. <b>Grammar</b>: <i>do (a lot of) business with sb</i>.",
+   "example": {
+    "en": "Our company <b>does a lot of business with</b> the US.",
+    "vi": "Công ty chúng tôi <b>làm ăn rất nhiều với</b> Mỹ."
+   }
+  },
+  {
+   "word": "do your best",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌduː jə ˈbest/",
+   "def_en": "To try as hard as you can.",
+   "def_vi": "Cố gắng hết sức.",
+   "gloss_vi": "cố hết sức",
+   "synonyms": "try your best <i>(vp. cố hết sức)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Do your best</i> (verb phrase) = cố hết sức. <b>Grammar</b>: dùng tính từ sở hữu: <i>do my/your best</i>.",
+   "example": {
+    "en": "(See Unit 14: Jobs.) do the housework do the gardening do the washing do the washing-up do your homework do some exercises do business with <b>do your best</b>",
+    "vi": "Bài tập rất khó – chỉ cần <b>cố hết sức</b> thôi."
+   }
+  }
+ ]
+}
