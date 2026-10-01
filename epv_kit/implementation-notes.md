@@ -22,6 +22,7 @@
 | 11 | Int 1–10 | 177 mục / 354 thẻ + 10 note lý thuyết (+ Contents) + 177 audio | build 1429 note / 2785 thẻ, 0 bad renders, audio 1009/1009 |
 | 12 | Int 11–15 | 77 mục / 154 thẻ + 5 note lý thuyết + 77 audio | build 1511 note / 2944 thẻ, 0 bad renders, audio 1086/1086 |
 | 13 | Int 16–20 | 81 mục / 162 thẻ + 5 note lý thuyết + 81 audio | build 1597 note / 3111 thẻ, 0 bad renders, audio 1167/1167 |
+| 14 | Int 21–25 | 70 mục / 140 thẻ + 5 note lý thuyết + 70 audio | build 1672 note / 3256 thẻ, 0 bad renders, audio 1237/1237 |
 
 ## Quyết định (xem PROMPT.md §3)
 D1 thứ tự Adv 16→60 → bổ sung demo → Int 1→70 · D2 IPA chuẩn Anh (config.ipa_style) · D3 1 deck gốc `English Phrasal Verbs in Use` → `Advanced`/`Intermediate` · D4 thẻ demo chỉ có ở bản 1: giữ + tag `EPV::demo_ban1` · D5 audio **bắt buộc**: Kokoro TTS offline, giọng Anh–Anh nam `bm_george` (sửa từ lượt 1c; trước đó để trống) · D6 chọn mục theo Mini dictionary + cụm in đậm.
@@ -180,7 +181,13 @@ D1 thứ tự Adv 16→60 → bổ sung demo → Int 1→70 · D2 IPA chuẩn An
 - Int 19: `rely on / depend on / count on` ba thẻ riêng (Mini có ba mục, cùng nhóm nghĩa) – grammar ghi chú dùng như nhau. `go for` (u8 chọn / u19 cố giành) và `deal with` (nói về) có sense.
 - Int 20: `call / phone / text somebody back` ba thẻ (Mini có mục riêng; `ring back` đã có ở u1); `bounce back` hai nghĩa (email / hồi phục – nghĩa sau chỉ có định nghĩa trên trang, ví dụ do kit đặt); `bite back` hai nghĩa (đáp trả / kìm lời).
 
+**Lượt 14 (Intermediate 21–25)**
+- Mục chỉ có ở bài tập kèm định nghĩa vẫn làm thẻ: `keep away` (21.4e). `be cut off` (u24 – xa xôi, biệt lập) tách khỏi `cut off sb/sth` (u2 – chặn đường); `call back` (u24 – ghé lại) tách khỏi `call sb back` (u20 – gọi điện lại); `leftover` n. (u23 – vật sót lại từ thời trước) tách khỏi `leftovers` (u4 – đồ ăn thừa); `take somebody back` (u23 – gợi nhớ).
+- Thêm `tools/copy12.py`: in các cụm ≥12 từ của lý thuyết trùng src để sửa nhanh cảnh báo §3.
+- Định nghĩa tiếng Anh: nhiều mục ngắn bị check báo ‘gần như chép Mini dictionary’ → viết lại toàn bộ theo lời kit (u21–u25).
+
 ## Kiểm trôi
+- Lượt 14: soát Int 21–25 khi viết (ảnh trang + đáp án); context_score từng unit, viết lại câu bối cảnh tự đặt (u21 burst into/buy into/tidy away, u22 while away, u23 leftover/bygone/be left over, u25 set off ×2/pay back). Không phát hiện lệch nghĩa.
 - Lượt 13: soát Int 16–20 khi viết (ảnh trang + đáp án); context_score từng unit, viết lại câu bối cảnh tự đặt (u16 put on/count on/pass on, u17 load down/stay over/get over, u18 laze about/mess around/show around, u19 7 câu, u20 bite back); sửa 1 đoạn lý thuyết u20 trùng 13 từ với sách. Không phát hiện lệch nghĩa.
 - Lượt 12: soát Int 11–15 khi viết (ảnh trang + đáp án); context_score từng unit, viết lại các câu bối cảnh tự đặt (u12 take apart/aside, u13 use up, u14 spread out, u15 sell off/run off ×2/put off/off-putting). Không phát hiện lệch.
 - Lượt 11: soát Int 6–10 khi viết (xem ảnh trang + đáp án từng unit); kiểm lại u7 & u9: thẻ đã có ở unit trước (get on ×2, get away, get away with; look after/down on/forward to/up ×3/over/on) chỉ nhắc trong lý thuyết, không tạo thẻ trùng. Không phát hiện lệch.
