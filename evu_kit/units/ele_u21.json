@@ -1,0 +1,379 @@
+{
+ "book": "ele",
+ "unit": 21,
+ "title_vi": "Ở khách sạn",
+ "theory_html": "<p><b>A. Places and things in the hotel</b><br><i>A. Nơi chốn và đồ vật trong khách sạn</i></p> <ul><li><b>form, reception, lift, key, bathroom, shower, TV, luggage, phone, bill, mini-bar, hairdryer</b> – <i>tờ khai, quầy lễ tân, thang máy, chìa khóa, phòng tắm, vòi sen, ti vi, hành lý, điện thoại, hóa đơn, tủ lạnh mini, máy sấy tóc</i></li></ul> <p><b>B. Expressions in reception</b><br><i>B. Cách nói ở quầy lễ tân</i></p> <p>Guest: <b>Do you have a single / double room? I have a reservation. We’d like a room with a view.</b> Receptionist: <b>Here is your key. Your room is on the first floor. Take the lift. Would you like some help with your luggage? Can you fill in this form? Sign here. Please check your bill.</b> Leaving: <b>Can I check out? Can I have the bill?</b></p><p><i>Khách: <b>Còn phòng đơn / đôi không? Tôi đã đặt phòng. Chúng tôi muốn phòng có view.</b> Lễ tân: <b>Chìa khóa của anh đây. Phòng ở tầng một. Đi thang máy. Anh cần giúp mang hành lý không? Điền vào mẫu này. Ký tên ở đây. Kiểm tra hóa đơn.</b> Khi đi: <b>Tôi trả phòng được không?</b></i></p> <p><b>C. Asking about hotel services</b><br><i>C. Hỏi về dịch vụ</i></p> <p><b>How much is a single room with a bathroom? Can I order room service? How do I get an outside line? What is the code for Poland? Can I have breakfast in my room / a wake-up call at 6.30? What time is breakfast? Can I (ex)change some money?</b></p><p><i><b>Phòng đơn có phòng tắm giá bao nhiêu? Gọi dịch vụ phòng được không? Gọi ra ngoài thế nào? Mã gọi Ba Lan là gì? Ăn sáng tại phòng / gọi báo thức lúc 6:30 được không? Mấy giờ ăn sáng? Đổi tiền được không?</b></i></p>",
+ "items": [
+  {
+   "word": "form",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/fɔːm/",
+   "def_en": "A document with spaces where you write information.",
+   "def_vi": "Giấy tờ có chỗ trống để điền thông tin.",
+   "gloss_vi": "mẫu đơn, tờ khai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Form</i> (noun) = mẫu đơn, tờ khai. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>fill in a form</i> (điền mẫu đơn).",
+   "example": {
+    "en": "Can you fill in this <b>form</b>, please?",
+    "vi": "Anh điền vào <b>mẫu</b> này giúp được không?"
+   }
+  },
+  {
+   "word": "reception",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/rɪˈsepʃn/",
+   "def_en": "The place in a hotel where you arrive and get your key.",
+   "def_vi": "Nơi trong khách sạn khách đến làm thủ tục, nhận chìa khóa.",
+   "gloss_vi": "quầy lễ tân",
+   "synonyms": "front desk <i>(np. quầy lễ tân (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reception</i> (uncountable noun) = quầy lễ tân. <b>Grammar</b>: <i>at reception</i> thường không có <i>the</i>. <b>Word family</b>: <i>receptionist</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "Leave your key at <b>reception</b> when you go out.",
+    "vi": "Để chìa khóa ở <b>quầy lễ tân</b> khi bạn ra ngoài."
+   }
+  },
+  {
+   "word": "lift",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/lɪft/",
+   "def_en": "A machine that carries people up and down in a building.",
+   "def_vi": "Máy đưa người lên xuống trong tòa nhà.",
+   "gloss_vi": "thang máy",
+   "synonyms": "elevator <i>(n. thang máy (Mỹ))</i>",
+   "antonyms": "stairs <i>(pn. cầu thang)</i>",
+   "grammar_vi": "<i>Lift</i> (noun) = thang máy. <b>Grammar</b>: Anh–Anh; <i>take the lift</i> (đi thang máy).",
+   "example": {
+    "en": "Take the <b>lift</b>.",
+    "vi": "Đi <b>thang máy</b>. Nó ở đằng kia."
+   }
+  },
+  {
+   "word": "key",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kiː/",
+   "def_en": "A piece of metal or a card used to open a door.",
+   "def_vi": "Miếng kim loại hay thẻ dùng mở cửa.",
+   "gloss_vi": "chìa khóa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Key</i> (noun) = chìa khóa. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>room key</i> (chìa khóa phòng), <i>key card</i> (thẻ từ).",
+   "example": {
+    "en": "The receptionist may say: Here is your <b>key</b>.",
+    "vi": "Chìa <b>khóa</b> của anh đây."
+   }
+  },
+  {
+   "word": "bathroom",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɑːθruːm/",
+   "def_en": "A room with a bath or shower, a basin and often a toilet.",
+   "def_vi": "Phòng có bồn tắm hoặc vòi sen, bồn rửa và thường có bồn cầu.",
+   "gloss_vi": "phòng tắm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bathroom</i> (noun) = phòng tắm. <b>Grammar</b>: đếm được; Anh–Anh đọc /ˈbɑːθruːm/. <b>Collocations / chunks</b>: <i>with a bathroom</i> (có phòng tắm riêng).",
+   "example": {
+    "en": "How much is a single room with a <b>bathroom</b>?",
+    "vi": "Phòng đơn có <b>phòng tắm</b> riêng giá bao nhiêu?"
+   }
+  },
+  {
+   "word": "bill",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bɪl/",
+   "def_en": "A piece of paper that shows how much you must pay.",
+   "def_vi": "Giấy ghi số tiền phải trả.",
+   "gloss_vi": "hóa đơn",
+   "synonyms": "check <i>(n. hóa đơn (Mỹ, nhà hàng))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bill</i> (noun) = hóa đơn. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>check your bill</i> (kiểm tra hóa đơn), <i>pay the bill</i> (thanh toán).",
+   "example": {
+    "en": "Please check your <b>bill</b> [make sure it is correct].",
+    "vi": "Cho tôi xin <b>hóa đơn</b> nhé?"
+   }
+  },
+  {
+   "word": "mini-bar",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɪni bɑː(r)/",
+   "def_en": "A small fridge in a hotel room with drinks and snacks.",
+   "def_vi": "Tủ lạnh nhỏ trong phòng khách sạn có đồ uống, đồ ăn vặt.",
+   "gloss_vi": "tủ lạnh mini (minibar)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mini-bar</i> (noun) = tủ lạnh mini (minibar). <b>Grammar</b>: đếm được; cũng viết <i>minibar</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The drinks in the <b>mini-bar</b> are very expensive.",
+    "vi": "Đồ uống trong <b>minibar</b> rất đắt."
+   }
+  },
+  {
+   "word": "hairdryer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈheədraɪə(r)/",
+   "def_en": "A machine that dries your hair with hot air.",
+   "def_vi": "Máy thổi khí nóng làm khô tóc.",
+   "gloss_vi": "máy sấy tóc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hairdryer</i> (noun) = máy sấy tóc. <b>Grammar</b>: đếm được; danh từ ghép.",
+   "ex_kit": true,
+   "example": {
+    "en": "Is there a <b>hairdryer</b> in the room?",
+    "vi": "Phòng có <b>máy sấy tóc</b> không?"
+   }
+  },
+  {
+   "word": "single room",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌsɪŋɡl ˈruːm/",
+   "def_en": "A hotel room for one person.",
+   "def_vi": "Phòng khách sạn cho một người.",
+   "gloss_vi": "phòng đơn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "double room <i>(np. phòng đôi)</i>",
+   "grammar_vi": "<i>Single room</i> (noun phrase) = phòng đơn. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>book a single room</i> (đặt phòng đơn).",
+   "example": {
+    "en": "Do you have a <b>single room</b> [for one person] / a double room [for two people]?",
+    "vi": "Anh còn <b>phòng đơn</b> không?"
+   }
+  },
+  {
+   "word": "double room",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌdʌbl ˈruːm/",
+   "def_en": "A hotel room for two people.",
+   "def_vi": "Phòng khách sạn cho hai người.",
+   "gloss_vi": "phòng đôi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "single room <i>(np. phòng đơn)</i>",
+   "grammar_vi": "<i>Double room</i> (noun phrase) = phòng đôi. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Do you have a single room [for one person] / a <b>double room</b> [for two people]?",
+    "vi": "Anh còn phòng đơn hay <b>phòng đôi</b> không?"
+   }
+  },
+  {
+   "word": "reservation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌrezəˈveɪʃn/",
+   "def_en": "An arrangement to have a hotel room kept for you.",
+   "def_vi": "Việc đặt giữ phòng trước.",
+   "gloss_vi": "sự đặt phòng",
+   "synonyms": "booking <i>(n. đặt chỗ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reservation</i> (noun) = sự đặt phòng. <b>Grammar</b>: <i>have/make a reservation</i>. <b>Word family</b>: <i>reserve</i> (v.).",
+   "example": {
+    "en": "I have a <b>reservation</b>. [I booked a room] My name is …",
+    "vi": "Tôi đã <b>đặt phòng</b>. Tên tôi là…"
+   }
+  },
+  {
+   "word": "room with a view",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌruːm wɪð ə ˈvjuː/",
+   "def_en": "A room from which you can see something beautiful.",
+   "def_vi": "Phòng nhìn ra cảnh đẹp.",
+   "gloss_vi": "phòng có tầm nhìn đẹp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Room with a view</i> (noun phrase) = phòng có tầm nhìn đẹp. <b>Grammar</b>: <i>a room with a view of</i> + cảnh.",
+   "example": {
+    "en": "We’d like a <b>room with a view</b> of the sea.",
+    "vi": "Chúng tôi muốn một <b>phòng nhìn ra</b> biển."
+   }
+  },
+  {
+   "word": "on the first floor",
+   "sense": "",
+   "pos": "prepositional phrase",
+   "ipa": "/ɒn ðə ˌfɜːst ˈflɔː(r)/",
+   "def_en": "On the floor above the ground floor (British English).",
+   "def_vi": "Ở tầng trên tầng trệt (Anh–Anh).",
+   "gloss_vi": "ở tầng một (tầng 2 kiểu Việt)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>On the first floor</i> (prepositional phrase) = ở tầng một (tầng 2 kiểu Việt). <b>Grammar</b>: dùng <i>on</i> với tầng. <b>Note</b>: Anh–Anh: <i>ground floor</i> = tầng trệt, <i>first floor</i> = tầng trên đó.",
+   "example": {
+    "en": "Your room is <b>on the first floor</b>.",
+    "vi": "Phòng của anh <b>ở tầng một</b>."
+   }
+  },
+  {
+   "word": "take the lift",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌteɪk ðə ˈlɪft/",
+   "def_en": "To use the lift to go up or down.",
+   "def_vi": "Dùng thang máy lên xuống.",
+   "gloss_vi": "đi thang máy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "take the stairs <i>(vp. đi thang bộ)</i>",
+   "grammar_vi": "<i>Take the lift</i> (verb phrase) = đi thang máy. <b>Grammar</b>: <i>take</i> + phương tiện.",
+   "example": {
+    "en": "<b>Take the lift</b>.",
+    "vi": "Phòng ở tầng một. <b>Đi thang máy</b>."
+   }
+  },
+  {
+   "word": "over there",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌəʊvə ˈðeə(r)/",
+   "def_en": "In that place, not near you.",
+   "def_vi": "Ở chỗ kia, không gần bạn.",
+   "gloss_vi": "đằng kia",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "over here <i>(adv. đằng này)</i>",
+   "grammar_vi": "<i>Over there</i> (adverb) = đằng kia. <b>Grammar</b>: cụm trạng từ chỉ nơi chốn.",
+   "example": {
+    "en": "It’s <b>over there</b>.",
+    "vi": "Đi thang máy. Nó ở <b>đằng kia</b>."
+   }
+  },
+  {
+   "word": "fill in",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌfɪl ˈɪn/",
+   "def_en": "To write information in the spaces on a form.",
+   "def_vi": "Viết thông tin vào chỗ trống trên mẫu đơn.",
+   "gloss_vi": "điền vào",
+   "synonyms": "complete <i>(v. điền đầy đủ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fill in</i> (phrasal verb) = điền vào. <b>Grammar</b>: tách được: <i>fill in a form / fill it in</i>.",
+   "example": {
+    "en": "Can you <b>fill in</b> this form, please?",
+    "vi": "Anh <b>điền vào</b> mẫu này giúp được không?"
+   }
+  },
+  {
+   "word": "sign",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/saɪn/",
+   "def_en": "To write your name on a document.",
+   "def_vi": "Viết tên mình lên giấy tờ.",
+   "gloss_vi": "ký tên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sign</i> (verb) = ký tên. <b>Grammar</b>: chữ <i>g</i> câm /saɪn/. <b>Word family</b>: <i>signature</i> (n. chữ ký).",
+   "example": {
+    "en": "<b>Sign</b> (your name) here, please. [write your name]",
+    "vi": "<b>Ký tên</b> ở đây giúp."
+   }
+  },
+  {
+   "word": "check out",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌtʃek ˈaʊt/",
+   "def_en": "To pay your bill and leave a hotel.",
+   "def_vi": "Thanh toán và rời khách sạn.",
+   "gloss_vi": "trả phòng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "check in <i>(pv. nhận phòng)</i>",
+   "grammar_vi": "<i>Check out</i> (phrasal verb) = trả phòng. <b>Grammar</b>: nội động từ; <i>check out of a hotel</i>. <b>Word family</b>: <i>checkout</i> (n.).",
+   "example": {
+    "en": "When you leave you say: Can I <b>check out</b>, please?",
+    "vi": "Tôi <b>trả phòng</b> được không?"
+   }
+  },
+  {
+   "word": "room service",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈruːm sɜːvɪs/",
+   "def_en": "A hotel service that brings food and drink to your room.",
+   "def_vi": "Dịch vụ mang đồ ăn uống lên phòng.",
+   "gloss_vi": "dịch vụ phòng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Room service</i> (noun phrase) = dịch vụ phòng. <b>Grammar</b>: không đếm được: <i>order room service</i>.",
+   "example": {
+    "en": "Can I order <b>room service</b>?",
+    "vi": "Tôi gọi <b>dịch vụ phòng</b> được không?"
+   }
+  },
+  {
+   "word": "get an outside line",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡet ən ˌaʊtsaɪd ˈlaɪn/",
+   "def_en": "To be able to phone someone who is not in the hotel.",
+   "def_vi": "Có thể gọi điện ra ngoài khách sạn.",
+   "gloss_vi": "gọi ra ngoài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get an outside line</i> (verb phrase) = gọi ra ngoài. <b>Grammar</b>: dùng trong khách sạn, văn phòng.",
+   "example": {
+    "en": "How do I <b>get an outside line</b>?",
+    "vi": "Làm sao để <b>gọi ra ngoài</b>?"
+   }
+  },
+  {
+   "word": "code",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəʊd/",
+   "def_en": "The numbers you dial before a phone number for another country or area.",
+   "def_vi": "Dãy số bấm trước số điện thoại của nước hay vùng khác.",
+   "gloss_vi": "mã vùng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Code</i> (noun) = mã vùng. <b>Grammar</b>: <i>the code for</i> + nước. <b>Collocations / chunks</b>: <i>country code</i> (mã quốc gia).",
+   "example": {
+    "en": "What is the <b>code</b> for Poland?",
+    "vi": "<b>Mã gọi</b> Ba Lan là gì?"
+   }
+  },
+  {
+   "word": "wake-up call",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈweɪk ʌp kɔːl/",
+   "def_en": "A phone call that a hotel makes to wake you at a particular time.",
+   "def_vi": "Cuộc gọi khách sạn đánh thức bạn đúng giờ.",
+   "gloss_vi": "cuộc gọi báo thức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wake-up call</i> (noun phrase) = cuộc gọi báo thức. <b>Grammar</b>: <i>have/ask for a wake-up call</i>. <b>Word family</b>: <i>wake up</i> (v.).",
+   "example": {
+    "en": "Can I have a <b>wake-up call</b> at 6.30, please?",
+    "vi": "Cho tôi <b>gọi báo thức</b> lúc 6 giờ 30 nhé?"
+   }
+  },
+  {
+   "word": "exchange",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪksˈtʃeɪndʒ/",
+   "def_en": "To give money of one country and get money of another country.",
+   "def_vi": "Đổi tiền nước này lấy tiền nước khác.",
+   "gloss_vi": "đổi (tiền)",
+   "synonyms": "change <i>(v. đổi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Exchange</i> (verb) = đổi (tiền). <b>Grammar</b>: <i>(ex)change money</i>; danh từ <i>exchange rate</i> (tỉ giá).",
+   "example": {
+    "en": "Can I <b>(ex)change</b> some money, please?",
+    "vi": "Tôi <b>đổi</b> ít tiền được không?"
+   }
+  }
+ ]
+}

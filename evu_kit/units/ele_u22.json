@@ -1,0 +1,347 @@
+{
+ "book": "ele",
+ "unit": 22,
+ "title_vi": "Ăn ngoài",
+ "theory_html": "<p><b>A. Places where you can eat</b><br><i>A. Nơi có thể ăn uống</i></p> <ul><li><b>café</b> – tea or coffee and a <b>snack</b>, sometimes <b>meals</b>; <b>restaurant</b> – for a meal, more expensive; <b>bar / pub</b> – <b>alcohol</b> and <b>soft drinks</b>, often meals; <b>fast food restaurant</b> – a quick hot meal; <b>take-away</b> – buy food and take it home – <i>quán cà phê – trà, cà phê, đồ ăn nhẹ; nhà hàng – bữa chính, đắt hơn; quán bar / quán rượu – đồ uống có cồn, nước ngọt; nhà hàng ăn nhanh; tiệm bán mang về</i></li></ul> <p><b>B. In a restaurant</b><br><i>B. Trong nhà hàng</i></p> <p>A menu has <b>starters</b> (soup, salad), <b>main courses</b> (steak, curry, salmon) and <b>desserts</b> (ice cream, apple pie); (v) = vegetarian.</p><p><i>Thực đơn gồm <b>món khai vị</b>, <b>món chính</b> và <b>món tráng miệng</b>; (v) = món chay.</i></p> <p><b>C. Expressions</b><br><i>C. Cách nói</i></p> <p><b>Are you ready to order? – I’d like the steak. – How would you like it: rare, medium or well-done? – What would you like to drink? – I’ll have a coke. – Is everything all right? – It’s delicious. – Could I have the bill, please?</b></p><p><i><b>Quý khách gọi món chưa? – Tôi lấy bít tết. – Chín tái, vừa hay chín kỹ? – Uống gì ạ? – Cho tôi coca. – Mọi thứ ổn chứ? – Ngon lắm. – Cho tôi hóa đơn.</b></i></p>",
+ "items": [
+  {
+   "word": "café",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkæfeɪ/",
+   "def_en": "A place where you can have a drink and a snack.",
+   "def_vi": "Nơi uống nước và ăn nhẹ.",
+   "gloss_vi": "quán cà phê",
+   "synonyms": "coffee shop <i>(np. quán cà phê)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Café</i> (noun) = quán cà phê. <b>Grammar</b>: đếm được; trọng âm âm đầu /ˈkæfeɪ/.",
+   "example": {
+    "en": "<b>café</b>: you can have a cup of tea / coffee and a snack there.",
+    "vi": "Ở <b>quán cà phê</b> bạn có thể uống trà hoặc cà phê và ăn nhẹ."
+   }
+  },
+  {
+   "word": "snack",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/snæk/",
+   "def_en": "A small amount of food eaten between meals.",
+   "def_vi": "Lượng nhỏ thức ăn giữa các bữa.",
+   "gloss_vi": "đồ ăn nhẹ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "meal <i>(n. bữa ăn)</i>",
+   "grammar_vi": "<i>Snack</i> (noun) = đồ ăn nhẹ. <b>Grammar</b>: đếm được; <i>have a snack</i> (ăn nhẹ).",
+   "example": {
+    "en": "café: you can have a cup of tea / coffee and a <b>snack</b> there (e.g. a sandwich or a cake).",
+    "vi": "Ở quán cà phê bạn có thể uống trà hoặc cà phê và ăn <b>đồ nhẹ</b> (ví dụ bánh mì kẹp hay bánh ngọt)."
+   }
+  },
+  {
+   "word": "meals",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/miːlz/",
+   "def_en": "Occasions when you eat food, such as lunch or dinner.",
+   "def_vi": "Bữa ăn như bữa trưa, bữa tối.",
+   "gloss_vi": "bữa ăn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "snack <i>(n. đồ ăn nhẹ)</i>",
+   "grammar_vi": "<i>Meals</i> (plural noun) = bữa ăn. <b>Grammar</b>: số ít <i>a meal</i>; <i>have a meal</i> (ăn một bữa).",
+   "example": {
+    "en": "They sometimes serve <b>meals</b> too (e.g. lunch, dinner).",
+    "vi": "Đôi khi họ phục vụ cả <b>bữa ăn</b> (ví dụ bữa trưa, bữa tối)."
+   }
+  },
+  {
+   "word": "bar",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bɑː(r)/",
+   "def_en": "A place where you can buy and drink alcohol and other drinks.",
+   "def_vi": "Nơi mua và uống rượu bia, đồ uống.",
+   "gloss_vi": "quán bar",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bar</i> (noun) = quán bar. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>in a bar</i> (trong quán bar).",
+   "example": {
+    "en": "<b>bar</b> / pub: bars and pubs serve alcohol and soft drinks.",
+    "vi": "<b>Quán bar</b> và quán rượu phục vụ đồ uống có cồn và nước ngọt."
+   }
+  },
+  {
+   "word": "pub",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pʌb/",
+   "def_en": "A British bar where people drink and often eat.",
+   "def_vi": "Quán rượu kiểu Anh, có thể ăn uống.",
+   "gloss_vi": "quán rượu (kiểu Anh)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pub</i> (noun) = quán rượu (kiểu Anh). <b>Grammar</b>: đếm được; Anh–Anh. <b>Collocations / chunks</b>: <i>go to the pub</i> (ra quán rượu).",
+   "example": {
+    "en": "bar / <b>pub</b>: bars and pubs serve alcohol and soft drinks.",
+    "vi": "Quán bar và <b>quán rượu</b> phục vụ đồ uống có cồn và nước ngọt."
+   }
+  },
+  {
+   "word": "alcohol",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈælkəhɒl/",
+   "def_en": "Drinks such as beer and wine that can make people drunk.",
+   "def_vi": "Đồ uống như bia, rượu có thể làm say.",
+   "gloss_vi": "đồ uống có cồn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "soft drinks <i>(pn. nước ngọt)</i>",
+   "grammar_vi": "<i>Alcohol</i> (uncountable noun) = đồ uống có cồn. <b>Grammar</b>: không đếm được. <b>Word family</b>: <i>alcoholic</i> (adj.).",
+   "example": {
+    "en": "bars and pubs serve <b>alcohol</b> and soft drinks.",
+    "vi": "Quán bar và quán rượu phục vụ <b>đồ uống có cồn</b> và nước ngọt."
+   }
+  },
+  {
+   "word": "soft drinks",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˌsɒft ˈdrɪŋks/",
+   "def_en": "Cold drinks without alcohol, such as fruit juice or cola.",
+   "def_vi": "Đồ uống lạnh không cồn như nước ép, cola.",
+   "gloss_vi": "nước ngọt, đồ uống không cồn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "alcohol <i>(un. đồ uống có cồn)</i>",
+   "grammar_vi": "<i>Soft drinks</i> (plural noun) = nước ngọt, đồ uống không cồn. <b>Grammar</b>: số ít <i>a soft drink</i>.",
+   "example": {
+    "en": "bars and pubs serve alcohol and <b>soft drinks</b>.",
+    "vi": "Quán bar và quán rượu phục vụ đồ uống có cồn và <b>nước ngọt</b>."
+   }
+  },
+  {
+   "word": "fast food restaurant",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌfɑːst fuːd ˈrestrɒnt/",
+   "def_en": "A restaurant where you can get a quick hot meal, for example a burger.",
+   "def_vi": "Nhà hàng có bữa nóng nhanh, như burger.",
+   "gloss_vi": "nhà hàng thức ăn nhanh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fast food restaurant</i> (noun phrase) = nhà hàng thức ăn nhanh. <b>Grammar</b>: danh từ ghép.",
+   "example": {
+    "en": "<b>fast food restaurant</b>: you can get a quick hot meal there.",
+    "vi": "Ở <b>nhà hàng thức ăn nhanh</b> bạn có thể mua một bữa nóng nhanh."
+   }
+  },
+  {
+   "word": "take-away",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈteɪk əweɪ/",
+   "def_en": "A shop where you buy food to take home and eat.",
+   "def_vi": "Tiệm bán đồ ăn mang về nhà.",
+   "gloss_vi": "tiệm đồ ăn mang về",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take-away</i> (noun) = tiệm đồ ăn mang về. <b>Grammar</b>: đếm được; Anh–Anh, cũng viết <i>takeaway</i>; Mỹ: <i>takeout</i>.",
+   "example": {
+    "en": "<b>take-away</b>: you buy a snack or a meal there and take it home to eat.",
+    "vi": "Ở <b>tiệm mang về</b> bạn mua đồ ăn rồi mang về nhà ăn."
+   }
+  },
+  {
+   "word": "starters",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈstɑːtəz/",
+   "def_en": "Small dishes that you eat at the start of a meal.",
+   "def_vi": "Món nhỏ ăn đầu bữa.",
+   "gloss_vi": "món khai vị",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "desserts <i>(pn. món tráng miệng)</i>",
+   "grammar_vi": "<i>Starters</i> (plural noun) = món khai vị. <b>Grammar</b>: số ít <i>a starter</i>; Anh–Anh.",
+   "ex_kit": true,
+   "example": {
+    "en": "For <b>starters</b> there’s soup of the day or a mixed salad.",
+    "vi": "Món <b>khai vị</b> gồm súp trong ngày và salad trộn."
+   }
+  },
+  {
+   "word": "main courses",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˌmeɪn ˈkɔːsɪz/",
+   "def_en": "The biggest dishes of a meal.",
+   "def_vi": "Món chính của bữa ăn.",
+   "gloss_vi": "món chính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Main courses</i> (plural noun) = món chính. <b>Grammar</b>: số ít <i>a main course</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I chose the steak from the <b>main courses</b>.",
+    "vi": "Tôi chọn bít tết làm <b>món chính</b>."
+   }
+  },
+  {
+   "word": "desserts",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/dɪˈzɜːts/",
+   "def_en": "Sweet food eaten at the end of a meal.",
+   "def_vi": "Món ngọt ăn cuối bữa.",
+   "gloss_vi": "món tráng miệng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "starters <i>(pn. món khai vị)</i>",
+   "grammar_vi": "<i>Desserts</i> (plural noun) = món tráng miệng. <b>Grammar</b>: số ít <i>a dessert</i> /dɪˈzɜːt/. <b>Common mistakes</b>: khác <i>desert</i> /ˈdezət/ (sa mạc).",
+   "ex_kit": true,
+   "example": {
+    "en": "Apple pie is my favourite of the <b>desserts</b>.",
+    "vi": "Bánh táo là <b>món tráng miệng</b> yêu thích của tôi."
+   }
+  },
+  {
+   "word": "ready to order",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌredi tʊ ˈɔːdə(r)/",
+   "def_en": "Ready to tell the waiter what you want to eat.",
+   "def_vi": "Sẵn sàng gọi món.",
+   "gloss_vi": "sẵn sàng gọi món",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ready to order</i> (phrase) = sẵn sàng gọi món. <b>Grammar</b>: <i>be ready to order</i>. <b>Collocations / chunks</b>: <i>Are you ready to order?</i>.",
+   "example": {
+    "en": "Waiter Are you <b>ready to order</b>?",
+    "vi": "Quý khách <b>đã sẵn sàng gọi món</b> chưa?"
+   }
+  },
+  {
+   "word": "I’d like",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/aɪd ˈlaɪk/",
+   "def_en": "A polite way of saying what you want.",
+   "def_vi": "Cách lịch sự nói điều mình muốn.",
+   "gloss_vi": "tôi muốn",
+   "synonyms": "I’ll have <i>(phr. tôi lấy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>I’d like</i> (phrase) = tôi muốn. <b>Grammar</b>: <i>I’d like</i> = <i>I would like</i> + danh từ / to V.",
+   "example": {
+    "en": "Customer Yes, <b>I’d like</b> the steak, please.",
+    "vi": "Vâng, <b>tôi lấy</b> món bít tết."
+   }
+  },
+  {
+   "word": "rare",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/reə(r)/",
+   "def_en": "Cooked for only a short time, so the inside is red.",
+   "def_vi": "Nấu chín rất ít, bên trong còn đỏ.",
+   "gloss_vi": "(thịt) tái",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "well-done <i>(adj. chín kỹ)</i>",
+   "grammar_vi": "<i>Rare</i> (adjective) = (thịt) tái. <b>Grammar</b>: dùng cho bít tết. <b>Common mistakes</b>: <i>rare</i> còn nghĩa hiếm.",
+   "example": {
+    "en": "Waiter How would you like your steak - <b>rare</b>, medium or well-done?",
+    "vi": "Anh muốn bít tết thế nào – <b>tái</b>, vừa hay chín kỹ?"
+   }
+  },
+  {
+   "word": "medium",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈmiːdiəm/",
+   "def_en": "Cooked so that the inside is a little pink.",
+   "def_vi": "Nấu chín vừa, bên trong hơi hồng.",
+   "gloss_vi": "(thịt) chín vừa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Medium</i> (adjective) = (thịt) chín vừa. <b>Grammar</b>: dùng cho bít tết; cũng là cỡ vừa.",
+   "example": {
+    "en": "Waiter How would you like your steak - rare, <b>medium</b> or well-done?",
+    "vi": "Anh muốn bít tết thế nào – tái, <b>vừa</b> hay chín kỹ?"
+   }
+  },
+  {
+   "word": "well-done",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌwel ˈdʌn/",
+   "def_en": "Cooked completely.",
+   "def_vi": "Nấu chín hoàn toàn.",
+   "gloss_vi": "chín kỹ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "rare <i>(adj. tái)</i>",
+   "grammar_vi": "<i>Well-done</i> (adjective) = chín kỹ. <b>Grammar</b>: tính từ ghép có gạch nối. <b>Common mistakes</b>: khác lời khen <i>Well done!</i>.",
+   "example": {
+    "en": "Waiter How would you like your steak - rare, medium or <b>well-done</b>?",
+    "vi": "Anh muốn bít tết thế nào – tái, vừa hay <b>chín kỹ</b>?"
+   }
+  },
+  {
+   "word": "I’ll have",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/aɪl ˈhæv/",
+   "def_en": "Used to order food or drink.",
+   "def_vi": "Dùng để gọi đồ ăn uống.",
+   "gloss_vi": "cho tôi",
+   "synonyms": "I’d like <i>(phr. tôi muốn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>I’ll have</i> (phrase) = cho tôi. <b>Grammar</b>: <i>I’ll have</i> + đồ ăn/uống.",
+   "example": {
+    "en": "Customer <b>I’ll have</b> a coke, please.",
+    "vi": "<b>Cho tôi</b> một cốc coca nhé."
+   }
+  },
+  {
+   "word": "Is everything all right?",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪz ˌevriθɪŋ ɔːl ˈraɪt/",
+   "def_en": "A question a waiter asks to check that customers are happy.",
+   "def_vi": "Câu bồi bàn hỏi xem khách hài lòng không.",
+   "gloss_vi": "mọi thứ ổn chứ ạ?",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Is everything all right?</i> (phrase) = mọi thứ ổn chứ ạ?. <b>Grammar</b>: câu hỏi cố định.",
+   "example": {
+    "en": "Waiter <b>Is everything all right</b>?",
+    "vi": "<b>Mọi thứ ổn chứ ạ</b>?"
+   }
+  },
+  {
+   "word": "delicious",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dɪˈlɪʃəs/",
+   "def_en": "Very good to eat or drink.",
+   "def_vi": "Ăn uống rất ngon.",
+   "gloss_vi": "ngon",
+   "synonyms": "tasty <i>(adj. ngon)</i>",
+   "antonyms": "horrible <i>(adj. dở tệ)</i>",
+   "grammar_vi": "<i>Delicious</i> (adjective) = ngon. <b>Grammar</b>: không dùng với <i>very</i> (đã mang nghĩa “rất ngon”); dùng <i>really delicious</i>.",
+   "example": {
+    "en": "Customer Thank you, it’s <b>delicious</b>. [very good]",
+    "vi": "Cảm ơn, <b>ngon lắm</b>."
+   }
+  },
+  {
+   "word": "Could I have the bill?",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/kʊd aɪ ˌhæv ðə ˈbɪl/",
+   "def_en": "A polite way of asking to pay in a restaurant.",
+   "def_vi": "Cách lịch sự xin thanh toán ở nhà hàng.",
+   "gloss_vi": "cho tôi xin hóa đơn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Could I have the bill?</i> (phrase) = cho tôi xin hóa đơn. <b>Grammar</b>: <i>Could I have…?</i> lịch sự hơn <i>Can I have…?</i>.",
+   "example": {
+    "en": "Customer <b>Could I have the bill</b>, please?",
+    "vi": "<b>Cho tôi xin hóa đơn</b> nhé?"
+   }
+  }
+ ]
+}

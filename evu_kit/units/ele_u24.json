@@ -1,0 +1,284 @@
+{
+ "book": "ele",
+ "unit": 24,
+ "title_vi": "Điện ảnh",
+ "theory_html": "<p><b>A. Types of films</b><br><i>A. Thể loại phim</i></p> <ul><li><b>a western, a cartoon, a horror film, a comedy, a thriller, an action film, a science fiction film, a musical, a romantic comedy</b> – <i>phim cao bồi, phim hoạt hình, phim kinh dị, phim hài, phim ly kỳ, phim hành động, phim khoa học viễn tưởng, phim ca nhạc, phim hài lãng mạn</i></li></ul> <p><b>B. People in films</b><br><i>B. Người trong ngành phim</i></p> <p>A <b>film star</b> is <b>in</b> a film; an actor <b>plays</b> a character; films are made <b>by</b> <b>directors</b>.</p><p><i><b>Ngôi sao điện ảnh</b> đóng <b>trong</b> phim; diễn viên <b>đóng vai</b> nhân vật; phim do <b>đạo diễn</b> làm.</i></p> <p><b>C. Expressions</b><br><i>C. Cách nói</i></p> <p><b>Have you seen the latest James Bond film? – Yes, I saw it on TV. Did you like it? – I loved / enjoyed it. / It was boring.</b> Say <b>What’s on at the cinema?</b> and <b>go to the cinema</b> (with <b>the</b>).</p><p><i><b>Bạn xem phim James Bond mới chưa? – Rồi, xem trên ti vi. Thích không? – Rất thích. / Chán lắm.</b> Nói <b>What’s on at the cinema?</b>, <b>go to the cinema</b> (có <b>the</b>).</i></p>",
+ "items": [
+  {
+   "word": "western",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwestən/",
+   "def_en": "A film about cowboys in the west of the USA.",
+   "def_vi": "Phim về cao bồi miền Tây nước Mỹ.",
+   "gloss_vi": "phim cao bồi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Western</i> (noun) = phim cao bồi. <b>Grammar</b>: đếm được: <i>a western</i>. <b>Collocations / chunks</b>: <i>watch a western</i> (xem phim cao bồi).",
+   "example": {
+    "en": "A Do you like <b>westerns</b>?",
+    "vi": "Bạn có thích <b>phim cao bồi</b> không?"
+   }
+  },
+  {
+   "word": "cartoon",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kɑːˈtuːn/",
+   "def_en": "A film made from drawings that seem to move.",
+   "def_vi": "Phim làm từ hình vẽ chuyển động.",
+   "gloss_vi": "phim hoạt hình",
+   "synonyms": "animation <i>(n. phim hoạt hình)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cartoon</i> (noun) = phim hoạt hình. <b>Grammar</b>: đếm được; trọng âm âm 2.",
+   "ex_kit": true,
+   "example": {
+    "en": "The children love watching <b>cartoons</b>.",
+    "vi": "Bọn trẻ thích xem <b>phim hoạt hình</b>."
+   }
+  },
+  {
+   "word": "horror film",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈhɒrə fɪlm/",
+   "def_en": "A film that tries to frighten people.",
+   "def_vi": "Phim cố làm người xem sợ hãi.",
+   "gloss_vi": "phim kinh dị",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Horror film</i> (noun phrase) = phim kinh dị. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: không nói <i>a horror</i>.",
+   "example": {
+    "en": "B If I see a <b>horror film</b>, I can’t sleep.",
+    "vi": "Nếu xem <b>phim kinh dị</b> là tôi không ngủ được."
+   }
+  },
+  {
+   "word": "comedy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɒmədi/",
+   "def_en": "A film that makes people laugh.",
+   "def_vi": "Phim làm người xem cười.",
+   "gloss_vi": "phim hài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Comedy</i> (noun) = phim hài. <b>Grammar</b>: số nhiều <i>comedies</i>. <b>Word family</b>: <i>comedian</i> (n. diễn viên hài).",
+   "example": {
+    "en": "There’s a <b>comedy</b> with Jennifer Aniston.",
+    "vi": "Có một <b>phim hài</b> với Jennifer Aniston."
+   }
+  },
+  {
+   "word": "thriller",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈθrɪlə(r)/",
+   "def_en": "An exciting film about crime or danger.",
+   "def_vi": "Phim hồi hộp về tội phạm, nguy hiểm.",
+   "gloss_vi": "phim ly kỳ, phim giật gân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Thriller</i> (noun) = phim ly kỳ, phim giật gân. <b>Grammar</b>: đếm được. <b>Word family</b>: <i>thrilling</i> (adj. hồi hộp).",
+   "ex_kit": true,
+   "example": {
+    "en": "We watched a good <b>thriller</b> last night.",
+    "vi": "Tối qua chúng tôi xem một <b>phim ly kỳ</b> hay."
+   }
+  },
+  {
+   "word": "action film",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈækʃn fɪlm/",
+   "def_en": "A film with a lot of exciting fights and car chases.",
+   "def_vi": "Phim có nhiều cảnh đánh nhau, rượt đuổi.",
+   "gloss_vi": "phim hành động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Action film</i> (noun phrase) = phim hành động. <b>Grammar</b>: đếm được: <i>an action film</i>.",
+   "example": {
+    "en": "A The best <b>action film</b> I’ve seen was Jason Bourne with Matt Damon.",
+    "vi": "<b>Phim hành động</b> hay nhất tôi từng xem là Jason Bourne với Matt Damon."
+   }
+  },
+  {
+   "word": "science fiction film",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌsaɪəns ˈfɪkʃn fɪlm/",
+   "def_en": "A film about the future or about other worlds.",
+   "def_vi": "Phim về tương lai hoặc thế giới khác.",
+   "gloss_vi": "phim khoa học viễn tưởng",
+   "synonyms": "sci-fi film <i>(np. phim viễn tưởng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Science fiction film</i> (noun phrase) = phim khoa học viễn tưởng. <b>Grammar</b>: đếm được; nói tắt <i>sci-fi</i>.",
+   "example": {
+    "en": "B No, I like <b>science fiction films</b> best.",
+    "vi": "Không, tôi thích <b>phim khoa học viễn tưởng</b> nhất."
+   }
+  },
+  {
+   "word": "musical",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmjuːzɪkl/",
+   "def_en": "A film or play with a lot of singing and dancing.",
+   "def_vi": "Phim hay vở kịch có nhiều hát múa.",
+   "gloss_vi": "phim ca nhạc, nhạc kịch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Musical</i> (noun) = phim ca nhạc, nhạc kịch. <b>Grammar</b>: đếm được khi là danh từ; <i>musical</i> còn là tính từ (thuộc âm nhạc).",
+   "ex_kit": true,
+   "example": {
+    "en": "We saw a <b>musical</b> in London.",
+    "vi": "Chúng tôi đi xem một vở <b>nhạc kịch</b> ở London."
+   }
+  },
+  {
+   "word": "romantic comedy",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/rəʊˌmæntɪk ˈkɒmədi/",
+   "def_en": "A funny film about love.",
+   "def_vi": "Phim hài về tình yêu.",
+   "gloss_vi": "phim hài lãng mạn",
+   "synonyms": "romcom <i>(n. phim hài lãng mạn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Romantic comedy</i> (noun phrase) = phim hài lãng mạn. <b>Grammar</b>: đếm được; nói tắt <i>romcom</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "My sister loves <b>romantic comedies</b>.",
+    "vi": "Chị tôi thích <b>phim hài lãng mạn</b>."
+   }
+  },
+  {
+   "word": "film star",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈfɪlm stɑː(r)/",
+   "def_en": "A famous actor or actress.",
+   "def_vi": "Diễn viên điện ảnh nổi tiếng.",
+   "gloss_vi": "ngôi sao điện ảnh",
+   "synonyms": "movie star <i>(np. ngôi sao điện ảnh (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Film star</i> (noun phrase) = ngôi sao điện ảnh. <b>Grammar</b>: danh từ ghép.",
+   "example": {
+    "en": "Monica Bellucci is a <b>film star</b>.",
+    "vi": "Monica Bellucci là <b>ngôi sao điện ảnh</b>."
+   }
+  },
+  {
+   "word": "be in",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˈbiː ɪn/",
+   "def_en": "To act in a film.",
+   "def_vi": "Đóng trong một bộ phim.",
+   "gloss_vi": "đóng (phim)",
+   "synonyms": "appear in <i>(vp. xuất hiện trong)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be in</i> (verb phrase) = đóng (phim). <b>Grammar</b>: <i>be in a film</i> (đóng phim).",
+   "example": {
+    "en": "She <b>was in</b> the new James Bond film.",
+    "vi": "Cô ấy <b>đóng</b> trong phim James Bond mới."
+   }
+  },
+  {
+   "word": "play",
+   "sense": "act",
+   "pos": "verb",
+   "ipa": "/pleɪ/",
+   "def_en": "To act as a particular character in a film or play.",
+   "def_vi": "Đóng vai một nhân vật trong phim, kịch.",
+   "gloss_vi": "đóng vai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Play</i> (verb) = đóng vai. <b>Grammar</b>: <i>play</i> + nhân vật. <b>Note</b>: khác <i>play</i> (chơi thể thao).",
+   "example": {
+    "en": "Daniel Radcliffe <b>played</b> Harry Potter in the Harry Potter films.",
+    "vi": "Daniel Radcliffe <b>đóng vai</b> Harry Potter trong loạt phim Harry Potter."
+   }
+  },
+  {
+   "word": "directors",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/dəˈrektəz/",
+   "def_en": "People who tell the actors what to do and control how a film is made.",
+   "def_vi": "Người chỉ đạo diễn viên và điều hành làm phim.",
+   "gloss_vi": "đạo diễn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Directors</i> (plural noun) = đạo diễn. <b>Grammar</b>: số ít <i>a director</i>. <b>Word family</b>: <i>direct</i> (v.).",
+   "example": {
+    "en": "I like films by Italian <b>directors</b>.",
+    "vi": "Tôi thích phim của các <b>đạo diễn</b> Ý."
+   }
+  },
+  {
+   "word": "on TV",
+   "sense": "",
+   "pos": "prepositional phrase",
+   "ipa": "/ɒn ˌtiː ˈviː/",
+   "def_en": "Shown on television.",
+   "def_vi": "Được chiếu trên ti vi.",
+   "gloss_vi": "trên ti vi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>On TV</i> (prepositional phrase) = trên ti vi. <b>Grammar</b>: dùng <i>on</i>: <i>on TV, on the radio</i>.",
+   "example": {
+    "en": "B Yes, I saw it <b>on TV</b>.",
+    "vi": "Rồi, tôi xem nó <b>trên ti vi</b>."
+   }
+  },
+  {
+   "word": "loved it",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˈlʌvd ɪt/",
+   "def_en": "Liked a film very much.",
+   "def_vi": "Rất thích (bộ phim).",
+   "gloss_vi": "rất thích",
+   "synonyms": "enjoyed it <i>(phr. thích)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Loved it</i> (phrase) = rất thích. <b>Grammar</b>: <i>love/enjoy</i> + tân ngữ, cần <i>it</i>: <i>I enjoyed it</i> (không nói <i>I enjoyed</i>).",
+   "example": {
+    "en": "B: Yes, <b>I loved it</b> / enjoyed it.",
+    "vi": "Có, <b>tôi rất thích</b> / tôi thích nó."
+   }
+  },
+  {
+   "word": "boring",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈbɔːrɪŋ/",
+   "def_en": "Not interesting.",
+   "def_vi": "Không thú vị.",
+   "gloss_vi": "chán, tẻ nhạt",
+   "synonyms": "dull <i>(adj. buồn tẻ)</i>",
+   "antonyms": "exciting <i>(adj. hấp dẫn)</i>",
+   "grammar_vi": "<i>Boring</i> (adjective) = chán, tẻ nhạt. <b>Grammar</b>: <i>boring</i> (vật gây chán) ≠ <i>bored</i> (người thấy chán).",
+   "example": {
+    "en": "No, it was <b>boring</b>.",
+    "vi": "Không, nó <b>chán</b> lắm."
+   }
+  },
+  {
+   "word": "the cinema",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ðə ˈsɪnəmə/",
+   "def_en": "A building where you go to watch films.",
+   "def_vi": "Rạp chiếu phim.",
+   "gloss_vi": "rạp chiếu phim",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The cinema</i> (noun phrase) = rạp chiếu phim. <b>Grammar</b>: dùng <i>the</i>: <i>go to the cinema, What’s on at the cinema?</i>. <b>Common mistakes</b>: không nói <i>go to cinema</i>.",
+   "example": {
+    "en": "What’s on at <b>the cinema</b> this week? [NOT What’s on B Yes, I loved it / enjoyed it. the cinema this week?]",
+    "vi": "Tuần này ở <b>rạp</b> chiếu gì?"
+   }
+  }
+ ]
+}

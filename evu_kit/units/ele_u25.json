@@ -1,0 +1,328 @@
+{
+ "book": "ele",
+ "unit": 25,
+ "title_vi": "Thời gian rảnh ở nhà",
+ "theory_html": "<p><b>A. TV, radio, music, film</b><br><i>A. Ti vi, radio, âm nhạc, phim</i></p> <p><b>watch TV, watch / see a film, programmes, watch a DVD, listen to music, headphones</b>. Say <b>watch TV</b> (not <b>see TV</b>) and <b>listen to the radio</b> (not <b>hear</b> / <b>listen the radio</b>).</p><p><i><b>xem ti vi, xem phim, chương trình, xem đĩa DVD, nghe nhạc, tai nghe</b>. Nói <b>watch TV</b>, <b>listen to the radio</b>.</i></p> <p><b>B. Hobbies</b><br><i>B. Sở thích</i></p> <p><b>play video games, download from the Internet, chat to friends online, cooking, gardening, grow flowers and vegetables</b>.</p><p><i><b>chơi trò chơi điện tử, tải từ Internet, trò chuyện trực tuyến, nấu ăn, làm vườn, trồng hoa và rau</b>.</i></p> <p><b>C. Reading</b><br><i>C. Đọc</i></p> <p><b>novels</b> (long stories), <b>comics, books about…, magazines about…, a newspaper</b>.</p><p><i><b>tiểu thuyết, truyện tranh, sách về…, tạp chí về…, báo</b>.</i></p> <p><b>D. Expressions</b><br><i>D. Cách nói</i></p> <p><b>have friends round</b> (ask them to your house), <b>have friends to dinner</b>, <b>come to stay</b> (sleep at your house), <b>talk to friends on the phone</b>, <b>do nothing</b>, <b>have a sleep</b>.</p><p><i><b>mời bạn đến nhà, mời bạn ăn tối, đến ở lại, nói chuyện điện thoại, chẳng làm gì, ngủ một giấc</b>.</i></p>",
+ "items": [
+  {
+   "word": "see",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/siː/",
+   "def_en": "To watch a film or programme.",
+   "def_vi": "Xem phim, chương trình.",
+   "gloss_vi": "xem",
+   "synonyms": "watch <i>(v. xem)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>See</i> (verb) = xem. <b>Grammar</b>: quá khứ <i>saw</i>, phân từ <i>seen</i>; <i>see a film</i> được nhưng <i>watch TV</i> (không nói <i>see TV</i>).",
+   "example": {
+    "en": "Did you watch / <b>see</b> the film about President Kennedy?",
+    "vi": "Bạn có <b>xem</b> bộ phim về Tổng thống Kennedy không?"
+   }
+  },
+  {
+   "word": "programmes",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈprəʊɡræmz/",
+   "def_en": "Shows on TV or radio.",
+   "def_vi": "Chương trình trên ti vi, đài.",
+   "gloss_vi": "chương trình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Programmes</i> (plural noun) = chương trình. <b>Grammar</b>: số ít <i>a programme</i>; Mỹ: <i>program</i>.",
+   "example": {
+    "en": "What <b>programmes</b> do you like best on TV and radio?",
+    "vi": "Bạn thích những <b>chương trình</b> nào nhất trên ti vi và đài?"
+   }
+  },
+  {
+   "word": "watch a DVD",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌwɒtʃ ə ˌdiː viː ˈdiː/",
+   "def_en": "To watch a film or programme on a DVD.",
+   "def_vi": "Xem phim trên đĩa DVD.",
+   "gloss_vi": "xem đĩa DVD",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Watch a DVD</i> (verb phrase) = xem đĩa DVD. <b>Grammar</b>: <i>watch</i> + phim/DVD.",
+   "example": {
+    "en": "At the weekend, we usually <b>watch a DVD</b>.",
+    "vi": "Cuối tuần chúng tôi thường <b>xem đĩa DVD</b>."
+   }
+  },
+  {
+   "word": "headphones",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈhedfəʊnz/",
+   "def_en": "Things that you wear over your ears to listen to music.",
+   "def_vi": "Thiết bị đeo trên tai để nghe nhạc.",
+   "gloss_vi": "tai nghe",
+   "synonyms": "earphones <i>(pn. tai nghe)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Headphones</i> (plural noun) = tai nghe. <b>Grammar</b>: luôn số nhiều; <i>a pair of headphones</i>.",
+   "example": {
+    "en": "I need some new <b>headphones</b> for my phone.",
+    "vi": "Tôi cần <b>tai nghe</b> mới cho điện thoại."
+   }
+  },
+  {
+   "word": "play video games",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌpleɪ ˈvɪdiəʊ ɡeɪmz/",
+   "def_en": "To play games on a computer, phone or games machine.",
+   "def_vi": "Chơi trò chơi trên máy tính, điện thoại, máy chơi game.",
+   "gloss_vi": "chơi trò chơi điện tử",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Play video games</i> (verb phrase) = chơi trò chơi điện tử. <b>Grammar</b>: <i>play</i> + game. <b>Collocations / chunks</b>: <i>video games</i> (trò chơi điện tử).",
+   "example": {
+    "en": "A lot of young people <b>play video games</b> every day.",
+    "vi": "Rất nhiều người trẻ <b>chơi trò chơi điện tử</b> mỗi ngày."
+   }
+  },
+  {
+   "word": "the Internet",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ði ˈɪntənet/",
+   "def_en": "The international computer network.",
+   "def_vi": "Mạng máy tính toàn cầu.",
+   "gloss_vi": "Internet",
+   "synonyms": "the web <i>(np. mạng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The Internet</i> (noun phrase) = Internet. <b>Grammar</b>: luôn có <i>the</i>; <i>on the Internet</i> (trên mạng).",
+   "example": {
+    "en": "I download music and films from <b>the Internet</b>.",
+    "vi": "Tôi tải nhạc và phim từ <b>Internet</b>."
+   }
+  },
+  {
+   "word": "chat to friends online",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌtʃæt tə ˌfrendz ɒnˈlaɪn/",
+   "def_en": "To talk to friends using the Internet.",
+   "def_vi": "Trò chuyện với bạn qua Internet.",
+   "gloss_vi": "trò chuyện với bạn trên mạng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chat to friends online</i> (verb phrase) = trò chuyện với bạn trên mạng. <b>Grammar</b>: <i>chat to/with sb</i>; quá khứ <i>chatted</i>.",
+   "example": {
+    "en": "I <b>chat to my friends online</b> every evening.",
+    "vi": "Tối nào tôi cũng <b>trò chuyện với bạn bè trên mạng</b>."
+   }
+  },
+  {
+   "word": "cooking",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈkʊkɪŋ/",
+   "def_en": "The activity of preparing food.",
+   "def_vi": "Việc nấu ăn.",
+   "gloss_vi": "nấu ăn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cooking</i> (uncountable noun) = nấu ăn. <b>Grammar</b>: danh động từ, không đếm được. <b>Word family</b>: <i>cook</i> (v., n. đầu bếp), <i>cooker</i> (n. bếp).",
+   "example": {
+    "en": "I really like <b>cooking</b>.",
+    "vi": "Tôi thật sự thích <b>nấu ăn</b>."
+   }
+  },
+  {
+   "word": "gardening",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈɡɑːdnɪŋ/",
+   "def_en": "The activity of working in a garden.",
+   "def_vi": "Việc làm vườn.",
+   "gloss_vi": "làm vườn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gardening</i> (uncountable noun) = làm vườn. <b>Grammar</b>: không đếm được; đọc /ˈɡɑːdnɪŋ/. <b>Word family</b>: <i>garden</i> (n.).",
+   "example": {
+    "en": "Do you like <b>gardening</b>?",
+    "vi": "Bạn có thích <b>làm vườn</b> không?"
+   }
+  },
+  {
+   "word": "grow",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɡrəʊ/",
+   "def_en": "To make plants develop.",
+   "def_vi": "Trồng cây cho phát triển.",
+   "gloss_vi": "trồng",
+   "synonyms": "plant <i>(v. trồng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Grow</i> (verb) = trồng. <b>Grammar</b>: quá khứ <i>grew</i>, phân từ <i>grown</i>. <b>Collocations / chunks</b>: <i>grow flowers/vegetables</i> (trồng hoa/rau).",
+   "example": {
+    "en": "We <b>grow</b> flowers and vegetables in our garden.",
+    "vi": "Chúng tôi <b>trồng</b> hoa và rau trong vườn."
+   }
+  },
+  {
+   "word": "novels",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈnɒvlz/",
+   "def_en": "Long stories in books.",
+   "def_vi": "Truyện dài trong sách.",
+   "gloss_vi": "tiểu thuyết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Novels</i> (plural noun) = tiểu thuyết. <b>Grammar</b>: số ít <i>a novel</i>. <b>Word family</b>: <i>novelist</i> (n. tiểu thuyết gia).",
+   "example": {
+    "en": "I read <b>novels</b> [long stories].",
+    "vi": "Tôi đọc <b>tiểu thuyết</b>."
+   }
+  },
+  {
+   "word": "comics",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈkɒmɪks/",
+   "def_en": "Magazines with stories told in pictures.",
+   "def_vi": "Tạp chí kể chuyện bằng tranh.",
+   "gloss_vi": "truyện tranh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Comics</i> (plural noun) = truyện tranh. <b>Grammar</b>: số ít <i>a comic</i>.",
+   "example": {
+    "en": "My sister likes <b>comics</b>.",
+    "vi": "Em gái tôi thích <b>truyện tranh</b>."
+   }
+  },
+  {
+   "word": "magazines",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˌmæɡəˈziːnz/",
+   "def_en": "Thin books with pictures and articles, published every week or month.",
+   "def_vi": "Ấn phẩm mỏng có tranh ảnh, bài viết, ra hằng tuần/tháng.",
+   "gloss_vi": "tạp chí",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Magazines</i> (plural noun) = tạp chí. <b>Grammar</b>: số ít <i>a magazine</i>; <i>magazines about</i> + chủ đề.",
+   "example": {
+    "en": "I like <b>magazines</b> about music and sport.",
+    "vi": "Tôi thích <b>tạp chí</b> về âm nhạc và thể thao."
+   }
+  },
+  {
+   "word": "newspaper",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈnjuːzpeɪpə(r)/",
+   "def_en": "Large folded sheets of paper with news, sold every day.",
+   "def_vi": "Tờ giấy lớn gấp lại có tin tức, bán hằng ngày.",
+   "gloss_vi": "báo",
+   "synonyms": "paper <i>(n. báo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Newspaper</i> (noun) = báo. <b>Grammar</b>: đếm được: <i>a newspaper</i>; nói tắt <i>a paper</i>.",
+   "example": {
+    "en": "Do you read a <b>newspaper</b> every day?",
+    "vi": "Bạn có đọc <b>báo</b> mỗi ngày không?"
+   }
+  },
+  {
+   "word": "have friends round",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌhæv ˌfrendz ˈraʊnd/",
+   "def_en": "To invite friends to come to your house.",
+   "def_vi": "Mời bạn bè đến nhà.",
+   "gloss_vi": "mời bạn đến nhà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have friends round</i> (verb phrase) = mời bạn đến nhà. <b>Grammar</b>: <i>have sb round</i> (Anh–Anh). <b>Collocations / chunks</b>: <i>have friends round for coffee</i>.",
+   "example": {
+    "en": "We sometimes <b>have friends round</b>",
+    "vi": "Thỉnh thoảng chúng tôi <b>mời bạn bè đến nhà</b>."
+   }
+  },
+  {
+   "word": "have friends to dinner",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌhæv ˌfrendz tə ˈdɪnə(r)/",
+   "def_en": "To invite friends to eat dinner at your house.",
+   "def_vi": "Mời bạn đến nhà ăn tối.",
+   "gloss_vi": "mời bạn ăn tối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have friends to dinner</i> (verb phrase) = mời bạn ăn tối. <b>Grammar</b>: <i>have sb to dinner/lunch</i>.",
+   "example": {
+    "en": "I often <b>have friends to dinner</b>.",
+    "vi": "Tôi hay <b>mời bạn bè đến ăn tối</b>."
+   }
+  },
+  {
+   "word": "come to stay",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌkʌm tə ˈsteɪ/",
+   "def_en": "To visit and sleep at someone’s house.",
+   "def_vi": "Đến chơi và ngủ lại nhà ai.",
+   "gloss_vi": "đến ở lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Come to stay</i> (verb phrase) = đến ở lại. <b>Grammar</b>: <i>come to stay with sb</i>.",
+   "example": {
+    "en": "My best friend <b>comes to stay</b> sometimes.",
+    "vi": "Thỉnh thoảng bạn thân tôi <b>đến ở lại</b>."
+   }
+  },
+  {
+   "word": "talk to … on the phone",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˈtɔːk tə … ɒn ðə ˈfəʊn/",
+   "def_en": "To have a conversation with someone by phone.",
+   "def_vi": "Nói chuyện với ai qua điện thoại.",
+   "gloss_vi": "nói chuyện điện thoại với",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Talk to … on the phone</i> (verb phrase) = nói chuyện điện thoại với. <b>Grammar</b>: <i>talk to sb on the phone</i>.",
+   "example": {
+    "en": "I <b>talk to</b> my friends <b>on the phone</b> every evening.",
+    "vi": "Tối nào tôi cũng <b>nói chuyện điện thoại với</b> bạn bè."
+   }
+  },
+  {
+   "word": "do nothing",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌduː ˈnʌθɪŋ/",
+   "def_en": "To not do any activity; to rest.",
+   "def_vi": "Không làm gì, nghỉ ngơi.",
+   "gloss_vi": "chẳng làm gì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Do nothing</i> (verb phrase) = chẳng làm gì. <b>Grammar</b>: không dùng thêm <i>not</i>: <i>I do nothing</i> (không nói <i>I don’t do nothing</i>).",
+   "example": {
+    "en": "Sometimes, I just <b>do nothing</b>.",
+    "vi": "Đôi khi tôi chỉ <b>chẳng làm gì cả</b>."
+   }
+  },
+  {
+   "word": "have a sleep",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌhæv ə ˈsliːp/",
+   "def_en": "To sleep for a short time.",
+   "def_vi": "Ngủ một lát.",
+   "gloss_vi": "ngủ một giấc",
+   "synonyms": "have a nap <i>(vp. chợp mắt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have a sleep</i> (verb phrase) = ngủ một giấc. <b>Grammar</b>: <i>have a sleep</i> (Anh–Anh). <b>Collocations / chunks</b>: <i>after lunch</i> (sau bữa trưa).",
+   "example": {
+    "en": "Grandpa likes to <b>have a sleep</b> after lunch.",
+    "vi": "Ông thích <b>ngủ một giấc</b> sau bữa trưa."
+   }
+  }
+ ]
+}

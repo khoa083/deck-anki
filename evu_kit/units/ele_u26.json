@@ -1,0 +1,476 @@
+{
+ "book": "ele",
+ "unit": 26,
+ "title_vi": "Âm nhạc và nhạc cụ",
+ "theory_html": "<p><b>A. Music, musical and musician</b><br><i>A. Music, musical và musician</i></p> <p><b>Music</b> is uncountable (<b>fantastic music</b>, not <b>musics</b>); <b>musical</b> is an adjective (<b>musical instruments</b>, not <b>music instruments</b>); a <b>musician</b> is a person.</p><p><i><b>Music</b> không đếm được; <b>musical</b> là tính từ (<b>nhạc cụ</b>); <b>musician</b> là người (<b>nhạc sĩ</b>).</i></p> <p><b>B. Musical instruments</b><br><i>B. Nhạc cụ</i></p> <ul><li><b>flute, piano, cello, guitar, drums, violin, trumpet, clarinet</b> – <i>sáo, đàn piano, đàn cello, đàn ghi-ta, trống, đàn vi-ô-lông, kèn trumpet, kèn clarinet</i></li></ul> <p><b>C. Playing instruments</b><br><i>C. Chơi nhạc cụ</i></p> <p><b>play the clarinet / drums, be learning the guitar, have piano lessons, play in an orchestra</b>; players: <b>flute-player, trumpet-player, violinist, pianist</b>.</p><p><i><b>chơi kèn clarinet / trống, đang học ghi-ta, học piano, chơi trong dàn nhạc</b>; người chơi: <b>người thổi sáo, người thổi kèn, nghệ sĩ vi-ô-lông, nghệ sĩ piano</b>.</i></p> <p><b>D. Listening to music</b><br><i>D. Nghe nhạc</i></p> <p><b>classical music</b> (not <b>classic music</b>), <b>opera, pop, folk music, jazz, rock</b>; <b>can’t stand</b> (dislike very much); <b>download songs</b>. A <b>band</b> is a group of musicians; a <b>concert</b> is an event with music.</p><p><i><b>nhạc cổ điển, opera, nhạc pop, dân ca, jazz, rock</b>; <b>không chịu nổi</b>; <b>tải bài hát</b>. <b>Band</b> = ban nhạc; <b>concert</b> = buổi hòa nhạc.</i></p>",
+ "items": [
+  {
+   "word": "music",
+   "sense": "general",
+   "pos": "uncountable noun",
+   "ipa": "/ˈmjuːzɪk/",
+   "def_en": "Sounds arranged in a way that is pleasant to listen to.",
+   "def_vi": "Âm thanh sắp xếp nghe êm tai.",
+   "gloss_vi": "âm nhạc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Music</i> (uncountable noun) = âm nhạc. <b>Grammar</b>: không đếm được, không dùng số nhiều. <b>Common mistakes</b>: không nói <i>musics</i>.",
+   "example": {
+    "en": "The band played fantastic <b>music</b> for more than two hours.",
+    "vi": "Ban nhạc chơi <b>nhạc</b> tuyệt vời suốt hơn hai tiếng."
+   }
+  },
+  {
+   "word": "musical",
+   "sense": "adjective",
+   "pos": "adjective",
+   "ipa": "/ˈmjuːzɪkl/",
+   "def_en": "Connected with music.",
+   "def_vi": "Liên quan đến âm nhạc.",
+   "gloss_vi": "(thuộc) âm nhạc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Musical</i> (adjective) = (thuộc) âm nhạc. <b>Grammar</b>: tính từ: <i>musical instruments</i>. <b>Common mistakes</b>: không nói <i>music instruments</i>.",
+   "example": {
+    "en": "There is a shop on King Street that sells <b>musical</b> instruments.",
+    "vi": "Có một cửa hàng ở phố King bán <b>nhạc</b> cụ."
+   }
+  },
+  {
+   "word": "musician",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/mjuˈzɪʃn/",
+   "def_en": "A person who plays music or writes music.",
+   "def_vi": "Người chơi hoặc sáng tác nhạc.",
+   "gloss_vi": "nhạc sĩ, nhạc công",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Musician</i> (noun) = nhạc sĩ, nhạc công. <b>Grammar</b>: đếm được; trọng âm âm 2.",
+   "example": {
+    "en": "My brother is a very good <b>musician</b>.",
+    "vi": "Anh trai tôi là một <b>nhạc công</b> rất giỏi."
+   }
+  },
+  {
+   "word": "flute",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/fluːt/",
+   "def_en": "A musical instrument that you hold sideways and blow across.",
+   "def_vi": "Nhạc cụ cầm ngang và thổi.",
+   "gloss_vi": "sáo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flute</i> (noun) = sáo. <b>Grammar</b>: <i>play the flute</i> (dùng <i>the</i>). <b>Word family</b>: <i>flute-player</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "Mia plays the <b>flute</b> very well.",
+    "vi": "Mia thổi <b>sáo</b> rất giỏi."
+   }
+  },
+  {
+   "word": "piano",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/piˈænəʊ/",
+   "def_en": "A large instrument with black and white keys.",
+   "def_vi": "Nhạc cụ lớn có phím đen trắng.",
+   "gloss_vi": "đàn piano",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Piano</i> (noun) = đàn piano. <b>Grammar</b>: <i>play the piano</i>; <i>piano lessons</i> (học piano). <b>Word family</b>: <i>pianist</i> (n.).",
+   "example": {
+    "en": "His friend, Isabella, has <b>piano</b> lessons.",
+    "vi": "Isabella, bạn của cậu ấy, học <b>đàn piano</b>."
+   }
+  },
+  {
+   "word": "cello",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtʃeləʊ/",
+   "def_en": "A large wooden instrument with strings that you hold between your knees.",
+   "def_vi": "Nhạc cụ dây lớn bằng gỗ kẹp giữa hai đầu gối.",
+   "gloss_vi": "đàn cello",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cello</i> (noun) = đàn cello. <b>Grammar</b>: <i>c</i> đọc /tʃ/: /ˈtʃeləʊ/.",
+   "ex_kit": true,
+   "example": {
+    "en": "She plays the <b>cello</b> in an orchestra.",
+    "vi": "Cô ấy chơi <b>cello</b> trong dàn nhạc."
+   }
+  },
+  {
+   "word": "guitar",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɡɪˈtɑː(r)/",
+   "def_en": "An instrument with six strings that you play with your fingers.",
+   "def_vi": "Nhạc cụ sáu dây gảy bằng ngón tay.",
+   "gloss_vi": "đàn ghi-ta",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Guitar</i> (noun) = đàn ghi-ta. <b>Grammar</b>: <i>play/learn the guitar</i>; trọng âm âm 2.",
+   "example": {
+    "en": "Krishnan is learning the <b>guitar</b>.",
+    "vi": "Krishnan <b>đang học</b> đàn <b>ghi-ta</b>."
+   }
+  },
+  {
+   "word": "drums",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/drʌmz/",
+   "def_en": "Instruments that you hit with sticks.",
+   "def_vi": "Nhạc cụ gõ bằng dùi.",
+   "gloss_vi": "trống",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Drums</i> (plural noun) = trống. <b>Grammar</b>: <i>play the drums</i>. <b>Word family</b>: <i>drummer</i> (n.).",
+   "example": {
+    "en": "Her brother plays the <b>drums</b>.",
+    "vi": "Anh trai cô ấy chơi <b>trống</b>."
+   }
+  },
+  {
+   "word": "violin",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌvaɪəˈlɪn/",
+   "def_en": "A small wooden instrument with four strings, played with a bow.",
+   "def_vi": "Nhạc cụ gỗ nhỏ bốn dây, kéo bằng vĩ.",
+   "gloss_vi": "đàn vi-ô-lông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Violin</i> (noun) = đàn vi-ô-lông. <b>Grammar</b>: trọng âm âm cuối. <b>Word family</b>: <i>violinist</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "My sister is learning the <b>violin</b>.",
+    "vi": "Em gái tôi đang học <b>vi-ô-lông</b>."
+   }
+  },
+  {
+   "word": "trumpet",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtrʌmpɪt/",
+   "def_en": "A metal instrument that you blow into.",
+   "def_vi": "Nhạc cụ kim loại thổi hơi.",
+   "gloss_vi": "kèn trumpet",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trumpet</i> (noun) = kèn trumpet. <b>Grammar</b>: <i>play the trumpet</i>. <b>Word family</b>: <i>trumpet-player</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "He plays the <b>trumpet</b> in a jazz band.",
+    "vi": "Anh ấy chơi <b>kèn trumpet</b> trong ban nhạc jazz."
+   }
+  },
+  {
+   "word": "clarinet",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌklærəˈnet/",
+   "def_en": "A long wooden instrument that you blow into.",
+   "def_vi": "Nhạc cụ gỗ dài thổi hơi.",
+   "gloss_vi": "kèn clarinet",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Clarinet</i> (noun) = kèn clarinet. <b>Grammar</b>: <i>play the clarinet</i>; trọng âm âm cuối.",
+   "example": {
+    "en": "Ava plays the <b>clarinet</b>.",
+    "vi": "Ava chơi <b>kèn clarinet</b>."
+   }
+  },
+  {
+   "word": "play the clarinet",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌpleɪ ðə ˌklærəˈnet/",
+   "def_en": "To make music on a clarinet.",
+   "def_vi": "Chơi kèn clarinet.",
+   "gloss_vi": "chơi kèn clarinet",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Play the clarinet</i> (verb phrase) = chơi kèn clarinet. <b>Grammar</b>: <i>play the</i> + nhạc cụ (có <i>the</i>). <b>Common mistakes</b>: không nói <i>play clarinet</i> trong tiếng Anh–Anh chuẩn.",
+   "example": {
+    "en": "Ava <b>plays the clarinet</b>.",
+    "vi": "Ava <b>chơi kèn clarinet</b>."
+   }
+  },
+  {
+   "word": "learn the guitar",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌlɜːn ðə ɡɪˈtɑː(r)/",
+   "def_en": "To be having lessons to play the guitar.",
+   "def_vi": "Đang học chơi ghi-ta.",
+   "gloss_vi": "học ghi-ta",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Learn the guitar</i> (verb phrase) = học ghi-ta. <b>Grammar</b>: <i>learn the</i> + nhạc cụ.",
+   "example": {
+    "en": "Krishnan is <b>learning the guitar</b>.",
+    "vi": "Krishnan <b>đang học ghi-ta</b>."
+   }
+  },
+  {
+   "word": "have piano lessons",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌhæv piˈænəʊ lesnz/",
+   "def_en": "To be taught to play the piano regularly.",
+   "def_vi": "Được dạy chơi piano đều đặn.",
+   "gloss_vi": "học piano",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have piano lessons</i> (verb phrase) = học piano. <b>Grammar</b>: <i>have</i> + môn + <i>lessons</i>.",
+   "example": {
+    "en": "His friend, Isabella, <b>has piano lessons</b>.",
+    "vi": "Bạn của cậu ấy, Isabella, <b>học piano</b>."
+   }
+  },
+  {
+   "word": "flute-player",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfluːt pleɪə(r)/",
+   "def_en": "A person who plays the flute.",
+   "def_vi": "Người thổi sáo.",
+   "gloss_vi": "người thổi sáo",
+   "synonyms": "flautist <i>(n. nghệ sĩ sáo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flute-player</i> (noun) = người thổi sáo. <b>Grammar</b>: danh từ ghép có gạch nối.",
+   "example": {
+    "en": "Mia is a very good <b>flute-player</b>.",
+    "vi": "Mia là một <b>người thổi sáo</b> rất giỏi."
+   }
+  },
+  {
+   "word": "orchestra",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɔːkɪstrə/",
+   "def_en": "A large group of musicians who play classical music together.",
+   "def_vi": "Nhóm nhạc công lớn chơi nhạc cổ điển.",
+   "gloss_vi": "dàn nhạc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Orchestra</i> (noun) = dàn nhạc. <b>Grammar</b>: đếm được; <i>ch</i> đọc /k/. <b>Collocations / chunks</b>: <i>play in an orchestra</i>.",
+   "example": {
+    "en": "She plays in an <b>orchestra</b>.",
+    "vi": "Cô ấy chơi trong một <b>dàn nhạc</b>."
+   }
+  },
+  {
+   "word": "trumpet-player",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtrʌmpɪt pleɪə(r)/",
+   "def_en": "A person who plays the trumpet.",
+   "def_vi": "Người thổi kèn trumpet.",
+   "gloss_vi": "người thổi kèn trumpet",
+   "synonyms": "trumpeter <i>(n. người thổi kèn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trumpet-player</i> (noun) = người thổi kèn trumpet. <b>Grammar</b>: danh từ ghép có gạch nối.",
+   "example": {
+    "en": "Her friend, Nuria, is a good <b>trumpet-player</b>.",
+    "vi": "Bạn cô ấy, Nuria, là một <b>người thổi kèn</b> giỏi."
+   }
+  },
+  {
+   "word": "violinist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌvaɪəˈlɪnɪst/",
+   "def_en": "A person who plays the violin.",
+   "def_vi": "Người chơi vi-ô-lông.",
+   "gloss_vi": "nghệ sĩ vi-ô-lông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Violinist</i> (noun) = nghệ sĩ vi-ô-lông. <b>Grammar</b>: hậu tố <i>-ist</i> chỉ người.",
+   "example": {
+    "en": "Lucas is an excellent <b>violinist</b>.",
+    "vi": "Lucas là một <b>nghệ sĩ vi-ô-lông</b> xuất sắc."
+   }
+  },
+  {
+   "word": "pianist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpiːənɪst/",
+   "def_en": "A person who plays the piano.",
+   "def_vi": "Người chơi piano.",
+   "gloss_vi": "nghệ sĩ piano",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pianist</i> (noun) = nghệ sĩ piano. <b>Grammar</b>: hậu tố <i>-ist</i>; đọc /ˈpiːənɪst/.",
+   "example": {
+    "en": "His sister is a good <b>pianist</b>.",
+    "vi": "Em gái cậu ấy là một <b>nghệ sĩ piano</b> giỏi."
+   }
+  },
+  {
+   "word": "classical music",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌklæsɪkl ˈmjuːzɪk/",
+   "def_en": "Serious music by composers such as Beethoven and Mozart.",
+   "def_vi": "Nhạc nghiêm túc của Beethoven, Mozart…",
+   "gloss_vi": "nhạc cổ điển",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "pop <i>(un. nhạc pop)</i>",
+   "grammar_vi": "<i>Classical music</i> (noun phrase) = nhạc cổ điển. <b>Grammar</b>: không đếm được. <b>Common mistakes</b>: không nói <i>classic music</i>.",
+   "example": {
+    "en": "Charlotte loves <b>classical music</b>.",
+    "vi": "Charlotte rất mê <b>nhạc cổ điển</b>."
+   }
+  },
+  {
+   "word": "can’t stand",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌkɑːnt ˈstænd/",
+   "def_en": "To dislike someone or something very much.",
+   "def_vi": "Rất ghét ai, cái gì.",
+   "gloss_vi": "không chịu nổi",
+   "synonyms": "hate <i>(v. ghét)</i>",
+   "antonyms": "love <i>(v. yêu)</i>",
+   "grammar_vi": "<i>Can’t stand</i> (verb phrase) = không chịu nổi. <b>Grammar</b>: <i>can’t stand</i> + danh từ/V-ing. <b>Register</b>: thân mật.",
+   "example": {
+    "en": "Harper <b>can’t stand</b> opera [dislikes it very much].",
+    "vi": "Harper <b>không chịu nổi</b> opera."
+   }
+  },
+  {
+   "word": "opera",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɒprə/",
+   "def_en": "A play in which all the words are sung.",
+   "def_vi": "Vở diễn mà toàn bộ lời đều được hát.",
+   "gloss_vi": "nhạc kịch opera",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Opera</i> (noun) = nhạc kịch opera. <b>Grammar</b>: đếm được và không đếm được.",
+   "example": {
+    "en": "Harper can’t stand <b>opera</b> [dislikes it very much].",
+    "vi": "Harper không chịu nổi <b>opera</b>."
+   }
+  },
+  {
+   "word": "pop",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/pɒp/",
+   "def_en": "Modern music that is popular with young people.",
+   "def_vi": "Nhạc hiện đại được giới trẻ ưa chuộng.",
+   "gloss_vi": "nhạc pop",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "classical music <i>(np. nhạc cổ điển)</i>",
+   "grammar_vi": "<i>Pop</i> (uncountable noun) = nhạc pop. <b>Grammar</b>: thường dùng <i>pop music</i>.",
+   "example": {
+    "en": "She prefers <b>pop</b> music.",
+    "vi": "Cô ấy thích nhạc <b>pop</b> hơn."
+   }
+  },
+  {
+   "word": "folk music",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈfəʊk mjuːzɪk/",
+   "def_en": "Traditional music of a country.",
+   "def_vi": "Nhạc truyền thống của một nước.",
+   "gloss_vi": "nhạc dân gian",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Folk music</i> (noun phrase) = nhạc dân gian. <b>Grammar</b>: không đếm được; chữ <i>l</i> câm /fəʊk/.",
+   "example": {
+    "en": "I like <b>folk music</b>, jazz and rock.",
+    "vi": "Tôi thích <b>nhạc dân gian</b>, jazz và rock."
+   }
+  },
+  {
+   "word": "jazz",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/dʒæz/",
+   "def_en": "Music with a strong rhythm, first played by African Americans.",
+   "def_vi": "Nhạc nhịp mạnh, khởi nguồn từ người Mỹ gốc Phi.",
+   "gloss_vi": "nhạc jazz",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Jazz</i> (uncountable noun) = nhạc jazz. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "I like folk music, <b>jazz</b> and rock.",
+    "vi": "Tôi thích nhạc dân gian, <b>jazz</b> và rock."
+   }
+  },
+  {
+   "word": "rock",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/rɒk/",
+   "def_en": "Loud music with a strong beat, played on electric guitars and drums.",
+   "def_vi": "Nhạc ồn, nhịp mạnh, chơi bằng ghi-ta điện và trống.",
+   "gloss_vi": "nhạc rock",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rock</i> (uncountable noun) = nhạc rock. <b>Grammar</b>: không đếm được khi là thể loại nhạc.",
+   "example": {
+    "en": "I like folk music, jazz and <b>rock</b>.",
+    "vi": "Tôi thích nhạc dân gian, jazz và <b>rock</b>."
+   }
+  },
+  {
+   "word": "download",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌdaʊnˈləʊd/",
+   "def_en": "To copy files such as songs from the Internet to a computer or phone.",
+   "def_vi": "Sao chép tệp như bài hát từ Internet về máy.",
+   "gloss_vi": "tải về",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "upload <i>(v. tải lên)</i>",
+   "grammar_vi": "<i>Download</i> (verb) = tải về. <b>Grammar</b>: quá khứ <i>downloaded</i>. <b>Collocations / chunks</b>: <i>download songs/films</i> (tải bài hát/phim).",
+   "example": {
+    "en": "I <b>downloaded</b> some new songs yesterday.",
+    "vi": "Hôm qua tôi <b>tải</b> vài bài hát mới <b>về</b>."
+   }
+  },
+  {
+   "word": "band",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bænd/",
+   "def_en": "A group of musicians who play pop, rock or jazz together.",
+   "def_vi": "Nhóm nhạc công chơi pop, rock hay jazz.",
+   "gloss_vi": "ban nhạc",
+   "synonyms": "group <i>(n. nhóm nhạc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Band</i> (noun) = ban nhạc. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: không nói <i>a music band</i>.",
+   "example": {
+    "en": "Nuala had a really good <b>band</b> at her 21st birthday party.",
+    "vi": "Nuala có một <b>ban nhạc</b> rất hay trong tiệc sinh nhật 21 tuổi."
+   }
+  },
+  {
+   "word": "concert",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɒnsət/",
+   "def_en": "An event where people play music for an audience.",
+   "def_vi": "Sự kiện chơi nhạc cho khán giả.",
+   "gloss_vi": "buổi hòa nhạc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Concert</i> (noun) = buổi hòa nhạc. <b>Grammar</b>: <i>go to a concert</i>. <b>Common mistakes</b>: không nói <i>a music concert</i>.",
+   "example": {
+    "en": "A <b>concert</b> means an event with music.",
+    "vi": "Tối nay chúng tôi đi xem <b>hòa nhạc</b>."
+   }
+  }
+ ]
+}

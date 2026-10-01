@@ -1,0 +1,415 @@
+{
+ "book": "ele",
+ "unit": 23,
+ "title_vi": "Thể thao",
+ "theory_html": "<p><b>A. Ball games</b><br><i>A. Môn chơi với bóng</i></p> <p>We <b>play</b> <b>football, rugby, American football, basketball, badminton, baseball, tennis, volleyball, table tennis</b>.</p><p><i>Dùng <b>play</b> với các môn bóng: bóng đá, bóng bầu dục, bóng bầu dục Mỹ, bóng rổ, cầu lông, bóng chày, quần vợt, bóng chuyền, bóng bàn.</i></p> <p><b>B. Other popular sports</b><br><i>B. Môn phổ biến khác</i></p> <p><b>running, sailing, motor racing, swimming, kayaking, skiing, horse racing, snowboarding</b> take <b>go</b> (<b>I go running</b>); <b>judo / karate</b> take <b>do</b> (<b>She does judo</b>).</p><p><i>Chạy, đua thuyền buồm, đua xe, bơi, chèo thuyền kayak, trượt tuyết, đua ngựa, trượt ván tuyết đi với <b>go</b>; <b>judo / karate</b> đi với <b>do</b>.</i></p> <p><b>C. Where we do sports</b><br><i>C. Nơi chơi thể thao</i></p> <p><b>tennis / badminton / volleyball / basketball court; football / rugby pitch; swimming pool; sports centre</b>.</p><p><i><b>sân</b> quần vợt, cầu lông, bóng chuyền, bóng rổ (<b>court</b>); <b>sân</b> bóng đá, bóng bầu dục (<b>pitch</b>); <b>bể bơi</b>; <b>trung tâm thể thao</b>.</i></p> <p><b>D. Expressions</b><br><i>D. Cách nói</i></p> <p><b>Do you do any sports? – Yes, I go swimming. Do you play football? What’s your favourite sport? – I like motor racing best.</b></p><p><i><b>Bạn có chơi môn thể thao nào không? – Có, tôi đi bơi. Môn yêu thích của bạn là gì? – Tôi thích đua xe nhất.</b></i></p>",
+ "items": [
+  {
+   "word": "play",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/pleɪ/",
+   "def_en": "To take part in a game or sport, especially a ball game.",
+   "def_vi": "Tham gia trò chơi hay môn thể thao, nhất là môn bóng.",
+   "gloss_vi": "chơi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Play</i> (verb) = chơi. <b>Grammar</b>: <i>play</i> + môn bóng không có <i>the</i>: <i>play football</i>. <b>Common mistakes</b>: không dùng <i>play</i> với <i>judo</i>, <i>running</i>.",
+   "example": {
+    "en": "We <b>play</b> all these sports.",
+    "vi": "Chúng ta <b>chơi</b> tất cả các môn này."
+   }
+  },
+  {
+   "word": "football",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈfʊtbɔːl/",
+   "def_en": "A game in which two teams kick a ball and try to score goals.",
+   "def_vi": "Môn hai đội đá bóng để ghi bàn.",
+   "gloss_vi": "bóng đá",
+   "synonyms": "soccer <i>(un. bóng đá (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Football</i> (uncountable noun) = bóng đá. <b>Grammar</b>: không đếm được khi là môn; Anh–Mỹ: <i>soccer</i>.",
+   "example": {
+    "en": "We play <b>football</b> / rugby on a football / rugby pitch.",
+    "vi": "Chúng tôi chơi <b>bóng đá</b> trên sân."
+   }
+  },
+  {
+   "word": "rugby",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈrʌɡbi/",
+   "def_en": "A game in which two teams carry, kick and throw an oval ball.",
+   "def_vi": "Môn hai đội mang, đá, ném quả bóng bầu dục.",
+   "gloss_vi": "bóng bầu dục",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rugby</i> (uncountable noun) = bóng bầu dục. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "We play football / <b>rugby</b> on a football / rugby pitch.",
+    "vi": "Chúng tôi chơi bóng đá / <b>bóng bầu dục</b> trên sân."
+   }
+  },
+  {
+   "word": "American football",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/əˌmerɪkən ˈfʊtbɔːl/",
+   "def_en": "A US game like rugby, played with an oval ball.",
+   "def_vi": "Môn bóng kiểu Mỹ giống bóng bầu dục.",
+   "gloss_vi": "bóng bầu dục Mỹ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>American football</i> (noun phrase) = bóng bầu dục Mỹ. <b>Grammar</b>: không đếm được; ở Mỹ gọi là <i>football</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>American football</b> is very popular in the USA.",
+    "vi": "<b>Bóng bầu dục Mỹ</b> rất được ưa chuộng ở Mỹ."
+   }
+  },
+  {
+   "word": "basketball",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈbɑːskɪtbɔːl/",
+   "def_en": "A game in which two teams try to throw a ball through a high net.",
+   "def_vi": "Môn hai đội ném bóng vào rổ cao.",
+   "gloss_vi": "bóng rổ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Basketball</i> (uncountable noun) = bóng rổ. <b>Grammar</b>: không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "We play <b>basketball</b> on a basketball court.",
+    "vi": "Chúng tôi chơi <b>bóng rổ</b> trên sân bóng rổ."
+   }
+  },
+  {
+   "word": "badminton",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈbædmɪntən/",
+   "def_en": "A game in which players hit a shuttlecock over a high net.",
+   "def_vi": "Môn đánh quả cầu qua lưới cao.",
+   "gloss_vi": "cầu lông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Badminton</i> (uncountable noun) = cầu lông. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "Do you play football / tennis / <b>badminton</b>?",
+    "vi": "Bạn có chơi bóng đá / quần vợt / <b>cầu lông</b> không?"
+   }
+  },
+  {
+   "word": "baseball",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈbeɪsbɔːl/",
+   "def_en": "A game in which players hit a ball with a bat and run round four bases.",
+   "def_vi": "Môn đánh bóng bằng gậy rồi chạy quanh bốn chốt.",
+   "gloss_vi": "bóng chày",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Baseball</i> (uncountable noun) = bóng chày. <b>Grammar</b>: không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Baseball</b> is a big sport in the USA.",
+    "vi": "<b>Bóng chày</b> là môn thể thao lớn ở Mỹ."
+   }
+  },
+  {
+   "word": "tennis",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈtenɪs/",
+   "def_en": "A game in which two or four players hit a ball over a net.",
+   "def_vi": "Môn 2 hoặc 4 người đánh bóng qua lưới.",
+   "gloss_vi": "quần vợt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tennis</i> (uncountable noun) = quần vợt. <b>Grammar</b>: không đếm được; <i>tennis court</i> (sân quần vợt).",
+   "example": {
+    "en": "I play <b>tennis</b>. Which sports do you play?",
+    "vi": "Tôi chơi <b>quần vợt</b>. Bạn chơi môn gì?"
+   }
+  },
+  {
+   "word": "volleyball",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈvɒlibɔːl/",
+   "def_en": "A game in which two teams hit a ball over a high net with their hands.",
+   "def_vi": "Môn hai đội đánh bóng qua lưới cao bằng tay.",
+   "gloss_vi": "bóng chuyền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Volleyball</i> (uncountable noun) = bóng chuyền. <b>Grammar</b>: không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "We play <b>volleyball</b> on the beach.",
+    "vi": "Chúng tôi chơi <b>bóng chuyền</b> trên bãi biển."
+   }
+  },
+  {
+   "word": "table tennis",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈteɪbl tenɪs/",
+   "def_en": "A game like tennis played on a table with small bats.",
+   "def_vi": "Môn giống quần vợt chơi trên bàn với vợt nhỏ.",
+   "gloss_vi": "bóng bàn",
+   "synonyms": "ping-pong <i>(un. bóng bàn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Table tennis</i> (noun phrase) = bóng bàn. <b>Grammar</b>: không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "I play <b>table tennis</b> with my brother.",
+    "vi": "Tôi chơi <b>bóng bàn</b> với anh trai."
+   }
+  },
+  {
+   "word": "running",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈrʌnɪŋ/",
+   "def_en": "The sport of running.",
+   "def_vi": "Môn chạy bộ.",
+   "gloss_vi": "chạy bộ",
+   "synonyms": "jogging <i>(un. chạy bộ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Running</i> (uncountable noun) = chạy bộ. <b>Grammar</b>: <i>go running</i> (dùng <i>go</i>).",
+   "example": {
+    "en": "I go <b>running</b> every day.",
+    "vi": "Ngày nào tôi cũng <b>đi chạy</b>."
+   }
+  },
+  {
+   "word": "sailing",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈseɪlɪŋ/",
+   "def_en": "The sport of travelling in a boat with sails.",
+   "def_vi": "Môn đi thuyền buồm.",
+   "gloss_vi": "đua thuyền buồm, đi thuyền buồm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sailing</i> (uncountable noun) = đua thuyền buồm, đi thuyền buồm. <b>Grammar</b>: <i>go sailing</i>.",
+   "example": {
+    "en": "Yes, I go swimming / running / <b>sailing</b> / kayaking.",
+    "vi": "Có, tôi đi bơi / chạy / <b>chèo thuyền buồm</b> / chèo kayak."
+   }
+  },
+  {
+   "word": "motor racing",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈməʊtə reɪsɪŋ/",
+   "def_en": "The sport of racing cars.",
+   "def_vi": "Môn đua ô tô.",
+   "gloss_vi": "đua xe",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Motor racing</i> (noun phrase) = đua xe. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "I like <b>motor racing</b> best.",
+    "vi": "Tôi thích <b>đua xe</b> nhất."
+   }
+  },
+  {
+   "word": "swimming",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈswɪmɪŋ/",
+   "def_en": "The sport of moving through water.",
+   "def_vi": "Môn bơi lội.",
+   "gloss_vi": "bơi lội",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Swimming</i> (uncountable noun) = bơi lội. <b>Grammar</b>: <i>go swimming</i>; <i>swimming pool</i> (bể bơi).",
+   "example": {
+    "en": "Yes, I go <b>swimming</b> / running / sailing / kayaking.",
+    "vi": "Có, tôi đi <b>bơi</b> / chạy / chèo thuyền buồm / chèo kayak."
+   }
+  },
+  {
+   "word": "kayaking",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈkaɪækɪŋ/",
+   "def_en": "The sport of travelling in a small light boat called a kayak.",
+   "def_vi": "Môn chèo thuyền kayak.",
+   "gloss_vi": "chèo thuyền kayak",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Kayaking</i> (uncountable noun) = chèo thuyền kayak. <b>Grammar</b>: <i>go kayaking</i>.",
+   "example": {
+    "en": "Yes, I go swimming / running / sailing / <b>kayaking</b>.",
+    "vi": "Có, tôi đi bơi / chạy / chèo thuyền buồm / <b>chèo kayak</b>."
+   }
+  },
+  {
+   "word": "judo",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈdʒuːdəʊ/",
+   "def_en": "A Japanese sport in which two people try to throw each other.",
+   "def_vi": "Môn võ Nhật hai người tìm cách quật ngã nhau.",
+   "gloss_vi": "võ judo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Judo</i> (uncountable noun) = võ judo. <b>Grammar</b>: dùng <i>do</i>: <i>do judo</i> (không nói <i>play/go judo</i>).",
+   "example": {
+    "en": "She does <b>judo</b>.",
+    "vi": "Cô ấy tập <b>judo</b>."
+   }
+  },
+  {
+   "word": "karate",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/kəˈrɑːti/",
+   "def_en": "A Japanese sport in which people fight using their hands and feet.",
+   "def_vi": "Môn võ Nhật dùng tay và chân.",
+   "gloss_vi": "võ karate",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Karate</i> (uncountable noun) = võ karate. <b>Grammar</b>: dùng <i>do</i>: <i>do karate</i>.",
+   "example": {
+    "en": "We use do with judo and <b>karate</b>.",
+    "vi": "Chúng ta dùng *do* với judo và <b>karate</b>."
+   }
+  },
+  {
+   "word": "skiing",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈskiːɪŋ/",
+   "def_en": "The sport of moving over snow on long narrow boards.",
+   "def_vi": "Môn trượt trên tuyết bằng ván dài hẹp.",
+   "gloss_vi": "trượt tuyết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Skiing</i> (uncountable noun) = trượt tuyết. <b>Grammar</b>: <i>go skiing</i>.",
+   "example": {
+    "en": "I went <b>skiing</b> last year.",
+    "vi": "Năm ngoái tôi <b>đi trượt tuyết</b>."
+   }
+  },
+  {
+   "word": "horse racing",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈhɔːs reɪsɪŋ/",
+   "def_en": "The sport of racing horses.",
+   "def_vi": "Môn đua ngựa.",
+   "gloss_vi": "đua ngựa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Horse racing</i> (noun phrase) = đua ngựa. <b>Grammar</b>: không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "My grandad loves watching <b>horse racing</b>.",
+    "vi": "Ông tôi thích xem <b>đua ngựa</b>."
+   }
+  },
+  {
+   "word": "snowboarding",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈsnəʊbɔːdɪŋ/",
+   "def_en": "The sport of moving over snow on a single wide board.",
+   "def_vi": "Môn trượt tuyết trên một tấm ván rộng.",
+   "gloss_vi": "trượt ván tuyết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Snowboarding</i> (uncountable noun) = trượt ván tuyết. <b>Grammar</b>: <i>go snowboarding</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I go <b>snowboarding</b> in the winter.",
+    "vi": "Mùa đông tôi đi <b>trượt ván tuyết</b>."
+   }
+  },
+  {
+   "word": "court",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kɔːt/",
+   "def_en": "An area where you play tennis, badminton, volleyball or basketball.",
+   "def_vi": "Khu vực chơi quần vợt, cầu lông, bóng chuyền, bóng rổ.",
+   "gloss_vi": "sân (quần vợt, bóng rổ…)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Court</i> (noun) = sân (quần vợt, bóng rổ…). <b>Grammar</b>: đếm được; dùng <i>on a court</i>. <b>Common mistakes</b>: bóng đá dùng <i>pitch</i>.",
+   "example": {
+    "en": "We play tennis / badminton / volleyball / basketball on a tennis / badminton / volleyball / basketball <b>court</b>.",
+    "vi": "Chúng tôi chơi quần vợt / cầu lông / bóng chuyền / bóng rổ trên <b>sân</b> quần vợt / cầu lông / bóng chuyền / bóng rổ."
+   }
+  },
+  {
+   "word": "pitch",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pɪtʃ/",
+   "def_en": "An area of grass where you play football or rugby.",
+   "def_vi": "Bãi cỏ để chơi bóng đá, bóng bầu dục.",
+   "gloss_vi": "sân (cỏ)",
+   "synonyms": "field <i>(n. sân (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pitch</i> (noun) = sân (cỏ). <b>Grammar</b>: đếm được; Anh–Anh; dùng <i>on a pitch</i>.",
+   "example": {
+    "en": "We play football / rugby on a football / rugby <b>pitch</b>.",
+    "vi": "Chúng tôi chơi bóng đá / bóng bầu dục trên <b>sân</b> bóng đá / bóng bầu dục."
+   }
+  },
+  {
+   "word": "swimming pool",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈswɪmɪŋ puːl/",
+   "def_en": "A large hole filled with water for swimming in.",
+   "def_vi": "Hồ nước để bơi.",
+   "gloss_vi": "bể bơi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Swimming pool</i> (noun phrase) = bể bơi. <b>Grammar</b>: dùng <i>in</i>: <i>swim in a swimming pool</i>.",
+   "example": {
+    "en": "We swim in a <b>swimming pool</b>.",
+    "vi": "Chúng ta bơi trong <b>bể bơi</b>."
+   }
+  },
+  {
+   "word": "sports centre",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈspɔːts sentə(r)/",
+   "def_en": "A building where you can do many different sports.",
+   "def_vi": "Tòa nhà có thể chơi nhiều môn thể thao.",
+   "gloss_vi": "trung tâm thể thao",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sports centre</i> (noun phrase) = trung tâm thể thao. <b>Grammar</b>: Anh–Anh <i>centre</i>, Mỹ <i>center</i>.",
+   "example": {
+    "en": "Many towns have a <b>sports centre</b> -you can do lots of different sports there.",
+    "vi": "Nhiều thị trấn có <b>trung tâm thể thao</b> – bạn có thể chơi nhiều môn ở đó."
+   }
+  },
+  {
+   "word": "favourite sport",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌfeɪvərɪt ˈspɔːt/",
+   "def_en": "The sport you like most.",
+   "def_vi": "Môn thể thao bạn thích nhất.",
+   "gloss_vi": "môn thể thao yêu thích",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Favourite sport</i> (noun phrase) = môn thể thao yêu thích. <b>Grammar</b>: Anh–Anh <i>favourite</i>, Mỹ <i>favorite</i>.",
+   "example": {
+    "en": "What’s your <b>favourite sport</b>?",
+    "vi": "<b>Môn thể thao yêu thích</b> của bạn là gì?"
+   }
+  }
+ ]
+}
