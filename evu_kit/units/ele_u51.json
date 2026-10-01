@@ -1,0 +1,683 @@
+{
+ "book": "ele",
+ "unit": 51,
+ "title_vi": "Ngày, tháng, mùa",
+ "theory_html": "<p><b>A. Time</b><br><i>A. Thời gian</i></p> <p>365 <b>days</b> in a <b>year</b> (366 = a <b>leap year</b>), 12 <b>months</b>, 7 days in a <b>week</b>, 2 weeks in a <b>fortnight</b>, 24 <b>hours</b> in a day (<b>an hour</b>), 60 <b>minutes</b>, 60 <b>seconds</b>, 100 years in a <b>century</b>.</p><p><i><b>ngày, năm (năm nhuận), tháng, tuần, hai tuần, giờ, phút, giây, thế kỷ</b>.</i></p> <p><b>B. Days of the week</b><br><i>B. Các ngày trong tuần</i></p> <p><b>Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday</b> (always capital letters); Saturday + Sunday = <b>the weekend</b>; <b>yesterday, today, tomorrow</b>; Monday <b>morning / afternoon / evening</b>. Say <b>on Monday, on Tuesday evening</b>, <b>at the weekend</b> (not <b>in the weekend</b>).</p><p><i>Thứ trong tuần viết hoa; <b>cuối tuần</b>; <b>hôm qua, hôm nay, ngày mai</b>; <b>on</b> + thứ, <b>at the weekend</b>.</i></p> <p><b>C. Months and seasons</b><br><i>C. Tháng và mùa</i></p> <p><b>January … December</b> (capital letters); <b>seasons</b>: <b>spring, summer, autumn, winter</b> (no capital). Say <b>in July, in (the) spring</b> (not <b>on July</b>). Tip: write the day and date in English, e.g. <b>Wednesday 2nd May 2017</b>.</p><p><i>Tháng viết hoa; mùa không viết hoa; <b>in</b> + tháng/mùa.</i></p>",
+ "items": [
+  {
+   "word": "day",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/deɪ/",
+   "def_en": "A period of 24 hours.",
+   "def_vi": "Khoảng 24 giờ.",
+   "gloss_vi": "ngày",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Day</i> (noun) = ngày. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>every day</i> (hằng ngày).",
+   "example": {
+    "en": "There are 365 <b>days</b> in a year.",
+    "vi": "Một năm có 365 <b>ngày</b>."
+   }
+  },
+  {
+   "word": "year",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/jɪə(r)/",
+   "def_en": "A period of 12 months.",
+   "def_vi": "Khoảng thời gian 12 tháng.",
+   "gloss_vi": "năm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Year</i> (noun) = năm. <b>Grammar</b>: <i>last/next year</i>, <i>in</i> + năm.",
+   "example": {
+    "en": "There are 365 days in a <b>year</b>.",
+    "vi": "Một <b>năm</b> có 365 ngày."
+   }
+  },
+  {
+   "word": "leap year",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈliːp jɪə(r)/",
+   "def_en": "A year which has 366 days.",
+   "def_vi": "Năm có 366 ngày.",
+   "gloss_vi": "năm nhuận",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Leap year</i> (noun phrase) = năm nhuận. <b>Grammar</b>: danh từ ghép.",
+   "example": {
+    "en": "A year which has 366 days is a <b>leap year</b>.",
+    "vi": "Năm có 366 ngày là <b>năm nhuận</b>."
+   }
+  },
+  {
+   "word": "month",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/mʌnθ/",
+   "def_en": "One of the twelve parts of a year.",
+   "def_vi": "Một trong mười hai phần của năm.",
+   "gloss_vi": "tháng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Month</i> (noun) = tháng. <b>Grammar</b>: số nhiều <i>months</i> /mʌnθs/; <i>last/next month</i>.",
+   "example": {
+    "en": "There are 12 <b>months</b> in a year.",
+    "vi": "Một năm có 12 <b>tháng</b>."
+   }
+  },
+  {
+   "word": "week",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/wiːk/",
+   "def_en": "A period of seven days.",
+   "def_vi": "Khoảng bảy ngày.",
+   "gloss_vi": "tuần",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Week</i> (noun) = tuần. <b>Grammar</b>: <i>last/next week</i>, <i>once a week</i>.",
+   "example": {
+    "en": "There are 7 days in a <b>week</b>.",
+    "vi": "Một <b>tuần</b> có 7 ngày."
+   }
+  },
+  {
+   "word": "fortnight",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfɔːtnaɪt/",
+   "def_en": "A period of two weeks.",
+   "def_vi": "Khoảng hai tuần.",
+   "gloss_vi": "hai tuần",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fortnight</i> (noun) = hai tuần. <b>Grammar</b>: Anh–Anh; <i>in a fortnight</i> (hai tuần nữa).",
+   "example": {
+    "en": "There are 2 weeks in a <b>fortnight</b>.",
+    "vi": "Hai tuần là một <b>fortnight</b>."
+   }
+  },
+  {
+   "word": "hour",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈaʊə(r)/",
+   "def_en": "A period of 60 minutes.",
+   "def_vi": "Khoảng 60 phút.",
+   "gloss_vi": "giờ, tiếng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hour</i> (noun) = giờ, tiếng. <b>Grammar</b>: chữ <i>h</i> câm nên dùng <i>an hour</i>.",
+   "example": {
+    "en": "There are 24 <b>hours</b> in a day.",
+    "vi": "Một ngày có 24 <b>giờ</b>."
+   }
+  },
+  {
+   "word": "minute",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɪnɪt/",
+   "def_en": "A period of 60 seconds.",
+   "def_vi": "Khoảng 60 giây.",
+   "gloss_vi": "phút",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Minute</i> (noun) = phút. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>Wait a minute!</i> (đợi chút).",
+   "example": {
+    "en": "There are 60 <b>minutes</b> in an hour.",
+    "vi": "Một giờ có 60 <b>phút</b>."
+   }
+  },
+  {
+   "word": "second",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsekənd/",
+   "def_en": "One of the 60 parts of a minute.",
+   "def_vi": "Một trong 60 phần của phút.",
+   "gloss_vi": "giây",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Second</i> (noun) = giây. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: cũng là số thứ tự “thứ hai”.",
+   "example": {
+    "en": "There are 60 <b>seconds</b> in a minute.",
+    "vi": "Một phút có 60 <b>giây</b>."
+   }
+  },
+  {
+   "word": "century",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsentʃəri/",
+   "def_en": "A period of 100 years.",
+   "def_vi": "Khoảng 100 năm.",
+   "gloss_vi": "thế kỷ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Century</i> (noun) = thế kỷ. <b>Grammar</b>: số nhiều <i>centuries</i>; <i>the 21st century</i>.",
+   "example": {
+    "en": "There are 100 years in a <b>century</b>.",
+    "vi": "Một <b>thế kỷ</b> là 100 năm."
+   }
+  },
+  {
+   "word": "Monday",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmʌndeɪ/",
+   "def_en": "The day after Sunday.",
+   "def_vi": "Ngày sau Chủ nhật.",
+   "gloss_vi": "thứ Hai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Monday</i> (noun) = thứ Hai. <b>Grammar</b>: viết hoa; <i>on Monday</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I saw her on <b>Monday</b>.",
+    "vi": "Tôi gặp cô ấy vào <b>thứ Hai</b>."
+   }
+  },
+  {
+   "word": "Tuesday",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtʃuːzdeɪ/",
+   "def_en": "The day after Monday.",
+   "def_vi": "Ngày sau thứ Hai.",
+   "gloss_vi": "thứ Ba",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tuesday</i> (noun) = thứ Ba. <b>Grammar</b>: viết hoa; <i>on Tuesday</i>.",
+   "example": {
+    "en": "I saw her on <b>Tuesday</b> evening.",
+    "vi": "Tôi gặp cô ấy vào <b>tối thứ Ba</b>."
+   }
+  },
+  {
+   "word": "Wednesday",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwenzdeɪ/",
+   "def_en": "The day after Tuesday.",
+   "def_vi": "Ngày sau thứ Ba.",
+   "gloss_vi": "thứ Tư",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wednesday</i> (noun) = thứ Tư. <b>Grammar</b>: chữ <i>d</i> đầu câm /ˈwenzdeɪ/.",
+   "example": {
+    "en": "<b>Wednesday</b> 2nd May 2017",
+    "vi": "Hôm nay là <b>thứ Tư</b> mùng 2 tháng Năm năm 2017."
+   }
+  },
+  {
+   "word": "Thursday",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈθɜːzdeɪ/",
+   "def_en": "The day after Wednesday.",
+   "def_vi": "Ngày sau thứ Tư.",
+   "gloss_vi": "thứ Năm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Thursday</i> (noun) = thứ Năm. <b>Grammar</b>: viết hoa; <i>th</i> đọc /θ/.",
+   "ex_kit": true,
+   "example": {
+    "en": "Let’s meet on <b>Thursday</b>.",
+    "vi": "Chúng ta gặp nhau vào <b>thứ Năm</b> nhé."
+   }
+  },
+  {
+   "word": "Friday",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfraɪdeɪ/",
+   "def_en": "The day after Thursday.",
+   "def_vi": "Ngày sau thứ Năm.",
+   "gloss_vi": "thứ Sáu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Friday</i> (noun) = thứ Sáu. <b>Grammar</b>: viết hoa; <i>on Friday</i>.",
+   "example": {
+    "en": "I saw her on <b>Friday</b>.",
+    "vi": "Tôi gặp cô ấy vào <b>thứ Sáu</b>."
+   }
+  },
+  {
+   "word": "Saturday",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsætədeɪ/",
+   "def_en": "The day after Friday.",
+   "def_vi": "Ngày sau thứ Sáu.",
+   "gloss_vi": "thứ Bảy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Saturday</i> (noun) = thứ Bảy. <b>Grammar</b>: viết hoa; <i>on Saturday</i>.",
+   "example": {
+    "en": "<b>Saturday</b> + Sunday = the weekend",
+    "vi": "<b>Thứ Bảy</b> và Chủ nhật là cuối tuần."
+   }
+  },
+  {
+   "word": "Sunday",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsʌndeɪ/",
+   "def_en": "The day after Saturday.",
+   "def_vi": "Ngày sau thứ Bảy.",
+   "gloss_vi": "Chủ nhật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sunday</i> (noun) = Chủ nhật. <b>Grammar</b>: viết hoa; <i>on Sunday</i>.",
+   "example": {
+    "en": "Saturday + <b>Sunday</b> = the weekend",
+    "vi": "Thứ Bảy và <b>Chủ nhật</b> là cuối tuần."
+   }
+  },
+  {
+   "word": "the weekend",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ðə ˌwiːkˈend/",
+   "def_en": "Saturday and Sunday.",
+   "def_vi": "Thứ Bảy và Chủ nhật.",
+   "gloss_vi": "cuối tuần",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The weekend</i> (noun phrase) = cuối tuần. <b>Grammar</b>: Anh–Anh <i>at the weekend</i>. <b>Common mistakes</b>: không nói <i>in the weekend</i>.",
+   "example": {
+    "en": "I went to the cinema <b>at the weekend</b>.",
+    "vi": "Tôi đi xem phim <b>vào cuối tuần</b>."
+   }
+  },
+  {
+   "word": "yesterday",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈjestədeɪ/",
+   "def_en": "The day before today.",
+   "def_vi": "Ngày trước hôm nay.",
+   "gloss_vi": "hôm qua",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "tomorrow <i>(adv. ngày mai)</i>",
+   "grammar_vi": "<i>Yesterday</i> (adverb) = hôm qua. <b>Grammar</b>: không dùng <i>on</i>: <i>yesterday morning</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I saw her <b>yesterday</b>.",
+    "vi": "<b>Hôm qua</b> tôi gặp cô ấy."
+   }
+  },
+  {
+   "word": "today",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/təˈdeɪ/",
+   "def_en": "This day.",
+   "def_vi": "Ngày này.",
+   "gloss_vi": "hôm nay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Today</i> (adverb) = hôm nay. <b>Grammar</b>: không dùng <i>on</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Today</b> is Wednesday.",
+    "vi": "<b>Hôm nay</b> là thứ Tư."
+   }
+  },
+  {
+   "word": "tomorrow",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/təˈmɒrəʊ/",
+   "def_en": "The day after today.",
+   "def_vi": "Ngày sau hôm nay.",
+   "gloss_vi": "ngày mai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "yesterday <i>(adv. hôm qua)</i>",
+   "grammar_vi": "<i>Tomorrow</i> (adverb) = ngày mai. <b>Grammar</b>: <i>tomorrow morning</i> (sáng mai).",
+   "ex_kit": true,
+   "example": {
+    "en": "See you <b>tomorrow</b>.",
+    "vi": "Hẹn gặp <b>ngày mai</b>."
+   }
+  },
+  {
+   "word": "morning",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɔːnɪŋ/",
+   "def_en": "The part of the day before 12 pm.",
+   "def_vi": "Phần ngày trước 12 giờ trưa.",
+   "gloss_vi": "buổi sáng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "evening <i>(n. buổi tối)</i>",
+   "grammar_vi": "<i>Morning</i> (noun) = buổi sáng. <b>Grammar</b>: <i>in the morning</i>, nhưng <i>on Monday morning</i>.",
+   "example": {
+    "en": "Monday (before 12 pm) = Monday <b>morning</b>",
+    "vi": "Thứ Hai (trước 12 giờ trưa) = <b>sáng</b> thứ Hai."
+   }
+  },
+  {
+   "word": "afternoon",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɑːftəˈnuːn/",
+   "def_en": "The part of the day between 12 pm and about 6 pm.",
+   "def_vi": "Phần ngày từ 12 giờ trưa đến khoảng 6 giờ chiều.",
+   "gloss_vi": "buổi chiều",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Afternoon</i> (noun) = buổi chiều. <b>Grammar</b>: <i>in the afternoon</i>, <i>on Monday afternoon</i>.",
+   "example": {
+    "en": "Monday (between 12 pm and 6 pm) = Monday <b>afternoon</b>",
+    "vi": "Thứ Hai (12 giờ trưa – 6 giờ chiều) = <b>chiều</b> thứ Hai."
+   }
+  },
+  {
+   "word": "evening",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈiːvnɪŋ/",
+   "def_en": "The part of the day after about 6 pm.",
+   "def_vi": "Phần ngày sau khoảng 6 giờ tối.",
+   "gloss_vi": "buổi tối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "morning <i>(n. buổi sáng)</i>",
+   "grammar_vi": "<i>Evening</i> (noun) = buổi tối. <b>Grammar</b>: <i>in the evening</i>, <i>on Tuesday evening</i>.",
+   "example": {
+    "en": "Monday (after 6 pm) = Monday <b>evening</b>",
+    "vi": "Thứ Hai (sau 6 giờ tối) = <b>tối</b> thứ Hai."
+   }
+  },
+  {
+   "word": "January",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdʒænjuəri/",
+   "def_en": "The first month of the year.",
+   "def_vi": "Tháng đầu tiên trong năm.",
+   "gloss_vi": "tháng Một",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>January</i> (noun) = tháng Một. <b>Grammar</b>: viết hoa; <i>in January</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "It’s very cold in <b>January</b>.",
+    "vi": "Trời rất lạnh vào <b>tháng Một</b>."
+   }
+  },
+  {
+   "word": "February",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfebruəri/",
+   "def_en": "The second month of the year.",
+   "def_vi": "Tháng thứ hai trong năm.",
+   "gloss_vi": "tháng Hai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>February</i> (noun) = tháng Hai. <b>Grammar</b>: viết hoa; có chữ <i>r</i> sau <i>b</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Valentine’s Day is on 14th <b>February</b>.",
+    "vi": "Ngày Valentine là 14 <b>tháng Hai</b>."
+   }
+  },
+  {
+   "word": "March",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/mɑːtʃ/",
+   "def_en": "The third month of the year.",
+   "def_vi": "Tháng thứ ba.",
+   "gloss_vi": "tháng Ba",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>March</i> (noun) = tháng Ba. <b>Grammar</b>: viết hoa.",
+   "ex_kit": true,
+   "example": {
+    "en": "Spring starts in <b>March</b>.",
+    "vi": "Mùa xuân bắt đầu vào <b>tháng Ba</b>."
+   }
+  },
+  {
+   "word": "April",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈeɪprəl/",
+   "def_en": "The fourth month of the year.",
+   "def_vi": "Tháng thứ tư.",
+   "gloss_vi": "tháng Tư",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>April</i> (noun) = tháng Tư. <b>Grammar</b>: viết hoa.",
+   "ex_kit": true,
+   "example": {
+    "en": "I’m going there in <b>April</b>.",
+    "vi": "Tôi sẽ đến đó vào <b>tháng Tư</b>."
+   }
+  },
+  {
+   "word": "May",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/meɪ/",
+   "def_en": "The fifth month of the year.",
+   "def_vi": "Tháng thứ năm.",
+   "gloss_vi": "tháng Năm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>May</i> (noun) = tháng Năm. <b>Grammar</b>: viết hoa. <b>Common mistakes</b>: khác <i>may</i> (có thể).",
+   "ex_kit": true,
+   "example": {
+    "en": "Max is coming back from Portugal in <b>May</b>.",
+    "vi": "Max sẽ từ Bồ Đào Nha về vào <b>tháng Năm</b>."
+   }
+  },
+  {
+   "word": "June",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dʒuːn/",
+   "def_en": "The sixth month of the year.",
+   "def_vi": "Tháng thứ sáu.",
+   "gloss_vi": "tháng Sáu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>June</i> (noun) = tháng Sáu. <b>Grammar</b>: viết hoa.",
+   "ex_kit": true,
+   "example": {
+    "en": "What’s the weather like in your country in <b>June</b>?",
+    "vi": "Thời tiết nước bạn vào <b>tháng Sáu</b> thế nào?"
+   }
+  },
+  {
+   "word": "July",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dʒuˈlaɪ/",
+   "def_en": "The seventh month of the year.",
+   "def_vi": "Tháng thứ bảy.",
+   "gloss_vi": "tháng Bảy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>July</i> (noun) = tháng Bảy. <b>Grammar</b>: trọng âm âm 2. <b>Common mistakes</b>: không nói <i>on July</i>.",
+   "example": {
+    "en": "My birthday is in <b>July</b>.",
+    "vi": "Sinh nhật tôi vào <b>tháng Bảy</b>."
+   }
+  },
+  {
+   "word": "August",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɔːɡəst/",
+   "def_en": "The eighth month of the year.",
+   "def_vi": "Tháng thứ tám.",
+   "gloss_vi": "tháng Tám",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>August</i> (noun) = tháng Tám. <b>Grammar</b>: viết hoa.",
+   "ex_kit": true,
+   "example": {
+    "en": "Next month it will be <b>August</b>.",
+    "vi": "Tháng sau sẽ là <b>tháng Tám</b>."
+   }
+  },
+  {
+   "word": "September",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/sepˈtembə(r)/",
+   "def_en": "The ninth month of the year.",
+   "def_vi": "Tháng thứ chín.",
+   "gloss_vi": "tháng Chín",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>September</i> (noun) = tháng Chín. <b>Grammar</b>: viết hoa.",
+   "ex_kit": true,
+   "example": {
+    "en": "The school year starts in <b>September</b>.",
+    "vi": "Năm học bắt đầu vào <b>tháng Chín</b>."
+   }
+  },
+  {
+   "word": "October",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɒkˈtəʊbə(r)/",
+   "def_en": "The tenth month of the year.",
+   "def_vi": "Tháng thứ mười.",
+   "gloss_vi": "tháng Mười",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>October</i> (noun) = tháng Mười. <b>Grammar</b>: viết hoa.",
+   "ex_kit": true,
+   "example": {
+    "en": "Halloween is on 31st <b>October</b>.",
+    "vi": "Halloween là 31 <b>tháng Mười</b>."
+   }
+  },
+  {
+   "word": "November",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/nəʊˈvembə(r)/",
+   "def_en": "The eleventh month of the year.",
+   "def_vi": "Tháng thứ mười một.",
+   "gloss_vi": "tháng Mười Một",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>November</i> (noun) = tháng Mười Một. <b>Grammar</b>: viết hoa.",
+   "ex_kit": true,
+   "example": {
+    "en": "Bonfire Night is on 5th <b>November</b>.",
+    "vi": "Đêm Lửa trại là 5 <b>tháng Mười Một</b>."
+   }
+  },
+  {
+   "word": "December",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈsembə(r)/",
+   "def_en": "The twelfth month of the year.",
+   "def_vi": "Tháng thứ mười hai.",
+   "gloss_vi": "tháng Mười Hai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>December</i> (noun) = tháng Mười Hai. <b>Grammar</b>: viết hoa.",
+   "ex_kit": true,
+   "example": {
+    "en": "Christmas is on 25th <b>December</b>.",
+    "vi": "Giáng sinh vào 25 <b>tháng Mười Hai</b>."
+   }
+  },
+  {
+   "word": "seasons",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈsiːznz/",
+   "def_en": "The four parts of the year: spring, summer, autumn and winter.",
+   "def_vi": "Bốn phần của năm: xuân, hạ, thu, đông.",
+   "gloss_vi": "mùa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Seasons</i> (plural noun) = mùa. <b>Grammar</b>: số ít <i>a season</i>; tên mùa không viết hoa.",
+   "example": {
+    "en": "Some countries have four <b>seasons</b>.",
+    "vi": "Một số nước có bốn <b>mùa</b>."
+   }
+  },
+  {
+   "word": "spring",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/sprɪŋ/",
+   "def_en": "The season between winter and summer.",
+   "def_vi": "Mùa giữa đông và hạ.",
+   "gloss_vi": "mùa xuân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "autumn <i>(n. mùa thu)</i>",
+   "grammar_vi": "<i>Spring</i> (noun) = mùa xuân. <b>Grammar</b>: <i>in (the) spring</i>.",
+   "example": {
+    "en": "Birds sing in (the) <b>spring</b>.",
+    "vi": "Chim hót vào <b>mùa xuân</b>."
+   }
+  },
+  {
+   "word": "summer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsʌmə(r)/",
+   "def_en": "The warmest season of the year.",
+   "def_vi": "Mùa ấm nhất trong năm.",
+   "gloss_vi": "mùa hè",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "winter <i>(n. mùa đông)</i>",
+   "grammar_vi": "<i>Summer</i> (noun) = mùa hè. <b>Grammar</b>: <i>in (the) summer</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We go to the beach in the <b>summer</b>.",
+    "vi": "Chúng tôi đi biển vào <b>mùa hè</b>."
+   }
+  },
+  {
+   "word": "autumn",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɔːtəm/",
+   "def_en": "The season between summer and winter.",
+   "def_vi": "Mùa giữa hạ và đông.",
+   "gloss_vi": "mùa thu",
+   "synonyms": "fall <i>(n. mùa thu (Mỹ))</i>",
+   "antonyms": "spring <i>(n. mùa xuân)</i>",
+   "grammar_vi": "<i>Autumn</i> (noun) = mùa thu. <b>Grammar</b>: chữ <i>n</i> cuối câm /ˈɔːtəm/.",
+   "ex_kit": true,
+   "example": {
+    "en": "The leaves turn yellow in <b>autumn</b>.",
+    "vi": "Lá cây chuyển vàng vào <b>mùa thu</b>."
+   }
+  },
+  {
+   "word": "winter",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɪntə(r)/",
+   "def_en": "The coldest season of the year.",
+   "def_vi": "Mùa lạnh nhất trong năm.",
+   "gloss_vi": "mùa đông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "summer <i>(n. mùa hè)</i>",
+   "grammar_vi": "<i>Winter</i> (noun) = mùa đông. <b>Grammar</b>: <i>in (the) winter</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "It always snows in Russia in <b>winter</b>.",
+    "vi": "Ở Nga <b>mùa đông</b> luôn có tuyết."
+   }
+  }
+ ]
+}

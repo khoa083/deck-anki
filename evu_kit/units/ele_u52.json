@@ -1,0 +1,381 @@
+{
+ "book": "ele",
+ "unit": 52,
+ "title_vi": "Từ chỉ thời gian",
+ "theory_html": "<p><b>A. Time in relation to now</b><br><i>A. Thời gian so với hiện tại</i></p> <p><b>now</b> (at this moment), <b>then</b> (at another moment); <b>four hours ago, an hour ago; for two years, from 2014 to 2016; last year / week, next year / week; the past, the present, the future; in the past, in the future</b>.</p><p><i><b>bây giờ, lúc đó; cách đây; trong khoảng; từ … đến; năm ngoái, năm sau; quá khứ, hiện tại, tương lai</b>.</i></p> <p><b>B. Frequency adverbs</b><br><i>B. Trạng từ tần suất</i></p> <p><b>always, usually, often, sometimes, now and then, occasionally, not often, rarely, never</b>.</p><p><i><b>luôn luôn, thường, hay, đôi khi, thỉnh thoảng, hiếm khi, không bao giờ</b>.</i></p> <p><b>C. Expressions</b><br><i>C. Cách nói</i></p> <p><b>once a week, twice a day, three times a year; in a moment</b> (a very short time), <b>at the moment</b> (now), <b>soon, recently</b> (not long ago).</p><p><i><b>mỗi tuần một lần, ngày hai lần; lát nữa; lúc này; sớm; gần đây</b>.</i></p>",
+ "items": [
+  {
+   "word": "now",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/naʊ/",
+   "def_en": "At this moment.",
+   "def_vi": "Vào lúc này.",
+   "gloss_vi": "bây giờ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "then <i>(adv. lúc đó)</i>",
+   "grammar_vi": "<i>Now</i> (adverb) = bây giờ. <b>Grammar</b>: trạng từ thời gian.",
+   "example": {
+    "en": "I was born in Edinburgh. Then we moved to London. <b>Now</b> I live in Cambridge.",
+    "vi": "Tôi sinh ra ở Edinburgh. Rồi chúng tôi chuyển đến London. <b>Bây giờ</b> tôi sống ở Cambridge."
+   }
+  },
+  {
+   "word": "then",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ðen/",
+   "def_en": "At another moment, usually in the past; after that.",
+   "def_vi": "Vào lúc khác, thường trong quá khứ; sau đó.",
+   "gloss_vi": "rồi, lúc đó",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "now <i>(adv. bây giờ)</i>",
+   "grammar_vi": "<i>Then</i> (adverb) = rồi, lúc đó. <b>Grammar</b>: dùng kể trình tự sự việc.",
+   "example": {
+    "en": "I was born in Edinburgh. <b>Then</b> we moved to London.",
+    "vi": "Tôi sinh ra ở Edinburgh. <b>Rồi</b> chúng tôi chuyển đến London."
+   }
+  },
+  {
+   "word": "ago",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/əˈɡəʊ/",
+   "def_en": "Before now.",
+   "def_vi": "Trước thời điểm này.",
+   "gloss_vi": "cách đây, trước",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ago</i> (adverb) = cách đây, trước. <b>Grammar</b>: đứng sau khoảng thời gian: <i>two days ago</i>; dùng với thì quá khứ đơn.",
+   "example": {
+    "en": "I got up four hours <b>ago</b>, at 6 o’clock.",
+    "vi": "Tôi dậy <b>cách đây</b> bốn tiếng, lúc 6 giờ."
+   }
+  },
+  {
+   "word": "for",
+   "sense": "time",
+   "pos": "preposition",
+   "ipa": "/fə(r)/",
+   "def_en": "Used to show a period of time.",
+   "def_vi": "Dùng chỉ khoảng thời gian.",
+   "gloss_vi": "trong (khoảng thời gian)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>For</i> (preposition) = trong (khoảng thời gian). <b>Grammar</b>: <i>for</i> + khoảng thời gian: <i>for two years</i>. <b>Common mistakes</b>: khác <i>since</i> + mốc thời gian.",
+   "ex_kit": true,
+   "example": {
+    "en": "I lived there <b>for</b> two years.",
+    "vi": "Tôi sống ở đó <b>trong</b> hai năm."
+   }
+  },
+  {
+   "word": "last",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/lɑːst/",
+   "def_en": "The one before this one.",
+   "def_vi": "Cái trước cái hiện tại.",
+   "gloss_vi": "trước, vừa qua",
+   "synonyms": "previous <i>(adj. trước)</i>",
+   "antonyms": "next <i>(adj. tới)</i>",
+   "grammar_vi": "<i>Last</i> (adjective) = trước, vừa qua. <b>Grammar</b>: <i>last week/month/year</i> không dùng <i>the</i> hay <i>in</i>.",
+   "example": {
+    "en": "<b>Last</b> month it was June.",
+    "vi": "<b>Tháng trước</b> là tháng Sáu."
+   }
+  },
+  {
+   "word": "next",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/nekst/",
+   "def_en": "The one after this one.",
+   "def_vi": "Cái sau cái hiện tại.",
+   "gloss_vi": "tới, sau",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "last <i>(adj. trước)</i>",
+   "grammar_vi": "<i>Next</i> (adjective) = tới, sau. <b>Grammar</b>: <i>next week/month/year</i> không dùng <i>the</i>.",
+   "example": {
+    "en": "<b>Next</b> month it will be August.",
+    "vi": "<b>Tháng sau</b> sẽ là tháng Tám."
+   }
+  },
+  {
+   "word": "the past",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ðə ˈpɑːst/",
+   "def_en": "The time before now.",
+   "def_vi": "Thời gian trước bây giờ.",
+   "gloss_vi": "quá khứ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "the future <i>(np. tương lai)</i>",
+   "grammar_vi": "<i>The past</i> (noun phrase) = quá khứ. <b>Grammar</b>: <i>in the past</i>.",
+   "example": {
+    "en": "<b>In the past</b> people didn’t have television.",
+    "vi": "<b>Trong quá khứ</b> con người không có ti vi."
+   }
+  },
+  {
+   "word": "the present",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ðə ˈpreznt/",
+   "def_en": "The time now.",
+   "def_vi": "Thời gian hiện tại.",
+   "gloss_vi": "hiện tại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The present</i> (noun phrase) = hiện tại. <b>Grammar</b>: <i>at present</i> (hiện nay).",
+   "example": {
+    "en": "When we talk about time in general, we talk about the past, <b>the present</b> and the future.",
+    "vi": "Khi nói về thời gian nói chung, ta nói về quá khứ, <b>hiện tại</b> và tương lai."
+   }
+  },
+  {
+   "word": "the future",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ðə ˈfjuːtʃə(r)/",
+   "def_en": "The time after now.",
+   "def_vi": "Thời gian sau bây giờ.",
+   "gloss_vi": "tương lai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "the past <i>(np. quá khứ)</i>",
+   "grammar_vi": "<i>The future</i> (noun phrase) = tương lai. <b>Grammar</b>: <i>in the future</i>.",
+   "example": {
+    "en": "People may travel to Mars <b>in the future</b>.",
+    "vi": "Con người có thể du hành lên sao Hỏa <b>trong tương lai</b>."
+   }
+  },
+  {
+   "word": "always",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈɔːlweɪz/",
+   "def_en": "At all times.",
+   "def_vi": "Mọi lúc.",
+   "gloss_vi": "luôn luôn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "never <i>(adv. không bao giờ)</i>",
+   "grammar_vi": "<i>Always</i> (adverb) = luôn luôn. <b>Grammar</b>: đứng trước động từ thường, sau <i>be</i>.",
+   "example": {
+    "en": "It <b>always</b> snows in Russia in winter.",
+    "vi": "Ở Nga mùa đông <b>luôn</b> có tuyết."
+   }
+  },
+  {
+   "word": "often",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈɒfn/",
+   "def_en": "Many times.",
+   "def_vi": "Nhiều lần.",
+   "gloss_vi": "thường, hay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "rarely <i>(adv. hiếm khi)</i>",
+   "grammar_vi": "<i>Often</i> (adverb) = thường, hay. <b>Grammar</b>: thường đọc /ˈɒfn/ (chữ <i>t</i> câm).",
+   "example": {
+    "en": "It <b>often</b> rains in the UK.",
+    "vi": "Ở Anh trời <b>hay</b> mưa."
+   }
+  },
+  {
+   "word": "sometimes",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈsʌmtaɪmz/",
+   "def_en": "On some occasions, but not always.",
+   "def_vi": "Vào một số lúc, không phải luôn luôn.",
+   "gloss_vi": "đôi khi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sometimes</i> (adverb) = đôi khi. <b>Grammar</b>: đứng đầu câu hoặc trước động từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Sometimes</b> I walk to work.",
+    "vi": "<b>Đôi khi</b> tôi đi bộ đi làm."
+   }
+  },
+  {
+   "word": "now and then",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌnaʊ ən ˈðen/",
+   "def_en": "Sometimes but not often.",
+   "def_vi": "Thỉnh thoảng, không thường xuyên.",
+   "gloss_vi": "thỉnh thoảng",
+   "synonyms": "occasionally <i>(adv. thỉnh thoảng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Now and then</i> (phrase) = thỉnh thoảng. <b>Grammar</b>: thường đứng cuối câu.",
+   "ex_kit": true,
+   "example": {
+    "en": "We eat out <b>now and then</b>.",
+    "vi": "Chúng tôi <b>thỉnh thoảng</b> đi ăn ngoài."
+   }
+  },
+  {
+   "word": "occasionally",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/əˈkeɪʒnəli/",
+   "def_en": "Sometimes but not often.",
+   "def_vi": "Thỉnh thoảng.",
+   "gloss_vi": "thỉnh thoảng",
+   "synonyms": "now and then <i>(phr. thỉnh thoảng)</i>",
+   "antonyms": "often <i>(adv. thường)</i>",
+   "grammar_vi": "<i>Occasionally</i> (adverb) = thỉnh thoảng. <b>Grammar</b>: đứng trước động từ thường.",
+   "ex_kit": true,
+   "example": {
+    "en": "I <b>occasionally</b> see him in town.",
+    "vi": "Tôi <b>thỉnh thoảng</b> gặp anh ấy ở thị trấn."
+   }
+  },
+  {
+   "word": "rarely",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈreəli/",
+   "def_en": "Not often.",
+   "def_vi": "Không thường xuyên.",
+   "gloss_vi": "hiếm khi",
+   "synonyms": "seldom <i>(adv. hiếm khi)</i>",
+   "antonyms": "often <i>(adv. thường)</i>",
+   "grammar_vi": "<i>Rarely</i> (adverb) = hiếm khi. <b>Grammar</b>: mang nghĩa phủ định, không dùng thêm <i>not</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "It <b>rarely</b> snows here.",
+    "vi": "Ở đây <b>hiếm khi</b> có tuyết."
+   }
+  },
+  {
+   "word": "never",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈnevə(r)/",
+   "def_en": "At no time.",
+   "def_vi": "Không lúc nào.",
+   "gloss_vi": "không bao giờ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "always <i>(adv. luôn luôn)</i>",
+   "grammar_vi": "<i>Never</i> (adverb) = không bao giờ. <b>Grammar</b>: mang nghĩa phủ định. <b>Common mistakes</b>: không dùng <i>never</i> với <i>not</i>.",
+   "example": {
+    "en": "The Ancient Romans <b>never</b> went to America or Australia.",
+    "vi": "Người La Mã cổ đại <b>chưa bao giờ</b> đến châu Mỹ hay châu Úc."
+   }
+  },
+  {
+   "word": "once a week",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌwʌns ə ˈwiːk/",
+   "def_en": "One time every week.",
+   "def_vi": "Mỗi tuần một lần.",
+   "gloss_vi": "mỗi tuần một lần",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Once a week</i> (phrase) = mỗi tuần một lần. <b>Grammar</b>: <i>once / twice / three times</i> + <i>a</i> + đơn vị thời gian.",
+   "example": {
+    "en": "once [one time] a week: I go swimming <b>once a week</b>, every Saturday.",
+    "vi": "Tôi đi bơi <b>mỗi tuần một lần</b>, vào thứ Bảy."
+   }
+  },
+  {
+   "word": "twice a day",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌtwaɪs ə ˈdeɪ/",
+   "def_en": "Two times every day.",
+   "def_vi": "Mỗi ngày hai lần.",
+   "gloss_vi": "ngày hai lần",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Twice a day</i> (phrase) = ngày hai lần. <b>Grammar</b>: <i>twice</i> = <i>two times</i>.",
+   "example": {
+    "en": "twice [two times] a day: I clean my teeth <b>twice a day</b>.",
+    "vi": "Tôi đánh răng <b>ngày hai lần</b>."
+   }
+  },
+  {
+   "word": "three times a year",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌθriː taɪmz ə ˈjɪə(r)/",
+   "def_en": "Three times every year.",
+   "def_vi": "Mỗi năm ba lần.",
+   "gloss_vi": "mỗi năm ba lần",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Three times a year</i> (phrase) = mỗi năm ba lần. <b>Grammar</b>: từ ba lần trở lên dùng <i>times</i>.",
+   "example": {
+    "en": "<b>three times a year</b>: I see my uncle three times a year.",
+    "vi": "Tôi gặp chú tôi <b>mỗi năm ba lần</b>."
+   }
+  },
+  {
+   "word": "in a moment",
+   "sense": "",
+   "pos": "prepositional phrase",
+   "ipa": "/ɪn ə ˈməʊmənt/",
+   "def_en": "In a very short time.",
+   "def_vi": "Trong chốc lát.",
+   "gloss_vi": "lát nữa, chốc lát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In a moment</i> (prepositional phrase) = lát nữa, chốc lát. <b>Grammar</b>: dùng cho tương lai gần. <b>Common mistakes</b>: khác <i>at the moment</i> (lúc này).",
+   "example": {
+    "en": "I’ll be with you <b>in a moment</b> [a very short time].",
+    "vi": "Tôi sẽ đến với bạn <b>ngay đây</b>."
+   }
+  },
+  {
+   "word": "at the moment",
+   "sense": "",
+   "pos": "prepositional phrase",
+   "ipa": "/ət ðə ˈməʊmənt/",
+   "def_en": "Now.",
+   "def_vi": "Bây giờ, lúc này.",
+   "gloss_vi": "lúc này, hiện giờ",
+   "synonyms": "right now <i>(adv. ngay bây giờ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>At the moment</i> (prepositional phrase) = lúc này, hiện giờ. <b>Grammar</b>: dùng với thì hiện tại.",
+   "example": {
+    "en": "Nora’s in Paris <b>at the moment</b> [now].",
+    "vi": "Nora đang ở Paris <b>lúc này</b>."
+   }
+  },
+  {
+   "word": "soon",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/suːn/",
+   "def_en": "In a short time.",
+   "def_vi": "Trong thời gian ngắn tới.",
+   "gloss_vi": "sớm, chẳng bao lâu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Soon</i> (adverb) = sớm, chẳng bao lâu. <b>Grammar</b>: <i>soon</i> đứng cuối câu hoặc trước động từ.",
+   "example": {
+    "en": "See you <b>soon</b>!",
+    "vi": "Hẹn <b>sớm</b> gặp lại!"
+   }
+  },
+  {
+   "word": "recently",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈriːsntli/",
+   "def_en": "Not long ago.",
+   "def_vi": "Cách đây không lâu.",
+   "gloss_vi": "gần đây",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Recently</i> (adverb) = gần đây. <b>Grammar</b>: thường dùng với thì quá khứ hoặc hiện tại hoàn thành.",
+   "example": {
+    "en": "We met <b>recently</b> [not long ago].",
+    "vi": "Chúng tôi mới gặp nhau <b>gần đây</b>."
+   }
+  }
+ ]
+}

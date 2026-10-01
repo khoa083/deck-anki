@@ -1,0 +1,344 @@
+{
+ "book": "ele",
+ "unit": 53,
+ "title_vi": "Nơi chốn",
+ "theory_html": "<p><b>A. General place words</b><br><i>A. Từ chỉ nơi chốn chung</i></p> <p><b>here</b> (to where I am), <b>there</b> (another place), <b>back</b> (to this place again), <b>everywhere</b> (in all places).</p><p><i><b>đây, đó, trở lại, khắp nơi</b>.</i></p> <p><b>B. Prepositions</b><br><i>B. Giới từ</i></p> <p><b>in</b> the kitchen / the village / Seoul / Asia; <b>at</b> the station / the front of the class; <b>on</b> the wall / the chair.</p><p><i><b>in</b> (trong), <b>at</b> (tại), <b>on</b> (trên).</i></p> <p><b>C. Positions</b><br><i>C. Vị trí</i></p> <p><b>the top / middle / bottom; the front / side / back; the beginning / end</b>.</p><p><i><b>đỉnh, giữa, đáy; phía trước, bên hông, phía sau; đầu, cuối</b>.</i></p> <p><b>D. Left and right</b><br><i>D. Trái và phải</i></p> <p><b>left hand, right hand; on the left, on the right</b>.</p><p><i><b>tay trái, tay phải; bên trái, bên phải</b>.</i></p> <p><b>E. Home and away</b><br><i>E. Ở nhà và đi vắng</i></p> <p><b>at home</b> (in her house), <b>out</b> (not here for a short time), <b>away</b> (not here for a longer time), <b>abroad</b> (in another country).</p><p><i><b>ở nhà, ra ngoài, đi vắng, ở nước ngoài</b>.</i></p>",
+ "items": [
+  {
+   "word": "here",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/hɪə(r)/",
+   "def_en": "In or to this place, where I am.",
+   "def_vi": "Ở hoặc đến chỗ này, nơi tôi đang ở.",
+   "gloss_vi": "đây, ở đây",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "there <i>(adv. đó)</i>",
+   "grammar_vi": "<i>Here</i> (adverb) = đây, ở đây. <b>Grammar</b>: không dùng <i>to</i>: <i>come here</i>.",
+   "example": {
+    "en": "Come <b>here</b>, please.",
+    "vi": "Làm ơn lại <b>đây</b>."
+   }
+  },
+  {
+   "word": "there",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ðeə(r)/",
+   "def_en": "In or to that place, not here.",
+   "def_vi": "Ở hoặc đến chỗ đó, không phải đây.",
+   "gloss_vi": "đó, ở đó",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "here <i>(adv. đây)</i>",
+   "grammar_vi": "<i>There</i> (adverb) = đó, ở đó. <b>Grammar</b>: không dùng <i>to</i>: <i>go there</i>.",
+   "example": {
+    "en": "Have you been to Lima? I’m going <b>there</b> in April.",
+    "vi": "Bạn đến Lima chưa? Tôi sẽ đến <b>đó</b> vào tháng Tư."
+   }
+  },
+  {
+   "word": "back",
+   "sense": "place",
+   "pos": "adverb",
+   "ipa": "/bæk/",
+   "def_en": "To this place again.",
+   "def_vi": "Trở lại nơi này.",
+   "gloss_vi": "trở về, trở lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Back</i> (adverb) = trở về, trở lại. <b>Grammar</b>: <i>come back, go back</i>. <b>Common mistakes</b>: khác <i>back</i> (cái lưng, bài 3).",
+   "example": {
+    "en": "Max is coming <b>back</b> from Portugal in May.",
+    "vi": "Max sẽ từ Bồ Đào Nha <b>trở về</b> vào tháng Năm."
+   }
+  },
+  {
+   "word": "everywhere",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈevriweə(r)/",
+   "def_en": "In all places.",
+   "def_vi": "Ở mọi nơi.",
+   "gloss_vi": "khắp nơi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "nowhere <i>(adv. không nơi nào)</i>",
+   "grammar_vi": "<i>Everywhere</i> (adverb) = khắp nơi. <b>Grammar</b>: dùng động từ số ít khi làm chủ ngữ.",
+   "example": {
+    "en": "There are books and papers <b>everywhere</b> in my room.",
+    "vi": "Sách vở bày <b>khắp nơi</b> trong phòng tôi."
+   }
+  },
+  {
+   "word": "in",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ɪn/",
+   "def_en": "Inside a room, building, town or country.",
+   "def_vi": "Bên trong phòng, tòa nhà, thị trấn, nước.",
+   "gloss_vi": "trong, ở",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In</i> (preposition) = trong, ở. <b>Grammar</b>: <i>in</i> + phòng, thành phố, nước, châu lục.",
+   "example": {
+    "en": "Luke is <b>in</b> the kitchen, making dinner.",
+    "vi": "Luke đang <b>ở trong</b> bếp nấu bữa tối."
+   }
+  },
+  {
+   "word": "at",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/æt/",
+   "def_en": "Used to show a particular place or point.",
+   "def_vi": "Dùng chỉ một địa điểm cụ thể.",
+   "gloss_vi": "tại, ở",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>At</i> (preposition) = tại, ở. <b>Grammar</b>: <i>at</i> + điểm: <i>at the station, at home, at work</i>.",
+   "example": {
+    "en": "I’ll meet you <b>at</b> the station.",
+    "vi": "Tôi sẽ gặp bạn <b>ở</b> nhà ga."
+   }
+  },
+  {
+   "word": "on",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ɒn/",
+   "def_en": "Touching the surface of something.",
+   "def_vi": "Tiếp xúc với bề mặt vật gì.",
+   "gloss_vi": "trên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>On</i> (preposition) = trên. <b>Grammar</b>: <i>on</i> + bề mặt: <i>on the wall / the chair / the table</i>.",
+   "example": {
+    "en": "I like that photo <b>on</b> the wall.",
+    "vi": "Tôi thích bức ảnh <b>trên</b> tường."
+   }
+  },
+  {
+   "word": "top",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tɒp/",
+   "def_en": "The highest part of something.",
+   "def_vi": "Phần cao nhất của vật gì.",
+   "gloss_vi": "đỉnh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "bottom <i>(n. đáy)</i>",
+   "grammar_vi": "<i>Top</i> (noun) = đỉnh. <b>Grammar</b>: <i>at the top of</i> + danh từ.",
+   "example": {
+    "en": "the <b>top</b> of the mountain",
+    "vi": "<b>Đỉnh</b> núi."
+   }
+  },
+  {
+   "word": "middle",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɪdl/",
+   "def_en": "The centre of something.",
+   "def_vi": "Phần ở giữa vật gì.",
+   "gloss_vi": "giữa",
+   "synonyms": "centre <i>(n. trung tâm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Middle</i> (noun) = giữa. <b>Grammar</b>: <i>in the middle of</i> + danh từ.",
+   "example": {
+    "en": "the <b>middle</b> of the road",
+    "vi": "<b>Giữa</b> đường."
+   }
+  },
+  {
+   "word": "bottom",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɒtəm/",
+   "def_en": "The lowest part of something.",
+   "def_vi": "Phần thấp nhất của vật gì.",
+   "gloss_vi": "đáy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "top <i>(n. đỉnh)</i>",
+   "grammar_vi": "<i>Bottom</i> (noun) = đáy. <b>Grammar</b>: <i>at the bottom of</i> + danh từ.",
+   "example": {
+    "en": "the <b>bottom</b> of the glass",
+    "vi": "<b>Đáy</b> cốc."
+   }
+  },
+  {
+   "word": "front",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/frʌnt/",
+   "def_en": "The part that faces forward.",
+   "def_vi": "Phần quay về phía trước.",
+   "gloss_vi": "phía trước",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "back <i>(n. phía sau)</i>",
+   "grammar_vi": "<i>Front</i> (noun) = phía trước. <b>Grammar</b>: <i>at the front of</i>; <i>in front of</i> (đằng trước). <b>Common mistakes</b>: <i>o</i> đọc /ʌ/.",
+   "example": {
+    "en": "I always sit at the <b>front</b> of the class.",
+    "vi": "Tôi luôn ngồi <b>ở đầu</b> lớp."
+   }
+  },
+  {
+   "word": "side",
+   "sense": "position",
+   "pos": "noun",
+   "ipa": "/saɪd/",
+   "def_en": "The part of something that is not the front, back, top or bottom.",
+   "def_vi": "Phần không phải trước, sau, trên, dưới.",
+   "gloss_vi": "bên hông, cạnh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Side</i> (noun) = bên hông, cạnh. <b>Grammar</b>: <i>on the side of</i>. <b>Common mistakes</b>: khác <i>side</i> (sườn người, bài 3).",
+   "example": {
+    "en": "the <b>side</b> of the car",
+    "vi": "<b>Bên hông</b> xe ô tô."
+   }
+  },
+  {
+   "word": "beginning",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bɪˈɡɪnɪŋ/",
+   "def_en": "The first part of something.",
+   "def_vi": "Phần đầu tiên của vật gì.",
+   "gloss_vi": "đầu, điểm bắt đầu",
+   "synonyms": "start <i>(n. sự bắt đầu)</i>",
+   "antonyms": "end <i>(n. cuối)</i>",
+   "grammar_vi": "<i>Beginning</i> (noun) = đầu, điểm bắt đầu. <b>Grammar</b>: <i>at the beginning of</i>. <b>Word family</b>: <i>begin</i> (v.).",
+   "example": {
+    "en": "the <b>beginning</b> of the motorway",
+    "vi": "<b>Đầu</b> đường cao tốc."
+   }
+  },
+  {
+   "word": "end",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/end/",
+   "def_en": "The last part of something.",
+   "def_vi": "Phần cuối cùng của vật gì.",
+   "gloss_vi": "cuối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "beginning <i>(n. đầu)</i>",
+   "grammar_vi": "<i>End</i> (noun) = cuối. <b>Grammar</b>: <i>at the end of</i>.",
+   "example": {
+    "en": "the <b>end</b> of the motorway",
+    "vi": "<b>Cuối</b> đường cao tốc."
+   }
+  },
+  {
+   "word": "left",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/left/",
+   "def_en": "On the side of the body where the heart is.",
+   "def_vi": "Ở phía cơ thể có trái tim.",
+   "gloss_vi": "trái",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "right <i>(adj. phải)</i>",
+   "grammar_vi": "<i>Left</i> (adjective) = trái. <b>Grammar</b>: <i>on the left</i> (bên trái).",
+   "example": {
+    "en": "This is his <b>left</b> hand.",
+    "vi": "Đây là tay <b>trái</b> của anh ấy."
+   }
+  },
+  {
+   "word": "right",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/raɪt/",
+   "def_en": "On the opposite side to the left.",
+   "def_vi": "Ở phía ngược với bên trái.",
+   "gloss_vi": "phải",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "left <i>(adj. trái)</i>",
+   "grammar_vi": "<i>Right</i> (adjective) = phải. <b>Grammar</b>: <i>on the right</i> (bên phải). <b>Common mistakes</b>: <i>right</i> còn nghĩa đúng.",
+   "example": {
+    "en": "This is his <b>right</b> hand.",
+    "vi": "Đây là tay <b>phải</b> của anh ấy."
+   }
+  },
+  {
+   "word": "on the right",
+   "sense": "",
+   "pos": "prepositional phrase",
+   "ipa": "/ɒn ðə ˈraɪt/",
+   "def_en": "On the right side.",
+   "def_vi": "Ở phía bên phải.",
+   "gloss_vi": "bên phải",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "on the left <i>(pp. bên trái)</i>",
+   "grammar_vi": "<i>On the right</i> (prepositional phrase) = bên phải. <b>Grammar</b>: dùng <i>on</i>.",
+   "example": {
+    "en": "In York Street, there is a cinema on the left and a restaurant <b>on the right</b>.",
+    "vi": "Ở phố York có rạp chiếu phim bên trái và nhà hàng <b>bên phải</b>."
+   }
+  },
+  {
+   "word": "at home",
+   "sense": "",
+   "pos": "prepositional phrase",
+   "ipa": "/ət ˈhəʊm/",
+   "def_en": "In your house or flat.",
+   "def_vi": "Ở trong nhà mình.",
+   "gloss_vi": "ở nhà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "out <i>(adv. ra ngoài)</i>",
+   "grammar_vi": "<i>At home</i> (prepositional phrase) = ở nhà. <b>Grammar</b>: <i>at home</i> (không dùng <i>the</i>).",
+   "example": {
+    "en": "Is Eleanor <b>at home</b> [in her house / flat]?",
+    "vi": "Eleanor có <b>ở nhà</b> không?"
+   }
+  },
+  {
+   "word": "out",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/aʊt/",
+   "def_en": "Not at home for a short time.",
+   "def_vi": "Không ở nhà trong thời gian ngắn.",
+   "gloss_vi": "đi ra ngoài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "in <i>(adv. ở nhà)</i>",
+   "grammar_vi": "<i>Out</i> (adverb) = đi ra ngoài. <b>Grammar</b>: <i>be out</i> (ra ngoài một lúc, ví dụ đi chợ, đi làm).",
+   "example": {
+    "en": "No, sorry, she’s <b>out</b> [not here for a short time, e.g. at the shops or at work].",
+    "vi": "Không, xin lỗi, cô ấy <b>ra ngoài</b> rồi."
+   }
+  },
+  {
+   "word": "away",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/əˈweɪ/",
+   "def_en": "Not here for a longer time.",
+   "def_vi": "Vắng mặt một thời gian dài.",
+   "gloss_vi": "đi vắng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Away</i> (adverb) = đi vắng. <b>Grammar</b>: <i>be away</i> (đi vắng dài ngày, ví dụ đi nghỉ).",
+   "example": {
+    "en": "No, sorry, she’s <b>away</b> [not here for a longer time, e.g. on holiday].",
+    "vi": "Không, xin lỗi, cô ấy <b>đi vắng</b> rồi."
+   }
+  },
+  {
+   "word": "abroad",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/əˈbrɔːd/",
+   "def_en": "In or to another country.",
+   "def_vi": "Ở hoặc đến nước khác.",
+   "gloss_vi": "ở nước ngoài",
+   "synonyms": "overseas <i>(adv. hải ngoại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Abroad</i> (adverb) = ở nước ngoài. <b>Grammar</b>: không dùng <i>to</i>: <i>go abroad</i>.",
+   "example": {
+    "en": "No, sorry, she’s <b>abroad</b> [in another country].",
+    "vi": "Không, xin lỗi, cô ấy <b>ở nước ngoài</b>."
+   }
+  }
+ ]
+}
