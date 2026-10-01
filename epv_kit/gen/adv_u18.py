@@ -29,7 +29,7 @@ theory = (
 items = [
  I("block out", "phr.v.", "neutral", "To refuse to let a painful memory or thought into your mind.", "/ˌblɒk ˈaʊt/",
    "Không để ký ức hay ý nghĩ đau buồn đi vào đầu mình.", "gạt ra khỏi đầu",
-   "Rory had completely <b>blocked out</b> the fight at Anna’s party.", "Rory đã hoàn toàn <b>gạt</b> vụ xô xát ở bữa tiệc nhà Anna <b>ra khỏi đầu</b>.",
+   "Rory had completely <b>blocked out</b> the scene with Anna’s brother after the party.", "Rory đã hoàn toàn <b>gạt bỏ khỏi trí nhớ</b> cảnh xô xát với anh trai Anna sau bữa tiệc.",
    G("block out", "phr.v.", "cố không nghĩ tới điều đau lòng", SEP("block out sad memories", "block the memory out", "block it out"),
      "Thuộc nhóm <i>out</i> = những điều không muốn nhớ. Trong bài: George nói ta hay gạt ký ức buồn đi. Bài tập 18.2: Rory đã gạt hẳn ký ức đó; 18.4: muốn quên bữa ăn ở trường.",
      "<i>block out sad memories</i> (gạt ký ức buồn), <i>blocked the memory out</i> (gạt ký ức đi), <i>block out the memory of school dinners</i> (quên đi ký ức về bữa ăn ở trường)", "neutral",
@@ -125,7 +125,7 @@ items = [
    [S("summon up", "phr.v.", "gợi lại"), S("call up", "phr.v.", "gợi nhớ")], [S("block out", "phr.v.", "gạt đi"), S("put behind", "phr.v.", "gác lại")], sense="memories"),
  I("store up", "phr.v.", "neutral", "To keep memories in your mind, usually so that you can tell people about them later.", "/ˌstɔːr ˈʌp/",
    "Giữ ký ức trong đầu, thường để sau này kể cho người khác nghe.", "tích lại (ký ức)",
-   "Over the years, Grandma <b>stored up</b> hundreds of family stories.", "Qua nhiều năm, bà đã <b>tích lại</b> hàng trăm câu chuyện gia đình.",
+   "Rory says the good memories are the ones to <b>store up</b> for the future.", "Rory nói những kỷ niệm đẹp mới là thứ nên <b>cất giữ</b> cho mai sau.",
    G("store up", "phr.v.", "cất giữ ký ức để dùng sau", SEP("store up memories", "store memories up", "store them up"),
      "Sách lưu ý <i>up</i> ở đây khác nhóm <i>summon up</i>: nghĩa là gom, tích lại. Trong bài: ta tích lại nhiều ký ức qua năm tháng. Bài tập 18.2: cất giữ ký ức tốt cho tương lai.",
      "<i>store up so many memories</i> (tích lại rất nhiều ký ức), <i>store them up for the future</i> (cất giữ cho tương lai)", "neutral",
