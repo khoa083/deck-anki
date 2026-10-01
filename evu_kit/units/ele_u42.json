@@ -1,0 +1,152 @@
+{
+ "book": "ele",
+ "unit": 42,
+ "title_vi": "Come / came / come",
+ "theory_html": "<p><b>Come</b> and <b>go</b> are different: <b>come</b> = towards here, <b>go</b> = away from here.</p><p><i><b>come</b> = đến chỗ người nói, <b>go</b> = đi khỏi chỗ đó.</i></p> <p><b>A. Come in / out</b><br><i>A. Come in / out</i></p> <p><b>Come in!</b> (to someone who knocks); <b>come into</b> a room; <b>come out (of)</b> is the opposite: <b>A woman came out of the shop. The ticket comes out of the machine.</b></p><p><i><b>Mời vào!</b>; <b>đi vào</b> phòng; <b>đi ra (khỏi)</b>.</i></p> <p><b>B. Come back and come home</b><br><i>B. Come back và come home</i></p> <p><b>Come back</b> = return here (<b>come back from Italy</b>); <b>come home</b> (home is here for the speaker).</p><p><i><b>trở lại</b> (<b>từ đâu về</b>); <b>về nhà</b>.</i></p> <p><b>C. Other uses</b><br><i>C. Cách dùng khác</i></p> <p><b>Where do you come from? – I come from Poland</b> (not <b>I’m coming from</b>). <b>Do you want to come along?</b> (come with us). <b>Come and see me</b> (visit me). Tip: note prepositions with <b>come</b>.</p><p><i><b>Bạn từ đâu đến?</b>; <b>đi cùng</b>; <b>đến thăm</b>.</i></p>",
+ "items": [
+  {
+   "word": "come",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kʌm/",
+   "def_en": "To move towards the speaker or the place where the speaker is.",
+   "def_vi": "Di chuyển về phía người nói.",
+   "gloss_vi": "đến, tới",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "go <i>(v. đi)</i>",
+   "grammar_vi": "<i>Come</i> (verb) = đến, tới. <b>Grammar</b>: <i>come / came / come</i>. <b>Common mistakes</b>: <i>come</i> hướng về người nói, <i>go</i> rời đi.",
+   "example": {
+    "en": "<b>Come</b> and go are different.",
+    "vi": "<b>Come</b> và go khác nhau."
+   }
+  },
+  {
+   "word": "Come in!",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌkʌm ˈɪn/",
+   "def_en": "Said when someone knocks at the door of a room.",
+   "def_vi": "Nói khi có người gõ cửa phòng.",
+   "gloss_vi": "mời vào!",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Come in!</i> (phrase) = mời vào!. <b>Grammar</b>: câu mệnh lệnh cố định.",
+   "example": {
+    "en": "We say ‘<b>Come in</b>!’ when someone knocks at the door of a room.",
+    "vi": "Ta nói ‘<b>Mời vào</b>!’ khi ai đó gõ cửa phòng."
+   }
+  },
+  {
+   "word": "come into",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌkʌm ˈɪntə/",
+   "def_en": "To enter a place where the speaker is.",
+   "def_vi": "Đi vào nơi người nói đang ở.",
+   "gloss_vi": "đi vào",
+   "synonyms": "enter <i>(v. vào)</i>",
+   "antonyms": "come out of <i>(vp. đi ra)</i>",
+   "grammar_vi": "<i>Come into</i> (verb phrase) = đi vào. <b>Grammar</b>: <i>come into</i> + nơi.",
+   "example": {
+    "en": "Then the person who knocked <b>comes into</b> the room.",
+    "vi": "Rồi người gõ cửa <b>đi vào</b> phòng."
+   }
+  },
+  {
+   "word": "come out of",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌkʌm ˈaʊt əv/",
+   "def_en": "To leave a place, moving towards the speaker.",
+   "def_vi": "Rời khỏi nơi nào, về phía người nói.",
+   "gloss_vi": "đi ra khỏi, chui ra",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "come into <i>(vp. đi vào)</i>",
+   "grammar_vi": "<i>Come out of</i> (verb phrase) = đi ra khỏi, chui ra. <b>Grammar</b>: <i>come out of</i> + nơi; cũng dùng cho đồ vật: <i>The ticket comes out of the machine</i>.",
+   "example": {
+    "en": "A woman <b>came out of</b> the shop with two big bags.",
+    "vi": "Một phụ nữ <b>bước ra khỏi</b> cửa hàng với hai túi to."
+   }
+  },
+  {
+   "word": "come back",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌkʌm ˈbæk/",
+   "def_en": "To return to this place here.",
+   "def_vi": "Quay lại nơi này.",
+   "gloss_vi": "trở lại, quay về",
+   "synonyms": "return <i>(v. trở về)</i>",
+   "antonyms": "go away <i>(pv. đi xa)</i>",
+   "grammar_vi": "<i>Come back</i> (phrasal verb) = trở lại, quay về. <b>Grammar</b>: <i>come back from</i> + nơi: <i>They came back from Italy</i>.",
+   "example": {
+    "en": "She went away for three days. She <b>came back</b> yesterday.",
+    "vi": "Cô ấy đi vắng ba ngày. Hôm qua cô ấy <b>đã quay về</b>."
+   }
+  },
+  {
+   "word": "come home",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌkʌm ˈhəʊm/",
+   "def_en": "To return to your house.",
+   "def_vi": "Trở về nhà.",
+   "gloss_vi": "về nhà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Come home</i> (verb phrase) = về nhà. <b>Grammar</b>: không dùng <i>to</i>: <i>come home</i>.",
+   "example": {
+    "en": "What time did you <b>come home</b> last night?",
+    "vi": "Tối qua mấy giờ con <b>về nhà</b>?"
+   }
+  },
+  {
+   "word": "come from",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˈkʌm frəm/",
+   "def_en": "To be born in or live in a particular place.",
+   "def_vi": "Sinh ra hoặc sống ở một nơi.",
+   "gloss_vi": "đến từ, quê ở",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Come from</i> (verb phrase) = đến từ, quê ở. <b>Grammar</b>: thì hiện tại đơn: <i>I come from Poland</i>. <b>Common mistakes</b>: không nói <i>I’m coming from Poland</i>.",
+   "example": {
+    "en": "A: What country do you <b>come from</b>?",
+    "vi": "Bạn <b>đến từ</b> nước nào?"
+   }
+  },
+  {
+   "word": "come along",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌkʌm əˈlɒŋ/",
+   "def_en": "To go somewhere with someone.",
+   "def_vi": "Đi cùng ai.",
+   "gloss_vi": "đi cùng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Come along</i> (phrasal verb) = đi cùng. <b>Grammar</b>: nội động từ. <b>Register</b>: thân mật.",
+   "example": {
+    "en": "Do you want to <b>come along</b> [come with us]?",
+    "vi": "Tối nay bọn mình đi câu lạc bộ. Bạn muốn <b>đi cùng</b> không?"
+   }
+  },
+  {
+   "word": "come and see",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌkʌm ən ˈsiː/",
+   "def_en": "To visit someone.",
+   "def_vi": "Đến thăm ai.",
+   "gloss_vi": "đến thăm",
+   "synonyms": "visit <i>(v. thăm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Come and see</i> (verb phrase) = đến thăm. <b>Grammar</b>: <i>come and</i> + động từ (văn nói).",
+   "example": {
+    "en": "<b>Come and see</b> me some time.",
+    "vi": "Lúc nào đó <b>đến thăm</b> tôi nhé."
+   }
+  }
+ ]
+}

@@ -1,0 +1,136 @@
+{
+ "book": "ele",
+ "unit": 46,
+ "title_vi": "Cụm động từ",
+ "theory_html": "<p><b>A. What are phrasal verbs?</b><br><i>A. Cụm động từ là gì?</i></p> <p>A phrasal verb is a verb + a particle: <b>get up / on / off, turn on / off / up / down, go on / off, put something on, come on</b>.</p><p><i>Cụm động từ = động từ + tiểu từ: <b>dậy / lên xe / xuống xe, bật / tắt / vặn to / vặn nhỏ, tiếp tục / bỏ đi, mặc vào, nhanh lên nào</b>.</i></p> <p><b>B. One phrasal verb, different meanings</b><br><i>B. Một cụm, nhiều nghĩa</i></p> <p><b>turn down</b> the TV (make it less loud) / the invitation (refuse it); <b>take off</b> (a plane leaves the ground / remove clothes). Tip: keep a notebook page of phrasal verbs grouped by topic.</p><p><i><b>turn down</b>: vặn nhỏ / từ chối; <b>take off</b>: cất cánh / cởi ra. Mẹo: ghi cụm động từ theo nhóm chủ đề.</i></p>",
+ "items": [
+  {
+   "word": "phrasal verb",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌfreɪzl ˈvɜːb/",
+   "def_en": "A verb with a particle, such as ‘get up’ or ‘turn on’.",
+   "def_vi": "Động từ kèm tiểu từ, như “get up”, “turn on”.",
+   "gloss_vi": "cụm động từ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Phrasal verb</i> (noun phrase) = cụm động từ. <b>Grammar</b>: số nhiều <i>phrasal verbs</i>.",
+   "example": {
+    "en": "<b>Phrasal verbs</b> have two parts: a verb + a particle.",
+    "vi": "<b>Cụm động từ</b> có hai phần: động từ + tiểu từ."
+   }
+  },
+  {
+   "word": "get on",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌɡet ˈɒn/",
+   "def_en": "To go onto a bus, train or plane.",
+   "def_vi": "Lên xe buýt, tàu, máy bay.",
+   "gloss_vi": "lên (xe)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "get off <i>(pv. xuống xe)</i>",
+   "grammar_vi": "<i>Get on</i> (phrasal verb) = lên (xe). <b>Grammar</b>: <i>get on the bus/train</i>. <b>Common mistakes</b>: ô tô dùng <i>get in(to)</i>.",
+   "example": {
+    "en": "We should <b>get on</b> the bus.",
+    "vi": "Chúng ta nên <b>lên</b> xe buýt. Năm phút nữa xe chạy!"
+   }
+  },
+  {
+   "word": "turn up",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌtɜːn ˈʌp/",
+   "def_en": "To make a machine louder.",
+   "def_vi": "Làm máy kêu to hơn.",
+   "gloss_vi": "vặn to",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "turn down <i>(pv. vặn nhỏ)</i>",
+   "grammar_vi": "<i>Turn up</i> (phrasal verb) = vặn to. <b>Grammar</b>: tách được: <i>turn the TV up / turn it up</i>.",
+   "example": {
+    "en": "<b>Turn</b> the TV <b>up</b>. I can’t hear it.",
+    "vi": "<b>Vặn to</b> ti vi lên. Tôi không nghe thấy."
+   }
+  },
+  {
+   "word": "turn down",
+   "sense": "volume",
+   "pos": "phrasal verb",
+   "ipa": "/ˌtɜːn ˈdaʊn/",
+   "def_en": "To make a machine quieter.",
+   "def_vi": "Làm máy kêu nhỏ hơn.",
+   "gloss_vi": "vặn nhỏ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "turn up <i>(pv. vặn to)</i>",
+   "grammar_vi": "<i>Turn down</i> (phrasal verb) = vặn nhỏ. <b>Grammar</b>: tách được: <i>turn the TV down</i>.",
+   "example": {
+    "en": "<b>Turn</b> the TV <b>down</b>. It’s too loud.",
+    "vi": "<b>Vặn nhỏ</b> ti vi đi. To quá."
+   }
+  },
+  {
+   "word": "turn down",
+   "sense": "refuse",
+   "pos": "phrasal verb",
+   "ipa": "/ˌtɜːn ˈdaʊn/",
+   "def_en": "To refuse something, such as an invitation.",
+   "def_vi": "Từ chối điều gì như lời mời.",
+   "gloss_vi": "từ chối",
+   "synonyms": "refuse <i>(v. từ chối)</i>",
+   "antonyms": "accept <i>(v. nhận lời)</i>",
+   "grammar_vi": "<i>Turn down</i> (phrasal verb) = từ chối. <b>Grammar</b>: tách được: <i>turn the invitation down</i>.",
+   "example": {
+    "en": "She <b>turned down</b> the invitation.",
+    "vi": "Cô ấy <b>từ chối</b> lời mời."
+   }
+  },
+  {
+   "word": "go on",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌɡəʊ ˈɒn/",
+   "def_en": "To continue.",
+   "def_vi": "Tiếp tục.",
+   "gloss_vi": "tiếp tục",
+   "synonyms": "continue <i>(v. tiếp tục)</i>",
+   "antonyms": "stop <i>(v. dừng)</i>",
+   "grammar_vi": "<i>Go on</i> (phrasal verb) = tiếp tục. <b>Grammar</b>: <i>go on</i> + V-ing: <i>go on talking</i>.",
+   "example": {
+    "en": "Don’t stop. <b>Go on</b> talking. It’s very interesting.",
+    "vi": "Đừng dừng. <b>Nói tiếp</b> đi. Rất thú vị."
+   }
+  },
+  {
+   "word": "go off",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌɡəʊ ˈɒf/",
+   "def_en": "To leave a place.",
+   "def_vi": "Rời khỏi nơi nào.",
+   "gloss_vi": "bỏ đi, rời đi",
+   "synonyms": "leave <i>(v. rời đi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go off</i> (phrasal verb) = bỏ đi, rời đi. <b>Grammar</b>: quá khứ <i>went off</i>.",
+   "example": {
+    "en": "Karen <b>went off</b> and forgot her handbag.",
+    "vi": "Karen <b>bỏ đi</b> và quên túi xách."
+   }
+  },
+  {
+   "word": "come on",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌkʌm ˈɒn/",
+   "def_en": "Used to tell someone to hurry.",
+   "def_vi": "Dùng để giục ai nhanh lên.",
+   "gloss_vi": "nhanh lên nào",
+   "synonyms": "hurry up <i>(pv. nhanh lên)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Come on</i> (phrasal verb) = nhanh lên nào. <b>Grammar</b>: câu mệnh lệnh. <b>Register</b>: thân mật.",
+   "example": {
+    "en": "<b>Come on</b>!",
+    "vi": "<b>Nhanh lên nào</b>! Chúng ta muộn rồi."
+   }
+  }
+ ]
+}

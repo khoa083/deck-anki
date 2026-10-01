@@ -1,0 +1,152 @@
+{
+ "book": "ele",
+ "unit": 43,
+ "title_vi": "Take / took / taken",
+ "theory_html": "<p><b>A. Take with time</b><br><i>A. Take nói về thời gian</i></p> <p><b>It + take + person + time</b>: <b>It takes Alan 20 minutes to get to work. It took me two hours.</b> <b>How long does it take to get to the station? How long did it take you to learn…?</b></p><p><i><b>Mất bao lâu</b>: <b>It takes sb + thời gian + to do sth</b>.</i></p> <p><b>B. Take something with you</b><br><i>B. Mang theo</i></p> <p><b>Take an umbrella. Take some water with you. You can’t take your camera into the museum.</b></p><p><i><b>mang theo</b> ô, nước; không được <b>mang</b> máy ảnh vào bảo tàng.</i></p> <p><b>C. Expressions</b><br><i>C. Cách nói</i></p> <p><b>take a photo, take a course, take an exam, take lessons, take the bus / the underground / a taxi / the train</b>. Tip: keep a notebook page for <b>take</b> (<b>take a look at, take a chance</b>).</p><p><i><b>chụp ảnh, theo học khóa, dự thi, học, đi xe buýt / tàu điện ngầm / taxi / tàu</b>.</i></p>",
+ "items": [
+  {
+   "word": "take",
+   "sense": "time",
+   "pos": "verb",
+   "ipa": "/teɪk/",
+   "def_en": "To need a particular amount of time.",
+   "def_vi": "Cần một khoảng thời gian.",
+   "gloss_vi": "mất (thời gian)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take</i> (verb) = mất (thời gian). <b>Grammar</b>: <i>It takes + người + thời gian + to do sth</i>; quá khứ <i>took</i> /tʊk/.",
+   "example": {
+    "en": "It <b>takes</b> Alan 20 minutes to get to work.",
+    "vi": "Alan <b>mất</b> 20 phút để đến chỗ làm."
+   }
+  },
+  {
+   "word": "How long does it take?",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌhaʊ ˈlɒŋ dəz ɪt ˈteɪk/",
+   "def_en": "A question asking how much time something needs.",
+   "def_vi": "Câu hỏi mất bao lâu.",
+   "gloss_vi": "mất bao lâu?",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>How long does it take?</i> (phrase) = mất bao lâu?. <b>Grammar</b>: quá khứ <i>How long did it take you to…?</i>.",
+   "example": {
+    "en": "A: <b>How long does it take</b> to get to the station?",
+    "vi": "Đến nhà ga <b>mất bao lâu</b>?"
+   }
+  },
+  {
+   "word": "take with you",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˈteɪk wɪð ju/",
+   "def_en": "To carry something when you go somewhere.",
+   "def_vi": "Mang theo khi đi đâu.",
+   "gloss_vi": "mang theo",
+   "synonyms": "bring <i>(v. mang đến)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take with you</i> (verb phrase) = mang theo. <b>Grammar</b>: <i>take sth (with you)</i> = mang đi (từ đây đến đó).",
+   "example": {
+    "en": "Are you going to the beach? <b>Take</b> some water <b>with you</b>.",
+    "vi": "Bạn đi biển à? <b>Mang theo</b> ít nước nhé."
+   }
+  },
+  {
+   "word": "take a course",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌteɪk ə ˈkɔːs/",
+   "def_en": "To study on a course.",
+   "def_vi": "Theo học một khóa.",
+   "gloss_vi": "theo học khóa",
+   "synonyms": "do a course <i>(vp. học khóa)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take a course</i> (verb phrase) = theo học khóa. <b>Grammar</b>: <i>take a(n)</i> + môn + <i>course</i>.",
+   "example": {
+    "en": "A: Are you <b>taking an</b> English <b>course</b>?",
+    "vi": "Bạn có <b>đang học khóa</b> tiếng Anh không?"
+   }
+  },
+  {
+   "word": "take lessons",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌteɪk ˈlesnz/",
+   "def_en": "To have classes in something.",
+   "def_vi": "Học các buổi về môn gì.",
+   "gloss_vi": "học (lớp)",
+   "synonyms": "have lessons <i>(vp. học)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take lessons</i> (verb phrase) = học (lớp). <b>Grammar</b>: <i>take (some) + môn + lessons</i>.",
+   "example": {
+    "en": "I want to <b>take some</b> Japanese <b>lessons</b>.",
+    "vi": "Tôi muốn <b>học</b> vài <b>buổi</b> tiếng Nhật."
+   }
+  },
+  {
+   "word": "take the bus",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌteɪk ðə ˈbʌs/",
+   "def_en": "To travel by bus.",
+   "def_vi": "Đi bằng xe buýt.",
+   "gloss_vi": "đi xe buýt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take the bus</i> (verb phrase) = đi xe buýt. <b>Grammar</b>: <i>take the bus / the train / a taxi</i>.",
+   "example": {
+    "en": "I <b>take the bus</b>.",
+    "vi": "Bạn đi làm bằng gì? Tôi <b>đi xe buýt</b>."
+   }
+  },
+  {
+   "word": "take the underground",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌteɪk ði ˈʌndəɡraʊnd/",
+   "def_en": "To travel by underground train.",
+   "def_vi": "Đi tàu điện ngầm.",
+   "gloss_vi": "đi tàu điện ngầm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take the underground</i> (verb phrase) = đi tàu điện ngầm. <b>Grammar</b>: <i>take the underground / the Tube</i>.",
+   "example": {
+    "en": "In London you can <b>take the underground</b> to the London Eye.",
+    "vi": "Ở London bạn có thể <b>đi tàu điện ngầm</b> đến London Eye."
+   }
+  },
+  {
+   "word": "take a taxi",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌteɪk ə ˈtæksi/",
+   "def_en": "To travel by taxi.",
+   "def_vi": "Đi taxi.",
+   "gloss_vi": "đi taxi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take a taxi</i> (verb phrase) = đi taxi. <b>Grammar</b>: quá khứ <i>took a taxi</i>.",
+   "example": {
+    "en": "We <b>took a taxi</b> from the airport to our hotel.",
+    "vi": "Chúng tôi <b>đi taxi</b> từ sân bay về khách sạn."
+   }
+  },
+  {
+   "word": "take the train",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌteɪk ðə ˈtreɪn/",
+   "def_en": "To travel by train.",
+   "def_vi": "Đi tàu hỏa.",
+   "gloss_vi": "đi tàu hỏa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take the train</i> (verb phrase) = đi tàu hỏa. <b>Grammar</b>: <i>take the train</i> (đi tàu).",
+   "example": {
+    "en": "He <b>takes the train</b>.",
+    "vi": "Nick đi làm bằng gì? Anh ấy <b>đi tàu</b>."
+   }
+  }
+ ]
+}

@@ -89,7 +89,7 @@ def tok_rx(t, last):
     if len(w) > 2 and w.endswith("e"): extra += "|" + re.escape(w[:-1]) + "(?:ing|ed|er|ers|est)"
     if len(w) > 2 and w.endswith("y"): extra += "|" + re.escape(w[:-1]) + "(?:ies|ied|ier|iest)"
     if len(w) > 2 and re.search(r"[^aeiou][aeiou][bdgklmnprt]$", w): extra += "|" + re.escape(w + w[-1]) + "(?:ing|ed|er|ers)"
-    return f"(?:(?:{alt}){INFL}{extra})"
+    return f"(?:(?:{alt}){INFL}{extra})(?![A-Za-z])"
 
 
 def word_rx(word):

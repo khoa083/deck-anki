@@ -1,0 +1,72 @@
+{
+ "book": "ele",
+ "unit": 44,
+ "title_vi": "Bring / brought / brought",
+ "theory_html": "<p><b>A. Bring and take</b><br><i>A. Bring và take</i></p> <p><b>take</b> (like <b>go</b>) = from here to there; <b>bring</b> (like <b>come</b>) = from there to here: <b>Take your books to school. Can you bring me a glass? Bring your guitar.</b></p><p><i><b>take</b> = mang đi (từ đây đến đó); <b>bring</b> = mang đến (từ đó đến đây).</i></p> <p><b>B. Bring somebody something</b><br><i>B. Mang cho ai cái gì</i></p> <p><b>I’ve brought you some apples. She always brings me flowers.</b></p><p><i><b>Tôi mang táo cho bạn. Cô ấy luôn mang hoa cho tôi.</b></i></p> <p><b>C. Bring something back</b><br><i>C. Mang trả lại</i></p> <p><b>You can take my umbrella and bring it back tomorrow. I’ll bring it back on Friday.</b></p><p><i><b>Mang ô đi rồi mai mang trả lại.</b></i></p>",
+ "items": [
+  {
+   "word": "bring",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/brɪŋ/",
+   "def_en": "To carry something or come with someone to the place where you are now.",
+   "def_vi": "Mang vật hay đưa người đến nơi người nói đang ở.",
+   "gloss_vi": "mang đến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "take <i>(v. mang đi)</i>",
+   "grammar_vi": "<i>Bring</i> (verb) = mang đến. <b>Grammar</b>: <i>bring / brought / brought</i> /brɔːt/. <b>Common mistakes</b>: <i>bring</i> = đến đây, <i>take</i> = đi đến đó.",
+   "example": {
+    "en": "Are you going to the kitchen? Can you <b>bring</b> me a glass?",
+    "vi": "Bạn ra bếp à? <b>Mang</b> cho tôi cái cốc nhé?"
+   }
+  },
+  {
+   "word": "take",
+   "sense": "carry",
+   "pos": "verb",
+   "ipa": "/teɪk/",
+   "def_en": "To carry something from here to another place.",
+   "def_vi": "Mang vật từ đây đến nơi khác.",
+   "gloss_vi": "mang đi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "bring <i>(v. mang đến)</i>",
+   "grammar_vi": "<i>Take</i> (verb) = mang đi. <b>Grammar</b>: <i>take sth to</i> + nơi: <i>take this form to the secretary</i>.",
+   "example": {
+    "en": "Are you going to school? <b>Take</b> your books.",
+    "vi": "Bạn đi học à? <b>Mang</b> sách theo nhé."
+   }
+  },
+  {
+   "word": "brought",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/brɔːt/",
+   "def_en": "The past tense and past participle of ‘bring’.",
+   "def_vi": "Quá khứ và quá khứ phân từ của “bring”.",
+   "gloss_vi": "đã mang đến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Brought</i> (verb) = đã mang đến. <b>Grammar</b>: <i>bring sb sth</i>: <i>I’ve brought you some apples</i>. <b>Common mistakes</b>: đọc /brɔːt/, không viết <i>bringed</i>.",
+   "example": {
+    "en": "I’ve <b>brought</b> you some apples from my garden.",
+    "vi": "Tôi <b>mang</b> cho bạn ít táo từ vườn nhà."
+   }
+  },
+  {
+   "word": "bring back",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌbrɪŋ ˈbæk/",
+   "def_en": "To return something to the place where it came from.",
+   "def_vi": "Mang trả về chỗ cũ.",
+   "gloss_vi": "mang trả lại",
+   "synonyms": "return <i>(v. trả lại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bring back</i> (phrasal verb) = mang trả lại. <b>Grammar</b>: tách được: <i>bring it back</i> (đại từ ở giữa).",
+   "example": {
+    "en": "You can take my umbrella and <b>bring it back</b> tomorrow.",
+    "vi": "Bạn có thể cầm ô của tôi và mai <b>mang trả lại</b>."
+   }
+  }
+ ]
+}

@@ -1,0 +1,186 @@
+{
+ "book": "ele",
+ "unit": 47,
+ "title_vi": "Những việc hằng ngày",
+ "theory_html": "<p><b>A. Things we do every day</b><br><i>A. Việc làm hằng ngày</i></p> <p><b>wake up, get up, go to the bathroom, have a shower, have breakfast, listen to the radio, go to work, come home, phone (call) a friend, make dinner, watch TV, go to bed</b>.</p><p><i><b>thức dậy, ra khỏi giường, vào nhà tắm, tắm, ăn sáng, nghe đài, đi làm, về nhà, gọi điện cho bạn, nấu bữa tối, xem ti vi, đi ngủ</b>.</i></p> <p><b>B. Sometimes I…</b><br><i>B. Thỉnh thoảng tôi…</i></p> <p><b>wash clothes, clean the house, go for a walk, write letters / emails</b>.</p><p><i><b>giặt quần áo, dọn nhà, đi dạo, viết thư / email</b>.</i></p> <p><b>C. Expressions</b><br><i>C. Cách nói</i></p> <p><b>How often do you go out? – Three or four times a week. What time do you get up? – At 7 o’clock normally. How do you go to work? – Usually by bus.</b> Say <b>I usually get up at 8</b> (not <b>I used to get up</b> for present habits).</p><p><i><b>Bạn đi chơi bao lâu một lần? Mấy giờ bạn dậy? Bạn đi làm bằng gì?</b> Thói quen hiện tại dùng <b>usually</b>.</i></p>",
+ "items": [
+  {
+   "word": "go to the bathroom",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ tə ðə ˈbɑːθruːm/",
+   "def_en": "To go into the bathroom to wash or use the toilet.",
+   "def_vi": "Vào nhà tắm để rửa ráy hoặc đi vệ sinh.",
+   "gloss_vi": "vào nhà tắm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go to the bathroom</i> (verb phrase) = vào nhà tắm. <b>Grammar</b>: có <i>the</i>: <i>go to the bathroom</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "After I get up I <b>go to the bathroom</b>.",
+    "vi": "Ngủ dậy là tôi <b>vào nhà tắm</b>."
+   }
+  },
+  {
+   "word": "go to work",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ tə ˈwɜːk/",
+   "def_en": "To travel to the place where you work.",
+   "def_vi": "Đến nơi làm việc.",
+   "gloss_vi": "đi làm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go to work</i> (verb phrase) = đi làm. <b>Grammar</b>: không dùng <i>the</i>: <i>go to work</i>.",
+   "example": {
+    "en": "What time do you get up / <b>go to work</b>?",
+    "vi": "Mấy giờ bạn <b>đi làm</b>?"
+   }
+  },
+  {
+   "word": "phone a friend",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌfəʊn ə ˈfrend/",
+   "def_en": "To call a friend on the phone.",
+   "def_vi": "Gọi điện cho một người bạn.",
+   "gloss_vi": "gọi điện cho bạn",
+   "synonyms": "call a friend <i>(vp. gọi cho bạn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Phone a friend</i> (verb phrase) = gọi điện cho bạn. <b>Grammar</b>: <i>phone sb</i> không dùng <i>to</i>. <b>Common mistakes</b>: không nói <i>phone to a friend</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "In the evening I often <b>phone a friend</b>.",
+    "vi": "Buổi tối tôi thường <b>gọi điện cho bạn</b>."
+   }
+  },
+  {
+   "word": "wash clothes",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌwɒʃ ˈkləʊðz/",
+   "def_en": "To make clothes clean with water and soap.",
+   "def_vi": "Giặt quần áo bằng nước và xà phòng.",
+   "gloss_vi": "giặt quần áo",
+   "synonyms": "do the washing <i>(vp. giặt giũ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wash clothes</i> (verb phrase) = giặt quần áo. <b>Grammar</b>: <i>clothes</i> /kləʊðz/ luôn số nhiều.",
+   "example": {
+    "en": "Sometimes I <b>wash clothes</b>.",
+    "vi": "Thỉnh thoảng tôi <b>giặt quần áo</b>."
+   }
+  },
+  {
+   "word": "clean the house",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌkliːn ðə ˈhaʊs/",
+   "def_en": "To make the house clean.",
+   "def_vi": "Dọn sạch nhà.",
+   "gloss_vi": "dọn nhà",
+   "synonyms": "do the housework <i>(vp. làm việc nhà)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Clean the house</i> (verb phrase) = dọn nhà. <b>Grammar</b>: <i>clean</i> là động từ và tính từ.",
+   "example": {
+    "en": "Sometimes I <b>clean the house</b>.",
+    "vi": "Thỉnh thoảng tôi <b>dọn nhà</b>."
+   }
+  },
+  {
+   "word": "go for a walk",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ fər ə ˈwɔːk/",
+   "def_en": "To walk for pleasure.",
+   "def_vi": "Đi bộ thư giãn.",
+   "gloss_vi": "đi dạo",
+   "synonyms": "take a walk <i>(vp. đi dạo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go for a walk</i> (verb phrase) = đi dạo. <b>Grammar</b>: <i>go for a walk / a swim / a drink</i>.",
+   "example": {
+    "en": "Sometimes I <b>go for a walk</b>.",
+    "vi": "Thỉnh thoảng tôi <b>đi dạo</b>."
+   }
+  },
+  {
+   "word": "write emails",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌraɪt ˈiːmeɪlz/",
+   "def_en": "To write messages to send by email.",
+   "def_vi": "Viết thư điện tử.",
+   "gloss_vi": "viết email",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Write emails</i> (verb phrase) = viết email. <b>Grammar</b>: <i>write / wrote / written</i>.",
+   "example": {
+    "en": "Sometimes I <b>write letters / emails</b>.",
+    "vi": "Thỉnh thoảng tôi <b>viết thư / email</b>."
+   }
+  },
+  {
+   "word": "How often do you…?",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌhaʊ ˈɒfn də ju/",
+   "def_en": "A question asking how many times you do something.",
+   "def_vi": "Câu hỏi bao lâu làm việc gì một lần.",
+   "gloss_vi": "bạn … bao lâu một lần?",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>How often do you…?</i> (phrase) = bạn … bao lâu một lần?. <b>Grammar</b>: trả lời bằng <i>once/twice/three times a week</i>.",
+   "example": {
+    "en": "A: <b>How often do you</b> go out? B: Three or four times a week.",
+    "vi": "<b>Bạn</b> đi chơi <b>bao lâu một lần</b>? – Ba bốn lần một tuần."
+   }
+  },
+  {
+   "word": "What time do you…?",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌwɒt ˈtaɪm də ju/",
+   "def_en": "A question asking at what time you do something.",
+   "def_vi": "Câu hỏi mấy giờ làm việc gì.",
+   "gloss_vi": "mấy giờ bạn…?",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>What time do you…?</i> (phrase) = mấy giờ bạn…?. <b>Grammar</b>: trả lời <i>At</i> + giờ.",
+   "example": {
+    "en": "A: <b>What time do you</b> get up? B: At 7 o’clock normally.",
+    "vi": "<b>Mấy giờ bạn</b> dậy? – Thường lúc 7 giờ."
+   }
+  },
+  {
+   "word": "How do you go to work?",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌhaʊ də ju ˌɡəʊ tə ˈwɜːk/",
+   "def_en": "A question asking which transport you use to get to work.",
+   "def_vi": "Câu hỏi đi làm bằng phương tiện gì.",
+   "gloss_vi": "bạn đi làm bằng gì?",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>How do you go to work?</i> (phrase) = bạn đi làm bằng gì?. <b>Grammar</b>: trả lời <i>by</i> + phương tiện.",
+   "example": {
+    "en": "A: <b>How do you go to work</b>? B: Usually by bus / train / car.",
+    "vi": "<b>Bạn đi làm bằng gì</b>? – Thường bằng xe buýt / tàu / ô tô."
+   }
+  },
+  {
+   "word": "usually",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈjuːʒuəli/",
+   "def_en": "In most situations; normally.",
+   "def_vi": "Thường thường, thông thường.",
+   "gloss_vi": "thường",
+   "synonyms": "normally <i>(adv. thường)</i>",
+   "antonyms": "rarely <i>(adv. hiếm khi)</i>",
+   "grammar_vi": "<i>Usually</i> (adverb) = thường. <b>Grammar</b>: đứng trước động từ thường: <i>I usually get up</i>. <b>Common mistakes</b>: không nói <i>I used to get up</i> cho thói quen hiện tại.",
+   "example": {
+    "en": "I <b>usually</b> get up at 8 o’clock, but today I got up at 8.30.",
+    "vi": "Tôi <b>thường</b> dậy lúc 8 giờ, nhưng hôm nay tôi dậy lúc 8 rưỡi."
+   }
+  }
+ ]
+}
