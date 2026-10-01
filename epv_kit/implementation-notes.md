@@ -3,7 +3,7 @@
 ## Tiến độ
 | Sách | Có sẵn | Còn làm |
 |---|---|---|
-| Advanced (60) | unit 1–15 (demo) + *New phrasal verbs* (bản 1) + **16–20** (lượt 1) + **21–25** (lượt 2) + **26–30** (lượt 3) + **31–35** (lượt 4) + **36–40** (lượt 5) + **41–45** (lượt 6) | 46–60; bổ sung mục thiếu cho 1–15 |
+| Advanced (60) | unit 1–15 (demo) + *New phrasal verbs* (bản 1) + **16–20** (lượt 1) + **21–25** (lượt 2) + **26–30** (lượt 3) + **31–35** (lượt 4) + **36–40** (lượt 5) + **41–45** (lượt 6) + **46–50** (lượt 7) | 51–60; bổ sung mục thiếu cho 1–15 |
 | Intermediate (70) | – | 1–70 |
 
 | Lượt | Unit | Số thẻ | Ghi chú |
@@ -15,7 +15,7 @@
 | 4 | Adv 31–35 | 93 mục / 186 thẻ + 5 note lý thuyết + 93 audio | build 740 note / 1443 thẻ, 0 bad renders, audio 356/356 |
 | 5 | Adv 36–40 | 86 mục / 172 thẻ + 5 note lý thuyết + 86 audio | build 831 note / 1620 thẻ, 0 bad renders, audio 442/442 |
 | 6 | Adv 41–45 | 92 mục / 184 thẻ + 5 note lý thuyết + 92 audio | build 928 note / 1809 thẻ, 0 bad renders, audio 534/534 |
-| 7 | Adv 46 → (đang làm, từng unit kiểm kỹ xong mới sang unit sau) | xem mục Lượt 7 | – |
+| 7 | Adv 46–50 | 96 mục / 192 thẻ + 5 note lý thuyết + 96 audio | build 1029 note / 2006 thẻ, 0 bad renders, audio 630/630 |
 
 ## Quyết định (xem PROMPT.md §3)
 D1 thứ tự Adv 16→60 → bổ sung demo → Int 1→70 · D2 IPA chuẩn Anh (config.ipa_style) · D3 1 deck gốc `English Phrasal Verbs in Use` → `Advanced`/`Intermediate` · D4 thẻ demo chỉ có ở bản 1: giữ + tag `EPV::demo_ban1` · D5 audio **bắt buộc**: Kokoro TTS offline, giọng Anh–Anh nam `bm_george` (sửa từ lượt 1c; trước đó để trống) · D6 chọn mục theo Mini dictionary + cụm in đậm.
@@ -117,7 +117,7 @@ D1 thứ tự Adv 16→60 → bổ sung demo → Int 1→70 · D2 IPA chuẩn An
 
 **Lượt 7 (Adv 46 → …) – quy trình kiểm kỹ từng unit (người dùng yêu cầu: verify xong unit này mới sang unit khác)**
 - Session này có 2 PDF gốc (người dùng tải lên GitHub, nhánh `main`) → `books/adv.pdf`, `books/int.pdf`; `selftest` OK (Advanced 60/60 tên unit khớp).
-- Thêm `tools/review_unit.py <unit> --render`: in từng thẻ cạnh dòng Mini dictionary; audio (ffprobe: tồn tại, mp3, 0.4–6 s; mean_volume > −40 dB; không trùng md5); phoneme TTS cạnh IPA; render cả 2 thẻ của mọi note trong gói đã build (không `{{`, có `[sound:]` trỏ file có thật, có lý thuyết, 2 thẻ ở 2 deck nhìn/nghe).
+- Thêm `tools/review_unit.py <unit> --render` (**tùy chọn** – người dùng yêu cầu bỏ bước này vì tốn token; chỉ dùng khi nghi ngờ): in từng thẻ cạnh dòng Mini dictionary; audio (ffprobe: tồn tại, mp3, 0.4–6 s; mean_volume > −40 dB; không trùng md5); phoneme TTS cạnh IPA; render cả 2 thẻ của mọi note trong gói đã build (không `{{`, có `[sound:]` trỏ file có thật, có lý thuyết, 2 thẻ ở 2 deck nhìn/nghe).
 - Thêm `tools/headwords.py <từ khoá>`: tra nhanh headword đã có (demo + units) để kiểm trùng.
 - **u46 How people move** (17 mục / 34 thẻ + 1 lý thuyết): xem ảnh trang 96–97, đối chiếu từng thẻ. Lỗi `check` không bắt được, đã sửa:
   `clear out` – grammar_vi gán câu 46.2/5 cho “đội cứu hỏa” (sách: *the message warned them…*), ví dụ thêm chi tiết “thứ Sáu” (sách: cuối tuần), Common mistakes nêu nghĩa ngoài unit (*clear out the flat* = dọn dẹp) → bỏ;
@@ -126,8 +126,15 @@ D1 thứ tự Adv 16→60 → bổ sung demo → Int 1→70 · D2 IPA chuẩn An
   đồng nghĩa sai nghĩa: `crowd out` (nghĩa thật là ‘chèn ép, loại ra’) → `leave in a rush`; `stay behind` → `not move forwards`; câu lấy từ đáp án 46.4 ghi rõ “câu gợi ý”.
   Cảnh báo còn lại: `pile into swh` (báo nhầm – heuristic coi *swh* là từ; thẻ `pile into somewhere` có); 7 cảnh báo “sách…” đều kiểm được trên ảnh trang (*informal* ở bảng B, *hung back*, *stood well back*) hoặc là chữ “sách” = books.
   Kết quả: check 0 LỖI; review 0 vấn đề; audio 17/17 (1.0–2.5 s, −20…−21 dB); render 35/35 thẻ; verify 992 note / 1934 thẻ, 0 bad renders, audio 595/595.
+- **u47 Nature**: xem ảnh trang 98–99. Không làm lại vì demo đã có **cùng nghĩa**: `freeze over` (demo u2), `pick up` ‘nhặt bằng mỏ’ (demo u1/u15 ‘nhấc lên’) – chỉ nhắc trong lý thuyết. Khác nghĩa (có `sense`): `break off` (bẻ rời), `bring up` (nuôi dạy – u33 ‘nêu ra’), `come in`/`go out` (thủy triều – demo u11/u14 khác nghĩa), `come out` (sao, hoa nở), `cut down` (chặt cây), `dry up` (sông hồ cạn – u19/u45 khác), `go in` (mặt trời khuất – u24 khác), `pull up` (nhổ cây – u37 ‘kéo ghế’), `send out` (cây đâm chồi), `take over` (chiếm lãnh thổ). `eat away at something` khác `eat away at somebody` (u18). `overcast` (adj.), `offshoot` (n.) làm thẻ vì Mini dictionary gán cho u47.
+  Sửa sau khi xem ảnh trang bài tập: **số bài tập ghi lệch** (đoạn phim tài liệu là 47.1, câu hỏi là 47.2 – thẻ ghi 47.2/47.3) ở 18 chỗ; ví dụ `pull up` **trái sách** (viết ‘rừng khó tái sinh’, sách: rừng luôn tự tái tạo) → đổi sang ngữ cảnh voi mục A; bỏ chi tiết tự thêm (cây non, khu rừng, gấu mẹ, sa mạc); Common mistakes nêu nghĩa ngoài unit (come up/go down cho thủy triều, die off, feed with, move on) → thay bằng lỗi suy từ dạng Mini dictionary. Ảnh trang xác nhận ‘elegant creatures’ trong 47.1 là hươu cao cổ.
+- **u48 Weather**: 18 mục. `beat down` (nắng/mưa), `freeze up` (sợ/đóng băng), `mist over` (mắt) / `mist up` (kính) tách thẻ theo Mini dictionary; `fog up`, `mist up`, `steam up` 3 thẻ (3 mục Mini riêng). `roll in` sense ‘bad weather’ (u36 ‘tiền đổ về’). `breeze through` *slightly informal* → informal. Viết lại def_en `cloud over` và 2 ví dụ quá sát câu sách.
+- **u49 Places**: 21 mục. Không làm lại `branch off` (demo u2 cùng nghĩa ‘đường rẽ nhánh’). Khác nghĩa: `go up` (biển báo dựng lên – u21 ‘hò reo’), `do up` (sửa sang – u25 ‘gói’), `stretch out` (vùng đất – u44 ‘duỗi’), `set off` (tôn lên). Common mistakes lấy từ bài sửa lỗi 49.2. Mini dictionary in nhầm `oak up` (= *soak up*, đã có thẻ) → cảnh báo coverage là báo nhầm.
+- **u50 Transport**: 14 mục. Không làm lại `pick up` ‘đón người đi nhờ’ (demo u1/u2 ‘đón ai bằng xe’), `stowaway` (demo u3). Khác nghĩa: `branch off` (người lái rẽ khỏi đường chính – Mini u50 định nghĩa riêng), `be cast away` (dạt lên đảo – demo u1 ‘vứt bỏ’), `cut in` (lái xe chen ngang – demo u11 ‘ngắt lời’), `stack up` (máy bay chờ hạ cánh – u25 ‘chất đống’), `knock over`, `pull out`. `pick up speed` pos `phrase`. `change down`: Mini ghi *British and Australian* (vùng miền, không phải register) → neutral. Viết lại 8 ví dụ quá sát câu bài tập 50.3/50.4 hoặc có chi tiết tự thêm.
+- Sửa phát âm TTS: *branch off*, *be cast away* (BATH /ɑː/), *close off* (động từ /kləʊz/, TTS đọc /kləʊs/).
 
 ## Kiểm trôi
+- Lượt 7: kiểm u31 (chọn ngẫu nhiên). **Lệch hệ thống**: 20/20 ví dụ đúng nghĩa nhưng đặt bối cảnh tự nghĩ (ly hôn, con tuổi teen, bữa trưa từ tủ lạnh, ‘Elena không hợp việc văn phòng’…) thay vì sáu người nói trong sách (sếp sắp nghỉ hưu, đại diện công đoàn, công nhân dây chuyền, trợ lý hành chính, nhà khoa học, nhân viên văn phòng) → viết lại cả 20 theo đúng ngữ cảnh sách. Thêm `tools/context_score.py`: tỉ lệ từ nội dung của ví dụ có trong src unit; u31 sau khi sửa 0/20 câu điểm thấp. Chạy cho u16–45: ~90 ví dụ điểm < 0.35 (nhiều nhất u28: 7, u25/u29/u33/u37: 5) → **TODO kiểm trôi cuối**: soát tay các câu này với src.
 - Lượt 6: kiểm u23 và u26 với src. u26 khớp (email Esther, register informal của *add up/bump up/knock down*). u23: 2 ví dụ có bối cảnh tự đặt **mâu thuẫn sách** → đã sửa: `rule out` (sách: Kate bảo đừng loại Olive Bistro trước khi xem – câu cũ ‘sếp loại DJ vì đắt’ không có trong sách); `settle on` (câu cũ ‘xem ba quán, chọn rẻ nhất’ không có trong sách → nay: nhóm có đến cuối tuần để chốt địa điểm tiệc ra mắt). Chạy lại gen + check u23: 0 LỖI. Bài học: ở các lượt sau, ví dụ ‘ngữ cảnh sách’ phải dò lại chi tiết sự việc, không chỉ tên nhân vật.
 - Lượt 5: kiểm u37 và u40 với src – email Abigail, các câu mục B, hội thoại Leah/Naomi, bài phát biểu chia tay Jack, đáp án 37.2/40.2; dạng tách/không tách, register khớp; không phát hiện lệch.
 - Lượt 4: kiểm u31 và u35 với src – sáu người nói về công việc, tin kinh doanh và bảng collocation, đáp án 31.3/35.1/35.2; sửa 1 collocation đoán chữ bị mất trong src (`buy out one of your main rivals` – đã đối chiếu dòng sau của src). Dạng tách/không tách, register khớp.
