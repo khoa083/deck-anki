@@ -1,0 +1,663 @@
+{
+ "book": "pre",
+ "unit": 24,
+ "title_vi": "Thực phẩm",
+ "theory_html": "<p><b>A. Fruit</b><br><i>A. Trái cây</i></p> <p><b>pineapple, strawberry, a bunch of grapes, peach, pear, melon, olives, coconut, lemon</b>.</p><p><i><b>dứa, dâu tây, chùm nho, đào, lê, dưa, ô liu, dừa, chanh vàng</b>.</i></p> <p><b>B. Vegetables</b><br><i>B. Rau củ</i></p> <p><b>beans, peas, onion, garlic, carrot, mushrooms, aubergine, courgette, pepper, cabbage, broccoli, spinach</b>.</p><p><i><b>đậu, đậu Hà Lan, hành, tỏi, cà rốt, nấm, cà tím, bí ngòi, ớt chuông, bắp cải, súp lơ xanh, rau chân vịt</b>.</i></p> <p><b>C. Salad</b><br><i>C. Rau trộn</i></p> <p>A <b>salad</b> is a mixture of uncooked ingredients: <b>lettuce, tomato, cucumber</b>, onion; <b>salad dressing</b> = <b>oil</b> and <b>vinegar</b> (or oil and lemon).</p><p><i><b>xa lát; xà lách, cà chua, dưa chuột; nước trộn = dầu và giấm</b>.</i></p> <p><b>D. Meat, fish and seafood</b><br><i>D. Thịt, cá và hải sản</i></p> <p>Animal → meat: cow → <b>beef</b>; <b>calf</b> → <b>veal</b>; <b>lamb</b> → lamb; pig → <b>pork</b>; <b>chicken/hen</b> → chicken. A <b>vegetarian</b> does not eat meat. Fish and seafood: <b>salmon, prawns, mussels, crab</b>.</p><p><i><b>bò, bê, cừu non, lợn, gà mái; người ăn chay; cá hồi, tôm, vẹm, cua</b>.</i></p>",
+ "items": [
+  {
+   "word": "pineapple",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpaɪnæpl/",
+   "def_en": "A large tropical fruit with a rough skin and sweet yellow flesh.",
+   "def_vi": "Quả nhiệt đới lớn vỏ sần, ruột vàng ngọt.",
+   "gloss_vi": "quả dứa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pineapple</i> (noun) = quả dứa. <b>Grammar</b>: đếm được và không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "I prefer fresh <b>pineapple</b> to tinned.",
+    "vi": "Tôi thích <b>dứa</b> tươi hơn dứa hộp."
+   }
+  },
+  {
+   "word": "strawberry",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈstrɔːbəri/",
+   "def_en": "A small soft red fruit.",
+   "def_vi": "Quả nhỏ mềm màu đỏ.",
+   "gloss_vi": "quả dâu tây",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Strawberry</i> (noun) = quả dâu tây. <b>Grammar</b>: số nhiều <i>strawberries</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We had <b>strawberries</b> and cream.",
+    "vi": "Chúng tôi ăn <b>dâu tây</b> với kem."
+   }
+  },
+  {
+   "word": "bunch of grapes",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌbʌntʃ əv ˈɡreɪps/",
+   "def_en": "A number of grapes growing together on one stem.",
+   "def_vi": "Nhiều quả nho mọc chung một cuống.",
+   "gloss_vi": "chùm nho",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bunch of grapes</i> (noun phrase) = chùm nho. <b>Grammar</b>: <i>a bunch of</i> + hoa/chuối/nho/chìa khóa.",
+   "ex_kit": true,
+   "example": {
+    "en": "I bought a <b>bunch of grapes</b> at the market.",
+    "vi": "Tôi mua một <b>chùm nho</b> ở chợ."
+   }
+  },
+  {
+   "word": "peach",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/piːtʃ/",
+   "def_en": "A soft round fruit with a furry skin and a large stone.",
+   "def_vi": "Quả tròn mềm vỏ có lông tơ, hạt to.",
+   "gloss_vi": "quả đào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Peach</i> (noun) = quả đào. <b>Grammar</b>: số nhiều <i>peaches</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "This <b>peach</b> is very juicy.",
+    "vi": "<b>Quả đào</b> này rất mọng nước."
+   }
+  },
+  {
+   "word": "pear",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/peə(r)/",
+   "def_en": "A sweet fruit, narrow at the top and wide at the bottom.",
+   "def_vi": "Quả ngọt, đầu nhỏ đáy to.",
+   "gloss_vi": "quả lê",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pear</i> (noun) = quả lê. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: /peə/ như <i>pair</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Would you like an apple or a <b>pear</b>?",
+    "vi": "Bạn muốn táo hay <b>lê</b>?"
+   }
+  },
+  {
+   "word": "melon",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmelən/",
+   "def_en": "A large round fruit with a hard skin and a lot of juice.",
+   "def_vi": "Quả to tròn vỏ cứng, nhiều nước.",
+   "gloss_vi": "quả dưa (lưới, vàng)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Melon</i> (noun) = quả dưa (lưới, vàng). <b>Grammar</b>: đếm được và không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "We had <b>melon</b> for breakfast.",
+    "vi": "Chúng tôi ăn <b>dưa</b> trong bữa sáng."
+   }
+  },
+  {
+   "word": "olive",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɒlɪv/",
+   "def_en": "A small green or black fruit eaten or used for oil.",
+   "def_vi": "Quả nhỏ xanh hay đen để ăn hoặc ép dầu.",
+   "gloss_vi": "quả ô liu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Olive</i> (noun) = quả ô liu. <b>Grammar</b>: <i>olive oil</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I love <b>olives</b> on my pizza.",
+    "vi": "Tôi thích <b>ô liu</b> trên pizza."
+   }
+  },
+  {
+   "word": "coconut",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkəʊkənʌt/",
+   "def_en": "A large brown nut with white flesh and milk inside.",
+   "def_vi": "Quả lớn vỏ nâu, cùi trắng và nước bên trong.",
+   "gloss_vi": "quả dừa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Coconut</i> (noun) = quả dừa. <b>Grammar</b>: đếm được và không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Coconut</b> milk is lovely on a hot day.",
+    "vi": "Nước <b>dừa</b> rất ngon trong ngày nóng."
+   }
+  },
+  {
+   "word": "lemon",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlemən/",
+   "def_en": "A yellow fruit with a sour taste.",
+   "def_vi": "Quả màu vàng vị chua.",
+   "gloss_vi": "chanh vàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lemon</i> (noun) = chanh vàng. <b>Grammar</b>: đếm được; <i>a slice of lemon</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Would you like <b>lemon</b> in your tea?",
+    "vi": "Bạn có muốn <b>chanh</b> trong trà không?"
+   }
+  },
+  {
+   "word": "beans",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/biːnz/",
+   "def_en": "Seeds or long green pods eaten as vegetables.",
+   "def_vi": "Hạt hay quả dài xanh ăn như rau.",
+   "gloss_vi": "đậu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Beans</i> (plural noun) = đậu. <b>Grammar</b>: số ít <i>a bean</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We had fish with potatoes and green <b>beans</b>.",
+    "vi": "Chúng tôi ăn cá với khoai tây và <b>đậu</b> xanh."
+   }
+  },
+  {
+   "word": "peas",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/piːz/",
+   "def_en": "Small round green seeds eaten as vegetables.",
+   "def_vi": "Hạt tròn nhỏ màu xanh ăn như rau.",
+   "gloss_vi": "đậu Hà Lan",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Peas</i> (plural noun) = đậu Hà Lan. <b>Grammar</b>: số ít <i>a pea</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The children don’t like <b>peas</b>.",
+    "vi": "Bọn trẻ không thích <b>đậu Hà Lan</b>."
+   }
+  },
+  {
+   "word": "onion",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈʌnjən/",
+   "def_en": "A round vegetable with a strong smell and taste.",
+   "def_vi": "Củ tròn mùi vị hăng.",
+   "gloss_vi": "củ hành",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Onion</i> (noun) = củ hành. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: /ˈʌnjən/.",
+   "ex_kit": true,
+   "example": {
+    "en": "Chop an <b>onion</b> and fry it.",
+    "vi": "Thái một <b>củ hành</b> và chiên nó."
+   }
+  },
+  {
+   "word": "garlic",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡɑːlɪk/",
+   "def_en": "A plant like a small onion with a very strong taste.",
+   "def_vi": "Cây như hành nhỏ, vị rất mạnh.",
+   "gloss_vi": "tỏi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Garlic</i> (noun) = tỏi. <b>Grammar</b>: không đếm được; <i>a clove of garlic</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I don’t like too much <b>garlic</b> in my food.",
+    "vi": "Tôi không thích vị của quá nhiều <b>tỏi</b>."
+   }
+  },
+  {
+   "word": "carrot",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkærət/",
+   "def_en": "A long orange vegetable.",
+   "def_vi": "Củ dài màu cam.",
+   "gloss_vi": "cà rốt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Carrot</i> (noun) = cà rốt. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Carrots</b> are good for your eyes.",
+    "vi": "<b>Cà rốt</b> tốt cho mắt."
+   }
+  },
+  {
+   "word": "mushroom",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmʌʃrʊm/",
+   "def_en": "A grey or white plant with a round top, eaten as a vegetable.",
+   "def_vi": "Cây xám hay trắng đầu tròn, ăn như rau.",
+   "gloss_vi": "nấm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mushroom</i> (noun) = nấm. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "I’d like a pizza with <b>mushrooms</b>.",
+    "vi": "Tôi muốn pizza với <b>nấm</b>."
+   }
+  },
+  {
+   "word": "aubergine",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈəʊbəʒiːn/",
+   "def_en": "A large purple vegetable.",
+   "def_vi": "Quả to màu tím ăn như rau.",
+   "gloss_vi": "cà tím",
+   "synonyms": "eggplant <i>(n. cà tím (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Aubergine</i> (noun) = cà tím. <b>Grammar</b>: Anh–Anh.",
+   "ex_kit": true,
+   "example": {
+    "en": "Moussaka is made with <b>aubergines</b>.",
+    "vi": "Món moussaka được làm với <b>cà tím</b>."
+   }
+  },
+  {
+   "word": "courgette",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kʊəˈʒet/",
+   "def_en": "A long green vegetable.",
+   "def_vi": "Quả dài xanh ăn như rau.",
+   "gloss_vi": "bí ngòi",
+   "synonyms": "zucchini <i>(n. bí ngòi (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Courgette</i> (noun) = bí ngòi. <b>Grammar</b>: Anh–Anh.",
+   "ex_kit": true,
+   "example": {
+    "en": "I fried some <b>courgettes</b> with garlic.",
+    "vi": "Tôi xào <b>bí ngòi</b> với tỏi."
+   }
+  },
+  {
+   "word": "pepper",
+   "sense": "vegetable",
+   "pos": "noun",
+   "ipa": "/ˈpepə(r)/",
+   "def_en": "A hollow red, green or yellow vegetable.",
+   "def_vi": "Quả rỗng màu đỏ, xanh hay vàng ăn như rau.",
+   "gloss_vi": "ớt chuông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pepper</i> (noun) = ớt chuông. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: cũng là hạt tiêu (không đếm được).",
+   "ex_kit": true,
+   "example": {
+    "en": "Add a red <b>pepper</b> to the salad.",
+    "vi": "Cho thêm một quả <b>ớt chuông</b> đỏ vào xa lát."
+   }
+  },
+  {
+   "word": "cabbage",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkæbɪdʒ/",
+   "def_en": "A large round vegetable with thick green leaves.",
+   "def_vi": "Rau tròn to lá xanh dày.",
+   "gloss_vi": "bắp cải",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cabbage</i> (noun) = bắp cải. <b>Grammar</b>: đếm được và không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "My grandmother makes <b>cabbage</b> soup.",
+    "vi": "Bà tôi nấu súp <b>bắp cải</b>."
+   }
+  },
+  {
+   "word": "broccoli",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbrɒkəli/",
+   "def_en": "A green vegetable with a thick stem and small flowers on top.",
+   "def_vi": "Rau xanh thân to, nụ hoa nhỏ ở trên.",
+   "gloss_vi": "súp lơ xanh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Broccoli</i> (noun) = súp lơ xanh. <b>Grammar</b>: không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Broccoli</b> is very healthy.",
+    "vi": "<b>Súp lơ xanh</b> rất tốt cho sức khỏe."
+   }
+  },
+  {
+   "word": "spinach",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈspɪnɪtʃ/",
+   "def_en": "A vegetable with large dark green leaves.",
+   "def_vi": "Rau lá to xanh đậm.",
+   "gloss_vi": "rau chân vịt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spinach</i> (noun) = rau chân vịt. <b>Grammar</b>: không đếm được. <b>Common mistakes</b>: /ˈspɪnɪtʃ/.",
+   "ex_kit": true,
+   "example": {
+    "en": "I put <b>spinach</b> in my salad.",
+    "vi": "Tôi cho <b>rau chân vịt</b> vào xa lát."
+   }
+  },
+  {
+   "word": "salad",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsæləd/",
+   "def_en": "A mixture of uncooked vegetables.",
+   "def_vi": "Hỗn hợp rau sống.",
+   "gloss_vi": "xa lát, rau trộn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Salad</i> (noun) = xa lát, rau trộn. <b>Grammar</b>: đếm được và không đếm được.",
+   "example": {
+    "en": "A <b>salad</b> is usually a mixture of uncooked ingredients.",
+    "vi": "<b>Xa lát</b> thường là hỗn hợp nguyên liệu sống."
+   }
+  },
+  {
+   "word": "lettuce",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈletɪs/",
+   "def_en": "A vegetable with large green leaves eaten raw in salads.",
+   "def_vi": "Rau lá xanh to ăn sống trong xa lát.",
+   "gloss_vi": "rau xà lách",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lettuce</i> (noun) = rau xà lách. <b>Grammar</b>: đếm được và không đếm được. <b>Common mistakes</b>: /ˈletɪs/.",
+   "example": {
+    "en": "In Britain it mainly has <b>lettuce</b>.",
+    "vi": "Ở Anh, xa lát chủ yếu có <b>xà lách</b>."
+   }
+  },
+  {
+   "word": "tomato",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/təˈmɑːtəʊ/",
+   "def_en": "A soft red fruit eaten as a vegetable.",
+   "def_vi": "Quả mềm đỏ ăn như rau.",
+   "gloss_vi": "cà chua",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tomato</i> (noun) = cà chua. <b>Grammar</b>: số nhiều <i>tomatoes</i>. <b>Common mistakes</b>: Anh /təˈmɑːtəʊ/, Mỹ /-meɪ-/.",
+   "example": {
+    "en": "It mainly has lettuce, as well as <b>tomato</b>, cucumber, onion, and other things.",
+    "vi": "Xa lát có xà lách, cũng như <b>cà chua</b>, dưa chuột và hành."
+   }
+  },
+  {
+   "word": "cucumber",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkjuːkʌmbə(r)/",
+   "def_en": "A long green vegetable eaten raw.",
+   "def_vi": "Quả dài xanh ăn sống.",
+   "gloss_vi": "dưa chuột",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cucumber</i> (noun) = dưa chuột. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "It mainly has lettuce, as well as tomato, <b>cucumber</b>, onion, and other things.",
+    "vi": "Xa lát có xà lách, cà chua, <b>dưa chuột</b> và hành."
+   }
+  },
+  {
+   "word": "salad dressing",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈsæləd ˌdresɪŋ/",
+   "def_en": "A sauce put on salad.",
+   "def_vi": "Nước sốt rưới lên xa lát.",
+   "gloss_vi": "nước trộn xa lát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Salad dressing</i> (noun phrase) = nước trộn xa lát. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "We often put <b>salad dressing</b> on salad.",
+    "vi": "Chúng tôi thường rưới <b>nước trộn</b> lên xa lát."
+   }
+  },
+  {
+   "word": "oil",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɔɪl/",
+   "def_en": "A thick liquid from plants, used in cooking.",
+   "def_vi": "Chất lỏng sánh từ cây, dùng nấu ăn.",
+   "gloss_vi": "dầu ăn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Oil</i> (noun) = dầu ăn. <b>Grammar</b>: không đếm được; <i>olive oil</i>.",
+   "example": {
+    "en": "Salad dressing is usually <b>oil</b> and vinegar.",
+    "vi": "Nước trộn thường là <b>dầu</b> và giấm."
+   }
+  },
+  {
+   "word": "vinegar",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈvɪnɪɡə(r)/",
+   "def_en": "A sour liquid used to flavour food.",
+   "def_vi": "Chất lỏng chua để nêm thức ăn.",
+   "gloss_vi": "giấm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Vinegar</i> (noun) = giấm. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "Salad dressing is usually oil and <b>vinegar</b>.",
+    "vi": "Nước trộn thường là dầu và <b>giấm</b>."
+   }
+  },
+  {
+   "word": "calf",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kɑːf/",
+   "def_en": "A young cow.",
+   "def_vi": "Con bò non.",
+   "gloss_vi": "con bê",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Calf</i> (noun) = con bê. <b>Grammar</b>: số nhiều <i>calves</i>. <b>Common mistakes</b>: <i>l</i> câm.",
+   "ex_kit": true,
+   "example": {
+    "en": "The cow has just had a <b>calf</b>.",
+    "vi": "Con bò vừa đẻ một <b>con bê</b>."
+   }
+  },
+  {
+   "word": "lamb",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/læm/",
+   "def_en": "A young sheep, or its meat.",
+   "def_vi": "Cừu non hay thịt của nó.",
+   "gloss_vi": "cừu non; thịt cừu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lamb</i> (noun) = cừu non; thịt cừu. <b>Grammar</b>: con vật: đếm được; thịt: không đếm được. <b>Common mistakes</b>: <i>b</i> câm.",
+   "ex_kit": true,
+   "example": {
+    "en": "We had roast <b>lamb</b> on Sunday.",
+    "vi": "Chúng tôi ăn <b>thịt cừu</b> nướng vào Chủ nhật."
+   }
+  },
+  {
+   "word": "hen",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/hen/",
+   "def_en": "A female chicken.",
+   "def_vi": "Gà mái.",
+   "gloss_vi": "gà mái",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hen</i> (noun) = gà mái. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>hens</b> lay eggs every day.",
+    "vi": "<b>Gà mái</b> đẻ trứng mỗi ngày."
+   }
+  },
+  {
+   "word": "beef",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/biːf/",
+   "def_en": "Meat from a cow.",
+   "def_vi": "Thịt bò.",
+   "gloss_vi": "thịt bò",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Beef</i> (noun) = thịt bò. <b>Grammar</b>: không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "I don’t eat <b>beef</b>.",
+    "vi": "Tôi không ăn <b>thịt bò</b>."
+   }
+  },
+  {
+   "word": "veal",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/viːl/",
+   "def_en": "Meat from a calf.",
+   "def_vi": "Thịt bê.",
+   "gloss_vi": "thịt bê",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Veal</i> (noun) = thịt bê. <b>Grammar</b>: không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Veal</b> is softer than beef.",
+    "vi": "<b>Thịt bê</b> mềm hơn thịt bò."
+   }
+  },
+  {
+   "word": "pork",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pɔːk/",
+   "def_en": "Meat from a pig.",
+   "def_vi": "Thịt lợn.",
+   "gloss_vi": "thịt lợn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pork</i> (noun) = thịt lợn. <b>Grammar</b>: không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "Some people don’t eat <b>pork</b> for religious reasons.",
+    "vi": "Một số người không ăn <b>thịt lợn</b> vì lý do tôn giáo."
+   }
+  },
+  {
+   "word": "vegetarian",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌvedʒəˈteəriən/",
+   "def_en": "A person who does not eat meat.",
+   "def_vi": "Người không ăn thịt.",
+   "gloss_vi": "người ăn chay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Vegetarian</i> (noun) = người ăn chay. <b>Grammar</b>: cũng là tính từ: <i>a vegetarian restaurant</i>.",
+   "example": {
+    "en": "A person who does not eat meat is a <b>vegetarian</b>.",
+    "vi": "Người không ăn thịt là <b>người ăn chay</b>."
+   }
+  },
+  {
+   "word": "salmon",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsæmən/",
+   "def_en": "A large fish with pink flesh.",
+   "def_vi": "Cá lớn thịt màu hồng.",
+   "gloss_vi": "cá hồi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Salmon</i> (noun) = cá hồi. <b>Grammar</b>: số nhiều giữ nguyên <i>salmon</i>. <b>Common mistakes</b>: <i>l</i> câm.",
+   "ex_kit": true,
+   "example": {
+    "en": "We had <b>salmon</b> with potatoes.",
+    "vi": "Chúng tôi ăn <b>cá hồi</b> với khoai tây."
+   }
+  },
+  {
+   "word": "prawn",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/prɔːn/",
+   "def_en": "A small shellfish that turns pink when cooked.",
+   "def_vi": "Giáp xác nhỏ, chín thì chuyển hồng.",
+   "gloss_vi": "con tôm",
+   "synonyms": "shrimp <i>(n. tôm (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Prawn</i> (noun) = con tôm. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "I ordered pasta with <b>prawns</b>.",
+    "vi": "Tôi gọi món mì với <b>tôm</b>."
+   }
+  },
+  {
+   "word": "mussel",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmʌsl/",
+   "def_en": "A small shellfish with a black shell.",
+   "def_vi": "Loài có vỏ nhỏ màu đen.",
+   "gloss_vi": "con vẹm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mussel</i> (noun) = con vẹm. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: /ˈmʌsl/ như <i>muscle</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "This restaurant is famous for its <b>mussels</b>.",
+    "vi": "Nhà hàng này nổi tiếng với món <b>vẹm</b>."
+   }
+  },
+  {
+   "word": "crab",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kræb/",
+   "def_en": "A sea creature with a hard shell and ten legs.",
+   "def_vi": "Sinh vật biển vỏ cứng có mười chân.",
+   "gloss_vi": "con cua",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Crab</i> (noun) = con cua. <b>Grammar</b>: đếm được; thịt: không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "We ate fresh <b>crab</b> by the sea.",
+    "vi": "Chúng tôi ăn <b>cua</b> tươi ở biển."
+   }
+  }
+ ]
+}

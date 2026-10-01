@@ -1,0 +1,408 @@
+{
+ "book": "pre",
+ "unit": 26,
+ "title_vi": "Cuộc sống thành phố",
+ "theory_html": "<p><b>A. The rush hour</b><br><i>A. Giờ cao điểm</i></p> <p><b>the rush hour</b> – everyone seems <b>in a hurry</b>; I <b>get stuck</b> in <b>traffic jams</b>; <b>nowhere to park</b>, the <b>car park</b> is full; the journey is <b>stressful</b>; I feel <b>exhausted</b>. <b>stressful</b> (situation) vs <b>stressed</b> (person); <b>a parking space</b> (NOT <b>a parking</b>).</p><p><i><b>giờ cao điểm, vội vã, bị kẹt, tắc đường, không có chỗ đỗ, bãi đỗ xe, căng thẳng, kiệt sức</b>.</i></p> <p><b>B. The nightlife</b><br><i>B. Cuộc sống về đêm</i></p> <p>One of the <b>advantages of</b> the city is the <b>nightlife</b>: the <b>town centre</b> is <b>lively</b>, a wide <b>variety of</b> bars; <b>culture</b> and <b>cultural activities</b>.</p><p><i><b>ưu điểm, cuộc sống về đêm, trung tâm, sôi động, đủ loại, văn hóa</b>.</i></p> <p><b>C. Advantages and disadvantages</b><br><i>C. Ưu và nhược điểm</i></p> <p><b>crowded</b> (opp <b>quiet</b>), <b>dirty</b> (opp <b>clean</b>), <b>dangerous</b> (opp <b>safe</b>); <b>pollution</b>, the <b>crime rate</b>; walk home <b>at night</b>; <b>value for money</b>; <b>you get</b> a real <b>mix</b> of people; always something <b>going on</b>; never <b>dull</b>.</p><p><i><b>đông đúc, bẩn, nguy hiểm, ô nhiễm, tỷ lệ tội phạm, ban đêm, có, sự pha trộn, diễn ra, buồn tẻ</b>.</i></p>",
+ "items": [
+  {
+   "word": "rush hour",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈrʌʃ aʊə(r)/",
+   "def_en": "The time when people travel to and from work.",
+   "def_vi": "Lúc người ta đi làm và về.",
+   "gloss_vi": "giờ cao điểm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rush hour</i> (noun phrase) = giờ cao điểm. <b>Grammar</b>: <i>in the rush hour</i>.",
+   "example": {
+    "en": "For me, the <b>rush hour</b> is the worst time of day.",
+    "vi": "Với tôi, <b>giờ cao điểm</b> là lúc tệ nhất trong ngày."
+   }
+  },
+  {
+   "word": "in a hurry",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪn ə ˈhʌri/",
+   "def_en": "Wanting to go somewhere or do something quickly.",
+   "def_vi": "Muốn đi đâu hay làm gì thật nhanh.",
+   "gloss_vi": "vội vã",
+   "synonyms": "in a rush <i>(phr. vội vàng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In a hurry</i> (phrase) = vội vã. <b>Grammar</b>: <i>be in a hurry (to do sth)</i>.",
+   "example": {
+    "en": "Everyone seems to be <b>in a hurry</b>.",
+    "vi": "Ai cũng có vẻ <b>vội vã</b>."
+   }
+  },
+  {
+   "word": "get stuck",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡet ˈstʌk/",
+   "def_en": "To become unable to move or go anywhere.",
+   "def_vi": "Không thể di chuyển hay đi đâu.",
+   "gloss_vi": "bị kẹt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get stuck</i> (verb phrase) = bị kẹt. <b>Grammar</b>: <i>get stuck in traffic / in a lift</i>.",
+   "example": {
+    "en": "Sometimes I <b>get stuck</b> in traffic jams.",
+    "vi": "Đôi khi tôi <b>bị kẹt</b> xe."
+   }
+  },
+  {
+   "word": "traffic jam",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈtræfɪk dʒæm/",
+   "def_en": "A long line of cars that are not moving.",
+   "def_vi": "Hàng dài ô tô không di chuyển.",
+   "gloss_vi": "tắc đường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Traffic jam</i> (noun phrase) = tắc đường. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Sometimes I get stuck in <b>traffic jams</b>.",
+    "vi": "Đôi khi tôi bị kẹt trong <b>tắc đường</b>."
+   }
+  },
+  {
+   "word": "nowhere to park",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌnəʊweə tə ˈpɑːk/",
+   "def_en": "No place to leave the car.",
+   "def_vi": "Không có chỗ để xe.",
+   "gloss_vi": "không có chỗ đỗ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nowhere to park</i> (phrase) = không có chỗ đỗ. <b>Grammar</b>: <i>nowhere/somewhere to</i> + động từ.",
+   "example": {
+    "en": "When I get to work I find there’s <b>nowhere to park</b>.",
+    "vi": "Đến nơi làm, tôi thấy <b>không có chỗ đỗ xe</b>."
+   }
+  },
+  {
+   "word": "car park",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈkɑː pɑːk/",
+   "def_en": "A place to leave a car.",
+   "def_vi": "Nơi để ô tô.",
+   "gloss_vi": "bãi đỗ xe",
+   "synonyms": "parking lot <i>(np. bãi đỗ (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Car park</i> (noun phrase) = bãi đỗ xe. <b>Grammar</b>: Anh–Anh; <i>a parking space</i> = một chỗ đỗ (không nói <i>a parking</i>).",
+   "example": {
+    "en": "The <b>car park</b> is already full.",
+    "vi": "Vì <b>bãi đỗ xe</b> đã đầy."
+   }
+  },
+  {
+   "word": "stressful",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈstresfl/",
+   "def_en": "Causing a lot of worry.",
+   "def_vi": "Gây nhiều lo lắng.",
+   "gloss_vi": "căng thẳng (gây áp lực)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "relaxing <i>(adj. thư giãn)</i>",
+   "grammar_vi": "<i>Stressful</i> (adjective) = căng thẳng (gây áp lực). <b>Grammar</b>: <i>stressful</i> (việc/tình huống) ≠ <i>stressed</i> (người).",
+   "example": {
+    "en": "That makes the journey very <b>stressful</b>.",
+    "vi": "Điều đó khiến chuyến đi rất <b>căng thẳng</b>."
+   }
+  },
+  {
+   "word": "exhausted",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪɡˈzɔːstɪd/",
+   "def_en": "Very tired.",
+   "def_vi": "Rất mệt.",
+   "gloss_vi": "kiệt sức",
+   "synonyms": "worn out <i>(adj. mệt rã rời)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Exhausted</i> (adjective) = kiệt sức. <b>Grammar</b>: không dùng <i>very exhausted</i>. <b>Common mistakes</b>: <i>h</i> câm.",
+   "example": {
+    "en": "When I get home in the evenings I often feel <b>exhausted</b>.",
+    "vi": "Tối về nhà tôi thường thấy <b>kiệt sức</b>."
+   }
+  },
+  {
+   "word": "stressed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/strest/",
+   "def_en": "(Of a person) worried and nervous.",
+   "def_vi": "(Người) lo lắng, căng thẳng.",
+   "gloss_vi": "bị căng thẳng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "relaxed <i>(adj. thư thái)</i>",
+   "grammar_vi": "<i>Stressed</i> (adjective) = bị căng thẳng. <b>Grammar</b>: không nói <i>I was stressing</i>.",
+   "example": {
+    "en": "The situation was stressful, and I was very <b>stressed</b>.",
+    "vi": "Tình huống rất căng thẳng, và tôi rất <b>căng thẳng</b>."
+   }
+  },
+  {
+   "word": "advantage",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ədˈvɑːntɪdʒ/",
+   "def_en": "A positive thing about a situation.",
+   "def_vi": "Điều tích cực của một tình huống.",
+   "gloss_vi": "ưu điểm, lợi thế",
+   "synonyms": "benefit <i>(n. lợi ích)</i>",
+   "antonyms": "disadvantage <i>(n. nhược điểm)</i>",
+   "grammar_vi": "<i>Advantage</i> (noun) = ưu điểm, lợi thế. <b>Grammar</b>: <i>the advantage of (doing) sth</i>.",
+   "example": {
+    "en": "One of the <b>advantages of</b> living in the city is the nightlife.",
+    "vi": "Một trong những <b>ưu điểm</b> của sống ở thành phố là cuộc sống về đêm."
+   }
+  },
+  {
+   "word": "nightlife",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈnaɪtlaɪf/",
+   "def_en": "Places to visit in the evening for social reasons.",
+   "def_vi": "Những nơi đến chơi buổi tối.",
+   "gloss_vi": "cuộc sống về đêm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nightlife</i> (noun) = cuộc sống về đêm. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "One of the advantages of living in the city is the <b>nightlife</b>.",
+    "vi": "Một ưu điểm của sống ở thành phố là <b>cuộc sống về đêm</b>."
+   }
+  },
+  {
+   "word": "town centre",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌtaʊn ˈsentə(r)/",
+   "def_en": "The main part of a town.",
+   "def_vi": "Khu vực chính của thị trấn.",
+   "gloss_vi": "trung tâm thị trấn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "outskirts <i>(pn. ngoại ô)</i>",
+   "grammar_vi": "<i>Town centre</i> (noun phrase) = trung tâm thị trấn. <b>Grammar</b>: Anh–Anh; Mỹ <i>downtown</i>.",
+   "example": {
+    "en": "The <b>town centre</b> is always lively in the evening.",
+    "vi": "<b>Trung tâm thị trấn</b> luôn sôi động vào buổi tối."
+   }
+  },
+  {
+   "word": "lively",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈlaɪvli/",
+   "def_en": "Full of activity.",
+   "def_vi": "Đầy hoạt động.",
+   "gloss_vi": "sôi động",
+   "synonyms": "busy <i>(adj. nhộn nhịp)</i>",
+   "antonyms": "quiet <i>(adj. yên tĩnh)</i>",
+   "grammar_vi": "<i>Lively</i> (adjective) = sôi động. <b>Grammar</b>: tính từ dù tận cùng <i>-ly</i>.",
+   "example": {
+    "en": "The town centre is always <b>lively</b> in the evening.",
+    "vi": "Trung tâm thị trấn luôn <b>sôi động</b> vào buổi tối."
+   }
+  },
+  {
+   "word": "variety of",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/vəˈraɪəti əv/",
+   "def_en": "Many different things.",
+   "def_vi": "Nhiều thứ khác nhau.",
+   "gloss_vi": "đủ loại",
+   "synonyms": "range of <i>(np. đủ loại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Variety of</i> (noun phrase) = đủ loại. <b>Grammar</b>: <i>a (wide) variety of</i> + danh từ số nhiều.",
+   "example": {
+    "en": "There is a wide <b>variety of</b> bars, clubs and restaurants.",
+    "vi": "Có <b>đủ loại</b> quán bar, câu lạc bộ và nhà hàng."
+   }
+  },
+  {
+   "word": "culture",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkʌltʃə(r)/",
+   "def_en": "Activities such as art, music, theatre.",
+   "def_vi": "Các hoạt động như nghệ thuật, âm nhạc, sân khấu.",
+   "gloss_vi": "văn hóa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Culture</i> (noun) = văn hóa. <b>Grammar</b>: không đếm được ở nghĩa này.",
+   "example": {
+    "en": "If you are more interested in <b>culture</b>, you can go to the cinema, the theatre, concerts.",
+    "vi": "Nếu bạn quan tâm hơn đến <b>văn hóa</b>, bạn có thể đi rạp phim, nhà hát."
+   }
+  },
+  {
+   "word": "cultural activities",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌkʌltʃərəl ækˈtɪvətiz/",
+   "def_en": "Activities connected with art, music, theatre.",
+   "def_vi": "Hoạt động liên quan nghệ thuật, âm nhạc, sân khấu.",
+   "gloss_vi": "hoạt động văn hóa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cultural activities</i> (noun phrase) = hoạt động văn hóa. <b>Grammar</b>: <i>culture</i> (n.) → <i>cultural</i> (adj.).",
+   "example": {
+    "en": "If you are more interested in culture and <b>cultural activities</b>…",
+    "vi": "Nếu bạn quan tâm hơn đến văn hóa và <b>hoạt động văn hóa</b>…"
+   }
+  },
+  {
+   "word": "crowded",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈkraʊdɪd/",
+   "def_en": "Full of people.",
+   "def_vi": "Đầy người.",
+   "gloss_vi": "đông đúc",
+   "synonyms": "busy <i>(adj. đông)</i>",
+   "antonyms": "quiet <i>(adj. vắng)</i>",
+   "grammar_vi": "<i>Crowded</i> (adjective) = đông đúc. <b>Grammar</b>: <i>crowded with people</i>.",
+   "example": {
+    "en": "Cities always seem <b>crowded</b>.",
+    "vi": "Thành phố lúc nào cũng có vẻ <b>đông đúc</b>."
+   }
+  },
+  {
+   "word": "dangerous",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈdeɪndʒərəs/",
+   "def_en": "Likely to hurt you.",
+   "def_vi": "Có thể gây hại cho bạn.",
+   "gloss_vi": "nguy hiểm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "safe <i>(adj. an toàn)</i>",
+   "grammar_vi": "<i>Dangerous</i> (adjective) = nguy hiểm. <b>Grammar</b>: <i>danger</i> (n.) → <i>dangerous</i>.",
+   "example": {
+    "en": "They can be dirty and <b>dangerous</b> places to live.",
+    "vi": "Thành phố có thể là nơi bẩn và <b>nguy hiểm</b>."
+   }
+  },
+  {
+   "word": "pollution",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pəˈluːʃn/",
+   "def_en": "Dirty air and water.",
+   "def_vi": "Không khí và nước bẩn.",
+   "gloss_vi": "sự ô nhiễm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pollution</i> (noun) = sự ô nhiễm. <b>Grammar</b>: không đếm được. <b>Word family</b>: <i>pollute</i> (v.).",
+   "example": {
+    "en": "<b>Pollution</b> is worse in big cities.",
+    "vi": "<b>Ô nhiễm</b> tệ hơn ở các thành phố lớn."
+   }
+  },
+  {
+   "word": "crime rate",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈkraɪm reɪt/",
+   "def_en": "The number of crimes that happen.",
+   "def_vi": "Số tội phạm xảy ra.",
+   "gloss_vi": "tỷ lệ tội phạm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Crime rate</i> (noun phrase) = tỷ lệ tội phạm. <b>Grammar</b>: <i>a high/low crime rate</i>.",
+   "example": {
+    "en": "Pollution is worse in big cities, and so is the <b>crime rate</b>.",
+    "vi": "Ô nhiễm tệ hơn ở thành phố lớn, và <b>tỷ lệ tội phạm</b> cũng vậy."
+   }
+  },
+  {
+   "word": "at night",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ət ˈnaɪt/",
+   "def_en": "In the period when it is dark.",
+   "def_vi": "Lúc trời tối.",
+   "gloss_vi": "vào ban đêm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "in the day <i>(phr. ban ngày)</i>",
+   "grammar_vi": "<i>At night</i> (phrase) = vào ban đêm. <b>Grammar</b>: <i>at night</i> (không <i>in the night</i> với nghĩa chung).",
+   "example": {
+    "en": "I only walk home <b>at night</b> if I’m with a friend.",
+    "vi": "Tôi chỉ đi bộ về nhà <b>ban đêm</b> nếu đi cùng bạn."
+   }
+  },
+  {
+   "word": "you get",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/juː ˈɡet/",
+   "def_en": "You find; there exists.",
+   "def_vi": "Bạn thấy có; có tồn tại.",
+   "gloss_vi": "có (người, vật)",
+   "synonyms": "there is <i>(phr. có)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>You get</i> (phrase) = có (người, vật). <b>Grammar</b>: <i>you get</i> + danh từ (văn nói, = <i>there is/are</i>).",
+   "example": {
+    "en": "On the positive side, <b>you get</b> a real mix of people and nationalities in a big city.",
+    "vi": "Ở thành phố lớn <b>có</b> sự pha trộn thật sự của nhiều người và quốc tịch."
+   }
+  },
+  {
+   "word": "mix",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/mɪks/",
+   "def_en": "Different types of people or things together.",
+   "def_vi": "Nhiều loại người hay vật khác nhau cùng nhau.",
+   "gloss_vi": "sự pha trộn",
+   "synonyms": "mixture <i>(n. hỗn hợp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mix</i> (noun) = sự pha trộn. <b>Grammar</b>: <i>a mix of</i> + danh từ.",
+   "example": {
+    "en": "You get a real <b>mix</b> of people and nationalities in a big city.",
+    "vi": "Ở thành phố lớn có sự <b>pha trộn</b> thật sự của nhiều người và quốc tịch."
+   }
+  },
+  {
+   "word": "going on",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˈɡəʊɪŋ ɒn/",
+   "def_en": "Happening.",
+   "def_vi": "Đang diễn ra.",
+   "gloss_vi": "diễn ra",
+   "synonyms": "happening <i>(v. xảy ra)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Going on</i> (phrasal verb) = diễn ra. <b>Grammar</b>: <i>What’s going on?</i>.",
+   "example": {
+    "en": "There’s always something <b>going on</b> in a big city.",
+    "vi": "Ở thành phố lớn luôn có gì đó <b>diễn ra</b>."
+   }
+  },
+  {
+   "word": "dull",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dʌl/",
+   "def_en": "Boring.",
+   "def_vi": "Chán.",
+   "gloss_vi": "buồn tẻ",
+   "synonyms": "boring <i>(adj. chán)</i>",
+   "antonyms": "exciting <i>(adj. thú vị)</i>",
+   "grammar_vi": "<i>Dull</i> (adjective) = buồn tẻ. <b>Grammar</b>: <i>a dull film/life</i>.",
+   "example": {
+    "en": "So life is never <b>dull</b>.",
+    "vi": "Vì thế cuộc sống không bao giờ <b>buồn tẻ</b>."
+   }
+  }
+ ]
+}

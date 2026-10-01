@@ -1,0 +1,440 @@
+{
+ "book": "pre",
+ "unit": 25,
+ "title_vi": "Nấu ăn",
+ "theory_html": "<p><b>A. Ways of cooking food</b><br><i>A. Các cách nấu</i></p> <p><b>boil</b> potatoes in a <b>saucepan</b>; <b>fry</b> sausages in a <b>frying pan</b>; <b>grill</b> toast under a <b>grill</b>; <b>roast</b> meat (with oil) and <b>bake</b> cakes (without oil) in the oven; <b>barbecue</b> meat on a <b>barbecue</b>; food not cooked is <b>raw</b>.</p><p><i><b>luộc/nồi, rán/chảo, nướng vỉ, quay, nướng bánh, nướng ngoài trời, sống</b>.</i></p> <p><b>B. Preparing and cooking food</b><br><i>B. Sơ chế và nấu</i></p> <p><b>Peel</b> the potatoes, <b>chop</b> an onion, fry it before <b>adding</b> tomatoes, then <b>stir</b> it all.</p><p><i><b>gọt vỏ, thái, thêm vào, khuấy</b>.</i></p> <p><b>C. What does it taste like?</b><br><i>C. Vị thế nào?</i></p> <p><b>Chefs</b> always <b>taste</b> the food; the <b>taste</b> of garlic; it <b>tasted</b> strange; <b>tasty</b>; <b>spicy</b>; <b>flavours</b>; <b>horrible</b> vs <b>delicious</b>. <b>sour</b> (lemons, opp <b>sweet</b>); <b>bitter</b> (strong coffee, opp <b>smooth</b>).</p><p><i><b>đầu bếp, nếm, vị, ngon, cay, hương vị, kinh khủng, ngon tuyệt, chua, đắng</b>.</i></p> <p><b>D. Are you a good cook?</b><br><i>D. Bạn nấu ăn giỏi không?</i></p> <p>Follow a <b>recipe</b>, have all the right <b>ingredients</b>; <b>pies</b> (<b>apple pie</b>). A good <b>cook</b> (NOT <b>cooker</b>); <b>good at cooking</b>; <b>cook</b> food but <b>make</b> a dish.</p><p><i><b>công thức, nguyên liệu, bánh nướng nhân; đầu bếp ≠ bếp nấu</b>.</i></p>",
+ "items": [
+  {
+   "word": "boil",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/bɔɪl/",
+   "def_en": "To cook in very hot water.",
+   "def_vi": "Nấu trong nước rất nóng.",
+   "gloss_vi": "luộc, đun sôi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Boil</i> (verb) = luộc, đun sôi. <b>Grammar</b>: <i>boil an egg / water</i>. <b>Word family</b>: <i>boiling</i> (adj.).",
+   "example": {
+    "en": "You <b>boil</b> potatoes or rice in a saucepan.",
+    "vi": "Bạn <b>luộc</b> khoai tây hay nấu cơm trong nồi."
+   }
+  },
+  {
+   "word": "saucepan",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɔːspən/",
+   "def_en": "A deep metal pot with a handle, used for cooking.",
+   "def_vi": "Nồi kim loại sâu có tay cầm để nấu.",
+   "gloss_vi": "cái nồi",
+   "synonyms": "pan <i>(n. nồi, chảo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Saucepan</i> (noun) = cái nồi. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "You boil potatoes or rice in a <b>saucepan</b>.",
+    "vi": "Bạn luộc khoai tây hay nấu cơm trong <b>nồi</b>."
+   }
+  },
+  {
+   "word": "fry",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/fraɪ/",
+   "def_en": "To cook in hot oil.",
+   "def_vi": "Nấu trong dầu nóng.",
+   "gloss_vi": "rán, chiên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fry</i> (verb) = rán, chiên. <b>Grammar</b>: <i>fry – fried</i>. <b>Collocations / chunks</b>: <i>fried eggs</i>.",
+   "example": {
+    "en": "You can <b>fry</b> sausages in a frying pan.",
+    "vi": "Bạn có thể <b>rán</b> xúc xích trong chảo."
+   }
+  },
+  {
+   "word": "frying pan",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈfraɪɪŋ pæn/",
+   "def_en": "A flat pan used for frying.",
+   "def_vi": "Chảo phẳng để rán.",
+   "gloss_vi": "cái chảo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Frying pan</i> (noun phrase) = cái chảo. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "You can fry sausages in a <b>frying pan</b>.",
+    "vi": "Bạn có thể rán xúc xích trong <b>chảo</b>."
+   }
+  },
+  {
+   "word": "grill",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɡrɪl/",
+   "def_en": "To cook under or over strong heat.",
+   "def_vi": "Nấu dưới hay trên nhiệt mạnh.",
+   "gloss_vi": "nướng (vỉ)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Grill</i> (verb) = nướng (vỉ). <b>Grammar</b>: cũng là danh từ <i>a grill</i>.",
+   "example": {
+    "en": "You <b>grill</b> toast or meat under a grill.",
+    "vi": "Bạn <b>nướng</b> bánh mì hay thịt dưới vỉ nướng."
+   }
+  },
+  {
+   "word": "roast",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rəʊst/",
+   "def_en": "To cook meat in the oven using oil.",
+   "def_vi": "Nấu thịt trong lò với dầu.",
+   "gloss_vi": "quay, nướng (thịt)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Roast</i> (verb) = quay, nướng (thịt). <b>Grammar</b>: <i>roast beef/chicken</i> (tính từ).",
+   "example": {
+    "en": "You <b>roast</b> meat in the oven.",
+    "vi": "Bạn <b>quay</b> thịt trong lò."
+   }
+  },
+  {
+   "word": "bake",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/beɪk/",
+   "def_en": "To cook cakes or bread in an oven without oil.",
+   "def_vi": "Nướng bánh trong lò không dùng dầu.",
+   "gloss_vi": "nướng (bánh)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bake</i> (verb) = nướng (bánh). <b>Grammar</b>: <i>bake a cake</i>. <b>Word family</b>: <i>baker, bakery</i>.",
+   "example": {
+    "en": "You also <b>bake</b> cakes in the oven.",
+    "vi": "Bạn cũng <b>nướng</b> bánh trong lò."
+   }
+  },
+  {
+   "word": "barbecue",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈbɑːbɪkjuː/",
+   "def_en": "To cook meat or fish outside over a fire.",
+   "def_vi": "Nướng thịt cá ngoài trời trên lửa.",
+   "gloss_vi": "nướng ngoài trời",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Barbecue</i> (verb) = nướng ngoài trời. <b>Grammar</b>: cũng là danh từ (bữa tiệc / lò nướng); viết tắt <i>BBQ</i>.",
+   "example": {
+    "en": "You <b>barbecue</b> meat and fish on a barbecue.",
+    "vi": "Bạn <b>nướng</b> thịt và cá trên lò nướng ngoài trời."
+   }
+  },
+  {
+   "word": "raw",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/rɔː/",
+   "def_en": "Not cooked.",
+   "def_vi": "Chưa nấu chín.",
+   "gloss_vi": "sống",
+   "synonyms": "uncooked <i>(adj. chưa nấu)</i>",
+   "antonyms": "cooked <i>(adj. chín)</i>",
+   "grammar_vi": "<i>Raw</i> (adjective) = sống. <b>Grammar</b>: <i>raw fish/meat</i>.",
+   "example": {
+    "en": "Food which is not cooked is <b>raw</b>.",
+    "vi": "Thức ăn không nấu được gọi là <b>sống</b>."
+   }
+  },
+  {
+   "word": "peel",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/piːl/",
+   "def_en": "To remove the skin of fruit or vegetables.",
+   "def_vi": "Gọt vỏ trái cây hay rau củ.",
+   "gloss_vi": "gọt vỏ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Peel</i> (verb) = gọt vỏ. <b>Grammar</b>: cũng là danh từ: <i>orange peel</i>.",
+   "example": {
+    "en": "<b>Peel</b> the potatoes and boil them.",
+    "vi": "<b>Gọt vỏ</b> khoai tây rồi luộc."
+   }
+  },
+  {
+   "word": "chop",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/tʃɒp/",
+   "def_en": "To cut into small pieces.",
+   "def_vi": "Cắt thành miếng nhỏ.",
+   "gloss_vi": "thái, băm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chop</i> (verb) = thái, băm. <b>Grammar</b>: <i>chop – chopped</i>; <i>chopped tomatoes</i>.",
+   "example": {
+    "en": "While they’re boiling, <b>chop</b> an onion.",
+    "vi": "Trong lúc khoai đang luộc, hãy <b>thái</b> một củ hành."
+   }
+  },
+  {
+   "word": "add",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/æd/",
+   "def_en": "To put something together with something else.",
+   "def_vi": "Cho thứ gì vào cùng thứ khác.",
+   "gloss_vi": "thêm vào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Add</i> (verb) = thêm vào. <b>Grammar</b>: <i>add A to B</i>.",
+   "example": {
+    "en": "Fry the onion before <b>adding</b> some chopped tomatoes.",
+    "vi": "Rán hành trước khi <b>thêm</b> cà chua thái nhỏ."
+   }
+  },
+  {
+   "word": "stir",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/stɜː(r)/",
+   "def_en": "To move food around in a saucepan using a spoon.",
+   "def_vi": "Đảo thức ăn trong nồi bằng thìa.",
+   "gloss_vi": "khuấy, đảo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stir</i> (verb) = khuấy, đảo. <b>Grammar</b>: <i>stir – stirred</i>.",
+   "example": {
+    "en": "Then <b>stir</b> it all for a few minutes.",
+    "vi": "Rồi <b>khuấy</b> đều trong vài phút."
+   }
+  },
+  {
+   "word": "chef",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ʃef/",
+   "def_en": "A person who cooks food in a restaurant as a job.",
+   "def_vi": "Người nấu ăn ở nhà hàng như một nghề.",
+   "gloss_vi": "đầu bếp",
+   "synonyms": "cook <i>(n. người nấu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chef</i> (noun) = đầu bếp. <b>Grammar</b>: <i>head chef</i>. <b>Common mistakes</b>: /ʃef/.",
+   "example": {
+    "en": "<b>Chefs</b> always taste the food while they are cooking.",
+    "vi": "<b>Đầu bếp</b> luôn nếm thức ăn khi nấu."
+   }
+  },
+  {
+   "word": "taste",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/teɪst/",
+   "def_en": "To put a small amount of food in your mouth to see what it is like.",
+   "def_vi": "Cho một ít thức ăn vào miệng xem thế nào.",
+   "gloss_vi": "nếm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Taste</i> (verb) = nếm. <b>Grammar</b>: <i>taste</i> + tính từ: <i>it tasted strange</i>.",
+   "example": {
+    "en": "Chefs always <b>taste</b> the food while they are cooking.",
+    "vi": "Đầu bếp luôn <b>nếm</b> thức ăn khi nấu."
+   }
+  },
+  {
+   "word": "taste",
+   "sense": "noun",
+   "pos": "noun",
+   "ipa": "/teɪst/",
+   "def_en": "The flavour of food or drink.",
+   "def_vi": "Vị của đồ ăn uống.",
+   "gloss_vi": "vị",
+   "synonyms": "flavour <i>(n. hương vị)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Taste</i> (noun) = vị. <b>Grammar</b>: <i>the taste of sth</i>. <b>Word family</b>: <i>tasty</i> (adj.).",
+   "example": {
+    "en": "I don’t like the <b>taste</b> of too much garlic.",
+    "vi": "Tôi không thích <b>vị</b> của quá nhiều tỏi."
+   }
+  },
+  {
+   "word": "tasty",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈteɪsti/",
+   "def_en": "Having a good taste.",
+   "def_vi": "Có vị ngon.",
+   "gloss_vi": "ngon",
+   "synonyms": "delicious <i>(adj. ngon tuyệt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tasty</i> (adjective) = ngon. <b>Grammar</b>: <i>taste</i> + <i>-y</i>.",
+   "example": {
+    "en": "Michel’s food is very <b>tasty</b>.",
+    "vi": "Đồ ăn của Michel rất <b>ngon</b>."
+   }
+  },
+  {
+   "word": "spicy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈspaɪsi/",
+   "def_en": "With a strong hot flavour.",
+   "def_vi": "Có vị cay mạnh.",
+   "gloss_vi": "cay",
+   "synonyms": "hot <i>(adj. cay)</i>",
+   "antonyms": "mild <i>(adj. dịu)</i>",
+   "grammar_vi": "<i>Spicy</i> (adjective) = cay. <b>Grammar</b>: <i>spice</i> (n.) + <i>-y</i>.",
+   "example": {
+    "en": "Indian food is a bit too <b>spicy</b> for me.",
+    "vi": "Đồ ăn Ấn hơi quá <b>cay</b> với tôi."
+   }
+  },
+  {
+   "word": "flavour",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfleɪvə(r)/",
+   "def_en": "The type of taste that food or drink has.",
+   "def_vi": "Kiểu vị của đồ ăn uống.",
+   "gloss_vi": "hương vị",
+   "synonyms": "taste <i>(n. vị)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flavour</i> (noun) = hương vị. <b>Grammar</b>: Mỹ <i>flavor</i>.",
+   "example": {
+    "en": "You get ice cream in different <b>flavours</b>.",
+    "vi": "Kem có nhiều <b>hương vị</b> khác nhau."
+   }
+  },
+  {
+   "word": "horrible",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈhɒrəbl/",
+   "def_en": "Terrible, unpleasant.",
+   "def_vi": "Kinh khủng, khó chịu.",
+   "gloss_vi": "kinh khủng, dở tệ",
+   "synonyms": "terrible <i>(adj. tệ)</i>",
+   "antonyms": "delicious <i>(adj. ngon tuyệt)</i>",
+   "grammar_vi": "<i>Horrible</i> (adjective) = kinh khủng, dở tệ. <b>Grammar</b>: không dùng <i>very horrible</i>.",
+   "example": {
+    "en": "Lena said her pasta was <b>horrible</b>, but I thought it was delicious.",
+    "vi": "Lena nói món mì của cô ấy <b>dở tệ</b>, nhưng tôi thấy nó ngon tuyệt."
+   }
+  },
+  {
+   "word": "delicious",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dɪˈlɪʃəs/",
+   "def_en": "Fantastic, with a wonderful taste.",
+   "def_vi": "Tuyệt vời, vị rất ngon.",
+   "gloss_vi": "ngon tuyệt",
+   "synonyms": "tasty <i>(adj. ngon)</i>",
+   "antonyms": "horrible <i>(adj. dở tệ)</i>",
+   "grammar_vi": "<i>Delicious</i> (adjective) = ngon tuyệt. <b>Grammar</b>: không dùng <i>very delicious</i> (dùng <i>absolutely</i>).",
+   "example": {
+    "en": "Lena said her pasta was horrible, but I thought it was <b>delicious</b>.",
+    "vi": "Lena nói món mì dở tệ, nhưng tôi thấy nó <b>ngon tuyệt</b>."
+   }
+  },
+  {
+   "word": "sour",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsaʊə(r)/",
+   "def_en": "Having a sharp taste like lemons.",
+   "def_vi": "Có vị gắt như chanh.",
+   "gloss_vi": "chua",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "sweet <i>(adj. ngọt)</i>",
+   "grammar_vi": "<i>Sour</i> (adjective) = chua. <b>Grammar</b>: <i>sour milk</i> = sữa bị chua.",
+   "example": {
+    "en": "We use the word <b>sour</b> to describe the taste of lemons.",
+    "vi": "Chúng ta dùng từ <b>chua</b> để tả vị chanh."
+   }
+  },
+  {
+   "word": "bitter",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈbɪtə(r)/",
+   "def_en": "Having a strong sharp unpleasant taste, like strong coffee.",
+   "def_vi": "Có vị gắt khó chịu như cà phê đặc.",
+   "gloss_vi": "đắng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "smooth <i>(adj. dịu)</i>",
+   "grammar_vi": "<i>Bitter</i> (adjective) = đắng. <b>Grammar</b>: sô-cô-la đen đắng không nhất thiết tiêu cực.",
+   "example": {
+    "en": "We usually use <b>bitter</b> to describe coffee that is strong and has a sharp unpleasant taste.",
+    "vi": "Cà phê đặc có vị gắt thường được tả là <b>đắng</b>."
+   }
+  },
+  {
+   "word": "recipe",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈresəpi/",
+   "def_en": "The cooking instructions for a particular dish.",
+   "def_vi": "Hướng dẫn nấu một món.",
+   "gloss_vi": "công thức nấu ăn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Recipe</i> (noun) = công thức nấu ăn. <b>Grammar</b>: <i>a recipe for sth</i>. <b>Common mistakes</b>: /ˈresəpi/ (3 âm tiết).",
+   "example": {
+    "en": "I always follow a <b>recipe</b>.",
+    "vi": "Tôi luôn làm theo <b>công thức</b>."
+   }
+  },
+  {
+   "word": "ingredient",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˈɡriːdiənt/",
+   "def_en": "One of the foods you need to make a particular meal.",
+   "def_vi": "Một trong các thực phẩm cần để làm món ăn.",
+   "gloss_vi": "nguyên liệu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ingredient</i> (noun) = nguyên liệu. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "I make sure I have all the right <b>ingredients</b> before I start.",
+    "vi": "Tôi đảm bảo có đủ <b>nguyên liệu</b> cần thiết trước khi bắt đầu."
+   }
+  },
+  {
+   "word": "pie",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/paɪ/",
+   "def_en": "Meat or fruit cooked in pastry.",
+   "def_vi": "Thịt hay trái cây nướng trong vỏ bột.",
+   "gloss_vi": "bánh nướng nhân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pie</i> (noun) = bánh nướng nhân. <b>Grammar</b>: <i>apple/meat pie</i>. <b>Common mistakes</b>: /paɪ/ như <i>my</i>.",
+   "example": {
+    "en": "I am quite good at making <b>pies</b>, especially apple pie.",
+    "vi": "Tôi khá giỏi làm <b>bánh nướng nhân</b>, nhất là bánh táo."
+   }
+  },
+  {
+   "word": "cook",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kʊk/",
+   "def_en": "A person who cooks.",
+   "def_vi": "Người nấu ăn.",
+   "gloss_vi": "người nấu ăn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cook</i> (noun) = người nấu ăn. <b>Grammar</b>: <i>a good cook</i> (không <i>a good cooker</i>; <i>cooker</i> = cái bếp).",
+   "example": {
+    "en": "A person who cooks well is a good <b>cook</b>.",
+    "vi": "Người nấu ăn giỏi là một <b>đầu bếp</b> giỏi."
+   }
+  }
+ ]
+}
