@@ -1,0 +1,216 @@
+{
+ "book": "ele",
+ "unit": 50,
+ "title_vi": "Liên từ và từ nối",
+ "theory_html": "<p><b>A. Basic conjunctions</b><br><i>A. Liên từ cơ bản</i></p> <p>Conjunctions join two parts of a sentence: <b>and</b> (extra information), <b>but</b> (contrast), <b>or</b> (a different possibility), <b>because</b> (why), <b>so</b> (a result), <b>when</b> (when it happened), <b>before</b>, <b>after</b>, <b>if</b> (a condition).</p><p><i>Liên từ nối hai vế câu: <b>và, nhưng, hoặc, vì, nên, khi, trước khi, sau khi, nếu</b>.</i></p> <p><b>B. Other connecting words</b><br><i>B. Từ nối khác</i></p> <p><b>only</b> (not very much), <b>like</b> (a comparison), <b>than</b> (after a comparative), <b>also / too / as well</b> (something extra). Tip: write a translation of these small but important words.</p><p><i><b>chỉ, giống như, hơn, cũng</b>. Mẹo: ghi nghĩa tiếng mẹ đẻ của các từ nhỏ này.</i></p>",
+ "items": [
+  {
+   "word": "and",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/ænd/",
+   "def_en": "Used to join two parts of a sentence and give extra information.",
+   "def_vi": "Nối hai vế câu, bổ sung thông tin.",
+   "gloss_vi": "và",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>And</i> (conjunction) = và. <b>Grammar</b>: nối hai mệnh đề cùng ý. <b>Collocations / chunks</b>: <i>and then</i> (rồi sau đó).",
+   "example": {
+    "en": "Kate is a student <b>and</b> she works part-time.",
+    "vi": "Kate là sinh viên <b>và</b> cô ấy làm bán thời gian."
+   }
+  },
+  {
+   "word": "but",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/bʌt/",
+   "def_en": "Used when the second part contrasts with the first.",
+   "def_vi": "Dùng khi vế sau tương phản vế trước.",
+   "gloss_vi": "nhưng",
+   "synonyms": "however <i>(adv. tuy nhiên)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>But</i> (conjunction) = nhưng. <b>Grammar</b>: nối hai ý trái ngược.",
+   "example": {
+    "en": "They are rich <b>but</b> they aren’t happy.",
+    "vi": "Họ giàu <b>nhưng</b> không hạnh phúc."
+   }
+  },
+  {
+   "word": "or",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/ɔː(r)/",
+   "def_en": "Used to give a different possibility.",
+   "def_vi": "Dùng đưa ra khả năng khác.",
+   "gloss_vi": "hoặc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Or</i> (conjunction) = hoặc. <b>Grammar</b>: dùng trong câu hỏi lựa chọn: <i>tea or coffee?</i>.",
+   "example": {
+    "en": "You can pay by credit card <b>or</b> cash.",
+    "vi": "Bạn có thể trả bằng thẻ tín dụng <b>hoặc</b> tiền mặt."
+   }
+  },
+  {
+   "word": "because",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/bɪˈkɒz/",
+   "def_en": "Used to explain why something happened.",
+   "def_vi": "Dùng giải thích lý do.",
+   "gloss_vi": "vì, bởi vì",
+   "synonyms": "as <i>(conj. vì)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Because</i> (conjunction) = vì, bởi vì. <b>Grammar</b>: <i>because</i> + mệnh đề; <i>because of</i> + danh từ.",
+   "example": {
+    "en": "We went home early <b>because</b> we were tired.",
+    "vi": "Chúng tôi về sớm <b>vì</b> chúng tôi mệt."
+   }
+  },
+  {
+   "word": "so",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/səʊ/",
+   "def_en": "Used to give the result of something.",
+   "def_vi": "Dùng nêu kết quả.",
+   "gloss_vi": "nên, vì vậy",
+   "synonyms": "therefore <i>(adv. do đó)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>So</i> (conjunction) = nên, vì vậy. <b>Grammar</b>: <i>so</i> đứng đầu vế kết quả.",
+   "example": {
+    "en": "I felt ill <b>so</b> I didn’t go to work.",
+    "vi": "Tôi thấy ốm <b>nên</b> không đi làm."
+   }
+  },
+  {
+   "word": "when",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/wen/",
+   "def_en": "Used to say when something happened.",
+   "def_vi": "Dùng nói thời điểm việc xảy ra.",
+   "gloss_vi": "khi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>When</i> (conjunction) = khi. <b>Grammar</b>: <i>when</i> + mệnh đề thời gian.",
+   "example": {
+    "en": "I went to the party <b>when</b> the babysitter arrived.",
+    "vi": "Tôi đi dự tiệc <b>khi</b> người trông trẻ đến."
+   }
+  },
+  {
+   "word": "before",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/bɪˈfɔː(r)/",
+   "def_en": "Earlier than something else.",
+   "def_vi": "Trước việc khác.",
+   "gloss_vi": "trước khi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "after <i>(conj. sau khi)</i>",
+   "grammar_vi": "<i>Before</i> (conjunction) = trước khi. <b>Grammar</b>: <i>before</i> + mệnh đề / V-ing.",
+   "example": {
+    "en": "We left <b>before</b> it started to rain.",
+    "vi": "Chúng tôi rời đi <b>trước khi</b> trời bắt đầu mưa."
+   }
+  },
+  {
+   "word": "after",
+   "sense": "time",
+   "pos": "conjunction",
+   "ipa": "/ˈɑːftə(r)/",
+   "def_en": "Later than something else.",
+   "def_vi": "Sau việc khác.",
+   "gloss_vi": "sau khi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "before <i>(conj. trước khi)</i>",
+   "grammar_vi": "<i>After</i> (conjunction) = sau khi. <b>Grammar</b>: <i>after</i> + mệnh đề (thường thì hoàn thành).",
+   "example": {
+    "en": "We went for a meal <b>after</b> we had seen the film.",
+    "vi": "Chúng tôi đi ăn <b>sau khi</b> xem phim."
+   }
+  },
+  {
+   "word": "if",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/ɪf/",
+   "def_en": "Used to say that one thing happens only when another thing happens.",
+   "def_vi": "Dùng nói việc này chỉ xảy ra khi việc kia xảy ra.",
+   "gloss_vi": "nếu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>If</i> (conjunction) = nếu. <b>Grammar</b>: <i>if</i> + hiện tại đơn cho điều kiện có thể xảy ra.",
+   "example": {
+    "en": "You can have some ice cream <b>if</b> you eat your dinner.",
+    "vi": "Con được ăn kem <b>nếu</b> con ăn hết bữa tối."
+   }
+  },
+  {
+   "word": "only",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈəʊnli/",
+   "def_en": "Not more than; just.",
+   "def_vi": "Không hơn; chỉ.",
+   "gloss_vi": "chỉ",
+   "synonyms": "just <i>(adv. chỉ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Only</i> (adverb) = chỉ. <b>Grammar</b>: đứng trước động từ hoặc từ được nhấn mạnh.",
+   "example": {
+    "en": "He <b>only</b> sleeps for three hours every night.",
+    "vi": "Anh ấy <b>chỉ</b> ngủ ba tiếng mỗi đêm."
+   }
+  },
+  {
+   "word": "like",
+   "sense": "similar",
+   "pos": "preposition",
+   "ipa": "/laɪk/",
+   "def_en": "Similar to.",
+   "def_vi": "Giống như.",
+   "gloss_vi": "giống như",
+   "synonyms": "similar to <i>(ap. tương tự)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Like</i> (preposition) = giống như. <b>Grammar</b>: <i>look like</i> + danh từ. <b>Common mistakes</b>: khác động từ <i>like</i> (thích).",
+   "example": {
+    "en": "She looks <b>like</b> her father.",
+    "vi": "Cô ấy trông <b>giống</b> bố."
+   }
+  },
+  {
+   "word": "than",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/ðən/",
+   "def_en": "Used after a comparative adjective or adverb.",
+   "def_vi": "Dùng sau tính từ/trạng từ so sánh hơn.",
+   "gloss_vi": "hơn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Than</i> (conjunction) = hơn. <b>Grammar</b>: so sánh hơn + <i>than</i>: <i>bigger than, more expensive than</i>.",
+   "example": {
+    "en": "She works harder <b>than</b> he does.",
+    "vi": "Cô ấy làm việc chăm <b>hơn</b> anh ấy."
+   }
+  },
+  {
+   "word": "also",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈɔːlsəʊ/",
+   "def_en": "In addition; as well.",
+   "def_vi": "Thêm vào đó; cũng.",
+   "gloss_vi": "cũng",
+   "synonyms": "too <i>(adv. cũng)</i>, as well <i>(adv. cũng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Also</i> (adverb) = cũng. <b>Grammar</b>: <i>also</i> thường đứng trước động từ; <i>too / as well</i> đứng cuối câu.",
+   "example": {
+    "en": "He works in the shop and she does <b>also</b> / too / as well.",
+    "vi": "Anh ấy làm ở cửa hàng và cô ấy <b>cũng</b> vậy."
+   }
+  }
+ ]
+}

@@ -1,0 +1,238 @@
+{
+ "book": "ele",
+ "unit": 49,
+ "title_vi": "Di chuyển",
+ "theory_html": "<p><b>A. Without transport</b><br><i>A. Không dùng phương tiện</i></p> <p><b>swim, walk, run, jump, dance, climb, fall</b>; past: <b>walked, ran, jumped, danced, swam, climbed, fell</b>.</p><p><i><b>bơi, đi bộ, chạy, nhảy, khiêu vũ, leo, ngã</b>.</i></p> <p><b>B. Transport</b><br><i>B. Phương tiện</i></p> <p><b>go by</b> car / train / bus (not <b>by a car</b>); <b>take</b> a bus / a taxi / the underground; <b>ride</b> a bicycle / motorbike / horse; <b>drive</b> a car / bus / train; a pilot <b>flies</b> a plane (<b>We flew there</b>). You <b>arrive at / in</b> a place (not <b>arrive to</b>).</p><p><i><b>đi bằng; đi (xe buýt, taxi); đạp, cưỡi; lái; bay</b>. <b>arrive at / in</b>, không <b>arrive to</b>.</i></p> <p><b>C. Expressions</b><br><i>C. Cách nói</i></p> <p><b>If we don’t leave now we won’t catch our train. I’ve just missed the train. Can I help you carry your luggage? Please pass the salt.</b> Tip: note English signs when you travel.</p><p><i><b>Không đi bây giờ là lỡ tàu. Tôi vừa nhỡ tàu. Tôi xách hành lý giúp nhé? Đưa giúp lọ muối.</b></i></p>",
+ "items": [
+  {
+   "word": "walk",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/wɔːk/",
+   "def_en": "To move along on foot.",
+   "def_vi": "Đi bằng chân.",
+   "gloss_vi": "đi bộ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Walk</i> (verb) = đi bộ. <b>Grammar</b>: quá khứ <i>walked</i>; chữ <i>l</i> câm /wɔːk/.",
+   "ex_kit": true,
+   "example": {
+    "en": "I <b>walk</b> to school every day.",
+    "vi": "Tôi <b>đi bộ</b> đến trường mỗi ngày."
+   }
+  },
+  {
+   "word": "run",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rʌn/",
+   "def_en": "To move very quickly on foot.",
+   "def_vi": "Di chuyển rất nhanh bằng chân.",
+   "gloss_vi": "chạy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "walk <i>(v. đi bộ)</i>",
+   "grammar_vi": "<i>Run</i> (verb) = chạy. <b>Grammar</b>: <i>run / ran / run</i>; V-ing <i>running</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He <b>ran</b> to catch the bus.",
+    "vi": "Anh ấy <b>chạy</b> để bắt kịp xe buýt."
+   }
+  },
+  {
+   "word": "jump",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dʒʌmp/",
+   "def_en": "To push yourself into the air with your legs.",
+   "def_vi": "Bật người lên không bằng chân.",
+   "gloss_vi": "nhảy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Jump</i> (verb) = nhảy. <b>Grammar</b>: quá khứ <i>jumped</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The dog <b>jumped</b> over the wall.",
+    "vi": "Con chó <b>nhảy</b> qua tường."
+   }
+  },
+  {
+   "word": "dance",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɑːns/",
+   "def_en": "To move your body to music.",
+   "def_vi": "Chuyển động cơ thể theo nhạc.",
+   "gloss_vi": "khiêu vũ, nhảy múa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dance</i> (verb) = khiêu vũ, nhảy múa. <b>Grammar</b>: quá khứ <i>danced</i>; Anh–Anh /dɑːns/.",
+   "ex_kit": true,
+   "example": {
+    "en": "We <b>danced</b> all night.",
+    "vi": "Chúng tôi <b>nhảy</b> cả đêm."
+   }
+  },
+  {
+   "word": "climb",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/klaɪm/",
+   "def_en": "To go up something using your hands and feet.",
+   "def_vi": "Leo lên bằng tay và chân.",
+   "gloss_vi": "leo, trèo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Climb</i> (verb) = leo, trèo. <b>Grammar</b>: chữ <i>b</i> câm /klaɪm/.",
+   "ex_kit": true,
+   "example": {
+    "en": "The children <b>climbed</b> the tree.",
+    "vi": "Bọn trẻ <b>trèo</b> cây."
+   }
+  },
+  {
+   "word": "fall",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/fɔːl/",
+   "def_en": "To go down to the ground suddenly.",
+   "def_vi": "Đột ngột rơi xuống đất.",
+   "gloss_vi": "ngã, rơi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fall</i> (verb) = ngã, rơi. <b>Grammar</b>: <i>fall / fell / fallen</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "My grandmother <b>fell</b> on the stairs.",
+    "vi": "Bà tôi <b>ngã</b> trên cầu thang."
+   }
+  },
+  {
+   "word": "ride",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/raɪd/",
+   "def_en": "To sit on a bicycle, motorbike or horse and control it.",
+   "def_vi": "Ngồi trên xe đạp, xe máy, ngựa và điều khiển.",
+   "gloss_vi": "đạp (xe), cưỡi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ride</i> (verb) = đạp (xe), cưỡi. <b>Grammar</b>: <i>ride / rode / ridden</i>; <i>ride a bike / horse</i>.",
+   "example": {
+    "en": "I always <b>rode</b> my bike to school.",
+    "vi": "Tôi luôn <b>đạp xe</b> đến trường."
+   }
+  },
+  {
+   "word": "drive",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/draɪv/",
+   "def_en": "To control a car, bus or train.",
+   "def_vi": "Điều khiển ô tô, xe buýt, tàu.",
+   "gloss_vi": "lái",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Drive</i> (verb) = lái. <b>Grammar</b>: <i>drive / drove / driven</i>; <i>drive a car</i>.",
+   "example": {
+    "en": "My uncle <b>drove</b> a bus for ten years.",
+    "vi": "Chú tôi <b>lái</b> xe buýt suốt mười năm."
+   }
+  },
+  {
+   "word": "fly",
+   "sense": "pilot",
+   "pos": "verb",
+   "ipa": "/flaɪ/",
+   "def_en": "To travel by plane, or to control a plane.",
+   "def_vi": "Đi máy bay, hoặc lái máy bay.",
+   "gloss_vi": "bay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fly</i> (verb) = bay. <b>Grammar</b>: <i>fly / flew / flown</i>. <b>Collocations / chunks</b>: <i>We flew there.</i> (chúng tôi bay đến đó).",
+   "example": {
+    "en": "The pilot <b>flies</b> a plane.",
+    "vi": "Phi công <b>lái</b> máy bay."
+   }
+  },
+  {
+   "word": "arrive in",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/əˈraɪv ɪn/",
+   "def_en": "To reach a town or country.",
+   "def_vi": "Đến một thành phố hay đất nước.",
+   "gloss_vi": "đến (thành phố, nước)",
+   "synonyms": "reach <i>(v. đến)</i>",
+   "antonyms": "leave <i>(v. rời)</i>",
+   "grammar_vi": "<i>Arrive in</i> (verb phrase) = đến (thành phố, nước). <b>Grammar</b>: <i>arrive in</i> + thành phố/nước, <i>arrive at</i> + nơi nhỏ. <b>Common mistakes</b>: không nói <i>arrive to</i>.",
+   "example": {
+    "en": "The train <b>arrived in</b> Tokyo on time.",
+    "vi": "Tàu <b>đến</b> Tokyo đúng giờ."
+   }
+  },
+  {
+   "word": "catch",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kætʃ/",
+   "def_en": "To get on a train, bus or plane before it leaves.",
+   "def_vi": "Kịp lên tàu, xe, máy bay trước khi nó chạy.",
+   "gloss_vi": "bắt kịp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "miss <i>(v. lỡ)</i>",
+   "grammar_vi": "<i>Catch</i> (verb) = bắt kịp. <b>Grammar</b>: <i>catch / caught / caught</i> /kɔːt/; <i>catch a train/bus</i>.",
+   "example": {
+    "en": "If we don’t leave now we won’t <b>catch</b> our train.",
+    "vi": "Nếu không đi bây giờ, chúng ta sẽ không <b>kịp</b> tàu."
+   }
+  },
+  {
+   "word": "miss",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/mɪs/",
+   "def_en": "To be too late for a train, bus or plane.",
+   "def_vi": "Đến muộn nên lỡ tàu, xe, máy bay.",
+   "gloss_vi": "lỡ, nhỡ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "catch <i>(v. bắt kịp)</i>",
+   "grammar_vi": "<i>Miss</i> (verb) = lỡ, nhỡ. <b>Grammar</b>: <i>miss the train/bus</i>. <b>Common mistakes</b>: <i>miss</i> còn nghĩa nhớ ai.",
+   "example": {
+    "en": "I’ve just <b>missed</b> the train.",
+    "vi": "Tôi vừa <b>nhỡ</b> tàu."
+   }
+  },
+  {
+   "word": "carry",
+   "sense": "luggage",
+   "pos": "verb",
+   "ipa": "/ˈkæri/",
+   "def_en": "To hold something and take it with you.",
+   "def_vi": "Cầm và mang theo.",
+   "gloss_vi": "xách, mang",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Carry</i> (verb) = xách, mang. <b>Grammar</b>: <i>help sb carry sth</i> (không cần <i>to</i>).",
+   "example": {
+    "en": "Can I help you <b>carry</b> your luggage?",
+    "vi": "Tôi <b>xách</b> hành lý giúp bạn nhé?"
+   }
+  },
+  {
+   "word": "pass",
+   "sense": "table",
+   "pos": "verb",
+   "ipa": "/pɑːs/",
+   "def_en": "To give something to someone near you.",
+   "def_vi": "Đưa vật gì cho người gần mình.",
+   "gloss_vi": "đưa, chuyền",
+   "synonyms": "hand <i>(v. đưa)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pass</i> (verb) = đưa, chuyền. <b>Grammar</b>: <i>pass sb sth</i>. <b>Common mistakes</b>: <i>pass</i> còn nghĩa thi đỗ, đi qua.",
+   "example": {
+    "en": "Please <b>pass</b> the salt.",
+    "vi": "Làm ơn <b>đưa</b> lọ muối."
+   }
+  }
+ ]
+}

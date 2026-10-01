@@ -1,0 +1,232 @@
+{
+ "book": "ele",
+ "unit": 48,
+ "title_vi": "Nói năng",
+ "theory_html": "<p><b>A. Say (said)</b><br><i>A. Say</i></p> <p>Use <b>say</b> to report someone’s words (<b>She said, ‘This is horrible!’ He said that he wanted a drink.</b>), for set phrases (<b>say hello / goodbye / please / thank you</b>) and to ask about language (<b>How do you say ‘book’ in Spanish?</b>). <b>Say</b> is not followed immediately by a person.</p><p><i><b>say</b> để thuật lời, nói các câu cố định, hỏi về ngôn ngữ; không đặt người ngay sau <b>say</b>.</i></p> <p><b>B. Tell (told)</b><br><i>B. Tell</i></p> <p><b>Tell</b> is usually followed by a person: <b>He told me his name. Tell me when… She told me how to…</b> You <b>tell someone the time / a story / a joke</b>. <b>Can you tell me where…?</b> (not <b>Can you say me</b>).</p><p><i><b>tell</b> + người: <b>kể, bảo, nói cho ai</b>.</i></p> <p><b>C. Ask</b><br><i>C. Ask</i></p> <p><b>Ask</b> is used for questions: <b>ask someone a question, ask someone the way / the time, ask somebody to do something, ask for something</b>.</p><p><i><b>ask</b> để hỏi: <b>hỏi ai, hỏi đường, nhờ ai làm gì, xin cái gì</b>.</i></p> <p><b>D. Speak / talk / answer / reply</b><br><i>D. Speak / talk / answer / reply</i></p> <p><b>talk to</b> someone (have a conversation); <b>speak</b> a language (not <b>talk Japanese</b>); <b>answer</b> the phone / the door / a question; <b>reply to</b> an email.</p><p><i><b>nói chuyện với; nói (ngôn ngữ); nghe máy, ra mở cửa, trả lời; hồi âm</b>.</i></p>",
+ "items": [
+  {
+   "word": "say",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/seɪ/",
+   "def_en": "To speak words; used to report what someone said.",
+   "def_vi": "Nói ra lời; dùng để thuật lại lời ai.",
+   "gloss_vi": "nói",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Say</i> (verb) = nói. <b>Grammar</b>: <i>say / said / said</i> /sed/; <i>say that…</i>; không đặt người ngay sau <i>say</i> (không nói <i>He said me</i>).",
+   "example": {
+    "en": "She <b>said</b>, ‘This is horrible!’",
+    "vi": "Cô ấy <b>nói</b>, ‘Thật kinh khủng!’"
+   }
+  },
+  {
+   "word": "say hello",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌseɪ həˈləʊ/",
+   "def_en": "To greet someone.",
+   "def_vi": "Chào ai.",
+   "gloss_vi": "chào",
+   "synonyms": "greet <i>(v. chào)</i>",
+   "antonyms": "say goodbye <i>(vp. chào tạm biệt)</i>",
+   "grammar_vi": "<i>Say hello</i> (verb phrase) = chào. <b>Grammar</b>: <i>say hello to sb</i>.",
+   "example": {
+    "en": "We <b>say hello</b> / goodbye and we say please / thank you.",
+    "vi": "Ta <b>chào</b>, tạm biệt và nói làm ơn, cảm ơn."
+   }
+  },
+  {
+   "word": "tell",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/tel/",
+   "def_en": "To give information to someone.",
+   "def_vi": "Cho ai biết thông tin.",
+   "gloss_vi": "nói cho, kể, bảo",
+   "synonyms": "inform <i>(v. thông báo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tell</i> (verb) = nói cho, kể, bảo. <b>Grammar</b>: <i>tell / told / told</i>; <i>tell</i> + người + thông tin. <b>Common mistakes</b>: không nói <i>He said me his name</i>.",
+   "example": {
+    "en": "He <b>told me</b> his name.",
+    "vi": "Anh ấy <b>nói cho tôi biết</b> tên mình."
+   }
+  },
+  {
+   "word": "tell a joke",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌtel ə ˈdʒəʊk/",
+   "def_en": "To say something funny to make people laugh.",
+   "def_vi": "Nói chuyện cười.",
+   "gloss_vi": "kể chuyện cười",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tell a joke</i> (verb phrase) = kể chuyện cười. <b>Grammar</b>: <i>tell sb a joke / a story / the time</i>.",
+   "example": {
+    "en": "You can tell someone the time / a story / <b>a joke</b>.",
+    "vi": "Bạn có thể nói giờ, <b>kể chuyện cười</b> hay kể câu chuyện cho ai đó."
+   }
+  },
+  {
+   "word": "Can you tell me…?",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/kən ju ˈtel mi/",
+   "def_en": "A polite way of asking for information.",
+   "def_vi": "Cách lịch sự hỏi thông tin.",
+   "gloss_vi": "bạn có thể cho tôi biết…?",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Can you tell me…?</i> (phrase) = bạn có thể cho tôi biết…?. <b>Grammar</b>: sau đó dùng trật tự câu khẳng định: <i>where the bus station is</i>. <b>Common mistakes</b>: không nói <i>Can you say me</i>.",
+   "example": {
+    "en": "<b>Can you tell me</b> where the bus station is, please?",
+    "vi": "<b>Bạn có thể cho tôi biết</b> bến xe buýt ở đâu không?"
+   }
+  },
+  {
+   "word": "ask",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɑːsk/",
+   "def_en": "To say something as a question.",
+   "def_vi": "Nói ra điều cần hỏi.",
+   "gloss_vi": "hỏi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "answer <i>(v. trả lời)</i>",
+   "grammar_vi": "<i>Ask</i> (verb) = hỏi. <b>Grammar</b>: <i>ask (sb) a question</i>, <i>ask sb where…</i>; Anh–Anh /ɑːsk/.",
+   "example": {
+    "en": "My sister <b>asked me</b> where I was going.",
+    "vi": "Chị tôi <b>hỏi tôi</b> đang đi đâu."
+   }
+  },
+  {
+   "word": "ask a question",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɑːsk ə ˈkwestʃən/",
+   "def_en": "To say something to get information from someone.",
+   "def_vi": "Hỏi để lấy thông tin.",
+   "gloss_vi": "hỏi một câu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "answer a question <i>(vp. trả lời câu hỏi)</i>",
+   "grammar_vi": "<i>Ask a question</i> (verb phrase) = hỏi một câu. <b>Grammar</b>: <i>ask sb a question</i>. <b>Common mistakes</b>: không nói <i>make a question</i>.",
+   "example": {
+    "en": "Can I <b>ask you a question</b>?",
+    "vi": "Tôi <b>hỏi bạn một câu</b> được không?"
+   }
+  },
+  {
+   "word": "ask the way",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɑːsk ðə ˈweɪ/",
+   "def_en": "To ask for directions to a place.",
+   "def_vi": "Hỏi đường.",
+   "gloss_vi": "hỏi đường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ask the way</i> (verb phrase) = hỏi đường. <b>Grammar</b>: <i>ask sb the way to</i> + nơi.",
+   "example": {
+    "en": "You can <b>ask someone the way</b> / the time.",
+    "vi": "Bạn có thể <b>hỏi đường</b> hoặc hỏi giờ ai đó."
+   }
+  },
+  {
+   "word": "ask … to do",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˈɑːsk … tə duː/",
+   "def_en": "To tell someone that you want them to do something.",
+   "def_vi": "Nhờ, yêu cầu ai làm gì.",
+   "gloss_vi": "nhờ, yêu cầu (ai làm gì)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ask … to do</i> (verb phrase) = nhờ, yêu cầu (ai làm gì). <b>Grammar</b>: <i>ask sb to do sth</i>.",
+   "example": {
+    "en": "<b>I asked him to</b> turn off his radio.",
+    "vi": "Tôi <b>nhờ anh ấy</b> tắt đài."
+   }
+  },
+  {
+   "word": "ask for",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˈɑːsk fə(r)/",
+   "def_en": "To say that you want someone to give you something.",
+   "def_vi": "Nói muốn ai đưa mình cái gì.",
+   "gloss_vi": "xin, yêu cầu",
+   "synonyms": "request <i>(v. yêu cầu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ask for</i> (verb phrase) = xin, yêu cầu. <b>Grammar</b>: <i>ask for</i> + vật. <b>Common mistakes</b>: không nói <i>ask the bill</i> với nghĩa xin.",
+   "example": {
+    "en": "She <b>asked for</b> the bill.",
+    "vi": "Cô ấy <b>xin</b> hóa đơn."
+   }
+  },
+  {
+   "word": "talk to",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˈtɔːk tə/",
+   "def_en": "To have a conversation with someone.",
+   "def_vi": "Trò chuyện với ai.",
+   "gloss_vi": "nói chuyện với",
+   "synonyms": "speak to <i>(vp. nói với)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Talk to</i> (verb phrase) = nói chuyện với. <b>Grammar</b>: <i>talk to/with sb</i>, <i>talk about sth</i>.",
+   "example": {
+    "en": "I like <b>talking to</b> you. [having a conversation with you]",
+    "vi": "Tôi thích <b>nói chuyện với</b> bạn."
+   }
+  },
+  {
+   "word": "speak",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/spiːk/",
+   "def_en": "To be able to use a language.",
+   "def_vi": "Có thể dùng một ngôn ngữ.",
+   "gloss_vi": "nói (ngôn ngữ)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Speak</i> (verb) = nói (ngôn ngữ). <b>Grammar</b>: <i>speak / spoke / spoken</i>; <i>speak</i> + ngôn ngữ. <b>Common mistakes</b>: không nói <i>talk Japanese</i>.",
+   "example": {
+    "en": "Do you <b>speak</b> Japanese?",
+    "vi": "Bạn có <b>nói</b> tiếng Nhật không?"
+   }
+  },
+  {
+   "word": "answer",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈɑːnsə(r)/",
+   "def_en": "To pick up the phone, open the door, or reply to a question.",
+   "def_vi": "Nghe máy, ra mở cửa, hoặc trả lời câu hỏi.",
+   "gloss_vi": "trả lời, nghe máy, ra mở cửa",
+   "synonyms": "reply <i>(v. đáp lại)</i>",
+   "antonyms": "ask <i>(v. hỏi)</i>",
+   "grammar_vi": "<i>Answer</i> (verb) = trả lời, nghe máy, ra mở cửa. <b>Grammar</b>: <i>answer the phone / the door / a question</i> (không dùng <i>to</i>).",
+   "example": {
+    "en": "Can you <b>answer</b> the telephone / the door, please?",
+    "vi": "Bạn <b>nghe máy</b> / ra mở cửa giúp được không?"
+   }
+  },
+  {
+   "word": "reply to",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/rɪˈplaɪ tə/",
+   "def_en": "To send an answer to an email, letter or text.",
+   "def_vi": "Gửi thư trả lời email, thư, tin nhắn.",
+   "gloss_vi": "hồi âm, trả lời",
+   "synonyms": "respond to <i>(vp. đáp lại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reply to</i> (verb phrase) = hồi âm, trả lời. <b>Grammar</b>: <i>reply to</i> + email/thư (cần <i>to</i>). <b>Word family</b>: <i>reply</i> (n.).",
+   "example": {
+    "en": "He didn’t <b>reply to</b> my email.",
+    "vi": "Anh ấy không <b>trả lời</b> email của tôi."
+   }
+  }
+ ]
+}
