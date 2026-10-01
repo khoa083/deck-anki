@@ -1,0 +1,550 @@
+{
+ "book": "pre",
+ "unit": 27,
+ "title_vi": "Cuộc sống ở nông thôn",
+ "theory_html": "<p><b>A. Surrounded by nature</b><br><i>A. Bao quanh bởi thiên nhiên</i></p> <p><b>I grew up in the countryside where I was surrounded by nature… the banks of the river, the woods… we picked apples… the seasons… the scenery, the open spaces and the fresh air.</b> Say <b>in the countryside</b> (NOT <b>in the nature</b>).</p><p><i><b>vùng nông thôn, bao quanh bởi, bờ sông, rừng, hái, mùa, phong cảnh, không gian rộng mở, không khí trong lành</b>.</i></p> <p><b>B. Working in the country</b><br><i>B. Làm việc ở nông thôn</i></p> <p><b>My uncle owns a farm… grows crops… Farming is a hard life… up at five… until sunset.</b> Labels: <b>hill, woods, tree, branches, leaves, plants, ground, grass, roots, valley, farmhouse, field, fence, tractor, gate, footpath</b>.</p><p><i><b>cây trồng, nghề nông, dậy, hoàng hôn; đồi, cành, lá, đất, cỏ, rễ, thung lũng, nhà trang trại, cánh đồng, hàng rào, máy kéo, cổng, đường mòn</b>.</i></p> <p><b>C. The disadvantages of country life</b><br><i>C. Nhược điểm của cuộc sống nông thôn</i></p> <p><b>The worst thing about living in a village is that there isn’t much to do… the nearest town is eight miles away… public transport is hopeless… you don’t get many shops.</b></p><p><i><b>điều tệ nhất, làng, không có mấy việc để làm, cách xa, giao thông công cộng, tệ hại</b>.</i></p>",
+ "items": [
+  {
+   "word": "countryside",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkʌntrisaɪd/",
+   "def_en": "Land outside towns and cities, with fields and woods.",
+   "def_vi": "Vùng đất ngoài thành phố, có đồng ruộng và rừng.",
+   "gloss_vi": "vùng nông thôn",
+   "synonyms": "the country <i>(np. nông thôn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Countryside</i> (noun) = vùng nông thôn. <b>Grammar</b>: <i>in the countryside</i> (không nói <i>in the nature</i>).",
+   "example": {
+    "en": "I grew up in the <b>countryside</b>.",
+    "vi": "Tôi lớn lên ở <b>vùng nông thôn</b>."
+   }
+  },
+  {
+   "word": "surrounded by",
+   "sense": "",
+   "pos": "adjp",
+   "ipa": "/səˈraʊndɪd baɪ/",
+   "def_en": "With something everywhere around you.",
+   "def_vi": "Có thứ gì ở khắp xung quanh.",
+   "gloss_vi": "bao quanh bởi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Surrounded by</i> (adjp) = bao quanh bởi. <b>Grammar</b>: <i>be surrounded by sth</i>. <b>Word family</b>: <i>surroundings</i> (n.).",
+   "example": {
+    "en": "I grew up in the countryside where I was <b>surrounded by</b> nature.",
+    "vi": "Tôi lớn lên ở nông thôn, nơi tôi được <b>bao quanh bởi</b> thiên nhiên."
+   }
+  },
+  {
+   "word": "bank",
+   "sense": "river",
+   "pos": "noun",
+   "ipa": "/bæŋk/",
+   "def_en": "The side of a river.",
+   "def_vi": "Bờ sông.",
+   "gloss_vi": "bờ (sông)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bank</i> (noun) = bờ (sông). <b>Grammar</b>: <i>on the bank(s) of the river</i>. <b>Common mistakes</b>: cũng là ngân hàng.",
+   "example": {
+    "en": "As children, we used to play on the <b>banks</b> of the river.",
+    "vi": "Hồi nhỏ chúng tôi hay chơi trên <b>bờ</b> sông."
+   }
+  },
+  {
+   "word": "woods",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/wʊdz/",
+   "def_en": "Groups of trees.",
+   "def_vi": "Nhóm cây.",
+   "gloss_vi": "khu rừng nhỏ",
+   "synonyms": "forest <i>(n. rừng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Woods</i> (plural noun) = khu rừng nhỏ. <b>Grammar</b>: thường số nhiều <i>the woods</i>; <i>forest</i> lớn hơn.",
+   "example": {
+    "en": "We used to play on the banks of the river and in the <b>woods</b>.",
+    "vi": "Chúng tôi chơi bên bờ sông và trong <b>rừng</b>."
+   }
+  },
+  {
+   "word": "pick",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/pɪk/",
+   "def_en": "To take fruit or flowers from a tree or plant.",
+   "def_vi": "Lấy quả hay hoa từ cây.",
+   "gloss_vi": "hái",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pick</i> (verb) = hái. <b>Grammar</b>: <i>pick fruit/flowers/mushrooms</i>.",
+   "example": {
+    "en": "In the summer we <b>picked</b> apples and blackberries.",
+    "vi": "Mùa hè chúng tôi <b>hái</b> táo và mâm xôi."
+   }
+  },
+  {
+   "word": "season",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsiːzn/",
+   "def_en": "Spring, summer, autumn or winter.",
+   "def_vi": "Xuân, hạ, thu hoặc đông.",
+   "gloss_vi": "mùa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Season</i> (noun) = mùa. <b>Grammar</b>: đếm được. <b>Word family</b>: <i>seasonal</i> (adj.).",
+   "example": {
+    "en": "The <b>seasons</b> were all different.",
+    "vi": "Các <b>mùa</b> đều khác nhau."
+   }
+  },
+  {
+   "word": "scenery",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsiːnəri/",
+   "def_en": "The natural beauty you see around you.",
+   "def_vi": "Vẻ đẹp tự nhiên quanh ta.",
+   "gloss_vi": "phong cảnh",
+   "synonyms": "landscape <i>(n. cảnh quan)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Scenery</i> (noun) = phong cảnh. <b>Grammar</b>: không đếm được (không nói <i>sceneries</i>).",
+   "example": {
+    "en": "I loved the <b>scenery</b>, the open spaces, and the fresh air.",
+    "vi": "Tôi yêu <b>phong cảnh</b>, không gian rộng mở và không khí trong lành."
+   }
+  },
+  {
+   "word": "open spaces",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌəʊpən ˈspeɪsɪz/",
+   "def_en": "Empty areas of land.",
+   "def_vi": "Vùng đất trống.",
+   "gloss_vi": "không gian rộng mở",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Open spaces</i> (noun phrase) = không gian rộng mở. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "I loved the scenery, the <b>open spaces</b>, and the fresh air.",
+    "vi": "Tôi yêu phong cảnh, <b>không gian rộng mở</b> và không khí trong lành."
+   }
+  },
+  {
+   "word": "fresh air",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌfreʃ ˈeə(r)/",
+   "def_en": "Naturally clean air.",
+   "def_vi": "Không khí sạch tự nhiên.",
+   "gloss_vi": "không khí trong lành",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fresh air</i> (noun phrase) = không khí trong lành. <b>Grammar</b>: không đếm được; <i>get some fresh air</i>.",
+   "example": {
+    "en": "I loved the scenery, the open spaces, and the <b>fresh air</b>.",
+    "vi": "Tôi yêu phong cảnh, không gian rộng mở và <b>không khí trong lành</b>."
+   }
+  },
+  {
+   "word": "crops",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/krɒps/",
+   "def_en": "Plants grown by farmers, e.g. wheat or potatoes.",
+   "def_vi": "Cây nông dân trồng, ví dụ lúa mì, khoai tây.",
+   "gloss_vi": "cây trồng, mùa màng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Crops</i> (plural noun) = cây trồng, mùa màng. <b>Grammar</b>: <i>grow crops</i>.",
+   "example": {
+    "en": "Mostly he grows <b>crops</b> like barley, wheat and potatoes.",
+    "vi": "Chú tôi chủ yếu trồng <b>cây lương thực</b> như lúa mạch, lúa mì và khoai tây."
+   }
+  },
+  {
+   "word": "farming",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfɑːmɪŋ/",
+   "def_en": "The job of working on a farm.",
+   "def_vi": "Nghề làm trang trại.",
+   "gloss_vi": "nghề nông",
+   "synonyms": "agriculture <i>(n. nông nghiệp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Farming</i> (noun) = nghề nông. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "<b>Farming</b> is a hard life.",
+    "vi": "<b>Nghề nông</b> là cuộc sống vất vả."
+   }
+  },
+  {
+   "word": "up",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ʌp/",
+   "def_en": "Not in bed.",
+   "def_vi": "Không còn nằm trên giường.",
+   "gloss_vi": "(đã) dậy",
+   "synonyms": "awake <i>(adj. thức)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Up</i> (adjective) = (đã) dậy. <b>Grammar</b>: <i>be up</i> = đã dậy; <i>stay up</i> = thức khuya.",
+   "example": {
+    "en": "My uncle is usually <b>up</b> at five in the morning.",
+    "vi": "Chú tôi thường <b>dậy</b> lúc năm giờ sáng."
+   }
+  },
+  {
+   "word": "sunset",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsʌnset/",
+   "def_en": "When the sun goes down in the evening.",
+   "def_vi": "Lúc mặt trời lặn buổi tối.",
+   "gloss_vi": "hoàng hôn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "sunrise <i>(n. bình minh)</i>",
+   "grammar_vi": "<i>Sunset</i> (noun) = hoàng hôn. <b>Grammar</b>: <i>at sunset</i>.",
+   "example": {
+    "en": "Sometimes his work isn’t finished until <b>sunset</b>.",
+    "vi": "Đôi khi công việc của chú kéo dài đến <b>hoàng hôn</b>."
+   }
+  },
+  {
+   "word": "hill",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/hɪl/",
+   "def_en": "An area of land higher than the land around it.",
+   "def_vi": "Vùng đất cao hơn xung quanh.",
+   "gloss_vi": "ngọn đồi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hill</i> (noun) = ngọn đồi. <b>Grammar</b>: <i>up/down the hill</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The house is on a <b>hill</b>.",
+    "vi": "Ngôi nhà nằm trên một <b>ngọn đồi</b>."
+   }
+  },
+  {
+   "word": "branch",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/brɑːntʃ/",
+   "def_en": "A part of a tree that grows out from the main part.",
+   "def_vi": "Phần cây mọc ra từ thân chính.",
+   "gloss_vi": "cành cây",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Branch</i> (noun) = cành cây. <b>Grammar</b>: số nhiều <i>branches</i>. <b>Common mistakes</b>: cũng là chi nhánh.",
+   "ex_kit": true,
+   "example": {
+    "en": "A bird was sitting on a <b>branch</b>.",
+    "vi": "Một con chim đậu trên <b>cành cây</b>."
+   }
+  },
+  {
+   "word": "leaf",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/liːf/",
+   "def_en": "One of the flat green parts of a tree or plant.",
+   "def_vi": "Phần phẳng màu xanh của cây.",
+   "gloss_vi": "lá cây",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Leaf</i> (noun) = lá cây. <b>Grammar</b>: số nhiều bất quy tắc <i>leaves</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>leaves</b> turn yellow in the autumn.",
+    "vi": "<b>Lá</b> chuyển màu vàng vào mùa thu."
+   }
+  },
+  {
+   "word": "plant",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/plɑːnt/",
+   "def_en": "A living thing that grows in the ground.",
+   "def_vi": "Sinh vật mọc trên đất.",
+   "gloss_vi": "cây, thực vật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Plant</i> (noun) = cây, thực vật. <b>Grammar</b>: cũng là động từ <i>trồng</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I water the <b>plants</b> every morning.",
+    "vi": "Tôi tưới <b>cây</b> mỗi sáng."
+   }
+  },
+  {
+   "word": "ground",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɡraʊnd/",
+   "def_en": "The surface of the earth.",
+   "def_vi": "Bề mặt đất.",
+   "gloss_vi": "mặt đất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ground</i> (noun) = mặt đất. <b>Grammar</b>: <i>on the ground</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The apples fell to the <b>ground</b>.",
+    "vi": "Táo rơi xuống <b>đất</b>."
+   }
+  },
+  {
+   "word": "grass",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɡrɑːs/",
+   "def_en": "A green plant that covers fields and gardens.",
+   "def_vi": "Cây xanh phủ cánh đồng và vườn.",
+   "gloss_vi": "cỏ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Grass</i> (noun) = cỏ. <b>Grammar</b>: không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The children sat on the <b>grass</b>.",
+    "vi": "Bọn trẻ ngồi trên <b>cỏ</b>."
+   }
+  },
+  {
+   "word": "root",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ruːt/",
+   "def_en": "The part of a plant that grows under the ground.",
+   "def_vi": "Phần cây mọc dưới đất.",
+   "gloss_vi": "rễ cây",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Root</i> (noun) = rễ cây. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>roots</b> of the tree go deep into the ground.",
+    "vi": "<b>Rễ</b> cây mọc sâu dưới đất."
+   }
+  },
+  {
+   "word": "valley",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈvæli/",
+   "def_en": "Low land between hills.",
+   "def_vi": "Vùng đất thấp giữa các đồi.",
+   "gloss_vi": "thung lũng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Valley</i> (noun) = thung lũng. <b>Grammar</b>: số nhiều <i>valleys</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "A river runs through the <b>valley</b>.",
+    "vi": "Có một con sông chảy qua <b>thung lũng</b>."
+   }
+  },
+  {
+   "word": "farmhouse",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfɑːmhaʊs/",
+   "def_en": "The main house on a farm.",
+   "def_vi": "Nhà chính trên trang trại.",
+   "gloss_vi": "nhà trang trại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Farmhouse</i> (noun) = nhà trang trại. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>farmhouse</b> is over two hundred years old.",
+    "vi": "<b>Nhà trang trại</b> đã hơn hai trăm năm tuổi."
+   }
+  },
+  {
+   "word": "field",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/fiːld/",
+   "def_en": "An area of land used for crops or animals.",
+   "def_vi": "Khu đất trồng trọt hay chăn nuôi.",
+   "gloss_vi": "cánh đồng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Field</i> (noun) = cánh đồng. <b>Grammar</b>: <i>in a field</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The cows are in the <b>field</b>.",
+    "vi": "Bò đang ăn cỏ trên <b>cánh đồng</b>."
+   }
+  },
+  {
+   "word": "fence",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/fens/",
+   "def_en": "A wall made of wood or wire around a field or garden.",
+   "def_vi": "Tường bằng gỗ hay dây quanh ruộng vườn.",
+   "gloss_vi": "hàng rào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fence</i> (noun) = hàng rào. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The dog jumped over the <b>fence</b>.",
+    "vi": "Con chó nhảy qua <b>hàng rào</b>."
+   }
+  },
+  {
+   "word": "tractor",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtræktə(r)/",
+   "def_en": "A strong vehicle used on farms.",
+   "def_vi": "Xe mạnh dùng ở trang trại.",
+   "gloss_vi": "máy kéo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tractor</i> (noun) = máy kéo. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "My uncle drives a <b>tractor</b> in the fields.",
+    "vi": "Chú tôi lái <b>máy kéo</b> trên cánh đồng."
+   }
+  },
+  {
+   "word": "gate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɡeɪt/",
+   "def_en": "A door in a fence or wall.",
+   "def_vi": "Cửa ở hàng rào hay tường.",
+   "gloss_vi": "cổng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gate</i> (noun) = cổng. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "Please close the <b>gate</b>.",
+    "vi": "Nhớ đóng <b>cổng</b> lại."
+   }
+  },
+  {
+   "word": "footpath",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfʊtpɑːθ/",
+   "def_en": "A path for people to walk on.",
+   "def_vi": "Lối đi cho người đi bộ.",
+   "gloss_vi": "đường mòn, lối đi bộ",
+   "synonyms": "path <i>(n. lối đi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Footpath</i> (noun) = đường mòn, lối đi bộ. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "We followed the <b>footpath</b> through the woods.",
+    "vi": "Chúng tôi theo <b>đường mòn</b> xuyên qua rừng."
+   }
+  },
+  {
+   "word": "the worst thing about",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ðə ˈwɜːst θɪŋ əbaʊt/",
+   "def_en": "The most negative part of something.",
+   "def_vi": "Phần tiêu cực nhất của điều gì.",
+   "gloss_vi": "điều tệ nhất về",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "the best thing about <i>(phr. điều tốt nhất về)</i>",
+   "grammar_vi": "<i>The worst thing about</i> (phrase) = điều tệ nhất về. <b>Grammar</b>: + V-ing / danh từ.",
+   "example": {
+    "en": "<b>The worst thing about</b> living in a village is that there isn’t much to do in the evening.",
+    "vi": "<b>Điều tệ nhất về</b> việc sống ở làng là buổi tối không có mấy việc để làm."
+   }
+  },
+  {
+   "word": "village",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈvɪlɪdʒ/",
+   "def_en": "A place smaller than a town.",
+   "def_vi": "Nơi nhỏ hơn thị trấn.",
+   "gloss_vi": "làng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Village</i> (noun) = làng. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: /ˈvɪlɪdʒ/.",
+   "example": {
+    "en": "The worst thing about living in a <b>village</b> is that there isn’t much to do in the evening.",
+    "vi": "Điều tệ nhất về việc sống ở <b>làng</b> là buổi tối không có mấy việc để làm."
+   }
+  },
+  {
+   "word": "there isn’t much to do",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ðeər ˌɪznt ˌmʌtʃ tə ˈduː/",
+   "def_en": "There are few activities.",
+   "def_vi": "Có ít hoạt động.",
+   "gloss_vi": "không có mấy việc để làm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "there’s a lot to do <i>(phr. có nhiều việc để làm)</i>",
+   "grammar_vi": "<i>There isn’t much to do</i> (phrase) = không có mấy việc để làm. <b>Grammar</b>: <i>there’s nothing / a lot to do</i>.",
+   "example": {
+    "en": "<b>There isn’t much to do</b> in the evening, apart from going to the village pub.",
+    "vi": "Buổi tối <b>không có mấy việc để làm</b>, ngoài việc ra quán rượu trong làng."
+   }
+  },
+  {
+   "word": "away",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/əˈweɪ/",
+   "def_en": "At a distance from a place.",
+   "def_vi": "Ở một khoảng cách từ nơi nào.",
+   "gloss_vi": "cách (xa)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Away</i> (adverb) = cách (xa). <b>Grammar</b>: số + <i>miles/km away</i>.",
+   "example": {
+    "en": "The nearest town is eight miles <b>away</b>.",
+    "vi": "Thị trấn gần nhất <b>cách</b> tám dặm."
+   }
+  },
+  {
+   "word": "public transport",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌpʌblɪk ˈtrænspɔːt/",
+   "def_en": "Buses and trains for people to use.",
+   "def_vi": "Xe buýt và tàu cho mọi người dùng.",
+   "gloss_vi": "giao thông công cộng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Public transport</i> (noun phrase) = giao thông công cộng. <b>Grammar</b>: không đếm được; Mỹ <i>public transportation</i>.",
+   "example": {
+    "en": "<b>Public transport</b> is hopeless.",
+    "vi": "<b>Giao thông công cộng</b> thì tệ hại."
+   }
+  },
+  {
+   "word": "hopeless",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈhəʊpləs/",
+   "def_en": "Terrible.",
+   "def_vi": "Tồi tệ.",
+   "gloss_vi": "tệ hại",
+   "synonyms": "terrible <i>(adj. tệ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hopeless</i> (adjective) = tệ hại. <b>Grammar</b>: <i>hopeless at sth</i> = rất dở.",
+   "example": {
+    "en": "Public transport is <b>hopeless</b>.",
+    "vi": "Giao thông công cộng thì <b>tệ hại</b>."
+   }
+  }
+ ]
+}

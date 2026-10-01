@@ -1,0 +1,514 @@
+{
+ "book": "pre",
+ "unit": 29,
+ "title_vi": "Trên đường",
+ "theory_html": "<p><b>A. Roads</b><br><i>A. Đường sá</i></p> <p><b>traffic lights, (road) junction, a bend in the road</b> (the road <b>bends</b>), <b>no overtaking, speed limit, road signs, pedestrian crossing, bridge, motorway</b> with the <b>inside/slow lane</b> and <b>outside/fast lane</b>.</p><p><i><b>đèn giao thông, ngã ba/tư, khúc cua, cấm vượt, giới hạn tốc độ, biển báo, vạch qua đường, cầu, đường cao tốc, làn chậm/nhanh</b>.</i></p> <p><b>B. Finding your way</b><br><i>B. Tìm đường</i></p> <p><b>I got lost on my way to the airport… go via Pensford… the wrong turning… I ended up in a car park… ask someone the way… she directed me… follow signs.</b></p><p><i><b>lạc đường, trên đường đến, qua, ngã rẽ, cuối cùng lại ở, hỏi đường, chỉ đường, biển chỉ dẫn</b>.</i></p> <p><b>C. An accident</b><br><i>C. Một vụ tai nạn</i></p> <p><b>an accident on the main road; a pedestrian stepped off the pavement as a car was approaching; the driver braked, the car swerved and crashed into a parked car; the driver wasn’t injured, the cars were damaged.</b> <b>damage</b> a thing, <b>injure</b> a person; nouns <b>damage (to)</b>, <b>injury</b>.</p><p><i><b>tai nạn, đường chính, người đi bộ, vỉa hè, đến gần, phanh, ngoặt, đâm vào, xe đang đỗ, bị thương, hư hại</b>.</i></p>",
+ "items": [
+  {
+   "word": "traffic lights",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈtræfɪk laɪts/",
+   "def_en": "Lights that tell traffic when to stop and go.",
+   "def_vi": "Đèn báo xe dừng hay đi.",
+   "gloss_vi": "đèn giao thông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Traffic lights</i> (plural noun) = đèn giao thông. <b>Grammar</b>: số nhiều.",
+   "ex_kit": true,
+   "example": {
+    "en": "Turn left at the <b>traffic lights</b>.",
+    "vi": "Rẽ trái ở <b>đèn giao thông</b>."
+   }
+  },
+  {
+   "word": "junction",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdʒʌŋkʃn/",
+   "def_en": "A place where roads meet.",
+   "def_vi": "Chỗ các con đường gặp nhau.",
+   "gloss_vi": "ngã ba, ngã tư",
+   "synonyms": "crossroads <i>(n. ngã tư)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Junction</i> (noun) = ngã ba, ngã tư. <b>Grammar</b>: <i>a road junction</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Stop at the next <b>junction</b>.",
+    "vi": "Dừng lại ở <b>ngã tư</b> tiếp theo."
+   }
+  },
+  {
+   "word": "bend",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bend/",
+   "def_en": "A curve in a road.",
+   "def_vi": "Chỗ cong trên đường.",
+   "gloss_vi": "khúc cua",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bend</i> (noun) = khúc cua. <b>Grammar</b>: <i>a bend in the road</i>; động từ <i>the road bends to the right</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "There’s a sharp <b>bend</b> in the road.",
+    "vi": "Có một <b>khúc cua</b> gắt trên đường."
+   }
+  },
+  {
+   "word": "no overtaking",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌnəʊ ˌəʊvəˈteɪkɪŋ/",
+   "def_en": "You can’t pass another car.",
+   "def_vi": "Không được vượt xe khác.",
+   "gloss_vi": "cấm vượt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>No overtaking</i> (phrase) = cấm vượt. <b>Grammar</b>: <i>overtake</i> (v.) = vượt xe.",
+   "ex_kit": true,
+   "example": {
+    "en": "The sign says ‘<b>No overtaking</b>’.",
+    "vi": "Biển báo ghi “<b>Cấm vượt</b>”."
+   }
+  },
+  {
+   "word": "speed limit",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈspiːd lɪmɪt/",
+   "def_en": "The fastest speed you are allowed to drive.",
+   "def_vi": "Tốc độ tối đa được phép lái.",
+   "gloss_vi": "giới hạn tốc độ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Speed limit</i> (noun phrase) = giới hạn tốc độ. <b>Grammar</b>: <i>break the speed limit</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>speed limit</b> here is 30 miles an hour.",
+    "vi": "<b>Giới hạn tốc độ</b> ở đây là 30 dặm một giờ."
+   }
+  },
+  {
+   "word": "road sign",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈrəʊd saɪn/",
+   "def_en": "A sign next to a road giving information to drivers.",
+   "def_vi": "Biển bên đường cho tài xế thông tin.",
+   "gloss_vi": "biển báo giao thông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Road sign</i> (noun phrase) = biển báo giao thông. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "Look out for the <b>road signs</b>.",
+    "vi": "Hãy chú ý <b>biển báo giao thông</b>."
+   }
+  },
+  {
+   "word": "pedestrian crossing",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/pəˌdestriən ˈkrɒsɪŋ/",
+   "def_en": "A place where people can cross the road safely.",
+   "def_vi": "Chỗ người đi bộ qua đường an toàn.",
+   "gloss_vi": "vạch qua đường",
+   "synonyms": "zebra crossing <i>(np. vạch kẻ ngựa vằn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pedestrian crossing</i> (noun phrase) = vạch qua đường. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "Cross the road at the <b>pedestrian crossing</b>.",
+    "vi": "Hãy qua đường ở <b>vạch qua đường</b>."
+   }
+  },
+  {
+   "word": "motorway",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈməʊtəweɪ/",
+   "def_en": "A wide road for fast traffic between cities.",
+   "def_vi": "Đường rộng cho xe chạy nhanh giữa các thành phố.",
+   "gloss_vi": "đường cao tốc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Motorway</i> (noun) = đường cao tốc. <b>Grammar</b>: Anh–Anh; Mỹ <i>highway / freeway</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We took the <b>motorway</b> to Manchester.",
+    "vi": "Chúng tôi đi <b>đường cao tốc</b> đến Manchester."
+   }
+  },
+  {
+   "word": "slow lane",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈsləʊ leɪn/",
+   "def_en": "The lane on a motorway for slower traffic.",
+   "def_vi": "Làn đường cao tốc cho xe chậm.",
+   "gloss_vi": "làn chậm",
+   "synonyms": "inside lane <i>(np. làn trong)</i>",
+   "antonyms": "fast lane <i>(np. làn nhanh)</i>",
+   "grammar_vi": "<i>Slow lane</i> (noun phrase) = làn chậm. <b>Grammar</b>: <i>in the slow/fast lane</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Lorries usually drive in the <b>slow lane</b>.",
+    "vi": "Xe tải thường chạy ở <b>làn chậm</b>."
+   }
+  },
+  {
+   "word": "fast lane",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈfɑːst leɪn/",
+   "def_en": "The lane on a motorway for faster traffic.",
+   "def_vi": "Làn đường cao tốc cho xe nhanh.",
+   "gloss_vi": "làn nhanh",
+   "synonyms": "outside lane <i>(np. làn ngoài)</i>",
+   "antonyms": "slow lane <i>(np. làn chậm)</i>",
+   "grammar_vi": "<i>Fast lane</i> (noun phrase) = làn nhanh. <b>Grammar</b>: <i>in the fast lane</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Only use the <b>fast lane</b> for overtaking.",
+    "vi": "Chỉ dùng <b>làn nhanh</b> để vượt."
+   }
+  },
+  {
+   "word": "get lost",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡet ˈlɒst/",
+   "def_en": "Not to know where you are.",
+   "def_vi": "Không biết mình đang ở đâu.",
+   "gloss_vi": "lạc đường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get lost</i> (verb phrase) = lạc đường. <b>Grammar</b>: <i>get lost</i> (không <i>lose myself</i>).",
+   "example": {
+    "en": "Yesterday, I <b>got lost</b> on my way to the airport.",
+    "vi": "Hôm qua tôi bị <b>lạc đường</b> trên đường ra sân bay."
+   }
+  },
+  {
+   "word": "on my way to",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɒn maɪ ˈweɪ tə/",
+   "def_en": "While I was going to.",
+   "def_vi": "Trong lúc đang đi đến.",
+   "gloss_vi": "trên đường đến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>On my way to</i> (phrase) = trên đường đến. <b>Grammar</b>: <i>on my/your/his way to</i>; <i>on the way home</i> (không <i>to</i>).",
+   "example": {
+    "en": "Yesterday, I got lost <b>on my way to</b> the airport.",
+    "vi": "Hôm qua tôi bị lạc <b>trên đường ra</b> sân bay."
+   }
+  },
+  {
+   "word": "via",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ˈvaɪə/",
+   "def_en": "Going through a place to get to a destination.",
+   "def_vi": "Đi qua một nơi để đến đích.",
+   "gloss_vi": "qua, đi qua",
+   "synonyms": "through <i>(prep. qua)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Via</i> (preposition) = qua, đi qua. <b>Grammar</b>: <i>via</i> + nơi chốn. <b>Common mistakes</b>: /ˈvaɪə/.",
+   "example": {
+    "en": "I decided to use side roads and go <b>via</b> the village of Pensford.",
+    "vi": "Tôi quyết định đi đường nhỏ và <b>qua</b> làng Pensford."
+   }
+  },
+  {
+   "word": "turning",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtɜːnɪŋ/",
+   "def_en": "A corner where one road meets another.",
+   "def_vi": "Góc nơi hai đường gặp nhau.",
+   "gloss_vi": "ngã rẽ",
+   "synonyms": "turn <i>(n. chỗ rẽ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Turning</i> (noun) = ngã rẽ. <b>Grammar</b>: <i>take the first/wrong turning</i>.",
+   "example": {
+    "en": "I took the wrong <b>turning</b> just before I got there.",
+    "vi": "Tôi rẽ nhầm <b>ngã rẽ</b> ngay trước khi đến đó."
+   }
+  },
+  {
+   "word": "end up",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌend ˈʌp/",
+   "def_en": "To find yourself in a place you didn’t expect.",
+   "def_vi": "Thấy mình ở nơi không ngờ tới.",
+   "gloss_vi": "cuối cùng lại (ở đâu)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>End up</i> (phrasal verb) = cuối cùng lại (ở đâu). <b>Grammar</b>: <i>end up in/at</i> + nơi; <i>end up doing sth</i>.",
+   "example": {
+    "en": "I <b>ended up</b> in a supermarket car park.",
+    "vi": "Tôi <b>cuối cùng lại vào</b> bãi đỗ xe siêu thị."
+   }
+  },
+  {
+   "word": "ask the way",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɑːsk ðə ˈweɪ/",
+   "def_en": "To ask how to get to a place.",
+   "def_vi": "Hỏi cách đến một nơi.",
+   "gloss_vi": "hỏi đường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ask the way</i> (verb phrase) = hỏi đường. <b>Grammar</b>: <i>ask sb the way (to sth)</i>.",
+   "example": {
+    "en": "Fortunately I was able to <b>ask</b> someone <b>the way</b>.",
+    "vi": "May mắn tôi đã <b>hỏi đường</b> được một người."
+   }
+  },
+  {
+   "word": "direct",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dəˈrekt/",
+   "def_en": "To tell someone how to get to a place.",
+   "def_vi": "Nói cho ai cách đến một nơi.",
+   "gloss_vi": "chỉ đường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Direct</i> (verb) = chỉ đường. <b>Grammar</b>: <i>direct sb to sth</i>. <b>Word family</b>: <i>directions</i> (n.).",
+   "example": {
+    "en": "A very kind woman <b>directed</b> me to the A38.",
+    "vi": "Một phụ nữ rất tốt bụng đã <b>chỉ đường</b> cho tôi đến đường A38."
+   }
+  },
+  {
+   "word": "sign",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/saɪn/",
+   "def_en": "A notice giving information or directions.",
+   "def_vi": "Bảng cho thông tin hay chỉ dẫn.",
+   "gloss_vi": "biển chỉ dẫn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sign</i> (noun) = biển chỉ dẫn. <b>Grammar</b>: <i>follow the signs for…</i>. <b>Common mistakes</b>: <i>g</i> câm.",
+   "example": {
+    "en": "I could then follow <b>signs</b> for the airport.",
+    "vi": "Rồi tôi có thể đi theo <b>biển chỉ dẫn</b> tới sân bay."
+   }
+  },
+  {
+   "word": "accident",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈæksɪdənt/",
+   "def_en": "A crash involving vehicles or people.",
+   "def_vi": "Va chạm giữa xe cộ hay người.",
+   "gloss_vi": "tai nạn",
+   "synonyms": "crash <i>(n. vụ đâm xe)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Accident</i> (noun) = tai nạn. <b>Grammar</b>: <i>have an accident</i>; <i>by accident</i> = tình cờ.",
+   "example": {
+    "en": "I saw an <b>accident</b> this morning on the main road into town.",
+    "vi": "Sáng nay tôi thấy một vụ <b>tai nạn</b> trên đường chính vào thị trấn."
+   }
+  },
+  {
+   "word": "main road",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌmeɪn ˈrəʊd/",
+   "def_en": "An important road.",
+   "def_vi": "Con đường quan trọng.",
+   "gloss_vi": "đường chính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "side road <i>(np. đường nhỏ)</i>",
+   "grammar_vi": "<i>Main road</i> (noun phrase) = đường chính. <b>Grammar</b>: <i>on the main road</i>.",
+   "example": {
+    "en": "I saw an accident this morning on the <b>main road</b> into town.",
+    "vi": "Tôi thấy một vụ tai nạn trên <b>đường chính</b> vào thị trấn."
+   }
+  },
+  {
+   "word": "pedestrian",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pəˈdestriən/",
+   "def_en": "A person walking.",
+   "def_vi": "Người đang đi bộ.",
+   "gloss_vi": "người đi bộ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pedestrian</i> (noun) = người đi bộ. <b>Grammar</b>: <i>pedestrian crossing / pedestrian area</i>.",
+   "example": {
+    "en": "A <b>pedestrian</b> – a young boy – stepped off the pavement and into the road.",
+    "vi": "Một <b>người đi bộ</b> – một cậu bé – bước khỏi vỉa hè xuống đường."
+   }
+  },
+  {
+   "word": "pavement",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpeɪvmənt/",
+   "def_en": "The place where pedestrians walk.",
+   "def_vi": "Chỗ người đi bộ đi.",
+   "gloss_vi": "vỉa hè",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pavement</i> (noun) = vỉa hè. <b>Grammar</b>: Anh–Anh; Mỹ <i>sidewalk</i>.",
+   "example": {
+    "en": "A young boy stepped off the <b>pavement</b> and into the road.",
+    "vi": "Một cậu bé bước khỏi <b>vỉa hè</b> xuống đường."
+   }
+  },
+  {
+   "word": "approach",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈprəʊtʃ/",
+   "def_en": "To come closer.",
+   "def_vi": "Đến gần hơn.",
+   "gloss_vi": "đến gần",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Approach</i> (verb) = đến gần. <b>Grammar</b>: <i>approach sth</i> (không dùng <i>to</i>).",
+   "example": {
+    "en": "He stepped into the road just as a car was <b>approaching</b>.",
+    "vi": "Cậu bé bước xuống đường đúng lúc một chiếc xe đang <b>đến gần</b>."
+   }
+  },
+  {
+   "word": "brake",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/breɪk/",
+   "def_en": "To put your foot on the brake to stop the car.",
+   "def_vi": "Đạp phanh để dừng xe.",
+   "gloss_vi": "phanh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Brake</i> (verb) = phanh. <b>Grammar</b>: cũng là danh từ <i>the brake</i>. <b>Common mistakes</b>: /breɪk/ như <i>break</i>.",
+   "example": {
+    "en": "The driver <b>braked</b>.",
+    "vi": "Tài xế <b>phanh</b> lại."
+   }
+  },
+  {
+   "word": "swerve",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/swɜːv/",
+   "def_en": "To change direction suddenly and without control.",
+   "def_vi": "Đổi hướng đột ngột, mất kiểm soát.",
+   "gloss_vi": "ngoặt, lạng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Swerve</i> (verb) = ngoặt, lạng. <b>Grammar</b>: <i>swerve to avoid sth</i>.",
+   "example": {
+    "en": "The car <b>swerved</b> and crashed into a parked car.",
+    "vi": "Chiếc xe <b>ngoặt</b> và đâm vào một xe đang đỗ."
+   }
+  },
+  {
+   "word": "crash into",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˈkræʃ ɪntə/",
+   "def_en": "To hit something violently.",
+   "def_vi": "Va mạnh vào thứ gì.",
+   "gloss_vi": "đâm vào",
+   "synonyms": "hit <i>(v. va vào)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Crash into</i> (phrasal verb) = đâm vào. <b>Grammar</b>: <i>crash into sth</i>.",
+   "example": {
+    "en": "The car swerved and <b>crashed into</b> a parked car.",
+    "vi": "Chiếc xe ngoặt và <b>đâm vào</b> một xe đang đỗ."
+   }
+  },
+  {
+   "word": "parked car",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌpɑːkt ˈkɑː(r)/",
+   "def_en": "A car next to the pavement, not moving.",
+   "def_vi": "Xe đứng yên cạnh vỉa hè.",
+   "gloss_vi": "xe đang đỗ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Parked car</i> (noun phrase) = xe đang đỗ. <b>Grammar</b>: <i>park</i> (v.) → <i>parked</i> (adj.).",
+   "example": {
+    "en": "The car crashed into a <b>parked car</b> on the opposite side of the road.",
+    "vi": "Chiếc xe đâm vào một <b>xe đang đỗ</b> bên kia đường."
+   }
+  },
+  {
+   "word": "injured",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɪndʒəd/",
+   "def_en": "(Of a person) hurt.",
+   "def_vi": "(Người) bị thương.",
+   "gloss_vi": "bị thương",
+   "synonyms": "hurt <i>(adj. bị đau)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Injured</i> (adjective) = bị thương. <b>Grammar</b>: dùng cho người; vật dùng <i>damaged</i>. <b>Word family</b>: <i>injury</i> (n.).",
+   "example": {
+    "en": "Fortunately the driver wasn’t <b>injured</b>.",
+    "vi": "May mắn tài xế không bị <b>thương</b>."
+   }
+  },
+  {
+   "word": "damaged",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈdæmɪdʒd/",
+   "def_en": "(Of a thing) harmed or broken.",
+   "def_vi": "(Vật) bị hỏng hay vỡ.",
+   "gloss_vi": "bị hư hại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Damaged</i> (adjective) = bị hư hại. <b>Grammar</b>: dùng cho vật; <i>damage to sth</i> (n.).",
+   "example": {
+    "en": "Both cars were quite badly <b>damaged</b>.",
+    "vi": "Cả hai xe đều <b>bị hư hại</b> khá nặng."
+   }
+  },
+  {
+   "word": "injury",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɪndʒəri/",
+   "def_en": "Physical harm to a person.",
+   "def_vi": "Tổn thương cơ thể người.",
+   "gloss_vi": "vết thương",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Injury</i> (noun) = vết thương. <b>Grammar</b>: <i>minor/serious injuries</i>.",
+   "example": {
+    "en": "The cyclist only had minor <b>injuries</b>.",
+    "vi": "Người đi xe đạp chỉ bị <b>thương</b> nhẹ."
+   }
+  },
+  {
+   "word": "damage",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdæmɪdʒ/",
+   "def_en": "Physical harm to a thing.",
+   "def_vi": "Tổn hại vật chất của vật.",
+   "gloss_vi": "sự hư hại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Damage</i> (noun) = sự hư hại. <b>Grammar</b>: không đếm được; <i>damage to sth</i>.",
+   "example": {
+    "en": "There was a lot of <b>damage</b> to the bike.",
+    "vi": "Chiếc xe đạp <b>bị hư hại</b> nhiều."
+   }
+  }
+ ]
+}

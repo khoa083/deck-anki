@@ -1,0 +1,481 @@
+{
+ "book": "pre",
+ "unit": 28,
+ "title_vi": "Giao thông",
+ "theory_html": "<p><b>A. Vehicles</b><br><i>A. Phương tiện</i></p> <p><b>Vehicle</b> = all types of road transport: <b>bus, coach, van, bicycle, motorbike, lorry</b> (also <b>truck</b>).</p><p><i><b>phương tiện: xe buýt, xe khách, xe tải nhỏ, xe đạp, xe máy, xe tải</b>.</i></p> <p><b>B. Travelling around</b><br><i>B. Đi lại</i></p> <p>People: <b>pilot, cyclist</b>; money: <b>bus fare, train fare, airfare</b>; verbs: <b>get / catch / go by</b> (bus, train), <b>fly</b>, <b>go by bike / cycle / ride a bike</b>, <b>get on/off</b> (bus, train, plane), <b>get in / out (of)</b> (taxi); places: <b>bus stop, platform, airport, taxi rank</b>; <b>journey, flight</b>. <b>a good journey</b> (NOT <b>a good travel</b>).</p><p><i><b>phi công, người đi xe đạp; giá vé; bắt xe, đi bằng, bay, đạp xe, lên/xuống xe; trạm xe buýt, sân ga, bến taxi; chuyến đi, chuyến bay</b>.</i></p> <p><b>C. Are you happy with public transport?</b><br><i>C. Bạn có hài lòng với giao thông công cộng?</i></p> <p>Buses are not very <b>convenient</b>; the bus stop is half a mile <b>away</b>; <b>wait in a queue</b>; people are always <b>complaining about</b> the service; a bus stop <b>round the corner</b>; buses <b>run</b> every ten minutes and are <b>reliable</b>; a <b>return</b>; a <b>season ticket</b>; my only <b>complaint</b>; if I <b>miss</b> my train…</p><p><i><b>thuận tiện, cách, xếp hàng, phàn nàn, ngay góc phố, chạy, đáng tin cậy, vé khứ hồi, vé tháng/mùa, lời phàn nàn, lỡ</b>.</i></p>",
+ "items": [
+  {
+   "word": "vehicle",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈviːəkl/",
+   "def_en": "A machine for carrying people or things on roads.",
+   "def_vi": "Máy chở người hay đồ trên đường.",
+   "gloss_vi": "phương tiện, xe cộ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Vehicle</i> (noun) = phương tiện, xe cộ. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: /ˈviːəkl/, <i>h</i> câm.",
+   "example": {
+    "en": "<b>Vehicle</b> is the general word for all types of road transport.",
+    "vi": "<b>Phương tiện</b> là từ chung cho mọi loại giao thông đường bộ."
+   }
+  },
+  {
+   "word": "coach",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəʊtʃ/",
+   "def_en": "A comfortable bus for long journeys.",
+   "def_vi": "Xe buýt tiện nghi cho chặng dài.",
+   "gloss_vi": "xe khách",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Coach</i> (noun) = xe khách. <b>Grammar</b>: <i>by coach</i>. <b>Common mistakes</b>: cũng là huấn luyện viên.",
+   "ex_kit": true,
+   "example": {
+    "en": "We went to London by <b>coach</b>.",
+    "vi": "Chúng tôi đi <b>xe khách</b> đến London."
+   }
+  },
+  {
+   "word": "van",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/væn/",
+   "def_en": "A vehicle smaller than a lorry, for carrying goods.",
+   "def_vi": "Xe nhỏ hơn xe tải, chở hàng.",
+   "gloss_vi": "xe tải nhỏ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Van</i> (noun) = xe tải nhỏ. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "We hired a <b>van</b> to move house.",
+    "vi": "Chúng tôi thuê một <b>xe tải nhỏ</b> để chuyển nhà."
+   }
+  },
+  {
+   "word": "motorbike",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈməʊtəbaɪk/",
+   "def_en": "A vehicle with two wheels and an engine.",
+   "def_vi": "Xe hai bánh có động cơ.",
+   "gloss_vi": "xe máy",
+   "synonyms": "motorcycle <i>(n. xe mô tô)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Motorbike</i> (noun) = xe máy. <b>Grammar</b>: <i>ride a motorbike</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "My brother goes to work by <b>motorbike</b>.",
+    "vi": "Anh trai tôi đi làm bằng <b>xe máy</b>."
+   }
+  },
+  {
+   "word": "lorry",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlɒri/",
+   "def_en": "A large vehicle for carrying goods.",
+   "def_vi": "Xe lớn chở hàng.",
+   "gloss_vi": "xe tải",
+   "synonyms": "truck <i>(n. xe tải)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lorry</i> (noun) = xe tải. <b>Grammar</b>: Anh–Anh; số nhiều <i>lorries</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "A big <b>lorry</b> was blocking the road.",
+    "vi": "Một chiếc <b>xe tải</b> lớn chặn đường."
+   }
+  },
+  {
+   "word": "pilot",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpaɪlət/",
+   "def_en": "A person who flies a plane.",
+   "def_vi": "Người lái máy bay.",
+   "gloss_vi": "phi công",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pilot</i> (noun) = phi công. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>pilot</b> told us we were about to land.",
+    "vi": "<b>Phi công</b> thông báo chúng tôi sắp hạ cánh."
+   }
+  },
+  {
+   "word": "cyclist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsaɪklɪst/",
+   "def_en": "A person who rides a bicycle.",
+   "def_vi": "Người đi xe đạp.",
+   "gloss_vi": "người đi xe đạp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cyclist</i> (noun) = người đi xe đạp. <b>Grammar</b>: <i>cycle</i> (v.) → <i>cyclist</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "There are lots of <b>cyclists</b> in Amsterdam.",
+    "vi": "Có rất nhiều <b>người đi xe đạp</b> ở Amsterdam."
+   }
+  },
+  {
+   "word": "fare",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/feə(r)/",
+   "def_en": "The money you pay to travel by bus, train, taxi, etc.",
+   "def_vi": "Tiền trả để đi xe buýt, tàu, taxi…",
+   "gloss_vi": "giá vé, tiền xe",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fare</i> (noun) = giá vé, tiền xe. <b>Grammar</b>: <i>bus/train fare</i>; <i>airfare</i> (máy bay).",
+   "example": {
+    "en": "I got out of the taxi and almost walked away without paying the <b>fare</b>.",
+    "vi": "Tôi xuống taxi và suýt đi mất mà không trả <b>tiền xe</b>."
+   }
+  },
+  {
+   "word": "bus fare",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈbʌs feə(r)/",
+   "def_en": "The money you pay to travel by bus.",
+   "def_vi": "Tiền đi xe buýt.",
+   "gloss_vi": "giá vé xe buýt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bus fare</i> (noun phrase) = giá vé xe buýt. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "When the <b>bus fares</b> went up last month, my dad started cycling to work.",
+    "vi": "Khi <b>giá vé xe buýt</b> tăng tháng trước, bố tôi bắt đầu đạp xe đi làm."
+   }
+  },
+  {
+   "word": "airfare",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈeəfeə(r)/",
+   "def_en": "The money you pay to travel by plane.",
+   "def_vi": "Tiền vé máy bay.",
+   "gloss_vi": "giá vé máy bay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Airfare</i> (noun) = giá vé máy bay. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "If there are more flights, <b>airfares</b> should be cheaper.",
+    "vi": "Nếu có nhiều chuyến bay hơn, <b>giá vé máy bay</b> sẽ rẻ hơn."
+   }
+  },
+  {
+   "word": "go by bus",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ baɪ ˈbʌs/",
+   "def_en": "To travel by bus.",
+   "def_vi": "Đi lại bằng xe buýt.",
+   "gloss_vi": "đi bằng xe buýt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go by bus</i> (verb phrase) = đi bằng xe buýt. <b>Grammar</b>: <i>by bus/train/car/bike</i> (không có <i>the</i>); nhưng <i>on foot</i>.",
+   "example": {
+    "en": "I <b>go</b> to work <b>by bus</b>.",
+    "vi": "Tôi <b>đi</b> làm <b>bằng xe buýt</b>."
+   }
+  },
+  {
+   "word": "stop",
+   "sense": "bus",
+   "pos": "noun",
+   "ipa": "/stɒp/",
+   "def_en": "A place where a bus stops for passengers.",
+   "def_vi": "Chỗ xe buýt dừng đón khách.",
+   "gloss_vi": "trạm, điểm dừng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stop</i> (noun) = trạm, điểm dừng. <b>Grammar</b>: <i>bus stop</i>; <i>get off at the next stop</i>.",
+   "example": {
+    "en": "It’s only three <b>stops</b>.",
+    "vi": "Chỉ có ba <b>trạm</b> thôi."
+   }
+  },
+  {
+   "word": "get the train",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡet ðə ˈtreɪn/",
+   "def_en": "To travel by train.",
+   "def_vi": "Đi tàu.",
+   "gloss_vi": "đi tàu",
+   "synonyms": "catch the train <i>(vp. bắt tàu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get the train</i> (verb phrase) = đi tàu. <b>Grammar</b>: <i>get/catch the bus/train</i>.",
+   "example": {
+    "en": "We <b>got the train</b> to Cardiff, but the journey was terrible.",
+    "vi": "Chúng tôi <b>đi tàu</b> đến Cardiff, nhưng chuyến đi rất tệ."
+   }
+  },
+  {
+   "word": "journey",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdʒɜːni/",
+   "def_en": "Travelling from one place to another.",
+   "def_vi": "Việc đi từ nơi này đến nơi khác.",
+   "gloss_vi": "chuyến đi",
+   "synonyms": "trip <i>(n. chuyến đi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Journey</i> (noun) = chuyến đi. <b>Grammar</b>: <i>a good journey</i> (không nói <i>a good travel</i>).",
+   "example": {
+    "en": "We got the train to Cardiff, but the <b>journey</b> was terrible.",
+    "vi": "Chúng tôi đi tàu đến Cardiff, nhưng <b>chuyến đi</b> rất tệ."
+   }
+  },
+  {
+   "word": "cycle",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈsaɪkl/",
+   "def_en": "To ride a bicycle.",
+   "def_vi": "Đi xe đạp.",
+   "gloss_vi": "đạp xe",
+   "synonyms": "ride a bike <i>(vp. đi xe đạp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cycle</i> (verb) = đạp xe. <b>Grammar</b>: <i>cycle to work</i>.",
+   "example": {
+    "en": "My dad started <b>cycling</b> to work.",
+    "vi": "Bố tôi bắt đầu <b>đạp xe</b> đi làm."
+   }
+  },
+  {
+   "word": "get out of",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌɡet ˈaʊt əv/",
+   "def_en": "To leave a car or taxi.",
+   "def_vi": "Ra khỏi ô tô hay taxi.",
+   "gloss_vi": "xuống (xe con)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "get into <i>(pv. lên (xe con))</i>",
+   "grammar_vi": "<i>Get out of</i> (phrasal verb) = xuống (xe con). <b>Grammar</b>: xe con/taxi: <i>get in/out of</i>; xe buýt/tàu/máy bay: <i>get on/off</i>.",
+   "example": {
+    "en": "I <b>got out of</b> the taxi and almost walked away without paying the fare.",
+    "vi": "Tôi <b>xuống</b> taxi và suýt đi mất mà không trả tiền."
+   }
+  },
+  {
+   "word": "get on",
+   "sense": "bus",
+   "pos": "phrasal verb",
+   "ipa": "/ˌɡet ˈɒn/",
+   "def_en": "To enter a bus, train or plane.",
+   "def_vi": "Lên xe buýt, tàu hay máy bay.",
+   "gloss_vi": "lên (xe buýt, tàu)",
+   "synonyms": "board <i>(v. lên tàu xe)</i>",
+   "antonyms": "get off <i>(pv. xuống)</i>",
+   "grammar_vi": "<i>Get on</i> (phrasal verb) = lên (xe buýt, tàu). <b>Grammar</b>: <i>get on/off the bus/train/plane</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I <b>get on</b> the bus at the stop outside my house.",
+    "vi": "Tôi <b>lên</b> xe buýt ở trạm trước nhà."
+   }
+  },
+  {
+   "word": "flight",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/flaɪt/",
+   "def_en": "A journey by plane.",
+   "def_vi": "Chuyến đi bằng máy bay.",
+   "gloss_vi": "chuyến bay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flight</i> (noun) = chuyến bay. <b>Grammar</b>: <i>a flight to Paris</i>; <i>book a flight</i>.",
+   "example": {
+    "en": "If there are more <b>flights</b>, airfares should be cheaper.",
+    "vi": "Nếu có nhiều <b>chuyến bay</b> hơn, giá vé sẽ rẻ hơn."
+   }
+  },
+  {
+   "word": "fly",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/flaɪ/",
+   "def_en": "To travel by plane.",
+   "def_vi": "Đi bằng máy bay.",
+   "gloss_vi": "đi máy bay, bay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fly</i> (verb) = đi máy bay, bay. <b>Grammar</b>: <i>fly – flew – flown</i>.",
+   "example": {
+    "en": "We were going to get the train to Paris, but in the end we decided to <b>fly</b>.",
+    "vi": "Chúng tôi định đi tàu đến Paris, nhưng cuối cùng quyết định <b>đi máy bay</b>."
+   }
+  },
+  {
+   "word": "platform",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈplætfɔːm/",
+   "def_en": "The place in a station where you get on a train.",
+   "def_vi": "Chỗ ở ga để lên tàu.",
+   "gloss_vi": "sân ga",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Platform</i> (noun) = sân ga. <b>Grammar</b>: <i>on platform 4</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The train to Leeds leaves from <b>platform</b> 4.",
+    "vi": "Tàu đi Leeds khởi hành từ <b>sân ga</b> số 4."
+   }
+  },
+  {
+   "word": "taxi rank",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈtæksi ræŋk/",
+   "def_en": "A place where taxis wait for passengers.",
+   "def_vi": "Chỗ taxi đợi khách.",
+   "gloss_vi": "bến taxi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Taxi rank</i> (noun phrase) = bến taxi. <b>Grammar</b>: Anh–Anh; Mỹ <i>taxi stand</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "There’s a <b>taxi rank</b> outside the station.",
+    "vi": "Có một <b>bến taxi</b> ngoài nhà ga."
+   }
+  },
+  {
+   "word": "wait in a queue",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌweɪt ɪn ə ˈkjuː/",
+   "def_en": "To stand in a line.",
+   "def_vi": "Đứng xếp hàng.",
+   "gloss_vi": "xếp hàng chờ",
+   "synonyms": "queue <i>(v. xếp hàng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wait in a queue</i> (verb phrase) = xếp hàng chờ. <b>Grammar</b>: <i>wait in a queue / queue (up)</i>.",
+   "example": {
+    "en": "I often have to <b>wait in a queue</b> for about twenty minutes.",
+    "vi": "Tôi thường phải <b>xếp hàng chờ</b> khoảng hai mươi phút."
+   }
+  },
+  {
+   "word": "complain about",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/kəmˈpleɪn əbaʊt/",
+   "def_en": "To say you are unhappy or not satisfied with something.",
+   "def_vi": "Nói mình không hài lòng về điều gì.",
+   "gloss_vi": "phàn nàn về",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Complain about</i> (phrasal verb) = phàn nàn về. <b>Grammar</b>: <i>complain (to sb) about sth</i>. <b>Word family</b>: <i>complaint</i> (n.).",
+   "example": {
+    "en": "People are always <b>complaining about</b> the bus service.",
+    "vi": "Mọi người luôn <b>phàn nàn về</b> dịch vụ xe buýt."
+   }
+  },
+  {
+   "word": "round the corner",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌraʊnd ðə ˈkɔːnə(r)/",
+   "def_en": "Very near.",
+   "def_vi": "Rất gần.",
+   "gloss_vi": "ngay góc phố",
+   "synonyms": "nearby <i>(adv. gần đây)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Round the corner</i> (phrase) = ngay góc phố. <b>Grammar</b>: cũng <i>around the corner</i>.",
+   "example": {
+    "en": "I’ve got a bus stop <b>round the corner</b>.",
+    "vi": "Tôi có một trạm xe buýt <b>ngay góc phố</b>."
+   }
+  },
+  {
+   "word": "run",
+   "sense": "transport",
+   "pos": "verb",
+   "ipa": "/rʌn/",
+   "def_en": "(Of buses or trains) to travel on a regular route.",
+   "def_vi": "(Xe buýt, tàu) chạy theo tuyến thường xuyên.",
+   "gloss_vi": "chạy (tuyến)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Run</i> (verb) = chạy (tuyến). <b>Grammar</b>: <i>run every ten minutes / on time</i>.",
+   "example": {
+    "en": "Buses <b>run</b> every ten minutes for most of the day.",
+    "vi": "Xe buýt <b>chạy</b> mười phút một chuyến trong hầu hết cả ngày."
+   }
+  },
+  {
+   "word": "return",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˈtɜːn/",
+   "def_en": "A ticket for a journey to a place and back.",
+   "def_vi": "Vé đi một nơi và quay về.",
+   "gloss_vi": "vé khứ hồi",
+   "synonyms": "return ticket <i>(np. vé khứ hồi)</i>",
+   "antonyms": "single <i>(n. vé một chiều)</i>",
+   "grammar_vi": "<i>Return</i> (noun) = vé khứ hồi. <b>Grammar</b>: Anh–Anh; Mỹ <i>round trip</i>.",
+   "example": {
+    "en": "A <b>return</b> to London is forty pounds.",
+    "vi": "Vé <b>khứ hồi</b> đi London giá bốn mươi bảng."
+   }
+  },
+  {
+   "word": "season ticket",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈsiːzn ˌtɪkɪt/",
+   "def_en": "A ticket you can use many times within a period of time.",
+   "def_vi": "Vé dùng nhiều lần trong một khoảng thời gian.",
+   "gloss_vi": "vé tháng, vé dài hạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Season ticket</i> (noun phrase) = vé tháng, vé dài hạn. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "I’ve got a <b>season ticket</b>, and that makes it cheaper.",
+    "vi": "Tôi có <b>vé tháng</b>, và nó giúp rẻ hơn."
+   }
+  },
+  {
+   "word": "complaint",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəmˈpleɪnt/",
+   "def_en": "Something you say because you are unhappy with something.",
+   "def_vi": "Điều nói ra vì không hài lòng.",
+   "gloss_vi": "lời phàn nàn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Complaint</i> (noun) = lời phàn nàn. <b>Grammar</b>: <i>make a complaint</i>.",
+   "example": {
+    "en": "My only real <b>complaint</b> is that if I miss my train, I have to wait half an hour for the next one.",
+    "vi": "<b>Phàn nàn</b> thật sự duy nhất của tôi là nếu lỡ tàu, tôi phải chờ nửa tiếng."
+   }
+  },
+  {
+   "word": "miss",
+   "sense": "transport",
+   "pos": "verb",
+   "ipa": "/mɪs/",
+   "def_en": "Not to catch a train or bus.",
+   "def_vi": "Không bắt kịp tàu hay xe buýt.",
+   "gloss_vi": "lỡ, nhỡ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "catch <i>(v. bắt kịp)</i>",
+   "grammar_vi": "<i>Miss</i> (verb) = lỡ, nhỡ. <b>Grammar</b>: <i>miss the bus/train</i>. <b>Common mistakes</b>: cũng = nhớ (ai).",
+   "example": {
+    "en": "If I <b>miss</b> my train, I have to wait half an hour for the next one.",
+    "vi": "Nếu tôi <b>lỡ</b> tàu, tôi phải chờ nửa tiếng."
+   }
+  }
+ ]
+}
