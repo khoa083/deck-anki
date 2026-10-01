@@ -23,6 +23,7 @@
 | 12 | Int 11–15 | 77 mục / 154 thẻ + 5 note lý thuyết + 77 audio | build 1511 note / 2944 thẻ, 0 bad renders, audio 1086/1086 |
 | 13 | Int 16–20 | 81 mục / 162 thẻ + 5 note lý thuyết + 81 audio | build 1597 note / 3111 thẻ, 0 bad renders, audio 1167/1167 |
 | 14 | Int 21–25 | 70 mục / 140 thẻ + 5 note lý thuyết + 70 audio | build 1672 note / 3256 thẻ, 0 bad renders, audio 1237/1237 |
+| 15 | Int 26–30 | 61 mục / 122 thẻ + 5 note lý thuyết + 61 audio | build 1738 note / 3383 thẻ, 0 bad renders, audio 1298/1298 |
 
 ## Quyết định (xem PROMPT.md §3)
 D1 thứ tự Adv 16→60 → bổ sung demo → Int 1→70 · D2 IPA chuẩn Anh (config.ipa_style) · D3 1 deck gốc `English Phrasal Verbs in Use` → `Advanced`/`Intermediate` · D4 thẻ demo chỉ có ở bản 1: giữ + tag `EPV::demo_ban1` · D5 audio **bắt buộc**: Kokoro TTS offline, giọng Anh–Anh nam `bm_george` (sửa từ lượt 1c; trước đó để trống) · D6 chọn mục theo Mini dictionary + cụm in đậm.
@@ -186,7 +187,14 @@ D1 thứ tự Adv 16→60 → bổ sung demo → Int 1→70 · D2 IPA chuẩn An
 - Thêm `tools/copy12.py`: in các cụm ≥12 từ của lý thuyết trùng src để sửa nhanh cảnh báo §3.
 - Định nghĩa tiếng Anh: nhiều mục ngắn bị check báo ‘gần như chép Mini dictionary’ → viết lại toàn bộ theo lời kit (u21–u25).
 
+**Lượt 15 (Intermediate 26–30)**
+- Nghĩa mới của headword đã có thẻ → thẻ có `sense`: `pick up` (u2 đón / u26 khởi sắc / u29 nhấc lên), `give up` (u26 bỏ thói quen / u28 bỏ ngang), `take off` (u27 nổi đình đám), `keep up` (u23 tốc độ / u27 tiến bộ), `catch up` (u27 trình độ), `set out` (u4 / u28 lên đường), `break off` (u15 / u28 dừng việc), `cut down` (u17 ×2 / u28 cắt giảm), `stick with something` (u26, khác `stick with it` u19).
+- u29: `email back` (Mini 29) không có trên trang → không làm thẻ.
+- u30: OCR bảng mục A mất câu ví dụ → **bổ sung vào `src/int_u30.txt` mục “BỔ SUNG TỪ ẢNH TRANG”** (chép lại 3 câu từ ảnh trang 64) để collocation khớp nguồn. Áp dụng cách này cho các unit sau khi OCR mất chữ.
+- `tools/copy12.py` dùng chính tokenizer của `epv.py` (trước đó lệch thuật toán, bỏ sót đoạn trùng).
+
 ## Kiểm trôi
+- Lượt 15: soát Int 26–30 khi viết (ảnh trang + đáp án); viết lại câu bối cảnh tự đặt (u26 5 câu, u28 set out, u29 get down) và 1 đoạn lý thuyết u29 trùng 12 từ. Không phát hiện lệch nghĩa.
 - Lượt 14: soát Int 21–25 khi viết (ảnh trang + đáp án); context_score từng unit, viết lại câu bối cảnh tự đặt (u21 burst into/buy into/tidy away, u22 while away, u23 leftover/bygone/be left over, u25 set off ×2/pay back). Không phát hiện lệch nghĩa.
 - Lượt 13: soát Int 16–20 khi viết (ảnh trang + đáp án); context_score từng unit, viết lại câu bối cảnh tự đặt (u16 put on/count on/pass on, u17 load down/stay over/get over, u18 laze about/mess around/show around, u19 7 câu, u20 bite back); sửa 1 đoạn lý thuyết u20 trùng 13 từ với sách. Không phát hiện lệch nghĩa.
 - Lượt 12: soát Int 11–15 khi viết (ảnh trang + đáp án); context_score từng unit, viết lại các câu bối cảnh tự đặt (u12 take apart/aside, u13 use up, u14 spread out, u15 sell off/run off ×2/put off/off-putting). Không phát hiện lệch.
