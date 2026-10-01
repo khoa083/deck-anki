@@ -1,0 +1,408 @@
+{
+ "book": "ele",
+ "unit": 1,
+ "title_vi": "Gia đình",
+ "theory_html": "<p><b>A. Family words</b><br><i>A. Từ chỉ người trong gia đình</i></p> <p>A family tree of Anne and Ivan Sorokin shows their <b>relatives</b> (<b>relations</b>): parents and children, grandparents and grandchildren, uncles, aunts, nieces, nephews and cousins.</p><p><i>Cây gia phả nhà Anne và Ivan Sorokin cho thấy <b>họ hàng</b> của họ: bố mẹ và con cái, ông bà và cháu, chú bác cô dì, cháu trai cháu gái và anh chị em họ.</i></p> <ul><li><b>husband / wife</b>; <b>father / mother</b> (= <b>parents</b>); <b>son / daughter</b> (= <b>children</b>) – <i>chồng / vợ; bố / mẹ (= bố mẹ); con trai / con gái (= con cái)</i></li><li><b>brother / sister</b>; <b>grandfather / grandmother</b> (= <b>grandparents</b>); <b>grandson / granddaughter</b> – <i>anh em trai / chị em gái; ông / bà (= ông bà); cháu trai / cháu gái (của ông bà)</i></li><li><b>uncle / aunt</b>; <b>nephew / niece</b>; <b>cousin</b> – <i>chú, bác, cậu / cô, dì, bác gái; cháu trai / cháu gái (của chú bác); anh chị em họ</i></li></ul> <p><b>B. Expressions</b><br><i>B. Cách nói</i></p> <p>Asking about someone’s family: <b>Have you got any brothers and sisters?</b> – <b>No, I am an only child.</b> <b>Do you come from a big family?</b></p><p><i>Hỏi về gia đình ai đó: <b>Bạn có anh chị em không?</b> – <b>Không, mình là con một.</b> <b>Bạn có phải gia đình đông người không?</b></i></p> <p>Common mistake: say <b>my/his wife</b> (singular) but <b>our/their wives</b> (plural).</p><p><i>Lỗi thường gặp: nói <b>my/his wife</b> (số ít) nhưng <b>our/their wives</b> (số nhiều).</i></p>",
+ "items": [
+  {
+   "word": "relatives",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈrelətɪvz/",
+   "def_en": "The people who belong to your family, such as uncles, aunts and cousins.",
+   "def_vi": "Những người thuộc gia đình bạn, như chú bác, cô dì và anh chị em họ.",
+   "gloss_vi": "họ hàng",
+   "synonyms": "relations <i>(pn. họ hàng)</i>, family <i>(n. gia đình)</i>",
+   "antonyms": "strangers <i>(pn. người lạ)</i>",
+   "grammar_vi": "<i>Relatives</i> (plural noun) = họ hàng. <b>Grammar</b>: số ít <i>a relative</i>; thường đi với tính từ sở hữu <i>my/our relatives</i>. <b>Collocations / chunks</b>: <i>close relatives</i> (họ hàng gần), <i>visit relatives</i> (thăm họ hàng). <b>Word family</b>: <i>relative</i> (n.), <i>relation</i> (n.).",
+   "example": {
+    "en": "A family tree for some of Anne and Ivan Sorokin’s <b>relatives</b> or relations.",
+    "vi": "Cây gia phả cho thấy một số <b>họ hàng</b> của Anne và Ivan Sorokin."
+   }
+  },
+  {
+   "word": "relations",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/rɪˈleɪʃnz/",
+   "def_en": "Members of your family; another word for relatives.",
+   "def_vi": "Các thành viên trong gia đình; cách nói khác của relatives.",
+   "gloss_vi": "họ hàng",
+   "synonyms": "relatives <i>(pn. họ hàng)</i>, family members <i>(pn. thành viên gia đình)</i>",
+   "antonyms": "strangers <i>(pn. người lạ)</i>",
+   "grammar_vi": "<i>Relations</i> (plural noun) = họ hàng. <b>Grammar</b>: số ít <i>a relation</i>; nghĩa này luôn chỉ người trong gia đình. <b>Collocations / chunks</b>: <i>a close relation</i> (người họ hàng gần), <i>distant relations</i> (họ hàng xa). <b>Common mistakes</b>: đừng nhầm với <i>relations</i> = quan hệ (<i>business relations</i>).",
+   "example": {
+    "en": "A family tree for some of Anne and Ivan Sorokin’s relatives or <b>relations</b>.",
+    "vi": "Cây gia phả cho thấy một số họ hàng hay <b>bà con</b> của Anne và Ivan Sorokin."
+   }
+  },
+  {
+   "word": "children",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈtʃɪldrən/",
+   "def_en": "The sons and daughters of a mother and father.",
+   "def_vi": "Các con trai và con gái của bố mẹ.",
+   "gloss_vi": "con cái",
+   "synonyms": "kids <i>(pn. con cái (thân mật))</i>, sons and daughters <i>(pn. con trai và con gái)</i>",
+   "antonyms": "parents <i>(pn. bố mẹ)</i>",
+   "grammar_vi": "<i>Children</i> (plural noun) = con cái. <b>Grammar</b>: số nhiều bất quy tắc của <i>child</i> /tʃaɪld/; không thêm -s (<i>childrens</i> sai). <b>Collocations / chunks</b>: <i>have children</i> (có con), <i>our children</i> (các con chúng tôi). <b>Word family</b>: <i>child</i> (n.), <i>childhood</i> (n.).",
+   "example": {
+    "en": "Ivan and Anne and their <b>children</b>",
+    "vi": "Ivan, Anne và <b>các con</b> của họ."
+   }
+  },
+  {
+   "word": "husband",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhʌzbənd/",
+   "def_en": "The man that a woman is married to.",
+   "def_vi": "Người đàn ông mà một người phụ nữ kết hôn cùng.",
+   "gloss_vi": "chồng",
+   "synonyms": "spouse <i>(n. vợ/chồng)</i>, partner <i>(n. người bạn đời)</i>",
+   "antonyms": "wife <i>(n. vợ)</i>",
+   "grammar_vi": "<i>Husband</i> (noun) = chồng. <b>Grammar</b>: danh từ đếm được; dùng với sở hữu cách <i>Anne’s husband</i>. <b>Collocations / chunks</b>: <i>her husband</i> (chồng cô ấy), <i>ex-husband</i> (chồng cũ).",
+   "example": {
+    "en": "Ivan is Anne’s <b>husband</b> and Karen and Jack’s father.",
+    "vi": "Ivan là <b>chồng</b> của Anne và là bố của Karen và Jack."
+   }
+  },
+  {
+   "word": "father",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfɑːðə(r)/",
+   "def_en": "Your male parent.",
+   "def_vi": "Người cha của bạn.",
+   "gloss_vi": "bố, cha",
+   "synonyms": "dad <i>(n. bố (thân mật))</i>, parent <i>(n. cha mẹ)</i>",
+   "antonyms": "mother <i>(n. mẹ)</i>",
+   "grammar_vi": "<i>Father</i> (noun) = bố, cha. <b>Grammar</b>: <i>Karen and Jack’s father</i> – sở hữu cách đặt sau tên cuối khi hai người cùng một bố. <b>Collocations / chunks</b>: <i>my father</i> (bố tôi), <i>a father of two</i> (bố của hai đứa con). <b>Word family</b>: <i>fatherhood</i> (n.), <i>grandfather</i> (n.).",
+   "example": {
+    "en": "Ivan is Anne’s husband and Karen and Jack’s <b>father</b>.",
+    "vi": "Ivan là chồng của Anne và là <b>bố</b> của Karen và Jack."
+   }
+  },
+  {
+   "word": "wife",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/waɪf/",
+   "def_en": "The woman that a man is married to.",
+   "def_vi": "Người phụ nữ mà một người đàn ông kết hôn cùng.",
+   "gloss_vi": "vợ",
+   "synonyms": "spouse <i>(n. vợ/chồng)</i>, partner <i>(n. người bạn đời)</i>",
+   "antonyms": "husband <i>(n. chồng)</i>",
+   "grammar_vi": "<i>Wife</i> (noun) = vợ. <b>Grammar</b>: số nhiều bất quy tắc <i>wives</i> /waɪvz/: <i>my wife</i> nhưng <i>their wives</i>. <b>Collocations / chunks</b>: <i>his wife</i> (vợ anh ấy), <i>ex-wife</i> (vợ cũ). <b>Common mistakes</b>: viết <i>wifes</i> là sai.",
+   "example": {
+    "en": "Anne is Ivan’s <b>wife</b> and Karen and Jack’s mother.",
+    "vi": "Anne là <b>vợ</b> của Ivan và là mẹ của Karen và Jack."
+   }
+  },
+  {
+   "word": "mother",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmʌðə(r)/",
+   "def_en": "Your female parent.",
+   "def_vi": "Người mẹ của bạn.",
+   "gloss_vi": "mẹ",
+   "synonyms": "mum <i>(n. mẹ (thân mật))</i>, parent <i>(n. cha mẹ)</i>",
+   "antonyms": "father <i>(n. bố)</i>",
+   "grammar_vi": "<i>Mother</i> (noun) = mẹ. <b>Grammar</b>: danh từ đếm được; <i>Karen and Jack’s mother</i>. <b>Collocations / chunks</b>: <i>my mother</i> (mẹ tôi), <i>a mother of three</i> (mẹ của ba đứa con). <b>Word family</b>: <i>motherhood</i> (n.), <i>grandmother</i> (n.).",
+   "example": {
+    "en": "Anne is Ivan’s wife and Karen and Jack’s <b>mother</b>.",
+    "vi": "Anne là vợ của Ivan và là <b>mẹ</b> của Karen và Jack."
+   }
+  },
+  {
+   "word": "parents",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈpeərənts/",
+   "def_en": "Your mother and father.",
+   "def_vi": "Bố và mẹ của bạn.",
+   "gloss_vi": "bố mẹ",
+   "synonyms": "mother and father <i>(np. cha mẹ)</i>, folks <i>(pn. bố mẹ (thân mật))</i>",
+   "antonyms": "children <i>(pn. con cái)</i>",
+   "grammar_vi": "<i>Parents</i> (plural noun) = bố mẹ. <b>Grammar</b>: số ít <i>a parent</i> = bố hoặc mẹ. <b>Collocations / chunks</b>: <i>my parents</i> (bố mẹ tôi), <i>live with your parents</i> (sống với bố mẹ). <b>Word family</b>: <i>parent</i> (n.), <i>grandparents</i> (n.).",
+   "example": {
+    "en": "Anne and Ivan are Karen and Jack’s <b>parents</b>.",
+    "vi": "Anne và Ivan là <b>bố mẹ</b> của Karen và Jack."
+   }
+  },
+  {
+   "word": "daughter",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdɔːtə(r)/",
+   "def_en": "Your female child.",
+   "def_vi": "Con gái của bạn.",
+   "gloss_vi": "con gái",
+   "synonyms": "girl <i>(n. con gái)</i>, child <i>(n. con)</i>",
+   "antonyms": "son <i>(n. con trai)</i>",
+   "grammar_vi": "<i>Daughter</i> (noun) = con gái. <b>Grammar</b>: danh từ đếm được; <i>Anne and Ivan’s daughter</i>. <b>Collocations / chunks</b>: <i>their daughter</i> (con gái họ), <i>only daughter</i> (con gái duy nhất). <b>Word family</b>: <i>granddaughter</i> (n.), <i>daughter-in-law</i> (n.).",
+   "example": {
+    "en": "Karen is Anne and Ivan’s <b>daughter</b>.",
+    "vi": "Karen là <b>con gái</b> của Anne và Ivan."
+   }
+  },
+  {
+   "word": "son",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/sʌn/",
+   "def_en": "Your male child.",
+   "def_vi": "Con trai của bạn.",
+   "gloss_vi": "con trai",
+   "synonyms": "boy <i>(n. con trai)</i>, child <i>(n. con)</i>",
+   "antonyms": "daughter <i>(n. con gái)</i>",
+   "grammar_vi": "<i>Son</i> (noun) = con trai. <b>Grammar</b>: danh từ đếm được; đọc giống <i>sun</i> /sʌn/. <b>Collocations / chunks</b>: <i>their son</i> (con trai họ), <i>eldest son</i> (con trai cả). <b>Word family</b>: <i>grandson</i> (n.), <i>son-in-law</i> (n.).",
+   "example": {
+    "en": "Jack is their <b>son</b>.",
+    "vi": "Karen là con gái của Anne và Ivan. Jack là <b>con trai</b> của họ."
+   }
+  },
+  {
+   "word": "sister",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɪstə(r)/",
+   "def_en": "A girl or woman who has the same parents as you.",
+   "def_vi": "Con gái hoặc phụ nữ có cùng bố mẹ với bạn.",
+   "gloss_vi": "chị gái, em gái",
+   "synonyms": "sibling <i>(n. anh chị em ruột)</i>",
+   "antonyms": "brother <i>(n. anh/em trai)</i>",
+   "grammar_vi": "<i>Sister</i> (noun) = chị gái, em gái. <b>Grammar</b>: tiếng Anh không phân biệt chị hay em; thêm <i>older/younger</i> khi cần. <b>Collocations / chunks</b>: <i>older sister</i> (chị gái), <i>younger sister</i> (em gái). <b>Word family</b>: <i>sister-in-law</i> (n.).",
+   "example": {
+    "en": "Karen is Jack’s <b>sister</b>.",
+    "vi": "Karen là <b>chị</b> của Jack."
+   }
+  },
+  {
+   "word": "brother",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbrʌðə(r)/",
+   "def_en": "A boy or man who has the same parents as you.",
+   "def_vi": "Con trai hoặc đàn ông có cùng bố mẹ với bạn.",
+   "gloss_vi": "anh trai, em trai",
+   "synonyms": "sibling <i>(n. anh chị em ruột)</i>",
+   "antonyms": "sister <i>(n. chị/em gái)</i>",
+   "grammar_vi": "<i>Brother</i> (noun) = anh trai, em trai. <b>Grammar</b>: không phân biệt anh hay em; thêm <i>older/younger</i>. <b>Collocations / chunks</b>: <i>brothers and sisters</i> (anh chị em), <i>big brother</i> (anh trai). <b>Word family</b>: <i>brother-in-law</i> (n.).",
+   "example": {
+    "en": "Jack is Karen’s <b>brother</b>.",
+    "vi": "Jack là <b>em trai</b> của Karen."
+   }
+  },
+  {
+   "word": "grandfather",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡrænfɑːðə(r)/",
+   "def_en": "The father of your father or mother.",
+   "def_vi": "Bố của bố hoặc mẹ bạn.",
+   "gloss_vi": "ông",
+   "synonyms": "grandad <i>(n. ông (thân mật))</i>, grandpa <i>(n. ông (thân mật))</i>",
+   "antonyms": "grandmother <i>(n. bà)</i>",
+   "grammar_vi": "<i>Grandfather</i> (noun) = ông. <b>Grammar</b>: danh từ đếm được; chữ <i>d</i> thường không đọc /ˈɡrænfɑːðə/. <b>Collocations / chunks</b>: <i>my grandfather</i> (ông tôi). <b>Word family</b>: <i>grandparents</i> (n.), <i>great-grandfather</i> (n.).",
+   "example": {
+    "en": "Henry is Karen and Jack’s <b>grandfather</b>.",
+    "vi": "Henry là <b>ông</b> của Karen và Jack."
+   }
+  },
+  {
+   "word": "grandmother",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡrænmʌðə(r)/",
+   "def_en": "The mother of your father or mother.",
+   "def_vi": "Mẹ của bố hoặc mẹ bạn.",
+   "gloss_vi": "bà",
+   "synonyms": "grandma <i>(n. bà (thân mật))</i>, granny <i>(n. bà (thân mật))</i>",
+   "antonyms": "grandfather <i>(n. ông)</i>",
+   "grammar_vi": "<i>Grandmother</i> (noun) = bà. <b>Grammar</b>: danh từ đếm được. <b>Collocations / chunks</b>: <i>my grandmother</i> (bà tôi), <i>visit your grandmother</i> (thăm bà). <b>Word family</b>: <i>grandparents</i> (n.), <i>great-grandmother</i> (n.).",
+   "example": {
+    "en": "Diana is their <b>grandmother</b>.",
+    "vi": "Henry là ông của Karen và Jack. Diana là <b>bà</b> của họ."
+   }
+  },
+  {
+   "word": "grandparents",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈɡrænpeərənts/",
+   "def_en": "The parents of your mother or father.",
+   "def_vi": "Bố mẹ của bố hoặc mẹ bạn.",
+   "gloss_vi": "ông bà",
+   "synonyms": "grandfather and grandmother <i>(np. ông và bà)</i>",
+   "antonyms": "grandchildren <i>(pn. các cháu)</i>",
+   "grammar_vi": "<i>Grandparents</i> (plural noun) = ông bà. <b>Grammar</b>: số ít <i>a grandparent</i>. <b>Collocations / chunks</b>: <i>visit your grandparents</i> (thăm ông bà), <i>live with my grandparents</i> (sống với ông bà). <b>Word family</b>: <i>grandchild</i> (n.), <i>grandchildren</i> (pn.).",
+   "example": {
+    "en": "Henry and Diana are Karen and Jack’s <b>grandparents</b>.",
+    "vi": "Henry và Diana là <b>ông bà</b> của Karen và Jack."
+   }
+  },
+  {
+   "word": "granddaughter",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡrændɔːtə(r)/",
+   "def_en": "The daughter of your son or daughter.",
+   "def_vi": "Con gái của con trai hoặc con gái bạn.",
+   "gloss_vi": "cháu gái (của ông bà)",
+   "synonyms": "grandchild <i>(n. cháu)</i>",
+   "antonyms": "grandson <i>(n. cháu trai)</i>",
+   "grammar_vi": "<i>Granddaughter</i> (noun) = cháu gái (của ông bà). <b>Grammar</b>: danh từ đếm được; dùng cho ông bà, khác <i>niece</i> (cháu của chú bác). <b>Collocations / chunks</b>: <i>our granddaughter</i> (cháu gái chúng tôi). <b>Word family</b>: <i>grandchild</i> (n.).",
+   "example": {
+    "en": "Karen is Henry and Diana’s <b>granddaughter</b>.",
+    "vi": "Karen là <b>cháu gái</b> của Henry và Diana."
+   }
+  },
+  {
+   "word": "grandson",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡrænsʌn/",
+   "def_en": "The son of your son or daughter.",
+   "def_vi": "Con trai của con trai hoặc con gái bạn.",
+   "gloss_vi": "cháu trai (của ông bà)",
+   "synonyms": "grandchild <i>(n. cháu)</i>",
+   "antonyms": "granddaughter <i>(n. cháu gái)</i>",
+   "grammar_vi": "<i>Grandson</i> (noun) = cháu trai (của ông bà). <b>Grammar</b>: danh từ đếm được; khác <i>nephew</i> (cháu của chú bác). <b>Collocations / chunks</b>: <i>their grandson</i> (cháu trai họ). <b>Word family</b>: <i>grandchildren</i> (pn.).",
+   "example": {
+    "en": "Jack is their <b>grandson</b>.",
+    "vi": "Karen là cháu gái của Henry và Diana. Jack là <b>cháu trai</b> của họ."
+   }
+  },
+  {
+   "word": "uncle",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈʌŋkl/",
+   "def_en": "The brother of your mother or father, or the husband of your aunt.",
+   "def_vi": "Anh em trai của bố hoặc mẹ bạn, hoặc chồng của cô dì.",
+   "gloss_vi": "chú, bác, cậu, dượng",
+   "synonyms": "relative <i>(n. họ hàng)</i>",
+   "antonyms": "aunt <i>(n. cô, dì)</i>",
+   "grammar_vi": "<i>Uncle</i> (noun) = chú, bác, cậu, dượng. <b>Grammar</b>: một từ cho cả chú, bác, cậu, dượng; dùng trước tên: <i>Uncle George</i>. <b>Collocations / chunks</b>: <i>my uncle</i> (chú tôi). <b>Word family</b>: <i>great-uncle</i> (n.).",
+   "example": {
+    "en": "George is Karen and Jack’s <b>uncle</b>.",
+    "vi": "George là <b>chú</b> của Karen và Jack."
+   }
+  },
+  {
+   "word": "aunt",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɑːnt/",
+   "def_en": "The sister of your mother or father, or the wife of your uncle.",
+   "def_vi": "Chị em gái của bố hoặc mẹ bạn, hoặc vợ của chú bác.",
+   "gloss_vi": "cô, dì, bác gái, thím, mợ",
+   "synonyms": "auntie <i>(n. cô, dì (thân mật))</i>, relative <i>(n. họ hàng)</i>",
+   "antonyms": "uncle <i>(n. chú, bác)</i>",
+   "grammar_vi": "<i>Aunt</i> (noun) = cô, dì, bác gái, thím, mợ. <b>Grammar</b>: một từ cho cô, dì, thím, mợ, bác gái; trước tên: <i>Aunt Amelia</i>. <b>Collocations / chunks</b>: <i>my aunt</i> (cô tôi). <b>Common mistakes</b>: Anh–Anh đọc /ɑːnt/, Anh–Mỹ đọc /ænt/.",
+   "example": {
+    "en": "Amelia and Meena are Karen and Jack’s <b>aunts</b>.",
+    "vi": "Amelia và Meena là <b>cô</b> của Karen và Jack."
+   }
+  },
+  {
+   "word": "niece",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/niːs/",
+   "def_en": "The daughter of your brother or sister.",
+   "def_vi": "Con gái của anh chị em bạn.",
+   "gloss_vi": "cháu gái (của chú bác, cô dì)",
+   "synonyms": "relative <i>(n. họ hàng)</i>",
+   "antonyms": "nephew <i>(n. cháu trai)</i>",
+   "grammar_vi": "<i>Niece</i> (noun) = cháu gái (của chú bác, cô dì). <b>Grammar</b>: danh từ đếm được; khác <i>granddaughter</i> (cháu của ông bà). <b>Collocations / chunks</b>: <i>my niece</i> (cháu gái tôi). <b>Common mistakes</b>: đừng nhầm cách viết với <i>nice</i> /naɪs/.",
+   "example": {
+    "en": "Karen is Amelia, George and Meena’s <b>niece</b>.",
+    "vi": "Karen là <b>cháu gái</b> của Amelia, George và Meena."
+   }
+  },
+  {
+   "word": "nephew",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈnefjuː/",
+   "def_en": "The son of your brother or sister.",
+   "def_vi": "Con trai của anh chị em bạn.",
+   "gloss_vi": "cháu trai (của chú bác, cô dì)",
+   "synonyms": "relative <i>(n. họ hàng)</i>",
+   "antonyms": "niece <i>(n. cháu gái)</i>",
+   "grammar_vi": "<i>Nephew</i> (noun) = cháu trai (của chú bác, cô dì). <b>Grammar</b>: danh từ đếm được; khác <i>grandson</i> (cháu của ông bà). <b>Collocations / chunks</b>: <i>my nephew</i> (cháu trai tôi). <b>Common mistakes</b>: Anh–Anh hay đọc /ˈnefjuː/, cũng có /ˈnevjuː/.",
+   "example": {
+    "en": "Jack is their <b>nephew</b>.",
+    "vi": "Karen là cháu gái của Amelia, George và Meena. Jack là <b>cháu trai</b> của họ."
+   }
+  },
+  {
+   "word": "cousins",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈkʌznz/",
+   "def_en": "The children of your uncle or aunt.",
+   "def_vi": "Con của chú bác, cô dì bạn.",
+   "gloss_vi": "anh chị em họ",
+   "synonyms": "relatives <i>(pn. họ hàng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cousins</i> (plural noun) = anh chị em họ. <b>Grammar</b>: số ít <i>a cousin</i>; một từ cho cả nam và nữ. <b>Collocations / chunks</b>: <i>first cousin</i> (anh chị em họ đời thứ nhất). <b>Common mistakes</b>: <i>ou</i> đọc /ʌ/ như trong <i>cup</i>.",
+   "example": {
+    "en": "Kavita and Ravi are Karen and Jack’s <b>cousins</b>.",
+    "vi": "Kavita và Ravi là <b>anh chị em họ</b> của Karen và Jack."
+   }
+  },
+  {
+   "word": "Have you got any brothers and sisters?",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/hæv ju ɡɒt ˈeni ˈbrʌðəz ən ˈsɪstəz/",
+   "def_en": "A question used to ask whether someone has brothers or sisters.",
+   "def_vi": "Câu hỏi xem ai đó có anh chị em ruột không.",
+   "gloss_vi": "bạn có anh chị em không?",
+   "synonyms": "Do you have any brothers or sisters? <i>(phr. bạn có anh chị em không?)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have you got any brothers and sisters?</i> (phrase) = bạn có anh chị em không?. <b>Grammar</b>: <i>have got</i> (Anh–Anh) = <i>have</i>; câu hỏi đảo <i>Have you got…?</i>. <b>Collocations / chunks</b>: trả lời <i>Yes, I’ve got one brother.</i> hoặc <i>No, I’m an only child.</i>. <b>Register</b>: thân mật, dùng khi nói chuyện.",
+   "example": {
+    "en": "<b>Have you got any brothers and sisters</b>?",
+    "vi": "<b>Bạn có anh chị em không?</b>"
+   }
+  },
+  {
+   "word": "an only child",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ən ˌəʊnli ˈtʃaɪld/",
+   "def_en": "A child who has no brothers or sisters.",
+   "def_vi": "Đứa trẻ không có anh chị em.",
+   "gloss_vi": "con một",
+   "synonyms": "single child <i>(np. con một)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>An only child</i> (noun phrase) = con một. <b>Grammar</b>: luôn có mạo từ <i>an</i>: <i>I am an only child</i>. <b>Collocations / chunks</b>: <i>grow up as an only child</i> (lớn lên là con một). <b>Common mistakes</b>: không nói <i>a only child</i>.",
+   "example": {
+    "en": "No, I am <b>an only child</b>.",
+    "vi": "Không, mình là <b>con một</b>."
+   }
+  },
+  {
+   "word": "Do you come from a big family?",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/də ju ˌkʌm frəm ə ˌbɪɡ ˈfæməli/",
+   "def_en": "A question used to ask whether someone’s family has many people.",
+   "def_vi": "Câu hỏi xem gia đình ai đó có đông người không.",
+   "gloss_vi": "nhà bạn có đông người không?",
+   "synonyms": "Is your family big? <i>(phr. nhà bạn đông không?)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Do you come from a big family?</i> (phrase) = nhà bạn có đông người không?. <b>Grammar</b>: <i>come from</i> + gia đình/quê; thì hiện tại đơn. <b>Collocations / chunks</b>: <i>a big family</i> (gia đình đông), <i>a small family</i> (gia đình ít người).",
+   "example": {
+    "en": "<b>Do you come from a big family</b>?",
+    "vi": "<b>Nhà bạn có đông người không?</b>"
+   }
+  }
+ ]
+}

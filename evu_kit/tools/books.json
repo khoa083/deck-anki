@@ -1,0 +1,1556 @@
+{
+ "ele": {
+  "title": "English Vocabulary in Use Elementary (3rd ed.)",
+  "root": "English Vocabulary In Use (Elementary)",
+  "sections": [
+   [
+    1,
+    9,
+    "People",
+    "Con người"
+   ],
+   [
+    10,
+    13,
+    "At home",
+    "Ở nhà"
+   ],
+   [
+    14,
+    17,
+    "School and workplace",
+    "Trường học và nơi làm việc"
+   ],
+   [
+    18,
+    26,
+    "Leisure",
+    "Giải trí"
+   ],
+   [
+    27,
+    33,
+    "The world",
+    "Thế giới"
+   ],
+   [
+    34,
+    37,
+    "Social issues",
+    "Vấn đề xã hội"
+   ],
+   [
+    38,
+    49,
+    "Everyday verbs",
+    "Động từ thông dụng"
+   ],
+   [
+    50,
+    60,
+    "Words and grammar",
+    "Từ và ngữ pháp"
+   ]
+  ],
+  "units": {
+   "1": {
+    "en": "The family",
+    "vi": "",
+    "page": 8
+   },
+   "2": {
+    "en": "Birth, marriage and death",
+    "vi": "",
+    "page": 10
+   },
+   "3": {
+    "en": "Parts of the body",
+    "vi": "",
+    "page": 12
+   },
+   "4": {
+    "en": "Clothes",
+    "vi": "",
+    "page": 14
+   },
+   "5": {
+    "en": "Describing people",
+    "vi": "",
+    "page": 16
+   },
+   "6": {
+    "en": "Health and illness",
+    "vi": "",
+    "page": 18
+   },
+   "7": {
+    "en": "Feelings",
+    "vi": "",
+    "page": 20
+   },
+   "8": {
+    "en": "Conversations 1: Greetings and wishes",
+    "vi": "",
+    "page": 22
+   },
+   "9": {
+    "en": "Conversations 2: Useful words and expressions",
+    "vi": "",
+    "page": 24
+   },
+   "10": {
+    "en": "Food and drink",
+    "vi": "",
+    "page": 26
+   },
+   "11": {
+    "en": "In the kitchen",
+    "vi": "",
+    "page": 28
+   },
+   "12": {
+    "en": "In the bedroom and bathroom",
+    "vi": "",
+    "page": 30
+   },
+   "13": {
+    "en": "In the living room",
+    "vi": "",
+    "page": 32
+   },
+   "14": {
+    "en": "Jobs",
+    "vi": "",
+    "page": 34
+   },
+   "15": {
+    "en": "At school and university",
+    "vi": "",
+    "page": 36
+   },
+   "16": {
+    "en": "Communications",
+    "vi": "",
+    "page": 38
+   },
+   "17": {
+    "en": "Your phone",
+    "vi": "",
+    "page": 40
+   },
+   "18": {
+    "en": "Holidays",
+    "vi": "",
+    "page": 42
+   },
+   "19": {
+    "en": "Shops and shopping",
+    "vi": "",
+    "page": 44
+   },
+   "20": {
+    "en": "Online shopping",
+    "vi": "",
+    "page": 46
+   },
+   "21": {
+    "en": "In a hotel",
+    "vi": "",
+    "page": 48
+   },
+   "22": {
+    "en": "Eating out",
+    "vi": "",
+    "page": 50
+   },
+   "23": {
+    "en": "Sports",
+    "vi": "",
+    "page": 52
+   },
+   "24": {
+    "en": "Cinema",
+    "vi": "",
+    "page": 54
+   },
+   "25": {
+    "en": "Free time at home",
+    "vi": "",
+    "page": 56
+   },
+   "26": {
+    "en": "Music and musical instruments",
+    "vi": "",
+    "page": 58
+   },
+   "27": {
+    "en": "Countries and nationalities",
+    "vi": "",
+    "page": 60
+   },
+   "28": {
+    "en": "Weather",
+    "vi": "",
+    "page": 62
+   },
+   "29": {
+    "en": "In the town",
+    "vi": "",
+    "page": 64
+   },
+   "30": {
+    "en": "In the countryside",
+    "vi": "",
+    "page": 66
+   },
+   "31": {
+    "en": "Animals",
+    "vi": "",
+    "page": 68
+   },
+   "32": {
+    "en": "Travelling",
+    "vi": "",
+    "page": 70
+   },
+   "33": {
+    "en": "UK culture",
+    "vi": "",
+    "page": 72
+   },
+   "34": {
+    "en": "Crime",
+    "vi": "",
+    "page": 74
+   },
+   "35": {
+    "en": "The media",
+    "vi": "",
+    "page": 76
+   },
+   "36": {
+    "en": "Problems at home and work",
+    "vi": "",
+    "page": 78
+   },
+   "37": {
+    "en": "Global problems",
+    "vi": "",
+    "page": 80
+   },
+   "38": {
+    "en": "Have / had / had",
+    "vi": "",
+    "page": 82
+   },
+   "39": {
+    "en": "Go / went / gone",
+    "vi": "",
+    "page": 84
+   },
+   "40": {
+    "en": "Do / did / done",
+    "vi": "",
+    "page": 86
+   },
+   "41": {
+    "en": "Make / made / made",
+    "vi": "",
+    "page": 88
+   },
+   "42": {
+    "en": "Come / came / come",
+    "vi": "",
+    "page": 90
+   },
+   "43": {
+    "en": "Take / took / taken",
+    "vi": "",
+    "page": 92
+   },
+   "44": {
+    "en": "Bring / brought / brought",
+    "vi": "",
+    "page": 94
+   },
+   "45": {
+    "en": "Get / got / got",
+    "vi": "",
+    "page": 96
+   },
+   "46": {
+    "en": "Phrasal verbs",
+    "vi": "",
+    "page": 98
+   },
+   "47": {
+    "en": "Everyday things",
+    "vi": "",
+    "page": 100
+   },
+   "48": {
+    "en": "Talking",
+    "vi": "",
+    "page": 102
+   },
+   "49": {
+    "en": "Moving",
+    "vi": "",
+    "page": 104
+   },
+   "50": {
+    "en": "Conjunctions and connecting words",
+    "vi": "",
+    "page": 106
+   },
+   "51": {
+    "en": "Days, months, seasons",
+    "vi": "",
+    "page": 108
+   },
+   "52": {
+    "en": "Time words",
+    "vi": "",
+    "page": 110
+   },
+   "53": {
+    "en": "Places",
+    "vi": "",
+    "page": 112
+   },
+   "54": {
+    "en": "Manner",
+    "vi": "",
+    "page": 114
+   },
+   "55": {
+    "en": "Common uncountable nouns",
+    "vi": "",
+    "page": 116
+   },
+   "56": {
+    "en": "Common adjectives: Good and bad things",
+    "vi": "",
+    "page": 118
+   },
+   "57": {
+    "en": "Words and prepositions",
+    "vi": "",
+    "page": 120
+   },
+   "58": {
+    "en": "Prefixes",
+    "vi": "",
+    "page": 122
+   },
+   "59": {
+    "en": "Suffixes",
+    "vi": "",
+    "page": 124
+   },
+   "60": {
+    "en": "Words you may confuse",
+    "vi": "",
+    "page": 126
+   }
+  }
+ },
+ "pre": {
+  "title": "English Vocabulary in Use Pre-intermediate and Intermediate (4th ed.)",
+  "root": "English Vocabulary In Use (Pre-Intermediate and Intermediate)",
+  "sections": [
+   [
+    1,
+    4,
+    "Learning",
+    "Học tập"
+   ],
+   [
+    5,
+    8,
+    "The world around us",
+    "Thế giới quanh ta"
+   ],
+   [
+    9,
+    15,
+    "People",
+    "Con người"
+   ],
+   [
+    16,
+    30,
+    "Daily life",
+    "Cuộc sống hằng ngày"
+   ],
+   [
+    31,
+    34,
+    "Education and study",
+    "Giáo dục và học tập"
+   ],
+   [
+    35,
+    40,
+    "Work and business",
+    "Công việc và kinh doanh"
+   ],
+   [
+    41,
+    45,
+    "Leisure and entertainment",
+    "Giải trí"
+   ],
+   [
+    46,
+    51,
+    "Tourism",
+    "Du lịch"
+   ],
+   [
+    52,
+    55,
+    "Communication and technology",
+    "Giao tiếp và công nghệ"
+   ],
+   [
+    56,
+    59,
+    "Social issues",
+    "Vấn đề xã hội"
+   ],
+   [
+    60,
+    64,
+    "Concepts",
+    "Khái niệm"
+   ],
+   [
+    65,
+    69,
+    "Functional language",
+    "Ngôn ngữ chức năng"
+   ],
+   [
+    70,
+    73,
+    "Word formation",
+    "Cấu tạo từ"
+   ],
+   [
+    74,
+    80,
+    "Phrase building",
+    "Tạo cụm từ"
+   ],
+   [
+    81,
+    85,
+    "Key verbs",
+    "Động từ then chốt"
+   ],
+   [
+    86,
+    91,
+    "Words and grammar",
+    "Từ và ngữ pháp"
+   ],
+   [
+    92,
+    94,
+    "Connecting and linking",
+    "Nối và liên kết"
+   ],
+   [
+    95,
+    100,
+    "Style and register",
+    "Văn phong và sắc thái"
+   ]
+  ],
+  "units": {
+   "1": {
+    "en": "Learning vocabulary",
+    "vi": "",
+    "page": 8
+   },
+   "2": {
+    "en": "Keeping a vocabulary notebook",
+    "vi": "",
+    "page": 10
+   },
+   "3": {
+    "en": "Using a dictionary",
+    "vi": "",
+    "page": 12
+   },
+   "4": {
+    "en": "English language words",
+    "vi": "",
+    "page": 14
+   },
+   "5": {
+    "en": "Country, nationality and language",
+    "vi": "",
+    "page": 16
+   },
+   "6": {
+    "en": "The physical world",
+    "vi": "",
+    "page": 18
+   },
+   "7": {
+    "en": "Weather",
+    "vi": "",
+    "page": 20
+   },
+   "8": {
+    "en": "Animals and insects",
+    "vi": "",
+    "page": 22
+   },
+   "9": {
+    "en": "The body and movement",
+    "vi": "",
+    "page": 24
+   },
+   "10": {
+    "en": "Describing appearance",
+    "vi": "",
+    "page": 26
+   },
+   "11": {
+    "en": "Describing character",
+    "vi": "",
+    "page": 28
+   },
+   "12": {
+    "en": "Feelings",
+    "vi": "",
+    "page": 30
+   },
+   "13": {
+    "en": "Family and friends",
+    "vi": "",
+    "page": 32
+   },
+   "14": {
+    "en": "Growing up",
+    "vi": "",
+    "page": 34
+   },
+   "15": {
+    "en": "Romance, marriage and divorce",
+    "vi": "",
+    "page": 36
+   },
+   "16": {
+    "en": "Daily routines",
+    "vi": "",
+    "page": 38
+   },
+   "17": {
+    "en": "The place where you live",
+    "vi": "",
+    "page": 40
+   },
+   "18": {
+    "en": "Around the home",
+    "vi": "",
+    "page": 42
+   },
+   "19": {
+    "en": "Money",
+    "vi": "",
+    "page": 44
+   },
+   "20": {
+    "en": "Health",
+    "vi": "",
+    "page": 46
+   },
+   "21": {
+    "en": "Clothes",
+    "vi": "",
+    "page": 48
+   },
+   "22": {
+    "en": "Fashion and buying clothes",
+    "vi": "",
+    "page": 50
+   },
+   "23": {
+    "en": "Shopping",
+    "vi": "",
+    "page": 52
+   },
+   "24": {
+    "en": "Food",
+    "vi": "",
+    "page": 54
+   },
+   "25": {
+    "en": "Cooking",
+    "vi": "",
+    "page": 56
+   },
+   "26": {
+    "en": "City life",
+    "vi": "",
+    "page": 58
+   },
+   "27": {
+    "en": "Life in the country",
+    "vi": "",
+    "page": 60
+   },
+   "28": {
+    "en": "Transport",
+    "vi": "",
+    "page": 62
+   },
+   "29": {
+    "en": "On the road",
+    "vi": "",
+    "page": 64
+   },
+   "30": {
+    "en": "Notices and warnings",
+    "vi": "",
+    "page": 66
+   },
+   "31": {
+    "en": "Classroom language",
+    "vi": "",
+    "page": 68
+   },
+   "32": {
+    "en": "School education",
+    "vi": "",
+    "page": 70
+   },
+   "33": {
+    "en": "Studying English and taking exams",
+    "vi": "",
+    "page": 72
+   },
+   "34": {
+    "en": "University education",
+    "vi": "",
+    "page": 74
+   },
+   "35": {
+    "en": "Jobs",
+    "vi": "",
+    "page": 76
+   },
+   "36": {
+    "en": "Talking about your work",
+    "vi": "",
+    "page": 78
+   },
+   "37": {
+    "en": "Making a career",
+    "vi": "",
+    "page": 80
+   },
+   "38": {
+    "en": "Working in an office",
+    "vi": "",
+    "page": 82
+   },
+   "39": {
+    "en": "Running a company",
+    "vi": "",
+    "page": 84
+   },
+   "40": {
+    "en": "Business and finance",
+    "vi": "",
+    "page": 86
+   },
+   "41": {
+    "en": "Sport and leisure",
+    "vi": "",
+    "page": 88
+   },
+   "42": {
+    "en": "Competitive sport",
+    "vi": "",
+    "page": 90
+   },
+   "43": {
+    "en": "Books and films",
+    "vi": "",
+    "page": 92
+   },
+   "44": {
+    "en": "Music",
+    "vi": "",
+    "page": 94
+   },
+   "45": {
+    "en": "Special events",
+    "vi": "",
+    "page": 96
+   },
+   "46": {
+    "en": "Travel bookings",
+    "vi": "",
+    "page": 98
+   },
+   "47": {
+    "en": "Air travel",
+    "vi": "",
+    "page": 100
+   },
+   "48": {
+    "en": "Hotels and restaurants",
+    "vi": "",
+    "page": 102
+   },
+   "49": {
+    "en": "Cafés",
+    "vi": "",
+    "page": 104
+   },
+   "50": {
+    "en": "Sightseeing holidays",
+    "vi": "",
+    "page": 106
+   },
+   "51": {
+    "en": "Holidays by the sea",
+    "vi": "",
+    "page": 108
+   },
+   "52": {
+    "en": "Newspapers and television",
+    "vi": "",
+    "page": 110
+   },
+   "53": {
+    "en": "Phoning and texting",
+    "vi": "",
+    "page": 112
+   },
+   "54": {
+    "en": "Computers",
+    "vi": "",
+    "page": 114
+   },
+   "55": {
+    "en": "Email and the Internet",
+    "vi": "",
+    "page": 116
+   },
+   "56": {
+    "en": "Crime",
+    "vi": "",
+    "page": 118
+   },
+   "57": {
+    "en": "Politics",
+    "vi": "",
+    "page": 120
+   },
+   "58": {
+    "en": "Climate change",
+    "vi": "",
+    "page": 122
+   },
+   "59": {
+    "en": "War and violence",
+    "vi": "",
+    "page": 124
+   },
+   "60": {
+    "en": "Time",
+    "vi": "",
+    "page": 126
+   },
+   "61": {
+    "en": "Numbers",
+    "vi": "",
+    "page": 128
+   },
+   "62": {
+    "en": "Distance, dimensions and size",
+    "vi": "",
+    "page": 130
+   },
+   "63": {
+    "en": "Objects, materials, shapes and colour",
+    "vi": "",
+    "page": 132
+   },
+   "64": {
+    "en": "Containers and quantities",
+    "vi": "",
+    "page": 134
+   },
+   "65": {
+    "en": "Apologies, excuses and thanks",
+    "vi": "",
+    "page": 136
+   },
+   "66": {
+    "en": "Requests, permission and suggestions",
+    "vi": "",
+    "page": 138
+   },
+   "67": {
+    "en": "Opinions, agreeing and disagreeing",
+    "vi": "",
+    "page": 140
+   },
+   "68": {
+    "en": "Likes, dislikes, attitudes and preferences",
+    "vi": "",
+    "page": 142
+   },
+   "69": {
+    "en": "Greetings, farewells and special expressions",
+    "vi": "",
+    "page": 144
+   },
+   "70": {
+    "en": "Prefixes: changing meaning",
+    "vi": "",
+    "page": 146
+   },
+   "71": {
+    "en": "Suffixes: forming nouns",
+    "vi": "",
+    "page": 148
+   },
+   "72": {
+    "en": "Suffixes: forming adjectives",
+    "vi": "",
+    "page": 150
+   },
+   "73": {
+    "en": "Compound nouns",
+    "vi": "",
+    "page": 152
+   },
+   "74": {
+    "en": "Word partners",
+    "vi": "",
+    "page": 154
+   },
+   "75": {
+    "en": "Fixed phrases",
+    "vi": "",
+    "page": 156
+   },
+   "76": {
+    "en": "Fixed phrases in conversation",
+    "vi": "",
+    "page": 158
+   },
+   "77": {
+    "en": "Verb or adjective + preposition",
+    "vi": "",
+    "page": 160
+   },
+   "78": {
+    "en": "Prepositional phrases",
+    "vi": "",
+    "page": 162
+   },
+   "79": {
+    "en": "Phrasal verbs 1: form and meaning",
+    "vi": "",
+    "page": 164
+   },
+   "80": {
+    "en": "Phrasal verbs 2: grammar and style",
+    "vi": "",
+    "page": 166
+   },
+   "81": {
+    "en": "Make, do and take: uses and phrases",
+    "vi": "",
+    "page": 168
+   },
+   "82": {
+    "en": "Key verbs: give, keep and miss",
+    "vi": "",
+    "page": 170
+   },
+   "83": {
+    "en": "Get: uses, phrases and phrasal verbs",
+    "vi": "",
+    "page": 172
+   },
+   "84": {
+    "en": "Go: meanings and expressions",
+    "vi": "",
+    "page": 174
+   },
+   "85": {
+    "en": "The senses",
+    "vi": "",
+    "page": 176
+   },
+   "86": {
+    "en": "Uncountable nouns",
+    "vi": "",
+    "page": 178
+   },
+   "87": {
+    "en": "Verb constructions 1",
+    "vi": "",
+    "page": 180
+   },
+   "88": {
+    "en": "Verb constructions 2",
+    "vi": "",
+    "page": 182
+   },
+   "89": {
+    "en": "Adjectives",
+    "vi": "",
+    "page": 184
+   },
+   "90": {
+    "en": "Prepositions: place and movement",
+    "vi": "",
+    "page": 186
+   },
+   "91": {
+    "en": "Adverbs",
+    "vi": "",
+    "page": 188
+   },
+   "92": {
+    "en": "Time and sequence",
+    "vi": "",
+    "page": 190
+   },
+   "93": {
+    "en": "Addition and contrast",
+    "vi": "",
+    "page": 192
+   },
+   "94": {
+    "en": "Reason, purpose, result, condition",
+    "vi": "",
+    "page": 194
+   },
+   "95": {
+    "en": "Formal and informal English",
+    "vi": "",
+    "page": 196
+   },
+   "96": {
+    "en": "Completing forms and CVs",
+    "vi": "",
+    "page": 198
+   },
+   "97": {
+    "en": "Writing an essay",
+    "vi": "",
+    "page": 200
+   },
+   "98": {
+    "en": "Formal letters and emails",
+    "vi": "",
+    "page": 202
+   },
+   "99": {
+    "en": "Informal emails and messages",
+    "vi": "",
+    "page": 204
+   },
+   "100": {
+    "en": "Abbreviations",
+    "vi": "",
+    "page": 206
+   }
+  }
+ },
+ "upp": {
+  "title": "English Vocabulary in Use Upper-intermediate (4th ed.)",
+  "root": "English Vocabulary In Use (Upper-Intermediate)",
+  "demo_units": [
+   1,
+   2,
+   3,
+   4,
+   80,
+   81,
+   82
+  ],
+  "sections": [
+   [
+    1,
+    4,
+    "Effective vocabulary learning",
+    "Học từ vựng hiệu quả"
+   ],
+   [
+    5,
+    41,
+    "Topics",
+    "Chủ đề"
+   ],
+   [
+    42,
+    50,
+    "Feelings and actions",
+    "Cảm xúc và hành động"
+   ],
+   [
+    51,
+    60,
+    "Basic concepts",
+    "Khái niệm cơ bản"
+   ],
+   [
+    61,
+    69,
+    "Connecting and linking words",
+    "Từ nối và liên kết"
+   ],
+   [
+    70,
+    79,
+    "Word formation",
+    "Cấu tạo từ"
+   ],
+   [
+    80,
+    82,
+    "Words and pronunciation",
+    "Từ và phát âm"
+   ],
+   [
+    83,
+    88,
+    "Counting people and things",
+    "Đếm người và vật"
+   ],
+   [
+    89,
+    94,
+    "Phrasal verbs and verb-based expressions",
+    "Cụm động từ và thành ngữ với động từ"
+   ],
+   [
+    95,
+    101,
+    "Varieties and styles",
+    "Biến thể và văn phong"
+   ]
+  ],
+  "units": {
+   "1": {
+    "en": "Learning vocabulary",
+    "vi": "",
+    "page": 8
+   },
+   "2": {
+    "en": "Organising a vocabulary notebook",
+    "vi": "",
+    "page": 10
+   },
+   "3": {
+    "en": "Using your dictionary",
+    "vi": "",
+    "page": 12
+   },
+   "4": {
+    "en": "Guessing and explaining meaning",
+    "vi": "",
+    "page": 14
+   },
+   "5": {
+    "en": "Countries, nationalities and languages",
+    "vi": "",
+    "page": 16
+   },
+   "6": {
+    "en": "The weather",
+    "vi": "",
+    "page": 18
+   },
+   "7": {
+    "en": "Describing people: appearance",
+    "vi": "",
+    "page": 20
+   },
+   "8": {
+    "en": "Describing people: personality",
+    "vi": "",
+    "page": 22
+   },
+   "9": {
+    "en": "Idioms describing people",
+    "vi": "",
+    "page": 24
+   },
+   "10": {
+    "en": "Relationships",
+    "vi": "",
+    "page": 26
+   },
+   "11": {
+    "en": "At home",
+    "vi": "",
+    "page": 28
+   },
+   "12": {
+    "en": "Everyday minor problems",
+    "vi": "",
+    "page": 30
+   },
+   "13": {
+    "en": "Global problems",
+    "vi": "",
+    "page": 32
+   },
+   "14": {
+    "en": "Education",
+    "vi": "",
+    "page": 34
+   },
+   "15": {
+    "en": "Higher education",
+    "vi": "",
+    "page": 36
+   },
+   "16": {
+    "en": "Work",
+    "vi": "",
+    "page": 38
+   },
+   "17": {
+    "en": "Business",
+    "vi": "",
+    "page": 40
+   },
+   "18": {
+    "en": "Sport",
+    "vi": "",
+    "page": 42
+   },
+   "19": {
+    "en": "Art and literature",
+    "vi": "",
+    "page": 44
+   },
+   "20": {
+    "en": "Theatre and cinema",
+    "vi": "",
+    "page": 46
+   },
+   "21": {
+    "en": "Music",
+    "vi": "",
+    "page": 48
+   },
+   "22": {
+    "en": "Food",
+    "vi": "",
+    "page": 50
+   },
+   "23": {
+    "en": "Physical geography",
+    "vi": "",
+    "page": 52
+   },
+   "24": {
+    "en": "Environmental problems",
+    "vi": "",
+    "page": 54
+   },
+   "25": {
+    "en": "Towns",
+    "vi": "",
+    "page": 56
+   },
+   "26": {
+    "en": "The natural world",
+    "vi": "",
+    "page": 58
+   },
+   "27": {
+    "en": "Clothes",
+    "vi": "",
+    "page": 60
+   },
+   "28": {
+    "en": "Health and medicine",
+    "vi": "",
+    "page": 62
+   },
+   "29": {
+    "en": "Medicine and technology",
+    "vi": "",
+    "page": 64
+   },
+   "30": {
+    "en": "Health and lifestyle",
+    "vi": "",
+    "page": 66
+   },
+   "31": {
+    "en": "Travel",
+    "vi": "",
+    "page": 68
+   },
+   "32": {
+    "en": "Holidays",
+    "vi": "",
+    "page": 70
+   },
+   "33": {
+    "en": "Science and technology",
+    "vi": "",
+    "page": 72
+   },
+   "34": {
+    "en": "Computers",
+    "vi": "",
+    "page": 74
+   },
+   "35": {
+    "en": "Communications and the Internet",
+    "vi": "",
+    "page": 76
+   },
+   "36": {
+    "en": "Social media",
+    "vi": "",
+    "page": 78
+   },
+   "37": {
+    "en": "The press and the media",
+    "vi": "",
+    "page": 80
+   },
+   "38": {
+    "en": "Politics and public institutions",
+    "vi": "",
+    "page": 82
+   },
+   "39": {
+    "en": "Crime",
+    "vi": "",
+    "page": 84
+   },
+   "40": {
+    "en": "Money",
+    "vi": "",
+    "page": 86
+   },
+   "41": {
+    "en": "Describing objects",
+    "vi": "",
+    "page": 88
+   },
+   "42": {
+    "en": "Belief and opinion",
+    "vi": "",
+    "page": 90
+   },
+   "43": {
+    "en": "Pleasant and unpleasant feelings",
+    "vi": "",
+    "page": 92
+   },
+   "44": {
+    "en": "Like, dislike and desire",
+    "vi": "",
+    "page": 94
+   },
+   "45": {
+    "en": "Speaking",
+    "vi": "",
+    "page": 96
+   },
+   "46": {
+    "en": "The six senses",
+    "vi": "",
+    "page": 98
+   },
+   "47": {
+    "en": "What your body does",
+    "vi": "",
+    "page": 100
+   },
+   "48": {
+    "en": "Praising and criticising",
+    "vi": "",
+    "page": 102
+   },
+   "49": {
+    "en": "Emotions and moods",
+    "vi": "",
+    "page": 104
+   },
+   "50": {
+    "en": "Commenting on problematic situations",
+    "vi": "",
+    "page": 106
+   },
+   "51": {
+    "en": "Number, quantity, degree and intensity",
+    "vi": "",
+    "page": 108
+   },
+   "52": {
+    "en": "Numbers and shapes",
+    "vi": "",
+    "page": 110
+   },
+   "53": {
+    "en": "Time",
+    "vi": "",
+    "page": 112
+   },
+   "54": {
+    "en": "Distances and dimensions",
+    "vi": "",
+    "page": 114
+   },
+   "55": {
+    "en": "Obligation, need, possibility and probability",
+    "vi": "",
+    "page": 116
+   },
+   "56": {
+    "en": "Sound and light",
+    "vi": "",
+    "page": 118
+   },
+   "57": {
+    "en": "Possession and giving",
+    "vi": "",
+    "page": 120
+   },
+   "58": {
+    "en": "Movement and speed",
+    "vi": "",
+    "page": 122
+   },
+   "59": {
+    "en": "Texture, brightness, weight and density",
+    "vi": "",
+    "page": 124
+   },
+   "60": {
+    "en": "Success, failure and difficulty",
+    "vi": "",
+    "page": 126
+   },
+   "61": {
+    "en": "Time: connecting words and expressions",
+    "vi": "",
+    "page": 128
+   },
+   "62": {
+    "en": "Condition",
+    "vi": "",
+    "page": 130
+   },
+   "63": {
+    "en": "Cause, reason, purpose and result",
+    "vi": "",
+    "page": 132
+   },
+   "64": {
+    "en": "Concession and contrast",
+    "vi": "",
+    "page": 134
+   },
+   "65": {
+    "en": "Addition",
+    "vi": "",
+    "page": 136
+   },
+   "66": {
+    "en": "Referring words",
+    "vi": "",
+    "page": 138
+   },
+   "67": {
+    "en": "Discourse markers in spoken English",
+    "vi": "",
+    "page": 140
+   },
+   "68": {
+    "en": "Linking words in writing",
+    "vi": "",
+    "page": 142
+   },
+   "69": {
+    "en": "Talking and communicating",
+    "vi": "",
+    "page": 144
+   },
+   "70": {
+    "en": "Suffixes",
+    "vi": "",
+    "page": 146
+   },
+   "71": {
+    "en": "Prefixes",
+    "vi": "",
+    "page": 148
+   },
+   "72": {
+    "en": "Roots",
+    "vi": "",
+    "page": 150
+   },
+   "73": {
+    "en": "Abstract nouns",
+    "vi": "",
+    "page": 152
+   },
+   "74": {
+    "en": "Compound adjectives",
+    "vi": "",
+    "page": 154
+   },
+   "75": {
+    "en": "Compound nouns 1: noun + noun",
+    "vi": "",
+    "page": 156
+   },
+   "76": {
+    "en": "Compound nouns 2: verb + preposition",
+    "vi": "",
+    "page": 158
+   },
+   "77": {
+    "en": "Binomials",
+    "vi": "",
+    "page": 160
+   },
+   "78": {
+    "en": "Abbreviations and acronyms",
+    "vi": "",
+    "page": 162
+   },
+   "79": {
+    "en": "Multi-word expressions",
+    "vi": "",
+    "page": 164
+   },
+   "80": {
+    "en": "Words commonly mispronounced",
+    "vi": "",
+    "page": 166
+   },
+   "81": {
+    "en": "Onomatopoeic words",
+    "vi": "",
+    "page": 168
+   },
+   "82": {
+    "en": "Homophones and homographs",
+    "vi": "",
+    "page": 170
+   },
+   "83": {
+    "en": "Uncountable nouns",
+    "vi": "",
+    "page": 172
+   },
+   "84": {
+    "en": "Words that only occur in the plural",
+    "vi": "",
+    "page": 174
+   },
+   "85": {
+    "en": "Countable and uncountable nouns with different meanings",
+    "vi": "",
+    "page": 176
+   },
+   "86": {
+    "en": "Making uncountable nouns countable",
+    "vi": "",
+    "page": 178
+   },
+   "87": {
+    "en": "Collective nouns",
+    "vi": "",
+    "page": 180
+   },
+   "88": {
+    "en": "Containers and contents",
+    "vi": "",
+    "page": 182
+   },
+   "89": {
+    "en": "Expressions with do and make",
+    "vi": "",
+    "page": 184
+   },
+   "90": {
+    "en": "Expressions with bring and take",
+    "vi": "",
+    "page": 186
+   },
+   "91": {
+    "en": "Expressions with get",
+    "vi": "",
+    "page": 188
+   },
+   "92": {
+    "en": "Expressions with set and put",
+    "vi": "",
+    "page": 190
+   },
+   "93": {
+    "en": "Expressions with come and go",
+    "vi": "",
+    "page": 192
+   },
+   "94": {
+    "en": "Expressions with other common verbs",
+    "vi": "",
+    "page": 194
+   },
+   "95": {
+    "en": "Formal and informal words 1",
+    "vi": "",
+    "page": 196
+   },
+   "96": {
+    "en": "Formal and informal words 2",
+    "vi": "",
+    "page": 198
+   },
+   "97": {
+    "en": "Similes",
+    "vi": "",
+    "page": 200
+   },
+   "98": {
+    "en": "Proverbs",
+    "vi": "",
+    "page": 202
+   },
+   "99": {
+    "en": "The language of signs and notices",
+    "vi": "",
+    "page": 204
+   },
+   "100": {
+    "en": "Headline English",
+    "vi": "",
+    "page": 206
+   },
+   "101": {
+    "en": "US English",
+    "vi": "",
+    "page": 208
+   }
+  }
+ }
+}
