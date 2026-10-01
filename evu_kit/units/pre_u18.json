@@ -1,0 +1,543 @@
+{
+ "book": "pre",
+ "unit": 18,
+ "title_vi": "Đồ đạc trong nhà",
+ "theory_html": "<p><b>A. Different homes</b><br><i>A. Những ngôi nhà khác nhau</i></p> <p>Our first child had to <b>share</b> our bedroom. Now: an <b>en-suite bathroom</b>, the children have their <b>own</b> rooms, a <b>spare room</b> for guests, a <b>study</b>, a kitchen with a <b>dishwasher</b>, a <b>utility room</b> with the <b>washing machine</b>. Labels: <b>tiles, freezer, cupboards, sink, oven, cooker, fridge, microwave, tap, kettle</b>. <b>sink</b> (kitchen) vs <b>(wash)basin</b> (bathroom).</p><p><i><b>dùng chung, phòng tắm riêng trong phòng ngủ, riêng, phòng cho khách, phòng làm việc, máy rửa bát, phòng giặt là, máy giặt; gạch ốp, tủ đông, tủ chạn, bồn rửa, lò nướng, bếp, tủ lạnh, lò vi sóng, vòi nước, ấm đun</b>.</i></p> <p><b>B. Choices</b><br><i>B. Lựa chọn</i></p> <p><b>What do you prefer?</b> <b>big soft sofas with lots of cushions</b> or <b>firm armchairs</b>; a <b>wooden floor</b> with a <b>rug</b> or a <b>carpet</b>; <b>curtains</b> or <b>blinds</b>; a <b>duvet</b> or a <b>sheet</b> and a <b>blanket</b>; one <b>pillow</b> or two?</p><p><i><b>thích hơn; sofa, gối tựa, cứng, ghế bành, sàn gỗ, thảm nhỏ, thảm trải sàn, rèm, mành, chăn lông, ga, chăn, gối</b>.</i></p>",
+ "items": [
+  {
+   "word": "share",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ʃeə(r)/",
+   "def_en": "To use something at the same time as someone else.",
+   "def_vi": "Dùng thứ gì cùng lúc với người khác.",
+   "gloss_vi": "dùng chung",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Share</i> (verb) = dùng chung. <b>Grammar</b>: <i>share sth (with sb)</i>.",
+   "example": {
+    "en": "When our first child was born, she had to <b>share</b> our bedroom.",
+    "vi": "Khi con đầu lòng ra đời, bé phải <b>ở chung</b> phòng ngủ với chúng tôi."
+   }
+  },
+  {
+   "word": "en-suite bathroom",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌɒn swiːt ˈbɑːθruːm/",
+   "def_en": "A bathroom connected to a bedroom.",
+   "def_vi": "Phòng tắm nối liền phòng ngủ.",
+   "gloss_vi": "phòng tắm riêng (trong phòng ngủ)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>En-suite bathroom</i> (noun phrase) = phòng tắm riêng (trong phòng ngủ). <b>Grammar</b>: <i>en-suite</i> gốc Pháp, có gạch nối.",
+   "example": {
+    "en": "Our bedroom has an <b>en-suite bathroom</b>.",
+    "vi": "Phòng ngủ của chúng tôi có <b>phòng tắm riêng</b>."
+   }
+  },
+  {
+   "word": "own",
+   "sense": "not shared",
+   "pos": "adjective",
+   "ipa": "/əʊn/",
+   "def_en": "Belonging to a particular person and not shared.",
+   "def_vi": "Thuộc về riêng một người, không dùng chung.",
+   "gloss_vi": "riêng",
+   "synonyms": "private <i>(adj. riêng tư)</i>",
+   "antonyms": "shared <i>(adj. dùng chung)</i>",
+   "grammar_vi": "<i>Own</i> (adjective) = riêng. <b>Grammar</b>: sau tính từ sở hữu: <i>my/their own room</i>; <i>a room of my own</i>.",
+   "example": {
+    "en": "Our two teenage children have their <b>own</b> rooms.",
+    "vi": "Hai đứa con tuổi teen có phòng <b>riêng</b>."
+   }
+  },
+  {
+   "word": "spare room",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌspeə ˈruːm/",
+   "def_en": "A bedroom for guests.",
+   "def_vi": "Phòng ngủ dành cho khách.",
+   "gloss_vi": "phòng cho khách",
+   "synonyms": "guest room <i>(np. phòng khách ngủ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spare room</i> (noun phrase) = phòng cho khách. <b>Grammar</b>: <i>spare</i> = thừa, dự phòng (<i>spare time, spare key</i>).",
+   "example": {
+    "en": "We have a <b>spare room</b> for guests.",
+    "vi": "Chúng tôi có một <b>phòng cho khách</b>."
+   }
+  },
+  {
+   "word": "study",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈstʌdi/",
+   "def_en": "A room where people can work.",
+   "def_vi": "Căn phòng để làm việc.",
+   "gloss_vi": "phòng làm việc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Study</i> (noun) = phòng làm việc. <b>Grammar</b>: số nhiều <i>studies</i>. <b>Common mistakes</b>: cũng là động từ <i>học</i>.",
+   "example": {
+    "en": "Downstairs, there’s a living room, a dining room and a <b>study</b>.",
+    "vi": "Tầng dưới có phòng khách, phòng ăn và <b>phòng làm việc</b>."
+   }
+  },
+  {
+   "word": "dishwasher",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdɪʃwɒʃə(r)/",
+   "def_en": "A machine for washing dishes.",
+   "def_vi": "Máy rửa bát đĩa.",
+   "gloss_vi": "máy rửa bát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dishwasher</i> (noun) = máy rửa bát. <b>Grammar</b>: <i>load/empty the dishwasher</i>.",
+   "example": {
+    "en": "We’ve got a kitchen with a fridge-freezer, a cooker with two ovens and a <b>dishwasher</b>.",
+    "vi": "Chúng tôi có bếp lớn với tủ lạnh, bếp nấu hai lò và <b>máy rửa bát</b>."
+   }
+  },
+  {
+   "word": "utility room",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/juːˈtɪləti ruːm/",
+   "def_en": "A small room for the washing machine and other equipment.",
+   "def_vi": "Phòng nhỏ đặt máy giặt và đồ dùng khác.",
+   "gloss_vi": "phòng giặt là",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Utility room</i> (noun phrase) = phòng giặt là. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Next to it, there’s a small <b>utility room</b> where we keep the washing machine.",
+    "vi": "Bên cạnh có một <b>phòng giặt là</b> nhỏ, nơi để máy giặt."
+   }
+  },
+  {
+   "word": "washing machine",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈwɒʃɪŋ məʃiːn/",
+   "def_en": "A machine for washing clothes.",
+   "def_vi": "Máy giặt quần áo.",
+   "gloss_vi": "máy giặt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Washing machine</i> (noun phrase) = máy giặt. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "There’s a small utility room where we keep the <b>washing machine</b>.",
+    "vi": "Chúng tôi để <b>máy giặt</b> trong phòng giặt là."
+   }
+  },
+  {
+   "word": "sink",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/sɪŋk/",
+   "def_en": "The place in a kitchen where you wash dishes.",
+   "def_vi": "Chỗ rửa bát trong bếp.",
+   "gloss_vi": "bồn rửa (bếp)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sink</i> (noun) = bồn rửa (bếp). <b>Grammar</b>: trong bếp <i>sink</i>; trong phòng tắm <i>(wash)basin</i>.",
+   "example": {
+    "en": "We usually talk about a <b>sink</b> in the kitchen.",
+    "vi": "Chúng ta thường gọi chỗ rửa trong bếp là <b>bồn rửa</b>."
+   }
+  },
+  {
+   "word": "basin",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbeɪsn/",
+   "def_en": "A bowl in a bathroom for washing your hands and face.",
+   "def_vi": "Chậu trong phòng tắm để rửa tay mặt.",
+   "gloss_vi": "bồn rửa mặt",
+   "synonyms": "washbasin <i>(n. bồn rửa mặt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Basin</i> (noun) = bồn rửa mặt. <b>Grammar</b>: cũng <i>washbasin</i>.",
+   "example": {
+    "en": "We talk about a (wash)<b>basin</b> in the bathroom.",
+    "vi": "Trong phòng tắm thì gọi là <b>bồn rửa mặt</b>."
+   }
+  },
+  {
+   "word": "tiles",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/taɪlz/",
+   "def_en": "Flat square pieces used to cover walls or floors.",
+   "def_vi": "Miếng vuông phẳng để ốp tường hay lát sàn.",
+   "gloss_vi": "gạch ốp lát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tiles</i> (plural noun) = gạch ốp lát. <b>Grammar</b>: số ít <i>a tile</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We put white <b>tiles</b> in the kitchen.",
+    "vi": "Chúng tôi lát <b>gạch</b> trắng trong bếp."
+   }
+  },
+  {
+   "word": "freezer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfriːzə(r)/",
+   "def_en": "A machine that keeps food very cold and frozen.",
+   "def_vi": "Máy giữ thức ăn rất lạnh, đông đá.",
+   "gloss_vi": "tủ đông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Freezer</i> (noun) = tủ đông. <b>Grammar</b>: <i>in the freezer</i>; <i>fridge-freezer</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "There’s some ice cream in the <b>freezer</b>.",
+    "vi": "Có kem trong <b>tủ đông</b>."
+   }
+  },
+  {
+   "word": "cupboard",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkʌbəd/",
+   "def_en": "A piece of furniture with doors and shelves.",
+   "def_vi": "Đồ nội thất có cửa và ngăn.",
+   "gloss_vi": "tủ chạn, tủ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cupboard</i> (noun) = tủ chạn, tủ. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: /ˈkʌbəd/, <i>p</i> câm.",
+   "ex_kit": true,
+   "example": {
+    "en": "The plates are in the <b>cupboard</b> above the sink.",
+    "vi": "Đĩa ở trong <b>tủ</b> trên bồn rửa."
+   }
+  },
+  {
+   "word": "oven",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈʌvn/",
+   "def_en": "The part of a cooker with a door, used for baking.",
+   "def_vi": "Phần có cửa của bếp, dùng để nướng.",
+   "gloss_vi": "lò nướng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Oven</i> (noun) = lò nướng. <b>Grammar</b>: <i>in the oven</i>. <b>Common mistakes</b>: /ˈʌvn/.",
+   "example": {
+    "en": "a cooker with two <b>ovens</b>",
+    "vi": "Bếp của chúng tôi có hai <b>lò nướng</b>."
+   }
+  },
+  {
+   "word": "cooker",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkʊkə(r)/",
+   "def_en": "A large piece of equipment for cooking food.",
+   "def_vi": "Thiết bị lớn để nấu ăn.",
+   "gloss_vi": "bếp (nấu)",
+   "synonyms": "stove <i>(n. bếp (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cooker</i> (noun) = bếp (nấu). <b>Grammar</b>: <i>cooker</i> = máy; <i>cook</i> = người nấu.",
+   "example": {
+    "en": "a <b>cooker</b> with two ovens",
+    "vi": "Một <b>bếp nấu</b> có hai lò nướng."
+   }
+  },
+  {
+   "word": "fridge",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/frɪdʒ/",
+   "def_en": "A machine that keeps food cold.",
+   "def_vi": "Máy giữ thức ăn lạnh.",
+   "gloss_vi": "tủ lạnh",
+   "synonyms": "refrigerator <i>(n. tủ lạnh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fridge</i> (noun) = tủ lạnh. <b>Grammar</b>: <i>in the fridge</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Put the milk in the <b>fridge</b>.",
+    "vi": "Để sữa vào <b>tủ lạnh</b> nhé."
+   }
+  },
+  {
+   "word": "microwave",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmaɪkrəweɪv/",
+   "def_en": "An oven that cooks food very quickly.",
+   "def_vi": "Lò nấu thức ăn rất nhanh.",
+   "gloss_vi": "lò vi sóng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Microwave</i> (noun) = lò vi sóng. <b>Grammar</b>: cũng là động từ: <i>microwave sth</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Heat the soup in the <b>microwave</b>.",
+    "vi": "Hâm nóng súp trong <b>lò vi sóng</b>."
+   }
+  },
+  {
+   "word": "tap",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tæp/",
+   "def_en": "The thing you turn to make water come out.",
+   "def_vi": "Thứ vặn để nước chảy ra.",
+   "gloss_vi": "vòi nước",
+   "synonyms": "faucet <i>(n. vòi nước (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tap</i> (noun) = vòi nước. <b>Grammar</b>: <i>turn the tap on/off</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Don’t leave the <b>tap</b> running.",
+    "vi": "Đừng để <b>vòi nước</b> chảy."
+   }
+  },
+  {
+   "word": "kettle",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈketl/",
+   "def_en": "A container for boiling water.",
+   "def_vi": "Bình để đun sôi nước.",
+   "gloss_vi": "ấm đun nước",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Kettle</i> (noun) = ấm đun nước. <b>Grammar</b>: <i>put the kettle on</i> = đun nước.",
+   "ex_kit": true,
+   "example": {
+    "en": "I’ll put the <b>kettle</b> on for some tea.",
+    "vi": "Tôi sẽ đun <b>ấm nước</b> pha trà."
+   }
+  },
+  {
+   "word": "prefer",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/prɪˈfɜː(r)/",
+   "def_en": "To like one thing more than another.",
+   "def_vi": "Thích cái này hơn cái kia.",
+   "gloss_vi": "thích hơn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Prefer</i> (verb) = thích hơn. <b>Grammar</b>: <i>prefer A to B</i>; <i>prefer – preferred</i>. <b>Common mistakes</b>: trọng âm âm tiết 2.",
+   "example": {
+    "en": "What do you <b>prefer</b>?",
+    "vi": "Bạn <b>thích</b> cái nào <b>hơn</b>?"
+   }
+  },
+  {
+   "word": "sofa",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsəʊfə/",
+   "def_en": "A long comfortable seat for two or more people.",
+   "def_vi": "Ghế dài êm cho hai người trở lên.",
+   "gloss_vi": "ghế sofa",
+   "synonyms": "settee <i>(n. ghế dài)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sofa</i> (noun) = ghế sofa. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Some people like big soft <b>sofas</b> with lots of cushions.",
+    "vi": "Có người thích <b>sofa</b> to êm với nhiều gối tựa."
+   }
+  },
+  {
+   "word": "cushion",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkʊʃn/",
+   "def_en": "A soft bag filled with material, used to sit on or lean against.",
+   "def_vi": "Túi mềm nhồi bông để ngồi hay tựa.",
+   "gloss_vi": "gối tựa, nệm ghế",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cushion</i> (noun) = gối tựa, nệm ghế. <b>Grammar</b>: ≠ <i>pillow</i> (gối ngủ).",
+   "example": {
+    "en": "Some people like big soft sofas with lots of <b>cushions</b>.",
+    "vi": "Có người thích sofa to êm với nhiều <b>gối tựa</b>."
+   }
+  },
+  {
+   "word": "firm",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/fɜːm/",
+   "def_en": "Not soft.",
+   "def_vi": "Không mềm.",
+   "gloss_vi": "cứng, chắc",
+   "synonyms": "hard <i>(adj. cứng)</i>",
+   "antonyms": "soft <i>(adj. mềm)</i>",
+   "grammar_vi": "<i>Firm</i> (adjective) = cứng, chắc. <b>Grammar</b>: <i>a firm bed/mattress</i>.",
+   "example": {
+    "en": "Some people like <b>firm</b> armchairs.",
+    "vi": "Có người thích ghế bành <b>cứng</b>."
+   }
+  },
+  {
+   "word": "armchair",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɑːmtʃeə(r)/",
+   "def_en": "A comfortable chair with sides for your arms.",
+   "def_vi": "Ghế êm có chỗ để tay.",
+   "gloss_vi": "ghế bành",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Armchair</i> (noun) = ghế bành. <b>Grammar</b>: <i>sit in an armchair</i> (dùng <i>in</i>).",
+   "example": {
+    "en": "Some people like firm <b>armchairs</b>.",
+    "vi": "Có người thích <b>ghế bành</b> cứng."
+   }
+  },
+  {
+   "word": "wooden floor",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌwʊdn ˈflɔː(r)/",
+   "def_en": "A floor made of wood.",
+   "def_vi": "Sàn làm bằng gỗ.",
+   "gloss_vi": "sàn gỗ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wooden floor</i> (noun phrase) = sàn gỗ. <b>Grammar</b>: <i>wooden</i> (adj.) ← <i>wood</i> (n.).",
+   "example": {
+    "en": "Do you like a <b>wooden floor</b> with a rug, or a carpet?",
+    "vi": "Bạn thích <b>sàn gỗ</b> với một tấm thảm nhỏ, hay thảm trải sàn?"
+   }
+  },
+  {
+   "word": "rug",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rʌɡ/",
+   "def_en": "A piece of thick material that covers part of a floor.",
+   "def_vi": "Tấm vải dày phủ một phần sàn.",
+   "gloss_vi": "thảm nhỏ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rug</i> (noun) = thảm nhỏ. <b>Grammar</b>: <i>rug</i> (một phần sàn) ≠ <i>carpet</i> (cả sàn).",
+   "example": {
+    "en": "Do you like a wooden floor with a <b>rug</b>, or a carpet?",
+    "vi": "Bạn thích sàn gỗ với một <b>tấm thảm nhỏ</b>, hay thảm trải sàn?"
+   }
+  },
+  {
+   "word": "carpet",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɑːpɪt/",
+   "def_en": "Thick material that covers the whole floor.",
+   "def_vi": "Vải dày phủ cả sàn.",
+   "gloss_vi": "thảm trải sàn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Carpet</i> (noun) = thảm trải sàn. <b>Grammar</b>: đếm được và không đếm được.",
+   "example": {
+    "en": "Do you like a wooden floor with a rug, or a <b>carpet</b>?",
+    "vi": "Bạn thích sàn gỗ với thảm nhỏ, hay <b>thảm trải sàn</b>?"
+   }
+  },
+  {
+   "word": "curtains",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈkɜːtnz/",
+   "def_en": "Pieces of material that cover a window.",
+   "def_vi": "Tấm vải che cửa sổ.",
+   "gloss_vi": "rèm cửa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Curtains</i> (plural noun) = rèm cửa. <b>Grammar</b>: <i>draw/close the curtains</i>.",
+   "example": {
+    "en": "<b>Curtains</b>, or blinds?",
+    "vi": "<b>Rèm cửa</b> hay mành?"
+   }
+  },
+  {
+   "word": "blind",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/blaɪnd/",
+   "def_en": "A cover for a window that you pull down.",
+   "def_vi": "Tấm che cửa sổ kéo xuống.",
+   "gloss_vi": "mành cửa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Blind</i> (noun) = mành cửa. <b>Grammar</b>: đếm được; <i>pull down the blinds</i>. <b>Common mistakes</b>: cũng là tính từ <i>mù</i>.",
+   "example": {
+    "en": "Curtains, or <b>blinds</b>?",
+    "vi": "Rèm cửa hay <b>mành</b>?"
+   }
+  },
+  {
+   "word": "duvet",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈduːveɪ/",
+   "def_en": "A thick soft cover for a bed, filled with feathers.",
+   "def_vi": "Chăn dày mềm nhồi lông vũ.",
+   "gloss_vi": "chăn lông vũ",
+   "synonyms": "quilt <i>(n. chăn bông)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Duvet</i> (noun) = chăn lông vũ. <b>Grammar</b>: Anh–Anh. <b>Common mistakes</b>: /ˈduːveɪ/.",
+   "example": {
+    "en": "A <b>duvet</b>, or a sheet and a blanket?",
+    "vi": "Một tấm <b>chăn lông</b>, hay ga và chăn?"
+   }
+  },
+  {
+   "word": "sheet",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ʃiːt/",
+   "def_en": "A large piece of cloth put on a bed.",
+   "def_vi": "Tấm vải lớn trải trên giường.",
+   "gloss_vi": "ga trải giường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sheet</i> (noun) = ga trải giường. <b>Grammar</b>: <i>change the sheets</i>. <b>Common mistakes</b>: cũng là tờ giấy (<i>a sheet of paper</i>).",
+   "example": {
+    "en": "A duvet, or a <b>sheet</b> and a blanket?",
+    "vi": "Một tấm chăn lông, hay <b>ga</b> và chăn?"
+   }
+  },
+  {
+   "word": "blanket",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈblæŋkɪt/",
+   "def_en": "A thick cover for a bed, often made of wool.",
+   "def_vi": "Tấm phủ giường dày, thường bằng len.",
+   "gloss_vi": "chăn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Blanket</i> (noun) = chăn. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "A duvet, or a sheet and a <b>blanket</b>?",
+    "vi": "Một tấm chăn lông, hay ga và <b>chăn</b>?"
+   }
+  },
+  {
+   "word": "pillow",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɪləʊ/",
+   "def_en": "A soft thing to put your head on in bed.",
+   "def_vi": "Vật mềm để gối đầu khi ngủ.",
+   "gloss_vi": "gối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pillow</i> (noun) = gối. <b>Grammar</b>: ≠ <i>cushion</i> (gối tựa sofa).",
+   "example": {
+    "en": "One <b>pillow</b>, or two?",
+    "vi": "Một cái <b>gối</b>, hay hai?"
+   }
+  }
+ ]
+}

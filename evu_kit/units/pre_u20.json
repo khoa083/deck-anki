@@ -1,0 +1,456 @@
+{
+ "book": "pre",
+ "unit": 20,
+ "title_vi": "Sức khỏe",
+ "theory_html": "<p><b>A. Common problems</b><br><i>A. Các vấn đề thường gặp</i></p> <p><b>What’s the matter?</b> – <b>a sore throat</b> and <b>a temperature</b> → <b>flu</b>, see a doctor; <b>cut</b> my arm, it’s <b>bleeding</b> → a <b>bandage</b>; a terrible <b>cough</b> → cough <b>medicine</b>; a <b>headache</b> → <b>tablets</b> (also <b>pills</b>); <b>I feel sick</b> → go to the bathroom.</p><p><i><b>đau họng, sốt, cúm, đứt tay, chảy máu, băng, ho, thuốc, đau đầu, viên thuốc, buồn nôn</b>.</i></p> <p><b>B. Describing pain</b><br><i>B. Miêu tả cơn đau</i></p> <p><b>ache</b> = pain that continues: <b>headache, stomach ache, backache</b> (<b>suffer from</b>); other parts: <b>a pain in my shoulder</b>; verb <b>ache</b> (<b>my feet were aching</b>); stronger or sudden pain: <b>hurt</b> (<b>My throat hurts</b>), <b>painful</b>.</p><p><i><b>cơn đau âm ỉ, đau, bị (bệnh), đau nhức, đau (nhói)</b>.</i></p> <p><b>C. Serious illnesses</b><br><i>C. Bệnh nặng</i></p> <p><b>serious</b> illnesses → hospital; a <b>patient</b>; an <b>operation</b> by <b>surgeons</b> (<b>surgery</b>); <b>lung cancer</b>, <b>heart attacks</b>, a <b>disease</b> affecting the <b>liver</b>. <b>disease</b> = serious, often a part of the body (<b>heart disease</b>); <b>illness</b> = serious or minor, also the mind; <b>after a long illness</b> (NOT <b>disease</b>).</p><p><i><b>bệnh nặng, bệnh nhân, ca mổ, bác sĩ phẫu thuật, ung thư phổi, đau tim, bệnh, gan</b>.</i></p>",
+ "items": [
+  {
+   "word": "sore throat",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌsɔː ˈθrəʊt/",
+   "def_en": "A pain in your throat.",
+   "def_vi": "Cơn đau trong họng.",
+   "gloss_vi": "đau họng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sore throat</i> (noun phrase) = đau họng. <b>Grammar</b>: <i>have (got) a sore throat</i>. <b>Common mistakes</b>: <i>sore</i> = đau rát.",
+   "example": {
+    "en": "I’ve got a <b>sore throat</b> and a temperature.",
+    "vi": "Tôi bị <b>đau họng</b> và sốt."
+   }
+  },
+  {
+   "word": "temperature",
+   "sense": "illness",
+   "pos": "noun",
+   "ipa": "/ˈtemprətʃə(r)/",
+   "def_en": "A body heat that is higher than normal.",
+   "def_vi": "Thân nhiệt cao hơn bình thường.",
+   "gloss_vi": "sốt",
+   "synonyms": "fever <i>(n. sốt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Temperature</i> (noun) = sốt. <b>Grammar</b>: <i>have (got) a temperature</i> = bị sốt.",
+   "example": {
+    "en": "I’ve got a sore throat and a <b>temperature</b>.",
+    "vi": "Tôi bị đau họng và <b>sốt</b>."
+   }
+  },
+  {
+   "word": "flu",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/fluː/",
+   "def_en": "An illness like a bad cold, with a temperature.",
+   "def_vi": "Bệnh như cảm nặng, kèm sốt.",
+   "gloss_vi": "cúm",
+   "synonyms": "influenza <i>(n. bệnh cúm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flu</i> (noun) = cúm. <b>Grammar</b>: không đếm được; <i>have (the) flu</i>.",
+   "example": {
+    "en": "That sounds like <b>flu</b>. You should see a doctor.",
+    "vi": "Nghe như <b>cúm</b> đấy. Bạn nên đi khám bác sĩ."
+   }
+  },
+  {
+   "word": "cut",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kʌt/",
+   "def_en": "To injure yourself with something sharp.",
+   "def_vi": "Làm mình bị thương bằng vật sắc.",
+   "gloss_vi": "làm đứt, cắt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cut</i> (verb) = làm đứt, cắt. <b>Grammar</b>: <i>cut – cut – cut</i>; <i>cut yourself / your finger</i>.",
+   "example": {
+    "en": "I’ve <b>cut</b> my arm; it’s bleeding.",
+    "vi": "Tôi bị <b>đứt</b> tay; nó đang chảy máu."
+   }
+  },
+  {
+   "word": "bleed",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/bliːd/",
+   "def_en": "To lose blood.",
+   "def_vi": "Mất máu.",
+   "gloss_vi": "chảy máu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bleed</i> (verb) = chảy máu. <b>Grammar</b>: <i>bleed – bled – bled</i>. <b>Word family</b>: <i>blood</i> (n.).",
+   "example": {
+    "en": "I’ve cut my arm; it’s <b>bleeding</b>.",
+    "vi": "Tôi bị đứt tay; nó đang <b>chảy máu</b>."
+   }
+  },
+  {
+   "word": "bandage",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbændɪdʒ/",
+   "def_en": "A long piece of cloth that you put round an injury.",
+   "def_vi": "Dải vải dài quấn quanh vết thương.",
+   "gloss_vi": "băng (y tế)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bandage</i> (noun) = băng (y tế). <b>Grammar</b>: <i>put a bandage on/round sth</i>.",
+   "example": {
+    "en": "Put a <b>bandage</b> round it.",
+    "vi": "Quấn <b>băng</b> quanh vết thương."
+   }
+  },
+  {
+   "word": "cough",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kɒf/",
+   "def_en": "The action or sound of forcing air out of your throat.",
+   "def_vi": "Động tác hay tiếng đẩy hơi ra khỏi họng.",
+   "gloss_vi": "cơn ho, bệnh ho",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cough</i> (noun) = cơn ho, bệnh ho. <b>Grammar</b>: <i>have (got) a cough</i>; cũng là động từ. <b>Common mistakes</b>: /kɒf/.",
+   "example": {
+    "en": "I’ve got a terrible <b>cough</b>.",
+    "vi": "Tôi bị <b>ho</b> rất nặng."
+   }
+  },
+  {
+   "word": "medicine",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmedsn/",
+   "def_en": "Something you take to treat an illness.",
+   "def_vi": "Thứ uống để chữa bệnh.",
+   "gloss_vi": "thuốc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Medicine</i> (noun) = thuốc. <b>Grammar</b>: không đếm được ở nghĩa này. <b>Common mistakes</b>: /ˈmedsn/.",
+   "example": {
+    "en": "Go to the chemist and get some cough <b>medicine</b>.",
+    "vi": "Hãy đến hiệu thuốc mua ít <b>thuốc</b> ho."
+   }
+  },
+  {
+   "word": "headache",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhedeɪk/",
+   "def_en": "A pain in your head.",
+   "def_vi": "Cơn đau trong đầu.",
+   "gloss_vi": "đau đầu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Headache</i> (noun) = đau đầu. <b>Grammar</b>: <i>have (got) a headache</i> (có <i>a</i>).",
+   "example": {
+    "en": "I’ve got a <b>headache</b>.",
+    "vi": "Tôi bị <b>đau đầu</b>."
+   }
+  },
+  {
+   "word": "tablet",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtæblət/",
+   "def_en": "A small round piece of medicine that you swallow.",
+   "def_vi": "Viên thuốc nhỏ để nuốt.",
+   "gloss_vi": "viên thuốc",
+   "synonyms": "pill <i>(n. viên thuốc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tablet</i> (noun) = viên thuốc. <b>Grammar</b>: <i>take a tablet</i>. <b>Common mistakes</b>: cũng là máy tính bảng.",
+   "example": {
+    "en": "Take some <b>tablets</b> for the pain.",
+    "vi": "Uống vài <b>viên thuốc</b> giảm đau."
+   }
+  },
+  {
+   "word": "feel sick",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌfiːl ˈsɪk/",
+   "def_en": "To feel that you are going to vomit.",
+   "def_vi": "Thấy như sắp nôn.",
+   "gloss_vi": "buồn nôn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Feel sick</i> (verb phrase) = buồn nôn. <b>Grammar</b>: Anh–Anh <i>feel sick</i> = buồn nôn (Mỹ <i>sick</i> = ốm).",
+   "example": {
+    "en": "I <b>feel sick</b>.",
+    "vi": "Tôi thấy <b>buồn nôn</b>."
+   }
+  },
+  {
+   "word": "ache",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/eɪk/",
+   "def_en": "A pain that is not always strong but continues.",
+   "def_vi": "Cơn đau không mạnh nhưng kéo dài.",
+   "gloss_vi": "cơn đau âm ỉ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ache</i> (noun) = cơn đau âm ỉ. <b>Grammar</b>: ghép: <i>headache, stomach ache, backache, toothache</i>. <b>Common mistakes</b>: /eɪk/.",
+   "example": {
+    "en": "An <b>ache</b> describes pain that is not always strong, but often continues.",
+    "vi": "<b>Cơn đau âm ỉ</b> là cơn đau không luôn mạnh nhưng thường kéo dài."
+   }
+  },
+  {
+   "word": "stomach ache",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈstʌmək eɪk/",
+   "def_en": "A pain in your stomach.",
+   "def_vi": "Cơn đau bụng.",
+   "gloss_vi": "đau bụng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stomach ache</i> (noun phrase) = đau bụng. <b>Grammar</b>: thường không có <i>a</i> (Anh–Anh). <b>Common mistakes</b>: /ˈstʌmək/.",
+   "example": {
+    "en": "Aria’s got <b>stomach ache</b>.",
+    "vi": "Aria bị <b>đau bụng</b>."
+   }
+  },
+  {
+   "word": "suffer from",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˈsʌfə frəm/",
+   "def_en": "To often have the pain of an illness.",
+   "def_vi": "Thường bị đau vì bệnh gì.",
+   "gloss_vi": "bị (bệnh), mắc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Suffer from</i> (phrasal verb) = bị (bệnh), mắc. <b>Grammar</b>: <i>suffer from + bệnh</i>.",
+   "example": {
+    "en": "My dad <b>suffers from</b> backache.",
+    "vi": "Bố tôi <b>bị</b> đau lưng."
+   }
+  },
+  {
+   "word": "backache",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbækeɪk/",
+   "def_en": "A pain in your back.",
+   "def_vi": "Cơn đau lưng.",
+   "gloss_vi": "đau lưng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Backache</i> (noun) = đau lưng. <b>Grammar</b>: không đếm được (Anh–Anh).",
+   "example": {
+    "en": "My dad suffers from <b>backache</b>.",
+    "vi": "Bố tôi bị <b>đau lưng</b>."
+   }
+  },
+  {
+   "word": "pain",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/peɪn/",
+   "def_en": "The feeling you have when part of your body hurts.",
+   "def_vi": "Cảm giác khi một phần cơ thể bị đau.",
+   "gloss_vi": "cơn đau",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pain</i> (noun) = cơn đau. <b>Grammar</b>: <i>a pain in my…</i>; <i>in pain</i>. <b>Word family</b>: <i>painful</i> (adj.).",
+   "example": {
+    "en": "I’ve got a <b>pain</b> in my shoulder.",
+    "vi": "Tôi bị <b>đau</b> ở vai."
+   }
+  },
+  {
+   "word": "ache",
+   "sense": "verb",
+   "pos": "verb",
+   "ipa": "/eɪk/",
+   "def_en": "To feel a pain that continues for some time.",
+   "def_vi": "Đau kéo dài một lúc.",
+   "gloss_vi": "đau nhức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ache</i> (verb) = đau nhức. <b>Grammar</b>: nội động từ: <i>my feet ache</i>.",
+   "example": {
+    "en": "By the end of the day my feet were <b>aching</b>.",
+    "vi": "Đến cuối ngày chân tôi <b>đau nhức</b>."
+   }
+  },
+  {
+   "word": "hurt",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/hɜːt/",
+   "def_en": "To feel strong or sudden pain.",
+   "def_vi": "Đau mạnh hay đột ngột.",
+   "gloss_vi": "đau",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hurt</i> (verb) = đau. <b>Grammar</b>: <i>hurt – hurt – hurt</i>; nội động từ (<i>it hurts</i>) hoặc ngoại động từ (<i>I hurt my leg</i>).",
+   "example": {
+    "en": "My throat <b>hurts</b> when I speak.",
+    "vi": "Họng tôi <b>đau</b> khi nói."
+   }
+  },
+  {
+   "word": "painful",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈpeɪnfl/",
+   "def_en": "Causing pain.",
+   "def_vi": "Gây đau.",
+   "gloss_vi": "đau đớn",
+   "synonyms": "sore <i>(adj. đau rát)</i>",
+   "antonyms": "painless <i>(adj. không đau)</i>",
+   "grammar_vi": "<i>Painful</i> (adjective) = đau đớn. <b>Grammar</b>: <i>pain</i> + <i>-ful</i>.",
+   "example": {
+    "en": "I hit my leg on the table and it’s very <b>painful</b>.",
+    "vi": "Tôi va chân vào bàn và nó rất <b>đau</b>."
+   }
+  },
+  {
+   "word": "serious",
+   "sense": "illness",
+   "pos": "adjective",
+   "ipa": "/ˈsɪəriəs/",
+   "def_en": "Bad.",
+   "def_vi": "Nặng, nghiêm trọng.",
+   "gloss_vi": "nghiêm trọng, nặng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "minor <i>(adj. nhẹ)</i>",
+   "grammar_vi": "<i>Serious</i> (adjective) = nghiêm trọng, nặng. <b>Grammar</b>: <i>a serious illness/accident</i>.",
+   "example": {
+    "en": "For <b>serious</b> illnesses, you will probably go into hospital.",
+    "vi": "Với những bệnh <b>nặng</b>, có lẽ bạn sẽ phải vào viện."
+   }
+  },
+  {
+   "word": "patient",
+   "sense": "hospital",
+   "pos": "noun",
+   "ipa": "/ˈpeɪʃnt/",
+   "def_en": "A person who stays in hospital.",
+   "def_vi": "Người nằm viện.",
+   "gloss_vi": "bệnh nhân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Patient</i> (noun) = bệnh nhân. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: tính từ <i>patient</i> = kiên nhẫn.",
+   "example": {
+    "en": "A person who stays in hospital is called a <b>patient</b>.",
+    "vi": "Người nằm viện được gọi là <b>bệnh nhân</b>."
+   }
+  },
+  {
+   "word": "operation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɒpəˈreɪʃn/",
+   "def_en": "When doctors cut into the body for medical reasons.",
+   "def_vi": "Khi bác sĩ mổ cơ thể vì lý do y tế.",
+   "gloss_vi": "ca mổ, phẫu thuật",
+   "synonyms": "surgery <i>(n. phẫu thuật)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Operation</i> (noun) = ca mổ, phẫu thuật. <b>Grammar</b>: <i>have an operation (on sth)</i>.",
+   "example": {
+    "en": "Many patients need an <b>operation</b>.",
+    "vi": "Nhiều bệnh nhân cần <b>phẫu thuật</b>."
+   }
+  },
+  {
+   "word": "surgeon",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɜːdʒən/",
+   "def_en": "A special doctor who does operations.",
+   "def_vi": "Bác sĩ chuyên mổ.",
+   "gloss_vi": "bác sĩ phẫu thuật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Surgeon</i> (noun) = bác sĩ phẫu thuật. <b>Grammar</b>: đếm được. <b>Word family</b>: <i>surgery</i> (n.).",
+   "example": {
+    "en": "Special doctors, called <b>surgeons</b>, cut into the body for medical reasons.",
+    "vi": "Ca mổ do những bác sĩ đặc biệt, gọi là <b>bác sĩ phẫu thuật</b>, thực hiện."
+   }
+  },
+  {
+   "word": "lung cancer",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌlʌŋ ˈkænsə(r)/",
+   "def_en": "A serious disease of the lungs.",
+   "def_vi": "Bệnh nặng ở phổi.",
+   "gloss_vi": "ung thư phổi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lung cancer</i> (noun phrase) = ung thư phổi. <b>Grammar</b>: không đếm được; <i>lungs</i> = phổi.",
+   "example": {
+    "en": "<b>Lung cancer</b> can be caused by smoking.",
+    "vi": "<b>Ung thư phổi</b> có thể do hút thuốc."
+   }
+  },
+  {
+   "word": "heart attack",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈhɑːt ətæk/",
+   "def_en": "When the heart suddenly stops working properly.",
+   "def_vi": "Khi tim đột ngột ngừng hoạt động bình thường.",
+   "gloss_vi": "cơn đau tim",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Heart attack</i> (noun phrase) = cơn đau tim. <b>Grammar</b>: <i>have a heart attack</i>.",
+   "example": {
+    "en": "<b>Heart attacks</b> can happen very suddenly.",
+    "vi": "<b>Cơn đau tim</b> có thể xảy ra rất đột ngột."
+   }
+  },
+  {
+   "word": "disease",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈziːz/",
+   "def_en": "A serious medical problem, often affecting part of the body.",
+   "def_vi": "Vấn đề y tế nặng, thường ở một bộ phận cơ thể.",
+   "gloss_vi": "bệnh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Disease</i> (noun) = bệnh. <b>Grammar</b>: <i>heart disease</i>; không dùng cho một khoảng thời gian bị ốm (dùng <i>illness</i>).",
+   "example": {
+    "en": "Hepatitis is a <b>disease</b> affecting the liver.",
+    "vi": "Viêm gan là <b>bệnh</b> ảnh hưởng tới gan."
+   }
+  },
+  {
+   "word": "liver",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlɪvə(r)/",
+   "def_en": "The organ in your body that cleans the blood.",
+   "def_vi": "Cơ quan làm sạch máu trong cơ thể.",
+   "gloss_vi": "gan",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Liver</i> (noun) = gan. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Hepatitis is a disease affecting the <b>liver</b>.",
+    "vi": "Viêm gan là bệnh ảnh hưởng tới <b>gan</b>."
+   }
+  },
+  {
+   "word": "illness",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɪlnəs/",
+   "def_en": "A serious or minor medical problem, including of the mind.",
+   "def_vi": "Vấn đề y tế nặng hay nhẹ, cả về tinh thần.",
+   "gloss_vi": "bệnh tật, thời gian ốm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Illness</i> (noun) = bệnh tật, thời gian ốm. <b>Grammar</b>: <i>after a long illness</i> (không dùng <i>disease</i>); <i>mental illness</i>.",
+   "example": {
+    "en": "He died after a long <b>illness</b>.",
+    "vi": "Ông ấy mất sau một <b>trận ốm</b> dài."
+   }
+  }
+ ]
+}

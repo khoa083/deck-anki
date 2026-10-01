@@ -1,0 +1,395 @@
+{
+ "book": "pre",
+ "unit": 19,
+ "title_vi": "Tiền bạc",
+ "theory_html": "<p><b>A. Notes and coins</b><br><i>A. Tiền giấy và tiền xu</i></p> <p><b>currency</b>: <b>sterling</b> (UK), <b>the dollar</b>, <b>the euro</b>. <b>Notes</b>: <b>a ten-pound note</b>; <b>coins</b>: <b>fifty p</b>, <b>a fifty-pence piece</b>, <b>a one-pound coin</b>.</p><p><i><b>tiền tệ, đồng bảng Anh; tiền giấy, tiền xu</b>.</i></p> <p><b>B. Managing your money</b><br><i>B. Quản lý tiền</i></p> <p><b>a bank account</b> always <b>in credit</b>; the <b>cashpoint</b>; <b>cash</b>; <b>check</b> my account online.</p><p><i><b>tài khoản ngân hàng, có dư tiền, máy rút tiền, tiền mặt, kiểm tra</b>.</i></p> <p><b>C. Money problems</b><br><i>C. Vấn đề tiền bạc</i></p> <p><b>a student loan</b> to pay my <b>fees</b>; don’t <b>waste money</b>; I <b>owed</b> a lot (<b>pay back</b>); <b>earning</b> a <b>reasonable amount</b>; <b>saving up</b> for a laptop; <b>can’t afford</b> a car.</p><p><i><b>khoản vay sinh viên, học phí, phí tiền, nợ, trả lại, kiếm, khoản kha khá, dành dụm, không đủ tiền mua</b>.</i></p> <p><b>D. Accommodation</b><br><i>D. Chỗ ở</i></p> <p><b>renting a flat</b>, one month’s <b>rent</b> as a <b>deposit</b>, <b>good value for money</b>, the landlord isn’t <b>charging</b> us. <b>rent</b> (long period) vs <b>hire</b> (short: <b>hired a bike</b>); both with cars.</p><p><i><b>thuê, tiền thuê, tiền đặt cọc, đáng đồng tiền, tính phí; thuê dài hạn / thuê ngắn</b>.</i></p>",
+ "items": [
+  {
+   "word": "currency",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkʌrənsi/",
+   "def_en": "The type of money used in a country.",
+   "def_vi": "Loại tiền dùng ở một nước.",
+   "gloss_vi": "tiền tệ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Currency</i> (noun) = tiền tệ. <b>Grammar</b>: số nhiều <i>currencies</i>; <i>foreign currency</i>.",
+   "example": {
+    "en": "In the UK the <b>currency</b> is sterling.",
+    "vi": "Ở Anh <b>tiền tệ</b> là đồng bảng Anh."
+   }
+  },
+  {
+   "word": "sterling",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈstɜːlɪŋ/",
+   "def_en": "The money used in the UK; pounds.",
+   "def_vi": "Tiền dùng ở Anh; đồng bảng.",
+   "gloss_vi": "đồng bảng Anh",
+   "synonyms": "pounds <i>(pn. bảng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sterling</i> (noun) = đồng bảng Anh. <b>Grammar</b>: không đếm được; <i>pounds sterling</i>.",
+   "example": {
+    "en": "In the UK the currency is <b>sterling</b>.",
+    "vi": "Ở Anh tiền tệ là <b>đồng bảng Anh</b>."
+   }
+  },
+  {
+   "word": "note",
+   "sense": "money",
+   "pos": "noun",
+   "ipa": "/nəʊt/",
+   "def_en": "A piece of paper money.",
+   "def_vi": "Tờ tiền giấy.",
+   "gloss_vi": "tờ tiền giấy",
+   "synonyms": "bill <i>(n. tiền giấy (Mỹ))</i>",
+   "antonyms": "coin <i>(n. tiền xu)</i>",
+   "grammar_vi": "<i>Note</i> (noun) = tờ tiền giấy. <b>Grammar</b>: <i>a ten-pound note</i> (<i>pound</i> số ít khi làm tính từ).",
+   "ex_kit": true,
+   "example": {
+    "en": "Can you change a ten-pound <b>note</b>?",
+    "vi": "Bạn có thể đổi cho tôi <b>tờ</b> mười bảng không?"
+   }
+  },
+  {
+   "word": "coin",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kɔɪn/",
+   "def_en": "A piece of metal money.",
+   "def_vi": "Đồng tiền kim loại.",
+   "gloss_vi": "đồng xu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "note <i>(n. tiền giấy)</i>",
+   "grammar_vi": "<i>Coin</i> (noun) = đồng xu. <b>Grammar</b>: <i>a one-pound coin</i> nhưng <i>a fifty-pence piece</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Have you got a one-pound <b>coin</b> for the machine?",
+    "vi": "Bạn có <b>đồng xu</b> một bảng cho máy không?"
+   }
+  },
+  {
+   "word": "fifty p",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌfɪfti ˈpiː/",
+   "def_en": "Fifty pence (spoken).",
+   "def_vi": "Năm mươi xu (văn nói).",
+   "gloss_vi": "năm mươi xu",
+   "synonyms": "fifty pence <i>(np. năm mươi xu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fifty p</i> (noun phrase) = năm mươi xu. <b>Grammar</b>: <i>p</i> /piː/ = <i>pence</i> trong văn nói.",
+   "ex_kit": true,
+   "example": {
+    "en": "A pencil costs <b>fifty p</b>.",
+    "vi": "Một cái bút chì giá <b>năm mươi xu</b>."
+   }
+  },
+  {
+   "word": "bank account",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈbæŋk əkaʊnt/",
+   "def_en": "An arrangement to keep your money in a bank.",
+   "def_vi": "Thỏa thuận gửi tiền ở ngân hàng.",
+   "gloss_vi": "tài khoản ngân hàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bank account</i> (noun phrase) = tài khoản ngân hàng. <b>Grammar</b>: <i>open/close a bank account</i>.",
+   "example": {
+    "en": "I’ve had a <b>bank account</b> for a few years now.",
+    "vi": "Tôi có <b>tài khoản ngân hàng</b> được vài năm rồi."
+   }
+  },
+  {
+   "word": "in credit",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪn ˈkredɪt/",
+   "def_en": "Having money in the account.",
+   "def_vi": "Có tiền trong tài khoản.",
+   "gloss_vi": "còn dư tiền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "overdrawn <i>(adj. thấu chi)</i>",
+   "grammar_vi": "<i>In credit</i> (phrase) = còn dư tiền. <b>Grammar</b>: <i>be in credit</i>.",
+   "example": {
+    "en": "I make sure my account is always <b>in credit</b>.",
+    "vi": "Tôi đảm bảo tài khoản luôn <b>còn dư tiền</b>."
+   }
+  },
+  {
+   "word": "cashpoint",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkæʃpɔɪnt/",
+   "def_en": "A machine in a wall where you get money from your bank account.",
+   "def_vi": "Máy ở tường để rút tiền từ tài khoản.",
+   "gloss_vi": "máy rút tiền",
+   "synonyms": "ATM <i>(n. máy ATM)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cashpoint</i> (noun) = máy rút tiền. <b>Grammar</b>: Anh–Anh; cũng <i>ATM, cash machine</i>.",
+   "example": {
+    "en": "I go to the <b>cashpoint</b> once a week.",
+    "vi": "Tôi ra <b>máy rút tiền</b> mỗi tuần một lần."
+   }
+  },
+  {
+   "word": "cash",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kæʃ/",
+   "def_en": "Money in the form of notes and coins.",
+   "def_vi": "Tiền dưới dạng giấy và xu.",
+   "gloss_vi": "tiền mặt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cash</i> (noun) = tiền mặt. <b>Grammar</b>: không đếm được; <i>pay in cash</i>.",
+   "example": {
+    "en": "So I always have some <b>cash</b> with me.",
+    "vi": "Nên tôi luôn có ít <b>tiền mặt</b> bên mình."
+   }
+  },
+  {
+   "word": "check",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/tʃek/",
+   "def_en": "To look at the details of something.",
+   "def_vi": "Xem chi tiết của thứ gì.",
+   "gloss_vi": "kiểm tra",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Check</i> (verb) = kiểm tra. <b>Grammar</b>: <i>check sth</i>; Mỹ <i>check</i> (n.) = séc (Anh <i>cheque</i>).",
+   "example": {
+    "en": "I <b>check</b> my account online once a week.",
+    "vi": "Tôi <b>kiểm tra</b> tài khoản trực tuyến mỗi tuần một lần."
+   }
+  },
+  {
+   "word": "student loan",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌstjuːdnt ˈləʊn/",
+   "def_en": "Money you borrow to pay for your studies.",
+   "def_vi": "Tiền vay để trả cho việc học.",
+   "gloss_vi": "khoản vay sinh viên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Student loan</i> (noun phrase) = khoản vay sinh viên. <b>Grammar</b>: <i>get/take out a loan</i>.",
+   "example": {
+    "en": "When I went to university, I had to get a <b>student loan</b> to pay my fees.",
+    "vi": "Khi vào đại học, tôi phải vay <b>khoản vay sinh viên</b> để đóng học phí."
+   }
+  },
+  {
+   "word": "fee",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/fiː/",
+   "def_en": "Money you pay to use something or for a service.",
+   "def_vi": "Tiền trả để dùng thứ gì hay cho dịch vụ.",
+   "gloss_vi": "phí, học phí",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fee</i> (noun) = phí, học phí. <b>Grammar</b>: <i>school/university fees</i>; <i>a lawyer’s fee</i>.",
+   "example": {
+    "en": "I had to get a student loan to pay my <b>fees</b>.",
+    "vi": "Tôi phải vay để đóng <b>học phí</b>."
+   }
+  },
+  {
+   "word": "waste money",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌweɪst ˈmʌni/",
+   "def_en": "To use money badly.",
+   "def_vi": "Dùng tiền không đúng chỗ.",
+   "gloss_vi": "phí tiền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "save money <i>(vp. tiết kiệm tiền)</i>",
+   "grammar_vi": "<i>Waste money</i> (verb phrase) = phí tiền. <b>Grammar</b>: <i>waste money/time on sth</i>.",
+   "example": {
+    "en": "I had to be careful and make sure I didn’t <b>waste money</b>.",
+    "vi": "Tôi phải cẩn thận để không <b>phí tiền</b>."
+   }
+  },
+  {
+   "word": "owe",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əʊ/",
+   "def_en": "To have to pay back money to someone.",
+   "def_vi": "Phải trả lại tiền cho ai.",
+   "gloss_vi": "nợ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Owe</i> (verb) = nợ. <b>Grammar</b>: <i>owe sb money / owe money to sb</i>. <b>Common mistakes</b>: /əʊ/.",
+   "example": {
+    "en": "By the time I finished my degree I <b>owed</b> a lot.",
+    "vi": "Lúc tốt nghiệp, tôi <b>nợ</b> rất nhiều."
+   }
+  },
+  {
+   "word": "pay back",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌpeɪ ˈbæk/",
+   "def_en": "To return money you have borrowed.",
+   "def_vi": "Trả lại tiền đã vay.",
+   "gloss_vi": "trả lại (nợ)",
+   "synonyms": "repay <i>(v. hoàn trả)</i>",
+   "antonyms": "borrow <i>(v. vay)</i>",
+   "grammar_vi": "<i>Pay back</i> (phrasal verb) = trả lại (nợ). <b>Grammar</b>: tách được: <i>pay it back</i>; <i>pay – paid</i>.",
+   "example": {
+    "en": "I don’t have to <b>pay it back</b> until I get a job.",
+    "vi": "Tôi không phải <b>trả lại</b> cho đến khi có việc làm."
+   }
+  },
+  {
+   "word": "earn",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɜːn/",
+   "def_en": "To receive money for the work you do.",
+   "def_vi": "Nhận tiền cho công việc mình làm.",
+   "gloss_vi": "kiếm (tiền)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Earn</i> (verb) = kiếm (tiền). <b>Grammar</b>: <i>earn money / a living</i>. <b>Common mistakes</b>: /ɜːn/.",
+   "example": {
+    "en": "Until I get a job and I’m <b>earning</b> a reasonable amount of money.",
+    "vi": "Khi tôi có việc và <b>kiếm</b> được kha khá tiền."
+   }
+  },
+  {
+   "word": "reasonable amount",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌriːznəbl əˈmaʊnt/",
+   "def_en": "Quite a lot.",
+   "def_vi": "Khá nhiều.",
+   "gloss_vi": "khoản kha khá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reasonable amount</i> (noun phrase) = khoản kha khá. <b>Grammar</b>: <i>a reasonable/large amount of</i> + danh từ không đếm được.",
+   "example": {
+    "en": "Until I get a job and I’m earning a <b>reasonable amount</b> of money.",
+    "vi": "Khi tôi có việc và kiếm được <b>khoản tiền kha khá</b>."
+   }
+  },
+  {
+   "word": "save up",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌseɪv ˈʌp/",
+   "def_en": "To keep money to buy something in the future.",
+   "def_vi": "Để dành tiền mua thứ gì sau này.",
+   "gloss_vi": "dành dụm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "spend <i>(v. tiêu)</i>",
+   "grammar_vi": "<i>Save up</i> (phrasal verb) = dành dụm. <b>Grammar</b>: <i>save up for sth</i>.",
+   "example": {
+    "en": "At the moment I’m <b>saving up</b> for a new laptop.",
+    "vi": "Hiện tôi đang <b>dành dụm</b> mua máy tính xách tay mới."
+   }
+  },
+  {
+   "word": "can’t afford",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌkɑːnt əˈfɔːd/",
+   "def_en": "Not to have enough money to buy something.",
+   "def_vi": "Không đủ tiền mua thứ gì.",
+   "gloss_vi": "không đủ tiền mua",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Can’t afford</i> (verb phrase) = không đủ tiền mua. <b>Grammar</b>: <i>can’t afford sth / to do sth</i>. <b>Common mistakes</b>: thường dùng với <i>can/can’t</i>.",
+   "example": {
+    "en": "I’d love to have a car as well, but I <b>can’t afford</b> it.",
+    "vi": "Tôi muốn có ô tô nhưng <b>không đủ tiền mua</b>."
+   }
+  },
+  {
+   "word": "rent",
+   "sense": "money",
+   "pos": "noun",
+   "ipa": "/rent/",
+   "def_en": "The amount you pay to use a house or flat.",
+   "def_vi": "Số tiền trả để dùng nhà hay căn hộ.",
+   "gloss_vi": "tiền thuê nhà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rent</i> (noun) = tiền thuê nhà. <b>Grammar</b>: <i>The rent is £400 per month</i>. <b>Common mistakes</b>: <i>rent</i> (v.) = thuê.",
+   "example": {
+    "en": "We had to pay one month’s <b>rent</b> as a deposit.",
+    "vi": "Chúng tôi phải trả một tháng <b>tiền thuê nhà</b> làm tiền đặt cọc."
+   }
+  },
+  {
+   "word": "deposit",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈpɒzɪt/",
+   "def_en": "Money you pay that is returned when you finish using something.",
+   "def_vi": "Tiền trả trước, được trả lại khi dùng xong.",
+   "gloss_vi": "tiền đặt cọc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Deposit</i> (noun) = tiền đặt cọc. <b>Grammar</b>: <i>pay a deposit</i>.",
+   "example": {
+    "en": "We had to pay one month’s rent as a <b>deposit</b>.",
+    "vi": "Chúng tôi phải trả một tháng tiền thuê làm <b>tiền đặt cọc</b>."
+   }
+  },
+  {
+   "word": "good value for money",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌɡʊd ˌvæljuː fə ˈmʌni/",
+   "def_en": "Good for the amount of money you pay.",
+   "def_vi": "Tốt so với số tiền bỏ ra.",
+   "gloss_vi": "đáng đồng tiền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Good value for money</i> (noun phrase) = đáng đồng tiền. <b>Grammar</b>: <i>be good value (for money)</i>.",
+   "example": {
+    "en": "It’s a nice place, quite <b>good value for money</b>.",
+    "vi": "Đó là một nơi đẹp, khá <b>đáng đồng tiền</b>."
+   }
+  },
+  {
+   "word": "charge",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/tʃɑːdʒ/",
+   "def_en": "To ask someone to pay an amount of money.",
+   "def_vi": "Yêu cầu ai trả một khoản tiền.",
+   "gloss_vi": "tính phí",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Charge</i> (verb) = tính phí. <b>Grammar</b>: <i>charge sb (money) for sth / to do sth</i>.",
+   "example": {
+    "en": "The landlord isn’t <b>charging</b> us to use his garage.",
+    "vi": "Chủ nhà không <b>tính phí</b> chúng tôi dùng ga-ra."
+   }
+  },
+  {
+   "word": "hire",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈhaɪə(r)/",
+   "def_en": "To pay to use something for a short period of time.",
+   "def_vi": "Trả tiền để dùng thứ gì trong thời gian ngắn.",
+   "gloss_vi": "thuê (ngắn hạn)",
+   "synonyms": "rent <i>(v. thuê)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hire</i> (verb) = thuê (ngắn hạn). <b>Grammar</b>: <i>hire</i> (ngắn hạn) ≠ <i>rent</i> (dài hạn); với ô tô dùng cả hai.",
+   "example": {
+    "en": "I <b>hired</b> a bike for the day.",
+    "vi": "Tôi <b>thuê</b> một chiếc xe đạp trong ngày."
+   }
+  }
+ ]
+}
