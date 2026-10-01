@@ -1,0 +1,328 @@
+{
+ "book": "ele",
+ "unit": 36,
+ "title_vi": "Rắc rối ở nhà và nơi làm việc",
+ "theory_html": "<p><b>A. At home</b><br><i>A. Ở nhà</i></p> <p>The washing machine is <b>broken</b> – <b>mend</b> it; the TV <b>isn’t working</b> – <b>repair</b> it; the plants <b>are dying</b> – <b>water</b> them; the room is <b>untidy</b> – <b>tidy</b> it; you’ve <b>lost</b> your keys – <b>look for</b> them; you’ve <b>cut</b> your finger – <b>put on a plaster</b>; you’ve <b>had a row with</b> a friend – <b>apologise</b>.</p><p><i>Máy giặt <b>hỏng</b> – <b>sửa</b>; ti vi <b>không chạy</b>; cây <b>sắp chết</b> – <b>tưới nước</b>; phòng <b>bừa bộn</b> – <b>dọn</b>; <b>mất</b> chìa khóa – <b>tìm</b>; <b>đứt</b> tay – <b>dán băng cá nhân</b>; <b>cãi nhau</b> với bạn – <b>xin lỗi</b>.</i></p> <p><b>B. At work</b><br><i>B. Ở chỗ làm</i></p> <p>Chloe <b>had a bad day</b>: she was <b>late for</b> work, had <b>too much work</b>, her colleague was <b>in a bad mood</b>, her <b>computer crashed</b>, the photocopier was <b>out of order</b>. Tip: write your to-do lists in English.</p><p><i>Chloe <b>có một ngày tồi tệ</b>: <b>đi làm muộn</b>, <b>quá nhiều việc</b>, đồng nghiệp <b>cáu kỉnh</b>, <b>máy tính bị treo</b>, máy photo <b>hỏng</b>. Mẹo: viết danh sách việc cần làm bằng tiếng Anh.</i></p>",
+ "items": [
+  {
+   "word": "broken",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈbrəʊkən/",
+   "def_en": "Not working because it is damaged.",
+   "def_vi": "Không hoạt động vì bị hư hại.",
+   "gloss_vi": "hỏng, vỡ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "working <i>(adj. chạy tốt)</i>",
+   "grammar_vi": "<i>Broken</i> (adjective) = hỏng, vỡ. <b>Grammar</b>: phân từ của <i>break</i>; <i>be broken</i>. <b>Collocations / chunks</b>: <i>a broken window</i> (cửa kính vỡ).",
+   "example": {
+    "en": "The washing machine is <b>broken</b>.",
+    "vi": "Máy giặt <b>bị hỏng</b>. Chúng ta cần sửa nó."
+   }
+  },
+  {
+   "word": "mend",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/mend/",
+   "def_en": "To repair something that is broken.",
+   "def_vi": "Sửa vật bị hỏng.",
+   "gloss_vi": "sửa",
+   "synonyms": "repair <i>(v. sửa chữa)</i>, fix <i>(v. sửa)</i>",
+   "antonyms": "break <i>(v. làm hỏng)</i>",
+   "grammar_vi": "<i>Mend</i> (verb) = sửa. <b>Grammar</b>: <i>mend</i> + đồ vật. <b>Common mistakes</b>: Anh–Anh, thân mật hơn <i>repair</i>.",
+   "example": {
+    "en": "We need to <b>mend</b> it.",
+    "vi": "Máy giặt bị hỏng. Chúng ta cần <b>sửa</b> nó."
+   }
+  },
+  {
+   "word": "isn’t working",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌɪznt ˈwɜːkɪŋ/",
+   "def_en": "Is not operating as it should.",
+   "def_vi": "Không hoạt động như bình thường.",
+   "gloss_vi": "không chạy, hỏng",
+   "synonyms": "is broken <i>(phr. bị hỏng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Isn’t working</i> (phrase) = không chạy, hỏng. <b>Grammar</b>: thì tiếp diễn <i>isn’t / wasn’t working</i> cho máy móc.",
+   "example": {
+    "en": "The TV <b>isn’t working</b>.",
+    "vi": "Ti vi <b>không chạy</b>. Bạn sửa được không?"
+   }
+  },
+  {
+   "word": "repair",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rɪˈpeə(r)/",
+   "def_en": "To make something that is broken work again.",
+   "def_vi": "Làm vật hỏng hoạt động lại.",
+   "gloss_vi": "sửa chữa",
+   "synonyms": "mend <i>(v. sửa)</i>",
+   "antonyms": "break <i>(v. làm hỏng)</i>",
+   "grammar_vi": "<i>Repair</i> (verb) = sửa chữa. <b>Grammar</b>: <i>repair</i> + đồ vật; danh từ <i>repairs</i>.",
+   "example": {
+    "en": "Can you <b>repair</b> it?",
+    "vi": "Ti vi không chạy. Bạn <b>sửa</b> được không?"
+   }
+  },
+  {
+   "word": "dying",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈdaɪɪŋ/",
+   "def_en": "Very ill and going to die soon.",
+   "def_vi": "Sắp chết.",
+   "gloss_vi": "sắp chết, héo úa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dying</i> (adjective) = sắp chết, héo úa. <b>Grammar</b>: V-ing của <i>die</i> (<i>ie</i> → <i>y</i>). <b>Collocations / chunks</b>: <i>the plants are dying</i> (cây héo dần).",
+   "example": {
+    "en": "The plants are <b>dying</b>.",
+    "vi": "Cây cối <b>đang chết dần</b>."
+   }
+  },
+  {
+   "word": "water",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈwɔːtə(r)/",
+   "def_en": "To give water to plants.",
+   "def_vi": "Tưới nước cho cây.",
+   "gloss_vi": "tưới nước",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Water</i> (verb) = tưới nước. <b>Grammar</b>: động từ cùng dạng danh từ <i>water</i>. <b>Collocations / chunks</b>: <i>water the plants</i> (tưới cây).",
+   "example": {
+    "en": "Did you forget to <b>water</b> them?",
+    "vi": "Bạn quên <b>tưới nước</b> cho chúng à?"
+   }
+  },
+  {
+   "word": "untidy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ʌnˈtaɪdi/",
+   "def_en": "Not neat; with things in the wrong places.",
+   "def_vi": "Không gọn gàng, đồ đạc lộn xộn.",
+   "gloss_vi": "bừa bộn",
+   "synonyms": "messy <i>(adj. bừa bộn)</i>",
+   "antonyms": "tidy <i>(adj. gọn gàng)</i>",
+   "grammar_vi": "<i>Untidy</i> (adjective) = bừa bộn. <b>Grammar</b>: tiền tố <i>un-</i> + <i>tidy</i>.",
+   "example": {
+    "en": "The room is <b>untidy</b>.",
+    "vi": "Căn phòng <b>bừa bộn</b>. Chúng ta phải dọn."
+   }
+  },
+  {
+   "word": "tidy",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈtaɪdi/",
+   "def_en": "To make a place neat by putting things where they belong.",
+   "def_vi": "Sắp xếp nơi chốn gọn gàng.",
+   "gloss_vi": "dọn dẹp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tidy</i> (verb) = dọn dẹp. <b>Grammar</b>: quá khứ <i>tidied</i>; cũng là tính từ <i>tidy</i> (gọn gàng). <b>Collocations / chunks</b>: <i>tidy up</i> (dọn dẹp).",
+   "example": {
+    "en": "We must <b>tidy</b> it.",
+    "vi": "Căn phòng bừa bộn. Chúng ta phải <b>dọn</b> nó."
+   }
+  },
+  {
+   "word": "lose",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/luːz/",
+   "def_en": "To not be able to find something.",
+   "def_vi": "Không tìm thấy vật gì.",
+   "gloss_vi": "làm mất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "find <i>(v. tìm thấy)</i>",
+   "grammar_vi": "<i>Lose</i> (verb) = làm mất. <b>Grammar</b>: <i>lose / lost / lost</i>; đọc /luːz/. <b>Common mistakes</b>: khác <i>loose</i> /luːs/ (lỏng).",
+   "example": {
+    "en": "I’ve <b>lost</b> my keys.",
+    "vi": "Tôi <b>làm mất</b> chìa khóa rồi."
+   }
+  },
+  {
+   "word": "look for",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˈlʊk fə(r)/",
+   "def_en": "To try to find something or someone.",
+   "def_vi": "Cố tìm ai hay vật gì.",
+   "gloss_vi": "tìm kiếm",
+   "synonyms": "search for <i>(vp. tìm)</i>",
+   "antonyms": "find <i>(v. tìm thấy)</i>",
+   "grammar_vi": "<i>Look for</i> (phrasal verb) = tìm kiếm. <b>Grammar</b>: không tách được: <i>look for them</i>. <b>Common mistakes</b>: <i>look for</i> = tìm; <i>find</i> = tìm thấy.",
+   "example": {
+    "en": "Will you help me <b>look for</b> them?",
+    "vi": "Bạn giúp tôi <b>tìm</b> chúng nhé?"
+   }
+  },
+  {
+   "word": "cut",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kʌt/",
+   "def_en": "To hurt yourself with something sharp.",
+   "def_vi": "Làm mình bị thương bằng vật sắc.",
+   "gloss_vi": "làm đứt, cắt phải",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cut</i> (verb) = làm đứt, cắt phải. <b>Grammar</b>: <i>cut / cut / cut</i>. <b>Collocations / chunks</b>: <i>cut your finger</i> (đứt tay).",
+   "example": {
+    "en": "You’ve <b>cut</b> your finger.",
+    "vi": "Bạn bị <b>đứt</b> tay rồi."
+   }
+  },
+  {
+   "word": "put on a plaster",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌpʊt ɒn ə ˈplɑːstə(r)/",
+   "def_en": "To cover a small cut with a sticky piece of material.",
+   "def_vi": "Dán miếng băng dính lên vết đứt nhỏ.",
+   "gloss_vi": "dán băng cá nhân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Put on a plaster</i> (verb phrase) = dán băng cá nhân. <b>Grammar</b>: <i>plaster</i> (Anh–Anh) = băng cá nhân; Mỹ: <i>Band-Aid</i>.",
+   "example": {
+    "en": "You should <b>put on a plaster</b>.",
+    "vi": "Bạn nên <b>dán băng cá nhân</b>."
+   }
+  },
+  {
+   "word": "have a row with",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌhæv ə ˈraʊ wɪð/",
+   "def_en": "To have a noisy argument with someone.",
+   "def_vi": "Cãi nhau to tiếng với ai.",
+   "gloss_vi": "cãi nhau với",
+   "synonyms": "argue with <i>(vp. tranh cãi với)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have a row with</i> (verb phrase) = cãi nhau với. <b>Grammar</b>: <i>row</i> đọc /raʊ/ (cãi nhau), khác <i>row</i> /rəʊ/ (hàng). <b>Register</b>: thân mật, Anh–Anh.",
+   "example": {
+    "en": "You’ve <b>had a row with</b> a friend. Will you apologise?",
+    "vi": "Bạn đã <b>cãi nhau với</b> một người bạn. Bạn có xin lỗi không?"
+   }
+  },
+  {
+   "word": "apologise",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈpɒlədʒaɪz/",
+   "def_en": "To say that you are sorry.",
+   "def_vi": "Nói lời xin lỗi.",
+   "gloss_vi": "xin lỗi",
+   "synonyms": "say sorry <i>(vp. xin lỗi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Apologise</i> (verb) = xin lỗi. <b>Grammar</b>: <i>apologise to sb for sth</i>; Mỹ viết <i>apologize</i>. <b>Word family</b>: <i>apology</i> (n.).",
+   "example": {
+    "en": "Will you <b>apologise</b> [say ‘I’m sorry’]?",
+    "vi": "Bạn có <b>xin lỗi</b> không?"
+   }
+  },
+  {
+   "word": "have a bad day",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌhæv ə ˌbæd ˈdeɪ/",
+   "def_en": "To have a day when a lot of things go wrong.",
+   "def_vi": "Có một ngày gặp nhiều chuyện không hay.",
+   "gloss_vi": "có một ngày tồi tệ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "have a good day <i>(vp. có một ngày tốt lành)</i>",
+   "grammar_vi": "<i>Have a bad day</i> (verb phrase) = có một ngày tồi tệ. <b>Grammar</b>: quá khứ <i>had a bad day</i>.",
+   "example": {
+    "en": "Chloe <b>had a bad day</b> at work yesterday.",
+    "vi": "Hôm qua Chloe <b>có một ngày tồi tệ</b> ở chỗ làm."
+   }
+  },
+  {
+   "word": "late for",
+   "sense": "",
+   "pos": "adjective phrase",
+   "ipa": "/ˈleɪt fə(r)/",
+   "def_en": "Arriving after the time you should.",
+   "def_vi": "Đến sau giờ quy định.",
+   "gloss_vi": "muộn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "on time <i>(pp. đúng giờ)</i>",
+   "grammar_vi": "<i>Late for</i> (adjective phrase) = muộn. <b>Grammar</b>: <i>be late for</i> + việc/sự kiện: <i>late for work</i>.",
+   "example": {
+    "en": "She was <b>late for</b> work.",
+    "vi": "Cô ấy <b>đi làm muộn</b>."
+   }
+  },
+  {
+   "word": "too much work",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌtuː mʌtʃ ˈwɜːk/",
+   "def_en": "More work than you can do.",
+   "def_vi": "Nhiều việc hơn mức làm nổi.",
+   "gloss_vi": "quá nhiều việc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Too much work</i> (noun phrase) = quá nhiều việc. <b>Grammar</b>: <i>too much</i> + danh từ không đếm được (<i>work</i>). <b>Common mistakes</b>: không nói <i>too many work</i>.",
+   "example": {
+    "en": "She had <b>too much work</b> to do.",
+    "vi": "Cô ấy có <b>quá nhiều việc</b> phải làm."
+   }
+  },
+  {
+   "word": "in a bad mood",
+   "sense": "",
+   "pos": "prepositional phrase",
+   "ipa": "/ɪn ə ˌbæd ˈmuːd/",
+   "def_en": "Feeling angry or unhappy.",
+   "def_vi": "Cảm thấy bực bội, không vui.",
+   "gloss_vi": "đang bực, cáu kỉnh",
+   "synonyms": "grumpy <i>(adj. cáu kỉnh)</i>",
+   "antonyms": "in a good mood <i>(pp. vui vẻ)</i>",
+   "grammar_vi": "<i>In a bad mood</i> (prepositional phrase) = đang bực, cáu kỉnh. <b>Grammar</b>: <i>be in a bad mood</i>.",
+   "example": {
+    "en": "Her colleague was <b>in a bad mood</b>.",
+    "vi": "Đồng nghiệp của cô ấy <b>đang cáu kỉnh</b>."
+   }
+  },
+  {
+   "word": "crash",
+   "sense": "computer",
+   "pos": "verb",
+   "ipa": "/kræʃ/",
+   "def_en": "When a computer suddenly stops working.",
+   "def_vi": "Khi máy tính đột ngột ngừng hoạt động.",
+   "gloss_vi": "bị treo, sập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Crash</i> (verb) = bị treo, sập. <b>Grammar</b>: quá khứ <i>crashed</i>. <b>Note</b>: cũng nghĩa đâm xe (<i>car crash</i>).",
+   "example": {
+    "en": "Her computer <b>crashed</b>.",
+    "vi": "Máy tính của cô ấy <b>bị treo</b>."
+   }
+  },
+  {
+   "word": "out of order",
+   "sense": "",
+   "pos": "prepositional phrase",
+   "ipa": "/ˌaʊt əv ˈɔːdə(r)/",
+   "def_en": "Not working, used about a machine.",
+   "def_vi": "Không hoạt động (máy móc).",
+   "gloss_vi": "hỏng, không hoạt động",
+   "synonyms": "broken <i>(adj. hỏng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Out of order</i> (prepositional phrase) = hỏng, không hoạt động. <b>Grammar</b>: dùng cho máy móc công cộng; thường có biển <i>Out of order</i>.",
+   "example": {
+    "en": "The photocopier was <b>out of order</b>.",
+    "vi": "Máy photo <b>bị hỏng</b>."
+   }
+  }
+ ]
+}

@@ -1,0 +1,280 @@
+{
+ "book": "ele",
+ "unit": 37,
+ "title_vi": "Các vấn đề toàn cầu",
+ "theory_html": "<p><b>A. Natural disasters</b><br><i>A. Thảm họa thiên nhiên</i></p> <p><b>hurricane</b> (very strong wind), <b>snowstorm</b> (a lot of snow and wind), <b>forest fire</b> (trees catch fire when it is very dry), <b>earthquake</b> (the earth moves), <b>flood</b> (too much water; a river <b>floods</b>).</p><p><i><b>bão lớn, bão tuyết, cháy rừng, động đất, lũ lụt</b>.</i></p> <p><b>B. Man-made problems</b><br><i>B. Vấn đề do con người</i></p> <p>Cities are <b>crowded</b>; many people are <b>poor, hungry, homeless, unemployed</b>; <b>pollution</b> (<b>polluted</b> rivers, <b>air pollution</b>); <b>war</b>; people go <b>on strike</b>; <b>car crash</b>; <b>traffic jams</b> in the <b>rush hour</b>.</p><p><i>Thành phố <b>đông đúc</b>; nhiều người <b>nghèo, đói, vô gia cư, thất nghiệp</b>; <b>ô nhiễm</b>; <b>chiến tranh</b>; <b>đình công</b>; <b>tai nạn xe</b>; <b>tắc đường</b> vào <b>giờ cao điểm</b>.</i></p>",
+ "items": [
+  {
+   "word": "snowstorm",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsnəʊstɔːm/",
+   "def_en": "A storm with a lot of snow and wind at the same time.",
+   "def_vi": "Bão có nhiều tuyết và gió cùng lúc.",
+   "gloss_vi": "bão tuyết",
+   "synonyms": "blizzard <i>(n. bão tuyết)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Snowstorm</i> (noun) = bão tuyết. <b>Grammar</b>: danh từ ghép viết liền.",
+   "example": {
+    "en": "There was a <b>snowstorm</b> there last year.",
+    "vi": "Năm ngoái ở đó có một trận <b>bão tuyết</b>."
+   }
+  },
+  {
+   "word": "forest fire",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌfɒrɪst ˈfaɪə(r)/",
+   "def_en": "A fire in a forest, when it is very dry and trees catch fire.",
+   "def_vi": "Cháy rừng khi trời rất khô.",
+   "gloss_vi": "cháy rừng",
+   "synonyms": "wildfire <i>(n. cháy rừng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Forest fire</i> (noun phrase) = cháy rừng. <b>Grammar</b>: danh từ ghép.",
+   "example": {
+    "en": "There was a <b>forest fire</b> there last year.",
+    "vi": "Năm ngoái ở đó có một vụ <b>cháy rừng</b>."
+   }
+  },
+  {
+   "word": "earthquakes",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈɜːθkweɪks/",
+   "def_en": "Sudden movements of the earth.",
+   "def_vi": "Rung chuyển đột ngột của mặt đất.",
+   "gloss_vi": "động đất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Earthquakes</i> (plural noun) = động đất. <b>Grammar</b>: số ít <i>an earthquake</i>.",
+   "example": {
+    "en": "hurricane: a very strong wind snowstorm: a lot of snow and wind at the same time forest fire: when it is very dry and trees catch fire San Francisco has had a lot of <b>earthquakes</b> [when the earth moves].",
+    "vi": "San Francisco đã có nhiều trận <b>động đất</b>."
+   }
+  },
+  {
+   "word": "floods",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/flʌdz/",
+   "def_en": "Large amounts of water covering land that is usually dry.",
+   "def_vi": "Lượng nước lớn tràn ngập vùng đất khô.",
+   "gloss_vi": "lũ lụt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Floods</i> (plural noun) = lũ lụt. <b>Grammar</b>: số ít <i>a flood</i>; đọc /flʌd/.",
+   "example": {
+    "en": "There were serious <b>floods</b> in the north yesterday. [too much water]",
+    "vi": "Hôm qua có <b>lũ lụt</b> nghiêm trọng ở miền bắc."
+   }
+  },
+  {
+   "word": "flood",
+   "sense": "verb",
+   "pos": "verb",
+   "ipa": "/flʌd/",
+   "def_en": "When a river goes over its banks.",
+   "def_vi": "Khi sông tràn bờ.",
+   "gloss_vi": "ngập lụt, tràn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flood</i> (verb) = ngập lụt, tràn. <b>Grammar</b>: động từ cùng dạng danh từ; quá khứ <i>flooded</i>.",
+   "example": {
+    "en": "There were serious <b>floods</b> in the north yesterday. [too much water]",
+    "vi": "Sông thường <b>tràn bờ</b> sau mưa lớn."
+   }
+  },
+  {
+   "word": "crowded",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈkraʊdɪd/",
+   "def_en": "Full of too many people.",
+   "def_vi": "Đầy quá nhiều người.",
+   "gloss_vi": "đông đúc",
+   "synonyms": "packed <i>(adj. chật cứng)</i>",
+   "antonyms": "empty <i>(adj. vắng)</i>",
+   "grammar_vi": "<i>Crowded</i> (adjective) = đông đúc. <b>Grammar</b>: <i>crowded with</i> + người. <b>Word family</b>: <i>crowd</i> (n. đám đông).",
+   "example": {
+    "en": "Cities are too <b>crowded</b>.",
+    "vi": "Các thành phố quá <b>đông đúc</b>."
+   }
+  },
+  {
+   "word": "poor",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/pɔː(r)/",
+   "def_en": "Not having enough money.",
+   "def_vi": "Không đủ tiền.",
+   "gloss_vi": "nghèo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "rich <i>(adj. giàu)</i>",
+   "grammar_vi": "<i>Poor</i> (adjective) = nghèo. <b>Grammar</b>: <i>the poor</i> = người nghèo. <b>Word family</b>: <i>poverty</i> (n.).",
+   "example": {
+    "en": "<b>poor</b>: they do not have enough money",
+    "vi": "<b>Nghèo</b>: họ không có đủ tiền."
+   }
+  },
+  {
+   "word": "homeless",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈhəʊmləs/",
+   "def_en": "Without a place to live.",
+   "def_vi": "Không có chỗ ở.",
+   "gloss_vi": "vô gia cư",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Homeless</i> (adjective) = vô gia cư. <b>Grammar</b>: hậu tố <i>-less</i> = không có; <i>the homeless</i> = người vô gia cư.",
+   "example": {
+    "en": "<b>homeless</b>: they do not have a place to live",
+    "vi": "<b>Vô gia cư</b>: họ không có chỗ ở."
+   }
+  },
+  {
+   "word": "unemployed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʌnɪmˈplɔɪd/",
+   "def_en": "Without a job.",
+   "def_vi": "Không có việc làm.",
+   "gloss_vi": "thất nghiệp",
+   "synonyms": "jobless <i>(adj. thất nghiệp)</i>",
+   "antonyms": "employed <i>(adj. có việc làm)</i>",
+   "grammar_vi": "<i>Unemployed</i> (adjective) = thất nghiệp. <b>Grammar</b>: tiền tố <i>un-</i>. <b>Word family</b>: <i>unemployment</i> (n.).",
+   "example": {
+    "en": "<b>unemployed</b>: they do not have a job",
+    "vi": "<b>Thất nghiệp</b>: họ không có việc làm."
+   }
+  },
+  {
+   "word": "pollution",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/pəˈluːʃn/",
+   "def_en": "Dirty and harmful air, water or earth.",
+   "def_vi": "Không khí, nước, đất bẩn và có hại.",
+   "gloss_vi": "ô nhiễm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pollution</i> (uncountable noun) = ô nhiễm. <b>Grammar</b>: không đếm được. <b>Word family</b>: <i>pollute</i> (v.), <i>polluted</i> (adj.).",
+   "example": {
+    "en": "There is a lot of <b>pollution</b> in many places. [when the air, water or earth is dirty and bad for people, plants and animals]",
+    "vi": "Nhiều nơi bị <b>ô nhiễm</b> nặng."
+   }
+  },
+  {
+   "word": "polluted",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/pəˈluːtɪd/",
+   "def_en": "Made dirty and harmful.",
+   "def_vi": "Bị làm bẩn, có hại.",
+   "gloss_vi": "bị ô nhiễm",
+   "synonyms": "dirty <i>(adj. bẩn)</i>",
+   "antonyms": "clean <i>(adj. sạch)</i>",
+   "grammar_vi": "<i>Polluted</i> (adjective) = bị ô nhiễm. <b>Grammar</b>: tính từ từ động từ <i>pollute</i>.",
+   "example": {
+    "en": "The river is <b>polluted</b> and a lot of fish have died.",
+    "vi": "Con sông <b>bị ô nhiễm</b> và nhiều cá đã chết."
+   }
+  },
+  {
+   "word": "air pollution",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈeə pəluːʃn/",
+   "def_en": "Dirty air that is bad for people, plants and animals.",
+   "def_vi": "Không khí bẩn có hại.",
+   "gloss_vi": "ô nhiễm không khí",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Air pollution</i> (noun phrase) = ô nhiễm không khí. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "The <b>air pollution</b> is very bad today.",
+    "vi": "Hôm nay <b>ô nhiễm không khí</b> rất tệ."
+   }
+  },
+  {
+   "word": "war",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/wɔː(r)/",
+   "def_en": "Fighting between two or more countries or groups.",
+   "def_vi": "Giao tranh giữa hai hay nhiều nước, nhóm.",
+   "gloss_vi": "chiến tranh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "peace <i>(n. hòa bình)</i>",
+   "grammar_vi": "<i>War</i> (noun) = chiến tranh. <b>Grammar</b>: <i>be at war</i> (đang có chiến tranh). <b>Common mistakes</b>: đọc /wɔː/.",
+   "example": {
+    "en": "The American <b>War</b> of Independence started in 1775 and ended in 1783. [fighting between two or more countries or nationalities] It lasted for eight years.",
+    "vi": "<b>Chiến tranh</b> giành độc lập của Mỹ bắt đầu năm 1775 và kết thúc năm 1783."
+   }
+  },
+  {
+   "word": "on strike",
+   "sense": "",
+   "pos": "prepositional phrase",
+   "ipa": "/ɒn ˈstraɪk/",
+   "def_en": "Refusing to work, for example because you want more money.",
+   "def_vi": "Từ chối làm việc, ví dụ để đòi tăng lương.",
+   "gloss_vi": "đình công",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>On strike</i> (prepositional phrase) = đình công. <b>Grammar</b>: <i>be/go on strike</i>. <b>Word family</b>: <i>strike</i> (n., v.).",
+   "example": {
+    "en": "The teachers are <b>on strike</b> today. [when people refuse to work because, for example, they want more money]",
+    "vi": "Hôm nay giáo viên <b>đình công</b>."
+   }
+  },
+  {
+   "word": "car crash",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈkɑː kræʃ/",
+   "def_en": "An accident in which a car hits something.",
+   "def_vi": "Tai nạn khi ô tô đâm vào vật gì.",
+   "gloss_vi": "tai nạn xe hơi",
+   "synonyms": "car accident <i>(np. tai nạn xe)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Car crash</i> (noun phrase) = tai nạn xe hơi. <b>Grammar</b>: <i>have a car crash</i>.",
+   "example": {
+    "en": "He had a <b>car crash</b> on the way to work.",
+    "vi": "Anh ấy gặp <b>tai nạn xe</b> trên đường đi làm."
+   }
+  },
+  {
+   "word": "traffic jams",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈtræfɪk dʒæmz/",
+   "def_en": "Long lines of cars that cannot move.",
+   "def_vi": "Hàng xe dài không di chuyển được.",
+   "gloss_vi": "tắc đường, kẹt xe",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Traffic jams</i> (plural noun) = tắc đường, kẹt xe. <b>Grammar</b>: số ít <i>a traffic jam</i>; <i>be stuck in a traffic jam</i> (kẹt xe).",
+   "example": {
+    "en": "The <b>traffic jams</b> in the city are terrible in the rush hour [times when everyone is going to work].",
+    "vi": "<b>Tắc đường</b> trong thành phố thật kinh khủng vào giờ cao điểm."
+   }
+  },
+  {
+   "word": "rush hour",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈrʌʃ aʊə(r)/",
+   "def_en": "The times when everyone is going to or from work.",
+   "def_vi": "Lúc mọi người đi làm hoặc tan làm.",
+   "gloss_vi": "giờ cao điểm",
+   "synonyms": "peak time <i>(np. giờ cao điểm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rush hour</i> (noun phrase) = giờ cao điểm. <b>Grammar</b>: <i>in the rush hour</i>; <i>h</i> trong <i>hour</i> câm.",
+   "example": {
+    "en": "The traffic jams in the city are terrible in the <b>rush hour</b> [times when everyone is going to work].",
+    "vi": "Tắc đường trong thành phố thật kinh khủng vào <b>giờ cao điểm</b>."
+   }
+  }
+ ]
+}
