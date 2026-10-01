@@ -1,0 +1,394 @@
+{
+ "book": "pre",
+ "unit": 47,
+ "title_vi": "Đi máy bay",
+ "theory_html": "<p><b>A. Departure</b><br><i>A. Khởi hành</i></p> <p>The <b>departures board</b> shows <b>flight numbers</b> and destinations. At <b>check-in</b> they <b>weigh</b> your luggage; you may <b>pay excess baggage</b>; hand luggage on the <b>aircraft</b>; <b>boarding card</b>; <b>passport control</b> (<b>checks your passport</b>); <b>duty-free</b>; <b>take-off</b>; <b>Gate 3</b>; <b>board the plane</b>; <b>overhead locker</b>; <b>fasten your seat belt</b>; <b>delays</b>; the <b>runway</b> (<b>landings</b>). Labels: <b>passenger, hand luggage, luggage trolley, suitcase</b>. <b>flight number</b> (NOT <b>fly number</b>).</p><p><i><b>bảng giờ đi, số hiệu chuyến bay, quầy làm thủ tục, hành lý quá cước, máy bay, thẻ lên máy bay, kiểm soát hộ chiếu, miễn thuế, cất cánh, cổng, lên máy bay, ngăn hành lý, thắt dây an toàn, chậm trễ, đường băng</b>.</i></p> <p><b>B. Arrival</b><br><i>B. Đến nơi</i></p> <p>When the plane <b>lands</b>, an <b>announcement</b> from the <b>cabin crew</b>; the <b>terminal building</b>; <b>baggage reclaim</b>; <b>go through customs</b>.</p><p><i><b>hạ cánh, thông báo, tiếp viên, nhà ga, khu nhận hành lý, qua hải quan</b>.</i></p>",
+ "items": [
+  {
+   "word": "departures board",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/dɪˈpɑːtʃəz bɔːd/",
+   "def_en": "A screen at an airport showing flights that are leaving.",
+   "def_vi": "Màn hình ở sân bay hiện các chuyến bay sắp đi.",
+   "gloss_vi": "bảng giờ khởi hành",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "arrivals board <i>(np. bảng giờ đến)</i>",
+   "grammar_vi": "<i>Departures board</i> (noun phrase) = bảng giờ khởi hành. <b>Grammar</b>: <i>departure</i> (n.) ← <i>depart</i> (v.).",
+   "example": {
+    "en": "The <b>departures board</b> will show you the flight numbers, departure times and destinations.",
+    "vi": "<b>Bảng giờ khởi hành</b> cho biết số hiệu chuyến bay, giờ đi và điểm đến."
+   }
+  },
+  {
+   "word": "flight number",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈflaɪt ˌnʌmbə(r)/",
+   "def_en": "The letters and numbers that identify a flight.",
+   "def_vi": "Chữ và số xác định một chuyến bay.",
+   "gloss_vi": "số hiệu chuyến bay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flight number</i> (noun phrase) = số hiệu chuyến bay. <b>Grammar</b>: <i>flight</i> (không <i>fly</i>).",
+   "example": {
+    "en": "My <b>flight number</b> is BA640.",
+    "vi": "<b>Số hiệu chuyến bay</b> của tôi là BA640."
+   }
+  },
+  {
+   "word": "check-in",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtʃek ɪn/",
+   "def_en": "The place where someone checks your ticket and weighs your luggage.",
+   "def_vi": "Nơi kiểm tra vé và cân hành lý.",
+   "gloss_vi": "quầy làm thủ tục",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Check-in</i> (noun) = quầy làm thủ tục. <b>Grammar</b>: danh từ có gạch nối; động từ <i>check in</i> không gạch nối.",
+   "example": {
+    "en": "At <b>check-in</b>, someone will check your ticket and weigh your luggage.",
+    "vi": "Ở <b>quầy làm thủ tục</b>, người ta sẽ kiểm tra vé và cân hành lý."
+   }
+  },
+  {
+   "word": "excess baggage",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌekses ˈbæɡɪdʒ/",
+   "def_en": "Luggage that weighs more than you are allowed to take.",
+   "def_vi": "Hành lý nặng hơn mức cho phép.",
+   "gloss_vi": "hành lý quá cước",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Excess baggage</i> (noun phrase) = hành lý quá cước. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "If it is more than 20 kilograms, you will have to pay <b>excess baggage</b>.",
+    "vi": "Nếu quá 20 cân, bạn sẽ phải trả tiền <b>hành lý quá cước</b>."
+   }
+  },
+  {
+   "word": "aircraft",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈeəkrɑːft/",
+   "def_en": "A plane.",
+   "def_vi": "Máy bay.",
+   "gloss_vi": "máy bay",
+   "synonyms": "plane <i>(n. máy bay)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Aircraft</i> (noun) = máy bay. <b>Grammar</b>: số nhiều giữ nguyên <i>aircraft</i>.",
+   "example": {
+    "en": "You can take your hand luggage with you on the <b>aircraft</b>.",
+    "vi": "Bạn có thể mang hành lý xách tay lên <b>máy bay</b>."
+   }
+  },
+  {
+   "word": "boarding card",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈbɔːdɪŋ kɑːd/",
+   "def_en": "A piece of paper you must show to get on the plane.",
+   "def_vi": "Giấy phải xuất trình khi lên máy bay.",
+   "gloss_vi": "thẻ lên máy bay",
+   "synonyms": "boarding pass <i>(np. thẻ lên máy bay)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Boarding card</i> (noun phrase) = thẻ lên máy bay. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "You also get your <b>boarding card</b>.",
+    "vi": "Bạn cũng nhận <b>thẻ lên máy bay</b>."
+   }
+  },
+  {
+   "word": "passport control",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈpɑːspɔːt kənˌtrəʊl/",
+   "def_en": "The place where someone checks your passport.",
+   "def_vi": "Nơi kiểm tra hộ chiếu.",
+   "gloss_vi": "kiểm soát hộ chiếu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Passport control</i> (noun phrase) = kiểm soát hộ chiếu. <b>Grammar</b>: <i>go through passport control</i>.",
+   "example": {
+    "en": "Then you can go through <b>passport control</b>.",
+    "vi": "Rồi bạn đi qua <b>kiểm soát hộ chiếu</b>."
+   }
+  },
+  {
+   "word": "duty-free",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌdjuːti ˈfriː/",
+   "def_en": "(Of goods) that you can buy without paying tax.",
+   "def_vi": "(Hàng) mua không phải nộp thuế.",
+   "gloss_vi": "miễn thuế",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Duty-free</i> (adjective) = miễn thuế. <b>Grammar</b>: <i>duty</i> = thuế.",
+   "example": {
+    "en": "You can buy things in the <b>duty-free</b> shop.",
+    "vi": "Bạn có thể mua đồ ở cửa hàng <b>miễn thuế</b>."
+   }
+  },
+  {
+   "word": "take-off",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈteɪk ɒf/",
+   "def_en": "When the plane leaves the ground.",
+   "def_vi": "Lúc máy bay rời mặt đất.",
+   "gloss_vi": "sự cất cánh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "landing <i>(n. hạ cánh)</i>",
+   "grammar_vi": "<i>Take-off</i> (noun) = sự cất cánh. <b>Grammar</b>: danh từ có gạch nối; động từ <i>take off</i>.",
+   "example": {
+    "en": "Shortly before <b>take-off</b>, you go to the place where you get on the plane.",
+    "vi": "Ngay trước khi <b>cất cánh</b>, bạn đến cổng lên máy bay."
+   }
+  },
+  {
+   "word": "gate",
+   "sense": "airport",
+   "pos": "noun",
+   "ipa": "/ɡeɪt/",
+   "def_en": "The place at an airport where you get on the plane.",
+   "def_vi": "Chỗ ở sân bay để lên máy bay.",
+   "gloss_vi": "cổng (lên máy bay)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gate</i> (noun) = cổng (lên máy bay). <b>Grammar</b>: <i>Gate 5</i> (viết hoa với số).",
+   "example": {
+    "en": "You go to the place where you get on the plane, e.g. <b>Gate</b> 3.",
+    "vi": "Bạn đến chỗ lên máy bay, ví dụ <b>Cổng</b> 3."
+   }
+  },
+  {
+   "word": "board",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/bɔːd/",
+   "def_en": "To get on a plane, ship or train.",
+   "def_vi": "Lên máy bay, tàu thủy hay tàu hỏa.",
+   "gloss_vi": "lên (máy bay)",
+   "synonyms": "get on <i>(pv. lên)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Board</i> (verb) = lên (máy bay). <b>Grammar</b>: <i>board a plane</i>; <i>boarding card</i>.",
+   "example": {
+    "en": "When you <b>board the plane</b>, you can put your hand luggage in a small cupboard above your seat.",
+    "vi": "Khi <b>lên máy bay</b>, bạn để hành lý vào ngăn phía trên."
+   }
+  },
+  {
+   "word": "overhead locker",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌəʊvəhed ˈlɒkə(r)/",
+   "def_en": "A small cupboard above your seat on a plane.",
+   "def_vi": "Ngăn nhỏ phía trên ghế máy bay.",
+   "gloss_vi": "ngăn hành lý phía trên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Overhead locker</i> (noun phrase) = ngăn hành lý phía trên. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "You can put your hand luggage in a small cupboard above your seat called an <b>overhead locker</b>.",
+    "vi": "Bạn để hành lý vào <b>ngăn hành lý phía trên</b>."
+   }
+  },
+  {
+   "word": "fasten your seat belt",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌfɑːsn jə ˈsiːt belt/",
+   "def_en": "To close the belt that keeps you in your seat.",
+   "def_vi": "Cài dây giữ bạn trên ghế.",
+   "gloss_vi": "thắt dây an toàn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "undo your seat belt <i>(vp. tháo dây an toàn)</i>",
+   "grammar_vi": "<i>Fasten your seat belt</i> (verb phrase) = thắt dây an toàn. <b>Grammar</b>: <i>fasten</i> /ˈfɑːsn/, <i>t</i> câm.",
+   "example": {
+    "en": "You then have to <b>fasten your seat belt</b>.",
+    "vi": "Rồi bạn phải <b>thắt dây an toàn</b>."
+   }
+  },
+  {
+   "word": "delay",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈleɪ/",
+   "def_en": "When you have to wait longer than expected.",
+   "def_vi": "Khi phải chờ lâu hơn dự kiến.",
+   "gloss_vi": "sự chậm trễ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Delay</i> (noun) = sự chậm trễ. <b>Grammar</b>: cũng là động từ: <i>be delayed</i>.",
+   "example": {
+    "en": "If there are no <b>delays</b>, the plane moves slowly to the runway.",
+    "vi": "Nếu không có <b>chậm trễ</b>, máy bay di chuyển chậm ra đường băng."
+   }
+  },
+  {
+   "word": "runway",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈrʌnweɪ/",
+   "def_en": "The large road that planes use for take-offs and landings.",
+   "def_vi": "Đường lớn máy bay dùng để cất và hạ cánh.",
+   "gloss_vi": "đường băng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Runway</i> (noun) = đường băng. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "The plane moves slowly to the <b>runway</b>, then it takes off.",
+    "vi": "Máy bay di chuyển chậm ra <b>đường băng</b>, rồi cất cánh."
+   }
+  },
+  {
+   "word": "passenger",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpæsɪndʒə(r)/",
+   "def_en": "A person travelling in a plane, bus, etc.",
+   "def_vi": "Người đi trên máy bay, xe buýt…",
+   "gloss_vi": "hành khách",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Passenger</i> (noun) = hành khách. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "There were 300 <b>passengers</b> on the plane.",
+    "vi": "Có 300 <b>hành khách</b> trên máy bay."
+   }
+  },
+  {
+   "word": "hand luggage",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈhænd ˌlʌɡɪdʒ/",
+   "def_en": "Small bags you take with you on the plane.",
+   "def_vi": "Túi nhỏ mang theo lên máy bay.",
+   "gloss_vi": "hành lý xách tay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hand luggage</i> (noun phrase) = hành lý xách tay. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "You can take your <b>hand luggage</b> with you on the aircraft.",
+    "vi": "Bạn có thể mang <b>hành lý xách tay</b> lên máy bay."
+   }
+  },
+  {
+   "word": "suitcase",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsuːtkeɪs/",
+   "def_en": "A large bag with a handle for carrying clothes when travelling.",
+   "def_vi": "Túi lớn có tay cầm đựng quần áo khi đi xa.",
+   "gloss_vi": "va li",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Suitcase</i> (noun) = va li. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "My <b>suitcase</b> is too heavy.",
+    "vi": "<b>Va li</b> của tôi nặng quá."
+   }
+  },
+  {
+   "word": "land",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/lænd/",
+   "def_en": "(Of a plane) to arrive on the ground.",
+   "def_vi": "(Máy bay) đáp xuống đất.",
+   "gloss_vi": "hạ cánh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "take off <i>(pv. cất cánh)</i>",
+   "grammar_vi": "<i>Land</i> (verb) = hạ cánh. <b>Grammar</b>: danh từ <i>landing</i>.",
+   "example": {
+    "en": "When the plane <b>lands</b>, there is always an announcement.",
+    "vi": "Khi máy bay <b>hạ cánh</b>, luôn có một thông báo."
+   }
+  },
+  {
+   "word": "announcement",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈnaʊnsmənt/",
+   "def_en": "Spoken information to a group of people.",
+   "def_vi": "Thông tin nói cho một nhóm người.",
+   "gloss_vi": "thông báo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Announcement</i> (noun) = thông báo. <b>Grammar</b>: <i>make an announcement</i>. <b>Word family</b>: <i>announce</i> (v.).",
+   "example": {
+    "en": "When the plane lands, there is always an <b>announcement</b> from a member of the cabin crew.",
+    "vi": "Khi máy bay hạ cánh, luôn có một <b>thông báo</b> từ tiếp viên."
+   }
+  },
+  {
+   "word": "cabin crew",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈkæbɪn kruː/",
+   "def_en": "The people on the aircraft who look after the passengers.",
+   "def_vi": "Những người trên máy bay chăm sóc hành khách.",
+   "gloss_vi": "tiếp viên",
+   "synonyms": "flight attendants <i>(pn. tiếp viên)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cabin crew</i> (noun phrase) = tiếp viên. <b>Grammar</b>: danh từ tập hợp.",
+   "example": {
+    "en": "There is always an announcement from a member of the <b>cabin crew</b>.",
+    "vi": "Có thông báo từ một thành viên <b>tổ tiếp viên</b>."
+   }
+  },
+  {
+   "word": "terminal building",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈtɜːmɪnl ˌbɪldɪŋ/",
+   "def_en": "The airport building.",
+   "def_vi": "Tòa nhà sân bay.",
+   "gloss_vi": "nhà ga sân bay",
+   "synonyms": "terminal <i>(n. nhà ga)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Terminal building</i> (noun phrase) = nhà ga sân bay. <b>Grammar</b>: <i>Terminal 5</i>.",
+   "example": {
+    "en": "You walk through the <b>terminal building</b> to passport control.",
+    "vi": "Bạn đi qua <b>nhà ga</b> đến chỗ kiểm soát hộ chiếu."
+   }
+  },
+  {
+   "word": "baggage reclaim",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈbæɡɪdʒ ˌriːkleɪm/",
+   "def_en": "The place where you collect your luggage.",
+   "def_vi": "Nơi lấy hành lý.",
+   "gloss_vi": "khu nhận hành lý",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Baggage reclaim</i> (noun phrase) = khu nhận hành lý. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "When you’ve got your luggage from <b>baggage reclaim</b>, you go through customs.",
+    "vi": "Khi lấy hành lý ở <b>khu nhận hành lý</b>, bạn qua hải quan."
+   }
+  },
+  {
+   "word": "go through customs",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ θruː ˈkʌstəmz/",
+   "def_en": "To go through the area where your luggage may be checked.",
+   "def_vi": "Đi qua khu có thể kiểm tra hành lý.",
+   "gloss_vi": "qua hải quan",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go through customs</i> (verb phrase) = qua hải quan. <b>Grammar</b>: <i>customs</i> luôn số nhiều ở nghĩa này.",
+   "example": {
+    "en": "You <b>go through customs</b> and leave the airport.",
+    "vi": "Bạn <b>qua hải quan</b> rồi rời sân bay."
+   }
+  }
+ ]
+}

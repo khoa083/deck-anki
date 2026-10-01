@@ -1,0 +1,328 @@
+{
+ "book": "pre",
+ "unit": 45,
+ "title_vi": "Sự kiện đặc biệt",
+ "theory_html": "<p><b>A. A fireworks display</b><br><i>A. Màn bắn pháo hoa</i></p> <p><b>The Sydney fireworks display is held every year; a million people gather at Sydney harbour to celebrate the new year; all age groups are involved; boats parade around the harbour; a spectacular fireworks display.</b></p><p><i><b>pháo hoa, màn trình diễn, được tổ chức, tụ tập, bến cảng, ăn mừng, tham gia, diễu hành, ngoạn mục</b>.</i></p> <p><b>B. An arts festival</b><br><i>B. Lễ hội nghệ thuật</i></p> <p><b>The Edinburgh Festival is an annual event… consists of six festivals which take place in the city and last almost six weeks; the most popular festival… up to 500 daily performances.</b></p><p><i><b>lễ hội, hằng năm, gồm, diễn ra, kéo dài, được ưa chuộng, lên đến</b>.</i></p> <p><b>C. The Chinese Spring Festival</b><br><i>C. Tết Nguyên đán</i></p> <p>the biggest <b>traditional</b> festival; people from <b>all over</b> China return home; they <b>dress up</b>; money in red envelopes to <b>bring them luck</b>; a popular <b>custom</b>. <b>custom</b> (something people usually do) vs <b>tradition</b> (a very old custom); <b>traditional</b>, <b>customary</b>; <b>a traditional Greek wedding</b>.</p><p><i><b>truyền thống, khắp, ăn diện, mang lại may mắn, phong tục, theo lệ</b>.</i></p>",
+ "items": [
+  {
+   "word": "fireworks",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈfaɪəwɜːks/",
+   "def_en": "Small objects that explode in the sky with coloured lights.",
+   "def_vi": "Vật nhỏ nổ trên trời với ánh sáng màu.",
+   "gloss_vi": "pháo hoa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fireworks</i> (plural noun) = pháo hoa. <b>Grammar</b>: thường số nhiều; <i>a fireworks display</i>.",
+   "example": {
+    "en": "The Sydney <b>fireworks</b> display is held every year.",
+    "vi": "Màn <b>pháo hoa</b> Sydney được tổ chức hằng năm."
+   }
+  },
+  {
+   "word": "display",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈspleɪ/",
+   "def_en": "A show for people to watch.",
+   "def_vi": "Màn trình diễn cho mọi người xem.",
+   "gloss_vi": "màn trình diễn",
+   "synonyms": "show <i>(n. buổi diễn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Display</i> (noun) = màn trình diễn. <b>Grammar</b>: <i>a fireworks display</i>; cũng là động từ = trưng bày.",
+   "example": {
+    "en": "The Sydney fireworks <b>display</b> is held every year.",
+    "vi": "<b>Màn trình diễn</b> pháo hoa Sydney được tổ chức hằng năm."
+   }
+  },
+  {
+   "word": "hold",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/həʊld/",
+   "def_en": "To organise an event.",
+   "def_vi": "Tổ chức một sự kiện.",
+   "gloss_vi": "tổ chức",
+   "synonyms": "organise <i>(v. tổ chức)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hold</i> (verb) = tổ chức. <b>Grammar</b>: thường bị động <i>be held</i>; <i>hold – held – held</i>.",
+   "example": {
+    "en": "The Sydney fireworks display is <b>held</b> every year.",
+    "vi": "Màn pháo hoa Sydney <b>được tổ chức</b> hằng năm."
+   }
+  },
+  {
+   "word": "gather",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈɡæðə(r)/",
+   "def_en": "To come together.",
+   "def_vi": "Tập hợp lại.",
+   "gloss_vi": "tụ tập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gather</i> (verb) = tụ tập. <b>Grammar</b>: <i>gather at/around a place</i>.",
+   "example": {
+    "en": "More than one million people <b>gather</b> at Sydney harbour on New Year’s Eve.",
+    "vi": "Hơn một triệu người <b>tụ tập</b> ở bến cảng Sydney."
+   }
+  },
+  {
+   "word": "harbour",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhɑːbə(r)/",
+   "def_en": "An area of water where ships are kept and are safe from the sea.",
+   "def_vi": "Vùng nước neo tàu, an toàn khỏi sóng biển.",
+   "gloss_vi": "bến cảng",
+   "synonyms": "port <i>(n. cảng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Harbour</i> (noun) = bến cảng. <b>Grammar</b>: Mỹ <i>harbor</i>.",
+   "example": {
+    "en": "More than one million people gather at Sydney <b>harbour</b>.",
+    "vi": "Hơn một triệu người tụ tập ở <b>bến cảng</b> Sydney."
+   }
+  },
+  {
+   "word": "involved",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪnˈvɒlvd/",
+   "def_en": "Included in an event or activity.",
+   "def_vi": "Được bao gồm trong một sự kiện hay hoạt động.",
+   "gloss_vi": "tham gia",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Involved</i> (adjective) = tham gia. <b>Grammar</b>: <i>be involved in sth</i>.",
+   "example": {
+    "en": "All age groups are <b>involved</b> in the event.",
+    "vi": "Mọi lứa tuổi đều <b>tham gia</b> sự kiện."
+   }
+  },
+  {
+   "word": "parade",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/pəˈreɪd/",
+   "def_en": "To move around as part of a group to celebrate something.",
+   "def_vi": "Di chuyển thành nhóm để ăn mừng.",
+   "gloss_vi": "diễu hành",
+   "synonyms": "march <i>(v. diễu hành)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Parade</i> (verb) = diễu hành. <b>Grammar</b>: cũng là danh từ <i>a parade</i>.",
+   "example": {
+    "en": "A large number of boats <b>parade</b> around the harbour.",
+    "vi": "Nhiều tàu thuyền <b>diễu hành</b> quanh bến cảng."
+   }
+  },
+  {
+   "word": "spectacular",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/spekˈtækjələ(r)/",
+   "def_en": "Looking extremely good or exciting.",
+   "def_vi": "Trông cực kỳ đẹp hay hấp dẫn.",
+   "gloss_vi": "ngoạn mục",
+   "synonyms": "amazing <i>(adj. kinh ngạc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spectacular</i> (adjective) = ngoạn mục. <b>Grammar</b>: <i>a spectacular view/display</i>.",
+   "example": {
+    "en": "At midnight, there is a <b>spectacular</b> fireworks display for almost fifteen minutes.",
+    "vi": "Lúc nửa đêm có màn pháo hoa <b>ngoạn mục</b> gần mười lăm phút."
+   }
+  },
+  {
+   "word": "festival",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfestɪvl/",
+   "def_en": "A number of special events, often continuing for several days.",
+   "def_vi": "Nhiều sự kiện đặc biệt, thường kéo dài vài ngày.",
+   "gloss_vi": "lễ hội",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Festival</i> (noun) = lễ hội. <b>Grammar</b>: <i>a music/film festival</i>.",
+   "example": {
+    "en": "The Edinburgh <b>Festival</b> is an annual event.",
+    "vi": "<b>Lễ hội</b> Edinburgh là sự kiện hằng năm."
+   }
+  },
+  {
+   "word": "annual",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈænjuəl/",
+   "def_en": "Happening once a year.",
+   "def_vi": "Diễn ra mỗi năm một lần.",
+   "gloss_vi": "hằng năm",
+   "synonyms": "yearly <i>(adj. hằng năm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Annual</i> (adjective) = hằng năm. <b>Grammar</b>: chỉ đứng trước danh từ. <b>Word family</b>: <i>annually</i> (adv.).",
+   "example": {
+    "en": "The Edinburgh Festival is an <b>annual</b> event.",
+    "vi": "Lễ hội Edinburgh là sự kiện <b>hằng năm</b>."
+   }
+  },
+  {
+   "word": "take place",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌteɪk ˈpleɪs/",
+   "def_en": "To happen.",
+   "def_vi": "Xảy ra, diễn ra.",
+   "gloss_vi": "diễn ra",
+   "synonyms": "happen <i>(v. xảy ra)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take place</i> (verb phrase) = diễn ra. <b>Grammar</b>: không dùng bị động; <i>take place</i> (sự kiện có kế hoạch).",
+   "example": {
+    "en": "It consists of at least six different festivals which <b>take place</b> in the city.",
+    "vi": "Nó gồm sáu lễ hội <b>diễn ra</b> trong thành phố."
+   }
+  },
+  {
+   "word": "popular",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈpɒpjələ(r)/",
+   "def_en": "Liked by many people.",
+   "def_vi": "Được nhiều người thích.",
+   "gloss_vi": "được ưa chuộng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "unpopular <i>(adj. không được ưa chuộng)</i>",
+   "grammar_vi": "<i>Popular</i> (adjective) = được ưa chuộng. <b>Grammar</b>: <i>popular with sb</i>. <b>Word family</b>: <i>popularity</i> (n.).",
+   "example": {
+    "en": "The most <b>popular</b> festival is The Fringe.",
+    "vi": "Lễ hội <b>được ưa chuộng</b> nhất là The Fringe."
+   }
+  },
+  {
+   "word": "up to",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ˈʌp tə/",
+   "def_en": "As much as; the maximum.",
+   "def_vi": "Nhiều nhất là.",
+   "gloss_vi": "lên đến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Up to</i> (preposition) = lên đến. <b>Grammar</b>: <i>up to</i> + số = tối đa.",
+   "example": {
+    "en": "The Fringe has <b>up to</b> 500 daily performances.",
+    "vi": "The Fringe có <b>lên đến</b> 500 buổi biểu diễn mỗi ngày."
+   }
+  },
+  {
+   "word": "traditional",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/trəˈdɪʃənl/",
+   "def_en": "Following customs that have existed for a long time.",
+   "def_vi": "Theo phong tục có từ lâu.",
+   "gloss_vi": "truyền thống",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "modern <i>(adj. hiện đại)</i>",
+   "grammar_vi": "<i>Traditional</i> (adjective) = truyền thống. <b>Grammar</b>: <i>a traditional Greek wedding</i> (không <i>a Greek traditional wedding</i>). <b>Word family</b>: <i>tradition</i> (n.).",
+   "example": {
+    "en": "The Spring Festival is the biggest <b>traditional</b> festival in China.",
+    "vi": "Tết là lễ hội <b>truyền thống</b> lớn nhất ở Trung Quốc."
+   }
+  },
+  {
+   "word": "all over",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌɔːl ˈəʊvə(r)/",
+   "def_en": "Everywhere in a place.",
+   "def_vi": "Khắp mọi nơi.",
+   "gloss_vi": "khắp",
+   "synonyms": "everywhere <i>(adv. khắp nơi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>All over</i> (phrase) = khắp. <b>Grammar</b>: <i>all over the world/country</i>.",
+   "example": {
+    "en": "People from <b>all over</b> China return to their family homes.",
+    "vi": "Người dân từ <b>khắp</b> Trung Quốc trở về nhà."
+   }
+  },
+  {
+   "word": "dress up",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌdres ˈʌp/",
+   "def_en": "To wear special clothes.",
+   "def_vi": "Mặc quần áo đặc biệt.",
+   "gloss_vi": "ăn diện, mặc đẹp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dress up</i> (phrasal verb) = ăn diện, mặc đẹp. <b>Grammar</b>: <i>dress up as sth</i> = hóa trang.",
+   "example": {
+    "en": "The next day, many people <b>dress up</b>.",
+    "vi": "Hôm sau nhiều người <b>ăn diện</b>."
+   }
+  },
+  {
+   "word": "bring luck",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌbrɪŋ ˈlʌk/",
+   "def_en": "To make good things happen to someone.",
+   "def_vi": "Làm điều tốt đến với ai.",
+   "gloss_vi": "mang lại may mắn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bring luck</i> (verb phrase) = mang lại may mắn. <b>Grammar</b>: <i>bring sb (good) luck</i>.",
+   "example": {
+    "en": "Children receive money from their parents in red envelopes to <b>bring them luck</b>.",
+    "vi": "Trẻ em nhận tiền trong phong bao đỏ để <b>mang lại may mắn</b>."
+   }
+  },
+  {
+   "word": "custom",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkʌstəm/",
+   "def_en": "Something that people usually do.",
+   "def_vi": "Điều người ta thường làm.",
+   "gloss_vi": "phong tục",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Custom</i> (noun) = phong tục. <b>Grammar</b>: đếm được. <b>Word family</b>: <i>customary</i> (adj.).",
+   "example": {
+    "en": "Another popular <b>custom</b> is to put two-line poems on the gates outside each home.",
+    "vi": "Một <b>phong tục</b> phổ biến khác là dán câu đối trên cổng."
+   }
+  },
+  {
+   "word": "tradition",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/trəˈdɪʃn/",
+   "def_en": "A very old custom that has continued for a long time.",
+   "def_vi": "Phong tục lâu đời được duy trì lâu.",
+   "gloss_vi": "truyền thống",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tradition</i> (noun) = truyền thống. <b>Grammar</b>: đếm được và không đếm được.",
+   "example": {
+    "en": "A <b>tradition</b> is a very old custom that has continued for a long time.",
+    "vi": "<b>Truyền thống</b> là một phong tục rất cũ đã kéo dài từ lâu."
+   }
+  },
+  {
+   "word": "customary",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈkʌstəməri/",
+   "def_en": "Usual; following a custom.",
+   "def_vi": "Theo lệ thường.",
+   "gloss_vi": "theo phong tục",
+   "synonyms": "usual <i>(adj. thông thường)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Customary</i> (adjective) = theo phong tục. <b>Grammar</b>: <i>it is customary to…</i>.",
+   "example": {
+    "en": "It is <b>customary</b> to take your shoes off before you enter a mosque.",
+    "vi": "Theo <b>phong tục</b>, bạn cởi giày trước khi vào nhà thờ Hồi giáo."
+   }
+  }
+ ]
+}

@@ -1,0 +1,300 @@
+{
+ "book": "pre",
+ "unit": 46,
+ "title_vi": "Đặt chỗ du lịch",
+ "theory_html": "<p><b>A. Types of holidays</b><br><i>A. Các loại kỳ nghỉ</i></p> <p><b>adventure holiday, skiing holiday, family holiday, beach holiday, go on a cruise, city break</b>.</p><p><i><b>kỳ nghỉ mạo hiểm, trượt tuyết, gia đình, biển; đi du thuyền; kỳ nghỉ ngắn ở thành phố</b>.</i></p> <p><b>B. Online booking</b><br><i>B. Đặt chỗ trực tuyến</i></p> <p><b>book holiday accommodation online; search for your destination; hotels or B&Bs; read the online reviews; a weekend break; a package holiday</b> (flight, hotel and sometimes meals).</p><p><i><b>chỗ ở, đặt trực tuyến, điểm đến, nhà nghỉ có bữa sáng, kỳ nghỉ cuối tuần, tour trọn gói</b>.</i></p> <p><b>C. Renting a private apartment</b><br><i>C. Thuê căn hộ tư nhân</i></p> <p><b>We picked up the keys… the wi-fi password… the listing said there was an iron… the central heating – where do we switch it on? The nearest supermarket? Can you recommend a nearby restaurant?</b></p><p><i><b>nhận chìa khóa, mật khẩu wi-fi, thông tin đăng, bàn là, bật lên, gần nhất, giới thiệu, gần đó</b>.</i></p>",
+ "items": [
+  {
+   "word": "adventure holiday",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ədˈventʃə ˌhɒlədeɪ/",
+   "def_en": "A holiday with exciting activities.",
+   "def_vi": "Kỳ nghỉ có hoạt động mạo hiểm.",
+   "gloss_vi": "kỳ nghỉ mạo hiểm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Adventure holiday</i> (noun phrase) = kỳ nghỉ mạo hiểm. <b>Grammar</b>: <i>go on a … holiday</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We went on an <b>adventure holiday</b> in Nepal.",
+    "vi": "Chúng tôi đi <b>kỳ nghỉ mạo hiểm</b> ở Nepal."
+   }
+  },
+  {
+   "word": "beach holiday",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈbiːtʃ ˌhɒlədeɪ/",
+   "def_en": "A holiday spent by the sea.",
+   "def_vi": "Kỳ nghỉ ở bờ biển.",
+   "gloss_vi": "kỳ nghỉ ở biển",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Beach holiday</i> (noun phrase) = kỳ nghỉ ở biển. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The children love a <b>beach holiday</b> best.",
+    "vi": "Bọn trẻ thích <b>kỳ nghỉ ở biển</b> nhất."
+   }
+  },
+  {
+   "word": "go on a cruise",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ ɒn ə ˈkruːz/",
+   "def_en": "To take a holiday on a large ship.",
+   "def_vi": "Đi nghỉ trên tàu lớn.",
+   "gloss_vi": "đi du thuyền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go on a cruise</i> (verb phrase) = đi du thuyền. <b>Grammar</b>: <i>cruise</i> (n.) /kruːz/.",
+   "ex_kit": true,
+   "example": {
+    "en": "My parents <b>went on a cruise</b> around the Mediterranean.",
+    "vi": "Bố mẹ tôi <b>đi du thuyền</b> quanh Địa Trung Hải."
+   }
+  },
+  {
+   "word": "city break",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈsɪti breɪk/",
+   "def_en": "A short holiday in a city.",
+   "def_vi": "Kỳ nghỉ ngắn ở một thành phố.",
+   "gloss_vi": "kỳ nghỉ ngắn ở thành phố",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>City break</i> (noun phrase) = kỳ nghỉ ngắn ở thành phố. <b>Grammar</b>: <i>break</i> = kỳ nghỉ ngắn.",
+   "ex_kit": true,
+   "example": {
+    "en": "We had a three-day <b>city break</b> in Rome.",
+    "vi": "Chúng tôi có <b>kỳ nghỉ ngắn</b> ba ngày ở Rome."
+   }
+  },
+  {
+   "word": "accommodation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˌkɒməˈdeɪʃn/",
+   "def_en": "A place where you stay.",
+   "def_vi": "Nơi bạn ở.",
+   "gloss_vi": "chỗ ở",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Accommodation</i> (noun) = chỗ ở. <b>Grammar</b>: Anh–Anh không đếm được. <b>Common mistakes</b>: hai <i>c</i>, hai <i>m</i>.",
+   "example": {
+    "en": "Many people book their holiday <b>accommodation</b> on the Internet.",
+    "vi": "Nhiều người đặt <b>chỗ ở</b> cho kỳ nghỉ trên Internet."
+   }
+  },
+  {
+   "word": "book online",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌbʊk ɒnˈlaɪn/",
+   "def_en": "To make a reservation using the Internet.",
+   "def_vi": "Đặt chỗ qua Internet.",
+   "gloss_vi": "đặt trực tuyến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Book online</i> (verb phrase) = đặt trực tuyến. <b>Grammar</b>: <i>book a room/flight</i>.",
+   "example": {
+    "en": "To <b>book online</b>, you need to search for your destination and the dates when you plan to travel.",
+    "vi": "Để <b>đặt trực tuyến</b>, bạn cần tìm điểm đến và ngày đi."
+   }
+  },
+  {
+   "word": "destination",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdestɪˈneɪʃn/",
+   "def_en": "A place where you plan to travel.",
+   "def_vi": "Nơi bạn định đến.",
+   "gloss_vi": "điểm đến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Destination</i> (noun) = điểm đến. <b>Grammar</b>: <i>a popular holiday destination</i>.",
+   "example": {
+    "en": "You need to search for your <b>destination</b> and the dates when you plan to travel.",
+    "vi": "Bạn cần tìm <b>điểm đến</b> và ngày đi."
+   }
+  },
+  {
+   "word": "B&B",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌbiː ən ˈbiː/",
+   "def_en": "Bed and breakfast: a small hotel where breakfast is included.",
+   "def_vi": "Nhà nghỉ nhỏ có kèm bữa sáng.",
+   "gloss_vi": "nhà nghỉ có bữa sáng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>B&B</i> (noun) = nhà nghỉ có bữa sáng. <b>Grammar</b>: viết tắt <i>bed and breakfast</i>.",
+   "example": {
+    "en": "You can look for hotels or <b>B&Bs</b>.",
+    "vi": "Bạn có thể tìm khách sạn hoặc <b>nhà nghỉ B&B</b>."
+   }
+  },
+  {
+   "word": "weekend break",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌwiːkend ˈbreɪk/",
+   "def_en": "A short holiday during a weekend.",
+   "def_vi": "Kỳ nghỉ ngắn dịp cuối tuần.",
+   "gloss_vi": "kỳ nghỉ cuối tuần",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Weekend break</i> (noun phrase) = kỳ nghỉ cuối tuần. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "A popular option for a <b>weekend break</b> is to rent an apartment in an interesting city.",
+    "vi": "Một lựa chọn phổ biến cho <b>kỳ nghỉ cuối tuần</b> là thuê căn hộ."
+   }
+  },
+  {
+   "word": "package holiday",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈpækɪdʒ ˌhɒlədeɪ/",
+   "def_en": "A holiday that includes the flight, hotel and sometimes meals.",
+   "def_vi": "Kỳ nghỉ gồm vé máy bay, khách sạn và đôi khi bữa ăn.",
+   "gloss_vi": "tour trọn gói",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Package holiday</i> (noun phrase) = tour trọn gói. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "You might like a <b>package holiday</b>.",
+    "vi": "Bạn có thể thích một <b>tour trọn gói</b>."
+   }
+  },
+  {
+   "word": "pick up",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌpɪk ˈʌp/",
+   "def_en": "To collect.",
+   "def_vi": "Đi lấy.",
+   "gloss_vi": "nhận, lấy",
+   "synonyms": "collect <i>(v. lấy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pick up</i> (phrasal verb) = nhận, lấy. <b>Grammar</b>: tách được: <i>pick them up</i>.",
+   "example": {
+    "en": "We <b>picked up</b> the keys from the neighbours without any problems.",
+    "vi": "Chúng tôi <b>nhận</b> chìa khóa từ hàng xóm không gặp vấn đề gì."
+   }
+  },
+  {
+   "word": "password",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɑːswɜːd/",
+   "def_en": "A secret group of letters and numbers for connecting to something.",
+   "def_vi": "Chuỗi ký tự bí mật để kết nối.",
+   "gloss_vi": "mật khẩu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Password</i> (noun) = mật khẩu. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "We can’t find the wi-fi <b>password</b>.",
+    "vi": "Chúng tôi không tìm thấy <b>mật khẩu</b> wi-fi."
+   }
+  },
+  {
+   "word": "listing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlɪstɪŋ/",
+   "def_en": "A written description of something to buy or rent.",
+   "def_vi": "Mô tả bằng chữ của thứ bán hay cho thuê.",
+   "gloss_vi": "tin đăng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Listing</i> (noun) = tin đăng. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "The <b>listing</b> said that there was an iron in the kitchen.",
+    "vi": "<b>Tin đăng</b> nói có một bàn là trong bếp."
+   }
+  },
+  {
+   "word": "iron",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈaɪən/",
+   "def_en": "A small machine that makes clothes smooth and flat.",
+   "def_vi": "Máy nhỏ làm phẳng quần áo.",
+   "gloss_vi": "bàn là",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Iron</i> (noun) = bàn là. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: /ˈaɪən/, <i>r</i> câm.",
+   "example": {
+    "en": "The listing said that there was an <b>iron</b> in the kitchen.",
+    "vi": "Tin đăng nói có một <b>bàn là</b> trong bếp."
+   }
+  },
+  {
+   "word": "switch on",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌswɪtʃ ˈɒn/",
+   "def_en": "To make something start working.",
+   "def_vi": "Làm thứ gì bắt đầu hoạt động.",
+   "gloss_vi": "bật",
+   "synonyms": "turn on <i>(pv. bật)</i>",
+   "antonyms": "switch off <i>(pv. tắt)</i>",
+   "grammar_vi": "<i>Switch on</i> (phrasal verb) = bật. <b>Grammar</b>: tách được: <i>switch it on</i>.",
+   "example": {
+    "en": "Where do we <b>switch it on</b>?",
+    "vi": "Chúng tôi <b>bật</b> nó ở đâu?"
+   }
+  },
+  {
+   "word": "nearest",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈnɪərɪst/",
+   "def_en": "Closest.",
+   "def_vi": "Gần nhất.",
+   "gloss_vi": "gần nhất",
+   "synonyms": "closest <i>(adj. gần nhất)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nearest</i> (adjective) = gần nhất. <b>Grammar</b>: so sánh nhất của <i>near</i>.",
+   "example": {
+    "en": "Where’s the <b>nearest</b> supermarket?",
+    "vi": "Siêu thị <b>gần nhất</b> ở đâu?"
+   }
+  },
+  {
+   "word": "recommend",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌrekəˈmend/",
+   "def_en": "To say something is good.",
+   "def_vi": "Nói thứ gì là tốt.",
+   "gloss_vi": "giới thiệu, gợi ý",
+   "synonyms": "suggest <i>(v. gợi ý)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Recommend</i> (verb) = giới thiệu, gợi ý. <b>Grammar</b>: một <i>c</i>, hai <i>m</i>. <b>Word family</b>: <i>recommendation</i> (n.).",
+   "example": {
+    "en": "Can you <b>recommend</b> a nearby restaurant for dinner?",
+    "vi": "Bạn có thể <b>giới thiệu</b> một nhà hàng gần đây không?"
+   }
+  },
+  {
+   "word": "nearby",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌnɪəˈbaɪ/",
+   "def_en": "Not far.",
+   "def_vi": "Không xa.",
+   "gloss_vi": "gần đó",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nearby</i> (adjective) = gần đó. <b>Grammar</b>: tính từ và trạng từ.",
+   "example": {
+    "en": "Can you recommend a <b>nearby</b> restaurant for dinner?",
+    "vi": "Bạn có thể giới thiệu một nhà hàng <b>gần đây</b> không?"
+   }
+  }
+ ]
+}
