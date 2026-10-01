@@ -1,0 +1,232 @@
+{
+ "book": "pre",
+ "unit": 67,
+ "title_vi": "Ý kiến, đồng ý và không đồng ý",
+ "theory_html": "<p><b>A. Asking someone for their opinion</b><br><i>A. Hỏi ý kiến</i></p> <p><b>What do you think of</b> (a specific thing/person)? <b>What do you think about</b> (a general topic)? <b>How do you feel about…?</b></p><p><i><b>Bạn nghĩ gì về…? Bạn cảm thấy thế nào về…?</b></i></p> <p><b>B. Introducing your own opinion</b><br><i>B. Nêu ý kiến</i></p> <p><b>Personally, I think/feel…; In my opinion…; My view/feeling is that…</b> <b>Personally, I don’t think it’s…</b> (NOT <b>I think it’s not</b>); <b>In my opinion</b> (NOT <b>On my opinion</b>).</p><p><i><b>Cá nhân tôi nghĩ…; theo tôi…; quan điểm của tôi là…</b></i></p> <p><b>C. Giving the opinion of others</b><br><i>C. Nêu ý kiến người khác</i></p> <p><b>The newspaper says that…; According to the paper…</b></p><p><i><b>Báo viết rằng…; Theo báo…</b></i></p> <p><b>D. Agreeing and disagreeing</b><br><i>D. Đồng ý và không đồng ý</i></p> <p><b>I totally agree; I partly agree; I agree to a certain extent; I agree with you</b> (NOT <b>I’m agree</b>). Before disagreeing: <b>That’s true, but…; I see what you mean, but…; that’s a good point, but…; I take your point, but…</b></p><p><i><b>hoàn toàn đồng ý, đồng ý một phần, ở mức độ nào đó; đúng vậy nhưng…; tôi hiểu ý bạn nhưng…; ý hay nhưng…</b></i></p> <p><b>E. Giving a strong opinion</b><br><i>E. Ý kiến mạnh mẽ</i></p> <p><b>I feel very strongly about…; you’re absolutely right/wrong; I don’t agree at all; I disagree completely</b>.</p><p><i><b>tôi có quan điểm rất mạnh về…; hoàn toàn đúng/sai; không đồng ý chút nào</b>.</i></p>",
+ "items": [
+  {
+   "word": "what do you think of",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌwɒt də juː ˈθɪŋk əv/",
+   "def_en": "Used to ask someone’s opinion about a specific thing or person.",
+   "def_vi": "Hỏi ý kiến về một thứ hay người cụ thể.",
+   "gloss_vi": "bạn nghĩ gì về",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>What do you think of</i> (phrase) = bạn nghĩ gì về. <b>Grammar</b>: <i>of</i> cho thứ cụ thể; <i>about</i> cho chủ đề chung.",
+   "example": {
+    "en": "<b>What do you think of</b> his new book?",
+    "vi": "<b>Bạn nghĩ gì về</b> cuốn sách mới của anh ấy?"
+   }
+  },
+  {
+   "word": "how do you feel about",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌhaʊ də juː ˈfiːl əbaʊt/",
+   "def_en": "Used to ask someone’s opinion or feelings.",
+   "def_vi": "Hỏi ý kiến hay cảm nhận của ai.",
+   "gloss_vi": "bạn thấy thế nào về",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>How do you feel about</i> (phrase) = bạn thấy thế nào về. <b>Grammar</b>: + V-ing / danh từ.",
+   "example": {
+    "en": "<b>How do you feel about</b> working with the others?",
+    "vi": "<b>Bạn thấy thế nào về</b> việc làm cùng những người khác?"
+   }
+  },
+  {
+   "word": "personally",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈpɜːsənəli/",
+   "def_en": "Used to say that this is your own opinion.",
+   "def_vi": "Dùng để nói đây là ý kiến riêng.",
+   "gloss_vi": "cá nhân tôi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Personally</i> (adverb) = cá nhân tôi. <b>Grammar</b>: <i>Personally, I don’t think…</i> (không <i>I think… not</i>).",
+   "example": {
+    "en": "<b>Personally</b>, I think Helena was probably right.",
+    "vi": "<b>Cá nhân tôi</b> nghĩ Helena có lẽ đúng."
+   }
+  },
+  {
+   "word": "my view is",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/maɪ ˈvjuː ɪz/",
+   "def_en": "My opinion is.",
+   "def_vi": "Ý kiến của tôi là.",
+   "gloss_vi": "quan điểm của tôi là",
+   "synonyms": "my feeling is <i>(phr. cảm nhận của tôi là)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>My view is</i> (phrase) = quan điểm của tôi là. <b>Grammar</b>: <i>My view/feeling is that…</i>.",
+   "example": {
+    "en": "<b>My view is</b> that we need to wait a bit longer.",
+    "vi": "<b>Quan điểm của tôi là</b> chúng ta cần chờ thêm chút nữa."
+   }
+  },
+  {
+   "word": "totally agree",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌtəʊtəli əˈɡriː/",
+   "def_en": "To agree completely.",
+   "def_vi": "Đồng ý hoàn toàn.",
+   "gloss_vi": "hoàn toàn đồng ý",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "disagree completely <i>(vp. hoàn toàn không đồng ý)</i>",
+   "grammar_vi": "<i>Totally agree</i> (verb phrase) = hoàn toàn đồng ý. <b>Grammar</b>: <i>I agree</i> (không <i>I’m agree</i>); <i>Do you agree?</i>.",
+   "example": {
+    "en": "I <b>totally agree</b> (with you).",
+    "vi": "Tôi <b>hoàn toàn đồng ý</b> với bạn."
+   }
+  },
+  {
+   "word": "partly agree",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌpɑːtli əˈɡriː/",
+   "def_en": "To agree but not completely.",
+   "def_vi": "Đồng ý nhưng không hoàn toàn.",
+   "gloss_vi": "đồng ý một phần",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Partly agree</i> (verb phrase) = đồng ý một phần. <b>Grammar</b>: <i>partly</i> = một phần.",
+   "example": {
+    "en": "I <b>partly agree</b> (with you).",
+    "vi": "Tôi <b>đồng ý một phần</b> với bạn."
+   }
+  },
+  {
+   "word": "to a certain extent",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/tʊ ə ˌsɜːtn ɪkˈstent/",
+   "def_en": "Partly.",
+   "def_vi": "Một phần.",
+   "gloss_vi": "ở mức độ nào đó",
+   "synonyms": "to some extent <i>(phr. ở mức độ nào đó)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>To a certain extent</i> (phrase) = ở mức độ nào đó. <b>Grammar</b>: cũng <i>to some extent</i>.",
+   "example": {
+    "en": "I agree (with you) <b>to a certain extent</b>.",
+    "vi": "Tôi đồng ý với bạn <b>ở mức độ nào đó</b>."
+   }
+  },
+  {
+   "word": "I see what you mean",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/aɪ ˌsiː wɒt juː ˈmiːn/",
+   "def_en": "I understand what you are saying.",
+   "def_vi": "Tôi hiểu điều bạn đang nói.",
+   "gloss_vi": "tôi hiểu ý bạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>I see what you mean</i> (phrase) = tôi hiểu ý bạn. <b>Grammar</b>: thường đứng trước <i>but</i> để phản bác nhẹ.",
+   "example": {
+    "en": "<b>I see what you mean</b>, but …",
+    "vi": "<b>Tôi hiểu ý bạn</b>, nhưng…"
+   }
+  },
+  {
+   "word": "point",
+   "sense": "opinion",
+   "pos": "noun",
+   "ipa": "/pɔɪnt/",
+   "def_en": "An idea or opinion.",
+   "def_vi": "Ý tưởng hay ý kiến.",
+   "gloss_vi": "ý, luận điểm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Point</i> (noun) = ý, luận điểm. <b>Grammar</b>: <i>a good point</i>; <i>take sb’s point</i>.",
+   "example": {
+    "en": "I think that’s a good <b>point</b>, but …",
+    "vi": "Tôi nghĩ đó là một <b>ý</b> hay, nhưng…"
+   }
+  },
+  {
+   "word": "take your point",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌteɪk jə ˈpɔɪnt/",
+   "def_en": "To understand and partly agree with someone’s opinion.",
+   "def_vi": "Hiểu và đồng ý một phần với ý kiến của ai.",
+   "gloss_vi": "hiểu ý bạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take your point</i> (verb phrase) = hiểu ý bạn. <b>Grammar</b>: <i>I take your point, but…</i>.",
+   "example": {
+    "en": "I <b>take your point</b>, but ...",
+    "vi": "Tôi <b>hiểu ý bạn</b>, nhưng…"
+   }
+  },
+  {
+   "word": "feel strongly about",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌfiːl ˈstrɒŋli əbaʊt/",
+   "def_en": "To have a very strong opinion about something.",
+   "def_vi": "Có ý kiến rất mạnh về điều gì.",
+   "gloss_vi": "có quan điểm mạnh mẽ về",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Feel strongly about</i> (verb phrase) = có quan điểm mạnh mẽ về. <b>Grammar</b>: <i>feel strongly about sth</i>.",
+   "example": {
+    "en": "I <b>feel very strongly about</b> military service.",
+    "vi": "Tôi <b>có quan điểm rất mạnh mẽ về</b> nghĩa vụ quân sự."
+   }
+  },
+  {
+   "word": "absolutely right",
+   "sense": "",
+   "pos": "adjp",
+   "ipa": "/ˌæbsəluːtli ˈraɪt/",
+   "def_en": "100% correct.",
+   "def_vi": "Đúng 100%.",
+   "gloss_vi": "hoàn toàn đúng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "absolutely wrong <i>(adjp. hoàn toàn sai)</i>",
+   "grammar_vi": "<i>Absolutely right</i> (adjp) = hoàn toàn đúng. <b>Grammar</b>: <i>absolutely</i> + tính từ mạnh.",
+   "example": {
+    "en": "I think you’re <b>absolutely right</b>.",
+    "vi": "Tôi nghĩ bạn <b>hoàn toàn đúng</b>."
+   }
+  },
+  {
+   "word": "not at all",
+   "sense": "strong",
+   "pos": "phrase",
+   "ipa": "/ˌnɒt ət ˈɔːl/",
+   "def_en": "Completely not.",
+   "def_vi": "Hoàn toàn không.",
+   "gloss_vi": "không chút nào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Not at all</i> (phrase) = không chút nào. <b>Grammar</b>: <i>at all</i> nhấn mạnh phủ định.",
+   "example": {
+    "en": "I don’t agree <b>at all</b>.",
+    "vi": "Tôi không đồng ý <b>chút nào</b>."
+   }
+  },
+  {
+   "word": "disagree",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌdɪsəˈɡriː/",
+   "def_en": "To have a different opinion.",
+   "def_vi": "Có ý kiến khác.",
+   "gloss_vi": "không đồng ý",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "agree <i>(v. đồng ý)</i>",
+   "grammar_vi": "<i>Disagree</i> (verb) = không đồng ý. <b>Grammar</b>: <i>disagree with sb/sth</i>.",
+   "example": {
+    "en": "I <b>disagree</b> completely.",
+    "vi": "Tôi <b>không đồng ý</b> hoàn toàn."
+   }
+  }
+ ]
+}
