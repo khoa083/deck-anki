@@ -1,0 +1,447 @@
+{
+ "book": "pre",
+ "unit": 52,
+ "title_vi": "Báo chí và truyền hình",
+ "theory_html": "<p><b>A. Newspapers</b><br><i>A. Báo</i></p> <p><b>papers</b> are <b>daily</b>, they <b>come out</b> (syn <b>are published</b>) every day; <b>national / regional</b>; <b>e-papers</b>; <b>mobile editions</b>; magazines are <b>weekly</b> or <b>monthly</b>.</p><p><i><b>báo, xuất bản, toàn quốc, khu vực, báo điện tử, phiên bản di động, hằng tuần, hằng tháng</b>.</i></p> <p><b>B. Contents of newspapers</b><br><i>B. Nội dung báo</i></p> <p><b>reports</b> by <b>reporters/journalists</b> (<b>a report on/about</b>); <b>articles</b>; <b>headlines</b>; <b>reviews</b> (<b>a review of</b>); <b>advertisements/adverts</b> (<b>an advert for</b>).</p><p><i><b>bản tin, phóng viên, nhà báo, bài báo, tiêu đề, bài phê bình, quảng cáo</b>.</i></p> <p><b>C. Television</b><br><i>C. Truyền hình</i></p> <p><b>broadcast</b>; <b>the news, the weather forecast, documentaries, chat shows, a series, soap operas, reality TV shows</b> (<b>celebrities</b>, <b>well-known</b>). <b>channel</b> (TV) vs <b>station</b> (radio).</p><p><i><b>phát sóng; tin tức, dự báo thời tiết, phim tài liệu, chương trình trò chuyện, loạt phim, phim truyền hình dài tập, truyền hình thực tế, người nổi tiếng; kênh, đài</b>.</i></p> <p><b>D. Media reporting</b><br><i>D. Đưa tin</i></p> <p>online <b>forums</b>, <b>podcasts</b>; <b>It said in The Times that…</b>; <b>According to the news…</b> (NOT <b>It’s written in the paper</b>).</p><p><i><b>diễn đàn, podcast; báo viết rằng, theo</b>.</i></p>",
+ "items": [
+  {
+   "word": "paper",
+   "sense": "newspaper",
+   "pos": "noun",
+   "ipa": "/ˈpeɪpə(r)/",
+   "def_en": "A newspaper.",
+   "def_vi": "Tờ báo.",
+   "gloss_vi": "tờ báo",
+   "synonyms": "newspaper <i>(n. tờ báo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Paper</i> (noun) = tờ báo. <b>Grammar</b>: đếm được ở nghĩa này.",
+   "example": {
+    "en": "Most <b>papers</b> are daily.",
+    "vi": "Phần lớn <b>báo</b> ra hằng ngày."
+   }
+  },
+  {
+   "word": "be published",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/bi ˈpʌblɪʃt/",
+   "def_en": "To appear in shops; to come out.",
+   "def_vi": "Xuất hiện ở cửa hàng; phát hành.",
+   "gloss_vi": "được xuất bản",
+   "synonyms": "come out <i>(pv. phát hành)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be published</i> (verb phrase) = được xuất bản. <b>Grammar</b>: <i>publish</i> (v.). <b>Word family</b>: <i>publisher</i>.",
+   "example": {
+    "en": "Daily papers come out / <b>are published</b> every day.",
+    "vi": "Báo hằng ngày <b>được xuất bản</b> mỗi ngày."
+   }
+  },
+  {
+   "word": "national",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈnæʃnəl/",
+   "def_en": "For the whole country.",
+   "def_vi": "Cho cả nước.",
+   "gloss_vi": "toàn quốc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "regional <i>(adj. khu vực)</i>",
+   "grammar_vi": "<i>National</i> (adjective) = toàn quốc. <b>Grammar</b>: <i>a national newspaper</i>.",
+   "example": {
+    "en": "Some are <b>national</b>, others are regional.",
+    "vi": "Một số báo là báo <b>toàn quốc</b>, số khác là báo khu vực."
+   }
+  },
+  {
+   "word": "regional",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈriːdʒənl/",
+   "def_en": "For a part of the country.",
+   "def_vi": "Cho một phần đất nước.",
+   "gloss_vi": "khu vực, vùng",
+   "synonyms": "local <i>(adj. địa phương)</i>",
+   "antonyms": "national <i>(adj. toàn quốc)</i>",
+   "grammar_vi": "<i>Regional</i> (adjective) = khu vực, vùng. <b>Grammar</b>: <i>region</i> (n.).",
+   "example": {
+    "en": "Some are national, others are <b>regional</b>.",
+    "vi": "Một số báo là báo toàn quốc, số khác là báo <b>khu vực</b>."
+   }
+  },
+  {
+   "word": "mobile edition",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌməʊbaɪl ɪˈdɪʃn/",
+   "def_en": "A version of a newspaper you read on your phone.",
+   "def_vi": "Phiên bản báo đọc trên điện thoại.",
+   "gloss_vi": "phiên bản di động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mobile edition</i> (noun phrase) = phiên bản di động. <b>Grammar</b>: <i>edition</i> = phiên bản/số báo.",
+   "example": {
+    "en": "You can also get <b>mobile editions</b>.",
+    "vi": "Bạn cũng có thể đọc <b>phiên bản di động</b>."
+   }
+  },
+  {
+   "word": "monthly",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈmʌnθli/",
+   "def_en": "Happening or appearing once a month.",
+   "def_vi": "Xuất hiện mỗi tháng một lần.",
+   "gloss_vi": "hằng tháng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Monthly</i> (adjective) = hằng tháng. <b>Grammar</b>: tính từ và trạng từ.",
+   "example": {
+    "en": "Magazines are usually weekly or <b>monthly</b>.",
+    "vi": "Tạp chí thường ra hằng tuần hoặc <b>hằng tháng</b>."
+   }
+  },
+  {
+   "word": "report",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˈpɔːt/",
+   "def_en": "A piece of writing about a news item.",
+   "def_vi": "Bài viết về một tin tức.",
+   "gloss_vi": "bản tin",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Report</i> (noun) = bản tin. <b>Grammar</b>: <i>a report on/about sth</i>.",
+   "example": {
+    "en": "a <b>report</b> in The Times on/about a crime",
+    "vi": "Một <b>bản tin</b> trên tờ The Times về một vụ phạm tội."
+   }
+  },
+  {
+   "word": "reporter",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˈpɔːtə(r)/",
+   "def_en": "A person who writes reports for newspapers or TV.",
+   "def_vi": "Người viết tin cho báo hay truyền hình.",
+   "gloss_vi": "phóng viên",
+   "synonyms": "journalist <i>(n. nhà báo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reporter</i> (noun) = phóng viên. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Reports are written by <b>reporters</b>/journalists.",
+    "vi": "Bản tin được viết bởi <b>phóng viên</b> hay nhà báo."
+   }
+  },
+  {
+   "word": "journalist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdʒɜːnəlɪst/",
+   "def_en": "A person who writes for newspapers or magazines.",
+   "def_vi": "Người viết cho báo hay tạp chí.",
+   "gloss_vi": "nhà báo",
+   "synonyms": "reporter <i>(n. phóng viên)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Journalist</i> (noun) = nhà báo. <b>Grammar</b>: <i>journalism</i> (n.).",
+   "example": {
+    "en": "Reports are written by reporters/<b>journalists</b>.",
+    "vi": "Bản tin được viết bởi phóng viên hay <b>nhà báo</b>."
+   }
+  },
+  {
+   "word": "article",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɑːtɪkl/",
+   "def_en": "A piece of writing about an important subject.",
+   "def_vi": "Bài viết về một chủ đề quan trọng.",
+   "gloss_vi": "bài báo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Article</i> (noun) = bài báo. <b>Grammar</b>: <i>an article on/about sth</i>.",
+   "example": {
+    "en": "an <b>article</b> on/about drugs",
+    "vi": "Một <b>bài báo</b> về ma túy."
+   }
+  },
+  {
+   "word": "headline",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhedlaɪn/",
+   "def_en": "A title written in large letters above a report or article.",
+   "def_vi": "Tiêu đề chữ lớn trên bài báo.",
+   "gloss_vi": "tiêu đề báo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Headline</i> (noun) = tiêu đề báo. <b>Grammar</b>: <i>hit the headlines</i> = lên trang nhất.",
+   "example": {
+    "en": "<b>Headlines</b> are titles written in large letters above reports/articles.",
+    "vi": "<b>Tiêu đề</b> là các tiêu đề chữ lớn trên bản tin hay bài báo."
+   }
+  },
+  {
+   "word": "advert",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈædvɜːt/",
+   "def_en": "Words and pictures about a product, to make people buy it.",
+   "def_vi": "Chữ và hình về sản phẩm để người ta mua.",
+   "gloss_vi": "quảng cáo",
+   "synonyms": "advertisement <i>(n. quảng cáo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Advert</i> (noun) = quảng cáo. <b>Grammar</b>: <i>an advert for sth</i>; cũng <i>ad</i>.",
+   "example": {
+    "en": "an <b>advert</b> for shampoo",
+    "vi": "Một <b>quảng cáo</b> dầu gội."
+   }
+  },
+  {
+   "word": "broadcast",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈbrɔːdkɑːst/",
+   "def_en": "To send something out on TV, radio or the Internet.",
+   "def_vi": "Phát trên TV, radio hay Internet.",
+   "gloss_vi": "phát sóng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Broadcast</i> (verb) = phát sóng. <b>Grammar</b>: <i>broadcast – broadcast – broadcast</i>.",
+   "example": {
+    "en": "If you <b>broadcast</b> something, you send it out on TV, radio or the Internet.",
+    "vi": "Nếu bạn <b>phát sóng</b> cái gì, bạn phát nó trên TV, radio hay Internet."
+   }
+  },
+  {
+   "word": "the news",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ðə ˈnjuːz/",
+   "def_en": "Information about world events.",
+   "def_vi": "Thông tin về sự kiện thế giới.",
+   "gloss_vi": "tin tức, bản tin thời sự",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The news</i> (noun phrase) = tin tức, bản tin thời sự. <b>Grammar</b>: không đếm được, động từ số ít: <i>The news is…</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I watch <b>the news</b> every evening.",
+    "vi": "Tôi xem <b>thời sự</b> mỗi tối."
+   }
+  },
+  {
+   "word": "weather forecast",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈweðə ˌfɔːkɑːst/",
+   "def_en": "A description of what the weather will be like.",
+   "def_vi": "Mô tả thời tiết sắp tới.",
+   "gloss_vi": "dự báo thời tiết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Weather forecast</i> (noun phrase) = dự báo thời tiết. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>weather forecast</b> says it will rain tomorrow.",
+    "vi": "<b>Dự báo thời tiết</b> nói ngày mai sẽ mưa."
+   }
+  },
+  {
+   "word": "documentary",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdɒkjuˈmentri/",
+   "def_en": "A programme that gives facts about real situations and people.",
+   "def_vi": "Chương trình đưa sự thật về tình huống và con người thật.",
+   "gloss_vi": "phim tài liệu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Documentary</i> (noun) = phim tài liệu. <b>Grammar</b>: số nhiều <i>documentaries</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I watched a <b>documentary</b> about the rainforest.",
+    "vi": "Tôi xem một <b>phim tài liệu</b> về rừng nhiệt đới."
+   }
+  },
+  {
+   "word": "chat show",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈtʃæt ʃəʊ/",
+   "def_en": "A programme where famous people are asked questions about themselves.",
+   "def_vi": "Chương trình người nổi tiếng được hỏi về bản thân.",
+   "gloss_vi": "chương trình trò chuyện",
+   "synonyms": "talk show <i>(np. chương trình trò chuyện (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chat show</i> (noun phrase) = chương trình trò chuyện. <b>Grammar</b>: Anh–Anh.",
+   "ex_kit": true,
+   "example": {
+    "en": "She appeared on a <b>chat show</b> last night.",
+    "vi": "Cô ấy xuất hiện trong một <b>chương trình trò chuyện</b> tối qua."
+   }
+  },
+  {
+   "word": "series",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɪəriːz/",
+   "def_en": "A number of programmes with the same characters or subject.",
+   "def_vi": "Nhiều chương trình cùng nhân vật hay chủ đề.",
+   "gloss_vi": "loạt phim",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Series</i> (noun) = loạt phim. <b>Grammar</b>: số ít và số nhiều giống nhau.",
+   "ex_kit": true,
+   "example": {
+    "en": "There’s a new <b>series</b> about British history.",
+    "vi": "Có một <b>loạt phim</b> mới về lịch sử nước Anh."
+   }
+  },
+  {
+   "word": "soap opera",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈsəʊp ˌɒprə/",
+   "def_en": "A regular series about a group of characters who live in the same area.",
+   "def_vi": "Loạt phim đều đặn về nhóm nhân vật sống cùng khu.",
+   "gloss_vi": "phim truyền hình dài tập",
+   "synonyms": "soap <i>(n. phim dài tập)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Soap opera</i> (noun phrase) = phim truyền hình dài tập. <b>Grammar</b>: thân mật <i>soap</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "My mum watches a <b>soap opera</b> every evening.",
+    "vi": "Mẹ tôi xem <b>phim truyền hình dài tập</b> mỗi tối."
+   }
+  },
+  {
+   "word": "reality TV show",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/riˌæləti ˌtiː ˈviː ʃəʊ/",
+   "def_en": "A programme which follows ordinary people or celebrities through situations or challenges.",
+   "def_vi": "Chương trình theo chân người thường hay người nổi tiếng qua các thử thách.",
+   "gloss_vi": "chương trình truyền hình thực tế",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reality TV show</i> (noun phrase) = chương trình truyền hình thực tế. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The X Factor is a famous <b>reality TV show</b>.",
+    "vi": "The X Factor là một <b>chương trình truyền hình thực tế</b> nổi tiếng."
+   }
+  },
+  {
+   "word": "celebrity",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/səˈlebrəti/",
+   "def_en": "A famous person.",
+   "def_vi": "Người nổi tiếng.",
+   "gloss_vi": "người nổi tiếng",
+   "synonyms": "star <i>(n. ngôi sao)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Celebrity</i> (noun) = người nổi tiếng. <b>Grammar</b>: số nhiều <i>celebrities</i>.",
+   "example": {
+    "en": "Reality TV shows follow ordinary people or <b>celebrities</b> through a number of situations.",
+    "vi": "Chương trình thực tế theo chân người thường hay <b>người nổi tiếng</b>."
+   }
+  },
+  {
+   "word": "well-known",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌwel ˈnəʊn/",
+   "def_en": "Famous.",
+   "def_vi": "Nổi tiếng.",
+   "gloss_vi": "nổi tiếng",
+   "synonyms": "famous <i>(adj. nổi tiếng)</i>",
+   "antonyms": "unknown <i>(adj. vô danh)</i>",
+   "grammar_vi": "<i>Well-known</i> (adjective) = nổi tiếng. <b>Grammar</b>: có gạch nối trước danh từ.",
+   "example": {
+    "en": "<b>Well-known</b> examples include Pop Idol, The X Factor and Strictly Come Dancing.",
+    "vi": "Những ví dụ <b>nổi tiếng</b> gồm Pop Idol và The X Factor."
+   }
+  },
+  {
+   "word": "channel",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtʃænl/",
+   "def_en": "A TV station.",
+   "def_vi": "Kênh truyền hình.",
+   "gloss_vi": "kênh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Channel</i> (noun) = kênh. <b>Grammar</b>: <i>channel</i> (TV) ≠ <i>station</i> (radio).",
+   "example": {
+    "en": "The news is on <b>Channel</b> 4.",
+    "vi": "Thời sự được chiếu trên <b>Kênh</b> 4."
+   }
+  },
+  {
+   "word": "station",
+   "sense": "radio",
+   "pos": "noun",
+   "ipa": "/ˈsteɪʃn/",
+   "def_en": "A radio broadcasting company.",
+   "def_vi": "Công ty phát thanh.",
+   "gloss_vi": "đài (phát thanh)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Station</i> (noun) = đài (phát thanh). <b>Grammar</b>: <i>a radio station</i>.",
+   "example": {
+    "en": "What <b>station</b> are you listening to?",
+    "vi": "Bạn đang nghe <b>đài</b> nào?"
+   }
+  },
+  {
+   "word": "forum",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfɔːrəm/",
+   "def_en": "A place online where people leave messages and discuss topics.",
+   "def_vi": "Nơi trên mạng để để lại tin và thảo luận.",
+   "gloss_vi": "diễn đàn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Forum</i> (noun) = diễn đàn. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Many newspapers also have online <b>forums</b>.",
+    "vi": "Nhiều tờ báo có <b>diễn đàn</b> trực tuyến."
+   }
+  },
+  {
+   "word": "podcast",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɒdkɑːst/",
+   "def_en": "A radio programme you download from the Internet.",
+   "def_vi": "Chương trình radio tải từ Internet.",
+   "gloss_vi": "podcast",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Podcast</i> (noun) = podcast. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Have you heard the latest business <b>podcast</b> on the CNN website?",
+    "vi": "Bạn đã nghe <b>podcast</b> kinh doanh mới nhất trên CNN chưa?"
+   }
+  },
+  {
+   "word": "according to",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/əˈkɔːdɪŋ tə/",
+   "def_en": "As said by someone or something.",
+   "def_vi": "Theo lời ai hay điều gì.",
+   "gloss_vi": "theo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>According to</i> (preposition) = theo. <b>Grammar</b>: không dùng <i>according to me</i> (dùng <i>in my opinion</i>).",
+   "example": {
+    "en": "<b>According to</b> the news on TV last night, the plane crashed in the sea.",
+    "vi": "<b>Theo</b> bản tin TV tối qua, máy bay rơi xuống biển."
+   }
+  }
+ ]
+}

@@ -1,0 +1,393 @@
+{
+ "book": "pre",
+ "unit": 53,
+ "title_vi": "Gọi điện và nhắn tin",
+ "theory_html": "<p><b>A. Starting a phone conversation</b><br><i>A. Bắt đầu cuộc gọi</i></p> <p>Friends: <b>Hello? – Is that Joe? – Yeah. – Hi. It’s Lily.</b> Business: <b>Could I speak to Jane Gordon? – Who’s calling, please? – My name is Paul Sharp. – I’m putting you through… – Speaking.</b> Say <b>Is that Joe?</b> (NOT <b>Are you Joe?</b>) and <b>It’s Lily</b> (NOT <b>I am Lily</b>).</p><p><i><b>Có phải… không? Tôi là… Cho tôi nói chuyện với… Ai gọi đấy ạ? Tôi nối máy… Tôi nghe đây</b>.</i></p> <p><b>B. Problems on the phone</b><br><i>B. Trục trặc khi gọi</i></p> <p><b>ring</b> sb; <b>on the phone</b>; <b>dialled the wrong number</b>; <b>left a message</b> on the <b>answerphone</b>; he was <b>out</b> (syn <b>not in</b>); never <b>phoned me back</b>; <b>gave her a ring</b>; couldn’t <b>get through</b>; the line was <b>engaged</b>.</p><p><i><b>gọi, đang nghe điện thoại, bấm nhầm số, để lại lời nhắn, máy trả lời tự động, đi vắng, gọi lại, gọi cho, gọi được, máy bận</b>.</i></p> <p><b>C. Phone numbers</b><br><i>C. Số điện thoại</i></p> <p><b>home phone number</b> (also <b>landline</b>), <b>mobile number</b>, <b>emergency number</b> (999), <b>dialling code</b> (0044).</p><p><i><b>số máy bàn, số di động, số khẩn cấp, mã vùng</b>.</i></p> <p><b>D. Mobile phones and texting</b><br><i>D. Điện thoại di động và nhắn tin</i></p> <p>use the mobile <b>mostly/mainly</b> for <b>texting</b>; <b>text</b> your friends; text <b>abbreviations</b>: ASAP, CU, IMO (<b>in my opinion</b>), FYI, THX, LOL…</p><p><i><b>chủ yếu, nhắn tin, chữ viết tắt, theo ý tôi</b>.</i></p>",
+ "items": [
+  {
+   "word": "is that",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˈɪz ðæt/",
+   "def_en": "Used on the phone to ask who you are speaking to.",
+   "def_vi": "Dùng khi gọi điện để hỏi đang nói với ai.",
+   "gloss_vi": "có phải … đấy không",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Is that</i> (phrase) = có phải … đấy không. <b>Grammar</b>: <i>Is that Joe?</i> (không <i>Are you Joe?</i>).",
+   "example": {
+    "en": "<b>Is that</b> Joe?",
+    "vi": "<b>Có phải</b> Joe <b>đấy không</b>?"
+   }
+  },
+  {
+   "word": "it’s",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪts/",
+   "def_en": "Used on the phone to say who you are.",
+   "def_vi": "Dùng khi gọi điện để xưng tên.",
+   "gloss_vi": "(tôi) là",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>It’s</i> (phrase) = (tôi) là. <b>Grammar</b>: <i>It’s Lily</i> (không <i>I am Lily / Here is Lily</i>).",
+   "example": {
+    "en": "Hi. <b>It’s</b> Lily.",
+    "vi": "Chào. <b>Lily đây</b>."
+   }
+  },
+  {
+   "word": "could I speak to",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/kʊd aɪ ˈspiːk tə/",
+   "def_en": "A polite way to ask for someone on the phone.",
+   "def_vi": "Cách lịch sự xin nói chuyện với ai qua điện thoại.",
+   "gloss_vi": "cho tôi nói chuyện với",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Could I speak to</i> (phrase) = cho tôi nói chuyện với. <b>Grammar</b>: <i>Could I speak to…, please?</i>.",
+   "example": {
+    "en": "Oh, <b>could I speak to</b> Jane Gordon, please?",
+    "vi": "<b>Cho tôi nói chuyện với</b> Jane Gordon được không?"
+   }
+  },
+  {
+   "word": "who’s calling",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌhuːz ˈkɔːlɪŋ/",
+   "def_en": "Who is phoning?",
+   "def_vi": "Ai đang gọi?",
+   "gloss_vi": "ai gọi đấy ạ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Who’s calling</i> (phrase) = ai gọi đấy ạ. <b>Grammar</b>: lịch sự trong cuộc gọi công việc.",
+   "example": {
+    "en": "Yes. <b>Who’s calling</b>, please?",
+    "vi": "Vâng. <b>Ai gọi đấy ạ</b>?"
+   }
+  },
+  {
+   "word": "put through",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌpʊt ˈθruː/",
+   "def_en": "To connect someone on the phone.",
+   "def_vi": "Nối máy cho ai.",
+   "gloss_vi": "nối máy",
+   "synonyms": "connect <i>(v. kết nối)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Put through</i> (phrasal verb) = nối máy. <b>Grammar</b>: <i>put sb through (to sb)</i>.",
+   "example": {
+    "en": "Right, Mr Sharp. I’m <b>putting you through</b>.",
+    "vi": "Vâng, ông Sharp. Tôi đang <b>nối máy</b> cho ông."
+   }
+  },
+  {
+   "word": "speaking",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˈspiːkɪŋ/",
+   "def_en": "Yes, this is the person you asked for.",
+   "def_vi": "Vâng, chính tôi đây.",
+   "gloss_vi": "tôi nghe đây",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Speaking</i> (phrase) = tôi nghe đây. <b>Grammar</b>: trả lời ngắn khi người gọi hỏi tên mình.",
+   "example": {
+    "en": "Mrs Gordon? – <b>Speaking</b>.",
+    "vi": "Bà Gordon phải không? – <b>Tôi nghe đây</b>."
+   }
+  },
+  {
+   "word": "ring",
+   "sense": "phone",
+   "pos": "verb",
+   "ipa": "/rɪŋ/",
+   "def_en": "To phone someone.",
+   "def_vi": "Gọi điện cho ai.",
+   "gloss_vi": "gọi điện",
+   "synonyms": "phone <i>(v. gọi điện)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ring</i> (verb) = gọi điện. <b>Grammar</b>: <i>ring – rang – rung</i>; Anh–Anh.",
+   "example": {
+    "en": "I tried to <b>ring</b> you this morning.",
+    "vi": "Sáng nay tôi đã cố <b>gọi</b> cho bạn."
+   }
+  },
+  {
+   "word": "on the phone",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɒn ðə ˈfəʊn/",
+   "def_en": "Using the phone.",
+   "def_vi": "Đang dùng điện thoại.",
+   "gloss_vi": "đang nghe điện thoại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>On the phone</i> (phrase) = đang nghe điện thoại. <b>Grammar</b>: <i>on the phone to sb</i>.",
+   "example": {
+    "en": "I think you were <b>on the phone</b> to your mother.",
+    "vi": "Tôi nghĩ bạn đang <b>nói điện thoại</b> với mẹ."
+   }
+  },
+  {
+   "word": "dial the wrong number",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌdaɪəl ðə rɒŋ ˈnʌmbə(r)/",
+   "def_en": "To make a phone call to the wrong number.",
+   "def_vi": "Gọi nhầm số.",
+   "gloss_vi": "bấm nhầm số",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dial the wrong number</i> (verb phrase) = bấm nhầm số. <b>Grammar</b>: <i>dial – dialled</i> (Anh–Anh).",
+   "example": {
+    "en": "I think I <b>dialled the wrong number</b> this morning.",
+    "vi": "Tôi nghĩ sáng nay tôi đã <b>bấm nhầm số</b>."
+   }
+  },
+  {
+   "word": "leave a message",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌliːv ə ˈmesɪdʒ/",
+   "def_en": "To record or write a message for someone.",
+   "def_vi": "Ghi lại lời nhắn cho ai.",
+   "gloss_vi": "để lại lời nhắn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Leave a message</i> (verb phrase) = để lại lời nhắn. <b>Grammar</b>: <i>leave – left – left</i>.",
+   "example": {
+    "en": "I <b>left a message</b> on Dan’s answerphone.",
+    "vi": "Tôi đã <b>để lại lời nhắn</b> trên máy trả lời tự động của Dan."
+   }
+  },
+  {
+   "word": "answerphone",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɑːnsəfəʊn/",
+   "def_en": "A machine that records phone messages.",
+   "def_vi": "Máy ghi lại lời nhắn điện thoại.",
+   "gloss_vi": "máy trả lời tự động",
+   "synonyms": "voicemail <i>(n. hộp thư thoại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Answerphone</i> (noun) = máy trả lời tự động. <b>Grammar</b>: Anh–Anh.",
+   "example": {
+    "en": "I left a message on Dan’s <b>answerphone</b>.",
+    "vi": "Tôi để lại lời nhắn trên <b>máy trả lời tự động</b> của Dan."
+   }
+  },
+  {
+   "word": "out",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/aʊt/",
+   "def_en": "Not at home.",
+   "def_vi": "Không ở nhà.",
+   "gloss_vi": "đi vắng",
+   "synonyms": "not in <i>(phr. không có nhà)</i>",
+   "antonyms": "in <i>(adj. có nhà)</i>",
+   "grammar_vi": "<i>Out</i> (adjective) = đi vắng. <b>Grammar</b>: <i>be out / not in</i>.",
+   "example": {
+    "en": "Dan was <b>out</b>.",
+    "vi": "Vì anh ấy <b>đi vắng</b>."
+   }
+  },
+  {
+   "word": "phone back",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌfəʊn ˈbæk/",
+   "def_en": "To return someone’s phone call.",
+   "def_vi": "Gọi lại cho ai.",
+   "gloss_vi": "gọi lại",
+   "synonyms": "call back <i>(pv. gọi lại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Phone back</i> (phrasal verb) = gọi lại. <b>Grammar</b>: tách được: <i>phone sb back</i>.",
+   "example": {
+    "en": "He never <b>phoned</b> me <b>back</b>.",
+    "vi": "Nhưng anh ấy chưa bao giờ <b>gọi lại</b> cho tôi."
+   }
+  },
+  {
+   "word": "give sb a ring",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡɪv ˈsʌmbədi ə ˈrɪŋ/",
+   "def_en": "To phone someone.",
+   "def_vi": "Gọi điện cho ai.",
+   "gloss_vi": "gọi cho ai",
+   "synonyms": "call <i>(v. gọi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Give sb a ring</i> (verb phrase) = gọi cho ai. <b>Grammar</b>: thân mật, Anh–Anh.",
+   "example": {
+    "en": "I <b>gave her a ring</b> this morning.",
+    "vi": "Sáng nay tôi đã <b>gọi cho cô ấy</b>."
+   }
+  },
+  {
+   "word": "get through",
+   "sense": "phone",
+   "pos": "phrasal verb",
+   "ipa": "/ˌɡet ˈθruː/",
+   "def_en": "To make contact with someone on the phone.",
+   "def_vi": "Liên lạc được với ai qua điện thoại.",
+   "gloss_vi": "gọi được, liên lạc được",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get through</i> (phrasal verb) = gọi được, liên lạc được. <b>Grammar</b>: <i>get through (to sb)</i>.",
+   "example": {
+    "en": "But I couldn’t <b>get through</b>.",
+    "vi": "Nhưng tôi không <b>gọi được</b>."
+   }
+  },
+  {
+   "word": "engaged",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪnˈɡeɪdʒd/",
+   "def_en": "(Of a phone line) being used.",
+   "def_vi": "(Đường dây) đang được dùng.",
+   "gloss_vi": "(máy) bận",
+   "synonyms": "busy <i>(adj. bận (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Engaged</i> (adjective) = (máy) bận. <b>Grammar</b>: Anh–Anh. <b>Common mistakes</b>: cũng = đã đính hôn.",
+   "example": {
+    "en": "The line was <b>engaged</b>.",
+    "vi": "Đường dây <b>bận</b>."
+   }
+  },
+  {
+   "word": "landline",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlændlaɪn/",
+   "def_en": "A home phone that is not a mobile.",
+   "def_vi": "Điện thoại bàn ở nhà.",
+   "gloss_vi": "điện thoại bàn",
+   "synonyms": "home phone <i>(np. điện thoại nhà)</i>",
+   "antonyms": "mobile <i>(n. di động)</i>",
+   "grammar_vi": "<i>Landline</i> (noun) = điện thoại bàn. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "What’s your <b>landline</b> number?",
+    "vi": "Số <b>điện thoại bàn</b> của bạn là gì?"
+   }
+  },
+  {
+   "word": "mobile number",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈməʊbaɪl ˌnʌmbə(r)/",
+   "def_en": "The number of your mobile phone.",
+   "def_vi": "Số điện thoại di động.",
+   "gloss_vi": "số di động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mobile number</i> (noun phrase) = số di động. <b>Grammar</b>: Mỹ <i>cell phone number</i>.",
+   "example": {
+    "en": "What’s your <b>mobile number</b>?",
+    "vi": "<b>Số di động</b> của bạn là gì?"
+   }
+  },
+  {
+   "word": "emergency number",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ɪˈmɜːdʒənsi ˌnʌmbə(r)/",
+   "def_en": "The number to call the police, fire or ambulance.",
+   "def_vi": "Số gọi cảnh sát, cứu hỏa hay cấp cứu.",
+   "gloss_vi": "số khẩn cấp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Emergency number</i> (noun phrase) = số khẩn cấp. <b>Grammar</b>: ở Anh là 999.",
+   "example": {
+    "en": "What’s the <b>emergency number</b> for the police, fire or ambulance?",
+    "vi": "<b>Số khẩn cấp</b> gọi cảnh sát, cứu hỏa hay cấp cứu là gì?"
+   }
+  },
+  {
+   "word": "dialling code",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈdaɪəlɪŋ kəʊd/",
+   "def_en": "The numbers you dial before a phone number for an area or country.",
+   "def_vi": "Số bấm trước số điện thoại cho vùng hay nước.",
+   "gloss_vi": "mã vùng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dialling code</i> (noun phrase) = mã vùng. <b>Grammar</b>: Mỹ <i>area code</i>.",
+   "example": {
+    "en": "What’s the <b>dialling code</b> for the UK when you are phoning from Hungary?",
+    "vi": "<b>Mã vùng</b> của Anh khi gọi từ Hungary là gì?"
+   }
+  },
+  {
+   "word": "mainly",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈmeɪnli/",
+   "def_en": "Most of the time.",
+   "def_vi": "Phần lớn thời gian.",
+   "gloss_vi": "chủ yếu",
+   "synonyms": "mostly <i>(adv. phần lớn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mainly</i> (adverb) = chủ yếu. <b>Grammar</b>: đứng trước từ được bổ nghĩa.",
+   "example": {
+    "en": "Many people use their mobile mostly/<b>mainly</b> for texting.",
+    "vi": "Nhiều người dùng điện thoại <b>chủ yếu</b> để nhắn tin."
+   }
+  },
+  {
+   "word": "text",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/tekst/",
+   "def_en": "To send a short written message from one phone to another.",
+   "def_vi": "Gửi tin nhắn ngắn giữa các điện thoại.",
+   "gloss_vi": "nhắn tin",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Text</i> (verb) = nhắn tin. <b>Grammar</b>: <i>text sb</i>; <i>texting</i> (n.).",
+   "example": {
+    "en": "Do you <b>text</b> your friends and family all the time?",
+    "vi": "Bạn có <b>nhắn tin</b> cho bạn bè và gia đình suốt không?"
+   }
+  },
+  {
+   "word": "abbreviation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˌbriːviˈeɪʃn/",
+   "def_en": "Letters which represent words.",
+   "def_vi": "Chữ cái đại diện cho từ.",
+   "gloss_vi": "chữ viết tắt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Abbreviation</i> (noun) = chữ viết tắt. <b>Grammar</b>: <i>an abbreviation of/for sth</i>.",
+   "example": {
+    "en": "These are common text <b>abbreviations</b>.",
+    "vi": "Đây là các <b>chữ viết tắt</b> thường gặp khi nhắn tin."
+   }
+  },
+  {
+   "word": "in my opinion",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪn maɪ əˈpɪnjən/",
+   "def_en": "This is what I think.",
+   "def_vi": "Đây là điều tôi nghĩ.",
+   "gloss_vi": "theo ý tôi",
+   "synonyms": "I think <i>(phr. tôi nghĩ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In my opinion</i> (phrase) = theo ý tôi. <b>Grammar</b>: không nói <i>according to me</i>.",
+   "example": {
+    "en": "IMO = <b>in my opinion</b>",
+    "vi": "IMO = <b>theo ý tôi</b>."
+   }
+  }
+ ]
+}

@@ -1,0 +1,428 @@
+{
+ "book": "pre",
+ "unit": 51,
+ "title_vi": "Kỳ nghỉ ở biển",
+ "theory_html": "<p><b>A. The beach</b><br><i>A. Bãi biển</i></p> <p>Labels: <b>sand, cliff, waves, rocks, beach</b>. People <b>spend</b> their holiday at the <b>coast</b> in <b>seaside resorts</b>; <b>sandy</b> beaches; a <b>stroll</b> along the <b>shore</b> in the <b>sunshine</b>; a <b>breeze</b>.</p><p><i><b>cát, vách đá, sóng, đá, bãi biển; bờ biển, khu nghỉ dưỡng ven biển, có cát, đi dạo, bờ, ánh nắng, gió nhẹ</b>.</i></p> <p><b>B. Beach activities</b><br><i>B. Hoạt động bãi biển</i></p> <p><b>volleyball, surfing, windsurfing, diving</b>; if the sea is <b>calm</b> (opp <b>rough</b>) <b>go for a swim</b>; <b>sunbathe</b> and get a <b>(sun)tan</b>; without <b>protection</b> you can get <b>sunburn</b> and be <b>at risk of</b> skin cancer; <b>sunscreen</b> (<b>sunblock, sun cream</b>); sit in the <b>shade</b>. <b>go for a walk / a drive / a swim / a coffee / a drink</b>.</p><p><i><b>bóng chuyền, lướt sóng, lướt ván buồm, lặn; lặng/động, đi bơi, tắm nắng, da rám nắng, bảo vệ, cháy nắng, có nguy cơ, kem chống nắng, bóng râm</b>.</i></p>",
+ "items": [
+  {
+   "word": "sand",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/sænd/",
+   "def_en": "Very small grains of rock on a beach.",
+   "def_vi": "Hạt đá rất nhỏ trên bãi biển.",
+   "gloss_vi": "cát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sand</i> (noun) = cát. <b>Grammar</b>: không đếm được. <b>Word family</b>: <i>sandy</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "The children played in the <b>sand</b>.",
+    "vi": "Bọn trẻ chơi trên <b>cát</b>."
+   }
+  },
+  {
+   "word": "cliff",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/klɪf/",
+   "def_en": "A high area of rock with a very steep side, often by the sea.",
+   "def_vi": "Khối đá cao, sườn rất dốc, thường cạnh biển.",
+   "gloss_vi": "vách đá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cliff</i> (noun) = vách đá. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "There are beautiful white <b>cliffs</b> along the coast.",
+    "vi": "Có những <b>vách đá</b> trắng tuyệt đẹp dọc bờ biển."
+   }
+  },
+  {
+   "word": "wave",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/weɪv/",
+   "def_en": "A line of raised water moving across the sea.",
+   "def_vi": "Đường nước dâng chuyển động trên biển.",
+   "gloss_vi": "sóng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wave</i> (noun) = sóng. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>waves</b> are very big today.",
+    "vi": "Hôm nay <b>sóng</b> rất lớn."
+   }
+  },
+  {
+   "word": "rock",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɒk/",
+   "def_en": "A large piece of stone.",
+   "def_vi": "Tảng đá lớn.",
+   "gloss_vi": "tảng đá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rock</i> (noun) = tảng đá. <b>Grammar</b>: đếm được và không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "We sat on the <b>rocks</b> and looked at the sea.",
+    "vi": "Chúng tôi ngồi trên <b>tảng đá</b> ngắm biển."
+   }
+  },
+  {
+   "word": "coast",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəʊst/",
+   "def_en": "The land close to the sea.",
+   "def_vi": "Vùng đất gần biển.",
+   "gloss_vi": "bờ biển, vùng ven biển",
+   "synonyms": "seaside <i>(n. bờ biển)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Coast</i> (noun) = bờ biển, vùng ven biển. <b>Grammar</b>: <i>on/at the coast</i>.",
+   "example": {
+    "en": "Many people spend their holiday at the <b>coast</b>.",
+    "vi": "Nhiều người nghỉ lễ ở <b>vùng ven biển</b>."
+   }
+  },
+  {
+   "word": "seaside resort",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈsiːsaɪd rɪˌzɔːt/",
+   "def_en": "A town by the sea for tourists.",
+   "def_vi": "Thị trấn ven biển cho du khách.",
+   "gloss_vi": "khu nghỉ dưỡng ven biển",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Seaside resort</i> (noun phrase) = khu nghỉ dưỡng ven biển. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "There are a lot of <b>seaside resorts</b>.",
+    "vi": "Có nhiều <b>khu nghỉ dưỡng ven biển</b>."
+   }
+  },
+  {
+   "word": "sandy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsændi/",
+   "def_en": "With lots of sand.",
+   "def_vi": "Có nhiều cát.",
+   "gloss_vi": "nhiều cát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "rocky <i>(adj. nhiều đá)</i>",
+   "grammar_vi": "<i>Sandy</i> (adjective) = nhiều cát. <b>Grammar</b>: <i>sand</i> + <i>-y</i>.",
+   "example": {
+    "en": "Generally people prefer beaches that are <b>sandy</b>.",
+    "vi": "Mọi người thường thích bãi biển <b>nhiều cát</b>."
+   }
+  },
+  {
+   "word": "stroll",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/strəʊl/",
+   "def_en": "A casual walk.",
+   "def_vi": "Cuộc đi bộ thong thả.",
+   "gloss_vi": "cuộc đi dạo",
+   "synonyms": "walk <i>(n. cuộc đi bộ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stroll</i> (noun) = cuộc đi dạo. <b>Grammar</b>: <i>go for / take a stroll</i>; cũng là động từ.",
+   "example": {
+    "en": "You can go for a <b>stroll</b> along the shore in the sunshine.",
+    "vi": "Bạn có thể <b>đi dạo</b> dọc bờ biển trong nắng."
+   }
+  },
+  {
+   "word": "shore",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ʃɔː(r)/",
+   "def_en": "The place where the sea meets the land.",
+   "def_vi": "Nơi biển gặp đất liền.",
+   "gloss_vi": "bờ (biển, hồ)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shore</i> (noun) = bờ (biển, hồ). <b>Grammar</b>: <i>on the shore</i>.",
+   "example": {
+    "en": "You can go for a stroll along the <b>shore</b> in the sunshine.",
+    "vi": "Bạn có thể đi dạo dọc <b>bờ biển</b> trong nắng."
+   }
+  },
+  {
+   "word": "sunshine",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsʌnʃaɪn/",
+   "def_en": "When it is sunny.",
+   "def_vi": "Lúc trời nắng.",
+   "gloss_vi": "ánh nắng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sunshine</i> (noun) = ánh nắng. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "You can go for a stroll along the shore in the <b>sunshine</b>.",
+    "vi": "Bạn có thể đi dạo dọc bờ biển trong <b>ánh nắng</b>."
+   }
+  },
+  {
+   "word": "breeze",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/briːz/",
+   "def_en": "A nice gentle wind.",
+   "def_vi": "Cơn gió nhẹ dễ chịu.",
+   "gloss_vi": "gió nhẹ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Breeze</i> (noun) = gió nhẹ. <b>Grammar</b>: <i>a cool/light breeze</i>.",
+   "example": {
+    "en": "On the beach, you also sometimes get a <b>breeze</b> that blows off the sea.",
+    "vi": "Trên bãi biển đôi khi có <b>gió nhẹ</b> thổi từ biển vào."
+   }
+  },
+  {
+   "word": "volleyball",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈvɒlibɔːl/",
+   "def_en": "A game where two teams hit a ball over a high net.",
+   "def_vi": "Môn hai đội đánh bóng qua lưới cao.",
+   "gloss_vi": "bóng chuyền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Volleyball</i> (noun) = bóng chuyền. <b>Grammar</b>: <i>play volleyball</i>.",
+   "example": {
+    "en": "<b>Volleyball</b> is a popular beach game.",
+    "vi": "<b>Bóng chuyền</b> là trò chơi bãi biển phổ biến."
+   }
+  },
+  {
+   "word": "surfing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɜːfɪŋ/",
+   "def_en": "The sport of riding on waves on a board.",
+   "def_vi": "Môn lướt trên sóng bằng ván.",
+   "gloss_vi": "lướt sóng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Surfing</i> (noun) = lướt sóng. <b>Grammar</b>: <i>go surfing</i>.",
+   "example": {
+    "en": "Some people enjoy water sports such as <b>surfing</b>.",
+    "vi": "Một số người thích thể thao dưới nước như <b>lướt sóng</b>."
+   }
+  },
+  {
+   "word": "windsurfing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɪndsɜːfɪŋ/",
+   "def_en": "The sport of sailing on water standing on a board with a sail.",
+   "def_vi": "Môn lướt trên nước đứng trên ván có buồm.",
+   "gloss_vi": "lướt ván buồm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Windsurfing</i> (noun) = lướt ván buồm. <b>Grammar</b>: <i>go windsurfing</i>.",
+   "example": {
+    "en": "Some people enjoy water sports such as surfing, <b>windsurfing</b> or diving.",
+    "vi": "Một số người thích lướt sóng, <b>lướt ván buồm</b> hay lặn."
+   }
+  },
+  {
+   "word": "diving",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdaɪvɪŋ/",
+   "def_en": "The sport of swimming under water.",
+   "def_vi": "Môn bơi dưới nước.",
+   "gloss_vi": "lặn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Diving</i> (noun) = lặn. <b>Grammar</b>: <i>go diving</i>.",
+   "example": {
+    "en": "Some people enjoy water sports such as surfing, windsurfing or <b>diving</b>.",
+    "vi": "Một số người thích lướt sóng, lướt ván buồm hay <b>lặn</b>."
+   }
+  },
+  {
+   "word": "calm",
+   "sense": "sea",
+   "pos": "adjective",
+   "ipa": "/kɑːm/",
+   "def_en": "(Of the sea) without waves.",
+   "def_vi": "(Biển) không có sóng.",
+   "gloss_vi": "lặng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "rough <i>(adj. động)</i>",
+   "grammar_vi": "<i>Calm</i> (adjective) = lặng. <b>Grammar</b>: <i>a calm sea</i>.",
+   "example": {
+    "en": "If the sea is <b>calm</b>, you can go for a swim.",
+    "vi": "Nếu biển <b>lặng</b>, bạn có thể đi bơi."
+   }
+  },
+  {
+   "word": "go for a swim",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ fər ə ˈswɪm/",
+   "def_en": "To swim for pleasure.",
+   "def_vi": "Bơi để thư giãn.",
+   "gloss_vi": "đi bơi",
+   "synonyms": "have a swim <i>(vp. bơi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go for a swim</i> (verb phrase) = đi bơi. <b>Grammar</b>: <i>go for a walk/drive/swim/coffee/drink</i>.",
+   "example": {
+    "en": "If the sea is calm, you can <b>go for a swim</b>.",
+    "vi": "Nếu biển lặng, bạn có thể <b>đi bơi</b>."
+   }
+  },
+  {
+   "word": "sunbathe",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈsʌnbeɪð/",
+   "def_en": "To lie in the sun to get brown.",
+   "def_vi": "Nằm phơi nắng cho da sạm.",
+   "gloss_vi": "tắm nắng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sunbathe</i> (verb) = tắm nắng. <b>Grammar</b>: <i>sunbathing</i> (n.).",
+   "example": {
+    "en": "A lot of people just want to lie on the beach and <b>sunbathe</b>.",
+    "vi": "Nhiều người chỉ muốn nằm trên bãi biển <b>tắm nắng</b>."
+   }
+  },
+  {
+   "word": "suntan",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsʌntæn/",
+   "def_en": "When the skin becomes brown from the sun.",
+   "def_vi": "Khi da chuyển nâu vì nắng.",
+   "gloss_vi": "da rám nắng",
+   "synonyms": "tan <i>(n. rám nắng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Suntan</i> (noun) = da rám nắng. <b>Grammar</b>: <i>get a (sun)tan</i>.",
+   "example": {
+    "en": "They want to get a nice (sun)<b>tan</b>.",
+    "vi": "Họ muốn có làn <b>da rám nắng</b> đẹp."
+   }
+  },
+  {
+   "word": "protection",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/prəˈtekʃn/",
+   "def_en": "Something to keep someone safe.",
+   "def_vi": "Thứ giữ ai an toàn.",
+   "gloss_vi": "sự bảo vệ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Protection</i> (noun) = sự bảo vệ. <b>Grammar</b>: <i>protection from/against sth</i>. <b>Word family</b>: <i>protect</i> (v.).",
+   "example": {
+    "en": "People who lie in the sun without any <b>protection</b> can get sunburn.",
+    "vi": "Người nằm nắng mà không có <b>bảo vệ</b> có thể bị cháy nắng."
+   }
+  },
+  {
+   "word": "sunburn",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsʌnbɜːn/",
+   "def_en": "When the skin becomes red and very sore from the sun.",
+   "def_vi": "Da đỏ và rát do nắng.",
+   "gloss_vi": "cháy nắng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sunburn</i> (noun) = cháy nắng. <b>Grammar</b>: không đếm được. <b>Word family</b>: <i>sunburnt</i> (adj.).",
+   "example": {
+    "en": "People who lie in the sun without any protection can get <b>sunburn</b>.",
+    "vi": "Người nằm nắng không bảo vệ có thể bị <b>cháy nắng</b>."
+   }
+  },
+  {
+   "word": "at risk of",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ət ˈrɪsk əv/",
+   "def_en": "In danger that something bad may happen.",
+   "def_vi": "Có nguy cơ điều xấu xảy ra.",
+   "gloss_vi": "có nguy cơ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>At risk of</i> (phrase) = có nguy cơ. <b>Grammar</b>: <i>at risk of</i> + V-ing / danh từ.",
+   "example": {
+    "en": "They are <b>at risk of</b> getting skin cancer.",
+    "vi": "Họ <b>có nguy cơ</b> bị ung thư da."
+   }
+  },
+  {
+   "word": "sunscreen",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsʌnskriːn/",
+   "def_en": "Cream that gives protection from the sun.",
+   "def_vi": "Kem bảo vệ khỏi ánh nắng.",
+   "gloss_vi": "kem chống nắng",
+   "synonyms": "sun cream <i>(np. kem chống nắng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sunscreen</i> (noun) = kem chống nắng. <b>Grammar</b>: không đếm được; cũng <i>sunblock</i>.",
+   "example": {
+    "en": "Doctors now recommend that people do not sit in the sun without using <b>sunscreen</b>.",
+    "vi": "Bác sĩ khuyên không nên ngồi ngoài nắng mà không dùng <b>kem chống nắng</b>."
+   }
+  },
+  {
+   "word": "shade",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ʃeɪd/",
+   "def_en": "An area where there is no light from the sun.",
+   "def_vi": "Vùng không có ánh nắng.",
+   "gloss_vi": "bóng râm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shade</i> (noun) = bóng râm. <b>Grammar</b>: <i>in the shade</i> ≠ <i>shadow</i> (cái bóng).",
+   "example": {
+    "en": "It may be safer just to sit in the <b>shade</b>.",
+    "vi": "Có lẽ an toàn hơn nếu chỉ ngồi trong <b>bóng râm</b>."
+   }
+  },
+  {
+   "word": "go for a drive",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ fər ə ˈdraɪv/",
+   "def_en": "To make a journey in a car for pleasure.",
+   "def_vi": "Lái xe đi chơi.",
+   "gloss_vi": "đi dạo bằng xe",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go for a drive</i> (verb phrase) = đi dạo bằng xe. <b>Grammar</b>: <i>go for a drive</i>.",
+   "example": {
+    "en": "We <b>went for a drive</b> along the coast.",
+    "vi": "Chúng tôi <b>đi dạo bằng xe</b> dọc bờ biển."
+   }
+  },
+  {
+   "word": "go for a drink",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ fər ə ˈdrɪŋk/",
+   "def_en": "To go to a bar or pub to have a drink.",
+   "def_vi": "Đi quán uống chút gì.",
+   "gloss_vi": "đi uống",
+   "synonyms": "have a drink <i>(vp. uống)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go for a drink</i> (verb phrase) = đi uống. <b>Grammar</b>: <i>drink</i> thường là đồ có cồn.",
+   "example": {
+    "en": "Let’s <b>go for a drink</b> tonight.",
+    "vi": "Tối nay <b>đi uống</b> nhé."
+   }
+  }
+ ]
+}
