@@ -1,0 +1,200 @@
+{
+ "book": "pre",
+ "unit": 3,
+ "title_vi": "Dùng từ điển",
+ "theory_html": "<p><b>A. What dictionaries do I need?</b><br><i>A. Cần loại từ điển nào?</i></p> <p>A <b>bilingual</b> dictionary (two languages) is quick and easy; an English dictionary gives reading practice and more examples. Use both if possible.</p><p><i>Từ điển <b>song ngữ</b> nhanh và dễ; từ điển tiếng Anh giúp luyện đọc và có nhiều ví dụ. Nên dùng cả hai.</i></p> <p><b>B. Information in dictionaries</b><br><i>B. Thông tin trong từ điển</i></p> <p>When you <b>look up a word</b>, you see pronunciation in <b>phonemic symbols</b>, the <b>part of speech</b>, a <b>definition</b>, common word partners in <b>bold</b>, fixed <b>phrases</b> and examples.</p><p><i>Khi <b>tra từ</b>, bạn thấy phiên âm bằng <b>ký hiệu ngữ âm</b>, <b>từ loại</b>, <b>định nghĩa</b>, cụm từ cố định và ví dụ.</i></p> <p><b>C. Defining words</b><br><i>C. Từ dùng để định nghĩa</i></p> <p>Dictionaries <b>define</b> words with common words such as <b>emphasise, relating to / connected to (with), amount, official, behave</b>.</p><p><i>Từ điển <b>định nghĩa</b> bằng các từ thông dụng như <b>nhấn mạnh, liên quan đến, lượng, chính thức, cư xử</b>.</i></p>",
+ "items": [
+  {
+   "word": "bilingual",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/baɪˈlɪŋɡwəl/",
+   "def_en": "Using two languages.",
+   "def_vi": "Dùng hai ngôn ngữ.",
+   "gloss_vi": "song ngữ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "monolingual <i>(adj. đơn ngữ)</i>",
+   "grammar_vi": "<i>Bilingual</i> (adjective) = song ngữ. <b>Grammar</b>: <i>a bilingual dictionary</i>. <b>Word family</b>: <i>bi-</i> = hai.",
+   "example": {
+    "en": "A <b>bilingual</b> dictionary is easy for you to understand, and quick and easy to use.",
+    "vi": "Từ điển <b>song ngữ</b> dễ hiểu, nhanh và dễ dùng."
+   }
+  },
+  {
+   "word": "look up a word",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌlʊk ʌp ə ˈwɜːd/",
+   "def_en": "To find a word in a dictionary.",
+   "def_vi": "Tìm một từ trong từ điển.",
+   "gloss_vi": "tra từ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Look up a word</i> (verb phrase) = tra từ. <b>Grammar</b>: tách được: <i>look a word up / look it up</i>.",
+   "example": {
+    "en": "If you <b>look up a word</b> using the Cambridge Learner’s Dictionary, the information is shown like this: pronunciation using symbols a definition explains the meaning bold italics show common word partners",
+    "vi": "Nếu bạn <b>tra một từ</b> trong từ điển Cambridge Learner’s, thông tin được trình bày như sau."
+   }
+  },
+  {
+   "word": "phonemic symbols",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/fəˌniːmɪk ˈsɪmblz/",
+   "def_en": "Special signs that show how words are pronounced.",
+   "def_vi": "Ký hiệu đặc biệt thể hiện cách phát âm.",
+   "gloss_vi": "ký hiệu ngữ âm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Phonemic symbols</i> (noun phrase) = ký hiệu ngữ âm. <b>Grammar</b>: số nhiều; <i>symbol</i> /ˈsɪmbl/.",
+   "example": {
+    "en": "Dictionaries show the pronunciation of a word using <b>phonemic symbols</b>, e.g. book /bʊk/.",
+    "vi": "Từ điển thể hiện cách phát âm bằng <b>ký hiệu ngữ âm</b>, ví dụ book /bʊk/."
+   }
+  },
+  {
+   "word": "definition",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdefɪˈnɪʃn/",
+   "def_en": "An explanation of the meaning of a word.",
+   "def_vi": "Lời giải thích nghĩa của từ.",
+   "gloss_vi": "định nghĩa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Definition</i> (noun) = định nghĩa. <b>Grammar</b>: đếm được. <b>Word family</b>: <i>define</i> (v.).",
+   "example": {
+    "en": "a <b>definition</b> explains the meaning",
+    "vi": "<b>Định nghĩa</b> giải thích ý nghĩa."
+   }
+  },
+  {
+   "word": "part of speech",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌpɑːt əv ˈspiːtʃ/",
+   "def_en": "The type of word, such as noun or verb.",
+   "def_vi": "Loại từ, như danh từ hay động từ.",
+   "gloss_vi": "từ loại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Part of speech</i> (noun phrase) = từ loại. <b>Grammar</b>: số nhiều <i>parts of speech</i>.",
+   "example": {
+    "en": "<b>part of speech</b> (= noun)",
+    "vi": "<b>Từ loại</b> (= danh từ)."
+   }
+  },
+  {
+   "word": "phrases",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈfreɪzɪz/",
+   "def_en": "Groups of words that are used together.",
+   "def_vi": "Nhóm từ thường dùng chung.",
+   "gloss_vi": "cụm từ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Phrases</i> (plural noun) = cụm từ. <b>Grammar</b>: số ít <i>a phrase</i>.",
+   "example": {
+    "en": "fixed <b>phrases</b> using the word are shown in bold",
+    "vi": "Các <b>cụm từ</b> cố định có từ đó được in đậm."
+   }
+  },
+  {
+   "word": "define",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪˈfaɪn/",
+   "def_en": "To explain the meaning of a word.",
+   "def_vi": "Giải thích nghĩa của từ.",
+   "gloss_vi": "định nghĩa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Define</i> (verb) = định nghĩa. <b>Grammar</b>: <i>define sth as…</i>. <b>Word family</b>: <i>definition</i> (n.).",
+   "example": {
+    "en": "‘Defining words’ are words that dictionaries use when they <b>define</b> the words in the dictionary.",
+    "vi": "Từ định nghĩa là những từ từ điển dùng khi <b>định nghĩa</b> các từ."
+   }
+  },
+  {
+   "word": "emphasise",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈemfəsaɪz/",
+   "def_en": "To give something more attention and importance.",
+   "def_vi": "Dành nhiều chú ý và tầm quan trọng hơn cho điều gì.",
+   "gloss_vi": "nhấn mạnh",
+   "synonyms": "stress <i>(v. nhấn mạnh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Emphasise</i> (verb) = nhấn mạnh. <b>Grammar</b>: <i>emphasise sth</i> (không dùng <i>on</i>); Mỹ: <i>emphasize</i>. <b>Word family</b>: <i>emphasis</i> (n.).",
+   "example": {
+    "en": "My teacher has always <b>emphasised</b> the importance of writing down new words in a notebook.",
+    "vi": "Thầy tôi luôn <b>nhấn mạnh</b> tầm quan trọng của việc ghi từ mới vào sổ."
+   }
+  },
+  {
+   "word": "connected with",
+   "sense": "",
+   "pos": "adjective phrase",
+   "ipa": "/kəˈnektɪd wɪð/",
+   "def_en": "Having a relationship with someone or something.",
+   "def_vi": "Có liên quan với ai hay điều gì.",
+   "gloss_vi": "liên quan đến",
+   "synonyms": "related to <i>(ap. liên quan đến)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Connected with</i> (adjective phrase) = liên quan đến. <b>Grammar</b>: <i>connected to/with</i> + danh từ.",
+   "example": {
+    "en": "musical is <b>connected with</b> / related to music",
+    "vi": "Musical <b>liên quan đến</b> âm nhạc."
+   }
+  },
+  {
+   "word": "amount",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈmaʊnt/",
+   "def_en": "How much there is of something.",
+   "def_vi": "Lượng của thứ gì.",
+   "gloss_vi": "lượng, số lượng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Amount</i> (noun) = lượng, số lượng. <b>Grammar</b>: <i>an amount of</i> + danh từ không đếm được: <i>a large amount of money</i>.",
+   "example": {
+    "en": "£5 million is a large <b>amount</b> of money.",
+    "vi": "5 triệu bảng là một <b>khoản</b> tiền lớn."
+   }
+  },
+  {
+   "word": "official",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əˈfɪʃl/",
+   "def_en": "Done by the government or someone in authority.",
+   "def_vi": "Do chính phủ hay người có thẩm quyền làm.",
+   "gloss_vi": "chính thức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "unofficial <i>(adj. không chính thức)</i>",
+   "grammar_vi": "<i>Official</i> (adjective) = chính thức. <b>Grammar</b>: <i>an official document</i>. <b>Common mistakes</b>: cũng là danh từ (quan chức).",
+   "example": {
+    "en": "A passport is an <b>official</b> document.",
+    "vi": "Hộ chiếu là một giấy tờ <b>chính thức</b>."
+   }
+  },
+  {
+   "word": "behave",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/bɪˈheɪv/",
+   "def_en": "To do or say things in a particular way.",
+   "def_vi": "Làm hay nói theo một cách nào đó.",
+   "gloss_vi": "cư xử",
+   "synonyms": "act <i>(v. hành động)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Behave</i> (verb) = cư xử. <b>Grammar</b>: <i>behave</i> + trạng từ: <i>behave strangely/well</i>. <b>Word family</b>: <i>behaviour</i> (n.).",
+   "example": {
+    "en": "People can <b>behave</b> strangely when they’re nervous.",
+    "vi": "Người ta có thể <b>cư xử</b> kỳ lạ khi lo lắng."
+   }
+  }
+ ]
+}

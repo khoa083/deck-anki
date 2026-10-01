@@ -1,0 +1,328 @@
+{
+ "book": "pre",
+ "unit": 4,
+ "title_vi": "Từ ngữ về ngôn ngữ tiếng Anh",
+ "theory_html": "<p><b>A. Parts of speech</b><br><i>A. Từ loại</i></p> <p><b>pronoun, noun, verb, adjective, adverb, preposition, definite article</b> (the), <b>indefinite article</b> (a/an), <b>conjunction / link word</b>.</p><p><i><b>đại từ, danh từ, động từ, tính từ, trạng từ, giới từ, mạo từ xác định, mạo từ không xác định, liên từ / từ nối</b>.</i></p> <p><b>B. Grammar</b><br><i>B. Ngữ pháp</i></p> <p>Nouns are <b>countable</b> (books) or <b>uncountable</b> (information); verbs are <b>regular</b> (work) or <b>irregular</b> (go/went); learn <b>phrasal verbs</b> and <b>phrases</b> (at the moment, never mind).</p><p><i>Danh từ <b>đếm được</b> / <b>không đếm được</b>; động từ <b>có quy tắc</b> / <b>bất quy tắc</b>; học <b>cụm động từ</b> và <b>cụm từ</b>.</i></p> <p><b>C. Word building</b><br><i>C. Cấu tạo từ</i></p> <p>In <b>uncomfortable</b>, <b>un-</b> is a <b>prefix</b> and <b>-able</b> is a <b>suffix</b>.</p><p><i><b>un-</b> là <b>tiền tố</b>, <b>-able</b> là <b>hậu tố</b>.</i></p> <p><b>D. Pronunciation</b><br><i>D. Phát âm</i></p> <p><b>phonemic symbols</b>; words have <b>syllables</b>; you need to know which syllable to <b>stress</b> (be'fore, 'cinema).</p><p><i><b>ký hiệu ngữ âm</b>; từ có <b>âm tiết</b>; cần biết <b>nhấn</b> âm nào.</i></p> <p><b>E. Punctuation</b><br><i>E. Dấu câu</i></p> <p>A sentence begins with a <b>capital letter</b> and ends with a <b>full stop</b>; a <b>comma</b> often shows a <b>pause</b>; a question ends with a <b>question mark</b>.</p><p><i><b>chữ hoa, dấu chấm, dấu phẩy, chỗ ngắt, dấu hỏi</b>.</i></p>",
+ "items": [
+  {
+   "word": "pronoun",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈprəʊnaʊn/",
+   "def_en": "A word such as ‘I’, ‘you’ or ‘it’ used instead of a noun.",
+   "def_vi": "Từ như “I”, “you”, “it” dùng thay danh từ.",
+   "gloss_vi": "đại từ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pronoun</i> (noun) = đại từ. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "In the sentence above, I is a <b>pronoun</b>.",
+    "vi": "Trong câu trên, I là <b>đại từ</b>."
+   }
+  },
+  {
+   "word": "nouns",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/naʊnz/",
+   "def_en": "Words for people, things or places.",
+   "def_vi": "Từ chỉ người, vật, nơi chốn.",
+   "gloss_vi": "danh từ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nouns</i> (plural noun) = danh từ. <b>Grammar</b>: số ít <i>a noun</i>.",
+   "example": {
+    "en": "chair, window, morning and music are all <b>nouns</b>",
+    "vi": "Chair, window, morning và music đều là <b>danh từ</b>."
+   }
+  },
+  {
+   "word": "verbs",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/vɜːbz/",
+   "def_en": "Words for actions or states.",
+   "def_vi": "Từ chỉ hành động hay trạng thái.",
+   "gloss_vi": "động từ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Verbs</i> (plural noun) = động từ. <b>Grammar</b>: số ít <i>a verb</i>.",
+   "example": {
+    "en": "have, sit and listen are <b>verbs</b>",
+    "vi": "Have, sit và listen là <b>động từ</b>."
+   }
+  },
+  {
+   "word": "adjectives",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈædʒɪktɪvz/",
+   "def_en": "Words that describe nouns.",
+   "def_vi": "Từ miêu tả danh từ.",
+   "gloss_vi": "tính từ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Adjectives</i> (plural noun) = tính từ. <b>Grammar</b>: số ít <i>an adjective</i>.",
+   "example": {
+    "en": "brown and leather are <b>adjectives</b>",
+    "vi": "Brown và leather là <b>tính từ</b>."
+   }
+  },
+  {
+   "word": "adverb",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈædvɜːb/",
+   "def_en": "A word that describes a verb, adjective or another adverb.",
+   "def_vi": "Từ bổ nghĩa cho động từ, tính từ hay trạng từ khác.",
+   "gloss_vi": "trạng từ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Adverb</i> (noun) = trạng từ. <b>Grammar</b>: nhiều trạng từ tận cùng <i>-ly</i> (<i>quickly</i>).",
+   "example": {
+    "en": "often is an <b>adverb</b>",
+    "vi": "Often là <b>trạng từ</b>."
+   }
+  },
+  {
+   "word": "prepositions",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˌprepəˈzɪʃnz/",
+   "def_en": "Words such as ‘by’ or ‘to’ that show place, time or direction.",
+   "def_vi": "Từ như “by”, “to” chỉ nơi chốn, thời gian, hướng.",
+   "gloss_vi": "giới từ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Prepositions</i> (plural noun) = giới từ. <b>Grammar</b>: số ít <i>a preposition</i>.",
+   "example": {
+    "en": "by and to are <b>prepositions</b>",
+    "vi": "By và to là <b>giới từ</b>."
+   }
+  },
+  {
+   "word": "definite article",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌdefɪnət ˈɑːtɪkl/",
+   "def_en": "The word ‘the’.",
+   "def_vi": "Từ “the”.",
+   "gloss_vi": "mạo từ xác định",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "indefinite article <i>(np. mạo từ không xác định)</i>",
+   "grammar_vi": "<i>Definite article</i> (noun phrase) = mạo từ xác định. <b>Grammar</b>: chỉ có <i>the</i>.",
+   "example": {
+    "en": "the is a <b>definite article</b>",
+    "vi": "The là <b>mạo từ xác định</b>."
+   }
+  },
+  {
+   "word": "indefinite article",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ɪnˌdefɪnət ˈɑːtɪkl/",
+   "def_en": "The words ‘a’ and ‘an’.",
+   "def_vi": "Từ “a” và “an”.",
+   "gloss_vi": "mạo từ không xác định",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "definite article <i>(np. mạo từ xác định)</i>",
+   "grammar_vi": "<i>Indefinite article</i> (noun phrase) = mạo từ không xác định. <b>Grammar</b>: <i>a</i> trước phụ âm, <i>an</i> trước nguyên âm.",
+   "example": {
+    "en": "a is an <b>indefinite article</b>",
+    "vi": "A là <b>mạo từ không xác định</b>."
+   }
+  },
+  {
+   "word": "conjunction",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kənˈdʒʌŋkʃn/",
+   "def_en": "A word such as ‘and’ that joins parts of a sentence.",
+   "def_vi": "Từ như “and” nối các phần của câu.",
+   "gloss_vi": "liên từ",
+   "synonyms": "link word <i>(np. từ nối)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Conjunction</i> (noun) = liên từ. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "and is a <b>conjunction</b> or link word",
+    "vi": "And là <b>liên từ</b> hay từ nối."
+   }
+  },
+  {
+   "word": "regular",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈreɡjələ(r)/",
+   "def_en": "Following the usual rules of grammar.",
+   "def_vi": "Theo quy tắc ngữ pháp thông thường.",
+   "gloss_vi": "có quy tắc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "irregular <i>(adj. bất quy tắc)</i>",
+   "grammar_vi": "<i>Regular</i> (adjective) = có quy tắc. <b>Grammar</b>: động từ có quy tắc thêm <i>-ed</i>.",
+   "example": {
+    "en": "With verbs, you need to know if they are <b>regular</b>, e.g. work, live, etc; or irregular, e.g. go/went, take/took.",
+    "vi": "Với động từ, bạn cần biết chúng <b>có quy tắc</b>, ví dụ work, live, hay bất quy tắc."
+   }
+  },
+  {
+   "word": "irregular",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪˈreɡjələ(r)/",
+   "def_en": "Not following the usual rules of grammar.",
+   "def_vi": "Không theo quy tắc thông thường.",
+   "gloss_vi": "bất quy tắc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "regular <i>(adj. có quy tắc)</i>",
+   "grammar_vi": "<i>Irregular</i> (adjective) = bất quy tắc. <b>Grammar</b>: tiền tố <i>ir-</i> = không.",
+   "example": {
+    "en": "With verbs, you need to know if they are regular, e.g. work, live, etc; or <b>irregular</b>, e.g. go/went, take/took.",
+    "vi": "Động từ có quy tắc hoặc <b>bất quy tắc</b>, ví dụ go/went, take/took."
+   }
+  },
+  {
+   "word": "prefix",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpriːfɪks/",
+   "def_en": "Letters added to the start of a word.",
+   "def_vi": "Chữ cái thêm vào đầu từ.",
+   "gloss_vi": "tiền tố",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "suffix <i>(n. hậu tố)</i>",
+   "grammar_vi": "<i>Prefix</i> (noun) = tiền tố. <b>Grammar</b>: số nhiều <i>prefixes</i>.",
+   "example": {
+    "en": "In the word uncomfortable, un-is a <b>prefix</b>, and -able is a suffix.",
+    "vi": "Trong từ uncomfortable, un- là <b>tiền tố</b>, còn -able là hậu tố."
+   }
+  },
+  {
+   "word": "suffix",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsʌfɪks/",
+   "def_en": "Letters added to the end of a word.",
+   "def_vi": "Chữ cái thêm vào cuối từ.",
+   "gloss_vi": "hậu tố",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "prefix <i>(n. tiền tố)</i>",
+   "grammar_vi": "<i>Suffix</i> (noun) = hậu tố. <b>Grammar</b>: số nhiều <i>suffixes</i>.",
+   "example": {
+    "en": "In the word uncomfortable, un-is a prefix, and -able is a <b>suffix</b>.",
+    "vi": "Trong từ uncomfortable, un- là tiền tố, còn -able là <b>hậu tố</b>."
+   }
+  },
+  {
+   "word": "syllables",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈsɪləblz/",
+   "def_en": "Parts of a word, each with one vowel sound.",
+   "def_vi": "Phần của từ, mỗi phần có một nguyên âm.",
+   "gloss_vi": "âm tiết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Syllables</i> (plural noun) = âm tiết. <b>Grammar</b>: số ít <i>a syllable</i>.",
+   "example": {
+    "en": "Every word has one or more <b>syllables</b>, e.g. book has one syllable, before has two syllables, cinema has three syllables.",
+    "vi": "Mỗi từ có một hoặc nhiều <b>âm tiết</b>."
+   }
+  },
+  {
+   "word": "stress",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/stres/",
+   "def_en": "To say one part of a word more strongly.",
+   "def_vi": "Đọc mạnh một phần của từ.",
+   "gloss_vi": "nhấn (trọng âm)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stress</i> (verb) = nhấn (trọng âm). <b>Grammar</b>: <i>stress the first syllable</i>. <b>Word family</b>: <i>stress</i> (n. trọng âm).",
+   "example": {
+    "en": "It is important to know which syllable to <b>stress</b>, e.g. on before it is the second syllable (be'fore), on cinema it is the first syllable ('cinema).",
+    "vi": "Điều quan trọng là biết <b>nhấn</b> âm tiết nào."
+   }
+  },
+  {
+   "word": "capital letter",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌkæpɪtl ˈletə(r)/",
+   "def_en": "A large letter such as A, B or C.",
+   "def_vi": "Chữ hoa như A, B, C.",
+   "gloss_vi": "chữ viết hoa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "small letter <i>(np. chữ thường)</i>",
+   "grammar_vi": "<i>Capital letter</i> (noun phrase) = chữ viết hoa. <b>Grammar</b>: danh từ ghép.",
+   "example": {
+    "en": "Every sentence must begin with a <b>capital letter</b> and end with a full stop.",
+    "vi": "Mỗi câu phải bắt đầu bằng <b>chữ hoa</b> và kết thúc bằng dấu chấm."
+   }
+  },
+  {
+   "word": "full stop",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌfʊl ˈstɒp/",
+   "def_en": "The mark (.) at the end of a sentence.",
+   "def_vi": "Dấu (.) ở cuối câu.",
+   "gloss_vi": "dấu chấm",
+   "synonyms": "period <i>(n. dấu chấm (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Full stop</i> (noun phrase) = dấu chấm. <b>Grammar</b>: Anh–Anh.",
+   "example": {
+    "en": "Every sentence must begin with a capital letter and end with a <b>full stop</b>.",
+    "vi": "Mỗi câu phải bắt đầu bằng chữ hoa và kết thúc bằng <b>dấu chấm</b>."
+   }
+  },
+  {
+   "word": "comma",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɒmə/",
+   "def_en": "The mark (,) used to separate parts of a sentence.",
+   "def_vi": "Dấu (,) để tách các phần của câu.",
+   "gloss_vi": "dấu phẩy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Comma</i> (noun) = dấu phẩy. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Some sentences have a <b>comma</b>, which often shows a pause in a long sentence.",
+    "vi": "Một số câu có <b>dấu phẩy</b>, thường thể hiện chỗ ngắt."
+   }
+  },
+  {
+   "word": "pause",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pɔːz/",
+   "def_en": "A short stop when you are reading or speaking.",
+   "def_vi": "Lúc dừng ngắn khi đọc hay nói.",
+   "gloss_vi": "chỗ ngắt, quãng nghỉ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pause</i> (noun) = chỗ ngắt, quãng nghỉ. <b>Grammar</b>: đếm được; cũng là động từ. <b>Common mistakes</b>: đọc /pɔːz/.",
+   "example": {
+    "en": "Some sentences have a comma, which often shows a <b>pause</b> in a long sentence.",
+    "vi": "Dấu phẩy thường thể hiện <b>chỗ ngắt</b> trong câu dài."
+   }
+  },
+  {
+   "word": "question mark",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈkwestʃən mɑːk/",
+   "def_en": "The mark (?) at the end of a question.",
+   "def_vi": "Dấu (?) cuối câu hỏi.",
+   "gloss_vi": "dấu hỏi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Question mark</i> (noun phrase) = dấu hỏi. <b>Grammar</b>: danh từ ghép.",
+   "example": {
+    "en": "Did you also know that a question must end with a <b>question mark</b>?",
+    "vi": "Câu hỏi phải kết thúc bằng <b>dấu hỏi</b>."
+   }
+  }
+ ]
+}
