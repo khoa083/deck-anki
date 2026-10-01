@@ -1,0 +1,232 @@
+{
+ "book": "ele",
+ "unit": 58,
+ "title_vi": "Tiền tố",
+ "theory_html": "<p><b>Prefixes</b> come at the beginning of words and help you understand new words.</p><p><i><b>Tiền tố</b> đứng đầu từ, giúp đoán nghĩa từ mới.</i></p> <ul><li><b>ex-</b> (was but now isn’t): <b>ex-wife, ex-boyfriend</b> – <i>cũ</i></li><li><b>half-</b> (50%): <b>half-price, half-hour</b> – <i>nửa</i></li><li><b>in-, im-</b> (not): <b>informal, impossible</b> – <i>không</i></li><li><b>non-</b> (not): <b>non-smoking</b> – <i>không</i></li><li><b>pre-</b> (before): <b>pre-school, pre-heat</b> – <i>trước</i></li><li><b>re-</b> (again): <b>redo, rewrite</b> – <i>lại</i></li><li><b>un-</b> (not): <b>unhappy, unsafe</b> – <i>không</i></li></ul> <p>Tip: some words with prefixes have a hyphen (<b>a half-hour programme</b>), some don’t (<b>an impossible question</b>) – check a dictionary.</p><p><i>Mẹo: có từ có gạch nối, có từ không – tra từ điển.</i></p>",
+ "items": [
+  {
+   "word": "prefix",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpriːfɪks/",
+   "def_en": "Letters added to the beginning of a word to change its meaning.",
+   "def_vi": "Chữ cái thêm vào đầu từ để đổi nghĩa.",
+   "gloss_vi": "tiền tố",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "suffix <i>(n. hậu tố)</i>",
+   "grammar_vi": "<i>Prefix</i> (noun) = tiền tố. <b>Grammar</b>: số nhiều <i>prefixes</i>.",
+   "example": {
+    "en": "<b>Prefixes</b> come at the beginning of words.",
+    "vi": "<b>Tiền tố</b> đứng ở đầu từ."
+   }
+  },
+  {
+   "word": "ex-wife",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌeks ˈwaɪf/",
+   "def_en": "A woman who was someone’s wife but is now divorced.",
+   "def_vi": "Người phụ nữ từng là vợ nay đã ly hôn.",
+   "gloss_vi": "vợ cũ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ex-wife</i> (noun) = vợ cũ. <b>Grammar</b>: <i>ex-</i> + danh từ = “cũ”, có gạch nối.",
+   "example": {
+    "en": "An <b>ex-wife</b> is a woman who is now divorced.",
+    "vi": "<b>Vợ cũ</b> là người phụ nữ nay đã ly hôn."
+   }
+  },
+  {
+   "word": "ex-boyfriend",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌeks ˈbɔɪfrend/",
+   "def_en": "Someone who is no longer your boyfriend.",
+   "def_vi": "Người không còn là bạn trai của bạn.",
+   "gloss_vi": "bạn trai cũ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ex-boyfriend</i> (noun) = bạn trai cũ. <b>Grammar</b>: <i>ex-</i> + danh từ, có gạch nối.",
+   "example": {
+    "en": "ex (+ noun) was but now isn’t ex-wife, <b>ex-boyfriend</b> half (+ noun or adjective)",
+    "vi": "<b>Bạn trai cũ</b> là người không còn là bạn trai của bạn nữa."
+   }
+  },
+  {
+   "word": "half-price",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌhɑːf ˈpraɪs/",
+   "def_en": "Costing 50% of the normal price.",
+   "def_vi": "Giá bằng một nửa giá thường.",
+   "gloss_vi": "nửa giá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Half-price</i> (adjective) = nửa giá. <b>Grammar</b>: tính từ ghép có gạch nối. <b>Collocations / chunks</b>: <i>half-price tickets</i> (vé nửa giá).",
+   "example": {
+    "en": "Something that cost £10 yesterday and costs £5 today is <b>half-price</b>.",
+    "vi": "Thứ hôm qua giá 10 bảng, hôm nay giá 5 bảng là <b>nửa giá</b>."
+   }
+  },
+  {
+   "word": "half-hour",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌhɑːf ˈaʊə(r)/",
+   "def_en": "Lasting 30 minutes.",
+   "def_vi": "Kéo dài 30 phút.",
+   "gloss_vi": "nửa tiếng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Half-hour</i> (adjective) = nửa tiếng. <b>Grammar</b>: đứng trước danh từ: <i>a half-hour journey</i>.",
+   "example": {
+    "en": "A <b>half-hour</b> journey is a journey of 30 minutes.",
+    "vi": "Chuyến đi <b>nửa tiếng</b> là chuyến đi 30 phút."
+   }
+  },
+  {
+   "word": "informal",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪnˈfɔːml/",
+   "def_en": "Relaxed, not formal.",
+   "def_vi": "Thoải mái, không trang trọng.",
+   "gloss_vi": "thường ngày, không trang trọng",
+   "synonyms": "casual <i>(adj. thường ngày)</i>",
+   "antonyms": "formal <i>(adj. trang trọng)</i>",
+   "grammar_vi": "<i>Informal</i> (adjective) = thường ngày, không trang trọng. <b>Grammar</b>: tiền tố <i>in-</i> = không.",
+   "example": {
+    "en": "<b>Informal</b> clothes are clothes like jeans and trainers.",
+    "vi": "Quần áo <b>thường ngày</b> là những thứ như quần bò và giày thể thao."
+   }
+  },
+  {
+   "word": "impossible",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪmˈpɒsəbl/",
+   "def_en": "Not able to happen or be done.",
+   "def_vi": "Không thể xảy ra hoặc làm được.",
+   "gloss_vi": "không thể",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "possible <i>(adj. có thể)</i>",
+   "grammar_vi": "<i>Impossible</i> (adjective) = không thể. <b>Grammar</b>: <i>im-</i> trước <i>p, b, m</i>; <i>It’s impossible to do sth</i>.",
+   "example": {
+    "en": "It’s <b>impossible</b> to read with your eyes closed.",
+    "vi": "Nhắm mắt thì <b>không thể</b> đọc được."
+   }
+  },
+  {
+   "word": "non-smoking",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌnɒn ˈsməʊkɪŋ/",
+   "def_en": "Where people are not allowed to smoke.",
+   "def_vi": "Nơi không được hút thuốc.",
+   "gloss_vi": "cấm hút thuốc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "smoking <i>(adj. được hút thuốc)</i>",
+   "grammar_vi": "<i>Non-smoking</i> (adjective) = cấm hút thuốc. <b>Grammar</b>: <i>non-</i> + tính từ/danh từ, có gạch nối.",
+   "example": {
+    "en": "You must not smoke in a <b>non-smoking</b> restaurant.",
+    "vi": "Bạn không được hút thuốc trong nhà hàng <b>cấm hút thuốc</b>."
+   }
+  },
+  {
+   "word": "pre-school",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌpriː ˈskuːl/",
+   "def_en": "Too young to go to school.",
+   "def_vi": "Chưa đến tuổi đi học.",
+   "gloss_vi": "tuổi mẫu giáo, trước tuổi đi học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pre-school</i> (adjective) = tuổi mẫu giáo, trước tuổi đi học. <b>Grammar</b>: <i>pre-</i> = trước.",
+   "example": {
+    "en": "<b>Pre-school</b> children are too young to go to school.",
+    "vi": "Trẻ <b>trước tuổi đi học</b> còn quá nhỏ để đi học."
+   }
+  },
+  {
+   "word": "pre-heat",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌpriː ˈhiːt/",
+   "def_en": "To heat an oven before you cook something in it.",
+   "def_vi": "Làm nóng lò trước khi nấu.",
+   "gloss_vi": "làm nóng trước",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pre-heat</i> (verb) = làm nóng trước. <b>Grammar</b>: <i>pre-heat the oven</i>.",
+   "example": {
+    "en": "You nearly always need to <b>pre-heat</b> the oven before you cook something.",
+    "vi": "Hầu như bạn luôn cần <b>làm nóng</b> lò <b>trước</b> khi nấu."
+   }
+  },
+  {
+   "word": "redo",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌriːˈduː/",
+   "def_en": "To do something a second time.",
+   "def_vi": "Làm lại lần nữa.",
+   "gloss_vi": "làm lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Redo</i> (verb) = làm lại. <b>Grammar</b>: <i>re-</i> = lại; <i>redo / redid / redone</i>.",
+   "example": {
+    "en": "To <b>redo</b> something is to do it a second time.",
+    "vi": "<b>Làm lại</b> một việc là làm nó lần thứ hai."
+   }
+  },
+  {
+   "word": "rewrite",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌriːˈraɪt/",
+   "def_en": "To write something a second time.",
+   "def_vi": "Viết lại lần nữa.",
+   "gloss_vi": "viết lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rewrite</i> (verb) = viết lại. <b>Grammar</b>: <i>rewrite / rewrote / rewritten</i>.",
+   "example": {
+    "en": "to <b>rewrite</b> something is to write it a second time",
+    "vi": "<b>Viết lại</b> là viết lần thứ hai."
+   }
+  },
+  {
+   "word": "unhappy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ʌnˈhæpi/",
+   "def_en": "Sad; not happy.",
+   "def_vi": "Buồn, không vui.",
+   "gloss_vi": "không vui, buồn",
+   "synonyms": "sad <i>(adj. buồn)</i>",
+   "antonyms": "happy <i>(adj. vui)</i>",
+   "grammar_vi": "<i>Unhappy</i> (adjective) = không vui, buồn. <b>Grammar</b>: <i>un-</i> = không.",
+   "example": {
+    "en": "<b>Unhappy</b> means sad, the opposite of happy.",
+    "vi": "<b>Không vui</b> nghĩa là buồn, trái nghĩa với vui."
+   }
+  },
+  {
+   "word": "unsafe",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ʌnˈseɪf/",
+   "def_en": "Dangerous; not safe.",
+   "def_vi": "Nguy hiểm, không an toàn.",
+   "gloss_vi": "không an toàn",
+   "synonyms": "dangerous <i>(adj. nguy hiểm)</i>",
+   "antonyms": "safe <i>(adj. an toàn)</i>",
+   "grammar_vi": "<i>Unsafe</i> (adjective) = không an toàn. <b>Grammar</b>: <i>un-</i> + tính từ.",
+   "example": {
+    "en": "<b>Unsafe</b> means dangerous, the opposite of safe.",
+    "vi": "<b>Không an toàn</b> nghĩa là nguy hiểm, trái nghĩa với an toàn."
+   }
+  }
+ ]
+}

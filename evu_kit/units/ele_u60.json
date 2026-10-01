@@ -1,0 +1,184 @@
+{
+ "book": "ele",
+ "unit": 60,
+ "title_vi": "Những từ dễ nhầm lẫn",
+ "theory_html": "<p><b>A. Similar sounds</b><br><i>A. Âm giống nhau</i></p> <p><b>quite</b> /kwaɪt/ (fairly) vs <b>quiet</b> /ˈkwaɪət/ (silent); <b>lose</b> /luːz/ (can’t find) vs <b>loose</b> /luːs/ (not tight); <b>fell</b> (past of <b>fall</b>) vs <b>felt</b> (past of <b>feel</b>); <b>cook</b> (person) vs <b>cooker</b> (thing you cook on).</p><p><i><b>khá / yên tĩnh; mất / lỏng; ngã / cảm thấy; đầu bếp / bếp</b>.</i></p> <p><b>B. Similar or related meanings</b><br><i>B. Nghĩa gần nhau</i></p> <p><b>lend</b> (you give) vs <b>borrow</b> (you get): <b>Will you lend me your bicycle? Can I borrow your bicycle?</b>; <b>check</b> (look at) vs <b>control</b> (tell it what to do).</p><p><i><b>cho mượn / mượn; kiểm tra / điều khiển</b>.</i></p> <p><b>C. Other words often mixed up</b><br><i>C. Từ hay nhầm khác</i></p> <p><b>wait for</b> vs <b>hope</b> (really want) vs <b>expect</b> (it’s probable); <b>afternoon</b> (12 – 5/6 pm), <b>evening</b> (5/6 – 9/10 pm), <b>night</b> (after 9/10 pm).</p><p><i><b>chờ; mong; đoán chắc; chiều, tối, đêm</b>.</i></p>",
+ "items": [
+  {
+   "word": "quite",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/kwaɪt/",
+   "def_en": "Fairly; more than a little but not very.",
+   "def_vi": "Khá; hơn một chút nhưng không quá.",
+   "gloss_vi": "khá",
+   "synonyms": "fairly <i>(adv. khá)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Quite</i> (adverb) = khá. <b>Grammar</b>: đứng trước tính từ: <i>quite good</i>. <b>Common mistakes</b>: khác <i>quiet</i> /ˈkwaɪət/ (yên tĩnh).",
+   "example": {
+    "en": "This book is <b>quite</b> good.",
+    "vi": "Cuốn sách này <b>khá</b> hay."
+   }
+  },
+  {
+   "word": "loose",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/luːs/",
+   "def_en": "Not tight, because it is too big.",
+   "def_vi": "Không chật, vì quá rộng.",
+   "gloss_vi": "rộng, lỏng",
+   "synonyms": "baggy <i>(adj. rộng thùng thình)</i>",
+   "antonyms": "tight <i>(adj. chật)</i>",
+   "grammar_vi": "<i>Loose</i> (adjective) = rộng, lỏng. <b>Grammar</b>: đọc /luːs/. <b>Common mistakes</b>: khác <i>lose</i> /luːz/ (làm mất).",
+   "example": {
+    "en": "These trousers are very <b>loose</b>.",
+    "vi": "Chiếc quần này rất <b>rộng</b>."
+   }
+  },
+  {
+   "word": "fell",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/fel/",
+   "def_en": "The past tense of ‘fall’.",
+   "def_vi": "Quá khứ của “fall”.",
+   "gloss_vi": "đã ngã",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fell</i> (verb) = đã ngã. <b>Grammar</b>: <i>fall / fell / fallen</i>. <b>Common mistakes</b>: khác <i>felt</i> (quá khứ của <i>feel</i>).",
+   "example": {
+    "en": "Yesterday I <b>fell</b> and broke my arm.",
+    "vi": "Hôm qua tôi <b>ngã</b> và gãy tay."
+   }
+  },
+  {
+   "word": "felt",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/felt/",
+   "def_en": "The past tense of ‘feel’.",
+   "def_vi": "Quá khứ của “feel”.",
+   "gloss_vi": "đã cảm thấy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Felt</i> (verb) = đã cảm thấy. <b>Grammar</b>: <i>feel / felt / felt</i>. <b>Common mistakes</b>: khác <i>fell</i> (quá khứ của <i>fall</i>).",
+   "example": {
+    "en": "I <b>felt</b> ill yesterday, but I feel OK today.",
+    "vi": "Hôm qua tôi <b>thấy</b> mệt, nhưng hôm nay ổn rồi."
+   }
+  },
+  {
+   "word": "cook",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kʊk/",
+   "def_en": "A person who cooks.",
+   "def_vi": "Người nấu ăn.",
+   "gloss_vi": "đầu bếp, người nấu ăn",
+   "synonyms": "chef <i>(n. bếp trưởng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cook</i> (noun) = đầu bếp, người nấu ăn. <b>Grammar</b>: <i>cook</i> = người; <i>cooker</i> = cái bếp. <b>Common mistakes</b>: không nói <i>a good cooker</i> cho người.",
+   "example": {
+    "en": "He is a very good <b>cook</b>.",
+    "vi": "Anh ấy là một <b>đầu bếp</b> rất giỏi."
+   }
+  },
+  {
+   "word": "lend",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/lend/",
+   "def_en": "To give something to someone for a short time.",
+   "def_vi": "Đưa ai mượn thứ gì trong thời gian ngắn.",
+   "gloss_vi": "cho mượn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "borrow <i>(v. mượn)</i>",
+   "grammar_vi": "<i>Lend</i> (verb) = cho mượn. <b>Grammar</b>: <i>lend / lent / lent</i>; <i>lend sb sth</i> (cho ai mượn cái gì).",
+   "example": {
+    "en": "Will you <b>lend</b> me your bicycle?",
+    "vi": "Bạn <b>cho tôi mượn</b> xe đạp nhé?"
+   }
+  },
+  {
+   "word": "borrow",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈbɒrəʊ/",
+   "def_en": "To take something from someone for a short time.",
+   "def_vi": "Lấy thứ gì của ai dùng tạm.",
+   "gloss_vi": "mượn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "lend <i>(v. cho mượn)</i>",
+   "grammar_vi": "<i>Borrow</i> (verb) = mượn. <b>Grammar</b>: <i>borrow sth from sb</i>. <b>Common mistakes</b>: không nói <i>Can you borrow me…</i>.",
+   "example": {
+    "en": "Can I <b>borrow</b> your bicycle?",
+    "vi": "Tôi <b>mượn</b> xe đạp của bạn được không?"
+   }
+  },
+  {
+   "word": "control",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kənˈtrəʊl/",
+   "def_en": "To make a machine do what you want.",
+   "def_vi": "Khiến máy làm theo ý mình.",
+   "gloss_vi": "điều khiển",
+   "synonyms": "operate <i>(v. vận hành)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Control</i> (verb) = điều khiển. <b>Grammar</b>: quá khứ <i>controlled</i>. <b>Common mistakes</b>: không dùng <i>control</i> với nghĩa <i>check</i> (kiểm tra hộ chiếu).",
+   "example": {
+    "en": "We use the mouse to <b>control</b> the computer.",
+    "vi": "Chúng ta dùng chuột để <b>điều khiển</b> máy tính."
+   }
+  },
+  {
+   "word": "hope",
+   "sense": "want",
+   "pos": "verb",
+   "ipa": "/həʊp/",
+   "def_en": "To really want something to happen.",
+   "def_vi": "Rất muốn điều gì xảy ra.",
+   "gloss_vi": "hy vọng, mong",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hope</i> (verb) = hy vọng, mong. <b>Grammar</b>: <i>hope (that) + mệnh đề</i>. <b>Common mistakes</b>: khác <i>expect</i> (đoán là sẽ xảy ra).",
+   "example": {
+    "en": "I <b>hope</b> I pass my exams.",
+    "vi": "Tôi <b>mong</b> mình thi đỗ."
+   }
+  },
+  {
+   "word": "expect",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪkˈspekt/",
+   "def_en": "To think that something will probably happen.",
+   "def_vi": "Nghĩ điều gì có lẽ sẽ xảy ra.",
+   "gloss_vi": "đoán, nghĩ là sẽ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Expect</i> (verb) = đoán, nghĩ là sẽ. <b>Grammar</b>: <i>expect (that) + mệnh đề</i>; <i>expect to do sth</i>.",
+   "example": {
+    "en": "I haven’t studied; I <b>expect</b> I’ll fail my exams.",
+    "vi": "Tôi chưa ôn bài; tôi <b>đoán</b> mình sẽ trượt."
+   }
+  },
+  {
+   "word": "night",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/naɪt/",
+   "def_en": "The time after about 9 or 10 pm, when it is dark.",
+   "def_vi": "Thời gian sau khoảng 9–10 giờ tối, khi trời tối.",
+   "gloss_vi": "đêm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "day <i>(n. ngày)</i>",
+   "grammar_vi": "<i>Night</i> (noun) = đêm. <b>Grammar</b>: <i>at night</i> (vào ban đêm). <b>Collocations / chunks</b>: <i>Goodnight</i> (chúc ngủ ngon).",
+   "example": {
+    "en": "After 9 or 10 pm it is the <b>night</b>.",
+    "vi": "Sau 9 hay 10 giờ tối là <b>đêm</b>."
+   }
+  }
+ ]
+}
