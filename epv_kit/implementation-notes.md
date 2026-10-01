@@ -3,7 +3,7 @@
 ## Tiến độ
 | Sách | Có sẵn | Còn làm |
 |---|---|---|
-| Advanced (60) | unit 1–15 (demo) + *New phrasal verbs* (bản 1) + **16–20** (lượt 1) + **21–25** (lượt 2) + **26–30** (lượt 3) + **31–35** (lượt 4) + **36–40** (lượt 5) + **41–45** (lượt 6) + **46–50** (lượt 7) + **51–55** (lượt 8) | 56–60; bổ sung mục thiếu cho 1–15 |
+| Advanced (60) | unit 1–15 (demo) + *New phrasal verbs* (bản 1) + **16–20** (lượt 1) + **21–25** (lượt 2) + **26–30** (lượt 3) + **31–35** (lượt 4) + **36–40** (lượt 5) + **41–45** (lượt 6) + **46–50** (lượt 7) + **51–55** (lượt 8) + **56–60** (lượt 9) | bổ sung mục thiếu cho 1–15 |
 | Intermediate (70) | – | 1–70 |
 
 | Lượt | Unit | Số thẻ | Ghi chú |
@@ -17,6 +17,7 @@
 | 6 | Adv 41–45 | 92 mục / 184 thẻ + 5 note lý thuyết + 92 audio | build 928 note / 1809 thẻ, 0 bad renders, audio 534/534 |
 | 7 | Adv 46–50 | 96 mục / 192 thẻ + 5 note lý thuyết + 96 audio | build 1029 note / 2006 thẻ, 0 bad renders, audio 630/630 |
 | 8 | Adv 51–55 | 92 mục / 184 thẻ + 5 note lý thuyết + 92 audio | build 1126 note / 2195 thẻ, 0 bad renders, audio 722/722 |
+| 9 | Adv 56–60 | 66 mục / 132 thẻ + 5 note lý thuyết + 66 audio | build 1197 note / 2332 thẻ, 0 bad renders, audio 788/788 |
 
 ## Quyết định (xem PROMPT.md §3)
 D1 thứ tự Adv 16→60 → bổ sung demo → Int 1→70 · D2 IPA chuẩn Anh (config.ipa_style) · D3 1 deck gốc `English Phrasal Verbs in Use` → `Advanced`/`Intermediate` · D4 thẻ demo chỉ có ở bản 1: giữ + tag `EPV::demo_ban1` · D5 audio **bắt buộc**: Kokoro TTS offline, giọng Anh–Anh nam `bm_george` (sửa từ lượt 1c; trước đó để trống) · D6 chọn mục theo Mini dictionary + cụm in đậm.
@@ -142,7 +143,15 @@ D1 thứ tự Adv 16→60 → bổ sung demo → Int 1→70 · D2 IPA chuẩn An
 - Sửa phát âm TTS: *give-away*, *fry-up* (trọng âm danh từ ở âm đầu), *pick at* (dạng yếu /ət/).
 - Viết lại ~25 def_en trùng Mini ≥70% và ~20 ví dụ chép sát câu bài tập/đáp án (51.3, 52.2, 53.2, 55.3…), bỏ chi tiết tự thêm.
 
+**Lượt 9 (Adv 56–60: come, get, go, keep, take)**
+- Các unit này nhắc lại nhiều nghĩa đã dạy ở unit trước (sách ghi số unit) → **không làm lại**, chỉ nhắc trong lý thuyết: u56 `come across` (u40), `come at` (u20/u24), `come down` truyền đời (demo u10), `come in` thảo luận/thủy triều (demo u11, u47), `come into (being)` (u53); u57 `get around` tin đồn (demo u9), `get by` (demo u1), `get sb down` (demo u10), `get your act together` (demo u8), `get into`, `get up to` (u42), `get off` (u31); u58 `go down` hệ thống/vết sưng (demo u10, u43), `go over` (u33), `go into` (u31 `go in to`); u59 `keep down` (u21), `keep in with` (demo u5), `keep it up` (u30), `keep up` theo kịp (u24), `keep on` (demo u13); u60 `Take it away!` (u30), `take out` đi chơi (u42).
+- Khác nghĩa (`sense`): `come down` (giá giảm), `come in` (phát huy vai trò), `come on` (tiến bộ), `come under` (bị công kích – u53 ‘thuộc thẩm quyền’); `get around` (đi nhiều nơi), `get in` (tranh thủ); `go after` (đuổi theo / nhắm tới), `go ahead` (sự kiện diễn ra), `go down` (kém đi), `go for` (công kích / bán được giá), `go off` (diễn ra), `go through` (trải qua); `keep up` (duy trì), `keep somebody up` (thức khuya); `take away` (đưa đi / mang về ấn tượng), `take down`, `take off` (cất cánh / nghỉ làm), `take somebody off` (thuốc / nhiệm vụ), `take out` (tiêu diệt), `take up` (nêu ra / chiếm thời gian).
+- Gộp: `get away with sth` + `get away with murder` → 1 thẻ thành ngữ `get away with murder` (cùng nghĩa, bảng mục B dạy dạng *murder*). Thẻ `go after something` ghi cả dạng `go for` (Mini: *go after / for sth*). `come off better/worse` 1 thẻ.
+- Không có ngữ cảnh trên trang (ví dụ do kit đặt): `take off something` (nghỉ làm – Mini u60), `take out` (tiêu diệt – chỉ có định nghĩa). `coming in` (công nghệ mới xuất hiện, u56) in đậm nhưng không có chú thích/Mini → chỉ nhắc trong lý thuyết.
+- Sửa phát âm TTS: *go after* (BATH /ɑː/), *take-off* (trọng âm danh từ).
+
 ## Kiểm trôi
+- Lượt 9: kiểm u28 (ngẫu nhiên). **Lệch hệ thống như u31**: 13/19 ví dụ đặt bối cảnh tự nghĩ (thợ làm hỏng bếp, đàm phán công đoàn đổ vỡ, khách kẹt vì đình công sân bay, fan không có cúp, báo cáo đầy lỗi…) thay vì chuyện của Kate (bị dọa cắt giảm, con gái chia tay, con trai kẹt ở Phrasalia, chị gái Leo bị ung thư) và lời khuyên của Annette Berg → viết lại cả 13. **Kết luận: các lượt 2–6 viết ví dụ ‘theo nghĩa’ nhiều hơn ‘theo ngữ cảnh sách’; bước kiểm trôi cuối phải soát toàn bộ ví dụ Adv 16–45** (danh sách ưu tiên từ `tools/context_score.py`).
 - Lượt 8: kiểm u18 (ngẫu nhiên) – Bethany/Toby/George mục A, hội thoại Rory/Maya bài 18.2 khớp. Sửa 2 ví dụ: `store up` (câu cũ ‘bà tích trữ hàng trăm câu chuyện gia đình’ không có trong sách → Rory: kỷ niệm đẹp mới nên cất giữ), `block out` (câu cũ gọi là ‘vụ đánh nhau’ → cảnh anh trai Anna buộc tội, xô đẩy Rory).
 - Lượt 7: kiểm u31 (chọn ngẫu nhiên). **Lệch hệ thống**: 20/20 ví dụ đúng nghĩa nhưng đặt bối cảnh tự nghĩ (ly hôn, con tuổi teen, bữa trưa từ tủ lạnh, ‘Elena không hợp việc văn phòng’…) thay vì sáu người nói trong sách (sếp sắp nghỉ hưu, đại diện công đoàn, công nhân dây chuyền, trợ lý hành chính, nhà khoa học, nhân viên văn phòng) → viết lại cả 20 theo đúng ngữ cảnh sách. Thêm `tools/context_score.py`: tỉ lệ từ nội dung của ví dụ có trong src unit; u31 sau khi sửa 0/20 câu điểm thấp. Chạy cho u16–45: ~90 ví dụ điểm < 0.35 (nhiều nhất u28: 7, u25/u29/u33/u37: 5) → **TODO kiểm trôi cuối**: soát tay các câu này với src.
 - Lượt 6: kiểm u23 và u26 với src. u26 khớp (email Esther, register informal của *add up/bump up/knock down*). u23: 2 ví dụ có bối cảnh tự đặt **mâu thuẫn sách** → đã sửa: `rule out` (sách: Kate bảo đừng loại Olive Bistro trước khi xem – câu cũ ‘sếp loại DJ vì đắt’ không có trong sách); `settle on` (câu cũ ‘xem ba quán, chọn rẻ nhất’ không có trong sách → nay: nhóm có đến cuối tuần để chốt địa điểm tiệc ra mắt). Chạy lại gen + check u23: 0 LỖI. Bài học: ở các lượt sau, ví dụ ‘ngữ cảnh sách’ phải dò lại chi tiết sự việc, không chỉ tên nhân vật.
@@ -153,6 +162,7 @@ D1 thứ tự Adv 16→60 → bổ sung demo → Int 1→70 · D2 IPA chuẩn An
 - Lượt 1b: kiểm u16 và u20 với src – bối cảnh 'Trong bài' đúng (sửa: u16 người nói là người của trường, sách không nói là hiệu trưởng → đã sửa; ví dụ u16 *hold over* bỏ chi tiết 'tháng Bảy' không có trong sách; u17 *put down to* sửa cho khớp thư của Ms Johnson). Dạng tách/không tách, register khớp Mini dictionary.
 
 ## Todo for human
+- (lượt 9) `take off something` (nghỉ làm) và `take out` (tiêu diệt) ở u60 không có câu ngữ cảnh trong sách – ví dụ do kit đặt. Giữ hay bỏ?
 - (lượt 8) `water down` nghĩa ‘làm nhẹ ý kiến/kế hoạch’ (u55): trang chỉ nhắc trong Tip, ví dụ do kit đặt. Giữ hay bỏ?
 - (lượt 6) Tính từ `done in`, `wiped out`, `burnt-out` và danh từ `burnout` (u43) đang gộp vào thẻ động từ. Muốn làm thẻ riêng cho từng dạng không?
 - (lượt 6) `explain away`, `witter on` (u45) chỉ xuất hiện ở bài tập 45.4 – giữ thẻ (đã giữ, vì Mini dictionary gán cho u45) hay bỏ?
