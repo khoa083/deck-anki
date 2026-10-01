@@ -1,0 +1,32 @@
+{
+ "ipa_style": "uk",
+ "_ipa_style": "uk = IPA chuẩn Anh (sách là tiếng Anh–Anh; thống nhất với deck English Collocations in Use). Build tự đổi IPA kiểu Mỹ của 347 thẻ demo sang chuẩn Anh. Đặt 'keep' để giữ nguyên IPA demo.",
+ "note_source": "AnkiSupportVietnam",
+ "tts_voice": "bm_george",
+ "tts_speed": 0.95,
+ "_tts": "Audio field Phát âm: Kokoro TTS offline (kokoro-onnx), giọng Anh–Anh nam bm_george (demo dùng giọng nam ~120 Hz). Đổi giọng: bf_emma, bm_daniel, bm_lewis… rồi chạy `epv.py audio --force`.",
+ "tts_phonemes": {
+  "impact on something": "ɪmpˈakt ˌɒn sˈʌmθɪŋ",
+  "attribute something to something": "ɐtɹˈɪbjuːt sˈʌmθɪŋ tə sˈʌmθɪŋ",
+  "pass somebody by": "pˈɑːs sˈʌmbɒdi bˈaɪ",
+  "blast out": "blˈɑːst ˈaʊt",
+  "bow to something": "bˈaʊ tə sˈʌmθɪŋ",
+  "separate off": "sˈɛpəɹeɪt ˈɒf",
+  "separate out": "sˈɛpəɹeɪt ˈaʊt",
+  "live with something": "lˈɪv wɪð sˈʌmθɪŋ",
+  "grasp at something": "ɡɹˈɑːsp ət sˈʌmθɪŋ",
+  "Roll on …!": "ɹˈəʊl ˈɒn!",
+  "pass over": "pˈɑːs ˈəʊvə",
+  "run around after somebody": "ɹˈʌn ɐɹˈaʊnd ˈɑːftə sˈʌmbɒdi",
+  "object to something": "əbdʒˈɛkt tə sˈʌmθɪŋ",
+  "look after something": "lˈʊk ˈɑːftə sˈʌmθɪŋ",
+  "clean up after somebody": "klˈiːn ˌʌp ˈɑːftə sˈʌmbɒdi",
+  "clear up after somebody": "klˈiəɹ ˌʌp ˈɑːftə sˈʌmbɒdi",
+  "pull to": "pˈʊl tˈuː",
+  "push to": "pˈʊʃ tˈuː",
+  "cast-offs": "kˈɑːst ɒfs",
+  "pass by": "pˈɑːs bˈaɪ",
+  "pass on": "pˈɑːs ˈɒn",
+  "bunged-up": "bˈʌŋd ˈʌp"
+ }
+}

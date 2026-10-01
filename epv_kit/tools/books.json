@@ -1,0 +1,646 @@
+{
+ "adv": {
+  "deck": "English Phrasal Verbs in Use::Advanced",
+  "edition": "2nd edition (PDF); demo theo 1st edition – xem DEMO_RENUMBER",
+  "page_formula": "PDF index 0-based: trái = 7+2n, phải = 8+2n; trang sách = index-3",
+  "sections": [
+   [
+    1,
+    4,
+    "01-Learning about phrasal verbs"
+   ],
+   [
+    5,
+    8,
+    "02-Interesting aspects of phrasal verbs"
+   ],
+   [
+    9,
+    15,
+    "03-Key particles"
+   ],
+   [
+    16,
+    21,
+    "04-Concepts"
+   ],
+   [
+    22,
+    30,
+    "05-Functions"
+   ],
+   [
+    31,
+    36,
+    "06-Work, study and finance"
+   ],
+   [
+    37,
+    46,
+    "07-Personal life"
+   ],
+   [
+    47,
+    55,
+    "08-The world around us"
+   ],
+   [
+    56,
+    60,
+    "09-Key verbs"
+   ]
+  ],
+  "sections_vi": {
+   "01-Learning about phrasal verbs": "Tìm hiểu về phrasal verb",
+   "02-Interesting aspects of phrasal verbs": "Những khía cạnh thú vị của phrasal verb",
+   "03-Key particles": "Các tiểu từ quan trọng",
+   "04-Concepts": "Các khái niệm",
+   "05-Functions": "Chức năng giao tiếp",
+   "06-Work, study and finance": "Công việc, học tập và tài chính",
+   "07-Personal life": "Đời sống cá nhân",
+   "08-The world around us": "Thế giới quanh ta",
+   "09-Key verbs": "Các động từ quan trọng"
+  },
+  "units": {
+   "1": [
+    "Phrasal verbs: what are they and how are they used?",
+    "Phrasal verb – chúng là gì và được sử dụng như thế nào?"
+   ],
+   "2": [
+    "Grammar of phrasal verbs",
+    "Ngữ pháp của phrasal verb"
+   ],
+   "3": [
+    "Phrasal nouns",
+    "Danh từ phrasal"
+   ],
+   "4": [
+    "Phrasal adjectives",
+    "Tính từ phrasal"
+   ],
+   "5": [
+    "Collocation and phrasal verbs",
+    "Collocation và phrasal verb"
+   ],
+   "6": [
+    "Register",
+    "Phong cách ngôn ngữ (register)"
+   ],
+   "7": [
+    "Meaning and metaphor",
+    "Ý nghĩa và phép ẩn dụ"
+   ],
+   "8": [
+    "Idioms using phrasal verbs",
+    "Thành ngữ sử dụng phrasal verb"
+   ],
+   "9": [
+    "Around and about",
+    "Tiểu từ around và about"
+   ],
+   "10": [
+    "Down",
+    "Tiểu từ down"
+   ],
+   "11": [
+    "In",
+    "Tiểu từ in"
+   ],
+   "12": [
+    "Off",
+    "Tiểu từ off"
+   ],
+   "13": [
+    "On",
+    "Tiểu từ on"
+   ],
+   "14": [
+    "Out",
+    "Tiểu từ out"
+   ],
+   "15": [
+    "Up",
+    "Tiểu từ up"
+   ],
+   "16": [
+    "Time",
+    "Thời gian"
+   ],
+   "17": [
+    "Cause and effect",
+    "Nguyên nhân và kết quả"
+   ],
+   "18": [
+    "Memory",
+    "Trí nhớ"
+   ],
+   "19": [
+    "Making progress",
+    "Tiến triển"
+   ],
+   "20": [
+    "Conflict and violence",
+    "Xung đột và bạo lực"
+   ],
+   "21": [
+    "Sound",
+    "Âm thanh"
+   ],
+   "22": [
+    "Supporting and opposing people or views",
+    "Ủng hộ và phản đối người khác hoặc quan điểm"
+   ],
+   "23": [
+    "Agreeing",
+    "Đồng ý"
+   ],
+   "24": [
+    "Understanding and having ideas",
+    "Hiểu và nảy ra ý tưởng"
+   ],
+   "25": [
+    "Arranging things",
+    "Sắp xếp, thu xếp mọi việc"
+   ],
+   "26": [
+    "Talking about size and number",
+    "Nói về kích thước và số lượng"
+   ],
+   "27": [
+    "Talking about success and failure",
+    "Nói về thành công và thất bại"
+   ],
+   "28": [
+    "Discussing problems",
+    "Bàn về các vấn đề"
+   ],
+   "29": [
+    "Deciding and influencing",
+    "Quyết định và gây ảnh hưởng"
+   ],
+   "30": [
+    "Exclamations and warnings",
+    "Câu cảm thán và lời cảnh báo"
+   ],
+   "31": [
+    "Work",
+    "Công việc"
+   ],
+   "32": [
+    "Study",
+    "Học tập"
+   ],
+   "33": [
+    "Lectures and seminars",
+    "Bài giảng và seminar"
+   ],
+   "34": [
+    "Writing essays",
+    "Viết bài luận"
+   ],
+   "35": [
+    "Business",
+    "Kinh doanh"
+   ],
+   "36": [
+    "Money",
+    "Tiền bạc"
+   ],
+   "37": [
+    "At home",
+    "Ở nhà"
+   ],
+   "38": [
+    "Clothing and appearance",
+    "Quần áo và ngoại hình"
+   ],
+   "39": [
+    "Relationships",
+    "Các mối quan hệ"
+   ],
+   "40": [
+    "Character and personal qualities",
+    "Tính cách và phẩm chất cá nhân"
+   ],
+   "41": [
+    "Feelings",
+    "Cảm xúc"
+   ],
+   "42": [
+    "Social life",
+    "Đời sống giao lưu"
+   ],
+   "43": [
+    "Health and symptoms",
+    "Sức khoẻ và triệu chứng"
+   ],
+   "44": [
+    "The body",
+    "Cơ thể"
+   ],
+   "45": [
+    "How people speak",
+    "Cách người ta nói"
+   ],
+   "46": [
+    "How people move",
+    "Cách người ta di chuyển"
+   ],
+   "47": [
+    "Nature",
+    "Thiên nhiên"
+   ],
+   "48": [
+    "Weather",
+    "Thời tiết"
+   ],
+   "49": [
+    "Places",
+    "Nơi chốn"
+   ],
+   "50": [
+    "Transport",
+    "Giao thông"
+   ],
+   "51": [
+    "The news",
+    "Tin tức"
+   ],
+   "52": [
+    "Secrets and lies",
+    "Bí mật và lời nói dối"
+   ],
+   "53": [
+    "Rules and laws",
+    "Quy định và luật pháp"
+   ],
+   "54": [
+    "Technology",
+    "Công nghệ"
+   ],
+   "55": [
+    "Food and drink",
+    "Đồ ăn và thức uống"
+   ],
+   "56": [
+    "Come",
+    "Động từ come"
+   ],
+   "57": [
+    "Get",
+    "Động từ get"
+   ],
+   "58": [
+    "Go",
+    "Động từ go"
+   ],
+   "59": [
+    "Keep",
+    "Động từ keep"
+   ],
+   "60": [
+    "Take",
+    "Động từ take"
+   ]
+  }
+ },
+ "int": {
+  "deck": "English Phrasal Verbs in Use::Intermediate",
+  "edition": "2nd edition (PDF scan, không có lớp chữ – src lấy bằng OCR)",
+  "page_formula": "PDF trang 1-based: trái = 6+2n, phải = 7+2n; trang sách = trang PDF - 2",
+  "sections": [
+   [
+    1,
+    5,
+    "01-Learning about phrasal verbs"
+   ],
+   [
+    6,
+    12,
+    "02-Key verbs"
+   ],
+   [
+    13,
+    21,
+    "03-Key particles"
+   ],
+   [
+    22,
+    31,
+    "04-Concepts"
+   ],
+   [
+    32,
+    41,
+    "05-Functions"
+   ],
+   [
+    42,
+    50,
+    "06-Work, study and finance"
+   ],
+   [
+    51,
+    60,
+    "07-Personal life"
+   ],
+   [
+    61,
+    70,
+    "08-The world around us"
+   ]
+  ],
+  "sections_vi": {
+   "01-Learning about phrasal verbs": "Tìm hiểu về phrasal verb",
+   "02-Key verbs": "Các động từ quan trọng",
+   "03-Key particles": "Các tiểu từ quan trọng",
+   "04-Concepts": "Các khái niệm",
+   "05-Functions": "Chức năng giao tiếp",
+   "06-Work, study and finance": "Công việc, học tập và tài chính",
+   "07-Personal life": "Đời sống cá nhân",
+   "08-The world around us": "Thế giới quanh ta"
+  },
+  "units": {
+   "1": [
+    "Phrasal verbs: the basics",
+    "Phrasal verb: kiến thức cơ bản"
+   ],
+   "2": [
+    "The meaning of phrasal verbs",
+    "Nghĩa của phrasal verb"
+   ],
+   "3": [
+    "Particles in phrasal verbs",
+    "Tiểu từ trong phrasal verb"
+   ],
+   "4": [
+    "Nouns and adjectives based on phrasal verbs",
+    "Danh từ và tính từ tạo từ phrasal verb"
+   ],
+   "5": [
+    "Metaphor and register",
+    "Phép ẩn dụ và phong cách ngôn ngữ"
+   ],
+   "6": [
+    "Come",
+    "Động từ come"
+   ],
+   "7": [
+    "Get",
+    "Động từ get"
+   ],
+   "8": [
+    "Go",
+    "Động từ go"
+   ],
+   "9": [
+    "Look",
+    "Động từ look"
+   ],
+   "10": [
+    "Make",
+    "Động từ make"
+   ],
+   "11": [
+    "Put",
+    "Động từ put"
+   ],
+   "12": [
+    "Take",
+    "Động từ take"
+   ],
+   "13": [
+    "Up",
+    "Tiểu từ up"
+   ],
+   "14": [
+    "Out",
+    "Tiểu từ out"
+   ],
+   "15": [
+    "Off",
+    "Tiểu từ off"
+   ],
+   "16": [
+    "On and in",
+    "Tiểu từ on và in"
+   ],
+   "17": [
+    "Down and over",
+    "Tiểu từ down và over"
+   ],
+   "18": [
+    "Around and about",
+    "Tiểu từ around và about"
+   ],
+   "19": [
+    "For and with",
+    "Tiểu từ for và with"
+   ],
+   "20": [
+    "Through and back",
+    "Tiểu từ through và back"
+   ],
+   "21": [
+    "Into and away",
+    "Tiểu từ into và away"
+   ],
+   "22": [
+    "Time: spending time",
+    "Thời gian: sử dụng thời gian"
+   ],
+   "23": [
+    "Time: passing of time",
+    "Thời gian: thời gian trôi qua"
+   ],
+   "24": [
+    "Location",
+    "Vị trí"
+   ],
+   "25": [
+    "Cause and effect",
+    "Nguyên nhân và kết quả"
+   ],
+   "26": [
+    "Change",
+    "Thay đổi"
+   ],
+   "27": [
+    "Success and failure",
+    "Thành công và thất bại"
+   ],
+   "28": [
+    "Starting and finishing",
+    "Bắt đầu và kết thúc"
+   ],
+   "29": [
+    "Actions and movement",
+    "Hành động và chuyển động"
+   ],
+   "30": [
+    "Destroying and reacting to destruction",
+    "Phá huỷ và phản ứng trước sự phá huỷ"
+   ],
+   "31": [
+    "Communication",
+    "Giao tiếp"
+   ],
+   "32": [
+    "Describing people and places",
+    "Miêu tả người và nơi chốn"
+   ],
+   "33": [
+    "Describing public events",
+    "Miêu tả sự kiện công cộng"
+   ],
+   "34": [
+    "Describing situations",
+    "Miêu tả tình huống"
+   ],
+   "35": [
+    "Giving and getting information",
+    "Cung cấp và thu nhận thông tin"
+   ],
+   "36": [
+    "Solving problems",
+    "Giải quyết vấn đề"
+   ],
+   "37": [
+    "Decisions and plans",
+    "Quyết định và kế hoạch"
+   ],
+   "38": [
+    "Disagreeing",
+    "Bất đồng ý kiến"
+   ],
+   "39": [
+    "Persuading",
+    "Thuyết phục"
+   ],
+   "40": [
+    "Praising and criticising",
+    "Khen ngợi và chỉ trích"
+   ],
+   "41": [
+    "Exclamations and warnings",
+    "Câu cảm thán và lời cảnh báo"
+   ],
+   "42": [
+    "The classroom and learning",
+    "Lớp học và việc học"
+   ],
+   "43": [
+    "Student life: courses and exams",
+    "Đời sinh viên: khoá học và thi cử"
+   ],
+   "44": [
+    "Student life: reading and writing",
+    "Đời sinh viên: đọc và viết"
+   ],
+   "45": [
+    "Work: jobs and career",
+    "Công việc: việc làm và sự nghiệp"
+   ],
+   "46": [
+    "Work: being busy",
+    "Công việc: sự bận rộn"
+   ],
+   "47": [
+    "Money: salaries, bills, payments",
+    "Tiền bạc: lương, hoá đơn, thanh toán"
+   ],
+   "48": [
+    "Money: buying and selling",
+    "Tiền bạc: mua và bán"
+   ],
+   "49": [
+    "Business",
+    "Kinh doanh"
+   ],
+   "50": [
+    "Calling people",
+    "Gọi điện và liên lạc"
+   ],
+   "51": [
+    "Feelings",
+    "Cảm xúc"
+   ],
+   "52": [
+    "Relationships",
+    "Các mối quan hệ"
+   ],
+   "53": [
+    "Relationships: problems",
+    "Các mối quan hệ: trục trặc"
+   ],
+   "54": [
+    "Secrets and conversations",
+    "Bí mật và chuyện trò"
+   ],
+   "55": [
+    "Stages through life",
+    "Các giai đoạn cuộc đời"
+   ],
+   "56": [
+    "Health",
+    "Sức khoẻ"
+   ],
+   "57": [
+    "Sport",
+    "Thể thao"
+   ],
+   "58": [
+    "Homes and daily routines",
+    "Nhà cửa và sinh hoạt hằng ngày"
+   ],
+   "59": [
+    "Socialising",
+    "Giao lưu, gặp gỡ"
+   ],
+   "60": [
+    "Food and drink",
+    "Đồ ăn và thức uống"
+   ],
+   "61": [
+    "Weather",
+    "Thời tiết"
+   ],
+   "62": [
+    "Travel",
+    "Đi lại, du lịch"
+   ],
+   "63": [
+    "Driving and cycling",
+    "Lái xe và đạp xe"
+   ],
+   "64": [
+    "Mobile devices",
+    "Thiết bị di động"
+   ],
+   "65": [
+    "Computers",
+    "Máy tính"
+   ],
+   "66": [
+    "News",
+    "Tin tức"
+   ],
+   "67": [
+    "Crime",
+    "Tội phạm"
+   ],
+   "68": [
+    "Power and authority",
+    "Quyền lực và thẩm quyền"
+   ],
+   "69": [
+    "American and Australian phrasal verbs",
+    "Phrasal verb kiểu Mỹ và kiểu Úc"
+   ],
+   "70": [
+    "Academic writing",
+    "Viết học thuật"
+   ]
+  }
+ }
+}
