@@ -84,7 +84,12 @@ for grp in IRR_SRC.split("|"):
 def tok_rx(t, last):
     forms = sorted(IRR.get(t.lower(), {t.lower()}), key=len, reverse=True)
     alt = "|".join(re.escape(f) for f in forms)
-    return f"(?:{alt}){INFL}"
+    extra = ""
+    w = t.lower()
+    if len(w) > 2 and w.endswith("e"): extra += "|" + re.escape(w[:-1]) + "(?:ing|ed|er|ers|est)"
+    if len(w) > 2 and w.endswith("y"): extra += "|" + re.escape(w[:-1]) + "(?:ies|ied|ier|iest)"
+    if len(w) > 2 and re.search(r"[^aeiou][aeiou][bdgklmnprt]$", w): extra += "|" + re.escape(w + w[-1]) + "(?:ing|ed|er|ers)"
+    return f"(?:(?:{alt}){INFL}{extra})"
 
 
 def word_rx(word):

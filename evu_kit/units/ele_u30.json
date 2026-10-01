@@ -1,0 +1,318 @@
+{
+ "book": "ele",
+ "unit": 30,
+ "title_vi": "Ở vùng nông thôn",
+ "theory_html": "<p><b>The countryside</b> and <b>the country</b> both mean ‘not the city’; <b>country</b> can also mean a nation.</p><p><i><b>countryside</b> và <b>country</b> đều nghĩa là “không phải thành phố”; <b>country</b> còn nghĩa là quốc gia.</i></p> <p><b>A. Things in the countryside</b><br><i>A. Cảnh vật ở nông thôn</i></p> <ul><li><b>mountains, hills, forest, wood, lake, river, fields, path, farm, village, country road</b> – <i>núi, đồi, rừng, rừng nhỏ, hồ, sông, cánh đồng, lối mòn, trang trại, làng, đường quê</i></li></ul> <p><b>B. Living and working in the countryside</b><br><i>B. Sống và làm việc ở nông thôn</i></p> <p>People live in a <b>small town</b> or a <b>village</b>; a farmer lives <b>on a farm</b>; a <b>cottage</b> is a small house in a village or the countryside.</p><p><i>Người ta sống ở <b>thị trấn nhỏ</b> hay <b>làng</b>; nông dân sống <b>ở trang trại</b>; <b>nhà tranh</b> là ngôi nhà nhỏ ở làng quê.</i></p> <p><b>C. Nature and conservation</b><br><i>C. Thiên nhiên và bảo tồn</i></p> <p><b>Nature</b> = everything in the natural world; <b>wildlife</b> = animals, birds, fish and insects; a <b>conservation area</b> protects wildlife; a <b>national park</b> is a very big conservation area. Say <b>I love nature</b> (not <b>the nature</b>); nature is not a place – walk <b>in the countryside</b>.</p><p><i><b>Thiên nhiên</b>; <b>động vật hoang dã</b>; <b>khu bảo tồn</b>; <b>vườn quốc gia</b>. Nói <b>I love nature</b>, không dùng <b>the</b>; đi dạo <b>in the countryside</b>.</i></p> <p><b>D. Things to do</b><br><i>D. Hoạt động</i></p> <p><b>have a picnic, go walking / skiing in the mountains</b>.</p><p><i><b>đi dã ngoại, đi bộ đường dài / trượt tuyết trên núi</b>.</i></p>",
+ "items": [
+  {
+   "word": "countryside",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈkʌntrisaɪd/",
+   "def_en": "Land outside towns and cities, with fields, woods and farms.",
+   "def_vi": "Vùng đất ngoài thành phố, có cánh đồng, rừng, trang trại.",
+   "gloss_vi": "vùng nông thôn",
+   "synonyms": "country <i>(n. nông thôn)</i>",
+   "antonyms": "city <i>(n. thành phố)</i>",
+   "grammar_vi": "<i>Countryside</i> (uncountable noun) = vùng nông thôn. <b>Grammar</b>: luôn dùng <i>the countryside</i>. <b>Common mistakes</b>: không nói <i>in the nature</i>.",
+   "example": {
+    "en": "I like walking in the <b>countryside</b>.",
+    "vi": "Tôi thích đi dạo ở <b>vùng nông thôn</b>."
+   }
+  },
+  {
+   "word": "mountains",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈmaʊntɪnz/",
+   "def_en": "Very high hills.",
+   "def_vi": "Đồi rất cao.",
+   "gloss_vi": "núi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mountains</i> (plural noun) = núi. <b>Grammar</b>: số ít <i>a mountain</i>; <i>in the mountains</i> (trên vùng núi).",
+   "example": {
+    "en": "You can go walking / skiing in the <b>mountains</b>.",
+    "vi": "Bạn có thể đi bộ / trượt tuyết trên <b>núi</b>."
+   }
+  },
+  {
+   "word": "forest",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfɒrɪst/",
+   "def_en": "A large area of land covered with trees.",
+   "def_vi": "Vùng đất rộng phủ đầy cây.",
+   "gloss_vi": "rừng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Forest</i> (noun) = rừng. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: <i>forest</i> lớn hơn <i>wood</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We got lost in the <b>forest</b>.",
+    "vi": "Chúng tôi lạc trong <b>rừng</b>."
+   }
+  },
+  {
+   "word": "hills",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/hɪlz/",
+   "def_en": "Areas of high land, smaller than mountains.",
+   "def_vi": "Vùng đất cao, thấp hơn núi.",
+   "gloss_vi": "đồi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hills</i> (plural noun) = đồi. <b>Grammar</b>: số ít <i>a hill</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The village is in the <b>hills</b>.",
+    "vi": "Ngôi làng ở giữa những ngọn <b>đồi</b>."
+   }
+  },
+  {
+   "word": "village",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈvɪlɪdʒ/",
+   "def_en": "A very small town in the countryside.",
+   "def_vi": "Thị trấn rất nhỏ ở nông thôn.",
+   "gloss_vi": "làng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Village</i> (noun) = làng. <b>Grammar</b>: đếm được; đọc /ˈvɪlɪdʒ/. <b>Word family</b>: <i>villager</i> (n. dân làng).",
+   "example": {
+    "en": "6,000 people) or <b>village</b> (e.g.",
+    "vi": "Ở nông thôn, người ta thường sống trong thị trấn nhỏ hoặc <b>làng</b>."
+   }
+  },
+  {
+   "word": "wood",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/wʊd/",
+   "def_en": "A small forest.",
+   "def_vi": "Khu rừng nhỏ.",
+   "gloss_vi": "rừng nhỏ, khu rừng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wood</i> (noun) = rừng nhỏ, khu rừng. <b>Grammar</b>: thường dùng số nhiều <i>the woods</i>. <b>Common mistakes</b>: <i>wood</i> còn là gỗ (không đếm được).",
+   "ex_kit": true,
+   "example": {
+    "en": "We went for a walk in the <b>wood</b> behind the house.",
+    "vi": "Chúng tôi đi dạo trong <b>rừng</b> sau nhà."
+   }
+  },
+  {
+   "word": "lake",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/leɪk/",
+   "def_en": "A large area of water with land all around it.",
+   "def_vi": "Vùng nước lớn có đất bao quanh.",
+   "gloss_vi": "hồ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lake</i> (noun) = hồ. <b>Grammar</b>: đếm được; tên riêng: <i>Lake Geneva</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We swam in the <b>lake</b>.",
+    "vi": "Chúng tôi bơi ở <b>hồ</b>."
+   }
+  },
+  {
+   "word": "fields",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/fiːldz/",
+   "def_en": "Areas of land on a farm where crops grow or animals eat.",
+   "def_vi": "Khu đất ở trang trại để trồng trọt, chăn thả.",
+   "gloss_vi": "cánh đồng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fields</i> (plural noun) = cánh đồng. <b>Grammar</b>: số ít <i>a field</i>; <i>in the fields</i> (trên đồng).",
+   "example": {
+    "en": "A farmer lives on a farm and works in the <b>fields</b>.",
+    "vi": "Người nông dân sống ở trang trại và làm việc trên <b>đồng</b>."
+   }
+  },
+  {
+   "word": "path",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pɑːθ/",
+   "def_en": "A narrow way for walking.",
+   "def_vi": "Lối đi hẹp để đi bộ.",
+   "gloss_vi": "lối mòn, đường mòn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Path</i> (noun) = lối mòn, đường mòn. <b>Grammar</b>: số nhiều <i>paths</i> /pɑːðz/.",
+   "ex_kit": true,
+   "example": {
+    "en": "Follow the <b>path</b> along the river.",
+    "vi": "Đi theo <b>lối mòn</b> dọc bờ sông."
+   }
+  },
+  {
+   "word": "river",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈrɪvə(r)/",
+   "def_en": "A long line of water that flows to the sea.",
+   "def_vi": "Dòng nước dài chảy ra biển.",
+   "gloss_vi": "sông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>River</i> (noun) = sông. <b>Grammar</b>: đếm được; tên riêng: <i>the River Thames</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "There’s a bridge over the <b>river</b>.",
+    "vi": "Có một cây cầu bắc qua <b>sông</b>."
+   }
+  },
+  {
+   "word": "farm",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/fɑːm/",
+   "def_en": "Land and buildings used for growing crops and keeping animals.",
+   "def_vi": "Đất và nhà dùng trồng trọt, chăn nuôi.",
+   "gloss_vi": "trang trại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Farm</i> (noun) = trang trại. <b>Grammar</b>: dùng <i>on a farm</i> (không <i>in</i>).",
+   "example": {
+    "en": "A farmer lives <b>on a farm</b> and works in the fields.",
+    "vi": "Người nông dân sống <b>ở trang trại</b> và làm việc trên đồng."
+   }
+  },
+  {
+   "word": "small town",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌsmɔːl ˈtaʊn/",
+   "def_en": "A town with not many people.",
+   "def_vi": "Thị trấn ít dân.",
+   "gloss_vi": "thị trấn nhỏ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "city <i>(n. thành phố)</i>",
+   "grammar_vi": "<i>Small town</i> (noun phrase) = thị trấn nhỏ. <b>Grammar</b>: <i>live in a small town</i>.",
+   "example": {
+    "en": "In the countryside, people usually live in a <b>small town</b> (e.g.",
+    "vi": "Ở nông thôn, người ta thường sống trong <b>thị trấn nhỏ</b> (ví dụ 6.000 dân) hoặc làng."
+   }
+  },
+  {
+   "word": "cottage",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɒtɪdʒ/",
+   "def_en": "A small house in a village or the countryside.",
+   "def_vi": "Ngôi nhà nhỏ ở làng hay nông thôn.",
+   "gloss_vi": "nhà tranh, nhà nhỏ ở quê",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cottage</i> (noun) = nhà tranh, nhà nhỏ ở quê. <b>Grammar</b>: đếm được; đọc /ˈkɒtɪdʒ/.",
+   "example": {
+    "en": "My friend lives in a <b>cottage</b> [small house in a village or the countryside].",
+    "vi": "Bạn tôi sống trong một <b>ngôi nhà nhỏ ở quê</b>."
+   }
+  },
+  {
+   "word": "nature",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈneɪtʃə(r)/",
+   "def_en": "Everything in the natural world, such as animals, birds and plants.",
+   "def_vi": "Mọi thứ trong thế giới tự nhiên như động vật, chim, cây cối.",
+   "gloss_vi": "thiên nhiên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nature</i> (uncountable noun) = thiên nhiên. <b>Grammar</b>: không đếm được, không dùng <i>the</i>. <b>Common mistakes</b>: <i>nature</i> không phải là nơi chốn.",
+   "example": {
+    "en": "I love <b>nature</b>.",
+    "vi": "Tôi yêu <b>thiên nhiên</b>."
+   }
+  },
+  {
+   "word": "wildlife",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈwaɪldlaɪf/",
+   "def_en": "Animals, birds, fish and insects living in natural conditions.",
+   "def_vi": "Động vật, chim, cá, côn trùng sống tự nhiên.",
+   "gloss_vi": "động vật hoang dã",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wildlife</i> (uncountable noun) = động vật hoang dã. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "There is wonderful <b>wildlife</b> in the north of the country. [animals, birds, fish and insects]",
+    "vi": "Có <b>động vật hoang dã</b> tuyệt vời ở miền bắc đất nước."
+   }
+  },
+  {
+   "word": "conservation area",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/kɒnsəˈveɪʃn eəriə/",
+   "def_en": "A place where wildlife and nature are protected.",
+   "def_vi": "Nơi bảo vệ động vật hoang dã và thiên nhiên.",
+   "gloss_vi": "khu bảo tồn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Conservation area</i> (noun phrase) = khu bảo tồn. <b>Grammar</b>: danh từ ghép. <b>Word family</b>: <i>conserve</i> (v.).",
+   "example": {
+    "en": "Near the village there is a <b>conservation area</b> [place where wildlife and nature are protected].",
+    "vi": "Gần làng có một <b>khu bảo tồn</b>."
+   }
+  },
+  {
+   "word": "national park",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌnæʃnəl ˈpɑːk/",
+   "def_en": "A very big area of countryside protected by the government.",
+   "def_vi": "Vùng nông thôn rất rộng được nhà nước bảo vệ.",
+   "gloss_vi": "vườn quốc gia",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>National park</i> (noun phrase) = vườn quốc gia. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "In the south of the country, there is a <b>national park</b> [very big national conservation area]. wildlife",
+    "vi": "Ở miền nam đất nước có một <b>vườn quốc gia</b>."
+   }
+  },
+  {
+   "word": "have a picnic",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌhæv ə ˈpɪknɪk/",
+   "def_en": "To eat a meal outside, often in the countryside.",
+   "def_vi": "Ăn ngoài trời, thường ở nông thôn.",
+   "gloss_vi": "đi dã ngoại, ăn ngoài trời",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have a picnic</i> (verb phrase) = đi dã ngoại, ăn ngoài trời. <b>Grammar</b>: <i>have a picnic</i>; <i>picnic</i> có quá khứ động từ <i>picnicked</i>.",
+   "example": {
+    "en": "You can take food and drink and <b>have a picnic</b>.",
+    "vi": "Bạn có thể mang đồ ăn thức uống và <b>đi dã ngoại</b>."
+   }
+  },
+  {
+   "word": "go walking",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ ˈwɔːkɪŋ/",
+   "def_en": "To walk for pleasure, especially in the countryside or mountains.",
+   "def_vi": "Đi bộ thư giãn, nhất là ở nông thôn, vùng núi.",
+   "gloss_vi": "đi bộ đường dài",
+   "synonyms": "hiking <i>(un. đi bộ đường dài)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go walking</i> (verb phrase) = đi bộ đường dài. <b>Grammar</b>: <i>go</i> + V-ing cho hoạt động.",
+   "example": {
+    "en": "You can <b>go walking</b> / skiing in the mountains.",
+    "vi": "Bạn có thể <b>đi bộ</b> / trượt tuyết trên núi."
+   }
+  }
+ ]
+}

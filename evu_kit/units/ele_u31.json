@@ -1,0 +1,376 @@
+{
+ "book": "ele",
+ "unit": 31,
+ "title_vi": "Động vật",
+ "theory_html": "<p><b>A. Farm animals</b><br><i>A. Vật nuôi ở trang trại</i></p> <ul><li><b>horse</b> (foal), <b>cow</b> (calf; milk, leather, beef), <b>sheep</b> (lamb; wool, lamb), <b>pig</b> (piglet; pork, bacon, ham), <b>chicken / hen</b> (chick; eggs), <b>goat</b> (kid) – <i>ngựa (ngựa con), bò (bê; sữa, da, thịt bò), cừu (cừu con; len, thịt cừu), lợn (lợn con; thịt lợn, thịt xông khói, giăm bông), gà / gà mái (gà con; trứng), dê (dê con)</i></li></ul> <p><b>B. Wild or zoo animals</b><br><i>B. Thú hoang dã, thú ở vườn thú</i></p> <ul><li><b>monkey, giraffe, tiger, snake, elephant, lion</b> – <i>khỉ, hươu cao cổ, hổ, rắn, voi, sư tử</i></li></ul> <p><b>C. Pets</b><br><i>C. Thú cưng</i></p> <ul><li><b>tortoise, fish, rabbit, dog, parrot</b> (a <b>bird</b>), <b>cat</b> – <i>rùa cạn, cá, thỏ, chó, vẹt (một loài chim), mèo</i></li></ul> <p><b>D. Expressions</b><br><i>D. Cách nói</i></p> <p><b>Take your dog for a walk every day. Feed your animals and give them water. Do you have any pets?</b></p><p><i><b>Dắt chó đi dạo mỗi ngày. Cho vật nuôi ăn và uống nước. Bạn có nuôi thú cưng không?</b></i></p>",
+ "items": [
+  {
+   "word": "pig",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pɪɡ/",
+   "def_en": "A pink or black farm animal kept for its meat.",
+   "def_vi": "Con vật nuôi màu hồng hay đen, lấy thịt.",
+   "gloss_vi": "con lợn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pig</i> (noun) = con lợn. <b>Grammar</b>: con non: <i>piglet</i>. <b>Note</b>: thịt gọi là <i>pork</i>, không gọi <i>pig</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We get pork, bacon and ham from <b>pigs</b>.",
+    "vi": "Từ <b>lợn</b> ta có thịt lợn, thịt xông khói và giăm bông."
+   }
+  },
+  {
+   "word": "cow",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kaʊ/",
+   "def_en": "A large farm animal kept for its milk or meat.",
+   "def_vi": "Con vật lớn nuôi lấy sữa hay thịt.",
+   "gloss_vi": "con bò",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cow</i> (noun) = con bò. <b>Grammar</b>: con non: <i>calf</i>. <b>Note</b>: thịt là <i>beef</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Cows</b> give us milk, leather and meat (beef).",
+    "vi": "<b>Bò</b> cho ta sữa, da và thịt (thịt bò)."
+   }
+  },
+  {
+   "word": "horse",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/hɔːs/",
+   "def_en": "A large animal that people ride.",
+   "def_vi": "Con vật lớn người ta cưỡi.",
+   "gloss_vi": "con ngựa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Horse</i> (noun) = con ngựa. <b>Grammar</b>: con non: <i>foal</i>; <i>ride a horse</i> (cưỡi ngựa).",
+   "ex_kit": true,
+   "example": {
+    "en": "She rides a <b>horse</b> every weekend.",
+    "vi": "Cô ấy cưỡi <b>ngựa</b> mỗi cuối tuần."
+   }
+  },
+  {
+   "word": "sheep",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ʃiːp/",
+   "def_en": "A farm animal with thick wool.",
+   "def_vi": "Con vật nuôi có lông len dày.",
+   "gloss_vi": "con cừu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sheep</i> (noun) = con cừu. <b>Grammar</b>: số nhiều vẫn là <i>sheep</i>. <b>Note</b>: con non và thịt đều là <i>lamb</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Wool comes from <b>sheep</b>.",
+    "vi": "Len được lấy từ <b>cừu</b>."
+   }
+  },
+  {
+   "word": "goat",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɡəʊt/",
+   "def_en": "A farm animal with horns, kept for milk and meat.",
+   "def_vi": "Con vật có sừng nuôi lấy sữa và thịt.",
+   "gloss_vi": "con dê",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Goat</i> (noun) = con dê. <b>Grammar</b>: con non: <i>kid</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "This cheese is made from <b>goat’s</b> milk.",
+    "vi": "Phô mai này làm từ sữa <b>dê</b>."
+   }
+  },
+  {
+   "word": "chicken",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtʃɪkɪn/",
+   "def_en": "A bird kept on farms for its eggs and meat.",
+   "def_vi": "Loài chim nuôi ở trang trại lấy trứng và thịt.",
+   "gloss_vi": "con gà; thịt gà",
+   "synonyms": "hen <i>(n. gà mái)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chicken</i> (noun) = con gà; thịt gà. <b>Grammar</b>: con vật đếm được; thịt không đếm được (<i>some chicken</i>). <b>Note</b>: con non: <i>chick</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Chickens</b> give us eggs and meat (chicken).",
+    "vi": "<b>Gà</b> cho ta trứng và thịt (thịt gà)."
+   }
+  },
+  {
+   "word": "hen",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/hen/",
+   "def_en": "A female chicken.",
+   "def_vi": "Gà mái.",
+   "gloss_vi": "gà mái",
+   "synonyms": "chicken <i>(n. gà)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hen</i> (noun) = gà mái. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>lay eggs</i> (đẻ trứng).",
+   "ex_kit": true,
+   "example": {
+    "en": "Our <b>hens</b> lay eggs every day.",
+    "vi": "<b>Gà mái</b> của chúng tôi đẻ trứng mỗi ngày."
+   }
+  },
+  {
+   "word": "monkey",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmʌŋki/",
+   "def_en": "An animal with a long tail that climbs trees.",
+   "def_vi": "Con vật đuôi dài hay leo cây.",
+   "gloss_vi": "con khỉ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Monkey</i> (noun) = con khỉ. <b>Grammar</b>: số nhiều <i>monkeys</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>monkeys</b> at the zoo love bananas.",
+    "vi": "<b>Khỉ</b> ở vườn thú rất thích chuối."
+   }
+  },
+  {
+   "word": "giraffe",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dʒəˈrɑːf/",
+   "def_en": "A tall African animal with a very long neck.",
+   "def_vi": "Thú châu Phi cao, cổ rất dài.",
+   "gloss_vi": "hươu cao cổ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Giraffe</i> (noun) = hươu cao cổ. <b>Grammar</b>: đếm được; trọng âm âm 2.",
+   "ex_kit": true,
+   "example": {
+    "en": "A <b>giraffe</b> has a very long neck.",
+    "vi": "<b>Hươu cao cổ</b> có cái cổ rất dài."
+   }
+  },
+  {
+   "word": "tiger",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtaɪɡə(r)/",
+   "def_en": "A large wild cat with orange fur and black stripes.",
+   "def_vi": "Loài mèo hoang lớn lông cam sọc đen.",
+   "gloss_vi": "con hổ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tiger</i> (noun) = con hổ. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Tigers</b> live in Asia.",
+    "vi": "<b>Hổ</b> sống ở châu Á."
+   }
+  },
+  {
+   "word": "snake",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/sneɪk/",
+   "def_en": "A long animal with no legs.",
+   "def_vi": "Con vật dài không có chân.",
+   "gloss_vi": "con rắn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Snake</i> (noun) = con rắn. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "I’m afraid of <b>snakes</b>.",
+    "vi": "Tôi sợ <b>rắn</b>."
+   }
+  },
+  {
+   "word": "elephant",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈelɪfənt/",
+   "def_en": "A very large grey animal with a long nose.",
+   "def_vi": "Con vật rất to màu xám, vòi dài.",
+   "gloss_vi": "con voi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Elephant</i> (noun) = con voi. <b>Grammar</b>: dùng <i>an</i>: <i>an elephant</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>elephant</b> is the biggest land animal.",
+    "vi": "<b>Voi</b> là loài vật trên cạn to nhất."
+   }
+  },
+  {
+   "word": "lion",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlaɪən/",
+   "def_en": "A large wild cat that lives in Africa.",
+   "def_vi": "Loài mèo hoang lớn sống ở châu Phi.",
+   "gloss_vi": "sư tử",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lion</i> (noun) = sư tử. <b>Grammar</b>: đếm được; con cái: <i>lioness</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We heard the <b>lions</b> roar.",
+    "vi": "Chúng tôi nghe <b>sư tử</b> gầm."
+   }
+  },
+  {
+   "word": "pets",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/pets/",
+   "def_en": "Animals that you keep in your home.",
+   "def_vi": "Con vật nuôi trong nhà.",
+   "gloss_vi": "thú cưng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pets</i> (plural noun) = thú cưng. <b>Grammar</b>: số ít <i>a pet</i>. <b>Collocations / chunks</b>: <i>have a pet</i> (nuôi thú cưng).",
+   "example": {
+    "en": "These animals are often <b>pets</b>.",
+    "vi": "Bạn có nuôi <b>thú cưng</b> nào không?"
+   }
+  },
+  {
+   "word": "tortoise",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtɔːtəs/",
+   "def_en": "A slow animal with a hard shell that lives on land.",
+   "def_vi": "Con vật chậm chạp có mai cứng sống trên cạn.",
+   "gloss_vi": "rùa cạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tortoise</i> (noun) = rùa cạn. <b>Grammar</b>: đếm được; đọc /ˈtɔːtəs/. <b>Common mistakes</b>: rùa nước là <i>turtle</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Our <b>tortoise</b> is 40 years old.",
+    "vi": "<b>Con rùa</b> của chúng tôi đã 40 tuổi."
+   }
+  },
+  {
+   "word": "rabbit",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈræbɪt/",
+   "def_en": "A small animal with long ears.",
+   "def_vi": "Con vật nhỏ tai dài.",
+   "gloss_vi": "con thỏ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rabbit</i> (noun) = con thỏ. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Rabbits</b> love carrots.",
+    "vi": "<b>Thỏ</b> thích ăn cà rốt."
+   }
+  },
+  {
+   "word": "dog",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɒɡ/",
+   "def_en": "An animal often kept as a pet.",
+   "def_vi": "Con vật hay được nuôi làm thú cưng.",
+   "gloss_vi": "con chó",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dog</i> (noun) = con chó. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>take a dog for a walk</i> (dắt chó đi dạo).",
+   "example": {
+    "en": "Take your <b>dog</b> for a walk every day.",
+    "vi": "Dắt <b>chó</b> của bạn đi dạo mỗi ngày."
+   }
+  },
+  {
+   "word": "parrot",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpærət/",
+   "def_en": "A bird with bright feathers that can copy words.",
+   "def_vi": "Con chim lông sặc sỡ có thể nhại tiếng người.",
+   "gloss_vi": "con vẹt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Parrot</i> (noun) = con vẹt. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "A <b>parrot</b> is a bird.",
+    "vi": "<b>Vẹt</b> là một loài chim."
+   }
+  },
+  {
+   "word": "cat",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kæt/",
+   "def_en": "A small animal with soft fur, often kept as a pet.",
+   "def_vi": "Con vật nhỏ lông mềm, hay nuôi làm thú cưng.",
+   "gloss_vi": "con mèo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cat</i> (noun) = con mèo. <b>Grammar</b>: con non: <i>kitten</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "My <b>cat</b> sleeps all day.",
+    "vi": "<b>Con mèo</b> của tôi ngủ cả ngày."
+   }
+  },
+  {
+   "word": "bird",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bɜːd/",
+   "def_en": "An animal with feathers and wings.",
+   "def_vi": "Con vật có lông vũ và cánh.",
+   "gloss_vi": "con chim",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bird</i> (noun) = con chim. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "A parrot is a <b>bird</b>.",
+    "vi": "Vẹt là một loài <b>chim</b>."
+   }
+  },
+  {
+   "word": "take … for a walk",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌteɪk … fər ə ˈwɔːk/",
+   "def_en": "To walk with a dog or a person.",
+   "def_vi": "Dắt chó hay người đi dạo.",
+   "gloss_vi": "dắt đi dạo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take … for a walk</i> (verb phrase) = dắt đi dạo. <b>Grammar</b>: <i>take sb/sth for a walk</i>.",
+   "example": {
+    "en": "<b>Take</b> your dog <b>for a walk</b> every day.",
+    "vi": "<b>Dắt</b> chó <b>đi dạo</b> mỗi ngày."
+   }
+  },
+  {
+   "word": "feed",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/fiːd/",
+   "def_en": "To give food to a person or an animal.",
+   "def_vi": "Cho người hay con vật ăn.",
+   "gloss_vi": "cho ăn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Feed</i> (verb) = cho ăn. <b>Grammar</b>: quá khứ <i>fed</i>. <b>Collocations / chunks</b>: <i>feed the cat</i> (cho mèo ăn).",
+   "example": {
+    "en": "You must <b>feed</b> your animals and give them water every day.",
+    "vi": "Bạn phải <b>cho</b> vật nuôi <b>ăn</b> và cho chúng uống nước mỗi ngày."
+   }
+  }
+ ]
+}

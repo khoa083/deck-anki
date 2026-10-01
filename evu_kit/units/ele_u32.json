@@ -1,0 +1,513 @@
+{
+ "book": "ele",
+ "unit": 32,
+ "title_vi": "Đi lại",
+ "theory_html": "<p><b>A. Types of transport</b><br><i>A. Phương tiện giao thông</i></p> <ul><li><b>train, bus, bicycle / bike, taxi, car, helicopter, (aero)plane, motorbike / motorcycle, underground, boat, ship</b> – <i>tàu hỏa, xe buýt, xe đạp, taxi, ô tô, trực thăng, máy bay, xe máy, tàu điện ngầm, thuyền, tàu thủy</i></li></ul> <p><b>B. Useful travel words</b><br><i>B. Từ hữu ích khi đi lại</i></p> <p><b>map, timetable, customs, luggage, passport</b>; <b>a single / return (ticket)</b>; <b>book / reserve a seat in advance</b>. Say <b>Was the journey long?</b> (not <b>the travel</b>).</p><p><i><b>bản đồ, lịch tàu xe, hải quan, hành lý, hộ chiếu</b>; <b>vé một chiều / khứ hồi</b>; <b>đặt chỗ trước</b>. Nói <b>journey</b>, không nói <b>travel</b>.</i></p> <p><b>C. By train</b><br><i>C. Đi tàu</i></p> <p>A train <b>arrives at</b> / <b>departs (leaves) from</b> a platform; <b>restaurant car</b>; <b>change trains</b>; a <b>direct</b> train.</p><p><i>Tàu <b>đến</b> / <b>khởi hành từ</b> sân ga; <b>toa ăn</b>; <b>đổi tàu</b>; tàu <b>chạy thẳng</b>.</i></p> <p><b>D. By plane</b><br><i>D. Đi máy bay</i></p> <p><b>check in</b> (also <b>online check-in</b>) before the plane <b>takes off</b>; give your <b>boarding card</b> to the <b>flight attendant</b>; <b>Have a good flight</b>; the plane <b>lands</b>; <b>go through customs</b> (an officer <b>checks</b> your passport).</p><p><i><b>làm thủ tục</b> trước khi máy bay <b>cất cánh</b>; đưa <b>thẻ lên máy bay</b> cho <b>tiếp viên</b>; máy bay <b>hạ cánh</b>; <b>qua hải quan</b>.</i></p> <p><b>E. By car</b><br><i>E. Đi ô tô</i></p> <p><b>hire a car, fill it up with petrol, give someone a lift</b>.</p><p><i><b>thuê xe, đổ đầy xăng, cho ai đi nhờ</b>.</i></p>",
+ "items": [
+  {
+   "word": "bicycle",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbaɪsɪkl/",
+   "def_en": "A vehicle with two wheels that you ride by pushing pedals.",
+   "def_vi": "Xe hai bánh đạp bằng bàn đạp.",
+   "gloss_vi": "xe đạp",
+   "synonyms": "bike <i>(n. xe đạp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bicycle</i> (noun) = xe đạp. <b>Grammar</b>: nói tắt <i>bike</i>; <i>ride a bicycle</i> (đạp xe).",
+   "ex_kit": true,
+   "example": {
+    "en": "I go to work by <b>bicycle</b>.",
+    "vi": "Tôi đi làm bằng <b>xe đạp</b>."
+   }
+  },
+  {
+   "word": "taxi",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtæksi/",
+   "def_en": "A car with a driver that you pay to take you somewhere.",
+   "def_vi": "Ô tô có tài xế, trả tiền để chở đi.",
+   "gloss_vi": "taxi",
+   "synonyms": "cab <i>(n. taxi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Taxi</i> (noun) = taxi. <b>Grammar</b>: <i>take a taxi</i> (đi taxi).",
+   "ex_kit": true,
+   "example": {
+    "en": "We took a <b>taxi</b> to the airport.",
+    "vi": "Chúng tôi bắt <b>taxi</b> ra sân bay."
+   }
+  },
+  {
+   "word": "helicopter",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhelɪkɒptə(r)/",
+   "def_en": "An aircraft with long blades that go round on top.",
+   "def_vi": "Máy bay có cánh quạt quay trên nóc.",
+   "gloss_vi": "trực thăng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Helicopter</i> (noun) = trực thăng. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "A <b>helicopter</b> took the injured man to hospital.",
+    "vi": "<b>Trực thăng</b> chở người bị thương đến bệnh viện."
+   }
+  },
+  {
+   "word": "plane",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pleɪn/",
+   "def_en": "A vehicle with wings that flies.",
+   "def_vi": "Phương tiện có cánh bay được.",
+   "gloss_vi": "máy bay",
+   "synonyms": "aeroplane <i>(n. máy bay)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Plane</i> (noun) = máy bay. <b>Grammar</b>: dạng đầy đủ <i>aeroplane</i> (Anh–Anh).",
+   "example": {
+    "en": "The <b>plane</b> lands in New York at 14:30.",
+    "vi": "Máy bay <b>hạ cánh</b> ở New York lúc 14:30."
+   }
+  },
+  {
+   "word": "motorbike",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈməʊtəbaɪk/",
+   "def_en": "A vehicle with two wheels and an engine.",
+   "def_vi": "Xe hai bánh có động cơ.",
+   "gloss_vi": "xe máy",
+   "synonyms": "motorcycle <i>(n. xe mô tô)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Motorbike</i> (noun) = xe máy. <b>Grammar</b>: <i>ride a motorbike</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "My brother rides a <b>motorbike</b> to work.",
+    "vi": "Anh trai tôi đi <b>xe máy</b> đi làm."
+   }
+  },
+  {
+   "word": "underground",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈʌndəɡraʊnd/",
+   "def_en": "A railway system under the ground in a city.",
+   "def_vi": "Hệ thống tàu chạy dưới lòng đất trong thành phố.",
+   "gloss_vi": "tàu điện ngầm",
+   "synonyms": "subway <i>(n. tàu điện ngầm (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Underground</i> (noun) = tàu điện ngầm. <b>Grammar</b>: Anh–Anh <i>the underground</i> (London: <i>the Tube</i>).",
+   "ex_kit": true,
+   "example": {
+    "en": "The quickest way round London is by <b>underground</b>.",
+    "vi": "Ở London đi <b>tàu điện ngầm</b> là nhanh nhất."
+   }
+  },
+  {
+   "word": "boat",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bəʊt/",
+   "def_en": "A small vehicle for travelling on water.",
+   "def_vi": "Phương tiện nhỏ đi trên nước.",
+   "gloss_vi": "thuyền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "ship <i>(n. tàu thủy)</i>",
+   "grammar_vi": "<i>Boat</i> (noun) = thuyền. <b>Grammar</b>: <i>by boat</i>. <b>Common mistakes</b>: <i>boat</i> nhỏ hơn <i>ship</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We crossed the river by <b>boat</b>.",
+    "vi": "Chúng tôi đi <b>thuyền</b> qua sông."
+   }
+  },
+  {
+   "word": "ship",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ʃɪp/",
+   "def_en": "A large boat for carrying people or goods across the sea.",
+   "def_vi": "Tàu lớn chở người, hàng qua biển.",
+   "gloss_vi": "tàu thủy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "boat <i>(n. thuyền)</i>",
+   "grammar_vi": "<i>Ship</i> (noun) = tàu thủy. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>ship</b> sailed from Southampton to New York.",
+    "vi": "<b>Tàu thủy</b> đi từ Southampton đến New York."
+   }
+  },
+  {
+   "word": "map",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/mæp/",
+   "def_en": "A drawing of an area showing roads, towns and rivers.",
+   "def_vi": "Hình vẽ khu vực có đường, thị trấn, sông.",
+   "gloss_vi": "bản đồ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Map</i> (noun) = bản đồ. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>on the map</i> (trên bản đồ).",
+   "ex_kit": true,
+   "example": {
+    "en": "Look at the <b>map</b> to find the way.",
+    "vi": "Nhìn <b>bản đồ</b> để tìm đường."
+   }
+  },
+  {
+   "word": "timetable",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtaɪmteɪbl/",
+   "def_en": "A list of the times when trains or buses leave and arrive.",
+   "def_vi": "Bảng giờ tàu xe đi và đến.",
+   "gloss_vi": "lịch tàu xe, thời gian biểu",
+   "synonyms": "schedule <i>(n. lịch trình)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Timetable</i> (noun) = lịch tàu xe, thời gian biểu. <b>Grammar</b>: đếm được; Anh–Anh.",
+   "ex_kit": true,
+   "example": {
+    "en": "Check the train <b>timetable</b> before you go.",
+    "vi": "Kiểm tra <b>lịch tàu</b> trước khi đi."
+   }
+  },
+  {
+   "word": "customs",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈkʌstəmz/",
+   "def_en": "The place at a border where officers check what you bring into a country.",
+   "def_vi": "Nơi ở biên giới kiểm tra đồ mang vào.",
+   "gloss_vi": "hải quan",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Customs</i> (plural noun) = hải quan. <b>Grammar</b>: luôn số nhiều; <i>go through customs</i> (qua hải quan).",
+   "example": {
+    "en": "After landing you have to <b>go through customs</b>.",
+    "vi": "Sau khi hạ cánh bạn phải <b>qua hải quan</b>."
+   }
+  },
+  {
+   "word": "single",
+   "sense": "ticket",
+   "pos": "noun",
+   "ipa": "/ˈsɪŋɡl/",
+   "def_en": "A ticket for a journey to a place but not back again.",
+   "def_vi": "Vé đi một chiều.",
+   "gloss_vi": "vé một chiều",
+   "synonyms": "one-way ticket <i>(np. vé một chiều (Mỹ))</i>",
+   "antonyms": "return <i>(n. vé khứ hồi)</i>",
+   "grammar_vi": "<i>Single</i> (noun) = vé một chiều. <b>Grammar</b>: Anh–Anh; = <i>single ticket</i>. <b>Note</b>: khác tính từ <i>single</i> (độc thân, bài 2).",
+   "example": {
+    "en": "Can I have a <b>single</b> / return (ticket) to Barcelona, please?",
+    "vi": "Cho tôi một <b>vé một chiều</b> / khứ hồi đến Barcelona."
+   }
+  },
+  {
+   "word": "return",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˈtɜːn/",
+   "def_en": "A ticket for a journey to a place and back again.",
+   "def_vi": "Vé đi và về.",
+   "gloss_vi": "vé khứ hồi",
+   "synonyms": "round-trip ticket <i>(np. vé khứ hồi (Mỹ))</i>",
+   "antonyms": "single <i>(n. vé một chiều)</i>",
+   "grammar_vi": "<i>Return</i> (noun) = vé khứ hồi. <b>Grammar</b>: Anh–Anh; = <i>return ticket</i>.",
+   "example": {
+    "en": "Can I have a single / <b>return</b> (ticket) to Barcelona, please?",
+    "vi": "Cho tôi một vé một chiều / <b>khứ hồi</b> đến Barcelona."
+   }
+  },
+  {
+   "word": "book",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/bʊk/",
+   "def_en": "To arrange to have a seat, room or ticket in the future.",
+   "def_vi": "Đặt trước chỗ ngồi, phòng, vé.",
+   "gloss_vi": "đặt (chỗ)",
+   "synonyms": "reserve <i>(v. đặt trước)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Book</i> (verb) = đặt (chỗ). <b>Grammar</b>: <i>book a seat/room/ticket</i>. <b>Word family</b>: <i>booking</i> (n.).",
+   "example": {
+    "en": "I’d like to <b>book</b> / reserve a seat in advance.",
+    "vi": "Tôi muốn <b>đặt</b> chỗ trước."
+   }
+  },
+  {
+   "word": "in advance",
+   "sense": "",
+   "pos": "prepositional phrase",
+   "ipa": "/ɪn ədˈvɑːns/",
+   "def_en": "Before the time when something happens.",
+   "def_vi": "Trước thời điểm diễn ra.",
+   "gloss_vi": "trước (thời hạn)",
+   "synonyms": "beforehand <i>(adv. trước)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In advance</i> (prepositional phrase) = trước (thời hạn). <b>Grammar</b>: đứng cuối câu: <i>book in advance</i>.",
+   "example": {
+    "en": "I’d like to book / reserve a seat <b>in advance</b>.",
+    "vi": "Tôi muốn đặt chỗ <b>trước</b>."
+   }
+  },
+  {
+   "word": "journey",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdʒɜːni/",
+   "def_en": "The act of travelling from one place to another.",
+   "def_vi": "Việc đi từ nơi này đến nơi khác.",
+   "gloss_vi": "chuyến đi, hành trình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Journey</i> (noun) = chuyến đi, hành trình. <b>Grammar</b>: đếm được: <i>a long journey</i>. <b>Common mistakes</b>: không nói <i>Was the travel long?</i>.",
+   "example": {
+    "en": "Was the <b>journey</b> long? [NOT Was the travel long?]",
+    "vi": "<b>Chuyến đi</b> có dài không?"
+   }
+  },
+  {
+   "word": "arrive at",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/əˈraɪv ət/",
+   "def_en": "To reach a place, such as a station or platform.",
+   "def_vi": "Đến một nơi như ga, sân ga.",
+   "gloss_vi": "đến (nơi)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "depart from <i>(vp. khởi hành từ)</i>",
+   "grammar_vi": "<i>Arrive at</i> (verb phrase) = đến (nơi). <b>Grammar</b>: <i>arrive at</i> + địa điểm nhỏ; <i>arrive in</i> + thành phố/nước.",
+   "example": {
+    "en": "The train <b>arriving at</b> platform 3 is the 16:50 train to Paris.",
+    "vi": "Chuyến tàu <b>đến</b> sân ga số 3 là chuyến 16:50 đi Paris."
+   }
+  },
+  {
+   "word": "depart",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪˈpɑːt/",
+   "def_en": "To leave a place (formal).",
+   "def_vi": "Rời đi (trang trọng).",
+   "gloss_vi": "khởi hành",
+   "synonyms": "leave <i>(v. rời đi)</i>",
+   "antonyms": "arrive <i>(v. đến)</i>",
+   "grammar_vi": "<i>Depart</i> (verb) = khởi hành. <b>Grammar</b>: <i>depart from</i>; trang trọng hơn <i>leave</i>. <b>Word family</b>: <i>departure</i> (n.).",
+   "example": {
+    "en": "The Edinburgh train <b>departs</b> / leaves from platform 6.",
+    "vi": "Tàu đi Edinburgh <b>khởi hành</b> từ sân ga số 6."
+   }
+  },
+  {
+   "word": "restaurant car",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈrestrɒnt kɑː(r)/",
+   "def_en": "A part of a train where you can buy and eat meals.",
+   "def_vi": "Toa tàu bán và phục vụ bữa ăn.",
+   "gloss_vi": "toa ăn",
+   "synonyms": "buffet car <i>(np. toa ăn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Restaurant car</i> (noun phrase) = toa ăn. <b>Grammar</b>: danh từ ghép.",
+   "example": {
+    "en": "Is there a <b>restaurant car</b> on this train?",
+    "vi": "Trên tàu này có <b>toa ăn</b> không?"
+   }
+  },
+  {
+   "word": "change trains",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌtʃeɪndʒ ˈtreɪnz/",
+   "def_en": "To get off one train and get onto another.",
+   "def_vi": "Xuống tàu này lên tàu khác.",
+   "gloss_vi": "đổi tàu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Change trains</i> (verb phrase) = đổi tàu. <b>Grammar</b>: <i>trains</i> số nhiều. <b>Collocations / chunks</b>: <i>change trains at</i> + ga.",
+   "example": {
+    "en": "A: Do I have to <b>change trains</b> for Toulouse? [get off one train and get onto another]",
+    "vi": "Tôi có phải <b>đổi tàu</b> để đi Toulouse không?"
+   }
+  },
+  {
+   "word": "direct",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dəˈrekt/",
+   "def_en": "Going straight to a place without stopping or changing.",
+   "def_vi": "Đi thẳng không dừng hay đổi tàu.",
+   "gloss_vi": "thẳng, trực tiếp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Direct</i> (adjective) = thẳng, trực tiếp. <b>Grammar</b>: <i>a direct train/flight</i>.",
+   "example": {
+    "en": "B: No, it’s a <b>direct</b> train.",
+    "vi": "Không, đó là chuyến tàu <b>chạy thẳng</b>."
+   }
+  },
+  {
+   "word": "check in",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌtʃek ˈɪn/",
+   "def_en": "To show your ticket at an airport before a flight.",
+   "def_vi": "Làm thủ tục ở sân bay trước chuyến bay.",
+   "gloss_vi": "làm thủ tục",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Check in</i> (phrasal verb) = làm thủ tục. <b>Grammar</b>: nội động từ; <i>check in online</i> (làm thủ tục trực tuyến). <b>Word family</b>: <i>check-in</i> (n.).",
+   "example": {
+    "en": "You have to <b>check in</b> two hours before the plane takes off [leaves the ground].",
+    "vi": "Bạn phải <b>làm thủ tục</b> hai tiếng trước khi máy bay cất cánh."
+   }
+  },
+  {
+   "word": "take off",
+   "sense": "plane",
+   "pos": "phrasal verb",
+   "ipa": "/ˌteɪk ˈɒf/",
+   "def_en": "When a plane leaves the ground.",
+   "def_vi": "Khi máy bay rời mặt đất.",
+   "gloss_vi": "cất cánh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "land <i>(v. hạ cánh)</i>",
+   "grammar_vi": "<i>Take off</i> (phrasal verb) = cất cánh. <b>Grammar</b>: nội động từ. <b>Note</b>: khác <i>take off</i> = cởi đồ (bài 4).",
+   "example": {
+    "en": "You have to check in two hours before the plane <b>takes off</b> [leaves the ground].",
+    "vi": "Bạn phải làm thủ tục hai tiếng trước khi máy bay <b>cất cánh</b>."
+   }
+  },
+  {
+   "word": "boarding card",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈbɔːdɪŋ kɑːd/",
+   "def_en": "A card you show to get onto a plane.",
+   "def_vi": "Thẻ xuất trình để lên máy bay.",
+   "gloss_vi": "thẻ lên máy bay",
+   "synonyms": "boarding pass <i>(np. thẻ lên máy bay)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Boarding card</i> (noun phrase) = thẻ lên máy bay. <b>Grammar</b>: danh từ ghép.",
+   "example": {
+    "en": "Give your <b>boarding card</b> to the flight attendant when you get on the plane.",
+    "vi": "Đưa <b>thẻ lên máy bay</b> cho tiếp viên khi bạn lên máy bay."
+   }
+  },
+  {
+   "word": "flight attendant",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈflaɪt ətendənt/",
+   "def_en": "A person who looks after passengers on a plane.",
+   "def_vi": "Người phục vụ hành khách trên máy bay.",
+   "gloss_vi": "tiếp viên hàng không",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flight attendant</i> (noun phrase) = tiếp viên hàng không. <b>Grammar</b>: danh từ ghép.",
+   "example": {
+    "en": "Give your boarding card to the <b>flight attendant</b> when you get on the plane.",
+    "vi": "Đưa thẻ lên máy bay cho <b>tiếp viên</b> khi bạn lên máy bay."
+   }
+  },
+  {
+   "word": "Have a good flight",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌhæv ə ˌɡʊd ˈflaɪt/",
+   "def_en": "Said to someone who is going to travel by plane.",
+   "def_vi": "Lời chúc người sắp bay.",
+   "gloss_vi": "chúc bay thuận lợi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have a good flight</i> (phrase) = chúc bay thuận lợi. <b>Grammar</b>: câu chúc cố định.",
+   "example": {
+    "en": "<b>Have a good flight</b>.",
+    "vi": "<b>Chúc bạn bay thuận lợi</b>."
+   }
+  },
+  {
+   "word": "land",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/lænd/",
+   "def_en": "When a plane comes down to the ground.",
+   "def_vi": "Khi máy bay đáp xuống đất.",
+   "gloss_vi": "hạ cánh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "take off <i>(pv. cất cánh)</i>",
+   "grammar_vi": "<i>Land</i> (verb) = hạ cánh. <b>Grammar</b>: nội động từ. <b>Word family</b>: <i>landing</i> (n.).",
+   "example": {
+    "en": "The plane <b>lands</b> in New York at 14:30. my passport].",
+    "vi": "Máy bay <b>hạ cánh</b> ở New York lúc 14:30."
+   }
+  },
+  {
+   "word": "check",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/tʃek/",
+   "def_en": "To look at something to make sure it is correct.",
+   "def_vi": "Xem xét để chắc chắn là đúng.",
+   "gloss_vi": "kiểm tra",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Check</i> (verb) = kiểm tra. <b>Grammar</b>: <i>check sb’s passport</i>. <b>Common mistakes</b>: không nói <i>control my passport</i>.",
+   "example": {
+    "en": "I went through customs but nobody <b>checked</b> my passport.",
+    "vi": "Tôi đi qua hải quan nhưng không ai <b>kiểm tra</b> hộ chiếu của tôi."
+   }
+  },
+  {
+   "word": "hire a car",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌhaɪər ə ˈkɑː(r)/",
+   "def_en": "To pay to use a car for a short time.",
+   "def_vi": "Trả tiền để dùng xe một thời gian.",
+   "gloss_vi": "thuê xe",
+   "synonyms": "rent a car <i>(vp. thuê xe (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hire a car</i> (verb phrase) = thuê xe. <b>Grammar</b>: Anh–Anh <i>hire</i>, Mỹ <i>rent</i>.",
+   "example": {
+    "en": "We <b>hired a car</b> for a week.",
+    "vi": "Chúng tôi <b>thuê một chiếc xe</b> trong một tuần."
+   }
+  },
+  {
+   "word": "fill up with petrol",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌfɪl ʌp wɪð ˈpetrəl/",
+   "def_en": "To put petrol in a car until it is full.",
+   "def_vi": "Đổ xăng đến khi đầy bình.",
+   "gloss_vi": "đổ đầy xăng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fill up with petrol</i> (verb phrase) = đổ đầy xăng. <b>Grammar</b>: tách được: <i>fill it up</i>. <b>Note</b>: Mỹ dùng <i>gas</i>.",
+   "example": {
+    "en": "We had to <b>fill</b> it <b>up with petrol</b>.",
+    "vi": "Chúng tôi phải <b>đổ đầy xăng</b>."
+   }
+  },
+  {
+   "word": "give … a lift",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡɪv … ə ˈlɪft/",
+   "def_en": "To take someone somewhere in your car.",
+   "def_vi": "Chở ai đó đi bằng xe của mình.",
+   "gloss_vi": "cho đi nhờ",
+   "synonyms": "give a ride <i>(vp. cho đi nhờ (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Give … a lift</i> (verb phrase) = cho đi nhờ. <b>Grammar</b>: <i>give sb a lift</i> (Anh–Anh). <b>Note</b>: <i>lift</i> còn là thang máy.",
+   "example": {
+    "en": "Can I <b>give</b> you <b>a lift</b>? I’m going into town.",
+    "vi": "Tôi <b>cho</b> bạn <b>đi nhờ</b> nhé? Tôi đang vào thị trấn."
+   }
+  }
+ ]
+}
