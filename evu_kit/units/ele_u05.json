@@ -1,0 +1,489 @@
+{
+ "book": "ele",
+ "unit": 5,
+ "title_vi": "Miêu tả người",
+ "theory_html": "<p><b>A. Height and weight</b><br><i>A. Chiều cao và cân nặng</i></p> <p>People can be <b>tall</b>, <b>short</b> or of <b>medium height</b>; <b>slim</b> (polite) or <b>thin</b>; <b>overweight</b> (weigh too much) or <b>fat</b>.</p><p><i>Người có thể <b>cao</b>, <b>thấp</b> hoặc <b>tầm thước</b>; <b>mảnh mai</b> (lịch sự) hay <b>gầy</b>; <b>thừa cân</b> hay <b>béo</b>.</i></p> <p><b>B. Face and head</b><br><i>B. Khuôn mặt và đầu</i></p> <p>Describe skin, hair and eyes: <b>dark / fair skin</b>, <b>dark / blonde (fair) / long / short hair</b>, <b>brown / blue / green eyes</b>, a <b>beard</b>, a <b>moustache</b>. You can also use <b>has got</b>. Looks: <b>beautiful, pretty</b> (usually girls/women), <b>good-looking, ugly, average-looking</b>. Common mistakes: people are <b>tall</b> (not <b>high</b>); <b>hair</b> (not <b>hairs</b>).</p><p><i>Tả da, tóc, mắt: da <b>ngăm / trắng</b>, tóc <b>sẫm / vàng / dài / ngắn</b>, mắt <b>nâu / xanh dương / xanh lá</b>, <b>râu quai nón</b>, <b>ria mép</b>. Ngoại hình: <b>đẹp, xinh, ưa nhìn, xấu, bình thường</b>. Lỗi: người <b>tall</b> (không <b>high</b>); <b>hair</b> không thêm <b>s</b>.</i></p> <p><b>C. Age</b><br><i>C. Tuổi tác</i></p> <p><b>old, young, older, younger, middle-aged</b>; <b>elderly</b> is more polite than <b>old</b>.</p><p><i><b>già, trẻ, già hơn, trẻ hơn, trung niên</b>; <b>elderly</b> lịch sự hơn <b>old</b>.</i></p> <p><b>D. Expressions</b><br><i>D. Câu hỏi thường dùng</i></p> <p><b>How tall is…? How heavy are you? / How much do you weigh? How old is he? What does she look like?</b> Tip: <b>fat / thin / ugly / old</b> can sound negative – don’t say them to someone.</p><p><i>Các câu hỏi về chiều cao, cân nặng, tuổi, ngoại hình. Mẹo: <b>fat / thin / ugly / old</b> nghe tiêu cực – đừng nói thẳng với ai.</i></p>",
+ "items": [
+  {
+   "word": "tall",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/tɔːl/",
+   "def_en": "Higher than most people.",
+   "def_vi": "Cao hơn đa số người.",
+   "gloss_vi": "cao",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "short <i>(adj. thấp)</i>",
+   "grammar_vi": "<i>Tall</i> (adjective) = cao. <b>Grammar</b>: dùng cho người; <i>How tall…?</i> (cao bao nhiêu?), <i>1.85 metres tall</i>. <b>Common mistakes</b>: người dùng <i>tall</i>, không dùng <i>high</i>.",
+   "example": {
+    "en": "Height and weight Bettina Schwenke is a very <b>tall</b> woman.",
+    "vi": "Bettina Schwenke là một phụ nữ rất <b>cao</b>."
+   }
+  },
+  {
+   "word": "short",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ʃɔːt/",
+   "def_en": "Not as tall as most people.",
+   "def_vi": "Không cao bằng đa số người.",
+   "gloss_vi": "thấp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "tall <i>(adj. cao)</i>",
+   "grammar_vi": "<i>Short</i> (adjective) = thấp. <b>Grammar</b>: dùng sau <i>be</i> hoặc trước danh từ: <i>a short man</i>. <b>Collocations / chunks</b>: <i>quite short</i> (khá thấp). <b>Common mistakes</b>: cũng có nghĩa ngắn (<i>short hair</i>).",
+   "example": {
+    "en": "Tom Jakes is quite <b>short</b>.",
+    "vi": "Tom Jakes khá <b>thấp</b>."
+   }
+  },
+  {
+   "word": "medium height",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌmiːdiəm ˈhaɪt/",
+   "def_en": "Neither tall nor short.",
+   "def_vi": "Không cao cũng không thấp.",
+   "gloss_vi": "tầm thước, cao trung bình",
+   "synonyms": "average height <i>(np. chiều cao trung bình)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Medium height</i> (noun phrase) = tầm thước, cao trung bình. <b>Grammar</b>: <i>be of medium height</i> (có chiều cao trung bình). <b>Common mistakes</b>: <i>height</i> đọc /haɪt/.",
+   "example": {
+    "en": "If you aren’t tall or short, you are of <b>medium height</b>.",
+    "vi": "Nếu bạn không cao cũng không thấp, bạn có <b>chiều cao trung bình</b>."
+   }
+  },
+  {
+   "word": "slim",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/slɪm/",
+   "def_en": "Thin in an attractive way.",
+   "def_vi": "Gầy một cách ưa nhìn.",
+   "gloss_vi": "mảnh mai, thon thả",
+   "synonyms": "slender <i>(adj. thon thả)</i>",
+   "antonyms": "fat <i>(adj. béo)</i>",
+   "grammar_vi": "<i>Slim</i> (adjective) = mảnh mai, thon thả. <b>Grammar</b>: lịch sự hơn <i>thin</i>. <b>Collocations / chunks</b>: <i>really slim</i> (rất mảnh mai).",
+   "example": {
+    "en": "Agata Sanchez is really <b>slim</b>.",
+    "vi": "Agata Sanchez thật <b>mảnh mai</b>."
+   }
+  },
+  {
+   "word": "thin",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/θɪn/",
+   "def_en": "Having very little fat on your body.",
+   "def_vi": "Có rất ít mỡ trên người.",
+   "gloss_vi": "gầy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "fat <i>(adj. béo)</i>",
+   "grammar_vi": "<i>Thin</i> (adjective) = gầy. <b>Grammar</b>: kém lịch sự hơn <i>slim</i>. <b>Collocations / chunks</b>: <i>very thin</i> (rất gầy).",
+   "example": {
+    "en": "I was very <b>thin</b> when I was in hospital.",
+    "vi": "Tôi rất <b>gầy</b> khi nằm viện."
+   }
+  },
+  {
+   "word": "overweight",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌəʊvəˈweɪt/",
+   "def_en": "Weighing too much.",
+   "def_vi": "Nặng cân quá mức.",
+   "gloss_vi": "thừa cân",
+   "synonyms": "heavy <i>(adj. nặng)</i>",
+   "antonyms": "underweight <i>(adj. thiếu cân)</i>",
+   "grammar_vi": "<i>Overweight</i> (adjective) = thừa cân. <b>Grammar</b>: dùng sau <i>be</i>: <i>I am overweight</i>. <b>Collocations / chunks</b>: <i>a bit overweight</i> (hơi thừa cân).",
+   "example": {
+    "en": "The doctor said I am <b>overweight</b>. [weigh too much]",
+    "vi": "Bác sĩ nói tôi <b>thừa cân</b>."
+   }
+  },
+  {
+   "word": "fat",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/fæt/",
+   "def_en": "Having too much flesh on your body.",
+   "def_vi": "Có quá nhiều thịt trên người.",
+   "gloss_vi": "béo, mập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "thin <i>(adj. gầy)</i>",
+   "grammar_vi": "<i>Fat</i> (adjective) = béo, mập. <b>Grammar</b>: so sánh <i>fatter, fattest</i>. <b>Collocations / chunks</b>: <i>go on a diet</i> (ăn kiêng). <b>Common mistakes</b>: nói với người thì bất lịch sự.",
+   "example": {
+    "en": "Their cat is very <b>fat</b>.",
+    "vi": "Con mèo nhà họ rất <b>béo</b>."
+   }
+  },
+  {
+   "word": "dark skin",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌdɑːk ˈskɪn/",
+   "def_en": "Skin that is brown or black in colour.",
+   "def_vi": "Da màu nâu hoặc đen.",
+   "gloss_vi": "da ngăm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "fair skin <i>(np. da trắng)</i>",
+   "grammar_vi": "<i>Dark skin</i> (noun phrase) = da ngăm. <b>Grammar</b>: <i>have dark skin</i>; không dùng <i>a</i>. <b>Collocations / chunks</b>: <i>dark-skinned</i> (adj. da ngăm).",
+   "example": {
+    "en": "Suri has <b>dark skin</b> and dark hair.",
+    "vi": "Suri có <b>da ngăm</b> và tóc sẫm màu."
+   }
+  },
+  {
+   "word": "dark hair",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌdɑːk ˈheə(r)/",
+   "def_en": "Hair that is black or dark brown.",
+   "def_vi": "Tóc màu đen hoặc nâu sẫm.",
+   "gloss_vi": "tóc sẫm màu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "blonde hair <i>(np. tóc vàng)</i>",
+   "grammar_vi": "<i>Dark hair</i> (noun phrase) = tóc sẫm màu. <b>Grammar</b>: <i>hair</i> không đếm được: <i>has dark hair</i> (không nói <i>hairs</i>).",
+   "example": {
+    "en": "Suri has dark skin and <b>dark hair</b>.",
+    "vi": "Suri có da ngăm và <b>tóc sẫm màu</b>."
+   }
+  },
+  {
+   "word": "brown",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/braʊn/",
+   "def_en": "Having the colour of earth or coffee.",
+   "def_vi": "Có màu của đất hay cà phê.",
+   "gloss_vi": "nâu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Brown</i> (adjective) = nâu. <b>Grammar</b>: <i>brown eyes</i> (mắt nâu), <i>brown hair</i> (tóc nâu).",
+   "example": {
+    "en": "She has <b>brown</b> eyes.",
+    "vi": "Cô ấy có đôi mắt <b>nâu</b>."
+   }
+  },
+  {
+   "word": "blonde",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/blɒnd/",
+   "def_en": "Having pale yellow hair.",
+   "def_vi": "Có tóc màu vàng nhạt.",
+   "gloss_vi": "vàng (tóc)",
+   "synonyms": "fair <i>(adj. vàng hoe)</i>",
+   "antonyms": "dark <i>(adj. sẫm)</i>",
+   "grammar_vi": "<i>Blonde</i> (adjective) = vàng (tóc). <b>Grammar</b>: <i>blonde hair</i>; cũng viết <i>blond</i> (thường cho nam). <b>Collocations / chunks</b>: <i>long blonde hair</i> (tóc vàng dài).",
+   "example": {
+    "en": "Polly has <b>blonde</b> (or fair) hair and fair skin.",
+    "vi": "Polly có tóc <b>vàng</b> (hay tóc vàng nhạt) và da trắng."
+   }
+  },
+  {
+   "word": "fair",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/feə(r)/",
+   "def_en": "Pale or light in colour (used about hair or skin).",
+   "def_vi": "Màu nhạt, sáng (dùng cho tóc hoặc da).",
+   "gloss_vi": "(tóc) vàng nhạt, (da) trắng",
+   "synonyms": "light <i>(adj. sáng)</i>",
+   "antonyms": "dark <i>(adj. sẫm)</i>",
+   "grammar_vi": "<i>Fair</i> (adjective) = (tóc) vàng nhạt, (da) trắng. <b>Grammar</b>: <i>fair hair, fair skin</i>. <b>Common mistakes</b>: <i>fair</i> còn nghĩa công bằng.",
+   "example": {
+    "en": "Polly has blonde (or <b>fair</b>) hair and fair skin.",
+    "vi": "Polly có tóc vàng (hay <b>vàng nhạt</b>) và da trắng."
+   }
+  },
+  {
+   "word": "blue",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/bluː/",
+   "def_en": "Having the colour of a clear sky.",
+   "def_vi": "Có màu của bầu trời trong.",
+   "gloss_vi": "xanh dương",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Blue</i> (adjective) = xanh dương. <b>Grammar</b>: <i>blue eyes</i> (mắt xanh).",
+   "example": {
+    "en": "She has <b>blue</b> eyes.",
+    "vi": "Cô ấy có đôi mắt <b>xanh</b>."
+   }
+  },
+  {
+   "word": "beard",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bɪəd/",
+   "def_en": "Hair that grows on a man’s chin and cheeks.",
+   "def_vi": "Râu mọc ở cằm và má đàn ông.",
+   "gloss_vi": "râu quai nón",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Beard</i> (noun) = râu quai nón. <b>Grammar</b>: <i>have/grow a beard</i> (để râu). <b>Common mistakes</b>: khác <i>moustache</i> (ria mép).",
+   "example": {
+    "en": "Ben has a <b>beard</b> and long hair.",
+    "vi": "Ben có <b>râu quai nón</b> và tóc dài."
+   }
+  },
+  {
+   "word": "long hair",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌlɒŋ ˈheə(r)/",
+   "def_en": "Hair that grows a long way down from the head.",
+   "def_vi": "Tóc dài.",
+   "gloss_vi": "tóc dài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "short hair <i>(np. tóc ngắn)</i>",
+   "grammar_vi": "<i>Long hair</i> (noun phrase) = tóc dài. <b>Grammar</b>: <i>have long hair</i> (không nói <i>long hairs</i>).",
+   "example": {
+    "en": "Ben has a beard and <b>long hair</b>.",
+    "vi": "Ben có râu quai nón và <b>tóc dài</b>."
+   }
+  },
+  {
+   "word": "green",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɡriːn/",
+   "def_en": "Having the colour of grass.",
+   "def_vi": "Có màu của cỏ.",
+   "gloss_vi": "xanh lá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Green</i> (adjective) = xanh lá. <b>Grammar</b>: <i>green eyes</i> (mắt xanh lá).",
+   "example": {
+    "en": "He has <b>green</b> eyes.",
+    "vi": "Anh ấy có đôi mắt <b>xanh lá</b>."
+   }
+  },
+  {
+   "word": "moustache",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/məˈstɑːʃ/",
+   "def_en": "Hair that grows above a man’s top lip.",
+   "def_vi": "Lông mọc phía trên môi trên đàn ông.",
+   "gloss_vi": "ria mép",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Moustache</i> (noun) = ria mép. <b>Grammar</b>: đếm được; Anh–Mỹ viết <i>mustache</i>. <b>Common mistakes</b>: đọc /məˈstɑːʃ/.",
+   "example": {
+    "en": "Luca has a <b>moustache</b> and short hair.",
+    "vi": "Luca có <b>ria mép</b> và tóc ngắn."
+   }
+  },
+  {
+   "word": "short hair",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌʃɔːt ˈheə(r)/",
+   "def_en": "Hair that is not long.",
+   "def_vi": "Tóc không dài.",
+   "gloss_vi": "tóc ngắn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "long hair <i>(np. tóc dài)</i>",
+   "grammar_vi": "<i>Short hair</i> (noun phrase) = tóc ngắn. <b>Grammar</b>: <i>have short hair</i>.",
+   "example": {
+    "en": "Luca has a moustache and <b>short hair</b>.",
+    "vi": "Luca có ria mép và <b>tóc ngắn</b>."
+   }
+  },
+  {
+   "word": "beautiful",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈbjuːtɪfl/",
+   "def_en": "Very attractive to look at.",
+   "def_vi": "Rất đẹp.",
+   "gloss_vi": "đẹp",
+   "synonyms": "pretty <i>(adj. xinh)</i>",
+   "antonyms": "ugly <i>(adj. xấu)</i>",
+   "grammar_vi": "<i>Beautiful</i> (adjective) = đẹp. <b>Grammar</b>: so sánh <i>more/most beautiful</i>. <b>Collocations / chunks</b>: <i>a beautiful woman</i> (người phụ nữ đẹp). <b>Word family</b>: <i>beauty</i> (n.).",
+   "example": {
+    "en": "My mother is a very <b>beautiful</b> woman. [very pretty]",
+    "vi": "Mẹ tôi là một phụ nữ rất <b>đẹp</b>."
+   }
+  },
+  {
+   "word": "good-looking",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɡʊd ˈlʊkɪŋ/",
+   "def_en": "Attractive to look at.",
+   "def_vi": "Ưa nhìn, đẹp.",
+   "gloss_vi": "ưa nhìn, đẹp trai",
+   "synonyms": "handsome <i>(adj. đẹp trai)</i>",
+   "antonyms": "ugly <i>(adj. xấu)</i>",
+   "grammar_vi": "<i>Good-looking</i> (adjective) = ưa nhìn, đẹp trai. <b>Grammar</b>: dùng cho cả nam và nữ; so sánh <i>better-looking</i>.",
+   "example": {
+    "en": "My dad’s a very <b>good-looking</b> man.",
+    "vi": "Bố tôi là một người đàn ông rất <b>ưa nhìn</b>."
+   }
+  },
+  {
+   "word": "pretty",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈprɪti/",
+   "def_en": "Nice to look at (usually about girls or women).",
+   "def_vi": "Dễ nhìn, xinh (thường nói về con gái, phụ nữ).",
+   "gloss_vi": "xinh",
+   "synonyms": "beautiful <i>(adj. đẹp)</i>",
+   "antonyms": "ugly <i>(adj. xấu)</i>",
+   "grammar_vi": "<i>Pretty</i> (adjective) = xinh. <b>Grammar</b>: thường dùng cho con gái/phụ nữ. <b>Common mistakes</b>: <i>pretty</i> + tính từ còn nghĩa “khá” (<i>pretty good</i>).",
+   "example": {
+    "en": "My mother is a very beautiful woman. [very <b>pretty</b>]",
+    "vi": "Em gái tôi rất <b>xinh</b>."
+   }
+  },
+  {
+   "word": "ugly",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈʌɡli/",
+   "def_en": "Not attractive to look at.",
+   "def_vi": "Không ưa nhìn.",
+   "gloss_vi": "xấu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "beautiful <i>(adj. đẹp)</i>",
+   "grammar_vi": "<i>Ugly</i> (adjective) = xấu. <b>Grammar</b>: trái nghĩa của <i>beautiful</i> / <i>good-looking</i>. <b>Common mistakes</b>: nói với người thì bất lịch sự.",
+   "example": {
+    "en": "Bob’s an <b>ugly</b> man. [ugly = the opposite of beautiful or good-looking]",
+    "vi": "Bob là một người đàn ông <b>xấu xí</b>."
+   }
+  },
+  {
+   "word": "average-looking",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌævərɪdʒ ˈlʊkɪŋ/",
+   "def_en": "Not ugly and not beautiful.",
+   "def_vi": "Không xấu cũng không đẹp.",
+   "gloss_vi": "ngoại hình bình thường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Average-looking</i> (adjective) = ngoại hình bình thường. <b>Grammar</b>: tính từ ghép có gạch nối. <b>Collocations / chunks</b>: <i>just average-looking</i> (chỉ bình thường).",
+   "example": {
+    "en": "I’m not ugly or beautiful, I’m just <b>average-looking</b>!",
+    "vi": "Tôi không xấu cũng chẳng đẹp, tôi chỉ <b>bình thường</b> thôi!"
+   }
+  },
+  {
+   "word": "old",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əʊld/",
+   "def_en": "Having lived for a long time.",
+   "def_vi": "Đã sống lâu năm.",
+   "gloss_vi": "già",
+   "synonyms": "elderly <i>(adj. cao tuổi)</i>",
+   "antonyms": "young <i>(adj. trẻ)</i>",
+   "grammar_vi": "<i>Old</i> (adjective) = già. <b>Grammar</b>: so sánh <i>older, oldest</i>; <i>How old is he?</i> (anh ấy bao nhiêu tuổi?). <b>Common mistakes</b>: <i>elderly</i> lịch sự hơn.",
+   "example": {
+    "en": "She’s very <b>old</b>.",
+    "vi": "Bà tôi 97 tuổi. Bà rất <b>già</b>."
+   }
+  },
+  {
+   "word": "young",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/jʌŋ/",
+   "def_en": "Having lived for only a short time.",
+   "def_vi": "Mới sống được ít năm.",
+   "gloss_vi": "trẻ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "old <i>(adj. già)</i>",
+   "grammar_vi": "<i>Young</i> (adjective) = trẻ. <b>Grammar</b>: so sánh <i>younger, youngest</i> /ˈjʌŋɡə/. <b>Collocations / chunks</b>: <i>young people</i> (giới trẻ).",
+   "example": {
+    "en": "She’s <b>young</b>, but would like to be older.",
+    "vi": "Em gái tôi 14 tuổi. Em còn <b>trẻ</b>, nhưng muốn lớn hơn."
+   }
+  },
+  {
+   "word": "middle-aged",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌmɪdl ˈeɪdʒd/",
+   "def_en": "Neither young nor old, usually between about 45 and 65.",
+   "def_vi": "Không trẻ không già, khoảng 45–65 tuổi.",
+   "gloss_vi": "trung niên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Middle-aged</i> (adjective) = trung niên. <b>Grammar</b>: tính từ ghép có gạch nối. <b>Collocations / chunks</b>: <i>a middle-aged man</i> (người đàn ông trung niên).",
+   "example": {
+    "en": "He’s <b>middle-aged</b>, but would like to be younger!",
+    "vi": "Bố tôi 56 tuổi. Ông ở tuổi <b>trung niên</b>, nhưng muốn trẻ hơn!"
+   }
+  },
+  {
+   "word": "elderly",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈeldəli/",
+   "def_en": "Old (more polite than ‘old’).",
+   "def_vi": "Già (lịch sự hơn ‘old’).",
+   "gloss_vi": "cao tuổi",
+   "synonyms": "old <i>(adj. già)</i>",
+   "antonyms": "young <i>(adj. trẻ)</i>",
+   "grammar_vi": "<i>Elderly</i> (adjective) = cao tuổi. <b>Grammar</b>: lịch sự hơn <i>old</i>; <i>the elderly</i> = người cao tuổi nói chung. <b>Collocations / chunks</b>: <i>elderly people</i> (người cao tuổi).",
+   "example": {
+    "en": "This hospital is for <b>elderly</b> people.",
+    "vi": "Bệnh viện này dành cho người <b>cao tuổi</b>."
+   }
+  },
+  {
+   "word": "How tall is…?",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌhaʊ ˈtɔːl ɪz/",
+   "def_en": "A question asking about someone’s height.",
+   "def_vi": "Câu hỏi về chiều cao của ai.",
+   "gloss_vi": "… cao bao nhiêu?",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>How tall is…?</i> (phrase) = … cao bao nhiêu?. <b>Grammar</b>: trả lời <i>She’s 1.85 metres tall.</i>. <b>Collocations / chunks</b>: <i>How tall are you?</i> (bạn cao bao nhiêu?).",
+   "example": {
+    "en": "A: <b>How tall is</b> Bettina / Tom?",
+    "vi": "<b>Bettina cao bao nhiêu</b>? – Cô ấy cao 1,85 mét."
+   }
+  },
+  {
+   "word": "How much do you weigh?",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌhaʊ ˈmʌtʃ də ju ˈweɪ/",
+   "def_en": "A question asking about someone’s weight.",
+   "def_vi": "Câu hỏi về cân nặng của ai.",
+   "gloss_vi": "bạn nặng bao nhiêu?",
+   "synonyms": "How heavy are you? <i>(phr. bạn nặng bao nhiêu?)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>How much do you weigh?</i> (phrase) = bạn nặng bao nhiêu?. <b>Grammar</b>: trả lời <i>I weigh 62 kilos.</i>.",
+   "example": {
+    "en": "A: How heavy are you? / <b>How much do you weigh</b>?",
+    "vi": "Bạn nặng bao nhiêu? / <b>Bạn nặng bao nhiêu cân</b>?"
+   }
+  },
+  {
+   "word": "What does … look like?",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌwɒt dəz … ˈlʊk laɪk/",
+   "def_en": "A question asking someone to describe a person’s appearance.",
+   "def_vi": "Câu hỏi nhờ miêu tả ngoại hình ai đó.",
+   "gloss_vi": "… trông như thế nào?",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>What does … look like?</i> (phrase) = … trông như thế nào?. <b>Grammar</b>: hỏi ngoại hình; trả lời bằng tính từ miêu tả. <b>Common mistakes</b>: khác <i>How is she?</i> (cô ấy khỏe không?).",
+   "ex_kit": true,
+   "example": {
+    "en": "A: <b>What does</b> Gemma <b>look like</b>? B: She’s tall and dark. She’s very pretty.",
+    "vi": "<b>Gemma trông thế nào</b>? – Cô ấy cao, tóc sẫm. Cô ấy rất xinh."
+   }
+  }
+ ]
+}

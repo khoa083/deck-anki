@@ -1,0 +1,409 @@
+{
+ "book": "ele",
+ "unit": 6,
+ "title_vi": "Sức khỏe và bệnh tật",
+ "theory_html": "<p><b>A. How are you today?</b><br><i>A. Hôm nay bạn thế nào?</i></p> <p><b>I’m very well / fine, thanks.</b> <b>I don’t feel very well</b> (probably OK tomorrow); <b>I feel ill</b> (perhaps serious – get a <b>doctor</b>); <b>I’m going to be sick</b> (= vomit).</p><p><i><b>Tôi rất khỏe / ổn.</b> <b>Tôi thấy không khỏe lắm</b> (mai chắc ổn); <b>Tôi bị ốm</b> (có thể nặng – gọi <b>bác sĩ</b>); <b>Tôi sắp nôn</b> (<b>be sick</b>).</i></p> <p><b>B. Everyday problems</b><br><i>B. Bệnh thường ngày</i></p> <p><b>I’ve got a headache / toothache / a cold.</b> Take <b>an aspirin</b>; go to the <b>dentist</b>.</p><p><i><b>Tôi bị đau đầu / đau răng / cảm lạnh.</b> Uống <b>aspirin</b>; đi <b>nha sĩ</b>.</i></p> <p><b>C. Long-term problems</b><br><i>C. Bệnh kéo dài</i></p> <p><b>hay fever</b> (you <b>sneeze</b> in summer), <b>asthma</b> (sometimes you can’t breathe).</p><p><i><b>sốt mùa hè</b> (hắt hơi suốt), <b>hen suyễn</b> (đôi khi khó thở).</i></p> <p><b>D. Illnesses in hot countries</b><br><i>D. Bệnh ở xứ nóng</i></p> <p><b>Mosquitoes</b> can give people <b>malaria</b>; bad drinking water can cause <b>cholera</b>.</p><p><i><b>Muỗi</b> truyền <b>sốt rét</b>; nước bẩn gây <b>dịch tả</b>.</i></p> <p><b>E. Serious illnesses</b><br><i>E. Bệnh nặng</i></p> <p><b>cancer</b>, a <b>heart attack</b> (go to <b>hospital</b>). Say <b>had a heart attack</b> (not <b>got</b>).</p><p><i><b>ung thư</b>, <b>đau tim</b> (vào <b>bệnh viện</b>). Nói <b>had a heart attack</b>, không nói <b>got</b>.</i></p> <p><b>F. Expressions</b><br><i>F. Cách nói</i></p> <p><b>I feel stressed! – Do you have a healthy diet? Do you exercise? Swimming and jogging are good for you. You need to relax more.</b></p><p><i><b>Tôi thấy căng thẳng! – Bạn ăn uống lành mạnh không? Có tập thể dục không? Bơi, chạy bộ rất tốt cho sức khỏe. Bạn cần thư giãn hơn.</b></i></p>",
+ "items": [
+  {
+   "word": "very well",
+   "sense": "",
+   "pos": "adjective phrase",
+   "ipa": "/ˌveri ˈwel/",
+   "def_en": "In good health.",
+   "def_vi": "Khỏe mạnh.",
+   "gloss_vi": "rất khỏe",
+   "synonyms": "fine <i>(adj. ổn)</i>",
+   "antonyms": "ill <i>(adj. ốm)</i>",
+   "grammar_vi": "<i>Very well</i> (adjective phrase) = rất khỏe. <b>Grammar</b>: <i>well</i> là tính từ chỉ sức khỏe, dùng sau <i>be/feel</i>: <i>I’m very well</i>. <b>Collocations / chunks</b>: <i>How are you? – Very well, thanks.</i> (Bạn khỏe không? – Rất khỏe.).",
+   "example": {
+    "en": "I’m <b>very well</b>, thanks.",
+    "vi": "Tôi <b>rất khỏe</b>, cảm ơn."
+   }
+  },
+  {
+   "word": "fine",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/faɪn/",
+   "def_en": "Well and healthy; all right.",
+   "def_vi": "Khỏe, ổn.",
+   "gloss_vi": "ổn, khỏe",
+   "synonyms": "OK <i>(adj. ổn)</i>, well <i>(adj. khỏe)</i>",
+   "antonyms": "ill <i>(adj. ốm)</i>",
+   "grammar_vi": "<i>Fine</i> (adjective) = ổn, khỏe. <b>Grammar</b>: dùng sau <i>be</i>: <i>I’m fine</i>. <b>Collocations / chunks</b>: <i>I’m fine, thanks.</i> (tôi ổn, cảm ơn). <b>Common mistakes</b>: còn nghĩa “đẹp” khi nói thời tiết.",
+   "example": {
+    "en": "I’m <b>fine</b>, thanks.",
+    "vi": "Tôi <b>ổn</b>, cảm ơn."
+   }
+  },
+  {
+   "word": "don’t feel very well",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌdəʊnt fiːl ˌveri ˈwel/",
+   "def_en": "To feel a little ill, but not seriously.",
+   "def_vi": "Thấy hơi mệt, không nặng.",
+   "gloss_vi": "thấy không khỏe lắm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Don’t feel very well</i> (phrase) = thấy không khỏe lắm. <b>Grammar</b>: <i>feel</i> + tính từ; phủ định <i>don’t feel</i>. <b>Collocations / chunks</b>: <i>I don’t feel very well, so I’m going home.</i> (tôi không khỏe nên về nhà).",
+   "example": {
+    "en": "I <b>don’t feel very well</b>.",
+    "vi": "Tôi <b>thấy không khỏe lắm</b>. Tôi phải về nhà nghỉ."
+   }
+  },
+  {
+   "word": "feel ill",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌfiːl ˈɪl/",
+   "def_en": "To feel that you are not well, perhaps seriously.",
+   "def_vi": "Cảm thấy không khỏe, có thể nặng.",
+   "gloss_vi": "thấy ốm",
+   "synonyms": "feel sick <i>(vp. thấy mệt)</i>",
+   "antonyms": "feel well <i>(vp. thấy khỏe)</i>",
+   "grammar_vi": "<i>Feel ill</i> (verb phrase) = thấy ốm. <b>Grammar</b>: <i>feel</i> + tính từ, không dùng trạng từ (<i>feel ill</i>, không nói <i>feel illy</i>). <b>Word family</b>: <i>illness</i> (n.).",
+   "example": {
+    "en": "I <b>feel ill</b>.",
+    "vi": "Tôi <b>thấy ốm</b>. Bạn gọi bác sĩ giúp được không?"
+   }
+  },
+  {
+   "word": "doctor",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdɒktə(r)/",
+   "def_en": "A person whose job is to treat people who are ill.",
+   "def_vi": "Người chữa bệnh cho người ốm.",
+   "gloss_vi": "bác sĩ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "patient <i>(n. bệnh nhân)</i>",
+   "grammar_vi": "<i>Doctor</i> (noun) = bác sĩ. <b>Grammar</b>: đếm được; <i>go to the doctor</i> (đi khám). <b>Collocations / chunks</b>: <i>see a doctor</i> (gặp bác sĩ), <i>call a doctor</i> (gọi bác sĩ).",
+   "example": {
+    "en": "Can you get a <b>doctor</b>, please?",
+    "vi": "Bạn gọi <b>bác sĩ</b> giúp được không?"
+   }
+  },
+  {
+   "word": "sick",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/sɪk/",
+   "def_en": "Wanting to vomit; also ill.",
+   "def_vi": "Buồn nôn; cũng có nghĩa là ốm.",
+   "gloss_vi": "buồn nôn, ốm",
+   "synonyms": "ill <i>(adj. ốm)</i>",
+   "antonyms": "well <i>(adj. khỏe)</i>",
+   "grammar_vi": "<i>Sick</i> (adjective) = buồn nôn, ốm. <b>Grammar</b>: <i>be sick</i> (Anh–Anh) = nôn; <i>feel sick</i> = buồn nôn. <b>Collocations / chunks</b>: <i>a sick child</i> (đứa trẻ ốm). <b>Common mistakes</b>: <i>ill</i> thường đứng sau <i>be</i>, <i>sick</i> đứng được trước danh từ.",
+   "example": {
+    "en": "I think I’m going to be <b>sick</b>!",
+    "vi": "Món cá đó hỏng rồi. Chắc tôi sắp <b>nôn</b> mất!"
+   }
+  },
+  {
+   "word": "an aspirin",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ən ˈæsprɪn/",
+   "def_en": "A pill used to stop pain or fever.",
+   "def_vi": "Viên thuốc giảm đau, hạ sốt.",
+   "gloss_vi": "viên aspirin",
+   "synonyms": "painkiller <i>(n. thuốc giảm đau)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>An aspirin</i> (noun phrase) = viên aspirin. <b>Grammar</b>: đếm được khi chỉ một viên: <i>an aspirin, two aspirins</i>. <b>Collocations / chunks</b>: <i>take an aspirin</i> (uống aspirin).",
+   "example": {
+    "en": "Have you got <b>an aspirin</b>?",
+    "vi": "Bạn có <b>viên aspirin</b> nào không? Tôi bị đau đầu."
+   }
+  },
+  {
+   "word": "have got a headache",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/hæv ɡɒt ə ˈhedeɪk/",
+   "def_en": "To have a pain in your head.",
+   "def_vi": "Bị đau đầu.",
+   "gloss_vi": "bị đau đầu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have got a headache</i> (verb phrase) = bị đau đầu. <b>Grammar</b>: <i>have (got) a headache</i> có mạo từ <i>a</i>; <i>ache</i> đọc /eɪk/. <b>Collocations / chunks</b>: <i>a bad headache</i> (đau đầu dữ dội).",
+   "example": {
+    "en": "I<b>’ve got a headache</b>.",
+    "vi": "Bạn có viên aspirin nào không? <b>Tôi bị đau đầu</b>."
+   }
+  },
+  {
+   "word": "have got toothache",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/hæv ɡɒt ˈtuːθeɪk/",
+   "def_en": "To have a pain in a tooth.",
+   "def_vi": "Bị đau răng.",
+   "gloss_vi": "bị đau răng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have got toothache</i> (verb phrase) = bị đau răng. <b>Grammar</b>: Anh–Anh thường không dùng <i>a</i>: <i>I’ve got toothache</i>. <b>Word family</b>: <i>tooth</i> + <i>ache</i>.",
+   "example": {
+    "en": "I<b>’ve got toothache</b>.",
+    "vi": "<b>Tôi bị đau răng</b>. Tôi cần đi nha sĩ."
+   }
+  },
+  {
+   "word": "dentist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdentɪst/",
+   "def_en": "A person whose job is to look after people’s teeth.",
+   "def_vi": "Người chăm sóc răng cho mọi người.",
+   "gloss_vi": "nha sĩ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dentist</i> (noun) = nha sĩ. <b>Grammar</b>: đếm được; <i>go to the dentist</i> (đi nha sĩ), <i>the dentist’s</i> (phòng nha).",
+   "example": {
+    "en": "I need to go to the <b>dentist</b>.",
+    "vi": "Tôi bị đau răng. Tôi cần đi <b>nha sĩ</b>."
+   }
+  },
+  {
+   "word": "have got a cold",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/hæv ɡɒt ə ˈkəʊld/",
+   "def_en": "To have a common illness that makes you sneeze and have a sore throat.",
+   "def_vi": "Bị bệnh thông thường gây hắt hơi, đau họng.",
+   "gloss_vi": "bị cảm lạnh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have got a cold</i> (verb phrase) = bị cảm lạnh. <b>Grammar</b>: <i>have (got) a cold</i>, <i>catch a cold</i> (nhiễm lạnh). <b>Common mistakes</b>: <i>cold</i> (n.) = cảm lạnh, khác <i>cold</i> (adj.) = lạnh.",
+   "example": {
+    "en": "I<b>’ve got a cold</b>.",
+    "vi": "Tôi lên giường với một cốc nóng. <b>Tôi bị cảm lạnh</b>."
+   }
+  },
+  {
+   "word": "hay fever",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈheɪ fiːvə(r)/",
+   "def_en": "An illness like a cold caused by pollen from flowers and grass.",
+   "def_vi": "Bệnh giống cảm do phấn hoa, cỏ.",
+   "gloss_vi": "sốt mùa hè, dị ứng phấn hoa",
+   "synonyms": "allergy <i>(n. dị ứng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hay fever</i> (noun phrase) = sốt mùa hè, dị ứng phấn hoa. <b>Grammar</b>: không đếm được: <i>get/have hay fever</i>. <b>Collocations / chunks</b>: <i>suffer from hay fever</i> (bị dị ứng phấn hoa).",
+   "example": {
+    "en": "Problems people have for many years / all their lives I get <b>hay fever</b> every summer, from flowers and grass.",
+    "vi": "Mùa hè nào tôi cũng bị <b>dị ứng phấn hoa</b> vì hoa và cỏ."
+   }
+  },
+  {
+   "word": "sneeze",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/sniːz/",
+   "def_en": "To blow air out of your nose suddenly and loudly.",
+   "def_vi": "Đột ngột bật hơi ra từ mũi thành tiếng.",
+   "gloss_vi": "hắt hơi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sneeze</i> (verb) = hắt hơi. <b>Grammar</b>: nội động từ; quá khứ <i>sneezed</i>. <b>Collocations / chunks</b>: <i>sneeze all day</i> (hắt hơi cả ngày). <b>Note</b>: khi ai hắt hơi, người Anh nói <i>Bless you!</i>.",
+   "example": {
+    "en": "I <b>sneeze</b> all day.",
+    "vi": "Tôi <b>hắt hơi</b> suốt cả ngày."
+   }
+  },
+  {
+   "word": "asthma",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈæsmə/",
+   "def_en": "An illness of the chest that makes it difficult to breathe.",
+   "def_vi": "Bệnh ở ngực gây khó thở.",
+   "gloss_vi": "hen suyễn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Asthma</i> (noun) = hen suyễn. <b>Grammar</b>: không đếm được: <i>have asthma</i>. <b>Common mistakes</b>: chữ <i>th</i> câm: /ˈæsmə/.",
+   "example": {
+    "en": "My little brother has <b>asthma</b>; sometimes he can’t breathe.",
+    "vi": "Em trai tôi bị <b>hen suyễn</b>; đôi khi em không thở được."
+   }
+  },
+  {
+   "word": "malaria",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/məˈleəriə/",
+   "def_en": "A serious illness that you get from a mosquito bite in hot countries.",
+   "def_vi": "Bệnh nặng do muỗi đốt ở xứ nóng.",
+   "gloss_vi": "sốt rét",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Malaria</i> (noun) = sốt rét. <b>Grammar</b>: không đếm được: <i>get/have malaria</i>. <b>Collocations / chunks</b>: <i>give people malaria</i> (truyền sốt rét).",
+   "example": {
+    "en": "In some countries, mosquitoes can give people <b>malaria</b>.",
+    "vi": "Ở một số nước, muỗi có thể truyền <b>sốt rét</b> cho người."
+   }
+  },
+  {
+   "word": "cholera",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɒlərə/",
+   "def_en": "A serious illness that you get from dirty water.",
+   "def_vi": "Bệnh nặng lây qua nước bẩn.",
+   "gloss_vi": "bệnh tả",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cholera</i> (noun) = bệnh tả. <b>Grammar</b>: không đếm được: <i>have cholera</i>. <b>Common mistakes</b>: <i>ch</i> đọc /k/.",
+   "example": {
+    "en": "The drinking water was bad, and many children had <b>cholera</b>.",
+    "vi": "Nước uống bẩn và nhiều trẻ em bị <b>bệnh tả</b>."
+   }
+  },
+  {
+   "word": "mosquito",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/məˈskiːtəʊ/",
+   "def_en": "A small flying insect that bites people and drinks their blood.",
+   "def_vi": "Côn trùng nhỏ biết bay, đốt người và hút máu.",
+   "gloss_vi": "muỗi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mosquito</i> (noun) = muỗi. <b>Grammar</b>: số nhiều <i>mosquitoes</i>. <b>Collocations / chunks</b>: <i>mosquito bite</i> (vết muỗi đốt), <i>mosquito net</i> (màn chống muỗi).",
+   "example": {
+    "en": "In some countries, <b>mosquitoes</b> can give people malaria.",
+    "vi": "Ở một số nước, <b>muỗi</b> có thể truyền sốt rét cho người."
+   }
+  },
+  {
+   "word": "cancer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkænsə(r)/",
+   "def_en": "A serious illness in which cells in the body grow in a way that is not normal.",
+   "def_vi": "Bệnh nặng khi tế bào phát triển bất thường.",
+   "gloss_vi": "ung thư",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cancer</i> (noun) = ung thư. <b>Grammar</b>: không đếm được: <i>have cancer</i>. <b>Collocations / chunks</b>: <i>lung cancer</i> (ung thư phổi), <i>skin cancer</i> (ung thư da).",
+   "example": {
+    "en": "Every year <b>cancer</b> kills many people who smoke.",
+    "vi": "Mỗi năm <b>ung thư</b> giết chết nhiều người hút thuốc."
+   }
+  },
+  {
+   "word": "hospital",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhɒspɪtl/",
+   "def_en": "A place where ill or injured people are looked after.",
+   "def_vi": "Nơi chăm sóc người ốm hoặc bị thương.",
+   "gloss_vi": "bệnh viện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hospital</i> (noun) = bệnh viện. <b>Grammar</b>: Anh–Anh: <i>go to hospital, be in hospital</i> (không <i>the</i>). <b>Collocations / chunks</b>: <i>leave hospital</i> (ra viện).",
+   "example": {
+    "en": "My father went to <b>hospital</b> when he had a heart attack.",
+    "vi": "Bố tôi vào <b>viện</b> khi bị đau tim."
+   }
+  },
+  {
+   "word": "heart attack",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈhɑːt ətæk/",
+   "def_en": "A sudden serious medical problem when the heart stops working normally.",
+   "def_vi": "Tình trạng tim đột ngột ngừng hoạt động bình thường.",
+   "gloss_vi": "cơn đau tim, nhồi máu cơ tim",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Heart attack</i> (noun phrase) = cơn đau tim, nhồi máu cơ tim. <b>Grammar</b>: <i>have a heart attack</i>. <b>Common mistakes</b>: không nói <i>get a heart attack</i>.",
+   "example": {
+    "en": "My father went to hospital when he had a <b>heart attack</b>.",
+    "vi": "Bố tôi vào viện khi bị <b>đau tim</b>."
+   }
+  },
+  {
+   "word": "healthy diet",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌhelθi ˈdaɪət/",
+   "def_en": "Food that is good for your body.",
+   "def_vi": "Chế độ ăn tốt cho cơ thể.",
+   "gloss_vi": "chế độ ăn lành mạnh",
+   "synonyms": "balanced diet <i>(np. chế độ ăn cân bằng)</i>",
+   "antonyms": "unhealthy diet <i>(np. chế độ ăn không lành mạnh)</i>",
+   "grammar_vi": "<i>Healthy diet</i> (noun phrase) = chế độ ăn lành mạnh. <b>Grammar</b>: <i>have a healthy diet</i>. <b>Word family</b>: <i>health</i> (n.), <i>healthy</i> (adj.).",
+   "example": {
+    "en": "A Do you have a <b>healthy diet</b>?",
+    "vi": "Bạn có <b>ăn uống lành mạnh</b> không?"
+   }
+  },
+  {
+   "word": "exercise",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈeksəsaɪz/",
+   "def_en": "To do physical activity to stay healthy.",
+   "def_vi": "Vận động để giữ sức khỏe.",
+   "gloss_vi": "tập thể dục",
+   "synonyms": "work out <i>(pv. tập luyện)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Exercise</i> (verb) = tập thể dục. <b>Grammar</b>: nội động từ; cũng là danh từ: <i>do exercise</i>. <b>Collocations / chunks</b>: <i>exercise regularly</i> (tập đều đặn).",
+   "example": {
+    "en": "A Do you <b>exercise</b>?",
+    "vi": "Bạn có <b>tập thể dục</b> không?"
+   }
+  },
+  {
+   "word": "good for you",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌɡʊd fə ˈjuː/",
+   "def_en": "Healthy; good for your health.",
+   "def_vi": "Có lợi cho sức khỏe.",
+   "gloss_vi": "tốt cho sức khỏe",
+   "synonyms": "healthy <i>(adj. lành mạnh)</i>",
+   "antonyms": "bad for you <i>(phr. có hại)</i>",
+   "grammar_vi": "<i>Good for you</i> (phrase) = tốt cho sức khỏe. <b>Grammar</b>: <i>be good for you</i>. <b>Collocations / chunks</b>: <i>Fruit is good for you.</i> (trái cây tốt cho sức khỏe).",
+   "example": {
+    "en": "They’re really <b>good for you</b>.",
+    "vi": "Chúng thật sự <b>tốt cho sức khỏe</b>."
+   }
+  },
+  {
+   "word": "relax",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rɪˈlæks/",
+   "def_en": "To rest and stop worrying.",
+   "def_vi": "Nghỉ ngơi, thôi lo lắng.",
+   "gloss_vi": "thư giãn",
+   "synonyms": "rest <i>(v. nghỉ ngơi)</i>",
+   "antonyms": "panic <i>(v. hoảng)</i>",
+   "grammar_vi": "<i>Relax</i> (verb) = thư giãn. <b>Grammar</b>: nội động từ. <b>Collocations / chunks</b>: <i>relax more</i> (thư giãn hơn). <b>Word family</b>: <i>relaxed</i> (adj.), <i>relaxation</i> (n.).",
+   "example": {
+    "en": "You need to <b>relax</b> more and don’t panic about work!",
+    "vi": "Bạn cần <b>thư giãn</b> nhiều hơn."
+   }
+  },
+  {
+   "word": "stressed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/strest/",
+   "def_en": "Worried and nervous because of problems.",
+   "def_vi": "Lo lắng, căng thẳng vì gặp chuyện.",
+   "gloss_vi": "căng thẳng",
+   "synonyms": "worried <i>(adj. lo lắng)</i>",
+   "antonyms": "relaxed <i>(adj. thoải mái)</i>",
+   "grammar_vi": "<i>Stressed</i> (adjective) = căng thẳng. <b>Grammar</b>: <i>feel/be stressed</i>. <b>Word family</b>: <i>stress</i> (n.), <i>stressful</i> (adj. gây căng thẳng).",
+   "ex_kit": true,
+   "example": {
+    "en": "I feel <b>stressed</b>!",
+    "vi": "Tôi thấy <b>căng thẳng</b> quá!"
+   }
+  }
+ ]
+}

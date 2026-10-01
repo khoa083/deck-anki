@@ -37,7 +37,7 @@ def check(book=None, units=None):
             k = (it["word"].lower(), it.get("sense", "").lower())
             if seen[b].get(k, u["unit"]) < u["unit"]: W.append(f"{it['word']}: đã có thẻ ở unit {seen[b][k]} – chỉ giữ nếu nghĩa khác (đặt sense)")
             if len(strip(it["grammar_vi"]).split()) < 15: W.append(f"{it['word']}: grammar_vi ngắn")
-            if re.search(r"[A-Za-z]{3,}", re.sub(r"<i>.*?</i>|<b>.*?</b>", "", it["def_vi"])) and not re.search(r"[ăâđêôơưáàảãạ]", it["def_vi"]):
+            if re.search(r"[A-Za-z]{3,}", re.sub(r"<i>.*?</i>|<b>.*?</b>", "", it["def_vi"])) and not re.search(r"[À-ỹđĐ]", it["def_vi"]):
                 W.append(f"{it['word']}: def_vi có vẻ chưa dịch")
         kit = sum(1 for it in u["items"] if it.get("ex_kit"))
         print(f"  {os.path.basename(f)[:-5]}: {len(u['items'])} mục | {len(E)} LỖI | ví dụ kit đặt {kit}")

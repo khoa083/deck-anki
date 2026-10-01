@@ -1,0 +1,320 @@
+{
+ "book": "ele",
+ "unit": 7,
+ "title_vi": "Cảm xúc",
+ "theory_html": "<p><b>A. Love, like and hate</b><br><i>A. Yêu, thích và ghét</i></p> <p>From strongest to weakest: <b>love</b> (++), <b>like</b> (+), <b>don’t like</b> (–), <b>hate</b> (– –). <b>I love my family. I hate spiders.</b></p><p><i>Từ mạnh đến yếu: <b>yêu</b>, <b>thích</b>, <b>không thích</b>, <b>ghét</b>.</i></p> <p><b>B. Happy, sad and tired</b><br><i>B. Vui, buồn và mệt</i></p> <ul><li><b>happy, sad, angry, upset, cold, hot, thirsty, hungry, well, ill, tired, surprised</b> – <i>vui, buồn, giận, buồn bực, lạnh, nóng, khát, đói, khỏe, ốm, mệt, ngạc nhiên</i></li></ul> <p><b>happy about</b> your news; <b>happy for</b> you (you did well).</p><p><i><b>happy about</b> (vui về) tin của bạn; <b>happy for</b> (mừng cho) bạn.</i></p> <p><b>C. Prefer, hope and want</b><br><i>C. Thích hơn, hy vọng, muốn</i></p> <p><b>I prefer coffee to tea. I hope to do well / I hope (that) my friend does well. I want a new car / to buy a car / my mother to buy a car.</b> Not <b>I want that you help me</b>.</p><p><i><b>prefer A to B</b> (thích A hơn B); <b>hope to do / hope (that)…</b>; <b>want sth / to do / sb to do</b>. Không nói <b>want that…</b>.</i></p> <p><b>D. Expressions</b><br><i>D. Cách nói</i></p> <p><b>Do you like football? – Yes, I really like it. / No, I don’t like it very much.</b> (not <b>I very like</b> / <b>I like very much football</b>). <b>How’s your grandfather? – He’s very well. – She’s a bit tired.</b></p><p><i><b>Bạn thích bóng đá không? – Có, rất thích. / Không thích lắm.</b> Không nói <b>I very like</b>.</i></p>",
+ "items": [
+  {
+   "word": "love",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/lʌv/",
+   "def_en": "To like someone or something very much.",
+   "def_vi": "Rất thích, yêu ai hoặc cái gì.",
+   "gloss_vi": "yêu, rất thích",
+   "synonyms": "adore <i>(v. yêu quý)</i>",
+   "antonyms": "hate <i>(v. ghét)</i>",
+   "grammar_vi": "<i>Love</i> (verb) = yêu, rất thích. <b>Grammar</b>: <i>love</i> + danh từ/V-ing/to V: <i>I love swimming</i>. <b>Collocations / chunks</b>: <i>love my family</i> (yêu gia đình). <b>Word family</b>: <i>lovely</i> (adj.).",
+   "example": {
+    "en": "I <b>love</b> my family and my best friend.",
+    "vi": "Tôi <b>yêu</b> gia đình và người bạn thân nhất."
+   }
+  },
+  {
+   "word": "like",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/laɪk/",
+   "def_en": "To enjoy something or think someone or something is nice.",
+   "def_vi": "Thấy ai hay cái gì dễ chịu, thích.",
+   "gloss_vi": "thích",
+   "synonyms": "enjoy <i>(v. thích)</i>",
+   "antonyms": "dislike <i>(v. không thích)</i>",
+   "grammar_vi": "<i>Like</i> (verb) = thích. <b>Grammar</b>: <i>like</i> + V-ing: <i>I like swimming</i>; <i>really like</i>. <b>Common mistakes</b>: không nói <i>I very like</i> hay <i>I like very much football</i>.",
+   "example": {
+    "en": "I <b>like</b> my job.",
+    "vi": "Tôi <b>thích</b> công việc của mình."
+   }
+  },
+  {
+   "word": "don’t like",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌdəʊnt ˈlaɪk/",
+   "def_en": "To not enjoy or not want something.",
+   "def_vi": "Không thích.",
+   "gloss_vi": "không thích",
+   "synonyms": "dislike <i>(v. không thích)</i>",
+   "antonyms": "like <i>(v. thích)</i>",
+   "grammar_vi": "<i>Don’t like</i> (verb phrase) = không thích. <b>Grammar</b>: <i>don’t like … very much</i> (không thích lắm). <b>Collocations / chunks</b>: <i>I don’t like horror films.</i>.",
+   "example": {
+    "en": "I <b>don’t like</b> horror films.",
+    "vi": "Tôi <b>không thích</b> phim kinh dị."
+   }
+  },
+  {
+   "word": "hate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/heɪt/",
+   "def_en": "To dislike someone or something very much.",
+   "def_vi": "Rất ghét.",
+   "gloss_vi": "ghét",
+   "synonyms": "dislike <i>(v. không thích)</i>",
+   "antonyms": "love <i>(v. yêu)</i>",
+   "grammar_vi": "<i>Hate</i> (verb) = ghét. <b>Grammar</b>: <i>hate</i> + danh từ/V-ing: <i>I hate getting up early</i>. <b>Word family</b>: <i>hatred</i> (n.).",
+   "example": {
+    "en": "I <b>hate</b> spiders.",
+    "vi": "Tôi <b>ghét</b> nhện."
+   }
+  },
+  {
+   "word": "happy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈhæpi/",
+   "def_en": "Feeling pleased.",
+   "def_vi": "Cảm thấy vui.",
+   "gloss_vi": "vui, hạnh phúc",
+   "synonyms": "glad <i>(adj. vui)</i>",
+   "antonyms": "sad <i>(adj. buồn)</i>",
+   "grammar_vi": "<i>Happy</i> (adjective) = vui, hạnh phúc. <b>Grammar</b>: <i>happy about sth</i> (vui về điều gì), <i>happy for sb</i> (mừng cho ai). <b>Common mistakes</b>: không nói <i>happy for your news</i>.",
+   "example": {
+    "en": "I am very <b>happy</b> about your news [NOT I am very happy for your news].",
+    "vi": "Tôi rất <b>vui</b> về tin của bạn."
+   }
+  },
+  {
+   "word": "sad",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/sæd/",
+   "def_en": "Not happy.",
+   "def_vi": "Không vui.",
+   "gloss_vi": "buồn",
+   "synonyms": "unhappy <i>(adj. không vui)</i>",
+   "antonyms": "happy <i>(adj. vui)</i>",
+   "grammar_vi": "<i>Sad</i> (adjective) = buồn. <b>Grammar</b>: so sánh <i>sadder, saddest</i>. <b>Word family</b>: <i>sadness</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "She felt <b>sad</b> when her friend went away.",
+    "vi": "Cô ấy thấy <b>buồn</b> khi bạn đi xa."
+   }
+  },
+  {
+   "word": "angry",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈæŋɡri/",
+   "def_en": "Having a strong feeling about something bad that someone has done.",
+   "def_vi": "Có cảm xúc mạnh vì việc xấu ai đó làm.",
+   "gloss_vi": "giận",
+   "synonyms": "cross <i>(adj. bực)</i>",
+   "antonyms": "calm <i>(adj. bình tĩnh)</i>",
+   "grammar_vi": "<i>Angry</i> (adjective) = giận. <b>Grammar</b>: <i>angry with sb</i> (giận ai), <i>angry about sth</i> (giận về việc gì). <b>Word family</b>: <i>anger</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "My dad was <b>angry</b> because I came home late.",
+    "vi": "Bố <b>giận</b> vì tôi về muộn."
+   }
+  },
+  {
+   "word": "upset",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ʌpˈset/",
+   "def_en": "Unhappy or worried because something bad has happened.",
+   "def_vi": "Buồn hoặc lo vì chuyện không hay.",
+   "gloss_vi": "buồn bực, khó chịu",
+   "synonyms": "unhappy <i>(adj. không vui)</i>",
+   "antonyms": "happy <i>(adj. vui)</i>",
+   "grammar_vi": "<i>Upset</i> (adjective) = buồn bực, khó chịu. <b>Grammar</b>: trọng âm âm tiết 2 /ʌpˈset/; <i>upset about sth</i>. <b>Collocations / chunks</b>: <i>very upset</i> (rất buồn).",
+   "ex_kit": true,
+   "example": {
+    "en": "She was <b>upset</b> because she failed her exam.",
+    "vi": "Cô ấy <b>buồn bực</b> vì trượt kỳ thi."
+   }
+  },
+  {
+   "word": "cold",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kəʊld/",
+   "def_en": "Feeling that your body has a low temperature.",
+   "def_vi": "Cảm thấy cơ thể lạnh.",
+   "gloss_vi": "lạnh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "hot <i>(adj. nóng)</i>",
+   "grammar_vi": "<i>Cold</i> (adjective) = lạnh. <b>Grammar</b>: người dùng <i>be cold</i> (không nói <i>have cold</i>). <b>Common mistakes</b>: <i>a cold</i> (n.) = cảm lạnh.",
+   "ex_kit": true,
+   "example": {
+    "en": "Put on a coat if you are <b>cold</b>.",
+    "vi": "Mặc áo khoác vào nếu bạn thấy <b>lạnh</b>."
+   }
+  },
+  {
+   "word": "hot",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/hɒt/",
+   "def_en": "Feeling that your body has a high temperature.",
+   "def_vi": "Cảm thấy cơ thể nóng.",
+   "gloss_vi": "nóng",
+   "synonyms": "warm <i>(adj. ấm)</i>",
+   "antonyms": "cold <i>(adj. lạnh)</i>",
+   "grammar_vi": "<i>Hot</i> (adjective) = nóng. <b>Grammar</b>: <i>be hot</i>; so sánh <i>hotter, hottest</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Open the window – I’m <b>hot</b>.",
+    "vi": "Mở cửa sổ đi, tôi <b>nóng</b> quá."
+   }
+  },
+  {
+   "word": "thirsty",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈθɜːsti/",
+   "def_en": "Wanting to drink something.",
+   "def_vi": "Muốn uống gì đó.",
+   "gloss_vi": "khát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Thirsty</i> (adjective) = khát. <b>Grammar</b>: <i>be/feel thirsty</i>. <b>Word family</b>: <i>thirst</i> (n. cơn khát).",
+   "ex_kit": true,
+   "example": {
+    "en": "I’m <b>thirsty</b> – can I have a glass of water?",
+    "vi": "Tôi <b>khát</b> – cho tôi cốc nước nhé?"
+   }
+  },
+  {
+   "word": "hungry",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈhʌŋɡri/",
+   "def_en": "Wanting to eat something.",
+   "def_vi": "Muốn ăn gì đó.",
+   "gloss_vi": "đói",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "full <i>(adj. no)</i>",
+   "grammar_vi": "<i>Hungry</i> (adjective) = đói. <b>Grammar</b>: <i>be/feel hungry</i>. <b>Word family</b>: <i>hunger</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "The children are <b>hungry</b> after school.",
+    "vi": "Bọn trẻ <b>đói</b> sau giờ học."
+   }
+  },
+  {
+   "word": "tired",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈtaɪəd/",
+   "def_en": "Feeling that you need to rest or sleep.",
+   "def_vi": "Cảm thấy cần nghỉ hoặc ngủ.",
+   "gloss_vi": "mệt",
+   "synonyms": "exhausted <i>(adj. kiệt sức)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tired</i> (adjective) = mệt. <b>Grammar</b>: <i>a bit / a little tired</i> (hơi mệt); <i>tired of sth</i> (chán việc gì). <b>Collocations / chunks</b>: <i>very tired</i> (rất mệt).",
+   "example": {
+    "en": "B She’s a bit / a little <b>tired</b>.",
+    "vi": "Bà hơi <b>mệt</b> một chút."
+   }
+  },
+  {
+   "word": "surprised",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/səˈpraɪzd/",
+   "def_en": "Feeling that something unexpected has happened.",
+   "def_vi": "Cảm thấy có điều bất ngờ xảy ra.",
+   "gloss_vi": "ngạc nhiên",
+   "synonyms": "amazed <i>(adj. sửng sốt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Surprised</i> (adjective) = ngạc nhiên. <b>Grammar</b>: <i>surprised to see/hear</i>; <i>surprised at/by sth</i>. <b>Word family</b>: <i>surprise</i> (n.), <i>surprising</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "I was very <b>surprised</b> to see him here.",
+    "vi": "Tôi rất <b>ngạc nhiên</b> khi gặp anh ấy ở đây."
+   }
+  },
+  {
+   "word": "prefer",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/prɪˈfɜː(r)/",
+   "def_en": "To like one thing more than another.",
+   "def_vi": "Thích cái này hơn cái kia.",
+   "gloss_vi": "thích hơn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Prefer</i> (verb) = thích hơn. <b>Grammar</b>: <i>prefer A to B</i>; quá khứ <i>preferred</i> (gấp đôi r); trọng âm âm 2. <b>Common mistakes</b>: không nói <i>prefer A than B</i>.",
+   "example": {
+    "en": "I <b>prefer</b> coffee to tea.",
+    "vi": "Tôi <b>thích</b> cà phê <b>hơn</b> trà."
+   }
+  },
+  {
+   "word": "hope",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/həʊp/",
+   "def_en": "To want something to happen and think that it is possible.",
+   "def_vi": "Mong điều gì xảy ra và tin là có thể.",
+   "gloss_vi": "hy vọng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hope</i> (verb) = hy vọng. <b>Grammar</b>: <i>hope to do sth</i>; <i>hope (that) + mệnh đề</i>. <b>Collocations / chunks</b>: <i>I hope so</i> (mong là vậy).",
+   "example": {
+    "en": "I <b>hope</b> to do well in my exam.",
+    "vi": "Tôi <b>hy vọng</b> làm bài thi tốt."
+   }
+  },
+  {
+   "word": "want",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/wɒnt/",
+   "def_en": "To wish to have or do something.",
+   "def_vi": "Mong có hoặc làm gì.",
+   "gloss_vi": "muốn",
+   "synonyms": "would like <i>(mv. muốn (lịch sự))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Want</i> (verb) = muốn. <b>Grammar</b>: <i>want sth / to do sth / sb to do sth</i>. <b>Common mistakes</b>: không nói <i>I want that you help me</i>.",
+   "example": {
+    "en": "I <b>want</b> a new car. [I would like]",
+    "vi": "Tôi <b>muốn</b> một chiếc ô tô mới."
+   }
+  },
+  {
+   "word": "how about",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˈhaʊ əbaʊt/",
+   "def_en": "Used to ask about another person or thing.",
+   "def_vi": "Dùng để hỏi về người hay vật khác.",
+   "gloss_vi": "còn … thì sao?",
+   "synonyms": "what about <i>(phr. còn … thì sao)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>How about</i> (phrase) = còn … thì sao?. <b>Grammar</b>: <i>how about</i> + danh từ/V-ing. <b>Collocations / chunks</b>: <i>How about you?</i> (còn bạn?). <b>Note</b>: cũng dùng để gợi ý: <i>How about a coffee?</i>.",
+   "example": {
+    "en": "A And <b>how about</b> your grandmother?",
+    "vi": "<b>Còn</b> bà bạn <b>thì sao</b>?"
+   }
+  },
+  {
+   "word": "a bit",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ə ˈbɪt/",
+   "def_en": "A little; slightly.",
+   "def_vi": "Một chút, hơi.",
+   "gloss_vi": "hơi, một chút",
+   "synonyms": "a little <i>(phr. một chút)</i>",
+   "antonyms": "very <i>(adv. rất)</i>",
+   "grammar_vi": "<i>A bit</i> (phrase) = hơi, một chút. <b>Grammar</b>: <i>a bit</i> + tính từ: <i>a bit tired</i>; thân mật hơn <i>a little</i>. <b>Collocations / chunks</b>: <i>a bit cold</i> (hơi lạnh).",
+   "example": {
+    "en": "B She’s <b>a bit</b> / a little tired.",
+    "vi": "Bà ấy <b>hơi</b> mệt."
+   }
+  }
+ ]
+}

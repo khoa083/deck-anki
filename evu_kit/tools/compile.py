@@ -51,8 +51,8 @@ def sentences(block):
         plain = l.replace("**", "")
         if cur:
             pl = last.replace("**", "")
-            if re.search(r"[.!?]$", pl): join = bool(re.match(r"^[a-z]", plain))
-            else: join = len(pl) >= 55 or bool(re.match(r"^[a-z(‘“'\"]", plain)) or bool(re.search(r"[,;:–\-(/]$|\b(e\.g\.|i\.e\.)$", pl))
+            if re.search(r"[.!?)\]]$", pl): join = bool(re.match(r"^[a-z]", plain))
+            else: join = len(pl) >= 40 or bool(re.match(r"^[a-z0-9(‘“'\"]", plain)) or bool(re.search(r"[,;:–\-(/]$|\b(e\.g\.|i\.e\.)$", pl))
             if join: cur += " " + l; last = l; continue
             out.append(cur)
         cur = last = l
@@ -60,16 +60,40 @@ def sentences(block):
     res = []
     for chunk in out:
         text = re.sub(r"\s+", " ", chunk).replace("** **", " ")
+        text = re.sub(r"\s*/[^/\s]*[ˈˌːəɪʊʌæɒɔθðʃʒŋ'I][^/\s]*\s?/", "", text)      # bỏ phiên âm /…/ chen trong câu
+        text = re.sub(r"\s*([.!?…,;:])\*\*", r"**\1", text)
         text = re.sub(r"-\s+(?=[a-z])", "-", text)
         res += [x.strip() for x in re.split(r"(?<=[.!?…])\s+(?=[\"“‘(A-Z0-9*])", text) if x.strip()]
     return res
 
 
+IRR_SRC = """be is are was were been being am|have has had having|do does did done doing|go goes went gone going|get gets got gotten getting|make makes made making|take takes took taken taking|come comes came coming|give gives gave given giving|bring brings brought bringing|buy bought|catch caught|choose chose chosen|drink drank drunk|drive drove driven|eat ate eaten|fall fell fallen|feel felt|find found|fly flew flown|forget forgot forgotten|grow grew grown|hear heard|hold held|keep kept|know knew known|leave left|lend lent|lose lost|meet met|pay paid|put|read|ride rode ridden|ring rang rung|run ran|say said|see saw seen|sell sold|send sent|shake shook shaken|sing sang sung|sit sat|sleep slept|speak spoke spoken|spend spent|stand stood|steal stole stolen|swim swam swum|teach taught|tell told|think thought|throw threw thrown|understand understood|wake woke woken|wear wore worn|win won|write wrote written|break broke broken|begin began begun|build built|cut|fight fought|hide hid hidden|hit|hurt|let|lie lay lain|light lit|mean meant|set|shut|show showed shown|sink sank sunk|feed fed|freeze froze frozen|lead led|bite bit bitten|blow blew blown|draw drew drawn|dig dug|hang hung|shoot shot|spill spilt spilled|spread|stick stuck|strike struck|swear swore sworn|tear tore torn|beat beaten|bend bent|bet|burn burnt burned|dream dreamt dreamed|learn learnt learned|smell smelt smelled|spell spelt spelled"""
+IRR = {}
+for grp in IRR_SRC.split("|"):
+    fs = grp.split()
+    for f in fs: IRR.setdefault(f, set()).update(fs)
+
+
+def tok_rx(t, last):
+    forms = sorted(IRR.get(t.lower(), {t.lower()}), key=len, reverse=True)
+    alt = "|".join(re.escape(f) for f in forms)
+    return f"(?:{alt}){INFL}"
+
+
 def word_rx(word):
     toks = re.findall(r"[A-Za-z0-9’'\-]+", re.sub(r"\(.*?\)|\bsth\b|\bsb\b|\bsomething\b|\bsomebody\b|\bsomeone\b|/.*", " ", word))
     if not toks: return None
-    return re.compile(r"(?<![A-Za-z])" + r"(?:\*\*)?\s*".join(re.escape(t) + (INFL if i == len(toks) - 1 or len(toks) == 1 else INFL)
-                                                         for i, t in enumerate(toks)) + r"(?![A-Za-z])", re.I)
+    parts = [tok_rx(t, i == len(toks) - 1) for i, t in enumerate(toks)]
+    PART = {"on", "off", "up", "down", "in", "out", "away", "back", "over", "round", "around", "through", "along"}
+    sep = [r"(?:\*\*)?\s*(?:\*\*)?"] * (len(toks) - 1)
+    if len(toks) >= 2 and toks[-1].lower() in PART:      # phrasal verb tách được: cho phép ≤3 từ chen giữa
+        sep[-1] = r"(?:\*\*)?\s*(?:\*\*)?(?:[A-Za-z’'\-]+\s+){0,3}?(?:\*\*)?"
+    CON = {"have": "ve", "will": "ll", "are": "re", "is": "s", "am": "m", "would": "d", "had": "d"}
+    first = r"(?<![A-Za-z])" + parts[0]
+    if toks[0].lower() in CON: first = f"(?:{first}|(?<=[A-Za-z])[’']{CON[toks[0].lower()]})"
+    rx = first
+    for sp, pt in zip(sep, parts[1:]): rx += sp + pt
+    return re.compile(rx + r"(?![A-Za-z])", re.I)
 
 
 def find_example(word, src):
@@ -84,8 +108,8 @@ def find_example(word, src):
             if not mm: continue
             bold = bool(re.search(r"\*\*[^*]*" + re.escape(mm.group(0).split()[0]) , s, re.I))
             n = len(s.split())
-            bad = n > 45 or n < 4 or "……" in s or "…….." in s or ".........." in s
-            cands.append((prio + (0 if bold else 1) + (5 if bad else 0), s))
+            bad = n > 45 or n < 3 or "……" in s or "…….." in s or ".........." in s
+            if not bad: cands.append((prio + (0 if bold else 1), s))
     if not cands: return None
     cands.sort(key=lambda x: x[0])
     s = cands[0][1].replace("**", "")
@@ -108,8 +132,8 @@ def parse(path, src):
         if mode == "i":
             f = [x.strip() for x in l.split(" | ")]
             opt = {}
-            while f and re.match(r"^(ex|sense|exvi)=", f[-1]):
-                k, v = f.pop().split("=", 1); opt[k] = v.strip()
+            for x in [x for x in f if re.match(r"^(ex|sense)=", x)]:
+                k, v = x.split("=", 1); opt[k] = v.strip(); f.remove(x)
             if len(f) != 10:
                 u["errors"].append(f"dòng {ln}: cần 10 trường (+ ex=/sense=), có {len(f)}: {l[:80]}"); continue
             w, pos, ipa, den, dvi, gl, exvi, syn, ant, g = f
@@ -153,7 +177,7 @@ def theory_html(lines):
 
 def main():
     book = sys.argv[1]; bad = 0
-    for un in map(int, sys.argv[2:]):
+    for un in [int(x) for x in sys.argv[2:] if x != '-q']:
         name = f"{book}_u{un:02d}"
         src = open(os.path.join(KIT, "src", name + ".txt"), encoding="utf-8").read()
         u = parse(os.path.join(KIT, "data", name + ".txt"), src)
@@ -161,6 +185,11 @@ def main():
         bad += len(u["errors"])
         out = {"book": book, "unit": un, "title_vi": u["title_vi"], "theory_html": theory_html(u["theory"]), "items": u["items"]}
         json.dump(out, open(os.path.join(KIT, "units", name + ".json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+        if "-q" not in sys.argv:
+            for it in u["items"]:
+                if it.get("ex_kit"): continue
+                e = it["example"]["en"]; i = e.find("<b>"); w = e[:i].split()[-4:]; r = e[e.find("</b>") + 4:].split()[:4]
+                print(f"   · {it['word']}: …{' '.join(w)} {e[i:e.find('</b>') + 4]} {' '.join(r)}…")
         print(f"{name}: {len(u['items'])} mục, {sum(1 for i in u['items'] if i.get('ex_kit'))} câu kit đặt, {len(u['errors'])} lỗi")
     sys.exit(1 if bad else 0)
 

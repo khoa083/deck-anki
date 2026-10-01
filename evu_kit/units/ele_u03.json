@@ -1,0 +1,481 @@
+{
+ "book": "ele",
+ "unit": 3,
+ "title_vi": "Các bộ phận cơ thể",
+ "theory_html": "<p><b>A. Head and face</b><br><i>A. Đầu và mặt</i></p> <ul><li><b>hair, eye, nose, ear, mouth, lip, tooth / teeth, neck</b> – <i>tóc, mắt, mũi, tai, miệng, môi, răng, cổ</i></li></ul> <p><b>B. Arm and leg</b><br><i>B. Tay và chân</i></p> <ul><li><b>shoulder, arm, hand, finger, thumb, nail; leg, knee, foot / feet, toe</b> – <i>vai, cánh tay, bàn tay, ngón tay, ngón cái, móng; chân, đầu gối, bàn chân, ngón chân</i></li></ul> <p><b>C. Rest of body</b><br><i>C. Phần còn lại của cơ thể</i></p> <ul><li><b>chest, side, stomach, back, waist, hip, skin</b> (we have skin covering our bodies) – <i>ngực, sườn, bụng, lưng, eo, hông, da (da bao phủ cơ thể)</i></li></ul> <p><b>D. Inside the body</b><br><i>D. Bên trong cơ thể</i></p> <ul><li><b>heart, brain, blood</b> – <i>tim, não, máu</i></li></ul> <p><b>E. Pronunciation and plurals</b><br><i>E. Phát âm và số nhiều</i></p> <p>Tricky pronunciation: <b>eye, knee, stomach, heart, blood, foot, tooth</b>. Irregular plurals: <b>one foot – two feet, one tooth – two teeth</b>. <b>Hair</b> is singular: <b>My hair is very long.</b></p><p><i>Từ khó đọc: <b>eye, knee, stomach, heart, blood, foot, tooth</b>. Số nhiều bất quy tắc: <b>foot – feet, tooth – teeth</b>. <b>Hair</b> là danh từ số ít: <b>My hair is very long.</b></i></p> <p><b>F. Common mistakes</b><br><i>F. Lỗi thường gặp</i></p> <p>Use <b>my, your, his, her</b> with parts of the body: <b>Katie is washing her hair</b>; <b>I have a pain in my leg</b> (not <b>the hair</b>, <b>the leg</b>).</p><p><i>Dùng tính từ sở hữu với bộ phận cơ thể: <b>Katie is washing her hair</b>; <b>I have a pain in my leg</b>, không dùng <b>the</b>.</i></p>",
+ "items": [
+  {
+   "word": "hair",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/heə(r)/",
+   "def_en": "The thin threads that grow on your head.",
+   "def_vi": "Những sợi mảnh mọc trên đầu bạn.",
+   "gloss_vi": "tóc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hair</i> (uncountable noun) = tóc. <b>Grammar</b>: danh từ không đếm được, động từ số ít: <i>My hair is long</i> (không nói <i>hairs</i>). <b>Collocations / chunks</b>: <i>wash your hair</i> (gội đầu), <i>cut your hair</i> (cắt tóc), <i>long/short hair</i> (tóc dài/ngắn).",
+   "example": {
+    "en": "<b>Hair</b> is a singular word.",
+    "vi": "<b>Tóc</b> tôi rất dài – tôi phải cắt sớm thôi."
+   }
+  },
+  {
+   "word": "eye",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/aɪ/",
+   "def_en": "One of the two parts of your face that you see with.",
+   "def_vi": "Một trong hai bộ phận trên mặt dùng để nhìn.",
+   "gloss_vi": "mắt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Eye</i> (noun) = mắt. <b>Grammar</b>: đếm được; đọc /aɪ/ giống <i>I</i>. <b>Collocations / chunks</b>: <i>blue/brown eyes</i> (mắt xanh/nâu), <i>close your eyes</i> (nhắm mắt).",
+   "ex_kit": true,
+   "example": {
+    "en": "The baby has big blue <b>eyes</b>.",
+    "vi": "Bé có đôi <b>mắt</b> xanh rất to."
+   }
+  },
+  {
+   "word": "nose",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/nəʊz/",
+   "def_en": "The part of your face that you breathe and smell through.",
+   "def_vi": "Bộ phận trên mặt để thở và ngửi.",
+   "gloss_vi": "mũi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nose</i> (noun) = mũi. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>blow your nose</i> (hỉ mũi), <i>a big nose</i> (mũi to).",
+   "ex_kit": true,
+   "example": {
+    "en": "He has a long <b>nose</b>.",
+    "vi": "Anh ấy có cái <b>mũi</b> dài."
+   }
+  },
+  {
+   "word": "tooth",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tuːθ/",
+   "def_en": "One of the hard white things in your mouth that you use for biting.",
+   "def_vi": "Một trong những vật cứng màu trắng trong miệng để cắn.",
+   "gloss_vi": "răng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tooth</i> (noun) = răng. <b>Grammar</b>: số nhiều bất quy tắc <i>teeth</i> /tiːθ/: <i>one tooth – two teeth</i>. <b>Collocations / chunks</b>: <i>brush/clean your teeth</i> (đánh răng).",
+   "ex_kit": true,
+   "example": {
+    "en": "Brush your <b>teeth</b> twice a day.",
+    "vi": "Đánh <b>răng</b> hai lần mỗi ngày."
+   }
+  },
+  {
+   "word": "ear",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪə(r)/",
+   "def_en": "One of the two parts of your head that you hear with.",
+   "def_vi": "Một trong hai bộ phận trên đầu dùng để nghe.",
+   "gloss_vi": "tai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ear</i> (noun) = tai. <b>Grammar</b>: đếm được. <b>Word family</b>: <i>earring</i> (n. khuyên tai), <i>earache</i> (n. đau tai).",
+   "ex_kit": true,
+   "example": {
+    "en": "She wears earrings in both <b>ears</b>.",
+    "vi": "Cô ấy đeo khuyên ở hai <b>tai</b>."
+   }
+  },
+  {
+   "word": "lip",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/lɪp/",
+   "def_en": "One of the two soft edges of your mouth.",
+   "def_vi": "Một trong hai mép mềm của miệng.",
+   "gloss_vi": "môi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lip</i> (noun) = môi. <b>Grammar</b>: đếm được, thường dùng số nhiều <i>lips</i>. <b>Word family</b>: <i>lipstick</i> (n. son môi).",
+   "ex_kit": true,
+   "example": {
+    "en": "Her <b>lips</b> are dry because of the cold.",
+    "vi": "<b>Môi</b> cô ấy nứt nẻ vì lạnh."
+   }
+  },
+  {
+   "word": "mouth",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/maʊθ/",
+   "def_en": "The part of your face that you use for eating and speaking.",
+   "def_vi": "Bộ phận trên mặt dùng để ăn và nói.",
+   "gloss_vi": "miệng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mouth</i> (noun) = miệng. <b>Grammar</b>: số nhiều <i>mouths</i> /maʊðz/. <b>Collocations / chunks</b>: <i>open/close your mouth</i> (há/ngậm miệng).",
+   "ex_kit": true,
+   "example": {
+    "en": "Don’t speak with your <b>mouth</b> full.",
+    "vi": "Đừng nói khi <b>miệng</b> đầy thức ăn."
+   }
+  },
+  {
+   "word": "neck",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/nek/",
+   "def_en": "The part of your body between your head and your shoulders.",
+   "def_vi": "Phần cơ thể giữa đầu và vai.",
+   "gloss_vi": "cổ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Neck</i> (noun) = cổ. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>a pain in my neck</i> (đau cổ). <b>Word family</b>: <i>necklace</i> (n. vòng cổ).",
+   "ex_kit": true,
+   "example": {
+    "en": "A giraffe has a very long <b>neck</b>.",
+    "vi": "Hươu cao cổ có cái <b>cổ</b> rất dài."
+   }
+  },
+  {
+   "word": "shoulder",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈʃəʊldə(r)/",
+   "def_en": "The part of your body between your neck and the top of your arm.",
+   "def_vi": "Phần cơ thể giữa cổ và đầu cánh tay.",
+   "gloss_vi": "vai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shoulder</i> (noun) = vai. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>on your shoulder</i> (trên vai), <i>shoulder bag</i> (túi đeo vai).",
+   "ex_kit": true,
+   "example": {
+    "en": "He carried the bag on his <b>shoulder</b>.",
+    "vi": "Anh ấy mang túi trên <b>vai</b>."
+   }
+  },
+  {
+   "word": "nail",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/neɪl/",
+   "def_en": "The hard flat part at the end of a finger or toe.",
+   "def_vi": "Phần cứng dẹt ở đầu ngón tay hay ngón chân.",
+   "gloss_vi": "móng",
+   "synonyms": "fingernail <i>(n. móng tay)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nail</i> (noun) = móng. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>cut your nails</i> (cắt móng). <b>Word family</b>: <i>fingernail, toenail</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "She paints her <b>nails</b> red.",
+    "vi": "Cô ấy sơn <b>móng</b> màu đỏ."
+   }
+  },
+  {
+   "word": "thumb",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/θʌm/",
+   "def_en": "The short thick finger at the side of your hand.",
+   "def_vi": "Ngón ngắn và to ở cạnh bàn tay.",
+   "gloss_vi": "ngón cái",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Thumb</i> (noun) = ngón cái. <b>Grammar</b>: đếm được; chữ <i>b</i> câm /θʌm/. <b>Collocations / chunks</b>: <i>thumbs up</i> (giơ ngón cái – đồng ý).",
+   "ex_kit": true,
+   "example": {
+    "en": "The baby sucks her <b>thumb</b>.",
+    "vi": "Em bé mút <b>ngón tay cái</b>."
+   }
+  },
+  {
+   "word": "finger",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfɪŋɡə(r)/",
+   "def_en": "One of the long thin parts at the end of your hand.",
+   "def_vi": "Một trong những phần dài mảnh ở đầu bàn tay.",
+   "gloss_vi": "ngón tay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Finger</i> (noun) = ngón tay. <b>Grammar</b>: đếm được; bàn tay có <i>four fingers and a thumb</i>. <b>Collocations / chunks</b>: <i>point your finger</i> (chỉ tay).",
+   "ex_kit": true,
+   "example": {
+    "en": "She wears a ring on this <b>finger</b>.",
+    "vi": "Cô ấy đeo nhẫn ở <b>ngón tay</b> này."
+   }
+  },
+  {
+   "word": "hand",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/hænd/",
+   "def_en": "The part of your body at the end of your arm.",
+   "def_vi": "Phần cơ thể ở cuối cánh tay.",
+   "gloss_vi": "bàn tay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hand</i> (noun) = bàn tay. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>shake hands</i> (bắt tay), <i>hold hands</i> (nắm tay), <i>left/right hand</i> (tay trái/phải).",
+   "ex_kit": true,
+   "example": {
+    "en": "Wash your <b>hands</b> before you eat.",
+    "vi": "Rửa <b>tay</b> trước khi ăn."
+   }
+  },
+  {
+   "word": "arm",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɑːm/",
+   "def_en": "The long part of your body between your shoulder and your hand.",
+   "def_vi": "Phần dài của cơ thể từ vai đến bàn tay.",
+   "gloss_vi": "cánh tay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Arm</i> (noun) = cánh tay. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>break your arm</i> (gãy tay), <i>in your arms</i> (trong vòng tay).",
+   "ex_kit": true,
+   "example": {
+    "en": "The boy broke his <b>arm</b> playing football.",
+    "vi": "Cậu bé bị gãy <b>tay</b> khi chơi bóng đá."
+   }
+  },
+  {
+   "word": "chest",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tʃest/",
+   "def_en": "The front part of your body between your neck and your stomach.",
+   "def_vi": "Phần trước cơ thể giữa cổ và bụng.",
+   "gloss_vi": "ngực",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chest</i> (noun) = ngực. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>chest pain</i> (đau ngực).",
+   "ex_kit": true,
+   "example": {
+    "en": "He has a pain in his <b>chest</b>.",
+    "vi": "Ông ấy bị đau <b>ngực</b>."
+   }
+  },
+  {
+   "word": "side",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/saɪd/",
+   "def_en": "The part of your body from under your arm to the top of your leg.",
+   "def_vi": "Phần cơ thể từ dưới nách đến đầu đùi.",
+   "gloss_vi": "sườn, bên hông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Side</i> (noun) = sườn, bên hông. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>lie on your side</i> (nằm nghiêng), <i>a pain in my side</i> (đau sườn).",
+   "ex_kit": true,
+   "example": {
+    "en": "I sleep on my <b>side</b>.",
+    "vi": "Tôi ngủ nằm <b>nghiêng</b>."
+   }
+  },
+  {
+   "word": "stomach",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈstʌmək/",
+   "def_en": "The part inside your body where food goes after you eat it; also the front of your body below the chest.",
+   "def_vi": "Bộ phận trong cơ thể chứa thức ăn; cũng chỉ phần bụng phía trước.",
+   "gloss_vi": "dạ dày, bụng",
+   "synonyms": "tummy <i>(n. bụng (thân mật))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stomach</i> (noun) = dạ dày, bụng. <b>Grammar</b>: đếm được; <i>ch</i> đọc /k/: /ˈstʌmək/. <b>Word family</b>: <i>stomachache</i> (n. đau bụng).",
+   "ex_kit": true,
+   "example": {
+    "en": "I have a pain in my <b>stomach</b>.",
+    "vi": "Tôi bị đau <b>bụng</b>."
+   }
+  },
+  {
+   "word": "skin",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/skɪn/",
+   "def_en": "The natural outer layer that covers a person’s body.",
+   "def_vi": "Lớp ngoài tự nhiên bao phủ cơ thể người.",
+   "gloss_vi": "da",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Skin</i> (uncountable noun) = da. <b>Grammar</b>: thường không đếm được. <b>Collocations / chunks</b>: <i>dry/soft skin</i> (da khô/mềm), <i>skin cancer</i> (ung thư da).",
+   "example": {
+    "en": "We have <b>skin</b> covering our bodies. eye knee stomach heart blood foot tooth one foot – two feet one tooth – two teeth",
+    "vi": "Chúng ta có <b>da</b> bao phủ cơ thể."
+   }
+  },
+  {
+   "word": "back",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bæk/",
+   "def_en": "The part of your body from your neck to the top of your legs, on the opposite side to your chest.",
+   "def_vi": "Phần cơ thể từ cổ đến đầu chân, phía sau ngực.",
+   "gloss_vi": "lưng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "chest <i>(n. ngực)</i>",
+   "grammar_vi": "<i>Back</i> (noun) = lưng. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>backache</i> (đau lưng), <i>lie on your back</i> (nằm ngửa).",
+   "ex_kit": true,
+   "example": {
+    "en": "My <b>back</b> hurts after carrying the boxes.",
+    "vi": "Tôi bị đau <b>lưng</b> sau khi bê hộp."
+   }
+  },
+  {
+   "word": "waist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/weɪst/",
+   "def_en": "The middle part of your body, above your hips.",
+   "def_vi": "Phần giữa cơ thể, trên hông.",
+   "gloss_vi": "eo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Waist</i> (noun) = eo. <b>Grammar</b>: đếm được; đọc giống <i>waste</i> /weɪst/. <b>Collocations / chunks</b>: <i>a small waist</i> (eo nhỏ).",
+   "ex_kit": true,
+   "example": {
+    "en": "She wore a belt round her <b>waist</b>.",
+    "vi": "Cô ấy đeo thắt lưng quanh <b>eo</b>."
+   }
+  },
+  {
+   "word": "hip",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/hɪp/",
+   "def_en": "One of the two parts at the sides of your body between your waist and your legs.",
+   "def_vi": "Một trong hai bên cơ thể giữa eo và chân.",
+   "gloss_vi": "hông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hip</i> (noun) = hông. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>hands on hips</i> (chống nạnh).",
+   "ex_kit": true,
+   "example": {
+    "en": "My grandmother has a bad <b>hip</b>.",
+    "vi": "Bà tôi bị đau <b>hông</b>."
+   }
+  },
+  {
+   "word": "leg",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/leɡ/",
+   "def_en": "One of the long parts of the body that you use to walk.",
+   "def_vi": "Một trong những bộ phận dài dùng để đi lại.",
+   "gloss_vi": "chân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Leg</i> (noun) = chân. <b>Grammar</b>: đếm được; dùng tính từ sở hữu: <i>a pain in my leg</i> (không nói <i>the leg</i>). <b>Collocations / chunks</b>: <i>break your leg</i> (gãy chân).",
+   "example": {
+    "en": "I have a pain in my <b>leg</b> [NOT I have a pain in the leg].",
+    "vi": "Tôi bị đau ở <b>chân</b>."
+   }
+  },
+  {
+   "word": "knee",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/niː/",
+   "def_en": "The joint in the middle of your leg.",
+   "def_vi": "Khớp ở giữa chân.",
+   "gloss_vi": "đầu gối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Knee</i> (noun) = đầu gối. <b>Grammar</b>: đếm được; chữ <i>k</i> câm /niː/. <b>Collocations / chunks</b>: <i>on your knees</i> (quỳ gối).",
+   "ex_kit": true,
+   "example": {
+    "en": "He fell and hurt his <b>knee</b>.",
+    "vi": "Cậu bé ngã và bị trầy <b>đầu gối</b>."
+   }
+  },
+  {
+   "word": "foot",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/fʊt/",
+   "def_en": "The part of your body at the end of your leg that you stand on.",
+   "def_vi": "Phần cơ thể ở cuối chân để đứng.",
+   "gloss_vi": "bàn chân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Foot</i> (noun) = bàn chân. <b>Grammar</b>: số nhiều bất quy tắc <i>feet</i>: <i>one foot – two feet</i>; đọc /fʊt/. <b>Collocations / chunks</b>: <i>on foot</i> (đi bộ).",
+   "ex_kit": true,
+   "example": {
+    "en": "My <b>feet</b> hurt after the long walk.",
+    "vi": "Chân <b>tôi</b> mỏi sau buổi đi bộ dài."
+   }
+  },
+  {
+   "word": "toe",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/təʊ/",
+   "def_en": "One of the five small parts at the end of your foot.",
+   "def_vi": "Một trong năm phần nhỏ ở đầu bàn chân.",
+   "gloss_vi": "ngón chân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Toe</i> (noun) = ngón chân. <b>Grammar</b>: đếm được. <b>Word family</b>: <i>toenail</i> (n. móng chân).",
+   "ex_kit": true,
+   "example": {
+    "en": "I dropped a book on my <b>toe</b>.",
+    "vi": "Tôi làm rơi sách lên <b>ngón chân</b>."
+   }
+  },
+  {
+   "word": "heart",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/hɑːt/",
+   "def_en": "The organ in your chest that sends blood around your body.",
+   "def_vi": "Cơ quan trong ngực bơm máu đi khắp cơ thể.",
+   "gloss_vi": "tim",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Heart</i> (noun) = tim. <b>Grammar</b>: đếm được; đọc /hɑːt/. <b>Collocations / chunks</b>: <i>heart attack</i> (cơn đau tim), <i>heart beats</i> (tim đập).",
+   "ex_kit": true,
+   "example": {
+    "en": "Your <b>heart</b> beats faster when you run.",
+    "vi": "<b>Tim</b> đập nhanh khi bạn chạy."
+   }
+  },
+  {
+   "word": "brain",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/breɪn/",
+   "def_en": "The organ inside your head that controls your body and lets you think.",
+   "def_vi": "Cơ quan trong đầu điều khiển cơ thể và giúp ta suy nghĩ.",
+   "gloss_vi": "não",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Brain</i> (noun) = não. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>use your brain</i> (động não).",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>brain</b> controls the whole body.",
+    "vi": "<b>Não</b> điều khiển toàn bộ cơ thể."
+   }
+  },
+  {
+   "word": "blood",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/blʌd/",
+   "def_en": "The red liquid that flows through your body.",
+   "def_vi": "Chất lỏng màu đỏ chảy khắp cơ thể.",
+   "gloss_vi": "máu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Blood</i> (uncountable noun) = máu. <b>Grammar</b>: không đếm được; <i>oo</i> đọc /ʌ/: /blʌd/. <b>Collocations / chunks</b>: <i>blood test</i> (xét nghiệm máu).",
+   "ex_kit": true,
+   "example": {
+    "en": "The heart sends <b>blood</b> round the body.",
+    "vi": "Tim bơm <b>máu</b> đi khắp cơ thể."
+   }
+  }
+ ]
+}

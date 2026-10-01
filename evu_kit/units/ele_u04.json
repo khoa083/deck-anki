@@ -1,0 +1,604 @@
+{
+ "book": "ele",
+ "unit": 4,
+ "title_vi": "Quần áo",
+ "theory_html": "<p><b>A. Clothes</b><br><i>A. Quần áo</i></p> <ul><li><b>hat, coat, jacket, scarf, gloves, socks, shoes, trainers, boots, suit, shirt, T-shirt, dress, skirt, sweater / jumper, belt, tie; watch, ring</b> – <i>mũ, áo khoác dài, áo khoác, khăn quàng, găng tay, tất, giày, giày thể thao, ủng, bộ com-lê, sơ mi, áo phông, váy liền, chân váy, áo len, thắt lưng, cà vạt; đồng hồ, nhẫn</i></li></ul> <p><b>B. Plural words</b><br><i>B. Từ luôn ở số nhiều</i></p> <p><b>trousers, jeans, shorts, tights, pyjamas, glasses, sunglasses</b> are always plural and take a plural verb: <b>these trousers are old</b>. Say <b>a pair of trousers / glasses</b>.</p><p><i><b>trousers, jeans, shorts, tights, pyjamas, glasses, sunglasses</b> luôn ở số nhiều, đi với động từ số nhiều. Nói <b>a pair of trousers / glasses</b> (một chiếc quần / một cặp kính).</i></p> <p><b>C. Verbs</b><br><i>C. Động từ</i></p> <p>You <b>wear</b> clothes and glasses but <b>carry</b> things (a <b>bag</b>, a <b>handbag</b>, an <b>umbrella</b>). <b>Naomi has (got) a blue coat on.</b> In the morning you <b>get dressed</b> / <b>put</b> your clothes <b>on</b>; at night you <b>get undressed</b> / <b>take</b> them <b>off</b> (not <b>put off</b>).</p><p><i>Ta <b>wear</b> (mặc, đeo) quần áo và kính nhưng <b>carry</b> (mang, xách) đồ vật. Buổi sáng <b>get dressed</b> / <b>put on</b> (mặc vào); buổi tối <b>get undressed</b> / <b>take off</b> (cởi ra), không nói <b>put off</b>.</i></p> <p>Tip: when you get dressed, say <b>Now I’m putting on my socks…</b></p><p><i>Mẹo: khi mặc đồ, tự nói <b>Now I’m putting on my socks…</b></i></p>",
+ "items": [
+  {
+   "word": "hat",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/hæt/",
+   "def_en": "A thing that you wear on your head.",
+   "def_vi": "Vật đội trên đầu.",
+   "gloss_vi": "mũ",
+   "synonyms": "cap <i>(n. mũ lưỡi trai)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hat</i> (noun) = mũ. <b>Grammar</b>: đếm được; dùng <i>wear</i> hoặc <i>put on</i>. <b>Collocations / chunks</b>: <i>take off your hat</i> (bỏ mũ ra), <i>a woolly hat</i> (mũ len).",
+   "ex_kit": true,
+   "example": {
+    "en": "It was sunny, so he wore a <b>hat</b>.",
+    "vi": "Trời nắng nên anh ấy đội <b>mũ</b>."
+   }
+  },
+  {
+   "word": "coat",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəʊt/",
+   "def_en": "A long piece of clothing with sleeves that you wear over other clothes when you go outside.",
+   "def_vi": "Áo dài tay mặc ngoài các lớp quần áo khi ra ngoài.",
+   "gloss_vi": "áo khoác dài, áo choàng",
+   "synonyms": "overcoat <i>(n. áo khoác ngoài)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Coat</i> (noun) = áo khoác dài, áo choàng. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>a long/warm coat</i> (áo khoác dài/ấm), <i>put on your coat</i> (mặc áo khoác).",
+   "example": {
+    "en": "Naomi is wearing a long blue <b>coat</b>.",
+    "vi": "Naomi đang mặc một chiếc <b>áo khoác</b> dài màu xanh."
+   }
+  },
+  {
+   "word": "jacket",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdʒækɪt/",
+   "def_en": "A short coat.",
+   "def_vi": "Áo khoác ngắn.",
+   "gloss_vi": "áo khoác (ngắn)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Jacket</i> (noun) = áo khoác (ngắn). <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>leather jacket</i> (áo khoác da), <i>denim jacket</i> (áo khoác bò).",
+   "ex_kit": true,
+   "example": {
+    "en": "Take a <b>jacket</b> in case it gets cold.",
+    "vi": "Mang theo <b>áo khoác</b> phòng khi trời lạnh."
+   }
+  },
+  {
+   "word": "socks",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/sɒks/",
+   "def_en": "Pieces of clothing that you wear on your feet inside your shoes.",
+   "def_vi": "Đồ mặc ở chân, bên trong giày.",
+   "gloss_vi": "tất, vớ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Socks</i> (plural noun) = tất, vớ. <b>Grammar</b>: số ít <i>a sock</i>; thường nói <i>a pair of socks</i> (một đôi tất). <b>Collocations / chunks</b>: <i>put on your socks</i> (đi tất).",
+   "ex_kit": true,
+   "example": {
+    "en": "Now I’m putting on my <b>socks</b>.",
+    "vi": "Tôi đang đi <b>tất</b>."
+   }
+  },
+  {
+   "word": "scarf",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/skɑːf/",
+   "def_en": "A long piece of cloth that you wear around your neck.",
+   "def_vi": "Mảnh vải dài quàng quanh cổ.",
+   "gloss_vi": "khăn quàng cổ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Scarf</i> (noun) = khăn quàng cổ. <b>Grammar</b>: số nhiều <i>scarves</i> /skɑːvz/. <b>Collocations / chunks</b>: <i>a woolly scarf</i> (khăn len), <i>a silk scarf</i> (khăn lụa).",
+   "ex_kit": true,
+   "example": {
+    "en": "She wore a <b>scarf</b> because it was cold.",
+    "vi": "Cô ấy quàng <b>khăn</b> vì trời lạnh."
+   }
+  },
+  {
+   "word": "gloves",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ɡlʌvz/",
+   "def_en": "Things that you wear on your hands to keep them warm or safe.",
+   "def_vi": "Đồ đeo ở tay để giữ ấm hoặc bảo vệ.",
+   "gloss_vi": "găng tay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gloves</i> (plural noun) = găng tay. <b>Grammar</b>: số ít <i>a glove</i>; <i>a pair of gloves</i> (một đôi găng). <b>Common mistakes</b>: <i>o</i> đọc /ʌ/: /ɡlʌvz/.",
+   "ex_kit": true,
+   "example": {
+    "en": "Put your <b>gloves</b> on – it’s cold outside.",
+    "vi": "Đeo <b>găng tay</b> vào – ngoài trời lạnh lắm."
+   }
+  },
+  {
+   "word": "shoes",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ʃuːz/",
+   "def_en": "Things that you wear on your feet, usually made of leather.",
+   "def_vi": "Đồ đi ở chân, thường làm bằng da.",
+   "gloss_vi": "giày",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shoes</i> (plural noun) = giày. <b>Grammar</b>: số ít <i>a shoe</i>; <i>a pair of shoes</i> (một đôi giày). <b>Collocations / chunks</b>: <i>take off your shoes</i> (cởi giày).",
+   "ex_kit": true,
+   "example": {
+    "en": "Now I’m putting on my <b>shoes</b>.",
+    "vi": "Tôi đang đi <b>giày</b>."
+   }
+  },
+  {
+   "word": "trainers",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈtreɪnəz/",
+   "def_en": "Shoes that you wear for sport or in an informal situation.",
+   "def_vi": "Giày đi khi chơi thể thao hoặc lúc bình thường.",
+   "gloss_vi": "giày thể thao",
+   "synonyms": "sneakers <i>(pn. giày thể thao (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trainers</i> (plural noun) = giày thể thao. <b>Grammar</b>: số ít <i>a trainer</i>; <i>a pair of trainers</i>. <b>Note</b>: Anh–Mỹ gọi là <i>sneakers</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I wear <b>trainers</b> when I go running.",
+    "vi": "Tôi đi <b>giày thể thao</b> khi chạy bộ."
+   }
+  },
+  {
+   "word": "boots",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/buːts/",
+   "def_en": "Strong shoes that cover your foot and part of your leg.",
+   "def_vi": "Giày chắc chắn che bàn chân và một phần chân.",
+   "gloss_vi": "ủng, bốt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Boots</i> (plural noun) = ủng, bốt. <b>Grammar</b>: số ít <i>a boot</i>; <i>a pair of boots</i>. <b>Collocations / chunks</b>: <i>walking boots</i> (giày leo núi), <i>rubber boots</i> (ủng cao su).",
+   "ex_kit": true,
+   "example": {
+    "en": "Wear your <b>boots</b> – it’s very muddy.",
+    "vi": "Đi <b>ủng</b> vào – ngoài kia nhiều bùn lắm."
+   }
+  },
+  {
+   "word": "suit",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/suːt/",
+   "def_en": "A jacket and trousers or skirt made from the same material and worn together.",
+   "def_vi": "Áo khoác và quần hoặc váy cùng chất liệu, mặc cùng nhau.",
+   "gloss_vi": "bộ com-lê, bộ vest",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Suit</i> (noun) = bộ com-lê, bộ vest. <b>Grammar</b>: đếm được; động từ số ít: <i>My suit is new</i>. <b>Collocations / chunks</b>: <i>wear a suit</i> (mặc com-lê), <i>a dark suit</i> (bộ vest tối màu).",
+   "example": {
+    "en": "My <b>suit</b> is new but these trousers are old.",
+    "vi": "Bộ <b>com-lê</b> của tôi mới nhưng chiếc quần này thì cũ."
+   }
+  },
+  {
+   "word": "T-shirt",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtiː ʃɜːt/",
+   "def_en": "A simple shirt with short sleeves and no collar.",
+   "def_vi": "Áo đơn giản, cộc tay, không cổ.",
+   "gloss_vi": "áo phông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>T-shirt</i> (noun) = áo phông. <b>Grammar</b>: đếm được; viết có gạch nối và chữ <i>T</i> hoa. <b>Collocations / chunks</b>: <i>a white T-shirt</i> (áo phông trắng).",
+   "ex_kit": true,
+   "example": {
+    "en": "In summer I usually wear a <b>T-shirt</b> and shorts.",
+    "vi": "Mùa hè tôi thường mặc <b>áo phông</b> và quần soóc."
+   }
+  },
+  {
+   "word": "watch",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/wɒtʃ/",
+   "def_en": "A small clock that you wear on your wrist.",
+   "def_vi": "Đồng hồ nhỏ đeo ở cổ tay.",
+   "gloss_vi": "đồng hồ đeo tay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Watch</i> (noun) = đồng hồ đeo tay. <b>Grammar</b>: đếm được; số nhiều <i>watches</i>; động từ <i>wear a watch</i> (đeo đồng hồ). <b>Common mistakes</b>: khác <i>clock</i> (đồng hồ treo tường).",
+   "ex_kit": true,
+   "example": {
+    "en": "He looked at his <b>watch</b>.",
+    "vi": "Anh ấy nhìn <b>đồng hồ</b>."
+   }
+  },
+  {
+   "word": "dress",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dres/",
+   "def_en": "A piece of clothing for a woman or girl that covers the top of the body and hangs down over the legs.",
+   "def_vi": "Trang phục nữ che thân trên và buông xuống chân.",
+   "gloss_vi": "váy liền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dress</i> (noun) = váy liền. <b>Grammar</b>: đếm được; số nhiều <i>dresses</i>. <b>Common mistakes</b>: khác <i>skirt</i> (chân váy, chỉ phần dưới).",
+   "ex_kit": true,
+   "example": {
+    "en": "She wore a red <b>dress</b> to the party.",
+    "vi": "Cô ấy mặc chiếc <b>váy</b> đỏ đi dự tiệc."
+   }
+  },
+  {
+   "word": "ring",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪŋ/",
+   "def_en": "A round piece of jewellery that you wear on your finger.",
+   "def_vi": "Đồ trang sức hình tròn đeo ở ngón tay.",
+   "gloss_vi": "nhẫn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ring</i> (noun) = nhẫn. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>wedding ring</i> (nhẫn cưới), <i>wear a ring</i> (đeo nhẫn).",
+   "ex_kit": true,
+   "example": {
+    "en": "She wears a wedding <b>ring</b>.",
+    "vi": "Cô ấy đeo <b>nhẫn</b> cưới."
+   }
+  },
+  {
+   "word": "skirt",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/skɜːt/",
+   "def_en": "A piece of clothing for a woman or girl that hangs down from the waist.",
+   "def_vi": "Trang phục nữ buông xuống từ eo.",
+   "gloss_vi": "chân váy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Skirt</i> (noun) = chân váy. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>a short/long skirt</i> (váy ngắn/dài).",
+   "ex_kit": true,
+   "example": {
+    "en": "She is wearing a black <b>skirt</b> and a white shirt.",
+    "vi": "Cô ấy mặc <b>chân váy</b> đen và sơ mi trắng."
+   }
+  },
+  {
+   "word": "shirt",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ʃɜːt/",
+   "def_en": "A piece of clothing with sleeves and buttons down the front, worn on the top part of the body.",
+   "def_vi": "Áo có tay và hàng cúc phía trước, mặc thân trên.",
+   "gloss_vi": "áo sơ mi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shirt</i> (noun) = áo sơ mi. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>iron a shirt</i> (là áo sơ mi).",
+   "ex_kit": true,
+   "example": {
+    "en": "He’s wearing a white <b>shirt</b> and a tie.",
+    "vi": "Anh ấy mặc <b>sơ mi</b> trắng và đeo cà vạt."
+   }
+  },
+  {
+   "word": "trousers",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈtraʊzəz/",
+   "def_en": "A piece of clothing that covers each leg separately, from the waist to the feet.",
+   "def_vi": "Trang phục che riêng từng chân, từ eo đến bàn chân.",
+   "gloss_vi": "quần dài",
+   "synonyms": "pants <i>(pn. quần (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trousers</i> (plural noun) = quần dài. <b>Grammar</b>: luôn số nhiều, động từ số nhiều: <i>these trousers are old</i>; <i>a pair of trousers</i>. <b>Common mistakes</b>: không nói <i>a trouser</i>.",
+   "example": {
+    "en": "My suit is new but these <b>trousers</b> are old.",
+    "vi": "Bộ com-lê của tôi mới nhưng chiếc <b>quần</b> này thì cũ."
+   }
+  },
+  {
+   "word": "jeans",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/dʒiːnz/",
+   "def_en": "Trousers made of a strong blue cotton material.",
+   "def_vi": "Quần làm từ vải bông dày màu xanh.",
+   "gloss_vi": "quần bò",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Jeans</i> (plural noun) = quần bò. <b>Grammar</b>: luôn số nhiều: <i>Her jeans are blue</i>; <i>a pair of jeans</i>. <b>Collocations / chunks</b>: <i>blue jeans</i> (quần bò xanh).",
+   "example": {
+    "en": "Her <b>jeans</b> / shorts / tights are blue.",
+    "vi": "<b>Quần bò</b> của cô ấy màu xanh."
+   }
+  },
+  {
+   "word": "shorts",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ʃɔːts/",
+   "def_en": "Short trousers that end above the knee.",
+   "def_vi": "Quần ngắn trên đầu gối.",
+   "gloss_vi": "quần soóc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shorts</i> (plural noun) = quần soóc. <b>Grammar</b>: luôn số nhiều: <i>Her shorts are blue</i>; <i>a pair of shorts</i>.",
+   "example": {
+    "en": "Note: You say: a pair of trousers / <b>shorts</b> / glasses, etc.",
+    "vi": "Chiếc <b>quần soóc</b> của cô ấy màu xanh."
+   }
+  },
+  {
+   "word": "tights",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/taɪts/",
+   "def_en": "A thin piece of clothing that covers a woman’s legs and the lower part of the body.",
+   "def_vi": "Đồ mỏng bó che chân và phần dưới cơ thể của phụ nữ.",
+   "gloss_vi": "quần tất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tights</i> (plural noun) = quần tất. <b>Grammar</b>: luôn số nhiều: <i>Her tights are blue</i>; <i>a pair of tights</i>.",
+   "example": {
+    "en": "Her jeans / shorts / <b>tights</b> are blue.",
+    "vi": "<b>Quần tất</b> của cô ấy màu xanh."
+   }
+  },
+  {
+   "word": "glasses",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈɡlɑːsɪz/",
+   "def_en": "Two pieces of special glass in a frame that you wear in front of your eyes to see better.",
+   "def_vi": "Hai mắt kính đặc biệt gắn trong gọng, đeo trước mắt để nhìn rõ hơn.",
+   "gloss_vi": "kính (mắt)",
+   "synonyms": "spectacles <i>(pn. kính (trang trọng))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Glasses</i> (plural noun) = kính (mắt). <b>Grammar</b>: luôn số nhiều; <i>a pair of glasses</i>; dùng <i>wear glasses</i> (đeo kính). <b>Common mistakes</b>: <i>glass</i> số ít = cái ly.",
+   "example": {
+    "en": "Note: You say: a pair of trousers / shorts / <b>glasses</b>, etc.",
+    "vi": "Bạn đeo <b>kính</b>."
+   }
+  },
+  {
+   "word": "sweater",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈswetə(r)/",
+   "def_en": "A warm piece of clothing with long sleeves, often made of wool, worn on the top of the body.",
+   "def_vi": "Áo ấm dài tay, thường bằng len, mặc thân trên.",
+   "gloss_vi": "áo len",
+   "synonyms": "jumper <i>(n. áo len (Anh))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sweater</i> (noun) = áo len. <b>Grammar</b>: đếm được; Anh–Anh hay nói <i>jumper</i>. <b>Collocations / chunks</b>: <i>a woolly sweater</i> (áo len).",
+   "ex_kit": true,
+   "example": {
+    "en": "I’m wearing a <b>sweater</b> because it’s cold.",
+    "vi": "Tôi mặc <b>áo len</b> vì trời lạnh."
+   }
+  },
+  {
+   "word": "jumper",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdʒʌmpə(r)/",
+   "def_en": "A British word for a sweater.",
+   "def_vi": "Từ Anh–Anh chỉ áo len.",
+   "gloss_vi": "áo len (chui đầu)",
+   "synonyms": "sweater <i>(n. áo len)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Jumper</i> (noun) = áo len (chui đầu). <b>Grammar</b>: đếm được; Anh–Anh. <b>Collocations / chunks</b>: <i>a warm jumper</i> (áo len ấm).",
+   "ex_kit": true,
+   "example": {
+    "en": "My grandmother made me a <b>jumper</b>.",
+    "vi": "Bà đan cho tôi một chiếc <b>áo len</b>."
+   }
+  },
+  {
+   "word": "pyjamas",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/pəˈdʒɑːməz/",
+   "def_en": "Loose trousers and a top that you wear in bed.",
+   "def_vi": "Bộ quần áo rộng mặc khi ngủ.",
+   "gloss_vi": "đồ ngủ, pi-ja-ma",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pyjamas</i> (plural noun) = đồ ngủ, pi-ja-ma. <b>Grammar</b>: luôn số nhiều; <i>a pair of pyjamas</i>. <b>Note</b>: Anh–Mỹ viết <i>pajamas</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The children are in their <b>pyjamas</b>.",
+    "vi": "Bọn trẻ đã mặc <b>đồ ngủ</b>."
+   }
+  },
+  {
+   "word": "belt",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/belt/",
+   "def_en": "A long thin piece of leather or cloth that you wear around your waist.",
+   "def_vi": "Dải da hay vải dài mảnh đeo quanh eo.",
+   "gloss_vi": "thắt lưng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Belt</i> (noun) = thắt lưng. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>wear a belt</i> (đeo thắt lưng).",
+   "ex_kit": true,
+   "example": {
+    "en": "These trousers are too big – I need a <b>belt</b>.",
+    "vi": "Quần này rộng quá – tôi cần <b>thắt lưng</b>."
+   }
+  },
+  {
+   "word": "tie",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/taɪ/",
+   "def_en": "A long narrow piece of cloth that a man wears around his neck under his shirt collar.",
+   "def_vi": "Dải vải dài hẹp nam giới đeo quanh cổ dưới cổ áo sơ mi.",
+   "gloss_vi": "cà vạt",
+   "synonyms": "necktie <i>(n. cà vạt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tie</i> (noun) = cà vạt. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>wear a tie</i> (đeo cà vạt).",
+   "ex_kit": true,
+   "example": {
+    "en": "He’s wearing a white shirt and a <b>tie</b>.",
+    "vi": "Anh ấy mặc sơ mi trắng và đeo <b>cà vạt</b>."
+   }
+  },
+  {
+   "word": "sunglasses",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈsʌnɡlɑːsɪz/",
+   "def_en": "Dark glasses that you wear to protect your eyes from the sun.",
+   "def_vi": "Kính tối màu đeo để bảo vệ mắt khỏi nắng.",
+   "gloss_vi": "kính râm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sunglasses</i> (plural noun) = kính râm. <b>Grammar</b>: luôn số nhiều; <i>a pair of sunglasses</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I always wear <b>sunglasses</b> on the beach.",
+    "vi": "Tôi luôn đeo <b>kính râm</b> ở bãi biển."
+   }
+  },
+  {
+   "word": "a pair of",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ə ˈpeər əv/",
+   "def_en": "Used before plural words for things that have two parts, such as trousers or glasses.",
+   "def_vi": "Dùng trước danh từ số nhiều chỉ vật có hai phần, như quần, kính.",
+   "gloss_vi": "một chiếc, một đôi, một cặp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A pair of</i> (phrase) = một chiếc, một đôi, một cặp. <b>Grammar</b>: <i>a pair of</i> + danh từ số nhiều, động từ số ít: <i>a pair of jeans is…</i>. <b>Collocations / chunks</b>: <i>two pairs of shoes</i> (hai đôi giày).",
+   "example": {
+    "en": "Note: You say: <b>a pair of</b> trousers / shorts / glasses, etc.",
+    "vi": "Bạn nói <b>một chiếc</b> quần dài / quần soóc / <b>một cặp</b> kính."
+   }
+  },
+  {
+   "word": "wear",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/weə(r)/",
+   "def_en": "To have clothes, glasses or jewellery on your body.",
+   "def_vi": "Mặc, đeo quần áo, kính hay trang sức trên người.",
+   "gloss_vi": "mặc, đeo",
+   "synonyms": "have on <i>(pv. mặc)</i>",
+   "antonyms": "take off <i>(pv. cởi)</i>",
+   "grammar_vi": "<i>Wear</i> (verb) = mặc, đeo. <b>Grammar</b>: quá khứ <i>wore</i>, phân từ <i>worn</i>; <i>be wearing</i> = đang mặc. <b>Common mistakes</b>: <i>wear</i> cho quần áo, <i>carry</i> cho đồ vật cầm/xách.",
+   "example": {
+    "en": "You <b>wear</b> clothes but you carry things.",
+    "vi": "Bạn <b>mặc</b> quần áo nhưng mang đồ vật."
+   }
+  },
+  {
+   "word": "carry",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈkæri/",
+   "def_en": "To hold something and take it with you.",
+   "def_vi": "Cầm và mang theo vật gì.",
+   "gloss_vi": "mang, xách",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Carry</i> (verb) = mang, xách. <b>Grammar</b>: quá khứ <i>carried</i>; <i>She’s carrying a suitcase</i> (đang xách va li). <b>Collocations / chunks</b>: <i>carry a bag</i> (xách túi), <i>carry an umbrella</i> (mang ô).",
+   "example": {
+    "en": "You wear clothes but you <b>carry</b> things.",
+    "vi": "Bạn mặc quần áo nhưng <b>mang</b> đồ vật."
+   }
+  },
+  {
+   "word": "handbag",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhændbæɡ/",
+   "def_en": "A small bag that a woman uses to carry money, keys and other small things.",
+   "def_vi": "Túi nhỏ phụ nữ đựng tiền, chìa khóa và đồ lặt vặt.",
+   "gloss_vi": "túi xách",
+   "synonyms": "purse <i>(n. ví, túi xách (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Handbag</i> (noun) = túi xách. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>a leather handbag</i> (túi xách da).",
+   "example": {
+    "en": "She’s carrying a suitcase and a <b>handbag</b>.",
+    "vi": "Cô ấy đang xách một va li và một chiếc <b>túi xách</b>."
+   }
+  },
+  {
+   "word": "umbrella",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ʌmˈbrelə/",
+   "def_en": "A thing that you hold over your head to keep dry when it rains.",
+   "def_vi": "Vật cầm che trên đầu để khỏi ướt khi mưa.",
+   "gloss_vi": "ô, dù",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Umbrella</i> (noun) = ô, dù. <b>Grammar</b>: đếm được; <i>an umbrella</i>. <b>Collocations / chunks</b>: <i>open/close an umbrella</i> (mở/gập ô).",
+   "example": {
+    "en": "You carry a bag and an <b>umbrella</b>.",
+    "vi": "Bạn mang túi và <b>ô</b>."
+   }
+  },
+  {
+   "word": "get dressed",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡet ˈdrest/",
+   "def_en": "To put your clothes on.",
+   "def_vi": "Mặc quần áo vào.",
+   "gloss_vi": "mặc quần áo",
+   "synonyms": "put on <i>(pv. mặc vào)</i>",
+   "antonyms": "get undressed <i>(vp. cởi quần áo)</i>",
+   "grammar_vi": "<i>Get dressed</i> (verb phrase) = mặc quần áo. <b>Grammar</b>: không có tân ngữ: <i>I got dressed quickly</i>. <b>Collocations / chunks</b>: <i>get dressed for work</i> (mặc đồ đi làm).",
+   "example": {
+    "en": "In the morning you <b>get dressed</b> or put your clothes on.",
+    "vi": "Buổi sáng bạn <b>mặc quần áo</b> hoặc mặc đồ vào."
+   }
+  },
+  {
+   "word": "put on",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌpʊt ˈɒn/",
+   "def_en": "To put clothes on your body.",
+   "def_vi": "Mặc quần áo vào người.",
+   "gloss_vi": "mặc vào",
+   "synonyms": "get dressed <i>(vp. mặc đồ)</i>",
+   "antonyms": "take off <i>(pv. cởi ra)</i>",
+   "grammar_vi": "<i>Put on</i> (phrasal verb) = mặc vào. <b>Grammar</b>: tách được: <i>put your clothes on</i> / <i>put them on</i>. <b>Common mistakes</b>: trái nghĩa là <i>take off</i>, không nói <i>put off</i>.",
+   "example": {
+    "en": "In the morning you get dressed or <b>put your clothes on</b>.",
+    "vi": "Buổi sáng bạn mặc quần áo hoặc <b>mặc</b> đồ <b>vào</b>."
+   }
+  },
+  {
+   "word": "get undressed",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡet ʌnˈdrest/",
+   "def_en": "To take your clothes off.",
+   "def_vi": "Cởi quần áo ra.",
+   "gloss_vi": "cởi quần áo",
+   "synonyms": "take off <i>(pv. cởi ra)</i>",
+   "antonyms": "get dressed <i>(vp. mặc quần áo)</i>",
+   "grammar_vi": "<i>Get undressed</i> (verb phrase) = cởi quần áo. <b>Grammar</b>: không có tân ngữ: <i>get undressed before bed</i> (cởi đồ trước khi ngủ).",
+   "example": {
+    "en": "At night you <b>get undressed</b> or you take your clothes off.",
+    "vi": "Buổi tối bạn <b>cởi quần áo</b> hoặc cởi đồ ra."
+   }
+  },
+  {
+   "word": "take off",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌteɪk ˈɒf/",
+   "def_en": "To remove clothes from your body.",
+   "def_vi": "Cởi quần áo khỏi người.",
+   "gloss_vi": "cởi ra",
+   "synonyms": "get undressed <i>(vp. cởi đồ)</i>",
+   "antonyms": "put on <i>(pv. mặc vào)</i>",
+   "grammar_vi": "<i>Take off</i> (phrasal verb) = cởi ra. <b>Grammar</b>: tách được: <i>take your clothes off</i> / <i>take them off</i>. <b>Common mistakes</b>: không nói <i>put clothes off</i>.",
+   "example": {
+    "en": "At night you get undressed or you <b>take your clothes off</b>.",
+    "vi": "Buổi tối bạn cởi quần áo hoặc <b>cởi</b> đồ <b>ra</b>."
+   }
+  }
+ ]
+}
