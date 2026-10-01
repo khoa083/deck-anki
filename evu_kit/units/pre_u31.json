@@ -1,0 +1,362 @@
+{
+ "book": "pre",
+ "unit": 31,
+ "title_vi": "Ngôn ngữ trong lớp học",
+ "theory_html": "<p><b>A. Equipment and uses</b><br><i>A. Dụng cụ và công dụng</i></p> <p><b>DVD player, socket, DVD, rubber, pencil sharpener, ruler, plug, highlighter pen</b>. <b>rub something out</b> with a rubber; <b>sharpen</b> pencils; <b>measure</b> with a ruler; <b>highlight</b> a word.</p><p><i><b>đầu DVD, ổ cắm, cục tẩy, gọt bút chì, thước kẻ, phích cắm, bút dạ quang; tẩy, gọt, đo, đánh dấu</b>.</i></p> <p><b>B. Classroom activities</b><br><i>B. Hoạt động trong lớp</i></p> <p><b>look up</b> a word, <b>borrow</b> a dictionary, <b>plug in</b> the DVD player, <b>turn up</b> the volume (opp <b>turn down</b>), <b>correct</b> students’ English. <b>lend sb sth</b> vs <b>borrow sth from sb</b>. Teachers ask: work with a <b>partner</b>, <b>swap places</b>, <b>share</b> your book, <b>repeat</b> this sentence.</p><p><i><b>tra, mượn, cắm điện, vặn to, sửa lỗi; cho mượn / mượn; bạn cặp, đổi chỗ, dùng chung, nhắc lại</b>.</i></p> <p><b>C. Questions about vocabulary</b><br><i>C. Câu hỏi về từ vựng</i></p> <p><b>What does tiny mean? How do you pronounce weight? How do you spell bicycle? How do you use the word wow? Could you explain the difference between lend and give?</b> Nouns: <b>meaning, pronunciation, spelling, explanation, repetition, use</b>.</p><p><i><b>nghĩa là gì, phát âm, đánh vần, cách dùng, giải thích sự khác nhau</b>.</i></p>",
+ "items": [
+  {
+   "word": "socket",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɒkɪt/",
+   "def_en": "The place in a wall where you connect electrical equipment.",
+   "def_vi": "Chỗ trên tường để cắm thiết bị điện.",
+   "gloss_vi": "ổ cắm điện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Socket</i> (noun) = ổ cắm điện. <b>Grammar</b>: Anh–Anh; Mỹ <i>outlet</i>.",
+   "example": {
+    "en": "Put the plug in the electric <b>socket</b>.",
+    "vi": "Cắm phích vào <b>ổ cắm</b> điện."
+   }
+  },
+  {
+   "word": "pencil sharpener",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈpensl ˌʃɑːpnə(r)/",
+   "def_en": "A small tool for making pencils sharp.",
+   "def_vi": "Dụng cụ nhỏ để gọt bút chì.",
+   "gloss_vi": "gọt bút chì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pencil sharpener</i> (noun phrase) = gọt bút chì. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "You use a <b>pencil sharpener</b> to sharpen pencils.",
+    "vi": "Bạn dùng <b>gọt bút chì</b> để gọt bút chì."
+   }
+  },
+  {
+   "word": "ruler",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈruːlə(r)/",
+   "def_en": "A long flat object for measuring and drawing straight lines.",
+   "def_vi": "Vật dài phẳng để đo và kẻ thẳng.",
+   "gloss_vi": "thước kẻ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ruler</i> (noun) = thước kẻ. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "You use a <b>ruler</b> to measure something.",
+    "vi": "Bạn dùng <b>thước kẻ</b> để đo thứ gì."
+   }
+  },
+  {
+   "word": "plug",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/plʌɡ/",
+   "def_en": "The thing at the end of a wire that connects equipment to electricity.",
+   "def_vi": "Đầu dây nối thiết bị với điện.",
+   "gloss_vi": "phích cắm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Plug</i> (noun) = phích cắm. <b>Grammar</b>: <i>plug in</i> (v.).",
+   "example": {
+    "en": "Put the <b>plug</b> in the electric socket.",
+    "vi": "Cắm <b>phích</b> vào ổ điện."
+   }
+  },
+  {
+   "word": "sharpen",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈʃɑːpən/",
+   "def_en": "To make something sharp.",
+   "def_vi": "Làm cho sắc nhọn.",
+   "gloss_vi": "gọt, mài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sharpen</i> (verb) = gọt, mài. <b>Grammar</b>: <i>sharp</i> + <i>-en</i>.",
+   "example": {
+    "en": "You use a pencil sharpener to <b>sharpen</b> pencils.",
+    "vi": "Bạn dùng gọt bút chì để <b>gọt</b> bút chì."
+   }
+  },
+  {
+   "word": "measure",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈmeʒə(r)/",
+   "def_en": "To find the size of something.",
+   "def_vi": "Tìm kích thước của thứ gì.",
+   "gloss_vi": "đo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Measure</i> (verb) = đo. <b>Grammar</b>: <i>measure sth</i>. <b>Common mistakes</b>: /ˈmeʒə/.",
+   "example": {
+    "en": "You use a ruler to <b>measure</b> something.",
+    "vi": "Bạn dùng thước kẻ để <b>đo</b> thứ gì."
+   }
+  },
+  {
+   "word": "highlight",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈhaɪlaɪt/",
+   "def_en": "To mark words with a bright colour.",
+   "def_vi": "Đánh dấu chữ bằng màu sáng.",
+   "gloss_vi": "đánh dấu (bằng bút dạ quang)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Highlight</i> (verb) = đánh dấu (bằng bút dạ quang). <b>Grammar</b>: cũng = làm nổi bật.",
+   "example": {
+    "en": "You use a highlighter pen to <b>highlight</b> a word.",
+    "vi": "Bạn dùng bút dạ quang để <b>đánh dấu</b> một từ."
+   }
+  },
+  {
+   "word": "borrow",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈbɒrəʊ/",
+   "def_en": "To use something and then return it.",
+   "def_vi": "Dùng thứ gì rồi trả lại.",
+   "gloss_vi": "mượn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "lend <i>(v. cho mượn)</i>",
+   "grammar_vi": "<i>Borrow</i> (verb) = mượn. <b>Grammar</b>: <i>borrow sth from sb</i>; <i>Could I borrow your pen?</i>.",
+   "example": {
+    "en": "<b>borrow</b> someone’s dictionary or rubber",
+    "vi": "<b>Mượn</b> từ điển hay cục tẩy của ai đó."
+   }
+  },
+  {
+   "word": "lend",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/lend/",
+   "def_en": "To give something to someone for a period of time.",
+   "def_vi": "Đưa thứ gì cho ai dùng một thời gian.",
+   "gloss_vi": "cho mượn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "borrow <i>(v. mượn)</i>",
+   "grammar_vi": "<i>Lend</i> (verb) = cho mượn. <b>Grammar</b>: <i>lend sb sth / lend sth to sb</i>; <i>lend – lent – lent</i>.",
+   "example": {
+    "en": "Could you <b>lend</b> me your pen?",
+    "vi": "Bạn có thể <b>cho tôi mượn</b> bút không?"
+   }
+  },
+  {
+   "word": "plug in",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌplʌɡ ˈɪn/",
+   "def_en": "To put the plug in the electric socket.",
+   "def_vi": "Cắm phích vào ổ điện.",
+   "gloss_vi": "cắm điện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "unplug <i>(v. rút phích)</i>",
+   "grammar_vi": "<i>Plug in</i> (phrasal verb) = cắm điện. <b>Grammar</b>: tách được: <i>plug it in</i>.",
+   "example": {
+    "en": "<b>plug in</b> the DVD player",
+    "vi": "<b>Cắm điện</b> cho đầu DVD."
+   }
+  },
+  {
+   "word": "turn up",
+   "sense": "volume",
+   "pos": "phrasal verb",
+   "ipa": "/ˌtɜːn ˈʌp/",
+   "def_en": "To increase the volume.",
+   "def_vi": "Tăng âm lượng.",
+   "gloss_vi": "vặn to",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "turn down <i>(pv. vặn nhỏ)</i>",
+   "grammar_vi": "<i>Turn up</i> (phrasal verb) = vặn to. <b>Grammar</b>: tách được: <i>turn it up</i>.",
+   "example": {
+    "en": "<b>turn up</b> the volume on the DVD player",
+    "vi": "<b>Vặn to</b> âm lượng đầu DVD."
+   }
+  },
+  {
+   "word": "correct",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kəˈrekt/",
+   "def_en": "To give the correct English if students make mistakes.",
+   "def_vi": "Đưa ra tiếng Anh đúng khi học sinh mắc lỗi.",
+   "gloss_vi": "sửa (lỗi)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Correct</i> (verb) = sửa (lỗi). <b>Grammar</b>: cũng là tính từ <i>đúng</i>. <b>Word family</b>: <i>correction</i> (n.).",
+   "example": {
+    "en": "<b>correct</b> students’ English",
+    "vi": "<b>Sửa lỗi</b> tiếng Anh của học sinh."
+   }
+  },
+  {
+   "word": "partner",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɑːtnə(r)/",
+   "def_en": "Another student you work with.",
+   "def_vi": "Người học cùng bạn.",
+   "gloss_vi": "bạn cùng cặp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Partner</i> (noun) = bạn cùng cặp. <b>Grammar</b>: <i>work with a partner / in pairs</i>.",
+   "example": {
+    "en": "I’d like you to work with a <b>partner</b>.",
+    "vi": "Tôi muốn các em làm việc với một <b>bạn cùng cặp</b>."
+   }
+  },
+  {
+   "word": "swap places",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌswɒp ˈpleɪsɪz/",
+   "def_en": "To change seats with someone.",
+   "def_vi": "Đổi chỗ ngồi với ai.",
+   "gloss_vi": "đổi chỗ",
+   "synonyms": "change places <i>(vp. đổi chỗ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Swap places</i> (verb phrase) = đổi chỗ. <b>Grammar</b>: <i>swap – swapped</i>; <i>swap sth with sb</i>.",
+   "example": {
+    "en": "Henrique, could you <b>swap places</b> with Lorena?",
+    "vi": "Henrique, em có thể <b>đổi chỗ</b> với Lorena không?"
+   }
+  },
+  {
+   "word": "share",
+   "sense": "classroom",
+   "pos": "verb",
+   "ipa": "/ʃeə(r)/",
+   "def_en": "To use something together at the same time.",
+   "def_vi": "Dùng chung thứ gì cùng lúc.",
+   "gloss_vi": "dùng chung",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Share</i> (verb) = dùng chung. <b>Grammar</b>: <i>share sth with sb</i>.",
+   "example": {
+    "en": "Kim, could you <b>share</b> your book with Petra?",
+    "vi": "Kim, em có thể <b>dùng chung</b> sách với Petra không?"
+   }
+  },
+  {
+   "word": "repeat",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rɪˈpiːt/",
+   "def_en": "To say something again.",
+   "def_vi": "Nói lại.",
+   "gloss_vi": "nhắc lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Repeat</i> (verb) = nhắc lại. <b>Grammar</b>: không dùng <i>repeat again</i>. <b>Word family</b>: <i>repetition</i> (n.).",
+   "example": {
+    "en": "<b>Repeat</b> this sentence after me.",
+    "vi": "<b>Nhắc lại</b> câu này theo tôi."
+   }
+  },
+  {
+   "word": "what does … mean",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌwɒt dʌz … ˈmiːn/",
+   "def_en": "A question asking the meaning of a word.",
+   "def_vi": "Câu hỏi về nghĩa của từ.",
+   "gloss_vi": "… nghĩa là gì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>What does … mean</i> (phrase) = … nghĩa là gì. <b>Grammar</b>: <i>What does X mean?</i> (không nói <i>What means X?</i>). <b>Word family</b>: <i>meaning</i> (n.).",
+   "example": {
+    "en": "<b>What does</b> tiny <b>mean</b>? – It means ‘very small’.",
+    "vi": "Tiny <b>nghĩa là gì</b>? – Nó nghĩa là “rất nhỏ”."
+   }
+  },
+  {
+   "word": "pronounce",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/prəˈnaʊns/",
+   "def_en": "To make the sound of a word.",
+   "def_vi": "Phát ra âm của từ.",
+   "gloss_vi": "phát âm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pronounce</i> (verb) = phát âm. <b>Grammar</b>: <i>How do you pronounce…?</i>. <b>Word family</b>: <i>pronunciation</i> (n.) /prəˌnʌnsiˈeɪʃn/.",
+   "example": {
+    "en": "How do you <b>pronounce</b> weight?",
+    "vi": "Bạn <b>phát âm</b> weight thế nào?"
+   }
+  },
+  {
+   "word": "spell",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/spel/",
+   "def_en": "To say or write the letters of a word in order.",
+   "def_vi": "Nói hay viết các chữ cái của từ theo thứ tự.",
+   "gloss_vi": "đánh vần",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spell</i> (verb) = đánh vần. <b>Grammar</b>: <i>spell – spelt/spelled</i>. <b>Word family</b>: <i>spelling</i> (n.).",
+   "example": {
+    "en": "How do you <b>spell</b> bicycle?",
+    "vi": "Bạn <b>đánh vần</b> bicycle thế nào?"
+   }
+  },
+  {
+   "word": "explain the difference between",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ɪkˌspleɪn ðə ˈdɪfrəns bɪtwiːn/",
+   "def_en": "To say how two things are different.",
+   "def_vi": "Nói hai thứ khác nhau thế nào.",
+   "gloss_vi": "giải thích sự khác nhau giữa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Explain the difference between</i> (verb phrase) = giải thích sự khác nhau giữa. <b>Grammar</b>: <i>explain sth to sb</i> (không <i>explain sb sth</i>). <b>Word family</b>: <i>explanation</i> (n.).",
+   "example": {
+    "en": "Could you <b>explain the difference between</b> lend and give?",
+    "vi": "Bạn có thể <b>giải thích sự khác nhau giữa</b> lend và give không?"
+   }
+  },
+  {
+   "word": "pronunciation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/prəˌnʌnsiˈeɪʃn/",
+   "def_en": "The way a word is pronounced.",
+   "def_vi": "Cách phát âm một từ.",
+   "gloss_vi": "cách phát âm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pronunciation</i> (noun) = cách phát âm. <b>Grammar</b>: không có <i>-noun-</i> (không viết <i>pronounciation</i>).",
+   "ex_kit": true,
+   "example": {
+    "en": "Her <b>pronunciation</b> is very good.",
+    "vi": "<b>Phát âm</b> của cô ấy rất tốt."
+   }
+  },
+  {
+   "word": "spelling",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈspelɪŋ/",
+   "def_en": "The way a word is spelt.",
+   "def_vi": "Cách viết chính tả một từ.",
+   "gloss_vi": "chính tả",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spelling</i> (noun) = chính tả. <b>Grammar</b>: không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "Check your <b>spelling</b> before you hand in your work.",
+    "vi": "Kiểm tra <b>chính tả</b> trước khi nộp bài."
+   }
+  }
+ ]
+}

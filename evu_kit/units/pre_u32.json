@@ -1,0 +1,536 @@
+{
+ "book": "pre",
+ "unit": 32,
+ "title_vi": "Giáo dục phổ thông",
+ "theory_html": "<p><b>A. The school system</b><br><i>A. Hệ thống trường học</i></p> <p><b>state education</b> (free, run by the country) vs <b>private</b> schools. Age 3: <b>attend nursery school</b>; 5: <b>primary school</b>; 11: <b>pupils</b> go to <b>secondary school</b>; 16: <b>take/do</b> GCSE <b>exams</b>, then <b>vocational training</b> or <b>stay at school</b>; 18: ‘A’ levels, then <b>leave school</b> and <b>get a job</b> or <b>go on to</b> university.</p><p><i><b>giáo dục công lập, tư thục; đi học, mẫu giáo, tiểu học, học sinh, trung học, thi, đào tạo nghề, ở lại trường, rời trường, đi làm, học tiếp</b>.</i></p> <p><b>B. The school timetable</b><br><i>B. Thời khóa biểu</i></p> <p>The day is <b>divided into</b> 5–7 lessons; pupils <b>do/study</b> about ten <b>subjects</b>; a lunch <b>break</b>; <b>maths</b> (BrE) / <b>math</b> (AmE); three <b>terms</b>; exams before they <b>break up</b>; <b>go back</b> after the holidays.</p><p><i><b>chia thành, môn học, giờ nghỉ, toán, học kỳ, nghỉ học (cuối kỳ), quay lại trường</b>.</i></p> <p><b>C. School rules</b><br><i>C. Nội quy trường học</i></p> <p><b>In the past</b> if you <b>broke the rules</b> you were <b>punished</b>; <b>stay behind</b>; <b>get into trouble</b> for wearing <b>lipstick</b>; <b>call</b> the <b>male</b> teachers ‘sir’ and <b>female</b> teachers ‘miss’; <b>wear</b> a <b>uniform</b>. Nowadays the <b>atmosphere</b> is more <b>relaxed</b>; pupils <b>dress</b> as they want if reasonably <b>smart</b>; teachers are not as <b>strict</b>.</p><p><i><b>ngày trước, vi phạm nội quy, bị phạt, ở lại, gặp rắc rối, son môi, gọi, nam, nữ, đồng phục, thoải mái</b>.</i></p>",
+ "items": [
+  {
+   "word": "system",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɪstəm/",
+   "def_en": "An organised way of doing something.",
+   "def_vi": "Cách tổ chức làm việc gì.",
+   "gloss_vi": "hệ thống",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>System</i> (noun) = hệ thống. <b>Grammar</b>: <i>the education/school system</i>.",
+   "example": {
+    "en": "This is the <b>system</b> for state education in most parts of England and Wales.",
+    "vi": "Đây là <b>hệ thống</b> giáo dục công lập ở phần lớn nước Anh và xứ Wales."
+   }
+  },
+  {
+   "word": "state education",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌsteɪt edʒuˈkeɪʃn/",
+   "def_en": "Free education operated by the country.",
+   "def_vi": "Giáo dục miễn phí do nhà nước điều hành.",
+   "gloss_vi": "giáo dục công lập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "private education <i>(np. giáo dục tư thục)</i>",
+   "grammar_vi": "<i>State education</i> (noun phrase) = giáo dục công lập. <b>Grammar</b>: <i>state school</i> = trường công.",
+   "example": {
+    "en": "This is the system for <b>state education</b> in most parts of England and Wales.",
+    "vi": "Đây là hệ thống <b>giáo dục công lập</b> ở phần lớn nước Anh."
+   }
+  },
+  {
+   "word": "private",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈpraɪvət/",
+   "def_en": "Not operated by the state; you pay for it.",
+   "def_vi": "Không do nhà nước điều hành; phải trả tiền.",
+   "gloss_vi": "tư thục, tư nhân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "state <i>(adj. công lập)</i>",
+   "grammar_vi": "<i>Private</i> (adjective) = tư thục, tư nhân. <b>Grammar</b>: <i>private school/hospital</i>. <b>Common mistakes</b>: /ˈpraɪvət/.",
+   "example": {
+    "en": "Parents pay to send their children to <b>private</b> schools.",
+    "vi": "Phụ huynh trả tiền để gửi con vào trường <b>tư</b>."
+   }
+  },
+  {
+   "word": "attend",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈtend/",
+   "def_en": "To go to (formal).",
+   "def_vi": "Đi tới, theo học (trang trọng).",
+   "gloss_vi": "đi học, tham dự",
+   "synonyms": "go to <i>(pv. đi tới)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Attend</i> (verb) = đi học, tham dự. <b>Grammar</b>: <i>attend sth</i> (không dùng <i>to</i>).",
+   "example": {
+    "en": "Almost all children <b>attend</b> nursery school for up to 15 hours a week.",
+    "vi": "Gần như mọi trẻ em đều <b>đi</b> mẫu giáo tới 15 giờ mỗi tuần."
+   }
+  },
+  {
+   "word": "nursery school",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈnɜːsəri skuːl/",
+   "def_en": "A school for children aged about 3–5.",
+   "def_vi": "Trường cho trẻ khoảng 3–5 tuổi.",
+   "gloss_vi": "trường mẫu giáo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nursery school</i> (noun phrase) = trường mẫu giáo. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Almost all children attend <b>nursery school</b> for up to 15 hours a week.",
+    "vi": "Gần như mọi trẻ em đều đi <b>mẫu giáo</b>."
+   }
+  },
+  {
+   "word": "primary school",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈpraɪməri skuːl/",
+   "def_en": "A school for children aged 5–11.",
+   "def_vi": "Trường cho trẻ 5–11 tuổi.",
+   "gloss_vi": "trường tiểu học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Primary school</i> (noun phrase) = trường tiểu học. <b>Grammar</b>: <i>at primary school</i>.",
+   "example": {
+    "en": "Everyone starts <b>primary school</b>.",
+    "vi": "Ai cũng bắt đầu <b>học tiểu học</b> năm 5 tuổi."
+   }
+  },
+  {
+   "word": "pupil",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpjuːpl/",
+   "def_en": "A student at school.",
+   "def_vi": "Học sinh ở trường.",
+   "gloss_vi": "học sinh",
+   "synonyms": "student <i>(n. học sinh, sinh viên)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pupil</i> (noun) = học sinh. <b>Grammar</b>: Anh–Anh, cho học sinh phổ thông.",
+   "example": {
+    "en": "<b>Pupils</b> go to secondary school.",
+    "vi": "<b>Học sinh</b> lên trung học năm 11 tuổi."
+   }
+  },
+  {
+   "word": "secondary school",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈsekəndri skuːl/",
+   "def_en": "A school for children aged 11–16 or 18.",
+   "def_vi": "Trường cho trẻ 11–16 hay 18 tuổi.",
+   "gloss_vi": "trường trung học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Secondary school</i> (noun phrase) = trường trung học. <b>Grammar</b>: Mỹ <i>high school</i>.",
+   "example": {
+    "en": "Pupils go to <b>secondary school</b>.",
+    "vi": "Học sinh lên <b>trung học</b>."
+   }
+  },
+  {
+   "word": "take exams",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌteɪk ɪɡˈzæmz/",
+   "def_en": "To do exams.",
+   "def_vi": "Làm bài thi.",
+   "gloss_vi": "đi thi, dự thi",
+   "synonyms": "do exams <i>(vp. làm bài thi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take exams</i> (verb phrase) = đi thi, dự thi. <b>Grammar</b>: <i>take/do an exam</i> (không <i>make</i>); <i>pass/fail an exam</i>.",
+   "example": {
+    "en": "Pupils <b>take</b> GCSE <b>exams</b>, in up to ten subjects.",
+    "vi": "Học sinh <b>thi</b> GCSE tới mười môn."
+   }
+  },
+  {
+   "word": "vocational training",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/vəʊˌkeɪʃənl ˈtreɪnɪŋ/",
+   "def_en": "Training for a job.",
+   "def_vi": "Đào tạo cho một nghề.",
+   "gloss_vi": "đào tạo nghề",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Vocational training</i> (noun phrase) = đào tạo nghề. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "They can go to a college for <b>vocational training</b>, e.g. hotel management.",
+    "vi": "Họ có thể vào cao đẳng để <b>học nghề</b>, ví dụ quản lý khách sạn."
+   }
+  },
+  {
+   "word": "stay at school",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌsteɪ ət ˈskuːl/",
+   "def_en": "To continue studying at school.",
+   "def_vi": "Tiếp tục học ở trường.",
+   "gloss_vi": "tiếp tục đi học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "leave school <i>(vp. rời trường)</i>",
+   "grammar_vi": "<i>Stay at school</i> (verb phrase) = tiếp tục đi học. <b>Grammar</b>: không có <i>the</i>.",
+   "example": {
+    "en": "Or they can <b>stay at school</b> for two more years.",
+    "vi": "Hoặc họ có thể <b>ở lại trường</b> thêm hai năm."
+   }
+  },
+  {
+   "word": "leave school",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌliːv ˈskuːl/",
+   "def_en": "To finish going to school.",
+   "def_vi": "Thôi đi học ở trường.",
+   "gloss_vi": "ra trường, thôi học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Leave school</i> (verb phrase) = ra trường, thôi học. <b>Grammar</b>: không có <i>the</i>.",
+   "example": {
+    "en": "Then they can <b>leave school</b> and get a job.",
+    "vi": "Rồi họ có thể <b>ra trường</b> và đi làm."
+   }
+  },
+  {
+   "word": "get a job",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡet ə ˈdʒɒb/",
+   "def_en": "To start working.",
+   "def_vi": "Bắt đầu đi làm.",
+   "gloss_vi": "kiếm việc, có việc làm",
+   "synonyms": "find a job <i>(vp. tìm việc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get a job</i> (verb phrase) = kiếm việc, có việc làm. <b>Grammar</b>: <i>get a job as a…</i>.",
+   "example": {
+    "en": "Then they can leave school and <b>get a job</b>.",
+    "vi": "Rồi họ có thể ra trường và <b>đi làm</b>."
+   }
+  },
+  {
+   "word": "go on to",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌɡəʊ ˈɒn tə/",
+   "def_en": "To continue your education at the next level.",
+   "def_vi": "Tiếp tục học bậc tiếp theo.",
+   "gloss_vi": "học tiếp lên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go on to</i> (phrasal verb) = học tiếp lên. <b>Grammar</b>: <i>go on to university/college</i>.",
+   "example": {
+    "en": "Or <b>go on to</b> university.",
+    "vi": "Hoặc <b>học tiếp lên</b> đại học."
+   }
+  },
+  {
+   "word": "divided into",
+   "sense": "",
+   "pos": "adjp",
+   "ipa": "/dɪˈvaɪdɪd ˈɪntə/",
+   "def_en": "Separated into parts.",
+   "def_vi": "Được chia thành các phần.",
+   "gloss_vi": "được chia thành",
+   "synonyms": "split into <i>(adjp. chia thành)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Divided into</i> (adjp) = được chia thành. <b>Grammar</b>: <i>divide sth into parts</i>.",
+   "example": {
+    "en": "The school day is <b>divided into</b> about 5–7 lessons.",
+    "vi": "Ngày học <b>được chia thành</b> khoảng 5–7 tiết."
+   }
+  },
+  {
+   "word": "subject",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsʌbdʒɪkt/",
+   "def_en": "Something you study at school, e.g. maths or history.",
+   "def_vi": "Thứ học ở trường, như toán hay sử.",
+   "gloss_vi": "môn học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Subject</i> (noun) = môn học. <b>Grammar</b>: <i>do/study a subject</i>.",
+   "example": {
+    "en": "Most pupils do/study about ten <b>subjects</b>.",
+    "vi": "Phần lớn học sinh học khoảng mười <b>môn</b>."
+   }
+  },
+  {
+   "word": "break",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/breɪk/",
+   "def_en": "A period of rest between work.",
+   "def_vi": "Khoảng nghỉ giữa giờ làm.",
+   "gloss_vi": "giờ nghỉ, giờ ra chơi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Break</i> (noun) = giờ nghỉ, giờ ra chơi. <b>Grammar</b>: <i>have/take a break</i>; <i>lunch break</i>.",
+   "example": {
+    "en": "There’s usually a one-hour lunch <b>break</b>.",
+    "vi": "Thường có một tiếng <b>nghỉ</b> trưa."
+   }
+  },
+  {
+   "word": "maths",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/mæθs/",
+   "def_en": "The study of numbers.",
+   "def_vi": "Môn học về số.",
+   "gloss_vi": "môn toán",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Maths</i> (noun) = môn toán. <b>Grammar</b>: Anh–Anh <i>maths</i>, Mỹ <i>math</i>; động từ số ít.",
+   "example": {
+    "en": "Most pupils do about ten subjects, including English, <b>maths</b>, history, science.",
+    "vi": "Phần lớn học sinh học tiếng Anh, <b>toán</b>, lịch sử, khoa học."
+   }
+  },
+  {
+   "word": "term",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tɜːm/",
+   "def_en": "A period of study in the school year.",
+   "def_vi": "Khoảng thời gian học trong năm.",
+   "gloss_vi": "học kỳ",
+   "synonyms": "semester <i>(n. học kỳ (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Term</i> (noun) = học kỳ. <b>Grammar</b>: <i>the summer term</i>.",
+   "example": {
+    "en": "The school year is usually divided into three <b>terms</b>.",
+    "vi": "Năm học thường chia làm ba <b>học kỳ</b>."
+   }
+  },
+  {
+   "word": "break up",
+   "sense": "school",
+   "pos": "phrasal verb",
+   "ipa": "/ˌbreɪk ˈʌp/",
+   "def_en": "To end classes for the term.",
+   "def_vi": "Kết thúc giờ học của học kỳ.",
+   "gloss_vi": "nghỉ học (cuối kỳ)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Break up</i> (phrasal verb) = nghỉ học (cuối kỳ). <b>Grammar</b>: nội động từ. <b>Common mistakes</b>: cũng = chia tay (u15).",
+   "example": {
+    "en": "At the end of the school year, pupils usually take exams before they <b>break up</b>.",
+    "vi": "Cuối năm học, học sinh thường thi trước khi <b>nghỉ</b>."
+   }
+  },
+  {
+   "word": "go back",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌɡəʊ ˈbæk/",
+   "def_en": "To return.",
+   "def_vi": "Quay lại.",
+   "gloss_vi": "quay lại (trường)",
+   "synonyms": "return <i>(v. trở lại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go back</i> (phrasal verb) = quay lại (trường). <b>Grammar</b>: <i>go back to school/work</i>.",
+   "example": {
+    "en": "After the summer holidays, they <b>go back</b> for the new school year.",
+    "vi": "Sau kỳ nghỉ hè, họ <b>quay lại</b> cho năm học mới."
+   }
+  },
+  {
+   "word": "in the past",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪn ðə ˈpɑːst/",
+   "def_en": "At an earlier time.",
+   "def_vi": "Thời trước.",
+   "gloss_vi": "ngày trước",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "nowadays <i>(adv. ngày nay)</i>",
+   "grammar_vi": "<i>In the past</i> (phrase) = ngày trước. <b>Grammar</b>: thường dùng với quá khứ / <i>used to</i>.",
+   "example": {
+    "en": "<b>In the past</b> schools generally had more rules.",
+    "vi": "<b>Ngày trước</b> các trường thường có nhiều nội quy hơn."
+   }
+  },
+  {
+   "word": "break the rules",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌbreɪk ðə ˈruːlz/",
+   "def_en": "To do something wrong that is not allowed.",
+   "def_vi": "Làm điều sai không được phép.",
+   "gloss_vi": "vi phạm nội quy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "obey the rules <i>(vp. tuân thủ nội quy)</i>",
+   "grammar_vi": "<i>Break the rules</i> (verb phrase) = vi phạm nội quy. <b>Grammar</b>: <i>break – broke – broken</i>.",
+   "example": {
+    "en": "If you <b>broke the rules</b>, you were punished.",
+    "vi": "Nếu bạn <b>vi phạm nội quy</b>, bạn bị phạt."
+   }
+  },
+  {
+   "word": "punish",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈpʌnɪʃ/",
+   "def_en": "To make someone suffer because they did something wrong.",
+   "def_vi": "Bắt ai chịu hậu quả vì làm sai.",
+   "gloss_vi": "phạt, trừng phạt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Punish</i> (verb) = phạt, trừng phạt. <b>Grammar</b>: <i>punish sb for sth</i>. <b>Word family</b>: <i>punishment</i> (n.).",
+   "example": {
+    "en": "If you broke the rules, you were <b>punished</b>.",
+    "vi": "Nếu vi phạm nội quy, bạn <b>bị phạt</b>."
+   }
+  },
+  {
+   "word": "stay behind",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌsteɪ bɪˈhaɪnd/",
+   "def_en": "To stay in a place when others leave.",
+   "def_vi": "Ở lại khi người khác đã về.",
+   "gloss_vi": "ở lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stay behind</i> (phrasal verb) = ở lại. <b>Grammar</b>: nội động từ.",
+   "example": {
+    "en": "Pupils sometimes had to <b>stay behind</b> and write an essay.",
+    "vi": "Học sinh đôi khi phải <b>ở lại</b> viết một bài luận."
+   }
+  },
+  {
+   "word": "get into trouble",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡet ˌɪntə ˈtrʌbl/",
+   "def_en": "To do something wrong and be punished.",
+   "def_vi": "Làm sai và bị phạt.",
+   "gloss_vi": "gặp rắc rối, bị phạt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get into trouble</i> (verb phrase) = gặp rắc rối, bị phạt. <b>Grammar</b>: <i>get into trouble for (doing) sth</i>.",
+   "example": {
+    "en": "I used to <b>get into trouble</b> for wearing lipstick.",
+    "vi": "Tôi từng <b>bị phạt</b> vì tô son môi."
+   }
+  },
+  {
+   "word": "lipstick",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlɪpstɪk/",
+   "def_en": "Colour that women put on their lips.",
+   "def_vi": "Màu phụ nữ tô lên môi.",
+   "gloss_vi": "son môi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lipstick</i> (noun) = son môi. <b>Grammar</b>: không đếm được; <i>wear/put on lipstick</i>.",
+   "example": {
+    "en": "I used to get into trouble for wearing <b>lipstick</b>.",
+    "vi": "Tôi từng bị phạt vì tô <b>son môi</b>."
+   }
+  },
+  {
+   "word": "call",
+   "sense": "name",
+   "pos": "verb",
+   "ipa": "/kɔːl/",
+   "def_en": "To use a particular name for someone.",
+   "def_vi": "Gọi ai bằng tên nào đó.",
+   "gloss_vi": "gọi (là)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Call</i> (verb) = gọi (là). <b>Grammar</b>: <i>call sb sth</i> (<i>call him ‘sir’</i>).",
+   "example": {
+    "en": "We had to <b>call</b> the male teachers ‘sir’.",
+    "vi": "Chúng tôi phải <b>gọi</b> thầy giáo là “sir”."
+   }
+  },
+  {
+   "word": "male",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/meɪl/",
+   "def_en": "Belonging to the sex that does not have babies.",
+   "def_vi": "Thuộc giới không sinh con.",
+   "gloss_vi": "nam, giống đực",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "female <i>(adj. nữ)</i>",
+   "grammar_vi": "<i>Male</i> (adjective) = nam, giống đực. <b>Grammar</b>: cũng là danh từ.",
+   "example": {
+    "en": "We had to call the <b>male</b> teachers ‘sir’.",
+    "vi": "Chúng tôi phải gọi giáo viên <b>nam</b> là “sir”."
+   }
+  },
+  {
+   "word": "female",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈfiːmeɪl/",
+   "def_en": "Belonging to the sex that has babies.",
+   "def_vi": "Thuộc giới sinh con.",
+   "gloss_vi": "nữ, giống cái",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "male <i>(adj. nam)</i>",
+   "grammar_vi": "<i>Female</i> (adjective) = nữ, giống cái. <b>Grammar</b>: cũng là danh từ.",
+   "example": {
+    "en": "We had to call <b>female</b> teachers ‘miss’.",
+    "vi": "Chúng tôi phải gọi giáo viên <b>nữ</b> là “miss”."
+   }
+  },
+  {
+   "word": "uniform",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈjuːnɪfɔːm/",
+   "def_en": "Special clothes that all members of a group wear.",
+   "def_vi": "Quần áo đặc biệt cả nhóm cùng mặc.",
+   "gloss_vi": "đồng phục",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Uniform</i> (noun) = đồng phục. <b>Grammar</b>: <i>in uniform</i>; <i>school uniform</i>.",
+   "example": {
+    "en": "We had to wear a horrible <b>uniform</b>.",
+    "vi": "Chúng tôi phải mặc bộ <b>đồng phục</b> xấu kinh khủng."
+   }
+  },
+  {
+   "word": "relaxed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/rɪˈlækst/",
+   "def_en": "Comfortable and informal.",
+   "def_vi": "Thoải mái và thân mật.",
+   "gloss_vi": "thoải mái",
+   "synonyms": "informal <i>(adj. thân mật)</i>",
+   "antonyms": "formal <i>(adj. trang trọng)</i>",
+   "grammar_vi": "<i>Relaxed</i> (adjective) = thoải mái. <b>Grammar</b>: <i>relaxed</i> (người/không khí) ≠ <i>relaxing</i> (gây thư giãn).",
+   "example": {
+    "en": "Nowadays, the atmosphere is more <b>relaxed</b>.",
+    "vi": "Ngày nay bầu không khí <b>thoải mái</b> hơn."
+   }
+  },
+  {
+   "word": "dress",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dres/",
+   "def_en": "To wear clothes in a particular way.",
+   "def_vi": "Mặc quần áo theo cách nào đó.",
+   "gloss_vi": "ăn mặc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dress</i> (verb) = ăn mặc. <b>Grammar</b>: <i>dress well/smartly</i>; <i>get dressed</i>.",
+   "example": {
+    "en": "Older pupils can often <b>dress</b> the way they want.",
+    "vi": "Học sinh lớn thường được <b>ăn mặc</b> theo ý mình."
+   }
+  }
+ ]
+}

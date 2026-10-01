@@ -1,0 +1,312 @@
+{
+ "book": "pre",
+ "unit": 30,
+ "title_vi": "Thông báo và cảnh báo",
+ "theory_html": "<p><b>A. Notices</b><br><i>A. Thông báo</i></p> <p><b>Out of Order</b> (a machine that is not working), <b>No Vacancies</b> (the hotel is full), <b>Sold Out</b> (all the tickets have been sold), <b>Free Admission</b> (you can go in free).</p><p><i><b>Hỏng, Hết phòng, Hết vé, Vào cửa miễn phí</b>.</i></p> <p><b>B. Do this!</b><br><i>B. Hãy làm điều này!</i></p> <p><b>Please queue other side</b>, <b>Keep right</b>, <b>Keep off the grass</b>, <b>Silence – examination in progress</b>.</p><p><i><b>Xếp hàng phía bên kia, Đi bên phải, Không giẫm lên cỏ, Giữ im lặng – đang thi</b>.</i></p> <p><b>C. Don’t do this!</b><br><i>C. Đừng làm điều này!</i></p> <p><b>No parking, No entry, No exit, Please do not disturb, Please do not leave bags unattended, Do not lean out of the window, Please do not feed the animals</b>.</p><p><i><b>Cấm đỗ xe, Cấm vào, Không phải lối ra, Xin đừng làm phiền, Không để hành lý không người trông, Không thò người ra cửa sổ, Không cho thú ăn</b>.</i></p> <p><b>D. Warnings</b><br><i>D. Cảnh báo</i></p> <p>A <b>warning</b> tells you that something bad may happen: <b>Mind your head, Mind the step, Fragile</b> (this <b>parcel</b> will break easily).</p><p><i><b>Cẩn thận đầu, Cẩn thận bậc, Dễ vỡ (bưu kiện)</b>.</i></p>",
+ "items": [
+  {
+   "word": "out of order",
+   "sense": "",
+   "pos": "adjp",
+   "ipa": "/ˌaʊt əv ˈɔːdə(r)/",
+   "def_en": "(Of a machine) not working.",
+   "def_vi": "(Máy) không hoạt động.",
+   "gloss_vi": "hỏng, không hoạt động",
+   "synonyms": "broken <i>(adj. hỏng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Out of order</i> (adjp) = hỏng, không hoạt động. <b>Grammar</b>: <i>be out of order</i>.",
+   "example": {
+    "en": "<b>Out of Order</b> – on a machine that is not working, e.g. vending machine.",
+    "vi": "<b>Hỏng</b> – trên một cái máy không hoạt động, ví dụ máy bán hàng tự động."
+   }
+  },
+  {
+   "word": "no vacancies",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌnəʊ ˈveɪkənsiz/",
+   "def_en": "(Of a hotel) full, with no free rooms.",
+   "def_vi": "(Khách sạn) đầy, không còn phòng.",
+   "gloss_vi": "hết phòng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>No vacancies</i> (phrase) = hết phòng. <b>Grammar</b>: <i>vacancy</i> = phòng trống; cũng = vị trí việc làm trống.",
+   "example": {
+    "en": "<b>No Vacancies</b> – in the window of a hotel; the hotel is full.",
+    "vi": "<b>Hết phòng</b> – trên cửa sổ khách sạn; khách sạn đã kín."
+   }
+  },
+  {
+   "word": "sold out",
+   "sense": "",
+   "pos": "adjp",
+   "ipa": "/ˌsəʊld ˈaʊt/",
+   "def_en": "All the tickets have been sold.",
+   "def_vi": "Đã bán hết vé.",
+   "gloss_vi": "hết vé, bán hết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sold out</i> (adjp) = hết vé, bán hết. <b>Grammar</b>: <i>be sold out</i>; <i>The concert is sold out</i>.",
+   "example": {
+    "en": "<b>Sold Out</b> – outside a theatre; all the tickets have been sold.",
+    "vi": "<b>Hết vé</b> – bên ngoài nhà hát; toàn bộ vé đã bán hết."
+   }
+  },
+  {
+   "word": "free admission",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌfriː ədˈmɪʃn/",
+   "def_en": "You can go in without paying.",
+   "def_vi": "Được vào mà không trả tiền.",
+   "gloss_vi": "vào cửa miễn phí",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Free admission</i> (noun phrase) = vào cửa miễn phí. <b>Grammar</b>: <i>admission</i> = việc vào cửa / phí vào cửa.",
+   "example": {
+    "en": "Museum – <b>Free Admission</b>; you can go in free.",
+    "vi": "Bảo tàng – <b>Vào cửa miễn phí</b>; bạn được vào không mất tiền."
+   }
+  },
+  {
+   "word": "queue",
+   "sense": "verb",
+   "pos": "verb",
+   "ipa": "/kjuː/",
+   "def_en": "To wait in a line.",
+   "def_vi": "Đứng chờ thành hàng.",
+   "gloss_vi": "xếp hàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Queue</i> (verb) = xếp hàng. <b>Grammar</b>: <i>queue (up) for sth</i>; <i>queuing/queueing</i>.",
+   "example": {
+    "en": "Please <b>queue</b> other side.",
+    "vi": "Xin <b>xếp hàng</b> phía bên kia."
+   }
+  },
+  {
+   "word": "keep right",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌkiːp ˈraɪt/",
+   "def_en": "Stay on the right side.",
+   "def_vi": "Đi ở phía bên phải.",
+   "gloss_vi": "đi bên phải",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "keep left <i>(phr. đi bên trái)</i>",
+   "grammar_vi": "<i>Keep right</i> (phrase) = đi bên phải. <b>Grammar</b>: <i>keep</i> + hướng = giữ ở phía.",
+   "example": {
+    "en": "<b>Keep right</b> – stay on the right side, e.g. on the underground.",
+    "vi": "<b>Đi bên phải</b> – ví dụ ở tàu điện ngầm."
+   }
+  },
+  {
+   "word": "keep off the grass",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌkiːp ɒf ðə ˈɡrɑːs/",
+   "def_en": "Do not walk on the grass.",
+   "def_vi": "Không đi lên cỏ.",
+   "gloss_vi": "không giẫm lên cỏ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Keep off the grass</i> (phrase) = không giẫm lên cỏ. <b>Grammar</b>: <i>keep off sth</i> = tránh xa, không giẫm lên.",
+   "example": {
+    "en": "<b>Keep off the grass</b> – do not walk on the grass.",
+    "vi": "<b>Không giẫm lên cỏ</b>."
+   }
+  },
+  {
+   "word": "in progress",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪn ˈprəʊɡres/",
+   "def_en": "Happening now.",
+   "def_vi": "Đang diễn ra.",
+   "gloss_vi": "đang diễn ra",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In progress</i> (phrase) = đang diễn ra. <b>Grammar</b>: <i>be in progress</i>.",
+   "example": {
+    "en": "Silence – examination <b>in progress</b>.",
+    "vi": "Giữ im lặng – đang <b>diễn ra</b> kỳ thi."
+   }
+  },
+  {
+   "word": "no entry",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌnəʊ ˈentri/",
+   "def_en": "You cannot go in here.",
+   "def_vi": "Không được vào đây.",
+   "gloss_vi": "cấm vào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>No entry</i> (phrase) = cấm vào. <b>Grammar</b>: <i>entry</i> = việc đi vào; <i>entrance</i> = lối vào.",
+   "example": {
+    "en": "<b>No entry</b> – you cannot go in here.",
+    "vi": "<b>Cấm vào</b> – bạn không thể đi vào đây."
+   }
+  },
+  {
+   "word": "no exit",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌnəʊ ˈeksɪt/",
+   "def_en": "You cannot go out here.",
+   "def_vi": "Không được ra ở đây.",
+   "gloss_vi": "không phải lối ra",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>No exit</i> (phrase) = không phải lối ra. <b>Grammar</b>: <i>exit</i> (n.) = lối ra.",
+   "example": {
+    "en": "<b>No exit</b> – you cannot go out here.",
+    "vi": "<b>Không phải lối ra</b> – bạn không thể đi ra ở đây."
+   }
+  },
+  {
+   "word": "do not disturb",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/duː nɒt dɪˈstɜːb/",
+   "def_en": "Leave me alone; don’t interrupt me.",
+   "def_vi": "Để tôi yên; đừng làm gián đoạn.",
+   "gloss_vi": "xin đừng làm phiền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Do not disturb</i> (phrase) = xin đừng làm phiền. <b>Grammar</b>: <i>disturb sb</i> = làm phiền ai.",
+   "example": {
+    "en": "Please <b>do not disturb</b> – on a hotel door; leave me to sleep.",
+    "vi": "Xin <b>đừng làm phiền</b> – trên cửa phòng khách sạn; hãy để tôi ngủ."
+   }
+  },
+  {
+   "word": "unattended",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʌnəˈtendɪd/",
+   "def_en": "Not being watched or looked after.",
+   "def_vi": "Không có người trông coi.",
+   "gloss_vi": "không người trông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Unattended</i> (adjective) = không người trông. <b>Grammar</b>: <i>leave sth unattended</i>.",
+   "example": {
+    "en": "Please do not leave bags <b>unattended</b> – don’t put a bag down and walk away.",
+    "vi": "Xin đừng để túi xách <b>không người trông</b> – đừng đặt túi xuống rồi bỏ đi."
+   }
+  },
+  {
+   "word": "lean out of",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌliːn ˈaʊt əv/",
+   "def_en": "To bend your body out through an opening.",
+   "def_vi": "Cúi người ra ngoài qua một khoảng hở.",
+   "gloss_vi": "thò người ra",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lean out of</i> (phrasal verb) = thò người ra. <b>Grammar</b>: <i>lean – leant/leaned</i>.",
+   "example": {
+    "en": "Do not <b>lean out of</b> the window.",
+    "vi": "Không <b>thò người ra</b> cửa sổ."
+   }
+  },
+  {
+   "word": "feed the animals",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌfiːd ði ˈænɪmlz/",
+   "def_en": "To give food to the animals.",
+   "def_vi": "Cho thú ăn.",
+   "gloss_vi": "cho thú ăn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Feed the animals</i> (verb phrase) = cho thú ăn. <b>Grammar</b>: <i>feed – fed – fed</i>.",
+   "example": {
+    "en": "Please do not <b>feed the animals</b>.",
+    "vi": "Xin đừng <b>cho thú ăn</b>."
+   }
+  },
+  {
+   "word": "warning",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɔːnɪŋ/",
+   "def_en": "Something that tells you that something bad may happen.",
+   "def_vi": "Điều báo rằng chuyện xấu có thể xảy ra.",
+   "gloss_vi": "lời cảnh báo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Warning</i> (noun) = lời cảnh báo. <b>Grammar</b>: <i>give sb a warning</i>. <b>Word family</b>: <i>warn</i> (v.).",
+   "example": {
+    "en": "A <b>warning</b> is something that tells you that something bad may happen.",
+    "vi": "<b>Cảnh báo</b> cho bạn biết điều xấu có thể xảy ra."
+   }
+  },
+  {
+   "word": "mind your head",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌmaɪnd jə ˈhed/",
+   "def_en": "Take care you don’t hit your head on a low door.",
+   "def_vi": "Cẩn thận kẻo đập đầu vào cửa thấp.",
+   "gloss_vi": "cẩn thận đầu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mind your head</i> (phrase) = cẩn thận đầu. <b>Grammar</b>: <i>mind</i> = cẩn thận với (Anh–Anh).",
+   "example": {
+    "en": "<b>Mind your head</b> – take care you don’t hit your head on a low door.",
+    "vi": "<b>Cẩn thận đầu</b> – cẩn thận kẻo đập đầu vào cửa thấp."
+   }
+  },
+  {
+   "word": "mind the step",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌmaɪnd ðə ˈstep/",
+   "def_en": "Be careful, there’s a step.",
+   "def_vi": "Cẩn thận, có bậc thềm.",
+   "gloss_vi": "cẩn thận bậc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mind the step</i> (phrase) = cẩn thận bậc. <b>Grammar</b>: <i>Mind the gap</i> (ở ga tàu).",
+   "example": {
+    "en": "<b>Mind the step</b> – be careful. There’s a step.",
+    "vi": "<b>Cẩn thận bậc thềm</b> – có một bậc ở đây."
+   }
+  },
+  {
+   "word": "fragile",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈfrædʒaɪl/",
+   "def_en": "Easily broken.",
+   "def_vi": "Dễ vỡ.",
+   "gloss_vi": "dễ vỡ",
+   "synonyms": "delicate <i>(adj. mỏng manh)</i>",
+   "antonyms": "strong <i>(adj. chắc)</i>",
+   "grammar_vi": "<i>Fragile</i> (adjective) = dễ vỡ. <b>Grammar</b>: Anh /ˈfrædʒaɪl/, Mỹ /-dʒl/.",
+   "example": {
+    "en": "<b>Fragile</b> – be careful, this parcel will break easily.",
+    "vi": "<b>Dễ vỡ</b> – cẩn thận, bưu kiện này dễ vỡ."
+   }
+  },
+  {
+   "word": "parcel",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɑːsl/",
+   "def_en": "Something wrapped in paper to send by post.",
+   "def_vi": "Thứ gói giấy để gửi bưu điện.",
+   "gloss_vi": "bưu kiện",
+   "synonyms": "package <i>(n. gói hàng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Parcel</i> (noun) = bưu kiện. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Be careful, this <b>parcel</b> will break easily.",
+    "vi": "Cẩn thận, <b>bưu kiện</b> này dễ vỡ."
+   }
+  }
+ ]
+}
