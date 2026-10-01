@@ -1,0 +1,578 @@
+{
+ "book": "pre",
+ "unit": 35,
+ "title_vi": "Nghề nghiệp",
+ "theory_html": "<p><b>A. Working with your hands</b><br><i>A. Làm việc chân tay</i></p> <p><b>builder</b> (builds or repairs homes), <b>carpenter</b> (makes things using wood), <b>plumber</b> (installs and repairs water pipes), <b>electrician</b>, <b>police officer</b> (in the <b>police force</b>), <b>mechanic</b> (repairs cars). <b>repair / fix</b> something broken; <b>mend</b> small equipment and clothes.</p><p><i><b>thợ xây, thợ mộc, thợ sửa ống nước, thợ điện, cảnh sát, thợ máy; sửa, vá</b>.</i></p> <p><b>B. Professions</b><br><i>B. Nghề chuyên môn</i></p> <p><b>professions</b> need a lot of training: <b>architect</b> (designs buildings), <b>lawyer</b> (represents people), <b>engineer</b> (plans roads, bridges), <b>accountant</b>, <b>university lecturer</b>.</p><p><i><b>nghề chuyên môn: kiến trúc sư, luật sư, kỹ sư, kế toán, giảng viên</b>.</i></p> <p><b>C. The medical profession</b><br><i>C. Ngành y</i></p> <p>These people <b>treat</b> people or animals: <b>GPs, dentists, vets</b> work in a <b>surgery</b>; in hospital <b>nurses</b> look after people and <b>surgeons operate on</b> people.</p><p><i><b>điều trị; bác sĩ đa khoa, nha sĩ, bác sĩ thú y, phòng khám, y tá, phẫu thuật</b>.</i></p> <p><b>D. The armed forces and the emergency services</b><br><i>D. Lực lượng vũ trang và dịch vụ khẩn cấp</i></p> <p><b>My son joined the army at 18.</b> <b>soldier</b> (<b>army</b>), <b>sailor</b> (<b>navy</b>), <b>pilot</b> (<b>air force</b>), <b>firefighter</b> (<b>fire brigade</b>), <b>gun</b>.</p><p><i><b>gia nhập; lính (lục quân), thủy thủ (hải quân), phi công (không quân), lính cứu hỏa (đội cứu hỏa), súng</b>.</i></p>",
+ "items": [
+  {
+   "word": "builder",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɪldə(r)/",
+   "def_en": "A person who builds or repairs homes.",
+   "def_vi": "Người xây hay sửa nhà.",
+   "gloss_vi": "thợ xây",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Builder</i> (noun) = thợ xây. <b>Grammar</b>: <i>build</i> (v.) + <i>-er</i>.",
+   "example": {
+    "en": "A <b>builder</b> builds or repairs homes.",
+    "vi": "<b>Thợ xây</b> xây hay sửa nhà."
+   }
+  },
+  {
+   "word": "repair",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rɪˈpeə(r)/",
+   "def_en": "To make something that is broken work again.",
+   "def_vi": "Làm thứ bị hỏng hoạt động lại.",
+   "gloss_vi": "sửa chữa",
+   "synonyms": "fix <i>(v. sửa)</i>",
+   "antonyms": "break <i>(v. làm hỏng)</i>",
+   "grammar_vi": "<i>Repair</i> (verb) = sửa chữa. <b>Grammar</b>: <i>repair sth</i>; cũng là danh từ <i>repairs</i>.",
+   "example": {
+    "en": "Dad <b>repaired</b> the window for me.",
+    "vi": "Bố đã <b>sửa</b> cửa sổ cho tôi."
+   }
+  },
+  {
+   "word": "carpenter",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɑːpəntə(r)/",
+   "def_en": "A person who makes things using wood.",
+   "def_vi": "Người làm đồ bằng gỗ.",
+   "gloss_vi": "thợ mộc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Carpenter</i> (noun) = thợ mộc. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "A <b>carpenter</b> makes things using wood.",
+    "vi": "<b>Thợ mộc</b> làm đồ bằng gỗ."
+   }
+  },
+  {
+   "word": "wood",
+   "sense": "material",
+   "pos": "noun",
+   "ipa": "/wʊd/",
+   "def_en": "The hard material that trees are made of.",
+   "def_vi": "Chất liệu cứng của cây.",
+   "gloss_vi": "gỗ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wood</i> (noun) = gỗ. <b>Grammar</b>: không đếm được ở nghĩa chất liệu. <b>Word family</b>: <i>wooden</i> (adj.).",
+   "example": {
+    "en": "A carpenter makes things using <b>wood</b>.",
+    "vi": "Thợ mộc làm đồ bằng <b>gỗ</b>."
+   }
+  },
+  {
+   "word": "plumber",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈplʌmə(r)/",
+   "def_en": "A person who installs and repairs water pipes.",
+   "def_vi": "Người lắp và sửa ống nước.",
+   "gloss_vi": "thợ sửa ống nước",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Plumber</i> (noun) = thợ sửa ống nước. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: <i>b</i> câm /ˈplʌmə/.",
+   "example": {
+    "en": "A <b>plumber</b> installs and repairs water pipes.",
+    "vi": "<b>Thợ sửa ống nước</b> lắp và sửa đường ống nước."
+   }
+  },
+  {
+   "word": "install",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪnˈstɔːl/",
+   "def_en": "To put equipment in place so it is ready to use.",
+   "def_vi": "Đặt thiết bị vào chỗ để sẵn sàng dùng.",
+   "gloss_vi": "lắp đặt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Install</i> (verb) = lắp đặt. <b>Grammar</b>: <i>install sth</i>. <b>Word family</b>: <i>installation</i> (n.).",
+   "example": {
+    "en": "A plumber <b>installs</b> and repairs water pipes.",
+    "vi": "Thợ sửa ống nước <b>lắp đặt</b> và sửa ống nước."
+   }
+  },
+  {
+   "word": "pipe",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/paɪp/",
+   "def_en": "A tube that carries water or gas.",
+   "def_vi": "Ống dẫn nước hay khí.",
+   "gloss_vi": "ống (nước)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pipe</i> (noun) = ống (nước). <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "A plumber installs and repairs water <b>pipes</b>.",
+    "vi": "Thợ sửa ống nước lắp đặt và sửa <b>ống</b> nước."
+   }
+  },
+  {
+   "word": "electrician",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪˌlekˈtrɪʃn/",
+   "def_en": "A person who installs and repairs electrical things.",
+   "def_vi": "Người lắp và sửa đồ điện.",
+   "gloss_vi": "thợ điện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Electrician</i> (noun) = thợ điện. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: trọng âm /ˈtrɪʃ/.",
+   "example": {
+    "en": "An <b>electrician</b> installs and repairs electrical things, e.g. lights.",
+    "vi": "<b>Thợ điện</b> lắp và sửa đồ điện, như đèn."
+   }
+  },
+  {
+   "word": "police officer",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/pəˈliːs ˌɒfɪsə(r)/",
+   "def_en": "A member of the police.",
+   "def_vi": "Thành viên lực lượng cảnh sát.",
+   "gloss_vi": "cảnh sát viên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Police officer</i> (noun phrase) = cảnh sát viên. <b>Grammar</b>: trung tính về giới (thay <i>policeman/policewoman</i>).",
+   "ex_kit": true,
+   "example": {
+    "en": "My sister is a <b>police officer</b>.",
+    "vi": "Chị tôi là <b>cảnh sát viên</b>."
+   }
+  },
+  {
+   "word": "police force",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/pəˈliːs fɔːs/",
+   "def_en": "The organisation of police in a country or area.",
+   "def_vi": "Tổ chức cảnh sát của một nước hay vùng.",
+   "gloss_vi": "lực lượng cảnh sát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Police force</i> (noun phrase) = lực lượng cảnh sát. <b>Grammar</b>: <i>the police</i> + động từ số nhiều.",
+   "ex_kit": true,
+   "example": {
+    "en": "He joined the <b>police force</b> when he was 20.",
+    "vi": "Anh ấy gia nhập <b>lực lượng cảnh sát</b> năm 20 tuổi."
+   }
+  },
+  {
+   "word": "mechanic",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/məˈkænɪk/",
+   "def_en": "A person who repairs cars.",
+   "def_vi": "Người sửa ô tô.",
+   "gloss_vi": "thợ máy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mechanic</i> (noun) = thợ máy. <b>Grammar</b>: <i>ch</i> = /k/.",
+   "example": {
+    "en": "A <b>mechanic</b> repairs cars when there is a problem.",
+    "vi": "<b>Thợ máy</b> sửa xe khi có vấn đề."
+   }
+  },
+  {
+   "word": "fix",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/fɪks/",
+   "def_en": "To repair.",
+   "def_vi": "Sửa.",
+   "gloss_vi": "sửa",
+   "synonyms": "repair <i>(v. sửa)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fix</i> (verb) = sửa. <b>Grammar</b>: <i>fix sth</i>.",
+   "example": {
+    "en": "I need someone to <b>fix</b> the computer.",
+    "vi": "Tôi cần người <b>sửa</b> máy tính."
+   }
+  },
+  {
+   "word": "mend",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/mend/",
+   "def_en": "To repair small equipment or clothes.",
+   "def_vi": "Sửa đồ nhỏ hay vá quần áo.",
+   "gloss_vi": "vá, sửa",
+   "synonyms": "repair <i>(v. sửa)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mend</i> (verb) = vá, sửa. <b>Grammar</b>: hay dùng với quần áo.",
+   "example": {
+    "en": "I’ve <b>mended</b> your trousers for you.",
+    "vi": "Mẹ đã <b>vá</b> quần cho con rồi."
+   }
+  },
+  {
+   "word": "profession",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/prəˈfeʃn/",
+   "def_en": "A job that needs a lot of training and/or education.",
+   "def_vi": "Nghề cần đào tạo và học vấn nhiều.",
+   "gloss_vi": "nghề chuyên môn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Profession</i> (noun) = nghề chuyên môn. <b>Grammar</b>: <i>the medical/legal profession</i>. <b>Word family</b>: <i>professional</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "Law is a well-paid <b>profession</b>.",
+    "vi": "Luật là một <b>nghề</b> được trả lương cao."
+   }
+  },
+  {
+   "word": "design",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪˈzaɪn/",
+   "def_en": "To make the plans for something.",
+   "def_vi": "Vẽ kế hoạch cho thứ gì.",
+   "gloss_vi": "thiết kế",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Design</i> (verb) = thiết kế. <b>Grammar</b>: cũng là danh từ. <b>Word family</b>: <i>designer</i>.",
+   "example": {
+    "en": "An architect <b>designs</b> buildings.",
+    "vi": "Kiến trúc sư <b>thiết kế</b> các tòa nhà."
+   }
+  },
+  {
+   "word": "lawyer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlɔːjə(r)/",
+   "def_en": "A person who represents people with legal problems.",
+   "def_vi": "Người đại diện cho người có vấn đề pháp lý.",
+   "gloss_vi": "luật sư",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lawyer</i> (noun) = luật sư. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "A <b>lawyer</b> represents people with legal problems.",
+    "vi": "<b>Luật sư</b> đại diện cho người có vấn đề pháp lý."
+   }
+  },
+  {
+   "word": "represent",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌreprɪˈzent/",
+   "def_en": "To speak or act for someone.",
+   "def_vi": "Nói hay hành động thay mặt ai.",
+   "gloss_vi": "đại diện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Represent</i> (verb) = đại diện. <b>Grammar</b>: <i>represent sb</i>. <b>Word family</b>: <i>representative</i> (n.).",
+   "example": {
+    "en": "A lawyer <b>represents</b> people with legal problems.",
+    "vi": "Luật sư <b>đại diện</b> cho người có vấn đề pháp lý."
+   }
+  },
+  {
+   "word": "engineer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌendʒɪˈnɪə(r)/",
+   "def_en": "A person who plans the building of roads, bridges, machines, etc.",
+   "def_vi": "Người lập kế hoạch xây đường, cầu, máy móc…",
+   "gloss_vi": "kỹ sư",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Engineer</i> (noun) = kỹ sư. <b>Grammar</b>: trọng âm âm tiết cuối.",
+   "example": {
+    "en": "An <b>engineer</b> plans the building of roads, bridges, machines, etc.",
+    "vi": "<b>Kỹ sư</b> lập kế hoạch xây đường, cầu, máy móc."
+   }
+  },
+  {
+   "word": "accountant",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈkaʊntənt/",
+   "def_en": "A person who controls the financial situation of people and companies.",
+   "def_vi": "Người kiểm soát tài chính của người và công ty.",
+   "gloss_vi": "kế toán",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Accountant</i> (noun) = kế toán. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "An <b>accountant</b> controls the financial situation of people and companies.",
+    "vi": "<b>Kế toán</b> kiểm soát tình hình tài chính của cá nhân và công ty."
+   }
+  },
+  {
+   "word": "treat",
+   "sense": "medical",
+   "pos": "verb",
+   "ipa": "/triːt/",
+   "def_en": "To give medicine or medical help.",
+   "def_vi": "Cho thuốc hay giúp đỡ y tế.",
+   "gloss_vi": "điều trị",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Treat</i> (verb) = điều trị. <b>Grammar</b>: <i>treat sb for sth</i>. <b>Word family</b>: <i>treatment</i> (n.).",
+   "example": {
+    "en": "These people <b>treat</b> people or animals.",
+    "vi": "Những người này <b>điều trị</b> cho người hay động vật."
+   }
+  },
+  {
+   "word": "GP",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdʒiː ˈpiː/",
+   "def_en": "A general practitioner: a doctor who doesn’t work in a hospital.",
+   "def_vi": "Bác sĩ đa khoa không làm ở bệnh viện.",
+   "gloss_vi": "bác sĩ đa khoa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>GP</i> (noun) = bác sĩ đa khoa. <b>Grammar</b>: viết tắt <i>general practitioner</i>.",
+   "example": {
+    "en": "<b>GPs</b>, dentists and vets all work in a place called a surgery.",
+    "vi": "<b>Bác sĩ đa khoa</b>, nha sĩ và bác sĩ thú y đều làm ở phòng khám."
+   }
+  },
+  {
+   "word": "dentist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdentɪst/",
+   "def_en": "A person who looks after your teeth.",
+   "def_vi": "Người chăm sóc răng.",
+   "gloss_vi": "nha sĩ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dentist</i> (noun) = nha sĩ. <b>Grammar</b>: <i>go to the dentist’s</i>.",
+   "example": {
+    "en": "GPs, <b>dentists</b> and vets all work in a place called a surgery.",
+    "vi": "Bác sĩ đa khoa, <b>nha sĩ</b> và bác sĩ thú y đều làm ở phòng khám."
+   }
+  },
+  {
+   "word": "vet",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/vet/",
+   "def_en": "An animal doctor.",
+   "def_vi": "Bác sĩ cho động vật.",
+   "gloss_vi": "bác sĩ thú y",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Vet</i> (noun) = bác sĩ thú y. <b>Grammar</b>: viết tắt của <i>veterinary surgeon</i>.",
+   "example": {
+    "en": "GPs, dentists and <b>vets</b> all work in a place called a surgery.",
+    "vi": "Bác sĩ đa khoa, nha sĩ và <b>bác sĩ thú y</b> đều làm ở phòng khám."
+   }
+  },
+  {
+   "word": "surgery",
+   "sense": "place",
+   "pos": "noun",
+   "ipa": "/ˈsɜːdʒəri/",
+   "def_en": "A place where a doctor, dentist or vet works.",
+   "def_vi": "Nơi bác sĩ, nha sĩ hay bác sĩ thú y làm việc.",
+   "gloss_vi": "phòng khám",
+   "synonyms": "clinic <i>(n. phòng khám)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Surgery</i> (noun) = phòng khám. <b>Grammar</b>: Anh–Anh. <b>Common mistakes</b>: cũng = phẫu thuật.",
+   "example": {
+    "en": "They all work in a place called a <b>surgery</b>.",
+    "vi": "Họ đều làm ở một nơi gọi là <b>phòng khám</b>."
+   }
+  },
+  {
+   "word": "nurse",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/nɜːs/",
+   "def_en": "A person who looks after people in hospital.",
+   "def_vi": "Người chăm sóc bệnh nhân ở bệnh viện.",
+   "gloss_vi": "y tá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nurse</i> (noun) = y tá. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "In hospital there are <b>nurses</b> who look after people.",
+    "vi": "Trong bệnh viện có <b>y tá</b> chăm sóc mọi người."
+   }
+  },
+  {
+   "word": "operate on",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˈɒpəreɪt ɒn/",
+   "def_en": "To open the body to remove or repair a part that is damaged.",
+   "def_vi": "Mổ cơ thể để cắt bỏ hay sửa phần bị tổn thương.",
+   "gloss_vi": "phẫu thuật, mổ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Operate on</i> (phrasal verb) = phẫu thuật, mổ. <b>Grammar</b>: <i>operate on sb/sth</i>. <b>Word family</b>: <i>operation</i> (n.).",
+   "example": {
+    "en": "Surgeons <b>operate on</b> people.",
+    "vi": "Bác sĩ phẫu thuật <b>mổ</b> cho người bệnh."
+   }
+  },
+  {
+   "word": "join",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dʒɔɪn/",
+   "def_en": "To become a member of.",
+   "def_vi": "Trở thành thành viên của.",
+   "gloss_vi": "gia nhập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "leave <i>(v. rời)</i>",
+   "grammar_vi": "<i>Join</i> (verb) = gia nhập. <b>Grammar</b>: <i>join sth</i> (không <i>join to/in</i>).",
+   "example": {
+    "en": "My son <b>joined</b> the army when he was 18.",
+    "vi": "Con trai tôi <b>gia nhập</b> quân đội năm 18 tuổi."
+   }
+  },
+  {
+   "word": "army",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɑːmi/",
+   "def_en": "The military force that fights on land.",
+   "def_vi": "Lực lượng quân sự chiến đấu trên bộ.",
+   "gloss_vi": "quân đội, lục quân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Army</i> (noun) = quân đội, lục quân. <b>Grammar</b>: <i>in the army</i>.",
+   "example": {
+    "en": "My son joined the <b>army</b> when he was 18.",
+    "vi": "Con trai tôi gia nhập <b>quân đội</b> năm 18 tuổi."
+   }
+  },
+  {
+   "word": "soldier",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsəʊldʒə(r)/",
+   "def_en": "A member of the army.",
+   "def_vi": "Thành viên quân đội.",
+   "gloss_vi": "người lính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Soldier</i> (noun) = người lính. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: /ˈsəʊldʒə/.",
+   "ex_kit": true,
+   "example": {
+    "en": "My grandfather was a <b>soldier</b> in the war.",
+    "vi": "Ông tôi là <b>lính</b> trong chiến tranh."
+   }
+  },
+  {
+   "word": "sailor",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈseɪlə(r)/",
+   "def_en": "A member of the navy.",
+   "def_vi": "Thành viên hải quân.",
+   "gloss_vi": "thủy thủ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sailor</i> (noun) = thủy thủ. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "He’s a <b>sailor</b> in the navy.",
+    "vi": "Anh ấy là <b>thủy thủ</b> trong hải quân."
+   }
+  },
+  {
+   "word": "navy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈneɪvi/",
+   "def_en": "The military force that fights at sea.",
+   "def_vi": "Lực lượng quân sự chiến đấu trên biển.",
+   "gloss_vi": "hải quân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Navy</i> (noun) = hải quân. <b>Grammar</b>: <i>in the navy</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She joined the <b>navy</b> after leaving school.",
+    "vi": "Cô ấy gia nhập <b>hải quân</b> sau khi ra trường."
+   }
+  },
+  {
+   "word": "air force",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈeə fɔːs/",
+   "def_en": "The military force that fights in the air.",
+   "def_vi": "Lực lượng quân sự chiến đấu trên không.",
+   "gloss_vi": "không quân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Air force</i> (noun phrase) = không quân. <b>Grammar</b>: <i>in the air force</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He’s a pilot in the <b>air force</b>.",
+    "vi": "Anh ấy là phi công trong <b>không quân</b>."
+   }
+  },
+  {
+   "word": "firefighter",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfaɪəfaɪtə(r)/",
+   "def_en": "A person whose job is to stop fires.",
+   "def_vi": "Người làm nghề dập lửa.",
+   "gloss_vi": "lính cứu hỏa",
+   "synonyms": "fireman <i>(n. lính cứu hỏa)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Firefighter</i> (noun) = lính cứu hỏa. <b>Grammar</b>: trung tính về giới.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>firefighters</b> arrived within five minutes.",
+    "vi": "<b>Lính cứu hỏa</b> đến trong vòng năm phút."
+   }
+  },
+  {
+   "word": "fire brigade",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈfaɪə brɪɡeɪd/",
+   "def_en": "The organisation that stops fires.",
+   "def_vi": "Tổ chức dập lửa.",
+   "gloss_vi": "đội cứu hỏa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fire brigade</i> (noun phrase) = đội cứu hỏa. <b>Grammar</b>: Anh–Anh; Mỹ <i>fire department</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Call the <b>fire brigade</b>!",
+    "vi": "Gọi <b>đội cứu hỏa</b>!"
+   }
+  },
+  {
+   "word": "gun",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɡʌn/",
+   "def_en": "A weapon that fires bullets.",
+   "def_vi": "Vũ khí bắn đạn.",
+   "gloss_vi": "súng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gun</i> (noun) = súng. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The soldier was carrying a <b>gun</b>.",
+    "vi": "Người lính mang một khẩu <b>súng</b>."
+   }
+  }
+ ]
+}

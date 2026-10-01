@@ -1,0 +1,496 @@
+{
+ "book": "pre",
+ "unit": 34,
+ "title_vi": "Giáo dục đại học",
+ "theory_html": "<p><b>A. Subjects</b><br><i>A. Môn học</i></p> <p><b>do/study</b> at university: <b>medicine</b> (doctor), <b>engineering</b> (engineer), <b>economics</b> (<b>economist</b>), <b>business studies</b> (<b>businessman/woman</b>, <b>go into business</b>), <b>law</b> (lawyer), <b>architecture</b> (<b>architect</b>), <b>psychology</b> (<b>psychologist</b>).</p><p><i><b>y, kỹ thuật, kinh tế, quản trị kinh doanh, luật, kiến trúc, tâm lý học</b>.</i></p> <p><b>B. Studying at university</b><br><i>B. Học đại học</i></p> <p>a <b>qualification</b>; good <b>grades</b> to <b>get a place</b>; <b>study for / do a degree</b>; complete the course <b>successfully</b>, get your <b>degree</b> and a <b>certificate</b>; courses <b>last</b> three years; <b>a degree in economics</b>; <b>lecturers</b>, <b>teaching</b>, <b>lectures</b>, <b>Professor</b>; <b>arts</b> subjects → <b>library</b>, <b>essays</b>; <b>science</b> → <b>laboratory (lab)</b>. Word forms: <b>qualification – qualify – qualified; success – succeed (in) – (un)successful</b>.</p><p><i><b>bằng cấp, được nhận vào, học lấy bằng, thành công, văn bằng, kéo dài, giảng viên, bài giảng, giáo sư, khối xã hội, khoa học, phòng thí nghiệm</b>.</i></p> <p><b>C. Postgraduate degrees</b><br><i>C. Bằng sau đại học</i></p> <p><b>undergraduates</b> → <b>graduates</b>; some <b>go on to do</b> a Master’s (MA, MSc) – <b>postgraduate degrees</b>; a PhD – <b>do research</b>.</p><p><i><b>sinh viên đại học, cử nhân, học tiếp, bằng sau đại học, nghiên cứu</b>.</i></p>",
+ "items": [
+  {
+   "word": "medicine",
+   "sense": "subject",
+   "pos": "noun",
+   "ipa": "/ˈmedsn/",
+   "def_en": "The study of treating illnesses, to become a doctor.",
+   "def_vi": "Ngành chữa bệnh, để thành bác sĩ.",
+   "gloss_vi": "ngành y",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Medicine</i> (noun) = ngành y. <b>Grammar</b>: <i>study medicine</i>. <b>Common mistakes</b>: /ˈmedsn/.",
+   "example": {
+    "en": "You can do/study <b>medicine</b> at university.",
+    "vi": "Bạn có thể học <b>ngành y</b> ở đại học."
+   }
+  },
+  {
+   "word": "engineering",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌendʒɪˈnɪərɪŋ/",
+   "def_en": "The study of designing and building machines, roads, etc.",
+   "def_vi": "Ngành thiết kế và chế tạo máy móc, đường sá.",
+   "gloss_vi": "ngành kỹ thuật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Engineering</i> (noun) = ngành kỹ thuật. <b>Grammar</b>: không đếm được. <b>Word family</b>: <i>engineer</i> (người).",
+   "ex_kit": true,
+   "example": {
+    "en": "My brother is studying <b>engineering</b> to become an engineer.",
+    "vi": "Anh trai tôi học <b>kỹ thuật</b> để trở thành kỹ sư."
+   }
+  },
+  {
+   "word": "economics",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌiːkəˈnɒmɪks/",
+   "def_en": "The study of money, industry and trade.",
+   "def_vi": "Ngành nghiên cứu tiền tệ, công nghiệp, thương mại.",
+   "gloss_vi": "kinh tế học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Economics</i> (noun) = kinh tế học. <b>Grammar</b>: động từ số ít: <i>Economics is…</i>. <b>Word family</b>: <i>economist</i> (người).",
+   "example": {
+    "en": "I’ve got a degree in <b>economics</b>.",
+    "vi": "Tôi có bằng <b>kinh tế</b>."
+   }
+  },
+  {
+   "word": "economist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪˈkɒnəmɪst/",
+   "def_en": "A person who studies economics.",
+   "def_vi": "Người nghiên cứu kinh tế.",
+   "gloss_vi": "nhà kinh tế học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Economist</i> (noun) = nhà kinh tế học. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "She studied economics to become an <b>economist</b>.",
+    "vi": "Cô ấy học kinh tế để trở thành <b>nhà kinh tế học</b>."
+   }
+  },
+  {
+   "word": "business studies",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈbɪznəs ˌstʌdiz/",
+   "def_en": "The study of how to run a business.",
+   "def_vi": "Ngành học về điều hành doanh nghiệp.",
+   "gloss_vi": "quản trị kinh doanh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Business studies</i> (noun phrase) = quản trị kinh doanh. <b>Grammar</b>: số nhiều về hình thức nhưng động từ số ít.",
+   "ex_kit": true,
+   "example": {
+    "en": "He did <b>business studies</b> to become a businessman.",
+    "vi": "Anh ấy học <b>quản trị kinh doanh</b> để trở thành doanh nhân."
+   }
+  },
+  {
+   "word": "go into business",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ ˌɪntə ˈbɪznəs/",
+   "def_en": "To start working in business.",
+   "def_vi": "Bắt đầu làm kinh doanh.",
+   "gloss_vi": "bước vào kinh doanh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go into business</i> (verb phrase) = bước vào kinh doanh. <b>Grammar</b>: <i>go into business (with sb)</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "After university she wants to <b>go into business</b>.",
+    "vi": "Sau đại học cô ấy muốn <b>kinh doanh</b>."
+   }
+  },
+  {
+   "word": "law",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/lɔː/",
+   "def_en": "The study of the rules of a country, to become a lawyer.",
+   "def_vi": "Ngành học luật lệ của đất nước, để thành luật sư.",
+   "gloss_vi": "ngành luật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Law</i> (noun) = ngành luật. <b>Grammar</b>: <i>study law</i>. <b>Word family</b>: <i>lawyer</i>.",
+   "example": {
+    "en": "Some take longer, e.g. medicine or <b>law</b>.",
+    "vi": "Ở Anh, một số khóa như y hay <b>luật</b> kéo dài hơn."
+   }
+  },
+  {
+   "word": "architecture",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɑːkɪtektʃə(r)/",
+   "def_en": "The study of designing buildings.",
+   "def_vi": "Ngành thiết kế nhà cửa.",
+   "gloss_vi": "ngành kiến trúc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Architecture</i> (noun) = ngành kiến trúc. <b>Grammar</b>: không đếm được. <b>Common mistakes</b>: /ˈɑːkɪ-/.",
+   "ex_kit": true,
+   "example": {
+    "en": "She’s studying <b>architecture</b> to become an architect.",
+    "vi": "Cô ấy học <b>kiến trúc</b> để trở thành kiến trúc sư."
+   }
+  },
+  {
+   "word": "architect",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɑːkɪtekt/",
+   "def_en": "A person who designs buildings.",
+   "def_vi": "Người thiết kế nhà cửa.",
+   "gloss_vi": "kiến trúc sư",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Architect</i> (noun) = kiến trúc sư. <b>Grammar</b>: <i>an architect</i>. <b>Common mistakes</b>: <i>ch</i> = /k/.",
+   "ex_kit": true,
+   "example": {
+    "en": "An <b>architect</b> designs buildings.",
+    "vi": "Một <b>kiến trúc sư</b> thiết kế các tòa nhà."
+   }
+  },
+  {
+   "word": "psychology",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/saɪˈkɒlədʒi/",
+   "def_en": "The study of the mind and behaviour.",
+   "def_vi": "Ngành nghiên cứu tâm trí và hành vi.",
+   "gloss_vi": "tâm lý học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Psychology</i> (noun) = tâm lý học. <b>Grammar</b>: <i>p</i> câm. <b>Word family</b>: <i>psychologist</i> (người).",
+   "ex_kit": true,
+   "example": {
+    "en": "I want to study <b>psychology</b> at university.",
+    "vi": "Tôi muốn học <b>tâm lý học</b> ở đại học."
+   }
+  },
+  {
+   "word": "psychologist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/saɪˈkɒlədʒɪst/",
+   "def_en": "A person who studies the mind and behaviour.",
+   "def_vi": "Người nghiên cứu tâm trí và hành vi.",
+   "gloss_vi": "nhà tâm lý học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Psychologist</i> (noun) = nhà tâm lý học. <b>Grammar</b>: <i>p</i> câm.",
+   "ex_kit": true,
+   "example": {
+    "en": "She works as a <b>psychologist</b> in a hospital.",
+    "vi": "Cô ấy làm <b>nhà tâm lý học</b> ở một bệnh viện."
+   }
+  },
+  {
+   "word": "qualification",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkwɒlɪfɪˈkeɪʃn/",
+   "def_en": "Something you get when you are successful in an exam or course.",
+   "def_vi": "Thứ bạn có khi thi hay học thành công.",
+   "gloss_vi": "bằng cấp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Qualification</i> (noun) = bằng cấp. <b>Grammar</b>: đếm được. <b>Word family</b>: <i>qualify</i> (v.), <i>qualified</i> (adj.).",
+   "example": {
+    "en": "Others just want a <b>qualification</b>.",
+    "vi": "Một số sinh viên chỉ muốn có <b>bằng cấp</b>."
+   }
+  },
+  {
+   "word": "get a place",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡet ə ˈpleɪs/",
+   "def_en": "To be accepted at a university.",
+   "def_vi": "Được một trường đại học nhận.",
+   "gloss_vi": "được nhận vào (trường)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get a place</i> (verb phrase) = được nhận vào (trường). <b>Grammar</b>: <i>get a place at university</i>.",
+   "example": {
+    "en": "You have to get good grades in your final school exams to <b>get a place</b> at many universities.",
+    "vi": "Bạn phải có điểm tốt để <b>được nhận vào</b> nhiều trường đại học."
+   }
+  },
+  {
+   "word": "do a degree",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌduː ə dɪˈɡriː/",
+   "def_en": "To do a course at university.",
+   "def_vi": "Học một khóa ở đại học.",
+   "gloss_vi": "học lấy bằng",
+   "synonyms": "study for a degree <i>(vp. học lấy bằng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Do a degree</i> (verb phrase) = học lấy bằng. <b>Grammar</b>: <i>do a degree in sth</i>.",
+   "example": {
+    "en": "You can then study for / <b>do a degree</b>.",
+    "vi": "Rồi bạn có thể <b>học lấy bằng</b>."
+   }
+  },
+  {
+   "word": "successfully",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/səkˈsesfəli/",
+   "def_en": "In a way that achieves what you wanted.",
+   "def_vi": "Theo cách đạt được điều mong muốn.",
+   "gloss_vi": "thành công",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "unsuccessfully <i>(adv. không thành công)</i>",
+   "grammar_vi": "<i>Successfully</i> (adverb) = thành công. <b>Grammar</b>: <i>success</i> (n.) → <i>successful</i> (adj.) → <i>successfully</i> (adv.).",
+   "example": {
+    "en": "If you complete the course <b>successfully</b>, you get your degree.",
+    "vi": "Nếu hoàn thành khóa học <b>thành công</b>, bạn nhận bằng."
+   }
+  },
+  {
+   "word": "degree",
+   "sense": "university",
+   "pos": "noun",
+   "ipa": "/dɪˈɡriː/",
+   "def_en": "A university qualification.",
+   "def_vi": "Văn bằng đại học.",
+   "gloss_vi": "bằng đại học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Degree</i> (noun) = bằng đại học. <b>Grammar</b>: <i>a degree in sth</i>. <b>Common mistakes</b>: cũng = độ (nhiệt).",
+   "example": {
+    "en": "I’ve got a <b>degree</b> in economics.",
+    "vi": "Tôi có <b>bằng</b> kinh tế."
+   }
+  },
+  {
+   "word": "certificate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/səˈtɪfɪkət/",
+   "def_en": "A document that shows you have completed a course successfully.",
+   "def_vi": "Giấy tờ chứng nhận đã hoàn thành khóa học.",
+   "gloss_vi": "giấy chứng nhận",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Certificate</i> (noun) = giấy chứng nhận. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: /səˈtɪfɪkət/.",
+   "example": {
+    "en": "You get your degree and receive a <b>certificate</b>.",
+    "vi": "Bạn nhận bằng và một <b>giấy chứng nhận</b>."
+   }
+  },
+  {
+   "word": "last",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/lɑːst/",
+   "def_en": "To continue for a period of time.",
+   "def_vi": "Kéo dài một khoảng thời gian.",
+   "gloss_vi": "kéo dài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Last</i> (verb) = kéo dài. <b>Grammar</b>: <i>last</i> + khoảng thời gian (không có <i>for</i> cũng được).",
+   "example": {
+    "en": "In the UK, most degree courses <b>last</b> three years.",
+    "vi": "Ở Anh, phần lớn khóa học <b>kéo dài</b> ba năm."
+   }
+  },
+  {
+   "word": "lecturer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlektʃərə(r)/",
+   "def_en": "A teacher at university.",
+   "def_vi": "Giáo viên ở đại học.",
+   "gloss_vi": "giảng viên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lecturer</i> (noun) = giảng viên. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Teachers at university are usually called <b>lecturers</b>.",
+    "vi": "Giáo viên đại học thường được gọi là <b>giảng viên</b>."
+   }
+  },
+  {
+   "word": "lecture",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlektʃə(r)/",
+   "def_en": "A talk given by a lecturer to students.",
+   "def_vi": "Bài nói của giảng viên với sinh viên.",
+   "gloss_vi": "bài giảng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lecture</i> (noun) = bài giảng. <b>Grammar</b>: <i>give/attend a lecture (on sth)</i>.",
+   "example": {
+    "en": "Most of the teaching is done through <b>lectures</b>.",
+    "vi": "Phần lớn việc dạy là qua <b>bài giảng</b>."
+   }
+  },
+  {
+   "word": "professor",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/prəˈfesə(r)/",
+   "def_en": "The most senior lecturer.",
+   "def_vi": "Giảng viên cao cấp nhất.",
+   "gloss_vi": "giáo sư",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Professor</i> (noun) = giáo sư. <b>Grammar</b>: viết hoa khi là chức danh.",
+   "example": {
+    "en": "The most senior lecturers have the title <b>Professor</b>.",
+    "vi": "Những giảng viên cao cấp nhất có chức danh <b>Giáo sư</b>."
+   }
+  },
+  {
+   "word": "arts",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ɑːts/",
+   "def_en": "Subjects such as English or history.",
+   "def_vi": "Các môn như tiếng Anh hay lịch sử.",
+   "gloss_vi": "các môn xã hội nhân văn",
+   "synonyms": "humanities <i>(pn. khoa học nhân văn)</i>",
+   "antonyms": "sciences <i>(pn. khoa học tự nhiên)</i>",
+   "grammar_vi": "<i>Arts</i> (plural noun) = các môn xã hội nhân văn. <b>Grammar</b>: <i>arts subjects</i>; <i>BA</i> = Bachelor of Arts.",
+   "example": {
+    "en": "Students doing <b>arts</b> subjects, e.g. English or history, will spend time working in the library.",
+    "vi": "Sinh viên học <b>các môn xã hội</b>, như tiếng Anh hay lịch sử, sẽ làm việc ở thư viện."
+   }
+  },
+  {
+   "word": "library",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlaɪbrəri/",
+   "def_en": "A place where you can read and borrow books.",
+   "def_vi": "Nơi đọc và mượn sách.",
+   "gloss_vi": "thư viện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Library</i> (noun) = thư viện. <b>Grammar</b>: ≠ <i>bookshop</i>. <b>Common mistakes</b>: /ˈlaɪbrəri/.",
+   "example": {
+    "en": "Students doing arts subjects will spend time working in the <b>library</b>.",
+    "vi": "Sinh viên khối xã hội sẽ dành thời gian làm việc ở <b>thư viện</b>."
+   }
+  },
+  {
+   "word": "science",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsaɪəns/",
+   "def_en": "Subjects such as physics or chemistry.",
+   "def_vi": "Các môn như vật lý hay hóa học.",
+   "gloss_vi": "khoa học (tự nhiên)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "arts <i>(pn. khối xã hội)</i>",
+   "grammar_vi": "<i>Science</i> (noun) = khoa học (tự nhiên). <b>Grammar</b>: <i>science subjects</i>.",
+   "example": {
+    "en": "Students doing <b>science</b> degrees will probably spend a lot of their time working in a laboratory.",
+    "vi": "Sinh viên học bằng <b>khoa học</b> sẽ làm việc nhiều ở phòng thí nghiệm."
+   }
+  },
+  {
+   "word": "laboratory",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ləˈbɒrətri/",
+   "def_en": "A room for scientific work.",
+   "def_vi": "Phòng làm việc khoa học.",
+   "gloss_vi": "phòng thí nghiệm",
+   "synonyms": "lab <i>(n. phòng thí nghiệm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Laboratory</i> (noun) = phòng thí nghiệm. <b>Grammar</b>: thân mật <i>lab</i>. <b>Common mistakes</b>: Anh /ləˈbɒrətri/.",
+   "example": {
+    "en": "They will probably spend a lot of their time working in a <b>laboratory</b>.",
+    "vi": "Họ sẽ dành nhiều thời gian làm việc ở <b>phòng thí nghiệm</b>."
+   }
+  },
+  {
+   "word": "undergraduate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌʌndəˈɡrædʒuət/",
+   "def_en": "A student doing a first degree.",
+   "def_vi": "Sinh viên đang học bằng đầu tiên.",
+   "gloss_vi": "sinh viên đại học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Undergraduate</i> (noun) = sinh viên đại học. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "When students are doing their first degree, they are called <b>undergraduates</b>.",
+    "vi": "Khi sinh viên học bằng đầu tiên, họ được gọi là <b>sinh viên đại học</b>."
+   }
+  },
+  {
+   "word": "graduate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡrædʒuət/",
+   "def_en": "A person who has completed a degree.",
+   "def_vi": "Người đã hoàn thành bằng đại học.",
+   "gloss_vi": "cử nhân, người tốt nghiệp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Graduate</i> (noun) = cử nhân, người tốt nghiệp. <b>Grammar</b>: danh từ /ˈɡrædʒuət/, động từ /ˈɡrædʒueɪt/.",
+   "example": {
+    "en": "When they complete their degree, they are <b>graduates</b>.",
+    "vi": "Khi hoàn thành bằng, họ là <b>người tốt nghiệp</b>."
+   }
+  },
+  {
+   "word": "go on to do",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ ˈɒn tə duː/",
+   "def_en": "To do something in the future, after something else.",
+   "def_vi": "Làm gì tiếp theo sau đó.",
+   "gloss_vi": "tiếp tục học/làm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go on to do</i> (verb phrase) = tiếp tục học/làm. <b>Grammar</b>: <i>go on to do sth</i> = làm việc tiếp theo.",
+   "example": {
+    "en": "Some graduates <b>go on to do</b> a Master’s.",
+    "vi": "Một số người tốt nghiệp <b>tiếp tục học</b> thạc sĩ."
+   }
+  },
+  {
+   "word": "postgraduate degree",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌpəʊstˌɡrædʒuət dɪˈɡriː/",
+   "def_en": "A degree you do after your first degree.",
+   "def_vi": "Bằng học sau bằng đầu tiên.",
+   "gloss_vi": "bằng sau đại học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Postgraduate degree</i> (noun phrase) = bằng sau đại học. <b>Grammar</b>: <i>post-</i> = sau.",
+   "example": {
+    "en": "These are called <b>postgraduate degrees</b>.",
+    "vi": "Những bằng này được gọi là <b>bằng sau đại học</b>."
+   }
+  },
+  {
+   "word": "do research",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌduː rɪˈsɜːtʃ/",
+   "def_en": "To make a detailed study of one subject.",
+   "def_vi": "Nghiên cứu chi tiết một chủ đề.",
+   "gloss_vi": "làm nghiên cứu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Do research</i> (verb phrase) = làm nghiên cứu. <b>Grammar</b>: <i>research</i> không đếm được (không <i>a research</i>).",
+   "example": {
+    "en": "Students <b>do research</b> for at least three years.",
+    "vi": "Sinh viên tiến sĩ <b>nghiên cứu</b> ít nhất ba năm."
+   }
+  }
+ ]
+}

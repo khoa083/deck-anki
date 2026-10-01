@@ -1,0 +1,488 @@
+{
+ "book": "pre",
+ "unit": 33,
+ "title_vi": "Học tiếng Anh và đi thi",
+ "theory_html": "<p><b>A. How are they getting on?</b><br><i>A. Họ tiến bộ thế nào?</i></p> <p><b>a wide vocabulary, speak accurately, fluent, accent, consonants / vowels, the alphabet, make yourself understood, increase your vocabulary, basic</b> (syn <b>simple</b>), <b>willing to experiment, get things wrong, make progress, pick things up, have a good ear for language</b>. Adjectives with nouns (<b>a fluent speaker</b>), adverbs with verbs (<b>speaks accurately, speak English well</b>).</p><p><i><b>vốn từ rộng, chính xác, trôi chảy, giọng, phụ âm/nguyên âm, bảng chữ cái, diễn đạt cho người khác hiểu, tăng, cơ bản, sẵn lòng thử nghiệm, mắc lỗi, tiến bộ, học lỏm, có năng khiếu nghe</b>.</i></p> <p><b>B. Examinations</b><br><i>B. Thi cử</i></p> <p><b>take/do</b> an exam (NOT <b>make</b>); <b>pass / fail</b>; <b>revise for</b> an exam; <b>retake</b>. <b>hard work, do your best</b> (syn <b>try your best</b>), a strong <b>candidate</b>, a good <b>grade</b> (syn <b>mark</b>), <b>do well</b>, <b>get through</b> the coursebook, <b>revision</b>, <b>exam preparation</b>, <b>write an essay</b>, <b>work on</b> accuracy.</p><p><i><b>đỗ/trượt, ôn thi, thi lại, việc vất vả, cố hết sức, thí sinh, điểm, làm tốt, học xong, ôn tập, chuẩn bị thi, bài luận, luyện</b>.</i></p>",
+ "items": [
+  {
+   "word": "wide vocabulary",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌwaɪd vəˈkæbjələri/",
+   "def_en": "Knowledge of a lot of words.",
+   "def_vi": "Biết nhiều từ.",
+   "gloss_vi": "vốn từ rộng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "limited vocabulary <i>(np. vốn từ hạn chế)</i>",
+   "grammar_vi": "<i>Wide vocabulary</i> (noun phrase) = vốn từ rộng. <b>Grammar</b>: <i>have a wide/large vocabulary</i>.",
+   "example": {
+    "en": "Jade has a <b>wide vocabulary</b> and speaks very accurately.",
+    "vi": "Jade có <b>vốn từ rộng</b> và nói rất chính xác."
+   }
+  },
+  {
+   "word": "accurately",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈækjərətli/",
+   "def_en": "Without mistakes.",
+   "def_vi": "Không có lỗi.",
+   "gloss_vi": "chính xác",
+   "synonyms": "correctly <i>(adv. đúng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Accurately</i> (adverb) = chính xác. <b>Grammar</b>: trạng từ bổ nghĩa động từ: <i>speak accurately</i>. <b>Word family</b>: <i>accurate</i> (adj.), <i>accuracy</i> (n.).",
+   "example": {
+    "en": "Jade has a wide vocabulary and speaks very <b>accurately</b>.",
+    "vi": "Jade có vốn từ rộng và nói rất <b>chính xác</b>."
+   }
+  },
+  {
+   "word": "fluent",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈfluːənt/",
+   "def_en": "Able to speak naturally without stopping.",
+   "def_vi": "Nói tự nhiên không ngắc ngứ.",
+   "gloss_vi": "trôi chảy, lưu loát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fluent</i> (adjective) = trôi chảy, lưu loát. <b>Grammar</b>: <i>a fluent speaker</i> (không <i>a fluently speaker</i>). <b>Word family</b>: <i>fluently</i> (adv.), <i>fluency</i> (n.).",
+   "example": {
+    "en": "She needs to practise her speaking more in order to become more <b>fluent</b>.",
+    "vi": "Cô ấy cần luyện nói nhiều hơn để <b>lưu loát</b> hơn."
+   }
+  },
+  {
+   "word": "accent",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈæksent/",
+   "def_en": "The way someone pronounces words.",
+   "def_vi": "Cách ai đó phát âm.",
+   "gloss_vi": "giọng (phát âm)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Accent</i> (noun) = giọng (phát âm). <b>Grammar</b>: <i>a strong/foreign accent</i>.",
+   "example": {
+    "en": "Angel is quite fluent, but his <b>accent</b> is not very good.",
+    "vi": "Angel khá lưu loát, nhưng <b>giọng</b> của cậu ấy không tốt lắm."
+   }
+  },
+  {
+   "word": "consonant",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɒnsənənt/",
+   "def_en": "A letter of the alphabet that is not a vowel.",
+   "def_vi": "Chữ cái không phải nguyên âm.",
+   "gloss_vi": "phụ âm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "vowel <i>(n. nguyên âm)</i>",
+   "grammar_vi": "<i>Consonant</i> (noun) = phụ âm. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "He has problems with certain <b>consonants</b>.",
+    "vi": "Cậu ấy gặp vấn đề với một số <b>phụ âm</b>."
+   }
+  },
+  {
+   "word": "alphabet",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈælfəbet/",
+   "def_en": "The letters a–z.",
+   "def_vi": "Các chữ cái a–z.",
+   "gloss_vi": "bảng chữ cái",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Alphabet</i> (noun) = bảng chữ cái. <b>Grammar</b>: <i>the alphabet</i>.",
+   "example": {
+    "en": "Consonants are letters of the <b>alphabet</b> (a–z), which are not the vowels.",
+    "vi": "Phụ âm là các chữ cái trong <b>bảng chữ cái</b> không phải nguyên âm."
+   }
+  },
+  {
+   "word": "vowel",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈvaʊəl/",
+   "def_en": "One of the letters a, e, i, o, u.",
+   "def_vi": "Một trong các chữ a, e, i, o, u.",
+   "gloss_vi": "nguyên âm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "consonant <i>(n. phụ âm)</i>",
+   "grammar_vi": "<i>Vowel</i> (noun) = nguyên âm. <b>Grammar</b>: <i>an</i> trước nguyên âm.",
+   "example": {
+    "en": "Consonants are letters of the alphabet, which are not the <b>vowels</b> a, e, i, o, u.",
+    "vi": "Phụ âm là các chữ cái không phải <b>nguyên âm</b> a, e, i, o, u."
+   }
+  },
+  {
+   "word": "make yourself understood",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌmeɪk jɔːself ˌʌndəˈstʊd/",
+   "def_en": "To say things in a way people understand.",
+   "def_vi": "Nói sao cho người khác hiểu.",
+   "gloss_vi": "diễn đạt cho người khác hiểu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Make yourself understood</i> (verb phrase) = diễn đạt cho người khác hiểu. <b>Grammar</b>: <i>make myself/himself understood</i>.",
+   "example": {
+    "en": "Jose has no problem <b>making himself understood</b>.",
+    "vi": "Jose không gặp khó khăn gì trong việc <b>diễn đạt cho người khác hiểu</b>."
+   }
+  },
+  {
+   "word": "increase",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪnˈkriːs/",
+   "def_en": "To make bigger.",
+   "def_vi": "Làm cho lớn hơn.",
+   "gloss_vi": "tăng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "decrease <i>(v. giảm)</i>",
+   "grammar_vi": "<i>Increase</i> (verb) = tăng. <b>Grammar</b>: động từ nhấn âm 2 /ɪnˈkriːs/; danh từ /ˈɪŋkriːs/.",
+   "example": {
+    "en": "He needs to <b>increase</b> his vocabulary.",
+    "vi": "Cậu ấy cần <b>tăng</b> vốn từ."
+   }
+  },
+  {
+   "word": "basic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈbeɪsɪk/",
+   "def_en": "Elementary; simple.",
+   "def_vi": "Sơ cấp; đơn giản.",
+   "gloss_vi": "cơ bản",
+   "synonyms": "simple <i>(adj. đơn giản)</i>",
+   "antonyms": "advanced <i>(adj. nâng cao)</i>",
+   "grammar_vi": "<i>Basic</i> (adjective) = cơ bản. <b>Grammar</b>: <i>basic vocabulary/English</i>.",
+   "example": {
+    "en": "At the moment it’s quite <b>basic</b>.",
+    "vi": "Hiện tại vốn từ của cậu ấy khá <b>cơ bản</b>."
+   }
+  },
+  {
+   "word": "willing to",
+   "sense": "",
+   "pos": "adjp",
+   "ipa": "/ˈwɪlɪŋ tə/",
+   "def_en": "Happy and ready to do something.",
+   "def_vi": "Vui vẻ và sẵn sàng làm gì.",
+   "gloss_vi": "sẵn lòng",
+   "synonyms": "ready to <i>(adjp. sẵn sàng)</i>",
+   "antonyms": "unwilling to <i>(adjp. không muốn)</i>",
+   "grammar_vi": "<i>Willing to</i> (adjp) = sẵn lòng. <b>Grammar</b>: <i>be willing to do sth</i>.",
+   "example": {
+    "en": "Olga is always <b>willing to</b> experiment with language.",
+    "vi": "Olga luôn <b>sẵn lòng</b> thử nghiệm với ngôn ngữ."
+   }
+  },
+  {
+   "word": "experiment",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪkˈsperɪment/",
+   "def_en": "To try something new to see what it is like.",
+   "def_vi": "Thử điều mới xem thế nào.",
+   "gloss_vi": "thử nghiệm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Experiment</i> (verb) = thử nghiệm. <b>Grammar</b>: <i>experiment with sth</i>; cũng là danh từ.",
+   "example": {
+    "en": "Olga is always willing to <b>experiment</b> with language.",
+    "vi": "Olga luôn sẵn lòng <b>thử nghiệm</b> với ngôn ngữ."
+   }
+  },
+  {
+   "word": "get things wrong",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡet θɪŋz ˈrɒŋ/",
+   "def_en": "To make mistakes.",
+   "def_vi": "Mắc lỗi.",
+   "gloss_vi": "làm sai, mắc lỗi",
+   "synonyms": "make mistakes <i>(vp. mắc lỗi)</i>",
+   "antonyms": "get things right <i>(vp. làm đúng)</i>",
+   "grammar_vi": "<i>Get things wrong</i> (verb phrase) = làm sai, mắc lỗi. <b>Grammar</b>: <i>get sth wrong/right</i>.",
+   "example": {
+    "en": "For that reason she sometimes <b>gets things wrong</b>.",
+    "vi": "Vì thế đôi khi cô ấy <b>mắc lỗi</b>."
+   }
+  },
+  {
+   "word": "make progress",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌmeɪk ˈprəʊɡres/",
+   "def_en": "To improve.",
+   "def_vi": "Tiến bộ.",
+   "gloss_vi": "tiến bộ",
+   "synonyms": "improve <i>(v. cải thiện)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Make progress</i> (verb phrase) = tiến bộ. <b>Grammar</b>: <i>progress</i> không đếm được (không <i>a progress</i>).",
+   "example": {
+    "en": "She learns from her mistakes and she’s <b>making</b> a lot of <b>progress</b>.",
+    "vi": "Cô ấy học từ lỗi sai và <b>tiến bộ</b> rất nhiều."
+   }
+  },
+  {
+   "word": "pick up",
+   "sense": "learn",
+   "pos": "phrasal verb",
+   "ipa": "/ˌpɪk ˈʌp/",
+   "def_en": "To learn things without trying.",
+   "def_vi": "Học được mà không cần cố.",
+   "gloss_vi": "học lỏm, tiếp thu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pick up</i> (phrasal verb) = học lỏm, tiếp thu. <b>Grammar</b>: tách được: <i>pick sth up / pick it up</i>.",
+   "example": {
+    "en": "He <b>picks</b> things <b>up</b> very quickly.",
+    "vi": "Cậu ấy <b>tiếp thu</b> mọi thứ rất nhanh."
+   }
+  },
+  {
+   "word": "have a good ear for language",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/hæv ə ˌɡʊd ˈɪə fə ˌlæŋɡwɪdʒ/",
+   "def_en": "To be good at hearing, repeating and understanding sounds and words.",
+   "def_vi": "Giỏi nghe, nhắc lại và hiểu âm, từ.",
+   "gloss_vi": "có năng khiếu ngôn ngữ (về nghe)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have a good ear for language</i> (verb phrase) = có năng khiếu ngôn ngữ (về nghe). <b>Grammar</b>: <i>have a good ear for music/language</i>.",
+   "example": {
+    "en": "He <b>has a good ear for language</b>.",
+    "vi": "Cậu ấy <b>có năng khiếu nghe ngôn ngữ</b>."
+   }
+  },
+  {
+   "word": "pass",
+   "sense": "exam",
+   "pos": "verb",
+   "ipa": "/pɑːs/",
+   "def_en": "To be successful in an exam.",
+   "def_vi": "Thành công trong kỳ thi.",
+   "gloss_vi": "đỗ, qua",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "fail <i>(v. trượt)</i>",
+   "grammar_vi": "<i>Pass</i> (verb) = đỗ, qua. <b>Grammar</b>: <i>pass an exam</i> (không <i>pass in</i>).",
+   "example": {
+    "en": "I think Angel might fail, but with a bit of luck he might <b>pass</b>.",
+    "vi": "Tôi nghĩ Angel có thể trượt, nhưng may ra cậu ấy có thể <b>đỗ</b>."
+   }
+  },
+  {
+   "word": "fail",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/feɪl/",
+   "def_en": "Not to be successful in an exam.",
+   "def_vi": "Không thành công trong kỳ thi.",
+   "gloss_vi": "trượt, thi rớt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "pass <i>(v. đỗ)</i>",
+   "grammar_vi": "<i>Fail</i> (verb) = trượt, thi rớt. <b>Grammar</b>: <i>fail an exam</i>. <b>Word family</b>: <i>failure</i> (n.).",
+   "example": {
+    "en": "I think Angel might <b>fail</b>.",
+    "vi": "Tôi nghĩ Angel có thể <b>trượt</b>."
+   }
+  },
+  {
+   "word": "revise for",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/rɪˈvaɪz fə(r)/",
+   "def_en": "To study and prepare for an exam.",
+   "def_vi": "Học và chuẩn bị cho kỳ thi.",
+   "gloss_vi": "ôn thi",
+   "synonyms": "study for <i>(pv. học cho)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Revise for</i> (phrasal verb) = ôn thi. <b>Grammar</b>: Anh–Anh; Mỹ <i>review</i>. <b>Word family</b>: <i>revision</i> (n.).",
+   "example": {
+    "en": "Before taking an exam, you <b>revise for</b> the exam.",
+    "vi": "Trước khi thi, bạn <b>ôn</b> cho kỳ thi."
+   }
+  },
+  {
+   "word": "retake",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌriːˈteɪk/",
+   "def_en": "To do an exam again.",
+   "def_vi": "Làm lại bài thi.",
+   "gloss_vi": "thi lại",
+   "synonyms": "resit <i>(v. thi lại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Retake</i> (verb) = thi lại. <b>Grammar</b>: <i>retake – retook – retaken</i>.",
+   "example": {
+    "en": "Sometimes you can also <b>retake</b> an exam.",
+    "vi": "Đôi khi bạn cũng có thể <b>thi lại</b>."
+   }
+  },
+  {
+   "word": "hard work",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌhɑːd ˈwɜːk/",
+   "def_en": "Work that requires a lot of effort.",
+   "def_vi": "Việc cần nhiều nỗ lực.",
+   "gloss_vi": "việc vất vả",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hard work</i> (noun phrase) = việc vất vả. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "For some of them it will be <b>hard work</b>.",
+    "vi": "Với một số em, đó sẽ là <b>việc vất vả</b>."
+   }
+  },
+  {
+   "word": "do your best",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌduː jə ˈbest/",
+   "def_en": "To make as much effort as you can.",
+   "def_vi": "Cố gắng hết mức có thể.",
+   "gloss_vi": "cố hết sức",
+   "synonyms": "try your best <i>(vp. cố hết sức)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Do your best</i> (verb phrase) = cố hết sức. <b>Grammar</b>: <i>do my/his/her best</i>.",
+   "example": {
+    "en": "He’s <b>doing his best</b>.",
+    "vi": "Cậu ấy đang <b>cố hết sức</b>."
+   }
+  },
+  {
+   "word": "candidate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkændɪdət/",
+   "def_en": "Someone who is taking an exam.",
+   "def_vi": "Người đang dự thi.",
+   "gloss_vi": "thí sinh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Candidate</i> (noun) = thí sinh. <b>Grammar</b>: cũng = ứng viên (việc làm, bầu cử).",
+   "example": {
+    "en": "Andreas is a strong <b>candidate</b>.",
+    "vi": "Andreas là một <b>thí sinh</b> mạnh."
+   }
+  },
+  {
+   "word": "grade",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɡreɪd/",
+   "def_en": "A letter or number showing how well you did in an exam.",
+   "def_vi": "Chữ hay số thể hiện bạn thi tốt thế nào.",
+   "gloss_vi": "điểm",
+   "synonyms": "mark <i>(n. điểm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Grade</i> (noun) = điểm. <b>Grammar</b>: <i>get a good grade/mark</i>.",
+   "example": {
+    "en": "I’m sure he’ll get a good <b>grade</b>.",
+    "vi": "Tôi chắc cậu ấy sẽ được <b>điểm</b> tốt."
+   }
+  },
+  {
+   "word": "do well",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌduː ˈwel/",
+   "def_en": "To be successful.",
+   "def_vi": "Thành công.",
+   "gloss_vi": "làm tốt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "do badly <i>(vp. làm kém)</i>",
+   "grammar_vi": "<i>Do well</i> (verb phrase) = làm tốt. <b>Grammar</b>: <i>do well in an exam</i>.",
+   "example": {
+    "en": "I think Jade and Olga will also <b>do well</b>.",
+    "vi": "Tôi nghĩ Jade và Olga cũng sẽ <b>làm tốt</b>."
+   }
+  },
+  {
+   "word": "get through",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌɡet ˈθruː/",
+   "def_en": "To finish.",
+   "def_vi": "Hoàn thành.",
+   "gloss_vi": "học xong, làm xong",
+   "synonyms": "finish <i>(v. hoàn thành)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get through</i> (phrasal verb) = học xong, làm xong. <b>Grammar</b>: <i>get through sth</i>.",
+   "example": {
+    "en": "I’m trying to <b>get through</b> the coursebook so that we can do some revision.",
+    "vi": "Tôi đang cố <b>học xong</b> giáo trình để có thể ôn tập."
+   }
+  },
+  {
+   "word": "revision",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˈvɪʒn/",
+   "def_en": "Study to prepare for an exam.",
+   "def_vi": "Việc học chuẩn bị cho kỳ thi.",
+   "gloss_vi": "sự ôn tập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Revision</i> (noun) = sự ôn tập. <b>Grammar</b>: không đếm được; <i>do some revision</i>.",
+   "example": {
+    "en": "So that we can do some <b>revision</b>.",
+    "vi": "Để chúng tôi có thể <b>ôn tập</b> một chút."
+   }
+  },
+  {
+   "word": "exam preparation",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ɪɡˈzæm prepəˌreɪʃn/",
+   "def_en": "Getting ready for an exam.",
+   "def_vi": "Chuẩn bị cho kỳ thi.",
+   "gloss_vi": "chuẩn bị thi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Exam preparation</i> (noun phrase) = chuẩn bị thi. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "I think the most important thing is to do some <b>exam preparation</b>.",
+    "vi": "Tôi nghĩ điều quan trọng nhất là <b>chuẩn bị thi</b>."
+   }
+  },
+  {
+   "word": "essay",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈeseɪ/",
+   "def_en": "A short piece of writing about a particular subject.",
+   "def_vi": "Bài viết ngắn về một chủ đề.",
+   "gloss_vi": "bài luận",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Essay</i> (noun) = bài luận. <b>Grammar</b>: <i>write an essay (on/about sth)</i>.",
+   "example": {
+    "en": "Today I want the students to do/write an <b>essay</b>.",
+    "vi": "Hôm nay tôi muốn học sinh viết một <b>bài luận</b>."
+   }
+  },
+  {
+   "word": "work on",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˈwɜːk ɒn/",
+   "def_en": "To spend time improving something.",
+   "def_vi": "Dành thời gian cải thiện điều gì.",
+   "gloss_vi": "luyện, cải thiện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Work on</i> (phrasal verb) = luyện, cải thiện. <b>Grammar</b>: <i>work on sth</i>.",
+   "example": {
+    "en": "So I need to <b>work on</b> that with them.",
+    "vi": "Nên tôi cần <b>luyện</b> điều đó với các em."
+   }
+  }
+ ]
+}
