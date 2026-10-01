@@ -28,6 +28,7 @@
 | 17 | Int 36–40 | 56 mục / 112 thẻ + 5 note lý thuyết + 56 audio | build 1875 note / 3647 thẻ, 0 bad renders, audio 1425/1425 |
 | 18 | Int 41–45 | 73 mục / 146 thẻ + 5 note lý thuyết + 73 audio | build 1953 note / 3798 thẻ, 0 bad renders, audio 1498/1498 |
 | 19 | Int 46–50 | 75 mục / 150 thẻ + 5 note lý thuyết + 75 audio | build 2033 note / 3953 thẻ, 0 bad renders, audio 1573/1573 |
+| 20 | Int 51–55 | 66 mục / 132 thẻ + 5 note lý thuyết + 66 audio | build 2104 note / 4090 thẻ, 0 bad renders, audio 1639/1639 |
 
 ## Quyết định (xem PROMPT.md §3)
 D1 thứ tự Adv 16→60 → bổ sung demo → Int 1→70 · D2 IPA chuẩn Anh (config.ipa_style) · D3 1 deck gốc `English Phrasal Verbs in Use` → `Advanced`/`Intermediate` · D4 thẻ demo chỉ có ở bản 1: giữ + tag `EPV::demo_ban1` · D5 audio **bắt buộc**: Kokoro TTS offline, giọng Anh–Anh nam `bm_george` (sửa từ lượt 1c; trước đó để trống) · D6 chọn mục theo Mini dictionary + cụm in đậm.
@@ -220,7 +221,13 @@ D1 thứ tự Adv 16→60 → bổ sung demo → Int 1→70 · D2 IPA chuẩn An
 - u49: `set-up` (u13) và `turnover` (u4) chỉ nhắc; `take over something` (thâu tóm công ty) là thẻ thứ ba của *take over* (u27, u45, u49).
 - u50: các động từ gọi điện; `phone around`, `phone up`, `ring in` chỉ nhắc trong Mẹo (cùng nghĩa với dạng *call*).
 
+**Lượt 20 (Intermediate 51–55)**
+- u51: `jump at` có định nghĩa trên trang (Mini OCR thiếu) → thẻ; `tear yourself apart` theo trang (Mini ghi `tear sb apart`).
+- u52: `turn sb on` (Mini 52) không có trên trang → bỏ; `fall out` (u38) chỉ nhắc.
+- u55: **sai số chú thích trên trang sách**: chú thích 9 (‘start to do or take something bad…’) là nghĩa của `turn to`, còn `wind up` mang chú thích 10 → thẻ `wind up` theo Mini, thẻ `turn to` (bad habit) theo bài 55.3; ghi chú trong thẻ. OCR email thứ tư mất chữ → bổ sung src.
+
 ## Kiểm trôi
+- Lượt 20: soát Int 51–55 khi viết (ảnh trang + đáp án); sửa 1 đoạn lý thuyết u55 trùng 13 từ; viết lại câu bối cảnh tự đặt (u51 cheer up/feel for, u52 falling-out, u53 break off, u54 let on/talk down to). Không phát hiện lệch nghĩa.
 - Lượt 19: soát Int 46–50 khi viết (ảnh trang + đáp án); sửa 1 đoạn lý thuyết u49 trùng 13 từ; viết lại câu bối cảnh tự đặt (u46 branch out/squeeze in, u47 save up, u48 fork out/sell-off, u49 takeover, u50 call up). Không phát hiện lệch nghĩa.
 - Lượt 18: soát Int 41–45 khi viết (ảnh trang + đáp án); sửa 1 đoạn lý thuyết u43 trùng 12 từ; viết lại câu bối cảnh tự đặt (u42 give out/play up, u43 mug up/write up/keep up, u44 read up on/fill out, u45 stand down/pencil in). Không phát hiện lệch nghĩa.
 - Lượt 17: soát Int 36–40 khi viết (ảnh trang + đáp án); viết lại câu bối cảnh tự đặt (u36 sort yourself out/see about, u38 fall out, u40 outstanding/hit back). Không phát hiện lệch nghĩa.
