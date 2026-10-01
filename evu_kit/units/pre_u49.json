@@ -1,0 +1,391 @@
+{
+ "book": "pre",
+ "unit": 49,
+ "title_vi": "Quán cà phê",
+ "theory_html": "<p><b>A. Drinks</b><br><i>A. Đồ uống</i></p> <p><b>cappuccino, milkshake, smoothie, latte, black coffee, hot chocolate, herbal tea, decaf</b> (without caffeine).</p><p><i><b>cà phê cappuccino, sữa lắc, sinh tố, latte, cà phê đen, sô-cô-la nóng, trà thảo mộc, không caffeine</b>.</i></p> <p><b>B. Food</b><br><i>B. Đồ ăn</i></p> <p><b>waffle, crisps, toastie, panini, bagel, wrap, baguette, croissant, muffin, cupcake</b>. UK <b>crisps</b> = US <b>chips</b>; UK <b>chips/fries</b> = US <b>French fries</b>.</p><p><i><b>bánh quế, khoai tây lát chiên, bánh mì nướng kẹp, bánh panini, bánh vòng, bánh cuộn, bánh mì que, bánh sừng bò, bánh muffin, bánh cupcake</b>.</i></p> <p><b>C. Ordering food and drink</b><br><i>C. Gọi đồ ăn uống</i></p> <p><b>Regular or large? To have in or take away? What’s in that panini? Do you have any vegetarian ones? Would you like it heated up? Where are the napkins? Do you have a tray?</b></p><p><i><b>cỡ vừa hay lớn? ăn tại chỗ hay mang đi? trong đó có gì? hâm nóng, khăn giấy, khay</b>.</i></p>",
+ "items": [
+  {
+   "word": "milkshake",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɪlkʃeɪk/",
+   "def_en": "A cold drink made of milk and ice cream.",
+   "def_vi": "Đồ uống lạnh từ sữa và kem.",
+   "gloss_vi": "sữa lắc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Milkshake</i> (noun) = sữa lắc. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "My son wants a chocolate <b>milkshake</b>.",
+    "vi": "Con trai tôi muốn một ly <b>sữa lắc</b> sô-cô-la."
+   }
+  },
+  {
+   "word": "smoothie",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsmuːði/",
+   "def_en": "A thick drink made of fruit.",
+   "def_vi": "Đồ uống sánh làm từ trái cây.",
+   "gloss_vi": "sinh tố",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Smoothie</i> (noun) = sinh tố. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "I have a strawberry and banana <b>smoothie</b> every morning.",
+    "vi": "Tôi uống <b>sinh tố</b> dâu chuối mỗi sáng."
+   }
+  },
+  {
+   "word": "black coffee",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌblæk ˈkɒfi/",
+   "def_en": "Coffee without milk.",
+   "def_vi": "Cà phê không sữa.",
+   "gloss_vi": "cà phê đen",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "white coffee <i>(np. cà phê sữa)</i>",
+   "grammar_vi": "<i>Black coffee</i> (noun phrase) = cà phê đen. <b>Grammar</b>: không đếm được (đếm được khi gọi một cốc).",
+   "ex_kit": true,
+   "example": {
+    "en": "I always drink <b>black coffee</b>.",
+    "vi": "Tôi luôn uống <b>cà phê đen</b>."
+   }
+  },
+  {
+   "word": "hot chocolate",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌhɒt ˈtʃɒklət/",
+   "def_en": "A hot drink made with chocolate and milk.",
+   "def_vi": "Đồ uống nóng từ sô-cô-la và sữa.",
+   "gloss_vi": "sô-cô-la nóng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hot chocolate</i> (noun phrase) = sô-cô-la nóng. <b>Grammar</b>: đếm được khi gọi một cốc.",
+   "ex_kit": true,
+   "example": {
+    "en": "The children have <b>hot chocolate</b> before bed.",
+    "vi": "Bọn trẻ uống <b>sô-cô-la nóng</b> trước khi ngủ."
+   }
+  },
+  {
+   "word": "herbal tea",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌhɜːbl ˈtiː/",
+   "def_en": "Tea made from plants other than tea leaves.",
+   "def_vi": "Trà làm từ cây khác ngoài lá trà.",
+   "gloss_vi": "trà thảo mộc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Herbal tea</i> (noun phrase) = trà thảo mộc. <b>Grammar</b>: <i>herb</i> (n.) → <i>herbal</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "I drink <b>herbal tea</b> in the evening.",
+    "vi": "Tôi uống <b>trà thảo mộc</b> vào buổi tối."
+   }
+  },
+  {
+   "word": "decaf",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈdiːkæf/",
+   "def_en": "Without caffeine.",
+   "def_vi": "Không có caffeine.",
+   "gloss_vi": "không caffeine",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Decaf</i> (adjective) = không caffeine. <b>Grammar</b>: viết tắt <i>decaffeinated</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Can I have a <b>decaf</b> coffee, please?",
+    "vi": "Cho tôi một ly cà phê <b>không caffeine</b>."
+   }
+  },
+  {
+   "word": "waffle",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɒfl/",
+   "def_en": "A flat cake with a pattern of squares.",
+   "def_vi": "Bánh dẹt có họa tiết ô vuông.",
+   "gloss_vi": "bánh quế",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Waffle</i> (noun) = bánh quế. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "I ordered a <b>waffle</b> with ice cream.",
+    "vi": "Tôi gọi một chiếc <b>bánh quế</b> với kem."
+   }
+  },
+  {
+   "word": "crisps",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/krɪsps/",
+   "def_en": "Thin slices of fried potato sold in bags.",
+   "def_vi": "Lát khoai tây mỏng chiên bán theo gói.",
+   "gloss_vi": "khoai tây lát chiên",
+   "synonyms": "chips <i>(pn. khoai tây lát (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Crisps</i> (plural noun) = khoai tây lát chiên. <b>Grammar</b>: Anh–Anh <i>crisps</i> = Mỹ <i>chips</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I bought a packet of <b>crisps</b> and a can of cola.",
+    "vi": "Tôi mua một gói <b>khoai tây chiên lát</b> và một lon nước."
+   }
+  },
+  {
+   "word": "toastie",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtəʊsti/",
+   "def_en": "A hot sandwich made with toasted bread.",
+   "def_vi": "Bánh kẹp nóng làm từ bánh mì nướng.",
+   "gloss_vi": "bánh mì nướng kẹp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Toastie</i> (noun) = bánh mì nướng kẹp. <b>Grammar</b>: Anh–Anh thân mật.",
+   "ex_kit": true,
+   "example": {
+    "en": "I’ll have a cheese <b>toastie</b>.",
+    "vi": "Tôi lấy một <b>bánh mì nướng kẹp</b> phô mai."
+   }
+  },
+  {
+   "word": "panini",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pəˈniːni/",
+   "def_en": "A toasted Italian sandwich.",
+   "def_vi": "Bánh mì kẹp nướng kiểu Ý.",
+   "gloss_vi": "bánh panini",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Panini</i> (noun) = bánh panini. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "What’s in that <b>panini</b>?",
+    "vi": "Trong chiếc <b>panini</b> kia có gì?"
+   }
+  },
+  {
+   "word": "bagel",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbeɪɡl/",
+   "def_en": "A ring-shaped bread roll.",
+   "def_vi": "Bánh mì tròn có lỗ ở giữa.",
+   "gloss_vi": "bánh vòng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bagel</i> (noun) = bánh vòng. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "I had a <b>bagel</b> with cream cheese for breakfast.",
+    "vi": "Tôi ăn sáng một chiếc <b>bánh vòng</b> với kem phô mai."
+   }
+  },
+  {
+   "word": "wrap",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ræp/",
+   "def_en": "A thin flat bread rolled around a filling.",
+   "def_vi": "Bánh mỏng cuộn quanh nhân.",
+   "gloss_vi": "bánh cuộn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wrap</i> (noun) = bánh cuộn. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "I’ll have a chicken <b>wrap</b>.",
+    "vi": "Tôi lấy một <b>bánh cuộn</b> gà."
+   }
+  },
+  {
+   "word": "baguette",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bæˈɡet/",
+   "def_en": "A long thin loaf of French bread.",
+   "def_vi": "Ổ bánh mì Pháp dài mảnh.",
+   "gloss_vi": "bánh mì que",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Baguette</i> (noun) = bánh mì que. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "We bought a <b>baguette</b> for lunch.",
+    "vi": "Chúng tôi mua một ổ <b>bánh mì que</b> để ăn trưa."
+   }
+  },
+  {
+   "word": "croissant",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkrwæsɒ/",
+   "def_en": "A soft curved bread roll eaten for breakfast.",
+   "def_vi": "Bánh mềm hình lưỡi liềm ăn sáng.",
+   "gloss_vi": "bánh sừng bò",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Croissant</i> (noun) = bánh sừng bò. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "A coffee and a <b>croissant</b>, please.",
+    "vi": "Một cà phê và một <b>bánh sừng bò</b>, làm ơn."
+   }
+  },
+  {
+   "word": "muffin",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmʌfɪn/",
+   "def_en": "A small round sweet cake.",
+   "def_vi": "Bánh ngọt tròn nhỏ.",
+   "gloss_vi": "bánh muffin",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Muffin</i> (noun) = bánh muffin. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "I’ll have a blueberry <b>muffin</b>.",
+    "vi": "Tôi lấy một <b>bánh muffin</b> việt quất."
+   }
+  },
+  {
+   "word": "cupcake",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkʌpkeɪk/",
+   "def_en": "A small cake baked in a paper cup.",
+   "def_vi": "Bánh nhỏ nướng trong cốc giấy.",
+   "gloss_vi": "bánh cupcake",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cupcake</i> (noun) = bánh cupcake. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "She made some <b>cupcakes</b> for the party.",
+    "vi": "Cô ấy làm <b>bánh cupcake</b> cho bữa tiệc."
+   }
+  },
+  {
+   "word": "regular",
+   "sense": "size",
+   "pos": "adjective",
+   "ipa": "/ˈreɡjələ(r)/",
+   "def_en": "(Of a drink size) not big and usually not very small.",
+   "def_vi": "(Cỡ đồ uống) không lớn, thường không quá nhỏ.",
+   "gloss_vi": "cỡ vừa",
+   "synonyms": "medium <i>(adj. vừa)</i>",
+   "antonyms": "large <i>(adj. lớn)</i>",
+   "grammar_vi": "<i>Regular</i> (adjective) = cỡ vừa. <b>Grammar</b>: dùng cho cỡ đồ uống.",
+   "example": {
+    "en": "<b>Regular</b> or large?",
+    "vi": "Cỡ <b>vừa</b> hay lớn?"
+   }
+  },
+  {
+   "word": "to have in",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/tə ˌhæv ˈɪn/",
+   "def_en": "For eating or drinking inside the café.",
+   "def_vi": "Để ăn uống tại quán.",
+   "gloss_vi": "dùng tại chỗ",
+   "synonyms": "eat in <i>(pv. ăn tại chỗ)</i>",
+   "antonyms": "take away <i>(pv. mang đi)</i>",
+   "grammar_vi": "<i>To have in</i> (phrase) = dùng tại chỗ. <b>Grammar</b>: <i>to have in / to eat in</i>.",
+   "example": {
+    "en": "<b>To have in</b> or take away?",
+    "vi": "<b>Dùng tại chỗ</b> hay mang đi?"
+   }
+  },
+  {
+   "word": "take away",
+   "sense": "food",
+   "pos": "phrasal verb",
+   "ipa": "/ˌteɪk əˈweɪ/",
+   "def_en": "For eating or drinking after you leave the café.",
+   "def_vi": "Để ăn uống sau khi rời quán.",
+   "gloss_vi": "mang đi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "eat in <i>(pv. ăn tại chỗ)</i>",
+   "grammar_vi": "<i>Take away</i> (phrasal verb) = mang đi. <b>Grammar</b>: Anh–Anh; Mỹ <i>to go</i>.",
+   "example": {
+    "en": "To have in or <b>take away</b>?",
+    "vi": "Dùng tại chỗ hay <b>mang đi</b>?"
+   }
+  },
+  {
+   "word": "what’s in",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌwɒts ˈɪn/",
+   "def_en": "What does it contain?",
+   "def_vi": "Bên trong có gì?",
+   "gloss_vi": "trong đó có gì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>What’s in</i> (phrase) = trong đó có gì. <b>Grammar</b>: <i>What’s in it?</i>.",
+   "example": {
+    "en": "<b>What’s in</b> that panini?",
+    "vi": "<b>Trong</b> chiếc panini kia <b>có gì</b>?"
+   }
+  },
+  {
+   "word": "heat up",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌhiːt ˈʌp/",
+   "def_en": "To make food warm.",
+   "def_vi": "Làm thức ăn nóng lên.",
+   "gloss_vi": "hâm nóng",
+   "synonyms": "warm up <i>(pv. hâm nóng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Heat up</i> (phrasal verb) = hâm nóng. <b>Grammar</b>: tách được: <i>heat it up</i>.",
+   "example": {
+    "en": "Would you like it <b>heated up</b>?",
+    "vi": "Quý khách có muốn <b>hâm nóng</b> không?"
+   }
+  },
+  {
+   "word": "napkin",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈnæpkɪn/",
+   "def_en": "A thin piece of paper for cleaning your mouth and fingers.",
+   "def_vi": "Mảnh giấy mỏng lau miệng và tay.",
+   "gloss_vi": "khăn ăn, khăn giấy",
+   "synonyms": "serviette <i>(n. khăn ăn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Napkin</i> (noun) = khăn ăn, khăn giấy. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Where are the <b>napkins</b>?",
+    "vi": "<b>Khăn giấy</b> ở đâu?"
+   }
+  },
+  {
+   "word": "tray",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/treɪ/",
+   "def_en": "An object for carrying drinks or food.",
+   "def_vi": "Vật để bưng đồ uống hay thức ăn.",
+   "gloss_vi": "khay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tray</i> (noun) = khay. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Do you have a <b>tray</b> please?",
+    "vi": "Bạn có <b>khay</b> không?"
+   }
+  }
+ ]
+}

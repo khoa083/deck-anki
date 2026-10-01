@@ -1,0 +1,557 @@
+{
+ "book": "pre",
+ "unit": 48,
+ "title_vi": "Khách sạn và nhà hàng",
+ "theory_html": "<p><b>A. Hotel facilities and rooms</b><br><i>A. Tiện nghi và phòng khách sạn</i></p> <p><b>in the heart of Paris; hotel facilities: room service, Internet access, air conditioning, parking; single, double or twin rooms with satellite TV, mini-bar and personal safe.</b></p><p><i><b>trung tâm, tiện nghi, phục vụ tại phòng, truy cập Internet, chỗ đỗ xe; phòng đơn, đôi, hai giường; truyền hình vệ tinh, tủ lạnh mini, két sắt</b>.</i></p> <p><b>B. Staying in a hotel</b><br><i>B. Ở khách sạn</i></p> <p>Rooms are <b>available</b> during the week but <b>fully booked</b> at weekends, so <b>book a room</b> (syn <b>reserve</b>) <b>in advance</b>; <b>check in at reception</b>; at the end of your <b>stay</b> you <b>check out</b>.</p><p><i><b>còn trống, kín phòng, đặt phòng, trước, nhận phòng ở lễ tân, kỳ lưu trú, trả phòng</b>.</i></p> <p><b>C. Going to a restaurant</b><br><i>C. Đi nhà hàng</i></p> <p><b>book a table / make a reservation; three-course meals include a starter, main course and dessert; 10% service; leave a tip.</b></p><p><i><b>đặt bàn, bữa ba món, gồm, món khai vị, món chính, tráng miệng, phí phục vụ, tiền boa</b>.</i></p> <p><b>D. Ordering a meal</b><br><i>D. Gọi món</i></p> <p><b>Are you ready to order? – I’ll have the fillet steak… a mixed salad. Rare, medium or well-done? Still or sparkling?</b> <b>I’ll have…</b> (NOT <b>I take…</b>).</p><p><i><b>sẵn sàng gọi món chưa? – tôi lấy món…; xa lát trộn; tái, vừa, chín kỹ; nước không ga / có ga</b>.</i></p>",
+ "items": [
+  {
+   "word": "heart",
+   "sense": "centre",
+   "pos": "noun",
+   "ipa": "/hɑːt/",
+   "def_en": "The centre of a place.",
+   "def_vi": "Trung tâm một nơi.",
+   "gloss_vi": "trung tâm, lòng",
+   "synonyms": "centre <i>(n. trung tâm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Heart</i> (noun) = trung tâm, lòng. <b>Grammar</b>: <i>in the heart of</i> + thành phố.",
+   "example": {
+    "en": "The hotel is located right in the <b>heart</b> of Paris.",
+    "vi": "Khách sạn nằm ngay <b>trung tâm</b> Paris."
+   }
+  },
+  {
+   "word": "facilities",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/fəˈsɪlətiz/",
+   "def_en": "Rooms, equipment or services provided for people to use.",
+   "def_vi": "Phòng, thiết bị, dịch vụ cho người dùng.",
+   "gloss_vi": "tiện nghi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Facilities</i> (plural noun) = tiện nghi. <b>Grammar</b>: thường số nhiều.",
+   "example": {
+    "en": "Hotel <b>facilities</b> include room service, Internet access, air conditioning and parking.",
+    "vi": "<b>Tiện nghi</b> khách sạn gồm phục vụ tại phòng, truy cập Internet, điều hòa và chỗ đỗ xe."
+   }
+  },
+  {
+   "word": "room service",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈruːm ˌsɜːvɪs/",
+   "def_en": "When staff bring food and drink to your hotel room.",
+   "def_vi": "Nhân viên mang đồ ăn uống lên phòng.",
+   "gloss_vi": "phục vụ tại phòng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Room service</i> (noun phrase) = phục vụ tại phòng. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "Hotel facilities include <b>room service</b>.",
+    "vi": "Tiện nghi khách sạn gồm <b>phục vụ tại phòng</b>."
+   }
+  },
+  {
+   "word": "Internet access",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈɪntənet ˌækses/",
+   "def_en": "Use of the Internet.",
+   "def_vi": "Việc dùng Internet.",
+   "gloss_vi": "truy cập Internet",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Internet access</i> (noun phrase) = truy cập Internet. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "Hotel facilities include <b>Internet access</b> and parking.",
+    "vi": "Tiện nghi gồm <b>truy cập Internet</b> và chỗ đỗ xe."
+   }
+  },
+  {
+   "word": "parking",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɑːkɪŋ/",
+   "def_en": "Space for leaving cars.",
+   "def_vi": "Chỗ để ô tô.",
+   "gloss_vi": "chỗ đỗ xe",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Parking</i> (noun) = chỗ đỗ xe. <b>Grammar</b>: không đếm được (không nói <i>a parking</i>; dùng <i>a parking space</i>).",
+   "example": {
+    "en": "Hotel facilities include air conditioning and <b>parking</b>.",
+    "vi": "Tiện nghi gồm điều hòa và <b>chỗ đỗ xe</b>."
+   }
+  },
+  {
+   "word": "single room",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌsɪŋɡl ˈruːm/",
+   "def_en": "A room for one person.",
+   "def_vi": "Phòng cho một người.",
+   "gloss_vi": "phòng đơn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Single room</i> (noun phrase) = phòng đơn. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "I’d like to book a <b>single room</b> for two nights.",
+    "vi": "Tôi muốn đặt một <b>phòng đơn</b> cho hai đêm."
+   }
+  },
+  {
+   "word": "double room",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌdʌbl ˈruːm/",
+   "def_en": "A room for two people with one big bed.",
+   "def_vi": "Phòng cho hai người, một giường lớn.",
+   "gloss_vi": "phòng đôi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Double room</i> (noun phrase) = phòng đôi. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "Could we have a <b>double room</b>, please?",
+    "vi": "Chúng tôi có thể đặt <b>phòng đôi</b> không?"
+   }
+  },
+  {
+   "word": "twin room",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌtwɪn ˈruːm/",
+   "def_en": "A room for two people with two beds.",
+   "def_vi": "Phòng cho hai người, hai giường.",
+   "gloss_vi": "phòng hai giường đơn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Twin room</i> (noun phrase) = phòng hai giường đơn. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The children are in a <b>twin room</b>.",
+    "vi": "Bọn trẻ ở <b>phòng hai giường</b>."
+   }
+  },
+  {
+   "word": "satellite TV",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌsætəlaɪt ˌtiː ˈviː/",
+   "def_en": "TV with many channels from different countries.",
+   "def_vi": "Truyền hình nhiều kênh từ nhiều nước.",
+   "gloss_vi": "truyền hình vệ tinh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Satellite TV</i> (noun phrase) = truyền hình vệ tinh. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "The rooms are all equipped with <b>satellite TV</b>.",
+    "vi": "Mọi phòng đều có <b>truyền hình vệ tinh</b>."
+   }
+  },
+  {
+   "word": "mini-bar",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɪni bɑː(r)/",
+   "def_en": "A small fridge in a hotel room.",
+   "def_vi": "Tủ lạnh nhỏ trong phòng khách sạn.",
+   "gloss_vi": "tủ lạnh mini",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mini-bar</i> (noun) = tủ lạnh mini. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The drinks in the <b>mini-bar</b> are very expensive.",
+    "vi": "Đồ uống trong <b>tủ lạnh mini</b> rất đắt."
+   }
+  },
+  {
+   "word": "safe",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/seɪf/",
+   "def_en": "A box to keep money and valuable items in.",
+   "def_vi": "Hộp cất tiền và đồ quý.",
+   "gloss_vi": "két sắt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Safe</i> (noun) = két sắt. <b>Grammar</b>: danh từ đếm được. <b>Common mistakes</b>: tính từ <i>safe</i> = an toàn.",
+   "ex_kit": true,
+   "example": {
+    "en": "Leave your passport in the <b>safe</b>.",
+    "vi": "Để hộ chiếu trong <b>két sắt</b>."
+   }
+  },
+  {
+   "word": "available",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əˈveɪləbl/",
+   "def_en": "Able to be found or used.",
+   "def_vi": "Có thể tìm thấy hay sử dụng.",
+   "gloss_vi": "còn trống, sẵn có",
+   "synonyms": "free <i>(adj. trống)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Available</i> (adjective) = còn trống, sẵn có. <b>Grammar</b>: <i>available for sb</i>.",
+   "example": {
+    "en": "Rooms are often <b>available</b> during the week.",
+    "vi": "Phòng thường <b>còn trống</b> vào ngày thường."
+   }
+  },
+  {
+   "word": "fully booked",
+   "sense": "",
+   "pos": "adjp",
+   "ipa": "/ˌfʊli ˈbʊkt/",
+   "def_en": "With all the rooms taken.",
+   "def_vi": "Hết sạch phòng.",
+   "gloss_vi": "kín chỗ, hết phòng",
+   "synonyms": "full <i>(adj. đầy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fully booked</i> (adjp) = kín chỗ, hết phòng. <b>Grammar</b>: <i>be fully booked</i>.",
+   "example": {
+    "en": "Many hotels are <b>fully booked</b> at weekends.",
+    "vi": "Nhiều khách sạn <b>kín phòng</b> vào cuối tuần."
+   }
+  },
+  {
+   "word": "book a room",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌbʊk ə ˈruːm/",
+   "def_en": "To arrange to have a room.",
+   "def_vi": "Sắp xếp để có phòng.",
+   "gloss_vi": "đặt phòng",
+   "synonyms": "reserve a room <i>(vp. đặt phòng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Book a room</i> (verb phrase) = đặt phòng. <b>Grammar</b>: <i>book a room/table/flight</i>.",
+   "example": {
+    "en": "You may need to <b>book a room</b> in advance.",
+    "vi": "Bạn có thể cần <b>đặt phòng</b> trước."
+   }
+  },
+  {
+   "word": "in advance",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪn ədˈvɑːns/",
+   "def_en": "Before you go.",
+   "def_vi": "Trước khi đi.",
+   "gloss_vi": "trước",
+   "synonyms": "beforehand <i>(adv. trước)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In advance</i> (phrase) = trước. <b>Grammar</b>: <i>book/pay in advance</i>.",
+   "example": {
+    "en": "You may need to book a room <b>in advance</b>.",
+    "vi": "Bạn có thể cần đặt phòng <b>trước</b>."
+   }
+  },
+  {
+   "word": "check in",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌtʃek ˈɪn/",
+   "def_en": "To say you have arrived and get your room key.",
+   "def_vi": "Báo đã đến và nhận chìa khóa phòng.",
+   "gloss_vi": "nhận phòng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "check out <i>(pv. trả phòng)</i>",
+   "grammar_vi": "<i>Check in</i> (phrasal verb) = nhận phòng. <b>Grammar</b>: danh từ <i>check-in</i>.",
+   "example": {
+    "en": "When you arrive, you <b>check in</b> at reception.",
+    "vi": "Khi đến, bạn <b>nhận phòng</b> ở quầy lễ tân."
+   }
+  },
+  {
+   "word": "reception",
+   "sense": "hotel",
+   "pos": "noun",
+   "ipa": "/rɪˈsepʃn/",
+   "def_en": "The place in a hotel where you arrive and get your key.",
+   "def_vi": "Nơi trong khách sạn để đăng ký và nhận chìa khóa.",
+   "gloss_vi": "quầy lễ tân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reception</i> (noun) = quầy lễ tân. <b>Grammar</b>: <i>at reception</i> (không có <i>the</i>). <b>Word family</b>: <i>receptionist</i>.",
+   "example": {
+    "en": "When you arrive, you check in at <b>reception</b>.",
+    "vi": "Khi đến, bạn nhận phòng ở <b>quầy lễ tân</b>."
+   }
+  },
+  {
+   "word": "stay",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/steɪ/",
+   "def_en": "The period of time you spend in a place.",
+   "def_vi": "Khoảng thời gian ở một nơi.",
+   "gloss_vi": "kỳ lưu trú",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stay</i> (noun) = kỳ lưu trú. <b>Grammar</b>: <i>enjoy your stay</i>.",
+   "example": {
+    "en": "At the end of your <b>stay</b>, you check out.",
+    "vi": "Cuối <b>kỳ lưu trú</b>, bạn trả phòng."
+   }
+  },
+  {
+   "word": "check out",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌtʃek ˈaʊt/",
+   "def_en": "To pay your bill and leave the hotel.",
+   "def_vi": "Trả tiền và rời khách sạn.",
+   "gloss_vi": "trả phòng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "check in <i>(pv. nhận phòng)</i>",
+   "grammar_vi": "<i>Check out</i> (phrasal verb) = trả phòng. <b>Grammar</b>: danh từ <i>checkout</i>.",
+   "example": {
+    "en": "At the end of your stay, you <b>check out</b>.",
+    "vi": "Cuối kỳ lưu trú, bạn <b>trả phòng</b>."
+   }
+  },
+  {
+   "word": "book a table",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌbʊk ə ˈteɪbl/",
+   "def_en": "To arrange to have a table in a restaurant.",
+   "def_vi": "Sắp xếp để có bàn ở nhà hàng.",
+   "gloss_vi": "đặt bàn",
+   "synonyms": "make a reservation <i>(vp. đặt chỗ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Book a table</i> (verb phrase) = đặt bàn. <b>Grammar</b>: <i>book a table for two</i>.",
+   "example": {
+    "en": "It’s often a good idea to <b>book a table</b> if you go to a restaurant at the weekend.",
+    "vi": "Nên <b>đặt bàn</b> nếu bạn đến nhà hàng vào cuối tuần."
+   }
+  },
+  {
+   "word": "three-course",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌθriː ˈkɔːs/",
+   "def_en": "(Of a meal) with three parts.",
+   "def_vi": "(Bữa ăn) gồm ba món.",
+   "gloss_vi": "ba món",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Three-course</i> (adjective) = ba món. <b>Grammar</b>: <i>course</i> = món (một phần bữa ăn).",
+   "example": {
+    "en": "Many restaurants offer <b>three-course</b> meals.",
+    "vi": "Nhiều nhà hàng có bữa <b>ba món</b>."
+   }
+  },
+  {
+   "word": "starter",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈstɑːtə(r)/",
+   "def_en": "The first part of a meal, e.g. soup.",
+   "def_vi": "Phần đầu bữa ăn, ví dụ súp.",
+   "gloss_vi": "món khai vị",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "dessert <i>(n. tráng miệng)</i>",
+   "grammar_vi": "<i>Starter</i> (noun) = món khai vị. <b>Grammar</b>: Anh–Anh; Mỹ <i>appetizer</i>.",
+   "example": {
+    "en": "Three-course meals include a <b>starter</b>, main course and dessert.",
+    "vi": "Bữa ba món gồm <b>món khai vị</b>, món chính và tráng miệng."
+   }
+  },
+  {
+   "word": "main course",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌmeɪn ˈkɔːs/",
+   "def_en": "The most important part of a meal.",
+   "def_vi": "Phần chính của bữa ăn.",
+   "gloss_vi": "món chính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Main course</i> (noun phrase) = món chính. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Three-course meals include a starter, <b>main course</b> and dessert.",
+    "vi": "Bữa ba món gồm khai vị, <b>món chính</b> và tráng miệng."
+   }
+  },
+  {
+   "word": "dessert",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈzɜːt/",
+   "def_en": "Sweet food at the end of a meal.",
+   "def_vi": "Đồ ngọt cuối bữa.",
+   "gloss_vi": "món tráng miệng",
+   "synonyms": "pudding <i>(n. đồ tráng miệng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dessert</i> (noun) = món tráng miệng. <b>Grammar</b>: ≠ <i>desert</i> /ˈdezət/ (sa mạc).",
+   "example": {
+    "en": "Three-course meals include a starter, main course and <b>dessert</b>.",
+    "vi": "Bữa ba món gồm khai vị, món chính và <b>tráng miệng</b>."
+   }
+  },
+  {
+   "word": "service",
+   "sense": "restaurant",
+   "pos": "noun",
+   "ipa": "/ˈsɜːvɪs/",
+   "def_en": "Money you pay for being served by the waiter.",
+   "def_vi": "Tiền trả cho việc được phục vụ.",
+   "gloss_vi": "phí phục vụ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Service</i> (noun) = phí phục vụ. <b>Grammar</b>: <i>service is (not) included</i>.",
+   "example": {
+    "en": "Prices sometimes include 10% <b>service</b> as well.",
+    "vi": "Giá đôi khi đã gồm 10% <b>phí phục vụ</b>."
+   }
+  },
+  {
+   "word": "tip",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tɪp/",
+   "def_en": "Extra money you give to the waiter.",
+   "def_vi": "Tiền thêm cho người phục vụ.",
+   "gloss_vi": "tiền boa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tip</i> (noun) = tiền boa. <b>Grammar</b>: <i>leave/give a tip</i>; cũng là động từ.",
+   "example": {
+    "en": "If service isn’t included, it’s normal to leave a <b>tip</b>.",
+    "vi": "Nếu chưa gồm phí phục vụ, thường để lại <b>tiền boa</b>."
+   }
+  },
+  {
+   "word": "ready to order",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌredi tu ˈɔːdə(r)/",
+   "def_en": "Having decided what to eat.",
+   "def_vi": "Đã quyết định ăn gì.",
+   "gloss_vi": "sẵn sàng gọi món",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ready to order</i> (phrase) = sẵn sàng gọi món. <b>Grammar</b>: <i>order</i> (v.) = gọi món.",
+   "example": {
+    "en": "Are you <b>ready to order</b>?",
+    "vi": "Quý khách đã <b>sẵn sàng gọi món</b> chưa?"
+   }
+  },
+  {
+   "word": "I’ll have",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/aɪl ˈhæv/",
+   "def_en": "Used to say what you want to eat or drink.",
+   "def_vi": "Dùng để nói món mình muốn ăn uống.",
+   "gloss_vi": "tôi lấy (món)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>I’ll have</i> (phrase) = tôi lấy (món). <b>Grammar</b>: <i>I’ll have…</i> (không <i>I take…</i>).",
+   "example": {
+    "en": "And then <b>I’ll have</b> the fillet steak.",
+    "vi": "Rồi <b>tôi lấy</b> món thăn bò."
+   }
+  },
+  {
+   "word": "mixed salad",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌmɪkst ˈsæləd/",
+   "def_en": "Lettuce with other vegetables.",
+   "def_vi": "Xà lách với các rau khác.",
+   "gloss_vi": "xa lát trộn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mixed salad</i> (noun phrase) = xa lát trộn. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "I’ll have the fillet steak, with French fries and a <b>mixed salad</b>.",
+    "vi": "Tôi lấy thăn bò, với khoai chiên và <b>xa lát trộn</b>."
+   }
+  },
+  {
+   "word": "rare",
+   "sense": "steak",
+   "pos": "adjective",
+   "ipa": "/reə(r)/",
+   "def_en": "(Of meat) cooked for a very short time.",
+   "def_vi": "(Thịt) nấu rất nhanh.",
+   "gloss_vi": "tái",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "well-done <i>(adj. chín kỹ)</i>",
+   "grammar_vi": "<i>Rare</i> (adjective) = tái. <b>Grammar</b>: dùng cho bít tết. <b>Common mistakes</b>: cũng = hiếm.",
+   "example": {
+    "en": "How would you like your steak? (<b>Rare</b>, medium or well-done?)",
+    "vi": "Quý khách muốn bò <b>tái</b>, vừa hay chín kỹ?"
+   }
+  },
+  {
+   "word": "medium",
+   "sense": "steak",
+   "pos": "adjective",
+   "ipa": "/ˈmiːdiəm/",
+   "def_en": "(Of meat) cooked between rare and well-done.",
+   "def_vi": "(Thịt) chín giữa tái và chín kỹ.",
+   "gloss_vi": "(chín) vừa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Medium</i> (adjective) = (chín) vừa. <b>Grammar</b>: <i>medium-rare</i>.",
+   "example": {
+    "en": "<b>Medium</b>, please.",
+    "vi": "<b>Chín vừa</b>, làm ơn."
+   }
+  },
+  {
+   "word": "well-done",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌwel ˈdʌn/",
+   "def_en": "(Of meat) cooked for a long time.",
+   "def_vi": "(Thịt) nấu lâu.",
+   "gloss_vi": "chín kỹ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "rare <i>(adj. tái)</i>",
+   "grammar_vi": "<i>Well-done</i> (adjective) = chín kỹ. <b>Grammar</b>: có gạch nối khi đứng trước danh từ.",
+   "example": {
+    "en": "How would you like your steak? (Rare, medium or <b>well-done</b>?)",
+    "vi": "Quý khách muốn bò tái, vừa hay <b>chín kỹ</b>?"
+   }
+  },
+  {
+   "word": "still",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/stɪl/",
+   "def_en": "(Of water) without bubbles.",
+   "def_vi": "(Nước) không có bọt khí.",
+   "gloss_vi": "không ga",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "sparkling <i>(adj. có ga)</i>",
+   "grammar_vi": "<i>Still</i> (adjective) = không ga. <b>Grammar</b>: <i>still water</i>. <b>Common mistakes</b>: trạng từ <i>still</i> = vẫn.",
+   "example": {
+    "en": "<b>Still</b> or sparkling?",
+    "vi": "Nước <b>không ga</b> hay có ga?"
+   }
+  },
+  {
+   "word": "sparkling",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈspɑːklɪŋ/",
+   "def_en": "(Of water) with bubbles.",
+   "def_vi": "(Nước) có bọt khí.",
+   "gloss_vi": "có ga",
+   "synonyms": "fizzy <i>(adj. có ga)</i>",
+   "antonyms": "still <i>(adj. không ga)</i>",
+   "grammar_vi": "<i>Sparkling</i> (adjective) = có ga. <b>Grammar</b>: <i>sparkling water/wine</i>.",
+   "example": {
+    "en": "Still or <b>sparkling</b>?",
+    "vi": "Nước không ga hay <b>có ga</b>?"
+   }
+  }
+ ]
+}

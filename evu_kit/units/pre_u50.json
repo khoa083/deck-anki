@@ -1,0 +1,351 @@
+{
+ "book": "pre",
+ "unit": 50,
+ "title_vi": "Kỳ nghỉ tham quan",
+ "theory_html": "<p><b>A. Things to see</b><br><i>A. Những thứ để xem</i></p> <p><b>market, castle, cathedral, temple, fountain, palace, mosque, statue</b>.</p><p><i><b>chợ, lâu đài, nhà thờ lớn, đền, đài phun nước, cung điện, nhà thờ Hồi giáo, tượng</b>.</i></p> <p><b>B. Tourist activities</b><br><i>B. Hoạt động du lịch</i></p> <p><b>go sightseeing / see the sights; do a bit of sightseeing; have a look round; explore; go out; get lost; have a great/nice/terrible time; buy souvenirs</b>.</p><p><i><b>đi tham quan, xem các thắng cảnh, đi dạo xem, khám phá, đi chơi, lạc đường, có quãng thời gian vui, mua quà lưu niệm</b>.</i></p> <p><b>C. Describing places</b><br><i>C. Miêu tả nơi chốn</i></p> <p><b>place</b> = a building, area, town or country; <b>guidebooks</b> say the Alhambra is <b>magnificent</b> but <b>packed</b> with tourists; a <b>lively</b> place with <b>plenty</b> to do; <b>historic monuments</b>; the main <b>attraction</b>; <b>worth</b> + noun / -ing (<b>worth visiting, worth a visit</b>).</p><p><i><b>nơi, sách hướng dẫn, tráng lệ, chật ních, nhiều, di tích lịch sử, điểm thu hút, đáng</b>.</i></p>",
+ "items": [
+  {
+   "word": "castle",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɑːsl/",
+   "def_en": "A large strong building built in the past to protect people.",
+   "def_vi": "Tòa nhà lớn kiên cố xây xưa để bảo vệ.",
+   "gloss_vi": "lâu đài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Castle</i> (noun) = lâu đài. <b>Grammar</b>: <i>t</i> câm /ˈkɑːsl/.",
+   "ex_kit": true,
+   "example": {
+    "en": "We visited the <b>castle</b> on the hill.",
+    "vi": "Chúng tôi đến thăm <b>lâu đài</b> trên đồi."
+   }
+  },
+  {
+   "word": "cathedral",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəˈθiːdrəl/",
+   "def_en": "A large important church.",
+   "def_vi": "Nhà thờ lớn quan trọng.",
+   "gloss_vi": "nhà thờ lớn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cathedral</i> (noun) = nhà thờ lớn. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>cathedral</b> dates from the 12th century.",
+    "vi": "<b>Nhà thờ lớn</b> có từ thế kỷ 12."
+   }
+  },
+  {
+   "word": "temple",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtempl/",
+   "def_en": "A building used for religious worship, e.g. by Buddhists.",
+   "def_vi": "Công trình thờ cúng, ví dụ của Phật giáo.",
+   "gloss_vi": "đền, chùa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Temple</i> (noun) = đền, chùa. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "We visited lots of <b>temples</b> in Kyoto.",
+    "vi": "Chúng tôi thăm nhiều <b>đền chùa</b> ở Kyoto."
+   }
+  },
+  {
+   "word": "fountain",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfaʊntən/",
+   "def_en": "A structure that sends water up into the air.",
+   "def_vi": "Công trình phun nước lên không.",
+   "gloss_vi": "đài phun nước",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fountain</i> (noun) = đài phun nước. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "People throw coins into the <b>fountain</b>.",
+    "vi": "Người ta ném đồng xu vào <b>đài phun nước</b>."
+   }
+  },
+  {
+   "word": "palace",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpæləs/",
+   "def_en": "A large house where a king or queen lives.",
+   "def_vi": "Ngôi nhà lớn nơi vua hay nữ hoàng ở.",
+   "gloss_vi": "cung điện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Palace</i> (noun) = cung điện. <b>Grammar</b>: viết hoa khi là tên riêng.",
+   "ex_kit": true,
+   "example": {
+    "en": "The Queen lived in Buckingham <b>Palace</b>.",
+    "vi": "Nữ hoàng sống ở <b>cung điện</b> Buckingham."
+   }
+  },
+  {
+   "word": "mosque",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/mɒsk/",
+   "def_en": "A building where Muslims pray.",
+   "def_vi": "Nơi người Hồi giáo cầu nguyện.",
+   "gloss_vi": "nhà thờ Hồi giáo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mosque</i> (noun) = nhà thờ Hồi giáo. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "You must take your shoes off before you enter the <b>mosque</b>.",
+    "vi": "Bạn phải cởi giày trước khi vào <b>nhà thờ Hồi giáo</b>."
+   }
+  },
+  {
+   "word": "statue",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈstætʃuː/",
+   "def_en": "A figure of a person or animal made of stone or metal.",
+   "def_vi": "Hình người hay vật bằng đá hay kim loại.",
+   "gloss_vi": "bức tượng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Statue</i> (noun) = bức tượng. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "There’s a <b>statue</b> of the king in the square.",
+    "vi": "Có một <b>bức tượng</b> nhà vua ở quảng trường."
+   }
+  },
+  {
+   "word": "go sightseeing",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ ˈsaɪtsiːɪŋ/",
+   "def_en": "To visit famous places.",
+   "def_vi": "Đi thăm các nơi nổi tiếng.",
+   "gloss_vi": "đi tham quan",
+   "synonyms": "see the sights <i>(vp. ngắm cảnh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go sightseeing</i> (verb phrase) = đi tham quan. <b>Grammar</b>: <i>go sightseeing</i>; <i>do some sightseeing</i>.",
+   "example": {
+    "en": "We <b>went sightseeing</b> almost every day.",
+    "vi": "Chúng tôi <b>đi tham quan</b> hầu như ngày nào."
+   }
+  },
+  {
+   "word": "see the sights",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌsiː ðə ˈsaɪts/",
+   "def_en": "To visit famous places.",
+   "def_vi": "Đi thăm các nơi nổi tiếng.",
+   "gloss_vi": "xem các thắng cảnh",
+   "synonyms": "go sightseeing <i>(vp. đi tham quan)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>See the sights</i> (verb phrase) = xem các thắng cảnh. <b>Grammar</b>: <i>sights</i> = thắng cảnh.",
+   "example": {
+    "en": "I like to <b>see the sights</b> when I visit a place.",
+    "vi": "Tôi thích <b>xem các thắng cảnh</b> khi đến một nơi."
+   }
+  },
+  {
+   "word": "have a look round",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌhæv ə ˌlʊk ˈraʊnd/",
+   "def_en": "To visit a place casually, often on foot.",
+   "def_vi": "Thăm một nơi thoải mái, thường đi bộ.",
+   "gloss_vi": "đi dạo xem",
+   "synonyms": "look around <i>(pv. xem quanh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have a look round</i> (verb phrase) = đi dạo xem. <b>Grammar</b>: <i>have a look round sth</i>.",
+   "example": {
+    "en": "We <b>had a look round</b> the shops.",
+    "vi": "Chúng tôi <b>đi dạo xem</b> các cửa hàng."
+   }
+  },
+  {
+   "word": "explore",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪkˈsplɔː(r)/",
+   "def_en": "To go round a new place to see what is there.",
+   "def_vi": "Đi quanh nơi mới để xem có gì.",
+   "gloss_vi": "khám phá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Explore</i> (verb) = khám phá. <b>Grammar</b>: <i>explore sth</i>. <b>Word family</b>: <i>explorer</i> (n.).",
+   "example": {
+    "en": "We <b>explored</b> the flower market.",
+    "vi": "Chúng tôi <b>khám phá</b> chợ hoa."
+   }
+  },
+  {
+   "word": "have a great time",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌhæv ə ˌɡreɪt ˈtaɪm/",
+   "def_en": "To enjoy yourself a lot.",
+   "def_vi": "Vui chơi thỏa thích.",
+   "gloss_vi": "có quãng thời gian tuyệt vời",
+   "synonyms": "enjoy yourself <i>(vp. vui chơi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have a great time</i> (verb phrase) = có quãng thời gian tuyệt vời. <b>Grammar</b>: <i>have a great/nice/lovely/terrible time</i>.",
+   "example": {
+    "en": "They <b>had a lovely time</b> in Venice.",
+    "vi": "Họ <b>đã có quãng thời gian tuyệt vời</b> ở Venice."
+   }
+  },
+  {
+   "word": "souvenir",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsuːvəˈnɪə(r)/",
+   "def_en": "Something you buy or keep to remember a place or holiday.",
+   "def_vi": "Thứ mua hay giữ để nhớ một nơi hay kỳ nghỉ.",
+   "gloss_vi": "quà lưu niệm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Souvenir</i> (noun) = quà lưu niệm. <b>Grammar</b>: <i>buy sth as a souvenir</i>.",
+   "example": {
+    "en": "We bought some dolls as <b>souvenirs</b>.",
+    "vi": "Chúng tôi mua vài con búp bê làm <b>quà lưu niệm</b>."
+   }
+  },
+  {
+   "word": "place",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pleɪs/",
+   "def_en": "A building, area, town or country.",
+   "def_vi": "Tòa nhà, khu vực, thị trấn hay đất nước.",
+   "gloss_vi": "nơi, chỗ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Place</i> (noun) = nơi, chỗ. <b>Grammar</b>: <i>a place to stay</i> = chỗ ở.",
+   "example": {
+    "en": "Bruges is a lovely <b>place</b>.",
+    "vi": "Bruges là một <b>nơi</b> đáng yêu."
+   }
+  },
+  {
+   "word": "guidebook",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡaɪdbʊk/",
+   "def_en": "A book with information about places.",
+   "def_vi": "Sách thông tin về các nơi.",
+   "gloss_vi": "sách hướng dẫn du lịch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Guidebook</i> (noun) = sách hướng dẫn du lịch. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "The <b>guidebooks</b> say the Alhambra in Granada is magnificent.",
+    "vi": "<b>Sách hướng dẫn</b> nói Alhambra ở Granada rất tráng lệ."
+   }
+  },
+  {
+   "word": "magnificent",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/mæɡˈnɪfɪsnt/",
+   "def_en": "Very good or very beautiful.",
+   "def_vi": "Rất tốt hay rất đẹp.",
+   "gloss_vi": "tráng lệ",
+   "synonyms": "splendid <i>(adj. lộng lẫy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Magnificent</i> (adjective) = tráng lệ. <b>Grammar</b>: không dùng <i>very magnificent</i>.",
+   "example": {
+    "en": "The guidebooks say the Alhambra in Granada is <b>magnificent</b>.",
+    "vi": "Sách hướng dẫn nói Alhambra ở Granada rất <b>tráng lệ</b>."
+   }
+  },
+  {
+   "word": "packed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/pækt/",
+   "def_en": "Very crowded.",
+   "def_vi": "Rất đông.",
+   "gloss_vi": "chật ních",
+   "synonyms": "crowded <i>(adj. đông đúc)</i>",
+   "antonyms": "empty <i>(adj. vắng)</i>",
+   "grammar_vi": "<i>Packed</i> (adjective) = chật ních. <b>Grammar</b>: <i>packed with people</i>.",
+   "example": {
+    "en": "It’s always <b>packed</b> with tourists in the summer.",
+    "vi": "Nó luôn <b>chật ních</b> du khách vào mùa hè."
+   }
+  },
+  {
+   "word": "plenty",
+   "sense": "",
+   "pos": "pronoun",
+   "ipa": "/ˈplenti/",
+   "def_en": "A lot.",
+   "def_vi": "Nhiều.",
+   "gloss_vi": "nhiều, dư dả",
+   "synonyms": "lots <i>(pron. nhiều)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Plenty</i> (pronoun) = nhiều, dư dả. <b>Grammar</b>: <i>plenty of</i> + danh từ; <i>plenty to do</i>.",
+   "example": {
+    "en": "There’s <b>plenty</b> to do in the evening.",
+    "vi": "Có <b>rất nhiều</b> thứ để làm vào buổi tối."
+   }
+  },
+  {
+   "word": "historic monument",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/hɪˌstɒrɪk ˈmɒnjumənt/",
+   "def_en": "An important place built a long time ago.",
+   "def_vi": "Công trình quan trọng xây từ lâu.",
+   "gloss_vi": "di tích lịch sử",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Historic monument</i> (noun phrase) = di tích lịch sử. <b>Grammar</b>: <i>historic</i> = quan trọng trong lịch sử (≠ <i>historical</i>).",
+   "example": {
+    "en": "St Petersburg has lots of <b>historic monuments</b>.",
+    "vi": "St Petersburg có nhiều <b>di tích lịch sử</b>."
+   }
+  },
+  {
+   "word": "attraction",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈtrækʃn/",
+   "def_en": "Something that makes people come to a place.",
+   "def_vi": "Thứ khiến người ta đến một nơi.",
+   "gloss_vi": "điểm thu hút",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Attraction</i> (noun) = điểm thu hút. <b>Grammar</b>: <i>a tourist attraction</i>.",
+   "example": {
+    "en": "The Hermitage Museum was the main <b>attraction</b> for me.",
+    "vi": "Bảo tàng Hermitage là <b>điểm thu hút</b> chính với tôi."
+   }
+  },
+  {
+   "word": "worth",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/wɜːθ/",
+   "def_en": "Good to do or visit.",
+   "def_vi": "Đáng làm hay đến thăm.",
+   "gloss_vi": "đáng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Worth</i> (adjective) = đáng. <b>Grammar</b>: <i>worth</i> + V-ing / danh từ: <i>worth a visit</i>.",
+   "example": {
+    "en": "If you go to Poland, it’s definitely <b>worth</b> visiting Kraków.",
+    "vi": "Nếu đến Ba Lan, chắc chắn <b>đáng</b> đi thăm Kraków."
+   }
+  }
+ ]
+}
