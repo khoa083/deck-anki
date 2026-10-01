@@ -1,0 +1,534 @@
+{
+ "book": "ele",
+ "unit": 34,
+ "title_vi": "Tội phạm",
+ "theory_html": "<p><b>A. Crimes and criminals</b><br><i>A. Tội ác và tội phạm</i></p> <ul><li>crime → person → verb: <b>robbery – a robber – to rob</b>; <b>murder – a murderer – to murder</b>; <b>burglary – a burglar – to break into</b>; <b>mugging – a mugger – to mug</b>; <b>car theft – a car thief – to steal</b>; <b>drug dealing – a drug dealer – to sell drugs</b>; <b>terrorism – a terrorist – to attack</b>; <b>shoplifting – a shoplifter – to steal from a shop</b> – <i>cướp, giết người, trộm đột nhập, cướp giật ngoài phố, trộm xe, buôn ma túy, khủng bố, ăn cắp trong cửa hàng</i></li></ul> <p>A thief <b>steals</b> something (<b>Somebody stole my bicycle</b>); a person or place <b>is robbed</b> (<b>I was robbed</b>, not <b>I was stolen</b>).</p><p><i><b>steal</b> + đồ vật; <b>rob</b> + người/nơi chốn.</i></p> <p><b>B. The law</b><br><i>B. Pháp luật</i></p> <p>A student <b>was arrested for</b> shoplifting; <b>the police</b> came; he has to <b>go to court</b>; if <b>guilty</b> he will <b>pay a fine</b>, if <b>innocent</b> he can go home; he won’t <b>go to prison</b>.</p><p><i><b>Bị bắt vì</b>…; <b>cảnh sát</b>; <b>ra tòa</b>; <b>có tội</b> thì <b>nộp phạt</b>, <b>vô tội</b> thì về; <b>vào tù</b>.</i></p> <p><b>C. Other crime problems</b><br><i>C. Vấn đề khác</i></p> <p><b>vandals</b> break things (<b>vandalism</b>); <b>take drugs</b>; <b>football hooliganism</b> (a <b>football hooligan</b> makes trouble at matches).</p><p><i><b>kẻ phá hoại</b> (<b>sự phá hoại</b>); <b>dùng ma túy</b>; <b>nạn côn đồ bóng đá</b>.</i></p>",
+ "items": [
+  {
+   "word": "crime",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kraɪm/",
+   "def_en": "An action that is against the law.",
+   "def_vi": "Hành động phạm pháp.",
+   "gloss_vi": "tội phạm, tội ác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Crime</i> (noun) = tội phạm, tội ác. <b>Grammar</b>: không đếm được (tình trạng chung) hoặc đếm được (<i>a crime</i>). <b>Word family</b>: <i>criminal</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "Is there a lot of <b>crime</b> in your town?",
+    "vi": "Ở thị trấn của bạn có nhiều <b>tội phạm</b> không?"
+   }
+  },
+  {
+   "word": "robbery",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈrɒbəri/",
+   "def_en": "The crime of taking money or things from a person or place, often with violence.",
+   "def_vi": "Tội lấy tiền, đồ từ người hay nơi chốn, thường dùng bạo lực.",
+   "gloss_vi": "vụ cướp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Robbery</i> (noun) = vụ cướp. <b>Grammar</b>: số nhiều <i>robberies</i>. <b>Word family</b>: <i>rob</i> (v.), <i>robber</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "There was a <b>robbery</b> at the bank yesterday.",
+    "vi": "Hôm qua có một <b>vụ cướp</b> ở ngân hàng."
+   }
+  },
+  {
+   "word": "murder",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɜːdə(r)/",
+   "def_en": "The crime of killing someone deliberately.",
+   "def_vi": "Tội cố ý giết người.",
+   "gloss_vi": "tội giết người",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Murder</i> (noun) = tội giết người. <b>Grammar</b>: danh từ và động từ cùng dạng. <b>Word family</b>: <i>murderer</i> (n. kẻ giết người).",
+   "example": {
+    "en": "John West <b>murdered</b> his wife.",
+    "vi": "John West <b>đã giết</b> vợ mình."
+   }
+  },
+  {
+   "word": "burglary",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɜːɡləri/",
+   "def_en": "The crime of getting into a building to steal things.",
+   "def_vi": "Tội đột nhập nhà để trộm.",
+   "gloss_vi": "vụ trộm đột nhập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Burglary</i> (noun) = vụ trộm đột nhập. <b>Grammar</b>: số nhiều <i>burglaries</i>. <b>Word family</b>: <i>burglar</i> (n.), <i>break into</i> (v.).",
+   "example": {
+    "en": "There was a <b>burglary</b> at the school last night.",
+    "vi": "Đêm qua có một <b>vụ trộm</b> ở trường."
+   }
+  },
+  {
+   "word": "mugging",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmʌɡɪŋ/",
+   "def_en": "Attacking a person in a public place and stealing their money.",
+   "def_vi": "Tấn công người ở nơi công cộng và cướp tiền.",
+   "gloss_vi": "vụ cướp giật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mugging</i> (noun) = vụ cướp giật. <b>Grammar</b>: đếm được: <i>muggings</i>. <b>Word family</b>: <i>mug</i> (v.), <i>mugger</i> (n.).",
+   "example": {
+    "en": "There are a lot of <b>muggings</b> in the city centre.",
+    "vi": "Có rất nhiều <b>vụ cướp giật</b> ở trung tâm thành phố."
+   }
+  },
+  {
+   "word": "robber",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈrɒbə(r)/",
+   "def_en": "A person who steals from a person or a place such as a bank.",
+   "def_vi": "Kẻ cướp người hay nơi như ngân hàng.",
+   "gloss_vi": "kẻ cướp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Robber</i> (noun) = kẻ cướp. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>robbers</b> took £50,000 from the bank.",
+    "vi": "<b>Bọn cướp</b> lấy 50.000 bảng từ ngân hàng."
+   }
+  },
+  {
+   "word": "murderer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɜːdərə(r)/",
+   "def_en": "A person who kills someone deliberately.",
+   "def_vi": "Kẻ cố ý giết người.",
+   "gloss_vi": "kẻ giết người",
+   "synonyms": "killer <i>(n. kẻ sát nhân)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Murderer</i> (noun) = kẻ giết người. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The police caught the <b>murderer</b>.",
+    "vi": "Cảnh sát đã bắt được <b>kẻ giết người</b>."
+   }
+  },
+  {
+   "word": "burglar",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɜːɡlə(r)/",
+   "def_en": "A person who gets into a building to steal things.",
+   "def_vi": "Kẻ đột nhập nhà để trộm.",
+   "gloss_vi": "kẻ trộm (đột nhập)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Burglar</i> (noun) = kẻ trộm (đột nhập). <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "A <b>burglar</b> broke into our house while we were on holiday.",
+    "vi": "Một <b>tên trộm</b> lẻn vào nhà chúng tôi khi chúng tôi đi nghỉ."
+   }
+  },
+  {
+   "word": "mugger",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmʌɡə(r)/",
+   "def_en": "A person who attacks someone in the street and steals their money.",
+   "def_vi": "Kẻ tấn công người ngoài phố cướp tiền.",
+   "gloss_vi": "kẻ cướp giật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mugger</i> (noun) = kẻ cướp giật. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>mugger</b> took her purse.",
+    "vi": "<b>Kẻ cướp giật</b> lấy ví của cô ấy."
+   }
+  },
+  {
+   "word": "rob",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rɒb/",
+   "def_en": "To steal money or things from a person or a place.",
+   "def_vi": "Lấy cắp tiền, đồ của người hay nơi chốn.",
+   "gloss_vi": "cướp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rob</i> (verb) = cướp. <b>Grammar</b>: <i>rob</i> + người/nơi: <i>rob a bank</i>; quá khứ <i>robbed</i>. <b>Common mistakes</b>: <i>I was robbed</i> (không nói <i>I was stolen</i>).",
+   "example": {
+    "en": "The bank <b>was robbed</b> yesterday.",
+    "vi": "Ngân hàng <b>bị cướp</b> hôm qua."
+   }
+  },
+  {
+   "word": "break into",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌbreɪk ˈɪntə/",
+   "def_en": "To get into a building by force, to steal things.",
+   "def_vi": "Vào nhà bằng vũ lực để trộm.",
+   "gloss_vi": "đột nhập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Break into</i> (phrasal verb) = đột nhập. <b>Grammar</b>: quá khứ <i>broke into</i>, phân từ <i>broken into</i>.",
+   "example": {
+    "en": "a burglar: <b>to break into</b> a house / flat",
+    "vi": "Kẻ trộm <b>đột nhập</b> vào nhà hay căn hộ."
+   }
+  },
+  {
+   "word": "mug",
+   "sense": "attack",
+   "pos": "verb",
+   "ipa": "/mʌɡ/",
+   "def_en": "To attack someone in a public place and steal their money.",
+   "def_vi": "Tấn công người ở nơi công cộng và cướp tiền.",
+   "gloss_vi": "cướp giật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mug</i> (verb) = cướp giật. <b>Grammar</b>: quá khứ <i>mugged</i> (gấp đôi g). <b>Common mistakes</b>: <i>mug</i> còn là cốc vại (bài 11).",
+   "ex_kit": true,
+   "example": {
+    "en": "He was <b>mugged</b> on his way home.",
+    "vi": "Anh ấy <b>bị cướp giật</b> trên đường về nhà."
+   }
+  },
+  {
+   "word": "car theft",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈkɑː θeft/",
+   "def_en": "The crime of stealing cars.",
+   "def_vi": "Tội trộm xe ô tô.",
+   "gloss_vi": "trộm xe",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Car theft</i> (noun phrase) = trộm xe. <b>Grammar</b>: không đếm được. <b>Word family</b>: <i>thief</i> (n.), <i>steal</i> (v.).",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Car theft</b> is a big problem in this city.",
+    "vi": "<b>Trộm xe</b> là vấn đề lớn ở thành phố này."
+   }
+  },
+  {
+   "word": "drug dealing",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈdrʌɡ diːlɪŋ/",
+   "def_en": "The crime of selling illegal drugs.",
+   "def_vi": "Tội bán ma túy.",
+   "gloss_vi": "buôn bán ma túy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Drug dealing</i> (noun phrase) = buôn bán ma túy. <b>Grammar</b>: không đếm được. <b>Word family</b>: <i>drug dealer</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "He went to prison for <b>drug dealing</b>.",
+    "vi": "Anh ta vào tù vì <b>buôn bán ma túy</b>."
+   }
+  },
+  {
+   "word": "terrorism",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈterərɪzəm/",
+   "def_en": "Using violence for political reasons.",
+   "def_vi": "Dùng bạo lực vì mục đích chính trị.",
+   "gloss_vi": "chủ nghĩa khủng bố",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Terrorism</i> (uncountable noun) = chủ nghĩa khủng bố. <b>Grammar</b>: không đếm được. <b>Word family</b>: <i>terrorist</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Terrorism</b> is a global problem.",
+    "vi": "<b>Khủng bố</b> là vấn đề toàn cầu."
+   }
+  },
+  {
+   "word": "shoplifting",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈʃɒplɪftɪŋ/",
+   "def_en": "Stealing things from a shop.",
+   "def_vi": "Lấy cắp đồ trong cửa hàng.",
+   "gloss_vi": "ăn cắp trong cửa hàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shoplifting</i> (uncountable noun) = ăn cắp trong cửa hàng. <b>Grammar</b>: không đếm được. <b>Word family</b>: <i>shoplifter</i> (n.).",
+   "example": {
+    "en": "The law A student was arrested for <b>shoplifting</b> this morning.",
+    "vi": "Một học sinh bị bắt vì <b>ăn cắp đồ trong cửa hàng</b> sáng nay."
+   }
+  },
+  {
+   "word": "car thief",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈkɑː θiːf/",
+   "def_en": "A person who steals cars.",
+   "def_vi": "Kẻ trộm xe ô tô.",
+   "gloss_vi": "kẻ trộm xe",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Car thief</i> (noun phrase) = kẻ trộm xe. <b>Grammar</b>: số nhiều <i>car thieves</i>; <i>th</i> đọc /θ/.",
+   "ex_kit": true,
+   "example": {
+    "en": "The police caught the <b>car thief</b>.",
+    "vi": "Cảnh sát bắt được <b>kẻ trộm xe</b>."
+   }
+  },
+  {
+   "word": "drug dealer",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈdrʌɡ diːlə(r)/",
+   "def_en": "A person who sells illegal drugs.",
+   "def_vi": "Kẻ bán ma túy.",
+   "gloss_vi": "kẻ buôn ma túy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Drug dealer</i> (noun phrase) = kẻ buôn ma túy. <b>Grammar</b>: danh từ ghép.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>drug dealer</b> was arrested at the station.",
+    "vi": "<b>Kẻ buôn ma túy</b> bị bắt ở nhà ga."
+   }
+  },
+  {
+   "word": "terrorist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈterərɪst/",
+   "def_en": "A person who uses violence for political reasons.",
+   "def_vi": "Kẻ dùng bạo lực vì mục đích chính trị.",
+   "gloss_vi": "kẻ khủng bố",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Terrorist</i> (noun) = kẻ khủng bố. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>terrorists</b> attacked the station.",
+    "vi": "<b>Những kẻ khủng bố</b> tấn công nhà ga."
+   }
+  },
+  {
+   "word": "shoplifter",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈʃɒplɪftə(r)/",
+   "def_en": "A person who steals things from a shop.",
+   "def_vi": "Kẻ lấy cắp đồ trong cửa hàng.",
+   "gloss_vi": "kẻ ăn cắp trong cửa hàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shoplifter</i> (noun) = kẻ ăn cắp trong cửa hàng. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The security guard caught the <b>shoplifter</b> at the door.",
+    "vi": "Bảo vệ bắt được <b>kẻ ăn cắp</b> ở cửa."
+   }
+  },
+  {
+   "word": "steal",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/stiːl/",
+   "def_en": "To take something that belongs to someone else.",
+   "def_vi": "Lấy đồ của người khác.",
+   "gloss_vi": "ăn trộm, lấy cắp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Steal</i> (verb) = ăn trộm, lấy cắp. <b>Grammar</b>: <i>steal / stole / stolen</i>; <i>steal</i> + đồ vật. <b>Common mistakes</b>: không nói <i>Somebody robbed my bicycle</i>.",
+   "example": {
+    "en": "Somebody <b>stole</b> my bicycle.",
+    "vi": "Có ai đó <b>đã lấy cắp</b> xe đạp của tôi."
+   }
+  },
+  {
+   "word": "arrested",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əˈrestɪd/",
+   "def_en": "Taken by the police because they think you have done a crime.",
+   "def_vi": "Bị cảnh sát bắt vì nghi phạm tội.",
+   "gloss_vi": "bị bắt giữ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Arrested</i> (adjective) = bị bắt giữ. <b>Grammar</b>: <i>be arrested for</i> + tội. <b>Word family</b>: <i>arrest</i> (v., n.).",
+   "example": {
+    "en": "A student <b>was arrested for</b> shoplifting this morning.",
+    "vi": "Một học sinh <b>bị bắt</b> vì ăn cắp đồ trong cửa hàng sáng nay."
+   }
+  },
+  {
+   "word": "the police",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ðə pəˈliːs/",
+   "def_en": "The official organisation that makes people obey the law.",
+   "def_vi": "Tổ chức chính thức thực thi pháp luật.",
+   "gloss_vi": "cảnh sát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The police</i> (noun phrase) = cảnh sát. <b>Grammar</b>: luôn có <i>the</i>, động từ số nhiều: <i>The police are here</i>.",
+   "example": {
+    "en": "<b>The police</b> came to the school and spoke to his teacher.",
+    "vi": "<b>Cảnh sát</b> đến trường và nói chuyện với giáo viên của cậu ấy."
+   }
+  },
+  {
+   "word": "go to court",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ tə ˈkɔːt/",
+   "def_en": "To go to the place where a judge decides if someone is guilty.",
+   "def_vi": "Đến nơi thẩm phán xét xử.",
+   "gloss_vi": "ra tòa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go to court</i> (verb phrase) = ra tòa. <b>Grammar</b>: không dùng <i>the</i>: <i>go to court</i>.",
+   "example": {
+    "en": "The student has to <b>go to court</b> next week.",
+    "vi": "Tuần sau cậu học sinh phải <b>ra tòa</b>."
+   }
+  },
+  {
+   "word": "guilty",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɡɪlti/",
+   "def_en": "Having done a crime.",
+   "def_vi": "Đã phạm tội.",
+   "gloss_vi": "có tội",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "innocent <i>(adj. vô tội)</i>",
+   "grammar_vi": "<i>Guilty</i> (adjective) = có tội. <b>Grammar</b>: <i>guilty of</i> + tội; chữ <i>u</i> câm.",
+   "example": {
+    "en": "If he is <b>guilty</b> he will have to pay a fine.",
+    "vi": "Nếu <b>có tội</b> cậu ấy sẽ phải nộp phạt."
+   }
+  },
+  {
+   "word": "pay a fine",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌpeɪ ə ˈfaɪn/",
+   "def_en": "To pay money as a punishment.",
+   "def_vi": "Trả tiền như hình phạt.",
+   "gloss_vi": "nộp phạt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pay a fine</i> (verb phrase) = nộp phạt. <b>Grammar</b>: quá khứ <i>paid a fine</i>. <b>Common mistakes</b>: <i>fine</i> còn nghĩa “khỏe”.",
+   "example": {
+    "en": "If he is guilty he will have to <b>pay a fine</b>.",
+    "vi": "Nếu có tội cậu ấy sẽ phải <b>nộp phạt</b>."
+   }
+  },
+  {
+   "word": "innocent",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɪnəsnt/",
+   "def_en": "Not guilty of a crime.",
+   "def_vi": "Không phạm tội.",
+   "gloss_vi": "vô tội",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "guilty <i>(adj. có tội)</i>",
+   "grammar_vi": "<i>Innocent</i> (adjective) = vô tội. <b>Grammar</b>: <i>innocent of</i> + tội. <b>Word family</b>: <i>innocence</i> (n.).",
+   "example": {
+    "en": "If he is <b>innocent</b> he can go home.",
+    "vi": "Nếu <b>vô tội</b> cậu ấy có thể về nhà."
+   }
+  },
+  {
+   "word": "go to prison",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ tə ˈprɪzn/",
+   "def_en": "To be sent to a place where criminals are kept.",
+   "def_vi": "Bị đưa vào nơi giam giữ tội phạm.",
+   "gloss_vi": "vào tù",
+   "synonyms": "go to jail <i>(vp. vào tù)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go to prison</i> (verb phrase) = vào tù. <b>Grammar</b>: không dùng <i>the</i>: <i>go to prison</i>.",
+   "example": {
+    "en": "I don’t think he will <b>go to prison</b>.",
+    "vi": "Tôi không nghĩ cậu ấy sẽ <b>vào tù</b>."
+   }
+  },
+  {
+   "word": "vandals",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈvændlz/",
+   "def_en": "People who deliberately break things, especially public property.",
+   "def_vi": "Người cố ý phá hoại, nhất là tài sản công.",
+   "gloss_vi": "kẻ phá hoại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Vandals</i> (plural noun) = kẻ phá hoại. <b>Grammar</b>: số ít <i>a vandal</i>. <b>Word family</b>: <i>vandalism</i> (n.).",
+   "example": {
+    "en": "Some <b>vandals</b> broke the windows in the telephone box.",
+    "vi": "Vài <b>kẻ phá hoại</b> đã làm vỡ cửa kính bốt điện thoại."
+   }
+  },
+  {
+   "word": "vandalism",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈvændəlɪzəm/",
+   "def_en": "The crime of deliberately breaking things.",
+   "def_vi": "Tội cố ý phá hoại đồ đạc.",
+   "gloss_vi": "sự phá hoại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Vandalism</i> (uncountable noun) = sự phá hoại. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "We have a lot of <b>vandalism</b> in my town.",
+    "vi": "Thị trấn tôi có nhiều <b>hành vi phá hoại</b>."
+   }
+  },
+  {
+   "word": "take drugs",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌteɪk ˈdrʌɡz/",
+   "def_en": "To use illegal drugs.",
+   "def_vi": "Dùng ma túy.",
+   "gloss_vi": "dùng ma túy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take drugs</i> (verb phrase) = dùng ma túy. <b>Grammar</b>: <i>take drugs</i> (dùng ma túy); <i>drugs</i> số nhiều.",
+   "example": {
+    "en": "A lot of people <b>take drugs</b> nowadays.",
+    "vi": "Ngày nay rất nhiều người <b>dùng ma túy</b>."
+   }
+  },
+  {
+   "word": "football hooliganism",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈfʊtbɔːl huːlɪɡənɪzəm/",
+   "def_en": "Violent behaviour by football fans.",
+   "def_vi": "Hành vi bạo lực của cổ động viên bóng đá.",
+   "gloss_vi": "nạn côn đồ bóng đá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Football hooliganism</i> (noun phrase) = nạn côn đồ bóng đá. <b>Grammar</b>: không đếm được. <b>Word family</b>: <i>football hooligan</i> (n.).",
+   "example": {
+    "en": "Is <b>football hooliganism</b> a problem in your country? [A football hooligan is a person who goes to a football match and makes trouble.]",
+    "vi": "<b>Nạn côn đồ bóng đá</b> có phải vấn đề ở nước bạn không?"
+   }
+  }
+ ]
+}

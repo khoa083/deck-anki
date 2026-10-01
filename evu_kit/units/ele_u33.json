@@ -1,0 +1,416 @@
+{
+ "book": "ele",
+ "unit": 33,
+ "title_vi": "Văn hóa Anh",
+ "theory_html": "<p><b>A. Special days</b><br><i>A. Những ngày đặc biệt</i></p> <p><b>Christmas</b> (25 Dec: cards, presents, <b>Christmas tree</b>), <b>New Year’s Eve / Hogmanay</b> (31 Dec), <b>New Year’s Day</b> (a <b>bank holiday</b>), <b>Valentine’s Day</b> (14 Feb), <b>Easter</b> (<b>Easter eggs</b>), <b>Halloween</b> (31 Oct: children dress up and ask for sweets), <b>Bonfire Night</b> (5 Nov: a <b>bonfire</b> and <b>fireworks</b>).</p><p><i><b>Giáng sinh, đêm Giao thừa, ngày đầu năm (ngày nghỉ lễ), ngày Valentine, lễ Phục sinh (trứng sô-cô-la), Halloween, đêm Lửa trại (đốt lửa, pháo hoa)</b>.</i></p> <p><b>B. Food</b><br><i>B. Món ăn</i></p> <p><b>fish and chips</b>, <b>roast beef and roast potatoes</b> (cooked in the <b>oven</b>) with <b>Yorkshire pudding</b>; <b>chicken tikka masala</b> (a kind of <b>curry</b>) from India.</p><p><i><b>thịt bò nướng, khoai tây nướng (trong lò), bánh pudding Yorkshire; gà tikka masala (một kiểu cà ri)</b>.</i></p> <p><b>C. Education</b><br><i>C. Giáo dục</i></p> <p><b>nursery school</b> (2–4), <b>primary school</b> (5–11), <b>secondary school</b> (12–18); <b>state school</b> (free), <b>private school</b> (parents pay).</p><p><i><b>trường mẫu giáo, tiểu học, trung học; trường công, trường tư</b>.</i></p> <p><b>D. Politics</b><br><i>D. Chính trị</i></p> <p>The UK has a <b>royal family</b> with a <b>king</b> or <b>queen</b>; decisions are made at the <b>Houses of Parliament</b>; the <b>Prime Minister</b> is the political leader.</p><p><i>Anh có <b>hoàng gia</b>, <b>vua</b> hoặc <b>nữ hoàng</b>; quyết định ở <b>Nghị viện</b>; <b>Thủ tướng</b> là lãnh đạo chính trị.</i></p>",
+ "items": [
+  {
+   "word": "festival",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfestɪvl/",
+   "def_en": "A special day or time when people celebrate something.",
+   "def_vi": "Ngày hay dịp đặc biệt để ăn mừng.",
+   "gloss_vi": "lễ hội",
+   "synonyms": "celebration <i>(n. lễ kỷ niệm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Festival</i> (noun) = lễ hội. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "Christmas is the biggest <b>festival</b> in the UK.",
+    "vi": "Giáng sinh là <b>lễ hội</b> lớn nhất ở Anh."
+   }
+  },
+  {
+   "word": "Christmas tree",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈkrɪsməs triː/",
+   "def_en": "A tree that people decorate at Christmas.",
+   "def_vi": "Cây trang trí vào dịp Giáng sinh.",
+   "gloss_vi": "cây thông Noel",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Christmas tree</i> (noun phrase) = cây thông Noel. <b>Grammar</b>: <i>decorate a Christmas tree</i>. <b>Common mistakes</b>: chữ <i>t</i> trong <i>Christmas</i> câm.",
+   "example": {
+    "en": "decorate a <b>Christmas tree</b>",
+    "vi": "Người ta trang trí <b>cây thông Noel</b>."
+   }
+  },
+  {
+   "word": "New Year’s Eve",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌnjuː jɪəz ˈiːv/",
+   "def_en": "31st December, the last day of the year.",
+   "def_vi": "Ngày 31 tháng 12, ngày cuối năm.",
+   "gloss_vi": "đêm Giao thừa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>New Year’s Eve</i> (noun phrase) = đêm Giao thừa. <b>Grammar</b>: tên riêng viết hoa; <i>on New Year’s Eve</i>.",
+   "example": {
+    "en": "<b>New Year’s Eve</b>, 31st December: sing and dance, toast the New Year",
+    "vi": "Vào <b>đêm Giao thừa</b> mọi người hát, nhảy và nâng ly chúc mừng năm mới."
+   }
+  },
+  {
+   "word": "bank holiday",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌbæŋk ˈhɒlədeɪ/",
+   "def_en": "A day when most organisations are closed.",
+   "def_vi": "Ngày hầu hết các cơ quan đóng cửa.",
+   "gloss_vi": "ngày nghỉ lễ",
+   "synonyms": "public holiday <i>(np. ngày lễ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bank holiday</i> (noun phrase) = ngày nghỉ lễ. <b>Grammar</b>: Anh–Anh.",
+   "example": {
+    "en": "New Year’s Day, 1st January: a <b>bank holiday</b>",
+    "vi": "Ngày đầu năm mới là <b>ngày nghỉ lễ</b>."
+   }
+  },
+  {
+   "word": "Valentine’s Day",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈvæləntaɪnz deɪ/",
+   "def_en": "14th February, when people send cards to someone they love.",
+   "def_vi": "Ngày 14/2, người ta gửi thiệp cho người yêu.",
+   "gloss_vi": "ngày Valentine",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Valentine’s Day</i> (noun phrase) = ngày Valentine. <b>Grammar</b>: tên riêng; <i>on Valentine’s Day</i>.",
+   "example": {
+    "en": "<b>Valentine’s Day</b>, 14th February: send cards to boyfriend / girlfriend / husband / wife",
+    "vi": "Vào <b>ngày Valentine</b>, người ta gửi thiệp cho bạn trai, bạn gái, vợ hay chồng."
+   }
+  },
+  {
+   "word": "Easter",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈiːstə(r)/",
+   "def_en": "A Christian festival in spring; its dates vary.",
+   "def_vi": "Lễ của đạo Cơ Đốc vào mùa xuân; ngày thay đổi.",
+   "gloss_vi": "lễ Phục sinh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Easter</i> (noun) = lễ Phục sinh. <b>Grammar</b>: tên riêng; <i>at Easter</i> (vào dịp Phục sinh).",
+   "example": {
+    "en": "<b>Easter</b>, dates vary: give children Easter eggs",
+    "vi": "Vào lễ <b>Phục sinh</b> người ta tặng trẻ em trứng Phục sinh."
+   }
+  },
+  {
+   "word": "Easter eggs",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈiːstər eɡz/",
+   "def_en": "Chocolate eggs given at Easter.",
+   "def_vi": "Trứng sô-cô-la tặng dịp Phục sinh.",
+   "gloss_vi": "trứng Phục sinh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Easter eggs</i> (plural noun) = trứng Phục sinh. <b>Grammar</b>: số ít <i>an Easter egg</i>.",
+   "example": {
+    "en": "Easter, dates vary: give children <b>Easter eggs</b>",
+    "vi": "Vào lễ Phục sinh người ta tặng trẻ em <b>trứng Phục sinh</b>."
+   }
+  },
+  {
+   "word": "Halloween",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌhæləʊˈiːn/",
+   "def_en": "31st October, when children dress up and ask for sweets.",
+   "def_vi": "Ngày 31/10, trẻ em hóa trang và đi xin kẹo.",
+   "gloss_vi": "lễ Halloween",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Halloween</i> (noun) = lễ Halloween. <b>Grammar</b>: tên riêng; <i>at Halloween</i>.",
+   "example": {
+    "en": "<b>Halloween</b>, 31st October: children dress up, children knock at doors and ask for sweets",
+    "vi": "Vào <b>Halloween</b> trẻ em hóa trang và gõ cửa xin kẹo."
+   }
+  },
+  {
+   "word": "dress up",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌdres ˈʌp/",
+   "def_en": "To put on special clothes, for example to look like someone else.",
+   "def_vi": "Mặc trang phục đặc biệt, ví dụ để hóa trang.",
+   "gloss_vi": "hóa trang, ăn diện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dress up</i> (phrasal verb) = hóa trang, ăn diện. <b>Grammar</b>: <i>dress up as</i> + nhân vật (hóa trang thành).",
+   "example": {
+    "en": "Halloween: children <b>dress up</b>, children knock at doors and ask for sweets",
+    "vi": "Vào Halloween trẻ em <b>hóa trang</b> và gõ cửa xin kẹo."
+   }
+  },
+  {
+   "word": "bonfire",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɒnfaɪə(r)/",
+   "def_en": "A large fire outside, often for a celebration.",
+   "def_vi": "Đống lửa lớn ngoài trời, thường để mừng lễ.",
+   "gloss_vi": "lửa trại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bonfire</i> (noun) = lửa trại. <b>Grammar</b>: <i>have a bonfire</i>.",
+   "example": {
+    "en": "Bonfire Night, 5th November: have a <b>bonfire</b> and fireworks",
+    "vi": "Vào Đêm Lửa trại người ta đốt <b>lửa trại</b> và bắn pháo hoa."
+   }
+  },
+  {
+   "word": "fireworks",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈfaɪəwɜːks/",
+   "def_en": "Things that explode with bright colours in the sky.",
+   "def_vi": "Vật nổ tung thành màu sắc rực rỡ trên trời.",
+   "gloss_vi": "pháo hoa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fireworks</i> (plural noun) = pháo hoa. <b>Grammar</b>: thường số nhiều; <i>a firework display</i> (màn bắn pháo hoa).",
+   "example": {
+    "en": "Bonfire Night, 5th November: have a bonfire and <b>fireworks</b>",
+    "vi": "Vào Đêm Lửa trại người ta đốt lửa trại và bắn <b>pháo hoa</b>."
+   }
+  },
+  {
+   "word": "roast beef",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌrəʊst ˈbiːf/",
+   "def_en": "Beef cooked in an oven.",
+   "def_vi": "Thịt bò nướng trong lò.",
+   "gloss_vi": "thịt bò nướng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Roast beef</i> (noun phrase) = thịt bò nướng. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "Traditional UK food is fish and chips and <b>roast beef</b> and roast potatoes.",
+    "vi": "Món truyền thống là <b>thịt bò nướng</b> và khoai tây nướng."
+   }
+  },
+  {
+   "word": "oven",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈʌvn/",
+   "def_en": "The part of a cooker where you roast or bake food.",
+   "def_vi": "Bộ phận của bếp để nướng thức ăn.",
+   "gloss_vi": "lò nướng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Oven</i> (noun) = lò nướng. <b>Grammar</b>: đếm được; đọc /ˈʌvn/.",
+   "ex_kit": true,
+   "example": {
+    "en": "Roast beef and roast potatoes are cooked in the <b>oven</b>.",
+    "vi": "Thịt bò nướng và khoai tây nướng được nấu trong <b>lò</b>."
+   }
+  },
+  {
+   "word": "Yorkshire pudding",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌjɔːkʃə ˈpʊdɪŋ/",
+   "def_en": "A British dish made of flour, milk and eggs, eaten with roast beef.",
+   "def_vi": "Món Anh làm từ bột, sữa, trứng, ăn với thịt bò nướng.",
+   "gloss_vi": "bánh pudding Yorkshire",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Yorkshire pudding</i> (noun phrase) = bánh pudding Yorkshire. <b>Grammar</b>: danh từ ghép, không đếm được khi chỉ món.",
+   "ex_kit": true,
+   "example": {
+    "en": "Roast beef is eaten with <b>Yorkshire pudding</b>.",
+    "vi": "Thịt bò nướng ăn kèm <b>bánh pudding Yorkshire</b>."
+   }
+  },
+  {
+   "word": "curry",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkʌri/",
+   "def_en": "A dish of meat or vegetables cooked with hot spices.",
+   "def_vi": "Món thịt hay rau nấu với gia vị cay.",
+   "gloss_vi": "cà ri",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Curry</i> (noun) = cà ri. <b>Grammar</b>: số nhiều <i>curries</i>. <b>Collocations / chunks</b>: <i>chicken curry</i> (cà ri gà).",
+   "example": {
+    "en": "Chicken tikka masala [a kind of <b>curry</b>] comes from India, but is very popular in the UK.",
+    "vi": "Gà tikka masala (một kiểu <b>cà ri</b>) xuất xứ từ Ấn Độ nhưng rất được ưa chuộng ở Anh."
+   }
+  },
+  {
+   "word": "nursery school",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈnɜːsəri skuːl/",
+   "def_en": "A school for children aged 2–4.",
+   "def_vi": "Trường cho trẻ 2–4 tuổi.",
+   "gloss_vi": "trường mẫu giáo",
+   "synonyms": "kindergarten <i>(n. mẫu giáo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nursery school</i> (noun phrase) = trường mẫu giáo. <b>Grammar</b>: không dùng <i>the</i> khi nói đi học.",
+   "ex_kit": true,
+   "example": {
+    "en": "My daughter goes to <b>nursery school</b>.",
+    "vi": "Con gái tôi đi <b>trường mẫu giáo</b>."
+   }
+  },
+  {
+   "word": "primary school",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈpraɪməri skuːl/",
+   "def_en": "A school for children aged 5–11.",
+   "def_vi": "Trường cho trẻ 5–11 tuổi.",
+   "gloss_vi": "trường tiểu học",
+   "synonyms": "elementary school <i>(np. trường tiểu học (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Primary school</i> (noun phrase) = trường tiểu học. <b>Grammar</b>: <i>at primary school</i> (đang học tiểu học).",
+   "ex_kit": true,
+   "example": {
+    "en": "My little brother is at <b>primary school</b>.",
+    "vi": "Em trai tôi học <b>trường tiểu học</b>."
+   }
+  },
+  {
+   "word": "secondary school",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈsekəndri skuːl/",
+   "def_en": "A school for children aged 12–18.",
+   "def_vi": "Trường cho học sinh 12–18 tuổi.",
+   "gloss_vi": "trường trung học",
+   "synonyms": "high school <i>(np. trường trung học (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Secondary school</i> (noun phrase) = trường trung học. <b>Grammar</b>: Anh–Anh.",
+   "ex_kit": true,
+   "example": {
+    "en": "In the UK, children aged 12–18 go to <b>secondary school</b>.",
+    "vi": "Ở Anh, học sinh 12–18 tuổi học <b>trường trung học</b>."
+   }
+  },
+  {
+   "word": "state school",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈsteɪt skuːl/",
+   "def_en": "A school that parents do not pay for.",
+   "def_vi": "Trường phụ huynh không phải đóng tiền.",
+   "gloss_vi": "trường công",
+   "synonyms": "public school <i>(np. trường công (Mỹ))</i>",
+   "antonyms": "private school <i>(np. trường tư)</i>",
+   "grammar_vi": "<i>State school</i> (noun phrase) = trường công. <b>Grammar</b>: Anh–Anh.",
+   "ex_kit": true,
+   "example": {
+    "en": "Parents don’t pay for children to go to a <b>state school</b>.",
+    "vi": "Bố mẹ không phải trả tiền cho con học ở <b>trường công</b>."
+   }
+  },
+  {
+   "word": "private school",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌpraɪvət ˈskuːl/",
+   "def_en": "A school that parents pay for.",
+   "def_vi": "Trường phụ huynh phải trả tiền.",
+   "gloss_vi": "trường tư",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "state school <i>(np. trường công)</i>",
+   "grammar_vi": "<i>Private school</i> (noun phrase) = trường tư. <b>Grammar</b>: danh từ ghép.",
+   "ex_kit": true,
+   "example": {
+    "en": "Parents pay for children to go to a <b>private school</b>.",
+    "vi": "Bố mẹ trả tiền cho con học <b>trường tư</b>."
+   }
+  },
+  {
+   "word": "royal family",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌrɔɪəl ˈfæməli/",
+   "def_en": "The king or queen and their family.",
+   "def_vi": "Vua hoặc nữ hoàng và gia đình.",
+   "gloss_vi": "hoàng gia",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Royal family</i> (noun phrase) = hoàng gia. <b>Grammar</b>: <i>the royal family</i>.",
+   "example": {
+    "en": "The UK has a <b>royal family</b>, with a king or a queen.",
+    "vi": "Nước Anh có <b>hoàng gia</b>, với một vị vua hoặc nữ hoàng."
+   }
+  },
+  {
+   "word": "king",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kɪŋ/",
+   "def_en": "The male ruler of a country.",
+   "def_vi": "Nam giới đứng đầu một vương quốc.",
+   "gloss_vi": "vua",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "queen <i>(n. nữ hoàng)</i>",
+   "grammar_vi": "<i>King</i> (noun) = vua. <b>Grammar</b>: viết hoa trước tên: <i>King Charles</i>.",
+   "example": {
+    "en": "The UK has a royal family, with a <b>king</b> or a queen.",
+    "vi": "Nước Anh có hoàng gia, với một vị <b>vua</b> hoặc nữ hoàng."
+   }
+  },
+  {
+   "word": "queen",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kwiːn/",
+   "def_en": "The female ruler of a country, or the wife of a king.",
+   "def_vi": "Nữ giới đứng đầu vương quốc, hoặc vợ vua.",
+   "gloss_vi": "nữ hoàng, hoàng hậu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "king <i>(n. vua)</i>",
+   "grammar_vi": "<i>Queen</i> (noun) = nữ hoàng, hoàng hậu. <b>Grammar</b>: viết hoa trước tên: <i>Queen Elizabeth</i>.",
+   "example": {
+    "en": "The UK has a royal family, with a king or a <b>queen</b>.",
+    "vi": "Nước Anh có hoàng gia, với một vị vua hoặc <b>nữ hoàng</b>."
+   }
+  },
+  {
+   "word": "Houses of Parliament",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌhaʊzɪz əv ˈpɑːləmənt/",
+   "def_en": "The buildings in London where the British parliament meets.",
+   "def_vi": "Tòa nhà ở London nơi quốc hội Anh họp.",
+   "gloss_vi": "Tòa nhà Quốc hội",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Houses of Parliament</i> (noun phrase) = Tòa nhà Quốc hội. <b>Grammar</b>: luôn có <i>the</i>; <i>parliament</i> đọc /ˈpɑːləmənt/.",
+   "example": {
+    "en": "Political decisions are made at the <b>Houses of Parliament</b>.",
+    "vi": "Các quyết định chính trị được đưa ra ở <b>Tòa nhà Quốc hội</b>."
+   }
+  },
+  {
+   "word": "Prime Minister",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌpraɪm ˈmɪnɪstə(r)/",
+   "def_en": "The leader of the government in the UK and some other countries.",
+   "def_vi": "Người đứng đầu chính phủ ở Anh và vài nước khác.",
+   "gloss_vi": "thủ tướng",
+   "synonyms": "PM <i>(abbr. thủ tướng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Prime Minister</i> (noun phrase) = thủ tướng. <b>Grammar</b>: viết hoa khi chỉ chức danh cụ thể.",
+   "example": {
+    "en": "The <b>Prime Minister</b> is the political leader of the UK.",
+    "vi": "<b>Thủ tướng</b> là lãnh đạo chính trị của nước Anh."
+   }
+  }
+ ]
+}
