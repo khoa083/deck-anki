@@ -51,7 +51,8 @@ def in_source(word, S):
     miss = []
     for t in toks(re.sub(r"\([^)]*\)", "", word)):
         if t in STOP or len(t) < 2: continue
-        cands = {t, t + "s", t + "es", t + "ed", t + "d", t + "ing", t[:-1] + "ing" if t.endswith("e") else t, t[:-1] + "ied" if t.endswith("y") else t}
+        cands = {t, t + "s", t + "es", t + "ed", t + "d", t + "ing", t[:-1] + "ing" if t.endswith("e") else t, t[:-1] + "ied" if t.endswith("y") else t,
+                 t + t[-1] + "ed", t + t[-1] + "ing"}      # phụ âm nhân đôi: drop → dropped, dropping
         if not (cands & S) and not any(x.startswith(t[:max(4, len(t) - 2)]) for x in S if len(t) >= 5): miss.append(t)
     return miss
 

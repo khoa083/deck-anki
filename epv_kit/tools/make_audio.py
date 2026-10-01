@@ -45,6 +45,15 @@ def auto_phonemes(text):
         out.append(ph)
     return " ".join(out)
 
+def noun_stress(word):
+    """Danh từ phrasal có gạch nối (break-in, mix-up…): trọng âm ở phần đầu (sách: a BREAK-in) – bỏ trọng âm phần sau."""
+    global _tok
+    if _tok is None:
+        from kokoro_onnx.tokenizer import Tokenizer
+        _tok = Tokenizer()
+    a, b = word.split("-", 1)
+    return _tok.phonemize(a, "en-gb") + _tok.phonemize(b.replace("-", " "), "en-gb").replace("ˈ", "").replace("ˌ", "")
+
 def model():
     os.makedirs(CACHE, exist_ok=True)
     for f in FILES:
@@ -65,6 +74,7 @@ def main(args):
         for it in u["items"]:
             fn = os.path.join(MEDIA, audio_name(u["book"], u["unit"], it))
             ph = PH.get(it["word"]) or auto_phonemes(spoken(it["word"]))
+            if not ph and it.get("pos") == "n." and "-" in it["word"] and " " not in it["word"].strip(): ph = noun_stress(it["word"])
             if force or not os.path.exists(fn) or it["word"] in PH: todo.append((fn, spoken(it["word"]), ph))
     if not todo: print("audio: đủ, không cần tạo"); return
     import soundfile as sf
@@ -83,7 +93,7 @@ def report():
     for p in sorted(glob.glob(os.path.join(KIT, "units", "*.json"))):
         u = json.load(open(p, encoding="utf-8"))
         for it in u["items"]:
-            ph = PH.get(it["word"]) or auto_phonemes(spoken(it["word"])) or t.phonemize(spoken(it["word"]), "en-gb")
+            ph = PH.get(it["word"]) or auto_phonemes(spoken(it["word"])) or (noun_stress(it["word"]) if it.get("pos") == "n." and "-" in it["word"] and " " not in it["word"].strip() else None) or t.phonemize(spoken(it["word"]), "en-gb")
             print(f'{u["book"]}_u{u["unit"]:02d}  {spoken(it["word"]):34s} TTS {ph:34s} IPA {it["ipa"]}')
 
 if __name__ == "__main__":
