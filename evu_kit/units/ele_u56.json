@@ -1,0 +1,232 @@
+{
+ "book": "ele",
+ "unit": 56,
+ "title_vi": "Tính từ thông dụng: Điều tốt và điều xấu",
+ "theory_html": "<p><b>A. Good adjectives</b><br><i>A. Tính từ tích cực</i></p> <p><b>good, very good, nice, lovely, great, wonderful, excellent</b>: <b>a nice jacket, a lovely day, a great film, an excellent idea</b>.</p><p><i><b>tốt, rất tốt, đẹp, dễ thương, tuyệt, tuyệt vời, xuất sắc</b>.</i></p> <p><b>B. Bad adjectives</b><br><i>B. Tính từ tiêu cực</i></p> <p><b>very bad</b>; also <b>dreadful, horrible, terrible</b>: <b>horrible food, a dreadful smell, a terrible day, the traffic’s terrible</b>.</p><p><i><b>rất tệ; kinh khủng, kinh tởm, tồi tệ</b>.</i></p> <p><b>C. Expressions</b><br><i>C. Cách nói</i></p> <p><b>Excellent! Great! Wonderful! Lovely! Perfect!</b>; <b>not bad</b> (= good); with <b>how</b>: <b>How awful! How horrible! How nice! How wonderful! How lovely!</b> (not <b>How bad!</b>).</p><p><i><b>Tuyệt! Hoàn hảo!</b>; <b>không tệ</b> (= tốt); <b>Kinh khủng thật! Tuyệt quá!</b></i></p>",
+ "items": [
+  {
+   "word": "excellent",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈeksələnt/",
+   "def_en": "Very good.",
+   "def_vi": "Rất tốt.",
+   "gloss_vi": "xuất sắc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "terrible <i>(adj. tồi tệ)</i>",
+   "grammar_vi": "<i>Excellent</i> (adjective) = xuất sắc. <b>Grammar</b>: không dùng <i>very excellent</i>. <b>Collocations / chunks</b>: <i>an excellent restaurant</i> (nhà hàng xuất sắc).",
+   "example": {
+    "en": "That’s an <b>excellent</b> idea!",
+    "vi": "Đó là một ý <b>tuyệt vời</b>!"
+   }
+  },
+  {
+   "word": "wonderful",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈwʌndəfl/",
+   "def_en": "Extremely good.",
+   "def_vi": "Cực kỳ tốt.",
+   "gloss_vi": "tuyệt vời",
+   "synonyms": "marvellous <i>(adj. tuyệt diệu)</i>",
+   "antonyms": "awful <i>(adj. kinh khủng)</i>",
+   "grammar_vi": "<i>Wonderful</i> (adjective) = tuyệt vời. <b>Grammar</b>: <i>o</i> đọc /ʌ/.",
+   "example": {
+    "en": "a <b>wonderful</b> view",
+    "vi": "Một khung cảnh <b>tuyệt vời</b>."
+   }
+  },
+  {
+   "word": "nice",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/naɪs/",
+   "def_en": "Pleasant or attractive.",
+   "def_vi": "Dễ chịu, đẹp.",
+   "gloss_vi": "đẹp, dễ thương",
+   "synonyms": "pleasant <i>(adj. dễ chịu)</i>",
+   "antonyms": "horrible <i>(adj. kinh tởm)</i>",
+   "grammar_vi": "<i>Nice</i> (adjective) = đẹp, dễ thương. <b>Grammar</b>: rất thông dụng trong văn nói. <b>Collocations / chunks</b>: <i>How nice!</i> (hay quá!).",
+   "example": {
+    "en": "A: That’s a <b>nice</b> jacket.",
+    "vi": "Áo khoác <b>đẹp</b> đấy."
+   }
+  },
+  {
+   "word": "lovely",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈlʌvli/",
+   "def_en": "Very pleasant or beautiful.",
+   "def_vi": "Rất dễ chịu hoặc đẹp.",
+   "gloss_vi": "đẹp, dễ chịu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "horrible <i>(adj. kinh tởm)</i>",
+   "grammar_vi": "<i>Lovely</i> (adjective) = đẹp, dễ chịu. <b>Grammar</b>: tận cùng <i>-ly</i> nhưng là tính từ, không phải trạng từ.",
+   "example": {
+    "en": "A: It’s a <b>lovely</b> day today!",
+    "vi": "Hôm nay là một ngày <b>đẹp trời</b>!"
+   }
+  },
+  {
+   "word": "great",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɡreɪt/",
+   "def_en": "Very good.",
+   "def_vi": "Rất hay, rất tốt.",
+   "gloss_vi": "tuyệt, rất hay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "terrible <i>(adj. tồi tệ)</i>",
+   "grammar_vi": "<i>Great</i> (adjective) = tuyệt, rất hay. <b>Grammar</b>: đọc /ɡreɪt/. <b>Register</b>: thân mật.",
+   "example": {
+    "en": "It’s a <b>great</b> film. We all loved it.",
+    "vi": "Đó là một bộ phim <b>rất hay</b>. Tất cả chúng tôi đều thích."
+   }
+  },
+  {
+   "word": "very bad",
+   "sense": "",
+   "pos": "adjective phrase",
+   "ipa": "/ˌveri ˈbæd/",
+   "def_en": "Not good at all.",
+   "def_vi": "Không tốt chút nào.",
+   "gloss_vi": "rất tệ",
+   "synonyms": "terrible <i>(adj. tồi tệ)</i>",
+   "antonyms": "very good <i>(ap. rất tốt)</i>",
+   "grammar_vi": "<i>Very bad</i> (adjective phrase) = rất tệ. <b>Grammar</b>: <i>very</i> + tính từ.",
+   "example": {
+    "en": "The weather this summer was <b>very bad</b>.",
+    "vi": "Thời tiết mùa hè này <b>rất tệ</b>."
+   }
+  },
+  {
+   "word": "dreadful",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈdredfl/",
+   "def_en": "Very bad.",
+   "def_vi": "Rất tệ.",
+   "gloss_vi": "kinh khủng",
+   "synonyms": "awful <i>(adj. kinh khủng)</i>",
+   "antonyms": "wonderful <i>(adj. tuyệt vời)</i>",
+   "grammar_vi": "<i>Dreadful</i> (adjective) = kinh khủng. <b>Grammar</b>: <i>ea</i> đọc /e/.",
+   "example": {
+    "en": "What’s that <b>dreadful</b> smell?",
+    "vi": "Mùi gì <b>kinh khủng</b> thế?"
+   }
+  },
+  {
+   "word": "horrible",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈhɒrəbl/",
+   "def_en": "Very bad or unpleasant.",
+   "def_vi": "Rất tệ, khó chịu.",
+   "gloss_vi": "kinh tởm, kinh khủng",
+   "synonyms": "nasty <i>(adj. khó chịu)</i>",
+   "antonyms": "lovely <i>(adj. dễ chịu)</i>",
+   "grammar_vi": "<i>Horrible</i> (adjective) = kinh tởm, kinh khủng. <b>Grammar</b>: <i>How horrible!</i> (kinh khủng thật!).",
+   "example": {
+    "en": "The food in that café was <b>horrible</b>. Nobody liked it.",
+    "vi": "Đồ ăn ở quán cà phê đó <b>kinh khủng</b>. Không ai thích."
+   }
+  },
+  {
+   "word": "terrible",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈterəbl/",
+   "def_en": "Very bad.",
+   "def_vi": "Rất tệ.",
+   "gloss_vi": "tồi tệ",
+   "synonyms": "awful <i>(adj. kinh khủng)</i>",
+   "antonyms": "excellent <i>(adj. xuất sắc)</i>",
+   "grammar_vi": "<i>Terrible</i> (adjective) = tồi tệ. <b>Grammar</b>: không dùng <i>very terrible</i>.",
+   "example": {
+    "en": "I had a <b>terrible</b> day at work today.",
+    "vi": "Hôm nay tôi có một ngày <b>tồi tệ</b> ở chỗ làm."
+   }
+  },
+  {
+   "word": "awful",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɔːfl/",
+   "def_en": "Very bad.",
+   "def_vi": "Rất tệ.",
+   "gloss_vi": "kinh khủng",
+   "synonyms": "terrible <i>(adj. tồi tệ)</i>",
+   "antonyms": "wonderful <i>(adj. tuyệt vời)</i>",
+   "grammar_vi": "<i>Awful</i> (adjective) = kinh khủng. <b>Grammar</b>: <i>How awful!</i> (kinh khủng thật!).",
+   "example": {
+    "en": "My hair is <b>awful</b>!",
+    "vi": "Tóc tôi <b>kinh khủng</b> quá!"
+   }
+  },
+  {
+   "word": "Perfect!",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈpɜːfɪkt/",
+   "def_en": "Used to say that something is exactly right.",
+   "def_vi": "Dùng khi điều gì vừa đúng ý.",
+   "gloss_vi": "hoàn hảo!",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Perfect!</i> (adjective) = hoàn hảo!. <b>Grammar</b>: dùng một mình như câu cảm thán.",
+   "example": {
+    "en": "A: The train arrives at 7 o’clock; dinner is at 8 o’clock. B: Excellent! / Great! / Wonderful! / Lovely! / <b>Perfect</b>!",
+    "vi": "Tàu đến lúc 7 giờ; bữa tối lúc 8 giờ. – <b>Hoàn hảo</b>!"
+   }
+  },
+  {
+   "word": "not bad",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌnɒt ˈbæd/",
+   "def_en": "Quite good.",
+   "def_vi": "Khá tốt.",
+   "gloss_vi": "không tệ, khá tốt",
+   "synonyms": "quite good <i>(ap. khá tốt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Not bad</i> (phrase) = không tệ, khá tốt. <b>Grammar</b>: dùng trong văn nói, nghĩa là tốt.",
+   "example": {
+    "en": "B: That’s <b>not bad</b>! (= good!)",
+    "vi": "Lương tôi 500 đô một tuần. – <b>Không tệ</b> đâu!"
+   }
+  },
+  {
+   "word": "How awful!",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌhaʊ ˈɔːfl/",
+   "def_en": "Said when you hear something bad.",
+   "def_vi": "Nói khi nghe chuyện không hay.",
+   "gloss_vi": "kinh khủng thật!",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "How nice! <i>(phr. hay quá!)</i>",
+   "grammar_vi": "<i>How awful!</i> (phrase) = kinh khủng thật!. <b>Grammar</b>: <i>How</i> + tính từ!. <b>Common mistakes</b>: không nói <i>How bad!</i>.",
+   "example": {
+    "en": "A: I have to get up at 5.30 tomorrow. B: Oh, <b>how awful</b>!",
+    "vi": "Mai tôi phải dậy lúc 5 rưỡi. – Ôi, <b>kinh khủng thật</b>!"
+   }
+  },
+  {
+   "word": "How nice!",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌhaʊ ˈnaɪs/",
+   "def_en": "Said when you hear something good.",
+   "def_vi": "Nói khi nghe tin vui.",
+   "gloss_vi": "hay quá!, tuyệt quá!",
+   "synonyms": "How wonderful! <i>(phr. tuyệt quá)</i>",
+   "antonyms": "How awful! <i>(phr. kinh khủng thật)</i>",
+   "grammar_vi": "<i>How nice!</i> (phrase) = hay quá!, tuyệt quá!. <b>Grammar</b>: <i>How</i> + tính từ!.",
+   "example": {
+    "en": "A: I’ve got a great new job in New York! B: <b>How nice</b>!",
+    "vi": "Tôi có việc mới rất tốt ở New York! – <b>Hay quá</b>!"
+   }
+  }
+ ]
+}

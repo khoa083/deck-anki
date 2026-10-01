@@ -1,0 +1,296 @@
+{
+ "book": "ele",
+ "unit": 54,
+ "title_vi": "Cách thức",
+ "theory_html": "<p>Adjectives and adverbs can describe <b>manner</b> – how we do something.</p><p><i>Tính từ và trạng từ có thể miêu tả <b>cách thức</b> – ta làm việc gì như thế nào.</i></p> <p><b>A. Fast and slow</b><br><i>A. Nhanh và chậm</i></p> <p>Adjectives <b>fast, slow</b>; adverbs <b>fast, slowly</b>.</p><p><i>Tính từ <b>fast, slow</b>; trạng từ <b>fast, slowly</b>.</i></p> <p><b>B. Loud and quiet</b><br><i>B. To và nhỏ</i></p> <p><b>loud / loudly, quiet / quietly</b>.</p><p><i><b>ồn ào / to, yên tĩnh / nhỏ</b>.</i></p> <p><b>C. Good and bad</b><br><i>C. Tốt và tệ</i></p> <p><b>a good driver – she drives well; a bad driver – he drives badly</b>.</p><p><i><b>lái giỏi – lái tốt; lái tệ</b>.</i></p> <p><b>D. Right and wrong</b><br><i>D. Đúng và sai</i></p> <p><b>I like coffee very much</b> is <b>right</b>; <b>I like very much coffee</b> is <b>wrong</b>.</p><p><i><b>đúng / sai</b>.</i></p> <p><b>E. Expressions with way</b><br><i>E. Cách nói với way</i></p> <p><b>in a friendly / an unfriendly way; the wrong way; the right way to do it</b>.</p><p><i><b>một cách thân thiện / không thân thiện; sai cách; đúng cách</b>.</i></p>",
+ "items": [
+  {
+   "word": "manner",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmænə(r)/",
+   "def_en": "The way that you do something.",
+   "def_vi": "Cách bạn làm việc gì.",
+   "gloss_vi": "cách thức",
+   "synonyms": "way <i>(n. cách)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Manner</i> (noun) = cách thức. <b>Grammar</b>: không đếm được ở nghĩa này. <b>Common mistakes</b>: <i>manners</i> (số nhiều) = phép lịch sự.",
+   "example": {
+    "en": "Adjectives and adverbs can describe <b>manner</b>, i.e. how we do something.",
+    "vi": "Tính từ và trạng từ có thể miêu tả <b>cách thức</b>, tức là ta làm việc gì như thế nào."
+   }
+  },
+  {
+   "word": "fast",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/fɑːst/",
+   "def_en": "Moving or able to move quickly.",
+   "def_vi": "Di chuyển nhanh.",
+   "gloss_vi": "nhanh",
+   "synonyms": "quick <i>(adj. nhanh)</i>",
+   "antonyms": "slow <i>(adj. chậm)</i>",
+   "grammar_vi": "<i>Fast</i> (adjective) = nhanh. <b>Grammar</b>: trạng từ cũng là <i>fast</i> (không có <i>fastly</i>): <i>goes very fast</i>.",
+   "example": {
+    "en": "This is a <b>fast</b> car.",
+    "vi": "Đây là một chiếc xe <b>nhanh</b>."
+   }
+  },
+  {
+   "word": "slow",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/sləʊ/",
+   "def_en": "Not moving quickly.",
+   "def_vi": "Di chuyển không nhanh.",
+   "gloss_vi": "chậm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "fast <i>(adj. nhanh)</i>",
+   "grammar_vi": "<i>Slow</i> (adjective) = chậm. <b>Grammar</b>: trạng từ <i>slowly</i>.",
+   "example": {
+    "en": "This is a <b>slow</b> car.",
+    "vi": "Đây là một chiếc xe <b>chậm</b>."
+   }
+  },
+  {
+   "word": "slowly",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈsləʊli/",
+   "def_en": "At a slow speed.",
+   "def_vi": "Với tốc độ chậm.",
+   "gloss_vi": "chậm rãi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "fast <i>(adv. nhanh)</i>",
+   "grammar_vi": "<i>Slowly</i> (adverb) = chậm rãi. <b>Grammar</b>: tính từ + <i>-ly</i> = trạng từ.",
+   "example": {
+    "en": "This car goes very <b>slowly</b>.",
+    "vi": "Chiếc xe này đi rất <b>chậm</b>."
+   }
+  },
+  {
+   "word": "loud",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/laʊd/",
+   "def_en": "Making a lot of noise.",
+   "def_vi": "Phát ra nhiều tiếng ồn.",
+   "gloss_vi": "to, ồn",
+   "synonyms": "noisy <i>(adj. ồn ào)</i>",
+   "antonyms": "quiet <i>(adj. yên tĩnh)</i>",
+   "grammar_vi": "<i>Loud</i> (adjective) = to, ồn. <b>Grammar</b>: trạng từ <i>loudly</i>.",
+   "example": {
+    "en": "The music is too <b>loud</b>.",
+    "vi": "Nhạc <b>to</b> quá."
+   }
+  },
+  {
+   "word": "quiet",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈkwaɪət/",
+   "def_en": "Making very little noise.",
+   "def_vi": "Rất ít tiếng ồn.",
+   "gloss_vi": "yên tĩnh",
+   "synonyms": "calm <i>(adj. yên ả)</i>",
+   "antonyms": "loud <i>(adj. ồn)</i>",
+   "grammar_vi": "<i>Quiet</i> (adjective) = yên tĩnh. <b>Grammar</b>: đọc 2 âm tiết /ˈkwaɪət/. <b>Common mistakes</b>: khác <i>quite</i> /kwaɪt/ (khá).",
+   "example": {
+    "en": "It’s very <b>quiet</b> here.",
+    "vi": "Ở đây rất <b>yên tĩnh</b>."
+   }
+  },
+  {
+   "word": "loudly",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈlaʊdli/",
+   "def_en": "In a loud way.",
+   "def_vi": "Một cách to tiếng.",
+   "gloss_vi": "to, ầm ĩ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "quietly <i>(adv. khẽ)</i>",
+   "grammar_vi": "<i>Loudly</i> (adverb) = to, ầm ĩ. <b>Grammar</b>: đứng sau động từ.",
+   "example": {
+    "en": "The children sang <b>loudly</b>.",
+    "vi": "Bọn trẻ hát <b>rất to</b>."
+   }
+  },
+  {
+   "word": "quietly",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈkwaɪətli/",
+   "def_en": "In a quiet way.",
+   "def_vi": "Một cách khẽ khàng.",
+   "gloss_vi": "khẽ, nhỏ nhẹ",
+   "synonyms": "softly <i>(adv. nhẹ nhàng)</i>",
+   "antonyms": "loudly <i>(adv. to)</i>",
+   "grammar_vi": "<i>Quietly</i> (adverb) = khẽ, nhỏ nhẹ. <b>Grammar</b>: đứng sau động từ.",
+   "example": {
+    "en": "The teacher speaks very <b>quietly</b>. We can’t hear him.",
+    "vi": "Thầy giáo nói rất <b>nhỏ</b>. Chúng tôi không nghe thấy."
+   }
+  },
+  {
+   "word": "good",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɡʊd/",
+   "def_en": "Of a high standard; doing something well.",
+   "def_vi": "Có chất lượng cao; làm tốt.",
+   "gloss_vi": "giỏi, tốt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "bad <i>(adj. tệ)</i>",
+   "grammar_vi": "<i>Good</i> (adjective) = giỏi, tốt. <b>Grammar</b>: so sánh <i>better, best</i>; trạng từ <i>well</i>.",
+   "example": {
+    "en": "She’s a <b>good</b> driver.",
+    "vi": "Cô ấy là một tài xế <b>giỏi</b>."
+   }
+  },
+  {
+   "word": "bad",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/bæd/",
+   "def_en": "Of a low standard; not doing something well.",
+   "def_vi": "Chất lượng thấp; làm không tốt.",
+   "gloss_vi": "tệ, kém",
+   "synonyms": "poor <i>(adj. kém)</i>",
+   "antonyms": "good <i>(adj. tốt)</i>",
+   "grammar_vi": "<i>Bad</i> (adjective) = tệ, kém. <b>Grammar</b>: so sánh <i>worse, worst</i>; trạng từ <i>badly</i>.",
+   "example": {
+    "en": "He’s a <b>bad</b> driver.",
+    "vi": "Anh ấy là một tài xế <b>tồi</b>."
+   }
+  },
+  {
+   "word": "well",
+   "sense": "manner",
+   "pos": "adverb",
+   "ipa": "/wel/",
+   "def_en": "In a good way.",
+   "def_vi": "Một cách tốt.",
+   "gloss_vi": "giỏi, tốt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "badly <i>(adv. tệ)</i>",
+   "grammar_vi": "<i>Well</i> (adverb) = giỏi, tốt. <b>Grammar</b>: trạng từ của <i>good</i> (không nói <i>goodly</i>). <b>Note</b>: khác <i>well</i> (khỏe, bài 6).",
+   "example": {
+    "en": "She drives <b>well</b>.",
+    "vi": "Cô ấy lái xe <b>giỏi</b>."
+   }
+  },
+  {
+   "word": "badly",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈbædli/",
+   "def_en": "In a bad way.",
+   "def_vi": "Một cách tệ.",
+   "gloss_vi": "tệ, kém",
+   "synonyms": "poorly <i>(adv. kém)</i>",
+   "antonyms": "well <i>(adv. tốt)</i>",
+   "grammar_vi": "<i>Badly</i> (adverb) = tệ, kém. <b>Grammar</b>: trạng từ của <i>bad</i>.",
+   "example": {
+    "en": "He drives <b>badly</b>.",
+    "vi": "Anh ấy lái xe <b>tệ</b>."
+   }
+  },
+  {
+   "word": "right",
+   "sense": "correct",
+   "pos": "adjective",
+   "ipa": "/raɪt/",
+   "def_en": "Correct.",
+   "def_vi": "Đúng.",
+   "gloss_vi": "đúng",
+   "synonyms": "correct <i>(adj. đúng)</i>",
+   "antonyms": "wrong <i>(adj. sai)</i>",
+   "grammar_vi": "<i>Right</i> (adjective) = đúng. <b>Grammar</b>: <i>be right</i>. <b>Note</b>: khác <i>right</i> (bên phải, bài 53).",
+   "example": {
+    "en": "This sentence is <b>right</b>.",
+    "vi": "Câu này <b>đúng</b>."
+   }
+  },
+  {
+   "word": "wrong",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/rɒŋ/",
+   "def_en": "Not correct.",
+   "def_vi": "Không đúng.",
+   "gloss_vi": "sai",
+   "synonyms": "incorrect <i>(adj. sai)</i>",
+   "antonyms": "right <i>(adj. đúng)</i>",
+   "grammar_vi": "<i>Wrong</i> (adjective) = sai. <b>Grammar</b>: chữ <i>w</i> câm /rɒŋ/.",
+   "example": {
+    "en": "This sentence is <b>wrong</b>.",
+    "vi": "Câu này <b>sai</b>."
+   }
+  },
+  {
+   "word": "in a friendly way",
+   "sense": "",
+   "pos": "prepositional phrase",
+   "ipa": "/ɪn ə ˈfrendli weɪ/",
+   "def_en": "In a kind and pleasant manner.",
+   "def_vi": "Một cách tử tế, dễ chịu.",
+   "gloss_vi": "một cách thân thiện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "in an unfriendly way <i>(pp. một cách không thân thiện)</i>",
+   "grammar_vi": "<i>In a friendly way</i> (prepositional phrase) = một cách thân thiện. <b>Grammar</b>: <i>friendly</i> là tính từ nên không thêm <i>-ly</i>; dùng <i>in a friendly way</i>.",
+   "example": {
+    "en": "He’s speaking <b>in a friendly way</b>.",
+    "vi": "Anh ấy nói chuyện <b>một cách thân thiện</b>."
+   }
+  },
+  {
+   "word": "in an unfriendly way",
+   "sense": "",
+   "pos": "prepositional phrase",
+   "ipa": "/ɪn ən ʌnˈfrendli weɪ/",
+   "def_en": "In an unkind manner.",
+   "def_vi": "Một cách không tử tế.",
+   "gloss_vi": "một cách không thân thiện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "in a friendly way <i>(pp. một cách thân thiện)</i>",
+   "grammar_vi": "<i>In an unfriendly way</i> (prepositional phrase) = một cách không thân thiện. <b>Grammar</b>: <i>an</i> trước <i>unfriendly</i>.",
+   "example": {
+    "en": "She’s speaking <b>in an unfriendly way</b>.",
+    "vi": "Cô ấy nói chuyện <b>một cách không thân thiện</b>."
+   }
+  },
+  {
+   "word": "the wrong way",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ðə ˌrɒŋ ˈweɪ/",
+   "def_en": "Not the correct way of doing something.",
+   "def_vi": "Không đúng cách.",
+   "gloss_vi": "sai cách",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "the right way <i>(np. đúng cách)</i>",
+   "grammar_vi": "<i>The wrong way</i> (noun phrase) = sai cách. <b>Grammar</b>: <i>do sth the wrong way</i>.",
+   "example": {
+    "en": "You’re doing that <b>the wrong way</b>.",
+    "vi": "Bạn làm việc đó <b>sai cách</b> rồi."
+   }
+  },
+  {
+   "word": "the right way",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ðə ˌraɪt ˈweɪ/",
+   "def_en": "The correct way of doing something.",
+   "def_vi": "Cách đúng để làm gì.",
+   "gloss_vi": "đúng cách",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "the wrong way <i>(np. sai cách)</i>",
+   "grammar_vi": "<i>The right way</i> (noun phrase) = đúng cách. <b>Grammar</b>: <i>the right way to do sth</i>.",
+   "example": {
+    "en": "Let me show you <b>the right way</b> to do it.",
+    "vi": "Để tôi chỉ bạn <b>cách đúng</b> để làm."
+   }
+  }
+ ]
+}
