@@ -1,0 +1,377 @@
+{
+ "book": "pre",
+ "unit": 61,
+ "title_vi": "Con số",
+ "theory_html": "<p><b>A. Cardinal numbers</b><br><i>A. Số đếm</i></p> <p><b>379 = three hundred and seventy-nine; 2,860; 470,000; two million; three billion.</b> No plural <b>-s</b> in numbers, but <b>thousands of people, millions of insects</b>.</p><p><i><b>trăm, nghìn, triệu, tỷ</b>; số nhiều khi nói chung.</i></p> <p><b>B. Dates</b><br><i>B. Ngày tháng</i></p> <p>Write <b>4 June / June 4th</b>, say <b>the fourth of June / June the fourth</b>; <b>1997 = nineteen ninety-seven</b>; <b>2016 = two thousand and sixteen / twenty sixteen</b>. <b>the seventh of April</b> (NOT <b>the seven April</b>).</p><p><i>Viết và đọc ngày tháng; dùng số thứ tự.</i></p> <p><b>C. Fractions and decimals</b><br><i>C. Phân số và số thập phân</i></p> <p><b>one and a quarter, one and a half, one and three quarters; one point two five</b>.</p><p><i><b>một phần tư, một nửa, ba phần tư; phẩy</b>.</i></p> <p><b>D. Percentages</b><br><i>D. Phần trăm</i></p> <p><b>twenty-six per cent; the majority of (>50%), the minority (<50%); the vast majority, a small minority</b>.</p><p><i><b>đa số, thiểu số, tuyệt đại đa số, thiểu số nhỏ</b>.</i></p> <p><b>E. Calculations</b><br><i>E. Phép tính</i></p> <p><b>working out / calculate</b>: <b>addition</b> (<b>plus, equals</b>), <b>subtraction</b> (<b>minus</b>), <b>multiplication</b> (<b>multiplied by, times</b>), <b>division</b> (<b>divided by</b>); <b>adding up</b>; <b>get stuck</b>; <b>calculator</b>.</p><p><i><b>tính toán; phép cộng, trừ, nhân, chia; cộng lại</b>.</i></p> <p><b>F. Saying ‘0’</b><br><i>F. Đọc số 0</i></p> <p>phone: <b>oh / zero</b>, <b>double four</b>; maths: <b>nought point seven</b>; temperature: <b>ten degrees below zero / minus ten</b>.</p><p><i>Cách đọc số 0.</i></p>",
+ "items": [
+  {
+   "word": "hundred",
+   "sense": "",
+   "pos": "number",
+   "ipa": "/ˈhʌndrəd/",
+   "def_en": "The number 100.",
+   "def_vi": "Số 100.",
+   "gloss_vi": "trăm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hundred</i> (number) = trăm. <b>Grammar</b>: không thêm <i>-s</i> trong số (<i>three hundred</i>), nhưng <i>hundreds of people</i>.",
+   "example": {
+    "en": "379 = three <b>hundred</b> and seventy-nine",
+    "vi": "379 = ba <b>trăm</b> bảy mươi chín."
+   }
+  },
+  {
+   "word": "thousand",
+   "sense": "",
+   "pos": "number",
+   "ipa": "/ˈθaʊznd/",
+   "def_en": "The number 1,000.",
+   "def_vi": "Số 1.000.",
+   "gloss_vi": "nghìn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Thousand</i> (number) = nghìn. <b>Grammar</b>: <i>thousands of people</i> (nói chung).",
+   "example": {
+    "en": "2,860 = two <b>thousand</b>, eight hundred and sixty",
+    "vi": "2.860 = hai <b>nghìn</b> tám trăm sáu mươi."
+   }
+  },
+  {
+   "word": "million",
+   "sense": "",
+   "pos": "number",
+   "ipa": "/ˈmɪljən/",
+   "def_en": "The number 1,000,000.",
+   "def_vi": "Số 1.000.000.",
+   "gloss_vi": "triệu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Million</i> (number) = triệu. <b>Grammar</b>: <i>two million</i> (không <i>millions</i>) nhưng <i>millions of insects</i>.",
+   "example": {
+    "en": "2,000,000 = two <b>million</b>",
+    "vi": "2.000.000 = hai <b>triệu</b>."
+   }
+  },
+  {
+   "word": "billion",
+   "sense": "",
+   "pos": "number",
+   "ipa": "/ˈbɪljən/",
+   "def_en": "The number 1,000,000,000.",
+   "def_vi": "Số 1.000.000.000.",
+   "gloss_vi": "tỷ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Billion</i> (number) = tỷ. <b>Grammar</b>: = một nghìn triệu.",
+   "example": {
+    "en": "3,000,000,000 = three <b>billion</b>",
+    "vi": "3.000.000.000 = ba <b>tỷ</b>."
+   }
+  },
+  {
+   "word": "a quarter",
+   "sense": "fraction",
+   "pos": "noun phrase",
+   "ipa": "/ə ˈkwɔːtə(r)/",
+   "def_en": "One of four equal parts (¼).",
+   "def_vi": "Một trong bốn phần bằng nhau.",
+   "gloss_vi": "một phần tư",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A quarter</i> (noun phrase) = một phần tư. <b>Grammar</b>: <i>three quarters</i> (¾).",
+   "example": {
+    "en": "1¼ = one and <b>a quarter</b>",
+    "vi": "1¼ = một và <b>một phần tư</b>."
+   }
+  },
+  {
+   "word": "a half",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ə ˈhɑːf/",
+   "def_en": "One of two equal parts (½).",
+   "def_vi": "Một trong hai phần bằng nhau.",
+   "gloss_vi": "một nửa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A half</i> (noun phrase) = một nửa. <b>Grammar</b>: số nhiều <i>halves</i>. <b>Common mistakes</b>: <i>l</i> câm.",
+   "example": {
+    "en": "1½ = one and <b>a half</b>",
+    "vi": "1½ = một và <b>một nửa</b>."
+   }
+  },
+  {
+   "word": "point",
+   "sense": "decimal",
+   "pos": "noun",
+   "ipa": "/pɔɪnt/",
+   "def_en": "The dot in a decimal number.",
+   "def_vi": "Dấu chấm trong số thập phân.",
+   "gloss_vi": "phẩy (thập phân)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Point</i> (noun) = phẩy (thập phân). <b>Grammar</b>: tiếng Anh dùng dấu chấm, đọc <i>point</i>; số sau đọc từng chữ số.",
+   "example": {
+    "en": "1.25 = one <b>point</b> two five",
+    "vi": "1,25 = một <b>phẩy</b> hai năm."
+   }
+  },
+  {
+   "word": "majority",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/məˈdʒɒrəti/",
+   "def_en": "More than 50% of something.",
+   "def_vi": "Hơn 50% của thứ gì.",
+   "gloss_vi": "đa số",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "minority <i>(n. thiểu số)</i>",
+   "grammar_vi": "<i>Majority</i> (noun) = đa số. <b>Grammar</b>: <i>the (vast) majority of</i>.",
+   "example": {
+    "en": "The vast <b>majority</b> of the students agreed with the new plan.",
+    "vi": "<b>Tuyệt đại đa số</b> sinh viên đồng ý với kế hoạch mới."
+   }
+  },
+  {
+   "word": "minority",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/maɪˈnɒrəti/",
+   "def_en": "Less than 50% of something.",
+   "def_vi": "Dưới 50% của thứ gì.",
+   "gloss_vi": "thiểu số",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "majority <i>(n. đa số)</i>",
+   "grammar_vi": "<i>Minority</i> (noun) = thiểu số. <b>Grammar</b>: <i>a small minority</i>.",
+   "example": {
+    "en": "Only a small <b>minority</b> were unhappy.",
+    "vi": "Chỉ một <b>thiểu số</b> nhỏ không vui."
+   }
+  },
+  {
+   "word": "work out",
+   "sense": "calculate",
+   "pos": "phrasal verb",
+   "ipa": "/ˌwɜːk ˈaʊt/",
+   "def_en": "To try to calculate the answer.",
+   "def_vi": "Cố tính ra đáp án.",
+   "gloss_vi": "tính ra",
+   "synonyms": "calculate <i>(v. tính)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Work out</i> (phrasal verb) = tính ra. <b>Grammar</b>: tách được: <i>work it out</i>. <b>Common mistakes</b>: cũng = tập thể dục.",
+   "example": {
+    "en": "Notice how they are said when we are <b>working out</b> the answer.",
+    "vi": "Chú ý cách đọc khi chúng ta đang <b>tính</b> đáp án."
+   }
+  },
+  {
+   "word": "calculate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈkælkjuleɪt/",
+   "def_en": "To work out an answer using numbers.",
+   "def_vi": "Tính ra đáp án bằng số.",
+   "gloss_vi": "tính toán",
+   "synonyms": "work out <i>(pv. tính ra)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Calculate</i> (verb) = tính toán. <b>Grammar</b>: <i>calculation</i> (n.), <i>calculator</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We are trying to <b>calculate</b> the answer.",
+    "vi": "Chúng ta đang cố <b>tính</b> đáp án."
+   }
+  },
+  {
+   "word": "addition",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈdɪʃn/",
+   "def_en": "Putting numbers together.",
+   "def_vi": "Cộng các số.",
+   "gloss_vi": "phép cộng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "subtraction <i>(n. phép trừ)</i>",
+   "grammar_vi": "<i>Addition</i> (noun) = phép cộng. <b>Grammar</b>: <i>add</i> (v.).",
+   "example": {
+    "en": "+ = <b>addition</b>",
+    "vi": "+ = <b>phép cộng</b>."
+   }
+  },
+  {
+   "word": "plus",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/plʌs/",
+   "def_en": "And; added to.",
+   "def_vi": "Cộng với.",
+   "gloss_vi": "cộng",
+   "synonyms": "and <i>(conj. và)</i>",
+   "antonyms": "minus <i>(prep. trừ)</i>",
+   "grammar_vi": "<i>Plus</i> (preposition) = cộng. <b>Grammar</b>: <i>plus</i> (+).",
+   "example": {
+    "en": "6 + 4 = 10 (six <b>plus</b> four equals ten)",
+    "vi": "6 + 4 = 10 (sáu <b>cộng</b> bốn bằng mười)."
+   }
+  },
+  {
+   "word": "equal",
+   "sense": "maths",
+   "pos": "verb",
+   "ipa": "/ˈiːkwəl/",
+   "def_en": "To be the same as.",
+   "def_vi": "Bằng.",
+   "gloss_vi": "bằng",
+   "synonyms": "be <i>(v. là)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Equal</i> (verb) = bằng. <b>Grammar</b>: <i>equals</i> (động từ số ít). <b>Common mistakes</b>: tính từ <i>equal</i> = bình đẳng.",
+   "example": {
+    "en": "Six plus four <b>equals</b> ten.",
+    "vi": "Sáu cộng bốn <b>bằng</b> mười."
+   }
+  },
+  {
+   "word": "subtraction",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/səbˈtrækʃn/",
+   "def_en": "Taking one number away from another.",
+   "def_vi": "Lấy số này bớt số kia.",
+   "gloss_vi": "phép trừ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "addition <i>(n. phép cộng)</i>",
+   "grammar_vi": "<i>Subtraction</i> (noun) = phép trừ. <b>Grammar</b>: <i>subtract</i> (v.).",
+   "example": {
+    "en": "– = <b>subtraction</b>",
+    "vi": "− = <b>phép trừ</b>."
+   }
+  },
+  {
+   "word": "multiplication",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmʌltɪplɪˈkeɪʃn/",
+   "def_en": "Adding a number to itself a number of times.",
+   "def_vi": "Cộng một số với chính nó nhiều lần.",
+   "gloss_vi": "phép nhân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "division <i>(n. phép chia)</i>",
+   "grammar_vi": "<i>Multiplication</i> (noun) = phép nhân. <b>Grammar</b>: <i>multiply</i> (v.).",
+   "example": {
+    "en": "x = <b>multiplication</b>",
+    "vi": "× = <b>phép nhân</b>."
+   }
+  },
+  {
+   "word": "multiplied by",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˈmʌltɪplaɪd baɪ/",
+   "def_en": "Times (×).",
+   "def_vi": "Nhân với.",
+   "gloss_vi": "nhân với",
+   "synonyms": "times <i>(prep. nhân)</i>",
+   "antonyms": "divided by <i>(phr. chia cho)</i>",
+   "grammar_vi": "<i>Multiplied by</i> (phrase) = nhân với. <b>Grammar</b>: cũng <i>six times four</i>.",
+   "example": {
+    "en": "6 x 4 = 24 (six <b>multiplied by</b> four is twenty-four)",
+    "vi": "6 × 4 = 24 (sáu <b>nhân</b> bốn bằng hai mươi tư)."
+   }
+  },
+  {
+   "word": "division",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈvɪʒn/",
+   "def_en": "Finding how many times one number goes into another.",
+   "def_vi": "Tìm số lần một số chứa trong số khác.",
+   "gloss_vi": "phép chia",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "multiplication <i>(n. phép nhân)</i>",
+   "grammar_vi": "<i>Division</i> (noun) = phép chia. <b>Grammar</b>: <i>divide</i> (v.).",
+   "example": {
+    "en": "÷ = <b>division</b>",
+    "vi": "÷ = <b>phép chia</b>."
+   }
+  },
+  {
+   "word": "divided by",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/dɪˈvaɪdɪd baɪ/",
+   "def_en": "Used for division (÷).",
+   "def_vi": "Dùng cho phép chia.",
+   "gloss_vi": "chia cho",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "multiplied by <i>(phr. nhân với)</i>",
+   "grammar_vi": "<i>Divided by</i> (phrase) = chia cho. <b>Grammar</b>: <i>divide A by B</i>.",
+   "example": {
+    "en": "8 ÷ 2 = 4 (eight <b>divided by</b> two is four)",
+    "vi": "8 ÷ 2 = 4 (tám <b>chia cho</b> hai bằng bốn)."
+   }
+  },
+  {
+   "word": "add up",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌæd ˈʌp/",
+   "def_en": "To put numbers together to reach a total.",
+   "def_vi": "Cộng các số lại thành tổng.",
+   "gloss_vi": "cộng lại",
+   "synonyms": "total <i>(v. tính tổng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Add up</i> (phrasal verb) = cộng lại. <b>Grammar</b>: tách được: <i>add them up</i>.",
+   "example": {
+    "en": "Some people are not very good at <b>adding up</b> numbers.",
+    "vi": "Một số người không giỏi <b>cộng</b> các con số <b>lại</b>."
+   }
+  },
+  {
+   "word": "nought",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/nɔːt/",
+   "def_en": "The number 0, in mathematics.",
+   "def_vi": "Số 0 trong toán học.",
+   "gloss_vi": "số không",
+   "synonyms": "zero <i>(n. số không)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nought</i> (noun) = số không. <b>Grammar</b>: Anh–Anh; điện thoại đọc <i>oh</i>, nhiệt độ đọc <i>zero</i>.",
+   "example": {
+    "en": "0.7 = <b>nought</b> point seven",
+    "vi": "0,7 = <b>không</b> phẩy bảy."
+   }
+  },
+  {
+   "word": "double",
+   "sense": "numbers",
+   "pos": "adjective",
+   "ipa": "/ˈdʌbl/",
+   "def_en": "Used when saying two of the same number.",
+   "def_vi": "Dùng khi đọc hai số giống nhau.",
+   "gloss_vi": "(số) đôi, hai số",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Double</i> (adjective) = (số) đôi, hai số. <b>Grammar</b>: dùng khi đọc số điện thoại.",
+   "example": {
+    "en": "603449 = six oh three, <b>double</b> four nine",
+    "vi": "603449 = sáu không ba, <b>đôi</b> bốn, chín."
+   }
+  },
+  {
+   "word": "zero",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈzɪərəʊ/",
+   "def_en": "The number 0, especially for temperature.",
+   "def_vi": "Số 0, nhất là cho nhiệt độ.",
+   "gloss_vi": "số không",
+   "synonyms": "nought <i>(n. số không)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Zero</i> (noun) = số không. <b>Grammar</b>: <i>below zero</i>.",
+   "example": {
+    "en": "–10 degrees = ten degrees below <b>zero</b>",
+    "vi": "−10 độ = mười độ dưới <b>không</b>."
+   }
+  }
+ ]
+}

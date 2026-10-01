@@ -1,0 +1,392 @@
+{
+ "book": "pre",
+ "unit": 60,
+ "title_vi": "Thời gian",
+ "theory_html": "<p><b>A. Phrases with time</b><br><i>A. Cụm từ với time</i></p> <p><b>in time</b> (before it started), <b>on time</b> (not early or late), <b>It’s time (for us) to go</b>, <b>have time for</b>, <b>the next time</b>, <b>the last time</b>, <b>at the same time</b>.</p><p><i><b>kịp lúc, đúng giờ, đến lúc, có thời gian, lần tới, lần trước, cùng lúc</b>.</i></p> <p><b>B. Time prepositions often confused</b><br><i>B. Giới từ thời gian dễ nhầm</i></p> <p><b>until 4.30</b> (not leave before) vs <b>by 8.15</b> (not later than); <b>for six months</b> (period) vs <b>since May</b> (point); <b>during the summer</b> (when) vs <b>for a month</b> (how long); <b>in ten days’ time</b> (NOT <b>after ten days</b>).</p><p><i><b>cho đến – trước lúc; trong (khoảng) – từ (mốc); trong suốt; … nữa</b>.</i></p> <p><b>C. Approximate periods of time</b><br><i>C. Khoảng thời gian ước chừng</i></p> <p><b>for ages, recently/lately, a long time ago (ages ago), the other day, these days (nowadays), for the time being, one day</b>.</p><p><i><b>lâu lắm rồi, gần đây, cách đây lâu, hôm nọ, dạo này, tạm thời, một ngày nào đó</b>.</i></p> <p><b>D. Counting time</b><br><i>D. Đếm thời gian</i></p> <p><b>seconds, a fortnight</b> (2 weeks), <b>a decade</b> (10 years), <b>a century</b>.</p><p><i><b>giây, hai tuần, thập kỷ, thế kỷ</b>.</i></p> <p><b>E. Take and last</b><br><i>E. Take và last</i></p> <p><b>It takes me half an hour to get to school</b> (how long we need); <b>The course lasts for ten weeks</b> (how long something continues); <b>didn’t last long</b>.</p><p><i><b>take = mất (bao lâu); last = kéo dài</b>.</i></p>",
+ "items": [
+  {
+   "word": "in time",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪn ˈtaɪm/",
+   "def_en": "Before something started.",
+   "def_vi": "Trước khi việc gì bắt đầu.",
+   "gloss_vi": "kịp lúc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "too late <i>(phr. quá muộn)</i>",
+   "grammar_vi": "<i>In time</i> (phrase) = kịp lúc. <b>Grammar</b>: <i>in time for sth / to do sth</i> ≠ <i>on time</i>.",
+   "example": {
+    "en": "We got to the meeting <b>in time</b>.",
+    "vi": "Chúng tôi đến buổi họp <b>kịp lúc</b>."
+   }
+  },
+  {
+   "word": "on time",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɒn ˈtaɪm/",
+   "def_en": "Not early or late.",
+   "def_vi": "Không sớm không muộn.",
+   "gloss_vi": "đúng giờ",
+   "synonyms": "punctual <i>(adj. đúng giờ)</i>",
+   "antonyms": "late <i>(adj. muộn)</i>",
+   "grammar_vi": "<i>On time</i> (phrase) = đúng giờ. <b>Grammar</b>: ≠ <i>in time</i> (kịp, trước giờ).",
+   "example": {
+    "en": "My brother is always <b>on time</b>.",
+    "vi": "Anh trai tôi luôn <b>đúng giờ</b>."
+   }
+  },
+  {
+   "word": "it’s time to",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪts ˈtaɪm tə/",
+   "def_en": "Used to say that something should happen now.",
+   "def_vi": "Dùng để nói việc gì nên xảy ra bây giờ.",
+   "gloss_vi": "đến lúc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>It’s time to</i> (phrase) = đến lúc. <b>Grammar</b>: <i>It’s time (for sb) to do sth</i>.",
+   "example": {
+    "en": "<b>It’s time</b> (for us) <b>to</b> go.",
+    "vi": "<b>Đến lúc</b> chúng ta phải đi rồi."
+   }
+  },
+  {
+   "word": "have time for",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌhæv ˈtaɪm fə(r)/",
+   "def_en": "To have enough time to do something.",
+   "def_vi": "Có đủ thời gian làm gì.",
+   "gloss_vi": "có thời gian cho",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have time for</i> (verb phrase) = có thời gian cho. <b>Grammar</b>: <i>have time for sth / to do sth</i>.",
+   "example": {
+    "en": "Do you <b>have time for</b> a cup of coffee?",
+    "vi": "Bạn <b>có thời gian</b> uống một tách cà phê không?"
+   }
+  },
+  {
+   "word": "the next time",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ðə ˈnekst taɪm/",
+   "def_en": "On the next occasion.",
+   "def_vi": "Vào lần tới.",
+   "gloss_vi": "lần tới",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "the last time <i>(phr. lần trước)</i>",
+   "grammar_vi": "<i>The next time</i> (phrase) = lần tới. <b>Grammar</b>: + mệnh đề hiện tại.",
+   "example": {
+    "en": "Call me <b>the next time</b> you’re in London.",
+    "vi": "Gọi cho tôi <b>lần tới</b> bạn đến London."
+   }
+  },
+  {
+   "word": "the last time",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ðə ˈlɑːst taɪm/",
+   "def_en": "On the last occasion.",
+   "def_vi": "Vào lần trước.",
+   "gloss_vi": "lần trước",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "the next time <i>(phr. lần tới)</i>",
+   "grammar_vi": "<i>The last time</i> (phrase) = lần trước. <b>Grammar</b>: + mệnh đề quá khứ.",
+   "example": {
+    "en": "The weather was wonderful <b>the last time</b> we were there.",
+    "vi": "Thời tiết tuyệt vời <b>lần trước</b> chúng tôi ở đó."
+   }
+  },
+  {
+   "word": "at the same time",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ət ðə ˌseɪm ˈtaɪm/",
+   "def_en": "At exactly the same moment.",
+   "def_vi": "Đúng cùng một lúc.",
+   "gloss_vi": "cùng lúc",
+   "synonyms": "simultaneously <i>(adv. đồng thời)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>At the same time</i> (phrase) = cùng lúc. <b>Grammar</b>: cụm cố định.",
+   "example": {
+    "en": "Sophie and I arrived <b>at the same time</b>, 9 o’clock exactly.",
+    "vi": "Sophie và tôi đến <b>cùng lúc</b>, đúng 9 giờ."
+   }
+  },
+  {
+   "word": "until",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ənˈtɪl/",
+   "def_en": "Up to a particular time.",
+   "def_vi": "Cho đến một thời điểm.",
+   "gloss_vi": "cho đến",
+   "synonyms": "till <i>(prep. cho đến)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Until</i> (preposition) = cho đến. <b>Grammar</b>: <i>until</i> (kéo dài đến) ≠ <i>by</i> (không muộn hơn).",
+   "example": {
+    "en": "I’ll be here <b>until</b> 4.30.",
+    "vi": "Tôi sẽ ở đây <b>cho đến</b> 4 giờ 30."
+   }
+  },
+  {
+   "word": "by",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/baɪ/",
+   "def_en": "Not later than.",
+   "def_vi": "Không muộn hơn.",
+   "gloss_vi": "trước, muộn nhất là",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>By</i> (preposition) = trước, muộn nhất là. <b>Grammar</b>: <i>by + thời điểm</i> = hạn chót.",
+   "example": {
+    "en": "I’ll be there <b>by</b> 8.15.",
+    "vi": "Tôi sẽ có mặt ở đó <b>trước</b> 8 giờ 15."
+   }
+  },
+  {
+   "word": "since",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/sɪns/",
+   "def_en": "From a point in time in the past until now.",
+   "def_vi": "Từ một mốc quá khứ đến nay.",
+   "gloss_vi": "từ (khi)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Since</i> (preposition) = từ (khi). <b>Grammar</b>: <i>since</i> + mốc; <i>for</i> + khoảng; thường với hiện tại hoàn thành.",
+   "example": {
+    "en": "I’ve worked here <b>since</b> May.",
+    "vi": "Tôi làm ở đây <b>từ</b> tháng Năm."
+   }
+  },
+  {
+   "word": "during",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ˈdjʊərɪŋ/",
+   "def_en": "At some time in a period, saying when.",
+   "def_vi": "Trong một khoảng thời gian (khi nào).",
+   "gloss_vi": "trong suốt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>During</i> (preposition) = trong suốt. <b>Grammar</b>: <i>during</i> + danh từ (khi nào), không + số lượng thời gian (không <i>during a month</i>).",
+   "example": {
+    "en": "I worked on a farm <b>during</b> the summer.",
+    "vi": "Tôi làm ở một trang trại <b>trong</b> mùa hè."
+   }
+  },
+  {
+   "word": "in … time",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪn … taɪm/",
+   "def_en": "A period of time from now.",
+   "def_vi": "Một khoảng thời gian tính từ bây giờ.",
+   "gloss_vi": "… nữa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In … time</i> (phrase) = … nữa. <b>Grammar</b>: <i>in ten days’ time</i> (không <i>after ten days</i>).",
+   "example": {
+    "en": "I’m going back to Brazil <b>in ten days’ time</b>.",
+    "vi": "Tôi sẽ về Brazil <b>mười ngày nữa</b>."
+   }
+  },
+  {
+   "word": "for ages",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/fər ˈeɪdʒɪz/",
+   "def_en": "For a long time.",
+   "def_vi": "Trong thời gian dài.",
+   "gloss_vi": "lâu lắm rồi",
+   "synonyms": "for a long time <i>(phr. lâu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>For ages</i> (phrase) = lâu lắm rồi. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "I’ve known Lucia <b>for ages</b>.",
+    "vi": "Tôi quen Lucia <b>lâu lắm rồi</b>."
+   }
+  },
+  {
+   "word": "recently",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈriːsntli/",
+   "def_en": "Not long ago.",
+   "def_vi": "Cách đây không lâu.",
+   "gloss_vi": "gần đây",
+   "synonyms": "lately <i>(adv. gần đây)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Recently</i> (adverb) = gần đây. <b>Grammar</b>: dùng với quá khứ đơn và hiện tại hoàn thành; <i>lately</i> thường với hiện tại hoàn thành.",
+   "example": {
+    "en": "I saw Tom <b>recently</b>.",
+    "vi": "<b>Gần đây</b> tôi gặp Tom."
+   }
+  },
+  {
+   "word": "a long time ago",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ə ˌlɒŋ taɪm əˈɡəʊ/",
+   "def_en": "Many years ago.",
+   "def_vi": "Nhiều năm trước.",
+   "gloss_vi": "cách đây lâu rồi",
+   "synonyms": "ages ago <i>(phr. lâu lắm rồi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A long time ago</i> (phrase) = cách đây lâu rồi. <b>Grammar</b>: dùng với quá khứ đơn.",
+   "example": {
+    "en": "I used to go skiing, but that was <b>a long time ago</b>.",
+    "vi": "Tôi từng đi trượt tuyết, nhưng đó là <b>cách đây lâu rồi</b>."
+   }
+  },
+  {
+   "word": "the other day",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ði ˈʌðə deɪ/",
+   "def_en": "A few days ago.",
+   "def_vi": "Vài ngày trước.",
+   "gloss_vi": "hôm nọ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The other day</i> (phrase) = hôm nọ. <b>Grammar</b>: dùng với quá khứ đơn.",
+   "example": {
+    "en": "My sister went to the zoo <b>the other day</b>.",
+    "vi": "Chị tôi đi sở thú <b>hôm nọ</b>."
+   }
+  },
+  {
+   "word": "these days",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˈðiːz deɪz/",
+   "def_en": "A period including the past and now.",
+   "def_vi": "Khoảng thời gian gồm quá khứ đến nay.",
+   "gloss_vi": "dạo này",
+   "synonyms": "nowadays <i>(adv. ngày nay)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>These days</i> (phrase) = dạo này. <b>Grammar</b>: dùng với hiện tại đơn.",
+   "example": {
+    "en": "I don’t see my brother much <b>these days</b>.",
+    "vi": "<b>Dạo này</b> tôi không gặp anh trai nhiều."
+   }
+  },
+  {
+   "word": "for the time being",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/fə ðə ˈtaɪm biːɪŋ/",
+   "def_en": "For now, but not for a long time.",
+   "def_vi": "Lúc này, nhưng không lâu dài.",
+   "gloss_vi": "tạm thời",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>For the time being</i> (phrase) = tạm thời. <b>Grammar</b>: cụm cố định.",
+   "example": {
+    "en": "This dictionary’s fine <b>for the time being</b>.",
+    "vi": "Cuốn từ điển này dùng <b>tạm thời</b> cũng được."
+   }
+  },
+  {
+   "word": "one day",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˈwʌn deɪ/",
+   "def_en": "At some time in the future.",
+   "def_vi": "Một lúc nào đó trong tương lai.",
+   "gloss_vi": "một ngày nào đó",
+   "synonyms": "someday <i>(adv. một ngày nào đó)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>One day</i> (phrase) = một ngày nào đó. <b>Grammar</b>: cũng dùng cho quá khứ (<i>One day last week…</i>).",
+   "example": {
+    "en": "I’m sure I’ll go to America <b>one day</b>.",
+    "vi": "Tôi chắc <b>một ngày nào đó</b> tôi sẽ đến Mỹ."
+   }
+  },
+  {
+   "word": "second",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsekənd/",
+   "def_en": "One sixtieth of a minute.",
+   "def_vi": "Một phần sáu mươi phút.",
+   "gloss_vi": "giây",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Second</i> (noun) = giây. <b>Grammar</b>: <i>Wait a second</i>.",
+   "example": {
+    "en": "There are 60 <b>seconds</b> in a minute.",
+    "vi": "Có 60 <b>giây</b> trong một phút."
+   }
+  },
+  {
+   "word": "fortnight",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfɔːtnaɪt/",
+   "def_en": "Two weeks.",
+   "def_vi": "Hai tuần.",
+   "gloss_vi": "hai tuần",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fortnight</i> (noun) = hai tuần. <b>Grammar</b>: Anh–Anh; <i>a fortnight’s holiday</i>.",
+   "example": {
+    "en": "There are 2 weeks in a <b>fortnight</b>.",
+    "vi": "Có 2 tuần trong một <b>fortnight</b>."
+   }
+  },
+  {
+   "word": "decade",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdekeɪd/",
+   "def_en": "Ten years.",
+   "def_vi": "Mười năm.",
+   "gloss_vi": "thập kỷ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Decade</i> (noun) = thập kỷ. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "There are 10 years in a <b>decade</b>.",
+    "vi": "Có 10 năm trong một <b>thập kỷ</b>."
+   }
+  },
+  {
+   "word": "take",
+   "sense": "time",
+   "pos": "verb",
+   "ipa": "/teɪk/",
+   "def_en": "To need a particular amount of time.",
+   "def_vi": "Cần một khoảng thời gian.",
+   "gloss_vi": "mất (thời gian)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take</i> (verb) = mất (thời gian). <b>Grammar</b>: <i>It takes (sb) + thời gian + to do sth</i>.",
+   "example": {
+    "en": "<b>It takes me</b> half an hour to get to school.",
+    "vi": "Tôi <b>mất</b> nửa tiếng để đến trường."
+   }
+  },
+  {
+   "word": "last long",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌlɑːst ˈlɒŋ/",
+   "def_en": "To continue for a long time.",
+   "def_vi": "Kéo dài lâu.",
+   "gloss_vi": "dùng lâu, kéo dài lâu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Last long</i> (verb phrase) = dùng lâu, kéo dài lâu. <b>Grammar</b>: thường dùng ở phủ định/câu hỏi.",
+   "example": {
+    "en": "The battery in my camera didn’t <b>last long</b>.",
+    "vi": "Pin máy ảnh của tôi <b>không dùng được lâu</b>."
+   }
+  }
+ ]
+}

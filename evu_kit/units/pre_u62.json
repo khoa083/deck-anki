@@ -1,0 +1,313 @@
+{
+ "book": "pre",
+ "unit": 62,
+ "title_vi": "Khoảng cách, kích thước và độ lớn",
+ "theory_html": "<p><b>A. Distance: how far …</b><br><i>A. Khoảng cách: bao xa</i></p> <p><b>miles</b> (≈1.6 km), <b>yards</b> (≈1 m), <b>feet</b> (30 cm), <b>inches</b> (2.5 cm). <b>The nearest one is half a mile; about a mile away; just round the corner; a hundred yards up/down the road; about ten minutes’ walk; at least a couple of miles; (quite) a long way.</b> <b>ten minutes’ walk</b> (NOT <b>walking</b>); <b>It’s a long way</b> (NOT <b>It’s far</b>), but <b>No, it isn’t far</b>.</p><p><i><b>dặm, thước Anh, bộ, inch; gần nhất, cách, ngay góc phố, phía trên/dưới đường, đi bộ mười phút, ít nhất, xa</b>.</i></p> <p><b>B. Dimensions: how long or wide …</b><br><i>B. Kích thước: dài, rộng…</i></p> <p><b>length – long, width – wide, height – high, depth – deep</b>; a pool has a <b>deep end</b> and a <b>shallow end</b>. <b>tall</b> person/tree/building, <b>high</b> mountain/wall.</p><p><i><b>chiều dài, rộng, cao, sâu; nông</b>.</i></p> <p><b>C. Size: how big or small …</b><br><i>C. Độ lớn</i></p> <p><b>thick</b> (opp <b>thin</b>) book; <b>huge</b> (syn <b>enormous</b>, opp <b>tiny</b>) room; a <b>giant</b> crab; a <b>narrow</b> (opp <b>wide</b>) road.</p><p><i><b>dày/mỏng, khổng lồ/tí hon, khổng lồ, hẹp/rộng</b>.</i></p>",
+ "items": [
+  {
+   "word": "mile",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/maɪl/",
+   "def_en": "A unit of distance equal to about 1.6 kilometres.",
+   "def_vi": "Đơn vị đo khoảng cách khoảng 1,6 km.",
+   "gloss_vi": "dặm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mile</i> (noun) = dặm. <b>Grammar</b>: <i>miles per hour</i>.",
+   "example": {
+    "en": "About a <b>mile</b> away.",
+    "vi": "Khoảng một <b>dặm</b> tính từ đây."
+   }
+  },
+  {
+   "word": "yard",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/jɑːd/",
+   "def_en": "A unit of length equal to almost 1 metre.",
+   "def_vi": "Đơn vị dài gần 1 mét.",
+   "gloss_vi": "thước Anh (yard)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Yard</i> (noun) = thước Anh (yard). <b>Grammar</b>: đếm được. <b>Common mistakes</b>: cũng = sân.",
+   "example": {
+    "en": "About a hundred <b>yards</b> up/down the road.",
+    "vi": "Khoảng một trăm <b>thước</b> phía trên con đường."
+   }
+  },
+  {
+   "word": "foot",
+   "sense": "measure",
+   "pos": "noun",
+   "ipa": "/fʊt/",
+   "def_en": "A unit of length equal to 30 centimetres.",
+   "def_vi": "Đơn vị dài 30 cm.",
+   "gloss_vi": "bộ (đơn vị đo)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Foot</i> (noun) = bộ (đơn vị đo). <b>Grammar</b>: số nhiều <i>feet</i>; <i>He’s six feet tall</i>.",
+   "example": {
+    "en": "1 <b>foot</b> = 30 centimetres",
+    "vi": "Một <b>bộ</b> bằng 30 xăng-ti-mét."
+   }
+  },
+  {
+   "word": "inch",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪntʃ/",
+   "def_en": "A unit of length equal to 2.5 centimetres.",
+   "def_vi": "Đơn vị dài 2,5 cm.",
+   "gloss_vi": "inch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Inch</i> (noun) = inch. <b>Grammar</b>: số nhiều <i>inches</i>.",
+   "example": {
+    "en": "1 <b>inch</b> = 2.5 centimetres",
+    "vi": "Một <b>inch</b> bằng 2,5 xăng-ti-mét."
+   }
+  },
+  {
+   "word": "up the road",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌʌp ðə ˈrəʊd/",
+   "def_en": "Further along the road.",
+   "def_vi": "Đi tiếp trên con đường.",
+   "gloss_vi": "phía trên đường, đi tiếp",
+   "synonyms": "down the road <i>(phr. phía dưới đường)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Up the road</i> (phrase) = phía trên đường, đi tiếp. <b>Grammar</b>: <i>up/down the road</i> không nhất thiết lên/xuống dốc.",
+   "example": {
+    "en": "About a hundred yards <b>up</b> the <b>road</b>.",
+    "vi": "Khoảng một trăm thước <b>phía trên đường</b>."
+   }
+  },
+  {
+   "word": "minutes’ walk",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈmɪnɪts ˌwɔːk/",
+   "def_en": "The distance you can walk in a number of minutes.",
+   "def_vi": "Quãng đi bộ trong vài phút.",
+   "gloss_vi": "(mấy) phút đi bộ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Minutes’ walk</i> (noun phrase) = (mấy) phút đi bộ. <b>Grammar</b>: <i>ten minutes’ walk</i> (không <i>ten minutes’ walking</i>).",
+   "example": {
+    "en": "About <b>ten minutes’ walk</b>.",
+    "vi": "Khoảng <b>mười phút đi bộ</b>."
+   }
+  },
+  {
+   "word": "a long way",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ə ˌlɒŋ ˈweɪ/",
+   "def_en": "Far.",
+   "def_vi": "Xa.",
+   "gloss_vi": "xa",
+   "synonyms": "far <i>(adj. xa)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A long way</i> (phrase) = xa. <b>Grammar</b>: câu khẳng định dùng <i>a long way</i> (không <i>It’s far</i>); phủ định: <i>it isn’t far</i>.",
+   "example": {
+    "en": "Is it far? – Yes, it’s (quite) <b>a long way</b>.",
+    "vi": "Xa không? – Có, khá <b>xa</b>."
+   }
+  },
+  {
+   "word": "length",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/leŋθ/",
+   "def_en": "How long something is.",
+   "def_vi": "Độ dài của thứ gì.",
+   "gloss_vi": "chiều dài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Length</i> (noun) = chiều dài. <b>Grammar</b>: <i>long</i> (adj.) → <i>length</i> (n.).",
+   "example": {
+    "en": "What’s the <b>length</b> of the garage?",
+    "vi": "<b>Chiều dài</b> của ga-ra là bao nhiêu?"
+   }
+  },
+  {
+   "word": "width",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/wɪdθ/",
+   "def_en": "How wide something is.",
+   "def_vi": "Độ rộng của thứ gì.",
+   "gloss_vi": "chiều rộng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Width</i> (noun) = chiều rộng. <b>Grammar</b>: <i>wide</i> (adj.) → <i>width</i> (n.).",
+   "example": {
+    "en": "What’s the <b>width</b> of the path?",
+    "vi": "<b>Chiều rộng</b> của lối đi là bao nhiêu?"
+   }
+  },
+  {
+   "word": "wide",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/waɪd/",
+   "def_en": "Measuring a large distance from side to side.",
+   "def_vi": "Có khoảng cách lớn từ bên này sang bên kia.",
+   "gloss_vi": "rộng",
+   "synonyms": "broad <i>(adj. rộng)</i>",
+   "antonyms": "narrow <i>(adj. hẹp)</i>",
+   "grammar_vi": "<i>Wide</i> (adjective) = rộng. <b>Grammar</b>: <i>How wide…?</i>.",
+   "example": {
+    "en": "How <b>wide</b> is the path? – It’s a metre (wide).",
+    "vi": "Lối đi <b>rộng</b> bao nhiêu? – Một mét."
+   }
+  },
+  {
+   "word": "high",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/haɪ/",
+   "def_en": "Measuring a large distance from bottom to top.",
+   "def_vi": "Có khoảng cách lớn từ dưới lên trên.",
+   "gloss_vi": "cao",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "low <i>(adj. thấp)</i>",
+   "grammar_vi": "<i>High</i> (adjective) = cao. <b>Grammar</b>: <i>high mountain/wall</i>; người và cây dùng <i>tall</i>.",
+   "example": {
+    "en": "How <b>high</b> is the wall? – It’s two metres (high).",
+    "vi": "Bức tường <b>cao</b> bao nhiêu? – Hai mét."
+   }
+  },
+  {
+   "word": "depth",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/depθ/",
+   "def_en": "How deep something is.",
+   "def_vi": "Độ sâu của thứ gì.",
+   "gloss_vi": "độ sâu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Depth</i> (noun) = độ sâu. <b>Grammar</b>: <i>deep</i> (adj.) → <i>depth</i> (n.).",
+   "example": {
+    "en": "What’s the <b>depth</b> of the pool?",
+    "vi": "<b>Độ sâu</b> của bể bơi là bao nhiêu?"
+   }
+  },
+  {
+   "word": "deep",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/diːp/",
+   "def_en": "Going a long way down.",
+   "def_vi": "Đi xuống sâu.",
+   "gloss_vi": "sâu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "shallow <i>(adj. nông)</i>",
+   "grammar_vi": "<i>Deep</i> (adjective) = sâu. <b>Grammar</b>: <i>the deep end</i> của bể bơi.",
+   "example": {
+    "en": "How <b>deep</b> is the pool? – It’s three metres (deep).",
+    "vi": "Bể bơi <b>sâu</b> bao nhiêu? – Ba mét."
+   }
+  },
+  {
+   "word": "shallow",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈʃæləʊ/",
+   "def_en": "Not deep.",
+   "def_vi": "Không sâu.",
+   "gloss_vi": "nông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "deep <i>(adj. sâu)</i>",
+   "grammar_vi": "<i>Shallow</i> (adjective) = nông. <b>Grammar</b>: <i>the shallow end</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The children swim at the <b>shallow</b> end of the pool.",
+    "vi": "Bọn trẻ bơi ở đầu <b>nông</b> của bể."
+   }
+  },
+  {
+   "word": "tall",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/tɔːl/",
+   "def_en": "(Of a person, tree or building) high.",
+   "def_vi": "(Người, cây, tòa nhà) cao.",
+   "gloss_vi": "cao",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "short <i>(adj. thấp)</i>",
+   "grammar_vi": "<i>Tall</i> (adjective) = cao. <b>Grammar</b>: <i>tall</i> (người, cây, tòa nhà); <i>high</i> (núi, tường).",
+   "example": {
+    "en": "Mason is quite <b>tall</b>.",
+    "vi": "Mason khá <b>cao</b>."
+   }
+  },
+  {
+   "word": "thick",
+   "sense": "size",
+   "pos": "adjective",
+   "ipa": "/θɪk/",
+   "def_en": "Wide from one side to the other.",
+   "def_vi": "Dày từ mặt này sang mặt kia.",
+   "gloss_vi": "dày",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "thin <i>(adj. mỏng)</i>",
+   "grammar_vi": "<i>Thick</i> (adjective) = dày. <b>Grammar</b>: <i>a thick book/wall</i>.",
+   "example": {
+    "en": "It was a very <b>thick</b> book – over 500 pages.",
+    "vi": "Đó là một cuốn sách rất <b>dày</b> – hơn 500 trang."
+   }
+  },
+  {
+   "word": "huge",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/hjuːdʒ/",
+   "def_en": "Very big.",
+   "def_vi": "Rất to.",
+   "gloss_vi": "khổng lồ, rất rộng",
+   "synonyms": "enormous <i>(adj. khổng lồ)</i>",
+   "antonyms": "tiny <i>(adj. tí hon)</i>",
+   "grammar_vi": "<i>Huge</i> (adjective) = khổng lồ, rất rộng. <b>Grammar</b>: không dùng <i>very huge</i>.",
+   "example": {
+    "en": "Their living room is <b>huge</b>.",
+    "vi": "Phòng khách của họ <b>rất rộng</b>."
+   }
+  },
+  {
+   "word": "giant",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈdʒaɪənt/",
+   "def_en": "Very large or bigger than other similar things.",
+   "def_vi": "Rất lớn hay lớn hơn những thứ tương tự.",
+   "gloss_vi": "khổng lồ",
+   "synonyms": "huge <i>(adj. khổng lồ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Giant</i> (adjective) = khổng lồ. <b>Grammar</b>: thường đứng trước danh từ; cũng là danh từ (người khổng lồ).",
+   "example": {
+    "en": "We caught a <b>giant</b> crab.",
+    "vi": "Chúng tôi bắt được một con cua <b>khổng lồ</b>."
+   }
+  },
+  {
+   "word": "narrow",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈnærəʊ/",
+   "def_en": "Not wide.",
+   "def_vi": "Không rộng.",
+   "gloss_vi": "hẹp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "wide <i>(adj. rộng)</i>",
+   "grammar_vi": "<i>Narrow</i> (adjective) = hẹp. <b>Grammar</b>: <i>a narrow road/street</i>.",
+   "example": {
+    "en": "It was a very <b>narrow</b> road for a bus.",
+    "vi": "Đó là con đường rất <b>hẹp</b> cho xe buýt."
+   }
+  }
+ ]
+}
