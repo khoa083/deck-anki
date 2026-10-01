@@ -25,7 +25,7 @@ items = [
    "Mục A: thứ Hai tuần trước Jack dọn khỏi phòng ký túc; bài 58.1a: sinh viên năm cuối dọn đi sau khi tốt nghiệp có đồ bán; bài 58.3 câu 4.",
    "<i>moved out of his college room</i> (dọn khỏi phòng ký túc)", "bỏ <i>of</i> trước nơi ở (<i>move out the flat</i>).",
    [S("leave", "v.", "rời đi"), S("vacate", "v.", "dọn khỏi")], [S("move in", "phr.v.", "dọn đến")]),
- PV("move in", "phr.v.", "neutral", "To begin living in a new house or flat.", "/ˌmuːv ˈɪn/",
+ PV("move in", "phr.v.", "neutral", "To arrive and start living in a new home.", "/ˌmuːv ˈɪn/",
    "Bắt đầu sống ở nhà hay căn hộ mới.", "dọn đến",
    "We <b>moved in</b> last week and the place is still full of boxes.", "Chúng tôi <b>dọn đến</b> tuần trước và nhà vẫn đầy thùng.",
    INT("a new family has moved in") + " Thêm <i>to</i> + nơi ở, <i>with</i> + người.",
