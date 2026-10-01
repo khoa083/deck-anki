@@ -88,8 +88,8 @@ def validate(u, fname, book):
         if not re.fullmatch(r"/[^/]+/", it.get("ipa", "")): E.append(f"{p}: ipa phải dạng /.../")
         for x in ("en", "vi"):
             if "<b>" not in it.get("example", {}).get(x, ""): E.append(f"{p}: example.{x} thiếu <b>")
-        if not it.get("def_en", "").rstrip().endswith((".", "?", "!")): E.append(f"{p}: def_en phải kết thúc bằng dấu chấm")
-        if not it.get("def_vi", "").rstrip().endswith((".", "?", "!")): E.append(f"{p}: def_vi phải kết thúc bằng dấu chấm")
+        if not it.get("def_en", "").rstrip().endswith((".", "?", "!", "…")): E.append(f"{p}: def_en phải kết thúc bằng dấu chấm")
+        if not it.get("def_vi", "").rstrip().endswith((".", "?", "!", "…")): E.append(f"{p}: def_vi phải kết thúc bằng dấu chấm")
         if not os.path.exists(os.path.join(KIT, "media", audio_name(book, u["unit"], it))): E.append(f"{p}: thiếu audio – chạy evu.py audio")
         for f in ("grammar_vi", "synonyms", "antonyms"): E += [f"{p}: {f} " + e for e in tag_balance_errors(it.get(f, ""))]
     return [f"{fname}: {e}" for e in E]

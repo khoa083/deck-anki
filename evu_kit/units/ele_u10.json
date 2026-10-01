@@ -1,0 +1,636 @@
+{
+ "book": "ele",
+ "unit": 10,
+ "title_vi": "Đồ ăn và thức uống",
+ "theory_html": "<p><b>A. Everyday food</b><br><i>A. Thức ăn hằng ngày</i></p> <p><b>bread, rice, pasta, salt, pepper, chips, meat, fish, sugar</b>; someone who eats no meat or fish is <b>vegetarian</b>. Say <b>some bread</b> (not <b>a bread</b>).</p><p><i><b>bánh mì, cơm, mì ống, muối, hạt tiêu, khoai tây chiên, thịt, cá, đường</b>; người không ăn thịt cá là <b>người ăn chay</b>. Nói <b>some bread</b>, không nói <b>a bread</b>.</i></p> <p><b>B. Fast food</b><br><i>B. Đồ ăn nhanh</i></p> <p><b>hamburgers, hot dogs, pizzas</b>; <b>fish and chips</b> is popular in Britain, Australia and New Zealand.</p><p><i><b>bánh hamburger, xúc xích kẹp, pizza</b>; <b>cá và khoai tây chiên</b> phổ biến ở Anh, Úc, New Zealand.</i></p> <p><b>C. Fruit and vegetables</b><br><i>C. Trái cây và rau</i></p> <p><b>Vegetables</b>: <b>carrots, beans, potatoes, tomatoes, peas, onions, garlic, mushrooms</b>. <b>Fruit</b> (singular, uncountable – <b>I love fruit</b>, not <b>fruits</b>): <b>apple, pineapple, orange, banana, pear, strawberries, grapes</b>.</p><p><i>Rau: cà rốt, đậu, khoai tây, cà chua, đậu Hà Lan, hành, tỏi, nấm. <b>Fruit</b> không đếm được: táo, dứa, cam, chuối, lê, dâu tây, nho.</i></p> <p><b>D. Drinks</b><br><i>D. Đồ uống</i></p> <p><b>mineral water, tea, coffee, milk, fruit juice, beer, wine</b>. Tip: look at English names in a supermarket.</p><p><i><b>nước khoáng, trà, cà phê, sữa, nước ép, bia, rượu vang</b>. Mẹo: tìm tên tiếng Anh trong siêu thị.</i></p>",
+ "items": [
+  {
+   "word": "bread",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/bred/",
+   "def_en": "A food made from flour, water and yeast, baked in an oven.",
+   "def_vi": "Thức ăn làm từ bột mì, nước, men, nướng trong lò.",
+   "gloss_vi": "bánh mì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bread</i> (uncountable noun) = bánh mì. <b>Grammar</b>: không đếm được: <i>some bread, a slice of bread</i>. <b>Common mistakes</b>: không nói <i>a bread</i>.",
+   "example": {
+    "en": "Would you like some <b>bread</b>?",
+    "vi": "Bạn có muốn ăn chút <b>bánh mì</b> không?"
+   }
+  },
+  {
+   "word": "rice",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/raɪs/",
+   "def_en": "Small white or brown grains that are cooked and eaten.",
+   "def_vi": "Hạt nhỏ màu trắng hay nâu, nấu chín để ăn.",
+   "gloss_vi": "gạo, cơm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rice</i> (uncountable noun) = gạo, cơm. <b>Grammar</b>: không đếm được. <b>Collocations / chunks</b>: <i>boiled rice</i> (cơm luộc), <i>a bowl of rice</i> (một bát cơm).",
+   "example": {
+    "en": "I love sushi because I love <b>rice</b>.",
+    "vi": "Tôi mê sushi vì tôi mê <b>cơm</b>."
+   }
+  },
+  {
+   "word": "pasta",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈpæstə/",
+   "def_en": "Food made from flour, water and eggs, cut into different shapes and boiled.",
+   "def_vi": "Món làm từ bột, nước, trứng, cắt nhiều hình rồi luộc.",
+   "gloss_vi": "mì ống, mì Ý",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pasta</i> (uncountable noun) = mì ống, mì Ý. <b>Grammar</b>: không đếm được, động từ số ít: <i>Pasta is good</i>. <b>Collocations / chunks</b>: <i>a plate of pasta</i> (đĩa mì Ý).",
+   "example": {
+    "en": "<b>Pasta</b> is good for you, but don’t eat too much!",
+    "vi": "<b>Mì Ý</b> tốt cho sức khỏe, nhưng đừng ăn nhiều quá!"
+   }
+  },
+  {
+   "word": "salt",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/sɔːlt/",
+   "def_en": "A white substance used to give flavour to food.",
+   "def_vi": "Chất trắng dùng nêm thức ăn.",
+   "gloss_vi": "muối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "sugar <i>(un. đường)</i>",
+   "grammar_vi": "<i>Salt</i> (uncountable noun) = muối. <b>Grammar</b>: không đếm được. <b>Collocations / chunks</b>: <i>salt and pepper</i> (muối và tiêu). <b>Word family</b>: <i>salty</i> (adj. mặn).",
+   "example": {
+    "en": "I always put <b>salt</b> on my chips, but not pepper.",
+    "vi": "Tôi luôn rắc <b>muối</b> lên khoai tây chiên, nhưng không rắc tiêu."
+   }
+  },
+  {
+   "word": "chips",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/tʃɪps/",
+   "def_en": "Long thin pieces of fried potato.",
+   "def_vi": "Khoai tây cắt thanh dài chiên.",
+   "gloss_vi": "khoai tây chiên",
+   "synonyms": "fries <i>(pn. khoai tây chiên (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chips</i> (plural noun) = khoai tây chiên. <b>Grammar</b>: số ít <i>a chip</i>; Anh–Mỹ gọi là <i>French fries</i>. <b>Collocations / chunks</b>: <i>fish and chips</i> (cá và khoai chiên).",
+   "example": {
+    "en": "I always put salt on my <b>chips</b>, but not pepper.",
+    "vi": "Tôi luôn rắc muối lên <b>khoai tây chiên</b>, nhưng không rắc tiêu."
+   }
+  },
+  {
+   "word": "pepper",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈpepə(r)/",
+   "def_en": "A black or white powder with a hot taste, used in cooking.",
+   "def_vi": "Bột đen hoặc trắng vị cay, dùng nấu ăn.",
+   "gloss_vi": "hạt tiêu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pepper</i> (uncountable noun) = hạt tiêu. <b>Grammar</b>: không đếm được khi là gia vị. <b>Collocations / chunks</b>: <i>salt and pepper</i> (muối tiêu). <b>Common mistakes</b>: <i>a pepper</i> (đếm được) = quả ớt chuông.",
+   "example": {
+    "en": "I always put salt on my chips, but not <b>pepper</b>.",
+    "vi": "Tôi luôn rắc muối lên khoai tây chiên, nhưng không rắc <b>tiêu</b>."
+   }
+  },
+  {
+   "word": "meat",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/miːt/",
+   "def_en": "The flesh of animals that people eat.",
+   "def_vi": "Thịt động vật dùng làm thức ăn.",
+   "gloss_vi": "thịt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Meat</i> (uncountable noun) = thịt. <b>Grammar</b>: không đếm được. <b>Collocations / chunks</b>: <i>red meat</i> (thịt đỏ). <b>Common mistakes</b>: đọc giống <i>meet</i> /miːt/.",
+   "example": {
+    "en": "My sister never eats <b>meat</b> or fish.",
+    "vi": "Chị tôi không bao giờ ăn <b>thịt</b> hay cá."
+   }
+  },
+  {
+   "word": "fish",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/fɪʃ/",
+   "def_en": "An animal that lives in water; also its flesh eaten as food.",
+   "def_vi": "Động vật sống dưới nước; cũng là thịt cá dùng làm thức ăn.",
+   "gloss_vi": "cá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fish</i> (noun) = cá. <b>Grammar</b>: làm thức ăn thì không đếm được; số nhiều con cá vẫn là <i>fish</i>. <b>Collocations / chunks</b>: <i>fish and chips</i>.",
+   "example": {
+    "en": "My sister never eats meat or <b>fish</b>.",
+    "vi": "Chị tôi không bao giờ ăn thịt hay <b>cá</b>."
+   }
+  },
+  {
+   "word": "vegetarian",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌvedʒəˈteəriən/",
+   "def_en": "A person who does not eat meat or fish.",
+   "def_vi": "Người không ăn thịt và cá.",
+   "gloss_vi": "người ăn chay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "meat-eater <i>(n. người ăn thịt)</i>",
+   "grammar_vi": "<i>Vegetarian</i> (noun) = người ăn chay. <b>Grammar</b>: vừa là danh từ vừa là tính từ: <i>She’s vegetarian / a vegetarian</i>. <b>Collocations / chunks</b>: <i>vegetarian food</i> (đồ chay).",
+   "example": {
+    "en": "She’s <b>vegetarian</b>.",
+    "vi": "Chị ấy là <b>người ăn chay</b>."
+   }
+  },
+  {
+   "word": "sugar",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈʃʊɡə(r)/",
+   "def_en": "A sweet substance used in food and drinks.",
+   "def_vi": "Chất ngọt dùng cho đồ ăn, thức uống.",
+   "gloss_vi": "đường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "salt <i>(un. muối)</i>",
+   "grammar_vi": "<i>Sugar</i> (uncountable noun) = đường. <b>Grammar</b>: không đếm được: <i>take sugar in tea</i> (cho đường vào trà). <b>Common mistakes</b>: <i>s</i> đọc /ʃ/.",
+   "example": {
+    "en": "Do you take <b>sugar</b> in tea or coffee?",
+    "vi": "Bạn có cho <b>đường</b> vào trà hay cà phê không?"
+   }
+  },
+  {
+   "word": "tea",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/tiː/",
+   "def_en": "A hot drink made by pouring boiling water onto dried leaves.",
+   "def_vi": "Đồ uống nóng pha từ lá khô với nước sôi.",
+   "gloss_vi": "trà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tea</i> (uncountable noun) = trà. <b>Grammar</b>: không đếm được; <i>a cup of tea</i>, gọi đồ uống: <i>two teas</i>. <b>Collocations / chunks</b>: <i>a cup of tea</i> (một tách trà).",
+   "example": {
+    "en": "Do you take sugar in <b>tea</b> or coffee?",
+    "vi": "Bạn có cho đường vào <b>trà</b> hay cà phê không?"
+   }
+  },
+  {
+   "word": "coffee",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈkɒfi/",
+   "def_en": "A hot drink made from roasted coffee beans.",
+   "def_vi": "Đồ uống nóng pha từ hạt cà phê rang.",
+   "gloss_vi": "cà phê",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Coffee</i> (uncountable noun) = cà phê. <b>Grammar</b>: không đếm được; khi gọi món: <i>a coffee, two coffees</i>. <b>Collocations / chunks</b>: <i>black coffee</i> (cà phê đen).",
+   "example": {
+    "en": "Do you take sugar in tea or <b>coffee</b>?",
+    "vi": "Bạn có cho đường vào trà hay <b>cà phê</b> không?"
+   }
+  },
+  {
+   "word": "hamburgers",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈhæmbɜːɡəz/",
+   "def_en": "Pieces of cooked minced meat served in a round bread roll.",
+   "def_vi": "Thịt bằm nướng kẹp trong bánh mì tròn.",
+   "gloss_vi": "bánh hamburger",
+   "synonyms": "burgers <i>(pn. bánh burger)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hamburgers</i> (plural noun) = bánh hamburger. <b>Grammar</b>: số ít <i>a hamburger</i>; gọi tắt <i>burger</i>. <b>Collocations / chunks</b>: <i>fast food</i> (đồ ăn nhanh).",
+   "example": {
+    "en": "I eat <b>hamburgers</b>, hot dogs and pizzas when I don’t have much time.",
+    "vi": "Tôi ăn <b>hamburger</b>, xúc xích kẹp và pizza khi không có nhiều thời gian."
+   }
+  },
+  {
+   "word": "hot dogs",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈhɒt dɒɡz/",
+   "def_en": "Hot sausages in long bread rolls.",
+   "def_vi": "Xúc xích nóng kẹp trong bánh mì dài.",
+   "gloss_vi": "xúc xích kẹp bánh mì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hot dogs</i> (plural noun) = xúc xích kẹp bánh mì. <b>Grammar</b>: số ít <i>a hot dog</i>; danh từ ghép hai từ.",
+   "example": {
+    "en": "I eat hamburgers, <b>hot dogs</b> and pizzas when I don’t have much time.",
+    "vi": "Tôi ăn hamburger, <b>xúc xích kẹp</b> và pizza khi không có nhiều thời gian."
+   }
+  },
+  {
+   "word": "pizzas",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈpiːtsəz/",
+   "def_en": "Flat round bread with tomato, cheese and other food on top, baked in an oven.",
+   "def_vi": "Bánh dẹt tròn phủ cà chua, phô mai…, nướng lò.",
+   "gloss_vi": "bánh pizza",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pizzas</i> (plural noun) = bánh pizza. <b>Grammar</b>: số ít <i>a pizza</i>; <i>zz</i> đọc /ts/. <b>Collocations / chunks</b>: <i>a slice of pizza</i> (một miếng pizza).",
+   "example": {
+    "en": "I eat hamburgers, hot dogs and <b>pizzas</b> when I don’t have much time.",
+    "vi": "Tôi ăn hamburger, xúc xích kẹp và <b>pizza</b> khi không có nhiều thời gian."
+   }
+  },
+  {
+   "word": "fish and chips",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌfɪʃ ən ˈtʃɪps/",
+   "def_en": "Fried fish served with chips.",
+   "def_vi": "Cá chiên ăn kèm khoai tây chiên.",
+   "gloss_vi": "cá và khoai tây chiên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fish and chips</i> (noun phrase) = cá và khoai tây chiên. <b>Grammar</b>: dùng động từ số ít: <i>Fish and chips is popular</i>. <b>Note</b>: món ăn truyền thống của Anh.",
+   "example": {
+    "en": "<b>Fish and chips</b> is popular in Britain, Australia and New Zealand.",
+    "vi": "<b>Cá và khoai tây chiên</b> phổ biến ở Anh, Úc và New Zealand."
+   }
+  },
+  {
+   "word": "fruit",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/fruːt/",
+   "def_en": "Things such as apples and oranges that grow on trees and plants.",
+   "def_vi": "Những thứ như táo, cam mọc trên cây.",
+   "gloss_vi": "trái cây",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fruit</i> (uncountable noun) = trái cây. <b>Grammar</b>: thường không đếm được, động từ số ít: <i>Fruit is good for you</i>. <b>Common mistakes</b>: không nói <i>I love fruits</i>; <i>ui</i> đọc /uː/.",
+   "example": {
+    "en": "<b>Fruit</b> is also good for you.",
+    "vi": "<b>Trái cây</b> cũng tốt cho sức khỏe."
+   }
+  },
+  {
+   "word": "vegetables",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈvedʒtəblz/",
+   "def_en": "Plants or parts of plants that people eat.",
+   "def_vi": "Cây hoặc phần của cây dùng làm thức ăn.",
+   "gloss_vi": "rau",
+   "synonyms": "veg <i>(un. rau (thân mật))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Vegetables</i> (plural noun) = rau. <b>Grammar</b>: số ít <i>a vegetable</i>; đọc 3 âm tiết /ˈvedʒtəblz/. <b>Collocations / chunks</b>: <i>fresh vegetables</i> (rau tươi).",
+   "example": {
+    "en": "<b>Vegetables</b> are good for you.",
+    "vi": "<b>Rau</b> tốt cho sức khỏe."
+   }
+  },
+  {
+   "word": "carrots",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈkærəts/",
+   "def_en": "Long orange vegetables that grow under the ground.",
+   "def_vi": "Củ dài màu cam mọc dưới đất.",
+   "gloss_vi": "cà rốt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Carrots</i> (plural noun) = cà rốt. <b>Grammar</b>: số ít <i>a carrot</i>. <b>Collocations / chunks</b>: <i>carrot cake</i> (bánh cà rốt).",
+   "ex_kit": true,
+   "example": {
+    "en": "Rabbits love <b>carrots</b>.",
+    "vi": "Thỏ thích ăn <b>cà rốt</b>."
+   }
+  },
+  {
+   "word": "beans",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/biːnz/",
+   "def_en": "Seeds or pods of some plants, eaten as vegetables.",
+   "def_vi": "Hạt hoặc quả của một số cây, ăn như rau.",
+   "gloss_vi": "đậu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Beans</i> (plural noun) = đậu. <b>Grammar</b>: số ít <i>a bean</i>. <b>Collocations / chunks</b>: <i>green beans</i> (đậu que), <i>baked beans</i> (đậu hầm).",
+   "ex_kit": true,
+   "example": {
+    "en": "We had rice and <b>beans</b> for dinner.",
+    "vi": "Chúng tôi ăn cơm với <b>đậu</b>."
+   }
+  },
+  {
+   "word": "potatoes",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/pəˈteɪtəʊz/",
+   "def_en": "Round white vegetables that grow under the ground.",
+   "def_vi": "Củ tròn ruột trắng mọc dưới đất.",
+   "gloss_vi": "khoai tây",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Potatoes</i> (plural noun) = khoai tây. <b>Grammar</b>: số ít <i>a potato</i>; số nhiều thêm <i>-es</i>. <b>Collocations / chunks</b>: <i>mashed potatoes</i> (khoai tây nghiền).",
+   "ex_kit": true,
+   "example": {
+    "en": "Chips are made from <b>potatoes</b>.",
+    "vi": "Khoai tây chiên được làm từ <b>khoai tây</b>."
+   }
+  },
+  {
+   "word": "tomatoes",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/təˈmɑːtəʊz/",
+   "def_en": "Soft round red fruit eaten as a vegetable.",
+   "def_vi": "Quả tròn mềm màu đỏ, ăn như rau.",
+   "gloss_vi": "cà chua",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tomatoes</i> (plural noun) = cà chua. <b>Grammar</b>: số ít <i>a tomato</i>; Anh–Anh đọc /təˈmɑːtəʊ/.",
+   "ex_kit": true,
+   "example": {
+    "en": "Pizza has <b>tomatoes</b> and cheese on top.",
+    "vi": "Pizza có <b>cà chua</b> và phô mai."
+   }
+  },
+  {
+   "word": "peas",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/piːz/",
+   "def_en": "Small round green seeds eaten as a vegetable.",
+   "def_vi": "Hạt nhỏ tròn màu xanh, ăn như rau.",
+   "gloss_vi": "đậu Hà Lan",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Peas</i> (plural noun) = đậu Hà Lan. <b>Grammar</b>: số ít <i>a pea</i>. <b>Collocations / chunks</b>: <i>green peas</i> (đậu Hà Lan).",
+   "ex_kit": true,
+   "example": {
+    "en": "The children don’t like <b>peas</b>.",
+    "vi": "Bọn trẻ không thích <b>đậu Hà Lan</b>."
+   }
+  },
+  {
+   "word": "onions",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈʌnjənz/",
+   "def_en": "Round vegetables with a strong smell and taste.",
+   "def_vi": "Củ tròn mùi và vị nồng.",
+   "gloss_vi": "hành tây",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Onions</i> (plural noun) = hành tây. <b>Grammar</b>: số ít <i>an onion</i>; chữ <i>o</i> đầu đọc /ʌ/.",
+   "ex_kit": true,
+   "example": {
+    "en": "Cutting <b>onions</b> makes me cry.",
+    "vi": "Cắt <b>hành</b> làm tôi chảy nước mắt."
+   }
+  },
+  {
+   "word": "garlic",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈɡɑːlɪk/",
+   "def_en": "A plant like a small onion with a very strong taste, used in cooking.",
+   "def_vi": "Cây như củ hành nhỏ, vị rất nồng, dùng nấu ăn.",
+   "gloss_vi": "tỏi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Garlic</i> (uncountable noun) = tỏi. <b>Grammar</b>: không đếm được; <i>a clove of garlic</i> (một tép tỏi).",
+   "ex_kit": true,
+   "example": {
+    "en": "This dish has a lot of <b>garlic</b> in it.",
+    "vi": "Món này có rất nhiều <b>tỏi</b>."
+   }
+  },
+  {
+   "word": "mushrooms",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈmʌʃrʊmz/",
+   "def_en": "Plants with a round top and no leaves that you can eat.",
+   "def_vi": "Loại cây mũ tròn không lá ăn được.",
+   "gloss_vi": "nấm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mushrooms</i> (plural noun) = nấm. <b>Grammar</b>: số ít <i>a mushroom</i>. <b>Collocations / chunks</b>: <i>mushroom soup</i> (súp nấm).",
+   "ex_kit": true,
+   "example": {
+    "en": "I ordered a pizza with <b>mushrooms</b>.",
+    "vi": "Tôi gọi pizza có <b>nấm</b>."
+   }
+  },
+  {
+   "word": "apple",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈæpl/",
+   "def_en": "A round fruit with red, green or yellow skin.",
+   "def_vi": "Quả tròn vỏ đỏ, xanh hoặc vàng.",
+   "gloss_vi": "táo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Apple</i> (noun) = táo. <b>Grammar</b>: đếm được: <i>an apple</i>. <b>Collocations / chunks</b>: <i>apple juice</i> (nước táo).",
+   "ex_kit": true,
+   "example": {
+    "en": "I eat an <b>apple</b> every day.",
+    "vi": "Tôi ăn một quả <b>táo</b> mỗi ngày."
+   }
+  },
+  {
+   "word": "pineapple",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpaɪnæpl/",
+   "def_en": "A large tropical fruit with thick rough skin and sweet yellow flesh.",
+   "def_vi": "Quả nhiệt đới to, vỏ dày sần, ruột vàng ngọt.",
+   "gloss_vi": "dứa, thơm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pineapple</i> (noun) = dứa, thơm. <b>Grammar</b>: đếm được; trọng âm âm đầu /ˈpaɪnæpl/.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Pineapples</b> grow in hot countries.",
+    "vi": "<b>Dứa</b> mọc ở xứ nóng."
+   }
+  },
+  {
+   "word": "orange",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɒrɪndʒ/",
+   "def_en": "A round fruit with thick orange skin and a lot of juice.",
+   "def_vi": "Quả tròn vỏ dày màu cam, nhiều nước.",
+   "gloss_vi": "cam",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Orange</i> (noun) = cam. <b>Grammar</b>: đếm được: <i>an orange</i>; cũng là tính từ màu cam. <b>Collocations / chunks</b>: <i>orange juice</i> (nước cam).",
+   "ex_kit": true,
+   "example": {
+    "en": "I squeezed an <b>orange</b> for juice.",
+    "vi": "Tôi vắt một quả <b>cam</b> làm nước ép."
+   }
+  },
+  {
+   "word": "banana",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bəˈnɑːnə/",
+   "def_en": "A long curved fruit with yellow skin.",
+   "def_vi": "Quả dài cong vỏ vàng.",
+   "gloss_vi": "chuối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Banana</i> (noun) = chuối. <b>Grammar</b>: đếm được; Anh–Anh đọc /bəˈnɑːnə/. <b>Collocations / chunks</b>: <i>a bunch of bananas</i> (nải chuối).",
+   "ex_kit": true,
+   "example": {
+    "en": "Monkeys love <b>bananas</b>.",
+    "vi": "Khỉ thích <b>chuối</b>."
+   }
+  },
+  {
+   "word": "pear",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/peə(r)/",
+   "def_en": "A sweet fruit, narrow at the top and wide at the bottom.",
+   "def_vi": "Quả ngọt, đầu nhỏ đáy to.",
+   "gloss_vi": "lê",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pear</i> (noun) = lê. <b>Grammar</b>: đếm được; đọc giống <i>pair</i> /peə/.",
+   "ex_kit": true,
+   "example": {
+    "en": "This <b>pear</b> is very juicy.",
+    "vi": "Quả <b>lê</b> này rất mọng nước."
+   }
+  },
+  {
+   "word": "strawberries",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈstrɔːbəriz/",
+   "def_en": "Small soft red fruit with tiny seeds on the skin.",
+   "def_vi": "Quả nhỏ mềm màu đỏ, có hạt li ti trên vỏ.",
+   "gloss_vi": "dâu tây",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Strawberries</i> (plural noun) = dâu tây. <b>Grammar</b>: số ít <i>a strawberry</i>. <b>Collocations / chunks</b>: <i>strawberries and cream</i> (dâu tây với kem).",
+   "ex_kit": true,
+   "example": {
+    "en": "We had <b>strawberries</b> and cream.",
+    "vi": "Chúng tôi ăn <b>dâu tây</b> với kem."
+   }
+  },
+  {
+   "word": "grapes",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ɡreɪps/",
+   "def_en": "Small round green or purple fruit that grow in bunches.",
+   "def_vi": "Quả nhỏ tròn xanh hoặc tím mọc thành chùm.",
+   "gloss_vi": "nho",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Grapes</i> (plural noun) = nho. <b>Grammar</b>: số ít <i>a grape</i>. <b>Collocations / chunks</b>: <i>a bunch of grapes</i> (chùm nho).",
+   "ex_kit": true,
+   "example": {
+    "en": "Wine is made from <b>grapes</b>.",
+    "vi": "Rượu vang được làm từ <b>nho</b>."
+   }
+  },
+  {
+   "word": "mineral water",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈmɪnərəl wɔːtə(r)/",
+   "def_en": "Water from a natural spring, sold in bottles.",
+   "def_vi": "Nước từ suối tự nhiên, bán đóng chai.",
+   "gloss_vi": "nước khoáng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mineral water</i> (noun phrase) = nước khoáng. <b>Grammar</b>: không đếm được; <i>a bottle of mineral water</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "A bottle of <b>mineral water</b>, please.",
+    "vi": "Cho tôi một chai <b>nước khoáng</b>."
+   }
+  },
+  {
+   "word": "milk",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/mɪlk/",
+   "def_en": "The white liquid that cows and some other animals produce, which people drink.",
+   "def_vi": "Chất lỏng trắng từ bò và vài loài khác, người uống được.",
+   "gloss_vi": "sữa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Milk</i> (uncountable noun) = sữa. <b>Grammar</b>: không đếm được; <i>a glass of milk</i>. <b>Collocations / chunks</b>: <i>fresh milk</i> (sữa tươi).",
+   "ex_kit": true,
+   "example": {
+    "en": "I put <b>milk</b> in my coffee.",
+    "vi": "Tôi cho <b>sữa</b> vào cà phê."
+   }
+  },
+  {
+   "word": "fruit juice",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈfruːt dʒuːs/",
+   "def_en": "A drink made from the liquid in fruit.",
+   "def_vi": "Đồ uống từ nước của trái cây.",
+   "gloss_vi": "nước ép trái cây",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fruit juice</i> (noun phrase) = nước ép trái cây. <b>Grammar</b>: không đếm được; <i>a glass of fruit juice</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The children have <b>fruit juice</b> with their breakfast.",
+    "vi": "Bọn trẻ uống <b>nước ép trái cây</b> với bữa sáng."
+   }
+  },
+  {
+   "word": "beer",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/bɪə(r)/",
+   "def_en": "An alcoholic drink made from grain.",
+   "def_vi": "Đồ uống có cồn làm từ ngũ cốc.",
+   "gloss_vi": "bia",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Beer</i> (uncountable noun) = bia. <b>Grammar</b>: không đếm được; gọi món: <i>two beers</i>. <b>Collocations / chunks</b>: <i>a pint of beer</i> (một panh bia).",
+   "ex_kit": true,
+   "example": {
+    "en": "He had a glass of <b>beer</b> at the pub.",
+    "vi": "Anh ấy uống một cốc <b>bia</b> ở quán."
+   }
+  },
+  {
+   "word": "wine",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/waɪn/",
+   "def_en": "An alcoholic drink made from grapes.",
+   "def_vi": "Đồ uống có cồn làm từ nho.",
+   "gloss_vi": "rượu vang",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wine</i> (uncountable noun) = rượu vang. <b>Grammar</b>: không đếm được; <i>a glass of wine</i>. <b>Collocations / chunks</b>: <i>red/white wine</i> (vang đỏ/trắng).",
+   "ex_kit": true,
+   "example": {
+    "en": "We drank red <b>wine</b> with dinner.",
+    "vi": "Chúng tôi uống <b>rượu vang</b> đỏ với bữa tối."
+   }
+  }
+ ]
+}

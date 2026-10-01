@@ -43,7 +43,8 @@ def grammar(word, pos, gloss, g):
 def sentences(block):
     """Tách câu từ trang đã trích; nối dòng gãy của đoạn văn, tách dòng nhãn ngắn (tên trên tranh, tiêu đề)."""
     lines = [l.strip() for l in block.split("\n") if l.strip() and l.strip() not in ("Audio not supported",)]
-    lines = [l for l in lines if not (re.fullmatch(r"\*\*[^*]*\*\*", l) and not re.search(r"[.?!]\**$", l) and len(l.split()) < 6)
+    lines = [l for l in lines if not (re.fullmatch(r"\*\*[^*]*\*\*", l) and not re.search(r"[.?!]\**$", l) and len(l.split()) < 6
+                                      and not re.match(r"^\*\*[a-z]", l))
              and not re.fullmatch(r"[\d\W]{1,4}", l)]
     lines = [re.sub(r"^\d{1,2}\s+(?=[A-Z‘“])", "", l) for l in lines]
     out, cur, last = [], "", ""
@@ -108,7 +109,8 @@ def find_example(word, src):
             if not mm: continue
             bold = bool(re.search(r"\*\*[^*]*" + re.escape(mm.group(0).split()[0]) , s, re.I))
             n = len(s.split())
-            bad = n > 45 or n < 3 or "……" in s or "…….." in s or ".........." in s
+            nb = len(" ".join(re.findall(r"\*\*([^*]+)\*\*", s)).split())
+            bad = n > 45 or n < 2 or (nb / n > 0.6 and n >= 4 and not re.search(r"[.!?]\**$", s.strip())) or "……" in s or "…….." in s or ".........." in s
             if not bad: cands.append((prio + (0 if bold else 1), s))
     if not cands: return None
     cands.sort(key=lambda x: x[0])
@@ -132,7 +134,7 @@ def parse(path, src):
         if mode == "i":
             f = [x.strip() for x in l.split(" | ")]
             opt = {}
-            for x in [x for x in f if re.match(r"^(ex|sense)=", x)]:
+            for x in [x for x in f if re.match(r"^(ex|exb|sense)=", x)]:
                 k, v = x.split("=", 1); opt[k] = v.strip(); f.remove(x)
             if len(f) != 10:
                 u["errors"].append(f"dòng {ln}: cần 10 trường (+ ex=/sense=), có {len(f)}: {l[:80]}"); continue
@@ -143,7 +145,9 @@ def parse(path, src):
                       "synonyms": rel(syn), "antonyms": rel(ant), "grammar_vi": grammar(w, pos, gl, g)}
             except ValueError as e:
                 u["errors"].append(f"dòng {ln} '{w}': {e}"); continue
-            if "ex" in opt:
+            if "exb" in opt:      # câu sách ghép lại thủ công (bảng/hai cột bị trích rời) – vẫn là câu của sách
+                en = ital(opt["exb"]).replace("[", "<b>").replace("]", "</b>")
+            elif "ex" in opt:
                 en = ital(opt["ex"]).replace("[", "<b>").replace("]", "</b>"); it["ex_kit"] = True
             else:
                 en = find_example(w, src)

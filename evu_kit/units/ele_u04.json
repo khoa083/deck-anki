@@ -33,7 +33,7 @@
    "antonyms": "<i>Not available</i>",
    "grammar_vi": "<i>Coat</i> (noun) = áo khoác dài, áo choàng. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>a long/warm coat</i> (áo khoác dài/ấm), <i>put on your coat</i> (mặc áo khoác).",
    "example": {
-    "en": "Naomi is wearing a long blue <b>coat</b>.",
+    "en": "hat <b>coat</b> jacket socks scarf gloves shoes trainers boots suit watch dress ring skirt shirt",
     "vi": "Naomi đang mặc một chiếc <b>áo khoác</b> dài màu xanh."
    }
   },
@@ -168,7 +168,7 @@
    "antonyms": "<i>Not available</i>",
    "grammar_vi": "<i>Suit</i> (noun) = bộ com-lê, bộ vest. <b>Grammar</b>: đếm được; động từ số ít: <i>My suit is new</i>. <b>Collocations / chunks</b>: <i>wear a suit</i> (mặc com-lê), <i>a dark suit</i> (bộ vest tối màu).",
    "example": {
-    "en": "My <b>suit</b> is new but these trousers are old.",
+    "en": "hat coat jacket socks scarf gloves shoes trainers boots <b>suit</b> watch dress ring skirt shirt",
     "vi": "Bộ <b>com-lê</b> của tôi mới nhưng chiếc quần này thì cũ."
    }
   },
@@ -286,7 +286,7 @@
    "antonyms": "<i>Not available</i>",
    "grammar_vi": "<i>Trousers</i> (plural noun) = quần dài. <b>Grammar</b>: luôn số nhiều, động từ số nhiều: <i>these trousers are old</i>; <i>a pair of trousers</i>. <b>Common mistakes</b>: không nói <i>a trouser</i>.",
    "example": {
-    "en": "My suit is new but these <b>trousers</b> are old.",
+    "en": "<b>trousers</b> jeans shorts tights glasses",
     "vi": "Bộ com-lê của tôi mới nhưng chiếc <b>quần</b> này thì cũ."
    }
   },
@@ -302,7 +302,7 @@
    "antonyms": "<i>Not available</i>",
    "grammar_vi": "<i>Jeans</i> (plural noun) = quần bò. <b>Grammar</b>: luôn số nhiều: <i>Her jeans are blue</i>; <i>a pair of jeans</i>. <b>Collocations / chunks</b>: <i>blue jeans</i> (quần bò xanh).",
    "example": {
-    "en": "Her <b>jeans</b> / shorts / tights are blue.",
+    "en": "trousers <b>jeans</b> shorts tights glasses",
     "vi": "<b>Quần bò</b> của cô ấy màu xanh."
    }
   },
@@ -318,7 +318,7 @@
    "antonyms": "<i>Not available</i>",
    "grammar_vi": "<i>Shorts</i> (plural noun) = quần soóc. <b>Grammar</b>: luôn số nhiều: <i>Her shorts are blue</i>; <i>a pair of shorts</i>.",
    "example": {
-    "en": "Note: You say: a pair of trousers / <b>shorts</b> / glasses, etc.",
+    "en": "trousers jeans <b>shorts</b> tights glasses",
     "vi": "Chiếc <b>quần soóc</b> của cô ấy màu xanh."
    }
   },
@@ -334,7 +334,7 @@
    "antonyms": "<i>Not available</i>",
    "grammar_vi": "<i>Tights</i> (plural noun) = quần tất. <b>Grammar</b>: luôn số nhiều: <i>Her tights are blue</i>; <i>a pair of tights</i>.",
    "example": {
-    "en": "Her jeans / shorts / <b>tights</b> are blue.",
+    "en": "trousers jeans shorts <b>tights</b> glasses",
     "vi": "<b>Quần tất</b> của cô ấy màu xanh."
    }
   },
@@ -350,7 +350,7 @@
    "antonyms": "<i>Not available</i>",
    "grammar_vi": "<i>Glasses</i> (plural noun) = kính (mắt). <b>Grammar</b>: luôn số nhiều; <i>a pair of glasses</i>; dùng <i>wear glasses</i> (đeo kính). <b>Common mistakes</b>: <i>glass</i> số ít = cái ly.",
    "example": {
-    "en": "Note: You say: a pair of trousers / shorts / <b>glasses</b>, etc.",
+    "en": "trousers jeans shorts tights <b>glasses</b>",
     "vi": "Bạn đeo <b>kính</b>."
    }
   },

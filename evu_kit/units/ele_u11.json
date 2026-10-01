@@ -1,0 +1,510 @@
+{
+ "book": "ele",
+ "unit": 11,
+ "title_vi": "Trong nhà bếp",
+ "theory_html": "<p><b>A. What’s in the kitchen?</b><br><i>A. Trong bếp có gì?</i></p> <ul><li><b>cupboard, shelf, freezer, fridge, microwave, tap, worktop, sink, bin, washing machine, cooker, dishwasher</b> – <i>tủ chạn, kệ, tủ đông, tủ lạnh, lò vi sóng, vòi nước, mặt bếp, bồn rửa, thùng rác, máy giặt, bếp nấu, máy rửa bát</i></li></ul> <p><b>B. Things we use in the kitchen</b><br><i>B. Đồ dùng trong bếp</i></p> <ul><li><b>coffee maker, teapot, saucepan, frying pan, kitchen roll, tea towel, washing-up liquid, cloth</b> – <i>máy pha cà phê, ấm trà, xoong, chảo rán, giấy lau bếp, khăn lau bát, nước rửa bát, giẻ lau</i></li></ul> <p><b>C. Things for eating and drinking</b><br><i>C. Đồ ăn uống</i></p> <ul><li><b>chopsticks, glass, knife, fork, spoon, cup, bowl, mug, plate</b> – <i>đũa, cốc thủy tinh, dao, nĩa, thìa, tách, bát, cốc vại, đĩa</i></li></ul> <p><b>D. Expressions</b><br><i>D. Cách nói</i></p> <p><b>Where can I find a mug? – They are in the cupboard. Can I help with the washing-up / cooking? – You can dry the plates. Where does this cup go? – Put it in this cupboard.</b> Tip: stick English labels on things in your kitchen.</p><p><i><b>Cốc ở đâu? Tôi giúp rửa bát / nấu ăn nhé? Cái tách này để đâu?</b> Mẹo: dán nhãn tiếng Anh lên đồ trong bếp.</i></p>",
+ "items": [
+  {
+   "word": "cupboard",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkʌbəd/",
+   "def_en": "A piece of furniture with doors and shelves for keeping things in.",
+   "def_vi": "Tủ có cửa và ngăn để cất đồ.",
+   "gloss_vi": "tủ chạn, tủ bếp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cupboard</i> (noun) = tủ chạn, tủ bếp. <b>Grammar</b>: đếm được; chữ <i>p</i> câm /ˈkʌbəd/. <b>Collocations / chunks</b>: <i>in the cupboard</i> (trong tủ).",
+   "example": {
+    "en": "B: They are in the <b>cupboard</b>.",
+    "vi": "Chúng ở trong <b>tủ chạn</b>."
+   }
+  },
+  {
+   "word": "shelf",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ʃelf/",
+   "def_en": "A flat board on a wall or in a cupboard for putting things on.",
+   "def_vi": "Tấm phẳng trên tường hoặc trong tủ để đặt đồ.",
+   "gloss_vi": "kệ, giá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shelf</i> (noun) = kệ, giá. <b>Grammar</b>: số nhiều <i>shelves</i> /ʃelvz/. <b>Collocations / chunks</b>: <i>on the shelf</i> (trên kệ).",
+   "ex_kit": true,
+   "example": {
+    "en": "Put the cups on the <b>shelf</b>.",
+    "vi": "Đặt cốc lên <b>kệ</b>."
+   }
+  },
+  {
+   "word": "freezer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfriːzə(r)/",
+   "def_en": "A machine that keeps food very cold so that it freezes.",
+   "def_vi": "Máy giữ thức ăn rất lạnh đến đông đá.",
+   "gloss_vi": "tủ đông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Freezer</i> (noun) = tủ đông. <b>Grammar</b>: đếm được. <b>Word family</b>: <i>freeze</i> (v.), <i>frozen</i> (adj. đông lạnh).",
+   "ex_kit": true,
+   "example": {
+    "en": "The ice cream is in the <b>freezer</b>.",
+    "vi": "Kem ở trong <b>tủ đông</b>."
+   }
+  },
+  {
+   "word": "fridge",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/frɪdʒ/",
+   "def_en": "A machine that keeps food cold.",
+   "def_vi": "Máy giữ thức ăn lạnh.",
+   "gloss_vi": "tủ lạnh",
+   "synonyms": "refrigerator <i>(n. tủ lạnh (trang trọng))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fridge</i> (noun) = tủ lạnh. <b>Grammar</b>: đếm được; dạng ngắn của <i>refrigerator</i>. <b>Collocations / chunks</b>: <i>in the fridge</i> (trong tủ lạnh).",
+   "ex_kit": true,
+   "example": {
+    "en": "Put the milk in the <b>fridge</b>.",
+    "vi": "Để sữa vào <b>tủ lạnh</b>."
+   }
+  },
+  {
+   "word": "microwave",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmaɪkrəweɪv/",
+   "def_en": "An oven that cooks food very quickly using electric waves.",
+   "def_vi": "Lò nấu nhanh bằng sóng điện từ.",
+   "gloss_vi": "lò vi sóng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Microwave</i> (noun) = lò vi sóng. <b>Grammar</b>: đếm được; cũng là động từ <i>microwave sth</i> (quay lò vi sóng).",
+   "ex_kit": true,
+   "example": {
+    "en": "Heat the soup in the <b>microwave</b>.",
+    "vi": "Hâm canh trong <b>lò vi sóng</b>."
+   }
+  },
+  {
+   "word": "tap",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tæp/",
+   "def_en": "A thing that you turn to control water from a pipe.",
+   "def_vi": "Vật vặn để điều chỉnh nước chảy từ ống.",
+   "gloss_vi": "vòi nước",
+   "synonyms": "faucet <i>(n. vòi nước (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tap</i> (noun) = vòi nước. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>turn on/off the tap</i> (mở/khóa vòi).",
+   "ex_kit": true,
+   "example": {
+    "en": "Don’t leave the <b>tap</b> running.",
+    "vi": "Đừng để <b>vòi nước</b> chảy."
+   }
+  },
+  {
+   "word": "worktop",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɜːktɒp/",
+   "def_en": "A flat surface in a kitchen for preparing food.",
+   "def_vi": "Mặt phẳng trong bếp để sơ chế thức ăn.",
+   "gloss_vi": "mặt bếp, bàn bếp",
+   "synonyms": "counter <i>(n. quầy bếp (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Worktop</i> (noun) = mặt bếp, bàn bếp. <b>Grammar</b>: đếm được; Anh–Anh.",
+   "ex_kit": true,
+   "example": {
+    "en": "I cut the vegetables on the <b>worktop</b>.",
+    "vi": "Tôi cắt rau trên <b>mặt bếp</b>."
+   }
+  },
+  {
+   "word": "sink",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/sɪŋk/",
+   "def_en": "A large bowl in a kitchen with taps, where you wash dishes.",
+   "def_vi": "Chậu lớn trong bếp có vòi, để rửa bát.",
+   "gloss_vi": "bồn rửa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sink</i> (noun) = bồn rửa. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>in the sink</i> (trong bồn rửa).",
+   "ex_kit": true,
+   "example": {
+    "en": "The dirty plates are in the <b>sink</b>.",
+    "vi": "Bát bẩn ở trong <b>bồn rửa</b>."
+   }
+  },
+  {
+   "word": "bin",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bɪn/",
+   "def_en": "A container for rubbish.",
+   "def_vi": "Thùng đựng rác.",
+   "gloss_vi": "thùng rác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bin</i> (noun) = thùng rác. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>rubbish bin</i> (thùng rác), <i>empty the bin</i> (đổ rác).",
+   "ex_kit": true,
+   "example": {
+    "en": "Put it in the <b>bin</b>.",
+    "vi": "Bỏ nó vào <b>thùng rác</b>."
+   }
+  },
+  {
+   "word": "washing machine",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈwɒʃɪŋ məʃiːn/",
+   "def_en": "A machine for washing clothes.",
+   "def_vi": "Máy giặt quần áo.",
+   "gloss_vi": "máy giặt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Washing machine</i> (noun phrase) = máy giặt. <b>Grammar</b>: danh từ ghép, đếm được. <b>Collocations / chunks</b>: <i>put clothes in the washing machine</i> (cho quần áo vào máy giặt).",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>washing machine</b> is in the kitchen.",
+    "vi": "<b>Máy giặt</b> ở trong bếp."
+   }
+  },
+  {
+   "word": "cooker",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkʊkə(r)/",
+   "def_en": "A machine with an oven and a place on top for cooking food.",
+   "def_vi": "Thiết bị có lò và mặt trên để nấu.",
+   "gloss_vi": "bếp nấu",
+   "synonyms": "stove <i>(n. bếp (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cooker</i> (noun) = bếp nấu. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: <i>cooker</i> là cái bếp, <i>cook</i> là người nấu.",
+   "ex_kit": true,
+   "example": {
+    "en": "The saucepan is on the <b>cooker</b>.",
+    "vi": "Xoong ở trên <b>bếp</b>."
+   }
+  },
+  {
+   "word": "dishwasher",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdɪʃwɒʃə(r)/",
+   "def_en": "A machine that washes plates, cups and other things.",
+   "def_vi": "Máy rửa bát đĩa.",
+   "gloss_vi": "máy rửa bát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dishwasher</i> (noun) = máy rửa bát. <b>Grammar</b>: đếm được; danh từ ghép <i>dish</i> + <i>washer</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Put the plates in the <b>dishwasher</b>.",
+    "vi": "Cho đĩa vào <b>máy rửa bát</b>."
+   }
+  },
+  {
+   "word": "coffee maker",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈkɒfi meɪkə(r)/",
+   "def_en": "A machine that makes coffee.",
+   "def_vi": "Máy pha cà phê.",
+   "gloss_vi": "máy pha cà phê",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Coffee maker</i> (noun phrase) = máy pha cà phê. <b>Grammar</b>: danh từ ghép, đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "I turn on the <b>coffee maker</b> every morning.",
+    "vi": "Tôi bật <b>máy pha cà phê</b> mỗi sáng."
+   }
+  },
+  {
+   "word": "teapot",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtiːpɒt/",
+   "def_en": "A pot with a handle and spout, used for making tea.",
+   "def_vi": "Bình có quai và vòi, dùng pha trà.",
+   "gloss_vi": "ấm trà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Teapot</i> (noun) = ấm trà. <b>Grammar</b>: đếm được; danh từ ghép viết liền.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>teapot</b> is on the table.",
+    "vi": "<b>Ấm trà</b> ở trên bàn."
+   }
+  },
+  {
+   "word": "saucepan",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɔːspən/",
+   "def_en": "A deep round metal pot with a handle, used for cooking.",
+   "def_vi": "Nồi kim loại sâu, tròn, có cán, dùng nấu ăn.",
+   "gloss_vi": "xoong, nồi có cán",
+   "synonyms": "pan <i>(n. xoong, chảo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Saucepan</i> (noun) = xoong, nồi có cán. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>a large saucepan</i> (xoong to).",
+   "ex_kit": true,
+   "example": {
+    "en": "Boil the eggs in a <b>saucepan</b>.",
+    "vi": "Luộc trứng trong <b>xoong</b>."
+   }
+  },
+  {
+   "word": "kitchen roll",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈkɪtʃɪn rəʊl/",
+   "def_en": "Paper on a roll that you use in the kitchen to clean things.",
+   "def_vi": "Giấy cuộn dùng lau chùi trong bếp.",
+   "gloss_vi": "giấy lau bếp",
+   "synonyms": "paper towel <i>(np. khăn giấy (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Kitchen roll</i> (noun phrase) = giấy lau bếp. <b>Grammar</b>: không đếm được: <i>some kitchen roll</i>.",
+   "example": {
+    "en": "A: Where can I find a mug / a cloth / some <b>kitchen roll</b>?",
+    "vi": "Tôi có thể tìm <b>giấy lau bếp</b> ở đâu?"
+   }
+  },
+  {
+   "word": "tea towel",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈtiː taʊəl/",
+   "def_en": "A cloth for drying plates and cups after washing them.",
+   "def_vi": "Khăn lau khô bát, cốc sau khi rửa.",
+   "gloss_vi": "khăn lau bát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tea towel</i> (noun phrase) = khăn lau bát. <b>Grammar</b>: danh từ ghép, đếm được; Anh–Anh.",
+   "ex_kit": true,
+   "example": {
+    "en": "Dry the plates with a <b>tea towel</b>.",
+    "vi": "Lau khô đĩa bằng <b>khăn lau bát</b>."
+   }
+  },
+  {
+   "word": "washing-up liquid",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌwɒʃɪŋ ˈʌp lɪkwɪd/",
+   "def_en": "Liquid soap for washing plates, pans and cups.",
+   "def_vi": "Xà phòng lỏng rửa bát đĩa.",
+   "gloss_vi": "nước rửa bát",
+   "synonyms": "dish soap <i>(np. nước rửa chén (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Washing-up liquid</i> (noun phrase) = nước rửa bát. <b>Grammar</b>: không đếm được; <i>washing-up</i> = việc rửa bát.",
+   "ex_kit": true,
+   "example": {
+    "en": "We need some more <b>washing-up liquid</b>.",
+    "vi": "Chúng ta hết <b>nước rửa bát</b> rồi."
+   }
+  },
+  {
+   "word": "cloth",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/klɒθ/",
+   "def_en": "A piece of material used for cleaning.",
+   "def_vi": "Mảnh vải dùng lau chùi.",
+   "gloss_vi": "giẻ lau",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cloth</i> (noun) = giẻ lau. <b>Grammar</b>: đếm được khi là giẻ lau: <i>a cloth</i>. <b>Common mistakes</b>: <i>cloth</i> /klɒθ/ khác <i>clothes</i> /kləʊðz/ (quần áo).",
+   "example": {
+    "en": "A: Where can I find a mug / a <b>cloth</b> / some kitchen roll?",
+    "vi": "Tôi có thể tìm <b>giẻ lau</b> ở đâu?"
+   }
+  },
+  {
+   "word": "chopsticks",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈtʃɒpstɪks/",
+   "def_en": "Two thin sticks used for eating, especially in Asia.",
+   "def_vi": "Hai que mảnh dùng ăn, nhất là ở châu Á.",
+   "gloss_vi": "đũa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chopsticks</i> (plural noun) = đũa. <b>Grammar</b>: số nhiều; <i>a pair of chopsticks</i> (một đôi đũa).",
+   "ex_kit": true,
+   "example": {
+    "en": "Can you eat with <b>chopsticks</b>?",
+    "vi": "Bạn ăn bằng <b>đũa</b> được không?"
+   }
+  },
+  {
+   "word": "glass",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɡlɑːs/",
+   "def_en": "A container made of glass for drinking from.",
+   "def_vi": "Đồ đựng bằng thủy tinh để uống.",
+   "gloss_vi": "cốc thủy tinh, ly",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Glass</i> (noun) = cốc thủy tinh, ly. <b>Grammar</b>: số nhiều <i>glasses</i>; <i>a glass of</i> + đồ uống. <b>Common mistakes</b>: <i>glasses</i> còn nghĩa kính mắt.",
+   "ex_kit": true,
+   "example": {
+    "en": "Can I have a <b>glass</b> of water?",
+    "vi": "Cho tôi một <b>cốc</b> nước nhé?"
+   }
+  },
+  {
+   "word": "knife",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/naɪf/",
+   "def_en": "A thing with a sharp edge used for cutting.",
+   "def_vi": "Vật có lưỡi sắc dùng để cắt.",
+   "gloss_vi": "dao",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Knife</i> (noun) = dao. <b>Grammar</b>: số nhiều <i>knives</i> /naɪvz/; chữ <i>k</i> câm. <b>Collocations / chunks</b>: <i>knife and fork</i> (dao nĩa).",
+   "ex_kit": true,
+   "example": {
+    "en": "Cut the bread with this <b>knife</b>.",
+    "vi": "Cắt bánh mì bằng <b>dao</b> này."
+   }
+  },
+  {
+   "word": "fork",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/fɔːk/",
+   "def_en": "A thing with three or four points used for picking up food.",
+   "def_vi": "Dụng cụ có 3–4 răng dùng xiên thức ăn.",
+   "gloss_vi": "nĩa, dĩa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fork</i> (noun) = nĩa, dĩa. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>a knife and fork</i> (dao và nĩa).",
+   "ex_kit": true,
+   "example": {
+    "en": "Eat your pasta with a <b>fork</b>.",
+    "vi": "Ăn mì Ý bằng <b>nĩa</b>."
+   }
+  },
+  {
+   "word": "spoon",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/spuːn/",
+   "def_en": "A thing with a small bowl at the end, used for eating soup or stirring.",
+   "def_vi": "Dụng cụ có đầu lõm để ăn canh hoặc khuấy.",
+   "gloss_vi": "thìa, muỗng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spoon</i> (noun) = thìa, muỗng. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>teaspoon</i> (thìa cà phê).",
+   "ex_kit": true,
+   "example": {
+    "en": "I need a <b>spoon</b> for my soup.",
+    "vi": "Tôi cần một cái <b>thìa</b> để ăn canh."
+   }
+  },
+  {
+   "word": "cup",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kʌp/",
+   "def_en": "A small round container with a handle for hot drinks.",
+   "def_vi": "Đồ đựng nhỏ tròn có quai, uống đồ nóng.",
+   "gloss_vi": "tách, chén",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cup</i> (noun) = tách, chén. <b>Grammar</b>: đếm được; <i>a cup of tea/coffee</i>. <b>Collocations / chunks</b>: <i>cup and saucer</i> (tách và đĩa lót).",
+   "example": {
+    "en": "A: Where does this <b>cup</b> / plate / frying pan go?",
+    "vi": "Cái <b>tách</b> này để đâu?"
+   }
+  },
+  {
+   "word": "bowl",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bəʊl/",
+   "def_en": "A deep round dish for food such as soup or rice.",
+   "def_vi": "Đĩa sâu tròn đựng canh hoặc cơm.",
+   "gloss_vi": "bát, tô",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bowl</i> (noun) = bát, tô. <b>Grammar</b>: đếm được; <i>a bowl of</i> + thức ăn. <b>Common mistakes</b>: đọc /bəʊl/.",
+   "ex_kit": true,
+   "example": {
+    "en": "I had a <b>bowl</b> of rice.",
+    "vi": "Tôi ăn một <b>bát</b> cơm."
+   }
+  },
+  {
+   "word": "mug",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/mʌɡ/",
+   "def_en": "A large cup with straight sides and a handle.",
+   "def_vi": "Cốc to thành thẳng có quai.",
+   "gloss_vi": "cốc vại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mug</i> (noun) = cốc vại. <b>Grammar</b>: đếm được; <i>a mug of tea</i>. <b>Common mistakes</b>: to hơn <i>cup</i>, thường không có đĩa lót.",
+   "example": {
+    "en": "A: Where can I find a <b>mug</b> / a cloth / some kitchen roll?",
+    "vi": "Tôi có thể tìm <b>cốc</b> ở đâu?"
+   }
+  },
+  {
+   "word": "plate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pleɪt/",
+   "def_en": "A flat round dish that you eat food from.",
+   "def_vi": "Đĩa phẳng tròn đựng thức ăn.",
+   "gloss_vi": "đĩa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Plate</i> (noun) = đĩa. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>dry the plates</i> (lau khô đĩa), <i>a plate of</i> (một đĩa…).",
+   "example": {
+    "en": "You can dry the <b>plates</b>. / You can cook some rice.",
+    "vi": "Bạn có thể lau khô <b>đĩa</b>."
+   }
+  },
+  {
+   "word": "washing-up",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˌwɒʃɪŋ ˈʌp/",
+   "def_en": "The job of washing the plates, cups and pans after a meal.",
+   "def_vi": "Việc rửa bát đĩa sau bữa ăn.",
+   "gloss_vi": "việc rửa bát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Washing-up</i> (uncountable noun) = việc rửa bát. <b>Grammar</b>: không đếm được: <i>do the washing-up</i> (rửa bát); Anh–Anh. <b>Word family</b>: <i>wash up</i> (v.).",
+   "example": {
+    "en": "A: Can I help with the <b>washing-up</b> / cooking?",
+    "vi": "Tôi giúp <b>rửa bát</b> nhé?"
+   }
+  },
+  {
+   "word": "dry",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/draɪ/",
+   "def_en": "To make something dry.",
+   "def_vi": "Làm cho khô.",
+   "gloss_vi": "lau khô",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "wet <i>(v. làm ướt)</i>",
+   "grammar_vi": "<i>Dry</i> (verb) = lau khô. <b>Grammar</b>: quá khứ <i>dried</i>; cũng là tính từ <i>dry</i> (khô). <b>Collocations / chunks</b>: <i>dry the dishes</i> (lau khô bát đĩa).",
+   "example": {
+    "en": "You can <b>dry</b> the plates. / You can cook some rice.",
+    "vi": "Có! Bạn có thể <b>lau khô</b> đĩa."
+   }
+  }
+ ]
+}

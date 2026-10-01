@@ -1,0 +1,437 @@
+{
+ "book": "ele",
+ "unit": 13,
+ "title_vi": "Trong phòng khách",
+ "theory_html": "<p><b>A. Things in the living room</b><br><i>A. Đồ đạc trong phòng khách</i></p> <ul><li><b>bookshelf (bookshelves), books, light, lamp, window, curtains, picture, light switch, TV, hi-fi, sofa, armchair, chair, table, coffee table, socket, remote control, phone, rug, carpet</b> – <i>giá sách, sách, đèn, đèn bàn, cửa sổ, rèm, tranh, công tắc đèn, ti vi, dàn âm thanh, ghế sofa, ghế bành, ghế, bàn, bàn uống nước, ổ cắm, điều khiển, điện thoại, thảm nhỏ, thảm trải sàn</i></li></ul> <p><b>B. Useful verbs</b><br><i>B. Động từ hữu ích</i></p> <p><b>Every evening I watch television. Sometimes I listen to the radio or listen to music, read a book, or just relax</b> (rest and do nothing).</p><p><i><b>Tối nào tôi cũng xem ti vi. Thỉnh thoảng tôi nghe đài hoặc nghe nhạc, đọc sách, hoặc chỉ nghỉ ngơi.</b></i></p> <p><b>C. Expressions</b><br><i>C. Cách nói</i></p> <p><b>Can you close the curtains, please? – I’ll switch the light on. – Can you turn the radio off and pass me the remote control? I want to turn on the TV.</b> <b>Furniture</b> is singular: <b>The furniture is white.</b></p><p><i><b>Kéo rèm giúp nhé? – Để tôi bật đèn. – Tắt đài và đưa tôi cái điều khiển nhé? Tôi muốn bật ti vi.</b> <b>Furniture</b> là danh từ số ít.</i></p>",
+ "items": [
+  {
+   "word": "bookshelf",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbʊkʃelf/",
+   "def_en": "A shelf for keeping books on.",
+   "def_vi": "Kệ để sách.",
+   "gloss_vi": "giá sách",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bookshelf</i> (noun) = giá sách. <b>Grammar</b>: số nhiều <i>bookshelves</i> /ˈbʊkʃelvz/. <b>Word family</b>: <i>book</i> + <i>shelf</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "My books are on the <b>bookshelf</b>.",
+    "vi": "Sách của tôi ở trên <b>giá sách</b>."
+   }
+  },
+  {
+   "word": "light",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/laɪt/",
+   "def_en": "A thing that gives light, such as an electric lamp.",
+   "def_vi": "Vật phát sáng, như đèn điện.",
+   "gloss_vi": "đèn",
+   "synonyms": "lamp <i>(n. đèn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Light</i> (noun) = đèn. <b>Grammar</b>: đếm được khi là cái đèn. <b>Collocations / chunks</b>: <i>switch/turn the light on/off</i> (bật/tắt đèn).",
+   "example": {
+    "en": "OK. And I’ll switch the <b>light</b> on.",
+    "vi": "OK. Để tôi <b>bật đèn</b>."
+   }
+  },
+  {
+   "word": "window",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɪndəʊ/",
+   "def_en": "An opening in a wall with glass in it, to let in light and air.",
+   "def_vi": "Ô trên tường có kính, cho ánh sáng và gió vào.",
+   "gloss_vi": "cửa sổ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Window</i> (noun) = cửa sổ. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>open/close the window</i> (mở/đóng cửa sổ).",
+   "ex_kit": true,
+   "example": {
+    "en": "Open the <b>window</b> – it’s hot.",
+    "vi": "Mở <b>cửa sổ</b> ra đi – nóng quá."
+   }
+  },
+  {
+   "word": "curtains",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈkɜːtnz/",
+   "def_en": "Pieces of cloth that hang over a window.",
+   "def_vi": "Mảnh vải treo che cửa sổ.",
+   "gloss_vi": "rèm cửa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Curtains</i> (plural noun) = rèm cửa. <b>Grammar</b>: số ít <i>a curtain</i>, thường dùng số nhiều. <b>Collocations / chunks</b>: <i>close/open the curtains</i> (kéo/mở rèm).",
+   "example": {
+    "en": "It’s getting dark. Can you <b>close the curtains</b>, please?",
+    "vi": "Trời sắp tối. Bạn kéo <b>rèm</b> giúp được không?"
+   }
+  },
+  {
+   "word": "lamp",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/læmp/",
+   "def_en": "A small light that stands on a table or on the floor.",
+   "def_vi": "Đèn nhỏ đặt trên bàn hoặc sàn.",
+   "gloss_vi": "đèn bàn",
+   "synonyms": "light <i>(n. đèn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lamp</i> (noun) = đèn bàn. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>bedside lamp</i> (đèn đầu giường).",
+   "ex_kit": true,
+   "example": {
+    "en": "There’s a <b>lamp</b> next to the sofa.",
+    "vi": "Có một chiếc <b>đèn bàn</b> cạnh ghế sofa."
+   }
+  },
+  {
+   "word": "picture",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɪktʃə(r)/",
+   "def_en": "A painting, drawing or photo.",
+   "def_vi": "Bức vẽ, bức họa hoặc ảnh.",
+   "gloss_vi": "bức tranh",
+   "synonyms": "painting <i>(n. tranh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Picture</i> (noun) = bức tranh. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>on the wall</i> (trên tường).",
+   "ex_kit": true,
+   "example": {
+    "en": "There’s a <b>picture</b> on the wall.",
+    "vi": "Có một <b>bức tranh</b> trên tường."
+   }
+  },
+  {
+   "word": "light switch",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈlaɪt swɪtʃ/",
+   "def_en": "A switch that you press to turn a light on or off.",
+   "def_vi": "Công tắc để bật tắt đèn.",
+   "gloss_vi": "công tắc đèn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Light switch</i> (noun phrase) = công tắc đèn. <b>Grammar</b>: danh từ ghép, số nhiều <i>light switches</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>light switch</b> is by the door.",
+    "vi": "<b>Công tắc đèn</b> ở cạnh cửa."
+   }
+  },
+  {
+   "word": "TV",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌtiː ˈviː/",
+   "def_en": "A television.",
+   "def_vi": "Ti vi.",
+   "gloss_vi": "ti vi",
+   "synonyms": "television <i>(n. truyền hình)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>TV</i> (noun) = ti vi. <b>Grammar</b>: <i>on TV</i> (trên ti vi); <i>watch TV</i> không dùng <i>the</i>.",
+   "example": {
+    "en": "I want to <b>turn on the TV</b>. There’s a good programme on.",
+    "vi": "Tôi muốn <b>bật ti vi</b>. Có chương trình hay."
+   }
+  },
+  {
+   "word": "hi-fi",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhaɪ faɪ/",
+   "def_en": "Equipment for playing music with good sound.",
+   "def_vi": "Thiết bị phát nhạc âm thanh tốt.",
+   "gloss_vi": "dàn âm thanh",
+   "synonyms": "stereo <i>(n. dàn âm thanh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hi-fi</i> (noun) = dàn âm thanh. <b>Grammar</b>: đếm được; viết có gạch nối.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>hi-fi</b> is next to the TV.",
+    "vi": "<b>Dàn âm thanh</b> ở cạnh ti vi."
+   }
+  },
+  {
+   "word": "sofa",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsəʊfə/",
+   "def_en": "A long comfortable seat for two or more people.",
+   "def_vi": "Ghế dài êm cho hai người trở lên.",
+   "gloss_vi": "ghế sofa",
+   "synonyms": "couch <i>(n. trường kỷ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sofa</i> (noun) = ghế sofa. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>sit on the sofa</i> (ngồi trên sofa).",
+   "ex_kit": true,
+   "example": {
+    "en": "We sit on the <b>sofa</b> and watch TV.",
+    "vi": "Chúng tôi ngồi <b>sofa</b> xem ti vi."
+   }
+  },
+  {
+   "word": "armchair",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɑːmtʃeə(r)/",
+   "def_en": "A comfortable chair with sides for your arms.",
+   "def_vi": "Ghế êm có chỗ để tay.",
+   "gloss_vi": "ghế bành",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Armchair</i> (noun) = ghế bành. <b>Grammar</b>: đếm được; <i>in an armchair</i> (ngồi trong ghế bành).",
+   "ex_kit": true,
+   "example": {
+    "en": "Grandad reads the paper in his <b>armchair</b>.",
+    "vi": "Ông ngồi đọc báo trên <b>ghế bành</b>."
+   }
+  },
+  {
+   "word": "coffee table",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈkɒfi teɪbl/",
+   "def_en": "A low table in a living room.",
+   "def_vi": "Bàn thấp trong phòng khách.",
+   "gloss_vi": "bàn uống nước",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Coffee table</i> (noun phrase) = bàn uống nước. <b>Grammar</b>: danh từ ghép, đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The remote is on the <b>coffee table</b>.",
+    "vi": "Điều khiển ở trên <b>bàn uống nước</b>."
+   }
+  },
+  {
+   "word": "socket",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɒkɪt/",
+   "def_en": "A place in a wall where you connect electrical equipment.",
+   "def_vi": "Chỗ trên tường để cắm thiết bị điện.",
+   "gloss_vi": "ổ cắm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Socket</i> (noun) = ổ cắm. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>plug sth into a socket</i> (cắm vào ổ).",
+   "ex_kit": true,
+   "example": {
+    "en": "Plug the lamp into the <b>socket</b>.",
+    "vi": "Cắm đèn vào <b>ổ cắm</b>."
+   }
+  },
+  {
+   "word": "remote control",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/rɪˌməʊt kənˈtrəʊl/",
+   "def_en": "A small thing for operating a TV from a distance.",
+   "def_vi": "Thiết bị nhỏ điều khiển ti vi từ xa.",
+   "gloss_vi": "điều khiển từ xa",
+   "synonyms": "remote <i>(n. điều khiển (thân mật))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Remote control</i> (noun phrase) = điều khiển từ xa. <b>Grammar</b>: đếm được; nói tắt <i>the remote</i>. <b>Collocations / chunks</b>: <i>pass me the remote</i> (đưa tôi điều khiển).",
+   "example": {
+    "en": "And <b>pass me the remote control</b>.",
+    "vi": "Đưa tôi <b>cái điều khiển</b> nhé."
+   }
+  },
+  {
+   "word": "rug",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rʌɡ/",
+   "def_en": "A small carpet.",
+   "def_vi": "Tấm thảm nhỏ.",
+   "gloss_vi": "thảm nhỏ",
+   "synonyms": "mat <i>(n. tấm lót)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rug</i> (noun) = thảm nhỏ. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: <i>rug</i> nhỏ, <i>carpet</i> phủ cả sàn.",
+   "ex_kit": true,
+   "example": {
+    "en": "The cat is asleep on the <b>rug</b>.",
+    "vi": "Con mèo ngủ trên <b>thảm</b>."
+   }
+  },
+  {
+   "word": "carpet",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɑːpɪt/",
+   "def_en": "A thick material that covers a floor.",
+   "def_vi": "Vật liệu dày phủ sàn nhà.",
+   "gloss_vi": "thảm trải sàn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Carpet</i> (noun) = thảm trải sàn. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>on the carpet</i> (trên thảm).",
+   "ex_kit": true,
+   "example": {
+    "en": "The living room has a blue <b>carpet</b>.",
+    "vi": "Phòng khách có <b>thảm</b> xanh."
+   }
+  },
+  {
+   "word": "chair",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tʃeə(r)/",
+   "def_en": "A seat for one person with a back and four legs.",
+   "def_vi": "Ghế một người có lưng tựa và bốn chân.",
+   "gloss_vi": "ghế",
+   "synonyms": "seat <i>(n. chỗ ngồi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chair</i> (noun) = ghế. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>sit on a chair</i> (ngồi ghế).",
+   "ex_kit": true,
+   "example": {
+    "en": "Pull up a <b>chair</b> and sit down.",
+    "vi": "Kéo một chiếc <b>ghế</b> lại ngồi đi."
+   }
+  },
+  {
+   "word": "watch television",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌwɒtʃ ˈtelɪvɪʒn/",
+   "def_en": "To look at programmes on television.",
+   "def_vi": "Xem chương trình ti vi.",
+   "gloss_vi": "xem ti vi",
+   "synonyms": "watch TV <i>(vp. xem ti vi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Watch television</i> (verb phrase) = xem ti vi. <b>Grammar</b>: <i>watch</i> + <i>television/TV</i> không có <i>the</i>. <b>Common mistakes</b>: không nói <i>see TV</i>.",
+   "example": {
+    "en": "Every evening I <b>watch television</b>.",
+    "vi": "Tối nào tôi cũng <b>xem ti vi</b>."
+   }
+  },
+  {
+   "word": "listen to the radio",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌlɪsn tə ðə ˈreɪdiəu/",
+   "def_en": "To hear programmes on the radio.",
+   "def_vi": "Nghe chương trình trên đài.",
+   "gloss_vi": "nghe đài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Listen to the radio</i> (verb phrase) = nghe đài. <b>Grammar</b>: <i>listen to</i> + tân ngữ; dùng <i>the radio</i> (khác <i>watch TV</i>). <b>Common mistakes</b>: không bỏ <i>to</i>.",
+   "example": {
+    "en": "Sometimes I <b>listen to the radio</b> or listen to music.",
+    "vi": "Thỉnh thoảng tôi <b>nghe đài</b> hoặc nghe nhạc."
+   }
+  },
+  {
+   "word": "listen to music",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌlɪsn tə ˈmjuːzɪk/",
+   "def_en": "To hear music.",
+   "def_vi": "Nghe nhạc.",
+   "gloss_vi": "nghe nhạc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Listen to music</i> (verb phrase) = nghe nhạc. <b>Grammar</b>: <i>listen to music</i> không có <i>the</i>. <b>Common mistakes</b>: không nói <i>listen music</i>.",
+   "example": {
+    "en": "Sometimes I listen to the radio or <b>listen to music</b>.",
+    "vi": "Thỉnh thoảng tôi nghe đài hoặc <b>nghe nhạc</b>."
+   }
+  },
+  {
+   "word": "read a book",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌriːd ə ˈbʊk/",
+   "def_en": "To look at and understand the words in a book.",
+   "def_vi": "Đọc một cuốn sách.",
+   "gloss_vi": "đọc sách",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Read a book</i> (verb phrase) = đọc sách. <b>Grammar</b>: quá khứ <i>read</i> /red/. <b>Collocations / chunks</b>: <i>read a newspaper</i> (đọc báo).",
+   "example": {
+    "en": "Sometimes I <b>read a book</b>.",
+    "vi": "Thỉnh thoảng tôi <b>đọc sách</b>."
+   }
+  },
+  {
+   "word": "close the curtains",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌkləʊz ðə ˈkɜːtnz/",
+   "def_en": "To pull the curtains across a window.",
+   "def_vi": "Kéo rèm che cửa sổ.",
+   "gloss_vi": "kéo rèm",
+   "synonyms": "draw the curtains <i>(vp. kéo rèm)</i>",
+   "antonyms": "open the curtains <i>(vp. mở rèm)</i>",
+   "grammar_vi": "<i>Close the curtains</i> (verb phrase) = kéo rèm. <b>Grammar</b>: <i>close</i> + <i>the curtains</i>. <b>Collocations / chunks</b>: <i>Can you close the curtains, please?</i>.",
+   "example": {
+    "en": "It’s getting dark. Can you <b>close the curtains</b>, please?",
+    "vi": "Bạn <b>kéo rèm</b> giúp được không?"
+   }
+  },
+  {
+   "word": "switch on",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌswɪtʃ ˈɒn/",
+   "def_en": "To make a light or machine start working by pressing a switch.",
+   "def_vi": "Bật đèn hay máy bằng công tắc.",
+   "gloss_vi": "bật",
+   "synonyms": "turn on <i>(pv. bật)</i>",
+   "antonyms": "switch off <i>(pv. tắt)</i>",
+   "grammar_vi": "<i>Switch on</i> (phrasal verb) = bật. <b>Grammar</b>: tách được: <i>switch the light on / switch it on</i>.",
+   "example": {
+    "en": "OK. And I’ll <b>switch the light on</b>.",
+    "vi": "OK. Để tôi <b>bật đèn</b>."
+   }
+  },
+  {
+   "word": "pass",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/pɑːs/",
+   "def_en": "To give something to someone by putting it in their hand.",
+   "def_vi": "Đưa vật gì cho ai.",
+   "gloss_vi": "đưa, chuyền",
+   "synonyms": "hand <i>(v. đưa)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pass</i> (verb) = đưa, chuyền. <b>Grammar</b>: <i>pass sb sth</i> hoặc <i>pass sth to sb</i>. <b>Collocations / chunks</b>: <i>Pass me the salt, please.</i> (đưa tôi lọ muối).",
+   "example": {
+    "en": "And <b>pass</b> me the remote control.",
+    "vi": "Và <b>đưa</b> tôi cái điều khiển."
+   }
+  },
+  {
+   "word": "turn on",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌtɜːn ˈɒn/",
+   "def_en": "To make a machine start working by pressing a switch or button.",
+   "def_vi": "Bật máy bằng công tắc hay nút.",
+   "gloss_vi": "bật",
+   "synonyms": "switch on <i>(pv. bật)</i>",
+   "antonyms": "turn off <i>(pv. tắt)</i>",
+   "grammar_vi": "<i>Turn on</i> (phrasal verb) = bật. <b>Grammar</b>: tách được: <i>turn on the TV / turn it on</i>.",
+   "example": {
+    "en": "I want to <b>turn on the TV</b>.",
+    "vi": "Tôi muốn <b>bật ti vi</b>."
+   }
+  },
+  {
+   "word": "furniture",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈfɜːnɪtʃə(r)/",
+   "def_en": "Things such as chairs, tables and beds that you put in a room.",
+   "def_vi": "Đồ như ghế, bàn, giường đặt trong phòng.",
+   "gloss_vi": "đồ nội thất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Furniture</i> (uncountable noun) = đồ nội thất. <b>Grammar</b>: không đếm được, động từ số ít: <i>The furniture is white</i>; <i>a piece of furniture</i>. <b>Common mistakes</b>: không nói <i>furnitures</i>.",
+   "example": {
+    "en": "The <b>furniture</b> in my room is white [NOT The furniture in my room are white].",
+    "vi": "<b>Đồ đạc</b> trong phòng tôi màu trắng."
+   }
+  }
+ ]
+}

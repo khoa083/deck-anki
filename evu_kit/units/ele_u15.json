@@ -1,0 +1,608 @@
+{
+ "book": "ele",
+ "unit": 15,
+ "title_vi": "Ở trường học và đại học",
+ "theory_html": "<p><b>A. Subjects</b><br><i>A. Môn học</i></p> <ul><li><b>English, maths, history, geography, biology, art, modern languages, physics, chemistry, music, PE (physical education), ICT (information and communication technology)</b> – <i>tiếng Anh, toán, lịch sử, địa lý, sinh học, mỹ thuật, ngoại ngữ, vật lý, hóa học, âm nhạc, thể dục, tin học</i></li></ul> <p><b>B. Useful things</b><br><i>B. Đồ dùng hữu ích</i></p> <ul><li><b>noticeboard, notebook, board, whiteboard, pencil, pencil sharpener, pen, board pen, board rubber, rubber, ruler, piece of paper, textbook, drawing pin, OHP, DVD player, desk, computer</b> – <i>bảng tin, vở, bảng, bảng trắng, bút chì, gọt bút chì, bút mực, bút viết bảng, khăn lau bảng, tẩy, thước kẻ, tờ giấy, sách giáo khoa, đinh ghim, máy chiếu, đầu DVD, bàn học, máy tính</i></li></ul> <p><b>C. Expressions</b><br><i>C. Cách nói</i></p> <p>A maths <b>teacher teaches</b> maths; her <b>students study</b> it. Children <b>go to school</b>, students <b>go to university</b>; children <b>learn to read and write</b>. You <b>do a course</b>, <b>take / do an exam</b>, hope to <b>pass</b> (not <b>fail</b>) it, and at university <b>get a degree</b>. Students <b>do homework</b> (not <b>make homework</b>).</p><p><i>Giáo viên toán <b>dạy</b> toán; học sinh <b>học</b> toán. Trẻ <b>đi học</b>, sinh viên <b>học đại học</b>; trẻ <b>học đọc và viết</b>. Ta <b>theo học khóa</b>, <b>dự thi</b>, mong <b>đỗ</b> chứ không <b>trượt</b>, ở đại học thì <b>lấy bằng</b>. <b>do homework</b> (làm bài tập về nhà).</i></p>",
+ "items": [
+  {
+   "word": "maths",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/mæθs/",
+   "def_en": "The study of numbers and shapes.",
+   "def_vi": "Môn học về số và hình.",
+   "gloss_vi": "môn toán",
+   "synonyms": "mathematics <i>(un. toán học)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Maths</i> (uncountable noun) = môn toán. <b>Grammar</b>: không đếm được, động từ số ít dù có <i>-s</i>: <i>Maths is my favourite subject</i>; Anh–Mỹ: <i>math</i>.",
+   "example": {
+    "en": "A maths teacher teaches <b>maths</b>.",
+    "vi": "Giáo viên toán dạy <b>toán</b>."
+   }
+  },
+  {
+   "word": "history",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈhɪstri/",
+   "def_en": "The study of what happened in the past.",
+   "def_vi": "Môn học về những gì đã xảy ra trong quá khứ.",
+   "gloss_vi": "lịch sử",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>History</i> (uncountable noun) = lịch sử. <b>Grammar</b>: không đếm được khi là môn học. <b>Word family</b>: <i>historical</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "I love learning <b>history</b>, especially ancient Egypt.",
+    "vi": "Tôi thích học <b>lịch sử</b> Ai Cập cổ đại."
+   }
+  },
+  {
+   "word": "geography",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/dʒiˈɒɡrəfi/",
+   "def_en": "The study of the countries, rivers, mountains and weather of the world.",
+   "def_vi": "Môn học về các nước, sông, núi, thời tiết trên thế giới.",
+   "gloss_vi": "địa lý",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Geography</i> (uncountable noun) = địa lý. <b>Grammar</b>: không đếm được; trọng âm âm 2.",
+   "ex_kit": true,
+   "example": {
+    "en": "In <b>geography</b> we learn about rivers.",
+    "vi": "Trong giờ <b>địa lý</b> chúng tôi học về sông ngòi."
+   }
+  },
+  {
+   "word": "biology",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/baɪˈɒlədʒi/",
+   "def_en": "The study of living things.",
+   "def_vi": "Môn học về sinh vật.",
+   "gloss_vi": "sinh học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Biology</i> (uncountable noun) = sinh học. <b>Grammar</b>: không đếm được; trọng âm âm 2. <b>Word family</b>: <i>biologist</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "We study the human body in <b>biology</b>.",
+    "vi": "Chúng tôi học về cơ thể người trong giờ <b>sinh học</b>."
+   }
+  },
+  {
+   "word": "art",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ɑːt/",
+   "def_en": "The study of painting, drawing and other ways of making pictures.",
+   "def_vi": "Môn vẽ tranh, phác họa và tạo hình.",
+   "gloss_vi": "mỹ thuật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Art</i> (uncountable noun) = mỹ thuật. <b>Grammar</b>: không đếm được khi là môn học. <b>Word family</b>: <i>artist</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "In <b>art</b> we paint pictures.",
+    "vi": "Trong giờ <b>mỹ thuật</b> chúng tôi vẽ tranh."
+   }
+  },
+  {
+   "word": "modern languages",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌmɒdn ˈlæŋɡwɪdʒɪz/",
+   "def_en": "The study of foreign languages that people speak today.",
+   "def_vi": "Môn học các ngoại ngữ ngày nay.",
+   "gloss_vi": "ngoại ngữ",
+   "synonyms": "foreign languages <i>(np. ngoại ngữ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Modern languages</i> (noun phrase) = ngoại ngữ. <b>Grammar</b>: luôn số nhiều.",
+   "ex_kit": true,
+   "example": {
+    "en": "My sister studies <b>modern languages</b> – French and Spanish.",
+    "vi": "Chị tôi học <b>ngoại ngữ</b> – tiếng Pháp và tiếng Tây Ban Nha."
+   }
+  },
+  {
+   "word": "physics",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈfɪzɪks/",
+   "def_en": "The study of things such as heat, light, sound and electricity.",
+   "def_vi": "Môn học về nhiệt, ánh sáng, âm thanh, điện.",
+   "gloss_vi": "vật lý",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Physics</i> (uncountable noun) = vật lý. <b>Grammar</b>: không đếm được, động từ số ít dù có <i>-s</i>. <b>Word family</b>: <i>physicist</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Physics</b> is my most difficult subject.",
+    "vi": "<b>Vật lý</b> là môn khó nhất của tôi."
+   }
+  },
+  {
+   "word": "chemistry",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈkemɪstri/",
+   "def_en": "The study of substances and how they change.",
+   "def_vi": "Môn học về chất và sự biến đổi của chúng.",
+   "gloss_vi": "hóa học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chemistry</i> (uncountable noun) = hóa học. <b>Grammar</b>: không đếm được; <i>ch</i> đọc /k/. <b>Word family</b>: <i>chemist</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "We do experiments in <b>chemistry</b>.",
+    "vi": "Chúng tôi làm thí nghiệm trong giờ <b>hóa</b>."
+   }
+  },
+  {
+   "word": "music",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈmjuːzɪk/",
+   "def_en": "The study of making and understanding music.",
+   "def_vi": "Môn học về âm nhạc.",
+   "gloss_vi": "âm nhạc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Music</i> (uncountable noun) = âm nhạc. <b>Grammar</b>: không đếm được. <b>Word family</b>: <i>musician</i> (n.), <i>musical</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "We sing songs in <b>music</b>.",
+    "vi": "Trong giờ <b>âm nhạc</b> chúng tôi hát."
+   }
+  },
+  {
+   "word": "PE",
+   "sense": "",
+   "pos": "abbreviation",
+   "ipa": "/ˌpiː ˈiː/",
+   "def_en": "Physical education; sport and exercise taught at school.",
+   "def_vi": "Giáo dục thể chất; thể thao và vận động ở trường.",
+   "gloss_vi": "thể dục",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>PE</i> (abbreviation) = thể dục. <b>Grammar</b>: viết tắt của <i>physical education</i>; không dùng <i>the</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We have <b>PE</b> on Tuesdays.",
+    "vi": "Chúng tôi có giờ <b>thể dục</b> vào thứ Ba."
+   }
+  },
+  {
+   "word": "ICT",
+   "sense": "",
+   "pos": "abbreviation",
+   "ipa": "/ˌaɪ siː ˈtiː/",
+   "def_en": "Information and communication technology; the study of computers.",
+   "def_vi": "Công nghệ thông tin và truyền thông; môn tin học.",
+   "gloss_vi": "tin học",
+   "synonyms": "IT <i>(abbr. công nghệ thông tin)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>ICT</i> (abbreviation) = tin học. <b>Grammar</b>: viết tắt; không dùng <i>the</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We use computers in <b>ICT</b>.",
+    "vi": "Trong giờ <b>tin học</b> chúng tôi dùng máy tính."
+   }
+  },
+  {
+   "word": "noticeboard",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈnəʊtɪsbɔːd/",
+   "def_en": "A board on a wall where notices are put.",
+   "def_vi": "Bảng trên tường để dán thông báo.",
+   "gloss_vi": "bảng tin",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Noticeboard</i> (noun) = bảng tin. <b>Grammar</b>: đếm được; Anh–Anh. <b>Collocations / chunks</b>: <i>on the noticeboard</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The exam timetable is on the <b>noticeboard</b>.",
+    "vi": "Lịch thi ở trên <b>bảng tin</b>."
+   }
+  },
+  {
+   "word": "notebook",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈnəʊtbʊk/",
+   "def_en": "A book with empty pages for writing notes in.",
+   "def_vi": "Sổ trang trống để ghi chép.",
+   "gloss_vi": "vở, sổ ghi chép",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Notebook</i> (noun) = vở, sổ ghi chép. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: cũng chỉ máy tính xách tay nhỏ.",
+   "ex_kit": true,
+   "example": {
+    "en": "Write the new words in your <b>notebook</b>.",
+    "vi": "Ghi từ mới vào <b>vở</b>."
+   }
+  },
+  {
+   "word": "board",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bɔːd/",
+   "def_en": "A flat surface on a classroom wall that the teacher writes on.",
+   "def_vi": "Mặt phẳng trên tường lớp để giáo viên viết.",
+   "gloss_vi": "bảng",
+   "synonyms": "whiteboard <i>(n. bảng trắng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Board</i> (noun) = bảng. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>on the board</i> (trên bảng).",
+   "ex_kit": true,
+   "example": {
+    "en": "The teacher wrote the word on the <b>board</b>.",
+    "vi": "Cô giáo viết từ lên <b>bảng</b>."
+   }
+  },
+  {
+   "word": "whiteboard",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwaɪtbɔːd/",
+   "def_en": "A white board that you write on with special pens.",
+   "def_vi": "Bảng trắng viết bằng bút đặc biệt.",
+   "gloss_vi": "bảng trắng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Whiteboard</i> (noun) = bảng trắng. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>interactive whiteboard</i> (bảng tương tác).",
+   "ex_kit": true,
+   "example": {
+    "en": "Our classroom has a new <b>whiteboard</b>.",
+    "vi": "Lớp chúng tôi có <b>bảng trắng</b> mới."
+   }
+  },
+  {
+   "word": "pencil",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpensl/",
+   "def_en": "A thin wooden stick with grey material inside, used for writing or drawing.",
+   "def_vi": "Que gỗ mảnh có ruột chì để viết, vẽ.",
+   "gloss_vi": "bút chì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "pen <i>(n. bút mực)</i>",
+   "grammar_vi": "<i>Pencil</i> (noun) = bút chì. <b>Grammar</b>: <i>in pencil</i> (bằng bút chì) không dùng <i>a</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Write your name in <b>pencil</b>.",
+    "vi": "Viết tên bạn bằng <b>bút chì</b>."
+   }
+  },
+  {
+   "word": "pencil sharpener",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈpensl ʃɑːpənə(r)/",
+   "def_en": "A small thing for making pencils sharp.",
+   "def_vi": "Dụng cụ nhỏ để gọt bút chì.",
+   "gloss_vi": "gọt bút chì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pencil sharpener</i> (noun phrase) = gọt bút chì. <b>Grammar</b>: danh từ ghép, đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "Can I borrow your <b>pencil sharpener</b>?",
+    "vi": "Cho tôi mượn <b>gọt bút chì</b> nhé?"
+   }
+  },
+  {
+   "word": "pen",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pen/",
+   "def_en": "A thing used for writing with ink.",
+   "def_vi": "Dụng cụ viết bằng mực.",
+   "gloss_vi": "bút mực",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "pencil <i>(n. bút chì)</i>",
+   "grammar_vi": "<i>Pen</i> (noun) = bút mực. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>in pen</i> (bằng bút mực).",
+   "ex_kit": true,
+   "example": {
+    "en": "I forgot my <b>pen</b>.",
+    "vi": "Tôi quên mang <b>bút</b>."
+   }
+  },
+  {
+   "word": "rubber",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈrʌbə(r)/",
+   "def_en": "A small piece of rubber used to remove pencil marks.",
+   "def_vi": "Miếng cao su nhỏ để xóa vết bút chì.",
+   "gloss_vi": "cục tẩy",
+   "synonyms": "eraser <i>(n. cục tẩy (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rubber</i> (noun) = cục tẩy. <b>Grammar</b>: đếm được; Anh–Anh.",
+   "ex_kit": true,
+   "example": {
+    "en": "Use a <b>rubber</b> to correct your mistakes.",
+    "vi": "Dùng <b>tẩy</b> để xóa lỗi sai."
+   }
+  },
+  {
+   "word": "ruler",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈruːlə(r)/",
+   "def_en": "A long flat piece of plastic or wood for measuring and drawing straight lines.",
+   "def_vi": "Thanh nhựa hay gỗ dẹt để đo, kẻ thẳng.",
+   "gloss_vi": "thước kẻ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ruler</i> (noun) = thước kẻ. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "Draw a line with a <b>ruler</b>.",
+    "vi": "Kẻ một đường bằng <b>thước</b>."
+   }
+  },
+  {
+   "word": "piece of paper",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌpiːs əv ˈpeɪpə(r)/",
+   "def_en": "A single sheet of paper.",
+   "def_vi": "Một tờ giấy.",
+   "gloss_vi": "tờ giấy",
+   "synonyms": "sheet of paper <i>(np. tờ giấy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Piece of paper</i> (noun phrase) = tờ giấy. <b>Grammar</b>: <i>paper</i> không đếm được, đếm bằng <i>a piece of paper</i>. <b>Common mistakes</b>: không nói <i>a paper</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Write your answers on a <b>piece of paper</b>.",
+    "vi": "Viết câu trả lời lên <b>một tờ giấy</b>."
+   }
+  },
+  {
+   "word": "textbook",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtekstbʊk/",
+   "def_en": "A book used for studying a subject.",
+   "def_vi": "Sách dùng để học một môn.",
+   "gloss_vi": "sách giáo khoa",
+   "synonyms": "coursebook <i>(n. giáo trình)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Textbook</i> (noun) = sách giáo khoa. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>at page 20</i> (ở trang 20).",
+   "ex_kit": true,
+   "example": {
+    "en": "Open your <b>textbook</b> at page 20.",
+    "vi": "Mở <b>sách giáo khoa</b> trang 20."
+   }
+  },
+  {
+   "word": "drawing pin",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈdrɔːɪŋ pɪn/",
+   "def_en": "A short pin with a flat top for fixing paper to a board.",
+   "def_vi": "Ghim ngắn đầu bẹt để gắn giấy lên bảng.",
+   "gloss_vi": "đinh ghim",
+   "synonyms": "thumbtack <i>(n. đinh ghim (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Drawing pin</i> (noun phrase) = đinh ghim. <b>Grammar</b>: danh từ ghép; Anh–Anh.",
+   "ex_kit": true,
+   "example": {
+    "en": "Use a <b>drawing pin</b> to put the notice on the noticeboard.",
+    "vi": "Dùng <b>đinh ghim</b> gắn tờ thông báo lên bảng tin."
+   }
+  },
+  {
+   "word": "desk",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/desk/",
+   "def_en": "A table for working or studying at.",
+   "def_vi": "Bàn để làm việc hay học.",
+   "gloss_vi": "bàn học, bàn làm việc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Desk</i> (noun) = bàn học, bàn làm việc. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>sit at a desk</i> (ngồi vào bàn).",
+   "ex_kit": true,
+   "example": {
+    "en": "The students sit at their <b>desks</b>.",
+    "vi": "Học sinh ngồi ở <b>bàn</b>."
+   }
+  },
+  {
+   "word": "computer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəmˈpjuːtə(r)/",
+   "def_en": "An electronic machine for storing and working with information.",
+   "def_vi": "Máy điện tử lưu trữ và xử lý thông tin.",
+   "gloss_vi": "máy tính",
+   "synonyms": "PC <i>(abbr. máy tính cá nhân)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Computer</i> (noun) = máy tính. <b>Grammar</b>: đếm được; trọng âm âm 2.",
+   "ex_kit": true,
+   "example": {
+    "en": "The classroom has a <b>computer</b> for the teacher.",
+    "vi": "Lớp có một <b>máy tính</b> cho giáo viên."
+   }
+  },
+  {
+   "word": "teach",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/tiːtʃ/",
+   "def_en": "To give lessons to students in a subject.",
+   "def_vi": "Giảng dạy một môn cho học sinh.",
+   "gloss_vi": "dạy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "learn <i>(v. học)</i>",
+   "grammar_vi": "<i>Teach</i> (verb) = dạy. <b>Grammar</b>: quá khứ <i>taught</i> /tɔːt/; <i>teach sb sth</i>. <b>Word family</b>: <i>teacher</i> (n.).",
+   "example": {
+    "en": "A maths <b>teacher</b> teaches maths.",
+    "vi": "Giáo viên toán <b>dạy</b> toán."
+   }
+  },
+  {
+   "word": "study",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈstʌdi/",
+   "def_en": "To spend time learning about a subject.",
+   "def_vi": "Dành thời gian học một môn.",
+   "gloss_vi": "học",
+   "synonyms": "learn <i>(v. học)</i>",
+   "antonyms": "teach <i>(v. dạy)</i>",
+   "grammar_vi": "<i>Study</i> (verb) = học. <b>Grammar</b>: quá khứ <i>studied</i>. <b>Collocations / chunks</b>: <i>study for an exam</i> (ôn thi).",
+   "example": {
+    "en": "Her students <b>study</b> maths.",
+    "vi": "Học sinh của cô <b>học</b> toán."
+   }
+  },
+  {
+   "word": "go to school",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ tə ˈskuːl/",
+   "def_en": "To attend school as a student.",
+   "def_vi": "Đi học (là học sinh).",
+   "gloss_vi": "đi học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go to school</i> (verb phrase) = đi học. <b>Grammar</b>: không dùng <i>the</i>: <i>go to school</i>. <b>Collocations / chunks</b>: <i>go to university</i> (học đại học).",
+   "example": {
+    "en": "Children <b>go to school</b> and students go to university.",
+    "vi": "Trẻ em <b>đi học</b> còn sinh viên học đại học."
+   }
+  },
+  {
+   "word": "go to university",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ tə ˌjuːnɪˈvɜːsəti/",
+   "def_en": "To study at a university.",
+   "def_vi": "Học tại một trường đại học.",
+   "gloss_vi": "học đại học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go to university</i> (verb phrase) = học đại học. <b>Grammar</b>: Anh–Anh không dùng <i>the</i>; trước <i>university</i> dùng <i>a</i> (âm /j/).",
+   "example": {
+    "en": "Children go to school and students <b>go to university</b>.",
+    "vi": "Trẻ em đi học còn sinh viên <b>học đại học</b>."
+   }
+  },
+  {
+   "word": "learn to read and write",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌlɜːn tə ˌriːd ən ˈraɪt/",
+   "def_en": "To learn how to read and write.",
+   "def_vi": "Học cách đọc và viết.",
+   "gloss_vi": "học đọc và viết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Learn to read and write</i> (verb phrase) = học đọc và viết. <b>Grammar</b>: <i>learn to</i> + động từ; quá khứ <i>learnt/learned</i>.",
+   "example": {
+    "en": "At school children <b>learn to read and write</b>.",
+    "vi": "Ở trường, trẻ em <b>học đọc và viết</b>."
+   }
+  },
+  {
+   "word": "do a course",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌduː ə ˈkɔːs/",
+   "def_en": "To study on a course.",
+   "def_vi": "Theo học một khóa.",
+   "gloss_vi": "học một khóa",
+   "synonyms": "take a course <i>(vp. học một khóa)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Do a course</i> (verb phrase) = học một khóa. <b>Grammar</b>: <i>do a(n) + môn + course</i>: <i>do an English course</i>.",
+   "example": {
+    "en": "Students can <b>do an (English) course</b> in many schools and universities.",
+    "vi": "Sinh viên có thể <b>học một khóa</b> tiếng Anh ở nhiều trường."
+   }
+  },
+  {
+   "word": "take an exam",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌteɪk ən ɪɡˈzæm/",
+   "def_en": "To do an exam.",
+   "def_vi": "Dự một kỳ thi.",
+   "gloss_vi": "dự thi",
+   "synonyms": "do an exam <i>(vp. làm bài thi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take an exam</i> (verb phrase) = dự thi. <b>Grammar</b>: <i>take / do an exam</i>; quá khứ <i>took</i>. <b>Common mistakes</b>: <i>take an exam</i> = đi thi, <i>pass</i> = thi đỗ.",
+   "example": {
+    "en": "At the end of a course, you often <b>take / do an exam</b>.",
+    "vi": "Cuối khóa bạn thường <b>dự thi</b>."
+   }
+  },
+  {
+   "word": "pass your exams",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌpɑːs jə(r) ɪɡˈzæmz/",
+   "def_en": "To succeed in your exams.",
+   "def_vi": "Thi đỗ.",
+   "gloss_vi": "thi đỗ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "fail your exams <i>(vp. thi trượt)</i>",
+   "grammar_vi": "<i>Pass your exams</i> (verb phrase) = thi đỗ. <b>Grammar</b>: <i>pass</i> + kỳ thi; Anh–Anh đọc /pɑːs/. <b>Common mistakes</b>: <i>pass</i> ≠ <i>take</i> (dự thi).",
+   "example": {
+    "en": "You hope to <b>pass your exams</b>.",
+    "vi": "Bạn mong <b>thi đỗ</b>."
+   }
+  },
+  {
+   "word": "fail your exams",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌfeɪl jə(r) ɪɡˈzæmz/",
+   "def_en": "To not succeed in your exams.",
+   "def_vi": "Thi trượt.",
+   "gloss_vi": "thi trượt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "pass your exams <i>(vp. thi đỗ)</i>",
+   "grammar_vi": "<i>Fail your exams</i> (verb phrase) = thi trượt. <b>Grammar</b>: <i>fail</i> + kỳ thi. <b>Word family</b>: <i>failure</i> (n.).",
+   "example": {
+    "en": "You don’t want to <b>fail your exams</b>.",
+    "vi": "Bạn không muốn <b>thi trượt</b>."
+   }
+  },
+  {
+   "word": "get a degree",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡet ə dɪˈɡriː/",
+   "def_en": "To finish a university course successfully.",
+   "def_vi": "Hoàn thành khóa đại học.",
+   "gloss_vi": "lấy bằng (đại học)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get a degree</i> (verb phrase) = lấy bằng (đại học). <b>Grammar</b>: <i>get a degree in</i> + ngành. <b>Collocations / chunks</b>: <i>a degree in history</i> (bằng lịch sử).",
+   "example": {
+    "en": "If you pass your final exams at university, you <b>get a degree</b>.",
+    "vi": "Nếu đỗ kỳ thi cuối ở đại học, bạn <b>lấy được bằng</b>."
+   }
+  },
+  {
+   "word": "do homework",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌduː ˈhəʊmwɜːk/",
+   "def_en": "To do work that a teacher gives students to do at home.",
+   "def_vi": "Làm bài giáo viên giao về nhà.",
+   "gloss_vi": "làm bài tập về nhà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Do homework</i> (verb phrase) = làm bài tập về nhà. <b>Grammar</b>: <i>homework</i> không đếm được. <b>Common mistakes</b>: không nói <i>make homework</i> hay <i>homeworks</i>.",
+   "example": {
+    "en": "After school, students <b>do homework</b> [NOT make homework or do homeworks].",
+    "vi": "Sau giờ học, học sinh <b>làm bài tập về nhà</b>."
+   }
+  }
+ ]
+}

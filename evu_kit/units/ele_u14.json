@@ -1,0 +1,371 @@
+{
+ "book": "ele",
+ "unit": 14,
+ "title_vi": "Nghề nghiệp",
+ "theory_html": "<p><b>A. What’s his/her job?</b><br><i>A. Anh ấy / cô ấy làm nghề gì?</i></p> <ul><li><b>doctor, teacher, nurse, mechanic, farmer, secretary, shop assistant, hairdresser, engineer</b> – <i>bác sĩ, giáo viên, y tá, thợ máy, nông dân, thư ký, nhân viên bán hàng, thợ làm tóc, kỹ sư</i></li></ul> <p><b>B. Jobs in the town</b><br><i>B. Nghề ở thị trấn</i></p> <ul><li><b>police officer, traffic warden, librarian, bank clerk</b> – <i>cảnh sát, nhân viên kiểm soát đỗ xe, thủ thư, nhân viên ngân hàng</i></li></ul> <p><b>C. Expressions</b><br><i>C. Cách nói</i></p> <p><b>What’s your job? / What do you do? – I’m a waiter. I work in a restaurant.</b> Places of work: <b>office, factory, shop, beauty salon, hospital</b>; <b>I work at / from home.</b></p><p><i><b>Bạn làm nghề gì? – Tôi là bồi bàn. Tôi làm ở nhà hàng.</b> Nơi làm việc: văn phòng, nhà máy, cửa hàng, thẩm mỹ viện, bệnh viện; <b>làm việc ở nhà</b>.</i></p>",
+ "items": [
+  {
+   "word": "teacher",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtiːtʃə(r)/",
+   "def_en": "A person whose job is to teach.",
+   "def_vi": "Người làm nghề dạy học.",
+   "gloss_vi": "giáo viên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "student <i>(n. học sinh)</i>",
+   "grammar_vi": "<i>Teacher</i> (noun) = giáo viên. <b>Grammar</b>: dùng <i>a/an</i> trước nghề: <i>She’s a teacher</i>. <b>Word family</b>: <i>teach</i> (v.).",
+   "ex_kit": true,
+   "example": {
+    "en": "My mother is a <b>teacher</b> in a primary school.",
+    "vi": "Mẹ tôi là <b>giáo viên</b> ở một trường tiểu học."
+   }
+  },
+  {
+   "word": "nurse",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/nɜːs/",
+   "def_en": "A person whose job is to look after people who are ill, usually in a hospital.",
+   "def_vi": "Người chăm sóc người bệnh, thường ở bệnh viện.",
+   "gloss_vi": "y tá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "patient <i>(n. bệnh nhân)</i>",
+   "grammar_vi": "<i>Nurse</i> (noun) = y tá. <b>Grammar</b>: dùng <i>a</i> trước nghề. <b>Collocations / chunks</b>: <i>work as a nurse</i> (làm y tá).",
+   "ex_kit": true,
+   "example": {
+    "en": "My sister is a <b>nurse</b> in a children’s hospital.",
+    "vi": "Chị gái tôi là <b>y tá</b> ở bệnh viện nhi."
+   }
+  },
+  {
+   "word": "mechanic",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/məˈkænɪk/",
+   "def_en": "A person whose job is to repair cars and machines.",
+   "def_vi": "Người sửa ô tô và máy móc.",
+   "gloss_vi": "thợ máy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mechanic</i> (noun) = thợ máy. <b>Grammar</b>: đếm được; <i>ch</i> đọc /k/. <b>Collocations / chunks</b>: <i>car mechanic</i> (thợ sửa ô tô).",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>mechanic</b> repaired my car.",
+    "vi": "<b>Thợ máy</b> sửa xe cho tôi."
+   }
+  },
+  {
+   "word": "farmer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfɑːmə(r)/",
+   "def_en": "A person who owns or works on a farm.",
+   "def_vi": "Người có hoặc làm việc ở trang trại.",
+   "gloss_vi": "nông dân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Farmer</i> (noun) = nông dân. <b>Grammar</b>: đếm được. <b>Word family</b>: <i>farm</i> (n. trang trại).",
+   "ex_kit": true,
+   "example": {
+    "en": "My grandfather was a <b>farmer</b>.",
+    "vi": "Ông tôi là <b>nông dân</b>."
+   }
+  },
+  {
+   "word": "secretary",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsekrətri/",
+   "def_en": "A person who works in an office, answering the phone, writing letters and organising things.",
+   "def_vi": "Người làm văn phòng: nghe điện thoại, viết thư, sắp xếp công việc.",
+   "gloss_vi": "thư ký",
+   "synonyms": "assistant <i>(n. trợ lý)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Secretary</i> (noun) = thư ký. <b>Grammar</b>: số nhiều <i>secretaries</i>; Anh–Anh đọc 3 âm tiết /ˈsekrətri/.",
+   "ex_kit": true,
+   "example": {
+    "en": "She works as a <b>secretary</b> for a big company.",
+    "vi": "Cô ấy làm <b>thư ký</b> cho một công ty lớn."
+   }
+  },
+  {
+   "word": "shop assistant",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈʃɒp əsɪstənt/",
+   "def_en": "A person who serves customers in a shop.",
+   "def_vi": "Người phục vụ khách trong cửa hàng.",
+   "gloss_vi": "nhân viên bán hàng",
+   "synonyms": "sales assistant <i>(np. nhân viên bán hàng)</i>",
+   "antonyms": "customer <i>(n. khách hàng)</i>",
+   "grammar_vi": "<i>Shop assistant</i> (noun phrase) = nhân viên bán hàng. <b>Grammar</b>: danh từ ghép, đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>shop assistant</b> helped me find my size.",
+    "vi": "<b>Nhân viên bán hàng</b> giúp tôi tìm cỡ áo."
+   }
+  },
+  {
+   "word": "hairdresser",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈheədresə(r)/",
+   "def_en": "A person whose job is to cut and style people’s hair.",
+   "def_vi": "Người cắt và làm tóc.",
+   "gloss_vi": "thợ làm tóc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hairdresser</i> (noun) = thợ làm tóc. <b>Grammar</b>: đếm được; <i>go to the hairdresser’s</i> (đi tiệm làm tóc).",
+   "example": {
+    "en": "What’s his/her job? doctor teacher nurse mechanic farmer secretary shop assistant <b>hairdresser</b> engineer police officer traffic warden librarian bank clerk /klA:k/ Sam What’s your job?",
+    "vi": "Tôi muốn làm <b>thợ làm tóc</b> ở thẩm mỹ viện."
+   }
+  },
+  {
+   "word": "engineer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌendʒɪˈnɪə(r)/",
+   "def_en": "A person who designs or builds machines, roads, bridges etc.",
+   "def_vi": "Người thiết kế hay chế tạo máy, đường, cầu…",
+   "gloss_vi": "kỹ sư",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Engineer</i> (noun) = kỹ sư. <b>Grammar</b>: dùng <i>an</i>: <i>an engineer</i>; trọng âm âm cuối. <b>Word family</b>: <i>engineering</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "My brother is an <b>engineer</b> in a car factory.",
+    "vi": "Anh trai tôi là <b>kỹ sư</b> ở nhà máy ô tô."
+   }
+  },
+  {
+   "word": "police officer",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/pəˈliːs ɒfɪsə(r)/",
+   "def_en": "A member of the police.",
+   "def_vi": "Thành viên lực lượng cảnh sát.",
+   "gloss_vi": "cảnh sát",
+   "synonyms": "policeman <i>(n. cảnh sát (nam))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Police officer</i> (noun phrase) = cảnh sát. <b>Grammar</b>: danh từ ghép; <i>the police</i> đi với động từ số nhiều.",
+   "ex_kit": true,
+   "example": {
+    "en": "A <b>police officer</b> showed us the way.",
+    "vi": "Một <b>cảnh sát</b> chỉ đường cho chúng tôi."
+   }
+  },
+  {
+   "word": "traffic warden",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈtræfɪk wɔːdn/",
+   "def_en": "A person whose job is to check that cars are parked correctly.",
+   "def_vi": "Người kiểm tra xe đỗ đúng quy định.",
+   "gloss_vi": "nhân viên kiểm soát đỗ xe",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Traffic warden</i> (noun phrase) = nhân viên kiểm soát đỗ xe. <b>Grammar</b>: danh từ ghép, Anh–Anh.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>traffic warden</b> put a ticket on my car.",
+    "vi": "<b>Nhân viên kiểm soát đỗ xe</b> dán vé phạt lên xe tôi."
+   }
+  },
+  {
+   "word": "librarian",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/laɪˈbreəriən/",
+   "def_en": "A person who works in a library.",
+   "def_vi": "Người làm việc ở thư viện.",
+   "gloss_vi": "thủ thư",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Librarian</i> (noun) = thủ thư. <b>Grammar</b>: đếm được; trọng âm âm 2. <b>Word family</b>: <i>library</i> (n. thư viện).",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>librarian</b> helped me find a book.",
+    "vi": "<b>Thủ thư</b> giúp tôi tìm sách."
+   }
+  },
+  {
+   "word": "bank clerk",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈbæŋk klɑːk/",
+   "def_en": "A person who works in a bank, serving customers.",
+   "def_vi": "Người làm ở ngân hàng, phục vụ khách.",
+   "gloss_vi": "nhân viên ngân hàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bank clerk</i> (noun phrase) = nhân viên ngân hàng. <b>Grammar</b>: danh từ ghép; <i>clerk</i> Anh–Anh đọc /klɑːk/.",
+   "ex_kit": true,
+   "example": {
+    "en": "She is a <b>bank clerk</b> in the town centre.",
+    "vi": "Cô ấy là <b>nhân viên ngân hàng</b> ở trung tâm thị trấn."
+   }
+  },
+  {
+   "word": "job",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dʒɒb/",
+   "def_en": "The work that you do to earn money.",
+   "def_vi": "Công việc làm để kiếm tiền.",
+   "gloss_vi": "công việc, nghề",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "work <i>(un. công việc)</i>",
+   "grammar_vi": "<i>Job</i> (noun) = công việc, nghề. <b>Grammar</b>: đếm được: <i>a job</i>; <i>work</i> không đếm được. <b>Collocations / chunks</b>: <i>What’s your job?</i> (bạn làm nghề gì?), <i>an interesting job</i> (công việc thú vị).",
+   "example": {
+    "en": "What’s his/her <b>job</b>? doctor teacher nurse mechanic farmer secretary shop assistant hairdresser engineer police officer traffic warden librarian bank clerk /klA:k/ Sam What’s your job?",
+    "vi": "Bạn làm <b>nghề</b> gì?"
+   }
+  },
+  {
+   "word": "waiter",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈweɪtə(r)/",
+   "def_en": "A person who brings food and drink to people in a restaurant.",
+   "def_vi": "Người mang đồ ăn uống cho khách ở nhà hàng.",
+   "gloss_vi": "bồi bàn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Waiter</i> (noun) = bồi bàn. <b>Grammar</b>: nữ: <i>waitress</i>. <b>Word family</b>: <i>wait</i> (v.).",
+   "example": {
+    "en": "Ben I’m a <b>waiter</b>.",
+    "vi": "Tôi là <b>bồi bàn</b>. Tôi làm ở một nhà hàng."
+   }
+  },
+  {
+   "word": "restaurant",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈrestrɒnt/",
+   "def_en": "A place where you can buy and eat a meal.",
+   "def_vi": "Nơi mua và ăn bữa ăn.",
+   "gloss_vi": "nhà hàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Restaurant</i> (noun) = nhà hàng. <b>Grammar</b>: đếm được; đọc 2–3 âm tiết /ˈrestrɒnt/. <b>Collocations / chunks</b>: <i>work in a restaurant</i> (làm ở nhà hàng).",
+   "example": {
+    "en": "I work in a <b>restaurant</b>.",
+    "vi": "Tôi là bồi bàn. Tôi làm ở một <b>nhà hàng</b>."
+   }
+  },
+  {
+   "word": "What do you do?",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌwɒt də ju ˈduː/",
+   "def_en": "A question asking about someone’s job.",
+   "def_vi": "Câu hỏi về nghề nghiệp của ai.",
+   "gloss_vi": "bạn làm nghề gì?",
+   "synonyms": "What’s your job? <i>(phr. bạn làm nghề gì?)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>What do you do?</i> (phrase) = bạn làm nghề gì?. <b>Grammar</b>: thì hiện tại đơn; trả lời <i>I’m a…</i>. <b>Common mistakes</b>: khác <i>What are you doing?</i> (bạn đang làm gì?).",
+   "example": {
+    "en": "<b>What do you do</b>?",
+    "vi": "<b>Bạn làm nghề gì</b>?"
+   }
+  },
+  {
+   "word": "taxi driver",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈtæksi draɪvə(r)/",
+   "def_en": "A person whose job is driving a taxi.",
+   "def_vi": "Người lái xe taxi.",
+   "gloss_vi": "tài xế taxi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Taxi driver</i> (noun phrase) = tài xế taxi. <b>Grammar</b>: danh từ ghép, đếm được.",
+   "example": {
+    "en": "Sam I’m a <b>taxi driver</b>.",
+    "vi": "Tôi là <b>tài xế taxi</b>."
+   }
+  },
+  {
+   "word": "office",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɒfɪs/",
+   "def_en": "A room or building where people work at desks.",
+   "def_vi": "Phòng hay tòa nhà nơi mọi người làm việc bàn giấy.",
+   "gloss_vi": "văn phòng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Office</i> (noun) = văn phòng. <b>Grammar</b>: <i>work in an office</i>. <b>Collocations / chunks</b>: <i>office worker</i> (nhân viên văn phòng).",
+   "example": {
+    "en": "Sophie I work in an <b>office</b>.",
+    "vi": "Tôi làm ở <b>văn phòng</b>. Đôi khi chán lắm."
+   }
+  },
+  {
+   "word": "factory",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfæktri/",
+   "def_en": "A building where things are made by machines.",
+   "def_vi": "Tòa nhà nơi máy móc sản xuất hàng hóa.",
+   "gloss_vi": "nhà máy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Factory</i> (noun) = nhà máy. <b>Grammar</b>: số nhiều <i>factories</i>. <b>Collocations / chunks</b>: <i>work in a factory</i> (làm ở nhà máy).",
+   "example": {
+    "en": "My dad works in a <b>factory</b> which makes car parts.",
+    "vi": "Bố tôi làm ở một <b>nhà máy</b> sản xuất phụ tùng ô tô."
+   }
+  },
+  {
+   "word": "shop",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ʃɒp/",
+   "def_en": "A building or room where you can buy things.",
+   "def_vi": "Nơi mua hàng.",
+   "gloss_vi": "cửa hàng",
+   "synonyms": "store <i>(n. cửa hàng (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shop</i> (noun) = cửa hàng. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>work in a shop</i> (làm ở cửa hàng).",
+   "example": {
+    "en": "What’s his/her job? doctor teacher nurse mechanic farmer secretary <b>shop</b> assistant hairdresser engineer police officer traffic warden librarian bank clerk /klA:k/ Sam What’s your job?",
+    "vi": "Hồi là sinh viên tôi làm ở một <b>cửa hàng</b> vào cuối tuần."
+   }
+  },
+  {
+   "word": "beauty salon",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈbjuːti sælɒn/",
+   "def_en": "A place where you can have your hair, nails or face made more attractive.",
+   "def_vi": "Nơi làm đẹp tóc, móng, mặt.",
+   "gloss_vi": "thẩm mỹ viện, tiệm làm đẹp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Beauty salon</i> (noun phrase) = thẩm mỹ viện, tiệm làm đẹp. <b>Grammar</b>: danh từ ghép, đếm được.",
+   "example": {
+    "en": "I want to work in a <b>beauty salon</b> as a hairdresser.",
+    "vi": "Tôi muốn làm thợ làm tóc ở <b>thẩm mỹ viện</b>."
+   }
+  },
+  {
+   "word": "work from home",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌwɜːk frəm ˈhəʊm/",
+   "def_en": "To do your job at home, not in an office.",
+   "def_vi": "Làm việc tại nhà, không đến văn phòng.",
+   "gloss_vi": "làm việc tại nhà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Work from home</i> (verb phrase) = làm việc tại nhà. <b>Grammar</b>: <i>work at home</i> hoặc <i>work from home</i>; không dùng <i>the</i> trước <i>home</i>.",
+   "example": {
+    "en": "I’m a writer. I <b>work at / from home</b>.",
+    "vi": "Tôi là nhà văn. Tôi <b>làm việc ở nhà</b>."
+   }
+  }
+ ]
+}

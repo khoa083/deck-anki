@@ -1,0 +1,451 @@
+{
+ "book": "ele",
+ "unit": 16,
+ "title_vi": "Giao tiếp và liên lạc",
+ "theory_html": "<p><b>A. Letters</b><br><i>A. Thư từ</i></p> <ul><li><b>address, stamp, envelope, date, letter, letter box</b>; <b>post</b> the letters – <i>địa chỉ, tem, phong bì, ngày tháng, lá thư, hòm thư; <b>gửi</b> thư</i></li></ul> <p><b>B. Email and Internet</b><br><i>B. Thư điện tử và Internet</i></p> <ul><li><b>computer, screen, keyboard, mouse, laptop, memory stick; emails, online, email address</b> (<b>at</b> = @, <b>dot</b> = .) – <i>máy tính, màn hình, bàn phím, chuột, máy tính xách tay, USB; thư điện tử, trên mạng, địa chỉ email</i></li></ul> <p><b>C. Telephones and mobile devices</b><br><i>C. Điện thoại và thiết bị di động</i></p> <p><b>mobile device, mobile, telephone, phone box</b>; <b>make phone calls</b>, <b>phone number</b>, <b>mobile number</b>; leave a <b>voicemail</b>, <b>text</b> someone / <b>send a text (message)</b>. Read phone numbers digit by digit (0 = <b>oh</b>, 66 = <b>double six</b>).</p><p><i>thiết bị di động, điện thoại di động, điện thoại, bốt điện thoại; <b>gọi điện</b>, <b>số điện thoại</b>; để lại <b>tin nhắn thoại</b>, <b>nhắn tin</b>. Đọc số từng chữ số (0 = <b>oh</b>).</i></p> <p><b>D. Expressions</b><br><i>D. Cách nói</i></p> <p><b>Hello. It’s Nick here. Can I speak to Ahmed, please? – He’s not here. Can I take a message? – Could you tell him I called? I’ll call back later.</b></p><p><i><b>A lô, Nick đây. Cho tôi nói chuyện với Ahmed. – Anh ấy không có ở đây. Anh có muốn nhắn gì không? – Nhờ chị nói tôi đã gọi. Tôi sẽ gọi lại sau.</b></i></p>",
+ "items": [
+  {
+   "word": "address",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈdres/",
+   "def_en": "The number of the house and the name of the street and town where someone lives.",
+   "def_vi": "Số nhà, tên phố và thành phố nơi ai đó ở.",
+   "gloss_vi": "địa chỉ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Address</i> (noun) = địa chỉ. <b>Grammar</b>: đếm được; Anh–Anh trọng âm âm 2 /əˈdres/. <b>Collocations / chunks</b>: <i>email address</i> (địa chỉ email).",
+   "ex_kit": true,
+   "example": {
+    "en": "Write the <b>address</b> on the envelope.",
+    "vi": "Viết <b>địa chỉ</b> lên phong bì."
+   }
+  },
+  {
+   "word": "stamp",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/stæmp/",
+   "def_en": "A small piece of paper that you stick on a letter to show you have paid to send it.",
+   "def_vi": "Mảnh giấy nhỏ dán lên thư để trả phí gửi.",
+   "gloss_vi": "tem",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stamp</i> (noun) = tem. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>put a stamp on</i> (dán tem lên).",
+   "example": {
+    "en": "Don’t forget to put a <b>stamp</b> on the envelope.",
+    "vi": "Đừng quên dán <b>tem</b> lên phong bì."
+   }
+  },
+  {
+   "word": "envelope",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈenvələʊp/",
+   "def_en": "A paper cover that you put a letter in.",
+   "def_vi": "Bao giấy để đựng thư.",
+   "gloss_vi": "phong bì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Envelope</i> (noun) = phong bì. <b>Grammar</b>: đếm được; trọng âm âm đầu.",
+   "example": {
+    "en": "Don’t forget to put a stamp on the <b>envelope</b>.",
+    "vi": "Đừng quên dán tem lên <b>phong bì</b>."
+   }
+  },
+  {
+   "word": "date",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/deɪt/",
+   "def_en": "The day, month and year.",
+   "def_vi": "Ngày, tháng, năm.",
+   "gloss_vi": "ngày tháng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Date</i> (noun) = ngày tháng. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>What’s the date today?</i> (hôm nay ngày bao nhiêu?).",
+   "ex_kit": true,
+   "example": {
+    "en": "Write the <b>date</b> at the top of the letter.",
+    "vi": "Viết <b>ngày tháng</b> ở đầu lá thư."
+   }
+  },
+  {
+   "word": "letter",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈletə(r)/",
+   "def_en": "A written message that you send in an envelope.",
+   "def_vi": "Lời nhắn viết tay gửi trong phong bì.",
+   "gloss_vi": "thư",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Letter</i> (noun) = thư. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>write/post a letter</i> (viết/gửi thư). <b>Common mistakes</b>: cũng là “chữ cái”.",
+   "example": {
+    "en": "Don’t forget to post the <b>letters</b>.",
+    "vi": "Đừng quên gửi <b>thư</b>."
+   }
+  },
+  {
+   "word": "letter box",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈletə bɒks/",
+   "def_en": "A box in the street or a hole in a door where letters are put.",
+   "def_vi": "Hộp trên phố hay khe cửa để bỏ thư.",
+   "gloss_vi": "hòm thư",
+   "synonyms": "postbox <i>(n. hòm thư)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Letter box</i> (noun phrase) = hòm thư. <b>Grammar</b>: danh từ ghép; Anh–Anh.",
+   "ex_kit": true,
+   "example": {
+    "en": "Put the letters in the <b>letter box</b> on the corner.",
+    "vi": "Bỏ thư vào <b>hòm thư</b> ở góc phố."
+   }
+  },
+  {
+   "word": "post",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/pəʊst/",
+   "def_en": "To send a letter by putting it in a letter box.",
+   "def_vi": "Gửi thư bằng cách bỏ vào hòm thư.",
+   "gloss_vi": "gửi (thư)",
+   "synonyms": "mail <i>(v. gửi thư (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Post</i> (verb) = gửi (thư). <b>Grammar</b>: Anh–Anh <i>post</i>, Mỹ <i>mail</i>. <b>Collocations / chunks</b>: <i>post a letter</i> (gửi thư).",
+   "example": {
+    "en": "Don’t forget to <b>post</b> the letters.",
+    "vi": "Đừng quên <b>gửi</b> thư."
+   }
+  },
+  {
+   "word": "keyboard",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkiːbɔːd/",
+   "def_en": "The set of keys that you press to write on a computer.",
+   "def_vi": "Bộ phím gõ trên máy tính.",
+   "gloss_vi": "bàn phím",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Keyboard</i> (noun) = bàn phím. <b>Grammar</b>: đếm được. <b>Word family</b>: <i>key</i> (n. phím).",
+   "ex_kit": true,
+   "example": {
+    "en": "One of the keys on my <b>keyboard</b> doesn’t work.",
+    "vi": "<b>Bàn phím</b> laptop của tôi bị hỏng một phím."
+   }
+  },
+  {
+   "word": "screen",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/skriːn/",
+   "def_en": "The flat surface of a computer, TV or phone where you see pictures and words.",
+   "def_vi": "Mặt phẳng của máy tính, ti vi, điện thoại hiển thị hình và chữ.",
+   "gloss_vi": "màn hình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Screen</i> (noun) = màn hình. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>on the screen</i> (trên màn hình).",
+   "ex_kit": true,
+   "example": {
+    "en": "The computer <b>screen</b> is very dirty.",
+    "vi": "<b>Màn hình</b> máy tính bẩn quá."
+   }
+  },
+  {
+   "word": "mouse",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/maʊs/",
+   "def_en": "A small thing that you move with your hand to control a computer.",
+   "def_vi": "Vật nhỏ di chuyển bằng tay để điều khiển máy tính.",
+   "gloss_vi": "chuột (máy tính)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mouse</i> (noun) = chuột (máy tính). <b>Grammar</b>: số nhiều thường <i>mice</i> hoặc <i>mouses</i> (máy tính).",
+   "ex_kit": true,
+   "example": {
+    "en": "Click the <b>mouse</b> on the icon.",
+    "vi": "Nhấp <b>chuột</b> vào biểu tượng."
+   }
+  },
+  {
+   "word": "laptop",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlæptɒp/",
+   "def_en": "A small computer that you can carry with you.",
+   "def_vi": "Máy tính nhỏ mang theo được.",
+   "gloss_vi": "máy tính xách tay",
+   "synonyms": "notebook <i>(n. máy tính xách tay)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Laptop</i> (noun) = máy tính xách tay. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>on my laptop</i> (trên laptop).",
+   "ex_kit": true,
+   "example": {
+    "en": "I take my <b>laptop</b> to work every day.",
+    "vi": "Tôi mang <b>laptop</b> đi làm mỗi ngày."
+   }
+  },
+  {
+   "word": "memory stick",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈmeməri stɪk/",
+   "def_en": "A small thing for storing computer information that you can carry with you.",
+   "def_vi": "Thiết bị nhỏ lưu dữ liệu, mang theo được.",
+   "gloss_vi": "USB",
+   "synonyms": "USB stick <i>(np. USB)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Memory stick</i> (noun phrase) = USB. <b>Grammar</b>: danh từ ghép, đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "Save your work on a <b>memory stick</b>.",
+    "vi": "Lưu bài vào <b>USB</b>."
+   }
+  },
+  {
+   "word": "emails",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈiːmeɪlz/",
+   "def_en": "Messages sent from one computer or phone to another.",
+   "def_vi": "Thư gửi giữa các máy tính, điện thoại.",
+   "gloss_vi": "thư điện tử",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Emails</i> (plural noun) = thư điện tử. <b>Grammar</b>: đếm được; cũng là động từ <i>email sb</i>. <b>Collocations / chunks</b>: <i>send/get an email</i> (gửi/nhận email).",
+   "example": {
+    "en": "Olivia gets a lot of <b>emails</b> from New York.",
+    "vi": "Olivia nhận rất nhiều <b>email</b> từ New York."
+   }
+  },
+  {
+   "word": "online",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌɒnˈlaɪn/",
+   "def_en": "On the Internet.",
+   "def_vi": "Trên mạng Internet.",
+   "gloss_vi": "trên mạng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "offline <i>(adv. ngoại tuyến)</i>",
+   "grammar_vi": "<i>Online</i> (adverb) = trên mạng. <b>Grammar</b>: vừa là trạng từ vừa là tính từ: <i>buy online, online shopping</i>.",
+   "example": {
+    "en": "You have to be careful what information you give people <b>online</b>.",
+    "vi": "Bạn phải cẩn thận về thông tin mình đưa cho người khác <b>trên mạng</b>."
+   }
+  },
+  {
+   "word": "email address",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈiːmeɪl ədres/",
+   "def_en": "The address that you use to send or receive emails.",
+   "def_vi": "Địa chỉ để gửi nhận email.",
+   "gloss_vi": "địa chỉ email",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Email address</i> (noun phrase) = địa chỉ email. <b>Grammar</b>: đọc @ = <i>at</i>, . = <i>dot</i>: <i>moll at cup dot com</i>.",
+   "example": {
+    "en": "What’s your <b>email address</b>?",
+    "vi": "<b>Địa chỉ email</b> của bạn là gì?"
+   }
+  },
+  {
+   "word": "mobile device",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌməʊbaɪl dɪˈvaɪs/",
+   "def_en": "A small machine such as a phone or tablet that you can carry.",
+   "def_vi": "Máy nhỏ như điện thoại, máy tính bảng, mang theo được.",
+   "gloss_vi": "thiết bị di động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mobile device</i> (noun phrase) = thiết bị di động. <b>Grammar</b>: danh từ ghép; Anh–Anh <i>mobile</i> /ˈməʊbaɪl/.",
+   "ex_kit": true,
+   "example": {
+    "en": "You can read emails on a <b>mobile device</b>.",
+    "vi": "Bạn có thể đọc email trên <b>thiết bị di động</b>."
+   }
+  },
+  {
+   "word": "mobile",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈməʊbaɪl/",
+   "def_en": "A phone that you can carry with you.",
+   "def_vi": "Điện thoại mang theo người.",
+   "gloss_vi": "điện thoại di động",
+   "synonyms": "mobile phone <i>(np. điện thoại di động)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mobile</i> (noun) = điện thoại di động. <b>Grammar</b>: Anh–Anh; Mỹ: <i>cellphone</i>. <b>Collocations / chunks</b>: <i>mobile number</i> (số di động).",
+   "example": {
+    "en": "What’s your <b>mobile</b> number?",
+    "vi": "Số <b>di động</b> của bạn là gì?"
+   }
+  },
+  {
+   "word": "telephone",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtelɪfəʊn/",
+   "def_en": "A machine that you use to speak to someone in another place.",
+   "def_vi": "Máy dùng để nói chuyện với người ở nơi khác.",
+   "gloss_vi": "điện thoại",
+   "synonyms": "phone <i>(n. điện thoại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Telephone</i> (noun) = điện thoại. <b>Grammar</b>: nói tắt <i>phone</i>. <b>Collocations / chunks</b>: <i>answer the telephone</i> (nghe điện thoại).",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>telephone</b> rang while I was in the shower.",
+    "vi": "<b>Điện thoại</b> reo khi tôi đang tắm."
+   }
+  },
+  {
+   "word": "phone box",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈfəʊn bɒks/",
+   "def_en": "A small public structure with a telephone in it.",
+   "def_vi": "Ca-bin nhỏ ngoài phố có điện thoại công cộng.",
+   "gloss_vi": "bốt điện thoại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Phone box</i> (noun phrase) = bốt điện thoại. <b>Grammar</b>: danh từ ghép; Anh–Anh.",
+   "ex_kit": true,
+   "example": {
+    "en": "There’s a <b>phone box</b> next to the post office.",
+    "vi": "Có một <b>bốt điện thoại</b> cạnh bưu điện."
+   }
+  },
+  {
+   "word": "make a phone call",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌmeɪk ə ˈfəʊn kɔːl/",
+   "def_en": "To phone someone.",
+   "def_vi": "Gọi điện cho ai.",
+   "gloss_vi": "gọi điện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Make a phone call</i> (verb phrase) = gọi điện. <b>Grammar</b>: dùng <i>make</i>, không dùng <i>do</i>: <i>make a lot of phone calls</i>.",
+   "example": {
+    "en": "Juan <b>makes a lot of phone calls</b>.",
+    "vi": "Juan <b>gọi điện</b> rất nhiều."
+   }
+  },
+  {
+   "word": "phone number",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈfəʊn nʌmbə(r)/",
+   "def_en": "The number you use to call someone.",
+   "def_vi": "Số dùng để gọi ai.",
+   "gloss_vi": "số điện thoại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Phone number</i> (noun phrase) = số điện thoại. <b>Grammar</b>: đọc từng chữ số; 0 = <i>oh</i>, 66 = <i>double six</i>.",
+   "example": {
+    "en": "What’s your <b>phone number</b>?",
+    "vi": "<b>Số điện thoại</b> của bạn là gì?"
+   }
+  },
+  {
+   "word": "voicemail",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈvɔɪsmeɪl/",
+   "def_en": "A spoken message that you leave on someone’s phone.",
+   "def_vi": "Lời nhắn bằng giọng nói để lại trên điện thoại ai.",
+   "gloss_vi": "tin nhắn thoại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Voicemail</i> (noun) = tin nhắn thoại. <b>Grammar</b>: <i>leave a voicemail</i> (để lại tin nhắn thoại).",
+   "example": {
+    "en": "I’ll leave a <b>voicemail</b> and I’ll text him / send him a text (message).",
+    "vi": "Tôi sẽ để lại <b>tin nhắn thoại</b>."
+   }
+  },
+  {
+   "word": "text",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/tekst/",
+   "def_en": "To send a written message on a mobile phone.",
+   "def_vi": "Gửi tin nhắn chữ bằng điện thoại.",
+   "gloss_vi": "nhắn tin",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Text</i> (verb) = nhắn tin. <b>Grammar</b>: <i>text sb</i>; danh từ <i>a text (message)</i>: <i>send sb a text</i>.",
+   "example": {
+    "en": "I’ll leave a voicemail and I’ll <b>text</b> him / send him a text (message).",
+    "vi": "Tôi sẽ <b>nhắn tin</b> cho anh ấy."
+   }
+  },
+  {
+   "word": "It’s … here",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪts … ˈhɪə(r)/",
+   "def_en": "Used on the phone to say who you are.",
+   "def_vi": "Dùng trên điện thoại để giới thiệu mình là ai.",
+   "gloss_vi": "… đây",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>It’s … here</i> (phrase) = … đây. <b>Grammar</b>: <i>It’s</i> + tên + <i>here</i>. <b>Common mistakes</b>: không nói <i>I am Nick</i> khi gọi điện.",
+   "example": {
+    "en": "Hello. <b>It’s</b> Nick <b>here</b>. Can I speak to Ahmed, please?",
+    "vi": "A lô. <b>Nick đây</b>. Cho tôi nói chuyện với Ahmed nhé?"
+   }
+  },
+  {
+   "word": "speak to",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˈspiːk tə/",
+   "def_en": "To talk to someone, especially on the phone.",
+   "def_vi": "Nói chuyện với ai, nhất là qua điện thoại.",
+   "gloss_vi": "nói chuyện với",
+   "synonyms": "talk to <i>(vp. nói chuyện với)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Speak to</i> (verb phrase) = nói chuyện với. <b>Grammar</b>: <i>Can I speak to</i> + người, <i>please?</i>. <b>Collocations / chunks</b>: dùng khi gọi điện.",
+   "example": {
+    "en": "Can I <b>speak to</b> Ahmed, please?",
+    "vi": "Cho tôi <b>nói chuyện với</b> Ahmed nhé?"
+   }
+  },
+  {
+   "word": "take a message",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌteɪk ə ˈmesɪdʒ/",
+   "def_en": "To write down information for someone who is not there.",
+   "def_vi": "Ghi lại lời nhắn cho người vắng mặt.",
+   "gloss_vi": "nhận lời nhắn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "leave a message <i>(vp. để lại lời nhắn)</i>",
+   "grammar_vi": "<i>Take a message</i> (verb phrase) = nhận lời nhắn. <b>Grammar</b>: <i>Can I take a message?</i> (anh có muốn nhắn gì không?).",
+   "example": {
+    "en": "Can I <b>take a message</b>?",
+    "vi": "Tôi có thể <b>nhận lời nhắn</b> không?"
+   }
+  },
+  {
+   "word": "call back",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌkɔːl ˈbæk/",
+   "def_en": "To phone someone again, or phone someone who phoned you.",
+   "def_vi": "Gọi lại cho ai.",
+   "gloss_vi": "gọi lại",
+   "synonyms": "ring back <i>(pv. gọi lại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Call back</i> (phrasal verb) = gọi lại. <b>Grammar</b>: tách được: <i>call him back</i>. <b>Collocations / chunks</b>: <i>call back later</i> (gọi lại sau).",
+   "example": {
+    "en": "Could you just tell him I called. I’ll <b>call back</b> later.",
+    "vi": "Nhờ chị nói là tôi đã gọi. Tôi sẽ <b>gọi lại</b> sau."
+   }
+  }
+ ]
+}

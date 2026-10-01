@@ -1,0 +1,490 @@
+{
+ "book": "ele",
+ "unit": 12,
+ "title_vi": "Trong phòng ngủ và phòng tắm",
+ "theory_html": "<p><b>A. Bedroom</b><br><i>A. Phòng ngủ</i></p> <ul><li><b>bed, bedside lamp, bedside table, alarm clock, dressing table, comb, hairbrush, chest of drawers, mirror, wardrobe</b> (also <b>pyjamas</b>, Unit 4) – <i>giường, đèn đầu giường, tủ đầu giường, đồng hồ báo thức, bàn trang điểm, lược, bàn chải tóc, tủ ngăn kéo, gương, tủ quần áo</i></li></ul> <p><b>B. Bathroom</b><br><i>B. Phòng tắm</i></p> <ul><li><b>toothpaste, toothbrush, shelf, soap, basin, razor, toilet, towel, shower, shampoo, shower gel</b> – <i>kem đánh răng, bàn chải đánh răng, kệ, xà phòng, bồn rửa mặt, dao cạo, bồn cầu, khăn tắm, vòi sen, dầu gội, sữa tắm</i></li></ul> <p><b>C. Emma’s routine</b><br><i>C. Thói quen của Emma</i></p> <p>Night: Emma <b>goes to bed</b> at 11, <b>goes upstairs</b>, gets undressed, reads, <b>turns off</b> the light and <b>falls asleep</b>. Morning: she <b>wakes up</b> when her alarm clock rings, <b>gets up</b>, <b>has a shower</b>, <b>cleans her teeth</b>, gets dressed and <b>goes downstairs</b> for breakfast.</p><p><i>Tối: Emma <b>đi ngủ</b> lúc 11 giờ, <b>lên tầng</b>, cởi đồ, đọc sách, <b>tắt</b> đèn và <b>ngủ thiếp đi</b>. Sáng: cô <b>thức dậy</b> khi chuông reo, <b>ra khỏi giường</b>, <b>tắm vòi sen</b>, <b>đánh răng</b>, mặc đồ và <b>xuống tầng</b> ăn sáng.</i></p>",
+ "items": [
+  {
+   "word": "bed",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bed/",
+   "def_en": "A piece of furniture that you sleep on.",
+   "def_vi": "Đồ nội thất để nằm ngủ.",
+   "gloss_vi": "giường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bed</i> (noun) = giường. <b>Grammar</b>: <i>go to bed, in bed</i> không dùng <i>the</i>. <b>Collocations / chunks</b>: <i>make the bed</i> (dọn giường).",
+   "ex_kit": true,
+   "example": {
+    "en": "She reads in <b>bed</b> for a bit.",
+    "vi": "Cô ấy đọc sách trên <b>giường</b> một lúc."
+   }
+  },
+  {
+   "word": "bedside lamp",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌbedsaɪd ˈlæmp/",
+   "def_en": "A small light next to your bed.",
+   "def_vi": "Đèn nhỏ cạnh giường.",
+   "gloss_vi": "đèn đầu giường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bedside lamp</i> (noun phrase) = đèn đầu giường. <b>Grammar</b>: danh từ ghép, đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "She switches on the <b>bedside lamp</b> to read.",
+    "vi": "Cô ấy bật <b>đèn đầu giường</b> để đọc sách."
+   }
+  },
+  {
+   "word": "alarm clock",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/əˈlɑːm klɒk/",
+   "def_en": "A clock that makes a noise to wake you up.",
+   "def_vi": "Đồng hồ kêu để đánh thức bạn.",
+   "gloss_vi": "đồng hồ báo thức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Alarm clock</i> (noun phrase) = đồng hồ báo thức. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>set the alarm clock</i> (đặt báo thức), <i>the alarm clock rings</i> (chuông reo).",
+   "example": {
+    "en": "She wakes up when her <b>alarm clock</b> rings.",
+    "vi": "Cô ấy thức dậy khi <b>đồng hồ báo thức</b> reo."
+   }
+  },
+  {
+   "word": "dressing table",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈdresɪŋ teɪbl/",
+   "def_en": "A table with a mirror where you sit to brush your hair or put on make-up.",
+   "def_vi": "Bàn có gương để chải tóc, trang điểm.",
+   "gloss_vi": "bàn trang điểm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dressing table</i> (noun phrase) = bàn trang điểm. <b>Grammar</b>: danh từ ghép, đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The comb is on the <b>dressing table</b>.",
+    "vi": "Lược ở trên <b>bàn trang điểm</b>."
+   }
+  },
+  {
+   "word": "comb",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəʊm/",
+   "def_en": "A flat piece of plastic or metal with thin teeth, used for making your hair tidy.",
+   "def_vi": "Miếng nhựa hay kim loại dẹt có răng mảnh để chải tóc.",
+   "gloss_vi": "lược",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Comb</i> (noun) = lược. <b>Grammar</b>: đếm được; chữ <i>b</i> câm /kəʊm/; cũng là động từ <i>comb your hair</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He tidied his hair with a <b>comb</b>.",
+    "vi": "Anh ấy chải tóc bằng <b>lược</b>."
+   }
+  },
+  {
+   "word": "chest of drawers",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌtʃest əv ˈdrɔːz/",
+   "def_en": "A piece of furniture with drawers for keeping clothes in.",
+   "def_vi": "Tủ có nhiều ngăn kéo để cất quần áo.",
+   "gloss_vi": "tủ ngăn kéo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chest of drawers</i> (noun phrase) = tủ ngăn kéo. <b>Grammar</b>: số nhiều <i>chests of drawers</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "My socks are in the <b>chest of drawers</b>.",
+    "vi": "Tất ở trong <b>tủ ngăn kéo</b>."
+   }
+  },
+  {
+   "word": "mirror",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɪrə(r)/",
+   "def_en": "A piece of glass in which you can see yourself.",
+   "def_vi": "Tấm kính để soi mình.",
+   "gloss_vi": "gương",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mirror</i> (noun) = gương. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>look in the mirror</i> (soi gương).",
+   "ex_kit": true,
+   "example": {
+    "en": "She looked in the <b>mirror</b>.",
+    "vi": "Cô ấy soi <b>gương</b>."
+   }
+  },
+  {
+   "word": "wardrobe",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɔːdrəʊb/",
+   "def_en": "A tall cupboard for hanging clothes in.",
+   "def_vi": "Tủ cao để treo quần áo.",
+   "gloss_vi": "tủ quần áo",
+   "synonyms": "closet <i>(n. tủ quần áo (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wardrobe</i> (noun) = tủ quần áo. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>in the wardrobe</i> (trong tủ).",
+   "ex_kit": true,
+   "example": {
+    "en": "Hang your coat in the <b>wardrobe</b>.",
+    "vi": "Treo áo khoác trong <b>tủ quần áo</b>."
+   }
+  },
+  {
+   "word": "bedside table",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌbedsaɪd ˈteɪbl/",
+   "def_en": "A small table next to a bed.",
+   "def_vi": "Bàn nhỏ cạnh giường.",
+   "gloss_vi": "tủ đầu giường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bedside table</i> (noun phrase) = tủ đầu giường. <b>Grammar</b>: danh từ ghép, đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The alarm clock is on the <b>bedside table</b>.",
+    "vi": "Đồng hồ báo thức ở trên <b>tủ đầu giường</b>."
+   }
+  },
+  {
+   "word": "hairbrush",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈheəbrʌʃ/",
+   "def_en": "A brush for making your hair tidy.",
+   "def_vi": "Bàn chải để chải tóc.",
+   "gloss_vi": "bàn chải tóc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hairbrush</i> (noun) = bàn chải tóc. <b>Grammar</b>: đếm được; danh từ ghép viết liền.",
+   "ex_kit": true,
+   "example": {
+    "en": "I can’t find my <b>hairbrush</b>.",
+    "vi": "Tôi không tìm thấy <b>bàn chải tóc</b>."
+   }
+  },
+  {
+   "word": "toothpaste",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈtuːθpeɪst/",
+   "def_en": "A substance that you put on a toothbrush to clean your teeth.",
+   "def_vi": "Chất bôi lên bàn chải để đánh răng.",
+   "gloss_vi": "kem đánh răng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Toothpaste</i> (uncountable noun) = kem đánh răng. <b>Grammar</b>: không đếm được: <i>a tube of toothpaste</i> (một tuýp kem).",
+   "ex_kit": true,
+   "example": {
+    "en": "We need some more <b>toothpaste</b>.",
+    "vi": "Chúng ta hết <b>kem đánh răng</b> rồi."
+   }
+  },
+  {
+   "word": "toothbrush",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtuːθbrʌʃ/",
+   "def_en": "A small brush for cleaning your teeth.",
+   "def_vi": "Bàn chải nhỏ để đánh răng.",
+   "gloss_vi": "bàn chải đánh răng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Toothbrush</i> (noun) = bàn chải đánh răng. <b>Grammar</b>: số nhiều <i>toothbrushes</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "My <b>toothbrush</b> is on the shelf.",
+    "vi": "<b>Bàn chải đánh răng</b> của tôi ở trên kệ."
+   }
+  },
+  {
+   "word": "soap",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/səʊp/",
+   "def_en": "A substance that you use with water to wash your body.",
+   "def_vi": "Chất dùng với nước để rửa người.",
+   "gloss_vi": "xà phòng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Soap</i> (uncountable noun) = xà phòng. <b>Grammar</b>: không đếm được; <i>a bar of soap</i> (một bánh xà phòng).",
+   "ex_kit": true,
+   "example": {
+    "en": "Wash your hands with <b>soap</b> and water.",
+    "vi": "Rửa tay bằng <b>xà phòng</b> và nước."
+   }
+  },
+  {
+   "word": "basin",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbeɪsn/",
+   "def_en": "A bowl in a bathroom with taps, where you wash your hands and face.",
+   "def_vi": "Chậu trong phòng tắm có vòi, để rửa tay mặt.",
+   "gloss_vi": "bồn rửa mặt",
+   "synonyms": "washbasin <i>(n. bồn rửa mặt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Basin</i> (noun) = bồn rửa mặt. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: khác <i>sink</i> (bồn rửa trong bếp).",
+   "ex_kit": true,
+   "example": {
+    "en": "She washed her face at the <b>basin</b>.",
+    "vi": "Cô ấy rửa mặt ở <b>bồn rửa mặt</b>."
+   }
+  },
+  {
+   "word": "razor",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈreɪzə(r)/",
+   "def_en": "A thing used for shaving.",
+   "def_vi": "Dụng cụ để cạo râu.",
+   "gloss_vi": "dao cạo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Razor</i> (noun) = dao cạo. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>electric razor</i> (máy cạo râu).",
+   "ex_kit": true,
+   "example": {
+    "en": "He shaves with a new <b>razor</b>.",
+    "vi": "Anh ấy cạo râu bằng <b>dao cạo</b> mới."
+   }
+  },
+  {
+   "word": "toilet",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtɔɪlət/",
+   "def_en": "A large bowl that you sit on to get rid of waste from your body; also the room.",
+   "def_vi": "Bồn cầu; cũng là phòng vệ sinh.",
+   "gloss_vi": "bồn cầu, nhà vệ sinh",
+   "synonyms": "loo <i>(n. nhà vệ sinh (thân mật))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Toilet</i> (noun) = bồn cầu, nhà vệ sinh. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>go to the toilet</i> (đi vệ sinh).",
+   "ex_kit": true,
+   "example": {
+    "en": "Where’s the <b>toilet</b>, please?",
+    "vi": "<b>Nhà vệ sinh</b> ở đâu ạ?"
+   }
+  },
+  {
+   "word": "towel",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtaʊəl/",
+   "def_en": "A piece of thick cloth for drying yourself.",
+   "def_vi": "Mảnh vải dày để lau khô người.",
+   "gloss_vi": "khăn tắm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Towel</i> (noun) = khăn tắm. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>bath towel</i> (khăn tắm), <i>tea towel</i> (khăn lau bát).",
+   "ex_kit": true,
+   "example": {
+    "en": "She dried herself with a <b>towel</b>.",
+    "vi": "Cô ấy lau khô người bằng <b>khăn tắm</b>."
+   }
+  },
+  {
+   "word": "shower",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈʃaʊə(r)/",
+   "def_en": "A thing that sends water over your body to wash it.",
+   "def_vi": "Thiết bị phun nước để tắm.",
+   "gloss_vi": "vòi sen",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "bath <i>(n. bồn tắm)</i>",
+   "grammar_vi": "<i>Shower</i> (noun) = vòi sen. <b>Grammar</b>: <i>have a shower</i> (Anh–Anh), <i>take a shower</i> (Mỹ). <b>Collocations / chunks</b>: <i>in the shower</i> (đang tắm).",
+   "example": {
+    "en": "She has a <b>shower</b>, cleans her teeth and gets dressed.",
+    "vi": "Cô ấy tắm <b>vòi sen</b>, đánh răng rồi mặc đồ."
+   }
+  },
+  {
+   "word": "shampoo",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ʃæmˈpuː/",
+   "def_en": "A liquid soap for washing your hair.",
+   "def_vi": "Xà phòng lỏng để gội đầu.",
+   "gloss_vi": "dầu gội",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shampoo</i> (uncountable noun) = dầu gội. <b>Grammar</b>: không đếm được; trọng âm âm 2. <b>Collocations / chunks</b>: <i>a bottle of shampoo</i> (một chai dầu gội).",
+   "ex_kit": true,
+   "example": {
+    "en": "This <b>shampoo</b> is good for dry hair.",
+    "vi": "<b>Dầu gội</b> này rất tốt cho tóc khô."
+   }
+  },
+  {
+   "word": "shower gel",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈʃaʊə dʒel/",
+   "def_en": "A liquid soap for washing your body in the shower.",
+   "def_vi": "Xà phòng lỏng để tắm vòi sen.",
+   "gloss_vi": "sữa tắm",
+   "synonyms": "body wash <i>(np. sữa tắm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shower gel</i> (noun phrase) = sữa tắm. <b>Grammar</b>: không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>shower gel</b> is on the shelf.",
+    "vi": "<b>Sữa tắm</b> ở trên kệ."
+   }
+  },
+  {
+   "word": "go to bed",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ tə ˈbed/",
+   "def_en": "To go to your bed to sleep.",
+   "def_vi": "Lên giường đi ngủ.",
+   "gloss_vi": "đi ngủ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "get up <i>(pv. thức dậy)</i>",
+   "grammar_vi": "<i>Go to bed</i> (verb phrase) = đi ngủ. <b>Grammar</b>: không có <i>the</i>: <i>go to bed</i>; quá khứ <i>went to bed</i>.",
+   "example": {
+    "en": "Emma <b>goes to bed</b> at 11 o’clock.",
+    "vi": "Emma <b>đi ngủ</b> lúc 11 giờ."
+   }
+  },
+  {
+   "word": "go upstairs",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ ʌpˈsteəz/",
+   "def_en": "To go to a higher floor of a building.",
+   "def_vi": "Lên tầng trên.",
+   "gloss_vi": "lên lầu, lên tầng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "go downstairs <i>(vp. xuống tầng)</i>",
+   "grammar_vi": "<i>Go upstairs</i> (verb phrase) = lên lầu, lên tầng. <b>Grammar</b>: <i>upstairs</i> là trạng từ, không dùng <i>to</i>: <i>go upstairs</i> (không nói <i>go to upstairs</i>).",
+   "example": {
+    "en": "She <b>goes upstairs</b> to her bedroom.",
+    "vi": "Cô ấy <b>lên tầng</b> về phòng ngủ."
+   }
+  },
+  {
+   "word": "turn off",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌtɜːn ˈɒf/",
+   "def_en": "To stop a machine or light working by pressing a switch.",
+   "def_vi": "Tắt máy hay đèn bằng công tắc.",
+   "gloss_vi": "tắt",
+   "synonyms": "switch off <i>(pv. tắt)</i>",
+   "antonyms": "turn on <i>(pv. bật)</i>",
+   "grammar_vi": "<i>Turn off</i> (phrasal verb) = tắt. <b>Grammar</b>: tách được: <i>turn the light off / turn it off</i>.",
+   "example": {
+    "en": "She <b>turns off</b> the light and falls asleep.",
+    "vi": "Cô ấy <b>tắt</b> đèn và ngủ thiếp đi."
+   }
+  },
+  {
+   "word": "fall asleep",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌfɔːl əˈsliːp/",
+   "def_en": "To start sleeping.",
+   "def_vi": "Bắt đầu ngủ.",
+   "gloss_vi": "ngủ thiếp đi",
+   "synonyms": "drop off <i>(pv. ngủ thiếp)</i>",
+   "antonyms": "wake up <i>(pv. thức dậy)</i>",
+   "grammar_vi": "<i>Fall asleep</i> (verb phrase) = ngủ thiếp đi. <b>Grammar</b>: quá khứ <i>fell asleep</i>. <b>Common mistakes</b>: khác <i>go to bed</i> (lên giường, có thể chưa ngủ).",
+   "example": {
+    "en": "She turns off the light and <b>falls asleep</b>.",
+    "vi": "Cô ấy tắt đèn và <b>ngủ thiếp đi</b>."
+   }
+  },
+  {
+   "word": "get up",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌɡet ˈʌp/",
+   "def_en": "To get out of bed.",
+   "def_vi": "Ra khỏi giường.",
+   "gloss_vi": "dậy, ra khỏi giường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "go to bed <i>(vp. đi ngủ)</i>",
+   "grammar_vi": "<i>Get up</i> (phrasal verb) = dậy, ra khỏi giường. <b>Grammar</b>: nội động từ; quá khứ <i>got up</i>. <b>Collocations / chunks</b>: <i>get up early</i> (dậy sớm).",
+   "example": {
+    "en": "She <b>gets up</b>.",
+    "vi": "Cô ấy <b>dậy</b>."
+   }
+  },
+  {
+   "word": "wake up",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌweɪk ˈʌp/",
+   "def_en": "To stop sleeping.",
+   "def_vi": "Thôi ngủ, tỉnh giấc.",
+   "gloss_vi": "thức dậy, tỉnh giấc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "fall asleep <i>(vp. ngủ thiếp đi)</i>",
+   "grammar_vi": "<i>Wake up</i> (phrasal verb) = thức dậy, tỉnh giấc. <b>Grammar</b>: quá khứ <i>woke up</i>; <i>wake sb up</i> (đánh thức ai). <b>Common mistakes</b>: <i>wake up</i> = tỉnh giấc, <i>get up</i> = ra khỏi giường.",
+   "example": {
+    "en": "She <b>wakes up</b> when her alarm clock rings.",
+    "vi": "Cô ấy <b>thức dậy</b> khi đồng hồ báo thức reo."
+   }
+  },
+  {
+   "word": "have a shower",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌhæv ə ˈʃaʊə(r)/",
+   "def_en": "To wash your body under a shower.",
+   "def_vi": "Tắm dưới vòi sen.",
+   "gloss_vi": "tắm vòi sen",
+   "synonyms": "take a shower <i>(vp. tắm (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have a shower</i> (verb phrase) = tắm vòi sen. <b>Grammar</b>: Anh–Anh dùng <i>have</i>; quá khứ <i>had a shower</i>.",
+   "example": {
+    "en": "She <b>has a shower</b>, cleans her teeth and gets dressed.",
+    "vi": "Cô ấy <b>tắm vòi sen</b>, đánh răng rồi mặc đồ."
+   }
+  },
+  {
+   "word": "clean your teeth",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌkliːn jə ˈtiːθ/",
+   "def_en": "To wash your teeth with a toothbrush.",
+   "def_vi": "Đánh răng bằng bàn chải.",
+   "gloss_vi": "đánh răng",
+   "synonyms": "brush your teeth <i>(vp. đánh răng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Clean your teeth</i> (verb phrase) = đánh răng. <b>Grammar</b>: dùng tính từ sở hữu: <i>cleans her teeth</i>.",
+   "example": {
+    "en": "She has a shower, <b>cleans her teeth</b> and gets dressed.",
+    "vi": "Cô ấy tắm, <b>đánh răng</b> rồi mặc đồ."
+   }
+  },
+  {
+   "word": "go downstairs",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ daʊnˈsteəz/",
+   "def_en": "To go to a lower floor of a building.",
+   "def_vi": "Xuống tầng dưới.",
+   "gloss_vi": "xuống tầng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "go upstairs <i>(vp. lên tầng)</i>",
+   "grammar_vi": "<i>Go downstairs</i> (verb phrase) = xuống tầng. <b>Grammar</b>: không dùng <i>to</i>: <i>go downstairs</i> (không nói <i>go to downstairs</i>).",
+   "example": {
+    "en": "She <b>goes downstairs</b> to the kitchen for breakfast.",
+    "vi": "Cô ấy <b>xuống tầng</b> vào bếp ăn sáng."
+   }
+  }
+ ]
+}

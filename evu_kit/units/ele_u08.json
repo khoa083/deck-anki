@@ -1,0 +1,386 @@
+{
+ "book": "ele",
+ "unit": 8,
+ "title_vi": "Hội thoại 1: Chào hỏi và lời chúc",
+ "theory_html": "<p><b>A. Every day</b><br><i>A. Hằng ngày</i></p> <p>Greetings: <b>good morning / afternoon / evening, hello, hi; How are you? – Fine, thanks. And you? / Not too bad.</b> Leaving: <b>Goodbye, See you soon!</b> (informal); at bedtime <b>Goodnight, Sleep well</b> (never <b>Goodnight</b> when you arrive). <b>Please</b> when you ask for something; <b>Thank you / Cheers</b> (informal) when someone does something nice. Also <b>Excuse me! Sorry! Bless you!</b></p><p><i>Chào: <b>chào buổi sáng/chiều/tối, xin chào</b>. Khi đi: <b>Tạm biệt, Hẹn sớm gặp lại</b> (thân mật); lúc đi ngủ <b>Chúc ngủ ngon</b> (không dùng khi mới đến). <b>Please</b> khi xin gì; <b>Thank you / Cheers</b> khi được giúp. Còn có <b>Xin lỗi (làm phiền)!, Xin lỗi!, Chúc bạn khỏe!</b> (khi ai hắt hơi).</i></p> <p><b>B. Special days</b><br><i>B. Dịp đặc biệt</i></p> <p><b>Happy Birthday! Happy / Merry Christmas! Happy New Year! Good luck!</b> (before an exam or interview) <b>Congratulations! / Well done!</b> (after doing something special). On birthdays say <b>Happy Birthday</b>, not <b>Congratulations</b>.</p><p><i><b>Chúc mừng sinh nhật! Giáng sinh vui vẻ! Chúc mừng năm mới! Chúc may mắn!</b> (trước kỳ thi, phỏng vấn) <b>Chúc mừng! / Giỏi lắm!</b> (sau thành công). Sinh nhật nói <b>Happy Birthday</b>, không nói <b>Congratulations</b>.</i></p>",
+ "items": [
+  {
+   "word": "good morning",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɡʊd ˈmɔːnɪŋ/",
+   "def_en": "A polite greeting used in the morning.",
+   "def_vi": "Lời chào lịch sự buổi sáng.",
+   "gloss_vi": "chào buổi sáng",
+   "synonyms": "morning <i>(intj. chào (thân mật))</i>",
+   "antonyms": "good evening <i>(phr. chào buổi tối)</i>",
+   "grammar_vi": "<i>Good morning</i> (phrase) = chào buổi sáng. <b>Grammar</b>: dùng đến khoảng 12 giờ trưa. <b>Collocations / chunks</b>: <i>Good morning, everyone!</i> (chào mọi người buổi sáng).",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Good morning</b>, Mrs Smith!",
+    "vi": "<b>Chào buổi sáng</b>, cô Smith!"
+   }
+  },
+  {
+   "word": "good afternoon",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɡʊd ˌɑːftəˈnuːn/",
+   "def_en": "A polite greeting used in the afternoon.",
+   "def_vi": "Lời chào lịch sự buổi chiều.",
+   "gloss_vi": "chào buổi chiều",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Good afternoon</i> (phrase) = chào buổi chiều. <b>Grammar</b>: dùng từ 12 giờ trưa đến khoảng 6 giờ chiều; khá trang trọng.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Good afternoon</b>. Can I help you?",
+    "vi": "<b>Chào buổi chiều</b>. Tôi giúp gì được ạ?"
+   }
+  },
+  {
+   "word": "good evening",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɡʊd ˈiːvnɪŋ/",
+   "def_en": "A polite greeting used in the evening.",
+   "def_vi": "Lời chào lịch sự buổi tối.",
+   "gloss_vi": "chào buổi tối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "good morning <i>(phr. chào buổi sáng)</i>",
+   "grammar_vi": "<i>Good evening</i> (phrase) = chào buổi tối. <b>Grammar</b>: dùng khi gặp vào buổi tối. <b>Common mistakes</b>: khi chia tay buổi tối nói <i>Goodnight</i>, không nói <i>Good evening</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Good evening</b>, ladies and gentlemen.",
+    "vi": "<b>Chào buổi tối</b> quý vị và các bạn."
+   }
+  },
+  {
+   "word": "hello",
+   "sense": "",
+   "pos": "exclamation",
+   "ipa": "/həˈləʊ/",
+   "def_en": "Used when you meet someone or answer the phone.",
+   "def_vi": "Dùng khi gặp ai hoặc nghe điện thoại.",
+   "gloss_vi": "xin chào, a lô",
+   "synonyms": "hi <i>(intj. chào)</i>",
+   "antonyms": "goodbye <i>(intj. tạm biệt)</i>",
+   "grammar_vi": "<i>Hello</i> (exclamation) = xin chào, a lô. <b>Grammar</b>: dùng được trong mọi tình huống. <b>Collocations / chunks</b>: <i>say hello to sb</i> (gửi lời chào ai).",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Hello</b>! How are you?",
+    "vi": "<b>Xin chào</b>! Bạn khỏe không?"
+   }
+  },
+  {
+   "word": "hi",
+   "sense": "",
+   "pos": "exclamation",
+   "ipa": "/haɪ/",
+   "def_en": "An informal way of saying hello.",
+   "def_vi": "Cách chào thân mật.",
+   "gloss_vi": "chào",
+   "synonyms": "hello <i>(intj. xin chào)</i>",
+   "antonyms": "bye <i>(intj. tạm biệt)</i>",
+   "grammar_vi": "<i>Hi</i> (exclamation) = chào. <b>Grammar</b>: thân mật, dùng với bạn bè. <b>Collocations / chunks</b>: <i>Hi there!</i> (chào nhé!).",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Hi</b>, Sam! Nice to see you.",
+    "vi": "<b>Chào</b> Sam! Lâu rồi không gặp."
+   }
+  },
+  {
+   "word": "How are you?",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌhaʊ ˈɑː ju/",
+   "def_en": "A question asking about someone’s health or life.",
+   "def_vi": "Câu hỏi thăm sức khỏe, tình hình.",
+   "gloss_vi": "bạn khỏe không?",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>How are you?</i> (phrase) = bạn khỏe không?. <b>Grammar</b>: trả lời <i>Fine, thanks. And you?</i> hoặc <i>Not too bad, thanks.</i>. <b>Common mistakes</b>: khác <i>How old are you?</i> (bao nhiêu tuổi).",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>How are you</b>? – Fine, thanks. And you?",
+    "vi": "<b>Bạn khỏe không</b>? – Khỏe, cảm ơn. Còn bạn?"
+   }
+  },
+  {
+   "word": "Not too bad",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌnɒt tuː ˈbæd/",
+   "def_en": "An informal answer meaning ‘quite well’.",
+   "def_vi": "Câu trả lời thân mật nghĩa là “khá ổn”.",
+   "gloss_vi": "cũng tạm ổn",
+   "synonyms": "OK <i>(adj. ổn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Not too bad</i> (phrase) = cũng tạm ổn. <b>Grammar</b>: câu trả lời cho <i>How are you?</i>. <b>Register</b>: thân mật.",
+   "ex_kit": true,
+   "example": {
+    "en": "How are you? – <b>Not too bad</b>, thanks.",
+    "vi": "Bạn khỏe không? – <b>Cũng tạm</b>, cảm ơn."
+   }
+  },
+  {
+   "word": "Goodbye",
+   "sense": "",
+   "pos": "exclamation",
+   "ipa": "/ɡʊdˈbaɪ/",
+   "def_en": "What you say when you leave someone.",
+   "def_vi": "Lời nói khi chia tay ai.",
+   "gloss_vi": "tạm biệt",
+   "synonyms": "bye <i>(intj. tạm biệt)</i>",
+   "antonyms": "hello <i>(intj. xin chào)</i>",
+   "grammar_vi": "<i>Goodbye</i> (exclamation) = tạm biệt. <b>Grammar</b>: thân mật hơn: <i>Bye!</i>, <i>Bye-bye!</i>. <b>Collocations / chunks</b>: <i>say goodbye to sb</i> (chào tạm biệt ai).",
+   "example": {
+    "en": "When we leave someone we usually say <b>Goodbye</b> and also perhaps See you soon!",
+    "vi": "Khi rời đi, ta thường nói <b>Tạm biệt</b> và có thể thêm Hẹn sớm gặp lại!"
+   }
+  },
+  {
+   "word": "See you soon!",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌsiː ju ˈsuːn/",
+   "def_en": "An informal way of saying goodbye when you will meet again.",
+   "def_vi": "Cách chào tạm biệt thân mật khi sẽ gặp lại.",
+   "gloss_vi": "hẹn sớm gặp lại",
+   "synonyms": "See you later! <i>(phr. gặp lại sau)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>See you soon!</i> (phrase) = hẹn sớm gặp lại. <b>Grammar</b>: câu rút gọn của <i>I’ll see you soon</i>. <b>Register</b>: khá thân mật.",
+   "example": {
+    "en": "When we leave someone we usually say Goodbye and also perhaps <b>See you soon</b>!",
+    "vi": "Khi chia tay, ta thường nói Tạm biệt và có thể thêm <b>Hẹn sớm gặp lại</b>!"
+   }
+  },
+  {
+   "word": "Goodnight",
+   "sense": "",
+   "pos": "exclamation",
+   "ipa": "/ɡʊdˈnaɪt/",
+   "def_en": "What you say when someone goes to bed or when you leave in the evening.",
+   "def_vi": "Lời nói khi ai đi ngủ hoặc khi chia tay buổi tối.",
+   "gloss_vi": "chúc ngủ ngon",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Goodnight</i> (exclamation) = chúc ngủ ngon. <b>Grammar</b>: chỉ dùng khi rời đi hoặc đi ngủ. <b>Common mistakes</b>: không nói <i>Goodnight</i> khi vừa đến.",
+   "example": {
+    "en": "When someone goes to bed, we usually say <b>Goodnight</b>.",
+    "vi": "Khi ai đi ngủ, ta thường nói <b>Chúc ngủ ngon</b>."
+   }
+  },
+  {
+   "word": "Sleep well",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌsliːp ˈwel/",
+   "def_en": "Said to someone who is going to bed.",
+   "def_vi": "Nói với người sắp đi ngủ.",
+   "gloss_vi": "ngủ ngon nhé",
+   "synonyms": "Sweet dreams <i>(phr. mơ đẹp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sleep well</i> (phrase) = ngủ ngon nhé. <b>Grammar</b>: câu mệnh lệnh mang nghĩa chúc. <b>Collocations / chunks</b>: <i>Goodnight, sleep well!</i> (chúc ngủ ngon).",
+   "example": {
+    "en": "We sometimes also say <b>Sleep well</b>.",
+    "vi": "Đôi khi ta còn nói <b>Ngủ ngon nhé</b>."
+   }
+  },
+  {
+   "word": "Please",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/pliːz/",
+   "def_en": "A polite word you use when you ask for something.",
+   "def_vi": "Từ lịch sự khi nhờ hay xin gì.",
+   "gloss_vi": "làm ơn, vui lòng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Please</i> (adverb) = làm ơn, vui lòng. <b>Grammar</b>: đặt đầu hoặc cuối câu: <i>A coffee, please.</i>. <b>Collocations / chunks</b>: <i>Yes, please.</i> (vâng, cho tôi).",
+   "example": {
+    "en": "If you ask for something you usually say <b>Please</b>.",
+    "vi": "Khi xin gì, ta thường nói <b>làm ơn</b>."
+   }
+  },
+  {
+   "word": "Thank you",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˈθæŋk ju/",
+   "def_en": "What you say when someone does something nice for you.",
+   "def_vi": "Lời nói khi ai làm điều tốt cho bạn.",
+   "gloss_vi": "cảm ơn",
+   "synonyms": "thanks <i>(intj. cảm ơn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Thank you</i> (phrase) = cảm ơn. <b>Grammar</b>: <i>thank you for</i> + danh từ/V-ing. <b>Collocations / chunks</b>: <i>Thank you very much.</i> (cảm ơn rất nhiều).",
+   "example": {
+    "en": "If someone does something nice for you, you say <b>Thank you</b> or Cheers (informal).",
+    "vi": "Khi ai làm điều tốt cho bạn, bạn nói <b>Cảm ơn</b> hoặc Cheers."
+   }
+  },
+  {
+   "word": "Cheers",
+   "sense": "",
+   "pos": "exclamation",
+   "ipa": "/tʃɪəz/",
+   "def_en": "An informal way of saying thank you; also said before a drink.",
+   "def_vi": "Cách cảm ơn thân mật; cũng nói khi nâng ly.",
+   "gloss_vi": "cảm ơn (thân mật); cạn ly",
+   "synonyms": "thanks <i>(intj. cảm ơn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cheers</i> (exclamation) = cảm ơn (thân mật); cạn ly. <b>Grammar</b>: thán từ. <b>Register</b>: thân mật, Anh–Anh. <b>Note</b>: nâng ly cũng nói <i>Cheers!</i>.",
+   "example": {
+    "en": "If someone does something nice for you, you say Thank you or <b>Cheers</b> (informal).",
+    "vi": "Khi ai làm điều tốt cho bạn, bạn nói Cảm ơn hoặc <b>Cheers</b> (thân mật)."
+   }
+  },
+  {
+   "word": "Excuse me",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪkˈskjuːz mi/",
+   "def_en": "A polite way to get someone’s attention or to ask to pass.",
+   "def_vi": "Cách lịch sự gây chú ý hay xin đi qua.",
+   "gloss_vi": "xin lỗi (cho hỏi/cho qua)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Excuse me</i> (phrase) = xin lỗi (cho hỏi/cho qua). <b>Grammar</b>: dùng trước khi hỏi/làm phiền. <b>Common mistakes</b>: khác <i>Sorry</i> (xin lỗi sau khi làm sai).",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Excuse me</b>, where is the station?",
+    "vi": "<b>Xin lỗi</b>, cho tôi hỏi nhà ga ở đâu?"
+   }
+  },
+  {
+   "word": "Sorry",
+   "sense": "",
+   "pos": "exclamation",
+   "ipa": "/ˈsɒri/",
+   "def_en": "What you say when you have done something wrong.",
+   "def_vi": "Lời nói khi làm sai điều gì.",
+   "gloss_vi": "xin lỗi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sorry</i> (exclamation) = xin lỗi. <b>Grammar</b>: <i>sorry for/about sth</i>; <i>I’m sorry</i>. <b>Common mistakes</b>: dùng sau khi lỡ làm sai; <i>Excuse me</i> dùng trước khi làm phiền.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Sorry</b>! I stood on your foot.",
+    "vi": "<b>Xin lỗi</b>! Tôi giẫm phải chân bạn."
+   }
+  },
+  {
+   "word": "Bless you",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˈbles ju/",
+   "def_en": "What you say when someone sneezes.",
+   "def_vi": "Câu nói khi ai đó hắt hơi.",
+   "gloss_vi": "chúc bạn khỏe (khi ai hắt hơi)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bless you</i> (phrase) = chúc bạn khỏe (khi ai hắt hơi). <b>Grammar</b>: câu cố định. <b>Note</b>: phong tục nói khi người khác hắt hơi.",
+   "ex_kit": true,
+   "example": {
+    "en": "Atchoo! – <b>Bless you</b>!",
+    "vi": "Atchoo! – <b>Chúc bạn khỏe</b>!"
+   }
+  },
+  {
+   "word": "Happy Birthday!",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌhæpi ˈbɜːθdeɪ/",
+   "def_en": "What you say to someone on their birthday.",
+   "def_vi": "Lời chúc ai đó vào ngày sinh nhật.",
+   "gloss_vi": "chúc mừng sinh nhật!",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Happy Birthday!</i> (phrase) = chúc mừng sinh nhật!. <b>Grammar</b>: câu chúc cố định. <b>Common mistakes</b>: không nói <i>Congratulations</i> vào sinh nhật.",
+   "example": {
+    "en": "When it’s someone’s birthday we say: <b>Happy Birthday</b>.",
+    "vi": "Khi là sinh nhật ai đó, ta nói: <b>Chúc mừng sinh nhật</b>."
+   }
+  },
+  {
+   "word": "Merry Christmas!",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌmeri ˈkrɪsməs/",
+   "def_en": "What you say to someone at Christmas.",
+   "def_vi": "Lời chúc vào dịp Giáng sinh.",
+   "gloss_vi": "Giáng sinh vui vẻ!",
+   "synonyms": "Happy Christmas! <i>(phr. Giáng sinh vui vẻ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Merry Christmas!</i> (phrase) = Giáng sinh vui vẻ!. <b>Grammar</b>: câu chúc cố định; cũng nói <i>Happy Christmas!</i>. <b>Common mistakes</b>: <i>Christmas</i> đọc /ˈkrɪsməs/, chữ <i>t</i> câm.",
+   "example": {
+    "en": "It’s Christmas: <b>Happy / Merry Christmas</b>!",
+    "vi": "Khi là Giáng sinh: <b>Giáng sinh vui vẻ</b>!"
+   }
+  },
+  {
+   "word": "Happy New Year!",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌhæpi njuː ˈjɪə(r)/",
+   "def_en": "What you say to someone at the start of the new year.",
+   "def_vi": "Lời chúc đầu năm mới.",
+   "gloss_vi": "chúc mừng năm mới!",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Happy New Year!</i> (phrase) = chúc mừng năm mới!. <b>Grammar</b>: câu chúc cố định. <b>Collocations / chunks</b>: <i>New Year’s Day</i> (ngày đầu năm), <i>New Year’s Eve</i> (đêm giao thừa).",
+   "example": {
+    "en": "It’s New Year’s Day: <b>Happy New Year</b>!",
+    "vi": "Khi là ngày đầu năm mới: <b>Chúc mừng năm mới</b>!"
+   }
+  },
+  {
+   "word": "Good luck!",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌɡʊd ˈlʌk/",
+   "def_en": "What you say to someone who is going to do something difficult.",
+   "def_vi": "Lời chúc người sắp làm việc khó.",
+   "gloss_vi": "chúc may mắn!",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Good luck!</i> (phrase) = chúc may mắn!. <b>Grammar</b>: <i>Good luck with/in</i> + việc: <i>Good luck with your exam!</i>. <b>Collocations / chunks</b>: dùng trước kỳ thi, phỏng vấn.",
+   "example": {
+    "en": "Someone is taking an exam or having an interview for a job: <b>Good luck</b>!",
+    "vi": "Ai đó sắp thi hoặc phỏng vấn xin việc: <b>Chúc may mắn</b>!"
+   }
+  },
+  {
+   "word": "Congratulations!",
+   "sense": "",
+   "pos": "exclamation",
+   "ipa": "/kənˌɡrætʃuˈleɪʃnz/",
+   "def_en": "What you say when someone has done something special.",
+   "def_vi": "Lời chúc mừng khi ai làm được điều đặc biệt.",
+   "gloss_vi": "chúc mừng!",
+   "synonyms": "well done <i>(phr. giỏi lắm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Congratulations!</i> (exclamation) = chúc mừng!. <b>Grammar</b>: luôn có <i>-s</i>; <i>Congratulations on</i> + việc (<i>on your new baby</i>). <b>Common mistakes</b>: không dùng vào sinh nhật.",
+   "example": {
+    "en": "Someone has done well in an exam or had a baby: <b>Congratulations</b>!",
+    "vi": "Ai đó thi tốt hoặc vừa sinh em bé: <b>Chúc mừng</b>!"
+   }
+  },
+  {
+   "word": "Well done!",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌwel ˈdʌn/",
+   "def_en": "Said to praise someone who has done something well.",
+   "def_vi": "Lời khen ai làm tốt.",
+   "gloss_vi": "giỏi lắm!, làm tốt lắm!",
+   "synonyms": "Congratulations! <i>(intj. chúc mừng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Well done!</i> (phrase) = giỏi lắm!, làm tốt lắm!. <b>Grammar</b>: câu khen cố định. <b>Collocations / chunks</b>: <i>Well done! You passed your exam.</i> (giỏi lắm, bạn đỗ rồi).",
+   "example": {
+    "en": "Someone has done well in an exam: <b>Well done</b>!",
+    "vi": "Ai đó thi tốt: <b>Giỏi lắm</b>!"
+   }
+  }
+ ]
+}

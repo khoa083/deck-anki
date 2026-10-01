@@ -1,0 +1,296 @@
+{
+ "book": "ele",
+ "unit": 9,
+ "title_vi": "Hội thoại 2: Từ và cách nói hữu ích",
+ "theory_html": "<p><b>A. Words</b><br><i>A. Từ</i></p> <ul><li><b>actually</b> – in reality (not ‘now’); <b>really</b> – very; <b>else</b> – in addition or different; <b>around</b> – about, approximately; <b>anyway</b> – (1) giving a reason (2) returning to an earlier subject – <i><b>actually</b> – thật ra (không phải “bây giờ”); <b>really</b> – rất; <b>else</b> – nữa, khác; <b>around</b> – khoảng; <b>anyway</b> – (1) dù sao thì (2) quay lại chuyện cũ</i></li></ul> <p><b>B. Expressions</b><br><i>B. Cách nói</i></p> <p>Suggestions: <b>Why don’t we go…? Let’s go… How about / What about going…?</b> Answers: <b>I don’t mind. It’s up to you.</b> Reactions: <b>Oh dear! It doesn’t matter. What a pity! Well done! Hurry up! Look out! / Be careful! Absolutely! I agree</b> (not <b>I am agree</b>).</p><p><i>Gợi ý: <b>Sao ta không…? Ta hãy… Hay là…?</b> Đáp: <b>Tôi sao cũng được. Tùy bạn.</b> Phản ứng: <b>Ôi trời! Không sao. Tiếc quá! Giỏi lắm! Nhanh lên! Coi chừng! Đúng vậy! Tôi đồng ý.</b></i></p>",
+ "items": [
+  {
+   "word": "actually",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈæktʃuəli/",
+   "def_en": "In reality; really.",
+   "def_vi": "Trên thực tế, thật ra.",
+   "gloss_vi": "thật ra",
+   "synonyms": "in fact <i>(pp. thực tế)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Actually</i> (adverb) = thật ra. <b>Grammar</b>: trạng từ, thường đứng trước tính từ/động từ hoặc đầu câu. <b>Common mistakes</b>: <i>actually</i> = “thật ra”, không phải “hiện nay”.",
+   "example": {
+    "en": "People say bad things about her, but she’s <b>actually</b> very nice.",
+    "vi": "Người ta nói xấu cô ấy, nhưng <b>thật ra</b> cô ấy rất tốt."
+   }
+  },
+  {
+   "word": "really",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈriːəli/",
+   "def_en": "Very.",
+   "def_vi": "Rất.",
+   "gloss_vi": "rất, thật sự",
+   "synonyms": "very <i>(adv. rất)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Really</i> (adverb) = rất, thật sự. <b>Grammar</b>: đứng trước tính từ: <i>really good</i>; trước động từ: <i>I really like it</i>. <b>Common mistakes</b>: không nói <i>I very like</i>.",
+   "example": {
+    "en": "The book is <b>really</b> good.",
+    "vi": "Cuốn sách <b>rất</b> hay."
+   }
+  },
+  {
+   "word": "else",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/els/",
+   "def_en": "In addition, or different.",
+   "def_vi": "Thêm vào, hoặc khác.",
+   "gloss_vi": "khác, nữa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Else</i> (adverb) = khác, nữa. <b>Grammar</b>: đứng sau <i>anything, something, somewhere, who, what</i>: <i>anything else</i>. <b>Collocations / chunks</b>: <i>somewhere else</i> (chỗ khác).",
+   "example": {
+    "en": "Do you want to buy anything <b>else</b>? Or go somewhere else?",
+    "vi": "Bạn có muốn mua gì <b>nữa</b> không? Hay đi chỗ khác?"
+   }
+  },
+  {
+   "word": "around",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/əˈraʊnd/",
+   "def_en": "About; approximately.",
+   "def_vi": "Khoảng, xấp xỉ.",
+   "gloss_vi": "khoảng",
+   "synonyms": "about <i>(adv. khoảng)</i>",
+   "antonyms": "exactly <i>(adv. chính xác)</i>",
+   "grammar_vi": "<i>Around</i> (adverb) = khoảng. <b>Grammar</b>: đứng trước số: <i>at around 6 o’clock</i>. <b>Collocations / chunks</b>: <i>around ten people</i> (khoảng mười người).",
+   "example": {
+    "en": "I’ll meet you at <b>around</b> 6 o’clock.",
+    "vi": "Tôi sẽ gặp bạn vào <b>khoảng</b> 6 giờ."
+   }
+  },
+  {
+   "word": "anyway",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈeniweɪ/",
+   "def_en": "Used to give a reason for doing something, or to return to an earlier subject.",
+   "def_vi": "Dùng để đưa lý do, hoặc quay lại chuyện trước.",
+   "gloss_vi": "dù sao thì; mà thôi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Anyway</i> (adverb) = dù sao thì; mà thôi. <b>Grammar</b>: đứng cuối câu (lý do) hoặc đầu câu (quay lại chủ đề): <i>Anyway, as I said…</i>. <b>Register</b>: thân mật.",
+   "example": {
+    "en": "I’ll drive you home. I’m going that way <b>anyway</b>.",
+    "vi": "Tôi sẽ chở bạn về. Đằng nào tôi cũng đi đường đó <b>mà</b>."
+   }
+  },
+  {
+   "word": "Why don’t we…?",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌwaɪ dəʊnt wi/",
+   "def_en": "Used to make a suggestion.",
+   "def_vi": "Dùng để đưa ra gợi ý.",
+   "gloss_vi": "sao ta không…?, hay là ta…",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Why don’t we…?</i> (phrase) = sao ta không…?, hay là ta…. <b>Grammar</b>: <i>Why don’t we</i> + động từ nguyên mẫu. <b>Common mistakes</b>: không nói <i>Why don’t we going</i>.",
+   "example": {
+    "en": "A: <b>Why don’t we</b> go to the cinema this evening?",
+    "vi": "<b>Sao ta không</b> đi xem phim tối nay nhỉ?"
+   }
+  },
+  {
+   "word": "Let’s",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/lets/",
+   "def_en": "Used to suggest that you and other people do something.",
+   "def_vi": "Dùng để rủ người khác cùng làm gì.",
+   "gloss_vi": "ta hãy…, cùng… nào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Let’s</i> (phrase) = ta hãy…, cùng… nào. <b>Grammar</b>: <i>Let’s</i> + động từ nguyên mẫu (<i>Let’s go</i>); phủ định <i>Let’s not</i>. <b>Common mistakes</b>: không nói <i>Let’s going</i>.",
+   "example": {
+    "en": "<b>Let’s</b> go and see a film and then have a meal.",
+    "vi": "Ý hay. <b>Ta hãy</b> đi xem phim rồi đi ăn."
+   }
+  },
+  {
+   "word": "I don’t mind",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/aɪ ˌdəʊnt ˈmaɪnd/",
+   "def_en": "It is all the same to me.",
+   "def_vi": "Với tôi cái nào cũng được.",
+   "gloss_vi": "tôi sao cũng được",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>I don’t mind</i> (phrase) = tôi sao cũng được. <b>Grammar</b>: câu trả lời cố định. <b>Collocations / chunks</b>: <i>I don’t mind which film.</i> (phim nào cũng được).",
+   "example": {
+    "en": "B: <b>I don’t mind</b>. [It’s all the same to me.] It’s up to you. [You can decide.]",
+    "vi": "<b>Tôi sao cũng được</b>. Tùy bạn."
+   }
+  },
+  {
+   "word": "It’s up to you",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪts ˌʌp tə ˈjuː/",
+   "def_en": "You can decide.",
+   "def_vi": "Bạn quyết định.",
+   "gloss_vi": "tùy bạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>It’s up to you</i> (phrase) = tùy bạn. <b>Grammar</b>: <i>up to</i> + người = do ai quyết. <b>Collocations / chunks</b>: <i>It’s up to you.</i> (tùy bạn).",
+   "example": {
+    "en": "B: I don’t mind. [It’s all the same to me.] <b>It’s up to you</b>. [You can decide.]",
+    "vi": "Tôi sao cũng được. <b>Tùy bạn</b>."
+   }
+  },
+  {
+   "word": "What about",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˈwɒt əbaʊt/",
+   "def_en": "Used to make a suggestion.",
+   "def_vi": "Dùng để đưa ra gợi ý.",
+   "gloss_vi": "hay là…?, còn… thì sao?",
+   "synonyms": "how about <i>(phr. hay là)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>What about</i> (phrase) = hay là…?, còn… thì sao?. <b>Grammar</b>: <i>What about</i> + danh từ/V-ing: <i>What about going…?</i>. <b>Common mistakes</b>: không nói <i>What about go</i>.",
+   "example": {
+    "en": "A: How about / <b>What about</b> the new Angelina Jolie film?",
+    "vi": "<b>Hay là</b> phim mới của Angelina Jolie nhé?"
+   }
+  },
+  {
+   "word": "Oh dear!",
+   "sense": "",
+   "pos": "exclamation",
+   "ipa": "/əʊ ˈdɪə(r)/",
+   "def_en": "Used when you are surprised or disappointed.",
+   "def_vi": "Dùng khi ngạc nhiên hay thất vọng.",
+   "gloss_vi": "ôi trời!",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Oh dear!</i> (exclamation) = ôi trời!. <b>Grammar</b>: thán từ. <b>Register</b>: thân mật.",
+   "example": {
+    "en": "B: <b>Oh dear</b>!",
+    "vi": "<b>Ôi trời</b>! Sếp bạn có giận không?"
+   }
+  },
+  {
+   "word": "it doesn’t matter",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪt ˌdʌznt ˈmætə(r)/",
+   "def_en": "It is not important.",
+   "def_vi": "Không quan trọng.",
+   "gloss_vi": "không sao đâu",
+   "synonyms": "never mind <i>(phr. không sao)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>It doesn’t matter</i> (phrase) = không sao đâu. <b>Grammar</b>: câu đáp cố định khi ai xin lỗi. <b>Collocations / chunks</b>: <i>It doesn’t matter.</i> (không sao).",
+   "example": {
+    "en": "B: Oh, <b>it doesn’t matter</b>.",
+    "vi": "Ồ, <b>không sao đâu</b>. Tôi không cần nó."
+   }
+  },
+  {
+   "word": "What a pity!",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌwɒt ə ˈpɪti/",
+   "def_en": "Used when you are disappointed.",
+   "def_vi": "Dùng khi thấy thất vọng.",
+   "gloss_vi": "tiếc quá!",
+   "synonyms": "What a shame! <i>(phr. tiếc thật)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>What a pity!</i> (phrase) = tiếc quá!. <b>Grammar</b>: cấu trúc <i>What a</i> + danh từ!. <b>Collocations / chunks</b>: dùng khi ai báo không đến được.",
+   "example": {
+    "en": "B: <b>What a pity</b>!",
+    "vi": "<b>Tiếc quá</b>!"
+   }
+  },
+  {
+   "word": "Hurry up!",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌhʌri ˈʌp/",
+   "def_en": "Be quick.",
+   "def_vi": "Nhanh lên.",
+   "gloss_vi": "nhanh lên!",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "slow down <i>(pv. chậm lại)</i>",
+   "grammar_vi": "<i>Hurry up!</i> (phrasal verb) = nhanh lên!. <b>Grammar</b>: thường dùng mệnh lệnh: <i>Hurry up!</i>. <b>Collocations / chunks</b>: <i>hurry up and finish</i> (nhanh chóng làm xong).",
+   "example": {
+    "en": "A: <b>Hurry up</b>!",
+    "vi": "<b>Nhanh lên</b>! Taxi đến rồi."
+   }
+  },
+  {
+   "word": "Look out!",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌlʊk ˈaʊt/",
+   "def_en": "Used to warn someone of danger.",
+   "def_vi": "Dùng để cảnh báo nguy hiểm.",
+   "gloss_vi": "coi chừng!",
+   "synonyms": "Be careful! <i>(phr. cẩn thận)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Look out!</i> (phrasal verb) = coi chừng!. <b>Grammar</b>: câu mệnh lệnh. <b>Collocations / chunks</b>: <i>Look out! There’s a car coming.</i> (coi chừng, có xe).",
+   "example": {
+    "en": "A: <b>Look out</b>! / Be careful!",
+    "vi": "<b>Coi chừng</b>! Có xe đang tới."
+   }
+  },
+  {
+   "word": "Be careful!",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/bi ˈkeəfl/",
+   "def_en": "Used to tell someone to pay attention so that they do not get hurt.",
+   "def_vi": "Bảo ai chú ý để khỏi bị thương.",
+   "gloss_vi": "cẩn thận!",
+   "synonyms": "Look out! <i>(pv. coi chừng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be careful!</i> (phrase) = cẩn thận!. <b>Grammar</b>: <i>be careful with/of sth</i>. <b>Word family</b>: <i>careful</i> (adj.), <i>carefully</i> (adv.).",
+   "example": {
+    "en": "A: Look out! / <b>Be careful</b>!",
+    "vi": "<b>Cẩn thận</b>! Có xe đang tới."
+   }
+  },
+  {
+   "word": "Absolutely!",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌæbsəˈluːtli/",
+   "def_en": "Used when you agree strongly.",
+   "def_vi": "Dùng khi rất đồng ý.",
+   "gloss_vi": "hoàn toàn đúng!",
+   "synonyms": "definitely <i>(adv. chắc chắn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Absolutely!</i> (adverb) = hoàn toàn đúng!. <b>Grammar</b>: dùng một mình như câu trả lời. <b>Register</b>: thân mật, nhiệt tình.",
+   "example": {
+    "en": "B: <b>Absolutely</b>! What about getting her a scarf?",
+    "vi": "<b>Hoàn toàn đúng</b>! Mua cho cô ấy chiếc khăn thì sao?"
+   }
+  },
+  {
+   "word": "I agree",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/aɪ əˈɡriː/",
+   "def_en": "Used to say you have the same opinion.",
+   "def_vi": "Dùng để nói có cùng ý kiến.",
+   "gloss_vi": "tôi đồng ý",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "I don’t agree <i>(phr. tôi không đồng ý)</i>",
+   "grammar_vi": "<i>I agree</i> (phrase) = tôi đồng ý. <b>Grammar</b>: <i>agree</i> là động từ: <i>I agree / I don’t agree</i>. <b>Common mistakes</b>: không nói <i>I am agree</i>.",
+   "example": {
+    "en": "A: <b>I agree</b>.",
+    "vi": "<b>Tôi đồng ý</b>. Chiều nay đi mua sắm nhé."
+   }
+  }
+ ]
+}
