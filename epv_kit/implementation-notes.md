@@ -15,6 +15,7 @@
 | 4 | Adv 31–35 | 93 mục / 186 thẻ + 5 note lý thuyết + 93 audio | build 740 note / 1443 thẻ, 0 bad renders, audio 356/356 |
 | 5 | Adv 36–40 | 86 mục / 172 thẻ + 5 note lý thuyết + 86 audio | build 831 note / 1620 thẻ, 0 bad renders, audio 442/442 |
 | 6 | Adv 41–45 | 92 mục / 184 thẻ + 5 note lý thuyết + 92 audio | build 928 note / 1809 thẻ, 0 bad renders, audio 534/534 |
+| 7 | Adv 46 → (đang làm, từng unit kiểm kỹ xong mới sang unit sau) | xem mục Lượt 7 | – |
 
 ## Quyết định (xem PROMPT.md §3)
 D1 thứ tự Adv 16→60 → bổ sung demo → Int 1→70 · D2 IPA chuẩn Anh (config.ipa_style) · D3 1 deck gốc `English Phrasal Verbs in Use` → `Advanced`/`Intermediate` · D4 thẻ demo chỉ có ở bản 1: giữ + tag `EPV::demo_ban1` · D5 audio **bắt buộc**: Kokoro TTS offline, giọng Anh–Anh nam `bm_george` (sửa từ lượt 1c; trước đó để trống) · D6 chọn mục theo Mini dictionary + cụm in đậm.
@@ -113,6 +114,18 @@ D1 thứ tự Adv 16→60 → bổ sung demo → Int 1→70 · D2 IPA chuẩn An
 - Viết lại def_en trùng Mini ≥70%: `have something against`, `work yourself into`, `pick up`, `bend down`, `stick out`, `swing around`. Viết lại ví dụ quá sát câu bài tập: `clam up`, `bend down`, `put somebody on`, `throw off`.
 - Cảnh báo coverage còn lại là báo nhầm của heuristic: `pass by (swh)` (đã có thẻ `pass by`), `double (sb) over/up` (đã có `double up`, ghi chú `double over`).
 - Sửa phát âm TTS: *pass by*, *pass on* (BATH /ɑː/), *bunged-up* (TTS đọc /bʌndʒd/ → /bʌŋd/).
+
+**Lượt 7 (Adv 46 → …) – quy trình kiểm kỹ từng unit (người dùng yêu cầu: verify xong unit này mới sang unit khác)**
+- Session này có 2 PDF gốc (người dùng tải lên GitHub, nhánh `main`) → `books/adv.pdf`, `books/int.pdf`; `selftest` OK (Advanced 60/60 tên unit khớp).
+- Thêm `tools/review_unit.py <unit> --render`: in từng thẻ cạnh dòng Mini dictionary; audio (ffprobe: tồn tại, mp3, 0.4–6 s; mean_volume > −40 dB; không trùng md5); phoneme TTS cạnh IPA; render cả 2 thẻ của mọi note trong gói đã build (không `{{`, có `[sound:]` trỏ file có thật, có lý thuyết, 2 thẻ ở 2 deck nhìn/nghe).
+- Thêm `tools/headwords.py <từ khoá>`: tra nhanh headword đã có (demo + units) để kiểm trùng.
+- **u46 How people move** (17 mục / 34 thẻ + 1 lý thuyết): xem ảnh trang 96–97, đối chiếu từng thẻ. Lỗi `check` không bắt được, đã sửa:
+  `clear out` – grammar_vi gán câu 46.2/5 cho “đội cứu hỏa” (sách: *the message warned them…*), ví dụ thêm chi tiết “thứ Sáu” (sách: cuối tuần), Common mistakes nêu nghĩa ngoài unit (*clear out the flat* = dọn dẹp) → bỏ;
+  `hang back` – ví dụ thêm “chuồng hổ”, “hơi sợ” không có trong sách → bỏ; `pile into/out of` – bỏ chi tiết thêm, câu 46.1/4 (năm người, xe nhỏ); `stand back` – ví dụ đổi đúng người nói (*fire chief*), bỏ Common mistakes ngoài unit (*stand by*);
+  `steal away` – “còi cảnh sát” → “xe cảnh sát” như 46.3/5; `gain on` – bỏ “slowly”; lý thuyết `creep up on` – sách chỉ nói xin lỗi vì đùa, không nói “từ phía sau/bạn giật mình”;
+  đồng nghĩa sai nghĩa: `crowd out` (nghĩa thật là ‘chèn ép, loại ra’) → `leave in a rush`; `stay behind` → `not move forwards`; câu lấy từ đáp án 46.4 ghi rõ “câu gợi ý”.
+  Cảnh báo còn lại: `pile into swh` (báo nhầm – heuristic coi *swh* là từ; thẻ `pile into somewhere` có); 7 cảnh báo “sách…” đều kiểm được trên ảnh trang (*informal* ở bảng B, *hung back*, *stood well back*) hoặc là chữ “sách” = books.
+  Kết quả: check 0 LỖI; review 0 vấn đề; audio 17/17 (1.0–2.5 s, −20…−21 dB); render 35/35 thẻ; verify 992 note / 1934 thẻ, 0 bad renders, audio 595/595.
 
 ## Kiểm trôi
 - Lượt 6: kiểm u23 và u26 với src. u26 khớp (email Esther, register informal của *add up/bump up/knock down*). u23: 2 ví dụ có bối cảnh tự đặt **mâu thuẫn sách** → đã sửa: `rule out` (sách: Kate bảo đừng loại Olive Bistro trước khi xem – câu cũ ‘sếp loại DJ vì đắt’ không có trong sách); `settle on` (câu cũ ‘xem ba quán, chọn rẻ nhất’ không có trong sách → nay: nhóm có đến cuối tuần để chốt địa điểm tiệc ra mắt). Chạy lại gen + check u23: 0 LỖI. Bài học: ở các lượt sau, ví dụ ‘ngữ cảnh sách’ phải dò lại chi tiết sự việc, không chỉ tên nhân vật.
