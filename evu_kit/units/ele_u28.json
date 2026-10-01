@@ -1,0 +1,396 @@
+{
+ "book": "ele",
+ "unit": 28,
+ "title_vi": "Thời tiết",
+ "theory_html": "<p><b>A. Types of weather</b><br><i>A. Các kiểu thời tiết</i></p> <ul><li><b>snow, sun, rain, cloud, fog, wind, thunder, lightning</b> – <i>tuyết, nắng, mưa, mây, sương mù, gió, sấm, chớp</i></li></ul> <p><b>B. Adjectives and verbs</b><br><i>B. Tính từ và động từ</i></p> <p>Nouns → adjectives with <b>-y</b>: <b>sunny, rainy, windy, cloudy, snowy, foggy, thundery</b> (no adjective for <b>lightning</b>). Say <b>It’s windy / cloudy</b> (not <b>It’s winding / clouding</b>).</p><p><i>Danh từ → tính từ thêm <b>-y</b>. Nói <b>It’s windy</b>, không nói <b>It’s winding</b>.</i></p> <p><b>C. Other useful weather words</b><br><i>C. Từ hữu ích khác</i></p> <p><b>hot</b> (45 degrees), <b>cold</b> (minus 50 degrees), <b>wet, dry</b>; a <b>hurricane</b> is a very strong wind; a <b>storm</b> is strong wind and rain; a <b>thunderstorm</b> has thunder, lightning and rain.</p><p><i><b>nóng, lạnh, ẩm ướt, khô</b>; <b>bão lớn</b>, <b>giông bão</b>, <b>dông có sấm sét</b>.</i></p> <p><b>D. Expressions</b><br><i>D. Cách nói</i></p> <p><b>It’s a sunny day in Tokyo, but it’s cloudy in Hong Kong. It’s raining in Barcelona but the sun is shining in Granada. What’s the weather like in your country in June? – It’s usually warm and sunny.</b></p><p><i><b>Hôm nay Tokyo nắng, Hồng Kông nhiều mây. Barcelona mưa còn Granada nắng. Thời tiết nước bạn tháng Sáu thế nào? – Thường ấm và nắng.</b></i></p>",
+ "items": [
+  {
+   "word": "snow",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/snəʊ/",
+   "def_en": "Soft white pieces of frozen water that fall from the sky.",
+   "def_vi": "Những mảnh nước đông mềm trắng rơi từ trời.",
+   "gloss_vi": "tuyết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Snow</i> (noun) = tuyết. <b>Grammar</b>: danh từ không đếm được; động từ <i>it’s snowing</i>. <b>Word family</b>: <i>snowy</i> (adj.).",
+   "example": {
+    "en": "It’s <b>snowing</b> / it’s snowy in Moscow.",
+    "vi": "Ở Moscow <b>đang có tuyết</b>."
+   }
+  },
+  {
+   "word": "sun",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/sʌn/",
+   "def_en": "The star that gives light and heat to the earth.",
+   "def_vi": "Ngôi sao cho Trái Đất ánh sáng và nhiệt.",
+   "gloss_vi": "mặt trời, nắng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sun</i> (noun) = mặt trời, nắng. <b>Grammar</b>: dùng <i>the sun</i>. <b>Word family</b>: <i>sunny</i> (adj.).",
+   "example": {
+    "en": "It’s raining in Barcelona but <b>the sun is shining</b> in Granada.",
+    "vi": "Barcelona mưa nhưng <b>mặt trời</b> đang chiếu sáng ở Granada."
+   }
+  },
+  {
+   "word": "rain",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/reɪn/",
+   "def_en": "Water that falls from clouds.",
+   "def_vi": "Nước rơi từ mây.",
+   "gloss_vi": "mưa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rain</i> (noun) = mưa. <b>Grammar</b>: không đếm được; động từ <i>it’s raining</i>. <b>Word family</b>: <i>rainy</i> (adj.).",
+   "example": {
+    "en": "It’s <b>raining</b> in Barcelona.",
+    "vi": "Ở Barcelona <b>đang mưa</b>."
+   }
+  },
+  {
+   "word": "cloud",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/klaʊd/",
+   "def_en": "A grey or white mass in the sky made of small drops of water.",
+   "def_vi": "Khối trắng hay xám trên trời từ giọt nước nhỏ.",
+   "gloss_vi": "mây",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cloud</i> (noun) = mây. <b>Grammar</b>: đếm được. <b>Word family</b>: <i>cloudy</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "There are a lot of dark <b>clouds</b> today.",
+    "vi": "Hôm nay có nhiều <b>mây</b> đen."
+   }
+  },
+  {
+   "word": "fog",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/fɒɡ/",
+   "def_en": "Thick cloud close to the ground that makes it difficult to see.",
+   "def_vi": "Mây dày sát mặt đất khiến khó nhìn.",
+   "gloss_vi": "sương mù",
+   "synonyms": "mist <i>(n. sương mỏng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fog</i> (noun) = sương mù. <b>Grammar</b>: không đếm được. <b>Word family</b>: <i>foggy</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "The plane couldn’t leave because of the <b>fog</b>.",
+    "vi": "Máy bay không cất cánh được vì <b>sương mù</b>."
+   }
+  },
+  {
+   "word": "wind",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/wɪnd/",
+   "def_en": "Air that moves quickly.",
+   "def_vi": "Không khí chuyển động nhanh.",
+   "gloss_vi": "gió",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wind</i> (noun) = gió. <b>Grammar</b>: đếm được và không đếm được. <b>Word family</b>: <i>windy</i> (adj.).",
+   "example": {
+    "en": "A hurricane is a very strong <b>wind</b>.",
+    "vi": "Bão lớn là một cơn <b>gió</b> rất mạnh."
+   }
+  },
+  {
+   "word": "thunder",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈθʌndə(r)/",
+   "def_en": "The loud noise in the sky during a storm.",
+   "def_vi": "Tiếng động lớn trên trời khi giông bão.",
+   "gloss_vi": "sấm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Thunder</i> (uncountable noun) = sấm. <b>Grammar</b>: không đếm được. <b>Word family</b>: <i>thundery</i> (adj.).",
+   "example": {
+    "en": "A thunderstorm is when there is <b>thunder</b>, lightning, rain and sometimes wind together.",
+    "vi": "Dông là khi có <b>sấm</b>, chớp, mưa và đôi khi gió cùng lúc."
+   }
+  },
+  {
+   "word": "lightning",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈlaɪtnɪŋ/",
+   "def_en": "A flash of bright light in the sky during a storm.",
+   "def_vi": "Tia sáng lóe trên trời khi giông bão.",
+   "gloss_vi": "chớp, sét",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lightning</i> (uncountable noun) = chớp, sét. <b>Grammar</b>: không đếm được; không có tính từ. <b>Common mistakes</b>: khác <i>lighting</i> (ánh sáng đèn).",
+   "example": {
+    "en": "A thunderstorm is when there is thunder, <b>lightning</b>, rain and sometimes wind together.",
+    "vi": "Dông là khi có sấm, <b>chớp</b>, mưa và đôi khi gió cùng lúc."
+   }
+  },
+  {
+   "word": "sunny",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsʌni/",
+   "def_en": "With a lot of sun.",
+   "def_vi": "Có nhiều nắng.",
+   "gloss_vi": "nắng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "cloudy <i>(adj. nhiều mây)</i>",
+   "grammar_vi": "<i>Sunny</i> (adjective) = nắng. <b>Grammar</b>: <i>It’s sunny</i>; gấp đôi <i>n</i>. <b>Common mistakes</b>: không nói <i>It’s sunning</i>.",
+   "example": {
+    "en": "It’s a <b>sunny</b> day in Tokyo today, but it’s cloudy in Hong Kong.",
+    "vi": "Hôm nay là một ngày <b>nắng</b> ở Tokyo."
+   }
+  },
+  {
+   "word": "rainy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈreɪni/",
+   "def_en": "With a lot of rain.",
+   "def_vi": "Có nhiều mưa.",
+   "gloss_vi": "mưa nhiều",
+   "synonyms": "wet <i>(adj. ẩm ướt)</i>",
+   "antonyms": "dry <i>(adj. khô)</i>",
+   "grammar_vi": "<i>Rainy</i> (adjective) = mưa nhiều. <b>Grammar</b>: <i>a rainy day</i> (ngày mưa).",
+   "ex_kit": true,
+   "example": {
+    "en": "November is a <b>rainy</b> month here.",
+    "vi": "Tháng Mười một là tháng <b>mưa nhiều</b> ở đây."
+   }
+  },
+  {
+   "word": "windy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈwɪndi/",
+   "def_en": "With a lot of wind.",
+   "def_vi": "Có nhiều gió.",
+   "gloss_vi": "nhiều gió",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Windy</i> (adjective) = nhiều gió. <b>Grammar</b>: <i>It’s windy</i>. <b>Common mistakes</b>: không nói <i>It’s winding</i>.",
+   "example": {
+    "en": "We say It’s <b>windy</b> / cloudy / foggy / sunny <b>NOT It’s winding / clouding / fogging / sunning</b>.",
+    "vi": "Chúng ta nói <b>Trời gió</b> / nhiều mây / sương mù / nắng."
+   }
+  },
+  {
+   "word": "cloudy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈklaʊdi/",
+   "def_en": "With a lot of clouds.",
+   "def_vi": "Có nhiều mây.",
+   "gloss_vi": "nhiều mây",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "sunny <i>(adj. nắng)</i>",
+   "grammar_vi": "<i>Cloudy</i> (adjective) = nhiều mây. <b>Grammar</b>: <i>It’s cloudy</i>. <b>Common mistakes</b>: không nói <i>It’s clouding</i>.",
+   "example": {
+    "en": "It’s a sunny day in Tokyo today, but <b>it’s cloudy</b> in Hong Kong.",
+    "vi": "Nhưng ở Hồng Kông thì <b>trời nhiều mây</b>."
+   }
+  },
+  {
+   "word": "snowy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsnəʊi/",
+   "def_en": "With a lot of snow.",
+   "def_vi": "Có nhiều tuyết.",
+   "gloss_vi": "nhiều tuyết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Snowy</i> (adjective) = nhiều tuyết. <b>Grammar</b>: <i>a snowy day</i>.",
+   "example": {
+    "en": "It’s snowing / <b>it’s snowy</b> in Moscow.",
+    "vi": "Ở Moscow đang có tuyết / <b>trời nhiều tuyết</b>."
+   }
+  },
+  {
+   "word": "foggy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈfɒɡi/",
+   "def_en": "With a lot of fog.",
+   "def_vi": "Có nhiều sương mù.",
+   "gloss_vi": "nhiều sương mù",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Foggy</i> (adjective) = nhiều sương mù. <b>Grammar</b>: gấp đôi <i>g</i>.",
+   "example": {
+    "en": "<b>It’s foggy</b> in Sydney.",
+    "vi": "Ở Sydney <b>trời nhiều sương mù</b>."
+   }
+  },
+  {
+   "word": "thundery",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈθʌndəri/",
+   "def_en": "With thunder, or likely to have thunder.",
+   "def_vi": "Có sấm hoặc sắp có sấm.",
+   "gloss_vi": "có sấm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Thundery</i> (adjective) = có sấm. <b>Grammar</b>: thường dùng <i>thundery showers</i> (mưa rào có sấm).",
+   "ex_kit": true,
+   "example": {
+    "en": "It may be <b>thundery</b> this afternoon.",
+    "vi": "Chiều nay trời có thể <b>có dông sấm</b>."
+   }
+  },
+  {
+   "word": "hot",
+   "sense": "weather",
+   "pos": "adjective",
+   "ipa": "/hɒt/",
+   "def_en": "Having a high temperature.",
+   "def_vi": "Có nhiệt độ cao.",
+   "gloss_vi": "nóng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "cold <i>(adj. lạnh)</i>",
+   "grammar_vi": "<i>Hot</i> (adjective) = nóng. <b>Grammar</b>: <i>It’s hot</i> (thời tiết). <b>Note</b>: khác <i>I’m hot</i> (người thấy nóng, bài 7).",
+   "example": {
+    "en": "It is very <b>hot</b> in Mexico - it is often 45 degrees there in summer.",
+    "vi": "Ở Mexico rất <b>nóng</b> – mùa hè thường lên tới 45 độ."
+   }
+  },
+  {
+   "word": "degrees",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/dɪˈɡriːz/",
+   "def_en": "Units for measuring temperature.",
+   "def_vi": "Đơn vị đo nhiệt độ.",
+   "gloss_vi": "độ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Degrees</i> (plural noun) = độ. <b>Grammar</b>: số ít <i>a degree</i>; <i>minus 50 degrees</i> (âm 50 độ).",
+   "example": {
+    "en": "It is very hot in Mexico - it is often 45 <b>degrees</b> there in summer.",
+    "vi": "Ở Mexico rất nóng – mùa hè thường lên tới 45 <b>độ</b>."
+   }
+  },
+  {
+   "word": "cold",
+   "sense": "weather",
+   "pos": "adjective",
+   "ipa": "/kəʊld/",
+   "def_en": "Having a low temperature.",
+   "def_vi": "Có nhiệt độ thấp.",
+   "gloss_vi": "lạnh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "hot <i>(adj. nóng)</i>",
+   "grammar_vi": "<i>Cold</i> (adjective) = lạnh. <b>Grammar</b>: <i>It’s cold</i> (thời tiết). <b>Note</b>: khác <i>I’m cold</i> (bài 7).",
+   "example": {
+    "en": "It is very <b>cold</b> in the Arctic - it is often minus 50 degrees there.",
+    "vi": "Ở Bắc Cực rất <b>lạnh</b> – thường xuống tới âm 50 độ."
+   }
+  },
+  {
+   "word": "wet",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/wet/",
+   "def_en": "With a lot of rain.",
+   "def_vi": "Có nhiều mưa.",
+   "gloss_vi": "ẩm ướt, mưa nhiều",
+   "synonyms": "rainy <i>(adj. mưa nhiều)</i>",
+   "antonyms": "dry <i>(adj. khô)</i>",
+   "grammar_vi": "<i>Wet</i> (adjective) = ẩm ướt, mưa nhiều. <b>Grammar</b>: so sánh <i>wetter, wettest</i>.",
+   "example": {
+    "en": "It can be very <b>wet</b> in London - carry an umbrella when you go sightseeing there.",
+    "vi": "London có thể rất <b>ẩm ướt</b> – hãy mang ô khi đi tham quan."
+   }
+  },
+  {
+   "word": "dry",
+   "sense": "weather",
+   "pos": "adjective",
+   "ipa": "/draɪ/",
+   "def_en": "With little or no rain.",
+   "def_vi": "Ít hoặc không có mưa.",
+   "gloss_vi": "khô",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "wet <i>(adj. ẩm ướt)</i>",
+   "grammar_vi": "<i>Dry</i> (adjective) = khô. <b>Grammar</b>: so sánh <i>drier, driest</i>. <b>Note</b>: khác động từ <i>dry</i> (lau khô, bài 11).",
+   "example": {
+    "en": "It is very <b>dry</b> in the Sahara - it doesn’t often rain there.",
+    "vi": "Sa mạc Sahara rất <b>khô</b> – ở đó ít khi mưa."
+   }
+  },
+  {
+   "word": "hurricane",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhʌrɪkən/",
+   "def_en": "A storm with a very strong wind.",
+   "def_vi": "Cơn bão có gió rất mạnh.",
+   "gloss_vi": "bão lớn, cuồng phong",
+   "synonyms": "typhoon <i>(n. bão (châu Á))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hurricane</i> (noun) = bão lớn, cuồng phong. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "A <b>hurricane</b> is a very strong wind.",
+    "vi": "<b>Bão lớn</b> là một cơn gió rất mạnh."
+   }
+  },
+  {
+   "word": "storm",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/stɔːm/",
+   "def_en": "Bad weather with strong wind and rain.",
+   "def_vi": "Thời tiết xấu có gió mạnh và mưa.",
+   "gloss_vi": "cơn bão, giông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Storm</i> (noun) = cơn bão, giông. <b>Grammar</b>: đếm được. <b>Word family</b>: <i>stormy</i> (adj.).",
+   "example": {
+    "en": "A <b>storm</b> is when there is a strong wind and rain together.",
+    "vi": "<b>Giông bão</b> là khi có gió mạnh và mưa cùng lúc."
+   }
+  },
+  {
+   "word": "thunderstorm",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈθʌndəstɔːm/",
+   "def_en": "A storm with thunder and lightning.",
+   "def_vi": "Cơn bão có sấm và chớp.",
+   "gloss_vi": "dông, bão có sấm sét",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Thunderstorm</i> (noun) = dông, bão có sấm sét. <b>Grammar</b>: đếm được; danh từ ghép viết liền.",
+   "example": {
+    "en": "A <b>thunderstorm</b> is when there is thunder, lightning, rain and sometimes wind together.",
+    "vi": "<b>Dông</b> là khi có sấm, chớp, mưa và đôi khi gió cùng lúc."
+   }
+  },
+  {
+   "word": "What’s the weather like?",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌwɒts ðə ˈweðə laɪk/",
+   "def_en": "A question asking about the weather.",
+   "def_vi": "Câu hỏi về thời tiết.",
+   "gloss_vi": "thời tiết thế nào?",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>What’s the weather like?</i> (phrase) = thời tiết thế nào?. <b>Grammar</b>: <i>What’s the weather like in</i> + nơi/thời gian?. <b>Common mistakes</b>: không nói <i>How is the weather like?</i>.",
+   "example": {
+    "en": "<b>What’s the weather like</b> in your country in June?",
+    "vi": "<b>Thời tiết</b> ở nước bạn tháng Sáu <b>thế nào</b>?"
+   }
+  }
+ ]
+}

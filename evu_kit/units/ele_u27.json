@@ -1,0 +1,524 @@
+{
+ "book": "ele",
+ "unit": 27,
+ "title_vi": "Quốc gia và quốc tịch",
+ "theory_html": "<p><b>A. Continents and countries</b><br><i>A. Châu lục và quốc gia</i></p> <p><b>North America</b> (Canada, the USA), <b>South America</b> (Argentina, Brazil, Chile, Colombia, Peru), <b>Asia</b> (China, India, Japan, Pakistan, Thailand), <b>Europe</b> (Germany, Italy, Poland, Spain, the UK), <b>Africa</b> (Egypt, Morocco, South Africa, Tunisia), <b>Australia</b> (Australia, New Zealand), <b>Antarctica</b>. Names of continents, countries and nationalities always begin with a capital letter.</p><p><i>Bắc Mỹ, Nam Mỹ, châu Á, châu Âu, châu Phi, châu Úc, châu Nam Cực. Tên châu lục, quốc gia, quốc tịch luôn viết hoa.</i></p> <p><b>B. Nationalities</b><br><i>B. Quốc tịch</i></p> <p>Most adjectives end in <b>-(i)an</b> (<b>American, Brazilian, Italian</b>…), many in <b>-ish</b> (<b>British, English, Polish, Spanish</b>…), a few in <b>-ese</b> (<b>Chinese, Japanese, Portuguese</b>); exceptions: <b>Pakistani, Thai, French</b>. Languages are often the same as the adjective (<b>French, Spanish, Japanese, Thai</b>) – but <b>Arabic</b>.</p><p><i>Đa số tính từ quốc tịch tận cùng <b>-(i)an</b>, nhiều từ <b>-ish</b>, vài từ <b>-ese</b>; ngoại lệ <b>Pakistani, Thai, French</b>. Tên ngôn ngữ thường giống tính từ – trừ <b>Arabic</b>.</i></p>",
+ "items": [
+  {
+   "word": "continent",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɒntɪnənt/",
+   "def_en": "One of the seven large areas of land in the world, such as Asia or Africa.",
+   "def_vi": "Một trong bảy khối đất lớn trên thế giới như châu Á, châu Phi.",
+   "gloss_vi": "châu lục",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Continent</i> (noun) = châu lục. <b>Grammar</b>: đếm được. <b>Word family</b>: <i>continental</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "Asia is the biggest <b>continent</b>.",
+    "vi": "Châu Á là <b>châu lục</b> lớn nhất."
+   }
+  },
+  {
+   "word": "country",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkʌntri/",
+   "def_en": "An area of land with its own government.",
+   "def_vi": "Vùng đất có chính phủ riêng.",
+   "gloss_vi": "quốc gia, đất nước",
+   "synonyms": "nation <i>(n. quốc gia)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Country</i> (noun) = quốc gia, đất nước. <b>Grammar</b>: số nhiều <i>countries</i>; <i>ou</i> đọc /ʌ/.",
+   "example": {
+    "en": "If your <b>country</b> is not included, check its English name with your teacher or on the Internet.",
+    "vi": "Nếu <b>nước</b> của bạn không có ở đây, hãy hỏi giáo viên tên tiếng Anh của nó."
+   }
+  },
+  {
+   "word": "North America",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌnɔːθ əˈmerɪkə/",
+   "def_en": "The continent with Canada, the USA and Mexico.",
+   "def_vi": "Châu lục gồm Canada, Mỹ, Mexico.",
+   "gloss_vi": "Bắc Mỹ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>North America</i> (noun phrase) = Bắc Mỹ. <b>Grammar</b>: tên riêng, viết hoa, không dùng <i>the</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Canada is in <b>North America</b>.",
+    "vi": "Canada nằm ở <b>Bắc Mỹ</b>."
+   }
+  },
+  {
+   "word": "South America",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌsaʊθ əˈmerɪkə/",
+   "def_en": "The continent with Brazil, Argentina and Peru.",
+   "def_vi": "Châu lục gồm Brazil, Argentina, Peru.",
+   "gloss_vi": "Nam Mỹ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>South America</i> (noun phrase) = Nam Mỹ. <b>Grammar</b>: tên riêng, viết hoa. <b>Word family</b>: <i>South American</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "Brazil is the biggest country in <b>South America</b>.",
+    "vi": "Brazil là nước lớn nhất <b>Nam Mỹ</b>."
+   }
+  },
+  {
+   "word": "Asia",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈeɪʒə/",
+   "def_en": "The continent with China, India and Japan.",
+   "def_vi": "Châu lục gồm Trung Quốc, Ấn Độ, Nhật Bản.",
+   "gloss_vi": "châu Á",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Asia</i> (noun) = châu Á. <b>Grammar</b>: tên riêng, đọc /ˈeɪʒə/. <b>Word family</b>: <i>Asian</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "Japan is in <b>Asia</b>.",
+    "vi": "Nhật Bản ở <b>châu Á</b>."
+   }
+  },
+  {
+   "word": "Europe",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈjʊərəp/",
+   "def_en": "The continent with France, Germany and Spain.",
+   "def_vi": "Châu lục gồm Pháp, Đức, Tây Ban Nha.",
+   "gloss_vi": "châu Âu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Europe</i> (noun) = châu Âu. <b>Grammar</b>: tên riêng; đọc /ˈjʊərəp/. <b>Word family</b>: <i>European</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "Italy and Poland are in <b>Europe</b>.",
+    "vi": "Ý và Ba Lan ở <b>châu Âu</b>."
+   }
+  },
+  {
+   "word": "Africa",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈæfrɪkə/",
+   "def_en": "The continent with Egypt, Morocco and South Africa.",
+   "def_vi": "Châu lục gồm Ai Cập, Ma-rốc, Nam Phi.",
+   "gloss_vi": "châu Phi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Africa</i> (noun) = châu Phi. <b>Grammar</b>: luôn viết hoa (không viết <i>africa</i>). <b>Word family</b>: <i>African</i> (adj.).",
+   "example": {
+    "en": "All the nouns and adjectives for continents, countries and nationalities always begin with a capital letter, for example <b>Africa</b>.",
+    "vi": "Ai Cập ở <b>châu Phi</b>."
+   }
+  },
+  {
+   "word": "Australia",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɒˈstreɪliə/",
+   "def_en": "The continent and country between the Indian and Pacific Oceans.",
+   "def_vi": "Châu lục và quốc gia giữa Ấn Độ Dương và Thái Bình Dương.",
+   "gloss_vi": "Úc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Australia</i> (noun) = Úc. <b>Grammar</b>: tên riêng. <b>Word family</b>: <i>Australian</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Australia</b> is a continent and a country.",
+    "vi": "<b>Úc</b> vừa là châu lục vừa là quốc gia."
+   }
+  },
+  {
+   "word": "Antarctica",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ænˈtɑːktɪkə/",
+   "def_en": "The very cold continent around the South Pole.",
+   "def_vi": "Châu lục rất lạnh quanh Nam Cực.",
+   "gloss_vi": "châu Nam Cực",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Antarctica</i> (noun) = châu Nam Cực. <b>Grammar</b>: tên riêng, không dùng <i>the</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Nobody lives in <b>Antarctica</b> all year.",
+    "vi": "Không ai sống lâu dài ở <b>châu Nam Cực</b>."
+   }
+  },
+  {
+   "word": "the USA",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ðə ˌjuː es ˈeɪ/",
+   "def_en": "The United States of America.",
+   "def_vi": "Hợp chủng quốc Hoa Kỳ.",
+   "gloss_vi": "nước Mỹ",
+   "synonyms": "the US <i>(np. nước Mỹ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The USA</i> (noun phrase) = nước Mỹ. <b>Grammar</b>: luôn có <i>the</i>: <i>the USA / the US</i>. <b>Word family</b>: <i>American</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "He lives in <b>the USA</b>.",
+    "vi": "Anh ấy sống ở <b>Mỹ</b>."
+   }
+  },
+  {
+   "word": "the UK",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ðə ˌjuː ˈkeɪ/",
+   "def_en": "The United Kingdom of Great Britain and Northern Ireland.",
+   "def_vi": "Vương quốc Anh.",
+   "gloss_vi": "Vương quốc Anh",
+   "synonyms": "Britain <i>(n. nước Anh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The UK</i> (noun phrase) = Vương quốc Anh. <b>Grammar</b>: luôn có <i>the</i>. <b>Word family</b>: <i>British</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "London is the capital of <b>the UK</b>.",
+    "vi": "London là thủ đô của <b>Vương quốc Anh</b>."
+   }
+  },
+  {
+   "word": "American",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əˈmerɪkən/",
+   "def_en": "From the USA.",
+   "def_vi": "Đến từ Mỹ.",
+   "gloss_vi": "(người) Mỹ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>American</i> (adjective) = (người) Mỹ. <b>Grammar</b>: tận cùng <i>-an</i>; <i>an American</i> (một người Mỹ).",
+   "example": {
+    "en": "most country adjectives end in (i)an: <b>American</b>, Argentinian, Australian, Brazilian, Canadian",
+    "vi": "Tính từ quốc tịch thường tận cùng bằng -(i)an: <b>American</b>, Argentinian…"
+   }
+  },
+  {
+   "word": "Brazilian",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/brəˈzɪliən/",
+   "def_en": "From Brazil.",
+   "def_vi": "Đến từ Brazil.",
+   "gloss_vi": "(người) Brazil",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Brazilian</i> (adjective) = (người) Brazil. <b>Grammar</b>: tận cùng <i>-ian</i>; tiếng nói ở Brazil là tiếng Bồ Đào Nha.",
+   "ex_kit": true,
+   "example": {
+    "en": "She’s <b>Brazilian</b>. She comes from Brazil.",
+    "vi": "Cô ấy là người <b>Brazil</b>. Cô ấy đến từ Brazil."
+   }
+  },
+  {
+   "word": "Canadian",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kəˈneɪdiən/",
+   "def_en": "From Canada.",
+   "def_vi": "Đến từ Canada.",
+   "gloss_vi": "(người) Canada",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Canadian</i> (adjective) = (người) Canada. <b>Grammar</b>: tận cùng <i>-ian</i>; trọng âm đổi: <i>CAnada</i> → <i>caNAdian</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "My friend is <b>Canadian</b>.",
+    "vi": "Bạn tôi là người <b>Canada</b>."
+   }
+  },
+  {
+   "word": "Egyptian",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/iˈdʒɪpʃn/",
+   "def_en": "From Egypt.",
+   "def_vi": "Đến từ Ai Cập.",
+   "gloss_vi": "(người) Ai Cập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Egyptian</i> (adjective) = (người) Ai Cập. <b>Grammar</b>: tận cùng <i>-ian</i>. <b>Word family</b>: <i>Egypt</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>Egyptian</b> pyramids are very famous.",
+    "vi": "Kim tự tháp <b>Ai Cập</b> rất nổi tiếng."
+   }
+  },
+  {
+   "word": "German",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈdʒɜːmən/",
+   "def_en": "From Germany.",
+   "def_vi": "Đến từ Đức.",
+   "gloss_vi": "(người, tiếng) Đức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>German</i> (adjective) = (người, tiếng) Đức. <b>Grammar</b>: tận cùng <i>-an</i>; cũng là tên ngôn ngữ.",
+   "ex_kit": true,
+   "example": {
+    "en": "He speaks <b>German</b>.",
+    "vi": "Anh ấy nói tiếng <b>Đức</b>."
+   }
+  },
+  {
+   "word": "Indian",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɪndiən/",
+   "def_en": "From India.",
+   "def_vi": "Đến từ Ấn Độ.",
+   "gloss_vi": "(người) Ấn Độ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Indian</i> (adjective) = (người) Ấn Độ. <b>Grammar</b>: tận cùng <i>-ian</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I love <b>Indian</b> food.",
+    "vi": "Tôi rất thích đồ ăn <b>Ấn Độ</b>."
+   }
+  },
+  {
+   "word": "Italian",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪˈtæliən/",
+   "def_en": "From Italy.",
+   "def_vi": "Đến từ Ý.",
+   "gloss_vi": "(người, tiếng) Ý",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Italian</i> (adjective) = (người, tiếng) Ý. <b>Grammar</b>: tận cùng <i>-ian</i>; trọng âm đổi: <i>Italy</i> → <i>iTAlian</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We went to an <b>Italian</b> restaurant.",
+    "vi": "Chúng tôi đi ăn ở nhà hàng <b>Ý</b>."
+   }
+  },
+  {
+   "word": "Moroccan",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/məˈrɒkən/",
+   "def_en": "From Morocco.",
+   "def_vi": "Đến từ Ma-rốc.",
+   "gloss_vi": "(người) Ma-rốc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Moroccan</i> (adjective) = (người) Ma-rốc. <b>Grammar</b>: tận cùng <i>-an</i>; gấp đôi <i>c</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She’s <b>Moroccan</b>.",
+    "vi": "Cô ấy là người <b>Ma-rốc</b>."
+   }
+  },
+  {
+   "word": "British",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈbrɪtɪʃ/",
+   "def_en": "From the UK.",
+   "def_vi": "Đến từ Vương quốc Anh.",
+   "gloss_vi": "(người) Anh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>British</i> (adjective) = (người) Anh. <b>Grammar</b>: tận cùng <i>-ish</i>; <i>the British</i> = người Anh nói chung.",
+   "example": {
+    "en": "many country adjectives end in ish: <b>British</b>, English, Finnish, Irish, Polish, Scottish, Spanish",
+    "vi": "Nhiều tính từ quốc tịch tận cùng bằng -ish: <b>British</b>, English…"
+   }
+  },
+  {
+   "word": "English",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɪŋɡlɪʃ/",
+   "def_en": "From England; also the language.",
+   "def_vi": "Đến từ nước Anh (England); cũng là tiếng Anh.",
+   "gloss_vi": "(người, tiếng) Anh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>English</i> (adjective) = (người, tiếng) Anh. <b>Grammar</b>: tận cùng <i>-ish</i>; <i>English</i> ≠ <i>British</i> (cả Vương quốc Anh).",
+   "ex_kit": true,
+   "example": {
+    "en": "He’s <b>English</b> but he lives in Scotland.",
+    "vi": "Anh ấy là người <b>Anh</b> nhưng sống ở Scotland."
+   }
+  },
+  {
+   "word": "Irish",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈaɪrɪʃ/",
+   "def_en": "From Ireland.",
+   "def_vi": "Đến từ Ireland.",
+   "gloss_vi": "(người) Ireland",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Irish</i> (adjective) = (người) Ireland. <b>Grammar</b>: tận cùng <i>-ish</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She’s <b>Irish</b>.",
+    "vi": "Cô ấy là người <b>Ireland</b>."
+   }
+  },
+  {
+   "word": "Polish",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈpəʊlɪʃ/",
+   "def_en": "From Poland; also the language.",
+   "def_vi": "Đến từ Ba Lan; cũng là tiếng Ba Lan.",
+   "gloss_vi": "(người, tiếng) Ba Lan",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Polish</i> (adjective) = (người, tiếng) Ba Lan. <b>Grammar</b>: tận cùng <i>-ish</i>; đọc /ˈpəʊlɪʃ/ (khác <i>polish</i> /ˈpɒlɪʃ/ đánh bóng).",
+   "ex_kit": true,
+   "example": {
+    "en": "He speaks <b>Polish</b>.",
+    "vi": "Anh ấy nói tiếng <b>Ba Lan</b>."
+   }
+  },
+  {
+   "word": "Spanish",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈspænɪʃ/",
+   "def_en": "From Spain; also the language.",
+   "def_vi": "Đến từ Tây Ban Nha; cũng là tiếng Tây Ban Nha.",
+   "gloss_vi": "(người, tiếng) Tây Ban Nha",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spanish</i> (adjective) = (người, tiếng) Tây Ban Nha. <b>Grammar</b>: tận cùng <i>-ish</i>; người: <i>a Spaniard</i> hoặc <i>a Spanish person</i>.",
+   "example": {
+    "en": "Remember that words for languages are often the same as the ‘people’ adjective, e.g. French, <b>Spanish</b>, Japanese and Thai.",
+    "vi": "Từ chỉ ngôn ngữ thường giống tính từ: French, <b>Spanish</b>…"
+   }
+  },
+  {
+   "word": "Chinese",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌtʃaɪˈniːz/",
+   "def_en": "From China; also the language.",
+   "def_vi": "Đến từ Trung Quốc; cũng là tiếng Trung.",
+   "gloss_vi": "(người, tiếng) Trung Quốc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chinese</i> (adjective) = (người, tiếng) Trung Quốc. <b>Grammar</b>: tận cùng <i>-ese</i>; trọng âm âm cuối.",
+   "example": {
+    "en": "a few country adjectives end in ese: <b>Chinese</b>, Japanese, Portuguese",
+    "vi": "Vài tính từ quốc tịch tận cùng bằng -ese: <b>Chinese</b>, Japanese, Portuguese."
+   }
+  },
+  {
+   "word": "Japanese",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌdʒæpəˈniːz/",
+   "def_en": "From Japan; also the language.",
+   "def_vi": "Đến từ Nhật Bản; cũng là tiếng Nhật.",
+   "gloss_vi": "(người, tiếng) Nhật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Japanese</i> (adjective) = (người, tiếng) Nhật. <b>Grammar</b>: tận cùng <i>-ese</i>; trọng âm âm cuối.",
+   "example": {
+    "en": "Remember that words for languages are often the same as the ‘people’ adjective, e.g. French, Spanish, <b>Japanese</b> and Thai.",
+    "vi": "Từ chỉ ngôn ngữ thường giống tính từ: French, Spanish, <b>Japanese</b>…"
+   }
+  },
+  {
+   "word": "Portuguese",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌpɔːtʃʊˈɡiːz/",
+   "def_en": "From Portugal; also the language.",
+   "def_vi": "Đến từ Bồ Đào Nha; cũng là tiếng Bồ Đào Nha.",
+   "gloss_vi": "(người, tiếng) Bồ Đào Nha",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Portuguese</i> (adjective) = (người, tiếng) Bồ Đào Nha. <b>Grammar</b>: tận cùng <i>-ese</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "People in Brazil speak <b>Portuguese</b>.",
+    "vi": "Người Brazil nói tiếng <b>Bồ Đào Nha</b>."
+   }
+  },
+  {
+   "word": "Pakistani",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌpækɪˈstɑːni/",
+   "def_en": "From Pakistan.",
+   "def_vi": "Đến từ Pakistan.",
+   "gloss_vi": "(người) Pakistan",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pakistani</i> (adjective) = (người) Pakistan. <b>Grammar</b>: ngoại lệ, tận cùng <i>-i</i>.",
+   "example": {
+    "en": "exceptions: <b>Pakistani</b>, Thai, French",
+    "vi": "Ngoại lệ: <b>Pakistani</b>, Thai, French."
+   }
+  },
+  {
+   "word": "Thai",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/taɪ/",
+   "def_en": "From Thailand; also the language.",
+   "def_vi": "Đến từ Thái Lan; cũng là tiếng Thái.",
+   "gloss_vi": "(người, tiếng) Thái",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Thai</i> (adjective) = (người, tiếng) Thái. <b>Grammar</b>: ngoại lệ; <i>th</i> đọc /t/: /taɪ/.",
+   "example": {
+    "en": "exceptions: Pakistani, <b>Thai</b>, French",
+    "vi": "Ngoại lệ: Pakistani, <b>Thai</b>, French."
+   }
+  },
+  {
+   "word": "French",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/frentʃ/",
+   "def_en": "From France; also the language.",
+   "def_vi": "Đến từ Pháp; cũng là tiếng Pháp.",
+   "gloss_vi": "(người, tiếng) Pháp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>French</i> (adjective) = (người, tiếng) Pháp. <b>Grammar</b>: ngoại lệ; người: <i>a Frenchman / a French woman</i>.",
+   "example": {
+    "en": "exceptions: Pakistani, Thai, <b>French</b>",
+    "vi": "Ngoại lệ: Pakistani, Thai, <b>French</b>."
+   }
+  },
+  {
+   "word": "Arabic",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈærəbɪk/",
+   "def_en": "The language spoken in many countries of North Africa and the Middle East.",
+   "def_vi": "Ngôn ngữ dùng ở nhiều nước Bắc Phi và Trung Đông.",
+   "gloss_vi": "tiếng Ả Rập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Arabic</i> (noun) = tiếng Ả Rập. <b>Grammar</b>: tên ngôn ngữ khác tính từ người (<i>Arab</i>). <b>Common mistakes</b>: viết hoa.",
+   "example": {
+    "en": "One exception is <b>Arabic</b>.",
+    "vi": "Một ngoại lệ là <b>tiếng Ả Rập</b>."
+   }
+  }
+ ]
+}

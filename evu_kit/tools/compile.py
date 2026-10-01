@@ -69,7 +69,7 @@ def sentences(block):
         text = re.sub(r"\s+", " ", chunk).replace("** **", " ")
         text = re.sub(r"\s*/[^/\s]*[ˈˌːəɪʊʌæɒɔθðʃʒŋ'I][^/\s]*\s?/", "", text)      # bỏ phiên âm /…/ chen trong câu
         text = re.sub(r"\s*([.!?…,;:])\*\*", r"**\1", text)
-        text = re.sub(r"-\s+(?=[a-z])", "-", text)
+        text = re.sub(r"(?<=[a-z])-\s+(?=[a-z])", "-", text)
         res += [x.strip() for x in re.split(r"(?<=[.!?…])\s+(?=[\"“‘(A-Z0-9*])", text) if x.strip()]
     return res
 
