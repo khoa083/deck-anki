@@ -1,0 +1,429 @@
+{
+ "book": "ele",
+ "unit": 18,
+ "title_vi": "Kỳ nghỉ",
+ "theory_html": "<p><b>A. Holiday (noun)</b><br><i>A. Kỳ nghỉ (danh từ)</i></p> <p><b>have a holiday, be on holiday, go on holiday</b>.</p><p><i><b>có một kỳ nghỉ, đang nghỉ, đi nghỉ</b>.</i></p> <p><b>B. Types of holidays</b><br><i>B. Các kiểu kỳ nghỉ</i></p> <p><b>a package holiday</b> (flights and hotel included), <b>a winter holiday, camping</b> (sleep in a tent), <b>a walking holiday, a coach tour</b> (travel in a comfortable bus).</p><p><i><b>tour trọn gói</b> (gồm vé máy bay và khách sạn), <b>kỳ nghỉ đông, cắm trại</b> (ngủ lều), <b>kỳ nghỉ đi bộ đường dài, tour xe khách</b>.</i></p> <p><b>C. Transport</b><br><i>C. Phương tiện</i></p> <p><b>by plane, by train, by car, by ferry, by coach</b></p><p><i>bằng máy bay, tàu hỏa, ô tô, phà, xe khách</i></p> <p><b>D. Don’t forget to take…</b><br><i>D. Đừng quên mang…</i></p> <p><b>passport, visa</b> (a stamp you need in your passport for some countries), <b>tickets, currency</b> (money of the country), <b>camera, luggage</b> (<b>suitcase, rucksack</b>).</p><p><i><b>hộ chiếu, thị thực, vé, ngoại tệ, máy ảnh, hành lý</b> (<b>va li, ba lô</b>).</i></p> <p><b>E. Expressions</b><br><i>E. Cách nói</i></p> <p><b>Are you flying to France? – No, we’re going by ferry. We want to try the local food and enjoy the nightlife. – Have a great time! Send me a postcard!</b></p><p><i><b>Bạn bay sang Pháp à? – Không, đi phà. Chúng tôi muốn thử món địa phương và tận hưởng cuộc sống về đêm. – Chơi vui nhé! Gửi bưu thiếp cho mình!</b></i></p>",
+ "items": [
+  {
+   "word": "holiday",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhɒlədeɪ/",
+   "def_en": "A time when you do not work or study, and often travel.",
+   "def_vi": "Thời gian không làm việc, học tập, thường đi chơi xa.",
+   "gloss_vi": "kỳ nghỉ",
+   "synonyms": "vacation <i>(n. kỳ nghỉ (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Holiday</i> (noun) = kỳ nghỉ. <b>Grammar</b>: <i>have a holiday</i>, <i>on holiday</i>, <i>go on holiday</i>. <b>Collocations / chunks</b>: <i>a lovely holiday</i> (kỳ nghỉ tuyệt vời).",
+   "example": {
+    "en": "We had a lovely <b>holiday</b> in Egypt in 2014.",
+    "vi": "Chúng tôi đã có một <b>kỳ nghỉ</b> tuyệt vời ở Ai Cập năm 2014."
+   }
+  },
+  {
+   "word": "be on holiday",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/bi ˌɒn ˈhɒlədeɪ/",
+   "def_en": "To be having a holiday and not working.",
+   "def_vi": "Đang trong kỳ nghỉ, không làm việc.",
+   "gloss_vi": "đang đi nghỉ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "be at work <i>(vp. đang làm việc)</i>",
+   "grammar_vi": "<i>Be on holiday</i> (verb phrase) = đang đi nghỉ. <b>Grammar</b>: dùng <i>on</i>: <i>I’m on holiday</i> (không nói <i>in holiday</i>).",
+   "example": {
+    "en": "I<b>’m on holiday</b>.",
+    "vi": "Tuần sau tôi không làm việc. <b>Tôi đi nghỉ</b>."
+   }
+  },
+  {
+   "word": "go on holiday",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ ɒn ˈhɒlədeɪ/",
+   "def_en": "To go away somewhere for a holiday.",
+   "def_vi": "Đi đâu đó nghỉ.",
+   "gloss_vi": "đi nghỉ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go on holiday</i> (verb phrase) = đi nghỉ. <b>Grammar</b>: <i>go on holiday to</i> + nơi; quá khứ <i>went on holiday</i>.",
+   "example": {
+    "en": "Are you <b>going on holiday</b> this summer?",
+    "vi": "Mùa hè này bạn có <b>đi nghỉ</b> không?"
+   }
+  },
+  {
+   "word": "package holiday",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈpækɪdʒ hɒlədeɪ/",
+   "def_en": "A holiday where the flights and hotel are included in the price.",
+   "def_vi": "Kỳ nghỉ giá trọn gói gồm vé máy bay và khách sạn.",
+   "gloss_vi": "tour du lịch trọn gói",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Package holiday</i> (noun phrase) = tour du lịch trọn gói. <b>Grammar</b>: <i>go on a package holiday</i>. <b>Collocations / chunks</b>: giá đã gồm <i>flights and hotel</i>.",
+   "example": {
+    "en": "We’re going on a <b>package holiday</b> to Hong Kong. [flights and hotel are included]",
+    "vi": "Chúng tôi sẽ đi <b>tour trọn gói</b> đến Hồng Kông."
+   }
+  },
+  {
+   "word": "flights",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/flaɪts/",
+   "def_en": "Journeys on a plane.",
+   "def_vi": "Chuyến đi bằng máy bay.",
+   "gloss_vi": "chuyến bay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flights</i> (plural noun) = chuyến bay. <b>Grammar</b>: số ít <i>a flight</i>. <b>Collocations / chunks</b>: <i>book a flight</i> (đặt chuyến bay).",
+   "example": {
+    "en": "We’re going on a package holiday to Hong Kong. [<b>flights</b> and hotel are included]",
+    "vi": "Chúng tôi đi tour trọn gói đến Hồng Kông <b>vé máy bay</b> và khách sạn đã bao gồm."
+   }
+  },
+  {
+   "word": "winter holiday",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌwɪntə ˈhɒlədeɪ/",
+   "def_en": "A holiday in winter, often in the snow.",
+   "def_vi": "Kỳ nghỉ mùa đông, thường ở vùng tuyết.",
+   "gloss_vi": "kỳ nghỉ đông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "summer holiday <i>(np. kỳ nghỉ hè)</i>",
+   "grammar_vi": "<i>Winter holiday</i> (noun phrase) = kỳ nghỉ đông. <b>Grammar</b>: <i>have a winter holiday</i>.",
+   "example": {
+    "en": "We’re going to have a <b>winter holiday</b> this year.",
+    "vi": "Năm nay chúng tôi sẽ có <b>kỳ nghỉ đông</b>."
+   }
+  },
+  {
+   "word": "camping",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈkæmpɪŋ/",
+   "def_en": "Staying on holiday in a tent.",
+   "def_vi": "Đi nghỉ và ngủ trong lều.",
+   "gloss_vi": "cắm trại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Camping</i> (uncountable noun) = cắm trại. <b>Grammar</b>: <i>go camping</i> (không dùng <i>to</i>). <b>Word family</b>: <i>camp</i> (v.), <i>tent</i> (n. lều).",
+   "example": {
+    "en": "I want to go <b>camping</b> this year. [sleep in a tent]",
+    "vi": "Năm nay tôi muốn đi <b>cắm trại</b>."
+   }
+  },
+  {
+   "word": "walking holiday",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈwɔːkɪŋ hɒlədeɪ/",
+   "def_en": "A holiday where you walk a lot in the countryside or mountains.",
+   "def_vi": "Kỳ nghỉ đi bộ nhiều ở vùng quê, núi.",
+   "gloss_vi": "kỳ nghỉ đi bộ đường dài",
+   "synonyms": "hiking holiday <i>(np. kỳ nghỉ leo núi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Walking holiday</i> (noun phrase) = kỳ nghỉ đi bộ đường dài. <b>Grammar</b>: <i>go on a walking holiday</i>.",
+   "example": {
+    "en": "I’m going on a <b>walking holiday</b> in the Alps.",
+    "vi": "Tôi sẽ có <b>kỳ nghỉ đi bộ đường dài</b> ở dãy Alps."
+   }
+  },
+  {
+   "word": "coach tour",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈkəʊtʃ tʊə(r)/",
+   "def_en": "A holiday travelling in a comfortable bus.",
+   "def_vi": "Chuyến du lịch bằng xe khách tiện nghi.",
+   "gloss_vi": "tour xe khách",
+   "synonyms": "bus tour <i>(np. tour xe buýt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Coach tour</i> (noun phrase) = tour xe khách. <b>Grammar</b>: <i>coach</i> (Anh–Anh) = xe khách đường dài.",
+   "example": {
+    "en": "A <b>coach tour</b> is an easy way to go on holiday.",
+    "vi": "<b>Tour xe khách</b> là cách dễ dàng để đi nghỉ."
+   }
+  },
+  {
+   "word": "by plane",
+   "sense": "",
+   "pos": "prepositional phrase",
+   "ipa": "/baɪ ˈpleɪn/",
+   "def_en": "Travelling in a plane.",
+   "def_vi": "Đi bằng máy bay.",
+   "gloss_vi": "bằng máy bay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>By plane</i> (prepositional phrase) = bằng máy bay. <b>Grammar</b>: <i>by</i> + phương tiện, không dùng <i>the/a</i>: <i>by plane, by train</i>. <b>Common mistakes</b>: đi bộ là <i>on foot</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We went to Rome <b>by plane</b>.",
+    "vi": "Chúng tôi đi Rome <b>bằng máy bay</b>."
+   }
+  },
+  {
+   "word": "by train",
+   "sense": "",
+   "pos": "prepositional phrase",
+   "ipa": "/baɪ ˈtreɪn/",
+   "def_en": "Travelling in a train.",
+   "def_vi": "Đi bằng tàu hỏa.",
+   "gloss_vi": "bằng tàu hỏa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>By train</i> (prepositional phrase) = bằng tàu hỏa. <b>Grammar</b>: <i>by train</i> không dùng mạo từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "It’s quick to go to Paris <b>by train</b>.",
+    "vi": "Đi Paris <b>bằng tàu hỏa</b> rất nhanh."
+   }
+  },
+  {
+   "word": "by car",
+   "sense": "",
+   "pos": "prepositional phrase",
+   "ipa": "/baɪ ˈkɑː(r)/",
+   "def_en": "Travelling in a car.",
+   "def_vi": "Đi bằng ô tô.",
+   "gloss_vi": "bằng ô tô",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>By car</i> (prepositional phrase) = bằng ô tô. <b>Grammar</b>: <i>by car</i> không dùng mạo từ; nhưng <i>in my car</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We went camping <b>by car</b>.",
+    "vi": "Chúng tôi đến cắm trại <b>bằng ô tô</b>."
+   }
+  },
+  {
+   "word": "by ferry",
+   "sense": "",
+   "pos": "prepositional phrase",
+   "ipa": "/baɪ ˈferi/",
+   "def_en": "Travelling on a boat that carries people and cars.",
+   "def_vi": "Đi bằng phà chở người và xe.",
+   "gloss_vi": "bằng phà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>By ferry</i> (prepositional phrase) = bằng phà. <b>Grammar</b>: <i>by ferry</i>; <i>take the ferry</i> (đi phà).",
+   "example": {
+    "en": "B No, we’re going <b>by ferry</b>.",
+    "vi": "Không, chúng tôi đi <b>bằng phà</b>."
+   }
+  },
+  {
+   "word": "by coach",
+   "sense": "",
+   "pos": "prepositional phrase",
+   "ipa": "/baɪ ˈkəʊtʃ/",
+   "def_en": "Travelling in a long-distance bus.",
+   "def_vi": "Đi bằng xe khách đường dài.",
+   "gloss_vi": "bằng xe khách",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>By coach</i> (prepositional phrase) = bằng xe khách. <b>Grammar</b>: <i>by coach</i> không dùng mạo từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "Going <b>by coach</b> is cheaper than the train.",
+    "vi": "Đi <b>bằng xe khách</b> rẻ hơn tàu."
+   }
+  },
+  {
+   "word": "passport",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɑːspɔːt/",
+   "def_en": "An official document you need to travel to another country.",
+   "def_vi": "Giấy tờ chính thức cần để đi nước ngoài.",
+   "gloss_vi": "hộ chiếu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Passport</i> (noun) = hộ chiếu. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>show your passport</i> (xuất trình hộ chiếu).",
+   "example": {
+    "en": "Don’t forget to take your <b>passport</b> (if you are going to another country).",
+    "vi": "Đừng quên mang <b>hộ chiếu</b> (nếu bạn đi nước khác)."
+   }
+  },
+  {
+   "word": "visa",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈviːzə/",
+   "def_en": "A stamp in your passport that you need to go to some countries.",
+   "def_vi": "Dấu trong hộ chiếu cần để vào một số nước.",
+   "gloss_vi": "thị thực, visa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Visa</i> (noun) = thị thực, visa. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>apply for a visa</i> (xin visa).",
+   "ex_kit": true,
+   "example": {
+    "en": "Some countries ask for a <b>visa</b>.",
+    "vi": "Một số nước yêu cầu <b>visa</b>."
+   }
+  },
+  {
+   "word": "tickets",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈtɪkɪts/",
+   "def_en": "Pieces of paper that show you have paid to travel or enter a place.",
+   "def_vi": "Giấy chứng nhận đã trả tiền đi lại hay vào cửa.",
+   "gloss_vi": "vé",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tickets</i> (plural noun) = vé. <b>Grammar</b>: số ít <i>a ticket</i>. <b>Collocations / chunks</b>: <i>plane/train ticket</i> (vé máy bay/tàu).",
+   "example": {
+    "en": "Don’t forget to take your <b>tickets</b>.",
+    "vi": "Đừng quên mang <b>vé</b> của bạn."
+   }
+  },
+  {
+   "word": "currency",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkʌrənsi/",
+   "def_en": "The money used in a country.",
+   "def_vi": "Tiền dùng ở một nước.",
+   "gloss_vi": "tiền tệ, ngoại tệ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Currency</i> (noun) = tiền tệ, ngoại tệ. <b>Grammar</b>: <i>some currency</i>; số nhiều <i>currencies</i>. <b>Collocations / chunks</b>: <i>foreign currency</i> (ngoại tệ).",
+   "example": {
+    "en": "Don’t forget to take some <b>currency</b>.",
+    "vi": "Đừng quên mang ít <b>ngoại tệ</b>."
+   }
+  },
+  {
+   "word": "luggage",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/ˈlʌɡɪdʒ/",
+   "def_en": "The bags and suitcases you take when you travel.",
+   "def_vi": "Túi và va li mang theo khi đi xa.",
+   "gloss_vi": "hành lý",
+   "synonyms": "baggage <i>(un. hành lý)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Luggage</i> (uncountable noun) = hành lý. <b>Grammar</b>: không đếm được: <i>a lot of luggage, a piece of luggage</i>. <b>Common mistakes</b>: không nói <i>luggages</i>.",
+   "example": {
+    "en": "Don’t forget to take your <b>luggage</b> (e.g. a suitcase or a rucksack).",
+    "vi": "Đừng quên <b>hành lý</b> (ví dụ va li hay ba lô)."
+   }
+  },
+  {
+   "word": "suitcase",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsuːtkeɪs/",
+   "def_en": "A large case with a handle for carrying clothes when you travel.",
+   "def_vi": "Hộp lớn có quai để mang quần áo khi đi xa.",
+   "gloss_vi": "va li",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Suitcase</i> (noun) = va li. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>pack your suitcase</i> (xếp va li).",
+   "example": {
+    "en": "Don’t forget to take your luggage (e.g. a <b>suitcase</b> or a rucksack).",
+    "vi": "Hành lý của bạn (ví dụ <b>va li</b> hay ba lô)."
+   }
+  },
+  {
+   "word": "rucksack",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈrʌksæk/",
+   "def_en": "A bag you carry on your back.",
+   "def_vi": "Túi đeo trên lưng.",
+   "gloss_vi": "ba lô",
+   "synonyms": "backpack <i>(n. ba lô)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rucksack</i> (noun) = ba lô. <b>Grammar</b>: đếm được; Anh–Anh.",
+   "example": {
+    "en": "Don’t forget to take your luggage (e.g. a suitcase or a <b>rucksack</b>).",
+    "vi": "Hành lý của bạn (ví dụ va li hay <b>ba lô</b>)."
+   }
+  },
+  {
+   "word": "fly",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/flaɪ/",
+   "def_en": "To travel by plane.",
+   "def_vi": "Đi bằng máy bay.",
+   "gloss_vi": "bay, đi máy bay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fly</i> (verb) = bay, đi máy bay. <b>Grammar</b>: quá khứ <i>flew</i>, phân từ <i>flown</i>. <b>Collocations / chunks</b>: <i>fly to Paris</i> (bay đến Paris).",
+   "example": {
+    "en": "A Are you <b>flying</b> to France from England?",
+    "vi": "Bạn <b>bay</b> từ Anh sang Pháp à?"
+   }
+  },
+  {
+   "word": "try the local food",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌtraɪ ðə ˌləʊkl ˈfuːd/",
+   "def_en": "To eat the typical food of the place you visit.",
+   "def_vi": "Ăn món đặc trưng của nơi đến.",
+   "gloss_vi": "thử món địa phương",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Try the local food</i> (verb phrase) = thử món địa phương. <b>Grammar</b>: <i>try</i> + đồ ăn = nếm thử. <b>Collocations / chunks</b>: <i>local food</i> (món địa phương).",
+   "example": {
+    "en": "B We want to <b>try the local food</b> and enjoy the nightlife [clubs, etc.].",
+    "vi": "Chúng tôi muốn <b>thử món ăn địa phương</b> và tận hưởng cuộc sống về đêm."
+   }
+  },
+  {
+   "word": "enjoy the nightlife",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ɪnˌdʒɔɪ ðə ˈnaɪtlaɪf/",
+   "def_en": "To go to clubs and other places in the evening.",
+   "def_vi": "Đi câu lạc bộ, vui chơi về đêm.",
+   "gloss_vi": "tận hưởng cuộc sống về đêm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Enjoy the nightlife</i> (verb phrase) = tận hưởng cuộc sống về đêm. <b>Grammar</b>: <i>nightlife</i> không đếm được.",
+   "example": {
+    "en": "B We want to try the local food and <b>enjoy the nightlife</b> [clubs, etc.].",
+    "vi": "Chúng tôi muốn thử món địa phương và <b>tận hưởng cuộc sống về đêm</b>."
+   }
+  },
+  {
+   "word": "Have a great time!",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌhæv ə ˌɡreɪt ˈtaɪm/",
+   "def_en": "Said to someone who is going on holiday or to a party.",
+   "def_vi": "Lời chúc người sắp đi chơi, dự tiệc.",
+   "gloss_vi": "chơi vui nhé!",
+   "synonyms": "Have fun! <i>(phr. vui vẻ nhé)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have a great time!</i> (phrase) = chơi vui nhé!. <b>Grammar</b>: câu chúc cố định. <b>Collocations / chunks</b>: <i>Have a good time!</i> (chơi vui nhé).",
+   "example": {
+    "en": "A <b>Have a great time</b>!",
+    "vi": "<b>Chơi vui nhé</b>! Và gửi bưu thiếp cho mình!"
+   }
+  },
+  {
+   "word": "send a postcard",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌsend ə ˈpəʊstkɑːd/",
+   "def_en": "To post a card with a picture to someone.",
+   "def_vi": "Gửi tấm thiệp có hình cho ai.",
+   "gloss_vi": "gửi bưu thiếp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Send a postcard</i> (verb phrase) = gửi bưu thiếp. <b>Grammar</b>: <i>send sb a postcard</i>. <b>Collocations / chunks</b>: <i>postcard</i> = bưu thiếp.",
+   "example": {
+    "en": "Have a great time! And <b>send me a postcard</b>!",
+    "vi": "Chơi vui nhé! Và <b>gửi bưu thiếp</b> cho mình!"
+   }
+  }
+ ]
+}

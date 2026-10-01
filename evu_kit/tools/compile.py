@@ -47,12 +47,18 @@ def sentences(block):
                                       and not re.match(r"^\*\*[a-z]", l))
              and not re.fullmatch(r"[\d\W]{1,4}", l)]
     lines = [re.sub(r"^\d{1,2}\s+(?=[A-Z‘“])", "", l) for l in lines]
+    isl = lambda x: bool(re.fullmatch(r"\*\*[^*]+\*\*", x)) and len(x.split()) < 5 and not re.search(r"[.!?]\**$", x)
+    lines = [l for i, l in enumerate(lines) if not (isl(l) and 0 < i < len(lines) - 1 and not re.search(r"[.!?:,;–\-]\**$", lines[i - 1])
+                                                    and re.match(r"^[a-z]", lines[i + 1].replace("**", "")))]
     out, cur, last = [], "", ""
+    lab = lambda x: bool(re.fullmatch(r"\*\*[^*]+\*\*", x)) and len(x.split()) < 5 and not re.search(r"[.!?]\**$", x)
     for l in lines:
         plain = l.replace("**", "")
         if cur:
             pl = last.replace("**", "")
-            if re.search(r"[.!?)\]]$", pl): join = bool(re.match(r"^[a-z]", plain))
+            if lab(l): join = bool(re.search(r"[,;:–\-(/]$", pl))
+            elif lab(last): join = bool(re.match(r"^(and|or|but)\b|^[,.;:]", plain))
+            elif re.search(r"[.!?)\]]$", pl): join = bool(re.match(r"^[a-z]", plain))
             else: join = len(pl) >= 40 or bool(re.match(r"^[a-z0-9(‘“'\"]", plain)) or bool(re.search(r"[,;:–\-(/]$|\b(e\.g\.|i\.e\.)$", pl))
             if join: cur += " " + l; last = l; continue
             out.append(cur)
@@ -89,7 +95,7 @@ def word_rx(word):
     sep = [r"(?:\*\*)?\s*(?:\*\*)?"] * (len(toks) - 1)
     if len(toks) >= 2 and toks[-1].lower() in PART:      # phrasal verb tách được: cho phép ≤3 từ chen giữa
         sep[-1] = r"(?:\*\*)?\s*(?:\*\*)?(?:[A-Za-z’'\-]+\s+){0,3}?(?:\*\*)?"
-    CON = {"have": "ve", "will": "ll", "are": "re", "is": "s", "am": "m", "would": "d", "had": "d"}
+    CON = {"have": "ve", "will": "ll", "are": "re", "is": "s", "am": "m", "would": "d", "had": "d", "be": "(?:m|re|s)"}
     first = r"(?<![A-Za-z])" + parts[0]
     if toks[0].lower() in CON: first = f"(?:{first}|(?<=[A-Za-z])[’']{CON[toks[0].lower()]})"
     rx = first
@@ -110,7 +116,7 @@ def find_example(word, src):
             bold = bool(re.search(r"\*\*[^*]*" + re.escape(mm.group(0).split()[0]) , s, re.I))
             n = len(s.split())
             nb = len(" ".join(re.findall(r"\*\*([^*]+)\*\*", s)).split())
-            bad = n > 45 or n < 2 or (nb / n > 0.6 and n >= 4 and not re.search(r"[.!?]\**$", s.strip())) or "……" in s or "…….." in s or ".........." in s
+            bad = n > 45 or n < 2 or (re.fullmatch(r"\*\*[^*]+\*\*", s.strip()) is not None) or (nb / n > 0.6 and n >= 4 and not re.search(r"[.!?]\**$", s.strip())) or "……" in s or "…….." in s or ".........." in s
             if not bad: cands.append((prio + (0 if bold else 1), s))
     if not cands: return None
     cands.sort(key=lambda x: x[0])

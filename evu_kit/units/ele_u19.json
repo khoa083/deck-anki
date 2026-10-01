@@ -1,0 +1,334 @@
+{
+ "book": "ele",
+ "unit": 19,
+ "title_vi": "Cửa hàng và mua sắm",
+ "theory_html": "<p><b>A. Kinds of shops</b><br><i>A. Các loại cửa hàng</i></p> <ul><li><b>butcher, baker, chemist, newsagent</b> (also people’s jobs – add <b>’s</b>: <b>the newsagent’s</b>), <b>post office, supermarket, bookshop, department store, gift shop</b> – <i>hàng thịt, tiệm bánh, hiệu thuốc, sạp báo, bưu điện, siêu thị, hiệu sách, cửa hàng bách hóa, cửa hàng quà</i></li></ul> <p><b>B. In the department store</b><br><i>B. Trong cửa hàng bách hóa</i></p> <p>A <b>department store</b> is a large shop selling many different things on different floors (<b>ground floor, basement, first floor…</b>).</p><p><i><b>Cửa hàng bách hóa</b> bán nhiều loại hàng trên nhiều tầng.</i></p> <p><b>C. Expressions</b><br><i>C. Cách nói</i></p> <p><b>Can I help you? – Can I try this shirt on? Have you got a bigger / smaller size? How much does it cost? Can I pay by cheque? – Credit card, debit card or cash. I don’t have any change. Here’s your receipt. Would you like a (carrier) bag?</b></p><p><i><b>Tôi giúp gì được? – Tôi thử áo này được không? Có cỡ to/nhỏ hơn không? Giá bao nhiêu? Trả bằng séc được không? – Thẻ tín dụng, thẻ ghi nợ hoặc tiền mặt. Tôi không có tiền lẻ. Hóa đơn của anh đây. Anh có cần túi không?</b></i></p>",
+ "items": [
+  {
+   "word": "butcher",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbʊtʃə(r)/",
+   "def_en": "A person or shop that sells meat.",
+   "def_vi": "Người hoặc cửa hàng bán thịt.",
+   "gloss_vi": "người bán thịt, hàng thịt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Butcher</i> (noun) = người bán thịt, hàng thịt. <b>Grammar</b>: chỉ cửa hàng thì thêm <i>’s</i>: <i>the butcher’s</i>. <b>Common mistakes</b>: <i>u</i> đọc /ʊ/.",
+   "example": {
+    "en": "Do you want anything from the <b>butcher’s</b>?",
+    "vi": "Bạn có cần gì ở <b>hàng thịt</b> không?"
+   }
+  },
+  {
+   "word": "post office",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈpəʊst ɒfɪs/",
+   "def_en": "A place where you can send letters and buy stamps.",
+   "def_vi": "Nơi gửi thư và mua tem.",
+   "gloss_vi": "bưu điện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Post office</i> (noun phrase) = bưu điện. <b>Grammar</b>: danh từ ghép, đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "I’m going to the <b>post office</b> to buy some stamps.",
+    "vi": "Tôi ra <b>bưu điện</b> mua tem."
+   }
+  },
+  {
+   "word": "supermarket",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsuːpəmɑːkɪt/",
+   "def_en": "A large shop that sells food and things for the home.",
+   "def_vi": "Cửa hàng lớn bán thực phẩm và đồ gia dụng.",
+   "gloss_vi": "siêu thị",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Supermarket</i> (noun) = siêu thị. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>go to the supermarket</i> (đi siêu thị).",
+   "ex_kit": true,
+   "example": {
+    "en": "We buy our food at the <b>supermarket</b>.",
+    "vi": "Chúng tôi mua đồ ăn ở <b>siêu thị</b>."
+   }
+  },
+  {
+   "word": "bookshop",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbʊkʃɒp/",
+   "def_en": "A shop that sells books.",
+   "def_vi": "Cửa hàng bán sách.",
+   "gloss_vi": "hiệu sách",
+   "synonyms": "bookstore <i>(n. hiệu sách (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bookshop</i> (noun) = hiệu sách. <b>Grammar</b>: đếm được; Anh–Anh.",
+   "ex_kit": true,
+   "example": {
+    "en": "I bought this book at the <b>bookshop</b> in town.",
+    "vi": "Tôi mua cuốn này ở <b>hiệu sách</b> trong thị trấn."
+   }
+  },
+  {
+   "word": "baker",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbeɪkə(r)/",
+   "def_en": "A person or shop that makes and sells bread and cakes.",
+   "def_vi": "Người hoặc tiệm làm và bán bánh mì, bánh ngọt.",
+   "gloss_vi": "thợ làm bánh, tiệm bánh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Baker</i> (noun) = thợ làm bánh, tiệm bánh. <b>Grammar</b>: chỉ cửa hàng thêm <i>’s</i>: <i>the baker’s</i>. <b>Word family</b>: <i>bake</i> (v.), <i>bakery</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "I buy bread at the <b>baker’s</b>.",
+    "vi": "Tôi mua bánh mì ở <b>tiệm bánh</b>."
+   }
+  },
+  {
+   "word": "department store",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/dɪˈpɑːtmənt stɔː(r)/",
+   "def_en": "A large shop which sells many different things, such as clothes, beauty products and toys.",
+   "def_vi": "Cửa hàng lớn bán nhiều thứ như quần áo, mỹ phẩm, đồ chơi.",
+   "gloss_vi": "cửa hàng bách hóa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Department store</i> (noun phrase) = cửa hàng bách hóa. <b>Grammar</b>: danh từ ghép, đếm được.",
+   "example": {
+    "en": "A <b>department store</b> is a large shop which sells a lot of different things.",
+    "vi": "<b>Cửa hàng bách hóa</b> là một cửa hàng lớn bán rất nhiều thứ khác nhau."
+   }
+  },
+  {
+   "word": "chemist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkemɪst/",
+   "def_en": "A person or shop that sells medicines and beauty products.",
+   "def_vi": "Người hoặc cửa hàng bán thuốc và mỹ phẩm.",
+   "gloss_vi": "dược sĩ, hiệu thuốc",
+   "synonyms": "pharmacy <i>(n. hiệu thuốc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chemist</i> (noun) = dược sĩ, hiệu thuốc. <b>Grammar</b>: chỉ cửa hàng thêm <i>’s</i>: <i>the chemist’s</i>; <i>ch</i> đọc /k/.",
+   "ex_kit": true,
+   "example": {
+    "en": "I need to go to the <b>chemist’s</b> for some aspirin.",
+    "vi": "Tôi phải ra <b>hiệu thuốc</b> mua aspirin."
+   }
+  },
+  {
+   "word": "newsagent",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈnjuːzeɪdʒənt/",
+   "def_en": "A person or shop that sells newspapers and magazines.",
+   "def_vi": "Người hoặc cửa hàng bán báo, tạp chí.",
+   "gloss_vi": "người bán báo, sạp báo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Newsagent</i> (noun) = người bán báo, sạp báo. <b>Grammar</b>: chỉ cửa hàng thêm <i>’s</i>: <i>I’m going to the newsagent’s</i>.",
+   "example": {
+    "en": "I’m going to the <b>newsagent’s</b> to get a paper.",
+    "vi": "Tôi ra <b>sạp báo</b> mua tờ báo."
+   }
+  },
+  {
+   "word": "gift shop",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈɡɪft ʃɒp/",
+   "def_en": "A shop that sells things to give as presents.",
+   "def_vi": "Cửa hàng bán đồ làm quà.",
+   "gloss_vi": "cửa hàng quà tặng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gift shop</i> (noun phrase) = cửa hàng quà tặng. <b>Grammar</b>: danh từ ghép, đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "I bought some postcards in the museum <b>gift shop</b>.",
+    "vi": "Tôi mua bưu thiếp ở <b>cửa hàng quà tặng</b> của bảo tàng."
+   }
+  },
+  {
+   "word": "try on",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌtraɪ ˈɒn/",
+   "def_en": "To put on clothes to see if they fit or look nice.",
+   "def_vi": "Mặc thử quần áo xem có vừa, đẹp không.",
+   "gloss_vi": "mặc thử",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Try on</i> (phrasal verb) = mặc thử. <b>Grammar</b>: tách được: <i>try this shirt on / try it on</i>. <b>Collocations / chunks</b>: <i>Can I try it on?</i> (tôi thử được không?).",
+   "example": {
+    "en": "Customer Can I <b>try this shirt on</b>?",
+    "vi": "Tôi <b>mặc thử</b> chiếc áo này được không?"
+   }
+  },
+  {
+   "word": "size",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/saɪz/",
+   "def_en": "How big or small clothes or shoes are.",
+   "def_vi": "Độ to nhỏ của quần áo, giày dép.",
+   "gloss_vi": "cỡ, kích cỡ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Size</i> (noun) = cỡ, kích cỡ. <b>Grammar</b>: <i>a bigger/smaller size</i>; <i>What size are you?</i> (bạn mặc cỡ nào?).",
+   "example": {
+    "en": "(goes and tries it on) Have you got a bigger / smaller <b>size</b> / a different colour?",
+    "vi": "Có <b>cỡ</b> to hơn / nhỏ hơn không?"
+   }
+  },
+  {
+   "word": "cost",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kɒst/",
+   "def_en": "To have a particular price.",
+   "def_vi": "Có giá nhất định.",
+   "gloss_vi": "có giá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cost</i> (verb) = có giá. <b>Grammar</b>: quá khứ <i>cost</i>; <i>How much does it cost?</i>. <b>Word family</b>: <i>cost</i> (n. chi phí).",
+   "example": {
+    "en": "How much does it <b>cost</b>?",
+    "vi": "Nó <b>giá</b> bao nhiêu?"
+   }
+  },
+  {
+   "word": "pay",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/peɪ/",
+   "def_en": "To give money for something.",
+   "def_vi": "Đưa tiền để mua gì.",
+   "gloss_vi": "trả tiền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pay</i> (verb) = trả tiền. <b>Grammar</b>: quá khứ <i>paid</i>; <i>pay by card/cheque</i>, <i>pay in cash</i>, <i>pay for sth</i>.",
+   "example": {
+    "en": "Customer Can I <b>pay</b> by cheque?",
+    "vi": "Tôi <b>trả</b> bằng séc được không?"
+   }
+  },
+  {
+   "word": "cheque",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tʃek/",
+   "def_en": "A printed paper from a bank that you write on to pay someone.",
+   "def_vi": "Tờ giấy in của ngân hàng để viết và trả tiền.",
+   "gloss_vi": "séc",
+   "synonyms": "check <i>(n. séc (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cheque</i> (noun) = séc. <b>Grammar</b>: <i>pay by cheque</i>; Anh–Anh viết <i>cheque</i>.",
+   "example": {
+    "en": "Customer Can I pay by <b>cheque</b>?",
+    "vi": "Tôi trả bằng <b>séc</b> được không?"
+   }
+  },
+  {
+   "word": "credit card",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈkredɪt kɑːd/",
+   "def_en": "A plastic card that you use to buy things and pay for them later.",
+   "def_vi": "Thẻ nhựa để mua trước trả sau.",
+   "gloss_vi": "thẻ tín dụng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "cash <i>(un. tiền mặt)</i>",
+   "grammar_vi": "<i>Credit card</i> (noun phrase) = thẻ tín dụng. <b>Grammar</b>: <i>pay by credit card</i>. <b>Common mistakes</b>: khác <i>debit card</i> (thẻ ghi nợ, trừ thẳng tài khoản).",
+   "example": {
+    "en": "Shop assistant No, <b>credit card</b>, debit card or cash, please.",
+    "vi": "Không, thẻ <b>tín dụng</b>, thẻ ghi nợ hoặc tiền mặt nhé."
+   }
+  },
+  {
+   "word": "cash",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/kæʃ/",
+   "def_en": "Money in coins and notes.",
+   "def_vi": "Tiền xu và tiền giấy.",
+   "gloss_vi": "tiền mặt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cash</i> (uncountable noun) = tiền mặt. <b>Grammar</b>: không đếm được; <i>pay in cash</i> (trả tiền mặt).",
+   "example": {
+    "en": "Shop assistant No, credit card, debit card or <b>cash</b>, please.",
+    "vi": "Không, thẻ tín dụng, thẻ ghi nợ hoặc <b>tiền mặt</b> nhé."
+   }
+  },
+  {
+   "word": "note",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/nəʊt/",
+   "def_en": "A piece of paper money.",
+   "def_vi": "Tờ tiền giấy.",
+   "gloss_vi": "tờ tiền giấy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "coin <i>(n. đồng xu)</i>",
+   "grammar_vi": "<i>Note</i> (noun) = tờ tiền giấy. <b>Grammar</b>: đếm được: <i>a £50 note</i>; Mỹ: <i>bill</i>.",
+   "example": {
+    "en": "Customer Sorry, I only have a £50 <b>note</b>.",
+    "vi": "Xin lỗi, tôi chỉ có <b>tờ</b> 50 bảng."
+   }
+  },
+  {
+   "word": "change",
+   "sense": "",
+   "pos": "uncountable noun",
+   "ipa": "/tʃeɪndʒ/",
+   "def_en": "Coins or smaller notes; also money you get back when you pay too much.",
+   "def_vi": "Tiền xu, tiền lẻ; cũng là tiền thối lại.",
+   "gloss_vi": "tiền lẻ, tiền thối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Change</i> (uncountable noun) = tiền lẻ, tiền thối. <b>Grammar</b>: không đếm được: <i>I don’t have any change</i>. <b>Common mistakes</b>: cũng là động từ “thay đổi”.",
+   "example": {
+    "en": "I don’t have any <b>change</b> [coins or smaller notes].",
+    "vi": "Tôi không có <b>tiền lẻ</b>."
+   }
+  },
+  {
+   "word": "receipt",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˈsiːt/",
+   "def_en": "A piece of paper that shows you have paid for something.",
+   "def_vi": "Giấy chứng nhận đã trả tiền.",
+   "gloss_vi": "hóa đơn, biên lai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Receipt</i> (noun) = hóa đơn, biên lai. <b>Grammar</b>: đếm được; chữ <i>p</i> câm /rɪˈsiːt/.",
+   "example": {
+    "en": "Here’s your <b>receipt</b>.",
+    "vi": "Không sao. <b>Hóa đơn</b> của anh đây."
+   }
+  },
+  {
+   "word": "carrier bag",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈkæriə bæɡ/",
+   "def_en": "A plastic or paper bag that a shop gives you to carry things.",
+   "def_vi": "Túi nhựa hay giấy cửa hàng đưa để đựng đồ.",
+   "gloss_vi": "túi đựng hàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Carrier bag</i> (noun phrase) = túi đựng hàng. <b>Grammar</b>: danh từ ghép; Anh–Anh.",
+   "example": {
+    "en": "Would you like a <b>(carrier) bag</b>?",
+    "vi": "Anh có cần <b>túi</b> không?"
+   }
+  }
+ ]
+}

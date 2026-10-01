@@ -1,0 +1,257 @@
+{
+ "book": "ele",
+ "unit": 20,
+ "title_vi": "Mua sắm trực tuyến",
+ "theory_html": "<p><b>A. Buying something</b><br><i>A. Mua hàng</i></p> <p>On a shopping website you can <b>search products</b>, choose colour, size and <b>price</b>, choose <b>delivery options</b> (<b>free delivery</b>, <b>next day delivery</b>), <b>add to basket</b> and read the <b>reviews</b>.</p><p><i>Trên trang mua sắm bạn có thể <b>tìm sản phẩm</b>, chọn màu, cỡ, <b>giá</b>, chọn <b>cách giao hàng</b> (<b>miễn phí</b>, <b>giao ngày hôm sau</b>), <b>thêm vào giỏ</b> và đọc <b>đánh giá</b>.</i></p> <p><b>B. Your order</b><br><i>B. Đơn hàng</i></p> <p>At the <b>checkout</b> you see <b>your order</b> (<b>order number</b>, items, total), give your <b>delivery address</b> with <b>post code</b> (US <b>zip code</b>), or <b>delete an item</b>.</p><p><i>Ở bước <b>thanh toán</b> bạn xem <b>đơn hàng</b>, nhập <b>địa chỉ giao hàng</b> có <b>mã bưu chính</b>, hoặc <b>xóa mặt hàng</b>.</i></p> <p><b>C. Expressions</b><br><i>C. Cách nói</i></p> <p><b>shop online</b> (quick and easy), pay with <b>credit cards</b>, read <b>online reviews</b>, receive the <b>delivery</b>.</p><p><i><b>mua sắm trực tuyến</b>, trả bằng thẻ tín dụng, đọc <b>đánh giá trên mạng</b>, nhận <b>hàng giao</b>.</i></p>",
+ "items": [
+  {
+   "word": "basket",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɑːskɪt/",
+   "def_en": "The place on a shopping website where you put things you want to buy.",
+   "def_vi": "Nơi trên trang mua sắm chứa hàng bạn muốn mua.",
+   "gloss_vi": "giỏ hàng",
+   "synonyms": "cart <i>(n. giỏ hàng (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Basket</i> (noun) = giỏ hàng. <b>Grammar</b>: đếm được; Anh–Anh. <b>Collocations / chunks</b>: <i>add to basket</i> (thêm vào giỏ).",
+   "ex_kit": true,
+   "example": {
+    "en": "Click here to see what’s in your <b>basket</b>.",
+    "vi": "Nhấn vào đây để xem trong <b>giỏ hàng</b> có gì."
+   }
+  },
+  {
+   "word": "search",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/sɜːtʃ/",
+   "def_en": "To look for something on a website.",
+   "def_vi": "Tìm kiếm thứ gì trên trang web.",
+   "gloss_vi": "tìm kiếm",
+   "synonyms": "look for <i>(pv. tìm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Search</i> (verb) = tìm kiếm. <b>Grammar</b>: <i>search for sth</i>; danh từ <i>a search</i>. <b>Collocations / chunks</b>: <i>search products</i> (tìm sản phẩm).",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Search</b> products by name.",
+    "vi": "<b>Tìm</b> sản phẩm theo tên."
+   }
+  },
+  {
+   "word": "price",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/praɪs/",
+   "def_en": "The amount of money you pay for something.",
+   "def_vi": "Số tiền phải trả cho món gì.",
+   "gloss_vi": "giá",
+   "synonyms": "cost <i>(n. chi phí)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Price</i> (noun) = giá. <b>Grammar</b>: đếm được. <b>Collocations / chunks</b>: <i>a low/high price</i> (giá thấp/cao).",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Price</b>: £6.99",
+    "vi": "<b>Giá</b>: 6,99 bảng."
+   }
+  },
+  {
+   "word": "delivery",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈlɪvəri/",
+   "def_en": "The act of bringing things to someone’s house.",
+   "def_vi": "Việc mang hàng đến nhà ai.",
+   "gloss_vi": "việc giao hàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Delivery</i> (noun) = việc giao hàng. <b>Grammar</b>: <i>free delivery</i> (giao miễn phí), <i>next day delivery</i> (giao ngày hôm sau). <b>Word family</b>: <i>deliver</i> (v.).",
+   "example": {
+    "en": "If you are not at home to receive the <b>delivery</b>, we will take it to the post office.",
+    "vi": "Nếu bạn không có nhà để nhận <b>hàng giao</b>, chúng tôi sẽ mang nó ra bưu điện."
+   }
+  },
+  {
+   "word": "next day delivery",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌnekst deɪ dɪˈlɪvəri/",
+   "def_en": "A service where things you buy arrive the day after you order.",
+   "def_vi": "Dịch vụ giao hàng vào ngày hôm sau khi đặt.",
+   "gloss_vi": "giao hàng ngày hôm sau",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "free delivery <i>(np. giao hàng miễn phí)</i>",
+   "grammar_vi": "<i>Next day delivery</i> (noun phrase) = giao hàng ngày hôm sau. <b>Grammar</b>: danh từ ghép.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Next Day Delivery</b> costs £5.99.",
+    "vi": "<b>Giao hàng ngày hôm sau</b> (giao vào 16 tháng 11): 5,99 bảng."
+   }
+  },
+  {
+   "word": "add to basket",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌæd tə ˈbɑːskɪt/",
+   "def_en": "To put something in your online shopping basket.",
+   "def_vi": "Bỏ hàng vào giỏ mua sắm trên mạng.",
+   "gloss_vi": "thêm vào giỏ hàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "delete <i>(v. xóa)</i>",
+   "grammar_vi": "<i>Add to basket</i> (verb phrase) = thêm vào giỏ hàng. <b>Grammar</b>: dạng nút bấm trên web. <b>Collocations / chunks</b>: <i>add sth to your basket</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Choose your size and click <b>Add to basket</b>.",
+    "vi": "Chọn cỡ rồi nhấn <b>Thêm vào giỏ</b>."
+   }
+  },
+  {
+   "word": "reviews",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/rɪˈvjuːz/",
+   "def_en": "Opinions written by people who have bought something.",
+   "def_vi": "Ý kiến của người đã mua.",
+   "gloss_vi": "đánh giá, nhận xét",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reviews</i> (plural noun) = đánh giá, nhận xét. <b>Grammar</b>: số ít <i>a review</i>. <b>Collocations / chunks</b>: <i>read the reviews</i> (đọc nhận xét), <i>online reviews</i> (đánh giá trên mạng).",
+   "example": {
+    "en": "Read the <b>reviews</b>",
+    "vi": "Đọc các <b>đánh giá</b>."
+   }
+  },
+  {
+   "word": "order",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɔːdə(r)/",
+   "def_en": "A request to buy something.",
+   "def_vi": "Yêu cầu mua hàng.",
+   "gloss_vi": "đơn hàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Order</i> (noun) = đơn hàng. <b>Grammar</b>: đếm được; <i>order number</i> (mã đơn hàng); cũng là động từ <i>order sth</i> (đặt hàng).",
+   "ex_kit": true,
+   "example": {
+    "en": "Check <b>your order</b> before you pay.",
+    "vi": "Kiểm tra <b>đơn hàng</b> trước khi thanh toán."
+   }
+  },
+  {
+   "word": "checkout",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtʃekaʊt/",
+   "def_en": "The place on a website, or in a shop, where you pay.",
+   "def_vi": "Nơi thanh toán trên web hoặc trong cửa hàng.",
+   "gloss_vi": "(chỗ) thanh toán",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Checkout</i> (noun) = (chỗ) thanh toán. <b>Grammar</b>: danh từ viết liền. <b>Collocations / chunks</b>: <i>go to the checkout</i> (đi thanh toán).",
+   "ex_kit": true,
+   "example": {
+    "en": "Go to the <b>checkout</b> to pay.",
+    "vi": "Nhấn <b>Thanh toán</b> để trả tiền."
+   }
+  },
+  {
+   "word": "delivery address",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/dɪˈlɪvəri ədres/",
+   "def_en": "The address where your things will be sent.",
+   "def_vi": "Địa chỉ hàng sẽ được gửi đến.",
+   "gloss_vi": "địa chỉ giao hàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Delivery address</i> (noun phrase) = địa chỉ giao hàng. <b>Grammar</b>: danh từ ghép.",
+   "ex_kit": true,
+   "example": {
+    "en": "Enter your <b>delivery address</b>.",
+    "vi": "Nhập <b>địa chỉ giao hàng</b> của bạn."
+   }
+  },
+  {
+   "word": "delete",
+   "sense": "order",
+   "pos": "verb",
+   "ipa": "/dɪˈliːt/",
+   "def_en": "To remove something from your order or from a computer.",
+   "def_vi": "Xóa thứ gì khỏi đơn hàng hay máy tính.",
+   "gloss_vi": "xóa",
+   "synonyms": "remove <i>(v. gỡ bỏ)</i>",
+   "antonyms": "add <i>(v. thêm)</i>",
+   "grammar_vi": "<i>Delete</i> (verb) = xóa. <b>Grammar</b>: <i>delete an item</i> (xóa mặt hàng). <b>Note</b>: cùng từ với <i>delete</i> (xóa ảnh, tin nhắn) ở Unit 17.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Delete</b> this item.",
+    "vi": "<b>Xóa mặt hàng này</b>."
+   }
+  },
+  {
+   "word": "post code",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈpəʊst kəʊd/",
+   "def_en": "A group of numbers and letters at the end of an address.",
+   "def_vi": "Nhóm số và chữ ở cuối địa chỉ.",
+   "gloss_vi": "mã bưu chính",
+   "synonyms": "zip code <i>(np. mã bưu chính (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Post code</i> (noun phrase) = mã bưu chính. <b>Grammar</b>: Anh–Anh; ở Anh có cả chữ cái (BA1 1LZ).",
+   "example": {
+    "en": "A <b>post code</b> (zip code in the US) is a long number at the end of an address.",
+    "vi": "<b>Mã bưu chính</b> là một dãy số dài ở cuối địa chỉ."
+   }
+  },
+  {
+   "word": "zip code",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈzɪp kəʊd/",
+   "def_en": "The US word for a post code.",
+   "def_vi": "Từ Mỹ chỉ mã bưu chính.",
+   "gloss_vi": "mã bưu chính (Mỹ)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Zip code</i> (noun phrase) = mã bưu chính (Mỹ). <b>Grammar</b>: Anh–Mỹ; ví dụ 10509.",
+   "example": {
+    "en": "A post code (<b>zip code</b> in the US) is a long number at the end of an address.",
+    "vi": "Mã bưu chính (<b>zip code</b> ở Mỹ) là một dãy số dài ở cuối địa chỉ."
+   }
+  },
+  {
+   "word": "shop online",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌʃɒp ɒnˈlaɪn/",
+   "def_en": "To buy things on the Internet.",
+   "def_vi": "Mua hàng trên Internet.",
+   "gloss_vi": "mua sắm trực tuyến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shop online</i> (verb phrase) = mua sắm trực tuyến. <b>Grammar</b>: <i>online</i> là trạng từ. <b>Word family</b>: <i>online shopping</i> (n.).",
+   "example": {
+    "en": "Lisa likes to <b>shop online</b> because it’s quick and easy.",
+    "vi": "Lisa thích <b>mua sắm trực tuyến</b> vì nhanh và dễ."
+   }
+  },
+  {
+   "word": "online reviews",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌɒnlaɪn rɪˈvjuːz/",
+   "def_en": "Opinions about products written on the Internet.",
+   "def_vi": "Nhận xét về sản phẩm trên Internet.",
+   "gloss_vi": "đánh giá trên mạng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Online reviews</i> (noun phrase) = đánh giá trên mạng. <b>Grammar</b>: <i>online</i> là tính từ trước danh từ.",
+   "example": {
+    "en": "Reading <b>online reviews</b> can help you choose what to buy.",
+    "vi": "Đọc <b>đánh giá trên mạng</b> có thể giúp bạn chọn mua gì."
+   }
+  }
+ ]
+}
