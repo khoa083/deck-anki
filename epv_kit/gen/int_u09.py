@@ -1,0 +1,77 @@
+exec(open('tools/common.py').read())
+# Intermediate unit 9 – Look. Bám sách: trang 22–23 (đã xem ảnh trang) + đáp án + Mini dictionary. Không chép nguyên văn.
+# Đã có thẻ ở unit trước: look after, look down on, look forward to, look up ×3 (u1), look over (u3), look on, onlooker (u4) → chỉ nhắc.
+theory = (
+ H("A", "Look in a physical sense", "Look theo nghĩa thị giác")
+ + P("Many phrasal verbs with <i>look</i> keep the idea of seeing, watching or noticing. Tim asks Ivy about a report: she has only <b>looked at</b> it (read it quickly, not carefully), but he wants her to <b>look at</b> the conclusions (consider them carefully before deciding). Noah tells Amber to <b>look out</b> for a road sign on the motorway (watch carefully so as to notice it). Bank robbers keep a <b>lookout</b> on the corner (a person watching for danger); someone who only watched a demonstration was an <b>onlooker</b> – from <b>look on</b> (watch without taking part; cards in Unit 4).",
+     "Nhiều phrasal verb với <i>look</i> giữ ý nghĩa nhìn, quan sát, để ý. Tim hỏi Ivy về bản báo cáo: cô mới chỉ <b>looked at</b> (đọc lướt, chưa kỹ), nhưng anh muốn cô <b>look at</b> phần kết luận (xem xét kỹ để quyết định). Noah dặn Amber <b>look out</b> biển chỉ đường trên đường cao tốc (để ý kỹ để nhận ra). Bọn cướp ngân hàng có một <b>lookout</b> đứng ở góc phố (người canh gác); người chỉ đứng xem cuộc biểu tình là <b>onlooker</b> – từ <b>look on</b> (đứng xem, không tham gia; đã có thẻ ở bài 4).")
+ + H("B", "Look in an abstract sense", "Look theo nghĩa trừu tượng")
+ + T([
+   ("look up to sb", "respect and admire someone", "kính trọng, ngưỡng mộ ai"),
+   ("look down on sb/sth", "regard a person as inferior, or a thing as too poor in quality for you (card in Unit 1)", "coi thường ai/cái gì (đã có thẻ ở bài 1)"),
+   ("look after sb/sth", "take care of someone or something (card in Unit 1)", "chăm sóc (đã có thẻ ở bài 1)"),
+   ("look ahead", "think about the future and plan for it", "nghĩ tới tương lai và lên kế hoạch"),
+   ("look around/round", "search for something such as a job by asking people and visiting various places", "tìm kiếm thứ mình muốn, vd. việc làm, bằng cách hỏi han, đi xem nhiều nơi"),
+   ("look forward to sth/doing sth", "be happy and excited about a future event (card in Unit 1)", "háo hức mong chờ (đã có thẻ ở bài 1)"),
+ ])
+ + NOTE("<b>Exercise 9.4</b> adds more: <i>look up</i> words in a dictionary, <i>look up</i> an old friend, the situation is <i>looking up</i> (cards in Unit 1); <i>look over</i> a report (examine it quickly – card in Unit 3); <i>look through</i> a report and make notes; detectives <i>look into</i> a murder (investigate).",
+        "<b>Bài 9.4</b> thêm: <i>look up</i> từ trong từ điển, <i>look up</i> một người bạn cũ, tình hình <i>looking up</i> (đã có thẻ ở bài 1); <i>look over</i> bản báo cáo (xem nhanh – đã có thẻ ở bài 3); <i>look through</i> bản báo cáo và ghi chú; thám tử <i>look into</i> vụ án mạng (điều tra).")
+)
+items = [
+ PV("look at something", "phr.v.", "neutral", "To glance through a piece of writing quickly without reading it properly.", "/ˈlʊk ət ˈsʌmθɪŋ/",
+   "Đọc lướt nhanh một văn bản mà không đọc kỹ.", "xem qua, đọc lướt",
+   "I’ve <b>looked at</b> the article, but I haven’t had time to read it properly yet.", "Tôi đã <b>xem qua</b> bài báo nhưng chưa có thời gian đọc kỹ.",
+   INS("look at the report"), "Mục A: Ivy mới chỉ xem qua bản báo cáo, chưa đọc kỹ; bài 9.2 câu 6: không có thời gian đọc báo, chỉ xem lướt rất nhanh.",
+   "<i>looked at it</i> (đã xem qua nó)", "nhầm với nghĩa ‘xem xét kỹ để quyết định’ – phải dựa vào ngữ cảnh.",
+   [S("glance at", "v.", "liếc qua"), S("look through", "phr.v.", "đọc lướt")], [S("study", "v.", "nghiên cứu kỹ")], sense="read quickly"),
+ PV("look at something", "phr.v.", "neutral", "To think about a subject carefully so that you can make a decision about it.", "/ˈlʊk ət ˈsʌmθɪŋ/",
+   "Suy nghĩ kỹ về một vấn đề để có thể ra quyết định.", "xem xét",
+   "The committee will <b>look at</b> all the options before deciding where to build the new school.", "Hội đồng sẽ <b>xem xét</b> mọi phương án trước khi quyết định xây trường mới ở đâu.",
+   INS("look at the conclusions"), "Mục A: Tim muốn Ivy xem xét kỹ phần kết luận để đưa ra quyết định; bài 9.3: xem xét kế hoạch tương lai rồi quyết định.",
+   "<i>look at the conclusions and make some decisions</i> (xem xét kết luận và quyết định)", "bỏ <i>at</i> (<i>look the conclusions</i>).",
+   [S("consider", "v.", "cân nhắc"), S("examine", "v.", "xem xét")], [S("ignore", "v.", "phớt lờ")], sense="consider"),
+ PV("look out for something", "phr.v.", "neutral", "To watch carefully so that you will notice a particular thing or person.", "/ˌlʊk ˈaʊt fə ˈsʌmθɪŋ/",
+   "Quan sát kỹ để nhận ra một thứ hay một người cụ thể.", "để ý, trông chừng",
+   "When you leave the station, <b>look out for</b> a big red sign – our office is right next to it.", "Ra khỏi ga, bạn <b>để ý</b> tấm biển lớn màu đỏ – văn phòng chúng tôi ở ngay cạnh.",
+   INS("look out for a sign") + " Không có tân ngữ thì dùng <i>look out</i> (để ý, coi chừng).", "Mục A: Noah dặn Amber để ý biển chỉ lối rẽ ‘Willowsdean’ trên đường cao tốc; bài 9.1 câu 2: để ý xe của người đến đón; bài 9.3: canh chừng cảnh sát khi bạn kia lấy trộm xe đạp.",
+   "<i>look out for a sign</i> (để ý tấm biển)", "dùng <i>look for</i> (tìm kiếm thứ bị mất) thay cho <i>look out for</i> (để ý để nhận ra).",
+   [S("watch for", "v.", "canh chừng"), S("keep an eye out for", "idiom", "để mắt tới")], [S("overlook", "v.", "bỏ sót")]),
+ PV("lookout", "n.", "neutral", "A person whose job is to watch for danger and warn others.", "/ˈlʊkaʊt/",
+   "Người có nhiệm vụ canh chừng nguy hiểm và báo cho người khác.", "người canh gác",
+   "While his friend took the bike, Leo stood at the corner as the <b>lookout</b>.", "Trong khi bạn hắn lấy chiếc xe đạp, Leo đứng ở góc phố làm <b>người canh gác</b>.",
+   "Đây là <b>danh từ</b> đếm được, viết liền một chữ, trọng âm ở âm tiết đầu: <i>a lookout</i>. Hay đi với <i>have</i>, <i>act as</i>: <i>act as the lookout</i>. Danh từ này liên quan tới phrasal verb <i>look out</i> (để ý, canh chừng).",
+   "Mục A: bọn cướp ngân hàng có người canh gác đứng ở góc phố để báo khi cảnh sát đến; bài 9.3: <i>act as the lookout</i>. Unit 66 gặp lại.",
+   "<i>act as the lookout</i> (làm người canh gác)", "viết rời (<i>look out</i>) khi dùng như danh từ.",
+   [S("guard", "n.", "lính gác"), S("sentry", "n.", "lính canh")], [S("intruder", "n.", "kẻ đột nhập")]),
+ PV("look up to somebody", "phr.v.", "neutral", "To admire and respect someone.", "/ˌlʊk ˈʌp tə ˈsʌmbədi/",
+   "Ngưỡng mộ và kính trọng ai.", "kính trọng, ngưỡng mộ",
+   "All the young players <b>look up to</b> the team captain.", "Tất cả cầu thủ trẻ đều <b>ngưỡng mộ</b> đội trưởng.",
+   INS("look up to your teacher"), "Mục B: kính trọng và ngưỡng mộ ai; bài 9.1 câu 5: ngưỡng mộ thầy cô tiếng Anh (không phải ngẩng đầu vì thầy cao hơn).",
+   "<i>look up to your English teacher</i> (kính trọng thầy cô tiếng Anh)", "bỏ <i>to</i> (<i>look up the captain</i>) – thành nghĩa khác.",
+   [S("admire", "v.", "ngưỡng mộ"), S("respect", "v.", "kính trọng")], [S("look down on", "phr.v.", "coi thường")]),
+ PV("look ahead", "phr.v.", "neutral", "To think about what will happen in the future and make plans for it.", "/ˌlʊk əˈhed/",
+   "Nghĩ về những gì sẽ xảy ra trong tương lai và lên kế hoạch.", "nhìn về tương lai, tính trước",
+   "Now that the baby has arrived, we need to <b>look ahead</b> and start saving.", "Giờ có em bé rồi, chúng tôi cần <b>tính trước</b> và bắt đầu tiết kiệm.",
+   INT("we need to look ahead") + " Thêm <i>to</i> + thời điểm: <i>look ahead to the time when…</i>.", "Mục B: nghĩ tới tương lai và lập kế hoạch; bài 9.2 câu 4: tính trước đến lúc con trai vào đại học (đáp án chấp nhận <i>ahead</i> hoặc <i>forward</i>).",
+   "<i>look ahead to the time</i> (tính trước đến lúc)", "nhầm với <i>look forward to</i> (háo hức mong chờ).",
+   [S("plan ahead", "v.", "lên kế hoạch trước"), S("think ahead", "v.", "nghĩ trước")], [S("look back", "phr.v.", "nhìn lại quá khứ")]),
+ PV("look around", "phr.v.", "neutral", "To search in different places or ask various people in order to find something you want, such as a job.", "/ˌlʊk əˈraʊnd/",
+   "Tìm ở nhiều nơi hoặc hỏi nhiều người để tìm thứ mình muốn, như việc làm.", "tìm kiếm, dò hỏi",
+   "After the factory closed, he spent months <b>looking around</b> for another job.", "Sau khi nhà máy đóng cửa, anh ấy mất mấy tháng <b>tìm kiếm</b> việc khác.",
+   INT("I’m looking around") + " Cũng nói <i>look round</i>. Thêm <i>for</i> + thứ cần tìm: <i>look around for a new job</i>.", "Mục B: tìm việc bằng cách hỏi han, đi xem nhiều chỗ; bài 9.1 câu 1: đang cố tìm việc mới; bài 9.2 câu 2: tìm khóa học tiếng Anh mới (đáp án cũng chấp nhận <i>out</i>).",
+   "<i>looking around for a new job</i> (đang tìm việc mới)", "bỏ <i>for</i> trước thứ cần tìm (<i>look around a new job</i>) – thành ‘đi xem quanh nơi làm mới’.",
+   [S("search", "v.", "tìm kiếm"), S("shop around", "phr.v.", "so sánh giá")], [S("settle for", "v.", "chấp nhận cái sẵn có")], sense="search"),
+ PV("look through something", "phr.v.", "neutral", "To read something fairly fast, without studying every detail.", "/ˌlʊk ˈθruː ˈsʌmθɪŋ/",
+   "Đọc một thứ khá nhanh, không nghiên cứu từng chi tiết.", "đọc lướt, xem qua",
+   "I <b>looked through</b> the sales figures on the train and marked the main points.", "Tôi <b>đọc qua</b> số liệu bán hàng trên tàu và đánh dấu các ý chính.",
+   INS("look through the report") + " Đại từ cũng đứng sau: <i>look through it</i>.", "Bài 9.4 câu 5: đọc qua bản báo cáo và ghi vội vài ý. Đáp án cho rằng <i>look through</i> kỹ hơn <i>look over</i> một chút. Gặp lại ở unit 17, 29.",
+   "<i>looked through the report</i> (đọc qua bản báo cáo)", "đặt đại từ giữa (<i>look it through</i>).",
+   [S("skim", "v.", "đọc lướt"), S("look over", "phr.v.", "xem qua")], [S("study", "v.", "nghiên cứu kỹ")]),
+ PV("look into something", "phr.v.", "neutral", "To find out and examine the facts about a problem or event.", "/ˌlʊk ˈɪntə ˈsʌmθɪŋ/",
+   "Tìm hiểu và xem xét các sự thật về một vấn đề hay sự việc.", "điều tra, tìm hiểu",
+   "The police are <b>looking into</b> a series of break-ins in our street.", "Cảnh sát đang <b>điều tra</b> hàng loạt vụ đột nhập trên phố tôi.",
+   INS("look into the murder"), "Bài 9.4 câu 6: thám tử đang điều tra vụ án mạng (đáp án: <i>investigating the murder</i>). Unit 21 gặp lại.",
+   "<i>looking into the murder</i> (điều tra vụ án mạng)", "đặt đại từ giữa (<i>look it into</i>).",
+   [S("investigate", "v.", "điều tra"), S("examine", "v.", "xem xét")], [S("ignore", "v.", "bỏ qua")]),
+]
+save("int", 9, theory, items)
