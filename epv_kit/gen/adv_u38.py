@@ -56,7 +56,7 @@ items = [
    [S("fit into", "phr.v.", "vừa")], [S("let out", "phr.v.", "nới rộng")], sense="clothes"),
  I("getup", "n.", "informal", "The clothes someone is wearing, especially when they are strange or unusual.", "/ˈɡetʌp/",
    "Bộ quần áo ai đang mặc, nhất là khi lạ lùng, khác thường.", "bộ đồ (kỳ quặc)",
-   "He turned up to dinner in a cowboy <b>getup</b>.", "Anh xuất hiện ở bữa tối trong <b>bộ đồ</b> cao bồi.",
+   "Who’s that man in the weird <b>getup</b> and the bright red wig?", "Người đàn ông mặc <b>bộ đồ</b> kỳ quặc đội tóc giả đỏ chói kia là ai thế?",
    G("getup", "n.", "bộ đồ khác thường", "Đây là <b>danh từ phrasal</b> đếm được, viết liền: <i>a getup</i>; hay đi với tính từ: <i>a weird getup</i>.",
      "Mục B: một người mặc bộ đồ kỳ quặc với tóc giả đỏ. Bài tập 38.3: chủ tiệc mặc bộ đồ Superman có mặt nạ, áo choàng.",
      "<i>a weird getup</i> (bộ đồ kỳ quặc), <i>a kind of Superman getup</i> (bộ đồ kiểu Superman)", "informal",

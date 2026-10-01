@@ -158,7 +158,7 @@ items = [
    [S("Come on!", "phrase", "nhanh nào")], [S("Hold on!", "phrase", "chờ chút")]),
  I("keep it up", "phrase", "informal", "To continue doing something, especially working hard or doing good work.", "/ˌkiːp ɪt ˈʌp/",
    "Tiếp tục làm việc gì, nhất là chăm chỉ hoặc làm tốt.", "cứ thế phát huy",
-   "Great result in the test – <b>keep it up!</b>", "Kết quả kiểm tra tốt lắm – <b>cứ thế phát huy nhé!</b>",
+   "You’re doing brilliantly, Mum – only two more miles. <b>Keep it up!</b>", "Mẹ chạy giỏi lắm – chỉ còn hai dặm nữa thôi. <b>Cố lên, cứ thế nhé!</b>",
    G("keep it up", "phrase", "tiếp tục làm tốt", "Cụm cố định với <i>it</i> ở giữa: <i>keep it up</i>; thường dùng như lời khen/cổ vũ: <i>Keep it up!</i>",
      "Mục A: khán giả cổ vũ các vận động viên (tranh minh họa). Bài tập 30.1: nói với người nhà đang chạy đường dài, mệt và sắp bỏ cuộc. Mini dictionary: cũng ở unit 59.",
      "<i>Keep it up!</i> (cứ thế phát huy!)", "informal",

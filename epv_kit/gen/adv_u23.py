@@ -166,7 +166,7 @@ items = [
    [S("win round", "phr.v.", "thuyết phục được")], [S("talk out of", "phr.v.", "can ngăn")]),
  I("talk somebody out of something", "phr.v.", "neutral", "To persuade someone not to do something.", "/ˌtɔːk ˈsʌmbədi ˈaʊt əv ˈsʌmθɪŋ/",
    "Thuyết phục ai không làm việc gì.", "can ngăn, khuyên không làm",
-   "Her friends <b>talked</b> her <b>out of</b> resigning from her job.", "Bạn bè đã <b>khuyên</b> cô <b>đừng</b> bỏ việc.",
+   "Luckily I <b>talked</b> my cousin <b>out of</b> holding a wild party the weekend his parents went away.", "May mà tôi <b>can</b> được cậu em họ <b>đừng</b> mở tiệc tưng bừng vào cuối tuần bố mẹ cậu đi vắng.",
    G("talk somebody out of something", "phr.v.", "thuyết phục ai đừng làm", "Người đứng <b>giữa</b> <i>talk</i> và <i>out of</i>; sau <i>of</i> là danh từ, <i>it</i> hoặc V-ing: <i>talk him out of it</i>.",
      "Mẹo (Tip) của mục B: anh ta muốn tổ chức tiệc khi bố mẹ vắng nhà nhưng tôi đã can.",
      "<i>talked him out of it</i> (đã can anh ta)", "neutral",

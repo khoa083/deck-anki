@@ -171,7 +171,7 @@ items = [
    [S("affect", "v.", "ảnh hưởng")], [S("clear up", "phr.v.", "giải quyết")]),
  I("walk away", "phr.v.", "neutral", "To stop being involved in a situation that is hard to deal with or brings no advantage.", "/ˌwɔːk əˈweɪ/",
    "Thôi dính líu vào một tình huống khó xử lý hoặc chẳng đem lại lợi ích gì.", "bỏ đi, rút lui",
-   "You can’t just <b>walk away</b> from your responsibilities.", "Bạn không thể cứ thế <b>rũ bỏ</b> trách nhiệm.",
+   "Isabella didn’t <b>walk away</b> from the problem – she stayed and sorted it out.", "Isabella không <b>né tránh</b> rắc rối – cô ở lại và giải quyết nó.",
    G("walk away", "phr.v.", "rút khỏi tình huống khó", INT("Don’t just walk away") + " Thêm <i>from</i> + tình huống.",
      "Mục B: không thể bỏ chạy khỏi mọi tình huống khó. Bài tập 28.1: Nicole khen Isabella không né tránh tình huống.",
      "<i>walk away from every difficult situation</i> (bỏ chạy khỏi mọi tình huống khó), <i>walk away from the situation</i> (né tránh tình huống)", "neutral",

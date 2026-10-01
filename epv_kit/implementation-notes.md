@@ -4,7 +4,7 @@
 | Sách | Có sẵn | Còn làm |
 |---|---|---|
 | Advanced (60) | unit 1–15 (demo) + *New phrasal verbs* (bản 1) + **16–20** (lượt 1) + **21–25** (lượt 2) + **26–30** (lượt 3) + **31–35** (lượt 4) + **36–40** (lượt 5) + **41–45** (lượt 6) + **46–50** (lượt 7) + **51–55** (lượt 8) + **56–60** (lượt 9) + **bổ sung 1–15** (lượt 10) | – (xong) |
-| Intermediate (70) | – | 1–70 |
+| Intermediate (70) | **1–70** (lượt 11–23) | – (xong) |
 
 | Lượt | Unit | Số thẻ | Ghi chú |
 |---|---|---|---|
@@ -32,6 +32,7 @@
 | 21 | Int 56–60 | 67 mục / 134 thẻ + 5 note lý thuyết + 67 audio | build 2176 note / 4229 thẻ, 0 bad renders, audio 1706/1706 |
 | 22 | Int 61–65 | 72 mục / 144 thẻ + 5 note lý thuyết + 72 audio | build 2253 note / 4378 thẻ, 0 bad renders, audio 1778/1778 |
 | 23 | Int 66–70 | 69 mục / 138 thẻ + 5 note lý thuyết + 69 audio | build 2327 note / 4521 thẻ, 0 bad renders, audio 1847/1847 – **xong Intermediate 70/70** |
+| 24 | Kiểm trôi cuối | 61 ví dụ Adv 23–45 viết lại theo bối cảnh sách | build 2327 note / 4521 thẻ, 0 bad renders, audio 1847/1847; check 124/124 unit 0 LỖI; status adv 60/60, int 70/70 |
 
 ## Quyết định (xem PROMPT.md §3)
 D1 thứ tự Adv 16→60 → bổ sung demo → Int 1→70 · D2 IPA chuẩn Anh (config.ipa_style) · D3 1 deck gốc `English Phrasal Verbs in Use` → `Advanced`/`Intermediate` · D4 thẻ demo chỉ có ở bản 1: giữ + tag `EPV::demo_ban1` · D5 audio **bắt buộc**: Kokoro TTS offline, giọng Anh–Anh nam `bm_george` (sửa từ lượt 1c; trước đó để trống) · D6 chọn mục theo Mini dictionary + cụm in đậm.
@@ -250,6 +251,7 @@ D1 thứ tự Adv 16→60 → bổ sung demo → Int 1→70 · D2 IPA chuẩn An
 - u70: start off, set out, touch on, sum up, come back to, turn to, come to, draw on, point out, go on đã có thẻ → chỉ nhắc; `move on` (Mini 64) xuất hiện ở trang này → thẻ.
 
 ## Kiểm trôi
+- **Lượt 24 – kiểm trôi cuối (TODO từ lượt 7/9):** chạy `tools/context_score.py` cho Adv 16–45 → 65 ví dụ điểm < 0.35; viết lại 61 câu theo đúng nhân vật/tình huống trên trang hoặc bài tập (u23–u45; danh sách trong commit). 4 câu giữ nguyên vì đã đúng tình huống (u29 *do yourself up*, *do without*; u30 *calm down*, *Watch out!*). Sau khi sửa: còn 7 câu điểm thấp nhưng đã đúng bối cảnh sách hoặc sách không có bối cảnh (u29 *do yourself up*, *do without* – chỉ có trong Tip; u29 *play on*; u30 *calm down*, *Watch out!* – đúng tình huống bài 30.3; u34 *insist on*; u45 *wring out of*). 2 câu mới trùng câu sách ≥60% (u42 *hook up*, u45 *wring out of*) → viết lại. Rà tham chiếu số bài tập: chỉ 5 tham chiếu sang unit khác, đều đúng chủ ý (adv u60→59.1, int u34→26.4, int u65→64.1/64.3). Cảnh báo ‘đã có trong demo’: 27 mục Advanced đều có `sense` khác demo, riêng `bump off` (u20) đã ghi ở lượt 1. Check toàn bộ 124 unit: 0 LỖI.
 - Lượt 23: soát Int 66–70 khi viết (ảnh trang + đáp án); viết lại def_en gần Mini (u66 go off, u69 tell off/suss out); thay collocation có từ ngoài src. Không phát hiện lệch nghĩa.
 - Lượt 22: soát Int 61–65 khi viết (ảnh trang + đáp án); sửa 1 câu lý thuyết u65 trùng danh sách của sách; viết lại def_en u62 touch down gần Mini. Không phát hiện lệch nghĩa.
 - Lượt 21: soát Int 56–60 khi viết (ảnh trang + đáp án); viết lại 4 def_en u59 gần Mini dictionary; không có đoạn lý thuyết trùng ≥12 từ. Không phát hiện lệch nghĩa.

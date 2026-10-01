@@ -98,7 +98,7 @@ items = [
    [S("be responsible for", "phr.", "chịu trách nhiệm")], [S("head up", "phr.v.", "đứng đầu")], sense="business"),
  I("set up", "phr.v.", "neutral", "To provide someone with the money to begin their own business.", "/ˌset ˈʌp/",
    "Bỏ tiền cho ai mở công việc kinh doanh.", "giúp vốn lập nghiệp",
-   "Her uncle <b>set</b> her <b>up</b> in her own bakery.", "Chú cô <b>bỏ vốn</b> cho cô mở tiệm bánh riêng.",
+   "When he became famous, the pop star <b>set</b> his parents <b>up</b> in their own restaurant.", "Nổi tiếng rồi, ngôi sao nhạc pop <b>giúp</b> bố mẹ <b>mở</b> nhà hàng riêng.",
    G("set up", "phr.v.", "cấp vốn khởi nghiệp", SEP("set up his son", "set her parents up", "set them up") + " Thêm <i>in</i>/<i>with</i> + việc kinh doanh.",
      "Mục A: ngôi sao nhạc pop bỏ tiền giúp bố mẹ mở nhà hàng. Bài tập 35.1: ông nội cho vốn lập nghiệp năm 24 tuổi; 35.3: còn nghĩa khác. Khác nghĩa ‘sắp xếp’ ở demo.",
      "<i>set her parents up with the restaurant business</i> (giúp bố mẹ mở nhà hàng), <i>set me up in business</i> (cho tôi vốn kinh doanh)", "neutral",
