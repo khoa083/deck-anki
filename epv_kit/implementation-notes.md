@@ -27,6 +27,7 @@
 | 16 | Int 31–35 | 71 mục / 142 thẻ + 5 note lý thuyết + 71 audio | build 1814 note / 3530 thẻ, 0 bad renders, audio 1369/1369 |
 | 17 | Int 36–40 | 56 mục / 112 thẻ + 5 note lý thuyết + 56 audio | build 1875 note / 3647 thẻ, 0 bad renders, audio 1425/1425 |
 | 18 | Int 41–45 | 73 mục / 146 thẻ + 5 note lý thuyết + 73 audio | build 1953 note / 3798 thẻ, 0 bad renders, audio 1498/1498 |
+| 19 | Int 46–50 | 75 mục / 150 thẻ + 5 note lý thuyết + 75 audio | build 2033 note / 3953 thẻ, 0 bad renders, audio 1573/1573 |
 
 ## Quyết định (xem PROMPT.md §3)
 D1 thứ tự Adv 16→60 → bổ sung demo → Int 1→70 · D2 IPA chuẩn Anh (config.ipa_style) · D3 1 deck gốc `English Phrasal Verbs in Use` → `Advanced`/`Intermediate` · D4 thẻ demo chỉ có ở bản 1: giữ + tag `EPV::demo_ban1` · D5 audio **bắt buộc**: Kokoro TTS offline, giọng Anh–Anh nam `bm_george` (sửa từ lượt 1c; trước đó để trống) · D6 chọn mục theo Mini dictionary + cụm in đậm.
@@ -212,7 +213,15 @@ D1 thứ tự Adv 16→60 → bổ sung demo → Int 1→70 · D2 IPA chuẩn An
 - `sense` mới: `turn in` (submit), `work out` (calculate), `play up` (behave badly), `spread out` (unfold) (u42); `break up` (holidays), `go back` (school), `keep up` (skill), `come up` (exam), `pick up` (learn) (u43); `cut out` (writing), `crop up` (appear), `set out` (explain) (u44); `take on` ×2, `fill in somebody` (inform), `take over` (job), `hand over` (responsibility), `fix up` (arrange), `knock off` (stop work) (u45).
 - Sửa 1 commit thiếu dòng attribution bằng `--amend` + `--force-with-lease` (nhánh của kit, chỉ commit cuối).
 
+**Lượt 19 (Intermediate 46–50)**
+- u46: `work on` có định nghĩa trên trang nhưng Mini OCR thiếu → làm thẻ; `chase up somebody` (nhắc người) tách khỏi `chase up something` (u2).
+- u47: các nghĩa tiền bạc của headword cũ → `sense` money/total/debt/buy (`take out`, `pay back`, `come to`, `pay off`, `pick up`).
+- u48: danh từ ở đáp án 48.4 làm thẻ: `sell-out`, `sell-off`, `pick-up` ×2 (increase / collect); `pickup` (xe bán tải) và `pick-up` (tán tỉnh) chỉ nhắc trong lý thuyết.
+- u49: `set-up` (u13) và `turnover` (u4) chỉ nhắc; `take over something` (thâu tóm công ty) là thẻ thứ ba của *take over* (u27, u45, u49).
+- u50: các động từ gọi điện; `phone around`, `phone up`, `ring in` chỉ nhắc trong Mẹo (cùng nghĩa với dạng *call*).
+
 ## Kiểm trôi
+- Lượt 19: soát Int 46–50 khi viết (ảnh trang + đáp án); sửa 1 đoạn lý thuyết u49 trùng 13 từ; viết lại câu bối cảnh tự đặt (u46 branch out/squeeze in, u47 save up, u48 fork out/sell-off, u49 takeover, u50 call up). Không phát hiện lệch nghĩa.
 - Lượt 18: soát Int 41–45 khi viết (ảnh trang + đáp án); sửa 1 đoạn lý thuyết u43 trùng 12 từ; viết lại câu bối cảnh tự đặt (u42 give out/play up, u43 mug up/write up/keep up, u44 read up on/fill out, u45 stand down/pencil in). Không phát hiện lệch nghĩa.
 - Lượt 17: soát Int 36–40 khi viết (ảnh trang + đáp án); viết lại câu bối cảnh tự đặt (u36 sort yourself out/see about, u38 fall out, u40 outstanding/hit back). Không phát hiện lệch nghĩa.
 - Lượt 16: soát Int 31–35 khi viết (ảnh trang + đáp án); sửa 1 đoạn lý thuyết u34 trùng 13 từ (Over to you), viết lại câu bối cảnh tự đặt (u33 packed out, u34 run up against/caught up in/hot up, u35 watch out for/match up). Không phát hiện lệch nghĩa.
