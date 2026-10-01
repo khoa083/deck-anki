@@ -1,0 +1,543 @@
+{
+ "book": "pre",
+ "unit": 41,
+ "title_vi": "Thể thao và giải trí",
+ "theory_html": "<p><b>A. Sports</b><br><i>A. Các môn thể thao</i></p> <p>Sport – person – verb – place: <b>athletics – athlete – run, jump, throw – track (in a stadium)</b>; <b>motor racing – racing driver – race – track</b>; <b>swimming – swimmer – pool</b>; <b>boxing – boxer – box – boxing ring</b>; <b>skiing – skier – ski – ski slopes</b>; football – <b>pitch</b>; <b>ice hockey – rink</b>; golf – <b>course</b>; basketball – <b>court</b>; <b>sailing – sailor – sail</b>. Labels: <b>goalkeeper, net, skis, stick, swimming costume</b>. <b>play</b> football/tennis; <b>go</b> + -ing (<b>go swimming</b>); <b>do a bit of / a lot of</b> + -ing.</p><p><i><b>điền kinh, đường chạy, sân vận động, đua xe, quyền anh, võ đài, trượt tuyết, sân bóng, khúc côn cầu trên băng, sân băng, sân gôn, sân bóng rổ, đua thuyền buồm; thủ môn, lưới, gậy, đồ bơi</b>.</i></p> <p><b>B. Leisure activities</b><br><i>B. Hoạt động giải trí</i></p> <p><b>go camping</b> (<b>tent</b>), <b>rock climbing, jogging, yoga, going to the gym</b>; <b>works out</b> in the gym; jogging <b>keeps him fit</b>; <b>for fun</b> (syn <b>for pleasure</b>); <b>do exercise</b>.</p><p><i><b>cắm trại, leo núi đá, chạy bộ, yoga, đi tập gym; tập luyện, giữ dáng, cho vui, tập thể dục</b>.</i></p>",
+ "items": [
+  {
+   "word": "goalkeeper",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡəʊlkiːpə(r)/",
+   "def_en": "The player who stops the ball going into the goal.",
+   "def_vi": "Cầu thủ chặn bóng vào khung thành.",
+   "gloss_vi": "thủ môn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Goalkeeper</i> (noun) = thủ môn. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>goalkeeper</b> stopped the shot.",
+    "vi": "<b>Thủ môn</b> đã cản được cú sút."
+   }
+  },
+  {
+   "word": "net",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/net/",
+   "def_en": "A piece of material with holes, used in sports.",
+   "def_vi": "Tấm có lỗ dùng trong thể thao.",
+   "gloss_vi": "lưới",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Net</i> (noun) = lưới. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The ball went into the <b>net</b>.",
+    "vi": "Bóng đi vào <b>lưới</b>."
+   }
+  },
+  {
+   "word": "skis",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/skiːz/",
+   "def_en": "Long narrow pieces of wood or plastic for moving over snow.",
+   "def_vi": "Thanh dài hẹp để trượt trên tuyết.",
+   "gloss_vi": "ván trượt tuyết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Skis</i> (plural noun) = ván trượt tuyết. <b>Grammar</b>: số ít <i>a ski</i>; động từ <i>ski</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I hired some <b>skis</b> for the week.",
+    "vi": "Tôi thuê <b>ván trượt</b> cho cả tuần."
+   }
+  },
+  {
+   "word": "stick",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/stɪk/",
+   "def_en": "A long thin piece of wood used to hit the ball in hockey.",
+   "def_vi": "Gậy dài mỏng để đánh bóng trong khúc côn cầu.",
+   "gloss_vi": "gậy (khúc côn cầu)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stick</i> (noun) = gậy (khúc côn cầu). <b>Grammar</b>: <i>a hockey stick</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Hockey players need a <b>stick</b>.",
+    "vi": "Người chơi khúc côn cầu cần một cây <b>gậy</b>."
+   }
+  },
+  {
+   "word": "swimming costume",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈswɪmɪŋ ˌkɒstjuːm/",
+   "def_en": "Clothing you wear for swimming.",
+   "def_vi": "Đồ mặc khi bơi.",
+   "gloss_vi": "đồ bơi",
+   "synonyms": "swimsuit <i>(n. đồ bơi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Swimming costume</i> (noun phrase) = đồ bơi. <b>Grammar</b>: Anh–Anh.",
+   "ex_kit": true,
+   "example": {
+    "en": "Don’t forget your <b>swimming costume</b>.",
+    "vi": "Đừng quên <b>đồ bơi</b>."
+   }
+  },
+  {
+   "word": "athletics",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/æθˈletɪks/",
+   "def_en": "Sports such as running, jumping and throwing.",
+   "def_vi": "Các môn như chạy, nhảy, ném.",
+   "gloss_vi": "điền kinh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Athletics</i> (noun) = điền kinh. <b>Grammar</b>: động từ số ít. <b>Word family</b>: <i>athlete</i> (người).",
+   "ex_kit": true,
+   "example": {
+    "en": "She’s very good at <b>athletics</b>.",
+    "vi": "Cô ấy rất giỏi <b>điền kinh</b>."
+   }
+  },
+  {
+   "word": "athlete",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈæθliːt/",
+   "def_en": "A person who does athletics.",
+   "def_vi": "Người chơi điền kinh.",
+   "gloss_vi": "vận động viên điền kinh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Athlete</i> (noun) = vận động viên điền kinh. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: /ˈæθliːt/ (2 âm tiết).",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>athletes</b> ran round the track.",
+    "vi": "<b>Vận động viên</b> chạy quanh đường đua."
+   }
+  },
+  {
+   "word": "track",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/træk/",
+   "def_en": "A path for running or racing.",
+   "def_vi": "Đường chạy hay đua.",
+   "gloss_vi": "đường đua",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Track</i> (noun) = đường đua. <b>Grammar</b>: <i>a running/race track</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The athletes ran round the <b>track</b> in the stadium.",
+    "vi": "Vận động viên chạy quanh <b>đường đua</b> trong sân vận động."
+   }
+  },
+  {
+   "word": "stadium",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsteɪdiəm/",
+   "def_en": "A large place with seats where people watch sport.",
+   "def_vi": "Nơi lớn có ghế để xem thể thao.",
+   "gloss_vi": "sân vận động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stadium</i> (noun) = sân vận động. <b>Grammar</b>: số nhiều <i>stadiums</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>stadium</b> holds 60,000 people.",
+    "vi": "<b>Sân vận động</b> có sức chứa 60.000 người."
+   }
+  },
+  {
+   "word": "motor racing",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈməʊtə ˌreɪsɪŋ/",
+   "def_en": "The sport of racing cars.",
+   "def_vi": "Môn đua ô tô.",
+   "gloss_vi": "đua xe",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Motor racing</i> (noun phrase) = đua xe. <b>Grammar</b>: không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "My brother loves watching <b>motor racing</b> on TV.",
+    "vi": "Anh tôi mê xem <b>đua xe</b> trên TV."
+   }
+  },
+  {
+   "word": "racing driver",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈreɪsɪŋ ˌdraɪvə(r)/",
+   "def_en": "A person who drives in races.",
+   "def_vi": "Người lái xe đua.",
+   "gloss_vi": "tay đua",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Racing driver</i> (noun phrase) = tay đua. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "He wants to be a <b>racing driver</b>.",
+    "vi": "Cậu ấy muốn trở thành <b>tay đua</b>."
+   }
+  },
+  {
+   "word": "race",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/reɪs/",
+   "def_en": "To compete to see who is fastest.",
+   "def_vi": "Thi xem ai nhanh nhất.",
+   "gloss_vi": "đua",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Race</i> (verb) = đua. <b>Grammar</b>: cũng là danh từ <i>a race</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "They <b>race</b> round the track fifty times.",
+    "vi": "Họ <b>đua</b> quanh đường đua 50 vòng."
+   }
+  },
+  {
+   "word": "boxing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɒksɪŋ/",
+   "def_en": "A sport in which two people fight with their hands.",
+   "def_vi": "Môn hai người đấu bằng tay.",
+   "gloss_vi": "quyền anh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Boxing</i> (noun) = quyền anh. <b>Grammar</b>: không đếm được. <b>Word family</b>: <i>boxer</i> (người).",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Boxing</b> can be a dangerous sport.",
+    "vi": "<b>Quyền anh</b> có thể là môn thể thao nguy hiểm."
+   }
+  },
+  {
+   "word": "boxer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɒksə(r)/",
+   "def_en": "A person who does boxing.",
+   "def_vi": "Người đấu quyền anh.",
+   "gloss_vi": "võ sĩ quyền anh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Boxer</i> (noun) = võ sĩ quyền anh. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The two <b>boxers</b> entered the ring.",
+    "vi": "Hai <b>võ sĩ</b> bước vào võ đài."
+   }
+  },
+  {
+   "word": "boxing ring",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈbɒksɪŋ rɪŋ/",
+   "def_en": "The square area where boxers fight.",
+   "def_vi": "Khu vuông nơi võ sĩ thi đấu.",
+   "gloss_vi": "võ đài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Boxing ring</i> (noun phrase) = võ đài. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The two boxers climbed into the <b>boxing ring</b>.",
+    "vi": "Hai võ sĩ bước vào <b>võ đài</b>."
+   }
+  },
+  {
+   "word": "skier",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈskiːə(r)/",
+   "def_en": "A person who skis.",
+   "def_vi": "Người trượt tuyết.",
+   "gloss_vi": "người trượt tuyết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Skier</i> (noun) = người trượt tuyết. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "She’s a very good <b>skier</b>.",
+    "vi": "Cô ấy là một <b>người trượt tuyết</b> rất giỏi."
+   }
+  },
+  {
+   "word": "ski slopes",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈskiː sləʊps/",
+   "def_en": "Hills covered with snow where people ski.",
+   "def_vi": "Dốc phủ tuyết để trượt.",
+   "gloss_vi": "dốc trượt tuyết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ski slopes</i> (noun phrase) = dốc trượt tuyết. <b>Grammar</b>: số nhiều.",
+   "ex_kit": true,
+   "example": {
+    "en": "We spent all day on the <b>ski slopes</b>.",
+    "vi": "Chúng tôi dành cả ngày trên <b>dốc trượt tuyết</b>."
+   }
+  },
+  {
+   "word": "pitch",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pɪtʃ/",
+   "def_en": "An area of grass where football is played.",
+   "def_vi": "Bãi cỏ chơi bóng đá.",
+   "gloss_vi": "sân bóng",
+   "synonyms": "field <i>(n. sân)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pitch</i> (noun) = sân bóng. <b>Grammar</b>: Anh–Anh; <i>a football pitch</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The players ran onto the <b>pitch</b>.",
+    "vi": "Các cầu thủ chạy ra <b>sân</b>."
+   }
+  },
+  {
+   "word": "ice hockey",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈaɪs ˌhɒki/",
+   "def_en": "A team sport played on ice with sticks.",
+   "def_vi": "Môn đồng đội chơi trên băng với gậy.",
+   "gloss_vi": "khúc côn cầu trên băng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ice hockey</i> (noun phrase) = khúc côn cầu trên băng. <b>Grammar</b>: Mỹ thường chỉ <i>hockey</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Ice hockey</b> is very popular in Canada.",
+    "vi": "<b>Khúc côn cầu trên băng</b> rất phổ biến ở Canada."
+   }
+  },
+  {
+   "word": "rink",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪŋk/",
+   "def_en": "A flat area of ice for skating or ice hockey.",
+   "def_vi": "Mặt băng phẳng để trượt hay chơi khúc côn cầu.",
+   "gloss_vi": "sân băng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rink</i> (noun) = sân băng. <b>Grammar</b>: <i>an ice rink</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "They play ice hockey at the local <b>rink</b>.",
+    "vi": "Họ chơi khúc côn cầu trên <b>sân băng</b> địa phương."
+   }
+  },
+  {
+   "word": "golf course",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈɡɒlf kɔːs/",
+   "def_en": "An area of land where golf is played.",
+   "def_vi": "Khu đất chơi gôn.",
+   "gloss_vi": "sân gôn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Golf course</i> (noun phrase) = sân gôn. <b>Grammar</b>: <i>course</i> (gôn) ≠ <i>court</i> (bóng rổ, tennis).",
+   "ex_kit": true,
+   "example": {
+    "en": "My dad plays on the <b>golf course</b> every Sunday.",
+    "vi": "Bố tôi chơi trên <b>sân gôn</b> mỗi Chủ nhật."
+   }
+  },
+  {
+   "word": "court",
+   "sense": "sport",
+   "pos": "noun",
+   "ipa": "/kɔːt/",
+   "def_en": "An area where basketball or tennis is played.",
+   "def_vi": "Khu chơi bóng rổ hay quần vợt.",
+   "gloss_vi": "sân (bóng rổ, quần vợt)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Court</i> (noun) = sân (bóng rổ, quần vợt). <b>Grammar</b>: <i>tennis/basketball court</i>. <b>Common mistakes</b>: cũng = tòa án.",
+   "ex_kit": true,
+   "example": {
+    "en": "There’s a basketball <b>court</b> in the park.",
+    "vi": "Có một <b>sân</b> bóng rổ trong công viên."
+   }
+  },
+  {
+   "word": "sailing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈseɪlɪŋ/",
+   "def_en": "The sport of travelling in a boat with sails.",
+   "def_vi": "Môn đi thuyền buồm.",
+   "gloss_vi": "đua thuyền buồm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sailing</i> (noun) = đua thuyền buồm. <b>Grammar</b>: <i>go sailing</i>; <i>do a bit of sailing</i>.",
+   "example": {
+    "en": "I did a bit of <b>sailing</b> in the holidays.",
+    "vi": "Tôi đã <b>đi thuyền buồm</b> một chút trong kỳ nghỉ."
+   }
+  },
+  {
+   "word": "go camping",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ ˈkæmpɪŋ/",
+   "def_en": "To stay in a tent on holiday.",
+   "def_vi": "Ở trong lều khi đi nghỉ.",
+   "gloss_vi": "đi cắm trại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go camping</i> (verb phrase) = đi cắm trại. <b>Grammar</b>: <i>go</i> + V-ing cho hoạt động: <i>go swimming/jogging</i>.",
+   "example": {
+    "en": "We often <b>go camping</b> in the summer.",
+    "vi": "Chúng tôi thường <b>đi cắm trại</b> vào mùa hè."
+   }
+  },
+  {
+   "word": "tent",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tent/",
+   "def_en": "A shelter made of cloth that you sleep in when camping.",
+   "def_vi": "Chỗ trú bằng vải để ngủ khi cắm trại.",
+   "gloss_vi": "lều",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tent</i> (noun) = lều. <b>Grammar</b>: <i>put up a tent</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We put up our <b>tent</b> by the lake.",
+    "vi": "Chúng tôi dựng <b>lều</b> cạnh hồ."
+   }
+  },
+  {
+   "word": "rock climbing",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈrɒk ˌklaɪmɪŋ/",
+   "def_en": "The sport of climbing rocks.",
+   "def_vi": "Môn leo vách đá.",
+   "gloss_vi": "leo núi đá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rock climbing</i> (noun phrase) = leo núi đá. <b>Grammar</b>: <i>go rock climbing</i>; <i>do some rock climbing</i>.",
+   "example": {
+    "en": "We usually <b>do a bit of rock climbing</b> as well.",
+    "vi": "Chúng tôi thường <b>leo núi đá</b> một chút nữa."
+   }
+  },
+  {
+   "word": "jogging",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdʒɒɡɪŋ/",
+   "def_en": "Running slowly for exercise.",
+   "def_vi": "Chạy chậm để tập thể dục.",
+   "gloss_vi": "chạy bộ",
+   "synonyms": "running <i>(n. chạy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Jogging</i> (noun) = chạy bộ. <b>Grammar</b>: <i>go jogging</i>.",
+   "example": {
+    "en": "My brother enjoys <b>jogging</b>.",
+    "vi": "Anh trai tôi thích <b>chạy bộ</b>."
+   }
+  },
+  {
+   "word": "yoga",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈjəʊɡə/",
+   "def_en": "A type of exercise for the body and mind.",
+   "def_vi": "Loại bài tập cho thân và tâm.",
+   "gloss_vi": "yoga",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Yoga</i> (noun) = yoga. <b>Grammar</b>: <i>do yoga</i> (không <i>play/go</i>).",
+   "example": {
+    "en": "My best friend does a lot of <b>yoga</b>.",
+    "vi": "Bạn thân tôi tập <b>yoga</b> rất nhiều."
+   }
+  },
+  {
+   "word": "work out",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌwɜːk ˈaʊt/",
+   "def_en": "To do physical exercise.",
+   "def_vi": "Tập thể dục.",
+   "gloss_vi": "tập luyện (thể lực)",
+   "synonyms": "exercise <i>(v. tập thể dục)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Work out</i> (phrasal verb) = tập luyện (thể lực). <b>Grammar</b>: nội động từ. <b>Word family</b>: <i>a workout</i> (n.).",
+   "example": {
+    "en": "She <b>works out</b> in the gym two or three times a week as well.",
+    "vi": "Cô ấy cũng <b>tập</b> ở phòng gym hai ba lần một tuần."
+   }
+  },
+  {
+   "word": "keep fit",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌkiːp ˈfɪt/",
+   "def_en": "To help your body stay in good condition.",
+   "def_vi": "Giúp cơ thể giữ tình trạng tốt.",
+   "gloss_vi": "giữ dáng, giữ sức khỏe",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Keep fit</i> (verb phrase) = giữ dáng, giữ sức khỏe. <b>Grammar</b>: <i>keep (sb) fit</i>.",
+   "example": {
+    "en": "My brother enjoys jogging, and it <b>keeps him fit</b>.",
+    "vi": "Chạy bộ giúp anh ấy <b>giữ dáng</b>."
+   }
+  },
+  {
+   "word": "for fun",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/fə ˈfʌn/",
+   "def_en": "Because you enjoy it.",
+   "def_vi": "Vì thích.",
+   "gloss_vi": "cho vui",
+   "synonyms": "for pleasure <i>(phr. để giải trí)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>For fun</i> (phrase) = cho vui. <b>Grammar</b>: <i>for fun</i> (không <i>for funny</i>).",
+   "example": {
+    "en": "My mum does a bit of jogging as well – just <b>for fun</b>.",
+    "vi": "Mẹ tôi cũng chạy bộ một chút – chỉ <b>cho vui</b>."
+   }
+  },
+  {
+   "word": "do exercise",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌduː ˈeksəsaɪz/",
+   "def_en": "To do physical activity to stay healthy.",
+   "def_vi": "Vận động để khỏe mạnh.",
+   "gloss_vi": "tập thể dục",
+   "synonyms": "work out <i>(pv. tập luyện)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Do exercise</i> (verb phrase) = tập thể dục. <b>Grammar</b>: <i>do/take exercise</i> (không đếm được ở nghĩa chung).",
+   "example": {
+    "en": "I’m afraid I don’t <b>do</b> any <b>exercise</b> at all.",
+    "vi": "Tôi e là tôi chẳng <b>tập thể dục</b> gì cả."
+   }
+  }
+ ]
+}

@@ -1,0 +1,473 @@
+{
+ "book": "pre",
+ "unit": 40,
+ "title_vi": "Kinh doanh và tài chính",
+ "theory_html": "<p><b>A. Rise and fall</b><br><i>A. Tăng và giảm</i></p> <p><b>trends</b> in <b>sales</b>, prices: <b>rise / go up / increase</b> – <b>slightly, gradually, sharply</b>; <b>fall / go down / decrease</b>; <b>stay the same</b>. Prepositions: <b>risen by 10p; fell from 8,000 to 6,500; a gradual rise in prices; a sharp fall in sales; a slight increase in profit; a decrease of 10%</b>. <b>profit</b> (opp <b>loss</b>): <b>make a profit of €2 million / make a loss</b>.</p><p><i><b>xu hướng, doanh số; tăng/giảm nhẹ, dần dần, mạnh; giữ nguyên; lợi nhuận, thua lỗ</b>.</i></p> <p><b>B. Financial language</b><br><i>B. Ngôn ngữ tài chính</i></p> <p><b>the economy</b> improving, positive <b>signs</b>, <b>loans</b>; <b>inflation</b>, <b>growing fears</b> that <b>interest rates</b> could rise by <b>2%</b>; <b>figures</b>, <b>trade</b> has risen for the fifth year <b>in a row</b>; the <b>value of</b> the pound; the last <b>quarter</b>; <b>raised</b> hopes; <b>recession</b>. <b>interest</b> = what the bank charges you; the <b>interest rate</b> as a <b>percentage</b>.</p><p><i><b>nền kinh tế, dấu hiệu, khoản vay, lạm phát, lo ngại ngày càng tăng, lãi suất, số liệu, thương mại, liên tiếp, giá trị, quý, nâng lên, suy thoái, tiền lãi, phần trăm</b>.</i></p>",
+ "items": [
+  {
+   "word": "trend",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/trend/",
+   "def_en": "A movement in a particular direction.",
+   "def_vi": "Sự chuyển động theo một hướng.",
+   "gloss_vi": "xu hướng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trend</i> (noun) = xu hướng. <b>Grammar</b>: <i>a trend in sth</i>; <i>an upward/downward trend</i>.",
+   "example": {
+    "en": "These verbs describe <b>trends</b> in sales, prices, etc.",
+    "vi": "Những động từ này mô tả <b>xu hướng</b> doanh số, giá cả."
+   }
+  },
+  {
+   "word": "sales",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/seɪlz/",
+   "def_en": "How much you sell.",
+   "def_vi": "Lượng hàng bán được.",
+   "gloss_vi": "doanh số",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sales</i> (plural noun) = doanh số. <b>Grammar</b>: số nhiều ở nghĩa này.",
+   "example": {
+    "en": "These verbs describe trends in <b>sales</b>, prices, etc.",
+    "vi": "Những động từ này mô tả xu hướng <b>doanh số</b> và giá cả."
+   }
+  },
+  {
+   "word": "rise",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/raɪz/",
+   "def_en": "To go up.",
+   "def_vi": "Đi lên.",
+   "gloss_vi": "tăng",
+   "synonyms": "go up <i>(pv. tăng)</i>",
+   "antonyms": "fall <i>(v. giảm)</i>",
+   "grammar_vi": "<i>Rise</i> (verb) = tăng. <b>Grammar</b>: <i>rise – rose – risen</i>; nội động từ (≠ <i>raise</i>).",
+   "example": {
+    "en": "The price has <b>risen</b> by 10 pence.",
+    "vi": "Giá đã <b>tăng</b> 10 xu."
+   }
+  },
+  {
+   "word": "slightly",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈslaɪtli/",
+   "def_en": "A bit.",
+   "def_vi": "Một chút.",
+   "gloss_vi": "nhẹ, một chút",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "sharply <i>(adv. mạnh)</i>",
+   "grammar_vi": "<i>Slightly</i> (adverb) = nhẹ, một chút. <b>Grammar</b>: <i>slight</i> (adj.): <i>a slight increase</i>.",
+   "example": {
+    "en": "They can rise <b>slightly</b>.",
+    "vi": "Chúng có thể tăng <b>nhẹ</b>."
+   }
+  },
+  {
+   "word": "gradually",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈɡrædʒuəli/",
+   "def_en": "Slowly over a long period.",
+   "def_vi": "Từ từ trong thời gian dài.",
+   "gloss_vi": "dần dần",
+   "synonyms": "slowly <i>(adv. từ từ)</i>",
+   "antonyms": "suddenly <i>(adv. đột ngột)</i>",
+   "grammar_vi": "<i>Gradually</i> (adverb) = dần dần. <b>Grammar</b>: <i>gradual</i> (adj.): <i>a gradual rise</i>.",
+   "example": {
+    "en": "They can rise <b>gradually</b>.",
+    "vi": "Chúng có thể tăng <b>dần dần</b>."
+   }
+  },
+  {
+   "word": "sharply",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈʃɑːpli/",
+   "def_en": "Quickly and by a large amount.",
+   "def_vi": "Nhanh và nhiều.",
+   "gloss_vi": "mạnh, đột ngột",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "slightly <i>(adv. nhẹ)</i>",
+   "grammar_vi": "<i>Sharply</i> (adverb) = mạnh, đột ngột. <b>Grammar</b>: <i>sharp</i> (adj.): <i>a sharp fall</i>.",
+   "example": {
+    "en": "They can rise <b>sharply</b>.",
+    "vi": "Chúng có thể tăng <b>mạnh</b>."
+   }
+  },
+  {
+   "word": "fall",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/fɔːl/",
+   "def_en": "To go down.",
+   "def_vi": "Đi xuống.",
+   "gloss_vi": "giảm",
+   "synonyms": "go down <i>(pv. giảm)</i>",
+   "antonyms": "rise <i>(v. tăng)</i>",
+   "grammar_vi": "<i>Fall</i> (verb) = giảm. <b>Grammar</b>: <i>fall – fell – fallen</i>; <i>fall from… to…</i>.",
+   "example": {
+    "en": "Sales <b>fell</b> from 8,000 units to 6,500 units.",
+    "vi": "Doanh số <b>giảm</b> từ 8.000 xuống 6.500 đơn vị."
+   }
+  },
+  {
+   "word": "decrease",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪˈkriːs/",
+   "def_en": "To become smaller in amount.",
+   "def_vi": "Giảm về lượng.",
+   "gloss_vi": "giảm",
+   "synonyms": "fall <i>(v. giảm)</i>",
+   "antonyms": "increase <i>(v. tăng)</i>",
+   "grammar_vi": "<i>Decrease</i> (verb) = giảm. <b>Grammar</b>: động từ /dɪˈkriːs/, danh từ /ˈdiːkriːs/.",
+   "example": {
+    "en": "Prices or sales can fall / go down / <b>decrease</b> slightly, gradually or sharply.",
+    "vi": "Giá cả hay doanh số có thể <b>giảm</b> nhẹ, dần dần hoặc mạnh."
+   }
+  },
+  {
+   "word": "stay the same",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌsteɪ ðə ˈseɪm/",
+   "def_en": "Not to rise or fall.",
+   "def_vi": "Không tăng không giảm.",
+   "gloss_vi": "giữ nguyên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stay the same</i> (verb phrase) = giữ nguyên. <b>Grammar</b>: <i>stay/remain the same</i>.",
+   "example": {
+    "en": "If prices don’t rise or fall, they <b>stay the same</b>.",
+    "vi": "Nếu giá không tăng hay giảm, chúng <b>giữ nguyên</b>."
+   }
+  },
+  {
+   "word": "rise",
+   "sense": "noun",
+   "pos": "noun",
+   "ipa": "/raɪz/",
+   "def_en": "An increase.",
+   "def_vi": "Sự tăng.",
+   "gloss_vi": "sự tăng",
+   "synonyms": "increase <i>(n. sự tăng)</i>",
+   "antonyms": "fall <i>(n. sự giảm)</i>",
+   "grammar_vi": "<i>Rise</i> (noun) = sự tăng. <b>Grammar</b>: <i>a rise in sth</i> (giới từ <i>in</i>).",
+   "example": {
+    "en": "There’s been a gradual <b>rise in</b> prices.",
+    "vi": "Giá cả đã <b>tăng</b> dần dần."
+   }
+  },
+  {
+   "word": "fall",
+   "sense": "noun",
+   "pos": "noun",
+   "ipa": "/fɔːl/",
+   "def_en": "A decrease.",
+   "def_vi": "Sự giảm.",
+   "gloss_vi": "sự giảm",
+   "synonyms": "decrease <i>(n. sự giảm)</i>",
+   "antonyms": "rise <i>(n. sự tăng)</i>",
+   "grammar_vi": "<i>Fall</i> (noun) = sự giảm. <b>Grammar</b>: <i>a fall in sth</i>.",
+   "example": {
+    "en": "There’s been a sharp <b>fall in</b> sales.",
+    "vi": "Doanh số <b>giảm</b> mạnh."
+   }
+  },
+  {
+   "word": "profit",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈprɒfɪt/",
+   "def_en": "The money you receive from your business after paying all your costs.",
+   "def_vi": "Tiền thu từ kinh doanh sau khi trả mọi chi phí.",
+   "gloss_vi": "lợi nhuận",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "loss <i>(n. thua lỗ)</i>",
+   "grammar_vi": "<i>Profit</i> (noun) = lợi nhuận. <b>Grammar</b>: <i>make a profit</i>. <b>Word family</b>: <i>profitable</i> (adj.).",
+   "example": {
+    "en": "We’ve seen a slight increase in <b>profit</b>.",
+    "vi": "Chúng tôi thấy <b>lợi nhuận</b> tăng nhẹ."
+   }
+  },
+  {
+   "word": "make a loss",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌmeɪk ə ˈlɒs/",
+   "def_en": "To lose money in business.",
+   "def_vi": "Mất tiền trong kinh doanh.",
+   "gloss_vi": "bị lỗ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "make a profit <i>(vp. có lãi)</i>",
+   "grammar_vi": "<i>Make a loss</i> (verb phrase) = bị lỗ. <b>Grammar</b>: <i>make a loss/profit</i> (dùng <i>make</i>).",
+   "example": {
+    "en": "Last year the company made a profit of €2 million but this year they could <b>make a loss</b>.",
+    "vi": "Năm ngoái công ty có lãi 2 triệu euro nhưng năm nay có thể <b>bị lỗ</b>."
+   }
+  },
+  {
+   "word": "economy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪˈkɒnəmi/",
+   "def_en": "The system by which a country’s trade, industry and money are organised.",
+   "def_vi": "Hệ thống tổ chức thương mại, công nghiệp và tiền tệ của một nước.",
+   "gloss_vi": "nền kinh tế",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Economy</i> (noun) = nền kinh tế. <b>Grammar</b>: <i>the economy</i>. <b>Word family</b>: <i>economic</i> (adj.).",
+   "example": {
+    "en": "With the <b>economy</b> now improving, banks are reporting positive signs.",
+    "vi": "Với <b>nền kinh tế</b> đang cải thiện, các ngân hàng báo cáo dấu hiệu tích cực."
+   }
+  },
+  {
+   "word": "sign",
+   "sense": "indication",
+   "pos": "noun",
+   "ipa": "/saɪn/",
+   "def_en": "Something which shows something is happening.",
+   "def_vi": "Điều cho thấy điều gì đang xảy ra.",
+   "gloss_vi": "dấu hiệu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sign</i> (noun) = dấu hiệu. <b>Grammar</b>: <i>a sign of/that…</i>.",
+   "example": {
+    "en": "Banks are reporting positive <b>signs</b> that the number of loans is increasing.",
+    "vi": "Các ngân hàng báo cáo <b>dấu hiệu</b> tích cực rằng số khoản vay đang tăng."
+   }
+  },
+  {
+   "word": "loan",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ləʊn/",
+   "def_en": "Money that you borrow.",
+   "def_vi": "Tiền bạn vay.",
+   "gloss_vi": "khoản vay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Loan</i> (noun) = khoản vay. <b>Grammar</b>: <i>take out / get a loan</i>.",
+   "example": {
+    "en": "The number of <b>loans</b> is increasing.",
+    "vi": "Số <b>khoản vay</b> đang tăng."
+   }
+  },
+  {
+   "word": "inflation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˈfleɪʃn/",
+   "def_en": "The rate at which prices increase.",
+   "def_vi": "Tốc độ tăng giá cả.",
+   "gloss_vi": "lạm phát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Inflation</i> (noun) = lạm phát. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "With <b>inflation</b> expected to rise, there are growing fears that interest rates could go up.",
+    "vi": "Với <b>lạm phát</b> dự kiến tăng, ngày càng lo ngại lãi suất sẽ tăng."
+   }
+  },
+  {
+   "word": "growing fears",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌɡrəʊɪŋ ˈfɪəz/",
+   "def_en": "Increasing worries.",
+   "def_vi": "Nỗi lo ngày càng tăng.",
+   "gloss_vi": "lo ngại ngày càng tăng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Growing fears</i> (noun phrase) = lo ngại ngày càng tăng. <b>Grammar</b>: <i>growing fears that…</i>.",
+   "example": {
+    "en": "There are <b>growing fears</b> that interest rates could go up.",
+    "vi": "Ngày càng <b>lo ngại</b> rằng lãi suất có thể tăng."
+   }
+  },
+  {
+   "word": "interest rate",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈɪntrəst reɪt/",
+   "def_en": "How much you must pay to the bank as a percentage when you borrow money.",
+   "def_vi": "Phần trăm phải trả ngân hàng khi vay.",
+   "gloss_vi": "lãi suất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Interest rate</i> (noun phrase) = lãi suất. <b>Grammar</b>: <i>high/low interest rates</i>.",
+   "example": {
+    "en": "<b>Interest rates</b> could go up by as much as 2% next year.",
+    "vi": "<b>Lãi suất</b> có thể tăng tới 2% vào năm sau."
+   }
+  },
+  {
+   "word": "per cent",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pə ˈsent/",
+   "def_en": "For or out of every 100 (%).",
+   "def_vi": "Trên mỗi 100 (%).",
+   "gloss_vi": "phần trăm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Per cent</i> (noun) = phần trăm. <b>Grammar</b>: Mỹ <i>percent</i>; <i>2%</i> đọc <i>two per cent</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Interest rates could go up by two <b>per cent</b>.",
+    "vi": "Lãi suất có thể tăng tới hai <b>phần trăm</b>."
+   }
+  },
+  {
+   "word": "figures",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈfɪɡəz/",
+   "def_en": "Amounts shown in numbers.",
+   "def_vi": "Lượng thể hiện bằng số.",
+   "gloss_vi": "số liệu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Figures</i> (plural noun) = số liệu. <b>Grammar</b>: <i>sales figures</i>.",
+   "example": {
+    "en": "<b>Figures</b> published yesterday show that trade between the two countries has now risen for the fifth year in a row.",
+    "vi": "<b>Số liệu</b> công bố hôm qua cho thấy thương mại đã tăng năm thứ năm liên tiếp."
+   }
+  },
+  {
+   "word": "trade",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/treɪd/",
+   "def_en": "Buying and selling between countries.",
+   "def_vi": "Mua bán giữa các nước.",
+   "gloss_vi": "thương mại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trade</i> (noun) = thương mại. <b>Grammar</b>: không đếm được; <i>trade between/with</i>.",
+   "example": {
+    "en": "Figures show that <b>trade</b> between the two countries has now risen.",
+    "vi": "Số liệu cho thấy <b>thương mại</b> giữa hai nước đã tăng."
+   }
+  },
+  {
+   "word": "in a row",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪn ə ˈrəʊ/",
+   "def_en": "One after another with no break.",
+   "def_vi": "Liên tục không ngắt quãng.",
+   "gloss_vi": "liên tiếp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In a row</i> (phrase) = liên tiếp. <b>Grammar</b>: <i>three times in a row</i>.",
+   "example": {
+    "en": "Trade has now risen for the fifth year <b>in a row</b>.",
+    "vi": "Thương mại đã tăng năm thứ năm <b>liên tiếp</b>."
+   }
+  },
+  {
+   "word": "value",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈvæljuː/",
+   "def_en": "The money that something can be sold for.",
+   "def_vi": "Số tiền thứ gì có thể bán được.",
+   "gloss_vi": "giá trị",
+   "synonyms": "worth <i>(n. giá trị)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Value</i> (noun) = giá trị. <b>Grammar</b>: <i>the value of sth</i>.",
+   "example": {
+    "en": "The <b>value of</b> the pound fell slightly against the dollar yesterday.",
+    "vi": "<b>Giá trị</b> đồng bảng giảm nhẹ so với đồng đô la hôm qua."
+   }
+  },
+  {
+   "word": "quarter",
+   "sense": "business",
+   "pos": "noun",
+   "ipa": "/ˈkwɔːtə(r)/",
+   "def_en": "(In business) a period of three months.",
+   "def_vi": "(Trong kinh doanh) thời gian ba tháng.",
+   "gloss_vi": "quý",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Quarter</i> (noun) = quý. <b>Grammar</b>: <i>the first/last quarter</i>.",
+   "example": {
+    "en": "Sales rose in the last <b>quarter</b>.",
+    "vi": "Doanh số tăng trong <b>quý</b> vừa qua."
+   }
+  },
+  {
+   "word": "raise",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/reɪz/",
+   "def_en": "To increase.",
+   "def_vi": "Làm tăng.",
+   "gloss_vi": "nâng lên, làm tăng",
+   "synonyms": "increase <i>(v. làm tăng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Raise</i> (verb) = nâng lên, làm tăng. <b>Grammar</b>: ngoại động từ (<i>raise prices</i>) ≠ <i>rise</i> (nội động từ).",
+   "example": {
+    "en": "The news has <b>raised</b> hopes that we may be coming out of recession.",
+    "vi": "Tin tức đã <b>làm dấy lên</b> hy vọng ta có thể thoát suy thoái."
+   }
+  },
+  {
+   "word": "recession",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˈseʃn/",
+   "def_en": "A time when the economy is not successful.",
+   "def_vi": "Thời kỳ kinh tế không thành công.",
+   "gloss_vi": "suy thoái",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "boom <i>(n. bùng nổ)</i>",
+   "grammar_vi": "<i>Recession</i> (noun) = suy thoái. <b>Grammar</b>: <i>in recession</i>; <i>come out of recession</i>.",
+   "example": {
+    "en": "We may be coming out of <b>recession</b>.",
+    "vi": "Có thể chúng ta đang thoát khỏi <b>suy thoái</b>."
+   }
+  },
+  {
+   "word": "interest",
+   "sense": "money",
+   "pos": "noun",
+   "ipa": "/ˈɪntrəst/",
+   "def_en": "What the bank charges you when you borrow money.",
+   "def_vi": "Khoản ngân hàng tính khi bạn vay tiền.",
+   "gloss_vi": "tiền lãi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Interest</i> (noun) = tiền lãi. <b>Grammar</b>: không đếm được ở nghĩa này.",
+   "example": {
+    "en": "<b>Interest</b> is what the bank charges you when you borrow money from them.",
+    "vi": "<b>Tiền lãi</b> là khoản ngân hàng tính khi bạn vay tiền."
+   }
+  },
+  {
+   "word": "percentage",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pəˈsentɪdʒ/",
+   "def_en": "An amount expressed as part of 100.",
+   "def_vi": "Lượng biểu thị trên 100.",
+   "gloss_vi": "tỷ lệ phần trăm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Percentage</i> (noun) = tỷ lệ phần trăm. <b>Grammar</b>: <i>a high percentage of…</i>.",
+   "example": {
+    "en": "The interest rate is how much you must pay as a <b>percentage</b>.",
+    "vi": "Lãi suất là số bạn phải trả tính theo <b>tỷ lệ phần trăm</b>."
+   }
+  }
+ ]
+}
