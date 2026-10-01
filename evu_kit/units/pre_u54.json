@@ -1,0 +1,528 @@
+{
+ "book": "pre",
+ "unit": 54,
+ "title_vi": "Máy tính",
+ "theory_html": "<p><b>A. The computer</b><br><i>A. Máy tính</i></p> <p><b>webcam, microphone, printer, screen, keyboard, escape key, spacebar, mouse mat, mouse, CD-ROM, memory stick</b>.</p><p><i><b>webcam, micro, máy in, màn hình, bàn phím, phím Esc, phím cách, tấm lót chuột, chuột, đĩa CD-ROM, USB</b>.</i></p> <p><b>B. Using a computer</b><br><i>B. Dùng máy tính</i></p> <p><b>switch on; log in/on (opp log out/off) with your username; enter your password; double-click on an icon; open an application; store information; back up files (make a backup); create a document; File menu; copy and paste; save; print out (a hard copy / a printout); the computer crashes; exit</b>.</p><p><i><b>đăng nhập/đăng xuất, tên người dùng, nhập mật khẩu, nhấp đúp, biểu tượng, ứng dụng, lưu trữ, sao lưu, tạo, sao chép, dán, lưu, in ra, bản in, bị treo, thoát</b>.</i></p> <p><b>C. FAQs about computers</b><br><i>C. Câu hỏi thường gặp</i></p> <p><b>PC</b> or <b>laptop</b>; <b>hard drive</b> (<b>hard disk</b>); <b>operating system</b>; <b>install software</b>; <b>run</b> applications; <b>anti-virus software</b>, a <b>virus</b>.</p><p><i><b>máy tính cá nhân, máy tính xách tay, ổ cứng, hệ điều hành, phần mềm, chạy, phần mềm diệt virus</b>.</i></p>",
+ "items": [
+  {
+   "word": "webcam",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwebkæm/",
+   "def_en": "A camera on a computer that sends pictures over the Internet.",
+   "def_vi": "Máy quay trên máy tính truyền hình ảnh qua Internet.",
+   "gloss_vi": "webcam",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Webcam</i> (noun) = webcam. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "We talk on the <b>webcam</b> every week.",
+    "vi": "Chúng tôi nói chuyện qua <b>webcam</b> mỗi tuần."
+   }
+  },
+  {
+   "word": "microphone",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmaɪkrəfəʊn/",
+   "def_en": "A piece of equipment for recording sound.",
+   "def_vi": "Thiết bị ghi âm thanh.",
+   "gloss_vi": "micro",
+   "synonyms": "mic <i>(n. micro)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Microphone</i> (noun) = micro. <b>Grammar</b>: thân mật <i>mic</i> /maɪk/.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>microphone</b> on my computer isn’t working.",
+    "vi": "<b>Micro</b> trên máy tính của tôi không hoạt động."
+   }
+  },
+  {
+   "word": "printer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈprɪntə(r)/",
+   "def_en": "A machine that prints documents.",
+   "def_vi": "Máy in tài liệu.",
+   "gloss_vi": "máy in",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Printer</i> (noun) = máy in. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>printer</b> has run out of ink.",
+    "vi": "<b>Máy in</b> hết mực rồi."
+   }
+  },
+  {
+   "word": "screen",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/skriːn/",
+   "def_en": "The flat surface on a computer where you see information.",
+   "def_vi": "Mặt phẳng trên máy tính để xem thông tin.",
+   "gloss_vi": "màn hình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Screen</i> (noun) = màn hình. <b>Grammar</b>: <i>on the screen</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "My computer <b>screen</b> is too small.",
+    "vi": "<b>Màn hình</b> máy tính của tôi quá nhỏ."
+   }
+  },
+  {
+   "word": "escape key",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ɪˈskeɪp kiː/",
+   "def_en": "The key you press to stop using an application.",
+   "def_vi": "Phím bấm để thoát ứng dụng.",
+   "gloss_vi": "phím Esc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Escape key</i> (noun phrase) = phím Esc. <b>Grammar</b>: <i>press the escape key</i>.",
+   "example": {
+    "en": "Press the <b>Escape key</b> to exit.",
+    "vi": "Nhấn <b>phím Esc</b> để thoát ứng dụng."
+   }
+  },
+  {
+   "word": "spacebar",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈspeɪsbɑː(r)/",
+   "def_en": "The long key at the bottom of a keyboard.",
+   "def_vi": "Phím dài ở dưới bàn phím.",
+   "gloss_vi": "phím cách",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spacebar</i> (noun) = phím cách. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "Press the <b>spacebar</b> to put a space between words.",
+    "vi": "Nhấn <b>phím cách</b> để tạo khoảng trống giữa các từ."
+   }
+  },
+  {
+   "word": "mouse",
+   "sense": "computer",
+   "pos": "noun",
+   "ipa": "/maʊs/",
+   "def_en": "A small device you move to control the computer.",
+   "def_vi": "Thiết bị nhỏ di chuyển để điều khiển máy tính.",
+   "gloss_vi": "chuột máy tính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mouse</i> (noun) = chuột máy tính. <b>Grammar</b>: số nhiều <i>mice</i> hoặc <i>mouses</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Click the <b>mouse</b> on the icon.",
+    "vi": "Nhấp <b>chuột</b> vào biểu tượng."
+   }
+  },
+  {
+   "word": "mouse mat",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈmaʊs mæt/",
+   "def_en": "A small mat that you move a mouse on.",
+   "def_vi": "Tấm nhỏ để di chuột.",
+   "gloss_vi": "tấm lót chuột",
+   "synonyms": "mouse pad <i>(np. lót chuột (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mouse mat</i> (noun phrase) = tấm lót chuột. <b>Grammar</b>: Anh–Anh.",
+   "ex_kit": true,
+   "example": {
+    "en": "I need a new <b>mouse mat</b>.",
+    "vi": "Tôi cần <b>tấm lót chuột</b> mới."
+   }
+  },
+  {
+   "word": "memory stick",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈmeməri stɪk/",
+   "def_en": "A small device for storing and moving files.",
+   "def_vi": "Thiết bị nhỏ lưu và chuyển tệp.",
+   "gloss_vi": "USB, thẻ nhớ",
+   "synonyms": "USB stick <i>(np. USB)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Memory stick</i> (noun phrase) = USB, thẻ nhớ. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "Save the file onto a <b>memory stick</b>.",
+    "vi": "Lưu tệp vào <b>USB</b>."
+   }
+  },
+  {
+   "word": "log in",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌlɒɡ ˈɪn/",
+   "def_en": "To start using a computer with your username and password.",
+   "def_vi": "Bắt đầu dùng máy tính bằng tên và mật khẩu.",
+   "gloss_vi": "đăng nhập",
+   "synonyms": "log on <i>(pv. đăng nhập)</i>",
+   "antonyms": "log out <i>(pv. đăng xuất)</i>",
+   "grammar_vi": "<i>Log in</i> (phrasal verb) = đăng nhập. <b>Grammar</b>: danh từ <i>login</i>.",
+   "example": {
+    "en": "You may need to <b>log in</b> with your username.",
+    "vi": "Bạn có thể cần <b>đăng nhập</b> bằng tên người dùng."
+   }
+  },
+  {
+   "word": "username",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈjuːzəneɪm/",
+   "def_en": "The name you use to log in to a computer.",
+   "def_vi": "Tên dùng để đăng nhập.",
+   "gloss_vi": "tên người dùng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Username</i> (noun) = tên người dùng. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "You may need to log in with your <b>username</b>.",
+    "vi": "Bạn có thể cần đăng nhập bằng <b>tên người dùng</b>."
+   }
+  },
+  {
+   "word": "enter",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈentə(r)/",
+   "def_en": "To put information into a computer.",
+   "def_vi": "Nhập thông tin vào máy tính.",
+   "gloss_vi": "nhập",
+   "synonyms": "type in <i>(pv. gõ vào)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Enter</i> (verb) = nhập. <b>Grammar</b>: <i>enter your password/details</i>.",
+   "example": {
+    "en": "You <b>enter</b> your password.",
+    "vi": "Bạn <b>nhập</b> mật khẩu."
+   }
+  },
+  {
+   "word": "double-click",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌdʌbl ˈklɪk/",
+   "def_en": "To press a mouse button twice quickly.",
+   "def_vi": "Nhấn nút chuột hai lần nhanh.",
+   "gloss_vi": "nhấp đúp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Double-click</i> (verb) = nhấp đúp. <b>Grammar</b>: <i>double-click on sth</i>.",
+   "example": {
+    "en": "If you then <b>double-click</b> on an icon, you can open an application.",
+    "vi": "Nếu bạn <b>nhấp đúp</b> vào một biểu tượng, bạn có thể mở ứng dụng."
+   }
+  },
+  {
+   "word": "icon",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈaɪkɒn/",
+   "def_en": "A small picture on the screen.",
+   "def_vi": "Hình nhỏ trên màn hình.",
+   "gloss_vi": "biểu tượng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Icon</i> (noun) = biểu tượng. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "If you then double-click on an <b>icon</b>, you can open an application.",
+    "vi": "Nếu bạn nhấp đúp vào một <b>biểu tượng</b>, bạn có thể mở ứng dụng."
+   }
+  },
+  {
+   "word": "application",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌæplɪˈkeɪʃn/",
+   "def_en": "A computer program, e.g. email or an Internet browser.",
+   "def_vi": "Chương trình máy tính, ví dụ email, trình duyệt.",
+   "gloss_vi": "ứng dụng",
+   "synonyms": "app <i>(n. ứng dụng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Application</i> (noun) = ứng dụng. <b>Grammar</b>: thân mật <i>app</i>. <b>Common mistakes</b>: cũng = đơn xin.",
+   "example": {
+    "en": "You can open an <b>application</b>.",
+    "vi": "Bạn có thể mở một <b>ứng dụng</b>."
+   }
+  },
+  {
+   "word": "store",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/stɔː(r)/",
+   "def_en": "To keep.",
+   "def_vi": "Giữ, lưu.",
+   "gloss_vi": "lưu trữ",
+   "synonyms": "keep <i>(v. giữ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Store</i> (verb) = lưu trữ. <b>Grammar</b>: <i>store information/data</i>.",
+   "example": {
+    "en": "Computers can <b>store</b> large amounts of information.",
+    "vi": "Máy tính có thể <b>lưu trữ</b> lượng thông tin lớn."
+   }
+  },
+  {
+   "word": "back up",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌbæk ˈʌp/",
+   "def_en": "To make an extra copy of files.",
+   "def_vi": "Tạo bản sao dự phòng của tệp.",
+   "gloss_vi": "sao lưu",
+   "synonyms": "make a backup <i>(vp. sao lưu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Back up</i> (phrasal verb) = sao lưu. <b>Grammar</b>: tách được; danh từ <i>backup</i>.",
+   "example": {
+    "en": "It is important to <b>back up</b> the files you are working on.",
+    "vi": "Cần <b>sao lưu</b> các tệp bạn đang làm."
+   }
+  },
+  {
+   "word": "file",
+   "sense": "computer",
+   "pos": "noun",
+   "ipa": "/faɪl/",
+   "def_en": "A collection of information stored on a computer.",
+   "def_vi": "Tập hợp thông tin lưu trên máy tính.",
+   "gloss_vi": "tệp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>File</i> (noun) = tệp. <b>Grammar</b>: <i>open/save/delete a file</i>.",
+   "example": {
+    "en": "It is important to back up the <b>files</b> you are working on.",
+    "vi": "Cần sao lưu các <b>tệp</b> bạn đang làm."
+   }
+  },
+  {
+   "word": "create",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kriˈeɪt/",
+   "def_en": "To make or start.",
+   "def_vi": "Tạo ra, bắt đầu.",
+   "gloss_vi": "tạo",
+   "synonyms": "make <i>(v. làm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Create</i> (verb) = tạo. <b>Grammar</b>: <i>create a document/file</i>.",
+   "example": {
+    "en": "To <b>create</b> a new document, select new from the File menu.",
+    "vi": "Để <b>tạo</b> tài liệu mới, chọn New trong menu File."
+   }
+  },
+  {
+   "word": "copy",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈkɒpi/",
+   "def_en": "To make the same version of something.",
+   "def_vi": "Làm bản giống hệt.",
+   "gloss_vi": "sao chép",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Copy</i> (verb) = sao chép. <b>Grammar</b>: <i>copy – copied</i>.",
+   "example": {
+    "en": "You can <b>copy</b> and paste information from one file into another.",
+    "vi": "Bạn có thể <b>sao chép</b> và dán thông tin từ tệp này sang tệp khác."
+   }
+  },
+  {
+   "word": "paste",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/peɪst/",
+   "def_en": "To put copied information into a document.",
+   "def_vi": "Đưa thông tin đã chép vào tài liệu.",
+   "gloss_vi": "dán",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Paste</i> (verb) = dán. <b>Grammar</b>: <i>cut and paste</i>.",
+   "example": {
+    "en": "You can copy and <b>paste</b> information from one file into another.",
+    "vi": "Bạn có thể sao chép và <b>dán</b> thông tin từ tệp này sang tệp khác."
+   }
+  },
+  {
+   "word": "save",
+   "sense": "computer",
+   "pos": "verb",
+   "ipa": "/seɪv/",
+   "def_en": "To store a document on a computer.",
+   "def_vi": "Lưu tài liệu trên máy tính.",
+   "gloss_vi": "lưu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Save</i> (verb) = lưu. <b>Grammar</b>: <i>save a file</i>. <b>Common mistakes</b>: cũng = tiết kiệm, cứu.",
+   "example": {
+    "en": "If you <b>save</b> the document, you can print it out later.",
+    "vi": "Nếu bạn <b>lưu</b> tài liệu, bạn có thể in ra sau."
+   }
+  },
+  {
+   "word": "print out",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌprɪnt ˈaʊt/",
+   "def_en": "To make a paper copy of a document.",
+   "def_vi": "Tạo bản giấy của tài liệu.",
+   "gloss_vi": "in ra",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Print out</i> (phrasal verb) = in ra. <b>Grammar</b>: tách được; danh từ <i>printout</i>.",
+   "example": {
+    "en": "If you save the document, you can <b>print it out</b> later.",
+    "vi": "Nếu lưu tài liệu, bạn có thể <b>in ra</b> sau."
+   }
+  },
+  {
+   "word": "hard copy",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌhɑːd ˈkɒpi/",
+   "def_en": "A paper copy of a document.",
+   "def_vi": "Bản giấy của tài liệu.",
+   "gloss_vi": "bản in giấy",
+   "synonyms": "printout <i>(n. bản in)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hard copy</i> (noun phrase) = bản in giấy. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "You can get a <b>hard copy</b> later.",
+    "vi": "Bạn có thể lấy <b>bản in giấy</b> sau."
+   }
+  },
+  {
+   "word": "crash",
+   "sense": "computer",
+   "pos": "verb",
+   "ipa": "/kræʃ/",
+   "def_en": "(Of a computer) to suddenly stop working.",
+   "def_vi": "(Máy tính) bỗng ngừng hoạt động.",
+   "gloss_vi": "bị treo, sập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Crash</i> (verb) = bị treo, sập. <b>Grammar</b>: nội động từ; danh từ <i>a crash</i>.",
+   "example": {
+    "en": "It is also important to save the document in case the computer <b>crashes</b>.",
+    "vi": "Lưu tài liệu phòng khi máy tính <b>bị treo</b>."
+   }
+  },
+  {
+   "word": "exit",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈeksɪt/",
+   "def_en": "To stop using an application.",
+   "def_vi": "Thôi dùng ứng dụng.",
+   "gloss_vi": "thoát",
+   "synonyms": "quit <i>(v. thoát)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Exit</i> (verb) = thoát. <b>Grammar</b>: cũng là danh từ (lối ra).",
+   "example": {
+    "en": "Press the Escape key to <b>exit</b>.",
+    "vi": "Nhấn phím Esc để <b>thoát</b>."
+   }
+  },
+  {
+   "word": "laptop",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlæptɒp/",
+   "def_en": "A small computer that you can carry around.",
+   "def_vi": "Máy tính nhỏ mang theo được.",
+   "gloss_vi": "máy tính xách tay",
+   "synonyms": "notebook <i>(n. máy tính xách tay)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Laptop</i> (noun) = máy tính xách tay. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Do you have a PC or a <b>laptop</b>?",
+    "vi": "Bạn dùng máy tính để bàn hay <b>máy tính xách tay</b>?"
+   }
+  },
+  {
+   "word": "hard drive",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌhɑːd ˈdraɪv/",
+   "def_en": "The part inside the computer that stores large amounts of information.",
+   "def_vi": "Bộ phận trong máy lưu lượng thông tin lớn.",
+   "gloss_vi": "ổ cứng",
+   "synonyms": "hard disk <i>(np. đĩa cứng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hard drive</i> (noun phrase) = ổ cứng. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "What <b>hard drive</b> do you have?",
+    "vi": "Bạn có <b>ổ cứng</b> loại nào?"
+   }
+  },
+  {
+   "word": "operating system",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈɒpəreɪtɪŋ ˌsɪstəm/",
+   "def_en": "Software that controls how the computer works.",
+   "def_vi": "Phần mềm điều khiển cách máy hoạt động.",
+   "gloss_vi": "hệ điều hành",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Operating system</i> (noun phrase) = hệ điều hành. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "What <b>operating system</b> are you using?",
+    "vi": "Bạn đang dùng <b>hệ điều hành</b> nào?"
+   }
+  },
+  {
+   "word": "software",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɒftweə(r)/",
+   "def_en": "Computer programs.",
+   "def_vi": "Chương trình máy tính.",
+   "gloss_vi": "phần mềm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "hardware <i>(n. phần cứng)</i>",
+   "grammar_vi": "<i>Software</i> (noun) = phần mềm. <b>Grammar</b>: không đếm được (không <i>softwares</i>).",
+   "example": {
+    "en": "Have you installed any new <b>software</b>?",
+    "vi": "Bạn đã cài <b>phần mềm</b> mới chưa?"
+   }
+  },
+  {
+   "word": "run",
+   "sense": "computer",
+   "pos": "verb",
+   "ipa": "/rʌn/",
+   "def_en": "To use a computer program.",
+   "def_vi": "Sử dụng chương trình máy tính.",
+   "gloss_vi": "chạy (phần mềm)",
+   "synonyms": "use <i>(v. dùng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Run</i> (verb) = chạy (phần mềm). <b>Grammar</b>: <i>run a program</i>.",
+   "example": {
+    "en": "What software applications are you <b>running</b>?",
+    "vi": "Bạn đang <b>chạy</b> ứng dụng phần mềm nào?"
+   }
+  },
+  {
+   "word": "virus",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈvaɪrəs/",
+   "def_en": "A program put on a computer to destroy or steal information.",
+   "def_vi": "Chương trình phá hoại hay đánh cắp thông tin máy tính.",
+   "gloss_vi": "virus (máy tính)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Virus</i> (noun) = virus (máy tính). <b>Grammar</b>: số nhiều <i>viruses</i>; <i>anti-virus software</i>.",
+   "example": {
+    "en": "A <b>virus</b> is a program put on a computer to destroy or steal the information on it.",
+    "vi": "<b>Virus</b> là chương trình được cài vào máy để phá hoại hay đánh cắp thông tin."
+   }
+  }
+ ]
+}

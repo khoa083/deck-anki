@@ -1,0 +1,478 @@
+{
+ "book": "pre",
+ "unit": 56,
+ "title_vi": "Tội phạm",
+ "theory_html": "<p><b>A. Different crimes</b><br><i>A. Các loại tội phạm</i></p> <p>A <b>crime</b> is not allowed by law; a person who <b>commits a crime</b> is a <b>criminal</b>. <b>theft – thief – steal/take</b>; <b>robbery – robber – rob</b> (sb, a place); <b>burglary – burglar – burgle</b> (a place); <b>murder – murderer – murder</b>.</p><p><i><b>tội ác, phạm tội, tội phạm; trộm cắp – kẻ trộm – lấy trộm; cướp – kẻ cướp; đột nhập trộm – kẻ trộm nhà; giết người – kẻ giết người</b>.</i></p> <p><b>B. Reporting crimes in the media</b><br><i>B. Đưa tin tội phạm</i></p> <p><b>They broke in… stole jewellery worth over £10,000; the men attacked Mr Crawford… escaped (syn got away); detectives arrested a man… under arrest.</b></p><p><i><b>đột nhập, trị giá, tấn công, trốn thoát, thám tử, bắt giữ, bị bắt</b>.</i></p> <p><b>C. Punishment</b><br><i>C. Hình phạt</i></p> <p>the police <b>catch</b> you; <b>minor offences</b> (opp <b>serious</b>) → a <b>fine</b>; serious crimes → <b>court</b>; found <b>guilty</b> (opp <b>innocent</b>) by the <b>judge</b> or a <b>jury</b> → <b>prison</b> (syn <b>jail</b>).</p><p><i><b>bắt được, tội nhẹ, tiền phạt, tòa án, có tội/vô tội, thẩm phán, bồi thẩm đoàn, nhà tù</b>.</i></p>",
+ "items": [
+  {
+   "word": "crime",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kraɪm/",
+   "def_en": "An activity that is wrong and not allowed by law.",
+   "def_vi": "Hành động sai trái, luật pháp không cho phép.",
+   "gloss_vi": "tội ác, tội phạm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Crime</i> (noun) = tội ác, tội phạm. <b>Grammar</b>: đếm được và không đếm được.",
+   "example": {
+    "en": "A <b>crime</b> is an activity that is wrong and not allowed by law.",
+    "vi": "<b>Tội phạm</b> là hành động sai trái và không được luật pháp cho phép."
+   }
+  },
+  {
+   "word": "commit a crime",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/kəˌmɪt ə ˈkraɪm/",
+   "def_en": "To do something illegal.",
+   "def_vi": "Làm điều phạm pháp.",
+   "gloss_vi": "phạm tội",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Commit a crime</i> (verb phrase) = phạm tội. <b>Grammar</b>: <i>commit – committed</i>.",
+   "example": {
+    "en": "A person who <b>commits a crime</b> is a criminal.",
+    "vi": "Người <b>phạm tội</b> là tội phạm."
+   }
+  },
+  {
+   "word": "criminal",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkrɪmɪnl/",
+   "def_en": "A person who commits a crime.",
+   "def_vi": "Người phạm tội.",
+   "gloss_vi": "tội phạm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Criminal</i> (noun) = tội phạm. <b>Grammar</b>: cũng là tính từ: <i>a criminal record</i>.",
+   "example": {
+    "en": "A person who commits a crime is a <b>criminal</b>.",
+    "vi": "Người phạm tội là <b>tội phạm</b>."
+   }
+  },
+  {
+   "word": "theft",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/θeft/",
+   "def_en": "Stealing something.",
+   "def_vi": "Việc lấy trộm thứ gì.",
+   "gloss_vi": "vụ trộm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Theft</i> (noun) = vụ trộm. <b>Grammar</b>: không đếm được và đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "Car <b>theft</b> is increasing in this area.",
+    "vi": "<b>Trộm</b> xe hơi đang tăng ở khu này."
+   }
+  },
+  {
+   "word": "thief",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/θiːf/",
+   "def_en": "A person who steals.",
+   "def_vi": "Người ăn trộm.",
+   "gloss_vi": "kẻ trộm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Thief</i> (noun) = kẻ trộm. <b>Grammar</b>: số nhiều <i>thieves</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The police caught the <b>thief</b>.",
+    "vi": "Cảnh sát đã bắt được <b>kẻ trộm</b>."
+   }
+  },
+  {
+   "word": "steal",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/stiːl/",
+   "def_en": "To take something that is not yours.",
+   "def_vi": "Lấy thứ không phải của mình.",
+   "gloss_vi": "lấy trộm",
+   "synonyms": "take <i>(v. lấy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Steal</i> (verb) = lấy trộm. <b>Grammar</b>: <i>steal sth (from sb)</i>; <i>steal – stole – stolen</i>.",
+   "example": {
+    "en": "Someone’s <b>stolen</b> my handbag.",
+    "vi": "Ai đó đã <b>lấy trộm</b> túi xách của tôi."
+   }
+  },
+  {
+   "word": "robbery",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈrɒbəri/",
+   "def_en": "Stealing from a person or place, e.g. a bank.",
+   "def_vi": "Lấy trộm từ người hay nơi như ngân hàng.",
+   "gloss_vi": "vụ cướp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Robbery</i> (noun) = vụ cướp. <b>Grammar</b>: <i>a bank robbery</i>.",
+   "example": {
+    "en": "Did you hear about the bank <b>robbery</b> yesterday?",
+    "vi": "Bạn có nghe về vụ <b>cướp</b> ngân hàng hôm qua không?"
+   }
+  },
+  {
+   "word": "robber",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈrɒbə(r)/",
+   "def_en": "A person who steals from a person or place.",
+   "def_vi": "Người cướp của người hay nơi nào.",
+   "gloss_vi": "kẻ cướp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Robber</i> (noun) = kẻ cướp. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>robbers</b> took all the money from the bank.",
+    "vi": "<b>Kẻ cướp</b> đã lấy hết tiền trong ngân hàng."
+   }
+  },
+  {
+   "word": "rob",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rɒb/",
+   "def_en": "To steal from a person or place.",
+   "def_vi": "Cướp từ người hay nơi nào.",
+   "gloss_vi": "cướp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rob</i> (verb) = cướp. <b>Grammar</b>: <i>rob sb/a place</i> (≠ <i>steal sth</i>); <i>rob – robbed</i>.",
+   "example": {
+    "en": "I don’t know who <b>robbed</b> me.",
+    "vi": "Tôi không biết ai đã <b>cướp</b> của tôi."
+   }
+  },
+  {
+   "word": "burglary",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɜːɡləri/",
+   "def_en": "Getting into a building, usually a home, and stealing something.",
+   "def_vi": "Đột nhập vào nhà và lấy trộm.",
+   "gloss_vi": "vụ trộm đột nhập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Burglary</i> (noun) = vụ trộm đột nhập. <b>Grammar</b>: số nhiều <i>burglaries</i>.",
+   "example": {
+    "en": "There’s been another <b>burglary</b> in the area.",
+    "vi": "Lại có một vụ <b>trộm đột nhập</b> nữa trong khu này."
+   }
+  },
+  {
+   "word": "burglar",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɜːɡlə(r)/",
+   "def_en": "A person who gets into a building and steals.",
+   "def_vi": "Người đột nhập vào nhà lấy trộm.",
+   "gloss_vi": "kẻ trộm đột nhập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Burglar</i> (noun) = kẻ trộm đột nhập. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>burglar</b> got in through the window.",
+    "vi": "<b>Kẻ trộm</b> vào nhà qua cửa sổ."
+   }
+  },
+  {
+   "word": "burgle",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈbɜːɡl/",
+   "def_en": "To get into a building and steal things.",
+   "def_vi": "Đột nhập vào nhà lấy đồ.",
+   "gloss_vi": "đột nhập trộm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Burgle</i> (verb) = đột nhập trộm. <b>Grammar</b>: thường bị động <i>be burgled</i>.",
+   "example": {
+    "en": "Our flat was <b>burgled</b>, but they only took money.",
+    "vi": "Căn hộ chúng tôi <b>bị trộm</b>, nhưng họ chỉ lấy tiền."
+   }
+  },
+  {
+   "word": "murder",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɜːdə(r)/",
+   "def_en": "Killing someone.",
+   "def_vi": "Giết người.",
+   "gloss_vi": "tội giết người",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Murder</i> (noun) = tội giết người. <b>Grammar</b>: cũng là động từ: <i>murder sb</i>. <b>Word family</b>: <i>murderer</i>.",
+   "example": {
+    "en": "Detectives arrested a man in connection with the <b>murder</b> of shop assistant, Tracey Miles.",
+    "vi": "Thám tử bắt một người liên quan đến vụ <b>giết</b> nhân viên bán hàng."
+   }
+  },
+  {
+   "word": "murderer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɜːdərə(r)/",
+   "def_en": "A person who kills someone.",
+   "def_vi": "Người giết người.",
+   "gloss_vi": "kẻ giết người",
+   "synonyms": "killer <i>(n. kẻ giết người)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Murderer</i> (noun) = kẻ giết người. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The police are still looking for the <b>murderer</b>.",
+    "vi": "Cảnh sát vẫn đang tìm <b>kẻ giết người</b>."
+   }
+  },
+  {
+   "word": "break in",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌbreɪk ˈɪn/",
+   "def_en": "To enter a building using force.",
+   "def_vi": "Vào tòa nhà bằng vũ lực.",
+   "gloss_vi": "đột nhập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Break in</i> (phrasal verb) = đột nhập. <b>Grammar</b>: <i>break into a building</i>; danh từ <i>a break-in</i>.",
+   "example": {
+    "en": "They <b>broke in</b> around 7 o’clock.",
+    "vi": "Chúng <b>đột nhập</b> vào khoảng 7 giờ."
+   }
+  },
+  {
+   "word": "worth",
+   "sense": "value",
+   "pos": "preposition",
+   "ipa": "/wɜːθ/",
+   "def_en": "With a value of.",
+   "def_vi": "Có giá trị.",
+   "gloss_vi": "trị giá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Worth</i> (preposition) = trị giá. <b>Grammar</b>: <i>worth</i> + số tiền.",
+   "example": {
+    "en": "They stole jewellery <b>worth</b> over £10,000.",
+    "vi": "Chúng lấy trộm đồ trang sức <b>trị giá</b> hơn 10.000 bảng."
+   }
+  },
+  {
+   "word": "attack",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈtæk/",
+   "def_en": "To use physical violence to hurt someone.",
+   "def_vi": "Dùng vũ lực làm hại ai.",
+   "gloss_vi": "tấn công",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Attack</i> (verb) = tấn công. <b>Grammar</b>: cũng là danh từ: <i>an attack on sb</i>.",
+   "example": {
+    "en": "The two men <b>attacked</b> Mr Crawford while he was walking home yesterday afternoon.",
+    "vi": "Hai người đàn ông <b>tấn công</b> ông Crawford khi ông đang đi bộ về nhà."
+   }
+  },
+  {
+   "word": "escape",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪˈskeɪp/",
+   "def_en": "To leave a place to avoid danger.",
+   "def_vi": "Rời nơi nào để tránh nguy hiểm.",
+   "gloss_vi": "trốn thoát",
+   "synonyms": "get away <i>(pv. chạy thoát)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Escape</i> (verb) = trốn thoát. <b>Grammar</b>: <i>escape from sth</i>.",
+   "example": {
+    "en": "They took his money and <b>escaped</b> through Bushy Park.",
+    "vi": "Chúng lấy tiền rồi <b>trốn</b> qua công viên Bushy."
+   }
+  },
+  {
+   "word": "detective",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈtektɪv/",
+   "def_en": "A police officer who tries to find information to solve crimes.",
+   "def_vi": "Cảnh sát tìm thông tin để phá án.",
+   "gloss_vi": "thám tử",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Detective</i> (noun) = thám tử. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "<b>Detectives</b> arrested a man this morning.",
+    "vi": "<b>Thám tử</b> đã bắt một người sáng nay."
+   }
+  },
+  {
+   "word": "arrest",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈrest/",
+   "def_en": "To take someone to the police station because you believe they committed a crime.",
+   "def_vi": "Đưa ai về đồn vì tin họ phạm tội.",
+   "gloss_vi": "bắt giữ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "release <i>(v. thả)</i>",
+   "grammar_vi": "<i>Arrest</i> (verb) = bắt giữ. <b>Grammar</b>: <i>under arrest</i> = bị bắt giữ.",
+   "example": {
+    "en": "Detectives <b>arrested</b> a man this morning.",
+    "vi": "Thám tử đã <b>bắt giữ</b> một người sáng nay."
+   }
+  },
+  {
+   "word": "catch",
+   "sense": "police",
+   "pos": "verb",
+   "ipa": "/kætʃ/",
+   "def_en": "To find someone and arrest them.",
+   "def_vi": "Tìm thấy và bắt giữ ai.",
+   "gloss_vi": "bắt được",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Catch</i> (verb) = bắt được. <b>Grammar</b>: <i>catch – caught – caught</i>.",
+   "example": {
+    "en": "If you commit a crime and the police <b>catch</b> you, you will be punished.",
+    "vi": "Nếu bạn phạm tội và cảnh sát <b>bắt được</b> bạn, bạn sẽ bị phạt."
+   }
+  },
+  {
+   "word": "minor offence",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌmaɪnər əˈfens/",
+   "def_en": "A crime that is not very important.",
+   "def_vi": "Tội không nghiêm trọng.",
+   "gloss_vi": "tội nhẹ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "serious crime <i>(np. tội nặng)</i>",
+   "grammar_vi": "<i>Minor offence</i> (noun phrase) = tội nhẹ. <b>Grammar</b>: Mỹ <i>offense</i>.",
+   "example": {
+    "en": "For <b>minor offences</b>, the punishment may only be a fine.",
+    "vi": "Với <b>tội nhẹ</b>, hình phạt có thể chỉ là tiền phạt."
+   }
+  },
+  {
+   "word": "fine",
+   "sense": "punishment",
+   "pos": "noun",
+   "ipa": "/faɪn/",
+   "def_en": "Money you have to pay as a punishment.",
+   "def_vi": "Tiền phải nộp như hình phạt.",
+   "gloss_vi": "tiền phạt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fine</i> (noun) = tiền phạt. <b>Grammar</b>: <i>pay a fine</i>; động từ <i>be fined</i>.",
+   "example": {
+    "en": "For minor offences, the punishment may only be a <b>fine</b>.",
+    "vi": "Với tội nhẹ, hình phạt có thể chỉ là <b>tiền phạt</b>."
+   }
+  },
+  {
+   "word": "court",
+   "sense": "law",
+   "pos": "noun",
+   "ipa": "/kɔːt/",
+   "def_en": "The place where a judge decides if someone is guilty.",
+   "def_vi": "Nơi thẩm phán xét ai có tội không.",
+   "gloss_vi": "tòa án",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Court</i> (noun) = tòa án. <b>Grammar</b>: <i>go to court</i> (không có <i>the</i>).",
+   "example": {
+    "en": "For serious crimes, you will have to go to <b>court</b>.",
+    "vi": "Với tội nặng, bạn sẽ phải ra <b>tòa</b>."
+   }
+  },
+  {
+   "word": "guilty",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɡɪlti/",
+   "def_en": "Having committed the crime.",
+   "def_vi": "Đã phạm tội.",
+   "gloss_vi": "có tội",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "innocent <i>(adj. vô tội)</i>",
+   "grammar_vi": "<i>Guilty</i> (adjective) = có tội. <b>Grammar</b>: <i>be found guilty (of sth)</i>.",
+   "example": {
+    "en": "If you are found <b>guilty</b>, you may be sent to prison.",
+    "vi": "Nếu bị kết <b>có tội</b>, bạn có thể bị vào tù."
+   }
+  },
+  {
+   "word": "innocent",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɪnəsnt/",
+   "def_en": "Not having committed the crime.",
+   "def_vi": "Không phạm tội.",
+   "gloss_vi": "vô tội",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "guilty <i>(adj. có tội)</i>",
+   "grammar_vi": "<i>Innocent</i> (adjective) = vô tội. <b>Grammar</b>: <i>innocent of sth</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The jury decided he was <b>innocent</b>.",
+    "vi": "Bồi thẩm đoàn quyết định anh ta <b>vô tội</b>."
+   }
+  },
+  {
+   "word": "judge",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dʒʌdʒ/",
+   "def_en": "The person in charge of a court who decides punishments.",
+   "def_vi": "Người phụ trách tòa án, quyết định hình phạt.",
+   "gloss_vi": "thẩm phán",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Judge</i> (noun) = thẩm phán. <b>Grammar</b>: cũng là động từ = phán xét.",
+   "example": {
+    "en": "The <b>judge</b>, or a jury of 12 people, decides you committed the crime.",
+    "vi": "<b>Thẩm phán</b> hay bồi thẩm đoàn quyết định bạn có tội."
+   }
+  },
+  {
+   "word": "jury",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdʒʊəri/",
+   "def_en": "A group of 12 people who decide if someone is guilty.",
+   "def_vi": "Nhóm 12 người quyết định ai có tội không.",
+   "gloss_vi": "bồi thẩm đoàn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Jury</i> (noun) = bồi thẩm đoàn. <b>Grammar</b>: danh từ tập hợp.",
+   "example": {
+    "en": "The judge, or a <b>jury</b> of 12 people, decides you committed the crime.",
+    "vi": "Thẩm phán, hay <b>bồi thẩm đoàn</b> 12 người, quyết định bạn có tội."
+   }
+  },
+  {
+   "word": "prison",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈprɪzn/",
+   "def_en": "A building where criminals are kept.",
+   "def_vi": "Tòa nhà giam tội phạm.",
+   "gloss_vi": "nhà tù",
+   "synonyms": "jail <i>(n. nhà tù)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Prison</i> (noun) = nhà tù. <b>Grammar</b>: <i>go to prison / be in prison</i> (không có <i>the</i>).",
+   "example": {
+    "en": "If you are found guilty, you may be sent to <b>prison</b>.",
+    "vi": "Nếu bị kết có tội, bạn có thể bị đưa vào <b>tù</b>."
+   }
+  }
+ ]
+}

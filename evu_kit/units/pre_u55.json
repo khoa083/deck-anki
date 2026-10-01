@@ -1,0 +1,409 @@
+{
+ "book": "pre",
+ "unit": 55,
+ "title_vi": "Email và Internet",
+ "theory_html": "<p><b>A. Using email</b><br><i>A. Dùng email</i></p> <p><b>check your email; essential; read them immediately; reply to emails; delete emails regularly; spam (junk mail); anti-virus software; attachments</b>. Say <b>pd at freeserve dot co dot uk</b>.</p><p><i><b>kiểm tra email, thiết yếu, ngay lập tức, trả lời, xóa, thường xuyên, thư rác, tệp đính kèm</b>.</i></p> <p><b>B. Getting started on the Internet</b><br><i>B. Bắt đầu với Internet</i></p> <p>an <b>ISP</b> will <b>connect</b> your computer and give you <b>access to</b> email; <b>go online</b>; <b>browse</b> with a <b>browser</b>; <b>websites</b> have <b>links</b>; <b>click</b> on a link.</p><p><i><b>nhà cung cấp dịch vụ Internet, kết nối, quyền truy cập, lên mạng, duyệt web, trình duyệt, đường liên kết, nhấp</b>.</i></p> <p><b>C. Using the Internet</b><br><i>C. Sử dụng Internet</i></p> <p><b>search the Internet; download / upload; video clips; add to basket; go to checkout; blogs, bloggers; surf the web; social networking sites; post comments; instant messaging</b>.</p><p><i><b>tìm kiếm, tải xuống/tải lên, đoạn video, thêm vào giỏ, blog, lướt web, mạng xã hội, đăng bình luận, nhắn tin tức thời</b>.</i></p>",
+ "items": [
+  {
+   "word": "check your email",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌtʃek jər ˈiːmeɪl/",
+   "def_en": "To look to see if you have any messages.",
+   "def_vi": "Xem có tin nhắn nào không.",
+   "gloss_vi": "kiểm tra email",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Check your email</i> (verb phrase) = kiểm tra email. <b>Grammar</b>: <i>check my/your email</i>.",
+   "example": {
+    "en": "How often do you <b>check your email</b>?",
+    "vi": "Bạn <b>kiểm tra email</b> bao lâu một lần?"
+   }
+  },
+  {
+   "word": "essential",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪˈsenʃl/",
+   "def_en": "Important and necessary.",
+   "def_vi": "Quan trọng và cần thiết.",
+   "gloss_vi": "thiết yếu",
+   "synonyms": "necessary <i>(adj. cần thiết)</i>",
+   "antonyms": "unnecessary <i>(adj. không cần thiết)</i>",
+   "grammar_vi": "<i>Essential</i> (adjective) = thiết yếu. <b>Grammar</b>: <i>essential for sth</i>.",
+   "example": {
+    "en": "Are they all <b>essential</b>?",
+    "vi": "Chúng có <b>thiết yếu</b> hết không?"
+   }
+  },
+  {
+   "word": "immediately",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ɪˈmiːdiətli/",
+   "def_en": "Without waiting.",
+   "def_vi": "Không chờ đợi.",
+   "gloss_vi": "ngay lập tức",
+   "synonyms": "straight away <i>(adv. ngay)</i>",
+   "antonyms": "later <i>(adv. sau)</i>",
+   "grammar_vi": "<i>Immediately</i> (adverb) = ngay lập tức. <b>Grammar</b>: <i>immediate</i> (adj.).",
+   "example": {
+    "en": "Do you read them <b>immediately</b>?",
+    "vi": "Bạn có đọc chúng <b>ngay lập tức</b> không?"
+   }
+  },
+  {
+   "word": "reply to",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/rɪˈplaɪ tə/",
+   "def_en": "To answer.",
+   "def_vi": "Trả lời.",
+   "gloss_vi": "trả lời",
+   "synonyms": "answer <i>(v. trả lời)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reply to</i> (phrasal verb) = trả lời. <b>Grammar</b>: <i>reply to sth</i> (cần <i>to</i>); <i>answer sth</i> (không <i>to</i>).",
+   "example": {
+    "en": "How quickly do you <b>reply to</b> the emails you receive?",
+    "vi": "Bạn <b>trả lời</b> email nhận được nhanh thế nào?"
+   }
+  },
+  {
+   "word": "delete",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪˈliːt/",
+   "def_en": "To remove something from a computer.",
+   "def_vi": "Xóa thứ gì khỏi máy tính.",
+   "gloss_vi": "xóa",
+   "synonyms": "remove <i>(v. bỏ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Delete</i> (verb) = xóa. <b>Grammar</b>: <i>delete a file/email</i>.",
+   "example": {
+    "en": "Do you <b>delete</b> emails regularly?",
+    "vi": "Bạn có <b>xóa</b> email thường xuyên không?"
+   }
+  },
+  {
+   "word": "regularly",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈreɡjələli/",
+   "def_en": "Often.",
+   "def_vi": "Thường xuyên.",
+   "gloss_vi": "thường xuyên",
+   "synonyms": "often <i>(adv. thường)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Regularly</i> (adverb) = thường xuyên. <b>Grammar</b>: <i>regular</i> (adj.).",
+   "example": {
+    "en": "Do you delete emails <b>regularly</b>?",
+    "vi": "Bạn có xóa email <b>thường xuyên</b> không?"
+   }
+  },
+  {
+   "word": "spam",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/spæm/",
+   "def_en": "Emails that you do not want, usually adverts.",
+   "def_vi": "Email không mong muốn, thường là quảng cáo.",
+   "gloss_vi": "thư rác",
+   "synonyms": "junk mail <i>(np. thư rác)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spam</i> (noun) = thư rác. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "Do you get much <b>spam</b>?",
+    "vi": "Bạn có nhận nhiều <b>thư rác</b> không?"
+   }
+  },
+  {
+   "word": "attachment",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈtætʃmənt/",
+   "def_en": "A file sent with an email.",
+   "def_vi": "Tệp gửi kèm email.",
+   "gloss_vi": "tệp đính kèm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Attachment</i> (noun) = tệp đính kèm. <b>Grammar</b>: <i>open an attachment</i>. <b>Word family</b>: <i>attach</i> (v.).",
+   "example": {
+    "en": "How often do you send or receive <b>attachments</b>?",
+    "vi": "Bạn gửi hay nhận <b>tệp đính kèm</b> bao lâu một lần?"
+   }
+  },
+  {
+   "word": "ISP",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌaɪ es ˈpiː/",
+   "def_en": "Internet service provider.",
+   "def_vi": "Nhà cung cấp dịch vụ Internet.",
+   "gloss_vi": "nhà cung cấp Internet",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>ISP</i> (noun) = nhà cung cấp Internet. <b>Grammar</b>: viết tắt <i>Internet service provider</i>.",
+   "example": {
+    "en": "To go on the Internet, you need an <b>ISP</b>.",
+    "vi": "Để lên Internet, bạn cần một <b>nhà cung cấp dịch vụ Internet</b>."
+   }
+  },
+  {
+   "word": "connect",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kəˈnekt/",
+   "def_en": "To join or link.",
+   "def_vi": "Nối hay liên kết.",
+   "gloss_vi": "kết nối",
+   "synonyms": "link <i>(v. liên kết)</i>",
+   "antonyms": "disconnect <i>(v. ngắt kết nối)</i>",
+   "grammar_vi": "<i>Connect</i> (verb) = kết nối. <b>Grammar</b>: <i>connect A to B</i>. <b>Word family</b>: <i>connection</i> (n.).",
+   "example": {
+    "en": "An ISP will <b>connect</b> your computer to the Internet.",
+    "vi": "Nhà cung cấp sẽ <b>kết nối</b> máy tính của bạn với Internet."
+   }
+  },
+  {
+   "word": "access",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈækses/",
+   "def_en": "The ability to use something.",
+   "def_vi": "Khả năng sử dụng thứ gì.",
+   "gloss_vi": "quyền truy cập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Access</i> (noun) = quyền truy cập. <b>Grammar</b>: <i>access to sth</i>; không đếm được.",
+   "example": {
+    "en": "They give you <b>access to</b> email and other services.",
+    "vi": "Họ cho bạn <b>quyền truy cập</b> email và các dịch vụ khác."
+   }
+  },
+  {
+   "word": "go online",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ ɒnˈlaɪn/",
+   "def_en": "To use the Internet.",
+   "def_vi": "Sử dụng Internet.",
+   "gloss_vi": "lên mạng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go online</i> (verb phrase) = lên mạng. <b>Grammar</b>: <i>online</i> (adj./adv.).",
+   "example": {
+    "en": "When you <b>go online</b>, you can then send and receive emails.",
+    "vi": "Khi <b>lên mạng</b>, bạn có thể gửi và nhận email."
+   }
+  },
+  {
+   "word": "browse",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/braʊz/",
+   "def_en": "To look at websites.",
+   "def_vi": "Xem các trang web.",
+   "gloss_vi": "duyệt web",
+   "synonyms": "surf <i>(v. lướt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Browse</i> (verb) = duyệt web. <b>Grammar</b>: <i>browse the Internet/web</i>.",
+   "example": {
+    "en": "You can <b>browse</b> the Internet.",
+    "vi": "Bạn có thể <b>duyệt</b> Internet."
+   }
+  },
+  {
+   "word": "browser",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbraʊzə(r)/",
+   "def_en": "A program for looking at websites.",
+   "def_vi": "Chương trình để xem trang web.",
+   "gloss_vi": "trình duyệt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Browser</i> (noun) = trình duyệt. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "You do this using a <b>browser</b> such as Internet Explorer or Firefox.",
+    "vi": "Bạn làm việc này bằng một <b>trình duyệt</b> như Firefox."
+   }
+  },
+  {
+   "word": "link",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/lɪŋk/",
+   "def_en": "A word or picture you click to go to another web page.",
+   "def_vi": "Chữ hay hình nhấp vào để đến trang khác.",
+   "gloss_vi": "đường liên kết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Link</i> (noun) = đường liên kết. <b>Grammar</b>: <i>click on a link</i>.",
+   "example": {
+    "en": "Many websites also have <b>links</b>.",
+    "vi": "Nhiều trang web có <b>đường liên kết</b>."
+   }
+  },
+  {
+   "word": "click",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/klɪk/",
+   "def_en": "To press a button on a mouse.",
+   "def_vi": "Nhấn nút chuột.",
+   "gloss_vi": "nhấp chuột",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Click</i> (verb) = nhấp chuột. <b>Grammar</b>: <i>click on sth</i>.",
+   "example": {
+    "en": "If you <b>click</b> on a link, it will take you to a different website.",
+    "vi": "Nếu bạn <b>nhấp</b> vào đường liên kết, nó sẽ đưa bạn đến trang khác."
+   }
+  },
+  {
+   "word": "search",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/sɜːtʃ/",
+   "def_en": "To look for information on the Internet.",
+   "def_vi": "Tìm thông tin trên Internet.",
+   "gloss_vi": "tìm kiếm",
+   "synonyms": "look for <i>(pv. tìm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Search</i> (verb) = tìm kiếm. <b>Grammar</b>: <i>search (sth) for sth</i>; <i>do an Internet search</i>.",
+   "example": {
+    "en": "Students <b>search</b> the Internet to help with their studies.",
+    "vi": "Sinh viên <b>tìm kiếm</b> trên Internet để giúp việc học."
+   }
+  },
+  {
+   "word": "upload",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌʌpˈləʊd/",
+   "def_en": "To copy files from your computer onto the Internet.",
+   "def_vi": "Sao tệp từ máy lên Internet.",
+   "gloss_vi": "tải lên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "download <i>(v. tải xuống)</i>",
+   "grammar_vi": "<i>Upload</i> (verb) = tải lên. <b>Grammar</b>: cũng là danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "People download and <b>upload</b> information, pictures and music.",
+    "vi": "Mọi người tải xuống và <b>tải lên</b> thông tin, hình ảnh, nhạc."
+   }
+  },
+  {
+   "word": "video clip",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈvɪdiəʊ klɪp/",
+   "def_en": "A small part of a video recording.",
+   "def_vi": "Phần nhỏ của đoạn ghi hình.",
+   "gloss_vi": "đoạn video",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Video clip</i> (noun phrase) = đoạn video. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "People download information, pictures, music, <b>video clips</b>, etc.",
+    "vi": "Mọi người tải xuống nhạc, <b>đoạn video</b>…"
+   }
+  },
+  {
+   "word": "add to basket",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌæd tə ˈbɑːskɪt/",
+   "def_en": "To choose a product to buy online.",
+   "def_vi": "Chọn sản phẩm để mua trên mạng.",
+   "gloss_vi": "thêm vào giỏ hàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Add to basket</i> (verb phrase) = thêm vào giỏ hàng. <b>Grammar</b>: Mỹ <i>add to cart</i>.",
+   "example": {
+    "en": "People select the item they want and click <b>add to basket</b>.",
+    "vi": "Họ chọn món hàng muốn mua rồi nhấp <b>thêm vào giỏ</b>."
+   }
+  },
+  {
+   "word": "blog",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/blɒɡ/",
+   "def_en": "A personal website with news or writing about someone’s life.",
+   "def_vi": "Trang web cá nhân viết về tin tức hay đời sống.",
+   "gloss_vi": "blog",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Blog</i> (noun) = blog. <b>Grammar</b>: đếm được. <b>Word family</b>: <i>blogger</i>.",
+   "example": {
+    "en": "These are called <b>blogs</b>, and people who write them are bloggers.",
+    "vi": "Những trang này gọi là <b>blog</b>."
+   }
+  },
+  {
+   "word": "surf the web",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌsɜːf ðə ˈweb/",
+   "def_en": "To look at different websites.",
+   "def_vi": "Xem nhiều trang web khác nhau.",
+   "gloss_vi": "lướt web",
+   "synonyms": "browse <i>(v. duyệt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Surf the web</i> (verb phrase) = lướt web. <b>Grammar</b>: <i>surf the web/Internet</i>.",
+   "example": {
+    "en": "Some people just like to spend hours <b>surfing the web</b>.",
+    "vi": "Một số người thích dành hàng giờ <b>lướt web</b>."
+   }
+  },
+  {
+   "word": "social networking site",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌsəʊʃl ˈnetwɜːkɪŋ saɪt/",
+   "def_en": "A place on the Internet to communicate with other people.",
+   "def_vi": "Nơi trên mạng để giao lưu với người khác.",
+   "gloss_vi": "mạng xã hội",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Social networking site</i> (noun phrase) = mạng xã hội. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Some people spend a lot of time on <b>social networking sites</b>.",
+    "vi": "Một số người dành nhiều thời gian trên <b>mạng xã hội</b>."
+   }
+  },
+  {
+   "word": "post",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/pəʊst/",
+   "def_en": "To leave a message on a website.",
+   "def_vi": "Để lại tin nhắn trên trang web.",
+   "gloss_vi": "đăng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Post</i> (verb) = đăng. <b>Grammar</b>: <i>post a comment/photo</i>.",
+   "example": {
+    "en": "On these sites people <b>post</b> comments to their friends.",
+    "vi": "Trên các trang này người ta <b>đăng</b> bình luận cho bạn bè."
+   }
+  },
+  {
+   "word": "instant messaging",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌɪnstənt ˈmesɪdʒɪŋ/",
+   "def_en": "Sending and receiving messages in real time.",
+   "def_vi": "Gửi nhận tin nhắn tức thì.",
+   "gloss_vi": "nhắn tin tức thời",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Instant messaging</i> (noun phrase) = nhắn tin tức thời. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "Some people do a lot of <b>instant messaging</b>.",
+    "vi": "Một số người <b>nhắn tin tức thời</b> rất nhiều."
+   }
+  }
+ ]
+}
