@@ -1,0 +1,264 @@
+{
+ "book": "pre",
+ "unit": 59,
+ "title_vi": "Chiến tranh và bạo lực",
+ "theory_html": "<p><b>A. The job of the army</b><br><i>A. Nhiệm vụ của quân đội</i></p> <p>Soldiers <b>carry guns</b>; an army must <b>defend</b> the country <b>from attack</b> and <b>protect</b> the people; <b>fight</b> the <b>enemy</b>; a <b>war</b>; <b>battles</b>. <b>violence</b> (n.), <b>violent</b> (adj.).</p><p><i><b>mang súng, bảo vệ, tấn công, chiến đấu, kẻ thù, chiến tranh, trận đánh, bạo lực</b>.</i></p> <p><b>B. Reporting in war</b><br><i>B. Đưa tin chiến sự</i></p> <p><b>Ten people were killed when a bomb exploded in the heart of the city… destroyed several buildings; the army are searching the area… the attackers escaped… may be hiding; one soldier was shot; another is missing; the number of deaths.</b> Verb = noun: <b>search, escape, attack</b>.</p><p><i><b>bị giết, bom, nổ, phá hủy, lục soát, trốn, bị bắn, mất tích, số người chết</b>.</i></p>",
+ "items": [
+  {
+   "word": "carry",
+   "sense": "weapon",
+   "pos": "verb",
+   "ipa": "/ˈkæri/",
+   "def_en": "To have something with you, e.g. a gun.",
+   "def_vi": "Mang theo thứ gì, ví dụ súng.",
+   "gloss_vi": "mang (theo)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Carry</i> (verb) = mang (theo). <b>Grammar</b>: <i>carry – carried</i>.",
+   "example": {
+    "en": "These men are soldiers, and they are <b>carrying</b> guns.",
+    "vi": "Những người này là lính và họ đang <b>mang</b> súng."
+   }
+  },
+  {
+   "word": "defend",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪˈfend/",
+   "def_en": "To protect someone or something from attack.",
+   "def_vi": "Bảo vệ khỏi bị tấn công.",
+   "gloss_vi": "bảo vệ, phòng thủ",
+   "synonyms": "protect <i>(v. bảo vệ)</i>",
+   "antonyms": "attack <i>(v. tấn công)</i>",
+   "grammar_vi": "<i>Defend</i> (verb) = bảo vệ, phòng thủ. <b>Grammar</b>: <i>defend sth from/against sth</i>. <b>Word family</b>: <i>defence</i> (n.).",
+   "example": {
+    "en": "Part of the responsibility of an army is to <b>defend</b> their country from attack.",
+    "vi": "Một phần trách nhiệm của quân đội là <b>bảo vệ</b> đất nước khỏi bị tấn công."
+   }
+  },
+  {
+   "word": "fight",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/faɪt/",
+   "def_en": "To use force against someone in a war or battle.",
+   "def_vi": "Dùng vũ lực chống ai trong chiến tranh.",
+   "gloss_vi": "chiến đấu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fight</i> (verb) = chiến đấu. <b>Grammar</b>: <i>fight – fought – fought</i>.",
+   "example": {
+    "en": "Sometimes this means they have to <b>fight</b> the enemy.",
+    "vi": "Đôi khi họ phải <b>chiến đấu</b> với kẻ thù."
+   }
+  },
+  {
+   "word": "enemy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈenəmi/",
+   "def_en": "The people you are fighting against.",
+   "def_vi": "Những người bạn đang chiến đấu chống lại.",
+   "gloss_vi": "kẻ thù",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "ally <i>(n. đồng minh)</i>",
+   "grammar_vi": "<i>Enemy</i> (noun) = kẻ thù. <b>Grammar</b>: số nhiều <i>enemies</i>.",
+   "example": {
+    "en": "Sometimes this means they have to fight the <b>enemy</b>.",
+    "vi": "Đôi khi họ phải chiến đấu với <b>kẻ thù</b>."
+   }
+  },
+  {
+   "word": "war",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/wɔː(r)/",
+   "def_en": "A long period of fighting between countries.",
+   "def_vi": "Thời gian dài giao tranh giữa các nước.",
+   "gloss_vi": "chiến tranh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "peace <i>(n. hòa bình)</i>",
+   "grammar_vi": "<i>War</i> (noun) = chiến tranh. <b>Grammar</b>: <i>at war</i>; <i>the First World War</i>.",
+   "example": {
+    "en": "A long period of fighting is called a <b>war</b>.",
+    "vi": "Một thời gian dài giao tranh gọi là <b>chiến tranh</b>."
+   }
+  },
+  {
+   "word": "battle",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbætl/",
+   "def_en": "A fight between two armies.",
+   "def_vi": "Trận đánh giữa hai quân đội.",
+   "gloss_vi": "trận đánh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Battle</i> (noun) = trận đánh. <b>Grammar</b>: <i>a battle between/against</i>.",
+   "example": {
+    "en": "During a war there will be a number of <b>battles</b>.",
+    "vi": "Trong chiến tranh sẽ có nhiều <b>trận đánh</b>."
+   }
+  },
+  {
+   "word": "violence",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈvaɪələns/",
+   "def_en": "When someone tries to hurt or kill someone.",
+   "def_vi": "Khi ai cố làm hại hay giết người.",
+   "gloss_vi": "bạo lực",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Violence</i> (noun) = bạo lực. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "The <b>violence</b> has increased in recent weeks.",
+    "vi": "<b>Bạo lực</b> đã tăng trong những tuần gần đây."
+   }
+  },
+  {
+   "word": "violent",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈvaɪələnt/",
+   "def_en": "Using force to hurt or kill.",
+   "def_vi": "Dùng vũ lực làm hại hay giết.",
+   "gloss_vi": "bạo lực",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "peaceful <i>(adj. hòa bình)</i>",
+   "grammar_vi": "<i>Violent</i> (adjective) = bạo lực. <b>Grammar</b>: <i>violence</i> (n.) → <i>violent</i> (adj.).",
+   "example": {
+    "en": "There have been a number of <b>violent</b> attacks.",
+    "vi": "Đã có nhiều vụ tấn công <b>bạo lực</b>."
+   }
+  },
+  {
+   "word": "kill",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kɪl/",
+   "def_en": "To make someone die.",
+   "def_vi": "Làm ai chết.",
+   "gloss_vi": "giết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Kill</i> (verb) = giết. <b>Grammar</b>: <i>be killed</i> (trong tai nạn, chiến tranh).",
+   "example": {
+    "en": "Ten people were <b>killed</b> when a bomb exploded in the heart of the city.",
+    "vi": "Mười người <b>thiệt mạng</b> khi một quả bom phát nổ."
+   }
+  },
+  {
+   "word": "bomb",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bɒm/",
+   "def_en": "A weapon that explodes.",
+   "def_vi": "Vũ khí phát nổ.",
+   "gloss_vi": "bom",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bomb</i> (noun) = bom. <b>Grammar</b>: <i>b</i> cuối câm /bɒm/.",
+   "example": {
+    "en": "Ten people were killed when a <b>bomb</b> exploded.",
+    "vi": "Mười người thiệt mạng khi một quả <b>bom</b> phát nổ."
+   }
+  },
+  {
+   "word": "explode",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪkˈspləʊd/",
+   "def_en": "To burst with a loud noise.",
+   "def_vi": "Nổ tung với tiếng lớn.",
+   "gloss_vi": "nổ",
+   "synonyms": "blow up <i>(pv. nổ tung)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Explode</i> (verb) = nổ. <b>Grammar</b>: <i>explosion</i> (n.).",
+   "example": {
+    "en": "Ten people were killed when a bomb <b>exploded</b>.",
+    "vi": "Mười người thiệt mạng khi một quả bom <b>phát nổ</b>."
+   }
+  },
+  {
+   "word": "search",
+   "sense": "place",
+   "pos": "verb",
+   "ipa": "/sɜːtʃ/",
+   "def_en": "To try to find someone or something.",
+   "def_vi": "Cố tìm ai hay thứ gì.",
+   "gloss_vi": "lục soát, tìm kiếm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Search</i> (verb) = lục soát, tìm kiếm. <b>Grammar</b>: <i>search a place (for sb)</i>; danh từ <i>search</i>.",
+   "example": {
+    "en": "The army are now <b>searching</b> the area where the attack took place.",
+    "vi": "Quân đội đang <b>lục soát</b> khu vực nơi vụ tấn công xảy ra."
+   }
+  },
+  {
+   "word": "hide",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/haɪd/",
+   "def_en": "To stay in a place where you cannot be seen or found.",
+   "def_vi": "Ở nơi không bị thấy hay tìm ra.",
+   "gloss_vi": "trốn, ẩn náu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hide</i> (verb) = trốn, ẩn náu. <b>Grammar</b>: <i>hide – hid – hidden</i>.",
+   "example": {
+    "en": "The army believe they may still be <b>hiding</b> in other parts of the city.",
+    "vi": "Quân đội tin rằng chúng vẫn đang <b>ẩn náu</b> ở nơi khác trong thành phố."
+   }
+  },
+  {
+   "word": "shoot",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ʃuːt/",
+   "def_en": "To injure someone with a gun.",
+   "def_vi": "Làm ai bị thương bằng súng.",
+   "gloss_vi": "bắn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shoot</i> (verb) = bắn. <b>Grammar</b>: <i>shoot – shot – shot</i>.",
+   "example": {
+    "en": "During the attack, one soldier was <b>shot</b> and later died.",
+    "vi": "Trong vụ tấn công, một người lính <b>bị bắn</b> và sau đó tử vong."
+   }
+  },
+  {
+   "word": "missing",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈmɪsɪŋ/",
+   "def_en": "Not known where someone or something is.",
+   "def_vi": "Không biết ai/vật đang ở đâu.",
+   "gloss_vi": "mất tích",
+   "synonyms": "lost <i>(adj. mất)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Missing</i> (adjective) = mất tích. <b>Grammar</b>: <i>go missing</i>.",
+   "example": {
+    "en": "It also appears that another soldier is <b>missing</b>.",
+    "vi": "Có vẻ một người lính khác đang <b>mất tích</b>."
+   }
+  },
+  {
+   "word": "death",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/deθ/",
+   "def_en": "A person who has died.",
+   "def_vi": "Người đã chết.",
+   "gloss_vi": "cái chết, số người chết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "birth <i>(n. sự ra đời)</i>",
+   "grammar_vi": "<i>Death</i> (noun) = cái chết, số người chết. <b>Grammar</b>: <i>die</i> (v.) → <i>dead</i> (adj.) → <i>death</i> (n.).",
+   "example": {
+    "en": "The number of <b>deaths</b> is expected to rise.",
+    "vi": "<b>Số người chết</b> được dự đoán sẽ tăng."
+   }
+  }
+ ]
+}
