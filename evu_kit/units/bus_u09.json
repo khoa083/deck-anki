@@ -1,0 +1,250 @@
+{
+ "book": "bus",
+ "unit": 9,
+ "title_vi": "Quản lý, giám đốc điều hành và giám đốc",
+ "theory_html": "<p><b>A. Managers and executives: UK</b><br><i>A. Quản lý và lãnh đạo: Anh</i></p> <p>Organigram: <b>chairman / chairwoman, chief executive / managing director, finance director, marketing / human resources / IT / research director, senior / top executives / executive directors, middle managers, line managers</b>; <b>the board, boardroom, non-executive directors, head of (marketing), head / head up, boss, executive (exec), senior executive</b>. Note: <b>executive</b> can suggest luxury (<b>executive car, executive home</b>).</p><p><i><b>chủ tịch, tổng giám đốc, giám đốc tài chính/marketing/nhân sự/IT/nghiên cứu, lãnh đạo cấp cao, quản lý cấp trung, quản lý trực tiếp; hội đồng quản trị, phòng họp hội đồng, giám đốc không điều hành, trưởng bộ phận, đứng đầu, sếp, lãnh đạo</b>.</i></p> <p><b>B. Managers and executives: US</b><br><i>B. Quản lý và lãnh đạo: Mỹ</i></p> <p><b>chairman / chairwoman / president, chief executive officer (CEO), chief operating officer (COO), chief financial officer (CFO), vice presidents (VPs)</b>.</p><p><i><b>chủ tịch, tổng giám đốc điều hành, giám đốc vận hành, giám đốc tài chính, phó chủ tịch</b>.</i></p>",
+ "items": [
+  {
+   "word": "chairman",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtʃeəmən/",
+   "def_en": "The person in the top position on the board.",
+   "def_vi": "Người đứng đầu hội đồng quản trị.",
+   "gloss_vi": "chủ tịch",
+   "synonyms": "chairwoman <i>(n. nữ chủ tịch)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chairman</i> (noun) = chủ tịch. <b>Grammar</b>: trung tính <i>chair, chairperson</i>.",
+   "example": {
+    "en": "In the US, the top position may be that of <b>chairman</b>, chairwoman or president.",
+    "vi": "Ở Mỹ vị trí cao nhất có thể là <b>chủ tịch</b>."
+   }
+  },
+  {
+   "word": "managing director",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmænɪdʒɪŋ dəˈrektə(r)/",
+   "def_en": "The person in charge of running a company (UK).",
+   "def_vi": "Người điều hành công ty (Anh).",
+   "gloss_vi": "tổng giám đốc",
+   "synonyms": "chief executive <i>(n. tổng giám đốc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Managing director</i> (noun) = tổng giám đốc. <b>Grammar</b>: Anh; Mỹ <i>CEO</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>managing director</b> runs the company day to day.",
+    "vi": "<b>Tổng giám đốc</b> điều hành công ty hằng ngày."
+   }
+  },
+  {
+   "word": "board",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bɔːd/",
+   "def_en": "All the directors of a company together.",
+   "def_vi": "Tất cả giám đốc công ty.",
+   "gloss_vi": "hội đồng quản trị",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Board</i> (noun) = hội đồng quản trị. <b>Collocations / chunks</b>: <i>on the board</i>.",
+   "example": {
+    "en": "All the directors together are the <b>board</b>.",
+    "vi": "Tất cả giám đốc hợp thành <b>hội đồng quản trị</b>."
+   }
+  },
+  {
+   "word": "boardroom",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɔːdruːm/",
+   "def_en": "The room where the board meets.",
+   "def_vi": "Phòng họp của hội đồng quản trị.",
+   "gloss_vi": "phòng họp hội đồng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Boardroom</i> (noun) = phòng họp hội đồng. <b>Grammar</b>: danh từ ghép <i>board</i> + <i>room</i>.",
+   "example": {
+    "en": "They meet in the <b>boardroom</b>.",
+    "vi": "Họ họp ở <b>phòng họp hội đồng</b>."
+   }
+  },
+  {
+   "word": "non-executive director",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌnɒn ɪɡˌzekjətɪv dəˈrektə(r)/",
+   "def_en": "A director who is not a manager of the company but an outsider with specialist knowledge.",
+   "def_vi": "Giám đốc không quản lý công ty, người ngoài có chuyên môn.",
+   "gloss_vi": "giám đốc không điều hành",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Non-executive director</i> (noun) = giám đốc không điều hành. <b>Grammar</b>: tiền tố <i>non-</i>.",
+   "example": {
+    "en": "<b>Non-executive directors</b> are not managers of the company; they are outsiders",
+    "vi": "<b>Giám đốc không điều hành</b> là người ngoài có chuyên môn."
+   }
+  },
+  {
+   "word": "head of",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhed əv/",
+   "def_en": "The person in charge of a department.",
+   "def_vi": "Người phụ trách một bộ phận.",
+   "gloss_vi": "trưởng bộ phận",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Head of</i> (noun) = trưởng bộ phận. <b>Collocations / chunks</b>: <i>head of marketing/IT</i>.",
+   "example": {
+    "en": "The marketing director is the <b>head of</b> marketing",
+    "vi": "Giám đốc marketing là <b>trưởng bộ phận</b> marketing."
+   }
+  },
+  {
+   "word": "head up",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌhed ˈʌp/",
+   "def_en": "To be in charge of (a department).",
+   "def_vi": "Phụ trách (bộ phận).",
+   "gloss_vi": "đứng đầu",
+   "synonyms": "head <i>(v. đứng đầu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Head up</i> (verb) = đứng đầu. <b>Grammar</b>: cũng <i>head</i> (động từ).",
+   "example": {
+    "en": "These people head or <b>head up</b> their departments.",
+    "vi": "Những người này <b>đứng đầu</b> các bộ phận."
+   }
+  },
+  {
+   "word": "boss",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bɒs/",
+   "def_en": "The head of an activity, department or organization (informal).",
+   "def_vi": "Người đứng đầu (thân mật).",
+   "gloss_vi": "sếp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Boss</i> (noun) = sếp. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "Informally, the head of an activity, a department or an organization is its <b>boss</b>.",
+    "vi": "Người đứng đầu một tổ chức thân mật gọi là <b>sếp</b>."
+   }
+  },
+  {
+   "word": "executive",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪɡˈzekjətɪv/",
+   "def_en": "A high-level manager.",
+   "def_vi": "Quản lý cấp cao.",
+   "gloss_vi": "lãnh đạo, giám đốc điều hành",
+   "synonyms": "exec <i>(n. sếp lớn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Executive</i> (noun) = lãnh đạo, giám đốc điều hành. <b>Collocations / chunks</b>: <i>senior executive</i>; <i>executive car/home</i> = sang trọng.",
+   "example": {
+    "en": "An <b>executive</b>, or informally, an exec, is usually a high-level manager",
+    "vi": "<b>Lãnh đạo</b> thường là quản lý cấp cao."
+   }
+  },
+  {
+   "word": "middle managers",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmɪdl ˈmænɪdʒəz/",
+   "def_en": "Managers below senior executives.",
+   "def_vi": "Quản lý dưới cấp lãnh đạo cao.",
+   "gloss_vi": "quản lý cấp trung",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Middle managers</i> (noun) = quản lý cấp trung. <b>Collocations / chunks</b>: cụm danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Middle managers</b> report to senior executives.",
+    "vi": "Dưới lãnh đạo cấp cao là <b>quản lý cấp trung</b>."
+   }
+  },
+  {
+   "word": "line managers",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlaɪn ˌmænɪdʒəz/",
+   "def_en": "Managers directly responsible for employees, e.g. in branches.",
+   "def_vi": "Quản lý trực tiếp nhân viên, vd ở chi nhánh.",
+   "gloss_vi": "quản lý trực tiếp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Line managers</i> (noun) = quản lý trực tiếp. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "<b>line managers</b> (in travel agency branches)",
+    "vi": "<b>Quản lý trực tiếp</b> ở các chi nhánh đại lý du lịch."
+   }
+  },
+  {
+   "word": "CEO",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsiː iː ˈəʊ/",
+   "def_en": "Chief executive officer: the top manager of a company (US).",
+   "def_vi": "Tổng giám đốc điều hành (Mỹ).",
+   "gloss_vi": "tổng giám đốc điều hành",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>CEO</i> (noun) = tổng giám đốc điều hành. <b>Grammar</b>: viết tắt <i>chief executive officer</i>.",
+   "example": {
+    "en": "This job is often combined with the position of chief executive officer (<b>CEO</b>).",
+    "vi": "Vị trí này thường kết hợp với chức <b>tổng giám đốc điều hành</b>."
+   }
+  },
+  {
+   "word": "chief operating officer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌtʃiːf ˈɒpəreɪtɪŋ ˌɒfɪsə(r)/",
+   "def_en": "A manager who takes care of the day-to-day running of the company (COO).",
+   "def_vi": "Người lo vận hành hằng ngày (COO).",
+   "gloss_vi": "giám đốc vận hành",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chief operating officer</i> (noun) = giám đốc vận hành. <b>Grammar</b>: viết tắt <i>COO</i>.",
+   "example": {
+    "en": "Some companies have a <b>chief operating officer</b> to take care of the day-to-day running of the company.",
+    "vi": "Vài công ty có <b>giám đốc vận hành</b> lo hoạt động hằng ngày."
+   }
+  },
+  {
+   "word": "chief financial officer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌtʃiːf faɪˌnænʃl ˈɒfɪsə(r)/",
+   "def_en": "The finance director (US) (CFO).",
+   "def_vi": "Giám đốc tài chính (Mỹ) (CFO).",
+   "gloss_vi": "giám đốc tài chính",
+   "synonyms": "finance director <i>(n. giám đốc tài chính)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chief financial officer</i> (noun) = giám đốc tài chính. <b>Grammar</b>: viết tắt <i>CFO</i>.",
+   "example": {
+    "en": "The finance director may be called the <b>chief financial officer</b> (CFO).",
+    "vi": "Giám đốc tài chính có thể gọi là <b>CFO</b>."
+   }
+  },
+  {
+   "word": "vice president",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌvaɪs ˈprezɪdənt/",
+   "def_en": "A senior manager in charge of a particular area (US) (VP).",
+   "def_vi": "Quản lý cấp cao phụ trách một mảng (Mỹ).",
+   "gloss_vi": "phó chủ tịch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Vice president</i> (noun) = phó chủ tịch. <b>Grammar</b>: viết tắt <i>VP</i>.",
+   "example": {
+    "en": "the senior managers in charge of particular areas are often called <b>vice presidents</b> (VPs)",
+    "vi": "Ở Mỹ, quản lý cấp cao phụ trách mảng thường gọi là <b>phó chủ tịch</b>."
+   }
+  }
+ ]
+}

@@ -1,0 +1,457 @@
+{
+ "book": "bus",
+ "unit": 7,
+ "title_vi": "Công ty và sự nghiệp",
+ "theory_html": "<p><b>A. Career paths</b><br><i>A. Con đường sự nghiệp</i></p> <p><b>retirement, retire, career paths, work your way up the career ladder, promotion, senior, demoted</b>.</p><p><i><b>nghỉ hưu, về hưu, con đường sự nghiệp, leo dần nấc thang sự nghiệp, thăng chức, cấp cao, bị giáng chức</b>.</i></p> <p><b>B. Company structure</b><br><i>B. Cơ cấu công ty</i></p> <p><b>restructure, flatter, leaner, company hierarchy, downsize, delayer, downsizing, restructuring, efficiency, profits</b>.</p><p><i><b>tái cơ cấu, phẳng hơn, tinh gọn hơn, hệ thống cấp bậc, cắt giảm quy mô, giảm tầng quản lý, hiệu quả, lợi nhuận</b>.</i></p> <p><b>C. In-house staff or freelancers?</b><br><i>C. Nhân viên nội bộ hay làm tự do?</i></p> <p><b>outsource, in-house, freelancers (freelances), contractors, temporary contracts, flexibility, job insecurity, performance reviews</b>.</p><p><i><b>thuê ngoài, nội bộ, người làm tự do, nhà thầu, hợp đồng tạm thời, linh hoạt, bấp bênh việc làm, đánh giá hiệu suất</b>.</i></p> <p><b>D. Leaving a company</b><br><i>D. Rời công ty</i></p> <p><b>resign, hand in your notice</b>; did wrong: <b>dismissed, terminated, fired, sacked / given the sack</b> (informal; <b>sacked</b> BrE); did nothing wrong: <b>laid off, made redundant, offered early retirement</b>; <b>outplacement</b>.</p><p><i><b>từ chức, nộp đơn nghỉ</b>; có lỗi: <b>bị sa thải, chấm dứt hợp đồng, bị đuổi</b>; không lỗi: <b>bị cho nghỉ, bị cắt giảm, được mời nghỉ hưu sớm</b>; <b>hỗ trợ tìm việc mới</b>.</i></p>",
+ "items": [
+  {
+   "word": "retirement",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˈtaɪəmənt/",
+   "def_en": "The age at which people end their working life.",
+   "def_vi": "Tuổi người ta thôi làm việc.",
+   "gloss_vi": "nghỉ hưu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Retirement</i> (noun) = nghỉ hưu. <b>Grammar</b>: động từ <i>retire</i>.",
+   "example": {
+    "en": "Many people used to work for the same organization until they reached <b>retirement</b>",
+    "vi": "Nhiều người từng làm cho một tổ chức đến khi <b>nghỉ hưu</b>."
+   }
+  },
+  {
+   "word": "career path",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəˈrɪə pɑːθ/",
+   "def_en": "The way your career develops through different jobs.",
+   "def_vi": "Cách sự nghiệp phát triển qua các vị trí.",
+   "gloss_vi": "con đường sự nghiệp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Career path</i> (noun) = con đường sự nghiệp. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "<b>Career paths</b> were clear",
+    "vi": "<b>Con đường sự nghiệp</b> từng rất rõ ràng."
+   }
+  },
+  {
+   "word": "work your way up the career ladder",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌwɜːk jə ˌweɪ ʌp ðə kəˈrɪə ˌlædə(r)/",
+   "def_en": "To get promoted to more senior jobs over time.",
+   "def_vi": "Dần được thăng lên vị trí cao hơn.",
+   "gloss_vi": "leo dần nấc thang sự nghiệp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Work your way up the career ladder</i> (verb) = leo dần nấc thang sự nghiệp. <b>Collocations / chunks</b>: thành ngữ <i>career ladder</i>.",
+   "example": {
+    "en": "you could <b>work your way up the career ladder</b>",
+    "vi": "Bạn có thể <b>leo dần nấc thang sự nghiệp</b>."
+   }
+  },
+  {
+   "word": "promotion",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/prəˈməʊʃn/",
+   "def_en": "A move to a more senior job.",
+   "def_vi": "Sự chuyển lên vị trí cao hơn.",
+   "gloss_vi": "sự thăng chức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "demotion <i>(n. giáng chức)</i>",
+   "grammar_vi": "<i>Promotion</i> (noun) = sự thăng chức. <b>Grammar</b>: động từ <i>promote</i>.",
+   "example": {
+    "en": "getting <b>promotion</b> to jobs that were more senior",
+    "vi": "Bạn được <b>thăng chức</b> lên vị trí cao hơn."
+   }
+  },
+  {
+   "word": "senior",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsiːniə(r)/",
+   "def_en": "More important with greater responsibility.",
+   "def_vi": "Quan trọng hơn, trách nhiệm lớn hơn.",
+   "gloss_vi": "cấp cao",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "junior <i>(adj. cấp dưới)</i>",
+   "grammar_vi": "<i>Senior</i> (adjective) = cấp cao. <b>Collocations / chunks</b>: <i>senior manager/executive</i>.",
+   "example": {
+    "en": "jobs that were more <b>senior</b> – more important with greater responsibility",
+    "vi": "Những công việc <b>cấp cao</b> hơn."
+   }
+  },
+  {
+   "word": "demote",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪˈməʊt/",
+   "def_en": "To move to a less senior job.",
+   "def_vi": "Chuyển xuống vị trí thấp hơn.",
+   "gloss_vi": "giáng chức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "promote <i>(v. thăng chức)</i>",
+   "grammar_vi": "<i>Demote</i> (verb) = giáng chức. <b>Grammar</b>: danh từ <i>demotion</i>.",
+   "example": {
+    "en": "You would probably not be <b>demoted</b> – moved to a less senior job.",
+    "vi": "Bạn có lẽ không bị <b>giáng chức</b>."
+   }
+  },
+  {
+   "word": "restructure",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌriːˈstrʌktʃə(r)/",
+   "def_en": "To change the way a company is organized.",
+   "def_vi": "Thay đổi cách tổ chức công ty.",
+   "gloss_vi": "tái cơ cấu",
+   "synonyms": "reorganize <i>(v. tái tổ chức)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Restructure</i> (verb) = tái cơ cấu. <b>Grammar</b>: danh từ <i>restructuring</i>.",
+   "example": {
+    "en": "Tel Italia has reorganized and <b>restructured</b>",
+    "vi": "Tel Italia đã tái tổ chức và <b>tái cơ cấu</b>."
+   }
+  },
+  {
+   "word": "flatter",
+   "sense": "fewer management layers",
+   "pos": "adjective",
+   "ipa": "/ˈflætə(r)/",
+   "def_en": "With fewer layers of management.",
+   "def_vi": "Ít tầng quản lý hơn.",
+   "gloss_vi": "phẳng hơn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flatter</i> (adjective) = phẳng hơn. <b>Grammar</b>: so sánh hơn của <i>flat</i>.",
+   "example": {
+    "en": "in order to become <b>flatter</b> – with fewer layers of management",
+    "vi": "Để trở nên <b>phẳng hơn</b> – ít tầng quản lý."
+   }
+  },
+  {
+   "word": "leaner",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈliːnə(r)/",
+   "def_en": "With fewer, more productive employees.",
+   "def_vi": "Ít nhân viên hơn nhưng năng suất hơn.",
+   "gloss_vi": "tinh gọn hơn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Leaner</i> (adjective) = tinh gọn hơn. <b>Grammar</b>: so sánh hơn của <i>lean</i>.",
+   "example": {
+    "en": "and <b>leaner</b> – with fewer, more productive employees",
+    "vi": "Và <b>tinh gọn hơn</b> – ít nhân viên, năng suất hơn."
+   }
+  },
+  {
+   "word": "company hierarchy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkʌmpəni ˈhaɪərɑːki/",
+   "def_en": "The levels of management in a company.",
+   "def_vi": "Các cấp quản lý trong công ty.",
+   "gloss_vi": "hệ thống cấp bậc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Company hierarchy</i> (noun) = hệ thống cấp bậc. <b>Grammar</b>: tính từ <i>hierarchical</i>.",
+   "example": {
+    "en": "The number of management levels in the <b>company hierarchy</b> has been reduced",
+    "vi": "Số cấp quản lý trong <b>hệ thống cấp bậc</b> đã giảm."
+   }
+  },
+  {
+   "word": "downsize",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈdaʊnsaɪz/",
+   "def_en": "To reduce the number of employees.",
+   "def_vi": "Giảm số nhân viên.",
+   "gloss_vi": "cắt giảm quy mô",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Downsize</i> (verb) = cắt giảm quy mô. <b>Grammar</b>: danh từ <i>downsizing</i>.",
+   "example": {
+    "en": "Tel Italia has <b>downsized</b> and delayered",
+    "vi": "Để giảm chi phí, Tel Italia đã <b>cắt giảm quy mô</b>."
+   }
+  },
+  {
+   "word": "delayer",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌdiːˈleɪə(r)/",
+   "def_en": "To reduce the number of management levels.",
+   "def_vi": "Giảm số tầng quản lý.",
+   "gloss_vi": "giảm tầng quản lý",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Delayer</i> (verb) = giảm tầng quản lý. <b>Grammar</b>: tiền tố <i>de-</i> + <i>layer</i>.",
+   "example": {
+    "en": "Tel Italia has downsized and <b>delayered</b>",
+    "vi": "Tel Italia đã cắt giảm và <b>giảm tầng quản lý</b>."
+   }
+  },
+  {
+   "word": "efficiency",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪˈfɪʃnsi/",
+   "def_en": "Working well without wasting time or money.",
+   "def_vi": "Làm tốt không lãng phí thời gian, tiền.",
+   "gloss_vi": "hiệu quả",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Efficiency</i> (noun) = hiệu quả. <b>Grammar</b>: tính từ <i>efficient</i>.",
+   "example": {
+    "en": "necessary to reduce costs, increasing <b>efficiency</b> and profits",
+    "vi": "Cắt giảm là cần để tăng <b>hiệu quả</b> và lợi nhuận."
+   }
+  },
+  {
+   "word": "outsource",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈaʊtsɔːs/",
+   "def_en": "To use outside companies to do work previously done in-house.",
+   "def_vi": "Thuê công ty ngoài làm việc trước đây làm nội bộ.",
+   "gloss_vi": "thuê ngoài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Outsource</i> (verb) = thuê ngoài. <b>Grammar</b>: danh từ <i>outsourcing</i>.",
+   "example": {
+    "en": "Companies that downsize often <b>outsource</b> many jobs previously done by in-house personnel",
+    "vi": "Công ty cắt giảm thường <b>thuê ngoài</b> nhiều việc."
+   }
+  },
+  {
+   "word": "in-house",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɪn ˈhaʊs/",
+   "def_en": "Working within a company.",
+   "def_vi": "Làm trong nội bộ công ty.",
+   "gloss_vi": "nội bộ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In-house</i> (adjective) = nội bộ. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "many jobs previously done by <b>in-house</b> personnel",
+    "vi": "Việc trước đây do nhân viên <b>nội bộ</b> làm."
+   }
+  },
+  {
+   "word": "freelancer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfriːlɑːnsə(r)/",
+   "def_en": "An independent person who works for several different companies.",
+   "def_vi": "Người độc lập làm cho nhiều công ty.",
+   "gloss_vi": "người làm tự do",
+   "synonyms": "freelance <i>(n. người làm tự do)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Freelancer</i> (noun) = người làm tự do. <b>Grammar</b>: cũng <i>freelances</i>.",
+   "example": {
+    "en": "Downsized companies use more <b>freelancers</b> – independent people who work for several different companies",
+    "vi": "Công ty cắt giảm dùng nhiều <b>người làm tự do</b> hơn."
+   }
+  },
+  {
+   "word": "contractor",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kənˈtræktə(r)/",
+   "def_en": "A person or company paid to do work for a short period.",
+   "def_vi": "Người/công ty làm việc theo hợp đồng ngắn hạn.",
+   "gloss_vi": "nhà thầu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Contractor</i> (noun) = nhà thầu. <b>Grammar</b>: danh từ <i>contract</i>.",
+   "example": {
+    "en": "they may ask <b>contractors</b> to work for short periods on temporary contracts",
+    "vi": "Họ có thể nhờ <b>nhà thầu</b> làm ngắn hạn."
+   }
+  },
+  {
+   "word": "temporary contract",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌtemprəri ˈkɒntrækt/",
+   "def_en": "A contract for a fixed short period.",
+   "def_vi": "Hợp đồng ngắn hạn cố định.",
+   "gloss_vi": "hợp đồng tạm thời",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "permanent contract <i>(n. hợp đồng dài hạn)</i>",
+   "grammar_vi": "<i>Temporary contract</i> (noun) = hợp đồng tạm thời. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "to work for short periods on <b>temporary contracts</b>",
+    "vi": "Làm trong thời gian ngắn theo <b>hợp đồng tạm thời</b>."
+   }
+  },
+  {
+   "word": "job insecurity",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdʒɒb ˌɪnsɪˌkjʊərəti/",
+   "def_en": "The feeling that you may not be in your job for long.",
+   "def_vi": "Cảm giác có thể mất việc sớm.",
+   "gloss_vi": "sự bấp bênh việc làm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "job security <i>(n. an toàn việc làm)</i>",
+   "grammar_vi": "<i>Job insecurity</i> (noun) = sự bấp bênh việc làm. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "for many employees, this means <b>job insecurity</b>",
+    "vi": "Với nhiều nhân viên, điều này nghĩa là <b>bấp bênh việc làm</b>."
+   }
+  },
+  {
+   "word": "performance review",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pəˈfɔːməns rɪˌvjuː/",
+   "def_en": "A regular meeting with your manager about how you are doing your job.",
+   "def_vi": "Cuộc họp định kỳ với quản lý về hiệu quả làm việc.",
+   "gloss_vi": "đánh giá hiệu suất",
+   "synonyms": "appraisal <i>(n. đánh giá)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Performance review</i> (noun) = đánh giá hiệu suất. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "The way that an employee is doing their job is discussed at <b>performance reviews</b>",
+    "vi": "Cách làm việc được bàn ở các buổi <b>đánh giá hiệu suất</b>."
+   }
+  },
+  {
+   "word": "resign",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rɪˈzaɪn/",
+   "def_en": "To leave a company by choice.",
+   "def_vi": "Tự rời công ty.",
+   "gloss_vi": "từ chức, xin nghỉ",
+   "synonyms": "hand in your notice <i>(v. nộp đơn nghỉ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Resign</i> (verb) = từ chức, xin nghỉ. <b>Grammar</b>: danh từ <i>resignation</i>.",
+   "example": {
+    "en": "To leave a company, you can <b>resign</b> or hand in your notice.",
+    "vi": "Để rời công ty, bạn có thể <b>xin nghỉ</b>."
+   }
+  },
+  {
+   "word": "hand in your notice",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌhænd ɪn jə ˈnəʊtɪs/",
+   "def_en": "To tell your employer you are leaving.",
+   "def_vi": "Báo với chủ là mình nghỉ.",
+   "gloss_vi": "nộp đơn xin nghỉ",
+   "synonyms": "resign <i>(v. từ chức)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hand in your notice</i> (verb) = nộp đơn xin nghỉ. <b>Collocations / chunks</b>: cụm cố định.",
+   "example": {
+    "en": "you can resign or <b>hand in your notice</b>",
+    "vi": "Bạn có thể từ chức hoặc <b>nộp đơn xin nghỉ</b>."
+   }
+  },
+  {
+   "word": "dismiss",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪsˈmɪs/",
+   "def_en": "To force someone to leave a company because they did something wrong.",
+   "def_vi": "Buộc ai rời công ty vì làm sai.",
+   "gloss_vi": "sa thải",
+   "synonyms": "fire <i>(v. đuổi việc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dismiss</i> (verb) = sa thải. <b>Grammar</b>: danh từ <i>dismissal</i>.",
+   "example": {
+    "en": "If you do something wrong and are forced to leave a company, you are: <b>dismissed</b>",
+    "vi": "Nếu làm sai và bị buộc nghỉ, bạn bị <b>sa thải</b>."
+   }
+  },
+  {
+   "word": "terminate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈtɜːmɪneɪt/",
+   "def_en": "To end (someone’s employment).",
+   "def_vi": "Chấm dứt (việc làm của ai).",
+   "gloss_vi": "chấm dứt (hợp đồng)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Terminate</i> (verb) = chấm dứt (hợp đồng). <b>Collocations / chunks</b>: <i>contract has been terminated</i>.",
+   "example": {
+    "en": "You can also say that someone’s contract has been <b>terminated</b>.",
+    "vi": "Hợp đồng của anh ta đã bị <b>chấm dứt</b>."
+   }
+  },
+  {
+   "word": "sack",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/sæk/",
+   "def_en": "To dismiss (informal, BrE).",
+   "def_vi": "Sa thải (thân mật, Anh).",
+   "gloss_vi": "đuổi việc",
+   "synonyms": "fire <i>(v. đuổi việc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sack</i> (verb) = đuổi việc. <b>Grammar</b>: thân mật, Anh; cũng <i>give sb the sack</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He was <b>sacked</b> for always being late.",
+    "vi": "Anh ta bị <b>đuổi việc</b> vì đi trễ hoài."
+   }
+  },
+  {
+   "word": "made redundant",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌmeɪd rɪˈdʌndənt/",
+   "def_en": "Forced to leave because your job is no longer needed (not your fault).",
+   "def_vi": "Buộc nghỉ vì việc không còn cần (không lỗi).",
+   "gloss_vi": "bị cắt giảm biên chế",
+   "synonyms": "laid off <i>(adj. bị cho nghỉ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Made redundant</i> (adjective) = bị cắt giảm biên chế. <b>Grammar</b>: danh từ <i>redundancy</i>.",
+   "example": {
+    "en": "If you’ve done nothing wrong, you are: laid off, <b>made redundant</b> or offered early retirement.",
+    "vi": "Nếu không làm gì sai, bạn bị cho nghỉ hoặc <b>bị cắt giảm biên chế</b>."
+   }
+  },
+  {
+   "word": "early retirement",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɜːli rɪˈtaɪəmənt/",
+   "def_en": "Retiring before the usual age.",
+   "def_vi": "Nghỉ hưu trước tuổi.",
+   "gloss_vi": "nghỉ hưu sớm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Early retirement</i> (noun) = nghỉ hưu sớm. <b>Collocations / chunks</b>: <i>take/be offered early retirement</i>.",
+   "example": {
+    "en": "or offered <b>early retirement</b>",
+    "vi": "Hoặc được mời <b>nghỉ hưu sớm</b>."
+   }
+  },
+  {
+   "word": "outplacement",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈaʊtpleɪsmənt/",
+   "def_en": "Advice about how to find another job, retraining, etc. for employees made redundant.",
+   "def_vi": "Tư vấn tìm việc mới, đào tạo lại cho người bị cắt giảm.",
+   "gloss_vi": "hỗ trợ tìm việc mới",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Outplacement</i> (noun) = hỗ trợ tìm việc mới. <b>Grammar</b>: tiền tố <i>out-</i> + <i>placement</i>.",
+   "example": {
+    "en": "Employees who are made redundant may get <b>outplacement</b>",
+    "vi": "Người bị cắt giảm có thể được <b>hỗ trợ tìm việc mới</b>."
+   }
+  }
+ ]
+}
