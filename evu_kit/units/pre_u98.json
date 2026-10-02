@@ -1,0 +1,216 @@
+{
+ "book": "pre",
+ "unit": 98,
+ "title_vi": "Thư và email trang trọng",
+ "theory_html": "<p><b>A. A formal letter</b><br><i>A. Thư trang trọng</i></p> <p><b>Dear Sir or Madam; I am writing in response to…; graduates; I would be grateful if you could…; details; available; I look forward to hearing from you; Yours faithfully</b> (name unknown) / <b>Yours sincerely, Kind regards</b> (name known); <b>signature, sign</b>.</p><p><i><b>Kính gửi; tôi viết thư để phản hồi; người tốt nghiệp; tôi rất biết ơn nếu; chi tiết; rảnh; mong hồi âm; trân trọng</b>.</i></p> <p><b>B. Useful words and phrases</b><br><i>B. Từ và cụm hữu ích</i></p> <p><b>regarding; I regret to inform you; application; I am pleased to inform you; enquire about; confirm in writing; thank you for; support; apologise for / please accept our apologies for; delay; enclose</b>.</p><p><i><b>về; rất tiếc phải báo; đơn; vui mừng báo; hỏi về; xác nhận bằng văn bản; cảm ơn; hỗ trợ; xin lỗi; chậm trễ; gửi kèm</b>.</i></p>",
+ "items": [
+  {
+   "word": "Dear Sir or Madam",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌdɪə ˌsɜːr ɔː ˈmædəm/",
+   "def_en": "The beginning of a letter when you don’t know the person’s name.",
+   "def_vi": "Mở đầu thư khi không biết tên người nhận.",
+   "gloss_vi": "Kính gửi Ông/Bà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dear Sir or Madam</i> (phrase) = Kính gửi Ông/Bà. <b>Grammar</b>: kết thư bằng <i>Yours faithfully</i>.",
+   "example": {
+    "en": "<b>Dear Sir or Madam</b>",
+    "vi": "<b>Kính gửi Ông/Bà</b>"
+   }
+  },
+  {
+   "word": "in response to",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪn rɪˈspɒns tə/",
+   "def_en": "In reply to.",
+   "def_vi": "Để trả lời.",
+   "gloss_vi": "để phản hồi",
+   "synonyms": "in reply to <i>(phr. để trả lời)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In response to</i> (phrase) = để phản hồi. <b>Grammar</b>: trang trọng.",
+   "example": {
+    "en": "I am writing <b>in response to</b> your advertisement about job opportunities for graduates.",
+    "vi": "Tôi viết thư <b>để phản hồi</b> quảng cáo của quý vị về cơ hội việc làm."
+   }
+  },
+  {
+   "word": "I would be grateful if you could",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/aɪ wʊd bi ˈɡreɪtfl ɪf juː kʊd/",
+   "def_en": "A polite and formal way to ask for something.",
+   "def_vi": "Cách lịch sự trang trọng để đề nghị.",
+   "gloss_vi": "tôi rất biết ơn nếu quý vị có thể",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>I would be grateful if you could</i> (phrase) = tôi rất biết ơn nếu quý vị có thể. <b>Grammar</b>: lịch sự hơn <i>Please could you…</i>.",
+   "example": {
+    "en": "<b>I would be grateful if you could</b> send me further details.",
+    "vi": "<b>Tôi rất biết ơn nếu quý vị có thể</b> gửi thêm thông tin chi tiết."
+   }
+  },
+  {
+   "word": "details",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈdiːteɪlz/",
+   "def_en": "Information about something.",
+   "def_vi": "Thông tin về điều gì.",
+   "gloss_vi": "thông tin chi tiết",
+   "synonyms": "information <i>(n. thông tin)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Details</i> (plural noun) = thông tin chi tiết. <b>Grammar</b>: danh từ số nhiều.",
+   "example": {
+    "en": "I would be grateful if you could send me further <b>details</b> of the graduate training schemes.",
+    "vi": "Tôi rất biết ơn nếu quý vị gửi thêm <b>thông tin chi tiết</b> về chương trình đào tạo."
+   }
+  },
+  {
+   "word": "available",
+   "sense": "person",
+   "pos": "adjective",
+   "ipa": "/əˈveɪləbl/",
+   "def_en": "Free to do something.",
+   "def_vi": "Rảnh để làm gì.",
+   "gloss_vi": "rảnh, sẵn sàng",
+   "synonyms": "free <i>(adj. rảnh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Available</i> (adjective) = rảnh, sẵn sàng. <b>Grammar</b>: <i>available for interview</i>. <b>Common mistakes</b>: (phòng) còn trống (u48).",
+   "example": {
+    "en": "I am <b>available</b> for interview at any time.",
+    "vi": "Tôi <b>sẵn sàng</b> phỏng vấn bất cứ lúc nào."
+   }
+  },
+  {
+   "word": "look forward to hearing from you",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌlʊk ˈfɔːwəd tə ˈhɪərɪŋ frəm juː/",
+   "def_en": "Used to close a letter when you expect a reply.",
+   "def_vi": "Dùng kết thư khi mong hồi âm.",
+   "gloss_vi": "mong nhận được hồi âm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Look forward to hearing from you</i> (phrase) = mong nhận được hồi âm. <b>Grammar</b>: <i>look forward to</i> + V-ing.",
+   "example": {
+    "en": "I <b>look forward to hearing from you</b>.",
+    "vi": "Tôi <b>mong nhận được hồi âm</b> từ quý vị."
+   }
+  },
+  {
+   "word": "Yours faithfully",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌjɔːz ˈfeɪθfəli/",
+   "def_en": "The ending of a letter when you don’t know the person’s name.",
+   "def_vi": "Kết thư khi không biết tên người nhận.",
+   "gloss_vi": "trân trọng",
+   "synonyms": "Yours sincerely <i>(phr. trân trọng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Yours faithfully</i> (phrase) = trân trọng. <b>Grammar</b>: không biết tên → <i>faithfully</i>; biết tên → <i>sincerely</i>.",
+   "example": {
+    "en": "<b>Yours faithfully</b>, Nicole Drew",
+    "vi": "<b>Trân trọng</b>, Nicole Drew."
+   }
+  },
+  {
+   "word": "sign",
+   "sense": "verb",
+   "pos": "verb",
+   "ipa": "/saɪn/",
+   "def_en": "To write your signature.",
+   "def_vi": "Viết chữ ký.",
+   "gloss_vi": "ký",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sign</i> (verb) = ký. <b>Grammar</b>: <i>g</i> câm /saɪn/.",
+   "example": {
+    "en": "It is normal at the end of a formal letter to <b>sign</b> your name first, and then print it.",
+    "vi": "Cuối thư trang trọng thường <b>ký</b> tên trước rồi in tên."
+   }
+  },
+  {
+   "word": "application",
+   "sense": "request",
+   "pos": "noun",
+   "ipa": "/ˌæplɪˈkeɪʃn/",
+   "def_en": "An official request for something.",
+   "def_vi": "Yêu cầu chính thức về điều gì.",
+   "gloss_vi": "đơn xin",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Application</i> (noun) = đơn xin. <b>Grammar</b>: <i>apply</i> (v.). <b>Common mistakes</b>: cũng = ứng dụng.",
+   "example": {
+    "en": "I regret to inform you that your <b>application</b> has not been successful.",
+    "vi": "Tôi rất tiếc phải báo rằng <b>đơn</b> của bạn không thành công."
+   }
+  },
+  {
+   "word": "enquire about",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ɪnˈkwaɪər əbaʊt/",
+   "def_en": "To ask about something (formal).",
+   "def_vi": "Hỏi về điều gì (trang trọng).",
+   "gloss_vi": "hỏi về",
+   "synonyms": "ask about <i>(pv. hỏi về)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Enquire about</i> (phrasal verb) = hỏi về. <b>Grammar</b>: Mỹ <i>inquire</i>. <b>Word family</b>: <i>enquiry</i> (n.).",
+   "example": {
+    "en": "I am writing to <b>enquire about</b> English courses at your school.",
+    "vi": "Tôi viết thư để <b>hỏi về</b> các khóa tiếng Anh ở trường quý vị."
+   }
+  },
+  {
+   "word": "confirm",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kənˈfɜːm/",
+   "def_en": "To say that something is certain.",
+   "def_vi": "Nói điều gì là chắc chắn.",
+   "gloss_vi": "xác nhận",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "cancel <i>(v. hủy)</i>",
+   "grammar_vi": "<i>Confirm</i> (verb) = xác nhận. <b>Grammar</b>: <i>confirm sth (in writing)</i>. <b>Word family</b>: <i>confirmation</i> (n.).",
+   "example": {
+    "en": "You will need to <b>confirm</b> the booking in writing.",
+    "vi": "Bạn sẽ cần <b>xác nhận</b> đặt chỗ bằng văn bản."
+   }
+  },
+  {
+   "word": "apologise for",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/əˈpɒlədʒaɪz fə(r)/",
+   "def_en": "To say sorry for something.",
+   "def_vi": "Xin lỗi về điều gì.",
+   "gloss_vi": "xin lỗi về",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Apologise for</i> (phrasal verb) = xin lỗi về. <b>Grammar</b>: <i>apologise (to sb) for sth</i>. <b>Word family</b>: <i>apology</i>.",
+   "example": {
+    "en": "We would like to <b>apologise for</b> the delay.",
+    "vi": "Chúng tôi xin <b>xin lỗi về</b> sự chậm trễ."
+   }
+  },
+  {
+   "word": "enclose",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪnˈkləʊz/",
+   "def_en": "To send something in the same envelope as a letter.",
+   "def_vi": "Gửi thứ gì cùng phong bì với thư.",
+   "gloss_vi": "gửi kèm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Enclose</i> (verb) = gửi kèm. <b>Grammar</b>: trang trọng. <b>Word family</b>: <i>enclosed</i> (adj.).",
+   "example": {
+    "en": "I <b>enclose</b> a cheque for £100.",
+    "vi": "Tôi <b>gửi kèm</b> một tấm séc 100 bảng."
+   }
+  }
+ ]
+}
