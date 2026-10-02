@@ -1,0 +1,266 @@
+{
+ "book": "bus",
+ "unit": 47,
+ "title_vi": "Gọi điện 1: điện thoại và số",
+ "theory_html": "<p><b>A. Telephones and beyond</b><br><i>A. Điện thoại và hơn thế</i></p> <p><b>landline, public telephone / payphone, phone card, mobile phone</b> (BrE) / <b>cellphone</b> (AmE), <b>leave a voice message, voicemail, text message / text, smartphone, 3G, 4G, extension, line, cordless phone, VoIP, Skype, webcam and microphone, videoconferencing</b>.</p><p><i><b>điện thoại cố định, điện thoại công cộng, thẻ điện thoại, di động, để lại tin nhắn thoại, hộp thư thoại, tin nhắn, điện thoại thông minh, máy nhánh, đường dây, điện thoại không dây, gọi qua internet, webcam, hội nghị truyền hình</b>.</i></p> <p><b>B. ‘Phone’, ‘call’ and ‘ring’</b><br><i>B. ‘Phone’, ‘call’, ‘ring’</i></p> <p><b>call / phone / telephone sb, give sb a call</b>; BrE <b>ring (up) sb, give sb a ring</b>; informal BrE <b>give sb a bell / a buzz</b>; AmE <b>call (up) sb</b>.</p><p><i><b>gọi điện cho ai</b>.</i></p> <p><b>C. Numbers</b><br><i>C. Số điện thoại</i></p> <p><b>country code, area code, number</b>; <b>double oh</b> (BrE) / <b>zero zero</b> (AmE); rising intonation for each group, falling for the last.</p><p><i><b>mã nước, mã vùng, số; ngữ điệu lên mỗi nhóm, xuống ở nhóm cuối</b>.</i></p> <p><b>D. Doing things over the phone</b><br><i>D. Làm việc qua điện thoại</i></p> <p><b>helpline / information line, hotline, booking / reservations line, call centres, 0800 / freephone number</b> (BrE), <b>1–800 / toll-free number</b> (AmE).</p><p><i><b>đường dây hỗ trợ, đường dây nóng, đường dây đặt chỗ, tổng đài, số miễn phí</b>.</i></p>",
+ "items": [
+  {
+   "word": "landline",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlændlaɪn/",
+   "def_en": "A ‘traditional’ phone plugged into the wall.",
+   "def_vi": "Điện thoại ‘truyền thống’ cắm tường.",
+   "gloss_vi": "điện thoại cố định",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "mobile phone <i>(n. điện thoại di động)</i>",
+   "grammar_vi": "<i>Landline</i> (noun) = điện thoại cố định. <b>Grammar</b>: danh từ ghép.",
+   "example": {
+    "en": "<b>landline</b> – a ‘traditional’ phone plugged into the wall",
+    "vi": "<b>Điện thoại cố định</b> cắm vào tường."
+   }
+  },
+  {
+   "word": "payphone",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpeɪfəʊn/",
+   "def_en": "A phone in a public place operated with coins or a phone card.",
+   "def_vi": "Điện thoại nơi công cộng dùng xu hay thẻ.",
+   "gloss_vi": "điện thoại công cộng",
+   "synonyms": "public telephone <i>(n. điện thoại công cộng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Payphone</i> (noun) = điện thoại công cộng. <b>Grammar</b>: danh từ ghép.",
+   "example": {
+    "en": "public telephone / <b>payphone</b> – a phone in a public place operated with coins or a phone card",
+    "vi": "<b>Điện thoại công cộng</b> dùng xu hay thẻ."
+   }
+  },
+  {
+   "word": "cellphone",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈselfəʊn/",
+   "def_en": "A mobile phone (AmE).",
+   "def_vi": "Điện thoại di động (Mỹ).",
+   "gloss_vi": "điện thoại di động",
+   "synonyms": "mobile phone <i>(n. điện thoại di động)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cellphone</i> (noun) = điện thoại di động. <b>Grammar</b>: Mỹ; Anh <i>mobile phone</i>.",
+   "example": {
+    "en": "mobile phone (BrE) / <b>cellphone</b> (AmE) – a phone you can carry with you",
+    "vi": "Điện thoại mang theo người: mobile phone (Anh) / <b>cellphone</b> (Mỹ)."
+   }
+  },
+  {
+   "word": "voicemail",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈvɔɪsmeɪl/",
+   "def_en": "A system for leaving spoken messages on a phone.",
+   "def_vi": "Hệ thống để lại tin nhắn thoại.",
+   "gloss_vi": "hộp thư thoại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Voicemail</i> (noun) = hộp thư thoại. <b>Collocations / chunks</b>: <i>leave a voice message</i>.",
+   "example": {
+    "en": "Callers can leave a voice message on <b>voicemail</b>",
+    "vi": "Người gọi có thể để lại tin nhắn trên <b>hộp thư thoại</b>."
+   }
+  },
+  {
+   "word": "text message",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtekst ˌmesɪdʒ/",
+   "def_en": "A written message sent by mobile phone.",
+   "def_vi": "Tin nhắn chữ qua di động.",
+   "gloss_vi": "tin nhắn",
+   "synonyms": "text <i>(n. tin nhắn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Text message</i> (noun) = tin nhắn. <b>Grammar</b>: động từ <i>text sb</i>.",
+   "example": {
+    "en": "or send you a written <b>text message</b> or text",
+    "vi": "Hoặc gửi <b>tin nhắn</b> cho bạn."
+   }
+  },
+  {
+   "word": "extension",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪkˈstenʃn/",
+   "def_en": "One of a number of phones on the same line in a home or office.",
+   "def_vi": "Một trong các máy trên cùng đường dây.",
+   "gloss_vi": "máy nhánh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Extension</i> (noun) = máy nhánh. <b>Collocations / chunks</b>: <i>extension 123</i>.",
+   "example": {
+    "en": "<b>extension</b> – one of a number of phones on the same line, in a home or office",
+    "vi": "<b>Máy nhánh</b> là một trong các máy cùng đường dây."
+   }
+  },
+  {
+   "word": "cordless phone",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkɔːdləs ˈfəʊn/",
+   "def_en": "A phone extension not attached by a wire.",
+   "def_vi": "Máy nhánh không dây.",
+   "gloss_vi": "điện thoại không dây",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cordless phone</i> (noun) = điện thoại không dây. <b>Grammar</b>: <i>cord</i> + <i>-less</i>.",
+   "example": {
+    "en": "<b>cordless phone</b> or cordless – a phone extension not attached by a wire",
+    "vi": "<b>Điện thoại không dây</b> dùng được khi đi quanh nhà."
+   }
+  },
+  {
+   "word": "VoIP",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈvɔɪp/",
+   "def_en": "Voice over internet protocol: using the internet for phone calls.",
+   "def_vi": "Gọi điện qua internet.",
+   "gloss_vi": "gọi qua internet",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>VoIP</i> (noun) = gọi qua internet. <b>Grammar</b>: viết tắt.",
+   "example": {
+    "en": "<b>VoIP</b> (voice over internet protocol) – uses the internet for phone calls, such as on Skype",
+    "vi": "<b>VoIP</b> dùng internet để gọi điện."
+   }
+  },
+  {
+   "word": "videoconferencing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈvɪdiəʊˌkɒnfərənsɪŋ/",
+   "def_en": "Allowing people in different places to see each other and hold a meeting.",
+   "def_vi": "Cho người ở nhiều nơi thấy nhau và họp.",
+   "gloss_vi": "hội nghị truyền hình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Videoconferencing</i> (noun) = hội nghị truyền hình. <b>Grammar</b>: danh từ ghép.",
+   "example": {
+    "en": "<b>videoconferencing</b> allows several people in one place to see people in another location and hold a meeting together",
+    "vi": "<b>Hội nghị truyền hình</b> cho người ở hai nơi họp cùng nhau."
+   }
+  },
+  {
+   "word": "give sb a call",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡɪv ... ə ˈkɔːl/",
+   "def_en": "To phone someone.",
+   "def_vi": "Gọi điện cho ai.",
+   "gloss_vi": "gọi cho ai",
+   "synonyms": "phone <i>(v. gọi điện)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Give sb a call</i> (verb) = gọi cho ai. <b>Collocations / chunks</b>: Anh cũng <i>give sb a ring</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I’ll <b>give</b> you <b>a call</b> tomorrow.",
+    "vi": "Tôi sẽ <b>gọi cho</b> bạn ngày mai."
+   }
+  },
+  {
+   "word": "give sb a ring",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡɪv ... ə ˈrɪŋ/",
+   "def_en": "To phone someone (BrE).",
+   "def_vi": "Gọi điện cho ai (Anh).",
+   "gloss_vi": "gọi điện cho ai",
+   "synonyms": "give sb a call <i>(v. gọi cho ai)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Give sb a ring</i> (verb) = gọi điện cho ai. <b>Grammar</b>: Anh; thân mật <i>give sb a bell / a buzz</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Give</b> me <b>a ring</b> when you arrive.",
+    "vi": "<b>Gọi</b> cho tôi khi bạn đến nhé."
+   }
+  },
+  {
+   "word": "area code",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈeəriə kəʊd/",
+   "def_en": "The part of a phone number for a particular area.",
+   "def_vi": "Phần số điện thoại chỉ khu vực.",
+   "gloss_vi": "mã vùng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Area code</i> (noun) = mã vùng. <b>Collocations / chunks</b>: <i>country code</i>.",
+   "example": {
+    "en": "country code, <b>area code</b>, number",
+    "vi": "Mã nước, <b>mã vùng</b>, rồi số."
+   }
+  },
+  {
+   "word": "helpline",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhelplaɪn/",
+   "def_en": "A phone number to find out about a company’s products or services.",
+   "def_vi": "Số điện thoại để hỏi về sản phẩm, dịch vụ.",
+   "gloss_vi": "đường dây hỗ trợ",
+   "synonyms": "information line <i>(n. đường dây thông tin)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Helpline</i> (noun) = đường dây hỗ trợ. <b>Grammar</b>: danh từ ghép.",
+   "example": {
+    "en": "<b>helpline</b>/information line – you can find out about a company’s products or services",
+    "vi": "Qua <b>đường dây hỗ trợ</b> bạn tìm hiểu sản phẩm."
+   }
+  },
+  {
+   "word": "hotline",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhɒtlaɪn/",
+   "def_en": "A more exciting alternative to ‘helpline’.",
+   "def_vi": "Cách gọi hấp dẫn hơn ‘helpline’.",
+   "gloss_vi": "đường dây nóng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hotline</i> (noun) = đường dây nóng. <b>Grammar</b>: danh từ ghép.",
+   "example": {
+    "en": "<b>hotline</b> – often used by companies as a more exciting alternative to ‘helpline’",
+    "vi": "<b>Đường dây nóng</b> – cách gọi hấp dẫn hơn."
+   }
+  },
+  {
+   "word": "reservations line",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌrezəˈveɪʃnz laɪn/",
+   "def_en": "A phone number to make bookings for events, travel and hotels.",
+   "def_vi": "Số để đặt chỗ sự kiện, du lịch, khách sạn.",
+   "gloss_vi": "đường dây đặt chỗ",
+   "synonyms": "booking line <i>(n. đường dây đặt chỗ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reservations line</i> (noun) = đường dây đặt chỗ. <b>Grammar</b>: Anh cũng <i>booking line</i>.",
+   "example": {
+    "en": "booking/<b>reservations line</b> – make bookings for events, travel and hotels",
+    "vi": "Gọi <b>đường dây đặt chỗ</b> để đặt khách sạn."
+   }
+  },
+  {
+   "word": "freephone number",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfriːfəʊn ˌnʌmbə(r)/",
+   "def_en": "A number you can call free of charge (BrE).",
+   "def_vi": "Số gọi miễn phí (Anh).",
+   "gloss_vi": "số miễn phí",
+   "synonyms": "toll-free number <i>(n. số miễn cước (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Freephone number</i> (noun) = số miễn phí. <b>Grammar</b>: Mỹ <i>toll-free number</i>.",
+   "example": {
+    "en": "A number that you can call free of charge is: an 0800 number or a <b>freephone number</b> (BrE)",
+    "vi": "Số gọi miễn phí là <b>số freephone</b>."
+   }
+  }
+ ]
+}

@@ -1,0 +1,232 @@
+{
+ "book": "bus",
+ "unit": 48,
+ "title_vi": "Gọi điện 2: cố gắng gọi được",
+ "theory_html": "<p><b>A. Asking to speak to someone</b><br><i>A. Xin nói chuyện với ai</i></p> <p><b>Can you put me through to … in …, please?; Extension …, please; One moment, please; I’m putting you through; I’m afraid the line’s busy; Do you want to hold or would you like to call back later?; I’ll call again later; What’s her direct line?; Could you give me the number for her direct line?</b></p><p><i><b>Làm ơn nối máy cho tôi với…; Máy nhánh…; Xin chờ một lát; Tôi đang nối máy; Đường dây đang bận; Bạn giữ máy hay gọi lại sau?; Số trực tiếp của cô ấy là gì?</b></i></p> <p><b>B. Voicemail 1</b><br><i>B. Hộp thư thoại 1</i></p> <p><b>get through, greeting, You’re through to the voicemail of…, I’m away … until…, I’ll be picking up my voicemail, I’ll get back to you, Please call … on extension…, Please leave a message after the tone, hang up</b>.</p><p><i><b>gọi được, lời chào, Bạn đã gọi đến hộp thư thoại của…, Tôi đi vắng đến…, Tôi sẽ nghe tin nhắn, Tôi sẽ gọi lại, Để lại lời nhắn sau tiếng bíp, gác máy</b>.</i></p> <p><b>C. Voicemail 2</b><br><i>C. Hộp thư thoại 2</i></p> <p>Leaving a message: <b>This is … from…, It’s about…, Would it be possible to call me back at … on…?, on my mobile, first thing, It’s very urgent, Bye for now</b>.</p><p><i><b>Tôi là… từ…, Về việc…, Có thể gọi lại cho tôi ở… số…?, đầu giờ, Rất gấp, Tạm biệt</b>.</i></p>",
+ "items": [
+  {
+   "word": "put through",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌpʊt ˈθruː/",
+   "def_en": "To connect a caller to the person they want.",
+   "def_vi": "Nối máy người gọi với người cần gặp.",
+   "gloss_vi": "nối máy",
+   "synonyms": "connect <i>(v. kết nối)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Put through</i> (verb) = nối máy. <b>Grammar</b>: tách được <i>put sb through to</i>.",
+   "example": {
+    "en": "Can you <b>put me through</b> to Jane Owen in Sales, please?",
+    "vi": "Làm ơn <b>nối máy</b> cho tôi với Jane Owen ở phòng Kinh doanh."
+   }
+  },
+  {
+   "word": "one moment, please",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ˌwʌn ˈməʊmənt pliːz/",
+   "def_en": "Please wait a short time.",
+   "def_vi": "Xin đợi một chút.",
+   "gloss_vi": "xin chờ một lát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>One moment, please</i> (cl) = xin chờ một lát. <b>Collocations / chunks</b>: câu cố định khi nghe máy.",
+   "example": {
+    "en": "<b>One moment, please</b>.",
+    "vi": "<b>Xin chờ một lát</b>."
+   }
+  },
+  {
+   "word": "the line’s busy",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ðə ˌlaɪnz ˈbɪzi/",
+   "def_en": "The person you want is already on the phone.",
+   "def_vi": "Người cần gặp đang nói điện thoại.",
+   "gloss_vi": "đường dây đang bận",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The line’s busy</i> (cl) = đường dây đang bận. <b>Collocations / chunks</b>: Anh cũng <i>engaged</i>.",
+   "example": {
+    "en": "I’m afraid <b>the line’s busy</b>.",
+    "vi": "Rất tiếc <b>đường dây đang bận</b>."
+   }
+  },
+  {
+   "word": "hold",
+   "sense": "wait on phone",
+   "pos": "verb",
+   "ipa": "/həʊld/",
+   "def_en": "To wait on the phone.",
+   "def_vi": "Giữ máy chờ.",
+   "gloss_vi": "giữ máy",
+   "synonyms": "hold on <i>(v. giữ máy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hold</i> (verb) = giữ máy. <b>Grammar</b>: nghĩa điện thoại.",
+   "example": {
+    "en": "Do you want to <b>hold</b> or would you like to call back later?",
+    "vi": "Bạn muốn <b>giữ máy</b> hay gọi lại sau?"
+   }
+  },
+  {
+   "word": "call back",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkɔːl ˈbæk/",
+   "def_en": "To phone someone again, or phone them in return.",
+   "def_vi": "Gọi lại cho ai.",
+   "gloss_vi": "gọi lại",
+   "synonyms": "ring back <i>(v. gọi lại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Call back</i> (verb) = gọi lại. <b>Grammar</b>: tách được <i>call sb back</i>.",
+   "example": {
+    "en": "Do you want to hold or would you like to <b>call back</b> later?",
+    "vi": "Bạn giữ máy hay muốn <b>gọi lại</b> sau?"
+   }
+  },
+  {
+   "word": "direct line",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dəˌrekt ˈlaɪn/",
+   "def_en": "A phone number that goes directly to one person.",
+   "def_vi": "Số gọi thẳng đến một người.",
+   "gloss_vi": "số trực tiếp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Direct line</i> (noun) = số trực tiếp. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "<b>Her direct line is</b> 7942 8321.",
+    "vi": "<b>Số trực tiếp</b> của cô ấy là 7942 8321."
+   }
+  },
+  {
+   "word": "get through",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡet ˈθruː/",
+   "def_en": "To succeed in making a phone connection.",
+   "def_vi": "Gọi được.",
+   "gloss_vi": "gọi được",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get through</i> (verb) = gọi được. <b>Collocations / chunks</b>: <i>get through to</i> sb.",
+   "example": {
+    "en": "this time he <b>gets through</b> to Jane’s voicemail",
+    "vi": "Lần này anh ấy <b>gọi được</b> đến hộp thư thoại của Jane."
+   }
+  },
+  {
+   "word": "greeting",
+   "sense": "voicemail message",
+   "pos": "noun",
+   "ipa": "/ˈɡriːtɪŋ/",
+   "def_en": "The recorded message on someone’s voicemail.",
+   "def_vi": "Lời ghi âm trên hộp thư thoại.",
+   "gloss_vi": "lời chào ghi âm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Greeting</i> (noun) = lời chào ghi âm. <b>Grammar</b>: nghĩa hộp thư thoại.",
+   "example": {
+    "en": "This is her <b>greeting</b>",
+    "vi": "Đây là <b>lời chào</b> của cô ấy."
+   }
+  },
+  {
+   "word": "I’ll get back to you",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/aɪl ˌɡet ˈbæk tə juː/",
+   "def_en": "I will contact you later.",
+   "def_vi": "Tôi sẽ liên hệ lại sau.",
+   "gloss_vi": "tôi sẽ gọi lại cho bạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>I’ll get back to you</i> (cl) = tôi sẽ gọi lại cho bạn. <b>Collocations / chunks</b>: <i>get back to sb</i>.",
+   "example": {
+    "en": "If you leave a message, <b>I’ll get back to you</b>.",
+    "vi": "Nếu bạn để lại lời nhắn, <b>tôi sẽ gọi lại cho bạn</b>."
+   }
+  },
+  {
+   "word": "leave a message after the tone",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ˌliːv ə ˈmesɪdʒ ˌɑːftə ðə ˈtəʊn/",
+   "def_en": "Record a message after the beep.",
+   "def_vi": "Ghi lời nhắn sau tiếng bíp.",
+   "gloss_vi": "để lại lời nhắn sau tiếng bíp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Leave a message after the tone</i> (cl) = để lại lời nhắn sau tiếng bíp. <b>Collocations / chunks</b>: câu cố định của hộp thư thoại.",
+   "example": {
+    "en": "‘Please <b>leave a message after the tone</b>.’",
+    "vi": "<b>Vui lòng để lại lời nhắn sau tiếng bíp</b>."
+   }
+  },
+  {
+   "word": "hang up",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌhæŋ ˈʌp/",
+   "def_en": "To end a phone call.",
+   "def_vi": "Kết thúc cuộc gọi.",
+   "gloss_vi": "gác máy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hang up</i> (verb) = gác máy. <b>Grammar</b>: <i>hang up on sb</i> = cúp máy ngang.",
+   "example": {
+    "en": "Otherwise, please <b>hang up</b>.",
+    "vi": "Nếu không, vui lòng <b>gác máy</b>."
+   }
+  },
+  {
+   "word": "it’s about",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ɪts əˈbaʊt/",
+   "def_en": "Used to say what a message or call concerns.",
+   "def_vi": "Dùng để nói cuộc gọi về việc gì.",
+   "gloss_vi": "về việc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>It’s about</i> (cl) = về việc. <b>Collocations / chunks</b>: dùng khi để lại tin nhắn.",
+   "example": {
+    "en": "<b>It’s about</b> our order for specialized plastic components.",
+    "vi": "<b>Về việc</b> đơn hàng linh kiện nhựa."
+   }
+  },
+  {
+   "word": "first thing",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌfɜːst ˈθɪŋ/",
+   "def_en": "Early in the morning, before anything else.",
+   "def_vi": "Sáng sớm, trước mọi việc.",
+   "gloss_vi": "đầu giờ, ngay sáng sớm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>First thing</i> (adverb) = đầu giờ, ngay sáng sớm. <b>Collocations / chunks</b>: <i>first thing in the morning</i>.",
+   "example": {
+    "en": "or <b>first thing</b> on Monday",
+    "vi": "Hoặc gọi <b>ngay sáng sớm</b> thứ Hai."
+   }
+  },
+  {
+   "word": "bye for now",
+   "sense": "",
+   "pos": "excl",
+   "ipa": "/ˌbaɪ fə ˈnaʊ/",
+   "def_en": "Goodbye (informal, friendly).",
+   "def_vi": "Tạm biệt (thân mật).",
+   "gloss_vi": "tạm biệt nhé",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bye for now</i> (excl) = tạm biệt nhé. <b>Collocations / chunks</b>: thân mật.",
+   "example": {
+    "en": "It’s very urgent. <b>Bye for now</b>.",
+    "vi": "Rất gấp. <b>Tạm biệt nhé</b>."
+   }
+  }
+ ]
+}
