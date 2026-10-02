@@ -1,0 +1,328 @@
+{
+ "book": "bus",
+ "unit": 32,
+ "title_vi": "Vốn cổ phần và nợ",
+ "theory_html": "<p><b>A. Capital</b><br><i>A. Vốn</i></p> <p><b>capital, raise capital, share capital, loan capital, investors, investment, stake</b>.</p><p><i><b>vốn, huy động vốn, vốn cổ phần, vốn vay, nhà đầu tư, khoản đầu tư, phần góp vốn</b>.</i></p> <p><b>B. Share capital</b><br><i>B. Vốn cổ phần</i></p> <p><b>shareholders, put up money, shares / stock, hold shares, dividends, earnings, equity</b>.</p><p><i><b>cổ đông, bỏ tiền, cổ phần, nắm giữ cổ phần, cổ tức, lợi nhuận, vốn chủ sở hữu</b>.</i></p> <p><b>C. Loan capital</b><br><i>C. Vốn vay</i></p> <p><b>loan capital, lender, lending, borrower, borrowing, debt, indebtedness, principal, interest</b>.</p><p><i><b>vốn vay, người cho vay, khoản cho vay, người đi vay, khoản vay, nợ, mức nợ, tiền gốc, lãi</b>.</i></p> <p><b>D. Security</b><br><i>D. Tài sản bảo đảm</i></p> <p><b>bonds, debentures, issue, collateral, security</b>.</p><p><i><b>trái phiếu, trái phiếu doanh nghiệp, phát hành, tài sản thế chấp, bảo đảm</b>.</i></p> <p><b>E. Leverage</b><br><i>E. Đòn bẩy tài chính</i></p> <p><b>leverage, highly leveraged, overleveraged</b>; BrE only <b>gearing, highly geared</b>.</p><p><i><b>đòn bẩy, vay nợ nhiều, vay nợ quá mức</b>.</i></p>",
+ "items": [
+  {
+   "word": "raise capital",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌreɪz ˈkæpɪtl/",
+   "def_en": "To find the money a company needs.",
+   "def_vi": "Tìm tiền công ty cần.",
+   "gloss_vi": "huy động vốn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Raise capital</i> (verb) = huy động vốn. <b>Collocations / chunks</b>: cụm cố định.",
+   "example": {
+    "en": "There are two main ways in which a company can <b>raise capital</b> – find the money it needs",
+    "vi": "Có hai cách chính để công ty <b>huy động vốn</b>."
+   }
+  },
+  {
+   "word": "share capital",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈʃeə ˌkæpɪtl/",
+   "def_en": "Money contributed by shareholders.",
+   "def_vi": "Tiền do cổ đông góp.",
+   "gloss_vi": "vốn cổ phần",
+   "synonyms": "equity <i>(n. vốn chủ sở hữu)</i>",
+   "antonyms": "loan capital <i>(n. vốn vay)</i>",
+   "grammar_vi": "<i>Share capital</i> (noun) = vốn cổ phần. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "<b>Share capital</b> is contributed by shareholders.",
+    "vi": "<b>Vốn cổ phần</b> do cổ đông góp."
+   }
+  },
+  {
+   "word": "investor",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˈvestə(r)/",
+   "def_en": "A person or organization who puts money into a company, hoping to make more money.",
+   "def_vi": "Người, tổ chức bỏ tiền vào công ty mong sinh lời.",
+   "gloss_vi": "nhà đầu tư",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Investor</i> (noun) = nhà đầu tư. <b>Grammar</b>: động từ <i>invest</i>.",
+   "example": {
+    "en": "either use share capital or loan capital from <b>investors</b>",
+    "vi": "<b>Nhà đầu tư</b> bỏ tiền mong kiếm thêm."
+   }
+  },
+  {
+   "word": "stake",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/steɪk/",
+   "def_en": "An investment in a company.",
+   "def_vi": "Khoản đầu tư vào công ty.",
+   "gloss_vi": "phần góp vốn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stake</i> (noun) = phần góp vốn. <b>Collocations / chunks</b>: <i>have a stake in</i> sth.",
+   "example": {
+    "en": "hoping to make more money from their investment or <b>stake</b> in the company",
+    "vi": "Từ khoản đầu tư hay <b>phần góp vốn</b> của họ trong công ty."
+   }
+  },
+  {
+   "word": "shareholder",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈʃeəhəʊldə(r)/",
+   "def_en": "An individual or organization that has bought shares in a company.",
+   "def_vi": "Người, tổ chức đã mua cổ phần công ty.",
+   "gloss_vi": "cổ đông",
+   "synonyms": "stockholder <i>(n. cổ đông (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shareholder</i> (noun) = cổ đông. <b>Collocations / chunks</b>: <i>major shareholder</i>.",
+   "example": {
+    "en": "Share capital is contributed by <b>shareholders</b>.",
+    "vi": "Vốn cổ phần do <b>cổ đông</b> góp."
+   }
+  },
+  {
+   "word": "put up money",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌpʊt ʌp ˈmʌni/",
+   "def_en": "To provide money.",
+   "def_vi": "Cung cấp tiền.",
+   "gloss_vi": "bỏ tiền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Put up money</i> (verb) = bỏ tiền. <b>Collocations / chunks</b>: <i>put up the money for</i> sth.",
+   "example": {
+    "en": "organizations that have provided or <b>put up money</b> to buy shares",
+    "vi": "Họ đã <b>bỏ tiền</b> mua cổ phần công ty."
+   }
+  },
+  {
+   "word": "shares",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ʃeəz/",
+   "def_en": "Parts of the ownership of a company.",
+   "def_vi": "Phần quyền sở hữu công ty.",
+   "gloss_vi": "cổ phần",
+   "synonyms": "stock <i>(n. cổ phiếu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shares</i> (noun) = cổ phần. <b>Collocations / chunks</b>: <i>hold shares in</i>.",
+   "example": {
+    "en": "to buy <b>shares</b> or stock in the company. Each share represents a part of the ownership of the company.",
+    "vi": "Mỗi <b>cổ phần</b> là một phần quyền sở hữu công ty."
+   }
+  },
+  {
+   "word": "dividend",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdɪvɪdend/",
+   "def_en": "A payment to shareholders, usually based on the company’s earnings.",
+   "def_vi": "Khoản trả cổ đông, thường dựa trên lợi nhuận.",
+   "gloss_vi": "cổ tức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dividend</i> (noun) = cổ tức. <b>Collocations / chunks</b>: <i>pay a dividend</i>.",
+   "example": {
+    "en": "you may receive <b>dividends</b> periodically, usually based on the company’s earnings",
+    "vi": "Bạn có thể nhận <b>cổ tức</b> định kỳ."
+   }
+  },
+  {
+   "word": "equity",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈekwəti/",
+   "def_en": "Capital in the form of shares.",
+   "def_vi": "Vốn dưới dạng cổ phần.",
+   "gloss_vi": "vốn chủ sở hữu",
+   "synonyms": "share capital <i>(n. vốn cổ phần)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Equity</i> (noun) = vốn chủ sở hữu. <b>Grammar</b>: nghĩa tài chính.",
+   "example": {
+    "en": "Capital in the form of shares is also called <b>equity</b>.",
+    "vi": "Vốn dạng cổ phần còn gọi là <b>vốn chủ sở hữu</b>."
+   }
+  },
+  {
+   "word": "loan capital",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈləʊn ˌkæpɪtl/",
+   "def_en": "Money lent by investors who do not own part of the company.",
+   "def_vi": "Tiền nhà đầu tư cho vay mà không sở hữu công ty.",
+   "gloss_vi": "vốn vay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "share capital <i>(n. vốn cổ phần)</i>",
+   "grammar_vi": "<i>Loan capital</i> (noun) = vốn vay. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "This is <b>loan capital</b>",
+    "vi": "Đó là <b>vốn vay</b>."
+   }
+  },
+  {
+   "word": "lender",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlendə(r)/",
+   "def_en": "An investor or financial institution providing loan capital.",
+   "def_vi": "Nhà đầu tư, tổ chức cho vay vốn.",
+   "gloss_vi": "người cho vay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "borrower <i>(n. người đi vay)</i>",
+   "grammar_vi": "<i>Lender</i> (noun) = người cho vay. <b>Grammar</b>: động từ <i>lend</i>.",
+   "example": {
+    "en": "an investor or a financial institution providing money in this way is a <b>lender</b>",
+    "vi": "Bên cho vay là <b>người cho vay</b>."
+   }
+  },
+  {
+   "word": "borrower",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɒrəʊə(r)/",
+   "def_en": "The company borrowing money.",
+   "def_vi": "Công ty đi vay.",
+   "gloss_vi": "người đi vay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "lender <i>(n. người cho vay)</i>",
+   "grammar_vi": "<i>Borrower</i> (noun) = người đi vay. <b>Grammar</b>: động từ <i>borrow</i>.",
+   "example": {
+    "en": "The company borrowing money is the <b>borrower</b>",
+    "vi": "Công ty vay tiền là <b>người đi vay</b>."
+   }
+  },
+  {
+   "word": "indebtedness",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˈdetɪdnəs/",
+   "def_en": "A company’s total debt.",
+   "def_vi": "Tổng nợ của công ty.",
+   "gloss_vi": "mức nợ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Indebtedness</i> (noun) = mức nợ. <b>Grammar</b>: tính từ <i>indebted</i>.",
+   "example": {
+    "en": "A company’s total debt is its level of <b>indebtedness</b>.",
+    "vi": "Tổng nợ công ty là <b>mức nợ</b>."
+   }
+  },
+  {
+   "word": "principal",
+   "sense": "sum borrowed",
+   "pos": "noun",
+   "ipa": "/ˈprɪnsəpl/",
+   "def_en": "The sum of money borrowed.",
+   "def_vi": "Khoản tiền vay.",
+   "gloss_vi": "tiền gốc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Principal</i> (noun) = tiền gốc. <b>Grammar</b>: khác <i>principle</i>.",
+   "example": {
+    "en": "The sum of money borrowed is the <b>principal</b>.",
+    "vi": "Khoản tiền vay là <b>tiền gốc</b>."
+   }
+  },
+  {
+   "word": "interest",
+   "sense": "payment on loan",
+   "pos": "noun",
+   "ipa": "/ˈɪntrəst/",
+   "def_en": "A percentage of the amount borrowed paid to the lender.",
+   "def_vi": "Phần trăm trên khoản vay trả cho người cho vay.",
+   "gloss_vi": "tiền lãi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Interest</i> (noun) = tiền lãi. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "The company has to pay <b>interest</b> – a percentage of the amount it has borrowed – on its debt",
+    "vi": "Công ty phải trả <b>lãi</b> trên khoản nợ."
+   }
+  },
+  {
+   "word": "bond",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bɒnd/",
+   "def_en": "A form of borrowing that companies issue and sell to lenders.",
+   "def_vi": "Hình thức vay mà công ty phát hành bán cho người cho vay.",
+   "gloss_vi": "trái phiếu",
+   "synonyms": "debenture <i>(n. trái phiếu doanh nghiệp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bond</i> (noun) = trái phiếu. <b>Collocations / chunks</b>: <i>issue bonds</i>.",
+   "example": {
+    "en": "Borrowing by companies and other organizations is often in the form of <b>bonds</b> or debentures",
+    "vi": "Công ty vay thường dưới dạng <b>trái phiếu</b>."
+   }
+  },
+  {
+   "word": "collateral",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəˈlætərəl/",
+   "def_en": "Property the lender can take if the borrower cannot repay.",
+   "def_vi": "Tài sản người cho vay được lấy nếu không trả nợ.",
+   "gloss_vi": "tài sản thế chấp",
+   "synonyms": "security <i>(n. bảo đảm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Collateral</i> (noun) = tài sản thế chấp. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "whether there is <b>collateral</b> or security for the loan",
+    "vi": "Có <b>tài sản thế chấp</b> cho khoản vay hay không."
+   }
+  },
+  {
+   "word": "leverage",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈliːvərɪdʒ/",
+   "def_en": "The amount of loan capital a company has in relation to its share capital.",
+   "def_vi": "Lượng vốn vay so với vốn cổ phần.",
+   "gloss_vi": "đòn bẩy tài chính",
+   "synonyms": "gearing <i>(n. đòn bẩy (Anh))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Leverage</i> (noun) = đòn bẩy tài chính. <b>Grammar</b>: Anh cũng <i>gearing</i>.",
+   "example": {
+    "en": "The amount of loan capital that a company has in relation to its share capital is its <b>leverage</b>.",
+    "vi": "Lượng vốn vay so với vốn cổ phần là <b>đòn bẩy</b>."
+   }
+  },
+  {
+   "word": "highly leveraged",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌhaɪli ˈliːvərɪdʒd/",
+   "def_en": "Having a lot of borrowing in relation to share capital.",
+   "def_vi": "Vay nhiều so với vốn cổ phần.",
+   "gloss_vi": "vay nợ nhiều",
+   "synonyms": "highly geared <i>(adj. vay nợ nhiều (Anh))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Highly leveraged</i> (adjective) = vay nợ nhiều. <b>Grammar</b>: Anh cũng <i>highly geared</i>.",
+   "example": {
+    "en": "A company with a lot of borrowing in relation to its share capital is <b>highly leveraged</b>.",
+    "vi": "Công ty vay nhiều so với vốn là <b>vay nợ nhiều</b>."
+   }
+  },
+  {
+   "word": "overleveraged",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌəʊvəˈliːvərɪdʒd/",
+   "def_en": "Having difficulty making payments on debt.",
+   "def_vi": "Khó trả nợ.",
+   "gloss_vi": "vay nợ quá mức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Overleveraged</i> (adjective) = vay nợ quá mức. <b>Grammar</b>: tiền tố <i>over-</i>.",
+   "example": {
+    "en": "A company that has difficulty in making payments on its debt is <b>overleveraged</b>.",
+    "vi": "Công ty khó trả nợ là <b>vay nợ quá mức</b>."
+   }
+  }
+ ]
+}
