@@ -1,0 +1,392 @@
+{
+ "book": "bus",
+ "unit": 39,
+ "title_vi": "Các chỉ số 2",
+ "theory_html": "<p><b>A. Going up</b><br><i>A. Đi lên</i></p> <p>Headline verbs: <b>advance, jump, skyrocket, leap, soar, surge</b> (also <b>up</b>).</p><p><i>Động từ tít báo: <b>tăng, nhảy vọt, tăng vọt, vọt lên, bay vút, dâng trào</b>.</i></p> <p><b>B. Going down</b><br><i>B. Đi xuống</i></p> <p><b>axe, cut, ease, plummet, slash, dive</b>.</p><p><i><b>cắt bỏ, cắt giảm, giảm nhẹ, lao dốc, cắt mạnh, lao xuống</b>.</i></p> <p><b>C. Peaks and troughs</b><br><i>C. Đỉnh và đáy</i></p> <p><b>level off / level out, steady / stable, peak (at), trough, bottom out</b>.</p><p><i><b>chững lại, ổn định, đạt đỉnh, đáy, chạm đáy</b>.</i></p> <p><b>D. Boom and bust</b><br><i>D. Bùng nổ và suy sụp</i></p> <p><b>demand, boom, stagnation, stagflation, recession, negative growth, slump, depression, boom and bust</b>.</p><p><i><b>nhu cầu, bùng nổ, trì trệ, đình lạm, suy thoái, tăng trưởng âm, sụt giảm mạnh, đại suy thoái, thịnh suy</b>.</i></p>",
+ "items": [
+  {
+   "word": "advance",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ədˈvɑːns/",
+   "def_en": "(Of shares) to increase in value.",
+   "def_vi": "(Cổ phiếu) tăng giá trị.",
+   "gloss_vi": "tăng giá",
+   "synonyms": "rise <i>(v. tăng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Advance</i> (verb) = tăng giá. <b>Grammar</b>: từ tít báo.",
+   "example": {
+    "en": "BT SHARES <b>ADVANCE</b> IN ACTIVE TRADING",
+    "vi": "Cổ phiếu BT <b>tăng</b> trong phiên giao dịch sôi động."
+   }
+  },
+  {
+   "word": "jump",
+   "sense": "increase suddenly",
+   "pos": "verb",
+   "ipa": "/dʒʌmp/",
+   "def_en": "To increase suddenly to a higher level.",
+   "def_vi": "Tăng đột ngột lên mức cao.",
+   "gloss_vi": "nhảy vọt",
+   "synonyms": "leap <i>(v. vọt lên)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Jump</i> (verb) = nhảy vọt. <b>Grammar</b>: từ tít báo.",
+   "example": {
+    "en": "TRADE SURPLUS <b>JUMPS</b> TO RECORD LEVEL",
+    "vi": "Thặng dư thương mại <b>nhảy vọt</b> lên mức kỷ lục."
+   }
+  },
+  {
+   "word": "skyrocket",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈskaɪrɒkɪt/",
+   "def_en": "To rise by a large amount.",
+   "def_vi": "Tăng mạnh.",
+   "gloss_vi": "tăng vọt",
+   "synonyms": "soar <i>(v. bay vút)</i>",
+   "antonyms": "plummet <i>(v. lao dốc)</i>",
+   "grammar_vi": "<i>Skyrocket</i> (verb) = tăng vọt. <b>Grammar</b>: từ tít báo.",
+   "example": {
+    "en": "FUEL PRICES SET TO <b>SKYROCKET</b>",
+    "vi": "Giá nhiên liệu sắp <b>tăng vọt</b>."
+   }
+  },
+  {
+   "word": "leap",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/liːp/",
+   "def_en": "To increase to a much higher level.",
+   "def_vi": "Tăng lên mức cao hơn nhiều.",
+   "gloss_vi": "vọt lên",
+   "synonyms": "jump <i>(v. nhảy vọt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Leap</i> (verb) = vọt lên. <b>Grammar</b>: bất quy tắc <i>leapt / leaped</i>.",
+   "example": {
+    "en": "UNEMPLOYMENT <b>LEAPS</b> TO TEN-YEAR HIGH",
+    "vi": "Thất nghiệp <b>vọt lên</b> mức cao nhất mười năm."
+   }
+  },
+  {
+   "word": "soar",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/sɔː(r)/",
+   "def_en": "To increase greatly in value.",
+   "def_vi": "Tăng giá trị mạnh.",
+   "gloss_vi": "bay vút, tăng mạnh",
+   "synonyms": "skyrocket <i>(v. tăng vọt)</i>",
+   "antonyms": "dive <i>(v. lao xuống)</i>",
+   "grammar_vi": "<i>Soar</i> (verb) = bay vút, tăng mạnh. <b>Grammar</b>: từ tít báo.",
+   "example": {
+    "en": "GOOGLE <b>SOARS</b> AS INTERNET GROWTH CONTINUES",
+    "vi": "Google <b>tăng mạnh</b> khi internet tiếp tục phát triển."
+   }
+  },
+  {
+   "word": "surge",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/sɜːdʒ/",
+   "def_en": "To rise rapidly.",
+   "def_vi": "Tăng nhanh.",
+   "gloss_vi": "dâng trào, tăng vọt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Surge</i> (verb) = dâng trào, tăng vọt. <b>Grammar</b>: cũng là danh từ <i>a surge</i>.",
+   "example": {
+    "en": "VW PROFITS UP AS CAR SALES CONTINUE TO <b>SURGE</b>",
+    "vi": "Lợi nhuận VW tăng khi doanh số ô tô tiếp tục <b>tăng vọt</b>."
+   }
+  },
+  {
+   "word": "axe",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/æks/",
+   "def_en": "To cut (jobs) (journalistic).",
+   "def_vi": "Cắt (việc làm) (báo chí).",
+   "gloss_vi": "cắt bỏ",
+   "synonyms": "cut <i>(v. cắt giảm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Axe</i> (verb) = cắt bỏ. <b>Grammar</b>: Mỹ <i>ax</i>.",
+   "example": {
+    "en": "1,000 JOBS <b>AXED</b> AS DEFENCE PLANT CLOSES",
+    "vi": "1.000 việc làm bị <b>cắt bỏ</b> khi nhà máy đóng cửa."
+   }
+  },
+  {
+   "word": "cut",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kʌt/",
+   "def_en": "To reduce (rates, prices).",
+   "def_vi": "Giảm (lãi suất, giá).",
+   "gloss_vi": "cắt giảm",
+   "synonyms": "reduce <i>(v. giảm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cut</i> (verb) = cắt giảm. <b>Grammar</b>: bất quy tắc <i>cut – cut</i>.",
+   "example": {
+    "en": "EUROPEAN CENTRAL BANK <b>CUTS</b> RATE IN SURPRISE MOVE",
+    "vi": "Ngân hàng Trung ương châu Âu <b>cắt giảm</b> lãi suất bất ngờ."
+   }
+  },
+  {
+   "word": "ease",
+   "sense": "fall slightly",
+   "pos": "verb",
+   "ipa": "/iːz/",
+   "def_en": "(Of a share price) to go down slightly.",
+   "def_vi": "(Giá cổ phiếu) giảm nhẹ.",
+   "gloss_vi": "giảm nhẹ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ease</i> (verb) = giảm nhẹ. <b>Grammar</b>: từ tít báo.",
+   "example": {
+    "en": "SIEMENS <b>EASES</b> ON PROFITS WARNING",
+    "vi": "Siemens <b>giảm nhẹ</b> sau cảnh báo lợi nhuận."
+   }
+  },
+  {
+   "word": "plummet",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈplʌmɪt/",
+   "def_en": "To fall a long way.",
+   "def_vi": "Giảm mạnh.",
+   "gloss_vi": "lao dốc",
+   "synonyms": "dive <i>(v. lao xuống)</i>",
+   "antonyms": "soar <i>(v. tăng vọt)</i>",
+   "grammar_vi": "<i>Plummet</i> (verb) = lao dốc. <b>Grammar</b>: từ tít báo.",
+   "example": {
+    "en": "SEPTEMBER RETAIL SALES <b>PLUMMET</b>",
+    "vi": "Doanh số bán lẻ tháng Chín <b>lao dốc</b>."
+   }
+  },
+  {
+   "word": "slash",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/slæʃ/",
+   "def_en": "To reduce by a large amount.",
+   "def_vi": "Giảm mạnh.",
+   "gloss_vi": "cắt mạnh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Slash</i> (verb) = cắt mạnh. <b>Grammar</b>: từ tít báo.",
+   "example": {
+    "en": "GOVERNMENT <b>SLASHES</b> INCOME TAX TO TEN PER CENT",
+    "vi": "Chính phủ <b>cắt mạnh</b> thuế thu nhập xuống 10%."
+   }
+  },
+  {
+   "word": "dive",
+   "sense": "fall in value",
+   "pos": "verb",
+   "ipa": "/daɪv/",
+   "def_en": "To fall to a low level.",
+   "def_vi": "Rơi xuống mức thấp.",
+   "gloss_vi": "lao xuống",
+   "synonyms": "plummet <i>(v. lao dốc)</i>",
+   "antonyms": "soar <i>(v. tăng vọt)</i>",
+   "grammar_vi": "<i>Dive</i> (verb) = lao xuống. <b>Grammar</b>: từ tít báo.",
+   "example": {
+    "en": "EURO <b>DIVES</b> TO NEW LOWS",
+    "vi": "Đồng euro <b>lao xuống</b> mức thấp mới."
+   }
+  },
+  {
+   "word": "level off",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌlevl ˈɒf/",
+   "def_en": "To stop rising and remain steady.",
+   "def_vi": "Ngừng tăng và giữ ổn định.",
+   "gloss_vi": "chững lại",
+   "synonyms": "level out <i>(v. chững lại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Level off</i> (verb) = chững lại. <b>Collocations / chunks</b>: cũng <i>level out</i>.",
+   "example": {
+    "en": "If a series of figures rises to a level and then stops rising, it <b>levels off</b> or levels out",
+    "vi": "Nếu dãy số ngừng tăng, nó <b>chững lại</b>."
+   }
+  },
+  {
+   "word": "peak",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/piːk/",
+   "def_en": "To reach the highest level and then go down.",
+   "def_vi": "Đạt mức cao nhất rồi giảm.",
+   "gloss_vi": "đạt đỉnh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Peak</i> (verb) = đạt đỉnh. <b>Grammar</b>: cũng là danh từ <i>a peak</i>.",
+   "example": {
+    "en": "If it reaches a peak – its highest level – and then goes down, it <b>peaks at</b> that level.",
+    "vi": "Nếu nó đạt mức cao nhất rồi giảm, nó <b>đạt đỉnh</b> ở mức đó."
+   }
+  },
+  {
+   "word": "trough",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/trɒf/",
+   "def_en": "The lowest level.",
+   "def_vi": "Mức thấp nhất.",
+   "gloss_vi": "đáy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "peak <i>(n. đỉnh)</i>",
+   "grammar_vi": "<i>Trough</i> (noun) = đáy. <b>Grammar</b>: phát âm /trɒf/.",
+   "example": {
+    "en": "If it reaches a <b>trough</b> – its lowest level – and then bottoms out, it stops falling.",
+    "vi": "Nếu nó chạm <b>đáy</b> rồi ngừng giảm."
+   }
+  },
+  {
+   "word": "bottom out",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌbɒtəm ˈaʊt/",
+   "def_en": "To stop falling.",
+   "def_vi": "Ngừng giảm.",
+   "gloss_vi": "chạm đáy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bottom out</i> (verb) = chạm đáy. <b>Collocations / chunks</b>: cụm động từ.",
+   "example": {
+    "en": "If it reaches a trough and then <b>bottoms out</b>, it stops falling.",
+    "vi": "Nếu chạm đáy rồi <b>chững lại ở đáy</b>, nó ngừng giảm."
+   }
+  },
+  {
+   "word": "demand",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈmɑːnd/",
+   "def_en": "The amount of goods and services that people want in a period.",
+   "def_vi": "Lượng hàng hóa dịch vụ người ta muốn trong một kỳ.",
+   "gloss_vi": "nhu cầu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "supply <i>(n. cung)</i>",
+   "grammar_vi": "<i>Demand</i> (noun) = nhu cầu. <b>Collocations / chunks</b>: <i>supply and demand</i>.",
+   "example": {
+    "en": "<b>Demand</b> is the amount of goods and services that people want in a particular period.",
+    "vi": "<b>Nhu cầu</b> là lượng hàng hóa người ta muốn."
+   }
+  },
+  {
+   "word": "boom",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/buːm/",
+   "def_en": "A time of rising demand, fast growth and falling unemployment.",
+   "def_vi": "Thời kỳ cầu tăng, tăng trưởng nhanh, thất nghiệp giảm.",
+   "gloss_vi": "sự bùng nổ kinh tế",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "slump <i>(n. suy sụp)</i>",
+   "grammar_vi": "<i>Boom</i> (noun) = sự bùng nổ kinh tế. <b>Collocations / chunks</b>: <i>boom and bust</i>.",
+   "example": {
+    "en": "A <b>boom</b> is when there is rising demand, fast economic growth, falling unemployment, etc.",
+    "vi": "<b>Bùng nổ</b> là khi cầu tăng, kinh tế tăng nhanh."
+   }
+  },
+  {
+   "word": "stagnation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/stæɡˈneɪʃn/",
+   "def_en": "When the economy is growing slowly, or not at all.",
+   "def_vi": "Khi kinh tế tăng chậm hoặc không tăng.",
+   "gloss_vi": "trì trệ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stagnation</i> (noun) = trì trệ. <b>Grammar</b>: tính từ <i>stagnant</i>.",
+   "example": {
+    "en": "<b>Stagnation</b> is when the economy is growing slowly, or not at all.",
+    "vi": "<b>Trì trệ</b> là khi kinh tế tăng chậm."
+   }
+  },
+  {
+   "word": "stagflation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/stæɡˈfleɪʃn/",
+   "def_en": "Slow growth with fast-rising prices.",
+   "def_vi": "Tăng trưởng chậm, giá tăng nhanh.",
+   "gloss_vi": "đình lạm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stagflation</i> (noun) = đình lạm. <b>Grammar</b>: ghép <i>stagnation</i> + <i>inflation</i>.",
+   "example": {
+    "en": "<b>Stagflation</b> is when there is slow growth, but prices are increasing fast.",
+    "vi": "<b>Đình lạm</b> là tăng trưởng chậm nhưng giá tăng nhanh."
+   }
+  },
+  {
+   "word": "recession",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˈseʃn/",
+   "def_en": "A period of negative growth, when the economy is getting smaller.",
+   "def_vi": "Giai đoạn tăng trưởng âm.",
+   "gloss_vi": "suy thoái",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Recession</i> (noun) = suy thoái. <b>Collocations / chunks</b>: <i>go into recession</i>.",
+   "example": {
+    "en": "A <b>recession</b> is a period when there is negative growth",
+    "vi": "<b>Suy thoái</b> là giai đoạn tăng trưởng âm."
+   }
+  },
+  {
+   "word": "slump",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/slʌmp/",
+   "def_en": "A very bad recession.",
+   "def_vi": "Suy thoái rất nặng.",
+   "gloss_vi": "khủng hoảng sụt giảm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "boom <i>(n. bùng nổ)</i>",
+   "grammar_vi": "<i>Slump</i> (noun) = khủng hoảng sụt giảm. <b>Grammar</b>: cũng là động từ.",
+   "example": {
+    "en": "A <b>slump</b> is a very bad recession.",
+    "vi": "<b>Khủng hoảng sụt giảm</b> là suy thoái rất tệ."
+   }
+  },
+  {
+   "word": "depression",
+   "sense": "economic crisis",
+   "pos": "noun",
+   "ipa": "/dɪˈpreʃn/",
+   "def_en": "A very bad slump.",
+   "def_vi": "Sụt giảm rất nặng.",
+   "gloss_vi": "đại suy thoái",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Depression</i> (noun) = đại suy thoái. <b>Grammar</b>: nghĩa kinh tế.",
+   "example": {
+    "en": "A <b>depression</b> is a very bad slump.",
+    "vi": "<b>Đại suy thoái</b> là sụt giảm rất tệ."
+   }
+  },
+  {
+   "word": "boom and bust",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌbuːm ən ˈbʌst/",
+   "def_en": "Growth and rising profits followed by falling growth and losses.",
+   "def_vi": "Tăng trưởng rồi suy giảm, thua lỗ.",
+   "gloss_vi": "thịnh rồi suy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Boom and bust</i> (noun) = thịnh rồi suy. <b>Collocations / chunks</b>: cụm cố định.",
+   "example": {
+    "en": "<b>Boom and bust</b> is a period of growth and rising company profits followed by one with falling growth and losses.",
+    "vi": "<b>Thịnh rồi suy</b> là giai đoạn tăng trưởng tiếp nối suy giảm."
+   }
+  }
+ ]
+}

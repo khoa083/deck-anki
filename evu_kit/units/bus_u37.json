@@ -1,0 +1,328 @@
+{
+ "book": "bus",
+ "unit": 37,
+ "title_vi": "Giao dịch chứng khoán",
+ "theory_html": "<p><b>A. Market indexes</b><br><i>A. Chỉ số thị trường</i></p> <p><b>demand, share price, index</b> (pl. <b>indexes / indices</b>): <b>FTSE (‘Footsie’), Dow Jones Industrial Average, Nasdaq, CAC 40, DAX, Nikkei, Hang Seng, SSE</b>.</p><p><i><b>nhu cầu, giá cổ phiếu, chỉ số thị trường</b>.</i></p> <p><b>B. Market activity: good times</b><br><i>B. Thị trường lên</i></p> <p><b>trading, very high turnover, changing hands, gains, blue chips, bull market, record high, close, open, gain (points), close up, sentiment is bullish, go through the … level, barrier</b>.</p><p><i><b>giao dịch, khối lượng rất lớn, sang tay, mức tăng, cổ phiếu blue chip, thị trường giá lên, mức cao kỷ lục, đóng cửa, mở cửa, tăng điểm, đóng cửa tăng, tâm lý lạc quan, vượt mốc, rào cản</b>.</i></p> <p><b>C. … and bad</b><br><i>C. Thị trường xuống</i></p> <p><b>panic selling, lows, sell-off, declines, wiped off, market capitalization, closing down, bear market, falls, bearish, rally, collapse / crash</b>.</p><p><i><b>bán tháo hoảng loạn, mức thấp, đợt bán tháo, sụt giảm, bị xóa sổ, vốn hóa thị trường, đóng cửa giảm, thị trường giá xuống, bi quan, phục hồi, sụp đổ</b>.</i></p>",
+ "items": [
+  {
+   "word": "share price",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈʃeə praɪs/",
+   "def_en": "The price of a company’s shares.",
+   "def_vi": "Giá cổ phiếu công ty.",
+   "gloss_vi": "giá cổ phiếu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Share price</i> (noun) = giá cổ phiếu. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "If there is demand for shares in a company, its <b>share price</b> goes up.",
+    "vi": "Nếu có nhu cầu, <b>giá cổ phiếu</b> tăng."
+   }
+  },
+  {
+   "word": "index",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɪndeks/",
+   "def_en": "A figure showing the overall value of shares traded on a stock market.",
+   "def_vi": "Con số thể hiện giá trị chung cổ phiếu trên sàn.",
+   "gloss_vi": "chỉ số",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Index</i> (noun) = chỉ số. <b>Grammar</b>: số nhiều <i>indexes / indices</i>.",
+   "example": {
+    "en": "The overall value of shares traded on a stock market is shown by an <b>index</b> (plural indexes or indices).",
+    "vi": "Giá trị chung cổ phiếu được thể hiện bằng <b>chỉ số</b>."
+   }
+  },
+  {
+   "word": "trading",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtreɪdɪŋ/",
+   "def_en": "Buying and selling of shares.",
+   "def_vi": "Mua bán cổ phiếu.",
+   "gloss_vi": "giao dịch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trading</i> (noun) = giao dịch. <b>Grammar</b>: động từ <i>trade</i>.",
+   "example": {
+    "en": "<b>Trading</b> has been heavy on the New York Stock Exchange",
+    "vi": "<b>Giao dịch</b> rất sôi động trên sàn New York."
+   }
+  },
+  {
+   "word": "turnover",
+   "sense": "number of shares traded",
+   "pos": "noun",
+   "ipa": "/ˈtɜːnəʊvə(r)/",
+   "def_en": "The number of shares bought and sold.",
+   "def_vi": "Số cổ phiếu được mua bán.",
+   "gloss_vi": "khối lượng giao dịch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Turnover</i> (noun) = khối lượng giao dịch. <b>Grammar</b>: nghĩa chứng khoán.",
+   "example": {
+    "en": "with very high <b>turnover</b> of one and a half billion shares",
+    "vi": "<b>Khối lượng giao dịch</b> rất cao: 1,5 tỉ cổ phiếu."
+   }
+  },
+  {
+   "word": "change hands",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌtʃeɪndʒ ˈhændz/",
+   "def_en": "To be bought and sold.",
+   "def_vi": "Được mua bán.",
+   "gloss_vi": "sang tay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Change hands</i> (verb) = sang tay. <b>Collocations / chunks</b>: cụm cố định.",
+   "example": {
+    "en": "one and a half billion shares <b>changing hands</b>",
+    "vi": "1,5 tỉ cổ phiếu <b>sang tay</b>."
+   }
+  },
+  {
+   "word": "gains",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɡeɪnz/",
+   "def_en": "Big increases in value.",
+   "def_vi": "Mức tăng giá trị lớn.",
+   "gloss_vi": "mức tăng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "declines <i>(n. sụt giảm)</i>",
+   "grammar_vi": "<i>Gains</i> (noun) = mức tăng. <b>Grammar</b>: động từ <i>gain</i>.",
+   "example": {
+    "en": "We’ve seen some spectacular <b>gains</b>",
+    "vi": "Có vài <b>mức tăng</b> ngoạn mục."
+   }
+  },
+  {
+   "word": "blue chips",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbluː tʃɪps/",
+   "def_en": "Famous companies that are profitable in good times and bad.",
+   "def_vi": "Công ty nổi tiếng có lãi cả lúc thịnh lẫn suy.",
+   "gloss_vi": "cổ phiếu blue chip",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Blue chips</i> (noun) = cổ phiếu blue chip. <b>Collocations / chunks</b>: <i>blue-chip companies</i>.",
+   "example": {
+    "en": "especially among <b>blue chips</b>",
+    "vi": "Nhất là ở nhóm <b>blue chip</b>."
+   }
+  },
+  {
+   "word": "bull market",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbʊl ˌmɑːkɪt/",
+   "def_en": "A rising level of prices.",
+   "def_vi": "Mức giá đang tăng.",
+   "gloss_vi": "thị trường giá lên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "bear market <i>(n. thị trường giá xuống)</i>",
+   "grammar_vi": "<i>Bull market</i> (noun) = thị trường giá lên. <b>Collocations / chunks</b>: tính từ <i>bullish</i>.",
+   "example": {
+    "en": "The <b>bull market</b> seems set to continue",
+    "vi": "<b>Thị trường giá lên</b> có vẻ tiếp tục."
+   }
+  },
+  {
+   "word": "record high",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌrekɔːd ˈhaɪ/",
+   "def_en": "The highest level ever.",
+   "def_vi": "Mức cao nhất từ trước.",
+   "gloss_vi": "mức cao kỷ lục",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Record high</i> (noun) = mức cao kỷ lục. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "after yesterday’s <b>record high</b> at the close",
+    "vi": "Sau <b>mức cao kỷ lục</b> hôm qua."
+   }
+  },
+  {
+   "word": "close up",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkləʊz ˈʌp/",
+   "def_en": "To end the day higher.",
+   "def_vi": "Kết thúc ngày ở mức cao hơn.",
+   "gloss_vi": "đóng cửa tăng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "close down <i>(v. đóng cửa giảm)</i>",
+   "grammar_vi": "<i>Close up</i> (verb) = đóng cửa tăng. <b>Grammar</b>: nghĩa chứng khoán.",
+   "example": {
+    "en": "gaining 121 points to <b>close up</b> at 14,721",
+    "vi": "Tăng 121 điểm, <b>đóng cửa tăng</b> ở 14.721."
+   }
+  },
+  {
+   "word": "bullish",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈbʊlɪʃ/",
+   "def_en": "Optimistic about the market.",
+   "def_vi": "Lạc quan về thị trường.",
+   "gloss_vi": "lạc quan",
+   "synonyms": "optimistic <i>(adj. lạc quan)</i>",
+   "antonyms": "bearish <i>(adj. bi quan)</i>",
+   "grammar_vi": "<i>Bullish</i> (adjective) = lạc quan. <b>Grammar</b>: từ <i>bull market</i>.",
+   "example": {
+    "en": "Sentiment is <b>bullish</b>",
+    "vi": "Tâm lý <b>lạc quan</b>."
+   }
+  },
+  {
+   "word": "barrier",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbæriə(r)/",
+   "def_en": "An important level that is not easy to get through.",
+   "def_vi": "Mức quan trọng khó vượt qua.",
+   "gloss_vi": "rào cản",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Barrier</i> (noun) = rào cản. <b>Collocations / chunks</b>: <i>psychological barrier</i>.",
+   "example": {
+    "en": "others see this as a psychological <b>barrier</b> that will be difficult to pass",
+    "vi": "Có người coi đây là <b>rào cản</b> tâm lý khó vượt."
+   }
+  },
+  {
+   "word": "panic selling",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpænɪk ˌselɪŋ/",
+   "def_en": "Selling shares at any price.",
+   "def_vi": "Bán cổ phiếu bằng mọi giá.",
+   "gloss_vi": "bán tháo hoảng loạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Panic selling</i> (noun) = bán tháo hoảng loạn. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "There was <b>panic selling</b> on the New York Stock Exchange today",
+    "vi": "Đã có <b>bán tháo hoảng loạn</b> trên sàn New York."
+   }
+  },
+  {
+   "word": "sell-off",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsel ɒf/",
+   "def_en": "Selling (of shares) on a large scale.",
+   "def_vi": "Bán (cổ phiếu) ồ ạt.",
+   "gloss_vi": "đợt bán tháo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sell-off</i> (noun) = đợt bán tháo. <b>Grammar</b>: động từ <i>sell off</i>.",
+   "example": {
+    "en": "as share prices fell to new five-year lows in a massive <b>sell-off</b>",
+    "vi": "Giá rớt xuống đáy năm năm trong <b>đợt bán tháo</b> lớn."
+   }
+  },
+  {
+   "word": "wipe off",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌwaɪp ˈɒf/",
+   "def_en": "To take (value) off.",
+   "def_vi": "Xóa đi (giá trị).",
+   "gloss_vi": "xóa sổ, bốc hơi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wipe off</i> (verb) = xóa sổ, bốc hơi. <b>Collocations / chunks</b>: <i>wipe sth off the value of</i>.",
+   "example": {
+    "en": "with billions of dollars <b>wiped off</b> the value of some of America’s best-known companies",
+    "vi": "Hàng tỉ đô bị <b>xóa</b> khỏi giá trị công ty."
+   }
+  },
+  {
+   "word": "market capitalization",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmɑːkɪt ˌkæpɪtəlaɪˈzeɪʃn/",
+   "def_en": "The total value of shares on the market.",
+   "def_vi": "Tổng giá trị cổ phiếu trên thị trường.",
+   "gloss_vi": "vốn hóa thị trường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Market capitalization</i> (noun) = vốn hóa thị trường. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "more than ten per cent of total <b>market capitalization</b>",
+    "vi": "Hơn 10% tổng <b>vốn hóa thị trường</b>."
+   }
+  },
+  {
+   "word": "bear market",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbeə ˌmɑːkɪt/",
+   "def_en": "A falling level of prices.",
+   "def_vi": "Mức giá đang giảm.",
+   "gloss_vi": "thị trường giá xuống",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "bull market <i>(n. thị trường giá lên)</i>",
+   "grammar_vi": "<i>Bear market</i> (noun) = thị trường giá xuống. <b>Collocations / chunks</b>: tính từ <i>bearish</i>.",
+   "example": {
+    "en": "The <b>bear market</b> seems set to continue",
+    "vi": "<b>Thị trường giá xuống</b> có vẻ tiếp tục."
+   }
+  },
+  {
+   "word": "bearish",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈbeərɪʃ/",
+   "def_en": "Pessimistic about the market.",
+   "def_vi": "Bi quan về thị trường.",
+   "gloss_vi": "bi quan",
+   "synonyms": "pessimistic <i>(adj. bi quan)</i>",
+   "antonyms": "bullish <i>(adj. lạc quan)</i>",
+   "grammar_vi": "<i>Bearish</i> (adjective) = bi quan. <b>Grammar</b>: từ <i>bear market</i>.",
+   "example": {
+    "en": "Dealers are still very <b>bearish</b>",
+    "vi": "Nhà buôn vẫn rất <b>bi quan</b>."
+   }
+  },
+  {
+   "word": "rally",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈræli/",
+   "def_en": "Prices starting to rise again.",
+   "def_vi": "Giá bắt đầu tăng lại.",
+   "gloss_vi": "sự phục hồi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rally</i> (noun) = sự phục hồi. <b>Grammar</b>: cũng là động từ.",
+   "example": {
+    "en": "there is no sign of a <b>rally</b>",
+    "vi": "Không có dấu hiệu <b>phục hồi</b>."
+   }
+  },
+  {
+   "word": "crash",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kræʃ/",
+   "def_en": "A very serious drop in the value of shares, with very serious consequences.",
+   "def_vi": "Sự sụt giá cổ phiếu rất nghiêm trọng.",
+   "gloss_vi": "sự sụp đổ (thị trường)",
+   "synonyms": "collapse <i>(n. sụp đổ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Crash</i> (noun) = sự sụp đổ (thị trường). <b>Collocations / chunks</b>: <i>stock market crash</i>.",
+   "example": {
+    "en": "we may be looking at a real stock market collapse or <b>crash</b>, like the ones in 1929 and 1987",
+    "vi": "Có thể là một vụ sụp đổ hay <b>sụp đổ</b> thị trường thực sự."
+   }
+  }
+ ]
+}

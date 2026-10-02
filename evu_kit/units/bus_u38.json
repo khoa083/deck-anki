@@ -1,0 +1,376 @@
+{
+ "book": "bus",
+ "unit": 38,
+ "title_vi": "Các chỉ số 1",
+ "theory_html": "<p><b>A. Finance and economics</b><br><i>A. Tài chính và kinh tế học</i></p> <p><b>finance, financial problems, high finance, finances, financial</b>; <b>economics, economic, uneconomic, economic problems, economical, uneconomical, economic indicators, economy</b>. Note: ‘I’m studying <b>economics</b>’ (NOT economy).</p><p><i><b>tài chính, vấn đề tài chính, tài chính quy mô lớn, tình hình tài chính; kinh tế học, có lợi nhuận, không sinh lời, tiết kiệm, không tiết kiệm, chỉ số kinh tế, nền kinh tế</b>.</i></p> <p><b>B. Inflation and unemployment</b><br><i>B. Lạm phát và thất nghiệp</i></p> <p><b>inflation, inflation rate, inflationary, the unemployed, unemployment, out of work, jobless / the jobless, labour shortages</b>.</p><p><i><b>lạm phát, tỉ lệ lạm phát, gây lạm phát, người thất nghiệp, tình trạng thất nghiệp, thiếu lao động</b>.</i></p> <p><b>C. Trade</b><br><i>C. Thương mại</i></p> <p><b>balance of payments, trade balance, imports, exports, trade surplus, trade deficit, trade gap, widen, narrow</b>.</p><p><i><b>cán cân thanh toán, cán cân thương mại, nhập khẩu, xuất khẩu, thặng dư, thâm hụt thương mại, chênh lệch thương mại, nới rộng, thu hẹp</b>.</i></p> <p><b>D. Growth and GDP</b><br><i>D. Tăng trưởng và GDP</i></p> <p><b>economic output, gross domestic product (GDP), GDP per capita, gross national product (GNP), growth, growth rate, grow</b>.</p><p><i><b>sản lượng kinh tế, tổng sản phẩm quốc nội, GDP bình quân đầu người, tổng sản phẩm quốc dân, tăng trưởng, tốc độ tăng trưởng</b>.</i></p>",
+ "items": [
+  {
+   "word": "finance",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfaɪnæns/",
+   "def_en": "Money provided for a purpose; the management or study of money.",
+   "def_vi": "Tiền cấp cho mục đích; quản lý hay nghiên cứu tiền.",
+   "gloss_vi": "tài chính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Finance</i> (noun) = tài chính. <b>Grammar</b>: tính từ <i>financial</i>.",
+   "example": {
+    "en": "<b>Finance</b> is: money provided or lent for a particular purpose.",
+    "vi": "<b>Tài chính</b> là tiền được cấp hay cho vay cho mục đích nào đó."
+   }
+  },
+  {
+   "word": "high finance",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌhaɪ ˈfaɪnæns/",
+   "def_en": "Very large amounts of money used by governments and large companies.",
+   "def_vi": "Lượng tiền rất lớn của chính phủ, công ty lớn.",
+   "gloss_vi": "tài chính quy mô lớn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>High finance</i> (noun) = tài chính quy mô lớn. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "<b>High finance</b> involves very large amounts of money used by governments and large companies.",
+    "vi": "<b>Tài chính quy mô lớn</b> liên quan đến số tiền khổng lồ."
+   }
+  },
+  {
+   "word": "finances",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfaɪnænsɪz/",
+   "def_en": "The money a person or organization has and how it is managed.",
+   "def_vi": "Tiền một người, tổ chức có và cách quản lý.",
+   "gloss_vi": "tình hình tài chính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Finances</i> (noun) = tình hình tài chính. <b>Grammar</b>: số nhiều.",
+   "example": {
+    "en": "A person’s or organization’s <b>finances</b> are the money they have and how it is managed",
+    "vi": "<b>Tình hình tài chính</b> là tiền họ có và cách quản lý."
+   }
+  },
+  {
+   "word": "economics",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌiːkəˈnɒmɪks/",
+   "def_en": "The study of the way money works and how it is used.",
+   "def_vi": "Môn nghiên cứu cách tiền vận hành.",
+   "gloss_vi": "kinh tế học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Economics</i> (noun) = kinh tế học. <b>Grammar</b>: không nói <i>studying economy</i>.",
+   "example": {
+    "en": "You don’t say ‘I’m studying economy’ but ‘I’m studying <b>economics</b>.’",
+    "vi": "Tôi đang học <b>kinh tế học</b>."
+   }
+  },
+  {
+   "word": "economic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌiːkəˈnɒmɪk/",
+   "def_en": "Profitable; relating to the economy.",
+   "def_vi": "Có lời; liên quan kinh tế.",
+   "gloss_vi": "có lời; thuộc kinh tế",
+   "synonyms": "profitable <i>(adj. có lãi)</i>",
+   "antonyms": "uneconomic <i>(adj. không có lời)</i>",
+   "grammar_vi": "<i>Economic</i> (adjective) = có lời; thuộc kinh tế. <b>Grammar</b>: khác <i>economical</i> (tiết kiệm).",
+   "example": {
+    "en": "A profitable activity is <b>economic</b> and an unprofitable one is uneconomic.",
+    "vi": "Hoạt động có lời là <b>có hiệu quả kinh tế</b>."
+   }
+  },
+  {
+   "word": "economical",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌiːkəˈnɒmɪkl/",
+   "def_en": "Cheap to buy, use or do.",
+   "def_vi": "Rẻ khi mua, dùng, làm.",
+   "gloss_vi": "tiết kiệm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "uneconomical <i>(adj. tốn kém)</i>",
+   "grammar_vi": "<i>Economical</i> (adjective) = tiết kiệm. <b>Grammar</b>: khác <i>economic</i>.",
+   "example": {
+    "en": "If something is <b>economical</b>, it is cheap to buy, to use or to do.",
+    "vi": "Nếu thứ gì rẻ khi dùng, nó <b>tiết kiệm</b>."
+   }
+  },
+  {
+   "word": "economic indicators",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌiːkəˌnɒmɪk ˈɪndɪkeɪtəz/",
+   "def_en": "Figures relating to how well a country’s economy is working.",
+   "def_vi": "Số liệu cho biết nền kinh tế vận hành tốt ra sao.",
+   "gloss_vi": "chỉ số kinh tế",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Economic indicators</i> (noun) = chỉ số kinh tế. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "<b>Economic indicators</b> are figures relating to how well a country’s economy is working.",
+    "vi": "<b>Chỉ số kinh tế</b> cho biết nền kinh tế hoạt động tốt thế nào."
+   }
+  },
+  {
+   "word": "inflation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˈfleɪʃn/",
+   "def_en": "Rising prices.",
+   "def_vi": "Giá tăng.",
+   "gloss_vi": "lạm phát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Inflation</i> (noun) = lạm phát. <b>Grammar</b>: tính từ <i>inflationary</i>.",
+   "example": {
+    "en": "<b>Inflation</b> is rising prices",
+    "vi": "<b>Lạm phát</b> là giá cả tăng."
+   }
+  },
+  {
+   "word": "inflation rate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˈfleɪʃn reɪt/",
+   "def_en": "The rate at which prices are rising.",
+   "def_vi": "Tốc độ giá tăng.",
+   "gloss_vi": "tỉ lệ lạm phát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Inflation rate</i> (noun) = tỉ lệ lạm phát. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "the rate at which they are rising is the <b>inflation rate</b>",
+    "vi": "Tốc độ tăng giá là <b>tỉ lệ lạm phát</b>."
+   }
+  },
+  {
+   "word": "unemployment",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌʌnɪmˈplɔɪmənt/",
+   "def_en": "The number of people without a job.",
+   "def_vi": "Số người không có việc.",
+   "gloss_vi": "tình trạng thất nghiệp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Unemployment</i> (noun) = tình trạng thất nghiệp. <b>Grammar</b>: người = <i>the unemployed</i>.",
+   "example": {
+    "en": "The level of <b>unemployment</b> is the number of people without a job.",
+    "vi": "Mức <b>thất nghiệp</b> là số người không có việc."
+   }
+  },
+  {
+   "word": "jobless",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈdʒɒbləs/",
+   "def_en": "Unemployed (especially in journalism).",
+   "def_vi": "Thất nghiệp (báo chí).",
+   "gloss_vi": "thất nghiệp",
+   "synonyms": "unemployed <i>(adj. thất nghiệp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Jobless</i> (adjective) = thất nghiệp. <b>Collocations / chunks</b>: <i>the jobless</i> (danh từ).",
+   "example": {
+    "en": "Unemployed people are out of work, and are also referred to as <b>jobless</b> (adjective) or the jobless",
+    "vi": "Người thất nghiệp còn gọi là <b>thất nghiệp</b> (báo chí)."
+   }
+  },
+  {
+   "word": "balance of payments",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌbæləns əv ˈpeɪmənts/",
+   "def_en": "The difference between money coming into and going out of a country.",
+   "def_vi": "Chênh lệch tiền vào và ra khỏi một nước.",
+   "gloss_vi": "cán cân thanh toán",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Balance of payments</i> (noun) = cán cân thanh toán. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "The <b>balance of payments</b> is the difference between the money coming into and going out of a country.",
+    "vi": "<b>Cán cân thanh toán</b> là chênh lệch tiền vào ra quốc gia."
+   }
+  },
+  {
+   "word": "trade balance",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtreɪd ˌbæləns/",
+   "def_en": "The difference between payments for imports and exports.",
+   "def_vi": "Chênh lệch giữa nhập khẩu và xuất khẩu.",
+   "gloss_vi": "cán cân thương mại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trade balance</i> (noun) = cán cân thương mại. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "The <b>trade balance</b> is the difference between payments for imports and payments for exports",
+    "vi": "<b>Cán cân thương mại</b> là chênh lệch nhập và xuất khẩu."
+   }
+  },
+  {
+   "word": "imports",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɪmpɔːts/",
+   "def_en": "Goods and services from abroad.",
+   "def_vi": "Hàng hóa dịch vụ từ nước ngoài.",
+   "gloss_vi": "hàng nhập khẩu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "exports <i>(n. hàng xuất khẩu)</i>",
+   "grammar_vi": "<i>Imports</i> (noun) = hàng nhập khẩu. <b>Grammar</b>: động từ /ɪmˈpɔːt/, danh từ /ˈɪmpɔːt/.",
+   "example": {
+    "en": "payments for <b>imports</b> – goods and services from abroad",
+    "vi": "<b>Nhập khẩu</b> là hàng từ nước ngoài."
+   }
+  },
+  {
+   "word": "exports",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈekspɔːts/",
+   "def_en": "Products and services sold abroad.",
+   "def_vi": "Hàng hóa dịch vụ bán ra nước ngoài.",
+   "gloss_vi": "hàng xuất khẩu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "imports <i>(n. hàng nhập khẩu)</i>",
+   "grammar_vi": "<i>Exports</i> (noun) = hàng xuất khẩu. <b>Grammar</b>: động từ /ɪkˈspɔːt/.",
+   "example": {
+    "en": "payments for <b>exports</b> – products and services sold abroad",
+    "vi": "<b>Xuất khẩu</b> là hàng bán ra nước ngoài."
+   }
+  },
+  {
+   "word": "trade surplus",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtreɪd ˌsɜːpləs/",
+   "def_en": "When a country exports more than it imports.",
+   "def_vi": "Khi xuất khẩu nhiều hơn nhập khẩu.",
+   "gloss_vi": "thặng dư thương mại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "trade deficit <i>(n. thâm hụt thương mại)</i>",
+   "grammar_vi": "<i>Trade surplus</i> (noun) = thặng dư thương mại. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "When a country exports more than it imports, it has a <b>trade surplus</b>.",
+    "vi": "Xuất nhiều hơn nhập là <b>thặng dư thương mại</b>."
+   }
+  },
+  {
+   "word": "trade deficit",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtreɪd ˌdefɪsɪt/",
+   "def_en": "When a country imports more than it exports.",
+   "def_vi": "Khi nhập khẩu nhiều hơn xuất khẩu.",
+   "gloss_vi": "thâm hụt thương mại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "trade surplus <i>(n. thặng dư thương mại)</i>",
+   "grammar_vi": "<i>Trade deficit</i> (noun) = thâm hụt thương mại. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "When the opposite is the case, it has a <b>trade deficit</b>.",
+    "vi": "Ngược lại là <b>thâm hụt thương mại</b>."
+   }
+  },
+  {
+   "word": "trade gap",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtreɪd ɡæp/",
+   "def_en": "The amount of a trade surplus or deficit.",
+   "def_vi": "Lượng thặng dư hay thâm hụt thương mại.",
+   "gloss_vi": "chênh lệch thương mại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trade gap</i> (noun) = chênh lệch thương mại. <b>Collocations / chunks</b>: <i>the trade gap widens/narrows</i>.",
+   "example": {
+    "en": "The amount of this surplus or deficit is the <b>trade gap</b>.",
+    "vi": "Lượng thặng dư hay thâm hụt là <b>chênh lệch thương mại</b>."
+   }
+  },
+  {
+   "word": "widen",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈwaɪdn/",
+   "def_en": "(Of a gap) to get bigger.",
+   "def_vi": "(Khoảng chênh) to ra.",
+   "gloss_vi": "nới rộng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "narrow <i>(v. thu hẹp)</i>",
+   "grammar_vi": "<i>Widen</i> (verb) = nới rộng. <b>Grammar</b>: <i>wide</i> + <i>-en</i>.",
+   "example": {
+    "en": "If the trade gap gets bigger, it <b>widens</b>",
+    "vi": "Nếu chênh lệch lớn hơn, nó <b>nới rộng</b>."
+   }
+  },
+  {
+   "word": "GDP",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdʒiː diː ˈpiː/",
+   "def_en": "Gross domestic product: the value of all goods and services produced in a country.",
+   "def_vi": "Tổng sản phẩm quốc nội.",
+   "gloss_vi": "GDP",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>GDP</i> (noun) = GDP. <b>Collocations / chunks</b>: <i>GDP per capita</i>.",
+   "example": {
+    "en": "Gross domestic product or <b>GDP</b> is the value of all the goods and services produced in a particular country.",
+    "vi": "<b>GDP</b> là giá trị mọi hàng hóa dịch vụ sản xuất trong nước."
+   }
+  },
+  {
+   "word": "GDP per capita",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdʒiː diː ˌpiː pə ˈkæpɪtə/",
+   "def_en": "Total output of a country divided by the number of people living there.",
+   "def_vi": "Tổng sản lượng chia số dân.",
+   "gloss_vi": "GDP bình quân đầu người",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>GDP per capita</i> (noun) = GDP bình quân đầu người. <b>Grammar</b>: <i>per capita</i> = mỗi đầu người.",
+   "example": {
+    "en": "<b>GDP per capita</b> is the total output of a particular country divided by the number of people living there.",
+    "vi": "<b>GDP bình quân đầu người</b> là tổng sản lượng chia dân số."
+   }
+  },
+  {
+   "word": "GNP",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdʒiː en ˈpiː/",
+   "def_en": "Gross national product: GDP plus payments from abroad.",
+   "def_vi": "Tổng sản phẩm quốc dân: GDP cộng thu từ nước ngoài.",
+   "gloss_vi": "GNP",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>GNP</i> (noun) = GNP. <b>Grammar</b>: viết tắt <i>gross national product</i>.",
+   "example": {
+    "en": "The size of an economy is also sometimes measured in terms of gross national product or <b>GNP</b>.",
+    "vi": "Quy mô kinh tế còn đo bằng <b>GNP</b>."
+   }
+  },
+  {
+   "word": "growth rate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡrəʊθ reɪt/",
+   "def_en": "The speed at which a country’s economy grows.",
+   "def_vi": "Tốc độ kinh tế tăng trưởng.",
+   "gloss_vi": "tốc độ tăng trưởng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Growth rate</i> (noun) = tốc độ tăng trưởng. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "The <b>growth rate</b> is the speed at which a country’s economy grows and gets bigger.",
+    "vi": "<b>Tốc độ tăng trưởng</b> là tốc độ kinh tế lớn lên."
+   }
+  }
+ ]
+}
