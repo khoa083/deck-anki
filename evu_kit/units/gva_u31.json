@@ -1,0 +1,599 @@
+{
+ "book": "gva",
+ "unit": 31,
+ "title_vi": "Vấn đề giới",
+ "theory_html": "<p><b>V1. Pronouns with gender-neutral nouns</b><br><i>V1. Đại từ với danh từ trung tính</i></p> <p>With a gender-neutral noun (<b>student, doctor</b>), use <b>he / she</b> if we know the gender; otherwise <b>they, them, their, themselves</b>: <b>If a student fails their exams, they will usually get a chance to resit.</b></p><p><i>Không rõ giới tính → dùng <b>they/them/their</b>.</i></p> <p><b>V2. Relationship words for both genders</b><br><i>V2. Từ quan hệ dùng cho cả hai giới</i></p> <p><b>partner, spouse, colleague, relative, cousin, parent, friend, sibling</b>; <b>spouse</b> = husband or wife (formal, legal); <b>sibling</b> = brother or sister (formal).</p><p><i>Từ trung tính về giới.</i></p> <p><b>V3. Phrasal verbs with stand</b><br><i>V3. Cụm động từ với stand</i></p> <p><b>stand out</b> = be visibly different; <b>stand by</b> = not act to prevent something; <b>not stand for</b> = refuse to accept; <b>stand in for</b> = do someone else's job; <b>stand up for</b> = defend and fight for.</p><p><i>Các cụm động từ với <b>stand</b>.</i></p>",
+ "items": [
+  {
+   "word": "gender-neutral",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌdʒendə ˈnjuːtrəl/",
+   "def_en": "Not specifying gender; inclusive of both sexes.",
+   "def_vi": "Trung tính về giới.",
+   "gloss_vi": "trung tính về giới",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "gender-biased <i>(adj. thiên vị giới)</i>",
+   "grammar_vi": "<i>Gender-neutral</i> (adjective) = trung tính về giới. <b>Grammar</b>: tính từ ghép <i>gender</i> + <i>neutral</i>.",
+   "example": {
+    "en": "Is it possible to impose a <b>gender-neutral</b> language on today's society?",
+    "vi": "Có thể áp đặt ngôn ngữ <b>trung tính về giới</b> lên xã hội ngày nay không?"
+   }
+  },
+  {
+   "word": "connotation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkɒnəˈteɪʃn/",
+   "def_en": "An idea or feeling that a word suggests in addition to its meaning.",
+   "def_vi": "Hàm ý, nghĩa liên tưởng.",
+   "gloss_vi": "hàm ý",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Connotation</i> (noun) = hàm ý. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "English words with sexist <b>connotations</b>",
+    "vi": "Những từ tiếng Anh có <b>hàm ý</b> phân biệt giới tính."
+   }
+  },
+  {
+   "word": "categorise",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈkætəɡəraɪz/",
+   "def_en": "To put people or things into groups.",
+   "def_vi": "Phân loại.",
+   "gloss_vi": "phân loại",
+   "synonyms": "classify <i>(v. phân loại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Categorise</i> (verb) = phân loại. <b>Word family</b>: category (n.).",
+   "example": {
+    "en": "lead those who speak the language to subconsciously <b>categorise</b> people by their gender",
+    "vi": "Khiến người nói vô thức <b>phân loại</b> người khác theo giới."
+   }
+  },
+  {
+   "word": "rooted in",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈruːtɪd ɪn/",
+   "def_en": "Having developed from something and strongly connected to it.",
+   "def_vi": "Bắt rễ từ, ăn sâu vào.",
+   "gloss_vi": "ăn sâu vào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rooted in</i> (adjective) = ăn sâu vào. <b>Grammar</b>: <i>deeply ~</i>.",
+   "example": {
+    "en": "Human language is deeply <b>rooted in</b> the subconscious",
+    "vi": "Ngôn ngữ con người <b>ăn sâu vào</b> tiềm thức."
+   }
+  },
+  {
+   "word": "evidence of",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈevɪdəns əv/",
+   "def_en": "Facts or signs that show something exists or is true.",
+   "def_vi": "Bằng chứng về.",
+   "gloss_vi": "bằng chứng về",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Evidence of</i> (noun) = bằng chứng về. <b>Grammar</b>: không <i>evidence on</i>.",
+   "example": {
+    "en": "the language of a culture is clear <b>evidence of</b> the values and beliefs of that culture",
+    "vi": "Ngôn ngữ của một nền văn hóa là <b>bằng chứng</b> rõ ràng <b>về</b> giá trị của nó."
+   }
+  },
+  {
+   "word": "gender-biased",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌdʒendə ˈbaɪəst/",
+   "def_en": "Unfairly favouring one gender.",
+   "def_vi": "Thiên vị giới.",
+   "gloss_vi": "thiên vị giới",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "gender-neutral <i>(adj. trung tính)</i>",
+   "grammar_vi": "<i>Gender-biased</i> (adjective) = thiên vị giới. <b>Grammar</b>: tính từ ghép <i>gender</i> + <i>biased</i>.",
+   "example": {
+    "en": "Many <b>gender-biased</b> words exist in the English language.",
+    "vi": "Nhiều từ <b>thiên vị giới</b> tồn tại trong tiếng Anh."
+   }
+  },
+  {
+   "word": "impact on",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɪmpækt ɒn/",
+   "def_en": "A strong effect on something.",
+   "def_vi": "Tác động đến.",
+   "gloss_vi": "tác động lên",
+   "synonyms": "effect <i>(n. ảnh hưởng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Impact on</i> (noun) = tác động lên. <b>Grammar</b>: không <i>impact at</i>.",
+   "example": {
+    "en": "our choice of language has had an <b>impact on</b> our society and culture",
+    "vi": "Lựa chọn ngôn từ đã <b>tác động lên</b> xã hội và văn hóa."
+   }
+  },
+  {
+   "word": "contribute to",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kənˈtrɪbjuːt tə/",
+   "def_en": "To help to cause something.",
+   "def_vi": "Góp phần vào.",
+   "gloss_vi": "góp phần",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Contribute to</i> (verb) = góp phần. <b>Word family</b>: contribution (n.), contributor (n.).",
+   "example": {
+    "en": "Does sexist language <b>contribute to</b> how we think of both sexes today?",
+    "vi": "Ngôn ngữ phân biệt giới có <b>góp phần vào</b> cách ta nghĩ về hai giới không?"
+   }
+  },
+  {
+   "word": "impose",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪmˈpəʊz/",
+   "def_en": "To force people to accept a rule or system.",
+   "def_vi": "Áp đặt.",
+   "gloss_vi": "áp đặt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Impose</i> (verb) = áp đặt. <b>Grammar</b>: <i>impose sth on sb</i>.",
+   "example": {
+    "en": "Is it possible to <b>impose</b> a gender-neutral language on today's society?",
+    "vi": "Có thể <b>áp đặt</b> ngôn ngữ trung tính lên xã hội ngày nay không?"
+   }
+  },
+  {
+   "word": "perpetuate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/pəˈpetʃueɪt/",
+   "def_en": "To make something, especially something bad, continue.",
+   "def_vi": "Duy trì, làm kéo dài.",
+   "gloss_vi": "duy trì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Perpetuate</i> (verb) = duy trì. <b>Word family</b>: perpetuation (n.).",
+   "example": {
+    "en": "our society should be concerned about <b>perpetuating</b> gender stereotypes through language",
+    "vi": "Xã hội nên lo ngại về việc <b>duy trì</b> định kiến giới qua ngôn ngữ."
+   }
+  },
+  {
+   "word": "stereotype",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsteriətaɪp/",
+   "def_en": "A fixed, often unfair idea of what a type of person is like.",
+   "def_vi": "Định kiến, khuôn mẫu.",
+   "gloss_vi": "định kiến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stereotype</i> (noun) = định kiến. <b>Collocations / chunks</b>: gender ~s.",
+   "example": {
+    "en": "perpetuating gender <b>stereotypes</b> through language",
+    "vi": "Duy trì <b>định kiến</b> giới qua ngôn ngữ."
+   }
+  },
+  {
+   "word": "comedian",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəˈmiːdiən/",
+   "def_en": "A person who tells jokes (gender-neutral; not comedienne).",
+   "def_vi": "Diễn viên hài (trung tính).",
+   "gloss_vi": "diễn viên hài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Comedian</i> (noun) = diễn viên hài. <b>Note</b>: trung tính thay <i>comedienne</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Stand-up <b>comedian</b> Sarah Millican's tour has sold out at venues across the UK.",
+    "vi": "Tour diễn của <b>diễn viên hài</b> độc thoại Sarah Millican đã bán hết vé."
+   }
+  },
+  {
+   "word": "humankind",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌhjuːmənˈkaɪnd/",
+   "def_en": "All people (gender-neutral; not mankind).",
+   "def_vi": "Loài người (trung tính).",
+   "gloss_vi": "nhân loại",
+   "synonyms": "humanity <i>(n. nhân loại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Humankind</i> (noun) = nhân loại. <b>Note</b>: thay <i>mankind</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The fate of many of the planet's species is now in the hands of <b>humankind</b>.",
+    "vi": "Số phận nhiều loài nay nằm trong tay <b>nhân loại</b>."
+   }
+  },
+  {
+   "word": "flight attendant",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈflaɪt əˌtendənt/",
+   "def_en": "A person who looks after passengers on a plane (not stewardess).",
+   "def_vi": "Tiếp viên hàng không (trung tính).",
+   "gloss_vi": "tiếp viên hàng không",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flight attendant</i> (noun) = tiếp viên hàng không. <b>Note</b>: thay <i>stewardess</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The English-language requirements for <b>flight attendants</b> at some airlines are very high.",
+    "vi": "Yêu cầu tiếng Anh với <b>tiếp viên hàng không</b> ở một số hãng rất cao."
+   }
+  },
+  {
+   "word": "synthetic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/sɪnˈθetɪk/",
+   "def_en": "Made artificially (gender-neutral; not man-made).",
+   "def_vi": "Nhân tạo, tổng hợp.",
+   "gloss_vi": "tổng hợp",
+   "synonyms": "artificial <i>(adj. nhân tạo)</i>",
+   "antonyms": "natural <i>(adj. tự nhiên)</i>",
+   "grammar_vi": "<i>Synthetic</i> (adjective) = tổng hợp. <b>Note</b>: thay <i>man-made</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I can't wear clothes containing <b>synthetic</b> fibres.",
+    "vi": "Tôi không mặc được quần áo có sợi <b>tổng hợp</b>."
+   }
+  },
+  {
+   "word": "spouse",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/spaʊs/",
+   "def_en": "Husband or wife (formal, legal).",
+   "def_vi": "Vợ hoặc chồng (trang trọng).",
+   "gloss_vi": "vợ/chồng",
+   "synonyms": "partner <i>(n. bạn đời)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spouse</i> (noun) = vợ/chồng. <b>Note</b>: thay <i>wives</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Transport will be provided to and from the venue for conference delegates and their <b>spouses</b>.",
+    "vi": "Có xe đưa đón cho đại biểu và <b>vợ/chồng</b> họ."
+   }
+  },
+  {
+   "word": "sibling",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɪblɪŋ/",
+   "def_en": "A brother or sister (formal).",
+   "def_vi": "Anh chị em ruột (trang trọng).",
+   "gloss_vi": "anh chị em ruột",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sibling</i> (noun) = anh chị em ruột. <b>Note</b>: trung tính.",
+   "ex_kit": true,
+   "example": {
+    "en": "She has three <b>siblings</b>.",
+    "vi": "Cô ấy có ba <b>anh chị em ruột</b>."
+   }
+  },
+  {
+   "word": "male-dominated",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌmeɪl ˈdɒmɪneɪtɪd/",
+   "def_en": "Controlled mostly by men.",
+   "def_vi": "Do nam giới chi phối.",
+   "gloss_vi": "nam giới thống trị",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Male-dominated</i> (adjective) = nam giới thống trị. <b>Grammar</b>: tính từ ghép <i>male</i> + <i>dominated</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Women are striving to fit into <b>male-dominated</b> society.",
+    "vi": "Phụ nữ đang nỗ lực hòa nhập vào xã hội <b>do nam giới thống trị</b>."
+   }
+  },
+  {
+   "word": "aggressive",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əˈɡresɪv/",
+   "def_en": "Behaving in an angry or forceful way.",
+   "def_vi": "Hung hăng, quyết liệt.",
+   "gloss_vi": "quyết liệt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "passive <i>(adj. thụ động)</i>",
+   "grammar_vi": "<i>Aggressive</i> (adjective) = quyết liệt. <b>Word family</b>: aggression (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "Rugby needs <b>aggressive</b> players.",
+    "vi": "Bóng bầu dục đòi hỏi người chơi <b>quyết liệt</b>."
+   }
+  },
+  {
+   "word": "driven",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈdrɪvn/",
+   "def_en": "Determined to succeed.",
+   "def_vi": "Đầy quyết tâm.",
+   "gloss_vi": "đầy tham vọng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Driven</i> (adjective) = đầy tham vọng. <b>Grammar</b>: tính từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "Top athletes are very <b>driven</b>.",
+    "vi": "Vận động viên hàng đầu rất <b>quyết tâm</b>."
+   }
+  },
+  {
+   "word": "graceful",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɡreɪsfl/",
+   "def_en": "Moving in a smooth, attractive way.",
+   "def_vi": "Duyên dáng, uyển chuyển.",
+   "gloss_vi": "uyển chuyển",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Graceful</i> (adjective) = uyển chuyển. <b>Word family</b>: grace (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "Gymnasts are very <b>graceful</b>.",
+    "vi": "Vận động viên thể dục dụng cụ rất <b>uyển chuyển</b>."
+   }
+  },
+  {
+   "word": "submissive",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/səbˈmɪsɪv/",
+   "def_en": "Too willing to obey others.",
+   "def_vi": "Dễ phục tùng.",
+   "gloss_vi": "phục tùng",
+   "synonyms": "obedient <i>(adj. vâng lời)</i>",
+   "antonyms": "dominant <i>(adj. áp đảo)</i>",
+   "grammar_vi": "<i>Submissive</i> (adjective) = phục tùng. <b>Word family</b>: submission (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "Old stereotypes describe women as <b>submissive</b>.",
+    "vi": "Định kiến cũ cho phụ nữ là <b>phục tùng</b>."
+   }
+  },
+  {
+   "word": "equality",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/iˈkwɒləti/",
+   "def_en": "The same rights and opportunities for everyone.",
+   "def_vi": "Bình đẳng.",
+   "gloss_vi": "bình đẳng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "inequality <i>(n. bất bình đẳng)</i>",
+   "grammar_vi": "<i>Equality</i> (noun) = bình đẳng. <b>Word family</b>: equal (adj.), equalise (v.).",
+   "example": {
+    "en": "The positive outcomes of sport for gender <b>equality</b> and women's empowerment",
+    "vi": "Lợi ích của thể thao với <b>bình đẳng</b> giới và trao quyền cho phụ nữ."
+   }
+  },
+  {
+   "word": "empowerment",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪmˈpaʊəmənt/",
+   "def_en": "Giving people more control over their lives.",
+   "def_vi": "Sự trao quyền.",
+   "gloss_vi": "trao quyền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Empowerment</i> (noun) = trao quyền. <b>Word family</b>: empower (v.).",
+   "example": {
+    "en": "gender equality and women's <b>empowerment</b>",
+    "vi": "Bình đẳng giới và <b>trao quyền</b> cho phụ nữ."
+   }
+  },
+  {
+   "word": "discrimination",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˌskrɪmɪˈneɪʃn/",
+   "def_en": "Unfair treatment of people because of their gender, race, etc.",
+   "def_vi": "Sự phân biệt đối xử.",
+   "gloss_vi": "phân biệt đối xử",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Discrimination</i> (noun) = phân biệt đối xử. <b>Word family</b>: discriminate (v.).",
+   "example": {
+    "en": "constrained by gender-based <b>discrimination</b> in all areas and at all levels of sport",
+    "vi": "Bị hạn chế bởi <b>phân biệt đối xử</b> dựa trên giới."
+   }
+  },
+  {
+   "word": "segregate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈseɡrɪɡeɪt/",
+   "def_en": "To keep groups of people separate.",
+   "def_vi": "Tách biệt.",
+   "gloss_vi": "phân tách",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Segregate</i> (verb) = phân tách. <b>Grammar</b>: động từ.",
+   "example": {
+    "en": "Women are frequently <b>segregated</b> involuntarily into types of sports",
+    "vi": "Phụ nữ thường bị <b>tách</b> vào các môn dành riêng cho nữ."
+   }
+  },
+  {
+   "word": "marginalise",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈmɑːdʒɪnəlaɪz/",
+   "def_en": "To treat someone or something as unimportant.",
+   "def_vi": "Gạt ra lề.",
+   "gloss_vi": "gạt ra lề",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Marginalise</i> (verb) = gạt ra lề. <b>Grammar</b>: động từ.",
+   "example": {
+    "en": "In the media, women's sport is not only <b>marginalised</b>",
+    "vi": "Trên truyền thông, thể thao nữ không chỉ <b>bị gạt ra lề</b>."
+   }
+  },
+  {
+   "word": "overt",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əʊˈvɜːt/",
+   "def_en": "Done openly (more formal than open).",
+   "def_vi": "Công khai (trang trọng hơn open).",
+   "gloss_vi": "công khai",
+   "synonyms": "open <i>(adj. công khai)</i>",
+   "antonyms": "covert <i>(adj. ngấm ngầm)</i>",
+   "grammar_vi": "<i>Overt</i> (adjective) = công khai. <b>Note</b>: trang trọng.",
+   "ex_kit": true,
+   "example": {
+    "en": "Gymnastics doesn't need <b>overt</b> aggression.",
+    "vi": "Thể dục dụng cụ không cần <b>công khai</b> hung hăng."
+   }
+  },
+  {
+   "word": "deem",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/diːm/",
+   "def_en": "To consider (formal).",
+   "def_vi": "Coi là (trang trọng).",
+   "gloss_vi": "coi là",
+   "synonyms": "consider <i>(v. coi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Deem</i> (verb) = coi là. <b>Note</b>: trang trọng.",
+   "ex_kit": true,
+   "example": {
+    "en": "Gymnastics is <b>deemed</b> a feminine sport.",
+    "vi": "Thể dục dụng cụ <b>được coi là</b> môn nữ tính."
+   }
+  },
+  {
+   "word": "predominantly",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/prɪˈdɒmɪnəntli/",
+   "def_en": "Mainly (formal).",
+   "def_vi": "Chủ yếu (trang trọng).",
+   "gloss_vi": "chủ yếu",
+   "synonyms": "mainly <i>(adv. chủ yếu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Predominantly</i> (adverb) = chủ yếu. <b>Note</b>: trang trọng.",
+   "ex_kit": true,
+   "example": {
+    "en": "The sport is played <b>predominantly</b> by women.",
+    "vi": "Môn này <b>chủ yếu</b> do nữ chơi."
+   }
+  },
+  {
+   "word": "pursue",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/pəˈsjuː/",
+   "def_en": "To do or try to achieve something (formal).",
+   "def_vi": "Theo đuổi.",
+   "gloss_vi": "theo đuổi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pursue</i> (verb) = theo đuổi. <b>Note</b>: trang trọng = <i>do</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She <b>pursued</b> gymnastics for many years.",
+    "vi": "Cô ấy <b>theo đuổi</b> thể dục dụng cụ nhiều năm."
+   }
+  },
+  {
+   "word": "stand out",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/stænd ˈaʊt/",
+   "def_en": "To be visibly different or clearly visible.",
+   "def_vi": "Nổi bật.",
+   "gloss_vi": "nổi bật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stand out</i> (phr v) = nổi bật. <b>Grammar</b>: phr v nhiều từ <i>stand out</i>.",
+   "example": {
+    "en": "My larger frame and muscular physique <b>stood out</b> among most other gymnasts.",
+    "vi": "Vóc dáng to và cơ bắp của tôi <b>nổi bật</b> giữa các vận động viên."
+   }
+  },
+  {
+   "word": "stand by",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/stænd ˈbaɪ/",
+   "def_en": "To not act to prevent something.",
+   "def_vi": "Đứng nhìn (không can thiệp).",
+   "gloss_vi": "đứng nhìn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stand by</i> (phr v) = đứng nhìn. <b>Grammar</b>: phr v nhiều từ <i>stand by</i>.",
+   "example": {
+    "en": "I should not have <b>stood by</b> while she was bullied.",
+    "vi": "Lẽ ra tôi không nên <b>đứng nhìn</b> khi cô ấy bị bắt nạt."
+   }
+  },
+  {
+   "word": "not stand for",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/nɒt ˈstænd fə(r)/",
+   "def_en": "To refuse to accept.",
+   "def_vi": "Không chấp nhận.",
+   "gloss_vi": "không dung thứ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Not stand for</i> (phr v) = không dung thứ. <b>Grammar</b>: phr v nhiều từ <i>not stand for</i>.",
+   "example": {
+    "en": "I will <b>not stand for</b> rude behaviour",
+    "vi": "Tôi sẽ <b>không dung thứ</b> hành vi thô lỗ."
+   }
+  },
+  {
+   "word": "stand in for",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/stænd ˈɪn fə(r)/",
+   "def_en": "To do someone else's job.",
+   "def_vi": "Làm thay.",
+   "gloss_vi": "làm thay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stand in for</i> (phr v) = làm thay. <b>Grammar</b>: phr v nhiều từ <i>stand in for</i>.",
+   "example": {
+    "en": "My colleague <b>stood in for</b> me when I was ill.",
+    "vi": "Đồng nghiệp <b>làm thay</b> tôi khi tôi ốm."
+   }
+  },
+  {
+   "word": "stand up for",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/stænd ˈʌp fə(r)/",
+   "def_en": "To defend and fight for.",
+   "def_vi": "Bảo vệ, đấu tranh cho.",
+   "gloss_vi": "đứng lên bảo vệ",
+   "synonyms": "defend <i>(v. bảo vệ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stand up for</i> (phr v) = đứng lên bảo vệ. <b>Grammar</b>: phr v nhiều từ <i>stand up for</i>.",
+   "example": {
+    "en": "It's important to <b>stand up for</b> what you believe in.",
+    "vi": "Điều quan trọng là <b>đứng lên bảo vệ</b> điều bạn tin."
+   }
+  }
+ ]
+}
