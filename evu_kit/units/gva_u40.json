@@ -1,0 +1,621 @@
+{
+ "book": "gva",
+ "unit": 40,
+ "title_vi": "Thế giới việc làm",
+ "theory_html": "<p><b>V1. Leaving a job</b><br><i>V1. Rời công việc</i></p> <p><b>make an employee redundant / lay off</b> (informal) = the employer no longer needs staff; <b>dismiss / fire / sack</b> (informal) = the employee is unsuitable; <b>resign</b> = the employee chooses to leave; <b>retire</b> = the employee has come to the end of their career.</p><p><i><b>redundant/lay off</b> (cắt giảm), <b>dismiss/fire/sack</b> (sa thải), <b>resign</b> (từ chức), <b>retire</b> (nghỉ hưu).</i></p> <p><b>V2. job vs work</b><br><i>V2. job và work</i></p> <p><b>job</b> is countable = a particular employment (<b>got a job as a magazine editor</b>); <b>work</b> is uncountable = the general activity in which we use effort (<b>so much work to do</b>); <b>work</b> is also a verb.</p><p><i><b>job</b> đếm được; <b>work</b> không đếm được.</i></p>",
+ "items": [
+  {
+   "word": "insurance premium",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˈʃʊərəns ˌpriːmiəm/",
+   "def_en": "The amount paid regularly for insurance.",
+   "def_vi": "Phí bảo hiểm.",
+   "gloss_vi": "phí bảo hiểm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Insurance premium</i> (noun) = phí bảo hiểm. <b>Collocations / chunks</b>: insurance: coverage, payout, policy.",
+   "example": {
+    "en": "coverage; <b>premium</b>; payout; policy",
+    "vi": "Bảo hiểm: phạm vi, <b>phí bảo hiểm</b>, khoản chi trả, hợp đồng."
+   }
+  },
+  {
+   "word": "contractor",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kənˈtræktə(r)/",
+   "def_en": "A person or company paid to do work, e.g. building.",
+   "def_vi": "Nhà thầu.",
+   "gloss_vi": "nhà thầu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Contractor</i> (noun) = nhà thầu. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "<b>contractor</b>; labourer; site; estate",
+    "vi": "Xây dựng: <b>nhà thầu</b>, thợ, công trường."
+   }
+  },
+  {
+   "word": "extraction",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪkˈstrækʃn/",
+   "def_en": "The process of removing minerals from the ground.",
+   "def_vi": "Sự khai thác.",
+   "gloss_vi": "khai thác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Extraction</i> (noun) = khai thác. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "mineral; <b>extraction</b>; pit; drill",
+    "vi": "Khai mỏ: khoáng sản, <b>khai thác</b>, hầm, khoan."
+   }
+  },
+  {
+   "word": "hospitality",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌhɒspɪˈtæləti/",
+   "def_en": "The business of providing food, drink and entertainment for guests.",
+   "def_vi": "Ngành dịch vụ khách sạn - nhà hàng.",
+   "gloss_vi": "ngành hiếu khách",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hospitality</i> (noun) = ngành hiếu khách. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "venue; <b>hospitality</b>; promotion; festival",
+    "vi": "Giải trí: địa điểm, <b>dịch vụ tiếp đón</b>, quảng bá, lễ hội."
+   }
+  },
+  {
+   "word": "make redundant",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/meɪk rɪˈdʌndənt/",
+   "def_en": "To dismiss someone because their job is no longer needed.",
+   "def_vi": "Cho thôi việc (cắt giảm).",
+   "gloss_vi": "cho nghỉ việc",
+   "synonyms": "lay off <i>(phr v. cho nghỉ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Make redundant</i> (verb) = cho nghỉ việc. <b>Word family</b>: redundancy (n.).",
+   "example": {
+    "en": "My father was/has been <b>made redundant</b>.",
+    "vi": "Bố tôi đã <b>bị cho nghỉ việc</b>."
+   }
+  },
+  {
+   "word": "lay off",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/leɪ ˈɒf/",
+   "def_en": "To stop employing someone because there is no work (informal).",
+   "def_vi": "Cho nghỉ việc (thân mật).",
+   "gloss_vi": "cho thôi việc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lay off</i> (phr v) = cho thôi việc. <b>Note</b>: thân mật.",
+   "example": {
+    "en": "They're <b>laying me off</b> next month.",
+    "vi": "Tháng sau họ sẽ <b>cho tôi nghỉ việc</b>."
+   }
+  },
+  {
+   "word": "fire",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈfaɪə(r)/",
+   "def_en": "To dismiss an employee because they are unsuitable (informal).",
+   "def_vi": "Đuổi việc.",
+   "gloss_vi": "đuổi việc",
+   "synonyms": "sack <i>(v. đuổi việc)</i>",
+   "antonyms": "hire <i>(v. thuê)</i>",
+   "grammar_vi": "<i>Fire</i> (verb) = đuổi việc. <b>Note</b>: thân mật; trang trọng <i>dismiss</i>.",
+   "example": {
+    "en": "He was <b>fired</b> because he always came in late.",
+    "vi": "Anh ta <b>bị đuổi việc</b> vì luôn đến muộn."
+   }
+  },
+  {
+   "word": "dismiss",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪsˈmɪs/",
+   "def_en": "To officially make someone leave their job.",
+   "def_vi": "Sa thải (trang trọng).",
+   "gloss_vi": "sa thải",
+   "synonyms": "fire <i>(v. đuổi việc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dismiss</i> (verb) = sa thải. <b>Note</b>: trang trọng.",
+   "example": {
+    "en": "The management <b>dismissed</b> him for misconduct.",
+    "vi": "Ban quản lý <b>sa thải</b> anh ta vì hành vi sai trái."
+   }
+  },
+  {
+   "word": "resign",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rɪˈzaɪn/",
+   "def_en": "To choose to leave your job.",
+   "def_vi": "Từ chức, xin nghỉ.",
+   "gloss_vi": "từ chức",
+   "synonyms": "quit <i>(v. bỏ việc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Resign</i> (verb) = từ chức. <b>Word family</b>: resignation (n.).",
+   "example": {
+    "en": "I <b>resigned</b> two weeks ago.",
+    "vi": "Tôi đã <b>xin nghỉ</b> hai tuần trước."
+   }
+  },
+  {
+   "word": "retire",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rɪˈtaɪə(r)/",
+   "def_en": "To stop working at the end of your career.",
+   "def_vi": "Nghỉ hưu.",
+   "gloss_vi": "nghỉ hưu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Retire</i> (verb) = nghỉ hưu. <b>Word family</b>: retirement (n.).",
+   "example": {
+    "en": "My dad <b>retired</b> when he was 62.",
+    "vi": "Bố tôi <b>nghỉ hưu</b> năm 62 tuổi."
+   }
+  },
+  {
+   "word": "enquiry",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˈkwaɪəri/",
+   "def_en": "A question (formal).",
+   "def_vi": "Câu hỏi, yêu cầu thông tin.",
+   "gloss_vi": "thắc mắc",
+   "synonyms": "question <i>(n. câu hỏi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Enquiry</i> (noun) = thắc mắc. <b>Note</b>: trang trọng.",
+   "ex_kit": true,
+   "example": {
+    "en": "We always get a lot of <b>enquiries</b> from customers who have misplaced their bills.",
+    "vi": "Chúng tôi luôn nhận nhiều <b>thắc mắc</b> từ khách làm mất hóa đơn."
+   }
+  },
+  {
+   "word": "dictate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪkˈteɪt/",
+   "def_en": "To state what must happen (formal).",
+   "def_vi": "Quy định, chi phối.",
+   "gloss_vi": "quy định",
+   "synonyms": "lay down <i>(phr v. quy định)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dictate</i> (verb) = quy định. <b>Note</b>: trang trọng.",
+   "ex_kit": true,
+   "example": {
+    "en": "Employment laws <b>dictate</b> the warnings we have to give an employee before we dismiss them",
+    "vi": "Luật lao động <b>quy định</b> những cảnh báo phải đưa ra trước khi sa thải."
+   }
+  },
+  {
+   "word": "acquire",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈkwaɪə(r)/",
+   "def_en": "To get or learn something (formal).",
+   "def_vi": "Tiếp thu, đạt được.",
+   "gloss_vi": "tiếp thu",
+   "synonyms": "pick up <i>(phr v. học được)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Acquire</i> (verb) = tiếp thu. <b>Note</b>: trang trọng.",
+   "ex_kit": true,
+   "example": {
+    "en": "During the week you will <b>acquire</b> many of the IT skills needed in the modern workplace.",
+    "vi": "Trong tuần bạn sẽ <b>tiếp thu</b> nhiều kỹ năng CNTT."
+   }
+  },
+  {
+   "word": "compensation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkɒmpenˈseɪʃn/",
+   "def_en": "Money paid to someone because they have been hurt or have lost something.",
+   "def_vi": "Tiền bồi thường.",
+   "gloss_vi": "bồi thường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Compensation</i> (noun) = bồi thường. <b>Note</b>: trang trọng.",
+   "ex_kit": true,
+   "example": {
+    "en": "If you hurt yourself at work, your employer may have to give you <b>compensation</b>.",
+    "vi": "Nếu bị thương khi làm việc, chủ có thể phải trả <b>bồi thường</b>."
+   }
+  },
+  {
+   "word": "job",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dʒɒb/",
+   "def_en": "A particular paid employment (countable).",
+   "def_vi": "Công việc (đếm được).",
+   "gloss_vi": "việc làm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Job</i> (noun) = việc làm. <b>Grammar</b>: đếm được; khác <i>work</i> (không đếm được).",
+   "example": {
+    "en": "When she left college, she got a <b>job</b> as a magazine editor",
+    "vi": "Ra trường, cô có <b>việc làm</b> biên tập viên tạp chí."
+   }
+  },
+  {
+   "word": "work",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/wɜːk/",
+   "def_en": "The general activity in which we use effort (uncountable).",
+   "def_vi": "Công việc (không đếm được).",
+   "gloss_vi": "công việc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Work</i> (noun) = công việc. <b>Grammar</b>: không đếm được; <i>go to work, leave work</i>.",
+   "example": {
+    "en": "I've got so much <b>work</b> to do.",
+    "vi": "Tôi có quá nhiều <b>việc</b> phải làm."
+   }
+  },
+  {
+   "word": "job description",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdʒɒb dɪˌskrɪpʃn/",
+   "def_en": "A document describing the duties of a job.",
+   "def_vi": "Bản mô tả công việc.",
+   "gloss_vi": "mô tả công việc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Job description</i> (noun) = mô tả công việc. <b>Collocations / chunks</b>: job + offer / opportunities / security / seekers.",
+   "example": {
+    "en": "The <b>job description</b> says you need to have at least some relevant work experience.",
+    "vi": "<b>Mô tả công việc</b> nói bạn cần chút kinh nghiệm làm việc liên quan."
+   }
+  },
+  {
+   "word": "job satisfaction",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdʒɒb sætɪsˈfækʃn/",
+   "def_en": "The pleasure you get from your job.",
+   "def_vi": "Sự hài lòng với công việc.",
+   "gloss_vi": "hài lòng công việc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Job satisfaction</i> (noun) = hài lòng công việc. <b>Collocations / chunks</b>: cụm danh từ cố định <i>job satisfaction</i>.",
+   "example": {
+    "en": "I get absolutely no <b>job satisfaction</b> when my workload is so high.",
+    "vi": "Tôi chẳng có chút <b>hài lòng với công việc</b> khi khối lượng việc quá cao."
+   }
+  },
+  {
+   "word": "workload",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɜːkləʊd/",
+   "def_en": "The amount of work a person has to do.",
+   "def_vi": "Khối lượng công việc.",
+   "gloss_vi": "khối lượng công việc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Workload</i> (noun) = khối lượng công việc. <b>Collocations / chunks</b>: work + clothes / colleagues / environment / permit / space.",
+   "example": {
+    "en": "I get absolutely no job satisfaction when my <b>workload</b> is so high.",
+    "vi": "Tôi không hài lòng khi <b>khối lượng công việc</b> quá cao."
+   }
+  },
+  {
+   "word": "job security",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdʒɒb sɪˈkjʊərəti/",
+   "def_en": "The likelihood that you will keep your job.",
+   "def_vi": "Sự ổn định công việc.",
+   "gloss_vi": "an toàn việc làm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Job security</i> (noun) = an toàn việc làm. <b>Collocations / chunks</b>: cụm danh từ cố định <i>job security</i>.",
+   "example": {
+    "en": "<b>Job security</b> cannot be guaranteed during an economic downturn.",
+    "vi": "<b>An toàn việc làm</b> không được đảm bảo khi kinh tế suy thoái."
+   }
+  },
+  {
+   "word": "work permit",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɜːk ˌpɜːmɪt/",
+   "def_en": "An official document allowing a foreigner to work.",
+   "def_vi": "Giấy phép lao động.",
+   "gloss_vi": "giấy phép lao động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Work permit</i> (noun) = giấy phép lao động. <b>Collocations / chunks</b>: cụm danh từ cố định <i>work permit</i>.",
+   "example": {
+    "en": "She's waiting for her <b>work permit</b> to arrive and then she can accept that job offer.",
+    "vi": "Cô ấy đang chờ <b>giấy phép lao động</b> để nhận lời mời làm việc."
+   }
+  },
+  {
+   "word": "job seeker",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdʒɒb ˌsiːkə(r)/",
+   "def_en": "A person looking for a job.",
+   "def_vi": "Người tìm việc.",
+   "gloss_vi": "người tìm việc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Job seeker</i> (noun) = người tìm việc. <b>Collocations / chunks</b>: cụm danh từ cố định <i>job seeker</i>.",
+   "example": {
+    "en": "The job market is particularly tough for <b>job seekers</b> fresh from school or college.",
+    "vi": "Thị trường việc làm rất khó với <b>người tìm việc</b> mới ra trường."
+   }
+  },
+  {
+   "word": "industrial action",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˌdʌstriəl ˈækʃn/",
+   "def_en": "A strike or other protest by workers.",
+   "def_vi": "Hành động đình công.",
+   "gloss_vi": "đình công",
+   "synonyms": "strike <i>(n. đình công)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Industrial action</i> (noun) = đình công. <b>Collocations / chunks</b>: cụm danh từ cố định <i>industrial action</i>.",
+   "example": {
+    "en": "<b>Industrial action</b> by airline staff disrupted flight schedules in the UK last year.",
+    "vi": "<b>Đình công</b> của nhân viên hàng không đã làm gián đoạn lịch bay."
+   }
+  },
+  {
+   "word": "work-life balance",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌwɜːk ˈlaɪf ˌbæləns/",
+   "def_en": "The balance between time spent working and time for yourself.",
+   "def_vi": "Cân bằng công việc - cuộc sống.",
+   "gloss_vi": "cân bằng công việc - cuộc sống",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Work-life balance</i> (noun) = cân bằng công việc - cuộc sống. <b>Collocations / chunks</b>: cũng <i>minimum wage, retirement age, equal opportunities</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Many people find it hard to maintain a <b>work-life balance</b>.",
+    "vi": "Nhiều người khó giữ <b>cân bằng công việc - cuộc sống</b>."
+   }
+  },
+  {
+   "word": "brain drain",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbreɪn dreɪn/",
+   "def_en": "The movement of highly educated people to other countries.",
+   "def_vi": "Chảy máu chất xám.",
+   "gloss_vi": "chảy máu chất xám",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Brain drain</i> (noun) = chảy máu chất xám. <b>Collocations / chunks</b>: cụm danh từ cố định <i>brain drain</i>.",
+   "example": {
+    "en": "Ireland's <b>brain drain</b>",
+    "vi": "<b>Chảy máu chất xám</b> của Ireland."
+   }
+  },
+  {
+   "word": "doom and gloom",
+   "sense": "",
+   "pos": "idiom",
+   "ipa": "/ˌduːm ən ˈɡluːm/",
+   "def_en": "An atmosphere of hopelessness.",
+   "def_vi": "Bầu không khí ảm đạm.",
+   "gloss_vi": "ảm đạm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Doom and gloom</i> (idiom) = ảm đạm. <b>Grammar</b>: idiom nhiều từ <i>doom and gloom</i>.",
+   "example": {
+    "en": "escape the <b>doom and gloom</b> of the Irish economy",
+    "vi": "Thoát khỏi <b>bầu không khí ảm đạm</b> của kinh tế Ireland."
+   }
+  },
+  {
+   "word": "land a job",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌlænd ə ˈdʒɒb/",
+   "def_en": "To succeed in getting a job.",
+   "def_vi": "Kiếm được việc.",
+   "gloss_vi": "có được việc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Land a job</i> (verb) = có được việc. <b>Grammar</b>: động từ nhiều từ <i>land a job</i>.",
+   "example": {
+    "en": "I haven't <b>landed the job</b> of my dreams yet",
+    "vi": "Tôi chưa <b>kiếm được</b> công việc mơ ước."
+   }
+  },
+  {
+   "word": "thriving",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈθraɪvɪŋ/",
+   "def_en": "Successful and profitable.",
+   "def_vi": "Phát đạt, thịnh vượng.",
+   "gloss_vi": "phát đạt",
+   "synonyms": "booming <i>(adj. bùng nổ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Thriving</i> (adjective) = phát đạt. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "The days when the country had a <b>thriving</b> economy were long gone",
+    "vi": "Thời kinh tế <b>phát đạt</b> đã qua lâu rồi."
+   }
+  },
+  {
+   "word": "workforce",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɜːkfɔːs/",
+   "def_en": "All the workers in a company, city, country, etc.",
+   "def_vi": "Lực lượng lao động.",
+   "gloss_vi": "lực lượng lao động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Workforce</i> (noun) = lực lượng lao động. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "there were still jobs for the more educated members of the <b>workforce</b>",
+    "vi": "Vẫn có việc cho những thành viên có học vấn hơn của <b>lực lượng lao động</b>."
+   }
+  },
+  {
+   "word": "spring up",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/sprɪŋ ˈʌp/",
+   "def_en": "To appear suddenly.",
+   "def_vi": "Bất ngờ xuất hiện.",
+   "gloss_vi": "mọc lên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spring up</i> (phr v) = mọc lên. <b>Grammar</b>: phr v nhiều từ <i>spring up</i>.",
+   "example": {
+    "en": "I couldn't wait for a job opportunity to <b>spring up</b>",
+    "vi": "Tôi không thể chờ cơ hội việc làm <b>tự xuất hiện</b>."
+   }
+  },
+  {
+   "word": "labour market",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈleɪbə ˌmɑːkɪt/",
+   "def_en": "The supply of workers and jobs available.",
+   "def_vi": "Thị trường lao động.",
+   "gloss_vi": "thị trường lao động",
+   "synonyms": "job market <i>(n. thị trường việc làm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Labour market</i> (noun) = thị trường lao động. <b>Collocations / chunks</b>: fill gaps in the ~.",
+   "example": {
+    "en": "there were plenty of people to fill gaps in the <b>labour market</b>",
+    "vi": "Có nhiều người để lấp chỗ trống trên <b>thị trường lao động</b>."
+   }
+  },
+  {
+   "word": "churn out",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/tʃɜːn ˈaʊt/",
+   "def_en": "To produce something quickly and in large quantities.",
+   "def_vi": "Sản xuất ồ ạt.",
+   "gloss_vi": "cho ra lò",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Churn out</i> (phr v) = cho ra lò. <b>Grammar</b>: phr v nhiều từ <i>churn out</i>.",
+   "example": {
+    "en": "Ireland was continuing to <b>churn out</b> more and more highly educated and highly motivated graduates",
+    "vi": "Ireland tiếp tục <b>cho ra lò</b> ngày càng nhiều cử nhân."
+   }
+  },
+  {
+   "word": "embark on",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪmˈbɑːk ɒn/",
+   "def_en": "To start something new and important.",
+   "def_vi": "Bắt đầu, dấn thân.",
+   "gloss_vi": "bắt đầu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Embark on</i> (verb) = bắt đầu. <b>Grammar</b>: động từ nhiều từ <i>embark on</i>.",
+   "example": {
+    "en": "get the grades I needed to <b>embark on</b> a career",
+    "vi": "Đạt điểm cần thiết để <b>bắt đầu</b> sự nghiệp."
+   }
+  },
+  {
+   "word": "prospects",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈprɒspekts/",
+   "def_en": "Chances to be successful in the future.",
+   "def_vi": "Triển vọng.",
+   "gloss_vi": "triển vọng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Prospects</i> (noun) = triển vọng. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "a job in Dublin that had really good <b>prospects</b>",
+    "vi": "Một công việc ở Dublin có <b>triển vọng</b> rất tốt."
+   }
+  },
+  {
+   "word": "climb the corporate ladder",
+   "sense": "",
+   "pos": "idiom",
+   "ipa": "/ˌklaɪm ðə ˌkɔːpərət ˈlædə(r)/",
+   "def_en": "To get promoted to higher positions in a company.",
+   "def_vi": "Thăng tiến trong công ty.",
+   "gloss_vi": "leo nấc thang công ty",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Climb the corporate ladder</i> (idiom) = leo nấc thang công ty. <b>Grammar</b>: idiom nhiều từ <i>climb the corporate ladder</i>.",
+   "example": {
+    "en": "I imagined myself <b>climbing the corporate ladder</b> and becoming an executive",
+    "vi": "Tôi tưởng tượng mình <b>thăng tiến</b> và thành giám đốc."
+   }
+  },
+  {
+   "word": "go bust",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɡəʊ ˈbʌst/",
+   "def_en": "(of a company) To fail and stop trading.",
+   "def_vi": "Phá sản.",
+   "gloss_vi": "phá sản",
+   "synonyms": "go bankrupt <i>(v. phá sản)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go bust</i> (verb) = phá sản. <b>Grammar</b>: động từ nhiều từ <i>go bust</i>.",
+   "example": {
+    "en": "after six months the company <b>went bust</b>",
+    "vi": "Sau sáu tháng công ty <b>phá sản</b>."
+   }
+  },
+  {
+   "word": "freelance",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈfriːlɑːns/",
+   "def_en": "Self-employed and working for many organisations.",
+   "def_vi": "Tự do (không biên chế).",
+   "gloss_vi": "tự do",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "permanent <i>(adj. cố định)</i>",
+   "grammar_vi": "<i>Freelance</i> (adjective) = tự do. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "apart from some <b>freelance</b> work I couldn't find anything",
+    "vi": "Ngoài vài việc <b>tự do</b>, tôi không tìm được gì."
+   }
+  },
+  {
+   "word": "work ethic",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɜːk ˌeθɪk/",
+   "def_en": "Belief in the importance of work to life.",
+   "def_vi": "Đạo đức làm việc.",
+   "gloss_vi": "tinh thần làm việc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Work ethic</i> (noun) = tinh thần làm việc. <b>Collocations / chunks</b>: cụm danh từ cố định <i>work ethic</i>.",
+   "example": {
+    "en": "I started to feel my <b>work ethic</b> disappear",
+    "vi": "Tôi bắt đầu thấy <b>tinh thần làm việc</b> biến mất."
+   }
+  }
+ ]
+}
