@@ -1,0 +1,349 @@
+{
+ "book": "ess",
+ "unit": 38,
+ "title_en": "there was/were / there has/have been / there will be",
+ "title_vi": "there was/were / there has/have been / there will be (đã có / sẽ có)",
+ "theory_html": "<p style=\"text-align: justify;\"><b>A. there was / there were (past)</b></p>\n<p style=\"text-align: justify;\"><i>A. there was / there were (quá khứ)</i></p>\n\n<p style=\"text-align: justify;\"><b>There is</b> a train every hour. The time now is 11.15. <b>There was</b> a train at 11 o’clock.</p>\n<p style=\"text-align: justify;\"><i>Cứ mỗi giờ <b>có</b> một chuyến tàu. Bây giờ là 11 giờ 15. Lúc 11 giờ <b>đã có</b> một chuyến.</i></p>\n\n<table border=\"1\" style=\"border-collapse: collapse; border-color: black; padding: 8px; margin: 6px 0;\">\n  <thead>\n    <tr><th style=\"padding: 8px;\">there is / are (present)<br><i>hiện tại</i></th><th style=\"padding: 8px;\">there was / were (past)<br><i>quá khứ</i></th></tr>\n  </thead>\n  <tbody>\n    <tr><td style=\"padding: 8px;\"><b>There is</b> nothing on TV tonight.</td><td style=\"padding: 8px;\"><b>There was</b> nothing on TV last night.</td></tr>\n    <tr><td style=\"padding: 8px;\">We are staying at a very big hotel. <b>There are</b> 550 rooms.</td><td style=\"padding: 8px;\">We stayed at a very big hotel. <b>There were</b> 550 rooms.</td></tr>\n    <tr><td style=\"padding: 8px;\">Is everything OK? <b>Are there</b> any problems?</td><td style=\"padding: 8px;\">Was everything OK yesterday? <b>Were there</b> any problems?</td></tr>\n    <tr><td style=\"padding: 8px;\">I’m hungry, but <b>there isn’t</b> anything to eat.</td><td style=\"padding: 8px;\">I was hungry when I got home, but <b>there wasn’t</b> anything to eat.</td></tr>\n  </tbody>\n</table>\n\n<p style=\"text-align: justify;\"><b>B. there has been / there have been (present perfect)</b></p>\n<p style=\"text-align: justify;\"><i>B. there has been / there have been (hiện tại hoàn thành)</i></p>\n\n<ul>\n  <li>\n    <p style=\"text-align: justify;\">Look! <b>There’s been</b> an accident. (<b>there’s been</b> = there <b>has</b> been)</p>\n    <p style=\"text-align: justify;\"><i>Nhìn kìa! <b>Có</b> tai nạn <b>rồi</b>. (<b>there’s been</b> = there <b>has</b> been)</i></p>\n  </li>\n  <li>\n    <p style=\"text-align: justify;\">This road is very dangerous. <b>There have been</b> many accidents.</p>\n    <p style=\"text-align: justify;\"><i>Con đường này rất nguy hiểm. <b>Đã có</b> nhiều vụ tai nạn.</i></p>\n  </li>\n</ul>\n\n<p style=\"text-align: justify;\">Compare <b>there was</b> (past):</p>\n<p style=\"text-align: justify;\"><i>So sánh <b>there was</b> (quá khứ):</i></p>\n\n<ul>\n  <li>\n    <p style=\"text-align: justify;\"><b>There was</b> an accident <b>last night</b>. (<i>not</i> There has been an accident last night.)</p>\n    <p style=\"text-align: justify;\"><i><b>Tối qua có</b> một vụ tai nạn. (<i>không nói</i> There has been an accident last night.)</i></p>\n  </li>\n</ul>\n\n<p style=\"text-align: justify;\"><b>C. there will be</b></p>\n<p style=\"text-align: justify;\"><i>C. there will be (sẽ có)</i></p>\n\n<ul>\n  <li>\n    <p style=\"text-align: justify;\">Do you think <b>there will be</b> a lot of people at the party on Saturday?</p>\n    <p style=\"text-align: justify;\"><i>Bạn có nghĩ thứ Bảy <b>sẽ có</b> nhiều người đến bữa tiệc không?</i></p>\n  </li>\n  <li>\n    <p style=\"text-align: justify;\">The manager of the company is leaving, so <b>there will be</b> a new manager soon.</p>\n    <p style=\"text-align: justify;\"><i>Giám đốc công ty sắp nghỉ, nên chẳng bao lâu nữa <b>sẽ có</b> giám đốc mới.</i></p>\n  </li>\n  <li>\n    <p style=\"text-align: justify;\">I’m going away tomorrow. I’ll do my packing today because <b>there won’t be</b> time tomorrow. (<b>there won’t be</b> = there <b>will not</b> be)</p>\n    <p style=\"text-align: justify;\"><i>Mai tôi đi xa. Hôm nay tôi sẽ xếp đồ vì mai <b>sẽ không có</b> thời gian.</i></p>\n  </li>\n  <li>\n    <p style=\"text-align: justify;\"><b>There will be</b> rain tomorrow afternoon.</p>\n    <p style=\"text-align: justify;\"><i>Chiều mai <b>sẽ có</b> mưa.</i></p>\n  </li>\n</ul>",
+ "mcq": [
+  {
+   "question": "There is a train every hour. The time now is 11.15. ___ a train at 11 o’clock.",
+   "a": "There was",
+   "b": "There is",
+   "c": "There were",
+   "full": "There is a train every hour. The time now is 11.15. <b>There was</b> a train at 11 o’clock.",
+   "vi": "<i>Cứ mỗi giờ có một chuyến tàu. Bây giờ là 11 giờ 15. Lúc 11 giờ <b>đã có</b> một chuyến.</i>",
+   "expl": "there was + singular / there were + plural (past); was there / were there …?; there wasn’t / weren’t.<br><i>there was + số ít / there were + số nhiều (quá khứ); was there / were there …?; there wasn’t / weren’t.</i><br><b>Điểm ngữ pháp</b>: Quá khứ số ít → There was.",
+   "key": "There is a train every hour. The time now is 11.15. ___ a train at 11 o’clock.|There was"
+  },
+  {
+   "question": "___ nothing on TV last night.",
+   "a": "There was",
+   "b": "There is",
+   "c": "It was",
+   "full": "<b>There was</b> nothing on TV last night.",
+   "vi": "<i>Tối qua TV <b>chẳng có</b> gì.</i>",
+   "expl": "there was + singular / there were + plural (past); was there / were there …?; there wasn’t / weren’t.<br><i>there was + số ít / there were + số nhiều (quá khứ); was there / were there …?; there wasn’t / weren’t.</i><br><b>Điểm ngữ pháp</b>: last night → There was.",
+   "key": "___ nothing on TV last night.|There was"
+  },
+  {
+   "question": "We stayed at a very big hotel. ___ 550 rooms.",
+   "a": "There were",
+   "b": "There was",
+   "c": "There are",
+   "full": "We stayed at a very big hotel. <b>There were</b> 550 rooms.",
+   "vi": "<i>Chúng tôi ở một khách sạn rất lớn. <b>Có</b> 550 phòng.</i>",
+   "expl": "there was + singular / there were + plural (past); was there / were there …?; there wasn’t / weren’t.<br><i>there was + số ít / there were + số nhiều (quá khứ); was there / were there …?; there wasn’t / weren’t.</i><br><b>Điểm ngữ pháp</b>: Quá khứ số nhiều → There were.",
+   "key": "We stayed at a very big hotel. ___ 550 rooms.|There were"
+  },
+  {
+   "question": "Was everything OK yesterday? ___ any problems?",
+   "a": "Were there",
+   "b": "Was there",
+   "c": "Are there",
+   "full": "Was everything OK yesterday? <b>Were there</b> any problems?",
+   "vi": "<i>Hôm qua mọi thứ ổn chứ? <b>Có</b> vấn đề gì không?</i>",
+   "expl": "there was + singular / there were + plural (past); was there / were there …?; there wasn’t / weren’t.<br><i>there was + số ít / there were + số nhiều (quá khứ); was there / were there …?; there wasn’t / weren’t.</i><br><b>Điểm ngữ pháp</b>: problems → Were there.",
+   "key": "Was everything OK yesterday? ___ any problems?|Were there"
+  },
+  {
+   "question": "I was hungry when I got home, but ___ anything to eat.",
+   "a": "there wasn’t",
+   "b": "there weren’t",
+   "c": "there isn’t",
+   "full": "I was hungry when I got home, but <b>there wasn’t</b> anything to eat.",
+   "vi": "<i>Lúc về nhà tôi đói, nhưng <b>chẳng có</b> gì để ăn.</i>",
+   "expl": "there was + singular / there were + plural (past); was there / were there …?; there wasn’t / weren’t.<br><i>there was + số ít / there were + số nhiều (quá khứ); was there / were there …?; there wasn’t / weren’t.</i><br><b>Điểm ngữ pháp</b>: there wasn’t anything.",
+   "key": "I was hungry when I got home, but ___ anything to eat.|there wasn’t"
+  },
+  {
+   "question": "There was a clock on the wall. ___ a carpet on the floor.",
+   "a": "There was",
+   "b": "There were",
+   "c": "It was",
+   "full": "There was a clock on the wall. <b>There was</b> a carpet on the floor.",
+   "vi": "<i>Có một cái đồng hồ trên tường. <b>Có</b> một tấm thảm trên sàn.</i>",
+   "expl": "there was + singular / there were + plural (past); was there / were there …?; there wasn’t / weren’t.<br><i>there was + số ít / there were + số nhiều (quá khứ); was there / were there …?; there wasn’t / weren’t.</i><br><b>Điểm ngữ pháp</b>: Số ít → There was.",
+   "key": "There was a clock on the wall. ___ a carpet on the floor.|There was"
+  },
+  {
+   "question": "___ three pictures on the wall near the door.",
+   "a": "There were",
+   "b": "There was",
+   "c": "They were",
+   "full": "<b>There were</b> three pictures on the wall near the door.",
+   "vi": "<i><b>Có</b> ba bức tranh trên tường gần cửa.</i>",
+   "expl": "there was + singular / there were + plural (past); was there / were there …?; there wasn’t / weren’t.<br><i>there was + số ít / there were + số nhiều (quá khứ); was there / were there …?; there wasn’t / weren’t.</i><br><b>Điểm ngữ pháp</b>: Số nhiều → There were.",
+   "key": "___ three pictures on the wall near the door.|There were"
+  },
+  {
+   "question": "___ some flowers on the table.",
+   "a": "There were",
+   "b": "There was",
+   "c": "There are",
+   "full": "<b>There were</b> some flowers on the table.",
+   "vi": "<i><b>Có</b> mấy bông hoa trên bàn.</i>",
+   "expl": "there was + singular / there were + plural (past); was there / were there …?; there wasn’t / weren’t.<br><i>there was + số ít / there were + số nhiều (quá khứ); was there / were there …?; there wasn’t / weren’t.</i><br><b>Điểm ngữ pháp</b>: flowers → There were.",
+   "key": "___ some flowers on the table.|There were"
+  },
+  {
+   "question": "___ some books on the shelves.",
+   "a": "There were",
+   "b": "There was",
+   "c": "It was",
+   "full": "<b>There were</b> some books on the shelves.",
+   "vi": "<i><b>Có</b> mấy cuốn sách trên giá.</i>",
+   "expl": "there was + singular / there were + plural (past); was there / were there …?; there wasn’t / weren’t.<br><i>there was + số ít / there were + số nhiều (quá khứ); was there / were there …?; there wasn’t / weren’t.</i><br><b>Điểm ngữ pháp</b>: books → There were.",
+   "key": "___ some books on the shelves.|There were"
+  },
+  {
+   "question": "I opened the envelope, but it was empty. ___ nothing in it.",
+   "a": "There was",
+   "b": "There were",
+   "c": "It was",
+   "full": "I opened the envelope, but it was empty. <b>There was</b> nothing in it.",
+   "vi": "<i>Tôi mở phong bì, nhưng nó trống rỗng. <b>Chẳng có</b> gì bên trong.</i>",
+   "expl": "there was + singular / there were + plural (past); was there / were there …?; there wasn’t / weren’t.<br><i>there was + số ít / there were + số nhiều (quá khứ); was there / were there …?; there wasn’t / weren’t.</i><br><b>Điểm ngữ pháp</b>: There was nothing.",
+   "key": "I opened the envelope, but it was empty. ___ nothing in it.|There was"
+  },
+  {
+   "question": "‘We stayed at a very nice hotel.’ ‘Really? ___ a swimming pool?’",
+   "a": "Was there",
+   "b": "Were there",
+   "c": "Is there",
+   "full": "‘We stayed at a very nice hotel.’ ‘Really? <b>Was there</b> a swimming pool?’",
+   "vi": "<i>‘Chúng tôi ở một khách sạn rất đẹp.’ ‘Thật à? <b>Có</b> hồ bơi không?’</i>",
+   "expl": "there was + singular / there were + plural (past); was there / were there …?; there wasn’t / weren’t.<br><i>there was + số ít / there were + số nhiều (quá khứ); was there / were there …?; there wasn’t / weren’t.</i><br><b>Điểm ngữ pháp</b>: Was there + số ít.",
+   "key": "‘We stayed at a very nice hotel.’ ‘Really? ___ a swimming pool?’|Was there"
+  },
+  {
+   "question": "‘Did you buy any bananas?’ ‘No, ___ any in the shop.’",
+   "a": "there weren’t",
+   "b": "there wasn’t",
+   "c": "there aren’t",
+   "full": "‘Did you buy any bananas?’ ‘No, <b>there weren’t</b> any in the shop.’",
+   "vi": "<i>‘Bạn có mua chuối không?’ ‘Không, cửa hàng <b>không có</b> quả nào.’</i>",
+   "expl": "there was + singular / there were + plural (past); was there / were there …?; there wasn’t / weren’t.<br><i>there was + số ít / there were + số nhiều (quá khứ); was there / were there …?; there wasn’t / weren’t.</i><br><b>Điểm ngữ pháp</b>: bananas → there weren’t.",
+   "key": "‘Did you buy any bananas?’ ‘No, ___ any in the shop.’|there weren’t"
+  },
+  {
+   "question": "The wallet was empty. ___ any money in it.",
+   "a": "There wasn’t",
+   "b": "There weren’t",
+   "c": "It wasn’t",
+   "full": "The wallet was empty. <b>There wasn’t</b> any money in it.",
+   "vi": "<i>Ví trống rỗng. <b>Không có</b> đồng nào.</i>",
+   "expl": "there was + singular / there were + plural (past); was there / were there …?; there wasn’t / weren’t.<br><i>there was + số ít / there were + số nhiều (quá khứ); was there / were there …?; there wasn’t / weren’t.</i><br><b>Điểm ngữ pháp</b>: money (không đếm được) → There wasn’t.",
+   "key": "The wallet was empty. ___ any money in it.|There wasn’t"
+  },
+  {
+   "question": "‘___ many people at the meeting?’ ‘No, very few.’",
+   "a": "Were there",
+   "b": "Was there",
+   "c": "Are there",
+   "full": "‘<b>Were there</b> many people at the meeting?’ ‘No, very few.’",
+   "vi": "<i>‘<b>Có</b> nhiều người đến họp không?’ ‘Không, rất ít.’</i>",
+   "expl": "there was + singular / there were + plural (past); was there / were there …?; there wasn’t / weren’t.<br><i>there was + số ít / there were + số nhiều (quá khứ); was there / were there …?; there wasn’t / weren’t.</i><br><b>Điểm ngữ pháp</b>: people → Were there.",
+   "key": "‘___ many people at the meeting?’ ‘No, very few.’|Were there"
+  },
+  {
+   "question": "We didn’t visit the museum. ___ enough time.",
+   "a": "There wasn’t",
+   "b": "There weren’t",
+   "c": "It wasn’t",
+   "full": "We didn’t visit the museum. <b>There wasn’t</b> enough time.",
+   "vi": "<i>Chúng tôi không tham quan bảo tàng. <b>Không có</b> đủ thời gian.</i>",
+   "expl": "there was + singular / there were + plural (past); was there / were there …?; there wasn’t / weren’t.<br><i>there was + số ít / there were + số nhiều (quá khứ); was there / were there …?; there wasn’t / weren’t.</i><br><b>Điểm ngữ pháp</b>: time → There wasn’t.",
+   "key": "We didn’t visit the museum. ___ enough time.|There wasn’t"
+  },
+  {
+   "question": "I’m sorry I’m late. ___ a lot of traffic.",
+   "a": "There was",
+   "b": "There were",
+   "c": "It was",
+   "full": "I’m sorry I’m late. <b>There was</b> a lot of traffic.",
+   "vi": "<i>Xin lỗi tôi đến muộn. <b>Đã có</b> nhiều xe cộ quá.</i>",
+   "expl": "there was + singular / there were + plural (past); was there / were there …?; there wasn’t / weren’t.<br><i>there was + số ít / there were + số nhiều (quá khứ); was there / were there …?; there wasn’t / weren’t.</i><br><b>Điểm ngữ pháp</b>: traffic → There was.",
+   "key": "I’m sorry I’m late. ___ a lot of traffic.|There was"
+  },
+  {
+   "question": "Twenty years ago ___ many tourists here. Now there are a lot.",
+   "a": "there weren’t",
+   "b": "there wasn’t",
+   "c": "there aren’t",
+   "full": "Twenty years ago <b>there weren’t</b> many tourists here. Now there are a lot.",
+   "vi": "<i>Hai mươi năm trước ở đây <b>không có</b> nhiều khách du lịch. Giờ thì rất đông.</i>",
+   "expl": "there was + singular / there were + plural (past); was there / were there …?; there wasn’t / weren’t.<br><i>there was + số ít / there were + số nhiều (quá khứ); was there / were there …?; there wasn’t / weren’t.</i><br><b>Điểm ngữ pháp</b>: tourists, quá khứ → there weren’t.",
+   "key": "Twenty years ago ___ many tourists here. Now there are a lot.|there weren’t"
+  },
+  {
+   "question": "___ a good film on TV last night.",
+   "a": "There was",
+   "b": "There is",
+   "c": "There has been",
+   "full": "<b>There was</b> a good film on TV last night.",
+   "vi": "<i>Tối qua TV <b>có</b> một bộ phim hay.</i>",
+   "expl": "there was + singular / there were + plural (past); was there / were there …?; there wasn’t / weren’t.<br><i>there was + số ít / there were + số nhiều (quá khứ); was there / were there …?; there wasn’t / weren’t.</i><br><b>Điểm ngữ pháp</b>: last night → There was.",
+   "key": "___ a good film on TV last night.|There was"
+  },
+  {
+   "question": "___ a party at the club last Friday, but I didn’t go.",
+   "a": "There was",
+   "b": "There has been",
+   "c": "There is",
+   "full": "<b>There was</b> a party at the club last Friday, but I didn’t go.",
+   "vi": "<i>Thứ Sáu tuần trước <b>có</b> tiệc ở câu lạc bộ, nhưng tôi không đi.</i>",
+   "expl": "there was + singular / there were + plural (past); was there / were there …?; there wasn’t / weren’t.<br><i>there was + số ít / there were + số nhiều (quá khứ); was there / were there …?; there wasn’t / weren’t.</i><br><b>Điểm ngữ pháp</b>: last Friday → There was.",
+   "key": "___ a party at the club last Friday, but I didn’t go.|There was"
+  },
+  {
+   "question": "When we arrived at the theatre, ___ a long queue outside.",
+   "a": "there was",
+   "b": "there has been",
+   "c": "there is",
+   "full": "When we arrived at the theatre, <b>there was</b> a long queue outside.",
+   "vi": "<i>Khi chúng tôi đến nhà hát, <b>có</b> một hàng dài bên ngoài.</i>",
+   "expl": "there was + singular / there were + plural (past); was there / were there …?; there wasn’t / weren’t.<br><i>there was + số ít / there were + số nhiều (quá khứ); was there / were there …?; there wasn’t / weren’t.</i><br><b>Điểm ngữ pháp</b>: Quá khứ → there was.",
+   "key": "When we arrived at the theatre, ___ a long queue outside.|there was"
+  },
+  {
+   "question": "Ten years ago there were 500 children at the school. Now ___ more than a thousand.",
+   "a": "there are",
+   "b": "there were",
+   "c": "there have been",
+   "full": "Ten years ago there were 500 children at the school. Now <b>there are</b> more than a thousand.",
+   "vi": "<i>Mười năm trước trường có 500 học sinh. Bây giờ <b>có</b> hơn một nghìn.</i>",
+   "expl": "there was + singular / there were + plural (past); was there / were there …?; there wasn’t / weren’t.<br><i>there was + số ít / there were + số nhiều (quá khứ); was there / were there …?; there wasn’t / weren’t.</i><br><b>Điểm ngữ pháp</b>: Now → there are.",
+   "key": "Ten years ago there were 500 children at the school. Now ___ more than a thousand.|there are"
+  },
+  {
+   "question": "Look! ___ an accident.",
+   "a": "There’s been",
+   "b": "There was",
+   "c": "There were",
+   "full": "Look! <b>There’s been</b> an accident.",
+   "vi": "<i>Nhìn kìa! <b>Có</b> tai nạn rồi.</i>",
+   "expl": "there has been / there have been (present perfect, result now / until now); with a finished time use there was.<br><i>there has been / there have been (hiện tại hoàn thành); với thời gian đã qua dùng there was.</i><br><b>Điểm ngữ pháp</b>: Kết quả bây giờ → There’s been.",
+   "key": "Look! ___ an accident.|There’s been"
+  },
+  {
+   "question": "This road is very dangerous. ___ many accidents.",
+   "a": "There have been",
+   "b": "There has been",
+   "c": "There was",
+   "full": "This road is very dangerous. <b>There have been</b> many accidents.",
+   "vi": "<i>Con đường này rất nguy hiểm. <b>Đã có</b> nhiều vụ tai nạn.</i>",
+   "expl": "there has been / there have been (present perfect, result now / until now); with a finished time use there was.<br><i>there has been / there have been (hiện tại hoàn thành); với thời gian đã qua dùng there was.</i><br><b>Điểm ngữ pháp</b>: Số nhiều, đến nay → There have been.",
+   "key": "This road is very dangerous. ___ many accidents.|There have been"
+  },
+  {
+   "question": "___ an accident last night.",
+   "a": "There was",
+   "b": "There has been",
+   "c": "There have been",
+   "full": "<b>There was</b> an accident last night.",
+   "vi": "<i>Tối qua <b>có</b> một vụ tai nạn.</i>",
+   "expl": "there has been / there have been (present perfect, result now / until now); with a finished time use there was.<br><i>there has been / there have been (hiện tại hoàn thành); với thời gian đã qua dùng there was.</i><br><b>Điểm ngữ pháp</b>: last night → There was (không nói There has been).",
+   "key": "___ an accident last night.|There was"
+  },
+  {
+   "question": "‘Why are the police outside the bank?’ ‘___ a robbery.’",
+   "a": "There’s been",
+   "b": "There will be",
+   "c": "There are",
+   "full": "‘Why are the police outside the bank?’ ‘<b>There’s been</b> a robbery.’",
+   "vi": "<i>‘Sao cảnh sát lại ở ngoài ngân hàng?’ ‘<b>Vừa có</b> một vụ cướp.’</i>",
+   "expl": "there has been / there have been (present perfect, result now / until now); with a finished time use there was.<br><i>there has been / there have been (hiện tại hoàn thành); với thời gian đã qua dùng there was.</i><br><b>Điểm ngữ pháp</b>: Kết quả bây giờ → There’s been.",
+   "key": "‘Why are the police outside the bank?’ ‘___ a robbery.’|There’s been"
+  },
+  {
+   "question": "Last week I went back to the town where I was born. It’s very different now. ___ a lot of changes.",
+   "a": "There have been",
+   "b": "There has been",
+   "c": "There will be",
+   "full": "Last week I went back to the town where I was born. It’s very different now. <b>There have been</b> a lot of changes.",
+   "vi": "<i>Tuần trước tôi về thị trấn nơi tôi sinh ra. Giờ nó khác nhiều lắm. <b>Đã có</b> nhiều thay đổi.</i>",
+   "expl": "there has been / there have been (present perfect, result now / until now); with a finished time use there was.<br><i>there has been / there have been (hiện tại hoàn thành); với thời gian đã qua dùng there was.</i><br><b>Điểm ngữ pháp</b>: Đến nay, số nhiều → There have been.",
+   "key": "Last week I went back to the town where I was born. It’s very different now. ___ a lot of changes.|There have been"
+  },
+  {
+   "question": "Do you think ___ a lot of people at the party on Saturday?",
+   "a": "there will be",
+   "b": "there was",
+   "c": "there are being",
+   "full": "Do you think <b>there will be</b> a lot of people at the party on Saturday?",
+   "vi": "<i>Bạn có nghĩ thứ Bảy <b>sẽ có</b> nhiều người đến bữa tiệc không?</i>",
+   "expl": "there will be / there won’t be (future).<br><i>there will be / there won’t be (tương lai).</i><br><b>Điểm ngữ pháp</b>: Tương lai → there will be.",
+   "key": "Do you think ___ a lot of people at the party on Saturday?|there will be"
+  },
+  {
+   "question": "The manager of the company is leaving, so ___ a new manager soon.",
+   "a": "there will be",
+   "b": "there was",
+   "c": "there has been",
+   "full": "The manager of the company is leaving, so <b>there will be</b> a new manager soon.",
+   "vi": "<i>Giám đốc công ty sắp nghỉ, nên sắp <b>có</b> giám đốc mới.</i>",
+   "expl": "there will be / there won’t be (future).<br><i>there will be / there won’t be (tương lai).</i><br><b>Điểm ngữ pháp</b>: Tương lai → there will be.",
+   "key": "The manager of the company is leaving, so ___ a new manager soon.|there will be"
+  },
+  {
+   "question": "I’ll do my packing today because ___ time tomorrow.",
+   "a": "there won’t be",
+   "b": "there wasn’t",
+   "c": "there isn’t be",
+   "full": "I’ll do my packing today because <b>there won’t be</b> time tomorrow.",
+   "vi": "<i>Hôm nay tôi sẽ xếp đồ vì mai <b>sẽ không có</b> thời gian.</i>",
+   "expl": "there will be / there won’t be (future).<br><i>there will be / there won’t be (tương lai).</i><br><b>Điểm ngữ pháp</b>: there won’t be = there will not be.",
+   "key": "I’ll do my packing today because ___ time tomorrow.|there won’t be"
+  },
+  {
+   "question": "___ rain tomorrow afternoon.",
+   "a": "There will be",
+   "b": "There was",
+   "c": "It will be",
+   "full": "<b>There will be</b> rain tomorrow afternoon.",
+   "vi": "<i>Chiều mai <b>sẽ có</b> mưa.</i>",
+   "expl": "there will be / there won’t be (future).<br><i>there will be / there won’t be (tương lai).</i><br><b>Điểm ngữ pháp</b>: Tương lai → There will be.",
+   "key": "___ rain tomorrow afternoon.|There will be"
+  },
+  {
+   "question": "When you arrive tomorrow, ___ somebody at the station to meet you.",
+   "a": "there will be",
+   "b": "there was",
+   "c": "there has been",
+   "full": "When you arrive tomorrow, <b>there will be</b> somebody at the station to meet you.",
+   "vi": "<i>Mai khi bạn đến, <b>sẽ có</b> người ở nhà ga đón bạn.</i>",
+   "expl": "there will be / there won’t be (future).<br><i>there will be / there won’t be (tương lai).</i><br><b>Điểm ngữ pháp</b>: Tương lai → there will be.",
+   "key": "When you arrive tomorrow, ___ somebody at the station to meet you.|there will be"
+  },
+  {
+   "question": "I think everything will be OK. I don’t think ___ any problems.",
+   "a": "there will be",
+   "b": "there won’t be",
+   "c": "there were",
+   "full": "I think everything will be OK. I don’t think <b>there will be</b> any problems.",
+   "vi": "<i>Tôi nghĩ mọi chuyện sẽ ổn. Tôi không nghĩ <b>sẽ có</b> vấn đề gì.</i>",
+   "expl": "there will be / there won’t be (future).<br><i>there will be / there won’t be (tương lai).</i><br><b>Điểm ngữ pháp</b>: I don’t think there will be.",
+   "key": "I think everything will be OK. I don’t think ___ any problems.|there will be"
+  },
+  {
+   "question": "___ 24 hours in a day.",
+   "a": "There are",
+   "b": "There were",
+   "c": "There is",
+   "full": "<b>There are</b> 24 hours in a day.",
+   "vi": "<i>Một ngày <b>có</b> 24 giờ.</i>",
+   "expl": "there is / there are for the present.<br><i>there is / there are cho hiện tại.</i><br><b>Điểm ngữ pháp</b>: Sự thật hiện tại → There are.",
+   "key": "___ 24 hours in a day.|There are"
+  },
+  {
+   "question": "‘Where can I get something to eat?’ ‘___ a cafe at the end of the street.’",
+   "a": "There’s",
+   "b": "There was",
+   "c": "It’s",
+   "full": "‘Where can I get something to eat?’ ‘<b>There’s</b> a cafe at the end of the street.’",
+   "vi": "<i>‘Tôi có thể ăn gì ở đâu?’ ‘<b>Có</b> một quán cà phê ở cuối phố.’</i>",
+   "expl": "there is / there are for the present.<br><i>there is / there are cho hiện tại.</i><br><b>Điểm ngữ pháp</b>: Hiện tại → There’s.",
+   "key": "‘Where can I get something to eat?’ ‘___ a cafe at the end of the street.’|There’s"
+  }
+ ]
+}
