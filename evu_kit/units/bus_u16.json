@@ -1,0 +1,330 @@
+{
+ "book": "bus",
+ "unit": 16,
+ "title_vi": "Sản phẩm và dịch vụ",
+ "theory_html": "<p><b>A. Products</b><br><i>A. Sản phẩm</i></p> <p><b>product</b> (natural / made to be sold / a service); <b>produce</b> (uncountable) = agricultural products. Things – company – verb – activity: <b>products / goods – maker / manufacturer / producer – make / manufacture / produce – manufacture / manufacturing / production</b>; <b>services – provider – provide – provision</b>.</p><p><i><b>sản phẩm; nông sản</b>; <b>hàng hóa – nhà sản xuất – sản xuất – việc sản xuất</b>; <b>dịch vụ – nhà cung cấp – cung cấp – sự cung cấp</b>.</i></p> <p><b>B. Mass production</b><br><i>B. Sản xuất hàng loạt</i></p> <p><b>workshops, hand-made, craft industry, labour-intensive</b> (AmE <b>labor-</b>), <b>assembly line / production line, manufacturing plant</b> (also <b>factory, works</b>), <b>churn out, industrial robots, cost-effective, computer-assisted / computer-aided</b>.</p><p><i><b>xưởng, làm thủ công, ngành thủ công, cần nhiều lao động, dây chuyền lắp ráp, nhà máy, sản xuất ồ ạt, rô bốt công nghiệp, hiệu quả chi phí, có máy tính hỗ trợ</b>.</i></p> <p><b>C. Capacity and output</b><br><i>C. Công suất và sản lượng</i></p> <p><b>output, productivity, capacity, working at full capacity, overcapacity / excess / spare / surplus capacity, overproduction, surplus, glut, shortage</b>.</p><p><i><b>sản lượng, năng suất, công suất, chạy hết công suất, dư thừa công suất, sản xuất thừa, dư thừa, tràn ngập, thiếu hụt</b>.</i></p>",
+ "items": [
+  {
+   "word": "product",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈprɒdʌkt/",
+   "def_en": "Something natural, made to be sold, or a service.",
+   "def_vi": "Thứ tự nhiên, làm ra để bán, hay một dịch vụ.",
+   "gloss_vi": "sản phẩm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Product</i> (noun) = sản phẩm. <b>Grammar</b>: động từ <i>produce</i>.",
+   "example": {
+    "en": "A <b>product</b> can be: something natural, e.g. wood, oil, paper",
+    "vi": "<b>Sản phẩm</b> có thể là thứ tự nhiên như gỗ, dầu."
+   }
+  },
+  {
+   "word": "produce",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈprɒdjuːs/",
+   "def_en": "Agricultural products such as crops or fruit (uncountable).",
+   "def_vi": "Nông sản như hoa màu, trái cây.",
+   "gloss_vi": "nông sản",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Produce</i> (noun) = nông sản. <b>Grammar</b>: danh từ /ˈprɒdjuːs/, động từ /prəˈdjuːs/.",
+   "example": {
+    "en": "<b>Produce</b> (uncountable) normally refers to agricultural products such as crops or fruit.",
+    "vi": "<b>Nông sản</b> thường chỉ sản phẩm nông nghiệp."
+   }
+  },
+  {
+   "word": "manufacturer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmænjuˈfæktʃərə(r)/",
+   "def_en": "A company or country that makes products.",
+   "def_vi": "Công ty hay nước làm ra sản phẩm.",
+   "gloss_vi": "nhà sản xuất",
+   "synonyms": "maker <i>(n. nhà sản xuất)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Manufacturer</i> (noun) = nhà sản xuất. <b>Grammar</b>: động từ <i>manufacture</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Toyota is a car <b>manufacturer</b>.",
+    "vi": "Công ty làm ra hàng hóa là <b>nhà sản xuất</b>."
+   }
+  },
+  {
+   "word": "provider",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/prəˈvaɪdə(r)/",
+   "def_en": "A company that provides services.",
+   "def_vi": "Công ty cung cấp dịch vụ.",
+   "gloss_vi": "nhà cung cấp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Provider</i> (noun) = nhà cung cấp. <b>Grammar</b>: động từ <i>provide</i>; danh từ <i>provision</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "They are an internet service <b>provider</b>.",
+    "vi": "Công ty cung cấp dịch vụ là <b>nhà cung cấp</b>."
+   }
+  },
+  {
+   "word": "workshop",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɜːkʃɒp/",
+   "def_en": "A place where things are made or repaired by hand.",
+   "def_vi": "Nơi làm hay sửa đồ bằng tay.",
+   "gloss_vi": "xưởng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Workshop</i> (noun) = xưởng. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "Car production started in <b>workshops</b> where each car was individually hand-made.",
+    "vi": "Sản xuất ô tô bắt đầu trong <b>xưởng</b>, mỗi chiếc làm thủ công."
+   }
+  },
+  {
+   "word": "hand-made",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌhænd ˈmeɪd/",
+   "def_en": "Made by hand, not by machine.",
+   "def_vi": "Làm bằng tay.",
+   "gloss_vi": "làm thủ công",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "mass-produced <i>(adj. sản xuất hàng loạt)</i>",
+   "grammar_vi": "<i>Hand-made</i> (adjective) = làm thủ công. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "each car was individually <b>hand-made</b>",
+    "vi": "Mỗi chiếc xe được <b>làm thủ công</b> riêng."
+   }
+  },
+  {
+   "word": "craft industry",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkrɑːft ˌɪndəstri/",
+   "def_en": "Production where things are made by hand by skilled workers.",
+   "def_vi": "Sản xuất thủ công bởi thợ lành nghề.",
+   "gloss_vi": "ngành thủ công",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Craft industry</i> (noun) = ngành thủ công. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "Producing cars like this was a <b>craft industry</b>.",
+    "vi": "Làm xe kiểu này là <b>ngành thủ công</b>."
+   }
+  },
+  {
+   "word": "labour-intensive",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌleɪbər ɪnˈtensɪv/",
+   "def_en": "Needing a lot of work to produce each item.",
+   "def_vi": "Cần nhiều công lao động cho mỗi sản phẩm.",
+   "gloss_vi": "cần nhiều lao động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Labour-intensive</i> (adjective) = cần nhiều lao động. <b>Grammar</b>: Anh <i>labour</i>; Mỹ <i>labor</i>.",
+   "example": {
+    "en": "It was very <b>labour-intensive</b> – it took a lot of work to produce each car.",
+    "vi": "Nó rất <b>cần nhiều lao động</b>."
+   }
+  },
+  {
+   "word": "assembly line",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈsembli laɪn/",
+   "def_en": "A system where each worker is responsible for one part of the manufacturing process.",
+   "def_vi": "Hệ thống mỗi người phụ trách một khâu sản xuất.",
+   "gloss_vi": "dây chuyền lắp ráp",
+   "synonyms": "production line <i>(n. dây chuyền sản xuất)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Assembly line</i> (noun) = dây chuyền lắp ráp. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "Henry Ford had the idea of an <b>assembly line</b> or production line",
+    "vi": "Henry Ford nghĩ ra <b>dây chuyền lắp ráp</b> năm 1913."
+   }
+  },
+  {
+   "word": "manufacturing plant",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmænjuˈfæktʃərɪŋ plɑːnt/",
+   "def_en": "A factory.",
+   "def_vi": "Nhà máy.",
+   "gloss_vi": "nhà máy sản xuất",
+   "synonyms": "factory <i>(n. nhà máy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Manufacturing plant</i> (noun) = nhà máy sản xuất. <b>Grammar</b>: cũng <i>factory</i>, <i>works</i> (hơi cổ).",
+   "example": {
+    "en": "at the Ford <b>manufacturing plant</b> in Detroit",
+    "vi": "Tại <b>nhà máy</b> Ford ở Detroit."
+   }
+  },
+  {
+   "word": "churn out",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌtʃɜːn ˈaʊt/",
+   "def_en": "To produce in very large numbers.",
+   "def_vi": "Sản xuất số lượng rất lớn.",
+   "gloss_vi": "sản xuất ồ ạt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Churn out</i> (verb) = sản xuất ồ ạt. <b>Grammar</b>: tách được <i>churn sth out</i>.",
+   "example": {
+    "en": "the plant could make cars in very large numbers – it could <b>churn</b> them <b>out</b>",
+    "vi": "Nhà máy có thể <b>sản xuất ồ ạt</b> xe."
+   }
+  },
+  {
+   "word": "industrial robot",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˌdʌstriəl ˈrəʊbɒt/",
+   "def_en": "A machine that does work in a factory.",
+   "def_vi": "Máy làm việc trong nhà máy.",
+   "gloss_vi": "rô bốt công nghiệp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Industrial robot</i> (noun) = rô bốt công nghiệp. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "but with the addition of <b>industrial robots</b>",
+    "vi": "Ngày nay có thêm <b>rô bốt công nghiệp</b>."
+   }
+  },
+  {
+   "word": "cost-effective",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌkɒst ɪˈfektɪv/",
+   "def_en": "Producing a lot in relation to what it costs.",
+   "def_vi": "Sản xuất nhiều so với chi phí.",
+   "gloss_vi": "hiệu quả chi phí",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cost-effective</i> (adjective) = hiệu quả chi phí. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "The machines are expensive but very <b>cost-effective</b>",
+    "vi": "Máy đắt nhưng rất <b>hiệu quả chi phí</b>."
+   }
+  },
+  {
+   "word": "output",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈaʊtpʊt/",
+   "def_en": "The number or type of things that a company, plant or country produces.",
+   "def_vi": "Số lượng, loại hàng công ty, nhà máy, nước sản xuất.",
+   "gloss_vi": "sản lượng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Output</i> (noun) = sản lượng. <b>Collocations / chunks</b>: <i>high/low output</i>.",
+   "example": {
+    "en": "The number or type of things that a company, plant, industry or country produces is its <b>output</b>.",
+    "vi": "Số hàng nhà máy làm ra là <b>sản lượng</b>."
+   }
+  },
+  {
+   "word": "productivity",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌprɒdʌkˈtɪvəti/",
+   "def_en": "The number of things produced in relation to the number of employees.",
+   "def_vi": "Số sản phẩm so với số nhân viên.",
+   "gloss_vi": "năng suất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Productivity</i> (noun) = năng suất. <b>Grammar</b>: tính từ <i>productive</i>.",
+   "example": {
+    "en": "<b>Productivity</b> is a measure of the number of things produced in relation to the number of employees.",
+    "vi": "<b>Năng suất</b> đo số sản phẩm theo số nhân viên."
+   }
+  },
+  {
+   "word": "capacity",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəˈpæsəti/",
+   "def_en": "The maximum amount that a company, plant or industry can produce.",
+   "def_vi": "Lượng tối đa có thể sản xuất.",
+   "gloss_vi": "công suất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Capacity</i> (noun) = công suất. <b>Collocations / chunks</b>: <i>work at full capacity</i>.",
+   "example": {
+    "en": "The maximum amount that a particular company, plant or industry can produce is its <b>capacity</b>.",
+    "vi": "Lượng tối đa nhà máy làm được là <b>công suất</b>."
+   }
+  },
+  {
+   "word": "overcapacity",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌəʊvəkəˈpæsəti/",
+   "def_en": "Too much capacity in relation to what is required.",
+   "def_vi": "Công suất quá nhiều so với nhu cầu.",
+   "gloss_vi": "dư thừa công suất",
+   "synonyms": "excess capacity <i>(n. công suất thừa)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Overcapacity</i> (noun) = dư thừa công suất. <b>Collocations / chunks</b>: theo tần suất: <i>overcapacity, excess, spare, surplus capacity</i>.",
+   "example": {
+    "en": "There is <b>overcapacity</b>, excess capacity, spare capacity or surplus capacity if there is too much capacity in relation to what is required.",
+    "vi": "Có <b>dư thừa công suất</b> nếu công suất quá nhu cầu."
+   }
+  },
+  {
+   "word": "overproduction",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌəʊvəprəˈdʌkʃn/",
+   "def_en": "Producing too many things in relation to the number of buyers.",
+   "def_vi": "Sản xuất quá nhiều so với người mua.",
+   "gloss_vi": "sản xuất thừa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Overproduction</i> (noun) = sản xuất thừa. <b>Grammar</b>: tiền tố <i>over-</i>.",
+   "example": {
+    "en": "If too many things are being produced by a particular industry in relation to the number of people who want to buy them, there is <b>overproduction</b>.",
+    "vi": "Làm ra quá nhiều so với người mua là <b>sản xuất thừa</b>."
+   }
+  },
+  {
+   "word": "glut",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɡlʌt/",
+   "def_en": "Far too many things produced.",
+   "def_vi": "Quá nhiều hàng được sản xuất.",
+   "gloss_vi": "sự dư thừa, tràn ngập",
+   "synonyms": "surplus <i>(n. thặng dư)</i>",
+   "antonyms": "shortage <i>(n. thiếu hụt)</i>",
+   "grammar_vi": "<i>Glut</i> (noun) = sự dư thừa, tràn ngập. <b>Collocations / chunks</b>: <i>a glut of</i> sth.",
+   "example": {
+    "en": "If far too many things are produced, there is a surplus or <b>glut</b> of these things.",
+    "vi": "Nếu sản xuất quá nhiều, có <b>dư thừa</b> hàng."
+   }
+  },
+  {
+   "word": "shortage",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈʃɔːtɪdʒ/",
+   "def_en": "When not enough goods are being produced.",
+   "def_vi": "Khi không đủ hàng được sản xuất.",
+   "gloss_vi": "sự thiếu hụt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "glut <i>(n. dư thừa)</i>",
+   "grammar_vi": "<i>Shortage</i> (noun) = sự thiếu hụt. <b>Collocations / chunks</b>: <i>a shortage of</i> sth.",
+   "example": {
+    "en": "If not enough goods are being produced, there is a <b>shortage</b>.",
+    "vi": "Nếu không đủ hàng, có sự <b>thiếu hụt</b>."
+   }
+  }
+ ]
+}

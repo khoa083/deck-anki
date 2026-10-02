@@ -1,0 +1,264 @@
+{
+ "book": "bus",
+ "unit": 17,
+ "title_vi": "Nguyên vật liệu và nhà cung cấp",
+ "theory_html": "<p><b>A. Inputs</b><br><i>A. Đầu vào</i></p> <p><b>raw materials, components / parts</b> (<b>aerospace / automotive / car / computer / electronic components; replacement / spare parts</b>), <b>inputs, labour, capital, knowledge, work-in-progress</b> (AmE <b>work-in-process</b>), <b>goods, finished goods, stocks</b> (AmE <b>inventories</b>).</p><p><i><b>nguyên liệu thô, linh kiện / bộ phận, phụ tùng thay thế, đầu vào, lao động, vốn, tri thức, bán thành phẩm, hàng hóa, thành phẩm, hàng tồn kho</b>.</i></p> <p><b>B. Suppliers and outsourcing</b><br><i>B. Nhà cung cấp và thuê ngoài</i></p> <p><b>manufacturing operation, suppliers, partners, subcontracting, outside suppliers, outsourcing, in-house</b>.</p><p><i><b>hoạt động sản xuất, nhà cung cấp, đối tác, thầu phụ, nhà cung cấp bên ngoài, thuê ngoài, nội bộ</b>.</i></p> <p><b>C. Just-in-time</b><br><i>C. Đúng lúc</i></p> <p><b>in stock, financed, stored, warehouses, handled, just-in-time, lean production / lean manufacturing, efficient</b>.</p><p><i><b>có sẵn trong kho, được cấp vốn, được lưu kho, nhà kho, được vận chuyển, đúng lúc, sản xuất tinh gọn, hiệu quả</b>.</i></p>",
+ "items": [
+  {
+   "word": "raw materials",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌrɔː məˈtɪəriəlz/",
+   "def_en": "Basic materials like steel and plastic used to make products.",
+   "def_vi": "Vật liệu cơ bản như thép, nhựa để làm sản phẩm.",
+   "gloss_vi": "nguyên liệu thô",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Raw materials</i> (noun) = nguyên liệu thô. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "It takes <b>raw materials</b> like steel and plastic",
+    "vi": "Dyson dùng <b>nguyên liệu thô</b> như thép và nhựa."
+   }
+  },
+  {
+   "word": "components",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəmˈpəʊnənts/",
+   "def_en": "Parts used in products.",
+   "def_vi": "Bộ phận dùng trong sản phẩm.",
+   "gloss_vi": "linh kiện",
+   "synonyms": "parts <i>(n. bộ phận)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Components</i> (noun) = linh kiện. <b>Collocations / chunks</b>: <i>electronic/automotive components</i>.",
+   "example": {
+    "en": "and makes some of the <b>components</b> – or parts – used in its products",
+    "vi": "Dyson tự làm một số <b>linh kiện</b> dùng trong sản phẩm."
+   }
+  },
+  {
+   "word": "spare parts",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌspeə ˈpɑːts/",
+   "def_en": "Parts used to replace broken ones.",
+   "def_vi": "Bộ phận thay thế cho cái hỏng.",
+   "gloss_vi": "phụ tùng thay thế",
+   "synonyms": "replacement parts <i>(n. phụ tùng thay thế)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spare parts</i> (noun) = phụ tùng thay thế. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "replacement / <b>spare parts</b>",
+    "vi": "Họ bán cả <b>phụ tùng thay thế</b>."
+   }
+  },
+  {
+   "word": "inputs",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɪnpʊts/",
+   "def_en": "Materials, parts, labour, capital and knowledge used in production.",
+   "def_vi": "Vật liệu, bộ phận, lao động, vốn, tri thức dùng để sản xuất.",
+   "gloss_vi": "đầu vào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "outputs <i>(n. đầu ra)</i>",
+   "grammar_vi": "<i>Inputs</i> (noun) = đầu vào. <b>Grammar</b>: số nhiều.",
+   "example": {
+    "en": "Materials and parts are just some of the <b>inputs</b>.",
+    "vi": "Vật liệu và bộ phận chỉ là một phần <b>đầu vào</b>."
+   }
+  },
+  {
+   "word": "capital",
+   "sense": "money as input",
+   "pos": "noun",
+   "ipa": "/ˈkæpɪtl/",
+   "def_en": "Money used in production.",
+   "def_vi": "Tiền dùng trong sản xuất.",
+   "gloss_vi": "vốn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Capital</i> (noun) = vốn. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "The others are labour – workers and managers – and <b>capital</b> – money.",
+    "vi": "Đầu vào khác là lao động và <b>vốn</b>."
+   }
+  },
+  {
+   "word": "work-in-progress",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌwɜːk ɪn ˈprəʊɡres/",
+   "def_en": "Products in the course of being made.",
+   "def_vi": "Sản phẩm đang được làm dở.",
+   "gloss_vi": "bán thành phẩm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Work-in-progress</i> (noun) = bán thành phẩm. <b>Grammar</b>: Anh; Mỹ <i>work-in-process</i>.",
+   "example": {
+    "en": "Vacuum cleaners that are in the course of being made are <b>work-in-progress</b>.",
+    "vi": "Máy hút bụi đang làm dở là <b>bán thành phẩm</b>."
+   }
+  },
+  {
+   "word": "finished goods",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌfɪnɪʃt ˈɡʊdz/",
+   "def_en": "Products that have been made.",
+   "def_vi": "Sản phẩm đã làm xong.",
+   "gloss_vi": "thành phẩm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Finished goods</i> (noun) = thành phẩm. <b>Grammar</b>: <i>goods</i> hiếm khi số ít.",
+   "example": {
+    "en": "and its <b>finished goods</b> – the products that have been made",
+    "vi": "Kho chứa cả vật liệu lẫn <b>thành phẩm</b>."
+   }
+  },
+  {
+   "word": "stocks",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/stɒks/",
+   "def_en": "Quantities of raw materials, components, work-in-progress and finished goods in a place.",
+   "def_vi": "Lượng nguyên liệu, linh kiện, hàng ở một nơi.",
+   "gloss_vi": "hàng tồn kho",
+   "synonyms": "inventories <i>(n. hàng tồn kho (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stocks</i> (noun) = hàng tồn kho. <b>Grammar</b>: Anh <i>stocks</i>; Mỹ <i>inventories</i>.",
+   "example": {
+    "en": "Quantities of raw materials, components, work-in-progress and finished goods in a particular place are <b>stocks</b>.",
+    "vi": "Lượng vật liệu, linh kiện và hàng ở một nơi là <b>hàng tồn kho</b>."
+   }
+  },
+  {
+   "word": "supplier",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/səˈplaɪə(r)/",
+   "def_en": "A company that provides materials and components.",
+   "def_vi": "Công ty cung cấp vật liệu, linh kiện.",
+   "gloss_vi": "nhà cung cấp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Supplier</i> (noun) = nhà cung cấp. <b>Collocations / chunks</b>: <i>outside suppliers</i>.",
+   "example": {
+    "en": "it works with its <b>suppliers</b> – companies that provide materials and components",
+    "vi": "Dyson làm việc với các <b>nhà cung cấp</b>."
+   }
+  },
+  {
+   "word": "subcontracting",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsʌbkənˈtræktɪŋ/",
+   "def_en": "Using outside suppliers to provide components and services.",
+   "def_vi": "Dùng nhà cung cấp ngoài cho linh kiện, dịch vụ.",
+   "gloss_vi": "giao thầu phụ",
+   "synonyms": "outsourcing <i>(n. thuê ngoài)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Subcontracting</i> (noun) = giao thầu phụ. <b>Grammar</b>: người = <i>subcontractor</i>.",
+   "example": {
+    "en": "The company uses <b>subcontracting</b> – which means using outside suppliers to provide components and services.",
+    "vi": "Công ty dùng <b>thầu phụ</b> cho linh kiện và dịch vụ."
+   }
+  },
+  {
+   "word": "in stock",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪn ˈstɒk/",
+   "def_en": "Available for customers to buy.",
+   "def_vi": "Có sẵn để khách mua.",
+   "gloss_vi": "có sẵn trong kho",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "out of stock <i>(adj. hết hàng)</i>",
+   "grammar_vi": "<i>In stock</i> (adjective) = có sẵn trong kho. <b>Collocations / chunks</b>: <i>keep sth in stock</i>.",
+   "example": {
+    "en": "It costs money to keep components and goods available for customers to buy <b>in stock</b>.",
+    "vi": "Giữ hàng <b>có sẵn trong kho</b> tốn tiền."
+   }
+  },
+  {
+   "word": "warehouse",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈweəhaʊs/",
+   "def_en": "A special building where goods are stored.",
+   "def_vi": "Tòa nhà đặc biệt để chứa hàng.",
+   "gloss_vi": "nhà kho",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Warehouse</i> (noun) = nhà kho. <b>Grammar</b>: số nhiều /-haʊzɪz/.",
+   "example": {
+    "en": "They also have to be stored – kept in special buildings called <b>warehouses</b>",
+    "vi": "Hàng phải được cất trong <b>nhà kho</b>."
+   }
+  },
+  {
+   "word": "handle",
+   "sense": "move goods",
+   "pos": "verb",
+   "ipa": "/ˈhændl/",
+   "def_en": "To move (goods) from one place to another.",
+   "def_vi": "Di chuyển (hàng) từ nơi này sang nơi khác.",
+   "gloss_vi": "bốc dỡ, vận chuyển",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Handle</i> (verb) = bốc dỡ, vận chuyển. <b>Grammar</b>: danh từ <i>handling</i>.",
+   "example": {
+    "en": "and <b>handled</b> – moved from one place to another",
+    "vi": "Hàng cũng phải được <b>bốc dỡ</b> – chuyển chỗ này sang chỗ khác."
+   }
+  },
+  {
+   "word": "just-in-time",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌdʒʌst ɪn ˈtaɪm/",
+   "def_en": "(Of supplies) provided exactly when they are needed.",
+   "def_vi": "(Hàng cung cấp) đúng lúc cần.",
+   "gloss_vi": "đúng lúc (JIT)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Just-in-time</i> (adjective) = đúng lúc (JIT). <b>Grammar</b>: viết tắt <i>JIT</i>.",
+   "example": {
+    "en": "Dyson is asking its suppliers to provide components <b>just-in-time</b> – when they are needed",
+    "vi": "Dyson yêu cầu nhà cung cấp giao linh kiện <b>đúng lúc</b> cần."
+   }
+  },
+  {
+   "word": "lean production",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌliːn prəˈdʌkʃn/",
+   "def_en": "Making products in the most efficient way, without waste.",
+   "def_vi": "Sản xuất hiệu quả nhất, không lãng phí.",
+   "gloss_vi": "sản xuất tinh gọn",
+   "synonyms": "lean manufacturing <i>(n. sản xuất tinh gọn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lean production</i> (noun) = sản xuất tinh gọn. <b>Collocations / chunks</b>: tần suất tương đương <i>lean manufacturing</i>.",
+   "example": {
+    "en": "This is part of <b>lean production</b> or lean manufacturing",
+    "vi": "Đây là một phần của <b>sản xuất tinh gọn</b>."
+   }
+  },
+  {
+   "word": "efficient",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪˈfɪʃnt/",
+   "def_en": "Doing things as quickly and cheaply as possible, without waste.",
+   "def_vi": "Làm nhanh, rẻ nhất có thể, không lãng phí.",
+   "gloss_vi": "hiệu quả",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "inefficient <i>(adj. kém hiệu quả)</i>",
+   "grammar_vi": "<i>Efficient</i> (adjective) = hiệu quả. <b>Grammar</b>: danh từ <i>efficiency</i>.",
+   "example": {
+    "en": "products are made in the most <b>efficient</b> way",
+    "vi": "Sản phẩm được làm theo cách <b>hiệu quả</b> nhất."
+   }
+  }
+ ]
+}

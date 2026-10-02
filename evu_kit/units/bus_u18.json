@@ -1,0 +1,280 @@
+{
+ "book": "bus",
+ "unit": 18,
+ "title_vi": "Triết lý kinh doanh",
+ "theory_html": "<p><b>A. Mass customization</b><br><i>A. Tùy biến đại trà</i></p> <p><b>production lines, mass production, standard, standardization, custom-built / tailor-made, specifications / requirements / needs, mass customization, buyer</b>.</p><p><i><b>dây chuyền sản xuất, sản xuất hàng loạt, tiêu chuẩn, tiêu chuẩn hóa, làm theo yêu cầu, thông số kỹ thuật / yêu cầu / nhu cầu, tùy biến đại trà, người mua</b>.</i></p> <p><b>B. Wikinomics</b><br><i>B. Kinh tế học wiki</i></p> <p><b>Wikinomics, mass collaboration, outsourcing, prosumers, peer collaboration, co-creation</b>.</p><p><i><b>kinh tế học wiki, cộng tác đại chúng, thuê ngoài, người tiêu dùng – sản xuất, cộng tác ngang hàng, đồng sáng tạo</b>.</i></p> <p><b>C. The long tail</b><br><i>C. Cái đuôi dài</i></p> <p><b>the long tail, model, catalogue, economies of scale, learning curve</b>.</p><p><i><b>cái đuôi dài, mô hình, danh mục, lợi thế kinh tế nhờ quy mô, đường cong học tập</b>.</i></p> <p><b>D. Benchmarking</b><br><i>D. Đối chuẩn</i></p> <p><b>benchmarking, performance, best practice, halve, collaboration, industrial secrets</b>.</p><p><i><b>đối chuẩn, hiệu suất, thực tiễn tốt nhất, giảm một nửa, cộng tác, bí mật công nghiệp</b>.</i></p>",
+ "items": [
+  {
+   "word": "mass production",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmæs prəˈdʌkʃn/",
+   "def_en": "Producing large numbers of similar products.",
+   "def_vi": "Sản xuất số lượng lớn sản phẩm giống nhau.",
+   "gloss_vi": "sản xuất hàng loạt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mass production</i> (noun) = sản xuất hàng loạt. <b>Grammar</b>: tính từ <i>mass-produced</i>.",
+   "example": {
+    "en": "Production lines are good for <b>mass production</b> – producing large numbers of similar products.",
+    "vi": "Dây chuyền tốt cho <b>sản xuất hàng loạt</b>."
+   }
+  },
+  {
+   "word": "standardization",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌstændədaɪˈzeɪʃn/",
+   "def_en": "Making products the same, with few variations.",
+   "def_vi": "Làm sản phẩm giống nhau, ít biến thể.",
+   "gloss_vi": "tiêu chuẩn hóa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Standardization</i> (noun) = tiêu chuẩn hóa. <b>Grammar</b>: tính từ <i>standard</i>.",
+   "example": {
+    "en": "<b>Standardization</b> is the most important factor.",
+    "vi": "<b>Tiêu chuẩn hóa</b> là yếu tố quan trọng nhất."
+   }
+  },
+  {
+   "word": "custom-built",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌkʌstəm ˈbɪlt/",
+   "def_en": "Made to meet the needs of a particular customer.",
+   "def_vi": "Làm theo nhu cầu khách cụ thể.",
+   "gloss_vi": "đặt làm riêng",
+   "synonyms": "tailor-made <i>(adj. may đo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Custom-built</i> (adjective) = đặt làm riêng. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "<b>Custom-built</b> or tailor-made products, where each product is made to meet the specifications",
+    "vi": "Sản phẩm <b>đặt làm riêng</b> đắt hơn để sản xuất."
+   }
+  },
+  {
+   "word": "specifications",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌspesɪfɪˈkeɪʃnz/",
+   "def_en": "Detailed descriptions of what a customer wants.",
+   "def_vi": "Mô tả chi tiết điều khách muốn.",
+   "gloss_vi": "thông số kỹ thuật, yêu cầu",
+   "synonyms": "requirements <i>(n. yêu cầu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Specifications</i> (noun) = thông số kỹ thuật, yêu cầu. <b>Grammar</b>: thân mật <i>specs</i>.",
+   "example": {
+    "en": "each product is made to meet the <b>specifications</b>, requirements or needs of a particular customer",
+    "vi": "Mỗi sản phẩm làm theo <b>yêu cầu</b> của khách."
+   }
+  },
+  {
+   "word": "mass customization",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmæs ˌkʌstəmaɪˈzeɪʃn/",
+   "def_en": "Making products in large quantities, but each to the buyer’s specifications.",
+   "def_vi": "Sản xuất số lượng lớn nhưng mỗi cái theo yêu cầu người mua.",
+   "gloss_vi": "tùy biến đại trà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mass customization</i> (noun) = tùy biến đại trà. <b>Grammar</b>: Anh <i>customisation</i>.",
+   "example": {
+    "en": "talk about the possibilities of <b>mass customization</b>, where products are made in large quantities, but each one is made to the specifications of the buyer",
+    "vi": "Họ bàn về khả năng <b>tùy biến đại trà</b>."
+   }
+  },
+  {
+   "word": "buyer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbaɪə(r)/",
+   "def_en": "The person or organization buying something.",
+   "def_vi": "Người hay tổ chức mua hàng.",
+   "gloss_vi": "người mua",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "seller <i>(n. người bán)</i>",
+   "grammar_vi": "<i>Buyer</i> (noun) = người mua. <b>Grammar</b>: động từ <i>buy</i>.",
+   "example": {
+    "en": "each one is made to the specifications of the <b>buyer</b> – the person or organization buying it",
+    "vi": "Mỗi sản phẩm theo yêu cầu của <b>người mua</b>."
+   }
+  },
+  {
+   "word": "mass collaboration",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmæs kəˌlæbəˈreɪʃn/",
+   "def_en": "Large numbers of people working together on the internet to solve problems and develop products.",
+   "def_vi": "Rất nhiều người cùng làm trên mạng để giải quyết vấn đề, phát triển sản phẩm.",
+   "gloss_vi": "cộng tác đại chúng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mass collaboration</i> (noun) = cộng tác đại chúng. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "Wikinomics is a form of <b>mass collaboration</b>",
+    "vi": "Wikinomics là một hình thức <b>cộng tác đại chúng</b>."
+   }
+  },
+  {
+   "word": "prosumer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/prəʊˈsjuːmə(r)/",
+   "def_en": "A customer who contributes to the design and development of products.",
+   "def_vi": "Khách hàng góp phần thiết kế, phát triển sản phẩm.",
+   "gloss_vi": "người tiêu dùng – sản xuất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Prosumer</i> (noun) = người tiêu dùng – sản xuất. <b>Grammar</b>: ghép <i>producer</i> + <i>consumer</i>.",
+   "example": {
+    "en": "customers who contribute to the design and development of products should be called <b>prosumers</b>",
+    "vi": "Khách góp ý thiết kế nên gọi là <b>người tiêu dùng – sản xuất</b>."
+   }
+  },
+  {
+   "word": "co-creation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkəʊ kriˈeɪʃn/",
+   "def_en": "Making things together with customers.",
+   "def_vi": "Cùng khách hàng tạo ra sản phẩm.",
+   "gloss_vi": "đồng sáng tạo",
+   "synonyms": "peer collaboration <i>(n. cộng tác ngang hàng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Co-creation</i> (noun) = đồng sáng tạo. <b>Grammar</b>: tiền tố <i>co-</i>.",
+   "example": {
+    "en": "in a process of peer collaboration and <b>co-creation</b>",
+    "vi": "Họ cùng làm trong quá trình cộng tác và <b>đồng sáng tạo</b>."
+   }
+  },
+  {
+   "word": "the long tail",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ðə ˌlɒŋ ˈteɪl/",
+   "def_en": "Selling small numbers of many specialized items profitably.",
+   "def_vi": "Bán lượng nhỏ nhiều mặt hàng chuyên biệt có lãi.",
+   "gloss_vi": "cái đuôi dài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The long tail</i> (noun) = cái đuôi dài. <b>Collocations / chunks</b>: thuật ngữ của Chris Anderson.",
+   "example": {
+    "en": "Another challenge to mass production is <b>the long tail</b>.",
+    "vi": "Một thách thức khác với sản xuất hàng loạt là <b>cái đuôi dài</b>."
+   }
+  },
+  {
+   "word": "model",
+   "sense": "way of doing things",
+   "pos": "noun",
+   "ipa": "/ˈmɒdl/",
+   "def_en": "A way of doing things.",
+   "def_vi": "Cách làm.",
+   "gloss_vi": "mô hình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Model</i> (noun) = mô hình. <b>Collocations / chunks</b>: <i>business model</i>.",
+   "example": {
+    "en": "the mass production <b>model</b> – way of doing things – does not apply to many products",
+    "vi": "<b>Mô hình</b> sản xuất hàng loạt không áp dụng cho nhiều sản phẩm."
+   }
+  },
+  {
+   "word": "economies of scale",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪˌkɒnəmiz əv ˈskeɪl/",
+   "def_en": "When the cost of a product comes down as the amount produced increases.",
+   "def_vi": "Khi giá thành giảm do sản xuất nhiều.",
+   "gloss_vi": "lợi thế kinh tế nhờ quy mô",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Economies of scale</i> (noun) = lợi thế kinh tế nhờ quy mô. <b>Collocations / chunks</b>: cụm cố định.",
+   "example": {
+    "en": "<b>Economies of scale</b> and the learning curve, where the cost of a product comes down in relation to the amount produced, do not apply.",
+    "vi": "<b>Lợi thế quy mô</b> không áp dụng ở đây."
+   }
+  },
+  {
+   "word": "benchmarking",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbentʃmɑːkɪŋ/",
+   "def_en": "Comparing your performance to performance levels elsewhere.",
+   "def_vi": "So sánh hiệu suất mình với nơi khác.",
+   "gloss_vi": "đối chuẩn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Benchmarking</i> (noun) = đối chuẩn. <b>Grammar</b>: danh từ <i>benchmark</i>.",
+   "example": {
+    "en": "We use a system called <b>benchmarking</b> to compare our performance to performance levels in other power stations.",
+    "vi": "Chúng tôi dùng hệ thống <b>đối chuẩn</b> để so hiệu suất."
+   }
+  },
+  {
+   "word": "best practice",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌbest ˈpræktɪs/",
+   "def_en": "The best way of doing something in an industry.",
+   "def_vi": "Cách làm tốt nhất trong ngành.",
+   "gloss_vi": "thực tiễn tốt nhất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Best practice</i> (noun) = thực tiễn tốt nhất. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "to see the <b>best practice</b> in the industry, and to copy it",
+    "vi": "Để xem <b>thực tiễn tốt nhất</b> trong ngành và học theo."
+   }
+  },
+  {
+   "word": "halve",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/hɑːv/",
+   "def_en": "To reduce by half.",
+   "def_vi": "Giảm một nửa.",
+   "gloss_vi": "giảm một nửa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "double <i>(v. gấp đôi)</i>",
+   "grammar_vi": "<i>Halve</i> (verb) = giảm một nửa. <b>Grammar</b>: phát âm /hɑːv/.",
+   "example": {
+    "en": "We’ve managed to <b>halve</b> the number of workers",
+    "vi": "Chúng tôi đã <b>giảm một nửa</b> số công nhân."
+   }
+  },
+  {
+   "word": "collaboration",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəˌlæbəˈreɪʃn/",
+   "def_en": "People and companies working together.",
+   "def_vi": "Người và công ty làm việc cùng nhau.",
+   "gloss_vi": "sự cộng tác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Collaboration</i> (noun) = sự cộng tác. <b>Grammar</b>: động từ <i>collaborate</i>.",
+   "example": {
+    "en": "Benchmarking can be seen as another form of <b>collaboration</b> – people and companies working together.",
+    "vi": "Đối chuẩn có thể xem là một hình thức <b>cộng tác</b>."
+   }
+  },
+  {
+   "word": "industrial secrets",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˌdʌstriəl ˈsiːkrəts/",
+   "def_en": "Information a company does not want competitors to obtain.",
+   "def_vi": "Thông tin công ty không muốn đối thủ biết.",
+   "gloss_vi": "bí mật công nghiệp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Industrial secrets</i> (noun) = bí mật công nghiệp. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "a company will want to hold on to its <b>industrial secrets</b>",
+    "vi": "Công ty muốn giữ <b>bí mật công nghiệp</b>."
+   }
+  }
+ ]
+}
