@@ -141,10 +141,12 @@ def find_example(word, src):
 LABEL = re.compile(r"^(?:[AB]:\s+|[AB]\s+(?=(?:<b>)?(?:Do|Did|Are|And|Have|Is|What|Where|When|The|Can|If|Yes|No|She|He|We|I|It|They|You|Oh|Excuse|How|Go|Take|Turn|Usually)\b))")
 
 
+LISTLBL = re.compile(r"^[b-h]\s+(?=<b>)")   # nhãn liệt kê b/c/d… của sách ('a' trùng mạo từ → sửa tay)
 def drop_label(en):
     """Bỏ nhãn người nói A:/B: ở câu một lượt (giữ nguyên hội thoại hai lượt A: … B: …)."""
     if len(re.findall(r"(?:^|\s)[AB]:\s", en)) >= 2: return en
     en = LABEL.sub("", en, count=1)
+    en = LISTLBL.sub("", en, count=1)
     return ROLE.sub("", en, count=1)
 
 
