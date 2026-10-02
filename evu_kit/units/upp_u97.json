@@ -1,0 +1,498 @@
+{
+ "book": "upp",
+ "unit": 97,
+ "title_vi": "So sánh tu từ (similes)",
+ "theory_html": "<p><b>A. As ... as</b><br><i>A. As ... as</i></p> <p><b>As … as</b> similes are easy to understand: <b>as dead as a doornail</b> means ‘totally dead’. Fixed similes are usually informal and often humorous. Some are negative and could offend; use them with care and keep them generally as part of your receptive vocabulary. Creating a picture in your mind can help you remember the simile; some can be remembered as pairs of opposites or by sound patterns.</p><p><i>So sánh <b>as … as</b> dễ hiểu; thường thân mật, hài hước, một số tiêu cực có thể gây xúc phạm – nên giữ ở vốn từ hiểu. Hình dung, cặp trái nghĩa, hoặc vần điệu giúp nhớ.</i></p> <p><b>LH. Language help</b><br><i>LH. Lưu ý ngôn ngữ</i></p> <p>You can usually make a simile using <b>as … as can be</b>: <b>I’m as thirsty as can be.</b></p><p><i>Có thể tạo so sánh với <b>as … as can be</b>.</i></p> <p><b>B. Like</b><br><i>B. Like</i></p> <p><b>work like a dream, have eyes like a hawk, eat like a horse, drink like a fish, sleep like a log, have a mind/head like a sieve, like a bear with a sore head, like a bull in a china shop, like a red rag to a bull</b>.</p><p><i><b>chạy trơn tru, mắt tinh như cú, ăn như hạm, uống như hũ chìm, ngủ say như chết, não cá vàng, cáu như gấu, hậu đậu vụng về, như chọc tức bò tót</b>.</i></p>",
+ "items": [
+  {
+   "word": "as dead as a doornail",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əz ˌded əz ə ˈdɔːneɪl/",
+   "def_en": "Totally dead.",
+   "def_vi": "Chết hẳn.",
+   "gloss_vi": "chết hẳn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As dead as a doornail</i> (adjective) = chết hẳn. <b>Grammar</b>: so sánh cố định, thân mật.",
+   "ex_kit": true,
+   "example": {
+    "en": "The mouse is <b>as dead as a doornail</b>.",
+    "vi": "Con chuột <b>chết hẳn</b> rồi."
+   }
+  },
+  {
+   "word": "as blind as a bat",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əz ˌblaɪnd əz ə ˈbæt/",
+   "def_en": "Very short-sighted or blind (could offend).",
+   "def_vi": "Rất cận hay mù (có thể xúc phạm).",
+   "gloss_vi": "mù như dơi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As blind as a bat</i> (adjective) = mù như dơi. <b>Grammar</b>: tiêu cực, có thể xúc phạm.",
+   "ex_kit": true,
+   "example": {
+    "en": "Without my glasses I’m <b>as blind as a bat</b>.",
+    "vi": "Không đeo kính, tôi <b>mù như dơi</b>."
+   }
+  },
+  {
+   "word": "as thin as a rake",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əz ˌθɪn əz ə ˈreɪk/",
+   "def_en": "Very thin (could offend).",
+   "def_vi": "Rất gầy (có thể xúc phạm).",
+   "gloss_vi": "gầy như que củi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As thin as a rake</i> (adjective) = gầy như que củi. <b>Grammar</b>: tiêu cực, có thể xúc phạm.",
+   "ex_kit": true,
+   "example": {
+    "en": "She’s <b>as thin as a rake</b>.",
+    "vi": "Cô ấy <b>gầy như que củi</b>."
+   }
+  },
+  {
+   "word": "as strong as an ox",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əz ˌstrɒŋ əz ən ˈɒks/",
+   "def_en": "Very strong.",
+   "def_vi": "Rất khỏe.",
+   "gloss_vi": "khỏe như trâu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As strong as an ox</i> (adjective) = khỏe như trâu. <b>Grammar</b>: so sánh cố định.",
+   "ex_kit": true,
+   "example": {
+    "en": "He’s <b>as strong as an ox</b>.",
+    "vi": "Anh ấy <b>khỏe như trâu</b>."
+   }
+  },
+  {
+   "word": "as quiet as a mouse",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əz ˌkwaɪət əz ə ˈmaʊs/",
+   "def_en": "Very quiet.",
+   "def_vi": "Rất yên lặng.",
+   "gloss_vi": "im như chuột",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As quiet as a mouse</i> (adjective) = im như chuột. <b>Grammar</b>: so sánh cố định.",
+   "ex_kit": true,
+   "example": {
+    "en": "The little girl was <b>as quiet as a mouse</b>.",
+    "vi": "Bé gái <b>im như chuột</b>."
+   }
+  },
+  {
+   "word": "as drunk as a lord",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əz ˌdrʌŋk əz ə ˈlɔːd/",
+   "def_en": "Very drunk (could offend).",
+   "def_vi": "Rất say (có thể xúc phạm).",
+   "gloss_vi": "say bí tỉ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "as sober as a judge <i>(adj. tỉnh như sáo)</i>",
+   "grammar_vi": "<i>As drunk as a lord</i> (adjective) = say bí tỉ. <b>Grammar</b>: tiêu cực; trái nghĩa <i>as sober as a judge</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He came home <b>as drunk as a lord</b>.",
+    "vi": "Anh ta về nhà <b>say bí tỉ</b>."
+   }
+  },
+  {
+   "word": "as sober as a judge",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əz ˌsəʊbər əz ə ˈdʒʌdʒ/",
+   "def_en": "Completely sober.",
+   "def_vi": "Hoàn toàn tỉnh táo.",
+   "gloss_vi": "tỉnh như sáo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "as drunk as a lord <i>(adj. say bí tỉ)</i>",
+   "grammar_vi": "<i>As sober as a judge</i> (adjective) = tỉnh như sáo. <b>Grammar</b>: trái nghĩa <i>as drunk as a lord</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I’m <b>as sober as a judge</b> - I only drank water.",
+    "vi": "Tôi <b>tỉnh như sáo</b> – chỉ uống nước."
+   }
+  },
+  {
+   "word": "as black as night",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əz ˌblæk əz ˈnaɪt/",
+   "def_en": "Very black.",
+   "def_vi": "Rất đen.",
+   "gloss_vi": "đen như đêm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "as white as snow <i>(adj. trắng như tuyết)</i>",
+   "grammar_vi": "<i>As black as night</i> (adjective) = đen như đêm. <b>Grammar</b>: hay dùng trong truyện cổ tích.",
+   "ex_kit": true,
+   "example": {
+    "en": "Her hair was <b>as black as night</b>.",
+    "vi": "Mái tóc nàng <b>đen như đêm</b>."
+   }
+  },
+  {
+   "word": "as white as snow",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əz ˌwaɪt əz ˈsnəʊ/",
+   "def_en": "Beautifully white.",
+   "def_vi": "Trắng đẹp.",
+   "gloss_vi": "trắng như tuyết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "as black as night <i>(adj. đen như đêm)</i>",
+   "grammar_vi": "<i>As white as snow</i> (adjective) = trắng như tuyết. <b>Grammar</b>: hay dùng trong truyện cổ tích.",
+   "example": {
+    "en": "The Princess’s skin was <b>as white as snow</b>.",
+    "vi": "Làn da công chúa <b>trắng như tuyết</b>."
+   }
+  },
+  {
+   "word": "as cool as a cucumber",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əz ˌkuːl əz ə ˈkjuːkʌmbə(r)/",
+   "def_en": "Very calm.",
+   "def_vi": "Rất bình tĩnh.",
+   "gloss_vi": "bình tĩnh như không",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As cool as a cucumber</i> (adjective) = bình tĩnh như không. <b>Grammar</b>: nhớ nhờ vần /k/.",
+   "ex_kit": true,
+   "example": {
+    "en": "She was <b>as cool as a cucumber</b> in the interview.",
+    "vi": "Cô ấy <b>bình tĩnh như không</b> trong buổi phỏng vấn."
+   }
+  },
+  {
+   "word": "as busy as a bee",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əz ˌbɪzi əz ə ˈbiː/",
+   "def_en": "Very busy.",
+   "def_vi": "Rất bận rộn.",
+   "gloss_vi": "bận tối mắt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As busy as a bee</i> (adjective) = bận tối mắt. <b>Grammar</b>: nhớ nhờ vần /b/.",
+   "ex_kit": true,
+   "example": {
+    "en": "My mother is always <b>as busy as a bee</b>.",
+    "vi": "Mẹ tôi lúc nào cũng <b>bận tối mắt</b>."
+   }
+  },
+  {
+   "word": "as hard as iron",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əz ˌhɑːd əz ˈaɪən/",
+   "def_en": "Very hard.",
+   "def_vi": "Rất cứng.",
+   "gloss_vi": "cứng như sắt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As hard as iron</i> (adjective) = cứng như sắt. <b>Grammar</b>: so sánh cố định.",
+   "example": {
+    "en": "The bed was <b>as hard as iron</b> and I couldn’t sleep.",
+    "vi": "Chiếc giường <b>cứng như sắt</b> và tôi không ngủ được."
+   }
+  },
+  {
+   "word": "as dry as a bone",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əz ˌdraɪ əz ə ˈbəʊn/",
+   "def_en": "Very dry.",
+   "def_vi": "Rất khô.",
+   "gloss_vi": "khô khốc",
+   "synonyms": "bone-dry <i>(adj. khô khốc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As dry as a bone</i> (adjective) = khô khốc. <b>Grammar</b>: có thể bỏ <i>as</i> đầu.",
+   "example": {
+    "en": "The soil’s <b>dry as a bone</b>.",
+    "vi": "Đất <b>khô khốc</b>."
+   }
+  },
+  {
+   "word": "as mad as a hatter",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əz ˌmæd əz ə ˈhætə(r)/",
+   "def_en": "Completely crazy (could offend).",
+   "def_vi": "Hoàn toàn điên (có thể xúc phạm).",
+   "gloss_vi": "điên rồ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As mad as a hatter</i> (adjective) = điên rồ. <b>Grammar</b>: tiêu cực.",
+   "example": {
+    "en": "He’s <b>as mad as a hatter</b>. He crossed the Atlantic in a bathtub.",
+    "vi": "Anh ta <b>điên rồ</b> thật. Anh ta vượt Đại Tây Dương bằng bồn tắm."
+   }
+  },
+  {
+   "word": "as bold as brass",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əz ˌbəʊld əz ˈbrɑːs/",
+   "def_en": "Very confident and without shame.",
+   "def_vi": "Rất tự tin và không xấu hổ.",
+   "gloss_vi": "trơ tráo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As bold as brass</i> (adjective) = trơ tráo. <b>Grammar</b>: nhớ nhờ vần /b/.",
+   "example": {
+    "en": "She told the teacher, <b>as bold as brass</b>, that his lessons were boring.",
+    "vi": "Cô ấy <b>trơ tráo</b> nói với thầy rằng bài giảng chán."
+   }
+  },
+  {
+   "word": "as deaf as a post",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əz ˌdef əz ə ˈpəʊst/",
+   "def_en": "Completely deaf (could offend).",
+   "def_vi": "Điếc hoàn toàn (có thể xúc phạm).",
+   "gloss_vi": "điếc đặc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As deaf as a post</i> (adjective) = điếc đặc. <b>Grammar</b>: tiêu cực.",
+   "example": {
+    "en": "You’ll have to speak slowly and clearly - he’s <b>as deaf as a post</b>.",
+    "vi": "Bạn phải nói chậm và rõ – ông ấy <b>điếc đặc</b>."
+   }
+  },
+  {
+   "word": "as easy as pie",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əz ˌiːzi əz ˈpaɪ/",
+   "def_en": "Very easy.",
+   "def_vi": "Rất dễ.",
+   "gloss_vi": "dễ như ăn kẹo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As easy as pie</i> (adjective) = dễ như ăn kẹo. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "Passing this exam is <b>as easy as pie</b>.",
+    "vi": "Đừng lo. Đỗ kỳ thi này <b>dễ như ăn kẹo</b>."
+   }
+  },
+  {
+   "word": "as quick as a flash",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/əz ˌkwɪk əz ə ˈflæʃ/",
+   "def_en": "Very quickly.",
+   "def_vi": "Rất nhanh.",
+   "gloss_vi": "nhanh như chớp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As quick as a flash</i> (adverb) = nhanh như chớp. <b>Grammar</b>: so sánh cố định.",
+   "example": {
+    "en": "She knew the answer <b>as quick as a flash</b>.",
+    "vi": "Cô ấy biết câu trả lời <b>nhanh như chớp</b>."
+   }
+  },
+  {
+   "word": "as white as a sheet",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əz ˌwaɪt əz ə ˈʃiːt/",
+   "def_en": "Pale with fear or horror.",
+   "def_vi": "Tái mét vì sợ.",
+   "gloss_vi": "tái mét",
+   "synonyms": "pale <i>(adj. tái)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As white as a sheet</i> (adjective) = tái mét. <b>Grammar</b>: thường <i>go as white as a sheet</i>.",
+   "example": {
+    "en": "When he saw it, his face went <b>as white as a sheet</b>.",
+    "vi": "Khi thấy nó, mặt anh ấy <b>tái mét</b>."
+   }
+  },
+  {
+   "word": "as sick as a dog",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əz ˌsɪk əz ə ˈdɒɡ/",
+   "def_en": "Vomiting a lot.",
+   "def_vi": "Nôn nhiều.",
+   "gloss_vi": "nôn thốc nôn tháo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As sick as a dog</i> (adjective) = nôn thốc nôn tháo. <b>Grammar</b>: khác <i>as sick as a parrot</i>.",
+   "example": {
+    "en": "The fish was bad and I was <b>as sick as a dog</b>.",
+    "vi": "Cá bị hỏng và tôi <b>nôn thốc nôn tháo</b>."
+   }
+  },
+  {
+   "word": "as sick as a parrot",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əz ˌsɪk əz ə ˈpærət/",
+   "def_en": "Very disappointed or frustrated.",
+   "def_vi": "Rất thất vọng, bực bội.",
+   "gloss_vi": "cay cú",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As sick as a parrot</i> (adjective) = cay cú. <b>Grammar</b>: thân mật, Anh-Anh.",
+   "example": {
+    "en": "She ran off with my money - I felt <b>as sick as a parrot</b>.",
+    "vi": "Cô ta chuồn với tiền của tôi – tôi thấy <b>cay cú</b>."
+   }
+  },
+  {
+   "word": "as red as a beetroot",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əz ˌred əz ə ˈbiːtruːt/",
+   "def_en": "Very red in the face.",
+   "def_vi": "Mặt rất đỏ.",
+   "gloss_vi": "đỏ như gấc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As red as a beetroot</i> (adjective) = đỏ như gấc. <b>Grammar</b>: thường do ngượng.",
+   "example": {
+    "en": "When I told him, his face went <b>as red as a beetroot</b>.",
+    "vi": "Khi tôi nói, mặt anh ấy <b>đỏ như gấc</b>."
+   }
+  },
+  {
+   "word": "work like a dream",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌwɜːk laɪk ə ˈdriːm/",
+   "def_en": "To work very smoothly and well.",
+   "def_vi": "Chạy rất trơn tru.",
+   "gloss_vi": "chạy trơn tru",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Work like a dream</i> (verb) = chạy trơn tru. <b>Grammar</b>: so sánh với <i>like</i>.",
+   "example": {
+    "en": "My plan <b>worked like a dream</b> and the problem was soon solved.",
+    "vi": "Kế hoạch của tôi <b>chạy trơn tru</b> và vấn đề sớm được giải quyết."
+   }
+  },
+  {
+   "word": "have eyes like a hawk",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/hæv ˌaɪz laɪk ə ˈhɔːk/",
+   "def_en": "To see everything.",
+   "def_vi": "Nhìn thấy mọi thứ.",
+   "gloss_vi": "mắt tinh như cú",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have eyes like a hawk</i> (verb) = mắt tinh như cú. <b>Grammar</b>: so sánh với <i>like</i>.",
+   "example": {
+    "en": "Be careful the boss doesn’t see you - she <b>has eyes like a hawk</b>.",
+    "vi": "Cẩn thận đừng để sếp thấy – bà ấy <b>mắt tinh như cú</b>."
+   }
+  },
+  {
+   "word": "eat like a horse",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌiːt laɪk ə ˈhɔːs/",
+   "def_en": "To eat a lot.",
+   "def_vi": "Ăn rất nhiều.",
+   "gloss_vi": "ăn như hạm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Eat like a horse</i> (verb) = ăn như hạm. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "No wonder he’s fat. He <b>eats like a horse</b>.",
+    "vi": "Chẳng trách anh ta béo. Anh ta <b>ăn như hạm</b>."
+   }
+  },
+  {
+   "word": "drink like a fish",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌdrɪŋk laɪk ə ˈfɪʃ/",
+   "def_en": "To drink a lot of alcohol (could offend).",
+   "def_vi": "Uống nhiều rượu (có thể xúc phạm).",
+   "gloss_vi": "uống như hũ chìm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Drink like a fish</i> (verb) = uống như hũ chìm. <b>Grammar</b>: tiêu cực.",
+   "example": {
+    "en": "He eats like a horse and <b>drinks like a fish</b>.",
+    "vi": "Anh ta ăn như hạm và <b>uống như hũ chìm</b>."
+   }
+  },
+  {
+   "word": "sleep like a log",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌsliːp laɪk ə ˈlɒɡ/",
+   "def_en": "To sleep very well.",
+   "def_vi": "Ngủ rất ngon.",
+   "gloss_vi": "ngủ say như chết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sleep like a log</i> (verb) = ngủ say như chết. <b>Grammar</b>: so sánh với <i>like</i>.",
+   "example": {
+    "en": "Did you sleep well? Yes, thanks, <b>like a log</b>.",
+    "vi": "Ngủ ngon không? Có, <b>ngủ say như chết</b>."
+   }
+  },
+  {
+   "word": "have a mind like a sieve",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/hæv ə ˌmaɪnd laɪk ə ˈsɪv/",
+   "def_en": "To be very forgetful.",
+   "def_vi": "Rất hay quên.",
+   "gloss_vi": "não cá vàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have a mind like a sieve</i> (verb) = não cá vàng. <b>Grammar</b>: cũng <i>a head like a sieve</i>.",
+   "example": {
+    "en": "I’<b>ve got a mind like a sieve</b>!",
+    "vi": "Xin lỗi, tôi lại quên gọi anh ấy. Tôi đúng là <b>não cá vàng</b>!"
+   }
+  },
+  {
+   "word": "like a bull in a china shop",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/laɪk ə ˌbʊl ɪn ə ˈtʃaɪnə ʃɒp/",
+   "def_en": "In a very clumsy, insensitive way (could offend).",
+   "def_vi": "Rất vụng về, thiếu tế nhị (có thể xúc phạm).",
+   "gloss_vi": "hậu đậu vụng về",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Like a bull in a china shop</i> (adverb) = hậu đậu vụng về. <b>Grammar</b>: tiêu cực.",
+   "example": {
+    "en": "She goes around <b>like a bull in a china shop</b>.",
+    "vi": "Cô ta đi lại <b>hậu đậu vụng về</b>."
+   }
+  },
+  {
+   "word": "like a red rag to a bull",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/laɪk ə ˌred ˌræɡ tu ə ˈbʊl/",
+   "def_en": "Certain to make someone very angry.",
+   "def_vi": "Chắc chắn khiến ai rất giận.",
+   "gloss_vi": "như chọc tức bò tót",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Like a red rag to a bull</i> (adjective) = như chọc tức bò tót. <b>Grammar</b>: so sánh với <i>like</i>.",
+   "example": {
+    "en": "Criticising the government in his presence is <b>like a red rag to a bull</b>.",
+    "vi": "Chỉ trích chính phủ trước mặt ông ấy <b>như chọc tức bò tót</b>."
+   }
+  }
+ ]
+}

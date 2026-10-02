@@ -1,0 +1,435 @@
+{
+ "book": "upp",
+ "unit": 96,
+ "title_vi": "Từ trang trọng và thân mật 2",
+ "theory_html": "<p><b>A. Monosyllabic informal words</b><br><i>A. Từ thân mật một âm tiết</i></p> <p>Informal versions of words are often short and monosyllabic: <b>cops</b> [police], <b>loos</b> [toilets], <b>quid</b> [pounds], <b>spuds</b> [potatoes], <b>bike</b> [bicycle], <b>tube</b> [the London Underground], <b>nick</b> [prison], <b>cab</b> [taxi].</p><p><i>Từ thân mật thường ngắn, một âm tiết.</i></p> <p><b>B. Clippings</b><br><i>B. Từ rút gọn</i></p> <p>Shortening a word tends to make it less formal, though these forms are acceptable in a wide range of contexts: <b>lab, tech, telly, mag, ad/advert, paper, mobile, phone, fridge, vet, celeb</b>.</p><p><i>Rút gọn từ khiến nó bớt trang trọng nhưng vẫn dùng được trong nhiều ngữ cảnh.</i></p> <p><b>C. Slang</b><br><i>C. Tiếng lóng</i></p> <p>Slang is extremely informal language. It helps to make speech vivid, colourful and interesting but it can easily be used inappropriately. It is mainly used in speech but also in the popular press and literature. Slang changes very quickly; some expressions may cause offence. Money: <b>dosh, readies, moolah</b>; food and drinks: <b>nosh, grub, sarnie, cuppa</b>; people obsessed with computers or equipment: <b>nerd, geek, anorak</b>; jobs: <b>quack, shrink, the old bill, squaddie</b>.</p><p><i>Tiếng lóng cực kỳ thân mật, làm lời nói sinh động nhưng dễ dùng sai; thay đổi nhanh, có thể gây xúc phạm.</i></p> <p><b>LH. Language help</b><br><i>LH. Lưu ý ngôn ngữ</i></p> <p>If you are interested in slang, you can find more examples in films or in the tabloid press but it is probably safest to keep it in your passive rather than your active vocabulary.</p><p><i>An toàn nhất là chỉ hiểu tiếng lóng, không chủ động dùng.</i></p>",
+ "items": [
+  {
+   "word": "cop",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kɒp/",
+   "def_en": "A police officer (informal).",
+   "def_vi": "Cảnh sát (thân mật).",
+   "gloss_vi": "cớm",
+   "synonyms": "police officer <i>(n. cảnh sát)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cop</i> (noun) = cớm. <b>Grammar</b>: thân mật, một âm tiết.",
+   "example": {
+    "en": "The <b>cops</b> have arrived.",
+    "vi": "<b>Cảnh sát</b> đến rồi."
+   }
+  },
+  {
+   "word": "loo",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/luː/",
+   "def_en": "A toilet (informal).",
+   "def_vi": "Nhà vệ sinh (thân mật).",
+   "gloss_vi": "nhà vệ sinh",
+   "synonyms": "toilet <i>(n. nhà vệ sinh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Loo</i> (noun) = nhà vệ sinh. <b>Grammar</b>: thân mật, Anh-Anh.",
+   "example": {
+    "en": "The house has two <b>loos</b>.",
+    "vi": "Ngôi nhà có hai <b>nhà vệ sinh</b>."
+   }
+  },
+  {
+   "word": "quid",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kwɪd/",
+   "def_en": "A pound in money (informal).",
+   "def_vi": "Đồng bảng Anh (thân mật).",
+   "gloss_vi": "bảng (tiền)",
+   "synonyms": "pound <i>(n. bảng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Quid</i> (noun) = bảng (tiền). <b>Grammar</b>: số nhiều vẫn là <i>quid</i>.",
+   "example": {
+    "en": "It cost me ten <b>quid</b>.",
+    "vi": "Tôi mất mười <b>bảng</b>."
+   }
+  },
+  {
+   "word": "spud",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/spʌd/",
+   "def_en": "A potato (informal).",
+   "def_vi": "Khoai tây (thân mật).",
+   "gloss_vi": "củ khoai",
+   "synonyms": "potato <i>(n. khoai tây)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spud</i> (noun) = củ khoai. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "I’ll help you peel the <b>spuds</b>.",
+    "vi": "Tôi sẽ giúp bạn gọt <b>khoai</b>."
+   }
+  },
+  {
+   "word": "tube",
+   "sense": "train",
+   "pos": "noun",
+   "ipa": "/tjuːb/",
+   "def_en": "The London Underground (informal).",
+   "def_vi": "Tàu điện ngầm London (thân mật).",
+   "gloss_vi": "tàu điện ngầm",
+   "synonyms": "underground <i>(n. tàu điện ngầm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tube</i> (noun) = tàu điện ngầm. <b>Grammar</b>: <i>by tube</i>, không mạo từ.",
+   "example": {
+    "en": "I always go by <b>tube</b>.",
+    "vi": "Tôi luôn đi <b>tàu điện ngầm</b>."
+   }
+  },
+  {
+   "word": "nick",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/nɪk/",
+   "def_en": "Prison (informal).",
+   "def_vi": "Nhà tù (thân mật).",
+   "gloss_vi": "nhà đá",
+   "synonyms": "prison <i>(n. nhà tù)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nick</i> (noun) = nhà đá. <b>Grammar</b>: <i>in the nick</i>; tiếng lóng Anh.",
+   "example": {
+    "en": "His dad spent ten years in the <b>nick</b>.",
+    "vi": "Bố anh ta ngồi <b>tù</b> mười năm."
+   }
+  },
+  {
+   "word": "cab",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kæb/",
+   "def_en": "A taxi (informal).",
+   "def_vi": "Taxi (thân mật).",
+   "gloss_vi": "taxi",
+   "synonyms": "taxi <i>(n. taxi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cab</i> (noun) = taxi. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "I’ll get a <b>cab</b> from the station.",
+    "vi": "Tôi sẽ bắt <b>taxi</b> từ nhà ga."
+   }
+  },
+  {
+   "word": "lab",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/læb/",
+   "def_en": "A laboratory.",
+   "def_vi": "Phòng thí nghiệm.",
+   "gloss_vi": "phòng thí nghiệm",
+   "synonyms": "laboratory <i>(n. phòng thí nghiệm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lab</i> (noun) = phòng thí nghiệm. <b>Grammar</b>: rút gọn của <i>laboratory</i>.",
+   "example": {
+    "en": "I’ll meet you in the <b>lab</b>.",
+    "vi": "Tôi sẽ gặp bạn ở <b>phòng thí nghiệm</b>."
+   }
+  },
+  {
+   "word": "tech",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tek/",
+   "def_en": "Technology (informal).",
+   "def_vi": "Công nghệ (thân mật).",
+   "gloss_vi": "công nghệ",
+   "synonyms": "technology <i>(n. công nghệ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tech</i> (noun) = công nghệ. <b>Grammar</b>: rút gọn của <i>technology</i>.",
+   "example": {
+    "en": "She works for a <b>tech</b> company.",
+    "vi": "Cô ấy làm cho một công ty <b>công nghệ</b>."
+   }
+  },
+  {
+   "word": "telly",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈteli/",
+   "def_en": "Television (informal).",
+   "def_vi": "Ti vi (thân mật).",
+   "gloss_vi": "ti vi",
+   "synonyms": "TV <i>(n. ti vi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Telly</i> (noun) = ti vi. <b>Grammar</b>: Anh-Anh; <i>on telly</i>.",
+   "example": {
+    "en": "What’s on <b>telly</b> tonight?",
+    "vi": "Tối nay <b>ti vi</b> có gì?"
+   }
+  },
+  {
+   "word": "mag",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/mæɡ/",
+   "def_en": "A magazine (informal).",
+   "def_vi": "Tạp chí (thân mật).",
+   "gloss_vi": "tạp chí",
+   "synonyms": "magazine <i>(n. tạp chí)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mag</i> (noun) = tạp chí. <b>Grammar</b>: rút gọn của <i>magazine</i>.",
+   "example": {
+    "en": "Have you seen that <b>mag</b>?",
+    "vi": "Bạn đã xem <b>tạp chí</b> đó chưa?"
+   }
+  },
+  {
+   "word": "advert",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈædvɜːt/",
+   "def_en": "An advertisement.",
+   "def_vi": "Quảng cáo.",
+   "gloss_vi": "quảng cáo",
+   "synonyms": "ad <i>(n. quảng cáo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Advert</i> (noun) = quảng cáo. <b>Grammar</b>: rút gọn; cũng <i>ad</i>.",
+   "example": {
+    "en": "We should put an <b>advert</b> in the paper.",
+    "vi": "Ta nên đăng <b>quảng cáo</b> trên báo."
+   }
+  },
+  {
+   "word": "fridge",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/frɪdʒ/",
+   "def_en": "A refrigerator.",
+   "def_vi": "Tủ lạnh.",
+   "gloss_vi": "tủ lạnh",
+   "synonyms": "refrigerator <i>(n. tủ lạnh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fridge</i> (noun) = tủ lạnh. <b>Grammar</b>: rút gọn của <i>refrigerator</i>.",
+   "example": {
+    "en": "There’s milk in the <b>fridge</b>.",
+    "vi": "Có sữa trong <b>tủ lạnh</b>."
+   }
+  },
+  {
+   "word": "vet",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/vet/",
+   "def_en": "A veterinary surgeon.",
+   "def_vi": "Bác sĩ thú y.",
+   "gloss_vi": "bác sĩ thú y",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Vet</i> (noun) = bác sĩ thú y. <b>Grammar</b>: rút gọn của <i>veterinary surgeon</i>.",
+   "example": {
+    "en": "Her sister’s a <b>vet</b>.",
+    "vi": "Chị cô ấy là <b>bác sĩ thú y</b>."
+   }
+  },
+  {
+   "word": "celeb",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/səˈleb/",
+   "def_en": "A celebrity; a famous person (informal).",
+   "def_vi": "Người nổi tiếng (thân mật).",
+   "gloss_vi": "người nổi tiếng",
+   "synonyms": "celebrity <i>(n. người nổi tiếng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Celeb</i> (noun) = người nổi tiếng. <b>Grammar</b>: rút gọn của <i>celebrity</i>.",
+   "example": {
+    "en": "Would you like to be a <b>celeb</b>?",
+    "vi": "Bạn có muốn làm <b>người nổi tiếng</b> không?"
+   }
+  },
+  {
+   "word": "dosh",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɒʃ/",
+   "def_en": "Money (slang).",
+   "def_vi": "Tiền (tiếng lóng).",
+   "gloss_vi": "tiền",
+   "synonyms": "money <i>(n. tiền)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dosh</i> (noun) = tiền. <b>Grammar</b>: tiếng lóng; cũng <i>readies, moolah</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He makes loads of <b>dosh</b>.",
+    "vi": "Anh ta kiếm được cả đống <b>tiền</b>."
+   }
+  },
+  {
+   "word": "grub",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɡrʌb/",
+   "def_en": "Food (slang).",
+   "def_vi": "Thức ăn (tiếng lóng).",
+   "gloss_vi": "đồ ăn",
+   "synonyms": "food <i>(n. thức ăn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Grub</i> (noun) = đồ ăn. <b>Grammar</b>: tiếng lóng; cũng <i>nosh</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Let’s get some <b>grub</b>.",
+    "vi": "Mình kiếm chút <b>đồ ăn</b> đi."
+   }
+  },
+  {
+   "word": "sarnie",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɑːni/",
+   "def_en": "A sandwich (slang).",
+   "def_vi": "Bánh sandwich (tiếng lóng).",
+   "gloss_vi": "bánh kẹp",
+   "synonyms": "sandwich <i>(n. bánh sandwich)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sarnie</i> (noun) = bánh kẹp. <b>Grammar</b>: tiếng lóng Anh.",
+   "ex_kit": true,
+   "example": {
+    "en": "a cheese <b>sarnie</b>",
+    "vi": "Một cái <b>bánh kẹp</b> pho mát."
+   }
+  },
+  {
+   "word": "cuppa",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkʌpə/",
+   "def_en": "A cup of tea (slang).",
+   "def_vi": "Một tách trà (tiếng lóng).",
+   "gloss_vi": "tách trà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cuppa</i> (noun) = tách trà. <b>Grammar</b>: tiếng lóng Anh.",
+   "ex_kit": true,
+   "example": {
+    "en": "Fancy a <b>cuppa</b>?",
+    "vi": "Làm một <b>tách trà</b> không?"
+   }
+  },
+  {
+   "word": "nerd",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/nɜːd/",
+   "def_en": "A person obsessed with computers or other equipment (slang).",
+   "def_vi": "Người mê máy tính hay thiết bị (tiếng lóng).",
+   "gloss_vi": "mọt máy tính",
+   "synonyms": "geek <i>(n. dân mê công nghệ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nerd</i> (noun) = mọt máy tính. <b>Grammar</b>: tiếng lóng; cũng <i>geek, anorak</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "My brother is a computer <b>nerd</b>.",
+    "vi": "Anh trai tôi là <b>dân mọt máy tính</b>."
+   }
+  },
+  {
+   "word": "geek",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɡiːk/",
+   "def_en": "A person obsessed with computers or other equipment (slang).",
+   "def_vi": "Người mê máy tính hay thiết bị (tiếng lóng).",
+   "gloss_vi": "dân mê công nghệ",
+   "synonyms": "nerd <i>(n. mọt máy tính)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Geek</i> (noun) = dân mê công nghệ. <b>Grammar</b>: tiếng lóng.",
+   "ex_kit": true,
+   "example": {
+    "en": "He’s a real <b>geek</b>.",
+    "vi": "Cậu ấy là <b>dân mê công nghệ</b>."
+   }
+  },
+  {
+   "word": "anorak",
+   "sense": "person",
+   "pos": "noun",
+   "ipa": "/ˈænəræk/",
+   "def_en": "A person obsessed with a hobby or equipment (slang).",
+   "def_vi": "Người mê mẩn sở thích hay thiết bị (tiếng lóng).",
+   "gloss_vi": "kẻ cuồng sở thích",
+   "synonyms": "nerd <i>(n. mọt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Anorak</i> (noun) = kẻ cuồng sở thích. <b>Grammar</b>: tiếng lóng Anh; nghĩa gốc = áo khoác có mũ.",
+   "ex_kit": true,
+   "example": {
+    "en": "He’s a train <b>anorak</b>.",
+    "vi": "Anh ta là <b>kẻ cuồng</b> tàu hỏa."
+   }
+  },
+  {
+   "word": "quack",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kwæk/",
+   "def_en": "A doctor (slang).",
+   "def_vi": "Bác sĩ (tiếng lóng).",
+   "gloss_vi": "lang băm, bác sĩ",
+   "synonyms": "doctor <i>(n. bác sĩ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Quack</i> (noun) = lang băm, bác sĩ. <b>Grammar</b>: tiếng lóng; cũng = lang băm.",
+   "ex_kit": true,
+   "example": {
+    "en": "I need to see the <b>quack</b>.",
+    "vi": "Tôi phải đi gặp <b>ông bác sĩ</b>."
+   }
+  },
+  {
+   "word": "shrink",
+   "sense": "person",
+   "pos": "noun",
+   "ipa": "/ʃrɪŋk/",
+   "def_en": "A psychiatrist (slang).",
+   "def_vi": "Bác sĩ tâm thần (tiếng lóng).",
+   "gloss_vi": "bác sĩ tâm lý",
+   "synonyms": "psychiatrist <i>(n. bác sĩ tâm thần)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shrink</i> (noun) = bác sĩ tâm lý. <b>Grammar</b>: tiếng lóng.",
+   "ex_kit": true,
+   "example": {
+    "en": "She sees her <b>shrink</b> every week.",
+    "vi": "Cô ấy gặp <b>bác sĩ tâm lý</b> hằng tuần."
+   }
+  },
+  {
+   "word": "the old bill",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ði ˌəʊld ˈbɪl/",
+   "def_en": "The police (slang).",
+   "def_vi": "Cảnh sát (tiếng lóng).",
+   "gloss_vi": "cớm",
+   "synonyms": "the police <i>(n. cảnh sát)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The old bill</i> (noun) = cớm. <b>Grammar</b>: tiếng lóng Anh.",
+   "ex_kit": true,
+   "example": {
+    "en": "Watch out, <b>the old bill</b> are coming.",
+    "vi": "Cẩn thận, <b>cớm</b> đến kìa."
+   }
+  },
+  {
+   "word": "squaddie",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈskwɒdi/",
+   "def_en": "A soldier of a low rank (slang).",
+   "def_vi": "Lính cấp thấp (tiếng lóng).",
+   "gloss_vi": "lính quèn",
+   "synonyms": "soldier <i>(n. lính)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Squaddie</i> (noun) = lính quèn. <b>Grammar</b>: tiếng lóng Anh.",
+   "ex_kit": true,
+   "example": {
+    "en": "He used to be a <b>squaddie</b> in the army.",
+    "vi": "Anh ấy từng là <b>lính quèn</b> trong quân đội."
+   }
+  }
+ ]
+}
