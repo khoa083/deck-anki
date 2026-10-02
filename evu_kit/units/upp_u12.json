@@ -1,0 +1,344 @@
+{
+ "book": "upp",
+ "unit": 12,
+ "title_vi": "Những rắc rối nhỏ hằng ngày",
+ "theory_html": "<p><b>A. Things that go wrong in houses and flats</b><br><i>A. Trục trặc trong nhà</i></p> <p><b>a pipe leaking; smashed a window; cracked; batteries have run out / are dead; chipped; a power cut; come off / fallen off; broke down; got crushed; crashing</b>.</p><p><i><b>rò rỉ, đập vỡ, nứt, hết pin, mẻ, mất điện, rơi ra, hỏng, bị đè bẹp, treo máy</b>.</i></p> <p><b>B. Everyday minor injuries</b><br><i>B. Thương tích nhẹ</i></p> <p><b>twist your ankle; bump/bang your head; a bruise; trip and fall down; graze your knee</b>.</p><p><i><b>trẹo, va đầu, vết bầm, vấp ngã, trầy xước</b>.</i></p> <p><b>C. Other everyday minor problems</b><br><i>C. Rắc rối nhỏ khác</i></p> <p><b>mislaid; spilt…a stain; blocked; dented; stopped working; locked myself out; won’t start; the battery’s flat; slow/fast/stopped</b>. Many words are verbs and nouns: <b>flood, crack, chip, bump, bang, bruise, graze, dent, stain, lock</b>.</p><p><i><b>để thất lạc, làm đổ, vết bẩn, tắc, móp, khóa mình bên ngoài, không nổ máy, hết điện</b>.</i></p>",
+ "items": [
+  {
+   "word": "leak",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/liːk/",
+   "def_en": "To let liquid or gas out through a hole.",
+   "def_vi": "Để chất lỏng hay khí thoát qua lỗ.",
+   "gloss_vi": "rò rỉ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Leak</i> (verb) = rò rỉ. <b>Grammar</b>: cũng là danh từ <i>a leak</i>.",
+   "example": {
+    "en": "This pipe’s <b>leaking</b>.",
+    "vi": "Ống này đang <b>rò rỉ</b>."
+   }
+  },
+  {
+   "word": "smash",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/smæʃ/",
+   "def_en": "To break into pieces with force.",
+   "def_vi": "Làm vỡ tan bằng lực.",
+   "gloss_vi": "đập vỡ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Smash</i> (verb) = đập vỡ. <b>Grammar</b>: <i>smash sth</i>.",
+   "example": {
+    "en": "He kicked the football too hard and it <b>smashed</b> a window.",
+    "vi": "Cậu ấy đá bóng quá mạnh và nó <b>làm vỡ</b> cửa sổ."
+   }
+  },
+  {
+   "word": "cracked",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/krækt/",
+   "def_en": "Having a line where it is broken but not in pieces.",
+   "def_vi": "Có vết nứt nhưng chưa vỡ.",
+   "gloss_vi": "bị nứt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cracked</i> (adjective) = bị nứt. <b>Grammar</b>: <i>crack</i> (n./v.).",
+   "example": {
+    "en": "This pot is <b>cracked</b>.",
+    "vi": "Cái nồi này <b>bị nứt</b>."
+   }
+  },
+  {
+   "word": "dead",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ded/",
+   "def_en": "(Of batteries) having no power left.",
+   "def_vi": "(Pin) hết điện.",
+   "gloss_vi": "(pin) hết",
+   "synonyms": "flat <i>(adj. hết pin)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dead</i> (adjective) = (pin) hết. <b>Grammar</b>: <i>run out / be dead</i>.",
+   "example": {
+    "en": "The batteries in this torch <b>are dead</b>.",
+    "vi": "Pin đèn pin này <b>hết</b> rồi."
+   }
+  },
+  {
+   "word": "chipped",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/tʃɪpt/",
+   "def_en": "With a small piece broken off the edge.",
+   "def_vi": "Bị sứt một mảnh nhỏ ở mép.",
+   "gloss_vi": "bị mẻ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chipped</i> (adjective) = bị mẻ. <b>Grammar</b>: <i>chip</i> (n./v.).",
+   "example": {
+    "en": "I’m sorry, your cup’s <b>chipped</b>. Let me get you another one.",
+    "vi": "Xin lỗi, cốc của bạn <b>bị mẻ</b>. Để tôi lấy cái khác."
+   }
+  },
+  {
+   "word": "power cut",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈpaʊə kʌt/",
+   "def_en": "A period when the electricity supply stops.",
+   "def_vi": "Thời gian mất điện.",
+   "gloss_vi": "sự cúp điện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Power cut</i> (noun phrase) = sự cúp điện. <b>Grammar</b>: Mỹ <i>power outage</i>.",
+   "example": {
+    "en": "The lights aren’t working – there’s been a <b>power cut</b>.",
+    "vi": "Đèn không sáng – đã <b>mất điện</b>."
+   }
+  },
+  {
+   "word": "come off",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌkʌm ˈɒf/",
+   "def_en": "To become separated from something.",
+   "def_vi": "Bị tách ra khỏi thứ gì.",
+   "gloss_vi": "bị rời ra",
+   "synonyms": "fall off <i>(pv. rơi ra)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Come off</i> (phrasal verb) = bị rời ra. <b>Grammar</b>: nội động từ.",
+   "example": {
+    "en": "The door handle’s <b>come off</b>.",
+    "vi": "Tay nắm cửa <b>bị rời ra</b>."
+   }
+  },
+  {
+   "word": "get crushed",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡet ˈkrʌʃt/",
+   "def_en": "To be pressed so hard it is damaged.",
+   "def_vi": "Bị ép mạnh đến hỏng.",
+   "gloss_vi": "bị đè bẹp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get crushed</i> (verb phrase) = bị đè bẹp. <b>Grammar</b>: <i>crush</i> (v.).",
+   "example": {
+    "en": "The biscuits <b>got crushed</b> by the potatoes!",
+    "vi": "Bánh quy <b>bị</b> khoai tây <b>đè bẹp</b>."
+   }
+  },
+  {
+   "word": "twist",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/twɪst/",
+   "def_en": "To injure a joint by turning it suddenly.",
+   "def_vi": "Làm đau khớp vì vặn đột ngột.",
+   "gloss_vi": "bị trẹo",
+   "synonyms": "sprain <i>(v. bong gân)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Twist</i> (verb) = bị trẹo. <b>Grammar</b>: <i>twist your ankle/knee</i>.",
+   "example": {
+    "en": "She <b>twisted</b> her ankle coming down the stairs.",
+    "vi": "Cô ấy <b>bị trẹo</b> mắt cá khi xuống cầu thang."
+   }
+  },
+  {
+   "word": "bump",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/bʌmp/",
+   "def_en": "To hit part of your body against something.",
+   "def_vi": "Va một phần cơ thể vào vật gì.",
+   "gloss_vi": "va, đụng",
+   "synonyms": "bang <i>(v. đập)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bump</i> (verb) = va, đụng. <b>Grammar</b>: <i>bump into sb</i> = tình cờ gặp.",
+   "example": {
+    "en": "I <b>bumped</b> my head against the cupboard door.",
+    "vi": "Tôi <b>va</b> đầu vào cửa tủ."
+   }
+  },
+  {
+   "word": "bruise",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bruːz/",
+   "def_en": "A dark area on your skin where you have hurt yourself.",
+   "def_vi": "Vùng da sẫm nơi bị thương.",
+   "gloss_vi": "vết bầm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bruise</i> (noun) = vết bầm. <b>Grammar</b>: cũng là động từ. <b>Common mistakes</b>: /bruːz/.",
+   "example": {
+    "en": "I bumped my head against the cupboard door and got a <b>bruise</b>.",
+    "vi": "Tôi va đầu vào cửa tủ và bị <b>bầm</b>."
+   }
+  },
+  {
+   "word": "trip",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/trɪp/",
+   "def_en": "To almost fall because you hit your foot against something.",
+   "def_vi": "Suýt ngã vì chân vấp vào vật gì.",
+   "gloss_vi": "vấp",
+   "synonyms": "stumble <i>(v. vấp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trip</i> (verb) = vấp. <b>Grammar</b>: <i>trip over sth</i>; <i>trip – tripped</i>.",
+   "example": {
+    "en": "Kelly <b>tripped</b> and fell down.",
+    "vi": "Kelly <b>vấp</b> và ngã."
+   }
+  },
+  {
+   "word": "graze",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɡreɪz/",
+   "def_en": "To make skin red with broken skin but no blood.",
+   "def_vi": "Làm da đỏ, trầy nhưng không chảy máu.",
+   "gloss_vi": "làm trầy xước",
+   "synonyms": "scrape <i>(v. cào xước)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Graze</i> (verb) = làm trầy xước. <b>Grammar</b>: cũng là danh từ <i>a graze</i>.",
+   "example": {
+    "en": "Kelly tripped and fell down and <b>grazed</b> her knee this morning.",
+    "vi": "Kelly vấp ngã và <b>trầy</b> đầu gối."
+   }
+  },
+  {
+   "word": "spill",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/spɪl/",
+   "def_en": "To let liquid fall out of a container by accident.",
+   "def_vi": "Vô tình làm chất lỏng đổ ra.",
+   "gloss_vi": "làm đổ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spill</i> (verb) = làm đổ. <b>Grammar</b>: <i>spill – spilt/spilled</i>.",
+   "example": {
+    "en": "She <b>spilt</b> some coffee on the carpet.",
+    "vi": "Cô ấy <b>làm đổ</b> ít cà phê ra thảm."
+   }
+  },
+  {
+   "word": "stain",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/steɪn/",
+   "def_en": "A permanent mark.",
+   "def_vi": "Vết bẩn khó tẩy.",
+   "gloss_vi": "vết bẩn",
+   "synonyms": "mark <i>(n. vết)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stain</i> (noun) = vết bẩn. <b>Grammar</b>: cũng là động từ.",
+   "example": {
+    "en": "I hope it doesn’t leave a <b>stain</b>.",
+    "vi": "Hy vọng nó không để lại <b>vết bẩn</b>."
+   }
+  },
+  {
+   "word": "blocked",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/blɒkt/",
+   "def_en": "(Of a pipe or sink) so that water will not run away.",
+   "def_vi": "(Ống, bồn) nước không thoát được.",
+   "gloss_vi": "bị tắc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Blocked</i> (adjective) = bị tắc. <b>Grammar</b>: <i>block</i> (v.).",
+   "example": {
+    "en": "The sink is <b>blocked</b>.",
+    "vi": "Bồn rửa <b>bị tắc</b>."
+   }
+  },
+  {
+   "word": "dent",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dent/",
+   "def_en": "To bend metal a little by hitting something.",
+   "def_vi": "Làm kim loại hơi móp vì va chạm.",
+   "gloss_vi": "làm móp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dent</i> (verb) = làm móp. <b>Grammar</b>: cũng là danh từ <i>a dent</i>.",
+   "example": {
+    "en": "I’m afraid I’ve <b>dented</b> your car.",
+    "vi": "E là tôi đã <b>làm móp</b> xe của bạn."
+   }
+  },
+  {
+   "word": "lock yourself out",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌlɒk jɔːself ˈaʊt/",
+   "def_en": "To be unable to get into your house because you left the keys inside.",
+   "def_vi": "Không vào được nhà vì để quên chìa bên trong.",
+   "gloss_vi": "tự khóa mình bên ngoài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lock yourself out</i> (verb phrase) = tự khóa mình bên ngoài. <b>Grammar</b>: <i>lock myself/herself out</i>.",
+   "example": {
+    "en": "I’ve <b>locked myself out</b>. Can I use your phone to ring my wife?",
+    "vi": "Tôi <b>bị khóa ngoài</b> rồi. Cho tôi dùng điện thoại gọi vợ được không?"
+   }
+  },
+  {
+   "word": "won’t start",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌwəʊnt ˈstɑːt/",
+   "def_en": "(Of a car) refuses to begin working.",
+   "def_vi": "(Xe) không nổ máy.",
+   "gloss_vi": "không nổ máy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Won’t start</i> (verb phrase) = không nổ máy. <b>Grammar</b>: <i>won’t</i> = từ chối / không chịu.",
+   "example": {
+    "en": "The car <b>won’t start</b>.",
+    "vi": "Xe <b>không nổ máy</b>."
+   }
+  },
+  {
+   "word": "flat",
+   "sense": "battery",
+   "pos": "adjective",
+   "ipa": "/flæt/",
+   "def_en": "(Of a battery) with no power left.",
+   "def_vi": "(Ắc quy) hết điện.",
+   "gloss_vi": "(ắc quy) hết điện",
+   "synonyms": "dead <i>(adj. hết)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flat</i> (adjective) = (ắc quy) hết điện. <b>Grammar</b>: Anh–Anh. <b>Common mistakes</b>: cũng = phẳng; căn hộ.",
+   "example": {
+    "en": "Perhaps the battery’s <b>flat</b>.",
+    "vi": "Có lẽ ắc quy <b>hết điện</b>."
+   }
+  },
+  {
+   "word": "slow",
+   "sense": "clock",
+   "pos": "adjective",
+   "ipa": "/sləʊ/",
+   "def_en": "(Of a clock) showing a time earlier than the real time.",
+   "def_vi": "(Đồng hồ) chạy chậm hơn giờ thật.",
+   "gloss_vi": "(đồng hồ) chậm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "fast <i>(adj. nhanh)</i>",
+   "grammar_vi": "<i>Slow</i> (adjective) = (đồng hồ) chậm. <b>Grammar</b>: <i>the clock is slow/fast</i>.",
+   "example": {
+    "en": "The kitchen clock’s <b>slow</b>.",
+    "vi": "Đồng hồ bếp <b>chạy chậm</b>."
+   }
+  }
+ ]
+}

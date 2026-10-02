@@ -1,0 +1,450 @@
+{
+ "book": "upp",
+ "unit": 11,
+ "title_vi": "Ở nhà",
+ "theory_html": "<p><b>A. Types of houses</b><br><i>A. Các loại nhà</i></p> <p><b>detached house</b> (not joined), <b>semi-detached / semi</b> (joined to one other), <b>terraced house</b> (a row), <b>bungalow</b> (one storey), <b>self-contained flat, cottage, studio flat, villa</b>.</p><p><i><b>nhà biệt lập, nhà song lập, nhà liền dãy, nhà một tầng, căn hộ khép kín, nhà tranh, căn hộ studio, biệt thự</b>.</i></p> <p><b>B. Places in the home</b><br><i>B. Các khu vực trong nhà</i></p> <p><b>master/main bedroom, utility room, shed, attic/loft (loft conversion), cellar, basement, studio, landing, hall/hallway, porch, terrace/patio, drive</b>.</p><p><i><b>phòng ngủ chính, phòng giặt, nhà kho, gác mái, hầm chứa, tầng hầm, xưởng vẽ, chiếu nghỉ, sảnh, mái hiên, sân lát, lối xe vào</b>.</i></p> <p><b>C. Everyday objects in the home</b><br><i>C. Đồ dùng hằng ngày</i></p> <p><b>remote (control), phone charger, table mat, corkscrew, toilet roll, (coat) hanger, peeler, chopping board, dustpan and brush, grater, ironing board</b>. <b>do housework / the ironing / the hoovering / the washing-up</b> (NOT <b>make</b>).</p><p><i><b>điều khiển, sạc điện thoại, lót bàn, cái mở nút chai, giấy vệ sinh, móc áo, dao gọt, thớt, đồ hốt rác, cái nạo, bàn là đồ</b>.</i></p>",
+ "items": [
+  {
+   "word": "detached house",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/dɪˌtætʃt ˈhaʊs/",
+   "def_en": "A house not joined to any other house.",
+   "def_vi": "Nhà không nối với nhà nào.",
+   "gloss_vi": "nhà biệt lập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Detached house</i> (noun phrase) = nhà biệt lập. <b>Grammar</b>: <i>detach</i> = tách rời.",
+   "ex_kit": true,
+   "example": {
+    "en": "They live in a big <b>detached house</b> with a garden.",
+    "vi": "Họ sống trong một <b>ngôi nhà biệt lập</b> lớn có vườn."
+   }
+  },
+  {
+   "word": "semi-detached house",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌsemi dɪˌtætʃt ˈhaʊs/",
+   "def_en": "A house joined to one other house.",
+   "def_vi": "Nhà nối với một nhà khác.",
+   "gloss_vi": "nhà song lập",
+   "synonyms": "semi <i>(n. nhà song lập)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Semi-detached house</i> (noun phrase) = nhà song lập. <b>Grammar</b>: thân mật <i>a semi</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We live in a <b>semi-detached house</b> in the suburbs.",
+    "vi": "Chúng tôi sống trong <b>nhà song lập</b> ở ngoại ô."
+   }
+  },
+  {
+   "word": "terraced house",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌterəst ˈhaʊs/",
+   "def_en": "A house joined to several houses to form a row.",
+   "def_vi": "Nhà nối với nhiều nhà thành dãy.",
+   "gloss_vi": "nhà liền dãy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Terraced house</i> (noun phrase) = nhà liền dãy. <b>Grammar</b>: Mỹ <i>row house</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The street is full of Victorian <b>terraced houses</b>.",
+    "vi": "Phố này toàn <b>nhà liền dãy</b> thời Victoria."
+   }
+  },
+  {
+   "word": "bungalow",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbʌŋɡələʊ/",
+   "def_en": "A house with only one storey.",
+   "def_vi": "Nhà chỉ có một tầng.",
+   "gloss_vi": "nhà một tầng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bungalow</i> (noun) = nhà một tầng. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "My grandparents moved to a <b>bungalow</b> because they couldn’t manage the stairs.",
+    "vi": "Ông bà tôi chuyển đến <b>nhà một tầng</b> vì không leo cầu thang được nữa."
+   }
+  },
+  {
+   "word": "self-contained flat",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌself kənˌteɪnd ˈflæt/",
+   "def_en": "A flat that does not share facilities with any other.",
+   "def_vi": "Căn hộ không dùng chung tiện ích với ai.",
+   "gloss_vi": "căn hộ khép kín",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Self-contained flat</i> (noun phrase) = căn hộ khép kín. <b>Grammar</b>: <i>self-contained</i> = khép kín.",
+   "ex_kit": true,
+   "example": {
+    "en": "Upstairs there’s a <b>self-contained flat</b> with its own kitchen.",
+    "vi": "Tầng trên là một <b>căn hộ khép kín</b> có bếp riêng."
+   }
+  },
+  {
+   "word": "studio flat",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈstjuːdiəʊ flæt/",
+   "def_en": "A small apartment usually with one large room for sleeping and living in.",
+   "def_vi": "Căn hộ nhỏ, thường một phòng lớn để ngủ và sinh hoạt.",
+   "gloss_vi": "căn hộ studio",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Studio flat</i> (noun phrase) = căn hộ studio. <b>Grammar</b>: Mỹ <i>studio apartment</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She rents a <b>studio flat</b> in the city centre.",
+    "vi": "Cô ấy thuê một <b>căn hộ studio</b> ở trung tâm."
+   }
+  },
+  {
+   "word": "villa",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈvɪlə/",
+   "def_en": "A large house with big gardens, or a rented house in a holiday resort.",
+   "def_vi": "Nhà lớn có vườn rộng, hay nhà thuê ở khu nghỉ dưỡng.",
+   "gloss_vi": "biệt thự",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Villa</i> (noun) = biệt thự. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "We rented a <b>villa</b> in Spain for the holidays.",
+    "vi": "Chúng tôi thuê một <b>biệt thự</b> ở Tây Ban Nha trong kỳ nghỉ."
+   }
+  },
+  {
+   "word": "master bedroom",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌmɑːstə ˈbedruːm/",
+   "def_en": "The largest, most important bedroom.",
+   "def_vi": "Phòng ngủ lớn nhất, chính.",
+   "gloss_vi": "phòng ngủ chính",
+   "synonyms": "main bedroom <i>(np. phòng ngủ chính)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Master bedroom</i> (noun phrase) = phòng ngủ chính. <b>Grammar</b>: cũng <i>main bedroom</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>master bedroom</b> has its own bathroom.",
+    "vi": "<b>Phòng ngủ chính</b> có phòng tắm riêng."
+   }
+  },
+  {
+   "word": "shed",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ʃed/",
+   "def_en": "A small building separated from the house, usually for storing garden tools.",
+   "def_vi": "Nhà nhỏ tách rời, thường cất dụng cụ làm vườn.",
+   "gloss_vi": "nhà kho nhỏ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shed</i> (noun) = nhà kho nhỏ. <b>Grammar</b>: <i>garden shed</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The lawnmower is in the <b>shed</b>.",
+    "vi": "Máy cắt cỏ ở trong <b>nhà kho</b>."
+   }
+  },
+  {
+   "word": "attic",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈætɪk/",
+   "def_en": "A space in the roof of a house used for storing things.",
+   "def_vi": "Khoảng trong mái nhà để cất đồ.",
+   "gloss_vi": "gác mái",
+   "synonyms": "loft <i>(n. gác xép)</i>",
+   "antonyms": "cellar <i>(n. hầm)</i>",
+   "grammar_vi": "<i>Attic</i> (noun) = gác mái. <b>Grammar</b>: <i>attic/loft conversion</i> = cải tạo gác mái.",
+   "ex_kit": true,
+   "example": {
+    "en": "We keep the Christmas decorations in the <b>attic</b>.",
+    "vi": "Chúng tôi cất đồ Giáng sinh trên <b>gác mái</b>."
+   }
+  },
+  {
+   "word": "cellar",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈselə(r)/",
+   "def_en": "A room below ground level with no windows, used for storing things.",
+   "def_vi": "Phòng dưới mặt đất không cửa sổ, để cất đồ.",
+   "gloss_vi": "hầm chứa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "attic <i>(n. gác mái)</i>",
+   "grammar_vi": "<i>Cellar</i> (noun) = hầm chứa. <b>Grammar</b>: ≠ <i>basement</i> (có cửa sổ, để ở/làm việc).",
+   "ex_kit": true,
+   "example": {
+    "en": "My father keeps his wine in the <b>cellar</b>.",
+    "vi": "Bố tôi để rượu dưới <b>hầm</b>."
+   }
+  },
+  {
+   "word": "basement",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbeɪsmənt/",
+   "def_en": "A room below ground level with windows, for living or working.",
+   "def_vi": "Phòng dưới mặt đất có cửa sổ, để ở hay làm việc.",
+   "gloss_vi": "tầng hầm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Basement</i> (noun) = tầng hầm. <b>Grammar</b>: ≠ <i>cellar</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "They turned the <b>basement</b> into an office.",
+    "vi": "Họ biến <b>tầng hầm</b> thành phòng làm việc."
+   }
+  },
+  {
+   "word": "landing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlændɪŋ/",
+   "def_en": "A flat area at the top of a staircase.",
+   "def_vi": "Khoảng phẳng đầu cầu thang.",
+   "gloss_vi": "chiếu nghỉ cầu thang",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Landing</i> (noun) = chiếu nghỉ cầu thang. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The bathroom is just off the <b>landing</b>.",
+    "vi": "Phòng tắm ở ngay cạnh <b>chiếu nghỉ</b>."
+   }
+  },
+  {
+   "word": "porch",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pɔːtʃ/",
+   "def_en": "A covered area before an entrance door.",
+   "def_vi": "Khu có mái trước cửa vào.",
+   "gloss_vi": "mái hiên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Porch</i> (noun) = mái hiên. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "Leave your wet boots in the <b>porch</b>.",
+    "vi": "Để giày ướt ngoài <b>hiên</b>."
+   }
+  },
+  {
+   "word": "patio",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpætiəʊ/",
+   "def_en": "A paved area between house and garden for sitting and eating.",
+   "def_vi": "Khu lát gạch giữa nhà và vườn để ngồi, ăn.",
+   "gloss_vi": "sân lát gạch",
+   "synonyms": "terrace <i>(n. sân hiên)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Patio</i> (noun) = sân lát gạch. <b>Grammar</b>: số nhiều <i>patios</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We have dinner on the <b>patio</b> when it’s sunny.",
+    "vi": "Chúng tôi ăn tối ngoài <b>sân</b> khi trời đẹp."
+   }
+  },
+  {
+   "word": "drive",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/draɪv/",
+   "def_en": "A short road leading from the street to a house or garage.",
+   "def_vi": "Đường ngắn từ phố vào nhà hay ga-ra.",
+   "gloss_vi": "lối xe vào",
+   "synonyms": "driveway <i>(n. lối xe vào)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Drive</i> (noun) = lối xe vào. <b>Grammar</b>: cũng <i>driveway</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "You can park on the <b>drive</b>.",
+    "vi": "Bạn có thể đỗ xe trên <b>lối vào nhà</b>."
+   }
+  },
+  {
+   "word": "remote control",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/rɪˌməʊt kənˈtrəʊl/",
+   "def_en": "A device for controlling a TV from a distance.",
+   "def_vi": "Thiết bị điều khiển TV từ xa.",
+   "gloss_vi": "điều khiển từ xa",
+   "synonyms": "remote <i>(n. điều khiển)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Remote control</i> (noun phrase) = điều khiển từ xa. <b>Grammar</b>: thân mật <i>the remote</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>remote control</b> has disappeared again.",
+    "vi": "<b>Điều khiển từ xa</b> lại biến mất rồi."
+   }
+  },
+  {
+   "word": "phone charger",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈfəʊn ˌtʃɑːdʒə(r)/",
+   "def_en": "A device for putting electricity into a phone battery.",
+   "def_vi": "Thiết bị nạp điện cho pin điện thoại.",
+   "gloss_vi": "sạc điện thoại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Phone charger</i> (noun phrase) = sạc điện thoại. <b>Grammar</b>: <i>charge</i> (v.) = sạc.",
+   "ex_kit": true,
+   "example": {
+    "en": "Have you got a <b>phone charger</b>? My battery’s dead.",
+    "vi": "Bạn có <b>sạc điện thoại</b> không? Pin tôi hết rồi."
+   }
+  },
+  {
+   "word": "corkscrew",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɔːkskruː/",
+   "def_en": "A tool for taking corks out of bottles.",
+   "def_vi": "Dụng cụ rút nút bần khỏi chai.",
+   "gloss_vi": "cái mở nút chai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Corkscrew</i> (noun) = cái mở nút chai. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "I can’t open the wine – where’s the <b>corkscrew</b>?",
+    "vi": "Tôi không mở được chai rượu – <b>cái mở nút chai</b> đâu rồi?"
+   }
+  },
+  {
+   "word": "toilet roll",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈtɔɪlət rəʊl/",
+   "def_en": "A roll of paper for use in the toilet.",
+   "def_vi": "Cuộn giấy dùng trong nhà vệ sinh.",
+   "gloss_vi": "cuộn giấy vệ sinh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Toilet roll</i> (noun phrase) = cuộn giấy vệ sinh. <b>Grammar</b>: đếm được và không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "We’ve run out of <b>toilet roll</b>.",
+    "vi": "Chúng ta hết <b>giấy vệ sinh</b> rồi."
+   }
+  },
+  {
+   "word": "hanger",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhæŋə(r)/",
+   "def_en": "A curved piece of wood, plastic or metal for hanging clothes.",
+   "def_vi": "Thanh cong để treo quần áo.",
+   "gloss_vi": "móc treo quần áo",
+   "synonyms": "coat hanger <i>(np. móc áo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hanger</i> (noun) = móc treo quần áo. <b>Grammar</b>: <i>coat hanger</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Put your coat on a <b>hanger</b>.",
+    "vi": "Treo áo khoác lên <b>móc</b>."
+   }
+  },
+  {
+   "word": "peeler",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpiːlə(r)/",
+   "def_en": "A tool for removing the skin of fruit and vegetables.",
+   "def_vi": "Dụng cụ gọt vỏ rau quả.",
+   "gloss_vi": "dao gọt vỏ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Peeler</i> (noun) = dao gọt vỏ. <b>Grammar</b>: <i>peel</i> (v.) + <i>-er</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Use a <b>peeler</b> for the potatoes.",
+    "vi": "Dùng <b>dao gọt vỏ</b> cho khoai tây."
+   }
+  },
+  {
+   "word": "chopping board",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈtʃɒpɪŋ bɔːd/",
+   "def_en": "A board for cutting food on.",
+   "def_vi": "Tấm để thái thức ăn.",
+   "gloss_vi": "cái thớt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chopping board</i> (noun phrase) = cái thớt. <b>Grammar</b>: Mỹ <i>cutting board</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Chop the onions on the <b>chopping board</b>.",
+    "vi": "Thái hành trên <b>thớt</b>."
+   }
+  },
+  {
+   "word": "dustpan and brush",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌdʌstpæn ən ˈbrʌʃ/",
+   "def_en": "Tools for picking up dirt from the floor.",
+   "def_vi": "Dụng cụ hốt rác trên sàn.",
+   "gloss_vi": "ki hốt rác và chổi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dustpan and brush</i> (noun phrase) = ki hốt rác và chổi. <b>Grammar</b>: cụm cố định.",
+   "ex_kit": true,
+   "example": {
+    "en": "Get the <b>dustpan and brush</b> to sweep up the broken glass.",
+    "vi": "Lấy <b>ki và chổi</b> để quét mảnh vỡ thủy tinh."
+   }
+  },
+  {
+   "word": "grater",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡreɪtə(r)/",
+   "def_en": "A tool for cutting food such as cheese into small pieces.",
+   "def_vi": "Dụng cụ nạo thức ăn như phô mai thành sợi nhỏ.",
+   "gloss_vi": "cái nạo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Grater</i> (noun) = cái nạo. <b>Grammar</b>: <i>grate</i> (v.).",
+   "ex_kit": true,
+   "example": {
+    "en": "Grate the cheese with a <b>grater</b>.",
+    "vi": "Nạo phô mai bằng <b>cái nạo</b>."
+   }
+  },
+  {
+   "word": "ironing board",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈaɪənɪŋ bɔːd/",
+   "def_en": "A narrow table for ironing clothes on.",
+   "def_vi": "Bàn hẹp để là quần áo.",
+   "gloss_vi": "bàn để là quần áo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ironing board</i> (noun phrase) = bàn để là quần áo. <b>Grammar</b>: <i>iron</i> /ˈaɪən/.",
+   "ex_kit": true,
+   "example": {
+    "en": "Put up the <b>ironing board</b>, please.",
+    "vi": "Dựng <b>bàn là đồ</b> lên đi."
+   }
+  }
+ ]
+}

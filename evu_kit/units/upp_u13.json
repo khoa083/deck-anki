@@ -1,0 +1,394 @@
+{
+ "book": "upp",
+ "unit": 13,
+ "title_vi": "Các vấn đề toàn cầu",
+ "theory_html": "<p><b>A. Disasters/tragedies</b><br><i>A. Thảm họa</i></p> <p><b>earthquake, flood, drought, volcano, famine, landslide, epidemic, explosion, major accident/incident, hurricane/tornado, typhoon/tropical storm, war/civil war; natural disasters</b>. Verbs: <b>erupted, are feared dead, spread, starving, shook, suffering, broken out, swept</b>.</p><p><i><b>động đất, lũ, hạn hán, núi lửa, nạn đói, sạt lở, dịch bệnh, vụ nổ, bão, nội chiến, thiên tai; phun trào, lan rộng, chết đói, rung chuyển, bùng nổ, quét qua</b>.</i></p> <p><b>B. People involved in disasters</b><br><i>B. Người liên quan</i></p> <p><b>casualties, victims, survivors, refugees, migrants, the dead and wounded</b>. <b>injure</b> people / <b>damage</b> things.</p><p><i><b>thương vong, nạn nhân, người sống sót, người tị nạn, người di cư, người bị thương</b>.</i></p> <p><b>C. Diseases/epidemics</b><br><i>C. Bệnh tật / dịch bệnh</i></p> <p><b>cholera, typhoid, rabies, AIDS, malaria</b>.</p><p><i><b>tả, thương hàn, dại, AIDS, sốt rét</b>.</i></p>",
+ "items": [
+  {
+   "word": "volcano",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/vɒlˈkeɪnəʊ/",
+   "def_en": "A mountain from which hot liquid rock and gases pour.",
+   "def_vi": "Núi phun dung nham và khí nóng.",
+   "gloss_vi": "núi lửa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Volcano</i> (noun) = núi lửa. <b>Grammar</b>: số nhiều <i>volcanoes</i>.",
+   "example": {
+    "en": "A <b>volcano</b> has erupted in Indonesia.",
+    "vi": "Một ngọn <b>núi lửa</b> đã phun trào ở Indonesia."
+   }
+  },
+  {
+   "word": "famine",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfæmɪn/",
+   "def_en": "A situation when there is no food.",
+   "def_vi": "Tình trạng không có thức ăn.",
+   "gloss_vi": "nạn đói",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Famine</i> (noun) = nạn đói. <b>Grammar</b>: đếm được và không đếm được.",
+   "example": {
+    "en": "Millions are starving as a result of the <b>famine</b>.",
+    "vi": "Hàng triệu người chết đói vì <b>nạn đói</b>."
+   }
+  },
+  {
+   "word": "landslide",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlændslaɪd/",
+   "def_en": "Rocks and earth moving suddenly down a slope.",
+   "def_vi": "Đất đá trượt đột ngột xuống dốc.",
+   "gloss_vi": "sạt lở đất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Landslide</i> (noun) = sạt lở đất. <b>Grammar</b>: cũng = chiến thắng áp đảo (bầu cử).",
+   "ex_kit": true,
+   "example": {
+    "en": "The heavy rain caused a <b>landslide</b>.",
+    "vi": "Mưa lớn gây ra <b>sạt lở đất</b>."
+   }
+  },
+  {
+   "word": "epidemic",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌepɪˈdemɪk/",
+   "def_en": "A disease affecting large numbers of people.",
+   "def_vi": "Bệnh ảnh hưởng nhiều người.",
+   "gloss_vi": "dịch bệnh",
+   "synonyms": "outbreak <i>(n. đợt bùng phát)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Epidemic</i> (noun) = dịch bệnh. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "The flu <b>epidemic</b> spread rapidly throughout the country.",
+    "vi": "<b>Dịch</b> cúm lan nhanh khắp cả nước."
+   }
+  },
+  {
+   "word": "tornado",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tɔːˈneɪdəʊ/",
+   "def_en": "A violent wind that moves in a circle.",
+   "def_vi": "Gió dữ dội xoáy tròn.",
+   "gloss_vi": "lốc xoáy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tornado</i> (noun) = lốc xoáy. <b>Grammar</b>: số nhiều <i>tornadoes</i>.",
+   "example": {
+    "en": "A <b>tornado</b> swept through the islands yesterday.",
+    "vi": "Một cơn <b>lốc xoáy</b> quét qua các hòn đảo hôm qua."
+   }
+  },
+  {
+   "word": "typhoon",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/taɪˈfuːn/",
+   "def_en": "A violent tropical storm.",
+   "def_vi": "Cơn bão nhiệt đới dữ dội.",
+   "gloss_vi": "bão nhiệt đới",
+   "synonyms": "tropical storm <i>(np. bão nhiệt đới)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Typhoon</i> (noun) = bão nhiệt đới. <b>Grammar</b>: dùng ở châu Á – Thái Bình Dương.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>typhoon</b> hit the coast of the Philippines.",
+    "vi": "<b>Bão</b> đổ bộ vào bờ biển Philippines."
+   }
+  },
+  {
+   "word": "civil war",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌsɪvl ˈwɔː(r)/",
+   "def_en": "A war between people of the same country.",
+   "def_vi": "Chiến tranh giữa người cùng một nước.",
+   "gloss_vi": "nội chiến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Civil war</i> (noun phrase) = nội chiến. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "<b>Civil war</b> has broken out in the north of the country.",
+    "vi": "<b>Nội chiến</b> đã bùng nổ ở miền bắc đất nước."
+   }
+  },
+  {
+   "word": "natural disaster",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌnætʃrəl dɪˈzɑːstə(r)/",
+   "def_en": "A disaster not caused by human beings.",
+   "def_vi": "Thảm họa không do con người gây ra.",
+   "gloss_vi": "thiên tai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Natural disaster</i> (noun phrase) = thiên tai. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Disasters not caused by human beings can be called <b>natural disasters</b>.",
+    "vi": "Thảm họa không do con người gây ra gọi là <b>thiên tai</b>."
+   }
+  },
+  {
+   "word": "erupt",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪˈrʌpt/",
+   "def_en": "(Of a volcano) to send out hot rock and gases.",
+   "def_vi": "(Núi lửa) phun dung nham và khí.",
+   "gloss_vi": "phun trào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Erupt</i> (verb) = phun trào. <b>Grammar</b>: <i>eruption</i> (n.).",
+   "example": {
+    "en": "A volcano has <b>erupted</b> in Indonesia.",
+    "vi": "Một ngọn núi lửa đã <b>phun trào</b> ở Indonesia."
+   }
+  },
+  {
+   "word": "be feared dead",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/bi ˌfɪəd ˈded/",
+   "def_en": "To be believed to have died.",
+   "def_vi": "Được cho là đã chết.",
+   "gloss_vi": "e là đã thiệt mạng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be feared dead</i> (verb phrase) = e là đã thiệt mạng. <b>Grammar</b>: văn phong báo chí.",
+   "example": {
+    "en": "Hundreds <b>are feared dead</b>.",
+    "vi": "Hàng trăm người <b>e là đã thiệt mạng</b>."
+   }
+  },
+  {
+   "word": "spread",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/spred/",
+   "def_en": "To affect more people or a larger area.",
+   "def_vi": "Ảnh hưởng nhiều người hay vùng rộng hơn.",
+   "gloss_vi": "lan rộng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spread</i> (verb) = lan rộng. <b>Grammar</b>: <i>spread – spread – spread</i>.",
+   "example": {
+    "en": "The flu epidemic <b>spread</b> rapidly throughout the country.",
+    "vi": "Dịch cúm <b>lan</b> nhanh khắp cả nước."
+   }
+  },
+  {
+   "word": "starve",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/stɑːv/",
+   "def_en": "To suffer or die because of no food.",
+   "def_vi": "Chịu đói hay chết vì không có thức ăn.",
+   "gloss_vi": "chết đói",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Starve</i> (verb) = chết đói. <b>Grammar</b>: <i>starvation</i> (n.). <b>Common mistakes</b>: <i>I’m starving</i> = rất đói (thân mật).",
+   "example": {
+    "en": "Millions are <b>starving</b> as a result of the famine.",
+    "vi": "Hàng triệu người đang <b>chết đói</b> vì nạn đói."
+   }
+  },
+  {
+   "word": "shake",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ʃeɪk/",
+   "def_en": "To move up and down or from side to side quickly.",
+   "def_vi": "Rung lên xuống hay qua lại nhanh.",
+   "gloss_vi": "làm rung chuyển",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shake</i> (verb) = làm rung chuyển. <b>Grammar</b>: <i>shake – shook – shaken</i>.",
+   "example": {
+    "en": "A big earthquake <b>shook</b> the city at noon today.",
+    "vi": "Một trận động đất lớn <b>làm rung chuyển</b> thành phố."
+   }
+  },
+  {
+   "word": "break out",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌbreɪk ˈaʊt/",
+   "def_en": "(Of war, fire, disease) to start suddenly.",
+   "def_vi": "(Chiến tranh, cháy, dịch) bắt đầu đột ngột.",
+   "gloss_vi": "bùng nổ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Break out</i> (phrasal verb) = bùng nổ. <b>Grammar</b>: danh từ <i>outbreak</i>.",
+   "example": {
+    "en": "Civil war has <b>broken out</b> in the north of the country.",
+    "vi": "Nội chiến đã <b>bùng nổ</b> ở miền bắc."
+   }
+  },
+  {
+   "word": "sweep",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/swiːp/",
+   "def_en": "To move quickly and with force over an area.",
+   "def_vi": "Di chuyển nhanh và mạnh qua một vùng.",
+   "gloss_vi": "quét qua",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sweep</i> (verb) = quét qua. <b>Grammar</b>: <i>sweep – swept – swept</i>.",
+   "example": {
+    "en": "A tornado <b>swept</b> through the islands yesterday.",
+    "vi": "Một cơn lốc xoáy <b>quét qua</b> các hòn đảo hôm qua."
+   }
+  },
+  {
+   "word": "casualties",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈkæʒuəltiz/",
+   "def_en": "Dead and injured people.",
+   "def_vi": "Người chết và bị thương.",
+   "gloss_vi": "thương vong",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Casualties</i> (plural noun) = thương vong. <b>Grammar</b>: số ít <i>a casualty</i>.",
+   "example": {
+    "en": "The explosion resulted in 300 <b>casualties</b>.",
+    "vi": "Vụ nổ gây ra 300 người <b>thương vong</b>."
+   }
+  },
+  {
+   "word": "victim",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈvɪktɪm/",
+   "def_en": "A person who suffers the results of something bad.",
+   "def_vi": "Người chịu hậu quả điều xấu.",
+   "gloss_vi": "nạn nhân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Victim</i> (noun) = nạn nhân. <b>Grammar</b>: <i>the victim of sth</i>.",
+   "example": {
+    "en": "The real <b>victims</b> of civil war are children left without parents.",
+    "vi": "<b>Nạn nhân</b> thật sự của nội chiến là trẻ em mất cha mẹ."
+   }
+  },
+  {
+   "word": "survivor",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/səˈvaɪvə(r)/",
+   "def_en": "A person who lives through a disaster.",
+   "def_vi": "Người sống sót qua thảm họa.",
+   "gloss_vi": "người sống sót",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Survivor</i> (noun) = người sống sót. <b>Grammar</b>: <i>survive</i> (v.).",
+   "example": {
+    "en": "There were only three <b>survivors</b>.",
+    "vi": "Chỉ có ba <b>người sống sót</b>."
+   }
+  },
+  {
+   "word": "refugee",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌrefjuˈdʒiː/",
+   "def_en": "A person who has escaped from their country because of war or disaster.",
+   "def_vi": "Người rời khỏi nước vì chiến tranh hay thảm họa.",
+   "gloss_vi": "người tị nạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Refugee</i> (noun) = người tị nạn. <b>Grammar</b>: trọng âm âm cuối /-ˈdʒiː/.",
+   "example": {
+    "en": "Thousands of <b>refugees</b> have crossed the border looking for food and shelter.",
+    "vi": "Hàng nghìn <b>người tị nạn</b> đã vượt biên tìm thức ăn và chỗ ở."
+   }
+  },
+  {
+   "word": "migrant",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmaɪɡrənt/",
+   "def_en": "A person who travels to another country, often to find work.",
+   "def_vi": "Người đến nước khác, thường để kiếm việc.",
+   "gloss_vi": "người di cư",
+   "synonyms": "immigrant <i>(n. người nhập cư)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Migrant</i> (noun) = người di cư. <b>Grammar</b>: <i>migrate</i> (v.).",
+   "example": {
+    "en": "Millions of <b>migrants</b> enter the country each year, looking for a better life.",
+    "vi": "Hàng triệu <b>người di cư</b> vào đất nước mỗi năm để tìm cuộc sống tốt hơn."
+   }
+  },
+  {
+   "word": "wounded",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈwuːndɪd/",
+   "def_en": "Injured in a battle or by a weapon.",
+   "def_vi": "Bị thương trong trận đánh hay do vũ khí.",
+   "gloss_vi": "bị thương",
+   "synonyms": "injured <i>(adj. bị thương)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wounded</i> (adjective) = bị thương. <b>Grammar</b>: <i>the wounded</i> = người bị thương. <b>Common mistakes</b>: /ˈwuːndɪd/.",
+   "example": {
+    "en": "The dead and <b>wounded</b> were flown out in helicopters.",
+    "vi": "Người chết và <b>bị thương</b> được chở ra bằng trực thăng."
+   }
+  },
+  {
+   "word": "cholera",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɒlərə/",
+   "def_en": "A serious disease often caused by infected water.",
+   "def_vi": "Bệnh nặng thường do nước bẩn.",
+   "gloss_vi": "bệnh tả",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cholera</i> (noun) = bệnh tả. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "<b>Cholera</b> and typhoid injections not needed.",
+    "vi": "Không cần tiêm phòng <b>tả</b> và thương hàn."
+   }
+  },
+  {
+   "word": "rabies",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈreɪbiːz/",
+   "def_en": "A serious disease caused by a bite from a dog, fox, etc.",
+   "def_vi": "Bệnh nặng do chó, cáo… cắn.",
+   "gloss_vi": "bệnh dại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rabies</i> (noun) = bệnh dại. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "<b>Rabies</b> out of control in many parts of Asia.",
+    "vi": "<b>Bệnh dại</b> vượt kiểm soát ở nhiều nơi của châu Á."
+   }
+  },
+  {
+   "word": "malaria",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/məˈleəriə/",
+   "def_en": "A disease usually caught because of mosquito bites.",
+   "def_vi": "Bệnh thường do muỗi đốt.",
+   "gloss_vi": "bệnh sốt rét",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Malaria</i> (noun) = bệnh sốt rét. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "New <b>malaria</b> drug tested",
+    "vi": "Thuốc <b>sốt rét</b> mới đang được thử nghiệm."
+   }
+  }
+ ]
+}
