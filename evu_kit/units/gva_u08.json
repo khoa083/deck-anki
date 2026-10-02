@@ -1,0 +1,264 @@
+{
+ "book": "gva",
+ "unit": 8,
+ "title_vi": "So sánh",
+ "theory_html": "<p><b>2.1. Adjectives and adverbs: comparative and superlative forms</b><br><i>2.1. Dạng so sánh hơn và nhất</i></p> <p><b>-er/-est</b> for one-syllable adjectives (but <b>more/most</b> with participle adjectives and <b>fun, real, right, wrong</b>); <b>-er/-est</b> or <b>more/most</b> for two-syllable adjectives (always <b>more/most</b> with participle adjectives, <b>-ful, -less</b>, and <b>afraid, alone, cautious, famous, modern…</b>); <b>more/most</b> for three+ syllables (but <b>unhappier, unlikelier…</b> possible); <b>the + comparative…, the + comparative…</b>; <b>less / least</b> as opposite; informally <b>not as … as</b>; adverbs mostly <b>more/most</b> (but <b>harder, faster</b>).</p><p><i><b>-er/-est</b> với tính từ một âm tiết; <b>more/most</b> với tính từ phân từ, <b>-ful/-less</b>, ba âm tiết; <b>the… the…</b>; <b>less/least</b>; trạng từ thường dùng <b>more/most</b>.</i></p> <p><b>2.2. Superlatives: special cases</b><br><i>2.2. So sánh nhất: trường hợp đặc biệt</i></p> <p><b>of</b> + plural words, <b>in/on</b> + singular places/groups; <b>of</b>-phrase at the front for emphasis; <b>the</b> can be left out after a linking verb informally (<b>Which one’s cheapest?</b>).</p><p><i><b>of</b> + số nhiều, <b>in/on</b> + nơi chốn; có thể bỏ <b>the</b> sau động từ nối.</i></p> <p><b>2.3. Comparisons with as …</b><br><i>2.3. So sánh với as … as</i></p> <p><b>as … as</b> (equally); degree words <b>about, almost, just, nearly, nowhere near, not nearly</b>; <b>not as / not so</b>; <b>as much/many as, as little/few as</b> (more/less than expected); <b>as … as possible / ever / usual</b>; <b>as + adjective + a/an + noun + as</b>; <b>not as big a problem</b> / <b>not such a bad idea</b>; <b>as + clause</b>; <b>as</b> (role, function) vs <b>like</b> (similar to).</p><p><i><b>as … as</b>; <b>nowhere near as</b>; <b>as many as 12</b>; <b>as cheap a flight as possible</b>; <b>as</b> (vai trò) khác <b>like</b> (giống).</i></p> <p><b>2.4. Comparisons with so …, too …, enough</b><br><i>2.4. So sánh với so, too, enough</i></p> <p><b>so + adjective + that-clause</b> (formal <b>so … as to + infinitive</b>), <b>too + adjective + to-infinitive</b>, <b>adjective + enough + to-infinitive</b>.</p><p><i><b>so… that</b>, <b>too… to</b>, <b>… enough to</b>.</i></p>",
+ "items": [
+  {
+   "word": "more + participle adjective",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/mɔː plʌs ˈpɑːtɪsɪpl ˈædʒɪktɪv/",
+   "def_en": "Participle adjectives (-ed, -ing) use more/most, even with one syllable.",
+   "def_vi": "Tính từ phân từ dùng more/most, kể cả một âm tiết.",
+   "gloss_vi": "more + tính từ phân từ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>More + participle adjective</i> (structure) = more + tính từ phân từ. <b>Grammar</b>: cũng <i>more fun, more real, more right, more wrong</i>.",
+   "example": {
+    "en": "I want to come home <b>more relaxed</b>.",
+    "vi": "Tôi muốn về nhà <b>thoải mái hơn</b>."
+   }
+  },
+  {
+   "word": "most famous",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/məʊst ˈfeɪməs/",
+   "def_en": "Some two-syllable adjectives always take more/most (famous, modern, afraid…).",
+   "def_vi": "Vài tính từ hai âm tiết luôn dùng more/most.",
+   "gloss_vi": "nổi tiếng nhất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Most famous</i> (structure) = nổi tiếng nhất. <b>Grammar</b>: <i>afraid, alone, cautious, complex, direct, exact, frequent, modern, special, recent</i>; tính từ <i>-ful, -less</i>.",
+   "example": {
+    "en": "The Parthenon is one of the <b>most famous</b> buildings in the world.",
+    "vi": "Đền Parthenon là một trong những công trình <b>nổi tiếng nhất</b> thế giới."
+   }
+  },
+  {
+   "word": "the … the …",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ðə ... ðə/",
+   "def_en": "Two comparatives saying that as one thing changes, another also changes.",
+   "def_vi": "Hai so sánh hơn: cái này thay đổi thì cái kia cũng đổi.",
+   "gloss_vi": "càng… càng…",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The … the …</i> (structure) = càng… càng…. <b>Grammar</b>: <i>the</i> + so sánh hơn, <i>the</i> + so sánh hơn.",
+   "example": {
+    "en": "<b>The longer we leave it, the more expensive</b> it's going to be.",
+    "vi": "<b>Càng để lâu càng đắt</b>."
+   }
+  },
+  {
+   "word": "less than",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈles ðən/",
+   "def_en": "The opposite of more than, used with all adjectives.",
+   "def_vi": "Ngược với more than, dùng với mọi tính từ.",
+   "gloss_vi": "kém… hơn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "more than <i>(st. hơn)</i>",
+   "grammar_vi": "<i>Less than</i> (structure) = kém… hơn. <b>Grammar</b>: thân mật dùng <i>not as… as</i>; <i>the least expensive</i>.",
+   "example": {
+    "en": "Hotels in Corfu are quite cheap — although <b>less cheap than</b> they used to be.",
+    "vi": "Khách sạn ở Corfu khá rẻ – dù <b>ít rẻ hơn</b> trước."
+   }
+  },
+  {
+   "word": "more cheaply",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/mɔː ˈtʃiːpli/",
+   "def_en": "Most adverbs form comparatives with more and most.",
+   "def_vi": "Phần lớn trạng từ so sánh với more/most.",
+   "gloss_vi": "rẻ hơn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>More cheaply</i> (structure) = rẻ hơn. <b>Grammar</b>: ngoại lệ <i>harder, faster</i>.",
+   "example": {
+    "en": "We could live <b>more cheaply</b> in Athens.",
+    "vi": "Ta có thể sống <b>rẻ hơn</b> ở Athens."
+   }
+  },
+  {
+   "word": "superlative + of / in",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/suːˈpɜːlətɪv plʌs əv/",
+   "def_en": "After a superlative, of + plural words; in / on + singular places or groups.",
+   "def_vi": "Sau so sánh nhất: of + số nhiều, in/on + nơi chốn.",
+   "gloss_vi": "so sánh nhất + of/in",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Superlative + of / in</i> (structure) = so sánh nhất + of/in. <b>Grammar</b>: <i>the most convenient of the flights</i>; nhấn mạnh: <i>Of the flights from London, that's…</i>.",
+   "example": {
+    "en": "They're right next to the best beach <b>on the island</b>.",
+    "vi": "Họ ở ngay cạnh bãi biển đẹp nhất <b>trên đảo</b>."
+   }
+  },
+  {
+   "word": "as … as",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/əz ... əz/",
+   "def_en": "Used to say two things are equal.",
+   "def_vi": "Diễn tả hai thứ bằng nhau.",
+   "gloss_vi": "bằng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As … as</i> (structure) = bằng. <b>Grammar</b>: trước <i>as</i> đầu: <i>about, almost, just, nearly</i>; phủ định <i>not as / not so</i>.",
+   "example": {
+    "en": "Getting to Corfu is just <b>as easy as</b> getting to Athens.",
+    "vi": "Đến Corfu cũng <b>dễ như</b> đến Athens."
+   }
+  },
+  {
+   "word": "nowhere near as",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈnəʊweə nɪər əz/",
+   "def_en": "Not at all as (informal).",
+   "def_vi": "Không hề như (thân mật).",
+   "gloss_vi": "không hề… như",
+   "synonyms": "not nearly as <i>(st. không hề… như)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nowhere near as</i> (structure) = không hề… như. <b>Grammar</b>: thân mật; cũng <i>nothing like, not anything like</i>.",
+   "example": {
+    "en": "The heat is <b>nowhere near as</b> bad as people say.",
+    "vi": "Cái nóng <b>không hề tệ như</b> người ta nói."
+   }
+  },
+  {
+   "word": "as many as",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/əz ˈmeni əz/",
+   "def_en": "Used to say a number is larger than expected.",
+   "def_vi": "Diễn tả số lượng lớn hơn dự kiến.",
+   "gloss_vi": "tới, lên đến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "as few as <i>(st. chỉ)</i>",
+   "grammar_vi": "<i>As many as</i> (structure) = tới, lên đến. <b>Grammar</b>: <i>as little as 40 euros</i> = chỉ 40 euro.",
+   "example": {
+    "en": "There are <b>as many as</b> 12 flights a day to Athens from London.",
+    "vi": "Có <b>tới</b> 12 chuyến bay mỗi ngày đến Athens."
+   }
+  },
+  {
+   "word": "as … as possible",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/əz ... əz ˈpɒsəbl/",
+   "def_en": "As much as can be done.",
+   "def_vi": "Hết mức có thể.",
+   "gloss_vi": "hết mức có thể",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As … as possible</i> (structure) = hết mức có thể. <b>Grammar</b>: <i>as cheap a flight as possible</i> (a/an trước danh từ).",
+   "example": {
+    "en": "We want to see <b>as much as possible</b>.",
+    "vi": "Chúng tôi muốn xem <b>càng nhiều càng tốt</b>."
+   }
+  },
+  {
+   "word": "not such a",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/nɒt ˈsʌtʃ ə/",
+   "def_en": "Not such + a/an + adjective + noun (negative comparison).",
+   "def_vi": "not such + a/an + tính từ + danh từ.",
+   "gloss_vi": "không đến nỗi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Not such a</i> (structure) = không đến nỗi. <b>Grammar</b>: <i>not as big a problem</i> nhưng <i>not such a big problem</i>.",
+   "example": {
+    "en": "That's <b>not such a</b> bad idea.",
+    "vi": "Đó <b>không phải ý tồi đến thế</b>."
+   }
+  },
+  {
+   "word": "as (role)",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/əz/",
+   "def_en": "Used to describe the job, role or function of someone or something.",
+   "def_vi": "Mô tả nghề, vai trò, chức năng.",
+   "gloss_vi": "với tư cách, làm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As (role)</i> (preposition) = với tư cách, làm. <b>Grammar</b>: khác <i>like</i> (giống như).",
+   "example": {
+    "en": "My friend Mark used to work there <b>as</b> an English teacher.",
+    "vi": "Bạn tôi từng làm ở đó <b>làm</b> giáo viên tiếng Anh."
+   }
+  },
+  {
+   "word": "like",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/laɪk/",
+   "def_en": "Used to say one thing is similar to another.",
+   "def_vi": "Diễn tả hai thứ giống nhau.",
+   "gloss_vi": "giống như",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Like</i> (preposition) = giống như. <b>Grammar</b>: <i>as</i> + nghề/vai trò; <i>like</i> + so sánh giống.",
+   "example": {
+    "en": "I stayed in a hotel <b>like</b> that one last year",
+    "vi": "Năm ngoái tôi ở khách sạn <b>giống</b> cái đó."
+   }
+  },
+  {
+   "word": "so … that",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/səʊ ... ðæt/",
+   "def_en": "So + adjective + that-clause, saying what results.",
+   "def_vi": "so + tính từ + that, nói kết quả.",
+   "gloss_vi": "quá… đến nỗi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>So … that</i> (structure) = quá… đến nỗi. <b>Grammar</b>: trang trọng: <i>so small as to not be worth…</i>.",
+   "example": {
+    "en": "It gets <b>so hot that</b> a lot of people leave the city.",
+    "vi": "Trời <b>nóng đến nỗi</b> nhiều người rời thành phố."
+   }
+  },
+  {
+   "word": "too … to",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/tuː ... tə/",
+   "def_en": "Too + adjective + to-infinitive.",
+   "def_vi": "too + tính từ + to V.",
+   "gloss_vi": "quá… để",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Too … to</i> (structure) = quá… để. <b>Grammar</b>: <i>too + adj + (for sb) + to V</i>.",
+   "example": {
+    "en": "it'll be <b>too late</b> (for us) <b>to</b> get anywhere to stay",
+    "vi": "Nếu không quyết sớm sẽ <b>quá muộn để</b> tìm chỗ ở."
+   }
+  },
+  {
+   "word": "enough to",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ɪˈnʌf tə/",
+   "def_en": "Adjective + enough + to-infinitive.",
+   "def_vi": "tính từ + enough + to V.",
+   "gloss_vi": "đủ… để",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Enough to</i> (structure) = đủ… để. <b>Grammar</b>: <i>enough</i> đứng sau tính từ.",
+   "example": {
+    "en": "It's <b>easy enough to</b> get into the centre from there.",
+    "vi": "Từ đó vào trung tâm <b>khá dễ</b>."
+   }
+  }
+ ]
+}
