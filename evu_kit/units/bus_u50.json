@@ -1,0 +1,280 @@
+{
+ "book": "bus",
+ "unit": 50,
+ "title_vi": "Gọi điện 4: sắp xếp và kết thúc cuộc gọi",
+ "theory_html": "<p><b>A. Phoning again</b><br><i>A. Gọi lại</i></p> <p><b>Speaking; It’s … here; I tried to phone you…; It’s about…; I got your message; I was about to call you; We need to…</b></p><p><i><b>Tôi nghe đây; Tôi là…; Tôi đã cố gọi bạn…; Về việc…; Tôi đã nhận lời nhắn; Tôi vừa định gọi bạn</b>.</i></p> <p><b>B. Making arrangements</b><br><i>B. Sắp xếp lịch</i></p> <p><b>Can we fix a meeting?, I’ll get/check my diary, Shall we arrange an appointment?, Would it be useful to meet up soon?, How about…?, That’s fine, What about…?, Would … be suitable?, Would … suit you?, I can’t / won’t be able to make…, Shall we say…?</b></p><p><i><b>Ta hẹn gặp được không?; Để tôi xem lịch; Hẹn gặp nhé?; …thì sao?; Được; …có tiện không?; Tôi không đến được…; Thế… nhé?</b></i></p> <p><b>C. Closing the conversation</b><br><i>C. Kết thúc cuộc gọi</i></p> <p><b>See you on … then; I’ll look forward to seeing you then; I’m going to have to go now; Nice / Good talking to you; Talk to you soon; Thanks for calling; We’ll be (back) in touch soon; Look forward to hearing from you soon</b>.</p><p><i><b>Hẹn gặp…; Mong gặp bạn; Tôi phải đi rồi; Rất vui được nói chuyện; Cảm ơn đã gọi; Sẽ sớm liên lạc lại; Mong tin bạn</b>.</i></p> <p><b>D. Changing arrangements</b><br><i>D. Thay đổi lịch hẹn</i></p> <p><b>can’t make…, Something has come up, I’ve got to…, How about…?, Can you make…?, not going to be possible, put it off, won’t be possible, put it back, I’m completely snowed under, Can we leave it open?, I’ll get back in touch</b>.</p><p><i><b>không đến được, có việc đột xuất, tôi phải…, …được không?, sẽ không thể, hoãn lại, dời lại, tôi ngập đầu công việc, để ngỏ, sẽ liên lạc lại</b>.</i></p>",
+ "items": [
+  {
+   "word": "speaking",
+   "sense": "",
+   "pos": "excl",
+   "ipa": "/ˈspiːkɪŋ/",
+   "def_en": "Used on the phone to say you are the person the caller wants.",
+   "def_vi": "Dùng khi nghe máy, mình chính là người được hỏi.",
+   "gloss_vi": "tôi nghe đây",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Speaking</i> (excl) = tôi nghe đây. <b>Collocations / chunks</b>: câu cố định.",
+   "example": {
+    "en": "MB: Hello. Can I speak to Jane Owen, please? JO: <b>Speaking</b>.",
+    "vi": "Cho tôi nói chuyện với Jane Owen. – <b>Tôi nghe đây</b>."
+   }
+  },
+  {
+   "word": "I was about to call you",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/aɪ wəz əˌbaʊt tə ˈkɔːl juː/",
+   "def_en": "I was just going to phone you.",
+   "def_vi": "Tôi vừa định gọi bạn.",
+   "gloss_vi": "tôi vừa định gọi bạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>I was about to call you</i> (cl) = tôi vừa định gọi bạn. <b>Grammar</b>: <i>be about to</i> + V = sắp.",
+   "example": {
+    "en": "Right. I got your message. <b>I was about to call you</b>.",
+    "vi": "Tôi nhận lời nhắn rồi. <b>Tôi vừa định gọi bạn</b>."
+   }
+  },
+  {
+   "word": "fix a meeting",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌfɪks ə ˈmiːtɪŋ/",
+   "def_en": "To arrange a meeting.",
+   "def_vi": "Sắp xếp cuộc họp.",
+   "gloss_vi": "hẹn gặp",
+   "synonyms": "arrange a meeting <i>(v. sắp xếp cuộc họp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fix a meeting</i> (verb) = hẹn gặp. <b>Collocations / chunks</b>: cụm cố định.",
+   "example": {
+    "en": "Can we <b>fix a meeting</b>?",
+    "vi": "Chúng ta <b>hẹn gặp</b> được không?"
+   }
+  },
+  {
+   "word": "check my diary",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌtʃek maɪ ˈdaɪəri/",
+   "def_en": "To look at your diary to see when you are free.",
+   "def_vi": "Xem lịch để biết lúc rảnh.",
+   "gloss_vi": "xem lịch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Check my diary</i> (verb) = xem lịch. <b>Grammar</b>: Mỹ <i>calendar</i>.",
+   "example": {
+    "en": "I’ll (just) get/<b>check my diary</b>.",
+    "vi": "Để tôi <b>xem lịch</b> đã."
+   }
+  },
+  {
+   "word": "arrange an appointment",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˌreɪndʒ ən əˈpɔɪntmənt/",
+   "def_en": "To fix a time to meet.",
+   "def_vi": "Định thời gian gặp.",
+   "gloss_vi": "sắp xếp cuộc hẹn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Arrange an appointment</i> (verb) = sắp xếp cuộc hẹn. <b>Collocations / chunks</b>: cụm cố định.",
+   "example": {
+    "en": "Shall we <b>arrange an appointment</b>?",
+    "vi": "Ta <b>sắp xếp một cuộc hẹn</b> nhé?"
+   }
+  },
+  {
+   "word": "suit",
+   "sense": "be convenient",
+   "pos": "verb",
+   "ipa": "/suːt/",
+   "def_en": "To be convenient for.",
+   "def_vi": "Thuận tiện cho.",
+   "gloss_vi": "tiện cho",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Suit</i> (verb) = tiện cho. <b>Grammar</b>: <i>suit</i> sb (không <i>suit to</i>).",
+   "example": {
+    "en": "Would Thursday <b>suit</b> you?",
+    "vi": "Thứ Năm có <b>tiện cho</b> bạn không?"
+   }
+  },
+  {
+   "word": "can’t make",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkɑːnt ˈmeɪk/",
+   "def_en": "To be unable to come at a particular time.",
+   "def_vi": "Không đến được vào lúc nào đó.",
+   "gloss_vi": "không đến được",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Can’t make</i> (verb) = không đến được. <b>Grammar</b>: <i>make</i> = có mặt.",
+   "example": {
+    "en": "I can’t / won’t be able to <b>make</b> Thursday.",
+    "vi": "Tôi <b>không đến được</b> thứ Năm."
+   }
+  },
+  {
+   "word": "shall we say",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ʃæl wi ˈseɪ/",
+   "def_en": "Used to suggest a time.",
+   "def_vi": "Dùng để đề xuất thời gian.",
+   "gloss_vi": "thế thì… nhé",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shall we say</i> (cl) = thế thì… nhé. <b>Collocations / chunks</b>: đề xuất thời gian.",
+   "example": {
+    "en": "<b>Shall we say</b> Friday?",
+    "vi": "<b>Thế thì</b> thứ Sáu <b>nhé</b>?"
+   }
+  },
+  {
+   "word": "look forward to",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌlʊk ˈfɔːwəd tə/",
+   "def_en": "To feel pleased about something that is going to happen.",
+   "def_vi": "Mong đợi điều sắp đến.",
+   "gloss_vi": "mong chờ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Look forward to</i> (verb) = mong chờ. <b>Grammar</b>: + V-ing / danh từ.",
+   "example": {
+    "en": "Yes, I’ll <b>look forward to</b> seeing you then.",
+    "vi": "Vâng, tôi <b>mong</b> gặp bạn."
+   }
+  },
+  {
+   "word": "I’m going to have to go now",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/aɪm ˌɡəʊɪŋ tə ˌhæv tə ˈɡəʊ naʊ/",
+   "def_en": "A polite way of ending a phone conversation.",
+   "def_vi": "Cách lịch sự kết thúc cuộc gọi.",
+   "gloss_vi": "tôi phải đi bây giờ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>I’m going to have to go now</i> (cl) = tôi phải đi bây giờ. <b>Collocations / chunks</b>: kết thúc lịch sự.",
+   "example": {
+    "en": "<b>I’m going to have to go now</b>.",
+    "vi": "<b>Tôi phải đi bây giờ</b> rồi."
+   }
+  },
+  {
+   "word": "nice talking to you",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ˌnaɪs ˈtɔːkɪŋ tə juː/",
+   "def_en": "Used to end a conversation politely.",
+   "def_vi": "Dùng để kết thúc lịch sự.",
+   "gloss_vi": "rất vui được nói chuyện",
+   "synonyms": "good talking to you <i>(cl. vui được nói chuyện)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nice talking to you</i> (cl) = rất vui được nói chuyện. <b>Collocations / chunks</b>: cụm cố định.",
+   "example": {
+    "en": "<b>Nice talking to you</b>.",
+    "vi": "<b>Rất vui được nói chuyện với bạn</b>."
+   }
+  },
+  {
+   "word": "be in touch",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/bi ɪn ˈtʌtʃ/",
+   "def_en": "To contact someone.",
+   "def_vi": "Liên lạc với ai.",
+   "gloss_vi": "liên lạc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be in touch</i> (verb) = liên lạc. <b>Collocations / chunks</b>: <i>keep/get in touch</i>.",
+   "example": {
+    "en": "We’ll <b>be</b> (back) <b>in touch</b> soon.",
+    "vi": "Chúng tôi sẽ sớm <b>liên lạc</b> lại."
+   }
+  },
+  {
+   "word": "something has come up",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ˌsʌmθɪŋ həz kʌm ˈʌp/",
+   "def_en": "Something unexpected has happened.",
+   "def_vi": "Có việc bất ngờ xảy ra.",
+   "gloss_vi": "có việc đột xuất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Something has come up</i> (cl) = có việc đột xuất. <b>Grammar</b>: <i>come up</i> = xảy ra bất ngờ.",
+   "example": {
+    "en": "I can’t make Tuesday. <b>Something has come up</b>.",
+    "vi": "Tôi không đến được thứ Ba. <b>Có việc đột xuất</b>."
+   }
+  },
+  {
+   "word": "put off",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌpʊt ˈɒf/",
+   "def_en": "To delay to a later time.",
+   "def_vi": "Hoãn đến lúc sau.",
+   "gloss_vi": "hoãn lại",
+   "synonyms": "postpone <i>(v. hoãn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Put off</i> (verb) = hoãn lại. <b>Grammar</b>: tách được <i>put sth off</i>.",
+   "example": {
+    "en": "Can we <b>put it off</b> till the 22nd?",
+    "vi": "Ta <b>hoãn</b> đến ngày 22 được không?"
+   }
+  },
+  {
+   "word": "put back",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌpʊt ˈbæk/",
+   "def_en": "To change to a later time.",
+   "def_vi": "Đổi sang lúc muộn hơn.",
+   "gloss_vi": "dời lại",
+   "synonyms": "put off <i>(v. hoãn)</i>",
+   "antonyms": "bring forward <i>(v. đưa lên sớm)</i>",
+   "grammar_vi": "<i>Put back</i> (verb) = dời lại. <b>Grammar</b>: tách được <i>put sth back</i>.",
+   "example": {
+    "en": "Could we <b>put it back</b> until the following week?",
+    "vi": "Ta có thể <b>dời</b> sang tuần sau không?"
+   }
+  },
+  {
+   "word": "snowed under",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌsnəʊd ˈʌndə(r)/",
+   "def_en": "Having too much work.",
+   "def_vi": "Có quá nhiều việc.",
+   "gloss_vi": "ngập đầu công việc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Snowed under</i> (adjective) = ngập đầu công việc. <b>Collocations / chunks</b>: thân mật.",
+   "example": {
+    "en": "<b>I’m completely snowed under</b> the following week.",
+    "vi": "Tuần sau tôi hoàn toàn <b>ngập đầu công việc</b>."
+   }
+  },
+  {
+   "word": "leave it open",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌliːv ɪt ˈəʊpən/",
+   "def_en": "Not to decide on a time yet.",
+   "def_vi": "Chưa quyết định thời gian.",
+   "gloss_vi": "để ngỏ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Leave it open</i> (verb) = để ngỏ. <b>Collocations / chunks</b>: cụm cố định.",
+   "example": {
+    "en": "Can we <b>leave it open</b>?",
+    "vi": "Ta <b>để ngỏ</b> được không?"
+   }
+  }
+ ]
+}

@@ -1,0 +1,217 @@
+{
+ "book": "bus",
+ "unit": 49,
+ "title_vi": "Gọi điện 3: kết nối được",
+ "theory_html": "<p><b>A. Getting through</b><br><i>A. Kết nối được</i></p> <p><b>PA (personal assistant); Jane Owen’s office, good morning; Can I speak to…? Is she available?; I’m afraid … ’s not available – she’s with … right now; Can I leave a message for her?; Who’s calling, please?; It’s … here, from…</b>. Note: you do not say ‘I am X’ when answering.</p><p><i><b>trợ lý riêng; Văn phòng…, xin chào; Cho tôi nói chuyện với…; Cô ấy có rảnh không?; Rất tiếc cô ấy đang bận…; Tôi để lại lời nhắn được không?; Ai gọi đấy ạ?; Tôi là… từ…</b></i></p> <p><b>B. Giving and taking messages</b><br><i>B. Nhắn và nhận lời nhắn</i></p> <p>PA: <b>Can/May I take a message?, Would you like to leave a message?, Can I ask who’s calling?, Can/May I ask what it’s about?, I’ll ask her to call you, I’ll give her your message</b>. Caller: <b>Could I leave a message?, Could you tell her that…?, I’m calling about…, I’m calling to confirm that…, Could you ask her to call me back?, My number’s…</b></p><p><i><b>Tôi nhận lời nhắn được không?; Cho hỏi ai gọi?; Cho hỏi việc gì?; Tôi sẽ bảo cô ấy gọi lại; Tôi gọi về việc…; Tôi gọi để xác nhận…</b></i></p> <p><b>C. Spelling names</b><br><i>C. Đánh vần tên</i></p> <p>NATO alphabet <b>Alpha, Bravo, Charlie…</b>; <b>capital A, small a, all one word, new word/line, dash / hyphen, slash, dot, at (@), colon, com</b>.</p><p><i><b>chữ hoa, chữ thường, viết liền, từ/dòng mới, gạch ngang, gạch chéo, chấm, a còng, hai chấm</b>.</i></p> <p><b>D. Taking messages: checking information</b><br><i>D. Kiểm tra thông tin</i></p> <p><b>I’m sorry, I didn’t catch…; Is that with … at the end?; Did you say…?; Is that with B for Bravo or V for Victor?; Where did you say…?; …, right?; Is that … like…?</b></p><p><i><b>Xin lỗi tôi nghe không rõ…; Có phải với… ở cuối?; Bạn nói… phải không?</b></i></p>",
+ "items": [
+  {
+   "word": "PA",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpiː ˈeɪ/",
+   "def_en": "A personal assistant.",
+   "def_vi": "Trợ lý riêng.",
+   "gloss_vi": "trợ lý riêng",
+   "synonyms": "personal assistant <i>(n. trợ lý riêng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>PA</i> (noun) = trợ lý riêng. <b>Grammar</b>: viết tắt <i>personal assistant</i>.",
+   "example": {
+    "en": "Mike phones again and gets through to Jane Owen’s <b>PA</b> – her personal assistant.",
+    "vi": "Mike gọi lại và gặp <b>trợ lý riêng</b> của Jane Owen."
+   }
+  },
+  {
+   "word": "is she available",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ɪz ʃi əˈveɪləbl/",
+   "def_en": "Used to ask if someone can speak to you now.",
+   "def_vi": "Hỏi ai đó có thể nói chuyện không.",
+   "gloss_vi": "cô ấy có rảnh không",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Is she available</i> (cl) = cô ấy có rảnh không. <b>Collocations / chunks</b>: <i>available</i> = rảnh để gặp.",
+   "example": {
+    "en": "Can I speak to Jane Owen, please? <b>Is she available</b>?",
+    "vi": "Cho tôi nói chuyện với Jane Owen. <b>Cô ấy có rảnh không</b>?"
+   }
+  },
+  {
+   "word": "not available",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌnɒt əˈveɪləbl/",
+   "def_en": "Not able to speak to you now.",
+   "def_vi": "Không thể nói chuyện lúc này.",
+   "gloss_vi": "không tiện nghe máy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Not available</i> (adjective) = không tiện nghe máy. <b>Collocations / chunks</b>: <i>I’m afraid … is not available</i>.",
+   "example": {
+    "en": "I’m afraid Ms Owen’s <b>not available</b> – she’s with a customer right now.",
+    "vi": "Rất tiếc bà Owen <b>không tiện nghe máy</b>."
+   }
+  },
+  {
+   "word": "leave a message",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌliːv ə ˈmesɪdʒ/",
+   "def_en": "To ask someone to pass information to another person.",
+   "def_vi": "Nhờ chuyển thông tin cho người khác.",
+   "gloss_vi": "để lại lời nhắn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "take a message <i>(v. nhận lời nhắn)</i>",
+   "grammar_vi": "<i>Leave a message</i> (verb) = để lại lời nhắn. <b>Collocations / chunks</b>: <i>leave a message for</i> sb.",
+   "example": {
+    "en": "Can I <b>leave a message</b> for her, please?",
+    "vi": "Tôi <b>để lại lời nhắn</b> cho cô ấy được không?"
+   }
+  },
+  {
+   "word": "who’s calling",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ˌhuːz ˈkɔːlɪŋ/",
+   "def_en": "Used to ask the caller’s name.",
+   "def_vi": "Hỏi tên người gọi.",
+   "gloss_vi": "ai gọi đấy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Who’s calling</i> (cl) = ai gọi đấy. <b>Collocations / chunks</b>: lịch sự hơn <i>Can I ask who’s calling?</i>.",
+   "example": {
+    "en": "<b>Who’s calling</b>, please?",
+    "vi": "<b>Ai gọi đấy</b> ạ?"
+   }
+  },
+  {
+   "word": "take a message",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ə ˈmesɪdʒ/",
+   "def_en": "To write down information for someone who is not there.",
+   "def_vi": "Ghi lại thông tin cho người vắng mặt.",
+   "gloss_vi": "nhận lời nhắn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "leave a message <i>(v. để lại lời nhắn)</i>",
+   "grammar_vi": "<i>Take a message</i> (verb) = nhận lời nhắn. <b>Collocations / chunks</b>: cụm cố định.",
+   "example": {
+    "en": "Can/May I <b>take a message</b>?",
+    "vi": "Tôi có thể <b>nhận lời nhắn</b> không?"
+   }
+  },
+  {
+   "word": "I’m calling about",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/aɪm ˈkɔːlɪŋ əˌbaʊt/",
+   "def_en": "Used to say why you are phoning.",
+   "def_vi": "Dùng để nói lý do gọi.",
+   "gloss_vi": "tôi gọi về việc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>I’m calling about</i> (cl) = tôi gọi về việc. <b>Collocations / chunks</b>: cũng <i>I’m calling to confirm that…</i>.",
+   "example": {
+    "en": "<b>I’m calling about</b> …",
+    "vi": "<b>Tôi gọi về việc</b> đơn hàng."
+   }
+  },
+  {
+   "word": "call me back",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkɔːl mi ˈbæk/",
+   "def_en": "To phone someone again in return.",
+   "def_vi": "Gọi lại cho ai.",
+   "gloss_vi": "gọi lại cho tôi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Call me back</i> (verb) = gọi lại cho tôi. <b>Collocations / chunks</b>: <i>ask sb to call sb back</i>.",
+   "example": {
+    "en": "Could you ask her to <b>call me back</b>?",
+    "vi": "Nhờ cô ấy <b>gọi lại cho tôi</b> được không?"
+   }
+  },
+  {
+   "word": "hyphen",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhaɪfn/",
+   "def_en": "The symbol (-).",
+   "def_vi": "Dấu (-).",
+   "gloss_vi": "dấu gạch nối",
+   "synonyms": "dash <i>(n. gạch ngang)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hyphen</i> (noun) = dấu gạch nối. <b>Collocations / chunks</b>: dùng khi đánh vần email.",
+   "example": {
+    "en": "jane-smith@aol.com = jane <b>hyphen</b> smith at a–o–l dot com",
+    "vi": "jane <b>gạch nối</b> smith a còng aol chấm com."
+   }
+  },
+  {
+   "word": "dot",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɒt/",
+   "def_en": "The symbol (.) in internet addresses.",
+   "def_vi": "Dấu (.) trong địa chỉ mạng.",
+   "gloss_vi": "chấm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dot</i> (noun) = chấm. <b>Grammar</b>: trong email, web.",
+   "example": {
+    "en": "jane hyphen smith at a–o–l <b>dot</b> com",
+    "vi": "jane gạch nối smith a còng aol <b>chấm</b> com."
+   }
+  },
+  {
+   "word": "all one word",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌɔːl ˈwʌn ˌwɜːd/",
+   "def_en": "Written together without spaces.",
+   "def_vi": "Viết liền không dấu cách.",
+   "gloss_vi": "viết liền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>All one word</i> (adverb) = viết liền. <b>Collocations / chunks</b>: khi đánh vần.",
+   "ex_kit": true,
+   "example": {
+    "en": "The company name is written <b>all one word</b>.",
+    "vi": "Tên công ty viết <b>liền một từ</b>."
+   }
+  },
+  {
+   "word": "I didn’t catch",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/aɪ ˌdɪdnt ˈkætʃ/",
+   "def_en": "I didn’t hear or understand.",
+   "def_vi": "Tôi không nghe rõ.",
+   "gloss_vi": "tôi nghe không rõ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>I didn’t catch</i> (cl) = tôi nghe không rõ. <b>Grammar</b>: <i>catch</i> = nghe kịp.",
+   "example": {
+    "en": "I’m sorry, <b>I didn’t catch</b> your name.",
+    "vi": "Xin lỗi, <b>tôi nghe không rõ</b> tên bạn."
+   }
+  },
+  {
+   "word": "did you say",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/dɪd ju ˈseɪ/",
+   "def_en": "Used to check information.",
+   "def_vi": "Dùng để kiểm tra thông tin.",
+   "gloss_vi": "bạn nói là",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Did you say</i> (cl) = bạn nói là. <b>Collocations / chunks</b>: kiểm tra thông tin.",
+   "example": {
+    "en": "<b>Did you say</b> your number is 624 426?",
+    "vi": "<b>Bạn nói</b> số của bạn là 624 426 phải không?"
+   }
+  }
+ ]
+}
