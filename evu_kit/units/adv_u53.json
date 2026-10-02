@@ -1,0 +1,472 @@
+{
+ "book": "adv",
+ "unit": 53,
+ "title_vi": "Ngôn ngữ y khoa",
+ "theory_html": "<p><b>A. Medical information leaflets</b><br><i>A. Tờ hướng dẫn sử dụng thuốc</i></p> <p>Extract from a leaflet in a packet of painkillers: <b>low-dose, asthma, past history, disorder, gastrointestinal disease, bowel, adverse reactions, stroke, conditions, exceed, duration, side effects, allergic reactions, particles, stools (= excrement, formal; poo, informal), nausea, vomiting, disorientation</b>.</p><p><i>Trích tờ hướng dẫn trong hộp thuốc giảm đau: <b>liều thấp, hen suyễn, tiền sử, rối loạn, bệnh tiêu hóa, ruột, phản ứng có hại, đột quỵ, bệnh trạng, vượt quá, thời gian, tác dụng phụ, phản ứng dị ứng, hạt, phân, buồn nôn, nôn, mất phương hướng</b>.</i></p> <p><b>B. Medical metaphors</b><br><i>B. Ẩn dụ y khoa</i></p> <p>Social problems are talked about as if they were illnesses: <b>symptom, symptomatic, diagnose, prognosis, ailing, a rash of, fever (World Cup / election fever), fever pitch, jaundiced view, carry the scars of / be scarred by, infect, have your finger on the pulse</b>.</p><p><i>Vấn đề xã hội được nói như bệnh tật: <b>triệu chứng, biểu hiện của, chẩn đoán, tiên lượng, suy yếu, hàng loạt, cơn sốt, cao trào, cái nhìn hoài nghi, mang vết sẹo, lan truyền, nắm bắt tình hình</b>.</i></p>",
+ "items": [
+  {
+   "word": "low-dose",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌləʊ ˈdəʊs/",
+   "def_en": "Of a measured amount of medicine that is relatively small.",
+   "def_vi": "Lượng thuốc tương đối nhỏ.",
+   "gloss_vi": "liều thấp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "high-dose <i>(adj. liều cao)</i>",
+   "grammar_vi": "<i>Low-dose</i> (adjective) = liều thấp. <b>Grammar</b>: tính từ ghép <i>low</i> + <i>dose</i>.",
+   "example": {
+    "en": "are taking <b>low-dose</b> aspirin (up to 75 mg daily)",
+    "vi": "Hỏi bác sĩ nếu bạn đang dùng aspirin <b>liều thấp</b>."
+   }
+  },
+  {
+   "word": "asthma",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈæsmə/",
+   "def_en": "A medical condition in which breathing becomes difficult because air passages have narrowed.",
+   "def_vi": "Bệnh khiến khó thở do đường thở bị hẹp.",
+   "gloss_vi": "hen suyễn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Asthma</i> (noun) = hen suyễn. <b>Grammar</b>: chữ <i>th</i> câm; tính từ <i>asthmatic</i>.",
+   "example": {
+    "en": "suffer from <b>asthma</b>, or have a past history of asthma",
+    "vi": "Hỏi bác sĩ nếu bạn bị <b>hen suyễn</b>."
+   }
+  },
+  {
+   "word": "past history",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpɑːst ˈhɪstri/",
+   "def_en": "A record of medical conditions a person has experienced.",
+   "def_vi": "Hồ sơ các bệnh người đó từng mắc.",
+   "gloss_vi": "tiền sử (bệnh)",
+   "synonyms": "medical history <i>(n. bệnh sử)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Past history</i> (noun) = tiền sử (bệnh). <b>Collocations / chunks</b>: <i>have a (past) history of</i> + bệnh.",
+   "example": {
+    "en": "or have a <b>past history</b> of asthma",
+    "vi": "Hỏi bác sĩ nếu bạn có <b>tiền sử</b> hen suyễn."
+   }
+  },
+  {
+   "word": "disorder",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪsˈɔːdə(r)/",
+   "def_en": "An illness of the body or mind.",
+   "def_vi": "Bệnh của cơ thể hay tâm trí.",
+   "gloss_vi": "rối loạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Disorder</i> (noun) = rối loạn. <b>Collocations / chunks</b>: <i>a connective tissue / eating / mental disorder</i>.",
+   "example": {
+    "en": "have a connective tissue <b>disorder</b>",
+    "vi": "Hỏi bác sĩ nếu bạn bị <b>rối loạn</b> mô liên kết."
+   }
+  },
+  {
+   "word": "gastrointestinal disease",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɡæstrəʊɪnˌtestɪnl dɪˈziːz/",
+   "def_en": "An illness of the stomach or digestive passages.",
+   "def_vi": "Bệnh của dạ dày hay đường tiêu hóa.",
+   "gloss_vi": "bệnh đường tiêu hóa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gastrointestinal disease</i> (noun) = bệnh đường tiêu hóa. <b>Collocations / chunks</b>: cụm danh từ cố định <i>gastrointestinal disease</i>.",
+   "example": {
+    "en": "have a history of <b>gastrointestinal disease</b>",
+    "vi": "Hỏi bác sĩ nếu bạn có tiền sử <b>bệnh đường tiêu hóa</b>."
+   }
+  },
+  {
+   "word": "bowel",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbaʊəl/",
+   "def_en": "The tube that carries solid waste out of the body.",
+   "def_vi": "Ống dẫn chất thải rắn ra ngoài cơ thể.",
+   "gloss_vi": "ruột",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bowel</i> (noun) = ruột. <b>Collocations / chunks</b>: <i>bowel problems</i>.",
+   "example": {
+    "en": "or suffer from <b>bowel</b> problems",
+    "vi": "Hỏi bác sĩ nếu bạn có vấn đề về <b>ruột</b>."
+   }
+  },
+  {
+   "word": "adverse reactions",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌædvɜːs riˈækʃnz/",
+   "def_en": "Unwanted results.",
+   "def_vi": "Kết quả không mong muốn.",
+   "gloss_vi": "phản ứng có hại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Adverse reactions</i> (noun) = phản ứng có hại. <b>Collocations / chunks</b>: <i>adverse</i> + <i>reaction/effect</i>.",
+   "example": {
+    "en": "it increases the risk of <b>adverse reactions</b>",
+    "vi": "Tuổi cao làm tăng nguy cơ <b>phản ứng có hại</b>."
+   }
+  },
+  {
+   "word": "stroke",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/strəʊk/",
+   "def_en": "A sudden change in blood supply to the brain causing loss of function of part of the body.",
+   "def_vi": "Thay đổi đột ngột lượng máu lên não gây mất chức năng một phần cơ thể.",
+   "gloss_vi": "đột quỵ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stroke</i> (noun) = đột quỵ. <b>Collocations / chunks</b>: <i>have / suffer a stroke</i>.",
+   "example": {
+    "en": "have had a previous <b>stroke</b>",
+    "vi": "Hỏi bác sĩ nếu bạn từng bị <b>đột quỵ</b>."
+   }
+  },
+  {
+   "word": "conditions",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kənˈdɪʃnz/",
+   "def_en": "Illnesses or physical problems.",
+   "def_vi": "Bệnh hay vấn đề thể chất.",
+   "gloss_vi": "bệnh trạng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Conditions</i> (noun) = bệnh trạng. <b>Grammar</b>: nghĩa y khoa: <i>a heart condition</i>.",
+   "example": {
+    "en": "think you might be at risk of these <b>conditions</b>",
+    "vi": "Hỏi bác sĩ nếu bạn có nguy cơ mắc các <b>bệnh</b> này."
+   }
+  },
+  {
+   "word": "exceed",
+   "sense": "take more than the dose",
+   "pos": "verb",
+   "ipa": "/ɪkˈsiːd/",
+   "def_en": "To take more than (a stated amount).",
+   "def_vi": "Dùng nhiều hơn (mức quy định).",
+   "gloss_vi": "vượt quá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Exceed</i> (verb) = vượt quá. <b>Grammar</b>: danh từ <i>excess</i>; <i>exceed the dose</i>.",
+   "example": {
+    "en": "Do not <b>exceed</b> the stated dose",
+    "vi": "Không <b>vượt quá</b> liều đã ghi."
+   }
+  },
+  {
+   "word": "duration",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/djuˈreɪʃn/",
+   "def_en": "Length (of time).",
+   "def_vi": "Độ dài (thời gian).",
+   "gloss_vi": "thời gian, thời hạn",
+   "synonyms": "length <i>(n. độ dài)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Duration</i> (noun) = thời gian, thời hạn. <b>Collocations / chunks</b>: <i>the duration of treatment</i>.",
+   "example": {
+    "en": "Do not exceed the stated dose or <b>duration</b> of treatment",
+    "vi": "Không vượt quá liều hay <b>thời gian</b> điều trị đã ghi."
+   }
+  },
+  {
+   "word": "side effects",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsaɪd ɪˌfekts/",
+   "def_en": "Unwanted effects in addition to the intended one.",
+   "def_vi": "Tác dụng không mong muốn ngoài tác dụng chính.",
+   "gloss_vi": "tác dụng phụ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Side effects</i> (noun) = tác dụng phụ. <b>Collocations / chunks</b>: <i>cause / have side effects</i>.",
+   "example": {
+    "en": "these tablets may sometimes cause <b>side effects</b>",
+    "vi": "Thuốc này đôi khi có thể gây <b>tác dụng phụ</b>."
+   }
+  },
+  {
+   "word": "allergic reactions",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˌlɜːdʒɪk riˈækʃnz/",
+   "def_en": "Conditions affecting skin or breathing because of eating or coming into contact with certain substances.",
+   "def_vi": "Tình trạng ảnh hưởng da hay hô hấp do ăn hay tiếp xúc chất nào đó.",
+   "gloss_vi": "phản ứng dị ứng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Allergic reactions</i> (noun) = phản ứng dị ứng. <b>Grammar</b>: tính từ <i>allergic (to)</i>.",
+   "example": {
+    "en": "seek medical help if you suffer from any of the following: <b>allergic reactions</b>",
+    "vi": "Ngừng thuốc nếu bị <b>phản ứng dị ứng</b>."
+   }
+  },
+  {
+   "word": "particles",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɑːtɪklz/",
+   "def_en": "Small pieces.",
+   "def_vi": "Mảnh nhỏ.",
+   "gloss_vi": "hạt, mảnh nhỏ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Particles</i> (noun) = hạt, mảnh nhỏ. <b>Collocations / chunks</b>: <i>dust particles</i>.",
+   "example": {
+    "en": "contains blood or dark <b>particles</b> that look like coffee grounds",
+    "vi": "Chất nôn có <b>hạt</b> sẫm màu như bã cà phê."
+   }
+  },
+  {
+   "word": "stools",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/stuːlz/",
+   "def_en": "The medical term for excrement (formal) or poo (informal, childish).",
+   "def_vi": "Thuật ngữ y khoa chỉ phân.",
+   "gloss_vi": "phân",
+   "synonyms": "excrement <i>(n. phân)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stools</i> (noun) = phân. <b>Grammar</b>: thuật ngữ y khoa; <i>excrement</i> (trang trọng), <i>poo</i> (trẻ con).",
+   "example": {
+    "en": "pass blood in your <b>stools</b>",
+    "vi": "Ngừng thuốc nếu có máu trong <b>phân</b>."
+   }
+  },
+  {
+   "word": "nausea",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈnɔːziə/",
+   "def_en": "Feeling sick.",
+   "def_vi": "Cảm giác buồn nôn.",
+   "gloss_vi": "buồn nôn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nausea</i> (noun) = buồn nôn. <b>Grammar</b>: tính từ <i>nauseous</i>.",
+   "example": {
+    "en": "stiff neck, headache, feeling sick (<b>nausea</b>)",
+    "vi": "Cứng cổ, đau đầu, <b>buồn nôn</b>."
+   }
+  },
+  {
+   "word": "vomiting",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈvɒmɪtɪŋ/",
+   "def_en": "Being sick.",
+   "def_vi": "Việc nôn mửa.",
+   "gloss_vi": "nôn mửa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Vomiting</i> (noun) = nôn mửa. <b>Grammar</b>: động từ <i>vomit</i>.",
+   "example": {
+    "en": "being sick (<b>vomiting</b>), fever",
+    "vi": "Buồn nôn, <b>nôn mửa</b>, sốt."
+   }
+  },
+  {
+   "word": "disorientation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪsˌɔːriənˈteɪʃn/",
+   "def_en": "Not knowing where you are.",
+   "def_vi": "Không biết mình đang ở đâu.",
+   "gloss_vi": "mất phương hướng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Disorientation</i> (noun) = mất phương hướng. <b>Grammar</b>: tính từ <i>disorientated / disoriented</i>.",
+   "example": {
+    "en": "fever and <b>disorientation</b> (not knowing where you are)",
+    "vi": "Sốt và <b>mất phương hướng</b>."
+   }
+  },
+  {
+   "word": "symptom",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɪmptəm/",
+   "def_en": "A problem indicating an illness; a sign of a deeper problem.",
+   "def_vi": "Dấu hiệu bệnh; dấu hiệu của vấn đề sâu xa.",
+   "gloss_vi": "triệu chứng",
+   "synonyms": "sign <i>(n. dấu hiệu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Symptom</i> (noun) = triệu chứng. <b>Collocations / chunks</b>: <i>a symptom of</i> sth.",
+   "example": {
+    "en": "The current spate of car thefts is a <b>symptom</b> of a deeper underlying problem.",
+    "vi": "Loạt vụ trộm xe hiện nay là <b>triệu chứng</b> của vấn đề sâu xa hơn."
+   }
+  },
+  {
+   "word": "symptomatic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌsɪmptəˈmætɪk/",
+   "def_en": "Being a sign of a problem.",
+   "def_vi": "Là dấu hiệu của vấn đề.",
+   "gloss_vi": "là biểu hiện của",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Symptomatic</i> (adjective) = là biểu hiện của. <b>Collocations / chunks</b>: <i>be symptomatic of</i> sth.",
+   "example": {
+    "en": "This behaviour is <b>symptomatic</b> of his general lack of self-confidence.",
+    "vi": "Hành vi này <b>là biểu hiện của</b> sự thiếu tự tin."
+   }
+  },
+  {
+   "word": "diagnose",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈdaɪəɡnəʊz/",
+   "def_en": "To identify what illness a patient has; to identify the causes of a problem.",
+   "def_vi": "Xác định bệnh; xác định nguyên nhân vấn đề.",
+   "gloss_vi": "chẩn đoán",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Diagnose</i> (verb) = chẩn đoán. <b>Grammar</b>: danh từ <i>diagnosis</i> (số nhiều <i>diagnoses</i>).",
+   "example": {
+    "en": "The causes of a problem can be <b>diagnosed</b>.",
+    "vi": "Nguyên nhân của vấn đề có thể được <b>chẩn đoán</b>."
+   }
+  },
+  {
+   "word": "prognosis",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/prɒɡˈnəʊsɪs/",
+   "def_en": "How experts expect an illness (or a situation) to develop.",
+   "def_vi": "Dự đoán bệnh (hay tình hình) diễn tiến ra sao.",
+   "gloss_vi": "tiên lượng, dự báo",
+   "synonyms": "outlook <i>(n. triển vọng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Prognosis</i> (noun) = tiên lượng, dự báo. <b>Grammar</b>: số nhiều <i>prognoses</i>.",
+   "example": {
+    "en": "the outlook for a situation can also be referred to as the <b>prognosis</b>",
+    "vi": "Triển vọng của một tình huống có thể gọi là <b>tiên lượng</b>."
+   }
+  },
+  {
+   "word": "a rash of",
+   "sense": "",
+   "pos": "determiner",
+   "ipa": "/ə ˈræʃ əv/",
+   "def_en": "A number of similar things happening at the same time.",
+   "def_vi": "Nhiều việc tương tự xảy ra cùng lúc.",
+   "gloss_vi": "hàng loạt",
+   "synonyms": "spate <i>(n. loạt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A rash of</i> (determiner) = hàng loạt. <b>Collocations / chunks</b>: nghĩa gốc <i>rash</i> = phát ban.",
+   "example": {
+    "en": "<b>a rash of</b> burglaries",
+    "vi": "Một <b>loạt</b> vụ trộm."
+   }
+  },
+  {
+   "word": "fever",
+   "sense": "great excitement",
+   "pos": "noun",
+   "ipa": "/ˈfiːvə(r)/",
+   "def_en": "Great excitement.",
+   "def_vi": "Sự phấn khích lớn.",
+   "gloss_vi": "cơn sốt (phấn khích)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fever</i> (noun) = cơn sốt (phấn khích). <b>Collocations / chunks</b>: <i>World Cup / election fever</i>; nghĩa gốc = sốt.",
+   "example": {
+    "en": "World Cup <b>fever</b>, election fever",
+    "vi": "<b>Cơn sốt</b> World Cup."
+   }
+  },
+  {
+   "word": "fever pitch",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfiːvə pɪtʃ/",
+   "def_en": "A point of very high intensity.",
+   "def_vi": "Mức độ cực kỳ cao.",
+   "gloss_vi": "cao trào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fever pitch</i> (noun) = cao trào. <b>Collocations / chunks</b>: <i>reach fever pitch</i>, <i>be at fever pitch</i>.",
+   "example": {
+    "en": "With a week to go before Anne’s wedding, preparations had reached <b>fever pitch</b>.",
+    "vi": "Còn một tuần trước đám cưới, việc chuẩn bị đã lên <b>cao trào</b>."
+   }
+  },
+  {
+   "word": "jaundiced",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈdʒɔːndɪst/",
+   "def_en": "Unenthusiastic or sceptical because of previous bad experiences.",
+   "def_vi": "Hoài nghi do trải nghiệm xấu trước đó.",
+   "gloss_vi": "hoài nghi, bi quan",
+   "synonyms": "sceptical <i>(adj. hoài nghi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Jaundiced</i> (adjective) = hoài nghi, bi quan. <b>Collocations / chunks</b>: <i>take a jaundiced view of</i>; nghĩa gốc = vàng da.",
+   "example": {
+    "en": "Experts in the history of the area take a rather <b>jaundiced</b> view of the likely success of the peace talks.",
+    "vi": "Các chuyên gia có cái nhìn khá <b>hoài nghi</b> về hòa đàm."
+   }
+  },
+  {
+   "word": "be scarred by",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/bi ˈskɑːd baɪ/",
+   "def_en": "To be permanently affected by a negative experience.",
+   "def_vi": "Bị ảnh hưởng vĩnh viễn bởi trải nghiệm xấu.",
+   "gloss_vi": "mang vết sẹo (tâm lý)",
+   "synonyms": "carry the scars of <i>(v. mang vết sẹo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be scarred by</i> (verb) = mang vết sẹo (tâm lý). <b>Collocations / chunks</b>: <i>carry the scars of</i> = <i>be scarred by</i>.",
+   "example": {
+    "en": "children will always <b>be scarred by</b> experiencing war at a young age",
+    "vi": "Trẻ em sẽ luôn <b>mang vết sẹo</b> từ chiến tranh."
+   }
+  },
+  {
+   "word": "infect",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪnˈfekt/",
+   "def_en": "To pass on (a feeling) to others.",
+   "def_vi": "Truyền (cảm xúc) sang người khác.",
+   "gloss_vi": "lây sang, truyền cảm hứng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Infect</i> (verb) = lây sang, truyền cảm hứng. <b>Grammar</b>: nghĩa gốc = lây bệnh; tính từ <i>infectious</i>.",
+   "example": {
+    "en": "I hope Helen’s enthusiasm will <b>infect</b> everyone else.",
+    "vi": "Hy vọng nhiệt huyết của Helen sẽ <b>lan sang</b> mọi người."
+   }
+  },
+  {
+   "word": "have your finger on the pulse",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/hæv jə ˌfɪŋɡər ɒn ðə ˈpʌls/",
+   "def_en": "To understand how things are changing.",
+   "def_vi": "Hiểu tình hình đang thay đổi ra sao.",
+   "gloss_vi": "nắm bắt tình hình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have your finger on the pulse</i> (verb) = nắm bắt tình hình. <b>Collocations / chunks</b>: <i>have your finger on the pulse of</i> sth.",
+   "example": {
+    "en": "That journalist really <b>has his finger on the pulse</b> of public opinion.",
+    "vi": "Nhà báo đó thật sự <b>nắm bắt</b> dư luận."
+   }
+  }
+ ]
+}

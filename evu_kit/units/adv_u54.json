@@ -1,0 +1,489 @@
+{
+ "book": "adv",
+ "unit": 54,
+ "title_vi": "Ăn uống, thể thao và thể hình",
+ "theory_html": "<p><b>A. A healthy heart</b><br><i>A. Trái tim khỏe mạnh</i></p> <p>Blood flow can be <b>impeded</b> by fatty <b>plaque</b> that can <b>clog</b> arteries; linked with <b>cholesterol</b>; can lead to a heart attack or a <b>stroke</b>. Foods that are <b>nutritious</b> (noun <b>nutrition</b>) but <b>cholesterol-rich</b> don’t <b>pose a danger</b> in moderation. <b>Fibre</b> / a <b>high-fibre</b> diet; fibre-rich foods: <b>lentils, oatmeal</b> (<b>porridge</b>).</p><p><i>Dòng máu có thể bị <b>cản trở</b> bởi <b>mảng bám</b> mỡ <b>làm tắc</b> động mạch; liên quan <b>cholesterol</b>; có thể gây đau tim hay <b>đột quỵ</b>. Thực phẩm <b>bổ dưỡng</b> nhưng <b>giàu cholesterol</b> không <b>gây nguy hiểm</b> nếu ăn vừa phải. <b>Chất xơ</b> / chế độ <b>nhiều chất xơ</b>: <b>đậu lăng, bột yến mạch</b> (<b>cháo yến mạch</b>).</i></p> <p><b>B. Exercise and calories</b><br><i>B. Tập luyện và calo</i></p> <p><b>cardiovascular</b> exercise; <b>diabetes / diabetics, glucose, insulin</b>; <b>burn calories</b>; <b>sporty</b>; <b>metabolism</b>; <b>BMI</b> (Body Mass Index); <b>intent on</b>; <b>brisk</b> walking.</p><p><i>Bài tập <b>tim mạch</b>; <b>bệnh tiểu đường / người tiểu đường, đường glucose, insulin</b>; <b>đốt calo</b>; <b>mê thể thao</b>; <b>trao đổi chất</b>; <b>chỉ số khối cơ thể</b>; <b>quyết tâm</b>; đi bộ <b>nhanh</b>.</i></p> <p><b>C. Sport and fitness metaphors</b><br><i>C. Ẩn dụ thể thao</i></p> <p><b>score an own goal, move the goalposts, a level playing field, in the running, neck and neck, skate around, sail through</b>.</p><p><i><b>tự hại mình, thay đổi luật chơi, sân chơi công bằng, có cơ hội được chọn, ngang ngửa, né tránh, vượt qua dễ dàng</b>.</i></p>",
+ "items": [
+  {
+   "word": "impede",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪmˈpiːd/",
+   "def_en": "To slow down or make difficult.",
+   "def_vi": "Làm chậm hay gây khó khăn.",
+   "gloss_vi": "cản trở",
+   "synonyms": "hinder <i>(v. cản trở)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Impede</i> (verb) = cản trở. <b>Grammar</b>: danh từ <i>impediment</i>.",
+   "example": {
+    "en": "the blood flow can be <b>impeded</b> by fatty plaque",
+    "vi": "Dòng máu có thể bị <b>cản trở</b> bởi mảng bám mỡ."
+   }
+  },
+  {
+   "word": "plaque",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/plæk/",
+   "def_en": "An unwanted substance that forms on the surface of the arteries.",
+   "def_vi": "Chất không mong muốn hình thành trên thành động mạch.",
+   "gloss_vi": "mảng bám",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Plaque</i> (noun) = mảng bám. <b>Grammar</b>: phát âm /plæk/; cũng chỉ <i>dental plaque</i> (cao răng).",
+   "example": {
+    "en": "fatty <b>plaque</b> that can clog them",
+    "vi": "Mảng <b>bám</b> mỡ có thể làm tắc động mạch."
+   }
+  },
+  {
+   "word": "clog",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/klɒɡ/",
+   "def_en": "To cause something to become blocked.",
+   "def_vi": "Làm cho bị tắc.",
+   "gloss_vi": "làm tắc",
+   "synonyms": "block <i>(v. làm tắc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Clog</i> (verb) = làm tắc. <b>Collocations / chunks</b>: <i>clogged blood vessels</i>; <i>clog (up)</i>.",
+   "example": {
+    "en": "fatty plaque that can <b>clog</b> them",
+    "vi": "Mảng bám mỡ có thể <b>làm tắc</b> động mạch."
+   }
+  },
+  {
+   "word": "cholesterol",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəˈlestərɒl/",
+   "def_en": "A fatty substance found in the body tissue and blood of all animals.",
+   "def_vi": "Chất béo trong mô và máu của mọi động vật.",
+   "gloss_vi": "cholesterol",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cholesterol</i> (noun) = cholesterol. <b>Collocations / chunks</b>: <i>high cholesterol levels</i>.",
+   "example": {
+    "en": "associated with high levels of <b>cholesterol</b>",
+    "vi": "Mảng bám liên quan đến mức <b>cholesterol</b> cao."
+   }
+  },
+  {
+   "word": "nutritious",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/njuˈtrɪʃəs/",
+   "def_en": "Containing substances that your body needs to stay healthy.",
+   "def_vi": "Chứa chất cơ thể cần để khỏe mạnh.",
+   "gloss_vi": "bổ dưỡng",
+   "synonyms": "nourishing <i>(adj. bổ dưỡng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nutritious</i> (adjective) = bổ dưỡng. <b>Grammar</b>: danh từ <i>nutrition</i>.",
+   "example": {
+    "en": "Some foods, such as eggs and shellfish, while <b>nutritious</b>, are also cholesterol-rich",
+    "vi": "Trứng và hải sản có vỏ, tuy <b>bổ dưỡng</b>, cũng giàu cholesterol."
+   }
+  },
+  {
+   "word": "cholesterol-rich",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kəˈlestərɒl rɪtʃ/",
+   "def_en": "Containing a lot of cholesterol.",
+   "def_vi": "Chứa nhiều cholesterol.",
+   "gloss_vi": "giàu cholesterol",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cholesterol-rich</i> (adjective) = giàu cholesterol. <b>Grammar</b>: tính từ ghép <i>noun</i> + <i>-rich</i> (<i>fibre-rich</i>).",
+   "example": {
+    "en": "while nutritious, are also <b>cholesterol-rich</b>",
+    "vi": "Một số thực phẩm cũng <b>giàu cholesterol</b>."
+   }
+  },
+  {
+   "word": "pose a danger",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌpəʊz ə ˈdeɪndʒə(r)/",
+   "def_en": "To cause a problem.",
+   "def_vi": "Gây ra vấn đề.",
+   "gloss_vi": "gây nguy hiểm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pose a danger</i> (verb) = gây nguy hiểm. <b>Collocations / chunks</b>: <i>pose a danger/threat/risk</i>.",
+   "example": {
+    "en": "if eaten in moderation, do not significantly raise cholesterol levels or <b>pose a danger</b>",
+    "vi": "Nếu ăn vừa phải, chúng không <b>gây nguy hiểm</b>."
+   }
+  },
+  {
+   "word": "fibre",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfaɪbə(r)/",
+   "def_en": "A substance in foods such as fruit, vegetables and brown bread, which travels through the body as waste.",
+   "def_vi": "Chất trong trái cây, rau, bánh mì nâu đi qua cơ thể như chất thải.",
+   "gloss_vi": "chất xơ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fibre</i> (noun) = chất xơ. <b>Collocations / chunks</b>: <i>a high-fibre diet</i>; Mỹ: <i>fiber</i>.",
+   "example": {
+    "en": "‘Bad cholesterol’ is counteracted by <b>fibre</b> in our diet",
+    "vi": "Cholesterol xấu bị <b>chất xơ</b> trong khẩu phần trung hòa."
+   }
+  },
+  {
+   "word": "high-fibre",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌhaɪ ˈfaɪbə(r)/",
+   "def_en": "Containing a lot of fibre.",
+   "def_vi": "Chứa nhiều chất xơ.",
+   "gloss_vi": "nhiều chất xơ",
+   "synonyms": "fibre-rich <i>(adj. giàu chất xơ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>High-fibre</i> (adjective) = nhiều chất xơ. <b>Grammar</b>: tính từ ghép <i>high</i> + <i>fibre</i>.",
+   "example": {
+    "en": "a <b>high-fibre</b> diet is often recommended by health experts",
+    "vi": "Chuyên gia thường khuyên chế độ ăn <b>nhiều chất xơ</b>."
+   }
+  },
+  {
+   "word": "lentils",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlentlz/",
+   "def_en": "Very small dried beans that are cooked and eaten.",
+   "def_vi": "Hạt đậu khô rất nhỏ nấu ăn.",
+   "gloss_vi": "đậu lăng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lentils</i> (noun) = đậu lăng. <b>Grammar</b>: danh từ đếm được.",
+   "example": {
+    "en": "Fibre-rich foods include fruit, vegetables, <b>lentils</b>",
+    "vi": "Thực phẩm giàu chất xơ gồm trái cây, rau, <b>đậu lăng</b>."
+   }
+  },
+  {
+   "word": "oatmeal",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈəʊtmiːl/",
+   "def_en": "A type of flour made from oats or a grain used to make porridge.",
+   "def_vi": "Bột làm từ yến mạch, dùng nấu cháo.",
+   "gloss_vi": "bột yến mạch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Oatmeal</i> (noun) = bột yến mạch. <b>Grammar</b>: danh từ ghép <i>oat</i> + <i>meal</i>.",
+   "example": {
+    "en": "lentils, <b>oatmeal</b>, potatoes and wholemeal bread",
+    "vi": "Thực phẩm giàu chất xơ gồm đậu lăng, <b>bột yến mạch</b>."
+   }
+  },
+  {
+   "word": "porridge",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɒrɪdʒ/",
+   "def_en": "A cooked breakfast cereal.",
+   "def_vi": "Ngũ cốc nấu ăn sáng.",
+   "gloss_vi": "cháo yến mạch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Porridge</i> (noun) = cháo yến mạch. <b>Grammar</b>: danh từ không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "I have a bowl of <b>porridge</b> every morning.",
+    "vi": "Bột yến mạch dùng để nấu <b>cháo yến mạch</b>."
+   }
+  },
+  {
+   "word": "cardiovascular",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌkɑːdiəʊˈvæskjələ(r)/",
+   "def_en": "Relating to the heart and blood.",
+   "def_vi": "Liên quan đến tim và máu.",
+   "gloss_vi": "tim mạch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cardiovascular</i> (adjective) = tim mạch. <b>Collocations / chunks</b>: <i>cardiovascular exercise / disease</i>.",
+   "example": {
+    "en": "One of the most efficient forms of <b>cardiovascular</b> exercise is running or fast walking",
+    "vi": "Một trong những bài tập <b>tim mạch</b> hiệu quả nhất là chạy."
+   }
+  },
+  {
+   "word": "diabetes",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdaɪəˈbiːtiːz/",
+   "def_en": "An illness in which the body cannot cope with glucose because it does not produce enough insulin.",
+   "def_vi": "Bệnh cơ thể không xử lý được glucose do thiếu insulin.",
+   "gloss_vi": "bệnh tiểu đường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Diabetes</i> (noun) = bệnh tiểu đường. <b>Grammar</b>: danh từ không đếm được; người bệnh = <i>a diabetic</i>.",
+   "example": {
+    "en": "people suffering from <b>diabetes</b>",
+    "vi": "<b>Bệnh tiểu đường</b> là bệnh cơ thể thiếu insulin."
+   }
+  },
+  {
+   "word": "diabetic",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdaɪəˈbetɪk/",
+   "def_en": "A person suffering from diabetes.",
+   "def_vi": "Người mắc bệnh tiểu đường.",
+   "gloss_vi": "người tiểu đường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Diabetic</i> (noun) = người tiểu đường. <b>Grammar</b>: cũng là tính từ <i>diabetic</i>.",
+   "example": {
+    "en": "can help <b>diabetics</b> too, by helping their insulin work more effectively",
+    "vi": "Bài tập này có thể giúp <b>người tiểu đường</b>."
+   }
+  },
+  {
+   "word": "glucose",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡluːkəʊs/",
+   "def_en": "Sugar.",
+   "def_vi": "Đường.",
+   "gloss_vi": "đường glucose",
+   "synonyms": "sugar <i>(n. đường)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Glucose</i> (noun) = đường glucose. <b>Grammar</b>: danh từ không đếm được.",
+   "example": {
+    "en": "the body cannot cope with <b>glucose</b> <b>sugar</b>",
+    "vi": "Cơ thể không xử lý được <b>glucose</b>."
+   }
+  },
+  {
+   "word": "insulin",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɪnsjəlɪn/",
+   "def_en": "A hormone that controls the level of sugar in the body.",
+   "def_vi": "Hormone điều chỉnh lượng đường trong cơ thể.",
+   "gloss_vi": "insulin",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Insulin</i> (noun) = insulin. <b>Grammar</b>: danh từ không đếm được.",
+   "example": {
+    "en": "by helping their <b>insulin</b> work more effectively",
+    "vi": "Tập luyện giúp <b>insulin</b> hoạt động hiệu quả hơn."
+   }
+  },
+  {
+   "word": "burn calories",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌbɜːn ˈkæləriz/",
+   "def_en": "To use up energy from food by exercising.",
+   "def_vi": "Tiêu hao năng lượng bằng tập luyện.",
+   "gloss_vi": "đốt calo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Burn calories</i> (verb) = đốt calo. <b>Collocations / chunks</b>: <i>burn calories / fat</i>.",
+   "example": {
+    "en": "Running or jogging is also a great way to <b>burn calories</b>",
+    "vi": "Chạy bộ là cách tuyệt vời để <b>đốt calo</b>."
+   }
+  },
+  {
+   "word": "sporty",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈspɔːti/",
+   "def_en": "Good at or keen on sports.",
+   "def_vi": "Giỏi hay mê thể thao.",
+   "gloss_vi": "mê thể thao, giỏi thể thao",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sporty</i> (adjective) = mê thể thao, giỏi thể thao. <b>Grammar</b>: <i>sport</i> + <i>-y</i>.",
+   "example": {
+    "en": "you don’t have to be excessively <b>sporty</b> to do it",
+    "vi": "Bạn không cần quá <b>mê thể thao</b> mới chạy được."
+   }
+  },
+  {
+   "word": "metabolism",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/məˈtæbəlɪzəm/",
+   "def_en": "The rate at which your body digests food.",
+   "def_vi": "Tốc độ cơ thể tiêu hóa thức ăn.",
+   "gloss_vi": "trao đổi chất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Metabolism</i> (noun) = trao đổi chất. <b>Grammar</b>: tính từ <i>metabolic</i>.",
+   "example": {
+    "en": "Exercise can also speed up your <b>metabolism</b>",
+    "vi": "Tập luyện cũng có thể tăng tốc độ <b>trao đổi chất</b>."
+   }
+  },
+  {
+   "word": "BMI",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌbiː em ˈaɪ/",
+   "def_en": "Body Mass Index – the amount of fat in your body, as a proportion of your weight.",
+   "def_vi": "Chỉ số khối cơ thể – lượng mỡ so với cân nặng.",
+   "gloss_vi": "chỉ số BMI",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>BMI</i> (noun) = chỉ số BMI. <b>Grammar</b>: viết tắt <i>Body Mass Index</i>.",
+   "example": {
+    "en": "This can help to lower your <b>BMI</b> to a healthy level.",
+    "vi": "Điều này giúp giảm <b>chỉ số BMI</b> về mức khỏe mạnh."
+   }
+  },
+  {
+   "word": "intent on",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪnˈtent ɒn/",
+   "def_en": "Determined to.",
+   "def_vi": "Quyết tâm.",
+   "gloss_vi": "quyết tâm",
+   "synonyms": "determined to <i>(adj. quyết tâm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Intent on</i> (adjective) = quyết tâm. <b>Grammar</b>: <i>be intent on</i> + V-ing.",
+   "example": {
+    "en": "If you’re <b>intent on</b> losing weight",
+    "vi": "Nếu bạn <b>quyết tâm</b> giảm cân, chạy là cách tốt."
+   }
+  },
+  {
+   "word": "brisk",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/brɪsk/",
+   "def_en": "Quick and energetic.",
+   "def_vi": "Nhanh và đầy năng lượng.",
+   "gloss_vi": "nhanh, rảo bước",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Brisk</i> (adjective) = nhanh, rảo bước. <b>Collocations / chunks</b>: <i>a brisk walk / brisk walking</i>.",
+   "example": {
+    "en": "running, <b>brisk</b> walking and fast cycling are excellent ways of doing so",
+    "vi": "Chạy, đi bộ <b>nhanh</b> và đạp xe nhanh là cách tốt."
+   }
+  },
+  {
+   "word": "score an own goal",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌskɔːr ən ˌəʊn ˈɡəʊl/",
+   "def_en": "To try to gain an advantage, but make things worse for yourself.",
+   "def_vi": "Cố giành lợi thế nhưng lại tự làm hại mình.",
+   "gloss_vi": "tự bắn vào chân mình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Score an own goal</i> (verb) = tự bắn vào chân mình. <b>Collocations / chunks</b>: ẩn dụ bóng đá <i>own goal</i> = phản lưới nhà.",
+   "example": {
+    "en": "I <b>scored an own goal</b> when I told my boss it had only taken me a day to write the report.",
+    "vi": "Tôi <b>tự hại mình</b> khi khoe với sếp chỉ mất một ngày viết báo cáo."
+   }
+  },
+  {
+   "word": "move the goalposts",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌmuːv ðə ˈɡəʊlpəʊsts/",
+   "def_en": "To change the rules.",
+   "def_vi": "Thay đổi luật chơi.",
+   "gloss_vi": "thay đổi luật chơi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Move the goalposts</i> (verb) = thay đổi luật chơi. <b>Collocations / chunks</b>: thành ngữ cố định <i>move the goalposts</i>.",
+   "example": {
+    "en": "My boss always seems to be <b>moving the goalposts</b>",
+    "vi": "Sếp tôi luôn <b>thay đổi luật chơi</b>, rất khó biết ông ấy muốn gì."
+   }
+  },
+  {
+   "word": "level playing field",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌlevl ˈpleɪɪŋ fiːld/",
+   "def_en": "A fair situation.",
+   "def_vi": "Tình huống công bằng.",
+   "gloss_vi": "sân chơi bình đẳng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Level playing field</i> (noun) = sân chơi bình đẳng. <b>Collocations / chunks</b>: <i>provide / create a level playing field</i>.",
+   "example": {
+    "en": "The new EU laws aim to provide a <b>level playing field</b> for all member states.",
+    "vi": "Luật EU mới nhằm tạo <b>sân chơi bình đẳng</b> cho mọi nước thành viên."
+   }
+  },
+  {
+   "word": "in the running",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪn ðə ˈrʌnɪŋ/",
+   "def_en": "Seriously considered (for a job, prize, etc.).",
+   "def_vi": "Được xem xét nghiêm túc.",
+   "gloss_vi": "có cơ hội (được chọn)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "out of the running <i>(adj. hết cơ hội)</i>",
+   "grammar_vi": "<i>In the running</i> (adjective) = có cơ hội (được chọn). <b>Collocations / chunks</b>: <i>be in the running for</i> sth.",
+   "example": {
+    "en": "He’s too young to be <b>in the running</b> for such a job.",
+    "vi": "Anh ấy quá trẻ để <b>có cơ hội</b> cho công việc đó."
+   }
+  },
+  {
+   "word": "neck and neck",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌnek ən ˈnek/",
+   "def_en": "Level with each other and equally likely to win.",
+   "def_vi": "Ngang nhau, cơ hội thắng như nhau.",
+   "gloss_vi": "ngang ngửa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Neck and neck</i> (adjective) = ngang ngửa. <b>Collocations / chunks</b>: cụm cố định <i>neck and neck</i>.",
+   "example": {
+    "en": "The two main parties in the election are still <b>neck and neck</b> in the opinion polls.",
+    "vi": "Hai đảng chính vẫn <b>ngang ngửa</b> trong thăm dò."
+   }
+  },
+  {
+   "word": "skate around",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌskeɪt əˈraʊnd/",
+   "def_en": "Not to talk directly about (a subject).",
+   "def_vi": "Không nói thẳng về (chủ đề).",
+   "gloss_vi": "né tránh, lảng tránh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Skate around</i> (verb) = né tránh, lảng tránh. <b>Grammar</b>: cụm động từ không tách <i>skate around/over sth</i>.",
+   "example": {
+    "en": "Politicians often <b>skate around</b> a subject.",
+    "vi": "Chính trị gia thường <b>né tránh</b> một chủ đề."
+   }
+  },
+  {
+   "word": "sail through",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌseɪl ˈθruː/",
+   "def_en": "To pass very easily.",
+   "def_vi": "Vượt qua rất dễ dàng.",
+   "gloss_vi": "vượt qua dễ dàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sail through</i> (verb) = vượt qua dễ dàng. <b>Grammar</b>: cụm động từ không tách <i>sail through sth</i>.",
+   "example": {
+    "en": "The students all <b>sailed through</b> their exams.",
+    "vi": "Tất cả học sinh đều <b>đỗ dễ dàng</b> kỳ thi."
+   }
+  }
+ ]
+}

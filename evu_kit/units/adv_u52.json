@@ -1,0 +1,488 @@
+{
+ "book": "adv",
+ "unit": 52,
+ "title_vi": "Bệnh tật: cảm thấy không khỏe",
+ "theory_html": "<p><b>A. Feeling unwell</b><br><i>A. Cảm thấy không khỏe</i></p> <p>Informal expressions meaning ‘not well, but not seriously ill’: <b>off-colour, out of sorts, under the weather, feeling poorly</b>; <b>fighting off</b> a cold; <b>gone down with</b> flu; <b>come down with</b> (used about ourselves); <b>suffer from</b> (long-term problems).</p><p><i>Cách nói thân mật nghĩa là ‘không khỏe nhưng không ốm nặng’: <b>hơi mệt, khó ở, không được khỏe, thấy ốm</b>; <b>cố chống lại</b> cảm; <b>bị</b> cúm; <b>bị nhiễm</b> (nói về bản thân); <b>mắc</b> (bệnh lâu dài).</i></p> <p><b>B. Minor health problems</b><br><i>B. Vấn đề sức khỏe nhỏ</i></p> <p><b>hurt</b> = pain caused by an injury; <b>ache</b> = persistent low-level pain. Fixed expressions: <b>(the usual) aches and pains</b> (NOT pains and aches), <b>cuts and bruises</b> (NOT bruises and cuts). Other discomfort: <b>stinging, throbbing, stiff neck, twisted ankle, dizzy, feverish, shivery / hot and cold, sleepless, nauseous, trembling, bunged up</b>.</p><p><i><b>hurt</b> = đau do chấn thương; <b>ache</b> = đau âm ỉ kéo dài. Cụm cố định: <b>đau nhức lặt vặt</b>, <b>trầy xước bầm tím</b> (không đảo thứ tự). Khó chịu khác: <b>rát, đau giật, cứng cổ, trẹo mắt cá, chóng mặt, sốt, rùng mình / lúc nóng lúc lạnh, mất ngủ, buồn nôn, run rẩy, nghẹt mũi</b>.</i></p> <p><b>C. Getting better</b><br><i>C. Khỏe lại</i></p> <p><b>get over</b> (recover), <b>recover from</b> (more serious illnesses), <b>on the mend, over the worst, be back on your feet</b>. Language help: an ache can be <b>dull/nagging/throbbing</b>; the noun <b>hurt</b> refers to emotional pain.</p><p><i><b>qua khỏi</b>, <b>hồi phục sau</b> (bệnh nặng hơn), <b>đang đỡ dần, qua giai đoạn tệ nhất, khỏe lại hoàn toàn</b>. Lưu ý: cơn đau có thể <b>âm ỉ/dai dẳng/giật</b>; danh từ <b>hurt</b> chỉ nỗi đau tinh thần.</i></p>",
+ "items": [
+  {
+   "word": "off-colour",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɒf ˈkʌlə(r)/",
+   "def_en": "Not well, but not seriously ill (informal).",
+   "def_vi": "Không khỏe nhưng không ốm nặng (thân mật).",
+   "gloss_vi": "hơi mệt, không khỏe",
+   "synonyms": "unwell <i>(adj. không khỏe)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Off-colour</i> (adjective) = hơi mệt, không khỏe. <b>Grammar</b>: tính từ ghép <i>off</i> + <i>colour</i>.",
+   "example": {
+    "en": "You look a bit <b>off-colour</b> today. Are you all right?",
+    "vi": "Hôm nay trông bạn <b>hơi mệt</b>. Bạn ổn chứ?"
+   }
+  },
+  {
+   "word": "out of sorts",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌaʊt əv ˈsɔːts/",
+   "def_en": "Not well, but not seriously ill (informal).",
+   "def_vi": "Không khỏe nhưng không ốm nặng (thân mật).",
+   "gloss_vi": "khó ở",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Out of sorts</i> (adjective) = khó ở. <b>Collocations / chunks</b>: cụm tính từ cố định <i>feel out of sorts</i>.",
+   "example": {
+    "en": "I’m just feeling a bit <b>out of sorts</b>, it’s nothing to worry about.",
+    "vi": "Tôi chỉ thấy hơi <b>khó ở</b> thôi, không có gì đáng lo."
+   }
+  },
+  {
+   "word": "under the weather",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʌndə ðə ˈweðə(r)/",
+   "def_en": "Not well, but not seriously ill (informal).",
+   "def_vi": "Không khỏe nhưng không ốm nặng (thân mật).",
+   "gloss_vi": "không được khỏe",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Under the weather</i> (adjective) = không được khỏe. <b>Collocations / chunks</b>: cụm tính từ cố định <i>feel under the weather</i>.",
+   "example": {
+    "en": "I was feeling a bit <b>under the weather</b>, so I stayed at home yesterday.",
+    "vi": "Tôi thấy <b>không được khỏe</b> nên hôm qua ở nhà."
+   }
+  },
+  {
+   "word": "feel poorly",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌfiːl ˈpʊəli/",
+   "def_en": "To feel unwell (informal).",
+   "def_vi": "Cảm thấy không khỏe (thân mật).",
+   "gloss_vi": "thấy ốm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Feel poorly</i> (verb) = thấy ốm. <b>Grammar</b>: <i>feel</i> + tính từ <i>poorly</i> (không phải trạng từ).",
+   "example": {
+    "en": "Katy’s been <b>feeling poorly</b> for a while.",
+    "vi": "Katy <b>thấy ốm</b> một thời gian rồi."
+   }
+  },
+  {
+   "word": "fight off",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌfaɪt ˈɒf/",
+   "def_en": "To try to get rid of an illness.",
+   "def_vi": "Cố gắng đẩy lùi bệnh.",
+   "gloss_vi": "cố chống lại (bệnh)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fight off</i> (verb) = cố chống lại (bệnh). <b>Grammar</b>: cụm động từ tách được <i>fight a cold off</i>.",
+   "example": {
+    "en": "I’m <b>fighting off</b> a cold at the moment.",
+    "vi": "Hiện tôi đang <b>cố chống lại</b> cơn cảm."
+   }
+  },
+  {
+   "word": "go down with",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡəʊ ˈdaʊn wɪð/",
+   "def_en": "To catch an illness, usually a non-serious one.",
+   "def_vi": "Bị mắc bệnh, thường không nghiêm trọng.",
+   "gloss_vi": "bị (bệnh)",
+   "synonyms": "come down with <i>(v. bị nhiễm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go down with</i> (verb) = bị (bệnh). <b>Grammar</b>: <i>go down with</i> + bệnh; nói về người khác.",
+   "example": {
+    "en": "Rani isn’t in today; she’s <b>gone down with</b> flu.",
+    "vi": "Rani hôm nay không đến; cô ấy <b>bị</b> cúm."
+   }
+  },
+  {
+   "word": "come down with",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkʌm ˈdaʊn wɪð/",
+   "def_en": "To catch an illness (usually said about ourselves).",
+   "def_vi": "Bị mắc bệnh (thường nói về bản thân).",
+   "gloss_vi": "bị nhiễm (bệnh)",
+   "synonyms": "go down with <i>(v. bị)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Come down with</i> (verb) = bị nhiễm (bệnh). <b>Grammar</b>: nói về bản thân dùng <i>come down with</i>, không dùng <i>go down with</i>.",
+   "example": {
+    "en": "I’ve <b>come down with</b> a dreadful cold.",
+    "vi": "Hôm nay tôi không đi làm. Tôi <b>bị</b> cảm nặng."
+   }
+  },
+  {
+   "word": "suffer from",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈsʌfə frəm/",
+   "def_en": "To have a long-term health problem.",
+   "def_vi": "Mắc vấn đề sức khỏe lâu dài.",
+   "gloss_vi": "mắc (bệnh)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Suffer from</i> (verb) = mắc (bệnh). <b>Grammar</b>: dùng cho vấn đề lâu dài.",
+   "example": {
+    "en": "Harry <b>suffers from</b> hay fever and sneezes a lot if he’s near grass or flowers.",
+    "vi": "Harry <b>mắc</b> chứng dị ứng phấn hoa."
+   }
+  },
+  {
+   "word": "hurt",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/hɜːt/",
+   "def_en": "To give pain caused by an injury.",
+   "def_vi": "Gây đau do chấn thương.",
+   "gloss_vi": "đau (do va đập)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hurt</i> (verb) = đau (do va đập). <b>Grammar</b>: khác <i>ache</i> (đau âm ỉ kéo dài).",
+   "example": {
+    "en": "My arm <b>hurts</b> where I banged it against the car door.",
+    "vi": "Tay tôi <b>đau</b> chỗ bị va vào cửa xe."
+   }
+  },
+  {
+   "word": "ache",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/eɪk/",
+   "def_en": "To have a persistent low-level pain.",
+   "def_vi": "Đau âm ỉ kéo dài.",
+   "gloss_vi": "đau nhức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ache</i> (verb) = đau nhức. <b>Grammar</b>: danh từ <i>a dull/nagging/throbbing ache</i>.",
+   "example": {
+    "en": "My back <b>aches</b> after all that digging yesterday.",
+    "vi": "Lưng tôi <b>đau nhức</b> sau khi đào đất hôm qua."
+   }
+  },
+  {
+   "word": "aches and pains",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌeɪks ən ˈpeɪnz/",
+   "def_en": "Minor health problems (non-serious).",
+   "def_vi": "Những vấn đề sức khỏe nhỏ.",
+   "gloss_vi": "đau nhức lặt vặt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Aches and pains</i> (noun) = đau nhức lặt vặt. <b>Collocations / chunks</b>: cố định thứ tự, không nói <i>pains and aches</i>.",
+   "example": {
+    "en": "Mum’s feeling fine, apart from the usual <b>aches and pains</b>.",
+    "vi": "Mẹ khỏe, trừ mấy cơn <b>đau nhức lặt vặt</b> thường lệ."
+   }
+  },
+  {
+   "word": "cuts and bruises",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkʌts ən ˈbruːzɪz/",
+   "def_en": "Minor injuries.",
+   "def_vi": "Chấn thương nhẹ.",
+   "gloss_vi": "trầy xước bầm tím",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cuts and bruises</i> (noun) = trầy xước bầm tím. <b>Collocations / chunks</b>: cố định thứ tự, không nói <i>bruises and cuts</i>.",
+   "example": {
+    "en": "Jason had a few <b>cuts and bruises</b> when he fell off his bike, nothing serious.",
+    "vi": "Jason bị vài chỗ <b>trầy xước bầm tím</b> khi ngã xe đạp."
+   }
+  },
+  {
+   "word": "sting",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/stɪŋ/",
+   "def_en": "To give a sudden, burning pain.",
+   "def_vi": "Gây đau rát đột ngột.",
+   "gloss_vi": "rát, buốt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sting</i> (verb) = rát, buốt. <b>Grammar</b>: bất quy tắc <i>sting – stung – stung</i>.",
+   "example": {
+    "en": "My hand’s been <b>stinging</b> ever since I touched that plant.",
+    "vi": "Tay tôi cứ <b>rát</b> từ khi chạm vào cái cây đó."
+   }
+  },
+  {
+   "word": "throb",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/θrɒb/",
+   "def_en": "To beat with pain.",
+   "def_vi": "Đau giật theo nhịp.",
+   "gloss_vi": "đau giật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Throb</i> (verb) = đau giật. <b>Grammar</b>: <i>throbbing</i> (thường dùng tiếp diễn).",
+   "example": {
+    "en": "My head is <b>throbbing</b>.",
+    "vi": "Đầu tôi <b>đau giật từng cơn</b>."
+   }
+  },
+  {
+   "word": "stiff neck",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌstɪf ˈnek/",
+   "def_en": "Pain and difficulty in moving your neck round.",
+   "def_vi": "Đau và khó xoay cổ.",
+   "gloss_vi": "cứng cổ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stiff neck</i> (noun) = cứng cổ. <b>Collocations / chunks</b>: <i>have a stiff neck</i>.",
+   "example": {
+    "en": "I have a <b>stiff neck</b> from sitting in a draught yesterday.",
+    "vi": "Tôi bị <b>cứng cổ</b> vì ngồi chỗ gió lùa hôm qua."
+   }
+  },
+  {
+   "word": "twist your ankle",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌtwɪst jɔːr ˈæŋkl/",
+   "def_en": "To injure your ankle by turning it suddenly.",
+   "def_vi": "Bị thương mắt cá do xoay đột ngột.",
+   "gloss_vi": "trẹo mắt cá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Twist your ankle</i> (verb) = trẹo mắt cá. <b>Collocations / chunks</b>: <i>twist</i> + <i>ankle/knee</i>.",
+   "example": {
+    "en": "She tripped on the uneven pavement and <b>twisted her ankle</b>.",
+    "vi": "Cô ấy vấp vỉa hè gồ ghề và <b>trẹo mắt cá</b>."
+   }
+  },
+  {
+   "word": "dizzy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈdɪzi/",
+   "def_en": "Having a feeling that you are spinning round and can’t balance.",
+   "def_vi": "Cảm giác quay cuồng, mất thăng bằng.",
+   "gloss_vi": "chóng mặt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dizzy</i> (adjective) = chóng mặt. <b>Grammar</b>: <i>feel dizzy</i>.",
+   "example": {
+    "en": "I feel a bit <b>dizzy</b>. I think I should sit down.",
+    "vi": "Tôi thấy hơi <b>chóng mặt</b>. Tôi nên ngồi xuống."
+   }
+  },
+  {
+   "word": "feverish",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈfiːvərɪʃ/",
+   "def_en": "Having a high temperature/fever.",
+   "def_vi": "Bị sốt cao.",
+   "gloss_vi": "sốt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Feverish</i> (adjective) = sốt. <b>Grammar</b>: <i>fever</i> + hậu tố <i>-ish</i>.",
+   "example": {
+    "en": "She was a bit <b>feverish</b> this morning, so I told her to stay in bed.",
+    "vi": "Sáng nay cô bé hơi <b>sốt</b> nên tôi bảo nằm nghỉ."
+   }
+  },
+  {
+   "word": "shivery",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈʃɪvəri/",
+   "def_en": "Shaking slightly, usually because of a fever.",
+   "def_vi": "Run nhẹ, thường do sốt.",
+   "gloss_vi": "rùng mình, ớn lạnh",
+   "synonyms": "hot and cold <i>(adj. lúc nóng lúc lạnh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shivery</i> (adjective) = rùng mình, ớn lạnh. <b>Grammar</b>: <i>shiver</i> + <i>-y</i>.",
+   "example": {
+    "en": "I feel quite <b>shivery</b>. I think I must have a temperature.",
+    "vi": "Tôi thấy khá <b>ớn lạnh</b>. Chắc tôi bị sốt."
+   }
+  },
+  {
+   "word": "hot and cold",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌhɒt ən ˈkəʊld/",
+   "def_en": "Shaking slightly, usually because of a fever.",
+   "def_vi": "Run nhẹ, thường do sốt.",
+   "gloss_vi": "lúc nóng lúc lạnh",
+   "synonyms": "shivery <i>(adj. ớn lạnh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hot and cold</i> (adjective) = lúc nóng lúc lạnh. <b>Collocations / chunks</b>: <i>feel hot and cold</i>.",
+   "example": {
+    "en": "I feel quite <b>hot and cold</b>. I think I must have a temperature.",
+    "vi": "Tôi thấy <b>lúc nóng lúc lạnh</b>. Chắc tôi bị sốt."
+   }
+  },
+  {
+   "word": "sleepless",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsliːpləs/",
+   "def_en": "Without sleeping much.",
+   "def_vi": "Không ngủ được nhiều.",
+   "gloss_vi": "mất ngủ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sleepless</i> (adjective) = mất ngủ. <b>Collocations / chunks</b>: <i>sleepless night(s)</i>.",
+   "example": {
+    "en": "I’ve had a lot of <b>sleepless</b> nights recently.",
+    "vi": "Gần đây tôi có nhiều đêm <b>mất ngủ</b>."
+   }
+  },
+  {
+   "word": "nauseous",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈnɔːziəs/",
+   "def_en": "Feeling that you want to vomit.",
+   "def_vi": "Cảm giác muốn nôn.",
+   "gloss_vi": "buồn nôn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nauseous</i> (adjective) = buồn nôn. <b>Grammar</b>: danh từ <i>nausea</i>.",
+   "example": {
+    "en": "I had a terrible <b>nauseous</b> feeling after taking the medicine, but it passed.",
+    "vi": "Tôi thấy <b>buồn nôn</b> khủng khiếp sau khi uống thuốc."
+   }
+  },
+  {
+   "word": "tremble",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈtrembl/",
+   "def_en": "To shake.",
+   "def_vi": "Run.",
+   "gloss_vi": "run rẩy",
+   "synonyms": "shake <i>(v. run)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tremble</i> (verb) = run rẩy. <b>Collocations / chunks</b>: <i>tremble all over</i>.",
+   "example": {
+    "en": "He was <b>trembling</b> all over; I knew it must be something serious.",
+    "vi": "Anh ấy <b>run rẩy</b> khắp người; tôi biết chắc có chuyện nghiêm trọng."
+   }
+  },
+  {
+   "word": "bunged up",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌbʌŋd ˈʌp/",
+   "def_en": "Blocked (informal).",
+   "def_vi": "Bị tắc (thân mật).",
+   "gloss_vi": "nghẹt (mũi)",
+   "synonyms": "blocked <i>(adj. bị tắc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bunged up</i> (adjective) = nghẹt (mũi). <b>Grammar</b>: tính từ ghép <i>bung</i> + <i>up</i>; thân mật.",
+   "example": {
+    "en": "My nose is all <b>bunged up</b> today with this horrible cold.",
+    "vi": "Hôm nay mũi tôi <b>nghẹt cứng</b> vì cảm."
+   }
+  },
+  {
+   "word": "get over",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡet ˈəʊvə(r)/",
+   "def_en": "To get better, recover.",
+   "def_vi": "Khỏe lại, hồi phục.",
+   "gloss_vi": "qua khỏi, khỏi",
+   "synonyms": "recover <i>(v. hồi phục)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get over</i> (verb) = qua khỏi, khỏi. <b>Grammar</b>: cụm động từ không tách <i>get over sth</i>.",
+   "example": {
+    "en": "I had a virus last week, but I <b>got over</b> it quite quickly.",
+    "vi": "Tuần trước tôi bị virus nhưng <b>khỏi</b> khá nhanh."
+   }
+  },
+  {
+   "word": "recover from",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rɪˈkʌvə frəm/",
+   "def_en": "To get better (used for more serious illnesses).",
+   "def_vi": "Khỏe lại (dùng cho bệnh nặng hơn).",
+   "gloss_vi": "hồi phục sau",
+   "synonyms": "get over <i>(v. khỏi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Recover from</i> (verb) = hồi phục sau. <b>Grammar</b>: danh từ <i>recovery</i>.",
+   "example": {
+    "en": "Jo’s <b>recovering from</b> a major operation.",
+    "vi": "Jo đang <b>hồi phục sau</b> một ca mổ lớn."
+   }
+  },
+  {
+   "word": "on the mend",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɒn ðə ˈmend/",
+   "def_en": "Getting better.",
+   "def_vi": "Đang khỏe lại.",
+   "gloss_vi": "đang đỡ dần",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>On the mend</i> (adjective) = đang đỡ dần. <b>Collocations / chunks</b>: <i>be on the mend</i>.",
+   "example": {
+    "en": "Dan felt terrible last week, but he’s <b>on the mend</b> now.",
+    "vi": "Tuần trước Dan thấy rất tệ nhưng giờ <b>đang đỡ dần</b>."
+   }
+  },
+  {
+   "word": "over the worst",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌəʊvə ðə ˈwɜːst/",
+   "def_en": "Past the most difficult period.",
+   "def_vi": "Đã qua giai đoạn khó khăn nhất.",
+   "gloss_vi": "qua giai đoạn tệ nhất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Over the worst</i> (adjective) = qua giai đoạn tệ nhất. <b>Collocations / chunks</b>: <i>be over the worst</i>.",
+   "example": {
+    "en": "It’s taking Hania some time to recover from her accident, but she’s <b>over the worst</b> now.",
+    "vi": "Hania hồi phục chậm nhưng giờ đã <b>qua giai đoạn tệ nhất</b>."
+   }
+  },
+  {
+   "word": "be back on your feet",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/bi ˌbæk ɒn jə ˈfiːt/",
+   "def_en": "To be fully healthy again.",
+   "def_vi": "Khỏe hẳn trở lại.",
+   "gloss_vi": "khỏe lại hoàn toàn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be back on your feet</i> (verb) = khỏe lại hoàn toàn. <b>Collocations / chunks</b>: <i>be/get back on your feet</i>.",
+   "example": {
+    "en": "She’ll <b>be back on her feet</b> again soon.",
+    "vi": "Cô ấy sẽ sớm <b>khỏe lại</b>."
+   }
+  },
+  {
+   "word": "hurt",
+   "sense": "emotional pain",
+   "pos": "noun",
+   "ipa": "/hɜːt/",
+   "def_en": "Emotional pain.",
+   "def_vi": "Nỗi đau tinh thần.",
+   "gloss_vi": "nỗi đau (tinh thần)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hurt</i> (noun) = nỗi đau (tinh thần). <b>Grammar</b>: danh từ chỉ đau tinh thần; đau thể xác dùng <i>ache</i>.",
+   "example": {
+    "en": "The break-up of their relationship caused them both deep <b>hurt</b>.",
+    "vi": "Cuộc chia tay gây cho cả hai <b>nỗi đau</b> sâu sắc."
+   }
+  }
+ ]
+}
