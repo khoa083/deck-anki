@@ -1,0 +1,264 @@
+{
+ "book": "gva",
+ "unit": 20,
+ "title_vi": "Thay thế và tỉnh lược",
+ "theory_html": "<p><b>2.1. Substitution: one/ones</b><br><i>2.1. Thay thế: one/ones</i></p> <p><b>one</b> replaces a singular countable noun, <b>ones</b> a plural noun. Not for uncountable nouns (use <b>some</b>), not for a specific item (use <b>it</b>), not after <b>the</b> unless an adjective or descriptive phrase is added, not after a possessive adjective (use <b>mine</b> / <b>my old one</b>), not <b>ones</b> alone (<b>some old ones</b>). Optional after <b>which(ever)</b>, superlatives, <b>either, neither, another, each</b>, <b>the first/last</b>, <b>the other</b>, <b>this/that</b>, colour adjectives.</p><p><i><b>one/ones</b> thay danh từ đếm được; không dùng cho danh từ không đếm được, vật cụ thể, sau tính từ sở hữu.</i></p> <p><b>2.2. Substitution: so; neither, nor, not … either</b><br><i>2.2. Thay thế: so; neither, nor</i></p> <p><b>so</b> replaces an adjective or a clause; after <b>expect, suppose, think</b> (not <b>accept, know, be sure, hear</b>). Negative: <b>I suppose not</b> / <b>I don't suppose so</b> (<b>appear, seem, believe, expect, imagine, think</b>); only <b>not</b> after <b>be afraid, assume, guess, hope, presume, suspect</b>. <b>So would I</b>; <b>Neither / Nor am I</b>, <b>I'm not either</b>.</p><p><i><b>I expect so</b>; <b>I'm afraid not</b>; <b>So would I</b>; <b>Neither am I</b>.</i></p> <p><b>2.3. Substitution: do so</b><br><i>2.3. Thay thế: do so</i></p> <p><b>do so</b> replaces a verb + complement for actions (not states or habitual actions); less formally <b>do it / do that</b>; informally <b>do</b> after modals or perfect tenses (often left out).</p><p><i><b>do so</b> thay cụm động từ hành động; thân mật <b>do it / do that</b>; <b>They should (do)</b>.</i></p> <p><b>2.4. Ellipsis after auxiliaries and after to</b><br><i>2.4. Tỉnh lược sau trợ động từ và sau to</i></p> <p>Leave out words after auxiliaries (<b>Yes, I have</b>); <b>to</b> can replace a to-infinitive clause (<b>I hope to</b>); <b>to</b> optional after <b>agree, promise, start</b>, nouns like <b>chance</b>, adjectives like <b>afraid</b>, and <b>want / would like</b> in if-/wh-clauses; no <b>to</b> after <b>like</b>; <b>to</b> required after <b>expect, mean, need</b> and after a negative. <b>have (got)</b> main verb → <b>have</b> or <b>do</b>; <b>have</b> + action noun → <b>do</b>.</p><p><i>Bỏ từ sau trợ động từ; <b>to</b> thay mệnh đề to V; bắt buộc sau <b>need</b> và phủ định; không <b>to</b> sau <b>like</b>.</i></p>",
+ "items": [
+  {
+   "word": "one",
+   "sense": "",
+   "pos": "pronoun",
+   "ipa": "/wʌn/",
+   "def_en": "Replaces a singular countable noun or noun phrase.",
+   "def_vi": "Thay cho danh từ đếm được số ít.",
+   "gloss_vi": "cái/chiếc (thay thế)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>One</i> (pronoun) = cái/chiếc (thay thế). <b>Grammar</b>: không dùng cho danh từ không đếm được (dùng <i>some</i>) hoặc vật cụ thể (dùng <i>it</i>).",
+   "example": {
+    "en": "I went for <b>the one</b> based in Brisbane.",
+    "vi": "Tôi chọn <b>chuyến</b> ở Brisbane."
+   }
+  },
+  {
+   "word": "ones",
+   "sense": "",
+   "pos": "pronoun",
+   "ipa": "/wʌnz/",
+   "def_en": "Replaces a plural noun.",
+   "def_vi": "Thay cho danh từ số nhiều.",
+   "gloss_vi": "những cái (thay thế)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ones</i> (pronoun) = những cái (thay thế). <b>Grammar</b>: không dùng <i>ones</i> một mình: <i>I'll bring some (old ones)</i>.",
+   "example": {
+    "en": "Take a couple of pairs of old trainers - preferably plastic <b>ones</b>.",
+    "vi": "Mang vài đôi giày thể thao cũ — tốt nhất là <b>loại</b> nhựa."
+   }
+  },
+  {
+   "word": "some (substitute)",
+   "sense": "",
+   "pos": "pronoun",
+   "ipa": "/sʌm/",
+   "def_en": "Used instead of one to replace an uncountable noun.",
+   "def_vi": "Dùng thay one cho danh từ không đếm được.",
+   "gloss_vi": "một ít",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Some (substitute)</i> (pronoun) = một ít. <b>Grammar</b>: không <i>need one</i>.",
+   "example": {
+    "en": "Don't forget insect repellent You'll certainly need <b>some</b>",
+    "vi": "Đừng quên thuốc chống côn trùng. Chắc chắn bạn sẽ cần <b>một ít</b>."
+   }
+  },
+  {
+   "word": "mine (not my one)",
+   "sense": "",
+   "pos": "pronoun",
+   "ipa": "/maɪn/",
+   "def_en": "A possessive pronoun preferred to my one.",
+   "def_vi": "Đại từ sở hữu, dùng thay my one.",
+   "gloss_vi": "của tôi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mine (not my one)</i> (pronoun) = của tôi. <b>Grammar</b>: hoặc <i>my old one</i>; <i>my one</i> chỉ trong văn nói thân mật.",
+   "example": {
+    "en": "You can borrow <b>mine</b>.",
+    "vi": "Bạn có thể mượn <b>của tôi</b>."
+   }
+  },
+  {
+   "word": "I expect so",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/aɪ ɪkˈspekt səʊ/",
+   "def_en": "So replaces a clause after verbs of opinion (expect, suppose, think).",
+   "def_vi": "so thay mệnh đề sau động từ chỉ ý kiến.",
+   "gloss_vi": "tôi nghĩ vậy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>I expect so</i> (structure) = tôi nghĩ vậy. <b>Grammar</b>: không sau <i>accept, know, be sure, hear</i>: không <i>I've heard so</i>.",
+   "example": {
+    "en": "'Will I be met at the airport?' '<b>I expect so</b>.'",
+    "vi": "'Tôi có được đón ở sân bay không?' '<b>Tôi nghĩ là có</b>.'"
+   }
+  },
+  {
+   "word": "I suppose not",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/aɪ səˈpəʊz nɒt/",
+   "def_en": "A short negative reply with not after a verb of opinion.",
+   "def_vi": "Câu trả lời phủ định ngắn với not.",
+   "gloss_vi": "chắc là không",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>I suppose not</i> (structure) = chắc là không. <b>Grammar</b>: hoặc <i>I don't suppose so</i>; thân mật ưu tiên <i>I don't imagine/think so</i>.",
+   "example": {
+    "en": "'You won't need a sleeping bag if it's really hot.' '<b>I suppose not</b>.'",
+    "vi": "'Trời nóng thì không cần túi ngủ.' '<b>Chắc là không</b>.'"
+   }
+  },
+  {
+   "word": "I'm afraid not",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/aɪm əˈfreɪd nɒt/",
+   "def_en": "A negative reply showing regret; only not (not ... so) is possible.",
+   "def_vi": "Rất tiếc là không.",
+   "gloss_vi": "rất tiếc là không",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>I'm afraid not</i> (structure) = rất tiếc là không. <b>Grammar</b>: cũng <i>assume, guess, hope, presume, suspect + not</i>; không <i>I'm not afraid so</i>.",
+   "example": {
+    "en": "'Do they offer any holidays in Africa?' '<b>I'm afraid not</b>.'",
+    "vi": "'Họ có tour ở châu Phi không?' '<b>Rất tiếc là không</b>.'"
+   }
+  },
+  {
+   "word": "so would I",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/səʊ wʊd aɪ/",
+   "def_en": "So + auxiliary + subject: a second person does the same thing.",
+   "def_vi": "Tôi cũng vậy.",
+   "gloss_vi": "tôi cũng vậy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "neither am I <i>(st. tôi cũng không)</i>",
+   "grammar_vi": "<i>So would I</i> (structure) = tôi cũng vậy. <b>Grammar</b>: đảo trợ động từ + chủ ngữ.",
+   "example": {
+    "en": "'I'd like to go to Tasmania,' '<b>So would I</b>.'",
+    "vi": "'Tôi muốn đi Tasmania.' '<b>Tôi cũng vậy</b>.'"
+   }
+  },
+  {
+   "word": "neither am I",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈnaɪðər æm aɪ/",
+   "def_en": "Neither/nor + auxiliary + subject: the same negative is true of a second person.",
+   "def_vi": "Tôi cũng không.",
+   "gloss_vi": "tôi cũng không",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "so would I <i>(st. tôi cũng vậy)</i>",
+   "grammar_vi": "<i>Neither am I</i> (structure) = tôi cũng không. <b>Grammar</b>: = <i>Nor am I</i> / <i>I'm not either</i>.",
+   "example": {
+    "en": "'I'm not really a very good swimmer.' 'No, <b>neither am I</b>.'",
+    "vi": "'Tôi bơi không giỏi lắm.' 'Không, <b>tôi cũng không</b>.'"
+   }
+  },
+  {
+   "word": "do so",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/duː səʊ/",
+   "def_en": "Replaces a verb and its complement describing an action.",
+   "def_vi": "Thay cho động từ hành động + bổ ngữ.",
+   "gloss_vi": "làm vậy",
+   "synonyms": "do that <i>(st. làm vậy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Do so</i> (structure) = làm vậy. <b>Grammar</b>: không dùng với động từ trạng thái / thói quen; thân mật <i>do it / do that</i>.",
+   "example": {
+    "en": "Trans World Adventures said they had no plans to <b>do so</b>.",
+    "vi": "Họ nói không có kế hoạch <b>làm vậy</b>."
+   }
+  },
+  {
+   "word": "they should (do)",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ðeɪ ʃʊd duː/",
+   "def_en": "Informal do (often left out) after modals or perfect tenses.",
+   "def_vi": "do (thường bỏ) sau động từ khuyết thiếu / thì hoàn thành.",
+   "gloss_vi": "họ nên (làm vậy)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>They should (do)</i> (structure) = họ nên (làm vậy). <b>Grammar</b>: <i>Yes, I could have (done).</i>.",
+   "example": {
+    "en": "'Do they provide all the equipment?' '<b>They should (do)</b>.'",
+    "vi": "'Họ có cung cấp đủ dụng cụ không?' '<b>Lẽ ra phải có</b>.'"
+   }
+  },
+  {
+   "word": "ellipsis",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪˈlɪpsɪs/",
+   "def_en": "Leaving out words to avoid repeating them.",
+   "def_vi": "Tỉnh lược: bỏ từ để tránh lặp.",
+   "gloss_vi": "tỉnh lược",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ellipsis</i> (noun) = tỉnh lược. <b>Grammar</b>: bỏ phần sau trợ động từ.",
+   "example": {
+    "en": "'Have you decided yet?' 'Yes, <b>I have</b>.'",
+    "vi": "'Bạn quyết định chưa?' 'Rồi, <b>tôi quyết rồi</b>.'"
+   }
+  },
+  {
+   "word": "I hope to",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/aɪ ˈhəʊp tə/",
+   "def_en": "To used instead of a whole to-infinitive clause.",
+   "def_vi": "to thay cho cả mệnh đề to V.",
+   "gloss_vi": "tôi hy vọng (sẽ)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>I hope to</i> (structure) = tôi hy vọng (sẽ). <b>Grammar</b>: <i>to</i> tùy chọn sau <i>agree, promise, start, chance, afraid</i>; bắt buộc sau <i>need, expect, mean</i> và phủ định.",
+   "example": {
+    "en": "I'd certainly like to go back to Australia. <b>I hope to</b> next year.",
+    "vi": "Tôi muốn quay lại Úc. Tôi <b>hy vọng sẽ đi</b> năm sau."
+   }
+  },
+  {
+   "word": "if you need to",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ɪf ju ˈniːd tə/",
+   "def_en": "To must be used after verbs like need, expect, mean that need a complement.",
+   "def_vi": "Bắt buộc dùng to sau need, expect, mean.",
+   "gloss_vi": "nếu bạn cần",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>If you need to</i> (structure) = nếu bạn cần. <b>Grammar</b>: cũng sau phủ định: <i>if you don't want to</i>.",
+   "example": {
+    "en": "You can borrow mine <b>if you need to</b>.",
+    "vi": "Bạn có thể mượn của tôi <b>nếu bạn cần</b>."
+   }
+  },
+  {
+   "word": "whenever you like",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/wenˈevə ju laɪk/",
+   "def_en": "No to after like (but want/would like can take to).",
+   "def_vi": "Không dùng to sau like.",
+   "gloss_vi": "bất cứ khi nào bạn muốn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Whenever you like</i> (structure) = bất cứ khi nào bạn muốn. <b>Grammar</b>: so sánh <i>whenever you'd like (to)</i>.",
+   "example": {
+    "en": "You can come over <b>whenever you like</b>.",
+    "vi": "Bạn có thể ghé <b>bất cứ khi nào bạn muốn</b>."
+   }
+  },
+  {
+   "word": "but I did",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/bət aɪ dɪd/",
+   "def_en": "Do (not have) replaces have + noun describing an action.",
+   "def_vi": "Dùng do thay have + danh từ hành động.",
+   "gloss_vi": "nhưng tôi đã có",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>But I did</i> (structure) = nhưng tôi đã có. <b>Grammar</b>: <i>have (got)</i> chính → <i>I'm sure you have / do</i>.",
+   "example": {
+    "en": "I wasn't really expecting to have a good time, <b>but I did</b>.",
+    "vi": "Tôi không mong vui vẻ, <b>nhưng tôi đã vui</b>."
+   }
+  }
+ ]
+}
