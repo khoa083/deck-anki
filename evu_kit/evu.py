@@ -4,7 +4,7 @@
   python3 evu.py src BOOK U [U…]        trích nguồn (trang lý thuyết **in đậm**, bài tập, đáp án) -> src/
   python3 evu.py make BOOK U [U…]       compile data/ -> units/ + audio + check   (quy trình chuẩn mỗi unit)
   python3 evu.py check [BOOK [U…]]      kiểm units/ (lỗi + cảnh báo)
-  python3 evu.py build BOOK             -> out/<Root>.apkg
+  python3 evu.py build BOOK             -> out/<Root>.apkg (tự cắt ảnh minh họa thiếu vào img/)
   python3 evu.py verify BOOK            import lại apkg: đếm note/thẻ, render, audio, GUID trùng, cây deck
   python3 evu.py status                 tiến độ từng sách
 BOOK: ele (Elementary), pre (Pre-int & Int), upp (Upper-int), adv (Advanced), bus (Business Int), gva (Grammar & Vocabulary for Advanced)
@@ -105,7 +105,7 @@ def main(a):
         sys.exit(check(a[1], [int(x) for x in a[2:]]) or r)
     if cmd == "audio": sys.exit(run("make_audio.py", *a[1:]))
     if cmd == "check": sys.exit(1 if check(a[1] if len(a) > 1 else None, [int(x) for x in a[2:]] or None) else 0)
-    if cmd == "build": sys.exit(run("build_deck.py", *a[1:]))
+    if cmd == "build": run("mkimg.py"); sys.exit(run("build_deck.py", *a[1:]))
     if cmd == "verify": return verify(a[1])
     if cmd == "status": return status()
     print(__doc__)
