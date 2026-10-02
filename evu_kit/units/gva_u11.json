@@ -1,0 +1,216 @@
+{
+ "book": "gva",
+ "unit": 11,
+ "title_vi": "Mệnh đề quan hệ (1)",
+ "theory_html": "<p><b>2.1. Defining and non-defining relative clauses</b><br><i>2.1. Mệnh đề quan hệ xác định và không xác định</i></p> <p>Defining: specify which person/thing we mean; non-defining: add extra information (with commas). Put the clause close to its noun; <b>which</b> can refer back to a whole previous idea.</p><p><i>Xác định: chỉ rõ người/vật nào; không xác định: thêm thông tin (có dấu phẩy); <b>which</b> có thể chỉ cả ý trước.</i></p> <p><b>2.2. Relative pronouns</b><br><i>2.2. Đại từ quan hệ</i></p> <p>People: <b>who / that</b> (subject), <b>who / that / –</b> (object, can be left out in defining clauses), <b>whom</b> very formal; things: <b>that / which</b>; non-defining: <b>which</b> only (not <b>that</b>); collective nouns (<b>company, government</b>): <b>who / which / that</b>.</p><p><i>Người: <b>who/that</b>; vật: <b>that/which</b>; mệnh đề không xác định không dùng <b>that</b>; <b>whom</b> rất trang trọng.</i></p> <p><b>2.3. Other words beginning relative clauses</b><br><i>2.3. Từ khác mở đầu mệnh đề quan hệ</i></p> <p><b>when</b> (time; formally preposition + <b>which</b>; informally <b>that</b> / nothing), <b>why</b> after <b>reason</b>, <b>where</b> after places and <b>case, example, point, situation, system</b> (formally preposition + <b>which</b>), <b>whose</b> + noun, formal <b>noun + of which</b>.</p><p><i><b>when, why, where, whose</b>; trang trọng <b>in which, the purpose of which</b>.</i></p> <p><b>2.4. Prepositions in relative clauses</b><br><i>2.4. Giới từ trong mệnh đề quan hệ</i></p> <p>Formal: preposition before the pronoun (<b>for which, with whom</b>); informal: preposition at the end; <b>of which / of whom</b> after <b>all, both, many, most, some</b>, numbers and superlatives; preposition (usually <b>from</b>) + <b>where / when</b>.</p><p><i>Trang trọng: giới từ đứng trước; thân mật: cuối mệnh đề; <b>many of whom</b>.</i></p>",
+ "items": [
+  {
+   "word": "defining relative clause",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/dɪˌfaɪnɪŋ ˈrelətɪv klɔːz/",
+   "def_en": "A clause that specifies which person or thing we mean.",
+   "def_vi": "Mệnh đề chỉ rõ người/vật nào.",
+   "gloss_vi": "mệnh đề quan hệ xác định",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "non-defining relative clause <i>(st. mệnh đề không xác định)</i>",
+   "grammar_vi": "<i>Defining relative clause</i> (structure) = mệnh đề quan hệ xác định. <b>Grammar</b>: không dấu phẩy; có thể bỏ đại từ tân ngữ.",
+   "example": {
+    "en": "The old photograph <b>that you can see ahead of you</b> shows Marconi at Signal Hill.",
+    "vi": "Bức ảnh cũ <b>mà bạn thấy phía trước</b> cho thấy Marconi."
+   }
+  },
+  {
+   "word": "non-defining relative clause",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˌnɒn dɪˌfaɪnɪŋ ˈrelətɪv klɔːz/",
+   "def_en": "A clause that adds extra information about a noun, with commas.",
+   "def_vi": "Mệnh đề thêm thông tin, có dấu phẩy.",
+   "gloss_vi": "mệnh đề quan hệ không xác định",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "defining relative clause <i>(st. mệnh đề xác định)</i>",
+   "grammar_vi": "<i>Non-defining relative clause</i> (structure) = mệnh đề quan hệ không xác định. <b>Grammar</b>: không dùng <i>that</i>; không bỏ đại từ.",
+   "example": {
+    "en": "The story of radio probably begins with Heinrich Hertz, <b>who was the first to produce radio waves</b> in a laboratory.",
+    "vi": "Câu chuyện bắt đầu với Heinrich Hertz, <b>người đầu tiên tạo ra sóng radio</b>."
+   }
+  },
+  {
+   "word": "which (whole clause)",
+   "sense": "",
+   "pos": "pronoun",
+   "ipa": "/wɪtʃ/",
+   "def_en": "Refers back to the whole idea of the previous clause.",
+   "def_vi": "Chỉ toàn bộ ý của mệnh đề trước.",
+   "gloss_vi": "điều này",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Which (whole clause)</i> (pronoun) = điều này. <b>Grammar</b>: luôn có dấu phẩy trước.",
+   "example": {
+    "en": "The owner of the old radio claims that it is in excellent condition — <b>which</b> is obviously not the case.",
+    "vi": "Chủ nhân nói radio còn rất tốt – <b>điều mà</b> rõ ràng không đúng."
+   }
+  },
+  {
+   "word": "whom",
+   "sense": "",
+   "pos": "pronoun",
+   "ipa": "/huːm/",
+   "def_en": "Object relative pronoun for people, used only in very formal styles.",
+   "def_vi": "Đại từ quan hệ tân ngữ chỉ người, rất trang trọng.",
+   "gloss_vi": "người mà",
+   "synonyms": "who <i>(pron. người mà)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Whom</i> (pronoun) = người mà. <b>Grammar</b>: sau giới từ dùng <i>whom</i>: <i>with whom</i>.",
+   "example": {
+    "en": "Augusto Righi, <b>whom</b> Marconi respected greatly, guided his research.",
+    "vi": "Augusto Righi, <b>người mà</b> Marconi rất kính trọng, hướng dẫn nghiên cứu."
+   }
+  },
+  {
+   "word": "that (relative)",
+   "sense": "",
+   "pos": "pronoun",
+   "ipa": "/ðæt/",
+   "def_en": "Relative pronoun for people or things in defining clauses (informal for people).",
+   "def_vi": "Đại từ quan hệ cho người/vật trong mệnh đề xác định.",
+   "gloss_vi": "mà",
+   "synonyms": "which <i>(pron. cái mà)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>That (relative)</i> (pronoun) = mà. <b>Grammar</b>: không dùng <i>that</i> trong mệnh đề không xác định.",
+   "example": {
+    "en": "The invention <b>that</b> made this possible was the vacuum tube.",
+    "vi": "Phát minh <b>làm điều này khả thi</b> là đèn chân không."
+   }
+  },
+  {
+   "word": "when (relative)",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/wen/",
+   "def_en": "Used after a noun referring to a time.",
+   "def_vi": "Dùng sau danh từ chỉ thời gian.",
+   "gloss_vi": "khi mà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>When (relative)</i> (adverb) = khi mà. <b>Grammar</b>: trang trọng: <i>a period during which</i>.",
+   "example": {
+    "en": "The first public demonstration of the power of radio came in 1901, <b>when</b> Marconi announced that he had received a transmission from across the Atlantic.",
+    "vi": "Năm 1901, <b>khi</b> Marconi công bố nhận được tín hiệu xuyên Đại Tây Dương."
+   }
+  },
+  {
+   "word": "the reason why",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ðə ˈriːzn waɪ/",
+   "def_en": "Why is often used after reason.",
+   "def_vi": "why thường dùng sau reason.",
+   "gloss_vi": "lý do vì sao",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The reason why</i> (structure) = lý do vì sao. <b>Grammar</b>: thân mật <i>the reason (that)</i>.",
+   "example": {
+    "en": "You can probably guess <b>the reason why</b> radio began to lose some of its popularity.",
+    "vi": "Bạn đoán được <b>lý do vì sao</b> radio mất dần sức hút."
+   }
+  },
+  {
+   "word": "where (relative)",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/weə(r)/",
+   "def_en": "Used after a noun for a location, and after case, example, point, situation, system.",
+   "def_vi": "Dùng sau danh từ nơi chốn, và sau case, situation, system.",
+   "gloss_vi": "nơi mà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Where (relative)</i> (adverb) = nơi mà. <b>Grammar</b>: trang trọng: <i>an experiment in which</i>.",
+   "example": {
+    "en": "Marconi's goal was to find a system <b>where</b> telegraphic messages could be transmitted.",
+    "vi": "Mục tiêu của Marconi là tìm hệ thống <b>nơi</b> tin điện báo được truyền đi."
+   }
+  },
+  {
+   "word": "whose",
+   "sense": "",
+   "pos": "pronoun",
+   "ipa": "/huːz/",
+   "def_en": "Used + noun for something belonging to a person, town, country or organisation.",
+   "def_vi": "+ danh từ, chỉ sở hữu của người, nơi, tổ chức.",
+   "gloss_vi": "mà… của",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Whose</i> (pronoun) = mà… của. <b>Grammar</b>: trang trọng: <i>the purpose of which</i>.",
+   "example": {
+    "en": "it is the Italian Guglielmo Marconi <b>whose</b> name is mainly associated with the development of radio",
+    "vi": "Chính Marconi là người <b>mà tên tuổi</b> gắn với sự phát triển radio."
+   }
+  },
+  {
+   "word": "the … of which",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ðə ... əv wɪtʃ/",
+   "def_en": "A formal alternative to whose + noun for things.",
+   "def_vi": "Cách trang trọng thay whose + danh từ cho vật.",
+   "gloss_vi": "mà… của nó",
+   "synonyms": "whose <i>(pron. mà… của)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The … of which</i> (structure) = mà… của nó. <b>Grammar</b>: trang trọng.",
+   "example": {
+    "en": "Project Geneva is a computing project, <b>the purpose of which</b> is to analyse very large amounts of data",
+    "vi": "Dự án Geneva, <b>mục đích của nó</b> là phân tích dữ liệu lớn."
+   }
+  },
+  {
+   "word": "for which",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/fə wɪtʃ/",
+   "def_en": "A preposition before the relative pronoun in formal styles.",
+   "def_vi": "Giới từ đứng trước đại từ quan hệ (trang trọng).",
+   "gloss_vi": "mà nhờ đó",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>For which</i> (structure) = mà nhờ đó. <b>Grammar</b>: thân mật: <i>which he will always be remembered for</i>.",
+   "example": {
+    "en": "Marconi made the announcement <b>for which</b> he will always be remembered.",
+    "vi": "Năm 1901 Marconi đưa ra thông báo <b>mà nhờ đó</b> ông sẽ luôn được nhớ đến."
+   }
+  },
+  {
+   "word": "many of whom",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈmeni əv huːm/",
+   "def_en": "Of whom / of which after many, most, some, numbers and superlatives.",
+   "def_vi": "of whom/which sau many, most, some, số, so sánh nhất.",
+   "gloss_vi": "nhiều người trong số đó",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Many of whom</i> (structure) = nhiều người trong số đó. <b>Grammar</b>: cũng <i>all of which, both of whom, the first of which</i>.",
+   "example": {
+    "en": "Radio entertainers, <b>many of whom</b> became household names, were highly paid.",
+    "vi": "Người dẫn chương trình radio, <b>nhiều người trong số đó</b> nổi tiếng, được trả lương cao."
+   }
+  },
+  {
+   "word": "from where",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/frəm weə(r)/",
+   "def_en": "A preposition (usually from) + where / when.",
+   "def_vi": "Giới từ (thường from) + where/when.",
+   "gloss_vi": "từ nơi đó",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>From where</i> (structure) = từ nơi đó. <b>Grammar</b>: giới từ + <i>where/when</i>.",
+   "example": {
+    "en": "Marconi set up a transmission station in Cornwall, <b>from where</b> the first transatlantic radio message was sent.",
+    "vi": "Marconi lập trạm phát ở Cornwall, <b>từ nơi đó</b> tin vô tuyến xuyên Đại Tây Dương đầu tiên được gửi."
+   }
+  }
+ ]
+}
