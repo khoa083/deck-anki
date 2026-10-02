@@ -1,0 +1,360 @@
+{
+ "book": "pre",
+ "unit": 95,
+ "title_vi": "Tiếng Anh trang trọng và thân mật",
+ "theory_html": "<p><b>A. Formal English</b><br><i>A. Tiếng Anh trang trọng</i></p> <p>More common in writing, announcements, speeches, news: <b>purchase (buy), on the premises (here), regret to inform you (sorry to say), require (need), further assistance (more help), grant (give/allow), regarding (about), commence (start), depart (leave), proceed to (go to)</b>.</p><p><i><b>mua, tại chỗ, rất tiếc phải báo, cần, hỗ trợ thêm, cấp, liên quan đến, bắt đầu, khởi hành, đi đến</b>.</i></p> <p><b>B. Informal English</b><br><i>B. Tiếng Anh thân mật</i></p> <p>Spoken English and emails to friends: <b>mate, quite a bit (often), bloke, make it (come), the thing is, kids, or so (about), cheers (thanks), I bet (I’m sure), I’m dying for, stuff, What are you up to?, great/terrific, a load of rubbish</b>.</p><p><i><b>bạn, khá nhiều, gã, đến được, vấn đề là, bọn trẻ, khoảng, cảm ơn, chắc chắn, thèm, đồ, đang làm gì, tuyệt, dở tệ</b>.</i></p>",
+ "items": [
+  {
+   "word": "purchase",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈpɜːtʃəs/",
+   "def_en": "To buy (formal).",
+   "def_vi": "Mua (trang trọng).",
+   "gloss_vi": "mua",
+   "synonyms": "buy <i>(v. mua)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Purchase</i> (verb) = mua. <b>Grammar</b>: trang trọng; cũng là danh từ.",
+   "example": {
+    "en": "Only food <b>purchased</b> here may be eaten on the premises.",
+    "vi": "Chỉ đồ ăn <b>mua</b> tại đây mới được ăn tại quán."
+   }
+  },
+  {
+   "word": "on the premises",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɒn ðə ˈpremɪsɪz/",
+   "def_en": "In this building or place (formal).",
+   "def_vi": "Trong tòa nhà hay nơi này (trang trọng).",
+   "gloss_vi": "tại chỗ, trong khuôn viên",
+   "synonyms": "here <i>(adv. ở đây)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>On the premises</i> (phrase) = tại chỗ, trong khuôn viên. <b>Grammar</b>: <i>premises</i> luôn số nhiều.",
+   "example": {
+    "en": "Only food purchased here may be eaten <b>on the premises</b>.",
+    "vi": "Chỉ đồ ăn mua tại đây mới được ăn <b>tại quán</b>."
+   }
+  },
+  {
+   "word": "regret to inform you",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/rɪˌɡret tu ɪnˈfɔːm juː/",
+   "def_en": "I am sorry to say (formal).",
+   "def_vi": "Tôi rất tiếc phải nói (trang trọng).",
+   "gloss_vi": "rất tiếc phải thông báo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Regret to inform you</i> (phrase) = rất tiếc phải thông báo. <b>Grammar</b>: thư công việc trang trọng.",
+   "example": {
+    "en": "I <b>regret to inform you</b> that we are unable to …",
+    "vi": "Tôi <b>rất tiếc phải thông báo</b> rằng chúng tôi không thể…"
+   }
+  },
+  {
+   "word": "require",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rɪˈkwaɪə(r)/",
+   "def_en": "To need (formal).",
+   "def_vi": "Cần (trang trọng).",
+   "gloss_vi": "cần, yêu cầu",
+   "synonyms": "need <i>(v. cần)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Require</i> (verb) = cần, yêu cầu. <b>Grammar</b>: trang trọng. <b>Word family</b>: <i>requirement</i> (n.).",
+   "example": {
+    "en": "If you <b>require</b> further assistance, please contact the above address.",
+    "vi": "Nếu bạn <b>cần</b> hỗ trợ thêm, xin liên hệ địa chỉ trên."
+   }
+  },
+  {
+   "word": "further assistance",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌfɜːðər əˈsɪstəns/",
+   "def_en": "More help (formal).",
+   "def_vi": "Thêm sự giúp đỡ (trang trọng).",
+   "gloss_vi": "hỗ trợ thêm",
+   "synonyms": "more help <i>(np. giúp thêm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Further assistance</i> (noun phrase) = hỗ trợ thêm. <b>Grammar</b>: <i>assistance</i> không đếm được.",
+   "example": {
+    "en": "If you require <b>further assistance</b>, please contact the above address.",
+    "vi": "Nếu bạn cần <b>hỗ trợ thêm</b>, xin liên hệ địa chỉ trên."
+   }
+  },
+  {
+   "word": "grant",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɡrɑːnt/",
+   "def_en": "To give or allow (formal).",
+   "def_vi": "Cho hay cho phép (trang trọng).",
+   "gloss_vi": "cấp, ban",
+   "synonyms": "give <i>(v. cho)</i>",
+   "antonyms": "refuse <i>(v. từ chối)</i>",
+   "grammar_vi": "<i>Grant</i> (verb) = cấp, ban. <b>Grammar</b>: <i>grant sb sth</i>.",
+   "example": {
+    "en": "We are not in a position to <b>grant</b> you a visa to this country.",
+    "vi": "Chúng tôi không thể <b>cấp</b> visa cho bạn vào nước này."
+   }
+  },
+  {
+   "word": "regarding",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/rɪˈɡɑːdɪŋ/",
+   "def_en": "About (formal).",
+   "def_vi": "Về (trang trọng).",
+   "gloss_vi": "liên quan đến",
+   "synonyms": "about <i>(prep. về)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Regarding</i> (preposition) = liên quan đến. <b>Grammar</b>: trang trọng.",
+   "example": {
+    "en": "The man is being questioned <b>regarding</b> the robbery last night.",
+    "vi": "Người đàn ông đang bị thẩm vấn <b>liên quan đến</b> vụ cướp tối qua."
+   }
+  },
+  {
+   "word": "commence",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kəˈmens/",
+   "def_en": "To start (formal).",
+   "def_vi": "Bắt đầu (trang trọng).",
+   "gloss_vi": "bắt đầu",
+   "synonyms": "start <i>(v. bắt đầu)</i>",
+   "antonyms": "finish <i>(v. kết thúc)</i>",
+   "grammar_vi": "<i>Commence</i> (verb) = bắt đầu. <b>Grammar</b>: trang trọng.",
+   "example": {
+    "en": "The play will <b>commence</b> in two minutes.",
+    "vi": "Vở kịch sẽ <b>bắt đầu</b> sau hai phút nữa."
+   }
+  },
+  {
+   "word": "depart",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪˈpɑːt/",
+   "def_en": "To leave (formal).",
+   "def_vi": "Rời đi (trang trọng).",
+   "gloss_vi": "khởi hành",
+   "synonyms": "leave <i>(v. rời đi)</i>",
+   "antonyms": "arrive <i>(v. đến)</i>",
+   "grammar_vi": "<i>Depart</i> (verb) = khởi hành. <b>Grammar</b>: trang trọng. <b>Word family</b>: <i>departure</i> (n.).",
+   "example": {
+    "en": "The next train to <b>depart</b> from platform 7 will be the 7:22 to Reading.",
+    "vi": "Chuyến tàu tiếp theo <b>khởi hành</b> từ sân ga 7 sẽ là chuyến 7:22 đi Reading."
+   }
+  },
+  {
+   "word": "proceed to",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/prəˈsiːd tə/",
+   "def_en": "To go to (formal).",
+   "def_vi": "Đi đến (trang trọng).",
+   "gloss_vi": "đi đến",
+   "synonyms": "go to <i>(pv. đi đến)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Proceed to</i> (phrasal verb) = đi đến. <b>Grammar</b>: thông báo trang trọng.",
+   "example": {
+    "en": "Will passengers for Miami please <b>proceed to</b> gate 36.",
+    "vi": "Đề nghị hành khách đi Miami <b>đi đến</b> cổng 36."
+   }
+  },
+  {
+   "word": "quite a bit",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌkwaɪt ə ˈbɪt/",
+   "def_en": "Often; a lot (informal).",
+   "def_vi": "Thường; nhiều (thân mật).",
+   "gloss_vi": "khá nhiều, khá thường",
+   "synonyms": "often <i>(adv. thường)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Quite a bit</i> (phrase) = khá nhiều, khá thường. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "Yeah, I see him <b>quite a bit</b>.",
+    "vi": "Ừ, tôi gặp anh ấy <b>khá thường</b>."
+   }
+  },
+  {
+   "word": "bloke",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bləʊk/",
+   "def_en": "A man (informal).",
+   "def_vi": "Người đàn ông (thân mật).",
+   "gloss_vi": "gã, anh chàng",
+   "synonyms": "guy <i>(n. gã)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bloke</i> (noun) = gã, anh chàng. <b>Grammar</b>: thân mật, Anh–Anh.",
+   "example": {
+    "en": "He’s a nice <b>bloke</b>.",
+    "vi": "Anh ấy là một <b>anh chàng</b> tốt."
+   }
+  },
+  {
+   "word": "make it",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˈmeɪk ɪt/",
+   "def_en": "To be able to come (informal).",
+   "def_vi": "Đến được (thân mật).",
+   "gloss_vi": "đến được",
+   "synonyms": "come <i>(v. đến)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Make it</i> (verb phrase) = đến được. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "I’m afraid I can’t <b>make it</b> this evening.",
+    "vi": "E là tối nay tôi không <b>đến được</b>."
+   }
+  },
+  {
+   "word": "the thing is",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ðə ˈθɪŋ ɪz/",
+   "def_en": "The problem is (informal).",
+   "def_vi": "Vấn đề là (thân mật).",
+   "gloss_vi": "vấn đề là",
+   "synonyms": "the problem is <i>(phr. vấn đề là)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The thing is</i> (phrase) = vấn đề là. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "<b>The thing is</b>, Ella’s not well, so I’ll have to look after the kids.",
+    "vi": "<b>Vấn đề là</b> Ella không khỏe, nên tôi phải trông bọn trẻ."
+   }
+  },
+  {
+   "word": "kids",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/kɪdz/",
+   "def_en": "Children (informal).",
+   "def_vi": "Trẻ con (thân mật).",
+   "gloss_vi": "bọn trẻ",
+   "synonyms": "children <i>(pn. trẻ em)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Kids</i> (plural noun) = bọn trẻ. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "I’ll have to look after the <b>kids</b>.",
+    "vi": "Tôi phải trông <b>bọn trẻ</b>."
+   }
+  },
+  {
+   "word": "or so",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɔː ˈsəʊ/",
+   "def_en": "About; approximately.",
+   "def_vi": "Khoảng; xấp xỉ.",
+   "gloss_vi": "khoảng",
+   "synonyms": "about <i>(adv. khoảng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Or so</i> (phrase) = khoảng. <b>Grammar</b>: đứng sau số.",
+   "example": {
+    "en": "There will still be twelve <b>or so</b> at the meeting.",
+    "vi": "Vẫn sẽ có mười hai người <b>hoặc hơn</b> ở buổi họp."
+   }
+  },
+  {
+   "word": "I bet",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/aɪ ˈbet/",
+   "def_en": "I’m sure (informal).",
+   "def_vi": "Tôi chắc (thân mật).",
+   "gloss_vi": "tôi cá là",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>I bet</i> (phrase) = tôi cá là. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "<b>I bet</b> you’re hungry.",
+    "vi": "<b>Tôi cá là</b> bạn đói rồi."
+   }
+  },
+  {
+   "word": "be dying for",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/bi ˈdaɪɪŋ fə(r)/",
+   "def_en": "To want something very much (informal).",
+   "def_vi": "Rất muốn thứ gì (thân mật).",
+   "gloss_vi": "thèm, rất muốn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be dying for</i> (verb phrase) = thèm, rất muốn. <b>Grammar</b>: <i>be dying for sth / to do sth</i>.",
+   "example": {
+    "en": "Yes, I’m <b>dying for</b> something to eat.",
+    "vi": "Vâng, tôi <b>đang thèm</b> ăn chút gì."
+   }
+  },
+  {
+   "word": "stuff",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/stʌf/",
+   "def_en": "Things; an uncountable noun or group of things (informal).",
+   "def_vi": "Đồ đạc; thứ không cần gọi chính xác (thân mật).",
+   "gloss_vi": "đồ, thứ",
+   "synonyms": "things <i>(pn. đồ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stuff</i> (noun) = đồ, thứ. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "I think you’ll find some <b>stuff</b> in the fridge.",
+    "vi": "Bạn sẽ tìm thấy ít <b>đồ ăn</b> trong tủ lạnh."
+   }
+  },
+  {
+   "word": "be up to",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/bi ˈʌp tə/",
+   "def_en": "To be doing (informal).",
+   "def_vi": "Đang làm (thân mật).",
+   "gloss_vi": "đang làm gì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be up to</i> (verb phrase) = đang làm gì. <b>Grammar</b>: <i>What are you up to?</i>.",
+   "example": {
+    "en": "What <b>are</b> you <b>up to</b> this evening?",
+    "vi": "Tối nay bạn <b>định làm gì</b>?"
+   }
+  },
+  {
+   "word": "great",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɡreɪt/",
+   "def_en": "Very good (informal).",
+   "def_vi": "Rất hay (thân mật).",
+   "gloss_vi": "tuyệt",
+   "synonyms": "terrific <i>(adj. tuyệt vời)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Great</i> (adjective) = tuyệt. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "I’ve heard it’s <b>great</b>.",
+    "vi": "Tôi nghe nói phim đó <b>tuyệt</b> lắm."
+   }
+  },
+  {
+   "word": "a load of rubbish",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ə ˌləʊd əv ˈrʌbɪʃ/",
+   "def_en": "Terrible (informal).",
+   "def_vi": "Rất tệ (thân mật).",
+   "gloss_vi": "dở tệ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A load of rubbish</i> (phrase) = dở tệ. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "My brother saw it and said it was <b>a load of rubbish</b>.",
+    "vi": "Anh tôi xem rồi và nói nó <b>dở tệ</b>."
+   }
+  }
+ ]
+}

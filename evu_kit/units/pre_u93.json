@@ -1,0 +1,216 @@
+{
+ "book": "pre",
+ "unit": 93,
+ "title_vi": "Bổ sung và tương phản",
+ "theory_html": "<p><b>A. As well (as), what’s more, in addition (to), besides</b><br><i>A. Thêm thông tin</i></p> <p><b>also, as well (syn too), as well as (+ -ing), what’s more, in addition, in addition to, besides (+ -ing)</b>.</p><p><i><b>cũng, ngoài ra, hơn nữa, thêm vào đó</b>.</i></p> <p><b>B. Although, despite, in spite of</b><br><i>B. Mặc dù</i></p> <p><b>although / even though</b> + clause; <b>despite the fact that</b> + clause; <b>despite / in spite of</b> + noun / -ing; <b>still</b> emphasises surprise.</p><p><i><b>mặc dù, bất chấp; vẫn</b>.</i></p> <p><b>C. However, yet, though</b><br><i>C. Tuy nhiên</i></p> <p><b>however</b> (two sentences, different positions), <b>yet</b>, <b>though</b> (spoken, at the end).</p><p><i><b>tuy nhiên, vậy mà, dù vậy</b>.</i></p> <p><b>D. While and whereas</b><br><i>D. Trong khi</i></p> <p>compare two facts: <b>Alex is quick, whereas/while the others are slow</b>.</p><p><i><b>trong khi đó</b>.</i></p>",
+ "items": [
+  {
+   "word": "as well",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/əz ˈwel/",
+   "def_en": "Also; too.",
+   "def_vi": "Cũng.",
+   "gloss_vi": "cũng",
+   "synonyms": "too <i>(adv. cũng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As well</i> (adverb) = cũng. <b>Grammar</b>: đứng cuối câu.",
+   "example": {
+    "en": "You always get a good view, and the seats are comfortable <b>as well</b>.",
+    "vi": "Bạn luôn có tầm nhìn đẹp, và ghế <b>cũng</b> thoải mái."
+   }
+  },
+  {
+   "word": "as well as",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/əz ˈwel əz/",
+   "def_en": "In addition to.",
+   "def_vi": "Cùng với, ngoài.",
+   "gloss_vi": "ngoài… ra còn",
+   "synonyms": "in addition to <i>(prep. ngoài ra)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As well as</i> (preposition) = ngoài… ra còn. <b>Grammar</b>: + V-ing / danh từ.",
+   "example": {
+    "en": "<b>As well as</b> getting cheaper tickets, I also got the opportunity to buy them in advance.",
+    "vi": "<b>Ngoài</b> mua được vé rẻ hơn, tôi <b>còn</b> có cơ hội mua trước."
+   }
+  },
+  {
+   "word": "what’s more",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌwɒts ˈmɔː(r)/",
+   "def_en": "Used to add more information.",
+   "def_vi": "Dùng để thêm thông tin.",
+   "gloss_vi": "hơn nữa",
+   "synonyms": "moreover <i>(adv. hơn nữa)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>What’s more</i> (phrase) = hơn nữa. <b>Grammar</b>: văn nói và viết thân mật.",
+   "example": {
+    "en": "The clothes are nice, and <b>what’s more</b>, the shop is open every day of the week.",
+    "vi": "Quần áo đẹp, và <b>hơn nữa</b>, cửa hàng mở cửa cả tuần."
+   }
+  },
+  {
+   "word": "in addition",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪn əˈdɪʃn/",
+   "def_en": "Also; as well.",
+   "def_vi": "Ngoài ra.",
+   "gloss_vi": "ngoài ra",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In addition</i> (phrase) = ngoài ra. <b>Grammar</b>: <i>in addition to</i> + danh từ/V-ing.",
+   "example": {
+    "en": "<b>In addition</b>, companies can afford to employ them.",
+    "vi": "<b>Ngoài ra</b>, các công ty có thể thuê họ."
+   }
+  },
+  {
+   "word": "although",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/ɔːlˈðəʊ/",
+   "def_en": "Used when the second idea is surprising.",
+   "def_vi": "Dùng khi ý thứ hai gây bất ngờ.",
+   "gloss_vi": "mặc dù",
+   "synonyms": "even though <i>(conj. dù cho)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Although</i> (conjunction) = mặc dù. <b>Grammar</b>: + mệnh đề; không dùng <i>although… but</i>.",
+   "example": {
+    "en": "<b>Although</b> the sun was shining, it wasn’t very warm.",
+    "vi": "<b>Mặc dù</b> trời nắng, nhưng không ấm lắm."
+   }
+  },
+  {
+   "word": "even though",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/ˌiːvn ˈðəʊ/",
+   "def_en": "Although (stronger).",
+   "def_vi": "Mặc dù (mạnh hơn).",
+   "gloss_vi": "dù cho",
+   "synonyms": "although <i>(conj. mặc dù)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Even though</i> (conjunction) = dù cho. <b>Grammar</b>: + mệnh đề.",
+   "example": {
+    "en": "We found the place quite easily, <b>even though</b> we didn’t know where it was.",
+    "vi": "Chúng tôi tìm ra chỗ khá dễ, <b>dù</b> không biết nó ở đâu."
+   }
+  },
+  {
+   "word": "despite",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/dɪˈspaɪt/",
+   "def_en": "Although something is true.",
+   "def_vi": "Dù điều gì đúng.",
+   "gloss_vi": "bất chấp, mặc dù",
+   "synonyms": "in spite of <i>(prep. mặc dù)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Despite</i> (preposition) = bất chấp, mặc dù. <b>Grammar</b>: + danh từ / V-ing; <i>despite the fact that</i> + mệnh đề (không <i>despite of</i>).",
+   "example": {
+    "en": "<b>Despite</b> having no money, he still seemed very happy.",
+    "vi": "<b>Dù</b> không có tiền, anh ấy vẫn có vẻ rất vui."
+   }
+  },
+  {
+   "word": "in spite of",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ɪn ˈspaɪt əv/",
+   "def_en": "Despite.",
+   "def_vi": "Mặc dù.",
+   "gloss_vi": "bất chấp",
+   "synonyms": "despite <i>(prep. bất chấp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In spite of</i> (preposition) = bất chấp. <b>Grammar</b>: + danh từ / V-ing.",
+   "example": {
+    "en": "They got there on time <b>in spite of</b> the delay.",
+    "vi": "Họ đến đúng giờ <b>bất chấp</b> sự chậm trễ."
+   }
+  },
+  {
+   "word": "still",
+   "sense": "contrast",
+   "pos": "adverb",
+   "ipa": "/stɪl/",
+   "def_en": "Used to emphasise that something was not expected.",
+   "def_vi": "Nhấn mạnh điều không ngờ.",
+   "gloss_vi": "vẫn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Still</i> (adverb) = vẫn. <b>Grammar</b>: đứng trước động từ chính. <b>Common mistakes</b>: tính từ <i>still</i> = (nước) không ga.",
+   "example": {
+    "en": "He didn’t do any work but he <b>still</b> passed the exam.",
+    "vi": "Anh ấy không học gì nhưng <b>vẫn</b> thi đỗ."
+   }
+  },
+  {
+   "word": "however",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/haʊˈevə(r)/",
+   "def_en": "Used to introduce a surprising contrast.",
+   "def_vi": "Dùng giới thiệu sự tương phản bất ngờ.",
+   "gloss_vi": "tuy nhiên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>However</i> (adverb) = tuy nhiên. <b>Grammar</b>: thường nối hai câu; dùng dấu phẩy.",
+   "example": {
+    "en": "I don’t agree with a lot of his methods. <b>However</b>, he is a very good teacher.",
+    "vi": "Tôi không đồng ý với nhiều phương pháp của anh ấy. <b>Tuy nhiên</b>, anh ấy là giáo viên rất giỏi."
+   }
+  },
+  {
+   "word": "yet",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/jet/",
+   "def_en": "But, surprisingly.",
+   "def_vi": "Nhưng, đáng ngạc nhiên.",
+   "gloss_vi": "vậy mà",
+   "synonyms": "but <i>(conj. nhưng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Yet</i> (conjunction) = vậy mà. <b>Grammar</b>: liên từ ở giữa câu.",
+   "example": {
+    "en": "We went in the autumn, <b>yet</b> it was still quite warm.",
+    "vi": "Chúng tôi đi vào mùa thu, <b>vậy mà</b> trời vẫn khá ấm."
+   }
+  },
+  {
+   "word": "though",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ðəʊ/",
+   "def_en": "However (spoken, at the end of a sentence).",
+   "def_vi": "Tuy vậy (văn nói, cuối câu).",
+   "gloss_vi": "dù vậy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Though</i> (adverb) = dù vậy. <b>Grammar</b>: đứng cuối câu trong văn nói.",
+   "example": {
+    "en": "I didn’t like the film much. I’m glad I went to see it, <b>though</b>.",
+    "vi": "Tôi không thích bộ phim lắm. <b>Dù vậy</b> tôi vẫn vui vì đã đi xem."
+   }
+  },
+  {
+   "word": "whereas",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/ˌweərˈæz/",
+   "def_en": "Used to compare two different facts.",
+   "def_vi": "Dùng so sánh hai sự thật khác nhau.",
+   "gloss_vi": "trong khi đó",
+   "synonyms": "while <i>(conj. trong khi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Whereas</i> (conjunction) = trong khi đó. <b>Grammar</b>: dùng dấu phẩy trước <i>whereas</i>.",
+   "example": {
+    "en": "Alex is very quick to understand, <b>whereas</b> the others are quite slow.",
+    "vi": "Alex hiểu rất nhanh, <b>trong khi</b> những người khác khá chậm."
+   }
+  }
+ ]
+}

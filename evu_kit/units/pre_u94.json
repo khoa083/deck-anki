@@ -1,0 +1,248 @@
+{
+ "book": "pre",
+ "unit": 94,
+ "title_vi": "Lý do, mục đích, kết quả, điều kiện",
+ "theory_html": "<p><b>A. Reason</b><br><i>A. Lý do</i></p> <p><b>because, as/since, so, the reason… was that…; because of</b> (+ noun) vs <b>because</b> (+ clause); <b>due to</b> (often after <b>be</b>, for problems).</p><p><i><b>vì, bởi vì, nên, lý do là, do</b>.</i></p> <p><b>B. Purpose</b><br><i>B. Mục đích</i></p> <p><b>the purpose of…; so (that) + could…; (in order) to + verb</b>.</p><p><i><b>mục đích; để</b>.</i></p> <p><b>C. Result</b><br><i>C. Kết quả</i></p> <p><b>so; therefore; as a result</b> (more formal).</p><p><i><b>nên, do đó, kết quả là</b>.</i></p> <p><b>D. Conditions</b><br><i>D. Điều kiện</i></p> <p><b>whether</b> (if, not sure); <b>unless</b> (if not); <b>otherwise</b> (because if not); <b>as long as</b> (but you must); <b>in case</b> (because sth might happen).</p><p><i><b>liệu; trừ khi; nếu không thì; miễn là; phòng khi</b>.</i></p>",
+ "items": [
+  {
+   "word": "as",
+   "sense": "reason",
+   "pos": "conjunction",
+   "ipa": "/æz/",
+   "def_en": "Because.",
+   "def_vi": "Vì.",
+   "gloss_vi": "vì",
+   "synonyms": "since <i>(conj. vì)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As</i> (conjunction) = vì. <b>Grammar</b>: hay đứng đầu câu (không bắt đầu câu bằng <i>because</i> trong văn viết).",
+   "example": {
+    "en": "<b>As</b> I was feeling tired, I went home early.",
+    "vi": "<b>Vì</b> thấy mệt, tôi về nhà sớm."
+   }
+  },
+  {
+   "word": "since",
+   "sense": "reason",
+   "pos": "conjunction",
+   "ipa": "/sɪns/",
+   "def_en": "Because.",
+   "def_vi": "Vì.",
+   "gloss_vi": "vì",
+   "synonyms": "as <i>(conj. vì)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Since</i> (conjunction) = vì. <b>Grammar</b>: ≠ <i>since</i> (thời gian, u60).",
+   "example": {
+    "en": "<b>Since</b> I was feeling tired, I went home early.",
+    "vi": "<b>Vì</b> thấy mệt, tôi về nhà sớm."
+   }
+  },
+  {
+   "word": "the reason … was that",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ðə ˈriːzn … wəz ðæt/",
+   "def_en": "Used to explain why something happened.",
+   "def_vi": "Dùng để giải thích vì sao.",
+   "gloss_vi": "lý do… là",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The reason … was that</i> (phrase) = lý do… là. <b>Grammar</b>: <i>The reason (why)… is that…</i>.",
+   "example": {
+    "en": "<b>The reason</b> I went home early <b>was that</b> I was feeling tired.",
+    "vi": "<b>Lý do</b> tôi về sớm <b>là</b> tôi thấy mệt."
+   }
+  },
+  {
+   "word": "because of",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/bɪˈkɒz əv/",
+   "def_en": "As a result of.",
+   "def_vi": "Do.",
+   "gloss_vi": "vì, do",
+   "synonyms": "due to <i>(prep. do)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Because of</i> (preposition) = vì, do. <b>Grammar</b>: + (tính từ +) danh từ; <i>because</i> + mệnh đề.",
+   "example": {
+    "en": "They go there <b>because of</b> the wonderful weather.",
+    "vi": "Họ đến đó <b>vì</b> thời tiết tuyệt vời."
+   }
+  },
+  {
+   "word": "due to",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ˈdjuː tə/",
+   "def_en": "Because of, often for a problem.",
+   "def_vi": "Do, thường dùng cho vấn đề.",
+   "gloss_vi": "do",
+   "synonyms": "because of <i>(prep. vì)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Due to</i> (preposition) = do. <b>Grammar</b>: thường sau động từ <i>be</i>.",
+   "example": {
+    "en": "The plane was late <b>due to</b> bad weather.",
+    "vi": "Máy bay trễ <b>do</b> thời tiết xấu."
+   }
+  },
+  {
+   "word": "purpose",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɜːpəs/",
+   "def_en": "An intention or reason for doing something.",
+   "def_vi": "Ý định hay lý do làm gì.",
+   "gloss_vi": "mục đích",
+   "synonyms": "aim <i>(n. mục tiêu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Purpose</i> (noun) = mục đích. <b>Grammar</b>: <i>the purpose of sth</i>; <i>on purpose</i> = cố ý.",
+   "example": {
+    "en": "The <b>purpose of</b> the meeting is to plan next year’s timetable.",
+    "vi": "<b>Mục đích</b> của cuộc họp là lên thời khóa biểu năm tới."
+   }
+  },
+  {
+   "word": "so that",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/ˈsəʊ ðæt/",
+   "def_en": "In order to make something possible.",
+   "def_vi": "Để điều gì có thể xảy ra.",
+   "gloss_vi": "để",
+   "synonyms": "in order to <i>(phr. để)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>So that</i> (conjunction) = để. <b>Grammar</b>: + <i>can/could</i>.",
+   "example": {
+    "en": "I bought this book <b>so</b> (that) I could improve my English.",
+    "vi": "Tôi mua cuốn sách này <b>để</b> có thể cải thiện tiếng Anh."
+   }
+  },
+  {
+   "word": "in order to",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪn ˈɔːdə tə/",
+   "def_en": "For the purpose of.",
+   "def_vi": "Nhằm mục đích.",
+   "gloss_vi": "để",
+   "synonyms": "so that <i>(conj. để)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In order to</i> (phrase) = để. <b>Grammar</b>: + nguyên mẫu; <i>in order</i> có thể bỏ.",
+   "example": {
+    "en": "She went into town (<b>in order</b>) <b>to</b> do some shopping.",
+    "vi": "Cô ấy vào thị trấn <b>để</b> mua sắm."
+   }
+  },
+  {
+   "word": "therefore",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈðeəfɔː(r)/",
+   "def_en": "For that reason (formal).",
+   "def_vi": "Vì lý do đó (trang trọng).",
+   "gloss_vi": "do đó",
+   "synonyms": "so <i>(conj. nên)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Therefore</i> (adverb) = do đó. <b>Grammar</b>: trang trọng hơn <i>so</i>.",
+   "example": {
+    "en": "They’ve got more money, and <b>therefore</b> they can afford to buy the best football players.",
+    "vi": "Họ có nhiều tiền hơn, và <b>do đó</b> có thể mua cầu thủ giỏi nhất."
+   }
+  },
+  {
+   "word": "as a result",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/əz ə rɪˈzʌlt/",
+   "def_en": "Because of this.",
+   "def_vi": "Vì việc này.",
+   "gloss_vi": "kết quả là",
+   "synonyms": "consequently <i>(adv. hệ quả là)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As a result</i> (phrase) = kết quả là. <b>Grammar</b>: <i>as a result of</i> + danh từ.",
+   "example": {
+    "en": "I forgot to send the email. <b>As a result</b>, no one knew about the meeting.",
+    "vi": "Tôi quên gửi email. <b>Kết quả là</b> không ai biết về cuộc họp."
+   }
+  },
+  {
+   "word": "whether",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/ˈweðə(r)/",
+   "def_en": "If (used when not sure).",
+   "def_vi": "Liệu (khi không chắc).",
+   "gloss_vi": "liệu",
+   "synonyms": "if <i>(conj. liệu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Whether</i> (conjunction) = liệu. <b>Grammar</b>: <i>whether or not</i>.",
+   "example": {
+    "en": "I didn’t buy it because I wasn’t sure <b>whether</b> you’d like it.",
+    "vi": "Tôi không mua vì không chắc <b>liệu</b> bạn có thích không."
+   }
+  },
+  {
+   "word": "unless",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/ənˈles/",
+   "def_en": "If not.",
+   "def_vi": "Nếu không.",
+   "gloss_vi": "trừ khi",
+   "synonyms": "if not <i>(phr. nếu không)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Unless</i> (conjunction) = trừ khi. <b>Grammar</b>: không dùng phủ định sau <i>unless</i>.",
+   "example": {
+    "en": "We’ll be late <b>unless</b> we leave now.",
+    "vi": "Chúng ta sẽ muộn <b>trừ khi</b> đi ngay bây giờ."
+   }
+  },
+  {
+   "word": "otherwise",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈʌðəwaɪz/",
+   "def_en": "Because if not.",
+   "def_vi": "Vì nếu không.",
+   "gloss_vi": "nếu không thì",
+   "synonyms": "or else <i>(phr. nếu không)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Otherwise</i> (adverb) = nếu không thì. <b>Grammar</b>: thường sau dấu phẩy.",
+   "example": {
+    "en": "I have to go now, <b>otherwise</b> I’ll miss the last bus.",
+    "vi": "Tôi phải đi ngay, <b>nếu không</b> tôi sẽ lỡ chuyến xe buýt cuối."
+   }
+  },
+  {
+   "word": "as long as",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/əz ˈlɒŋ əz/",
+   "def_en": "But only if; on condition that.",
+   "def_vi": "Chỉ khi; với điều kiện.",
+   "gloss_vi": "miễn là",
+   "synonyms": "provided that <i>(conj. với điều kiện)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As long as</i> (conjunction) = miễn là. <b>Grammar</b>: + hiện tại đơn.",
+   "example": {
+    "en": "You can borrow it <b>as long as</b> you bring it back by Thursday.",
+    "vi": "Bạn có thể mượn <b>miễn là</b> trả lại trước thứ Năm."
+   }
+  },
+  {
+   "word": "in case",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/ɪn ˈkeɪs/",
+   "def_en": "Because something might happen later.",
+   "def_vi": "Vì điều gì có thể xảy ra sau.",
+   "gloss_vi": "phòng khi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In case</i> (conjunction) = phòng khi. <b>Grammar</b>: ≠ <i>if</i>; + hiện tại đơn.",
+   "example": {
+    "en": "I’m taking my umbrella <b>in case</b> it rains.",
+    "vi": "Tôi mang ô <b>phòng khi</b> trời mưa."
+   }
+  }
+ ]
+}
