@@ -1,0 +1,472 @@
+{
+ "book": "adv",
+ "unit": 32,
+ "title_vi": "Thế giới động vật",
+ "theory_html": "<p><b>A. Describing animals and birds</b><br><i>A. Miêu tả động vật và chim</i></p> <p><b>mammal, marsupial, pouch, rodent, reptile, carnivore, herbivore, predator, scavenger, warm-blooded / cold-blooded</b>.</p><p><i><b>động vật có vú, thú có túi, túi, loài gặm nhấm, bò sát, động vật ăn thịt, ăn cỏ, thú săn mồi, loài ăn xác, máu nóng/máu lạnh</b>.</i></p> <p><b>B. Describing typical animal behaviour</b><br><i>B. Miêu tả hành vi động vật</i></p> <p><b>docile, tame, domesticated, wild, savage, fierce</b>.</p><p><i><b>hiền lành, đã thuần, đã thuần hóa, hoang dã, hung dữ, dữ tợn</b>.</i></p> <p><b>C. Life of animals and birds</b><br><i>C. Đời sống của động vật và chim</i></p> <p><b>natural habitat, migrate, migration, become extinct, game reserves/parks, game, bird sanctuary, animal (rescue) shelter, stray</b>.</p><p><i><b>môi trường sống tự nhiên, di cư, tuyệt chủng, khu bảo tồn thú, thú săn, khu bảo tồn chim, trại cứu hộ, đi lạc</b>.</i></p> <p><b>LH. Language help</b><br><i>LH. Lưu ý ngôn ngữ</i></p> <p>A <b>dodo</b> is now used to mean someone or something out of touch or obsolete.</p><p><i><b>Dodo</b> nay chỉ người/vật lỗi thời.</i></p> <p><b>D. Human exploitation of animals and birds</b><br><i>D. Con người khai thác động vật</i></p> <p><b>blood sports, the fur trade, poachers, the ivory trade, animal rights activists, horn</b>.</p><p><i><b>môn thể thao giết thú, ngành buôn lông thú, kẻ săn trộm, buôn ngà voi, nhà hoạt động vì quyền động vật, sừng</b>.</i></p>",
+ "items": [
+  {
+   "word": "mammal",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmæml/",
+   "def_en": "An animal that gives birth to live babies and feeds them on its own milk.",
+   "def_vi": "Động vật đẻ con và nuôi bằng sữa.",
+   "gloss_vi": "động vật có vú",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mammal</i> (noun) = động vật có vú. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "<b>mammal</b>: animal that gives birth to live babies, not eggs, and feeds them on its own milk (e.g. cat, cow, kangaroo)",
+    "vi": "Mèo, bò, kangaroo là <b>động vật có vú</b>."
+   }
+  },
+  {
+   "word": "marsupial",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/mɑːˈsuːpiəl/",
+   "def_en": "A mammal whose young grow in a pouch in front of the mother.",
+   "def_vi": "Thú có con lớn trong túi trước bụng mẹ.",
+   "gloss_vi": "thú có túi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Marsupial</i> (noun) = thú có túi. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "A kangaroo is a special kind of mammal called a <b>marsupial</b>.",
+    "vi": "Kangaroo là <b>thú có túi</b>."
+   }
+  },
+  {
+   "word": "pouch",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/paʊtʃ/",
+   "def_en": "A pocket of skin in front of a marsupial mother where its young grow.",
+   "def_vi": "Túi da trước bụng thú mẹ có túi.",
+   "gloss_vi": "túi (thú có túi)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pouch</i> (noun) = túi (thú có túi). <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "its young grow in a <b>pouch</b> in front of the mother",
+    "vi": "Con non lớn trong <b>túi</b> trước bụng mẹ."
+   }
+  },
+  {
+   "word": "rodent",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈrəʊdnt/",
+   "def_en": "An animal like a mouse or rat.",
+   "def_vi": "Động vật như chuột.",
+   "gloss_vi": "loài gặm nhấm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rodent</i> (noun) = loài gặm nhấm. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "<b>rodent</b>: e.g. mouse, rat",
+    "vi": "Chuột là <b>loài gặm nhấm</b>."
+   }
+  },
+  {
+   "word": "reptile",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈreptaɪl/",
+   "def_en": "An animal like a snake or lizard.",
+   "def_vi": "Động vật như rắn, thằn lằn.",
+   "gloss_vi": "bò sát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reptile</i> (noun) = bò sát. <b>Grammar</b>: máu lạnh.",
+   "example": {
+    "en": "<b>reptile</b>: e.g. snake, lizard",
+    "vi": "Rắn và thằn lằn là <b>bò sát</b>."
+   }
+  },
+  {
+   "word": "carnivore",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɑːnɪvɔː(r)/",
+   "def_en": "An animal that eats mainly or only meat.",
+   "def_vi": "Động vật ăn chủ yếu thịt.",
+   "gloss_vi": "động vật ăn thịt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "herbivore <i>(n. động vật ăn cỏ)</i>",
+   "grammar_vi": "<i>Carnivore</i> (noun) = động vật ăn thịt. <b>Grammar</b>: <i>carnivorous</i> (adj.).",
+   "example": {
+    "en": "<b>carnivore</b>: animal that eats a diet that is mainly or exclusively meat (e.g. lion, tiger, hyena)",
+    "vi": "Sư tử là <b>động vật ăn thịt</b>."
+   }
+  },
+  {
+   "word": "herbivore",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhɜːbɪvɔː(r)/",
+   "def_en": "An animal that eats mainly or only grass or plants.",
+   "def_vi": "Động vật ăn chủ yếu cỏ, cây.",
+   "gloss_vi": "động vật ăn cỏ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "carnivore <i>(n. động vật ăn thịt)</i>",
+   "grammar_vi": "<i>Herbivore</i> (noun) = động vật ăn cỏ. <b>Grammar</b>: <i>herbivorous</i> (adj.).",
+   "example": {
+    "en": "<b>herbivore</b>: animal that eats a diet that is mainly or exclusively grass/vegetation (e.g. deer, cow)",
+    "vi": "Hươu, bò là <b>động vật ăn cỏ</b>."
+   }
+  },
+  {
+   "word": "predator",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpredətə(r)/",
+   "def_en": "An animal that hunts and eats other animals.",
+   "def_vi": "Động vật săn bắt con khác.",
+   "gloss_vi": "thú săn mồi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "prey <i>(n. con mồi)</i>",
+   "grammar_vi": "<i>Predator</i> (noun) = thú săn mồi. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "<b>predator</b>: animal that hunts/eats other animals (e.g. eagle, lion, shark)",
+    "vi": "Đại bàng, sư tử, cá mập là <b>thú săn mồi</b>."
+   }
+  },
+  {
+   "word": "scavenger",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈskævɪndʒə(r)/",
+   "def_en": "An animal that feeds on dead animals it has not killed itself.",
+   "def_vi": "Động vật ăn xác con khác chết.",
+   "gloss_vi": "loài ăn xác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Scavenger</i> (noun) = loài ăn xác. <b>Grammar</b>: <i>scavenge</i> (v.).",
+   "example": {
+    "en": "<b>scavenger</b>: animal that feeds on dead animals which it has not killed itself",
+    "vi": "<b>Loài ăn xác</b> ăn động vật chết không do nó giết."
+   }
+  },
+  {
+   "word": "warm-blooded",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌwɔːm ˈblʌdɪd/",
+   "def_en": "(Of animals) having a temperature that stays the same.",
+   "def_vi": "(Động vật) có thân nhiệt ổn định.",
+   "gloss_vi": "máu nóng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "cold-blooded <i>(adj. máu lạnh)</i>",
+   "grammar_vi": "<i>Warm-blooded</i> (adjective) = máu nóng. <b>Grammar</b>: tính từ ghép <i>warm</i> + <i>blooded</i>.",
+   "example": {
+    "en": "<b>warm</b>-blooded animals (e.g. mammals) have temperatures that stay the same",
+    "vi": "Động vật <b>máu nóng</b> có thân nhiệt ổn định."
+   }
+  },
+  {
+   "word": "cold-blooded",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌkəʊld ˈblʌdɪd/",
+   "def_en": "(Of animals) needing to take heat from outside to control temperature.",
+   "def_vi": "(Động vật) phải lấy nhiệt từ bên ngoài.",
+   "gloss_vi": "máu lạnh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "warm-blooded <i>(adj. máu nóng)</i>",
+   "grammar_vi": "<i>Cold-blooded</i> (adjective) = máu lạnh. <b>Common mistakes</b>: cũng = tàn nhẫn.",
+   "example": {
+    "en": "<b>cold-blooded</b> animals (e.g. reptiles) have to control their temperature by taking in heat from outside",
+    "vi": "Động vật <b>máu lạnh</b> như bò sát phải lấy nhiệt từ bên ngoài."
+   }
+  },
+  {
+   "word": "docile",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈdəʊsaɪl/",
+   "def_en": "Behaving very gently.",
+   "def_vi": "Rất hiền lành.",
+   "gloss_vi": "hiền lành, dễ bảo",
+   "synonyms": "gentle <i>(adj. hiền)</i>",
+   "antonyms": "fierce <i>(adj. dữ)</i>",
+   "grammar_vi": "<i>Docile</i> (adjective) = hiền lành, dễ bảo. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "Our old cat is a very <b>docile</b> creature.",
+    "vi": "Con mèo già của chúng tôi rất <b>hiền lành</b>."
+   }
+  },
+  {
+   "word": "tame",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/teɪm/",
+   "def_en": "Not afraid of humans, usually because of training.",
+   "def_vi": "Không sợ người, thường do huấn luyện.",
+   "gloss_vi": "đã thuần",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "wild <i>(adj. hoang dã)</i>",
+   "grammar_vi": "<i>Tame</i> (adjective) = đã thuần. <b>Grammar</b>: cũng động từ <i>tame</i>.",
+   "example": {
+    "en": "These birds are so <b>tame</b>, they will sit on your hand.",
+    "vi": "Những con chim này <b>thuần</b> đến mức đậu trên tay bạn."
+   }
+  },
+  {
+   "word": "domesticated",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dəˈmestɪkeɪtɪd/",
+   "def_en": "Living with or used by humans.",
+   "def_vi": "Sống với hay được con người sử dụng.",
+   "gloss_vi": "được thuần hóa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "wild <i>(adj. hoang dã)</i>",
+   "grammar_vi": "<i>Domesticated</i> (adjective) = được thuần hóa. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "Dogs and horses became <b>domesticated</b> thousands of years ago.",
+    "vi": "Chó và ngựa được <b>thuần hóa</b> hàng nghìn năm trước."
+   }
+  },
+  {
+   "word": "savage",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsævɪdʒ/",
+   "def_en": "Extremely violent or wild.",
+   "def_vi": "Cực kỳ hung bạo.",
+   "gloss_vi": "hung dữ",
+   "synonyms": "ferocious <i>(adj. hung tợn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Savage</i> (adjective) = hung dữ. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "A <b>savage</b> wolf killed three of the farmer’s sheep.",
+    "vi": "Một con sói <b>hung dữ</b> giết ba con cừu."
+   }
+  },
+  {
+   "word": "fierce",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/fɪəs/",
+   "def_en": "Behaving aggressively.",
+   "def_vi": "Hung hăng.",
+   "gloss_vi": "dữ tợn",
+   "synonyms": "aggressive <i>(adj. hung hăng)</i>",
+   "antonyms": "docile <i>(adj. hiền)</i>",
+   "grammar_vi": "<i>Fierce</i> (adjective) = dữ tợn. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "A <b>fierce</b> dog guarded the gates.",
+    "vi": "Một con chó <b>dữ tợn</b> canh cổng."
+   }
+  },
+  {
+   "word": "natural habitat",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌnætʃrəl ˈhæbɪtæt/",
+   "def_en": "The preferred natural place for an animal to live and breed.",
+   "def_vi": "Nơi sống, sinh sản tự nhiên.",
+   "gloss_vi": "môi trường sống tự nhiên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Natural habitat</i> (noun) = môi trường sống tự nhiên. <b>Collocations / chunks</b>: cụm danh từ cố định <i>natural habitat</i>.",
+   "example": {
+    "en": "The <b>natural habitat</b> for many species is shrinking.",
+    "vi": "<b>Môi trường sống tự nhiên</b> của nhiều loài đang thu hẹp."
+   }
+  },
+  {
+   "word": "migrate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/maɪˈɡreɪt/",
+   "def_en": "(Of animals) to travel long distances to a different habitat.",
+   "def_vi": "(Động vật) di chuyển xa đến nơi ở khác.",
+   "gloss_vi": "di cư",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Migrate</i> (verb) = di cư. <b>Grammar</b>: <i>migration</i> (n.).",
+   "example": {
+    "en": "The arctic tern is a bird which <b>migrates</b> from the Arctic to the Antarctic.",
+    "vi": "Nhạn biển Bắc Cực <b>di cư</b> từ Bắc Cực đến Nam Cực."
+   }
+  },
+  {
+   "word": "become extinct",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/bɪˌkʌm ɪkˈstɪŋkt/",
+   "def_en": "To die out.",
+   "def_vi": "Chết hết.",
+   "gloss_vi": "tuyệt chủng",
+   "synonyms": "die out <i>(v. biến mất)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Become extinct</i> (verb) = tuyệt chủng. <b>Grammar</b>: <i>extinction</i> (n.).",
+   "example": {
+    "en": "The dodo <b>became extinct</b> in the 17th century.",
+    "vi": "Chim dodo <b>tuyệt chủng</b> vào thế kỷ 17."
+   }
+  },
+  {
+   "word": "game reserve",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡeɪm rɪˌzɜːv/",
+   "def_en": "An area where animals are protected from hunting.",
+   "def_vi": "Vùng động vật được bảo vệ khỏi săn bắn.",
+   "gloss_vi": "khu bảo tồn thú",
+   "synonyms": "game park <i>(n. công viên thú)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Game reserve</i> (noun) = khu bảo tồn thú. <b>Grammar</b>: <i>game</i> = thú bị săn.",
+   "example": {
+    "en": "You can see lots of animals in the big <b>game reserves</b> in Africa.",
+    "vi": "Có nhiều thú ở các <b>khu bảo tồn</b> lớn ở châu Phi."
+   }
+  },
+  {
+   "word": "bird sanctuary",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɜːd ˌsæŋktʃuəri/",
+   "def_en": "A protected natural area where birds can live and breed.",
+   "def_vi": "Khu tự nhiên bảo vệ chim.",
+   "gloss_vi": "khu bảo tồn chim",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bird sanctuary</i> (noun) = khu bảo tồn chim. <b>Collocations / chunks</b>: cụm danh từ cố định <i>bird sanctuary</i>.",
+   "example": {
+    "en": "There is a <b>bird sanctuary</b> near here.",
+    "vi": "Gần đây có một <b>khu bảo tồn chim</b>."
+   }
+  },
+  {
+   "word": "animal shelter",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈænɪml ˌʃeltə(r)/",
+   "def_en": "A place where stray pets are given food and a place to live.",
+   "def_vi": "Nơi cho thú nuôi đi lạc ăn ở.",
+   "gloss_vi": "trại cứu hộ động vật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Animal shelter</i> (noun) = trại cứu hộ động vật. <b>Grammar</b>: cũng <i>animal rescue shelter</i>.",
+   "example": {
+    "en": "We went to the local <b>animal (rescue) shelter</b> to see if we could get a dog there.",
+    "vi": "Chúng tôi đến <b>trại cứu hộ</b> xem có chó không."
+   }
+  },
+  {
+   "word": "stray",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/streɪ/",
+   "def_en": "(Of a pet) having lost its home.",
+   "def_vi": "(Thú nuôi) mất nhà.",
+   "gloss_vi": "đi lạc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stray</i> (adjective) = đi lạc. <b>Grammar</b>: cũng động từ <i>stray</i>.",
+   "example": {
+    "en": "place where <b>stray</b> cats, dogs, etc. are given food",
+    "vi": "Mèo, chó <b>đi lạc</b> được cho ăn ở đó."
+   }
+  },
+  {
+   "word": "blood sports",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈblʌd spɔːts/",
+   "def_en": "Sports whose purpose is to kill or injure animals.",
+   "def_vi": "Môn thể thao giết hay làm thú bị thương.",
+   "gloss_vi": "môn thể thao đẫm máu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Blood sports</i> (noun) = môn thể thao đẫm máu. <b>Collocations / chunks</b>: cụm danh từ cố định <i>blood sports</i>.",
+   "example": {
+    "en": "Many people are opposed to <b>blood sports</b> such as foxhunting and bullfighting.",
+    "vi": "Nhiều người phản đối <b>môn thể thao đẫm máu</b> như săn cáo."
+   }
+  },
+  {
+   "word": "the fur trade",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ðə ˈfɜː treɪd/",
+   "def_en": "The selling of animal furs for clothes.",
+   "def_vi": "Việc bán lông thú làm áo.",
+   "gloss_vi": "ngành buôn lông thú",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The fur trade</i> (noun) = ngành buôn lông thú. <b>Collocations / chunks</b>: cụm danh từ cố định <i>the fur trade</i>.",
+   "example": {
+    "en": "They are opposed to <b>the fur trade</b>.",
+    "vi": "Họ phản đối <b>ngành buôn lông thú</b>."
+   }
+  },
+  {
+   "word": "poacher",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpəʊtʃə(r)/",
+   "def_en": "A person who hunts animals illegally.",
+   "def_vi": "Người săn thú trái phép.",
+   "gloss_vi": "kẻ săn trộm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Poacher</i> (noun) = kẻ săn trộm. <b>Grammar</b>: <i>poach</i> (v.).",
+   "example": {
+    "en": "<b>Poachers</b> kill hundreds of elephants every year.",
+    "vi": "<b>Kẻ săn trộm</b> giết hàng trăm con voi mỗi năm."
+   }
+  },
+  {
+   "word": "the ivory trade",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ði ˈaɪvəri treɪd/",
+   "def_en": "Buying and selling ivory from elephants’ tusks.",
+   "def_vi": "Mua bán ngà voi.",
+   "gloss_vi": "buôn bán ngà voi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The ivory trade</i> (noun) = buôn bán ngà voi. <b>Collocations / chunks</b>: cụm danh từ cố định <i>the ivory trade</i>.",
+   "example": {
+    "en": "Poachers kill hundreds of elephants every year to supply <b>the ivory trade</b>.",
+    "vi": "Kẻ săn trộm giết voi để cung cấp cho <b>buôn bán ngà voi</b>."
+   }
+  },
+  {
+   "word": "animal rights activist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌænɪml ˈraɪts ˌæktɪvɪst/",
+   "def_en": "A person who actively campaigns for the protection and rights of animals.",
+   "def_vi": "Người vận động bảo vệ quyền động vật.",
+   "gloss_vi": "nhà hoạt động vì quyền động vật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Animal rights activist</i> (noun) = nhà hoạt động vì quyền động vật. <b>Collocations / chunks</b>: cụm danh từ cố định <i>animal rights activist</i>.",
+   "example": {
+    "en": "<b>Animal rights activists</b> often demonstrate outside research laboratories.",
+    "vi": "<b>Nhà hoạt động vì quyền động vật</b> biểu tình trước phòng thí nghiệm."
+   }
+  },
+  {
+   "word": "horn",
+   "sense": "animal",
+   "pos": "noun",
+   "ipa": "/hɔːn/",
+   "def_en": "A hard, pointed, often curved part growing from an animal’s head.",
+   "def_vi": "Phần cứng nhọn mọc trên đầu thú.",
+   "gloss_vi": "sừng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Horn</i> (noun) = sừng. <b>Common mistakes</b>: cũng = còi xe.",
+   "example": {
+    "en": "Rhinos are hunted for their <b>horn</b>.",
+    "vi": "Tê giác bị săn lấy <b>sừng</b>."
+   }
+  }
+ ]
+}

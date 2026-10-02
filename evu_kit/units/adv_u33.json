@@ -1,0 +1,456 @@
+{
+ "book": "adv",
+ "unit": 33,
+ "title_vi": "Thế giới đang bị đe dọa",
+ "theory_html": "<p><b>A. Threats and potential threats to the environment</b><br><i>A. Mối đe dọa với môi trường</i></p> <p>Collocations: <b>shrinking habitats, biodiversity, endangered species, climate change sceptics, global warming, polar ice, rising sea levels, climatic changes, carbon (dioxide) emissions, fossil fuels, greenhouse effect, exert severe pressure on</b> (formal), <b>finite resources, ecological balance, uncontrolled deforestation, demographic projections, grow exponentially, depleting resources, waste disposal, toxic waste, contaminate, precious commodity, water security, worst-case scenario, pristine environments, damage</b>.</p><p><i>Kết hợp từ về các mối đe dọa môi trường.</i></p> <p><b>B. Responses to environmental issues and problems</b><br><i>B. Phản ứng với vấn đề môi trường</i></p> <p><b>green credentials, prophets of doom and gloom, sustainable development, renewable energy</b>.</p><p><i><b>uy tín bảo vệ môi trường, kẻ bi quan, phát triển bền vững, năng lượng tái tạo</b>.</i></p> <p><b>CM. Common mistakes</b><br><i>CM. Lỗi thường gặp</i></p> <p>People cause <b>damage</b> to the environment (NOT <b>damages</b>).</p><p><i><b>Damage</b> không đếm được trong nghĩa này.</i></p>",
+ "items": [
+  {
+   "word": "shrinking habitats",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌʃrɪŋkɪŋ ˈhæbɪtæts/",
+   "def_en": "Places where animals live and breed which are decreasing in size.",
+   "def_vi": "Nơi sống của động vật đang thu hẹp.",
+   "gloss_vi": "môi trường sống thu hẹp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shrinking habitats</i> (noun) = môi trường sống thu hẹp. <b>Collocations / chunks</b>: cụm danh từ cố định <i>shrinking habitats</i>.",
+   "example": {
+    "en": "<b>Shrinking habitats</b> are a threat to biodiversity.",
+    "vi": "<b>Môi trường sống thu hẹp</b> đe dọa đa dạng sinh học."
+   }
+  },
+  {
+   "word": "biodiversity",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+   "def_en": "The variety of different types of biological species.",
+   "def_vi": "Sự đa dạng các loài sinh vật.",
+   "gloss_vi": "đa dạng sinh học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Biodiversity</i> (noun) = đa dạng sinh học. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "Shrinking habitats are a threat to <b>biodiversity</b>.",
+    "vi": "Môi trường sống thu hẹp đe dọa <b>đa dạng sinh học</b>."
+   }
+  },
+  {
+   "word": "endangered species",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˌdeɪndʒəd ˈspiːʃiːz/",
+   "def_en": "Types of animals or plants in danger of no longer existing.",
+   "def_vi": "Loài có nguy cơ tuyệt chủng.",
+   "gloss_vi": "loài có nguy cơ tuyệt chủng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Endangered species</i> (noun) = loài có nguy cơ tuyệt chủng. <b>Grammar</b>: <i>species</i> số ít = số nhiều.",
+   "example": {
+    "en": "<b>Endangered species</b> need legal protection if they are to survive.",
+    "vi": "<b>Loài có nguy cơ tuyệt chủng</b> cần được luật bảo vệ."
+   }
+  },
+  {
+   "word": "climate change sceptic",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈklaɪmət tʃeɪndʒ ˌskeptɪk/",
+   "def_en": "A person who does not believe climate change is a serious issue.",
+   "def_vi": "Người không tin biến đổi khí hậu là vấn đề nghiêm trọng.",
+   "gloss_vi": "người hoài nghi biến đổi khí hậu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Climate change sceptic</i> (noun) = người hoài nghi biến đổi khí hậu. <b>Grammar</b>: Mỹ <i>skeptic</i>.",
+   "example": {
+    "en": "Although some <b>climate change sceptics</b> disagree.",
+    "vi": "Dù vài <b>người hoài nghi biến đổi khí hậu</b> không đồng ý."
+   }
+  },
+  {
+   "word": "global warming",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɡləʊbl ˈwɔːmɪŋ/",
+   "def_en": "A steady rise in average world temperatures.",
+   "def_vi": "Nhiệt độ trung bình thế giới tăng dần.",
+   "gloss_vi": "nóng lên toàn cầu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Global warming</i> (noun) = nóng lên toàn cầu. <b>Collocations / chunks</b>: cụm danh từ cố định <i>global warming</i>.",
+   "example": {
+    "en": "Most scientists believe that <b>global warming</b> will increase.",
+    "vi": "Hầu hết nhà khoa học tin <b>nóng lên toàn cầu</b> sẽ tăng."
+   }
+  },
+  {
+   "word": "rising sea levels",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌraɪzɪŋ ˈsiː ˌlevlz/",
+   "def_en": "Sea levels becoming higher.",
+   "def_vi": "Mực nước biển tăng.",
+   "gloss_vi": "nước biển dâng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rising sea levels</i> (noun) = nước biển dâng. <b>Collocations / chunks</b>: cụm danh từ cố định <i>rising sea levels</i>.",
+   "example": {
+    "en": "resulting in <b>rising sea levels</b> and climatic changes",
+    "vi": "Băng tan dẫn đến <b>nước biển dâng</b>."
+   }
+  },
+  {
+   "word": "carbon emissions",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkɑːbən ɪˈmɪʃnz/",
+   "def_en": "Carbon dioxide gas from factories, cars, etc.",
+   "def_vi": "Khí CO2 từ nhà máy, xe cộ.",
+   "gloss_vi": "khí thải carbon",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Carbon emissions</i> (noun) = khí thải carbon. <b>Collocations / chunks</b>: cụm danh từ cố định <i>carbon emissions</i>.",
+   "example": {
+    "en": "<b>Carbon (dioxide) emissions</b> from the burning of fossil fuels are contributing to the greenhouse effect.",
+    "vi": "<b>Khí thải carbon</b> góp phần gây hiệu ứng nhà kính."
+   }
+  },
+  {
+   "word": "fossil fuels",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfɒsl ˌfjuːəlz/",
+   "def_en": "Fuels such as coal and oil.",
+   "def_vi": "Nhiên liệu như than, dầu.",
+   "gloss_vi": "nhiên liệu hóa thạch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "renewable energy <i>(n. năng lượng tái tạo)</i>",
+   "grammar_vi": "<i>Fossil fuels</i> (noun) = nhiên liệu hóa thạch. <b>Collocations / chunks</b>: cụm danh từ cố định <i>fossil fuels</i>.",
+   "example": {
+    "en": "from the burning of <b>fossil fuels</b>",
+    "vi": "Khí thải từ đốt <b>nhiên liệu hóa thạch</b>."
+   }
+  },
+  {
+   "word": "greenhouse effect",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡriːnhaʊs ɪˌfekt/",
+   "def_en": "Warming of the Earth’s surface caused by gases trapping heat.",
+   "def_vi": "Trái Đất nóng lên do khí giữ nhiệt.",
+   "gloss_vi": "hiệu ứng nhà kính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Greenhouse effect</i> (noun) = hiệu ứng nhà kính. <b>Collocations / chunks</b>: cụm danh từ cố định <i>greenhouse effect</i>.",
+   "example": {
+    "en": "are contributing to the <b>greenhouse effect</b>",
+    "vi": "Khí thải góp phần gây <b>hiệu ứng nhà kính</b>."
+   }
+  },
+  {
+   "word": "exert severe pressure on",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪɡˌzɜːt sɪˌvɪə ˈpreʃər ɒn/",
+   "def_en": "To put great pressure on (formal).",
+   "def_vi": "Gây áp lực lớn (trang trọng).",
+   "gloss_vi": "gây áp lực nặng nề lên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Exert severe pressure on</i> (verb) = gây áp lực nặng nề lên. <b>Grammar</b>: trang trọng.",
+   "example": {
+    "en": "Population growth <b>exerts severe pressure on</b> finite resources.",
+    "vi": "Gia tăng dân số <b>gây áp lực nặng nề lên</b> tài nguyên hữu hạn."
+   }
+  },
+  {
+   "word": "finite resources",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌfaɪnaɪt rɪˈzɔːsɪz/",
+   "def_en": "Limited resources that will eventually run out.",
+   "def_vi": "Tài nguyên có hạn sẽ cạn.",
+   "gloss_vi": "tài nguyên hữu hạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Finite resources</i> (noun) = tài nguyên hữu hạn. <b>Grammar</b>: <i>finite</i> /ˈfaɪnaɪt/.",
+   "example": {
+    "en": "Population growth exerts severe pressure on <b>finite resources</b>.",
+    "vi": "Dân số gây áp lực lên <b>tài nguyên hữu hạn</b>."
+   }
+  },
+  {
+   "word": "ecological balance",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌiːkəˌlɒdʒɪkl ˈbæləns/",
+   "def_en": "The balance of natural relationships in the environment.",
+   "def_vi": "Cân bằng các mối quan hệ tự nhiên.",
+   "gloss_vi": "cân bằng sinh thái",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ecological balance</i> (noun) = cân bằng sinh thái. <b>Collocations / chunks</b>: cụm danh từ cố định <i>ecological balance</i>.",
+   "example": {
+    "en": "The <b>ecological balance</b> may be upset by uncontrolled deforestation.",
+    "vi": "<b>Cân bằng sinh thái</b> có thể bị phá vỡ."
+   }
+  },
+  {
+   "word": "uncontrolled deforestation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌʌnkənˌtrəʊld diːˌfɒrɪˈsteɪʃn/",
+   "def_en": "Unrestricted destruction or clearing of forests.",
+   "def_vi": "Phá rừng không kiểm soát.",
+   "gloss_vi": "phá rừng không kiểm soát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Uncontrolled deforestation</i> (noun) = phá rừng không kiểm soát. <b>Collocations / chunks</b>: cụm danh từ cố định <i>uncontrolled deforestation</i>.",
+   "example": {
+    "en": "may be upset by <b>uncontrolled deforestation</b>",
+    "vi": "Cân bằng sinh thái có thể bị <b>phá rừng không kiểm soát</b> phá vỡ."
+   }
+  },
+  {
+   "word": "demographic projections",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdeməˌɡræfɪk prəˈdʒekʃnz/",
+   "def_en": "Forecasts about the population.",
+   "def_vi": "Dự báo về dân số.",
+   "gloss_vi": "dự báo dân số",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Demographic projections</i> (noun) = dự báo dân số. <b>Collocations / chunks</b>: cụm danh từ cố định <i>demographic projections</i>.",
+   "example": {
+    "en": "<b>Demographic projections</b> suggest the world population will continue to grow.",
+    "vi": "<b>Dự báo dân số</b> cho thấy dân số thế giới sẽ tăng."
+   }
+  },
+  {
+   "word": "grow exponentially",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡrəʊ ˌekspəˈnenʃəli/",
+   "def_en": "To grow extremely rapidly.",
+   "def_vi": "Tăng cực nhanh.",
+   "gloss_vi": "tăng theo cấp số nhân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Grow exponentially</i> (verb) = tăng theo cấp số nhân. <b>Grammar</b>: động từ nhiều từ <i>grow exponentially</i>.",
+   "example": {
+    "en": "The world population will continue to <b>grow exponentially</b>.",
+    "vi": "Dân số thế giới sẽ tiếp tục <b>tăng theo cấp số nhân</b>."
+   }
+  },
+  {
+   "word": "depleting resources",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˌpliːtɪŋ rɪˈzɔːsɪz/",
+   "def_en": "Resources that are reducing.",
+   "def_vi": "Tài nguyên đang giảm.",
+   "gloss_vi": "tài nguyên cạn kiệt dần",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Depleting resources</i> (noun) = tài nguyên cạn kiệt dần. <b>Grammar</b>: <i>deplete</i> (v.).",
+   "example": {
+    "en": "putting extra pressure on <b>depleting resources</b>",
+    "vi": "Gây thêm áp lực lên <b>tài nguyên cạn kiệt dần</b>."
+   }
+  },
+  {
+   "word": "waste disposal",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈweɪst dɪˌspəʊzl/",
+   "def_en": "Getting rid of waste.",
+   "def_vi": "Xử lý chất thải.",
+   "gloss_vi": "xử lý chất thải",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Waste disposal</i> (noun) = xử lý chất thải. <b>Collocations / chunks</b>: cụm danh từ cố định <i>waste disposal</i>.",
+   "example": {
+    "en": "<b>Waste disposal</b> is an increasing problem.",
+    "vi": "<b>Xử lý chất thải</b> là vấn đề ngày càng lớn."
+   }
+  },
+  {
+   "word": "toxic waste",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌtɒksɪk ˈweɪst/",
+   "def_en": "Poisonous waste materials.",
+   "def_vi": "Chất thải độc hại.",
+   "gloss_vi": "chất thải độc hại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Toxic waste</i> (noun) = chất thải độc hại. <b>Collocations / chunks</b>: cụm danh từ cố định <i>toxic waste</i>.",
+   "example": {
+    "en": "<b>Toxic waste</b> is contaminating many rivers and seas.",
+    "vi": "<b>Chất thải độc hại</b> đang làm ô nhiễm sông biển."
+   }
+  },
+  {
+   "word": "contaminate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kənˈtæmɪneɪt/",
+   "def_en": "To poison something.",
+   "def_vi": "Làm nhiễm độc.",
+   "gloss_vi": "làm ô nhiễm",
+   "synonyms": "pollute <i>(v. ô nhiễm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Contaminate</i> (verb) = làm ô nhiễm. <b>Grammar</b>: <i>contamination</i> (n.).",
+   "example": {
+    "en": "Toxic waste is <b>contaminating</b> many rivers and seas.",
+    "vi": "Chất thải độc hại đang <b>làm ô nhiễm</b> nhiều sông biển."
+   }
+  },
+  {
+   "word": "precious commodity",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpreʃəs kəˈmɒdəti/",
+   "def_en": "A very valuable substance.",
+   "def_vi": "Thứ rất quý giá.",
+   "gloss_vi": "hàng hóa quý giá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Precious commodity</i> (noun) = hàng hóa quý giá. <b>Collocations / chunks</b>: cụm danh từ cố định <i>precious commodity</i>.",
+   "example": {
+    "en": "Safe water may become an increasingly <b>precious commodity</b>.",
+    "vi": "Nước sạch có thể ngày càng là <b>hàng hóa quý giá</b>."
+   }
+  },
+  {
+   "word": "water security",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɔːtə sɪˌkjʊərəti/",
+   "def_en": "The ability to ensure that a population has safe drinking water.",
+   "def_vi": "Khả năng đảm bảo nước uống an toàn.",
+   "gloss_vi": "an ninh nguồn nước",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Water security</i> (noun) = an ninh nguồn nước. <b>Collocations / chunks</b>: cụm danh từ cố định <i>water security</i>.",
+   "example": {
+    "en": "leading to issues of <b>water security</b>",
+    "vi": "Dẫn đến vấn đề <b>an ninh nguồn nước</b>."
+   }
+  },
+  {
+   "word": "worst-case scenario",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌwɜːst keɪs səˈnɑːriəʊ/",
+   "def_en": "The worst possibility for the future.",
+   "def_vi": "Khả năng xấu nhất trong tương lai.",
+   "gloss_vi": "kịch bản xấu nhất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "best-case scenario <i>(n. kịch bản tốt nhất)</i>",
+   "grammar_vi": "<i>Worst-case scenario</i> (noun) = kịch bản xấu nhất. <b>Collocations / chunks</b>: cụm danh từ cố định <i>worst-case scenario</i>.",
+   "example": {
+    "en": "One of the <b>worst-case scenarios</b> is that there will be no tropical rainforests left by the year 2050.",
+    "vi": "Một trong các <b>kịch bản xấu nhất</b> là không còn rừng mưa."
+   }
+  },
+  {
+   "word": "pristine environment",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌprɪstiːn ɪnˈvaɪrənmənt/",
+   "def_en": "A perfectly clean, untouched, unspoilt area.",
+   "def_vi": "Vùng hoàn toàn nguyên sơ.",
+   "gloss_vi": "môi trường nguyên sơ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pristine environment</i> (noun) = môi trường nguyên sơ. <b>Collocations / chunks</b>: cụm danh từ cố định <i>pristine environment</i>.",
+   "example": {
+    "en": "Our only hope is that <b>pristine environments</b> such as Antarctica can be protected.",
+    "vi": "<b>Môi trường nguyên sơ</b> như Nam Cực cần được bảo vệ."
+   }
+  },
+  {
+   "word": "damage",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdæmɪdʒ/",
+   "def_en": "Harm caused to something.",
+   "def_vi": "Thiệt hại.",
+   "gloss_vi": "thiệt hại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Damage</i> (noun) = thiệt hại. <b>Grammar</b>: KHÔNG dùng <i>damages</i> ở nghĩa này.",
+   "example": {
+    "en": "can be protected from development and <b>damage</b>",
+    "vi": "Bảo vệ khỏi phát triển và <b>thiệt hại</b>."
+   }
+  },
+  {
+   "word": "green credentials",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɡriːn krəˈdenʃlz/",
+   "def_en": "A reputation for positive support of the environment.",
+   "def_vi": "Uy tín ủng hộ môi trường.",
+   "gloss_vi": "uy tín về môi trường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Green credentials</i> (noun) = uy tín về môi trường. <b>Collocations / chunks</b>: cụm danh từ cố định <i>green credentials</i>.",
+   "example": {
+    "en": "Governing party in bid to improve <b>green credentials</b>",
+    "vi": "Đảng cầm quyền cố cải thiện <b>uy tín về môi trường</b>."
+   }
+  },
+  {
+   "word": "prophets of doom and gloom",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌprɒfɪts əv ˌduːm ən ˈɡluːm/",
+   "def_en": "People who always make the most pessimistic predictions.",
+   "def_vi": "Người luôn dự đoán bi quan nhất.",
+   "gloss_vi": "kẻ bi quan",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Prophets of doom and gloom</i> (noun) = kẻ bi quan. <b>Collocations / chunks</b>: cụm danh từ cố định <i>prophets of doom and gloom</i>.",
+   "example": {
+    "en": "<b>Prophets of doom and gloom</b> should listen to scientific evidence.",
+    "vi": "<b>Kẻ bi quan</b> nên nghe bằng chứng khoa học."
+   }
+  },
+  {
+   "word": "sustainable development",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/səˌsteɪnəbl dɪˈveləpmənt/",
+   "def_en": "Development that does not damage the environment and can continue over time.",
+   "def_vi": "Phát triển không hại môi trường, lâu dài.",
+   "gloss_vi": "phát triển bền vững",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sustainable development</i> (noun) = phát triển bền vững. <b>Collocations / chunks</b>: cụm danh từ cố định <i>sustainable development</i>.",
+   "example": {
+    "en": "<b>Sustainable development</b> the only answer for emerging countries.",
+    "vi": "<b>Phát triển bền vững</b> là câu trả lời duy nhất."
+   }
+  },
+  {
+   "word": "renewable energy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˌnjuːəbl ˈenədʒi/",
+   "def_en": "Energy produced from sun, wind or crops rather than fuels that cannot be replaced.",
+   "def_vi": "Năng lượng từ mặt trời, gió, cây trồng.",
+   "gloss_vi": "năng lượng tái tạo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "fossil fuels <i>(n. nhiên liệu hóa thạch)</i>",
+   "grammar_vi": "<i>Renewable energy</i> (noun) = năng lượng tái tạo. <b>Collocations / chunks</b>: cụm danh từ cố định <i>renewable energy</i>.",
+   "example": {
+    "en": "<b>Renewable energy</b> – government develops new strategy",
+    "vi": "<b>Năng lượng tái tạo</b> – chính phủ xây dựng chiến lược mới."
+   }
+  }
+ ]
+}
