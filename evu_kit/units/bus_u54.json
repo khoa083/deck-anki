@@ -1,0 +1,248 @@
+{
+ "book": "bus",
+ "unit": 54,
+ "title_vi": "Thực tập sinh, học viên và người học nghề",
+ "theory_html": "<p><b>A. Interns</b><br><i>A. Thực tập sinh</i></p> <p><b>paid internships, training, hands-on experience, work environment, professional skills, learn from, develop your network, build your confidence, intern, graduate, graduate leadership programme, financial products</b>; <b>work placements / job placements</b>.</p><p><i><b>thực tập có lương, đào tạo, kinh nghiệm thực tế, môi trường làm việc, kỹ năng chuyên môn, học hỏi từ, mở rộng mạng lưới, xây dựng tự tin, thực tập sinh, chương trình lãnh đạo cho người mới tốt nghiệp</b>.</i></p> <p><b>B. Experience or exploitation?</b><br><i>B. Kinh nghiệm hay bóc lột?</i></p> <p><b>menial, range of tasks, exploited (exploitation), unpaid</b>.</p><p><i><b>tầm thường, nhiều loại việc, bị bóc lột, không lương</b>.</i></p> <p><b>C. Trainees and apprentices</b><br><i>C. Học viên và người học nghề</i></p> <p><b>trainees, entry-level jobs, traineeships, apprenticeships, part-time study, apprentices, job-specific skills, vocational qualification</b>.</p><p><i><b>học viên, việc cấp thấp nhất, chương trình đào tạo, học nghề, học bán thời gian, người học nghề, kỹ năng chuyên biệt, bằng nghề</b>.</i></p>",
+ "items": [
+  {
+   "word": "internship",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɪntɜːnʃɪp/",
+   "def_en": "A period of work to gain experience, often while studying.",
+   "def_vi": "Thời gian làm việc lấy kinh nghiệm, thường khi đang học.",
+   "gloss_vi": "kỳ thực tập",
+   "synonyms": "work placement <i>(n. thực tập)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Internship</i> (noun) = kỳ thực tập. <b>Collocations / chunks</b>: <i>paid internship</i>.",
+   "example": {
+    "en": "I checked online for paid <b>internships</b>",
+    "vi": "Tôi tìm các <b>kỳ thực tập</b> có lương trên mạng."
+   }
+  },
+  {
+   "word": "hands-on experience",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌhændz ɒn ɪkˈspɪəriəns/",
+   "def_en": "Practical experience of doing something.",
+   "def_vi": "Kinh nghiệm thực hành.",
+   "gloss_vi": "kinh nghiệm thực tế",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hands-on experience</i> (noun) = kinh nghiệm thực tế. <b>Grammar</b>: tính từ ghép <i>hands-on</i>.",
+   "example": {
+    "en": "gain actual, <b>hands-on experience</b> in a real work environment",
+    "vi": "Có <b>kinh nghiệm thực tế</b> trong môi trường làm việc thật."
+   }
+  },
+  {
+   "word": "work environment",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɜːk ɪnˌvaɪrənmənt/",
+   "def_en": "The place and conditions in which you work.",
+   "def_vi": "Nơi và điều kiện làm việc.",
+   "gloss_vi": "môi trường làm việc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Work environment</i> (noun) = môi trường làm việc. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "in a real <b>work environment</b>",
+    "vi": "Kinh nghiệm thực tế trong <b>môi trường làm việc</b> thật."
+   }
+  },
+  {
+   "word": "develop your network",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪˌveləp jə ˈnetwɜːk/",
+   "def_en": "To increase the number of people you know who can help you.",
+   "def_vi": "Tăng số người quen có thể giúp.",
+   "gloss_vi": "mở rộng mạng lưới quan hệ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Develop your network</i> (verb) = mở rộng mạng lưới quan hệ. <b>Collocations / chunks</b>: <i>network of contacts</i>.",
+   "example": {
+    "en": "<b>develop</b> our <b>network</b> of contacts",
+    "vi": "<b>Mở rộng mạng lưới</b> quan hệ."
+   }
+  },
+  {
+   "word": "build your confidence",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌbɪld jə ˈkɒnfɪdəns/",
+   "def_en": "To become more confident.",
+   "def_vi": "Trở nên tự tin hơn.",
+   "gloss_vi": "xây dựng sự tự tin",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Build your confidence</i> (verb) = xây dựng sự tự tin. <b>Collocations / chunks</b>: cụm cố định.",
+   "example": {
+    "en": "<b>build</b> our <b>confidence</b>",
+    "vi": "<b>Xây dựng sự tự tin</b>."
+   }
+  },
+  {
+   "word": "intern",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɪntɜːn/",
+   "def_en": "A person doing an internship.",
+   "def_vi": "Người đang thực tập.",
+   "gloss_vi": "thực tập sinh",
+   "synonyms": "trainee <i>(n. học viên)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Intern</i> (noun) = thực tập sinh. <b>Grammar</b>: danh từ <i>internship</i>.",
+   "example": {
+    "en": "With my experience as an <b>intern</b>",
+    "vi": "Với kinh nghiệm <b>thực tập sinh</b>, tôi được nhận vào chương trình."
+   }
+  },
+  {
+   "word": "graduate leadership programme",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɡrædʒuət ˈliːdəʃɪp ˌprəʊɡræm/",
+   "def_en": "A training programme for new graduates to become leaders.",
+   "def_vi": "Chương trình đào tạo lãnh đạo cho người mới tốt nghiệp.",
+   "gloss_vi": "chương trình lãnh đạo cho tân cử nhân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Graduate leadership programme</i> (noun) = chương trình lãnh đạo cho tân cử nhân. <b>Grammar</b>: Mỹ <i>program</i>.",
+   "example": {
+    "en": "I was offered a place on HBG’s <b>graduate leadership programme</b>",
+    "vi": "Tôi được nhận vào <b>chương trình lãnh đạo cho tân cử nhân</b> của HBG."
+   }
+  },
+  {
+   "word": "menial",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈmiːniəl/",
+   "def_en": "(Of tasks) ordinary and boring.",
+   "def_vi": "(Việc) tầm thường, nhàm chán.",
+   "gloss_vi": "tầm thường, chân tay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Menial</i> (adjective) = tầm thường, chân tay. <b>Collocations / chunks</b>: <i>menial tasks</i>.",
+   "example": {
+    "en": "some interns say that the tasks they are given to do are very <b>menial</b> − ordinary and boring",
+    "vi": "Vài thực tập sinh nói việc được giao rất <b>tầm thường</b>."
+   }
+  },
+  {
+   "word": "unpaid",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʌnˈpeɪd/",
+   "def_en": "Not receiving any money.",
+   "def_vi": "Không được trả tiền.",
+   "gloss_vi": "không lương",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "paid <i>(adj. có lương)</i>",
+   "grammar_vi": "<i>Unpaid</i> (adjective) = không lương. <b>Grammar</b>: tiền tố <i>un-</i>.",
+   "example": {
+    "en": "some are on very low pay or completely <b>unpaid</b>",
+    "vi": "Một số lương rất thấp hay hoàn toàn <b>không lương</b>."
+   }
+  },
+  {
+   "word": "trainee",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌtreɪˈniː/",
+   "def_en": "An employee in an entry-level job, being trained.",
+   "def_vi": "Nhân viên cấp thấp nhất đang được đào tạo.",
+   "gloss_vi": "học viên, nhân viên tập sự",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trainee</i> (noun) = học viên, nhân viên tập sự. <b>Grammar</b>: danh từ <i>traineeship</i>.",
+   "example": {
+    "en": "<b>Trainees</b> are employees in entry-level jobs",
+    "vi": "<b>Học viên</b> là nhân viên ở việc cấp thấp nhất."
+   }
+  },
+  {
+   "word": "entry-level job",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌentri levl ˈdʒɒb/",
+   "def_en": "The lowest level job in an organization.",
+   "def_vi": "Việc cấp thấp nhất trong tổ chức.",
+   "gloss_vi": "việc cấp thấp nhất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Entry-level job</i> (noun) = việc cấp thấp nhất. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "Trainees are employees in <b>entry-level jobs</b> − the lowest level jobs in an organization.",
+    "vi": "Học viên làm <b>việc cấp thấp nhất</b>."
+   }
+  },
+  {
+   "word": "apprenticeship",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈprentɪʃɪp/",
+   "def_en": "Practical training for a job combined with part-time study.",
+   "def_vi": "Đào tạo thực hành kết hợp học bán thời gian.",
+   "gloss_vi": "học nghề",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Apprenticeship</i> (noun) = học nghề. <b>Grammar</b>: người = <i>apprentice</i>.",
+   "example": {
+    "en": "<b>Apprenticeships</b> combine practical training for a job with part-time study.",
+    "vi": "<b>Học nghề</b> kết hợp đào tạo thực hành và học bán thời gian."
+   }
+  },
+  {
+   "word": "apprentice",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈprentɪs/",
+   "def_en": "A person learning a job by working with experienced employees.",
+   "def_vi": "Người học nghề cùng nhân viên có kinh nghiệm.",
+   "gloss_vi": "người học nghề",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Apprentice</i> (noun) = người học nghề. <b>Grammar</b>: danh từ <i>apprenticeship</i>.",
+   "example": {
+    "en": "<b>Apprentices</b> work with experienced employees, gain job-specific skills",
+    "vi": "<b>Người học nghề</b> làm cùng nhân viên lâu năm."
+   }
+  },
+  {
+   "word": "job-specific skills",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdʒɒb spəˌsɪfɪk ˈskɪlz/",
+   "def_en": "Skills needed for a particular job.",
+   "def_vi": "Kỹ năng cần cho một nghề cụ thể.",
+   "gloss_vi": "kỹ năng chuyên biệt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Job-specific skills</i> (noun) = kỹ năng chuyên biệt. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "gain <b>job-specific skills</b>",
+    "vi": "Họ có <b>kỹ năng chuyên biệt</b> cho công việc."
+   }
+  },
+  {
+   "word": "vocational qualification",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/vəʊˌkeɪʃənl ˌkwɒlɪfɪˈkeɪʃn/",
+   "def_en": "A qualification for a particular job or trade.",
+   "def_vi": "Bằng cấp cho một nghề.",
+   "gloss_vi": "bằng nghề",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Vocational qualification</i> (noun) = bằng nghề. <b>Grammar</b>: <i>vocational</i> = thuộc nghề.",
+   "example": {
+    "en": "and study towards a <b>vocational qualification</b> at the same time",
+    "vi": "Họ học để lấy <b>bằng nghề</b>."
+   }
+  }
+ ]
+}

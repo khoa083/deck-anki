@@ -1,0 +1,232 @@
+{
+ "book": "bus",
+ "unit": 52,
+ "title_vi": "Giao tiếp kinh doanh 2: email",
+ "theory_html": "<p><b>A. Email</b><br><i>A. Email</i></p> <p>Icons: <b>inbox, subject, cc, bcc, fwd / forward, delete, reply, reply to all, attach / attachment / attach to, contact information, contact details, address book, email addresses</b>.</p><p><i><b>hộp thư đến, tiêu đề, đồng gửi, đồng gửi ẩn, chuyển tiếp, xóa, trả lời, trả lời tất cả, đính kèm, thông tin liên hệ, sổ địa chỉ</b>.</i></p> <p><b>B. Email expressions</b><br><i>B. Cách diễn đạt trong email</i></p> <p><b>It was very nice meeting you at…, I hope you had a smooth trip back…, Please find attached…, I’m copying him in on this, I will also forward your details to…, Please don’t hesitate to contact me if you require any further information</b>.</p><p><i><b>Rất vui được gặp bạn tại…; Mong bạn về an toàn; Xin gửi kèm…; Tôi đồng gửi cho anh ấy; Tôi sẽ chuyển thông tin của bạn cho…; Đừng ngại liên hệ nếu cần thêm thông tin</b>.</i></p> <p><b>C. Beginnings and endings</b><br><i>C. Mở đầu và kết thư</i></p> <p><b>formality, deference</b>; beginnings: <b>Dear Sir/Madam, Dear Ms …, Dear …, Hi …</b>; endings: <b>Best regards, Regards, Best wishes, All the best, Best; Yours faithfully</b> (BrE), <b>Yours sincerely</b> (AmE <b>Sincerely</b>), <b>Yours</b>.</p><p><i><b>mức trang trọng, sự tôn trọng; Kính gửi Ông/Bà…; Trân trọng…</b></i></p>",
+ "items": [
+  {
+   "word": "inbox",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɪnbɒks/",
+   "def_en": "The folder containing emails waiting for you to read.",
+   "def_vi": "Thư mục chứa email chờ đọc.",
+   "gloss_vi": "hộp thư đến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Inbox</i> (noun) = hộp thư đến. <b>Grammar</b>: danh từ ghép.",
+   "example": {
+    "en": "<b>inbox</b> contains email waiting for you to read",
+    "vi": "<b>Hộp thư đến</b> chứa email chờ bạn đọc."
+   }
+  },
+  {
+   "word": "subject",
+   "sense": "email topic",
+   "pos": "noun",
+   "ipa": "/ˈsʌbdʒɪkt/",
+   "def_en": "What an email is about.",
+   "def_vi": "Email nói về gì.",
+   "gloss_vi": "tiêu đề",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Subject</i> (noun) = tiêu đề. <b>Collocations / chunks</b>: <i>subject line</i>.",
+   "example": {
+    "en": "<b>subject</b> – what the email is about",
+    "vi": "<b>Tiêu đề</b> – email nói về việc gì."
+   }
+  },
+  {
+   "word": "cc",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌsiː ˈsiː/",
+   "def_en": "To copy an email to someone.",
+   "def_vi": "Gửi bản sao email cho ai.",
+   "gloss_vi": "đồng gửi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cc</i> (verb) = đồng gửi. <b>Grammar</b>: viết tắt <i>carbon copy</i>.",
+   "example": {
+    "en": "<b>cc</b> – copy this email to …",
+    "vi": "<b>Đồng gửi</b> email này cho…"
+   }
+  },
+  {
+   "word": "bcc",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌbiː siː ˈsiː/",
+   "def_en": "To send a blind copy, so others don’t know about it.",
+   "def_vi": "Gửi bản sao ẩn để người khác không biết.",
+   "gloss_vi": "đồng gửi ẩn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bcc</i> (verb) = đồng gửi ẩn. <b>Grammar</b>: viết tắt <i>blind carbon copy</i>.",
+   "example": {
+    "en": "<b>bcc</b> – blind copy this email to … (so that the other people you’re sending the email to don’t know you’re sending this copy)",
+    "vi": "<b>Gửi ẩn</b> để người nhận khác không biết."
+   }
+  },
+  {
+   "word": "forward",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈfɔːwəd/",
+   "def_en": "To send an email you have received to someone else.",
+   "def_vi": "Gửi email đã nhận cho người khác.",
+   "gloss_vi": "chuyển tiếp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Forward</i> (verb) = chuyển tiếp. <b>Grammar</b>: viết tắt <i>fwd</i>.",
+   "example": {
+    "en": "fwd allows you to <b>forward</b> an email – to send an email you have received to someone else",
+    "vi": "Fwd cho phép bạn <b>chuyển tiếp</b> email."
+   }
+  },
+  {
+   "word": "reply to all",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rɪˌplaɪ tʊ ˈɔːl/",
+   "def_en": "To send an answer to the sender plus everyone who received copies.",
+   "def_vi": "Trả lời người gửi và mọi người nhận bản sao.",
+   "gloss_vi": "trả lời tất cả",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reply to all</i> (verb) = trả lời tất cả. <b>Collocations / chunks</b>: cụm cố định.",
+   "example": {
+    "en": "<b>reply to all</b> allows you to send the answer to the person who sent the email, plus all those who received copies of it",
+    "vi": "<b>Trả lời tất cả</b> gửi câu trả lời cho mọi người nhận."
+   }
+  },
+  {
+   "word": "address book",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈdres bʊk/",
+   "def_en": "A place to store the email addresses of people you write to.",
+   "def_vi": "Nơi lưu địa chỉ email.",
+   "gloss_vi": "sổ địa chỉ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Address book</i> (noun) = sổ địa chỉ. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "the <b>address book</b> allows you to store the email addresses of people that you write to",
+    "vi": "<b>Sổ địa chỉ</b> cho phép lưu địa chỉ email."
+   }
+  },
+  {
+   "word": "please find attached",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ˌpliːz ˌfaɪnd əˈtætʃt/",
+   "def_en": "Used in emails to say you are sending a document with it.",
+   "def_vi": "Dùng trong email báo có gửi kèm tài liệu.",
+   "gloss_vi": "xin gửi kèm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Please find attached</i> (cl) = xin gửi kèm. <b>Collocations / chunks</b>: trang trọng.",
+   "example": {
+    "en": "<b>Please find attached</b> a Word document with the specs that I mentioned.",
+    "vi": "<b>Xin gửi kèm</b> tài liệu Word với các thông số."
+   }
+  },
+  {
+   "word": "copy sb in",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkɒpi ... ˈɪn/",
+   "def_en": "To send a copy of an email to someone.",
+   "def_vi": "Gửi bản sao email cho ai.",
+   "gloss_vi": "đồng gửi cho ai",
+   "synonyms": "cc <i>(v. đồng gửi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Copy sb in</i> (verb) = đồng gửi cho ai. <b>Collocations / chunks</b>: <i>copy sb in on sth</i>.",
+   "example": {
+    "en": "I’m <b>copying him in</b> on this.",
+    "vi": "Tôi <b>đồng gửi</b> cho anh ấy email này."
+   }
+  },
+  {
+   "word": "formality",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/fɔːˈmæləti/",
+   "def_en": "The degree of seriousness.",
+   "def_vi": "Mức độ nghiêm túc.",
+   "gloss_vi": "mức độ trang trọng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Formality</i> (noun) = mức độ trang trọng. <b>Grammar</b>: tính từ <i>formal</i>.",
+   "example": {
+    "en": "It’s important to use the right degree of <b>formality</b> – seriousness",
+    "vi": "Cần dùng đúng <b>mức độ trang trọng</b>."
+   }
+  },
+  {
+   "word": "Dear Sir/Madam",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ˌdɪə ˌsɜː ˈmædəm/",
+   "def_en": "A formal beginning used when you don’t know the person’s name.",
+   "def_vi": "Mở đầu trang trọng khi không biết tên.",
+   "gloss_vi": "Kính gửi Ông/Bà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dear Sir/Madam</i> (cl) = Kính gửi Ông/Bà. <b>Collocations / chunks</b>: kết bằng <i>Yours faithfully</i>.",
+   "example": {
+    "en": "<b>Dear Sir/Madam</b> (used when you don’t know the person’s name)",
+    "vi": "<b>Kính gửi Ông/Bà</b> dùng khi không biết tên."
+   }
+  },
+  {
+   "word": "best regards",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ˌbest rɪˈɡɑːdz/",
+   "def_en": "A formal ending in emails.",
+   "def_vi": "Kết thư trang trọng.",
+   "gloss_vi": "trân trọng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Best regards</i> (cl) = trân trọng. <b>Collocations / chunks</b>: trang trọng nhất trong email.",
+   "example": {
+    "en": "<b>Best regards</b>, Regards, Best wishes, All the best, Best",
+    "vi": "Kết thư từ trang trọng đến thân mật: <b>Trân trọng</b>, …"
+   }
+  },
+  {
+   "word": "Yours faithfully",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ˌjɔːz ˈfeɪθfəli/",
+   "def_en": "A formal ending used when you don’t know the person’s name (BrE).",
+   "def_vi": "Kết thư trang trọng khi không biết tên (Anh).",
+   "gloss_vi": "kính thư",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Yours faithfully</i> (cl) = kính thư. <b>Grammar</b>: Anh.",
+   "example": {
+    "en": "<b>Yours faithfully</b> (BrE only) is used in letters and faxes when you don’t know the person’s name",
+    "vi": "<b>Kính thư</b> dùng khi không biết tên người nhận."
+   }
+  },
+  {
+   "word": "Yours sincerely",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ˌjɔːz sɪnˈsɪəli/",
+   "def_en": "A less formal ending used when you know the person’s name.",
+   "def_vi": "Kết thư khi biết tên người nhận.",
+   "gloss_vi": "trân trọng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Yours sincerely</i> (cl) = trân trọng. <b>Grammar</b>: Mỹ <i>Sincerely</i>.",
+   "example": {
+    "en": "<b>Yours sincerely</b> (AmE Sincerely) is less formal",
+    "vi": "<b>Trân trọng</b> ít trang trọng hơn."
+   }
+  }
+ ]
+}
