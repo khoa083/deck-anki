@@ -1,0 +1,409 @@
+{
+ "book": "adv",
+ "unit": 63,
+ "title_vi": "Âm thanh: nghe này!",
+ "theory_html": "<p><b>A. Adjectives indicating lack of sound</b><br><i>A. Tính từ chỉ sự im lặng</i></p> <p><b>silent</b> (without noise or not talking; perhaps unexpectedly quiet; <b>silent films</b>), <b>quiet</b> (without much noise or activity, or not talking much), <b>noiseless(ly)</b>, <b>soundless(ly)</b> (formal/literary, usually adverbs).</p><p><i><b>im lặng</b> (bất ngờ yên lặng; <b>phim câm</b>), <b>yên tĩnh</b> (ít ồn, ít hoạt động, ít nói), <b>không tiếng động</b> (văn chương, thường dùng trạng từ).</i></p> <p><b>B. Verbs for describing specific noises</b><br><i>B. Động từ chỉ âm thanh</i></p> <p><b>slam, squeak, pound, creak, sizzle, ring out, crash, hoot/toot, wail, hammer</b>.</p><p><i><b>đóng sầm, kêu cót két (cao), dội thình thịch, kêu kẽo kẹt, xèo xèo, vang lên, ầm ầm, bóp còi, rú, đập cửa</b>.</i></p> <p><b>C. Some adjectives for noise and silence</b><br><i>C. Tính từ về tiếng ồn và im lặng</i></p> <p><b>eerie, deafening, grating, piercing, high-pitched, inaudible</b>.</p><p><i><b>rợn người, inh tai, chói tai, the thé, cao vút, không nghe được</b>.</i></p> <p><b>D. Fixed expressions</b><br><i>D. Cụm cố định</i></p> <p><b>you could have heard a pin drop, I can’t hear myself think, peace and quiet, as quiet as a mouse</b>.</p><p><i><b>im phăng phắc, ồn đến không nghĩ nổi, yên bình tĩnh lặng, im như chuột</b>.</i></p>",
+ "items": [
+  {
+   "word": "silent",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsaɪlənt/",
+   "def_en": "Without noise or not talking; used for people and things that are perhaps unexpectedly quiet.",
+   "def_vi": "Không tiếng động hay không nói; có thể im lặng bất ngờ.",
+   "gloss_vi": "im lặng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Silent</i> (adjective) = im lặng. <b>Collocations / chunks</b>: <i>remain silent</i>; <i>silent films/movies</i>.",
+   "example": {
+    "en": "They asked him several questions but he remained <b>silent</b>.",
+    "vi": "Họ hỏi vài câu nhưng anh ấy vẫn <b>im lặng</b>."
+   }
+  },
+  {
+   "word": "silent films",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsaɪlənt ˈfɪlmz/",
+   "def_en": "Films made before sound was introduced.",
+   "def_vi": "Phim làm trước khi có tiếng.",
+   "gloss_vi": "phim câm",
+   "synonyms": "silent movies <i>(n. phim câm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Silent films</i> (noun) = phim câm. <b>Collocations / chunks</b>: cụm danh từ cố định <i>silent films/movies</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Charlie Chaplin became famous in <b>silent films</b>.",
+    "vi": "Charlie Chaplin nổi tiếng nhờ <b>phim câm</b>."
+   }
+  },
+  {
+   "word": "quiet",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈkwaɪət/",
+   "def_en": "Without much noise or activity, or not talking much.",
+   "def_vi": "Ít ồn, ít hoạt động, hay ít nói.",
+   "gloss_vi": "yên tĩnh; ít nói",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "noisy <i>(adj. ồn ào)</i>",
+   "grammar_vi": "<i>Quiet</i> (adjective) = yên tĩnh; ít nói. <b>Collocations / chunks</b>: <i>a quiet day / a quiet man</i>.",
+   "example": {
+    "en": "I had a <b>quiet</b> day at work.",
+    "vi": "Hôm nay ở chỗ làm tôi có một ngày <b>yên ả</b>."
+   }
+  },
+  {
+   "word": "noiselessly",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈnɔɪzləsli/",
+   "def_en": "With no sound at all (formal or literary).",
+   "def_vi": "Không một tiếng động (trang trọng, văn chương).",
+   "gloss_vi": "không tiếng động",
+   "synonyms": "soundlessly <i>(adv. lặng lẽ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Noiselessly</i> (adverb) = không tiếng động. <b>Grammar</b>: tính từ <i>noiseless</i>.",
+   "example": {
+    "en": "He closed the door <b>noiselessly</b> behind him.",
+    "vi": "Anh ấy đóng cửa <b>không một tiếng động</b>."
+   }
+  },
+  {
+   "word": "soundlessly",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈsaʊndləsli/",
+   "def_en": "Without sound, indicating an unexpected lack of sound (formal or literary).",
+   "def_vi": "Không tiếng động, bất ngờ im lặng (văn chương).",
+   "gloss_vi": "lặng lẽ, không tiếng động",
+   "synonyms": "noiselessly <i>(adv. không tiếng động)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Soundlessly</i> (adverb) = lặng lẽ, không tiếng động. <b>Grammar</b>: tính từ <i>soundless</i>.",
+   "example": {
+    "en": "The object vanished <b>soundlessly</b> into the night sky.",
+    "vi": "Vật thể biến mất <b>lặng lẽ</b> vào bầu trời đêm."
+   }
+  },
+  {
+   "word": "slam",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/slæm/",
+   "def_en": "To close with a loud bang.",
+   "def_vi": "Đóng với tiếng sầm lớn.",
+   "gloss_vi": "đóng sầm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Slam</i> (verb) = đóng sầm. <b>Grammar</b>: <i>slam – slammed</i>.",
+   "example": {
+    "en": "The door <b>slammed</b> in the strong wind.",
+    "vi": "Cánh cửa <b>đóng sầm</b> trong gió mạnh."
+   }
+  },
+  {
+   "word": "squeak",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/skwiːk/",
+   "def_en": "To make a high, irritating noise.",
+   "def_vi": "Phát tiếng cao, khó chịu.",
+   "gloss_vi": "kêu cót két, kêu chít chít",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Squeak</i> (verb) = kêu cót két, kêu chít chít. <b>Grammar</b>: tính từ <i>squeaky</i>.",
+   "example": {
+    "en": "My bike wheel is <b>squeaking</b>. I need to get some oil.",
+    "vi": "Bánh xe đạp tôi <b>kêu cót két</b>. Tôi cần tra dầu."
+   }
+  },
+  {
+   "word": "pound",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/paʊnd/",
+   "def_en": "To make a dull, beating sound.",
+   "def_vi": "Phát tiếng dội đục, đập nhịp.",
+   "gloss_vi": "dội thình thịch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pound</i> (verb) = dội thình thịch. <b>Collocations / chunks</b>: <i>pound through the walls</i>.",
+   "example": {
+    "en": "We could hear our neighbours’ favourite rock music <b>pounding</b> through the walls.",
+    "vi": "Nghe tiếng nhạc rock nhà hàng xóm <b>dội thình thịch</b> qua tường."
+   }
+  },
+  {
+   "word": "creak",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kriːk/",
+   "def_en": "To make the noise of friction of wood and/or metal.",
+   "def_vi": "Phát tiếng ma sát gỗ hay kim loại.",
+   "gloss_vi": "kêu kẽo kẹt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Creak</i> (verb) = kêu kẽo kẹt. <b>Grammar</b>: tính từ <i>creaky</i>.",
+   "example": {
+    "en": "The old wooden door <b>creaked</b> as I opened it.",
+    "vi": "Cánh cửa gỗ cũ <b>kêu kẽo kẹt</b> khi tôi mở."
+   }
+  },
+  {
+   "word": "sizzle",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈsɪzl/",
+   "def_en": "To make the sound of frying.",
+   "def_vi": "Phát tiếng khi rán.",
+   "gloss_vi": "kêu xèo xèo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sizzle</i> (verb) = kêu xèo xèo. <b>Grammar</b>: từ tượng thanh.",
+   "example": {
+    "en": "The sausages <b>sizzled</b> in the frying pan and smelt delicious.",
+    "vi": "Xúc xích <b>xèo xèo</b> trong chảo, thơm phức."
+   }
+  },
+  {
+   "word": "ring out",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌrɪŋ ˈaʊt/",
+   "def_en": "(Typically of a gunshot) to sound loudly and clearly.",
+   "def_vi": "(Thường tiếng súng) vang lên to, rõ.",
+   "gloss_vi": "vang lên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ring out</i> (verb) = vang lên. <b>Grammar</b>: bất quy tắc <i>ring – rang – rung</i>.",
+   "example": {
+    "en": "A shot <b>rang out</b> and the bird fell from the sky.",
+    "vi": "Một phát súng <b>vang lên</b> và con chim rơi xuống."
+   }
+  },
+  {
+   "word": "crash",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kræʃ/",
+   "def_en": "To make a loud, heavy noise (typically of waves).",
+   "def_vi": "Phát tiếng ầm lớn, nặng (thường sóng).",
+   "gloss_vi": "vỗ ầm ầm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Crash</i> (verb) = vỗ ầm ầm. <b>Collocations / chunks</b>: <i>waves crash on/against</i>.",
+   "example": {
+    "en": "we could hear the waves <b>crashing</b> on the beach below",
+    "vi": "Từ căn nhà, chúng tôi nghe sóng <b>vỗ ầm ầm</b> vào bãi biển."
+   }
+  },
+  {
+   "word": "hoot",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/huːt/",
+   "def_en": "To make the sound of a car horn.",
+   "def_vi": "Phát tiếng còi xe.",
+   "gloss_vi": "bóp còi",
+   "synonyms": "toot <i>(v. bóp còi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hoot</i> (verb) = bóp còi. <b>Collocations / chunks</b>: <i>hoot/toot your horn</i>.",
+   "example": {
+    "en": "He always <b>hoots</b> his horn to let us know he’s arrived.",
+    "vi": "Anh ấy luôn <b>bóp còi</b> báo là đã đến."
+   }
+  },
+  {
+   "word": "wail",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/weɪl/",
+   "def_en": "To make a rising and falling sound.",
+   "def_vi": "Phát tiếng lên xuống.",
+   "gloss_vi": "hú, rú",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wail</i> (verb) = hú, rú. <b>Collocations / chunks</b>: <i>sirens wail</i>.",
+   "example": {
+    "en": "I could hear police car sirens <b>wailing</b> all last night.",
+    "vi": "Tôi nghe còi cảnh sát <b>hú</b> suốt đêm qua."
+   }
+  },
+  {
+   "word": "hammer",
+   "sense": "knock loudly",
+   "pos": "verb",
+   "ipa": "/ˈhæmə(r)/",
+   "def_en": "To knock very loudly and repeatedly.",
+   "def_vi": "Gõ rất to và liên tục.",
+   "gloss_vi": "đập (cửa) thình thình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hammer</i> (verb) = đập (cửa) thình thình. <b>Collocations / chunks</b>: <i>hammer at/on the door</i>.",
+   "example": {
+    "en": "She <b>hammered</b> at the door but nobody answered.",
+    "vi": "Cô ấy <b>đập</b> cửa nhưng không ai trả lời."
+   }
+  },
+  {
+   "word": "eerie",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɪəri/",
+   "def_en": "Rather scary.",
+   "def_vi": "Hơi đáng sợ.",
+   "gloss_vi": "rợn người",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Eerie</i> (adjective) = rợn người. <b>Collocations / chunks</b>: <i>an eerie silence</i>.",
+   "example": {
+    "en": "There was an <b>eerie</b> silence in the old church.",
+    "vi": "Có một sự im lặng <b>rợn người</b> trong nhà thờ cổ."
+   }
+  },
+  {
+   "word": "deafening",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈdefnɪŋ/",
+   "def_en": "Extremely and painfully loud.",
+   "def_vi": "Cực kỳ to, đau tai.",
+   "gloss_vi": "inh tai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Deafening</i> (adjective) = inh tai. <b>Grammar</b>: động từ <i>deafen</i>; <i>deaf</i> = điếc.",
+   "example": {
+    "en": "The noise of the aircraft engines was <b>deafening</b>.",
+    "vi": "Tiếng động cơ máy bay <b>inh tai</b>."
+   }
+  },
+  {
+   "word": "grating",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɡreɪtɪŋ/",
+   "def_en": "Unpleasant, irritating.",
+   "def_vi": "Khó chịu, gây bực.",
+   "gloss_vi": "chói tai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Grating</i> (adjective) = chói tai. <b>Collocations / chunks</b>: <i>a grating voice</i>.",
+   "example": {
+    "en": "He has one of those <b>grating</b> voices that gets on my nerves.",
+    "vi": "Anh ta có giọng <b>chói tai</b> làm tôi bực."
+   }
+  },
+  {
+   "word": "piercing",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈpɪəsɪŋ/",
+   "def_en": "(Of a noise) high and hurting the ears.",
+   "def_vi": "(Âm thanh) cao làm đau tai.",
+   "gloss_vi": "the thé, xé tai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Piercing</i> (adjective) = the thé, xé tai. <b>Collocations / chunks</b>: <i>a piercing scream</i>.",
+   "example": {
+    "en": "She let out a <b>piercing</b> scream and fled as fast as she could.",
+    "vi": "Cô ấy hét lên <b>xé tai</b> rồi chạy thật nhanh."
+   }
+  },
+  {
+   "word": "high-pitched",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌhaɪ ˈpɪtʃt/",
+   "def_en": "Higher than most voices, like a whistle.",
+   "def_vi": "Cao hơn hầu hết giọng, như tiếng huýt.",
+   "gloss_vi": "cao vút, the thé",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "low-pitched <i>(adj. trầm)</i>",
+   "grammar_vi": "<i>High-pitched</i> (adjective) = cao vút, the thé. <b>Grammar</b>: tính từ ghép <i>high</i> + <i>pitched</i>.",
+   "example": {
+    "en": "Zara has a very <b>high-pitched</b> voice; it can be a bit irritating at times.",
+    "vi": "Zara có giọng <b>cao vút</b>; đôi khi hơi khó chịu."
+   }
+  },
+  {
+   "word": "inaudible",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪnˈɔːdəbl/",
+   "def_en": "Impossible to hear.",
+   "def_vi": "Không thể nghe được.",
+   "gloss_vi": "không nghe được",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "audible <i>(adj. nghe được)</i>",
+   "grammar_vi": "<i>Inaudible</i> (adjective) = không nghe được. <b>Grammar</b>: tiền tố <i>in-</i> + <i>audible</i>.",
+   "example": {
+    "en": "The recording was very faint, almost <b>inaudible</b>.",
+    "vi": "Đoạn ghi âm rất nhỏ, gần như <b>không nghe được</b>."
+   }
+  },
+  {
+   "word": "you could have heard a pin drop",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ju kʊd əv ˌhɜːd ə ˈpɪn drɒp/",
+   "def_en": "There was total silence.",
+   "def_vi": "Hoàn toàn im lặng.",
+   "gloss_vi": "im phăng phắc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>You could have heard a pin drop</i> (cl) = im phăng phắc. <b>Collocations / chunks</b>: thành ngữ cố định.",
+   "example": {
+    "en": "Everyone was so shocked and silent, <b>you could have heard a pin drop</b>.",
+    "vi": "Mọi người sốc và im lặng đến mức <b>im phăng phắc</b>."
+   }
+  },
+  {
+   "word": "I can’t hear myself think",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/aɪ ˌkɑːnt ˌhɪə maɪself ˈθɪŋk/",
+   "def_en": "Said when people are making too much noise.",
+   "def_vi": "Nói khi người khác quá ồn.",
+   "gloss_vi": "ồn quá không nghĩ nổi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>I can’t hear myself think</i> (cl) = ồn quá không nghĩ nổi. <b>Collocations / chunks</b>: thành ngữ cố định.",
+   "example": {
+    "en": "Hey, you kids! Be quiet! <b>I can’t hear myself think</b>!",
+    "vi": "Này các cháu! Trật tự! <b>Ồn quá ta không nghĩ nổi</b>!"
+   }
+  },
+  {
+   "word": "peace and quiet",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpiːs ən ˈkwaɪət/",
+   "def_en": "A calm and quiet period, after a noisy time.",
+   "def_vi": "Khoảng thời gian yên tĩnh sau lúc ồn ào.",
+   "gloss_vi": "yên bình tĩnh lặng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Peace and quiet</i> (noun) = yên bình tĩnh lặng. <b>Collocations / chunks</b>: cố định thứ tự <i>peace and quiet</i>.",
+   "example": {
+    "en": "I need <b>peace and quiet</b> after a busy day at work.",
+    "vi": "Tôi cần <b>yên tĩnh</b> sau một ngày bận rộn."
+   }
+  },
+  {
+   "word": "as quiet as a mouse",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əz ˌkwaɪət əz ə ˈmaʊs/",
+   "def_en": "Very quiet indeed.",
+   "def_vi": "Cực kỳ yên lặng.",
+   "gloss_vi": "im như chuột",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As quiet as a mouse</i> (adjective) = im như chuột. <b>Collocations / chunks</b>: so sánh cố định <i>as ... as</i>.",
+   "example": {
+    "en": "You’re <b>as quiet as a mouse</b>! I didn’t hear you come in at all.",
+    "vi": "Bạn <b>im như chuột</b>! Tôi không nghe bạn vào."
+   }
+  }
+ ]
+}
