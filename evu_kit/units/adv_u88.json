@@ -1,0 +1,343 @@
+{
+ "book": "adv",
+ "unit": 88,
+ "title_vi": "Cấu tạo từ và ghép từ",
+ "theory_html": "<p><b>A. Common well-established word parts</b><br><i>A. Thành phần từ gốc Latinh, Hy Lạp</i></p> <p><b>auto-</b> (self: autonomous), <b>bio-</b> (life: biodegradable), <b>cyber-</b> (computers: cybercafé), <b>de-</b> (opposite action: demotivate), <b>mono-</b> (one: monocycle), <b>-graph-</b> (writing: monograph), <b>-gress-</b> (step, go: congress), <b>-ics</b> (area of study: obstetrics), <b>-phon-</b> (sound: phonetics), <b>-ology</b> (study: criminology), <b>pre-</b> (before; opp. <b>post-</b>: prepaid), <b>retro-</b> (back: retroactive), <b>techno-</b> (machines: technophobia), <b>tele-</b> (distance: telepathic). Language help: these cannot be used as freely to form new words as the prefixes/suffixes in Units 86–87.</p><p><i><b>tự, sự sống, máy tính, ngược lại, một, viết, bước đi, ngành học, âm thanh, môn học, trước, lùi, công nghệ, từ xa</b>. Không dùng tự do để tạo từ mới.</i></p> <p><b>B. Blends</b><br><i>B. Từ ghép trộn</i></p> <p>Combining two well-established words: <b>brunch, heliport, smog, motel, webinar, guesstimate, docudrama, breathalyser</b>.</p><p><i>Ghép hai từ: <b>bữa nửa buổi, sân bay trực thăng, khói mù, nhà nghỉ ven đường, hội thảo trực tuyến, ước đoán, phim tài liệu kịch hóa, máy đo nồng độ cồn</b>.</i></p>",
+ "items": [
+  {
+   "word": "autonomous",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɔːˈtɒnəməs/",
+   "def_en": "Self-ruling.",
+   "def_vi": "Tự trị.",
+   "gloss_vi": "tự trị",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Autonomous</i> (adjective) = tự trị. <b>Grammar</b>: <i>auto-</i> = tự; danh từ <i>autonomy</i>.",
+   "example": {
+    "en": "an <b>autonomous</b> region",
+    "vi": "Một vùng <b>tự trị</b>."
+   }
+  },
+  {
+   "word": "biodegradable",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌbaɪəʊdɪˈɡreɪdəbl/",
+   "def_en": "Able to decay naturally.",
+   "def_vi": "Có thể tự phân hủy.",
+   "gloss_vi": "phân hủy sinh học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Biodegradable</i> (adjective) = phân hủy sinh học. <b>Grammar</b>: <i>bio-</i> = sự sống.",
+   "example": {
+    "en": "<b>biodegradable</b> packaging",
+    "vi": "Bao bì <b>phân hủy sinh học</b>."
+   }
+  },
+  {
+   "word": "cybercafé",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsaɪbəkæfeɪ/",
+   "def_en": "A café where customers can use computers and the internet.",
+   "def_vi": "Quán cà phê có máy tính và internet.",
+   "gloss_vi": "quán cà phê internet",
+   "synonyms": "internet café <i>(n. quán net)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cybercafé</i> (noun) = quán cà phê internet. <b>Grammar</b>: <i>cyber-</i> = máy tính.",
+   "ex_kit": true,
+   "example": {
+    "en": "I checked my email in a <b>cybercafé</b>.",
+    "vi": "Tôi kiểm tra email ở một <b>quán cà phê internet</b>."
+   }
+  },
+  {
+   "word": "demotivate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌdiːˈməʊtɪveɪt/",
+   "def_en": "To make someone feel less interested and enthusiastic.",
+   "def_vi": "Làm ai bớt hứng thú.",
+   "gloss_vi": "làm mất động lực",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "motivate <i>(v. tạo động lực)</i>",
+   "grammar_vi": "<i>Demotivate</i> (verb) = làm mất động lực. <b>Grammar</b>: <i>de-</i> = hành động ngược lại.",
+   "ex_kit": true,
+   "example": {
+    "en": "Constant criticism can <b>demotivate</b> staff.",
+    "vi": "Lời chê liên tục có thể <b>làm mất động lực</b> nhân viên."
+   }
+  },
+  {
+   "word": "monocycle",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɒnəʊsaɪkl/",
+   "def_en": "A cycle with just one wheel.",
+   "def_vi": "Xe một bánh.",
+   "gloss_vi": "xe đạp một bánh",
+   "synonyms": "unicycle <i>(n. xe một bánh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Monocycle</i> (noun) = xe đạp một bánh. <b>Grammar</b>: <i>mono-</i> = một.",
+   "ex_kit": true,
+   "example": {
+    "en": "The clown rode a <b>monocycle</b>.",
+    "vi": "Diễn viên xiếc đi <b>xe một bánh</b>."
+   }
+  },
+  {
+   "word": "monograph",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɒnəɡrɑːf/",
+   "def_en": "A long article or short book on a single subject that the writer has studied for a long time.",
+   "def_vi": "Bài dài hay sách ngắn về một chủ đề đã nghiên cứu lâu.",
+   "gloss_vi": "chuyên khảo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Monograph</i> (noun) = chuyên khảo. <b>Grammar</b>: <i>-graph-</i> = viết.",
+   "ex_kit": true,
+   "example": {
+    "en": "She published a <b>monograph</b> on the plants of the region.",
+    "vi": "Bà ấy xuất bản một <b>chuyên khảo</b> về hệ thực vật vùng này."
+   }
+  },
+  {
+   "word": "congress",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɒŋɡres/",
+   "def_en": "A conference, i.e. a meeting where people come together.",
+   "def_vi": "Hội nghị, nơi người ta tụ họp.",
+   "gloss_vi": "đại hội, hội nghị",
+   "synonyms": "conference <i>(n. hội nghị)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Congress</i> (noun) = đại hội, hội nghị. <b>Grammar</b>: <i>-gress-</i> = bước đi.",
+   "ex_kit": true,
+   "example": {
+    "en": "Thousands of doctors attended the medical <b>congress</b>.",
+    "vi": "Hàng nghìn bác sĩ dự <b>hội nghị</b> y khoa."
+   }
+  },
+  {
+   "word": "obstetrics",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əbˈstetrɪks/",
+   "def_en": "The study of pregnancy and childbirth.",
+   "def_vi": "Ngành nghiên cứu thai sản.",
+   "gloss_vi": "sản khoa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Obstetrics</i> (noun) = sản khoa. <b>Grammar</b>: <i>-ics</i> = ngành học; danh từ số ít.",
+   "ex_kit": true,
+   "example": {
+    "en": "She specialises in <b>obstetrics</b>.",
+    "vi": "Cô ấy chuyên về <b>sản khoa</b>."
+   }
+  },
+  {
+   "word": "phonetics",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/fəˈnetɪks/",
+   "def_en": "The study of human speech sounds.",
+   "def_vi": "Ngành nghiên cứu âm thanh lời nói.",
+   "gloss_vi": "ngữ âm học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Phonetics</i> (noun) = ngữ âm học. <b>Grammar</b>: <i>-phon-</i> = âm thanh.",
+   "ex_kit": true,
+   "example": {
+    "en": "He studied <b>phonetics</b> at university.",
+    "vi": "Anh ấy học <b>ngữ âm học</b> ở đại học."
+   }
+  },
+  {
+   "word": "criminology",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkrɪmɪˈnɒlədʒi/",
+   "def_en": "The study of crime and criminals.",
+   "def_vi": "Ngành nghiên cứu tội phạm.",
+   "gloss_vi": "tội phạm học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Criminology</i> (noun) = tội phạm học. <b>Grammar</b>: <i>-ology</i> = môn học.",
+   "ex_kit": true,
+   "example": {
+    "en": "She has a degree in <b>criminology</b>.",
+    "vi": "Cô ấy có bằng <b>tội phạm học</b>."
+   }
+  },
+  {
+   "word": "prepaid",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌpriːˈpeɪd/",
+   "def_en": "Paid for in advance.",
+   "def_vi": "Trả trước.",
+   "gloss_vi": "trả trước",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Prepaid</i> (adjective) = trả trước. <b>Grammar</b>: <i>pre-</i> = trước (ngược <i>post-</i>).",
+   "example": {
+    "en": "<b>prepaid</b> tickets",
+    "vi": "Vé <b>trả trước</b>."
+   }
+  },
+  {
+   "word": "retroactive",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌretrəʊˈæktɪv/",
+   "def_en": "Taking effect from a date in the past.",
+   "def_vi": "Có hiệu lực từ một ngày trong quá khứ.",
+   "gloss_vi": "hồi tố",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Retroactive</i> (adjective) = hồi tố. <b>Grammar</b>: <i>retro-</i> = lùi lại.",
+   "example": {
+    "en": "<b>retroactive</b> law",
+    "vi": "Luật <b>hồi tố</b>."
+   }
+  },
+  {
+   "word": "technophobia",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌteknəˈfəʊbiə/",
+   "def_en": "Fear of using technology such as computers.",
+   "def_vi": "Sợ dùng công nghệ như máy tính.",
+   "gloss_vi": "chứng sợ công nghệ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Technophobia</i> (noun) = chứng sợ công nghệ. <b>Grammar</b>: <i>techno-</i> + <i>-phobia</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "My grandfather suffers from <b>technophobia</b>.",
+    "vi": "Ông tôi mắc <b>chứng sợ công nghệ</b>."
+   }
+  },
+  {
+   "word": "telepathic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌtelɪˈpæθɪk/",
+   "def_en": "Feeling something from a distance.",
+   "def_vi": "Cảm nhận điều gì từ xa.",
+   "gloss_vi": "thần giao cách cảm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Telepathic</i> (adjective) = thần giao cách cảm. <b>Grammar</b>: <i>tele-</i> = từ xa; danh từ <i>telepathy</i>.",
+   "example": {
+    "en": "<b>telepathic</b> experience",
+    "vi": "Một trải nghiệm <b>thần giao cách cảm</b>."
+   }
+  },
+  {
+   "word": "brunch",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/brʌntʃ/",
+   "def_en": "A meal that is a combination of breakfast and lunch.",
+   "def_vi": "Bữa kết hợp sáng và trưa.",
+   "gloss_vi": "bữa nửa buổi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Brunch</i> (noun) = bữa nửa buổi. <b>Grammar</b>: ghép <i>breakfast</i> + <i>lunch</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We have <b>brunch</b> on Sundays.",
+    "vi": "Chủ nhật chúng tôi ăn <b>bữa nửa buổi</b>."
+   }
+  },
+  {
+   "word": "heliport",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhelipɔːt/",
+   "def_en": "A place where helicopters can land and take off.",
+   "def_vi": "Nơi trực thăng cất hạ cánh.",
+   "gloss_vi": "sân bay trực thăng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Heliport</i> (noun) = sân bay trực thăng. <b>Grammar</b>: ghép <i>helicopter</i> + <i>airport</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The hospital has a <b>heliport</b> on the roof.",
+    "vi": "Bệnh viện có <b>sân bay trực thăng</b> trên nóc."
+   }
+  },
+  {
+   "word": "smog",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/smɒɡ/",
+   "def_en": "Polluted fog.",
+   "def_vi": "Sương mù ô nhiễm.",
+   "gloss_vi": "khói mù",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Smog</i> (noun) = khói mù. <b>Grammar</b>: ghép <i>smoke</i> + <i>fog</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The city was covered in <b>smog</b>.",
+    "vi": "Thành phố bị <b>khói mù</b> bao phủ."
+   }
+  },
+  {
+   "word": "motel",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/məʊˈtel/",
+   "def_en": "A roadside hotel for people travelling by car.",
+   "def_vi": "Khách sạn ven đường cho người đi ô tô.",
+   "gloss_vi": "nhà nghỉ ven đường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Motel</i> (noun) = nhà nghỉ ven đường. <b>Grammar</b>: ghép <i>motor</i> + <i>hotel</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We stayed the night at a <b>motel</b>.",
+    "vi": "Chúng tôi nghỉ đêm ở một <b>nhà nghỉ ven đường</b>."
+   }
+  },
+  {
+   "word": "guesstimate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡestɪmət/",
+   "def_en": "An approximate calculation.",
+   "def_vi": "Phép tính ước chừng.",
+   "gloss_vi": "sự ước đoán",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Guesstimate</i> (noun) = sự ước đoán. <b>Grammar</b>: ghép <i>guess</i> + <i>estimate</i>; động từ <i>to guesstimate</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "It’s only a <b>guesstimate</b>.",
+    "vi": "Đây chỉ là <b>ước đoán</b> thôi."
+   }
+  },
+  {
+   "word": "docudrama",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdɒkjuˌdrɑːmə/",
+   "def_en": "A TV programme that dramatises real historical events.",
+   "def_vi": "Chương trình TV kịch hóa sự kiện lịch sử thật.",
+   "gloss_vi": "phim tài liệu kịch hóa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Docudrama</i> (noun) = phim tài liệu kịch hóa. <b>Grammar</b>: ghép <i>documentary</i> + <i>drama</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "There was a <b>docudrama</b> about the war last night.",
+    "vi": "Tối qua có một <b>phim tài liệu kịch hóa</b> về chiến tranh."
+   }
+  }
+ ]
+}

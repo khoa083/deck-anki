@@ -1,0 +1,512 @@
+{
+ "book": "adv",
+ "unit": 90,
+ "title_vi": "Những từ dễ nhầm lẫn",
+ "theory_html": "<p><b>A. Words similar in form and close in meaning</b><br><i>A. Từ giống hình thức, gần nghĩa</i></p> <p><b>intervene</b> (neutral) vs <b>interfere</b> (negative); <b>continually</b> (very frequently, often negative) vs <b>continuously</b> (without stopping); <b>series</b> (set of related programmes) vs <b>serial</b> (story continues); <b>in the shade of</b> (pleasant) vs <b>shadows / in the shadow of</b> (negative); <b>compliment</b> (praise) vs <b>complement</b> (make better in combination).</p><p><i><b>can thiệp</b> vs <b>xen vào</b>; <b>liên tục (lặp)</b> vs <b>liên tục (không ngừng)</b>; <b>loạt chương trình</b> vs <b>phim nhiều tập</b>; <b>bóng râm</b> vs <b>cái bóng / dưới bóng</b>; <b>khen</b> vs <b>bổ sung</b>.</i></p> <p><b>B. Words of different form, same area of meaning</b><br><i>B. Từ khác hình thức, cùng trường nghĩa</i></p> <p><b>moist</b> (slightly wet) vs <b>damp</b> (unpleasantly wet); <b>theme</b> vs <b>topic</b>; <b>security</b> (protection of property) vs <b>safety</b> (prevention of accidents); <b>avoid</b> vs <b>evade</b> (escape; more formal).</p><p><i><b>ẩm (dễ chịu)</b> vs <b>ẩm thấp</b>; <b>chủ đề chính</b> vs <b>đề tài</b>; <b>an ninh</b> vs <b>an toàn</b>; <b>tránh</b> vs <b>né tránh</b>.</i></p> <p><b>C. Phrasal combinations</b><br><i>C. Kết hợp với tiểu từ</i></p> <p>Verb vs noun: <b>break out – breakout / outbreak, look out – outlook / lookout, set up – setup</b>. Particle first vs second: <b>upend / end up, uphold / hold up, outdo / do out, outrun / run out, upset / set up</b>. Language help: prepositions as prefixes (<b>overcook, overcome, input, income</b>).</p><p><i>Động từ vs danh từ; tiểu từ đứng trước vs sau mang nghĩa khác.</i></p>",
+ "items": [
+  {
+   "word": "intervene",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɪntəˈviːn/",
+   "def_en": "To step in (neutral in meaning).",
+   "def_vi": "Can thiệp (trung tính).",
+   "gloss_vi": "can thiệp",
+   "synonyms": "step in <i>(v. can thiệp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Intervene</i> (verb) = can thiệp. <b>Grammar</b>: trung tính; danh từ <i>intervention</i>.",
+   "example": {
+    "en": "The United Nations should <b>intervene</b> to stop the civil war.",
+    "vi": "Liên Hợp Quốc nên <b>can thiệp</b> để chấm dứt nội chiến."
+   }
+  },
+  {
+   "word": "interfere",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɪntəˈfɪə(r)/",
+   "def_en": "To involve yourself (negative and critical).",
+   "def_vi": "Xen vào (tiêu cực).",
+   "gloss_vi": "xen vào, can thiệp",
+   "synonyms": "meddle <i>(v. xía vào)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Interfere</i> (verb) = xen vào, can thiệp. <b>Grammar</b>: tiêu cực; <i>interfere in/with</i>.",
+   "example": {
+    "en": "She shouldn’t <b>interfere</b> in things that don’t concern her.",
+    "vi": "Cô ấy không nên <b>xen vào</b> chuyện không liên quan."
+   }
+  },
+  {
+   "word": "continually",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/kənˈtɪnjuəli/",
+   "def_en": "Very frequently (often negative).",
+   "def_vi": "Rất thường xuyên (thường tiêu cực).",
+   "gloss_vi": "liên tục, suốt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Continually</i> (adverb) = liên tục, suốt. <b>Grammar</b>: lặp đi lặp lại; khác <i>continuously</i>.",
+   "example": {
+    "en": "The phone’s been ringing <b>continually</b>. It’s driving me crazy.",
+    "vi": "Điện thoại reo <b>liên tục</b>. Làm tôi phát điên."
+   }
+  },
+  {
+   "word": "continuously",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/kənˈtɪnjuəsli/",
+   "def_en": "Without stopping.",
+   "def_vi": "Không ngừng.",
+   "gloss_vi": "không ngừng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Continuously</i> (adverb) = không ngừng. <b>Grammar</b>: không gián đoạn; khác <i>continually</i>.",
+   "example": {
+    "en": "Stir the mixture <b>continuously</b> until it boils.",
+    "vi": "Khuấy hỗn hợp <b>không ngừng</b> cho đến khi sôi."
+   }
+  },
+  {
+   "word": "series",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɪəriːz/",
+   "def_en": "A set of related programmes.",
+   "def_vi": "Loạt chương trình liên quan.",
+   "gloss_vi": "loạt chương trình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Series</i> (noun) = loạt chương trình. <b>Grammar</b>: số ít và số nhiều giống nhau.",
+   "example": {
+    "en": "There’s a new <b>series</b> on TV about space exploration.",
+    "vi": "Có một <b>loạt chương trình</b> mới về thám hiểm vũ trụ."
+   }
+  },
+  {
+   "word": "serial",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɪəriəl/",
+   "def_en": "A set of programmes where the story continues over different episodes.",
+   "def_vi": "Loạt chương trình có cốt truyện tiếp nối.",
+   "gloss_vi": "phim nhiều tập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Serial</i> (noun) = phim nhiều tập. <b>Grammar</b>: khác <i>series</i> (mỗi tập độc lập).",
+   "example": {
+    "en": "It’s a <b>serial</b> – if I miss one, I’ll lose track of the story.",
+    "vi": "Đó là <b>phim nhiều tập</b> – lỡ một tập là mất mạch truyện."
+   }
+  },
+  {
+   "word": "in the shade of",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ɪn ðə ˈʃeɪd əv/",
+   "def_en": "Out of the sun (pleasant connotation).",
+   "def_vi": "Tránh nắng (nghĩa tích cực).",
+   "gloss_vi": "dưới bóng râm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In the shade of</i> (preposition) = dưới bóng râm. <b>Grammar</b>: nghĩa dễ chịu; khác <i>shadow</i>.",
+   "example": {
+    "en": "We sat <b>in the shade of</b> a big oak tree.",
+    "vi": "Chúng tôi ngồi <b>dưới bóng râm</b> một cây sồi lớn."
+   }
+  },
+  {
+   "word": "shadows",
+   "sense": "dark shapes",
+   "pos": "noun",
+   "ipa": "/ˈʃædəʊz/",
+   "def_en": "Dark areas or shapes.",
+   "def_vi": "Vùng hay hình tối.",
+   "gloss_vi": "cái bóng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shadows</i> (noun) = cái bóng. <b>Collocations / chunks</b>: <i>cast a shadow</i>.",
+   "example": {
+    "en": "The evening sun cast long <b>shadows</b>.",
+    "vi": "Nắng chiều đổ những <b>cái bóng</b> dài."
+   }
+  },
+  {
+   "word": "in the shadow of",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ɪn ðə ˈʃædəʊ əv/",
+   "def_en": "In a place dominated by (negative connotation).",
+   "def_vi": "Ở nơi bị thứ gì chi phối (tiêu cực).",
+   "gloss_vi": "dưới cái bóng của",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In the shadow of</i> (preposition) = dưới cái bóng của. <b>Grammar</b>: nghĩa tiêu cực.",
+   "example": {
+    "en": "They lived <b>in the shadow of</b> a chemical factory.",
+    "vi": "Họ sống <b>dưới cái bóng của</b> một nhà máy hóa chất."
+   }
+  },
+  {
+   "word": "compliment",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈkɒmplɪment/",
+   "def_en": "To praise, express admiration for.",
+   "def_vi": "Khen, bày tỏ ngưỡng mộ.",
+   "gloss_vi": "khen ngợi",
+   "synonyms": "praise <i>(v. khen)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Compliment</i> (verb) = khen ngợi. <b>Grammar</b>: <i>compliment sb on sth</i>; khác <i>complement</i>.",
+   "example": {
+    "en": "She <b>complimented</b> me on my performance at the concert.",
+    "vi": "Cô ấy <b>khen</b> tôi về màn trình diễn ở buổi hòa nhạc."
+   }
+  },
+  {
+   "word": "moist",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/mɔɪst/",
+   "def_en": "Slightly wet.",
+   "def_vi": "Hơi ướt.",
+   "gloss_vi": "ẩm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "dry <i>(adj. khô)</i>",
+   "grammar_vi": "<i>Moist</i> (adjective) = ẩm. <b>Grammar</b>: thường tích cực (đồ ăn).",
+   "example": {
+    "en": "The cake mixture should be <b>moist</b> but not sticky.",
+    "vi": "Hỗn hợp bánh nên <b>ẩm</b> nhưng không dính."
+   }
+  },
+  {
+   "word": "damp",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dæmp/",
+   "def_en": "Slightly wet in an unpleasant way.",
+   "def_vi": "Hơi ướt, khó chịu.",
+   "gloss_vi": "ẩm thấp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Damp</i> (adjective) = ẩm thấp. <b>Grammar</b>: nghĩa tiêu cực; khác <i>moist</i>.",
+   "example": {
+    "en": "The climate in the north is <b>damp</b> and rather cold.",
+    "vi": "Khí hậu phía bắc <b>ẩm thấp</b> và khá lạnh."
+   }
+  },
+  {
+   "word": "theme",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/θiːm/",
+   "def_en": "The main idea that everything followed.",
+   "def_vi": "Ý chính mọi thứ xoay quanh.",
+   "gloss_vi": "chủ đề chính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Theme</i> (noun) = chủ đề chính. <b>Grammar</b>: khác <i>topic</i>.",
+   "example": {
+    "en": "The <b>theme</b> of the festival was ‘1,000 years of culture’.",
+    "vi": "<b>Chủ đề</b> lễ hội là ‘1.000 năm văn hóa’."
+   }
+  },
+  {
+   "word": "topic",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtɒpɪk/",
+   "def_en": "What people talk about.",
+   "def_vi": "Điều mọi người nói về.",
+   "gloss_vi": "đề tài",
+   "synonyms": "subject <i>(n. chủ đề)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Topic</i> (noun) = đề tài. <b>Collocations / chunks</b>: <i>topic of conversation</i>.",
+   "example": {
+    "en": "The <b>topic</b> of conversation soon changed to the news.",
+    "vi": "<b>Đề tài</b> câu chuyện nhanh chóng chuyển sang thời sự."
+   }
+  },
+  {
+   "word": "security",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/sɪˈkjʊərəti/",
+   "def_en": "Protection of property, people, etc.",
+   "def_vi": "Bảo vệ tài sản, con người.",
+   "gloss_vi": "an ninh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Security</i> (noun) = an ninh. <b>Grammar</b>: khác <i>safety</i> (phòng tai nạn).",
+   "example": {
+    "en": "The <b>security</b> officer noticed a broken window.",
+    "vi": "Nhân viên <b>an ninh</b> phát hiện cửa sổ vỡ."
+   }
+  },
+  {
+   "word": "safety",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈseɪfti/",
+   "def_en": "Prevention of accidents.",
+   "def_vi": "Phòng ngừa tai nạn.",
+   "gloss_vi": "an toàn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Safety</i> (noun) = an toàn. <b>Grammar</b>: khác <i>security</i> (bảo vệ tài sản).",
+   "example": {
+    "en": "The <b>safety</b> officer told him that he must wear a helmet.",
+    "vi": "Cán bộ <b>an toàn</b> bảo anh ấy phải đội mũ."
+   }
+  },
+  {
+   "word": "avoid",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈvɔɪd/",
+   "def_en": "To stay away from.",
+   "def_vi": "Tránh xa.",
+   "gloss_vi": "tránh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Avoid</i> (verb) = tránh. <b>Grammar</b>: + V-ing.",
+   "example": {
+    "en": "We took a smaller road in order to <b>avoid</b> the roadworks on the motorway.",
+    "vi": "Chúng tôi đi đường nhỏ để <b>tránh</b> công trình trên cao tốc."
+   }
+  },
+  {
+   "word": "evade",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪˈveɪd/",
+   "def_en": "To escape from (more formal).",
+   "def_vi": "Trốn thoát (trang trọng hơn).",
+   "gloss_vi": "né tránh, lẩn trốn",
+   "synonyms": "escape <i>(v. trốn thoát)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Evade</i> (verb) = né tránh, lẩn trốn. <b>Collocations / chunks</b>: <i>evade capture/tax</i>; danh từ <i>evasion</i>.",
+   "example": {
+    "en": "The escaped prisoner <b>evaded</b> capture for three months.",
+    "vi": "Tù vượt ngục <b>lẩn trốn</b> được ba tháng."
+   }
+  },
+  {
+   "word": "breakout",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbreɪkaʊt/",
+   "def_en": "An escape from prison.",
+   "def_vi": "Vụ vượt ngục.",
+   "gloss_vi": "vụ vượt ngục",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Breakout</i> (noun) = vụ vượt ngục. <b>Grammar</b>: động từ <i>break out of</i>.",
+   "example": {
+    "en": "There was a <b>breakout</b> at the prison.",
+    "vi": "Đã có một <b>vụ vượt ngục</b> ở nhà tù."
+   }
+  },
+  {
+   "word": "outbreak",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈaʊtbreɪk/",
+   "def_en": "A sudden start of a disease, war, etc.",
+   "def_vi": "Sự bùng phát đột ngột (dịch, chiến tranh).",
+   "gloss_vi": "sự bùng phát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Outbreak</i> (noun) = sự bùng phát. <b>Grammar</b>: động từ <i>break out</i>.",
+   "example": {
+    "en": "There has been an <b>outbreak</b> of the disease in several villages in the north of the country.",
+    "vi": "Có <b>đợt bùng phát</b> dịch ở vài làng phía bắc."
+   }
+  },
+  {
+   "word": "outlook",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈaʊtlʊk/",
+   "def_en": "The likely future situation.",
+   "def_vi": "Tình hình tương lai có thể xảy ra.",
+   "gloss_vi": "triển vọng",
+   "synonyms": "prospect <i>(n. triển vọng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Outlook</i> (noun) = triển vọng. <b>Grammar</b>: động từ <i>look out for</i>.",
+   "example": {
+    "en": "The <b>outlook</b> is not good. The economy seems to be stagnant.",
+    "vi": "<b>Triển vọng</b> không tốt. Kinh tế đang trì trệ."
+   }
+  },
+  {
+   "word": "lookout",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlʊkaʊt/",
+   "def_en": "A person who watches for danger.",
+   "def_vi": "Người canh chừng nguy hiểm.",
+   "gloss_vi": "người canh gác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lookout</i> (noun) = người canh gác. <b>Grammar</b>: động từ <i>look out for</i>.",
+   "example": {
+    "en": "He was the <b>lookout</b> while the others robbed the bank.",
+    "vi": "Anh ta là <b>người canh gác</b> trong khi đồng bọn cướp ngân hàng."
+   }
+  },
+  {
+   "word": "setup",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsetʌp/",
+   "def_en": "The way something is organised.",
+   "def_vi": "Cách tổ chức.",
+   "gloss_vi": "cơ cấu tổ chức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Setup</i> (noun) = cơ cấu tổ chức. <b>Grammar</b>: động từ <i>set up</i>.",
+   "example": {
+    "en": "The company <b>setup</b> is quite complex, with branches in 30 different countries.",
+    "vi": "<b>Cơ cấu</b> công ty khá phức tạp, chi nhánh ở 30 nước."
+   }
+  },
+  {
+   "word": "upend",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ʌpˈend/",
+   "def_en": "To move into a vertical position.",
+   "def_vi": "Dựng đứng lên.",
+   "gloss_vi": "dựng ngược",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Upend</i> (verb) = dựng ngược. <b>Grammar</b>: khác <i>end up</i> (rốt cuộc).",
+   "ex_kit": true,
+   "example": {
+    "en": "They <b>upended</b> the table to clean the floor.",
+    "vi": "Họ <b>dựng ngược</b> cái bàn để lau sàn."
+   }
+  },
+  {
+   "word": "end up",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌend ˈʌp/",
+   "def_en": "To finish (in a place or situation).",
+   "def_vi": "Kết thúc (ở đâu, tình huống nào).",
+   "gloss_vi": "rốt cuộc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>End up</i> (verb) = rốt cuộc. <b>Grammar</b>: + V-ing; khác <i>upend</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We <b>ended up</b> having dinner at home.",
+    "vi": "Chúng tôi <b>rốt cuộc</b> ăn tối ở nhà."
+   }
+  },
+  {
+   "word": "hold up",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌhəʊld ˈʌp/",
+   "def_en": "To delay.",
+   "def_vi": "Làm chậm.",
+   "gloss_vi": "làm chậm trễ",
+   "synonyms": "delay <i>(v. trì hoãn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hold up</i> (verb) = làm chậm trễ. <b>Grammar</b>: khác <i>uphold</i> (ủng hộ).",
+   "ex_kit": true,
+   "example": {
+    "en": "I was <b>held up</b> in traffic.",
+    "vi": "Tôi bị <b>kẹt</b> xe trên đường."
+   }
+  },
+  {
+   "word": "outdo",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌaʊtˈduː/",
+   "def_en": "To do better than.",
+   "def_vi": "Làm tốt hơn.",
+   "gloss_vi": "vượt mặt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Outdo</i> (verb) = vượt mặt. <b>Grammar</b>: khác <i>do out</i> (trang trí).",
+   "ex_kit": true,
+   "example": {
+    "en": "The two brothers are always trying to <b>outdo</b> each other.",
+    "vi": "Hai anh em luôn cố <b>vượt mặt</b> nhau."
+   }
+  },
+  {
+   "word": "do out",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌduː ˈaʊt/",
+   "def_en": "To decorate.",
+   "def_vi": "Trang trí.",
+   "gloss_vi": "trang trí lại",
+   "synonyms": "decorate <i>(v. trang trí)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Do out</i> (verb) = trang trí lại. <b>Grammar</b>: tách được <i>do sth out</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "They <b>did</b> the kitchen <b>out</b> in yellow.",
+    "vi": "Họ <b>trang trí</b> phòng bếp màu vàng."
+   }
+  },
+  {
+   "word": "outrun",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌaʊtˈrʌn/",
+   "def_en": "To run faster than.",
+   "def_vi": "Chạy nhanh hơn.",
+   "gloss_vi": "chạy nhanh hơn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Outrun</i> (verb) = chạy nhanh hơn. <b>Grammar</b>: khác <i>run out</i> (hết).",
+   "ex_kit": true,
+   "example": {
+    "en": "The thief <b>outran</b> the police.",
+    "vi": "Tên trộm <b>chạy nhanh hơn</b> cảnh sát."
+   }
+  },
+  {
+   "word": "run out",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌrʌn ˈaʊt/",
+   "def_en": "To use something so there is none left.",
+   "def_vi": "Dùng hết không còn gì.",
+   "gloss_vi": "hết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Run out</i> (verb) = hết. <b>Collocations / chunks</b>: <i>run out of</i> sth.",
+   "ex_kit": true,
+   "example": {
+    "en": "We’ve <b>run out</b> of milk.",
+    "vi": "Chúng ta <b>hết</b> sữa rồi."
+   }
+  },
+  {
+   "word": "upset",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ʌpˈset/",
+   "def_en": "To make someone worried, unhappy or angry.",
+   "def_vi": "Làm ai lo, buồn hay giận.",
+   "gloss_vi": "làm buồn lòng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Upset</i> (verb) = làm buồn lòng. <b>Grammar</b>: khác <i>set up</i> (tổ chức).",
+   "ex_kit": true,
+   "example": {
+    "en": "The news <b>upset</b> her.",
+    "vi": "Tin đó làm cô ấy <b>buồn</b>."
+   }
+  }
+ ]
+}

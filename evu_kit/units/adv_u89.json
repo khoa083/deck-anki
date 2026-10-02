@@ -1,0 +1,393 @@
+{
+ "book": "adv",
+ "unit": 89,
+ "title_vi": "Tiếng Anh: ngôn ngữ toàn cầu",
+ "theory_html": "<p><b>A. The origins of English vocabulary</b><br><i>A. Nguồn gốc từ vựng tiếng Anh</i></p> <p><b>lexicon, sources, Anglo-Saxon, word stock, Viking, Norman, enrich, have an impact on, concept, classical origin, linguistic consequences, loanwords / borrowings</b>.</p><p><i><b>từ vựng, nguồn gốc, tiếng Anh cổ, vốn từ, người Viking, người Norman, làm phong phú, ảnh hưởng đến, khái niệm, gốc cổ điển, hệ quả ngôn ngữ, từ vay mượn</b>.</i></p> <p><b>B. English words from other languages</b><br><i>B. Từ tiếng Anh gốc ngoại</i></p> <p><b>amber</b> (Arabic), <b>roster</b> (Dutch), <b>tabby</b> (Farsi), <b>gimmick</b> (German), <b>tonic</b> (Greek), <b>cot</b> (Hindi), <b>mumps</b> (Icelandic), <b>karaoke</b> (Japanese), <b>palaver</b> (Portuguese), <b>intelligentsia</b> (Russian), <b>hammock</b> (Spanish), <b>turban</b> (Turkish).</p><p><i><b>hổ phách, bảng phân công, mèo mướp, chiêu trò, thuốc bổ, cũi trẻ em, quai bị, karaoke, rắc rối, giới trí thức, võng, khăn xếp</b>.</i></p> <p><b>C. False friends</b><br><i>C. Từ dễ nhầm giữa các ngôn ngữ</i></p> <p><b>false friends</b> look like words in your language but have a different meaning, e.g. German <b>Gift</b> (poison) vs English <b>gift</b> (present); <b>sympathetic</b> (understanding and caring about someone’s suffering).</p><p><i><b>Từ giả cùng nghĩa</b>: trông giống nhưng nghĩa khác; <b>sympathetic</b> = cảm thông.</i></p>",
+ "items": [
+  {
+   "word": "sources",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɔːsɪz/",
+   "def_en": "Where something comes from.",
+   "def_vi": "Nơi điều gì bắt nguồn.",
+   "gloss_vi": "nguồn gốc",
+   "synonyms": "origins <i>(n. nguồn gốc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sources</i> (noun) = nguồn gốc. <b>Collocations / chunks</b>: <i>have its sources in</i>.",
+   "example": {
+    "en": "English vocabulary has its <b>sources</b> in at least 120 languages",
+    "vi": "Từ vựng tiếng Anh có <b>nguồn gốc</b> từ ít nhất 120 ngôn ngữ."
+   }
+  },
+  {
+   "word": "Anglo-Saxon",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌæŋɡləʊ ˈsæksn/",
+   "def_en": "Old English.",
+   "def_vi": "Tiếng Anh cổ.",
+   "gloss_vi": "Anglo-Saxon",
+   "synonyms": "Old English <i>(n. tiếng Anh cổ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Anglo-Saxon</i> (adjective) = Anglo-Saxon. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "English started out with a basic <b>Anglo-Saxon</b> word stock.",
+    "vi": "Tiếng Anh khởi đầu với vốn từ <b>Anglo-Saxon</b> cơ bản."
+   }
+  },
+  {
+   "word": "word stock",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɜːd stɒk/",
+   "def_en": "A set of words.",
+   "def_vi": "Tập hợp từ.",
+   "gloss_vi": "vốn từ",
+   "synonyms": "vocabulary <i>(n. từ vựng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Word stock</i> (noun) = vốn từ. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "English started out with a basic Anglo-Saxon <b>word stock</b>.",
+    "vi": "Tiếng Anh khởi đầu với <b>vốn từ</b> Anglo-Saxon cơ bản."
+   }
+  },
+  {
+   "word": "Viking",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈvaɪkɪŋ/",
+   "def_en": "Norse, from the north of Europe, e.g. Denmark or Norway.",
+   "def_vi": "Người Bắc Âu, vd Đan Mạch, Na Uy.",
+   "gloss_vi": "người Viking",
+   "synonyms": "Norse <i>(adj. Bắc Âu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Viking</i> (adjective) = người Viking. <b>Grammar</b>: viết hoa.",
+   "example": {
+    "en": "<b>Viking</b> and Norman invaders from the 9th century onwards enriched the language enormously",
+    "vi": "Kẻ xâm lược <b>Viking</b> mang đến từ gốc Đức."
+   }
+  },
+  {
+   "word": "Norman",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈnɔːmən/",
+   "def_en": "From Normandy, a region in the north of France.",
+   "def_vi": "Từ Normandy, vùng bắc nước Pháp.",
+   "gloss_vi": "người Norman",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Norman</i> (adjective) = người Norman. <b>Grammar</b>: viết hoa.",
+   "example": {
+    "en": "Viking and <b>Norman</b> invaders from the 9th century onwards enriched the language enormously",
+    "vi": "Người <b>Norman</b> nói một dạng tiếng Pháp."
+   }
+  },
+  {
+   "word": "enrich",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪnˈrɪtʃ/",
+   "def_en": "To make richer.",
+   "def_vi": "Làm phong phú hơn.",
+   "gloss_vi": "làm phong phú",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Enrich</i> (verb) = làm phong phú. <b>Grammar</b>: tiền tố <i>en-</i> + <i>rich</i>.",
+   "example": {
+    "en": "invaders from the 9th century onwards <b>enriched</b> the language enormously",
+    "vi": "Người xâm lược đã <b>làm phong phú</b> ngôn ngữ rất nhiều."
+   }
+  },
+  {
+   "word": "have an impact on",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/hæv ən ˈɪmpækt ɒn/",
+   "def_en": "To influence, have an effect on.",
+   "def_vi": "Ảnh hưởng, có tác động lên.",
+   "gloss_vi": "tác động đến",
+   "synonyms": "influence <i>(v. ảnh hưởng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have an impact on</i> (verb) = tác động đến. <b>Collocations / chunks</b>: <i>have an enormous/huge impact on</i>.",
+   "example": {
+    "en": "Both sets of invaders <b>had</b> an enormous <b>impact on</b> English vocabulary",
+    "vi": "Cả hai nhóm xâm lược <b>tác động</b> lớn <b>đến</b> từ vựng tiếng Anh."
+   }
+  },
+  {
+   "word": "concept",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɒnsept/",
+   "def_en": "An idea.",
+   "def_vi": "Ý tưởng.",
+   "gloss_vi": "khái niệm",
+   "synonyms": "idea <i>(n. ý tưởng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Concept</i> (noun) = khái niệm. <b>Grammar</b>: tính từ <i>conceptual</i>.",
+   "example": {
+    "en": "English may sometimes seem to have several words for the same basic <b>concept</b>",
+    "vi": "Tiếng Anh đôi khi có nhiều từ cho cùng một <b>khái niệm</b>."
+   }
+  },
+  {
+   "word": "classical origin",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌklæsɪkl ˈɒrɪdʒɪn/",
+   "def_en": "Coming from Latin or Ancient Greek.",
+   "def_vi": "Từ tiếng Latinh hay Hy Lạp cổ.",
+   "gloss_vi": "gốc cổ điển",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Classical origin</i> (noun) = gốc cổ điển. <b>Collocations / chunks</b>: <i>of classical origin</i>.",
+   "example": {
+    "en": "scholars introduced many words of <b>classical origin</b>",
+    "vi": "Học giả đưa vào nhiều từ <b>gốc cổ điển</b>."
+   }
+  },
+  {
+   "word": "linguistic consequences",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/lɪŋˌɡwɪstɪk ˈkɒnsɪkwənsɪz/",
+   "def_en": "Results affecting language.",
+   "def_vi": "Kết quả ảnh hưởng đến ngôn ngữ.",
+   "gloss_vi": "hệ quả ngôn ngữ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Linguistic consequences</i> (noun) = hệ quả ngôn ngữ. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "has had <b>linguistic consequences</b> in a wealth of new words",
+    "vi": "Sự tiếp xúc với thế giới đã có <b>hệ quả ngôn ngữ</b>."
+   }
+  },
+  {
+   "word": "loanwords",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈləʊnwɜːdz/",
+   "def_en": "Words taken from other languages.",
+   "def_vi": "Từ lấy từ ngôn ngữ khác.",
+   "gloss_vi": "từ vay mượn",
+   "synonyms": "borrowings <i>(n. từ vay mượn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Loanwords</i> (noun) = từ vay mượn. <b>Grammar</b>: ghép <i>loan</i> + <i>word</i>.",
+   "example": {
+    "en": "These words taken from other languages are sometimes referred to as <b>loanwords</b> or borrowings.",
+    "vi": "Từ lấy từ ngôn ngữ khác gọi là <b>từ vay mượn</b>."
+   }
+  },
+  {
+   "word": "roster",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈrɒstə(r)/",
+   "def_en": "A list of people’s turns for jobs (from Dutch).",
+   "def_vi": "Danh sách lượt làm việc (gốc Hà Lan).",
+   "gloss_vi": "bảng phân công",
+   "synonyms": "rota <i>(n. bảng phân ca)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Roster</i> (noun) = bảng phân công. <b>Grammar</b>: gốc tiếng Hà Lan.",
+   "example": {
+    "en": "the cooking <b>roster</b>",
+    "vi": "<b>Bảng phân công</b> nấu ăn."
+   }
+  },
+  {
+   "word": "tabby",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtæbi/",
+   "def_en": "A grey and brown stripy cat (from Farsi).",
+   "def_vi": "Mèo vằn xám nâu (gốc Ba Tư).",
+   "gloss_vi": "mèo mướp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tabby</i> (noun) = mèo mướp. <b>Grammar</b>: gốc tiếng Ba Tư.",
+   "example": {
+    "en": "our old <b>tabby</b>",
+    "vi": "Con <b>mèo mướp</b> già của chúng tôi."
+   }
+  },
+  {
+   "word": "gimmick",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡɪmɪk/",
+   "def_en": "An amusing or unusual way of attracting attention (from German).",
+   "def_vi": "Cách gây chú ý vui hay lạ (gốc Đức).",
+   "gloss_vi": "chiêu trò",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gimmick</i> (noun) = chiêu trò. <b>Grammar</b>: gốc tiếng Đức.",
+   "example": {
+    "en": "advertising <b>gimmicks</b>",
+    "vi": "<b>Chiêu trò</b> quảng cáo."
+   }
+  },
+  {
+   "word": "tonic",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtɒnɪk/",
+   "def_en": "A medicine to make you feel stronger and better (from Greek).",
+   "def_vi": "Thuốc giúp khỏe hơn (gốc Hy Lạp).",
+   "gloss_vi": "thuốc bổ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tonic</i> (noun) = thuốc bổ. <b>Grammar</b>: gốc tiếng Hy Lạp.",
+   "example": {
+    "en": "take a <b>tonic</b>",
+    "vi": "Uống <b>thuốc bổ</b>."
+   }
+  },
+  {
+   "word": "cot",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kɒt/",
+   "def_en": "A child’s bed with high vertical sides (from Hindi).",
+   "def_vi": "Giường trẻ em có thành cao (gốc Hindi).",
+   "gloss_vi": "cũi trẻ em",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cot</i> (noun) = cũi trẻ em. <b>Grammar</b>: gốc tiếng Hindi; Mỹ: <i>crib</i>.",
+   "example": {
+    "en": "sleep in a <b>cot</b>",
+    "vi": "Ngủ trong <b>cũi</b>."
+   }
+  },
+  {
+   "word": "mumps",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/mʌmps/",
+   "def_en": "A childhood illness (from Icelandic).",
+   "def_vi": "Bệnh thời thơ ấu (gốc Iceland).",
+   "gloss_vi": "bệnh quai bị",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mumps</i> (noun) = bệnh quai bị. <b>Grammar</b>: danh từ số ít dù có <i>-s</i>.",
+   "example": {
+    "en": "have <b>mumps</b>",
+    "vi": "Bị <b>quai bị</b>."
+   }
+  },
+  {
+   "word": "karaoke",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkæriˈəʊki/",
+   "def_en": "Entertainment where ordinary people sing to popular music (from Japanese).",
+   "def_vi": "Giải trí hát theo nhạc phổ biến (gốc Nhật).",
+   "gloss_vi": "karaoke",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Karaoke</i> (noun) = karaoke. <b>Grammar</b>: gốc tiếng Nhật.",
+   "example": {
+    "en": "a <b>karaoke</b> machine",
+    "vi": "Một máy <b>karaoke</b>."
+   }
+  },
+  {
+   "word": "palaver",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pəˈlɑːvə(r)/",
+   "def_en": "Unnecessary trouble (from Portuguese).",
+   "def_vi": "Rắc rối không cần thiết (gốc Bồ Đào Nha).",
+   "gloss_vi": "sự rắc rối, lôi thôi",
+   "synonyms": "fuss <i>(n. sự ầm ĩ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Palaver</i> (noun) = sự rắc rối, lôi thôi. <b>Grammar</b>: gốc tiếng Bồ Đào Nha.",
+   "example": {
+    "en": "What a <b>palaver</b>!",
+    "vi": "Thật <b>lôi thôi</b>!"
+   }
+  },
+  {
+   "word": "intelligentsia",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˌtelɪˈdʒentsiə/",
+   "def_en": "The social class of intellectuals (from Russian).",
+   "def_vi": "Tầng lớp trí thức (gốc Nga).",
+   "gloss_vi": "giới trí thức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Intelligentsia</i> (noun) = giới trí thức. <b>Grammar</b>: gốc tiếng Nga.",
+   "example": {
+    "en": "19th-century <b>intelligentsia</b>",
+    "vi": "<b>Giới trí thức</b> thế kỷ 19."
+   }
+  },
+  {
+   "word": "hammock",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhæmək/",
+   "def_en": "A net hung and used as a bed (from Spanish).",
+   "def_vi": "Lưới treo dùng làm giường (gốc Tây Ban Nha).",
+   "gloss_vi": "cái võng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hammock</i> (noun) = cái võng. <b>Grammar</b>: gốc tiếng Tây Ban Nha.",
+   "example": {
+    "en": "sleep in a <b>hammock</b>",
+    "vi": "Ngủ trên <b>võng</b>."
+   }
+  },
+  {
+   "word": "turban",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtɜːbən/",
+   "def_en": "A type of men’s headwear made from a long piece of cloth (from Turkish).",
+   "def_vi": "Mũ nam làm từ mảnh vải dài (gốc Thổ Nhĩ Kỳ).",
+   "gloss_vi": "khăn xếp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Turban</i> (noun) = khăn xếp. <b>Grammar</b>: gốc tiếng Thổ Nhĩ Kỳ.",
+   "example": {
+    "en": "wear a <b>turban</b>",
+    "vi": "Đội <b>khăn xếp</b>."
+   }
+  },
+  {
+   "word": "false friends",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌfɔːls ˈfrendz/",
+   "def_en": "Words that look like words in your language but have a different meaning.",
+   "def_vi": "Từ trông giống từ tiếng mình nhưng nghĩa khác.",
+   "gloss_vi": "từ giả cùng nghĩa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>False friends</i> (noun) = từ giả cùng nghĩa. <b>Collocations / chunks</b>: thuật ngữ học ngôn ngữ.",
+   "example": {
+    "en": "Such words are known as <b>false friends</b>",
+    "vi": "Những từ như thế được gọi là <b>từ giả cùng nghĩa</b>."
+   }
+  },
+  {
+   "word": "sympathetic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌsɪmpəˈθetɪk/",
+   "def_en": "Understanding and caring about someone else’s suffering.",
+   "def_vi": "Hiểu và quan tâm đến nỗi khổ của người khác.",
+   "gloss_vi": "cảm thông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "unsympathetic <i>(adj. thờ ơ)</i>",
+   "grammar_vi": "<i>Sympathetic</i> (adjective) = cảm thông. <b>Grammar</b>: không nghĩa <i>nice</i>; danh từ <i>sympathy</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She was very <b>sympathetic</b> when I told her my problems.",
+    "vi": "Cô ấy rất <b>cảm thông</b> khi tôi kể chuyện."
+   }
+  }
+ ]
+}
