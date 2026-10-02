@@ -1,0 +1,280 @@
+{
+ "book": "gva",
+ "unit": 23,
+ "title_vi": "It và there",
+ "theory_html": "<p><b>2.1. Introductory it as subject</b><br><i>2.1. It giới thiệu làm chủ ngữ</i></p> <p>For weather, time, distance, situations (<b>It's raining</b>, <b>It's about 15 kilometres…</b>); as an alternative to a that-, wh-, -ing or to-infinitive clause as subject (<b>It's a pity that…</b>, <b>It's obvious why…</b>, <b>It's an advantage being…</b>, <b>It shocked me to see…</b>). Not usually instead of a noun subject in writing. Patterns: <b>it + verb + to-inf</b>, <b>it + verb + object + to-inf</b>, <b>it + verb + that-clause</b>, <b>it + verb + object + that</b>; formal <b>it + passive + that/wh-clause</b> (<b>It is said that…</b>).</p><p><i><b>It</b> làm chủ ngữ giả thay mệnh đề that/wh/-ing/to V; <b>It is said that…</b> (trang trọng).</i></p> <p><b>2.2. Introductory it as object</b><br><i>2.2. It giới thiệu làm tân ngữ</i></p> <p><b>verb + it + that/if/wh-clause</b> (<b>I wouldn't like it if…</b>, <b>I couldn't believe it when…</b>); <b>would appreciate it if</b>; <b>accept (it) that</b>; <b>verb + it + adjective + clause</b> (<b>make it clear whether</b>, <b>think it unlikely that</b>); <b>leave/owe it to sb to</b>; <b>see it as essential that</b>.</p><p><i><b>I'd appreciate it if…</b>; <b>make it clear</b>; <b>leave it to sb to…</b>; <b>see it as essential that…</b>.</i></p> <p><b>2.3. There</b><br><i>2.3. There</i></p> <p><b>There + be</b> introduces new information (existence, place) with indefinite nouns (<b>a/an, no article, any, some, no</b>); <b>there</b>, not <b>it</b>, for existence and quantities. Followed by noun + clause (<b>a chance that</b>, <b>plans to</b>), <b>bound/certain/likely/supposed/sure to be</b>; <b>there + modal + be</b>, <b>there seem/appear to be</b>, <b>there is expected to be</b>, <b>expect there to be</b>. Verb agrees with the (first) noun; informal <b>there's</b> + plural.</p><p><i><b>There + be</b> giới thiệu thông tin mới; động từ hợp với danh từ đầu tiên; <b>There's bound to be…</b>, <b>There seem to be…</b>.</i></p> <p><b>2.4. Common expressions with it's no and there's no</b><br><i>2.4. Thành ngữ với it's no / there's no</i></p> <p><b>it's no secret / surprise / wonder / coincidence that, it's no use/good + -ing, it's no longer necessary to, it's no exaggeration to say that…</b>; <b>there's no doubt that, there's no choice but to, there's no need to, there's no point in + -ing, there's no hurry, there's no harm in + -ing…</b></p><p><i>Các cụm cố định với <b>it's no</b> và <b>there's no</b>.</i></p>",
+ "items": [
+  {
+   "word": "introductory it",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˌɪntrəˈdʌktəri ɪt/",
+   "def_en": "It used as a grammatical subject referring forward to a clause.",
+   "def_vi": "It làm chủ ngữ ngữ pháp, chỉ tới mệnh đề phía sau.",
+   "gloss_vi": "it giới thiệu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Introductory it</i> (structure) = it giới thiệu. <b>Grammar</b>: thời tiết, giờ, khoảng cách: <i>It's raining again.</i>.",
+   "example": {
+    "en": "<b>It's going to be hard</b> to choose between them.",
+    "vi": "<b>Thật khó</b> chọn giữa hai căn."
+   }
+  },
+  {
+   "word": "it's a pity that",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ɪts ə ˈpɪti ðæt/",
+   "def_en": "Introductory it instead of a that-clause as subject.",
+   "def_vi": "It thay mệnh đề that làm chủ ngữ.",
+   "gloss_vi": "thật tiếc là",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>It's a pity that</i> (structure) = thật tiếc là. <b>Grammar</b>: hơn <i>That the town apartment is so small is a pity.</i>.",
+   "example": {
+    "en": "<b>It's a pity that</b> the town apartment is so small.",
+    "vi": "<b>Thật tiếc là</b> căn hộ trong phố nhỏ quá."
+   }
+  },
+  {
+   "word": "it struck me that",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ɪt strʌk mi ðæt/",
+   "def_en": "It + verb + object + that-clause: I suddenly thought that.",
+   "def_vi": "Tôi chợt nghĩ rằng.",
+   "gloss_vi": "tôi chợt nghĩ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>It struck me that</i> (structure) = tôi chợt nghĩ. <b>Grammar</b>: <i>It appears that…</i>, <i>It might help to…</i>.",
+   "example": {
+    "en": "<b>It struck me that</b> the Conley apartment might be quite noisy with that busy road nearby.",
+    "vi": "<b>Tôi chợt nghĩ</b> căn Conley có thể ồn vì đường đông."
+   }
+  },
+  {
+   "word": "it is said that",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ɪt ɪz ˈsed ðæt/",
+   "def_en": "It + passive reporting verb + that-clause (formal).",
+   "def_vi": "It + bị động + that (trang trọng).",
+   "gloss_vi": "người ta nói rằng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>It is said that</i> (structure) = người ta nói rằng. <b>Grammar</b>: ít trang trọng: <i>They say that…</i>; <i>It was explained how…</i>.",
+   "example": {
+    "en": "<b>It is said that</b> the cost of accommodation in the town centre will rise",
+    "vi": "<b>Người ta nói rằng</b> giá nhà trung tâm sẽ tăng."
+   }
+  },
+  {
+   "word": "would appreciate it if",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/wʊd əˈpriːʃieɪt ɪt ɪf/",
+   "def_en": "A polite request with it as object before an if-clause.",
+   "def_vi": "Yêu cầu lịch sự: sẽ rất cảm kích nếu.",
+   "gloss_vi": "rất cảm kích nếu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Would appreciate it if</i> (structure) = rất cảm kích nếu. <b>Grammar</b>: verb + it + if-clause; <i>I wouldn't like it if…</i>.",
+   "example": {
+    "en": "I <b>would appreciate it if</b> you could send me further details of the apartment",
+    "vi": "Tôi <b>rất cảm kích nếu</b> ông gửi thêm thông tin căn hộ."
+   }
+  },
+  {
+   "word": "make it clear",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/meɪk ɪt ˈklɪə(r)/",
+   "def_en": "Verb + it + adjective + clause: to state clearly.",
+   "def_vi": "Nói rõ.",
+   "gloss_vi": "làm rõ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Make it clear</i> (structure) = làm rõ. <b>Grammar</b>: trang trọng <i>I think it highly unlikely that…</i>.",
+   "example": {
+    "en": "The owner didn't <b>make it clear</b> whether they were included in the price.",
+    "vi": "Chủ nhà không <b>nói rõ</b> chúng có được tính vào giá không."
+   }
+  },
+  {
+   "word": "leave it to sb to",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/liːv ɪt tə ... tə/",
+   "def_en": "Let someone else be responsible for doing something.",
+   "def_vi": "Để ai lo việc gì.",
+   "gloss_vi": "để ai lo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Leave it to sb to</i> (structure) = để ai lo. <b>Grammar</b>: cũng <i>owe it to sb to</i>.",
+   "example": {
+    "en": "I think we should <b>leave it to</b> the estate agent <b>to</b> talk to the owner",
+    "vi": "Ta nên <b>để</b> người môi giới <b>lo</b> nói chuyện với chủ nhà."
+   }
+  },
+  {
+   "word": "see it as essential that",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/siː ɪt əz ɪˈsenʃl ðæt/",
+   "def_en": "Verb + it + as + adjective + that-clause.",
+   "def_vi": "Coi điều gì là thiết yếu.",
+   "gloss_vi": "coi là thiết yếu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>See it as essential that</i> (structure) = coi là thiết yếu. <b>Grammar</b>: verb + it + as + adj + clause.",
+   "example": {
+    "en": "I <b>see it as essential that</b> there should be somewhere to park.",
+    "vi": "Tôi <b>coi việc</b> có chỗ đậu xe <b>là thiết yếu</b>."
+   }
+  },
+  {
+   "word": "there + be",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ðeə biː/",
+   "def_en": "Introduces new information that something exists or is in a place.",
+   "def_vi": "Giới thiệu thông tin mới: có cái gì ở đâu.",
+   "gloss_vi": "có",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>There + be</i> (structure) = có. <b>Grammar</b>: + danh từ không xác định; không <i>There's the car park…</i>.",
+   "example": {
+    "en": "<b>There's</b> a bus stop just outside the apartment block.",
+    "vi": "<b>Có</b> một trạm xe buýt ngay ngoài khu căn hộ."
+   }
+  },
+  {
+   "word": "there (not it)",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ðeə(r)/",
+   "def_en": "There (not it) to say whether things exist or to talk about quantities.",
+   "def_vi": "Dùng there (không phải it) để nói có/không có.",
+   "gloss_vi": "không có (chỗ)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>There (not it)</i> (structure) = không có (chỗ). <b>Grammar</b>: không <i>It's nowhere to park</i>; <i>Was there a dishwasher…?</i>.",
+   "example": {
+    "en": "<b>There's</b> nowhere to park.",
+    "vi": "<b>Không có</b> chỗ nào để đậu xe."
+   }
+  },
+  {
+   "word": "there's bound to be",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ðeəz ˈbaʊnd tə bi/",
+   "def_en": "There + bound/certain/likely/sure + to be: something will certainly exist.",
+   "def_vi": "Chắc chắn sẽ có.",
+   "gloss_vi": "chắc chắn có",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>There's bound to be</i> (structure) = chắc chắn có. <b>Grammar</b>: cũng <i>certain, likely, supposed, sure</i>.",
+   "example": {
+    "en": "<b>There's bound to be</b> a regular bus service from there.",
+    "vi": "<b>Chắc chắn có</b> tuyến xe buýt thường xuyên từ đó."
+   }
+  },
+  {
+   "word": "there seem to be",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ðeə ˈsiːm tə bi/",
+   "def_en": "There + seem/appear + to be.",
+   "def_vi": "Dường như có.",
+   "gloss_vi": "dường như có",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>There seem to be</i> (structure) = dường như có. <b>Grammar</b>: <i>There must be someone…</i>.",
+   "example": {
+    "en": "<b>There seem to be</b> good and bad aspects of each apartment",
+    "vi": "<b>Dường như có</b> mặt tốt và xấu ở mỗi căn."
+   }
+  },
+  {
+   "word": "there is expected to be",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ðeər ɪz ɪkˈspektɪd tə bi/",
+   "def_en": "There + passive reporting verb + to be.",
+   "def_vi": "There + động từ tường thuật bị động + to be.",
+   "gloss_vi": "dự kiến sẽ có",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>There is expected to be</i> (structure) = dự kiến sẽ có. <b>Grammar</b>: cũng <i>estimate, find, reckon, report, say, think</i>.",
+   "example": {
+    "en": "<b>There is expected to be</b> a lot of interest in the property.",
+    "vi": "<b>Dự kiến sẽ có</b> nhiều người quan tâm đến căn nhà."
+   }
+  },
+  {
+   "word": "expect there to be",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ɪkˈspekt ðeə tə bi/",
+   "def_en": "Verb + there + to be.",
+   "def_vi": "Động từ + there + to be.",
+   "gloss_vi": "mong là có",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Expect there to be</i> (structure) = mong là có. <b>Grammar</b>: = <i>expect many people to be interested</i>.",
+   "example": {
+    "en": "I wouldn't <b>expect there to be</b> many people interested in buying the apartment.",
+    "vi": "Tôi không <b>nghĩ sẽ có</b> nhiều người muốn mua căn hộ."
+   }
+  },
+  {
+   "word": "there was ... and",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ðeə wɒz/",
+   "def_en": "With a list after there, the verb agrees with the first noun.",
+   "def_vi": "Với danh sách, động từ hợp với danh từ đầu tiên.",
+   "gloss_vi": "có (danh sách)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>There was ... and</i> (structure) = có (danh sách). <b>Grammar</b>: <i>There were just some bookshelves, a bed…</i>; thân mật <i>There's so many things…</i>.",
+   "example": {
+    "en": "<b>There was</b> just a bed, a small wardrobe and some bookshelves.",
+    "vi": "<b>Chỉ có</b> một cái giường, một tủ nhỏ và vài giá sách."
+   }
+  },
+  {
+   "word": "it's no wonder",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ɪts nəʊ ˈwʌndə(r)/",
+   "def_en": "It is not surprising.",
+   "def_vi": "Chẳng có gì lạ.",
+   "gloss_vi": "chẳng trách",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>It's no wonder</i> (structure) = chẳng trách. <b>Grammar</b>: cũng <i>it's no secret/surprise/coincidence that, it's no use + V-ing</i>.",
+   "example": {
+    "en": "<b>It's no wonder</b> they've been having problems selling the apartment.",
+    "vi": "<b>Chẳng trách</b> họ gặp khó khi bán căn hộ."
+   }
+  },
+  {
+   "word": "there's no hurry",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ðeəz nəʊ ˈhʌri/",
+   "def_en": "There is no need to do something quickly.",
+   "def_vi": "Không cần vội.",
+   "gloss_vi": "không cần vội",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>There's no hurry</i> (structure) = không cần vội. <b>Grammar</b>: cũng <i>there's no doubt that, no need to, no point in + V-ing, no choice but to</i>.",
+   "example": {
+    "en": "<b>There's no hurry</b> to decide.",
+    "vi": "<b>Không cần vội</b> quyết định."
+   }
+  }
+ ]
+}
