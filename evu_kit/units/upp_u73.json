@@ -1,0 +1,547 @@
+{
+ "book": "upp",
+ "unit": 73,
+ "title_vi": "Danh từ trừu tượng",
+ "theory_html": "<p><b>A. What are abstract nouns?</b><br><i>A. Danh từ trừu tượng là gì?</i></p> <p>An abstract noun represents an idea, experience or quality rather than an object that you can touch: <b>advice, happiness, intention, (in)justice</b>.</p><p><i>Danh từ trừu tượng chỉ ý tưởng, trải nghiệm hay phẩm chất, không phải vật chạm được.</i></p> <p><b>B. Suffixes in abstract nouns</b><br><i>B. Hậu tố của danh từ trừu tượng</i></p> <p>The most common are <b>-ment, -ion, -ness</b> and <b>-ity</b>. <b>-ion</b> sometimes becomes <b>-tion, -sion, -ation</b> or <b>-ition</b>. <b>-ment</b> and <b>-ion</b> are usually used to make verbs into abstract nouns; <b>-ness</b> and <b>-ity</b> are added to adjectives.</p><p><i>Phổ biến nhất: <b>-ment, -ion, -ness, -ity</b>. <b>-ment, -ion</b> biến động từ thành danh từ; <b>-ness, -ity</b> thêm vào tính từ.</i></p> <p><b>C. Less common suffixes forming abstract nouns</b><br><i>C. Hậu tố ít phổ biến hơn</i></p> <p><b>-ship</b> and <b>-hood</b> are usually added to other nouns; <b>-th</b> is added to an adjective; <b>-dom</b> can combine with either a noun or an adjective.</p><p><i><b>-ship, -hood</b> thêm vào danh từ; <b>-th</b> thêm vào tính từ; <b>-dom</b> thêm vào danh từ hoặc tính từ.</i></p> <p><b>D. Abstract nouns with no suffix</b><br><i>D. Danh từ trừu tượng không có hậu tố</i></p> <p><b>anger, belief, calm, chance, faith, fear, humour, idea, luck, principle, rage, reason, sense, sight, speed, thought</b>.</p><p><i>Nhiều danh từ trừu tượng không có hậu tố.</i></p> <p><b>CM. Common mistakes</b><br><i>CM. Lỗi thường gặp</i></p> <p>The definite article is not normally used before an abstract noun: <b>Love is blind</b> (NOT <b>The love is blind</b>). <b>I can resist everything except temptation.</b></p><p><i>Thường không dùng <b>the</b> trước danh từ trừu tượng mang nghĩa chung.</i></p>",
+ "items": [
+  {
+   "word": "intention",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˈtenʃn/",
+   "def_en": "Something you plan to do.",
+   "def_vi": "Điều bạn định làm.",
+   "gloss_vi": "ý định",
+   "synonyms": "aim <i>(n. mục đích)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Intention</i> (noun) = ý định. <b>Grammar</b>: <i>intend</i> + <i>-ion</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I had no <b>intention</b> of upsetting you.",
+    "vi": "Tôi không có <b>ý định</b> làm bạn buồn."
+   }
+  },
+  {
+   "word": "injustice",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˈdʒʌstɪs/",
+   "def_en": "A situation in which people are treated unfairly.",
+   "def_vi": "Tình trạng bị đối xử bất công.",
+   "gloss_vi": "sự bất công",
+   "synonyms": "unfairness <i>(n. sự bất công)</i>",
+   "antonyms": "justice <i>(n. công lý)</i>",
+   "grammar_vi": "<i>Injustice</i> (noun) = sự bất công. <b>Grammar</b>: danh từ trừu tượng, không <i>the</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "They fought against <b>injustice</b>.",
+    "vi": "Họ đấu tranh chống <b>bất công</b>."
+   }
+  },
+  {
+   "word": "adjustment",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈdʒʌstmənt/",
+   "def_en": "A small change.",
+   "def_vi": "Thay đổi nhỏ.",
+   "gloss_vi": "sự điều chỉnh",
+   "synonyms": "change <i>(n. thay đổi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Adjustment</i> (noun) = sự điều chỉnh. <b>Grammar</b>: <i>adjust</i> + <i>-ment</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We made a small <b>adjustment</b> to the plan.",
+    "vi": "Chúng tôi đã <b>điều chỉnh</b> nhỏ kế hoạch."
+   }
+  },
+  {
+   "word": "amazement",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈmeɪzmənt/",
+   "def_en": "A feeling of great surprise.",
+   "def_vi": "Cảm giác rất ngạc nhiên.",
+   "gloss_vi": "sự kinh ngạc",
+   "synonyms": "astonishment <i>(n. sự sửng sốt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Amazement</i> (noun) = sự kinh ngạc. <b>Grammar</b>: <i>amaze</i> + <i>-ment</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "To my <b>amazement</b>, she agreed.",
+    "vi": "Trước sự <b>kinh ngạc</b> của tôi, cô ấy đồng ý."
+   }
+  },
+  {
+   "word": "expectation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌekspekˈteɪʃn/",
+   "def_en": "A belief that something will happen.",
+   "def_vi": "Niềm tin điều gì sẽ xảy ra.",
+   "gloss_vi": "sự kỳ vọng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Expectation</i> (noun) = sự kỳ vọng. <b>Grammar</b>: <i>expect</i> + <i>-ation</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The results exceeded our <b>expectations</b>.",
+    "vi": "Kết quả vượt <b>kỳ vọng</b> của chúng tôi."
+   }
+  },
+  {
+   "word": "frustration",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/frʌˈstreɪʃn/",
+   "def_en": "The feeling of being annoyed because you cannot do what you want.",
+   "def_vi": "Cảm giác bực vì không làm được điều muốn.",
+   "gloss_vi": "sự bực bội, thất vọng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Frustration</i> (noun) = sự bực bội, thất vọng. <b>Grammar</b>: <i>frustrate</i> + <i>-ation</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He shouted in <b>frustration</b>.",
+    "vi": "Anh ấy hét lên vì <b>bực bội</b>."
+   }
+  },
+  {
+   "word": "recession",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˈseʃn/",
+   "def_en": "A period when the economy is doing badly.",
+   "def_vi": "Thời kỳ kinh tế sa sút.",
+   "gloss_vi": "suy thoái",
+   "synonyms": "slump <i>(n. sụt giảm)</i>",
+   "antonyms": "boom <i>(n. bùng nổ)</i>",
+   "grammar_vi": "<i>Recession</i> (noun) = suy thoái. <b>Grammar</b>: <i>recede</i> → <i>recession</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The country is in <b>recession</b>.",
+    "vi": "Đất nước đang <b>suy thoái</b>."
+   }
+  },
+  {
+   "word": "carelessness",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkeələsnəs/",
+   "def_en": "Lack of care or attention.",
+   "def_vi": "Sự thiếu cẩn thận.",
+   "gloss_vi": "sự cẩu thả",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "care <i>(n. sự cẩn thận)</i>",
+   "grammar_vi": "<i>Carelessness</i> (noun) = sự cẩu thả. <b>Grammar</b>: <i>careless</i> + <i>-ness</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The accident was caused by <b>carelessness</b>.",
+    "vi": "Tai nạn do <b>sự cẩu thả</b> gây ra."
+   }
+  },
+  {
+   "word": "consciousness",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɒnʃəsnəs/",
+   "def_en": "The state of being awake and aware.",
+   "def_vi": "Trạng thái tỉnh và nhận thức.",
+   "gloss_vi": "ý thức, sự tỉnh táo",
+   "synonyms": "awareness <i>(n. nhận thức)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Consciousness</i> (noun) = ý thức, sự tỉnh táo. <b>Grammar</b>: <i>lose/regain consciousness</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He lost <b>consciousness</b> after the fall.",
+    "vi": "Anh ấy <b>bất tỉnh</b> sau cú ngã."
+   }
+  },
+  {
+   "word": "eagerness",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈiːɡənəs/",
+   "def_en": "A strong wish to do something.",
+   "def_vi": "Mong muốn mạnh mẽ làm gì.",
+   "gloss_vi": "sự háo hức",
+   "synonyms": "enthusiasm <i>(n. nhiệt huyết)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Eagerness</i> (noun) = sự háo hức. <b>Grammar</b>: <i>eager</i> + <i>-ness</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Her <b>eagerness</b> to learn was impressive.",
+    "vi": "Sự <b>háo hức</b> học hỏi của cô ấy thật ấn tượng."
+   }
+  },
+  {
+   "word": "friendliness",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfrendlinəs/",
+   "def_en": "The quality of being friendly.",
+   "def_vi": "Tính thân thiện.",
+   "gloss_vi": "sự thân thiện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Friendliness</i> (noun) = sự thân thiện. <b>Grammar</b>: <i>-y</i> → <i>-i</i> + <i>-ness</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We loved the <b>friendliness</b> of the locals.",
+    "vi": "Chúng tôi thích sự <b>thân thiện</b> của người dân địa phương."
+   }
+  },
+  {
+   "word": "politeness",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pəˈlaɪtnəs/",
+   "def_en": "The quality of being polite.",
+   "def_vi": "Tính lịch sự.",
+   "gloss_vi": "sự lịch sự",
+   "synonyms": "courtesy <i>(n. phép lịch sự)</i>",
+   "antonyms": "rudeness <i>(n. sự thô lỗ)</i>",
+   "grammar_vi": "<i>Politeness</i> (noun) = sự lịch sự. <b>Grammar</b>: <i>polite</i> + <i>-ness</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He smiled out of <b>politeness</b>.",
+    "vi": "Anh ấy mỉm cười vì <b>lịch sự</b>."
+   }
+  },
+  {
+   "word": "authority",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɔːˈθɒrəti/",
+   "def_en": "The power to give orders.",
+   "def_vi": "Quyền ra lệnh.",
+   "gloss_vi": "quyền lực, thẩm quyền",
+   "synonyms": "power <i>(n. quyền lực)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Authority</i> (noun) = quyền lực, thẩm quyền. <b>Grammar</b>: <i>-ity</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She has no <b>authority</b> to change the rules.",
+    "vi": "Cô ấy không có <b>thẩm quyền</b> thay đổi luật."
+   }
+  },
+  {
+   "word": "creativity",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkriːeɪˈtɪvəti/",
+   "def_en": "The ability to produce new ideas.",
+   "def_vi": "Khả năng tạo ý tưởng mới.",
+   "gloss_vi": "sự sáng tạo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Creativity</i> (noun) = sự sáng tạo. <b>Grammar</b>: <i>creative</i> + <i>-ity</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "This job requires a lot of <b>creativity</b>.",
+    "vi": "Công việc này đòi hỏi nhiều <b>sáng tạo</b>."
+   }
+  },
+  {
+   "word": "curiosity",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkjʊəriˈɒsəti/",
+   "def_en": "A strong wish to know about something.",
+   "def_vi": "Mong muốn mạnh mẽ được biết.",
+   "gloss_vi": "sự tò mò",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Curiosity</i> (noun) = sự tò mò. <b>Grammar</b>: <i>curious</i> + <i>-ity</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I opened the box out of <b>curiosity</b>.",
+    "vi": "Tôi mở hộp vì <b>tò mò</b>."
+   }
+  },
+  {
+   "word": "generosity",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdʒenəˈrɒsəti/",
+   "def_en": "Willingness to give money or help.",
+   "def_vi": "Sẵn lòng cho tiền hay giúp đỡ.",
+   "gloss_vi": "sự hào phóng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "meanness <i>(n. sự keo kiệt)</i>",
+   "grammar_vi": "<i>Generosity</i> (noun) = sự hào phóng. <b>Grammar</b>: <i>generous</i> + <i>-ity</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Thank you for your <b>generosity</b>.",
+    "vi": "Cảm ơn sự <b>hào phóng</b> của bạn."
+   }
+  },
+  {
+   "word": "hostility",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/hɒˈstɪləti/",
+   "def_en": "Unfriendly or aggressive behaviour.",
+   "def_vi": "Hành vi thù địch.",
+   "gloss_vi": "sự thù địch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "friendliness <i>(n. sự thân thiện)</i>",
+   "grammar_vi": "<i>Hostility</i> (noun) = sự thù địch. <b>Grammar</b>: <i>hostile</i> + <i>-ity</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "They faced <b>hostility</b> from local people.",
+    "vi": "Họ đối mặt với sự <b>thù địch</b> từ dân địa phương."
+   }
+  },
+  {
+   "word": "popularity",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpɒpjuˈlærəti/",
+   "def_en": "The state of being liked by many people.",
+   "def_vi": "Được nhiều người thích.",
+   "gloss_vi": "sự nổi tiếng, được ưa chuộng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Popularity</i> (noun) = sự nổi tiếng, được ưa chuộng. <b>Grammar</b>: <i>popular</i> + <i>-ity</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The band’s <b>popularity</b> grew quickly.",
+    "vi": "Sự <b>nổi tiếng</b> của ban nhạc tăng nhanh."
+   }
+  },
+  {
+   "word": "sensitivity",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsensəˈtɪvəti/",
+   "def_en": "The quality of understanding others’ feelings.",
+   "def_vi": "Khả năng thấu hiểu cảm xúc người khác.",
+   "gloss_vi": "sự nhạy cảm, tế nhị",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sensitivity</i> (noun) = sự nhạy cảm, tế nhị. <b>Grammar</b>: <i>sensitive</i> + <i>-ity</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The issue needs to be handled with <b>sensitivity</b>.",
+    "vi": "Vấn đề này cần được xử lý <b>tế nhị</b>."
+   }
+  },
+  {
+   "word": "boredom",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɔːdəm/",
+   "def_en": "The state of being bored.",
+   "def_vi": "Trạng thái chán.",
+   "gloss_vi": "sự buồn chán",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Boredom</i> (noun) = sự buồn chán. <b>Grammar</b>: <i>bored</i> + <i>-dom</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He yawned with <b>boredom</b>.",
+    "vi": "Anh ấy ngáp vì <b>chán</b>."
+   }
+  },
+  {
+   "word": "martyrdom",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɑːtədəm/",
+   "def_en": "Death or suffering for your beliefs.",
+   "def_vi": "Cái chết hay đau khổ vì niềm tin.",
+   "gloss_vi": "sự tử vì đạo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Martyrdom</i> (noun) = sự tử vì đạo. <b>Grammar</b>: <i>martyr</i> + <i>-dom</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "the story of his <b>martyrdom</b>",
+    "vi": "Câu chuyện về sự <b>tử vì đạo</b> của ông ấy."
+   }
+  },
+  {
+   "word": "stardom",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈstɑːdəm/",
+   "def_en": "The state of being very famous.",
+   "def_vi": "Trạng thái rất nổi tiếng.",
+   "gloss_vi": "danh vọng ngôi sao",
+   "synonyms": "fame <i>(n. danh tiếng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stardom</i> (noun) = danh vọng ngôi sao. <b>Grammar</b>: <i>star</i> + <i>-dom</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She shot to <b>stardom</b>.",
+    "vi": "Cô ấy vụt sáng thành <b>ngôi sao</b>."
+   }
+  },
+  {
+   "word": "wisdom",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɪzdəm/",
+   "def_en": "The ability to make good judgements based on experience.",
+   "def_vi": "Khả năng phán đoán đúng nhờ kinh nghiệm.",
+   "gloss_vi": "sự khôn ngoan",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wisdom</i> (noun) = sự khôn ngoan. <b>Grammar</b>: <i>wise</i> + <i>-dom</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "My grandparents have a lot of <b>wisdom</b>.",
+    "vi": "Ông bà tôi có nhiều <b>sự khôn ngoan</b>."
+   }
+  },
+  {
+   "word": "strength",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/streŋθ/",
+   "def_en": "The quality of being strong.",
+   "def_vi": "Sức mạnh.",
+   "gloss_vi": "sức mạnh",
+   "synonyms": "power <i>(n. sức mạnh)</i>",
+   "antonyms": "weakness <i>(n. sự yếu đuối)</i>",
+   "grammar_vi": "<i>Strength</i> (noun) = sức mạnh. <b>Grammar</b>: <i>strong</i> + <i>-th</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He didn’t have the <b>strength</b> to lift it.",
+    "vi": "Anh ấy không đủ <b>sức</b> nhấc nó lên."
+   }
+  },
+  {
+   "word": "warmth",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/wɔːmθ/",
+   "def_en": "The state of being warm, or friendly feelings.",
+   "def_vi": "Sự ấm áp, tình cảm thân thiện.",
+   "gloss_vi": "sự ấm áp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Warmth</i> (noun) = sự ấm áp. <b>Grammar</b>: <i>warm</i> + <i>-th</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We felt the <b>warmth</b> of the fire.",
+    "vi": "Chúng tôi cảm nhận <b>sự ấm áp</b> của lò sưởi."
+   }
+  },
+  {
+   "word": "adulthood",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈædʌlthʊd/",
+   "def_en": "The time when you are an adult.",
+   "def_vi": "Thời kỳ trưởng thành.",
+   "gloss_vi": "tuổi trưởng thành",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "childhood <i>(n. thời thơ ấu)</i>",
+   "grammar_vi": "<i>Adulthood</i> (noun) = tuổi trưởng thành. <b>Grammar</b>: <i>adult</i> + <i>-hood</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Many habits continue into <b>adulthood</b>.",
+    "vi": "Nhiều thói quen kéo dài đến <b>tuổi trưởng thành</b>."
+   }
+  },
+  {
+   "word": "neighbourhood",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈneɪbəhʊd/",
+   "def_en": "The area around where you live.",
+   "def_vi": "Khu vực quanh nơi bạn sống.",
+   "gloss_vi": "khu phố",
+   "synonyms": "area <i>(n. khu vực)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Neighbourhood</i> (noun) = khu phố. <b>Grammar</b>: <i>neighbour</i> + <i>-hood</i>; Mỹ <i>neighborhood</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "This is a quiet <b>neighbourhood</b>.",
+    "vi": "Đây là một <b>khu phố</b> yên tĩnh."
+   }
+  },
+  {
+   "word": "companionship",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəmˈpæniənʃɪp/",
+   "def_en": "The pleasant feeling of having friends with you.",
+   "def_vi": "Cảm giác dễ chịu khi có bạn bên cạnh.",
+   "gloss_vi": "tình bạn đồng hành",
+   "synonyms": "friendship <i>(n. tình bạn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Companionship</i> (noun) = tình bạn đồng hành. <b>Grammar</b>: <i>companion</i> + <i>-ship</i>.",
+   "example": {
+    "en": "He enjoyed their <b>companionship</b>.",
+    "vi": "Cậu ấy thích <b>tình bạn đồng hành</b> của hai cậu kia."
+   }
+  },
+  {
+   "word": "relationship",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˈleɪʃnʃɪp/",
+   "def_en": "The way people feel and behave towards each other.",
+   "def_vi": "Cách người ta cảm nhận và đối xử với nhau.",
+   "gloss_vi": "mối quan hệ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Relationship</i> (noun) = mối quan hệ. <b>Grammar</b>: <i>relation</i> + <i>-ship</i>.",
+   "example": {
+    "en": "They developed such a good <b>relationship</b>.",
+    "vi": "Họ phát triển một <b>mối quan hệ</b> rất tốt."
+   }
+  },
+  {
+   "word": "apprenticeship",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈprentɪʃɪp/",
+   "def_en": "A period of training for a skilled job.",
+   "def_vi": "Thời gian học nghề.",
+   "gloss_vi": "thời gian học việc",
+   "synonyms": "training <i>(n. đào tạo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Apprenticeship</i> (noun) = thời gian học việc. <b>Grammar</b>: <i>apprentice</i> + <i>-ship</i>.",
+   "example": {
+    "en": "Once they’d completed their <b>apprenticeship</b>, they decided to go into partnership together.",
+    "vi": "Khi đã xong <b>thời gian học việc</b>, họ quyết định hợp tác."
+   }
+  },
+  {
+   "word": "ownership",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈəʊnəʃɪp/",
+   "def_en": "The state of owning something.",
+   "def_vi": "Trạng thái sở hữu.",
+   "gloss_vi": "quyền sở hữu",
+   "synonyms": "possession <i>(n. sự sở hữu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ownership</i> (noun) = quyền sở hữu. <b>Grammar</b>: <i>owner</i> + <i>-ship</i>.",
+   "example": {
+    "en": "They have set up a business under joint <b>ownership</b>.",
+    "vi": "Họ lập doanh nghiệp dưới <b>quyền sở hữu</b> chung."
+   }
+  },
+  {
+   "word": "temptation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tempˈteɪʃn/",
+   "def_en": "The wish to do something you should not do.",
+   "def_vi": "Mong muốn làm điều không nên.",
+   "gloss_vi": "sự cám dỗ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Temptation</i> (noun) = sự cám dỗ. <b>Grammar</b>: KHÔNG dùng <i>the</i> trước danh từ trừu tượng mang nghĩa chung.",
+   "example": {
+    "en": "I can resist everything except <b>temptation</b>.",
+    "vi": "Tôi có thể cưỡng lại mọi thứ trừ <b>cám dỗ</b>."
+   }
+  }
+ ]
+}

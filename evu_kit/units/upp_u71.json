@@ -1,0 +1,960 @@
+{
+ "book": "upp",
+ "unit": 71,
+ "title_vi": "Tiền tố",
+ "theory_html": "<p><b>A. Negative prefixes on adjectives</b><br><i>A. Tiền tố phủ định cho tính từ</i></p> <p>Prefixes are often used to give adjectives a negative or an opposite meaning: <b>unfair, inexperienced, dissimilar, unnatural, inedible, disorganised</b>. There is no easy way of knowing which prefix any adjective will use. <b>in-</b> becomes <b>im-</b> before ‘m’ or ‘p’ (<b>immature, impatient, immoral, impossible, improbable</b>), <b>ir-</b> before ‘r’ (<b>irregular, irresponsible, irreplaceable</b>), and <b>il-</b> before ‘l’ (<b>illegal, illegible, illiterate</b>).</p><p><i>Tiền tố thường tạo nghĩa phủ định/trái nghĩa cho tính từ; không có quy tắc dễ để biết dùng tiền tố nào. <b>in-</b> → <b>im-</b> trước m/p, <b>ir-</b> trước r, <b>il-</b> trước l.</i></p> <p><b>LH. Language help</b><br><i>LH. Lưu ý ngôn ngữ</i></p> <p>The prefix <b>in-</b> (and its variations) does not always have a negative meaning - often it gives the idea of inside or into: <b>internal, import, insert, income</b>.</p><p><i><b>in-</b> không phải lúc nào cũng phủ định; thường mang nghĩa ‘bên trong, vào trong’.</i></p> <p><b>B. Negative prefixes on verbs</b><br><i>B. Tiền tố phủ định cho động từ</i></p> <p><b>un-</b> and <b>dis-</b> can form the opposites of verbs, reversing the action: <b>untie, disappear, disagree, disapprove, disbelieve, disconnect, discourage, dislike, disprove, disqualify, unbend, undo, undress, unfold, unload, unlock, unveil, unwrap, unzip</b>.</p><p><i><b>un-</b> và <b>dis-</b> đảo ngược hành động của động từ.</i></p> <p><b>C. Other common prefixes</b><br><i>C. Các tiền tố phổ biến khác</i></p> <p>Some words with prefixes use a hyphen; check in a dictionary. <b>anti</b> against; <b>auto</b> of or by oneself; <b>bi</b> two/twice; <b>ex</b> former / out of; <b>micro</b> small; <b>mis</b> badly/wrongly; <b>mono</b> one/single; <b>multi</b> many; <b>over</b> too much; <b>post</b> after; <b>pre</b> before; <b>pro</b> in favour of; <b>pseudo</b> false; <b>re</b> again/back; <b>semi</b> half; <b>sub</b> under; <b>under</b> not enough.</p><p><i><b>anti</b> chống; <b>auto</b> tự; <b>bi</b> hai; <b>ex</b> cựu / ra ngoài; <b>micro</b> nhỏ; <b>mis</b> sai; <b>mono</b> một; <b>multi</b> nhiều; <b>over</b> quá; <b>post</b> sau; <b>pre</b> trước; <b>pro</b> ủng hộ; <b>pseudo</b> giả; <b>re</b> lại; <b>semi</b> nửa; <b>sub</b> dưới; <b>under</b> chưa đủ.</i></p>",
+ "items": [
+  {
+   "word": "unfair",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʌnˈfeə(r)/",
+   "def_en": "Not fair.",
+   "def_vi": "Không công bằng.",
+   "gloss_vi": "bất công",
+   "synonyms": "unjust <i>(adj. bất công)</i>",
+   "antonyms": "fair <i>(adj. công bằng)</i>",
+   "grammar_vi": "<i>Unfair</i> (adjective) = bất công. <b>Grammar</b>: <i>un-</i> + <i>fair</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "It’s <b>unfair</b> to punish only her.",
+    "vi": "Thật <b>bất công</b> khi chỉ phạt mình cô ấy."
+   }
+  },
+  {
+   "word": "inexperienced",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɪnɪkˈspɪəriənst/",
+   "def_en": "Not having much experience.",
+   "def_vi": "Thiếu kinh nghiệm.",
+   "gloss_vi": "thiếu kinh nghiệm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "experienced <i>(adj. có kinh nghiệm)</i>",
+   "grammar_vi": "<i>Inexperienced</i> (adjective) = thiếu kinh nghiệm. <b>Grammar</b>: <i>in-</i> + <i>experienced</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He is young and <b>inexperienced</b>.",
+    "vi": "Anh ấy còn trẻ và <b>thiếu kinh nghiệm</b>."
+   }
+  },
+  {
+   "word": "dissimilar",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dɪˈsɪmɪlə(r)/",
+   "def_en": "Not similar.",
+   "def_vi": "Không giống.",
+   "gloss_vi": "khác nhau",
+   "synonyms": "different <i>(adj. khác)</i>",
+   "antonyms": "similar <i>(adj. giống)</i>",
+   "grammar_vi": "<i>Dissimilar</i> (adjective) = khác nhau. <b>Grammar</b>: <i>dis-</i> + <i>similar</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The two approaches are not <b>dissimilar</b>.",
+    "vi": "Hai cách tiếp cận này không <b>khác nhau</b> lắm."
+   }
+  },
+  {
+   "word": "unnatural",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ʌnˈnætʃrəl/",
+   "def_en": "Not natural.",
+   "def_vi": "Không tự nhiên.",
+   "gloss_vi": "không tự nhiên",
+   "synonyms": "artificial <i>(adj. nhân tạo)</i>",
+   "antonyms": "natural <i>(adj. tự nhiên)</i>",
+   "grammar_vi": "<i>Unnatural</i> (adjective) = không tự nhiên. <b>Grammar</b>: <i>un-</i> + <i>natural</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Her smile looked <b>unnatural</b>.",
+    "vi": "Nụ cười của cô ấy trông <b>không tự nhiên</b>."
+   }
+  },
+  {
+   "word": "inedible",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪnˈedəbl/",
+   "def_en": "Not suitable to be eaten.",
+   "def_vi": "Không ăn được.",
+   "gloss_vi": "không ăn được",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "edible <i>(adj. ăn được)</i>",
+   "grammar_vi": "<i>Inedible</i> (adjective) = không ăn được. <b>Grammar</b>: <i>in-</i> + <i>edible</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The meat was burnt and <b>inedible</b>.",
+    "vi": "Thịt cháy đến mức <b>không ăn được</b>."
+   }
+  },
+  {
+   "word": "disorganised",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dɪsˈɔːɡənaɪzd/",
+   "def_en": "Badly organised.",
+   "def_vi": "Thiếu tổ chức.",
+   "gloss_vi": "lộn xộn, thiếu tổ chức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "organised <i>(adj. ngăn nắp)</i>",
+   "grammar_vi": "<i>Disorganised</i> (adjective) = lộn xộn, thiếu tổ chức. <b>Grammar</b>: <i>dis-</i> + <i>organised</i>; Mỹ <i>-ized</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She is very <b>disorganised</b>.",
+    "vi": "Cô ấy rất <b>thiếu tổ chức</b>."
+   }
+  },
+  {
+   "word": "immature",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɪməˈtjʊə(r)/",
+   "def_en": "Behaving in a way that is not adult.",
+   "def_vi": "Cư xử như trẻ con.",
+   "gloss_vi": "chưa chín chắn",
+   "synonyms": "childish <i>(adj. trẻ con)</i>",
+   "antonyms": "mature <i>(adj. chín chắn)</i>",
+   "grammar_vi": "<i>Immature</i> (adjective) = chưa chín chắn. <b>Grammar</b>: <i>in-</i> → <i>im-</i> trước <i>m</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He behaves in a very <b>immature</b> way.",
+    "vi": "Anh ta cư xử rất <b>chưa chín chắn</b>."
+   }
+  },
+  {
+   "word": "immoral",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪˈmɒrəl/",
+   "def_en": "Morally wrong.",
+   "def_vi": "Sai trái về đạo đức.",
+   "gloss_vi": "vô đạo đức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "moral <i>(adj. có đạo đức)</i>",
+   "grammar_vi": "<i>Immoral</i> (adjective) = vô đạo đức. <b>Grammar</b>: <i>in-</i> → <i>im-</i> trước <i>m</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "It is <b>immoral</b> to lie like that.",
+    "vi": "Nói dối như vậy là <b>vô đạo đức</b>."
+   }
+  },
+  {
+   "word": "impossible",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪmˈpɒsəbl/",
+   "def_en": "Not able to happen or be done.",
+   "def_vi": "Không thể xảy ra hay làm được.",
+   "gloss_vi": "không thể",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "possible <i>(adj. có thể)</i>",
+   "grammar_vi": "<i>Impossible</i> (adjective) = không thể. <b>Grammar</b>: <i>in-</i> → <i>im-</i> trước <i>p</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "It’s <b>impossible</b> to finish it in a day.",
+    "vi": "Hoàn thành trong một ngày là <b>không thể</b>."
+   }
+  },
+  {
+   "word": "improbable",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪmˈprɒbəbl/",
+   "def_en": "Not likely to happen.",
+   "def_vi": "Không có khả năng xảy ra.",
+   "gloss_vi": "khó xảy ra",
+   "synonyms": "unlikely <i>(adj. không chắc)</i>",
+   "antonyms": "probable <i>(adj. có khả năng)</i>",
+   "grammar_vi": "<i>Improbable</i> (adjective) = khó xảy ra. <b>Grammar</b>: <i>in-</i> → <i>im-</i> trước <i>p</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "an <b>improbable</b> outcome",
+    "vi": "Một kết cục <b>khó xảy ra</b>."
+   }
+  },
+  {
+   "word": "irregular",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪˈreɡjələ(r)/",
+   "def_en": "Not regular.",
+   "def_vi": "Không đều, bất quy tắc.",
+   "gloss_vi": "bất quy tắc, không đều",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "regular <i>(adj. đều)</i>",
+   "grammar_vi": "<i>Irregular</i> (adjective) = bất quy tắc, không đều. <b>Grammar</b>: <i>in-</i> → <i>ir-</i> trước <i>r</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "‘Go’ is an <b>irregular</b> verb.",
+    "vi": "‘Go’ là động từ <b>bất quy tắc</b>."
+   }
+  },
+  {
+   "word": "irresponsible",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɪrɪˈspɒnsəbl/",
+   "def_en": "Not thinking enough about the results of your actions.",
+   "def_vi": "Không nghĩ đủ về hậu quả.",
+   "gloss_vi": "vô trách nhiệm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "responsible <i>(adj. có trách nhiệm)</i>",
+   "grammar_vi": "<i>Irresponsible</i> (adjective) = vô trách nhiệm. <b>Grammar</b>: <i>in-</i> → <i>ir-</i> trước <i>r</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "It’s <b>irresponsible</b> to leave children alone.",
+    "vi": "Để trẻ một mình là <b>vô trách nhiệm</b>."
+   }
+  },
+  {
+   "word": "irreplaceable",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɪrɪˈpleɪsəbl/",
+   "def_en": "Impossible to replace.",
+   "def_vi": "Không thể thay thế.",
+   "gloss_vi": "không thể thay thế",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "replaceable <i>(adj. thay được)</i>",
+   "grammar_vi": "<i>Irreplaceable</i> (adjective) = không thể thay thế. <b>Grammar</b>: <i>in-</i> → <i>ir-</i> trước <i>r</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "These old photos are <b>irreplaceable</b>.",
+    "vi": "Những bức ảnh cũ này <b>không thể thay thế</b>."
+   }
+  },
+  {
+   "word": "illegible",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪˈledʒəbl/",
+   "def_en": "Impossible to read.",
+   "def_vi": "Không đọc được.",
+   "gloss_vi": "khó đọc, không đọc được",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "legible <i>(adj. dễ đọc)</i>",
+   "grammar_vi": "<i>Illegible</i> (adjective) = khó đọc, không đọc được. <b>Grammar</b>: <i>in-</i> → <i>il-</i> trước <i>l</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "His handwriting is <b>illegible</b>.",
+    "vi": "Chữ viết tay của anh ấy <b>không đọc được</b>."
+   }
+  },
+  {
+   "word": "illiterate",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪˈlɪtərət/",
+   "def_en": "Unable to read or write.",
+   "def_vi": "Không biết đọc viết.",
+   "gloss_vi": "mù chữ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "literate <i>(adj. biết chữ)</i>",
+   "grammar_vi": "<i>Illiterate</i> (adjective) = mù chữ. <b>Grammar</b>: <i>in-</i> → <i>il-</i> trước <i>l</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Many adults here are <b>illiterate</b>.",
+    "vi": "Nhiều người lớn ở đây <b>mù chữ</b>."
+   }
+  },
+  {
+   "word": "internal",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪnˈtɜːnl/",
+   "def_en": "Inside something.",
+   "def_vi": "Ở bên trong.",
+   "gloss_vi": "bên trong, nội bộ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "external <i>(adj. bên ngoài)</i>",
+   "grammar_vi": "<i>Internal</i> (adjective) = bên trong, nội bộ. <b>Grammar</b>: <i>in-</i> = bên trong, không phủ định.",
+   "ex_kit": true,
+   "example": {
+    "en": "an <b>internal</b> investigation",
+    "vi": "Một cuộc điều tra <b>nội bộ</b>."
+   }
+  },
+  {
+   "word": "untie",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ʌnˈtaɪ/",
+   "def_en": "To undo a knot or something tied.",
+   "def_vi": "Cởi nút hay thứ được buộc.",
+   "gloss_vi": "cởi",
+   "synonyms": "undo <i>(v. tháo)</i>",
+   "antonyms": "tie <i>(v. buộc)</i>",
+   "grammar_vi": "<i>Untie</i> (verb) = cởi. <b>Grammar</b>: <i>un-</i> đảo ngược hành động.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Untie</b> your shoelaces.",
+    "vi": "<b>Cởi</b> dây giày ra."
+   }
+  },
+  {
+   "word": "disappear",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌdɪsəˈpɪə(r)/",
+   "def_en": "To stop being seen.",
+   "def_vi": "Không còn thấy nữa.",
+   "gloss_vi": "biến mất",
+   "synonyms": "vanish <i>(v. biến mất)</i>",
+   "antonyms": "appear <i>(v. xuất hiện)</i>",
+   "grammar_vi": "<i>Disappear</i> (verb) = biến mất. <b>Grammar</b>: <i>dis-</i> + <i>appear</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The cat <b>disappeared</b> under the bed.",
+    "vi": "Con mèo <b>biến mất</b> dưới gầm giường."
+   }
+  },
+  {
+   "word": "disapprove",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌdɪsəˈpruːv/",
+   "def_en": "To think that something is bad.",
+   "def_vi": "Cho rằng điều gì không tốt.",
+   "gloss_vi": "không tán thành",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "approve <i>(v. tán thành)</i>",
+   "grammar_vi": "<i>Disapprove</i> (verb) = không tán thành. <b>Grammar</b>: <i>disapprove of sth</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Her parents <b>disapprove</b> of her boyfriend.",
+    "vi": "Bố mẹ cô ấy <b>không tán thành</b> bạn trai cô."
+   }
+  },
+  {
+   "word": "disbelieve",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌdɪsbɪˈliːv/",
+   "def_en": "Not to believe someone or something.",
+   "def_vi": "Không tin ai/cái gì.",
+   "gloss_vi": "không tin",
+   "synonyms": "doubt <i>(v. nghi ngờ)</i>",
+   "antonyms": "believe <i>(v. tin)</i>",
+   "grammar_vi": "<i>Disbelieve</i> (verb) = không tin. <b>Grammar</b>: <i>disbelief</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "The police <b>disbelieved</b> his story.",
+    "vi": "Cảnh sát <b>không tin</b> câu chuyện của anh ta."
+   }
+  },
+  {
+   "word": "disconnect",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌdɪskəˈnekt/",
+   "def_en": "To separate something from a supply or another thing.",
+   "def_vi": "Ngắt khỏi nguồn hay vật khác.",
+   "gloss_vi": "ngắt kết nối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "connect <i>(v. kết nối)</i>",
+   "grammar_vi": "<i>Disconnect</i> (verb) = ngắt kết nối. <b>Grammar</b>: <i>dis-</i> + <i>connect</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Disconnect</b> the computer before you repair it.",
+    "vi": "<b>Ngắt</b> máy tính trước khi sửa."
+   }
+  },
+  {
+   "word": "discourage",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪsˈkʌrɪdʒ/",
+   "def_en": "To make someone less confident or less willing to do something.",
+   "def_vi": "Làm ai mất tự tin hay bớt muốn làm gì.",
+   "gloss_vi": "làm nản lòng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "encourage <i>(v. khuyến khích)</i>",
+   "grammar_vi": "<i>Discourage</i> (verb) = làm nản lòng. <b>Grammar</b>: <i>discourage sb from + -ing</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Don’t let failure <b>discourage</b> you.",
+    "vi": "Đừng để thất bại <b>làm bạn nản lòng</b>."
+   }
+  },
+  {
+   "word": "disprove",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪsˈpruːv/",
+   "def_en": "To show that something is false.",
+   "def_vi": "Chứng minh điều gì sai.",
+   "gloss_vi": "bác bỏ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "prove <i>(v. chứng minh)</i>",
+   "grammar_vi": "<i>Disprove</i> (verb) = bác bỏ. <b>Grammar</b>: <i>dis-</i> + <i>prove</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Scientists have <b>disproved</b> the theory.",
+    "vi": "Các nhà khoa học đã <b>bác bỏ</b> giả thuyết đó."
+   }
+  },
+  {
+   "word": "disqualify",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪsˈkwɒlɪfaɪ/",
+   "def_en": "To stop someone from taking part because they broke a rule.",
+   "def_vi": "Loại ai vì phạm luật.",
+   "gloss_vi": "truất quyền thi đấu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "qualify <i>(v. đủ điều kiện)</i>",
+   "grammar_vi": "<i>Disqualify</i> (verb) = truất quyền thi đấu. <b>Grammar</b>: <i>disqualification</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "The athlete was <b>disqualified</b> for doping.",
+    "vi": "Vận động viên bị <b>truất quyền thi đấu</b> vì dùng doping."
+   }
+  },
+  {
+   "word": "unfold",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ʌnˈfəʊld/",
+   "def_en": "To open something that was folded.",
+   "def_vi": "Mở vật đã gấp.",
+   "gloss_vi": "mở ra",
+   "synonyms": "open <i>(v. mở)</i>",
+   "antonyms": "fold <i>(v. gấp)</i>",
+   "grammar_vi": "<i>Unfold</i> (verb) = mở ra. <b>Grammar</b>: <i>un-</i> + <i>fold</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He <b>unfolded</b> the map.",
+    "vi": "Anh ấy <b>mở</b> tấm bản đồ ra."
+   }
+  },
+  {
+   "word": "unload",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ʌnˈləʊd/",
+   "def_en": "To remove things from a vehicle.",
+   "def_vi": "Dỡ đồ khỏi xe.",
+   "gloss_vi": "dỡ hàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "load <i>(v. chất hàng)</i>",
+   "grammar_vi": "<i>Unload</i> (verb) = dỡ hàng. <b>Grammar</b>: <i>un-</i> + <i>load</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "They <b>unloaded</b> the lorry.",
+    "vi": "Họ <b>dỡ hàng</b> khỏi xe tải."
+   }
+  },
+  {
+   "word": "unveil",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌʌnˈveɪl/",
+   "def_en": "To remove a cover from something, or show it publicly for the first time.",
+   "def_vi": "Gỡ tấm phủ hay ra mắt lần đầu.",
+   "gloss_vi": "khánh thành, ra mắt",
+   "synonyms": "reveal <i>(v. tiết lộ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Unveil</i> (verb) = khánh thành, ra mắt. <b>Grammar</b>: <i>un-</i> + <i>veil</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The mayor <b>unveiled</b> the new statue.",
+    "vi": "Thị trưởng <b>khánh thành</b> bức tượng mới."
+   }
+  },
+  {
+   "word": "unwrap",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ʌnˈræp/",
+   "def_en": "To remove the paper from a present.",
+   "def_vi": "Bóc giấy gói quà.",
+   "gloss_vi": "bóc (quà)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "wrap <i>(v. gói)</i>",
+   "grammar_vi": "<i>Unwrap</i> (verb) = bóc (quà). <b>Grammar</b>: <i>un-</i> + <i>wrap</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The children <b>unwrapped</b> their presents.",
+    "vi": "Bọn trẻ <b>bóc</b> quà."
+   }
+  },
+  {
+   "word": "unzip",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ʌnˈzɪp/",
+   "def_en": "To open a zip.",
+   "def_vi": "Mở khóa kéo.",
+   "gloss_vi": "kéo khóa mở",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "zip <i>(v. kéo khóa)</i>",
+   "grammar_vi": "<i>Unzip</i> (verb) = kéo khóa mở. <b>Common mistakes</b>: cũng = giải nén tệp.",
+   "ex_kit": true,
+   "example": {
+    "en": "She <b>unzipped</b> her bag.",
+    "vi": "Cô ấy <b>kéo khóa</b> túi ra."
+   }
+  },
+  {
+   "word": "antisocial",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌæntiˈsəʊʃl/",
+   "def_en": "Harmful to society or not wanting to be with others.",
+   "def_vi": "Có hại cho xã hội, hoặc không thích giao du.",
+   "gloss_vi": "chống đối xã hội, khó gần",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "sociable <i>(adj. hòa đồng)</i>",
+   "grammar_vi": "<i>Antisocial</i> (adjective) = chống đối xã hội, khó gần. <b>Grammar</b>: <i>anti</i> = chống.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>antisocial</b> behaviour such as graffiti",
+    "vi": "Hành vi <b>chống đối xã hội</b> như vẽ bậy."
+   }
+  },
+  {
+   "word": "antiseptic",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌæntiˈseptɪk/",
+   "def_en": "A substance that kills bacteria.",
+   "def_vi": "Chất diệt khuẩn.",
+   "gloss_vi": "thuốc sát trùng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Antiseptic</i> (noun) = thuốc sát trùng. <b>Grammar</b>: <i>anti</i> = chống.",
+   "ex_kit": true,
+   "example": {
+    "en": "Put some <b>antiseptic</b> on the cut.",
+    "vi": "Bôi <b>thuốc sát trùng</b> lên vết cắt."
+   }
+  },
+  {
+   "word": "autobiography",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɔːtəbaɪˈɒɡrəfi/",
+   "def_en": "A book about a person’s life written by that person.",
+   "def_vi": "Sách về đời một người do chính người đó viết.",
+   "gloss_vi": "tự truyện",
+   "synonyms": "memoir <i>(n. hồi ký)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Autobiography</i> (noun) = tự truyện. <b>Grammar</b>: <i>auto</i> = tự mình.",
+   "ex_kit": true,
+   "example": {
+    "en": "She is writing her <b>autobiography</b>.",
+    "vi": "Bà ấy đang viết <b>tự truyện</b>."
+   }
+  },
+  {
+   "word": "bilingual",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌbaɪˈlɪŋɡwəl/",
+   "def_en": "Able to speak two languages well.",
+   "def_vi": "Nói tốt hai thứ tiếng.",
+   "gloss_vi": "song ngữ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "monolingual <i>(adj. đơn ngữ)</i>",
+   "grammar_vi": "<i>Bilingual</i> (adjective) = song ngữ. <b>Grammar</b>: <i>bi</i> = hai.",
+   "ex_kit": true,
+   "example": {
+    "en": "Her children are <b>bilingual</b>.",
+    "vi": "Con cô ấy <b>nói song ngữ</b>."
+   }
+  },
+  {
+   "word": "biannual",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/baɪˈænjuəl/",
+   "def_en": "Happening twice a year.",
+   "def_vi": "Diễn ra hai lần một năm.",
+   "gloss_vi": "nửa năm một lần",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Biannual</i> (adjective) = nửa năm một lần. <b>Grammar</b>: <i>bi</i> = hai lần.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>biannual</b> meeting",
+    "vi": "Một cuộc họp <b>nửa năm một lần</b>."
+   }
+  },
+  {
+   "word": "ex-wife",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌeks ˈwaɪf/",
+   "def_en": "A former wife.",
+   "def_vi": "Vợ cũ.",
+   "gloss_vi": "vợ cũ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ex-wife</i> (noun) = vợ cũ. <b>Grammar</b>: <i>ex</i> = cựu, có gạch nối.",
+   "ex_kit": true,
+   "example": {
+    "en": "He is still friends with his <b>ex-wife</b>.",
+    "vi": "Anh ấy vẫn là bạn với <b>vợ cũ</b>."
+   }
+  },
+  {
+   "word": "exhale",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/eksˈheɪl/",
+   "def_en": "To breathe out.",
+   "def_vi": "Thở ra.",
+   "gloss_vi": "thở ra",
+   "synonyms": "breathe out <i>(v. thở ra)</i>",
+   "antonyms": "inhale <i>(v. hít vào)</i>",
+   "grammar_vi": "<i>Exhale</i> (verb) = thở ra. <b>Grammar</b>: <i>ex</i> = ra ngoài.",
+   "ex_kit": true,
+   "example": {
+    "en": "Breathe in and then <b>exhale</b> slowly.",
+    "vi": "Hít vào rồi <b>thở ra</b> chậm."
+   }
+  },
+  {
+   "word": "microscopic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌmaɪkrəˈskɒpɪk/",
+   "def_en": "Extremely small.",
+   "def_vi": "Cực kỳ nhỏ.",
+   "gloss_vi": "cực nhỏ, vi mô",
+   "synonyms": "tiny <i>(adj. tí hon)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Microscopic</i> (adjective) = cực nhỏ, vi mô. <b>Grammar</b>: <i>micro</i> = nhỏ.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>microscopic</b> creatures",
+    "vi": "Sinh vật <b>cực nhỏ</b>."
+   }
+  },
+  {
+   "word": "mislead",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌmɪsˈliːd/",
+   "def_en": "To make someone believe something that is not true.",
+   "def_vi": "Khiến ai tin điều sai.",
+   "gloss_vi": "đánh lừa",
+   "synonyms": "deceive <i>(v. lừa dối)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mislead</i> (verb) = đánh lừa. <b>Grammar</b>: <i>mis</i> = sai; bất quy tắc: misled.",
+   "ex_kit": true,
+   "example": {
+    "en": "The advert <b>misled</b> customers.",
+    "vi": "Quảng cáo đó <b>đánh lừa</b> khách hàng."
+   }
+  },
+  {
+   "word": "mistranslate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌmɪstrænzˈleɪt/",
+   "def_en": "To translate wrongly.",
+   "def_vi": "Dịch sai.",
+   "gloss_vi": "dịch sai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mistranslate</i> (verb) = dịch sai. <b>Grammar</b>: <i>mis</i> = sai.",
+   "ex_kit": true,
+   "example": {
+    "en": "This sentence was <b>mistranslated</b>.",
+    "vi": "Câu này đã bị <b>dịch sai</b>."
+   }
+  },
+  {
+   "word": "monologue",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɒnəlɒɡ/",
+   "def_en": "A long speech by one person.",
+   "def_vi": "Bài nói dài của một người.",
+   "gloss_vi": "độc thoại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "dialogue <i>(n. đối thoại)</i>",
+   "grammar_vi": "<i>Monologue</i> (noun) = độc thoại. <b>Grammar</b>: <i>mono</i> = một.",
+   "ex_kit": true,
+   "example": {
+    "en": "The play opens with a <b>monologue</b>.",
+    "vi": "Vở kịch mở đầu bằng một <b>đoạn độc thoại</b>."
+   }
+  },
+  {
+   "word": "multinational",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌmʌltiˈnæʃnəl/",
+   "def_en": "Operating in several countries.",
+   "def_vi": "Hoạt động ở nhiều nước.",
+   "gloss_vi": "đa quốc gia",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Multinational</i> (adjective) = đa quốc gia. <b>Grammar</b>: <i>multi</i> = nhiều.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>multinational</b> company",
+    "vi": "Một công ty <b>đa quốc gia</b>."
+   }
+  },
+  {
+   "word": "multi-purpose",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌmʌlti ˈpɜːpəs/",
+   "def_en": "Having several uses.",
+   "def_vi": "Có nhiều công dụng.",
+   "gloss_vi": "đa năng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Multi-purpose</i> (adjective) = đa năng. <b>Grammar</b>: <i>multi</i> = nhiều.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>multi-purpose</b> knife",
+    "vi": "Một con dao <b>đa năng</b>."
+   }
+  },
+  {
+   "word": "oversleep",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌəʊvəˈsliːp/",
+   "def_en": "To sleep longer than you intended.",
+   "def_vi": "Ngủ lâu hơn dự định.",
+   "gloss_vi": "ngủ quên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Oversleep</i> (verb) = ngủ quên. <b>Grammar</b>: <i>over</i> = quá mức; bất quy tắc: overslept.",
+   "ex_kit": true,
+   "example": {
+    "en": "I <b>overslept</b> and missed the train.",
+    "vi": "Tôi <b>ngủ quên</b> và lỡ chuyến tàu."
+   }
+  },
+  {
+   "word": "overeat",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌəʊvərˈiːt/",
+   "def_en": "To eat too much.",
+   "def_vi": "Ăn quá nhiều.",
+   "gloss_vi": "ăn quá nhiều",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Overeat</i> (verb) = ăn quá nhiều. <b>Grammar</b>: <i>over</i> = quá mức.",
+   "ex_kit": true,
+   "example": {
+    "en": "People often <b>overeat</b> at holidays.",
+    "vi": "Ngày lễ người ta hay <b>ăn quá nhiều</b>."
+   }
+  },
+  {
+   "word": "postgraduate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpəʊstˈɡrædʒuət/",
+   "def_en": "A student studying for a higher degree after a first degree.",
+   "def_vi": "Sinh viên học lên sau khi có bằng đầu.",
+   "gloss_vi": "học viên sau đại học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "undergraduate <i>(n. sinh viên đại học)</i>",
+   "grammar_vi": "<i>Postgraduate</i> (noun) = học viên sau đại học. <b>Grammar</b>: <i>post</i> = sau.",
+   "ex_kit": true,
+   "example": {
+    "en": "She is a <b>postgraduate</b> in chemistry.",
+    "vi": "Cô ấy là <b>học viên sau đại học</b> ngành hóa."
+   }
+  },
+  {
+   "word": "post-war",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌpəʊst ˈwɔː(r)/",
+   "def_en": "Happening after a war.",
+   "def_vi": "Diễn ra sau chiến tranh.",
+   "gloss_vi": "hậu chiến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "pre-war <i>(adj. trước chiến tranh)</i>",
+   "grammar_vi": "<i>Post-war</i> (adjective) = hậu chiến. <b>Grammar</b>: <i>post</i> = sau.",
+   "ex_kit": true,
+   "example": {
+    "en": "the <b>post-war</b> period",
+    "vi": "Thời kỳ <b>hậu chiến</b>."
+   }
+  },
+  {
+   "word": "preconceived",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌpriːkənˈsiːvd/",
+   "def_en": "Formed before having enough information.",
+   "def_vi": "Hình thành trước khi có đủ thông tin.",
+   "gloss_vi": "định kiến, có sẵn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Preconceived</i> (adjective) = định kiến, có sẵn. <b>Grammar</b>: <i>pre</i> = trước; <i>preconceived ideas</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Don’t come with <b>preconceived</b> ideas.",
+    "vi": "Đừng đến với <b>định kiến</b> có sẵn."
+   }
+  },
+  {
+   "word": "pre-judge",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌpriː ˈdʒʌdʒ/",
+   "def_en": "To form an opinion before knowing all the facts.",
+   "def_vi": "Đánh giá trước khi biết đủ sự thật.",
+   "gloss_vi": "phán xét vội",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pre-judge</i> (verb) = phán xét vội. <b>Grammar</b>: <i>pre</i> = trước.",
+   "ex_kit": true,
+   "example": {
+    "en": "Don’t <b>pre-judge</b> him before you hear him.",
+    "vi": "Đừng <b>phán xét vội</b> trước khi nghe anh ấy."
+   }
+  },
+  {
+   "word": "pro-government",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌprəʊ ˈɡʌvənmənt/",
+   "def_en": "Supporting the government.",
+   "def_vi": "Ủng hộ chính phủ.",
+   "gloss_vi": "thân chính phủ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "anti-government <i>(adj. chống chính phủ)</i>",
+   "grammar_vi": "<i>Pro-government</i> (adjective) = thân chính phủ. <b>Grammar</b>: <i>pro</i> = ủng hộ.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>pro-government</b> newspaper",
+    "vi": "Một tờ báo <b>thân chính phủ</b>."
+   }
+  },
+  {
+   "word": "pseudo-scientific",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌsjuːdəʊ saɪənˈtɪfɪk/",
+   "def_en": "Falsely claiming to be scientific.",
+   "def_vi": "Giả danh khoa học.",
+   "gloss_vi": "giả khoa học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pseudo-scientific</i> (adjective) = giả khoa học. <b>Grammar</b>: <i>pseudo</i> = giả.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>pseudo-scientific</b> claims",
+    "vi": "Những tuyên bố <b>giả khoa học</b>."
+   }
+  },
+  {
+   "word": "regain",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rɪˈɡeɪn/",
+   "def_en": "To get something back.",
+   "def_vi": "Lấy lại.",
+   "gloss_vi": "lấy lại",
+   "synonyms": "recover <i>(v. hồi phục)</i>",
+   "antonyms": "lose <i>(v. mất)</i>",
+   "grammar_vi": "<i>Regain</i> (verb) = lấy lại. <b>Grammar</b>: <i>re</i> = lại.",
+   "ex_kit": true,
+   "example": {
+    "en": "She has <b>regained</b> her health.",
+    "vi": "Cô ấy đã <b>lấy lại</b> sức khỏe."
+   }
+  },
+  {
+   "word": "rearrange",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌriːəˈreɪndʒ/",
+   "def_en": "To arrange again in a different way.",
+   "def_vi": "Sắp xếp lại.",
+   "gloss_vi": "sắp xếp lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rearrange</i> (verb) = sắp xếp lại. <b>Grammar</b>: <i>re</i> = lại.",
+   "ex_kit": true,
+   "example": {
+    "en": "We <b>rearranged</b> the furniture.",
+    "vi": "Chúng tôi <b>sắp xếp lại</b> đồ đạc."
+   }
+  },
+  {
+   "word": "semi-detached",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌsemi dɪˈtætʃt/",
+   "def_en": "(Of a house) joined to another house on one side.",
+   "def_vi": "(Nhà) dính với nhà khác ở một bên.",
+   "gloss_vi": "nhà song lập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "detached <i>(adj. biệt lập)</i>",
+   "grammar_vi": "<i>Semi-detached</i> (adjective) = nhà song lập. <b>Grammar</b>: <i>semi</i> = nửa.",
+   "ex_kit": true,
+   "example": {
+    "en": "They live in a <b>semi-detached</b> house.",
+    "vi": "Họ sống trong một căn nhà <b>song lập</b>."
+   }
+  },
+  {
+   "word": "submarine",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsʌbməˈriːn/",
+   "def_en": "A ship that can travel under water.",
+   "def_vi": "Tàu đi dưới nước.",
+   "gloss_vi": "tàu ngầm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Submarine</i> (noun) = tàu ngầm. <b>Grammar</b>: <i>sub</i> = dưới.",
+   "ex_kit": true,
+   "example": {
+    "en": "a nuclear <b>submarine</b>",
+    "vi": "Một chiếc <b>tàu ngầm</b> hạt nhân."
+   }
+  },
+  {
+   "word": "subdivision",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsʌbdɪvɪʒn/",
+   "def_en": "One of the smaller parts something is divided into.",
+   "def_vi": "Phần nhỏ hơn khi chia tiếp.",
+   "gloss_vi": "phân khu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Subdivision</i> (noun) = phân khu. <b>Grammar</b>: <i>sub</i> = dưới.",
+   "ex_kit": true,
+   "example": {
+    "en": "Each chapter has several <b>subdivisions</b>.",
+    "vi": "Mỗi chương có nhiều <b>tiểu mục</b>."
+   }
+  },
+  {
+   "word": "underused",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʌndəˈjuːzd/",
+   "def_en": "Not used as much as it could be.",
+   "def_vi": "Chưa được dùng hết mức.",
+   "gloss_vi": "chưa tận dụng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Underused</i> (adjective) = chưa tận dụng. <b>Grammar</b>: <i>under</i> = chưa đủ.",
+   "ex_kit": true,
+   "example": {
+    "en": "The gym is <b>underused</b>.",
+    "vi": "Phòng tập này <b>chưa được tận dụng</b>."
+   }
+  }
+ ]
+}

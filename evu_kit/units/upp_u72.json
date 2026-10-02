@@ -1,0 +1,496 @@
+{
+ "book": "upp",
+ "unit": 72,
+ "title_vi": "Gốc từ",
+ "theory_html": "<p><b>A. Verbs based on Latin words</b><br><i>A. Động từ gốc Latin</i></p> <p>Many words in English are formed from Latin roots. These words are often considered fairly formal. DUC, DUCT lead: <b>conduct, induce, viaduct</b>; PONE, POSE place, put: <b>postpone, depose, impose, compose, deposit</b>; PORT carry, take: <b>transport, import, export, support, deport</b>; PRESS press, push: <b>impress, depress, express</b>; SPECT see, look: <b>respect, inspect, prospect</b>; VERT turn: <b>revert, convert, divert</b>.</p><p><i>Nhiều từ tiếng Anh có gốc Latin, thường khá trang trọng. DUC/DUCT = dẫn; PONE/POSE = đặt; PORT = mang; PRESS = ấn, đẩy; SPECT = nhìn; VERT = xoay.</i></p> <p><b>B. Nouns based on Latin words</b><br><i>B. Danh từ gốc Latin</i></p> <p>For all the verbs listed, there is usually at least one noun, sometimes a different one for a person and an idea: <b>inspect – inspector – inspection; advertise – advertiser – advertisement; deport – deportee – deportation; introduce – introducer – introduction; oppress – oppressor – oppression; compose – composer – composition</b>.</p><p><i>Mỗi động từ thường có ít nhất một danh từ, đôi khi một cho người và một cho khái niệm.</i></p>",
+ "items": [
+  {
+   "word": "conduct",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kənˈdʌkt/",
+   "def_en": "To lead or direct, e.g. an orchestra.",
+   "def_vi": "Dẫn dắt, chỉ huy, như dàn nhạc.",
+   "gloss_vi": "chỉ huy",
+   "synonyms": "lead <i>(v. dẫn dắt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Conduct</i> (verb) = chỉ huy. <b>Grammar</b>: gốc DUCT = dẫn; <i>conductor</i> (n.).",
+   "example": {
+    "en": "He <b>conducted</b> the orchestra with great vigour.",
+    "vi": "Ông ấy <b>chỉ huy</b> dàn nhạc đầy sôi nổi."
+   }
+  },
+  {
+   "word": "induce",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪnˈdjuːs/",
+   "def_en": "To persuade or lead someone to do something.",
+   "def_vi": "Thuyết phục, dẫn dụ ai làm gì.",
+   "gloss_vi": "xui khiến",
+   "synonyms": "persuade <i>(v. thuyết phục)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Induce</i> (verb) = xui khiến. <b>Grammar</b>: <i>induce sb to do sth</i>; gốc DUC.",
+   "example": {
+    "en": "Nothing would <b>induce</b> me to join their organisation.",
+    "vi": "Không gì có thể <b>khiến</b> tôi gia nhập tổ chức của họ."
+   }
+  },
+  {
+   "word": "viaduct",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈvaɪədʌkt/",
+   "def_en": "A high bridge across a river or valley.",
+   "def_vi": "Cầu cao bắc qua sông hay thung lũng.",
+   "gloss_vi": "cầu cạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Viaduct</i> (noun) = cầu cạn. <b>Grammar</b>: gốc DUCT.",
+   "example": {
+    "en": "The railway goes over a high <b>viaduct</b>.",
+    "vi": "Đường sắt chạy qua một <b>cầu cạn</b> cao."
+   }
+  },
+  {
+   "word": "postpone",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/pəˈspəʊn/",
+   "def_en": "To put off to a later date.",
+   "def_vi": "Hoãn đến ngày sau.",
+   "gloss_vi": "hoãn",
+   "synonyms": "put off <i>(v. hoãn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Postpone</i> (verb) = hoãn. <b>Grammar</b>: gốc PONE = đặt.",
+   "example": {
+    "en": "The meeting has been <b>postponed</b> until next week.",
+    "vi": "Cuộc họp đã bị <b>hoãn</b> đến tuần sau."
+   }
+  },
+  {
+   "word": "depose",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪˈpəʊz/",
+   "def_en": "To remove someone from a position of power.",
+   "def_vi": "Đưa ai khỏi vị trí quyền lực.",
+   "gloss_vi": "phế truất",
+   "synonyms": "overthrow <i>(v. lật đổ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Depose</i> (verb) = phế truất. <b>Grammar</b>: gốc POSE.",
+   "example": {
+    "en": "The President was <b>deposed</b> by his own son.",
+    "vi": "Tổng thống bị chính con trai mình <b>phế truất</b>."
+   }
+  },
+  {
+   "word": "impose",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪmˈpəʊz/",
+   "def_en": "To put into force.",
+   "def_vi": "Áp đặt, đưa vào thực thi.",
+   "gloss_vi": "áp đặt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Impose</i> (verb) = áp đặt. <b>Grammar</b>: <i>impose sth on sb</i>.",
+   "example": {
+    "en": "The government have <b>imposed</b> a sizeable tax increase.",
+    "vi": "Chính phủ đã <b>áp</b> mức tăng thuế khá lớn."
+   }
+  },
+  {
+   "word": "compose",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kəmˈpəʊz/",
+   "def_en": "To create, e.g. music.",
+   "def_vi": "Sáng tác, như âm nhạc.",
+   "gloss_vi": "sáng tác",
+   "synonyms": "write <i>(v. viết)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Compose</i> (verb) = sáng tác. <b>Grammar</b>: <i>composer</i> (người), <i>composition</i> (tác phẩm).",
+   "example": {
+    "en": "Beethoven <b>composed</b> some beautiful pieces of music.",
+    "vi": "Beethoven đã <b>sáng tác</b> những bản nhạc tuyệt đẹp."
+   }
+  },
+  {
+   "word": "deposit",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪˈpɒzɪt/",
+   "def_en": "To put money into a bank account.",
+   "def_vi": "Gửi tiền vào tài khoản.",
+   "gloss_vi": "gửi (tiền)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "withdraw <i>(v. rút)</i>",
+   "grammar_vi": "<i>Deposit</i> (verb) = gửi (tiền). <b>Grammar</b>: cũng danh từ: <i>a deposit</i>.",
+   "example": {
+    "en": "She <b>deposited</b> some money in her bank account.",
+    "vi": "Cô ấy <b>gửi</b> một ít tiền vào tài khoản ngân hàng."
+   }
+  },
+  {
+   "word": "transport",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/trænˈspɔːt/",
+   "def_en": "To send or carry something from one place to another.",
+   "def_vi": "Chở từ nơi này sang nơi khác.",
+   "gloss_vi": "vận chuyển",
+   "synonyms": "carry <i>(v. chở)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Transport</i> (verb) = vận chuyển. <b>Grammar</b>: động từ /trænˈspɔːt/, danh từ /ˈtrænspɔːt/.",
+   "example": {
+    "en": "How are you going to <b>transport</b> your things to the States?",
+    "vi": "Bạn định <b>vận chuyển</b> đồ đạc sang Mỹ thế nào?"
+   }
+  },
+  {
+   "word": "import",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪmˈpɔːt/",
+   "def_en": "To buy goods from another country.",
+   "def_vi": "Mua hàng từ nước khác.",
+   "gloss_vi": "nhập khẩu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "export <i>(v. xuất khẩu)</i>",
+   "grammar_vi": "<i>Import</i> (verb) = nhập khẩu. <b>Grammar</b>: động từ trọng âm 2; danh từ /ˈɪmpɔːt/.",
+   "example": {
+    "en": "Britain <b>imports</b> cotton and exports wool.",
+    "vi": "Anh <b>nhập khẩu</b> bông và xuất khẩu len."
+   }
+  },
+  {
+   "word": "export",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪkˈspɔːt/",
+   "def_en": "To sell goods to another country.",
+   "def_vi": "Bán hàng sang nước khác.",
+   "gloss_vi": "xuất khẩu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "import <i>(v. nhập khẩu)</i>",
+   "grammar_vi": "<i>Export</i> (verb) = xuất khẩu. <b>Grammar</b>: động từ trọng âm 2; danh từ /ˈekspɔːt/.",
+   "example": {
+    "en": "Britain imports cotton and <b>exports</b> wool.",
+    "vi": "Anh nhập khẩu bông và <b>xuất khẩu</b> len."
+   }
+  },
+  {
+   "word": "support",
+   "sense": "evidence",
+   "pos": "verb",
+   "ipa": "/səˈpɔːt/",
+   "def_en": "To hold up or back an idea with evidence.",
+   "def_vi": "Củng cố ý kiến bằng bằng chứng.",
+   "gloss_vi": "củng cố, ủng hộ",
+   "synonyms": "back up <i>(v. củng cố)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Support</i> (verb) = củng cố, ủng hộ. <b>Grammar</b>: gốc PORT = mang.",
+   "example": {
+    "en": "Our opinions are <b>supported</b> by a considerable amount of research.",
+    "vi": "Quan điểm của chúng tôi được nhiều nghiên cứu <b>củng cố</b>."
+   }
+  },
+  {
+   "word": "deport",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪˈpɔːt/",
+   "def_en": "To send someone away to another country.",
+   "def_vi": "Đưa ai về nước khác.",
+   "gloss_vi": "trục xuất",
+   "synonyms": "expel <i>(v. trục xuất)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Deport</i> (verb) = trục xuất. <b>Grammar</b>: <i>deportee</i> (người), <i>deportation</i> (việc).",
+   "example": {
+    "en": "Foreigners who commit crimes are usually <b>deported</b>.",
+    "vi": "Người nước ngoài phạm tội thường bị <b>trục xuất</b>."
+   }
+  },
+  {
+   "word": "impress",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪmˈpres/",
+   "def_en": "To fill someone with admiration and respect.",
+   "def_vi": "Khiến ai ngưỡng mộ và tôn trọng.",
+   "gloss_vi": "gây ấn tượng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Impress</i> (verb) = gây ấn tượng. <b>Grammar</b>: gốc PRESS; <i>impression</i> (n.).",
+   "example": {
+    "en": "She was <b>impressed</b> by his presentation.",
+    "vi": "Cô ấy <b>ấn tượng</b> với bài thuyết trình của anh."
+   }
+  },
+  {
+   "word": "depress",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪˈpres/",
+   "def_en": "To fill someone with miserable feelings.",
+   "def_vi": "Khiến ai buồn chán.",
+   "gloss_vi": "làm chán nản",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "cheer up <i>(v. làm vui)</i>",
+   "grammar_vi": "<i>Depress</i> (verb) = làm chán nản. <b>Grammar</b>: <i>depressing</i> (adj.), <i>depression</i> (n.).",
+   "example": {
+    "en": "This weather <b>depresses</b> me.",
+    "vi": "Thời tiết này <b>làm tôi chán nản</b>."
+   }
+  },
+  {
+   "word": "express",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪkˈspres/",
+   "def_en": "To put your thoughts into words.",
+   "def_vi": "Diễn đạt suy nghĩ thành lời.",
+   "gloss_vi": "diễn đạt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Express</i> (verb) = diễn đạt. <b>Grammar</b>: <i>express yourself</i>; <i>expression</i> (n.).",
+   "example": {
+    "en": "She always <b>expresses</b> herself very articulately.",
+    "vi": "Cô ấy luôn <b>diễn đạt</b> rất lưu loát."
+   }
+  },
+  {
+   "word": "respect",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rɪˈspekt/",
+   "def_en": "To look up to someone.",
+   "def_vi": "Kính trọng ai.",
+   "gloss_vi": "kính trọng, tôn trọng",
+   "synonyms": "look up to <i>(v. kính trọng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Respect</i> (verb) = kính trọng, tôn trọng. <b>Grammar</b>: gốc SPECT = nhìn.",
+   "example": {
+    "en": "You should <b>respect</b> your parents / the laws of a country.",
+    "vi": "Bạn nên <b>tôn trọng</b> cha mẹ và luật pháp của một nước."
+   }
+  },
+  {
+   "word": "inspect",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪnˈspekt/",
+   "def_en": "To look into or examine closely.",
+   "def_vi": "Xem xét kỹ.",
+   "gloss_vi": "kiểm tra",
+   "synonyms": "examine <i>(v. xem xét)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Inspect</i> (verb) = kiểm tra. <b>Grammar</b>: <i>inspector</i> (người), <i>inspection</i> (việc).",
+   "example": {
+    "en": "The police officer <b>inspected</b> the mysterious package.",
+    "vi": "Viên cảnh sát <b>kiểm tra</b> gói hàng bí ẩn."
+   }
+  },
+  {
+   "word": "prospect",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/prəˈspekt/",
+   "def_en": "To search for gold, oil, etc.",
+   "def_vi": "Tìm kiếm vàng, dầu…",
+   "gloss_vi": "thăm dò, tìm kiếm",
+   "synonyms": "search <i>(v. tìm kiếm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Prospect</i> (verb) = thăm dò, tìm kiếm. <b>Grammar</b>: <i>prospect for</i>; danh từ /ˈprɒspekt/ = triển vọng.",
+   "example": {
+    "en": "Many pioneers travelled west in America to <b>prospect</b> for gold.",
+    "vi": "Nhiều người tiên phong đi về miền Tây nước Mỹ để <b>tìm</b> vàng."
+   }
+  },
+  {
+   "word": "revert",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rɪˈvɜːt/",
+   "def_en": "To go back to a previous state.",
+   "def_vi": "Quay về trạng thái cũ.",
+   "gloss_vi": "quay lại",
+   "synonyms": "return <i>(v. trở lại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Revert</i> (verb) = quay lại. <b>Grammar</b>: <i>revert to</i>; gốc VERT = xoay.",
+   "example": {
+    "en": "I soon <b>reverted</b> to my old favourite brand.",
+    "vi": "Tôi thử loại cà phê mới nhưng sớm <b>quay lại</b> nhãn cũ yêu thích."
+   }
+  },
+  {
+   "word": "convert",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kənˈvɜːt/",
+   "def_en": "To change from one form to another.",
+   "def_vi": "Đổi từ dạng này sang dạng khác.",
+   "gloss_vi": "chuyển đổi",
+   "synonyms": "change <i>(v. đổi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Convert</i> (verb) = chuyển đổi. <b>Grammar</b>: <i>convert sth to/into</i>.",
+   "example": {
+    "en": "Can you <b>convert</b> this document to a pdf?",
+    "vi": "Bạn có thể <b>chuyển</b> tài liệu này sang pdf không?"
+   }
+  },
+  {
+   "word": "divert",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/daɪˈvɜːt/",
+   "def_en": "To send something a different way.",
+   "def_vi": "Đưa theo hướng khác.",
+   "gloss_vi": "chuyển hướng",
+   "synonyms": "redirect <i>(v. đổi hướng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Divert</i> (verb) = chuyển hướng. <b>Grammar</b>: <i>diversion</i> (n.).",
+   "example": {
+    "en": "The police <b>diverted</b> the traffic because there was a demonstration.",
+    "vi": "Cảnh sát <b>chuyển hướng</b> giao thông vì có biểu tình."
+   }
+  },
+  {
+   "word": "inspector",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˈspektə(r)/",
+   "def_en": "A person whose job is to inspect things.",
+   "def_vi": "Người làm nghề kiểm tra.",
+   "gloss_vi": "thanh tra",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Inspector</i> (noun) = thanh tra. <b>Grammar</b>: danh từ người của <i>inspect</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "An <b>inspector</b> came to check the restaurant.",
+    "vi": "Một <b>thanh tra</b> đến kiểm tra nhà hàng."
+   }
+  },
+  {
+   "word": "inspection",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˈspekʃn/",
+   "def_en": "The act of inspecting.",
+   "def_vi": "Việc kiểm tra.",
+   "gloss_vi": "sự kiểm tra",
+   "synonyms": "examination <i>(n. sự xem xét)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Inspection</i> (noun) = sự kiểm tra. <b>Grammar</b>: danh từ trừu tượng của <i>inspect</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Cars must pass an annual <b>inspection</b>.",
+    "vi": "Xe phải qua <b>kiểm tra</b> hằng năm."
+   }
+  },
+  {
+   "word": "advertiser",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈædvətaɪzə(r)/",
+   "def_en": "A person or company that advertises.",
+   "def_vi": "Người hay công ty quảng cáo.",
+   "gloss_vi": "nhà quảng cáo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Advertiser</i> (noun) = nhà quảng cáo. <b>Grammar</b>: danh từ người của <i>advertise</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Advertisers</b> target young people.",
+    "vi": "Các <b>nhà quảng cáo</b> nhắm đến người trẻ."
+   }
+  },
+  {
+   "word": "deportation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdiːpɔːˈteɪʃn/",
+   "def_en": "The act of deporting someone.",
+   "def_vi": "Việc trục xuất.",
+   "gloss_vi": "sự trục xuất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Deportation</i> (noun) = sự trục xuất. <b>Grammar</b>: người bị trục xuất: <i>deportee</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He faces <b>deportation</b>.",
+    "vi": "Anh ta phải đối mặt với <b>trục xuất</b>."
+   }
+  },
+  {
+   "word": "oppress",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈpres/",
+   "def_en": "To treat people in a cruel and unfair way.",
+   "def_vi": "Đối xử tàn nhẫn và bất công.",
+   "gloss_vi": "áp bức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Oppress</i> (verb) = áp bức. <b>Grammar</b>: <i>oppressor</i> (người), <i>oppression</i> (việc).",
+   "ex_kit": true,
+   "example": {
+    "en": "The regime <b>oppressed</b> its people.",
+    "vi": "Chế độ đó <b>áp bức</b> người dân."
+   }
+  },
+  {
+   "word": "oppression",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈpreʃn/",
+   "def_en": "Cruel and unfair treatment.",
+   "def_vi": "Sự đối xử tàn nhẫn, bất công.",
+   "gloss_vi": "sự áp bức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "freedom <i>(n. tự do)</i>",
+   "grammar_vi": "<i>Oppression</i> (noun) = sự áp bức. <b>Grammar</b>: danh từ trừu tượng của <i>oppress</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "They fought against <b>oppression</b>.",
+    "vi": "Họ đấu tranh chống <b>áp bức</b>."
+   }
+  },
+  {
+   "word": "composer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəmˈpəʊzə(r)/",
+   "def_en": "A person who writes music.",
+   "def_vi": "Người sáng tác nhạc.",
+   "gloss_vi": "nhà soạn nhạc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Composer</i> (noun) = nhà soạn nhạc. <b>Grammar</b>: danh từ người của <i>compose</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Mozart is a famous <b>composer</b>.",
+    "vi": "Mozart là <b>nhà soạn nhạc</b> nổi tiếng."
+   }
+  },
+  {
+   "word": "composition",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkɒmpəˈzɪʃn/",
+   "def_en": "A piece of music or writing.",
+   "def_vi": "Tác phẩm âm nhạc hay bài viết.",
+   "gloss_vi": "tác phẩm, sáng tác",
+   "synonyms": "piece <i>(n. tác phẩm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Composition</i> (noun) = tác phẩm, sáng tác. <b>Grammar</b>: danh từ trừu tượng của <i>compose</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "This is his first <b>composition</b>.",
+    "vi": "Đây là <b>tác phẩm</b> đầu tay của ông ấy."
+   }
+  }
+ ]
+}
