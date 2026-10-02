@@ -1,0 +1,813 @@
+{
+ "book": "upp",
+ "unit": 46,
+ "title_vi": "Sáu giác quan",
+ "theory_html": "<p><b>A. The five senses</b><br><i>A. Năm giác quan</i></p> <p>The five senses are <b>sight, hearing, taste, touch</b> and <b>smell</b>. What is sometimes referred to as a ‘sixth sense’ (or extrasensory perception) is a power to be aware of things independently of the five physical senses - a kind of supernatural sense. The five verbs referring to the senses are modified by an adjective rather than an adverb: <b>He looks dreadful. The trip sounds marvellous. The cake tastes good. It felt strange. The soup smelt delicious.</b></p><p><i>Năm giác quan là <b>thị giác, thính giác, vị giác, xúc giác, khứu giác</b>. ‘Giác quan thứ sáu’ (ngoại cảm) là khả năng nhận biết sự vật độc lập với năm giác quan – một kiểu giác quan siêu nhiên. Năm động từ chỉ giác quan đi với tính từ chứ không phải trạng từ.</i></p> <p><b>B. Sight</b><br><i>B. Thị giác</i></p> <p>A story: <b>glanced, noticed, observing, glimpsed, saw, peering, gazed, staring, witnessed</b>.</p><p><i>Câu chuyện dùng: <b>liếc, để ý, quan sát, thoáng thấy, thấy, nhìn chăm chú, ngắm, nhìn chằm chằm, chứng kiến</b>.</i></p> <p><b>C. Hearing</b><br><i>C. Thính giác</i></p> <p>Scale of loudness: <b>noiseless – silent – quiet – noisy – loud – deafening</b>.</p><p><i>Thang độ ồn: <b>không tiếng động – im lặng – yên tĩnh – ồn ào – to – điếc tai</b>.</i></p> <p><b>D. Taste</b><br><i>D. Vị giác</i></p> <p><b>sweet</b> (honey), <b>salty</b> (crisps), <b>bitter</b> (strong coffee), <b>sour</b> (vinegar), <b>spicy</b> (Indian food). If you say something tastes <b>hot</b> it may mean <b>spicy</b> rather than <b>not cold</b>. If a curry is not particularly hot, then it is <b>mild</b>. Food can be <b>tasty</b>, but <b>tasteful</b> refers to furnishings, architecture or a style of dressing or behaviour. The opposite of both is <b>tasteless</b>.</p><p><i><b>ngọt, mặn, đắng, chua, cay</b>. <b>Hot</b> có thể = cay chứ không phải nóng. Cà ri không cay lắm là <b>mild</b>. Đồ ăn <b>tasty</b> (ngon), còn <b>tasteful</b> (trang nhã) nói về nội thất, kiến trúc, cách ăn mặc hay cư xử. Trái nghĩa của cả hai là <b>tasteless</b>.</i></p> <p><b>E. Touch</b><br><i>E. Xúc giác</i></p> <p><b>poke, stroke, pat, tap, grasp, grab, snatch, press, handle</b>.</p><p><i><b>chọc, vuốt ve, vỗ nhẹ, gõ nhẹ, nắm chặt, chộp, giật, ấn, cầm nắm</b>.</i></p> <p><b>F. Smell</b><br><i>F. Khứu giác</i></p> <p>Very unpleasant: <b>stinking, foul-smelling, putrid, musty, pungent</b>. Pleasant: <b>fragrant, aromatic, sweet-smelling, perfumed/scented</b>.</p><p><i>Rất khó chịu: <b>hôi thối, thối, thối rữa, mốc, hăng</b>. Dễ chịu: <b>thơm ngát, thơm nồng, thơm, có hương</b>.</i></p> <p><b>G. Sixth sense</b><br><i>G. Giác quan thứ sáu</i></p> <p>Different phenomena which a person with a sixth sense may experience: <b>telepathy, premonition, intuition, déjà vu</b>.</p><p><i>Hiện tượng người có giác quan thứ sáu có thể trải qua: <b>thần giao cách cảm, linh cảm, trực giác, déjà vu</b>.</i></p>",
+ "items": [
+  {
+   "word": "sight",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/saɪt/",
+   "def_en": "The ability to see.",
+   "def_vi": "Khả năng nhìn.",
+   "gloss_vi": "thị giác",
+   "synonyms": "vision <i>(n. thị lực)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sight</i> (noun) = thị giác. <b>Grammar</b>: <i>lose your sight</i> = bị mù.",
+   "example": {
+    "en": "The five senses are <b>sight</b>, hearing, taste, touch and smell.",
+    "vi": "Năm giác quan là <b>thị giác</b>, thính giác, vị giác, xúc giác và khứu giác."
+   }
+  },
+  {
+   "word": "hearing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhɪərɪŋ/",
+   "def_en": "The ability to hear.",
+   "def_vi": "Khả năng nghe.",
+   "gloss_vi": "thính giác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hearing</i> (noun) = thính giác. <b>Grammar</b>: <i>hard of hearing</i> = nặng tai.",
+   "example": {
+    "en": "The five senses are sight, <b>hearing</b>, taste, touch and smell.",
+    "vi": "Năm giác quan là thị giác, <b>thính giác</b>, vị giác, xúc giác và khứu giác."
+   }
+  },
+  {
+   "word": "taste",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/teɪst/",
+   "def_en": "The ability to recognise flavours.",
+   "def_vi": "Khả năng nhận biết vị.",
+   "gloss_vi": "vị giác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Taste</i> (noun) = vị giác. <b>Grammar</b>: động từ giác quan + tính từ: <i>tastes good</i>.",
+   "example": {
+    "en": "The five senses are sight, hearing, <b>taste</b>, touch and smell.",
+    "vi": "Năm giác quan là thị giác, thính giác, <b>vị giác</b>, xúc giác và khứu giác."
+   }
+  },
+  {
+   "word": "touch",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tʌtʃ/",
+   "def_en": "The ability to feel things with your body.",
+   "def_vi": "Khả năng cảm nhận bằng da.",
+   "gloss_vi": "xúc giác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Touch</i> (noun) = xúc giác. <b>Grammar</b>: <i>feel</i> + tính từ: <i>It felt strange.</i>.",
+   "example": {
+    "en": "The five senses are sight, hearing, taste, <b>touch</b> and smell.",
+    "vi": "Năm giác quan là thị giác, thính giác, vị giác, <b>xúc giác</b> và khứu giác."
+   }
+  },
+  {
+   "word": "smell",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/smel/",
+   "def_en": "The ability to notice things with your nose.",
+   "def_vi": "Khả năng ngửi.",
+   "gloss_vi": "khứu giác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Smell</i> (noun) = khứu giác. <b>Grammar</b>: <i>smell</i> + tính từ: <i>smelt delicious</i>.",
+   "example": {
+    "en": "The five senses are sight, hearing, taste, touch and <b>smell</b>.",
+    "vi": "Năm giác quan là thị giác, thính giác, vị giác, xúc giác và <b>khứu giác</b>."
+   }
+  },
+  {
+   "word": "sixth sense",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsɪksθ ˈsens/",
+   "def_en": "A power to be aware of things independently of the five physical senses.",
+   "def_vi": "Khả năng nhận biết độc lập với năm giác quan.",
+   "gloss_vi": "giác quan thứ sáu",
+   "synonyms": "extrasensory perception <i>(n. ngoại cảm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sixth sense</i> (noun) = giác quan thứ sáu. <b>Grammar</b>: còn gọi <i>extrasensory perception</i> (ESP).",
+   "ex_kit": true,
+   "example": {
+    "en": "A <b>sixth sense</b> is a kind of supernatural sense.",
+    "vi": "<b>Giác quan thứ sáu</b> là một kiểu giác quan siêu nhiên."
+   }
+  },
+  {
+   "word": "glance",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɡlɑːns/",
+   "def_en": "To look quickly.",
+   "def_vi": "Nhìn nhanh.",
+   "gloss_vi": "liếc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "stare <i>(v. nhìn chằm chằm)</i>",
+   "grammar_vi": "<i>Glance</i> (verb) = liếc. <b>Grammar</b>: <i>glance at/out of</i>; cũng danh từ.",
+   "example": {
+    "en": "Yesterday I <b>glanced</b> out of the window.",
+    "vi": "Hôm qua tôi <b>liếc</b> ra ngoài cửa sổ."
+   }
+  },
+  {
+   "word": "notice",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈnəʊtɪs/",
+   "def_en": "To become aware of something.",
+   "def_vi": "Nhận ra điều gì.",
+   "gloss_vi": "để ý thấy",
+   "synonyms": "spot <i>(v. phát hiện)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Notice</i> (verb) = để ý thấy. <b>Grammar</b>: <i>notice sb doing sth</i>.",
+   "example": {
+    "en": "I <b>noticed</b> a policeman observing a house opposite through binoculars.",
+    "vi": "Tôi <b>để ý thấy</b> một cảnh sát đang quan sát ngôi nhà đối diện."
+   }
+  },
+  {
+   "word": "observe",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əbˈzɜːv/",
+   "def_en": "To watch carefully.",
+   "def_vi": "Quan sát kỹ.",
+   "gloss_vi": "quan sát",
+   "synonyms": "watch <i>(v. theo dõi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Observe</i> (verb) = quan sát. <b>Grammar</b>: <i>observation</i> (n.).",
+   "example": {
+    "en": "a policeman <b>observing</b> a house opposite through binoculars",
+    "vi": "Một cảnh sát đang <b>quan sát</b> ngôi nhà đối diện bằng ống nhòm."
+   }
+  },
+  {
+   "word": "glimpse",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɡlɪmps/",
+   "def_en": "To see something for a very short time.",
+   "def_vi": "Thấy trong chốc lát.",
+   "gloss_vi": "thoáng thấy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Glimpse</i> (verb) = thoáng thấy. <b>Grammar</b>: cũng danh từ: <i>catch a glimpse of</i>.",
+   "example": {
+    "en": "I thought I <b>glimpsed</b> a man inside the house.",
+    "vi": "Tôi nghĩ mình <b>thoáng thấy</b> một người đàn ông trong nhà."
+   }
+  },
+  {
+   "word": "peer",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/pɪə(r)/",
+   "def_en": "To look closely, often because something is difficult to see.",
+   "def_vi": "Nhìn kỹ, thường vì khó thấy.",
+   "gloss_vi": "nhìn chăm chú, dòm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Peer</i> (verb) = nhìn chăm chú, dòm. <b>Grammar</b>: <i>peer into/at</i>.",
+   "example": {
+    "en": "There was a man <b>peering</b> into the window of the same house.",
+    "vi": "Có một người đang <b>dòm</b> vào cửa sổ của chính ngôi nhà đó."
+   }
+  },
+  {
+   "word": "gaze",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɡeɪz/",
+   "def_en": "To look at something for a long time.",
+   "def_vi": "Nhìn lâu.",
+   "gloss_vi": "ngắm, nhìn đăm đăm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gaze</i> (verb) = ngắm, nhìn đăm đăm. <b>Grammar</b>: <i>gaze at</i>; thường ngưỡng mộ hoặc mơ màng.",
+   "example": {
+    "en": "I <b>gazed</b> at them wondering what they were doing.",
+    "vi": "Tôi <b>nhìn đăm đăm</b> họ, tự hỏi họ đang làm gì."
+   }
+  },
+  {
+   "word": "stare",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/steə(r)/",
+   "def_en": "To look at something for a long time with your eyes wide open.",
+   "def_vi": "Mở to mắt nhìn lâu.",
+   "gloss_vi": "nhìn chằm chằm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "glance <i>(v. liếc)</i>",
+   "grammar_vi": "<i>Stare</i> (verb) = nhìn chằm chằm. <b>Grammar</b>: <i>stare at</i>.",
+   "example": {
+    "en": "Suddenly the policeman stopped <b>staring</b> through his binoculars.",
+    "vi": "Đột nhiên viên cảnh sát thôi <b>nhìn chằm chằm</b> qua ống nhòm."
+   }
+  },
+  {
+   "word": "noiseless",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈnɔɪzləs/",
+   "def_en": "Making no noise at all.",
+   "def_vi": "Hoàn toàn không có tiếng động.",
+   "gloss_vi": "không tiếng động",
+   "synonyms": "silent <i>(adj. im lặng)</i>",
+   "antonyms": "deafening <i>(adj. điếc tai)</i>",
+   "grammar_vi": "<i>Noiseless</i> (adjective) = không tiếng động. <b>Grammar</b>: thang: noiseless → silent → quiet → noisy → loud → deafening.",
+   "ex_kit": true,
+   "example": {
+    "en": "The quietest point on the scale is <b>noiseless</b>.",
+    "vi": "Mức thấp nhất của thang độ ồn là <b>không tiếng động</b>."
+   }
+  },
+  {
+   "word": "silent",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsaɪlənt/",
+   "def_en": "Making no sound.",
+   "def_vi": "Không phát ra âm thanh.",
+   "gloss_vi": "im lặng",
+   "synonyms": "quiet <i>(adj. yên tĩnh)</i>",
+   "antonyms": "noisy <i>(adj. ồn ào)</i>",
+   "grammar_vi": "<i>Silent</i> (adjective) = im lặng. <b>Grammar</b>: <i>silence</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "The room was completely <b>silent</b>.",
+    "vi": "Căn phòng hoàn toàn <b>im lặng</b>."
+   }
+  },
+  {
+   "word": "noisy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈnɔɪzi/",
+   "def_en": "Making a lot of noise.",
+   "def_vi": "Gây nhiều tiếng ồn.",
+   "gloss_vi": "ồn ào",
+   "synonyms": "loud <i>(adj. to)</i>",
+   "antonyms": "quiet <i>(adj. yên tĩnh)</i>",
+   "grammar_vi": "<i>Noisy</i> (adjective) = ồn ào. <b>Grammar</b>: <i>noise</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "Our neighbours are very <b>noisy</b>.",
+    "vi": "Hàng xóm của chúng tôi rất <b>ồn ào</b>."
+   }
+  },
+  {
+   "word": "deafening",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈdefnɪŋ/",
+   "def_en": "Extremely loud.",
+   "def_vi": "Cực kỳ to.",
+   "gloss_vi": "điếc tai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "noiseless <i>(adj. không tiếng động)</i>",
+   "grammar_vi": "<i>Deafening</i> (adjective) = điếc tai. <b>Grammar</b>: <i>deafen</i> (v.); <i>deaf</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "The music was <b>deafening</b>.",
+    "vi": "Tiếng nhạc <b>điếc tai</b>."
+   }
+  },
+  {
+   "word": "sweet",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/swiːt/",
+   "def_en": "Tasting like sugar or honey.",
+   "def_vi": "Có vị như đường hay mật.",
+   "gloss_vi": "ngọt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "bitter <i>(adj. đắng)</i>",
+   "grammar_vi": "<i>Sweet</i> (adjective) = ngọt. <b>Common mistakes</b>: cũng = dễ thương.",
+   "example": {
+    "en": "<b>sweet</b> (honey)",
+    "vi": "Mật ong có vị <b>ngọt</b>."
+   }
+  },
+  {
+   "word": "salty",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsɔːlti/",
+   "def_en": "Containing or tasting of salt.",
+   "def_vi": "Có vị muối.",
+   "gloss_vi": "mặn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Salty</i> (adjective) = mặn. <b>Grammar</b>: <i>salt</i> (n.).",
+   "example": {
+    "en": "<b>salty</b> (crisps)",
+    "vi": "Khoai tây chiên giòn có vị <b>mặn</b>."
+   }
+  },
+  {
+   "word": "bitter",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈbɪtə(r)/",
+   "def_en": "Having a strong, unpleasant taste, like strong coffee.",
+   "def_vi": "Có vị gắt khó chịu, như cà phê đặc.",
+   "gloss_vi": "đắng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "sweet <i>(adj. ngọt)</i>",
+   "grammar_vi": "<i>Bitter</i> (adjective) = đắng. <b>Common mistakes</b>: cũng = cay đắng (cảm xúc).",
+   "example": {
+    "en": "<b>bitter</b> (strong coffee)",
+    "vi": "Cà phê đặc có vị <b>đắng</b>."
+   }
+  },
+  {
+   "word": "sour",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsaʊə(r)/",
+   "def_en": "Having a sharp taste, like vinegar.",
+   "def_vi": "Có vị gắt như giấm.",
+   "gloss_vi": "chua",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "sweet <i>(adj. ngọt)</i>",
+   "grammar_vi": "<i>Sour</i> (adjective) = chua. <b>Grammar</b>: <i>go sour</i> = bị chua (sữa).",
+   "example": {
+    "en": "<b>sour</b> (vinegar)",
+    "vi": "Giấm có vị <b>chua</b>."
+   }
+  },
+  {
+   "word": "spicy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈspaɪsi/",
+   "def_en": "Containing strong-tasting spices.",
+   "def_vi": "Có gia vị mạnh.",
+   "gloss_vi": "cay",
+   "synonyms": "hot <i>(adj. cay)</i>",
+   "antonyms": "mild <i>(adj. dịu)</i>",
+   "grammar_vi": "<i>Spicy</i> (adjective) = cay. <b>Grammar</b>: <i>spice</i> (n.).",
+   "example": {
+    "en": "<b>spicy</b> (Indian food)",
+    "vi": "Đồ ăn Ấn Độ thường <b>cay</b>."
+   }
+  },
+  {
+   "word": "hot",
+   "sense": "spicy",
+   "pos": "adjective",
+   "ipa": "/hɒt/",
+   "def_en": "(Of food) spicy.",
+   "def_vi": "(Đồ ăn) cay.",
+   "gloss_vi": "cay",
+   "synonyms": "spicy <i>(adj. cay)</i>",
+   "antonyms": "mild <i>(adj. dịu)</i>",
+   "grammar_vi": "<i>Hot</i> (adjective) = cay. <b>Common mistakes</b>: cũng = nóng.",
+   "example": {
+    "en": "If you say something tastes <b>hot</b> it may mean spicy rather than not cold.",
+    "vi": "Nếu nói món gì đó vị <b>cay</b>, có thể ý là nhiều gia vị chứ không phải không lạnh."
+   }
+  },
+  {
+   "word": "tasty",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈteɪsti/",
+   "def_en": "Having a good flavour.",
+   "def_vi": "Có vị ngon.",
+   "gloss_vi": "ngon",
+   "synonyms": "delicious <i>(adj. ngon tuyệt)</i>",
+   "antonyms": "tasteless <i>(adj. vô vị)</i>",
+   "grammar_vi": "<i>Tasty</i> (adjective) = ngon. <b>Grammar</b>: dùng cho đồ ăn; khác <i>tasteful</i>.",
+   "example": {
+    "en": "Food can be <b>tasty</b>.",
+    "vi": "Đồ ăn có thể <b>ngon</b>."
+   }
+  },
+  {
+   "word": "tasteful",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈteɪstfl/",
+   "def_en": "Attractive and showing good judgement about style.",
+   "def_vi": "Đẹp, thể hiện gu thẩm mỹ tốt.",
+   "gloss_vi": "trang nhã",
+   "synonyms": "elegant <i>(adj. thanh lịch)</i>",
+   "antonyms": "tasteless <i>(adj. thiếu thẩm mỹ)</i>",
+   "grammar_vi": "<i>Tasteful</i> (adjective) = trang nhã. <b>Grammar</b>: nói về nội thất, kiến trúc, cách ăn mặc, cư xử.",
+   "ex_kit": true,
+   "example": {
+    "en": "The furnishings in her house are very <b>tasteful</b>.",
+    "vi": "Nội thất trong nhà cô ấy rất <b>trang nhã</b>."
+   }
+  },
+  {
+   "word": "tasteless",
+   "sense": "style",
+   "pos": "adjective",
+   "ipa": "/ˈteɪstləs/",
+   "def_en": "Showing poor judgement about style; not tasteful.",
+   "def_vi": "Thiếu gu thẩm mỹ.",
+   "gloss_vi": "thiếu thẩm mỹ, kém duyên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "tasteful <i>(adj. trang nhã)</i>",
+   "grammar_vi": "<i>Tasteless</i> (adjective) = thiếu thẩm mỹ, kém duyên. <b>Grammar</b>: trái nghĩa của cả <i>tasty</i> và <i>tasteful</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "That joke was <b>tasteless</b>.",
+    "vi": "Câu đùa đó thật <b>kém duyên</b>."
+   }
+  },
+  {
+   "word": "poke",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/pəʊk/",
+   "def_en": "To push someone quickly with a finger or elbow.",
+   "def_vi": "Chọc nhanh bằng ngón tay hay khuỷu tay.",
+   "gloss_vi": "chọc, thúc",
+   "synonyms": "prod <i>(v. chọc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Poke</i> (verb) = chọc, thúc. <b>Grammar</b>: <i>poke sb in the ribs</i>.",
+   "example": {
+    "en": "She <b>poked</b> me in the ribs with her elbow to wake me up.",
+    "vi": "Cô ấy <b>thúc</b> khuỷu tay vào sườn tôi để đánh thức tôi."
+   }
+  },
+  {
+   "word": "stroke",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/strəʊk/",
+   "def_en": "To move your hand gently over something.",
+   "def_vi": "Đưa tay nhẹ nhàng trên vật gì.",
+   "gloss_vi": "vuốt ve",
+   "synonyms": "caress <i>(v. vuốt ve)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stroke</i> (verb) = vuốt ve. <b>Common mistakes</b>: danh từ = đột quỵ.",
+   "example": {
+    "en": "He <b>stroked</b> the cat.",
+    "vi": "Anh ấy <b>vuốt ve</b> con mèo."
+   }
+  },
+  {
+   "word": "pat",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/pæt/",
+   "def_en": "To touch gently several times with a flat hand.",
+   "def_vi": "Vỗ nhẹ nhiều lần bằng bàn tay.",
+   "gloss_vi": "vỗ nhẹ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pat</i> (verb) = vỗ nhẹ. <b>Grammar</b>: <i>pat sb on the back</i> = khen.",
+   "example": {
+    "en": "He stroked the cat and <b>patted</b> the dog.",
+    "vi": "Anh ấy vuốt ve con mèo và <b>vỗ nhẹ</b> con chó."
+   }
+  },
+  {
+   "word": "tap",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/tæp/",
+   "def_en": "To hit gently and quickly.",
+   "def_vi": "Gõ nhẹ và nhanh.",
+   "gloss_vi": "gõ nhẹ, vỗ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tap</i> (verb) = gõ nhẹ, vỗ. <b>Grammar</b>: <i>tap sb on the shoulder</i>.",
+   "example": {
+    "en": "She <b>tapped</b> him on the shoulder.",
+    "vi": "Cô ấy <b>vỗ nhẹ</b> vào vai anh."
+   }
+  },
+  {
+   "word": "grasp",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɡrɑːsp/",
+   "def_en": "To hold something tightly.",
+   "def_vi": "Nắm chặt.",
+   "gloss_vi": "nắm chặt",
+   "synonyms": "grip <i>(v. nắm chặt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Grasp</i> (verb) = nắm chặt. <b>Common mistakes</b>: cũng = hiểu.",
+   "example": {
+    "en": "He <b>grasped</b> my hand and we ran.",
+    "vi": "Anh ấy <b>nắm chặt</b> tay tôi và chúng tôi chạy."
+   }
+  },
+  {
+   "word": "grab",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɡræb/",
+   "def_en": "To take hold of something quickly and roughly.",
+   "def_vi": "Chộp lấy nhanh và mạnh.",
+   "gloss_vi": "chộp lấy",
+   "synonyms": "seize <i>(v. túm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Grab</i> (verb) = chộp lấy. <b>Grammar</b>: <i>grab sth</i>; thân mật hơn <i>seize</i>.",
+   "example": {
+    "en": "She <b>grabbed</b> her phone and ran to the bus stop.",
+    "vi": "Cô ấy <b>chộp lấy</b> điện thoại và chạy ra trạm xe buýt."
+   }
+  },
+  {
+   "word": "snatch",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/snætʃ/",
+   "def_en": "To take something quickly, often by force.",
+   "def_vi": "Giật lấy nhanh, thường bằng vũ lực.",
+   "gloss_vi": "giật",
+   "synonyms": "grab <i>(v. chộp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Snatch</i> (verb) = giật. <b>Grammar</b>: <i>bag-snatcher</i> (n.).",
+   "example": {
+    "en": "The thief <b>snatched</b> her handbag and disappeared into the crowd.",
+    "vi": "Tên trộm <b>giật</b> túi xách của cô ấy rồi biến mất vào đám đông."
+   }
+  },
+  {
+   "word": "press",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/pres/",
+   "def_en": "To push something firmly.",
+   "def_vi": "Ấn mạnh vào vật gì.",
+   "gloss_vi": "ấn, bấm",
+   "synonyms": "push <i>(v. ấn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Press</i> (verb) = ấn, bấm. <b>Grammar</b>: cũng danh từ <i>the press</i> = báo chí.",
+   "example": {
+    "en": "<b>Press</b> the button.",
+    "vi": "<b>Ấn</b> nút."
+   }
+  },
+  {
+   "word": "handle",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈhændl/",
+   "def_en": "To touch or hold something with your hands.",
+   "def_vi": "Chạm hay cầm bằng tay.",
+   "gloss_vi": "cầm, xử lý",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Handle</i> (verb) = cầm, xử lý. <b>Common mistakes</b>: cũng = giải quyết (<i>handle a problem</i>).",
+   "example": {
+    "en": "Please <b>handle</b> the goods with great care.",
+    "vi": "Vui lòng <b>cầm</b> hàng hóa thật cẩn thận."
+   }
+  },
+  {
+   "word": "stinking",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈstɪŋkɪŋ/",
+   "def_en": "Having a very unpleasant smell.",
+   "def_vi": "Có mùi rất khó chịu.",
+   "gloss_vi": "hôi thối",
+   "synonyms": "foul-smelling <i>(adj. hôi thối)</i>",
+   "antonyms": "fragrant <i>(adj. thơm ngát)</i>",
+   "grammar_vi": "<i>Stinking</i> (adjective) = hôi thối. <b>Grammar</b>: <i>stink</i> (v.).",
+   "ex_kit": true,
+   "example": {
+    "en": "his <b>stinking</b> socks",
+    "vi": "Đôi tất <b>hôi thối</b> của anh ta."
+   }
+  },
+  {
+   "word": "foul-smelling",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌfaʊl ˈsmelɪŋ/",
+   "def_en": "Having a very unpleasant smell.",
+   "def_vi": "Có mùi rất khó chịu.",
+   "gloss_vi": "hôi thối",
+   "synonyms": "stinking <i>(adj. hôi thối)</i>",
+   "antonyms": "sweet-smelling <i>(adj. thơm)</i>",
+   "grammar_vi": "<i>Foul-smelling</i> (adjective) = hôi thối. <b>Grammar</b>: tính từ ghép <i>foul</i> + <i>smelling</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>foul-smelling</b> canal",
+    "vi": "Một con kênh <b>hôi thối</b>."
+   }
+  },
+  {
+   "word": "putrid",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈpjuːtrɪd/",
+   "def_en": "Smelling of something decaying.",
+   "def_vi": "Có mùi thối rữa.",
+   "gloss_vi": "thối rữa",
+   "synonyms": "rotten <i>(adj. thối)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Putrid</i> (adjective) = thối rữa. <b>Grammar</b>: dùng cho thứ đang phân hủy.",
+   "ex_kit": true,
+   "example": {
+    "en": "the smell of <b>putrid</b> meat",
+    "vi": "Mùi thịt <b>thối rữa</b>."
+   }
+  },
+  {
+   "word": "musty",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈmʌsti/",
+   "def_en": "Smelling unpleasantly old and slightly damp.",
+   "def_vi": "Có mùi cũ và hơi ẩm khó chịu.",
+   "gloss_vi": "mốc, ẩm mốc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Musty</i> (adjective) = mốc, ẩm mốc. <b>Grammar</b>: thường dùng cho phòng, sách cũ.",
+   "ex_kit": true,
+   "example": {
+    "en": "The room smelt <b>musty</b>.",
+    "vi": "Căn phòng có mùi <b>ẩm mốc</b>."
+   }
+  },
+  {
+   "word": "pungent",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈpʌndʒənt/",
+   "def_en": "Smelling very strong, often unpleasantly so.",
+   "def_vi": "Có mùi rất mạnh, thường khó chịu.",
+   "gloss_vi": "hăng, nồng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pungent</i> (adjective) = hăng, nồng. <b>Grammar</b>: /ˈpʌndʒənt/.",
+   "ex_kit": true,
+   "example": {
+    "en": "the <b>pungent</b> smell of garlic",
+    "vi": "Mùi tỏi <b>hăng</b>."
+   }
+  },
+  {
+   "word": "fragrant",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈfreɪɡrənt/",
+   "def_en": "Having a pleasant smell.",
+   "def_vi": "Có mùi dễ chịu.",
+   "gloss_vi": "thơm ngát",
+   "synonyms": "sweet-smelling <i>(adj. thơm)</i>",
+   "antonyms": "stinking <i>(adj. hôi thối)</i>",
+   "grammar_vi": "<i>Fragrant</i> (adjective) = thơm ngát. <b>Grammar</b>: <i>fragrance</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>fragrant</b> roses",
+    "vi": "Hoa hồng <b>thơm ngát</b>."
+   }
+  },
+  {
+   "word": "aromatic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌærəˈmætɪk/",
+   "def_en": "Having a strong pleasant smell.",
+   "def_vi": "Có mùi thơm mạnh.",
+   "gloss_vi": "thơm nồng",
+   "synonyms": "fragrant <i>(adj. thơm ngát)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Aromatic</i> (adjective) = thơm nồng. <b>Grammar</b>: <i>aroma</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>aromatic</b> herbs",
+    "vi": "Thảo mộc <b>thơm nồng</b>."
+   }
+  },
+  {
+   "word": "sweet-smelling",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌswiːt ˈsmelɪŋ/",
+   "def_en": "Having a pleasant smell.",
+   "def_vi": "Có mùi dễ chịu.",
+   "gloss_vi": "thơm",
+   "synonyms": "fragrant <i>(adj. thơm ngát)</i>",
+   "antonyms": "foul-smelling <i>(adj. hôi thối)</i>",
+   "grammar_vi": "<i>Sweet-smelling</i> (adjective) = thơm. <b>Grammar</b>: tính từ ghép <i>sweet</i> + <i>smelling</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>sweet-smelling</b> flowers",
+    "vi": "Hoa <b>thơm</b>."
+   }
+  },
+  {
+   "word": "perfumed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈpɜːfjuːmd/",
+   "def_en": "Having a pleasant smell added.",
+   "def_vi": "Được ướp hương.",
+   "gloss_vi": "có hương thơm",
+   "synonyms": "scented <i>(adj. có hương)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Perfumed</i> (adjective) = có hương thơm. <b>Grammar</b>: <i>perfume</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>perfumed</b> soap",
+    "vi": "Xà phòng <b>có hương thơm</b>."
+   }
+  },
+  {
+   "word": "scented",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsentɪd/",
+   "def_en": "Having a pleasant smell added.",
+   "def_vi": "Được ướp hương.",
+   "gloss_vi": "có hương",
+   "synonyms": "perfumed <i>(adj. có hương thơm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Scented</i> (adjective) = có hương. <b>Grammar</b>: <i>scent</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>scented</b> candles",
+    "vi": "Nến <b>có hương</b>."
+   }
+  },
+  {
+   "word": "telepathy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/təˈlepəθi/",
+   "def_en": "Experiencing someone else’s feelings even though you are apart.",
+   "def_vi": "Cảm nhận được cảm xúc của người khác dù cách xa.",
+   "gloss_vi": "thần giao cách cảm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Telepathy</i> (noun) = thần giao cách cảm. <b>Grammar</b>: <i>telepathic</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "The twins believe they have <b>telepathy</b>.",
+    "vi": "Hai chị em sinh đôi tin rằng họ có <b>thần giao cách cảm</b>."
+   }
+  },
+  {
+   "word": "premonition",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpreməˈnɪʃn/",
+   "def_en": "Knowing something is going to happen before it occurs.",
+   "def_vi": "Biết điều sắp xảy ra trước khi nó xảy ra.",
+   "gloss_vi": "linh cảm",
+   "synonyms": "foreboding <i>(n. điềm báo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Premonition</i> (noun) = linh cảm. <b>Grammar</b>: <i>a premonition of/that</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She had a <b>premonition</b> of the accident.",
+    "vi": "Cô ấy có <b>linh cảm</b> về tai nạn."
+   }
+  },
+  {
+   "word": "intuition",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɪntjuˈɪʃn/",
+   "def_en": "Instinctive understanding.",
+   "def_vi": "Sự hiểu biết theo bản năng.",
+   "gloss_vi": "trực giác",
+   "synonyms": "instinct <i>(n. bản năng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Intuition</i> (noun) = trực giác. <b>Grammar</b>: <i>intuitive</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "My <b>intuition</b> told me not to trust him.",
+    "vi": "<b>Trực giác</b> mách bảo tôi đừng tin anh ta."
+   }
+  },
+  {
+   "word": "déjà vu",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdeɪʒɑː ˈvuː/",
+   "def_en": "An inexplicable feeling that you have already been somewhere or experienced something before.",
+   "def_vi": "Cảm giác khó giải thích rằng mình đã từng ở đâu hoặc trải qua điều gì.",
+   "gloss_vi": "cảm giác đã từng trải qua",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Déjà vu</i> (noun) = cảm giác đã từng trải qua. <b>Grammar</b>: gốc tiếng Pháp.",
+   "ex_kit": true,
+   "example": {
+    "en": "I had a feeling of <b>déjà vu</b> when I walked into the room.",
+    "vi": "Tôi có <b>cảm giác déjà vu</b> khi bước vào căn phòng."
+   }
+  }
+ ]
+}

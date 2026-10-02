@@ -1,0 +1,630 @@
+{
+ "book": "upp",
+ "unit": 45,
+ "title_vi": "Nói năng",
+ "theory_html": "<p><b>A. Reporting verbs</b><br><i>A. Động từ tường thuật</i></p> <p>We can use these verbs to report people’s speech and how they speak (including how loudly and what their mood is): <b>whisper</b> (very soft), <b>murmur</b> (soft), <b>mumble</b> (soft and unclear), <b>mutter</b> (soft), <b>shout</b> (loud), <b>scream</b> (loud, usually without words), <b>shriek</b> (loud and shrill), <b>stutter, stammer</b> (neutral). People also whisper in places where it would be impolite to speak loudly. Stuttering and stammering may also be the result of a speech impediment.</p><p><i>Các động từ này tường thuật lời nói và cách nói (độ to, tâm trạng): <b>thì thầm</b> (rất nhỏ), <b>rì rầm</b> (nhỏ), <b>lúng búng</b> (nhỏ, không rõ), <b>lẩm bẩm</b> (nhỏ), <b>hét</b> (to), <b>gào thét</b> (to, thường không thành lời), <b>rít lên</b> (to, chói), <b>nói lắp</b> (bình thường). Người ta cũng thì thầm ở nơi nói to là bất lịch sự. Nói lắp cũng có thể do tật ngôn ngữ.</i></p> <p><b>B. Describing feelings</b><br><i>B. Diễn tả cảm xúc</i></p> <p>These verbs indicate the speaker’s feelings or intentions: <b>boast to sb about sth</b> (proud), <b>insist on sth</b> (determined), <b>object to + -ing</b> (unhappy with a situation), <b>threaten to do sth</b> (aggressive), <b>argue with sb about sth</b> (not in agreement), <b>groan that</b> (despair, pain), <b>complain to sb about sth</b> (displeased), <b>maintain that</b> (confident), <b>confess to + -ing</b> (repentant), <b>urge sb to do sth</b> (encouraging), <b>beg sb to do sth</b> (desperate), <b>grumble about sth</b> (displeased).</p><p><i>Các động từ này cho biết cảm xúc hay ý định người nói: <b>khoe</b> (tự hào), <b>khăng khăng</b> (quyết tâm), <b>phản đối</b> (không vui), <b>đe dọa</b> (hung hăng), <b>cãi</b> (bất đồng), <b>rên rỉ</b> (tuyệt vọng, đau), <b>phàn nàn</b> (bực), <b>khẳng định</b> (tự tin), <b>thú nhận</b> (ăn năn), <b>thúc giục</b> (khích lệ), <b>van xin</b> (tuyệt vọng), <b>càu nhàu</b> (bực).</i></p> <p><b>C. Adverbs related to speech</b><br><i>C. Trạng từ đi với lời nói</i></p> <p>To indicate someone’s feelings, you can use a speaking verb plus an adverb, e.g. ‘He said <b>anxiously</b>.’ This is common in written style. Angry: <b>angrily, furiously, bitterly</b>; unhappy: <b>gloomily, miserably, sadly</b>; happy: <b>happily, cheerfully, gladly, hopefully</b>; worried: <b>anxiously, nervously, desperately</b>; other useful adverbs: <b>excitedly, impatiently, reluctantly, shyly</b>.</p><p><i>Để chỉ cảm xúc, dùng động từ nói + trạng từ, phổ biến trong văn viết. Giận: <b>giận dữ, điên tiết, cay đắng</b>; buồn: <b>ảm đạm, khổ sở, buồn bã</b>; vui: <b>vui vẻ, hớn hở, sẵn lòng, đầy hy vọng</b>; lo: <b>lo lắng, bồn chồn, tuyệt vọng</b>; khác: <b>hào hứng, sốt ruột, miễn cưỡng, bẽn lẽn</b>.</i></p> <p><b>LH. Language help</b><br><i>LH. Lưu ý ngôn ngữ</i></p> <p>Most of the verbs in B can also be used with a that clause: <b>She boasted that she had scored 20 goals in one season. He threatened (that) he would call the police.</b></p><p><i>Hầu hết động từ ở B cũng dùng với mệnh đề that.</i></p>",
+ "items": [
+  {
+   "word": "whisper",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈwɪspə(r)/",
+   "def_en": "To speak very softly, e.g. when telling a secret.",
+   "def_vi": "Nói rất nhỏ, như khi kể bí mật.",
+   "gloss_vi": "thì thầm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "shout <i>(v. hét)</i>",
+   "grammar_vi": "<i>Whisper</i> (verb) = thì thầm. <b>Grammar</b>: rất nhỏ; cũng dùng nơi nói to là bất lịch sự.",
+   "example": {
+    "en": "She <b>whispered</b> that she was not happy with the way the meeting was going.",
+    "vi": "Cô ấy <b>thì thầm</b> rằng cô không vui với diễn biến cuộc họp."
+   }
+  },
+  {
+   "word": "murmur",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈmɜːmə(r)/",
+   "def_en": "To speak softly, often romantically or complaining.",
+   "def_vi": "Nói nhỏ, thường lãng mạn hoặc than phiền.",
+   "gloss_vi": "rì rầm, thì thào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Murmur</i> (verb) = rì rầm, thì thào. <b>Grammar</b>: nhỏ; tâm trạng: lãng mạn hoặc phàn nàn.",
+   "ex_kit": true,
+   "example": {
+    "en": "He <b>murmured</b> words of love.",
+    "vi": "Anh ấy <b>thì thào</b> những lời yêu thương."
+   }
+  },
+  {
+   "word": "mumble",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈmʌmbl/",
+   "def_en": "To speak softly and unclearly, often when nervous.",
+   "def_vi": "Nói nhỏ và không rõ, thường khi lo.",
+   "gloss_vi": "lúng búng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mumble</i> (verb) = lúng búng. <b>Grammar</b>: nhỏ, không rõ; tâm trạng: lo âu, thiếu tự tin.",
+   "ex_kit": true,
+   "example": {
+    "en": "The boy <b>mumbled</b> an apology.",
+    "vi": "Cậu bé <b>lúng búng</b> một lời xin lỗi."
+   }
+  },
+  {
+   "word": "mutter",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈmʌtə(r)/",
+   "def_en": "To speak softly, usually when irritated.",
+   "def_vi": "Nói nhỏ, thường khi bực.",
+   "gloss_vi": "lẩm bẩm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mutter</i> (verb) = lẩm bẩm. <b>Grammar</b>: nhỏ; tâm trạng: bực bội.",
+   "example": {
+    "en": "‘I’m sick of this. I’m going home,’ he <b>muttered</b>.",
+    "vi": "‘Tôi chán lắm rồi. Tôi về đây,’ anh ta <b>lẩm bẩm</b>."
+   }
+  },
+  {
+   "word": "shout",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ʃaʊt/",
+   "def_en": "To speak very loudly, often when angry or excited.",
+   "def_vi": "Nói rất to, thường khi giận hay phấn khích.",
+   "gloss_vi": "hét, la",
+   "synonyms": "yell <i>(v. la)</i>",
+   "antonyms": "whisper <i>(v. thì thầm)</i>",
+   "grammar_vi": "<i>Shout</i> (verb) = hét, la. <b>Grammar</b>: to; giận dữ hoặc phấn khích.",
+   "example": {
+    "en": "Suddenly, someone <b>shouted</b> ‘Help!’",
+    "vi": "Đột nhiên ai đó <b>hét lên</b> ‘Cứu!’."
+   }
+  },
+  {
+   "word": "scream",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/skriːm/",
+   "def_en": "To make a loud cry, usually without words, when frightened or excited.",
+   "def_vi": "Kêu to, thường không thành lời, khi sợ hay phấn khích.",
+   "gloss_vi": "gào thét",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Scream</i> (verb) = gào thét. <b>Grammar</b>: to, thường không thành lời.",
+   "ex_kit": true,
+   "example": {
+    "en": "She <b>screamed</b> when she saw the snake.",
+    "vi": "Cô ấy <b>hét thất thanh</b> khi thấy con rắn."
+   }
+  },
+  {
+   "word": "shriek",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ʃriːk/",
+   "def_en": "To make a loud, shrill sound when frightened or amused.",
+   "def_vi": "Kêu to và chói khi sợ hay buồn cười.",
+   "gloss_vi": "rít lên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shriek</i> (verb) = rít lên. <b>Grammar</b>: to và chói; sợ hãi hoặc thích thú.",
+   "ex_kit": true,
+   "example": {
+    "en": "The children <b>shrieked</b> with laughter.",
+    "vi": "Bọn trẻ <b>ré lên</b> cười thích thú."
+   }
+  },
+  {
+   "word": "stutter",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈstʌtə(r)/",
+   "def_en": "To repeat sounds when speaking because of nerves or a speech impediment.",
+   "def_vi": "Lặp âm khi nói do lo lắng hoặc tật nói.",
+   "gloss_vi": "nói lắp",
+   "synonyms": "stammer <i>(v. nói lắp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stutter</i> (verb) = nói lắp. <b>Grammar</b>: lo lắng/phấn khích, hoặc tật ngôn ngữ.",
+   "ex_kit": true,
+   "example": {
+    "en": "He <b>stutters</b> when he’s nervous.",
+    "vi": "Anh ấy <b>nói lắp</b> khi lo lắng."
+   }
+  },
+  {
+   "word": "stammer",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈstæmə(r)/",
+   "def_en": "To speak with pauses and repeated sounds because of nerves or a speech impediment.",
+   "def_vi": "Nói ngắc ngứ, lặp âm do lo lắng hoặc tật nói.",
+   "gloss_vi": "nói lắp",
+   "synonyms": "stutter <i>(v. nói lắp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stammer</i> (verb) = nói lắp. <b>Grammar</b>: lo lắng/phấn khích, hoặc tật ngôn ngữ.",
+   "ex_kit": true,
+   "example": {
+    "en": "She <b>stammered</b> an answer.",
+    "vi": "Cô ấy <b>lắp bắp</b> một câu trả lời."
+   }
+  },
+  {
+   "word": "boast",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/bəʊst/",
+   "def_en": "To talk proudly about yourself.",
+   "def_vi": "Tự hào nói về bản thân.",
+   "gloss_vi": "khoe khoang",
+   "synonyms": "brag <i>(v. khoe)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Boast</i> (verb) = khoe khoang. <b>Grammar</b>: <i>boast to sb about sth</i>; + that.",
+   "example": {
+    "en": "She <b>boasted</b> that she had scored 20 goals in one season.",
+    "vi": "Cô ấy <b>khoe</b> rằng đã ghi 20 bàn trong một mùa."
+   }
+  },
+  {
+   "word": "insist",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪnˈsɪst/",
+   "def_en": "To say firmly that something must happen.",
+   "def_vi": "Kiên quyết đòi điều gì.",
+   "gloss_vi": "khăng khăng, nhất quyết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Insist</i> (verb) = khăng khăng, nhất quyết. <b>Grammar</b>: <i>insist on sth</i>; tâm trạng: quyết tâm.",
+   "ex_kit": true,
+   "example": {
+    "en": "He <b>insisted</b> on paying.",
+    "vi": "Anh ấy <b>nhất quyết</b> đòi trả tiền."
+   }
+  },
+  {
+   "word": "object",
+   "sense": "protest",
+   "pos": "verb",
+   "ipa": "/əbˈdʒekt/",
+   "def_en": "To say you are unhappy with a situation.",
+   "def_vi": "Nói mình không vui với tình huống.",
+   "gloss_vi": "phản đối",
+   "synonyms": "protest <i>(v. phản đối)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Object</i> (verb) = phản đối. <b>Grammar</b>: <i>object to + -ing</i>; trọng âm 2: /əbˈdʒekt/.",
+   "ex_kit": true,
+   "example": {
+    "en": "I <b>object</b> to working overtime.",
+    "vi": "Tôi <b>phản đối</b> việc phải làm thêm giờ."
+   }
+  },
+  {
+   "word": "threaten",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈθretn/",
+   "def_en": "To say you will do something harmful.",
+   "def_vi": "Nói sẽ làm điều gây hại.",
+   "gloss_vi": "đe dọa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Threaten</i> (verb) = đe dọa. <b>Grammar</b>: <i>threaten to do sth</i>; + (that).",
+   "example": {
+    "en": "He <b>threatened</b> (that) he would call the police.",
+    "vi": "Anh ta <b>đe dọa</b> sẽ gọi cảnh sát."
+   }
+  },
+  {
+   "word": "argue",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈɑːɡjuː/",
+   "def_en": "To speak angrily with someone because you disagree.",
+   "def_vi": "Nói gay gắt vì bất đồng.",
+   "gloss_vi": "cãi nhau",
+   "synonyms": "quarrel <i>(v. cãi vã)</i>",
+   "antonyms": "agree <i>(v. đồng ý)</i>",
+   "grammar_vi": "<i>Argue</i> (verb) = cãi nhau. <b>Grammar</b>: <i>argue with sb about sth</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "They <b>argued</b> about money.",
+    "vi": "Họ <b>cãi nhau</b> về tiền bạc."
+   }
+  },
+  {
+   "word": "groan",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɡrəʊn/",
+   "def_en": "To say something in a way that shows despair or pain.",
+   "def_vi": "Nói với vẻ tuyệt vọng hay đau đớn.",
+   "gloss_vi": "rên rỉ",
+   "synonyms": "moan <i>(v. than vãn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Groan</i> (verb) = rên rỉ. <b>Grammar</b>: <i>groan that…</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "‘It’s Monday again,’ he <b>groaned</b>.",
+    "vi": "‘Lại thứ Hai rồi,’ anh ấy <b>rên rỉ</b>."
+   }
+  },
+  {
+   "word": "complain",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kəmˈpleɪn/",
+   "def_en": "To say you are displeased about something.",
+   "def_vi": "Nói mình không hài lòng.",
+   "gloss_vi": "phàn nàn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Complain</i> (verb) = phàn nàn. <b>Grammar</b>: <i>complain to sb about sth</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She <b>complained</b> to the manager about the service.",
+    "vi": "Cô ấy <b>phàn nàn</b> với quản lý về dịch vụ."
+   }
+  },
+  {
+   "word": "confess",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kənˈfes/",
+   "def_en": "To admit doing something wrong.",
+   "def_vi": "Thú nhận đã làm sai.",
+   "gloss_vi": "thú nhận",
+   "synonyms": "admit <i>(v. thừa nhận)</i>",
+   "antonyms": "deny <i>(v. chối)</i>",
+   "grammar_vi": "<i>Confess</i> (verb) = thú nhận. <b>Grammar</b>: <i>confess to + -ing</i>; tâm trạng: ăn năn.",
+   "ex_kit": true,
+   "example": {
+    "en": "He <b>confessed</b> to stealing the money.",
+    "vi": "Anh ta <b>thú nhận</b> đã lấy cắp tiền."
+   }
+  },
+  {
+   "word": "urge",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɜːdʒ/",
+   "def_en": "To strongly encourage someone to do something.",
+   "def_vi": "Mạnh mẽ khuyến khích ai làm gì.",
+   "gloss_vi": "thúc giục",
+   "synonyms": "encourage <i>(v. khuyến khích)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Urge</i> (verb) = thúc giục. <b>Grammar</b>: <i>urge sb to do sth</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She <b>urged</b> me to apply for the job.",
+    "vi": "Cô ấy <b>thúc giục</b> tôi nộp đơn."
+   }
+  },
+  {
+   "word": "beg",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/beɡ/",
+   "def_en": "To ask desperately for something.",
+   "def_vi": "Tuyệt vọng cầu xin điều gì.",
+   "gloss_vi": "van xin",
+   "synonyms": "plead <i>(v. khẩn cầu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Beg</i> (verb) = van xin. <b>Grammar</b>: <i>beg sb to do sth</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He <b>begged</b> her to stay.",
+    "vi": "Anh ấy <b>van xin</b> cô ở lại."
+   }
+  },
+  {
+   "word": "grumble",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈɡrʌmbl/",
+   "def_en": "To complain in a bad-tempered way.",
+   "def_vi": "Phàn nàn một cách cáu kỉnh.",
+   "gloss_vi": "càu nhàu",
+   "synonyms": "moan <i>(v. than vãn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Grumble</i> (verb) = càu nhàu. <b>Grammar</b>: <i>grumble about sth</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He’s always <b>grumbling</b> about the weather.",
+    "vi": "Ông ấy luôn <b>càu nhàu</b> về thời tiết."
+   }
+  },
+  {
+   "word": "angrily",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈæŋɡrəli/",
+   "def_en": "In an angry way.",
+   "def_vi": "Một cách giận dữ.",
+   "gloss_vi": "giận dữ",
+   "synonyms": "furiously <i>(adv. điên tiết)</i>",
+   "antonyms": "calmly <i>(adv. bình tĩnh)</i>",
+   "grammar_vi": "<i>Angrily</i> (adverb) = giận dữ. <b>Grammar</b>: động từ nói + trạng từ, văn viết.",
+   "example": {
+    "en": "She spoke <b>angrily</b>.",
+    "vi": "Cô ấy nói <b>giận dữ</b>."
+   }
+  },
+  {
+   "word": "furiously",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈfjʊəriəsli/",
+   "def_en": "In a very angry way.",
+   "def_vi": "Một cách rất giận.",
+   "gloss_vi": "điên tiết",
+   "synonyms": "angrily <i>(adv. giận dữ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Furiously</i> (adverb) = điên tiết. <b>Grammar</b>: <i>furious</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "‘Get out!’ he shouted <b>furiously</b>.",
+    "vi": "‘Ra ngoài!’ anh ta hét lên <b>điên tiết</b>."
+   }
+  },
+  {
+   "word": "bitterly",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈbɪtəli/",
+   "def_en": "In an angry and hurt way.",
+   "def_vi": "Một cách giận và tổn thương.",
+   "gloss_vi": "cay đắng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bitterly</i> (adverb) = cay đắng. <b>Grammar</b>: <i>bitter</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "She complained <b>bitterly</b> about her boss.",
+    "vi": "Cô ấy <b>cay đắng</b> phàn nàn về sếp."
+   }
+  },
+  {
+   "word": "gloomily",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈɡluːmɪli/",
+   "def_en": "In a sad way without hope.",
+   "def_vi": "Một cách buồn và thiếu hy vọng.",
+   "gloss_vi": "ảm đạm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "cheerfully <i>(adv. vui vẻ)</i>",
+   "grammar_vi": "<i>Gloomily</i> (adverb) = ảm đạm. <b>Grammar</b>: <i>gloomy</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "‘We’re going to lose,’ he said <b>gloomily</b>.",
+    "vi": "‘Mình sẽ thua thôi,’ anh ấy nói <b>ảm đạm</b>."
+   }
+  },
+  {
+   "word": "miserably",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈmɪzrəbli/",
+   "def_en": "In a very unhappy way.",
+   "def_vi": "Một cách rất khổ sở.",
+   "gloss_vi": "khổ sở",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Miserably</i> (adverb) = khổ sở. <b>Grammar</b>: <i>miserable</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "The girl cried <b>miserably</b>.",
+    "vi": "Cô bé khóc <b>khổ sở</b>."
+   }
+  },
+  {
+   "word": "sadly",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈsædli/",
+   "def_en": "In an unhappy way.",
+   "def_vi": "Một cách buồn.",
+   "gloss_vi": "buồn bã",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "happily <i>(adv. vui vẻ)</i>",
+   "grammar_vi": "<i>Sadly</i> (adverb) = buồn bã. <b>Common mistakes</b>: cũng = đáng tiếc (<i>Sadly, …</i>).",
+   "ex_kit": true,
+   "example": {
+    "en": "He smiled <b>sadly</b>.",
+    "vi": "Ông ấy mỉm cười <b>buồn bã</b>."
+   }
+  },
+  {
+   "word": "happily",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈhæpɪli/",
+   "def_en": "In a happy way.",
+   "def_vi": "Một cách vui.",
+   "gloss_vi": "vui vẻ",
+   "synonyms": "cheerfully <i>(adv. hớn hở)</i>",
+   "antonyms": "sadly <i>(adv. buồn bã)</i>",
+   "grammar_vi": "<i>Happily</i> (adverb) = vui vẻ. <b>Grammar</b>: <i>happy</i> (adj.) → <i>happily</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The children played <b>happily</b>.",
+    "vi": "Bọn trẻ chơi đùa <b>vui vẻ</b>."
+   }
+  },
+  {
+   "word": "cheerfully",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈtʃɪəfəli/",
+   "def_en": "In a happy, positive way.",
+   "def_vi": "Một cách vui tươi, lạc quan.",
+   "gloss_vi": "hớn hở",
+   "synonyms": "happily <i>(adv. vui vẻ)</i>",
+   "antonyms": "gloomily <i>(adv. ảm đạm)</i>",
+   "grammar_vi": "<i>Cheerfully</i> (adverb) = hớn hở. <b>Grammar</b>: <i>cheerful</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "‘Good morning!’ she said <b>cheerfully</b>.",
+    "vi": "‘Chào buổi sáng!’ cô ấy nói <b>hớn hở</b>."
+   }
+  },
+  {
+   "word": "gladly",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈɡlædli/",
+   "def_en": "Willingly and happily.",
+   "def_vi": "Sẵn lòng và vui vẻ.",
+   "gloss_vi": "sẵn lòng",
+   "synonyms": "willingly <i>(adv. sẵn lòng)</i>",
+   "antonyms": "reluctantly <i>(adv. miễn cưỡng)</i>",
+   "grammar_vi": "<i>Gladly</i> (adverb) = sẵn lòng. <b>Grammar</b>: <i>glad</i> (adj.) → <i>gladly</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I’ll <b>gladly</b> help.",
+    "vi": "Tôi sẽ <b>sẵn lòng</b> giúp."
+   }
+  },
+  {
+   "word": "hopefully",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈhəʊpfəli/",
+   "def_en": "In a way that shows hope.",
+   "def_vi": "Với vẻ hy vọng.",
+   "gloss_vi": "đầy hy vọng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hopefully</i> (adverb) = đầy hy vọng. <b>Common mistakes</b>: cũng = hy vọng là (<i>Hopefully, …</i>).",
+   "ex_kit": true,
+   "example": {
+    "en": "The dog looked at me <b>hopefully</b>.",
+    "vi": "Con chó nhìn tôi <b>đầy hy vọng</b>."
+   }
+  },
+  {
+   "word": "anxiously",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈæŋkʃəsli/",
+   "def_en": "In a worried way.",
+   "def_vi": "Một cách lo lắng.",
+   "gloss_vi": "lo lắng",
+   "synonyms": "nervously <i>(adv. bồn chồn)</i>",
+   "antonyms": "calmly <i>(adv. bình tĩnh)</i>",
+   "grammar_vi": "<i>Anxiously</i> (adverb) = lo lắng. <b>Grammar</b>: <i>anxious</i> (adj.).",
+   "example": {
+    "en": "He said <b>anxiously</b>.",
+    "vi": "Anh ấy nói <b>lo lắng</b>."
+   }
+  },
+  {
+   "word": "nervously",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈnɜːvəsli/",
+   "def_en": "In a worried, slightly frightened way.",
+   "def_vi": "Một cách lo âu, hơi sợ.",
+   "gloss_vi": "bồn chồn",
+   "synonyms": "anxiously <i>(adv. lo lắng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nervously</i> (adverb) = bồn chồn. <b>Grammar</b>: <i>nervous</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "She laughed <b>nervously</b>.",
+    "vi": "Cô ấy cười <b>bồn chồn</b>."
+   }
+  },
+  {
+   "word": "desperately",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈdespərətli/",
+   "def_en": "In a very worried way, with little hope.",
+   "def_vi": "Rất lo, gần như hết hy vọng.",
+   "gloss_vi": "tuyệt vọng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Desperately</i> (adverb) = tuyệt vọng. <b>Common mistakes</b>: cũng = cực kỳ (<i>desperately need</i>).",
+   "ex_kit": true,
+   "example": {
+    "en": "He called <b>desperately</b> for help.",
+    "vi": "Anh ấy <b>tuyệt vọng</b> kêu cứu."
+   }
+  },
+  {
+   "word": "excitedly",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ɪkˈsaɪtɪdli/",
+   "def_en": "In an excited way.",
+   "def_vi": "Một cách hào hứng.",
+   "gloss_vi": "hào hứng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Excitedly</i> (adverb) = hào hứng. <b>Grammar</b>: <i>excited</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "The children talked <b>excitedly</b> about the trip.",
+    "vi": "Bọn trẻ nói chuyện <b>hào hứng</b> về chuyến đi."
+   }
+  },
+  {
+   "word": "impatiently",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ɪmˈpeɪʃntli/",
+   "def_en": "In a way that shows you do not want to wait.",
+   "def_vi": "Với vẻ không muốn chờ.",
+   "gloss_vi": "sốt ruột",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "patiently <i>(adv. kiên nhẫn)</i>",
+   "grammar_vi": "<i>Impatiently</i> (adverb) = sốt ruột. <b>Grammar</b>: <i>impatient</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "He tapped his fingers <b>impatiently</b> on the table.",
+    "vi": "Anh ấy <b>sốt ruột</b> gõ ngón tay xuống bàn."
+   }
+  },
+  {
+   "word": "reluctantly",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/rɪˈlʌktəntli/",
+   "def_en": "Without wanting to.",
+   "def_vi": "Không muốn mà vẫn làm.",
+   "gloss_vi": "miễn cưỡng",
+   "synonyms": "unwillingly <i>(adv. bất đắc dĩ)</i>",
+   "antonyms": "gladly <i>(adv. sẵn lòng)</i>",
+   "grammar_vi": "<i>Reluctantly</i> (adverb) = miễn cưỡng. <b>Grammar</b>: <i>reluctant</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "She <b>reluctantly</b> agreed.",
+    "vi": "Cô ấy <b>miễn cưỡng</b> đồng ý."
+   }
+  },
+  {
+   "word": "shyly",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈʃaɪli/",
+   "def_en": "In a nervous, uncomfortable way with other people.",
+   "def_vi": "Một cách ngại ngùng với người khác.",
+   "gloss_vi": "bẽn lẽn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shyly</i> (adverb) = bẽn lẽn. <b>Grammar</b>: <i>shy</i> (adj.); viết <i>shyly</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The little boy smiled <b>shyly</b>.",
+    "vi": "Cậu bé mỉm cười <b>bẽn lẽn</b>."
+   }
+  }
+ ]
+}
