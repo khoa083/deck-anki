@@ -1,0 +1,296 @@
+{
+ "book": "upp",
+ "unit": 85,
+ "title_vi": "Danh từ đếm được và không đếm được khác nghĩa",
+ "theory_html": "<p><b>A. Countable and uncountable nouns</b><br><i>A. Danh từ đếm được và không đếm được</i></p> <p>When we use a countable noun we are thinking of specific things that can be counted (<b>two glasses</b>). When we use an uncountable noun we are thinking of stuff or material or the idea of a thing in general (<b>this door is made of glass</b>). Examples: <b>glass / a glass; cloth / a cloth; fish / a fish; work / a work; hair / a hair; paper / a paper; people / peoples; iron / an iron; experience / experiences; art / arts; time / times</b>.</p><p><i>Danh từ đếm được chỉ vật cụ thể đếm được; không đếm được chỉ chất liệu hoặc khái niệm chung. Nhiều danh từ dùng được cả hai cách với nghĩa khác nhau.</i></p> <p><b>B. Food</b><br><i>B. Thức ăn</i></p> <p>The names of food items often have a different meaning depending on whether they are countable or uncountable: <b>coffee/tea – a coffee, two teas; potato – two potatoes; some chocolate – a chocolate; salt and pepper – a pepper; onion – an onion</b>.</p><p><i>Tên thức ăn thường đổi nghĩa tùy đếm được hay không.</i></p>",
+ "items": [
+  {
+   "word": "glass",
+   "sense": "material",
+   "pos": "noun",
+   "ipa": "/ɡlɑːs/",
+   "def_en": "A hard, transparent material.",
+   "def_vi": "Vật liệu cứng, trong suốt.",
+   "gloss_vi": "thủy tinh, kính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Glass</i> (noun) = thủy tinh, kính. <b>Grammar</b>: không đếm được = chất liệu; <i>a glass</i> = cái cốc.",
+   "example": {
+    "en": "Be careful - there’s broken <b>glass</b> on the road.",
+    "vi": "Cẩn thận – có <b>kính</b> vỡ trên đường."
+   }
+  },
+  {
+   "word": "cloth",
+   "sense": "wipe",
+   "pos": "noun",
+   "ipa": "/klɒθ/",
+   "def_en": "A piece of material used for cleaning.",
+   "def_vi": "Mảnh vải để lau.",
+   "gloss_vi": "khăn lau",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cloth</i> (noun) = khăn lau. <b>Grammar</b>: đếm được = khăn; không đếm được = vải.",
+   "example": {
+    "en": "I need a <b>cloth</b> to wipe the table.",
+    "vi": "Tôi cần <b>khăn lau</b> để lau bàn."
+   }
+  },
+  {
+   "word": "fish",
+   "sense": "food",
+   "pos": "noun",
+   "ipa": "/fɪʃ/",
+   "def_en": "The flesh of fish eaten as food.",
+   "def_vi": "Thịt cá dùng làm thức ăn.",
+   "gloss_vi": "cá (món ăn)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fish</i> (noun) = cá (món ăn). <b>Grammar</b>: không đếm được = món ăn; <i>a fish</i> = con cá.",
+   "example": {
+    "en": "We had <b>fish</b> for dinner.",
+    "vi": "Tối qua chúng tôi ăn <b>cá</b>."
+   }
+  },
+  {
+   "word": "work",
+   "sense": "art",
+   "pos": "noun",
+   "ipa": "/wɜːk/",
+   "def_en": "A piece of art, music or writing.",
+   "def_vi": "Tác phẩm nghệ thuật, âm nhạc, văn chương.",
+   "gloss_vi": "tác phẩm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Work</i> (noun) = tác phẩm. <b>Grammar</b>: đếm được = tác phẩm; không đếm được = công việc.",
+   "example": {
+    "en": "Hamlet is one of Shakespeare’s most famous <b>works</b>.",
+    "vi": "Hamlet là một trong những <b>tác phẩm</b> nổi tiếng nhất của Shakespeare."
+   }
+  },
+  {
+   "word": "hair",
+   "sense": "single",
+   "pos": "noun",
+   "ipa": "/heə(r)/",
+   "def_en": "A single thread growing from the skin.",
+   "def_vi": "Một sợi mọc từ da.",
+   "gloss_vi": "sợi tóc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hair</i> (noun) = sợi tóc. <b>Grammar</b>: đếm được = sợi tóc; không đếm được = mái tóc.",
+   "example": {
+    "en": "There’s a black <b>hair</b> in my soup; it must be yours!",
+    "vi": "Có một <b>sợi tóc</b> đen trong súp; chắc của bạn!"
+   }
+  },
+  {
+   "word": "paper",
+   "sense": "newspaper",
+   "pos": "noun",
+   "ipa": "/ˈpeɪpə(r)/",
+   "def_en": "A newspaper.",
+   "def_vi": "Tờ báo.",
+   "gloss_vi": "tờ báo",
+   "synonyms": "newspaper <i>(n. báo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Paper</i> (noun) = tờ báo. <b>Grammar</b>: đếm được = tờ báo; không đếm được = giấy.",
+   "example": {
+    "en": "Did you buy a <b>paper</b> this morning?",
+    "vi": "Sáng nay bạn có mua <b>báo</b> không?"
+   }
+  },
+  {
+   "word": "peoples",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpiːplz/",
+   "def_en": "Ethnic or national groups.",
+   "def_vi": "Các dân tộc.",
+   "gloss_vi": "các dân tộc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Peoples</i> (noun) = các dân tộc. <b>Grammar</b>: <i>people</i> = người (số nhiều); <i>a people, peoples</i> = dân tộc.",
+   "example": {
+    "en": "They are campaigning to help indigenous <b>peoples</b> of South America.",
+    "vi": "Họ vận động giúp các <b>dân tộc</b> bản địa Nam Mỹ."
+   }
+  },
+  {
+   "word": "iron",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈaɪən/",
+   "def_en": "An instrument for making clothes smooth.",
+   "def_vi": "Dụng cụ là quần áo.",
+   "gloss_vi": "bàn là",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Iron</i> (noun) = bàn là. <b>Grammar</b>: /ˈaɪən/; không đếm được = sắt.",
+   "example": {
+    "en": "Can I borrow your <b>iron</b>? My shirt is a bit creased.",
+    "vi": "Cho tôi mượn <b>bàn là</b> được không? Áo tôi hơi nhàu."
+   }
+  },
+  {
+   "word": "iron",
+   "sense": "metal",
+   "pos": "noun",
+   "ipa": "/ˈaɪən/",
+   "def_en": "A metal.",
+   "def_vi": "Một kim loại.",
+   "gloss_vi": "sắt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Iron</i> (noun) = sắt. <b>Grammar</b>: không đếm được = kim loại.",
+   "example": {
+    "en": "People used to think ships made of <b>iron</b> would sink.",
+    "vi": "Người ta từng nghĩ tàu bằng <b>sắt</b> sẽ chìm."
+   }
+  },
+  {
+   "word": "experiences",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪkˈspɪəriənsɪz/",
+   "def_en": "Things that happened to you.",
+   "def_vi": "Những điều đã xảy ra với bạn.",
+   "gloss_vi": "trải nghiệm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Experiences</i> (noun) = trải nghiệm. <b>Grammar</b>: đếm được = trải nghiệm; không đếm được = kinh nghiệm.",
+   "example": {
+    "en": "I had some interesting <b>experiences</b> during my trip to Latin America.",
+    "vi": "Tôi có vài <b>trải nghiệm</b> thú vị khi đi Mỹ Latin."
+   }
+  },
+  {
+   "word": "art",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɑːt/",
+   "def_en": "Painting, drawing and sculpture.",
+   "def_vi": "Hội họa, vẽ, điêu khắc.",
+   "gloss_vi": "nghệ thuật (mỹ thuật)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Art</i> (noun) = nghệ thuật (mỹ thuật). <b>Grammar</b>: không đếm được; thường chỉ hội họa, điêu khắc.",
+   "example": {
+    "en": "Have you been to the modern <b>art</b> museum?",
+    "vi": "Bạn đã đến bảo tàng <b>nghệ thuật</b> hiện đại chưa?"
+   }
+  },
+  {
+   "word": "arts",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɑːts/",
+   "def_en": "Music, theatre, etc.; also subjects such as languages or history.",
+   "def_vi": "Âm nhạc, sân khấu…; cũng là các môn khoa học xã hội.",
+   "gloss_vi": "các môn nghệ thuật, khoa học xã hội",
+   "synonyms": "humanities <i>(n. nhân văn)</i>",
+   "antonyms": "sciences <i>(n. khoa học tự nhiên)</i>",
+   "grammar_vi": "<i>Arts</i> (noun) = các môn nghệ thuật, khoa học xã hội. <b>Grammar</b>: luôn số nhiều, không có <i>the</i>; <i>an arts festival</i>.",
+   "example": {
+    "en": "He studied <b>arts</b> not sciences at uni.",
+    "vi": "Anh ấy học <b>khoa học xã hội</b> chứ không học khoa học tự nhiên."
+   }
+  },
+  {
+   "word": "times",
+   "sense": "occasions",
+   "pos": "noun",
+   "ipa": "/taɪmz/",
+   "def_en": "Occasions; experiences.",
+   "def_vi": "Số lần; khoảng thời gian trải qua.",
+   "gloss_vi": "lần; quãng thời gian",
+   "synonyms": "occasions <i>(n. dịp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Times</i> (noun) = lần; quãng thời gian. <b>Grammar</b>: đếm được = lần, quãng thời gian (<i>good times</i>); không đếm được = thời gian.",
+   "example": {
+    "en": "I’ve seen that film three <b>times</b>.",
+    "vi": "Tôi đã xem phim đó ba <b>lần</b>."
+   }
+  },
+  {
+   "word": "time",
+   "sense": "clock",
+   "pos": "noun",
+   "ipa": "/taɪm/",
+   "def_en": "Clock or calendar time.",
+   "def_vi": "Thời gian đồng hồ, lịch.",
+   "gloss_vi": "thời gian",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Time</i> (noun) = thời gian. <b>Grammar</b>: không đếm được trong nghĩa này.",
+   "example": {
+    "en": "<b>Time</b> passes very slowly if you have a boring job.",
+    "vi": "<b>Thời gian</b> trôi rất chậm nếu công việc nhàm chán."
+   }
+  },
+  {
+   "word": "coffee",
+   "sense": "cup",
+   "pos": "noun",
+   "ipa": "/ˈkɒfi/",
+   "def_en": "A cup of coffee (countable).",
+   "def_vi": "Một tách cà phê (đếm được).",
+   "gloss_vi": "tách cà phê",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Coffee</i> (noun) = tách cà phê. <b>Grammar</b>: đếm được = một tách; không đếm được = cà phê nói chung.",
+   "example": {
+    "en": "<b>a coffee</b> and two teas",
+    "vi": "Cho tôi một <b>cà phê</b> và hai trà."
+   }
+  },
+  {
+   "word": "chocolate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtʃɒklət/",
+   "def_en": "A single sweet made of chocolate (countable).",
+   "def_vi": "Một viên kẹo sô-cô-la (đếm được).",
+   "gloss_vi": "viên sô-cô-la",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chocolate</i> (noun) = viên sô-cô-la. <b>Grammar</b>: đếm được = một viên; <i>some chocolate</i> = sô-cô-la nói chung.",
+   "example": {
+    "en": "Would you like a <b>chocolate</b>?",
+    "vi": "Bạn có muốn một <b>viên sô-cô-la</b> không?"
+   }
+  },
+  {
+   "word": "pepper",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpepə(r)/",
+   "def_en": "A vegetable (countable), or a spice (uncountable).",
+   "def_vi": "Rau (đếm được) hoặc gia vị (không đếm được).",
+   "gloss_vi": "ớt chuông; hạt tiêu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pepper</i> (noun) = ớt chuông; hạt tiêu. <b>Grammar</b>: <i>a pepper</i> = quả ớt chuông; <i>pepper</i> = hạt tiêu.",
+   "example": {
+    "en": "salt and <b>pepper</b>",
+    "vi": "Muối và <b>tiêu</b>."
+   }
+  },
+  {
+   "word": "onion",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈʌnjən/",
+   "def_en": "A vegetable with a strong smell and taste.",
+   "def_vi": "Rau củ có mùi vị mạnh.",
+   "gloss_vi": "hành tây",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Onion</i> (noun) = hành tây. <b>Grammar</b>: không đếm được = món ăn; <i>an onion</i> = củ hành.",
+   "example": {
+    "en": "a hot dog with <b>onion</b>",
+    "vi": "Một chiếc xúc xích kẹp với <b>hành tây</b>."
+   }
+  }
+ ]
+}

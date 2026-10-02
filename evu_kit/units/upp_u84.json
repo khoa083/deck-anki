@@ -1,0 +1,573 @@
+{
+ "book": "upp",
+ "unit": 84,
+ "title_vi": "Từ chỉ dùng ở số nhiều",
+ "theory_html": "<p><b>A. Tools, instruments, pieces of equipment</b><br><i>A. Dụng cụ, thiết bị</i></p> <p><b>scissors, pliers, earphones, tweezers, tongs, headphones, binoculars, scales, handcuffs, shears, glasses/spectacles, goggles</b>.</p><p><i><b>kéo, kìm, tai nghe, nhíp, kẹp gắp, tai nghe, ống nhòm, cân, còng tay, kéo tỉa, kính, kính bảo hộ</b>.</i></p> <p><b>B. Things we wear</b><br><i>B. Đồ mặc</i></p> <p><b>clothes, pyjamas, knickers/pants, underpants/pants, jeans, tights, overalls, leggings, dungarees, shorts, trousers, braces, (swimming) trunks</b>.</p><p><i><b>quần áo, đồ ngủ, quần lót, quần jean, quần tất, quần yếm bảo hộ, quần legging, quần yếm, quần đùi, quần dài, dây đeo quần, quần bơi</b>.</i></p> <p><b>C. Other useful words</b><br><i>C. Từ hữu ích khác</i></p> <p><b>graphics</b> [pictures produced on a computer], <b>goods</b> [articles/items], <b>foundations</b> [under the building], <b>premises</b> [the building itself], <b>authorities, headquarters, acoustics</b> [quality of the sound], <b>contents, looks, outskirts</b> [the beginning or end of the village], <b>traffic lights, stairs, proceeds</b> [money from selling tickets], <b>whereabouts</b> [where someone is].</p><p><i><b>đồ họa, hàng hóa, móng nhà, cơ sở, nhà chức trách, trụ sở, âm học, đồ đạc bên trong, ngoại hình, ngoại ô, đèn giao thông, cầu thang, tiền thu được, tung tích</b>.</i></p> <p><b>D. Words with plural form but used mostly with singular verbs</b><br><i>D. Từ có dạng số nhiều nhưng thường dùng động từ số ít</i></p> <p>Games: <b>billiards, dominoes, draughts, darts, bowls, cards</b>. Subjects/activities: <b>physics, economics, classics, gymnastics, athletics</b>.</p><p><i>Tên trò chơi và môn học có dạng số nhiều nhưng thường dùng động từ số ít.</i></p> <p><b>CM. Common mistakes</b><br><i>CM. Lỗi thường gặp</i></p> <p>Some words look plural, or may be thought of as plural, but are not: <b>news, spaghetti, series, means</b>. <b>The news is good. The spaghetti was delicious. There was a series of programmes… a cheap means of transport.</b></p><p><i>Một số từ trông như số nhiều nhưng không phải.</i></p>",
+ "items": [
+  {
+   "word": "pliers",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈplaɪəz/",
+   "def_en": "A tool for holding or bending small objects.",
+   "def_vi": "Dụng cụ kẹp hay bẻ vật nhỏ.",
+   "gloss_vi": "cái kìm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pliers</i> (noun) = cái kìm. <b>Grammar</b>: chỉ số nhiều; <i>a pair of pliers</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Pass me the <b>pliers</b>.",
+    "vi": "Đưa tôi <b>cái kìm</b>."
+   }
+  },
+  {
+   "word": "tweezers",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtwiːzəz/",
+   "def_en": "A small tool for picking up very small things.",
+   "def_vi": "Dụng cụ nhỏ để gắp vật rất nhỏ.",
+   "gloss_vi": "cái nhíp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tweezers</i> (noun) = cái nhíp. <b>Grammar</b>: chỉ số nhiều; <i>a pair of tweezers</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She used <b>tweezers</b> to remove the splinter.",
+    "vi": "Cô ấy dùng <b>nhíp</b> nhổ dằm."
+   }
+  },
+  {
+   "word": "tongs",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tɒŋz/",
+   "def_en": "A tool for picking up food or hot objects.",
+   "def_vi": "Dụng cụ gắp thức ăn hay vật nóng.",
+   "gloss_vi": "cái kẹp gắp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tongs</i> (noun) = cái kẹp gắp. <b>Grammar</b>: chỉ số nhiều.",
+   "ex_kit": true,
+   "example": {
+    "en": "Use the <b>tongs</b> to turn the sausages.",
+    "vi": "Dùng <b>kẹp</b> để lật xúc xích."
+   }
+  },
+  {
+   "word": "binoculars",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bɪˈnɒkjələz/",
+   "def_en": "A device with two lenses for seeing distant things.",
+   "def_vi": "Dụng cụ hai ống kính nhìn xa.",
+   "gloss_vi": "ống nhòm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Binoculars</i> (noun) = ống nhòm. <b>Grammar</b>: chỉ số nhiều.",
+   "ex_kit": true,
+   "example": {
+    "en": "He watched the birds through <b>binoculars</b>.",
+    "vi": "Anh ấy ngắm chim bằng <b>ống nhòm</b>."
+   }
+  },
+  {
+   "word": "scales",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/skeɪlz/",
+   "def_en": "A device for weighing things.",
+   "def_vi": "Dụng cụ cân.",
+   "gloss_vi": "cái cân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Scales</i> (noun) = cái cân. <b>Grammar</b>: chỉ số nhiều trong nghĩa này.",
+   "ex_kit": true,
+   "example": {
+    "en": "Put the apples on the <b>scales</b>.",
+    "vi": "Đặt táo lên <b>cân</b>."
+   }
+  },
+  {
+   "word": "handcuffs",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhændkʌfs/",
+   "def_en": "Metal rings for locking a prisoner’s wrists together.",
+   "def_vi": "Vòng kim loại khóa cổ tay tù nhân.",
+   "gloss_vi": "còng tay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Handcuffs</i> (noun) = còng tay. <b>Grammar</b>: chỉ số nhiều.",
+   "ex_kit": true,
+   "example": {
+    "en": "The police put <b>handcuffs</b> on him.",
+    "vi": "Cảnh sát tra <b>còng tay</b> cho hắn."
+   }
+  },
+  {
+   "word": "shears",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ʃɪəz/",
+   "def_en": "Large scissors for cutting plants.",
+   "def_vi": "Kéo lớn để cắt cây.",
+   "gloss_vi": "kéo tỉa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shears</i> (noun) = kéo tỉa. <b>Grammar</b>: chỉ số nhiều.",
+   "ex_kit": true,
+   "example": {
+    "en": "He cut the hedge with <b>shears</b>.",
+    "vi": "Anh ấy tỉa hàng rào bằng <b>kéo tỉa</b>."
+   }
+  },
+  {
+   "word": "goggles",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡɒɡlz/",
+   "def_en": "Special glasses that protect your eyes.",
+   "def_vi": "Kính đặc biệt bảo vệ mắt.",
+   "gloss_vi": "kính bảo hộ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Goggles</i> (noun) = kính bảo hộ. <b>Grammar</b>: chỉ số nhiều.",
+   "ex_kit": true,
+   "example": {
+    "en": "Wear <b>goggles</b> when you swim.",
+    "vi": "Đeo <b>kính bơi</b> khi bơi."
+   }
+  },
+  {
+   "word": "tights",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/taɪts/",
+   "def_en": "A thin garment covering the legs and lower body.",
+   "def_vi": "Quần mỏng che chân và thân dưới.",
+   "gloss_vi": "quần tất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tights</i> (noun) = quần tất. <b>Grammar</b>: chỉ số nhiều.",
+   "ex_kit": true,
+   "example": {
+    "en": "She wore a skirt with black <b>tights</b>.",
+    "vi": "Cô ấy mặc váy với <b>quần tất</b> đen."
+   }
+  },
+  {
+   "word": "overalls",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈəʊvərɔːlz/",
+   "def_en": "A loose garment worn over clothes to protect them.",
+   "def_vi": "Quần áo rộng mặc ngoài để bảo vệ.",
+   "gloss_vi": "quần áo bảo hộ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Overalls</i> (noun) = quần áo bảo hộ. <b>Grammar</b>: chỉ số nhiều.",
+   "ex_kit": true,
+   "example": {
+    "en": "The mechanic wore blue <b>overalls</b>.",
+    "vi": "Thợ máy mặc <b>đồ bảo hộ</b> xanh."
+   }
+  },
+  {
+   "word": "dungarees",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdʌŋɡəˈriːz/",
+   "def_en": "Trousers with a piece covering the chest, held by straps.",
+   "def_vi": "Quần có yếm che ngực, đeo dây.",
+   "gloss_vi": "quần yếm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dungarees</i> (noun) = quần yếm. <b>Grammar</b>: chỉ số nhiều.",
+   "ex_kit": true,
+   "example": {
+    "en": "The little girl was wearing <b>dungarees</b>.",
+    "vi": "Bé gái mặc <b>quần yếm</b>."
+   }
+  },
+  {
+   "word": "braces",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbreɪsɪz/",
+   "def_en": "Straps over the shoulders that hold trousers up.",
+   "def_vi": "Dây đeo qua vai giữ quần.",
+   "gloss_vi": "dây đeo quần",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Braces</i> (noun) = dây đeo quần. <b>Grammar</b>: chỉ số nhiều; Mỹ <i>suspenders</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He wore red <b>braces</b>.",
+    "vi": "Ông ấy đeo <b>dây đeo quần</b> đỏ."
+   }
+  },
+  {
+   "word": "trunks",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/trʌŋks/",
+   "def_en": "Shorts worn by men for swimming.",
+   "def_vi": "Quần đùi nam để bơi.",
+   "gloss_vi": "quần bơi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trunks</i> (noun) = quần bơi. <b>Grammar</b>: chỉ số nhiều; <i>swimming trunks</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He forgot his swimming <b>trunks</b>.",
+    "vi": "Anh ấy quên mang <b>quần bơi</b>."
+   }
+  },
+  {
+   "word": "goods",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɡʊdz/",
+   "def_en": "Articles or items for sale.",
+   "def_vi": "Hàng để bán.",
+   "gloss_vi": "hàng hóa",
+   "synonyms": "products <i>(n. sản phẩm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Goods</i> (noun) = hàng hóa. <b>Grammar</b>: chỉ số nhiều.",
+   "example": {
+    "en": "When will the <b>goods</b> be delivered?",
+    "vi": "Khi nào <b>hàng</b> được giao?"
+   }
+  },
+  {
+   "word": "foundations",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/faʊnˈdeɪʃnz/",
+   "def_en": "The parts under a building that support it.",
+   "def_vi": "Phần dưới tòa nhà để đỡ nó.",
+   "gloss_vi": "móng nhà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Foundations</i> (noun) = móng nhà. <b>Grammar</b>: số nhiều trong nghĩa này.",
+   "example": {
+    "en": "The architect inspected the <b>foundations</b> before declaring that the premises were safe.",
+    "vi": "Kiến trúc sư kiểm tra <b>móng</b> trước khi tuyên bố tòa nhà an toàn."
+   }
+  },
+  {
+   "word": "premises",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpremɪsɪz/",
+   "def_en": "The building itself and the land it is on.",
+   "def_vi": "Tòa nhà và khu đất.",
+   "gloss_vi": "cơ sở, khuôn viên",
+   "synonyms": "building <i>(n. tòa nhà)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Premises</i> (noun) = cơ sở, khuôn viên. <b>Grammar</b>: chỉ số nhiều trong nghĩa này.",
+   "example": {
+    "en": "The architect declared that the <b>premises</b> were safe.",
+    "vi": "Kiến trúc sư tuyên bố <b>tòa nhà</b> an toàn."
+   }
+  },
+  {
+   "word": "authorities",
+   "sense": "officials",
+   "pos": "noun",
+   "ipa": "/ɔːˈθɒrətiz/",
+   "def_en": "The people or organisations in control.",
+   "def_vi": "Người hay tổ chức nắm quyền.",
+   "gloss_vi": "nhà chức trách",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Authorities</i> (noun) = nhà chức trách. <b>Grammar</b>: số nhiều trong nghĩa này.",
+   "example": {
+    "en": "The military <b>authorities</b> have established their headquarters in the old Town Hall.",
+    "vi": "<b>Nhà chức trách</b> quân sự lập trụ sở ở Tòa thị chính cũ."
+   }
+  },
+  {
+   "word": "headquarters",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌhedˈkwɔːtəz/",
+   "def_en": "The main office of an organisation.",
+   "def_vi": "Văn phòng chính của tổ chức.",
+   "gloss_vi": "trụ sở chính",
+   "synonyms": "head office <i>(n. trụ sở chính)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Headquarters</i> (noun) = trụ sở chính. <b>Grammar</b>: dạng số nhiều; viết tắt <i>HQ</i>.",
+   "example": {
+    "en": "The military authorities have established their <b>headquarters</b> in the old Town Hall.",
+    "vi": "Nhà chức trách lập <b>trụ sở</b> ở Tòa thị chính cũ."
+   }
+  },
+  {
+   "word": "acoustics",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈkuːstɪks/",
+   "def_en": "The quality of the sound in a building.",
+   "def_vi": "Chất lượng âm thanh trong tòa nhà.",
+   "gloss_vi": "âm học, chất lượng âm thanh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Acoustics</i> (noun) = âm học, chất lượng âm thanh. <b>Grammar</b>: số nhiều trong nghĩa này.",
+   "example": {
+    "en": "The <b>acoustics</b> in the new opera house are near perfect.",
+    "vi": "<b>Âm thanh</b> trong nhà hát mới gần như hoàn hảo."
+   }
+  },
+  {
+   "word": "contents",
+   "sense": "things",
+   "pos": "noun",
+   "ipa": "/ˈkɒntents/",
+   "def_en": "The things inside something.",
+   "def_vi": "Những thứ bên trong.",
+   "gloss_vi": "đồ đạc bên trong",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Contents</i> (noun) = đồ đạc bên trong. <b>Grammar</b>: /ˈkɒntents/.",
+   "example": {
+    "en": "The <b>contents</b> of the house were sold after her death.",
+    "vi": "<b>Đồ đạc</b> trong nhà được bán sau khi bà mất."
+   }
+  },
+  {
+   "word": "looks",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/lʊks/",
+   "def_en": "A person’s appearance.",
+   "def_vi": "Ngoại hình của một người.",
+   "gloss_vi": "ngoại hình",
+   "synonyms": "appearance <i>(n. vẻ ngoài)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Looks</i> (noun) = ngoại hình. <b>Grammar</b>: số nhiều trong nghĩa này.",
+   "example": {
+    "en": "<b>Looks</b> are less important than personality in a partner.",
+    "vi": "<b>Ngoại hình</b> ít quan trọng hơn tính cách ở người bạn đời."
+   }
+  },
+  {
+   "word": "outskirts",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈaʊtskɜːts/",
+   "def_en": "The outer areas of a town or village.",
+   "def_vi": "Vùng rìa thị trấn, làng.",
+   "gloss_vi": "ngoại ô, rìa",
+   "synonyms": "suburbs <i>(n. ngoại ô)</i>",
+   "antonyms": "centre <i>(n. trung tâm)</i>",
+   "grammar_vi": "<i>Outskirts</i> (noun) = ngoại ô, rìa. <b>Grammar</b>: chỉ số nhiều.",
+   "example": {
+    "en": "As you come to the <b>outskirts</b> of the village, there are traffic lights.",
+    "vi": "Khi đến <b>rìa</b> làng, có đèn giao thông."
+   }
+  },
+  {
+   "word": "stairs",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/steəz/",
+   "def_en": "A set of steps inside a building.",
+   "def_vi": "Bậc thang trong nhà.",
+   "gloss_vi": "cầu thang",
+   "synonyms": "staircase <i>(n. cầu thang)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stairs</i> (noun) = cầu thang. <b>Grammar</b>: số nhiều.",
+   "example": {
+    "en": "The <b>stairs</b> are a bit dangerous - be careful.",
+    "vi": "<b>Cầu thang</b> hơi nguy hiểm – cẩn thận."
+   }
+  },
+  {
+   "word": "proceeds",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈprəʊsiːdz/",
+   "def_en": "Money from selling tickets or goods.",
+   "def_vi": "Tiền thu từ bán vé hay hàng.",
+   "gloss_vi": "tiền thu được",
+   "synonyms": "profits <i>(n. lợi nhuận)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Proceeds</i> (noun) = tiền thu được. <b>Grammar</b>: /ˈprəʊsiːdz/; chỉ số nhiều.",
+   "example": {
+    "en": "The <b>proceeds</b> of the concert are going to the children’s fund.",
+    "vi": "<b>Tiền thu được</b> từ buổi hòa nhạc dành cho quỹ trẻ em."
+   }
+  },
+  {
+   "word": "whereabouts",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈweərəbaʊts/",
+   "def_en": "Where someone or something is.",
+   "def_vi": "Nơi ai/cái gì đang ở.",
+   "gloss_vi": "tung tích",
+   "synonyms": "location <i>(n. vị trí)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Whereabouts</i> (noun) = tung tích. <b>Grammar</b>: thường động từ số nhiều.",
+   "example": {
+    "en": "Her <b>whereabouts</b> are unknown.",
+    "vi": "<b>Tung tích</b> của cô ta không rõ."
+   }
+  },
+  {
+   "word": "billiards",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɪliədz/",
+   "def_en": "A game played with balls and long sticks on a table.",
+   "def_vi": "Trò chơi bóng và gậy trên bàn.",
+   "gloss_vi": "bi-a",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Billiards</i> (noun) = bi-a. <b>Grammar</b>: dạng số nhiều, động từ số ít.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Billiards</b> is a popular game.",
+    "vi": "<b>Bi-a</b> là trò chơi phổ biến."
+   }
+  },
+  {
+   "word": "dominoes",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdɒmɪnəʊz/",
+   "def_en": "A game played with small rectangular blocks.",
+   "def_vi": "Trò chơi với các quân hình chữ nhật.",
+   "gloss_vi": "cờ đô-mi-nô",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dominoes</i> (noun) = cờ đô-mi-nô. <b>Grammar</b>: dạng số nhiều, động từ số ít.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Dominoes</b> is easy to learn.",
+    "vi": "<b>Đô-mi-nô</b> dễ học."
+   }
+  },
+  {
+   "word": "draughts",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/drɑːfts/",
+   "def_en": "A board game for two players.",
+   "def_vi": "Trò chơi bàn cờ hai người.",
+   "gloss_vi": "cờ đam",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Draughts</i> (noun) = cờ đam. <b>Grammar</b>: /drɑːfts/; Mỹ <i>checkers</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Draughts</b> is played on a chessboard.",
+    "vi": "<b>Cờ đam</b> được chơi trên bàn cờ vua."
+   }
+  },
+  {
+   "word": "darts",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɑːts/",
+   "def_en": "A game of throwing small arrows at a board.",
+   "def_vi": "Trò ném phi tiêu vào bảng.",
+   "gloss_vi": "phi tiêu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Darts</i> (noun) = phi tiêu. <b>Grammar</b>: dạng số nhiều, động từ số ít.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Darts</b> is very popular in British pubs.",
+    "vi": "<b>Phi tiêu</b> rất phổ biến ở quán rượu Anh."
+   }
+  },
+  {
+   "word": "bowls",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bəʊlz/",
+   "def_en": "A game of rolling heavy balls on grass.",
+   "def_vi": "Trò lăn bóng nặng trên cỏ.",
+   "gloss_vi": "bóng lăn trên cỏ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bowls</i> (noun) = bóng lăn trên cỏ. <b>Grammar</b>: dạng số nhiều, động từ số ít.",
+   "ex_kit": true,
+   "example": {
+    "en": "My grandfather plays <b>bowls</b> every Saturday.",
+    "vi": "Ông tôi chơi <b>bóng lăn</b> mỗi thứ Bảy."
+   }
+  },
+  {
+   "word": "economics",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌiːkəˈnɒmɪks/",
+   "def_en": "The study of how money and goods are produced and used.",
+   "def_vi": "Môn nghiên cứu sản xuất và sử dụng tiền, hàng.",
+   "gloss_vi": "kinh tế học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Economics</i> (noun) = kinh tế học. <b>Grammar</b>: dạng số nhiều, động từ số ít.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Economics</b> is a difficult subject.",
+    "vi": "<b>Kinh tế học</b> là môn khó."
+   }
+  },
+  {
+   "word": "classics",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈklæsɪks/",
+   "def_en": "The study of ancient Greek and Roman culture.",
+   "def_vi": "Môn nghiên cứu văn hóa Hy Lạp, La Mã cổ.",
+   "gloss_vi": "cổ điển học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Classics</i> (noun) = cổ điển học. <b>Grammar</b>: dạng số nhiều, động từ số ít.",
+   "ex_kit": true,
+   "example": {
+    "en": "She studied <b>classics</b> at Oxford.",
+    "vi": "Cô ấy học <b>cổ điển học</b> ở Oxford."
+   }
+  },
+  {
+   "word": "athletics",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/æθˈletɪks/",
+   "def_en": "Sports such as running and jumping.",
+   "def_vi": "Các môn như chạy, nhảy.",
+   "gloss_vi": "điền kinh",
+   "synonyms": "track and field <i>(n. điền kinh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Athletics</i> (noun) = điền kinh. <b>Grammar</b>: dạng số nhiều, động từ số ít.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Athletics</b> is my favourite sport.",
+    "vi": "<b>Điền kinh</b> là môn yêu thích của tôi."
+   }
+  },
+  {
+   "word": "series",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɪəriːz/",
+   "def_en": "A number of related things, e.g. programmes.",
+   "def_vi": "Một loạt thứ liên quan, như chương trình.",
+   "gloss_vi": "loạt, chuỗi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Series</i> (noun) = loạt, chuỗi. <b>Grammar</b>: số ít và số nhiều cùng dạng: <i>a series</i>.",
+   "example": {
+    "en": "There was a <b>series</b> of programmes on TV about Japan.",
+    "vi": "Có một <b>loạt</b> chương trình về Nhật Bản trên TV."
+   }
+  }
+ ]
+}
