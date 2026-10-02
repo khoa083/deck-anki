@@ -1,0 +1,312 @@
+{
+ "book": "gva",
+ "unit": 3,
+ "title_vi": "Động từ khuyết thiếu (1)",
+ "theory_html": "<p><b>2.1. Can, could, be able to: ability</b><br><i>2.1. Khả năng</i></p> <p><b>be able to</b> instead of <b>can/could</b> (more formal); <b>be able to</b> for ability on a specific past occasion (<b>were able to</b>, not <b>could</b>); <b>couldn’t / weren’t able to</b> in negatives; <b>can/could</b> with verbs of sense and thinking; <b>be able to</b> in perfect tenses, -ing forms, infinitives, after modals; <b>can/could</b> in passives; <b>will be able to</b> for future ability; <b>can / be able to</b> for future arrangements; <b>can/could</b> for permission.</p><p><i><b>be able to</b> trang trọng hơn; dịp cụ thể trong quá khứ dùng <b>was/were able to</b>; <b>can/could</b> với động từ giác quan; <b>will be able to</b> cho tương lai.</i></p> <p><b>2.2. May, might, can, could: possibility</b><br><i>2.2. Khả năng xảy ra</i></p> <p><b>can/may</b> for general possibility; <b>could</b> for past possibility; not <b>may</b> in questions (use <b>could</b> or <b>be likely to</b>); negatives with <b>only, hardly</b>: <b>can hardly be described</b>, <b>may/might not</b>.</p><p><i><b>can/may</b>: khả năng chung; <b>could</b>: khả năng quá khứ; hỏi dùng <b>could / be likely to</b>.</i></p> <p><b>2.3. Will, would, used to: conclusions, willingness, habitual events</b><br><i>2.3. Kết luận, sẵn lòng, thói quen</i></p> <p><b>will</b> for conclusions/assumptions; <b>will (not)</b> for (un)willingness/refusal (also machines); <b>would</b> for future willingness, conditionals, willing but unable (not for a specific past occasion); <b>will/would</b> for characteristic behaviour; <b>would / used to</b> for repeated past actions, only <b>used to</b> for past states.</p><p><i><b>will</b> suy đoán; <b>won’t</b> từ chối; <b>would / used to</b> thói quen quá khứ; trạng thái quá khứ chỉ <b>used to</b>.</i></p> <p><b>2.4. Must, have (got) to: necessity, deduction</b><br><i>2.4. Cần thiết, suy luận</i></p> <p><b>must / have to</b> (have to less formal, preferred in questions); <b>had to</b> for past; <b>will have to</b> for future; <b>must</b> = speaker’s opinion, <b>have to</b> = external rule; <b>must</b> for conclusions, <b>can’t / couldn’t</b> for impossibility; <b>have got to</b> informal (contracted <b>’ve got to</b>); <b>had to</b> not <b>had got to</b>.</p><p><i><b>must</b> (ý người nói), <b>have to</b> (quy định bên ngoài); suy luận <b>must have</b>, phủ định <b>can’t</b>.</i></p> <p><b>2.5. Didn’t need to, didn’t have to, needn’t have</b><br><i>2.5. Không cần thiết</i></p> <p><b>didn’t need to / didn’t have to</b> = not necessary (and not done); <b>needn’t have</b> = done but not necessary.</p><p><i><b>didn’t need to</b>: không cần (và không làm); <b>needn’t have</b>: đã làm nhưng không cần.</i></p> <p><b>2.6. Should, ought to: obligation</b><br><i>2.6. Bổn phận</i></p> <p><b>should / ought to</b> for advice, recommendations, responsibility; for things likely because planned or expected; <b>shouldn’t</b> (not <b>oughtn’t to</b>) for unlikely things.</p><p><i><b>should / ought to</b>: khuyên, trách nhiệm, điều có khả năng; <b>shouldn’t</b>: điều khó xảy ra.</i></p>",
+ "items": [
+  {
+   "word": "be able to",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/bi ˈeɪbl tə/",
+   "def_en": "Used for ability, especially in formal contexts, on a specific past occasion, and after other modals or in perfect tenses.",
+   "def_vi": "Diễn tả khả năng, nhất là trang trọng, dịp cụ thể trong quá khứ, sau động từ khuyết thiếu khác.",
+   "gloss_vi": "có thể",
+   "synonyms": "can <i>(mv. có thể)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be able to</i> (structure) = có thể. <b>Grammar</b>: dịp cụ thể trong quá khứ dùng <i>were able to</i> (không <i>could</i>); <i>will be able to</i> cho tương lai.",
+   "example": {
+    "en": "Firefighters <b>were able to</b> bring the fire under control fairly quickly",
+    "vi": "Lính cứu hỏa <b>đã có thể</b> khống chế đám cháy khá nhanh."
+   }
+  },
+  {
+   "word": "can",
+   "sense": "",
+   "pos": "modal verb",
+   "ipa": "/kæn/",
+   "def_en": "Used for general ability, and with verbs of sense and thinking.",
+   "def_vi": "Diễn tả khả năng chung, dùng với động từ giác quan, suy nghĩ.",
+   "gloss_vi": "có thể",
+   "synonyms": "be able to <i>(st. có thể)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Can</i> (modal verb) = có thể. <b>Grammar</b>: ưu tiên <i>can/could</i> với <i>see, hear, believe, understand</i> và trong bị động.",
+   "example": {
+    "en": "We'll get wealthy people from the mainland who <b>can</b> afford second homes.",
+    "vi": "Chúng ta sẽ có những người giàu <b>có thể</b> mua nhà thứ hai."
+   }
+  },
+  {
+   "word": "could",
+   "sense": "",
+   "pos": "modal verb",
+   "ipa": "/kʊd/",
+   "def_en": "Used for general ability in the past, past possibility, or something possible now.",
+   "def_vi": "Khả năng chung trong quá khứ, khả năng xảy ra.",
+   "gloss_vi": "có thể (đã)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Could</i> (modal verb) = có thể (đã). <b>Grammar</b>: không dùng cho dịp cụ thể thành công trong quá khứ.",
+   "example": {
+    "en": "Before the bridge was built we <b>could</b> only get to the island by ferry.",
+    "vi": "Trước khi có cầu, chúng tôi chỉ <b>có thể</b> ra đảo bằng phà."
+   }
+  },
+  {
+   "word": "may",
+   "sense": "",
+   "pos": "modal verb",
+   "ipa": "/meɪ/",
+   "def_en": "Used to say something is possible.",
+   "def_vi": "Diễn tả điều có thể xảy ra.",
+   "gloss_vi": "có thể",
+   "synonyms": "might <i>(mv. có lẽ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>May</i> (modal verb) = có thể. <b>Grammar</b>: không dùng <i>may</i> trong câu hỏi về khả năng (dùng <i>could / be likely to</i>).",
+   "example": {
+    "en": "Up to 700,000 people <b>may</b> experience delays.",
+    "vi": "Tới 700.000 người <b>có thể</b> bị chậm trễ."
+   }
+  },
+  {
+   "word": "might",
+   "sense": "",
+   "pos": "modal verb",
+   "ipa": "/maɪt/",
+   "def_en": "Used to say something is possible, less certain than may or could.",
+   "def_vi": "Diễn tả điều có thể, ít chắc hơn may/could.",
+   "gloss_vi": "có lẽ",
+   "synonyms": "may <i>(mv. có thể)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Might</i> (modal verb) = có lẽ. <b>Grammar</b>: dùng trong câu hỏi thì khá trang trọng.",
+   "example": {
+    "en": "It <b>might</b> be a number of months before the sports centre is back in operation.",
+    "vi": "<b>Có lẽ</b> phải vài tháng nữa trung tâm thể thao mới hoạt động lại."
+   }
+  },
+  {
+   "word": "be likely to",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/bi ˈlaɪkli tə/",
+   "def_en": "Used to ask about the possibility of something happening.",
+   "def_vi": "Hỏi khả năng việc gì xảy ra.",
+   "gloss_vi": "có khả năng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be likely to</i> (structure) = có khả năng. <b>Grammar</b>: dùng thay <i>may</i> trong câu hỏi.",
+   "example": {
+    "en": "What time is the meeting <b>likely to</b> finish?",
+    "vi": "Cuộc họp <b>có khả năng</b> kết thúc lúc mấy giờ?"
+   }
+  },
+  {
+   "word": "can hardly",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/kən ˈhɑːdli/",
+   "def_en": "It is not possible to.",
+   "def_vi": "Hầu như không thể.",
+   "gloss_vi": "khó mà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Can hardly</i> (structure) = khó mà. <b>Grammar</b>: dùng với <i>only / hardly</i> trong câu phủ định.",
+   "example": {
+    "en": "The company <b>can hardly</b> be described as a success.",
+    "vi": "Công ty <b>khó mà</b> được coi là thành công."
+   }
+  },
+  {
+   "word": "will (conclusion)",
+   "sense": "",
+   "pos": "modal verb",
+   "ipa": "/wɪl/",
+   "def_en": "Used to draw conclusions or state assumptions about things we think are true.",
+   "def_vi": "Rút ra kết luận, giả định điều ta cho là đúng.",
+   "gloss_vi": "chắc hẳn (đã)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Will (conclusion)</i> (modal verb) = chắc hẳn (đã). <b>Grammar</b>: <i>will</i> + nguyên mẫu hoàn thành = suy đoán.",
+   "example": {
+    "en": "No doubt you <b>will have heard</b> the news by now.",
+    "vi": "Chắc hẳn giờ bạn <b>đã nghe</b> tin rồi."
+   }
+  },
+  {
+   "word": "won't",
+   "sense": "",
+   "pos": "modal verb",
+   "ipa": "/wəʊnt/",
+   "def_en": "Used for unwillingness or refusal, also of machines.",
+   "def_vi": "Diễn tả không chịu, từ chối, cả với máy móc.",
+   "gloss_vi": "không chịu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Won't</i> (modal verb) = không chịu. <b>Grammar</b>: vật vô tri cũng có thể ‘không chịu’.",
+   "example": {
+    "en": "The computer <b>won't</b> let me print documents.",
+    "vi": "Máy tính <b>không chịu</b> cho tôi in tài liệu."
+   }
+  },
+  {
+   "word": "would (habit)",
+   "sense": "",
+   "pos": "modal verb",
+   "ipa": "/wʊd/",
+   "def_en": "Used for things that happened repeatedly in the past or characteristic behaviour.",
+   "def_vi": "Diễn tả việc lặp lại trong quá khứ, hành vi đặc trưng.",
+   "gloss_vi": "thường (hay)",
+   "synonyms": "used to <i>(st. đã từng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Would (habit)</i> (modal verb) = thường (hay). <b>Grammar</b>: không dùng <i>would</i> cho trạng thái quá khứ (dùng <i>used to</i>).",
+   "example": {
+    "en": "The crossing <b>would</b>/used to take over an hour at least.",
+    "vi": "Chuyến đi <b>thường</b> mất ít nhất hơn một giờ."
+   }
+  },
+  {
+   "word": "used to",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈjuːst tə/",
+   "def_en": "Used for repeated past actions and for past states.",
+   "def_vi": "Diễn tả việc lặp lại và trạng thái trong quá khứ.",
+   "gloss_vi": "đã từng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Used to</i> (structure) = đã từng. <b>Grammar</b>: trạng thái quá khứ chỉ dùng <i>used to</i>.",
+   "example": {
+    "en": "We <b>used to</b> be terribly isolated here because the ferry service was so bad.",
+    "vi": "Chúng tôi <b>đã từng</b> rất biệt lập vì phà quá tệ."
+   }
+  },
+  {
+   "word": "must",
+   "sense": "",
+   "pos": "modal verb",
+   "ipa": "/mʌst/",
+   "def_en": "Used for a rule, for something the speaker thinks is necessary, or to conclude that something is true.",
+   "def_vi": "Diễn tả quy định, điều người nói thấy cần, hay suy luận chắc chắn.",
+   "gloss_vi": "phải; hẳn là",
+   "synonyms": "have to <i>(st. phải)</i>",
+   "antonyms": "can't <i>(mv. không thể nào)</i>",
+   "grammar_vi": "<i>Must</i> (modal verb) = phải; hẳn là. <b>Grammar</b>: <i>must</i> = ý người nói; quá khứ dùng <i>had to</i>; kết luận phủ định dùng <i>can't</i>.",
+   "example": {
+    "en": "The bridge <b>must have cost</b> a fortune.",
+    "vi": "Cây cầu <b>hẳn đã tốn</b> cả gia tài."
+   }
+  },
+  {
+   "word": "have to",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈhæv tə/",
+   "def_en": "Used for necessity coming from outside, e.g. a rule; less formal than must.",
+   "def_vi": "Cần thiết do quy định bên ngoài; ít trang trọng hơn must.",
+   "gloss_vi": "phải",
+   "synonyms": "must <i>(mv. phải)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have to</i> (structure) = phải. <b>Grammar</b>: quá khứ <i>had to</i>; tương lai <i>will have to</i>; dùng với trạng từ tần suất.",
+   "example": {
+    "en": "The council <b>has to</b> close two city centre car parks following a health and safety report.",
+    "vi": "Hội đồng <b>phải</b> đóng hai bãi đỗ xe sau báo cáo an toàn."
+   }
+  },
+  {
+   "word": "have got to",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/hæv ˈɡɒt tə/",
+   "def_en": "A more informal form of have to.",
+   "def_vi": "Dạng thân mật của have to.",
+   "gloss_vi": "phải",
+   "synonyms": "have to <i>(st. phải)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have got to</i> (structure) = phải. <b>Grammar</b>: khi rút gọn (<i>I've</i>) phải có <i>got</i>; quá khứ dùng <i>had to</i>.",
+   "example": {
+    "en": "They<b>'ve got to</b> be changed.",
+    "vi": "Chúng <b>phải</b> được thay đổi."
+   }
+  },
+  {
+   "word": "can't (deduction)",
+   "sense": "",
+   "pos": "modal verb",
+   "ipa": "/kɑːnt/",
+   "def_en": "Used to conclude that something is impossible.",
+   "def_vi": "Kết luận điều gì không thể.",
+   "gloss_vi": "không thể nào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "must <i>(mv. hẳn là)</i>",
+   "grammar_vi": "<i>Can't (deduction)</i> (modal verb) = không thể nào. <b>Grammar</b>: không dùng <i>mustn't</i> để kết luận phủ định.",
+   "example": {
+    "en": "That <b>can't</b> be right, surely?",
+    "vi": "Điều đó <b>không thể nào</b> đúng được chứ?"
+   }
+  },
+  {
+   "word": "didn't have to",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˌdɪdnt ˈhæv tə/",
+   "def_en": "It was not necessary (and it was not done).",
+   "def_vi": "Không cần thiết (và đã không làm).",
+   "gloss_vi": "không phải",
+   "synonyms": "didn't need to <i>(st. không cần)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Didn't have to</i> (structure) = không phải. <b>Grammar</b>: = <i>didn't need to</i>.",
+   "example": {
+    "en": "He <b>didn't have to</b> wait long for a response.",
+    "vi": "Anh ấy <b>không phải</b> chờ lâu."
+   }
+  },
+  {
+   "word": "needn't have",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˌniːdnt ˈhæv/",
+   "def_en": "Something was done but it was not necessary.",
+   "def_vi": "Đã làm nhưng không cần.",
+   "gloss_vi": "lẽ ra không cần",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Needn't have</i> (structure) = lẽ ra không cần. <b>Grammar</b>: <i>needn't have</i> + V3.",
+   "example": {
+    "en": "However, they <b>need not have</b> worried, as every ticket was sold",
+    "vi": "Họ <b>lẽ ra không cần</b> lo, vì vé bán hết."
+   }
+  },
+  {
+   "word": "ought to",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈɔːt tə/",
+   "def_en": "Used for obligation, advice and responsibility; also for something likely because expected.",
+   "def_vi": "Bổn phận, lời khuyên, trách nhiệm; cũng là điều có khả năng.",
+   "gloss_vi": "nên",
+   "synonyms": "should <i>(mv. nên)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ought to</i> (structure) = nên. <b>Grammar</b>: điều khó xảy ra dùng <i>shouldn't</i> (không <i>oughtn't to</i>).",
+   "example": {
+    "en": "The authorities <b>ought to</b> / should prosecute companies that cause pollution.",
+    "vi": "Chính quyền <b>nên</b> truy tố công ty gây ô nhiễm."
+   }
+  },
+  {
+   "word": "shouldn't (unlikely)",
+   "sense": "",
+   "pos": "modal verb",
+   "ipa": "/ˈʃʊdnt/",
+   "def_en": "Used to say something is unlikely.",
+   "def_vi": "Diễn tả điều khó xảy ra.",
+   "gloss_vi": "chắc sẽ không",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shouldn't (unlikely)</i> (modal verb) = chắc sẽ không. <b>Grammar</b>: dùng <i>shouldn't</i> thay <i>oughtn't to</i>.",
+   "example": {
+    "en": "If you're in the south of the country, you <b>shouldn't</b> be troubled by any rain today.",
+    "vi": "Nếu bạn ở miền nam, hôm nay <b>chắc sẽ không</b> gặp mưa."
+   }
+  }
+ ]
+}
