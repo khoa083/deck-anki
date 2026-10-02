@@ -1,0 +1,522 @@
+{
+ "book": "gva",
+ "unit": 45,
+ "title_vi": "Khoa học và công nghệ",
+ "theory_html": "<p><b>V1. at last and finally</b><br><i>V1. at last và finally</i></p> <p>Both mean something happens after a long period of waiting or effort (<b>At last I'm old enough to drive. I've finally finished my essay.</b>). Only <b>finally</b> introduces the last point in writing or a speech (<b>Finally, I'd like to thank you all…</b>; not <b>At last</b>).</p><p><i>Đánh dấu ý cuối chỉ dùng <b>finally</b>.</i></p> <p><b>V2. Compound nouns replacing phrases</b><br><i>V2. Danh từ ghép thay cụm dài</i></p> <p>Compound nouns can replace a longer phrase with a preposition: <b>power supply</b> = supply of power; <b>gas emissions, petrol tank, family car, car manufacturers, oil resources, diesel engines</b>.</p><p><i>Danh từ ghép thay cụm có giới từ.</i></p> <p><b>V3. Branches of science</b><br><i>V3. Các ngành khoa học</i></p> <p><b>anatomy</b> (body), <b>anthropology</b> (cultures, customs), <b>archaeology</b> (remains, settlements), <b>astronomy</b> (comets, galaxies), <b>ecology</b> (habitats, species), <b>genetics</b> (chromosomes, heredity), <b>meteorology</b> (weather), <b>psychology</b> (mind, behaviour), <b>seismology</b> (earthquakes), <b>zoology</b> (animals).</p><p><i>Các ngành khoa học và từ vựng liên quan.</i></p>",
+ "items": [
+  {
+   "word": "the internal combustion engine",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ði ɪnˌtɜːnl kəmˈbʌstʃən ˌendʒɪn/",
+   "def_en": "An engine that burns fuel inside to produce power, as in cars.",
+   "def_vi": "Động cơ đốt trong.",
+   "gloss_vi": "động cơ đốt trong",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The internal combustion engine</i> (noun) = động cơ đốt trong. <b>Collocations / chunks</b>: cụm danh từ cố định <i>the internal combustion engine</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>The internal combustion engine</b> was an important invention.",
+    "vi": "<b>Động cơ đốt trong</b> là phát minh quan trọng."
+   }
+  },
+  {
+   "word": "sanitation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsænɪˈteɪʃn/",
+   "def_en": "Systems for clean water and removing waste.",
+   "def_vi": "Hệ thống vệ sinh.",
+   "gloss_vi": "vệ sinh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sanitation</i> (noun) = vệ sinh. <b>Grammar</b>: danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Sanitation</b> has saved millions of lives.",
+    "vi": "<b>Hệ thống vệ sinh</b> cứu được hàng triệu mạng sống."
+   }
+  },
+  {
+   "word": "life expectancy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlaɪf ɪkˌspektənsi/",
+   "def_en": "The average number of years a person is expected to live.",
+   "def_vi": "Tuổi thọ trung bình.",
+   "gloss_vi": "tuổi thọ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Life expectancy</i> (noun) = tuổi thọ. <b>Collocations / chunks</b>: cụm danh từ cố định <i>life expectancy</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Antibiotics have increased the average <b>life expectancy</b> in the developed world.",
+    "vi": "Kháng sinh đã tăng <b>tuổi thọ trung bình</b> ở các nước phát triển."
+   }
+  },
+  {
+   "word": "anatomy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈnætəmi/",
+   "def_en": "The scientific study of the body.",
+   "def_vi": "Giải phẫu học.",
+   "gloss_vi": "giải phẫu học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Anatomy</i> (noun) = giải phẫu học. <b>Note</b>: joint, muscle, organ, spine, vein.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Anatomy</b> studies joints, muscles, organs, the spine and veins.",
+    "vi": "<b>Giải phẫu học</b> nghiên cứu khớp, cơ, cơ quan, cột sống và tĩnh mạch."
+   }
+  },
+  {
+   "word": "anthropology",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌænθrəˈpɒlədʒi/",
+   "def_en": "The study of human cultures and societies.",
+   "def_vi": "Nhân học.",
+   "gloss_vi": "nhân học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Anthropology</i> (noun) = nhân học. <b>Note</b>: culture, custom, taboo, tribe, warfare.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Anthropology</b> studies the culture, customs and taboos of a tribe.",
+    "vi": "<b>Nhân học</b> nghiên cứu văn hóa, phong tục và điều cấm kỵ của bộ lạc."
+   }
+  },
+  {
+   "word": "archaeology",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɑːkiˈɒlədʒi/",
+   "def_en": "The study of ancient people through their remains.",
+   "def_vi": "Khảo cổ học.",
+   "gloss_vi": "khảo cổ học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Archaeology</i> (noun) = khảo cổ học. <b>Note</b>: ancestor, bone, dig, remains, settlement.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Archaeology</b> studies the remains of ancient settlements found on a dig.",
+    "vi": "<b>Khảo cổ học</b> nghiên cứu di tích các khu định cư cổ tìm thấy khi khai quật."
+   }
+  },
+  {
+   "word": "astronomy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈstrɒnəmi/",
+   "def_en": "The scientific study of stars and planets.",
+   "def_vi": "Thiên văn học.",
+   "gloss_vi": "thiên văn học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Astronomy</i> (noun) = thiên văn học. <b>Note</b>: asteroid, comet, galaxy, nebula, orbit.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Astronomy</b> studies asteroids, comets, galaxies and their orbits.",
+    "vi": "<b>Thiên văn học</b> nghiên cứu tiểu hành tinh, sao chổi, thiên hà và quỹ đạo."
+   }
+  },
+  {
+   "word": "genetics",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dʒəˈnetɪks/",
+   "def_en": "The study of how characteristics are passed from parents to children.",
+   "def_vi": "Di truyền học.",
+   "gloss_vi": "di truyền học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Genetics</i> (noun) = di truyền học. <b>Note</b>: chromosome, heredity, mutation, organism, variation.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Genetics</b> studies chromosomes, heredity and mutation.",
+    "vi": "<b>Di truyền học</b> nghiên cứu nhiễm sắc thể, sự di truyền và đột biến."
+   }
+  },
+  {
+   "word": "meteorology",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmiːtiəˈrɒlədʒi/",
+   "def_en": "The scientific study of the weather.",
+   "def_vi": "Khí tượng học.",
+   "gloss_vi": "khí tượng học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Meteorology</i> (noun) = khí tượng học. <b>Note</b>: atmosphere, humidity, hurricane, pressure, temperature.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Meteorology</b> studies the atmosphere, humidity, pressure and temperature.",
+    "vi": "<b>Khí tượng học</b> nghiên cứu khí quyển, độ ẩm, áp suất và nhiệt độ."
+   }
+  },
+  {
+   "word": "seismology",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/saɪzˈmɒlədʒi/",
+   "def_en": "The scientific study of earthquakes.",
+   "def_vi": "Địa chấn học.",
+   "gloss_vi": "địa chấn học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Seismology</i> (noun) = địa chấn học. <b>Note</b>: aftershock, earthquake, magma, tremor, volcano.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Seismology</b> studies earthquakes, tremors and aftershocks.",
+    "vi": "<b>Địa chấn học</b> nghiên cứu động đất, chấn động và dư chấn."
+   }
+  },
+  {
+   "word": "zoology",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/zuˈɒlədʒi/",
+   "def_en": "The scientific study of animals.",
+   "def_vi": "Động vật học.",
+   "gloss_vi": "động vật học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Zoology</i> (noun) = động vật học. <b>Note</b>: carnivore, invertebrate, mammal, prey, venom.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Zoology</b> studies animals such as carnivores, invertebrates and mammals.",
+    "vi": "<b>Động vật học</b> nghiên cứu động vật như loài ăn thịt, không xương sống và thú."
+   }
+  },
+  {
+   "word": "invertebrate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˈvɜːtɪbrət/",
+   "def_en": "An animal without a backbone.",
+   "def_vi": "Động vật không xương sống.",
+   "gloss_vi": "không xương sống",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "vertebrate <i>(n. có xương sống)</i>",
+   "grammar_vi": "<i>Invertebrate</i> (noun) = không xương sống. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "The common characteristic of <b>invertebrates</b> like insects is that they do not have a spine.",
+    "vi": "Đặc điểm chung của <b>động vật không xương sống</b> như côn trùng là không có cột sống."
+   }
+  },
+  {
+   "word": "asteroid",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈæstərɔɪd/",
+   "def_en": "A large rock that moves around the sun.",
+   "def_vi": "Tiểu hành tinh.",
+   "gloss_vi": "tiểu hành tinh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Asteroid</i> (noun) = tiểu hành tinh. <b>Grammar</b>: danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "If an <b>asteroid</b> were to enter the earth's atmosphere, the results would be catastrophic.",
+    "vi": "Nếu một <b>tiểu hành tinh</b> đi vào khí quyển trái đất, hậu quả sẽ thảm khốc."
+   }
+  },
+  {
+   "word": "hypothesise",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/haɪˈpɒθəsaɪz/",
+   "def_en": "To suggest an explanation that has not yet been proved.",
+   "def_vi": "Đưa ra giả thuyết.",
+   "gloss_vi": "giả định",
+   "synonyms": "speculate <i>(v. suy đoán)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hypothesise</i> (verb) = giả định. <b>Note</b>: cũng <i>speculate, suggest</i>; <i>proved</i> không thay được.",
+   "ex_kit": true,
+   "example": {
+    "en": "Researchers have <b>hypothesised</b> that there is a possible relationship between the two phenomena.",
+    "vi": "Các nhà nghiên cứu <b>giả định</b> có mối quan hệ giữa hai hiện tượng."
+   }
+  },
+  {
+   "word": "ascertain",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌæsəˈteɪn/",
+   "def_en": "To find out for certain.",
+   "def_vi": "Xác định chắc chắn.",
+   "gloss_vi": "xác minh",
+   "synonyms": "determine <i>(v. xác định)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ascertain</i> (verb) = xác minh. <b>Note</b>: cũng <i>demonstrate, determine</i>; <i>contradict</i> không thay được.",
+   "ex_kit": true,
+   "example": {
+    "en": "Only clinical trials can <b>ascertain</b> whether or not the drug is truly effective.",
+    "vi": "Chỉ thử nghiệm lâm sàng mới <b>xác định</b> được thuốc có hiệu quả không."
+   }
+  },
+  {
+   "word": "breakthrough",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbreɪkθruː/",
+   "def_en": "An important new discovery.",
+   "def_vi": "Bước đột phá.",
+   "gloss_vi": "đột phá",
+   "synonyms": "advance <i>(n. tiến bộ)</i>",
+   "antonyms": "drawback <i>(n. nhược điểm)</i>",
+   "grammar_vi": "<i>Breakthrough</i> (noun) = đột phá. <b>Note</b>: <i>drawback</i> không thay được <i>discovery</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "This significant <b>breakthrough</b> contributes more to our knowledge than any past study.",
+    "vi": "<b>Bước đột phá</b> quan trọng này đóng góp nhiều cho tri thức."
+   }
+  },
+  {
+   "word": "conduct research",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kənˌdʌkt rɪˈsɜːtʃ/",
+   "def_en": "To carry out a study.",
+   "def_vi": "Tiến hành nghiên cứu.",
+   "gloss_vi": "tiến hành nghiên cứu",
+   "synonyms": "carry out <i>(phr v. thực hiện)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Conduct research</i> (verb) = tiến hành nghiên cứu. <b>Note</b>: cũng <i>carry out, undertake</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Only when we get the funding to <b>conduct the research</b>, can we begin to recruit our team.",
+    "vi": "Chỉ khi có kinh phí <b>tiến hành nghiên cứu</b> chúng tôi mới tuyển nhóm."
+   }
+  },
+  {
+   "word": "trigger",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈtrɪɡə(r)/",
+   "def_en": "To make something start.",
+   "def_vi": "Gây ra, kích hoạt.",
+   "gloss_vi": "kích hoạt",
+   "synonyms": "set off <i>(phr v. gây ra)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trigger</i> (verb) = kích hoạt. <b>Note</b>: cũng <i>caused, set off</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "It was observed that the introduction of the compound <b>triggered</b> an explosive chemical reaction.",
+    "vi": "Hợp chất được thêm vào <b>kích hoạt</b> phản ứng hóa học bùng nổ."
+   }
+  },
+  {
+   "word": "finding",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfaɪndɪŋ/",
+   "def_en": "Information discovered as a result of research.",
+   "def_vi": "Phát hiện, kết quả nghiên cứu.",
+   "gloss_vi": "phát hiện",
+   "synonyms": "outcome <i>(n. kết quả)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Finding</i> (noun) = phát hiện. <b>Note</b>: <i>prediction</i> không thay được <i>result</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The unexpected <b>finding</b> of the experiment may disprove earlier theories.",
+    "vi": "<b>Phát hiện</b> bất ngờ của thí nghiệm có thể bác bỏ lý thuyết trước."
+   }
+  },
+  {
+   "word": "lag behind",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/læɡ bɪˈhaɪnd/",
+   "def_en": "To develop more slowly than others.",
+   "def_vi": "Tụt hậu.",
+   "gloss_vi": "tụt lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lag behind</i> (phr v) = tụt lại. <b>Grammar</b>: phr v nhiều từ <i>lag behind</i>.",
+   "example": {
+    "en": "battery technology has <b>lagged behind</b> with only a sixfold increase in a century",
+    "vi": "Công nghệ pin <b>tụt lại</b> chỉ tăng sáu lần trong một thế kỷ."
+   }
+  },
+  {
+   "word": "implications",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɪmplɪˈkeɪʃnz/",
+   "def_en": "Possible effects or results.",
+   "def_vi": "Hệ quả, ảnh hưởng.",
+   "gloss_vi": "hệ quả",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Implications</i> (noun) = hệ quả. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "This imbalance has important <b>implications</b> for the electric car.",
+    "vi": "Sự mất cân bằng này có <b>hệ quả</b> quan trọng với xe điện."
+   }
+  },
+  {
+   "word": "range",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/reɪndʒ/",
+   "def_en": "The distance a vehicle can travel before needing more fuel.",
+   "def_vi": "Tầm hoạt động, quãng đường tối đa.",
+   "gloss_vi": "tầm đi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Range</i> (noun) = tầm đi. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "designing and making electric cars with the same <b>range</b> as vehicles made in 1910",
+    "vi": "Thiết kế xe điện có <b>tầm đi</b> như xe năm 1910."
+   }
+  },
+  {
+   "word": "overcome",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌəʊvəˈkʌm/",
+   "def_en": "To succeed in dealing with a problem.",
+   "def_vi": "Vượt qua.",
+   "gloss_vi": "vượt qua",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Overcome</i> (verb) = vượt qua. <b>Grammar</b>: động từ.",
+   "example": {
+    "en": "There are three key problems that will be difficult for manufacturers to <b>overcome</b>",
+    "vi": "Ba vấn đề chính khó để nhà sản xuất <b>vượt qua</b>."
+   }
+  },
+  {
+   "word": "obstacle",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɒbstəkl/",
+   "def_en": "Something that makes progress difficult.",
+   "def_vi": "Trở ngại.",
+   "gloss_vi": "trở ngại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Obstacle</i> (noun) = trở ngại. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "charging time remains a major <b>obstacle</b>",
+    "vi": "Thời gian sạc vẫn là <b>trở ngại</b> lớn."
+   }
+  },
+  {
+   "word": "take off",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/teɪk ˈɒf/",
+   "def_en": "To become successful or popular.",
+   "def_vi": "Thành công, cất cánh.",
+   "gloss_vi": "phát triển mạnh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take off</i> (phr v) = phát triển mạnh. <b>Grammar</b>: phr v nhiều từ <i>take off</i>.",
+   "example": {
+    "en": "The mini-disk was a wonderful invention but it never really <b>took off</b> commercially.",
+    "vi": "Đĩa mini là phát minh tuyệt vời nhưng chưa bao giờ <b>thành công</b> thương mại."
+   }
+  },
+  {
+   "word": "take on",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/teɪk ˈɒn/",
+   "def_en": "To employ someone.",
+   "def_vi": "Tuyển dụng.",
+   "gloss_vi": "tuyển",
+   "synonyms": "hire <i>(v. thuê)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take on</i> (phr v) = tuyển. <b>Grammar</b>: phr v nhiều từ <i>take on</i>.",
+   "example": {
+    "en": "I hear they're <b>taking on</b> a hundred new employees at the aircraft factory.",
+    "vi": "Nghe nói họ <b>tuyển</b> một trăm nhân viên mới ở nhà máy máy bay."
+   }
+  },
+  {
+   "word": "take over",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/teɪk ˈəʊvə(r)/",
+   "def_en": "To get control of a company by buying it.",
+   "def_vi": "Thâu tóm, tiếp quản.",
+   "gloss_vi": "thâu tóm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take over</i> (phr v) = thâu tóm. <b>Word family</b>: takeover (n.).",
+   "example": {
+    "en": "A small IT firm in our town has been <b>taken over</b> by a large multinational corporation.",
+    "vi": "Một công ty CNTT nhỏ đã <b>bị</b> tập đoàn đa quốc gia <b>thâu tóm</b>."
+   }
+  },
+  {
+   "word": "take sb through",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/teɪk ... ˈθruː/",
+   "def_en": "To explain something to someone step by step.",
+   "def_vi": "Hướng dẫn kỹ từng bước.",
+   "gloss_vi": "hướng dẫn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take sb through</i> (phr v) = hướng dẫn. <b>Grammar</b>: phr v nhiều từ <i>take sb through</i>.",
+   "example": {
+    "en": "they <b>took me through</b> all the safety procedures",
+    "vi": "Khi tôi bắt đầu làm ở phòng thí nghiệm, họ <b>hướng dẫn</b> tôi mọi quy trình an toàn."
+   }
+  },
+  {
+   "word": "take up",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/teɪk ˈʌp/",
+   "def_en": "To start a job or activity.",
+   "def_vi": "Bắt đầu theo đuổi.",
+   "gloss_vi": "theo nghề",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take up</i> (phr v) = theo nghề. <b>Grammar</b>: phr v nhiều từ <i>take up</i>.",
+   "example": {
+    "en": "My brother has decided to <b>take up</b> medicine as a career.",
+    "vi": "Anh tôi quyết định <b>theo</b> ngành y."
+   }
+  },
+  {
+   "word": "take sb off",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/teɪk ... ˈɒf/",
+   "def_en": "To stop giving someone a medicine.",
+   "def_vi": "Ngừng cho dùng (thuốc).",
+   "gloss_vi": "cho ngừng thuốc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take sb off</i> (phr v) = cho ngừng thuốc. <b>Grammar</b>: phr v nhiều từ <i>take sb off</i>.",
+   "example": {
+    "en": "he's <b>taken me off</b> the tablets",
+    "vi": "Bác sĩ đã <b>cho tôi ngừng</b> thuốc."
+   }
+  },
+  {
+   "word": "take in",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/teɪk ˈɪn/",
+   "def_en": "To understand and remember something you hear or read.",
+   "def_vi": "Tiếp thu.",
+   "gloss_vi": "tiếp thu",
+   "synonyms": "absorb <i>(v. tiếp nhận)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take in</i> (phr v) = tiếp thu. <b>Grammar</b>: phr v nhiều từ <i>take in</i>.",
+   "example": {
+    "en": "I find it difficult to <b>take in</b> what people are saying when I'm tired",
+    "vi": "Tôi khó <b>tiếp thu</b> điều người khác nói khi mệt."
+   }
+  }
+ ]
+}
