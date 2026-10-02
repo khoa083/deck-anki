@@ -1,0 +1,328 @@
+{
+ "book": "bus",
+ "unit": 40,
+ "title_vi": "Hành vi sai trái và tham nhũng",
+ "theory_html": "<p><b>A. Wrongdoing</b><br><i>A. Hành vi sai trái</i></p> <p><b>financial crimes, banned / barred, fined, prison</b>; <b>insider dealing / insider trading, Chinese walls, price fixing, market rigging</b>.</p><p><i><b>tội phạm tài chính, bị cấm hành nghề, bị phạt, tù; giao dịch nội gián, bức tường thông tin, thỏa thuận ấn định giá, thao túng thị trường</b>.</i></p> <p><b>B. Bribery and corruption</b><br><i>B. Hối lộ và tham nhũng</i></p> <p><b>bribe, kickback, sweetener, backhander</b> (BrE), <b>bribery, corrupt, corruption, sleaze</b>.</p><p><i><b>tiền hối lộ, tiền lại quả, tiền đút lót, hối lộ, tham nhũng, bê bối</b>.</i></p> <p><b>C. Fraud and embezzlement</b><br><i>C. Gian lận và biển thủ</i></p> <p><b>fraud squad, counterfeit (v/adj), counterfeiting / forgery, forgers, faking, fakes, fraud, identity theft, embezzlement, embezzle, scam, rackets, racketeers, money laundering</b>. Note: <b>forge</b> (cheques, signatures, banknotes…), <b>fake</b> (credentials, documents, records), <b>counterfeit</b> (goods, drugs, banknotes).</p><p><i><b>đội chống lừa đảo, làm giả, kẻ làm giả, hàng giả, lừa đảo, đánh cắp danh tính, biển thủ, trò lừa, hoạt động phi pháp, kẻ tống tiền, rửa tiền</b>.</i></p>",
+ "items": [
+  {
+   "word": "financial crime",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/faɪˌnænʃl ˈkraɪm/",
+   "def_en": "A crime involving money, e.g. fraud.",
+   "def_vi": "Tội phạm liên quan tiền, vd lừa đảo.",
+   "gloss_vi": "tội phạm tài chính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Financial crime</i> (noun) = tội phạm tài chính. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "People who commit <b>financial crimes</b> can be banned or barred",
+    "vi": "Người phạm <b>tội tài chính</b> có thể bị cấm hành nghề."
+   }
+  },
+  {
+   "word": "banned",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/bænd/",
+   "def_en": "Prevented from continuing in a job.",
+   "def_vi": "Bị cấm tiếp tục làm việc.",
+   "gloss_vi": "bị cấm hành nghề",
+   "synonyms": "barred <i>(adj. bị cấm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Banned</i> (adjective) = bị cấm hành nghề. <b>Grammar</b>: <i>ban – banned</i>.",
+   "example": {
+    "en": "can be <b>banned</b> or barred – prevented from continuing in their jobs",
+    "vi": "Họ có thể bị <b>cấm hành nghề</b>."
+   }
+  },
+  {
+   "word": "fined",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/faɪnd/",
+   "def_en": "Made to pay a sum of money as punishment.",
+   "def_vi": "Bị bắt nộp tiền phạt.",
+   "gloss_vi": "bị phạt tiền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fined</i> (adjective) = bị phạt tiền. <b>Grammar</b>: danh từ <i>fine</i>.",
+   "example": {
+    "en": "They can also be <b>fined</b> – made to pay a sum of money",
+    "vi": "Họ cũng có thể bị <b>phạt tiền</b>."
+   }
+  },
+  {
+   "word": "insider dealing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˌsaɪdə ˈdiːlɪŋ/",
+   "def_en": "Buying or selling securities using information that is not publicly available.",
+   "def_vi": "Mua bán chứng khoán dùng thông tin chưa công khai.",
+   "gloss_vi": "giao dịch nội gián",
+   "synonyms": "insider trading <i>(n. giao dịch nội gián)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Insider dealing</i> (noun) = giao dịch nội gián. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "<b>Insider dealing</b> or insider trading is when someone buys or sells securities using information that is not publicly available",
+    "vi": "<b>Giao dịch nội gián</b> là mua bán dùng thông tin không công khai."
+   }
+  },
+  {
+   "word": "Chinese walls",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌtʃaɪniːz ˈwɔːlz/",
+   "def_en": "Measures to stop knowledge in one department being used by another to buy or sell shares at an advantage.",
+   "def_vi": "Biện pháp ngăn thông tin phòng này bị phòng khác dùng để trục lợi.",
+   "gloss_vi": "bức tường thông tin",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chinese walls</i> (noun) = bức tường thông tin. <b>Collocations / chunks</b>: thuật ngữ tài chính.",
+   "example": {
+    "en": "<b>Chinese walls</b> are measures that financial institutions take in order to stop knowledge in one department being used by another department",
+    "vi": "<b>Bức tường thông tin</b> ngăn thông tin lọt giữa các phòng."
+   }
+  },
+  {
+   "word": "price fixing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpraɪs ˌfɪksɪŋ/",
+   "def_en": "When companies secretly agree to set prices so they do not have to compete.",
+   "def_vi": "Các công ty bí mật thỏa thuận ấn định giá.",
+   "gloss_vi": "thỏa thuận ấn định giá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Price fixing</i> (noun) = thỏa thuận ấn định giá. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "<b>Price fixing</b> is when a group of companies in the same market secretly agree to set prices at a certain level",
+    "vi": "<b>Ấn định giá</b> là các công ty bí mật thỏa thuận giá."
+   }
+  },
+  {
+   "word": "market rigging",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɑːkɪt ˌrɪɡɪŋ/",
+   "def_en": "When investors work together to stop a financial market functioning as it should.",
+   "def_vi": "Nhà đầu tư cấu kết làm thị trường hoạt động sai lệch.",
+   "gloss_vi": "thao túng thị trường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Market rigging</i> (noun) = thao túng thị trường. <b>Grammar</b>: động từ <i>rig</i>.",
+   "example": {
+    "en": "<b>Market rigging</b> is when a group of investors work together to stop a financial market functioning as it should",
+    "vi": "<b>Thao túng thị trường</b> là cấu kết để trục lợi."
+   }
+  },
+  {
+   "word": "bribe",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/braɪb/",
+   "def_en": "An illegal payment to persuade someone to do something.",
+   "def_vi": "Khoản tiền trái luật để thuyết phục ai làm gì.",
+   "gloss_vi": "tiền hối lộ",
+   "synonyms": "kickback <i>(n. tiền lại quả)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bribe</i> (noun) = tiền hối lộ. <b>Grammar</b>: danh từ <i>bribery</i>.",
+   "example": {
+    "en": "An illegal payment to persuade someone to do something is a <b>bribe</b>",
+    "vi": "Khoản tiền trái phép để thuyết phục là <b>tiền hối lộ</b>."
+   }
+  },
+  {
+   "word": "kickback",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɪkbæk/",
+   "def_en": "A bribe (informal).",
+   "def_vi": "Tiền hối lộ (thân mật).",
+   "gloss_vi": "tiền lại quả",
+   "synonyms": "sweetener <i>(n. tiền đút lót)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Kickback</i> (noun) = tiền lại quả. <b>Grammar</b>: thân mật; cũng <i>backhander</i> (Anh).",
+   "example": {
+    "en": "or more informally, a <b>kickback</b>, sweetener or backhander",
+    "vi": "Thân mật hơn gọi là <b>tiền lại quả</b>."
+   }
+  },
+  {
+   "word": "bribery",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbraɪbəri/",
+   "def_en": "Making an illegal payment.",
+   "def_vi": "Đưa tiền trái phép.",
+   "gloss_vi": "sự hối lộ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bribery</i> (noun) = sự hối lộ. <b>Grammar</b>: danh từ không đếm được.",
+   "example": {
+    "en": "Making an illegal payment is <b>bribery</b>.",
+    "vi": "Đưa tiền trái phép là <b>hối lộ</b>."
+   }
+  },
+  {
+   "word": "corrupt",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kəˈrʌpt/",
+   "def_en": "Making or accepting illegal payments.",
+   "def_vi": "Đưa hay nhận tiền trái phép.",
+   "gloss_vi": "tham nhũng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "honest <i>(adj. trung thực)</i>",
+   "grammar_vi": "<i>Corrupt</i> (adjective) = tham nhũng. <b>Grammar</b>: danh từ <i>corruption</i>.",
+   "example": {
+    "en": "People are <b>corrupt</b> and involved in corruption if they make or accept illegal payments.",
+    "vi": "Người đưa nhận tiền trái phép là <b>tham nhũng</b>."
+   }
+  },
+  {
+   "word": "sleaze",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/sliːz/",
+   "def_en": "Corruption, especially of politicians (informal).",
+   "def_vi": "Tham nhũng, nhất là chính trị gia (thân mật).",
+   "gloss_vi": "bê bối, tham nhũng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sleaze</i> (noun) = bê bối, tham nhũng. <b>Grammar</b>: tính từ <i>sleazy</i>.",
+   "example": {
+    "en": "The more informal word <b>sleaze</b> is used especially in connection with politicians",
+    "vi": "Từ thân mật <b>bê bối</b> dùng nhiều với chính trị gia."
+   }
+  },
+  {
+   "word": "counterfeit",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈkaʊntəfɪt/",
+   "def_en": "To make illegal copies of banknotes, goods, etc.",
+   "def_vi": "Làm giả tiền, hàng hóa.",
+   "gloss_vi": "làm giả",
+   "synonyms": "forge <i>(v. làm giả)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Counterfeit</i> (verb) = làm giả. <b>Collocations / chunks</b>: <i>counterfeit goods/drugs/banknotes</i>.",
+   "example": {
+    "en": "Once, a gang <b>counterfeited</b> millions of banknotes in a garage.",
+    "vi": "Một băng đảng <b>làm giả</b> hàng triệu tờ tiền trong gara."
+   }
+  },
+  {
+   "word": "forgery",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfɔːdʒəri/",
+   "def_en": "Making illegal copies of banknotes, documents, etc.",
+   "def_vi": "Làm giả tiền, giấy tờ.",
+   "gloss_vi": "sự giả mạo",
+   "synonyms": "counterfeiting <i>(n. làm giả)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Forgery</i> (noun) = sự giả mạo. <b>Grammar</b>: động từ <i>forge</i>; người <i>forger</i>.",
+   "example": {
+    "en": "Counterfeiting or <b>forgery</b> of banknotes and financial certificates used to be a problem",
+    "vi": "Làm giả hay <b>giả mạo</b> tiền từng là vấn đề."
+   }
+  },
+  {
+   "word": "fraud",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/frɔːd/",
+   "def_en": "Illegally getting money by deceiving people.",
+   "def_vi": "Lừa đảo để lấy tiền.",
+   "gloss_vi": "gian lận, lừa đảo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fraud</i> (noun) = gian lận, lừa đảo. <b>Collocations / chunks</b>: <i>fraud squad</i>.",
+   "example": {
+    "en": "There are many cases of <b>fraud</b>.",
+    "vi": "Có nhiều vụ <b>lừa đảo</b>."
+   }
+  },
+  {
+   "word": "identity theft",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/aɪˈdentəti θeft/",
+   "def_en": "When a criminal uses another person’s details, e.g. their credit card.",
+   "def_vi": "Kẻ gian dùng thông tin người khác, vd thẻ tín dụng.",
+   "gloss_vi": "đánh cắp danh tính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Identity theft</i> (noun) = đánh cắp danh tính. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "A new form of fraud is <b>identity theft</b>",
+    "vi": "Hình thức lừa đảo mới là <b>đánh cắp danh tính</b>."
+   }
+  },
+  {
+   "word": "embezzlement",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪmˈbezlmənt/",
+   "def_en": "Fraud where someone illegally gets money from their employer.",
+   "def_vi": "Lừa lấy tiền của chủ.",
+   "gloss_vi": "sự biển thủ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Embezzlement</i> (noun) = sự biển thủ. <b>Grammar</b>: động từ <i>embezzle</i>.",
+   "example": {
+    "en": "And then there’s <b>embezzlement</b>. This is a type of fraud where someone illegally gets money from their employer.",
+    "vi": "Rồi còn <b>biển thủ</b>."
+   }
+  },
+  {
+   "word": "scam",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/skæm/",
+   "def_en": "A dishonest scheme to get money.",
+   "def_vi": "Âm mưu gian để lấy tiền.",
+   "gloss_vi": "trò lừa đảo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Scam</i> (noun) = trò lừa đảo. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "She embezzled $2 million – quite a <b>scam</b>!",
+    "vi": "Cô ta biển thủ 2 triệu đô – đúng là một <b>trò lừa</b>!"
+   }
+  },
+  {
+   "word": "racket",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈrækɪt/",
+   "def_en": "An illegal activity for making money.",
+   "def_vi": "Hoạt động phi pháp kiếm tiền.",
+   "gloss_vi": "hoạt động phi pháp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Racket</i> (noun) = hoạt động phi pháp. <b>Grammar</b>: người = <i>racketeer</i>.",
+   "example": {
+    "en": "There are <b>rackets</b> – illegal activities for making money.",
+    "vi": "Có những <b>hoạt động phi pháp</b> kiếm tiền."
+   }
+  },
+  {
+   "word": "money laundering",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmʌni ˌlɔːndərɪŋ/",
+   "def_en": "Hiding the illegal origin of money.",
+   "def_vi": "Che giấu nguồn gốc phi pháp của tiền.",
+   "gloss_vi": "rửa tiền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Money laundering</i> (noun) = rửa tiền. <b>Grammar</b>: động từ <i>launder</i>.",
+   "example": {
+    "en": "<b>Money laundering</b> – hiding the illegal origin of money – is a problem",
+    "vi": "<b>Rửa tiền</b> – che giấu nguồn gốc tiền bất hợp pháp."
+   }
+  }
+ ]
+}

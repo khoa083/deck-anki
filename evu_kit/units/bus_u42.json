@@ -1,0 +1,360 @@
+{
+ "book": "bus",
+ "unit": 42,
+ "title_vi": "Thời gian và quản lý thời gian",
+ "theory_html": "<p><b>A. Timeframes and schedules</b><br><i>A. Khung thời gian và lịch trình</i></p> <p><b>Time is money, timescale / timeframe, lead time, schedule / timetable</b> (schedule far more frequent), <b>on schedule, ahead of schedule, behind schedule, delayed, delay, make up time, take longer than planned, downtime</b>.</p><p><i><b>Thời gian là tiền bạc, khung thời gian, thời gian chuẩn bị, lịch trình, đúng tiến độ, vượt tiến độ, chậm tiến độ, bị trễ, sự chậm trễ, bù thời gian, lâu hơn dự kiến, thời gian ngừng máy</b>.</i></p> <p><b>B. Projects and project management</b><br><i>B. Dự án và quản lý dự án</i></p> <p><b>project, Gantt chart, stages / phases / steps / tasks, overlap, simultaneous, run in parallel, project management, bonus payments, completion, penalties</b>.</p><p><i><b>dự án, biểu đồ Gantt, giai đoạn / bước / nhiệm vụ, chồng lấn, đồng thời, chạy song song, quản lý dự án, tiền thưởng, hoàn thành, tiền phạt</b>.</i></p> <p><b>C. Time tips</b><br><i>C. Mẹo quản lý thời gian</i></p> <p><b>time management, diary</b> (BrE) / <b>calendar</b> (AmE), <b>personal organizers, events, notes, realistic plan, prioritize, priority, interruptions, distractions, perfectionism, time / cost / quality</b>.</p><p><i><b>quản lý thời gian, sổ lịch, sổ tay cá nhân, sự kiện, ghi chú, kế hoạch thực tế, ưu tiên, sự gián đoạn, sự phân tâm, chủ nghĩa hoàn hảo</b>.</i></p>",
+ "items": [
+  {
+   "word": "time is money",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ˌtaɪm ɪz ˈmʌni/",
+   "def_en": "A famous phrase meaning time is valuable.",
+   "def_vi": "Câu nổi tiếng: thời gian quý giá.",
+   "gloss_vi": "thời gian là tiền bạc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Time is money</i> (cl) = thời gian là tiền bạc. <b>Collocations / chunks</b>: thành ngữ.",
+   "example": {
+    "en": "‘<b>Time is money</b>,’ says the famous phrase.",
+    "vi": "<b>‘Thời gian là tiền bạc’</b>, câu nói nổi tiếng."
+   }
+  },
+  {
+   "word": "timescale",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtaɪmskeɪl/",
+   "def_en": "The overall period during which something should happen.",
+   "def_vi": "Khoảng thời gian chung để việc gì diễn ra.",
+   "gloss_vi": "khung thời gian",
+   "synonyms": "timeframe <i>(n. khung thời gian)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Timescale</i> (noun) = khung thời gian. <b>Grammar</b>: danh từ ghép.",
+   "example": {
+    "en": "The <b>timescale</b> or timeframe is the overall period during which something should happen or be completed.",
+    "vi": "<b>Khung thời gian</b> là toàn bộ thời gian để hoàn thành."
+   }
+  },
+  {
+   "word": "lead time",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈliːd taɪm/",
+   "def_en": "The time it takes to prepare and complete or deliver something.",
+   "def_vi": "Thời gian chuẩn bị và hoàn thành, giao hàng.",
+   "gloss_vi": "thời gian chuẩn bị",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lead time</i> (noun) = thời gian chuẩn bị. <b>Grammar</b>: <i>lead</i> /liːd/.",
+   "example": {
+    "en": "The <b>lead time</b> for something is the period of time it takes to prepare and complete or deliver all or part of something.",
+    "vi": "<b>Thời gian chuẩn bị</b> là thời gian để chuẩn bị và giao."
+   }
+  },
+  {
+   "word": "schedule",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈʃedjuːl/",
+   "def_en": "The times or dates when things in a plan should happen.",
+   "def_vi": "Thời gian, ngày các việc trong kế hoạch diễn ra.",
+   "gloss_vi": "lịch trình",
+   "synonyms": "timetable <i>(n. thời gian biểu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Schedule</i> (noun) = lịch trình. <b>Grammar</b>: Anh /ˈʃedjuːl/, Mỹ /ˈskedʒuːl/.",
+   "example": {
+    "en": "The times or dates when things in a plan should happen are its <b>schedule</b> or timetable.",
+    "vi": "Thời điểm các việc nên diễn ra là <b>lịch trình</b>."
+   }
+  },
+  {
+   "word": "on schedule",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɒn ˈʃedjuːl/",
+   "def_en": "Completed at the planned time.",
+   "def_vi": "Hoàn thành đúng thời gian dự kiến.",
+   "gloss_vi": "đúng tiến độ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "behind schedule <i>(adj. chậm tiến độ)</i>",
+   "grammar_vi": "<i>On schedule</i> (adjective) = đúng tiến độ. <b>Collocations / chunks</b>: <i>ahead of / behind schedule</i>.",
+   "example": {
+    "en": "If a project is completed at the planned time, the project is <b>on schedule</b>",
+    "vi": "Hoàn thành đúng lúc là <b>đúng tiến độ</b>."
+   }
+  },
+  {
+   "word": "ahead of schedule",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əˌhed əv ˈʃedjuːl/",
+   "def_en": "Completed before the planned time.",
+   "def_vi": "Hoàn thành trước dự kiến.",
+   "gloss_vi": "vượt tiến độ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "behind schedule <i>(adj. chậm tiến độ)</i>",
+   "grammar_vi": "<i>Ahead of schedule</i> (adjective) = vượt tiến độ. <b>Collocations / chunks</b>: cụm cố định.",
+   "example": {
+    "en": "completion before the planned time is <b>ahead of schedule</b>",
+    "vi": "Hoàn thành sớm là <b>vượt tiến độ</b>."
+   }
+  },
+  {
+   "word": "behind schedule",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/bɪˌhaɪnd ˈʃedjuːl/",
+   "def_en": "Completed later than planned.",
+   "def_vi": "Hoàn thành muộn hơn dự kiến.",
+   "gloss_vi": "chậm tiến độ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "ahead of schedule <i>(adj. vượt tiến độ)</i>",
+   "grammar_vi": "<i>Behind schedule</i> (adjective) = chậm tiến độ. <b>Collocations / chunks</b>: cụm cố định.",
+   "example": {
+    "en": "and later is <b>behind schedule</b>",
+    "vi": "Muộn hơn là <b>chậm tiến độ</b>."
+   }
+  },
+  {
+   "word": "make up time",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌmeɪk ʌp ˈtaɪm/",
+   "def_en": "To go faster to recover from a delay.",
+   "def_vi": "Làm nhanh hơn để bù chậm trễ.",
+   "gloss_vi": "bù thời gian",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Make up time</i> (verb) = bù thời gian. <b>Collocations / chunks</b>: cụm cố định.",
+   "example": {
+    "en": "If you then try to go faster, you try to <b>make up time</b>.",
+    "vi": "Bạn cố làm nhanh để <b>bù thời gian</b>."
+   }
+  },
+  {
+   "word": "downtime",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdaʊntaɪm/",
+   "def_en": "A period when a machine or computer cannot be used because it is not working.",
+   "def_vi": "Lúc máy không dùng được vì hỏng.",
+   "gloss_vi": "thời gian ngừng máy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Downtime</i> (noun) = thời gian ngừng máy. <b>Grammar</b>: danh từ ghép.",
+   "example": {
+    "en": "A period when a machine or computer cannot be used because it is not working is <b>downtime</b>.",
+    "vi": "Lúc máy hỏng không dùng được là <b>thời gian ngừng máy</b>."
+   }
+  },
+  {
+   "word": "project",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈprɒdʒekt/",
+   "def_en": "A carefully planned piece of work to produce something new.",
+   "def_vi": "Công việc được lên kế hoạch để tạo ra cái mới.",
+   "gloss_vi": "dự án",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Project</i> (noun) = dự án. <b>Collocations / chunks</b>: <i>project management</i>.",
+   "example": {
+    "en": "A <b>project</b> is a carefully planned piece of work to produce something new.",
+    "vi": "<b>Dự án</b> là công việc lên kế hoạch kỹ để tạo cái mới."
+   }
+  },
+  {
+   "word": "Gantt chart",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡænt tʃɑːt/",
+   "def_en": "A chart showing the stages of a project over time.",
+   "def_vi": "Biểu đồ các giai đoạn dự án theo thời gian.",
+   "gloss_vi": "biểu đồ Gantt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gantt chart</i> (noun) = biểu đồ Gantt. <b>Grammar</b>: tên riêng.",
+   "example": {
+    "en": "Look at this <b>Gantt chart</b> for building a new supermarket.",
+    "vi": "Xem <b>biểu đồ Gantt</b> xây siêu thị mới."
+   }
+  },
+  {
+   "word": "overlap",
+   "sense": "stages overlap",
+   "pos": "verb",
+   "ipa": "/ˌəʊvəˈlæp/",
+   "def_en": "(Of stages) for the second to start before the first finishes.",
+   "def_vi": "(Giai đoạn) cái sau bắt đầu trước khi cái trước xong.",
+   "gloss_vi": "chồng lấn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Overlap</i> (verb) = chồng lấn. <b>Grammar</b>: nghĩa dự án.",
+   "example": {
+    "en": "These stages <b>overlap</b> – the second one starts before the first finishes.",
+    "vi": "Các giai đoạn này <b>chồng lấn</b> nhau."
+   }
+  },
+  {
+   "word": "run in parallel",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌrʌn ɪn ˈpærəlel/",
+   "def_en": "To happen at the same time.",
+   "def_vi": "Diễn ra cùng lúc.",
+   "gloss_vi": "chạy song song",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Run in parallel</i> (verb) = chạy song song. <b>Collocations / chunks</b>: cụm cố định.",
+   "example": {
+    "en": "These stages are simultaneous: they <b>run in parallel</b> – they happen at the same time.",
+    "vi": "Các giai đoạn đồng thời: chúng <b>chạy song song</b>."
+   }
+  },
+  {
+   "word": "project management",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈprɒdʒekt ˌmænɪdʒmənt/",
+   "def_en": "Managing the stages of a project.",
+   "def_vi": "Quản lý các giai đoạn dự án.",
+   "gloss_vi": "quản lý dự án",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Project management</i> (noun) = quản lý dự án. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "<b>Project management</b> is managing these stages.",
+    "vi": "<b>Quản lý dự án</b> là quản lý các giai đoạn này."
+   }
+  },
+  {
+   "word": "penalties",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpenəltiz/",
+   "def_en": "Payments for late completion.",
+   "def_vi": "Tiền phạt khi chậm hoàn thành.",
+   "gloss_vi": "tiền phạt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "bonus payments <i>(n. tiền thưởng)</i>",
+   "grammar_vi": "<i>Penalties</i> (noun) = tiền phạt. <b>Collocations / chunks</b>: <i>penalties for late completion</i>.",
+   "example": {
+    "en": "Big projects often include bonus payments for completion early or on time, and <b>penalties</b> for late completion.",
+    "vi": "Dự án lớn có <b>tiền phạt</b> khi hoàn thành muộn."
+   }
+  },
+  {
+   "word": "time management",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtaɪm ˌmænɪdʒmənt/",
+   "def_en": "Organizing your time well.",
+   "def_vi": "Tổ chức thời gian tốt.",
+   "gloss_vi": "quản lý thời gian",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Time management</i> (noun) = quản lý thời gian. <b>Grammar</b>: tính từ ghép <i>time-management course</i>.",
+   "example": {
+    "en": "Lots of company employees go on <b>time-management</b> courses",
+    "vi": "Nhiều nhân viên đi học khóa <b>quản lý thời gian</b>."
+   }
+  },
+  {
+   "word": "personal organizer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpɜːsənl ˈɔːɡənaɪzə(r)/",
+   "def_en": "A diary or calendar used to plan your time.",
+   "def_vi": "Sổ lịch để lên kế hoạch.",
+   "gloss_vi": "sổ tay lịch cá nhân",
+   "synonyms": "diary <i>(n. sổ lịch)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Personal organizer</i> (noun) = sổ tay lịch cá nhân. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "Use a diary (BrE) or calendar (AmE) to plan your day, week, etc., also known as <b>personal organizers</b>.",
+    "vi": "Dùng sổ lịch, còn gọi là <b>sổ tay lịch cá nhân</b>."
+   }
+  },
+  {
+   "word": "prioritize",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/praɪˈɒrətaɪz/",
+   "def_en": "To put things in order of importance.",
+   "def_vi": "Sắp xếp theo thứ tự quan trọng.",
+   "gloss_vi": "ưu tiên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Prioritize</i> (verb) = ưu tiên. <b>Grammar</b>: danh từ <i>priority</i>.",
+   "example": {
+    "en": "Make a realistic plan of the things you have to do and <b>prioritize</b> them – put them in order of importance.",
+    "vi": "Lập kế hoạch thực tế và <b>sắp xếp ưu tiên</b>."
+   }
+  },
+  {
+   "word": "priority",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/praɪˈɒrəti/",
+   "def_en": "Something more important than other things.",
+   "def_vi": "Điều quan trọng hơn.",
+   "gloss_vi": "sự ưu tiên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Priority</i> (noun) = sự ưu tiên. <b>Collocations / chunks</b>: <i>top/high priority</i>.",
+   "example": {
+    "en": "Work on the things that have the highest <b>priority</b>",
+    "vi": "Làm việc có <b>ưu tiên</b> cao nhất trước."
+   }
+  },
+  {
+   "word": "interruptions",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɪntəˈrʌpʃnz/",
+   "def_en": "Things that stop you doing what you had planned.",
+   "def_vi": "Thứ khiến bạn ngừng việc đã định.",
+   "gloss_vi": "sự gián đoạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Interruptions</i> (noun) = sự gián đoạn. <b>Grammar</b>: động từ <i>interrupt</i>.",
+   "example": {
+    "en": "Avoid <b>interruptions</b> and distractions – things which stop you doing what you had planned.",
+    "vi": "Tránh <b>gián đoạn</b> và phân tâm."
+   }
+  },
+  {
+   "word": "distractions",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈstrækʃnz/",
+   "def_en": "Things that take your attention away from what you are doing.",
+   "def_vi": "Thứ làm bạn mất tập trung.",
+   "gloss_vi": "sự phân tâm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Distractions</i> (noun) = sự phân tâm. <b>Grammar</b>: động từ <i>distract</i>.",
+   "example": {
+    "en": "Avoid interruptions and <b>distractions</b>",
+    "vi": "Tránh gián đoạn và <b>phân tâm</b>."
+   }
+  },
+  {
+   "word": "perfectionism",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pəˈfekʃənɪzəm/",
+   "def_en": "Always trying to make things perfect.",
+   "def_vi": "Luôn cố làm mọi thứ hoàn hảo.",
+   "gloss_vi": "chủ nghĩa cầu toàn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Perfectionism</i> (noun) = chủ nghĩa cầu toàn. <b>Grammar</b>: người = <i>perfectionist</i>.",
+   "example": {
+    "en": "Don’t always aim for <b>perfectionism</b>.",
+    "vi": "Đừng lúc nào cũng hướng tới <b>cầu toàn</b>."
+   }
+  }
+ ]
+}
