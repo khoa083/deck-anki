@@ -1,0 +1,392 @@
+{
+ "book": "adv",
+ "unit": 59,
+ "title_vi": "Không gian: chật như nêm",
+ "theory_html": "<p><b>A. Things occupying a lot of space</b><br><i>A. Chiếm nhiều không gian</i></p> <p><b>extensive, spacious, roomy, rambling, wide open spaces, scattered, spread out, ample room</b>. Language help: <b>room</b> can be an uncountable noun meaning space: <b>make room/space for, plenty of room, take up a lot of room</b>.</p><p><i><b>rộng lớn, rộng rãi, rộng (xe/nhà), rộng và lộn xộn, không gian rộng mở, rải rác, trải rộng, đủ chỗ</b>. Lưu ý: <b>room</b> không đếm được = chỗ, không gian.</i></p> <p><b>B. Insufficient space or things occupying too small a space</b><br><i>B. Không đủ chỗ</i></p> <p><b>cramped, poky</b> (informal), <b>congested, compact</b> (positive; the others are negative); <b>hemmed in, bustling, not enough room to swing a cat, packed in like sardines, labyrinth, boundary, rear</b>.</p><p><i><b>chật chội, chật hẹp, tắc nghẽn, gọn</b> (tích cực); <b>bị vây kín, nhộn nhịp, chật như nêm, chen như cá mòi, mê cung, ranh giới, phía sau</b>.</i></p> <p><b>C. Verbs for occupying too small a space</b><br><i>C. Động từ: nhồi nhét</i></p> <p><b>be crammed into, squeeze in, a squash, stuff in</b> (quickly and without much care).</p><p><i><b>bị nhồi vào, chen vào, chen chúc, nhét vào</b>.</i></p>",
+ "items": [
+  {
+   "word": "extensive",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪkˈstensɪv/",
+   "def_en": "Covering a large area.",
+   "def_vi": "Trải trên diện rộng.",
+   "gloss_vi": "rộng lớn, nhiều",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Extensive</i> (adjective) = rộng lớn, nhiều. <b>Collocations / chunks</b>: <i>extensive routes / facilities</i>.",
+   "example": {
+    "en": "Edinburgh has <b>extensive</b> traffic-free routes.",
+    "vi": "Edinburgh có nhiều tuyến đường <b>rộng</b> không xe cộ."
+   }
+  },
+  {
+   "word": "spacious",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈspeɪʃəs/",
+   "def_en": "Having a lot of space.",
+   "def_vi": "Có nhiều không gian.",
+   "gloss_vi": "rộng rãi",
+   "synonyms": "roomy <i>(adj. rộng)</i>",
+   "antonyms": "cramped <i>(adj. chật chội)</i>",
+   "grammar_vi": "<i>Spacious</i> (adjective) = rộng rãi. <b>Collocations / chunks</b>: <i>a spacious garden/room</i>.",
+   "example": {
+    "en": "The city of Washington is <b>spacious</b> and green.",
+    "vi": "Washington là thành phố <b>rộng rãi</b> và xanh."
+   }
+  },
+  {
+   "word": "roomy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈruːmi/",
+   "def_en": "Having a lot of space inside.",
+   "def_vi": "Có nhiều chỗ bên trong.",
+   "gloss_vi": "rộng (bên trong)",
+   "synonyms": "spacious <i>(adj. rộng rãi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Roomy</i> (adjective) = rộng (bên trong). <b>Grammar</b>: <i>room</i> + <i>-y</i>; dùng cho xe, nhà.",
+   "example": {
+    "en": "a <b>roomy</b> car",
+    "vi": "Một chiếc xe <b>rộng</b>."
+   }
+  },
+  {
+   "word": "rambling",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈræmblɪŋ/",
+   "def_en": "Large and spreading in many directions in an irregular way.",
+   "def_vi": "Lớn và trải ra nhiều hướng không đều.",
+   "gloss_vi": "rộng và ngoằn ngoèo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rambling</i> (adjective) = rộng và ngoằn ngoèo. <b>Collocations / chunks</b>: <i>a rambling mansion/building</i>.",
+   "example": {
+    "en": "a large, <b>rambling</b> building",
+    "vi": "Một tòa nhà lớn <b>ngoằn ngoèo</b>."
+   }
+  },
+  {
+   "word": "wide open spaces",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌwaɪd ˌəʊpən ˈspeɪsɪz/",
+   "def_en": "Large areas without buildings or trees.",
+   "def_vi": "Vùng rộng không nhà cửa hay cây cối.",
+   "gloss_vi": "không gian bao la",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wide open spaces</i> (noun) = không gian bao la. <b>Collocations / chunks</b>: cụm danh từ cố định <i>wide open spaces</i>.",
+   "example": {
+    "en": "I like Canada because I love <b>wide open spaces</b>.",
+    "vi": "Tôi thích Canada vì tôi mê <b>không gian bao la</b>."
+   }
+  },
+  {
+   "word": "scattered",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈskætəd/",
+   "def_en": "Spread randomly across a wide area.",
+   "def_vi": "Phân bố ngẫu nhiên trên vùng rộng.",
+   "gloss_vi": "rải rác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Scattered</i> (adjective) = rải rác. <b>Collocations / chunks</b>: <i>be scattered across/around</i>.",
+   "example": {
+    "en": "Little white cottages were <b>scattered</b> across the landscape.",
+    "vi": "Những căn nhà trắng nhỏ nằm <b>rải rác</b> khắp vùng."
+   }
+  },
+  {
+   "word": "spread out",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌspred ˈaʊt/",
+   "def_en": "Not close to one another.",
+   "def_vi": "Không gần nhau.",
+   "gloss_vi": "trải rộng, cách xa nhau",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spread out</i> (adjective) = trải rộng, cách xa nhau. <b>Grammar</b>: phân từ của cụm động từ <i>spread out</i>.",
+   "example": {
+    "en": "the buildings are rather <b>spread out</b> and it takes a long time to get from one place to another",
+    "vi": "Các tòa nhà của trường khá <b>cách xa nhau</b>."
+   }
+  },
+  {
+   "word": "ample room",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌæmpl ˈruːm/",
+   "def_en": "More than enough space.",
+   "def_vi": "Hơn cả đủ chỗ.",
+   "gloss_vi": "dư chỗ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ample room</i> (noun) = dư chỗ. <b>Collocations / chunks</b>: <i>ample room/space for</i>.",
+   "example": {
+    "en": "Jack’s bedroom is large, with <b>ample room</b> for all his things.",
+    "vi": "Phòng Jack rộng, <b>dư chỗ</b> cho mọi đồ đạc."
+   }
+  },
+  {
+   "word": "make room for",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌmeɪk ˈruːm fə(r)/",
+   "def_en": "To create space for someone or something.",
+   "def_vi": "Tạo chỗ cho ai/gì.",
+   "gloss_vi": "nhường chỗ cho",
+   "synonyms": "make space for <i>(v. nhường chỗ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Make room for</i> (verb) = nhường chỗ cho. <b>Grammar</b>: <i>room</i> không đếm được = chỗ.",
+   "example": {
+    "en": "Can you <b>make room</b> for me?",
+    "vi": "Bạn <b>nhường chỗ</b> cho tôi được không?"
+   }
+  },
+  {
+   "word": "cramped",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kræmpt/",
+   "def_en": "Not having enough space.",
+   "def_vi": "Không đủ chỗ.",
+   "gloss_vi": "chật chội",
+   "synonyms": "poky <i>(adj. chật hẹp)</i>",
+   "antonyms": "spacious <i>(adj. rộng rãi)</i>",
+   "grammar_vi": "<i>Cramped</i> (adjective) = chật chội. <b>Collocations / chunks</b>: <i>cramped rooms/apartments</i>.",
+   "example": {
+    "en": "living in small, <b>cramped</b> apartments",
+    "vi": "Sống trong căn hộ nhỏ <b>chật chội</b>."
+   }
+  },
+  {
+   "word": "poky",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈpəʊki/",
+   "def_en": "Small and uncomfortable (informal).",
+   "def_vi": "Nhỏ và chật (thân mật).",
+   "gloss_vi": "chật hẹp",
+   "synonyms": "cramped <i>(adj. chật chội)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Poky</i> (adjective) = chật hẹp. <b>Collocations / chunks</b>: <i>a poky little room/flat</i>.",
+   "example": {
+    "en": "a <b>poky</b> little flat",
+    "vi": "Một căn hộ nhỏ <b>chật hẹp</b>."
+   }
+  },
+  {
+   "word": "congested",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kənˈdʒestɪd/",
+   "def_en": "Full of traffic, people, etc.",
+   "def_vi": "Đầy xe cộ, người...",
+   "gloss_vi": "tắc nghẽn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Congested</i> (adjective) = tắc nghẽn. <b>Grammar</b>: danh từ <i>congestion</i>.",
+   "example": {
+    "en": "the <b>congested</b> streets",
+    "vi": "Những con phố <b>tắc nghẽn</b>."
+   }
+  },
+  {
+   "word": "compact",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kəmˈpækt/",
+   "def_en": "Small but well designed (positive).",
+   "def_vi": "Nhỏ nhưng thiết kế gọn (tích cực).",
+   "gloss_vi": "gọn, nhỏ gọn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Compact</i> (adjective) = gọn, nhỏ gọn. <b>Grammar</b>: mang nghĩa tích cực, khác <i>cramped/poky</i>.",
+   "example": {
+    "en": "a tiny, <b>compact</b> refrigerator",
+    "vi": "Một tủ lạnh tí hon <b>nhỏ gọn</b>."
+   }
+  },
+  {
+   "word": "hemmed in",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌhemd ˈɪn/",
+   "def_en": "Surrounded by people and not able to move.",
+   "def_vi": "Bị người vây quanh, không cử động được.",
+   "gloss_vi": "bị vây kín",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hemmed in</i> (adjective) = bị vây kín. <b>Grammar</b>: <i>be hemmed in by</i> sth.",
+   "example": {
+    "en": "I couldn’t get to her because I was <b>hemmed in</b> by the crowds",
+    "vi": "Tôi không tới được chỗ cô ấy vì <b>bị</b> đám đông <b>vây kín</b>."
+   }
+  },
+  {
+   "word": "bustling",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈbʌslɪŋ/",
+   "def_en": "Full of people busily moving around.",
+   "def_vi": "Đầy người bận rộn qua lại.",
+   "gloss_vi": "nhộn nhịp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bustling</i> (adjective) = nhộn nhịp. <b>Collocations / chunks</b>: <i>be bustling with</i> sth.",
+   "example": {
+    "en": "The city centre is always <b>bustling</b> with tourists at this time of year.",
+    "vi": "Trung tâm thành phố luôn <b>nhộn nhịp</b> du khách vào mùa này."
+   }
+  },
+  {
+   "word": "not enough room to swing a cat",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/nɒt ɪˌnʌf ˌruːm tə ˌswɪŋ ə ˈkæt/",
+   "def_en": "Very small (informal).",
+   "def_vi": "Rất chật (thân mật).",
+   "gloss_vi": "chật như lỗ mũi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Not enough room to swing a cat</i> (phrase) = chật như lỗ mũi. <b>Collocations / chunks</b>: thành ngữ thân mật.",
+   "example": {
+    "en": "There <b>isn’t enough room to swing a cat</b> in his flat.",
+    "vi": "Căn hộ anh ấy <b>chật như lỗ mũi</b>."
+   }
+  },
+  {
+   "word": "packed in like sardines",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌpækt ɪn laɪk sɑːˈdiːnz/",
+   "def_en": "With too many people in a small space (informal).",
+   "def_vi": "Quá nhiều người trong chỗ nhỏ (thân mật).",
+   "gloss_vi": "chen như cá hộp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Packed in like sardines</i> (adjective) = chen như cá hộp. <b>Collocations / chunks</b>: thành ngữ thân mật.",
+   "example": {
+    "en": "We were <b>packed in like sardines</b> on the bus.",
+    "vi": "Trên xe buýt chúng tôi <b>chen chúc như cá hộp</b>."
+   }
+  },
+  {
+   "word": "labyrinth",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlæbərɪnθ/",
+   "def_en": "Something vast and complex.",
+   "def_vi": "Thứ rộng lớn và phức tạp.",
+   "gloss_vi": "mê cung",
+   "synonyms": "maze <i>(n. mê cung)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Labyrinth</i> (noun) = mê cung. <b>Grammar</b>: tính từ <i>labyrinthine</i>.",
+   "example": {
+    "en": "The government offices are an absolute <b>labyrinth</b>.",
+    "vi": "Các văn phòng chính phủ đúng là một <b>mê cung</b>."
+   }
+  },
+  {
+   "word": "boundary",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbaʊndri/",
+   "def_en": "The edge of a large space.",
+   "def_vi": "Rìa của một vùng rộng.",
+   "gloss_vi": "ranh giới",
+   "synonyms": "border <i>(n. biên giới)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Boundary</i> (noun) = ranh giới. <b>Collocations / chunks</b>: <i>mark the boundary of</i>.",
+   "example": {
+    "en": "The river marks the <b>boundary</b> of the estate.",
+    "vi": "Con sông đánh dấu <b>ranh giới</b> của điền trang."
+   }
+  },
+  {
+   "word": "rear",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪə(r)/",
+   "def_en": "The back.",
+   "def_vi": "Phía sau.",
+   "gloss_vi": "phía sau",
+   "synonyms": "back <i>(n. phía sau)</i>",
+   "antonyms": "front <i>(n. phía trước)</i>",
+   "grammar_vi": "<i>Rear</i> (noun) = phía sau. <b>Collocations / chunks</b>: <i>at the rear of</i>.",
+   "example": {
+    "en": "building an extension at the <b>rear</b> of our property",
+    "vi": "Chúng tôi xây phần mở rộng ở <b>phía sau</b> ngôi nhà."
+   }
+  },
+  {
+   "word": "cram into",
+   "sense": "put into too small a space",
+   "pos": "verb",
+   "ipa": "/ˈkræm ˈɪntuː/",
+   "def_en": "To put people or things into a space that is too small.",
+   "def_vi": "Nhồi người hay vật vào chỗ quá nhỏ.",
+   "gloss_vi": "nhồi nhét vào",
+   "synonyms": "squeeze in <i>(v. chen vào)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cram into</i> (verb) = nhồi nhét vào. <b>Grammar</b>: <i>be crammed into</i>.",
+   "example": {
+    "en": "we were all <b>crammed into</b> that tiny space for over five hours",
+    "vi": "Chúng tôi bị <b>nhồi nhét vào</b> chỗ bé xíu đó hơn năm tiếng."
+   }
+  },
+  {
+   "word": "squeeze in",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌskwiːz ˈɪn/",
+   "def_en": "To fit into a small space with difficulty.",
+   "def_vi": "Chen vào chỗ nhỏ khó khăn.",
+   "gloss_vi": "chen vào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Squeeze in</i> (verb) = chen vào. <b>Grammar</b>: cụm động từ <i>squeeze in</i>.",
+   "example": {
+    "en": "Yes, you can <b>squeeze in</b> between us.",
+    "vi": "Được, bạn có thể <b>chen vào</b> giữa chúng tôi."
+   }
+  },
+  {
+   "word": "squash",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/skwɒʃ/",
+   "def_en": "A situation in which too many people are in a small space.",
+   "def_vi": "Tình huống quá nhiều người trong chỗ nhỏ.",
+   "gloss_vi": "sự chen chúc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Squash</i> (noun) = sự chen chúc. <b>Collocations / chunks</b>: <i>a bit of a squash</i>.",
+   "example": {
+    "en": "it might be a bit of a <b>squash</b>!",
+    "vi": "Có thể sẽ hơi <b>chen chúc</b> đấy!"
+   }
+  },
+  {
+   "word": "stuff in",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌstʌf ˈɪn/",
+   "def_en": "To put things into a container quickly and without much care.",
+   "def_vi": "Nhét đồ vào nhanh, không cẩn thận.",
+   "gloss_vi": "nhét vào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stuff in</i> (verb) = nhét vào. <b>Grammar</b>: cụm động từ tách được <i>stuff sth in</i>.",
+   "example": {
+    "en": "just <b>stuff</b> them all <b>in</b> and we’ll take it away later",
+    "vi": "Cứ <b>nhét</b> hết vào rồi lát mình mang đi."
+   }
+  }
+ ]
+}

@@ -1,0 +1,408 @@
+{
+ "book": "adv",
+ "unit": 58,
+ "title_vi": "Năng lượng: từ nhiên liệu hóa thạch đến cối xay gió",
+ "theory_html": "<p><b>A. Fossil fuels</b><br><i>A. Nhiên liệu hóa thạch</i></p> <p><b>Fossil fuels</b> = sources of energy formed underground from plant and animal remains millions of years ago: <b>oil wells, offshore drilling platforms, coal-fired power stations, coal mines, pipeline</b>.</p><p><i><b>Nhiên liệu hóa thạch</b> = nguồn năng lượng hình thành dưới đất từ xác động thực vật hàng triệu năm trước: <b>giếng dầu, giàn khoan ngoài khơi, nhà máy nhiệt điện than, mỏ than, đường ống</b>.</i></p> <p><b>B. Renewable energy</b><br><i>B. Năng lượng tái tạo</i></p> <p>Energy that can be produced again as quickly as it is used: <b>onshore wind farms, solar panels, hydroelectric, biomass, tidal power, wave power, renewables</b> (countable noun), <b>nuclear, geothermal</b>. Spelling: <b>energy</b> (NOT energie/energi).</p><p><i>Năng lượng tạo lại nhanh như khi dùng: <b>trang trại gió trên bờ, tấm pin mặt trời, thủy điện, sinh khối, năng lượng thủy triều, năng lượng sóng, nguồn tái tạo, hạt nhân, địa nhiệt</b>. Chính tả: <b>energy</b>.</i></p> <p><b>C. Using energy</b><br><i>C. Sử dụng năng lượng</i></p> <p><b>consumption, power-hungry, appliances, monitor, consume, gas-guzzler, energy-efficient, food miles, carbon footprint, deposits, finite</b>.</p><p><i><b>mức tiêu thụ, ngốn điện, thiết bị gia dụng, theo dõi, tiêu thụ, xe ngốn xăng, tiết kiệm năng lượng, quãng đường thực phẩm, dấu chân carbon, mỏ, hữu hạn</b>.</i></p>",
+ "items": [
+  {
+   "word": "oil well",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɔɪl wel/",
+   "def_en": "A hole made in the ground for the removal of oil.",
+   "def_vi": "Lỗ khoan dưới đất để lấy dầu.",
+   "gloss_vi": "giếng dầu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Oil well</i> (noun) = giếng dầu. <b>Collocations / chunks</b>: cụm danh từ cố định <i>oil well</i>.",
+   "example": {
+    "en": "Several new <b>oil wells</b> were constructed in the desert last year.",
+    "vi": "Năm ngoái có vài <b>giếng dầu</b> mới được xây trên sa mạc."
+   }
+  },
+  {
+   "word": "offshore",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɒfˈʃɔː(r)/",
+   "def_en": "Away from or at a distance from the coast.",
+   "def_vi": "Xa bờ biển.",
+   "gloss_vi": "ngoài khơi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "onshore <i>(adj. trên bờ)</i>",
+   "grammar_vi": "<i>Offshore</i> (adjective) = ngoài khơi. <b>Grammar</b>: tính từ ghép <i>off</i> + <i>shore</i>.",
+   "example": {
+    "en": "<b>Offshore</b> drilling platforms explore the ocean bed for oil and gas.",
+    "vi": "Giàn khoan <b>ngoài khơi</b> thăm dò đáy biển tìm dầu khí."
+   }
+  },
+  {
+   "word": "coal-fired",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈkəʊl faɪəd/",
+   "def_en": "Using coal as a fuel.",
+   "def_vi": "Dùng than làm nhiên liệu.",
+   "gloss_vi": "đốt than",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Coal-fired</i> (adjective) = đốt than. <b>Grammar</b>: tính từ ghép <i>coal</i> + <i>fired</i>.",
+   "example": {
+    "en": "Older, <b>coal-fired</b> power stations generally cause high levels of pollution.",
+    "vi": "Các nhà máy điện <b>đốt than</b> cũ thường gây ô nhiễm cao."
+   }
+  },
+  {
+   "word": "coal mine",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkəʊl maɪn/",
+   "def_en": "A deep hole or system of holes under the ground from which coal is removed.",
+   "def_vi": "Hệ thống hầm dưới đất để khai thác than.",
+   "gloss_vi": "mỏ than",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Coal mine</i> (noun) = mỏ than. <b>Collocations / chunks</b>: cụm danh từ cố định <i>coal mine</i>.",
+   "example": {
+    "en": "The <b>coal mines</b> in the north of the country are no longer profitable.",
+    "vi": "Các <b>mỏ than</b> ở phía bắc không còn sinh lời."
+   }
+  },
+  {
+   "word": "pipeline",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpaɪplaɪn/",
+   "def_en": "A very large tube through which liquid or gas can flow for long distances.",
+   "def_vi": "Ống rất lớn dẫn chất lỏng hay khí đi xa.",
+   "gloss_vi": "đường ống",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pipeline</i> (noun) = đường ống. <b>Collocations / chunks</b>: <i>gas/oil pipeline</i>; <i>in the pipeline</i> = đang chuẩn bị.",
+   "example": {
+    "en": "A new gas <b>pipeline</b> was built to bring cheaper energy to the capital city.",
+    "vi": "Một <b>đường ống</b> khí mới được xây để đưa năng lượng rẻ hơn về thủ đô."
+   }
+  },
+  {
+   "word": "onshore",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɒnˈʃɔː(r)/",
+   "def_en": "On the land.",
+   "def_vi": "Trên đất liền.",
+   "gloss_vi": "trên bờ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "offshore <i>(adj. ngoài khơi)</i>",
+   "grammar_vi": "<i>Onshore</i> (adjective) = trên bờ. <b>Grammar</b>: tính từ ghép <i>on</i> + <i>shore</i>.",
+   "example": {
+    "en": "<b>Onshore</b> wind farms to get new government subsidies",
+    "vi": "Các <b>trang trại gió trên bờ</b> sẽ nhận trợ cấp mới."
+   }
+  },
+  {
+   "word": "wind farm",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɪnd fɑːm/",
+   "def_en": "A group of wind turbines that are used for producing electricity.",
+   "def_vi": "Nhóm tuabin gió dùng để sản xuất điện.",
+   "gloss_vi": "trang trại gió",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wind farm</i> (noun) = trang trại gió. <b>Collocations / chunks</b>: cụm danh từ cố định <i>wind farm</i>.",
+   "example": {
+    "en": "Onshore <b>wind farms</b> to get new government subsidies",
+    "vi": "Các <b>trang trại gió</b> trên bờ sẽ nhận trợ cấp mới của chính phủ."
+   }
+  },
+  {
+   "word": "solar panels",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsəʊlə ˈpænlz/",
+   "def_en": "Devices that change energy from the sun into electricity.",
+   "def_vi": "Thiết bị đổi năng lượng mặt trời thành điện.",
+   "gloss_vi": "tấm pin mặt trời",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Solar panels</i> (noun) = tấm pin mặt trời. <b>Collocations / chunks</b>: <i>install solar panels</i>.",
+   "example": {
+    "en": "<b>Solar panels</b> to be installed on all government buildings",
+    "vi": "<b>Pin mặt trời</b> sẽ được lắp trên mọi tòa nhà chính phủ."
+   }
+  },
+  {
+   "word": "hydroelectric",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌhaɪdrəʊɪˈlektrɪk/",
+   "def_en": "Producing electricity by the force of fast-moving water such as rivers or waterfalls.",
+   "def_vi": "Sản xuất điện bằng sức nước chảy xiết.",
+   "gloss_vi": "thủy điện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hydroelectric</i> (adjective) = thủy điện. <b>Grammar</b>: tiền tố <i>hydro-</i> (nước) + <i>electric</i>.",
+   "example": {
+    "en": "<b>Hydroelectric</b> power station to be closed down",
+    "vi": "Nhà máy <b>thủy điện</b> sẽ bị đóng cửa."
+   }
+  },
+  {
+   "word": "biomass",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbaɪəʊmæs/",
+   "def_en": "Dead plant and animal material suitable for using as fuel.",
+   "def_vi": "Xác động thực vật dùng làm nhiên liệu.",
+   "gloss_vi": "sinh khối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Biomass</i> (noun) = sinh khối. <b>Grammar</b>: tiền tố <i>bio-</i> + <i>mass</i>.",
+   "example": {
+    "en": "<b>Biomass</b> not the answer, claims Energy Minister",
+    "vi": "<b>Sinh khối</b> không phải là lời giải, Bộ trưởng nói."
+   }
+  },
+  {
+   "word": "tidal power",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌtaɪdl ˈpaʊə(r)/",
+   "def_en": "Using the force of the sea tide to produce energy.",
+   "def_vi": "Dùng sức thủy triều sản xuất năng lượng.",
+   "gloss_vi": "năng lượng thủy triều",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tidal power</i> (noun) = năng lượng thủy triều. <b>Grammar</b>: tính từ <i>tidal</i> (từ <i>tide</i>).",
+   "example": {
+    "en": "<b>Tidal power</b> and wave power may meet future energy needs",
+    "vi": "<b>Năng lượng thủy triều</b> và năng lượng sóng có thể đáp ứng nhu cầu tương lai."
+   }
+  },
+  {
+   "word": "wave power",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈweɪv ˌpaʊə(r)/",
+   "def_en": "Using the force of waves in the sea to produce energy.",
+   "def_vi": "Dùng sức sóng biển sản xuất năng lượng.",
+   "gloss_vi": "năng lượng sóng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wave power</i> (noun) = năng lượng sóng. <b>Collocations / chunks</b>: cụm danh từ cố định <i>wave power</i>.",
+   "example": {
+    "en": "Tidal power and <b>wave power</b> may meet future energy needs",
+    "vi": "Năng lượng thủy triều và <b>năng lượng sóng</b> có thể đáp ứng nhu cầu tương lai."
+   }
+  },
+  {
+   "word": "renewables",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˈnjuːəblz/",
+   "def_en": "Sources of renewable energy.",
+   "def_vi": "Các nguồn năng lượng tái tạo.",
+   "gloss_vi": "nguồn năng lượng tái tạo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Renewables</i> (noun) = nguồn năng lượng tái tạo. <b>Grammar</b>: <i>renewable</i> dùng như danh từ đếm được.",
+   "example": {
+    "en": "Government to focus on <b>renewables</b>, Minister announces",
+    "vi": "Chính phủ sẽ tập trung vào <b>năng lượng tái tạo</b>."
+   }
+  },
+  {
+   "word": "nuclear",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈnjuːkliə(r)/",
+   "def_en": "Using the power produced when the nucleus of an atom is divided or joined to another nucleus.",
+   "def_vi": "Dùng năng lượng khi hạt nhân nguyên tử phân tách hay kết hợp.",
+   "gloss_vi": "hạt nhân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nuclear</i> (adjective) = hạt nhân. <b>Collocations / chunks</b>: <i>nuclear power station</i>.",
+   "example": {
+    "en": "Three new <b>nuclear</b> power stations to be built",
+    "vi": "Sẽ xây ba nhà máy điện <b>hạt nhân</b> mới."
+   }
+  },
+  {
+   "word": "geothermal",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌdʒiːəʊˈθɜːml/",
+   "def_en": "Using the heat inside the earth.",
+   "def_vi": "Dùng nhiệt bên trong Trái Đất.",
+   "gloss_vi": "địa nhiệt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Geothermal</i> (adjective) = địa nhiệt. <b>Grammar</b>: tiền tố <i>geo-</i> (đất) + <i>thermal</i>.",
+   "example": {
+    "en": "<b>Geothermal</b> energy will last 1,000 years, says scientist",
+    "vi": "Năng lượng <b>địa nhiệt</b> sẽ tồn tại 1.000 năm."
+   }
+  },
+  {
+   "word": "consumption",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kənˈsʌmpʃn/",
+   "def_en": "How much is used of something.",
+   "def_vi": "Lượng thứ gì đó được dùng.",
+   "gloss_vi": "mức tiêu thụ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Consumption</i> (noun) = mức tiêu thụ. <b>Collocations / chunks</b>: <i>energy/fuel consumption</i>.",
+   "example": {
+    "en": "What can ordinary citizens do to reduce energy <b>consumption</b>?",
+    "vi": "Người dân thường có thể làm gì để giảm <b>mức tiêu thụ</b> năng lượng?"
+   }
+  },
+  {
+   "word": "power-hungry",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈpaʊə ˌhʌŋɡri/",
+   "def_en": "Using a great amount of energy.",
+   "def_vi": "Dùng rất nhiều năng lượng.",
+   "gloss_vi": "ngốn điện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "energy-efficient <i>(adj. tiết kiệm năng lượng)</i>",
+   "grammar_vi": "<i>Power-hungry</i> (adjective) = ngốn điện. <b>Grammar</b>: tính từ ghép <i>power</i> + <i>hungry</i>.",
+   "example": {
+    "en": "using fewer <b>power-hungry</b> appliances around the home",
+    "vi": "Dùng ít thiết bị <b>ngốn điện</b> trong nhà hơn."
+   }
+  },
+  {
+   "word": "appliance",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈplaɪəns/",
+   "def_en": "Equipment, especially electrical equipment, used in the home, e.g. washing machines, fridges.",
+   "def_vi": "Thiết bị, nhất là đồ điện trong nhà, vd máy giặt, tủ lạnh.",
+   "gloss_vi": "thiết bị gia dụng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Appliance</i> (noun) = thiết bị gia dụng. <b>Collocations / chunks</b>: <i>household / electrical appliances</i>.",
+   "example": {
+    "en": "using fewer power-hungry <b>appliances</b> around the home",
+    "vi": "Dùng ít <b>thiết bị</b> ngốn điện trong nhà hơn."
+   }
+  },
+  {
+   "word": "consume",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kənˈsjuːm/",
+   "def_en": "To use (e.g. energy, time), especially in large amounts.",
+   "def_vi": "Dùng (năng lượng, thời gian), nhất là với lượng lớn.",
+   "gloss_vi": "tiêu thụ",
+   "synonyms": "use <i>(v. dùng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Consume</i> (verb) = tiêu thụ. <b>Grammar</b>: danh từ <i>consumption</i>.",
+   "example": {
+    "en": "<b>consuming</b> less energy by switching off unnecessary lights",
+    "vi": "<b>Tiêu thụ</b> ít năng lượng hơn bằng cách tắt đèn không cần thiết."
+   }
+  },
+  {
+   "word": "gas-guzzler",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡæs ˌɡʌzlə(r)/",
+   "def_en": "A car that uses a lot of fuel (informal).",
+   "def_vi": "Xe dùng nhiều nhiên liệu (thân mật).",
+   "gloss_vi": "xe ngốn xăng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gas-guzzler</i> (noun) = xe ngốn xăng. <b>Grammar</b>: danh từ ghép <i>gas</i> + <i>guzzler</i> (<i>guzzle</i> = ăn uống ngấu nghiến).",
+   "example": {
+    "en": "Is your car a <b>gas-guzzler</b>?",
+    "vi": "Xe của bạn có phải <b>xe ngốn xăng</b> không?"
+   }
+  },
+  {
+   "word": "energy-efficient",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈenədʒi ɪˌfɪʃnt/",
+   "def_en": "Using only a little electricity, gas, etc.",
+   "def_vi": "Chỉ dùng ít điện, khí đốt...",
+   "gloss_vi": "tiết kiệm năng lượng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "power-hungry <i>(adj. ngốn điện)</i>",
+   "grammar_vi": "<i>Energy-efficient</i> (adjective) = tiết kiệm năng lượng. <b>Grammar</b>: tính từ ghép <i>energy</i> + <i>efficient</i>.",
+   "example": {
+    "en": "Think about changing to a more <b>energy-efficient</b> model.",
+    "vi": "Hãy nghĩ đến việc đổi sang mẫu xe <b>tiết kiệm năng lượng</b> hơn."
+   }
+  },
+  {
+   "word": "food miles",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfuːd maɪlz/",
+   "def_en": "The distance food is transported from where it is produced to when it reaches the consumer.",
+   "def_vi": "Quãng đường thực phẩm được chở từ nơi sản xuất đến người tiêu dùng.",
+   "gloss_vi": "quãng đường thực phẩm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Food miles</i> (noun) = quãng đường thực phẩm. <b>Collocations / chunks</b>: cụm danh từ cố định <i>food miles</i>.",
+   "example": {
+    "en": "Think more about <b>food miles</b> and buy local products",
+    "vi": "Hãy nghĩ thêm về <b>quãng đường thực phẩm</b> và mua đồ địa phương."
+   }
+  },
+  {
+   "word": "carbon footprint",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkɑːbən ˈfʊtprɪnt/",
+   "def_en": "A measurement of the amount of carbon dioxide that your activities create.",
+   "def_vi": "Lượng CO2 do hoạt động của bạn tạo ra.",
+   "gloss_vi": "dấu chân carbon",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Carbon footprint</i> (noun) = dấu chân carbon. <b>Collocations / chunks</b>: <i>reduce your carbon footprint</i>.",
+   "example": {
+    "en": "We can also reduce our <b>carbon footprint</b> by planning travel more carefully",
+    "vi": "Ta có thể giảm <b>dấu chân carbon</b> bằng cách lên kế hoạch đi lại kỹ hơn."
+   }
+  },
+  {
+   "word": "deposits",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈpɒzɪts/",
+   "def_en": "Layers formed under the ground, especially over a very long period.",
+   "def_vi": "Lớp hình thành dưới đất qua thời gian rất dài.",
+   "gloss_vi": "mỏ, trầm tích",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Deposits</i> (noun) = mỏ, trầm tích. <b>Collocations / chunks</b>: <i>coal/oil/gas deposits</i>.",
+   "example": {
+    "en": "the world’s coal, oil and gas <b>deposits</b> are finite",
+    "vi": "Trữ lượng <b>mỏ</b> than, dầu và khí của thế giới là hữu hạn."
+   }
+  },
+  {
+   "word": "finite",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈfaɪnaɪt/",
+   "def_en": "Having an end or lasting a limited time.",
+   "def_vi": "Có điểm kết thúc, tồn tại có hạn.",
+   "gloss_vi": "hữu hạn",
+   "synonyms": "limited <i>(adj. có hạn)</i>",
+   "antonyms": "infinite <i>(adj. vô hạn)</i>",
+   "grammar_vi": "<i>Finite</i> (adjective) = hữu hạn. <b>Grammar</b>: phát âm /ˈfaɪnaɪt/, khác <i>infinite</i> /ˈɪnfɪnət/.",
+   "example": {
+    "en": "the world’s coal, oil and gas deposits are <b>finite</b>; one day they will run out",
+    "vi": "Mỏ than, dầu, khí là <b>hữu hạn</b>; một ngày sẽ cạn."
+   }
+  }
+ ]
+}
