@@ -1,0 +1,540 @@
+{
+ "book": "gva",
+ "unit": 38,
+ "title_vi": "Thời gian nghỉ ngơi",
+ "theory_html": "<p><b>V1. Collocations with holiday</b><br><i>V1. Kết hợp từ với holiday</i></p> <p>verb + holiday: <b>go on / have / take / book / cancel a holiday</b>; adjective + holiday: <b>public / annual / two-week / foreign / exotic holiday</b>; noun + holiday: <b>package / beach / family / adventure holiday</b>; holiday + noun: <b>holiday resort / destination / season / insurance</b>.</p><p><i>Các kết hợp thường gặp với <b>holiday</b>.</i></p> <p><b>V2. exercise: countable and uncountable</b><br><i>V2. exercise: đếm được và không đếm được</i></p> <p>Uncountable = physical activity to keep fit (<b>Regular exercise is good for you.</b>); countable = a specific physical or mental activity to improve something (<b>stomach exercises, grammar exercises</b>) or a course of action to achieve something (<b>a public relations exercise</b>).</p><p><i>Không đếm được = tập thể dục; đếm được = bài tập; một hoạt động có mục đích.</i></p> <p><b>V3. The particle off</b><br><i>V3. Tiểu từ off</i></p> <p>departure or separation (<b>get off, close off</b>); beginning (<b>set off, start off, trigger off</b>); stop or cancel (<b>call off, cut off, switch off</b>); decrease or completion (<b>burn off, wear off, tail off</b>).</p><p><i><b>off</b>: rời đi/tách ra, bắt đầu, dừng/hủy, giảm/hoàn tất.</i></p>",
+ "items": [
+  {
+   "word": "destination",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdestɪˈneɪʃn/",
+   "def_en": "The place someone is travelling to.",
+   "def_vi": "Điểm đến.",
+   "gloss_vi": "điểm đến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Destination</i> (noun) = điểm đến. <b>Collocations / chunks</b>: holiday ~.",
+   "example": {
+    "en": "Our <b>destination</b> was always the same: exotic Scotland.",
+    "vi": "<b>Điểm đến</b> của chúng tôi luôn như nhau: Scotland kỳ thú."
+   }
+  },
+  {
+   "word": "exorbitant",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪɡˈzɔːbɪtənt/",
+   "def_en": "Much too expensive.",
+   "def_vi": "Cắt cổ, quá đắt.",
+   "gloss_vi": "cắt cổ",
+   "synonyms": "excessive <i>(adj. quá mức)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Exorbitant</i> (adjective) = cắt cổ. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "The prices of international flights were <b>exorbitant</b> compared to those offered by today's budget airlines.",
+    "vi": "Giá vé máy bay quốc tế <b>cắt cổ</b> so với hãng giá rẻ ngày nay."
+   }
+  },
+  {
+   "word": "budget airline",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbʌdʒɪt ˌeəlaɪn/",
+   "def_en": "An airline with low prices.",
+   "def_vi": "Hãng hàng không giá rẻ.",
+   "gloss_vi": "hãng giá rẻ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Budget airline</i> (noun) = hãng giá rẻ. <b>Collocations / chunks</b>: cụm danh từ cố định <i>budget airline</i>.",
+   "example": {
+    "en": "compared to those offered by today's <b>budget airlines</b>",
+    "vi": "So với giá của <b>hãng hàng không giá rẻ</b> ngày nay."
+   }
+  },
+  {
+   "word": "package holiday",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpækɪdʒ ˌhɒlədeɪ/",
+   "def_en": "A holiday with travel and accommodation sold together.",
+   "def_vi": "Tour trọn gói.",
+   "gloss_vi": "tour trọn gói",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Package holiday</i> (noun) = tour trọn gói. <b>Collocations / chunks</b>: cụm danh từ cố định <i>package holiday</i>.",
+   "example": {
+    "en": "<b>Package holidays</b> to tropical resorts were pretty much unheard-of.",
+    "vi": "<b>Tour trọn gói</b> đến khu nghỉ nhiệt đới gần như chưa ai nghe tới."
+   }
+  },
+  {
+   "word": "tropical resort",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌtrɒpɪkl rɪˈzɔːt/",
+   "def_en": "A holiday place in a hot, tropical area.",
+   "def_vi": "Khu nghỉ dưỡng nhiệt đới.",
+   "gloss_vi": "khu nghỉ nhiệt đới",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tropical resort</i> (noun) = khu nghỉ nhiệt đới. <b>Collocations / chunks</b>: cụm danh từ cố định <i>tropical resort</i>.",
+   "example": {
+    "en": "Package holidays to <b>tropical resorts</b> were pretty much unheard-of.",
+    "vi": "Tour trọn gói đến <b>khu nghỉ nhiệt đới</b> gần như chưa ai nghe tới."
+   }
+  },
+  {
+   "word": "unheard-of",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ʌnˈhɜːd ɒv/",
+   "def_en": "Never known or done before.",
+   "def_vi": "Chưa từng nghe thấy.",
+   "gloss_vi": "chưa từng có",
+   "synonyms": "unknown <i>(adj. chưa biết)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Unheard-of</i> (adjective) = chưa từng có. <b>Grammar</b>: tính từ ghép <i>unheard</i> + <i>of</i>.",
+   "example": {
+    "en": "Package holidays to tropical resorts were pretty much <b>unheard-of</b>.",
+    "vi": "Tour trọn gói gần như <b>chưa ai nghe tới</b>."
+   }
+  },
+  {
+   "word": "exotic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪɡˈzɒtɪk/",
+   "def_en": "Unusual and exciting because from a distant place.",
+   "def_vi": "Kỳ lạ, ngoại lai.",
+   "gloss_vi": "kỳ thú",
+   "synonyms": "far-flung <i>(adj. xa xôi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Exotic</i> (adjective) = kỳ thú. <b>Note</b>: ở đây dùng mỉa mai.",
+   "example": {
+    "en": "Our destination was always the same: <b>exotic</b> Scotland.",
+    "vi": "Điểm đến luôn như nhau: Scotland <b>kỳ thú</b>."
+   }
+  },
+  {
+   "word": "self-catering",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌself ˈkeɪtərɪŋ/",
+   "def_en": "(of accommodation) Where you cook your own meals.",
+   "def_vi": "Tự nấu ăn.",
+   "gloss_vi": "tự phục vụ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "all-inclusive <i>(adj. trọn gói)</i>",
+   "grammar_vi": "<i>Self-catering</i> (adjective) = tự phục vụ. <b>Grammar</b>: tính từ ghép <i>self</i> + <i>catering</i>.",
+   "example": {
+    "en": "my parents booked a different <b>self-catering</b> cottage",
+    "vi": "Mỗi năm bố mẹ đặt một căn nhà <b>tự nấu ăn</b> khác nhau."
+   }
+  },
+  {
+   "word": "isolated",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈaɪsəleɪtɪd/",
+   "def_en": "Far away from other places.",
+   "def_vi": "Hẻo lánh.",
+   "gloss_vi": "hẻo lánh",
+   "synonyms": "remote <i>(adj. xa xôi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Isolated</i> (adjective) = hẻo lánh. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "usually next to an <b>isolated</b> beach",
+    "vi": "Thường gần một <b>bãi biển hẻo lánh</b>."
+   }
+  },
+  {
+   "word": "mod cons",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmɒd ˈkɒnz/",
+   "def_en": "Modern equipment that makes life easier (informal).",
+   "def_vi": "Tiện nghi hiện đại.",
+   "gloss_vi": "tiện nghi hiện đại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mod cons</i> (noun) = tiện nghi hiện đại. <b>Note</b>: thân mật.",
+   "example": {
+    "en": "invariably with no <b>mod cons</b> whatsoever",
+    "vi": "Luôn không có chút <b>tiện nghi hiện đại</b> nào."
+   }
+  },
+  {
+   "word": "spectacular scenery",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/spekˌtækjələ ˈsiːnəri/",
+   "def_en": "Very impressive natural views.",
+   "def_vi": "Cảnh quan ngoạn mục.",
+   "gloss_vi": "cảnh đẹp ngoạn mục",
+   "synonyms": "incredible views <i>(n. cảnh tuyệt đẹp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spectacular scenery</i> (noun) = cảnh đẹp ngoạn mục. <b>Collocations / chunks</b>: cụm danh từ cố định <i>spectacular scenery</i>.",
+   "example": {
+    "en": "No doubt we were surrounded by <b>spectacular scenery</b>",
+    "vi": "Chắc chắn chúng tôi được bao quanh bởi <b>cảnh quan ngoạn mục</b>."
+   }
+  },
+  {
+   "word": "extravagant",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪkˈstrævəɡənt/",
+   "def_en": "Very elaborate; spending too much.",
+   "def_vi": "Hoành tráng, phung phí.",
+   "gloss_vi": "hoành tráng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Extravagant</i> (adjective) = hoành tráng. <b>Note</b>: <i>excessive amounts of money</i> = phung phí.",
+   "example": {
+    "en": "We built <b>extravagant</b> castles",
+    "vi": "Chúng tôi xây những lâu đài cát <b>hoành tráng</b>."
+   }
+  },
+  {
+   "word": "all-inclusive",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɔːl ɪnˈkluːsɪv/",
+   "def_en": "Including all costs such as food and drinks.",
+   "def_vi": "Trọn gói.",
+   "gloss_vi": "trọn gói",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>All-inclusive</i> (adjective) = trọn gói. <b>Grammar</b>: tính từ ghép <i>all</i> + <i>inclusive</i>.",
+   "example": {
+    "en": "Who wants <b>all-inclusive</b> resorts boasting restaurants",
+    "vi": "Ai cần những khu nghỉ <b>trọn gói</b>?"
+   }
+  },
+  {
+   "word": "authentic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɔːˈθentɪk/",
+   "def_en": "Real; genuine.",
+   "def_vi": "Đích thực, chính gốc.",
+   "gloss_vi": "chính gốc",
+   "synonyms": "genuine <i>(adj. thật)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Authentic</i> (adjective) = chính gốc. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "restaurants serving <b>authentic</b> local cuisine",
+    "vi": "Nhà hàng phục vụ ẩm thực địa phương <b>chính gốc</b>."
+   }
+  },
+  {
+   "word": "local cuisine",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌləʊkl kwɪˈziːn/",
+   "def_en": "Food typical of an area.",
+   "def_vi": "Ẩm thực địa phương.",
+   "gloss_vi": "ẩm thực địa phương",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Local cuisine</i> (noun) = ẩm thực địa phương. <b>Collocations / chunks</b>: cụm danh từ cố định <i>local cuisine</i>.",
+   "example": {
+    "en": "restaurants serving authentic <b>local cuisine</b>",
+    "vi": "Nhà hàng phục vụ <b>ẩm thực địa phương</b> chính gốc."
+   }
+  },
+  {
+   "word": "artificial",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɑːtɪˈfɪʃl/",
+   "def_en": "Man-made, not natural.",
+   "def_vi": "Nhân tạo.",
+   "gloss_vi": "nhân tạo",
+   "synonyms": "man-made <i>(adj. nhân tạo)</i>",
+   "antonyms": "natural <i>(adj. tự nhiên)</i>",
+   "grammar_vi": "<i>Artificial</i> (adjective) = nhân tạo. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "Who needs <b>artificial</b> lagoons featuring wave machines and plastic waterfalls?",
+    "vi": "Ai cần đầm phá <b>nhân tạo</b> có máy tạo sóng?"
+   }
+  },
+  {
+   "word": "family holiday",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌfæməli ˈhɒlədeɪ/",
+   "def_en": "A holiday for parents and their children.",
+   "def_vi": "Kỳ nghỉ gia đình.",
+   "gloss_vi": "kỳ nghỉ gia đình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Family holiday</i> (noun) = kỳ nghỉ gia đình. <b>Collocations / chunks</b>: package / beach / adventure ~.",
+   "example": {
+    "en": "our <b>family holiday</b> would begin with a twelve-hour drive through the night",
+    "vi": "<b>Kỳ nghỉ gia đình</b> bắt đầu bằng chuyến lái xe mười hai tiếng."
+   }
+  },
+  {
+   "word": "adventure holiday",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ədˈventʃə ˌhɒlədeɪ/",
+   "def_en": "A holiday with outdoor activities.",
+   "def_vi": "Kỳ nghỉ phiêu lưu.",
+   "gloss_vi": "kỳ nghỉ mạo hiểm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Adventure holiday</i> (noun) = kỳ nghỉ mạo hiểm. <b>Collocations / chunks</b>: cụm danh từ cố định <i>adventure holiday</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We went on an <b>adventure holiday</b> in the mountains.",
+    "vi": "Chúng tôi đi <b>kỳ nghỉ phiêu lưu</b> ở núi."
+   }
+  },
+  {
+   "word": "public holiday",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpʌblɪk ˈhɒlədeɪ/",
+   "def_en": "A day off from work for everyone.",
+   "def_vi": "Ngày lễ.",
+   "gloss_vi": "ngày lễ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Public holiday</i> (noun) = ngày lễ. <b>Collocations / chunks</b>: cụm danh từ cố định <i>public holiday</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "It's a <b>public holiday</b> today, so the banks are closed.",
+    "vi": "Hôm nay là <b>ngày lễ</b> nên ngân hàng đóng cửa."
+   }
+  },
+  {
+   "word": "holiday insurance",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhɒlədeɪ ɪnˌʃʊərəns/",
+   "def_en": "Insurance that protects you while on holiday.",
+   "def_vi": "Bảo hiểm du lịch.",
+   "gloss_vi": "bảo hiểm du lịch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Holiday insurance</i> (noun) = bảo hiểm du lịch. <b>Collocations / chunks</b>: cụm danh từ cố định <i>holiday insurance</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Don't forget to buy <b>holiday insurance</b>.",
+    "vi": "Đừng quên mua <b>bảo hiểm du lịch</b>."
+   }
+  },
+  {
+   "word": "cycling enthusiast",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsaɪklɪŋ ɪnˌθjuːziæst/",
+   "def_en": "A person who loves cycling.",
+   "def_vi": "Người đam mê đạp xe.",
+   "gloss_vi": "người mê đạp xe",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cycling enthusiast</i> (noun) = người mê đạp xe. <b>Collocations / chunks</b>: ~ accident / helmet.",
+   "ex_kit": true,
+   "example": {
+    "en": "He's a <b>cycling enthusiast</b>.",
+    "vi": "Anh ấy là <b>người mê đạp xe</b>."
+   }
+  },
+  {
+   "word": "martial arts",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmɑːʃl ˈɑːts/",
+   "def_en": "Fighting sports such as judo and karate.",
+   "def_vi": "Võ thuật.",
+   "gloss_vi": "võ thuật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Martial arts</i> (noun) = võ thuật. <b>Collocations / chunks</b>: ~ instructor / fighter / expert.",
+   "example": {
+    "en": "She's something of a <b>martial arts</b> expert and is a black belt in judo and karate.",
+    "vi": "Cô ấy là chuyên gia <b>võ thuật</b>, đai đen judo và karate."
+   }
+  },
+  {
+   "word": "football pitch",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfʊtbɔːl pɪtʃ/",
+   "def_en": "The area of ground where football is played.",
+   "def_vi": "Sân bóng đá.",
+   "gloss_vi": "sân bóng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Football pitch</i> (noun) = sân bóng. <b>Collocations / chunks</b>: ~ league / tournament.",
+   "example": {
+    "en": "Our PE teacher used to make us run the length of the <b>football pitch</b> if we misbehaved.",
+    "vi": "Thầy thể dục bắt chúng tôi chạy hết chiều dài <b>sân bóng</b> nếu nghịch."
+   }
+  },
+  {
+   "word": "walking pace",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɔːkɪŋ peɪs/",
+   "def_en": "The speed of a person walking.",
+   "def_vi": "Tốc độ đi bộ.",
+   "gloss_vi": "tốc độ đi bộ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Walking pace</i> (noun) = tốc độ đi bộ. <b>Collocations / chunks</b>: ~ tour / boots.",
+   "example": {
+    "en": "we crept along at a <b>walking pace</b> for most of the journey",
+    "vi": "Xe cộ đông đến mức chúng tôi bò với <b>tốc độ đi bộ</b>."
+   }
+  },
+  {
+   "word": "swimming costume",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈswɪmɪŋ ˌkɒstjuːm/",
+   "def_en": "Clothing worn for swimming.",
+   "def_vi": "Đồ bơi.",
+   "gloss_vi": "đồ bơi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Swimming costume</i> (noun) = đồ bơi. <b>Collocations / chunks</b>: ~ goggles / pool.",
+   "example": {
+    "en": "I've left my <b>swimming costume</b> and my towel at home.",
+    "vi": "Tôi để quên <b>đồ bơi</b> và khăn ở nhà."
+   }
+  },
+  {
+   "word": "aerobics class",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/eəˈrəʊbɪks klɑːs/",
+   "def_en": "A group exercise session with music.",
+   "def_vi": "Lớp thể dục nhịp điệu.",
+   "gloss_vi": "lớp aerobic",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Aerobics class</i> (noun) = lớp aerobic. <b>Collocations / chunks</b>: ~ routine / workout.",
+   "example": {
+    "en": "I go with some of the other girls to a regular <b>aerobics class</b> which keeps me fairly fit.",
+    "vi": "Tôi đi <b>lớp thể dục nhịp điệu</b> thường xuyên."
+   }
+  },
+  {
+   "word": "exercise",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈeksəsaɪz/",
+   "def_en": "Physical activity to keep fit (uncountable); a specific activity to improve something (countable).",
+   "def_vi": "Tập thể dục; bài tập.",
+   "gloss_vi": "thể dục; bài tập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Exercise</i> (noun) = thể dục; bài tập. <b>Grammar</b>: đếm được: <i>stomach exercises</i>, <i>a public relations exercise</i>.",
+   "example": {
+    "en": "Regular <b>exercise</b> is good for you.",
+    "vi": "Tập <b>thể dục</b> đều đặn tốt cho bạn."
+   }
+  },
+  {
+   "word": "put off",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/pʊt ˈɒf/",
+   "def_en": "To make someone not want to do something.",
+   "def_vi": "Làm ai nản.",
+   "gloss_vi": "làm nản",
+   "synonyms": "discourage <i>(v. làm nản)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Put off</i> (phr v) = làm nản. <b>Grammar</b>: phr v nhiều từ <i>put off</i>.",
+   "example": {
+    "en": "What kind of things <b>put you off</b> exercising?",
+    "vi": "Điều gì <b>làm bạn nản</b> tập thể dục?"
+   }
+  },
+  {
+   "word": "burn off",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/bɜːn ˈɒf/",
+   "def_en": "To use up energy or calories through exercise.",
+   "def_vi": "Đốt cháy (calo).",
+   "gloss_vi": "đốt cháy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Burn off</i> (phr v) = đốt cháy. <b>Note</b>: <i>off</i> = giảm/hoàn tất.",
+   "example": {
+    "en": "How do you <b>burn off</b> calories?",
+    "vi": "Bạn <b>đốt</b> calo bằng cách nào?"
+   }
+  },
+  {
+   "word": "close off",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/kləʊz ˈɒf/",
+   "def_en": "To stop people from entering an area.",
+   "def_vi": "Phong tỏa.",
+   "gloss_vi": "phong tỏa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Close off</i> (phr v) = phong tỏa. <b>Note</b>: <i>off</i> = tách ra.",
+   "example": {
+    "en": "They've <b>closed off</b> the city centre because of a bomb scare.",
+    "vi": "Họ đã <b>phong tỏa</b> trung tâm thành phố vì báo động bom."
+   }
+  },
+  {
+   "word": "trigger off",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/ˌtrɪɡər ˈɒf/",
+   "def_en": "To make something start.",
+   "def_vi": "Gây ra, khơi mào.",
+   "gloss_vi": "khơi mào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trigger off</i> (phr v) = khơi mào. <b>Note</b>: <i>off</i> = bắt đầu.",
+   "example": {
+    "en": "The incident <b>triggered off</b> a political debate.",
+    "vi": "Sự việc đã <b>khơi mào</b> cuộc tranh luận chính trị."
+   }
+  },
+  {
+   "word": "call off",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/kɔːl ˈɒf/",
+   "def_en": "To cancel.",
+   "def_vi": "Hủy bỏ.",
+   "gloss_vi": "hủy",
+   "synonyms": "cancel <i>(v. hủy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Call off</i> (phr v) = hủy. <b>Note</b>: <i>off</i> = dừng/hủy.",
+   "example": {
+    "en": "They've <b>called off</b> tomorrow's meeting.",
+    "vi": "Họ đã <b>hủy</b> cuộc họp ngày mai."
+   }
+  },
+  {
+   "word": "wear off",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/weər ˈɒf/",
+   "def_en": "To gradually disappear or stop having an effect.",
+   "def_vi": "Hết tác dụng dần.",
+   "gloss_vi": "hết tác dụng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wear off</i> (phr v) = hết tác dụng. <b>Note</b>: <i>off</i> = giảm dần.",
+   "example": {
+    "en": "The effect of the medicine is <b>wearing off</b> now.",
+    "vi": "Tác dụng của thuốc đang <b>hết dần</b>."
+   }
+  }
+ ]
+}
