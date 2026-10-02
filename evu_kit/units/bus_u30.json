@@ -1,0 +1,232 @@
+{
+ "book": "bus",
+ "unit": 30,
+ "title_vi": "Tài sản, nợ phải trả và bảng cân đối kế toán",
+ "theory_html": "<p><b>A. Assets</b><br><i>A. Tài sản</i></p> <p><b>asset</b>: <b>current assets, fixed assets, intangible assets</b> (<b>goodwill, brands</b>), <b>going concern</b>.</p><p><i><b>tài sản: tài sản ngắn hạn, tài sản cố định, tài sản vô hình (uy tín, thương hiệu); doanh nghiệp đang hoạt động</b>.</i></p> <p><b>B. Depreciation</b><br><i>B. Khấu hao</i></p> <p><b>depreciation / amortization</b> (AmE mainly), <b>depreciate / amortize over, charge, written down, written off, write-off, book value</b>.</p><p><i><b>khấu hao, khấu hao trong, khoản trích, ghi giảm, xóa sổ, giá trị sổ sách</b>.</i></p> <p><b>C. Liabilities</b><br><i>C. Nợ phải trả</i></p> <p><b>liabilities, current liabilities, long-term liabilities</b>.</p><p><i><b>nợ phải trả, nợ ngắn hạn, nợ dài hạn</b>.</i></p> <p><b>D. Balance sheet</b><br><i>D. Bảng cân đối kế toán</i></p> <p><b>balance sheet, financial year</b>.</p><p><i><b>bảng cân đối kế toán, năm tài chính</b>.</i></p>",
+ "items": [
+  {
+   "word": "current assets",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkʌrənt ˈæsets/",
+   "def_en": "Money in the bank, easily sold investments, money owed by customers, stocks of goods.",
+   "def_vi": "Tiền gửi, đầu tư dễ bán, tiền khách nợ, hàng tồn.",
+   "gloss_vi": "tài sản ngắn hạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "fixed assets <i>(n. tài sản cố định)</i>",
+   "grammar_vi": "<i>Current assets</i> (noun) = tài sản ngắn hạn. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "<b>current assets</b> – money in the bank, investments that can easily be turned into money, money that customers owe, stocks of goods that are going to be sold",
+    "vi": "<b>Tài sản ngắn hạn</b> gồm tiền gửi ngân hàng và hàng tồn kho."
+   }
+  },
+  {
+   "word": "fixed assets",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌfɪkst ˈæsets/",
+   "def_en": "Equipment, machinery, buildings, land.",
+   "def_vi": "Thiết bị, máy móc, nhà, đất.",
+   "gloss_vi": "tài sản cố định",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "current assets <i>(n. tài sản ngắn hạn)</i>",
+   "grammar_vi": "<i>Fixed assets</i> (noun) = tài sản cố định. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "<b>fixed assets</b> – equipment, machinery, buildings, land",
+    "vi": "<b>Tài sản cố định</b>: thiết bị, máy móc, nhà xưởng, đất."
+   }
+  },
+  {
+   "word": "intangible assets",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˌtændʒəbl ˈæsets/",
+   "def_en": "Assets you cannot touch, such as goodwill and brands.",
+   "def_vi": "Tài sản không sờ được như uy tín, thương hiệu.",
+   "gloss_vi": "tài sản vô hình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Intangible assets</i> (noun) = tài sản vô hình. <b>Grammar</b>: <i>intangible</i> = không sờ được.",
+   "example": {
+    "en": "<b>intangible assets</b>: goodwill – the value that a company has through its reputation with existing customers – and brands",
+    "vi": "<b>Tài sản vô hình</b>: uy tín và thương hiệu."
+   }
+  },
+  {
+   "word": "goodwill",
+   "sense": "value of reputation",
+   "pos": "noun",
+   "ipa": "/ˌɡʊdˈwɪl/",
+   "def_en": "The value a company has through its reputation with existing customers.",
+   "def_vi": "Giá trị công ty có nhờ uy tín với khách.",
+   "gloss_vi": "uy tín, lợi thế thương mại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Goodwill</i> (noun) = uy tín, lợi thế thương mại. <b>Grammar</b>: nghĩa kế toán.",
+   "example": {
+    "en": "<b>goodwill</b> – the value that a company has through its reputation with existing customers",
+    "vi": "<b>Uy tín</b> là giá trị nhờ danh tiếng với khách hàng hiện có."
+   }
+  },
+  {
+   "word": "going concern",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɡəʊɪŋ kənˈsɜːn/",
+   "def_en": "A business sold as a functioning operation.",
+   "def_vi": "Doanh nghiệp được bán khi đang hoạt động.",
+   "gloss_vi": "doanh nghiệp đang hoạt động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Going concern</i> (noun) = doanh nghiệp đang hoạt động. <b>Collocations / chunks</b>: <i>sell sth as a going concern</i>.",
+   "example": {
+    "en": "If a company is sold as a <b>going concern</b>, it is sold as a functioning operation.",
+    "vi": "Công ty được bán như <b>doanh nghiệp đang hoạt động</b>."
+   }
+  },
+  {
+   "word": "depreciation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˌpriːʃiˈeɪʃn/",
+   "def_en": "The loss of value of assets over time because they wear out or are out of date.",
+   "def_vi": "Mất giá trị tài sản theo thời gian.",
+   "gloss_vi": "khấu hao",
+   "synonyms": "amortization <i>(n. khấu hao (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Depreciation</i> (noun) = khấu hao. <b>Grammar</b>: động từ <i>depreciate</i>.",
+   "example": {
+    "en": "Amounts relating to this are <b>depreciation</b> or amortization (AmE mainly).",
+    "vi": "Khoản liên quan đến điều này là <b>khấu hao</b>."
+   }
+  },
+  {
+   "word": "depreciate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪˈpriːʃieɪt/",
+   "def_en": "To reduce the value of an asset over a period in the accounts.",
+   "def_vi": "Giảm giá trị tài sản trong sổ sách theo thời gian.",
+   "gloss_vi": "khấu hao",
+   "synonyms": "amortize <i>(v. khấu hao (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Depreciate</i> (verb) = khấu hao. <b>Collocations / chunks</b>: <i>depreciate sth over</i> + thời gian.",
+   "example": {
+    "en": "when we buy new computers, we <b>depreciate</b> them or amortize them over a very short period, usually three years",
+    "vi": "Máy tính mới được <b>khấu hao</b> trong ba năm."
+   }
+  },
+  {
+   "word": "write down",
+   "sense": "reduce asset value",
+   "pos": "verb",
+   "ipa": "/ˌraɪt ˈdaʊn/",
+   "def_en": "To reduce the value of an asset in the accounts.",
+   "def_vi": "Giảm giá trị tài sản trong sổ sách.",
+   "gloss_vi": "ghi giảm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Write down</i> (verb) = ghi giảm. <b>Grammar</b>: danh từ <i>write-down</i>.",
+   "example": {
+    "en": "the value of the equipment is reduced or <b>written down</b> each year over that period",
+    "vi": "Giá trị thiết bị bị <b>ghi giảm</b> mỗi năm."
+   }
+  },
+  {
+   "word": "book value",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbʊk ˌvæljuː/",
+   "def_en": "The value of an asset as shown in a company’s accounts.",
+   "def_vi": "Giá trị tài sản ghi trong sổ sách.",
+   "gloss_vi": "giá trị sổ sách",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Book value</i> (noun) = giá trị sổ sách. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "The value of an asset at a particular time as shown in a company’s accounts is its <b>book value</b>.",
+    "vi": "Giá trị tài sản trong sổ sách là <b>giá trị sổ sách</b>."
+   }
+  },
+  {
+   "word": "liabilities",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌlaɪəˈbɪlətiz/",
+   "def_en": "A company’s debts to suppliers, lenders, tax authorities, etc.",
+   "def_vi": "Nợ của công ty với nhà cung cấp, người cho vay, thuế.",
+   "gloss_vi": "nợ phải trả",
+   "synonyms": "debts <i>(n. nợ)</i>",
+   "antonyms": "assets <i>(n. tài sản)</i>",
+   "grammar_vi": "<i>Liabilities</i> (noun) = nợ phải trả. <b>Grammar</b>: số nhiều.",
+   "example": {
+    "en": "A company’s <b>liabilities</b> are its debts to suppliers, lenders, the tax authorities, etc.",
+    "vi": "<b>Nợ phải trả</b> là nợ với nhà cung cấp, người cho vay."
+   }
+  },
+  {
+   "word": "current liabilities",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkʌrənt ˌlaɪəˈbɪlətiz/",
+   "def_en": "Debts that have to be paid within a year.",
+   "def_vi": "Nợ phải trả trong vòng một năm.",
+   "gloss_vi": "nợ ngắn hạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "long-term liabilities <i>(n. nợ dài hạn)</i>",
+   "grammar_vi": "<i>Current liabilities</i> (noun) = nợ ngắn hạn. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "Debts that have to be paid within a year are <b>current liabilities</b>",
+    "vi": "Nợ phải trả trong một năm là <b>nợ ngắn hạn</b>."
+   }
+  },
+  {
+   "word": "long-term liabilities",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌlɒŋ tɜːm ˌlaɪəˈbɪlətiz/",
+   "def_en": "Debts payable in more than a year.",
+   "def_vi": "Nợ trả sau hơn một năm.",
+   "gloss_vi": "nợ dài hạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "current liabilities <i>(n. nợ ngắn hạn)</i>",
+   "grammar_vi": "<i>Long-term liabilities</i> (noun) = nợ dài hạn. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "those payable in more than a year are <b>long-term liabilities</b> – for example long-term bank loans",
+    "vi": "Khoản vay ngân hàng dài hạn là <b>nợ dài hạn</b>."
+   }
+  },
+  {
+   "word": "balance sheet",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbæləns ʃiːt/",
+   "def_en": "A picture of a company’s assets and liabilities at a particular time.",
+   "def_vi": "Bức tranh tài sản và nợ của công ty tại một thời điểm.",
+   "gloss_vi": "bảng cân đối kế toán",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Balance sheet</i> (noun) = bảng cân đối kế toán. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "A company’s <b>balance sheet</b> gives a picture of its assets and liabilities at a particular time.",
+    "vi": "<b>Bảng cân đối kế toán</b> cho thấy tài sản và nợ."
+   }
+  },
+  {
+   "word": "financial year",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/faɪˌnænʃl ˈjɪə(r)/",
+   "def_en": "A 12-month period used for accounts.",
+   "def_vi": "Kỳ 12 tháng dùng cho sổ sách.",
+   "gloss_vi": "năm tài chính",
+   "synonyms": "fiscal year <i>(n. năm tài khóa (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Financial year</i> (noun) = năm tài chính. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "This is usually at the end of the 12-month period of its <b>financial year</b>.",
+    "vi": "Thường vào cuối <b>năm tài chính</b>."
+   }
+  }
+ ]
+}

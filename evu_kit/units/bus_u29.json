@@ -1,0 +1,296 @@
+{
+ "book": "bus",
+ "unit": 29,
+ "title_vi": "Được thanh toán",
+ "theory_html": "<p><b>A. Shipping and billing</b><br><i>A. Giao hàng và lập hóa đơn</i></p> <p><b>order / place an order, dispatched / shipped, invoice, invoicing / billing</b> (billing much more frequent), <b>chase an invoice, settle an invoice</b>.</p><p><i><b>đặt hàng, gửi hàng, hóa đơn, lập hóa đơn, đòi thanh toán hóa đơn, thanh toán hóa đơn</b>.</i></p> <p><b>B. Trade credit</b><br><i>B. Tín dụng thương mại</i></p> <p><b>trade credit, discount, upfront, credit policy, payment terms, cashflow</b>.</p><p><i><b>tín dụng thương mại, chiết khấu, trả trước, chính sách tín dụng, điều khoản thanh toán, dòng tiền</b>.</i></p> <p><b>C. Accounts</b><br><i>C. Tài khoản</i></p> <p>BrE: <b>debtors, creditors, bad debts, write off</b>; <b>accounts, key accounts</b>; AmE: <b>accounts receivable / receivables, accounts payable / payables</b>.</p><p><i><b>con nợ, chủ nợ, nợ khó đòi, xóa sổ; khách hàng, khách hàng chủ chốt; khoản phải thu, khoản phải trả</b>.</i></p>",
+ "items": [
+  {
+   "word": "place an order",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌpleɪs ən ˈɔːdə(r)/",
+   "def_en": "To ask to buy something.",
+   "def_vi": "Yêu cầu mua thứ gì.",
+   "gloss_vi": "đặt hàng",
+   "synonyms": "order <i>(v. đặt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Place an order</i> (verb) = đặt hàng. <b>Collocations / chunks</b>: <i>place an order for</i> sth.",
+   "example": {
+    "en": "When you ask to buy something, you order it or <b>place an order</b> for it.",
+    "vi": "Khi muốn mua thứ gì, bạn <b>đặt hàng</b>."
+   }
+  },
+  {
+   "word": "dispatch",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪˈspætʃ/",
+   "def_en": "To send goods to a customer.",
+   "def_vi": "Gửi hàng cho khách.",
+   "gloss_vi": "gửi hàng",
+   "synonyms": "ship <i>(v. gửi hàng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dispatch</i> (verb) = gửi hàng. <b>Grammar</b>: Anh cũng <i>despatch</i>.",
+   "example": {
+    "en": "When the goods are ready, they are <b>dispatched</b> or shipped to you.",
+    "vi": "Khi hàng sẵn sàng, chúng được <b>gửi</b> cho bạn."
+   }
+  },
+  {
+   "word": "invoice",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɪnvɔɪs/",
+   "def_en": "A document asking for payment and showing the amount to pay.",
+   "def_vi": "Giấy đòi thanh toán, ghi số tiền phải trả.",
+   "gloss_vi": "hóa đơn",
+   "synonyms": "bill <i>(n. hóa đơn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Invoice</i> (noun) = hóa đơn. <b>Grammar</b>: động từ <i>invoice</i>.",
+   "example": {
+    "en": "An <b>invoice</b> is a document asking for payment for something and showing the amount to pay.",
+    "vi": "<b>Hóa đơn</b> là giấy đòi thanh toán."
+   }
+  },
+  {
+   "word": "billing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɪlɪŋ/",
+   "def_en": "Producing invoices and sending them to customers.",
+   "def_vi": "Lập và gửi hóa đơn cho khách.",
+   "gloss_vi": "lập hóa đơn",
+   "synonyms": "invoicing <i>(n. lập hóa đơn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Billing</i> (noun) = lập hóa đơn. <b>Grammar</b>: phổ biến hơn <i>invoicing</i>, nhất là Mỹ.",
+   "example": {
+    "en": "The activity of producing invoices and sending them to customers is invoicing or <b>billing</b>.",
+    "vi": "Việc lập và gửi hóa đơn là <b>lập hóa đơn</b>."
+   }
+  },
+  {
+   "word": "chase an invoice",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌtʃeɪs ən ˈɪnvɔɪs/",
+   "def_en": "To ask for payment because an invoice has not been paid on time.",
+   "def_vi": "Đòi tiền vì hóa đơn chưa trả đúng hạn.",
+   "gloss_vi": "đòi thanh toán hóa đơn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chase an invoice</i> (verb) = đòi thanh toán hóa đơn. <b>Collocations / chunks</b>: cụm cố định.",
+   "example": {
+    "en": "If a supplier <b>chases an invoice</b>, they ask for payment because it has not been paid on time.",
+    "vi": "Nhà cung cấp <b>đòi thanh toán hóa đơn</b> chưa trả."
+   }
+  },
+  {
+   "word": "settle an invoice",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌsetl ən ˈɪnvɔɪs/",
+   "def_en": "To pay an invoice.",
+   "def_vi": "Trả hóa đơn.",
+   "gloss_vi": "thanh toán hóa đơn",
+   "synonyms": "pay <i>(v. trả)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Settle an invoice</i> (verb) = thanh toán hóa đơn. <b>Collocations / chunks</b>: <i>settle a bill/account</i>.",
+   "example": {
+    "en": "If you <b>settle an invoice</b>, you pay it.",
+    "vi": "Nếu bạn <b>thanh toán hóa đơn</b>, bạn trả tiền."
+   }
+  },
+  {
+   "word": "trade credit",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtreɪd ˌkredɪt/",
+   "def_en": "A period of time, usually 30 or 60 days, before business customers have to pay.",
+   "def_vi": "Thời gian (30, 60 ngày) trước khi khách doanh nghiệp phải trả.",
+   "gloss_vi": "tín dụng thương mại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trade credit</i> (noun) = tín dụng thương mại. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "they are given <b>trade credit</b> – a period of time, usually 30 or 60 days, before they have to pay",
+    "vi": "Khách doanh nghiệp được <b>tín dụng thương mại</b> 30 hay 60 ngày."
+   }
+  },
+  {
+   "word": "discount",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdɪskaʊnt/",
+   "def_en": "A reduction in the amount a customer has to pay.",
+   "def_vi": "Giảm số tiền khách phải trả.",
+   "gloss_vi": "chiết khấu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Discount</i> (noun) = chiết khấu. <b>Collocations / chunks</b>: <i>give a discount</i>.",
+   "example": {
+    "en": "we give them a <b>discount</b> – a reduction in the amount they have to pay",
+    "vi": "Chúng tôi <b>chiết khấu</b> cho khách mua nhiều."
+   }
+  },
+  {
+   "word": "upfront",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌʌpˈfrʌnt/",
+   "def_en": "Before receiving the goods.",
+   "def_vi": "Trước khi nhận hàng.",
+   "gloss_vi": "trả trước",
+   "synonyms": "in advance <i>(adv. trước)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Upfront</i> (adverb) = trả trước. <b>Collocations / chunks</b>: <i>pay upfront</i>.",
+   "example": {
+    "en": "we ask some customers, especially ones we haven’t dealt with before, to pay <b>upfront</b> – before they receive the goods",
+    "vi": "Chúng tôi yêu cầu vài khách <b>trả trước</b>."
+   }
+  },
+  {
+   "word": "payment terms",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpeɪmənt tɜːmz/",
+   "def_en": "Rules on when and how customers should pay.",
+   "def_vi": "Quy định khách phải trả khi nào, thế nào.",
+   "gloss_vi": "điều khoản thanh toán",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Payment terms</i> (noun) = điều khoản thanh toán. <b>Collocations / chunks</b>: <i>credit policy</i>.",
+   "example": {
+    "en": "we have a credit policy, with <b>payment terms</b> – rules on when and how customers should pay",
+    "vi": "Chúng tôi có chính sách tín dụng với <b>điều khoản thanh toán</b>."
+   }
+  },
+  {
+   "word": "cashflow",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkæʃfləʊ/",
+   "def_en": "The timing of payments coming into and going out of a business.",
+   "def_vi": "Thời điểm tiền vào ra doanh nghiệp.",
+   "gloss_vi": "dòng tiền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cashflow</i> (noun) = dòng tiền. <b>Grammar</b>: cũng <i>cash flow</i>.",
+   "example": {
+    "en": "This is part of controlling <b>cashflow</b> – the timing of payments coming into and going out of the business.",
+    "vi": "Đây là một phần của kiểm soát <b>dòng tiền</b>."
+   }
+  },
+  {
+   "word": "debtors",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdetəz/",
+   "def_en": "Customers who owe you money (BrE).",
+   "def_vi": "Khách nợ tiền bạn (Anh).",
+   "gloss_vi": "con nợ",
+   "synonyms": "accounts receivable <i>(n. khoản phải thu (Mỹ))</i>",
+   "antonyms": "creditors <i>(n. chủ nợ)</i>",
+   "grammar_vi": "<i>Debtors</i> (noun) = con nợ. <b>Grammar</b>: <i>b</i> câm.",
+   "example": {
+    "en": "They’re my <b>debtors</b> (BrE).",
+    "vi": "Họ là <b>con nợ</b> của tôi."
+   }
+  },
+  {
+   "word": "creditors",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkredɪtəz/",
+   "def_en": "Suppliers and organizations you must pay (BrE).",
+   "def_vi": "Nhà cung cấp, tổ chức bạn phải trả tiền (Anh).",
+   "gloss_vi": "chủ nợ",
+   "synonyms": "accounts payable <i>(n. khoản phải trả (Mỹ))</i>",
+   "antonyms": "debtors <i>(n. con nợ)</i>",
+   "grammar_vi": "<i>Creditors</i> (noun) = chủ nợ. <b>Grammar</b>: Anh.",
+   "example": {
+    "en": "They’re my <b>creditors</b> (BrE).",
+    "vi": "Họ là <b>chủ nợ</b> của tôi."
+   }
+  },
+  {
+   "word": "bad debts",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌbæd ˈdets/",
+   "def_en": "Money owed that will probably never be paid.",
+   "def_vi": "Khoản nợ có lẽ không bao giờ được trả.",
+   "gloss_vi": "nợ khó đòi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bad debts</i> (noun) = nợ khó đòi. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "These are <b>bad debts</b> and I’ve written them off.",
+    "vi": "Đây là <b>nợ khó đòi</b> và tôi đã xóa sổ."
+   }
+  },
+  {
+   "word": "write off",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌraɪt ˈɒf/",
+   "def_en": "To show a debt or asset as having no value.",
+   "def_vi": "Ghi nhận khoản nợ/tài sản không còn giá trị.",
+   "gloss_vi": "xóa sổ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Write off</i> (verb) = xóa sổ. <b>Grammar</b>: danh từ <i>write-off</i>.",
+   "example": {
+    "en": "These are bad debts and I’ve <b>written them off</b>.",
+    "vi": "Đây là nợ khó đòi và tôi đã <b>xóa sổ</b> chúng."
+   }
+  },
+  {
+   "word": "key accounts",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkiː əˈkaʊnts/",
+   "def_en": "The most important customers.",
+   "def_vi": "Khách hàng quan trọng nhất.",
+   "gloss_vi": "khách hàng chủ chốt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Key accounts</i> (noun) = khách hàng chủ chốt. <b>Grammar</b>: <i>account</i> = khách hàng.",
+   "example": {
+    "en": "The most important ones are <b>key accounts</b>.",
+    "vi": "Khách quan trọng nhất là <b>khách hàng chủ chốt</b>."
+   }
+  },
+  {
+   "word": "accounts receivable",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˌkaʊnts rɪˈsiːvəbl/",
+   "def_en": "Customers who owe you money (AmE).",
+   "def_vi": "Khách nợ tiền bạn (Mỹ).",
+   "gloss_vi": "khoản phải thu",
+   "synonyms": "debtors <i>(n. con nợ (Anh))</i>",
+   "antonyms": "accounts payable <i>(n. khoản phải trả)</i>",
+   "grammar_vi": "<i>Accounts receivable</i> (noun) = khoản phải thu. <b>Grammar</b>: Mỹ; cũng <i>receivables</i>.",
+   "example": {
+    "en": "They’re my <b>accounts receivable</b> (AmE) or receivables (AmE).",
+    "vi": "Họ là <b>khoản phải thu</b> của tôi."
+   }
+  },
+  {
+   "word": "accounts payable",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˌkaʊnts ˈpeɪəbl/",
+   "def_en": "Suppliers and organizations you must pay (AmE).",
+   "def_vi": "Bên bạn phải trả tiền (Mỹ).",
+   "gloss_vi": "khoản phải trả",
+   "synonyms": "creditors <i>(n. chủ nợ (Anh))</i>",
+   "antonyms": "accounts receivable <i>(n. khoản phải thu)</i>",
+   "grammar_vi": "<i>Accounts payable</i> (noun) = khoản phải trả. <b>Grammar</b>: Mỹ; cũng <i>payables</i>.",
+   "example": {
+    "en": "They’re my <b>accounts payable</b> (AmE) or payables (AmE).",
+    "vi": "Họ là <b>khoản phải trả</b> của tôi."
+   }
+  }
+ ]
+}

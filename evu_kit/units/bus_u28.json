@@ -1,0 +1,232 @@
+{
+ "book": "bus",
+ "unit": 28,
+ "title_vi": "Có lãi và không có lãi",
+ "theory_html": "<p><b>A. Profitable and unprofitable products</b><br><i>A. Sản phẩm có lãi và lỗ</i></p> <p><b>make a profit, profitable / profit-making, break even, reach break-even point, make a loss, loss-making, loss-leader, money spinners / cash cows</b>.</p><p><i><b>có lãi, sinh lời, hòa vốn, đạt điểm hòa vốn, bị lỗ, thua lỗ, hàng bán lỗ kéo khách, sản phẩm hái ra tiền</b>.</i></p> <p><b>B. Economies of scale and the learning curve</b><br><i>B. Lợi thế quy mô và đường cong học tập</i></p> <p><b>economies of scale, diseconomies of scale, experience curve / learning curve</b>.</p><p><i><b>lợi thế kinh tế nhờ quy mô, bất lợi do quy mô, đường cong kinh nghiệm / học tập</b>.</i></p> <p><b>C. Budgets and expenditure</b><br><i>C. Ngân sách và chi tiêu</i></p> <p><b>budget for, over budget, overspend, underspend, under budget, expenditure, spend</b> (noun: <b>advertising spend</b>).</p><p><i><b>lập ngân sách cho, vượt ngân sách, chi vượt, chi dưới mức, dưới ngân sách, chi tiêu, khoản chi</b>.</i></p>",
+ "items": [
+  {
+   "word": "make a profit",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌmeɪk ə ˈprɒfɪt/",
+   "def_en": "To earn more than you spend on something.",
+   "def_vi": "Thu nhiều hơn chi.",
+   "gloss_vi": "có lãi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "make a loss <i>(v. bị lỗ)</i>",
+   "grammar_vi": "<i>Make a profit</i> (verb) = có lãi. <b>Collocations / chunks</b>: cụm cố định.",
+   "example": {
+    "en": "We <b>make a profit</b>: the product is profitable or profit-making.",
+    "vi": "Chúng tôi <b>có lãi</b>: sản phẩm sinh lời."
+   }
+  },
+  {
+   "word": "profitable",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈprɒfɪtəbl/",
+   "def_en": "Making a profit.",
+   "def_vi": "Có lãi.",
+   "gloss_vi": "sinh lời",
+   "synonyms": "profit-making <i>(adj. có lãi)</i>",
+   "antonyms": "unprofitable <i>(adj. không có lãi)</i>",
+   "grammar_vi": "<i>Profitable</i> (adjective) = sinh lời. <b>Grammar</b>: danh từ <i>profitability</i>.",
+   "example": {
+    "en": "the product is <b>profitable</b> or profit-making",
+    "vi": "Sản phẩm <b>sinh lời</b>."
+   }
+  },
+  {
+   "word": "break even",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌbreɪk ˈiːvn/",
+   "def_en": "To make neither a profit nor a loss.",
+   "def_vi": "Không lãi không lỗ.",
+   "gloss_vi": "hòa vốn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Break even</i> (verb) = hòa vốn. <b>Collocations / chunks</b>: <i>reach break-even point</i>.",
+   "example": {
+    "en": "We <b>break even</b>: we reach break-even point.",
+    "vi": "Chúng tôi <b>hòa vốn</b>: đạt điểm hòa vốn."
+   }
+  },
+  {
+   "word": "make a loss",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌmeɪk ə ˈlɒs/",
+   "def_en": "To spend more than you earn on something.",
+   "def_vi": "Chi nhiều hơn thu.",
+   "gloss_vi": "bị lỗ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "make a profit <i>(v. có lãi)</i>",
+   "grammar_vi": "<i>Make a loss</i> (verb) = bị lỗ. <b>Collocations / chunks</b>: cụm cố định.",
+   "example": {
+    "en": "We <b>make a loss</b>. The product is loss-making",
+    "vi": "Chúng tôi <b>bị lỗ</b>. Sản phẩm thua lỗ."
+   }
+  },
+  {
+   "word": "loss-making",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈlɒs ˌmeɪkɪŋ/",
+   "def_en": "Not making a profit.",
+   "def_vi": "Không có lãi.",
+   "gloss_vi": "thua lỗ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "profit-making <i>(adj. có lãi)</i>",
+   "grammar_vi": "<i>Loss-making</i> (adjective) = thua lỗ. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "The product is <b>loss-making</b>, but we use Product C as a loss-leader",
+    "vi": "Sản phẩm <b>thua lỗ</b> nhưng dùng để kéo khách."
+   }
+  },
+  {
+   "word": "cash cow",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkæʃ kaʊ/",
+   "def_en": "A product that has very good profitability.",
+   "def_vi": "Sản phẩm rất sinh lời.",
+   "gloss_vi": "sản phẩm hái ra tiền",
+   "synonyms": "money spinner <i>(n. sản phẩm hái ra tiền)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cash cow</i> (noun) = sản phẩm hái ra tiền. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "It’s one of our money spinners or <b>cash cows</b> – products that have very good profitability.",
+    "vi": "Sản phẩm D là một <b>con bò sữa</b> của chúng tôi."
+   }
+  },
+  {
+   "word": "diseconomies of scale",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdɪsɪˌkɒnəmiz əv ˈskeɪl/",
+   "def_en": "When increased production causes an even bigger increase in costs.",
+   "def_vi": "Khi tăng sản lượng làm chi phí tăng còn nhiều hơn.",
+   "gloss_vi": "bất lợi kinh tế theo quy mô",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "economies of scale <i>(n. lợi thế quy mô)</i>",
+   "grammar_vi": "<i>Diseconomies of scale</i> (noun) = bất lợi kinh tế theo quy mô. <b>Grammar</b>: tiền tố <i>dis-</i>.",
+   "example": {
+    "en": "After a point, a given increase in production actually causes <b>diseconomies of scale</b>",
+    "vi": "Quá một mức, tăng sản lượng gây <b>bất lợi theo quy mô</b>."
+   }
+  },
+  {
+   "word": "learning curve",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlɜːnɪŋ kɜːv/",
+   "def_en": "Learning to do things more quickly and efficiently as you produce more.",
+   "def_vi": "Học làm nhanh, hiệu quả hơn khi sản xuất nhiều.",
+   "gloss_vi": "đường cong học tập",
+   "synonyms": "experience curve <i>(n. đường cong kinh nghiệm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Learning curve</i> (noun) = đường cong học tập. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "The company also benefits from the experience curve or <b>learning curve</b>",
+    "vi": "Công ty cũng hưởng lợi từ <b>đường cong học tập</b>."
+   }
+  },
+  {
+   "word": "budget for",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈbʌdʒɪt fə(r)/",
+   "def_en": "To plan to spend money on something.",
+   "def_vi": "Dự tính chi tiền cho việc gì.",
+   "gloss_vi": "lập ngân sách cho",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Budget for</i> (verb) = lập ngân sách cho. <b>Grammar</b>: danh từ <i>budget</i>.",
+   "example": {
+    "en": "the marketing activities that Nordsee and Vaclav’s firm <b>budgeted for</b> – the money that they planned to spend on each one",
+    "vi": "Các hoạt động tiếp thị họ <b>lập ngân sách cho</b>."
+   }
+  },
+  {
+   "word": "over budget",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌəʊvə ˈbʌdʒɪt/",
+   "def_en": "Having spent more than planned.",
+   "def_vi": "Chi nhiều hơn dự tính.",
+   "gloss_vi": "vượt ngân sách",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "under budget <i>(adj. dưới ngân sách)</i>",
+   "grammar_vi": "<i>Over budget</i> (adjective) = vượt ngân sách. <b>Collocations / chunks</b>: <i>go over budget</i>.",
+   "example": {
+    "en": "Nordsee went <b>over budget</b> and overspent by 200,000 euros.",
+    "vi": "Nordsee <b>vượt ngân sách</b> 200.000 euro."
+   }
+  },
+  {
+   "word": "overspend",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌəʊvəˈspend/",
+   "def_en": "To spend more than planned.",
+   "def_vi": "Chi nhiều hơn dự tính.",
+   "gloss_vi": "chi vượt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "underspend <i>(v. chi dưới mức)</i>",
+   "grammar_vi": "<i>Overspend</i> (verb) = chi vượt. <b>Grammar</b>: bất quy tắc <i>overspent</i>.",
+   "example": {
+    "en": "Nordsee went over budget and <b>overspent</b> by 200,000 euros.",
+    "vi": "Nordsee <b>chi vượt</b> 200.000 euro."
+   }
+  },
+  {
+   "word": "underspend",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌʌndəˈspend/",
+   "def_en": "To spend less than planned.",
+   "def_vi": "Chi ít hơn dự tính.",
+   "gloss_vi": "chi dưới mức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "overspend <i>(v. chi vượt)</i>",
+   "grammar_vi": "<i>Underspend</i> (verb) = chi dưới mức. <b>Grammar</b>: bất quy tắc <i>underspent</i>.",
+   "example": {
+    "en": "Vaclav <b>underspent</b> by 50,000 euros. He was under budget.",
+    "vi": "Vaclav <b>chi dưới mức</b> 50.000 euro."
+   }
+  },
+  {
+   "word": "expenditure",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪkˈspendɪtʃə(r)/",
+   "def_en": "Money spent.",
+   "def_vi": "Tiền đã chi.",
+   "gloss_vi": "chi tiêu",
+   "synonyms": "spend <i>(n. khoản chi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Expenditure</i> (noun) = chi tiêu. <b>Collocations / chunks</b>: <i>advertising expenditure</i>.",
+   "example": {
+    "en": "On advertising, Vaclav’s <b>expenditure</b> or spend was only 200,000 euros",
+    "vi": "<b>Chi tiêu</b> quảng cáo của Vaclav chỉ 200.000 euro."
+   }
+  },
+  {
+   "word": "spend",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/spend/",
+   "def_en": "Money spent (usually a verb, but can be a noun).",
+   "def_vi": "Khoản chi (thường là động từ).",
+   "gloss_vi": "khoản chi",
+   "synonyms": "expenditure <i>(n. chi tiêu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spend</i> (noun) = khoản chi. <b>Grammar</b>: danh từ hiếm, vd <i>advertising spend</i>.",
+   "example": {
+    "en": "Nordsee’s advertising <b>spend</b> was 700,000",
+    "vi": "<b>Khoản chi</b> quảng cáo của Nordsee là 700.000."
+   }
+  }
+ ]
+}
