@@ -1,0 +1,232 @@
+{
+ "book": "gva",
+ "unit": 9,
+ "title_vi": "Mẫu động từ (1)",
+ "theory_html": "<p><b>2.1. Transitive and intransitive verbs</b><br><i>2.1. Ngoại động từ và nội động từ</i></p> <p>Transitive: followed by one object or two objects (indirect object = person, direct object = thing); intransitive: no object, no passive.</p><p><i>Ngoại động từ có một hoặc hai tân ngữ; nội động từ không có tân ngữ, không bị động.</i></p> <p><b>2.2. Verbs with two objects</b><br><i>2.2. Động từ hai tân ngữ</i></p> <p>Reverse order with <b>for / to</b> + indirect object (focus, long indirect object); <b>for</b> with <b>build, find, get</b>; <b>to</b> with <b>give, offer, show</b>; <b>for</b> or <b>to</b> with <b>play, read, write</b> (sometimes different meaning); no reversal with <b>ask, guarantee, refuse</b>; pronoun direct object → <b>it for/to …</b>; only direct object + <b>for</b> (<b>collect, fix, mend</b>) or <b>to</b> (<b>describe, explain, mention</b>).</p><p><i>Đảo tân ngữ với <b>for/to</b>; <b>explain/describe</b> chỉ dùng <b>to</b>; <b>mend/fix</b> chỉ dùng <b>for</b>.</i></p> <p><b>2.3. Verb + object + adjective</b><br><i>2.3. Động từ + tân ngữ + tính từ</i></p> <p><b>believe, consider, prove</b> + object + adjective.</p><p><i><b>consider sth natural</b>.</i></p> <p><b>2.4. Verb + reflexive pronoun</b><br><i>2.4. Động từ + đại từ phản thân</i></p> <p><b>myself, yourself…</b>; optional with <b>adapt to, dress, hide, prepare for, shave, wash</b> (included for emphasis); <b>busy … with, distance … from, pride … on</b>; not used with <b>complain, concentrate, get up, relax, wake up…</b>; personal pronoun after preposition unless clarity needed (<b>for her / for herself</b>).</p><p><i>Đại từ phản thân; tùy chọn với <b>dress, wash</b>; không dùng với <b>relax, wake up</b>.</i></p> <p><b>2.5. Verb + each other / one another</b><br><i>2.5. Động từ + each other / one another</i></p> <p><b>blamed themselves</b> vs <b>blamed each other</b>; <b>with each other</b> after <b>agree, coincide, play</b>; optional after <b>embrace, fight, hug, kiss, marry, meet</b>.</p><p><i><b>themselves</b> (mỗi người tự trách) khác <b>each other</b> (trách lẫn nhau).</i></p>",
+ "items": [
+  {
+   "word": "transitive verb",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈtrænzətɪv vɜːb/",
+   "def_en": "A verb that can be followed by one or two objects.",
+   "def_vi": "Động từ có thể theo sau bởi một hay hai tân ngữ.",
+   "gloss_vi": "ngoại động từ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "intransitive verb <i>(st. nội động từ)</i>",
+   "grammar_vi": "<i>Transitive verb</i> (structure) = ngoại động từ. <b>Grammar</b>: có thể bị động.",
+   "example": {
+    "en": "Interactions between infants will often <b>copy parental speech</b>. (transitive)",
+    "vi": "Trẻ thường <b>bắt chước lời nói</b> của cha mẹ."
+   }
+  },
+  {
+   "word": "intransitive verb",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ɪnˈtrænzətɪv vɜːb/",
+   "def_en": "A verb that can’t be followed by an object and has no passive.",
+   "def_vi": "Động từ không có tân ngữ, không bị động.",
+   "gloss_vi": "nội động từ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "transitive verb <i>(st. ngoại động từ)</i>",
+   "grammar_vi": "<i>Intransitive verb</i> (structure) = nội động từ. <b>Grammar</b>: không có dạng bị động.",
+   "example": {
+    "en": "Infants are keen to <b>interact</b> with others. (intransitive)",
+    "vi": "Trẻ sơ sinh thích <b>tương tác</b> với người khác."
+   }
+  },
+  {
+   "word": "indirect object",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˌɪndərekt ˈɒbdʒɪkt/",
+   "def_en": "The first of two objects, usually a person or group.",
+   "def_vi": "Tân ngữ thứ nhất, thường là người.",
+   "gloss_vi": "tân ngữ gián tiếp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "direct object <i>(st. tân ngữ trực tiếp)</i>",
+   "grammar_vi": "<i>Indirect object</i> (structure) = tân ngữ gián tiếp. <b>Grammar</b>: đảo với <i>for/to</i>: <i>bought a cuddly elephant for my daughter</i>.",
+   "example": {
+    "en": "I recently bought <b>my two-year-old daughter</b> a cuddly elephant",
+    "vi": "Gần đây tôi mua cho <b>con gái hai tuổi</b> một con voi bông."
+   }
+  },
+  {
+   "word": "give sth to sb",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈɡɪv ... tə/",
+   "def_en": "Verbs like give, offer, show use to before the indirect object when reversed.",
+   "def_vi": "give, offer, show dùng to khi đảo tân ngữ.",
+   "gloss_vi": "đưa cái gì cho ai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Give sth to sb</i> (structure) = đưa cái gì cho ai. <b>Grammar</b>: <i>find/build/get</i> dùng <i>for</i>: <i>find the car for me</i>.",
+   "example": {
+    "en": "She <b>gave</b> a toy <b>to</b> me",
+    "vi": "Cô ấy <b>đưa</b> đồ chơi <b>cho</b> tôi."
+   }
+  },
+  {
+   "word": "write to / write for",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈraɪt tə, ˈraɪt fə(r)/",
+   "def_en": "write to = send a letter to; write for = instead of someone.",
+   "def_vi": "write to = gửi cho; write for = thay ai.",
+   "gloss_vi": "viết cho",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Write to / write for</i> (structure) = viết cho. <b>Grammar</b>: <i>play, read, write</i> + <i>for/to</i> có thể khác nghĩa.",
+   "example": {
+    "en": "She was too young to write herself so I <b>wrote the letter for</b> her. (= instead of her)",
+    "vi": "Cô bé còn nhỏ không tự viết được nên tôi <b>viết thư hộ</b> em."
+   }
+  },
+  {
+   "word": "ask (two objects)",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɑːsk/",
+   "def_en": "A verb with two objects whose order cannot be reversed with for/to.",
+   "def_vi": "Động từ hai tân ngữ không đảo bằng for/to được.",
+   "gloss_vi": "hỏi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ask (two objects)</i> (verb) = hỏi. <b>Grammar</b>: cũng <i>guarantee, refuse</i> (không đảo).",
+   "example": {
+    "en": "Most parents <b>ask themselves the question</b>",
+    "vi": "Phần lớn cha mẹ <b>tự hỏi</b> câu: ‘Chúng học từ ta à?’"
+   }
+  },
+  {
+   "word": "it for / it to",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ɪt fə, ɪt tə/",
+   "def_en": "When the direct object is a pronoun, use direct object + for/to + indirect object.",
+   "def_vi": "Khi tân ngữ trực tiếp là đại từ: tân ngữ + for/to + người.",
+   "gloss_vi": "(đại từ) cho ai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>It for / it to</i> (structure) = (đại từ) cho ai. <b>Grammar</b>: tránh <i>Give me it</i> trong văn viết.",
+   "example": {
+    "en": "I bought <b>it for</b> my daughter. Give <b>it to</b> me.",
+    "vi": "Tôi <b>mua nó cho</b> con gái. Đưa <b>nó cho</b> tôi."
+   }
+  },
+  {
+   "word": "explain sth to sb",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ɪkˈspleɪn ... tə/",
+   "def_en": "Verbs like describe, explain, mention only use direct object + to + indirect object.",
+   "def_vi": "describe, explain, mention chỉ dùng tân ngữ + to + người.",
+   "gloss_vi": "giải thích cái gì cho ai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Explain sth to sb</i> (structure) = giải thích cái gì cho ai. <b>Grammar</b>: không <i>describe you this</i>; <i>mend/fix/collect</i> chỉ dùng <i>for</i>: <i>Mend this for me.</i>.",
+   "example": {
+    "en": "Dr Jackman will be <b>describing</b> this process <b>to</b> you in detail.",
+    "vi": "TS Jackman sẽ <b>mô tả</b> quá trình này <b>cho</b> các bạn chi tiết."
+   }
+  },
+  {
+   "word": "consider + object + adjective",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/kənˈsɪdə(r) ˈɒbdʒɪkt ˈædʒɪktɪv/",
+   "def_en": "A verb followed by an object and an adjective.",
+   "def_vi": "Động từ + tân ngữ + tính từ.",
+   "gloss_vi": "coi cái gì là",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Consider + object + adjective</i> (structure) = coi cái gì là. <b>Grammar</b>: cũng <i>believe, prove</i> + tân ngữ + tính từ.",
+   "example": {
+    "en": "We might <b>consider first language learning natural</b>",
+    "vi": "Ta có thể <b>coi việc học ngôn ngữ đầu tiên là tự nhiên</b>."
+   }
+  },
+  {
+   "word": "reflexive pronoun",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/rɪˌfleksɪv ˈprəʊnaʊn/",
+   "def_en": "myself, yourself, etc., used when subject and object are the same.",
+   "def_vi": "Đại từ phản thân khi chủ ngữ và tân ngữ là một.",
+   "gloss_vi": "đại từ phản thân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reflexive pronoun</i> (structure) = đại từ phản thân. <b>Grammar</b>: tùy chọn với <i>dress, wash, hide, prepare for</i>: <i>she dresses (herself)</i>.",
+   "example": {
+    "en": "Let me introduce <b>myself</b>",
+    "vi": "Cho phép tôi <b>tự giới thiệu</b>."
+   }
+  },
+  {
+   "word": "busy yourself with",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈbɪzi jɔːˌself wɪð/",
+   "def_en": "To keep yourself occupied with.",
+   "def_vi": "Tự bận rộn với.",
+   "gloss_vi": "bận rộn với",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Busy yourself with</i> (structure) = bận rộn với. <b>Grammar</b>: cũng <i>distance yourself from, pride yourself on</i>.",
+   "example": {
+    "en": "When children appear to be <b>busying themselves with</b> their toys",
+    "vi": "Khi trẻ có vẻ <b>bận rộn với</b> đồ chơi…"
+   }
+  },
+  {
+   "word": "wake up",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌweɪk ˈʌp/",
+   "def_en": "A verb not used with a reflexive pronoun in English.",
+   "def_vi": "Động từ không dùng đại từ phản thân trong tiếng Anh.",
+   "gloss_vi": "thức dậy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wake up</i> (verb) = thức dậy. <b>Grammar</b>: không <i>wake themselves up</i>; cũng <i>complain, concentrate, relax, meet, sit down</i>.",
+   "example": {
+    "en": "From the moment they <b>wake up</b>",
+    "vi": "Từ lúc chúng <b>thức dậy</b>…"
+   }
+  },
+  {
+   "word": "each other",
+   "sense": "",
+   "pos": "pronoun",
+   "ipa": "/ˌiːtʃ ˈʌðə(r)/",
+   "def_en": "Used when each person does something to the other.",
+   "def_vi": "Dùng khi mỗi người làm gì với người kia.",
+   "gloss_vi": "lẫn nhau",
+   "synonyms": "one another <i>(pron. lẫn nhau)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Each other</i> (pronoun) = lẫn nhau. <b>Grammar</b>: <i>blamed themselves</i> = cả hai tự trách.",
+   "example": {
+    "en": "Sara and Noel blamed <b>each other</b> / one another when their daughter broke her arm.",
+    "vi": "Sara và Noel <b>đổ lỗi cho nhau</b> khi con gãy tay."
+   }
+  },
+  {
+   "word": "play with each other",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˌpleɪ wɪð ˌiːtʃ ˈʌðə(r)/",
+   "def_en": "With agree, coincide, play, use with before each other.",
+   "def_vi": "Với agree, coincide, play, dùng with trước each other.",
+   "gloss_vi": "chơi với nhau",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Play with each other</i> (structure) = chơi với nhau. <b>Grammar</b>: sau <i>hug, kiss, marry, meet</i> có thể bỏ <i>each other</i>.",
+   "example": {
+    "en": "It is wonderful to see two small children <b>playing with each other</b> peacefully.",
+    "vi": "Thật tuyệt khi thấy hai đứa trẻ <b>chơi với nhau</b> yên bình."
+   }
+  }
+ ]
+}
