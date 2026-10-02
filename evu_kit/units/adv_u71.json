@@ -1,0 +1,456 @@
+{
+ "book": "adv",
+ "unit": 71,
+ "title_vi": "Con số: thống kê và số lượng",
+ "theory_html": "<p><b>A. Changes in numbers and quantities</b><br><i>A. Thay đổi số lượng</i></p> <p><b>twofold, threefold</b> (suffix <b>-fold</b> = multiplied by; adverb or adjective), <b>quadruple, by a factor of, drastic, revise upwards / downwards, deviate from the norm, fluctuate, seesaw, erratic</b>.</p><p><i><b>gấp đôi, gấp ba, tăng gấp bốn, gấp… lần, mạnh và đột ngột, điều chỉnh tăng/giảm, chệch khỏi chuẩn, dao động, lên xuống liên tục, thất thường</b>.</i></p> <p><b>B. More expressions for describing statistics</b><br><i>B. Thêm cách mô tả thống kê</i></p> <p><b>aggregate (n/v), blip, correlation between, GDP, expenditure, discrepancy between, ratio, flawed, multiple, inconsistent with</b>.</p><p><i><b>tổng cộng / cộng dồn, biến động tạm thời, tương quan, GDP, chi tiêu, chênh lệch, tỉ lệ, sai sót, nhiều, không khớp</b>.</i></p> <p><b>C. Assessing quantity</b><br><i>C. Ước lượng số lượng</i></p> <p><b>a ballpark figure, tot up, run into six figures, variables, projected figures, err on the side of caution, round down / up, conservative estimate</b>.</p><p><i><b>con số ước chừng, cộng lại, lên đến sáu chữ số, biến số, số liệu dự kiến, thà thận trọng, làm tròn xuống/lên, ước tính dè dặt</b>.</i></p>",
+ "items": [
+  {
+   "word": "twofold",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈtuːfəʊld/",
+   "def_en": "Multiplied by two.",
+   "def_vi": "Nhân đôi.",
+   "gloss_vi": "gấp đôi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Twofold</i> (adverb) = gấp đôi. <b>Grammar</b>: hậu tố <i>-fold</i> = nhân với; dùng như trạng từ hay tính từ.",
+   "example": {
+    "en": "internet use across the world was estimated to have increased <b>twofold</b>",
+    "vi": "Lượng dùng internet toàn cầu ước tăng <b>gấp đôi</b>."
+   }
+  },
+  {
+   "word": "quadruple",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kwɒˈdruːpl/",
+   "def_en": "To increase by four times.",
+   "def_vi": "Tăng lên gấp bốn.",
+   "gloss_vi": "tăng gấp bốn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Quadruple</i> (verb) = tăng gấp bốn. <b>Grammar</b>: tiền tố <i>quad-</i> (bốn).",
+   "example": {
+    "en": "while in China, it <b>quadrupled</b>",
+    "vi": "Ở Trung Quốc, lượng dùng internet <b>tăng gấp bốn</b>."
+   }
+  },
+  {
+   "word": "by a factor of",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/baɪ ə ˈfæktər əv/",
+   "def_en": "Multiplied by.",
+   "def_vi": "Nhân với.",
+   "gloss_vi": "gấp … lần",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>By a factor of</i> (preposition) = gấp … lần. <b>Collocations / chunks</b>: <i>increase by a factor of</i> + số.",
+   "example": {
+    "en": "In the developing world, internet use grew <b>by a factor of</b> three.",
+    "vi": "Ở nước đang phát triển, internet tăng <b>gấp</b> ba <b>lần</b>."
+   }
+  },
+  {
+   "word": "threefold",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈθriːfəʊld/",
+   "def_en": "Multiplied by three.",
+   "def_vi": "Nhân ba.",
+   "gloss_vi": "gấp ba",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Threefold</i> (adjective) = gấp ba. <b>Collocations / chunks</b>: <i>a threefold increase</i>.",
+   "example": {
+    "en": "resulted in a <b>threefold</b> increase in the number of people unable to keep up their mortgage repayments",
+    "vi": "Lãi suất đổi mạnh gây tăng <b>gấp ba</b> số người không trả nổi nợ."
+   }
+  },
+  {
+   "word": "revise upwards",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rɪˌvaɪz ˈʌpwədz/",
+   "def_en": "To change to a higher number.",
+   "def_vi": "Đổi thành số cao hơn.",
+   "gloss_vi": "điều chỉnh tăng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "revise downwards <i>(v. điều chỉnh giảm)</i>",
+   "grammar_vi": "<i>Revise upwards</i> (verb) = điều chỉnh tăng. <b>Collocations / chunks</b>: <i>revise upwards/downwards</i>.",
+   "example": {
+    "en": "The estimated number of stars in the Milky Way has been <b>revised upwards</b> in light of recent discoveries.",
+    "vi": "Số sao ước tính trong Ngân Hà đã được <b>điều chỉnh tăng</b>."
+   }
+  },
+  {
+   "word": "deviate from the norm",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌdiːvieɪt frəm ðə ˈnɔːm/",
+   "def_en": "To move away from the standard or accepted pattern.",
+   "def_vi": "Đi lệch khỏi chuẩn mực.",
+   "gloss_vi": "chệch khỏi quy luật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Deviate from the norm</i> (verb) = chệch khỏi quy luật. <b>Grammar</b>: danh từ <i>deviation</i>.",
+   "example": {
+    "en": "The weather patterns have <b>deviated from the norm</b> in recent years.",
+    "vi": "Thời tiết những năm gần đây đã <b>chệch khỏi quy luật</b>."
+   }
+  },
+  {
+   "word": "fluctuate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈflʌktʃueɪt/",
+   "def_en": "To keep going up and down.",
+   "def_vi": "Cứ lên xuống.",
+   "gloss_vi": "dao động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fluctuate</i> (verb) = dao động. <b>Grammar</b>: danh từ <i>fluctuation</i>.",
+   "example": {
+    "en": "Sales <b>fluctuate</b> from month to month.",
+    "vi": "Doanh số <b>dao động</b> theo từng tháng."
+   }
+  },
+  {
+   "word": "seesaw",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈsiːsɔː/",
+   "def_en": "To go up and down at regular intervals.",
+   "def_vi": "Lên xuống đều đặn.",
+   "gloss_vi": "lên xuống liên tục",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Seesaw</i> (verb) = lên xuống liên tục. <b>Grammar</b>: nghĩa gốc: cái bập bênh.",
+   "example": {
+    "en": "Interest rates have <b>seesawed</b> all year.",
+    "vi": "Lãi suất <b>lên xuống liên tục</b> cả năm."
+   }
+  },
+  {
+   "word": "erratic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪˈrætɪk/",
+   "def_en": "Not regular and often changing suddenly.",
+   "def_vi": "Không đều, hay thay đổi đột ngột.",
+   "gloss_vi": "thất thường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Erratic</i> (adjective) = thất thường. <b>Grammar</b>: trạng từ <i>erratically</i>.",
+   "example": {
+    "en": "Share prices have been <b>erratic</b> this last month.",
+    "vi": "Giá cổ phiếu tháng qua rất <b>thất thường</b>."
+   }
+  },
+  {
+   "word": "aggregate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈæɡrɪɡət/",
+   "def_en": "A total.",
+   "def_vi": "Tổng số.",
+   "gloss_vi": "tổng cộng",
+   "synonyms": "total <i>(n. tổng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Aggregate</i> (noun) = tổng cộng. <b>Grammar</b>: động từ <i>aggregate</i> /ˈæɡrɪɡeɪt/.",
+   "example": {
+    "en": "When the different amounts were added up, the <b>aggregate</b> was £600,000.",
+    "vi": "Khi cộng các khoản lại, <b>tổng cộng</b> là 600.000 bảng."
+   }
+  },
+  {
+   "word": "aggregate",
+   "sense": "add up",
+   "pos": "verb",
+   "ipa": "/ˈæɡrɪɡeɪt/",
+   "def_en": "To add up all the different amounts.",
+   "def_vi": "Cộng tất cả các khoản.",
+   "gloss_vi": "cộng dồn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Aggregate</i> (verb) = cộng dồn. <b>Grammar</b>: danh từ phát âm /-ɡət/, động từ /-ɡeɪt/.",
+   "example": {
+    "en": "I’ve <b>aggregated</b> all the figures.",
+    "vi": "Tôi đã <b>cộng dồn</b> tất cả số liệu."
+   }
+  },
+  {
+   "word": "blip",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/blɪp/",
+   "def_en": "A temporary change.",
+   "def_vi": "Thay đổi tạm thời.",
+   "gloss_vi": "biến động tạm thời",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Blip</i> (noun) = biến động tạm thời. <b>Collocations / chunks</b>: <i>only a blip</i>.",
+   "example": {
+    "en": "the July rise in inflation was only a <b>blip</b>",
+    "vi": "Bộ trưởng nói lạm phát tháng Bảy tăng chỉ là <b>biến động tạm thời</b>."
+   }
+  },
+  {
+   "word": "correlation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkɒrəˈleɪʃn/",
+   "def_en": "A connection between facts or things which cause or affect each other.",
+   "def_vi": "Mối liên hệ giữa các sự việc ảnh hưởng lẫn nhau.",
+   "gloss_vi": "sự tương quan",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Correlation</i> (noun) = sự tương quan. <b>Collocations / chunks</b>: <i>a correlation between A and B</i>.",
+   "example": {
+    "en": "There seems to be a <b>correlation between</b> mathematical and musical ability.",
+    "vi": "Dường như có <b>tương quan</b> giữa năng khiếu toán và âm nhạc."
+   }
+  },
+  {
+   "word": "GDP",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdʒiː diː ˈpiː/",
+   "def_en": "Gross Domestic Product: the total amount that a country produces.",
+   "def_vi": "Tổng sản phẩm quốc nội.",
+   "gloss_vi": "GDP",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>GDP</i> (noun) = GDP. <b>Grammar</b>: viết tắt <i>Gross Domestic Product</i>.",
+   "example": {
+    "en": "The percentage of <b>GDP</b> expenditure which goes on education varies considerably from country to country.",
+    "vi": "Tỉ lệ <b>GDP</b> chi cho giáo dục khác nhau giữa các nước."
+   }
+  },
+  {
+   "word": "expenditure",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪkˈspendɪtʃə(r)/",
+   "def_en": "The amount of money spent on something.",
+   "def_vi": "Số tiền chi cho việc gì.",
+   "gloss_vi": "chi tiêu",
+   "synonyms": "spending <i>(n. chi tiêu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Expenditure</i> (noun) = chi tiêu. <b>Collocations / chunks</b>: <i>expenditure on</i> sth.",
+   "example": {
+    "en": "The percentage of GDP <b>expenditure</b> which goes on education varies considerably",
+    "vi": "Tỉ lệ <b>chi tiêu</b> GDP cho giáo dục khác nhau giữa các nước."
+   }
+  },
+  {
+   "word": "discrepancy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪsˈkrepənsi/",
+   "def_en": "A difference between two things that should be the same.",
+   "def_vi": "Khác biệt giữa hai thứ lẽ ra giống nhau.",
+   "gloss_vi": "sự chênh lệch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Discrepancy</i> (noun) = sự chênh lệch. <b>Collocations / chunks</b>: <i>a discrepancy between A and B</i>.",
+   "example": {
+    "en": "There’s a <b>discrepancy between</b> our figures and yours.",
+    "vi": "Có <b>chênh lệch</b> giữa số liệu của chúng tôi và các bạn."
+   }
+  },
+  {
+   "word": "ratio",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈreɪʃiəʊ/",
+   "def_en": "The relationship between two amounts, expressing how much bigger one is than the other.",
+   "def_vi": "Quan hệ giữa hai lượng, cho thấy cái này lớn hơn bao nhiêu.",
+   "gloss_vi": "tỉ lệ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ratio</i> (noun) = tỉ lệ. <b>Collocations / chunks</b>: <i>the ratio of A to B</i>.",
+   "example": {
+    "en": "The <b>ratio</b> of men to women in the Engineering Faculty was 3 to 1.",
+    "vi": "<b>Tỉ lệ</b> nam nữ ở khoa Kỹ thuật là 3:1."
+   }
+  },
+  {
+   "word": "flawed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/flɔːd/",
+   "def_en": "Inaccurate.",
+   "def_vi": "Không chính xác.",
+   "gloss_vi": "có sai sót",
+   "synonyms": "inaccurate <i>(adj. sai)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flawed</i> (adjective) = có sai sót. <b>Grammar</b>: danh từ <i>flaw</i>.",
+   "example": {
+    "en": "The company’s figures were found to be <b>flawed</b> and the accountant was fired.",
+    "vi": "Số liệu công ty bị phát hiện <b>có sai sót</b> và kế toán bị sa thải."
+   }
+  },
+  {
+   "word": "multiple",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈmʌltɪpl/",
+   "def_en": "Very many of the same type, or of different types.",
+   "def_vi": "Rất nhiều, cùng loại hay khác loại.",
+   "gloss_vi": "nhiều",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Multiple</i> (adjective) = nhiều. <b>Collocations / chunks</b>: <i>multiple injuries</i>.",
+   "example": {
+    "en": "She suffered <b>multiple</b> injuries in the accident.",
+    "vi": "Cô ấy bị <b>nhiều</b> chấn thương trong tai nạn."
+   }
+  },
+  {
+   "word": "inconsistent with",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɪnkənˈsɪstənt wɪð/",
+   "def_en": "Not in agreement with.",
+   "def_vi": "Không khớp với.",
+   "gloss_vi": "không nhất quán với",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "consistent with <i>(adj. phù hợp với)</i>",
+   "grammar_vi": "<i>Inconsistent with</i> (adjective) = không nhất quán với. <b>Grammar</b>: tiền tố <i>in-</i> + <i>consistent</i>.",
+   "example": {
+    "en": "Our data are <b>inconsistent with</b> yours.",
+    "vi": "Dữ liệu của chúng tôi <b>không khớp với</b> của các bạn."
+   }
+  },
+  {
+   "word": "ballpark figure",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɔːlpɑːk ˌfɪɡə(r)/",
+   "def_en": "A guess believed to be accurate.",
+   "def_vi": "Con số đoán khá chính xác.",
+   "gloss_vi": "con số ước chừng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ballpark figure</i> (noun) = con số ước chừng. <b>Collocations / chunks</b>: <i>a ballpark figure/estimate</i>.",
+   "example": {
+    "en": "Let me give you a <b>ballpark figure</b> of how much money we expect to make this year.",
+    "vi": "Để tôi đưa bạn <b>con số ước chừng</b> năm nay mình kiếm được bao nhiêu."
+   }
+  },
+  {
+   "word": "tot up",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌtɒt ˈʌp/",
+   "def_en": "To add everything up (less formal).",
+   "def_vi": "Cộng tất cả lại (ít trang trọng).",
+   "gloss_vi": "cộng lại",
+   "synonyms": "add up <i>(v. cộng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tot up</i> (verb) = cộng lại. <b>Grammar</b>: cụm động từ tách được <i>tot sth up</i>.",
+   "example": {
+    "en": "If I <b>tot</b> everything <b>up</b>",
+    "vi": "Nếu tôi <b>cộng</b> tất cả <b>lại</b>."
+   }
+  },
+  {
+   "word": "run into six figures",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌrʌn ˌɪntə ˌsɪks ˈfɪɡəz/",
+   "def_en": "To get a figure over 100,000.",
+   "def_vi": "Đạt con số trên 100.000.",
+   "gloss_vi": "lên đến sáu chữ số",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Run into six figures</i> (verb) = lên đến sáu chữ số. <b>Collocations / chunks</b>: <i>run into</i> + số.",
+   "example": {
+    "en": "we begin to <b>run into six figures</b>",
+    "vi": "Ta bắt đầu <b>lên đến sáu chữ số</b>."
+   }
+  },
+  {
+   "word": "variables",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈveəriəblz/",
+   "def_en": "Different factors that may change.",
+   "def_vi": "Các yếu tố có thể thay đổi.",
+   "gloss_vi": "biến số",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Variables</i> (noun) = biến số. <b>Grammar</b>: tính từ <i>variable</i> = hay thay đổi.",
+   "example": {
+    "en": "There are a lot of <b>variables</b>",
+    "vi": "Có nhiều <b>biến số</b>."
+   }
+  },
+  {
+   "word": "projected figures",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/prəˌdʒektɪd ˈfɪɡəz/",
+   "def_en": "Planned figures.",
+   "def_vi": "Số liệu dự kiến.",
+   "gloss_vi": "số liệu dự kiến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Projected figures</i> (noun) = số liệu dự kiến. <b>Collocations / chunks</b>: <i>projected</i> = dự kiến.",
+   "example": {
+    "en": "our <b>projected figures</b> may not be all that accurate",
+    "vi": "<b>Số liệu dự kiến</b> có thể không chính xác lắm."
+   }
+  },
+  {
+   "word": "err on the side of caution",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɜːr ɒn ðə ˌsaɪd əv ˈkɔːʃn/",
+   "def_en": "To be cautious.",
+   "def_vi": "Thận trọng.",
+   "gloss_vi": "thà thận trọng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Err on the side of caution</i> (verb) = thà thận trọng. <b>Collocations / chunks</b>: thành ngữ cố định.",
+   "example": {
+    "en": "So I’ve <b>erred on the side of caution</b>",
+    "vi": "Nên tôi <b>thà thận trọng</b>."
+   }
+  },
+  {
+   "word": "round down",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌraʊnd ˈdaʊn/",
+   "def_en": "To make, say, 2.5 into 2 rather than 3.",
+   "def_vi": "Làm 2,5 thành 2 thay vì 3.",
+   "gloss_vi": "làm tròn xuống",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "round up <i>(v. làm tròn lên)</i>",
+   "grammar_vi": "<i>Round down</i> (verb) = làm tròn xuống. <b>Grammar</b>: cụm động từ tách được <i>round sth down</i>.",
+   "example": {
+    "en": "I’ve <b>rounded</b> things <b>down</b> rather than up",
+    "vi": "Tôi <b>làm tròn xuống</b> chứ không làm tròn lên."
+   }
+  },
+  {
+   "word": "conservative",
+   "sense": "cautious estimate",
+   "pos": "adjective",
+   "ipa": "/kənˈsɜːvətɪv/",
+   "def_en": "(Of an estimate) cautious.",
+   "def_vi": "(Ước tính) thận trọng.",
+   "gloss_vi": "dè dặt, thận trọng",
+   "synonyms": "cautious <i>(adj. thận trọng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Conservative</i> (adjective) = dè dặt, thận trọng. <b>Collocations / chunks</b>: <i>a conservative estimate</i>.",
+   "example": {
+    "en": "in order to give you a <b>conservative</b> estimate",
+    "vi": "Để đưa ra ước tính <b>dè dặt</b>."
+   }
+  }
+ ]
+}
