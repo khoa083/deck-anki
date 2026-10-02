@@ -1,0 +1,235 @@
+{
+ "book": "bus",
+ "unit": 45,
+ "title_vi": "Kinh doanh xuyên văn hóa 1",
+ "theory_html": "<p><b>A. Cultures and culture</b><br><i>A. Văn hóa</i></p> <p><b>culture</b> = ‘the way we do things round here’: <b>values, beliefs</b>; <b>business culture, company / corporate culture, long-hours culture, macho culture, sales culture, learning culture</b>; <b>stereotypes</b>.</p><p><i><b>văn hóa = cách chúng ta làm việc ở đây: giá trị, niềm tin; văn hóa kinh doanh, văn hóa công ty, văn hóa làm nhiều giờ, văn hóa nam quyền, văn hóa bán hàng, văn hóa học tập; định kiến</b>.</i></p> <p><b>B. Power and distance</b><br><i>B. Quyền lực và khoảng cách</i></p> <p><b>cultural differences, power–distance, cultural dimensions, low / high power–distance culture, accessible, approachable, decision-making, team of equals, distant, remote, deference, forms of address, familiar, hierarchical, management layers, delayering</b>.</p><p><i><b>khác biệt văn hóa, khoảng cách quyền lực, khía cạnh văn hóa, văn hóa khoảng cách quyền lực thấp/cao, nhóm bình đẳng, sự tôn kính, cách xưng hô, thân thuộc, phân cấp, tầng quản lý</b>.</i></p>",
+ "items": [
+  {
+   "word": "culture",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkʌltʃə(r)/",
+   "def_en": "‘The way we do things round here’ in a country, organization, etc.",
+   "def_vi": "‘Cách chúng ta làm việc ở đây’ của một nước, tổ chức.",
+   "gloss_vi": "văn hóa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Culture</i> (noun) = văn hóa. <b>Collocations / chunks</b>: <i>business/company/long-hours culture</i>.",
+   "example": {
+    "en": "<b>Culture</b> is the ‘way we do things round here’.",
+    "vi": "<b>Văn hóa</b> là ‘cách chúng ta làm việc ở đây’."
+   }
+  },
+  {
+   "word": "values",
+   "sense": "what people think important",
+   "pos": "noun",
+   "ipa": "/ˈvæljuːz/",
+   "def_en": "Things that people think are important.",
+   "def_vi": "Điều người ta cho là quan trọng.",
+   "gloss_vi": "giá trị",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Values</i> (noun) = giá trị. <b>Grammar</b>: số nhiều.",
+   "example": {
+    "en": "It includes <b>values</b> – things that people think are important",
+    "vi": "Văn hóa gồm <b>giá trị</b> – điều người ta thấy quan trọng."
+   }
+  },
+  {
+   "word": "beliefs",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bɪˈliːfs/",
+   "def_en": "Things that people believe in.",
+   "def_vi": "Điều người ta tin vào.",
+   "gloss_vi": "niềm tin",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Beliefs</i> (noun) = niềm tin. <b>Grammar</b>: động từ <i>believe</i>.",
+   "example": {
+    "en": "and <b>beliefs</b> – things that people believe in",
+    "vi": "Và <b>niềm tin</b> – điều người ta tin."
+   }
+  },
+  {
+   "word": "business culture",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɪznəs ˌkʌltʃə(r)/",
+   "def_en": "The way business is done in a particular place.",
+   "def_vi": "Cách làm kinh doanh ở một nơi.",
+   "gloss_vi": "văn hóa kinh doanh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Business culture</i> (noun) = văn hóa kinh doanh. <b>Collocations / chunks</b>: cụm danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>business culture</b> in Japan is very different.",
+    "vi": "<b>Văn hóa kinh doanh</b> là cách các công ty hoạt động ở một nơi."
+   }
+  },
+  {
+   "word": "long-hours culture",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌlɒŋ ˈaʊəz ˌkʌltʃə(r)/",
+   "def_en": "Where people are expected to work a long time each day.",
+   "def_vi": "Nơi người ta phải làm nhiều giờ mỗi ngày.",
+   "gloss_vi": "văn hóa làm nhiều giờ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Long-hours culture</i> (noun) = văn hóa làm nhiều giờ. <b>Collocations / chunks</b>: cụm danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "This company has a <b>long-hours culture</b>.",
+    "vi": "Công ty này có <b>văn hóa làm nhiều giờ</b>."
+   }
+  },
+  {
+   "word": "learning culture",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlɜːnɪŋ ˌkʌltʃə(r)/",
+   "def_en": "When learning and innovation are seen as important.",
+   "def_vi": "Khi học tập và đổi mới được coi trọng.",
+   "gloss_vi": "văn hóa học tập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Learning culture</i> (noun) = văn hóa học tập. <b>Collocations / chunks</b>: cụm danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "They want to build a <b>learning culture</b>.",
+    "vi": "Họ muốn xây dựng <b>văn hóa học tập</b>."
+   }
+  },
+  {
+   "word": "stereotype",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsteriətaɪp/",
+   "def_en": "A fixed idea that may not be true.",
+   "def_vi": "Ý niệm cố định có thể không đúng.",
+   "gloss_vi": "định kiến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stereotype</i> (noun) = định kiến. <b>Grammar</b>: tính từ <i>stereotypical</i>.",
+   "example": {
+    "en": "But you must be careful of <b>stereotypes</b> – fixed ideas that may not be true.",
+    "vi": "Phải cẩn thận với <b>định kiến</b>."
+   }
+  },
+  {
+   "word": "cultural differences",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkʌltʃərəl ˈdɪfrənsɪz/",
+   "def_en": "Ways in which cultures differ.",
+   "def_vi": "Những điểm khác nhau giữa các nền văn hóa.",
+   "gloss_vi": "khác biệt văn hóa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cultural differences</i> (noun) = khác biệt văn hóa. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "Geert Hofstede is a world-famous expert on <b>cultural differences</b>.",
+    "vi": "Hofstede là chuyên gia về <b>khác biệt văn hóa</b>."
+   }
+  },
+  {
+   "word": "power–distance",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpaʊə ˈdɪstəns/",
+   "def_en": "The degree to which people accept that power is unequal between managers and employees.",
+   "def_vi": "Mức chấp nhận quyền lực chênh lệch giữa quản lý và nhân viên.",
+   "gloss_vi": "khoảng cách quyền lực",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Power–distance</i> (noun) = khoảng cách quyền lực. <b>Collocations / chunks</b>: <i>low/high power–distance culture</i>.",
+   "example": {
+    "en": "<b>Power–distance</b> is one of the important cultural dimensions that he identified.",
+    "vi": "<b>Khoảng cách quyền lực</b> là một khía cạnh văn hóa quan trọng."
+   }
+  },
+  {
+   "word": "team of equals",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌtiːm əv ˈiːkwəlz/",
+   "def_en": "A group where everyone’s opinion is treated equally.",
+   "def_vi": "Nhóm mà ý kiến mọi người ngang nhau.",
+   "gloss_vi": "nhóm bình đẳng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Team of equals</i> (noun) = nhóm bình đẳng. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "as part of a <b>team of equals</b> – everyone’s opinion is treated equally",
+    "vi": "Nhân viên tham gia ra quyết định như một <b>nhóm bình đẳng</b>."
+   }
+  },
+  {
+   "word": "deference",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdefərəns/",
+   "def_en": "Respect.",
+   "def_vi": "Sự kính trọng.",
+   "gloss_vi": "sự tôn kính",
+   "synonyms": "respect <i>(n. kính trọng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Deference</i> (noun) = sự tôn kính. <b>Grammar</b>: động từ <i>defer to</i>.",
+   "example": {
+    "en": "show a lot of <b>deference</b> – respect – to them",
+    "vi": "Nhân viên thể hiện nhiều <b>tôn kính</b> với quản lý."
+   }
+  },
+  {
+   "word": "forms of address",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌfɔːmz əv əˈdres/",
+   "def_en": "Ways of addressing people that show how familiar you are with them.",
+   "def_vi": "Cách xưng hô cho thấy mức thân quen.",
+   "gloss_vi": "cách xưng hô",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Forms of address</i> (noun) = cách xưng hô. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "Some languages have many <b>forms of address</b> that you use to indicate how familiar you are with someone.",
+    "vi": "Vài ngôn ngữ có nhiều <b>cách xưng hô</b>."
+   }
+  },
+  {
+   "word": "hierarchical",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌhaɪəˈrɑːkɪkl/",
+   "def_en": "With many management levels.",
+   "def_vi": "Có nhiều cấp quản lý.",
+   "gloss_vi": "phân cấp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hierarchical</i> (adjective) = phân cấp. <b>Grammar</b>: danh từ <i>hierarchy</i>.",
+   "example": {
+    "en": "French companies are on the whole more <b>hierarchical</b> than Swedish ones",
+    "vi": "Công ty Pháp nhìn chung <b>phân cấp</b> hơn công ty Thụy Điển."
+   }
+  },
+  {
+   "word": "management layers",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmænɪdʒmənt ˌleɪəz/",
+   "def_en": "Different levels of management.",
+   "def_vi": "Các cấp quản lý.",
+   "gloss_vi": "tầng quản lý",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Management layers</i> (noun) = tầng quản lý. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "with only three <b>management layers</b> – different levels",
+    "vi": "Công ty Thụy Điển chỉ có ba <b>tầng quản lý</b>."
+   }
+  }
+ ]
+}

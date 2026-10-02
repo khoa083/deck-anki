@@ -1,0 +1,360 @@
+{
+ "book": "bus",
+ "unit": 44,
+ "title_vi": "Lãnh đạo và phong cách quản lý",
+ "theory_html": "<p><b>A. Leadership</b><br><i>A. Khả năng lãnh đạo</i></p> <p><b>leadership, subordinates, command and control, leadership skills, born leaders; charisma, charismatic, visionary (adj/n), vision, drive, dynamism, energy</b>.</p><p><i><b>khả năng lãnh đạo, cấp dưới, mệnh lệnh và kiểm soát, kỹ năng lãnh đạo, người lãnh đạo bẩm sinh; sức hút, có sức hút, nhìn xa trông rộng, tầm nhìn, động lực, năng nổ, nghị lực</b>.</i></p> <p><b>B. Modern management styles</b><br><i>B. Phong cách quản lý hiện đại</i></p> <p><b>distant, remote, accessible, approachable, management style, consultation, consensus, impose, top-down, consensual, authoritarian</b>.</p><p><i><b>xa cách, khó gần, dễ tiếp cận, dễ gần, phong cách quản lý, tham vấn, đồng thuận, áp đặt, từ trên xuống, theo đồng thuận, độc đoán</b>.</i></p> <p><b>C. Empowerment</b><br><i>C. Trao quyền</i></p> <p><b>initiative, empowerment, decision-making, decentralized, bureaucratic, delegate, delegation</b>.</p><p><i><b>sáng kiến, trao quyền, ra quyết định, phi tập trung, quan liêu, ủy quyền, sự ủy quyền</b>.</i></p>",
+ "items": [
+  {
+   "word": "subordinate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/səˈbɔːdɪnət/",
+   "def_en": "A person working under someone.",
+   "def_vi": "Người làm dưới quyền.",
+   "gloss_vi": "cấp dưới",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "superior <i>(n. cấp trên)</i>",
+   "grammar_vi": "<i>Subordinate</i> (noun) = cấp dưới. <b>Grammar</b>: cũng là tính từ.",
+   "example": {
+    "en": "Managers and army officers give orders and their <b>subordinates</b> – people working under them – carry them out",
+    "vi": "Quản lý ra lệnh và <b>cấp dưới</b> thực hiện."
+   }
+  },
+  {
+   "word": "command and control",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəˌmɑːnd ən kənˈtrəʊl/",
+   "def_en": "A system where managers give orders and subordinates carry them out.",
+   "def_vi": "Hệ thống quản lý ra lệnh, cấp dưới thực hiện.",
+   "gloss_vi": "mệnh lệnh và kiểm soát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Command and control</i> (noun) = mệnh lệnh và kiểm soát. <b>Collocations / chunks</b>: mô hình quân đội.",
+   "example": {
+    "en": "carry them out in a system of <b>command and control</b>",
+    "vi": "Trong hệ thống <b>mệnh lệnh và kiểm soát</b>."
+   }
+  },
+  {
+   "word": "born leader",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌbɔːn ˈliːdə(r)/",
+   "def_en": "Someone with a natural talent for leadership.",
+   "def_vi": "Người có tài lãnh đạo bẩm sinh.",
+   "gloss_vi": "người lãnh đạo bẩm sinh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Born leader</i> (noun) = người lãnh đạo bẩm sinh. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "Some people say that the only real leaders are <b>born leaders</b>.",
+    "vi": "Có người nói lãnh đạo thực sự là <b>người lãnh đạo bẩm sinh</b>."
+   }
+  },
+  {
+   "word": "charisma",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəˈrɪzmə/",
+   "def_en": "An attractive quality that makes people admire you and want to follow you.",
+   "def_vi": "Phẩm chất cuốn hút khiến người khác ngưỡng mộ, đi theo.",
+   "gloss_vi": "sức hút",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Charisma</i> (noun) = sức hút. <b>Grammar</b>: tính từ <i>charismatic</i>.",
+   "example": {
+    "en": "The greatest leaders have <b>charisma</b> – an attractive quality that makes other people admire them",
+    "vi": "Lãnh đạo vĩ đại nhất có <b>sức hút</b>."
+   }
+  },
+  {
+   "word": "charismatic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌkærɪzˈmætɪk/",
+   "def_en": "Having charisma.",
+   "def_vi": "Có sức hút.",
+   "gloss_vi": "có sức hút",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Charismatic</i> (adjective) = có sức hút. <b>Grammar</b>: danh từ <i>charisma</i>.",
+   "example": {
+    "en": "A <b>charismatic</b> leader like this may be described as visionary",
+    "vi": "Lãnh đạo <b>có sức hút</b> như vậy."
+   }
+  },
+  {
+   "word": "visionary",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈvɪʒənri/",
+   "def_en": "Having the power to see clearly how things are going to develop in the future.",
+   "def_vi": "Có khả năng thấy rõ tương lai sẽ ra sao.",
+   "gloss_vi": "có tầm nhìn xa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Visionary</i> (adjective) = có tầm nhìn xa. <b>Grammar</b>: cũng là danh từ <i>a visionary</i>.",
+   "example": {
+    "en": "may be described as <b>visionary</b> – having the power to see clearly how things are going to develop in the future",
+    "vi": "Có thể mô tả là <b>có tầm nhìn xa</b>."
+   }
+  },
+  {
+   "word": "vision",
+   "sense": "foresight",
+   "pos": "noun",
+   "ipa": "/ˈvɪʒn/",
+   "def_en": "The ability to see how things will develop in the future.",
+   "def_vi": "Khả năng thấy tương lai sẽ phát triển ra sao.",
+   "gloss_vi": "tầm nhìn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Vision</i> (noun) = tầm nhìn. <b>Grammar</b>: nghĩa lãnh đạo.",
+   "example": {
+    "en": "Someone like this is a visionary and is said to have <b>vision</b>.",
+    "vi": "Người như vậy được cho là có <b>tầm nhìn</b>."
+   }
+  },
+  {
+   "word": "drive",
+   "sense": "determination",
+   "pos": "noun",
+   "ipa": "/draɪv/",
+   "def_en": "Planned effort to achieve something.",
+   "def_vi": "Nỗ lực có kế hoạch để đạt gì.",
+   "gloss_vi": "động lực, nghị lực",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Drive</i> (noun) = động lực, nghị lực. <b>Grammar</b>: nghĩa phẩm chất.",
+   "example": {
+    "en": "Leaders are often described as having the following: <b>drive</b> – planned effort to achieve something",
+    "vi": "Lãnh đạo thường có <b>động lực</b>."
+   }
+  },
+  {
+   "word": "dynamism",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdaɪnəmɪzəm/",
+   "def_en": "A lot of ideas and enthusiasm.",
+   "def_vi": "Nhiều ý tưởng và nhiệt huyết.",
+   "gloss_vi": "sự năng động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dynamism</i> (noun) = sự năng động. <b>Grammar</b>: tính từ <i>dynamic</i>.",
+   "example": {
+    "en": "<b>dynamism</b> – a lot of ideas and enthusiasm",
+    "vi": "<b>Năng động</b> – nhiều ý tưởng và nhiệt huyết."
+   }
+  },
+  {
+   "word": "remote",
+   "sense": "not approachable",
+   "pos": "adjective",
+   "ipa": "/rɪˈməʊt/",
+   "def_en": "Not easy to get to know or communicate with.",
+   "def_vi": "Khó làm quen, giao tiếp.",
+   "gloss_vi": "xa cách, khó gần",
+   "synonyms": "distant <i>(adj. xa cách)</i>",
+   "antonyms": "approachable <i>(adj. dễ gần)</i>",
+   "grammar_vi": "<i>Remote</i> (adjective) = xa cách, khó gần. <b>Grammar</b>: nghĩa tính cách.",
+   "example": {
+    "en": "Before, leaders were distant and <b>remote</b> – not easy to get to know or communicate with.",
+    "vi": "Trước đây lãnh đạo xa cách và <b>khó gần</b>."
+   }
+  },
+  {
+   "word": "approachable",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əˈprəʊtʃəbl/",
+   "def_en": "Easy to meet and to talk to.",
+   "def_vi": "Dễ gặp và nói chuyện.",
+   "gloss_vi": "dễ gần",
+   "synonyms": "accessible <i>(adj. dễ tiếp cận)</i>",
+   "antonyms": "remote <i>(adj. khó gần)</i>",
+   "grammar_vi": "<i>Approachable</i> (adjective) = dễ gần. <b>Grammar</b>: động từ <i>approach</i>.",
+   "example": {
+    "en": "But now managers are more accessible and <b>approachable</b> – easy to meet and to talk to.",
+    "vi": "Giờ quản lý dễ tiếp cận và <b>dễ gần</b>."
+   }
+  },
+  {
+   "word": "management style",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmænɪdʒmənt staɪl/",
+   "def_en": "The way a manager manages people.",
+   "def_vi": "Cách quản lý người.",
+   "gloss_vi": "phong cách quản lý",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Management style</i> (noun) = phong cách quản lý. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "This is a completely different <b>management style</b>.",
+    "vi": "Đây là <b>phong cách quản lý</b> hoàn toàn khác."
+   }
+  },
+  {
+   "word": "consultation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkɒnslˈteɪʃn/",
+   "def_en": "Getting everyone to participate in making decisions that will affect them.",
+   "def_vi": "Cho mọi người tham gia quyết định ảnh hưởng họ.",
+   "gloss_vi": "sự tham vấn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Consultation</i> (noun) = sự tham vấn. <b>Grammar</b>: động từ <i>consult</i>.",
+   "example": {
+    "en": "They want to involve employees in a process of <b>consultation</b>",
+    "vi": "Họ muốn nhân viên tham gia quá trình <b>tham vấn</b>."
+   }
+  },
+  {
+   "word": "consensus",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kənˈsensəs/",
+   "def_en": "A situation where most people agree with decisions taken.",
+   "def_vi": "Tình huống đa số đồng ý với quyết định.",
+   "gloss_vi": "sự đồng thuận",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Consensus</i> (noun) = sự đồng thuận. <b>Grammar</b>: tính từ <i>consensual</i>.",
+   "example": {
+    "en": "This is management by <b>consensus</b> – a situation where most people agree with the decisions taken.",
+    "vi": "Đây là quản lý theo <b>đồng thuận</b>."
+   }
+  },
+  {
+   "word": "impose",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪmˈpəʊz/",
+   "def_en": "To force people to accept ideas they do not agree with.",
+   "def_vi": "Ép người khác chấp nhận ý không đồng ý.",
+   "gloss_vi": "áp đặt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Impose</i> (verb) = áp đặt. <b>Collocations / chunks</b>: <i>impose decisions on</i> sb.",
+   "example": {
+    "en": "The old style was to <b>impose</b> decisions in a top-down approach",
+    "vi": "Kiểu cũ là <b>áp đặt</b> quyết định từ trên xuống."
+   }
+  },
+  {
+   "word": "top-down",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌtɒp ˈdaʊn/",
+   "def_en": "(Of an approach) where decisions are made by managers and passed down.",
+   "def_vi": "(Cách tiếp cận) quyết định từ cấp trên truyền xuống.",
+   "gloss_vi": "từ trên xuống",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "bottom-up <i>(adj. từ dưới lên)</i>",
+   "grammar_vi": "<i>Top-down</i> (adjective) = từ trên xuống. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "to impose decisions in a <b>top-down</b> approach",
+    "vi": "Áp đặt quyết định theo cách <b>từ trên xuống</b>."
+   }
+  },
+  {
+   "word": "authoritarian",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɔːˌθɒrɪˈteəriən/",
+   "def_en": "Forcing people to obey and not allowing them freedom.",
+   "def_vi": "Bắt người tuân lệnh, không cho tự do.",
+   "gloss_vi": "độc đoán",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "consensual <i>(adj. theo đồng thuận)</i>",
+   "grammar_vi": "<i>Authoritarian</i> (adjective) = độc đoán. <b>Grammar</b>: danh từ <i>authority</i>.",
+   "example": {
+    "en": "more able to build consensus than traditional <b>authoritarian</b> male managers",
+    "vi": "Hơn các nam quản lý <b>độc đoán</b> truyền thống."
+   }
+  },
+  {
+   "word": "initiative",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪˈnɪʃətɪv/",
+   "def_en": "The ability to decide what to do without being told.",
+   "def_vi": "Khả năng tự quyết định mà không cần chỉ bảo.",
+   "gloss_vi": "sự chủ động, sáng kiến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Initiative</i> (noun) = sự chủ động, sáng kiến. <b>Collocations / chunks</b>: <i>use your initiative</i>.",
+   "example": {
+    "en": "Encouraging employees to use their own <b>initiative</b> to take decisions on their own",
+    "vi": "Khuyến khích nhân viên dùng <b>sự chủ động</b> của mình."
+   }
+  },
+  {
+   "word": "empowerment",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪmˈpaʊəmənt/",
+   "def_en": "Encouraging employees to take decisions without asking managers first.",
+   "def_vi": "Khuyến khích nhân viên tự quyết định.",
+   "gloss_vi": "sự trao quyền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Empowerment</i> (noun) = sự trao quyền. <b>Grammar</b>: động từ <i>empower</i>.",
+   "example": {
+    "en": "This is <b>empowerment</b>.",
+    "vi": "Đây là <b>trao quyền</b>."
+   }
+  },
+  {
+   "word": "decentralized",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌdiːˈsentrəlaɪzd/",
+   "def_en": "(Of decision-making) less dependent on central managers.",
+   "def_vi": "(Ra quyết định) ít phụ thuộc quản lý trung tâm.",
+   "gloss_vi": "phi tập trung",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "centralized <i>(adj. tập trung)</i>",
+   "grammar_vi": "<i>Decentralized</i> (adjective) = phi tập trung. <b>Grammar</b>: tiền tố <i>de-</i>.",
+   "example": {
+    "en": "Decision-making becomes more <b>decentralized</b> and less bureaucratic",
+    "vi": "Việc ra quyết định trở nên <b>phi tập trung</b> hơn."
+   }
+  },
+  {
+   "word": "bureaucratic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌbjʊərəˈkrætɪk/",
+   "def_en": "Dependent on managers and management systems; with rigid rules.",
+   "def_vi": "Phụ thuộc quản lý, quy tắc cứng nhắc.",
+   "gloss_vi": "quan liêu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bureaucratic</i> (adjective) = quan liêu. <b>Grammar</b>: danh từ <i>bureaucracy</i>.",
+   "example": {
+    "en": "and less <b>bureaucratic</b> – less dependent on managers and management systems",
+    "vi": "Ít <b>quan liêu</b> hơn – ít phụ thuộc vào quản lý."
+   }
+  },
+  {
+   "word": "delegate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈdelɪɡeɪt/",
+   "def_en": "To give other people responsibility for work.",
+   "def_vi": "Giao trách nhiệm cho người khác.",
+   "gloss_vi": "ủy quyền, giao việc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Delegate</i> (verb) = ủy quyền, giao việc. <b>Grammar</b>: danh từ <i>delegation</i>.",
+   "example": {
+    "en": "This is related to the ability of managers to <b>delegate</b> – to give other people responsibility for work",
+    "vi": "Khả năng <b>giao việc</b> của quản lý."
+   }
+  }
+ ]
+}

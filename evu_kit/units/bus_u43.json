@@ -1,0 +1,328 @@
+{
+ "book": "bus",
+ "unit": 43,
+ "title_vi": "Căng thẳng và quản lý căng thẳng",
+ "theory_html": "<p><b>A. When work is stimulating</b><br><i>A. Khi công việc kích thích</i></p> <p><b>rewarding, stretched, stimulating, challenging</b>.</p><p><i><b>đáng làm, được thử thách, kích thích, thử thách thú vị</b>.</i></p> <p><b>B. When stimulation turns to stress</b><br><i>B. Khi kích thích thành căng thẳng</i></p> <p><b>pressure, overwhelmed, demands, stress, stress-induced, under stress, stressed out, overwork, breakdown, burned out</b>.</p><p><i><b>áp lực, quá tải, đòi hỏi, căng thẳng, do căng thẳng gây ra, chịu căng thẳng, căng thẳng tột độ, làm việc quá sức, suy sụp, kiệt sức</b>.</i></p> <p><b>C. Downshifting</b><br><i>C. Giảm nhịp sống</i></p> <p><b>rat race, treadmill, lifestyles, stressful, unstressful, quality of life, quality time, work–life balance, downshifting / rebalancing, downshifters</b>.</p><p><i><b>cuộc đua chuột, vòng lặp nhàm chán, lối sống, căng thẳng, không căng thẳng, chất lượng cuộc sống, thời gian chất lượng, cân bằng công việc – cuộc sống, sống chậm lại, người sống chậm</b>.</i></p>",
+ "items": [
+  {
+   "word": "rewarding",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/rɪˈwɔːdɪŋ/",
+   "def_en": "Giving satisfaction.",
+   "def_vi": "Mang lại sự hài lòng.",
+   "gloss_vi": "đáng làm, bổ ích",
+   "synonyms": "satisfying <i>(adj. thỏa mãn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rewarding</i> (adjective) = đáng làm, bổ ích. <b>Collocations / chunks</b>: <i>a rewarding job</i>.",
+   "example": {
+    "en": "I wanted to do something <b>rewarding</b> – something that gave me satisfaction",
+    "vi": "Tôi muốn làm việc gì đó <b>bổ ích</b>."
+   }
+  },
+  {
+   "word": "stretched",
+   "sense": "challenged",
+   "pos": "adjective",
+   "ipa": "/stretʃt/",
+   "def_en": "Feeling that work is sometimes difficult but stimulating.",
+   "def_vi": "Thấy việc đôi khi khó nhưng kích thích.",
+   "gloss_vi": "được thử thách",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stretched</i> (adjective) = được thử thách. <b>Grammar</b>: nghĩa tích cực.",
+   "example": {
+    "en": "I felt <b>stretched</b> – I had the feeling that work could sometimes be difficult",
+    "vi": "Tôi thấy mình <b>được thử thách</b>."
+   }
+  },
+  {
+   "word": "stimulating",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈstɪmjuleɪtɪŋ/",
+   "def_en": "Interesting and making you feel good.",
+   "def_vi": "Thú vị và làm bạn thấy tốt.",
+   "gloss_vi": "kích thích, hứng thú",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "dull <i>(adj. buồn tẻ)</i>",
+   "grammar_vi": "<i>Stimulating</i> (adjective) = kích thích, hứng thú. <b>Grammar</b>: động từ <i>stimulate</i>.",
+   "example": {
+    "en": "but that it was <b>stimulating</b>, it interested me and made me feel good",
+    "vi": "Nhưng việc rất <b>hứng thú</b>, làm tôi thấy vui."
+   }
+  },
+  {
+   "word": "challenging",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈtʃælɪndʒɪŋ/",
+   "def_en": "Difficult, but in an interesting and enjoyable way.",
+   "def_vi": "Khó nhưng thú vị.",
+   "gloss_vi": "đầy thử thách",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Challenging</i> (adjective) = đầy thử thách. <b>Grammar</b>: danh từ <i>challenge</i>.",
+   "example": {
+    "en": "It was certainly <b>challenging</b> – difficult, but in an interesting and enjoyable way.",
+    "vi": "Chắc chắn công việc <b>đầy thử thách</b>."
+   }
+  },
+  {
+   "word": "pressure",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpreʃə(r)/",
+   "def_en": "The feeling of having too much to do.",
+   "def_vi": "Cảm giác có quá nhiều việc.",
+   "gloss_vi": "áp lực",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pressure</i> (noun) = áp lực. <b>Collocations / chunks</b>: <i>under pressure</i>.",
+   "example": {
+    "en": "I felt <b>pressure</b> building up",
+    "vi": "Tôi thấy <b>áp lực</b> tăng dần."
+   }
+  },
+  {
+   "word": "overwhelmed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌəʊvəˈwelmd/",
+   "def_en": "Feeling unable to do work because the pressure is too high.",
+   "def_vi": "Thấy không làm nổi vì áp lực quá cao.",
+   "gloss_vi": "bị quá tải",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Overwhelmed</i> (adjective) = bị quá tải. <b>Collocations / chunks</b>: <i>overwhelmed by/with</i> sth.",
+   "example": {
+    "en": "I began to feel <b>overwhelmed</b> by work",
+    "vi": "Tôi bắt đầu thấy <b>quá tải</b> vì công việc."
+   }
+  },
+  {
+   "word": "demands",
+   "sense": "what employer wants",
+   "pos": "noun",
+   "ipa": "/dɪˈmɑːndz/",
+   "def_en": "What an employer wants from you.",
+   "def_vi": "Điều chủ muốn ở bạn.",
+   "gloss_vi": "yêu cầu, đòi hỏi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Demands</i> (noun) = yêu cầu, đòi hỏi. <b>Grammar</b>: số nhiều.",
+   "example": {
+    "en": "because the pressure and my employer’s <b>demands</b> – what they wanted – were too high",
+    "vi": "Áp lực và <b>yêu cầu</b> của chủ quá cao."
+   }
+  },
+  {
+   "word": "stress-induced",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈstres ɪnˌdjuːst/",
+   "def_en": "Caused by stress.",
+   "def_vi": "Do căng thẳng gây ra.",
+   "gloss_vi": "do căng thẳng gây ra",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stress-induced</i> (adjective) = do căng thẳng gây ra. <b>Grammar</b>: tính từ ghép <i>noun</i> + <i>-induced</i>.",
+   "example": {
+    "en": "My doctor agreed and said that it was <b>stress-induced</b>.",
+    "vi": "Bác sĩ đồng ý rằng đó là <b>do căng thẳng</b>."
+   }
+  },
+  {
+   "word": "under stress",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʌndə ˈstres/",
+   "def_en": "Experiencing stress.",
+   "def_vi": "Đang bị căng thẳng.",
+   "gloss_vi": "chịu căng thẳng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Under stress</i> (adjective) = chịu căng thẳng. <b>Collocations / chunks</b>: cụm cố định.",
+   "example": {
+    "en": "one of my colleagues, who was also continually <b>under stress</b>",
+    "vi": "Đồng nghiệp tôi liên tục <b>chịu căng thẳng</b>."
+   }
+  },
+  {
+   "word": "stressed out",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌstrest ˈaʊt/",
+   "def_en": "Extremely stressed (informal).",
+   "def_vi": "Cực kỳ căng thẳng (thân mật).",
+   "gloss_vi": "căng thẳng tột độ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stressed out</i> (adjective) = căng thẳng tột độ. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "He became so <b>stressed out</b> because of overwork",
+    "vi": "Anh ấy <b>căng thẳng tột độ</b> vì làm quá sức."
+   }
+  },
+  {
+   "word": "overwork",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌəʊvəˈwɜːk/",
+   "def_en": "Working too much.",
+   "def_vi": "Làm việc quá nhiều.",
+   "gloss_vi": "làm việc quá sức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Overwork</i> (noun) = làm việc quá sức. <b>Grammar</b>: cũng là động từ.",
+   "example": {
+    "en": "because of <b>overwork</b>",
+    "vi": "Anh ấy căng thẳng vì <b>làm việc quá sức</b>."
+   }
+  },
+  {
+   "word": "breakdown",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbreɪkdaʊn/",
+   "def_en": "A mental illness caused by stress.",
+   "def_vi": "Bệnh tâm lý do căng thẳng.",
+   "gloss_vi": "suy sụp tinh thần",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Breakdown</i> (noun) = suy sụp tinh thần. <b>Collocations / chunks</b>: <i>nervous breakdown</i>.",
+   "example": {
+    "en": "that he had a <b>breakdown</b>",
+    "vi": "Anh ấy bị <b>suy sụp tinh thần</b>."
+   }
+  },
+  {
+   "word": "burned out",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌbɜːnd ˈaʊt/",
+   "def_en": "So stressed and tired by work that you cannot work again.",
+   "def_vi": "Căng thẳng, mệt đến mức không làm việc lại được.",
+   "gloss_vi": "kiệt sức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Burned out</i> (adjective) = kiệt sức. <b>Grammar</b>: danh từ <i>burnout</i>.",
+   "example": {
+    "en": "He’s completely <b>burned out</b> – so stressed and tired by his work that he will never be able to work again.",
+    "vi": "Anh ấy hoàn toàn <b>kiệt sức</b>."
+   }
+  },
+  {
+   "word": "rat race",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈræt reɪs/",
+   "def_en": "Competitive working life.",
+   "def_vi": "Cuộc sống làm việc cạnh tranh.",
+   "gloss_vi": "cuộc đua chuột",
+   "synonyms": "treadmill <i>(n. vòng lặp nhàm chán)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rat race</i> (noun) = cuộc đua chuột. <b>Collocations / chunks</b>: <i>escape the rat race</i>.",
+   "example": {
+    "en": "More and more people want to escape the <b>rat race</b>",
+    "vi": "Nhiều người muốn thoát <b>cuộc đua chuột</b>."
+   }
+  },
+  {
+   "word": "treadmill",
+   "sense": "competitive routine",
+   "pos": "noun",
+   "ipa": "/ˈtredmɪl/",
+   "def_en": "The feeling that work is too competitive and repetitive.",
+   "def_vi": "Cảm giác công việc quá cạnh tranh và lặp lại.",
+   "gloss_vi": "vòng lặp nhàm chán",
+   "synonyms": "rat race <i>(n. cuộc đua chuột)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Treadmill</i> (noun) = vòng lặp nhàm chán. <b>Grammar</b>: nghĩa bóng.",
+   "example": {
+    "en": "and get off the <b>treadmill</b> – the feeling that work is too competitive",
+    "vi": "Họ muốn thoát khỏi <b>vòng lặp nhàm chán</b>."
+   }
+  },
+  {
+   "word": "stressful",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈstresfl/",
+   "def_en": "Causing stress.",
+   "def_vi": "Gây căng thẳng.",
+   "gloss_vi": "căng thẳng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "unstressful <i>(adj. không căng thẳng)</i>",
+   "grammar_vi": "<i>Stressful</i> (adjective) = căng thẳng. <b>Grammar</b>: <i>stress</i> + <i>-ful</i>.",
+   "example": {
+    "en": "are looking for lifestyles that are less <b>stressful</b> or completely unstressful",
+    "vi": "Họ tìm lối sống ít <b>căng thẳng</b>."
+   }
+  },
+  {
+   "word": "quality of life",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkwɒləti əv ˈlaɪf/",
+   "def_en": "A more relaxed way of living.",
+   "def_vi": "Cách sống thoải mái hơn.",
+   "gloss_vi": "chất lượng cuộc sống",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Quality of life</i> (noun) = chất lượng cuộc sống. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "People are looking for a better <b>quality of life</b> – a more relaxed way of living",
+    "vi": "Người ta tìm <b>chất lượng cuộc sống</b> tốt hơn."
+   }
+  },
+  {
+   "word": "quality time",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkwɒləti taɪm/",
+   "def_en": "Time spent enjoying being with family, not just doing tasks.",
+   "def_vi": "Thời gian vui vẻ với gia đình, không chỉ làm việc vặt.",
+   "gloss_vi": "thời gian chất lượng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Quality time</i> (noun) = thời gian chất lượng. <b>Collocations / chunks</b>: <i>spend quality time with</i>.",
+   "example": {
+    "en": "perhaps they are looking for more <b>quality time</b> with their children",
+    "vi": "Họ muốn thêm <b>thời gian chất lượng</b> với con."
+   }
+  },
+  {
+   "word": "work–life balance",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌwɜːk laɪf ˈbæləns/",
+   "def_en": "A balance between the demands of a job and relaxation time with family and friends.",
+   "def_vi": "Cân bằng giữa công việc và thời gian nghỉ với gia đình.",
+   "gloss_vi": "cân bằng công việc – cuộc sống",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Work–life balance</i> (noun) = cân bằng công việc – cuộc sống. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "All this is part of <b>work–life balance</b>",
+    "vi": "Tất cả là một phần của <b>cân bằng công việc – cuộc sống</b>."
+   }
+  },
+  {
+   "word": "downshifting",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdaʊnʃɪftɪŋ/",
+   "def_en": "Choosing to work in less stressful ways.",
+   "def_vi": "Chọn làm việc ít căng thẳng hơn.",
+   "gloss_vi": "sống chậm lại",
+   "synonyms": "rebalancing <i>(n. tái cân bằng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Downshifting</i> (noun) = sống chậm lại. <b>Grammar</b>: người = <i>downshifter</i>.",
+   "example": {
+    "en": "Choosing to work in less stressful ways is known as <b>downshifting</b> or rebalancing",
+    "vi": "Chọn làm ít căng thẳng hơn gọi là <b>sống chậm lại</b>."
+   }
+  }
+ ]
+}
