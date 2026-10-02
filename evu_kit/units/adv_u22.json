@@ -1,0 +1,520 @@
+{
+ "book": "adv",
+ "unit": 22,
+ "title_vi": "Nói về sách",
+ "theory_html": "<p><b>A. Blurbs</b><br><i>A. Lời giới thiệu sách</i></p> <p>A <b>blurb</b> is a short text, usually on the back cover, describing what the book is about: <b>poignant, chronicle, acclaimed, compelling, lugubrious, macabre, chilling, page-turner, insight, gripping, enigmatic, breathtaking, wry, evocative, eponymous, protagonist, engaging</b>.</p><p><i><b>Blurb</b> là đoạn ngắn ở bìa sau giới thiệu nội dung: <b>xót xa, biên niên, được ca ngợi, cuốn hút, u ám, rùng rợn, lạnh gáy, sách khó rời tay, sự thấu hiểu, lôi cuốn, bí ẩn, ngoạn mục, châm biếm nhẹ, gợi cảm xúc, cùng tên, nhân vật chính, thú vị</b>.</i></p> <p><b>B. Some other types of books</b><br><i>B. Một số loại sách khác</i></p> <p><b>journal</b> (daily written record; also academic publication), <b>memoirs, encyclopedia, anthology, manual, logbook</b>.</p><p><i><b>nhật ký/tạp chí, hồi ký, bách khoa toàn thư, tuyển tập, sách hướng dẫn, sổ ghi chép hành trình</b>.</i></p> <p><b>CM. Common mistakes</b><br><i>CM. Lỗi thường gặp</i></p> <p>An academic publication containing articles by different authors that is issued periodically is normally called a <b>journal</b> (NOT <b>magazine</b>).</p><p><i>Ấn phẩm học thuật định kỳ gọi là <b>journal</b>, không gọi <b>magazine</b>.</i></p> <p><b>C. Other expressions for talking about books</b><br><i>C. Cụm từ khác về sách</i></p> <p><b>compulsive reading</b> (formal), <b>can’t put down</b> (informal), <b>informative, ahead of its time, a product of its time, lightweight, bedtime reading, heavy going, get into, readership</b>.</p><p><i><b>đọc không dứt ra được, không thể rời tay, nhiều thông tin, đi trước thời đại, sản phẩm của thời đại, nhẹ nhàng, sách đọc trước giờ ngủ, khó đọc, nhập tâm, lượng độc giả</b>.</i></p>",
+ "items": [
+  {
+   "word": "blurb",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/blɜːb/",
+   "def_en": "A short text on the back cover of a book describing what it is about.",
+   "def_vi": "Đoạn ngắn ở bìa sau giới thiệu sách.",
+   "gloss_vi": "lời giới thiệu (bìa sau)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Blurb</i> (noun) = lời giới thiệu (bìa sau). <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "A <b>blurb</b> is a short text, usually printed on the back cover of a book, describing what the book is about.",
+    "vi": "<b>Lời giới thiệu bìa sau</b> là đoạn ngắn mô tả nội dung sách."
+   }
+  },
+  {
+   "word": "poignant",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈpɔɪnjənt/",
+   "def_en": "Moving and sad.",
+   "def_vi": "Cảm động và buồn.",
+   "gloss_vi": "xót xa",
+   "synonyms": "moving <i>(adj. cảm động)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Poignant</i> (adjective) = xót xa. <b>Grammar</b>: /ˈpɔɪnjənt/.",
+   "example": {
+    "en": "Woman of Snow is a <b>poignant</b> chronicle of childhood in a small American town.",
+    "vi": "Một biên niên <b>xót xa</b> về tuổi thơ ở một thị trấn nhỏ."
+   }
+  },
+  {
+   "word": "chronicle",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkrɒnɪkl/",
+   "def_en": "A description of a sequence of events.",
+   "def_vi": "Mô tả chuỗi sự kiện.",
+   "gloss_vi": "biên niên",
+   "synonyms": "account <i>(n. bản tường thuật)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chronicle</i> (noun) = biên niên. <b>Grammar</b>: cũng động từ.",
+   "example": {
+    "en": "Woman of Snow is a poignant <b>chronicle</b> of childhood.",
+    "vi": "Một <b>biên niên</b> xót xa về tuổi thơ."
+   }
+  },
+  {
+   "word": "acclaimed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əˈkleɪmd/",
+   "def_en": "Praised by the public.",
+   "def_vi": "Được công chúng ca ngợi.",
+   "gloss_vi": "được ca ngợi",
+   "synonyms": "lauded <i>(adj. được tán dương)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Acclaimed</i> (adjective) = được ca ngợi. <b>Grammar</b>: <i>critically acclaimed</i>.",
+   "example": {
+    "en": "The third novel by this <b>acclaimed</b> writer.",
+    "vi": "Tiểu thuyết thứ ba của nhà văn <b>được ca ngợi</b> này."
+   }
+  },
+  {
+   "word": "compelling",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kəmˈpelɪŋ/",
+   "def_en": "Very interesting and engaging.",
+   "def_vi": "Rất thú vị, cuốn hút.",
+   "gloss_vi": "cuốn hút",
+   "synonyms": "gripping <i>(adj. lôi cuốn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Compelling</i> (adjective) = cuốn hút. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "This is a <b>compelling</b> tale of mystery, love and betrayal.",
+    "vi": "Đây là câu chuyện <b>cuốn hút</b> về bí ẩn, tình yêu và phản bội."
+   }
+  },
+  {
+   "word": "lugubrious",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/luˈɡuːbriəs/",
+   "def_en": "Rather dark, mournful and gloomy.",
+   "def_vi": "Khá u ám, sầu thảm.",
+   "gloss_vi": "u ám, sầu thảm",
+   "synonyms": "gloomy <i>(adj. ảm đạm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lugubrious</i> (adjective) = u ám, sầu thảm. <b>Grammar</b>: cũng dùng cho người.",
+   "example": {
+    "en": "in a <b>lugubrious</b> setting",
+    "vi": "Trong một bối cảnh <b>u ám</b>."
+   }
+  },
+  {
+   "word": "macabre",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/məˈkɑːbrə/",
+   "def_en": "Often cruel or disgusting, concerned with death.",
+   "def_vi": "Tàn ác, ghê rợn, liên quan đến cái chết.",
+   "gloss_vi": "rùng rợn",
+   "synonyms": "gruesome <i>(adj. ghê rợn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Macabre</i> (adjective) = rùng rợn. <b>Grammar</b>: /məˈkɑːbrə/.",
+   "example": {
+    "en": "A <b>macabre</b> and chilling account of an unsolved murder.",
+    "vi": "Một câu chuyện <b>rùng rợn</b> về vụ giết người chưa giải."
+   }
+  },
+  {
+   "word": "chilling",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈtʃɪlɪŋ/",
+   "def_en": "Causing great fear.",
+   "def_vi": "Gây sợ hãi lớn.",
+   "gloss_vi": "lạnh gáy",
+   "synonyms": "frightening <i>(adj. đáng sợ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chilling</i> (adjective) = lạnh gáy. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "A macabre and <b>chilling</b> account of an unsolved murder.",
+    "vi": "Một câu chuyện rùng rợn và <b>lạnh gáy</b>."
+   }
+  },
+  {
+   "word": "page-turner",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpeɪdʒ tɜːnə(r)/",
+   "def_en": "A powerful story that keeps you interested.",
+   "def_vi": "Câu chuyện hấp dẫn khiến bạn đọc mãi.",
+   "gloss_vi": "sách khó rời tay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Page-turner</i> (noun) = sách khó rời tay. <b>Grammar</b>: danh từ ghép <i>page</i> + <i>turner</i>.",
+   "example": {
+    "en": "A <b>page-turner</b> full of brilliant moments of insight.",
+    "vi": "Một cuốn <b>sách khó rời tay</b> đầy khoảnh khắc thấu hiểu."
+   }
+  },
+  {
+   "word": "insight",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɪnsaɪt/",
+   "def_en": "The ability to understand what something is really like.",
+   "def_vi": "Khả năng hiểu bản chất điều gì.",
+   "gloss_vi": "sự thấu hiểu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Insight</i> (noun) = sự thấu hiểu. <b>Grammar</b>: <i>insight into sth</i>.",
+   "example": {
+    "en": "full of brilliant moments of <b>insight</b>",
+    "vi": "Đầy những khoảnh khắc <b>thấu hiểu</b> tuyệt vời."
+   }
+  },
+  {
+   "word": "enigmatic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌenɪɡˈmætɪk/",
+   "def_en": "Mysterious.",
+   "def_vi": "Bí ẩn.",
+   "gloss_vi": "bí ẩn",
+   "synonyms": "mysterious <i>(adj. bí ẩn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Enigmatic</i> (adjective) = bí ẩn. <b>Grammar</b>: <i>enigma</i> (n.).",
+   "example": {
+    "en": "a gripping and <b>enigmatic</b> tale",
+    "vi": "Một câu chuyện lôi cuốn và <b>bí ẩn</b>."
+   }
+  },
+  {
+   "word": "breathtaking",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈbreθteɪkɪŋ/",
+   "def_en": "Amazing.",
+   "def_vi": "Đáng kinh ngạc.",
+   "gloss_vi": "ngoạn mục",
+   "synonyms": "stunning <i>(adj. tuyệt đẹp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Breathtaking</i> (adjective) = ngoạn mục. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "A <b>breathtaking</b> achievement.",
+    "vi": "Một thành tựu <b>ngoạn mục</b>."
+   }
+  },
+  {
+   "word": "wry",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/raɪ/",
+   "def_en": "Showing humour in the face of a bad situation.",
+   "def_vi": "Hài hước trước tình huống xấu.",
+   "gloss_vi": "châm biếm nhẹ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wry</i> (adjective) = châm biếm nhẹ. <b>Collocations / chunks</b>: <i>wry humour / smile</i>.",
+   "example": {
+    "en": "a combination of <b>wry</b> humour and evocative scenes",
+    "vi": "Sự kết hợp giữa óc hài hước <b>châm biếm nhẹ</b> và cảnh gợi cảm xúc."
+   }
+  },
+  {
+   "word": "eponymous",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪˈpɒnɪməs/",
+   "def_en": "Having the same name as the title of the book.",
+   "def_vi": "Trùng tên với nhan đề sách.",
+   "gloss_vi": "cùng tên (với tác phẩm)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Eponymous</i> (adjective) = cùng tên (với tác phẩm). <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "Jim Lawless, the <b>eponymous</b> protagonist of Arkrow’s latest novel.",
+    "vi": "Jim Lawless, nhân vật chính <b>cùng tên</b> với tiểu thuyết."
+   }
+  },
+  {
+   "word": "protagonist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/prəˈtæɡənɪst/",
+   "def_en": "The main character.",
+   "def_vi": "Nhân vật chính.",
+   "gloss_vi": "nhân vật chính",
+   "synonyms": "hero <i>(n. người hùng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Protagonist</i> (noun) = nhân vật chính. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "Jim Lawless, the eponymous <b>protagonist</b> of Arkrow’s latest novel.",
+    "vi": "Jim Lawless là <b>nhân vật chính</b> cùng tên."
+   }
+  },
+  {
+   "word": "engaging",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪnˈɡeɪdʒɪŋ/",
+   "def_en": "Pleasant and interesting.",
+   "def_vi": "Dễ chịu, thú vị.",
+   "gloss_vi": "lôi cuốn, thú vị",
+   "synonyms": "charming <i>(adj. duyên dáng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Engaging</i> (adjective) = lôi cuốn, thú vị. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "It is an <b>engaging</b> tale.",
+    "vi": "Đó là câu chuyện <b>thú vị</b>."
+   }
+  },
+  {
+   "word": "journal",
+   "sense": "diary",
+   "pos": "noun",
+   "ipa": "/ˈdʒɜːnl/",
+   "def_en": "A written record of what you have done each day.",
+   "def_vi": "Ghi chép những gì làm mỗi ngày.",
+   "gloss_vi": "nhật ký",
+   "synonyms": "diary <i>(n. nhật ký)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Journal</i> (noun) = nhật ký. <b>Common mistakes</b>: cũng = tạp chí học thuật.",
+   "example": {
+    "en": "A <b>journal</b> is a written record of what you have done each day, e.g. a learning journal.",
+    "vi": "<b>Nhật ký</b> là ghi chép việc làm hằng ngày, như nhật ký học tập."
+   }
+  },
+  {
+   "word": "memoirs",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmemwɑːz/",
+   "def_en": "A written record of a person’s own life, typically by a politician or military figure.",
+   "def_vi": "Ghi chép đời mình, thường của chính trị gia, quân nhân.",
+   "gloss_vi": "hồi ký",
+   "synonyms": "autobiography <i>(n. tự truyện)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Memoirs</i> (noun) = hồi ký. <b>Grammar</b>: /ˈmemwɑːz/, số nhiều.",
+   "example": {
+    "en": "<b>Memoirs</b> are a written record of a person’s own life.",
+    "vi": "<b>Hồi ký</b> thường do chính trị gia viết."
+   }
+  },
+  {
+   "word": "encyclopedia",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˌsaɪkləˈpiːdiə/",
+   "def_en": "A book or set of books containing articles in alphabetical order on human knowledge.",
+   "def_vi": "Sách gồm các mục theo bảng chữ cái về tri thức.",
+   "gloss_vi": "bách khoa toàn thư",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Encyclopedia</i> (noun) = bách khoa toàn thư. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "An <b>encyclopedia</b> is a book or set of books containing articles arranged in alphabetical order.",
+    "vi": "<b>Bách khoa toàn thư</b> chứa các mục xếp theo chữ cái."
+   }
+  },
+  {
+   "word": "anthology",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ænˈθɒlədʒi/",
+   "def_en": "A collection of poems or stories by different authors.",
+   "def_vi": "Tập hợp thơ, truyện của nhiều tác giả.",
+   "gloss_vi": "tuyển tập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Anthology</i> (noun) = tuyển tập. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "An <b>anthology</b> is a collection of, for example, poems or short stories by different authors.",
+    "vi": "<b>Tuyển tập</b> gồm thơ hay truyện ngắn của nhiều tác giả."
+   }
+  },
+  {
+   "word": "manual",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmænjuəl/",
+   "def_en": "A technical book with instructions.",
+   "def_vi": "Sách kỹ thuật có hướng dẫn.",
+   "gloss_vi": "sách hướng dẫn",
+   "synonyms": "handbook <i>(n. sổ tay)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Manual</i> (noun) = sách hướng dẫn. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "A <b>manual</b> is usually a technical book with instructions, for example, a car manual.",
+    "vi": "<b>Sách hướng dẫn</b> thường là sách kỹ thuật."
+   }
+  },
+  {
+   "word": "logbook",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlɒɡbʊk/",
+   "def_en": "A book that records events, times, journeys, etc.",
+   "def_vi": "Sổ ghi sự kiện, thời gian, hành trình.",
+   "gloss_vi": "sổ nhật trình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Logbook</i> (noun) = sổ nhật trình. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "A <b>logbook</b> is a book that records events, times, etc.",
+    "vi": "<b>Sổ nhật trình</b> ghi mọi chuyến đi của xe tải hay tàu."
+   }
+  },
+  {
+   "word": "compulsive reading",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəmˌpʌlsɪv ˈriːdɪŋ/",
+   "def_en": "A book that is difficult to stop reading once you’ve started (formal).",
+   "def_vi": "Sách khó dừng đọc khi đã bắt đầu (trang trọng).",
+   "gloss_vi": "sách đọc không dứt ra được",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Compulsive reading</i> (noun) = sách đọc không dứt ra được. <b>Grammar</b>: trang trọng; thân mật: <i>can’t put down</i>.",
+   "example": {
+    "en": "It’s <b>compulsive reading</b>.",
+    "vi": "Đó là cuốn <b>đọc không dứt ra được</b>."
+   }
+  },
+  {
+   "word": "can’t put down",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkɑːnt ˌpʊt ˈdaʊn/",
+   "def_en": "To find a book too interesting to stop reading (informal).",
+   "def_vi": "Thấy sách quá hay không thể ngừng (thân mật).",
+   "gloss_vi": "không thể rời tay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Can’t put down</i> (verb) = không thể rời tay. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "It’s one of those books you just <b>can’t put down</b>.",
+    "vi": "Đó là loại sách bạn <b>không thể rời tay</b>."
+   }
+  },
+  {
+   "word": "informative",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪnˈfɔːmətɪv/",
+   "def_en": "Giving a lot of useful information.",
+   "def_vi": "Cung cấp nhiều thông tin hữu ích.",
+   "gloss_vi": "nhiều thông tin",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Informative</i> (adjective) = nhiều thông tin. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "It’s very <b>informative</b>.",
+    "vi": "Sách rất <b>nhiều thông tin</b>."
+   }
+  },
+  {
+   "word": "ahead of its time",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əˌhed əv ɪts ˈtaɪm/",
+   "def_en": "Containing ideas that no one else had yet thought of at that time.",
+   "def_vi": "Có ý tưởng chưa ai nghĩ tới vào lúc đó.",
+   "gloss_vi": "đi trước thời đại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ahead of its time</i> (adjective) = đi trước thời đại. <b>Collocations / chunks</b>: cụm tính từ cố định <i>ahead of its time</i>.",
+   "example": {
+    "en": "Nancy Riley’s novel about mental breakdown was <b>ahead of its time</b>.",
+    "vi": "Tiểu thuyết của Nancy Riley <b>đi trước thời đại</b>."
+   }
+  },
+  {
+   "word": "a product of its time",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ə ˌprɒdʌkt əv ɪts ˈtaɪm/",
+   "def_en": "A reflection of the time when it was made.",
+   "def_vi": "Phản ánh thời đại ra đời.",
+   "gloss_vi": "sản phẩm của thời đại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A product of its time</i> (noun) = sản phẩm của thời đại. <b>Collocations / chunks</b>: cụm danh từ cố định <i>a product of its time</i>.",
+   "example": {
+    "en": "Her 1955 book Exciting Careers for Women was <b>a product of its time</b>.",
+    "vi": "Cuốn sách năm 1955 của bà là <b>sản phẩm của thời đại</b>."
+   }
+  },
+  {
+   "word": "lightweight",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈlaɪtweɪt/",
+   "def_en": "Not complex (slightly negative).",
+   "def_vi": "Không phức tạp (hơi tiêu cực).",
+   "gloss_vi": "nhẹ nhàng, không sâu sắc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lightweight</i> (adjective) = nhẹ nhàng, không sâu sắc. <b>Grammar</b>: hơi tiêu cực.",
+   "example": {
+    "en": "In fact it’s rather <b>lightweight</b>.",
+    "vi": "Thực ra cuốn sách khá <b>nhẹ nhàng</b>."
+   }
+  },
+  {
+   "word": "bedtime reading",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbedtaɪm ˌriːdɪŋ/",
+   "def_en": "Something nice to read in bed.",
+   "def_vi": "Thứ dễ chịu để đọc trên giường.",
+   "gloss_vi": "sách đọc trước giờ ngủ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bedtime reading</i> (noun) = sách đọc trước giờ ngủ. <b>Collocations / chunks</b>: cụm danh từ cố định <i>bedtime reading</i>.",
+   "example": {
+    "en": "It’s good <b>bedtime reading</b>.",
+    "vi": "Đây là <b>sách đọc trước giờ ngủ</b> hay."
+   }
+  },
+  {
+   "word": "heavy going",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌhevi ˈɡəʊɪŋ/",
+   "def_en": "Difficult to read.",
+   "def_vi": "Khó đọc.",
+   "gloss_vi": "khó đọc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Heavy going</i> (adjective) = khó đọc. <b>Collocations / chunks</b>: cụm tính từ cố định <i>heavy going</i>.",
+   "example": {
+    "en": "His last one was <b>heavy going</b>.",
+    "vi": "Cuốn trước của ông ấy <b>khó đọc</b>."
+   }
+  },
+  {
+   "word": "get into",
+   "sense": "engage",
+   "pos": "verb",
+   "ipa": "/ˌɡet ˈɪntuː/",
+   "def_en": "To become involved or engaged with something.",
+   "def_vi": "Trở nên nhập tâm.",
+   "gloss_vi": "nhập tâm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get into</i> (verb) = nhập tâm. <b>Grammar</b>: <i>get into a book</i>.",
+   "example": {
+    "en": "I just couldn’t <b>get into</b> it.",
+    "vi": "Tôi không thể <b>nhập tâm</b> vào nó."
+   }
+  },
+  {
+   "word": "readership",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈriːdəʃɪp/",
+   "def_en": "The number of people who read something.",
+   "def_vi": "Số người đọc.",
+   "gloss_vi": "lượng độc giả",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Readership</i> (noun) = lượng độc giả. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "His books always attract a wide <b>readership</b>.",
+    "vi": "Sách ông luôn thu hút <b>lượng độc giả</b> lớn."
+   }
+  }
+ ]
+}

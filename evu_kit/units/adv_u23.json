@@ -1,0 +1,408 @@
+{
+ "book": "adv",
+ "unit": 23,
+ "title_vi": "Thực phẩm: công thức cho thảm họa",
+ "theory_html": "<p><b>A. Describing food products</b><br><i>A. Mô tả sản phẩm thực phẩm</i></p> <p>Labels can be vague (<b>wholesome</b>, ‘farm fresh’), and <b>additives</b> numbers are often incomprehensible. Some descriptions have a clear meaning: <b>wholefoods, free-range eggs, gluten-free bread, no artificial colours or preservatives</b>. Clear descriptions matter for people with <b>allergies</b>, <b>vegans</b>, those wanting <b>unprocessed</b> food, those concerned about <b>animal welfare</b> and <b>battery-farming</b>. With <b>convenience foods</b> growing, <b>nutrition labels</b> such as <b>traffic-light labelling</b> matter; good labels also show <b>fair trade</b> products.</p><p><i>Nhãn có thể mơ hồ; một số mô tả có nghĩa chính thức rõ ràng. Mô tả chính xác quan trọng với người dị ứng, người ăn thuần chay, người quan tâm phúc lợi động vật. Nhãn dinh dưỡng dạng đèn giao thông và hàng thương mại công bằng.</i></p> <p><b>B. Food metaphors</b><br><i>B. Ẩn dụ về thức ăn</i></p> <p><b>a recipe for, cook up a story, all the ingredients of, stew (in your own juice), my cup of tea, grill, half-baked, spice up, unsavoury, turn sour, juicy</b>.</p><p><i><b>công thức dẫn tới, bịa chuyện, có đủ yếu tố, để ai lo lắng, sở thích của tôi, tra hỏi, nửa vời, làm sinh động, bất hảo, trở nên tồi tệ, giật gân</b>.</i></p>",
+ "items": [
+  {
+   "word": "wholesome",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈhəʊlsəm/",
+   "def_en": "Good for you.",
+   "def_vi": "Tốt cho sức khỏe.",
+   "gloss_vi": "lành mạnh, bổ dưỡng",
+   "synonyms": "healthy <i>(adj. lành mạnh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wholesome</i> (adjective) = lành mạnh, bổ dưỡng. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "Adjectives such as ‘<b>wholesome</b>’, ‘farm fresh’ and ‘homemade’ can be rather vague and meaningless.",
+    "vi": "Tính từ như ‘<b>bổ dưỡng</b>’ có thể khá mơ hồ."
+   }
+  },
+  {
+   "word": "additive",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈædətɪv/",
+   "def_en": "A substance added to food to improve its taste or appearance or to preserve it.",
+   "def_vi": "Chất thêm vào thức ăn để cải thiện vị, hình thức hay bảo quản.",
+   "gloss_vi": "phụ gia",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Additive</i> (noun) = phụ gia. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "The international numbering system for <b>additives</b> is often incomprehensible.",
+    "vi": "Hệ thống đánh số <b>phụ gia</b> thường khó hiểu."
+   }
+  },
+  {
+   "word": "wholefoods",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhəʊlfuːdz/",
+   "def_en": "Foods with none of their natural features taken away and no artificial substances added.",
+   "def_vi": "Thực phẩm giữ nguyên tính tự nhiên, không chất nhân tạo.",
+   "gloss_vi": "thực phẩm nguyên chất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wholefoods</i> (noun) = thực phẩm nguyên chất. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "Some familiar descriptions, however, do have a clear official meaning, for example ‘<b>wholefoods</b>’.",
+    "vi": "‘<b>Thực phẩm nguyên chất</b>’ có nghĩa chính thức rõ ràng."
+   }
+  },
+  {
+   "word": "free-range",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌfriː ˈreɪndʒ/",
+   "def_en": "Produced by farm animals allowed to move around outside, not kept in cages.",
+   "def_vi": "Do vật nuôi thả tự do sản xuất.",
+   "gloss_vi": "thả vườn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "battery <i>(adj. nuôi lồng)</i>",
+   "grammar_vi": "<i>Free-range</i> (adjective) = thả vườn. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "‘<b>free-range</b> eggs’",
+    "vi": "Trứng gà <b>thả vườn</b>."
+   }
+  },
+  {
+   "word": "gluten-free",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɡluːtn ˈfriː/",
+   "def_en": "Not containing a protein found in wheat and some other grains.",
+   "def_vi": "Không chứa gluten.",
+   "gloss_vi": "không chứa gluten",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gluten-free</i> (adjective) = không chứa gluten. <b>Grammar</b>: <i>-free</i> = không có.",
+   "example": {
+    "en": "‘<b>gluten-free</b> bread’",
+    "vi": "Bánh mì <b>không chứa gluten</b>."
+   }
+  },
+  {
+   "word": "preservative",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/prɪˈzɜːvətɪv/",
+   "def_en": "A chemical used to stop food from decaying.",
+   "def_vi": "Hóa chất ngăn thức ăn hỏng.",
+   "gloss_vi": "chất bảo quản",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Preservative</i> (noun) = chất bảo quản. <b>Grammar</b>: <i>preserve</i> (v.).",
+   "example": {
+    "en": "contains no artificial colours or <b>preservatives</b>",
+    "vi": "Không chứa phẩm màu hay <b>chất bảo quản</b> nhân tạo."
+   }
+  },
+  {
+   "word": "allergy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈælədʒi/",
+   "def_en": "A condition that makes a person ill after eating certain foods or being near certain substances.",
+   "def_vi": "Tình trạng phản ứng khi ăn hay tiếp xúc chất nào đó.",
+   "gloss_vi": "dị ứng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Allergy</i> (noun) = dị ứng. <b>Grammar</b>: <i>allergic (to)</i> (adj.).",
+   "example": {
+    "en": "Clear descriptions can be vital for people who suffer from food <b>allergies</b>.",
+    "vi": "Mô tả chính xác rất quan trọng với người bị <b>dị ứng</b> thực phẩm."
+   }
+  },
+  {
+   "word": "vegan",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈviːɡən/",
+   "def_en": "A person who does not eat or use any animal products.",
+   "def_vi": "Người không ăn, dùng sản phẩm động vật.",
+   "gloss_vi": "người ăn thuần chay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Vegan</i> (noun) = người ăn thuần chay. <b>Grammar</b>: /ˈviːɡən/.",
+   "example": {
+    "en": "vegetarians or <b>vegans</b> who want to know exactly what is in a product",
+    "vi": "Người ăn chay hay <b>ăn thuần chay</b> muốn biết chính xác thành phần."
+   }
+  },
+  {
+   "word": "unprocessed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ʌnˈprəʊsest/",
+   "def_en": "Not treated with chemicals to preserve them or add taste or colour.",
+   "def_vi": "Không xử lý hóa chất bảo quản, tạo vị, màu.",
+   "gloss_vi": "chưa qua chế biến",
+   "synonyms": "natural <i>(adj. tự nhiên)</i>",
+   "antonyms": "processed <i>(adj. đã chế biến)</i>",
+   "grammar_vi": "<i>Unprocessed</i> (adjective) = chưa qua chế biến. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "consumers looking for natural or <b>unprocessed</b> foods",
+    "vi": "Người tìm thực phẩm tự nhiên hoặc <b>chưa qua chế biến</b>."
+   }
+  },
+  {
+   "word": "animal welfare",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌænɪml ˈwelfeə(r)/",
+   "def_en": "Taking care of animals.",
+   "def_vi": "Chăm sóc động vật.",
+   "gloss_vi": "phúc lợi động vật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Animal welfare</i> (noun) = phúc lợi động vật. <b>Collocations / chunks</b>: cụm danh từ cố định <i>animal welfare</i>.",
+   "example": {
+    "en": "those concerned about <b>animal welfare</b>",
+    "vi": "Những người quan tâm <b>phúc lợi động vật</b>."
+   }
+  },
+  {
+   "word": "battery-farming",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbætəri fɑːmɪŋ/",
+   "def_en": "Producing eggs or meat cheaply by keeping birds in rows of small cages.",
+   "def_vi": "Sản xuất trứng, thịt rẻ bằng nuôi gà trong lồng nhỏ.",
+   "gloss_vi": "chăn nuôi công nghiệp nhốt lồng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "free-range <i>(adj. thả vườn)</i>",
+   "grammar_vi": "<i>Battery-farming</i> (noun) = chăn nuôi công nghiệp nhốt lồng. <b>Grammar</b>: danh từ ghép <i>battery</i> + <i>farming</i>.",
+   "example": {
+    "en": "who may wish to avoid food produced by <b>battery-farming</b> methods",
+    "vi": "Tránh thực phẩm từ phương pháp <b>chăn nuôi nhốt lồng</b>."
+   }
+  },
+  {
+   "word": "convenience food",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kənˈviːniəns fuːd/",
+   "def_en": "Food that is almost ready to eat or quick to prepare.",
+   "def_vi": "Thức ăn gần như sẵn sàng hoặc nấu nhanh.",
+   "gloss_vi": "thực phẩm tiện lợi",
+   "synonyms": "ready meal <i>(n. đồ ăn sẵn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Convenience food</i> (noun) = thực phẩm tiện lợi. <b>Collocations / chunks</b>: cụm danh từ cố định <i>convenience food</i>.",
+   "example": {
+    "en": "With the growth in popularity of <b>convenience foods</b>.",
+    "vi": "Với sự phổ biến của <b>thực phẩm tiện lợi</b>."
+   }
+  },
+  {
+   "word": "nutrition label",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/njuˈtrɪʃn ˌleɪbl/",
+   "def_en": "A label indicating how the food influences your health.",
+   "def_vi": "Nhãn cho biết ảnh hưởng của thực phẩm tới sức khỏe.",
+   "gloss_vi": "nhãn dinh dưỡng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nutrition label</i> (noun) = nhãn dinh dưỡng. <b>Collocations / chunks</b>: cụm danh từ cố định <i>nutrition label</i>.",
+   "example": {
+    "en": "Simple and unambiguous <b>nutrition labels</b> are more important than ever.",
+    "vi": "<b>Nhãn dinh dưỡng</b> đơn giản quan trọng hơn bao giờ hết."
+   }
+  },
+  {
+   "word": "traffic-light labelling",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtræfɪk laɪt ˌleɪbəlɪŋ/",
+   "def_en": "Labels with colours like traffic lights that give information on nutrition.",
+   "def_vi": "Nhãn màu như đèn giao thông về dinh dưỡng.",
+   "gloss_vi": "nhãn màu đèn giao thông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Traffic-light labelling</i> (noun) = nhãn màu đèn giao thông. <b>Collocations / chunks</b>: cụm danh từ cố định <i>traffic-light labelling</i>.",
+   "example": {
+    "en": "An example of a simple system is <b>traffic-light labelling</b>.",
+    "vi": "Ví dụ hệ thống đơn giản là <b>nhãn màu đèn giao thông</b>."
+   }
+  },
+  {
+   "word": "fair trade",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌfeə ˈtreɪd/",
+   "def_en": "A way of trading that makes sure the original producer receives a fair price.",
+   "def_vi": "Cách buôn bán đảm bảo nhà sản xuất nhận giá công bằng.",
+   "gloss_vi": "thương mại công bằng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fair trade</i> (noun) = thương mại công bằng. <b>Grammar</b>: cũng <i>fairtrade</i>.",
+   "example": {
+    "en": "for example <b>fair trade</b> products",
+    "vi": "Ví dụ các sản phẩm <b>thương mại công bằng</b>."
+   }
+  },
+  {
+   "word": "a recipe for",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ə ˈresəpi fə(r)/",
+   "def_en": "A situation sure to lead to something.",
+   "def_vi": "Tình huống chắc chắn dẫn tới.",
+   "gloss_vi": "công thức dẫn tới",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A recipe for</i> (noun) = công thức dẫn tới. <b>Collocations / chunks</b>: <i>a recipe for disaster</i>.",
+   "example": {
+    "en": "Inviting Sophie and her ex-husband to the same party was a <b>recipe for</b> disaster.",
+    "vi": "Mời Sophie và chồng cũ cùng tiệc là <b>công thức dẫn tới</b> thảm họa."
+   }
+  },
+  {
+   "word": "cook up a story",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkʊk ʌp ə ˈstɔːri/",
+   "def_en": "To make up or invent a story.",
+   "def_vi": "Bịa chuyện.",
+   "gloss_vi": "bịa chuyện",
+   "synonyms": "make up <i>(v. bịa)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cook up a story</i> (verb) = bịa chuyện. <b>Grammar</b>: động từ nhiều từ <i>cook up a story</i>.",
+   "example": {
+    "en": "He <b>cooked up a story</b> about his kitchen being flooded.",
+    "vi": "Anh ta <b>bịa chuyện</b> bếp nhà bị ngập."
+   }
+  },
+  {
+   "word": "all the ingredients of",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɔːl ði ɪnˈɡriːdiənts əv/",
+   "def_en": "All the necessary characteristics.",
+   "def_vi": "Mọi đặc điểm cần thiết.",
+   "gloss_vi": "có đủ yếu tố",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>All the ingredients of</i> (noun) = có đủ yếu tố. <b>Collocations / chunks</b>: cụm danh từ cố định <i>all the ingredients of</i>.",
+   "example": {
+    "en": "The film has <b>all the ingredients of</b> a box office hit.",
+    "vi": "Bộ phim <b>có đủ yếu tố</b> của một phim ăn khách."
+   }
+  },
+  {
+   "word": "stew",
+   "sense": "worry",
+   "pos": "verb",
+   "ipa": "/stjuː/",
+   "def_en": "To worry or suffer, especially about something you think is that person’s fault.",
+   "def_vi": "Lo lắng, khổ sở.",
+   "gloss_vi": "để ai sốt ruột",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stew</i> (verb) = để ai sốt ruột. <b>Grammar</b>: cũng <i>stew in your own juice</i>.",
+   "example": {
+    "en": "I’m going to let him <b>stew</b> for another few days at least.",
+    "vi": "Tôi sẽ để anh ta <b>sốt ruột</b> thêm vài ngày."
+   }
+  },
+  {
+   "word": "my cup of tea",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/maɪ ˌkʌp əv ˈtiː/",
+   "def_en": "The type of thing that I like.",
+   "def_vi": "Thứ tôi thích.",
+   "gloss_vi": "sở thích của tôi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>My cup of tea</i> (noun) = sở thích của tôi. <b>Grammar</b>: thường phủ định.",
+   "example": {
+    "en": "Ballet isn’t really <b>my cup of tea</b>.",
+    "vi": "Ba lê không thực sự là <b>gu của tôi</b>."
+   }
+  },
+  {
+   "word": "grill",
+   "sense": "question",
+   "pos": "verb",
+   "ipa": "/ɡrɪl/",
+   "def_en": "To ask someone a lot of questions.",
+   "def_vi": "Hỏi ai rất nhiều câu.",
+   "gloss_vi": "tra hỏi",
+   "synonyms": "interrogate <i>(v. thẩm vấn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Grill</i> (verb) = tra hỏi. <b>Common mistakes</b>: nghĩa gốc = nướng.",
+   "example": {
+    "en": "The police <b>grilled</b> the suspect for hours.",
+    "vi": "Cảnh sát <b>tra hỏi</b> nghi phạm hàng giờ."
+   }
+  },
+  {
+   "word": "half-baked",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌhɑːf ˈbeɪkt/",
+   "def_en": "Unrealistic or not thought through properly.",
+   "def_vi": "Không thực tế, chưa nghĩ kỹ.",
+   "gloss_vi": "nửa vời",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Half-baked</i> (adjective) = nửa vời. <b>Grammar</b>: tính từ ghép <i>half</i> + <i>baked</i>.",
+   "example": {
+    "en": "This is going to be another of his <b>half-baked</b> schemes.",
+    "vi": "Lại là một kế hoạch <b>nửa vời</b> của anh ta."
+   }
+  },
+  {
+   "word": "spice up",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌspaɪs ˈʌp/",
+   "def_en": "To make more lively.",
+   "def_vi": "Làm sinh động hơn.",
+   "gloss_vi": "làm sôi động",
+   "synonyms": "liven up <i>(v. làm sôi nổi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spice up</i> (verb) = làm sôi động. <b>Grammar</b>: động từ nhiều từ <i>spice up</i>.",
+   "example": {
+    "en": "That’ll <b>spice up</b> the office party.",
+    "vi": "Máy karaoke sẽ <b>làm sôi động</b> bữa tiệc văn phòng."
+   }
+  },
+  {
+   "word": "unsavoury",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ʌnˈseɪvəri/",
+   "def_en": "Unpleasant and morally offensive.",
+   "def_vi": "Khó chịu, vô đạo đức.",
+   "gloss_vi": "bất hảo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Unsavoury</i> (adjective) = bất hảo. <b>Grammar</b>: Mỹ <i>unsavory</i>.",
+   "example": {
+    "en": "Rick has started hanging around with some <b>unsavoury</b> characters.",
+    "vi": "Rick bắt đầu giao du với những kẻ <b>bất hảo</b>."
+   }
+  },
+  {
+   "word": "juicy",
+   "sense": "gossip",
+   "pos": "adjective",
+   "ipa": "/ˈdʒuːsi/",
+   "def_en": "(Of gossip) exciting and interesting.",
+   "def_vi": "(Chuyện phiếm) hấp dẫn, giật gân.",
+   "gloss_vi": "giật gân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Juicy</i> (adjective) = giật gân. <b>Common mistakes</b>: nghĩa gốc = mọng nước.",
+   "example": {
+    "en": "You can tell me all the <b>juicy</b> gossip.",
+    "vi": "Kể tôi nghe những chuyện <b>giật gân</b> đi."
+   }
+  }
+ ]
+}

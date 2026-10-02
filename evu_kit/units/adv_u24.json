@@ -1,0 +1,456 @@
+{
+ "book": "adv",
+ "unit": 24,
+ "title_vi": "Bữa tối tôi mời: tiếp đãi và ăn ngoài",
+ "theory_html": "<p><b>A. Paying the bill</b><br><i>A. Thanh toán</i></p> <p><b>split the bill, be on me</b> (informal), <b>join us, be our guest</b> (formal), <b>let me get this</b> (informal), <b>wined and dined</b>.</p><p><i><b>chia tiền, tôi mời, đi cùng chúng tôi, để chúng tôi mời, để tôi trả, được chiêu đãi</b>.</i></p> <p><b>B. Describing service</b><br><i>B. Mô tả phục vụ</i></p> <p><b>impeccable, sluggish, courteous, overbearing, sullen, brusque, off-putting, go out of their way</b>.</p><p><i><b>hoàn hảo, chậm chạp, lịch sự, hống hách, sưng sỉa, cộc lốc, gây mất thiện cảm, cố gắng hết sức</b>.</i></p> <p><b>C. Food preferences</b><br><i>C. Sở thích ăn uống</i></p> <p><b>have a sweet tooth, count the calories / calorie-conscious, portion, savoury, fussy eater, teetotal, dietary requirements</b> (formal), <b>overdo it</b>.</p><p><i><b>hảo ngọt, đếm calo, khẩu phần, mặn, người kén ăn, không uống rượu, yêu cầu ăn uống đặc biệt, ăn uống quá đà</b>.</i></p> <p><b>D. Entertaining at home</b><br><i>D. Tiếp đãi tại nhà</i></p> <p><b>take pot luck, bring a bottle, dinner party, informal get-together, seconds, say when / when, nibbles, grab a bite to eat, takeaway</b>.</p><p><i><b>ăn gì có nấy, mang chai rượu, tiệc tối, buổi gặp mặt thân mật, suất thứ hai, bảo khi nào đủ, đồ ăn vặt, ăn vội, đồ mang về</b>.</i></p>",
+ "items": [
+  {
+   "word": "split the bill",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌsplɪt ðə ˈbɪl/",
+   "def_en": "To divide the cost of a meal between the people eating.",
+   "def_vi": "Chia tiền bữa ăn.",
+   "gloss_vi": "chia tiền",
+   "synonyms": "go Dutch <i>(v. chia đôi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Split the bill</i> (verb) = chia tiền. <b>Grammar</b>: bất quy tắc: split–split.",
+   "example": {
+    "en": "We’ll <b>split the bill</b>, shall we?",
+    "vi": "Chúng ta <b>chia tiền</b> nhé?"
+   }
+  },
+  {
+   "word": "be on me",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/bi ˈɒn miː/",
+   "def_en": "To be paid for by me (informal).",
+   "def_vi": "Do tôi trả (thân mật).",
+   "gloss_vi": "tôi mời",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be on me</i> (verb) = tôi mời. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "Lunch <b>is on me</b> today.",
+    "vi": "Bữa trưa hôm nay <b>tôi mời</b>."
+   }
+  },
+  {
+   "word": "be our guest",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/bi ˌaʊə ˈɡest/",
+   "def_en": "To be paid for by us (formal).",
+   "def_vi": "Được chúng tôi mời (trang trọng).",
+   "gloss_vi": "để chúng tôi mời",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be our guest</i> (verb) = để chúng tôi mời. <b>Grammar</b>: trang trọng.",
+   "example": {
+    "en": "We’d like you to <b>be our guest</b>.",
+    "vi": "Chúng tôi muốn <b>mời bạn</b>."
+   }
+  },
+  {
+   "word": "let me get this",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ˌlet mi ˈɡet ðɪs/",
+   "def_en": "Let me pay the bill (informal).",
+   "def_vi": "Để tôi trả (thân mật).",
+   "gloss_vi": "để tôi trả",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Let me get this</i> (cl) = để tôi trả. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "<b>Let me get this</b>.",
+    "vi": "<b>Để tôi trả</b>."
+   }
+  },
+  {
+   "word": "wine and dine",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌwaɪn ən ˈdaɪn/",
+   "def_en": "To invite someone out to restaurants.",
+   "def_vi": "Mời ai đi nhà hàng.",
+   "gloss_vi": "chiêu đãi",
+   "synonyms": "entertain <i>(v. tiếp đãi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wine and dine</i> (verb) = chiêu đãi. <b>Grammar</b>: thường bị động.",
+   "example": {
+    "en": "I was <b>wined and dined</b> every night by the New York office.",
+    "vi": "Tôi được văn phòng New York <b>chiêu đãi</b> mỗi tối."
+   }
+  },
+  {
+   "word": "impeccable",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪmˈpekəbl/",
+   "def_en": "Perfect; cannot be faulted.",
+   "def_vi": "Hoàn hảo, không chê được.",
+   "gloss_vi": "hoàn hảo",
+   "synonyms": "flawless <i>(adj. hoàn hảo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Impeccable</i> (adjective) = hoàn hảo. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "In the Bella Roma, the service was <b>impeccable</b> and quick.",
+    "vi": "Phục vụ <b>hoàn hảo</b> và nhanh."
+   }
+  },
+  {
+   "word": "sluggish",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈslʌɡɪʃ/",
+   "def_en": "Rather slow.",
+   "def_vi": "Khá chậm.",
+   "gloss_vi": "chậm chạp",
+   "synonyms": "slow <i>(adj. chậm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sluggish</i> (adjective) = chậm chạp. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "At the Casa Italia it’s always a bit <b>sluggish</b>.",
+    "vi": "Ở Casa Italia phục vụ luôn hơi <b>chậm chạp</b>."
+   }
+  },
+  {
+   "word": "courteous",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈkɜːtiəs/",
+   "def_en": "Polite.",
+   "def_vi": "Lịch sự.",
+   "gloss_vi": "lịch sự",
+   "synonyms": "polite <i>(adj. lịch sự)</i>",
+   "antonyms": "rude <i>(adj. thô lỗ)</i>",
+   "grammar_vi": "<i>Courteous</i> (adjective) = lịch sự. <b>Grammar</b>: <i>courtesy</i> (n.).",
+   "example": {
+    "en": "In the new place the waiters are <b>courteous</b> and friendly.",
+    "vi": "Bồi bàn <b>lịch sự</b> và thân thiện."
+   }
+  },
+  {
+   "word": "overbearing",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌəʊvəˈbeərɪŋ/",
+   "def_en": "Too confident, too inclined to tell people what to do.",
+   "def_vi": "Quá tự tin, hay sai bảo.",
+   "gloss_vi": "hống hách",
+   "synonyms": "domineering <i>(adj. độc đoán)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Overbearing</i> (adjective) = hống hách. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "friendly without being <b>overbearing</b>",
+    "vi": "Thân thiện mà không <b>hống hách</b>."
+   }
+  },
+  {
+   "word": "off-putting",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɒf ˈpʊtɪŋ/",
+   "def_en": "Making you feel you do not want to go there again.",
+   "def_vi": "Khiến bạn không muốn quay lại.",
+   "gloss_vi": "gây mất thiện cảm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Off-putting</i> (adjective) = gây mất thiện cảm. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "The service is rather brusque, which I find very <b>off-putting</b>.",
+    "vi": "Phục vụ khá cộc lốc, tôi thấy rất <b>mất thiện cảm</b>."
+   }
+  },
+  {
+   "word": "go out of your way",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡəʊ ˌaʊt əv jɔː ˈweɪ/",
+   "def_en": "To do everything possible to help.",
+   "def_vi": "Làm mọi thứ có thể.",
+   "gloss_vi": "cố gắng hết sức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go out of your way</i> (verb) = cố gắng hết sức. <b>Grammar</b>: tính từ sở hữu đổi theo chủ ngữ.",
+   "example": {
+    "en": "They’ll <b>go out of their way</b> to give you what you want.",
+    "vi": "Ở Bella Roma họ sẽ <b>cố gắng hết sức</b> đáp ứng bạn."
+   }
+  },
+  {
+   "word": "have a sweet tooth",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/hæv ə ˌswiːt ˈtuːθ/",
+   "def_en": "To love sweet things.",
+   "def_vi": "Thích đồ ngọt.",
+   "gloss_vi": "hảo ngọt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have a sweet tooth</i> (verb) = hảo ngọt. <b>Grammar</b>: động từ nhiều từ <i>have a sweet tooth</i>.",
+   "example": {
+    "en": "I <b>have a sweet tooth</b> and can never say no to cakes or biscuits.",
+    "vi": "Tôi <b>hảo ngọt</b> và không thể từ chối bánh."
+   }
+  },
+  {
+   "word": "count the calories",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkaʊnt ðə ˈkæləriz/",
+   "def_en": "To be careful how many calories you eat.",
+   "def_vi": "Cẩn thận lượng calo ăn vào.",
+   "gloss_vi": "đếm calo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Count the calories</i> (verb) = đếm calo. <b>Grammar</b>: cũng <i>be calorie-conscious</i>.",
+   "example": {
+    "en": "I’m afraid I have to <b>count the calories</b>.",
+    "vi": "E rằng tôi phải <b>đếm calo</b>."
+   }
+  },
+  {
+   "word": "portion",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɔːʃn/",
+   "def_en": "The amount of a particular food served to one person.",
+   "def_vi": "Lượng thức ăn cho một người.",
+   "gloss_vi": "khẩu phần",
+   "synonyms": "helping <i>(n. suất)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Portion</i> (noun) = khẩu phần. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "I’ll just have a small <b>portion</b> of dessert, please.",
+    "vi": "Cho tôi một <b>phần</b> tráng miệng nhỏ."
+   }
+  },
+  {
+   "word": "savoury",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈseɪvəri/",
+   "def_en": "Salty in flavour, or with herbs.",
+   "def_vi": "Vị mặn hoặc có thảo mộc.",
+   "gloss_vi": "mặn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "sweet <i>(adj. ngọt)</i>",
+   "grammar_vi": "<i>Savoury</i> (adjective) = mặn. <b>Grammar</b>: Mỹ <i>savory</i>.",
+   "example": {
+    "en": "I like to end the meal with something <b>savoury</b>, like cheese.",
+    "vi": "Tôi thích kết thúc bữa bằng món <b>mặn</b>, như phô mai."
+   }
+  },
+  {
+   "word": "fussy eater",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌfʌsi ˈiːtə(r)/",
+   "def_en": "A person who has very particular demands when eating.",
+   "def_vi": "Người đòi hỏi khắt khe khi ăn.",
+   "gloss_vi": "người kén ăn",
+   "synonyms": "picky eater <i>(n. người kén ăn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fussy eater</i> (noun) = người kén ăn. <b>Collocations / chunks</b>: cụm danh từ cố định <i>fussy eater</i>.",
+   "example": {
+    "en": "Ben’s a bit of a <b>fussy eater</b>.",
+    "vi": "Ben hơi <b>kén ăn</b>."
+   }
+  },
+  {
+   "word": "teetotal",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌtiːˈtəʊtl/",
+   "def_en": "Never drinking alcohol.",
+   "def_vi": "Không bao giờ uống rượu.",
+   "gloss_vi": "không uống rượu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Teetotal</i> (adjective) = không uống rượu. <b>Grammar</b>: <i>teetotaller</i> (n.).",
+   "example": {
+    "en": "No, thanks, I won’t have wine. I’m <b>teetotal</b>.",
+    "vi": "Không, cảm ơn, tôi <b>không uống rượu</b>."
+   }
+  },
+  {
+   "word": "dietary requirements",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdaɪətəri rɪˈkwaɪəmənts/",
+   "def_en": "Special needs or things someone cannot eat (formal).",
+   "def_vi": "Yêu cầu ăn uống đặc biệt (trang trọng).",
+   "gloss_vi": "yêu cầu ăn uống đặc biệt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dietary requirements</i> (noun) = yêu cầu ăn uống đặc biệt. <b>Grammar</b>: trang trọng.",
+   "example": {
+    "en": "Do you have any particular <b>dietary requirements</b>?",
+    "vi": "Bạn có <b>yêu cầu ăn uống đặc biệt</b> nào không?"
+   }
+  },
+  {
+   "word": "overdo it",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌəʊvəˈduː ɪt/",
+   "def_en": "To eat or drink too much.",
+   "def_vi": "Ăn uống quá nhiều.",
+   "gloss_vi": "quá đà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Overdo it</i> (verb) = quá đà. <b>Common mistakes</b>: cũng = làm việc quá sức.",
+   "example": {
+    "en": "I don’t want to <b>overdo it</b>.",
+    "vi": "Tôi không muốn <b>uống quá đà</b>."
+   }
+  },
+  {
+   "word": "take pot luck",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ˌpɒt ˈlʌk/",
+   "def_en": "To eat whatever is available, nothing special.",
+   "def_vi": "Ăn gì có nấy.",
+   "gloss_vi": "ăn gì có nấy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take pot luck</i> (verb) = ăn gì có nấy. <b>Grammar</b>: động từ nhiều từ <i>take pot luck</i>.",
+   "example": {
+    "en": "You’ll have to <b>take pot luck</b>, though.",
+    "vi": "Bạn sẽ phải <b>ăn gì có nấy</b> đấy."
+   }
+  },
+  {
+   "word": "bring a bottle",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌbrɪŋ ə ˈbɒtl/",
+   "def_en": "To bring a bottle of wine to someone’s home.",
+   "def_vi": "Mang chai rượu đến nhà ai.",
+   "gloss_vi": "mang chai rượu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bring a bottle</i> (verb) = mang chai rượu. <b>Grammar</b>: thường hiểu là rượu vang.",
+   "example": {
+    "en": "Shall I <b>bring a bottle</b>?",
+    "vi": "Tôi có nên <b>mang chai rượu</b> không?"
+   }
+  },
+  {
+   "word": "dinner party",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdɪnə ˌpɑːti/",
+   "def_en": "A rather formal dinner with guests.",
+   "def_vi": "Bữa tối khá trang trọng có khách.",
+   "gloss_vi": "tiệc tối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dinner party</i> (noun) = tiệc tối. <b>Collocations / chunks</b>: cụm danh từ cố định <i>dinner party</i>.",
+   "example": {
+    "en": "No, no, it isn’t a <b>dinner party</b>.",
+    "vi": "Đó không phải <b>tiệc tối</b> trang trọng đâu."
+   }
+  },
+  {
+   "word": "get-together",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡet təɡeðə(r)/",
+   "def_en": "An informal meeting of people for a meal or drinks.",
+   "def_vi": "Buổi gặp mặt thân mật.",
+   "gloss_vi": "buổi gặp mặt",
+   "synonyms": "gathering <i>(n. buổi tụ họp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get-together</i> (noun) = buổi gặp mặt. <b>Grammar</b>: danh từ ghép <i>get</i> + <i>together</i>.",
+   "example": {
+    "en": "It’s just an informal <b>get-together</b>.",
+    "vi": "Chỉ là <b>buổi gặp mặt</b> thân mật thôi."
+   }
+  },
+  {
+   "word": "seconds",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsekəndz/",
+   "def_en": "A second helping of a dish.",
+   "def_vi": "Suất thứ hai của món.",
+   "gloss_vi": "suất thứ hai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Seconds</i> (noun) = suất thứ hai. <b>Grammar</b>: số nhiều.",
+   "example": {
+    "en": "Does anyone want <b>seconds</b>?",
+    "vi": "Có ai muốn <b>ăn thêm</b> không?"
+   }
+  },
+  {
+   "word": "say when",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ˌseɪ ˈwen/",
+   "def_en": "Tell me when I have served enough.",
+   "def_vi": "Bảo tôi khi nào đủ.",
+   "gloss_vi": "bảo khi nào đủ nhé",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Say when</i> (cl) = bảo khi nào đủ nhé. <b>Grammar</b>: đáp lại bằng <i>When!</i>.",
+   "example": {
+    "en": "Can I pour you some juice? <b>Say when</b>.",
+    "vi": "Tôi rót nước cho bạn nhé? <b>Bảo khi nào đủ nhé</b>."
+   }
+  },
+  {
+   "word": "nibbles",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈnɪblz/",
+   "def_en": "Things like nuts and crisps eaten before a meal.",
+   "def_vi": "Đồ ăn vặt như hạt, khoai chiên trước bữa.",
+   "gloss_vi": "đồ nhấm nháp",
+   "synonyms": "snacks <i>(n. đồ ăn vặt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nibbles</i> (noun) = đồ nhấm nháp. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "Help yourself to some <b>nibbles</b>.",
+    "vi": "Cứ tự nhiên dùng <b>đồ nhấm nháp</b>."
+   }
+  },
+  {
+   "word": "grab a bite to eat",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡræb ə ˌbaɪt tu ˈiːt/",
+   "def_en": "To have a quick meal.",
+   "def_vi": "Ăn nhanh.",
+   "gloss_vi": "ăn vội",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Grab a bite to eat</i> (verb) = ăn vội. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "We can <b>grab a bite to eat</b> on the way.",
+    "vi": "Chúng ta có thể <b>ăn vội</b> trên đường."
+   }
+  },
+  {
+   "word": "takeaway",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈteɪkəweɪ/",
+   "def_en": "A ready-cooked meal bought to take home.",
+   "def_vi": "Đồ ăn nấu sẵn mua mang về.",
+   "gloss_vi": "đồ ăn mang về",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Takeaway</i> (noun) = đồ ăn mang về. <b>Grammar</b>: Mỹ <i>takeout</i>.",
+   "example": {
+    "en": "Or we could get a <b>takeaway</b> when we get there.",
+    "vi": "Hoặc mua <b>đồ ăn mang về</b> khi đến nơi."
+   }
+  }
+ ]
+}
