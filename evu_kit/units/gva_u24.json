@@ -1,0 +1,248 @@
+{
+ "book": "gva",
+ "unit": 24,
+ "title_vi": "Giới từ phức và giới từ sau động từ",
+ "theory_html": "<p><b>2.1. Complex prepositions</b><br><i>2.1. Giới từ phức</i></p> <p>Prepositions can be simple (one word) or complex (two or more words): <b>as far as, in accordance with, as against, along with, with effect from, in the event of, in exchange for, irrespective of, on the part of, in place of, for the sake of, thanks to, by way of</b>. Some have a meaning similar to a simple preposition (<b>in spite of = despite</b>, <b>in front of = before</b>).</p><p><i>Giới từ đơn (một từ) và giới từ phức (hai từ trở lên); một số tương đương giới từ đơn.</i></p> <p><b>2.2. Verb + preposition: common patterns</b><br><i>2.2. Động từ + giới từ: các mẫu thường gặp</i></p> <p>verb + object + prep phrase (<b>reschedule the meeting for</b>); verb + prep + object + prep + object (<b>complain to sb about sth</b>); verb + prep + -ing (<b>worry about getting</b>); verb + object + prep + -ing (<b>advise sb against -ing</b>); verb + prep + object + -ing (<b>depend on the train running</b>).</p><p><i><b>complain to sb about sth</b>; <b>advise sb against V-ing</b>; <b>depend on sth doing</b>.</i></p> <p><b>2.3. Phrasal verbs: word order</b><br><i>2.3. Cụm động từ: trật tự từ</i></p> <p>Some phrasal verbs are transitive and intransitive with the same meaning (<b>call (me) back</b>), others with different meanings (<b>look up</b> the timetable / things are <b>looking up</b>). Object before or after the particle; long objects after; pronouns always before; two items joined by <b>and</b> either position. Some verbs: object only after the particle (<b>check into</b>); a few: object only between verb and particle (<b>order sb about</b>). Three-word verbs with two objects: <b>take sb up on sth</b>.</p><p><i>Đại từ luôn đứng trước tiểu từ; tân ngữ dài đứng sau; <b>check into</b> (sau), <b>order sb about</b> (giữa).</i></p>",
+ "items": [
+  {
+   "word": "as far as",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/əz ˈfɑːr əz/",
+   "def_en": "Up to a particular place.",
+   "def_vi": "Đến tận (nơi nào).",
+   "gloss_vi": "đến tận",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As far as</i> (preposition) = đến tận. <b>Grammar</b>: giới từ phức (hai từ trở lên); so sánh giới từ đơn <i>about</i>.",
+   "example": {
+    "en": "The bus will only take you <b>as far as</b> the main square.",
+    "vi": "Xe buýt chỉ đưa bạn <b>đến tận</b> quảng trường chính."
+   }
+  },
+  {
+   "word": "in spite of",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ɪn ˈspaɪt əv/",
+   "def_en": "Despite.",
+   "def_vi": "Mặc dù, bất chấp.",
+   "gloss_vi": "mặc dù",
+   "synonyms": "despite <i>(prep. mặc dù)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In spite of</i> (preposition) = mặc dù. <b>Grammar</b>: + danh từ / V-ing.",
+   "example": {
+    "en": "I wasn't able to reschedule the meeting <b>in spite of</b> my efforts.",
+    "vi": "Tôi không dời được cuộc họp <b>dù đã</b> cố gắng."
+   }
+  },
+  {
+   "word": "in front of",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ɪn ˈfrʌnt əv/",
+   "def_en": "Before; ahead of in position.",
+   "def_vi": "Phía trước.",
+   "gloss_vi": "phía trước",
+   "synonyms": "before <i>(prep. trước)</i>",
+   "antonyms": "behind <i>(prep. phía sau)</i>",
+   "grammar_vi": "<i>In front of</i> (preposition) = phía trước. <b>Grammar</b>: tương đương <i>before</i>.",
+   "example": {
+    "en": "All the people <b>in front of</b> me had been queuing for a long time.",
+    "vi": "Tất cả những người <b>phía trước</b> tôi đã xếp hàng lâu."
+   }
+  },
+  {
+   "word": "complain to sb about",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/kəmˈpleɪn tə ... əˈbaʊt/",
+   "def_en": "Verb + prep + object + prep + object.",
+   "def_vi": "Phàn nàn với ai về điều gì.",
+   "gloss_vi": "phàn nàn với ai về",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Complain to sb about</i> (structure) = phàn nàn với ai về. <b>Grammar</b>: hai giới từ, hai tân ngữ.",
+   "example": {
+    "en": "She <b>complained to</b> the company <b>about</b> the unreliability of their bus service.",
+    "vi": "Bà ấy <b>phàn nàn với</b> công ty <b>về</b> dịch vụ xe buýt thất thường."
+   }
+  },
+  {
+   "word": "reschedule sth for",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˌriːˈʃedjuːl ... fə(r)/",
+   "def_en": "Verb + object + prepositional phrase: change the time of an event.",
+   "def_vi": "Dời lịch sang.",
+   "gloss_vi": "dời lịch sang",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reschedule sth for</i> (structure) = dời lịch sang. <b>Grammar</b>: verb + object + prep phrase.",
+   "example": {
+    "en": "I tried to <b>reschedule</b> the meeting <b>for</b> next week but it's just impossible.",
+    "vi": "Tôi đã cố <b>dời</b> cuộc họp <b>sang</b> tuần sau."
+   }
+  },
+  {
+   "word": "worry about doing",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈwʌri əˈbaʊt ˈduːɪŋ/",
+   "def_en": "Verb + preposition + -ing.",
+   "def_vi": "Động từ + giới từ + V-ing.",
+   "gloss_vi": "lo lắng về việc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Worry about doing</i> (structure) = lo lắng về việc. <b>Grammar</b>: giới từ + V-ing.",
+   "example": {
+    "en": "Don't <b>worry about</b> getting lost.",
+    "vi": "Đừng <b>lo</b> bị lạc."
+   }
+  },
+  {
+   "word": "advise sb against",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ədˈvaɪz ... əˈɡenst/",
+   "def_en": "Verb + object + preposition + -ing: recommend not doing something.",
+   "def_vi": "Khuyên ai không nên làm gì.",
+   "gloss_vi": "khuyên ai đừng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Advise sb against</i> (structure) = khuyên ai đừng. <b>Grammar</b>: + V-ing.",
+   "example": {
+    "en": "I'd <b>advise you against</b> catching the bus.",
+    "vi": "Tôi <b>khuyên bạn đừng</b> đi xe buýt."
+   }
+  },
+  {
+   "word": "depend on sth doing",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/dɪˈpend ɒn ... ˈduːɪŋ/",
+   "def_en": "Verb + preposition + object + -ing.",
+   "def_vi": "Tin cậy vào việc cái gì sẽ…",
+   "gloss_vi": "tin chắc vào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Depend on sth doing</i> (structure) = tin chắc vào. <b>Grammar</b>: verb + prep + object + V-ing.",
+   "example": {
+    "en": "You can <b>depend on</b> the train <b>running</b> on time.",
+    "vi": "Bạn có thể <b>tin là</b> tàu <b>chạy</b> đúng giờ."
+   }
+  },
+  {
+   "word": "call back",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/kɔːl ˈbæk/",
+   "def_en": "To phone someone again; used transitively or intransitively with the same meaning.",
+   "def_vi": "Gọi lại.",
+   "gloss_vi": "gọi lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Call back</i> (phr v) = gọi lại. <b>Grammar</b>: <i>Call back later.</i> (nội động từ, cùng nghĩa).",
+   "example": {
+    "en": "Feel free to <b>call me back</b> if there's anything that's not clear about tomorrow",
+    "vi": "Cứ <b>gọi lại</b> cho tôi nếu có gì chưa rõ."
+   }
+  },
+  {
+   "word": "look up",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/lʊk ˈʌp/",
+   "def_en": "Transitive: find information; intransitive: improve.",
+   "def_vi": "Tra cứu (ngoại động); khá lên (nội động).",
+   "gloss_vi": "tra cứu; khá lên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Look up</i> (phr v) = tra cứu; khá lên. <b>Grammar</b>: <i>The weather seems to be looking up now</i> (= cải thiện); <i>look sb up</i> = ghé thăm.",
+   "example": {
+    "en": "I've <b>looked up</b> the online timetable.",
+    "vi": "Tôi đã <b>tra</b> lịch trình trực tuyến."
+   }
+  },
+  {
+   "word": "pick sb up",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/pɪk ... ˈʌp/",
+   "def_en": "To collect someone; a pronoun object always goes before the particle.",
+   "def_vi": "Đón ai; đại từ luôn đứng trước tiểu từ.",
+   "gloss_vi": "đón",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pick sb up</i> (phr v) = đón. <b>Grammar</b>: không <i>pick up you</i>.",
+   "example": {
+    "en": "I won't be able to <b>pick you up</b> at the airport after all.",
+    "vi": "Tôi sẽ không thể <b>đón bạn</b> ở sân bay được."
+   }
+  },
+  {
+   "word": "take down",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/teɪk ˈdaʊn/",
+   "def_en": "To write down information; a long object usually goes after the particle.",
+   "def_vi": "Ghi lại; tân ngữ dài đặt sau tiểu từ.",
+   "gloss_vi": "ghi lại",
+   "synonyms": "write down <i>(phr v. ghi lại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take down</i> (phr v) = ghi lại. <b>Grammar</b>: tân ngữ dài → sau tiểu từ.",
+   "example": {
+    "en": "You might want to <b>take down</b> some of the information I'm going to give to you.",
+    "vi": "Bạn có thể muốn <b>ghi lại</b> một số thông tin tôi sắp đưa."
+   }
+  },
+  {
+   "word": "check into",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/tʃek ˈɪntə/",
+   "def_en": "To register at a hotel; the object must go after the particle.",
+   "def_vi": "Nhận phòng; tân ngữ phải đứng sau tiểu từ.",
+   "gloss_vi": "nhận phòng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "check out of <i>(phr v. trả phòng)</i>",
+   "grammar_vi": "<i>Check into</i> (phr v) = nhận phòng. <b>Grammar</b>: không <i>check the hotel into</i>.",
+   "example": {
+    "en": "When you've <b>checked into</b> the hotel, I suggest you get a meal there.",
+    "vi": "Khi đã <b>nhận phòng</b> khách sạn, bạn nên ăn ở đó."
+   }
+  },
+  {
+   "word": "order sb about",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/ˈɔːdə ... əˈbaʊt/",
+   "def_en": "To keep telling someone what to do; the object must go between verb and particle.",
+   "def_vi": "Sai bảo ai; tân ngữ phải ở giữa.",
+   "gloss_vi": "sai bảo",
+   "synonyms": "boss sb around <i>(phr v. sai khiến)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Order sb about</i> (phr v) = sai bảo. <b>Grammar</b>: không <i>order about the other children</i>.",
+   "example": {
+    "en": "Although she was the youngest in the class, she used to <b>order the other children about</b>",
+    "vi": "Dù nhỏ nhất lớp, cô ấy hay <b>sai bảo</b> các bạn khác."
+   }
+  },
+  {
+   "word": "take sb up on",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/teɪk ... ˈʌp ɒn/",
+   "def_en": "To accept an offer someone has made; has two objects.",
+   "def_vi": "Nhận lời đề nghị của ai.",
+   "gloss_vi": "nhận lời",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take sb up on</i> (phr v) = nhận lời. <b>Grammar</b>: hai tân ngữ: <i>you</i> và <i>your offer</i>.",
+   "example": {
+    "en": "I'll <b>take you up on</b> your offer to buy me a meal.",
+    "vi": "Tôi sẽ <b>nhận lời</b> bạn mời tôi ăn."
+   }
+  }
+ ]
+}
