@@ -1,0 +1,328 @@
+{
+ "book": "bus",
+ "unit": 36,
+ "title_vi": "Trung tâm tài chính",
+ "theory_html": "<p><b>A. Financial centres</b><br><i>A. Trung tâm tài chính</i></p> <p><b>financial centres</b> (AmE <b>center</b>), <b>financial institutions, the City / the Square Mile, Wall Street, investors, speculator, brokers, dealers, traders</b>.</p><p><i><b>trung tâm tài chính, khu tài chính London, phố Wall, nhà đầu cơ, môi giới, nhà buôn chứng khoán, nhà giao dịch</b>.</i></p> <p><b>B. Stock markets</b><br><i>B. Thị trường chứng khoán</i></p> <p><b>float / go public, shares issued and listed, stock market, oversubscribed, flotation</b> (AmE <b>initial public offering, IPO</b>), <b>bourses</b>.</p><p><i><b>niêm yết / lên sàn, cổ phiếu phát hành và niêm yết, thị trường chứng khoán, đăng ký mua vượt, đợt phát hành lần đầu, sở giao dịch</b>.</i></p> <p><b>C. Other financial markets</b><br><i>C. Thị trường tài chính khác</i></p> <p><b>financial markets, commercial paper, bonds, currencies (foreign exchange / forex), commodities, commodities exchange, securities, securities houses, capital markets</b>.</p><p><i><b>thị trường tài chính, thương phiếu, trái phiếu, ngoại hối, hàng hóa cơ bản, sở giao dịch hàng hóa, chứng khoán, công ty chứng khoán, thị trường vốn</b>.</i></p> <p><b>D. Derivatives</b><br><i>D. Phái sinh</i></p> <p><b>futures contract, options contract, derivatives, underlying shares</b>.</p><p><i><b>hợp đồng tương lai, hợp đồng quyền chọn, sản phẩm phái sinh, cổ phiếu cơ sở</b>.</i></p>",
+ "items": [
+  {
+   "word": "financial centre",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/faɪˌnænʃl ˈsentə(r)/",
+   "def_en": "A place where there are many banks and other financial institutions.",
+   "def_vi": "Nơi có nhiều ngân hàng, tổ chức tài chính.",
+   "gloss_vi": "trung tâm tài chính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Financial centre</i> (noun) = trung tâm tài chính. <b>Grammar</b>: Mỹ <i>center</i>.",
+   "example": {
+    "en": "<b>Financial centres</b> are places where there are many banks and other financial institutions.",
+    "vi": "<b>Trung tâm tài chính</b> là nơi có nhiều ngân hàng."
+   }
+  },
+  {
+   "word": "the City",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ðə ˈsɪti/",
+   "def_en": "The financial centre of London.",
+   "def_vi": "Trung tâm tài chính London.",
+   "gloss_vi": "khu tài chính London",
+   "synonyms": "the Square Mile <i>(n. khu Square Mile)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The City</i> (noun) = khu tài chính London. <b>Grammar</b>: viết hoa, có <i>the</i>.",
+   "example": {
+    "en": "The financial centre of London is called <b>the City</b> or the Square Mile",
+    "vi": "Trung tâm tài chính London gọi là <b>the City</b>."
+   }
+  },
+  {
+   "word": "speculator",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈspekjuleɪtə(r)/",
+   "def_en": "An investor who wants to make a quick profit.",
+   "def_vi": "Nhà đầu tư muốn lời nhanh.",
+   "gloss_vi": "nhà đầu cơ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Speculator</i> (noun) = nhà đầu cơ. <b>Grammar</b>: động từ <i>speculate</i>.",
+   "example": {
+    "en": "A <b>speculator</b> is an investor who wants to make a quick profit, rather than one who wants to invest over a longer period of time.",
+    "vi": "<b>Nhà đầu cơ</b> muốn kiếm lời nhanh."
+   }
+  },
+  {
+   "word": "broker",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbrəʊkə(r)/",
+   "def_en": "Someone who buys and sells on behalf of investors.",
+   "def_vi": "Người mua bán thay nhà đầu tư.",
+   "gloss_vi": "nhà môi giới",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Broker</i> (noun) = nhà môi giới. <b>Collocations / chunks</b>: <i>stockbroker</i>.",
+   "example": {
+    "en": "<b>Brokers</b>, dealers and traders buy and sell on behalf of these investors",
+    "vi": "<b>Nhà môi giới</b> mua bán thay nhà đầu tư."
+   }
+  },
+  {
+   "word": "trader",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtreɪdə(r)/",
+   "def_en": "Someone who buys and sells shares, etc. on financial markets.",
+   "def_vi": "Người mua bán cổ phiếu trên thị trường tài chính.",
+   "gloss_vi": "nhà giao dịch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trader</i> (noun) = nhà giao dịch. <b>Grammar</b>: động từ <i>trade</i>.",
+   "example": {
+    "en": "Brokers, dealers and <b>traders</b> buy and sell on behalf of these investors",
+    "vi": "Môi giới và <b>nhà giao dịch</b> mua bán thay nhà đầu tư."
+   }
+  },
+  {
+   "word": "float",
+   "sense": "list on stock market",
+   "pos": "verb",
+   "ipa": "/fləʊt/",
+   "def_en": "To sell a company’s shares on a stock market for the first time.",
+   "def_vi": "Bán cổ phiếu công ty lần đầu trên sàn.",
+   "gloss_vi": "đưa lên sàn",
+   "synonyms": "go public <i>(v. lên sàn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Float</i> (verb) = đưa lên sàn. <b>Grammar</b>: danh từ <i>flotation</i>.",
+   "example": {
+    "en": "so we decided to <b>float</b> the company – in other words to go public",
+    "vi": "Chúng tôi quyết định <b>đưa</b> công ty <b>lên sàn</b>."
+   }
+  },
+  {
+   "word": "go public",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡəʊ ˈpʌblɪk/",
+   "def_en": "To start selling a company’s shares on a stock market.",
+   "def_vi": "Bắt đầu bán cổ phiếu trên sàn.",
+   "gloss_vi": "lên sàn, cổ phần hóa đại chúng",
+   "synonyms": "float <i>(v. đưa lên sàn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go public</i> (verb) = lên sàn, cổ phần hóa đại chúng. <b>Collocations / chunks</b>: cụm cố định.",
+   "example": {
+    "en": "in other words to <b>go public</b>",
+    "vi": "Nói cách khác là <b>lên sàn</b>."
+   }
+  },
+  {
+   "word": "listed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈlɪstɪd/",
+   "def_en": "(Of shares) available on a stock market.",
+   "def_vi": "(Cổ phiếu) có trên sàn.",
+   "gloss_vi": "được niêm yết",
+   "synonyms": "quoted <i>(adj. được yết giá)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Listed</i> (adjective) = được niêm yết. <b>Collocations / chunks</b>: <i>list shares on a stock market</i>.",
+   "example": {
+    "en": "Our shares were issued and <b>listed</b> for the first time on a stock market",
+    "vi": "Cổ phiếu được phát hành và <b>niêm yết</b> lần đầu."
+   }
+  },
+  {
+   "word": "oversubscribed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌəʊvəsəbˈskraɪbd/",
+   "def_en": "Having more investors wanting shares than there are shares.",
+   "def_vi": "Có nhiều người muốn mua hơn số cổ phiếu.",
+   "gloss_vi": "đăng ký mua vượt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Oversubscribed</i> (adjective) = đăng ký mua vượt. <b>Grammar</b>: tiền tố <i>over-</i>.",
+   "example": {
+    "en": "Our shares were <b>oversubscribed</b> – there weren’t enough shares for all the investors who wanted them!",
+    "vi": "Cổ phiếu được <b>đăng ký mua vượt</b>."
+   }
+  },
+  {
+   "word": "flotation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/fləʊˈteɪʃn/",
+   "def_en": "Selling a company’s shares on a stock market for the first time.",
+   "def_vi": "Bán cổ phiếu lần đầu trên sàn.",
+   "gloss_vi": "đợt phát hành lần đầu",
+   "synonyms": "initial public offering <i>(n. IPO (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flotation</i> (noun) = đợt phát hành lần đầu. <b>Grammar</b>: Mỹ <i>initial public offering (IPO)</i>.",
+   "example": {
+    "en": "The <b>flotation</b> was a big success.",
+    "vi": "<b>Đợt lên sàn</b> thành công lớn."
+   }
+  },
+  {
+   "word": "bourse",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bʊəs/",
+   "def_en": "A stock market outside the main English-speaking countries.",
+   "def_vi": "Sàn chứng khoán ngoài các nước nói tiếng Anh.",
+   "gloss_vi": "sở giao dịch chứng khoán",
+   "synonyms": "stock market <i>(n. thị trường chứng khoán)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bourse</i> (noun) = sở giao dịch chứng khoán. <b>Grammar</b>: gốc tiếng Pháp.",
+   "example": {
+    "en": "Stock markets outside the main English-speaking countries may be referred to as <b>bourses</b>.",
+    "vi": "Sàn ngoài các nước nói tiếng Anh có thể gọi là <b>bourse</b>."
+   }
+  },
+  {
+   "word": "commercial paper",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəˌmɜːʃl ˈpeɪpə(r)/",
+   "def_en": "Short-term lending to businesses (less than a year).",
+   "def_vi": "Cho doanh nghiệp vay ngắn hạn (dưới một năm).",
+   "gloss_vi": "thương phiếu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Commercial paper</i> (noun) = thương phiếu. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "<b>commercial paper</b> – short-term lending to businesses (less than a year)",
+    "vi": "<b>Thương phiếu</b> là khoản cho vay ngắn hạn."
+   }
+  },
+  {
+   "word": "foreign exchange",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌfɒrən ɪksˈtʃeɪndʒ/",
+   "def_en": "Buying and selling the money of particular countries (forex).",
+   "def_vi": "Mua bán tiền các nước (forex).",
+   "gloss_vi": "ngoại hối",
+   "synonyms": "forex <i>(n. ngoại hối)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Foreign exchange</i> (noun) = ngoại hối. <b>Grammar</b>: viết tắt <i>forex</i>.",
+   "example": {
+    "en": "currencies (<b>foreign exchange</b> or forex) – buying and selling the money of particular countries",
+    "vi": "Tiền tệ (<b>ngoại hối</b> hay forex)."
+   }
+  },
+  {
+   "word": "commodities",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəˈmɒdətiz/",
+   "def_en": "Oil, metals and farm products traded on markets.",
+   "def_vi": "Dầu, kim loại, nông sản giao dịch trên thị trường.",
+   "gloss_vi": "hàng hóa cơ bản",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Commodities</i> (noun) = hàng hóa cơ bản. <b>Collocations / chunks</b>: <i>commodities exchange</i>.",
+   "example": {
+    "en": "<b>commodities</b> – oil, metals and farm products, for example cereals",
+    "vi": "<b>Hàng hóa cơ bản</b>: dầu, kim loại, nông sản."
+   }
+  },
+  {
+   "word": "securities",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/sɪˈkjʊərətiz/",
+   "def_en": "Shares, bonds and commercial paper.",
+   "def_vi": "Cổ phiếu, trái phiếu, thương phiếu.",
+   "gloss_vi": "chứng khoán",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Securities</i> (noun) = chứng khoán. <b>Collocations / chunks</b>: <i>securities houses/markets</i>.",
+   "example": {
+    "en": "Shares, bonds and commercial paper are <b>securities</b>",
+    "vi": "Cổ phiếu, trái phiếu, thương phiếu là <b>chứng khoán</b>."
+   }
+  },
+  {
+   "word": "capital markets",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkæpɪtl ˌmɑːkɪts/",
+   "def_en": "Securities markets.",
+   "def_vi": "Thị trường chứng khoán.",
+   "gloss_vi": "thị trường vốn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Capital markets</i> (noun) = thị trường vốn. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "Securities markets are also called <b>capital markets</b>.",
+    "vi": "Thị trường chứng khoán còn gọi là <b>thị trường vốn</b>."
+   }
+  },
+  {
+   "word": "futures contract",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfjuːtʃəz ˌkɒntrækt/",
+   "def_en": "An agreement obliging someone to sell a fixed amount at a set price on a future date.",
+   "def_vi": "Thỏa thuận buộc bán lượng cố định với giá định trước vào ngày tương lai.",
+   "gloss_vi": "hợp đồng tương lai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Futures contract</i> (noun) = hợp đồng tương lai. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "A <b>futures contract</b> is an agreement giving an obligation to sell a fixed amount of a security or commodity at a particular price on a particular future date.",
+    "vi": "<b>Hợp đồng tương lai</b> là nghĩa vụ bán ở giá định trước."
+   }
+  },
+  {
+   "word": "options contract",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɒpʃnz ˌkɒntrækt/",
+   "def_en": "An agreement giving the right, but not the obligation, to buy or sell at a set price.",
+   "def_vi": "Thỏa thuận cho quyền, không phải nghĩa vụ, mua bán ở giá định.",
+   "gloss_vi": "hợp đồng quyền chọn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Options contract</i> (noun) = hợp đồng quyền chọn. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "An <b>options contract</b> is an agreement giving the right, but not the obligation, to buy or sell a security or commodity at a particular price",
+    "vi": "<b>Hợp đồng quyền chọn</b> cho quyền mua bán, không bắt buộc."
+   }
+  },
+  {
+   "word": "derivatives",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈrɪvətɪvz/",
+   "def_en": "Contracts like futures and options.",
+   "def_vi": "Hợp đồng như tương lai, quyền chọn.",
+   "gloss_vi": "sản phẩm phái sinh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Derivatives</i> (noun) = sản phẩm phái sinh. <b>Grammar</b>: số nhiều.",
+   "example": {
+    "en": "These contracts are <b>derivatives</b>.",
+    "vi": "Các hợp đồng này là <b>sản phẩm phái sinh</b>."
+   }
+  },
+  {
+   "word": "underlying shares",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌʌndəlaɪɪŋ ˈʃeəz/",
+   "def_en": "The shares that derivatives relate to.",
+   "def_vi": "Cổ phiếu mà phái sinh dựa vào.",
+   "gloss_vi": "cổ phiếu cơ sở",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Underlying shares</i> (noun) = cổ phiếu cơ sở. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "Dealers guess how the price of the related <b>underlying shares</b> – the shares that the derivatives relate to – is going to change",
+    "vi": "Nhà buôn đoán giá <b>cổ phiếu cơ sở</b> sẽ biến động ra sao."
+   }
+  }
+ ]
+}

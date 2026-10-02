@@ -1,0 +1,440 @@
+{
+ "book": "bus",
+ "unit": 35,
+ "title_vi": "Tài chính cá nhân",
+ "theory_html": "<p><b>A. Traditional banking</b><br><i>A. Ngân hàng truyền thống</i></p> <p><b>account, branch, banks, current account</b> (AmE <b>checking account</b>), <b>joint account, in the black, go into the red, overdraft, overdraft facility, charges, go overdrawn, interest rate, deposit account / savings account, credit card, credit card companies, plastic, pay off, mortgage, building society, credit crunch, negative equity</b>.</p><p><i><b>tài khoản, chi nhánh, ngân hàng, tài khoản vãng lai, tài khoản chung, có dư, bị âm, thấu chi, hạn mức thấu chi, phí, rút quá số dư, lãi suất, tài khoản tiết kiệm, thẻ tín dụng, công ty thẻ, thẻ (thân mật), trả hết, khoản vay mua nhà, hội tín dụng nhà ở, khủng hoảng tín dụng, giá trị âm</b>.</i></p> <p><b>B. Internet banking</b><br><i>B. Ngân hàng trực tuyến</i></p> <p><b>internet banking, account balances, transactions, apply for a personal loan, call centre</b>.</p><p><i><b>ngân hàng trên mạng, số dư tài khoản, giao dịch, xin vay tiêu dùng</b>.</i></p> <p><b>C. Personal investing</b><br><i>C. Đầu tư cá nhân</i></p> <p><b>unit trusts</b> (AmE <b>mutual funds</b>), <b>investment companies, small investors, ISA (individual savings account), financial products, savers, life insurance, pay out, insurance policies, contributions, private pension, retirement, company pension scheme, state pension, windfall, pension fund, demutualized, financial institutions</b>.</p><p><i><b>quỹ tín thác, công ty đầu tư, nhà đầu tư nhỏ, tài khoản tiết kiệm cá nhân, sản phẩm tài chính, người tiết kiệm, bảo hiểm nhân thọ, chi trả, hợp đồng bảo hiểm, khoản đóng góp, lương hưu tư nhân, hưu trí, quỹ hưu công ty, lương hưu nhà nước, khoản lợi bất ngờ, quỹ hưu, tổ chức tài chính</b>.</i></p>",
+ "items": [
+  {
+   "word": "branch",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/brɑːntʃ/",
+   "def_en": "A local office of a bank.",
+   "def_vi": "Văn phòng địa phương của ngân hàng.",
+   "gloss_vi": "chi nhánh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Branch</i> (noun) = chi nhánh. <b>Collocations / chunks</b>: <i>bank branch</i>.",
+   "example": {
+    "en": "I have an account at the local <b>branch</b> of one of the big banks.",
+    "vi": "Tôi có tài khoản ở <b>chi nhánh</b> địa phương."
+   }
+  },
+  {
+   "word": "current account",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkʌrənt əˌkaʊnt/",
+   "def_en": "A bank account used to write cheques and make bill payments (BrE).",
+   "def_vi": "Tài khoản dùng viết séc, trả hóa đơn (Anh).",
+   "gloss_vi": "tài khoản vãng lai",
+   "synonyms": "checking account <i>(n. tài khoản thanh toán (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Current account</i> (noun) = tài khoản vãng lai. <b>Grammar</b>: Anh; Mỹ <i>checking account</i>.",
+   "example": {
+    "en": "I have a <b>current account</b> which I use to write cheques, make bill payments",
+    "vi": "Tôi có <b>tài khoản vãng lai</b> để viết séc và trả hóa đơn."
+   }
+  },
+  {
+   "word": "joint account",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdʒɔɪnt əˈkaʊnt/",
+   "def_en": "A bank account shared by two people.",
+   "def_vi": "Tài khoản hai người dùng chung.",
+   "gloss_vi": "tài khoản chung",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Joint account</i> (noun) = tài khoản chung. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "It’s a <b>joint account</b> with my husband.",
+    "vi": "Đó là <b>tài khoản chung</b> với chồng tôi."
+   }
+  },
+  {
+   "word": "go into the red",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡəʊ ˌɪntə ðə ˈred/",
+   "def_en": "To spend more money than there is in an account.",
+   "def_vi": "Tiêu quá số tiền trong tài khoản.",
+   "gloss_vi": "bị âm tài khoản",
+   "synonyms": "go overdrawn <i>(v. rút quá số dư)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go into the red</i> (verb) = bị âm tài khoản. <b>Collocations / chunks</b>: <i>be in the red</i>.",
+   "example": {
+    "en": "sometimes we spend more money than there is in the account and we <b>go into the red</b>",
+    "vi": "Đôi khi tiêu quá và chúng tôi <b>bị âm tài khoản</b>."
+   }
+  },
+  {
+   "word": "overdraft",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈəʊvədrɑːft/",
+   "def_en": "An amount of money spent beyond what is in a bank account.",
+   "def_vi": "Số tiền tiêu vượt số dư tài khoản.",
+   "gloss_vi": "khoản thấu chi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Overdraft</i> (noun) = khoản thấu chi. <b>Collocations / chunks</b>: <i>overdraft facility</i>.",
+   "example": {
+    "en": "we go into the red and have an <b>overdraft</b>",
+    "vi": "Chúng tôi bị âm và có <b>khoản thấu chi</b>."
+   }
+  },
+  {
+   "word": "overdraft facility",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈəʊvədrɑːft fəˌsɪləti/",
+   "def_en": "An agreement with the bank to have an overdraft up to a certain amount.",
+   "def_vi": "Thỏa thuận ngân hàng cho thấu chi đến mức nào đó.",
+   "gloss_vi": "hạn mức thấu chi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Overdraft facility</i> (noun) = hạn mức thấu chi. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "We have an <b>overdraft facility</b> – an agreement with the bank",
+    "vi": "Chúng tôi có <b>hạn mức thấu chi</b> với ngân hàng."
+   }
+  },
+  {
+   "word": "go overdrawn",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡəʊ ˌəʊvəˈdrɔːn/",
+   "def_en": "To take out more money than is in your account.",
+   "def_vi": "Rút quá số tiền trong tài khoản.",
+   "gloss_vi": "rút quá số dư",
+   "synonyms": "go into the red <i>(v. bị âm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go overdrawn</i> (verb) = rút quá số dư. <b>Grammar</b>: tính từ <i>overdrawn</i>.",
+   "example": {
+    "en": "There are charges that are taken from the account if we <b>go overdrawn</b>.",
+    "vi": "Bị trừ phí nếu <b>rút quá số dư</b>."
+   }
+  },
+  {
+   "word": "interest rate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɪntrəst reɪt/",
+   "def_en": "The percentage charged on a loan or paid on savings.",
+   "def_vi": "Tỉ lệ phần trăm tính trên khoản vay hay tiết kiệm.",
+   "gloss_vi": "lãi suất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Interest rate</i> (noun) = lãi suất. <b>Collocations / chunks</b>: <i>high/low interest rate</i>.",
+   "example": {
+    "en": "The <b>interest rate</b> is quite high.",
+    "vi": "<b>Lãi suất</b> khá cao."
+   }
+  },
+  {
+   "word": "savings account",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈseɪvɪŋz əˌkaʊnt/",
+   "def_en": "An account for keeping money for the longer term, paying interest.",
+   "def_vi": "Tài khoản giữ tiền dài hạn, có lãi.",
+   "gloss_vi": "tài khoản tiết kiệm",
+   "synonyms": "deposit account <i>(n. tài khoản tiền gửi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Savings account</i> (noun) = tài khoản tiết kiệm. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "I also have a deposit account or <b>savings account</b> for keeping money for the longer term.",
+    "vi": "Tôi cũng có <b>tài khoản tiết kiệm</b> để giữ tiền lâu dài."
+   }
+  },
+  {
+   "word": "plastic",
+   "sense": "credit cards",
+   "pos": "noun",
+   "ipa": "/ˈplæstɪk/",
+   "def_en": "Credit cards (informal).",
+   "def_vi": "Thẻ tín dụng (thân mật).",
+   "gloss_vi": "thẻ (tín dụng)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Plastic</i> (noun) = thẻ (tín dụng). <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "Paying with <b>plastic</b> is very convenient.",
+    "vi": "Trả bằng <b>thẻ</b> rất tiện."
+   }
+  },
+  {
+   "word": "pay off",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌpeɪ ˈɒf/",
+   "def_en": "To pay the total amount owed.",
+   "def_vi": "Trả hết số nợ.",
+   "gloss_vi": "trả hết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pay off</i> (verb) = trả hết. <b>Grammar</b>: tách được <i>pay sth off</i>.",
+   "example": {
+    "en": "But we <b>pay off</b> the total amounts we’ve spent every month",
+    "vi": "Chúng tôi <b>trả hết</b> số đã tiêu mỗi tháng."
+   }
+  },
+  {
+   "word": "mortgage",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɔːɡɪdʒ/",
+   "def_en": "A loan to buy a house.",
+   "def_vi": "Khoản vay mua nhà.",
+   "gloss_vi": "khoản vay thế chấp mua nhà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mortgage</i> (noun) = khoản vay thế chấp mua nhà. <b>Grammar</b>: <i>t</i> câm.",
+   "example": {
+    "en": "We also have a <b>mortgage</b> – a loan to buy a house.",
+    "vi": "Chúng tôi cũng có <b>khoản vay mua nhà</b>."
+   }
+  },
+  {
+   "word": "credit crunch",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkredɪt krʌntʃ/",
+   "def_en": "A time when banks are much more hesitant to lend.",
+   "def_vi": "Lúc ngân hàng ngần ngại cho vay.",
+   "gloss_vi": "khủng hoảng tín dụng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Credit crunch</i> (noun) = khủng hoảng tín dụng. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "we were not affected by the <b>credit crunch</b>, when banks were much more hesitant to lend than before",
+    "vi": "May là chúng tôi không bị ảnh hưởng bởi <b>khủng hoảng tín dụng</b>."
+   }
+  },
+  {
+   "word": "negative equity",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌneɡətɪv ˈekwəti/",
+   "def_en": "When buyers owe more on their mortgage than their house is worth.",
+   "def_vi": "Khi nợ vay nhà lớn hơn giá trị căn nhà.",
+   "gloss_vi": "giá trị tài sản âm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Negative equity</i> (noun) = giá trị tài sản âm. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "or <b>negative equity</b>, when house prices fell and left some buyers owing more on their mortgage than their house was worth",
+    "vi": "Hay <b>giá trị âm</b> khi giá nhà giảm."
+   }
+  },
+  {
+   "word": "account balance",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈkaʊnt ˌbæləns/",
+   "def_en": "The amount you have in an account.",
+   "def_vi": "Số tiền có trong tài khoản.",
+   "gloss_vi": "số dư tài khoản",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Account balance</i> (noun) = số dư tài khoản. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "I can check my <b>account balances</b> – the amount I have in each account",
+    "vi": "Tôi kiểm tra <b>số dư tài khoản</b>."
+   }
+  },
+  {
+   "word": "transactions",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/trænˈzækʃnz/",
+   "def_en": "Money going in and coming out of an account.",
+   "def_vi": "Tiền vào ra tài khoản.",
+   "gloss_vi": "giao dịch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Transactions</i> (noun) = giao dịch. <b>Grammar</b>: động từ <i>transact</i>.",
+   "example": {
+    "en": "and <b>transactions</b> – money going in and coming out",
+    "vi": "Tôi xem được <b>giao dịch</b> – tiền vào và ra."
+   }
+  },
+  {
+   "word": "personal loan",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpɜːsənl ˈləʊn/",
+   "def_en": "A loan to an individual.",
+   "def_vi": "Khoản vay cá nhân.",
+   "gloss_vi": "vay tiêu dùng cá nhân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Personal loan</i> (noun) = vay tiêu dùng cá nhân. <b>Collocations / chunks</b>: <i>apply for a personal loan</i>.",
+   "example": {
+    "en": "I can even apply for a <b>personal loan</b> online",
+    "vi": "Tôi có thể xin <b>vay cá nhân</b> trực tuyến."
+   }
+  },
+  {
+   "word": "unit trust",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌjuːnɪt ˈtrʌst/",
+   "def_en": "Shares in an investment company that invests money from small investors in a range of companies (BrE).",
+   "def_vi": "Cổ phần ở công ty đầu tư gom tiền nhà đầu tư nhỏ (Anh).",
+   "gloss_vi": "quỹ tín thác đầu tư",
+   "synonyms": "mutual fund <i>(n. quỹ tương hỗ (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Unit trust</i> (noun) = quỹ tín thác đầu tư. <b>Grammar</b>: Anh; Mỹ <i>mutual funds</i>.",
+   "example": {
+    "en": "We have some <b>unit trusts</b> – shares in investment companies",
+    "vi": "Chúng tôi có vài <b>quỹ tín thác</b>."
+   }
+  },
+  {
+   "word": "financial products",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/faɪˌnænʃl ˈprɒdʌkts/",
+   "def_en": "Investments, insurance, accounts, etc. offered to customers.",
+   "def_vi": "Đầu tư, bảo hiểm, tài khoản… cho khách.",
+   "gloss_vi": "sản phẩm tài chính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Financial products</i> (noun) = sản phẩm tài chính. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "there are many other <b>financial products</b> available for savers",
+    "vi": "Có nhiều <b>sản phẩm tài chính</b> cho người tiết kiệm."
+   }
+  },
+  {
+   "word": "life insurance",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlaɪf ɪnˌʃʊərəns/",
+   "def_en": "Insurance which pays out if someone dies.",
+   "def_vi": "Bảo hiểm chi trả khi người được bảo hiểm mất.",
+   "gloss_vi": "bảo hiểm nhân thọ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Life insurance</i> (noun) = bảo hiểm nhân thọ. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "My husband and I have <b>life insurance</b> which would pay out if either of us dies.",
+    "vi": "Vợ chồng tôi có <b>bảo hiểm nhân thọ</b>."
+   }
+  },
+  {
+   "word": "pay out",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌpeɪ ˈaʊt/",
+   "def_en": "(Of insurance) to pay money.",
+   "def_vi": "(Bảo hiểm) chi trả.",
+   "gloss_vi": "chi trả",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pay out</i> (verb) = chi trả. <b>Grammar</b>: danh từ <i>payout</i>.",
+   "example": {
+    "en": "life insurance which would <b>pay out</b> if either of us dies",
+    "vi": "Bảo hiểm sẽ <b>chi trả</b> nếu một trong hai mất."
+   }
+  },
+  {
+   "word": "insurance policy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˈʃʊərəns ˌpɒləsi/",
+   "def_en": "A contract for insurance.",
+   "def_vi": "Hợp đồng bảo hiểm.",
+   "gloss_vi": "hợp đồng bảo hiểm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Insurance policy</i> (noun) = hợp đồng bảo hiểm. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "This is just one of the <b>insurance policies</b> that we have.",
+    "vi": "Đó là một trong các <b>hợp đồng bảo hiểm</b> chúng tôi có."
+   }
+  },
+  {
+   "word": "private pension",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpraɪvət ˈpenʃn/",
+   "def_en": "A pension you pay into yourself, not from the state or employer.",
+   "def_vi": "Lương hưu tự đóng, không từ nhà nước hay công ty.",
+   "gloss_vi": "lương hưu tư nhân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "state pension <i>(n. lương hưu nhà nước)</i>",
+   "grammar_vi": "<i>Private pension</i> (noun) = lương hưu tư nhân. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "I pay contributions into a <b>private pension</b>",
+    "vi": "Tôi đóng tiền vào <b>lương hưu tư nhân</b>."
+   }
+  },
+  {
+   "word": "company pension scheme",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkʌmpəni ˈpenʃn skiːm/",
+   "def_en": "A pension plan run by an employer.",
+   "def_vi": "Chương trình hưu do công ty quản lý.",
+   "gloss_vi": "quỹ hưu công ty",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Company pension scheme</i> (noun) = quỹ hưu công ty. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "I’ve never joined a <b>company pension scheme</b>",
+    "vi": "Tôi chưa bao giờ tham gia <b>quỹ hưu công ty</b>."
+   }
+  },
+  {
+   "word": "state pension",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsteɪt ˈpenʃn/",
+   "def_en": "A pension paid by the government.",
+   "def_vi": "Lương hưu do nhà nước trả.",
+   "gloss_vi": "lương hưu nhà nước",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "private pension <i>(n. lương hưu tư nhân)</i>",
+   "grammar_vi": "<i>State pension</i> (noun) = lương hưu nhà nước. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "the government <b>state pension</b> is very small",
+    "vi": "<b>Lương hưu nhà nước</b> rất ít!"
+   }
+  },
+  {
+   "word": "windfall",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɪndfɔːl/",
+   "def_en": "An unexpected one-off increase in value or money.",
+   "def_vi": "Khoản tăng giá trị bất ngờ một lần.",
+   "gloss_vi": "khoản lợi bất ngờ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Windfall</i> (noun) = khoản lợi bất ngờ. <b>Collocations / chunks</b>: <i>windfall tax</i>.",
+   "example": {
+    "en": "I recently received a <b>windfall</b>, an unexpected one-off increase in the value of my pension fund",
+    "vi": "Gần đây tôi nhận <b>khoản lợi bất ngờ</b>."
+   }
+  },
+  {
+   "word": "financial institutions",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/faɪˌnænʃl ˌɪnstɪˈtjuːʃnz/",
+   "def_en": "Banks and other organizations that deal with money.",
+   "def_vi": "Ngân hàng và tổ chức tài chính khác.",
+   "gloss_vi": "tổ chức tài chính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Financial institutions</i> (noun) = tổ chức tài chính. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "Some <b>financial institutions</b> now offer all these financial products.",
+    "vi": "Một số <b>tổ chức tài chính</b> cung cấp mọi sản phẩm này."
+   }
+  }
+ ]
+}
