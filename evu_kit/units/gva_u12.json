@@ -1,0 +1,152 @@
+{
+ "book": "gva",
+ "unit": 12,
+ "title_vi": "Mệnh đề quan hệ (2)",
+ "theory_html": "<p><b>2.1. Participle clauses</b><br><i>2.1. Mệnh đề phân từ</i></p> <p>-ing clauses = defining relative clauses with an active verb; -ed clauses = with a passive verb; state verbs can be used in reduced -ing clauses (<b>containing, belonging to, consisting of</b>); not possible with a modal verb or for a single completed action; also instead of non-defining clauses (between commas or dashes).</p><p><i>V-ing = chủ động; V3 = bị động; không rút gọn khi có động từ khuyết thiếu hay hành động đơn đã xong.</i></p> <p><b>2.2. To-infinitive clauses</b><br><i>2.2. Mệnh đề to V</i></p> <p>After a superlative + noun, <b>the first/second</b> + noun, <b>the only / next / last / another / one</b> + noun; active or passive with little difference.</p><p><i>Sau so sánh nhất, <b>the first</b>, <b>the only</b>.</i></p> <p><b>2.3. Adjective phrases</b><br><i>2.3. Cụm tính từ</i></p> <p>Adjective (+ to-infinitive / preposition / adverb) after a noun = relative clause (<b>a photographer willing to…</b>); <b>affected, available, present</b> alone after a noun.</p><p><i>Cụm tính từ sau danh từ thay mệnh đề quan hệ.</i></p> <p><b>2.4. Prepositional phrases</b><br><i>2.4. Cụm giới từ</i></p> <p>A prepositional phrase after a noun = relative clause (<b>the vegetables around that meat</b>).</p><p><i>Cụm giới từ thay mệnh đề quan hệ.</i></p>",
+ "items": [
+  {
+   "word": "-ing clause (reduced relative)",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ɪŋ klɔːz/",
+   "def_en": "An -ing clause that corresponds to a defining relative clause with an active verb.",
+   "def_vi": "Mệnh đề V-ing tương ứng mệnh đề quan hệ chủ động.",
+   "gloss_vi": "mệnh đề quan hệ rút gọn V-ing",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>-ing clause (reduced relative)</i> (structure) = mệnh đề quan hệ rút gọn V-ing. <b>Grammar</b>: = <i>who is working</i>; động từ trạng thái cũng dùng được: <i>a spray bottle containing glycerine</i>.",
+   "example": {
+    "en": "The editor <b>working on the cookbook</b> or magazine is often there, too.",
+    "vi": "Biên tập viên <b>đang làm cuốn sách nấu ăn</b> thường cũng ở đó."
+   }
+  },
+  {
+   "word": "-ed clause (reduced relative)",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ɪd klɔːz/",
+   "def_en": "An -ed clause that corresponds to a defining relative clause with a passive verb.",
+   "def_vi": "Mệnh đề V3 tương ứng mệnh đề quan hệ bị động.",
+   "gloss_vi": "mệnh đề quan hệ rút gọn V3",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>-ed clause (reduced relative)</i> (structure) = mệnh đề quan hệ rút gọn V3. <b>Grammar</b>: = <i>that is produced</i>.",
+   "example": {
+    "en": "The big problem is the heat <b>produced by the lights</b>.",
+    "vi": "Vấn đề lớn là sức nóng <b>do đèn tạo ra</b>."
+   }
+  },
+  {
+   "word": "containing",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/kənˈteɪnɪŋ/",
+   "def_en": "A state verb that can be used in a reduced -ing clause, though not in continuous tenses.",
+   "def_vi": "Động từ trạng thái dùng được trong mệnh đề rút gọn V-ing.",
+   "gloss_vi": "chứa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Containing</i> (structure) = chứa. <b>Grammar</b>: không <i>is containing</i>; cũng <i>belonging to, consisting of, owning, resembling</i>.",
+   "example": {
+    "en": "I generally have with me a spray bottle <b>containing</b> glycerine and water.",
+    "vi": "Tôi thường mang bình xịt <b>chứa</b> glycerine và nước."
+   }
+  },
+  {
+   "word": "no reduction after modals",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/nəʊ rɪˈdʌkʃn ˈɑːftə ˈməʊdlz/",
+   "def_en": "A relative clause can’t be reduced when its first verb is a modal.",
+   "def_vi": "Không rút gọn mệnh đề quan hệ có động từ khuyết thiếu.",
+   "gloss_vi": "không rút gọn khi có động từ khuyết thiếu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>No reduction after modals</i> (structure) = không rút gọn khi có động từ khuyết thiếu. <b>Grammar</b>: cũng không rút gọn V-ing cho hành động đơn đã xong: <i>the chef who created the dish</i>.",
+   "example": {
+    "en": "A technique <b>that might be used</b> in photographing meat is to use a glycerine spray.",
+    "vi": "Một kỹ thuật <b>có thể dùng</b> khi chụp thịt là xịt glycerine."
+   }
+  },
+  {
+   "word": "the first person to",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ðə ˌfɜːst ˈpɜːsn tə/",
+   "def_en": "A to-infinitive clause after the first / second + noun.",
+   "def_vi": "Mệnh đề to V sau the first + danh từ.",
+   "gloss_vi": "người đầu tiên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The first person to</i> (structure) = người đầu tiên. <b>Grammar</b>: cũng sau so sánh nhất: <i>the youngest person… to win</i>.",
+   "example": {
+    "en": "She was really <b>the first person to</b> encourage me to take up food photography.",
+    "vi": "Cô ấy thực sự là <b>người đầu tiên</b> khuyến khích tôi chụp ảnh ẩm thực."
+   }
+  },
+  {
+   "word": "the only thing to do",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ði ˌəʊnli ˈθɪŋ tə ˈduː/",
+   "def_en": "A to-infinitive clause after the only + noun.",
+   "def_vi": "Mệnh đề to V sau the only + danh từ.",
+   "gloss_vi": "việc duy nhất cần làm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The only thing to do</i> (structure) = việc duy nhất cần làm. <b>Grammar</b>: bị động gần nghĩa: <i>the only thing to be done</i>.",
+   "example": {
+    "en": "<b>The only thing to do</b> in that case is to create steam from elsewhere.",
+    "vi": "<b>Việc duy nhất cần làm</b> lúc đó là tạo hơi nước từ chỗ khác."
+   }
+  },
+  {
+   "word": "willing to",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈwɪlɪŋ tə/",
+   "def_en": "An adjective phrase after a noun, similar to a relative clause.",
+   "def_vi": "Cụm tính từ sau danh từ, như mệnh đề quan hệ.",
+   "gloss_vi": "sẵn lòng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Willing to</i> (structure) = sẵn lòng. <b>Grammar</b>: = <i>a photographer who was willing to</i>.",
+   "example": {
+    "en": "It was easy to find a photographer <b>willing to</b> take an assistant for no pay!",
+    "vi": "Dễ tìm nhiếp ảnh gia <b>sẵn lòng</b> nhận trợ lý không lương!"
+   }
+  },
+  {
+   "word": "available",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əˈveɪləbl/",
+   "def_en": "Used alone after a noun with a meaning similar to a relative clause.",
+   "def_vi": "Đứng một mình sau danh từ như mệnh đề quan hệ.",
+   "gloss_vi": "có sẵn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Available</i> (adjective) = có sẵn. <b>Grammar</b>: cũng <i>affected, present</i> đứng sau danh từ.",
+   "example": {
+    "en": "We use cardboard or any other material <b>available</b>.",
+    "vi": "Chúng tôi dùng bìa cứng hay vật liệu nào <b>có sẵn</b>."
+   }
+  },
+  {
+   "word": "prepositional phrase",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˌprepəˌzɪʃənl ˈfreɪz/",
+   "def_en": "A phrase giving extra information about a noun, similar to a relative clause.",
+   "def_vi": "Cụm giới từ thêm thông tin cho danh từ.",
+   "gloss_vi": "cụm giới từ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Prepositional phrase</i> (structure) = cụm giới từ. <b>Grammar</b>: = <i>the vegetables which are around…</i>.",
+   "example": {
+    "en": "The vegetables <b>around that succulent piece of meat</b> could be made from plastic.",
+    "vi": "Rau <b>quanh miếng thịt ngon lành đó</b> có thể làm bằng nhựa."
+   }
+  }
+ ]
+}
