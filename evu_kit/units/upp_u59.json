@@ -1,0 +1,445 @@
+{
+ "book": "upp",
+ "unit": 59,
+ "title_vi": "Kết cấu bề mặt, độ sáng, trọng lượng và mật độ",
+ "theory_html": "<p><b>A. Texture - how something feels when you touch it</b><br><i>A. Kết cấu – cảm giác khi chạm vào</i></p> <p><b>smooth</b> (the paper in this book), <b>polished</b> (varnished wood; a shiny metal surface), <b>silky</b> (silk; fine, expensive tights), <b>slippery</b> (a fish just out of the water), <b>furry</b> (a thick sheepskin rug), <b>rough</b> (new, unwashed denim; bark of a tree), <b>coarse</b> (sand), <b>jagged</b> (sharp, irregular edges of broken glass or metal), <b>prickly</b> (a thistle; a cactus; thorns on a rose). Phrases: <b>has a silky feel, smooth to the touch, a polished surface, rough underfoot</b>.</p><p><i><b>nhẵn, bóng loáng, mượt như lụa, trơn, có lông, thô ráp, sần sạn, lởm chởm, có gai</b>. Cụm: <b>cảm giác mượt, nhẵn khi chạm, bề mặt bóng, gồ ghề dưới chân</b>.</i></p> <p><b>B. Brightness</b><br><i>B. Độ sáng</i></p> <p><b>shady, vivid, dazzling, shiny, dull ≠ bright, dim, glare</b>.</p><p><i><b>râm mát, rực rỡ, chói lóa, bóng, xỉn ≠ tươi, lờ mờ, ánh chói</b>.</i></p> <p><b>C. Density and weight</b><br><i>C. Mật độ và trọng lượng</i></p> <p><b>solid ≠ hollow; thick ≠ thin/fine; dense ≠ sparse; as light as a feather; as heavy as lead; bulky/cumbersome</b> [difficult, big and heavy].</p><p><i><b>đặc ≠ rỗng; dày ≠ mỏng; rậm ≠ thưa; nhẹ như lông hồng; nặng như chì; cồng kềnh</b>.</i></p>",
+ "items": [
+  {
+   "word": "smooth",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/smuːð/",
+   "def_en": "Having an even surface with no rough areas.",
+   "def_vi": "Có bề mặt đều, không gồ ghề.",
+   "gloss_vi": "nhẵn, mịn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "rough <i>(adj. thô ráp)</i>",
+   "grammar_vi": "<i>Smooth</i> (adjective) = nhẵn, mịn. <b>Grammar</b>: /smuːð/; <i>smooth to the touch</i>.",
+   "example": {
+    "en": "This cotton is very <b>smooth</b> to the touch.",
+    "vi": "Loại vải cotton này rất <b>mịn</b> khi chạm vào."
+   }
+  },
+  {
+   "word": "polished",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈpɒlɪʃt/",
+   "def_en": "Shiny because it has been rubbed or varnished.",
+   "def_vi": "Bóng vì được đánh hay phủ vecni.",
+   "gloss_vi": "bóng loáng",
+   "synonyms": "shiny <i>(adj. bóng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Polished</i> (adjective) = bóng loáng. <b>Grammar</b>: gỗ phủ vecni, mặt kim loại bóng.",
+   "example": {
+    "en": "The table had a beautiful <b>polished</b> surface.",
+    "vi": "Cái bàn có bề mặt <b>bóng loáng</b> tuyệt đẹp."
+   }
+  },
+  {
+   "word": "silky",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsɪlki/",
+   "def_en": "Soft and smooth like silk.",
+   "def_vi": "Mềm mượt như lụa.",
+   "gloss_vi": "mượt như lụa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Silky</i> (adjective) = mượt như lụa. <b>Grammar</b>: <i>have a silky feel</i>.",
+   "example": {
+    "en": "Your hair has a <b>silky</b> feel.",
+    "vi": "Tóc bạn có cảm giác <b>mượt như lụa</b>."
+   }
+  },
+  {
+   "word": "slippery",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈslɪpəri/",
+   "def_en": "Difficult to hold or stand on because it is wet or smooth.",
+   "def_vi": "Khó cầm hay đứng vì ướt, trơn.",
+   "gloss_vi": "trơn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Slippery</i> (adjective) = trơn. <b>Grammar</b>: <i>slip</i> (v.).",
+   "ex_kit": true,
+   "example": {
+    "en": "A fish just out of the water is <b>slippery</b>.",
+    "vi": "Con cá vừa bắt lên khỏi nước rất <b>trơn</b>."
+   }
+  },
+  {
+   "word": "furry",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈfɜːri/",
+   "def_en": "Covered with soft thick hair.",
+   "def_vi": "Phủ lông dày mềm.",
+   "gloss_vi": "có lông, như lông thú",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Furry</i> (adjective) = có lông, như lông thú. <b>Grammar</b>: /ˈfɜːri/; <i>fur</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "A thick sheepskin rug feels <b>furry</b>.",
+    "vi": "Một tấm thảm da cừu dày có cảm giác <b>như lông thú</b>."
+   }
+  },
+  {
+   "word": "rough",
+   "sense": "texture",
+   "pos": "adjective",
+   "ipa": "/rʌf/",
+   "def_en": "Not smooth to touch.",
+   "def_vi": "Không nhẵn khi chạm.",
+   "gloss_vi": "thô ráp, gồ ghề",
+   "synonyms": "coarse <i>(adj. sần)</i>",
+   "antonyms": "smooth <i>(adj. nhẵn)</i>",
+   "grammar_vi": "<i>Rough</i> (adjective) = thô ráp, gồ ghề. <b>Grammar</b>: /rʌf/; vải jean mới, vỏ cây.",
+   "example": {
+    "en": "The ground was <b>rough</b> underfoot.",
+    "vi": "Mặt đất <b>gồ ghề</b> dưới chân."
+   }
+  },
+  {
+   "word": "coarse",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kɔːs/",
+   "def_en": "Rough and made of large grains.",
+   "def_vi": "Thô và hạt to.",
+   "gloss_vi": "thô, sần",
+   "synonyms": "rough <i>(adj. thô ráp)</i>",
+   "antonyms": "fine <i>(adj. mịn)</i>",
+   "grammar_vi": "<i>Coarse</i> (adjective) = thô, sần. <b>Grammar</b>: /kɔːs/, đồng âm <i>course</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Sand feels <b>coarse</b>.",
+    "vi": "Cát có cảm giác <b>thô sạn</b>."
+   }
+  },
+  {
+   "word": "jagged",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈdʒæɡɪd/",
+   "def_en": "With sharp, irregular edges.",
+   "def_vi": "Có cạnh sắc, không đều.",
+   "gloss_vi": "lởm chởm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Jagged</i> (adjective) = lởm chởm. <b>Grammar</b>: /ˈdʒæɡɪd/.",
+   "ex_kit": true,
+   "example": {
+    "en": "The edges of the broken glass were <b>jagged</b>.",
+    "vi": "Mép kính vỡ <b>lởm chởm</b> và sắc."
+   }
+  },
+  {
+   "word": "prickly",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈprɪkli/",
+   "def_en": "Covered with sharp points.",
+   "def_vi": "Phủ đầy gai nhọn.",
+   "gloss_vi": "có gai",
+   "synonyms": "thorny <i>(adj. có gai)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Prickly</i> (adjective) = có gai. <b>Grammar</b>: cây kế, xương rồng, gai hoa hồng.",
+   "ex_kit": true,
+   "example": {
+    "en": "A cactus is <b>prickly</b>.",
+    "vi": "Cây xương rồng <b>đầy gai</b>."
+   }
+  },
+  {
+   "word": "surface",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɜːfɪs/",
+   "def_en": "The outside or top layer of something.",
+   "def_vi": "Lớp ngoài hay trên cùng.",
+   "gloss_vi": "bề mặt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Surface</i> (noun) = bề mặt. <b>Grammar</b>: /ˈsɜːfɪs/.",
+   "example": {
+    "en": "The table had a beautiful polished <b>surface</b>.",
+    "vi": "Cái bàn có <b>bề mặt</b> bóng loáng tuyệt đẹp."
+   }
+  },
+  {
+   "word": "underfoot",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌʌndəˈfʊt/",
+   "def_en": "Under your feet as you walk.",
+   "def_vi": "Dưới chân khi đi.",
+   "gloss_vi": "dưới chân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Underfoot</i> (adverb) = dưới chân. <b>Grammar</b>: cuối câu.",
+   "example": {
+    "en": "The ground was rough <b>underfoot</b>.",
+    "vi": "Mặt đất gồ ghề <b>dưới chân</b>."
+   }
+  },
+  {
+   "word": "shady",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈʃeɪdi/",
+   "def_en": "Protected from the sun.",
+   "def_vi": "Được che nắng.",
+   "gloss_vi": "râm mát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "sunny <i>(adj. nắng)</i>",
+   "grammar_vi": "<i>Shady</i> (adjective) = râm mát. <b>Grammar</b>: <i>shade</i> (n.).",
+   "example": {
+    "en": "a <b>shady</b> corner of the garden",
+    "vi": "Một góc vườn <b>râm mát</b>."
+   }
+  },
+  {
+   "word": "dazzling",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈdæzlɪŋ/",
+   "def_en": "So bright it makes you unable to see for a moment.",
+   "def_vi": "Sáng đến mức làm lóa mắt.",
+   "gloss_vi": "chói lóa",
+   "synonyms": "blinding <i>(adj. chói mắt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dazzling</i> (adjective) = chói lóa. <b>Grammar</b>: <i>dazzle</i> (v.).",
+   "example": {
+    "en": "a <b>dazzling</b> light",
+    "vi": "Một ánh sáng <b>chói lóa</b>."
+   }
+  },
+  {
+   "word": "shiny",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈʃaɪni/",
+   "def_en": "Reflecting light.",
+   "def_vi": "Phản chiếu ánh sáng.",
+   "gloss_vi": "bóng",
+   "synonyms": "glossy <i>(adj. bóng)</i>",
+   "antonyms": "dull <i>(adj. xỉn)</i>",
+   "grammar_vi": "<i>Shiny</i> (adjective) = bóng. <b>Grammar</b>: <i>shine</i> (v.).",
+   "example": {
+    "en": "<b>shiny</b> leather shoes",
+    "vi": "Đôi giày da <b>bóng loáng</b>."
+   }
+  },
+  {
+   "word": "dull",
+   "sense": "colour",
+   "pos": "adjective",
+   "ipa": "/dʌl/",
+   "def_en": "(Of colours) not bright.",
+   "def_vi": "(Màu) không tươi.",
+   "gloss_vi": "xỉn, tối màu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "bright <i>(adj. tươi)</i>",
+   "grammar_vi": "<i>Dull</i> (adjective) = xỉn, tối màu. <b>Common mistakes</b>: cũng = chán.",
+   "example": {
+    "en": "You wear such <b>dull</b> colours - why don’t you start wearing bright colours for a change?",
+    "vi": "Bạn mặc màu <b>xỉn</b> quá – sao không thử màu tươi xem?"
+   }
+  },
+  {
+   "word": "bright",
+   "sense": "colour",
+   "pos": "adjective",
+   "ipa": "/braɪt/",
+   "def_en": "(Of colours) strong and easy to see.",
+   "def_vi": "(Màu) đậm và dễ thấy.",
+   "gloss_vi": "tươi, sáng",
+   "synonyms": "vivid <i>(adj. rực rỡ)</i>",
+   "antonyms": "dull <i>(adj. xỉn)</i>",
+   "grammar_vi": "<i>Bright</i> (adjective) = tươi, sáng. <b>Grammar</b>: <i>brighten</i> (v.).",
+   "example": {
+    "en": "Why don’t you start wearing <b>bright</b> colours for a change?",
+    "vi": "Sao bạn không thử mặc màu <b>tươi</b> xem?"
+   }
+  },
+  {
+   "word": "glare",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɡleə(r)/",
+   "def_en": "Strong, unpleasant light.",
+   "def_vi": "Ánh sáng mạnh khó chịu.",
+   "gloss_vi": "ánh chói",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Glare</i> (noun) = ánh chói. <b>Grammar</b>: <i>the glare of the sun</i>; M: động từ = trừng mắt.",
+   "example": {
+    "en": "I wear sunglasses when I drive because of the <b>glare</b> of the sun.",
+    "vi": "Tôi đeo kính râm khi lái xe vì <b>ánh chói</b> của mặt trời."
+   }
+  },
+  {
+   "word": "hollow",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈhɒləʊ/",
+   "def_en": "Having an empty space inside.",
+   "def_vi": "Có khoảng trống bên trong.",
+   "gloss_vi": "rỗng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "solid <i>(adj. đặc)</i>",
+   "grammar_vi": "<i>Hollow</i> (adjective) = rỗng. <b>Grammar</b>: trái nghĩa <i>solid</i>.",
+   "example": {
+    "en": "A solid ≠ <b>hollow</b> object.",
+    "vi": "Một vật <b>rỗng</b>."
+   }
+  },
+  {
+   "word": "thick",
+   "sense": "hair",
+   "pos": "adjective",
+   "ipa": "/θɪk/",
+   "def_en": "(Of hair) having a lot of hairs close together.",
+   "def_vi": "(Tóc) nhiều sợi dày.",
+   "gloss_vi": "dày",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "thin <i>(adj. mỏng)</i>",
+   "grammar_vi": "<i>Thick</i> (adjective) = dày. <b>Grammar</b>: trái nghĩa <i>thin/fine</i>.",
+   "example": {
+    "en": "She has <b>thick</b> hair.",
+    "vi": "Cô ấy có mái tóc <b>dày</b>."
+   }
+  },
+  {
+   "word": "thin",
+   "sense": "hair",
+   "pos": "adjective",
+   "ipa": "/θɪn/",
+   "def_en": "(Of hair) not having many hairs.",
+   "def_vi": "(Tóc) ít sợi.",
+   "gloss_vi": "mỏng, thưa",
+   "synonyms": "fine <i>(adj. mảnh)</i>",
+   "antonyms": "thick <i>(adj. dày)</i>",
+   "grammar_vi": "<i>Thin</i> (adjective) = mỏng, thưa. <b>Grammar</b>: trái nghĩa <i>thick</i>.",
+   "example": {
+    "en": "She has <b>thin</b> hair.",
+    "vi": "Cô ấy có mái tóc <b>mỏng</b>."
+   }
+  },
+  {
+   "word": "fine",
+   "sense": "hair",
+   "pos": "adjective",
+   "ipa": "/faɪn/",
+   "def_en": "(Of hair) very thin.",
+   "def_vi": "(Tóc) rất mảnh.",
+   "gloss_vi": "mảnh, mỏng",
+   "synonyms": "thin <i>(adj. mỏng)</i>",
+   "antonyms": "thick <i>(adj. dày)</i>",
+   "grammar_vi": "<i>Fine</i> (adjective) = mảnh, mỏng. <b>Common mistakes</b>: nhiều nghĩa khác (khỏe, đẹp).",
+   "example": {
+    "en": "She has <b>fine</b> hair.",
+    "vi": "Cô ấy có mái tóc <b>mảnh</b>."
+   }
+  },
+  {
+   "word": "dense",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dens/",
+   "def_en": "Having a lot of things close together.",
+   "def_vi": "Có nhiều thứ sát nhau.",
+   "gloss_vi": "rậm rạp, dày đặc",
+   "synonyms": "thick <i>(adj. dày)</i>",
+   "antonyms": "sparse <i>(adj. thưa)</i>",
+   "grammar_vi": "<i>Dense</i> (adjective) = rậm rạp, dày đặc. <b>Grammar</b>: <i>density</i> (n.).",
+   "example": {
+    "en": "An area with <b>dense</b> vegetation.",
+    "vi": "Một khu vực có thảm thực vật <b>rậm rạp</b>."
+   }
+  },
+  {
+   "word": "sparse",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/spɑːs/",
+   "def_en": "Small in number and spread over an area.",
+   "def_vi": "Ít và rải rác.",
+   "gloss_vi": "thưa thớt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "dense <i>(adj. rậm rạp)</i>",
+   "grammar_vi": "<i>Sparse</i> (adjective) = thưa thớt. <b>Grammar</b>: <i>sparsely populated</i>.",
+   "example": {
+    "en": "An area with <b>sparse</b> vegetation.",
+    "vi": "Một khu vực có thảm thực vật <b>thưa thớt</b>."
+   }
+  },
+  {
+   "word": "as light as a feather",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əz ˌlaɪt əz ə ˈfeðə(r)/",
+   "def_en": "Very light.",
+   "def_vi": "Rất nhẹ.",
+   "gloss_vi": "nhẹ như lông hồng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "as heavy as lead <i>(adj. nặng như chì)</i>",
+   "grammar_vi": "<i>As light as a feather</i> (adjective) = nhẹ như lông hồng. <b>Grammar</b>: so sánh <i>as… as</i>.",
+   "example": {
+    "en": "Your bag’s <b>as light as a feather</b>! Have you brought enough clothes?",
+    "vi": "Túi của bạn <b>nhẹ như lông hồng</b>! Bạn mang đủ quần áo chưa?"
+   }
+  },
+  {
+   "word": "as heavy as lead",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əz ˌhevi əz ˈled/",
+   "def_en": "Very heavy.",
+   "def_vi": "Rất nặng.",
+   "gloss_vi": "nặng như chì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "as light as a feather <i>(adj. nhẹ như lông hồng)</i>",
+   "grammar_vi": "<i>As heavy as lead</i> (adjective) = nặng như chì. <b>Grammar</b>: <i>lead</i> /led/ = chì.",
+   "example": {
+    "en": "Your bag’s <b>as heavy as lead</b>! What’s in it? Bricks?",
+    "vi": "Túi của bạn <b>nặng như chì</b>! Có gì trong đó? Gạch à?"
+   }
+  },
+  {
+   "word": "bulky",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈbʌlki/",
+   "def_en": "Big and difficult to carry.",
+   "def_vi": "To và khó mang.",
+   "gloss_vi": "cồng kềnh",
+   "synonyms": "cumbersome <i>(adj. kềnh càng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bulky</i> (adjective) = cồng kềnh. <b>Grammar</b>: <i>bulk</i> (n.).",
+   "example": {
+    "en": "This suitcase is very <b>bulky</b>.",
+    "vi": "Chiếc vali này rất <b>cồng kềnh</b>."
+   }
+  },
+  {
+   "word": "cumbersome",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈkʌmbəsəm/",
+   "def_en": "Difficult, big and heavy.",
+   "def_vi": "Khó mang, to và nặng.",
+   "gloss_vi": "kềnh càng",
+   "synonyms": "bulky <i>(adj. cồng kềnh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cumbersome</i> (adjective) = kềnh càng. <b>Grammar</b>: /ˈkʌmbəsəm/.",
+   "example": {
+    "en": "This suitcase is very <b>cumbersome</b>.",
+    "vi": "Chiếc vali này rất <b>kềnh càng</b>."
+   }
+  }
+ ]
+}

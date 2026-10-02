@@ -1,0 +1,382 @@
+{
+ "book": "upp",
+ "unit": 60,
+ "title_vi": "Thành công, thất bại và khó khăn",
+ "theory_html": "<p><b>A. Succeeding</b><br><i>A. Thành công</i></p> <p><b>succeed in + -ing, manage</b> (to do; may have a direct object meaning ‘be able to do’), <b>achieve/accomplish</b> (both used with quantity phrases; <b>accomplish</b> is rather formal; <b>achieve</b> is more common with goals and ambitions), <b>come off</b> [succeed; informal]. Collocations: <b>reach/achieve an agreement, a target; attain/achieve a target, an ambition; secure an agreement; realise/fulfil an ambition, a dream; fulfil an obligation; reach a compromise</b>.</p><p><i><b>succeed in + -ing; manage</b> (xoay xở được); <b>achieve/accomplish</b> (đạt được; <b>accomplish</b> trang trọng); <b>come off</b> (thành công; thân mật). Kết hợp với <b>ambition, dream, agreement, obligation, target, compromise</b>.</i></p> <p><b>B. Failing and difficulty</b><br><i>B. Thất bại và khó khăn</i></p> <p><b>go wrong / backfire</b> [don’t go as intended], <b>fold / go under</b> [close down; <b>go under</b> is informal], <b>falter</b> [have ups and downs], <b>come to nothing</b>, <b>have difficulty (in) + -ing, find it difficult/hard to, have trouble + -ing</b> (more informal), <b>have a lot of bother with</b> (very informal), <b>cope with, can’t cope</b>.</p><p><i><b>hỏng, phản tác dụng, đóng cửa, chững lại, chẳng đi đến đâu, gặp khó khăn, thấy khó, gặp rắc rối, phiền toái, đối phó được, không chịu nổi</b>.</i></p> <p><b>C. Word formation</b><br><i>C. Cấu tạo từ</i></p> <p><b>succeed – success – successful – successfully; accomplish – accomplishment – accomplished; achieve – achievement – achievable; attain – attainment – attainable; fulfil – fulfilment – fulfilling; harden – hardness – hard – hard</b>.</p><p><i>Bảng động từ – danh từ – tính từ – trạng từ.</i></p> <p><b>CM. Common mistakes</b><br><i>CM. Lỗi thường gặp</i></p> <p><b>Izzy had great difficulty finding somewhere to live</b> (NOT <b>difficulties</b>). <b>Paul had considerable success with his first novel</b> (NOT <b>successes</b>).</p><p><i>Dùng <b>difficulty, success</b> số ít trong các cụm này.</i></p>",
+ "items": [
+  {
+   "word": "succeed in",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/səkˈsiːd ɪn/",
+   "def_en": "To manage to do something you tried to do.",
+   "def_vi": "Làm được điều đã cố gắng.",
+   "gloss_vi": "thành công trong",
+   "synonyms": "manage <i>(v. xoay xở được)</i>",
+   "antonyms": "fail <i>(v. thất bại)</i>",
+   "grammar_vi": "<i>Succeed in</i> (verb) = thành công trong. <b>Grammar</b>: <i>succeed in + -ing</i>.",
+   "example": {
+    "en": "We <b>succeeded in</b> persuading a lot of people to join our protest.",
+    "vi": "Chúng tôi đã <b>thành công trong việc</b> thuyết phục nhiều người tham gia biểu tình."
+   }
+  },
+  {
+   "word": "manage",
+   "sense": "succeed",
+   "pos": "verb",
+   "ipa": "/ˈmænɪdʒ/",
+   "def_en": "To succeed in doing something difficult.",
+   "def_vi": "Làm được điều khó.",
+   "gloss_vi": "xoay xở được",
+   "synonyms": "succeed <i>(v. thành công)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Manage</i> (verb) = xoay xở được. <b>Grammar</b>: <i>manage to do sth</i>; cũng có tân ngữ: <i>manage the whole walk</i>.",
+   "example": {
+    "en": "I <b>managed</b> to contact him just before he left his office.",
+    "vi": "Tôi đã <b>liên lạc được</b> với anh ấy ngay trước khi anh rời văn phòng."
+   }
+  },
+  {
+   "word": "achieve",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈtʃiːv/",
+   "def_en": "To succeed in doing or getting something through effort.",
+   "def_vi": "Đạt được nhờ nỗ lực.",
+   "gloss_vi": "đạt được",
+   "synonyms": "accomplish <i>(v. hoàn thành)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Achieve</i> (verb) = đạt được. <b>Grammar</b>: phổ biến hơn <i>accomplish</i> với <i>goals, aims, targets, ambitions</i>.",
+   "example": {
+    "en": "The company has <b>achieved</b> all its goals for this year.",
+    "vi": "Công ty đã <b>đạt được</b> mọi mục tiêu năm nay."
+   }
+  },
+  {
+   "word": "accomplish",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈkʌmplɪʃ/",
+   "def_en": "To succeed in doing something (rather formal).",
+   "def_vi": "Hoàn thành điều gì (khá trang trọng).",
+   "gloss_vi": "hoàn thành, đạt được",
+   "synonyms": "achieve <i>(v. đạt được)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Accomplish</i> (verb) = hoàn thành, đạt được. <b>Grammar</b>: khá trang trọng; <i>accomplishment</i> (n.).",
+   "example": {
+    "en": "We’ve <b>accomplished</b> a great deal in the last year.",
+    "vi": "Chúng tôi đã <b>đạt được</b> rất nhiều trong năm qua."
+   }
+  },
+  {
+   "word": "come off",
+   "sense": "succeed",
+   "pos": "verb",
+   "ipa": "/ˌkʌm ˈɒf/",
+   "def_en": "To succeed (informal).",
+   "def_vi": "Thành công (thân mật).",
+   "gloss_vi": "thành công, trót lọt",
+   "synonyms": "succeed <i>(v. thành công)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Come off</i> (verb) = thành công, trót lọt. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "Do you think his plan will <b>come off</b>?",
+    "vi": "Bạn có nghĩ kế hoạch của anh ta sẽ <b>thành công</b> không?"
+   }
+  },
+  {
+   "word": "attain",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈteɪn/",
+   "def_en": "To achieve something, usually after effort (formal).",
+   "def_vi": "Đạt được sau nỗ lực (trang trọng).",
+   "gloss_vi": "đạt tới",
+   "synonyms": "achieve <i>(v. đạt được)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Attain</i> (verb) = đạt tới. <b>Collocations / chunks</b>: <i>attain a target / an ambition</i>; <i>attainable</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "She <b>attained</b> her sales target.",
+    "vi": "Cô ấy đã <b>đạt</b> mục tiêu doanh số."
+   }
+  },
+  {
+   "word": "secure",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/sɪˈkjʊə(r)/",
+   "def_en": "To get something, often after effort.",
+   "def_vi": "Giành được, thường sau nỗ lực.",
+   "gloss_vi": "giành được, đạt được",
+   "synonyms": "obtain <i>(v. có được)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Secure</i> (verb) = giành được, đạt được. <b>Collocations / chunks</b>: <i>secure an agreement</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The two sides <b>secured</b> an agreement.",
+    "vi": "Hai bên đã <b>đạt được</b> thỏa thuận."
+   }
+  },
+  {
+   "word": "realise",
+   "sense": "achieve",
+   "pos": "verb",
+   "ipa": "/ˈriːəlaɪz/",
+   "def_en": "To achieve something you wanted.",
+   "def_vi": "Đạt được điều mong muốn.",
+   "gloss_vi": "thực hiện được",
+   "synonyms": "fulfil <i>(v. hoàn thành)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Realise</i> (verb) = thực hiện được. <b>Collocations / chunks</b>: <i>realise an ambition / a dream</i>; M: cũng = nhận ra.",
+   "ex_kit": true,
+   "example": {
+    "en": "She finally <b>realised</b> her dream.",
+    "vi": "Cuối cùng cô ấy đã <b>thực hiện được</b> ước mơ."
+   }
+  },
+  {
+   "word": "fulfil",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/fʊlˈfɪl/",
+   "def_en": "To do or achieve what was hoped for or required.",
+   "def_vi": "Làm được điều mong đợi hay yêu cầu.",
+   "gloss_vi": "hoàn thành, thực hiện",
+   "synonyms": "realise <i>(v. thực hiện được)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fulfil</i> (verb) = hoàn thành, thực hiện. <b>Collocations / chunks</b>: <i>fulfil an ambition / a dream / an obligation</i>; Mỹ <i>fulfill</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He <b>fulfilled</b> his ambition to become a doctor.",
+    "vi": "Anh ấy đã <b>thực hiện</b> tham vọng trở thành bác sĩ."
+   }
+  },
+  {
+   "word": "reach a compromise",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌriːtʃ ə ˈkɒmprəmaɪz/",
+   "def_en": "To agree by both sides accepting less than they wanted.",
+   "def_vi": "Thỏa thuận bằng cách hai bên nhượng bộ.",
+   "gloss_vi": "đạt được thỏa hiệp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reach a compromise</i> (verb) = đạt được thỏa hiệp. <b>Collocations / chunks</b>: <i>reach a compromise / an agreement / a target</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "In the end the two sides <b>reached a compromise</b>.",
+    "vi": "Cuối cùng hai bên đã <b>đạt được thỏa hiệp</b>."
+   }
+  },
+  {
+   "word": "go wrong",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡəʊ ˈrɒŋ/",
+   "def_en": "Not to go as intended.",
+   "def_vi": "Không diễn ra như dự định.",
+   "gloss_vi": "hỏng, trục trặc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go wrong</i> (verb) = hỏng, trục trặc. <b>Grammar</b>: <i>something went wrong</i>.",
+   "example": {
+    "en": "Plans and projects sometimes <b>go wrong</b>.",
+    "vi": "Kế hoạch và dự án đôi khi <b>hỏng</b>."
+   }
+  },
+  {
+   "word": "backfire",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌbækˈfaɪə(r)/",
+   "def_en": "To have the opposite result to the one intended.",
+   "def_vi": "Có kết quả ngược với dự định.",
+   "gloss_vi": "phản tác dụng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Backfire</i> (verb) = phản tác dụng. <b>Grammar</b>: <i>backfire on sb</i>.",
+   "example": {
+    "en": "Plans and projects sometimes <b>backfire</b>.",
+    "vi": "Kế hoạch và dự án đôi khi <b>phản tác dụng</b>."
+   }
+  },
+  {
+   "word": "fold",
+   "sense": "close",
+   "pos": "verb",
+   "ipa": "/fəʊld/",
+   "def_en": "(Of a company, club) to close down through lack of success.",
+   "def_vi": "(Công ty, câu lạc bộ) đóng cửa vì thất bại.",
+   "gloss_vi": "đóng cửa, phá sản",
+   "synonyms": "go under <i>(v. sập tiệm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fold</i> (verb) = đóng cửa, phá sản. <b>Common mistakes</b>: cũng = gấp.",
+   "example": {
+    "en": "Companies, clubs and societies often <b>fold</b> through lack of success.",
+    "vi": "Các công ty thường <b>đóng cửa</b> do làm ăn không thành công."
+   }
+  },
+  {
+   "word": "go under",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡəʊ ˈʌndə(r)/",
+   "def_en": "To close down through lack of success (informal).",
+   "def_vi": "Đóng cửa vì thất bại (thân mật).",
+   "gloss_vi": "sập tiệm",
+   "synonyms": "fold <i>(v. đóng cửa)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go under</i> (verb) = sập tiệm. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "Companies, clubs and societies often <b>go under</b> through lack of success.",
+    "vi": "Các công ty thường <b>sập tiệm</b> do làm ăn không thành công."
+   }
+  },
+  {
+   "word": "falter",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈfɔːltə(r)/",
+   "def_en": "To have ups and downs; to become weaker.",
+   "def_vi": "Lúc lên lúc xuống; yếu đi.",
+   "gloss_vi": "chững lại, chao đảo",
+   "synonyms": "waver <i>(v. dao động)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Falter</i> (verb) = chững lại, chao đảo. <b>Grammar</b>: /ˈfɔːltə/.",
+   "example": {
+    "en": "A plan or project may <b>falter</b>, even if it finally succeeds.",
+    "vi": "Một kế hoạch có thể <b>chao đảo</b>, dù cuối cùng thành công."
+   }
+  },
+  {
+   "word": "come to nothing",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkʌm tə ˈnʌθɪŋ/",
+   "def_en": "To fail to produce any result.",
+   "def_vi": "Không có kết quả gì.",
+   "gloss_vi": "chẳng đi đến đâu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Come to nothing</i> (verb) = chẳng đi đến đâu. <b>Grammar</b>: chủ ngữ thường là <i>plans, efforts</i>.",
+   "example": {
+    "en": "All your plans and hard work / efforts may <b>come to nothing</b>.",
+    "vi": "Mọi kế hoạch và công sức của bạn có thể <b>chẳng đi đến đâu</b>."
+   }
+  },
+  {
+   "word": "difficulty",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdɪfɪkəlti/",
+   "def_en": "A problem; the state of something being hard to do.",
+   "def_vi": "Vấn đề; sự khó khăn.",
+   "gloss_vi": "khó khăn",
+   "synonyms": "trouble <i>(n. rắc rối)</i>",
+   "antonyms": "ease <i>(n. sự dễ dàng)</i>",
+   "grammar_vi": "<i>Difficulty</i> (noun) = khó khăn. <b>Grammar</b>: <i>have difficulty (in) + -ing</i>; KHÔNG dùng <i>difficulties</i> ở đây.",
+   "example": {
+    "en": "I have great <b>difficulty</b> (in) getting up in the morning.",
+    "vi": "Tôi rất <b>khó khăn</b> để dậy vào buổi sáng."
+   }
+  },
+  {
+   "word": "find it difficult",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌfaɪnd ɪt ˈdɪfɪkəlt/",
+   "def_en": "To experience something as hard to do.",
+   "def_vi": "Thấy điều gì khó làm.",
+   "gloss_vi": "thấy khó",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Find it difficult</i> (verb) = thấy khó. <b>Grammar</b>: <i>find it difficult/hard to do sth</i>; <i>hard</i> thân mật hơn.",
+   "example": {
+    "en": "I <b>find it difficult</b> to remember the names of everybody in the class.",
+    "vi": "Tôi <b>thấy khó</b> nhớ tên mọi người trong lớp."
+   }
+  },
+  {
+   "word": "have trouble",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/hæv ˈtrʌbl/",
+   "def_en": "To have problems doing something (more informal).",
+   "def_vi": "Gặp vấn đề khi làm gì (thân mật hơn).",
+   "gloss_vi": "gặp rắc rối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have trouble</i> (verb) = gặp rắc rối. <b>Grammar</b>: <i>have trouble + -ing</i>.",
+   "example": {
+    "en": "I often <b>have trouble</b> starting the car on cold mornings.",
+    "vi": "Tôi thường <b>gặp rắc rối</b> khi khởi động xe vào sáng lạnh."
+   }
+  },
+  {
+   "word": "bother",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɒðə(r)/",
+   "def_en": "Trouble or problems (very informal).",
+   "def_vi": "Phiền toái (rất thân mật).",
+   "gloss_vi": "phiền toái",
+   "synonyms": "trouble <i>(n. rắc rối)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bother</i> (noun) = phiền toái. <b>Grammar</b>: <i>have a lot of bother with</i>; rất thân mật.",
+   "example": {
+    "en": "We’ve had a lot of <b>bother</b> with the neighbours lately.",
+    "vi": "Gần đây chúng tôi gặp nhiều <b>phiền toái</b> với hàng xóm."
+   }
+  },
+  {
+   "word": "cope with",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈkəʊp wɪð/",
+   "def_en": "To deal successfully with a difficult situation.",
+   "def_vi": "Xử lý thành công tình huống khó.",
+   "gloss_vi": "đối phó, xoay xở",
+   "synonyms": "manage <i>(v. xoay xở)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cope with</i> (verb) = đối phó, xoay xở. <b>Grammar</b>: <i>can’t cope (any more)</i> = không chịu nổi.",
+   "example": {
+    "en": "Can you <b>cope with</b> three more students?",
+    "vi": "Bạn có <b>lo được</b> thêm ba học sinh không?"
+   }
+  },
+  {
+   "word": "succeed",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/səkˈsiːd/",
+   "def_en": "To achieve what you tried to do.",
+   "def_vi": "Đạt được điều đã cố gắng.",
+   "gloss_vi": "thành công",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "fail <i>(v. thất bại)</i>",
+   "grammar_vi": "<i>Succeed</i> (verb) = thành công. <b>Grammar</b>: <i>success</i> (n.), <i>successful</i> (adj.), <i>successfully</i> (adv.).",
+   "ex_kit": true,
+   "example": {
+    "en": "If you try hard, you will <b>succeed</b>.",
+    "vi": "Nếu cố gắng, bạn sẽ <b>thành công</b>."
+   }
+  },
+  {
+   "word": "success",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/səkˈses/",
+   "def_en": "The achievement of something you tried to do.",
+   "def_vi": "Sự đạt được điều cố gắng.",
+   "gloss_vi": "thành công",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "failure <i>(n. thất bại)</i>",
+   "grammar_vi": "<i>Success</i> (noun) = thành công. <b>Grammar</b>: <i>have considerable success</i>; KHÔNG dùng <i>successes</i> ở đây.",
+   "example": {
+    "en": "Paul had considerable <b>success</b> with his first novel.",
+    "vi": "Paul đã có <b>thành công</b> đáng kể với cuốn tiểu thuyết đầu tay."
+   }
+  }
+ ]
+}

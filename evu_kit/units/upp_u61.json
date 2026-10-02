@@ -1,0 +1,312 @@
+{
+ "book": "upp",
+ "unit": 61,
+ "title_vi": "Thời gian: từ và cụm nối",
+ "theory_html": "<p><b>A. One thing before another</b><br><i>A. Việc này trước việc kia</i></p> <p><b>prior to</b> (formal/written), <b>previously</b> (fairly formal; more informal: <b>Before that, I…</b>), <b>earlier on</b> [before then; fairly informal], <b>formerly</b> (fairly formal, used when something has changed its name, state, etc.), <b>in the meantime / meanwhile</b>.</p><p><i><b>trước khi</b> (trang trọng), <b>trước đó</b>, <b>lúc nãy</b>, <b>trước đây</b> (đổi tên, trạng thái), <b>trong lúc chờ</b>.</i></p> <p><b>B. Things happening at the same time</b><br><i>B. Việc xảy ra cùng lúc</i></p> <p><b>(at) the very time / the very moment</b> (stronger and more precise than <b>as</b> or <b>just as</b>), <b>simultaneously</b> [started and ended at exactly the same time], <b>during, throughout</b>.</p><p><i><b>đúng lúc</b>, <b>đồng thời</b>, <b>trong suốt</b>.</i></p> <p><b>LH. Language help</b><br><i>LH. Lưu ý ngôn ngữ</i></p> <p><b>During</b> does not specify how long within a period of time. <b>Throughout</b> means from the beginning to the end of a period of time.</p><p><i><b>During</b> không nói rõ bao lâu trong khoảng thời gian; <b>throughout</b> là từ đầu đến cuối.</i></p> <p><b>C. One thing after another</b><br><i>C. Việc này sau việc kia</i></p> <p>Formal: <b>following</b> [after], <b>subsequently</b> [at some time after that], <b>thereafter</b> [after that]. Note also <b>immediate</b> [which happened at once].</p><p><i>Trang trọng: <b>sau khi</b>, <b>sau đó</b>, <b>từ đó về sau</b>. <b>Immediate</b>: xảy ra ngay.</i></p> <p><b>D. Time when</b><br><i>D. Thời điểm khi</i></p> <p><b>the moment / the minute, the time (that), on that occasion</b> (more formal).</p><p><i><b>ngay khi, lần mà, vào dịp đó</b>.</i></p> <p><b>E. Non-specific time expressions</b><br><i>E. Cụm chỉ thời gian không cụ thể</i></p> <p><b>at a later stage, at some point</b> [at an unspecified time in the future].</p><p><i><b>ở giai đoạn sau, vào một lúc nào đó</b>.</i></p>",
+ "items": [
+  {
+   "word": "prior to",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ˈpraɪə tə/",
+   "def_en": "Before (formal/written).",
+   "def_vi": "Trước (trang trọng/văn viết).",
+   "gloss_vi": "trước khi",
+   "synonyms": "before <i>(prep. trước)</i>",
+   "antonyms": "after <i>(prep. sau)</i>",
+   "grammar_vi": "<i>Prior to</i> (preposition) = trước khi. <b>Grammar</b>: + danh từ hoặc -ing; trang trọng.",
+   "example": {
+    "en": "I had written to her <b>prior to</b> meeting the committee.",
+    "vi": "Tôi đã viết thư cho bà ấy <b>trước khi</b> gặp ủy ban."
+   }
+  },
+  {
+   "word": "previously",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈpriːviəsli/",
+   "def_en": "Before (fairly formal).",
+   "def_vi": "Trước đó (khá trang trọng).",
+   "gloss_vi": "trước đó",
+   "synonyms": "before that <i>(adv. trước đó)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Previously</i> (adverb) = trước đó. <b>Grammar</b>: thân mật hơn: <i>Before that, I…</i>.",
+   "example": {
+    "en": "It was nice to be in Venice. <b>Previously</b> I’d only been to Rome.",
+    "vi": "Thật vui được ở Venice. <b>Trước đó</b> tôi chỉ mới đến Rome."
+   }
+  },
+  {
+   "word": "earlier on",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌɜːliər ˈɒn/",
+   "def_en": "Before then (fairly informal).",
+   "def_vi": "Trước lúc đó (khá thân mật).",
+   "gloss_vi": "lúc nãy, trước đó",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "later on <i>(adv. lát nữa)</i>",
+   "grammar_vi": "<i>Earlier on</i> (adverb) = lúc nãy, trước đó. <b>Grammar</b>: khá thân mật.",
+   "example": {
+    "en": "I was in the office from 2.30. I was out <b>earlier on</b>.",
+    "vi": "Tôi ở văn phòng từ 2 giờ 30. <b>Trước đó</b> tôi ra ngoài."
+   }
+  },
+  {
+   "word": "formerly",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈfɔːməli/",
+   "def_en": "In the past, before a change of name or state (fairly formal).",
+   "def_vi": "Trước đây, trước khi đổi tên hay trạng thái.",
+   "gloss_vi": "trước đây",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Formerly</i> (adverb) = trước đây. <b>Grammar</b>: khá trang trọng, văn viết; khác <i>formally</i>.",
+   "example": {
+    "en": "The street is now called Treetop Avenue. <b>Formerly</b> it was Hedge Lane.",
+    "vi": "Phố này giờ gọi là Treetop Avenue. <b>Trước đây</b> nó là Hedge Lane."
+   }
+  },
+  {
+   "word": "in the meantime",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ɪn ðə ˈmiːntaɪm/",
+   "def_en": "Between now and a future event.",
+   "def_vi": "Trong khoảng từ giờ đến một sự kiện.",
+   "gloss_vi": "trong lúc chờ đợi",
+   "synonyms": "meanwhile <i>(adv. trong khi đó)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In the meantime</i> (adverb) = trong lúc chờ đợi. <b>Grammar</b>: = <i>meanwhile</i>.",
+   "example": {
+    "en": "Dinner will be ready in about an hour. <b>In the meantime</b>, relax and have a drink.",
+    "vi": "Khoảng một tiếng nữa bữa tối mới xong. <b>Trong lúc chờ</b>, hãy thư giãn và uống gì đó."
+   }
+  },
+  {
+   "word": "meanwhile",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈmiːnwaɪl/",
+   "def_en": "In the time between two events; at the same time.",
+   "def_vi": "Trong khoảng giữa hai sự kiện; đồng thời.",
+   "gloss_vi": "trong khi đó",
+   "synonyms": "in the meantime <i>(adv. trong lúc chờ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Meanwhile</i> (adverb) = trong khi đó. <b>Grammar</b>: thường đầu câu.",
+   "example": {
+    "en": "Dinner will be ready in about an hour. <b>Meanwhile</b>, relax and have a drink.",
+    "vi": "Khoảng một tiếng nữa bữa tối mới xong. <b>Trong khi chờ</b>, hãy thư giãn."
+   }
+  },
+  {
+   "word": "the very moment",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ðə ˌveri ˈməʊmənt/",
+   "def_en": "Exactly at the time when.",
+   "def_vi": "Đúng vào lúc.",
+   "gloss_vi": "đúng lúc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The very moment</i> (noun) = đúng lúc. <b>Grammar</b>: cũng <i>(at) the very time</i>; mạnh và chính xác hơn <i>as / just as</i>.",
+   "example": {
+    "en": "She was entering <b>the very moment</b> I was leaving.",
+    "vi": "Cô ấy đi vào <b>đúng lúc</b> tôi đi ra."
+   }
+  },
+  {
+   "word": "simultaneously",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌsɪmlˈteɪniəsli/",
+   "def_en": "Starting and ending at exactly the same time.",
+   "def_vi": "Bắt đầu và kết thúc cùng lúc.",
+   "gloss_vi": "đồng thời",
+   "synonyms": "at the same time <i>(adv. cùng lúc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Simultaneously</i> (adverb) = đồng thời. <b>Grammar</b>: <i>simultaneous</i> (adj.).",
+   "example": {
+    "en": "The two events happened <b>simultaneously</b>.",
+    "vi": "Hai sự kiện xảy ra <b>đồng thời</b>."
+   }
+  },
+  {
+   "word": "during",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ˈdjʊərɪŋ/",
+   "def_en": "At some time within a period.",
+   "def_vi": "Vào một lúc trong khoảng thời gian.",
+   "gloss_vi": "trong (thời gian)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>During</i> (preposition) = trong (thời gian). <b>Grammar</b>: không nói rõ bao lâu; khác <i>throughout</i>.",
+   "example": {
+    "en": "<b>During</b> the war, she lived in Dublin.",
+    "vi": "<b>Trong</b> chiến tranh, bà ấy sống ở Dublin."
+   }
+  },
+  {
+   "word": "throughout",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/θruːˈaʊt/",
+   "def_en": "From the beginning to the end of a period.",
+   "def_vi": "Từ đầu đến cuối một khoảng thời gian.",
+   "gloss_vi": "suốt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Throughout</i> (preposition) = suốt. <b>Grammar</b>: từ đầu đến cuối; khác <i>during</i>.",
+   "example": {
+    "en": "<b>Throughout</b> the war, they remained in the city.",
+    "vi": "<b>Suốt</b> cuộc chiến, họ vẫn ở lại thành phố."
+   }
+  },
+  {
+   "word": "following",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ˈfɒləʊɪŋ/",
+   "def_en": "After (formal).",
+   "def_vi": "Sau (trang trọng).",
+   "gloss_vi": "sau khi",
+   "synonyms": "after <i>(prep. sau)</i>",
+   "antonyms": "prior to <i>(prep. trước)</i>",
+   "grammar_vi": "<i>Following</i> (preposition) = sau khi. <b>Grammar</b>: khá trang trọng.",
+   "example": {
+    "en": "<b>Following</b> my first visit to Beijing, I read several books about China.",
+    "vi": "<b>Sau</b> chuyến thăm Bắc Kinh đầu tiên, tôi đọc vài cuốn sách về Trung Quốc."
+   }
+  },
+  {
+   "word": "subsequently",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈsʌbsɪkwəntli/",
+   "def_en": "At some time after that (formal).",
+   "def_vi": "Vào lúc nào đó sau đó (trang trọng).",
+   "gloss_vi": "sau đó",
+   "synonyms": "later <i>(adv. sau này)</i>",
+   "antonyms": "previously <i>(adv. trước đó)</i>",
+   "grammar_vi": "<i>Subsequently</i> (adverb) = sau đó. <b>Grammar</b>: <i>subsequent</i> (adj.).",
+   "example": {
+    "en": "I read several books about China and <b>subsequently</b> decided to take a six-month course in Mandarin Chinese.",
+    "vi": "Tôi đọc vài cuốn sách về Trung Quốc và <b>sau đó</b> quyết định học khóa tiếng Quan Thoại sáu tháng."
+   }
+  },
+  {
+   "word": "thereafter",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌðeərˈɑːftə(r)/",
+   "def_en": "After that (formal).",
+   "def_vi": "Sau đó (trang trọng).",
+   "gloss_vi": "từ đó về sau",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Thereafter</i> (adverb) = từ đó về sau. <b>Grammar</b>: khá trang trọng.",
+   "example": {
+    "en": "I revisited China on several occasions <b>thereafter</b>.",
+    "vi": "Tôi trở lại Trung Quốc nhiều lần <b>từ đó về sau</b>."
+   }
+  },
+  {
+   "word": "immediate",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪˈmiːdiət/",
+   "def_en": "Happening at once.",
+   "def_vi": "Xảy ra ngay lập tức.",
+   "gloss_vi": "tức thì",
+   "synonyms": "instant <i>(adj. tức thời)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Immediate</i> (adjective) = tức thì. <b>Grammar</b>: <i>immediately</i> (adv.).",
+   "example": {
+    "en": "The government removed the price regulations and the <b>immediate</b> result was a 10% price rise.",
+    "vi": "Chính phủ bỏ quy định giá và kết quả <b>tức thì</b> là giá tăng 10%."
+   }
+  },
+  {
+   "word": "the moment",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/ðə ˈməʊmənt/",
+   "def_en": "As soon as.",
+   "def_vi": "Ngay khi.",
+   "gloss_vi": "ngay khi",
+   "synonyms": "the minute <i>(conj. ngay khi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The moment</i> (conjunction) = ngay khi. <b>Grammar</b>: cũng <i>the minute</i>.",
+   "example": {
+    "en": "<b>The moment</b> I saw his face I knew I’d met him before.",
+    "vi": "<b>Ngay khi</b> thấy mặt anh ta, tôi biết mình đã gặp anh ta."
+   }
+  },
+  {
+   "word": "the time",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/ðə ˈtaɪm/",
+   "def_en": "On the occasion when.",
+   "def_vi": "Vào lần mà.",
+   "gloss_vi": "lần mà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The time</i> (conjunction) = lần mà. <b>Grammar</b>: <i>the time (that)…</i>.",
+   "example": {
+    "en": "I stayed in that hospital <b>the time</b> (that) I broke my leg.",
+    "vi": "Tôi nằm viện đó <b>lần</b> tôi gãy chân."
+   }
+  },
+  {
+   "word": "on that occasion",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ɒn ðæt əˈkeɪʒn/",
+   "def_en": "At that particular time (more formal).",
+   "def_vi": "Vào lần đó (trang trọng hơn).",
+   "gloss_vi": "vào dịp đó",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>On that occasion</i> (adverb) = vào dịp đó. <b>Grammar</b>: trang trọng hơn.",
+   "example": {
+    "en": "<b>On that occasion</b> she was with a different man.",
+    "vi": "<b>Vào dịp đó</b> cô ấy đi cùng một người đàn ông khác."
+   }
+  },
+  {
+   "word": "at a later stage",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ət ə ˌleɪtə ˈsteɪdʒ/",
+   "def_en": "At some time in the future.",
+   "def_vi": "Vào lúc nào đó sau này.",
+   "gloss_vi": "ở giai đoạn sau",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>At a later stage</i> (adverb) = ở giai đoạn sau. <b>Grammar</b>: = <i>later</i>, trang trọng hơn.",
+   "example": {
+    "en": "<b>At a later stage</b> we can discuss the detailed arrangements.",
+    "vi": "Giờ ta bàn ngân sách. <b>Ở giai đoạn sau</b> ta sẽ bàn chi tiết."
+   }
+  },
+  {
+   "word": "at some point",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ət ˈsʌm pɔɪnt/",
+   "def_en": "At an unspecified time in the future.",
+   "def_vi": "Vào lúc không xác định trong tương lai.",
+   "gloss_vi": "vào lúc nào đó",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>At some point</i> (adverb) = vào lúc nào đó. <b>Grammar</b>: thời điểm không xác định.",
+   "example": {
+    "en": "<b>At some point</b> we will have to replace our computers, but we’re OK for the moment.",
+    "vi": "<b>Vào lúc nào đó</b> chúng ta sẽ phải thay máy tính."
+   }
+  }
+ ]
+}
