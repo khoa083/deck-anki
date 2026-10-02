@@ -1,0 +1,328 @@
+{
+ "book": "bus",
+ "unit": 15,
+ "title_vi": "Đổi mới và phát minh",
+ "theory_html": "<p><b>A. Innovation and invention</b><br><i>A. Đổi mới và phát minh</i></p> <p>Verb – concept – thing – person: <b>design – design – a design – a designer; develop – development – a development – a developer; innovate – innovation – an innovation – an innovator; invent – invention – an invention – an inventor</b>.</p><p><i><b>thiết kế, phát triển, đổi mới, phát minh</b> và danh từ chỉ khái niệm, vật, người.</i></p> <p><b>B. Research and technology</b><br><i>B. Nghiên cứu và công nghệ</i></p> <p><b>research and development (R&D), research centre (AmE center), laboratories, innovative, breakthroughs, released, technology, cutting edge / leading edge</b> (cutting edge ~3× as common; also adjectives), <b>state-of-the-art, hi-tech, low-tech, obsolete, future-proof</b>.</p><p><i><b>nghiên cứu và phát triển, trung tâm nghiên cứu, phòng thí nghiệm, đổi mới, đột phá, phát hành, công nghệ, tiên tiến nhất, hiện đại nhất, công nghệ cao, công nghệ thấp, lỗi thời, không lỗi thời</b>.</i></p> <p><b>C. Patents and intellectual property</b><br><i>C. Bằng sáng chế và sở hữu trí tuệ</i></p> <p><b>proprietary, patents, under licence (BrE n. licence / AmE license; v. license), royalties, copyright, copyright infringement, illegal downloading, piracy, fake, brand name, trademark, intellectual property</b>.</p><p><i><b>độc quyền, bằng sáng chế, theo giấy phép, tiền bản quyền, bản quyền, vi phạm bản quyền, tải lậu, vi phạm bản quyền, hàng giả, tên thương hiệu, nhãn hiệu, sở hữu trí tuệ</b>.</i></p>",
+ "items": [
+  {
+   "word": "design",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪˈzaɪn/",
+   "def_en": "To make plans or drawings for how something is to be made.",
+   "def_vi": "Lên kế hoạch, bản vẽ cách làm ra thứ gì.",
+   "gloss_vi": "thiết kế",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Design</i> (verb) = thiết kế. <b>Grammar</b>: người = <i>designer</i>.",
+   "example": {
+    "en": "<b>design</b> – to make plans or drawings for how something is to be made",
+    "vi": "<b>Thiết kế</b> là lập bản vẽ cách làm ra thứ gì."
+   }
+  },
+  {
+   "word": "develop",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪˈveləp/",
+   "def_en": "To make a new idea become successful, e.g. by making or improving a product.",
+   "def_vi": "Làm ý tưởng mới thành công, vd làm hay cải tiến sản phẩm.",
+   "gloss_vi": "phát triển",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Develop</i> (verb) = phát triển. <b>Grammar</b>: người = <i>developer</i>.",
+   "example": {
+    "en": "<b>develop</b> – to make a new idea become successful, for example by making or improving a product",
+    "vi": "<b>Phát triển</b> là làm ý tưởng mới thành công."
+   }
+  },
+  {
+   "word": "innovate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈɪnəveɪt/",
+   "def_en": "To think of new ideas, methods, products, etc.",
+   "def_vi": "Nghĩ ra ý tưởng, phương pháp, sản phẩm mới.",
+   "gloss_vi": "đổi mới, cách tân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Innovate</i> (verb) = đổi mới, cách tân. <b>Grammar</b>: danh từ <i>innovation</i>; người <i>innovator</i>.",
+   "example": {
+    "en": "<b>innovate</b> – to think of new ideas, methods, products, etc.",
+    "vi": "<b>Đổi mới</b> là nghĩ ra ý tưởng, sản phẩm mới."
+   }
+  },
+  {
+   "word": "invent",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪnˈvent/",
+   "def_en": "To design and make something for the first time.",
+   "def_vi": "Thiết kế và làm ra thứ gì lần đầu.",
+   "gloss_vi": "phát minh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Invent</i> (verb) = phát minh. <b>Grammar</b>: danh từ <i>invention</i>; người <i>inventor</i>.",
+   "example": {
+    "en": "<b>invent</b> – to design and make something for the first time",
+    "vi": "<b>Phát minh</b> là tạo ra thứ gì lần đầu tiên."
+   }
+  },
+  {
+   "word": "research and development",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˌsɜːtʃ ən dɪˈveləpmənt/",
+   "def_en": "Work to develop new products (R&D).",
+   "def_vi": "Công việc phát triển sản phẩm mới (R&D).",
+   "gloss_vi": "nghiên cứu và phát triển",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Research and development</i> (noun) = nghiên cứu và phát triển. <b>Grammar</b>: viết tắt <i>R&D</i>.",
+   "example": {
+    "en": "Google carries out <b>research and development</b> (R&D) at its research centre in Mountain View, California.",
+    "vi": "Google thực hiện <b>nghiên cứu và phát triển</b> tại trung tâm ở California."
+   }
+  },
+  {
+   "word": "innovative",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɪnəveɪtɪv/",
+   "def_en": "Using new ideas and methods.",
+   "def_vi": "Dùng ý tưởng, phương pháp mới.",
+   "gloss_vi": "đổi mới, sáng tạo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Innovative</i> (adjective) = đổi mới, sáng tạo. <b>Grammar</b>: danh từ <i>innovation</i>.",
+   "example": {
+    "en": "Its laboratories are some of the most <b>innovative</b> in the computer industry.",
+    "vi": "Phòng thí nghiệm của họ thuộc loại <b>sáng tạo</b> nhất ngành."
+   }
+  },
+  {
+   "word": "breakthrough",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbreɪkθruː/",
+   "def_en": "An important innovation.",
+   "def_vi": "Đổi mới quan trọng.",
+   "gloss_vi": "bước đột phá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Breakthrough</i> (noun) = bước đột phá. <b>Collocations / chunks</b>: <i>make a breakthrough</i>.",
+   "example": {
+    "en": "Google has made many new <b>breakthroughs</b> – innovations.",
+    "vi": "Google đã có nhiều <b>bước đột phá</b> mới."
+   }
+  },
+  {
+   "word": "cutting edge",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkʌtɪŋ ˈedʒ/",
+   "def_en": "The most advanced stage of a technology.",
+   "def_vi": "Giai đoạn tiên tiến nhất của công nghệ.",
+   "gloss_vi": "đỉnh cao công nghệ",
+   "synonyms": "leading edge <i>(n. hàng đầu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cutting edge</i> (noun) = đỉnh cao công nghệ. <b>Collocations / chunks</b>: dùng như tính từ <i>cutting-edge products</i>.",
+   "example": {
+    "en": "They are at the <b>cutting edge</b> or leading edge of this technology",
+    "vi": "Họ ở <b>đỉnh cao</b> của công nghệ này."
+   }
+  },
+  {
+   "word": "state-of-the-art",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌsteɪt əv ði ˈɑːt/",
+   "def_en": "Using the most advanced techniques available.",
+   "def_vi": "Dùng kỹ thuật tiên tiến nhất hiện có.",
+   "gloss_vi": "hiện đại nhất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>State-of-the-art</i> (adjective) = hiện đại nhất. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "Everything they do is <b>state-of-the-art</b> – using the most advanced techniques available.",
+    "vi": "Mọi thứ họ làm đều <b>hiện đại nhất</b>."
+   }
+  },
+  {
+   "word": "obsolete",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɒbsəliːt/",
+   "def_en": "No longer up-to-date because using old technology.",
+   "def_vi": "Không còn hợp thời vì dùng công nghệ cũ.",
+   "gloss_vi": "lỗi thời",
+   "synonyms": "outdated <i>(adj. lạc hậu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Obsolete</i> (adjective) = lỗi thời. <b>Grammar</b>: danh từ <i>obsolescence</i>.",
+   "example": {
+    "en": "Products that are no longer up-to-date because they use old technology are <b>obsolete</b>.",
+    "vi": "Sản phẩm dùng công nghệ cũ là <b>lỗi thời</b>."
+   }
+  },
+  {
+   "word": "future-proof",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈfjuːtʃə pruːf/",
+   "def_en": "Not likely to become out of date.",
+   "def_vi": "Không dễ lỗi thời.",
+   "gloss_vi": "không lỗi thời",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Future-proof</i> (adjective) = không lỗi thời. <b>Grammar</b>: tính từ ghép <i>-proof</i>.",
+   "example": {
+    "en": "they want to develop technology that is <b>future-proof</b>",
+    "vi": "Họ muốn phát triển công nghệ <b>không lỗi thời</b>."
+   }
+  },
+  {
+   "word": "proprietary",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/prəˈpraɪətri/",
+   "def_en": "(Of information or knowledge) belonging to an individual or company.",
+   "def_vi": "(Thông tin) thuộc về cá nhân hay công ty.",
+   "gloss_vi": "độc quyền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Proprietary</i> (adjective) = độc quyền. <b>Grammar</b>: trang trọng.",
+   "example": {
+    "en": "Information or knowledge that belongs to an individual or company is <b>proprietary</b>.",
+    "vi": "Thông tin thuộc về công ty là <b>độc quyền</b>."
+   }
+  },
+  {
+   "word": "patent",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpætnt/",
+   "def_en": "Legal protection so that others cannot copy a product’s design.",
+   "def_vi": "Bảo hộ pháp lý để người khác không sao chép thiết kế.",
+   "gloss_vi": "bằng sáng chế",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Patent</i> (noun) = bằng sáng chế. <b>Grammar</b>: cũng là động từ <i>patent</i>.",
+   "example": {
+    "en": "A product developed using such information may be protected in law by <b>patents</b>",
+    "vi": "Sản phẩm có thể được <b>bằng sáng chế</b> bảo vệ."
+   }
+  },
+  {
+   "word": "under licence",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌʌndə ˈlaɪsns/",
+   "def_en": "With official permission to use a design, in return for payment.",
+   "def_vi": "Được phép dùng thiết kế, có trả phí.",
+   "gloss_vi": "theo giấy phép",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Under licence</i> (adverb) = theo giấy phép. <b>Grammar</b>: Anh danh từ <i>licence</i>, động từ <i>license</i>.",
+   "example": {
+    "en": "Other companies may pay to use a design <b>under licence</b> in their own products.",
+    "vi": "Công ty khác có thể trả tiền dùng thiết kế <b>theo giấy phép</b>."
+   }
+  },
+  {
+   "word": "royalties",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈrɔɪəltiz/",
+   "def_en": "Payments for using a design or work under licence.",
+   "def_vi": "Tiền trả để dùng thiết kế, tác phẩm theo giấy phép.",
+   "gloss_vi": "tiền bản quyền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Royalties</i> (noun) = tiền bản quyền. <b>Grammar</b>: số nhiều.",
+   "example": {
+    "en": "These payments may be referred to as <b>royalties</b>.",
+    "vi": "Khoản trả này có thể gọi là <b>tiền bản quyền</b>."
+   }
+  },
+  {
+   "word": "copyright",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɒpiraɪt/",
+   "def_en": "Legal right meaning a text, picture, etc. cannot be used without permission.",
+   "def_vi": "Quyền pháp lý cấm dùng văn bản, hình ảnh khi chưa cho phép.",
+   "gloss_vi": "bản quyền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Copyright</i> (noun) = bản quyền. <b>Collocations / chunks</b>: <i>copyright infringement</i>.",
+   "example": {
+    "en": "In publishing, if a text, picture, etc. is <b>copyright</b>, it cannot be used by others without permission",
+    "vi": "Nếu văn bản có <b>bản quyền</b>, người khác không được dùng."
+   }
+  },
+  {
+   "word": "piracy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpaɪrəsi/",
+   "def_en": "Illegal copying or downloading of music, films and software.",
+   "def_vi": "Sao chép, tải lậu nhạc, phim, phần mềm.",
+   "gloss_vi": "vi phạm bản quyền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Piracy</i> (noun) = vi phạm bản quyền. <b>Grammar</b>: người = <i>pirate</i>.",
+   "example": {
+    "en": "illegal downloading of music, films and software from the internet: this is <b>piracy</b>",
+    "vi": "Tải lậu từ internet là <b>vi phạm bản quyền</b>."
+   }
+  },
+  {
+   "word": "fake",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/feɪk/",
+   "def_en": "Copied and sold without the permission of the brand owner.",
+   "def_vi": "Sao chép và bán không phép chủ thương hiệu.",
+   "gloss_vi": "giả",
+   "synonyms": "counterfeit <i>(adj. giả mạo)</i>",
+   "antonyms": "genuine <i>(adj. thật)</i>",
+   "grammar_vi": "<i>Fake</i> (adjective) = giả. <b>Grammar</b>: cũng là danh từ <i>a fake</i>.",
+   "example": {
+    "en": "Another form of piracy is when <b>fake</b> products, often luxury products such as Rolex or Chanel, are sold",
+    "vi": "Bán hàng <b>giả</b> như Rolex hay Chanel."
+   }
+  },
+  {
+   "word": "trademark",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtreɪdmɑːk/",
+   "def_en": "A recognizable symbol used on a product.",
+   "def_vi": "Biểu tượng dễ nhận trên sản phẩm.",
+   "gloss_vi": "nhãn hiệu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trademark</i> (noun) = nhãn hiệu. <b>Grammar</b>: danh từ ghép.",
+   "example": {
+    "en": "without the permission of the company that owns the brand name or <b>trademark</b> – a recognizable symbol used on the product",
+    "vi": "Không có phép của chủ <b>nhãn hiệu</b>."
+   }
+  },
+  {
+   "word": "intellectual property",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɪntəˌlektʃuəl ˈprɒpəti/",
+   "def_en": "The area of law relating to patents, copyright and trademarks.",
+   "def_vi": "Lĩnh vực luật về bằng sáng chế, bản quyền, nhãn hiệu.",
+   "gloss_vi": "sở hữu trí tuệ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Intellectual property</i> (noun) = sở hữu trí tuệ. <b>Grammar</b>: viết tắt <i>IP</i>.",
+   "example": {
+    "en": "The area of law relating to patents, copyright and trademarks is <b>intellectual property</b>.",
+    "vi": "Luật về bằng sáng chế, bản quyền, nhãn hiệu là <b>sở hữu trí tuệ</b>."
+   }
+  }
+ ]
+}

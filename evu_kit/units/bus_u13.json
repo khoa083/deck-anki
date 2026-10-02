@@ -1,0 +1,408 @@
+{
+ "book": "bus",
+ "unit": 13,
+ "title_vi": "Sản xuất và dịch vụ",
+ "theory_html": "<p><b>A. Manufacturing and services</b><br><i>A. Sản xuất và dịch vụ</i></p> <p><b>manufacturing industries / manufacturing sector</b>: <b>aerospace, cars (BrE) / automobiles (AmE), computer hardware, construction, defence (BrE) / defense (AmE), electronics, food processing, household goods, pharmaceuticals, steel, textiles</b>. <b>services / service industries / service sector</b>: <b>call centres, catering, computer software, financial services, healthcare, leisure, media, property (BrE) / real estate (AmE), retail, telecommunications, tourism</b>. Note: use in front of <b>industry</b>, dropping <b>s</b> (<b>the automobile industry</b>).</p><p><i><b>ngành sản xuất: hàng không vũ trụ, ô tô, phần cứng, xây dựng, quốc phòng, điện tử, chế biến thực phẩm, đồ gia dụng, dược phẩm, thép, dệt may; ngành dịch vụ: tổng đài, ăn uống, phần mềm, dịch vụ tài chính, y tế, giải trí, truyền thông, bất động sản, bán lẻ, viễn thông, du lịch</b>.</i></p> <p><b>B. Countries and their industries</b><br><i>B. Các nước và ngành công nghiệp</i></p> <p><b>industry</b> (uncountable = production of goods; countable = a type of business activity), <b>industrial, industrialize, emerging industries, economy, growth industries, light industries, heavy industries, diversified</b>.</p><p><i><b>công nghiệp, ngành, thuộc công nghiệp, công nghiệp hóa, ngành mới nổi, nền kinh tế, ngành tăng trưởng, công nghiệp nhẹ, công nghiệp nặng, đa dạng hóa</b>.</i></p>",
+ "items": [
+  {
+   "word": "manufacturing sector",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmænjuˈfæktʃərɪŋ ˌsektə(r)/",
+   "def_en": "All the industries that make goods.",
+   "def_vi": "Mọi ngành làm ra hàng hóa.",
+   "gloss_vi": "khu vực sản xuất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "service sector <i>(n. khu vực dịch vụ)</i>",
+   "grammar_vi": "<i>Manufacturing sector</i> (noun) = khu vực sản xuất. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "manufacturing industries that make up the <b>manufacturing sector</b>",
+    "vi": "Các ngành sản xuất hợp thành <b>khu vực sản xuất</b>."
+   }
+  },
+  {
+   "word": "aerospace",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈeərəʊspeɪs/",
+   "def_en": "The industry making planes and space vehicles.",
+   "def_vi": "Ngành làm máy bay và tàu vũ trụ.",
+   "gloss_vi": "hàng không vũ trụ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Aerospace</i> (noun) = hàng không vũ trụ. <b>Collocations / chunks</b>: <i>the aerospace industry</i>.",
+   "example": {
+    "en": "<b>aerospace</b> planes and space vehicles",
+    "vi": "<b>Hàng không vũ trụ</b>: máy bay và phương tiện vũ trụ."
+   }
+  },
+  {
+   "word": "automobile industry",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɔːtəməbiːl ˌɪndəstri/",
+   "def_en": "The car industry (AmE automobiles).",
+   "def_vi": "Ngành ô tô.",
+   "gloss_vi": "ngành ô tô",
+   "synonyms": "car industry <i>(n. ngành ô tô)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Automobile industry</i> (noun) = ngành ô tô. <b>Grammar</b>: bỏ <i>-s</i> trước <i>industry</i>.",
+   "example": {
+    "en": "You usually drop the s from cars, automobiles, pharmaceuticals and textiles: the <b>automobile industry</b>, etc.",
+    "vi": "Thường bỏ *s*: <b>ngành ô tô</b>."
+   }
+  },
+  {
+   "word": "computer hardware",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəmˌpjuːtə ˈhɑːdweə(r)/",
+   "def_en": "Computers, printers, etc.",
+   "def_vi": "Máy tính, máy in…",
+   "gloss_vi": "phần cứng máy tính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "computer software <i>(n. phần mềm)</i>",
+   "grammar_vi": "<i>Computer hardware</i> (noun) = phần cứng máy tính. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "<b>computer hardware</b> computers, printers, etc.",
+    "vi": "<b>Phần cứng máy tính</b>: máy tính, máy in."
+   }
+  },
+  {
+   "word": "construction",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kənˈstrʌkʃn/",
+   "def_en": "The industry that makes buildings.",
+   "def_vi": "Ngành làm nhà cửa.",
+   "gloss_vi": "xây dựng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Construction</i> (noun) = xây dựng. <b>Collocations / chunks</b>: <i>the construction industry</i>.",
+   "example": {
+    "en": "<b>construction</b> buildings",
+    "vi": "<b>Xây dựng</b>: các tòa nhà."
+   }
+  },
+  {
+   "word": "defence",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈfens/",
+   "def_en": "The industry that makes weapons (BrE; AmE defense).",
+   "def_vi": "Ngành sản xuất vũ khí.",
+   "gloss_vi": "quốc phòng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Defence</i> (noun) = quốc phòng. <b>Grammar</b>: Anh <i>defence</i>; Mỹ <i>defense</i>.",
+   "example": {
+    "en": "<b>defence</b> (BrE) defense (AmE) weapons",
+    "vi": "<b>Quốc phòng</b>: vũ khí."
+   }
+  },
+  {
+   "word": "food processing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfuːd ˌprəʊsesɪŋ/",
+   "def_en": "Making canned, frozen, etc. foods.",
+   "def_vi": "Làm thực phẩm đóng hộp, đông lạnh.",
+   "gloss_vi": "chế biến thực phẩm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Food processing</i> (noun) = chế biến thực phẩm. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "<b>food processing</b> canned, frozen, etc. foods",
+    "vi": "<b>Chế biến thực phẩm</b>: đồ hộp, đồ đông lạnh."
+   }
+  },
+  {
+   "word": "household goods",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌhaʊshəʊld ˈɡʊdz/",
+   "def_en": "Washing machines, refrigerators, etc.",
+   "def_vi": "Máy giặt, tủ lạnh…",
+   "gloss_vi": "đồ gia dụng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Household goods</i> (noun) = đồ gia dụng. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "<b>household goods</b> washing machines, refrigerators, etc.",
+    "vi": "<b>Đồ gia dụng</b>: máy giặt, tủ lạnh."
+   }
+  },
+  {
+   "word": "pharmaceuticals",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌfɑːməˈsuːtɪklz/",
+   "def_en": "Medicines.",
+   "def_vi": "Thuốc men.",
+   "gloss_vi": "dược phẩm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pharmaceuticals</i> (noun) = dược phẩm. <b>Collocations / chunks</b>: <i>the pharmaceutical industry</i> (bỏ <i>-s</i>).",
+   "example": {
+    "en": "<b>pharmaceuticals</b> medicines",
+    "vi": "<b>Dược phẩm</b>: thuốc."
+   }
+  },
+  {
+   "word": "steel",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/stiːl/",
+   "def_en": "A strong metal used in making machinery and cars.",
+   "def_vi": "Kim loại bền dùng làm máy móc, ô tô.",
+   "gloss_vi": "thép",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Steel</i> (noun) = thép. <b>Collocations / chunks</b>: <i>the steel industry</i>.",
+   "example": {
+    "en": "<b>steel</b> a strong metal used in the manufacturing of machinery and cars",
+    "vi": "<b>Thép</b>: kim loại bền dùng làm máy móc và ô tô."
+   }
+  },
+  {
+   "word": "textiles",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtekstaɪlz/",
+   "def_en": "Cloth and clothes.",
+   "def_vi": "Vải và quần áo.",
+   "gloss_vi": "dệt may",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Textiles</i> (noun) = dệt may. <b>Collocations / chunks</b>: <i>the textile industry</i> (bỏ <i>-s</i>).",
+   "example": {
+    "en": "<b>textiles</b> cloth and clothes",
+    "vi": "<b>Dệt may</b>: vải và quần áo."
+   }
+  },
+  {
+   "word": "service sector",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɜːvɪs ˌsektə(r)/",
+   "def_en": "All the industries that provide services.",
+   "def_vi": "Mọi ngành cung cấp dịch vụ.",
+   "gloss_vi": "khu vực dịch vụ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "manufacturing sector <i>(n. khu vực sản xuất)</i>",
+   "grammar_vi": "<i>Service sector</i> (noun) = khu vực dịch vụ. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "services or service industries that make up the <b>service sector</b>",
+    "vi": "Các ngành dịch vụ hợp thành <b>khu vực dịch vụ</b>."
+   }
+  },
+  {
+   "word": "call centre",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɔːl ˌsentə(r)/",
+   "def_en": "An office dealing with orders, complaints, etc. from customers by phone.",
+   "def_vi": "Văn phòng xử lý đơn hàng, khiếu nại qua điện thoại.",
+   "gloss_vi": "tổng đài chăm sóc khách hàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Call centre</i> (noun) = tổng đài chăm sóc khách hàng. <b>Grammar</b>: Anh <i>centre</i>; Mỹ <i>center</i>.",
+   "example": {
+    "en": "<b>call centres</b> (BrE) call centers (AmE) dealing with orders, complaints, etc. from customers by phone",
+    "vi": "<b>Tổng đài</b>: xử lý đơn và khiếu nại qua điện thoại."
+   }
+  },
+  {
+   "word": "catering",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkeɪtərɪŋ/",
+   "def_en": "Restaurants, bars, etc.",
+   "def_vi": "Nhà hàng, quán bar…",
+   "gloss_vi": "dịch vụ ăn uống",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Catering</i> (noun) = dịch vụ ăn uống. <b>Grammar</b>: động từ <i>cater</i>.",
+   "example": {
+    "en": "<b>catering</b> restaurants, bars, etc.",
+    "vi": "<b>Dịch vụ ăn uống</b>: nhà hàng, quán bar."
+   }
+  },
+  {
+   "word": "financial services",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/faɪˌnænʃl ˈsɜːvɪsɪz/",
+   "def_en": "Banking, insurance, etc.",
+   "def_vi": "Ngân hàng, bảo hiểm…",
+   "gloss_vi": "dịch vụ tài chính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Financial services</i> (noun) = dịch vụ tài chính. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "<b>financial services</b> banking, insurance, etc.",
+    "vi": "<b>Dịch vụ tài chính</b>: ngân hàng, bảo hiểm."
+   }
+  },
+  {
+   "word": "healthcare",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhelθkeə(r)/",
+   "def_en": "Medical care.",
+   "def_vi": "Chăm sóc y tế.",
+   "gloss_vi": "chăm sóc y tế",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Healthcare</i> (noun) = chăm sóc y tế. <b>Grammar</b>: cũng <i>health care</i>.",
+   "example": {
+    "en": "<b>healthcare</b> medical care",
+    "vi": "<b>Chăm sóc y tế</b>: dịch vụ y khoa."
+   }
+  },
+  {
+   "word": "leisure",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈleʒə(r)/",
+   "def_en": "Cinemas, sport, etc.",
+   "def_vi": "Rạp phim, thể thao…",
+   "gloss_vi": "giải trí",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Leisure</i> (noun) = giải trí. <b>Collocations / chunks</b>: <i>the leisure industry</i>.",
+   "example": {
+    "en": "<b>leisure</b> cinemas, sport, etc.",
+    "vi": "<b>Giải trí</b>: rạp phim, thể thao."
+   }
+  },
+  {
+   "word": "real estate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈrɪəl ɪsteɪt/",
+   "def_en": "Buying, selling and managing buildings (AmE; BrE property).",
+   "def_vi": "Mua bán, quản lý nhà cửa (Mỹ).",
+   "gloss_vi": "bất động sản",
+   "synonyms": "property <i>(n. bất động sản)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Real estate</i> (noun) = bất động sản. <b>Grammar</b>: Mỹ; Anh <i>property</i>.",
+   "example": {
+    "en": "property (BrE) <b>real estate</b> (AmE) buying, selling and managing buildings",
+    "vi": "<b>Bất động sản</b>: mua bán và quản lý nhà."
+   }
+  },
+  {
+   "word": "retail",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈriːteɪl/",
+   "def_en": "Shops.",
+   "def_vi": "Cửa hàng.",
+   "gloss_vi": "bán lẻ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "wholesale <i>(n. bán buôn)</i>",
+   "grammar_vi": "<i>Retail</i> (noun) = bán lẻ. <b>Collocations / chunks</b>: <i>the retail sector</i>.",
+   "example": {
+    "en": "<b>retail</b> shops",
+    "vi": "<b>Bán lẻ</b>: cửa hàng."
+   }
+  },
+  {
+   "word": "telecommunications",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌtelikəˌmjuːnɪˈkeɪʃnz/",
+   "def_en": "Phone and internet services.",
+   "def_vi": "Dịch vụ điện thoại, internet.",
+   "gloss_vi": "viễn thông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Telecommunications</i> (noun) = viễn thông. <b>Grammar</b>: tiền tố <i>tele-</i>.",
+   "example": {
+    "en": "<b>telecommunications</b> phone, internet services",
+    "vi": "<b>Viễn thông</b>: dịch vụ điện thoại, internet."
+   }
+  },
+  {
+   "word": "industry",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɪndəstri/",
+   "def_en": "The production of materials and goods (uncountable); a particular type of business activity (countable).",
+   "def_vi": "Sản xuất vật liệu, hàng hóa; một loại hoạt động kinh doanh.",
+   "gloss_vi": "công nghiệp; ngành",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Industry</i> (noun) = công nghiệp; ngành. <b>Grammar</b>: tính từ <i>industrial</i>.",
+   "example": {
+    "en": "<b>Industry</b> (uncountable) is the production of materials and goods.",
+    "vi": "<b>Công nghiệp</b> là sản xuất vật liệu và hàng hóa."
+   }
+  },
+  {
+   "word": "industrialize",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪnˈdʌstriəlaɪz/",
+   "def_en": "To develop industries in a country.",
+   "def_vi": "Phát triển công nghiệp ở một nước.",
+   "gloss_vi": "công nghiệp hóa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Industrialize</i> (verb) = công nghiệp hóa. <b>Grammar</b>: danh từ <i>industrialization</i>.",
+   "example": {
+    "en": "The government decided to <b>industrialize</b>",
+    "vi": "Chính phủ quyết định <b>công nghiệp hóa</b>."
+   }
+  },
+  {
+   "word": "emerging industry",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪˌmɜːdʒɪŋ ˈɪndəstri/",
+   "def_en": "A new industry that is starting to develop.",
+   "def_vi": "Ngành mới bắt đầu phát triển.",
+   "gloss_vi": "ngành mới nổi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Emerging industry</i> (noun) = ngành mới nổi. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "one of the new <b>emerging industries</b> in the 60s was the building of aircraft",
+    "vi": "Một <b>ngành mới nổi</b> thập niên 60 là chế tạo máy bay."
+   }
+  },
+  {
+   "word": "growth industry",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡrəʊθ ˌɪndəstri/",
+   "def_en": "An industry that is growing fast.",
+   "def_vi": "Ngành tăng trưởng nhanh.",
+   "gloss_vi": "ngành tăng trưởng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Growth industry</i> (noun) = ngành tăng trưởng. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "<b>growth industries</b> ranged from light industries such as textiles",
+    "vi": "<b>Ngành tăng trưởng</b> gồm từ dệt may đến luyện thép."
+   }
+  },
+  {
+   "word": "diversified",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/daɪˈvɜːsɪfaɪd/",
+   "def_en": "Having many different industries.",
+   "def_vi": "Có nhiều ngành khác nhau.",
+   "gloss_vi": "đa dạng hóa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Diversified</i> (adjective) = đa dạng hóa. <b>Grammar</b>: động từ <i>diversify</i>.",
+   "example": {
+    "en": "Brazil’s economy is <b>diversified</b>, with many different industries",
+    "vi": "Nền kinh tế Brazil <b>đa dạng</b>, có nhiều ngành."
+   }
+  }
+ ]
+}

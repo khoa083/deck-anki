@@ -1,0 +1,328 @@
+{
+ "book": "bus",
+ "unit": 14,
+ "title_vi": "Quy trình phát triển",
+ "theory_html": "<p><b>A. Market research</b><br><i>A. Nghiên cứu thị trường</i></p> <p><b>market research</b>: <b>surveys</b> (<b>in-person</b> with a <b>sample</b>, <b>telephone</b> – being <b>called up</b>, <b>mail</b> – <b>low response rates</b>, <b>online</b> – no control over the <b>pool</b>; <b>take part in</b>), <b>focus groups</b> (<b>moderator</b>), <b>personal interviews, observations, field trials</b>.</p><p><i><b>nghiên cứu thị trường: khảo sát trực tiếp/mẫu thử, qua điện thoại, qua thư – tỉ lệ phản hồi thấp, trực tuyến – nhóm người tham gia; nhóm tập trung (người điều phối), phỏng vấn cá nhân, quan sát, thử nghiệm thực địa</b>.</i></p> <p><b>B. Development and launch</b><br><i>B. Phát triển và ra mắt</i></p> <p><b>developers, beta version, release, try out, bugs, designers, CAD/CAM, prototypes, researchers, laboratories, testing / trialling (AmE trialing), trials, effective, industrial scale, rollout, product launch, design defect / fault / flaw, recall</b>; <b>clinical trial</b>.</p><p><i><b>nhà phát triển, bản beta, phát hành, dùng thử, lỗi, nhà thiết kế, thiết kế/sản xuất có máy tính hỗ trợ, nguyên mẫu, nhà nghiên cứu, phòng thí nghiệm, thử nghiệm, có hiệu quả, quy mô công nghiệp, triển khai, ra mắt sản phẩm, lỗi thiết kế, thu hồi; thử nghiệm lâm sàng</b>.</i></p>",
+ "items": [
+  {
+   "word": "market research",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmɑːkɪt rɪˈsɜːtʃ/",
+   "def_en": "Finding out what people really want.",
+   "def_vi": "Tìm hiểu người ta thực sự muốn gì.",
+   "gloss_vi": "nghiên cứu thị trường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Market research</i> (noun) = nghiên cứu thị trường. <b>Collocations / chunks</b>: <i>carry out market research</i>.",
+   "example": {
+    "en": "In designing products and services, <b>market research</b> – finding out what people really want – is very important.",
+    "vi": "Khi thiết kế sản phẩm, <b>nghiên cứu thị trường</b> rất quan trọng."
+   }
+  },
+  {
+   "word": "survey",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɜːveɪ/",
+   "def_en": "A set of questions asked to find out people’s opinions.",
+   "def_vi": "Bộ câu hỏi tìm hiểu ý kiến.",
+   "gloss_vi": "cuộc khảo sát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Survey</i> (noun) = cuộc khảo sát. <b>Collocations / chunks</b>: <i>in-person/telephone/mail/online survey</i>.",
+   "example": {
+    "en": "<b>Surveys</b> are of four types",
+    "vi": "<b>Khảo sát</b> có bốn loại."
+   }
+  },
+  {
+   "word": "sample",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɑːmpl/",
+   "def_en": "An example of a new product.",
+   "def_vi": "Ví dụ của sản phẩm mới.",
+   "gloss_vi": "mẫu thử",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sample</i> (noun) = mẫu thử. <b>Grammar</b>: cũng là động từ <i>sample</i>.",
+   "example": {
+    "en": "In-person surveys can show an example or <b>sample</b> of a new product",
+    "vi": "Khảo sát trực tiếp có thể đưa <b>mẫu thử</b> sản phẩm mới."
+   }
+  },
+  {
+   "word": "response rate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˈspɒns reɪt/",
+   "def_en": "The proportion of people who reply to a survey.",
+   "def_vi": "Tỉ lệ người trả lời khảo sát.",
+   "gloss_vi": "tỉ lệ phản hồi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Response rate</i> (noun) = tỉ lệ phản hồi. <b>Collocations / chunks</b>: <i>low/high response rate</i>.",
+   "example": {
+    "en": "Mail surveys have low <b>response rates</b> because few people send the surveys back",
+    "vi": "Khảo sát qua thư có <b>tỉ lệ phản hồi</b> thấp."
+   }
+  },
+  {
+   "word": "pool",
+   "sense": "group of people",
+   "pos": "noun",
+   "ipa": "/puːl/",
+   "def_en": "The selection of people that take part in something.",
+   "def_vi": "Nhóm người được chọn tham gia.",
+   "gloss_vi": "nhóm người tham gia",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pool</i> (noun) = nhóm người tham gia. <b>Grammar</b>: nghĩa: tập hợp người.",
+   "example": {
+    "en": "there is no control over the <b>pool</b> or selection of people that take part in this kind of survey",
+    "vi": "Không kiểm soát được <b>nhóm người</b> tham gia."
+   }
+  },
+  {
+   "word": "focus group",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfəʊkəs ɡruːp/",
+   "def_en": "A group of people asked questions together for market research.",
+   "def_vi": "Nhóm người được hỏi chung để nghiên cứu thị trường.",
+   "gloss_vi": "nhóm tập trung",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Focus group</i> (noun) = nhóm tập trung. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "<b>Focus groups</b> usually last 1–2 hours.",
+    "vi": "<b>Nhóm tập trung</b> thường kéo dài 1–2 giờ."
+   }
+  },
+  {
+   "word": "moderator",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɒdəreɪtə(r)/",
+   "def_en": "A person who asks a focus group prepared questions.",
+   "def_vi": "Người đặt câu hỏi cho nhóm tập trung.",
+   "gloss_vi": "người điều phối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Moderator</i> (noun) = người điều phối. <b>Grammar</b>: động từ <i>moderate</i>.",
+   "example": {
+    "en": "A <b>moderator</b> uses specially prepared questions to ask a group.",
+    "vi": "<b>Người điều phối</b> dùng câu hỏi soạn sẵn để hỏi nhóm."
+   }
+  },
+  {
+   "word": "field trial",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfiːld ˌtraɪəl/",
+   "def_en": "Placing a new product in selected stores to test customer response.",
+   "def_vi": "Đưa sản phẩm mới vào vài cửa hàng để thử phản ứng khách.",
+   "gloss_vi": "thử nghiệm thực địa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Field trial</i> (noun) = thử nghiệm thực địa. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "<b>Field trials</b> involve placing a new product in selected stores to test customer response under real-life selling conditions.",
+    "vi": "<b>Thử nghiệm thực địa</b> là đưa sản phẩm vào vài cửa hàng."
+   }
+  },
+  {
+   "word": "beta version",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbiːtə ˌvɜːʃn/",
+   "def_en": "The first version of a program, released for users to test.",
+   "def_vi": "Phiên bản đầu của chương trình để người dùng thử.",
+   "gloss_vi": "bản beta",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Beta version</i> (noun) = bản beta. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "When software developers have finished the <b>beta version</b> – first version – of a program",
+    "vi": "Lập trình viên phát hành <b>bản beta</b> lên mạng."
+   }
+  },
+  {
+   "word": "release",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rɪˈliːs/",
+   "def_en": "To make (a product) available.",
+   "def_vi": "Đưa (sản phẩm) ra.",
+   "gloss_vi": "phát hành",
+   "synonyms": "launch <i>(v. ra mắt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Release</i> (verb) = phát hành. <b>Grammar</b>: cũng là danh từ.",
+   "example": {
+    "en": "they <b>release</b> this on the internet",
+    "vi": "Họ <b>phát hành</b> bản beta lên internet."
+   }
+  },
+  {
+   "word": "bugs",
+   "sense": "software problems",
+   "pos": "noun",
+   "ipa": "/bʌɡz/",
+   "def_en": "Problems in a computer program.",
+   "def_vi": "Lỗi trong chương trình máy tính.",
+   "gloss_vi": "lỗi (phần mềm)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bugs</i> (noun) = lỗi (phần mềm). <b>Grammar</b>: nghĩa gốc: côn trùng.",
+   "example": {
+    "en": "users are asked to try it out and to identify <b>bugs</b> or problems",
+    "vi": "Người dùng được mời dùng thử và tìm <b>lỗi</b>."
+   }
+  },
+  {
+   "word": "prototype",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈprəʊtətaɪp/",
+   "def_en": "The first version of a new product.",
+   "def_vi": "Phiên bản đầu của sản phẩm mới.",
+   "gloss_vi": "nguyên mẫu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Prototype</i> (noun) = nguyên mẫu. <b>Grammar</b>: tiền tố <i>proto-</i> = đầu tiên.",
+   "example": {
+    "en": "to help develop and test the first versions or <b>prototypes</b> of the new product",
+    "vi": "Họ dùng CAD/CAM để phát triển <b>nguyên mẫu</b>."
+   }
+  },
+  {
+   "word": "CAD/CAM",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkæd kæm/",
+   "def_en": "Computer-assisted design / computer-assisted manufacturing.",
+   "def_vi": "Thiết kế / sản xuất có máy tính hỗ trợ.",
+   "gloss_vi": "CAD/CAM",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>CAD/CAM</i> (noun) = CAD/CAM. <b>Grammar</b>: viết tắt.",
+   "example": {
+    "en": "Car designers use <b>CAD/CAM</b> (computer-assisted design / computer-assisted manufacturing)",
+    "vi": "Nhà thiết kế ô tô dùng <b>CAD/CAM</b>."
+   }
+  },
+  {
+   "word": "trialling",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtraɪəlɪŋ/",
+   "def_en": "Testing new products, e.g. drugs.",
+   "def_vi": "Thử nghiệm sản phẩm mới, vd thuốc.",
+   "gloss_vi": "thử nghiệm",
+   "synonyms": "testing <i>(n. thử nghiệm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trialling</i> (noun) = thử nghiệm. <b>Grammar</b>: Anh <i>trialling</i>; Mỹ <i>trialing</i>.",
+   "example": {
+    "en": "<b>testing</b> or trialling them in trials",
+    "vi": "Nhà nghiên cứu mất nhiều năm <b>thử nghiệm</b> thuốc mới."
+   }
+  },
+  {
+   "word": "clinical trial",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌklɪnɪkl ˈtraɪəl/",
+   "def_en": "A test of the effectiveness of new drugs.",
+   "def_vi": "Thử nghiệm hiệu quả thuốc mới.",
+   "gloss_vi": "thử nghiệm lâm sàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Clinical trial</i> (noun) = thử nghiệm lâm sàng. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "The noun trial is used especially to talk about testing the effectiveness of new drugs, for example in the expression <b>clinical trial</b>.",
+    "vi": "Thuốc phải qua <b>thử nghiệm lâm sàng</b>."
+   }
+  },
+  {
+   "word": "industrial scale",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˌdʌstriəl ˈskeɪl/",
+   "def_en": "Large numbers, as in a factory.",
+   "def_vi": "Số lượng lớn như nhà máy.",
+   "gloss_vi": "quy mô công nghiệp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Industrial scale</i> (noun) = quy mô công nghiệp. <b>Collocations / chunks</b>: <i>on an industrial scale</i>.",
+   "example": {
+    "en": "Drugs need to be made in large numbers on an <b>industrial scale</b> before they can be sold.",
+    "vi": "Thuốc phải được sản xuất ở <b>quy mô công nghiệp</b>."
+   }
+  },
+  {
+   "word": "rollout",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈrəʊlaʊt/",
+   "def_en": "The process of making a product available, perhaps in particular places.",
+   "def_vi": "Quá trình đưa sản phẩm ra, có thể ở vài nơi.",
+   "gloss_vi": "đợt triển khai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rollout</i> (noun) = đợt triển khai. <b>Grammar</b>: động từ <i>roll out</i>.",
+   "example": {
+    "en": "<b>Rollout</b> is the process of making a product available",
+    "vi": "<b>Triển khai</b> là quá trình đưa sản phẩm ra thị trường."
+   }
+  },
+  {
+   "word": "product launch",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈprɒdʌkt lɔːntʃ/",
+   "def_en": "The moment a product is officially made available for sale.",
+   "def_vi": "Thời điểm sản phẩm chính thức được bán.",
+   "gloss_vi": "ra mắt sản phẩm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Product launch</i> (noun) = ra mắt sản phẩm. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "<b>Product launch</b> is the moment of truth when a product is officially made available for sale.",
+    "vi": "<b>Ra mắt sản phẩm</b> là thời khắc quyết định."
+   }
+  },
+  {
+   "word": "design defect",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈzaɪn ˌdiːfekt/",
+   "def_en": "A problem in the design of a product.",
+   "def_vi": "Lỗi trong thiết kế sản phẩm.",
+   "gloss_vi": "lỗi thiết kế",
+   "synonyms": "design fault <i>(n. lỗi thiết kế)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Design defect</i> (noun) = lỗi thiết kế. <b>Collocations / chunks</b>: cũng <i>design fault/flaw</i>.",
+   "example": {
+    "en": "If a <b>design defect</b> or design fault is found in a product after it has been launched",
+    "vi": "Nếu phát hiện <b>lỗi thiết kế</b> sau khi ra mắt."
+   }
+  },
+  {
+   "word": "recall",
+   "sense": "ask buyers to return",
+   "pos": "verb",
+   "ipa": "/rɪˈkɔːl/",
+   "def_en": "To ask those who have bought a product to return it.",
+   "def_vi": "Yêu cầu người mua trả lại sản phẩm.",
+   "gloss_vi": "thu hồi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Recall</i> (verb) = thu hồi. <b>Grammar</b>: cũng là danh từ <i>a product recall</i>.",
+   "example": {
+    "en": "the company may have to <b>recall</b> it, asking those who have bought the product to return it",
+    "vi": "Công ty có thể phải <b>thu hồi</b> sản phẩm."
+   }
+  }
+ ]
+}
