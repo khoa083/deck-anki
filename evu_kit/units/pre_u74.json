@@ -1,0 +1,376 @@
+{
+ "book": "pre",
+ "unit": 74,
+ "title_vi": "Kết hợp từ",
+ "theory_html": "<p><b>A. What do we mean by word partners?</b><br><i>A. Kết hợp từ là gì?</i></p> <p>Word partners (<b>collocations</b>) differ between languages: <b>spend time</b> (NOT <b>pass</b>), <b>miss the bus</b> (NOT <b>lose</b>), <b>have children</b>, <b>make a mistake</b> (NOT <b>do</b>), <b>a serious injury/illness</b>, <b>quite likely</b>, <b>depend on</b> (NOT <b>of</b>).</p><p><i><b>dành thời gian, lỡ xe, có con, mắc lỗi, chấn thương nặng, khá có khả năng, phụ thuộc vào</b>.</i></p> <p><b>B. Verbs and nouns</b><br><i>B. Động từ + danh từ</i></p> <p><b>tell a joke, lose weight (opp put on weight), go on a diet, predict the future, score a goal, the alarm went off, fall in love, expect a baby</b>.</p><p><i><b>kể chuyện cười, giảm cân/tăng cân, ăn kiêng, dự đoán tương lai, ghi bàn, chuông báo động kêu, phải lòng, có bầu</b>.</i></p> <p><b>C. Adjectives and nouns</b><br><i>C. Tính từ + danh từ</i></p> <p><b>a large number (opp limited/small), a large amount, a wide choice (opp limited/narrow), a wide vocabulary, a loud noise, great importance, great fun, heavy traffic (opp light)</b>.</p><p><i><b>số lượng lớn, nhiều lựa chọn, tiếng ồn lớn, tầm quan trọng lớn, rất vui, giao thông đông đúc</b>.</i></p> <p><b>D. Adverbs and adjectives</b><br><i>D. Trạng từ + tính từ</i></p> <p><b>terribly sorry, well aware, vitally important; fast asleep, wide awake</b>.</p><p><i><b>rất xin lỗi, biết rõ, cực kỳ quan trọng; ngủ say, tỉnh như sáo</b>.</i></p>",
+ "items": [
+  {
+   "word": "spend time",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌspend ˈtaɪm/",
+   "def_en": "To use time doing something or being somewhere.",
+   "def_vi": "Dùng thời gian làm gì hay ở đâu.",
+   "gloss_vi": "dành thời gian",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spend time</i> (verb phrase) = dành thời gian. <b>Grammar</b>: <i>spend time</i> (không <i>pass time</i>).",
+   "example": {
+    "en": "I <b>spent time</b> in Paris.",
+    "vi": "Tôi đã <b>dành thời gian</b> ở Paris."
+   }
+  },
+  {
+   "word": "make a mistake",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌmeɪk ə mɪˈsteɪk/",
+   "def_en": "To do something wrong.",
+   "def_vi": "Làm sai điều gì.",
+   "gloss_vi": "mắc lỗi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Make a mistake</i> (verb phrase) = mắc lỗi. <b>Grammar</b>: <i>make a mistake</i> (không <i>do</i>).",
+   "example": {
+    "en": "I <b>made</b> a <b>mistake</b>.",
+    "vi": "Tôi đã <b>mắc lỗi</b>."
+   }
+  },
+  {
+   "word": "serious injury",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌsɪəriəs ˈɪndʒəri/",
+   "def_en": "A bad injury.",
+   "def_vi": "Chấn thương nặng.",
+   "gloss_vi": "chấn thương nặng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "minor injury <i>(np. chấn thương nhẹ)</i>",
+   "grammar_vi": "<i>Serious injury</i> (noun phrase) = chấn thương nặng. <b>Grammar</b>: <i>serious injury/illness</i>.",
+   "example": {
+    "en": "It was a <b>serious injury</b>.",
+    "vi": "Đó là một <b>chấn thương nặng</b>."
+   }
+  },
+  {
+   "word": "quite likely",
+   "sense": "",
+   "pos": "adjp",
+   "ipa": "/ˌkwaɪt ˈlaɪkli/",
+   "def_en": "Probable.",
+   "def_vi": "Có khả năng.",
+   "gloss_vi": "khá có khả năng",
+   "synonyms": "probable <i>(adj. có thể)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Quite likely</i> (adjp) = khá có khả năng. <b>Grammar</b>: <i>it’s likely that… / sb is likely to…</i>.",
+   "example": {
+    "en": "It’s <b>quite likely</b> that we’ll stay here.",
+    "vi": "<b>Khá có khả năng</b> là chúng tôi sẽ ở lại đây."
+   }
+  },
+  {
+   "word": "depend on",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/dɪˈpend ɒn/",
+   "def_en": "To be decided by something or someone.",
+   "def_vi": "Được quyết định bởi điều gì hay ai.",
+   "gloss_vi": "phụ thuộc vào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Depend on</i> (phrasal verb) = phụ thuộc vào. <b>Grammar</b>: <i>depend on</i> (không <i>of</i>).",
+   "example": {
+    "en": "It <b>depends on</b> my parents.",
+    "vi": "Điều đó <b>phụ thuộc vào</b> bố mẹ tôi."
+   }
+  },
+  {
+   "word": "tell a joke",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌtel ə ˈdʒəʊk/",
+   "def_en": "To tell a funny story.",
+   "def_vi": "Kể một câu chuyện vui.",
+   "gloss_vi": "kể chuyện cười",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tell a joke</i> (verb phrase) = kể chuyện cười. <b>Grammar</b>: <i>tell a joke</i> (không <i>say a joke</i>).",
+   "example": {
+    "en": "Pavel <b>told</b> me a <b>joke</b> but I can’t remember it.",
+    "vi": "Pavel <b>kể</b> cho tôi một <b>câu chuyện cười</b> nhưng tôi không nhớ."
+   }
+  },
+  {
+   "word": "lose weight",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌluːz ˈweɪt/",
+   "def_en": "To become less heavy.",
+   "def_vi": "Trở nên nhẹ cân hơn.",
+   "gloss_vi": "giảm cân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "put on weight <i>(vp. tăng cân)</i>",
+   "grammar_vi": "<i>Lose weight</i> (verb phrase) = giảm cân. <b>Grammar</b>: <i>lose – lost – lost</i>.",
+   "example": {
+    "en": "I need to <b>lose weight</b>.",
+    "vi": "Tôi cần <b>giảm cân</b>."
+   }
+  },
+  {
+   "word": "go on a diet",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ ɒn ə ˈdaɪət/",
+   "def_en": "To eat less in order to lose weight.",
+   "def_vi": "Ăn ít để giảm cân.",
+   "gloss_vi": "ăn kiêng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go on a diet</i> (verb phrase) = ăn kiêng. <b>Grammar</b>: <i>be on a diet</i>.",
+   "example": {
+    "en": "The doctor told my father that he should <b>go on a diet</b>.",
+    "vi": "Bác sĩ bảo bố tôi nên <b>ăn kiêng</b>."
+   }
+  },
+  {
+   "word": "predict the future",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/prɪˌdɪkt ðə ˈfjuːtʃə(r)/",
+   "def_en": "To say what will happen in the future.",
+   "def_vi": "Nói điều sẽ xảy ra.",
+   "gloss_vi": "dự đoán tương lai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Predict the future</i> (verb phrase) = dự đoán tương lai. <b>Grammar</b>: <i>predict</i>. <b>Word family</b>: <i>prediction</i> (n.).",
+   "example": {
+    "en": "It’s very difficult to <b>predict the future</b>.",
+    "vi": "Rất khó <b>dự đoán tương lai</b>."
+   }
+  },
+  {
+   "word": "score a goal",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌskɔːr ə ˈɡəʊl/",
+   "def_en": "To get the ball into the goal.",
+   "def_vi": "Đưa bóng vào khung thành.",
+   "gloss_vi": "ghi bàn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Score a goal</i> (verb phrase) = ghi bàn. <b>Grammar</b>: <i>score a goal/point</i>.",
+   "example": {
+    "en": "My brother <b>scored</b> the first <b>goal</b>.",
+    "vi": "Anh tôi <b>ghi</b> <b>bàn</b> đầu tiên."
+   }
+  },
+  {
+   "word": "go off",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌɡəʊ ˈɒf/",
+   "def_en": "(Of an alarm) to start ringing.",
+   "def_vi": "(Chuông báo) bắt đầu kêu.",
+   "gloss_vi": "(chuông) reo, kêu",
+   "synonyms": "ring <i>(v. reo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go off</i> (phrasal verb) = (chuông) reo, kêu. <b>Grammar</b>: <i>the alarm/bomb went off</i>.",
+   "example": {
+    "en": "My neighbour’s alarm <b>went off</b> in the middle of the night.",
+    "vi": "Chuông báo động nhà hàng xóm <b>kêu</b> lúc nửa đêm."
+   }
+  },
+  {
+   "word": "fall in love",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌfɔːl ɪn ˈlʌv/",
+   "def_en": "To start to love someone romantically.",
+   "def_vi": "Bắt đầu yêu ai.",
+   "gloss_vi": "phải lòng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fall in love</i> (verb phrase) = phải lòng. <b>Grammar</b>: <i>fall in love with sb</i>; <i>fall – fell – fallen</i>.",
+   "example": {
+    "en": "They <b>fell in love</b> and got married.",
+    "vi": "Họ <b>phải lòng nhau</b> và cưới nhau."
+   }
+  },
+  {
+   "word": "expect a baby",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ɪkˌspekt ə ˈbeɪbi/",
+   "def_en": "To be pregnant.",
+   "def_vi": "Có thai.",
+   "gloss_vi": "có em bé, có bầu",
+   "synonyms": "be pregnant <i>(vp. có thai)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Expect a baby</i> (verb phrase) = có em bé, có bầu. <b>Grammar</b>: thường dùng tiếp diễn.",
+   "example": {
+    "en": "Now Emily is <b>expecting a baby</b>.",
+    "vi": "Giờ Emily đang <b>có bầu</b>."
+   }
+  },
+  {
+   "word": "large number",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌlɑːdʒ ˈnʌmbə(r)/",
+   "def_en": "A lot of (countable things).",
+   "def_vi": "Nhiều (vật đếm được).",
+   "gloss_vi": "số lượng lớn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "small number <i>(np. số lượng nhỏ)</i>",
+   "grammar_vi": "<i>Large number</i> (noun phrase) = số lượng lớn. <b>Grammar</b>: <i>a large number of</i> + danh từ số nhiều.",
+   "example": {
+    "en": "We’ve got a <b>large number</b> of students this year.",
+    "vi": "Năm nay chúng tôi có <b>số lượng lớn</b> sinh viên."
+   }
+  },
+  {
+   "word": "wide choice",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌwaɪd ˈtʃɔɪs/",
+   "def_en": "A lot of different things to choose from.",
+   "def_vi": "Nhiều thứ khác nhau để chọn.",
+   "gloss_vi": "nhiều lựa chọn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "limited choice <i>(np. ít lựa chọn)</i>",
+   "grammar_vi": "<i>Wide choice</i> (noun phrase) = nhiều lựa chọn. <b>Grammar</b>: <i>a wide choice of</i>.",
+   "example": {
+    "en": "There’s a <b>wide choice</b> of food available.",
+    "vi": "Có <b>nhiều lựa chọn</b> đồ ăn."
+   }
+  },
+  {
+   "word": "loud noise",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌlaʊd ˈnɔɪz/",
+   "def_en": "A noise that is very strong.",
+   "def_vi": "Tiếng rất to.",
+   "gloss_vi": "tiếng ồn lớn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Loud noise</i> (noun phrase) = tiếng ồn lớn. <b>Grammar</b>: <i>make a loud noise</i>.",
+   "example": {
+    "en": "It’s only a toy gun but it makes a very <b>loud noise</b>.",
+    "vi": "Đó chỉ là súng đồ chơi nhưng nó phát ra <b>tiếng</b> rất <b>to</b>."
+   }
+  },
+  {
+   "word": "great importance",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌɡreɪt ɪmˈpɔːtns/",
+   "def_en": "A lot of importance.",
+   "def_vi": "Rất quan trọng.",
+   "gloss_vi": "tầm quan trọng lớn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Great importance</i> (noun phrase) = tầm quan trọng lớn. <b>Grammar</b>: <i>of great importance</i>.",
+   "example": {
+    "en": "Her family is of <b>great importance</b> to her.",
+    "vi": "Gia đình có <b>tầm quan trọng lớn</b> với cô ấy."
+   }
+  },
+  {
+   "word": "great fun",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌɡreɪt ˈfʌn/",
+   "def_en": "Very enjoyable.",
+   "def_vi": "Rất vui.",
+   "gloss_vi": "rất vui",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Great fun</i> (noun phrase) = rất vui. <b>Grammar</b>: <i>fun</i> không đếm được (không <i>a great fun</i>).",
+   "example": {
+    "en": "We went to a party last night and it was <b>great fun</b>.",
+    "vi": "Tối qua chúng tôi đi tiệc và <b>rất vui</b>."
+   }
+  },
+  {
+   "word": "heavy traffic",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌhevi ˈtræfɪk/",
+   "def_en": "A lot of traffic.",
+   "def_vi": "Nhiều xe cộ.",
+   "gloss_vi": "giao thông đông đúc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "light traffic <i>(np. giao thông thưa)</i>",
+   "grammar_vi": "<i>Heavy traffic</i> (noun phrase) = giao thông đông đúc. <b>Grammar</b>: <i>heavy</i> (không <i>big</i>) traffic.",
+   "example": {
+    "en": "There was <b>heavy traffic</b> on the motorway going out of town.",
+    "vi": "Có <b>giao thông đông đúc</b> trên đường cao tốc ra khỏi thị trấn."
+   }
+  },
+  {
+   "word": "well aware",
+   "sense": "",
+   "pos": "adjp",
+   "ipa": "/ˌwel əˈweə(r)/",
+   "def_en": "Knowing all about something.",
+   "def_vi": "Biết rõ về điều gì.",
+   "gloss_vi": "biết rõ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "unaware <i>(adj. không biết)</i>",
+   "grammar_vi": "<i>Well aware</i> (adjp) = biết rõ. <b>Grammar</b>: <i>be well aware of sth</i>.",
+   "example": {
+    "en": "She’s <b>well aware</b> of the problem.",
+    "vi": "Cô ấy <b>biết rõ</b> vấn đề."
+   }
+  },
+  {
+   "word": "vitally important",
+   "sense": "",
+   "pos": "adjp",
+   "ipa": "/ˌvaɪtəli ɪmˈpɔːtnt/",
+   "def_en": "Extremely important.",
+   "def_vi": "Cực kỳ quan trọng.",
+   "gloss_vi": "cực kỳ quan trọng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Vitally important</i> (adjp) = cực kỳ quan trọng. <b>Grammar</b>: kết hợp cố định.",
+   "example": {
+    "en": "It’s <b>vitally important</b> that we get the right person for the job.",
+    "vi": "Việc chọn đúng người cho công việc là <b>cực kỳ quan trọng</b>."
+   }
+  },
+  {
+   "word": "fast asleep",
+   "sense": "",
+   "pos": "adjp",
+   "ipa": "/ˌfɑːst əˈsliːp/",
+   "def_en": "Completely asleep.",
+   "def_vi": "Ngủ hoàn toàn.",
+   "gloss_vi": "ngủ say",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "wide awake <i>(adjp. tỉnh táo)</i>",
+   "grammar_vi": "<i>Fast asleep</i> (adjp) = ngủ say. <b>Grammar</b>: <i>fast</i> = hoàn toàn (với <i>asleep</i>).",
+   "example": {
+    "en": "Ava is <b>fast asleep</b>, but the other two are still wide awake.",
+    "vi": "Ava <b>ngủ say</b>, nhưng hai đứa kia vẫn tỉnh như sáo."
+   }
+  },
+  {
+   "word": "wide awake",
+   "sense": "",
+   "pos": "adjp",
+   "ipa": "/ˌwaɪd əˈweɪk/",
+   "def_en": "Completely awake.",
+   "def_vi": "Hoàn toàn tỉnh.",
+   "gloss_vi": "tỉnh như sáo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "fast asleep <i>(adjp. ngủ say)</i>",
+   "grammar_vi": "<i>Wide awake</i> (adjp) = tỉnh như sáo. <b>Grammar</b>: <i>wide</i> = hoàn toàn (với <i>awake</i>).",
+   "example": {
+    "en": "Ava is fast asleep, but the other two are still <b>wide awake</b>.",
+    "vi": "Ava ngủ say, nhưng hai đứa kia vẫn <b>tỉnh như sáo</b>."
+   }
+  }
+ ]
+}
