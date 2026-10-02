@@ -1,0 +1,280 @@
+{
+ "book": "gva",
+ "unit": 25,
+ "title_vi": "Giới từ sau danh từ và tính từ",
+ "theory_html": "<p><b>2.1. Noun + preposition: related verbs and adjectives</b><br><i>2.1. Danh từ + giới từ: liên hệ động từ, tính từ</i></p> <p>Many nouns take the same preposition as their related verb/adjective (<b>complaints about / complain about</b>; <b>awareness of / aware of</b>); a few differ (<b>pride in / proud of</b>); some take a preposition where the verb does not (<b>influence on / influence sth</b>).</p><p><i>Danh từ thường dùng cùng giới từ với động từ/tính từ gốc; ngoại lệ <b>pride in / proud of</b>, <b>influence on</b>.</i></p> <p><b>2.2. Noun + preposition + -ing or noun</b><br><i>2.2. Danh từ + giới từ + V-ing hoặc danh từ</i></p> <p>Most combinations take either an -ing form or a noun (<b>protests about locating / the location of</b>); some prefer a noun (<b>a demand for the publication of</b>).</p><p><i>Phần lớn dùng được cả V-ing và danh từ; <b>demand for</b> thường + danh từ.</i></p> <p><b>2.3. Noun + of + -ing or noun + to-infinitive</b><br><i>2.3. Danh từ + of + V-ing hoặc to V</i></p> <p>Either with little difference (<b>idea of setting up / idea to set up</b>, <b>opportunity to do / of doing</b>); different meanings (<b>chance to</b> = opportunity, <b>chance of</b> = likelihood); only <b>of + -ing</b> (<b>difficulty of</b>); only to-infinitive (<b>decision to</b>).</p><p><i><b>chance to</b> (cơ hội) / <b>chance of</b> (khả năng); <b>difficulty of + V-ing</b>; <b>decision to V</b>.</i></p> <p><b>2.4. Noun + in or noun + of</b><br><i>2.4. Danh từ + in hoặc + of</i></p> <p><b>increase / decrease / rise / fall in</b> = what is changing; <b>… of</b> = the amount; also <b>cut, decline, downturn, drop, gain, growth, jump, leap</b>.</p><p><i><b>increase in</b> + cái tăng; <b>increase of</b> + mức tăng.</i></p> <p><b>2.5. Adjective + preposition</b><br><i>2.5. Tính từ + giới từ</i></p> <p>Adjectives of feeling/opinion take particular prepositions (<b>enthusiastic about, wary of</b>); some change meaning with the preposition (<b>concerned about</b> = worried, <b>concerned with</b> = to do with).</p><p><i><b>enthusiastic about, wary of</b>; <b>concerned about</b> (lo lắng) / <b>concerned with</b> (liên quan).</i></p>",
+ "items": [
+  {
+   "word": "complaint about",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəmˈpleɪnt əˈbaʊt/",
+   "def_en": "A statement that something is wrong; same preposition as complain about.",
+   "def_vi": "Lời phàn nàn về; cùng giới từ với complain about.",
+   "gloss_vi": "phàn nàn về",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Complaint about</i> (noun) = phàn nàn về. <b>Grammar</b>: = <i>People used to complain a lot about…</i>.",
+   "example": {
+    "en": "We used to get quite a lot of <b>complaints about</b> our news coverage.",
+    "vi": "Chúng tôi từng nhận khá nhiều <b>phàn nàn về</b> tin tức của mình."
+   }
+  },
+  {
+   "word": "awareness of",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈweənəs əv/",
+   "def_en": "Knowledge or understanding of something; same preposition as aware of.",
+   "def_vi": "Nhận thức về; cùng giới từ với aware of.",
+   "gloss_vi": "nhận thức về",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Awareness of</i> (noun) = nhận thức về. <b>Grammar</b>: = <i>make young people more aware of</i>.",
+   "example": {
+    "en": "I wanted to increase young people's <b>awareness of</b> current affairs.",
+    "vi": "Tôi muốn nâng cao <b>nhận thức</b> của giới trẻ <b>về</b> thời sự."
+   }
+  },
+  {
+   "word": "pride in",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/praɪd ɪn/",
+   "def_en": "A feeling of satisfaction; the noun takes in, the adjective proud takes of.",
+   "def_vi": "Niềm tự hào; danh từ dùng in, tính từ proud dùng of.",
+   "gloss_vi": "tự hào về",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pride in</i> (noun) = tự hào về. <b>Grammar</b>: = <i>We are proud of…</i>; <i>take pride in</i>.",
+   "example": {
+    "en": "We take <b>pride in</b> the design of our website.",
+    "vi": "Chúng tôi <b>tự hào về</b> thiết kế trang web."
+   }
+  },
+  {
+   "word": "influence on",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɪnfluəns ɒn/",
+   "def_en": "The power to affect something; the noun takes on, the verb has no preposition.",
+   "def_vi": "Ảnh hưởng đến; danh từ cần on, động từ không.",
+   "gloss_vi": "ảnh hưởng đến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Influence on</i> (noun) = ảnh hưởng đến. <b>Grammar</b>: = <i>influence government policies</i>.",
+   "example": {
+    "en": "Young people may be able to have an <b>influence on</b> government policies.",
+    "vi": "Giới trẻ có thể <b>có ảnh hưởng đến</b> chính sách."
+   }
+  },
+  {
+   "word": "protest about",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈprəʊtest əˈbaʊt/",
+   "def_en": "A statement of disagreement; followed by -ing or a noun.",
+   "def_vi": "Sự phản đối về; + V-ing hoặc danh từ.",
+   "gloss_vi": "phản đối về",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Protest about</i> (noun) = phản đối về. <b>Grammar</b>: = <i>protests about the location of…</i>.",
+   "example": {
+    "en": "There have been <b>protests about</b> locating a new nuclear power station on the east coast.",
+    "vi": "Đã có <b>phản đối về</b> việc đặt nhà máy điện hạt nhân mới."
+   }
+  },
+  {
+   "word": "demand for",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈmɑːnd fə(r)/",
+   "def_en": "A need for something; more often followed by a noun than -ing.",
+   "def_vi": "Nhu cầu về; thường + danh từ.",
+   "gloss_vi": "nhu cầu về",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Demand for</i> (noun) = nhu cầu về. <b>Grammar</b>: hơn <i>a demand for publishing…</i>.",
+   "example": {
+    "en": "I felt there was a <b>demand for</b> the publication of an online newspaper.",
+    "vi": "Tôi thấy có <b>nhu cầu về</b> việc xuất bản báo trực tuyến."
+   }
+  },
+  {
+   "word": "idea of",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/aɪˈdɪə əv/",
+   "def_en": "Followed by of + -ing or a to-infinitive with little difference.",
+   "def_vi": "+ of V-ing hoặc to V, nghĩa gần như nhau.",
+   "gloss_vi": "ý tưởng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Idea of</i> (noun) = ý tưởng. <b>Grammar</b>: = <i>The idea to set up…</i>; tương tự <i>opportunity to / of</i>.",
+   "example": {
+    "en": "The <b>idea of</b> setting up some kind of newspaper for young people came from that time.",
+    "vi": "<b>Ý tưởng</b> lập một tờ báo cho giới trẻ ra đời từ lúc đó."
+   }
+  },
+  {
+   "word": "chance to",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tʃɑːns tə/",
+   "def_en": "Chance + to-infinitive = opportunity.",
+   "def_vi": "Cơ hội làm gì.",
+   "gloss_vi": "cơ hội",
+   "synonyms": "opportunity <i>(n. cơ hội)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chance to</i> (noun) = cơ hội. <b>Grammar</b>: <i>chance of + V-ing</i> = khả năng.",
+   "example": {
+    "en": "Young people get the <b>chance to</b> contribute in various ways.",
+    "vi": "Giới trẻ có <b>cơ hội</b> đóng góp theo nhiều cách."
+   }
+  },
+  {
+   "word": "chance of",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tʃɑːns əv/",
+   "def_en": "Chance + of + -ing = likelihood.",
+   "def_vi": "Khả năng xảy ra.",
+   "gloss_vi": "khả năng",
+   "synonyms": "likelihood <i>(n. khả năng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chance of</i> (noun) = khả năng. <b>Grammar</b>: <i>chance to</i> = cơ hội.",
+   "example": {
+    "en": "The banks thought there was little <b>chance of</b> making it a commercial success.",
+    "vi": "Ngân hàng nghĩ ít <b>khả năng</b> làm nó thành công về thương mại."
+   }
+  },
+  {
+   "word": "difficulty of",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdɪfɪkəlti əv/",
+   "def_en": "Followed by of + -ing, not a to-infinitive.",
+   "def_vi": "+ of V-ing, không + to V.",
+   "gloss_vi": "khó khăn của việc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Difficulty of</i> (noun) = khó khăn của việc. <b>Grammar</b>: không <i>difficulty to persuade</i>.",
+   "example": {
+    "en": "The <b>difficulty of</b> persuading the banks to lend us money meant that we had to borrow money from our parents.",
+    "vi": "<b>Khó khăn trong việc</b> thuyết phục ngân hàng cho vay khiến chúng tôi phải vay bố mẹ."
+   }
+  },
+  {
+   "word": "decision to",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈsɪʒn tə/",
+   "def_en": "Followed by a to-infinitive, not of + -ing.",
+   "def_vi": "+ to V, không + of V-ing.",
+   "gloss_vi": "quyết định",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Decision to</i> (noun) = quyết định. <b>Grammar</b>: không <i>decision of working</i>.",
+   "example": {
+    "en": "We took the <b>decision to</b> work on it for six months.",
+    "vi": "Chúng tôi đã <b>quyết định</b> làm việc đó trong sáu tháng."
+   }
+  },
+  {
+   "word": "increase in",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɪnkriːs ɪn/",
+   "def_en": "In = what is increasing.",
+   "def_vi": "in + cái đang tăng.",
+   "gloss_vi": "sự tăng (của cái gì)",
+   "synonyms": "rise <i>(n. sự tăng)</i>",
+   "antonyms": "decrease <i>(n. sự giảm)</i>",
+   "grammar_vi": "<i>Increase in</i> (noun) = sự tăng (của cái gì). <b>Grammar</b>: không <i>increase of hits</i>; tương tự <i>cut, decline, drop, growth, jump</i>.",
+   "example": {
+    "en": "The recent <b>increase in</b> hits on the website means that we can charge more for advertising space.",
+    "vi": "<b>Sự tăng</b> lượt truy cập trang web gần đây giúp tăng giá quảng cáo."
+   }
+  },
+  {
+   "word": "increase of",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɪnkriːs əv/",
+   "def_en": "Of = the amount of an increase.",
+   "def_vi": "of + mức tăng.",
+   "gloss_vi": "mức tăng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Increase of</i> (noun) = mức tăng. <b>Grammar</b>: không <i>an increase in about 50%</i>.",
+   "example": {
+    "en": "We've had an <b>increase of</b> about 50%",
+    "vi": "Chúng tôi đã có <b>mức tăng</b> khoảng 50%."
+   }
+  },
+  {
+   "word": "enthusiastic about",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪnˌθjuːziˈæstɪk əˈbaʊt/",
+   "def_en": "Showing great interest and excitement about something.",
+   "def_vi": "Nhiệt tình, hào hứng về.",
+   "gloss_vi": "hào hứng về",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Enthusiastic about</i> (adjective) = hào hứng về. <b>Grammar</b>: tính từ cảm xúc + giới từ.",
+   "example": {
+    "en": "Young people seem generally very <b>enthusiastic about</b> the site.",
+    "vi": "Giới trẻ dường như rất <b>hào hứng với</b> trang này."
+   }
+  },
+  {
+   "word": "wary of",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈweəri əv/",
+   "def_en": "Careful because you think something may be dangerous or a problem.",
+   "def_vi": "Dè chừng, thận trọng với.",
+   "gloss_vi": "dè chừng",
+   "synonyms": "cautious <i>(adj. thận trọng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wary of</i> (adjective) = dè chừng. <b>Grammar</b>: + V-ing / danh từ.",
+   "example": {
+    "en": "They were very <b>wary of</b> advertising on the site.",
+    "vi": "Họ rất <b>dè chừng với</b> việc quảng cáo trên trang."
+   }
+  },
+  {
+   "word": "concerned about",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kənˈsɜːnd əˈbaʊt/",
+   "def_en": "Worried about.",
+   "def_vi": "Lo lắng về.",
+   "gloss_vi": "lo lắng về",
+   "synonyms": "worried about <i>(adj. lo về)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Concerned about</i> (adjective) = lo lắng về. <b>Grammar</b>: khác <i>concerned with</i> (= liên quan đến).",
+   "example": {
+    "en": "I knew they were <b>concerned about</b> what was going on.",
+    "vi": "Tôi biết họ <b>lo lắng về</b> những gì đang xảy ra."
+   }
+  },
+  {
+   "word": "concerned with",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kənˈsɜːnd wɪð/",
+   "def_en": "To do with; about a particular subject.",
+   "def_vi": "Liên quan đến, nói về.",
+   "gloss_vi": "liên quan đến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Concerned with</i> (adjective) = liên quan đến. <b>Grammar</b>: khác <i>concerned about</i> (= lo lắng).",
+   "example": {
+    "en": "We have a reviews section, which is <b>concerned with</b> films, CDs ...",
+    "vi": "Mục điểm tin của chúng tôi <b>nói về</b> phim, CD…"
+   }
+  }
+ ]
+}
