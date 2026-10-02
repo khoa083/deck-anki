@@ -1,0 +1,536 @@
+{
+ "book": "adv",
+ "unit": 2,
+ "title_vi": "Giáo dục: tranh luận và vấn đề",
+ "theory_html": "<p><b>A. Opportunity and equality</b><br><i>A. Cơ hội và bình đẳng</i></p> <p>Education systems may be judged in terms of <b>equality of opportunity</b>, often discussed in debates over <b>selective</b> versus <b>comprehensive schooling</b> and whether <b>elitism</b> is <b>inherent in</b> the system. <b>League tables</b> may <b>perpetuate</b> inequalities, creating a <b>two-tier system</b>, at least as the public <b>perceives</b> it. <b>Better-off</b> parents and <b>well-endowed</b> schools may <b>depress</b> opportunity for the <b>less well-off</b>. <b>Scholarships</b>, <b>bursaries</b> and <b>student loans</b> help <b>undergraduates</b> pay <b>tuition fees</b> for <b>tertiary</b> education.</p><p><i>Hệ thống giáo dục được đánh giá theo sự bình đẳng cơ hội: trường tuyển chọn hay trường phổ thông đại trà, chủ nghĩa tinh hoa. Bảng xếp hạng có thể duy trì bất bình đẳng, tạo hệ thống hai tầng. Học bổng, trợ cấp, vay sinh viên giúp trả học phí đại học.</i></p> <p><b>B. Other debates and issues</b><br><i>B. Các tranh luận và vấn đề khác</i></p> <p><b>the three Rs, literacy, numeracy, curriculum reform, syllabus, lifelong/continuing education, mature students, special needs education, one-to-one, bullying, guidelines, distraction</b>.</p><p><i><b>ba kỹ năng cơ bản, khả năng đọc viết, khả năng tính toán, cải cách chương trình, đề cương, học tập suốt đời, sinh viên lớn tuổi, giáo dục đặc biệt, kèm một thầy một trò, bắt nạt, hướng dẫn, điều gây xao nhãng</b>.</i></p> <p><b>LH. Language help</b><br><i>LH. Lưu ý ngôn ngữ</i></p> <p>Compound adjectives like <b>well-off, well-endowed, high-achieving, badly-performing</b> can be used in comparative and superlative forms: <b>better-off, best-endowed, higher-achieving, worst-performing</b>.</p><p><i>Tính từ ghép có dạng so sánh hơn/nhất ở phần đầu.</i></p>",
+ "items": [
+  {
+   "word": "equality of opportunity",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/iˌkwɒləti əv ˌɒpəˈtjuːnəti/",
+   "def_en": "When everyone has the same chances.",
+   "def_vi": "Khi mọi người có cơ hội như nhau.",
+   "gloss_vi": "bình đẳng cơ hội",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Equality of opportunity</i> (noun) = bình đẳng cơ hội. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "All education systems may ultimately be judged in terms of <b>equality of opportunity</b>.",
+    "vi": "Mọi hệ thống giáo dục có thể được đánh giá theo <b>bình đẳng cơ hội</b>."
+   }
+  },
+  {
+   "word": "selective",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/sɪˈlektɪv/",
+   "def_en": "Choosing pupils for entry, usually for academic reasons.",
+   "def_vi": "Tuyển chọn học sinh, thường vì học lực.",
+   "gloss_vi": "tuyển chọn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "comprehensive <i>(adj. đại trà)</i>",
+   "grammar_vi": "<i>Selective</i> (adjective) = tuyển chọn. <b>Grammar</b>: <i>selective school</i>.",
+   "example": {
+    "en": "This is often referred to in the debates over <b>selective</b> versus comprehensive schooling.",
+    "vi": "Tranh luận về trường <b>tuyển chọn</b> với trường phổ thông."
+   }
+  },
+  {
+   "word": "comprehensive",
+   "sense": "school",
+   "pos": "adjective",
+   "ipa": "/ˌkɒmprɪˈhensɪv/",
+   "def_en": "(Of schools) where everyone enters without exams and education is free.",
+   "def_vi": "(Trường) ai cũng vào, không thi, miễn phí.",
+   "gloss_vi": "phổ thông đại trà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "selective <i>(adj. tuyển chọn)</i>",
+   "grammar_vi": "<i>Comprehensive</i> (adjective) = phổ thông đại trà. <b>Grammar</b>: <i>a comprehensive (school)</i>.",
+   "example": {
+    "en": "the debates over selective versus <b>comprehensive</b> schooling",
+    "vi": "Tranh luận về trường tuyển chọn với trường <b>đại trà</b>."
+   }
+  },
+  {
+   "word": "schooling",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈskuːlɪŋ/",
+   "def_en": "Education received at school.",
+   "def_vi": "Giáo dục ở trường.",
+   "gloss_vi": "sự học ở trường",
+   "synonyms": "education <i>(n. giáo dục)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Schooling</i> (noun) = sự học ở trường. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "selective versus comprehensive <b>schooling</b>",
+    "vi": "Tranh luận về hình thức <b>học đường</b> tuyển chọn hay đại trà."
+   }
+  },
+  {
+   "word": "elitism",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/eɪˈliːtɪzəm/",
+   "def_en": "Favouring a small, privileged group.",
+   "def_vi": "Ưu ái một nhóm nhỏ đặc quyền.",
+   "gloss_vi": "chủ nghĩa tinh hoa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Elitism</i> (noun) = chủ nghĩa tinh hoa. <b>Grammar</b>: <i>elitist</i> (adj./n.).",
+   "example": {
+    "en": "whether <b>elitism</b> of one sort or another is inherent in the system",
+    "vi": "Liệu <b>chủ nghĩa tinh hoa</b> có tồn tại sẵn trong hệ thống?"
+   }
+  },
+  {
+   "word": "inherent in",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪnˈhɪərənt ɪn/",
+   "def_en": "Existing as a basic part of something.",
+   "def_vi": "Tồn tại như một phần cơ bản.",
+   "gloss_vi": "vốn có trong",
+   "synonyms": "intrinsic <i>(adj. nội tại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Inherent in</i> (adjective) = vốn có trong. <b>Grammar</b>: <i>be inherent in sth</i>.",
+   "example": {
+    "en": "whether elitism of one sort or another is <b>inherent in</b> the system",
+    "vi": "Liệu chủ nghĩa tinh hoa có <b>vốn có trong</b> hệ thống?"
+   }
+  },
+  {
+   "word": "league table",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈliːɡ teɪbl/",
+   "def_en": "A list of schools from the best to the worst, based on exam results.",
+   "def_vi": "Danh sách trường từ tốt đến kém theo kết quả thi.",
+   "gloss_vi": "bảng xếp hạng",
+   "synonyms": "ranking <i>(n. xếp hạng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>League table</i> (noun) = bảng xếp hạng. <b>Grammar</b>: Anh-Anh.",
+   "example": {
+    "en": "<b>League tables</b> for schools and colleges may actually help to perpetuate inequalities.",
+    "vi": "<b>Bảng xếp hạng</b> trường học có thể duy trì bất bình đẳng."
+   }
+  },
+  {
+   "word": "perpetuate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/pəˈpetʃueɪt/",
+   "def_en": "To make something continue.",
+   "def_vi": "Làm điều gì tiếp diễn.",
+   "gloss_vi": "duy trì, kéo dài",
+   "synonyms": "maintain <i>(v. duy trì)</i>",
+   "antonyms": "end <i>(v. chấm dứt)</i>",
+   "grammar_vi": "<i>Perpetuate</i> (verb) = duy trì, kéo dài. <b>Grammar</b>: thường dùng cho điều xấu.",
+   "example": {
+    "en": "League tables may actually help unintentionally to <b>perpetuate</b> inequalities.",
+    "vi": "Bảng xếp hạng có thể vô tình <b>duy trì</b> bất bình đẳng."
+   }
+  },
+  {
+   "word": "two-tier system",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌtuː tɪə ˈsɪstəm/",
+   "def_en": "A system with two separate levels, one better than the other.",
+   "def_vi": "Hệ thống hai cấp, một cấp tốt hơn.",
+   "gloss_vi": "hệ thống hai tầng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Two-tier system</i> (noun) = hệ thống hai tầng. <b>Grammar</b>: <i>tier</i> /tɪə/ = tầng.",
+   "example": {
+    "en": "resulting in a <b>two-tier system</b>",
+    "vi": "Kết quả là một <b>hệ thống hai tầng</b>."
+   }
+  },
+  {
+   "word": "perceive",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/pəˈsiːv/",
+   "def_en": "To see or consider.",
+   "def_vi": "Nhìn nhận, coi là.",
+   "gloss_vi": "nhìn nhận",
+   "synonyms": "regard <i>(v. coi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Perceive</i> (verb) = nhìn nhận. <b>Grammar</b>: <i>perception</i> (n.).",
+   "example": {
+    "en": "at least that is how the public <b>perceives</b> it",
+    "vi": "Ít nhất đó là cách công chúng <b>nhìn nhận</b>."
+   }
+  },
+  {
+   "word": "better-off",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌbetər ˈɒf/",
+   "def_en": "Richer.",
+   "def_vi": "Giàu hơn.",
+   "gloss_vi": "khá giả hơn",
+   "synonyms": "wealthier <i>(adj. giàu hơn)</i>",
+   "antonyms": "less well-off <i>(adj. nghèo hơn)</i>",
+   "grammar_vi": "<i>Better-off</i> (adjective) = khá giả hơn. <b>Grammar</b>: so sánh hơn của <i>well-off</i>.",
+   "example": {
+    "en": "The ability of <b>better-off</b> parents to push children towards the institutions at the top of the league.",
+    "vi": "Phụ huynh <b>khá giả hơn</b> có thể đẩy con lên trường top."
+   }
+  },
+  {
+   "word": "well-endowed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌwel ɪnˈdaʊd/",
+   "def_en": "Receiving a lot of money in grants and gifts.",
+   "def_vi": "Nhận nhiều tiền tài trợ, quà tặng.",
+   "gloss_vi": "được tài trợ dồi dào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Well-endowed</i> (adjective) = được tài trợ dồi dào. <b>Grammar</b>: <i>endowment</i> (n.) = khoản tài trợ.",
+   "example": {
+    "en": "<b>well-endowed</b> schools",
+    "vi": "Các trường <b>được tài trợ dồi dào</b>."
+   }
+  },
+  {
+   "word": "depress",
+   "sense": "reduce",
+   "pos": "verb",
+   "ipa": "/dɪˈpres/",
+   "def_en": "To reduce.",
+   "def_vi": "Làm giảm.",
+   "gloss_vi": "làm giảm",
+   "synonyms": "reduce <i>(v. giảm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Depress</i> (verb) = làm giảm. <b>Grammar</b>: nghĩa <i>làm giảm</i> (trang trọng).",
+   "example": {
+    "en": "have the effect of <b>depressing</b> opportunity for the less well-off",
+    "vi": "Điều này có thể <b>làm giảm</b> cơ hội cho người nghèo hơn."
+   }
+  },
+  {
+   "word": "less well-off",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌles wel ˈɒf/",
+   "def_en": "Poorer.",
+   "def_vi": "Nghèo hơn.",
+   "gloss_vi": "kém khá giả",
+   "synonyms": "poorer <i>(adj. nghèo hơn)</i>",
+   "antonyms": "better-off <i>(adj. khá giả hơn)</i>",
+   "grammar_vi": "<i>Less well-off</i> (adjective) = kém khá giả. <b>Grammar</b>: <i>the less well-off</i> = người nghèo hơn.",
+   "example": {
+    "en": "depressing opportunity for the <b>less well-off</b>",
+    "vi": "Giảm cơ hội cho người <b>kém khá giả</b>."
+   }
+  },
+  {
+   "word": "excel",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪkˈsel/",
+   "def_en": "To achieve an excellent standard.",
+   "def_vi": "Đạt mức xuất sắc.",
+   "gloss_vi": "xuất sắc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Excel</i> (verb) = xuất sắc. <b>Grammar</b>: <i>excel at/in sth</i>.",
+   "example": {
+    "en": "home environments that do not provide the push and motivation to <b>excel</b>",
+    "vi": "Môi trường không tạo động lực để trẻ <b>vươn lên xuất sắc</b>."
+   }
+  },
+  {
+   "word": "scholarship",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈskɒləʃɪp/",
+   "def_en": "Money given to pay for studies, usually on the basis of academic merit.",
+   "def_vi": "Tiền cấp cho việc học dựa trên học lực.",
+   "gloss_vi": "học bổng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Scholarship</i> (noun) = học bổng. <b>Grammar</b>: dựa trên thành tích.",
+   "example": {
+    "en": "There are, for example, <b>scholarships</b> that make it possible for less privileged youngsters to afford tertiary education.",
+    "vi": "Có <b>học bổng</b> cho học sinh kém may mắn."
+   }
+  },
+  {
+   "word": "bursary",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɜːsəri/",
+   "def_en": "Money given to pay for studies, usually on the basis of need.",
+   "def_vi": "Tiền cấp cho việc học dựa trên nhu cầu.",
+   "gloss_vi": "trợ cấp học tập",
+   "synonyms": "grant <i>(n. trợ cấp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bursary</i> (noun) = trợ cấp học tập. <b>Grammar</b>: dựa trên hoàn cảnh.",
+   "example": {
+    "en": "There are scholarships or <b>bursaries</b> that make it possible for less privileged youngsters to afford tertiary education.",
+    "vi": "Có <b>trợ cấp học tập</b> cho học sinh khó khăn."
+   }
+  },
+  {
+   "word": "tertiary",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈtɜːʃəri/",
+   "def_en": "(Of education) at university or college level.",
+   "def_vi": "(Giáo dục) bậc đại học, cao đẳng.",
+   "gloss_vi": "bậc đại học",
+   "synonyms": "higher <i>(adj. cao hơn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tertiary</i> (adjective) = bậc đại học. <b>Grammar</b>: <i>tertiary education</i>.",
+   "example": {
+    "en": "to afford <b>tertiary</b> education",
+    "vi": "Giúp người trẻ có đủ tiền học <b>đại học</b>."
+   }
+  },
+  {
+   "word": "student loan",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌstjuːdnt ˈləʊn/",
+   "def_en": "Money students borrow while studying and pay back once in work.",
+   "def_vi": "Tiền sinh viên vay khi học, trả khi đi làm.",
+   "gloss_vi": "khoản vay sinh viên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Student loan</i> (noun) = khoản vay sinh viên. <b>Collocations / chunks</b>: cụm danh từ cố định <i>student loan</i>.",
+   "example": {
+    "en": "<b>Student loans</b> allow undergraduates to pay for their tuition fees.",
+    "vi": "<b>Khoản vay sinh viên</b> cho phép trả học phí."
+   }
+  },
+  {
+   "word": "undergraduate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌʌndəˈɡrædʒuət/",
+   "def_en": "A student doing a first degree.",
+   "def_vi": "Sinh viên học bằng đầu.",
+   "gloss_vi": "sinh viên đại học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "postgraduate <i>(n. học viên sau đại học)</i>",
+   "grammar_vi": "<i>Undergraduate</i> (noun) = sinh viên đại học. <b>Grammar</b>: <i>postgraduate</i> = học bằng cao hơn.",
+   "example": {
+    "en": "Student loans allow <b>undergraduates</b> to pay for their tuition fees.",
+    "vi": "Khoản vay cho phép <b>sinh viên đại học</b> trả học phí."
+   }
+  },
+  {
+   "word": "tuition fees",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tjuˈɪʃn fiːz/",
+   "def_en": "Money paid to receive teaching.",
+   "def_vi": "Tiền trả để được dạy.",
+   "gloss_vi": "học phí",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tuition fees</i> (noun) = học phí. <b>Grammar</b>: số nhiều.",
+   "example": {
+    "en": "to pay for their <b>tuition fees</b> and living expenses",
+    "vi": "Sinh viên trả <b>học phí</b> và chi phí sinh hoạt."
+   }
+  },
+  {
+   "word": "the three Rs",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ðə ˌθriː ˈɑːz/",
+   "def_en": "Reading, writing and arithmetic.",
+   "def_vi": "Đọc, viết và số học.",
+   "gloss_vi": "ba kỹ năng cơ bản",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The three Rs</i> (noun) = ba kỹ năng cơ bản. <b>Grammar</b>: <i>reading, (w)riting, (a)rithmetic</i>.",
+   "example": {
+    "en": "Some people think we should return to an emphasis on <b>the three Rs</b>.",
+    "vi": "Một số người muốn quay lại chú trọng <b>ba kỹ năng cơ bản</b>."
+   }
+  },
+  {
+   "word": "literacy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlɪtərəsi/",
+   "def_en": "The ability to read.",
+   "def_vi": "Khả năng đọc.",
+   "gloss_vi": "khả năng đọc viết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "illiteracy <i>(n. mù chữ)</i>",
+   "grammar_vi": "<i>Literacy</i> (noun) = khả năng đọc viết. <b>Grammar</b>: <i>literate</i> (adj.).",
+   "example": {
+    "en": "<b>Literacy</b> and numeracy are skills no one can afford to be without.",
+    "vi": "<b>Khả năng đọc viết</b> là kỹ năng không ai được thiếu."
+   }
+  },
+  {
+   "word": "numeracy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈnjuːmərəsi/",
+   "def_en": "The ability to count and do basic maths.",
+   "def_vi": "Khả năng đếm, làm toán cơ bản.",
+   "gloss_vi": "khả năng tính toán",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Numeracy</i> (noun) = khả năng tính toán. <b>Grammar</b>: <i>numerate</i> (adj.).",
+   "example": {
+    "en": "Literacy and <b>numeracy</b> are skills no one can afford to be without.",
+    "vi": "Khả năng đọc viết và <b>tính toán</b> là kỹ năng cần thiết."
+   }
+  },
+  {
+   "word": "curriculum reform",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəˌrɪkjələm rɪˈfɔːm/",
+   "def_en": "Changes to what is covered in the national syllabus.",
+   "def_vi": "Thay đổi nội dung chương trình quốc gia.",
+   "gloss_vi": "cải cách chương trình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Curriculum reform</i> (noun) = cải cách chương trình. <b>Grammar</b>: số nhiều <i>curricula</i>.",
+   "example": {
+    "en": "<b>Curriculum reform</b> is often done for political reasons.",
+    "vi": "<b>Cải cách chương trình</b> thường vì lý do chính trị."
+   }
+  },
+  {
+   "word": "syllabus",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɪləbəs/",
+   "def_en": "A plan of what is to be studied.",
+   "def_vi": "Kế hoạch nội dung cần học.",
+   "gloss_vi": "đề cương môn học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Syllabus</i> (noun) = đề cương môn học. <b>Grammar</b>: số nhiều <i>syllabuses/syllabi</i>.",
+   "example": {
+    "en": "changes to what is covered in the national <b>syllabus</b>",
+    "vi": "Thay đổi <b>đề cương</b> quốc gia."
+   }
+  },
+  {
+   "word": "lifelong education",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌlaɪflɒŋ ˌedʒuˈkeɪʃn/",
+   "def_en": "Education for all ages.",
+   "def_vi": "Giáo dục cho mọi lứa tuổi.",
+   "gloss_vi": "giáo dục suốt đời",
+   "synonyms": "continuing education <i>(n. giáo dục thường xuyên)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lifelong education</i> (noun) = giáo dục suốt đời. <b>Grammar</b>: cũng <i>continuing education</i>.",
+   "example": {
+    "en": "Nowadays, <b>lifelong</b> / continuing education is an issue.",
+    "vi": "Ngày nay, <b>giáo dục suốt đời</b> là một vấn đề."
+   }
+  },
+  {
+   "word": "mature student",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/məˌtʃʊə ˈstjuːdnt/",
+   "def_en": "An adult student older than the average student.",
+   "def_vi": "Sinh viên lớn tuổi hơn bình thường.",
+   "gloss_vi": "sinh viên lớn tuổi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mature student</i> (noun) = sinh viên lớn tuổi. <b>Collocations / chunks</b>: cụm danh từ cố định <i>mature student</i>.",
+   "example": {
+    "en": "Creating opportunities for <b>mature students</b> is important.",
+    "vi": "Tạo cơ hội cho <b>sinh viên lớn tuổi</b> rất quan trọng."
+   }
+  },
+  {
+   "word": "special needs education",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌspeʃl ˈniːdz edʒuˌkeɪʃn/",
+   "def_en": "Education for children who cannot learn in the normal way because of a disability.",
+   "def_vi": "Giáo dục cho trẻ khuyết tật học tập.",
+   "gloss_vi": "giáo dục đặc biệt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Special needs education</i> (noun) = giáo dục đặc biệt. <b>Collocations / chunks</b>: cụm danh từ cố định <i>special needs education</i>.",
+   "example": {
+    "en": "<b>Special needs education</b> is expensive because class sizes need to be small.",
+    "vi": "<b>Giáo dục đặc biệt</b> tốn kém vì lớp phải nhỏ."
+   }
+  },
+  {
+   "word": "one-to-one",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌwʌn tə ˈwʌn/",
+   "def_en": "With one teacher and one pupil, not a group.",
+   "def_vi": "Một thầy một trò.",
+   "gloss_vi": "kèm riêng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>One-to-one</i> (adjective) = kèm riêng. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "class sizes need to be small or <b>one-to-one</b>",
+    "vi": "Lớp phải nhỏ hoặc <b>kèm riêng</b>."
+   }
+  },
+  {
+   "word": "bullying",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbʊliɪŋ/",
+   "def_en": "Threatening behaviour.",
+   "def_vi": "Hành vi đe dọa.",
+   "gloss_vi": "bắt nạt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bullying</i> (noun) = bắt nạt. <b>Grammar</b>: <i>bully</i> (v./n.).",
+   "example": {
+    "en": "Children are unhappy at school if there is a lot of <b>bullying</b>.",
+    "vi": "Trẻ không vui ở trường nếu có nhiều <b>bắt nạt</b>."
+   }
+  },
+  {
+   "word": "guidelines",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡaɪdlaɪnz/",
+   "def_en": "Advice, often official, on how something should be done.",
+   "def_vi": "Lời khuyên, thường chính thức, về cách làm.",
+   "gloss_vi": "hướng dẫn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Guidelines</i> (noun) = hướng dẫn. <b>Grammar</b>: thường số nhiều.",
+   "example": {
+    "en": "getting to grips with constant new government <b>guidelines</b> on what schools should be doing",
+    "vi": "Các <b>hướng dẫn</b> mới của chính phủ liên tục thay đổi."
+   }
+  },
+  {
+   "word": "distraction",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈstrækʃn/",
+   "def_en": "Something that takes attention away.",
+   "def_vi": "Điều làm phân tâm.",
+   "gloss_vi": "điều gây xao nhãng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Distraction</i> (noun) = điều gây xao nhãng. <b>Grammar</b>: <i>distract</i> (v.).",
+   "example": {
+    "en": "is a <b>distraction</b> from what they ought to be focusing on",
+    "vi": "Đó là <b>điều gây xao nhãng</b> khỏi việc chính."
+   }
+  }
+ ]
+}

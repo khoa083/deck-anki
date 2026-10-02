@@ -1,0 +1,520 @@
+{
+ "book": "adv",
+ "unit": 3,
+ "title_vi": "Nộp đơn xin việc",
+ "theory_html": "<p><b>A. A job ad</b><br><i>A. Quảng cáo tuyển dụng</i></p> <p>A job ad for Customer Service Assistants: <b>communication skills, passion for, challenging, fast-paced, openings, report to, previous experience, full training, post, career prospects, leadership qualities, competitive salary, benefits package, healthcare plan, subsidised, online application, salary expectations</b>.</p><p><i>Quảng cáo tuyển dụng: <b>kỹ năng giao tiếp, đam mê, đầy thử thách, nhịp độ nhanh, vị trí trống, báo cáo cho, kinh nghiệm trước, đào tạo đầy đủ, vị trí, triển vọng nghề nghiệp, tố chất lãnh đạo, lương cạnh tranh, gói phúc lợi, bảo hiểm y tế, được trợ giá, đơn trực tuyến, mức lương mong muốn</b>.</i></p> <p><b>B. A cover letter</b><br><i>B. Thư xin việc</i></p> <p>You want your application to <b>stand out</b>. Include a clear <b>cover letter</b> (also <b>covering letter</b>): <b>Dear Sir or Madam, in support of, position, hands-on, field, customer-facing, team player, managerial experience, Yours faithfully</b>. Mention studies <b>relevant to</b> the role, your <b>previous role as</b>…, <b>led a team of</b>…, your <b>suitability for</b> the role, and projects you have <b>carried out</b>.</p><p><i>Muốn hồ sơ nổi bật, cần thư xin việc rõ ràng; nêu các khóa học liên quan, vai trò trước đây, sự phù hợp và các dự án đã thực hiện.</i></p>",
+ "items": [
+  {
+   "word": "communication skills",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəˌmjuːnɪˈkeɪʃn skɪlz/",
+   "def_en": "The ability to communicate well with others.",
+   "def_vi": "Khả năng giao tiếp tốt.",
+   "gloss_vi": "kỹ năng giao tiếp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Communication skills</i> (noun) = kỹ năng giao tiếp. <b>Grammar</b>: số nhiều.",
+   "example": {
+    "en": "Do you have excellent <b>communication skills</b>?",
+    "vi": "Bạn có <b>kỹ năng giao tiếp</b> tốt không?"
+   }
+  },
+  {
+   "word": "passion for",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpæʃn fə(r)/",
+   "def_en": "A strong liking for something.",
+   "def_vi": "Sự yêu thích mãnh liệt.",
+   "gloss_vi": "đam mê",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Passion for</i> (noun) = đam mê. <b>Grammar</b>: <i>have a passion for sth</i>.",
+   "example": {
+    "en": "a genuine <b>passion for</b> customer service",
+    "vi": "Bạn có <b>niềm đam mê</b> dịch vụ khách hàng không?"
+   }
+  },
+  {
+   "word": "challenging",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈtʃælɪndʒɪŋ/",
+   "def_en": "Exciting and difficult (positive).",
+   "def_vi": "Thú vị và khó (tích cực).",
+   "gloss_vi": "đầy thử thách",
+   "synonyms": "demanding <i>(adj. đòi hỏi cao)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Challenging</i> (adjective) = đầy thử thách. <b>Grammar</b>: <i>challenge</i> (n.).",
+   "example": {
+    "en": "Are you looking for a <b>challenging</b> role?",
+    "vi": "Bạn đang tìm một vai trò <b>đầy thử thách</b>?"
+   }
+  },
+  {
+   "word": "fast-paced",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌfɑːst ˈpeɪst/",
+   "def_en": "Where things happen quickly.",
+   "def_vi": "Nơi mọi việc diễn ra nhanh.",
+   "gloss_vi": "nhịp độ nhanh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fast-paced</i> (adjective) = nhịp độ nhanh. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "a <b>fast-paced</b> working environment",
+    "vi": "Một môi trường làm việc <b>nhịp độ nhanh</b>."
+   }
+  },
+  {
+   "word": "opening",
+   "sense": "job",
+   "pos": "noun",
+   "ipa": "/ˈəʊpnɪŋ/",
+   "def_en": "An available job.",
+   "def_vi": "Vị trí đang tuyển.",
+   "gloss_vi": "vị trí trống",
+   "synonyms": "vacancy <i>(n. chỗ trống)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Opening</i> (noun) = vị trí trống. <b>Grammar</b>: <i>a job opening</i>.",
+   "example": {
+    "en": "FDR Bank has several new <b>openings</b> for Customer Service Assistants.",
+    "vi": "Ngân hàng có vài <b>vị trí trống</b> mới."
+   }
+  },
+  {
+   "word": "report to",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rɪˈpɔːt tə/",
+   "def_en": "To have someone as your boss.",
+   "def_vi": "Có ai đó là cấp trên.",
+   "gloss_vi": "báo cáo cho",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Report to</i> (verb) = báo cáo cho. <b>Grammar</b>: <i>report to sb</i>.",
+   "example": {
+    "en": "<b>Reporting to</b> the Customer Service Manager, you will be responsible for dealing with customer enquiries.",
+    "vi": "<b>Báo cáo cho</b> Quản lý Dịch vụ Khách hàng."
+   }
+  },
+  {
+   "word": "previous experience",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpriːviəs ɪkˈspɪəriəns/",
+   "def_en": "Experience of this type of job from before.",
+   "def_vi": "Kinh nghiệm làm việc này trước đây.",
+   "gloss_vi": "kinh nghiệm trước đây",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Previous experience</i> (noun) = kinh nghiệm trước đây. <b>Collocations / chunks</b>: cụm danh từ cố định <i>previous experience</i>.",
+   "example": {
+    "en": "No <b>previous experience</b> is necessary.",
+    "vi": "Không cần <b>kinh nghiệm trước đây</b>."
+   }
+  },
+  {
+   "word": "full training",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌfʊl ˈtreɪnɪŋ/",
+   "def_en": "All the training you need.",
+   "def_vi": "Toàn bộ đào tạo cần thiết.",
+   "gloss_vi": "đào tạo đầy đủ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Full training</i> (noun) = đào tạo đầy đủ. <b>Collocations / chunks</b>: cụm danh từ cố định <i>full training</i>.",
+   "example": {
+    "en": "as <b>full training</b> will be given",
+    "vi": "Sẽ có <b>đào tạo đầy đủ</b>."
+   }
+  },
+  {
+   "word": "post",
+   "sense": "job",
+   "pos": "noun",
+   "ipa": "/pəʊst/",
+   "def_en": "A job.",
+   "def_vi": "Công việc, vị trí.",
+   "gloss_vi": "vị trí",
+   "synonyms": "position <i>(n. vị trí)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Post</i> (noun) = vị trí. <b>Grammar</b>: trang trọng.",
+   "example": {
+    "en": "The <b>post</b> offers excellent career prospects.",
+    "vi": "<b>Vị trí</b> này có triển vọng nghề nghiệp tốt."
+   }
+  },
+  {
+   "word": "career prospects",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəˈrɪə ˌprɒspekts/",
+   "def_en": "Opportunities for promotion and career development.",
+   "def_vi": "Cơ hội thăng tiến và phát triển nghề.",
+   "gloss_vi": "triển vọng nghề nghiệp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Career prospects</i> (noun) = triển vọng nghề nghiệp. <b>Grammar</b>: số nhiều.",
+   "example": {
+    "en": "The post offers excellent <b>career prospects</b>.",
+    "vi": "Vị trí này có <b>triển vọng nghề nghiệp</b> tốt."
+   }
+  },
+  {
+   "word": "leadership qualities",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈliːdəʃɪp ˌkwɒlətiz/",
+   "def_en": "The ability to lead a group.",
+   "def_vi": "Khả năng lãnh đạo nhóm.",
+   "gloss_vi": "tố chất lãnh đạo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Leadership qualities</i> (noun) = tố chất lãnh đạo. <b>Grammar</b>: số nhiều.",
+   "example": {
+    "en": "candidates who demonstrate <b>leadership qualities</b>",
+    "vi": "Ứng viên thể hiện <b>tố chất lãnh đạo</b>."
+   }
+  },
+  {
+   "word": "competitive salary",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəmˌpetətɪv ˈsæləri/",
+   "def_en": "A salary as good as, or better than, others for similar jobs.",
+   "def_vi": "Lương bằng hoặc hơn việc tương tự.",
+   "gloss_vi": "lương cạnh tranh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Competitive salary</i> (noun) = lương cạnh tranh. <b>Collocations / chunks</b>: cụm danh từ cố định <i>competitive salary</i>.",
+   "example": {
+    "en": "We offer a <b>competitive salary</b>.",
+    "vi": "Chúng tôi trả <b>lương cạnh tranh</b>."
+   }
+  },
+  {
+   "word": "benefits package",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbenɪfɪts ˌpækɪdʒ/",
+   "def_en": "All the extra benefits a company offers as well as a salary.",
+   "def_vi": "Mọi phúc lợi thêm ngoài lương.",
+   "gloss_vi": "gói phúc lợi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Benefits package</i> (noun) = gói phúc lợi. <b>Collocations / chunks</b>: cụm danh từ cố định <i>benefits package</i>.",
+   "example": {
+    "en": "an attractive <b>benefits package</b> including pension",
+    "vi": "Một <b>gói phúc lợi</b> hấp dẫn gồm lương hưu."
+   }
+  },
+  {
+   "word": "healthcare plan",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhelθkeə plæn/",
+   "def_en": "A scheme that pays for medical treatment.",
+   "def_vi": "Chương trình chi trả chữa bệnh.",
+   "gloss_vi": "bảo hiểm y tế",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Healthcare plan</i> (noun) = bảo hiểm y tế. <b>Collocations / chunks</b>: cụm danh từ cố định <i>healthcare plan</i>.",
+   "example": {
+    "en": "including pension, <b>healthcare plan</b> and subsidised meals",
+    "vi": "Gói phúc lợi gồm <b>bảo hiểm y tế</b>."
+   }
+  },
+  {
+   "word": "subsidised",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsʌbsɪdaɪzd/",
+   "def_en": "Partly paid for by the company.",
+   "def_vi": "Được công ty trả một phần.",
+   "gloss_vi": "được trợ giá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Subsidised</i> (adjective) = được trợ giá. <b>Grammar</b>: <i>subsidy</i> (n.); Mỹ <i>subsidized</i>.",
+   "example": {
+    "en": "<b>subsidised</b> meals",
+    "vi": "Bữa ăn <b>được trợ giá</b>."
+   }
+  },
+  {
+   "word": "online application",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɒnlaɪn ˌæplɪˈkeɪʃn/",
+   "def_en": "A job application form filled in on the internet.",
+   "def_vi": "Đơn xin việc điền trên mạng.",
+   "gloss_vi": "đơn ứng tuyển trực tuyến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Online application</i> (noun) = đơn ứng tuyển trực tuyến. <b>Collocations / chunks</b>: cụm danh từ cố định <i>online application</i>.",
+   "example": {
+    "en": "click here to fill in the <b>online application</b> form",
+    "vi": "Nhấp vào đây để điền <b>đơn ứng tuyển trực tuyến</b>."
+   }
+  },
+  {
+   "word": "salary expectations",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsæləri ekspekˌteɪʃnz/",
+   "def_en": "The salary you hope to receive.",
+   "def_vi": "Mức lương mong muốn.",
+   "gloss_vi": "mức lương mong muốn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Salary expectations</i> (noun) = mức lương mong muốn. <b>Grammar</b>: số nhiều.",
+   "example": {
+    "en": "including details of your <b>salary expectations</b>",
+    "vi": "Ghi rõ <b>mức lương mong muốn</b>."
+   }
+  },
+  {
+   "word": "stand out",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌstænd ˈaʊt/",
+   "def_en": "To be better than others.",
+   "def_vi": "Tốt hơn người khác.",
+   "gloss_vi": "nổi bật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stand out</i> (verb) = nổi bật. <b>Grammar</b>: <i>outstanding</i> (adj.).",
+   "example": {
+    "en": "You want your application to <b>stand out</b>.",
+    "vi": "Bạn muốn hồ sơ của mình <b>nổi bật</b>."
+   }
+  },
+  {
+   "word": "cover letter",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkʌvə ˌletə(r)/",
+   "def_en": "A letter sent with a job application.",
+   "def_vi": "Thư gửi kèm đơn xin việc.",
+   "gloss_vi": "thư xin việc",
+   "synonyms": "covering letter <i>(n. thư xin việc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cover letter</i> (noun) = thư xin việc. <b>Grammar</b>: cũng <i>covering letter</i>.",
+   "example": {
+    "en": "You should include a clear, well-written <b>cover letter</b>.",
+    "vi": "Nên kèm một <b>thư xin việc</b> rõ ràng."
+   }
+  },
+  {
+   "word": "Dear Sir or Madam",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌdɪə ˌsɜːr ɔː ˈmædəm/",
+   "def_en": "How you start a letter when you do not know the name of the person.",
+   "def_vi": "Cách mở thư khi không biết tên người nhận.",
+   "gloss_vi": "Kính gửi Quý ông/bà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dear Sir or Madam</i> (phrase) = Kính gửi Quý ông/bà. <b>Grammar</b>: kết thư bằng <i>Yours faithfully</i>.",
+   "example": {
+    "en": "<b>Dear Sir or Madam</b>",
+    "vi": "<b>Kính gửi Quý ông/bà</b>."
+   }
+  },
+  {
+   "word": "in support of",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ɪn səˈpɔːt əv/",
+   "def_en": "To help or strengthen something.",
+   "def_vi": "Để hỗ trợ điều gì.",
+   "gloss_vi": "để hỗ trợ cho",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In support of</i> (preposition) = để hỗ trợ cho. <b>Grammar</b>: trang trọng.",
+   "example": {
+    "en": "Please find attached my CV <b>in support of</b> my application.",
+    "vi": "Đính kèm CV <b>hỗ trợ cho</b> đơn ứng tuyển."
+   }
+  },
+  {
+   "word": "position",
+   "sense": "job",
+   "pos": "noun",
+   "ipa": "/pəˈzɪʃn/",
+   "def_en": "A job.",
+   "def_vi": "Công việc, vị trí.",
+   "gloss_vi": "vị trí",
+   "synonyms": "post <i>(n. vị trí)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Position</i> (noun) = vị trí. <b>Grammar</b>: trang trọng.",
+   "example": {
+    "en": "my application for the <b>position</b> of Customer Service Assistant",
+    "vi": "Đơn ứng tuyển <b>vị trí</b> Trợ lý Dịch vụ Khách hàng."
+   }
+  },
+  {
+   "word": "hands-on",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌhændz ˈɒn/",
+   "def_en": "Practical, direct, not theoretical.",
+   "def_vi": "Thực tế, trực tiếp.",
+   "gloss_vi": "thực tế",
+   "synonyms": "practical <i>(adj. thực tế)</i>",
+   "antonyms": "theoretical <i>(adj. lý thuyết)</i>",
+   "grammar_vi": "<i>Hands-on</i> (adjective) = thực tế. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "I am keen to gain <b>hands-on</b> experience in this area.",
+    "vi": "Tôi muốn có kinh nghiệm <b>thực tế</b>."
+   }
+  },
+  {
+   "word": "field",
+   "sense": "area",
+   "pos": "noun",
+   "ipa": "/fiːld/",
+   "def_en": "An area of business or activity.",
+   "def_vi": "Lĩnh vực kinh doanh, hoạt động.",
+   "gloss_vi": "lĩnh vực",
+   "synonyms": "area <i>(n. lĩnh vực)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Field</i> (noun) = lĩnh vực. <b>Grammar</b>: <i>in the field of</i>.",
+   "example": {
+    "en": "I have always been interested in working in this <b>field</b>.",
+    "vi": "Tôi luôn thích làm việc trong <b>lĩnh vực</b> này."
+   }
+  },
+  {
+   "word": "customer-facing",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌkʌstəmə ˈfeɪsɪŋ/",
+   "def_en": "Dealing directly with customers.",
+   "def_vi": "Làm việc trực tiếp với khách hàng.",
+   "gloss_vi": "tiếp xúc khách hàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Customer-facing</i> (adjective) = tiếp xúc khách hàng. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "This has given me valuable <b>customer-facing</b> experience.",
+    "vi": "Kinh nghiệm <b>tiếp xúc khách hàng</b> quý giá."
+   }
+  },
+  {
+   "word": "team player",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtiːm ˌpleɪə(r)/",
+   "def_en": "A person who is good at working with others.",
+   "def_vi": "Người làm việc nhóm giỏi.",
+   "gloss_vi": "người có tinh thần đồng đội",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Team player</i> (noun) = người có tinh thần đồng đội. <b>Collocations / chunks</b>: cụm danh từ cố định <i>team player</i>.",
+   "example": {
+    "en": "I am a <b>team player</b>.",
+    "vi": "Tôi là <b>người có tinh thần đồng đội</b>."
+   }
+  },
+  {
+   "word": "managerial experience",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmænəˌdʒɪəriəl ɪkˈspɪəriəns/",
+   "def_en": "Experience of managing other people.",
+   "def_vi": "Kinh nghiệm quản lý người khác.",
+   "gloss_vi": "kinh nghiệm quản lý",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Managerial experience</i> (noun) = kinh nghiệm quản lý. <b>Grammar</b>: <i>managerial</i> /ˌmænəˈdʒɪəriəl/.",
+   "example": {
+    "en": "I am keen to gain <b>managerial experience</b> in the future.",
+    "vi": "Tôi muốn có <b>kinh nghiệm quản lý</b> sau này."
+   }
+  },
+  {
+   "word": "Yours faithfully",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌjɔːz ˈfeɪθfəli/",
+   "def_en": "How you finish a letter when you do not know the person’s name.",
+   "def_vi": "Cách kết thư khi không biết tên người nhận.",
+   "gloss_vi": "Trân trọng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Yours faithfully</i> (phrase) = Trân trọng. <b>Grammar</b>: dùng sau <i>Dear Sir or Madam</i>.",
+   "example": {
+    "en": "<b>Yours faithfully</b>",
+    "vi": "<b>Trân trọng</b>, Rebecca White."
+   }
+  },
+  {
+   "word": "relevant to",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈreləvənt tə/",
+   "def_en": "Connected to.",
+   "def_vi": "Liên quan đến.",
+   "gloss_vi": "liên quan đến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "irrelevant <i>(adj. không liên quan)</i>",
+   "grammar_vi": "<i>Relevant to</i> (adjective) = liên quan đến. <b>Grammar</b>: <i>relevance</i> (n.).",
+   "example": {
+    "en": "Mention any studies or training courses you have done which are <b>relevant to</b> the role.",
+    "vi": "Nêu các khóa học <b>liên quan đến</b> vai trò."
+   }
+  },
+  {
+   "word": "previous role as",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpriːviəs ˈrəʊl əz/",
+   "def_en": "The job you did before.",
+   "def_vi": "Công việc trước đây.",
+   "gloss_vi": "vai trò trước đây là",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Previous role as</i> (noun) = vai trò trước đây là. <b>Grammar</b>: <i>in my previous role as…</i>.",
+   "example": {
+    "en": "In my <b>previous role as</b> (Sales Manager), I led a team of (four people).",
+    "vi": "<b>Ở vai trò trước đây là</b> Quản lý Bán hàng, tôi đã dẫn dắt một nhóm."
+   }
+  },
+  {
+   "word": "lead a team",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌliːd ə ˈtiːm/",
+   "def_en": "To be in charge of a group of people.",
+   "def_vi": "Phụ trách một nhóm người.",
+   "gloss_vi": "dẫn dắt một nhóm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lead a team</i> (verb) = dẫn dắt một nhóm. <b>Grammar</b>: bất quy tắc: led.",
+   "example": {
+    "en": "I <b>led a team of</b> (four people).",
+    "vi": "Tôi đã <b>dẫn dắt một nhóm</b> bốn người."
+   }
+  },
+  {
+   "word": "suitability for",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsuːtəˈbɪləti fə(r)/",
+   "def_en": "Being right for something.",
+   "def_vi": "Sự phù hợp với điều gì.",
+   "gloss_vi": "sự phù hợp với",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Suitability for</i> (noun) = sự phù hợp với. <b>Grammar</b>: <i>suitable for</i> (adj.).",
+   "example": {
+    "en": "to show your <b>suitability for</b> the role",
+    "vi": "Nêu kinh nghiệm để cho thấy <b>sự phù hợp với</b> vai trò."
+   }
+  }
+ ]
+}
