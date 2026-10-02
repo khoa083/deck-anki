@@ -1,0 +1,441 @@
+{
+ "book": "upp",
+ "unit": 76,
+ "title_vi": "Danh từ ghép 2: động từ + giới từ",
+ "theory_html": "<p><b>A. Compound nouns based on phrasal verbs</b><br><i>A. Danh từ ghép từ cụm động từ</i></p> <p>An example of a compound noun based on a phrasal verb is a <b>takeover</b> [when one company takes control of another] from <b>to take over</b>. To form the plural, ‘s’ is added to the end, e.g. <b>workouts</b> [exercise sessions].</p><p><i>Ví dụ <b>takeover</b> từ <b>take over</b>. Số nhiều thêm ‘s’ ở cuối, như <b>workouts</b>.</i></p> <p><b>B. Journalism</b><br><i>B. Báo chí</i></p> <p>Nouns based on phrasal verbs often have an informal feel to them and they are particularly common in newspaper reporting: <b>walkout</b> [strike], <b>crackdown</b> [action to stop/reduce], <b>breakout</b> [escape], <b>shake-up</b> [change], <b>break-up</b> [collapse].</p><p><i>Danh từ từ cụm động từ thường có sắc thái thân mật, phổ biến trên báo: <b>đình công, trấn áp, vượt ngục, cải tổ, tan vỡ</b>.</i></p> <p><b>C. The economy</b><br><i>C. Kinh tế</i></p> <p><b>takeover</b> [purchase by another company], <b>outlets</b> [places to sell], <b>check-out</b> [cash desk], <b>cutbacks</b> [reductions], <b>turnover</b> [money passing through a company], <b>bailout</b> [money given to a company to save it from failure].</p><p><i><b>thâu tóm, điểm bán, quầy thanh toán, cắt giảm, doanh thu, gói cứu trợ</b>.</i></p> <p><b>D. Aspects of modern life</b><br><i>D. Khía cạnh cuộc sống hiện đại</i></p> <p><b>input</b> [information that is put in], <b>output</b> [production], <b>turnover</b> [change of staff], <b>dropout</b> [person who rejects society], <b>fallout</b> [radioactive dust in the atmosphere], <b>printout</b>, <b>breakthrough</b> [important discovery].</p><p><i><b>đầu vào, sản lượng, biến động nhân sự, người bỏ ngang, bụi phóng xạ, bản in, đột phá</b>.</i></p> <p><b>E. General</b><br><i>E. Chung</i></p> <p><b>breakdown</b> [failure], <b>outlook</b> [prospect], <b>drawbacks</b> [negative aspects], <b>outcome</b> [conclusion], <b>feedback</b> [comments], <b>outset</b> [start], <b>set-up</b> [situation], <b>lay-by</b> [parking space at the side of a road], <b>bypass</b> [road avoiding the centre of a town], <b>outbreak</b> [start of something unpleasant].</p><p><i><b>đổ vỡ, triển vọng, nhược điểm, kết quả, phản hồi, lúc đầu, cách bố trí, chỗ đỗ ven đường, đường vành đai, sự bùng nổ</b>.</i></p>",
+ "items": [
+  {
+   "word": "takeover",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈteɪkəʊvə(r)/",
+   "def_en": "When one company takes control of another.",
+   "def_vi": "Khi một công ty nắm quyền công ty khác.",
+   "gloss_vi": "sự thâu tóm",
+   "synonyms": "acquisition <i>(n. sự mua lại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Takeover</i> (noun) = sự thâu tóm. <b>Grammar</b>: từ <i>take over</i>.",
+   "example": {
+    "en": "The <b>takeover</b> of one of our leading hotel chains has just been announced.",
+    "vi": "Vụ <b>thâu tóm</b> một chuỗi khách sạn hàng đầu vừa được công bố."
+   }
+  },
+  {
+   "word": "workout",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɜːkaʊt/",
+   "def_en": "An exercise session, e.g. at the gym.",
+   "def_vi": "Buổi tập thể dục, như ở phòng gym.",
+   "gloss_vi": "buổi tập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Workout</i> (noun) = buổi tập. <b>Grammar</b>: từ <i>work out</i>; số nhiều <i>workouts</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I do three <b>workouts</b> a week.",
+    "vi": "Tôi có ba <b>buổi tập</b> mỗi tuần."
+   }
+  },
+  {
+   "word": "walkout",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɔːkaʊt/",
+   "def_en": "A strike.",
+   "def_vi": "Cuộc đình công.",
+   "gloss_vi": "cuộc đình công",
+   "synonyms": "strike <i>(n. đình công)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Walkout</i> (noun) = cuộc đình công. <b>Grammar</b>: từ <i>walk out</i>; thân mật, hay dùng trên báo.",
+   "example": {
+    "en": "In response to the pay offer, there was a <b>walkout</b> at the factory.",
+    "vi": "Đáp lại đề nghị lương, đã có <b>đình công</b> ở nhà máy."
+   }
+  },
+  {
+   "word": "crackdown",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkrækdaʊn/",
+   "def_en": "Action to stop or reduce something.",
+   "def_vi": "Hành động ngăn chặn hay giảm.",
+   "gloss_vi": "cuộc trấn áp, siết chặt",
+   "synonyms": "clampdown <i>(n. siết chặt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Crackdown</i> (noun) = cuộc trấn áp, siết chặt. <b>Grammar</b>: <i>a crackdown on sth</i>.",
+   "example": {
+    "en": "There is going to be a <b>crackdown</b> on public spending.",
+    "vi": "Sắp có đợt <b>siết chặt</b> chi tiêu công."
+   }
+  },
+  {
+   "word": "breakout",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbreɪkaʊt/",
+   "def_en": "An escape, e.g. from prison.",
+   "def_vi": "Sự trốn thoát, như vượt ngục.",
+   "gloss_vi": "vụ vượt ngục",
+   "synonyms": "escape <i>(n. trốn thoát)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Breakout</i> (noun) = vụ vượt ngục. <b>Grammar</b>: từ <i>break out</i>.",
+   "example": {
+    "en": "An inquiry into the recent <b>breakout</b> from the local prison has recommended measures to tighten security there.",
+    "vi": "Cuộc điều tra về <b>vụ vượt ngục</b> gần đây đề xuất tăng an ninh."
+   }
+  },
+  {
+   "word": "shake-up",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈʃeɪk ʌp/",
+   "def_en": "A big change in an organisation.",
+   "def_vi": "Thay đổi lớn trong tổ chức.",
+   "gloss_vi": "cuộc cải tổ",
+   "synonyms": "reorganisation <i>(n. tái cơ cấu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shake-up</i> (noun) = cuộc cải tổ. <b>Grammar</b>: có gạch nối.",
+   "example": {
+    "en": "Last month saw a tremendous <b>shake-up</b> in personnel.",
+    "vi": "Tháng trước có một <b>cuộc cải tổ</b> nhân sự lớn."
+   }
+  },
+  {
+   "word": "break-up",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbreɪk ʌp/",
+   "def_en": "The collapse of a relationship.",
+   "def_vi": "Sự tan vỡ của mối quan hệ.",
+   "gloss_vi": "sự tan vỡ",
+   "synonyms": "split <i>(n. chia tay)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Break-up</i> (noun) = sự tan vỡ. <b>Grammar</b>: từ <i>break up</i>.",
+   "example": {
+    "en": "Last week we reported on the <b>break-up</b> of the mayor’s marriage.",
+    "vi": "Tuần trước chúng tôi đưa tin về <b>sự tan vỡ</b> hôn nhân của thị trưởng."
+   }
+  },
+  {
+   "word": "outlet",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈaʊtlet/",
+   "def_en": "A place to sell products.",
+   "def_vi": "Nơi bán sản phẩm.",
+   "gloss_vi": "điểm bán, đầu ra",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Outlet</i> (noun) = điểm bán, đầu ra. <b>Common mistakes</b>: cũng = ổ cắm (Mỹ), lối thoát cảm xúc.",
+   "example": {
+    "en": "We’re trying to find some new <b>outlets</b> for our products.",
+    "vi": "Chúng tôi đang tìm <b>điểm bán</b> mới cho sản phẩm."
+   }
+  },
+  {
+   "word": "check-out",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtʃek aʊt/",
+   "def_en": "The cash desk in a shop.",
+   "def_vi": "Quầy thu ngân.",
+   "gloss_vi": "quầy thanh toán",
+   "synonyms": "till <i>(n. quầy thu tiền)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Check-out</i> (noun) = quầy thanh toán. <b>Grammar</b>: từ <i>check out</i>.",
+   "example": {
+    "en": "Take your things to the <b>check-out</b> to pay for them.",
+    "vi": "Mang đồ đến <b>quầy thanh toán</b> để trả tiền."
+   }
+  },
+  {
+   "word": "cutback",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkʌtbæk/",
+   "def_en": "A reduction.",
+   "def_vi": "Sự cắt giảm.",
+   "gloss_vi": "sự cắt giảm",
+   "synonyms": "reduction <i>(n. sự giảm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cutback</i> (noun) = sự cắt giảm. <b>Grammar</b>: từ <i>cut back</i>; thường số nhiều.",
+   "example": {
+    "en": "<b>Cutbacks</b> will be essential until the recession is over.",
+    "vi": "<b>Cắt giảm</b> là cần thiết cho đến khi hết suy thoái."
+   }
+  },
+  {
+   "word": "turnover",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtɜːnəʊvə(r)/",
+   "def_en": "The money passing through a company.",
+   "def_vi": "Tiền đi qua công ty.",
+   "gloss_vi": "doanh thu",
+   "synonyms": "revenue <i>(n. doanh thu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Turnover</i> (noun) = doanh thu. <b>Grammar</b>: từ <i>turn over</i>.",
+   "example": {
+    "en": "Our profit was £1,000 on a <b>turnover</b> of £10,000.",
+    "vi": "Lợi nhuận là £1.000 trên <b>doanh thu</b> £10.000."
+   }
+  },
+  {
+   "word": "turnover",
+   "sense": "staff",
+   "pos": "noun",
+   "ipa": "/ˈtɜːnəʊvə(r)/",
+   "def_en": "The rate at which staff leave and are replaced.",
+   "def_vi": "Tốc độ nhân viên nghỉ và được thay.",
+   "gloss_vi": "biến động nhân sự",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Turnover</i> (noun) = biến động nhân sự. <b>Collocations / chunks</b>: <i>staff turnover</i>.",
+   "example": {
+    "en": "We have a rather rapid staff <b>turnover</b>.",
+    "vi": "Chúng tôi có <b>biến động nhân sự</b> khá nhanh."
+   }
+  },
+  {
+   "word": "bailout",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbeɪlaʊt/",
+   "def_en": "Money given to a company to save it from failure.",
+   "def_vi": "Tiền cấp để cứu công ty khỏi phá sản.",
+   "gloss_vi": "gói cứu trợ",
+   "synonyms": "rescue <i>(n. giải cứu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bailout</i> (noun) = gói cứu trợ. <b>Grammar</b>: từ <i>bail out</i>.",
+   "example": {
+    "en": "The banks were given a huge <b>bailout</b> by the government.",
+    "vi": "Các ngân hàng nhận <b>gói cứu trợ</b> khổng lồ từ chính phủ."
+   }
+  },
+  {
+   "word": "input",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɪnpʊt/",
+   "def_en": "Information that is put in.",
+   "def_vi": "Thông tin được đưa vào.",
+   "gloss_vi": "đầu vào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "output <i>(n. đầu ra)</i>",
+   "grammar_vi": "<i>Input</i> (noun) = đầu vào. <b>Grammar</b>: từ <i>put in</i> (đảo trật tự).",
+   "example": {
+    "en": "What the computer produces depends on the <b>input</b>.",
+    "vi": "Kết quả máy tính phụ thuộc vào <b>đầu vào</b>."
+   }
+  },
+  {
+   "word": "output",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈaʊtpʊt/",
+   "def_en": "Production.",
+   "def_vi": "Sản lượng.",
+   "gloss_vi": "sản lượng, đầu ra",
+   "synonyms": "production <i>(n. sản xuất)</i>",
+   "antonyms": "input <i>(n. đầu vào)</i>",
+   "grammar_vi": "<i>Output</i> (noun) = sản lượng, đầu ra. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "<b>Output</b> has increased thanks to new technology.",
+    "vi": "<b>Sản lượng</b> đã tăng nhờ công nghệ mới."
+   }
+  },
+  {
+   "word": "dropout",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdrɒpaʊt/",
+   "def_en": "A person who rejects society.",
+   "def_vi": "Người khước từ xã hội.",
+   "gloss_vi": "người bỏ ngang, kẻ bất cần",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dropout</i> (noun) = người bỏ ngang, kẻ bất cần. <b>Grammar</b>: từ <i>drop out</i>; cũng = người bỏ học.",
+   "example": {
+    "en": "Just after leaving school he went through a stage of being a <b>dropout</b>.",
+    "vi": "Sau khi rời trường, cậu ấy có giai đoạn là <b>kẻ bất cần</b>."
+   }
+  },
+  {
+   "word": "fallout",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfɔːlaʊt/",
+   "def_en": "Radioactive dust in the atmosphere.",
+   "def_vi": "Bụi phóng xạ trong khí quyển.",
+   "gloss_vi": "bụi phóng xạ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fallout</i> (noun) = bụi phóng xạ. <b>Common mistakes</b>: cũng = hậu quả xấu.",
+   "example": {
+    "en": "The consequences of <b>fallout</b> from the explosion at the nuclear reactor were felt for many years.",
+    "vi": "Hậu quả <b>bụi phóng xạ</b> từ vụ nổ lò phản ứng kéo dài nhiều năm."
+   }
+  },
+  {
+   "word": "printout",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈprɪntaʊt/",
+   "def_en": "Paper on which computer information has been printed.",
+   "def_vi": "Giấy in thông tin từ máy tính.",
+   "gloss_vi": "bản in",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Printout</i> (noun) = bản in. <b>Grammar</b>: từ <i>print out</i>.",
+   "example": {
+    "en": "I can easily get you a <b>printout</b> of the latest figures.",
+    "vi": "Tôi có thể lấy cho bạn <b>bản in</b> số liệu mới nhất."
+   }
+  },
+  {
+   "word": "breakthrough",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbreɪkθruː/",
+   "def_en": "An important discovery.",
+   "def_vi": "Khám phá quan trọng.",
+   "gloss_vi": "bước đột phá",
+   "synonyms": "discovery <i>(n. khám phá)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Breakthrough</i> (noun) = bước đột phá. <b>Grammar</b>: <i>make a breakthrough</i>.",
+   "example": {
+    "en": "A <b>breakthrough</b> has been made in AIDS research.",
+    "vi": "Đã có <b>bước đột phá</b> trong nghiên cứu AIDS."
+   }
+  },
+  {
+   "word": "breakdown",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbreɪkdaʊn/",
+   "def_en": "A failure.",
+   "def_vi": "Sự đổ vỡ.",
+   "gloss_vi": "sự đổ vỡ, trục trặc",
+   "synonyms": "failure <i>(n. thất bại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Breakdown</i> (noun) = sự đổ vỡ, trục trặc. <b>Grammar</b>: từ <i>break down</i>; cũng = xe hỏng.",
+   "example": {
+    "en": "Many of the problems were caused by a <b>breakdown</b> in communications.",
+    "vi": "Nhiều vấn đề do <b>đổ vỡ</b> trong giao tiếp."
+   }
+  },
+  {
+   "word": "outlook",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈaʊtlʊk/",
+   "def_en": "Prospect.",
+   "def_vi": "Triển vọng.",
+   "gloss_vi": "triển vọng, dự báo",
+   "synonyms": "prospect <i>(n. triển vọng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Outlook</i> (noun) = triển vọng, dự báo. <b>Common mistakes</b>: cũng = quan điểm sống.",
+   "example": {
+    "en": "The <b>outlook</b> for tomorrow is good - sunny in most places.",
+    "vi": "<b>Dự báo</b> ngày mai tốt – nắng hầu hết các nơi."
+   }
+  },
+  {
+   "word": "drawback",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdrɔːbæk/",
+   "def_en": "A negative aspect.",
+   "def_vi": "Mặt tiêu cực.",
+   "gloss_vi": "nhược điểm",
+   "synonyms": "disadvantage <i>(n. bất lợi)</i>",
+   "antonyms": "advantage <i>(n. ưu điểm)</i>",
+   "grammar_vi": "<i>Drawback</i> (noun) = nhược điểm. <b>Grammar</b>: thường số nhiều <i>drawbacks</i>; từ <i>draw back</i>.",
+   "example": {
+    "en": "There are <b>drawbacks</b> as well as advantages to every situation.",
+    "vi": "Mọi tình huống đều có <b>nhược điểm</b> lẫn ưu điểm."
+   }
+  },
+  {
+   "word": "outset",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈaʊtset/",
+   "def_en": "The start.",
+   "def_vi": "Lúc bắt đầu.",
+   "gloss_vi": "lúc đầu",
+   "synonyms": "start <i>(n. khởi đầu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Outset</i> (noun) = lúc đầu. <b>Grammar</b>: <i>from/at the outset</i>.",
+   "example": {
+    "en": "It was clear from the <b>outset</b> that the set-up would cause problems.",
+    "vi": "Rõ ràng ngay <b>từ đầu</b> cách bố trí này sẽ gây vấn đề."
+   }
+  },
+  {
+   "word": "set-up",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈset ʌp/",
+   "def_en": "A situation or arrangement.",
+   "def_vi": "Tình huống, cách sắp xếp.",
+   "gloss_vi": "cách bố trí",
+   "synonyms": "arrangement <i>(n. sắp xếp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Set-up</i> (noun) = cách bố trí. <b>Grammar</b>: từ <i>set up</i>.",
+   "example": {
+    "en": "It was clear from the outset that the <b>set-up</b> would cause problems.",
+    "vi": "Rõ ràng ngay từ đầu <b>cách bố trí</b> này sẽ gây vấn đề."
+   }
+  },
+  {
+   "word": "lay-by",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈleɪ baɪ/",
+   "def_en": "A parking space at the side of a road.",
+   "def_vi": "Chỗ đỗ bên lề đường.",
+   "gloss_vi": "chỗ đỗ ven đường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lay-by</i> (noun) = chỗ đỗ ven đường. <b>Grammar</b>: Anh-Anh.",
+   "example": {
+    "en": "We parked in a <b>lay-by</b> on the bypass.",
+    "vi": "Chúng tôi đỗ ở <b>chỗ đỗ ven đường</b> trên đường vành đai."
+   }
+  },
+  {
+   "word": "bypass",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbaɪpɑːs/",
+   "def_en": "A road avoiding the centre of a town.",
+   "def_vi": "Đường tránh trung tâm thị trấn.",
+   "gloss_vi": "đường vành đai",
+   "synonyms": "ring road <i>(n. đường vành đai)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bypass</i> (noun) = đường vành đai. <b>Common mistakes</b>: cũng = phẫu thuật bắc cầu tim.",
+   "example": {
+    "en": "We parked in a lay-by on the <b>bypass</b>.",
+    "vi": "Chúng tôi đỗ ở chỗ đỗ ven đường trên <b>đường vành đai</b>."
+   }
+  },
+  {
+   "word": "outbreak",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈaʊtbreɪk/",
+   "def_en": "The start of something unpleasant.",
+   "def_vi": "Sự bắt đầu của điều tồi tệ.",
+   "gloss_vi": "sự bùng nổ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Outbreak</i> (noun) = sự bùng nổ. <b>Grammar</b>: <i>the outbreak of war/disease</i>.",
+   "example": {
+    "en": "The <b>outbreak</b> of war took many people by surprise.",
+    "vi": "Sự <b>bùng nổ</b> chiến tranh khiến nhiều người bất ngờ."
+   }
+  }
+ ]
+}

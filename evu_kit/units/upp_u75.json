@@ -1,0 +1,739 @@
+{
+ "book": "upp",
+ "unit": 75,
+ "title_vi": "Danh từ ghép 1: danh từ + danh từ",
+ "theory_html": "<p><b>A. What are compound nouns?</b><br><i>A. Danh từ ghép là gì?</i></p> <p>A compound noun is a fixed expression which is made up of more than one word and functions as a noun. Such expressions are frequently combinations of two nouns, e.g. <b>car park, human being, science fiction</b>. Compound nouns related to phrasal verbs are dealt with in Unit 76.</p><p><i>Danh từ ghép là cụm cố định gồm nhiều từ, đóng vai trò danh từ; thường là hai danh từ ghép lại.</i></p> <p><b>B. How are compound nouns written?</b><br><i>B. Danh từ ghép được viết thế nào?</i></p> <p>If you understand both parts, the meaning will usually be clear. Compound nouns are usually written as two words (<b>tin opener, bank account, pedestrian crossing</b>), sometimes with a hyphen (<b>self-control</b>), sometimes as one word (<b>earring, trademark, babysitter</b>). There are no strict rules; there is a lot of variation even between dictionaries.</p><p><i>Thường viết rời, đôi khi có gạch nối hoặc viết liền; không có quy tắc chặt, từ điển cũng khác nhau.</i></p> <p><b>C. Stress in compound nouns</b><br><i>C. Trọng âm của danh từ ghép</i></p> <p>Usually the main stress is on the first part of the compound but sometimes it is on the second part: <b>alarm clock, blood donor, burglar alarm, bus stop, contact lens, credit card, heart attack, light bulb, mineral water, package holiday, steering wheel, tea bag, voice mail, windscreen, windscreen wiper, youth hostel</b>.</p><p><i>Trọng âm chính thường ở phần đầu, đôi khi ở phần sau.</i></p> <p><b>D. Grammar of compound nouns</b><br><i>D. Ngữ pháp của danh từ ghép</i></p> <p>Compound nouns may be countable, uncountable or only used in either the singular or the plural. Uncountable: <b>air traffic control, birth control, blood pressure, computer technology, cotton wool, data processing, food poisoning, hay fever, income tax, junk food, mail order, pocket money</b>. Singular only: <b>arms race, climate change, death penalty, generation gap, labour force, sound barrier, welfare state</b>. Plural only: <b>grass roots, headphones, kitchen scissors, luxury goods, race relations, roadworks, sunglasses, traffic lights</b>.</p><p><i>Danh từ ghép có thể đếm được, không đếm được, chỉ số ít hoặc chỉ số nhiều.</i></p>",
+ "items": [
+  {
+   "word": "car park",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɑː pɑːk/",
+   "def_en": "An area where cars can be parked.",
+   "def_vi": "Khu đỗ xe.",
+   "gloss_vi": "bãi đỗ xe",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Car park</i> (noun) = bãi đỗ xe. <b>Grammar</b>: danh từ ghép hai từ; Mỹ <i>parking lot</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>car park</b> is full.",
+    "vi": "<b>Bãi đỗ xe</b> đã kín chỗ."
+   }
+  },
+  {
+   "word": "human being",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌhjuːmən ˈbiːɪŋ/",
+   "def_en": "A person.",
+   "def_vi": "Con người.",
+   "gloss_vi": "con người",
+   "synonyms": "person <i>(n. người)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Human being</i> (noun) = con người. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "Every <b>human being</b> needs love.",
+    "vi": "Mọi <b>con người</b> đều cần tình yêu."
+   }
+  },
+  {
+   "word": "science fiction",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsaɪəns ˈfɪkʃn/",
+   "def_en": "Fiction based on some kind of scientific fantasy.",
+   "def_vi": "Truyện hư cấu dựa trên tưởng tượng khoa học.",
+   "gloss_vi": "khoa học viễn tưởng",
+   "synonyms": "sci-fi <i>(n. khoa học viễn tưởng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Science fiction</i> (noun) = khoa học viễn tưởng. <b>Grammar</b>: không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "He loves reading <b>science fiction</b>.",
+    "vi": "Anh ấy thích đọc <b>khoa học viễn tưởng</b>."
+   }
+  },
+  {
+   "word": "tin opener",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtɪn ˌəʊpnə(r)/",
+   "def_en": "An opener for tins.",
+   "def_vi": "Dụng cụ mở hộp.",
+   "gloss_vi": "đồ mở hộp",
+   "synonyms": "can opener <i>(n. đồ mở lon)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tin opener</i> (noun) = đồ mở hộp. <b>Grammar</b>: viết rời.",
+   "ex_kit": true,
+   "example": {
+    "en": "I need a <b>tin opener</b>.",
+    "vi": "Tôi cần <b>đồ mở hộp</b>."
+   }
+  },
+  {
+   "word": "bank account",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbæŋk əkaʊnt/",
+   "def_en": "An account in a bank.",
+   "def_vi": "Tài khoản ở ngân hàng.",
+   "gloss_vi": "tài khoản ngân hàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bank account</i> (noun) = tài khoản ngân hàng. <b>Grammar</b>: viết rời.",
+   "ex_kit": true,
+   "example": {
+    "en": "I’d like to open a <b>bank account</b>.",
+    "vi": "Tôi muốn mở <b>tài khoản ngân hàng</b>."
+   }
+  },
+  {
+   "word": "pedestrian crossing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pəˌdestriən ˈkrɒsɪŋ/",
+   "def_en": "A place for people to cross a road.",
+   "def_vi": "Chỗ người đi bộ qua đường.",
+   "gloss_vi": "lối qua đường",
+   "synonyms": "zebra crossing <i>(n. vạch kẻ đường)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pedestrian crossing</i> (noun) = lối qua đường. <b>Grammar</b>: viết rời.",
+   "ex_kit": true,
+   "example": {
+    "en": "Cross at the <b>pedestrian crossing</b>.",
+    "vi": "Hãy qua đường ở <b>lối qua đường</b>."
+   }
+  },
+  {
+   "word": "self-control",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌself kənˈtrəʊl/",
+   "def_en": "Control over your own emotions and reactions.",
+   "def_vi": "Kiểm soát cảm xúc và phản ứng của mình.",
+   "gloss_vi": "sự tự chủ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Self-control</i> (noun) = sự tự chủ. <b>Grammar</b>: viết có gạch nối.",
+   "ex_kit": true,
+   "example": {
+    "en": "She lost her <b>self-control</b> and shouted.",
+    "vi": "Cô ấy mất <b>tự chủ</b> và hét lên."
+   }
+  },
+  {
+   "word": "earring",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɪərɪŋ/",
+   "def_en": "A piece of jewellery worn on the ear.",
+   "def_vi": "Trang sức đeo ở tai.",
+   "gloss_vi": "hoa tai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Earring</i> (noun) = hoa tai. <b>Grammar</b>: viết liền.",
+   "ex_kit": true,
+   "example": {
+    "en": "She lost one of her <b>earrings</b>.",
+    "vi": "Cô ấy làm mất một chiếc <b>hoa tai</b>."
+   }
+  },
+  {
+   "word": "trademark",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtreɪdmɑːk/",
+   "def_en": "The symbol of a product.",
+   "def_vi": "Biểu tượng của sản phẩm.",
+   "gloss_vi": "nhãn hiệu",
+   "synonyms": "brand <i>(n. thương hiệu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trademark</i> (noun) = nhãn hiệu. <b>Grammar</b>: viết liền.",
+   "ex_kit": true,
+   "example": {
+    "en": "That logo is a registered <b>trademark</b>.",
+    "vi": "Logo đó là <b>nhãn hiệu</b> đã đăng ký."
+   }
+  },
+  {
+   "word": "babysitter",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbeɪbisɪtə(r)/",
+   "def_en": "Someone who stays with a child while parents are out.",
+   "def_vi": "Người trông trẻ khi bố mẹ đi vắng.",
+   "gloss_vi": "người trông trẻ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Babysitter</i> (noun) = người trông trẻ. <b>Grammar</b>: viết liền.",
+   "ex_kit": true,
+   "example": {
+    "en": "We need a <b>babysitter</b> tonight.",
+    "vi": "Chúng tôi cần <b>người trông trẻ</b> tối nay."
+   }
+  },
+  {
+   "word": "alarm clock",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈlɑːm klɒk/",
+   "def_en": "A clock that makes a noise to wake you up.",
+   "def_vi": "Đồng hồ kêu để đánh thức.",
+   "gloss_vi": "đồng hồ báo thức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Alarm clock</i> (noun) = đồng hồ báo thức. <b>Grammar</b>: đếm được; trọng âm ở <i>alarm</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I set my <b>alarm clock</b> for six.",
+    "vi": "Tôi đặt <b>đồng hồ báo thức</b> lúc 6 giờ."
+   }
+  },
+  {
+   "word": "blood donor",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈblʌd dəʊnə(r)/",
+   "def_en": "A person who gives blood.",
+   "def_vi": "Người hiến máu.",
+   "gloss_vi": "người hiến máu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Blood donor</i> (noun) = người hiến máu. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The hospital needs more <b>blood donors</b>.",
+    "vi": "Bệnh viện cần thêm <b>người hiến máu</b>."
+   }
+  },
+  {
+   "word": "burglar alarm",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɜːɡlər əlɑːm/",
+   "def_en": "A device that makes a noise if someone breaks in.",
+   "def_vi": "Thiết bị kêu khi có trộm đột nhập.",
+   "gloss_vi": "chuông báo trộm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Burglar alarm</i> (noun) = chuông báo trộm. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>burglar alarm</b> went off at midnight.",
+    "vi": "<b>Chuông báo trộm</b> kêu lúc nửa đêm."
+   }
+  },
+  {
+   "word": "bus stop",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbʌs stɒp/",
+   "def_en": "A place where buses stop.",
+   "def_vi": "Nơi xe buýt dừng.",
+   "gloss_vi": "trạm xe buýt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bus stop</i> (noun) = trạm xe buýt. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "I waited at the <b>bus stop</b>.",
+    "vi": "Tôi đợi ở <b>trạm xe buýt</b>."
+   }
+  },
+  {
+   "word": "heart attack",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhɑːt ətæk/",
+   "def_en": "A sudden serious problem with the heart.",
+   "def_vi": "Sự cố tim nghiêm trọng đột ngột.",
+   "gloss_vi": "đau tim, nhồi máu cơ tim",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Heart attack</i> (noun) = đau tim, nhồi máu cơ tim. <b>Grammar</b>: <i>have a heart attack</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He had a <b>heart attack</b> last year.",
+    "vi": "Ông ấy bị <b>đau tim</b> năm ngoái."
+   }
+  },
+  {
+   "word": "light bulb",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlaɪt bʌlb/",
+   "def_en": "The glass part of an electric light.",
+   "def_vi": "Phần kính của đèn điện.",
+   "gloss_vi": "bóng đèn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Light bulb</i> (noun) = bóng đèn. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>light bulb</b> needs changing.",
+    "vi": "Cần thay <b>bóng đèn</b>."
+   }
+  },
+  {
+   "word": "mineral water",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɪnərəl wɔːtə(r)/",
+   "def_en": "Water from a natural spring.",
+   "def_vi": "Nước từ suối tự nhiên.",
+   "gloss_vi": "nước khoáng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mineral water</i> (noun) = nước khoáng. <b>Grammar</b>: thường không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "a bottle of <b>mineral water</b>",
+    "vi": "Một chai <b>nước khoáng</b>."
+   }
+  },
+  {
+   "word": "package holiday",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpækɪdʒ hɒlədeɪ/",
+   "def_en": "A holiday with travel and hotel arranged together.",
+   "def_vi": "Kỳ nghỉ trọn gói đi lại và khách sạn.",
+   "gloss_vi": "tour trọn gói",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Package holiday</i> (noun) = tour trọn gói. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "We went on a <b>package holiday</b> to Spain.",
+    "vi": "Chúng tôi đi <b>tour trọn gói</b> đến Tây Ban Nha."
+   }
+  },
+  {
+   "word": "tea bag",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtiː bæɡ/",
+   "def_en": "A small paper bag of tea leaves.",
+   "def_vi": "Túi giấy nhỏ đựng lá trà.",
+   "gloss_vi": "túi trà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tea bag</i> (noun) = túi trà. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "Put a <b>tea bag</b> in the cup.",
+    "vi": "Cho một <b>túi trà</b> vào cốc."
+   }
+  },
+  {
+   "word": "voice mail",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈvɔɪs meɪl/",
+   "def_en": "A system for leaving recorded phone messages.",
+   "def_vi": "Hệ thống lưu tin nhắn thoại.",
+   "gloss_vi": "hộp thư thoại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Voice mail</i> (noun) = hộp thư thoại. <b>Grammar</b>: cũng viết <i>voicemail</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Leave a message on my <b>voice mail</b>.",
+    "vi": "Để lại tin nhắn trong <b>hộp thư thoại</b>."
+   }
+  },
+  {
+   "word": "windscreen wiper",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɪndskriːn waɪpə(r)/",
+   "def_en": "A device that clears rain from a windscreen.",
+   "def_vi": "Cần gạt mưa kính chắn gió.",
+   "gloss_vi": "cần gạt nước",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Windscreen wiper</i> (noun) = cần gạt nước. <b>Grammar</b>: Mỹ <i>windshield wiper</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>windscreen wiper</b> is broken.",
+    "vi": "<b>Cần gạt nước</b> bị hỏng."
+   }
+  },
+  {
+   "word": "air traffic control",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌeə ˈtræfɪk kənˌtrəʊl/",
+   "def_en": "The system that directs planes.",
+   "def_vi": "Hệ thống điều khiển máy bay.",
+   "gloss_vi": "kiểm soát không lưu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Air traffic control</i> (noun) = kiểm soát không lưu. <b>Grammar</b>: không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Air traffic control</b> gave permission to land.",
+    "vi": "<b>Kiểm soát không lưu</b> cho phép hạ cánh."
+   }
+  },
+  {
+   "word": "birth control",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɜːθ kəntrəʊl/",
+   "def_en": "Methods of preventing pregnancy.",
+   "def_vi": "Các biện pháp tránh thai.",
+   "gloss_vi": "kế hoạch hóa gia đình",
+   "synonyms": "contraception <i>(n. tránh thai)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Birth control</i> (noun) = kế hoạch hóa gia đình. <b>Grammar</b>: không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "information about <b>birth control</b>",
+    "vi": "Thông tin về <b>kế hoạch hóa gia đình</b>."
+   }
+  },
+  {
+   "word": "cotton wool",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkɒtn ˈwʊl/",
+   "def_en": "Soft cotton used for cleaning skin.",
+   "def_vi": "Bông mềm để lau da.",
+   "gloss_vi": "bông gòn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cotton wool</i> (noun) = bông gòn. <b>Grammar</b>: không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "Clean the cut with <b>cotton wool</b>.",
+    "vi": "Dùng <b>bông gòn</b> lau vết thương."
+   }
+  },
+  {
+   "word": "data processing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdeɪtə prəʊsesɪŋ/",
+   "def_en": "Using computers to deal with information.",
+   "def_vi": "Dùng máy tính xử lý thông tin.",
+   "gloss_vi": "xử lý dữ liệu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Data processing</i> (noun) = xử lý dữ liệu. <b>Grammar</b>: không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "She works in <b>data processing</b>.",
+    "vi": "Cô ấy làm trong ngành <b>xử lý dữ liệu</b>."
+   }
+  },
+  {
+   "word": "food poisoning",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfuːd pɔɪzənɪŋ/",
+   "def_en": "Illness caused by bad food.",
+   "def_vi": "Bệnh do thức ăn hỏng.",
+   "gloss_vi": "ngộ độc thực phẩm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Food poisoning</i> (noun) = ngộ độc thực phẩm. <b>Grammar</b>: không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "He got <b>food poisoning</b>.",
+    "vi": "Anh ấy bị <b>ngộ độc thực phẩm</b>."
+   }
+  },
+  {
+   "word": "hay fever",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈheɪ fiːvə(r)/",
+   "def_en": "An allergy to pollen.",
+   "def_vi": "Dị ứng phấn hoa.",
+   "gloss_vi": "sốt mùa hè, dị ứng phấn hoa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hay fever</i> (noun) = sốt mùa hè, dị ứng phấn hoa. <b>Grammar</b>: không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "I get <b>hay fever</b> in spring.",
+    "vi": "Tôi bị <b>dị ứng phấn hoa</b> vào mùa xuân."
+   }
+  },
+  {
+   "word": "income tax",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɪnkʌm tæks/",
+   "def_en": "Tax paid on what you earn.",
+   "def_vi": "Thuế đánh trên thu nhập.",
+   "gloss_vi": "thuế thu nhập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Income tax</i> (noun) = thuế thu nhập. <b>Grammar</b>: không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "He pays <b>income tax</b> every year.",
+    "vi": "Anh ấy trả <b>thuế thu nhập</b> hằng năm."
+   }
+  },
+  {
+   "word": "mail order",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmeɪl ˈɔːdə(r)/",
+   "def_en": "Buying goods by post.",
+   "def_vi": "Mua hàng qua bưu điện.",
+   "gloss_vi": "đặt hàng qua thư",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mail order</i> (noun) = đặt hàng qua thư. <b>Grammar</b>: không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "I bought it by <b>mail order</b>.",
+    "vi": "Tôi mua nó qua <b>đặt hàng qua thư</b>."
+   }
+  },
+  {
+   "word": "pocket money",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɒkɪt mʌni/",
+   "def_en": "Money given to children by parents.",
+   "def_vi": "Tiền bố mẹ cho con.",
+   "gloss_vi": "tiền tiêu vặt",
+   "synonyms": "allowance <i>(n. trợ cấp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pocket money</i> (noun) = tiền tiêu vặt. <b>Grammar</b>: không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "How much <b>pocket money</b> do you get?",
+    "vi": "Bạn được bao nhiêu <b>tiền tiêu vặt</b>?"
+   }
+  },
+  {
+   "word": "arms race",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɑːmz reɪs/",
+   "def_en": "Countries competing to have the most powerful military.",
+   "def_vi": "Các nước cạnh tranh có quân đội mạnh nhất.",
+   "gloss_vi": "chạy đua vũ trang",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Arms race</i> (noun) = chạy đua vũ trang. <b>Grammar</b>: chỉ số ít.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>arms race</b> lasted for decades.",
+    "vi": "<b>Cuộc chạy đua vũ trang</b> kéo dài hàng thập kỷ."
+   }
+  },
+  {
+   "word": "climate change",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈklaɪmət tʃeɪndʒ/",
+   "def_en": "Changes in the world’s weather patterns.",
+   "def_vi": "Thay đổi mô hình thời tiết toàn cầu.",
+   "gloss_vi": "biến đổi khí hậu",
+   "synonyms": "global warming <i>(n. nóng lên toàn cầu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Climate change</i> (noun) = biến đổi khí hậu. <b>Grammar</b>: chỉ số ít.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Climate change</b> is a global problem.",
+    "vi": "<b>Biến đổi khí hậu</b> là vấn đề toàn cầu."
+   }
+  },
+  {
+   "word": "death penalty",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdeθ penəlti/",
+   "def_en": "Punishment by death.",
+   "def_vi": "Hình phạt tử hình.",
+   "gloss_vi": "án tử hình",
+   "synonyms": "capital punishment <i>(n. tử hình)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Death penalty</i> (noun) = án tử hình. <b>Grammar</b>: chỉ số ít.",
+   "ex_kit": true,
+   "example": {
+    "en": "Many countries have abolished the <b>death penalty</b>.",
+    "vi": "Nhiều nước đã bỏ <b>án tử hình</b>."
+   }
+  },
+  {
+   "word": "generation gap",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdʒenəˈreɪʃn ɡæp/",
+   "def_en": "The difference in attitudes between young and old people.",
+   "def_vi": "Khác biệt quan điểm giữa người trẻ và già.",
+   "gloss_vi": "khoảng cách thế hệ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Generation gap</i> (noun) = khoảng cách thế hệ. <b>Grammar</b>: chỉ số ít.",
+   "ex_kit": true,
+   "example": {
+    "en": "There’s a <b>generation gap</b> in my family.",
+    "vi": "Có <b>khoảng cách thế hệ</b> trong gia đình tôi."
+   }
+  },
+  {
+   "word": "labour force",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈleɪbə fɔːs/",
+   "def_en": "All the people who work in a country or company.",
+   "def_vi": "Tất cả người lao động.",
+   "gloss_vi": "lực lượng lao động",
+   "synonyms": "workforce <i>(n. lực lượng lao động)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Labour force</i> (noun) = lực lượng lao động. <b>Grammar</b>: chỉ số ít.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>labour force</b> is getting older.",
+    "vi": "<b>Lực lượng lao động</b> ngày càng già."
+   }
+  },
+  {
+   "word": "sound barrier",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsaʊnd bæriə(r)/",
+   "def_en": "The point at which something travels at the speed of sound.",
+   "def_vi": "Ngưỡng đạt tốc độ âm thanh.",
+   "gloss_vi": "bức tường âm thanh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sound barrier</i> (noun) = bức tường âm thanh. <b>Grammar</b>: chỉ số ít.",
+   "ex_kit": true,
+   "example": {
+    "en": "The plane broke the <b>sound barrier</b>.",
+    "vi": "Máy bay đã phá <b>bức tường âm thanh</b>."
+   }
+  },
+  {
+   "word": "welfare state",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌwelfeə ˈsteɪt/",
+   "def_en": "A system where the government provides social services.",
+   "def_vi": "Hệ thống nhà nước cung cấp dịch vụ xã hội.",
+   "gloss_vi": "nhà nước phúc lợi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Welfare state</i> (noun) = nhà nước phúc lợi. <b>Grammar</b>: chỉ số ít.",
+   "ex_kit": true,
+   "example": {
+    "en": "Britain built a <b>welfare state</b> after the war.",
+    "vi": "Anh xây dựng <b>nhà nước phúc lợi</b> sau chiến tranh."
+   }
+  },
+  {
+   "word": "grass roots",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɡrɑːs ˈruːts/",
+   "def_en": "Ordinary people in an organisation.",
+   "def_vi": "Những người bình thường trong tổ chức.",
+   "gloss_vi": "cơ sở, quần chúng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Grass roots</i> (noun) = cơ sở, quần chúng. <b>Grammar</b>: chỉ số nhiều.",
+   "ex_kit": true,
+   "example": {
+    "en": "The party needs support from the <b>grass roots</b>.",
+    "vi": "Đảng cần ủng hộ từ <b>cơ sở</b>."
+   }
+  },
+  {
+   "word": "headphones",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhedfəʊnz/",
+   "def_en": "A device worn over the ears to listen to music.",
+   "def_vi": "Thiết bị đeo tai để nghe nhạc.",
+   "gloss_vi": "tai nghe",
+   "synonyms": "earphones <i>(n. tai nghe)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Headphones</i> (noun) = tai nghe. <b>Grammar</b>: chỉ số nhiều.",
+   "ex_kit": true,
+   "example": {
+    "en": "Put your <b>headphones</b> on.",
+    "vi": "Đeo <b>tai nghe</b> vào."
+   }
+  },
+  {
+   "word": "luxury goods",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlʌkʃəri ɡʊdz/",
+   "def_en": "Expensive things that are not necessary.",
+   "def_vi": "Đồ đắt tiền không thiết yếu.",
+   "gloss_vi": "hàng xa xỉ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Luxury goods</i> (noun) = hàng xa xỉ. <b>Grammar</b>: chỉ số nhiều.",
+   "ex_kit": true,
+   "example": {
+    "en": "a tax on <b>luxury goods</b>",
+    "vi": "Thuế đánh vào <b>hàng xa xỉ</b>."
+   }
+  },
+  {
+   "word": "race relations",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈreɪs rɪleɪʃnz/",
+   "def_en": "Relationships between people of different races.",
+   "def_vi": "Quan hệ giữa các chủng tộc.",
+   "gloss_vi": "quan hệ sắc tộc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Race relations</i> (noun) = quan hệ sắc tộc. <b>Grammar</b>: chỉ số nhiều.",
+   "ex_kit": true,
+   "example": {
+    "en": "The government wants to improve <b>race relations</b>.",
+    "vi": "Chính phủ muốn cải thiện <b>quan hệ sắc tộc</b>."
+   }
+  },
+  {
+   "word": "roadworks",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈrəʊdwɜːks/",
+   "def_en": "Repairs being done to a road.",
+   "def_vi": "Việc sửa đường.",
+   "gloss_vi": "công trình sửa đường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Roadworks</i> (noun) = công trình sửa đường. <b>Grammar</b>: chỉ số nhiều.",
+   "ex_kit": true,
+   "example": {
+    "en": "There are <b>roadworks</b> on the motorway.",
+    "vi": "Có <b>công trình sửa đường</b> trên đường cao tốc."
+   }
+  },
+  {
+   "word": "traffic lights",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtræfɪk laɪts/",
+   "def_en": "Lights that control traffic.",
+   "def_vi": "Đèn điều khiển giao thông.",
+   "gloss_vi": "đèn giao thông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Traffic lights</i> (noun) = đèn giao thông. <b>Grammar</b>: chỉ số nhiều.",
+   "ex_kit": true,
+   "example": {
+    "en": "Turn left at the <b>traffic lights</b>.",
+    "vi": "Rẽ trái ở <b>đèn giao thông</b>."
+   }
+  }
+ ]
+}

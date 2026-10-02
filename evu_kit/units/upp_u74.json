@@ -1,0 +1,681 @@
+{
+ "book": "upp",
+ "unit": 74,
+ "title_vi": "Tính từ ghép",
+ "theory_html": "<p><b>A. Form and meaning</b><br><i>A. Hình thức và nghĩa</i></p> <p>A compound adjective has two parts. It is usually written with a hyphen, e.g. <b>well-dressed, never-ending, sky-blue</b>. Its meaning is usually clear from the combined words. The second part is often a present participle (-ing) or past participle (-ed, except for irregular verbs).</p><p><i>Tính từ ghép gồm hai phần, thường có gạch nối; nghĩa thường rõ từ các từ ghép lại. Phần thứ hai thường là phân từ hiện tại (-ing) hoặc quá khứ (-ed).</i></p> <p><b>LH. Language help</b><br><i>LH. Lưu ý ngôn ngữ</i></p> <p>Some compound adjectives use a hyphen before a noun but not after a verb: <b>a well-dressed man</b> but <b>He is always well dressed</b>.</p><p><i>Một số tính từ ghép có gạch nối trước danh từ nhưng không có sau động từ.</i></p> <p><b>B. Personal appearance</b><br><i>B. Ngoại hình</i></p> <p><b>far-fetched</b> [hard to believe]; <b>curly-haired, suntanned, blue-eyed, rosy-cheeked, thin-lipped, broad-shouldered, left-handed, long-legged, open-necked, brand-new, tight-fitting, open-toed</b>.</p><p><i><b>khó tin</b>; <b>tóc xoăn, rám nắng, mắt xanh, má hồng, môi mỏng, vai rộng, thuận tay trái, chân dài, cổ áo mở, mới tinh, bó sát, hở ngón</b>.</i></p> <p><b>C. Personality and character</b><br><i>C. Tính cách</i></p> <p><b>absent-minded</b> [forgetful], <b>easy-going</b> [relaxed], <b>good-tempered</b> [cheerful], <b>warm-hearted</b> [kind], <b>quick-witted</b> [quick-thinking/sharp], <b>big-headed</b> [proud of herself], <b>two-faced</b> [not sincere], <b>self-centred</b> [always thinking about herself], <b>stuck-up</b> [thinks she’s better than other people; informal].</p><p><i><b>đãng trí, dễ tính, vui tính, tốt bụng, nhanh trí, kiêu ngạo, hai mặt, ích kỷ, chảnh</b>.</i></p> <p><b>D. Prepositions and particles</b><br><i>D. Giới từ và tiểu từ</i></p> <p><b>all-out</b> [total], <b>built-up, well-off</b> [rich], <b>hard-up</b> [poor], <b>worn-out, run-down</b> [in a very bad condition].</p><p><i><b>toàn diện, đông đúc nhà cửa, khá giả, túng thiếu, sờn rách, xuống cấp</b>.</i></p> <p><b>E. Collocations</b><br><i>E. Kết hợp từ</i></p> <p><b>air-conditioned rooms, bullet-proof windows, business-class ticket, cut-price goods, duty-free items, handmade furniture, interest-free credit, last-minute revision, long-distance lorry driver, long-standing relationship, off-peak train travel, part-time job, so-called expert, sugar-free diet, time-consuming writing, top-secret information, world-famous film star</b>.</p><p><i>Kết hợp điển hình của tính từ ghép với danh từ.</i></p> <p><b>F. Changing compound adjectives</b><br><i>F. Biến đổi tính từ ghép</i></p> <p>You can vary compound adjectives by changing one part: <b>curly-haired, long-haired, red-haired, wavy-haired; first-hand, first-class, first-born</b>.</p><p><i>Có thể thay một phần để tạo tính từ ghép mới.</i></p>",
+ "items": [
+  {
+   "word": "well-dressed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌwel ˈdrest/",
+   "def_en": "Wearing attractive, fashionable clothes.",
+   "def_vi": "Mặc đẹp, thời trang.",
+   "gloss_vi": "ăn mặc đẹp",
+   "synonyms": "smart <i>(adj. bảnh bao)</i>",
+   "antonyms": "scruffy <i>(adj. luộm thuộm)</i>",
+   "grammar_vi": "<i>Well-dressed</i> (adjective) = ăn mặc đẹp. <b>Grammar</b>: có gạch nối trước danh từ; <i>He is always well dressed</i>.",
+   "example": {
+    "en": "a <b>well-dressed</b> man",
+    "vi": "Một người đàn ông <b>ăn mặc đẹp</b>."
+   }
+  },
+  {
+   "word": "never-ending",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌnevər ˈendɪŋ/",
+   "def_en": "Seeming to continue for ever.",
+   "def_vi": "Dường như không bao giờ hết.",
+   "gloss_vi": "bất tận",
+   "synonyms": "endless <i>(adj. vô tận)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Never-ending</i> (adjective) = bất tận. <b>Grammar</b>: phần hai là phân từ <i>-ing</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>never-ending</b> list of jobs",
+    "vi": "Một danh sách việc <b>bất tận</b>."
+   }
+  },
+  {
+   "word": "far-fetched",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌfɑː ˈfetʃt/",
+   "def_en": "Hard to believe.",
+   "def_vi": "Khó tin.",
+   "gloss_vi": "khó tin, viển vông",
+   "synonyms": "unlikely <i>(adj. khó xảy ra)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Far-fetched</i> (adjective) = khó tin, viển vông. <b>Grammar</b>: tính từ ghép <i>far</i> + <i>fetched</i>.",
+   "example": {
+    "en": "Here is a rather <b>far-fetched</b> description of a person.",
+    "vi": "Đây là một mô tả khá <b>khó tin</b> về một người."
+   }
+  },
+  {
+   "word": "curly-haired",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌkɜːli ˈheəd/",
+   "def_en": "Having curly hair.",
+   "def_vi": "Có tóc xoăn.",
+   "gloss_vi": "tóc xoăn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "straight-haired <i>(adj. tóc thẳng)</i>",
+   "grammar_vi": "<i>Curly-haired</i> (adjective) = tóc xoăn. <b>Grammar</b>: biến đổi: <i>long-haired, red-haired, wavy-haired</i>.",
+   "example": {
+    "en": "Tom was a <b>curly-haired</b> young man.",
+    "vi": "Tom là một chàng trai <b>tóc xoăn</b>."
+   }
+  },
+  {
+   "word": "suntanned",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsʌntænd/",
+   "def_en": "Having skin made brown by the sun.",
+   "def_vi": "Da rám nắng.",
+   "gloss_vi": "rám nắng",
+   "synonyms": "tanned <i>(adj. rám nắng)</i>",
+   "antonyms": "pale <i>(adj. nhợt nhạt)</i>",
+   "grammar_vi": "<i>Suntanned</i> (adjective) = rám nắng. <b>Grammar</b>: viết liền.",
+   "example": {
+    "en": "Tom was a curly-haired, <b>suntanned</b> young man.",
+    "vi": "Tom là một chàng trai <b>rám nắng</b>."
+   }
+  },
+  {
+   "word": "blue-eyed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌbluː ˈaɪd/",
+   "def_en": "Having blue eyes.",
+   "def_vi": "Có mắt xanh.",
+   "gloss_vi": "mắt xanh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Blue-eyed</i> (adjective) = mắt xanh. <b>Grammar</b>: màu + <i>-eyed</i>.",
+   "example": {
+    "en": "Tom was a <b>blue-eyed</b> young man.",
+    "vi": "Tom là một chàng trai <b>mắt xanh</b>."
+   }
+  },
+  {
+   "word": "rosy-cheeked",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌrəʊzi ˈtʃiːkt/",
+   "def_en": "Having pink, healthy-looking cheeks.",
+   "def_vi": "Má hồng hào.",
+   "gloss_vi": "má hồng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rosy-cheeked</i> (adjective) = má hồng. <b>Grammar</b>: <i>rosy</i> + <i>cheeked</i>.",
+   "example": {
+    "en": "Tom was a <b>rosy-cheeked</b> young man.",
+    "vi": "Tom là một chàng trai <b>má hồng</b>."
+   }
+  },
+  {
+   "word": "thin-lipped",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌθɪn ˈlɪpt/",
+   "def_en": "Having thin lips.",
+   "def_vi": "Môi mỏng.",
+   "gloss_vi": "môi mỏng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Thin-lipped</i> (adjective) = môi mỏng. <b>Grammar</b>: <i>thin</i> + <i>lipped</i>.",
+   "example": {
+    "en": "Tom was a <b>thin-lipped</b> young man.",
+    "vi": "Tom là một chàng trai <b>môi mỏng</b>."
+   }
+  },
+  {
+   "word": "broad-shouldered",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌbrɔːd ˈʃəʊldəd/",
+   "def_en": "Having wide shoulders.",
+   "def_vi": "Vai rộng.",
+   "gloss_vi": "vai rộng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Broad-shouldered</i> (adjective) = vai rộng. <b>Grammar</b>: <i>broad</i> + <i>shouldered</i>.",
+   "example": {
+    "en": "Tom was a <b>broad-shouldered</b> young man.",
+    "vi": "Tom là một chàng trai <b>vai rộng</b>."
+   }
+  },
+  {
+   "word": "left-handed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌleft ˈhændɪd/",
+   "def_en": "Using your left hand more than your right.",
+   "def_vi": "Dùng tay trái nhiều hơn.",
+   "gloss_vi": "thuận tay trái",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "right-handed <i>(adj. thuận tay phải)</i>",
+   "grammar_vi": "<i>Left-handed</i> (adjective) = thuận tay trái. <b>Grammar</b>: tính từ ghép <i>left</i> + <i>handed</i>.",
+   "example": {
+    "en": "Tom was a <b>left-handed</b> young man.",
+    "vi": "Tom là một chàng trai <b>thuận tay trái</b>."
+   }
+  },
+  {
+   "word": "long-legged",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌlɒŋ ˈleɡd/",
+   "def_en": "Having long legs.",
+   "def_vi": "Chân dài.",
+   "gloss_vi": "chân dài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Long-legged</i> (adjective) = chân dài. <b>Grammar</b>: /ˈleɡd/ hoặc /ˈleɡɪd/.",
+   "example": {
+    "en": "Tom was a <b>long-legged</b> young man.",
+    "vi": "Tom là một chàng trai <b>chân dài</b>."
+   }
+  },
+  {
+   "word": "open-necked",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌəʊpən ˈnekt/",
+   "def_en": "(Of a shirt) worn without a tie and with the top button undone.",
+   "def_vi": "(Áo sơ mi) không thắt cà vạt, mở cúc trên.",
+   "gloss_vi": "cổ mở",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Open-necked</i> (adjective) = cổ mở. <b>Grammar</b>: tính từ ghép <i>open</i> + <i>necked</i>.",
+   "example": {
+    "en": "wearing an <b>open-necked</b> shirt",
+    "vi": "Anh ấy mặc áo sơ mi <b>cổ mở</b>."
+   }
+  },
+  {
+   "word": "brand-new",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌbrænd ˈnjuː/",
+   "def_en": "Completely new.",
+   "def_vi": "Mới hoàn toàn.",
+   "gloss_vi": "mới tinh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "second-hand <i>(adj. đồ cũ)</i>",
+   "grammar_vi": "<i>Brand-new</i> (adjective) = mới tinh. <b>Grammar</b>: tính từ ghép <i>brand</i> + <i>new</i>.",
+   "example": {
+    "en": "<b>brand-new</b>, tight-fitting jeans",
+    "vi": "Chiếc quần jean <b>mới tinh</b>."
+   }
+  },
+  {
+   "word": "tight-fitting",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌtaɪt ˈfɪtɪŋ/",
+   "def_en": "Fitting closely to the body.",
+   "def_vi": "Ôm sát người.",
+   "gloss_vi": "bó sát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "loose-fitting <i>(adj. rộng)</i>",
+   "grammar_vi": "<i>Tight-fitting</i> (adjective) = bó sát. <b>Grammar</b>: tính từ ghép <i>tight</i> + <i>fitting</i>.",
+   "example": {
+    "en": "brand-new, <b>tight-fitting</b> jeans",
+    "vi": "Chiếc quần jean mới tinh, <b>bó sát</b>."
+   }
+  },
+  {
+   "word": "open-toed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌəʊpən ˈtəʊd/",
+   "def_en": "(Of shoes) with no covering over the toes.",
+   "def_vi": "(Giày) hở ngón chân.",
+   "gloss_vi": "hở ngón",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Open-toed</i> (adjective) = hở ngón. <b>Grammar</b>: tính từ ghép <i>open</i> + <i>toed</i>.",
+   "example": {
+    "en": "<b>open-toed</b> sandals",
+    "vi": "Đôi dép <b>hở ngón</b>."
+   }
+  },
+  {
+   "word": "absent-minded",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌæbsənt ˈmaɪndɪd/",
+   "def_en": "Forgetful.",
+   "def_vi": "Hay quên.",
+   "gloss_vi": "đãng trí",
+   "synonyms": "forgetful <i>(adj. hay quên)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Absent-minded</i> (adjective) = đãng trí. <b>Grammar</b>: tính từ ghép <i>absent</i> + <i>minded</i>.",
+   "example": {
+    "en": "Melissa was <b>absent-minded</b>.",
+    "vi": "Melissa <b>đãng trí</b>."
+   }
+  },
+  {
+   "word": "good-tempered",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɡʊd ˈtempəd/",
+   "def_en": "Cheerful and not easily annoyed.",
+   "def_vi": "Vui vẻ, không dễ bực.",
+   "gloss_vi": "vui tính, hiền",
+   "synonyms": "cheerful <i>(adj. vui vẻ)</i>",
+   "antonyms": "bad-tempered <i>(adj. nóng tính)</i>",
+   "grammar_vi": "<i>Good-tempered</i> (adjective) = vui tính, hiền. <b>Grammar</b>: tính từ ghép <i>good</i> + <i>tempered</i>.",
+   "example": {
+    "en": "Melissa was <b>good-tempered</b>.",
+    "vi": "Melissa <b>vui tính</b>."
+   }
+  },
+  {
+   "word": "warm-hearted",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌwɔːm ˈhɑːtɪd/",
+   "def_en": "Kind.",
+   "def_vi": "Tốt bụng.",
+   "gloss_vi": "tốt bụng, nhân hậu",
+   "synonyms": "kind <i>(adj. tử tế)</i>",
+   "antonyms": "cold-hearted <i>(adj. lạnh lùng)</i>",
+   "grammar_vi": "<i>Warm-hearted</i> (adjective) = tốt bụng, nhân hậu. <b>Grammar</b>: tính từ ghép <i>warm</i> + <i>hearted</i>.",
+   "example": {
+    "en": "Melissa was <b>warm-hearted</b>.",
+    "vi": "Melissa <b>tốt bụng</b>."
+   }
+  },
+  {
+   "word": "quick-witted",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌkwɪk ˈwɪtɪd/",
+   "def_en": "Quick-thinking and sharp.",
+   "def_vi": "Nghĩ nhanh, sắc sảo.",
+   "gloss_vi": "nhanh trí",
+   "synonyms": "sharp <i>(adj. sắc sảo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Quick-witted</i> (adjective) = nhanh trí. <b>Grammar</b>: tính từ ghép <i>quick</i> + <i>witted</i>.",
+   "example": {
+    "en": "Melissa was <b>quick-witted</b>.",
+    "vi": "Melissa <b>nhanh trí</b>."
+   }
+  },
+  {
+   "word": "two-faced",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌtuː ˈfeɪst/",
+   "def_en": "Not sincere.",
+   "def_vi": "Không thật lòng.",
+   "gloss_vi": "hai mặt",
+   "synonyms": "insincere <i>(adj. giả dối)</i>",
+   "antonyms": "sincere <i>(adj. chân thành)</i>",
+   "grammar_vi": "<i>Two-faced</i> (adjective) = hai mặt. <b>Grammar</b>: tính từ ghép <i>two</i> + <i>faced</i>.",
+   "example": {
+    "en": "Melissa was, if perhaps a little <b>two-faced</b> at times.",
+    "vi": "Đôi khi cô ấy hơi <b>hai mặt</b>."
+   }
+  },
+  {
+   "word": "stuck-up",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌstʌk ˈʌp/",
+   "def_en": "Thinking you are better than other people (informal).",
+   "def_vi": "Nghĩ mình hơn người (thân mật).",
+   "gloss_vi": "chảnh, kênh kiệu",
+   "synonyms": "snobbish <i>(adj. hợm hĩnh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stuck-up</i> (adjective) = chảnh, kênh kiệu. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "Melissa was, if perhaps a little <b>stuck-up</b> at times.",
+    "vi": "Đôi khi cô ấy hơi <b>chảnh</b>."
+   }
+  },
+  {
+   "word": "all-out",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɔːl ˈaʊt/",
+   "def_en": "Total.",
+   "def_vi": "Toàn diện.",
+   "gloss_vi": "toàn diện, tổng",
+   "synonyms": "total <i>(adj. toàn bộ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>All-out</i> (adjective) = toàn diện, tổng. <b>Collocations / chunks</b>: <i>an all-out strike/attack</i>.",
+   "example": {
+    "en": "The workers’ declaration of an <b>all-out</b> strike forced management to improve conditions.",
+    "vi": "Công nhân tuyên bố <b>tổng</b> đình công."
+   }
+  },
+  {
+   "word": "built-up",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌbɪlt ˈʌp/",
+   "def_en": "Covered with buildings.",
+   "def_vi": "Phủ đầy nhà cửa.",
+   "gloss_vi": "đông đúc nhà cửa",
+   "synonyms": "urban <i>(adj. đô thị)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Built-up</i> (adjective) = đông đúc nhà cửa. <b>Collocations / chunks</b>: <i>a built-up area</i>.",
+   "example": {
+    "en": "Once there were fields here but now it’s a totally <b>built-up</b> area.",
+    "vi": "Từng là đồng ruộng nhưng giờ là khu <b>đông đúc nhà cửa</b>."
+   }
+  },
+  {
+   "word": "hard-up",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌhɑːd ˈʌp/",
+   "def_en": "Poor.",
+   "def_vi": "Nghèo.",
+   "gloss_vi": "túng thiếu",
+   "synonyms": "broke <i>(adj. cháy túi)</i>",
+   "antonyms": "well-off <i>(adj. khá giả)</i>",
+   "grammar_vi": "<i>Hard-up</i> (adjective) = túng thiếu. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "He is always complaining of being <b>hard-up</b>.",
+    "vi": "Cậu ấy luôn than <b>túng thiếu</b>."
+   }
+  },
+  {
+   "word": "worn-out",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌwɔːn ˈaʊt/",
+   "def_en": "Too old or damaged to use.",
+   "def_vi": "Quá cũ, hỏng để dùng.",
+   "gloss_vi": "sờn rách, mòn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "brand-new <i>(adj. mới tinh)</i>",
+   "grammar_vi": "<i>Worn-out</i> (adjective) = sờn rách, mòn. <b>Common mistakes</b>: cũng = kiệt sức.",
+   "example": {
+    "en": "Although they’re <b>worn-out</b>, I can’t throw them away.",
+    "vi": "Dù đôi giày đã <b>mòn</b>, tôi không nỡ vứt."
+   }
+  },
+  {
+   "word": "air-conditioned",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈeə kəndɪʃnd/",
+   "def_en": "Having air conditioning.",
+   "def_vi": "Có điều hòa.",
+   "gloss_vi": "có điều hòa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Air-conditioned</i> (adjective) = có điều hòa. <b>Grammar</b>: tính từ ghép <i>air</i> + <i>conditioned</i>.",
+   "example": {
+    "en": "<b>air-conditioned</b> rooms",
+    "vi": "Phòng <b>có điều hòa</b>."
+   }
+  },
+  {
+   "word": "bullet-proof",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈbʊlɪt pruːf/",
+   "def_en": "Able to stop bullets.",
+   "def_vi": "Chống được đạn.",
+   "gloss_vi": "chống đạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bullet-proof</i> (adjective) = chống đạn. <b>Grammar</b>: <i>-proof</i> = chống.",
+   "example": {
+    "en": "<b>bullet-proof</b> windows on the President’s car",
+    "vi": "Cửa kính <b>chống đạn</b> trên xe Tổng thống."
+   }
+  },
+  {
+   "word": "business-class",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈbɪznəs klɑːs/",
+   "def_en": "Of the class of air travel between economy and first.",
+   "def_vi": "Hạng thương gia.",
+   "gloss_vi": "hạng thương gia",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "economy <i>(adj. hạng phổ thông)</i>",
+   "grammar_vi": "<i>Business-class</i> (adjective) = hạng thương gia. <b>Grammar</b>: tính từ ghép <i>business</i> + <i>class</i>.",
+   "example": {
+    "en": "<b>business-class</b> ticket",
+    "vi": "Vé <b>hạng thương gia</b>."
+   }
+  },
+  {
+   "word": "cut-price",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌkʌt ˈpraɪs/",
+   "def_en": "Sold at a reduced price.",
+   "def_vi": "Bán giảm giá.",
+   "gloss_vi": "giảm giá",
+   "synonyms": "discount <i>(adj. giảm giá)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cut-price</i> (adjective) = giảm giá. <b>Grammar</b>: tính từ ghép <i>cut</i> + <i>price</i>.",
+   "example": {
+    "en": "<b>cut-price</b> goods in the sales",
+    "vi": "Hàng <b>giảm giá</b> mùa xả hàng."
+   }
+  },
+  {
+   "word": "duty-free",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌdjuːti ˈfriː/",
+   "def_en": "Not taxed.",
+   "def_vi": "Miễn thuế.",
+   "gloss_vi": "miễn thuế",
+   "synonyms": "tax-free <i>(adj. miễn thuế)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Duty-free</i> (adjective) = miễn thuế. <b>Grammar</b>: <i>-free</i> = không có.",
+   "example": {
+    "en": "<b>duty-free</b> items",
+    "vi": "Hàng <b>miễn thuế</b>."
+   }
+  },
+  {
+   "word": "interest-free",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɪntrəst ˈfriː/",
+   "def_en": "With no interest charged.",
+   "def_vi": "Không tính lãi.",
+   "gloss_vi": "không lãi suất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Interest-free</i> (adjective) = không lãi suất. <b>Grammar</b>: <i>-free</i> = không có.",
+   "example": {
+    "en": "<b>interest-free</b> credit",
+    "vi": "Tín dụng <b>không lãi suất</b>."
+   }
+  },
+  {
+   "word": "last-minute",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌlɑːst ˈmɪnɪt/",
+   "def_en": "Done at the latest possible time.",
+   "def_vi": "Làm vào phút chót.",
+   "gloss_vi": "phút chót",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Last-minute</i> (adjective) = phút chót. <b>Grammar</b>: tính từ ghép <i>last</i> + <i>minute</i>.",
+   "example": {
+    "en": "<b>last-minute</b> revision for an exam",
+    "vi": "Ôn thi <b>phút chót</b>."
+   }
+  },
+  {
+   "word": "long-standing",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌlɒŋ ˈstændɪŋ/",
+   "def_en": "Having existed for a long time.",
+   "def_vi": "Đã tồn tại lâu.",
+   "gloss_vi": "lâu năm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Long-standing</i> (adjective) = lâu năm. <b>Grammar</b>: tính từ ghép <i>long</i> + <i>standing</i>.",
+   "example": {
+    "en": "<b>long-standing</b> relationship",
+    "vi": "Mối quan hệ <b>lâu năm</b>."
+   }
+  },
+  {
+   "word": "off-peak",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɒf ˈpiːk/",
+   "def_en": "At a time which is less busy.",
+   "def_vi": "Vào lúc ít đông.",
+   "gloss_vi": "ngoài giờ cao điểm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "peak <i>(adj. cao điểm)</i>",
+   "grammar_vi": "<i>Off-peak</i> (adjective) = ngoài giờ cao điểm. <b>Grammar</b>: tính từ ghép <i>off</i> + <i>peak</i>.",
+   "example": {
+    "en": "<b>off-peak</b> train travel",
+    "vi": "Đi tàu <b>ngoài giờ cao điểm</b>."
+   }
+  },
+  {
+   "word": "part-time",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌpɑːt ˈtaɪm/",
+   "def_en": "For only part of the working day or week.",
+   "def_vi": "Chỉ một phần ngày/tuần làm việc.",
+   "gloss_vi": "bán thời gian",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "full-time <i>(adj. toàn thời gian)</i>",
+   "grammar_vi": "<i>Part-time</i> (adjective) = bán thời gian. <b>Grammar</b>: tính từ ghép <i>part</i> + <i>time</i>.",
+   "example": {
+    "en": "<b>part-time</b> job",
+    "vi": "Việc làm <b>bán thời gian</b>."
+   }
+  },
+  {
+   "word": "so-called",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌsəʊ ˈkɔːld/",
+   "def_en": "Called this, but perhaps not deserving the name.",
+   "def_vi": "Được gọi vậy nhưng có lẽ không xứng.",
+   "gloss_vi": "gọi là, tự xưng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>So-called</i> (adjective) = gọi là, tự xưng. <b>Grammar</b>: thường hàm ý nghi ngờ.",
+   "example": {
+    "en": "<b>so-called</b> expert",
+    "vi": "Chuyên gia <b>tự xưng</b>."
+   }
+  },
+  {
+   "word": "sugar-free",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʃʊɡə ˈfriː/",
+   "def_en": "Containing no sugar.",
+   "def_vi": "Không có đường.",
+   "gloss_vi": "không đường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sugar-free</i> (adjective) = không đường. <b>Grammar</b>: <i>-free</i> = không có.",
+   "example": {
+    "en": "<b>sugar-free</b> diet",
+    "vi": "Chế độ ăn <b>không đường</b>."
+   }
+  },
+  {
+   "word": "time-consuming",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈtaɪm kənsjuːmɪŋ/",
+   "def_en": "Taking a lot of time.",
+   "def_vi": "Tốn nhiều thời gian.",
+   "gloss_vi": "tốn thời gian",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Time-consuming</i> (adjective) = tốn thời gian. <b>Grammar</b>: tính từ ghép <i>time</i> + <i>consuming</i>.",
+   "example": {
+    "en": "<b>time-consuming</b> writing of reports",
+    "vi": "Việc viết báo cáo <b>tốn thời gian</b>."
+   }
+  },
+  {
+   "word": "top-secret",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌtɒp ˈsiːkrət/",
+   "def_en": "Very secret.",
+   "def_vi": "Tối mật.",
+   "gloss_vi": "tối mật",
+   "synonyms": "classified <i>(adj. mật)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Top-secret</i> (adjective) = tối mật. <b>Grammar</b>: tính từ ghép <i>top</i> + <i>secret</i>.",
+   "example": {
+    "en": "<b>top-secret</b> information",
+    "vi": "Thông tin <b>tối mật</b>."
+   }
+  },
+  {
+   "word": "world-famous",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌwɜːld ˈfeɪməs/",
+   "def_en": "Known all over the world.",
+   "def_vi": "Nổi tiếng thế giới.",
+   "gloss_vi": "nổi tiếng thế giới",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>World-famous</i> (adjective) = nổi tiếng thế giới. <b>Grammar</b>: tính từ ghép <i>world</i> + <i>famous</i>.",
+   "example": {
+    "en": "<b>world-famous</b> film star",
+    "vi": "Ngôi sao điện ảnh <b>nổi tiếng thế giới</b>."
+   }
+  },
+  {
+   "word": "first-hand",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌfɜːst ˈhænd/",
+   "def_en": "Experienced directly yourself.",
+   "def_vi": "Tự mình trải nghiệm trực tiếp.",
+   "gloss_vi": "trực tiếp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "second-hand <i>(adj. gián tiếp)</i>",
+   "grammar_vi": "<i>First-hand</i> (adjective) = trực tiếp. <b>Grammar</b>: tính từ ghép <i>first</i> + <i>hand</i>.",
+   "example": {
+    "en": "<b>first-hand</b> (knowledge)",
+    "vi": "Kiến thức <b>trực tiếp</b>."
+   }
+  },
+  {
+   "word": "first-born",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈfɜːst bɔːn/",
+   "def_en": "Born first in a family.",
+   "def_vi": "Sinh đầu tiên trong gia đình.",
+   "gloss_vi": "con đầu lòng",
+   "synonyms": "eldest <i>(adj. lớn nhất)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>First-born</i> (adjective) = con đầu lòng. <b>Grammar</b>: tính từ ghép <i>first</i> + <i>born</i>.",
+   "example": {
+    "en": "<b>first-born</b> (child)",
+    "vi": "Đứa con <b>đầu lòng</b>."
+   }
+  }
+ ]
+}
