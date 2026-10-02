@@ -1,0 +1,424 @@
+{
+ "book": "upp",
+ "unit": 41,
+ "title_vi": "Miêu tả đồ vật",
+ "theory_html": "<p><b>A. Some pairs of opposite adjectives</b><br><i>A. Các cặp tính từ trái nghĩa</i></p> <p><b>natural / artificial; vivid / sombre; conventional / bizarre; transparent / opaque; perfect / faulty; stiff / flexible; delicate / tough; fragile / strong, sturdy; plain / decorative; strong / weak (coffee); genuine / fake</b>.</p><p><i><b>tự nhiên/nhân tạo, rực rỡ/ảm đạm, thông thường/kỳ quái, trong suốt/mờ đục, hoàn hảo/có lỗi, cứng/dẻo, mỏng manh/bền, dễ vỡ/chắc chắn, trơn/trang trí, đặc/loãng, thật/giả</b>.</i></p> <p><b>B. Adjectives and nouns</b><br><i>B. Tính từ và danh từ</i></p> <p><b>decent – decency; entire – entirety; characteristic – character; precise – precision; severe – severity; solid – solidity; trivial – trivia, triviality</b>; verbs <b>characterise, solidify, trivialise</b>.</p><p><i><b>tử tế/kha khá, toàn bộ, đặc trưng, chính xác, khắc khổ, đặc, tầm thường</b>.</i></p> <p><b>C. Phrases typical of speech</b><br><i>C. Cụm thường dùng trong văn nói</i></p> <p><b>great big; isn’t half as…; nowhere near as…; unusually strong; reasonably good; pretty thick</b>.</p><p><i><b>to tướng; chẳng bằng một nửa; còn kém xa; khác thường; khá</b>.</i></p>",
+ "items": [
+  {
+   "word": "vivid",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈvɪvɪd/",
+   "def_en": "(Of colours) very bright.",
+   "def_vi": "(Màu) rất tươi sáng.",
+   "gloss_vi": "rực rỡ",
+   "synonyms": "bright <i>(adj. tươi)</i>",
+   "antonyms": "sombre <i>(adj. ảm đạm)</i>",
+   "grammar_vi": "<i>Vivid</i> (adjective) = rực rỡ. <b>Grammar</b>: cũng = sống động (ký ức).",
+   "example": {
+    "en": "Red and yellow are <b>vivid</b> colours while grey is a sombre colour.",
+    "vi": "Đỏ và vàng là màu <b>rực rỡ</b> còn xám là màu ảm đạm."
+   }
+  },
+  {
+   "word": "sombre",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsɒmbə(r)/",
+   "def_en": "(Of colours) dark and serious.",
+   "def_vi": "(Màu) tối và nghiêm.",
+   "gloss_vi": "ảm đạm, tối",
+   "synonyms": "dark <i>(adj. tối)</i>",
+   "antonyms": "vivid <i>(adj. rực rỡ)</i>",
+   "grammar_vi": "<i>Sombre</i> (adjective) = ảm đạm, tối. <b>Grammar</b>: Mỹ <i>somber</i>.",
+   "example": {
+    "en": "Red and yellow are vivid colours while grey is a <b>sombre</b> colour.",
+    "vi": "Đỏ và vàng là màu rực rỡ còn xám là màu <b>ảm đạm</b>."
+   }
+  },
+  {
+   "word": "conventional",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kənˈvenʃənl/",
+   "def_en": "Usual and traditional.",
+   "def_vi": "Thông thường, truyền thống.",
+   "gloss_vi": "thông thường",
+   "synonyms": "traditional <i>(adj. truyền thống)</i>",
+   "antonyms": "bizarre <i>(adj. kỳ quái)</i>",
+   "grammar_vi": "<i>Conventional</i> (adjective) = thông thường. <b>Grammar</b>: <i>convention</i> (n.).",
+   "example": {
+    "en": "a <b>conventional</b> chair",
+    "vi": "Một chiếc ghế <b>thông thường</b>."
+   }
+  },
+  {
+   "word": "bizarre",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/bɪˈzɑː(r)/",
+   "def_en": "Very strange.",
+   "def_vi": "Rất lạ.",
+   "gloss_vi": "kỳ quái",
+   "synonyms": "weird <i>(adj. kỳ lạ)</i>",
+   "antonyms": "conventional <i>(adj. thông thường)</i>",
+   "grammar_vi": "<i>Bizarre</i> (adjective) = kỳ quái. <b>Grammar</b>: /bɪˈzɑː/.",
+   "example": {
+    "en": "a <b>bizarre</b> chair",
+    "vi": "Một chiếc ghế <b>kỳ quái</b>."
+   }
+  },
+  {
+   "word": "transparent",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/trænsˈpærənt/",
+   "def_en": "That you can see through.",
+   "def_vi": "Có thể nhìn xuyên qua.",
+   "gloss_vi": "trong suốt",
+   "synonyms": "clear <i>(adj. trong)</i>",
+   "antonyms": "opaque <i>(adj. mờ đục)</i>",
+   "grammar_vi": "<i>Transparent</i> (adjective) = trong suốt. <b>Grammar</b>: <i>transparency</i> (n.).",
+   "example": {
+    "en": "You can see through a <b>transparent</b> material.",
+    "vi": "Bạn có thể nhìn xuyên qua vật liệu <b>trong suốt</b>."
+   }
+  },
+  {
+   "word": "opaque",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əʊˈpeɪk/",
+   "def_en": "That you can’t see through.",
+   "def_vi": "Không nhìn xuyên qua được.",
+   "gloss_vi": "mờ đục",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "transparent <i>(adj. trong suốt)</i>",
+   "grammar_vi": "<i>Opaque</i> (adjective) = mờ đục. <b>Grammar</b>: /əʊˈpeɪk/.",
+   "example": {
+    "en": "You can’t see through an <b>opaque</b> material.",
+    "vi": "Bạn không thể nhìn xuyên qua vật liệu <b>mờ đục</b>."
+   }
+  },
+  {
+   "word": "faulty",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈfɔːlti/",
+   "def_en": "Not working properly.",
+   "def_vi": "Không hoạt động đúng.",
+   "gloss_vi": "bị lỗi",
+   "synonyms": "defective <i>(adj. có khuyết tật)</i>",
+   "antonyms": "perfect <i>(adj. hoàn hảo)</i>",
+   "grammar_vi": "<i>Faulty</i> (adjective) = bị lỗi. <b>Grammar</b>: <i>fault</i> (n.).",
+   "example": {
+    "en": "One that doesn’t work properly is <b>faulty</b>.",
+    "vi": "Máy không chạy đúng thì <b>bị lỗi</b>."
+   }
+  },
+  {
+   "word": "stiff",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/stɪf/",
+   "def_en": "Hard and not moving or bending easily.",
+   "def_vi": "Cứng, không dễ uốn.",
+   "gloss_vi": "cứng",
+   "synonyms": "rigid <i>(adj. cứng nhắc)</i>",
+   "antonyms": "flexible <i>(adj. dẻo)</i>",
+   "grammar_vi": "<i>Stiff</i> (adjective) = cứng. <b>Grammar</b>: <i>a stiff neck</i>.",
+   "example": {
+    "en": "Something that is hard and doesn’t move or bend easily is <b>stiff</b>.",
+    "vi": "Thứ cứng và khó uốn thì gọi là <b>cứng</b>."
+   }
+  },
+  {
+   "word": "flexible",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈfleksəbl/",
+   "def_en": "Bending easily.",
+   "def_vi": "Dễ uốn.",
+   "gloss_vi": "dẻo, linh hoạt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "stiff <i>(adj. cứng)</i>",
+   "grammar_vi": "<i>Flexible</i> (adjective) = dẻo, linh hoạt. <b>Grammar</b>: cũng = linh hoạt (giờ giấc).",
+   "example": {
+    "en": "Something that bends easily is <b>flexible</b>.",
+    "vi": "Thứ dễ uốn thì gọi là <b>dẻo</b>."
+   }
+  },
+  {
+   "word": "delicate",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈdelɪkət/",
+   "def_en": "Easily spoilt, e.g. by washing.",
+   "def_vi": "Dễ hỏng, như khi giặt.",
+   "gloss_vi": "mỏng manh",
+   "synonyms": "fragile <i>(adj. dễ vỡ)</i>",
+   "antonyms": "tough <i>(adj. bền)</i>",
+   "grammar_vi": "<i>Delicate</i> (adjective) = mỏng manh. <b>Grammar</b>: <i>delicate fabrics</i>.",
+   "example": {
+    "en": "A material that can be easily spoilt, for example, by washing, can be called <b>delicate</b>.",
+    "vi": "Vật liệu dễ hỏng khi giặt có thể gọi là <b>mỏng manh</b>."
+   }
+  },
+  {
+   "word": "tough",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/tʌf/",
+   "def_en": "Hard to spoil or damage.",
+   "def_vi": "Khó làm hỏng.",
+   "gloss_vi": "bền, dai",
+   "synonyms": "durable <i>(adj. bền)</i>",
+   "antonyms": "delicate <i>(adj. mỏng manh)</i>",
+   "grammar_vi": "<i>Tough</i> (adjective) = bền, dai. <b>Grammar</b>: /tʌf/. <b>Common mistakes</b>: cũng = khó khăn.",
+   "example": {
+    "en": "Something that is hard to spoil can be called <b>tough</b>.",
+    "vi": "Thứ khó làm hỏng có thể gọi là <b>bền</b>."
+   }
+  },
+  {
+   "word": "sturdy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈstɜːdi/",
+   "def_en": "Strong and not breaking easily.",
+   "def_vi": "Chắc, không dễ vỡ.",
+   "gloss_vi": "chắc chắn",
+   "synonyms": "strong <i>(adj. chắc)</i>",
+   "antonyms": "fragile <i>(adj. dễ vỡ)</i>",
+   "grammar_vi": "<i>Sturdy</i> (adjective) = chắc chắn. <b>Grammar</b>: <i>a sturdy table</i>.",
+   "example": {
+    "en": "Something that does not break easily can be called strong or <b>sturdy</b>.",
+    "vi": "Thứ không dễ vỡ có thể gọi là chắc hay <b>chắc chắn</b>."
+   }
+  },
+  {
+   "word": "decorative",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈdekərətɪv/",
+   "def_en": "Making something look attractive.",
+   "def_vi": "Làm đồ vật trông đẹp.",
+   "gloss_vi": "có trang trí",
+   "synonyms": "ornamental <i>(adj. trang trí)</i>",
+   "antonyms": "plain <i>(adj. trơn)</i>",
+   "grammar_vi": "<i>Decorative</i> (adjective) = có trang trí. <b>Grammar</b>: <i>decorate</i> (v.).",
+   "example": {
+    "en": "a <b>decorative</b> frame",
+    "vi": "Một khung ảnh <b>có trang trí</b>."
+   }
+  },
+  {
+   "word": "weak",
+   "sense": "drink",
+   "pos": "adjective",
+   "ipa": "/wiːk/",
+   "def_en": "(Of a drink) with too much water or milk.",
+   "def_vi": "(Đồ uống) pha quá nhiều nước hay sữa.",
+   "gloss_vi": "loãng, nhạt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "strong <i>(adj. đặc)</i>",
+   "grammar_vi": "<i>Weak</i> (adjective) = loãng, nhạt. <b>Grammar</b>: <i>weak tea/coffee</i>.",
+   "example": {
+    "en": "I prefer strong coffee to <b>weak</b> coffee.",
+    "vi": "Tôi thích cà phê đặc hơn cà phê <b>loãng</b>."
+   }
+  },
+  {
+   "word": "genuine",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈdʒenjuɪn/",
+   "def_en": "Real; not a copy.",
+   "def_vi": "Thật; không phải bản sao.",
+   "gloss_vi": "thật, chính hãng",
+   "synonyms": "real <i>(adj. thật)</i>",
+   "antonyms": "fake <i>(adj. giả)</i>",
+   "grammar_vi": "<i>Genuine</i> (adjective) = thật, chính hãng. <b>Grammar</b>: /ˈdʒenjuɪn/.",
+   "example": {
+    "en": "The painting is not a <b>genuine</b> Picasso – it’s a fake.",
+    "vi": "Bức tranh không phải Picasso <b>thật</b> – nó là đồ giả."
+   }
+  },
+  {
+   "word": "fake",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/feɪk/",
+   "def_en": "A copy that pretends to be real.",
+   "def_vi": "Bản sao giả làm thật.",
+   "gloss_vi": "đồ giả",
+   "synonyms": "forgery <i>(n. đồ giả mạo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fake</i> (noun) = đồ giả. <b>Grammar</b>: cũng là tính từ.",
+   "example": {
+    "en": "The painting is not a genuine Picasso – it’s a <b>fake</b>.",
+    "vi": "Bức tranh không phải Picasso thật – nó là <b>đồ giả</b>."
+   }
+  },
+  {
+   "word": "decent",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈdiːsnt/",
+   "def_en": "Good; of an acceptable standard.",
+   "def_vi": "Tốt; chấp nhận được.",
+   "gloss_vi": "kha khá, tươm tất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Decent</i> (adjective) = kha khá, tươm tất. <b>Grammar</b>: <i>decency</i> (n.).",
+   "example": {
+    "en": "I’d like to get a table that’s a <b>decent</b> size so we can have ten people to a meal.",
+    "vi": "Tôi muốn mua một cái bàn <b>kích thước kha khá</b> để có thể mời mười người."
+   }
+  },
+  {
+   "word": "entire",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪnˈtaɪə(r)/",
+   "def_en": "Whole.",
+   "def_vi": "Toàn bộ.",
+   "gloss_vi": "toàn bộ",
+   "synonyms": "whole <i>(adj. toàn bộ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Entire</i> (adjective) = toàn bộ. <b>Grammar</b>: <i>entirety</i> (n.).",
+   "example": {
+    "en": "Between them they ate the <b>entire</b> cake!",
+    "vi": "Họ ăn hết <b>cả</b> chiếc bánh!"
+   }
+  },
+  {
+   "word": "characteristic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌkærəktəˈrɪstɪk/",
+   "def_en": "Typical.",
+   "def_vi": "Điển hình.",
+   "gloss_vi": "đặc trưng",
+   "synonyms": "typical <i>(adj. điển hình)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Characteristic</i> (adjective) = đặc trưng. <b>Grammar</b>: <i>characteristic of sth</i>; <i>characterise</i> (v.).",
+   "example": {
+    "en": "Big windows are <b>characteristic</b> of houses built in the early 1900s.",
+    "vi": "Cửa sổ lớn là <b>đặc trưng</b> của những ngôi nhà xây đầu thế kỷ 20."
+   }
+  },
+  {
+   "word": "precise",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/prɪˈsaɪs/",
+   "def_en": "Exact.",
+   "def_vi": "Chính xác.",
+   "gloss_vi": "chính xác",
+   "synonyms": "exact <i>(adj. chính xác)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Precise</i> (adjective) = chính xác. <b>Grammar</b>: <i>precision</i> (n.).",
+   "example": {
+    "en": "We need to take <b>precise</b> measurements before we decide which fridge to get.",
+    "vi": "Chúng ta cần đo <b>chính xác</b> trước khi chọn tủ lạnh."
+   }
+  },
+  {
+   "word": "severe",
+   "sense": "style",
+   "pos": "adjective",
+   "ipa": "/sɪˈvɪə(r)/",
+   "def_en": "Very serious and plain in style.",
+   "def_vi": "Rất nghiêm và đơn giản về phong cách.",
+   "gloss_vi": "khắc khổ, nghiêm nghị",
+   "synonyms": "austere <i>(adj. khắc khổ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Severe</i> (adjective) = khắc khổ, nghiêm nghị. <b>Grammar</b>: <i>severity</i> (n.).",
+   "example": {
+    "en": "It’s a <b>severe</b> building – all concrete and straight lines.",
+    "vi": "Đó là một tòa nhà <b>khắc khổ</b> – toàn bê tông và đường thẳng."
+   }
+  },
+  {
+   "word": "solid",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsɒlɪd/",
+   "def_en": "Hard all through.",
+   "def_vi": "Đặc toàn bộ.",
+   "gloss_vi": "đặc, nguyên khối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Solid</i> (adjective) = đặc, nguyên khối. <b>Grammar</b>: <i>solidity</i> (n.), <i>solidify</i> (v.).",
+   "example": {
+    "en": "The table is made of <b>solid</b> oak.",
+    "vi": "Chiếc bàn làm bằng gỗ sồi <b>nguyên khối</b>."
+   }
+  },
+  {
+   "word": "trivial",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈtrɪviəl/",
+   "def_en": "Not important.",
+   "def_vi": "Không quan trọng.",
+   "gloss_vi": "tầm thường, vụn vặt",
+   "synonyms": "insignificant <i>(adj. không đáng kể)</i>",
+   "antonyms": "important <i>(adj. quan trọng)</i>",
+   "grammar_vi": "<i>Trivial</i> (adjective) = tầm thường, vụn vặt. <b>Grammar</b>: <i>triviality</i> (n.), <i>trivialise</i> (v.).",
+   "example": {
+    "en": "He doesn’t write serious novels, just <b>trivial</b> romances.",
+    "vi": "Ông ấy không viết tiểu thuyết nghiêm túc, chỉ truyện tình <b>tầm thường</b>."
+   }
+  },
+  {
+   "word": "great big",
+   "sense": "",
+   "pos": "adjp",
+   "ipa": "/ˌɡreɪt ˈbɪɡ/",
+   "def_en": "Very big (spoken).",
+   "def_vi": "Rất to (văn nói).",
+   "gloss_vi": "to tướng",
+   "synonyms": "huge <i>(adj. khổng lồ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Great big</i> (adjp) = to tướng. <b>Grammar</b>: văn nói.",
+   "example": {
+    "en": "Did you see that <b>great big</b> cat run across the grass?",
+    "vi": "Bạn thấy con mèo <b>to tướng</b> chạy qua bãi cỏ không?"
+   }
+  },
+  {
+   "word": "not half as",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/nɒt ˈhɑːf əz/",
+   "def_en": "Much less.",
+   "def_vi": "Kém hơn nhiều.",
+   "gloss_vi": "chẳng bằng một nửa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Not half as</i> (phrase) = chẳng bằng một nửa. <b>Grammar</b>: <i>not half as + adj + as</i>.",
+   "example": {
+    "en": "This photo <b>isn’t half as</b> interesting as that one.",
+    "vi": "Bức ảnh này <b>chẳng thú vị bằng một nửa</b> bức kia."
+   }
+  },
+  {
+   "word": "nowhere near as",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌnəʊweə ˈnɪər əz/",
+   "def_en": "Much less.",
+   "def_vi": "Kém xa.",
+   "gloss_vi": "còn kém xa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nowhere near as</i> (phrase) = còn kém xa. <b>Grammar</b>: <i>nowhere near as + adj + as</i>.",
+   "example": {
+    "en": "Jessie’s car is <b>nowhere near as</b> powerful as mine.",
+    "vi": "Xe của Jessie <b>còn kém xa</b> xe tôi về độ mạnh."
+   }
+  }
+ ]
+}

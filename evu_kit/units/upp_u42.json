@@ -1,0 +1,348 @@
+{
+ "book": "upp",
+ "unit": 42,
+ "title_vi": "Niềm tin và quan điểm",
+ "theory_html": "<p><b>A. Verbs connected with beliefs and opinions</b><br><i>A. Động từ về niềm tin và quan điểm</i></p> <p><b>be convinced; hold (firm beliefs, fml); maintain (insist, often against the evidence); feel; reckon (infml); doubt; suspect (something negative)</b>.</p><p><i><b>tin chắc, giữ quan điểm, khăng khăng cho rằng, cảm thấy, đoán, nghi ngờ, ngờ rằng</b>.</i></p> <p><b>B. Phrases for expressing opinion</b><br><i>B. Cụm nêu ý kiến</i></p> <p><b>in my view / in my opinion (fairly formal); to my mind (fairly informal); if you ask me (infml); from a teacher’s point of view</b>. <b>in my opinion/view</b> but <b>to my mind</b>, <b>from my point of view</b>.</p><p><i><b>theo tôi; nếu bạn hỏi tôi; từ góc nhìn của…</b>.</i></p> <p><b>C. Prepositions used with belief and opinion words</b><br><i>C. Giới từ đi kèm</i></p> <p><b>believe in; views on; think of; for / against; in favour of (opp opposed to); have my doubts about</b>.</p><p><i><b>tin vào, quan điểm về, ủng hộ/phản đối, nghi ngờ về</b>.</i></p> <p><b>D. Beliefs, ideologies, philosophies, convictions</b><br><i>D. Niềm tin, hệ tư tưởng</i></p> <p><b>left/right wing, religious, moral, intellectual, personal; socialist, conservative, Darwinist, vegetarian, Muslim, pacifist</b>.</p><p><i><b>cánh tả/hữu, tôn giáo, đạo đức; xã hội chủ nghĩa, bảo thủ, người theo thuyết Darwin, người theo chủ nghĩa hòa bình</b>.</i></p> <p><b>E. Adjectives for describing beliefs</b><br><i>E. Tính từ miêu tả quan điểm</i></p> <p><b>fanatical / obsessive; eccentric / odd / weird; conservative / traditional; middle-of-the-road / moderate; dedicated / committed; firm / strong; radical / extreme</b>.</p><p><i><b>cuồng tín, lập dị, bảo thủ, ôn hòa, tận tụy, kiên định, cấp tiến</b>.</i></p>",
+ "items": [
+  {
+   "word": "convinced",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kənˈvɪnst/",
+   "def_en": "Having a very strong feeling that you are right.",
+   "def_vi": "Rất chắc mình đúng.",
+   "gloss_vi": "tin chắc",
+   "synonyms": "certain <i>(adj. chắc chắn)</i>",
+   "antonyms": "doubtful <i>(adj. nghi ngờ)</i>",
+   "grammar_vi": "<i>Convinced</i> (adjective) = tin chắc. <b>Grammar</b>: <i>be convinced that…</i>.",
+   "example": {
+    "en": "I’m <b>convinced</b> we’ve met before.",
+    "vi": "Tôi <b>tin chắc</b> chúng ta đã gặp nhau trước đây."
+   }
+  },
+  {
+   "word": "hold",
+   "sense": "belief",
+   "pos": "verb",
+   "ipa": "/həʊld/",
+   "def_en": "To have a very firm belief (formal).",
+   "def_vi": "Có niềm tin rất vững (trang trọng).",
+   "gloss_vi": "giữ quan điểm, cho rằng",
+   "synonyms": "maintain <i>(v. khẳng định)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hold</i> (verb) = giữ quan điểm, cho rằng. <b>Grammar</b>: <i>hold that…</i>.",
+   "example": {
+    "en": "I’ve always <b>held</b> that compulsory education is a waste of time.",
+    "vi": "Tôi luôn <b>cho rằng</b> giáo dục bắt buộc là phí thời gian."
+   }
+  },
+  {
+   "word": "maintain",
+   "sense": "belief",
+   "pos": "verb",
+   "ipa": "/meɪnˈteɪn/",
+   "def_en": "To insist on believing something, often against the evidence (formal).",
+   "def_vi": "Khăng khăng tin, thường ngược bằng chứng (trang trọng).",
+   "gloss_vi": "khẳng định, khăng khăng",
+   "synonyms": "insist <i>(v. khăng khăng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Maintain</i> (verb) = khẳng định, khăng khăng. <b>Grammar</b>: <i>maintain that…</i>. <b>Common mistakes</b>: cũng = duy trì.",
+   "example": {
+    "en": "She <b>maintains</b> that we’re related, but I’m not convinced.",
+    "vi": "Cô ấy <b>khăng khăng</b> rằng chúng tôi có họ hàng, nhưng tôi không tin."
+   }
+  },
+  {
+   "word": "reckon",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈrekən/",
+   "def_en": "To have an opinion about what is likely (informal).",
+   "def_vi": "Có ý kiến về điều có thể xảy ra (thân mật).",
+   "gloss_vi": "đoán, nghĩ là",
+   "synonyms": "think <i>(v. nghĩ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reckon</i> (verb) = đoán, nghĩ là. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "I <b>reckon</b> they’ll get married soon.",
+    "vi": "Tôi <b>đoán</b> họ sẽ sớm cưới nhau."
+   }
+  },
+  {
+   "word": "doubt",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/daʊt/",
+   "def_en": "To not believe something.",
+   "def_vi": "Không tin điều gì.",
+   "gloss_vi": "nghi ngờ, không tin",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "believe <i>(v. tin)</i>",
+   "grammar_vi": "<i>Doubt</i> (verb) = nghi ngờ, không tin. <b>Grammar</b>: <i>b</i> câm /daʊt/.",
+   "example": {
+    "en": "I <b>doubt</b> we’ll ever see total world peace.",
+    "vi": "Tôi <b>không tin</b> chúng ta sẽ có hòa bình thế giới hoàn toàn."
+   }
+  },
+  {
+   "word": "suspect",
+   "sense": "verb",
+   "pos": "verb",
+   "ipa": "/səˈspekt/",
+   "def_en": "To have a strong feeling about something negative (fairly formal).",
+   "def_vi": "Có cảm giác mạnh về điều tiêu cực.",
+   "gloss_vi": "ngờ rằng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Suspect</i> (verb) = ngờ rằng. <b>Grammar</b>: động từ /səˈspekt/, danh từ /ˈsʌspekt/.",
+   "example": {
+    "en": "I <b>suspect</b> a lot of people never even think about pollution when they’re driving their own car.",
+    "vi": "Tôi <b>ngờ rằng</b> nhiều người chẳng bao giờ nghĩ về ô nhiễm khi lái xe."
+   }
+  },
+  {
+   "word": "in my view",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪn maɪ ˈvjuː/",
+   "def_en": "In my opinion (fairly formal).",
+   "def_vi": "Theo ý tôi (khá trang trọng).",
+   "gloss_vi": "theo quan điểm của tôi",
+   "synonyms": "in my opinion <i>(phr. theo tôi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In my view</i> (phrase) = theo quan điểm của tôi. <b>Grammar</b>: <i>in my view</i> (không <i>to my view</i>).",
+   "example": {
+    "en": "We haven’t made any progress, <b>in my view</b>.",
+    "vi": "<b>Theo quan điểm của tôi</b>, chúng ta chưa tiến bộ gì."
+   }
+  },
+  {
+   "word": "to my mind",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/tə maɪ ˈmaɪnd/",
+   "def_en": "In my opinion (fairly informal).",
+   "def_vi": "Theo ý tôi (khá thân mật).",
+   "gloss_vi": "theo tôi thấy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>To my mind</i> (phrase) = theo tôi thấy. <b>Grammar</b>: <i>to my mind</i> (không <i>in my mind</i>).",
+   "example": {
+    "en": "She’s made a big mistake, <b>to my mind</b>.",
+    "vi": "<b>Theo tôi thấy</b>, cô ấy đã mắc sai lầm lớn."
+   }
+  },
+  {
+   "word": "if you ask me",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪf ju ˈɑːsk miː/",
+   "def_en": "In my opinion (informal).",
+   "def_vi": "Theo tôi (thân mật).",
+   "gloss_vi": "nếu bạn hỏi tôi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>If you ask me</i> (phrase) = nếu bạn hỏi tôi. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "<b>If you ask me</b>, he ought to change his job.",
+    "vi": "<b>Nếu bạn hỏi tôi</b>, anh ấy nên đổi việc."
+   }
+  },
+  {
+   "word": "views on",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈvjuːz ɒn/",
+   "def_en": "Opinions about something.",
+   "def_vi": "Ý kiến về điều gì.",
+   "gloss_vi": "quan điểm về",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Views on</i> (noun phrase) = quan điểm về. <b>Grammar</b>: <i>views on/about sth</i>.",
+   "example": {
+    "en": "What are your <b>views on</b> divorce?",
+    "vi": "<b>Quan điểm</b> của bạn <b>về</b> ly hôn thế nào?"
+   }
+  },
+  {
+   "word": "in favour of",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪn ˈfeɪvər əv/",
+   "def_en": "Supporting something.",
+   "def_vi": "Ủng hộ điều gì.",
+   "gloss_vi": "ủng hộ",
+   "synonyms": "for <i>(prep. ủng hộ)</i>",
+   "antonyms": "opposed to <i>(adjp. phản đối)</i>",
+   "grammar_vi": "<i>In favour of</i> (phrase) = ủng hộ. <b>Grammar</b>: trang trọng hơn <i>for</i>.",
+   "example": {
+    "en": "I’m <b>in favour of</b> long prison sentences.",
+    "vi": "Tôi <b>ủng hộ</b> án tù dài."
+   }
+  },
+  {
+   "word": "opposed to",
+   "sense": "",
+   "pos": "adjp",
+   "ipa": "/əˈpəʊzd tə/",
+   "def_en": "Disagreeing with something (formal).",
+   "def_vi": "Không đồng ý điều gì (trang trọng).",
+   "gloss_vi": "phản đối",
+   "synonyms": "against <i>(prep. chống)</i>",
+   "antonyms": "in favour of <i>(phr. ủng hộ)</i>",
+   "grammar_vi": "<i>Opposed to</i> (adjp) = phản đối. <b>Grammar</b>: trang trọng.",
+   "ex_kit": true,
+   "example": {
+    "en": "I’m <b>opposed to</b> long prison sentences.",
+    "vi": "Tôi <b>phản đối</b> án tù dài."
+   }
+  },
+  {
+   "word": "have doubts about",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌhæv ˈdaʊts əbaʊt/",
+   "def_en": "To be unsure whether something is good or true.",
+   "def_vi": "Không chắc điều gì tốt hay đúng.",
+   "gloss_vi": "còn nghi ngờ về",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have doubts about</i> (verb phrase) = còn nghi ngờ về. <b>Grammar</b>: <i>have (my) doubts about sth</i>.",
+   "example": {
+    "en": "I <b>have my doubts about</b> this plan.",
+    "vi": "Tôi <b>còn nghi ngờ về</b> kế hoạch này."
+   }
+  },
+  {
+   "word": "conviction",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kənˈvɪkʃn/",
+   "def_en": "A strong belief.",
+   "def_vi": "Niềm tin mạnh mẽ.",
+   "gloss_vi": "niềm tin, xác tín",
+   "synonyms": "belief <i>(n. niềm tin)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Conviction</i> (noun) = niềm tin, xác tín. <b>Grammar</b>: cũng = sự kết tội.",
+   "ex_kit": true,
+   "example": {
+    "en": "He has strong religious <b>convictions</b>.",
+    "vi": "Ông ấy có những <b>niềm tin</b> tôn giáo mạnh mẽ."
+   }
+  },
+  {
+   "word": "ideology",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌaɪdiˈɒlədʒi/",
+   "def_en": "A set of political or economic beliefs.",
+   "def_vi": "Hệ thống niềm tin chính trị, kinh tế.",
+   "gloss_vi": "hệ tư tưởng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ideology</i> (noun) = hệ tư tưởng. <b>Grammar</b>: <i>ideological</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "Socialism is a political <b>ideology</b>.",
+    "vi": "Chủ nghĩa xã hội là một <b>hệ tư tưởng</b> chính trị."
+   }
+  },
+  {
+   "word": "pacifist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpæsɪfɪst/",
+   "def_en": "A person who believes all wars are wrong.",
+   "def_vi": "Người tin mọi chiến tranh là sai.",
+   "gloss_vi": "người theo chủ nghĩa hòa bình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pacifist</i> (noun) = người theo chủ nghĩa hòa bình. <b>Grammar</b>: <i>pacifism</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "As a <b>pacifist</b>, he refused to join the army.",
+    "vi": "Là <b>người theo chủ nghĩa hòa bình</b>, anh ấy từ chối đi lính."
+   }
+  },
+  {
+   "word": "fanatical",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/fəˈnætɪkl/",
+   "def_en": "Having extreme beliefs or enthusiasm.",
+   "def_vi": "Có niềm tin hay nhiệt huyết cực đoan.",
+   "gloss_vi": "cuồng nhiệt, cuồng tín",
+   "synonyms": "obsessive <i>(adj. ám ảnh)</i>",
+   "antonyms": "moderate <i>(adj. ôn hòa)</i>",
+   "grammar_vi": "<i>Fanatical</i> (adjective) = cuồng nhiệt, cuồng tín. <b>Grammar</b>: <i>fanatic</i> (n.).",
+   "example": {
+    "en": "Jason is a <b>fanatical</b> supporter of the Green Party.",
+    "vi": "Jason là người ủng hộ <b>cuồng nhiệt</b> Đảng Xanh."
+   }
+  },
+  {
+   "word": "moderate",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈmɒdərət/",
+   "def_en": "Not extreme.",
+   "def_vi": "Không cực đoan.",
+   "gloss_vi": "ôn hòa",
+   "synonyms": "middle-of-the-road <i>(adj. trung dung)</i>",
+   "antonyms": "radical <i>(adj. cấp tiến)</i>",
+   "grammar_vi": "<i>Moderate</i> (adjective) = ôn hòa. <b>Grammar</b>: động từ /ˈmɒdəreɪt/.",
+   "example": {
+    "en": "Maria is a <b>moderate</b> liberal.",
+    "vi": "Maria là người theo chủ nghĩa tự do <b>ôn hòa</b>."
+   }
+  },
+  {
+   "word": "committed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kəˈmɪtɪd/",
+   "def_en": "Very loyal to a belief.",
+   "def_vi": "Rất trung thành với niềm tin.",
+   "gloss_vi": "tận tụy, sùng đạo",
+   "synonyms": "dedicated <i>(adj. tận tụy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Committed</i> (adjective) = tận tụy, sùng đạo. <b>Grammar</b>: <i>commitment</i> (n.).",
+   "example": {
+    "en": "Rosie is a <b>committed</b> Christian.",
+    "vi": "Rosie là một tín đồ Cơ đốc <b>sùng đạo</b>."
+   }
+  },
+  {
+   "word": "firm",
+   "sense": "belief",
+   "pos": "adjective",
+   "ipa": "/fɜːm/",
+   "def_en": "Strong and not changing.",
+   "def_vi": "Mạnh mẽ, không thay đổi.",
+   "gloss_vi": "kiên định",
+   "synonyms": "strong <i>(adj. mạnh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Firm</i> (adjective) = kiên định. <b>Grammar</b>: <i>a firm believer in sth</i>.",
+   "example": {
+    "en": "Emma is a <b>firm</b> believer in free speech.",
+    "vi": "Emma là người tin <b>kiên định</b> vào tự do ngôn luận."
+   }
+  },
+  {
+   "word": "radical",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈrædɪkl/",
+   "def_en": "Having extreme political views.",
+   "def_vi": "Có quan điểm chính trị cực đoan.",
+   "gloss_vi": "cấp tiến",
+   "synonyms": "extreme <i>(adj. cực đoan)</i>",
+   "antonyms": "moderate <i>(adj. ôn hòa)</i>",
+   "grammar_vi": "<i>Radical</i> (adjective) = cấp tiến. <b>Grammar</b>: cũng là danh từ.",
+   "example": {
+    "en": "Tom is a <b>radical</b> Marxist.",
+    "vi": "Tom là người theo chủ nghĩa Marx <b>cấp tiến</b>."
+   }
+  }
+ ]
+}

@@ -1,0 +1,185 @@
+{
+ "book": "upp",
+ "unit": 43,
+ "title_vi": "Cảm xúc dễ chịu và khó chịu",
+ "theory_html": "<p><b>A. Happiness and unhappiness</b><br><i>A. Hạnh phúc và bất hạnh</i></p> <p><b>content(ed)</b> (<b>content</b> not before a noun; <b>content with</b>), <b>grateful to sb for</b> (vs <b>thankful</b>), <b>delighted to hear</b>, <b>miserable</b>, <b>discontented with</b>, <b>fed up with / sick (and tired) of</b>, <b>depressed (depression)</b>, <b>confused</b>.</p><p><i><b>hài lòng, biết ơn, vui mừng, khổ sở, bất mãn, chán ngấy, chán nản, bối rối</b>.</i></p> <p><b>B. Excitement, upset, anger and anxiety</b><br><i>B. Phấn khích, buồn, giận, lo âu</i></p> <p><b>inspired, thrilled, upset, nervous, anxious, enthusiastic, frustrated, furious with</b>. <b>really</b> with all; <b>absolutely</b> only with extreme words (<b>delighted, fed up, thrilled, furious</b>); <b>quite</b> = absolutely with extreme words, = rather with others.</p><p><i><b>được truyền cảm hứng, cực kỳ phấn khích, buồn bực, hồi hộp, lo âu, hăng hái, thất vọng bực bội, giận điên</b>.</i></p>",
+ "items": [
+  {
+   "word": "content",
+   "sense": "satisfied",
+   "pos": "adjective",
+   "ipa": "/kənˈtent/",
+   "def_en": "Satisfied with what you have.",
+   "def_vi": "Hài lòng với những gì mình có.",
+   "gloss_vi": "hài lòng, mãn nguyện",
+   "synonyms": "contented <i>(adj. mãn nguyện)</i>",
+   "antonyms": "discontented <i>(adj. bất mãn)</i>",
+   "grammar_vi": "<i>Content</i> (adjective) = hài lòng, mãn nguyện. <b>Grammar</b>: không đứng trước danh từ; <i>a contented person</i>.",
+   "example": {
+    "en": "He’s very <b>content with</b> his life.",
+    "vi": "Anh ấy rất <b>hài lòng</b> với cuộc sống."
+   }
+  },
+  {
+   "word": "grateful",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɡreɪtfl/",
+   "def_en": "Feeling thanks when someone has done something thoughtful.",
+   "def_vi": "Biết ơn khi ai làm điều chu đáo.",
+   "gloss_vi": "biết ơn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "ungrateful <i>(adj. vô ơn)</i>",
+   "grammar_vi": "<i>Grateful</i> (adjective) = biết ơn. <b>Grammar</b>: <i>grateful to sb for sth</i> ≠ <i>thankful</i> (mừng vì điều xấu không xảy ra).",
+   "example": {
+    "en": "I’m really <b>grateful to</b> you for helping me with my project.",
+    "vi": "Tôi thật sự <b>biết ơn</b> bạn đã giúp tôi làm dự án."
+   }
+  },
+  {
+   "word": "thankful",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈθæŋkfl/",
+   "def_en": "Glad that something bad did not happen.",
+   "def_vi": "Mừng vì điều xấu không xảy ra.",
+   "gloss_vi": "nhẹ nhõm, mừng",
+   "synonyms": "relieved <i>(adj. nhẹ nhõm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Thankful</i> (adjective) = nhẹ nhõm, mừng. <b>Grammar</b>: ≠ <i>grateful</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I’m <b>thankful</b> that nobody was hurt.",
+    "vi": "Tôi <b>mừng</b> là không ai bị thương."
+   }
+  },
+  {
+   "word": "discontented",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌdɪskənˈtentɪd/",
+   "def_en": "Not satisfied with your life or job.",
+   "def_vi": "Không hài lòng với cuộc sống, công việc.",
+   "gloss_vi": "bất mãn",
+   "synonyms": "dissatisfied <i>(adj. không hài lòng)</i>",
+   "antonyms": "content <i>(adj. hài lòng)</i>",
+   "grammar_vi": "<i>Discontented</i> (adjective) = bất mãn. <b>Grammar</b>: <i>discontented with sth</i>.",
+   "example": {
+    "en": "She’s very <b>discontented with</b> her job and is going to look for a new one.",
+    "vi": "Cô ấy rất <b>bất mãn</b> với công việc và sẽ tìm việc mới."
+   }
+  },
+  {
+   "word": "fed up",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌfed ˈʌp/",
+   "def_en": "Having had enough of something disagreeable.",
+   "def_vi": "Đã chịu đủ điều khó chịu.",
+   "gloss_vi": "chán ngấy",
+   "synonyms": "sick and tired <i>(adjp. chán ngấy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fed up</i> (adjective) = chán ngấy. <b>Grammar</b>: <i>fed up with sth</i>.",
+   "example": {
+    "en": "I’m <b>fed up with</b> Olivia’s rudeness.",
+    "vi": "Tôi <b>chán ngấy</b> sự thô lỗ của Olivia."
+   }
+  },
+  {
+   "word": "sick and tired",
+   "sense": "",
+   "pos": "adjp",
+   "ipa": "/ˌsɪk ən ˈtaɪəd/",
+   "def_en": "Having had enough of something (informal).",
+   "def_vi": "Chịu hết nổi điều gì (thân mật).",
+   "gloss_vi": "chán đến tận cổ",
+   "synonyms": "fed up <i>(adj. chán ngấy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sick and tired</i> (adjp) = chán đến tận cổ. <b>Grammar</b>: <i>sick and tired of sth</i>.",
+   "example": {
+    "en": "I’m <b>sick and tired of</b> her bad behaviour.",
+    "vi": "Tôi <b>chán tận cổ</b> cách cư xử tệ của cô ta."
+   }
+  },
+  {
+   "word": "inspired",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪnˈspaɪəd/",
+   "def_en": "Stimulated to do something positive or creative.",
+   "def_vi": "Được khích lệ làm điều tích cực, sáng tạo.",
+   "gloss_vi": "được truyền cảm hứng",
+   "synonyms": "motivated <i>(adj. có động lực)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Inspired</i> (adjective) = được truyền cảm hứng. <b>Grammar</b>: <i>inspire</i> (v.).",
+   "example": {
+    "en": "I felt <b>inspired</b> after the concert.",
+    "vi": "Tôi thấy <b>được truyền cảm hứng</b> sau buổi hòa nhạc."
+   }
+  },
+  {
+   "word": "thrilled",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/θrɪld/",
+   "def_en": "Extremely excited and pleased.",
+   "def_vi": "Cực kỳ phấn khích và vui.",
+   "gloss_vi": "vô cùng phấn khích",
+   "synonyms": "delighted <i>(adj. vui mừng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Thrilled</i> (adjective) = vô cùng phấn khích. <b>Grammar</b>: tính từ cực, dùng <i>absolutely</i>.",
+   "example": {
+    "en": "She was so <b>thrilled</b> when she got a job with a TV company.",
+    "vi": "Cô ấy <b>vô cùng phấn khích</b> khi có việc ở công ty truyền hình."
+   }
+  },
+  {
+   "word": "enthusiastic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪnˌθjuːziˈæstɪk/",
+   "def_en": "Having very positive feelings about something.",
+   "def_vi": "Có cảm xúc rất tích cực.",
+   "gloss_vi": "hăng hái, nhiệt tình",
+   "synonyms": "keen <i>(adj. hăng hái)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Enthusiastic</i> (adjective) = hăng hái, nhiệt tình. <b>Grammar</b>: <i>enthusiastic about sth</i>. <b>Word family</b>: <i>enthusiasm</i>.",
+   "example": {
+    "en": "I was quite <b>enthusiastic</b> about my tennis lessons at first.",
+    "vi": "Lúc đầu tôi khá <b>hăng hái</b> với các buổi học tennis."
+   }
+  },
+  {
+   "word": "frustrated",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/frʌˈstreɪtɪd/",
+   "def_en": "Feeling unable to do something you really want to do.",
+   "def_vi": "Không làm được điều mình rất muốn.",
+   "gloss_vi": "bực bội, nản",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Frustrated</i> (adjective) = bực bội, nản. <b>Grammar</b>: <i>frustration</i> (n.).",
+   "example": {
+    "en": "The teacher isn’t very good and now I just feel <b>frustrated</b>.",
+    "vi": "Thầy dạy không giỏi lắm nên giờ tôi thấy <b>bực bội</b>."
+   }
+  },
+  {
+   "word": "furious",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈfjʊəriəs/",
+   "def_en": "Extremely angry.",
+   "def_vi": "Cực kỳ giận.",
+   "gloss_vi": "giận điên lên",
+   "synonyms": "livid <i>(adj. giận tím mặt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Furious</i> (adjective) = giận điên lên. <b>Grammar</b>: <i>furious with sb</i>; tính từ cực.",
+   "example": {
+    "en": "I was <b>furious with</b> the waiter.",
+    "vi": "Tôi <b>giận điên lên</b> với người phục vụ."
+   }
+  }
+ ]
+}
