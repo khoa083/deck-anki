@@ -1,0 +1,1156 @@
+{
+ "ess": {
+  "root": "Essential Grammar In Use (Elementary)",
+  "sections": [
+   "Present",
+   "Past",
+   "Present perfect",
+   "Passive",
+   "Verb forms",
+   "Future",
+   "Modals, imperative etc.",
+   "Auxiliary verbs",
+   "Questions",
+   "Reported speech",
+   "-ing and to …",
+   "Go, get, do, make and have",
+   "Pronouns and possessives",
+   "A and the",
+   "Determiners and pronouns",
+   "Adjectives and adverbs",
+   "Word order",
+   "Conjunctions and clauses",
+   "Prepositions",
+   "Phrasal verbs"
+  ],
+  "units": {
+   "1": {
+    "title": "am/is/are",
+    "page": 2,
+    "section": "Present"
+   },
+   "2": {
+    "title": "am/is/are (questions)",
+    "page": 4,
+    "section": "Present"
+   },
+   "3": {
+    "title": "I am doing (present continuous)",
+    "page": 6,
+    "section": "Present"
+   },
+   "4": {
+    "title": "are you doing? (present continuous questions)",
+    "page": 8,
+    "section": "Present"
+   },
+   "5": {
+    "title": "I do/work/like etc. (present simple)",
+    "page": 10,
+    "section": "Present"
+   },
+   "6": {
+    "title": "I don’t … (present simple negative)",
+    "page": 12,
+    "section": "Present"
+   },
+   "7": {
+    "title": "Do you … ? (present simple questions)",
+    "page": 14,
+    "section": "Present"
+   },
+   "8": {
+    "title": "I am doing (present continuous) and I do (present simple)",
+    "page": 16,
+    "section": "Present"
+   },
+   "9": {
+    "title": "I have … and I’ve got …",
+    "page": 18,
+    "section": "Present"
+   },
+   "10": {
+    "title": "was/were",
+    "page": 20,
+    "section": "Past"
+   },
+   "11": {
+    "title": "worked/got/wentetc. (past simple)",
+    "page": 22,
+    "section": "Past"
+   },
+   "12": {
+    "title": "I didn’t / … / Did you … ? (past simple negative and questions)",
+    "page": 24,
+    "section": "Past"
+   },
+   "13": {
+    "title": "I was doing (past continuous)",
+    "page": 26,
+    "section": "Past"
+   },
+   "14": {
+    "title": "was doing (past continuous) and 14I did (past simple)",
+    "page": 28,
+    "section": "Past"
+   },
+   "15": {
+    "title": "I have done (present perfect 1)",
+    "page": 30,
+    "section": "Present perfect"
+   },
+   "16": {
+    "title": "I’ve just … / I’ve already … 16I haven’t … yet (present perfect 2)",
+    "page": 32,
+    "section": "Present perfect"
+   },
+   "17": {
+    "title": "Have you ever … ? (present perfect 3)",
+    "page": 34,
+    "section": "Present perfect"
+   },
+   "18": {
+    "title": "How long have you … ? (present perfect 4)",
+    "page": 36,
+    "section": "Present perfect"
+   },
+   "19": {
+    "title": "forsinceago",
+    "page": 38,
+    "section": "Present perfect"
+   },
+   "20": {
+    "title": "I have done (present perfect) and I did (past)",
+    "page": 40,
+    "section": "Present perfect"
+   },
+   "21": {
+    "title": "is done / was done (passive 1)",
+    "page": 42,
+    "section": "Passive"
+   },
+   "22": {
+    "title": "is being done / has been done (passive 2)",
+    "page": 44,
+    "section": "Passive"
+   },
+   "23": {
+    "title": "be/have/do in present and past tenses",
+    "page": 46,
+    "section": "Verb forms"
+   },
+   "24": {
+    "title": "Regular and irregular verbs",
+    "page": 48,
+    "section": "Verb forms"
+   },
+   "25": {
+    "title": "What are you doing tomorrow?",
+    "page": 50,
+    "section": "Future"
+   },
+   "26": {
+    "title": "I’m going to …",
+    "page": 52,
+    "section": "Future"
+   },
+   "27": {
+    "title": "will/shall 1",
+    "page": 54,
+    "section": "Future"
+   },
+   "28": {
+    "title": "will/shall 2",
+    "page": 56,
+    "section": "Future"
+   },
+   "29": {
+    "title": "might",
+    "page": 58,
+    "section": "Modals, imperative etc."
+   },
+   "30": {
+    "title": "can and could",
+    "page": 60,
+    "section": "Modals, imperative etc."
+   },
+   "31": {
+    "title": "must / mustn’t / don’t need to",
+    "page": 62,
+    "section": "Modals, imperative etc."
+   },
+   "32": {
+    "title": "should",
+    "page": 64,
+    "section": "Modals, imperative etc."
+   },
+   "33": {
+    "title": "I have to …",
+    "page": 66,
+    "section": "Modals, imperative etc."
+   },
+   "34": {
+    "title": "Would you like … ? / I’d like …",
+    "page": 68,
+    "section": "Modals, imperative etc."
+   },
+   "35": {
+    "title": "Do this!Don’t do that!Let’s do this!",
+    "page": 70,
+    "section": "Modals, imperative etc."
+   },
+   "36": {
+    "title": "I used to …",
+    "page": 72,
+    "section": "Modals, imperative etc."
+   },
+   "37": {
+    "title": "there isthere are",
+    "page": 74,
+    "section": "Modals, imperative etc."
+   },
+   "38": {
+    "title": "there was/were there has/have been there will be",
+    "page": 76,
+    "section": "Modals, imperative etc."
+   },
+   "39": {
+    "title": "It …",
+    "page": 78,
+    "section": "Modals, imperative etc."
+   },
+   "40": {
+    "title": "I am, I don’t etc.",
+    "page": 80,
+    "section": "Auxiliary verbs"
+   },
+   "41": {
+    "title": "Have you? / Are you? / Don’t you? / etc.",
+    "page": 82,
+    "section": "Auxiliary verbs"
+   },
+   "42": {
+    "title": "too/either / so am I / neither do I etc.",
+    "page": 84,
+    "section": "Auxiliary verbs"
+   },
+   "43": {
+    "title": "isn’t, haven’t, don’t etc. / (negatives)",
+    "page": 86,
+    "section": "Auxiliary verbs"
+   },
+   "44": {
+    "title": "is it … ? / have you … ? / do they … ? etc. (questions 1) A positive question you are ar",
+    "page": 88,
+    "section": "Questions"
+   },
+   "45": {
+    "title": "Who saw you? / Who did you see? (questions 2)",
+    "page": 90,
+    "section": "Questions"
+   },
+   "46": {
+    "title": "Who is she talking to? / What is it like? (questions 3)",
+    "page": 92,
+    "section": "Questions"
+   },
+   "47": {
+    "title": "What … ? / Which … ? / How … ? (questions 4)",
+    "page": 94,
+    "section": "Questions"
+   },
+   "48": {
+    "title": "How long does it take … ?",
+    "page": 96,
+    "section": "Questions"
+   },
+   "49": {
+    "title": "Do you know where … ? I don’t know what … etc",
+    "page": 98,
+    "section": "Questions"
+   },
+   "50": {
+    "title": "She said that …He told me that …",
+    "page": 100,
+    "section": "Reported speech"
+   },
+   "51": {
+    "title": "work/working / go/going / do/doing",
+    "page": 102,
+    "section": "-ing and to …"
+   },
+   "52": {
+    "title": "to … (I want to do) and -ing (I enjoy doing)",
+    "page": 104,
+    "section": "-ing and to …"
+   },
+   "53": {
+    "title": "I want you to …I told you to …",
+    "page": 106,
+    "section": "-ing and to …"
+   },
+   "54": {
+    "title": "I went to the shop to …",
+    "page": 108,
+    "section": "-ing and to …"
+   },
+   "55": {
+    "title": "go to …go on …go for …go -ing",
+    "page": 110,
+    "section": "Go, get, do, make and have"
+   },
+   "56": {
+    "title": "get",
+    "page": 112,
+    "section": "Go, get, do, make and have"
+   },
+   "57": {
+    "title": "do and make",
+    "page": 114,
+    "section": "Go, get, do, make and have"
+   },
+   "58": {
+    "title": "have",
+    "page": 116,
+    "section": "Go, get, do, make and have"
+   },
+   "59": {
+    "title": "I/mehe/himthey/them etc.",
+    "page": 118,
+    "section": "Pronouns and possessives"
+   },
+   "60": {
+    "title": "my/his/their etc.",
+    "page": 120,
+    "section": "Pronouns and possessives"
+   },
+   "61": {
+    "title": "Whose is this? / It’s mine/yours/hers etc.",
+    "page": 122,
+    "section": "Pronouns and possessives"
+   },
+   "62": {
+    "title": "I/me/my/mine",
+    "page": 124,
+    "section": "Pronouns and possessives"
+   },
+   "63": {
+    "title": "myself/yourself/themselves etc.",
+    "page": 126,
+    "section": "Pronouns and possessives"
+   },
+   "64": {
+    "title": "-’s (Kate’s camera / my brother’s car etc.)",
+    "page": 128,
+    "section": "Pronouns and possessives"
+   },
+   "65": {
+    "title": "a/an …",
+    "page": 130,
+    "section": "A and the"
+   },
+   "66": {
+    "title": "train(s) / bus(es) / (singular and plural)",
+    "page": 132,
+    "section": "A and the"
+   },
+   "67": {
+    "title": "a bottle / some water (countable/uncountable 1)",
+    "page": 134,
+    "section": "A and the"
+   },
+   "68": {
+    "title": "a cake / some cake / some cakes (countable/uncountable 2)",
+    "page": 136,
+    "section": "A and the"
+   },
+   "69": {
+    "title": "a/an and the",
+    "page": 138,
+    "section": "A and the"
+   },
+   "70": {
+    "title": "the …",
+    "page": 140,
+    "section": "A and the"
+   },
+   "71": {
+    "title": "go to work / go home / go to the cinema",
+    "page": 142,
+    "section": "A and the"
+   },
+   "72": {
+    "title": "I like music / I hate exams",
+    "page": 144,
+    "section": "A and the"
+   },
+   "73": {
+    "title": "the … (names of places)",
+    "page": 146,
+    "section": "A and the"
+   },
+   "74": {
+    "title": "this/that/these/those",
+    "page": 148,
+    "section": "Determiners and pronouns"
+   },
+   "75": {
+    "title": "one/ones",
+    "page": 150,
+    "section": "Determiners and pronouns"
+   },
+   "76": {
+    "title": "some and any",
+    "page": 152,
+    "section": "Determiners and pronouns"
+   },
+   "77": {
+    "title": "not + any / no / none",
+    "page": 154,
+    "section": "Determiners and pronouns"
+   },
+   "78": {
+    "title": "not + anybody/anyone/anything nobody/no-one/nothing A not + anybody/anyone nobody/no-one (for people) !ere isn’t anybody anyone in the room. !ere is nobody no-one in the room. A: / B: / Who is in the room? Nobody. / No-one. -body and -one are the same: anybody = anyone / nobody = no-one",
+    "page": 156,
+    "section": "Determiners and pronouns"
+   },
+   "79": {
+    "title": "somebody/anything/nowhere etc.",
+    "page": 158,
+    "section": "Determiners and pronouns"
+   },
+   "80": {
+    "title": "every and all",
+    "page": 160,
+    "section": "Determiners and pronouns"
+   },
+   "81": {
+    "title": "all / most / some / any / no/none",
+    "page": 162,
+    "section": "Determiners and pronouns"
+   },
+   "82": {
+    "title": "both / either / neither",
+    "page": 164,
+    "section": "Determiners and pronouns"
+   },
+   "83": {
+    "title": "a lot / much / many",
+    "page": 166,
+    "section": "Determiners and pronouns"
+   },
+   "84": {
+    "title": "(a) little / (a) few",
+    "page": 168,
+    "section": "Determiners and pronouns"
+   },
+   "85": {
+    "title": "old/nice/interesting etc. (adjectives)",
+    "page": 170,
+    "section": "Adjectives and adverbs"
+   },
+   "86": {
+    "title": "quickly/badly/suddenly etc. (adverbs)",
+    "page": 172,
+    "section": "Adjectives and adverbs"
+   },
+   "87": {
+    "title": "old/older / expensive / more expensive",
+    "page": 174,
+    "section": "Adjectives and adverbs"
+   },
+   "88": {
+    "title": "older than … / more expensive than …",
+    "page": 176,
+    "section": "Adjectives and adverbs"
+   },
+   "89": {
+    "title": "not as … as",
+    "page": 178,
+    "section": "Adjectives and adverbs"
+   },
+   "90": {
+    "title": "the oldest / the most expensive",
+    "page": 180,
+    "section": "Adjectives and adverbs"
+   },
+   "91": {
+    "title": "enough",
+    "page": 182,
+    "section": "Adjectives and adverbs"
+   },
+   "92": {
+    "title": "too",
+    "page": 184,
+    "section": "Adjectives and adverbs"
+   },
+   "93": {
+    "title": "He speaks English very well. (word order 1)",
+    "page": 186,
+    "section": "Word order"
+   },
+   "94": {
+    "title": "always/usually/often etc. (word order 2)",
+    "page": 188,
+    "section": "Word order"
+   },
+   "95": {
+    "title": "still / yet / already",
+    "page": 190,
+    "section": "Word order"
+   },
+   "96": {
+    "title": "Give me that book! / Give it to me!",
+    "page": 192,
+    "section": "Word order"
+   },
+   "97": {
+    "title": "and / but / or / so / because",
+    "page": 194,
+    "section": "Conjunctions and clauses"
+   },
+   "98": {
+    "title": "When …",
+    "page": 196,
+    "section": "Conjunctions and clauses"
+   },
+   "99": {
+    "title": "If we go …If you see …etc.",
+    "page": 198,
+    "section": "Conjunctions and clauses"
+   },
+   "100": {
+    "title": "If I had …If we went …etc.",
+    "page": 200,
+    "section": "Conjunctions and clauses"
+   },
+   "101": {
+    "title": "a person who … / a thing that/which … (relative clauses 1)",
+    "page": 202,
+    "section": "Conjunctions and clauses"
+   },
+   "102": {
+    "title": "the people we metthe hotel you stayed at (relative clauses 2)",
+    "page": 204,
+    "section": "Conjunctions and clauses"
+   },
+   "103": {
+    "title": "at 8 o’clock / on Monday / in April",
+    "page": 206,
+    "section": "Prepositions"
+   },
+   "104": {
+    "title": "from … to / until / since / for",
+    "page": 208,
+    "section": "Prepositions"
+   },
+   "105": {
+    "title": "before / after / during / while",
+    "page": 210,
+    "section": "Prepositions"
+   },
+   "106": {
+    "title": "in / at / on / (places 1)",
+    "page": 212,
+    "section": "Prepositions"
+   },
+   "107": {
+    "title": "in / at / on / (places 2)",
+    "page": 214,
+    "section": "Prepositions"
+   },
+   "108": {
+    "title": "toinat / (places 3)",
+    "page": 216,
+    "section": "Prepositions"
+   },
+   "109": {
+    "title": "under, behind, opposite / etc.",
+    "page": 218,
+    "section": "Prepositions"
+   },
+   "110": {
+    "title": "up, over, through / etc.",
+    "page": 220,
+    "section": "Prepositions"
+   },
+   "111": {
+    "title": "on / at / by / with / about",
+    "page": 222,
+    "section": "Prepositions"
+   },
+   "112": {
+    "title": "afraid of … , good at … etc. of/at/for etc. / (prepositions) + -ing",
+    "page": 224,
+    "section": "Prepositions"
+   },
+   "113": {
+    "title": "listen to … , look at … etc. / (verb + preposition)",
+    "page": 226,
+    "section": "Prepositions"
+   },
+   "114": {
+    "title": "go in, fall off, run away / etc. (phrasal verbs 1)",
+    "page": 228,
+    "section": "Phrasal verbs"
+   },
+   "115": {
+    "title": "put on your shoes / put your shoes on (phrasal verbs 2)",
+    "page": 230,
+    "section": "Phrasal verbs"
+   }
+  },
+  "appendices": [
+   {
+    "title": "Appendix 1 Appendix 1 Active and passive",
+    "page": 232
+   },
+   {
+    "title": "Appendix 2 List of irregular verbs (→ Unit 24)",
+    "page": 233
+   },
+   {
+    "title": "Appendix 3 Irregular verbs in groups",
+    "page": 234
+   },
+   {
+    "title": "Appendix 4 Short forms (he’s / I’d / don’t etc.)",
+    "page": 235
+   },
+   {
+    "title": "Appendix 5 Spelling",
+    "page": 237
+   },
+   {
+    "title": "Appendix 6 Phrasal verbs (take off / give up etc.)",
+    "page": 239
+   },
+   {
+    "title": "Appendix 7 Phrasal verbs + object (put out a fire / give up your jobetc.)",
+    "page": 240
+   }
+  ]
+ },
+ "agu": {
+  "root": "Advanced Grammar In Use",
+  "sections": [
+   "Tenses",
+   "The future",
+   "Modals and semi-modals",
+   "Linking verbs, passives, questions",
+   "Verb complementation: what follows verbs",
+   "Reporting",
+   "Nouns",
+   "Articles, determiners and quantifiers",
+   "Relative clauses and other types of clause",
+   "Pronouns, substitution and leaving out words",
+   "Adjectives and adverbs",
+   "Adverbial clauses and conjunctions",
+   "Prepositions",
+   "Organising information"
+  ],
+  "units": {
+   "1": {
+    "title": "Present continuous and present simple 1",
+    "page": 14,
+    "section": "Tenses"
+   },
+   "2": {
+    "title": "Present continuous and present simple 2",
+    "page": 16,
+    "section": "Tenses"
+   },
+   "3": {
+    "title": "Past simple and present perfect",
+    "page": 18,
+    "section": "Tenses"
+   },
+   "4": {
+    "title": "Past continuous and past simple",
+    "page": 20,
+    "section": "Tenses"
+   },
+   "5": {
+    "title": "Past perfect and past simple",
+    "page": 22,
+    "section": "Tenses"
+   },
+   "6": {
+    "title": "Present perfect continuous and present perfect",
+    "page": 24,
+    "section": "Tenses"
+   },
+   "7": {
+    "title": "Past perfect continuous, past perfect and past continuous",
+    "page": 26,
+    "section": "Tenses"
+   },
+   "8": {
+    "title": "Present and past time: review",
+    "page": 28,
+    "section": "Tenses"
+   },
+   "9": {
+    "title": "Will and be going to",
+    "page": 30,
+    "section": "The future"
+   },
+   "10": {
+    "title": "Present simple and present continuous for the future",
+    "page": 32,
+    "section": "The future"
+   },
+   "11": {
+    "title": "Future continuous and future perfect (continuous)",
+    "page": 34,
+    "section": "The future"
+   },
+   "12": {
+    "title": "Be to + infinitive; be about to + infinitive",
+    "page": 36,
+    "section": "The future"
+   },
+   "13": {
+    "title": "Other ways of talking about the future",
+    "page": 38,
+    "section": "The future"
+   },
+   "14": {
+    "title": "The future seen from the past",
+    "page": 40,
+    "section": "The future"
+   },
+   "15": {
+    "title": "Can, could, be able to and be allowed to",
+    "page": 42,
+    "section": "Modals and semi-modals"
+   },
+   "16": {
+    "title": "Will, would and used to",
+    "page": 44,
+    "section": "Modals and semi-modals"
+   },
+   "17": {
+    "title": "May and might",
+    "page": 46,
+    "section": "Modals and semi-modals"
+   },
+   "18": {
+    "title": "Must and have (got) to",
+    "page": 48,
+    "section": "Modals and semi-modals"
+   },
+   "19": {
+    "title": "Need(n't), don't need to and don't have to",
+    "page": 50,
+    "section": "Modals and semi-modals"
+   },
+   "20": {
+    "title": "Should, ought to and had better",
+    "page": 52,
+    "section": "Modals and semi-modals"
+   },
+   "21": {
+    "title": "Linking verbs: be, appear, seem; become, get, etc.",
+    "page": 54,
+    "section": "Linking verbs, passives, questions"
+   },
+   "22": {
+    "title": "Forming passive sentences 1",
+    "page": 56,
+    "section": "Linking verbs, passives, questions"
+   },
+   "23": {
+    "title": "Forming passive sentences 2: verb + -ing or to-infinitive",
+    "page": 58,
+    "section": "Linking verbs, passives, questions"
+   },
+   "24": {
+    "title": "Using passives",
+    "page": 60,
+    "section": "Linking verbs, passives, questions"
+   },
+   "25": {
+    "title": "Reporting with passives; It is said that …",
+    "page": 62,
+    "section": "Linking verbs, passives, questions"
+   },
+   "26": {
+    "title": "Wh-questions with who, whom, which, how and whose",
+    "page": 64,
+    "section": "Linking verbs, passives, questions"
+   },
+   "27": {
+    "title": "Negative questions; echo questions; questions with that-clauses",
+    "page": 66,
+    "section": "Linking verbs, passives, questions"
+   },
+   "28": {
+    "title": "Verbs, objects and complements",
+    "page": 68,
+    "section": "Verb complementation: what follows verbs"
+   },
+   "29": {
+    "title": "Verb + two objects",
+    "page": 70,
+    "section": "Verb complementation: what follows verbs"
+   },
+   "30": {
+    "title": "Verb + -ing forms and infinitives 1",
+    "page": 72,
+    "section": "Verb complementation: what follows verbs"
+   },
+   "31": {
+    "title": "Verb + -ing forms and infinitives 2",
+    "page": 74,
+    "section": "Verb complementation: what follows verbs"
+   },
+   "32": {
+    "title": "Reporting people's words and thoughts",
+    "page": 76,
+    "section": "Reporting"
+   },
+   "33": {
+    "title": "Reporting statements: that-clauses",
+    "page": 78,
+    "section": "Reporting"
+   },
+   "34": {
+    "title": "Verb + wh-clause",
+    "page": 80,
+    "section": "Reporting"
+   },
+   "35": {
+    "title": "Tense choice in reporting",
+    "page": 82,
+    "section": "Reporting"
+   },
+   "36": {
+    "title": "Reporting offers, suggestions, orders, intentions, etc.",
+    "page": 84,
+    "section": "Reporting"
+   },
+   "37": {
+    "title": "Modal verbs in reporting",
+    "page": 86,
+    "section": "Reporting"
+   },
+   "38": {
+    "title": "Reporting what people say using nouns and adjectives",
+    "page": 88,
+    "section": "Reporting"
+   },
+   "39": {
+    "title": "Should in that-clauses; the present subjunctive",
+    "page": 90,
+    "section": "Reporting"
+   },
+   "40": {
+    "title": "Agreement between subject and verb 1",
+    "page": 92,
+    "section": "Nouns"
+   },
+   "41": {
+    "title": "Agreement between subject and verb 2",
+    "page": 94,
+    "section": "Nouns"
+   },
+   "42": {
+    "title": "Agreement between subject and verb 3",
+    "page": 96,
+    "section": "Nouns"
+   },
+   "43": {
+    "title": "Compound nouns and noun phrases",
+    "page": 98,
+    "section": "Nouns"
+   },
+   "44": {
+    "title": "A/an and one",
+    "page": 100,
+    "section": "Articles, determiners and quantifiers"
+   },
+   "45": {
+    "title": "A/an, the and zero article 1",
+    "page": 102,
+    "section": "Articles, determiners and quantifiers"
+   },
+   "46": {
+    "title": "A/an, the and zero article 2",
+    "page": 104,
+    "section": "Articles, determiners and quantifiers"
+   },
+   "47": {
+    "title": "A/an, the and zero article 3",
+    "page": 106,
+    "section": "Articles, determiners and quantifiers"
+   },
+   "48": {
+    "title": "Some and any",
+    "page": 108,
+    "section": "Articles, determiners and quantifiers"
+   },
+   "49": {
+    "title": "No, none (of) and not any",
+    "page": 110,
+    "section": "Articles, determiners and quantifiers"
+   },
+   "50": {
+    "title": "Much (of), many (of), a lot of, lots (of), etc.",
+    "page": 112,
+    "section": "Articles, determiners and quantifiers"
+   },
+   "51": {
+    "title": "All (of), whole, every, each",
+    "page": 114,
+    "section": "Articles, determiners and quantifiers"
+   },
+   "52": {
+    "title": "Few, little, less, fewer",
+    "page": 116,
+    "section": "Articles, determiners and quantifiers"
+   },
+   "53": {
+    "title": "Relative pronouns",
+    "page": 118,
+    "section": "Relative clauses and other types of clause"
+   },
+   "54": {
+    "title": "Other relative words: whose, when, whereby, etc.",
+    "page": 120,
+    "section": "Relative clauses and other types of clause"
+   },
+   "55": {
+    "title": "Prepositions in relative clauses",
+    "page": 122,
+    "section": "Relative clauses and other types of clause"
+   },
+   "56": {
+    "title": "Other ways of adding information to noun phrases 1: additional noun phrases, etc.",
+    "page": 124,
+    "section": "Relative clauses and other types of clause"
+   },
+   "57": {
+    "title": "Other ways of adding information to noun phrases 2: prepositional phrases, etc.",
+    "page": 126,
+    "section": "Relative clauses and other types of clause"
+   },
+   "58": {
+    "title": "Participle clauses with adverbial meaning 1",
+    "page": 128,
+    "section": "Relative clauses and other types of clause"
+   },
+   "59": {
+    "title": "Participle clauses with adverbial meaning 2",
+    "page": 130,
+    "section": "Relative clauses and other types of clause"
+   },
+   "60": {
+    "title": "Reflexive pronouns: herself, himself, themselves, etc.",
+    "page": 132,
+    "section": "Pronouns, substitution and leaving out words"
+   },
+   "61": {
+    "title": "One and ones",
+    "page": 134,
+    "section": "Pronouns, substitution and leaving out words"
+   },
+   "62": {
+    "title": "So and not as substitutes for clauses, etc.",
+    "page": 136,
+    "section": "Pronouns, substitution and leaving out words"
+   },
+   "63": {
+    "title": "Do so; such",
+    "page": 138,
+    "section": "Pronouns, substitution and leaving out words"
+   },
+   "64": {
+    "title": "More on leaving out words after auxiliary verbs",
+    "page": 140,
+    "section": "Pronouns, substitution and leaving out words"
+   },
+   "65": {
+    "title": "Leaving out to-infinitives",
+    "page": 142,
+    "section": "Pronouns, substitution and leaving out words"
+   },
+   "66": {
+    "title": "Position of adjectives",
+    "page": 144,
+    "section": "Adjectives and adverbs"
+   },
+   "67": {
+    "title": "Gradable and non-gradable adjectives 1",
+    "page": 146,
+    "section": "Adjectives and adverbs"
+   },
+   "68": {
+    "title": "Gradable and non-gradable adjectives 2",
+    "page": 148,
+    "section": "Adjectives and adverbs"
+   },
+   "69": {
+    "title": "Participle adjectives and compound adjectives",
+    "page": 150,
+    "section": "Adjectives and adverbs"
+   },
+   "70": {
+    "title": "Adjectives + to-infinitive, -ing, that-clause, wh-clause",
+    "page": 152,
+    "section": "Adjectives and adverbs"
+   },
+   "71": {
+    "title": "Adjectives and adverbs",
+    "page": 154,
+    "section": "Adjectives and adverbs"
+   },
+   "72": {
+    "title": "Adjectives and adverbs: comparative and superlative forms",
+    "page": 156,
+    "section": "Adjectives and adverbs"
+   },
+   "73": {
+    "title": "Comparative phrases and clauses",
+    "page": 158,
+    "section": "Adjectives and adverbs"
+   },
+   "74": {
+    "title": "Position of adverbs 1",
+    "page": 160,
+    "section": "Adjectives and adverbs"
+   },
+   "75": {
+    "title": "Position of adverbs 2",
+    "page": 162,
+    "section": "Adjectives and adverbs"
+   },
+   "76": {
+    "title": "Adverbs of place, direction, indefinite frequency, and time",
+    "page": 164,
+    "section": "Adjectives and adverbs"
+   },
+   "77": {
+    "title": "Degree adverbs and focus adverbs",
+    "page": 166,
+    "section": "Adjectives and adverbs"
+   },
+   "78": {
+    "title": "Comment adverbs and viewpoint adverbs",
+    "page": 168,
+    "section": "Adjectives and adverbs"
+   },
+   "79": {
+    "title": "Adverbial clauses of time",
+    "page": 170,
+    "section": "Adverbial clauses and conjunctions"
+   },
+   "80": {
+    "title": "Giving reasons: as, because, etc.; for and with",
+    "page": 172,
+    "section": "Adverbial clauses and conjunctions"
+   },
+   "81": {
+    "title": "Purposes and results: in order to, so as to, etc.",
+    "page": 174,
+    "section": "Adverbial clauses and conjunctions"
+   },
+   "82": {
+    "title": "Contrasts: although and though; even though/if; while, whilst and whereas",
+    "page": 176,
+    "section": "Adverbial clauses and conjunctions"
+   },
+   "83": {
+    "title": "If 1",
+    "page": 178,
+    "section": "Adverbial clauses and conjunctions"
+   },
+   "84": {
+    "title": "If 2",
+    "page": 180,
+    "section": "Adverbial clauses and conjunctions"
+   },
+   "85": {
+    "title": "If I were you …; imagine he were to win",
+    "page": 182,
+    "section": "Adverbial clauses and conjunctions"
+   },
+   "86": {
+    "title": "If … not and unless; if and whether; etc.",
+    "page": 184,
+    "section": "Adverbial clauses and conjunctions"
+   },
+   "87": {
+    "title": "Connecting ideas in a sentence and between sentences",
+    "page": 186,
+    "section": "Adverbial clauses and conjunctions"
+   },
+   "88": {
+    "title": "Prepositions of position and movement",
+    "page": 188,
+    "section": "Prepositions"
+   },
+   "89": {
+    "title": "Between and among",
+    "page": 190,
+    "section": "Prepositions"
+   },
+   "90": {
+    "title": "Prepositions of time",
+    "page": 192,
+    "section": "Prepositions"
+   },
+   "91": {
+    "title": "Talking about exceptions",
+    "page": 194,
+    "section": "Prepositions"
+   },
+   "92": {
+    "title": "Prepositions after verbs",
+    "page": 196,
+    "section": "Prepositions"
+   },
+   "93": {
+    "title": "Prepositions after nouns",
+    "page": 198,
+    "section": "Prepositions"
+   },
+   "94": {
+    "title": "Two- and three-word verbs: word order",
+    "page": 200,
+    "section": "Prepositions"
+   },
+   "95": {
+    "title": "There is, there was, etc.",
+    "page": 202,
+    "section": "Organising information"
+   },
+   "96": {
+    "title": "It 1",
+    "page": 204,
+    "section": "Organising information"
+   },
+   "97": {
+    "title": "It 2",
+    "page": 206,
+    "section": "Organising information"
+   },
+   "98": {
+    "title": "Focusing: it-clauses and what-clauses",
+    "page": 208,
+    "section": "Organising information"
+   },
+   "99": {
+    "title": "Inversion 1",
+    "page": 210,
+    "section": "Organising information"
+   },
+   "100": {
+    "title": "Inversion 2",
+    "page": 212,
+    "section": "Organising information"
+   }
+  },
+  "appendices": []
+ }
+}
