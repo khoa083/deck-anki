@@ -1,0 +1,511 @@
+{
+ "book": "gva",
+ "unit": 43,
+ "title_vi": "Liên lạc cá nhân",
+ "theory_html": "<p><b>V1. Words for friend</b><br><i>V1. Từ chỉ bạn bè</i></p> <p>Informal synonyms for <b>friend</b>: <b>mate, buddy, pal</b>. <b>befriend</b> = deliberately make friends with someone (<b>He befriended me on my first day at school</b>).</p><p><i><b>mate, buddy, pal</b> (thân mật); <b>befriend</b> = chủ động kết bạn.</i></p> <p><b>V2. Meanings of pick up</b><br><i>V2. Các nghĩa của pick up</i></p> <p><b>pick up the phone</b> = answer; <b>pick up a disease</b> = catch; <b>pick up a language</b> = learn; <b>pick someone up</b> = collect somebody in a vehicle.</p><p><i>Nhấc máy; nhiễm bệnh; học lỏm; đón ai.</i></p>",
+ "items": [
+  {
+   "word": "keep in touch",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kiːp ɪn ˈtʌtʃ/",
+   "def_en": "To stay in contact with someone.",
+   "def_vi": "Giữ liên lạc.",
+   "gloss_vi": "giữ liên lạc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "lose touch <i>(v. mất liên lạc)</i>",
+   "grammar_vi": "<i>Keep in touch</i> (verb) = giữ liên lạc. <b>Grammar</b>: động từ nhiều từ <i>keep in touch</i>.",
+   "example": {
+    "en": "to <b>keep in touch</b> with current friends",
+    "vi": "Mọi người dùng mạng bạn bè trực tuyến để <b>giữ liên lạc</b> với bạn hiện tại."
+   }
+  },
+  {
+   "word": "reconnect",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌriːkəˈnekt/",
+   "def_en": "To make contact again with someone.",
+   "def_vi": "Kết nối lại.",
+   "gloss_vi": "kết nối lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reconnect</i> (verb) = kết nối lại. <b>Grammar</b>: động từ.",
+   "example": {
+    "en": "<b>reconnect</b> with old friends",
+    "vi": "<b>Kết nối lại</b> với bạn cũ."
+   }
+  },
+  {
+   "word": "like-minded",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌlaɪk ˈmaɪndɪd/",
+   "def_en": "Having similar interests and opinions.",
+   "def_vi": "Cùng chí hướng.",
+   "gloss_vi": "cùng sở thích",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Like-minded</i> (adjective) = cùng sở thích. <b>Grammar</b>: tính từ ghép <i>like</i> + <i>minded</i>.",
+   "example": {
+    "en": "members can share their interests with <b>like-minded</b> members",
+    "vi": "Chia sẻ sở thích với thành viên <b>cùng chí hướng</b>."
+   }
+  },
+  {
+   "word": "forum",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfɔːrəm/",
+   "def_en": "A website where people discuss a topic.",
+   "def_vi": "Diễn đàn.",
+   "gloss_vi": "diễn đàn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Forum</i> (noun) = diễn đàn. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "by joining groups and <b>forums</b>",
+    "vi": "Bằng cách tham gia nhóm và <b>diễn đàn</b>."
+   }
+  },
+  {
+   "word": "business contacts",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɪznəs ˌkɒntækts/",
+   "def_en": "People you know who may help you in work.",
+   "def_vi": "Mối quan hệ kinh doanh.",
+   "gloss_vi": "quan hệ làm ăn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Business contacts</i> (noun) = quan hệ làm ăn. <b>Collocations / chunks</b>: cụm danh từ cố định <i>business contacts</i>.",
+   "example": {
+    "en": "Some networking sites can also help members find a job or establish <b>business contacts</b>.",
+    "vi": "Một số trang giúp thành viên tạo <b>quan hệ làm ăn</b>."
+   }
+  },
+  {
+   "word": "customise",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈkʌstəmaɪz/",
+   "def_en": "To change something to suit your needs or taste.",
+   "def_vi": "Tùy chỉnh.",
+   "gloss_vi": "tùy chỉnh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Customise</i> (verb) = tùy chỉnh. <b>Grammar</b>: động từ.",
+   "example": {
+    "en": "Members can express themselves by <b>customising</b> their profile page",
+    "vi": "Thành viên thể hiện mình bằng cách <b>tùy chỉnh</b> trang hồ sơ."
+   }
+  },
+  {
+   "word": "profile",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈprəʊfaɪl/",
+   "def_en": "A page with information about a user.",
+   "def_vi": "Trang cá nhân, hồ sơ.",
+   "gloss_vi": "hồ sơ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Profile</i> (noun) = hồ sơ. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "customising their <b>profile</b> page to reflect their personality",
+    "vi": "Tùy chỉnh trang <b>hồ sơ</b> để phản ánh cá tính."
+   }
+  },
+  {
+   "word": "on the move",
+   "sense": "",
+   "pos": "idiom",
+   "ipa": "/ɒn ðə ˈmuːv/",
+   "def_en": "While travelling from place to place.",
+   "def_vi": "Khi đang di chuyển.",
+   "gloss_vi": "khi di chuyển",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>On the move</i> (idiom) = khi di chuyển. <b>Grammar</b>: idiom nhiều từ <i>on the move</i>.",
+   "example": {
+    "en": "much social networking is done <b>on the move</b> by smartphone",
+    "vi": "Nhiều hoạt động mạng xã hội được làm <b>khi đang di chuyển</b>."
+   }
+  },
+  {
+   "word": "be in touch with reality",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/bi ɪn ˌtʌtʃ wɪð riˈæləti/",
+   "def_en": "To understand the real situation.",
+   "def_vi": "Hiểu thực tế.",
+   "gloss_vi": "bám sát thực tế",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be in touch with reality</i> (verb) = bám sát thực tế. <b>Collocations / chunks</b>: be in touch with + your emotions / relatives.",
+   "ex_kit": true,
+   "example": {
+    "en": "He's not <b>in touch with reality</b>.",
+    "vi": "Anh ấy không <b>hiểu thực tế</b>."
+   }
+  },
+  {
+   "word": "establish your credentials",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪˌstæblɪʃ jɔː krəˈdenʃlz/",
+   "def_en": "To show that you are qualified or trustworthy.",
+   "def_vi": "Chứng minh uy tín.",
+   "gloss_vi": "khẳng định uy tín",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Establish your credentials</i> (verb) = khẳng định uy tín. <b>Collocations / chunks</b>: establish + a network / a reputation.",
+   "ex_kit": true,
+   "example": {
+    "en": "How can you <b>establish your credentials</b> online?",
+    "vi": "Làm sao <b>khẳng định uy tín</b> của bạn trên mạng?"
+   }
+  },
+  {
+   "word": "create an impression",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kriˌeɪt ən ɪmˈpreʃn/",
+   "def_en": "To make people think something about you.",
+   "def_vi": "Tạo ấn tượng.",
+   "gloss_vi": "tạo ấn tượng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Create an impression</i> (verb) = tạo ấn tượng. <b>Collocations / chunks</b>: create + a new identity / an illusion.",
+   "ex_kit": true,
+   "example": {
+    "en": "You only get one chance to <b>create a first impression</b>.",
+    "vi": "Bạn chỉ có một cơ hội <b>tạo ấn tượng</b> ban đầu."
+   }
+  },
+  {
+   "word": "former friend",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌfɔːmə ˈfrend/",
+   "def_en": "Someone you have ended a friendship with.",
+   "def_vi": "Bạn cũ (đã cắt đứt).",
+   "gloss_vi": "bạn cũ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Former friend</i> (noun) = bạn cũ. <b>Collocations / chunks</b>: cụm danh từ cố định <i>former friend</i>.",
+   "example": {
+    "en": "A <b>former friend</b> of the actor has revealed details of the star's personal life to the tabloid press.",
+    "vi": "Một <b>người bạn cũ</b> của nam diễn viên tiết lộ đời tư của anh."
+   }
+  },
+  {
+   "word": "childhood friend",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌtʃaɪldhʊd ˈfrend/",
+   "def_en": "A friend you knew in your schooldays.",
+   "def_vi": "Bạn thời thơ ấu.",
+   "gloss_vi": "bạn thuở nhỏ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Childhood friend</i> (noun) = bạn thuở nhỏ. <b>Collocations / chunks</b>: cụm danh từ cố định <i>childhood friend</i>.",
+   "example": {
+    "en": "Loads of <b>childhood friends</b> that I haven't seen for years have added me to their list of contacts.",
+    "vi": "Nhiều <b>bạn thuở nhỏ</b> đã thêm tôi vào danh bạ."
+   }
+  },
+  {
+   "word": "personal friend",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpɜːsənl ˈfrend/",
+   "def_en": "A friend you socialise with outside work.",
+   "def_vi": "Bạn riêng.",
+   "gloss_vi": "bạn riêng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Personal friend</i> (noun) = bạn riêng. <b>Collocations / chunks</b>: cụm danh từ cố định <i>personal friend</i>.",
+   "example": {
+    "en": "The director is a <b>personal friend</b> of mine.",
+    "vi": "Đạo diễn là <b>bạn riêng</b> của tôi."
+   }
+  },
+  {
+   "word": "true friend",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌtruː ˈfrend/",
+   "def_en": "A friend who is loyal, supportive and dependable.",
+   "def_vi": "Bạn thật sự.",
+   "gloss_vi": "bạn chân chính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "fair-weather friend <i>(n. bạn phù phiếm)</i>",
+   "grammar_vi": "<i>True friend</i> (noun) = bạn chân chính. <b>Collocations / chunks</b>: cụm danh từ cố định <i>true friend</i>.",
+   "example": {
+    "en": "A <b>true friend</b> would have trusted me with the money without asking what it was for!",
+    "vi": "<b>Bạn thật sự</b> sẽ tin tôi mà không hỏi tiền dùng làm gì."
+   }
+  },
+  {
+   "word": "fair-weather friend",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌfeə weðə ˈfrend/",
+   "def_en": "A friend who disappears when you have problems.",
+   "def_vi": "Bạn lúc vui, bỏ đi lúc khó.",
+   "gloss_vi": "bạn lúc hoạn nạn biến mất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "true friend <i>(n. bạn thật sự)</i>",
+   "grammar_vi": "<i>Fair-weather friend</i> (noun) = bạn lúc hoạn nạn biến mất. <b>Collocations / chunks</b>: cụm danh từ cố định <i>fair-weather friend</i>.",
+   "example": {
+    "en": "He turned out to be a bit of a <b>fair-weather friend</b> really.",
+    "vi": "Hóa ra anh ta là <b>bạn chỉ lúc thuận lợi</b>."
+   }
+  },
+  {
+   "word": "mutual friend",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmjuːtʃuəl ˈfrend/",
+   "def_en": "Someone two people both have friendships with.",
+   "def_vi": "Bạn chung.",
+   "gloss_vi": "bạn chung",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mutual friend</i> (noun) = bạn chung. <b>Collocations / chunks</b>: cụm danh từ cố định <i>mutual friend</i>.",
+   "example": {
+    "en": "we realised we had several <b>mutual friends</b> in the area",
+    "vi": "Chúng tôi nhận ra có vài <b>bạn chung</b> trong vùng."
+   }
+  },
+  {
+   "word": "befriend",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/bɪˈfrend/",
+   "def_en": "To deliberately make friends with someone.",
+   "def_vi": "Kết bạn với.",
+   "gloss_vi": "kết bạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Befriend</i> (verb) = kết bạn. <b>Note</b>: thân mật: <i>mate, buddy, pal</i>.",
+   "example": {
+    "en": "He <b>befriended</b> me on my first day at school",
+    "vi": "Cậu ấy <b>kết bạn</b> với tôi ngày đầu đi học."
+   }
+  },
+  {
+   "word": "letter of condolence",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌletər əv kənˈdəʊləns/",
+   "def_en": "A letter expressing sympathy after someone has died.",
+   "def_vi": "Thư chia buồn.",
+   "gloss_vi": "thư chia buồn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Letter of condolence</i> (noun) = thư chia buồn. <b>Note</b>: cũng <i>letter of resignation, thank-you letter</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Have you ever sent <b>a letter of condolence</b>?",
+    "vi": "Bạn đã bao giờ gửi <b>thư chia buồn</b> chưa?"
+   }
+  },
+  {
+   "word": "poison-pen letter",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpɔɪzn ˈpen ˌletə(r)/",
+   "def_en": "An unpleasant anonymous letter.",
+   "def_vi": "Thư nặc danh độc địa.",
+   "gloss_vi": "thư nặc danh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Poison-pen letter</i> (noun) = thư nặc danh. <b>Collocations / chunks</b>: cụm danh từ cố định <i>poison-pen letter</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She received a <b>poison-pen letter</b>.",
+    "vi": "Cô ấy nhận một <b>lá thư nặc danh độc địa</b>."
+   }
+  },
+  {
+   "word": "petition",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pəˈtɪʃn/",
+   "def_en": "A document signed by many people asking for something.",
+   "def_vi": "Đơn kiến nghị.",
+   "gloss_vi": "đơn kiến nghị",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Petition</i> (noun) = đơn kiến nghị. <b>Grammar</b>: danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "Thousands of people signed the <b>petition</b>.",
+    "vi": "Hàng nghìn người ký <b>đơn kiến nghị</b>."
+   }
+  },
+  {
+   "word": "pick up",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/pɪk ˈʌp/",
+   "def_en": "To answer the phone; catch a disease; learn a language; collect someone.",
+   "def_vi": "Nhấc máy; nhiễm; học lỏm; đón.",
+   "gloss_vi": "nhấc máy; học lỏm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pick up</i> (phr v) = nhấc máy; học lỏm. <b>Note</b>: <i>pick up the phone / a stomach bug</i>; <i>pick sb up from the airport</i>.",
+   "example": {
+    "en": "I <b>picked up</b> quite a few words of Italian when I was on holiday in Rome.",
+    "vi": "Tôi <b>học lỏm</b> khá nhiều từ tiếng Ý khi đi Rome."
+   }
+  },
+  {
+   "word": "means of communication",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmiːnz əv kəˌmjuːnɪˈkeɪʃn/",
+   "def_en": "A way of communicating.",
+   "def_vi": "Phương tiện liên lạc.",
+   "gloss_vi": "phương tiện liên lạc",
+   "synonyms": "method <i>(n. phương pháp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Means of communication</i> (noun) = phương tiện liên lạc. <b>Collocations / chunks</b>: cụm danh từ cố định <i>means of communication</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Letters were once our only <b>means of communication</b>.",
+    "vi": "Thư từng là <b>phương tiện liên lạc</b> duy nhất."
+   }
+  },
+  {
+   "word": "proliferation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/prəˌlɪfəˈreɪʃn/",
+   "def_en": "A great or sudden increase.",
+   "def_vi": "Sự gia tăng nhanh.",
+   "gloss_vi": "bùng nổ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Proliferation</i> (noun) = bùng nổ. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "The <b>proliferation</b> of ways to communicate",
+    "vi": "<b>Sự bùng nổ</b> các cách giao tiếp."
+   }
+  },
+  {
+   "word": "concentration",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkɒnsnˈtreɪʃn/",
+   "def_en": "Giving attention to one thing only.",
+   "def_vi": "Sự tập trung.",
+   "gloss_vi": "tập trung",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Concentration</i> (noun) = tập trung. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "Letter-writing took time and <b>concentration</b>",
+    "vi": "Viết thư cần thời gian và <b>sự tập trung</b>."
+   }
+  },
+  {
+   "word": "usurp",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/juːˈzɜːp/",
+   "def_en": "To replace or take over from.",
+   "def_vi": "Chiếm chỗ, thay thế.",
+   "gloss_vi": "soán ngôi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Usurp</i> (verb) = soán ngôi. <b>Grammar</b>: động từ.",
+   "example": {
+    "en": "The telephone <b>usurped</b> letter writing",
+    "vi": "Điện thoại <b>soán ngôi</b> việc viết thư."
+   }
+  },
+  {
+   "word": "heartrending",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈhɑːtrendɪŋ/",
+   "def_en": "Causing great sadness or sympathy.",
+   "def_vi": "Đau lòng.",
+   "gloss_vi": "đau lòng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Heartrending</i> (adjective) = đau lòng. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "If you had a <b>heartrending</b> message",
+    "vi": "Nếu bạn có một tin <b>đau lòng</b>…"
+   }
+  },
+  {
+   "word": "soppy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsɒpi/",
+   "def_en": "Very emotional or sentimental.",
+   "def_vi": "Ủy mị, sến.",
+   "gloss_vi": "sến súa",
+   "synonyms": "sentimental <i>(adj. đa cảm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Soppy</i> (adjective) = sến súa. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "A <b>soppy</b> letter",
+    "vi": "Một lá thư <b>sến súa</b>."
+   }
+  },
+  {
+   "word": "tedious",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈtiːdiəs/",
+   "def_en": "Boring.",
+   "def_vi": "Tẻ nhạt.",
+   "gloss_vi": "tẻ nhạt",
+   "synonyms": "boring <i>(adj. chán)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tedious</i> (adjective) = tẻ nhạt. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "For many it was a <b>tedious</b> process",
+    "vi": "Với nhiều người, đó là quá trình <b>tẻ nhạt</b>."
+   }
+  },
+  {
+   "word": "heartfelt",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈhɑːtfelt/",
+   "def_en": "Sincere.",
+   "def_vi": "Chân thành.",
+   "gloss_vi": "chân thành",
+   "synonyms": "sincere <i>(adj. chân thành)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Heartfelt</i> (adjective) = chân thành. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "You could make your letter as <b>heartfelt</b> as you wanted",
+    "vi": "Bạn có thể viết thư <b>chân thành</b> như bạn muốn."
+   }
+  },
+  {
+   "word": "couldn't be bothered",
+   "sense": "",
+   "pos": "idiom",
+   "ipa": "/ˌkʊdnt bi ˈbɒðəd/",
+   "def_en": "Was too lazy or uninterested to do something.",
+   "def_vi": "Lười, chẳng buồn.",
+   "gloss_vi": "chẳng buồn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Couldn't be bothered</i> (idiom) = chẳng buồn. <b>Note</b>: cảm xúc tiêu cực.",
+   "example": {
+    "en": "She <b>couldn't be bothered</b> to speak to me in person.",
+    "vi": "Cô ấy <b>chẳng buồn</b> nói trực tiếp với tôi."
+   }
+  }
+ ]
+}
