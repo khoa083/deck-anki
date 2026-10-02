@@ -1,0 +1,363 @@
+{
+ "book": "pre",
+ "unit": 70,
+ "title_vi": "Tiền tố: thay đổi nghĩa",
+ "theory_html": "<p><b>A. With adjectives</b><br><i>A. Với tính từ</i></p> <p><b>un-, dis-, im-, in-, ir-, il-</b> give the opposite: <b>unhappy, dishonest, impossible, incorrect, irregular, illegal</b>.</p><p><i>Tiền tố phủ định: <b>không vui, không trung thực, không thể, sai, bất quy tắc, bất hợp pháp</b>.</i></p> <p><b>B. un-</b><br><i>B. Tiền tố un-</i></p> <p><b>uncomfortable, unnecessary, unusual, unexpected, unbelievable, be unable to, unfit, unlucky, unlikely, unfair</b>. The stress stays the same (<b>un'lucky</b>).</p><p><i><b>khó chịu, không cần thiết, khác thường, bất ngờ, khó tin, không thể, không khỏe, kém may, khó có khả năng, bất công</b>.</i></p> <p><b>C. With verbs</b><br><i>C. Với động từ</i></p> <p><b>dis-</b> (opposite): <b>disagree, disappear</b>; <b>un-</b> (opposite action): <b>unlock, get undressed, unpack</b>; <b>over-</b> (too much): <b>overcharge</b>; <b>mis-</b> (incorrectly): <b>misunderstand, mishear</b>; <b>re-</b> (again): <b>rewrite</b>.</p><p><i><b>biến mất; mở khóa, cởi đồ, dỡ đồ; tính quá tiền; hiểu nhầm, nghe nhầm; viết lại</b>.</i></p>",
+ "items": [
+  {
+   "word": "impossible",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪmˈpɒsəbl/",
+   "def_en": "Not possible.",
+   "def_vi": "Không thể.",
+   "gloss_vi": "không thể",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "possible <i>(adj. có thể)</i>",
+   "grammar_vi": "<i>Impossible</i> (adjective) = không thể. <b>Grammar</b>: tiền tố <i>im-</i> trước <i>p, m</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "It’s <b>impossible</b> to finish it in one day.",
+    "vi": "Việc đó là <b>không thể</b> hoàn thành trong một ngày."
+   }
+  },
+  {
+   "word": "correct",
+   "sense": "adjective",
+   "pos": "adjective",
+   "ipa": "/kəˈrekt/",
+   "def_en": "Right.",
+   "def_vi": "Đúng.",
+   "gloss_vi": "đúng",
+   "synonyms": "right <i>(adj. đúng)</i>",
+   "antonyms": "incorrect <i>(adj. sai)</i>",
+   "grammar_vi": "<i>Correct</i> (adjective) = đúng. <b>Grammar</b>: tính từ; cũng là động từ (sửa).",
+   "ex_kit": true,
+   "example": {
+    "en": "I got eight answers <b>correct</b>.",
+    "vi": "Tôi trả lời <b>đúng</b> tám câu."
+   }
+  },
+  {
+   "word": "incorrect",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɪnkəˈrekt/",
+   "def_en": "Not right.",
+   "def_vi": "Không đúng.",
+   "gloss_vi": "sai",
+   "synonyms": "wrong <i>(adj. sai)</i>",
+   "antonyms": "correct <i>(adj. đúng)</i>",
+   "grammar_vi": "<i>Incorrect</i> (adjective) = sai. <b>Grammar</b>: tiền tố <i>in-</i>.",
+   "example": {
+    "en": "I got eight answers right, but two were <b>incorrect</b>.",
+    "vi": "Tôi trả lời đúng tám câu, nhưng hai câu <b>sai</b>."
+   }
+  },
+  {
+   "word": "legal",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈliːɡl/",
+   "def_en": "Allowed by law.",
+   "def_vi": "Luật pháp cho phép.",
+   "gloss_vi": "hợp pháp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "illegal <i>(adj. bất hợp pháp)</i>",
+   "grammar_vi": "<i>Legal</i> (adjective) = hợp pháp. <b>Grammar</b>: <i>legal</i> ≠ <i>illegal</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "It’s <b>legal</b> to drive here at 17.",
+    "vi": "Ở đây lái xe từ 17 tuổi là <b>hợp pháp</b>."
+   }
+  },
+  {
+   "word": "illegal",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪˈliːɡl/",
+   "def_en": "Not allowed by law.",
+   "def_vi": "Luật pháp không cho phép.",
+   "gloss_vi": "bất hợp pháp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "legal <i>(adj. hợp pháp)</i>",
+   "grammar_vi": "<i>Illegal</i> (adjective) = bất hợp pháp. <b>Grammar</b>: tiền tố <i>il-</i> trước <i>l</i>.",
+   "example": {
+    "en": "It’s <b>illegal</b> in the UK to ride a motorbike without a helmet.",
+    "vi": "Ở Anh, đi xe máy không đội mũ bảo hiểm là <b>bất hợp pháp</b>."
+   }
+  },
+  {
+   "word": "uncomfortable",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ʌnˈkʌmftəbl/",
+   "def_en": "Not comfortable.",
+   "def_vi": "Không thoải mái.",
+   "gloss_vi": "khó chịu, không thoải mái",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "comfortable <i>(adj. thoải mái)</i>",
+   "grammar_vi": "<i>Uncomfortable</i> (adjective) = khó chịu, không thoải mái. <b>Grammar</b>: <i>un-</i> + <i>comfortable</i>.",
+   "example": {
+    "en": "This chair is incredibly <b>uncomfortable</b>.",
+    "vi": "Cái ghế này cực kỳ <b>khó chịu</b>."
+   }
+  },
+  {
+   "word": "unusual",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ʌnˈjuːʒuəl/",
+   "def_en": "Different, not common or ordinary.",
+   "def_vi": "Khác lạ, không phổ biến.",
+   "gloss_vi": "khác thường",
+   "synonyms": "strange <i>(adj. lạ)</i>",
+   "antonyms": "usual <i>(adj. bình thường)</i>",
+   "grammar_vi": "<i>Unusual</i> (adjective) = khác thường. <b>Grammar</b>: <i>unusual for sb to do sth</i>.",
+   "example": {
+    "en": "Xerxes – that’s a very <b>unusual</b> name.",
+    "vi": "Xerxes – đó là một cái tên rất <b>khác thường</b>."
+   }
+  },
+  {
+   "word": "unexpected",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʌnɪkˈspektɪd/",
+   "def_en": "Not expected.",
+   "def_vi": "Không ngờ tới.",
+   "gloss_vi": "bất ngờ",
+   "synonyms": "surprising <i>(adj. đáng ngạc nhiên)</i>",
+   "antonyms": "expected <i>(adj. được dự đoán)</i>",
+   "grammar_vi": "<i>Unexpected</i> (adjective) = bất ngờ. <b>Grammar</b>: <i>expect</i> → <i>unexpected</i>.",
+   "example": {
+    "en": "I won the game; it was completely <b>unexpected</b>.",
+    "vi": "Tôi thắng trận; điều đó hoàn toàn <b>bất ngờ</b>."
+   }
+  },
+  {
+   "word": "unbelievable",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʌnbɪˈliːvəbl/",
+   "def_en": "Surprising because very good or very bad.",
+   "def_vi": "Gây ngạc nhiên vì rất tốt hay rất tệ.",
+   "gloss_vi": "khó tin",
+   "synonyms": "incredible <i>(adj. khó tin)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Unbelievable</i> (adjective) = khó tin. <b>Grammar</b>: trọng âm <i>unbe'lievable</i>.",
+   "example": {
+    "en": "Marsha’s hat is <b>unbelievable</b>.",
+    "vi": "Cái mũ của Marsha thật <b>khó tin</b>."
+   }
+  },
+  {
+   "word": "be unable to",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/bi ʌnˈeɪbl tə/",
+   "def_en": "Could not.",
+   "def_vi": "Không thể.",
+   "gloss_vi": "không thể",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "be able to <i>(vp. có thể)</i>",
+   "grammar_vi": "<i>Be unable to</i> (verb phrase) = không thể. <b>Grammar</b>: trang trọng hơn <i>can’t</i>.",
+   "example": {
+    "en": "We tried to open the door, but we <b>were unable to</b> get in.",
+    "vi": "Chúng tôi cố mở cửa, nhưng <b>không thể</b> vào được."
+   }
+  },
+  {
+   "word": "unfit",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ʌnˈfɪt/",
+   "def_en": "Not healthy and not in good condition.",
+   "def_vi": "Không khỏe, thể lực kém.",
+   "gloss_vi": "thể lực kém",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "fit <i>(adj. khỏe)</i>",
+   "grammar_vi": "<i>Unfit</i> (adjective) = thể lực kém. <b>Grammar</b>: <i>fit</i> (adj.) → <i>unfit</i>.",
+   "example": {
+    "en": "I need to do more exercise; I’m very <b>unfit</b>.",
+    "vi": "Tôi cần tập thể dục nhiều hơn; thể lực tôi rất <b>kém</b>."
+   }
+  },
+  {
+   "word": "unlucky",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ʌnˈlʌki/",
+   "def_en": "Having bad luck.",
+   "def_vi": "Gặp rủi.",
+   "gloss_vi": "kém may mắn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "lucky <i>(adj. may mắn)</i>",
+   "grammar_vi": "<i>Unlucky</i> (adjective) = kém may mắn. <b>Grammar</b>: trọng âm <i>un'lucky</i>.",
+   "example": {
+    "en": "Declan played well, and I thought he was <b>unlucky</b> to lose.",
+    "vi": "Declan chơi hay, và tôi nghĩ cậu ấy <b>kém may</b> khi thua."
+   }
+  },
+  {
+   "word": "unlikely",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ʌnˈlaɪkli/",
+   "def_en": "Probably not going to happen.",
+   "def_vi": "Có lẽ sẽ không xảy ra.",
+   "gloss_vi": "khó có khả năng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "likely <i>(adj. có khả năng)</i>",
+   "grammar_vi": "<i>Unlikely</i> (adjective) = khó có khả năng. <b>Grammar</b>: <i>be unlikely to do sth</i>.",
+   "example": {
+    "en": "They’re <b>unlikely</b> to get here before midday.",
+    "vi": "Họ <b>khó có khả năng</b> đến đây trước trưa."
+   }
+  },
+  {
+   "word": "unfair",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ʌnˈfeə(r)/",
+   "def_en": "Not treating people equally.",
+   "def_vi": "Không đối xử bình đẳng.",
+   "gloss_vi": "bất công",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "fair <i>(adj. công bằng)</i>",
+   "grammar_vi": "<i>Unfair</i> (adjective) = bất công. <b>Grammar</b>: <i>unfair to/on sb</i>.",
+   "example": {
+    "en": "The test was <b>unfair</b> because some of the students had more time to do it than others.",
+    "vi": "Bài kiểm tra <b>bất công</b> vì một số học sinh có nhiều thời gian hơn."
+   }
+  },
+  {
+   "word": "disappear",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌdɪsəˈpɪə(r)/",
+   "def_en": "To go where it cannot be seen.",
+   "def_vi": "Đi khỏi tầm nhìn.",
+   "gloss_vi": "biến mất",
+   "synonyms": "vanish <i>(v. biến mất)</i>",
+   "antonyms": "appear <i>(v. xuất hiện)</i>",
+   "grammar_vi": "<i>Disappear</i> (verb) = biến mất. <b>Grammar</b>: một <i>s</i>, hai <i>p</i>.",
+   "example": {
+    "en": "The plane appeared in the sky, then it <b>disappeared</b> behind a cloud.",
+    "vi": "Máy bay xuất hiện trên trời rồi <b>biến mất</b> sau đám mây."
+   }
+  },
+  {
+   "word": "unlock",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ʌnˈlɒk/",
+   "def_en": "To open a door using a key.",
+   "def_vi": "Mở cửa bằng chìa khóa.",
+   "gloss_vi": "mở khóa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "lock <i>(v. khóa)</i>",
+   "grammar_vi": "<i>Unlock</i> (verb) = mở khóa. <b>Grammar</b>: <i>un-</i> = hành động ngược lại.",
+   "example": {
+    "en": "I couldn’t <b>unlock</b> the door this morning.",
+    "vi": "Sáng nay tôi không <b>mở khóa</b> được cửa."
+   }
+  },
+  {
+   "word": "get undressed",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡet ʌnˈdrest/",
+   "def_en": "To take off your clothes.",
+   "def_vi": "Cởi quần áo.",
+   "gloss_vi": "cởi quần áo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "get dressed <i>(vp. mặc quần áo)</i>",
+   "grammar_vi": "<i>Get undressed</i> (verb phrase) = cởi quần áo. <b>Grammar</b>: <i>get undressed</i> (không có tân ngữ).",
+   "example": {
+    "en": "We had to <b>get undressed</b> in the cold.",
+    "vi": "Chúng tôi phải <b>cởi đồ</b> trong giá lạnh."
+   }
+  },
+  {
+   "word": "unpack",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ʌnˈpæk/",
+   "def_en": "To take everything out of a bag or suitcase.",
+   "def_vi": "Lấy hết đồ ra khỏi túi hay va li.",
+   "gloss_vi": "dỡ đồ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "pack <i>(v. đóng gói)</i>",
+   "grammar_vi": "<i>Unpack</i> (verb) = dỡ đồ. <b>Grammar</b>: <i>unpack a bag/suitcase</i>.",
+   "example": {
+    "en": "I <b>unpacked</b> the bags.",
+    "vi": "Tôi <b>dỡ đồ</b> ra khỏi túi."
+   }
+  },
+  {
+   "word": "overcharge",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌəʊvəˈtʃɑːdʒ/",
+   "def_en": "To ask someone to pay too much money.",
+   "def_vi": "Bắt ai trả quá nhiều tiền.",
+   "gloss_vi": "tính quá tiền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Overcharge</i> (verb) = tính quá tiền. <b>Grammar</b>: tiền tố <i>over-</i> = quá mức.",
+   "example": {
+    "en": "The bank <b>overcharged</b> me.",
+    "vi": "Ngân hàng đã <b>tính quá tiền</b> tôi."
+   }
+  },
+  {
+   "word": "misunderstand",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌmɪsʌndəˈstænd/",
+   "def_en": "To understand something incorrectly.",
+   "def_vi": "Hiểu sai điều gì.",
+   "gloss_vi": "hiểu nhầm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "understand <i>(v. hiểu)</i>",
+   "grammar_vi": "<i>Misunderstand</i> (verb) = hiểu nhầm. <b>Grammar</b>: <i>misunderstand – misunderstood</i>.",
+   "example": {
+    "en": "I <b>misunderstood</b> what he said.",
+    "vi": "Tôi đã <b>hiểu nhầm</b> điều anh ấy nói."
+   }
+  },
+  {
+   "word": "mishear",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌmɪsˈhɪə(r)/",
+   "def_en": "To hear something incorrectly.",
+   "def_vi": "Nghe sai điều gì.",
+   "gloss_vi": "nghe nhầm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mishear</i> (verb) = nghe nhầm. <b>Grammar</b>: <i>mishear – misheard</i>.",
+   "example": {
+    "en": "I <b>misheard</b> her. I thought she said Rita, not Brita.",
+    "vi": "Tôi <b>nghe nhầm</b> cô ấy. Tôi tưởng cô ấy nói Rita, không phải Brita."
+   }
+  },
+  {
+   "word": "rewrite",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌriːˈraɪt/",
+   "def_en": "To write something again.",
+   "def_vi": "Viết lại.",
+   "gloss_vi": "viết lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rewrite</i> (verb) = viết lại. <b>Grammar</b>: tiền tố <i>re-</i> = lại; <i>rewrite – rewrote – rewritten</i>.",
+   "example": {
+    "en": "The teacher has asked me to <b>rewrite</b> my essay.",
+    "vi": "Thầy giáo yêu cầu tôi <b>viết lại</b> bài luận."
+   }
+  }
+ ]
+}

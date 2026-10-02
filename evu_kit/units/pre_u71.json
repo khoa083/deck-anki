@@ -1,0 +1,453 @@
+{
+ "book": "pre",
+ "unit": 71,
+ "title_vi": "Hậu tố: tạo danh từ",
+ "theory_html": "<p><b>A. Verb + noun suffix</b><br><i>A. Động từ + hậu tố danh từ</i></p> <p><b>-ion, -ment</b>: <b>invent → invention, discuss → discussion, translate → translation, relax → relaxation, improve → improvement, govern → government, manage → management, develop → development</b>; <b>a discussion about</b>, <b>an improvement in</b>.</p><p><i><b>phát minh, thảo luận, dịch, thư giãn, cải thiện, cai quản, quản lý, phát triển</b>.</i></p> <p><b>B. Adjective + noun suffix</b><br><i>B. Tính từ + hậu tố danh từ</i></p> <p><b>-ness, -ity</b>: <b>weak → weakness, happy → happiness, ill → illness, fit → fitness, stupid → stupidity, popular → popularity, similar → similarity, able → ability (opp inability)</b>.</p><p><i><b>điểm yếu, hạnh phúc, bệnh tật, sự khỏe mạnh, sự ngu ngốc, sự phổ biến, sự tương đồng, khả năng</b>.</i></p> <p><b>C. -er, -or and -ist</b><br><i>C. Hậu tố chỉ người</i></p> <p><b>dancer, singer, footballer; director, translator, actor; artist, economist, scientist</b>. Suffixes may move the stress (<b>re'lax – relax'ation</b>).</p><p><i><b>vũ công, ca sĩ, cầu thủ; giám đốc, phiên dịch, diễn viên; họa sĩ, nhà kinh tế, nhà khoa học</b>.</i></p>",
+ "items": [
+  {
+   "word": "invent",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪnˈvent/",
+   "def_en": "To produce or design something completely new.",
+   "def_vi": "Tạo ra hay thiết kế thứ hoàn toàn mới.",
+   "gloss_vi": "phát minh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Invent</i> (verb) = phát minh. <b>Grammar</b>: <i>invent sth</i>. <b>Word family</b>: <i>inventor</i> (người).",
+   "ex_kit": true,
+   "example": {
+    "en": "Who <b>invented</b> the telephone?",
+    "vi": "Ai đã <b>phát minh</b> ra điện thoại?"
+   }
+  },
+  {
+   "word": "invention",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˈvenʃn/",
+   "def_en": "Something completely new that someone has made.",
+   "def_vi": "Thứ hoàn toàn mới do ai làm ra.",
+   "gloss_vi": "phát minh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Invention</i> (noun) = phát minh. <b>Grammar</b>: <i>invent</i> + <i>-ion</i>.",
+   "example": {
+    "en": "His latest <b>invention</b> is a new board game.",
+    "vi": "<b>Phát minh</b> mới nhất của anh ấy là một trò chơi cờ bàn."
+   }
+  },
+  {
+   "word": "discuss",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪˈskʌs/",
+   "def_en": "To talk about something seriously.",
+   "def_vi": "Nói về điều gì nghiêm túc.",
+   "gloss_vi": "thảo luận",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Discuss</i> (verb) = thảo luận. <b>Grammar</b>: <i>discuss sth</i> (không <i>discuss about</i>).",
+   "ex_kit": true,
+   "example": {
+    "en": "We need to <b>discuss</b> the plan.",
+    "vi": "Chúng ta cần <b>thảo luận</b> kế hoạch."
+   }
+  },
+  {
+   "word": "discussion",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈskʌʃn/",
+   "def_en": "A serious talk about something.",
+   "def_vi": "Cuộc nói chuyện nghiêm túc về điều gì.",
+   "gloss_vi": "cuộc thảo luận",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Discussion</i> (noun) = cuộc thảo luận. <b>Grammar</b>: danh từ đi với <i>about</i>: <i>a discussion about sth</i>.",
+   "example": {
+    "en": "We had a <b>discussion about</b> politics.",
+    "vi": "Chúng tôi có một <b>cuộc thảo luận</b> về chính trị."
+   }
+  },
+  {
+   "word": "translate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/trænzˈleɪt/",
+   "def_en": "To change from one language to another.",
+   "def_vi": "Chuyển từ ngôn ngữ này sang ngôn ngữ khác.",
+   "gloss_vi": "dịch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Translate</i> (verb) = dịch. <b>Grammar</b>: <i>translate A into B</i>. <b>Word family</b>: <i>translation, translator</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Can you <b>translate</b> this letter into English?",
+    "vi": "Bạn có thể <b>dịch</b> bức thư này sang tiếng Anh không?"
+   }
+  },
+  {
+   "word": "relax",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rɪˈlæks/",
+   "def_en": "To rest and feel calm and comfortable.",
+   "def_vi": "Nghỉ ngơi, thấy bình tĩnh thoải mái.",
+   "gloss_vi": "thư giãn",
+   "synonyms": "rest <i>(v. nghỉ ngơi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Relax</i> (verb) = thư giãn. <b>Grammar</b>: <i>relaxed, relaxing</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "I like to <b>relax</b> with a book in the evening.",
+    "vi": "Tôi thích <b>thư giãn</b> với một cuốn sách vào buổi tối."
+   }
+  },
+  {
+   "word": "relaxation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌriːlækˈseɪʃn/",
+   "def_en": "Resting and feeling calm.",
+   "def_vi": "Việc nghỉ ngơi, thư thái.",
+   "gloss_vi": "sự thư giãn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Relaxation</i> (noun) = sự thư giãn. <b>Grammar</b>: trọng âm <i>relax'ation</i>.",
+   "example": {
+    "en": "<b>Relaxation</b> will help you to sleep better.",
+    "vi": "<b>Thư giãn</b> sẽ giúp bạn ngủ ngon hơn."
+   }
+  },
+  {
+   "word": "improve",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪmˈpruːv/",
+   "def_en": "To get better.",
+   "def_vi": "Trở nên tốt hơn.",
+   "gloss_vi": "cải thiện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Improve</i> (verb) = cải thiện. <b>Grammar</b>: nội và ngoại động từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "Your English has <b>improved</b> a lot.",
+    "vi": "Tiếng Anh của bạn đã <b>cải thiện</b> rất nhiều."
+   }
+  },
+  {
+   "word": "improvement",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪmˈpruːvmənt/",
+   "def_en": "When something gets better.",
+   "def_vi": "Khi thứ gì tốt lên.",
+   "gloss_vi": "sự cải thiện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Improvement</i> (noun) = sự cải thiện. <b>Grammar</b>: <i>an improvement in sth</i>.",
+   "example": {
+    "en": "We need an <b>improvement in</b> the weather.",
+    "vi": "Chúng ta cần thời tiết <b>tốt hơn</b>."
+   }
+  },
+  {
+   "word": "govern",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈɡʌvn/",
+   "def_en": "To control the affairs of a city or country.",
+   "def_vi": "Kiểm soát công việc của thành phố hay đất nước.",
+   "gloss_vi": "cai trị, điều hành",
+   "synonyms": "rule <i>(v. cai trị)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Govern</i> (verb) = cai trị, điều hành. <b>Grammar</b>: <i>govern</i> + <i>-ment</i> = <i>government</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Which party <b>governs</b> the country?",
+    "vi": "Đảng nào đang <b>điều hành</b> đất nước?"
+   }
+  },
+  {
+   "word": "management",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmænɪdʒmənt/",
+   "def_en": "The people who direct or control a business.",
+   "def_vi": "Những người điều hành doanh nghiệp.",
+   "gloss_vi": "ban quản lý",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Management</i> (noun) = ban quản lý. <b>Grammar</b>: <i>manage</i> + <i>-ment</i>. <b>Word family</b>: <i>manager</i>.",
+   "example": {
+    "en": "The <b>management</b> has to change.",
+    "vi": "<b>Ban quản lý</b> phải thay đổi."
+   }
+  },
+  {
+   "word": "develop",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪˈveləp/",
+   "def_en": "To grow or change and become more advanced.",
+   "def_vi": "Phát triển, tiến bộ hơn.",
+   "gloss_vi": "phát triển",
+   "synonyms": "grow <i>(v. lớn lên)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Develop</i> (verb) = phát triển. <b>Grammar</b>: một <i>p</i>. <b>Word family</b>: <i>development</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The city has <b>developed</b> very quickly.",
+    "vi": "Thành phố đã <b>phát triển</b> rất nhanh."
+   }
+  },
+  {
+   "word": "development",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈveləpmənt/",
+   "def_en": "Growth or change to become more advanced.",
+   "def_vi": "Sự phát triển, tiến bộ.",
+   "gloss_vi": "sự phát triển",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Development</i> (noun) = sự phát triển. <b>Grammar</b>: <i>develop</i> + <i>-ment</i>.",
+   "example": {
+    "en": "I need money for more <b>development</b>.",
+    "vi": "Tôi cần tiền để <b>phát triển</b> thêm."
+   }
+  },
+  {
+   "word": "weakness",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwiːknəs/",
+   "def_en": "A part that is not strong.",
+   "def_vi": "Phần không mạnh.",
+   "gloss_vi": "điểm yếu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "strength <i>(n. điểm mạnh)</i>",
+   "grammar_vi": "<i>Weakness</i> (noun) = điểm yếu. <b>Grammar</b>: <i>weak</i> + <i>-ness</i>.",
+   "example": {
+    "en": "What is his main <b>weakness</b> as a manager?",
+    "vi": "<b>Điểm yếu</b> chính của anh ấy với tư cách quản lý là gì?"
+   }
+  },
+  {
+   "word": "happiness",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhæpinəs/",
+   "def_en": "The feeling of being happy.",
+   "def_vi": "Cảm giác hạnh phúc.",
+   "gloss_vi": "hạnh phúc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "unhappiness <i>(n. bất hạnh)</i>",
+   "grammar_vi": "<i>Happiness</i> (noun) = hạnh phúc. <b>Grammar</b>: <i>happy</i> → <i>happiness</i> (y → i).",
+   "example": {
+    "en": "Her <b>happiness</b> is all that matters to me.",
+    "vi": "<b>Hạnh phúc</b> của cô ấy là tất cả với tôi."
+   }
+  },
+  {
+   "word": "fitness",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfɪtnəs/",
+   "def_en": "Being in good condition, usually because of exercise.",
+   "def_vi": "Thể trạng tốt, thường nhờ tập luyện.",
+   "gloss_vi": "thể lực",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fitness</i> (noun) = thể lực. <b>Grammar</b>: không đếm được; <i>fitness centre</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Swimming is good for your <b>fitness</b>.",
+    "vi": "Bơi lội tốt cho <b>thể lực</b>."
+   }
+  },
+  {
+   "word": "stupidity",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/stjuːˈpɪdəti/",
+   "def_en": "Being stupid.",
+   "def_vi": "Sự ngu ngốc.",
+   "gloss_vi": "sự ngu ngốc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "intelligence <i>(n. trí thông minh)</i>",
+   "grammar_vi": "<i>Stupidity</i> (noun) = sự ngu ngốc. <b>Grammar</b>: trọng âm <i>stu'pidity</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I can’t believe his <b>stupidity</b>.",
+    "vi": "Tôi không tin nổi sự <b>ngu ngốc</b> của anh ta."
+   }
+  },
+  {
+   "word": "popularity",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpɒpjuˈlærəti/",
+   "def_en": "Being liked by a lot of people.",
+   "def_vi": "Được nhiều người thích.",
+   "gloss_vi": "sự phổ biến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Popularity</i> (noun) = sự phổ biến. <b>Grammar</b>: <i>grow in popularity</i>.",
+   "example": {
+    "en": "Snowboarding is growing in <b>popularity</b>.",
+    "vi": "Trượt ván tuyết đang ngày càng <b>phổ biến</b>."
+   }
+  },
+  {
+   "word": "similar",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsɪmələ(r)/",
+   "def_en": "Almost the same.",
+   "def_vi": "Gần giống.",
+   "gloss_vi": "tương tự",
+   "synonyms": "alike <i>(adj. giống)</i>",
+   "antonyms": "different <i>(adj. khác)</i>",
+   "grammar_vi": "<i>Similar</i> (adjective) = tương tự. <b>Grammar</b>: <i>similar to sth</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The two dresses are very <b>similar</b>.",
+    "vi": "Hai chiếc váy rất <b>giống nhau</b>."
+   }
+  },
+  {
+   "word": "similarity",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsɪməˈlærəti/",
+   "def_en": "Being almost the same.",
+   "def_vi": "Sự gần giống nhau.",
+   "gloss_vi": "sự tương đồng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "difference <i>(n. sự khác biệt)</i>",
+   "grammar_vi": "<i>Similarity</i> (noun) = sự tương đồng. <b>Grammar</b>: <i>a similarity between A and B</i>.",
+   "example": {
+    "en": "There is a <b>similarity between</b> them.",
+    "vi": "Có một <b>sự tương đồng</b> giữa họ."
+   }
+  },
+  {
+   "word": "ability",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈbɪləti/",
+   "def_en": "Being able to do something.",
+   "def_vi": "Khả năng làm gì.",
+   "gloss_vi": "khả năng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "inability <i>(n. sự không có khả năng)</i>",
+   "grammar_vi": "<i>Ability</i> (noun) = khả năng. <b>Grammar</b>: <i>the ability to do sth</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She has the <b>ability</b> to learn languages very quickly.",
+    "vi": "Cô ấy có <b>khả năng</b> học ngôn ngữ rất nhanh."
+   }
+  },
+  {
+   "word": "inability",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɪnəˈbɪləti/",
+   "def_en": "Not being able to do something.",
+   "def_vi": "Không có khả năng làm gì.",
+   "gloss_vi": "sự không có khả năng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "ability <i>(n. khả năng)</i>",
+   "grammar_vi": "<i>Inability</i> (noun) = sự không có khả năng. <b>Grammar</b>: <i>inability to do sth</i>.",
+   "example": {
+    "en": "I’m frustrated by my <b>inability to</b> use computers.",
+    "vi": "Tôi bực vì <b>không biết</b> dùng máy tính."
+   }
+  },
+  {
+   "word": "dancer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdɑːnsə(r)/",
+   "def_en": "A person who dances.",
+   "def_vi": "Người nhảy múa.",
+   "gloss_vi": "vũ công",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dancer</i> (noun) = vũ công. <b>Grammar</b>: <i>dance</i> + <i>-er</i>.",
+   "example": {
+    "en": "ballet <b>dancer</b>",
+    "vi": "Cô ấy là một <b>vũ công</b> ba lê."
+   }
+  },
+  {
+   "word": "director",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dəˈrektə(r)/",
+   "def_en": "A person who controls a company.",
+   "def_vi": "Người điều hành công ty.",
+   "gloss_vi": "giám đốc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Director</i> (noun) = giám đốc. <b>Grammar</b>: hậu tố <i>-or</i>. <b>Common mistakes</b>: cũng = đạo diễn.",
+   "example": {
+    "en": "company <b>director</b>",
+    "vi": "Ông ấy là <b>giám đốc</b> công ty."
+   }
+  },
+  {
+   "word": "translator",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/trænzˈleɪtə(r)/",
+   "def_en": "A person who translates.",
+   "def_vi": "Người dịch.",
+   "gloss_vi": "phiên dịch viên, dịch giả",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Translator</i> (noun) = phiên dịch viên, dịch giả. <b>Grammar</b>: hậu tố <i>-or</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She works as a <b>translator</b> for a publisher.",
+    "vi": "Cô ấy làm <b>dịch giả</b> cho một nhà xuất bản."
+   }
+  },
+  {
+   "word": "artist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɑːtɪst/",
+   "def_en": "A person who paints or draws.",
+   "def_vi": "Người vẽ tranh.",
+   "gloss_vi": "họa sĩ, nghệ sĩ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Artist</i> (noun) = họa sĩ, nghệ sĩ. <b>Grammar</b>: hậu tố <i>-ist</i>.",
+   "example": {
+    "en": "<b>artist</b>, e.g. Picasso",
+    "vi": "Picasso là một <b>họa sĩ</b>."
+   }
+  },
+  {
+   "word": "scientist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsaɪəntɪst/",
+   "def_en": "A person who works in science.",
+   "def_vi": "Người làm khoa học.",
+   "gloss_vi": "nhà khoa học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Scientist</i> (noun) = nhà khoa học. <b>Grammar</b>: <i>science</i> + <i>-ist</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She’s a famous <b>scientist</b>.",
+    "vi": "Cô ấy là một <b>nhà khoa học</b> nổi tiếng."
+   }
+  }
+ ]
+}

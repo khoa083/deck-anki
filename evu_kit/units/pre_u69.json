@@ -1,0 +1,248 @@
+{
+ "book": "pre",
+ "unit": 69,
+ "title_vi": "Chào hỏi, tạm biệt và câu nói đặc biệt",
+ "theory_html": "<p><b>A. Greetings</b><br><i>A. Chào hỏi</i></p> <p><b>introduced to a stranger</b> in a formal <b>situation</b>: <b>shake hands</b>, <b>hello, nice to meet you</b>. We <b>greet</b> friends: men may kiss female friends on one cheek or both; women <b>once, twice</b>… <b>How are you? – Fine, thanks. How about you? How’s it going? / How are things? – Not (so) bad.</b></p><p><i><b>được giới thiệu, người lạ, tình huống, chào; bạn khỏe không? – không tệ</b>.</i></p> <p><b>B. Farewells</b><br><i>B. Tạm biệt</i></p> <p><b>Goodbye. Nice to meet you</b>; <b>bye, cheers, take care, see you (soon/later)</b>; <b>Have a nice weekend. – Same to you</b> (NOT <b>same for you</b>).</p><p><i><b>tạm biệt, bảo trọng, hẹn gặp lại, bạn cũng vậy</b>.</i></p> <p><b>C. Expressions for special situations</b><br><i>C. Câu nói trong tình huống đặc biệt</i></p> <p><b>Excuse me, could I just get past? Good luck. Thank goodness (for that). Bless you</b> (after a sneeze). <b>Congratulations.</b> <b>Goodness</b> = surprise.</p><p><i><b>cho tôi qua với; chúc may mắn; ơn trời; chúa phù hộ (khi hắt hơi); chúc mừng</b>.</i></p>",
+ "items": [
+  {
+   "word": "introduce",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɪntrəˈdjuːs/",
+   "def_en": "To tell someone the name of a person they have never met.",
+   "def_vi": "Cho ai biết tên người họ chưa gặp.",
+   "gloss_vi": "giới thiệu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Introduce</i> (verb) = giới thiệu. <b>Grammar</b>: <i>introduce A to B</i>. <b>Word family</b>: <i>introduction</i> (n.).",
+   "example": {
+    "en": "When we are <b>introduced to</b> a stranger in a formal situation, we usually shake hands.",
+    "vi": "Khi <b>được giới thiệu</b> với người lạ trong tình huống trang trọng, ta thường bắt tay."
+   }
+  },
+  {
+   "word": "stranger",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈstreɪndʒə(r)/",
+   "def_en": "Someone you have never met.",
+   "def_vi": "Người bạn chưa từng gặp.",
+   "gloss_vi": "người lạ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stranger</i> (noun) = người lạ. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: ≠ <i>foreigner</i> (người nước ngoài).",
+   "example": {
+    "en": "When we are introduced to a <b>stranger</b> in a formal situation, we usually shake hands.",
+    "vi": "Khi được giới thiệu với <b>người lạ</b>, ta thường bắt tay."
+   }
+  },
+  {
+   "word": "situation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsɪtʃuˈeɪʃn/",
+   "def_en": "The things that are happening at a particular time and place.",
+   "def_vi": "Những gì đang diễn ra ở một nơi, lúc nào đó.",
+   "gloss_vi": "tình huống",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Situation</i> (noun) = tình huống. <b>Grammar</b>: <i>in a formal/informal situation</i>.",
+   "example": {
+    "en": "In an informal <b>situation</b>, we usually just say hello or hi.",
+    "vi": "Trong <b>tình huống</b> không trang trọng, ta thường chỉ nói hello hay hi."
+   }
+  },
+  {
+   "word": "nice to meet you",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌnaɪs tə ˈmiːt juː/",
+   "def_en": "Said when you meet someone for the first time.",
+   "def_vi": "Nói khi gặp ai lần đầu.",
+   "gloss_vi": "rất vui được gặp bạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nice to meet you</i> (phrase) = rất vui được gặp bạn. <b>Grammar</b>: chỉ dùng lần gặp đầu; tạm biệt: <i>Nice to meet you</i> / <i>Nice meeting you</i>.",
+   "example": {
+    "en": "We usually shake hands and say hello, or perhaps hello, <b>nice to meet you</b>.",
+    "vi": "Ta thường bắt tay và chào, hoặc nói <b>rất vui được gặp bạn</b>."
+   }
+  },
+  {
+   "word": "greet",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɡriːt/",
+   "def_en": "To say hello to someone.",
+   "def_vi": "Chào ai.",
+   "gloss_vi": "chào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Greet</i> (verb) = chào. <b>Grammar</b>: <i>greet sb</i>. <b>Word family</b>: <i>greeting</i> (n.).",
+   "example": {
+    "en": "When we <b>greet</b> friends, there are no real rules in Britain.",
+    "vi": "Khi <b>chào</b> bạn bè, ở Anh không có quy tắc thực sự nào."
+   }
+  },
+  {
+   "word": "how’s it going",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌhaʊz ɪt ˈɡəʊɪŋ/",
+   "def_en": "An informal way to ask how someone is.",
+   "def_vi": "Cách hỏi thăm thân mật.",
+   "gloss_vi": "dạo này thế nào",
+   "synonyms": "how are things <i>(phr. mọi việc thế nào)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>How’s it going</i> (phrase) = dạo này thế nào. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "Hi. <b>How’s it going</b>? – Not (so) bad, thanks.",
+    "vi": "Chào. <b>Dạo này thế nào</b>? – Không tệ, cảm ơn."
+   }
+  },
+  {
+   "word": "not bad",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌnɒt ˈbæd/",
+   "def_en": "Quite good.",
+   "def_vi": "Khá ổn.",
+   "gloss_vi": "không tệ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Not bad</i> (phrase) = không tệ. <b>Grammar</b>: <i>not so bad</i> = khá ổn.",
+   "example": {
+    "en": "How are things? – <b>Not</b> (so) <b>bad</b>, thanks. And you?",
+    "vi": "Dạo này thế nào? – <b>Không tệ</b>, cảm ơn. Còn bạn?"
+   }
+  },
+  {
+   "word": "take care",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌteɪk ˈkeə(r)/",
+   "def_en": "Said when saying goodbye to friends (informal).",
+   "def_vi": "Nói khi tạm biệt bạn bè (thân mật).",
+   "gloss_vi": "bảo trọng nhé",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take care</i> (phrase) = bảo trọng nhé. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "With friends we can say bye, cheers, <b>take care</b> or see you.",
+    "vi": "Với bạn bè, ta có thể nói bye, cheers, <b>bảo trọng nhé</b> hay hẹn gặp lại."
+   }
+  },
+  {
+   "word": "see you",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˈsiː juː/",
+   "def_en": "Goodbye, I will see you again (informal).",
+   "def_vi": "Tạm biệt, hẹn gặp lại (thân mật).",
+   "gloss_vi": "hẹn gặp lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>See you</i> (phrase) = hẹn gặp lại. <b>Grammar</b>: <i>See you soon/later/tomorrow</i>.",
+   "example": {
+    "en": "With friends we can say <b>see you</b> (soon/later/tomorrow, etc.).",
+    "vi": "Với bạn bè ta có thể nói <b>hẹn gặp lại</b> (sớm/sau/ngày mai)."
+   }
+  },
+  {
+   "word": "same to you",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˈseɪm tə juː/",
+   "def_en": "I wish you the same thing.",
+   "def_vi": "Chúc bạn điều tương tự.",
+   "gloss_vi": "bạn cũng vậy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Same to you</i> (phrase) = bạn cũng vậy. <b>Grammar</b>: <i>same to you</i> (không <i>same for you</i>).",
+   "example": {
+    "en": "Have a nice weekend. – Yeah, <b>same to you</b>.",
+    "vi": "Cuối tuần vui vẻ nhé. – Ừ, <b>bạn cũng vậy</b>."
+   }
+  },
+  {
+   "word": "get past",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌɡet ˈpɑːst/",
+   "def_en": "To move past someone or something.",
+   "def_vi": "Đi qua ai hay thứ gì.",
+   "gloss_vi": "đi qua",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get past</i> (phrasal verb) = đi qua. <b>Grammar</b>: <i>get past sb/sth</i>.",
+   "example": {
+    "en": "Excuse me, could I just <b>get past</b>?",
+    "vi": "Xin lỗi, cho tôi <b>đi qua</b> được không?"
+   }
+  },
+  {
+   "word": "good luck",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌɡʊd ˈlʌk/",
+   "def_en": "Said to wish someone success.",
+   "def_vi": "Nói để chúc ai thành công.",
+   "gloss_vi": "chúc may mắn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Good luck</i> (phrase) = chúc may mắn. <b>Grammar</b>: <i>Good luck with your exam!</i>.",
+   "example": {
+    "en": "It’s your exam today, isn’t it? <b>Good luck</b>.",
+    "vi": "Hôm nay bạn thi phải không? <b>Chúc may mắn</b>."
+   }
+  },
+  {
+   "word": "thank goodness",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌθæŋk ˈɡʊdnəs/",
+   "def_en": "Said when you are happy that something bad did not happen.",
+   "def_vi": "Nói khi mừng vì điều xấu không xảy ra.",
+   "gloss_vi": "ơn trời",
+   "synonyms": "thank God <i>(phr. tạ ơn Chúa)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Thank goodness</i> (phrase) = ơn trời. <b>Grammar</b>: <i>Goodness!</i> = ngạc nhiên.",
+   "example": {
+    "en": "Sue found my wallet and my credit cards. – Oh, <b>thank goodness</b> for that.",
+    "vi": "Sue tìm được ví và thẻ tín dụng của tôi. – Ôi, <b>ơn trời</b>."
+   }
+  },
+  {
+   "word": "bless you",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˈbles juː/",
+   "def_en": "Said when someone sneezes.",
+   "def_vi": "Nói khi ai hắt hơi.",
+   "gloss_vi": "chúc sức khỏe (khi hắt hơi)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bless you</i> (phrase) = chúc sức khỏe (khi hắt hơi). <b>Grammar</b>: dùng khi ai hắt hơi.",
+   "example": {
+    "en": "Achoo! – <b>Bless you</b>.",
+    "vi": "Hắt xì! – <b>Chúc sức khỏe</b>."
+   }
+  },
+  {
+   "word": "congratulations",
+   "sense": "",
+   "pos": "exclamation",
+   "ipa": "/kənˌɡrætʃuˈleɪʃnz/",
+   "def_en": "Said when someone has done something well.",
+   "def_vi": "Nói khi ai làm được điều tốt.",
+   "gloss_vi": "chúc mừng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Congratulations</i> (exclamation) = chúc mừng. <b>Grammar</b>: luôn có <i>-s</i>; <i>congratulations on sth</i>.",
+   "example": {
+    "en": "I hear you passed your exam. <b>Congratulations</b>.",
+    "vi": "Nghe nói bạn thi đỗ rồi. <b>Chúc mừng</b> nhé."
+   }
+  }
+ ]
+}
