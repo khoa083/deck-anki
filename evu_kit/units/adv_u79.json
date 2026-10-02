@@ -1,0 +1,565 @@
+{
+ "book": "adv",
+ "unit": 79,
+ "title_vi": "Viết học thuật: lập luận cho rõ nghĩa",
+ "theory_html": "<p><b>A. Presenting arguments and commenting on others’ work</b><br><i>A. Trình bày lập luận, nhận xét công trình</i></p> <p><b>advocate, deduce, infer, complement, overlap</b>; describing work: <b>empirical, ambiguous, coherent, comprehensive, authoritative</b>.</p><p><i><b>ủng hộ, suy ra, suy luận, bổ sung, trùng lặp</b>; mô tả công trình: <b>thực nghiệm, mơ hồ, mạch lạc, toàn diện, có thẩm quyền</b>.</i></p> <p><b>B. Talking about figures and processes</b><br><i>B. Nói về số liệu và quá trình</i></p> <p><b>arbitrary, deviate from the norm, distort, incidence, predominant, in sequence, widespread</b>.</p><p><i><b>tùy tiện, chệch chuẩn, bóp méo, tỉ lệ mắc, chiếm ưu thế, theo trình tự, lan rộng</b>.</i></p> <p><b>C. Words typically used in academic contexts</b><br><i>C. Từ học thuật</i></p> <p>Verbs: <b>append</b> (add), <b>conceive</b> (think up), <b>contradict</b> (go against), <b>demonstrate/indicate</b> (show), <b>denote</b> (stand for), <b>negate</b> (make useless), <b>perceive</b> (see), <b>reflect upon</b> (think about), <b>reside</b> (lie, live), <b>trigger</b> (cause), <b>utilise</b> (use). Expressions: <b>an instance of, the converse, crucial, notwithstanding, somewhat, thereby, whereby</b>.</p><p><i>Động từ: <b>thêm vào, nghĩ ra, mâu thuẫn, chứng minh/cho thấy, biểu thị, vô hiệu hóa, nhận thấy, suy ngẫm, nằm ở, gây ra, sử dụng</b>. Cụm: <b>một ví dụ, điều ngược lại, then chốt, dù vậy, hơi, nhờ đó, qua đó</b>.</i></p>",
+ "items": [
+  {
+   "word": "advocate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈædvəkeɪt/",
+   "def_en": "To argue in favour of something.",
+   "def_vi": "Lập luận ủng hộ điều gì.",
+   "gloss_vi": "ủng hộ, chủ trương",
+   "synonyms": "support <i>(v. ủng hộ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Advocate</i> (verb) = ủng hộ, chủ trương. <b>Grammar</b>: động từ /-keɪt/, danh từ <i>advocate</i> /-kət/.",
+   "example": {
+    "en": "He <b>advocated</b> capital punishment.",
+    "vi": "Ông ấy <b>ủng hộ</b> án tử hình."
+   }
+  },
+  {
+   "word": "deduce",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪˈdjuːs/",
+   "def_en": "To reach a conclusion by thinking carefully about the known facts.",
+   "def_vi": "Rút ra kết luận bằng suy xét dữ kiện đã biết.",
+   "gloss_vi": "suy ra",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Deduce</i> (verb) = suy ra. <b>Grammar</b>: danh từ <i>deduction</i>.",
+   "example": {
+    "en": "see if you can <b>deduce</b> how the imperfect tense is used",
+    "vi": "Xem các câu này và thử <b>suy ra</b> cách dùng thì chưa hoàn thành."
+   }
+  },
+  {
+   "word": "infer",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪnˈfɜː(r)/",
+   "def_en": "To reach a conclusion indirectly.",
+   "def_vi": "Đi đến kết luận gián tiếp.",
+   "gloss_vi": "suy luận",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Infer</i> (verb) = suy luận. <b>Grammar</b>: danh từ <i>inference</i>; <i>infer – inferred</i>.",
+   "example": {
+    "en": "we can <b>infer</b> that results were slower to come than he had anticipated",
+    "vi": "Từ các ghi chép, ta có thể <b>suy luận</b> kết quả đến chậm hơn dự kiến."
+   }
+  },
+  {
+   "word": "complement",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈkɒmplɪment/",
+   "def_en": "To combine well with something so that each becomes more effective.",
+   "def_vi": "Kết hợp tốt khiến mỗi phần hiệu quả hơn.",
+   "gloss_vi": "bổ sung cho",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Complement</i> (verb) = bổ sung cho. <b>Grammar</b>: khác <i>compliment</i> (khen).",
+   "example": {
+    "en": "Elswick’s (2016) research <b>complements</b> that of Johnson (2012).",
+    "vi": "Nghiên cứu của Elswick (2016) <b>bổ sung cho</b> của Johnson (2012)."
+   }
+  },
+  {
+   "word": "overlap",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌəʊvəˈlæp/",
+   "def_en": "To partially cover the same material.",
+   "def_vi": "Bao trùm một phần cùng nội dung.",
+   "gloss_vi": "trùng lặp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Overlap</i> (verb) = trùng lặp. <b>Grammar</b>: danh từ /ˈəʊvəlæp/.",
+   "ex_kit": true,
+   "example": {
+    "en": "Her work <b>overlaps</b> with mine to some extent.",
+    "vi": "Công trình của cô ấy <b>trùng lặp</b> một phần với công trình của tôi."
+   }
+  },
+  {
+   "word": "empirical",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪmˈpɪrɪkl/",
+   "def_en": "Based on what is observed rather than theory.",
+   "def_vi": "Dựa vào quan sát hơn là lý thuyết.",
+   "gloss_vi": "thực nghiệm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "theoretical <i>(adj. lý thuyết)</i>",
+   "grammar_vi": "<i>Empirical</i> (adjective) = thực nghiệm. <b>Collocations / chunks</b>: <i>empirical evidence/data/research</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The study is based on <b>empirical</b> data.",
+    "vi": "Nghiên cứu dựa trên dữ liệu <b>thực nghiệm</b>."
+   }
+  },
+  {
+   "word": "ambiguous",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/æmˈbɪɡjuəs/",
+   "def_en": "Open to different interpretations.",
+   "def_vi": "Có thể hiểu theo nhiều cách.",
+   "gloss_vi": "mơ hồ, nước đôi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "clear <i>(adj. rõ ràng)</i>",
+   "grammar_vi": "<i>Ambiguous</i> (adjective) = mơ hồ, nước đôi. <b>Grammar</b>: danh từ <i>ambiguity</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The article’s conclusion is rather <b>ambiguous</b>.",
+    "vi": "Kết luận của bài báo khá <b>mơ hồ</b>."
+   }
+  },
+  {
+   "word": "coherent",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kəʊˈhɪərənt/",
+   "def_en": "Logically structured.",
+   "def_vi": "Có cấu trúc logic.",
+   "gloss_vi": "mạch lạc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "incoherent <i>(adj. rời rạc)</i>",
+   "grammar_vi": "<i>Coherent</i> (adjective) = mạch lạc. <b>Grammar</b>: danh từ <i>coherence</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "It is a <b>coherent</b> argument.",
+    "vi": "Đó là một lập luận <b>mạch lạc</b>."
+   }
+  },
+  {
+   "word": "comprehensive",
+   "sense": "covering all that is relevant",
+   "pos": "adjective",
+   "ipa": "/ˌkɒmprɪˈhensɪv/",
+   "def_en": "Covering all that is relevant.",
+   "def_vi": "Bao quát mọi điều liên quan.",
+   "gloss_vi": "toàn diện",
+   "synonyms": "thorough <i>(adj. kỹ lưỡng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Comprehensive</i> (adjective) = toàn diện. <b>Collocations / chunks</b>: <i>a comprehensive study/review</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "This is a <b>comprehensive</b> review of the subject.",
+    "vi": "Đây là bản tổng quan <b>toàn diện</b> về đề tài."
+   }
+  },
+  {
+   "word": "authoritative",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɔːˈθɒrətətɪv/",
+   "def_en": "Thorough and expert.",
+   "def_vi": "Kỹ lưỡng và chuyên sâu.",
+   "gloss_vi": "có thẩm quyền, đáng tin cậy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Authoritative</i> (adjective) = có thẩm quyền, đáng tin cậy. <b>Collocations / chunks</b>: <i>an authoritative study/source</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Her book is the <b>authoritative</b> work on the subject.",
+    "vi": "Cuốn sách của bà ấy là công trình <b>có thẩm quyền</b> về chủ đề này."
+   }
+  },
+  {
+   "word": "arbitrary",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɑːbɪtrəri/",
+   "def_en": "Based on chance or personal choice rather than a system or data.",
+   "def_vi": "Dựa trên ngẫu nhiên hay ý thích hơn là hệ thống, dữ liệu.",
+   "gloss_vi": "tùy tiện",
+   "synonyms": "random <i>(adj. ngẫu nhiên)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Arbitrary</i> (adjective) = tùy tiện. <b>Grammar</b>: trạng từ <i>arbitrarily</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "These figures seem <b>arbitrary</b>.",
+    "vi": "Các con số này có vẻ <b>tùy tiện</b>."
+   }
+  },
+  {
+   "word": "distort",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪˈstɔːt/",
+   "def_en": "To give a false impression.",
+   "def_vi": "Tạo ấn tượng sai.",
+   "gloss_vi": "bóp méo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Distort</i> (verb) = bóp méo. <b>Grammar</b>: danh từ <i>distortion</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Statistics can <b>distort</b> the picture.",
+    "vi": "Số liệu thống kê có thể <b>bóp méo</b> bức tranh."
+   }
+  },
+  {
+   "word": "incidence",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɪnsɪdəns/",
+   "def_en": "How often something, e.g. a disease, occurs.",
+   "def_vi": "Mức độ thường xuyên điều gì (vd bệnh) xảy ra.",
+   "gloss_vi": "tỉ lệ mắc, tần suất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Incidence</i> (noun) = tỉ lệ mắc, tần suất. <b>Collocations / chunks</b>: <i>the incidence of</i> + bệnh.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>incidence</b> of heart disease has fallen.",
+    "vi": "<b>Tỉ lệ mắc</b> bệnh tim đã giảm."
+   }
+  },
+  {
+   "word": "predominant",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/prɪˈdɒmɪnənt/",
+   "def_en": "Largest in number.",
+   "def_vi": "Lớn nhất về số lượng.",
+   "gloss_vi": "chiếm ưu thế",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Predominant</i> (adjective) = chiếm ưu thế. <b>Grammar</b>: trạng từ <i>predominantly</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Brown eyes are <b>predominant</b> in this region.",
+    "vi": "Mắt nâu là màu <b>chiếm ưu thế</b> ở vùng này."
+   }
+  },
+  {
+   "word": "in sequence",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ɪn ˈsiːkwəns/",
+   "def_en": "In a particular order.",
+   "def_vi": "Theo thứ tự nhất định.",
+   "gloss_vi": "theo trình tự",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In sequence</i> (adverb) = theo trình tự. <b>Collocations / chunks</b>: <i>in sequence</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The stages happen <b>in sequence</b>.",
+    "vi": "Các giai đoạn diễn ra <b>theo trình tự</b>."
+   }
+  },
+  {
+   "word": "widespread",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈwaɪdspred/",
+   "def_en": "Happening in many places or with many people.",
+   "def_vi": "Xảy ra ở nhiều nơi hay với nhiều người.",
+   "gloss_vi": "lan rộng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Widespread</i> (adjective) = lan rộng. <b>Collocations / chunks</b>: <i>widespread outbreaks/alarm</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "There have been <b>widespread</b> outbreaks of the illness.",
+    "vi": "Đã có những đợt bùng phát dịch <b>lan rộng</b>."
+   }
+  },
+  {
+   "word": "append",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈpend/",
+   "def_en": "To add (at the end).",
+   "def_vi": "Thêm vào (cuối).",
+   "gloss_vi": "thêm vào cuối",
+   "synonyms": "add <i>(v. thêm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Append</i> (verb) = thêm vào cuối. <b>Grammar</b>: danh từ <i>appendix</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "A list of references is <b>appended</b> to the report.",
+    "vi": "Danh sách tài liệu được <b>thêm vào cuối</b> báo cáo."
+   }
+  },
+  {
+   "word": "conceive",
+   "sense": "think up",
+   "pos": "verb",
+   "ipa": "/kənˈsiːv/",
+   "def_en": "To think up.",
+   "def_vi": "Nghĩ ra.",
+   "gloss_vi": "nghĩ ra, hình thành",
+   "synonyms": "think up <i>(v. nghĩ ra)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Conceive</i> (verb) = nghĩ ra, hình thành. <b>Grammar</b>: danh từ <i>concept, conception</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He <b>conceived</b> the idea while he was a student.",
+    "vi": "Ông ấy <b>nghĩ ra</b> ý tưởng khi còn là sinh viên."
+   }
+  },
+  {
+   "word": "contradict",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkɒntrəˈdɪkt/",
+   "def_en": "To go against.",
+   "def_vi": "Đi ngược lại.",
+   "gloss_vi": "mâu thuẫn với",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Contradict</i> (verb) = mâu thuẫn với. <b>Grammar</b>: danh từ <i>contradiction</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The new results <b>contradict</b> earlier studies.",
+    "vi": "Kết quả mới <b>mâu thuẫn với</b> các nghiên cứu trước."
+   }
+  },
+  {
+   "word": "demonstrate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈdemənstreɪt/",
+   "def_en": "To show.",
+   "def_vi": "Cho thấy.",
+   "gloss_vi": "chứng minh, cho thấy",
+   "synonyms": "indicate <i>(v. cho thấy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Demonstrate</i> (verb) = chứng minh, cho thấy. <b>Grammar</b>: danh từ <i>demonstration</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The study <b>demonstrates</b> a clear link.",
+    "vi": "Nghiên cứu <b>cho thấy</b> mối liên hệ rõ ràng."
+   }
+  },
+  {
+   "word": "denote",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪˈnəʊt/",
+   "def_en": "To be a sign of, stand for.",
+   "def_vi": "Là dấu hiệu, đại diện cho.",
+   "gloss_vi": "biểu thị",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Denote</i> (verb) = biểu thị. <b>Grammar</b>: trang trọng.",
+   "ex_kit": true,
+   "example": {
+    "en": "An asterisk <b>denotes</b> an informal form.",
+    "vi": "Dấu sao <b>biểu thị</b> dạng không trang trọng."
+   }
+  },
+  {
+   "word": "negate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/nɪˈɡeɪt/",
+   "def_en": "To make useless, wipe out.",
+   "def_vi": "Làm vô dụng, xóa bỏ.",
+   "gloss_vi": "vô hiệu hóa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Negate</i> (verb) = vô hiệu hóa. <b>Grammar</b>: danh từ <i>negation</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The high costs may <b>negate</b> the benefits.",
+    "vi": "Chi phí cao có thể <b>triệt tiêu</b> lợi ích."
+   }
+  },
+  {
+   "word": "reflect upon",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rɪˈflekt əˌpɒn/",
+   "def_en": "To think about.",
+   "def_vi": "Suy nghĩ về.",
+   "gloss_vi": "suy ngẫm về",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reflect upon</i> (verb) = suy ngẫm về. <b>Grammar</b>: trang trọng; cũng <i>reflect on</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We need to <b>reflect upon</b> these results.",
+    "vi": "Ta cần <b>suy ngẫm về</b> những kết quả này."
+   }
+  },
+  {
+   "word": "reside",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rɪˈzaɪd/",
+   "def_en": "To lie, live.",
+   "def_vi": "Nằm ở, sống ở.",
+   "gloss_vi": "nằm ở, cư trú",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reside</i> (verb) = nằm ở, cư trú. <b>Collocations / chunks</b>: <i>reside in</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The problem <b>resides</b> in the way the data were collected.",
+    "vi": "Vấn đề <b>nằm ở</b> cách thu thập dữ liệu."
+   }
+  },
+  {
+   "word": "trigger",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈtrɪɡə(r)/",
+   "def_en": "To cause.",
+   "def_vi": "Gây ra.",
+   "gloss_vi": "gây ra, châm ngòi",
+   "synonyms": "cause <i>(v. gây ra)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trigger</i> (verb) = gây ra, châm ngòi. <b>Grammar</b>: nghĩa gốc: cò súng.",
+   "ex_kit": true,
+   "example": {
+    "en": "Stress can <b>trigger</b> the illness.",
+    "vi": "Căng thẳng có thể <b>gây ra</b> bệnh."
+   }
+  },
+  {
+   "word": "utilise",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈjuːtəlaɪz/",
+   "def_en": "To use.",
+   "def_vi": "Dùng.",
+   "gloss_vi": "sử dụng",
+   "synonyms": "use <i>(v. dùng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Utilise</i> (verb) = sử dụng. <b>Grammar</b>: trang trọng; danh từ <i>utilisation</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The study <b>utilises</b> data from three countries.",
+    "vi": "Nghiên cứu <b>sử dụng</b> dữ liệu từ ba nước."
+   }
+  },
+  {
+   "word": "an instance of",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ən ˈɪnstəns əv/",
+   "def_en": "An example of something.",
+   "def_vi": "Một ví dụ về điều gì.",
+   "gloss_vi": "một trường hợp của",
+   "synonyms": "an example of <i>(n. một ví dụ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>An instance of</i> (noun) = một trường hợp của. <b>Collocations / chunks</b>: <i>for instance</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "This is <b>an instance of</b> bias.",
+    "vi": "Đây là <b>một trường hợp của</b> thiên kiến."
+   }
+  },
+  {
+   "word": "the converse",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ðə ˈkɒnvɜːs/",
+   "def_en": "The opposite.",
+   "def_vi": "Điều ngược lại.",
+   "gloss_vi": "điều ngược lại",
+   "synonyms": "the opposite <i>(n. điều ngược lại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The converse</i> (noun) = điều ngược lại. <b>Grammar</b>: trang trọng.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>The converse</b> is also true.",
+    "vi": "Điều <b>ngược lại</b> cũng đúng."
+   }
+  },
+  {
+   "word": "crucial",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈkruːʃl/",
+   "def_en": "Very important.",
+   "def_vi": "Rất quan trọng.",
+   "gloss_vi": "then chốt",
+   "synonyms": "vital <i>(adj. thiết yếu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Crucial</i> (adjective) = then chốt. <b>Collocations / chunks</b>: <i>crucial to/for</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "This is a <b>crucial</b> step in the experiment.",
+    "vi": "Đây là bước <b>then chốt</b> của thí nghiệm."
+   }
+  },
+  {
+   "word": "notwithstanding",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌnɒtwɪθˈstændɪŋ/",
+   "def_en": "Despite this.",
+   "def_vi": "Dù vậy.",
+   "gloss_vi": "dù vậy, bất chấp",
+   "synonyms": "nevertheless <i>(adv. tuy nhiên)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Notwithstanding</i> (adverb) = dù vậy, bất chấp. <b>Grammar</b>: cũng là giới từ <i>notwithstanding the cost</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "There are limitations; the study is valuable <b>notwithstanding</b>.",
+    "vi": "Có nhiều hạn chế; <b>dù vậy</b>, nghiên cứu vẫn có giá trị."
+   }
+  },
+  {
+   "word": "somewhat",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈsʌmwɒt/",
+   "def_en": "Rather.",
+   "def_vi": "Hơi.",
+   "gloss_vi": "hơi, phần nào",
+   "synonyms": "rather <i>(adv. hơi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Somewhat</i> (adverb) = hơi, phần nào. <b>Grammar</b>: trang trọng.",
+   "ex_kit": true,
+   "example": {
+    "en": "The results were <b>somewhat</b> surprising.",
+    "vi": "Kết quả <b>hơi</b> bất ngờ."
+   }
+  },
+  {
+   "word": "thereby",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌðeəˈbaɪ/",
+   "def_en": "In this way.",
+   "def_vi": "Bằng cách này.",
+   "gloss_vi": "nhờ đó",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Thereby</i> (adverb) = nhờ đó. <b>Grammar</b>: + V-ing.",
+   "ex_kit": true,
+   "example": {
+    "en": "They cut costs, <b>thereby</b> increasing profits.",
+    "vi": "Họ cắt chi phí, <b>nhờ đó</b> tăng lợi nhuận."
+   }
+  },
+  {
+   "word": "whereby",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/weəˈbaɪ/",
+   "def_en": "By which (method).",
+   "def_vi": "Qua đó (phương pháp).",
+   "gloss_vi": "qua đó",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Whereby</i> (adverb) = qua đó. <b>Grammar</b>: trang trọng, mở đầu mệnh đề quan hệ.",
+   "ex_kit": true,
+   "example": {
+    "en": "a system <b>whereby</b> students mark their own work",
+    "vi": "Một hệ thống <b>qua đó</b> sinh viên tự chấm bài."
+   }
+  }
+ ]
+}

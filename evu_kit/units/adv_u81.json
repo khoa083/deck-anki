@@ -1,0 +1,461 @@
+{
+ "book": "adv",
+ "unit": 81,
+ "title_vi": "Viết: văn phong và định dạng",
+ "theory_html": "<p><b>A. Aspects of writing</b><br><i>A. Các khía cạnh của việc viết</i></p> <p><b>scribble, chatty, jot down / make a note of, doodle, copy out, draft (n/v), write down, write up, manuscript</b>.</p><p><i><b>viết nguệch ngoạc, thân mật, ghi vội / ghi lại, vẽ vu vơ, chép lại, bản nháp / soạn nháp, ghi chép, viết hoàn chỉnh, bản thảo</b>.</i></p> <p><b>B. Type and print</b><br><i>B. Đánh máy và in ấn</i></p> <p><b>touch-type, typescript, run off, format, cut/copy and paste, characters, bold, italicised / in italics, shaded box, font / typeface, double inverted commas / quotation marks, single quotes, indented, asterisks, bullet (point)</b>; brackets: <b>round, diamond/angle, square, curly</b>; <b>capitals / upper case, small letters / lower case, block capitals, superscript</b>; book elements: <b>title, subtitle, chapter heading, sub-heading</b>.</p><p><i><b>đánh máy mười ngón, bản đánh máy, in ra, định dạng, cắt/sao chép và dán, ký tự, đậm, nghiêng, ô tô bóng, phông chữ, ngoặc kép, ngoặc đơn, thụt đầu dòng, dấu sao, dấu đầu dòng; ngoặc tròn, nhọn, vuông, nhọn cong; chữ hoa, chữ thường, chữ in hoa, chỉ số trên; tiêu đề, phụ đề, tên chương, tiêu đề phụ</b>.</i></p>",
+ "items": [
+  {
+   "word": "scribble",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈskrɪbl/",
+   "def_en": "To write quickly, without much care.",
+   "def_vi": "Viết nhanh, không cẩn thận.",
+   "gloss_vi": "viết vội, viết nguệch ngoạc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Scribble</i> (verb) = viết vội, viết nguệch ngoạc. <b>Grammar</b>: cũng là danh từ <i>a scribble</i>.",
+   "example": {
+    "en": "If you’re in a hurry, you can <b>scribble</b> a note to someone.",
+    "vi": "Nếu vội, bạn có thể <b>viết vội</b> một mẩu ghi chú."
+   }
+  },
+  {
+   "word": "chatty",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈtʃæti/",
+   "def_en": "(Of writing) informal.",
+   "def_vi": "(Văn viết) thân mật.",
+   "gloss_vi": "thân mật, tán gẫu",
+   "synonyms": "informal <i>(adj. thân mật)</i>",
+   "antonyms": "formal <i>(adj. trang trọng)</i>",
+   "grammar_vi": "<i>Chatty</i> (adjective) = thân mật, tán gẫu. <b>Collocations / chunks</b>: <i>a chatty style/letter</i>.",
+   "example": {
+    "en": "A note is likely to be in a more <b>chatty</b> style than, say, a business letter.",
+    "vi": "Ghi chú thường có văn phong <b>thân mật</b> hơn thư công việc."
+   }
+  },
+  {
+   "word": "jot down",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌdʒɒt ˈdaʊn/",
+   "def_en": "To write something down to remember it (informal).",
+   "def_vi": "Ghi lại để nhớ (thân mật).",
+   "gloss_vi": "ghi vội",
+   "synonyms": "make a note of <i>(v. ghi lại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Jot down</i> (verb) = ghi vội. <b>Grammar</b>: cụm động từ tách được <i>jot sth down</i>.",
+   "example": {
+    "en": "I’ll just <b>jot down</b> your phone number before I forget it.",
+    "vi": "Để tôi <b>ghi vội</b> số điện thoại của bạn kẻo quên."
+   }
+  },
+  {
+   "word": "make a note of",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌmeɪk ə ˈnəʊt əv/",
+   "def_en": "To write something down to remember it (more formal).",
+   "def_vi": "Ghi lại để nhớ (trang trọng hơn).",
+   "gloss_vi": "ghi lại",
+   "synonyms": "jot down <i>(v. ghi vội)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Make a note of</i> (verb) = ghi lại. <b>Collocations / chunks</b>: trang trọng hơn <i>jot down</i>.",
+   "example": {
+    "en": "I’ll just <b>make a note of</b> your phone number before I forget it.",
+    "vi": "Để tôi <b>ghi lại</b> số điện thoại của bạn kẻo quên."
+   }
+  },
+  {
+   "word": "doodle",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈduːdl/",
+   "def_en": "To draw and write irrelevant things on the paper in front of you.",
+   "def_vi": "Vẽ viết linh tinh lên giấy trước mặt.",
+   "gloss_vi": "vẽ vu vơ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Doodle</i> (verb) = vẽ vu vơ. <b>Grammar</b>: cũng là danh từ <i>a doodle</i>.",
+   "example": {
+    "en": "She got so bored at the meeting she spent the whole time <b>doodling</b>.",
+    "vi": "Cô ấy chán đến mức cả buổi họp chỉ <b>vẽ vu vơ</b>."
+   }
+  },
+  {
+   "word": "copy out",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkɒpi ˈaʊt/",
+   "def_en": "To copy in writing.",
+   "def_vi": "Chép tay lại.",
+   "gloss_vi": "chép lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Copy out</i> (verb) = chép lại. <b>Grammar</b>: cụm động từ tách được <i>copy sth out</i>.",
+   "example": {
+    "en": "I’ll <b>copy out</b> the information on hotels for you.",
+    "vi": "Tôi sẽ <b>chép lại</b> thông tin khách sạn cho bạn."
+   }
+  },
+  {
+   "word": "draft",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/drɑːft/",
+   "def_en": "To make a first attempt at writing something.",
+   "def_vi": "Viết thử lần đầu.",
+   "gloss_vi": "soạn nháp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Draft</i> (verb) = soạn nháp. <b>Grammar</b>: danh từ <i>the first draft of an essay</i>.",
+   "example": {
+    "en": "I’m just <b>drafting</b> an application letter for that job I told you about.",
+    "vi": "Tôi đang <b>soạn nháp</b> thư xin việc."
+   }
+  },
+  {
+   "word": "write down",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌraɪt ˈdaʊn/",
+   "def_en": "To copy in writing what is spoken.",
+   "def_vi": "Ghi lại bằng chữ điều được nói.",
+   "gloss_vi": "ghi chép lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Write down</i> (verb) = ghi chép lại. <b>Grammar</b>: cụm động từ tách được <i>write sth down</i>.",
+   "example": {
+    "en": "Some students <b>write down</b> everything the lecturer says.",
+    "vi": "Vài sinh viên <b>ghi lại</b> mọi điều giảng viên nói."
+   }
+  },
+  {
+   "word": "manuscript",
+   "sense": "author’s original version",
+   "pos": "noun",
+   "ipa": "/ˈmænjuskrɪpt/",
+   "def_en": "The original version produced by the author.",
+   "def_vi": "Bản gốc do tác giả viết.",
+   "gloss_vi": "bản thảo gốc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Manuscript</i> (noun) = bản thảo gốc. <b>Grammar</b>: viết tắt <i>MS</i>.",
+   "example": {
+    "en": "She bought the <b>manuscript</b> of a famous poem at the sale.",
+    "vi": "Cô ấy mua <b>bản thảo gốc</b> một bài thơ nổi tiếng."
+   }
+  },
+  {
+   "word": "touch-type",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈtʌtʃ taɪp/",
+   "def_en": "To type using all your fingers without looking at the keyboard.",
+   "def_vi": "Gõ bằng mười ngón không nhìn bàn phím.",
+   "gloss_vi": "đánh máy mười ngón",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Touch-type</i> (verb) = đánh máy mười ngón. <b>Grammar</b>: động từ ghép <i>touch</i> + <i>type</i>.",
+   "example": {
+    "en": "Learning to <b>touch-type</b> was one of the most useful things I’ve ever done.",
+    "vi": "Học <b>đánh máy mười ngón</b> là điều hữu ích nhất tôi từng làm."
+   }
+  },
+  {
+   "word": "typescript",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtaɪpskrɪpt/",
+   "def_en": "An author’s text that has not yet been published.",
+   "def_vi": "Bản văn của tác giả chưa xuất bản.",
+   "gloss_vi": "bản đánh máy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Typescript</i> (noun) = bản đánh máy. <b>Grammar</b>: danh từ ghép <i>type</i> + <i>script</i>.",
+   "example": {
+    "en": "I’ll email the <b>typescript</b> to the publisher tomorrow.",
+    "vi": "Mai tôi sẽ gửi <b>bản đánh máy</b> cho nhà xuất bản."
+   }
+  },
+  {
+   "word": "run off",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌrʌn ˈɒf/",
+   "def_en": "To print out.",
+   "def_vi": "In ra.",
+   "gloss_vi": "in ra",
+   "synonyms": "print out <i>(v. in ra)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Run off</i> (verb) = in ra. <b>Grammar</b>: cụm động từ tách được <i>run sb off a copy</i>.",
+   "example": {
+    "en": "I’ll <b>run</b> you <b>off</b> a copy at the same time.",
+    "vi": "Tôi sẽ <b>in</b> cho bạn một bản cùng lúc."
+   }
+  },
+  {
+   "word": "format",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈfɔːmæt/",
+   "def_en": "To create the page as it will appear when printed.",
+   "def_vi": "Tạo trang như khi in ra.",
+   "gloss_vi": "định dạng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Format</i> (verb) = định dạng. <b>Grammar</b>: <i>format – formatted</i>.",
+   "example": {
+    "en": "I want to <b>format</b> it properly before printing it.",
+    "vi": "Tôi muốn <b>định dạng</b> văn bản đúng cách trước khi in."
+   }
+  },
+  {
+   "word": "cut and paste",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkʌt ən ˈpeɪst/",
+   "def_en": "To move text from one place to another electronically.",
+   "def_vi": "Chuyển văn bản từ chỗ này sang chỗ khác trên máy.",
+   "gloss_vi": "cắt và dán",
+   "synonyms": "copy and paste <i>(v. sao chép và dán)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cut and paste</i> (verb) = cắt và dán. <b>Collocations / chunks</b>: cũng <i>copy and paste</i>.",
+   "example": {
+    "en": "I usually <b>cut and paste</b> or copy and paste bits of material from my notes when I’m writing an essay",
+    "vi": "Tôi thường <b>cắt và dán</b> đoạn ghi chú khi viết luận."
+   }
+  },
+  {
+   "word": "italicised",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪˈtælɪsaɪzd/",
+   "def_en": "In italics.",
+   "def_vi": "In nghiêng.",
+   "gloss_vi": "in nghiêng",
+   "synonyms": "in italics <i>(adj. in nghiêng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Italicised</i> (adjective) = in nghiêng. <b>Grammar</b>: danh từ <i>italics</i>.",
+   "example": {
+    "en": "these words are <b>italicised</b> / in italics",
+    "vi": "Những từ này được <b>in nghiêng</b>."
+   }
+  },
+  {
+   "word": "shaded box",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌʃeɪdɪd ˈbɒks/",
+   "def_en": "A box with a coloured or grey background.",
+   "def_vi": "Ô có nền màu hay xám.",
+   "gloss_vi": "ô tô bóng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shaded box</i> (noun) = ô tô bóng. <b>Collocations / chunks</b>: cụm danh từ cố định.",
+   "example": {
+    "en": "These words are in a <b>shaded box</b>.",
+    "vi": "Những từ này nằm trong <b>ô tô bóng</b>."
+   }
+  },
+  {
+   "word": "font",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/fɒnt/",
+   "def_en": "A particular design and size of letters.",
+   "def_vi": "Kiểu dáng, cỡ chữ.",
+   "gloss_vi": "phông chữ",
+   "synonyms": "typeface <i>(n. kiểu chữ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Font</i> (noun) = phông chữ. <b>Collocations / chunks</b>: <i>font size</i>.",
+   "example": {
+    "en": "these words are in a different <b>font</b> size from the rest",
+    "vi": "Những từ này có cỡ <b>phông chữ</b> khác phần còn lại."
+   }
+  },
+  {
+   "word": "inverted commas",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˌvɜːtɪd ˈkɒməz/",
+   "def_en": "Quotation marks.",
+   "def_vi": "Dấu ngoặc kép.",
+   "gloss_vi": "dấu ngoặc kép",
+   "synonyms": "quotation marks <i>(n. dấu ngoặc kép)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Inverted commas</i> (noun) = dấu ngoặc kép. <b>Collocations / chunks</b>: <i>double/single inverted commas</i>.",
+   "example": {
+    "en": "This sentence is in double <b>inverted commas</b>.",
+    "vi": "Câu này nằm trong <b>dấu ngoặc kép</b>."
+   }
+  },
+  {
+   "word": "indented",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪnˈdentɪd/",
+   "def_en": "Beginning away from the normal margin.",
+   "def_vi": "Bắt đầu lùi vào so với lề.",
+   "gloss_vi": "thụt đầu dòng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Indented</i> (adjective) = thụt đầu dòng. <b>Grammar</b>: động từ <i>indent</i>.",
+   "example": {
+    "en": "This sentence <b>is indented</b>.",
+    "vi": "Câu này được <b>thụt đầu dòng</b>."
+   }
+  },
+  {
+   "word": "asterisk",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈæstərɪsk/",
+   "def_en": "The symbol *.",
+   "def_vi": "Ký hiệu *.",
+   "gloss_vi": "dấu sao",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Asterisk</i> (noun) = dấu sao. <b>Grammar</b>: phát âm /-rɪsk/, không /-rɪks/.",
+   "example": {
+    "en": "This sentence has two <b>asterisks</b> in front of it.",
+    "vi": "Câu này có hai <b>dấu sao</b> phía trước."
+   }
+  },
+  {
+   "word": "bullet point",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbʊlɪt pɔɪnt/",
+   "def_en": "The symbol • placed before an item in a list.",
+   "def_vi": "Ký hiệu • trước mục danh sách.",
+   "gloss_vi": "dấu đầu dòng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bullet point</i> (noun) = dấu đầu dòng. <b>Collocations / chunks</b>: cũng <i>bullet</i>.",
+   "example": {
+    "en": "This sentence has a <b>bullet</b> (point) in front of it.",
+    "vi": "Câu này có <b>dấu đầu dòng</b> phía trước."
+   }
+  },
+  {
+   "word": "square brackets",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌskweə ˈbrækɪts/",
+   "def_en": "The symbols [ ].",
+   "def_vi": "Ký hiệu [ ].",
+   "gloss_vi": "ngoặc vuông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Square brackets</i> (noun) = ngoặc vuông. <b>Collocations / chunks</b>: <i>round / diamond (angle) / square / curly brackets</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The notes are in <b>square brackets</b>.",
+    "vi": "Ghi chú nằm trong <b>ngoặc vuông</b>."
+   }
+  },
+  {
+   "word": "curly brackets",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkɜːli ˈbrækɪts/",
+   "def_en": "The symbols { }.",
+   "def_vi": "Ký hiệu { }.",
+   "gloss_vi": "ngoặc nhọn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Curly brackets</i> (noun) = ngoặc nhọn. <b>Collocations / chunks</b>: Mỹ: <i>braces</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "This code is inside <b>curly brackets</b>.",
+    "vi": "Đoạn mã này nằm trong <b>ngoặc nhọn</b>."
+   }
+  },
+  {
+   "word": "upper case",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌʌpə ˈkeɪs/",
+   "def_en": "Capitals (more technical).",
+   "def_vi": "Chữ hoa (kỹ thuật hơn).",
+   "gloss_vi": "chữ hoa",
+   "synonyms": "capitals <i>(n. chữ hoa)</i>",
+   "antonyms": "lower case <i>(n. chữ thường)</i>",
+   "grammar_vi": "<i>Upper case</i> (noun) = chữ hoa. <b>Collocations / chunks</b>: <i>upper case</i> ↔ <i>lower case</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The password must contain at least one <b>upper case</b> letter.",
+    "vi": "Mật khẩu phải có ít nhất một ký tự <b>chữ hoa</b>."
+   }
+  },
+  {
+   "word": "lower case",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌləʊə ˈkeɪs/",
+   "def_en": "Small letters (more technical).",
+   "def_vi": "Chữ thường (kỹ thuật hơn).",
+   "gloss_vi": "chữ thường",
+   "synonyms": "small letters <i>(n. chữ thường)</i>",
+   "antonyms": "upper case <i>(n. chữ hoa)</i>",
+   "grammar_vi": "<i>Lower case</i> (noun) = chữ thường. <b>Collocations / chunks</b>: <i>lower case</i> ↔ <i>upper case</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "File names are written in <b>lower case</b>.",
+    "vi": "Tên tệp viết bằng <b>chữ thường</b>."
+   }
+  },
+  {
+   "word": "block capitals",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌblɒk ˈkæpɪtlz/",
+   "def_en": "Separate capital letters, as in MONICA KEEBLE.",
+   "def_vi": "Chữ in hoa tách rời, như MONICA KEEBLE.",
+   "gloss_vi": "chữ in hoa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Block capitals</i> (noun) = chữ in hoa. <b>Collocations / chunks</b>: <i>write in block capitals</i>.",
+   "example": {
+    "en": "This person has written her name in <b>block capitals</b>",
+    "vi": "Cô ấy viết tên bằng <b>chữ in hoa</b>."
+   }
+  },
+  {
+   "word": "superscript",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsuːpəskrɪpt/",
+   "def_en": "Writing above the normal line.",
+   "def_vi": "Chữ viết cao hơn dòng thường.",
+   "gloss_vi": "chỉ số trên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "subscript <i>(n. chỉ số dưới)</i>",
+   "grammar_vi": "<i>Superscript</i> (noun) = chỉ số trên. <b>Grammar</b>: tiền tố <i>super-</i> (trên).",
+   "example": {
+    "en": "The numbers on the extract are in <b>superscript</b>.",
+    "vi": "Các con số trong trích đoạn được viết <b>chỉ số trên</b>."
+   }
+  },
+  {
+   "word": "sub-heading",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsʌb ˌhedɪŋ/",
+   "def_en": "A heading within a chapter.",
+   "def_vi": "Tiêu đề trong một chương.",
+   "gloss_vi": "tiêu đề phụ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sub-heading</i> (noun) = tiêu đề phụ. <b>Grammar</b>: tiền tố <i>sub-</i> + <i>heading</i>; <i>chapter heading</i> = tên chương.",
+   "ex_kit": true,
+   "example": {
+    "en": "Each chapter has several <b>sub-headings</b>.",
+    "vi": "Mỗi chương có vài <b>tiêu đề phụ</b>."
+   }
+  }
+ ]
+}

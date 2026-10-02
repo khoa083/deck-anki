@@ -1,0 +1,408 @@
+{
+ "book": "adv",
+ "unit": 80,
+ "title_vi": "Viết học thuật: cấu trúc văn bản",
+ "theory_html": "<p><b>A. Explaining, reinforcing, exemplifying</b><br><i>A. Giải thích, củng cố, minh họa</i></p> <p><b>reiterate, summarise, epitomise, assert, expound, underscore, posit, account for</b>.</p><p><i><b>nhắc lại, tóm tắt, là ví dụ điển hình, khẳng định, trình bày, nhấn mạnh, đặt giả thuyết, giải thích</b>.</i></p> <p><b>B. Categorising and including</b><br><i>B. Phân loại và bao gồm</i></p> <p><b>comprise / make up, be comprised of, subsume, embrace, categorise</b>. Common mistake: <b>consist of</b> (NOT consist on/in, consists five).</p><p><i><b>chiếm, gồm có, gộp vào, bao quát, phân loại</b>. Lưu ý: <b>consist of</b>.</i></p> <p><b>C. Structuring the text</b><br><i>C. Cấu trúc bài viết</i></p> <p><b>preface, return to, bring me/us to, address, in ascending/descending order, cite, allude to, touch upon</b> (include briefly), <b>deal with, beyond the scope of, be forced to conclude</b>.</p><p><i><b>mở đầu bằng, quay lại, dẫn đến, đề cập, theo thứ tự tăng/giảm, trích dẫn, ám chỉ, lướt qua, giải quyết, vượt ngoài phạm vi, buộc phải kết luận</b>.</i></p>",
+ "items": [
+  {
+   "word": "reiterate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/riˈɪtəreɪt/",
+   "def_en": "To repeat, restate.",
+   "def_vi": "Nhắc lại, khẳng định lại.",
+   "gloss_vi": "nhắc lại",
+   "synonyms": "restate <i>(v. nói lại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reiterate</i> (verb) = nhắc lại. <b>Grammar</b>: danh từ <i>reiteration</i>.",
+   "example": {
+    "en": "The Prime Minister <b>reiterated</b> her concern that the debate should not be dominated by personal attacks.",
+    "vi": "Thủ tướng <b>nhắc lại</b> mối lo rằng tranh luận không nên bị chi phối bởi công kích cá nhân."
+   }
+  },
+  {
+   "word": "summarise",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈsʌməraɪz/",
+   "def_en": "To describe briefly the main facts or ideas.",
+   "def_vi": "Mô tả ngắn gọn ý chính.",
+   "gloss_vi": "tóm tắt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Summarise</i> (verb) = tóm tắt. <b>Grammar</b>: danh từ <i>summary</i>.",
+   "example": {
+    "en": "She <b>summarised</b> the new policy as being progressive and radical",
+    "vi": "Bà ấy <b>tóm tắt</b> chính sách mới là tiến bộ và cấp tiến."
+   }
+  },
+  {
+   "word": "epitomise",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪˈpɪtəmaɪz/",
+   "def_en": "To be a perfect example of.",
+   "def_vi": "Là ví dụ hoàn hảo của.",
+   "gloss_vi": "tiêu biểu cho",
+   "synonyms": "typify <i>(v. điển hình cho)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Epitomise</i> (verb) = tiêu biểu cho. <b>Grammar</b>: danh từ <i>epitome</i> /ɪˈpɪtəmi/.",
+   "example": {
+    "en": "Peter Burnett’s comments <b>epitomise</b> the attitude of many parents nowadays",
+    "vi": "Lời bình của Peter Burnett <b>tiêu biểu cho</b> thái độ của nhiều phụ huynh."
+   }
+  },
+  {
+   "word": "assert",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈsɜːt/",
+   "def_en": "To say that something is certainly true.",
+   "def_vi": "Nói điều gì chắc chắn đúng.",
+   "gloss_vi": "khẳng định",
+   "synonyms": "claim <i>(v. cho rằng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Assert</i> (verb) = khẳng định. <b>Grammar</b>: danh từ <i>assertion</i>.",
+   "example": {
+    "en": "in <b>asserting</b> that schools are to blame for anti-social behaviour among children",
+    "vi": "Họ <b>khẳng định</b> rằng nhà trường phải chịu trách nhiệm."
+   }
+  },
+  {
+   "word": "expound",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪkˈspaʊnd/",
+   "def_en": "To develop, propose (an idea or theory).",
+   "def_vi": "Phát triển, đề xuất (ý tưởng, lý thuyết).",
+   "gloss_vi": "trình bày, giảng giải",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Expound</i> (verb) = trình bày, giảng giải. <b>Grammar</b>: trang trọng.",
+   "example": {
+    "en": "It was a philosophy first <b>expounded</b> by John Ruskin in the 19th century.",
+    "vi": "Đó là triết lý lần đầu được John Ruskin <b>trình bày</b>."
+   }
+  },
+  {
+   "word": "underscore",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌʌndəˈskɔː(r)/",
+   "def_en": "To emphasise.",
+   "def_vi": "Nhấn mạnh.",
+   "gloss_vi": "nhấn mạnh",
+   "synonyms": "emphasise <i>(v. nhấn mạnh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Underscore</i> (verb) = nhấn mạnh. <b>Grammar</b>: nghĩa gốc: gạch dưới.",
+   "example": {
+    "en": "The recent events <b>underscore</b> the need for a better understanding of the environmental impact of biotechnology.",
+    "vi": "Các sự kiện gần đây <b>nhấn mạnh</b> nhu cầu hiểu rõ hơn tác động môi trường."
+   }
+  },
+  {
+   "word": "posit",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈpɒzɪt/",
+   "def_en": "To suggest as a basic fact or principle.",
+   "def_vi": "Đưa ra như sự thật hay nguyên tắc cơ bản.",
+   "gloss_vi": "đặt giả thuyết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Posit</i> (verb) = đặt giả thuyết. <b>Grammar</b>: trang trọng.",
+   "example": {
+    "en": "Several scientists have <b>posited</b> a link between climate change and bird migration patterns",
+    "vi": "Vài nhà khoa học <b>đặt giả thuyết</b> về mối liên hệ giữa biến đổi khí hậu và di cư của chim."
+   }
+  },
+  {
+   "word": "account for",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈkaʊnt fə(r)/",
+   "def_en": "To explain, find the cause of.",
+   "def_vi": "Giải thích, tìm nguyên nhân.",
+   "gloss_vi": "giải thích",
+   "synonyms": "explain <i>(v. giải thích)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Account for</i> (verb) = giải thích. <b>Grammar</b>: cụm động từ không tách.",
+   "example": {
+    "en": "In an attempt to <b>account for</b> the lack of interest, political analysts have looked at past voting patterns.",
+    "vi": "Để <b>giải thích</b> sự thiếu quan tâm, các nhà phân tích xem xét mô hình bầu cử."
+   }
+  },
+  {
+   "word": "comprise",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kəmˈpraɪz/",
+   "def_en": "To consist of; to make up.",
+   "def_vi": "Gồm; chiếm.",
+   "gloss_vi": "chiếm; gồm có",
+   "synonyms": "make up <i>(v. chiếm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Comprise</i> (verb) = chiếm; gồm có. <b>Grammar</b>: <i>be comprised of</i> = gồm.",
+   "example": {
+    "en": "Chinese visitors <b>comprised</b> 70% of the hotel’s guests last year.",
+    "vi": "Khách Trung Quốc <b>chiếm</b> 70% khách khách sạn năm ngoái."
+   }
+  },
+  {
+   "word": "make up",
+   "sense": "form a proportion",
+   "pos": "verb",
+   "ipa": "/ˌmeɪk ˈʌp/",
+   "def_en": "To form a particular part of something.",
+   "def_vi": "Tạo thành một phần.",
+   "gloss_vi": "chiếm",
+   "synonyms": "comprise <i>(v. chiếm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Make up</i> (verb) = chiếm. <b>Grammar</b>: cụm động từ <i>make up</i> + tỉ lệ.",
+   "example": {
+    "en": "Chinese visitors <b>made up</b> 70% of the hotel’s guests last year.",
+    "vi": "Khách Trung Quốc <b>chiếm</b> 70% khách khách sạn năm ngoái."
+   }
+  },
+  {
+   "word": "be comprised of",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/bi kəmˈpraɪzd əv/",
+   "def_en": "To be composed of.",
+   "def_vi": "Được cấu thành từ.",
+   "gloss_vi": "gồm có",
+   "synonyms": "consist of <i>(v. gồm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be comprised of</i> (verb) = gồm có. <b>Grammar</b>: bị động <i>be comprised of</i>.",
+   "example": {
+    "en": "The course <b>is comprised of</b> two elements: reading and writing.",
+    "vi": "Khóa học <b>gồm có</b> hai phần: đọc và viết."
+   }
+  },
+  {
+   "word": "subsume",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/səbˈsjuːm/",
+   "def_en": "To bring together, unite under one heading.",
+   "def_vi": "Gộp chung dưới một đề mục.",
+   "gloss_vi": "gộp vào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Subsume</i> (verb) = gộp vào. <b>Grammar</b>: trang trọng; thường bị động.",
+   "example": {
+    "en": "These two approaches can be <b>subsumed</b> under one heading.",
+    "vi": "Hai cách tiếp cận này có thể <b>gộp</b> dưới một đề mục."
+   }
+  },
+  {
+   "word": "embrace",
+   "sense": "include",
+   "pos": "verb",
+   "ipa": "/ɪmˈbreɪs/",
+   "def_en": "To cover, include.",
+   "def_vi": "Bao gồm.",
+   "gloss_vi": "bao quát",
+   "synonyms": "include <i>(v. bao gồm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Embrace</i> (verb) = bao quát. <b>Grammar</b>: nghĩa gốc: ôm.",
+   "example": {
+    "en": "The book <b>embraces</b> a number of issues, from economic to religious ones.",
+    "vi": "Cuốn sách <b>bao quát</b> nhiều vấn đề, từ kinh tế đến tôn giáo."
+   }
+  },
+  {
+   "word": "categorise",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈkætəɡəraɪz/",
+   "def_en": "To label as belonging to a particular type or class.",
+   "def_vi": "Xếp vào loại nhất định.",
+   "gloss_vi": "phân loại",
+   "synonyms": "classify <i>(v. phân loại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Categorise</i> (verb) = phân loại. <b>Grammar</b>: danh từ <i>category</i>.",
+   "example": {
+    "en": "Her philosophy is difficult to <b>categorise</b>.",
+    "vi": "Triết lý của bà ấy khó <b>phân loại</b>."
+   }
+  },
+  {
+   "word": "consist of",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kənˈsɪst əv/",
+   "def_en": "To be made up of.",
+   "def_vi": "Được tạo thành từ.",
+   "gloss_vi": "gồm có",
+   "synonyms": "comprise <i>(v. gồm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Consist of</i> (verb) = gồm có. <b>Grammar</b>: luôn <i>of</i>; không <i>consist on/in</i>, không bị động.",
+   "example": {
+    "en": "The country <b>consists of</b> five major regions",
+    "vi": "Đất nước <b>gồm</b> năm vùng chính."
+   }
+  },
+  {
+   "word": "preface",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈprefəs/",
+   "def_en": "To begin a text with something.",
+   "def_vi": "Mở đầu văn bản bằng điều gì.",
+   "gloss_vi": "mở đầu bằng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Preface</i> (verb) = mở đầu bằng. <b>Collocations / chunks</b>: <i>preface sth with sth</i>; cũng là danh từ = lời tựa.",
+   "example": {
+    "en": "I should like to <b>preface</b> my argument with a true story.",
+    "vi": "Tôi muốn <b>mở đầu</b> lập luận <b>bằng</b> một câu chuyện có thật."
+   }
+  },
+  {
+   "word": "bring us to",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌbrɪŋ əs tə/",
+   "def_en": "To lead to (the next point).",
+   "def_vi": "Dẫn đến (ý tiếp theo).",
+   "gloss_vi": "dẫn chúng ta đến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bring us to</i> (verb) = dẫn chúng ta đến. <b>Collocations / chunks</b>: <i>this brings me/us to</i>.",
+   "example": {
+    "en": "This <b>brings us to</b> my next area of discussion, which is finance.",
+    "vi": "Điều này <b>dẫn chúng ta đến</b> phần thảo luận tiếp theo là tài chính."
+   }
+  },
+  {
+   "word": "address",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈdres/",
+   "def_en": "To deal with (a question or problem).",
+   "def_vi": "Giải quyết (câu hỏi, vấn đề).",
+   "gloss_vi": "đề cập, giải quyết",
+   "synonyms": "tackle <i>(v. giải quyết)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Address</i> (verb) = đề cập, giải quyết. <b>Collocations / chunks</b>: <i>address a question/issue</i>.",
+   "example": {
+    "en": "I should now like to <b>address</b> the question of the arms race.",
+    "vi": "Giờ tôi muốn <b>đề cập</b> vấn đề chạy đua vũ trang."
+   }
+  },
+  {
+   "word": "in ascending order",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ɪn əˌsendɪŋ ˈɔːdə(r)/",
+   "def_en": "From least to most (important, large, etc.).",
+   "def_vi": "Từ thấp đến cao.",
+   "gloss_vi": "theo thứ tự tăng dần",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "in descending order <i>(adv. theo thứ tự giảm dần)</i>",
+   "grammar_vi": "<i>In ascending order</i> (adverb) = theo thứ tự tăng dần. <b>Collocations / chunks</b>: <i>in ascending/descending order of</i>.",
+   "example": {
+    "en": "The arguments are presented <b>in ascending order</b> of importance.",
+    "vi": "Các lập luận được trình bày <b>theo thứ tự tăng dần</b> mức quan trọng."
+   }
+  },
+  {
+   "word": "cite",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/saɪt/",
+   "def_en": "To quote or refer to.",
+   "def_vi": "Trích dẫn.",
+   "gloss_vi": "trích dẫn",
+   "synonyms": "quote <i>(v. trích dẫn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cite</i> (verb) = trích dẫn. <b>Grammar</b>: danh từ <i>citation</i>; khác <i>site, sight</i>.",
+   "example": {
+    "en": "The ideas of several writers will be <b>cited</b> in support of the argument.",
+    "vi": "Ý tưởng của vài tác giả sẽ được <b>trích dẫn</b> để ủng hộ lập luận."
+   }
+  },
+  {
+   "word": "allude to",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈluːd tə/",
+   "def_en": "To refer to indirectly.",
+   "def_vi": "Nhắc đến gián tiếp.",
+   "gloss_vi": "ám chỉ, nhắc đến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Allude to</i> (verb) = ám chỉ, nhắc đến. <b>Grammar</b>: danh từ <i>allusion</i>.",
+   "example": {
+    "en": "The text <b>alludes to</b> several themes that need closer examination.",
+    "vi": "Văn bản <b>ám chỉ</b> vài chủ đề cần xem xét kỹ."
+   }
+  },
+  {
+   "word": "touch upon",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈtʌtʃ əˌpɒn/",
+   "def_en": "To include something only briefly.",
+   "def_vi": "Chỉ đề cập ngắn gọn.",
+   "gloss_vi": "lướt qua",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Touch upon</i> (verb) = lướt qua. <b>Collocations / chunks</b>: cũng <i>touch on</i>.",
+   "example": {
+    "en": "There will only be space to <b>touch upon</b> the big question of political responsibility.",
+    "vi": "Chỉ có chỗ <b>lướt qua</b> câu hỏi lớn về trách nhiệm chính trị."
+   }
+  },
+  {
+   "word": "deal with",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈdiːl wɪð/",
+   "def_en": "To discuss or handle (a topic).",
+   "def_vi": "Bàn hay xử lý (chủ đề).",
+   "gloss_vi": "bàn về, giải quyết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Deal with</i> (verb) = bàn về, giải quyết. <b>Grammar</b>: bất quy tắc <i>deal – dealt</i>.",
+   "example": {
+    "en": "It is impossible to <b>deal with</b> all the issues in this short essay.",
+    "vi": "Không thể <b>bàn</b> mọi vấn đề trong bài luận ngắn này."
+   }
+  },
+  {
+   "word": "beyond the scope of",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/bɪˌjɒnd ðə ˈskəʊp əv/",
+   "def_en": "Outside the range covered by.",
+   "def_vi": "Ngoài phạm vi.",
+   "gloss_vi": "vượt ngoài phạm vi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Beyond the scope of</i> (preposition) = vượt ngoài phạm vi. <b>Collocations / chunks</b>: <i>beyond the scope of</i> + văn bản.",
+   "example": {
+    "en": "Discussion of the roots of the problem is <b>beyond the scope of</b> this essay.",
+    "vi": "Thảo luận gốc rễ vấn đề <b>vượt ngoài phạm vi</b> bài luận này."
+   }
+  },
+  {
+   "word": "be forced to conclude",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/bi ˌfɔːst tə kənˈkluːd/",
+   "def_en": "To have to reach a conclusion (often unwillingly).",
+   "def_vi": "Buộc phải kết luận.",
+   "gloss_vi": "buộc phải kết luận",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be forced to conclude</i> (verb) = buộc phải kết luận. <b>Collocations / chunks</b>: dùng khi kết bài.",
+   "example": {
+    "en": "We are <b>forced to conclude</b> that unemployment will always be with us.",
+    "vi": "Chúng ta <b>buộc phải kết luận</b> rằng thất nghiệp sẽ luôn tồn tại."
+   }
+  }
+ ]
+}
