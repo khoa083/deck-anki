@@ -1,0 +1,184 @@
+{
+ "book": "gva",
+ "unit": 15,
+ "title_vi": "Mệnh đề phân từ, to V và mệnh đề rút gọn",
+ "theory_html": "<p><b>2.1. Participle clauses: general</b><br><i>2.1. Mệnh đề phân từ: tổng quát</i></p> <p>More common in writing, economical; the participle usually refers to the subject of the main clause (avoid different subjects — ‘dangling’ participles); formally it can have its own subject (<b>some measuring…</b>); <b>not</b> before the participle.</p><p><i>Phân từ thường chỉ chủ ngữ mệnh đề chính; tránh khác chủ ngữ; <b>not</b> đứng trước phân từ.</i></p> <p><b>2.2. Present participle (-ing) clauses</b><br><i>2.2. Mệnh đề hiện tại phân từ</i></p> <p>Same time as or just before the main action; background information; after quoted speech; reason or result.</p><p><i>Đồng thời hoặc ngay trước; bối cảnh; sau lời dẫn; lý do.</i></p> <p><b>2.3. Past participle (-ed) clauses</b><br><i>2.3. Mệnh đề quá khứ phân từ</i></p> <p>Reasons and conditions; with <b>be / have</b> for passive and perfect forms (<b>having fallen, being made, having been woken</b>); <b>having + -ed</b> emphasises completion before the main action.</p><p><i>Lý do, điều kiện; <b>having + V3</b> nhấn mạnh xong trước.</i></p> <p><b>2.4. Participle clauses after conjunctions and prepositions</b><br><i>2.4. Phân từ sau liên từ, giới từ</i></p> <p>-ing after <b>after, before, by, in, on, since, when, while, with, without, unless, until</b>; <b>with / what with</b> + subject + -ing for a reason; formally past participle after <b>(al)though, as, if, once, when, while, unless, until</b>.</p><p><i><b>Before leaving…</b>; <b>With Naples being…</b>; <b>if asked</b>.</i></p> <p><b>2.5. To-infinitive clauses</b><br><i>2.5. Mệnh đề to V</i></p> <p>Purpose, result (<b>only to find</b>), condition (<b>To hear him…, you’d think</b>).</p><p><i>Mục đích, kết quả bất ngờ, điều kiện.</i></p> <p><b>2.6. Reduced clauses</b><br><i>2.6. Mệnh đề rút gọn</i></p> <p>Conjunction or adjective without a verb (formal): <b>While in Naples…, Exhausted by my walk…</b></p><p><i>Bỏ động từ: <b>While in…, Exhausted…</b></i></p>",
+ "items": [
+  {
+   "word": "participle clause",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈpɑːtɪsɪpl klɔːz/",
+   "def_en": "A clause beginning with a participle, used to express ideas economically, mostly in writing.",
+   "def_vi": "Mệnh đề bắt đầu bằng phân từ, diễn đạt gọn, chủ yếu văn viết.",
+   "gloss_vi": "mệnh đề phân từ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Participle clause</i> (structure) = mệnh đề phân từ. <b>Grammar</b>: phân từ phải chỉ chủ ngữ mệnh đề chính (tránh <i>Snarling aggressively, I kept away…</i>).",
+   "example": {
+    "en": "<b>Walking into each village</b>, I was met by a pack of unfriendly dogs.",
+    "vi": "<b>Đi vào mỗi làng</b>, tôi bị một đàn chó dữ đón."
+   }
+  },
+  {
+   "word": "not + participle",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/nɒt plʌs ˈpɑːtɪsɪpl/",
+   "def_en": "Not usually comes before the participle in a participle clause.",
+   "def_vi": "Not thường đứng trước phân từ.",
+   "gloss_vi": "không (làm gì)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Not + participle</i> (structure) = không (làm gì). <b>Grammar</b>: <i>Not</i> + V-ing.",
+   "example": {
+    "en": "<b>Not wanting</b> to carry my backpack any further, I went to the first hotel I came across.",
+    "vi": "<b>Không muốn</b> mang ba lô thêm nữa, tôi vào khách sạn đầu tiên."
+   }
+  },
+  {
+   "word": "present participle clause",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˌpreznt ˈpɑːtɪsɪpl klɔːz/",
+   "def_en": "An -ing clause for something at the same time as or just before the main action, background, or reason.",
+   "def_vi": "Mệnh đề V-ing: đồng thời, ngay trước, bối cảnh, lý do.",
+   "gloss_vi": "mệnh đề hiện tại phân từ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Present participle clause</i> (structure) = mệnh đề hiện tại phân từ. <b>Grammar</b>: lý do: <i>Arriving in Amalfi early, I had time to look around.</i>.",
+   "example": {
+    "en": "<b>Opening up my sleeping bag</b> I discovered a scorpion.",
+    "vi": "<b>Mở túi ngủ ra</b>, tôi phát hiện một con bọ cạp."
+   }
+  },
+  {
+   "word": "past participle clause",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˌpɑːst ˈpɑːtɪsɪpl klɔːz/",
+   "def_en": "An -ed clause used to talk about reasons and conditions.",
+   "def_vi": "Mệnh đề V3 nói lý do và điều kiện.",
+   "gloss_vi": "mệnh đề quá khứ phân từ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Past participle clause</i> (structure) = mệnh đề quá khứ phân từ. <b>Grammar</b>: điều kiện: <i>Sold in Britain, the boots would have cost more.</i>.",
+   "example": {
+    "en": "<b>Made from the softest leather imaginable</b>, they are as comfortable as a pair of slippers.",
+    "vi": "<b>Làm từ loại da mềm nhất</b>, chúng êm như đôi dép."
+   }
+  },
+  {
+   "word": "having + -ed clause",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈhævɪŋ ˈpɑːst ˈpɑːtɪsɪpl klɔːz/",
+   "def_en": "Emphasises that the action is complete before the main action begins.",
+   "def_vi": "Nhấn mạnh hành động xong trước hành động chính.",
+   "gloss_vi": "sau khi đã",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Having + -ed clause</i> (structure) = sau khi đã. <b>Grammar</b>: bị động: <i>Having been woken up by a scratching sound…</i>.",
+   "example": {
+    "en": "<b>Having climbed</b> to the top of the hill, I could see all the way to the Mediterranean.",
+    "vi": "<b>Sau khi leo lên đỉnh đồi</b>, tôi thấy tận Địa Trung Hải."
+   }
+  },
+  {
+   "word": "before + -ing",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/bɪˈfɔː ɪŋ/",
+   "def_en": "A present participle clause after a conjunction or preposition.",
+   "def_vi": "Mệnh đề V-ing sau liên từ, giới từ.",
+   "gloss_vi": "trước khi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Before + -ing</i> (structure) = trước khi. <b>Grammar</b>: cũng <i>after, by, on, since, when, while, without, until</i> + V-ing.",
+   "example": {
+    "en": "<b>Before leaving</b> Naples, I bought yet more walking socks",
+    "vi": "<b>Trước khi rời</b> Naples, tôi mua thêm tất đi bộ."
+   }
+  },
+  {
+   "word": "what with",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˌwɒt ˈwɪð/",
+   "def_en": "Used informally to introduce reasons for something.",
+   "def_vi": "Thân mật, nêu lý do.",
+   "gloss_vi": "nào là… (vì)",
+   "synonyms": "with <i>(prep. vì)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>What with</i> (structure) = nào là… (vì). <b>Grammar</b>: <i>With Naples being such a busy city…</i> (chủ ngữ giữa <i>with</i> và V-ing).",
+   "example": {
+    "en": "<b>What with</b> sleeping badly, and some very steep hills to walk over, it was quite a relief to get to Amalfi",
+    "vi": "<b>Nào là</b> ngủ không ngon, nào là đồi dốc, đến Amalfi thật nhẹ người."
+   }
+  },
+  {
+   "word": "if + past participle",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ɪf ˈpɑːst ˈpɑːtɪsɪpl/",
+   "def_en": "In formal contexts, a past participle after if, once, unless, until, when, although.",
+   "def_vi": "Trang trọng: V3 sau if, once, unless, until.",
+   "gloss_vi": "nếu được",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>If + past participle</i> (structure) = nếu được. <b>Grammar</b>: = <i>if I was asked</i>.",
+   "example": {
+    "en": "Walking through Italy was a fantastic experience, but <b>if asked</b>, I'm not sure I'd do it again",
+    "vi": "<b>Nếu được hỏi</b>, tôi không chắc sẽ làm lại."
+   }
+  },
+  {
+   "word": "only to find",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈəʊnli tə ˈfaɪnd/",
+   "def_en": "A to-infinitive clause expressing an unexpected, disappointing result.",
+   "def_vi": "Mệnh đề to V nói kết quả bất ngờ, đáng thất vọng.",
+   "gloss_vi": "để rồi thấy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Only to find</i> (structure) = để rồi thấy. <b>Grammar</b>: <i>to</i> + V chỉ mục đích: <i>to avoid the long trek</i>.",
+   "example": {
+    "en": "I got to the hotel early, <b>only to find</b> that I couldn't check in until later.",
+    "vi": "Tôi đến khách sạn sớm, <b>để rồi thấy</b> không thể nhận phòng."
+   }
+  },
+  {
+   "word": "to hear him",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/tə ˈhɪə hɪm/",
+   "def_en": "A to-infinitive clause expressing a condition.",
+   "def_vi": "Mệnh đề to V nói điều kiện.",
+   "gloss_vi": "nếu nghe anh ta",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>To hear him</i> (structure) = nếu nghe anh ta. <b>Grammar</b>: = <i>if you had heard him</i>.",
+   "example": {
+    "en": "<b>To hear him</b> grumbling last week, you'd think he was about to get on the next flight home",
+    "vi": "<b>Nếu nghe anh ta</b> càu nhàu tuần trước, bạn tưởng anh ta sắp bay về."
+   }
+  },
+  {
+   "word": "reduced clause",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/rɪˌdjuːst ˈklɔːz/",
+   "def_en": "A clause beginning with a conjunction or adjective, but with no verb (formal).",
+   "def_vi": "Mệnh đề bắt đầu bằng liên từ/tính từ, không có động từ (trang trọng).",
+   "gloss_vi": "mệnh đề rút gọn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reduced clause</i> (structure) = mệnh đề rút gọn. <b>Grammar</b>: <i>Exhausted by my walk, I went straight to bed.</i>.",
+   "example": {
+    "en": "<b>While in Naples</b>, I did what all visitors do.",
+    "vi": "<b>Khi ở Naples</b>, tôi làm điều mọi du khách làm."
+   }
+  }
+ ]
+}
