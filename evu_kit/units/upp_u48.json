@@ -1,0 +1,506 @@
+{
+ "book": "upp",
+ "unit": 48,
+ "title_vi": "Khen ngợi và phê bình",
+ "theory_html": "<p><b>A. Praising</b><br><i>A. Khen ngợi</i></p> <p>You <b>praise</b> someone <b>for</b> something. <b>Highly praised</b> is a common collocation. Other expressions: <b>brilliantly, first-rate/top-notch, really on the ball, have a way with, have green fingers, have got the gift of the gab, head and shoulders above, miles better, be streets ahead, among the best, out of this world</b> (usually used of things).</p><p><i>Ta <b>praise sb for sth</b>. <b>Highly praised</b> là kết hợp phổ biến. Các cách nói khác: <b>xuất sắc, hạng nhất, nhanh nhạy, có biệt tài với, có tay trồng cây, khéo ăn nói, vượt trội, giỏi hơn hẳn, đi trước xa, thuộc hàng giỏi nhất, tuyệt hảo</b> (thường cho đồ vật).</i></p> <p><b>B. Criticising</b><br><i>B. Phê bình</i></p> <p>The verb <b>criticise</b> can mean: to say that someone or something is bad; it can also mean give an opinion or judgement about a book or film. <b>Critical</b>: 1 not pleased (<b>highly critical of</b>); 2 important; 3 giving opinions (<b>won critical acclaim</b>); 4 serious (<b>in a critical condition</b>). Frequent adverb uses: <b>critically important</b> (2), <b>critically acclaimed</b> (3), <b>critically ill</b> (4). Idiomatic synonyms of <b>criticise</b>: <b>run down, pick holes in</b>. Criticisms of people: <b>absurd, at fault / to blame, the cat’s whiskers / the bee’s knees, the world’s worst, take the biscuit, want to have your cake and eat it</b>.</p><p><i><b>Criticise</b>: chê bai; cũng = nhận xét, bình luận tác phẩm. <b>Critical</b>: 1 chỉ trích; 2 then chốt; 3 thuộc phê bình; 4 nguy kịch. Trạng từ: <b>cực kỳ quan trọng, được giới phê bình ca ngợi, ốm nguy kịch</b>. Đồng nghĩa thành ngữ: <b>chê bai, bới lông tìm vết</b>. Chê người: <b>lố bịch, có lỗi, tự cho mình là nhất, tệ nhất thế giới, quá quắt, muốn được cả chì lẫn chài</b>.</i></p>",
+ "items": [
+  {
+   "word": "praise",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/preɪz/",
+   "def_en": "To say that someone has done something well.",
+   "def_vi": "Nói rằng ai đó đã làm tốt.",
+   "gloss_vi": "khen ngợi",
+   "synonyms": "commend <i>(v. tuyên dương)</i>",
+   "antonyms": "criticise <i>(v. chỉ trích)</i>",
+   "grammar_vi": "<i>Praise</i> (verb) = khen ngợi. <b>Grammar</b>: <i>praise sb for sth</i>.",
+   "example": {
+    "en": "The teacher <b>praised</b> the children for their hard work.",
+    "vi": "Cô giáo <b>khen</b> các em vì đã chăm chỉ."
+   }
+  },
+  {
+   "word": "highly praised",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌhaɪli ˈpreɪzd/",
+   "def_en": "Praised very much.",
+   "def_vi": "Được khen rất nhiều.",
+   "gloss_vi": "được khen ngợi hết lời",
+   "synonyms": "acclaimed <i>(adj. được ca ngợi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Highly praised</i> (adjective) = được khen ngợi hết lời. <b>Collocations / chunks</b>: kết hợp phổ biến.",
+   "example": {
+    "en": "William’s acting in this film has been <b>highly praised</b>.",
+    "vi": "Diễn xuất của William trong phim này được <b>khen ngợi hết lời</b>."
+   }
+  },
+  {
+   "word": "brilliantly",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈbrɪliəntli/",
+   "def_en": "Very skilfully.",
+   "def_vi": "Rất điêu luyện.",
+   "gloss_vi": "xuất sắc",
+   "synonyms": "superbly <i>(adv. tuyệt vời)</i>",
+   "antonyms": "badly <i>(adv. tệ)</i>",
+   "grammar_vi": "<i>Brilliantly</i> (adverb) = xuất sắc. <b>Grammar</b>: <i>brilliant</i> (adj.).",
+   "example": {
+    "en": "She plays the guitar <b>brilliantly</b>, just like her father.",
+    "vi": "Cô ấy chơi guitar <b>xuất sắc</b>, giống hệt bố."
+   }
+  },
+  {
+   "word": "first-rate",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌfɜːst ˈreɪt/",
+   "def_en": "Of the very best quality.",
+   "def_vi": "Chất lượng tốt nhất.",
+   "gloss_vi": "hạng nhất",
+   "synonyms": "top-notch <i>(adj. đỉnh)</i>",
+   "antonyms": "second-rate <i>(adj. hạng xoàng)</i>",
+   "grammar_vi": "<i>First-rate</i> (adjective) = hạng nhất. <b>Grammar</b>: tính từ ghép, có gạch nối trước danh từ.",
+   "example": {
+    "en": "He’s the very best, a really <b>first-rate</b> administrator.",
+    "vi": "Anh ấy là nhà quản lý thực sự <b>hạng nhất</b>."
+   }
+  },
+  {
+   "word": "top-notch",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌtɒp ˈnɒtʃ/",
+   "def_en": "Of the very best quality (informal).",
+   "def_vi": "Tốt nhất (thân mật).",
+   "gloss_vi": "đỉnh, hàng đầu",
+   "synonyms": "first-rate <i>(adj. hạng nhất)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Top-notch</i> (adjective) = đỉnh, hàng đầu. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "He’s the very best, a really <b>top-notch</b> administrator.",
+    "vi": "Anh ấy là nhà quản lý thực sự <b>hàng đầu</b>."
+   }
+  },
+  {
+   "word": "on the ball",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɒn ðə ˈbɔːl/",
+   "def_en": "Quick to understand.",
+   "def_vi": "Nhanh hiểu.",
+   "gloss_vi": "nhanh nhạy",
+   "synonyms": "sharp <i>(adj. sắc sảo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>On the ball</i> (adjective) = nhanh nhạy. <b>Grammar</b>: thường <i>be really on the ball</i>.",
+   "example": {
+    "en": "When it comes to grammar, she’s <b>really on the ball</b>.",
+    "vi": "Về ngữ pháp, cô ấy thật <b>nhanh nhạy</b>."
+   }
+  },
+  {
+   "word": "have a way with",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/hæv ə ˈweɪ wɪð/",
+   "def_en": "To be good at establishing good relations with or motivating someone.",
+   "def_vi": "Giỏi tạo quan hệ tốt hay truyền động lực cho ai.",
+   "gloss_vi": "có biệt tài với",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have a way with</i> (verb) = có biệt tài với. <b>Grammar</b>: <i>have a way with sb/sth</i>.",
+   "example": {
+    "en": "Ben <b>has a way with</b> foreign students.",
+    "vi": "Ben <b>có biệt tài với</b> sinh viên nước ngoài."
+   }
+  },
+  {
+   "word": "have green fingers",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/hæv ˌɡriːn ˈfɪŋɡəz/",
+   "def_en": "To be good at gardening.",
+   "def_vi": "Giỏi làm vườn.",
+   "gloss_vi": "có tay trồng cây",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have green fingers</i> (verb) = có tay trồng cây. <b>Grammar</b>: Mỹ <i>have a green thumb</i>.",
+   "example": {
+    "en": "Emma really <b>has green fingers</b>; look at those flowers!",
+    "vi": "Emma thật sự <b>có tay trồng cây</b>; nhìn những bông hoa kìa!"
+   }
+  },
+  {
+   "word": "have got the gift of the gab",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/hæv ɡɒt ðə ˌɡɪft əv ðə ˈɡæb/",
+   "def_en": "To be good at talking.",
+   "def_vi": "Giỏi ăn nói.",
+   "gloss_vi": "khéo ăn nói",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have got the gift of the gab</i> (verb) = khéo ăn nói. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "Let him do the talking; he’s <b>got the gift of the gab</b>.",
+    "vi": "Để anh ấy nói đi; anh ấy <b>khéo ăn nói</b> lắm."
+   }
+  },
+  {
+   "word": "miles better",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌmaɪlz ˈbetə(r)/",
+   "def_en": "Much better (informal).",
+   "def_vi": "Tốt hơn nhiều (thân mật).",
+   "gloss_vi": "giỏi hơn hẳn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Miles better</i> (adjective) = giỏi hơn hẳn. <b>Grammar</b>: <i>miles better than</i>.",
+   "example": {
+    "en": "She’s <b>miles better</b> than the other girls at maths.",
+    "vi": "Cô ấy <b>giỏi hơn hẳn</b> các bạn nữ khác về toán."
+   }
+  },
+  {
+   "word": "streets ahead",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌstriːts əˈhed/",
+   "def_en": "Much more advanced than others.",
+   "def_vi": "Tiến bộ hơn nhiều so với người khác.",
+   "gloss_vi": "đi trước rất xa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Streets ahead</i> (adjective) = đi trước rất xa. <b>Grammar</b>: <i>be streets ahead of</i>.",
+   "example": {
+    "en": "When it comes to technology, Japan <b>is streets ahead</b> of most other countries.",
+    "vi": "Về công nghệ, Nhật Bản <b>đi trước rất xa</b> hầu hết các nước khác."
+   }
+  },
+  {
+   "word": "among the best",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əˌmʌŋ ðə ˈbest/",
+   "def_en": "One of the best.",
+   "def_vi": "Một trong những người giỏi nhất.",
+   "gloss_vi": "thuộc hàng giỏi nhất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "among the worst <i>(adj. thuộc hàng tệ nhất)</i>",
+   "grammar_vi": "<i>Among the best</i> (adjective) = thuộc hàng giỏi nhất. <b>Grammar</b>: cũng <i>among the worst / most interesting</i>.",
+   "example": {
+    "en": "As far as sport is concerned, Sam is <b>among the best</b> in his class.",
+    "vi": "Về thể thao, Sam <b>thuộc hàng giỏi nhất</b> lớp."
+   }
+  },
+  {
+   "word": "out of this world",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌaʊt əv ðɪs ˈwɜːld/",
+   "def_en": "Outstanding or superb.",
+   "def_vi": "Xuất sắc, tuyệt hảo.",
+   "gloss_vi": "tuyệt hảo",
+   "synonyms": "superb <i>(adj. tuyệt vời)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Out of this world</i> (adjective) = tuyệt hảo. <b>Grammar</b>: thường dùng cho đồ vật.",
+   "example": {
+    "en": "That meal was just <b>out of this world</b>.",
+    "vi": "Bữa ăn đó thật <b>tuyệt hảo</b>."
+   }
+  },
+  {
+   "word": "criticise",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈkrɪtɪsaɪz/",
+   "def_en": "To say that someone or something is bad.",
+   "def_vi": "Nói rằng ai/cái gì tệ.",
+   "gloss_vi": "chỉ trích, chê",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "praise <i>(v. khen)</i>",
+   "grammar_vi": "<i>Criticise</i> (verb) = chỉ trích, chê. <b>Grammar</b>: Mỹ <i>criticize</i>; <i>criticism</i> (n.).",
+   "example": {
+    "en": "Paige’s parents are always <b>criticising</b> her appearance.",
+    "vi": "Bố mẹ Paige lúc nào cũng <b>chê</b> vẻ ngoài của cô."
+   }
+  },
+  {
+   "word": "criticise",
+   "sense": "judge",
+   "pos": "verb",
+   "ipa": "/ˈkrɪtɪsaɪz/",
+   "def_en": "To give an opinion or judgement about a book or film.",
+   "def_vi": "Nêu nhận xét, đánh giá về sách hay phim.",
+   "gloss_vi": "nhận xét, bình luận",
+   "synonyms": "review <i>(v. bình luận)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Criticise</i> (verb) = nhận xét, bình luận. <b>Grammar</b>: nghĩa trung tính.",
+   "example": {
+    "en": "We read and <b>criticise</b> each other’s work.",
+    "vi": "Chúng tôi đọc và <b>nhận xét</b> tác phẩm của nhau."
+   }
+  },
+  {
+   "word": "critical",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈkrɪtɪkl/",
+   "def_en": "Saying that someone or something is bad or wrong.",
+   "def_vi": "Nói rằng ai/cái gì tệ hay sai.",
+   "gloss_vi": "chỉ trích, phê phán",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Critical</i> (adjective) = chỉ trích, phê phán. <b>Grammar</b>: <i>highly critical of</i>.",
+   "example": {
+    "en": "The report is <b>highly critical of</b> safety standards at the factory.",
+    "vi": "Bản báo cáo <b>phê phán gay gắt</b> tiêu chuẩn an toàn tại nhà máy."
+   }
+  },
+  {
+   "word": "critical",
+   "sense": "important",
+   "pos": "adjective",
+   "ipa": "/ˈkrɪtɪkl/",
+   "def_en": "Of the greatest importance.",
+   "def_vi": "Quan trọng nhất.",
+   "gloss_vi": "then chốt",
+   "synonyms": "crucial <i>(adj. then chốt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Critical</i> (adjective) = then chốt. <b>Grammar</b>: <i>critically important</i>.",
+   "example": {
+    "en": "The President’s support is <b>critical</b> (to this project).",
+    "vi": "Sự ủng hộ của Tổng thống là <b>then chốt</b> với dự án này."
+   }
+  },
+  {
+   "word": "critical",
+   "sense": "opinion",
+   "pos": "adjective",
+   "ipa": "/ˈkrɪtɪkl/",
+   "def_en": "Giving opinions or judgements on books, plays, films, etc.",
+   "def_vi": "Đưa ra nhận xét về sách, kịch, phim.",
+   "gloss_vi": "thuộc phê bình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Critical</i> (adjective) = thuộc phê bình. <b>Grammar</b>: <i>critical acclaim</i>; <i>critically acclaimed</i>.",
+   "example": {
+    "en": "His last film <b>received critical acclaim</b>.",
+    "vi": "Bộ phim gần nhất của anh ấy được <b>giới phê bình ca ngợi</b>."
+   }
+  },
+  {
+   "word": "critical",
+   "sense": "serious",
+   "pos": "adjective",
+   "ipa": "/ˈkrɪtɪkl/",
+   "def_en": "Extremely serious or dangerous.",
+   "def_vi": "Cực kỳ nghiêm trọng hay nguy hiểm.",
+   "gloss_vi": "nguy kịch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Critical</i> (adjective) = nguy kịch. <b>Grammar</b>: <i>critically ill</i>.",
+   "example": {
+    "en": "Both drivers are in a <b>critical condition</b> after the 120 mph crash.",
+    "vi": "Cả hai tài xế đều trong <b>tình trạng nguy kịch</b> sau vụ tai nạn."
+   }
+  },
+  {
+   "word": "critically acclaimed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌkrɪtɪkli əˈkleɪmd/",
+   "def_en": "Praised by critics.",
+   "def_vi": "Được giới phê bình ca ngợi.",
+   "gloss_vi": "được giới phê bình ca ngợi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Critically acclaimed</i> (adjective) = được giới phê bình ca ngợi. <b>Grammar</b>: nghĩa 3 của <i>critical</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>critically acclaimed</b> film",
+    "vi": "Một bộ phim <b>được giới phê bình ca ngợi</b>."
+   }
+  },
+  {
+   "word": "critically ill",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌkrɪtɪkli ˈɪl/",
+   "def_en": "So ill that you might die.",
+   "def_vi": "Ốm đến mức có thể chết.",
+   "gloss_vi": "ốm nguy kịch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Critically ill</i> (adjective) = ốm nguy kịch. <b>Grammar</b>: nghĩa 4 của <i>critical</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She is <b>critically ill</b> in hospital.",
+    "vi": "Bà ấy đang <b>ốm nguy kịch</b> trong bệnh viện."
+   }
+  },
+  {
+   "word": "run down",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌrʌn ˈdaʊn/",
+   "def_en": "To criticise, often unfairly.",
+   "def_vi": "Chê bai, thường không công bằng.",
+   "gloss_vi": "chê bai, nói xấu",
+   "synonyms": "criticise <i>(v. chỉ trích)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Run down</i> (verb) = chê bai, nói xấu. <b>Grammar</b>: <i>run sb/sth down</i>.",
+   "example": {
+    "en": "You shouldn’t <b>run down</b> your own country when you’re abroad.",
+    "vi": "Bạn không nên <b>chê bai</b> đất nước mình khi ở nước ngoài."
+   }
+  },
+  {
+   "word": "pick holes in",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌpɪk ˈhəʊlz ɪn/",
+   "def_en": "To find faults in something.",
+   "def_vi": "Tìm lỗi trong điều gì.",
+   "gloss_vi": "bới lông tìm vết",
+   "synonyms": "find fault with <i>(v. bắt lỗi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pick holes in</i> (verb) = bới lông tìm vết. <b>Grammar</b>: <i>pick holes in sth</i>.",
+   "example": {
+    "en": "Why do you always have to <b>pick holes</b> in everything I say?",
+    "vi": "Sao lúc nào bạn cũng <b>bới lông tìm vết</b> mọi điều tôi nói?"
+   }
+  },
+  {
+   "word": "absurd",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əbˈsɜːd/",
+   "def_en": "Ridiculous.",
+   "def_vi": "Lố bịch.",
+   "gloss_vi": "lố bịch, vô lý",
+   "synonyms": "ridiculous <i>(adj. lố bịch)</i>",
+   "antonyms": "sensible <i>(adj. hợp lý)</i>",
+   "grammar_vi": "<i>Absurd</i> (adjective) = lố bịch, vô lý. <b>Grammar</b>: <i>absurdity</i> (n.).",
+   "example": {
+    "en": "I think Antonio’s being totally <b>absurd</b>.",
+    "vi": "Tôi nghĩ Antonio đang hoàn toàn <b>vô lý</b>."
+   }
+  },
+  {
+   "word": "at fault",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ət ˈfɔːlt/",
+   "def_en": "Responsible for something bad; in the wrong.",
+   "def_vi": "Chịu trách nhiệm việc xấu; sai.",
+   "gloss_vi": "có lỗi",
+   "synonyms": "to blame <i>(adj. đáng trách)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>At fault</i> (adjective) = có lỗi. <b>Grammar</b>: <i>be at fault</i>.",
+   "example": {
+    "en": "You are undoubtedly <b>at fault</b> and you should apologise.",
+    "vi": "Rõ ràng bạn <b>có lỗi</b> và nên xin lỗi."
+   }
+  },
+  {
+   "word": "to blame",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/tə ˈbleɪm/",
+   "def_en": "Responsible for something bad.",
+   "def_vi": "Chịu trách nhiệm việc xấu.",
+   "gloss_vi": "đáng trách, có lỗi",
+   "synonyms": "at fault <i>(adj. có lỗi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>To blame</i> (adjective) = đáng trách, có lỗi. <b>Grammar</b>: <i>be to blame (for sth)</i>.",
+   "example": {
+    "en": "You are undoubtedly <b>to blame</b> and you should apologise.",
+    "vi": "Rõ ràng bạn <b>là người có lỗi</b> và nên xin lỗi."
+   }
+  },
+  {
+   "word": "the cat’s whiskers",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ðə ˌkæts ˈwɪskəz/",
+   "def_en": "Someone who thinks they are wonderful.",
+   "def_vi": "Người tự cho mình là tuyệt vời.",
+   "gloss_vi": "tự cho mình là nhất",
+   "synonyms": "the bee’s knees <i>(n. tự cho là nhất)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The cat’s whiskers</i> (noun) = tự cho mình là nhất. <b>Grammar</b>: /ˈwɪskəz/.",
+   "example": {
+    "en": "She thinks she’s <b>the cat’s whiskers</b>.",
+    "vi": "Cô ta nghĩ mình là <b>nhất</b>."
+   }
+  },
+  {
+   "word": "the bee’s knees",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ðə ˌbiːz ˈniːz/",
+   "def_en": "Someone who thinks they are wonderful.",
+   "def_vi": "Người tự cho mình là tuyệt vời.",
+   "gloss_vi": "tự cho mình là nhất",
+   "synonyms": "the cat’s whiskers <i>(n. tự cho là nhất)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The bee’s knees</i> (noun) = tự cho mình là nhất. <b>Grammar</b>: <i>think you’re the bee’s knees</i>.",
+   "example": {
+    "en": "She thinks she’s <b>the bee’s knees</b>.",
+    "vi": "Cô ta nghĩ mình là <b>nhất</b>."
+   }
+  },
+  {
+   "word": "the world’s worst",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ðə ˌwɜːldz ˈwɜːst/",
+   "def_en": "Someone than whom no one is worse at something.",
+   "def_vi": "Người tệ nhất trong việc gì.",
+   "gloss_vi": "tệ nhất thế giới",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The world’s worst</i> (noun) = tệ nhất thế giới. <b>Grammar</b>: <i>when it comes to…</i>.",
+   "example": {
+    "en": "When it comes to time-keeping, he’s <b>the world’s worst</b>.",
+    "vi": "Về đúng giờ, anh ta <b>tệ nhất thế giới</b>."
+   }
+  },
+  {
+   "word": "take the biscuit",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ðə ˈbɪskɪt/",
+   "def_en": "To be a striking example of some negative quality.",
+   "def_vi": "Là ví dụ điển hình của điều tiêu cực.",
+   "gloss_vi": "quá quắt, hết chỗ nói",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take the biscuit</i> (verb) = quá quắt, hết chỗ nói. <b>Grammar</b>: Anh-Anh; thân mật.",
+   "example": {
+    "en": "Jack is so rude. He really <b>takes the biscuit</b>.",
+    "vi": "Jack thô lỗ lắm. Anh ta thật <b>quá quắt</b>."
+   }
+  },
+  {
+   "word": "have your cake and eat it",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌhæv jɔː ˌkeɪk ən ˈiːt ɪt/",
+   "def_en": "To want everything with no contribution from your side.",
+   "def_vi": "Muốn có mọi thứ mà không đóng góp gì.",
+   "gloss_vi": "được cả chì lẫn chài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have your cake and eat it</i> (verb) = được cả chì lẫn chài. <b>Grammar</b>: thường <i>want to have your cake and eat it</i>.",
+   "example": {
+    "en": "Jo <b>wants to have her cake and eat it</b>!",
+    "vi": "Jo <b>muốn được cả chì lẫn chài</b>!"
+   }
+  }
+ ]
+}

@@ -1,0 +1,360 @@
+{
+ "book": "upp",
+ "unit": 47,
+ "title_vi": "Hoạt động của cơ thể",
+ "theory_html": "<p><b>A. Verbs connected with the mouth and breathing</b><br><i>A. Động từ liên quan đến miệng và hơi thở</i></p> <p><b>yawn, sneeze, snore, cough, sigh, be out of breath, take a deep breath, hold your breath</b>.</p><p><i><b>ngáp, hắt hơi, ngáy, ho, thở dài, hết hơi, hít sâu, nín thở</b>.</i></p> <p><b>B. Verbs connected with eating</b><br><i>B. Động từ liên quan đến ăn uống</i></p> <p><b>chew, rumble, swallow, suck, lick, bite</b>.</p><p><i><b>nhai, sôi bụng, nuốt, ngậm/mút, liếm, cắn</b>.</i></p> <p><b>C. Verbs connected with the eyes and face</b><br><i>C. Động từ liên quan đến mắt và mặt</i></p> <p><b>wink, frown, grin, blink, blush</b>.</p><p><i><b>nháy mắt, cau mày, cười toe, chớp mắt, đỏ mặt</b>.</i></p> <p><b>D. Verbs connected with the whole body</b><br><i>D. Động từ liên quan đến toàn thân</i></p> <p><b>perspire/sweat, shiver, tremble, shake</b>. <b>Perspire</b> is more formal.</p><p><i><b>đổ mồ hôi, run (vì lạnh), run rẩy, rung</b>. <b>Perspire</b> trang trọng hơn.</i></p> <p><b>LH. Language help</b><br><i>LH. Lưu ý ngôn ngữ</i></p> <p>All the verbs on this page (except <b>shake</b> and <b>bite</b>) are regular verbs; almost all the words have an identical noun form: <b>to yawn → a yawn, to cough → a cough</b> /kɒf/ etc. (except <b>to breathe</b> /briːð/ and <b>to perspire</b>; their nouns are <b>breath</b> /breθ/ and <b>perspiration</b>).</p><p><i>Mọi động từ ở đây (trừ <b>shake</b> và <b>bite</b>) đều có quy tắc; hầu hết có danh từ cùng dạng (<b>a yawn, a cough</b>), trừ <b>breathe → breath</b> và <b>perspire → perspiration</b>.</i></p>",
+ "items": [
+  {
+   "word": "yawn",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/jɔːn/",
+   "def_en": "To open your mouth wide and breathe in, usually because you are tired.",
+   "def_vi": "Há miệng rộng hít vào, thường vì mệt.",
+   "gloss_vi": "ngáp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Yawn</i> (verb) = ngáp. <b>Grammar</b>: danh từ <i>a yawn</i>.",
+   "example": {
+    "en": "Why are you <b>yawning</b>? Are you feeling sleepy?",
+    "vi": "Sao bạn <b>ngáp</b> thế? Bạn buồn ngủ à?"
+   }
+  },
+  {
+   "word": "sneeze",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/sniːz/",
+   "def_en": "To blow air out of your nose suddenly and noisily.",
+   "def_vi": "Đột ngột bật hơi mạnh ra mũi.",
+   "gloss_vi": "hắt hơi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sneeze</i> (verb) = hắt hơi. <b>Grammar</b>: danh từ <i>a sneeze</i>.",
+   "example": {
+    "en": "Dust often makes me <b>sneeze</b>.",
+    "vi": "Bụi thường làm tôi <b>hắt hơi</b>."
+   }
+  },
+  {
+   "word": "snore",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/snɔː(r)/",
+   "def_en": "To breathe noisily while sleeping.",
+   "def_vi": "Thở to khi ngủ.",
+   "gloss_vi": "ngáy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Snore</i> (verb) = ngáy. <b>Grammar</b>: danh từ <i>a snore</i>.",
+   "example": {
+    "en": "He <b>snored</b> in his chair with his mouth wide open.",
+    "vi": "Ông ấy <b>ngáy</b> trên ghế, miệng há to."
+   }
+  },
+  {
+   "word": "cough",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kɒf/",
+   "def_en": "To force air out of your throat with a sudden noise.",
+   "def_vi": "Đẩy hơi mạnh khỏi họng thành tiếng.",
+   "gloss_vi": "ho",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cough</i> (verb) = ho. <b>Grammar</b>: /kɒf/; danh từ <i>a cough</i>.",
+   "example": {
+    "en": "It was so smoky in the room that he couldn’t stop <b>coughing</b>.",
+    "vi": "Phòng nhiều khói đến mức anh ấy không ngừng <b>ho</b>."
+   }
+  },
+  {
+   "word": "sigh",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/saɪ/",
+   "def_en": "To breathe out slowly and noisily, e.g. from relief or sadness.",
+   "def_vi": "Thở ra chậm thành tiếng, như khi nhẹ nhõm hay buồn.",
+   "gloss_vi": "thở dài, thở phào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sigh</i> (verb) = thở dài, thở phào. <b>Grammar</b>: <i>sigh with relief</i>; danh từ <i>a sigh</i>.",
+   "example": {
+    "en": "She <b>sighed</b> with relief when she heard the plane had landed safely.",
+    "vi": "Cô ấy <b>thở phào</b> nhẹ nhõm khi nghe máy bay đã hạ cánh an toàn."
+   }
+  },
+  {
+   "word": "be out of breath",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/bi ˌaʊt əv ˈbreθ/",
+   "def_en": "To be breathing quickly after physical effort.",
+   "def_vi": "Thở gấp sau khi gắng sức.",
+   "gloss_vi": "hết hơi, hụt hơi",
+   "synonyms": "breathless <i>(adj. hụt hơi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be out of breath</i> (verb) = hết hơi, hụt hơi. <b>Grammar</b>: <i>breath</i> /breθ/ (n.), <i>breathe</i> /briːð/ (v.).",
+   "example": {
+    "en": "I ran for the bus and now I’<b>m out of breath</b>!",
+    "vi": "Tôi chạy đuổi xe buýt và giờ thì <b>hụt hơi</b>!"
+   }
+  },
+  {
+   "word": "take a deep breath",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ə ˌdiːp ˈbreθ/",
+   "def_en": "To breathe in a lot of air.",
+   "def_vi": "Hít vào thật nhiều không khí.",
+   "gloss_vi": "hít một hơi sâu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take a deep breath</i> (verb) = hít một hơi sâu. <b>Grammar</b>: <i>take</i> bất quy tắc: took, taken.",
+   "example": {
+    "en": "He <b>took a deep breath</b> and jumped into the water.",
+    "vi": "Anh ấy <b>hít một hơi sâu</b> rồi nhảy xuống nước."
+   }
+  },
+  {
+   "word": "hold your breath",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌhəʊld jɔː ˈbreθ/",
+   "def_en": "To stop breathing for a short time.",
+   "def_vi": "Ngừng thở một lúc.",
+   "gloss_vi": "nín thở",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hold your breath</i> (verb) = nín thở. <b>Grammar</b>: <i>hold</i> bất quy tắc: held.",
+   "example": {
+    "en": "How long can you <b>hold your breath</b> underwater?",
+    "vi": "Bạn có thể <b>nín thở</b> dưới nước bao lâu?"
+   }
+  },
+  {
+   "word": "chew",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/tʃuː/",
+   "def_en": "To break food into small pieces with your teeth.",
+   "def_vi": "Dùng răng nghiền nhỏ thức ăn.",
+   "gloss_vi": "nhai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chew</i> (verb) = nhai. <b>Grammar</b>: <i>chewing gum</i>.",
+   "example": {
+    "en": "My granny used to say you should <b>chew</b> every mouthful ten times.",
+    "vi": "Bà tôi thường bảo nên <b>nhai</b> mỗi miếng mười lần."
+   }
+  },
+  {
+   "word": "rumble",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈrʌmbl/",
+   "def_en": "(Of your stomach) to make a low, continuous noise.",
+   "def_vi": "(Bụng) phát ra tiếng ọc ọc.",
+   "gloss_vi": "sôi bụng, réo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rumble</i> (verb) = sôi bụng, réo. <b>Grammar</b>: cũng dùng cho sấm, xe cộ.",
+   "example": {
+    "en": "It’s embarrassing if your stomach <b>rumbles</b> during an interview.",
+    "vi": "Thật ngại nếu bụng bạn <b>réo</b> trong buổi phỏng vấn."
+   }
+  },
+  {
+   "word": "swallow",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈswɒləʊ/",
+   "def_en": "To make food or drink go down your throat.",
+   "def_vi": "Đưa thức ăn, đồ uống xuống họng.",
+   "gloss_vi": "nuốt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Swallow</i> (verb) = nuốt. <b>Common mistakes</b>: danh từ <i>swallow</i> = chim én.",
+   "example": {
+    "en": "Take a drink of water to help you <b>swallow</b> the pills.",
+    "vi": "Uống ngụm nước để giúp bạn <b>nuốt</b> viên thuốc."
+   }
+  },
+  {
+   "word": "suck",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/sʌk/",
+   "def_en": "To hold something in your mouth and pull on it with your lips and tongue.",
+   "def_vi": "Ngậm và mút bằng môi, lưỡi.",
+   "gloss_vi": "ngậm, mút",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Suck</i> (verb) = ngậm, mút. <b>Grammar</b>: <i>suck a sweet</i>.",
+   "example": {
+    "en": "In an aeroplane, if you <b>suck</b> a sweet, it can stop your ears popping.",
+    "vi": "Trên máy bay, nếu bạn <b>ngậm</b> kẹo, tai sẽ không bị ù."
+   }
+  },
+  {
+   "word": "lick",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/lɪk/",
+   "def_en": "To move your tongue over something.",
+   "def_vi": "Đưa lưỡi trên vật gì.",
+   "gloss_vi": "liếm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lick</i> (verb) = liếm. <b>Grammar</b>: <i>lick sth clean</i>.",
+   "example": {
+    "en": "The cat <b>licked</b> the bowl clean.",
+    "vi": "Con mèo <b>liếm</b> sạch cái bát."
+   }
+  },
+  {
+   "word": "bite",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/baɪt/",
+   "def_en": "To press your teeth into something.",
+   "def_vi": "Cắn răng vào vật gì.",
+   "gloss_vi": "cắn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bite</i> (verb) = cắn. <b>Grammar</b>: bất quy tắc: bit, bitten.",
+   "example": {
+    "en": "Don’t <b>bite</b> that hard sweet - you’ll damage your teeth.",
+    "vi": "Đừng <b>cắn</b> viên kẹo cứng đó – bạn sẽ hỏng răng."
+   }
+  },
+  {
+   "word": "wink",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/wɪŋk/",
+   "def_en": "To close one eye quickly, often as a signal.",
+   "def_vi": "Nhắm nhanh một mắt, thường làm hiệu.",
+   "gloss_vi": "nháy mắt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wink</i> (verb) = nháy mắt. <b>Grammar</b>: <i>wink at sb</i>.",
+   "example": {
+    "en": "He <b>winked</b> at me across the room to try to make me laugh.",
+    "vi": "Anh ấy <b>nháy mắt</b> với tôi từ bên kia phòng để chọc tôi cười."
+   }
+  },
+  {
+   "word": "frown",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/fraʊn/",
+   "def_en": "To bring your eyebrows together because you are worried or angry.",
+   "def_vi": "Nhíu mày vì lo hay giận.",
+   "gloss_vi": "cau mày",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "smile <i>(v. mỉm cười)</i>",
+   "grammar_vi": "<i>Frown</i> (verb) = cau mày. <b>Grammar</b>: <i>frown at sb</i>.",
+   "example": {
+    "en": "Why are you <b>frowning</b>? What’s the problem?",
+    "vi": "Sao bạn <b>cau mày</b>? Có chuyện gì vậy?"
+   }
+  },
+  {
+   "word": "grin",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɡrɪn/",
+   "def_en": "To smile widely.",
+   "def_vi": "Cười rộng miệng.",
+   "gloss_vi": "cười toe toét",
+   "synonyms": "beam <i>(v. cười rạng rỡ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Grin</i> (verb) = cười toe toét. <b>Grammar</b>: <i>grin from ear to ear</i>; grinned.",
+   "example": {
+    "en": "She was so delighted with the present that she <b>grinned</b> from ear to ear.",
+    "vi": "Cô ấy thích món quà đến mức <b>cười toe toét</b>."
+   }
+  },
+  {
+   "word": "blink",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/blɪŋk/",
+   "def_en": "To close and open your eyes quickly.",
+   "def_vi": "Nhắm mở mắt nhanh.",
+   "gloss_vi": "chớp mắt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Blink</i> (verb) = chớp mắt. <b>Grammar</b>: khác <i>wink</i> (một mắt).",
+   "example": {
+    "en": "She <b>blinked</b> several times to try and get the dust out of her eye.",
+    "vi": "Cô ấy <b>chớp mắt</b> vài lần để bụi ra khỏi mắt."
+   }
+  },
+  {
+   "word": "blush",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/blʌʃ/",
+   "def_en": "To become red in the face because you are embarrassed.",
+   "def_vi": "Đỏ mặt vì ngượng.",
+   "gloss_vi": "đỏ mặt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Blush</i> (verb) = đỏ mặt. <b>Grammar</b>: <i>blush with embarrassment</i>.",
+   "example": {
+    "en": "He <b>blushed</b> with embarrassment when she smiled at him.",
+    "vi": "Anh ấy <b>đỏ mặt</b> vì ngượng khi cô ấy cười với anh."
+   }
+  },
+  {
+   "word": "sweat",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/swet/",
+   "def_en": "To produce liquid through your skin, e.g. when hot.",
+   "def_vi": "Tiết chất lỏng qua da, như khi nóng.",
+   "gloss_vi": "đổ mồ hôi",
+   "synonyms": "perspire <i>(v. ra mồ hôi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sweat</i> (verb) = đổ mồ hôi. <b>Grammar</b>: /swet/; danh từ <i>sweat</i>.",
+   "example": {
+    "en": "When it’s hot, you <b>sweat</b>.",
+    "vi": "Khi trời nóng, bạn <b>đổ mồ hôi</b>."
+   }
+  },
+  {
+   "word": "perspire",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/pəˈspaɪə(r)/",
+   "def_en": "To sweat (formal).",
+   "def_vi": "Đổ mồ hôi (trang trọng).",
+   "gloss_vi": "ra mồ hôi",
+   "synonyms": "sweat <i>(v. đổ mồ hôi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Perspire</i> (verb) = ra mồ hôi. <b>Grammar</b>: trang trọng; danh từ <i>perspiration</i>.",
+   "example": {
+    "en": "When it’s hot, you <b>perspire</b>.",
+    "vi": "Khi trời nóng, bạn <b>ra mồ hôi</b>."
+   }
+  },
+  {
+   "word": "shake",
+   "sense": "body",
+   "pos": "verb",
+   "ipa": "/ʃeɪk/",
+   "def_en": "To move with small quick movements.",
+   "def_vi": "Chuyển động nhanh và nhỏ.",
+   "gloss_vi": "rung, run lên",
+   "synonyms": "tremble <i>(v. run rẩy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shake</i> (verb) = rung, run lên. <b>Grammar</b>: bất quy tắc: shook, shaken.",
+   "example": {
+    "en": "She laughed so much that her whole body <b>shook</b>.",
+    "vi": "Cô ấy cười nhiều đến mức cả người <b>rung lên</b>."
+   }
+  }
+ ]
+}

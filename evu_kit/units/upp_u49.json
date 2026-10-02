@@ -1,0 +1,440 @@
+{
+ "book": "upp",
+ "unit": 49,
+ "title_vi": "Cảm xúc và tâm trạng",
+ "theory_html": "<p><b>Intro. Fixed expressions</b><br><i>Intro. Thành ngữ cố định</i></p> <p>In this unit we focus on fixed expressions describing various emotions. You may not need to use them often yourself, but you need to understand them when you read or hear them.</p><p><i>Unit này tập trung vào thành ngữ cố định mô tả cảm xúc. Bạn có thể không cần dùng thường xuyên nhưng cần hiểu khi đọc hoặc nghe.</i></p> <p><b>A. Positive feelings, moods and states</b><br><i>A. Cảm xúc, tâm trạng tích cực</i></p> <p><b>on cloud nine, in high spirits, keep your chin up, as happy as Larry / as happy as can be</b>.</p><p><i><b>vui như lên mây, phấn chấn, vẫn lạc quan, vui hết cỡ</b>.</i></p> <p><b>B. Negative feelings, moods and states</b><br><i>B. Cảm xúc, tâm trạng tiêu cực</i></p> <p><b>a long face, down in the dumps, in a bad mood, like a bear with a sore head, throw a wobbly</b>.</p><p><i><b>mặt dài thượt, buồn rầu, tâm trạng tệ, cáu như gấu, nổi khùng</b>.</i></p> <p><b>C. Physical feelings and states</b><br><i>C. Cảm giác, trạng thái thể chất</i></p> <p><b>done in, under the weather, on top form, my head was spinning, at death’s door, as fit as a fiddle</b>.</p><p><i><b>kiệt sức, không khỏe, phong độ đỉnh, choáng váng, thập tử nhất sinh, khỏe như vâm</b>.</i></p> <p><b>D. Fear/fright</b><br><i>D. Sợ hãi</i></p> <p><b>scared stiff, frighten the life out of sb, shaking in your boots/shoes, scared out of your wits, jump out of your skin</b>.</p><p><i><b>sợ cứng người, làm ai sợ hết hồn, run như cầy sấy, sợ mất vía, giật bắn mình</b>.</i></p> <p><b>E. Other expressions for actions and feelings</b><br><i>E. Cách nói khác về hành động và cảm xúc</i></p> <p>Horoscope: <b>get carried away, keep a cool head, take everything as it comes, things are looking up, make you swell with pride, feel on top of the world</b>.</p><p><i>Tử vi: <b>quá phấn khích, giữ cái đầu lạnh, bình thản đón nhận, mọi việc đang khá lên, khiến bạn hãnh diện, sung sướng tột độ</b>.</i></p> <p><b>LH. Language help</b><br><i>LH. Lưu ý ngôn ngữ</i></p> <p>There is often an element of exaggeration in these expressions. They make quite strong comments on the situation and often lighten the tone of what you are saying. So use them only in informal situations.</p><p><i>Các thành ngữ này thường cường điệu, nhận xét khá mạnh và làm nhẹ giọng điệu; chỉ dùng trong tình huống thân mật.</i></p>",
+ "items": [
+  {
+   "word": "on cloud nine",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɒn klaʊd ˈnaɪn/",
+   "def_en": "Extremely pleased or happy.",
+   "def_vi": "Cực kỳ vui sướng.",
+   "gloss_vi": "vui như lên mây",
+   "synonyms": "on top of the world <i>(adj. sung sướng tột độ)</i>",
+   "antonyms": "down in the dumps <i>(adj. buồn rầu)</i>",
+   "grammar_vi": "<i>On cloud nine</i> (adjective) = vui như lên mây. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "Maria seems to be <b>on cloud nine</b> these days.",
+    "vi": "Dạo này Maria có vẻ <b>vui như lên mây</b>."
+   }
+  },
+  {
+   "word": "in high spirits",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪn ˌhaɪ ˈspɪrɪts/",
+   "def_en": "Lively and enjoying things.",
+   "def_vi": "Sôi nổi, vui vẻ.",
+   "gloss_vi": "phấn chấn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In high spirits</i> (adjective) = phấn chấn. <b>Grammar</b>: <i>be in high spirits</i>.",
+   "example": {
+    "en": "Everyone seemed to be <b>in high spirits</b>.",
+    "vi": "Mọi người có vẻ rất <b>phấn chấn</b>."
+   }
+  },
+  {
+   "word": "keep your chin up",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkiːp jɔː ˈtʃɪn ʌp/",
+   "def_en": "To stay happy despite bad things.",
+   "def_vi": "Vẫn vui dù gặp chuyện xấu.",
+   "gloss_vi": "vẫn lạc quan",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Keep your chin up</i> (verb) = vẫn lạc quan. <b>Grammar</b>: <i>Keep your chin up!</i> = cố lên.",
+   "example": {
+    "en": "She seems to be <b>keeping her chin up</b>.",
+    "vi": "Cô ấy có vẻ <b>vẫn lạc quan</b>."
+   }
+  },
+  {
+   "word": "as happy as Larry",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əz ˌhæpi əz ˈlæri/",
+   "def_en": "Extremely content.",
+   "def_vi": "Cực kỳ mãn nguyện.",
+   "gloss_vi": "vui hết cỡ",
+   "synonyms": "as happy as can be <i>(adj. vui hết mức)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As happy as Larry</i> (adjective) = vui hết cỡ. <b>Grammar</b>: thân mật, Anh-Anh.",
+   "example": {
+    "en": "Jo’s <b>as happy as Larry</b>.",
+    "vi": "Jo <b>vui hết cỡ</b>."
+   }
+  },
+  {
+   "word": "as happy as can be",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əz ˌhæpi əz kən ˈbiː/",
+   "def_en": "Extremely content.",
+   "def_vi": "Cực kỳ mãn nguyện.",
+   "gloss_vi": "vui hết mức",
+   "synonyms": "as happy as Larry <i>(adj. vui hết cỡ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As happy as can be</i> (adjective) = vui hết mức. <b>Grammar</b>: cấu trúc <i>as + adj + as can be</i>.",
+   "example": {
+    "en": "Jo’s <b>as happy as can be</b>.",
+    "vi": "Jo <b>vui hết mức</b>."
+   }
+  },
+  {
+   "word": "a long face",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ə ˌlɒŋ ˈfeɪs/",
+   "def_en": "A sad or depressed expression.",
+   "def_vi": "Nét mặt buồn rầu.",
+   "gloss_vi": "mặt dài thượt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A long face</i> (noun) = mặt dài thượt. <b>Grammar</b>: <i>have / pull a long face</i>.",
+   "example": {
+    "en": "He had <b>a long face</b>.",
+    "vi": "Anh ấy <b>mặt dài thượt</b>."
+   }
+  },
+  {
+   "word": "down in the dumps",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌdaʊn ɪn ðə ˈdʌmps/",
+   "def_en": "Depressed or sad.",
+   "def_vi": "Chán nản, buồn.",
+   "gloss_vi": "buồn rầu, chán nản",
+   "synonyms": "depressed <i>(adj. chán nản)</i>",
+   "antonyms": "on cloud nine <i>(adj. vui như lên mây)</i>",
+   "grammar_vi": "<i>Down in the dumps</i> (adjective) = buồn rầu, chán nản. <b>Grammar</b>: <i>look/feel down in the dumps</i>.",
+   "example": {
+    "en": "She certainly looked <b>down in the dumps</b>.",
+    "vi": "Cô ấy trông thật <b>buồn rầu</b>."
+   }
+  },
+  {
+   "word": "in a bad mood",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪn ə ˌbæd ˈmuːd/",
+   "def_en": "Feeling angry or impatient.",
+   "def_vi": "Thấy bực bội.",
+   "gloss_vi": "tâm trạng tệ, đang bực",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "in a good mood <i>(adj. tâm trạng tốt)</i>",
+   "grammar_vi": "<i>In a bad mood</i> (adjective) = tâm trạng tệ, đang bực. <b>Grammar</b>: <i>be in a bad mood</i>; ≠ <i>in a good mood</i>.",
+   "example": {
+    "en": "Zac is <b>in a bad mood</b>.",
+    "vi": "Zac đang <b>bực</b>."
+   }
+  },
+  {
+   "word": "like a bear with a sore head",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/laɪk ə ˌbeə wɪð ə ˌsɔː ˈhed/",
+   "def_en": "Extremely irritable.",
+   "def_vi": "Cực kỳ cáu kỉnh.",
+   "gloss_vi": "cáu như gấu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Like a bear with a sore head</i> (adjective) = cáu như gấu. <b>Grammar</b>: thân mật; xem Unit 97.",
+   "example": {
+    "en": "Martin was <b>like a bear with a sore head</b>.",
+    "vi": "Martin <b>cáu như gấu</b>."
+   }
+  },
+  {
+   "word": "throw a wobbly",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌθrəʊ ə ˈwɒbli/",
+   "def_en": "To become extremely angry and upset.",
+   "def_vi": "Trở nên cực kỳ giận và bực.",
+   "gloss_vi": "nổi khùng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Throw a wobbly</i> (verb) = nổi khùng. <b>Grammar</b>: Anh-Anh, thân mật.",
+   "example": {
+    "en": "Alice <b>threw a wobbly</b> the other day.",
+    "vi": "Hôm nọ Alice <b>nổi khùng</b>."
+   }
+  },
+  {
+   "word": "done in",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌdʌn ˈɪn/",
+   "def_en": "Exhausted.",
+   "def_vi": "Kiệt sức.",
+   "gloss_vi": "kiệt sức, rã rời",
+   "synonyms": "exhausted <i>(adj. kiệt sức)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Done in</i> (adjective) = kiệt sức, rã rời. <b>Grammar</b>: thân mật; <i>feel done in</i>.",
+   "example": {
+    "en": "I’m feeling <b>done in</b>.",
+    "vi": "Tôi thấy <b>rã rời</b>."
+   }
+  },
+  {
+   "word": "under the weather",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʌndə ðə ˈweðə(r)/",
+   "def_en": "Not very well or ill.",
+   "def_vi": "Không khỏe lắm, ốm.",
+   "gloss_vi": "không được khỏe",
+   "synonyms": "unwell <i>(adj. không khỏe)</i>",
+   "antonyms": "on top form <i>(adj. phong độ đỉnh)</i>",
+   "grammar_vi": "<i>Under the weather</i> (adjective) = không được khỏe. <b>Grammar</b>: thường <i>a bit under the weather</i>.",
+   "example": {
+    "en": "You’re looking <b>a bit under the weather</b>.",
+    "vi": "Trông bạn <b>hơi không khỏe</b>."
+   }
+  },
+  {
+   "word": "on top form",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɒn ˌtɒp ˈfɔːm/",
+   "def_en": "In good physical condition.",
+   "def_vi": "Ở thể trạng tốt.",
+   "gloss_vi": "phong độ đỉnh cao",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "under the weather <i>(adj. không khỏe)</i>",
+   "grammar_vi": "<i>On top form</i> (adjective) = phong độ đỉnh cao. <b>Grammar</b>: <i>be on top form</i>; Anh-Anh.",
+   "example": {
+    "en": "She looked, and felt, <b>on top form</b>.",
+    "vi": "Cô ấy trông và cảm thấy <b>phong độ đỉnh cao</b>."
+   }
+  },
+  {
+   "word": "my head was spinning",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/maɪ ˌhed wəz ˈspɪnɪŋ/",
+   "def_en": "Unable to balance; feeling as if you will fall over.",
+   "def_vi": "Mất thăng bằng, như sắp ngã.",
+   "gloss_vi": "choáng váng",
+   "synonyms": "dizzy <i>(adj. chóng mặt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>My head was spinning</i> (cl) = choáng váng. <b>Grammar</b>: <i>feel your head spinning</i>.",
+   "example": {
+    "en": "I suddenly felt <b>my head was spinning</b>.",
+    "vi": "Đột nhiên tôi thấy <b>đầu óc choáng váng</b>."
+   }
+  },
+  {
+   "word": "at death’s door",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ət ˌdeθs ˈdɔː(r)/",
+   "def_en": "Very sick or ill.",
+   "def_vi": "Ốm rất nặng.",
+   "gloss_vi": "thập tử nhất sinh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "as fit as a fiddle <i>(adj. khỏe như vâm)</i>",
+   "grammar_vi": "<i>At death’s door</i> (adjective) = thập tử nhất sinh. <b>Grammar</b>: thường cường điệu.",
+   "example": {
+    "en": "I was almost <b>at death’s door</b> last week!",
+    "vi": "Tuần trước tôi gần như <b>thập tử nhất sinh</b>!"
+   }
+  },
+  {
+   "word": "as fit as a fiddle",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əz ˌfɪt əz ə ˈfɪdl/",
+   "def_en": "Very fit indeed.",
+   "def_vi": "Rất khỏe mạnh.",
+   "gloss_vi": "khỏe như vâm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "at death’s door <i>(adj. thập tử nhất sinh)</i>",
+   "grammar_vi": "<i>As fit as a fiddle</i> (adjective) = khỏe như vâm. <b>Grammar</b>: so sánh <i>as… as</i>.",
+   "example": {
+    "en": "Old Nora’s <b>as fit as a fiddle</b>.",
+    "vi": "Bà Nora già mà <b>khỏe như vâm</b>."
+   }
+  },
+  {
+   "word": "scared stiff",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌskeəd ˈstɪf/",
+   "def_en": "Very scared.",
+   "def_vi": "Rất sợ.",
+   "gloss_vi": "sợ cứng người",
+   "synonyms": "terrified <i>(adj. khiếp sợ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Scared stiff</i> (adjective) = sợ cứng người. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "She was <b>scared stiff</b>.",
+    "vi": "Cô ấy <b>sợ cứng người</b>."
+   }
+  },
+  {
+   "word": "frighten the life out of",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌfraɪtn ðə ˈlaɪf aʊt əv/",
+   "def_en": "To frighten someone a lot.",
+   "def_vi": "Làm ai rất sợ.",
+   "gloss_vi": "làm ai sợ hết hồn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Frighten the life out of</i> (verb) = làm ai sợ hết hồn. <b>Grammar</b>: <i>frighten the life out of sb</i>.",
+   "example": {
+    "en": "She <b>frightened the life out of</b> him.",
+    "vi": "Cô ấy <b>làm anh ta sợ hết hồn</b>."
+   }
+  },
+  {
+   "word": "shaking in your boots",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʃeɪkɪŋ ɪn jɔː ˈbuːts/",
+   "def_en": "Trembling with fear.",
+   "def_vi": "Run vì sợ.",
+   "gloss_vi": "run như cầy sấy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shaking in your boots</i> (adjective) = run như cầy sấy. <b>Grammar</b>: cũng <i>shaking in your shoes</i>.",
+   "example": {
+    "en": "We were all <b>shaking in our boots</b>.",
+    "vi": "Tất cả chúng tôi đều <b>run như cầy sấy</b>."
+   }
+  },
+  {
+   "word": "scared out of your wits",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌskeəd aʊt əv jɔː ˈwɪts/",
+   "def_en": "Very scared indeed.",
+   "def_vi": "Cực kỳ sợ.",
+   "gloss_vi": "sợ mất vía",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Scared out of your wits</i> (adjective) = sợ mất vía. <b>Grammar</b>: tính từ sở hữu đổi theo chủ ngữ.",
+   "example": {
+    "en": "The poor lad was <b>scared out of his wits</b>.",
+    "vi": "Cậu bé tội nghiệp <b>sợ mất vía</b>."
+   }
+  },
+  {
+   "word": "jump out of your skin",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌdʒʌmp aʊt əv jɔː ˈskɪn/",
+   "def_en": "To give a big jump because of a shock.",
+   "def_vi": "Giật nảy mình vì sốc.",
+   "gloss_vi": "giật bắn mình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Jump out of your skin</i> (verb) = giật bắn mình. <b>Grammar</b>: tính từ sở hữu đổi theo chủ ngữ.",
+   "example": {
+    "en": "I <b>jumped out of my skin</b> when I heard the bang.",
+    "vi": "Tôi <b>giật bắn mình</b> khi nghe tiếng nổ."
+   }
+  },
+  {
+   "word": "get carried away",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡet ˌkærid əˈweɪ/",
+   "def_en": "To get too excited.",
+   "def_vi": "Quá phấn khích.",
+   "gloss_vi": "quá đà, bị cuốn theo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "keep a cool head <i>(v. giữ bình tĩnh)</i>",
+   "grammar_vi": "<i>Get carried away</i> (verb) = quá đà, bị cuốn theo. <b>Grammar</b>: <i>get carried away (by sth)</i>.",
+   "example": {
+    "en": "Don’t get <b>carried away</b> by promises not kept.",
+    "vi": "Đừng <b>bị cuốn theo</b> những lời hứa không được giữ."
+   }
+  },
+  {
+   "word": "keep a cool head",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkiːp ə ˌkuːl ˈhed/",
+   "def_en": "To stay calm.",
+   "def_vi": "Giữ bình tĩnh.",
+   "gloss_vi": "giữ cái đầu lạnh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "get carried away <i>(v. quá đà)</i>",
+   "grammar_vi": "<i>Keep a cool head</i> (verb) = giữ cái đầu lạnh. <b>Grammar</b>: <i>keep a cool head</i> = giữ bình tĩnh.",
+   "example": {
+    "en": "<b>Keep a cool head</b> and take everything as it comes.",
+    "vi": "<b>Giữ cái đầu lạnh</b> và bình thản đón nhận mọi việc."
+   }
+  },
+  {
+   "word": "take everything as it comes",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ˈevriθɪŋ əz ɪt ˌkʌmz/",
+   "def_en": "To deal calmly with events as they happen.",
+   "def_vi": "Bình tĩnh đối mặt mọi việc khi chúng xảy ra.",
+   "gloss_vi": "việc gì đến sẽ đến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take everything as it comes</i> (verb) = việc gì đến sẽ đến. <b>Grammar</b>: cũng <i>take things as they come</i>.",
+   "example": {
+    "en": "Keep a cool head and <b>take everything as it comes</b>.",
+    "vi": "Giữ bình tĩnh và <b>đón nhận mọi việc khi chúng đến</b>."
+   }
+  },
+  {
+   "word": "things are looking up",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ˌθɪŋz ə ˌlʊkɪŋ ˈʌp/",
+   "def_en": "Things are improving.",
+   "def_vi": "Mọi việc đang khá lên.",
+   "gloss_vi": "mọi việc đang khá lên",
+   "synonyms": "improve <i>(v. cải thiện)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Things are looking up</i> (cl) = mọi việc đang khá lên. <b>Grammar</b>: <i>look up</i> = khá lên.",
+   "example": {
+    "en": "On the work front, <b>things are looking up</b>.",
+    "vi": "Về công việc, <b>mọi việc đang khá lên</b>."
+   }
+  },
+  {
+   "word": "swell with pride",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌswel wɪð ˈpraɪd/",
+   "def_en": "To feel very proud or pleased because of something good you did.",
+   "def_vi": "Rất tự hào vì điều tốt mình làm.",
+   "gloss_vi": "hãnh diện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Swell with pride</i> (verb) = hãnh diện. <b>Grammar</b>: <i>make sb swell with pride</i>.",
+   "example": {
+    "en": "If someone says something that makes you <b>swell with pride</b>, enjoy the moment!",
+    "vi": "Nếu ai đó nói điều khiến bạn <b>hãnh diện</b>, hãy tận hưởng."
+   }
+  },
+  {
+   "word": "on top of the world",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɒn ˌtɒp əv ðə ˈwɜːld/",
+   "def_en": "Very happy indeed.",
+   "def_vi": "Cực kỳ hạnh phúc.",
+   "gloss_vi": "sung sướng tột độ",
+   "synonyms": "on cloud nine <i>(adj. vui như lên mây)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>On top of the world</i> (adjective) = sung sướng tột độ. <b>Grammar</b>: <i>feel on top of the world</i>.",
+   "example": {
+    "en": "If someone says something that makes you feel <b>on top of the world</b>, enjoy the moment!",
+    "vi": "Nếu ai đó nói điều khiến bạn <b>sung sướng tột độ</b>, hãy tận hưởng."
+   }
+  }
+ ]
+}
