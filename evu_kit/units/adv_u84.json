@@ -1,0 +1,376 @@
+{
+ "book": "adv",
+ "unit": 84,
+ "title_vi": "Cách bạn nói",
+ "theory_html": "<p><b>A. Verbs denoting volume: from quiet to loud</b><br><i>A. Động từ về âm lượng: từ nhỏ đến to</i></p> <p><b>mumble, mutter</b> (usually negative), <b>murmur</b> (can be positive; <b>without a murmur</b>), <b>raise your voice (at)</b>, <b>shout / yell / scream / roar / shriek at</b>: <b>yell</b> (urgency, anger; much noise), <b>shriek</b> (loud, high-pitched), <b>roar</b> (very loud, deep).</p><p><i><b>lầm bầm, lẩm bẩm, rì rầm (không một lời phàn nàn), lên giọng, la hét: hét (khẩn cấp, giận), rít lên (cao), gầm (trầm, to)</b>.</i></p> <p><b>B. Verbs describing speech and styles of conversation</b><br><i>B. Động từ về kiểu nói chuyện</i></p> <p><b>nag (at), bicker over (squabble), slag off, whine, whinge, chat away, gossip about, wind up (wind-up), butter up, exaggerate (exaggeration), generalise (generalisation)</b>.</p><p><i><b>cằn nhằn, cãi vặt, nói xấu, rên rỉ, than vãn, tán gẫu mãi, buôn chuyện, trêu chọc, nịnh, phóng đại, khái quát hóa</b>.</i></p> <p><b>C. Speech and articulation problems</b><br><i>C. Tật nói</i></p> <p><b>lisp, stammer, stutter, slur, get tongue-tied</b>.</p><p><i><b>nói ngọng (s thành th), nói lắp, nói cà lăm, nói lè nhè, líu lưỡi</b>.</i></p>",
+ "items": [
+  {
+   "word": "mumble",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈmʌmbl/",
+   "def_en": "To speak quietly and unclearly (usually negative).",
+   "def_vi": "Nói nhỏ, không rõ (thường tiêu cực).",
+   "gloss_vi": "lầm bầm",
+   "synonyms": "mutter <i>(v. lẩm bẩm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mumble</i> (verb) = lầm bầm. <b>Grammar</b>: thường tiêu cực.",
+   "example": {
+    "en": "Stop <b>mumbling</b>! I can’t hear what you’re saying.",
+    "vi": "Đừng <b>lầm bầm</b> nữa! Tôi không nghe bạn nói gì."
+   }
+  },
+  {
+   "word": "mutter",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈmʌtə(r)/",
+   "def_en": "To speak quietly, often complaining (usually negative).",
+   "def_vi": "Nói nhỏ, thường phàn nàn (thường tiêu cực).",
+   "gloss_vi": "lẩm bẩm",
+   "synonyms": "mumble <i>(v. lầm bầm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mutter</i> (verb) = lẩm bẩm. <b>Collocations / chunks</b>: <i>mutter under your breath</i>.",
+   "example": {
+    "en": "He was <b>muttering</b> something under his breath – probably complaining, as usual.",
+    "vi": "Anh ta <b>lẩm bẩm</b> gì đó – chắc lại phàn nàn."
+   }
+  },
+  {
+   "word": "murmur",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈmɜːmə(r)/",
+   "def_en": "To speak quietly (can be positive).",
+   "def_vi": "Nói khẽ (có thể tích cực).",
+   "gloss_vi": "rì rầm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Murmur</i> (verb) = rì rầm. <b>Collocations / chunks</b>: <i>murmur approval</i>.",
+   "example": {
+    "en": "They <b>murmured</b> their approval when he told them the plan.",
+    "vi": "Họ <b>rì rầm</b> tán thành khi anh ấy nói kế hoạch."
+   }
+  },
+  {
+   "word": "without a murmur",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/wɪˌðaʊt ə ˈmɜːmə(r)/",
+   "def_en": "Without any protest, complaint or comment.",
+   "def_vi": "Không phản đối, phàn nàn hay bình luận.",
+   "gloss_vi": "không một lời phàn nàn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Without a murmur</i> (adverb) = không một lời phàn nàn. <b>Collocations / chunks</b>: cụm cố định.",
+   "example": {
+    "en": "They accepted it all <b>without a murmur</b>.",
+    "vi": "Họ chấp nhận tất cả <b>không một lời phàn nàn</b>."
+   }
+  },
+  {
+   "word": "raise your voice",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌreɪz jə ˈvɔɪs/",
+   "def_en": "To speak louder; to speak in a loud, angry tone.",
+   "def_vi": "Nói to hơn; nói to, giận dữ.",
+   "gloss_vi": "lên giọng, nói to",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Raise your voice</i> (verb) = lên giọng, nói to. <b>Collocations / chunks</b>: <i>raise your voice at sb</i> (giận).",
+   "example": {
+    "en": "Don’t you <b>raise your voice</b> at me!",
+    "vi": "Đừng <b>lên giọng</b> với tôi!"
+   }
+  },
+  {
+   "word": "yell",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/jel/",
+   "def_en": "To shout, conveying urgency, anger or frustration, or above noise.",
+   "def_vi": "Hét, thể hiện khẩn cấp, giận, hay át tiếng ồn.",
+   "gloss_vi": "hét lên",
+   "synonyms": "shout <i>(v. hét)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Yell</i> (verb) = hét lên. <b>Collocations / chunks</b>: <i>yell at</i> sb.",
+   "example": {
+    "en": "‘Stay where you are!’ he <b>yelled</b> above the noise of the traffic.",
+    "vi": "‘Đứng yên đó!’ anh ấy <b>hét</b> át tiếng xe cộ."
+   }
+  },
+  {
+   "word": "shriek",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ʃriːk/",
+   "def_en": "To make a loud and very high-pitched sound.",
+   "def_vi": "Phát âm to và rất cao.",
+   "gloss_vi": "rít lên, thét lên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shriek</i> (verb) = rít lên, thét lên. <b>Collocations / chunks</b>: dùng cả nghĩa tích cực và tiêu cực.",
+   "example": {
+    "en": "‘Oh, wow! That’s fantastic!’ she <b>shrieked</b>.",
+    "vi": "‘Ôi, tuyệt quá!’ cô ấy <b>thét lên</b>."
+   }
+  },
+  {
+   "word": "roar",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rɔː(r)/",
+   "def_en": "To make a very loud, deep sound, like a lion.",
+   "def_vi": "Phát âm rất to, trầm như sư tử.",
+   "gloss_vi": "gầm lên, hò reo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Roar</i> (verb) = gầm lên, hò reo. <b>Collocations / chunks</b>: dùng cả nghĩa tích cực và tiêu cực.",
+   "example": {
+    "en": "The crowd <b>roared</b> as he kicked the ball into the back of the net.",
+    "vi": "Đám đông <b>hò reo</b> khi anh ấy sút bóng vào lưới."
+   }
+  },
+  {
+   "word": "nag",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/næɡ/",
+   "def_en": "To keep criticising someone’s faults or duties not done.",
+   "def_vi": "Liên tục chê lỗi hay việc chưa làm.",
+   "gloss_vi": "cằn nhằn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nag</i> (verb) = cằn nhằn. <b>Collocations / chunks</b>: <i>nag (at) sb</i>; <i>nag – nagged</i>.",
+   "example": {
+    "en": "Tom and Lily are always <b>nagging</b> (at) each other.",
+    "vi": "Tom và Lily luôn <b>cằn nhằn</b> nhau."
+   }
+  },
+  {
+   "word": "bicker",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈbɪkə(r)/",
+   "def_en": "To argue in an irritated way, usually about something petty.",
+   "def_vi": "Cãi nhau bực bội về chuyện vặt.",
+   "gloss_vi": "cãi vặt",
+   "synonyms": "squabble <i>(v. cãi nhau)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bicker</i> (verb) = cãi vặt. <b>Collocations / chunks</b>: <i>bicker over/about</i> sth.",
+   "example": {
+    "en": "Stop <b>bickering</b> over who sits by the window, you two!",
+    "vi": "Hai đứa đừng <b>cãi vặt</b> chuyện ai ngồi cạnh cửa sổ nữa!"
+   }
+  },
+  {
+   "word": "slag off",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌslæɡ ˈɒf/",
+   "def_en": "To criticise in an insulting way (very informal).",
+   "def_vi": "Chê bai xúc phạm (rất thân mật).",
+   "gloss_vi": "nói xấu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Slag off</i> (verb) = nói xấu. <b>Grammar</b>: rất thân mật; tách được <i>slag sb off</i>.",
+   "example": {
+    "en": "They spent all evening <b>slagging off</b> their colleagues.",
+    "vi": "Họ dành cả tối <b>nói xấu</b> đồng nghiệp."
+   }
+  },
+  {
+   "word": "whine",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/waɪn/",
+   "def_en": "To complain in an annoying way (informal, negative).",
+   "def_vi": "Phàn nàn gây khó chịu (thân mật, tiêu cực).",
+   "gloss_vi": "rên rỉ, nhõng nhẽo",
+   "synonyms": "whinge <i>(v. ca cẩm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Whine</i> (verb) = rên rỉ, nhõng nhẽo. <b>Grammar</b>: thân mật, tiêu cực.",
+   "example": {
+    "en": "Jessie is always <b>whining</b> and whingeing.",
+    "vi": "Jessie lúc nào cũng <b>rên rỉ</b>."
+   }
+  },
+  {
+   "word": "chat away",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌtʃæt əˈweɪ/",
+   "def_en": "To have light, non-serious talk for a long time.",
+   "def_vi": "Nói chuyện phiếm lâu.",
+   "gloss_vi": "tán gẫu mãi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chat away</i> (verb) = tán gẫu mãi. <b>Grammar</b>: <i>away</i> nhấn mạnh hành động kéo dài.",
+   "example": {
+    "en": "He’s been <b>chatting away</b> on the phone all morning.",
+    "vi": "Anh ấy <b>tán gẫu</b> điện thoại cả buổi sáng."
+   }
+  },
+  {
+   "word": "gossip about",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈɡɒsɪp əˌbaʊt/",
+   "def_en": "To talk about people, rumours, etc.",
+   "def_vi": "Nói về người khác, tin đồn...",
+   "gloss_vi": "buôn chuyện về",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gossip about</i> (verb) = buôn chuyện về. <b>Grammar</b>: cũng là danh từ <i>gossip</i>.",
+   "example": {
+    "en": "We always <b>gossip about</b> work when we go out together.",
+    "vi": "Chúng tôi luôn <b>buôn chuyện về</b> công việc khi đi chơi."
+   }
+  },
+  {
+   "word": "wind up",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌwaɪnd ˈʌp/",
+   "def_en": "To tease or fool someone (informal).",
+   "def_vi": "Trêu chọc, lừa ai (thân mật).",
+   "gloss_vi": "trêu, chọc",
+   "synonyms": "tease <i>(v. trêu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wind up</i> (verb) = trêu, chọc. <b>Grammar</b>: /ˈwaɪnd/; danh từ <i>a wind-up</i>.",
+   "example": {
+    "en": "It took him a long time to realise they were <b>winding him up</b>.",
+    "vi": "Mãi anh ấy mới nhận ra họ đang <b>trêu</b> mình."
+   }
+  },
+  {
+   "word": "butter up",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌbʌtər ˈʌp/",
+   "def_en": "To say nice things because you want something from someone (negative).",
+   "def_vi": "Nói lời ngọt vì muốn gì đó (tiêu cực).",
+   "gloss_vi": "nịnh",
+   "synonyms": "flatter <i>(v. nịnh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Butter up</i> (verb) = nịnh. <b>Grammar</b>: tách được <i>butter sb up</i>.",
+   "example": {
+    "en": "I realised she was <b>buttering me up</b>.",
+    "vi": "Tôi nhận ra cô ấy đang <b>nịnh</b> tôi."
+   }
+  },
+  {
+   "word": "exaggerate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪɡˈzædʒəreɪt/",
+   "def_en": "To make something seem greater than it really is.",
+   "def_vi": "Làm điều gì có vẻ lớn hơn thực tế.",
+   "gloss_vi": "phóng đại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Exaggerate</i> (verb) = phóng đại. <b>Grammar</b>: danh từ <i>exaggeration</i>.",
+   "example": {
+    "en": "Rick tends to <b>exaggerate</b> his problems, so don’t take him too literally.",
+    "vi": "Rick hay <b>phóng đại</b> vấn đề của mình."
+   }
+  },
+  {
+   "word": "generalise",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈdʒenrəlaɪz/",
+   "def_en": "To make general statements about something.",
+   "def_vi": "Đưa ra nhận định chung.",
+   "gloss_vi": "khái quát hóa, vơ đũa cả nắm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Generalise</i> (verb) = khái quát hóa, vơ đũa cả nắm. <b>Grammar</b>: danh từ <i>generalisation</i>.",
+   "example": {
+    "en": "Meg is inclined to <b>generalise</b> on the basis of her very limited experience.",
+    "vi": "Meg hay <b>vơ đũa cả nắm</b> dựa trên kinh nghiệm hạn hẹp."
+   }
+  },
+  {
+   "word": "lisp",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/lɪsp/",
+   "def_en": "Difficulty in making an ‘s’ sound, making a ‘th’ sound instead.",
+   "def_vi": "Khó phát âm ‘s’, thành ‘th’.",
+   "gloss_vi": "tật nói ngọng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lisp</i> (noun) = tật nói ngọng. <b>Grammar</b>: cũng là động từ <i>she lisps</i>.",
+   "example": {
+    "en": "She speaks with a <b>lisp</b>.",
+    "vi": "Cô ấy nói <b>ngọng</b> (s thành th)."
+   }
+  },
+  {
+   "word": "stammer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈstæmə(r)/",
+   "def_en": "A speech problem with abnormal pauses and repetitions.",
+   "def_vi": "Tật nói ngắt quãng, lặp lại bất thường.",
+   "gloss_vi": "tật nói lắp",
+   "synonyms": "stutter <i>(n. cà lăm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stammer</i> (noun) = tật nói lắp. <b>Grammar</b>: cũng là động từ.",
+   "example": {
+    "en": "He hates speaking in front of people because he’s got a really bad <b>stammer</b>.",
+    "vi": "Anh ấy ghét nói trước đám đông vì <b>nói lắp</b> nặng."
+   }
+  },
+  {
+   "word": "stutter",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈstʌtə(r)/",
+   "def_en": "To repeat sounds at the beginning of words.",
+   "def_vi": "Lặp âm đầu từ.",
+   "gloss_vi": "nói cà lăm",
+   "synonyms": "stammer <i>(v. nói lắp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stutter</i> (verb) = nói cà lăm. <b>Grammar</b>: cũng là danh từ.",
+   "example": {
+    "en": "‘I want to t-t-t-tell you something,’ she <b>stuttered</b> nervously.",
+    "vi": "‘Em muốn n-n-nói với anh điều này,’ cô ấy <b>lắp bắp</b> lo lắng."
+   }
+  },
+  {
+   "word": "slur",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/slɜː(r)/",
+   "def_en": "To speak with a slow, lazy sound, difficult to understand.",
+   "def_vi": "Nói chậm, lè nhè, khó hiểu.",
+   "gloss_vi": "nói lè nhè",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Slur</i> (verb) = nói lè nhè. <b>Collocations / chunks</b>: <i>slur your words</i>.",
+   "example": {
+    "en": "He was <b>slurring</b> his words because he had drunk far too much alcohol.",
+    "vi": "Anh ta <b>nói lè nhè</b> vì uống quá nhiều."
+   }
+  },
+  {
+   "word": "tongue-tied",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈtʌŋ taɪd/",
+   "def_en": "Unable to say what you want because of nerves.",
+   "def_vi": "Không nói được điều muốn nói vì lo.",
+   "gloss_vi": "líu lưỡi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tongue-tied</i> (adjective) = líu lưỡi. <b>Collocations / chunks</b>: <i>get tongue-tied</i>.",
+   "example": {
+    "en": "I want to tell her I love her, but I <b>get tongue-tied</b>.",
+    "vi": "Tôi muốn nói yêu cô ấy nhưng lại <b>líu lưỡi</b>."
+   }
+  }
+ ]
+}
