@@ -1,0 +1,626 @@
+{
+ "book": "gva",
+ "unit": 42,
+ "title_vi": "Thế giới sống",
+ "theory_html": "<p><b>V1. species, series</b><br><i>V1. species, series</i></p> <p><b>species</b> has the same form in the singular and plural (<b>an endangered species; thousands of species of bees</b>); <b>series</b> is similar (<b>the new wildlife series; four series of documentaries</b>).</p><p><i><b>species, series</b>: số ít và số nhiều giống nhau.</i></p> <p><b>V2. provide sb with sth</b><br><i>V2. provide sb with sth</i></p> <p><b>Plants provide (us) with the air we breathe.</b> (not <b>provide us the air</b>)</p><p><i><b>provide sb with sth</b>, không <b>provide sb sth</b>.</i></p> <p><b>V3. Animal groups</b><br><i>V3. Các nhóm động vật</i></p> <p>Fish use gills to breathe and live only in water; mammals drink their mother's milk; amphibians live partly on land and partly underwater; reptiles have dry, scaly skin and are cold-blooded; insects have six legs and their skeleton on the outside; birds have feathers and lay eggs.</p><p><i>Cá, thú, lưỡng cư, bò sát, côn trùng, chim.</i></p>",
+ "items": [
+  {
+   "word": "gills",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɡɪlz/",
+   "def_en": "The organs that fish use to breathe.",
+   "def_vi": "Mang (cá).",
+   "gloss_vi": "mang cá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gills</i> (noun) = mang cá. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "Fish use <b>gills</b> to breathe and can only live in water.",
+    "vi": "Cá dùng <b>mang</b> để thở và chỉ sống dưới nước."
+   }
+  },
+  {
+   "word": "mammal",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmæml/",
+   "def_en": "An animal that drinks its mother's milk when young.",
+   "def_vi": "Động vật có vú.",
+   "gloss_vi": "thú",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mammal</i> (noun) = thú. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "<b>Mammals</b> are the most intelligent creatures and drink their mother's milk.",
+    "vi": "<b>Thú</b> là sinh vật thông minh nhất và bú sữa mẹ."
+   }
+  },
+  {
+   "word": "amphibian",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/æmˈfɪbiən/",
+   "def_en": "An animal that lives partly on land and partly in water.",
+   "def_vi": "Động vật lưỡng cư.",
+   "gloss_vi": "lưỡng cư",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Amphibian</i> (noun) = lưỡng cư. <b>Note</b>: ví dụ <i>frog, newt, toad</i>.",
+   "example": {
+    "en": "<b>Amphibians</b> are vertebrates and live partly on land and partly underwater.",
+    "vi": "<b>Lưỡng cư</b> là động vật có xương sống, sống nửa trên cạn nửa dưới nước."
+   }
+  },
+  {
+   "word": "vertebrate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈvɜːtɪbrət/",
+   "def_en": "An animal with a backbone.",
+   "def_vi": "Động vật có xương sống.",
+   "gloss_vi": "có xương sống",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "invertebrate <i>(n. không xương sống)</i>",
+   "grammar_vi": "<i>Vertebrate</i> (noun) = có xương sống. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "Amphibians are <b>vertebrates</b>",
+    "vi": "Lưỡng cư là <b>động vật có xương sống</b>."
+   }
+  },
+  {
+   "word": "reptile",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈreptaɪl/",
+   "def_en": "A cold-blooded animal with dry, scaly skin.",
+   "def_vi": "Bò sát.",
+   "gloss_vi": "bò sát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reptile</i> (noun) = bò sát. <b>Note</b>: ví dụ <i>snake, crocodile, lizard</i>.",
+   "example": {
+    "en": "<b>Reptiles</b> have dry, scaly skin and are cold-blooded.",
+    "vi": "<b>Bò sát</b> có da khô, có vảy và máu lạnh."
+   }
+  },
+  {
+   "word": "cold-blooded",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌkəʊld ˈblʌdɪd/",
+   "def_en": "Having a body temperature that changes with the surroundings.",
+   "def_vi": "Máu lạnh.",
+   "gloss_vi": "máu lạnh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "warm-blooded <i>(adj. máu nóng)</i>",
+   "grammar_vi": "<i>Cold-blooded</i> (adjective) = máu lạnh. <b>Grammar</b>: tính từ ghép <i>cold</i> + <i>blooded</i>.",
+   "example": {
+    "en": "Reptiles have dry, scaly skin and are <b>cold-blooded</b>.",
+    "vi": "Bò sát có da khô, có vảy và <b>máu lạnh</b>."
+   }
+  },
+  {
+   "word": "newt",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/njuːt/",
+   "def_en": "A small amphibian with a long tail.",
+   "def_vi": "Sa giông.",
+   "gloss_vi": "sa giông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Newt</i> (noun) = sa giông. <b>Grammar</b>: danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "A <b>newt</b> is an amphibian.",
+    "vi": "<b>Sa giông</b> là động vật lưỡng cư."
+   }
+  },
+  {
+   "word": "vulture",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈvʌltʃə(r)/",
+   "def_en": "A large bird that eats dead animals.",
+   "def_vi": "Kền kền.",
+   "gloss_vi": "kền kền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Vulture</i> (noun) = kền kền. <b>Grammar</b>: danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "A <b>vulture</b> is a bird.",
+    "vi": "<b>Kền kền</b> là loài chim."
+   }
+  },
+  {
+   "word": "mackerel",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmækrəl/",
+   "def_en": "A sea fish used as food.",
+   "def_vi": "Cá thu.",
+   "gloss_vi": "cá thu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mackerel</i> (noun) = cá thu. <b>Grammar</b>: danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "A <b>mackerel</b> is a fish.",
+    "vi": "<b>Cá thu</b> là loài cá."
+   }
+  },
+  {
+   "word": "nocturnal",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/nɒkˈtɜːnl/",
+   "def_en": "Active at night.",
+   "def_vi": "Hoạt động về đêm.",
+   "gloss_vi": "sống về đêm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nocturnal</i> (adjective) = sống về đêm. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "is <b>nocturnal</b>; preys on small animals; hoots; has a sharp beak",
+    "vi": "Cú <b>hoạt động về đêm</b> và săn động vật nhỏ."
+   }
+  },
+  {
+   "word": "prey on",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈpreɪ ɒn/",
+   "def_en": "To hunt and kill another animal for food.",
+   "def_vi": "Săn bắt (làm mồi).",
+   "gloss_vi": "săn mồi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Prey on</i> (verb) = săn mồi. <b>Grammar</b>: động từ nhiều từ <i>prey on</i>.",
+   "example": {
+    "en": "is nocturnal; <b>preys on</b> small animals; hoots",
+    "vi": "Cú săn <b>mồi</b> là động vật nhỏ."
+   }
+  },
+  {
+   "word": "swarm",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/swɔːm/",
+   "def_en": "A large group of insects moving together.",
+   "def_vi": "Đàn (côn trùng).",
+   "gloss_vi": "bầy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Swarm</i> (noun) = bầy. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "sometimes moves in <b>swarms</b>; buzzes; has a sting",
+    "vi": "Ong đôi khi di chuyển theo <b>đàn</b>."
+   }
+  },
+  {
+   "word": "hive",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/haɪv/",
+   "def_en": "A structure where bees live.",
+   "def_vi": "Tổ ong.",
+   "gloss_vi": "tổ ong",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hive</i> (noun) = tổ ong. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "lives in a <b>hive</b>; is a source of honey",
+    "vi": "Ong sống trong <b>tổ</b> và là nguồn mật ong."
+   }
+  },
+  {
+   "word": "pack",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pæk/",
+   "def_en": "A group of wolves or dogs.",
+   "def_vi": "Bầy (sói, chó).",
+   "gloss_vi": "bầy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pack</i> (noun) = bầy. <b>Note</b>: tập hợp: <i>herd, pod, shoal</i>.",
+   "example": {
+    "en": "lives in a <b>pack</b>; growls, snarls and howls",
+    "vi": "Sói sống theo <b>bầy</b>; gầm gừ và hú."
+   }
+  },
+  {
+   "word": "howl",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/haʊl/",
+   "def_en": "(of a wolf or dog) To make a long, loud cry.",
+   "def_vi": "Hú.",
+   "gloss_vi": "hú",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Howl</i> (verb) = hú. <b>Grammar</b>: động từ.",
+   "example": {
+    "en": "growls, snarls and <b>howls</b>",
+    "vi": "Sói gầm gừ, nhe nanh và <b>hú</b>."
+   }
+  },
+  {
+   "word": "venomous",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈvenəməs/",
+   "def_en": "Able to produce poison through a bite.",
+   "def_vi": "Có nọc độc.",
+   "gloss_vi": "có nọc độc",
+   "synonyms": "poisonous <i>(adj. độc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Venomous</i> (adjective) = có nọc độc. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "has a forked tongue; is often <b>venomous</b>",
+    "vi": "Rắn có lưỡi chẻ, thường <b>có nọc độc</b>."
+   }
+  },
+  {
+   "word": "shed",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ʃed/",
+   "def_en": "To lose skin or leaves naturally.",
+   "def_vi": "Lột (da), rụng.",
+   "gloss_vi": "lột da",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shed</i> (verb) = lột da. <b>Grammar</b>: động từ.",
+   "example": {
+    "en": "<b>sheds</b> its skin",
+    "vi": "Rắn <b>lột da</b>."
+   }
+  },
+  {
+   "word": "poach",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/pəʊtʃ/",
+   "def_en": "To catch or kill animals illegally.",
+   "def_vi": "Săn trộm.",
+   "gloss_vi": "săn trộm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Poach</i> (verb) = săn trộm. <b>Word family</b>: poacher (n.).",
+   "example": {
+    "en": "is often <b>poached</b> in protected waters",
+    "vi": "Cá hồi thường bị <b>đánh bắt trộm</b> ở vùng nước bảo vệ."
+   }
+  },
+  {
+   "word": "hibernate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈhaɪbəneɪt/",
+   "def_en": "To sleep through the winter.",
+   "def_vi": "Ngủ đông.",
+   "gloss_vi": "ngủ đông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hibernate</i> (verb) = ngủ đông. <b>Note</b>: hành vi: <i>groom, mate, nest</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Bears <b>hibernate</b> through the winter.",
+    "vi": "Gấu <b>ngủ đông</b> suốt mùa đông."
+   }
+  },
+  {
+   "word": "shoal",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ʃəʊl/",
+   "def_en": "A large group of fish swimming together.",
+   "def_vi": "Đàn cá.",
+   "gloss_vi": "đàn cá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shoal</i> (noun) = đàn cá. <b>Note</b>: tập hợp: <i>colony, herd, pod</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We saw a huge <b>shoal</b> of fish.",
+    "vi": "Chúng tôi thấy một <b>đàn cá</b> lớn."
+   }
+  },
+  {
+   "word": "species",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈspiːʃiːz/",
+   "def_en": "A group of animals or plants of the same kind (same form singular and plural).",
+   "def_vi": "Loài.",
+   "gloss_vi": "loài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Species</i> (noun) = loài. <b>Grammar</b>: số ít = số nhiều: <i>thousands of species of bees</i>.",
+   "example": {
+    "en": "The panda is an endangered <b>species</b>.",
+    "vi": "Gấu trúc là <b>loài</b> có nguy cơ tuyệt chủng."
+   }
+  },
+  {
+   "word": "series",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɪəriːz/",
+   "def_en": "A set of TV programmes on the same subject (same form singular and plural).",
+   "def_vi": "Loạt (chương trình).",
+   "gloss_vi": "loạt phim",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Series</i> (noun) = loạt phim. <b>Grammar</b>: số ít = số nhiều.",
+   "example": {
+    "en": "Have you seen the new wildlife <b>series</b> on TV?",
+    "vi": "Bạn đã xem <b>loạt phim</b> thế giới hoang dã mới chưa?"
+   }
+  },
+  {
+   "word": "decline",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪˈklaɪn/",
+   "def_en": "To become fewer or less.",
+   "def_vi": "Suy giảm.",
+   "gloss_vi": "suy giảm",
+   "synonyms": "decrease <i>(v. giảm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Decline</i> (verb) = suy giảm. <b>Grammar</b>: động từ.",
+   "example": {
+    "en": "The bee population has been <b>declining</b> in recent years.",
+    "vi": "Quần thể ong đã <b>suy giảm</b> những năm gần đây."
+   }
+  },
+  {
+   "word": "pollinate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈpɒləneɪt/",
+   "def_en": "To move pollen to a flower so that it can produce seeds.",
+   "def_vi": "Thụ phấn.",
+   "gloss_vi": "thụ phấn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pollinate</i> (verb) = thụ phấn. <b>Word family</b>: pollination (n.), pollen (n.).",
+   "example": {
+    "en": "We rely on bees to <b>pollinate</b> the crops we harvest",
+    "vi": "Ta dựa vào ong để <b>thụ phấn</b> cho cây trồng."
+   }
+  },
+  {
+   "word": "pulses",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpʌlsɪz/",
+   "def_en": "Seeds such as beans and lentils eaten as food.",
+   "def_vi": "Các loại đậu.",
+   "gloss_vi": "các loại đậu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pulses</i> (noun) = các loại đậu. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "Crops such as cereals, grains and <b>pulses</b> which are pollinated by bees",
+    "vi": "Ngũ cốc, hạt và <b>các loại đậu</b> được ong thụ phấn."
+   }
+  },
+  {
+   "word": "extinct",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪkˈstɪŋkt/",
+   "def_en": "No longer existing.",
+   "def_vi": "Tuyệt chủng.",
+   "gloss_vi": "tuyệt chủng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Extinct</i> (adjective) = tuyệt chủng. <b>Word family</b>: extinction (n.).",
+   "example": {
+    "en": "If bees were to disappear entirely and become <b>extinct</b>",
+    "vi": "Nếu ong biến mất hoàn toàn và <b>tuyệt chủng</b>."
+   }
+  },
+  {
+   "word": "pesticide",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpestɪsaɪd/",
+   "def_en": "A chemical used to kill insects that damage plants.",
+   "def_vi": "Thuốc trừ sâu.",
+   "gloss_vi": "thuốc trừ sâu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pesticide</i> (noun) = thuốc trừ sâu. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "avoiding the use of <b>pesticides</b> in our gardens",
+    "vi": "Tránh dùng <b>thuốc trừ sâu</b> trong vườn."
+   }
+  },
+  {
+   "word": "turn over a new leaf",
+   "sense": "",
+   "pos": "idiom",
+   "ipa": "/ˌtɜːn ˌəʊvər ə ˌnjuː ˈliːf/",
+   "def_en": "To start behaving in a better way.",
+   "def_vi": "Thay đổi để tốt hơn.",
+   "gloss_vi": "làm lại cuộc đời",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Turn over a new leaf</i> (idiom) = làm lại cuộc đời. <b>Grammar</b>: idiom nhiều từ <i>turn over a new leaf</i>.",
+   "example": {
+    "en": "we've <b>turned over a new leaf</b> and we recycle everything now",
+    "vi": "Chúng tôi đã <b>thay đổi</b> và giờ tái chế mọi thứ."
+   }
+  },
+  {
+   "word": "beat about the bush",
+   "sense": "",
+   "pos": "idiom",
+   "ipa": "/ˌbiːt əˌbaʊt ðə ˈbʊʃ/",
+   "def_en": "To avoid talking about something important.",
+   "def_vi": "Nói vòng vo.",
+   "gloss_vi": "vòng vo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Beat about the bush</i> (idiom) = vòng vo. <b>Grammar</b>: idiom nhiều từ <i>beat about the bush</i>.",
+   "example": {
+    "en": "The government should stop <b>beating about the bush</b> and tell us the truth about climate change.",
+    "vi": "Chính phủ nên thôi <b>vòng vo</b> và nói thật về biến đổi khí hậu."
+   }
+  },
+  {
+   "word": "nip sth in the bud",
+   "sense": "",
+   "pos": "idiom",
+   "ipa": "/ˌnɪp ... ɪn ðə ˈbʌd/",
+   "def_en": "To deal with a problem before it gets worse.",
+   "def_vi": "Bóp chết từ trong trứng.",
+   "gloss_vi": "ngăn từ đầu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nip sth in the bud</i> (idiom) = ngăn từ đầu. <b>Grammar</b>: idiom nhiều từ <i>nip sth in the bud</i>.",
+   "example": {
+    "en": "the council introduced fines to <b>nip it in the bud</b>",
+    "vi": "Hội đồng đưa ra phạt tiền để <b>ngăn chặn từ đầu</b>."
+   }
+  },
+  {
+   "word": "go to seed",
+   "sense": "",
+   "pos": "idiom",
+   "ipa": "/ˌɡəʊ tə ˈsiːd/",
+   "def_en": "To deteriorate in appearance or condition.",
+   "def_vi": "Xuống cấp, sa sút.",
+   "gloss_vi": "sa sút",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go to seed</i> (idiom) = sa sút. <b>Grammar</b>: idiom nhiều từ <i>go to seed</i>.",
+   "example": {
+    "en": "He's really <b>gone to seed</b> recently.",
+    "vi": "Gần đây anh ấy thật sự <b>sa sút</b>."
+   }
+  },
+  {
+   "word": "timber",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtɪmbə(r)/",
+   "def_en": "Wood used for building.",
+   "def_vi": "Gỗ (xây dựng).",
+   "gloss_vi": "gỗ",
+   "synonyms": "wood <i>(n. gỗ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Timber</i> (noun) = gỗ. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "<b>timber</b> from trees",
+    "vi": "<b>Gỗ</b> từ cây."
+   }
+  },
+  {
+   "word": "bark",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bɑːk/",
+   "def_en": "The outer covering of a tree.",
+   "def_vi": "Vỏ cây.",
+   "gloss_vi": "vỏ cây",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bark</i> (noun) = vỏ cây. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "the <b>bark</b> of a yew tree",
+    "vi": "<b>Vỏ</b> cây thủy tùng."
+   }
+  },
+  {
+   "word": "habitat",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhæbɪtæt/",
+   "def_en": "The natural home of an animal or plant.",
+   "def_vi": "Môi trường sống.",
+   "gloss_vi": "môi trường sống",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Habitat</i> (noun) = môi trường sống. <b>Note</b>: khác <i>shelter</i> (nơi trú ẩn).",
+   "ex_kit": true,
+   "example": {
+    "en": "Forests are the <b>habitat</b> of many species.",
+    "vi": "Rừng là <b>môi trường sống</b> của nhiều loài."
+   }
+  },
+  {
+   "word": "omnivorous",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɒmˈnɪvərəs/",
+   "def_en": "Eating both plants and meat.",
+   "def_vi": "Ăn tạp.",
+   "gloss_vi": "ăn tạp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Omnivorous</i> (adjective) = ăn tạp. <b>Note</b>: khác <i>carnivorous</i> (ăn thịt).",
+   "ex_kit": true,
+   "example": {
+    "en": "Bears are <b>omnivorous</b>.",
+    "vi": "Gấu là loài <b>ăn tạp</b>."
+   }
+  },
+  {
+   "word": "medicinal plant",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/məˌdɪsɪnl ˈplɑːnt/",
+   "def_en": "A plant used to make medicine.",
+   "def_vi": "Cây thuốc.",
+   "gloss_vi": "cây thuốc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Medicinal plant</i> (noun) = cây thuốc. <b>Collocations / chunks</b>: flowering / exotic ~.",
+   "ex_kit": true,
+   "example": {
+    "en": "Aloe is a <b>medicinal plant</b>.",
+    "vi": "Lô hội là một <b>cây thuốc</b>."
+   }
+  },
+  {
+   "word": "arid",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈærɪd/",
+   "def_en": "Very dry with little rain.",
+   "def_vi": "Khô cằn.",
+   "gloss_vi": "khô hạn",
+   "synonyms": "dry <i>(adj. khô)</i>",
+   "antonyms": "humid <i>(adj. ẩm)</i>",
+   "grammar_vi": "<i>Arid</i> (adjective) = khô hạn. <b>Collocations / chunks</b>: arid / humid / temperate / mild / harsh climate.",
+   "ex_kit": true,
+   "example": {
+    "en": "This region has an <b>arid climate</b>.",
+    "vi": "Vùng này có <b>khí hậu khô hạn</b>."
+   }
+  },
+  {
+   "word": "temperate",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈtempərət/",
+   "def_en": "(of climate) Neither very hot nor very cold.",
+   "def_vi": "Ôn đới, ôn hòa.",
+   "gloss_vi": "ôn đới",
+   "synonyms": "mild <i>(adj. ôn hòa)</i>",
+   "antonyms": "harsh <i>(adj. khắc nghiệt)</i>",
+   "grammar_vi": "<i>Temperate</i> (adjective) = ôn đới. <b>Grammar</b>: tính từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "Britain has a <b>temperate climate</b>.",
+    "vi": "Anh có <b>khí hậu ôn đới</b>."
+   }
+  }
+ ]
+}
