@@ -1,0 +1,457 @@
+{
+ "book": "gva",
+ "unit": 34,
+ "title_vi": "Đi lại",
+ "theory_html": "<p><b>V1. travel, journey, trip</b><br><i>V1. travel, journey, trip</i></p> <p><b>travel</b> = uncountable noun for the general activity (<b>Air travel is much cheaper…</b>), commonly a verb (<b>I travel to work by bus</b>); <b>trip</b> = an occasion when you go somewhere and come back (<b>another trip abroad</b>); <b>journey</b> = an act of travelling from one place to another, especially in a vehicle (<b>a two-hour train journey</b>); <b>journey</b> as a verb only in literary writing.</p><p><i><b>travel</b> (việc đi lại, không đếm được), <b>trip</b> (chuyến đi và về), <b>journey</b> (hành trình từ nơi này đến nơi khác).</i></p> <p><b>V2. Phrasal verbs with get</b><br><i>V2. Cụm động từ với get</i></p> <p><b>get around</b> = travel to different places; <b>get away with</b> = escape without punishment; <b>get by</b> = cope in a difficult situation; <b>get out of</b> = avoid doing something; <b>get round to</b> = do something after a long delay.</p><p><i>Các cụm động từ với <b>get</b>.</i></p>",
+ "items": [
+  {
+   "word": "travel",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtrævl/",
+   "def_en": "The general activity of going from place to place (uncountable).",
+   "def_vi": "Việc đi lại (không đếm được).",
+   "gloss_vi": "việc đi lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Travel</i> (noun) = việc đi lại. <b>Note</b>: không đếm được; khác <i>trip, journey</i>.",
+   "example": {
+    "en": "Air <b>travel</b> is much cheaper than it was in the past.",
+    "vi": "<b>Đi lại bằng máy bay</b> rẻ hơn nhiều so với trước đây."
+   }
+  },
+  {
+   "word": "trip",
+   "sense": "journey",
+   "pos": "noun",
+   "ipa": "/trɪp/",
+   "def_en": "An occasion when you go somewhere and come back.",
+   "def_vi": "Chuyến đi (đi và về).",
+   "gloss_vi": "chuyến đi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trip</i> (noun) = chuyến đi. <b>Collocations / chunks</b>: take a ~; school ~s.",
+   "example": {
+    "en": "I can't afford to take another <b>trip</b> abroad this year.",
+    "vi": "Năm nay tôi không đủ tiền cho một <b>chuyến đi</b> nước ngoài nữa."
+   }
+  },
+  {
+   "word": "journey",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdʒɜːni/",
+   "def_en": "An act of travelling from one place to another, especially in a vehicle.",
+   "def_vi": "Hành trình.",
+   "gloss_vi": "hành trình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Journey</i> (noun) = hành trình. <b>Collocations / chunks</b>: round ~; động từ chỉ trong văn chương.",
+   "example": {
+    "en": "It's a two-hour train <b>journey</b> from London to York.",
+    "vi": "Từ London đến York là <b>hành trình</b> tàu hai tiếng."
+   }
+  },
+  {
+   "word": "packed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/pækt/",
+   "def_en": "Very full of people.",
+   "def_vi": "Chật kín người.",
+   "gloss_vi": "chật cứng",
+   "synonyms": "crowded <i>(adj. đông)</i>",
+   "antonyms": "empty <i>(adj. trống)</i>",
+   "grammar_vi": "<i>Packed</i> (adjective) = chật cứng. <b>Collocations / chunks</b>: ~ train.",
+   "example": {
+    "en": "board a <b>packed</b>, commuter train",
+    "vi": "Lên một chuyến tàu <b>chật cứng</b> người đi làm."
+   }
+  },
+  {
+   "word": "roll-on, roll-off ferry",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌrəʊl ɒn ˌrəʊl ɒf ˈferi/",
+   "def_en": "A ferry that vehicles drive onto and off.",
+   "def_vi": "Phà chở xe (xe tự lái lên xuống).",
+   "gloss_vi": "phà ro-ro",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Roll-on, roll-off ferry</i> (noun) = phà ro-ro. <b>Collocations / chunks</b>: cụm danh từ cố định <i>roll-on, roll-off ferry</i>.",
+   "example": {
+    "en": "book a cabin on a <b>roll-on, roll-off ferry</b>",
+    "vi": "Đặt cabin trên <b>phà chở xe</b>."
+   }
+  },
+  {
+   "word": "hail a cab",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/heɪl ə ˈkæb/",
+   "def_en": "To wave to stop a taxi.",
+   "def_vi": "Vẫy taxi.",
+   "gloss_vi": "vẫy taxi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hail a cab</i> (verb) = vẫy taxi. <b>Grammar</b>: động từ nhiều từ <i>hail a cab</i>.",
+   "example": {
+    "en": "<b>hail an empty, black cab</b>",
+    "vi": "<b>Vẫy một chiếc taxi</b> đen còn trống."
+   }
+  },
+  {
+   "word": "cargo ship",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɑːɡəʊ ʃɪp/",
+   "def_en": "A ship that carries goods.",
+   "def_vi": "Tàu chở hàng.",
+   "gloss_vi": "tàu chở hàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cargo ship</i> (noun) = tàu chở hàng. <b>Collocations / chunks</b>: cụm danh từ cố định <i>cargo ship</i>.",
+   "example": {
+    "en": "sail on a large, <b>cargo ship</b>",
+    "vi": "Đi trên một <b>tàu chở hàng</b> lớn."
+   }
+  },
+  {
+   "word": "dinghy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdɪŋi/",
+   "def_en": "A small open boat.",
+   "def_vi": "Xuồng nhỏ.",
+   "gloss_vi": "xuồng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dinghy</i> (noun) = xuồng. <b>Collocations / chunks</b>: inflatable ~.",
+   "example": {
+    "en": "row a leaky, inflatable <b>dinghy</b>",
+    "vi": "Chèo một chiếc <b>xuồng</b> bơm hơi bị rò."
+   }
+  },
+  {
+   "word": "cycle lane",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsaɪkl leɪn/",
+   "def_en": "A part of a road only for bicycles.",
+   "def_vi": "Làn đường xe đạp.",
+   "gloss_vi": "làn xe đạp",
+   "synonyms": "cycle path <i>(n. đường xe đạp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cycle lane</i> (noun) = làn xe đạp. <b>Collocations / chunks</b>: cụm danh từ cố định <i>cycle lane</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Amsterdam has a network of safe and fast <b>cycle lanes</b>.",
+    "vi": "Amsterdam có hệ thống <b>làn xe đạp</b> an toàn và nhanh."
+   }
+  },
+  {
+   "word": "carbon emissions",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkɑːbən ɪˈmɪʃnz/",
+   "def_en": "Carbon dioxide released into the air.",
+   "def_vi": "Khí thải carbon.",
+   "gloss_vi": "khí thải carbon",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Carbon emissions</i> (noun) = khí thải carbon. <b>Collocations / chunks</b>: cut / slash ~.",
+   "example": {
+    "en": "reduce the number of people using their cars and cut <b>carbon emissions</b>",
+    "vi": "Giảm số người đi ô tô và cắt giảm <b>khí thải carbon</b>."
+   }
+  },
+  {
+   "word": "get around",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/ɡet əˈraʊnd/",
+   "def_en": "To travel to different places.",
+   "def_vi": "Đi lại (khắp nơi).",
+   "gloss_vi": "đi lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get around</i> (phr v) = đi lại. <b>Grammar</b>: phr v nhiều từ <i>get around</i>.",
+   "example": {
+    "en": "More and more people are <b>getting around</b> by bicycle, especially in big cities.",
+    "vi": "Ngày càng nhiều người <b>đi lại</b> bằng xe đạp."
+   }
+  },
+  {
+   "word": "relinquish",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rɪˈlɪŋkwɪʃ/",
+   "def_en": "To give up something (formal).",
+   "def_vi": "Từ bỏ.",
+   "gloss_vi": "từ bỏ",
+   "synonyms": "give up <i>(phr v. từ bỏ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Relinquish</i> (verb) = từ bỏ. <b>Note</b>: trang trọng.",
+   "example": {
+    "en": "if governments are so enthusiastic about citizens <b>relinquishing</b> their private cars",
+    "vi": "Chính phủ muốn dân <b>từ bỏ</b> xe riêng."
+   }
+  },
+  {
+   "word": "fossil fuels",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfɒsl ˌfjuːəlz/",
+   "def_en": "Fuels such as coal, oil and gas.",
+   "def_vi": "Nhiên liệu hóa thạch.",
+   "gloss_vi": "nhiên liệu hóa thạch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fossil fuels</i> (noun) = nhiên liệu hóa thạch. <b>Collocations / chunks</b>: cụm danh từ cố định <i>fossil fuels</i>.",
+   "example": {
+    "en": "the majority of public transport runs on <b>fossil fuels</b>",
+    "vi": "Đa số phương tiện công cộng chạy bằng <b>nhiên liệu hóa thạch</b>."
+   }
+  },
+  {
+   "word": "finite",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈfaɪnaɪt/",
+   "def_en": "Limited; not lasting for ever.",
+   "def_vi": "Có hạn.",
+   "gloss_vi": "có hạn",
+   "synonyms": "limited <i>(adj. hạn chế)</i>",
+   "antonyms": "infinite <i>(adj. vô hạn)</i>",
+   "grammar_vi": "<i>Finite</i> (adjective) = có hạn. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "is reliant on <b>finite</b> resources",
+    "vi": "Phụ thuộc vào tài nguyên <b>có hạn</b>."
+   }
+  },
+  {
+   "word": "preposterous",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/prɪˈpɒstərəs/",
+   "def_en": "Completely unreasonable or silly.",
+   "def_vi": "Phi lý, lố bịch.",
+   "gloss_vi": "phi lý",
+   "synonyms": "absurd <i>(adj. vô lý)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Preposterous</i> (adjective) = phi lý. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "Some of them may seem like <b>preposterous</b> ideas drawn from science fiction",
+    "vi": "Một số có vẻ là ý tưởng <b>phi lý</b> lấy từ khoa học viễn tưởng."
+   }
+  },
+  {
+   "word": "eco-friendly",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌiːkəʊ ˈfrendli/",
+   "def_en": "Not harmful to the environment.",
+   "def_vi": "Thân thiện với môi trường.",
+   "gloss_vi": "thân thiện môi trường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Eco-friendly</i> (adjective) = thân thiện môi trường. <b>Grammar</b>: tính từ ghép <i>eco</i> + <i>friendly</i>.",
+   "example": {
+    "en": "the drive to find <b>eco-friendly</b> forms of transport is on",
+    "vi": "Cuộc tìm kiếm phương tiện <b>thân thiện môi trường</b> đang diễn ra."
+   }
+  },
+  {
+   "word": "get away with",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/ɡet əˈweɪ wɪð/",
+   "def_en": "To escape without punishment for something you have done wrong.",
+   "def_vi": "Thoát tội.",
+   "gloss_vi": "thoát tội",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get away with</i> (phr v) = thoát tội. <b>Grammar</b>: phr v nhiều từ <i>get away with</i>.",
+   "example": {
+    "en": "nobody saw them, so they <b>got away with</b> their crime",
+    "vi": "Không ai thấy nên chúng <b>thoát tội</b>."
+   }
+  },
+  {
+   "word": "get by",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/ɡet ˈbaɪ/",
+   "def_en": "To cope in a difficult situation.",
+   "def_vi": "Xoay xở.",
+   "gloss_vi": "xoay xở",
+   "synonyms": "cope <i>(v. đối phó)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get by</i> (phr v) = xoay xở. <b>Grammar</b>: phr v nhiều từ <i>get by</i>.",
+   "example": {
+    "en": "I couldn't speak the language, but I <b>got by</b> with gestures.",
+    "vi": "Tôi không biết tiếng nhưng <b>xoay xở được</b> bằng cử chỉ."
+   }
+  },
+  {
+   "word": "get out of",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/ɡet ˈaʊt əv/",
+   "def_en": "To avoid doing something.",
+   "def_vi": "Lẩn tránh.",
+   "gloss_vi": "trốn tránh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get out of</i> (phr v) = trốn tránh. <b>Grammar</b>: + V-ing.",
+   "example": {
+    "en": "He tried to <b>get out of</b> going on the school trip",
+    "vi": "Cậu ấy cố <b>trốn</b> chuyến dã ngoại của trường."
+   }
+  },
+  {
+   "word": "get round to",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/ɡet ˈraʊnd tə/",
+   "def_en": "To do something after a long delay.",
+   "def_vi": "Rốt cuộc cũng làm.",
+   "gloss_vi": "cuối cùng cũng làm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get round to</i> (phr v) = cuối cùng cũng làm. <b>Grammar</b>: + V-ing.",
+   "example": {
+    "en": "yesterday I eventually <b>got round to</b> giving it back",
+    "vi": "Hôm qua tôi <b>cuối cùng cũng</b> trả lại DVD."
+   }
+  },
+  {
+   "word": "slidewalk",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈslaɪdwɔːk/",
+   "def_en": "A moving surface that carries people along a street.",
+   "def_vi": "Vỉa hè trượt (băng chuyền đi bộ).",
+   "gloss_vi": "vỉa hè chuyển động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Slidewalk</i> (noun) = vỉa hè chuyển động. <b>Note</b>: ở sân bay gọi <i>travelator</i>.",
+   "example": {
+    "en": "Keep moving even while you're standing still when <b>slidewalks</b> replace conventional pavements.",
+    "vi": "Vẫn di chuyển khi đứng yên khi <b>vỉa hè trượt</b> thay vỉa hè thường."
+   }
+  },
+  {
+   "word": "travelator",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtrævəleɪtə(r)/",
+   "def_en": "A moving walkway, e.g. in an airport.",
+   "def_vi": "Thang cuốn ngang.",
+   "gloss_vi": "băng chuyền đi bộ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Travelator</i> (noun) = băng chuyền đi bộ. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "Airports have long used similar systems in the form of <b>travelators</b>.",
+    "vi": "Sân bay từ lâu dùng hệ thống tương tự dạng <b>băng chuyền đi bộ</b>."
+   }
+  },
+  {
+   "word": "congested",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kənˈdʒestɪd/",
+   "def_en": "Too full of traffic.",
+   "def_vi": "Tắc nghẽn.",
+   "gloss_vi": "ùn tắc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Congested</i> (adjective) = ùn tắc. <b>Word family</b>: congestion (n.).",
+   "example": {
+    "en": "Users will have the advantage of avoiding <b>congested</b> roads",
+    "vi": "Người dùng tránh được đường <b>ùn tắc</b>."
+   }
+  },
+  {
+   "word": "undergo",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌʌndəˈɡəʊ/",
+   "def_en": "To experience something such as training or treatment.",
+   "def_vi": "Trải qua.",
+   "gloss_vi": "trải qua",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Undergo</i> (verb) = trải qua. <b>Grammar</b>: động từ.",
+   "example": {
+    "en": "would require individuals to <b>undergo</b> significant training in navigation and safety",
+    "vi": "Cá nhân phải <b>trải qua</b> huấn luyện đáng kể."
+   }
+  },
+  {
+   "word": "slash",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/slæʃ/",
+   "def_en": "To reduce something greatly.",
+   "def_vi": "Cắt giảm mạnh.",
+   "gloss_vi": "cắt giảm mạnh",
+   "synonyms": "cut <i>(v. cắt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Slash</i> (verb) = cắt giảm mạnh. <b>Grammar</b>: động từ.",
+   "example": {
+    "en": "<b>slashing</b> CO2 emissions and significantly reducing noise pollution",
+    "vi": "Tàu đệm từ <b>cắt giảm mạnh</b> khí thải CO2."
+   }
+  },
+  {
+   "word": "incompatible with",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɪnkəmˈpætəbl wɪð/",
+   "def_en": "Not able to work with something else.",
+   "def_vi": "Không tương thích với.",
+   "gloss_vi": "không tương thích",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "compatible <i>(adj. tương thích)</i>",
+   "grammar_vi": "<i>Incompatible with</i> (adjective) = không tương thích. <b>Collocations / chunks</b>: cụm tính từ cố định <i>incompatible with</i>.",
+   "example": {
+    "en": "maglev trains are <b>incompatible with</b> the existent rail tracks",
+    "vi": "Tàu đệm từ <b>không tương thích với</b> đường ray hiện có."
+   }
+  },
+  {
+   "word": "make a comeback",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/meɪk ə ˈkʌmbæk/",
+   "def_en": "To become popular again.",
+   "def_vi": "Trở lại, hồi sinh.",
+   "gloss_vi": "trở lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Make a comeback</i> (verb) = trở lại. <b>Grammar</b>: động từ nhiều từ <i>make a comeback</i>.",
+   "example": {
+    "en": "these flying machines are finally <b>making a comeback</b>",
+    "vi": "Những cỗ máy bay này cuối cùng đang <b>trở lại</b>."
+   }
+  },
+  {
+   "word": "confined to",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kənˈfaɪnd tə/",
+   "def_en": "Kept within a limited area.",
+   "def_vi": "Bị giới hạn trong.",
+   "gloss_vi": "bị giới hạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Confined to</i> (adjective) = bị giới hạn. <b>Collocations / chunks</b>: cụm tính từ cố định <i>confined to</i>.",
+   "example": {
+    "en": "<b>Confined to</b> pavements, users' speeds are restricted.",
+    "vi": "<b>Bị giới hạn trên</b> vỉa hè, tốc độ người dùng bị hạn chế."
+   }
+  }
+ ]
+}
