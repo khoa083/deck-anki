@@ -1,0 +1,430 @@
+{
+ "book": "upp",
+ "unit": 10,
+ "title_vi": "Các mối quan hệ",
+ "theory_html": "<p><b>A. Types of relationship</b><br><i>A. Các kiểu quan hệ</i></p> <p><b>best friends, a good friend, a casual acquaintance, housemates</b> (<b>-mate</b>: classmate, roommate, workmate, flatmate), <b>my ex, a steady relationship, partner, colleagues, parents-in-law</b>.</p><p><i><b>bạn thân, người quen, bạn cùng nhà, người yêu cũ, quan hệ ổn định, bạn đời / đối tác, đồng nghiệp, bố mẹ vợ/chồng</b>.</i></p> <p><b>B. Internet relationships</b><br><i>B. Quan hệ trên mạng</i></p> <p><b>friends, contacts; invite, accept; interact; post comments; share photos; tag; unfriend/defriend</b>.</p><p><i><b>bạn bè, liên hệ, mời, chấp nhận, tương tác, bình luận, chia sẻ, gắn thẻ, hủy kết bạn</b>.</i></p> <p><b>C. Liking and not liking someone</b><br><i>C. Thích và không thích</i></p> <p><b>adore, idolise; can’t stand, loathe; look up to, admire / look down on, despise; be attracted to, fancy / leave sb cold</b>.</p><p><i><b>yêu quý, thần tượng; ghét cay đắng; kính trọng, ngưỡng mộ / coi thường, khinh; bị thu hút / không có cảm giác gì</b>.</i></p> <p><b>D. Phrases and idioms for relationships and dating</b><br><i>D. Cụm và thành ngữ về hẹn hò</i></p> <p><b>get on well, not see eye to eye, fall out with, have an affair, make it up, see each other, get together</b>. <b>make friends</b> (NOT <b>get/find friends</b>).</p><p><i><b>hòa hợp, không cùng quan điểm, cãi nhau, ngoại tình, làm lành, hẹn hò, đến với nhau; kết bạn</b>.</i></p>",
+ "items": [
+  {
+   "word": "acquaintance",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈkweɪntəns/",
+   "def_en": "A person you have met but don’t know well.",
+   "def_vi": "Người đã gặp nhưng không thân.",
+   "gloss_vi": "người quen",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Acquaintance</i> (noun) = người quen. <b>Grammar</b>: <i>a casual acquaintance</i>.",
+   "example": {
+    "en": "She’s more than just a casual <b>acquaintance</b>, right?",
+    "vi": "Cô ấy hơn hẳn một <b>người quen</b> sơ sơ, đúng không?"
+   }
+  },
+  {
+   "word": "housemate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhaʊsmeɪt/",
+   "def_en": "A person you share a house with.",
+   "def_vi": "Người ở chung nhà.",
+   "gloss_vi": "bạn cùng nhà",
+   "synonyms": "flatmate <i>(n. bạn cùng căn hộ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Housemate</i> (noun) = bạn cùng nhà. <b>Grammar</b>: <i>-mate</i>: classmate, roommate, workmate.",
+   "example": {
+    "en": "We were <b>housemates</b> at university.",
+    "vi": "Chúng tôi là <b>bạn cùng nhà</b> hồi đại học."
+   }
+  },
+  {
+   "word": "ex",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/eks/",
+   "def_en": "A former husband, wife or partner (informal).",
+   "def_vi": "Chồng, vợ hay người yêu cũ (thân mật).",
+   "gloss_vi": "người yêu cũ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ex</i> (noun) = người yêu cũ. <b>Grammar</b>: thân mật; <i>ex-girlfriend, ex-husband</i>.",
+   "example": {
+    "en": "I met her through my <b>ex</b>, Kallum.",
+    "vi": "Tôi quen cô ấy qua <b>người yêu cũ</b> của tôi, Kallum."
+   }
+  },
+  {
+   "word": "steady",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈstedi/",
+   "def_en": "Fixed and not changing suddenly.",
+   "def_vi": "Ổn định, không đổi đột ngột.",
+   "gloss_vi": "ổn định",
+   "synonyms": "stable <i>(adj. ổn định)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Steady</i> (adjective) = ổn định. <b>Grammar</b>: <i>a steady relationship/job</i>.",
+   "example": {
+    "en": "She wasn’t in a <b>steady</b> relationship with anyone at the time.",
+    "vi": "Lúc đó cô ấy không có mối quan hệ <b>ổn định</b> với ai."
+   }
+  },
+  {
+   "word": "partner",
+   "sense": "relationship",
+   "pos": "noun",
+   "ipa": "/ˈpɑːtnə(r)/",
+   "def_en": "Someone you live with but are not married to.",
+   "def_vi": "Người sống chung nhưng không kết hôn.",
+   "gloss_vi": "bạn đời",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Partner</i> (noun) = bạn đời. <b>Grammar</b>: cũng = đối tác kinh doanh.",
+   "example": {
+    "en": "Is that Kallum who’s now Olivia’s <b>partner</b>?",
+    "vi": "Đó có phải Kallum, giờ là <b>bạn đời</b> của Olivia?"
+   }
+  },
+  {
+   "word": "parents-in-law",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈpeərənts ɪn lɔː/",
+   "def_en": "Your wife’s or husband’s parents.",
+   "def_vi": "Bố mẹ vợ hay chồng.",
+   "gloss_vi": "bố mẹ vợ/chồng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Parents-in-law</i> (plural noun) = bố mẹ vợ/chồng. <b>Grammar</b>: <i>mother-in-law, father-in-law</i>.",
+   "example": {
+    "en": "Kallum’s living with his <b>parents-in-law</b> at the moment.",
+    "vi": "Kallum đang sống với <b>bố mẹ vợ</b>."
+   }
+  },
+  {
+   "word": "contacts",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈkɒntækts/",
+   "def_en": "People in your list on a social network.",
+   "def_vi": "Người trong danh sách trên mạng xã hội.",
+   "gloss_vi": "danh bạ, liên hệ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Contacts</i> (plural noun) = danh bạ, liên hệ. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "You can build up your list of <b>contacts</b>.",
+    "vi": "Bạn có thể mở rộng danh sách <b>liên hệ</b>."
+   }
+  },
+  {
+   "word": "invite",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪnˈvaɪt/",
+   "def_en": "To ask someone to join something.",
+   "def_vi": "Mời ai tham gia.",
+   "gloss_vi": "mời",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Invite</i> (verb) = mời. <b>Grammar</b>: <i>invite sb to do sth</i>. <b>Word family</b>: <i>invitation</i>.",
+   "example": {
+    "en": "You can <b>invite</b> people to become your friends.",
+    "vi": "Bạn có thể <b>mời</b> người khác làm bạn."
+   }
+  },
+  {
+   "word": "interact",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɪntərˈækt/",
+   "def_en": "To communicate with someone.",
+   "def_vi": "Giao tiếp với ai.",
+   "gloss_vi": "tương tác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Interact</i> (verb) = tương tác. <b>Grammar</b>: <i>interact with sb</i>. <b>Word family</b>: <i>interaction</i>.",
+   "example": {
+    "en": "You can <b>interact</b> with your friends by exchanging messages.",
+    "vi": "Bạn có thể <b>tương tác</b> với bạn bè bằng cách gửi tin nhắn."
+   }
+  },
+  {
+   "word": "tag",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/tæɡ/",
+   "def_en": "To name someone in a photo you post online.",
+   "def_vi": "Ghi tên ai trong ảnh đăng lên mạng.",
+   "gloss_vi": "gắn thẻ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tag</i> (verb) = gắn thẻ. <b>Grammar</b>: <i>tag – tagged</i>.",
+   "example": {
+    "en": "You can also share photos and <b>tag</b> your friends.",
+    "vi": "Bạn có thể chia sẻ ảnh và <b>gắn thẻ</b> bạn bè."
+   }
+  },
+  {
+   "word": "unfriend",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ʌnˈfrend/",
+   "def_en": "To remove someone from your list of friends online.",
+   "def_vi": "Xóa ai khỏi danh sách bạn trên mạng.",
+   "gloss_vi": "hủy kết bạn",
+   "synonyms": "defriend <i>(v. hủy kết bạn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Unfriend</i> (verb) = hủy kết bạn. <b>Grammar</b>: từ mới trong mạng xã hội.",
+   "example": {
+    "en": "If you want to finish a relationship, you can <b>unfriend</b> that person.",
+    "vi": "Nếu muốn kết thúc quan hệ, bạn có thể <b>hủy kết bạn</b> với người đó."
+   }
+  },
+  {
+   "word": "adore",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈdɔː(r)/",
+   "def_en": "To love someone very much.",
+   "def_vi": "Rất yêu ai.",
+   "gloss_vi": "yêu quý, rất mê",
+   "synonyms": "love <i>(v. yêu)</i>",
+   "antonyms": "hate <i>(v. ghét)</i>",
+   "grammar_vi": "<i>Adore</i> (verb) = yêu quý, rất mê. <b>Grammar</b>: không dùng tiếp diễn.",
+   "ex_kit": true,
+   "example": {
+    "en": "She <b>adores</b> her grandchildren.",
+    "vi": "Bà <b>rất yêu quý</b> các cháu."
+   }
+  },
+  {
+   "word": "idolise",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈaɪdəlaɪz/",
+   "def_en": "To admire someone so much you think they are perfect.",
+   "def_vi": "Ngưỡng mộ ai đến mức coi là hoàn hảo.",
+   "gloss_vi": "thần tượng",
+   "synonyms": "worship <i>(v. tôn thờ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Idolise</i> (verb) = thần tượng. <b>Grammar</b>: Mỹ <i>idolize</i>. <b>Word family</b>: <i>idol</i>.",
+   "example": {
+    "en": "She doesn’t just like Ben, she <b>idolises</b> him.",
+    "vi": "Cô ấy không chỉ thích Ben, cô ấy <b>thần tượng</b> anh ấy."
+   }
+  },
+  {
+   "word": "loathe",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ləʊð/",
+   "def_en": "To hate very much.",
+   "def_vi": "Rất ghét.",
+   "gloss_vi": "ghét cay ghét đắng",
+   "synonyms": "detest <i>(v. ghê tởm)</i>",
+   "antonyms": "adore <i>(v. yêu quý)</i>",
+   "grammar_vi": "<i>Loathe</i> (verb) = ghét cay ghét đắng. <b>Grammar</b>: /ləʊð/ (khác <i>loath</i> /ləʊθ/).",
+   "ex_kit": true,
+   "example": {
+    "en": "I <b>loathe</b> noisy parties.",
+    "vi": "Tôi <b>ghét cay ghét đắng</b> những bữa tiệc ồn ào."
+   }
+  },
+  {
+   "word": "look up to",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌlʊk ˈʌp tə/",
+   "def_en": "To respect and admire someone.",
+   "def_vi": "Tôn trọng và ngưỡng mộ ai.",
+   "gloss_vi": "kính trọng",
+   "synonyms": "admire <i>(v. ngưỡng mộ)</i>",
+   "antonyms": "look down on <i>(pv. coi thường)</i>",
+   "grammar_vi": "<i>Look up to</i> (phrasal verb) = kính trọng. <b>Grammar</b>: không tách.",
+   "ex_kit": true,
+   "example": {
+    "en": "I’ve always <b>looked up to</b> my older brother.",
+    "vi": "Tôi luôn <b>kính trọng</b> anh trai."
+   }
+  },
+  {
+   "word": "look down on",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌlʊk ˈdaʊn ɒn/",
+   "def_en": "To think you are better than someone.",
+   "def_vi": "Nghĩ mình hơn ai.",
+   "gloss_vi": "coi thường",
+   "synonyms": "despise <i>(v. khinh)</i>",
+   "antonyms": "look up to <i>(pv. kính trọng)</i>",
+   "grammar_vi": "<i>Look down on</i> (phrasal verb) = coi thường. <b>Grammar</b>: không tách.",
+   "ex_kit": true,
+   "example": {
+    "en": "Don’t <b>look down on</b> people with less education than you.",
+    "vi": "Đừng <b>coi thường</b> người ít học hơn bạn."
+   }
+  },
+  {
+   "word": "despise",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪˈspaɪz/",
+   "def_en": "To feel a strong dislike and no respect for someone.",
+   "def_vi": "Rất ghét và không tôn trọng ai.",
+   "gloss_vi": "khinh bỉ",
+   "synonyms": "look down on <i>(pv. coi thường)</i>",
+   "antonyms": "admire <i>(v. ngưỡng mộ)</i>",
+   "grammar_vi": "<i>Despise</i> (verb) = khinh bỉ. <b>Grammar</b>: không dùng tiếp diễn.",
+   "ex_kit": true,
+   "example": {
+    "en": "She <b>despises</b> people who lie.",
+    "vi": "Cô ấy <b>khinh bỉ</b> những kẻ nói dối."
+   }
+  },
+  {
+   "word": "be attracted to",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/bi əˈtræktɪd tə/",
+   "def_en": "To find someone attractive.",
+   "def_vi": "Thấy ai hấp dẫn.",
+   "gloss_vi": "bị thu hút bởi",
+   "synonyms": "fancy <i>(v. thích)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be attracted to</i> (verb phrase) = bị thu hút bởi. <b>Grammar</b>: <i>attract</i> (v.).",
+   "ex_kit": true,
+   "example": {
+    "en": "I’m <b>attracted to</b> people with a good sense of humour.",
+    "vi": "Tôi <b>bị thu hút bởi</b> người có óc hài hước."
+   }
+  },
+  {
+   "word": "leave sb cold",
+   "sense": "",
+   "pos": "idiom",
+   "ipa": "/ˌliːv ˈsʌmbədi ˈkəʊld/",
+   "def_en": "Not to make someone interested or attracted.",
+   "def_vi": "Không làm ai thích hay quan tâm.",
+   "gloss_vi": "chẳng gây cảm giác gì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Leave sb cold</i> (idiom) = chẳng gây cảm giác gì. <b>Grammar</b>: = <i>doesn’t do anything for me</i>.",
+   "example": {
+    "en": "I really fancy Charlotte, but her friend just <b>leaves me cold</b>.",
+    "vi": "Tôi rất thích Charlotte, nhưng bạn cô ấy thì <b>chẳng làm tôi rung động</b>."
+   }
+  },
+  {
+   "word": "not see eye to eye",
+   "sense": "",
+   "pos": "idiom",
+   "ipa": "/nɒt ˌsiː ˌaɪ tu ˈaɪ/",
+   "def_en": "To often argue or disagree.",
+   "def_vi": "Hay cãi hay bất đồng.",
+   "gloss_vi": "không cùng quan điểm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Not see eye to eye</i> (idiom) = không cùng quan điểm. <b>Grammar</b>: thường ở phủ định.",
+   "example": {
+    "en": "Jack and Amelia <b>don’t see eye to eye</b>.",
+    "vi": "Jack và Amelia <b>không cùng quan điểm</b>."
+   }
+  },
+  {
+   "word": "fall out with",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌfɔːl ˈaʊt wɪð/",
+   "def_en": "To have an argument with someone.",
+   "def_vi": "Cãi nhau với ai.",
+   "gloss_vi": "cãi nhau với",
+   "synonyms": "quarrel with <i>(pv. cãi nhau)</i>",
+   "antonyms": "make up <i>(pv. làm lành)</i>",
+   "grammar_vi": "<i>Fall out with</i> (phrasal verb) = cãi nhau với. <b>Grammar</b>: <i>fall – fell – fallen</i>.",
+   "example": {
+    "en": "I’ve <b>fallen out with</b> my parents again.",
+    "vi": "Tôi lại <b>cãi nhau với</b> bố mẹ."
+   }
+  },
+  {
+   "word": "have an affair",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌhæv ən əˈfeə(r)/",
+   "def_en": "To have a sexual relationship, usually secret.",
+   "def_vi": "Có quan hệ tình ái, thường bí mật.",
+   "gloss_vi": "ngoại tình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have an affair</i> (verb phrase) = ngoại tình. <b>Grammar</b>: <i>have an affair with sb</i>.",
+   "example": {
+    "en": "Carl is <b>having an affair</b> with his boss.",
+    "vi": "Carl đang <b>ngoại tình</b> với sếp."
+   }
+  },
+  {
+   "word": "make it up",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌmeɪk ɪt ˈʌp/",
+   "def_en": "To be friends again after a quarrel.",
+   "def_vi": "Làm bạn lại sau khi cãi nhau.",
+   "gloss_vi": "làm lành",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "fall out <i>(pv. cãi nhau)</i>",
+   "grammar_vi": "<i>Make it up</i> (verb phrase) = làm lành. <b>Grammar</b>: <i>make it up (with sb)</i>.",
+   "example": {
+    "en": "Let’s try and <b>make it up</b>.",
+    "vi": "Hãy cố <b>làm lành</b> đi."
+   }
+  },
+  {
+   "word": "see each other",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌsiː iːtʃ ˈʌðə(r)/",
+   "def_en": "To be in a romantic relationship.",
+   "def_vi": "Có quan hệ yêu đương.",
+   "gloss_vi": "hẹn hò",
+   "synonyms": "date <i>(v. hẹn hò)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>See each other</i> (verb phrase) = hẹn hò. <b>Grammar</b>: dùng tiếp diễn.",
+   "example": {
+    "en": "They’ve been <b>seeing each other</b> for a couple of months.",
+    "vi": "Họ đã <b>hẹn hò</b> được vài tháng."
+   }
+  },
+  {
+   "word": "get together",
+   "sense": "romance",
+   "pos": "phrasal verb",
+   "ipa": "/ˌɡet təˈɡeðə(r)/",
+   "def_en": "To start a romantic relationship.",
+   "def_vi": "Bắt đầu quan hệ yêu đương.",
+   "gloss_vi": "đến với nhau",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "break up <i>(pv. chia tay)</i>",
+   "grammar_vi": "<i>Get together</i> (phrasal verb) = đến với nhau. <b>Grammar</b>: cũng = tụ họp.",
+   "example": {
+    "en": "They met at a party and <b>got together</b> soon after.",
+    "vi": "Họ gặp nhau ở bữa tiệc và <b>đến với nhau</b> ngay sau đó."
+   }
+  },
+  {
+   "word": "make friends",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌmeɪk ˈfrendz/",
+   "def_en": "To start a friendship.",
+   "def_vi": "Bắt đầu tình bạn.",
+   "gloss_vi": "kết bạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Make friends</i> (verb phrase) = kết bạn. <b>Grammar</b>: <i>make friends</i> (không <i>get/find friends</i>).",
+   "example": {
+    "en": "It’s often difficult to <b>make</b> new <b>friends</b> when you move to another city.",
+    "vi": "Thường khó <b>kết bạn</b> mới khi chuyển đến thành phố khác."
+   }
+  }
+ ]
+}

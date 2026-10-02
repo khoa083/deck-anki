@@ -1,0 +1,969 @@
+{
+ "book": "upp",
+ "unit": 8,
+ "title_vi": "Miêu tả người: tính cách",
+ "theory_html": "<p><b>A. Intellectual ability</b><br><i>A. Năng lực trí tuệ</i></p> <p>Lots of ability: <b>intelligent, bright, clever, sharp, shrewd, able, gifted, talented, brainy</b> (infml). Lacking ability: <b>stupid, foolish, simple, silly, brainless, daft, dumb, dim, thick</b> (informal, can be offensive). Clever in a negative way: <b>cunning, crafty, sly</b>.</p><p><i><b>thông minh, sắc sảo, khôn ngoan, có tài; ngốc nghếch; xảo quyệt, ranh mãnh</b>.</i></p> <p><b>B. Attitudes towards life</b><br><i>B. Thái độ sống</i></p> <p><b>pessimistic / optimistic; extroverted / introverted; tense (wound up, stressed out) / relaxed; sensible, down-to-earth; sensitive, upset (worked-up)</b>.</p><p><i><b>bi quan/lạc quan, hướng ngoại/hướng nội, căng thẳng/thư thái, biết điều, thực tế, nhạy cảm</b>.</i></p> <p><b>C. Attitude towards other people</b><br><i>C. Thái độ với người khác</i></p> <p><b>sociable, gregarious; quarrelsome, argumentative; cruel, sadistic; easy-going, even-tempered, laid-back; impolite, rude, ill-mannered, discourteous; honest, trustworthy, reliable, sincere; jealous, envious</b>.</p><p><i><b>hòa đồng, hay gây gổ, tàn nhẫn, dễ tính, điềm đạm, vô lễ, đáng tin, chân thành, đố kỵ</b>.</i></p> <p><b>D. One person’s meat is another person’s poison</b><br><i>D. Tích cực hay tiêu cực tùy góc nhìn</i></p> <p>positive → negative: <b>determined → obstinate, stubborn, pig-headed; thrifty, economical → stingy, mean, tight-fisted, miserly; self-assured, confident → self-important, arrogant, full of yourself; unconventional, original → eccentric, odd, peculiar, weird; frank, direct, open → blunt, abrupt, brusque, curt; broad-minded → unprincipled, permissive; enquiring → inquisitive, nosy; generous → extravagant; innocent → naive; ambitious → pushy; assertive → aggressive, bossy</b>.</p><p><i>Cặp từ cùng nghĩa nhưng sắc thái tích cực/tiêu cực.</i></p>",
+ "items": [
+  {
+   "word": "bright",
+   "sense": "intelligent",
+   "pos": "adjective",
+   "ipa": "/braɪt/",
+   "def_en": "Intelligent and quick to learn.",
+   "def_vi": "Thông minh, học nhanh.",
+   "gloss_vi": "sáng dạ",
+   "synonyms": "clever <i>(adj. thông minh)</i>",
+   "antonyms": "dim <i>(adj. đần)</i>",
+   "grammar_vi": "<i>Bright</i> (adjective) = sáng dạ. <b>Grammar</b>: dùng nhiều cho trẻ em.",
+   "ex_kit": true,
+   "example": {
+    "en": "She’s a very <b>bright</b> girl – she learns everything quickly.",
+    "vi": "Cô bé rất <b>sáng dạ</b> – học gì cũng nhanh."
+   }
+  },
+  {
+   "word": "sharp",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ʃɑːp/",
+   "def_en": "Quick to notice and understand things.",
+   "def_vi": "Nhanh nhạy nhận biết và hiểu.",
+   "gloss_vi": "sắc sảo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sharp</i> (adjective) = sắc sảo. <b>Grammar</b>: <i>as sharp as a knife</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "My grandmother is 90 but she’s still very <b>sharp</b>.",
+    "vi": "Bà tôi 90 tuổi nhưng đầu óc vẫn rất <b>sắc sảo</b>."
+   }
+  },
+  {
+   "word": "shrewd",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ʃruːd/",
+   "def_en": "Clever at understanding situations and making good decisions.",
+   "def_vi": "Giỏi hiểu tình huống và quyết định đúng.",
+   "gloss_vi": "khôn ngoan, sắc sảo",
+   "synonyms": "astute <i>(adj. tinh tường)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shrewd</i> (adjective) = khôn ngoan, sắc sảo. <b>Grammar</b>: <i>a shrewd decision/businessman</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She’s a very <b>shrewd</b> businesswoman.",
+    "vi": "Bà ấy là một nữ doanh nhân rất <b>khôn ngoan</b>."
+   }
+  },
+  {
+   "word": "gifted",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɡɪftɪd/",
+   "def_en": "Having a natural ability or high intelligence.",
+   "def_vi": "Có năng khiếu bẩm sinh hay trí tuệ cao.",
+   "gloss_vi": "có năng khiếu",
+   "synonyms": "talented <i>(adj. có tài)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gifted</i> (adjective) = có năng khiếu. <b>Grammar</b>: <i>gift</i> = năng khiếu.",
+   "ex_kit": true,
+   "example": {
+    "en": "The school has special classes for <b>gifted</b> children.",
+    "vi": "Trường có lớp đặc biệt cho trẻ <b>có năng khiếu</b>."
+   }
+  },
+  {
+   "word": "brainy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈbreɪni/",
+   "def_en": "Intelligent (informal).",
+   "def_vi": "Thông minh (thân mật).",
+   "gloss_vi": "sáng dạ, giỏi",
+   "synonyms": "clever <i>(adj. thông minh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Brainy</i> (adjective) = sáng dạ, giỏi. <b>Grammar</b>: thân mật.",
+   "ex_kit": true,
+   "example": {
+    "en": "My sister is the <b>brainy</b> one in the family.",
+    "vi": "Em gái tôi là đứa <b>giỏi</b> trong nhà."
+   }
+  },
+  {
+   "word": "foolish",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈfuːlɪʃ/",
+   "def_en": "Not sensible; stupid.",
+   "def_vi": "Không biết điều; ngốc.",
+   "gloss_vi": "dại dột",
+   "synonyms": "silly <i>(adj. ngớ ngẩn)</i>",
+   "antonyms": "wise <i>(adj. khôn ngoan)</i>",
+   "grammar_vi": "<i>Foolish</i> (adjective) = dại dột. <b>Grammar</b>: <i>it was foolish of sb to…</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "It was <b>foolish</b> of him to drive so fast.",
+    "vi": "Thật <b>dại dột</b> khi lái xe nhanh như thế."
+   }
+  },
+  {
+   "word": "daft",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dɑːft/",
+   "def_en": "Silly (informal).",
+   "def_vi": "Ngớ ngẩn (thân mật).",
+   "gloss_vi": "khờ khạo",
+   "synonyms": "silly <i>(adj. ngớ ngẩn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Daft</i> (adjective) = khờ khạo. <b>Grammar</b>: thân mật, Anh–Anh.",
+   "ex_kit": true,
+   "example": {
+    "en": "Don’t be <b>daft</b> – of course I remember you!",
+    "vi": "Đừng <b>ngớ ngẩn</b> thế – dĩ nhiên là tôi nhớ bạn!"
+   }
+  },
+  {
+   "word": "dim",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dɪm/",
+   "def_en": "Not intelligent (informal, can be offensive).",
+   "def_vi": "Kém thông minh (thân mật, có thể xúc phạm).",
+   "gloss_vi": "đần độn",
+   "synonyms": "thick <i>(adj. đần)</i>",
+   "antonyms": "bright <i>(adj. sáng dạ)</i>",
+   "grammar_vi": "<i>Dim</i> (adjective) = đần độn. <b>Grammar</b>: thân mật. <b>Common mistakes</b>: cũng = mờ (ánh sáng).",
+   "ex_kit": true,
+   "example": {
+    "en": "He’s a bit <b>dim</b> – you have to explain everything twice.",
+    "vi": "Anh ta hơi <b>chậm hiểu</b> – phải giải thích mọi thứ hai lần."
+   }
+  },
+  {
+   "word": "cunning",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈkʌnɪŋ/",
+   "def_en": "Clever in a negative way, using your brains to trick people.",
+   "def_vi": "Khôn theo cách xấu, lừa người khác.",
+   "gloss_vi": "xảo quyệt",
+   "synonyms": "crafty <i>(adj. ranh mãnh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cunning</i> (adjective) = xảo quyệt. <b>Grammar</b>: tiêu cực.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>cunning</b> fox tricked the farmer.",
+    "vi": "Con cáo <b>xảo quyệt</b> lừa được người nông dân."
+   }
+  },
+  {
+   "word": "sly",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/slaɪ/",
+   "def_en": "Deceiving people in a clever way.",
+   "def_vi": "Lừa người một cách khéo.",
+   "gloss_vi": "ranh mãnh, láu cá",
+   "synonyms": "cunning <i>(adj. xảo quyệt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sly</i> (adjective) = ranh mãnh, láu cá. <b>Grammar</b>: tiêu cực.",
+   "ex_kit": true,
+   "example": {
+    "en": "He’s <b>sly</b> – don’t believe what he says.",
+    "vi": "Anh ta <b>láu cá</b> – đừng tin những gì anh ta nói."
+   }
+  },
+  {
+   "word": "pessimistic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌpesɪˈmɪstɪk/",
+   "def_en": "Always expecting the worst to happen.",
+   "def_vi": "Luôn nghĩ điều tệ nhất sẽ xảy ra.",
+   "gloss_vi": "bi quan",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "optimistic <i>(adj. lạc quan)</i>",
+   "grammar_vi": "<i>Pessimistic</i> (adjective) = bi quan. <b>Grammar</b>: <i>pessimist</i> (người).",
+   "example": {
+    "en": "Amal is <b>pessimistic</b> while Nia is optimistic.",
+    "vi": "Amal thì <b>bi quan</b> trong khi Nia lạc quan."
+   }
+  },
+  {
+   "word": "optimistic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɒptɪˈmɪstɪk/",
+   "def_en": "Always looking on the bright side.",
+   "def_vi": "Luôn nhìn mặt tích cực.",
+   "gloss_vi": "lạc quan",
+   "synonyms": "positive <i>(adj. tích cực)</i>",
+   "antonyms": "pessimistic <i>(adj. bi quan)</i>",
+   "grammar_vi": "<i>Optimistic</i> (adjective) = lạc quan. <b>Grammar</b>: <i>optimist</i> (người).",
+   "example": {
+    "en": "Amal is pessimistic while Nia is <b>optimistic</b>.",
+    "vi": "Amal thì bi quan trong khi Nia <b>lạc quan</b>."
+   }
+  },
+  {
+   "word": "extroverted",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈekstrəvɜːtɪd/",
+   "def_en": "Loving being the focus of attention.",
+   "def_vi": "Thích là tâm điểm chú ý.",
+   "gloss_vi": "hướng ngoại",
+   "synonyms": "outgoing <i>(adj. cởi mở)</i>",
+   "antonyms": "introverted <i>(adj. hướng nội)</i>",
+   "grammar_vi": "<i>Extroverted</i> (adjective) = hướng ngoại. <b>Grammar</b>: <i>an extrovert</i> (người).",
+   "example": {
+    "en": "It is strange that one of the twins is so <b>extroverted</b> while the other is so introverted.",
+    "vi": "Thật lạ khi một trong hai anh em sinh đôi rất <b>hướng ngoại</b> còn người kia hướng nội."
+   }
+  },
+  {
+   "word": "introverted",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɪntrəvɜːtɪd/",
+   "def_en": "Preferring to be alone with your thoughts.",
+   "def_vi": "Thích ở một mình với suy nghĩ.",
+   "gloss_vi": "hướng nội",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "extroverted <i>(adj. hướng ngoại)</i>",
+   "grammar_vi": "<i>Introverted</i> (adjective) = hướng nội. <b>Grammar</b>: <i>an introvert</i> (người).",
+   "example": {
+    "en": "One of the twins is so extroverted while the other is so <b>introverted</b>.",
+    "vi": "Một người rất hướng ngoại trong khi người kia rất <b>hướng nội</b>."
+   }
+  },
+  {
+   "word": "tense",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/tens/",
+   "def_en": "Nervous and worried.",
+   "def_vi": "Lo lắng, căng thẳng.",
+   "gloss_vi": "căng thẳng",
+   "synonyms": "stressed out <i>(adj. căng thẳng)</i>",
+   "antonyms": "relaxed <i>(adj. thư thái)</i>",
+   "grammar_vi": "<i>Tense</i> (adjective) = căng thẳng. <b>Grammar</b>: cũng <i>wound up, stressed out</i>.",
+   "example": {
+    "en": "I feel very <b>tense</b> after a very busy day at work.",
+    "vi": "Tôi thấy rất <b>căng thẳng</b> sau một ngày làm việc bận rộn."
+   }
+  },
+  {
+   "word": "down-to-earth",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌdaʊn tu ˈɜːθ/",
+   "def_en": "Practical and sensible.",
+   "def_vi": "Thực tế và biết điều.",
+   "gloss_vi": "chân chất, thực tế",
+   "synonyms": "practical <i>(adj. thực tế)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Down-to-earth</i> (adjective) = chân chất, thực tế. <b>Grammar</b>: có gạch nối trước danh từ.",
+   "example": {
+    "en": "She’s very practical and <b>down-to-earth</b>.",
+    "vi": "Cô ấy rất thực tế và <b>chân chất</b>."
+   }
+  },
+  {
+   "word": "sensitive",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsensətɪv/",
+   "def_en": "Easily upset by criticism.",
+   "def_vi": "Dễ buồn khi bị chỉ trích.",
+   "gloss_vi": "nhạy cảm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sensitive</i> (adjective) = nhạy cảm. <b>Grammar</b>: ≠ <i>sensible</i> (biết điều).",
+   "example": {
+    "en": "Roberto is very <b>sensitive</b> – he gets very upset if he feels people are criticising him.",
+    "vi": "Roberto rất <b>nhạy cảm</b> – anh ấy rất buồn nếu bị chỉ trích."
+   }
+  },
+  {
+   "word": "worked-up",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌwɜːkt ˈʌp/",
+   "def_en": "Upset or excited (informal).",
+   "def_vi": "Bực bội hay kích động (thân mật).",
+   "gloss_vi": "bực bội, kích động",
+   "synonyms": "upset <i>(adj. buồn bực)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Worked-up</i> (adjective) = bực bội, kích động. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "He gets very upset (or <b>worked-up</b>) if he feels people are criticising him.",
+    "vi": "Anh ấy rất <b>bực bội</b> nếu cảm thấy bị chỉ trích."
+   }
+  },
+  {
+   "word": "gregarious",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɡrɪˈɡeəriəs/",
+   "def_en": "Enjoying the company of others (written).",
+   "def_vi": "Thích ở cùng người khác (văn viết).",
+   "gloss_vi": "thích giao du",
+   "synonyms": "sociable <i>(adj. hòa đồng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gregarious</i> (adjective) = thích giao du. <b>Grammar</b>: văn viết.",
+   "ex_kit": true,
+   "example": {
+    "en": "She’s a <b>gregarious</b> person, always surrounded by friends.",
+    "vi": "Cô ấy là người <b>thích giao du</b>, luôn ở giữa đám bạn."
+   }
+  },
+  {
+   "word": "quarrelsome",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈkwɒrəlsəm/",
+   "def_en": "Often arguing with others.",
+   "def_vi": "Hay cãi nhau.",
+   "gloss_vi": "hay gây gổ",
+   "synonyms": "argumentative <i>(adj. hay cãi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Quarrelsome</i> (adjective) = hay gây gổ. <b>Grammar</b>: <i>quarrel</i> (n./v.).",
+   "ex_kit": true,
+   "example": {
+    "en": "The two children get <b>quarrelsome</b> when they’re tired.",
+    "vi": "Hai đứa trẻ <b>hay cãi nhau</b> lúc mệt."
+   }
+  },
+  {
+   "word": "argumentative",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɑːɡjuˈmentətɪv/",
+   "def_en": "Often disagreeing with others.",
+   "def_vi": "Hay bất đồng với người khác.",
+   "gloss_vi": "hay cãi lý",
+   "synonyms": "quarrelsome <i>(adj. hay gây gổ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Argumentative</i> (adjective) = hay cãi lý. <b>Grammar</b>: <i>argue</i> → <i>argumentative</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Don’t be so <b>argumentative</b>!",
+    "vi": "Đừng <b>cãi lý</b> với tôi nữa!"
+   }
+  },
+  {
+   "word": "sadistic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/səˈdɪstɪk/",
+   "def_en": "Taking pleasure in others’ pain.",
+   "def_vi": "Thích thú khi người khác đau.",
+   "gloss_vi": "tàn bạo",
+   "synonyms": "cruel <i>(adj. tàn nhẫn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sadistic</i> (adjective) = tàn bạo. <b>Grammar</b>: <i>sadist</i> (người).",
+   "ex_kit": true,
+   "example": {
+    "en": "The villain in the film is a <b>sadistic</b> man.",
+    "vi": "Kẻ xấu trong phim là một kẻ <b>tàn bạo</b>."
+   }
+  },
+  {
+   "word": "easy-going",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌiːzi ˈɡəʊɪŋ/",
+   "def_en": "Relaxed in attitude to yourself and others.",
+   "def_vi": "Thoải mái với bản thân và người khác.",
+   "gloss_vi": "dễ tính",
+   "synonyms": "laid-back <i>(adj. thoải mái)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Easy-going</i> (adjective) = dễ tính. <b>Grammar</b>: có gạch nối.",
+   "ex_kit": true,
+   "example": {
+    "en": "My dad is very <b>easy-going</b> – he never gets angry.",
+    "vi": "Bố tôi rất <b>dễ tính</b> – không bao giờ giận."
+   }
+  },
+  {
+   "word": "even-tempered",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌiːvn ˈtempəd/",
+   "def_en": "Calm and not easily annoyed.",
+   "def_vi": "Bình tĩnh, khó nổi giận.",
+   "gloss_vi": "điềm đạm",
+   "synonyms": "calm <i>(adj. bình tĩnh)</i>",
+   "antonyms": "bad-tempered <i>(adj. nóng tính)</i>",
+   "grammar_vi": "<i>Even-tempered</i> (adjective) = điềm đạm. <b>Grammar</b>: tính từ ghép.",
+   "ex_kit": true,
+   "example": {
+    "en": "She’s always <b>even-tempered</b>, even under pressure.",
+    "vi": "Cô ấy luôn <b>điềm đạm</b>, kể cả khi bị áp lực."
+   }
+  },
+  {
+   "word": "laid-back",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌleɪd ˈbæk/",
+   "def_en": "Relaxed (informal).",
+   "def_vi": "Thư thái (thân mật).",
+   "gloss_vi": "thong dong, xuề xòa",
+   "synonyms": "easy-going <i>(adj. dễ tính)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Laid-back</i> (adjective) = thong dong, xuề xòa. <b>Grammar</b>: thân mật.",
+   "ex_kit": true,
+   "example": {
+    "en": "He’s very <b>laid-back</b> about everything.",
+    "vi": "Anh ấy rất <b>thong dong</b> về mọi chuyện."
+   }
+  },
+  {
+   "word": "ill-mannered",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɪl ˈmænəd/",
+   "def_en": "Not polite to others.",
+   "def_vi": "Không lịch sự với người khác.",
+   "gloss_vi": "vô lễ, mất lịch sự",
+   "synonyms": "rude <i>(adj. thô lỗ)</i>",
+   "antonyms": "well-mannered <i>(adj. lễ phép)</i>",
+   "grammar_vi": "<i>Ill-mannered</i> (adjective) = vô lễ, mất lịch sự. <b>Grammar</b>: <i>ill-</i> = xấu.",
+   "ex_kit": true,
+   "example": {
+    "en": "The boy was very <b>ill-mannered</b> towards adults.",
+    "vi": "Thằng bé thật <b>vô lễ</b> với người lớn."
+   }
+  },
+  {
+   "word": "discourteous",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dɪsˈkɜːtiəs/",
+   "def_en": "Not polite (written).",
+   "def_vi": "Không lịch sự (văn viết).",
+   "gloss_vi": "bất lịch sự",
+   "synonyms": "rude <i>(adj. thô lỗ)</i>",
+   "antonyms": "courteous <i>(adj. lịch sự)</i>",
+   "grammar_vi": "<i>Discourteous</i> (adjective) = bất lịch sự. <b>Grammar</b>: văn viết.",
+   "ex_kit": true,
+   "example": {
+    "en": "The staff were <b>discourteous</b> to customers.",
+    "vi": "Nhân viên <b>bất lịch sự</b> với khách hàng."
+   }
+  },
+  {
+   "word": "trustworthy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈtrʌstwɜːði/",
+   "def_en": "Able to be trusted.",
+   "def_vi": "Có thể tin tưởng.",
+   "gloss_vi": "đáng tin cậy",
+   "synonyms": "reliable <i>(adj. đáng tin)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trustworthy</i> (adjective) = đáng tin cậy. <b>Grammar</b>: <i>trust</i> + <i>-worthy</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She’s a completely <b>trustworthy</b> person.",
+    "vi": "Cô ấy là người hoàn toàn <b>đáng tin cậy</b>."
+   }
+  },
+  {
+   "word": "sincere",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/sɪnˈsɪə(r)/",
+   "def_en": "Meaning what you say.",
+   "def_vi": "Nói thật lòng.",
+   "gloss_vi": "chân thành",
+   "synonyms": "honest <i>(adj. thật thà)</i>",
+   "antonyms": "insincere <i>(adj. không thật lòng)</i>",
+   "grammar_vi": "<i>Sincere</i> (adjective) = chân thành. <b>Grammar</b>: <i>Yours sincerely</i> (kết thư).",
+   "ex_kit": true,
+   "example": {
+    "en": "His apology seemed <b>sincere</b>.",
+    "vi": "Lời xin lỗi của anh ấy có vẻ <b>chân thành</b>."
+   }
+  },
+  {
+   "word": "envious",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈenviəs/",
+   "def_en": "Unhappy because others have what you do not have.",
+   "def_vi": "Không vui vì người khác có thứ mình không có.",
+   "gloss_vi": "đố kỵ, ghen tị",
+   "synonyms": "jealous <i>(adj. ghen)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Envious</i> (adjective) = đố kỵ, ghen tị. <b>Grammar</b>: <i>envious of sb/sth</i>. <b>Word family</b>: <i>envy</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I’m a bit <b>envious</b> of her new car.",
+    "vi": "Tôi hơi <b>ghen tị</b> với chiếc xe mới của cô ấy."
+   }
+  },
+  {
+   "word": "determined",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dɪˈtɜːmɪnd/",
+   "def_en": "Having decided to do something and not letting anything stop you.",
+   "def_vi": "Đã quyết làm gì và không để gì cản.",
+   "gloss_vi": "quyết tâm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Determined</i> (adjective) = quyết tâm. <b>Grammar</b>: tích cực; tiêu cực: <i>obstinate, stubborn</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She’s <b>determined</b> to win the prize.",
+    "vi": "Cô ấy <b>quyết tâm</b> thắng giải."
+   }
+  },
+  {
+   "word": "obstinate",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɒbstɪnət/",
+   "def_en": "Refusing to change your opinion (negative).",
+   "def_vi": "Không chịu đổi ý (tiêu cực).",
+   "gloss_vi": "cố chấp",
+   "synonyms": "stubborn <i>(adj. bướng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Obstinate</i> (adjective) = cố chấp. <b>Grammar</b>: tiêu cực của <i>determined</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He’s too <b>obstinate</b> to admit he’s wrong.",
+    "vi": "Ông ấy quá <b>cố chấp</b> để thừa nhận mình sai."
+   }
+  },
+  {
+   "word": "stubborn",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈstʌbən/",
+   "def_en": "Not willing to change your mind (negative).",
+   "def_vi": "Không muốn đổi ý (tiêu cực).",
+   "gloss_vi": "bướng bỉnh",
+   "synonyms": "obstinate <i>(adj. cố chấp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stubborn</i> (adjective) = bướng bỉnh. <b>Grammar</b>: <i>as stubborn as a mule</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "This donkey is so <b>stubborn</b> – it won’t move.",
+    "vi": "Con lừa này <b>bướng</b> quá – nó không chịu đi."
+   }
+  },
+  {
+   "word": "pig-headed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌpɪɡ ˈhedɪd/",
+   "def_en": "Very stubborn (informal).",
+   "def_vi": "Rất bướng (thân mật).",
+   "gloss_vi": "cứng đầu",
+   "synonyms": "stubborn <i>(adj. bướng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pig-headed</i> (adjective) = cứng đầu. <b>Grammar</b>: thân mật.",
+   "ex_kit": true,
+   "example": {
+    "en": "Don’t be so <b>pig-headed</b> – listen to other people.",
+    "vi": "Đừng <b>cứng đầu</b> thế – nghe người khác đi."
+   }
+  },
+  {
+   "word": "thrifty",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈθrɪfti/",
+   "def_en": "Careful with money (positive).",
+   "def_vi": "Cẩn thận với tiền (tích cực).",
+   "gloss_vi": "tằn tiện, tiết kiệm",
+   "synonyms": "economical <i>(adj. tiết kiệm)</i>",
+   "antonyms": "extravagant <i>(adj. hoang phí)</i>",
+   "grammar_vi": "<i>Thrifty</i> (adjective) = tằn tiện, tiết kiệm. <b>Grammar</b>: tích cực; tiêu cực: <i>stingy, mean</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "My grandmother is very <b>thrifty</b> and never wastes money.",
+    "vi": "Bà tôi rất <b>tiết kiệm</b> và không bao giờ phí tiền."
+   }
+  },
+  {
+   "word": "stingy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈstɪndʒi/",
+   "def_en": "Not willing to spend money (negative).",
+   "def_vi": "Không muốn tiêu tiền (tiêu cực).",
+   "gloss_vi": "keo kiệt",
+   "synonyms": "tight-fisted <i>(adj. bủn xỉn)</i>",
+   "antonyms": "generous <i>(adj. hào phóng)</i>",
+   "grammar_vi": "<i>Stingy</i> (adjective) = keo kiệt. <b>Grammar</b>: tiêu cực. <b>Common mistakes</b>: /ˈstɪndʒi/.",
+   "ex_kit": true,
+   "example": {
+    "en": "He’s too <b>stingy</b> to buy anyone a present.",
+    "vi": "Anh ta quá <b>keo kiệt</b> để mua quà cho ai."
+   }
+  },
+  {
+   "word": "tight-fisted",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌtaɪt ˈfɪstɪd/",
+   "def_en": "Not generous with money (informal).",
+   "def_vi": "Không hào phóng với tiền (thân mật).",
+   "gloss_vi": "bủn xỉn",
+   "synonyms": "mean <i>(adj. keo kiệt)</i>",
+   "antonyms": "generous <i>(adj. hào phóng)</i>",
+   "grammar_vi": "<i>Tight-fisted</i> (adjective) = bủn xỉn. <b>Grammar</b>: thân mật.",
+   "ex_kit": true,
+   "example": {
+    "en": "Don’t be so <b>tight-fisted</b> – leave a tip.",
+    "vi": "Đừng <b>bủn xỉn</b> thế – để lại tiền boa đi."
+   }
+  },
+  {
+   "word": "miserly",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈmaɪzəli/",
+   "def_en": "Very unwilling to spend money (written).",
+   "def_vi": "Rất không muốn tiêu tiền (văn viết).",
+   "gloss_vi": "hà tiện",
+   "synonyms": "stingy <i>(adj. keo kiệt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Miserly</i> (adjective) = hà tiện. <b>Grammar</b>: <i>miser</i> (người).",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>miserly</b> old man lived alone with his money.",
+    "vi": "Ông già <b>hà tiện</b> sống một mình với tiền của mình."
+   }
+  },
+  {
+   "word": "self-assured",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌself əˈʃʊəd/",
+   "def_en": "Confident in yourself (positive).",
+   "def_vi": "Tự tin vào bản thân (tích cực).",
+   "gloss_vi": "tự tin",
+   "synonyms": "confident <i>(adj. tự tin)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Self-assured</i> (adjective) = tự tin. <b>Grammar</b>: tích cực; tiêu cực: <i>arrogant</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She’s a <b>self-assured</b> speaker.",
+    "vi": "Cô ấy là một người nói chuyện <b>tự tin</b>."
+   }
+  },
+  {
+   "word": "self-important",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌself ɪmˈpɔːtnt/",
+   "def_en": "Thinking you are more important than others (negative).",
+   "def_vi": "Nghĩ mình quan trọng hơn người khác (tiêu cực).",
+   "gloss_vi": "tự cao tự đại",
+   "synonyms": "arrogant <i>(adj. kiêu ngạo)</i>",
+   "antonyms": "modest <i>(adj. khiêm tốn)</i>",
+   "grammar_vi": "<i>Self-important</i> (adjective) = tự cao tự đại. <b>Grammar</b>: tiêu cực.",
+   "ex_kit": true,
+   "example": {
+    "en": "The new manager is rather <b>self-important</b>.",
+    "vi": "Ông quản lý mới khá <b>tự cao tự đại</b>."
+   }
+  },
+  {
+   "word": "arrogant",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈærəɡənt/",
+   "def_en": "Thinking you are better than other people.",
+   "def_vi": "Nghĩ mình hơn người khác.",
+   "gloss_vi": "kiêu ngạo",
+   "synonyms": "full of yourself <i>(phr. tự mãn)</i>",
+   "antonyms": "modest <i>(adj. khiêm tốn)</i>",
+   "grammar_vi": "<i>Arrogant</i> (adjective) = kiêu ngạo. <b>Grammar</b>: <i>arrogance</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "He’s so <b>arrogant</b> that he never listens to anyone.",
+    "vi": "Anh ta <b>kiêu ngạo</b> đến mức không nghe ai cả."
+   }
+  },
+  {
+   "word": "full of yourself",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌfʊl əv jɔːˈself/",
+   "def_en": "Too proud of yourself (informal).",
+   "def_vi": "Quá tự hào về bản thân (thân mật).",
+   "gloss_vi": "tự mãn",
+   "synonyms": "arrogant <i>(adj. kiêu ngạo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Full of yourself</i> (phrase) = tự mãn. <b>Grammar</b>: <i>full of himself/herself</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Since his promotion he’s really <b>full of himself</b>.",
+    "vi": "Từ khi được thăng chức, anh ta rất <b>tự mãn</b>."
+   }
+  },
+  {
+   "word": "unconventional",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʌnkənˈvenʃənl/",
+   "def_en": "Not following the usual ways (positive).",
+   "def_vi": "Không theo lối thường (tích cực).",
+   "gloss_vi": "khác người, độc đáo",
+   "synonyms": "original <i>(adj. độc đáo)</i>",
+   "antonyms": "conventional <i>(adj. thông thường)</i>",
+   "grammar_vi": "<i>Unconventional</i> (adjective) = khác người, độc đáo. <b>Grammar</b>: tích cực; tiêu cực: <i>eccentric, odd</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She has a very <b>unconventional</b> way of teaching.",
+    "vi": "Cô ấy có cách dạy rất <b>độc đáo</b>."
+   }
+  },
+  {
+   "word": "eccentric",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪkˈsentrɪk/",
+   "def_en": "Strange or unusual (negative).",
+   "def_vi": "Kỳ quặc, lạ (tiêu cực).",
+   "gloss_vi": "lập dị",
+   "synonyms": "odd <i>(adj. kỳ cục)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Eccentric</i> (adjective) = lập dị. <b>Grammar</b>: tiêu cực nhẹ.",
+   "ex_kit": true,
+   "example": {
+    "en": "My <b>eccentric</b> neighbour keeps 20 cats.",
+    "vi": "Ông hàng xóm <b>lập dị</b> của tôi nuôi 20 con mèo."
+   }
+  },
+  {
+   "word": "peculiar",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/pɪˈkjuːliə(r)/",
+   "def_en": "Strange (negative).",
+   "def_vi": "Lạ (tiêu cực).",
+   "gloss_vi": "kỳ quặc",
+   "synonyms": "weird <i>(adj. kỳ lạ)</i>",
+   "antonyms": "normal <i>(adj. bình thường)</i>",
+   "grammar_vi": "<i>Peculiar</i> (adjective) = kỳ quặc. <b>Grammar</b>: ≈ <i>odd, weird</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "There’s a <b>peculiar</b> smell in the kitchen.",
+    "vi": "Có mùi gì <b>kỳ quặc</b> trong bếp."
+   }
+  },
+  {
+   "word": "frank",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/fræŋk/",
+   "def_en": "Honest and direct (positive).",
+   "def_vi": "Thẳng thắn, trung thực (tích cực).",
+   "gloss_vi": "thẳng thắn",
+   "synonyms": "direct <i>(adj. trực tiếp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Frank</i> (adjective) = thẳng thắn. <b>Grammar</b>: tích cực; tiêu cực: <i>blunt, curt</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "To be honest, I’d like you to be <b>frank</b> with me.",
+    "vi": "Thành thật mà nói, tôi muốn bạn <b>thẳng thắn</b> với tôi."
+   }
+  },
+  {
+   "word": "blunt",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/blʌnt/",
+   "def_en": "Saying what you think without trying to be polite (negative).",
+   "def_vi": "Nói thẳng không cần lịch sự (tiêu cực).",
+   "gloss_vi": "thẳng thừng",
+   "synonyms": "abrupt <i>(adj. cộc lốc)</i>",
+   "antonyms": "tactful <i>(adj. khéo léo)</i>",
+   "grammar_vi": "<i>Blunt</i> (adjective) = thẳng thừng. <b>Grammar</b>: tiêu cực. <b>Common mistakes</b>: cũng = cùn.",
+   "ex_kit": true,
+   "example": {
+    "en": "His answer was rather <b>blunt</b>.",
+    "vi": "Câu trả lời của anh ta hơi <b>thẳng thừng</b>."
+   }
+  },
+  {
+   "word": "curt",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kɜːt/",
+   "def_en": "Rudely short in speech (negative).",
+   "def_vi": "Nói cộc lốc thô lỗ (tiêu cực).",
+   "gloss_vi": "cộc lốc",
+   "synonyms": "brusque <i>(adj. cộc cằn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Curt</i> (adjective) = cộc lốc. <b>Grammar</b>: tiêu cực.",
+   "ex_kit": true,
+   "example": {
+    "en": "She gave a <b>curt</b> reply and walked away.",
+    "vi": "Cô ấy trả lời <b>cộc lốc</b> rồi bỏ đi."
+   }
+  },
+  {
+   "word": "broad-minded",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌbrɔːd ˈmaɪndɪd/",
+   "def_en": "Willing to accept other people’s ideas and behaviour (positive).",
+   "def_vi": "Sẵn lòng chấp nhận ý kiến và hành vi người khác (tích cực).",
+   "gloss_vi": "cởi mở, rộng lượng",
+   "synonyms": "open-minded <i>(adj. cởi mở)</i>",
+   "antonyms": "narrow-minded <i>(adj. hẹp hòi)</i>",
+   "grammar_vi": "<i>Broad-minded</i> (adjective) = cởi mở, rộng lượng. <b>Grammar</b>: tích cực; tiêu cực: <i>permissive</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "My parents are quite <b>broad-minded</b> about that.",
+    "vi": "Bố mẹ tôi khá <b>cởi mở</b> về chuyện đó."
+   }
+  },
+  {
+   "word": "permissive",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/pəˈmɪsɪv/",
+   "def_en": "Allowing too much freedom (negative).",
+   "def_vi": "Cho quá nhiều tự do (tiêu cực).",
+   "gloss_vi": "dễ dãi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "strict <i>(adj. nghiêm khắc)</i>",
+   "grammar_vi": "<i>Permissive</i> (adjective) = dễ dãi. <b>Grammar</b>: tiêu cực.",
+   "ex_kit": true,
+   "example": {
+    "en": "Some people think today’s society is too <b>permissive</b>.",
+    "vi": "Một số người cho rằng xã hội ngày nay quá <b>dễ dãi</b>."
+   }
+  },
+  {
+   "word": "inquisitive",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪnˈkwɪzətɪv/",
+   "def_en": "Asking too many questions (negative).",
+   "def_vi": "Hỏi quá nhiều (tiêu cực).",
+   "gloss_vi": "tò mò",
+   "synonyms": "nosy <i>(adj. tọc mạch)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Inquisitive</i> (adjective) = tò mò. <b>Grammar</b>: tích cực: <i>enquiring</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "My neighbours are too <b>inquisitive</b> about my private life.",
+    "vi": "Hàng xóm của tôi quá <b>tò mò</b> về đời tư của tôi."
+   }
+  },
+  {
+   "word": "nosy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈnəʊzi/",
+   "def_en": "Too interested in other people’s private lives (informal).",
+   "def_vi": "Quá quan tâm đời tư người khác (thân mật).",
+   "gloss_vi": "tọc mạch",
+   "synonyms": "inquisitive <i>(adj. tò mò)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nosy</i> (adjective) = tọc mạch. <b>Grammar</b>: thân mật.",
+   "ex_kit": true,
+   "example": {
+    "en": "Don’t be so <b>nosy</b> – it’s none of your business.",
+    "vi": "Đừng <b>tọc mạch</b> thế – không phải việc của bạn."
+   }
+  },
+  {
+   "word": "extravagant",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪkˈstrævəɡənt/",
+   "def_en": "Spending too much money (negative).",
+   "def_vi": "Tiêu quá nhiều tiền (tiêu cực).",
+   "gloss_vi": "hoang phí",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "thrifty <i>(adj. tiết kiệm)</i>",
+   "grammar_vi": "<i>Extravagant</i> (adjective) = hoang phí. <b>Grammar</b>: tiêu cực của <i>generous</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Buying three cars is very <b>extravagant</b>.",
+    "vi": "Mua ba chiếc xe là quá <b>hoang phí</b>."
+   }
+  },
+  {
+   "word": "naive",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/naɪˈiːv/",
+   "def_en": "Too trusting because of lack of experience (negative).",
+   "def_vi": "Quá cả tin vì thiếu kinh nghiệm (tiêu cực).",
+   "gloss_vi": "ngây thơ, cả tin",
+   "synonyms": "innocent <i>(adj. ngây thơ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Naive</i> (adjective) = ngây thơ, cả tin. <b>Grammar</b>: tiêu cực của <i>innocent</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I was <b>naive</b> to believe him.",
+    "vi": "Tôi thật <b>ngây thơ</b> khi tin anh ta."
+   }
+  },
+  {
+   "word": "pushy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈpʊʃi/",
+   "def_en": "Trying too hard to get what you want (negative, informal).",
+   "def_vi": "Cố quá mức để đạt được điều mình muốn (tiêu cực).",
+   "gloss_vi": "thúc ép, tham vọng quá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pushy</i> (adjective) = thúc ép, tham vọng quá. <b>Grammar</b>: tiêu cực của <i>ambitious</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The salesman was too <b>pushy</b>.",
+    "vi": "Nhân viên bán hàng quá <b>thúc ép</b>."
+   }
+  },
+  {
+   "word": "assertive",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əˈsɜːtɪv/",
+   "def_en": "Confidently saying what you want or think (positive).",
+   "def_vi": "Tự tin nói điều mình muốn hay nghĩ (tích cực).",
+   "gloss_vi": "quyết đoán",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "timid <i>(adj. rụt rè)</i>",
+   "grammar_vi": "<i>Assertive</i> (adjective) = quyết đoán. <b>Grammar</b>: tích cực; tiêu cực: <i>aggressive, bossy</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "You need to be more <b>assertive</b> in meetings.",
+    "vi": "Bạn cần <b>quyết đoán</b> hơn trong cuộc họp."
+   }
+  },
+  {
+   "word": "bossy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈbɒsi/",
+   "def_en": "Always telling others what to do (informal).",
+   "def_vi": "Luôn ra lệnh cho người khác (thân mật).",
+   "gloss_vi": "hách dịch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bossy</i> (adjective) = hách dịch. <b>Grammar</b>: thân mật.",
+   "ex_kit": true,
+   "example": {
+    "en": "My older sister is very <b>bossy</b>.",
+    "vi": "Chị gái tôi rất <b>hách dịch</b>."
+   }
+  }
+ ]
+}
