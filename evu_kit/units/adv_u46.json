@@ -1,0 +1,392 @@
+{
+ "book": "adv",
+ "unit": 46,
+ "title_vi": "Tài chính cá nhân: xoay xở đủ sống",
+ "theory_html": "<p><b>A. Cash, cheques and cards</b><br><i>A. Tiền mặt, séc và thẻ</i></p> <p><b>be broke/skint, be rolling in it, make ends meet, things are a bit tight, strapped for cash, bounce, make out to / payable to, direct debit, electronic transfer, put/stick on (informal), charge to (formal), APR, expire / expiry date, credit card fraud, debit card, store card, withdraw / get out, PIN, ATM / cash machine / cashpoint, contactless cards/payments</b>.</p><p><i><b>cháy túi, giàu nứt đố đổ vách, xoay xở đủ sống, hơi eo hẹp, kẹt tiền, séc bị trả lại, ghi tên người nhận, ghi nợ tự động, chuyển khoản điện tử, tính vào thẻ, lãi suất năm, hết hạn, gian lận thẻ, thẻ ghi nợ, thẻ cửa hàng, rút tiền, mã PIN, máy rút tiền, thẻ/thanh toán không tiếp xúc</b>.</i></p> <p><b>B. Savings, pensions, etc.</b><br><i>B. Tiết kiệm, lương hưu…</i></p> <p><b>lump sum, golden handshake, bonus, share portfolios, stock market, stocks and shares, life savings, will, cover, borrow</b>.</p><p><i><b>khoản tiền một lần, khoản tiền thôi việc hậu hĩnh, tiền thưởng, danh mục cổ phiếu, thị trường chứng khoán, cổ phiếu, tiền dành dụm cả đời, di chúc, đủ chi trả, vay</b>.</i></p>",
+ "items": [
+  {
+   "word": "broke",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/brəʊk/",
+   "def_en": "Having no money left (informal).",
+   "def_vi": "Hết tiền (thân mật).",
+   "gloss_vi": "cháy túi",
+   "synonyms": "skint <i>(adj. rỗng túi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Broke</i> (adjective) = cháy túi. <b>Grammar</b>: thân mật; <i>skint</i> rất thân mật.",
+   "example": {
+    "en": "I <b>was broke</b> at the end of last month.",
+    "vi": "Cuối tháng trước tôi <b>cháy túi</b>."
+   }
+  },
+  {
+   "word": "be rolling in it",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/bi ˌrəʊlɪŋ ɪn ˈɪt/",
+   "def_en": "To have a lot of money (informal).",
+   "def_vi": "Có rất nhiều tiền (thân mật).",
+   "gloss_vi": "tiền nhiều như nước",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "be broke <i>(v. cháy túi)</i>",
+   "grammar_vi": "<i>Be rolling in it</i> (verb) = tiền nhiều như nước. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "I’<b>m rolling in it</b> this month.",
+    "vi": "Tháng này tôi <b>tiền nhiều như nước</b>."
+   }
+  },
+  {
+   "word": "things are a bit tight",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ˌθɪŋz ər ə ˌbɪt ˈtaɪt/",
+   "def_en": "My finances are not good (informal).",
+   "def_vi": "Tài chính không tốt (thân mật).",
+   "gloss_vi": "hơi eo hẹp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Things are a bit tight</i> (cl) = hơi eo hẹp. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "<b>Things are a bit tight</b> at the moment.",
+    "vi": "Hiện tại <b>hơi eo hẹp</b>."
+   }
+  },
+  {
+   "word": "strapped for cash",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌstræpt fə ˈkæʃ/",
+   "def_en": "Needing cash and having very little (informal).",
+   "def_vi": "Cần tiền mà có rất ít (thân mật).",
+   "gloss_vi": "kẹt tiền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Strapped for cash</i> (adjective) = kẹt tiền. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "I was <b>strapped for cash</b> and had to borrow money from my parents.",
+    "vi": "Tôi <b>kẹt tiền</b> phải vay bố mẹ."
+   }
+  },
+  {
+   "word": "bounce",
+   "sense": "cheque",
+   "pos": "verb",
+   "ipa": "/baʊns/",
+   "def_en": "(Of a cheque) to be refused by the bank.",
+   "def_vi": "(Séc) bị ngân hàng từ chối.",
+   "gloss_vi": "bị trả lại (séc)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bounce</i> (verb) = bị trả lại (séc). <b>Common mistakes</b>: cũng dùng cho email.",
+   "example": {
+    "en": "She gave me a cheque for what she owed me but it <b>bounced</b>.",
+    "vi": "Cô ấy đưa séc nhưng nó <b>bị trả lại</b>."
+   }
+  },
+  {
+   "word": "make out to",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌmeɪk ˈaʊt tə/",
+   "def_en": "To write a name on a cheque as the person to be paid.",
+   "def_vi": "Ghi tên người nhận trên séc.",
+   "gloss_vi": "ghi tên người nhận",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Make out to</i> (verb) = ghi tên người nhận. <b>Grammar</b>: cũng <i>payable to</i> (trang trọng hơn).",
+   "example": {
+    "en": "Who shall I <b>make</b> this cheque <b>out to</b>?",
+    "vi": "Tôi <b>ghi tên người nhận</b> séc là ai?"
+   }
+  },
+  {
+   "word": "direct debit",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dəˌrekt ˈdebɪt/",
+   "def_en": "A regular automatic payment from your bank account.",
+   "def_vi": "Khoản thanh toán tự động định kỳ.",
+   "gloss_vi": "ghi nợ tự động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Direct debit</i> (noun) = ghi nợ tự động. <b>Collocations / chunks</b>: cụm danh từ cố định <i>direct debit</i>.",
+   "example": {
+    "en": "The easiest way to pay your household bills is by <b>direct debit</b>.",
+    "vi": "Cách dễ nhất trả hóa đơn là <b>ghi nợ tự động</b>."
+   }
+  },
+  {
+   "word": "electronic transfer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪˌlektrɒnɪk ˈtrænsfɜː(r)/",
+   "def_en": "Movement of money online between two bank accounts.",
+   "def_vi": "Chuyển tiền trực tuyến giữa hai tài khoản.",
+   "gloss_vi": "chuyển khoản điện tử",
+   "synonyms": "bank transfer <i>(n. chuyển khoản)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Electronic transfer</i> (noun) = chuyển khoản điện tử. <b>Collocations / chunks</b>: cụm danh từ cố định <i>electronic transfer</i>.",
+   "example": {
+    "en": "by direct debit or by <b>electronic transfer</b>",
+    "vi": "Hoặc bằng <b>chuyển khoản điện tử</b>."
+   }
+  },
+  {
+   "word": "charge to",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈtʃɑːdʒ tə/",
+   "def_en": "To put a payment on a card (formal).",
+   "def_vi": "Tính vào thẻ (trang trọng).",
+   "gloss_vi": "tính vào (thẻ)",
+   "synonyms": "put on <i>(v. tính vào)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Charge to</i> (verb) = tính vào (thẻ). <b>Grammar</b>: trang trọng; thân mật <i>put/stick on</i>.",
+   "example": {
+    "en": "Could you <b>charge</b> it <b>to</b> my credit card, please?",
+    "vi": "Vui lòng <b>tính vào</b> thẻ tín dụng của tôi."
+   }
+  },
+  {
+   "word": "APR",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌeɪ piː ˈɑː(r)/",
+   "def_en": "Annual percentage rate of interest.",
+   "def_vi": "Lãi suất phần trăm hằng năm.",
+   "gloss_vi": "lãi suất năm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>APR</i> (noun) = lãi suất năm. <b>Grammar</b>: viết tắt <i>annual percentage rate</i>.",
+   "example": {
+    "en": "The <b>APR</b> for this credit card is 23%.",
+    "vi": "<b>Lãi suất năm</b> của thẻ này là 23%."
+   }
+  },
+  {
+   "word": "expiry date",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪkˈspaɪəri deɪt/",
+   "def_en": "The date after which a card is not valid.",
+   "def_vi": "Ngày sau đó thẻ hết hiệu lực.",
+   "gloss_vi": "ngày hết hạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Expiry date</i> (noun) = ngày hết hạn. <b>Grammar</b>: <i>expire</i> (v.); Mỹ <i>expiration date</i>.",
+   "example": {
+    "en": "The <b>expiry date</b> is 05/19.",
+    "vi": "<b>Ngày hết hạn</b> là 05/19."
+   }
+  },
+  {
+   "word": "credit card fraud",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkredɪt kɑːd frɔːd/",
+   "def_en": "Illegal use of someone’s card or account.",
+   "def_vi": "Dùng trái phép thẻ hay tài khoản người khác.",
+   "gloss_vi": "gian lận thẻ tín dụng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Credit card fraud</i> (noun) = gian lận thẻ tín dụng. <b>Collocations / chunks</b>: cụm danh từ cố định <i>credit card fraud</i>.",
+   "example": {
+    "en": "<b>Credit card fraud</b> has increased in recent years.",
+    "vi": "<b>Gian lận thẻ tín dụng</b> đã tăng."
+   }
+  },
+  {
+   "word": "debit card",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdebɪt kɑːd/",
+   "def_en": "A card where money is taken directly from your bank account.",
+   "def_vi": "Thẻ trừ tiền trực tiếp từ tài khoản.",
+   "gloss_vi": "thẻ ghi nợ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "credit card <i>(n. thẻ tín dụng)</i>",
+   "grammar_vi": "<i>Debit card</i> (noun) = thẻ ghi nợ. <b>Collocations / chunks</b>: cụm danh từ cố định <i>debit card</i>.",
+   "example": {
+    "en": "Is this a credit card or a <b>debit card</b>?",
+    "vi": "Đây là thẻ tín dụng hay <b>thẻ ghi nợ</b>?"
+   }
+  },
+  {
+   "word": "store card",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈstɔː kɑːd/",
+   "def_en": "A credit card issued by a shop for that shop.",
+   "def_vi": "Thẻ tín dụng của cửa hàng.",
+   "gloss_vi": "thẻ cửa hàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Store card</i> (noun) = thẻ cửa hàng. <b>Collocations / chunks</b>: cụm danh từ cố định <i>store card</i>.",
+   "example": {
+    "en": "Actually, it’s a <b>store card</b>.",
+    "vi": "Thực ra là <b>thẻ cửa hàng</b>."
+   }
+  },
+  {
+   "word": "withdraw",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/wɪðˈdrɔː/",
+   "def_en": "To take money from your account.",
+   "def_vi": "Rút tiền từ tài khoản.",
+   "gloss_vi": "rút tiền",
+   "synonyms": "get out <i>(v. rút)</i>",
+   "antonyms": "deposit <i>(v. gửi)</i>",
+   "grammar_vi": "<i>Withdraw</i> (verb) = rút tiền. <b>Grammar</b>: <i>withdrawal</i> (n.); thân mật <i>get money out</i>.",
+   "example": {
+    "en": "I went to <b>withdraw</b> some money but I forgot my PIN.",
+    "vi": "Tôi đi <b>rút</b> ít tiền nhưng quên mã PIN."
+   }
+  },
+  {
+   "word": "contactless payment",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkɒntæktləs ˈpeɪmənt/",
+   "def_en": "Paying by holding a card or phone near a reader.",
+   "def_vi": "Thanh toán bằng chạm thẻ hay điện thoại.",
+   "gloss_vi": "thanh toán không tiếp xúc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Contactless payment</i> (noun) = thanh toán không tiếp xúc. <b>Grammar</b>: cũng <i>contactless card</i>.",
+   "example": {
+    "en": "They prefer to use their phones to make <b>contactless payments</b>.",
+    "vi": "Họ thích dùng điện thoại để <b>thanh toán không tiếp xúc</b>."
+   }
+  },
+  {
+   "word": "lump sum",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌlʌmp ˈsʌm/",
+   "def_en": "A single, large payment.",
+   "def_vi": "Khoản thanh toán lớn một lần.",
+   "gloss_vi": "khoản tiền một lần",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "instalment <i>(n. trả góp)</i>",
+   "grammar_vi": "<i>Lump sum</i> (noun) = khoản tiền một lần. <b>Collocations / chunks</b>: cụm danh từ cố định <i>lump sum</i>.",
+   "example": {
+    "en": "Victims of last year’s rail crash will receive <b>lump sum</b> compensation payments.",
+    "vi": "Nạn nhân sẽ nhận bồi thường <b>một lần</b>."
+   }
+  },
+  {
+   "word": "golden handshake",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɡəʊldən ˈhændʃeɪk/",
+   "def_en": "A large payment to someone on leaving a job.",
+   "def_vi": "Khoản tiền lớn khi nghỉ việc.",
+   "gloss_vi": "khoản tiền thôi việc hậu hĩnh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Golden handshake</i> (noun) = khoản tiền thôi việc hậu hĩnh. <b>Collocations / chunks</b>: cụm danh từ cố định <i>golden handshake</i>.",
+   "example": {
+    "en": "A <b>golden handshake</b> of ten million pounds was paid to the boss.",
+    "vi": "<b>Khoản tiền thôi việc</b> mười triệu bảng được trả cho ông chủ."
+   }
+  },
+  {
+   "word": "share portfolio",
+   "sense": "finance",
+   "pos": "noun",
+   "ipa": "/ˈʃeə pɔːtˌfəʊliəʊ/",
+   "def_en": "A combination of investments of different kinds.",
+   "def_vi": "Tổ hợp các khoản đầu tư.",
+   "gloss_vi": "danh mục cổ phiếu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Share portfolio</i> (noun) = danh mục cổ phiếu. <b>Grammar</b>: <i>portfolio</i> (n.).",
+   "example": {
+    "en": "People with well-managed <b>share portfolios</b> have done better.",
+    "vi": "Người có <b>danh mục cổ phiếu</b> quản lý tốt làm ăn khá hơn."
+   }
+  },
+  {
+   "word": "stock market",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈstɒk ˌmɑːkɪt/",
+   "def_en": "An organisation which controls buying and selling parts of companies.",
+   "def_vi": "Tổ chức quản lý mua bán cổ phần công ty.",
+   "gloss_vi": "thị trường chứng khoán",
+   "synonyms": "stock exchange <i>(n. sở giao dịch)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stock market</i> (noun) = thị trường chứng khoán. <b>Collocations / chunks</b>: cụm danh từ cố định <i>stock market</i>.",
+   "example": {
+    "en": "have done better on the <b>stock market</b>",
+    "vi": "Họ làm ăn tốt hơn trên <b>thị trường chứng khoán</b>."
+   }
+  },
+  {
+   "word": "stocks and shares",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌstɒks ən ˈʃeəz/",
+   "def_en": "Parts of the ownership of companies bought as investments.",
+   "def_vi": "Phần sở hữu công ty mua để đầu tư.",
+   "gloss_vi": "cổ phiếu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stocks and shares</i> (noun) = cổ phiếu. <b>Collocations / chunks</b>: cụm danh từ cố định <i>stocks and shares</i>.",
+   "example": {
+    "en": "than individuals who buy <b>stocks and shares</b> privately",
+    "vi": "Cá nhân tự mua <b>cổ phiếu</b>."
+   }
+  },
+  {
+   "word": "life savings",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌlaɪf ˈseɪvɪŋz/",
+   "def_en": "Money saved over many years.",
+   "def_vi": "Tiền tiết kiệm nhiều năm.",
+   "gloss_vi": "tiền dành dụm cả đời",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Life savings</i> (noun) = tiền dành dụm cả đời. <b>Grammar</b>: số nhiều.",
+   "example": {
+    "en": "The thieves stole Mr and Mrs Bateson’s <b>life savings</b>.",
+    "vi": "Bọn trộm lấy <b>tiền dành dụm cả đời</b> của ông bà Bateson."
+   }
+  },
+  {
+   "word": "cover",
+   "sense": "pay",
+   "pos": "verb",
+   "ipa": "/ˈkʌvə(r)/",
+   "def_en": "To be enough money to pay for something.",
+   "def_vi": "Đủ tiền chi trả.",
+   "gloss_vi": "đủ chi trả",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cover</i> (verb) = đủ chi trả. <b>Grammar</b>: động từ.",
+   "example": {
+    "en": "It was hardly enough to <b>cover</b> the cost of his funeral.",
+    "vi": "Hầu như không đủ <b>chi trả</b> tang lễ."
+   }
+  },
+  {
+   "word": "borrow",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈbɒrəʊ/",
+   "def_en": "To take money from a bank and pay it back later.",
+   "def_vi": "Vay tiền ngân hàng rồi trả sau.",
+   "gloss_vi": "vay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "lend <i>(v. cho vay)</i>",
+   "grammar_vi": "<i>Borrow</i> (verb) = vay. <b>Collocations / chunks</b>: <i>borrow heavily</i>.",
+   "example": {
+    "en": "Ms Rafstedt had <b>borrowed</b> heavily to finance the building of a new house.",
+    "vi": "Cô Rafstedt đã <b>vay</b> nhiều để xây nhà."
+   }
+  }
+ ]
+}

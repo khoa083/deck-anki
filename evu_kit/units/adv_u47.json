@@ -1,0 +1,280 @@
+{
+ "book": "adv",
+ "unit": 47,
+ "title_vi": "Truyền thông: báo in",
+ "theory_html": "<p><b>A. Typical sections found in newspapers and magazines</b><br><i>A. Các mục điển hình của báo, tạp chí</i></p> <p><b>obituaries, editorial (leader), cover (coverage), classified ads (classifieds), supplements, feature, agony columns, agony aunt, circulation</b>.</p><p><i><b>cáo phó, xã luận, đưa tin, quảng cáo rao vặt, phụ trương, bài chuyên đề, mục gỡ rối tâm sự, chuyên gia tư vấn, số lượng phát hành</b>.</i></p> <p><b>B. Some types of printed material</b><br><i>B. Một số loại ấn phẩm</i></p> <p><b>journal, newsletter, pamphlet, press release, leaflet, brochure, prospectus, flyer, booklet, manual</b>.</p><p><i><b>tạp chí/nhật ký, bản tin, cuốn mỏng, thông cáo báo chí, tờ rơi, sách quảng cáo, sách giới thiệu trường, tờ quảng cáo, sách nhỏ, sách hướng dẫn</b>.</i></p>",
+ "items": [
+  {
+   "word": "obituary",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈbɪtʃuəri/",
+   "def_en": "A description of the life of someone who has just died.",
+   "def_vi": "Bài mô tả đời người vừa mất.",
+   "gloss_vi": "cáo phó",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Obituary</i> (noun) = cáo phó. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "One thing I always read in the paper is the <b>obituaries</b> page.",
+    "vi": "Tôi luôn đọc trang <b>cáo phó</b>."
+   }
+  },
+  {
+   "word": "editorial",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌedɪˈtɔːriəl/",
+   "def_en": "An article giving the newspaper editor’s opinion.",
+   "def_vi": "Bài nêu ý kiến của tổng biên tập.",
+   "gloss_vi": "bài xã luận",
+   "synonyms": "leader <i>(n. xã luận)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Editorial</i> (noun) = bài xã luận. <b>Grammar</b>: cũng <i>leader</i> (Anh-Anh).",
+   "example": {
+    "en": "I also read the <b>editorial</b> (or leader).",
+    "vi": "Tôi cũng đọc <b>bài xã luận</b>."
+   }
+  },
+  {
+   "word": "cover",
+   "sense": "news",
+   "pos": "verb",
+   "ipa": "/ˈkʌvə(r)/",
+   "def_en": "To deal with news.",
+   "def_vi": "Đưa tin.",
+   "gloss_vi": "đưa tin",
+   "synonyms": "report <i>(v. đưa tin)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cover</i> (verb) = đưa tin. <b>Grammar</b>: <i>coverage</i> (n.).",
+   "example": {
+    "en": "National papers <b>cover</b> all the important news.",
+    "vi": "Báo quốc gia <b>đưa</b> mọi tin quan trọng."
+   }
+  },
+  {
+   "word": "classified ads",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌklæsɪfaɪd ˈædz/",
+   "def_en": "Pages of advertisements in different categories.",
+   "def_vi": "Trang quảng cáo theo mục.",
+   "gloss_vi": "quảng cáo rao vặt",
+   "synonyms": "classifieds <i>(n. rao vặt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Classified ads</i> (noun) = quảng cáo rao vặt. <b>Collocations / chunks</b>: cụm danh từ cố định <i>classified ads</i>.",
+   "example": {
+    "en": "The <b>classified ads</b> (or classifieds) in a local paper is the best place.",
+    "vi": "<b>Rao vặt</b> trên báo địa phương là chỗ tốt nhất để bán xe."
+   }
+  },
+  {
+   "word": "supplement",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsʌplɪmənt/",
+   "def_en": "A separate magazine included with a newspaper.",
+   "def_vi": "Tạp chí riêng đi kèm báo.",
+   "gloss_vi": "phụ trương",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Supplement</i> (noun) = phụ trương. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "I love the Sunday papers, especially the <b>supplements</b>.",
+    "vi": "Tôi thích báo Chủ nhật, nhất là các <b>phụ trương</b>."
+   }
+  },
+  {
+   "word": "feature",
+   "sense": "article",
+   "pos": "noun",
+   "ipa": "/ˈfiːtʃə(r)/",
+   "def_en": "An article or set of articles devoted to a particular topic.",
+   "def_vi": "Bài hay loạt bài về một chủ đề.",
+   "gloss_vi": "bài chuyên đề",
+   "synonyms": "article <i>(n. bài báo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Feature</i> (noun) = bài chuyên đề. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "There was a fascinating <b>feature</b> on new technology.",
+    "vi": "Có một <b>bài chuyên đề</b> thú vị về công nghệ mới."
+   }
+  },
+  {
+   "word": "agony column",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈæɡəni ˌkɒləm/",
+   "def_en": "A section dealing with readers’ private emotional problems.",
+   "def_vi": "Mục giải đáp vấn đề tình cảm riêng của độc giả.",
+   "gloss_vi": "mục gỡ rối tơ lòng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Agony column</i> (noun) = mục gỡ rối tơ lòng. <b>Collocations / chunks</b>: cụm danh từ cố định <i>agony column</i>.",
+   "example": {
+    "en": "My daughter prefers magazines, especially the <b>agony columns</b>.",
+    "vi": "Con gái tôi thích đọc <b>mục gỡ rối tơ lòng</b>."
+   }
+  },
+  {
+   "word": "agony aunt",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈæɡəni ɑːnt/",
+   "def_en": "A person, typically a woman, who answers letters in the agony column.",
+   "def_vi": "Người trả lời thư ở mục tâm sự.",
+   "gloss_vi": "chuyên gia tư vấn tâm sự",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Agony aunt</i> (noun) = chuyên gia tư vấn tâm sự. <b>Collocations / chunks</b>: cụm danh từ cố định <i>agony aunt</i>.",
+   "example": {
+    "en": "I just can’t imagine writing to an <b>agony aunt</b>.",
+    "vi": "Tôi không tưởng tượng được việc viết thư cho <b>chuyên gia tư vấn</b>."
+   }
+  },
+  {
+   "word": "circulation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsɜːkjəˈleɪʃn/",
+   "def_en": "The number of copies sold by a newspaper or magazine.",
+   "def_vi": "Số bản báo bán được.",
+   "gloss_vi": "số lượng phát hành",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Circulation</i> (noun) = số lượng phát hành. <b>Common mistakes</b>: cũng = tuần hoàn máu.",
+   "example": {
+    "en": "This sort of article really increases a publication’s <b>circulation</b>.",
+    "vi": "Loại bài này tăng <b>số lượng phát hành</b>."
+   }
+  },
+  {
+   "word": "newsletter",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈnjuːzletə(r)/",
+   "def_en": "A regular report with information for people in a particular group.",
+   "def_vi": "Báo cáo định kỳ cho nhóm người.",
+   "gloss_vi": "bản tin",
+   "synonyms": "bulletin <i>(n. bản tin)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Newsletter</i> (noun) = bản tin. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "Laura is in charge of producing a monthly <b>newsletter</b> for her tennis club.",
+    "vi": "Laura phụ trách <b>bản tin</b> hằng tháng của câu lạc bộ tennis."
+   }
+  },
+  {
+   "word": "pamphlet",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpæmflət/",
+   "def_en": "A small book with a soft cover on a specific, often political, topic.",
+   "def_vi": "Sách mỏng bìa mềm về chủ đề, thường chính trị.",
+   "gloss_vi": "cuốn sách mỏng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pamphlet</i> (noun) = cuốn sách mỏng. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "The Conservative Party published a <b>pamphlet</b> on the future of private education.",
+    "vi": "Đảng Bảo thủ xuất bản <b>cuốn sách mỏng</b> về giáo dục tư."
+   }
+  },
+  {
+   "word": "press release",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpres rɪˌliːs/",
+   "def_en": "An official written statement with information for the public.",
+   "def_vi": "Tuyên bố chính thức cho công chúng.",
+   "gloss_vi": "thông cáo báo chí",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Press release</i> (noun) = thông cáo báo chí. <b>Collocations / chunks</b>: cụm danh từ cố định <i>press release</i>.",
+   "example": {
+    "en": "The company is going to issue a <b>press release</b> about its takeover plans.",
+    "vi": "Công ty sẽ phát <b>thông cáo báo chí</b> hôm nay."
+   }
+  },
+  {
+   "word": "leaflet",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈliːflət/",
+   "def_en": "A single or folded sheet of paper giving information.",
+   "def_vi": "Tờ giấy hay gấp, cung cấp thông tin.",
+   "gloss_vi": "tờ rơi",
+   "synonyms": "flyer <i>(n. tờ quảng cáo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Leaflet</i> (noun) = tờ rơi. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "I picked up a <b>leaflet</b> about the museum when I was in town.",
+    "vi": "Tôi lấy <b>tờ rơi</b> về bảo tàng."
+   }
+  },
+  {
+   "word": "brochure",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbrəʊʃə(r)/",
+   "def_en": "A small, thin book with information, often about travel or a company.",
+   "def_vi": "Sách mỏng có thông tin, thường về du lịch.",
+   "gloss_vi": "sách quảng cáo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Brochure</i> (noun) = sách quảng cáo. <b>Grammar</b>: /ˈbrəʊʃə/.",
+   "example": {
+    "en": "Do you have any <b>brochures</b> about Caribbean holidays?",
+    "vi": "Bạn có <b>sách quảng cáo</b> về kỳ nghỉ Caribe không?"
+   }
+  },
+  {
+   "word": "prospectus",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/prəˈspektəs/",
+   "def_en": "A small book giving information about a school, college or company.",
+   "def_vi": "Sách giới thiệu trường hay công ty.",
+   "gloss_vi": "sách giới thiệu (trường)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Prospectus</i> (noun) = sách giới thiệu (trường). <b>Grammar</b>: số nhiều <i>prospectuses</i>.",
+   "example": {
+    "en": "you should send away for some <b>prospectuses</b>",
+    "vi": "Bạn nên gửi xin vài <b>sách giới thiệu</b> của các trường."
+   }
+  },
+  {
+   "word": "flyer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈflaɪə(r)/",
+   "def_en": "A single sheet giving information about an event or offer, often given out in the street.",
+   "def_vi": "Tờ thông tin sự kiện, phát ngoài phố.",
+   "gloss_vi": "tờ quảng cáo",
+   "synonyms": "leaflet <i>(n. tờ rơi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flyer</i> (noun) = tờ quảng cáo. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "I was given a <b>flyer</b> about a new nightclub.",
+    "vi": "Tôi được phát <b>tờ quảng cáo</b> về hộp đêm mới."
+   }
+  },
+  {
+   "word": "booklet",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbʊklət/",
+   "def_en": "A small thin book with a soft cover, often giving information.",
+   "def_vi": "Sách nhỏ bìa mềm, thường cung cấp thông tin.",
+   "gloss_vi": "sách nhỏ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Booklet</i> (noun) = sách nhỏ. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "The tourist office has a free <b>booklet</b> of local walks.",
+    "vi": "Văn phòng du lịch có <b>sách nhỏ</b> miễn phí về các tuyến đi bộ."
+   }
+  }
+ ]
+}

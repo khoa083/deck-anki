@@ -1,0 +1,440 @@
+{
+ "book": "adv",
+ "unit": 48,
+ "title_vi": "Truyền thông: internet và email",
+ "theory_html": "<p><b>A. The pros and cons of internet use</b><br><i>A. Ưu và nhược điểm của internet</i></p> <p>Pros: <b>instant messaging, chat rooms, newsgroups, social networking sites, webinars, e-commerce, e-books, e-learning, accessing information, browsing, surfing the web, graphic images, attachments, file-sharing, gaming</b>. Cons: <b>ISP charges, contact details, hacked, download/upload times, spam, junk mail, addictive, cookies, offensive material, parental control</b>.</p><p><i>Ưu: <b>nhắn tin tức thời, phòng chat, nhóm tin, mạng xã hội, hội thảo trực tuyến, thương mại điện tử, sách điện tử, học trực tuyến, truy cập, lướt web, hình đồ họa, tệp đính kèm, chia sẻ tệp, chơi game</b>. Nhược: <b>phí nhà mạng, thông tin liên lạc, bị hack, tải xuống/tải lên, thư rác, gây nghiện, cookie, nội dung xúc phạm, kiểm soát của phụ huynh</b>.</i></p> <p><b>B. Email and internet communications</b><br><i>B. Email và giao tiếp internet</i></p> <p><b>bookmark, subscribe to, screen out / filter out, server, down, anti-virus software, bounce, post</b>.</p><p><i><b>đánh dấu trang, đăng ký, lọc bỏ, máy chủ, hỏng, phần mềm diệt virus, bị trả lại, đăng</b>.</i></p>",
+ "items": [
+  {
+   "word": "instant messaging",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɪnstənt ˈmesɪdʒɪŋ/",
+   "def_en": "A kind of email where both people are online at the same time.",
+   "def_vi": "Nhắn tin khi cả hai cùng trực tuyến.",
+   "gloss_vi": "nhắn tin tức thời",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Instant messaging</i> (noun) = nhắn tin tức thời. <b>Collocations / chunks</b>: cụm danh từ cố định <i>instant messaging</i>.",
+   "example": {
+    "en": "email, <b>instant messaging</b>, chat rooms",
+    "vi": "Email, <b>nhắn tin tức thời</b>, phòng chat."
+   }
+  },
+  {
+   "word": "chat room",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtʃæt ruːm/",
+   "def_en": "An online conversation between a group of people on topics they choose.",
+   "def_vi": "Trò chuyện trực tuyến của một nhóm.",
+   "gloss_vi": "phòng chat",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chat room</i> (noun) = phòng chat. <b>Collocations / chunks</b>: cụm danh từ cố định <i>chat room</i>.",
+   "example": {
+    "en": "email, instant messaging, <b>chat rooms</b>",
+    "vi": "Bạn có thể vào hay rời <b>phòng chat</b> bất kỳ lúc nào."
+   }
+  },
+  {
+   "word": "newsgroup",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈnjuːzɡruːp/",
+   "def_en": "A website where people with shared interests get news and information.",
+   "def_vi": "Trang cho người cùng sở thích nhận tin.",
+   "gloss_vi": "nhóm tin",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Newsgroup</i> (noun) = nhóm tin. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "If you subscribe to <b>newsgroups</b>, you often get hundreds of messages.",
+    "vi": "Nếu đăng ký <b>nhóm tin</b>, bạn nhận hàng trăm tin."
+   }
+  },
+  {
+   "word": "social networking site",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsəʊʃl ˈnetwɜːkɪŋ saɪt/",
+   "def_en": "A website that enables you to connect with other people.",
+   "def_vi": "Trang kết nối với người khác.",
+   "gloss_vi": "mạng xã hội",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Social networking site</i> (noun) = mạng xã hội. <b>Collocations / chunks</b>: cụm danh từ cố định <i>social networking site</i>.",
+   "example": {
+    "en": "She often posts ridiculous details about her life on <b>social networking sites</b>.",
+    "vi": "Cô ấy đăng những chi tiết ngớ ngẩn lên <b>mạng xã hội</b>."
+   }
+  },
+  {
+   "word": "webinar",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwebɪnɑː(r)/",
+   "def_en": "An online seminar.",
+   "def_vi": "Hội thảo trực tuyến.",
+   "gloss_vi": "hội thảo trực tuyến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Webinar</i> (noun) = hội thảo trực tuyến. <b>Grammar</b>: <i>web</i> + <i>seminar</i>.",
+   "example": {
+    "en": "social networking sites, <b>webinars</b>",
+    "vi": "Mạng xã hội và <b>hội thảo trực tuyến</b>."
+   }
+  },
+  {
+   "word": "e-commerce",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈiː ˌkɒmɜːs/",
+   "def_en": "All kinds of business done on the internet.",
+   "def_vi": "Mọi hoạt động kinh doanh trên mạng.",
+   "gloss_vi": "thương mại điện tử",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>E-commerce</i> (noun) = thương mại điện tử. <b>Grammar</b>: danh từ ghép <i>e</i> + <i>commerce</i>.",
+   "example": {
+    "en": "<b>e-commerce</b> (e.g. internet banking, travel booking)",
+    "vi": "<b>Thương mại điện tử</b> như ngân hàng trực tuyến."
+   }
+  },
+  {
+   "word": "e-learning",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈiː ˌlɜːnɪŋ/",
+   "def_en": "Learning using the internet.",
+   "def_vi": "Học qua internet.",
+   "gloss_vi": "học trực tuyến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>E-learning</i> (noun) = học trực tuyến. <b>Grammar</b>: tiền tố <i>e-</i> = điện tử.",
+   "example": {
+    "en": "e-books, <b>e-learning</b>",
+    "vi": "Sách điện tử, <b>học trực tuyến</b>."
+   }
+  },
+  {
+   "word": "surf the web",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌsɜːf ðə ˈweb/",
+   "def_en": "To move from one website to another, usually looking for something.",
+   "def_vi": "Chuyển từ trang này sang trang khác.",
+   "gloss_vi": "lướt web",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Surf the web</i> (verb) = lướt web. <b>Grammar</b>: động từ nhiều từ <i>surf the web</i>.",
+   "example": {
+    "en": "fun of just browsing and <b>surfing the web</b>",
+    "vi": "Niềm vui lướt xem và <b>lướt web</b>."
+   }
+  },
+  {
+   "word": "graphic images",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɡræfɪk ˈɪmɪdʒɪz/",
+   "def_en": "Pictures, icons, diagrams, etc. (technical term).",
+   "def_vi": "Hình, biểu tượng, sơ đồ (thuật ngữ).",
+   "gloss_vi": "hình ảnh đồ họa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Graphic images</i> (noun) = hình ảnh đồ họa. <b>Collocations / chunks</b>: cụm danh từ cố định <i>graphic images</i>.",
+   "example": {
+    "en": "ability to transfer <b>graphic images</b> and sound files",
+    "vi": "Khả năng chuyển <b>hình ảnh đồ họa</b>."
+   }
+  },
+  {
+   "word": "attachment",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈtætʃmənt/",
+   "def_en": "A file you send with an email message.",
+   "def_vi": "Tệp gửi kèm email.",
+   "gloss_vi": "tệp đính kèm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Attachment</i> (noun) = tệp đính kèm. <b>Grammar</b>: <i>attach</i> (v.).",
+   "example": {
+    "en": "ability to send files as <b>attachments</b>",
+    "vi": "Gửi tệp dưới dạng <b>tệp đính kèm</b>."
+   }
+  },
+  {
+   "word": "file-sharing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfaɪl ʃeərɪŋ/",
+   "def_en": "Sharing computer data or space on a network.",
+   "def_vi": "Chia sẻ dữ liệu trên mạng.",
+   "gloss_vi": "chia sẻ tệp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>File-sharing</i> (noun) = chia sẻ tệp. <b>Grammar</b>: danh từ ghép <i>file</i> + <i>sharing</i>.",
+   "example": {
+    "en": "usefulness of <b>file-sharing</b>",
+    "vi": "Sự tiện lợi của <b>chia sẻ tệp</b>."
+   }
+  },
+  {
+   "word": "ISP",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌaɪ es ˈpiː/",
+   "def_en": "Internet Service Provider; a company offering internet access.",
+   "def_vi": "Nhà cung cấp dịch vụ internet.",
+   "gloss_vi": "nhà cung cấp internet",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>ISP</i> (noun) = nhà cung cấp internet. <b>Grammar</b>: đọc từng chữ.",
+   "example": {
+    "en": "<b>ISP</b> charges can be high for heavy users",
+    "vi": "Phí <b>nhà cung cấp internet</b> có thể cao."
+   }
+  },
+  {
+   "word": "hack",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/hæk/",
+   "def_en": "To access a computer or account illegally.",
+   "def_vi": "Truy cập trái phép.",
+   "gloss_vi": "xâm nhập, hack",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hack</i> (verb) = xâm nhập, hack. <b>Grammar</b>: <i>hacker</i> (n.).",
+   "example": {
+    "en": "Your account may be <b>hacked</b>.",
+    "vi": "Tài khoản của bạn có thể bị <b>hack</b>."
+   }
+  },
+  {
+   "word": "download",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌdaʊnˈləʊd/",
+   "def_en": "To bring files to your computer from the internet.",
+   "def_vi": "Tải tệp về máy từ mạng.",
+   "gloss_vi": "tải xuống",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "upload <i>(v. tải lên)</i>",
+   "grammar_vi": "<i>Download</i> (verb) = tải xuống. <b>Grammar</b>: động từ.",
+   "example": {
+    "en": "<b>download</b> and upload times can be slow",
+    "vi": "Thời gian <b>tải xuống</b> và tải lên có thể chậm."
+   }
+  },
+  {
+   "word": "spam",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/spæm/",
+   "def_en": "Unwanted advertisements sent to you by email.",
+   "def_vi": "Quảng cáo không mong muốn gửi qua email.",
+   "gloss_vi": "thư rác",
+   "synonyms": "junk mail <i>(n. thư rác)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spam</i> (noun) = thư rác. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "<b>spam</b> and junk mail can be annoying",
+    "vi": "<b>Thư rác</b> có thể gây khó chịu."
+   }
+  },
+  {
+   "word": "addictive",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əˈdɪktɪv/",
+   "def_en": "Something you cannot stop doing.",
+   "def_vi": "Không thể ngừng.",
+   "gloss_vi": "gây nghiện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Addictive</i> (adjective) = gây nghiện. <b>Grammar</b>: <i>addiction</i> (n.).",
+   "example": {
+    "en": "can become <b>addictive</b>",
+    "vi": "Có thể trở nên <b>gây nghiện</b>."
+   }
+  },
+  {
+   "word": "cookie",
+   "sense": "computer",
+   "pos": "noun",
+   "ipa": "/ˈkʊki/",
+   "def_en": "Software sent to your computer that records what you do on the web.",
+   "def_vi": "Phần mềm ghi lại hoạt động trên web.",
+   "gloss_vi": "cookie",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cookie</i> (noun) = cookie. <b>Common mistakes</b>: cũng = bánh quy (Mỹ).",
+   "example": {
+    "en": "<b>cookies</b> track your activities on the web",
+    "vi": "<b>Cookie</b> theo dõi hoạt động của bạn."
+   }
+  },
+  {
+   "word": "offensive material",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˌfensɪv məˈtɪəriəl/",
+   "def_en": "Material such as pornography or extreme views.",
+   "def_vi": "Nội dung khiêu dâm hay cực đoan.",
+   "gloss_vi": "nội dung độc hại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Offensive material</i> (noun) = nội dung độc hại. <b>Collocations / chunks</b>: cụm danh từ cố định <i>offensive material</i>.",
+   "example": {
+    "en": "many sites contain <b>offensive material</b>",
+    "vi": "Nhiều trang chứa <b>nội dung độc hại</b>."
+   }
+  },
+  {
+   "word": "parental control",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pəˌrentl kənˈtrəʊl/",
+   "def_en": "The ability of parents to control which websites their children visit.",
+   "def_vi": "Khả năng phụ huynh kiểm soát trang con truy cập.",
+   "gloss_vi": "kiểm soát của phụ huynh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Parental control</i> (noun) = kiểm soát của phụ huynh. <b>Collocations / chunks</b>: cụm danh từ cố định <i>parental control</i>.",
+   "example": {
+    "en": "<b>parental control</b> may be necessary for children",
+    "vi": "<b>Kiểm soát của phụ huynh</b> có thể cần cho trẻ em."
+   }
+  },
+  {
+   "word": "bookmark",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈbʊkmɑːk/",
+   "def_en": "To put a website in a list so you can access it immediately.",
+   "def_vi": "Lưu trang web để truy cập nhanh.",
+   "gloss_vi": "đánh dấu trang",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bookmark</i> (verb) = đánh dấu trang. <b>Grammar</b>: cũng danh từ.",
+   "example": {
+    "en": "I’ve <b>bookmarked</b> the CNN home page.",
+    "vi": "Tôi đã <b>đánh dấu trang</b> chủ CNN."
+   }
+  },
+  {
+   "word": "subscribe to",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/səbˈskraɪb tə/",
+   "def_en": "To become a member of.",
+   "def_vi": "Đăng ký làm thành viên.",
+   "gloss_vi": "đăng ký",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "unsubscribe <i>(v. hủy đăng ký)</i>",
+   "grammar_vi": "<i>Subscribe to</i> (verb) = đăng ký. <b>Grammar</b>: <i>subscription</i> (n.).",
+   "example": {
+    "en": "If you <b>subscribe to</b> newsgroups, you often get hundreds of messages.",
+    "vi": "Nếu <b>đăng ký</b> nhóm tin, bạn nhận nhiều tin."
+   }
+  },
+  {
+   "word": "filter out",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌfɪltər ˈaʊt/",
+   "def_en": "To prevent something from reaching you.",
+   "def_vi": "Ngăn thứ gì đến với bạn.",
+   "gloss_vi": "lọc bỏ",
+   "synonyms": "screen out <i>(v. sàng lọc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Filter out</i> (verb) = lọc bỏ. <b>Grammar</b>: động từ nhiều từ <i>filter out</i>.",
+   "example": {
+    "en": "Some ISPs allow you to screen out / <b>filter out</b> unwanted mail.",
+    "vi": "Một số nhà mạng cho phép <b>lọc bỏ</b> thư không mong muốn."
+   }
+  },
+  {
+   "word": "server",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɜːvə(r)/",
+   "def_en": "A central computer that distributes email and services to a group of users.",
+   "def_vi": "Máy tính trung tâm phân phối dịch vụ.",
+   "gloss_vi": "máy chủ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Server</i> (noun) = máy chủ. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "Our <b>server</b> at work was down yesterday.",
+    "vi": "<b>Máy chủ</b> ở chỗ làm hỏng hôm qua."
+   }
+  },
+  {
+   "word": "down",
+   "sense": "computer",
+   "pos": "adjective",
+   "ipa": "/daʊn/",
+   "def_en": "(Of a computer system) not working.",
+   "def_vi": "(Hệ thống) không hoạt động.",
+   "gloss_vi": "sập, hỏng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "up <i>(adj. hoạt động)</i>",
+   "grammar_vi": "<i>Down</i> (adjective) = sập, hỏng. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "Our server at work was <b>down</b> yesterday.",
+    "vi": "Máy chủ <b>bị sập</b> hôm qua."
+   }
+  },
+  {
+   "word": "anti-virus software",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌænti ˈvaɪrəs ˌsɒftweə(r)/",
+   "def_en": "Protection against computer viruses.",
+   "def_vi": "Bảo vệ khỏi virus máy tính.",
+   "gloss_vi": "phần mềm diệt virus",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Anti-virus software</i> (noun) = phần mềm diệt virus. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "Do you have good <b>anti-virus software</b>?",
+    "vi": "Bạn có <b>phần mềm diệt virus</b> tốt không?"
+   }
+  },
+  {
+   "word": "bounce",
+   "sense": "email",
+   "pos": "verb",
+   "ipa": "/baʊns/",
+   "def_en": "(Of an email) to come back to the sender.",
+   "def_vi": "(Email) bị gửi trả lại.",
+   "gloss_vi": "bị trả về (email)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bounce</i> (verb) = bị trả về (email). <b>Grammar</b>: động từ.",
+   "example": {
+    "en": "The email I sent her <b>bounced</b>.",
+    "vi": "Email tôi gửi cô ấy <b>bị trả về</b>."
+   }
+  },
+  {
+   "word": "post",
+   "sense": "online",
+   "pos": "verb",
+   "ipa": "/pəʊst/",
+   "def_en": "To add something to a website.",
+   "def_vi": "Đăng lên trang web.",
+   "gloss_vi": "đăng",
+   "synonyms": "upload <i>(v. tải lên)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Post</i> (verb) = đăng. <b>Grammar</b>: cũng danh từ <i>a post</i>.",
+   "example": {
+    "en": "She often <b>posts</b> ridiculous details about her life.",
+    "vi": "Cô ấy hay <b>đăng</b> chi tiết ngớ ngẩn về đời mình."
+   }
+  }
+ ]
+}
