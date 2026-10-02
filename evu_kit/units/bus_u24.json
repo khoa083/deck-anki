@@ -1,0 +1,409 @@
+{
+ "book": "bus",
+ "unit": 24,
+ "title_vi": "Phân phối",
+ "theory_html": "<p><b>A. Distribution: wholesalers, retailers and customers</b><br><i>A. Phân phối: bán buôn, bán lẻ, khách hàng</i></p> <p>Diagram: <b>producers → distributors (wholesalers, retailers) → customers; distribution network, distribution channel</b>; <b>dealer, reseller, distributors, middlemen, cut out the middleman</b>.</p><p><i><b>nhà sản xuất → nhà phân phối (bán buôn, bán lẻ) → khách hàng; mạng lưới phân phối, kênh phân phối; đại lý, nhà bán lại, người trung gian, bỏ qua trung gian</b>.</i></p> <p><b>B. Shops</b><br><i>B. Cửa hàng</i></p> <p><b>shop (BrE) / store (AmE), retail outlet / sales outlet, chain store, convenience store, discounter, department store, hypermarket, supermarket, shopping centre, malls / shopping malls, franchises, franchisees, franchisor</b>.</p><p><i><b>cửa hàng, điểm bán lẻ, chuỗi cửa hàng, cửa hàng tiện lợi, cửa hàng giá rẻ, cửa hàng bách hóa, đại siêu thị, siêu thị, trung tâm mua sắm, cửa hàng nhượng quyền, bên nhận / bên nhượng quyền</b>.</i></p> <p><b>C. Direct marketing</b><br><i>C. Tiếp thị trực tiếp</i></p> <p><b>direct marketing, mailings, direct mail, junk mail, target, mailshots, telemarketing, call centres, cold calls</b>.</p><p><i><b>tiếp thị trực tiếp, gửi thư, thư quảng cáo, thư rác, nhắm mục tiêu, thư chào hàng, tiếp thị qua điện thoại, tổng đài, cuộc gọi chào hàng</b>.</i></p>",
+ "items": [
+  {
+   "word": "wholesaler",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhəʊlseɪlə(r)/",
+   "def_en": "A distributor that buys from producers and sells to retailers.",
+   "def_vi": "Nhà phân phối mua từ nhà sản xuất, bán cho nhà bán lẻ.",
+   "gloss_vi": "nhà bán buôn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "retailer <i>(n. nhà bán lẻ)</i>",
+   "grammar_vi": "<i>Wholesaler</i> (noun) = nhà bán buôn. <b>Grammar</b>: danh từ <i>wholesale</i>.",
+   "example": {
+    "en": "<b>Wholesalers</b> and retailers are distributors.",
+    "vi": "<b>Bán buôn</b> và bán lẻ đều là nhà phân phối."
+   }
+  },
+  {
+   "word": "retailer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈriːteɪlə(r)/",
+   "def_en": "A distributor that sells to customers.",
+   "def_vi": "Nhà phân phối bán cho khách hàng.",
+   "gloss_vi": "nhà bán lẻ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "wholesaler <i>(n. nhà bán buôn)</i>",
+   "grammar_vi": "<i>Retailer</i> (noun) = nhà bán lẻ. <b>Grammar</b>: danh từ <i>retail</i>.",
+   "example": {
+    "en": "Wholesalers and <b>retailers</b> are distributors.",
+    "vi": "Bán buôn và <b>bán lẻ</b> đều là nhà phân phối."
+   }
+  },
+  {
+   "word": "distribution channel",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdɪstrɪˈbjuːʃn ˌtʃænl/",
+   "def_en": "The route by which products go from producers to customers.",
+   "def_vi": "Con đường sản phẩm đi từ nhà sản xuất đến khách.",
+   "gloss_vi": "kênh phân phối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Distribution channel</i> (noun) = kênh phân phối. <b>Collocations / chunks</b>: <i>distribution network</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Each <b>distribution channel</b> links producers to customers.",
+    "vi": "Sơ đồ cho thấy <b>kênh phân phối</b>."
+   }
+  },
+  {
+   "word": "dealer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdiːlə(r)/",
+   "def_en": "A wholesaler or retailer selling a particular type of product, e.g. cars.",
+   "def_vi": "Bên bán buôn/lẻ một loại sản phẩm, vd ô tô.",
+   "gloss_vi": "đại lý",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dealer</i> (noun) = đại lý. <b>Collocations / chunks</b>: <i>car dealer</i>.",
+   "example": {
+    "en": "A wholesaler or retailer selling a particular type of product, for example cars, is a <b>dealer</b>",
+    "vi": "Bên bán một loại sản phẩm như ô tô là <b>đại lý</b>."
+   }
+  },
+  {
+   "word": "reseller",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌriːˈselə(r)/",
+   "def_en": "A dealer, especially of computer equipment or telecommunications services.",
+   "def_vi": "Đại lý, nhất là thiết bị máy tính, viễn thông.",
+   "gloss_vi": "nhà bán lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reseller</i> (noun) = nhà bán lại. <b>Grammar</b>: tiền tố <i>re-</i>.",
+   "example": {
+    "en": "especially in the case of computer equipment or telecommunications services, a <b>reseller</b>",
+    "vi": "Với thiết bị máy tính, gọi là <b>nhà bán lại</b>."
+   }
+  },
+  {
+   "word": "distributor",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈstrɪbjətə(r)/",
+   "def_en": "A wholesaler or retailer.",
+   "def_vi": "Nhà bán buôn hay bán lẻ.",
+   "gloss_vi": "nhà phân phối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Distributor</i> (noun) = nhà phân phối. <b>Grammar</b>: động từ <i>distribute</i>.",
+   "example": {
+    "en": "Wholesalers and retailers are <b>distributors</b>.",
+    "vi": "Bán buôn và bán lẻ là <b>nhà phân phối</b>."
+   }
+  },
+  {
+   "word": "middleman",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɪdlmæn/",
+   "def_en": "A distributor (sometimes disapproving).",
+   "def_vi": "Nhà phân phối (đôi khi chê).",
+   "gloss_vi": "người trung gian",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Middleman</i> (noun) = người trung gian. <b>Grammar</b>: số nhiều <i>middlemen</i>.",
+   "example": {
+    "en": "Distributors may be referred to, sometimes disapprovingly, as <b>middlemen</b>.",
+    "vi": "Nhà phân phối đôi khi bị gọi là <b>người trung gian</b>."
+   }
+  },
+  {
+   "word": "cut out the middleman",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkʌt aʊt ðə ˈmɪdlmæn/",
+   "def_en": "To buy directly from a producer to save money.",
+   "def_vi": "Mua thẳng từ nhà sản xuất để tiết kiệm.",
+   "gloss_vi": "bỏ qua trung gian",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cut out the middleman</i> (verb) = bỏ qua trung gian. <b>Collocations / chunks</b>: thành ngữ cố định.",
+   "example": {
+    "en": "they might say that they are <b>cutting out the middleman</b>",
+    "vi": "Mua thẳng từ nhà sản xuất là <b>bỏ qua trung gian</b>."
+   }
+  },
+  {
+   "word": "retail outlet",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈriːteɪl ˌaʊtlet/",
+   "def_en": "A shop (technical term).",
+   "def_vi": "Cửa hàng (thuật ngữ).",
+   "gloss_vi": "điểm bán lẻ",
+   "synonyms": "sales outlet <i>(n. điểm bán)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Retail outlet</i> (noun) = điểm bán lẻ. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "A shop or store may be referred to technically, for example by a maker of goods, as a <b>retail outlet</b> or sales outlet.",
+    "vi": "Nhà sản xuất có thể gọi cửa hàng là <b>điểm bán lẻ</b>."
+   }
+  },
+  {
+   "word": "chain store",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtʃeɪn stɔː(r)/",
+   "def_en": "A shop that is part of a group of shops, all with the same name.",
+   "def_vi": "Cửa hàng thuộc chuỗi cùng tên.",
+   "gloss_vi": "chuỗi cửa hàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chain store</i> (noun) = chuỗi cửa hàng. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "<b>chain store</b> – a shop that is part of a group of shops, all with the same name",
+    "vi": "<b>Chuỗi cửa hàng</b> – cửa hàng thuộc nhóm cùng tên."
+   }
+  },
+  {
+   "word": "convenience store",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kənˈviːniəns stɔː(r)/",
+   "def_en": "A shop in a town that is open long hours.",
+   "def_vi": "Cửa hàng mở cửa nhiều giờ.",
+   "gloss_vi": "cửa hàng tiện lợi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Convenience store</i> (noun) = cửa hàng tiện lợi. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "<b>convenience store</b> – a shop in a town that is open long hours",
+    "vi": "<b>Cửa hàng tiện lợi</b> – mở cửa nhiều giờ."
+   }
+  },
+  {
+   "word": "discounter",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdɪskaʊntə(r)/",
+   "def_en": "A wholesaler or retailer with very low prices.",
+   "def_vi": "Bên bán buôn/lẻ giá rất thấp.",
+   "gloss_vi": "cửa hàng giá rẻ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Discounter</i> (noun) = cửa hàng giá rẻ. <b>Grammar</b>: động từ <i>discount</i>.",
+   "example": {
+    "en": "<b>discounter</b> – a wholesaler or retailer with very low prices",
+    "vi": "<b>Cửa hàng giá rẻ</b> – bán với giá rất thấp."
+   }
+  },
+  {
+   "word": "department store",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈpɑːtmənt stɔː(r)/",
+   "def_en": "A very large shop, usually in a town centre.",
+   "def_vi": "Cửa hàng rất lớn ở trung tâm.",
+   "gloss_vi": "cửa hàng bách hóa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Department store</i> (noun) = cửa hàng bách hóa. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "<b>department store</b> – a very large shop, usually in a town centre",
+    "vi": "<b>Cửa hàng bách hóa</b> – cửa hàng rất lớn ở trung tâm."
+   }
+  },
+  {
+   "word": "hypermarket",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhaɪpəmɑːkɪt/",
+   "def_en": "A very large shop with a wide variety of goods, usually outside a town.",
+   "def_vi": "Cửa hàng rất lớn nhiều hàng, thường ngoài thị trấn.",
+   "gloss_vi": "đại siêu thị",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hypermarket</i> (noun) = đại siêu thị. <b>Grammar</b>: tiền tố <i>hyper-</i>.",
+   "example": {
+    "en": "<b>hypermarket</b> – a very large shop with a wide variety of goods, usually outside a town",
+    "vi": "<b>Đại siêu thị</b> – rất lớn, thường ở ngoại ô."
+   }
+  },
+  {
+   "word": "shopping mall",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈʃɒpɪŋ mɔːl/",
+   "def_en": "An area with many shops where it is easy to park, often on the edge of towns.",
+   "def_vi": "Khu nhiều cửa hàng dễ đỗ xe, thường ở rìa thị trấn.",
+   "gloss_vi": "trung tâm thương mại",
+   "synonyms": "mall <i>(n. trung tâm thương mại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shopping mall</i> (noun) = trung tâm thương mại. <b>Collocations / chunks</b>: Anh cũng <i>shopping centre</i>.",
+   "example": {
+    "en": "There are malls or <b>shopping malls</b> where it is easy to park",
+    "vi": "Có <b>trung tâm thương mại</b> dễ đỗ xe ở rìa thị trấn."
+   }
+  },
+  {
+   "word": "franchise",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfræntʃaɪz/",
+   "def_en": "A business that sells only the goods of a particular company, run by a franchisee.",
+   "def_vi": "Cửa hàng chỉ bán hàng của một công ty, do bên nhận quyền điều hành.",
+   "gloss_vi": "cửa hàng nhượng quyền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Franchise</i> (noun) = cửa hàng nhượng quyền. <b>Grammar</b>: người = <i>franchisee</i>; công ty = <i>franchisor</i>.",
+   "example": {
+    "en": "<b>Franchises</b> are owned by franchisees – the people that run them",
+    "vi": "<b>Cửa hàng nhượng quyền</b> do bên nhận quyền sở hữu."
+   }
+  },
+  {
+   "word": "franchisee",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌfræntʃaɪˈziː/",
+   "def_en": "A person who runs a franchise.",
+   "def_vi": "Người điều hành cửa hàng nhượng quyền.",
+   "gloss_vi": "bên nhận nhượng quyền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "franchisor <i>(n. bên nhượng quyền)</i>",
+   "grammar_vi": "<i>Franchisee</i> (noun) = bên nhận nhượng quyền. <b>Grammar</b>: hậu tố <i>-ee</i> = người nhận.",
+   "example": {
+    "en": "Franchises are owned by <b>franchisees</b> – the people that run them",
+    "vi": "Cửa hàng nhượng quyền do <b>bên nhận nhượng quyền</b> sở hữu."
+   }
+  },
+  {
+   "word": "franchisor",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfræntʃaɪzə(r)/",
+   "def_en": "The company that provides goods to franchisees and takes a percentage of profits.",
+   "def_vi": "Công ty cấp hàng cho bên nhận quyền, lấy phần trăm lợi nhuận.",
+   "gloss_vi": "bên nhượng quyền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "franchisee <i>(n. bên nhận quyền)</i>",
+   "grammar_vi": "<i>Franchisor</i> (noun) = bên nhượng quyền. <b>Grammar</b>: hậu tố <i>-or</i>.",
+   "example": {
+    "en": "The <b>franchisor</b> – the company – provides the goods and organizes advertising centrally",
+    "vi": "<b>Bên nhượng quyền</b> cung cấp hàng và lấy phần trăm lợi nhuận."
+   }
+  },
+  {
+   "word": "direct marketing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dəˌrekt ˈmɑːkɪtɪŋ/",
+   "def_en": "Selling directly to customers by post, phone, etc.",
+   "def_vi": "Bán thẳng cho khách qua thư, điện thoại.",
+   "gloss_vi": "tiếp thị trực tiếp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Direct marketing</i> (noun) = tiếp thị trực tiếp. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "I work in a <b>direct marketing</b> company in Brussels",
+    "vi": "Tôi làm ở một công ty <b>tiếp thị trực tiếp</b>."
+   }
+  },
+  {
+   "word": "direct mail",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dəˌrekt ˈmeɪl/",
+   "def_en": "Information sent by post to sell products.",
+   "def_vi": "Thông tin gửi qua bưu điện để bán hàng.",
+   "gloss_vi": "thư quảng cáo trực tiếp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Direct mail</i> (noun) = thư quảng cáo trực tiếp. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "We call this <b>direct mail</b>",
+    "vi": "Chúng tôi gọi đó là <b>thư quảng cáo trực tiếp</b>."
+   }
+  },
+  {
+   "word": "junk mail",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdʒʌŋk meɪl/",
+   "def_en": "Direct mail (used by people who dislike receiving it).",
+   "def_vi": "Thư quảng cáo (người không thích gọi vậy).",
+   "gloss_vi": "thư rác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Junk mail</i> (noun) = thư rác. <b>Grammar</b>: tiêu cực.",
+   "example": {
+    "en": "the people who dislike receiving it sometimes call it <b>junk mail</b>",
+    "vi": "Người không thích gọi là <b>thư rác</b>."
+   }
+  },
+  {
+   "word": "target",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈtɑːɡɪt/",
+   "def_en": "To choose who to send something to.",
+   "def_vi": "Chọn đối tượng gửi.",
+   "gloss_vi": "nhắm mục tiêu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Target</i> (verb) = nhắm mục tiêu. <b>Grammar</b>: cũng là danh từ.",
+   "example": {
+    "en": "we <b>target</b> our mailing lists very carefully – choose who to send them to",
+    "vi": "Chúng tôi <b>nhắm</b> danh sách gửi thư rất cẩn thận."
+   }
+  },
+  {
+   "word": "mailshot",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmeɪlʃɒt/",
+   "def_en": "Advertising material sent by post to many people.",
+   "def_vi": "Tài liệu quảng cáo gửi bưu điện cho nhiều người.",
+   "gloss_vi": "thư chào hàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mailshot</i> (noun) = thư chào hàng. <b>Grammar</b>: danh từ ghép.",
+   "example": {
+    "en": "There’s no point in sending <b>mailshots</b> for garden tools to people who live in apartments!",
+    "vi": "Gửi <b>thư chào hàng</b> dụng cụ làm vườn cho người ở chung cư thì vô ích."
+   }
+  },
+  {
+   "word": "telemarketing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtelimɑːkɪtɪŋ/",
+   "def_en": "Selling by telephone.",
+   "def_vi": "Bán hàng qua điện thoại.",
+   "gloss_vi": "tiếp thị qua điện thoại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Telemarketing</i> (noun) = tiếp thị qua điện thoại. <b>Grammar</b>: tiền tố <i>tele-</i>.",
+   "example": {
+    "en": "We also do <b>telemarketing</b> – selling by telephone from our call centres.",
+    "vi": "Chúng tôi cũng làm <b>tiếp thị qua điện thoại</b>."
+   }
+  },
+  {
+   "word": "cold call",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkəʊld ˈkɔːl/",
+   "def_en": "A call to people who have had no contact with you before.",
+   "def_vi": "Cuộc gọi cho người chưa từng liên hệ.",
+   "gloss_vi": "cuộc gọi chào hàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cold call</i> (noun) = cuộc gọi chào hàng. <b>Collocations / chunks</b>: <i>make cold calls</i>.",
+   "example": {
+    "en": "The most difficult thing is making <b>cold calls</b> to people who have had no contact with us before.",
+    "vi": "Khó nhất là gọi <b>chào hàng</b> cho người chưa từng liên hệ."
+   }
+  }
+ ]
+}

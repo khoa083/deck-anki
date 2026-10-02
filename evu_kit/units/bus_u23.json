@@ -1,0 +1,349 @@
+{
+ "book": "bus",
+ "unit": 23,
+ "title_vi": "Giá cả",
+ "theory_html": "<p><b>A. Pricing</b><br><i>A. Định giá</i></p> <p><b>low-priced, low pricing, charge, expensive, cheap, loss-leaders, list price / recommended retail price, discounting, discount, high-priced, mid-priced, undercut</b>.</p><p><i><b>giá thấp, chính sách giá thấp, tính giá, đắt, rẻ, hàng bán lỗ để kéo khách, giá niêm yết / giá bán lẻ đề xuất, giảm giá, chiết khấu, giá cao, giá tầm trung, bán phá giá</b>.</i></p> <p><b>B. Word combinations with ‘price’</b><br><i>B. Kết hợp với ‘price’</i></p> <p><b>price boom, price controls, price cut, price hike, price war, price tag</b>.</p><p><i><b>giá tăng vọt, kiểm soát giá, cắt giảm giá, tăng giá, chiến tranh giá, nhãn giá</b>.</i></p> <p><b>C. Upmarket and downmarket</b><br><i>C. Cao cấp và bình dân</i></p> <p><b>models, basic, sophisticated, exclusive, low-end / bottom-end, high-end / top-end / premium, entry-level, mid-range, trade up / move upmarket, trade down / move downmarket, take sth downmarket</b>; AmE <b>upscale / downscale</b>.</p><p><i><b>mẫu, cơ bản, tinh vi, độc quyền, cấp thấp, cao cấp, cấp nhập môn, tầm trung, nâng cấp, hạ cấp</b>.</i></p> <p><b>D. Mass markets and niches</b><br><i>D. Thị trường đại chúng và ngách</i></p> <p><b>mass market, niche</b>.</p><p><i><b>thị trường đại chúng, thị trường ngách</b>.</i></p>",
+ "items": [
+  {
+   "word": "low-priced",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌləʊ ˈpraɪst/",
+   "def_en": "Cheap.",
+   "def_vi": "Rẻ.",
+   "gloss_vi": "giá thấp",
+   "synonyms": "cheap <i>(adj. rẻ)</i>",
+   "antonyms": "high-priced <i>(adj. giá cao)</i>",
+   "grammar_vi": "<i>Low-priced</i> (adjective) = giá thấp. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "our goods are <b>low-priced</b>",
+    "vi": "Hàng của chúng tôi <b>giá thấp</b>."
+   }
+  },
+  {
+   "word": "charge",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/tʃɑːdʒ/",
+   "def_en": "To ask a particular price for goods.",
+   "def_vi": "Đòi một mức giá.",
+   "gloss_vi": "tính giá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Charge</i> (verb) = tính giá. <b>Collocations / chunks</b>: <i>charge a price</i>.",
+   "example": {
+    "en": "we <b>charge</b> low prices all the time",
+    "vi": "Chúng tôi luôn <b>tính</b> giá thấp."
+   }
+  },
+  {
+   "word": "loss-leader",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌlɒs ˈliːdə(r)/",
+   "def_en": "A cheap item sold to attract customers.",
+   "def_vi": "Hàng rẻ để thu hút khách.",
+   "gloss_vi": "hàng bán lỗ kéo khách",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Loss-leader</i> (noun) = hàng bán lỗ kéo khách. <b>Grammar</b>: danh từ ghép.",
+   "example": {
+    "en": "It is true that we have <b>loss-leaders</b> – these are cheap items which are there to attract customers.",
+    "vi": "Đúng là chúng tôi có <b>hàng bán lỗ kéo khách</b>."
+   }
+  },
+  {
+   "word": "list price",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlɪst praɪs/",
+   "def_en": "The ‘official’ price of a product.",
+   "def_vi": "Giá ‘chính thức’ của sản phẩm.",
+   "gloss_vi": "giá niêm yết",
+   "synonyms": "recommended retail price <i>(n. giá bán lẻ đề xuất)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>List price</i> (noun) = giá niêm yết. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "selling our goods below the ‘official’ <b>list price</b> or recommended retail price",
+    "vi": "Chúng tôi bán dưới <b>giá niêm yết</b>."
+   }
+  },
+  {
+   "word": "discounting",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdɪskaʊntɪŋ/",
+   "def_en": "Selling at a discount to the list price.",
+   "def_vi": "Bán thấp hơn giá niêm yết.",
+   "gloss_vi": "chính sách giảm giá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Discounting</i> (noun) = chính sách giảm giá. <b>Grammar</b>: danh từ <i>discount</i>.",
+   "example": {
+    "en": "This policy of <b>discounting</b> – selling at a discount to the list price – has been very successful.",
+    "vi": "Chính sách <b>giảm giá</b> này rất thành công."
+   }
+  },
+  {
+   "word": "mid-priced",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌmɪd ˈpraɪst/",
+   "def_en": "Not cheap and not expensive.",
+   "def_vi": "Không rẻ không đắt.",
+   "gloss_vi": "giá tầm trung",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mid-priced</i> (adjective) = giá tầm trung. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "most of our goods are <b>mid-priced</b> – not cheap and not expensive",
+    "vi": "Phần lớn hàng của chúng tôi <b>giá tầm trung</b>."
+   }
+  },
+  {
+   "word": "undercut",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌʌndəˈkʌt/",
+   "def_en": "To sell the same products at lower prices than a competitor.",
+   "def_vi": "Bán cùng sản phẩm rẻ hơn đối thủ.",
+   "gloss_vi": "bán rẻ hơn, phá giá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Undercut</i> (verb) = bán rẻ hơn, phá giá. <b>Grammar</b>: bất quy tắc <i>undercut – undercut</i>.",
+   "example": {
+    "en": "But Allmart are <b>undercutting</b> us on some products – selling the same ones at lower prices than us.",
+    "vi": "Allmart đang <b>bán rẻ hơn</b> chúng tôi ở vài sản phẩm."
+   }
+  },
+  {
+   "word": "price boom",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpraɪs buːm/",
+   "def_en": "When prices are rising quickly, to the benefit of sellers.",
+   "def_vi": "Khi giá tăng nhanh, lợi cho người bán.",
+   "gloss_vi": "giá tăng vọt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Price boom</i> (noun) = giá tăng vọt. <b>Collocations / chunks</b>: <i>price</i> + <i>boom/controls/cut/hike/war/tag</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "There is a <b>price boom</b> in the housing market.",
+    "vi": "Đang có <b>giá tăng vọt</b> ở thị trường nhà đất."
+   }
+  },
+  {
+   "word": "price controls",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpraɪs kənˌtrəʊlz/",
+   "def_en": "Government efforts to limit price increases.",
+   "def_vi": "Nỗ lực của chính phủ hạn chế tăng giá.",
+   "gloss_vi": "kiểm soát giá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Price controls</i> (noun) = kiểm soát giá. <b>Collocations / chunks</b>: cụm danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "The government introduced <b>price controls</b> on petrol.",
+    "vi": "Chính phủ áp dụng <b>kiểm soát giá</b> với xăng."
+   }
+  },
+  {
+   "word": "price hike",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpraɪs haɪk/",
+   "def_en": "An increase, especially one not wanted by the buyer (journalistic).",
+   "def_vi": "Sự tăng giá ngoài ý người mua (báo chí).",
+   "gloss_vi": "tăng giá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "price cut <i>(n. giảm giá)</i>",
+   "grammar_vi": "<i>Price hike</i> (noun) = tăng giá. <b>Grammar</b>: báo chí.",
+   "ex_kit": true,
+   "example": {
+    "en": "Customers complained about the electricity <b>price hike</b>.",
+    "vi": "Khách phàn nàn về <b>tăng giá</b> điện."
+   }
+  },
+  {
+   "word": "price war",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpraɪs wɔː(r)/",
+   "def_en": "When competing companies reduce prices in response to each other.",
+   "def_vi": "Khi các công ty cạnh tranh hạ giá đáp trả nhau.",
+   "gloss_vi": "chiến tranh giá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Price war</i> (noun) = chiến tranh giá. <b>Collocations / chunks</b>: cụm danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "The supermarkets are in a <b>price war</b>.",
+    "vi": "Các siêu thị đang trong <b>chiến tranh giá</b>."
+   }
+  },
+  {
+   "word": "price tag",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpraɪs tæɡ/",
+   "def_en": "A label attached to goods showing the price; also ‘price’.",
+   "def_vi": "Nhãn ghi giá; cũng nghĩa là ‘giá’.",
+   "gloss_vi": "nhãn giá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Price tag</i> (noun) = nhãn giá. <b>Collocations / chunks</b>: cụm danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "The car has a <b>price tag</b> of £50,000.",
+    "vi": "Chiếc xe có <b>giá</b> 50.000 bảng."
+   }
+  },
+  {
+   "word": "sophisticated",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/səˈfɪstɪkeɪtɪd/",
+   "def_en": "(Of products) advanced and complex.",
+   "def_vi": "(Sản phẩm) tiên tiến, phức tạp.",
+   "gloss_vi": "tinh vi, cao cấp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "basic <i>(adj. cơ bản)</i>",
+   "grammar_vi": "<i>Sophisticated</i> (adjective) = tinh vi, cao cấp. <b>Grammar</b>: danh từ <i>sophistication</i>.",
+   "example": {
+    "en": "Some are basic and others more <b>sophisticated</b> and exclusive.",
+    "vi": "Có loại cơ bản, có loại <b>tinh vi</b> hơn."
+   }
+  },
+  {
+   "word": "low-end",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌləʊ ˈend/",
+   "def_en": "Cheapest.",
+   "def_vi": "Rẻ nhất.",
+   "gloss_vi": "cấp thấp",
+   "synonyms": "bottom-end <i>(adj. cấp thấp nhất)</i>",
+   "antonyms": "high-end <i>(adj. cao cấp)</i>",
+   "grammar_vi": "<i>Low-end</i> (adjective) = cấp thấp. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "The cheapest skis are <b>low-end</b> or bottom-end.",
+    "vi": "Ván trượt rẻ nhất là loại <b>cấp thấp</b>."
+   }
+  },
+  {
+   "word": "high-end",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌhaɪ ˈend/",
+   "def_en": "Most expensive.",
+   "def_vi": "Đắt nhất.",
+   "gloss_vi": "cao cấp",
+   "synonyms": "premium <i>(adj. hảo hạng)</i>",
+   "antonyms": "low-end <i>(adj. cấp thấp)</i>",
+   "grammar_vi": "<i>High-end</i> (adjective) = cao cấp. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "The most expensive ones are <b>high-end</b>, top-end or premium products",
+    "vi": "Loại đắt nhất là sản phẩm <b>cao cấp</b>."
+   }
+  },
+  {
+   "word": "entry-level",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈentri ˌlevl/",
+   "def_en": "(Of products) cheapest and intended for beginners.",
+   "def_vi": "(Sản phẩm) rẻ nhất, cho người mới.",
+   "gloss_vi": "cấp nhập môn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Entry-level</i> (adjective) = cấp nhập môn. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "The cheapest <b>entry-level</b> skis are intended for beginners",
+    "vi": "Ván trượt <b>cấp nhập môn</b> dành cho người mới."
+   }
+  },
+  {
+   "word": "mid-range",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌmɪd ˈreɪndʒ/",
+   "def_en": "In between cheapest and most expensive.",
+   "def_vi": "Ở giữa rẻ nhất và đắt nhất.",
+   "gloss_vi": "tầm trung",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mid-range</i> (adjective) = tầm trung. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "Those in between are <b>mid-range</b>.",
+    "vi": "Loại ở giữa là <b>tầm trung</b>."
+   }
+  },
+  {
+   "word": "trade up",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌtreɪd ˈʌp/",
+   "def_en": "To buy a more sophisticated product to replace a basic one.",
+   "def_vi": "Mua sản phẩm tốt hơn thay cái cơ bản.",
+   "gloss_vi": "nâng cấp",
+   "synonyms": "move upmarket <i>(v. lên phân khúc cao)</i>",
+   "antonyms": "trade down <i>(v. hạ cấp)</i>",
+   "grammar_vi": "<i>Trade up</i> (verb) = nâng cấp. <b>Collocations / chunks</b>: <i>trade up</i> ↔ <i>trade down</i>.",
+   "example": {
+    "en": "When you buy more sophisticated skis to replace basic ones, you <b>trade up</b> and move upmarket.",
+    "vi": "Khi mua ván tốt hơn, bạn <b>nâng cấp</b>."
+   }
+  },
+  {
+   "word": "downmarket",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌdaʊnˈmɑːkɪt/",
+   "def_en": "Cheaper, more popular, less cultural (often disapproving).",
+   "def_vi": "Rẻ hơn, bình dân hơn (thường chê).",
+   "gloss_vi": "bình dân",
+   "synonyms": "downscale <i>(adj. bình dân (Mỹ))</i>",
+   "antonyms": "upmarket <i>(adj. cao cấp)</i>",
+   "grammar_vi": "<i>Downmarket</i> (adjective) = bình dân. <b>Grammar</b>: Mỹ <i>downscale</i>.",
+   "example": {
+    "en": "To say that something is <b>downmarket</b> often shows disapproval.",
+    "vi": "Nói thứ gì <b>bình dân</b> thường mang ý chê."
+   }
+  },
+  {
+   "word": "mass market",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmæs ˈmɑːkɪt/",
+   "def_en": "Goods that sell in large quantities and the people who buy them.",
+   "def_vi": "Hàng bán số lượng lớn và người mua chúng.",
+   "gloss_vi": "thị trường đại chúng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "niche <i>(n. thị trường ngách)</i>",
+   "grammar_vi": "<i>Mass market</i> (noun) = thị trường đại chúng. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "<b>Mass market</b> is used to talk about goods that sell in large quantities and the people who buy them",
+    "vi": "<b>Thị trường đại chúng</b> là hàng bán số lượng lớn, vd xe gia đình."
+   }
+  },
+  {
+   "word": "niche",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/niːʃ/",
+   "def_en": "A relatively small group of buyers with specific requirements.",
+   "def_vi": "Nhóm người mua nhỏ có nhu cầu riêng.",
+   "gloss_vi": "thị trường ngách",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "mass market <i>(n. thị trường đại chúng)</i>",
+   "grammar_vi": "<i>Niche</i> (noun) = thị trường ngách. <b>Grammar</b>: phát âm /niːʃ/.",
+   "example": {
+    "en": "A <b>niche</b> is a group of buyers with specific requirements that is relatively small but that may be profitable",
+    "vi": "<b>Thị trường ngách</b> là nhóm người mua nhỏ có nhu cầu riêng."
+   }
+  }
+ ]
+}
