@@ -1,0 +1,344 @@
+{
+ "book": "upp",
+ "unit": 35,
+ "title_vi": "Truyền thông và Internet",
+ "theory_html": "<p><b>A. The Internet</b><br><i>A. Internet</i></p> <p><b>the Internet / the net; the World Wide Web / the Web; pages; broadband; access; wi-fi; wireless network; cable; browse, browser; search engine; googling; surfing the net; website, home page, links; navigate; FAQ; bookmark; log on/off; hits; subscribe to; username, password; log in/out; enter; the cloud</b>.</p><p><i><b>mạng, băng thông rộng, truy cập, mạng không dây, dây cáp, trình duyệt, công cụ tìm kiếm, lướt mạng, trang chủ, liên kết, điều hướng, câu hỏi thường gặp, đánh dấu trang, lượt truy cập, đăng ký, đám mây</b>.</i></p> <p><b>B. Online communication</b><br><i>B. Giao tiếp trực tuyến</i></p> <p><b>email, attachment / attach; e-card; server; ISP; down; Skype; contact list; webcam; interactive; social networking; wiki; blogs; online gaming; virtual reality</b>.</p><p><i><b>tệp đính kèm, thiệp điện tử, máy chủ, bị sập, danh bạ, tương tác, mạng xã hội, trò chơi trực tuyến, thực tế ảo</b>.</i></p>",
+ "items": [
+  {
+   "word": "the net",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ðə ˈnet/",
+   "def_en": "The Internet (informal).",
+   "def_vi": "Internet (thân mật).",
+   "gloss_vi": "mạng Internet",
+   "synonyms": "the Internet <i>(np. Internet)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The net</i> (noun phrase) = mạng Internet. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "The Internet / <b>the net</b> is a network connecting millions of computer users worldwide.",
+    "vi": "<b>Mạng Internet</b> là mạng kết nối hàng triệu người dùng máy tính."
+   }
+  },
+  {
+   "word": "broadband",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbrɔːdbænd/",
+   "def_en": "A fast connection to the Internet.",
+   "def_vi": "Kết nối Internet tốc độ cao.",
+   "gloss_vi": "băng thông rộng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Broadband</i> (noun) = băng thông rộng. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "If you have a <b>broadband</b> connection then your access to the Internet should be fast.",
+    "vi": "Nếu có kết nối <b>băng thông rộng</b>, truy cập Internet sẽ nhanh."
+   }
+  },
+  {
+   "word": "wi-fi",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwaɪ faɪ/",
+   "def_en": "A way of connecting to the Internet without cables.",
+   "def_vi": "Cách kết nối Internet không dây.",
+   "gloss_vi": "wi-fi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wi-fi</i> (noun) = wi-fi. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "Many cafés now offer people a <b>wi-fi</b> connection to the Internet.",
+    "vi": "Nhiều quán cà phê có kết nối <b>wi-fi</b>."
+   }
+  },
+  {
+   "word": "wireless network",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌwaɪələs ˈnetwɜːk/",
+   "def_en": "A network that works without cables.",
+   "def_vi": "Mạng hoạt động không cần dây.",
+   "gloss_vi": "mạng không dây",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wireless network</i> (noun phrase) = mạng không dây. <b>Grammar</b>: <i>wireless</i> = không dây.",
+   "example": {
+    "en": "You can access the Internet through a <b>wireless network</b>.",
+    "vi": "Bạn truy cập Internet qua <b>mạng không dây</b>."
+   }
+  },
+  {
+   "word": "search engine",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈsɜːtʃ ˌendʒɪn/",
+   "def_en": "A program that helps you find information on the Internet.",
+   "def_vi": "Chương trình giúp tìm thông tin trên mạng.",
+   "gloss_vi": "công cụ tìm kiếm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Search engine</i> (noun phrase) = công cụ tìm kiếm. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "You use a <b>search engine</b> to help you locate what you want.",
+    "vi": "Bạn dùng <b>công cụ tìm kiếm</b> để tìm thứ mình muốn."
+   }
+  },
+  {
+   "word": "google",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈɡuːɡl/",
+   "def_en": "To search for someone or something on the Internet.",
+   "def_vi": "Tìm ai hay thứ gì trên mạng.",
+   "gloss_vi": "tra Google",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Google</i> (verb) = tra Google. <b>Grammar</b>: từ thương hiệu thành động từ.",
+   "example": {
+    "en": "People now talk about <b>googling</b> someone or something.",
+    "vi": "Giờ người ta nói <b>tra Google</b> ai đó hay thứ gì đó."
+   }
+  },
+  {
+   "word": "home page",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈhəʊm peɪdʒ/",
+   "def_en": "The introductory page of a website.",
+   "def_vi": "Trang giới thiệu của trang web.",
+   "gloss_vi": "trang chủ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Home page</i> (noun phrase) = trang chủ. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "The introductory page is called the <b>home page</b>.",
+    "vi": "Trang giới thiệu được gọi là <b>trang chủ</b>."
+   }
+  },
+  {
+   "word": "navigate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈnævɪɡeɪt/",
+   "def_en": "To find your way around a website.",
+   "def_vi": "Tìm đường trong trang web.",
+   "gloss_vi": "điều hướng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Navigate</i> (verb) = điều hướng. <b>Grammar</b>: cũng = lái tàu.",
+   "example": {
+    "en": "Good websites are easy to <b>navigate</b>.",
+    "vi": "Trang web tốt dễ <b>điều hướng</b>."
+   }
+  },
+  {
+   "word": "FAQ",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌef eɪ ˈkjuː/",
+   "def_en": "Frequently asked questions.",
+   "def_vi": "Câu hỏi thường gặp.",
+   "gloss_vi": "câu hỏi thường gặp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>FAQ</i> (noun) = câu hỏi thường gặp. <b>Grammar</b>: viết tắt <i>frequently asked questions</i>.",
+   "example": {
+    "en": "One option on many websites is an <b>FAQ</b> page.",
+    "vi": "Nhiều trang web có trang <b>câu hỏi thường gặp</b>."
+   }
+  },
+  {
+   "word": "bookmark",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈbʊkmɑːk/",
+   "def_en": "To save the address of a website so you can find it again.",
+   "def_vi": "Lưu địa chỉ trang web để tìm lại.",
+   "gloss_vi": "đánh dấu trang",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bookmark</i> (verb) = đánh dấu trang. <b>Grammar</b>: cũng là danh từ.",
+   "example": {
+    "en": "You can <b>bookmark</b> websites that you log on to frequently.",
+    "vi": "Bạn có thể <b>đánh dấu</b> những trang web hay vào."
+   }
+  },
+  {
+   "word": "hit",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/hɪt/",
+   "def_en": "A visit to a website.",
+   "def_vi": "Một lượt truy cập trang web.",
+   "gloss_vi": "lượt truy cập",
+   "synonyms": "visit <i>(n. lượt ghé)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hit</i> (noun) = lượt truy cập. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "If a website gets a lot of <b>hits</b>, that means that it has been visited by a lot of people.",
+    "vi": "Nếu trang web có nhiều <b>lượt truy cập</b>, tức là nhiều người đã ghé."
+   }
+  },
+  {
+   "word": "subscribe to",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/səbˈskraɪb tə/",
+   "def_en": "To become a member of a website.",
+   "def_vi": "Trở thành thành viên trang web.",
+   "gloss_vi": "đăng ký (thành viên)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "unsubscribe <i>(v. hủy đăng ký)</i>",
+   "grammar_vi": "<i>Subscribe to</i> (phrasal verb) = đăng ký (thành viên). <b>Grammar</b>: <i>subscription</i> (n.).",
+   "example": {
+    "en": "Sometimes you need to <b>subscribe to</b> a site.",
+    "vi": "Đôi khi bạn cần <b>đăng ký</b> một trang web."
+   }
+  },
+  {
+   "word": "cloud",
+   "sense": "Internet",
+   "pos": "noun",
+   "ipa": "/klaʊd/",
+   "def_en": "A network of servers on the Internet where data can be stored.",
+   "def_vi": "Mạng máy chủ trên Internet lưu dữ liệu.",
+   "gloss_vi": "đám mây (lưu trữ)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cloud</i> (noun) = đám mây (lưu trữ). <b>Grammar</b>: <i>in the cloud</i>.",
+   "example": {
+    "en": "You can store it in the <b>cloud</b>.",
+    "vi": "Bạn có thể lưu dữ liệu trên <b>đám mây</b>."
+   }
+  },
+  {
+   "word": "attachment",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈtætʃmənt/",
+   "def_en": "A file sent with an email.",
+   "def_vi": "Tệp gửi kèm email.",
+   "gloss_vi": "tệp đính kèm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Attachment</i> (noun) = tệp đính kèm. <b>Grammar</b>: <i>attach</i> (v.).",
+   "example": {
+    "en": "With an email you can include an <b>attachment</b>.",
+    "vi": "Bạn có thể gửi kèm <b>tệp đính kèm</b> trong email."
+   }
+  },
+  {
+   "word": "server",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɜːvə(r)/",
+   "def_en": "A powerful central computer from which other computers get information.",
+   "def_vi": "Máy tính trung tâm mạnh mà máy khác lấy thông tin.",
+   "gloss_vi": "máy chủ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Server</i> (noun) = máy chủ. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "If your internet service provider’s <b>server</b> is down, you may not be able to send emails.",
+    "vi": "Nếu <b>máy chủ</b> của nhà cung cấp bị sập, bạn có thể không gửi được email."
+   }
+  },
+  {
+   "word": "down",
+   "sense": "computer",
+   "pos": "adjective",
+   "ipa": "/daʊn/",
+   "def_en": "(Of a computer system) not functioning.",
+   "def_vi": "(Hệ thống máy tính) không hoạt động.",
+   "gloss_vi": "bị sập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Down</i> (adjective) = bị sập. <b>Grammar</b>: <i>the system is down</i>.",
+   "example": {
+    "en": "If your ISP’s server is <b>down</b>, you may not be able to send emails.",
+    "vi": "Nếu máy chủ <b>bị sập</b>, bạn có thể không gửi được email."
+   }
+  },
+  {
+   "word": "contact list",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈkɒntækt lɪst/",
+   "def_en": "A list of people you communicate with online.",
+   "def_vi": "Danh sách người bạn liên lạc trực tuyến.",
+   "gloss_vi": "danh bạ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Contact list</i> (noun phrase) = danh bạ. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "You can see which people on your <b>contact list</b> are online at the same time.",
+    "vi": "Bạn thấy những người trong <b>danh bạ</b> đang trực tuyến."
+   }
+  },
+  {
+   "word": "interactive",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɪntərˈæktɪv/",
+   "def_en": "Allowing users to be involved in the exchange of information.",
+   "def_vi": "Cho phép người dùng tham gia trao đổi thông tin.",
+   "gloss_vi": "tương tác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Interactive</i> (adjective) = tương tác. <b>Grammar</b>: <i>interact</i> (v.).",
+   "example": {
+    "en": "Many modern online programs can be called <b>interactive</b>.",
+    "vi": "Nhiều chương trình trực tuyến có thể gọi là <b>tương tác</b>."
+   }
+  },
+  {
+   "word": "wiki",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɪki/",
+   "def_en": "A website which allows users to add, delete and edit its contents.",
+   "def_vi": "Trang web cho người dùng thêm, xóa, sửa nội dung.",
+   "gloss_vi": "trang wiki",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wiki</i> (noun) = trang wiki. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "A <b>wiki</b> is a website which allows users to add, delete and edit its contents.",
+    "vi": "<b>Wiki</b> là trang web cho phép người dùng sửa nội dung."
+   }
+  },
+  {
+   "word": "online gaming",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌɒnlaɪn ˈɡeɪmɪŋ/",
+   "def_en": "Playing computer games over the Internet.",
+   "def_vi": "Chơi trò chơi điện tử qua Internet.",
+   "gloss_vi": "trò chơi trực tuyến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Online gaming</i> (noun phrase) = trò chơi trực tuyến. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "Many people are involved in <b>online gaming</b>.",
+    "vi": "Nhiều người tham gia <b>trò chơi trực tuyến</b>."
+   }
+  },
+  {
+   "word": "virtual reality",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌvɜːtʃuəl riˈæləti/",
+   "def_en": "Images and sounds produced by a computer that represent a place.",
+   "def_vi": "Hình ảnh và âm thanh máy tính mô phỏng một nơi.",
+   "gloss_vi": "thực tế ảo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Virtual reality</i> (noun phrase) = thực tế ảo. <b>Grammar</b>: viết tắt <i>VR</i>.",
+   "example": {
+    "en": "Often these games make use of <b>virtual reality</b>.",
+    "vi": "Các trò chơi này thường dùng <b>thực tế ảo</b>."
+   }
+  }
+ ]
+}

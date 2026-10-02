@@ -1,0 +1,264 @@
+{
+ "book": "upp",
+ "unit": 36,
+ "title_vi": "Mạng xã hội",
+ "theory_html": "<p><b>A. Social media verbs</b><br><i>A. Động từ mạng xã hội</i></p> <p><b>post a video, share, update my status, send a friend request, subscribe to a channel, follow</b>. Many are nouns and verbs: <b>like (likes), comment</b>.</p><p><i><b>đăng, chia sẻ, cập nhật trạng thái, gửi lời mời kết bạn, đăng ký kênh, theo dõi, thích, bình luận</b>.</i></p> <p><b>B. A social media app</b><br><i>B. Ứng dụng mạng xã hội</i></p> <p><b>create a profile, upload a photo, post updates, share links, comment, rate videos, views, likes, notifications</b>.</p><p><i><b>tạo hồ sơ, tải ảnh lên, đăng cập nhật, chia sẻ liên kết, đánh giá, lượt xem, lượt thích, thông báo</b>.</i></p> <p><b>C. Online privacy</b><br><i>C. Quyền riêng tư trực tuyến</i></p> <p><b>create an account, private / public, privacy settings, profile picture, timeline, tagged / tag, direct messages, accounts, default</b>.</p><p><i><b>tạo tài khoản, riêng tư / công khai, cài đặt quyền riêng tư, ảnh đại diện, dòng thời gian, gắn thẻ, tin nhắn riêng, mặc định</b>.</i></p>",
+ "items": [
+  {
+   "word": "update your status",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ʌpˌdeɪt jə ˈsteɪtəs/",
+   "def_en": "To tell people what you are doing on social media.",
+   "def_vi": "Cho mọi người biết bạn đang làm gì trên mạng.",
+   "gloss_vi": "cập nhật trạng thái",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Update your status</i> (verb phrase) = cập nhật trạng thái. <b>Grammar</b>: <i>status update</i> (n.).",
+   "example": {
+    "en": "I probably <b>update my status</b> about twice a week.",
+    "vi": "Tôi <b>cập nhật trạng thái</b> khoảng hai lần một tuần."
+   }
+  },
+  {
+   "word": "friend request",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈfrend rɪˌkwest/",
+   "def_en": "An invitation to become someone’s friend on social media.",
+   "def_vi": "Lời mời kết bạn trên mạng xã hội.",
+   "gloss_vi": "lời mời kết bạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Friend request</i> (noun phrase) = lời mời kết bạn. <b>Grammar</b>: <i>send/accept a friend request</i>.",
+   "example": {
+    "en": "Send me a <b>friend request</b>, and then you can see the pictures I took.",
+    "vi": "Gửi tôi <b>lời mời kết bạn</b>, rồi bạn có thể xem ảnh tôi chụp."
+   }
+  },
+  {
+   "word": "follow",
+   "sense": "social media",
+   "pos": "verb",
+   "ipa": "/ˈfɒləʊ/",
+   "def_en": "To choose to see someone’s posts on social media.",
+   "def_vi": "Chọn xem bài đăng của ai trên mạng.",
+   "gloss_vi": "theo dõi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "unfollow <i>(v. bỏ theo dõi)</i>",
+   "grammar_vi": "<i>Follow</i> (verb) = theo dõi. <b>Grammar</b>: <i>follower</i> (n.).",
+   "example": {
+    "en": "Over 100,000 people subscribe to his video channel and <b>follow</b> him on Twitter.",
+    "vi": "Hơn 100.000 người <b>theo dõi</b> anh ấy trên Twitter."
+   }
+  },
+  {
+   "word": "like",
+   "sense": "social media",
+   "pos": "verb",
+   "ipa": "/laɪk/",
+   "def_en": "To click a button to show you enjoy a post.",
+   "def_vi": "Nhấn nút cho thấy bạn thích bài đăng.",
+   "gloss_vi": "thích (bài đăng)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Like</i> (verb) = thích (bài đăng). <b>Grammar</b>: cũng là danh từ: <i>my post got 24 likes</i>.",
+   "example": {
+    "en": "24 people <b>liked</b> my post.",
+    "vi": "24 người đã <b>thích</b> bài đăng của tôi."
+   }
+  },
+  {
+   "word": "comment",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈkɒment/",
+   "def_en": "To write a reaction to a post.",
+   "def_vi": "Viết phản hồi bài đăng.",
+   "gloss_vi": "bình luận",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Comment</i> (verb) = bình luận. <b>Grammar</b>: <i>comment on sth</i>; cũng là danh từ.",
+   "example": {
+    "en": "I <b>commented</b> on her status.",
+    "vi": "Tôi đã <b>bình luận</b> trạng thái của cô ấy."
+   }
+  },
+  {
+   "word": "profile",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈprəʊfaɪl/",
+   "def_en": "A description of yourself on social media.",
+   "def_vi": "Mô tả bản thân trên mạng xã hội.",
+   "gloss_vi": "hồ sơ cá nhân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Profile</i> (noun) = hồ sơ cá nhân. <b>Grammar</b>: <i>profile picture</i>.",
+   "example": {
+    "en": "You create a <b>profile</b> of your cat.",
+    "vi": "Bạn tạo <b>hồ sơ</b> cho con mèo của mình."
+   }
+  },
+  {
+   "word": "rate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/reɪt/",
+   "def_en": "To give something a score.",
+   "def_vi": "Cho điểm thứ gì.",
+   "gloss_vi": "đánh giá",
+   "synonyms": "score <i>(v. chấm điểm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rate</i> (verb) = đánh giá. <b>Grammar</b>: <i>rating</i> (n.).",
+   "example": {
+    "en": "You can <b>rate</b> videos of other cats’ adventures.",
+    "vi": "Bạn có thể <b>đánh giá</b> video về những chuyến phiêu lưu của mèo khác."
+   }
+  },
+  {
+   "word": "views",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/vjuːz/",
+   "def_en": "Times people have watched a video.",
+   "def_vi": "Số lần người ta xem video.",
+   "gloss_vi": "lượt xem",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Views</i> (plural noun) = lượt xem. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "You can see how many <b>views</b> or likes your post got.",
+    "vi": "Bạn có thể xem bài đăng có bao nhiêu <b>lượt xem</b>."
+   }
+  },
+  {
+   "word": "notification",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌnəʊtɪfɪˈkeɪʃn/",
+   "def_en": "A message to tell you when something has happened.",
+   "def_vi": "Tin báo khi có gì xảy ra.",
+   "gloss_vi": "thông báo",
+   "synonyms": "alert <i>(n. cảnh báo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Notification</i> (noun) = thông báo. <b>Grammar</b>: <i>notify</i> (v.).",
+   "example": {
+    "en": "You can’t turn off <b>notifications</b> when a friend writes something new.",
+    "vi": "Bạn không thể tắt <b>thông báo</b> khi bạn bè viết gì mới."
+   }
+  },
+  {
+   "word": "create an account",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/kriˌeɪt ən əˈkaʊnt/",
+   "def_en": "To register with a website or app.",
+   "def_vi": "Đăng ký với trang web hay ứng dụng.",
+   "gloss_vi": "tạo tài khoản",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "delete an account <i>(vp. xóa tài khoản)</i>",
+   "grammar_vi": "<i>Create an account</i> (verb phrase) = tạo tài khoản. <b>Grammar</b>: <i>account</i> (n.).",
+   "example": {
+    "en": "If you have to give personal information when you <b>create an account</b>, make sure that it’s kept private.",
+    "vi": "Khi <b>tạo tài khoản</b>, hãy giữ thông tin cá nhân riêng tư."
+   }
+  },
+  {
+   "word": "privacy settings",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈprɪvəsi ˌsetɪŋz/",
+   "def_en": "Choices on your account about what people see.",
+   "def_vi": "Lựa chọn về những gì người khác thấy.",
+   "gloss_vi": "cài đặt quyền riêng tư",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Privacy settings</i> (noun phrase) = cài đặt quyền riêng tư. <b>Grammar</b>: số nhiều.",
+   "example": {
+    "en": "Always check your <b>privacy settings</b> regularly.",
+    "vi": "Luôn kiểm tra <b>cài đặt quyền riêng tư</b> thường xuyên."
+   }
+  },
+  {
+   "word": "profile picture",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈprəʊfaɪl ˌpɪktʃə(r)/",
+   "def_en": "The photo that shows on your social media account.",
+   "def_vi": "Ảnh hiển thị trên tài khoản.",
+   "gloss_vi": "ảnh đại diện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Profile picture</i> (noun phrase) = ảnh đại diện. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Often your <b>profile picture</b> is public.",
+    "vi": "Thường <b>ảnh đại diện</b> của bạn là công khai."
+   }
+  },
+  {
+   "word": "public",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈpʌblɪk/",
+   "def_en": "Able to be seen by everyone.",
+   "def_vi": "Ai cũng xem được.",
+   "gloss_vi": "công khai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "private <i>(adj. riêng tư)</i>",
+   "grammar_vi": "<i>Public</i> (adjective) = công khai. <b>Grammar</b>: <i>make sth public</i>.",
+   "example": {
+    "en": "Often your profile picture is <b>public</b>.",
+    "vi": "Thường ảnh đại diện của bạn là <b>công khai</b>."
+   }
+  },
+  {
+   "word": "timeline",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtaɪmlaɪn/",
+   "def_en": "The collection of photos and posts on your profile.",
+   "def_vi": "Tập hợp ảnh và bài đăng trên hồ sơ.",
+   "gloss_vi": "dòng thời gian",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Timeline</i> (noun) = dòng thời gian. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "You can usually make posts on your <b>timeline</b> private.",
+    "vi": "Bạn có thể để bài đăng trên <b>dòng thời gian</b> ở chế độ riêng tư."
+   }
+  },
+  {
+   "word": "direct message",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/dəˌrekt ˈmesɪdʒ/",
+   "def_en": "A message that only the people in the conversation can see.",
+   "def_vi": "Tin nhắn chỉ người trong cuộc thấy.",
+   "gloss_vi": "tin nhắn riêng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Direct message</i> (noun phrase) = tin nhắn riêng. <b>Grammar</b>: viết tắt <i>DM</i>.",
+   "example": {
+    "en": "Use <b>direct messages</b> for private conversations.",
+    "vi": "Dùng <b>tin nhắn riêng</b> cho các cuộc trò chuyện riêng tư."
+   }
+  },
+  {
+   "word": "default",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dɪˈfɔːlt/",
+   "def_en": "What happens automatically if you don’t change it.",
+   "def_vi": "Tự động nếu bạn không đổi.",
+   "gloss_vi": "mặc định",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Default</i> (adjective) = mặc định. <b>Grammar</b>: cũng là danh từ: <i>by default</i>.",
+   "example": {
+    "en": "The <b>default</b> privacy settings might change.",
+    "vi": "Cài đặt quyền riêng tư <b>mặc định</b> có thể thay đổi."
+   }
+  }
+ ]
+}

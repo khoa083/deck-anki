@@ -1,0 +1,392 @@
+{
+ "book": "upp",
+ "unit": 37,
+ "title_vi": "Báo chí và truyền thông",
+ "theory_html": "<p><b>A. Radio and television</b><br><i>A. Phát thanh và truyền hình</i></p> <p><b>talk show, cartoons, game show, news and weather forecast, soap (opera), documentary (investigating), sitcom, current affairs, presenter, detective drama, episode</b>.</p><p><i><b>chương trình trò chuyện, phim hoạt hình, trò chơi truyền hình, phim dài tập, phim tài liệu, hài kịch tình huống, thời sự, người dẫn, phim trinh thám, tập</b>.</i></p> <p><b>B. Other expressions connected with TV and radio</b><br><i>B. Từ khác về TV và radio</i></p> <p><b>the (mass) media; means of communication; subtitles; dubbed; receive channels; satellite dish; (TV) commercials; stream broadcasts; catch-up TV, on demand; podcasts</b>. <b>means</b> always ends in <b>s</b>.</p><p><i><b>phương tiện truyền thông đại chúng, phụ đề, lồng tiếng, chảo vệ tinh, quảng cáo, xem lại, theo yêu cầu</b>.</i></p> <p><b>C. Newspapers</b><br><i>C. Báo</i></p> <p><b>popular / tabloid newspaper focuses on sensation; quality newspaper; scandals; journalism; in-depth articles; subscribe / pay a subscription</b>.</p><p><i><b>báo lá cải, tập trung vào, giật gân, báo chất lượng, bê bối, nghề báo, chuyên sâu, đăng ký</b>.</i></p> <p><b>D. Verbs connected with the media</b><br><i>D. Động từ</i></p> <p><b>broadcast, televise (show), shot / made on location, be set in, tweet</b>. <b>news</b> uncountable, singular verb.</p><p><i><b>phát sóng, truyền hình trực tiếp, quay ngoại cảnh, lấy bối cảnh, đăng tweet</b>.</i></p>",
+ "items": [
+  {
+   "word": "talk show",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈtɔːk ʃəʊ/",
+   "def_en": "A programme where a host asks famous people about themselves.",
+   "def_vi": "Chương trình người dẫn hỏi người nổi tiếng về bản thân.",
+   "gloss_vi": "chương trình trò chuyện",
+   "synonyms": "chat show <i>(np. talk show)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Talk show</i> (noun phrase) = chương trình trò chuyện. <b>Grammar</b>: Anh–Anh cũng <i>chat show</i>.",
+   "example": {
+    "en": "Jessica: <b>talk show</b> with Jessica Brown",
+    "vi": "Jessica: <b>chương trình trò chuyện</b> với Jessica Brown."
+   }
+  },
+  {
+   "word": "cartoon",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kɑːˈtuːn/",
+   "def_en": "A film where the characters are drawn rather than real.",
+   "def_vi": "Phim nhân vật được vẽ, không thật.",
+   "gloss_vi": "phim hoạt hình",
+   "synonyms": "animation <i>(n. hoạt hình)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cartoon</i> (noun) = phim hoạt hình. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "<b>Cartoons</b>: crazy fun for kids of all ages",
+    "vi": "<b>Phim hoạt hình</b>: niềm vui điên rồ cho trẻ mọi lứa tuổi."
+   }
+  },
+  {
+   "word": "game show",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈɡeɪm ʃəʊ/",
+   "def_en": "A show where people compete to win prizes.",
+   "def_vi": "Chương trình người ta thi để giành giải.",
+   "gloss_vi": "trò chơi truyền hình",
+   "synonyms": "quiz show <i>(np. chương trình đố vui)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Game show</i> (noun phrase) = trò chơi truyền hình. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Golden Chance: <b>game show</b> with Bob Langley",
+    "vi": "Golden Chance: <b>trò chơi truyền hình</b> với Bob Langley."
+   }
+  },
+  {
+   "word": "soap",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/səʊp/",
+   "def_en": "A soap opera: a long-running TV series about a group of characters.",
+   "def_vi": "Phim truyền hình dài tập về một nhóm nhân vật.",
+   "gloss_vi": "phim truyền hình dài tập",
+   "synonyms": "soap opera <i>(np. phim dài tập)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Soap</i> (noun) = phim truyền hình dài tập. <b>Grammar</b>: viết tắt <i>soap opera</i>.",
+   "example": {
+    "en": "Didbury Street: the nation’s favourite <b>soap</b>",
+    "vi": "Didbury Street: <b>phim dài tập</b> được yêu thích nhất cả nước."
+   }
+  },
+  {
+   "word": "investigate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪnˈvestɪɡeɪt/",
+   "def_en": "To try to find out the facts about something.",
+   "def_vi": "Cố tìm ra sự thật về điều gì.",
+   "gloss_vi": "điều tra",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Investigate</i> (verb) = điều tra. <b>Grammar</b>: <i>investigation</i> (n.).",
+   "example": {
+    "en": "Documentary: <b>Investigating</b> the junk food industry",
+    "vi": "Phim tài liệu: <b>điều tra</b> ngành thực phẩm rác."
+   }
+  },
+  {
+   "word": "sitcom",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɪtkɒm/",
+   "def_en": "A funny TV show where the same characters appear in a different story each week.",
+   "def_vi": "Chương trình hài, cùng nhân vật, mỗi tuần một chuyện.",
+   "gloss_vi": "hài kịch tình huống",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sitcom</i> (noun) = hài kịch tình huống. <b>Grammar</b>: viết tắt <i>situation comedy</i>.",
+   "example": {
+    "en": "The Happy Couple: <b>sitcom</b> about a pair of newly-weds",
+    "vi": "The Happy Couple: <b>hài kịch tình huống</b> về đôi vợ chồng mới cưới."
+   }
+  },
+  {
+   "word": "current affairs",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌkʌrənt əˈfeəz/",
+   "def_en": "News about political events happening now.",
+   "def_vi": "Tin về sự kiện chính trị hiện tại.",
+   "gloss_vi": "thời sự",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Current affairs</i> (noun phrase) = thời sự. <b>Grammar</b>: số nhiều.",
+   "example": {
+    "en": "The Day in Politics: <b>current affairs</b> programme",
+    "vi": "The Day in Politics: chương trình <b>thời sự</b>."
+   }
+  },
+  {
+   "word": "presenter",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/prɪˈzentə(r)/",
+   "def_en": "A person who introduces a show.",
+   "def_vi": "Người giới thiệu chương trình.",
+   "gloss_vi": "người dẫn chương trình",
+   "synonyms": "host <i>(n. người dẫn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Presenter</i> (noun) = người dẫn chương trình. <b>Grammar</b>: <i>present</i> (v.) /prɪˈzent/.",
+   "example": {
+    "en": "<b>Presenter</b>: James Hill",
+    "vi": "<b>Người dẫn chương trình</b>: James Hill."
+   }
+  },
+  {
+   "word": "episode",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈepɪsəʊd/",
+   "def_en": "One of the parts into which a story is divided.",
+   "def_vi": "Một phần của câu chuyện được chia.",
+   "gloss_vi": "tập (phim)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Episode</i> (noun) = tập (phim). <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "<b>Episode</b> 3: A second body is found",
+    "vi": "<b>Tập</b> 3: Một thi thể thứ hai được tìm thấy."
+   }
+  },
+  {
+   "word": "mass media",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌmæs ˈmiːdiə/",
+   "def_en": "TV, radio, newspapers and the Internet.",
+   "def_vi": "TV, radio, báo và Internet.",
+   "gloss_vi": "truyền thông đại chúng",
+   "synonyms": "the media <i>(np. truyền thông)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mass media</i> (noun phrase) = truyền thông đại chúng. <b>Grammar</b>: động từ số ít hay nhiều.",
+   "example": {
+    "en": "<b>The (mass) media</b> refers to TV, radio, newspapers and the Internet.",
+    "vi": "<b>Truyền thông đại chúng</b> gồm TV, radio, báo và Internet."
+   }
+  },
+  {
+   "word": "means",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/miːnz/",
+   "def_en": "A way of doing something.",
+   "def_vi": "Cách làm gì.",
+   "gloss_vi": "phương tiện, cách thức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Means</i> (noun) = phương tiện, cách thức. <b>Grammar</b>: luôn có <i>-s</i>, cả số ít.",
+   "example": {
+    "en": "The Internet is an important <b>means</b> of communication.",
+    "vi": "Internet là một <b>phương tiện</b> giao tiếp quan trọng."
+   }
+  },
+  {
+   "word": "subtitles",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈsʌbtaɪtlz/",
+   "def_en": "Words on the screen showing what characters are saying.",
+   "def_vi": "Chữ trên màn hình thể hiện lời nhân vật.",
+   "gloss_vi": "phụ đề",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Subtitles</i> (plural noun) = phụ đề. <b>Grammar</b>: số nhiều.",
+   "example": {
+    "en": "<b>Subtitles</b> enable people to read what the characters are saying.",
+    "vi": "<b>Phụ đề</b> giúp người xem đọc được lời nhân vật."
+   }
+  },
+  {
+   "word": "dubbed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dʌbd/",
+   "def_en": "(Of a film) with the speech changed into another language.",
+   "def_vi": "(Phim) được đổi lời sang ngôn ngữ khác.",
+   "gloss_vi": "được lồng tiếng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dubbed</i> (adjective) = được lồng tiếng. <b>Grammar</b>: <i>dub</i> (v.).",
+   "example": {
+    "en": "If a film is <b>dubbed</b>, you hear the speech in your own language.",
+    "vi": "Nếu phim được <b>lồng tiếng</b>, bạn nghe lời thoại bằng tiếng mình."
+   }
+  },
+  {
+   "word": "satellite dish",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈsætəlaɪt dɪʃ/",
+   "def_en": "A round object on a roof for receiving TV signals.",
+   "def_vi": "Vật tròn trên mái để thu tín hiệu TV.",
+   "gloss_vi": "chảo vệ tinh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Satellite dish</i> (noun phrase) = chảo vệ tinh. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "You may need a <b>satellite dish</b> on the roof or wall of your house.",
+    "vi": "Bạn có thể cần <b>chảo vệ tinh</b> trên mái nhà."
+   }
+  },
+  {
+   "word": "commercial",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəˈmɜːʃl/",
+   "def_en": "An advertisement on TV or radio.",
+   "def_vi": "Quảng cáo trên TV hay radio.",
+   "gloss_vi": "quảng cáo (truyền hình)",
+   "synonyms": "advert <i>(n. quảng cáo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Commercial</i> (noun) = quảng cáo (truyền hình). <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Many channels depend on (TV) <b>commercials</b> to make money.",
+    "vi": "Nhiều kênh dựa vào <b>quảng cáo</b> để kiếm tiền."
+   }
+  },
+  {
+   "word": "catch-up TV",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈkætʃ ʌp ˌtiː ˈviː/",
+   "def_en": "A service that lets you watch programmes after they are broadcast.",
+   "def_vi": "Dịch vụ xem lại chương trình sau khi phát.",
+   "gloss_vi": "truyền hình xem lại",
+   "synonyms": "on demand <i>(phr. theo yêu cầu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Catch-up TV</i> (noun phrase) = truyền hình xem lại. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "You may be able to watch <b>catch-up TV</b>, or TV on demand.",
+    "vi": "Bạn có thể xem <b>truyền hình xem lại</b> bất cứ lúc nào."
+   }
+  },
+  {
+   "word": "tabloid",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtæblɔɪd/",
+   "def_en": "A popular newspaper that focuses on sensation.",
+   "def_vi": "Báo phổ thông tập trung tin giật gân.",
+   "gloss_vi": "báo lá cải",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "quality newspaper <i>(np. báo chất lượng)</i>",
+   "grammar_vi": "<i>Tabloid</i> (noun) = báo lá cải. <b>Grammar</b>: cũng là tính từ.",
+   "example": {
+    "en": "A popular or <b>tabloid</b> newspaper usually focuses on sensation rather than real news.",
+    "vi": "Một tờ báo phổ thông hay <b>lá cải</b> thường tập trung vào tin giật gân."
+   }
+  },
+  {
+   "word": "sensation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/senˈseɪʃn/",
+   "def_en": "Very exciting or interesting events.",
+   "def_vi": "Sự kiện rất hấp dẫn, giật gân.",
+   "gloss_vi": "tin giật gân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sensation</i> (noun) = tin giật gân. <b>Grammar</b>: <i>sensational</i> (adj.).",
+   "example": {
+    "en": "A tabloid newspaper usually focuses on <b>sensation</b> rather than real news.",
+    "vi": "Báo lá cải thường tập trung vào <b>tin giật gân</b> hơn tin thật."
+   }
+  },
+  {
+   "word": "quality newspaper",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌkwɒləti ˈnjuːzpeɪpə(r)/",
+   "def_en": "A newspaper interested in serious news.",
+   "def_vi": "Báo quan tâm tin nghiêm túc.",
+   "gloss_vi": "báo chất lượng",
+   "synonyms": "broadsheet <i>(n. báo khổ lớn)</i>",
+   "antonyms": "tabloid <i>(n. báo lá cải)</i>",
+   "grammar_vi": "<i>Quality newspaper</i> (noun phrase) = báo chất lượng. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "A <b>quality newspaper</b> is usually more interested in serious news.",
+    "vi": "<b>Báo chất lượng</b> thường quan tâm tin nghiêm túc hơn."
+   }
+  },
+  {
+   "word": "scandal",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈskændl/",
+   "def_en": "An event which shocks people in a moral way.",
+   "def_vi": "Sự kiện gây sốc về đạo đức.",
+   "gloss_vi": "vụ bê bối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Scandal</i> (noun) = vụ bê bối. <b>Grammar</b>: <i>scandalous</i> (adj.).",
+   "example": {
+    "en": "A tabloid often has stories about celebrities, sport, <b>scandals</b> and crime.",
+    "vi": "Báo lá cải thường có tin về người nổi tiếng, thể thao, <b>bê bối</b> và tội phạm."
+   }
+  },
+  {
+   "word": "in-depth",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɪn ˈdepθ/",
+   "def_en": "Done carefully and in great detail.",
+   "def_vi": "Làm cẩn thận và rất chi tiết.",
+   "gloss_vi": "chuyên sâu",
+   "synonyms": "detailed <i>(adj. chi tiết)</i>",
+   "antonyms": "superficial <i>(adj. hời hợt)</i>",
+   "grammar_vi": "<i>In-depth</i> (adjective) = chuyên sâu. <b>Grammar</b>: có gạch nối trước danh từ.",
+   "example": {
+    "en": "A quality paper focuses more on serious journalism with <b>in-depth</b> articles.",
+    "vi": "Báo chất lượng tập trung vào báo chí nghiêm túc với các bài <b>chuyên sâu</b>."
+   }
+  },
+  {
+   "word": "subscription",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/səbˈskrɪpʃn/",
+   "def_en": "Money you pay regularly to receive a service.",
+   "def_vi": "Tiền trả đều đặn để nhận dịch vụ.",
+   "gloss_vi": "phí đăng ký",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Subscription</i> (noun) = phí đăng ký. <b>Grammar</b>: <i>subscribe</i> (v.).",
+   "example": {
+    "en": "To read newspapers on the Internet, you may have to pay a <b>subscription</b>.",
+    "vi": "Để đọc báo trên mạng, bạn có thể phải trả <b>phí đăng ký</b>."
+   }
+  },
+  {
+   "word": "televise",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈtelɪvaɪz/",
+   "def_en": "To show on television.",
+   "def_vi": "Chiếu trên truyền hình.",
+   "gloss_vi": "truyền hình",
+   "synonyms": "show <i>(v. chiếu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Televise</i> (verb) = truyền hình. <b>Grammar</b>: trang trọng hơn <i>show</i>.",
+   "example": {
+    "en": "They’re <b>televising</b> the opening of Parliament tomorrow.",
+    "vi": "Họ sẽ <b>truyền hình</b> lễ khai mạc Quốc hội ngày mai."
+   }
+  },
+  {
+   "word": "on location",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɒn ləʊˈkeɪʃn/",
+   "def_en": "Filmed in a real place, not in a studio.",
+   "def_vi": "Quay ở nơi thật, không phải trường quay.",
+   "gloss_vi": "quay ngoại cảnh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "in the studio <i>(phr. trong trường quay)</i>",
+   "grammar_vi": "<i>On location</i> (phrase) = quay ngoại cảnh. <b>Grammar</b>: <i>shoot on location</i>.",
+   "example": {
+    "en": "The film was shot / made <b>on location</b> in Australia.",
+    "vi": "Bộ phim được quay <b>ngoại cảnh</b> ở Úc."
+   }
+  }
+ ]
+}
