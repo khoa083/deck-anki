@@ -1,0 +1,520 @@
+{
+ "book": "adv",
+ "unit": 35,
+ "title_vi": "Nhà chức trách: hải quan và cảnh sát",
+ "theory_html": "<p><b>A. Entering a country</b><br><i>A. Nhập cảnh</i></p> <p><b>landing card, customs declaration form, vaccination certificate, entry regulations, facial recognition technology, spot checks, banned or restricted goods, allowance, sniffer/detector dogs, detect, clear customs, port of entry, refugees, claim asylum, persecution, asylum-seekers</b>.</p><p><i><b>thẻ nhập cảnh, tờ khai hải quan, giấy chứng nhận tiêm chủng, quy định nhập cảnh, nhận diện khuôn mặt, kiểm tra ngẫu nhiên, hàng cấm/hạn chế, mức cho phép, chó nghiệp vụ, phát hiện, làm thủ tục hải quan, cửa khẩu nhập cảnh, người tị nạn, xin tị nạn, sự ngược đãi, người xin tị nạn</b>.</i></p> <p><b>B. Policing the streets</b><br><i>B. Giữ trật tự đường phố</i></p> <p><b>enforce, stop and search, suspicion, search warrant, safety/speed cameras, exceed the speed limit, traffic wardens, parking tickets, surveillance, CCTV</b>.</p><p><i><b>thi hành, dừng và khám xét, nghi ngờ, lệnh khám xét, camera tốc độ, vượt tốc độ, nhân viên kiểm soát đỗ xe, vé phạt đỗ xe, giám sát, camera an ninh</b>.</i></p> <p><b>C. Other types of policing</b><br><i>C. Các hình thức cảnh sát khác</i></p> <p><b>security forces, plain-clothes police, undercover police, drug squad, anti-corruption squad, bribery/corruption, cybercrime, cyberterrorism, cyberwarfare, phishing</b>.</p><p><i><b>lực lượng an ninh, cảnh sát thường phục, cảnh sát chìm, đội chống ma túy, đội chống tham nhũng, hối lộ/tham nhũng, tội phạm mạng, khủng bố mạng, chiến tranh mạng, lừa đảo trực tuyến</b>.</i></p> <p><b>CM. Common mistakes</b><br><i>CM. Lỗi thường gặp</i></p> <p><b>Police</b> is a plural word: <b>The police are trying to combat crime.</b></p><p><i><b>Police</b> dùng động từ số nhiều.</i></p>",
+ "items": [
+  {
+   "word": "landing card",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlændɪŋ kɑːd/",
+   "def_en": "A form with your personal details and date of arrival.",
+   "def_vi": "Mẫu khai thông tin cá nhân và ngày đến.",
+   "gloss_vi": "thẻ nhập cảnh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Landing card</i> (noun) = thẻ nhập cảnh. <b>Collocations / chunks</b>: cụm danh từ cố định <i>landing card</i>.",
+   "example": {
+    "en": "You have to show your passport or national identity card, possibly a <b>landing card</b>.",
+    "vi": "Bạn có thể phải xuất trình <b>thẻ nhập cảnh</b>."
+   }
+  },
+  {
+   "word": "customs declaration form",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkʌstəmz deklərˌeɪʃn fɔːm/",
+   "def_en": "A form showing how much money and what goods you are carrying.",
+   "def_vi": "Mẫu khai tiền và hàng mang theo.",
+   "gloss_vi": "tờ khai hải quan",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Customs declaration form</i> (noun) = tờ khai hải quan. <b>Collocations / chunks</b>: cụm danh từ cố định <i>customs declaration form</i>.",
+   "example": {
+    "en": "and often a <b>customs declaration form</b>",
+    "vi": "Thường phải có <b>tờ khai hải quan</b>."
+   }
+  },
+  {
+   "word": "vaccination certificate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌvæksɪˈneɪʃn səˌtɪfɪkət/",
+   "def_en": "A paper proving you have had the necessary health injections.",
+   "def_vi": "Giấy chứng nhận đã tiêm phòng.",
+   "gloss_vi": "giấy chứng nhận tiêm chủng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Vaccination certificate</i> (noun) = giấy chứng nhận tiêm chủng. <b>Collocations / chunks</b>: cụm danh từ cố định <i>vaccination certificate</i>.",
+   "example": {
+    "en": "You may need a visa and a <b>vaccination certificate</b>.",
+    "vi": "Bạn có thể cần visa và <b>giấy chứng nhận tiêm chủng</b>."
+   }
+  },
+  {
+   "word": "entry regulations",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈentri ˌreɡjuleɪʃnz/",
+   "def_en": "Rules about who can enter a country and for how long.",
+   "def_vi": "Quy định ai được nhập cảnh và bao lâu.",
+   "gloss_vi": "quy định nhập cảnh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Entry regulations</i> (noun) = quy định nhập cảnh. <b>Collocations / chunks</b>: cụm danh từ cố định <i>entry regulations</i>.",
+   "example": {
+    "en": "depending on <b>entry regulations</b>",
+    "vi": "Tùy theo <b>quy định nhập cảnh</b>."
+   }
+  },
+  {
+   "word": "facial recognition technology",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌfeɪʃl ˌrekəɡˈnɪʃn tekˌnɒlədʒi/",
+   "def_en": "A computer application that can automatically identify a person from an image.",
+   "def_vi": "Ứng dụng tự nhận dạng người qua hình ảnh.",
+   "gloss_vi": "công nghệ nhận diện khuôn mặt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Facial recognition technology</i> (noun) = công nghệ nhận diện khuôn mặt. <b>Collocations / chunks</b>: cụm danh từ cố định <i>facial recognition technology</i>.",
+   "example": {
+    "en": "e-passport gates which make use of <b>facial recognition technology</b>",
+    "vi": "Cổng hộ chiếu điện tử dùng <b>công nghệ nhận diện khuôn mặt</b>."
+   }
+  },
+  {
+   "word": "spot check",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈspɒt tʃek/",
+   "def_en": "A check done on a sample rather than on everyone.",
+   "def_vi": "Kiểm tra mẫu thay vì kiểm tra hết.",
+   "gloss_vi": "kiểm tra ngẫu nhiên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spot check</i> (noun) = kiểm tra ngẫu nhiên. <b>Collocations / chunks</b>: cụm danh từ cố định <i>spot check</i>.",
+   "example": {
+    "en": "Customs officers carry out <b>spot checks</b> on people’s baggage.",
+    "vi": "Hải quan <b>kiểm tra ngẫu nhiên</b> hành lý."
+   }
+  },
+  {
+   "word": "restricted goods",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˌstrɪktɪd ˈɡʊdz/",
+   "def_en": "Items only permitted in specified quantities.",
+   "def_vi": "Hàng chỉ được phép với số lượng quy định.",
+   "gloss_vi": "hàng hạn chế",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Restricted goods</i> (noun) = hàng hạn chế. <b>Collocations / chunks</b>: <i>banned or restricted goods</i>.",
+   "example": {
+    "en": "to find banned or <b>restricted goods</b>",
+    "vi": "Tìm hàng cấm hay <b>hàng hạn chế</b>."
+   }
+  },
+  {
+   "word": "allowance",
+   "sense": "limit",
+   "pos": "noun",
+   "ipa": "/əˈlaʊəns/",
+   "def_en": "The amount permitted by law.",
+   "def_vi": "Lượng luật cho phép.",
+   "gloss_vi": "mức cho phép",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Allowance</i> (noun) = mức cho phép. <b>Common mistakes</b>: cũng = trợ cấp.",
+   "example": {
+    "en": "to check that you haven’t gone over your <b>allowance</b>",
+    "vi": "Kiểm tra bạn không vượt <b>mức cho phép</b>."
+   }
+  },
+  {
+   "word": "sniffer dog",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsnɪfə dɒɡ/",
+   "def_en": "A specially trained dog that finds items using its sense of smell.",
+   "def_vi": "Chó được huấn luyện tìm đồ bằng khứu giác.",
+   "gloss_vi": "chó nghiệp vụ",
+   "synonyms": "detector dog <i>(n. chó phát hiện)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sniffer dog</i> (noun) = chó nghiệp vụ. <b>Collocations / chunks</b>: cụm danh từ cố định <i>sniffer dog</i>.",
+   "example": {
+    "en": "They may use <b>sniffer</b>/detector dogs to detect drugs.",
+    "vi": "Họ có thể dùng <b>chó nghiệp vụ</b> để phát hiện ma túy."
+   }
+  },
+  {
+   "word": "detect",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪˈtekt/",
+   "def_en": "To find something hidden.",
+   "def_vi": "Tìm ra thứ bị giấu.",
+   "gloss_vi": "phát hiện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Detect</i> (verb) = phát hiện. <b>Grammar</b>: <i>detection</i> (n.).",
+   "example": {
+    "en": "to <b>detect</b> drugs, tobacco, cash or explosives",
+    "vi": "Dùng chó nghiệp vụ để <b>phát hiện</b> ma túy."
+   }
+  },
+  {
+   "word": "clear customs",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌklɪə ˈkʌstəmz/",
+   "def_en": "To successfully get through baggage checking.",
+   "def_vi": "Qua được kiểm tra hành lý.",
+   "gloss_vi": "làm xong thủ tục hải quan",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Clear customs</i> (verb) = làm xong thủ tục hải quan. <b>Grammar</b>: động từ nhiều từ <i>clear customs</i>.",
+   "example": {
+    "en": "You have to <b>clear customs</b> at the port of entry.",
+    "vi": "Bạn phải <b>làm thủ tục hải quan</b> ở cửa khẩu nhập cảnh."
+   }
+  },
+  {
+   "word": "port of entry",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpɔːt əv ˈentri/",
+   "def_en": "The port or airport where you first enter a country.",
+   "def_vi": "Cảng/sân bay nơi bạn vào nước đầu tiên.",
+   "gloss_vi": "cửa khẩu nhập cảnh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Port of entry</i> (noun) = cửa khẩu nhập cảnh. <b>Collocations / chunks</b>: cụm danh từ cố định <i>port of entry</i>.",
+   "example": {
+    "en": "at the <b>port of entry</b>",
+    "vi": "Làm thủ tục ở <b>cửa khẩu nhập cảnh</b>."
+   }
+  },
+  {
+   "word": "refugee",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌrefjuˈdʒiː/",
+   "def_en": "A person who has escaped from their own country for political reasons.",
+   "def_vi": "Người trốn khỏi nước vì lý do chính trị.",
+   "gloss_vi": "người tị nạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Refugee</i> (noun) = người tị nạn. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "Some passengers may wish to be recognised as <b>refugees</b>.",
+    "vi": "Một số muốn được công nhận là <b>người tị nạn</b>."
+   }
+  },
+  {
+   "word": "claim asylum",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkleɪm əˈsaɪləm/",
+   "def_en": "To request permission to stay in another country to avoid persecution.",
+   "def_vi": "Xin ở lại nước khác để tránh ngược đãi.",
+   "gloss_vi": "xin tị nạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Claim asylum</i> (verb) = xin tị nạn. <b>Grammar</b>: <i>asylum-seeker</i> (n.).",
+   "example": {
+    "en": "and <b>claim asylum</b>",
+    "vi": "Họ muốn <b>xin tị nạn</b>."
+   }
+  },
+  {
+   "word": "persecution",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpɜːsɪˈkjuːʃn/",
+   "def_en": "Cruel treatment because of race, religion or political beliefs.",
+   "def_vi": "Ngược đãi vì chủng tộc, tôn giáo, chính kiến.",
+   "gloss_vi": "sự ngược đãi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Persecution</i> (noun) = sự ngược đãi. <b>Grammar</b>: <i>persecute</i> (v.).",
+   "example": {
+    "en": "to avoid <b>persecution</b> back home",
+    "vi": "Để tránh <b>ngược đãi</b> ở quê nhà."
+   }
+  },
+  {
+   "word": "enforce",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪnˈfɔːs/",
+   "def_en": "To make people obey a law.",
+   "def_vi": "Bắt người tuân thủ luật.",
+   "gloss_vi": "thi hành",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Enforce</i> (verb) = thi hành. <b>Grammar</b>: <i>enforcement</i> (n.).",
+   "example": {
+    "en": "The police <b>enforce</b> the law.",
+    "vi": "Cảnh sát <b>thi hành</b> luật pháp."
+   }
+  },
+  {
+   "word": "stop and search",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌstɒp ən ˈsɜːtʃ/",
+   "def_en": "(Of police) to stop someone and search them.",
+   "def_vi": "(Cảnh sát) dừng và khám người.",
+   "gloss_vi": "dừng và khám xét",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stop and search</i> (verb) = dừng và khám xét. <b>Grammar</b>: động từ nhiều từ <i>stop and search</i>.",
+   "example": {
+    "en": "A police officer can <b>stop and search</b> you if there is a suspicion.",
+    "vi": "Cảnh sát có thể <b>dừng và khám xét</b> bạn nếu nghi ngờ."
+   }
+  },
+  {
+   "word": "suspicion",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/səˈspɪʃn/",
+   "def_en": "A belief that something may be the case.",
+   "def_vi": "Niềm tin rằng điều gì có thể đúng.",
+   "gloss_vi": "sự nghi ngờ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Suspicion</i> (noun) = sự nghi ngờ. <b>Grammar</b>: <i>suspect</i> (v.).",
+   "example": {
+    "en": "if there is a <b>suspicion</b> you are carrying drugs",
+    "vi": "Nếu có <b>nghi ngờ</b> bạn mang ma túy."
+   }
+  },
+  {
+   "word": "search warrant",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɜːtʃ ˌwɒrənt/",
+   "def_en": "Official permission from a judge to search a home.",
+   "def_vi": "Giấy phép chính thức khám xét nhà.",
+   "gloss_vi": "lệnh khám xét",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Search warrant</i> (noun) = lệnh khám xét. <b>Collocations / chunks</b>: cụm danh từ cố định <i>search warrant</i>.",
+   "example": {
+    "en": "The police cannot normally enter your home without a <b>search warrant</b>.",
+    "vi": "Cảnh sát không thể vào nhà bạn nếu không có <b>lệnh khám xét</b>."
+   }
+  },
+  {
+   "word": "speed camera",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈspiːd ˌkæmərə/",
+   "def_en": "A camera that checks how fast cars are going.",
+   "def_vi": "Camera đo tốc độ xe.",
+   "gloss_vi": "camera tốc độ",
+   "synonyms": "safety camera <i>(n. camera an toàn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Speed camera</i> (noun) = camera tốc độ. <b>Collocations / chunks</b>: cụm danh từ cố định <i>speed camera</i>.",
+   "example": {
+    "en": "Many roads have safety/<b>speed cameras</b>.",
+    "vi": "Nhiều đường có <b>camera tốc độ</b>."
+   }
+  },
+  {
+   "word": "exceed the speed limit",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪkˌsiːd ðə ˈspiːd ˌlɪmɪt/",
+   "def_en": "To go faster than the permitted speed.",
+   "def_vi": "Đi nhanh hơn tốc độ cho phép.",
+   "gloss_vi": "vượt quá tốc độ",
+   "synonyms": "speed <i>(v. chạy quá tốc độ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Exceed the speed limit</i> (verb) = vượt quá tốc độ. <b>Grammar</b>: động từ nhiều từ <i>exceed the speed limit</i>.",
+   "example": {
+    "en": "to ensure people aren’t <b>exceeding the speed limit</b>",
+    "vi": "Đảm bảo không ai <b>vượt quá tốc độ</b>."
+   }
+  },
+  {
+   "word": "traffic warden",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtræfɪk ˌwɔːdn/",
+   "def_en": "A person whose job is to make sure drivers do not park illegally.",
+   "def_vi": "Người kiểm soát việc đỗ xe trái phép.",
+   "gloss_vi": "nhân viên kiểm soát đỗ xe",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Traffic warden</i> (noun) = nhân viên kiểm soát đỗ xe. <b>Grammar</b>: Anh-Anh.",
+   "example": {
+    "en": "<b>Traffic wardens</b> issue parking tickets.",
+    "vi": "<b>Nhân viên kiểm soát đỗ xe</b> phát vé phạt."
+   }
+  },
+  {
+   "word": "parking ticket",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɑːkɪŋ ˌtɪkɪt/",
+   "def_en": "A notice of a fine for illegal parking.",
+   "def_vi": "Giấy phạt đỗ xe trái phép.",
+   "gloss_vi": "vé phạt đỗ xe",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Parking ticket</i> (noun) = vé phạt đỗ xe. <b>Collocations / chunks</b>: cụm danh từ cố định <i>parking ticket</i>.",
+   "example": {
+    "en": "Traffic wardens issue <b>parking tickets</b>, with fines for illegal parking.",
+    "vi": "Nhân viên phát <b>vé phạt đỗ xe</b>."
+   }
+  },
+  {
+   "word": "surveillance",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/səˈveɪləns/",
+   "def_en": "Watching people or places carefully.",
+   "def_vi": "Theo dõi kỹ người, nơi chốn.",
+   "gloss_vi": "sự giám sát",
+   "synonyms": "monitoring <i>(n. theo dõi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Surveillance</i> (noun) = sự giám sát. <b>Grammar</b>: /səˈveɪləns/.",
+   "example": {
+    "en": "The police also use <b>surveillance</b> techniques, including CCTV.",
+    "vi": "Cảnh sát dùng kỹ thuật <b>giám sát</b> như CCTV."
+   }
+  },
+  {
+   "word": "CCTV",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsiː siː tiː ˈviː/",
+   "def_en": "Closed-circuit television; a system sending signals to a limited number of screens.",
+   "def_vi": "Hệ thống camera quan sát nội bộ.",
+   "gloss_vi": "camera giám sát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>CCTV</i> (noun) = camera giám sát. <b>Grammar</b>: viết tắt <i>closed-circuit television</i>.",
+   "example": {
+    "en": "including <b>CCTV</b> (closed-circuit television) to monitor public areas",
+    "vi": "<b>Camera giám sát</b> theo dõi trung tâm thị trấn."
+   }
+  },
+  {
+   "word": "security forces",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/sɪˈkjʊərəti ˌfɔːsɪz/",
+   "def_en": "The army and police working together.",
+   "def_vi": "Quân đội và cảnh sát phối hợp.",
+   "gloss_vi": "lực lượng an ninh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Security forces</i> (noun) = lực lượng an ninh. <b>Collocations / chunks</b>: cụm danh từ cố định <i>security forces</i>.",
+   "example": {
+    "en": "<b>security forces</b>: often a name for the army and police working together",
+    "vi": "<b>Lực lượng an ninh</b> thường là quân đội và cảnh sát."
+   }
+  },
+  {
+   "word": "plain-clothes police",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpleɪn kləʊðz pəˈliːs/",
+   "def_en": "Police who do not wear uniform.",
+   "def_vi": "Cảnh sát không mặc đồng phục.",
+   "gloss_vi": "cảnh sát thường phục",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Plain-clothes police</i> (noun) = cảnh sát thường phục. <b>Collocations / chunks</b>: cụm danh từ cố định <i>plain-clothes police</i>.",
+   "example": {
+    "en": "<b>plain-clothes police</b>: police who do not wear uniform",
+    "vi": "<b>Cảnh sát thường phục</b> không mặc đồng phục."
+   }
+  },
+  {
+   "word": "undercover police",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌʌndəkʌvə pəˈliːs/",
+   "def_en": "Police working secretly, using a false identity.",
+   "def_vi": "Cảnh sát làm việc bí mật, danh tính giả.",
+   "gloss_vi": "cảnh sát chìm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Undercover police</i> (noun) = cảnh sát chìm. <b>Collocations / chunks</b>: cụm danh từ cố định <i>undercover police</i>.",
+   "example": {
+    "en": "<b>undercover police</b>: police who are working secretly, using a false identity",
+    "vi": "<b>Cảnh sát chìm</b> làm việc bí mật với danh tính giả."
+   }
+  },
+  {
+   "word": "drug squad",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdrʌɡ skwɒd/",
+   "def_en": "Police specially trained to fight the illegal drug trade.",
+   "def_vi": "Cảnh sát chuyên chống buôn ma túy.",
+   "gloss_vi": "đội phòng chống ma túy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Drug squad</i> (noun) = đội phòng chống ma túy. <b>Collocations / chunks</b>: cụm danh từ cố định <i>drug squad</i>.",
+   "example": {
+    "en": "<b>drug squad</b>: police specially trained to fight the illegal drug trade",
+    "vi": "<b>Đội phòng chống ma túy</b> được huấn luyện đặc biệt."
+   }
+  },
+  {
+   "word": "bribery",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbraɪbəri/",
+   "def_en": "Dishonest behaviour using money illegally to gain favours.",
+   "def_vi": "Dùng tiền trái phép để được ưu ái.",
+   "gloss_vi": "hối lộ",
+   "synonyms": "corruption <i>(n. tham nhũng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bribery</i> (noun) = hối lộ. <b>Grammar</b>: <i>bribe</i> (n./v.).",
+   "example": {
+    "en": "police specially trained to discover and fight <b>bribery</b>/corruption",
+    "vi": "Đội chống tham nhũng chống <b>hối lộ</b>."
+   }
+  },
+  {
+   "word": "cybercrime",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsaɪbəkraɪm/",
+   "def_en": "Computer crime.",
+   "def_vi": "Tội phạm máy tính.",
+   "gloss_vi": "tội phạm mạng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cybercrime</i> (noun) = tội phạm mạng. <b>Grammar</b>: tiền tố <i>cyber-</i>.",
+   "example": {
+    "en": "<b>cybercrime</b>: computer crime",
+    "vi": "<b>Tội phạm mạng</b> có nhiều loại."
+   }
+  },
+  {
+   "word": "phishing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfɪʃɪŋ/",
+   "def_en": "Tricking people on the internet to give up personal information, especially bank details.",
+   "def_vi": "Lừa người trên mạng lấy thông tin cá nhân.",
+   "gloss_vi": "lừa đảo trực tuyến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Phishing</i> (noun) = lừa đảo trực tuyến. <b>Grammar</b>: /ˈfɪʃɪŋ/.",
+   "example": {
+    "en": "<b>phishing</b> = tricking people on the internet to give up personal information",
+    "vi": "<b>Lừa đảo trực tuyến</b> nhằm lấy thông tin ngân hàng."
+   }
+  }
+ ]
+}
