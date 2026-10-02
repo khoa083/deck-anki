@@ -1,0 +1,541 @@
+{
+ "book": "gva",
+ "unit": 33,
+ "title_vi": "Sức khỏe",
+ "theory_html": "<p><b>V1. spread: transitive and intransitive</b><br><i>V1. spread: ngoại động và nội động</i></p> <p>As a verb, <b>spread</b> is both transitive (<b>Mosquitoes spread diseases like malaria.</b>) and intransitive (<b>Spots can spread across the entire body.</b>).</p><p><i><b>spread</b> vừa ngoại động vừa nội động.</i></p> <p><b>V2. Prefix mis-</b><br><i>V2. Tiền tố mis-</i></p> <p><b>mis-</b> adds the meaning 'bad' or 'wrong': <b>misfortune, misconduct, misdiagnosis, misinformation, mismanagement, misrepresentation</b>.</p><p><i><b>mis-</b> = sai, xấu.</i></p>",
+ "items": [
+  {
+   "word": "dementia",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈmenʃə/",
+   "def_en": "A serious illness of the mind, especially in old people, causing memory loss.",
+   "def_vi": "Chứng sa sút trí tuệ.",
+   "gloss_vi": "sa sút trí tuệ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dementia</i> (noun) = sa sút trí tuệ. <b>Grammar</b>: danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Dementia</b> is a growing problem.",
+    "vi": "<b>Sa sút trí tuệ</b> là vấn đề ngày càng lớn."
+   }
+  },
+  {
+   "word": "obesity",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əʊˈbiːsəti/",
+   "def_en": "The condition of being extremely fat.",
+   "def_vi": "Bệnh béo phì.",
+   "gloss_vi": "béo phì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Obesity</i> (noun) = béo phì. <b>Word family</b>: obese (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Obesity</b> is a health problem in many countries.",
+    "vi": "<b>Béo phì</b> là vấn đề sức khỏe ở nhiều nước."
+   }
+  },
+  {
+   "word": "malnutrition",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmælnjuːˈtrɪʃn/",
+   "def_en": "Poor health caused by not eating enough of the right food.",
+   "def_vi": "Suy dinh dưỡng.",
+   "gloss_vi": "suy dinh dưỡng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Malnutrition</i> (noun) = suy dinh dưỡng. <b>Note</b>: khác <i>starvation</i> (chết đói, không có thức ăn).",
+   "example": {
+    "en": "Around 11 million children under five die from <b>malnutrition</b> and preventable diseases each year.",
+    "vi": "Khoảng 11 triệu trẻ dưới năm tuổi chết vì <b>suy dinh dưỡng</b> mỗi năm."
+   }
+  },
+  {
+   "word": "waterborne disease",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɔːtəbɔːn dɪˌziːz/",
+   "def_en": "A disease spread through water.",
+   "def_vi": "Bệnh lây qua nước.",
+   "gloss_vi": "bệnh lây qua nước",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Waterborne disease</i> (noun) = bệnh lây qua nước. <b>Collocations / chunks</b>: cụm danh từ cố định <i>waterborne disease</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Waterborne diseases</b> are a problem in many countries.",
+    "vi": "<b>Bệnh lây qua nước</b> là vấn đề ở nhiều nước."
+   }
+  },
+  {
+   "word": "infectious",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪnˈfekʃəs/",
+   "def_en": "(of a disease) Able to be passed on, especially through air or water.",
+   "def_vi": "Truyền nhiễm.",
+   "gloss_vi": "truyền nhiễm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Infectious</i> (adjective) = truyền nhiễm. <b>Note</b>: <i>contagious</i> = lây qua tiếp xúc; W: infection (n.), infect (v.).",
+   "example": {
+    "en": "In 2002, almost 11 million people died from <b>infectious</b> diseases alone",
+    "vi": "Năm 2002, gần 11 triệu người chết vì bệnh <b>truyền nhiễm</b>."
+   }
+  },
+  {
+   "word": "access to healthcare",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈækses tə ˈhelθkeə(r)/",
+   "def_en": "The ability to get medical services.",
+   "def_vi": "Khả năng tiếp cận y tế.",
+   "gloss_vi": "tiếp cận y tế",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Access to healthcare</i> (noun) = tiếp cận y tế. <b>Collocations / chunks</b>: cụm danh từ cố định <i>access to healthcare</i>.",
+   "example": {
+    "en": "One billion people lack <b>access to healthcare</b> systems.",
+    "vi": "Một tỷ người thiếu <b>tiếp cận</b> hệ thống <b>y tế</b>."
+   }
+  },
+  {
+   "word": "cardiovascular",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌkɑːdiəʊˈvæskjələ(r)/",
+   "def_en": "Related to the heart and blood vessels.",
+   "def_vi": "Tim mạch.",
+   "gloss_vi": "tim mạch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cardiovascular</i> (adjective) = tim mạch. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "<b>Cardiovascular</b> diseases (CVDs) are the biggest killer amongst diseases globally.",
+    "vi": "Bệnh <b>tim mạch</b> là kẻ giết người lớn nhất toàn cầu."
+   }
+  },
+  {
+   "word": "catastrophe",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəˈtæstrəfi/",
+   "def_en": "A sudden event causing great suffering.",
+   "def_vi": "Thảm họa.",
+   "gloss_vi": "thảm họa",
+   "synonyms": "disaster <i>(n. thảm họa)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Catastrophe</i> (noun) = thảm họa. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "far more than the number killed in the natural or man-made <b>catastrophes</b> that make headlines",
+    "vi": "Nhiều hơn số người chết trong các <b>thảm họa</b> tự nhiên hay nhân tạo."
+   }
+  },
+  {
+   "word": "vaccine-preventable",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌvæksiːn prɪˈventəbl/",
+   "def_en": "Able to be prevented by a vaccine.",
+   "def_vi": "Có thể phòng bằng vắc-xin.",
+   "gloss_vi": "phòng được bằng vắc-xin",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Vaccine-preventable</i> (adjective) = phòng được bằng vắc-xin. <b>Word family</b>: prevent (v.), preventable (adj.).",
+   "example": {
+    "en": "the number one <b>vaccine-preventable</b> cause of death worldwide",
+    "vi": "Nguyên nhân tử vong <b>phòng được bằng vắc-xin</b> số một thế giới."
+   }
+  },
+  {
+   "word": "acute",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əˈkjuːt/",
+   "def_en": "(of an illness) Severe and starting suddenly.",
+   "def_vi": "Cấp tính.",
+   "gloss_vi": "cấp tính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "chronic <i>(adj. mãn tính)</i>",
+   "grammar_vi": "<i>Acute</i> (adjective) = cấp tính. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "Malaria causes more than 300 million <b>acute</b> illnesses",
+    "vi": "Sốt rét gây hơn 300 triệu ca bệnh <b>cấp tính</b> mỗi năm."
+   }
+  },
+  {
+   "word": "preventable",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/prɪˈventəbl/",
+   "def_en": "Possible to stop from happening.",
+   "def_vi": "Có thể phòng ngừa.",
+   "gloss_vi": "phòng ngừa được",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Preventable</i> (adjective) = phòng ngừa được. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "die from malnutrition and <b>preventable</b> diseases each year",
+    "vi": "Trẻ em chết vì suy dinh dưỡng và bệnh <b>có thể phòng ngừa</b>."
+   }
+  },
+  {
+   "word": "immunisation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɪmjunaɪˈzeɪʃn/",
+   "def_en": "Protecting someone from a disease, usually with a vaccine.",
+   "def_vi": "Sự tiêm chủng.",
+   "gloss_vi": "tiêm chủng",
+   "synonyms": "vaccination <i>(n. tiêm phòng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Immunisation</i> (noun) = tiêm chủng. <b>Word family</b>: immunise (v.), immune (adj.), immunity (n.).",
+   "example": {
+    "en": "even though effective <b>immunisation</b> costs just 0.30 US dollars per person",
+    "vi": "Dù <b>tiêm chủng</b> hiệu quả chỉ tốn 0,30 đô la mỗi người."
+   }
+  },
+  {
+   "word": "epidemic",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌepɪˈdemɪk/",
+   "def_en": "A disease affecting many people in one area at the same time.",
+   "def_vi": "Dịch bệnh.",
+   "gloss_vi": "dịch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Epidemic</i> (noun) = dịch. <b>Note</b>: <i>pandemic</i> = dịch lan khắp thế giới.",
+   "ex_kit": true,
+   "example": {
+    "en": "Influenza can become an <b>epidemic</b> in a community.",
+    "vi": "Cúm có thể thành <b>dịch</b> trong cộng đồng."
+   }
+  },
+  {
+   "word": "transmit",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/trænzˈmɪt/",
+   "def_en": "To pass a disease from one person to another.",
+   "def_vi": "Lây truyền.",
+   "gloss_vi": "lây truyền",
+   "synonyms": "spread <i>(v. lây lan)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Transmit</i> (verb) = lây truyền. <b>Note</b>: <i>contract</i> = mắc bệnh.",
+   "ex_kit": true,
+   "example": {
+    "en": "Mosquitoes <b>transmit</b> malaria.",
+    "vi": "Muỗi <b>truyền</b> bệnh sốt rét."
+   }
+  },
+  {
+   "word": "spread",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/spred/",
+   "def_en": "To pass a disease to other people or places; to cover a larger area.",
+   "def_vi": "Lây lan.",
+   "gloss_vi": "lây lan",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spread</i> (verb) = lây lan. <b>Grammar</b>: ngoại động & nội động: <i>Spots can spread across the entire body.</i>.",
+   "example": {
+    "en": "Mosquitoes <b>spread</b> diseases like malaria.",
+    "vi": "Muỗi <b>lây lan</b> các bệnh như sốt rét."
+   }
+  },
+  {
+   "word": "misfortune",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmɪsˈfɔːtʃuːn/",
+   "def_en": "Bad luck.",
+   "def_vi": "Điều không may.",
+   "gloss_vi": "không may",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Misfortune</i> (noun) = không may. <b>Word family</b>: <i>mis-</i> = xấu, sai.",
+   "example": {
+    "en": "he had the <b>misfortune</b> to fall over and break his leg",
+    "vi": "Anh ấy <b>không may</b> ngã gãy chân."
+   }
+  },
+  {
+   "word": "misconduct",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmɪsˈkɒndʌkt/",
+   "def_en": "Bad or unacceptable behaviour by a professional.",
+   "def_vi": "Hành vi sai trái.",
+   "gloss_vi": "hành vi sai phạm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Misconduct</i> (noun) = hành vi sai phạm. <b>Collocations / chunks</b>: professional ~.",
+   "example": {
+    "en": "The psychiatrist was found guilty of professional <b>misconduct</b>.",
+    "vi": "Bác sĩ tâm thần bị kết tội <b>sai phạm</b> nghề nghiệp."
+   }
+  },
+  {
+   "word": "misdiagnosis",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmɪsdaɪəɡˈnəʊsɪs/",
+   "def_en": "A wrong judgement about what illness someone has.",
+   "def_vi": "Chẩn đoán sai.",
+   "gloss_vi": "chẩn đoán sai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Misdiagnosis</i> (noun) = chẩn đoán sai. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "The doctor's <b>misdiagnosis</b> meant that the patient nearly died.",
+    "vi": "<b>Chẩn đoán sai</b> của bác sĩ suýt khiến bệnh nhân tử vong."
+   }
+  },
+  {
+   "word": "mismanagement",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmɪsˈmænɪdʒmənt/",
+   "def_en": "Bad or wrong management.",
+   "def_vi": "Quản lý yếu kém.",
+   "gloss_vi": "quản lý yếu kém",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mismanagement</i> (noun) = quản lý yếu kém. <b>Collocations / chunks</b>: gross ~.",
+   "example": {
+    "en": "The director is being accused of gross <b>mismanagement</b> of the hospital.",
+    "vi": "Giám đốc bị cáo buộc <b>quản lý</b> bệnh viện <b>cực kỳ yếu kém</b>."
+   }
+  },
+  {
+   "word": "misinformation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmɪsɪnfəˈmeɪʃn/",
+   "def_en": "Wrong information.",
+   "def_vi": "Thông tin sai lệch.",
+   "gloss_vi": "thông tin sai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Misinformation</i> (noun) = thông tin sai. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "The drug company's advertising campaign was based on <b>misinformation</b> and has now been banned.",
+    "vi": "Chiến dịch quảng cáo dựa trên <b>thông tin sai lệch</b> và đã bị cấm."
+   }
+  },
+  {
+   "word": "misrepresentation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmɪsˌreprɪzenˈteɪʃn/",
+   "def_en": "A false description of something.",
+   "def_vi": "Sự xuyên tạc.",
+   "gloss_vi": "xuyên tạc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Misrepresentation</i> (noun) = xuyên tạc. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "The documentary on poor hospital hygiene was a <b>misrepresentation</b> of the truth.",
+    "vi": "Phim tài liệu là sự <b>xuyên tạc</b> sự thật."
+   }
+  },
+  {
+   "word": "re-hydrate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌriː haɪˈdreɪt/",
+   "def_en": "To put water back into your body.",
+   "def_vi": "Bù nước.",
+   "gloss_vi": "bù nước",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "dehydrate <i>(v. mất nước)</i>",
+   "grammar_vi": "<i>Re-hydrate</i> (verb) = bù nước. <b>Word family</b>: hydration (n.).",
+   "example": {
+    "en": "Drink more water to <b>re-hydrate</b> and detoxify your body.",
+    "vi": "Uống nhiều nước để <b>bù nước</b> và giải độc cơ thể."
+   }
+  },
+  {
+   "word": "detoxify",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/diːˈtɒksɪfaɪ/",
+   "def_en": "To remove poisonous substances from your body.",
+   "def_vi": "Giải độc.",
+   "gloss_vi": "giải độc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Detoxify</i> (verb) = giải độc. <b>Grammar</b>: động từ.",
+   "example": {
+    "en": "Drink more water to re-hydrate and <b>detoxify</b> your body.",
+    "vi": "Uống nhiều nước để bù nước và <b>giải độc</b> cơ thể."
+   }
+  },
+  {
+   "word": "appetite suppressant",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈæpɪtaɪt səˌpresənt/",
+   "def_en": "Something which prevents hunger.",
+   "def_vi": "Chất ức chế cơn thèm ăn.",
+   "gloss_vi": "giảm cảm giác thèm ăn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Appetite suppressant</i> (noun) = giảm cảm giác thèm ăn. <b>Collocations / chunks</b>: cụm danh từ cố định <i>appetite suppressant</i>.",
+   "example": {
+    "en": "as well as being a natural <b>appetite suppressant</b>",
+    "vi": "Nước là <b>chất ức chế thèm ăn</b> tự nhiên."
+   }
+  },
+  {
+   "word": "metabolise",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/məˈtæbəlaɪz/",
+   "def_en": "To change food into energy in the body.",
+   "def_vi": "Chuyển hóa.",
+   "gloss_vi": "chuyển hóa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Metabolise</i> (verb) = chuyển hóa. <b>Word family</b>: metabolism (n.), metabolic (adj.).",
+   "example": {
+    "en": "To <b>metabolise</b> food, the body needs water.",
+    "vi": "Để <b>chuyển hóa</b> thức ăn, cơ thể cần nước."
+   }
+  },
+  {
+   "word": "energy intake",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈenədʒi ˌɪnteɪk/",
+   "def_en": "The overall amount of energy consumed.",
+   "def_vi": "Lượng năng lượng nạp vào.",
+   "gloss_vi": "năng lượng nạp vào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Energy intake</i> (noun) = năng lượng nạp vào. <b>Collocations / chunks</b>: cụm danh từ cố định <i>energy intake</i>.",
+   "example": {
+    "en": "water promotes the lowering of an individual's total <b>energy intake</b>",
+    "vi": "Nước giúp giảm tổng <b>năng lượng nạp vào</b>."
+   }
+  },
+  {
+   "word": "be on a diet",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/bi ɒn ə ˈdaɪət/",
+   "def_en": "To change eating habits to reduce body fat.",
+   "def_vi": "Ăn kiêng.",
+   "gloss_vi": "ăn kiêng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be on a diet</i> (verb) = ăn kiêng. <b>Grammar</b>: động từ nhiều từ <i>be on a diet</i>.",
+   "example": {
+    "en": "Most people who <b>are on a diet</b> do not drink enough water.",
+    "vi": "Hầu hết người <b>ăn kiêng</b> không uống đủ nước."
+   }
+  },
+  {
+   "word": "fluid",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfluːɪd/",
+   "def_en": "A liquid substance.",
+   "def_vi": "Chất lỏng.",
+   "gloss_vi": "chất lỏng",
+   "synonyms": "liquid <i>(n. chất lỏng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fluid</i> (noun) = chất lỏng. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "For every gram of carbohydrate, the body requires three grams of <b>fluid</b>.",
+    "vi": "Mỗi gam carbohydrate cơ thể cần ba gam <b>chất lỏng</b>."
+   }
+  },
+  {
+   "word": "prone to",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈprəʊn tə/",
+   "def_en": "Likely to have a particular problem.",
+   "def_vi": "Dễ bị.",
+   "gloss_vi": "dễ bị",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Prone to</i> (adjective) = dễ bị. <b>Grammar</b>: + danh từ / V-ing.",
+   "example": {
+    "en": "You're more <b>prone to</b> illness when you're tired or run down.",
+    "vi": "Bạn <b>dễ</b> ốm <b>hơn</b> khi mệt mỏi."
+   }
+  },
+  {
+   "word": "dehydrated",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌdiːhaɪˈdreɪtɪd/",
+   "def_en": "Having insufficient water in your body.",
+   "def_vi": "Mất nước.",
+   "gloss_vi": "mất nước",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dehydrated</i> (adjective) = mất nước. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "If you are <b>dehydrated</b>, your body will slow down its calorie-burning processes.",
+    "vi": "Nếu <b>mất nước</b>, cơ thể làm chậm quá trình đốt calo."
+   }
+  },
+  {
+   "word": "vital for",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈvaɪtl fə(r)/",
+   "def_en": "Extremely important for.",
+   "def_vi": "Thiết yếu cho.",
+   "gloss_vi": "thiết yếu cho",
+   "synonyms": "essential for <i>(adj. thiết yếu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Vital for</i> (adjective) = thiết yếu cho. <b>Collocations / chunks</b>: cụm tính từ cố định <i>vital for</i>.",
+   "example": {
+    "en": "Regular meals are <b>vital for</b> healthy living",
+    "vi": "Bữa ăn đều đặn <b>thiết yếu cho</b> lối sống lành mạnh."
+   }
+  },
+  {
+   "word": "play a role in",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/pleɪ ə ˈrəʊl ɪn/",
+   "def_en": "To have an effect on or be involved in something.",
+   "def_vi": "Đóng vai trò trong.",
+   "gloss_vi": "đóng vai trò",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Play a role in</i> (verb) = đóng vai trò. <b>Grammar</b>: động từ nhiều từ <i>play a role in</i>.",
+   "example": {
+    "en": "Exercise <b>plays an important role in</b> keeping fit.",
+    "vi": "Tập thể dục <b>đóng vai trò</b> quan trọng <b>trong</b> việc giữ dáng."
+   }
+  },
+  {
+   "word": "critical to",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈkrɪtɪkl tə/",
+   "def_en": "Extremely important for.",
+   "def_vi": "Cực kỳ quan trọng với.",
+   "gloss_vi": "then chốt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Critical to</i> (adjective) = then chốt. <b>Collocations / chunks</b>: cụm tính từ cố định <i>critical to</i>.",
+   "example": {
+    "en": "the public health infrastructure, its growth and its development are <b>critical to</b> our collective health",
+    "vi": "Cơ sở hạ tầng y tế công <b>then chốt với</b> sức khỏe chung."
+   }
+  }
+ ]
+}
