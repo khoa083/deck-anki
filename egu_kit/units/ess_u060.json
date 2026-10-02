@@ -1,0 +1,419 @@
+{
+ "book": "ess",
+ "unit": 60,
+ "title_en": "my/his/their etc.",
+ "title_vi": "my/his/their v.v. (tính từ sở hữu)",
+ "theory_html": "<p style=\"text-align: justify;\"><b>A. my / our / your / his / her / their / its</b></p>\n\n<table border=\"1\" style=\"border-collapse: collapse; border-color: black; padding: 8px; margin: 6px 0;\">\n  <thead>\n    <tr><th style=\"padding: 8px;\"></th><th style=\"padding: 8px;\">possessive<br><i>sở hữu</i></th><th style=\"padding: 8px;\">example<br><i>ví dụ</i></th></tr>\n  </thead>\n  <tbody>\n    <tr><td style=\"padding: 8px;\">I →</td><td style=\"padding: 8px;\"><b>my</b></td><td style=\"padding: 8px;\"><b>I</b> like <b>my</b> house.</td></tr>\n    <tr><td style=\"padding: 8px;\">we →</td><td style=\"padding: 8px;\"><b>our</b></td><td style=\"padding: 8px;\"><b>We</b> like <b>our</b> house.</td></tr>\n    <tr><td style=\"padding: 8px;\">you →</td><td style=\"padding: 8px;\"><b>your</b></td><td style=\"padding: 8px;\"><b>You</b> like <b>your</b> house.</td></tr>\n    <tr><td style=\"padding: 8px;\">he →</td><td style=\"padding: 8px;\"><b>his</b></td><td style=\"padding: 8px;\"><b>He</b> likes <b>his</b> house.</td></tr>\n    <tr><td style=\"padding: 8px;\">she →</td><td style=\"padding: 8px;\"><b>her</b></td><td style=\"padding: 8px;\"><b>She</b> likes <b>her</b> house.</td></tr>\n    <tr><td style=\"padding: 8px;\">they →</td><td style=\"padding: 8px;\"><b>their</b></td><td style=\"padding: 8px;\"><b>They</b> like <b>their</b> house.</td></tr>\n    <tr><td style=\"padding: 8px;\">it →</td><td style=\"padding: 8px;\"><b>its</b></td><td style=\"padding: 8px;\">Oxford (= <b>it</b>) is famous for <b>its</b> university.</td></tr>\n  </tbody>\n</table>\n\n<p style=\"text-align: justify;\">We use <b>my / your / his</b> etc. + noun: <b>my hands</b>, <b>his</b> new <b>car</b>, <b>her parents</b>, <b>our clothes</b>, <b>your</b> best <b>friend</b>, <b>their room</b></p>\n<p style=\"text-align: justify;\"><i>Dùng <b>my / your / his</b> v.v. + danh từ: <b>my hands</b> (tay tôi), <b>his</b> new <b>car</b> (xe mới của anh ấy), <b>her parents</b> (bố mẹ cô ấy), <b>our clothes</b> (quần áo của chúng tôi), <b>your</b> best <b>friend</b> (bạn thân của bạn), <b>their room</b> (phòng của họ)</i></p>\n\n<p style=\"text-align: justify;\"><b>B. his / her / their</b></p>\n\n<ul>\n  <li>\n    <p style=\"text-align: justify;\">Andy: <b>his</b> bike, <b>his</b> sister, <b>his</b> parents.</p>\n    <p style=\"text-align: justify;\"><i>Andy: xe đạp <b>của anh ấy</b>, chị gái <b>anh ấy</b>, bố mẹ <b>anh ấy</b>.</i></p>\n  </li>\n  <li>\n    <p style=\"text-align: justify;\">Amy: <b>her</b> car (= Amy’s car), <b>her</b> husband (= Amy’s husband), <b>her</b> children (= Amy’s children).</p>\n    <p style=\"text-align: justify;\"><i>Amy: xe <b>của cô ấy</b> (= xe của Amy), chồng <b>cô ấy</b>, các con <b>cô ấy</b>.</i></p>\n  </li>\n  <li>\n    <p style=\"text-align: justify;\">Mr and Mrs Lee: <b>their</b> son, <b>their</b> daughter, <b>their</b> children.</p>\n    <p style=\"text-align: justify;\"><i>Ông bà Lee: con trai <b>của họ</b>, con gái <b>của họ</b>, các con <b>của họ</b>.</i></p>\n  </li>\n</ul>\n\n<p style=\"text-align: justify;\"><b>C. its and it’s</b></p>\n<p style=\"text-align: justify;\"><i>C. its và it’s</i></p>\n\n<ul>\n  <li>\n    <p style=\"text-align: justify;\"><b>its</b>: Oxford is famous for <b>its</b> university.</p>\n    <p style=\"text-align: justify;\"><i><b>its</b> (của nó): Oxford nổi tiếng nhờ trường đại học <b>của nó</b>.</i></p>\n  </li>\n  <li>\n    <p style=\"text-align: justify;\"><b>it’s</b> (= it <b>is</b>): I like Oxford. <b>It’s</b> a nice place. (= It <b>is</b> a nice place.)</p>\n    <p style=\"text-align: justify;\"><i><b>it’s</b> (= it <b>is</b>): Tôi thích Oxford. <b>Đó là</b> một nơi đẹp.</i></p>\n  </li>\n</ul>",
+ "mcq": [
+  {
+   "question": "I’m going to wash ___ hands.",
+   "a": "my",
+   "b": "me",
+   "c": "mine",
+   "full": "I’m going to wash <b>my</b> hands.",
+   "vi": "<i>Tôi định rửa tay <b>mình</b>.</i>",
+   "expl": "Possessive + noun: I → my, we → our, you → your, he → his, she → her, they → their, it → its.<br><i>Tính từ sở hữu + danh từ: I → my, we → our, you → your, he → his, she → her, they → their, it → its.</i><br><b>Điểm ngữ pháp</b>: I → my.",
+   "key": "I’m going to wash ___ hands.|my"
+  },
+  {
+   "question": "She’s going to wash ___ hands.",
+   "a": "her",
+   "b": "his",
+   "c": "she",
+   "full": "She’s going to wash <b>her</b> hands.",
+   "vi": "<i>Cô ấy định rửa tay <b>mình</b>.</i>",
+   "expl": "Possessive + noun: I → my, we → our, you → your, he → his, she → her, they → their, it → its.<br><i>Tính từ sở hữu + danh từ: I → my, we → our, you → your, he → his, she → her, they → their, it → its.</i><br><b>Điểm ngữ pháp</b>: she → her.",
+   "key": "She’s going to wash ___ hands.|her"
+  },
+  {
+   "question": "We’re going to wash ___ hands.",
+   "a": "our",
+   "b": "us",
+   "c": "ours",
+   "full": "We’re going to wash <b>our</b> hands.",
+   "vi": "<i>Chúng tôi định rửa tay <b>mình</b>.</i>",
+   "expl": "Possessive + noun: I → my, we → our, you → your, he → his, she → her, they → their, it → its.<br><i>Tính từ sở hữu + danh từ: I → my, we → our, you → your, he → his, she → her, they → their, it → its.</i><br><b>Điểm ngữ pháp</b>: we → our.",
+   "key": "We’re going to wash ___ hands.|our"
+  },
+  {
+   "question": "He’s going to wash ___ hands.",
+   "a": "his",
+   "b": "him",
+   "c": "her",
+   "full": "He’s going to wash <b>his</b> hands.",
+   "vi": "<i>Anh ấy định rửa tay <b>mình</b>.</i>",
+   "expl": "Possessive + noun: I → my, we → our, you → your, he → his, she → her, they → their, it → its.<br><i>Tính từ sở hữu + danh từ: I → my, we → our, you → your, he → his, she → her, they → their, it → its.</i><br><b>Điểm ngữ pháp</b>: he → his.",
+   "key": "He’s going to wash ___ hands.|his"
+  },
+  {
+   "question": "They’re going to wash ___ hands.",
+   "a": "their",
+   "b": "them",
+   "c": "there",
+   "full": "They’re going to wash <b>their</b> hands.",
+   "vi": "<i>Họ định rửa tay <b>mình</b>.</i>",
+   "expl": "Possessive + noun: I → my, we → our, you → your, he → his, she → her, they → their, it → its.<br><i>Tính từ sở hữu + danh từ: I → my, we → our, you → your, he → his, she → her, they → their, it → its.</i><br><b>Điểm ngữ pháp</b>: they → their.",
+   "key": "They’re going to wash ___ hands.|their"
+  },
+  {
+   "question": "Are you going to wash ___ hands?",
+   "a": "your",
+   "b": "you",
+   "c": "yours",
+   "full": "Are you going to wash <b>your</b> hands?",
+   "vi": "<i>Bạn định rửa tay <b>mình</b> à?</i>",
+   "expl": "Possessive + noun: I → my, we → our, you → your, he → his, she → her, they → their, it → its.<br><i>Tính từ sở hữu + danh từ: I → my, we → our, you → your, he → his, she → her, they → their, it → its.</i><br><b>Điểm ngữ pháp</b>: you → your.",
+   "key": "Are you going to wash ___ hands?|your"
+  },
+  {
+   "question": "He lives with ___ parents.",
+   "a": "his",
+   "b": "him",
+   "c": "he",
+   "full": "He lives with <b>his</b> parents.",
+   "vi": "<i>Anh ấy sống với bố mẹ <b>mình</b>.</i>",
+   "expl": "Possessive + noun: I → my, we → our, you → your, he → his, she → her, they → their, it → its.<br><i>Tính từ sở hữu + danh từ: I → my, we → our, you → your, he → his, she → her, they → their, it → its.</i><br><b>Điểm ngữ pháp</b>: he → his.",
+   "key": "He lives with ___ parents.|his"
+  },
+  {
+   "question": "They live with ___ parents.",
+   "a": "their",
+   "b": "them",
+   "c": "there",
+   "full": "They live with <b>their</b> parents.",
+   "vi": "<i>Họ sống với bố mẹ <b>mình</b>.</i>",
+   "expl": "Possessive + noun: I → my, we → our, you → your, he → his, she → her, they → their, it → its.<br><i>Tính từ sở hữu + danh từ: I → my, we → our, you → your, he → his, she → her, they → their, it → its.</i><br><b>Điểm ngữ pháp</b>: they → their.",
+   "key": "They live with ___ parents.|their"
+  },
+  {
+   "question": "We live with ___ parents.",
+   "a": "our",
+   "b": "us",
+   "c": "ours",
+   "full": "We live with <b>our</b> parents.",
+   "vi": "<i>Chúng tôi sống với bố mẹ <b>mình</b>.</i>",
+   "expl": "Possessive + noun: I → my, we → our, you → your, he → his, she → her, they → their, it → its.<br><i>Tính từ sở hữu + danh từ: I → my, we → our, you → your, he → his, she → her, they → their, it → its.</i><br><b>Điểm ngữ pháp</b>: we → our.",
+   "key": "We live with ___ parents.|our"
+  },
+  {
+   "question": "Martina lives with ___ parents.",
+   "a": "her",
+   "b": "his",
+   "c": "she",
+   "full": "Martina lives with <b>her</b> parents.",
+   "vi": "<i>Martina sống với bố mẹ <b>mình</b>.</i>",
+   "expl": "Possessive + noun: I → my, we → our, you → your, he → his, she → her, they → their, it → its.<br><i>Tính từ sở hữu + danh từ: I → my, we → our, you → your, he → his, she → her, they → their, it → its.</i><br><b>Điểm ngữ pháp</b>: Martina (nữ) → her.",
+   "key": "Martina lives with ___ parents.|her"
+  },
+  {
+   "question": "Do you live with ___ parents?",
+   "a": "your",
+   "b": "you",
+   "c": "yours",
+   "full": "Do you live with <b>your</b> parents?",
+   "vi": "<i>Bạn có sống với bố mẹ <b>mình</b> không?</i>",
+   "expl": "Possessive + noun: I → my, we → our, you → your, he → his, she → her, they → their, it → its.<br><i>Tính từ sở hữu + danh từ: I → my, we → our, you → your, he → his, she → her, they → their, it → its.</i><br><b>Điểm ngữ pháp</b>: you → your.",
+   "key": "Do you live with ___ parents?|your"
+  },
+  {
+   "question": "Most children live with ___ parents.",
+   "a": "their",
+   "b": "them",
+   "c": "its",
+   "full": "Most children live with <b>their</b> parents.",
+   "vi": "<i>Hầu hết trẻ em sống với bố mẹ <b>mình</b>.</i>",
+   "expl": "Possessive + noun: I → my, we → our, you → your, he → his, she → her, they → their, it → its.<br><i>Tính từ sở hữu + danh từ: I → my, we → our, you → your, he → his, she → her, they → their, it → its.</i><br><b>Điểm ngữ pháp</b>: children → their.",
+   "key": "Most children live with ___ parents.|their"
+  },
+  {
+   "question": "Do you like ___ job?",
+   "a": "your",
+   "b": "you",
+   "c": "yours",
+   "full": "Do you like <b>your</b> job?",
+   "vi": "<i>Bạn có thích công việc <b>của mình</b> không?</i>",
+   "expl": "Possessive + noun: I → my, we → our, you → your, he → his, she → her, they → their, it → its.<br><i>Tính từ sở hữu + danh từ: I → my, we → our, you → your, he → his, she → her, they → their, it → its.</i><br><b>Điểm ngữ pháp</b>: your + danh từ.",
+   "key": "Do you like ___ job?|your"
+  },
+  {
+   "question": "We’re going to have a party. We’re going to invite all ___ friends.",
+   "a": "our",
+   "b": "us",
+   "c": "ours",
+   "full": "We’re going to have a party. We’re going to invite all <b>our</b> friends.",
+   "vi": "<i>Chúng tôi sắp tổ chức tiệc. Chúng tôi sẽ mời tất cả bạn bè <b>của mình</b>.</i>",
+   "expl": "Possessive + noun: I → my, we → our, you → your, he → his, she → her, they → their, it → its.<br><i>Tính từ sở hữu + danh từ: I → my, we → our, you → your, he → his, she → her, they → their, it → its.</i><br><b>Điểm ngữ pháp</b>: we → our.",
+   "key": "We’re going to have a party. We’re going to invite all ___ friends.|our"
+  },
+  {
+   "question": "I like tennis. It’s ___ favourite sport.",
+   "a": "my",
+   "b": "mine",
+   "c": "me",
+   "full": "I like tennis. It’s <b>my</b> favourite sport.",
+   "vi": "<i>Tôi thích quần vợt. Đó là môn thể thao tôi <b>thích nhất</b>.</i>",
+   "expl": "Possessive + noun: I → my, we → our, you → your, he → his, she → her, they → their, it → its.<br><i>Tính từ sở hữu + danh từ: I → my, we → our, you → your, he → his, she → her, they → their, it → its.</i><br><b>Điểm ngữ pháp</b>: my + favourite sport.",
+   "key": "I like tennis. It’s ___ favourite sport.|my"
+  },
+  {
+   "question": "‘Is that ___ car?’ ‘No, I don’t have a car.’",
+   "a": "your",
+   "b": "yours",
+   "c": "you",
+   "full": "‘Is that <b>your</b> car?’ ‘No, I don’t have a car.’",
+   "vi": "<i>‘Đó là xe <b>của bạn</b> à?’ ‘Không, tôi không có xe.’</i>",
+   "expl": "Possessive + noun: I → my, we → our, you → your, he → his, she → her, they → their, it → its.<br><i>Tính từ sở hữu + danh từ: I → my, we → our, you → your, he → his, she → her, they → their, it → its.</i><br><b>Điểm ngữ pháp</b>: your + car.",
+   "key": "‘Is that ___ car?’ ‘No, I don’t have a car.’|your"
+  },
+  {
+   "question": "Do you think most people are happy in ___ jobs?",
+   "a": "their",
+   "b": "them",
+   "c": "there",
+   "full": "Do you think most people are happy in <b>their</b> jobs?",
+   "vi": "<i>Bạn có nghĩ hầu hết mọi người hài lòng với công việc <b>của họ</b> không?</i>",
+   "expl": "Possessive + noun: I → my, we → our, you → your, he → his, she → her, they → their, it → its.<br><i>Tính từ sở hữu + danh từ: I → my, we → our, you → your, he → his, she → her, they → their, it → its.</i><br><b>Điểm ngữ pháp</b>: people → their.",
+   "key": "Do you think most people are happy in ___ jobs?|their"
+  },
+  {
+   "question": "I’m going to wash ___ hair before I go out.",
+   "a": "my",
+   "b": "mine",
+   "c": "me",
+   "full": "I’m going to wash <b>my</b> hair before I go out.",
+   "vi": "<i>Tôi định <b>gội đầu</b> trước khi ra ngoài.</i>",
+   "expl": "Possessive + noun: I → my, we → our, you → your, he → his, she → her, they → their, it → its.<br><i>Tính từ sở hữu + danh từ: I → my, we → our, you → your, he → his, she → her, they → their, it → its.</i><br><b>Điểm ngữ pháp</b>: I → my hair.",
+   "key": "I’m going to wash ___ hair before I go out.|my"
+  },
+  {
+   "question": "I can’t get in. I don’t have ___ key.",
+   "a": "my",
+   "b": "mine",
+   "c": "me",
+   "full": "I can’t get in. I don’t have <b>my</b> key.",
+   "vi": "<i>Tôi không vào được. Tôi không có <b>chìa khóa</b>.</i>",
+   "expl": "Possessive + noun: I → my, we → our, you → your, he → his, she → her, they → their, it → its.<br><i>Tính từ sở hữu + danh từ: I → my, we → our, you → your, he → his, she → her, they → their, it → its.</i><br><b>Điểm ngữ pháp</b>: my key.",
+   "key": "I can’t get in. I don’t have ___ key.|my"
+  },
+  {
+   "question": "Please take off ___ coat and sit down.",
+   "a": "your",
+   "b": "yours",
+   "c": "you",
+   "full": "Please take off <b>your</b> coat and sit down.",
+   "vi": "<i>Mời bạn cởi <b>áo khoác</b> và ngồi xuống.</i>",
+   "expl": "Possessive + noun: I → my, we → our, you → your, he → his, she → her, they → their, it → its.<br><i>Tính từ sở hữu + danh từ: I → my, we → our, you → your, he → his, she → her, they → their, it → its.</i><br><b>Điểm ngữ pháp</b>: your coat.",
+   "key": "Please take off ___ coat and sit down.|your"
+  },
+  {
+   "question": "‘What are the children doing?’ ‘They’re doing ___ homework.’",
+   "a": "their",
+   "b": "them",
+   "c": "theirs",
+   "full": "‘What are the children doing?’ ‘They’re doing <b>their</b> homework.’",
+   "vi": "<i>‘Bọn trẻ đang làm gì?’ ‘Chúng đang làm <b>bài tập về nhà</b>.’</i>",
+   "expl": "Possessive + noun: I → my, we → our, you → your, he → his, she → her, they → their, it → its.<br><i>Tính từ sở hữu + danh từ: I → my, we → our, you → your, he → his, she → her, they → their, it → its.</i><br><b>Điểm ngữ pháp</b>: their homework.",
+   "key": "‘What are the children doing?’ ‘They’re doing ___ homework.’|their"
+  },
+  {
+   "question": "We live in Barton Street. ___ house is at the end on the left.",
+   "a": "Our",
+   "b": "Ours",
+   "c": "Us",
+   "full": "We live in Barton Street. <b>Our</b> house is at the end on the left.",
+   "vi": "<i>Chúng tôi sống ở phố Barton. <b>Nhà chúng tôi</b> ở cuối phố bên trái.</i>",
+   "expl": "Possessive + noun: I → my, we → our, you → your, he → his, she → her, they → their, it → its.<br><i>Tính từ sở hữu + danh từ: I → my, we → our, you → your, he → his, she → her, they → their, it → its.</i><br><b>Điểm ngữ pháp</b>: Our house.",
+   "key": "We live in Barton Street. ___ house is at the end on the left.|Our"
+  },
+  {
+   "question": "I saw Sarah with ___ husband, Philip.",
+   "a": "her",
+   "b": "his",
+   "c": "their",
+   "full": "I saw Sarah with <b>her</b> husband, Philip.",
+   "vi": "<i>Tôi thấy Sarah đi với <b>chồng cô ấy</b>, Philip.</i>",
+   "expl": "his = of a man; her = of a woman; their = of two or more people.<br><i>his = của nam; her = của nữ; their = của hai người trở lên.</i><br><b>Điểm ngữ pháp</b>: Sarah (nữ) → her.",
+   "key": "I saw Sarah with ___ husband, Philip.|her"
+  },
+  {
+   "question": "I saw Laura and Steve with ___ children.",
+   "a": "their",
+   "b": "his",
+   "c": "her",
+   "full": "I saw Laura and Steve with <b>their</b> children.",
+   "vi": "<i>Tôi thấy Laura và Steve đi với <b>các con của họ</b>.</i>",
+   "expl": "his = of a man; her = of a woman; their = of two or more people.<br><i>his = của nam; her = của nữ; their = của hai người trở lên.</i><br><b>Điểm ngữ pháp</b>: Hai người → their.",
+   "key": "I saw Laura and Steve with ___ children.|their"
+  },
+  {
+   "question": "I saw Steve with ___ wife, Laura.",
+   "a": "his",
+   "b": "her",
+   "c": "their",
+   "full": "I saw Steve with <b>his</b> wife, Laura.",
+   "vi": "<i>Tôi thấy Steve đi với <b>vợ anh ấy</b>, Laura.</i>",
+   "expl": "his = of a man; her = of a woman; their = of two or more people.<br><i>his = của nam; her = của nữ; their = của hai người trở lên.</i><br><b>Điểm ngữ pháp</b>: Steve (nam) → his.",
+   "key": "I saw Steve with ___ wife, Laura.|his"
+  },
+  {
+   "question": "I saw Ben with ___ brother, Will.",
+   "a": "his",
+   "b": "her",
+   "c": "their",
+   "full": "I saw Ben with <b>his</b> brother, Will.",
+   "vi": "<i>Tôi thấy Ben đi với <b>anh trai mình</b>, Will.</i>",
+   "expl": "his = of a man; her = of a woman; their = of two or more people.<br><i>his = của nam; her = của nữ; their = của hai người trở lên.</i><br><b>Điểm ngữ pháp</b>: Ben → his.",
+   "key": "I saw Ben with ___ brother, Will.|his"
+  },
+  {
+   "question": "I saw Laura with ___ brother, Will.",
+   "a": "her",
+   "b": "his",
+   "c": "their",
+   "full": "I saw Laura with <b>her</b> brother, Will.",
+   "vi": "<i>Tôi thấy Laura đi với <b>anh trai cô ấy</b>, Will.</i>",
+   "expl": "his = of a man; her = of a woman; their = of two or more people.<br><i>his = của nam; her = của nữ; their = của hai người trở lên.</i><br><b>Điểm ngữ pháp</b>: Laura → her.",
+   "key": "I saw Laura with ___ brother, Will.|her"
+  },
+  {
+   "question": "I saw Sarah and Philip with ___ son, Will.",
+   "a": "their",
+   "b": "his",
+   "c": "her",
+   "full": "I saw Sarah and Philip with <b>their</b> son, Will.",
+   "vi": "<i>Tôi thấy Sarah và Philip đi với <b>con trai họ</b>, Will.</i>",
+   "expl": "his = of a man; her = of a woman; their = of two or more people.<br><i>his = của nam; her = của nữ; their = của hai người trở lên.</i><br><b>Điểm ngữ pháp</b>: Hai người → their.",
+   "key": "I saw Sarah and Philip with ___ son, Will.|their"
+  },
+  {
+   "question": "I saw Laura with ___ parents.",
+   "a": "her",
+   "b": "his",
+   "c": "their",
+   "full": "I saw Laura with <b>her</b> parents.",
+   "vi": "<i>Tôi thấy Laura đi với <b>bố mẹ cô ấy</b>.</i>",
+   "expl": "his = of a man; her = of a woman; their = of two or more people.<br><i>his = của nam; her = của nữ; their = của hai người trở lên.</i><br><b>Điểm ngữ pháp</b>: Laura → her.",
+   "key": "I saw Laura with ___ parents.|her"
+  },
+  {
+   "question": "I saw Beth and Robert with ___ parents.",
+   "a": "their",
+   "b": "his",
+   "c": "her",
+   "full": "I saw Beth and Robert with <b>their</b> parents.",
+   "vi": "<i>Tôi thấy Beth và Robert đi với <b>bố mẹ họ</b>.</i>",
+   "expl": "his = of a man; her = of a woman; their = of two or more people.<br><i>his = của nam; her = của nữ; their = của hai người trở lên.</i><br><b>Điểm ngữ pháp</b>: Hai người → their.",
+   "key": "I saw Beth and Robert with ___ parents.|their"
+  },
+  {
+   "question": "I know Mr Watson, but I don’t know ___ wife.",
+   "a": "his",
+   "b": "her",
+   "c": "their",
+   "full": "I know Mr Watson, but I don’t know <b>his</b> wife.",
+   "vi": "<i>Tôi quen ông Watson, nhưng không quen <b>vợ ông ấy</b>.</i>",
+   "expl": "his = of a man; her = of a woman; their = of two or more people.<br><i>his = của nam; her = của nữ; their = của hai người trở lên.</i><br><b>Điểm ngữ pháp</b>: Mr Watson → his.",
+   "key": "I know Mr Watson, but I don’t know ___ wife.|his"
+  },
+  {
+   "question": "Alice and Tom live in London. ___ son lives in Australia.",
+   "a": "Their",
+   "b": "His",
+   "c": "Her",
+   "full": "Alice and Tom live in London. <b>Their</b> son lives in Australia.",
+   "vi": "<i>Alice và Tom sống ở London. <b>Con trai họ</b> sống ở Úc.</i>",
+   "expl": "his = of a man; her = of a woman; their = of two or more people.<br><i>his = của nam; her = của nữ; their = của hai người trở lên.</i><br><b>Điểm ngữ pháp</b>: Hai người → Their.",
+   "key": "Alice and Tom live in London. ___ son lives in Australia.|Their"
+  },
+  {
+   "question": "Anna is going out with ___ friends this evening.",
+   "a": "her",
+   "b": "his",
+   "c": "their",
+   "full": "Anna is going out with <b>her</b> friends this evening.",
+   "vi": "<i>Tối nay Anna đi chơi với <b>bạn bè cô ấy</b>.</i>",
+   "expl": "his = of a man; her = of a woman; their = of two or more people.<br><i>his = của nam; her = của nữ; their = của hai người trở lên.</i><br><b>Điểm ngữ pháp</b>: Anna → her.",
+   "key": "Anna is going out with ___ friends this evening.|her"
+  },
+  {
+   "question": "I want to contact Maria. Do you know ___ number?",
+   "a": "her",
+   "b": "his",
+   "c": "hers",
+   "full": "I want to contact Maria. Do you know <b>her</b> number?",
+   "vi": "<i>Tôi muốn liên lạc với Maria. Bạn có biết <b>số điện thoại của cô ấy</b> không?</i>",
+   "expl": "his = of a man; her = of a woman; their = of two or more people.<br><i>his = của nam; her = của nữ; their = của hai người trở lên.</i><br><b>Điểm ngữ pháp</b>: Maria → her.",
+   "key": "I want to contact Maria. Do you know ___ number?|her"
+  },
+  {
+   "question": "John has a brother and a sister. ___ brother is 25.",
+   "a": "His",
+   "b": "Her",
+   "c": "Their",
+   "full": "John has a brother and a sister. <b>His</b> brother is 25.",
+   "vi": "<i>John có một anh trai và một chị gái. <b>Anh trai anh ấy</b> 25 tuổi.</i>",
+   "expl": "his = of a man; her = of a woman; their = of two or more people.<br><i>his = của nam; her = của nữ; their = của hai người trở lên.</i><br><b>Điểm ngữ pháp</b>: John → His.",
+   "key": "John has a brother and a sister. ___ brother is 25.|His"
+  },
+  {
+   "question": "James doesn’t enjoy ___ job. It’s not very interesting.",
+   "a": "his",
+   "b": "her",
+   "c": "its",
+   "full": "James doesn’t enjoy <b>his</b> job. It’s not very interesting.",
+   "vi": "<i>James không thích <b>công việc của mình</b>. Nó không thú vị lắm.</i>",
+   "expl": "his = of a man; her = of a woman; their = of two or more people.<br><i>his = của nam; her = của nữ; their = của hai người trở lên.</i><br><b>Điểm ngữ pháp</b>: James → his.",
+   "key": "James doesn’t enjoy ___ job. It’s not very interesting.|his"
+  },
+  {
+   "question": "Sally is married. ___ husband works in a bank.",
+   "a": "Her",
+   "b": "His",
+   "c": "She",
+   "full": "Sally is married. <b>Her</b> husband works in a bank.",
+   "vi": "<i>Sally đã kết hôn. <b>Chồng cô ấy</b> làm ở ngân hàng.</i>",
+   "expl": "his = of a man; her = of a woman; their = of two or more people.<br><i>his = của nam; her = của nữ; their = của hai người trở lên.</i><br><b>Điểm ngữ pháp</b>: Sally → Her.",
+   "key": "Sally is married. ___ husband works in a bank.|Her"
+  },
+  {
+   "question": "‘Do you know that man?’ ‘Yes, but I don’t know ___ name.’",
+   "a": "his",
+   "b": "her",
+   "c": "its",
+   "full": "‘Do you know that man?’ ‘Yes, but I don’t know <b>his</b> name.’",
+   "vi": "<i>‘Bạn có biết người đàn ông kia không?’ ‘Có, nhưng tôi không biết <b>tên ông ấy</b>.’</i>",
+   "expl": "his = of a man; her = of a woman; their = of two or more people.<br><i>his = của nam; her = của nữ; their = của hai người trở lên.</i><br><b>Điểm ngữ pháp</b>: that man → his.",
+   "key": "‘Do you know that man?’ ‘Yes, but I don’t know ___ name.’|his"
+  },
+  {
+   "question": "Oxford is famous for ___ university.",
+   "a": "its",
+   "b": "it’s",
+   "c": "it",
+   "full": "Oxford is famous for <b>its</b> university.",
+   "vi": "<i>Oxford nổi tiếng nhờ trường đại học <b>của nó</b>.</i>",
+   "expl": "its = belonging to it; it’s = it is.<br><i>its = của nó; it’s = it is.</i><br><b>Điểm ngữ pháp</b>: its = của nó.",
+   "key": "Oxford is famous for ___ university.|its"
+  },
+  {
+   "question": "I like Oxford. ___ a nice place.",
+   "a": "It’s",
+   "b": "Its",
+   "c": "It",
+   "full": "I like Oxford. <b>It’s</b> a nice place.",
+   "vi": "<i>Tôi thích Oxford. <b>Đó là</b> một nơi đẹp.</i>",
+   "expl": "its = belonging to it; it’s = it is.<br><i>its = của nó; it’s = it is.</i><br><b>Điểm ngữ pháp</b>: it’s = it is.",
+   "key": "I like Oxford. ___ a nice place.|It’s"
+  },
+  {
+   "question": "This is a beautiful tree. ___ leaves are a beautiful colour.",
+   "a": "Its",
+   "b": "It’s",
+   "c": "Their",
+   "full": "This is a beautiful tree. <b>Its</b> leaves are a beautiful colour.",
+   "vi": "<i>Đây là một cái cây đẹp. <b>Lá của nó</b> có màu rất đẹp.</i>",
+   "expl": "its = belonging to it; it’s = it is.<br><i>its = của nó; it’s = it is.</i><br><b>Điểm ngữ pháp</b>: Its = của nó.",
+   "key": "This is a beautiful tree. ___ leaves are a beautiful colour.|Its"
+  }
+ ]
+}

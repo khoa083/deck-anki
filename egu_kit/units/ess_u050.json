@@ -1,0 +1,399 @@
+{
+ "book": "ess",
+ "unit": 50,
+ "title_en": "She said that … / He told me that …",
+ "title_vi": "She said that … / He told me that … (câu tường thuật)",
+ "theory_html": "<p style=\"text-align: justify;\"><b>A. Reporting what people said</b></p>\n<p style=\"text-align: justify;\"><i>A. Thuật lại lời người khác nói</i></p>\n\n<p style=\"text-align: justify;\">Last week you went to a party. A lot of your friends were there. Today you meet Paul. You tell him what your friends said:</p>\n<p style=\"text-align: justify;\"><i>Tuần trước bạn đi dự tiệc. Nhiều bạn bè của bạn có ở đó. Hôm nay bạn gặp Paul. Bạn kể cho anh ấy những gì bạn bè đã nói:</i></p>\n\n<table border=\"1\" style=\"border-collapse: collapse; border-color: black; padding: 8px; margin: 6px 0;\">\n  <thead>\n    <tr><th style=\"padding: 8px;\">present → past<br><i>hiện tại → quá khứ</i></th><th style=\"padding: 8px;\">what they said<br><i>lời nói</i></th><th style=\"padding: 8px;\">reported<br><i>tường thuật</i></th></tr>\n  </thead>\n  <tbody>\n    <tr><td style=\"padding: 8px;\"><b>am / is</b> → <b>was</b></td><td style=\"padding: 8px;\">Clare: ‘<b>I’m</b> enjoying my new job. <b>My father isn’t</b> well.’</td><td style=\"padding: 8px;\">Clare said that <b>she was</b> enjoying her new job. She said that <b>her father wasn’t</b> well.</td></tr>\n    <tr><td style=\"padding: 8px;\"><b>are</b> → <b>were</b></td><td style=\"padding: 8px;\">Sarah and Ben: ‘<b>We’re</b> going to buy a house.’</td><td style=\"padding: 8px;\">Sarah and Ben said that <b>they were</b> going to buy a house.</td></tr>\n    <tr><td style=\"padding: 8px;\"><b>have / has</b> → <b>had</b></td><td style=\"padding: 8px;\">Peter: ‘<b>I have</b> to leave early. <b>My sister has</b> gone to Australia.’</td><td style=\"padding: 8px;\">Peter said that <b>he had</b> to leave early. He said that <b>his sister had</b> gone to Australia.</td></tr>\n    <tr><td style=\"padding: 8px;\"><b>can</b> → <b>could</b></td><td style=\"padding: 8px;\">Kate: ‘<b>I can’t</b> find a job.’</td><td style=\"padding: 8px;\">Kate said that <b>she couldn’t</b> find a job.</td></tr>\n    <tr><td style=\"padding: 8px;\"><b>will</b> → <b>would</b></td><td style=\"padding: 8px;\">Steve: ‘<b>I’ll</b> phone you.’</td><td style=\"padding: 8px;\">Steve said that <b>he would</b> phone me.</td></tr>\n    <tr><td style=\"padding: 8px;\"><b>do / does</b> → <b>did</b></td><td style=\"padding: 8px;\">Rachel: ‘<b>I don’t</b> like my job. <b>My son doesn’t</b> like school.’</td><td style=\"padding: 8px;\">Rachel said that <b>she didn’t</b> like her job. She said that <b>her son didn’t</b> like school.</td></tr>\n    <tr><td style=\"padding: 8px;\"><b>look</b> → <b>looked</b>, <b>feel</b> → <b>felt</b></td><td style=\"padding: 8px;\">Mike: ‘<b>You look</b> tired.’ You: ‘<b>I feel</b> fine.’</td><td style=\"padding: 8px;\">Mike said that <b>I looked</b> tired. I said that <b>I felt</b> fine.</td></tr>\n  </tbody>\n</table>\n\n<p style=\"text-align: justify;\"><b>B. say and tell</b></p>\n<p style=\"text-align: justify;\"><i>B. say và tell</i></p>\n\n<table border=\"1\" style=\"border-collapse: collapse; border-color: black; padding: 8px; margin: 6px 0;\">\n  <thead>\n    <tr><th style=\"padding: 8px;\">say (→ said)</th><th style=\"padding: 8px;\">tell (→ told)</th></tr>\n  </thead>\n  <tbody>\n    <tr><td style=\"padding: 8px;\">He <b>said</b> that he was tired. (<i>not</i> He said me)</td><td style=\"padding: 8px;\">He <b>told me</b> that he was tired. (<i>not</i> He told that)</td></tr>\n    <tr><td style=\"padding: 8px;\">What did she <b>say to</b> you? (<i>not</i> say you)</td><td style=\"padding: 8px;\">What did she <b>tell you</b>? (<i>not</i> tell to you)</td></tr>\n  </tbody>\n</table>\n\n<p style=\"text-align: justify;\">We say <b>he told me</b>, <b>I told Ann</b> etc. (<i>not</i> ‘he told to me’, ‘I told to Ann’). We say <b>he said to me</b>, <b>I said to Ann</b> etc. (<i>not</i> ‘he said me’, ‘I said Ann’).</p>\n<p style=\"text-align: justify;\"><i>Ta nói <b>he told me</b>, <b>I told Ann</b> v.v. (<i>không nói</i> ‘he told to me’, ‘I told to Ann’). Ta nói <b>he said to me</b>, <b>I said to Ann</b> v.v. (<i>không nói</i> ‘he said me’, ‘I said Ann’).</i></p>\n\n<p style=\"text-align: justify;\">You can say: He said <b>that</b> he was tired. <i>or</i> He said he was tired. (without <b>that</b>)</p>\n<p style=\"text-align: justify;\"><i>Có thể nói: He said <b>that</b> he was tired. <i>hoặc</i> He said he was tired. (bỏ <b>that</b>)</i></p>\n\n<ul>\n  <li>\n    <p style=\"text-align: justify;\">Kate told me <b>that</b> she couldn’t find a job. <i>or</i> Kate told me she couldn’t find a job.</p>\n    <p style=\"text-align: justify;\"><i>Kate nói với tôi <b>rằng</b> cô ấy không tìm được việc.</i></p>\n  </li>\n</ul>",
+ "mcq": [
+  {
+   "question": "Clare: ‘I’m enjoying my new job.’ → Clare said that she ___ enjoying her new job.",
+   "a": "was",
+   "b": "is",
+   "c": "were",
+   "full": "Clare: ‘I’m enjoying my new job.’ → Clare said that she <b>was</b> enjoying her new job.",
+   "vi": "<i>Clare: ‘Tôi rất thích công việc mới.’ → Clare nói rằng cô ấy <b>đang</b> rất thích công việc mới.</i>",
+   "expl": "Reported speech: present → past (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).<br><i>Câu tường thuật: hiện tại → quá khứ (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).</i><br><b>Điểm ngữ pháp</b>: am → was.",
+   "key": "Clare: ‘I’m enjoying my new job.’ → Clare said that she ___ enjoying her new job.|was"
+  },
+  {
+   "question": "Clare: ‘My father isn’t well.’ → She said that her father ___ well.",
+   "a": "wasn’t",
+   "b": "isn’t",
+   "c": "didn’t",
+   "full": "Clare: ‘My father isn’t well.’ → She said that her father <b>wasn’t</b> well.",
+   "vi": "<i>Clare: ‘Bố tôi không khỏe.’ → Cô ấy nói rằng bố cô ấy <b>không</b> khỏe.</i>",
+   "expl": "Reported speech: present → past (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).<br><i>Câu tường thuật: hiện tại → quá khứ (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).</i><br><b>Điểm ngữ pháp</b>: isn’t → wasn’t.",
+   "key": "Clare: ‘My father isn’t well.’ → She said that her father ___ well.|wasn’t"
+  },
+  {
+   "question": "Sarah and Ben: ‘We’re going to buy a house.’ → They said that they ___ going to buy a house.",
+   "a": "were",
+   "b": "are",
+   "c": "was",
+   "full": "Sarah and Ben: ‘We’re going to buy a house.’ → They said that they <b>were</b> going to buy a house.",
+   "vi": "<i>Sarah và Ben: ‘Chúng tôi định mua nhà.’ → Họ nói rằng họ <b>định</b> mua nhà.</i>",
+   "expl": "Reported speech: present → past (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).<br><i>Câu tường thuật: hiện tại → quá khứ (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).</i><br><b>Điểm ngữ pháp</b>: are → were.",
+   "key": "Sarah and Ben: ‘We’re going to buy a house.’ → They said that they ___ going to buy a house.|were"
+  },
+  {
+   "question": "Peter: ‘I have to leave early.’ → Peter said that he ___ to leave early.",
+   "a": "had",
+   "b": "has",
+   "c": "have",
+   "full": "Peter: ‘I have to leave early.’ → Peter said that he <b>had</b> to leave early.",
+   "vi": "<i>Peter: ‘Tôi phải về sớm.’ → Peter nói rằng anh ấy <b>phải</b> về sớm.</i>",
+   "expl": "Reported speech: present → past (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).<br><i>Câu tường thuật: hiện tại → quá khứ (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).</i><br><b>Điểm ngữ pháp</b>: have → had.",
+   "key": "Peter: ‘I have to leave early.’ → Peter said that he ___ to leave early.|had"
+  },
+  {
+   "question": "Peter: ‘My sister has gone to Australia.’ → He said that his sister ___ gone to Australia.",
+   "a": "had",
+   "b": "has",
+   "c": "was",
+   "full": "Peter: ‘My sister has gone to Australia.’ → He said that his sister <b>had</b> gone to Australia.",
+   "vi": "<i>Peter: ‘Chị tôi đã sang Úc.’ → Anh ấy nói rằng chị anh ấy <b>đã</b> sang Úc.</i>",
+   "expl": "Reported speech: present → past (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).<br><i>Câu tường thuật: hiện tại → quá khứ (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).</i><br><b>Điểm ngữ pháp</b>: has → had.",
+   "key": "Peter: ‘My sister has gone to Australia.’ → He said that his sister ___ gone to Australia.|had"
+  },
+  {
+   "question": "Kate: ‘I can’t find a job.’ → Kate said that she ___ find a job.",
+   "a": "couldn’t",
+   "b": "can’t",
+   "c": "didn’t",
+   "full": "Kate: ‘I can’t find a job.’ → Kate said that she <b>couldn’t</b> find a job.",
+   "vi": "<i>Kate: ‘Tôi không tìm được việc.’ → Kate nói rằng cô ấy <b>không tìm được</b> việc.</i>",
+   "expl": "Reported speech: present → past (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).<br><i>Câu tường thuật: hiện tại → quá khứ (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).</i><br><b>Điểm ngữ pháp</b>: can’t → couldn’t.",
+   "key": "Kate: ‘I can’t find a job.’ → Kate said that she ___ find a job.|couldn’t"
+  },
+  {
+   "question": "Steve: ‘I’ll phone you.’ → Steve said that he ___ phone me.",
+   "a": "would",
+   "b": "will",
+   "c": "could",
+   "full": "Steve: ‘I’ll phone you.’ → Steve said that he <b>would</b> phone me.",
+   "vi": "<i>Steve: ‘Tôi sẽ gọi cho bạn.’ → Steve nói rằng anh ấy <b>sẽ</b> gọi cho tôi.</i>",
+   "expl": "Reported speech: present → past (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).<br><i>Câu tường thuật: hiện tại → quá khứ (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).</i><br><b>Điểm ngữ pháp</b>: will → would.",
+   "key": "Steve: ‘I’ll phone you.’ → Steve said that he ___ phone me.|would"
+  },
+  {
+   "question": "Rachel: ‘I don’t like my job.’ → Rachel said that she ___ like her job.",
+   "a": "didn’t",
+   "b": "doesn’t",
+   "c": "wasn’t",
+   "full": "Rachel: ‘I don’t like my job.’ → Rachel said that she <b>didn’t</b> like her job.",
+   "vi": "<i>Rachel: ‘Tôi không thích công việc.’ → Rachel nói rằng cô ấy <b>không</b> thích công việc.</i>",
+   "expl": "Reported speech: present → past (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).<br><i>Câu tường thuật: hiện tại → quá khứ (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).</i><br><b>Điểm ngữ pháp</b>: don’t → didn’t.",
+   "key": "Rachel: ‘I don’t like my job.’ → Rachel said that she ___ like her job.|didn’t"
+  },
+  {
+   "question": "Mike: ‘You look tired.’ → Mike said that I ___ tired.",
+   "a": "looked",
+   "b": "look",
+   "c": "was look",
+   "full": "Mike: ‘You look tired.’ → Mike said that I <b>looked</b> tired.",
+   "vi": "<i>Mike: ‘Trông bạn mệt mỏi.’ → Mike nói rằng trông tôi <b>mệt mỏi</b>.</i>",
+   "expl": "Reported speech: present → past (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).<br><i>Câu tường thuật: hiện tại → quá khứ (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).</i><br><b>Điểm ngữ pháp</b>: look → looked.",
+   "key": "Mike: ‘You look tired.’ → Mike said that I ___ tired.|looked"
+  },
+  {
+   "question": "Me: ‘I feel fine.’ → I said that I ___ fine.",
+   "a": "felt",
+   "b": "feel",
+   "c": "was feel",
+   "full": "Me: ‘I feel fine.’ → I said that I <b>felt</b> fine.",
+   "vi": "<i>Tôi: ‘Tôi thấy khỏe.’ → Tôi nói rằng tôi <b>thấy</b> khỏe.</i>",
+   "expl": "Reported speech: present → past (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).<br><i>Câu tường thuật: hiện tại → quá khứ (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).</i><br><b>Điểm ngữ pháp</b>: feel → felt.",
+   "key": "Me: ‘I feel fine.’ → I said that I ___ fine.|felt"
+  },
+  {
+   "question": "‘I’ve lost my watch.’ → He said he ___ lost his watch.",
+   "a": "had",
+   "b": "has",
+   "c": "was",
+   "full": "‘I’ve lost my watch.’ → He said he <b>had</b> lost his watch.",
+   "vi": "<i>‘Tôi làm mất đồng hồ rồi.’ → Anh ấy nói anh ấy <b>đã</b> làm mất đồng hồ.</i>",
+   "expl": "Reported speech: present → past (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).<br><i>Câu tường thuật: hiện tại → quá khứ (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).</i><br><b>Điểm ngữ pháp</b>: have → had.",
+   "key": "‘I’ve lost my watch.’ → He said he ___ lost his watch.|had"
+  },
+  {
+   "question": "‘I’m very busy.’ → She said that she ___ very busy.",
+   "a": "was",
+   "b": "is",
+   "c": "were",
+   "full": "‘I’m very busy.’ → She said that she <b>was</b> very busy.",
+   "vi": "<i>‘Tôi rất bận.’ → Cô ấy nói rằng cô ấy <b>rất bận</b>.</i>",
+   "expl": "Reported speech: present → past (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).<br><i>Câu tường thuật: hiện tại → quá khứ (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).</i><br><b>Điểm ngữ pháp</b>: am → was.",
+   "key": "‘I’m very busy.’ → She said that she ___ very busy.|was"
+  },
+  {
+   "question": "‘I can’t go to the party.’ → She said that she ___ go to the party.",
+   "a": "couldn’t",
+   "b": "can’t",
+   "c": "wouldn’t",
+   "full": "‘I can’t go to the party.’ → She said that she <b>couldn’t</b> go to the party.",
+   "vi": "<i>‘Tôi không đi dự tiệc được.’ → Cô ấy nói rằng cô ấy <b>không đi được</b>.</i>",
+   "expl": "Reported speech: present → past (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).<br><i>Câu tường thuật: hiện tại → quá khứ (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).</i><br><b>Điểm ngữ pháp</b>: can’t → couldn’t.",
+   "key": "‘I can’t go to the party.’ → She said that she ___ go to the party.|couldn’t"
+  },
+  {
+   "question": "‘I have to go out.’ → He said that he ___ to go out.",
+   "a": "had",
+   "b": "has",
+   "c": "have",
+   "full": "‘I have to go out.’ → He said that he <b>had</b> to go out.",
+   "vi": "<i>‘Tôi phải ra ngoài.’ → Anh ấy nói rằng anh ấy <b>phải</b> ra ngoài.</i>",
+   "expl": "Reported speech: present → past (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).<br><i>Câu tường thuật: hiện tại → quá khứ (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).</i><br><b>Điểm ngữ pháp</b>: have to → had to.",
+   "key": "‘I have to go out.’ → He said that he ___ to go out.|had"
+  },
+  {
+   "question": "‘I’m learning Russian.’ → He said that he ___ learning Russian.",
+   "a": "was",
+   "b": "is",
+   "c": "were",
+   "full": "‘I’m learning Russian.’ → He said that he <b>was</b> learning Russian.",
+   "vi": "<i>‘Tôi đang học tiếng Nga.’ → Anh ấy nói rằng anh ấy <b>đang</b> học tiếng Nga.</i>",
+   "expl": "Reported speech: present → past (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).<br><i>Câu tường thuật: hiện tại → quá khứ (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).</i><br><b>Điểm ngữ pháp</b>: am → was.",
+   "key": "‘I’m learning Russian.’ → He said that he ___ learning Russian.|was"
+  },
+  {
+   "question": "‘I don’t feel very well.’ → She said that she ___ feel very well.",
+   "a": "didn’t",
+   "b": "doesn’t",
+   "c": "wasn’t",
+   "full": "‘I don’t feel very well.’ → She said that she <b>didn’t</b> feel very well.",
+   "vi": "<i>‘Tôi thấy không khỏe lắm.’ → Cô ấy nói rằng cô ấy <b>không thấy</b> khỏe lắm.</i>",
+   "expl": "Reported speech: present → past (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).<br><i>Câu tường thuật: hiện tại → quá khứ (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).</i><br><b>Điểm ngữ pháp</b>: don’t → didn’t.",
+   "key": "‘I don’t feel very well.’ → She said that she ___ feel very well.|didn’t"
+  },
+  {
+   "question": "‘We’ll be home late.’ → They said that they ___ be home late.",
+   "a": "would",
+   "b": "will",
+   "c": "were",
+   "full": "‘We’ll be home late.’ → They said that they <b>would</b> be home late.",
+   "vi": "<i>‘Chúng tôi sẽ về nhà muộn.’ → Họ nói rằng họ <b>sẽ</b> về nhà muộn.</i>",
+   "expl": "Reported speech: present → past (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).<br><i>Câu tường thuật: hiện tại → quá khứ (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).</i><br><b>Điểm ngữ pháp</b>: will → would.",
+   "key": "‘We’ll be home late.’ → They said that they ___ be home late.|would"
+  },
+  {
+   "question": "‘I’ve just come back from holiday.’ → She said that she ___ just come back from holiday.",
+   "a": "had",
+   "b": "has",
+   "c": "was",
+   "full": "‘I’ve just come back from holiday.’ → She said that she <b>had</b> just come back from holiday.",
+   "vi": "<i>‘Tôi vừa đi nghỉ về.’ → Cô ấy nói rằng cô ấy <b>vừa</b> đi nghỉ về.</i>",
+   "expl": "Reported speech: present → past (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).<br><i>Câu tường thuật: hiện tại → quá khứ (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).</i><br><b>Điểm ngữ pháp</b>: have → had.",
+   "key": "‘I’ve just come back from holiday.’ → She said that she ___ just come back from holiday.|had"
+  },
+  {
+   "question": "‘I’m going to buy a guitar.’ → She said that she ___ going to buy a guitar.",
+   "a": "was",
+   "b": "is",
+   "c": "were",
+   "full": "‘I’m going to buy a guitar.’ → She said that she <b>was</b> going to buy a guitar.",
+   "vi": "<i>‘Tôi định mua một cây ghi-ta.’ → Cô ấy nói rằng cô ấy <b>định</b> mua ghi-ta.</i>",
+   "expl": "Reported speech: present → past (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).<br><i>Câu tường thuật: hiện tại → quá khứ (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).</i><br><b>Điểm ngữ pháp</b>: am → was.",
+   "key": "‘I’m going to buy a guitar.’ → She said that she ___ going to buy a guitar.|was"
+  },
+  {
+   "question": "‘We haven’t got a key.’ → They said that they ___ got a key.",
+   "a": "hadn’t",
+   "b": "haven’t",
+   "c": "didn’t",
+   "full": "‘We haven’t got a key.’ → They said that they <b>hadn’t</b> got a key.",
+   "vi": "<i>‘Chúng tôi không có chìa khóa.’ → Họ nói rằng họ <b>không có</b> chìa khóa.</i>",
+   "expl": "Reported speech: present → past (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).<br><i>Câu tường thuật: hiện tại → quá khứ (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).</i><br><b>Điểm ngữ pháp</b>: haven’t → hadn’t.",
+   "key": "‘We haven’t got a key.’ → They said that they ___ got a key.|hadn’t"
+  },
+  {
+   "question": "Emma didn’t want anything to eat. She said that she ___ hungry.",
+   "a": "wasn’t",
+   "b": "isn’t",
+   "c": "weren’t",
+   "full": "Emma didn’t want anything to eat. She said that she <b>wasn’t</b> hungry.",
+   "vi": "<i>Emma không muốn ăn gì. Cô ấy nói cô ấy <b>không</b> đói.</i>",
+   "expl": "Reported speech: present → past (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).<br><i>Câu tường thuật: hiện tại → quá khứ (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).</i><br><b>Điểm ngữ pháp</b>: ‘I’m not hungry’ → wasn’t.",
+   "key": "Emma didn’t want anything to eat. She said that she ___ hungry.|wasn’t"
+  },
+  {
+   "question": "I wanted to borrow Mike’s ladder, but he said that he ___ it.",
+   "a": "needed",
+   "b": "needs",
+   "c": "need",
+   "full": "I wanted to borrow Mike’s ladder, but he said that he <b>needed</b> it.",
+   "vi": "<i>Tôi muốn mượn thang của Mike, nhưng anh ấy nói anh ấy <b>cần</b> nó.</i>",
+   "expl": "Reported speech: present → past (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).<br><i>Câu tường thuật: hiện tại → quá khứ (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).</i><br><b>Điểm ngữ pháp</b>: ‘I need it’ → needed.",
+   "key": "I wanted to borrow Mike’s ladder, but he said that he ___ it.|needed"
+  },
+  {
+   "question": "Susan told me she didn’t want the picture. She said that I ___ have it.",
+   "a": "could",
+   "b": "can",
+   "c": "will",
+   "full": "Susan told me she didn’t want the picture. She said that I <b>could</b> have it.",
+   "vi": "<i>Susan nói cô ấy không cần bức tranh. Cô ấy nói tôi <b>có thể</b> lấy nó.</i>",
+   "expl": "Reported speech: present → past (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).<br><i>Câu tường thuật: hiện tại → quá khứ (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).</i><br><b>Điểm ngữ pháp</b>: ‘You can have it’ → could.",
+   "key": "Susan told me she didn’t want the picture. She said that I ___ have it.|could"
+  },
+  {
+   "question": "Martin has just gone away on holiday. He said that he ___ send me a postcard.",
+   "a": "would",
+   "b": "will",
+   "c": "can",
+   "full": "Martin has just gone away on holiday. He said that he <b>would</b> send me a postcard.",
+   "vi": "<i>Martin vừa đi nghỉ. Anh ấy nói anh ấy <b>sẽ</b> gửi bưu thiếp cho tôi.</i>",
+   "expl": "Reported speech: present → past (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).<br><i>Câu tường thuật: hiện tại → quá khứ (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).</i><br><b>Điểm ngữ pháp</b>: ‘I’ll send you …’ → would.",
+   "key": "Martin has just gone away on holiday. He said that he ___ send me a postcard.|would"
+  },
+  {
+   "question": "I was looking for Robert. Nicola said that he ___ gone home.",
+   "a": "had",
+   "b": "has",
+   "c": "was",
+   "full": "I was looking for Robert. Nicola said that he <b>had</b> gone home.",
+   "vi": "<i>Tôi đang tìm Robert. Nicola nói anh ấy <b>đã</b> về nhà.</i>",
+   "expl": "Reported speech: present → past (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).<br><i>Câu tường thuật: hiện tại → quá khứ (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).</i><br><b>Điểm ngữ pháp</b>: ‘He’s gone home’ → had gone.",
+   "key": "I was looking for Robert. Nicola said that he ___ gone home.|had"
+  },
+  {
+   "question": "‘Why did David stay at home?’ ‘He said that he ___ to watch TV.’",
+   "a": "wanted",
+   "b": "wants",
+   "c": "want",
+   "full": "‘Why did David stay at home?’ ‘He said that he <b>wanted</b> to watch TV.’",
+   "vi": "<i>‘Sao David ở nhà?’ ‘Anh ấy nói anh ấy <b>muốn</b> xem TV.’</i>",
+   "expl": "Reported speech: present → past (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).<br><i>Câu tường thuật: hiện tại → quá khứ (am/is → was, are → were, have/has → had, can → could, will → would, do/does → did, look → looked).</i><br><b>Điểm ngữ pháp</b>: ‘I want to …’ → wanted.",
+   "key": "‘Why did David stay at home?’ ‘He said that he ___ to watch TV.’|wanted"
+  },
+  {
+   "question": "He ___ that he was tired.",
+   "a": "said",
+   "b": "told",
+   "c": "said me",
+   "full": "He <b>said</b> that he was tired.",
+   "vi": "<i>Anh ấy <b>nói</b> rằng anh ấy mệt.</i>",
+   "expl": "say (said) + that … / say to somebody – not ‘said me’.<br><i>say (said) + that … / say to somebody – không nói ‘said me’.</i><br><b>Điểm ngữ pháp</b>: say + that (không có tân ngữ người).",
+   "key": "He ___ that he was tired.|said"
+  },
+  {
+   "question": "What did she ___ to you?",
+   "a": "say",
+   "b": "tell",
+   "c": "told",
+   "full": "What did she <b>say</b> to you?",
+   "vi": "<i>Cô ấy đã <b>nói</b> gì với bạn?</i>",
+   "expl": "say (said) + that … / say to somebody – not ‘said me’.<br><i>say (said) + that … / say to somebody – không nói ‘said me’.</i><br><b>Điểm ngữ pháp</b>: say to somebody (không nói say you).",
+   "key": "What did she ___ to you?|say"
+  },
+  {
+   "question": "Anna ___ she didn’t like Peter.",
+   "a": "said",
+   "b": "told",
+   "c": "told to",
+   "full": "Anna <b>said</b> she didn’t like Peter.",
+   "vi": "<i>Anna <b>nói</b> cô ấy không ưa Peter.</i>",
+   "expl": "say (said) + that … / say to somebody – not ‘said me’.<br><i>say (said) + that … / say to somebody – không nói ‘said me’.</i><br><b>Điểm ngữ pháp</b>: Không có tân ngữ người → said.",
+   "key": "Anna ___ she didn’t like Peter.|said"
+  },
+  {
+   "question": "Did Lucy ___ she would be late?",
+   "a": "say",
+   "b": "tell",
+   "c": "told",
+   "full": "Did Lucy <b>say</b> she would be late?",
+   "vi": "<i>Lucy có <b>nói</b> là cô ấy sẽ đến muộn không?</i>",
+   "expl": "say (said) + that … / say to somebody – not ‘said me’.<br><i>say (said) + that … / say to somebody – không nói ‘said me’.</i><br><b>Điểm ngữ pháp</b>: Không có tân ngữ người → say.",
+   "key": "Did Lucy ___ she would be late?|say"
+  },
+  {
+   "question": "The woman ___ she was a reporter.",
+   "a": "said",
+   "b": "told",
+   "c": "told to",
+   "full": "The woman <b>said</b> she was a reporter.",
+   "vi": "<i>Người phụ nữ <b>nói</b> cô ấy là phóng viên.</i>",
+   "expl": "say (said) + that … / say to somebody – not ‘said me’.<br><i>say (said) + that … / say to somebody – không nói ‘said me’.</i><br><b>Điểm ngữ pháp</b>: said + that.",
+   "key": "The woman ___ she was a reporter.|said"
+  },
+  {
+   "question": "They asked me a lot of questions, but I didn’t ___ anything.",
+   "a": "say",
+   "b": "tell",
+   "c": "told",
+   "full": "They asked me a lot of questions, but I didn’t <b>say</b> anything.",
+   "vi": "<i>Họ hỏi tôi rất nhiều, nhưng tôi không <b>nói</b> gì cả.</i>",
+   "expl": "say (said) + that … / say to somebody – not ‘said me’.<br><i>say (said) + that … / say to somebody – không nói ‘said me’.</i><br><b>Điểm ngữ pháp</b>: say + anything.",
+   "key": "They asked me a lot of questions, but I didn’t ___ anything.|say"
+  },
+  {
+   "question": "He ___ me that he was tired.",
+   "a": "told",
+   "b": "said",
+   "c": "told to",
+   "full": "He <b>told</b> me that he was tired.",
+   "vi": "<i>Anh ấy <b>nói với</b> tôi rằng anh ấy mệt.</i>",
+   "expl": "tell (told) + person + that … – not ‘told that’, not ‘told to me’.<br><i>tell (told) + người + that … – không nói ‘told that’, không nói ‘told to me’.</i><br><b>Điểm ngữ pháp</b>: tell + người (không nói told to me).",
+   "key": "He ___ me that he was tired.|told"
+  },
+  {
+   "question": "What did she ___ you?",
+   "a": "tell",
+   "b": "say",
+   "c": "tell to",
+   "full": "What did she <b>tell</b> you?",
+   "vi": "<i>Cô ấy đã <b>nói với</b> bạn điều gì?</i>",
+   "expl": "tell (told) + person + that … – not ‘told that’, not ‘told to me’.<br><i>tell (told) + người + that … – không nói ‘told that’, không nói ‘told to me’.</i><br><b>Điểm ngữ pháp</b>: tell + you (không nói tell to you).",
+   "key": "What did she ___ you?|tell"
+  },
+  {
+   "question": "Jack ___ me that you were ill.",
+   "a": "told",
+   "b": "said",
+   "c": "told to",
+   "full": "Jack <b>told</b> me that you were ill.",
+   "vi": "<i>Jack <b>nói với</b> tôi rằng bạn bị ốm.</i>",
+   "expl": "tell (told) + person + that … – not ‘told that’, not ‘told to me’.<br><i>tell (told) + người + that … – không nói ‘told that’, không nói ‘told to me’.</i><br><b>Điểm ngữ pháp</b>: tell + người.",
+   "key": "Jack ___ me that you were ill.|told"
+  },
+  {
+   "question": "Please don’t ___ Dan what happened.",
+   "a": "tell",
+   "b": "say",
+   "c": "say to",
+   "full": "Please don’t <b>tell</b> Dan what happened.",
+   "vi": "<i>Làm ơn đừng <b>kể với</b> Dan chuyện đã xảy ra.</i>",
+   "expl": "tell (told) + person + that … – not ‘told that’, not ‘told to me’.<br><i>tell (told) + người + that … – không nói ‘told that’, không nói ‘told to me’.</i><br><b>Điểm ngữ pháp</b>: tell + người.",
+   "key": "Please don’t ___ Dan what happened.|tell"
+  },
+  {
+   "question": "The woman ___ us she was a reporter.",
+   "a": "told",
+   "b": "said",
+   "c": "said to",
+   "full": "The woman <b>told</b> us she was a reporter.",
+   "vi": "<i>Người phụ nữ <b>nói với</b> chúng tôi cô ấy là phóng viên.</i>",
+   "expl": "tell (told) + person + that … – not ‘told that’, not ‘told to me’.<br><i>tell (told) + người + that … – không nói ‘told that’, không nói ‘told to me’.</i><br><b>Điểm ngữ pháp</b>: tell + us.",
+   "key": "The woman ___ us she was a reporter.|told"
+  },
+  {
+   "question": "They asked me a lot of questions, but I didn’t ___ them anything.",
+   "a": "tell",
+   "b": "say",
+   "c": "say to",
+   "full": "They asked me a lot of questions, but I didn’t <b>tell</b> them anything.",
+   "vi": "<i>Họ hỏi tôi rất nhiều, nhưng tôi không <b>nói với</b> họ điều gì.</i>",
+   "expl": "tell (told) + person + that … – not ‘told that’, not ‘told to me’.<br><i>tell (told) + người + that … – không nói ‘told that’, không nói ‘told to me’.</i><br><b>Điểm ngữ pháp</b>: tell + them.",
+   "key": "They asked me a lot of questions, but I didn’t ___ them anything.|tell"
+  },
+  {
+   "question": "Kate told me ___ she couldn’t find a job.",
+   "a": "that",
+   "b": "to",
+   "c": "at",
+   "full": "Kate told me <b>that</b> she couldn’t find a job.",
+   "vi": "<i>Kate nói với tôi <b>rằng</b> cô ấy không tìm được việc.</i>",
+   "expl": "tell (told) + person + that … – not ‘told that’, not ‘told to me’.<br><i>tell (told) + người + that … – không nói ‘told that’, không nói ‘told to me’.</i><br><b>Điểm ngữ pháp</b>: told me (that) … – that có thể bỏ.",
+   "key": "Kate told me ___ she couldn’t find a job.|that"
+  }
+ ]
+}

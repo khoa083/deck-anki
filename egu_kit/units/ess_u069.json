@@ -1,0 +1,479 @@
+{
+ "book": "ess",
+ "unit": 69,
+ "title_en": "a/an and the",
+ "title_vi": "a/an và the (mạo từ)",
+ "theory_html": "<p style=\"text-align: justify;\"><b>A. a/an and the</b></p>\n<p style=\"text-align: justify;\"><i>A. a/an và the</i></p>\n\n<ul>\n  <li>\n    <p style=\"text-align: justify;\">There are three windows here. Can you open <b>a</b> window? (<b>a</b> window = window 1 or 2 or 3)</p>\n    <p style=\"text-align: justify;\"><i>Ở đây có ba cửa sổ. Bạn mở <b>một</b> cái cửa sổ được không? (<b>a</b> window = cửa 1, 2 hoặc 3)</i></p>\n  </li>\n  <li>\n    <p style=\"text-align: justify;\">There is only one window here. Can you open <b>the</b> window?</p>\n    <p style=\"text-align: justify;\"><i>Ở đây chỉ có một cửa sổ. Bạn mở <b>cái</b> cửa sổ được không?</i></p>\n  </li>\n</ul>\n\n<table border=\"1\" style=\"border-collapse: collapse; border-color: black; padding: 8px; margin: 6px 0;\">\n  <thead>\n    <tr><th style=\"padding: 8px;\">a / an</th><th style=\"padding: 8px;\">the</th></tr>\n  </thead>\n  <tbody>\n    <tr><td style=\"padding: 8px;\">I’ve got <b>a car</b>. (there are many cars and I’ve got one)</td><td style=\"padding: 8px;\">I’m going to clean <b>the car</b> tomorrow. (= my car)</td></tr>\n    <tr><td style=\"padding: 8px;\">Can I ask <b>a question</b>? (there are many questions – can I ask one?)</td><td style=\"padding: 8px;\">Can you repeat <b>the question</b>, please? (= the question that you asked)</td></tr>\n    <tr><td style=\"padding: 8px;\">Is there <b>a hotel</b> near here? (there are many hotels – is there one near here?)</td><td style=\"padding: 8px;\">We enjoyed our holiday. <b>The hotel</b> was very nice. (= our hotel)</td></tr>\n    <tr><td style=\"padding: 8px;\">Paris is <b>an interesting city</b>. (there are many interesting cities and Paris is one)</td><td style=\"padding: 8px;\">Paris is <b>the capital of France</b>. (there is only one capital of France)</td></tr>\n    <tr><td style=\"padding: 8px;\">Lisa is <b>a student</b>. (there are many students and Lisa is one)</td><td style=\"padding: 8px;\">Lisa is <b>the youngest student</b> in her class. (there is only one youngest student in her class)</td></tr>\n  </tbody>\n</table>\n\n<p style=\"text-align: justify;\">Compare <b>a</b> and <b>the</b>:</p>\n<p style=\"text-align: justify;\"><i>So sánh <b>a</b> và <b>the</b>:</i></p>\n\n<ul>\n  <li>\n    <p style=\"text-align: justify;\">I bought <b>a jacket</b> and <b>a shirt</b>. <b>The jacket</b> was cheap, but <b>the shirt</b> was expensive. (= <b>the</b> jacket and <b>the</b> shirt <b>that I bought</b>)</p>\n    <p style=\"text-align: justify;\"><i>Tôi mua <b>một chiếc áo khoác</b> và <b>một chiếc áo sơ mi</b>. <b>Chiếc áo khoác</b> rẻ, nhưng <b>chiếc áo sơ mi</b> đắt. (= cái áo khoác và cái áo sơ mi <b>mà tôi đã mua</b>)</i></p>\n  </li>\n</ul>\n\n<p style=\"text-align: justify;\"><b>B. the … when it is clear which thing or person we mean</b></p>\n<p style=\"text-align: justify;\"><i>B. the … khi đã rõ vật/người nào</i></p>\n\n<p style=\"text-align: justify;\"><b>the door / the ceiling / the floor / the carpet / the light</b> etc. (of a room); <b>the roof / the garden / the kitchen / the bathroom</b> etc. (of a house); <b>the centre / the station / the airport / the town hall</b> etc. (of a town)</p>\n<p style=\"text-align: justify;\"><i><b>the door / the ceiling / the floor / the carpet / the light</b> v.v. (của căn phòng); <b>the roof / the garden / the kitchen / the bathroom</b> v.v. (của ngôi nhà); <b>the centre / the station / the airport / the town hall</b> v.v. (của thị trấn)</i></p>\n\n<ul>\n  <li>\n    <p style=\"text-align: justify;\">‘Where’s Tom?’ ‘In <b>the kitchen</b>.’ (= the kitchen of this house or flat)</p>\n    <p style=\"text-align: justify;\"><i>‘Tom đâu?’ ‘Trong <b>bếp</b>.’ (= bếp của nhà này)</i></p>\n  </li>\n  <li>\n    <p style=\"text-align: justify;\">Turn off <b>the light</b> and close <b>the door</b>. (= the light and the door of the room)</p>\n    <p style=\"text-align: justify;\"><i>Tắt <b>đèn</b> và đóng <b>cửa</b> lại. (= đèn và cửa của phòng này)</i></p>\n  </li>\n  <li>\n    <p style=\"text-align: justify;\">Do you live far from <b>the centre</b>? (= the centre of your town)</p>\n    <p style=\"text-align: justify;\"><i>Bạn sống có xa <b>trung tâm</b> không? (= trung tâm thị trấn của bạn)</i></p>\n  </li>\n  <li>\n    <p style=\"text-align: justify;\">I’d like to speak to <b>the manager</b>, please. (= the manager of this shop etc.)</p>\n    <p style=\"text-align: justify;\"><i>Tôi muốn gặp <b>người quản lý</b>. (= quản lý của cửa hàng này v.v.)</i></p>\n  </li>\n</ul>",
+ "mcq": [
+  {
+   "question": "There are three windows here. Can you open ___ window?",
+   "a": "a",
+   "b": "the",
+   "c": "an",
+   "full": "There are three windows here. Can you open <b>a</b> window?",
+   "vi": "<i>Ở đây có ba cửa sổ. Bạn mở <b>một</b> cái cửa sổ được không?</i>",
+   "expl": "a/an = one of many; the thing/person is not specific or mentioned for the first time.<br><i>a/an = một trong nhiều cái; chưa xác định hoặc nhắc lần đầu.</i><br><b>Điểm ngữ pháp</b>: Một trong nhiều → a.",
+   "key": "There are three windows here. Can you open ___ window?|a"
+  },
+  {
+   "question": "There is only one window here. Can you open ___ window?",
+   "a": "the",
+   "b": "a",
+   "c": "an",
+   "full": "There is only one window here. Can you open <b>the</b> window?",
+   "vi": "<i>Ở đây chỉ có một cửa sổ. Bạn mở <b>cái</b> cửa sổ được không?</i>",
+   "expl": "the = a specific thing/person (already mentioned, the only one, or the one we both know).<br><i>the = vật/người xác định (đã nhắc đến, duy nhất, hoặc cả hai đều biết).</i><br><b>Điểm ngữ pháp</b>: Duy nhất → the.",
+   "key": "There is only one window here. Can you open ___ window?|the"
+  },
+  {
+   "question": "I’ve got ___ car.",
+   "a": "a",
+   "b": "the",
+   "c": "an",
+   "full": "I’ve got <b>a</b> car.",
+   "vi": "<i>Tôi có <b>một</b> chiếc xe hơi.</i>",
+   "expl": "a/an = one of many; the thing/person is not specific or mentioned for the first time.<br><i>a/an = một trong nhiều cái; chưa xác định hoặc nhắc lần đầu.</i><br><b>Điểm ngữ pháp</b>: Một trong nhiều xe → a.",
+   "key": "I’ve got ___ car.|a"
+  },
+  {
+   "question": "I’m going to clean ___ car tomorrow.",
+   "a": "the",
+   "b": "a",
+   "c": "an",
+   "full": "I’m going to clean <b>the</b> car tomorrow.",
+   "vi": "<i>Mai tôi sẽ rửa <b>chiếc</b> xe.</i>",
+   "expl": "the = a specific thing/person (already mentioned, the only one, or the one we both know).<br><i>the = vật/người xác định (đã nhắc đến, duy nhất, hoặc cả hai đều biết).</i><br><b>Điểm ngữ pháp</b>: the car = xe của tôi.",
+   "key": "I’m going to clean ___ car tomorrow.|the"
+  },
+  {
+   "question": "Can I ask ___ question?",
+   "a": "a",
+   "b": "the",
+   "c": "an",
+   "full": "Can I ask <b>a</b> question?",
+   "vi": "<i>Tôi hỏi <b>một</b> câu được không?</i>",
+   "expl": "a/an = one of many; the thing/person is not specific or mentioned for the first time.<br><i>a/an = một trong nhiều cái; chưa xác định hoặc nhắc lần đầu.</i><br><b>Điểm ngữ pháp</b>: a question.",
+   "key": "Can I ask ___ question?|a"
+  },
+  {
+   "question": "Can you repeat ___ question, please?",
+   "a": "the",
+   "b": "a",
+   "c": "an",
+   "full": "Can you repeat <b>the</b> question, please?",
+   "vi": "<i>Bạn nhắc lại <b>câu</b> hỏi được không?</i>",
+   "expl": "the = a specific thing/person (already mentioned, the only one, or the one we both know).<br><i>the = vật/người xác định (đã nhắc đến, duy nhất, hoặc cả hai đều biết).</i><br><b>Điểm ngữ pháp</b>: Câu hỏi bạn vừa hỏi → the.",
+   "key": "Can you repeat ___ question, please?|the"
+  },
+  {
+   "question": "Is there ___ hotel near here?",
+   "a": "a",
+   "b": "the",
+   "c": "an",
+   "full": "Is there <b>a</b> hotel near here?",
+   "vi": "<i>Gần đây có <b>khách sạn</b> nào không?</i>",
+   "expl": "a/an = one of many; the thing/person is not specific or mentioned for the first time.<br><i>a/an = một trong nhiều cái; chưa xác định hoặc nhắc lần đầu.</i><br><b>Điểm ngữ pháp</b>: a hotel.",
+   "key": "Is there ___ hotel near here?|a"
+  },
+  {
+   "question": "We enjoyed our holiday. ___ hotel was very nice.",
+   "a": "The",
+   "b": "A",
+   "c": "An",
+   "full": "We enjoyed our holiday. <b>The</b> hotel was very nice.",
+   "vi": "<i>Kỳ nghỉ của chúng tôi rất vui. <b>Khách sạn</b> rất đẹp.</i>",
+   "expl": "the = a specific thing/person (already mentioned, the only one, or the one we both know).<br><i>the = vật/người xác định (đã nhắc đến, duy nhất, hoặc cả hai đều biết).</i><br><b>Điểm ngữ pháp</b>: Khách sạn chúng tôi ở → The.",
+   "key": "We enjoyed our holiday. ___ hotel was very nice.|The"
+  },
+  {
+   "question": "Paris is ___ interesting city.",
+   "a": "an",
+   "b": "the",
+   "c": "a",
+   "full": "Paris is <b>an</b> interesting city.",
+   "vi": "<i>Paris là <b>một</b> thành phố thú vị.</i>",
+   "expl": "a/an = one of many; the thing/person is not specific or mentioned for the first time.<br><i>a/an = một trong nhiều cái; chưa xác định hoặc nhắc lần đầu.</i><br><b>Điểm ngữ pháp</b>: Một trong nhiều → an.",
+   "key": "Paris is ___ interesting city.|an"
+  },
+  {
+   "question": "Paris is ___ capital of France.",
+   "a": "the",
+   "b": "a",
+   "c": "an",
+   "full": "Paris is <b>the</b> capital of France.",
+   "vi": "<i>Paris là <b>thủ đô</b> của Pháp.</i>",
+   "expl": "the = a specific thing/person (already mentioned, the only one, or the one we both know).<br><i>the = vật/người xác định (đã nhắc đến, duy nhất, hoặc cả hai đều biết).</i><br><b>Điểm ngữ pháp</b>: Chỉ có một → the.",
+   "key": "Paris is ___ capital of France.|the"
+  },
+  {
+   "question": "Lisa is ___ student.",
+   "a": "a",
+   "b": "the",
+   "c": "an",
+   "full": "Lisa is <b>a</b> student.",
+   "vi": "<i>Lisa là <b>sinh viên</b>.</i>",
+   "expl": "a/an = one of many; the thing/person is not specific or mentioned for the first time.<br><i>a/an = một trong nhiều cái; chưa xác định hoặc nhắc lần đầu.</i><br><b>Điểm ngữ pháp</b>: a student.",
+   "key": "Lisa is ___ student.|a"
+  },
+  {
+   "question": "Lisa is ___ youngest student in her class.",
+   "a": "the",
+   "b": "a",
+   "c": "an",
+   "full": "Lisa is <b>the</b> youngest student in her class.",
+   "vi": "<i>Lisa là sinh viên <b>nhỏ tuổi nhất</b> lớp.</i>",
+   "expl": "the = a specific thing/person (already mentioned, the only one, or the one we both know).<br><i>the = vật/người xác định (đã nhắc đến, duy nhất, hoặc cả hai đều biết).</i><br><b>Điểm ngữ pháp</b>: Duy nhất → the.",
+   "key": "Lisa is ___ youngest student in her class.|the"
+  },
+  {
+   "question": "I bought a jacket and a shirt. ___ jacket was cheap.",
+   "a": "The",
+   "b": "A",
+   "c": "An",
+   "full": "I bought a jacket and a shirt. <b>The</b> jacket was cheap.",
+   "vi": "<i>Tôi mua một áo khoác và một áo sơ mi. <b>Chiếc áo khoác</b> rẻ.</i>",
+   "expl": "the = a specific thing/person (already mentioned, the only one, or the one we both know).<br><i>the = vật/người xác định (đã nhắc đến, duy nhất, hoặc cả hai đều biết).</i><br><b>Điểm ngữ pháp</b>: Đã nhắc → The.",
+   "key": "I bought a jacket and a shirt. ___ jacket was cheap.|The"
+  },
+  {
+   "question": "We enjoyed our trip. ___ hotel was very nice.",
+   "a": "The",
+   "b": "A",
+   "c": "An",
+   "full": "We enjoyed our trip. <b>The</b> hotel was very nice.",
+   "vi": "<i>Chuyến đi rất vui. <b>Khách sạn</b> rất đẹp.</i>",
+   "expl": "the = a specific thing/person (already mentioned, the only one, or the one we both know).<br><i>the = vật/người xác định (đã nhắc đến, duy nhất, hoặc cả hai đều biết).</i><br><b>Điểm ngữ pháp</b>: The hotel.",
+   "key": "We enjoyed our trip. ___ hotel was very nice.|The"
+  },
+  {
+   "question": "You look very tired. You need ___ holiday.",
+   "a": "a",
+   "b": "the",
+   "c": "an",
+   "full": "You look very tired. You need <b>a</b> holiday.",
+   "vi": "<i>Trông bạn rất mệt. Bạn cần <b>một</b> kỳ nghỉ.</i>",
+   "expl": "a/an = one of many; the thing/person is not specific or mentioned for the first time.<br><i>a/an = một trong nhiều cái; chưa xác định hoặc nhắc lần đầu.</i><br><b>Điểm ngữ pháp</b>: a holiday.",
+   "key": "You look very tired. You need ___ holiday.|a"
+  },
+  {
+   "question": "Eve is ___ interesting person. You should meet her.",
+   "a": "an",
+   "b": "the",
+   "c": "a",
+   "full": "Eve is <b>an</b> interesting person. You should meet her.",
+   "vi": "<i>Eve là <b>một</b> người thú vị. Bạn nên gặp cô ấy.</i>",
+   "expl": "a/an = one of many; the thing/person is not specific or mentioned for the first time.<br><i>a/an = một trong nhiều cái; chưa xác định hoặc nhắc lần đầu.</i><br><b>Điểm ngữ pháp</b>: an interesting person.",
+   "key": "Eve is ___ interesting person. You should meet her.|an"
+  },
+  {
+   "question": "Shall we go out for ___ meal this evening?",
+   "a": "a",
+   "b": "the",
+   "c": "an",
+   "full": "Shall we go out for <b>a</b> meal this evening?",
+   "vi": "<i>Tối nay đi ăn <b>một bữa</b> ngoài nhé?</i>",
+   "expl": "a/an = one of many; the thing/person is not specific or mentioned for the first time.<br><i>a/an = một trong nhiều cái; chưa xác định hoặc nhắc lần đầu.</i><br><b>Điểm ngữ pháp</b>: a meal.",
+   "key": "Shall we go out for ___ meal this evening?|a"
+  },
+  {
+   "question": "Yes, that’s ___ good idea.",
+   "a": "a",
+   "b": "the",
+   "c": "an",
+   "full": "Yes, that’s <b>a</b> good idea.",
+   "vi": "<i>Được, đó là <b>một</b> ý hay.</i>",
+   "expl": "a/an = one of many; the thing/person is not specific or mentioned for the first time.<br><i>a/an = một trong nhiều cái; chưa xác định hoặc nhắc lần đầu.</i><br><b>Điểm ngữ pháp</b>: a good idea.",
+   "key": "Yes, that’s ___ good idea.|a"
+  },
+  {
+   "question": "It’s ___ nice morning. Let’s go for a walk.",
+   "a": "a",
+   "b": "the",
+   "c": "an",
+   "full": "It’s <b>a</b> nice morning. Let’s go for a walk.",
+   "vi": "<i>Hôm nay là <b>một</b> buổi sáng đẹp. Đi dạo đi.</i>",
+   "expl": "a/an = one of many; the thing/person is not specific or mentioned for the first time.<br><i>a/an = một trong nhiều cái; chưa xác định hoặc nhắc lần đầu.</i><br><b>Điểm ngữ pháp</b>: a nice morning.",
+   "key": "It’s ___ nice morning. Let’s go for a walk.|a"
+  },
+  {
+   "question": "Amanda is a student. When she finishes her studies, she wants to be ___ journalist.",
+   "a": "a",
+   "b": "the",
+   "c": "an",
+   "full": "Amanda is a student. When she finishes her studies, she wants to be <b>a</b> journalist.",
+   "vi": "<i>Amanda là sinh viên. Học xong cô ấy muốn làm <b>nhà báo</b>.</i>",
+   "expl": "a/an = one of many; the thing/person is not specific or mentioned for the first time.<br><i>a/an = một trong nhiều cái; chưa xác định hoặc nhắc lần đầu.</i><br><b>Điểm ngữ pháp</b>: Nghề nghiệp → a.",
+   "key": "Amanda is a student. When she finishes her studies, she wants to be ___ journalist.|a"
+  },
+  {
+   "question": "She lives in an apartment near ___ college where she is studying.",
+   "a": "the",
+   "b": "a",
+   "c": "an",
+   "full": "She lives in an apartment near <b>the</b> college where she is studying.",
+   "vi": "<i>Cô ấy sống trong căn hộ gần <b>trường</b> cô ấy đang học.</i>",
+   "expl": "the = a specific thing/person (already mentioned, the only one, or the one we both know).<br><i>the = vật/người xác định (đã nhắc đến, duy nhất, hoặc cả hai đều biết).</i><br><b>Điểm ngữ pháp</b>: Trường xác định → the.",
+   "key": "She lives in an apartment near ___ college where she is studying.|the"
+  },
+  {
+   "question": "___ apartment is small, but she likes it.",
+   "a": "The",
+   "b": "An",
+   "c": "A",
+   "full": "<b>The</b> apartment is small, but she likes it.",
+   "vi": "<i><b>Căn hộ</b> nhỏ, nhưng cô ấy thích.</i>",
+   "expl": "the = a specific thing/person (already mentioned, the only one, or the one we both know).<br><i>the = vật/người xác định (đã nhắc đến, duy nhất, hoặc cả hai đều biết).</i><br><b>Điểm ngữ pháp</b>: Đã nhắc → The.",
+   "key": "___ apartment is small, but she likes it.|The"
+  },
+  {
+   "question": "Peter and Mary have two children, ___ boy and a girl.",
+   "a": "a",
+   "b": "the",
+   "c": "an",
+   "full": "Peter and Mary have two children, <b>a</b> boy and a girl.",
+   "vi": "<i>Peter và Mary có hai con, <b>một</b> trai và một gái.</i>",
+   "expl": "a/an = one of many; the thing/person is not specific or mentioned for the first time.<br><i>a/an = một trong nhiều cái; chưa xác định hoặc nhắc lần đầu.</i><br><b>Điểm ngữ pháp</b>: Nhắc lần đầu → a.",
+   "key": "Peter and Mary have two children, ___ boy and a girl.|a"
+  },
+  {
+   "question": "___ boy is seven years old, and the girl is three.",
+   "a": "The",
+   "b": "A",
+   "c": "An",
+   "full": "<b>The</b> boy is seven years old, and the girl is three.",
+   "vi": "<i><b>Cậu con trai</b> bảy tuổi, còn con gái ba tuổi.</i>",
+   "expl": "the = a specific thing/person (already mentioned, the only one, or the one we both know).<br><i>the = vật/người xác định (đã nhắc đến, duy nhất, hoặc cả hai đều biết).</i><br><b>Điểm ngữ pháp</b>: Đã nhắc → The.",
+   "key": "___ boy is seven years old, and the girl is three.|The"
+  },
+  {
+   "question": "Peter works in ___ factory.",
+   "a": "a",
+   "b": "the",
+   "c": "an",
+   "full": "Peter works in <b>a</b> factory.",
+   "vi": "<i>Peter làm ở <b>một</b> nhà máy.</i>",
+   "expl": "a/an = one of many; the thing/person is not specific or mentioned for the first time.<br><i>a/an = một trong nhiều cái; chưa xác định hoặc nhắc lần đầu.</i><br><b>Điểm ngữ pháp</b>: a factory.",
+   "key": "Peter works in ___ factory.|a"
+  },
+  {
+   "question": "Mary doesn’t have ___ job at the moment.",
+   "a": "a",
+   "b": "the",
+   "c": "an",
+   "full": "Mary doesn’t have <b>a</b> job at the moment.",
+   "vi": "<i>Hiện Mary không có <b>việc làm</b>.</i>",
+   "expl": "a/an = one of many; the thing/person is not specific or mentioned for the first time.<br><i>a/an = một trong nhiều cái; chưa xác định hoặc nhắc lần đầu.</i><br><b>Điểm ngữ pháp</b>: a job.",
+   "key": "Mary doesn’t have ___ job at the moment.|a"
+  },
+  {
+   "question": "Enjoy your trip, and don’t forget to send me ___ postcard.",
+   "a": "a",
+   "b": "the",
+   "c": "an",
+   "full": "Enjoy your trip, and don’t forget to send me <b>a</b> postcard.",
+   "vi": "<i>Đi chơi vui nhé, và đừng quên gửi tôi <b>một tấm</b> bưu thiếp.</i>",
+   "expl": "a/an = one of many; the thing/person is not specific or mentioned for the first time.<br><i>a/an = một trong nhiều cái; chưa xác định hoặc nhắc lần đầu.</i><br><b>Điểm ngữ pháp</b>: a postcard.",
+   "key": "Enjoy your trip, and don’t forget to send me ___ postcard.|a"
+  },
+  {
+   "question": "Canada is ___ very big country.",
+   "a": "a",
+   "b": "the",
+   "c": "an",
+   "full": "Canada is <b>a</b> very big country.",
+   "vi": "<i>Canada là <b>một</b> đất nước rất rộng lớn.</i>",
+   "expl": "a/an = one of many; the thing/person is not specific or mentioned for the first time.<br><i>a/an = một trong nhiều cái; chưa xác định hoặc nhắc lần đầu.</i><br><b>Điểm ngữ pháp</b>: a very big country.",
+   "key": "Canada is ___ very big country.|a"
+  },
+  {
+   "question": "What is ___ largest city in Canada?",
+   "a": "the",
+   "b": "a",
+   "c": "an",
+   "full": "What is <b>the</b> largest city in Canada?",
+   "vi": "<i>Thành phố <b>lớn nhất</b> Canada là gì?</i>",
+   "expl": "the = a specific thing/person (already mentioned, the only one, or the one we both know).<br><i>the = vật/người xác định (đã nhắc đến, duy nhất, hoặc cả hai đều biết).</i><br><b>Điểm ngữ pháp</b>: So sánh nhất → the.",
+   "key": "What is ___ largest city in Canada?|the"
+  },
+  {
+   "question": "‘Are you OK?’ ‘No, I’ve got ___ headache.’",
+   "a": "a",
+   "b": "the",
+   "c": "an",
+   "full": "‘Are you OK?’ ‘No, I’ve got <b>a</b> headache.’",
+   "vi": "<i>‘Bạn ổn chứ?’ ‘Không, tôi bị <b>đau đầu</b>.’</i>",
+   "expl": "a/an = one of many; the thing/person is not specific or mentioned for the first time.<br><i>a/an = một trong nhiều cái; chưa xác định hoặc nhắc lần đầu.</i><br><b>Điểm ngữ pháp</b>: a headache.",
+   "key": "‘Are you OK?’ ‘No, I’ve got ___ headache.’|a"
+  },
+  {
+   "question": "We live in ___ old house near the station.",
+   "a": "an",
+   "b": "the",
+   "c": "a",
+   "full": "We live in <b>an</b> old house near the station.",
+   "vi": "<i>Chúng tôi sống trong <b>một</b> ngôi nhà cũ gần ga.</i>",
+   "expl": "a/an = one of many; the thing/person is not specific or mentioned for the first time.<br><i>a/an = một trong nhiều cái; chưa xác định hoặc nhắc lần đầu.</i><br><b>Điểm ngữ pháp</b>: an old house.",
+   "key": "We live in ___ old house near the station.|an"
+  },
+  {
+   "question": "‘Where’s Tom?’ ‘He’s in ___ garden.’",
+   "a": "the",
+   "b": "a",
+   "c": "an",
+   "full": "‘Where’s Tom?’ ‘He’s in <b>the</b> garden.’",
+   "vi": "<i>‘Tom đâu?’ ‘Anh ấy ở ngoài <b>vườn</b>.’</i>",
+   "expl": "the … when it is clear which one we mean (the door, the kitchen, the centre, the manager).<br><i>the … khi đã rõ là cái nào (the door, the kitchen, the centre, the manager).</i><br><b>Điểm ngữ pháp</b>: Vườn của nhà này → the.",
+   "key": "‘Where’s Tom?’ ‘He’s in ___ garden.’|the"
+  },
+  {
+   "question": "‘Where’s Tom?’ ‘In ___ kitchen.’",
+   "a": "the",
+   "b": "a",
+   "c": "an",
+   "full": "‘Where’s Tom?’ ‘In <b>the</b> kitchen.’",
+   "vi": "<i>‘Tom đâu?’ ‘Trong <b>bếp</b>.’</i>",
+   "expl": "the … when it is clear which one we mean (the door, the kitchen, the centre, the manager).<br><i>the … khi đã rõ là cái nào (the door, the kitchen, the centre, the manager).</i><br><b>Điểm ngữ pháp</b>: the kitchen.",
+   "key": "‘Where’s Tom?’ ‘In ___ kitchen.’|the"
+  },
+  {
+   "question": "Turn off ___ light and close the door.",
+   "a": "the",
+   "b": "a",
+   "c": "an",
+   "full": "Turn off <b>the</b> light and close the door.",
+   "vi": "<i>Tắt <b>đèn</b> và đóng cửa lại.</i>",
+   "expl": "the … when it is clear which one we mean (the door, the kitchen, the centre, the manager).<br><i>the … khi đã rõ là cái nào (the door, the kitchen, the centre, the manager).</i><br><b>Điểm ngữ pháp</b>: the light (của phòng).",
+   "key": "Turn off ___ light and close the door.|the"
+  },
+  {
+   "question": "Do you live far from ___ centre?",
+   "a": "the",
+   "b": "a",
+   "c": "an",
+   "full": "Do you live far from <b>the</b> centre?",
+   "vi": "<i>Bạn sống có xa <b>trung tâm</b> không?</i>",
+   "expl": "the … when it is clear which one we mean (the door, the kitchen, the centre, the manager).<br><i>the … khi đã rõ là cái nào (the door, the kitchen, the centre, the manager).</i><br><b>Điểm ngữ pháp</b>: the centre (của thị trấn).",
+   "key": "Do you live far from ___ centre?|the"
+  },
+  {
+   "question": "I’d like to speak to ___ manager, please.",
+   "a": "the",
+   "b": "a",
+   "c": "an",
+   "full": "I’d like to speak to <b>the</b> manager, please.",
+   "vi": "<i>Tôi muốn gặp <b>người quản lý</b>.</i>",
+   "expl": "the … when it is clear which one we mean (the door, the kitchen, the centre, the manager).<br><i>the … khi đã rõ là cái nào (the door, the kitchen, the centre, the manager).</i><br><b>Điểm ngữ pháp</b>: the manager (của cửa hàng).",
+   "key": "I’d like to speak to ___ manager, please.|the"
+  },
+  {
+   "question": "Excuse me, can you tell me how to get to ___ city centre?",
+   "a": "the",
+   "b": "a",
+   "c": "an",
+   "full": "Excuse me, can you tell me how to get to <b>the</b> city centre?",
+   "vi": "<i>Xin lỗi, đến <b>trung tâm thành phố</b> đi đường nào?</i>",
+   "expl": "the … when it is clear which one we mean (the door, the kitchen, the centre, the manager).<br><i>the … khi đã rõ là cái nào (the door, the kitchen, the centre, the manager).</i><br><b>Điểm ngữ pháp</b>: the city centre.",
+   "key": "Excuse me, can you tell me how to get to ___ city centre?|the"
+  },
+  {
+   "question": "Go straight on and then take ___ next turning left.",
+   "a": "the",
+   "b": "a",
+   "c": "an",
+   "full": "Go straight on and then take <b>the</b> next turning left.",
+   "vi": "<i>Đi thẳng rồi rẽ trái ở <b>ngã rẽ tiếp theo</b>.</i>",
+   "expl": "the … when it is clear which one we mean (the door, the kitchen, the centre, the manager).<br><i>the … khi đã rõ là cái nào (the door, the kitchen, the centre, the manager).</i><br><b>Điểm ngữ pháp</b>: the next turning.",
+   "key": "Go straight on and then take ___ next turning left.|the"
+  },
+  {
+   "question": "How far is it to ___ airport?",
+   "a": "the",
+   "b": "an",
+   "c": "a",
+   "full": "How far is it to <b>the</b> airport?",
+   "vi": "<i>Đến <b>sân bay</b> bao xa?</i>",
+   "expl": "the … when it is clear which one we mean (the door, the kitchen, the centre, the manager).<br><i>the … khi đã rõ là cái nào (the door, the kitchen, the centre, the manager).</i><br><b>Điểm ngữ pháp</b>: the airport (của thành phố).",
+   "key": "How far is it to ___ airport?|the"
+  },
+  {
+   "question": "Can you open ___ door, please?",
+   "a": "the",
+   "b": "a",
+   "c": "an",
+   "full": "Can you open <b>the</b> door, please?",
+   "vi": "<i>Bạn mở <b>cửa</b> giúp được không?</i>",
+   "expl": "the … when it is clear which one we mean (the door, the kitchen, the centre, the manager).<br><i>the … khi đã rõ là cái nào (the door, the kitchen, the centre, the manager).</i><br><b>Điểm ngữ pháp</b>: the door.",
+   "key": "Can you open ___ door, please?|the"
+  },
+  {
+   "question": "Can I have ___ cup of coffee, please?",
+   "a": "a",
+   "b": "the",
+   "c": "an",
+   "full": "Can I have <b>a</b> cup of coffee, please?",
+   "vi": "<i>Cho tôi <b>một tách</b> cà phê được không?</i>",
+   "expl": "the … when it is clear which one we mean (the door, the kitchen, the centre, the manager).<br><i>the … khi đã rõ là cái nào (the door, the kitchen, the centre, the manager).</i><br><b>Điểm ngữ pháp</b>: a cup of coffee.",
+   "key": "Can I have ___ cup of coffee, please?|a"
+  },
+  {
+   "question": "Can you pass me ___ dictionary, please?",
+   "a": "the",
+   "b": "a",
+   "c": "an",
+   "full": "Can you pass me <b>the</b> dictionary, please?",
+   "vi": "<i>Bạn đưa tôi <b>cuốn từ điển</b> được không?</i>",
+   "expl": "the … when it is clear which one we mean (the door, the kitchen, the centre, the manager).<br><i>the … khi đã rõ là cái nào (the door, the kitchen, the centre, the manager).</i><br><b>Điểm ngữ pháp</b>: Cuốn từ điển ở đó → the.",
+   "key": "Can you pass me ___ dictionary, please?|the"
+  },
+  {
+   "question": "That’s ___ nice picture – I like it.",
+   "a": "a",
+   "b": "the",
+   "c": "an",
+   "full": "That’s <b>a</b> nice picture – I like it.",
+   "vi": "<i>Đó là <b>một bức tranh</b> đẹp – tôi thích nó.</i>",
+   "expl": "the … when it is clear which one we mean (the door, the kitchen, the centre, the manager).<br><i>the … khi đã rõ là cái nào (the door, the kitchen, the centre, the manager).</i><br><b>Điểm ngữ pháp</b>: a nice picture.",
+   "key": "That’s ___ nice picture – I like it.|a"
+  },
+  {
+   "question": "Why are you sitting on ___ floor?",
+   "a": "the",
+   "b": "a",
+   "c": "an",
+   "full": "Why are you sitting on <b>the</b> floor?",
+   "vi": "<i>Sao bạn ngồi dưới <b>sàn</b>?</i>",
+   "expl": "the … when it is clear which one we mean (the door, the kitchen, the centre, the manager).<br><i>the … khi đã rõ là cái nào (the door, the kitchen, the centre, the manager).</i><br><b>Điểm ngữ pháp</b>: the floor.",
+   "key": "Why are you sitting on ___ floor?|the"
+  },
+  {
+   "question": "Don’t forget to turn off ___ light when you go out.",
+   "a": "the",
+   "b": "a",
+   "c": "an",
+   "full": "Don’t forget to turn off <b>the</b> light when you go out.",
+   "vi": "<i>Đừng quên tắt <b>đèn</b> khi ra ngoài.</i>",
+   "expl": "the … when it is clear which one we mean (the door, the kitchen, the centre, the manager).<br><i>the … khi đã rõ là cái nào (the door, the kitchen, the centre, the manager).</i><br><b>Điểm ngữ pháp</b>: the light.",
+   "key": "Don’t forget to turn off ___ light when you go out.|the"
+  },
+  {
+   "question": "What is ___ name of this village?",
+   "a": "the",
+   "b": "a",
+   "c": "an",
+   "full": "What is <b>the</b> name of this village?",
+   "vi": "<i><b>Tên</b> của ngôi làng này là gì?</i>",
+   "expl": "the … when it is clear which one we mean (the door, the kitchen, the centre, the manager).<br><i>the … khi đã rõ là cái nào (the door, the kitchen, the centre, the manager).</i><br><b>Điểm ngữ pháp</b>: the name of …",
+   "key": "What is ___ name of this village?|the"
+  },
+  {
+   "question": "I like this room, but I don’t like the colour of ___ carpet.",
+   "a": "the",
+   "b": "a",
+   "c": "an",
+   "full": "I like this room, but I don’t like the colour of <b>the</b> carpet.",
+   "vi": "<i>Tôi thích căn phòng này, nhưng không thích màu của <b>tấm thảm</b>.</i>",
+   "expl": "the … when it is clear which one we mean (the door, the kitchen, the centre, the manager).<br><i>the … khi đã rõ là cái nào (the door, the kitchen, the centre, the manager).</i><br><b>Điểm ngữ pháp</b>: the carpet (của phòng).",
+   "key": "I like this room, but I don’t like the colour of ___ carpet.|the"
+  }
+ ]
+}
