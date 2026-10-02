@@ -1,0 +1,312 @@
+{
+ "book": "upp",
+ "unit": 34,
+ "title_vi": "Máy tính",
+ "theory_html": "<p><b>A. Hardware</b><br><i>A. Phần cứng</i></p> <p><b>personal computer / PC / desktop computer, laptop, tablet, hard disk, device, disk drive, scanner, memory stick (plug into), RAM / memory (gigabytes), (micro)chip, network (networked)</b>.</p><p><i><b>máy tính để bàn, máy tính xách tay, máy tính bảng, ổ cứng, thiết bị, ổ đĩa, máy quét, USB, bộ nhớ, vi mạch, mạng</b>.</i></p> <p><b>B. Software</b><br><i>B. Phần mềm</i></p> <p><b>application (app), word-processing, spreadsheet, database, (computer) graphics, virus, display, icons, cursor</b>.</p><p><i><b>ứng dụng, xử lý văn bản, bảng tính, cơ sở dữ liệu, đồ họa, virus, màn hình hiển thị, biểu tượng, con trỏ</b>.</i></p> <p><b>C. Some computing verbs</b><br><i>C. Động từ tin học</i></p> <p><b>store, back up, delete, crash; undo, click, key in; upgrade, run, download</b>.</p><p><i><b>lưu, sao lưu, xóa, treo máy; hoàn tác, nhấp, gõ vào; nâng cấp, chạy, tải về</b>.</i></p>",
+ "items": [
+  {
+   "word": "desktop computer",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌdesktɒp kəmˈpjuːtə(r)/",
+   "def_en": "A computer that fits on a desk.",
+   "def_vi": "Máy tính vừa trên bàn làm việc.",
+   "gloss_vi": "máy tính để bàn",
+   "synonyms": "PC <i>(n. máy tính cá nhân)</i>",
+   "antonyms": "laptop <i>(n. máy tính xách tay)</i>",
+   "grammar_vi": "<i>Desktop computer</i> (noun phrase) = máy tính để bàn. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "A <b>desktop computer</b> is a computer that fits on a desk, used by individuals at work or at home.",
+    "vi": "<b>Máy tính để bàn</b> là máy vừa trên bàn, dùng ở cơ quan hay nhà."
+   }
+  },
+  {
+   "word": "tablet",
+   "sense": "computer",
+   "pos": "noun",
+   "ipa": "/ˈtæblət/",
+   "def_en": "A portable personal computer operated by a touch screen.",
+   "def_vi": "Máy tính cá nhân cầm tay dùng màn hình cảm ứng.",
+   "gloss_vi": "máy tính bảng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tablet</i> (noun) = máy tính bảng. <b>Grammar</b>: cũng = viên thuốc.",
+   "example": {
+    "en": "A <b>tablet</b> is a portable personal computer operated by a touch screen.",
+    "vi": "<b>Máy tính bảng</b> là máy tính cầm tay điều khiển bằng màn hình cảm ứng."
+   }
+  },
+  {
+   "word": "hard disk",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌhɑːd ˈdɪsk/",
+   "def_en": "A device inside a computer that stores large amounts of information.",
+   "def_vi": "Thiết bị trong máy lưu nhiều thông tin.",
+   "gloss_vi": "ổ cứng",
+   "synonyms": "hard drive <i>(np. ổ cứng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hard disk</i> (noun phrase) = ổ cứng. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "A <b>hard disk</b> is a device inside a computer that stores large amounts of information.",
+    "vi": "<b>Ổ cứng</b> là thiết bị trong máy tính lưu lượng lớn thông tin."
+   }
+  },
+  {
+   "word": "disk drive",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈdɪsk draɪv/",
+   "def_en": "A device that allows information to be read from a disk.",
+   "def_vi": "Thiết bị đọc thông tin từ đĩa.",
+   "gloss_vi": "ổ đĩa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Disk drive</i> (noun phrase) = ổ đĩa. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "A <b>disk drive</b> is a device that allows information to be read from a disk.",
+    "vi": "<b>Ổ đĩa</b> là thiết bị đọc thông tin từ đĩa."
+   }
+  },
+  {
+   "word": "plug into",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌplʌɡ ˈɪntə/",
+   "def_en": "To connect a device to a machine.",
+   "def_vi": "Cắm thiết bị vào máy.",
+   "gloss_vi": "cắm vào",
+   "synonyms": "connect <i>(v. kết nối)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Plug into</i> (phrasal verb) = cắm vào. <b>Grammar</b>: <i>plug sth into sth</i>.",
+   "example": {
+    "en": "You can then <b>plug</b> the stick <b>into</b> any machine.",
+    "vi": "Bạn có thể <b>cắm</b> USB <b>vào</b> bất kỳ máy nào."
+   }
+  },
+  {
+   "word": "RAM",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ræm/",
+   "def_en": "Random access memory: memory to store and use information temporarily.",
+   "def_vi": "Bộ nhớ truy cập ngẫu nhiên, lưu tạm thông tin.",
+   "gloss_vi": "bộ nhớ RAM",
+   "synonyms": "memory <i>(n. bộ nhớ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>RAM</i> (noun) = bộ nhớ RAM. <b>Grammar</b>: đọc /ræm/.",
+   "example": {
+    "en": "<b>RAM</b> is the memory available on a computer to store and use information temporarily.",
+    "vi": "<b>RAM</b> là bộ nhớ dùng để lưu và dùng thông tin tạm thời."
+   }
+  },
+  {
+   "word": "gigabyte",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡɪɡəbaɪt/",
+   "def_en": "A unit of computer memory.",
+   "def_vi": "Đơn vị bộ nhớ máy tính.",
+   "gloss_vi": "gigabyte",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gigabyte</i> (noun) = gigabyte. <b>Grammar</b>: viết tắt <i>GB</i>.",
+   "example": {
+    "en": "Memory can be measured in <b>gigabytes</b>.",
+    "vi": "Bộ nhớ có thể được đo bằng <b>gigabyte</b>."
+   }
+  },
+  {
+   "word": "microchip",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmaɪkrəʊtʃɪp/",
+   "def_en": "A very small piece of semiconductor containing tiny electronic circuits.",
+   "def_vi": "Mảnh bán dẫn rất nhỏ chứa mạch điện tử.",
+   "gloss_vi": "vi mạch",
+   "synonyms": "chip <i>(n. chip)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Microchip</i> (noun) = vi mạch. <b>Grammar</b>: cũng <i>chip</i>.",
+   "example": {
+    "en": "A <b>microchip</b> contains extremely small electronic circuits and devices.",
+    "vi": "<b>Vi mạch</b> chứa những mạch điện tử cực nhỏ."
+   }
+  },
+  {
+   "word": "network",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈnetwɜːk/",
+   "def_en": "A number of computers connected together so they can share information.",
+   "def_vi": "Nhiều máy tính kết nối để chia sẻ thông tin.",
+   "gloss_vi": "mạng máy tính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Network</i> (noun) = mạng máy tính. <b>Grammar</b>: <i>networked</i> (adj.).",
+   "example": {
+    "en": "A <b>network</b> is when a number of computers are connected together so that they can share information.",
+    "vi": "<b>Mạng</b> là khi nhiều máy tính được kết nối để chia sẻ thông tin."
+   }
+  },
+  {
+   "word": "app",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/æp/",
+   "def_en": "A piece of software designed for a specific purpose.",
+   "def_vi": "Phần mềm cho một mục đích cụ thể.",
+   "gloss_vi": "ứng dụng",
+   "synonyms": "application <i>(n. ứng dụng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>App</i> (noun) = ứng dụng. <b>Grammar</b>: viết tắt <i>application</i>.",
+   "example": {
+    "en": "You can get mobile phone <b>apps</b> for all sorts of things these days.",
+    "vi": "Ngày nay có <b>ứng dụng</b> điện thoại cho đủ thứ."
+   }
+  },
+  {
+   "word": "word-processing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɜːd ˌprəʊsesɪŋ/",
+   "def_en": "Writing and storing printed text on a computer.",
+   "def_vi": "Viết và lưu văn bản trên máy tính.",
+   "gloss_vi": "xử lý văn bản",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Word-processing</i> (noun) = xử lý văn bản. <b>Grammar</b>: <i>word processor</i>.",
+   "example": {
+    "en": "<b>word-processing</b>: writing and storing printed text on a computer",
+    "vi": "<b>Xử lý văn bản</b> là viết và lưu văn bản trên máy tính."
+   }
+  },
+  {
+   "word": "spreadsheet",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈspredʃiːt/",
+   "def_en": "A program or grid for performing mathematical operations.",
+   "def_vi": "Chương trình hay lưới để tính toán.",
+   "gloss_vi": "bảng tính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spreadsheet</i> (noun) = bảng tính. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "<b>spreadsheet</b>: a program, or the grid you create with it, to perform mathematical operations",
+    "vi": "<b>Bảng tính</b> là chương trình để thực hiện phép toán."
+   }
+  },
+  {
+   "word": "graphics",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈɡræfɪks/",
+   "def_en": "Pictures, images and symbols formed on a computer.",
+   "def_vi": "Tranh, hình, ký hiệu tạo trên máy tính.",
+   "gloss_vi": "đồ họa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Graphics</i> (plural noun) = đồ họa. <b>Grammar</b>: số nhiều.",
+   "example": {
+    "en": "<b>graphics</b>: pictures, images and symbols that you can form on a computer",
+    "vi": "<b>Đồ họa</b> là hình ảnh và ký hiệu tạo trên máy tính."
+   }
+  },
+  {
+   "word": "display",
+   "sense": "screen",
+   "pos": "noun",
+   "ipa": "/dɪˈspleɪ/",
+   "def_en": "What you see on the screen of an electronic device.",
+   "def_vi": "Những gì thấy trên màn hình thiết bị.",
+   "gloss_vi": "màn hình hiển thị",
+   "synonyms": "screen <i>(n. màn hình)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Display</i> (noun) = màn hình hiển thị. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "A computer shows a range of icons on its <b>display</b>.",
+    "vi": "Máy tính hiện nhiều biểu tượng trên <b>màn hình</b>."
+   }
+  },
+  {
+   "word": "cursor",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɜːsə(r)/",
+   "def_en": "The mark on a screen that shows where you are working.",
+   "def_vi": "Dấu trên màn hình cho biết vị trí làm việc.",
+   "gloss_vi": "con trỏ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cursor</i> (noun) = con trỏ. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "You put the <b>cursor</b> on the one you want to use and click on it.",
+    "vi": "Đặt <b>con trỏ</b> vào biểu tượng muốn dùng và nhấp vào."
+   }
+  },
+  {
+   "word": "undo",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ʌnˈduː/",
+   "def_en": "To cancel the last thing you did on a computer.",
+   "def_vi": "Hủy thao tác vừa làm trên máy tính.",
+   "gloss_vi": "hoàn tác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "redo <i>(v. làm lại)</i>",
+   "grammar_vi": "<i>Undo</i> (verb) = hoàn tác. <b>Grammar</b>: <i>undo – undid – undone</i>.",
+   "example": {
+    "en": "The feature allows you to <b>undo</b> what you have just done.",
+    "vi": "Tính năng cho phép bạn <b>hoàn tác</b> việc vừa làm."
+   }
+  },
+  {
+   "word": "key in",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌkiː ˈɪn/",
+   "def_en": "To type information into a computer.",
+   "def_vi": "Gõ thông tin vào máy tính.",
+   "gloss_vi": "gõ vào, nhập",
+   "synonyms": "type in <i>(pv. gõ vào)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Key in</i> (phrasal verb) = gõ vào, nhập. <b>Grammar</b>: tách được.",
+   "example": {
+    "en": "It’s quick and easy to correct anything that you have <b>keyed in</b> by mistake.",
+    "vi": "Dễ dàng sửa bất cứ thứ gì bạn <b>gõ</b> nhầm."
+   }
+  },
+  {
+   "word": "upgrade",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌʌpˈɡreɪd/",
+   "def_en": "To make a computer or software newer and more powerful.",
+   "def_vi": "Làm máy tính hay phần mềm mới và mạnh hơn.",
+   "gloss_vi": "nâng cấp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Upgrade</i> (verb) = nâng cấp. <b>Grammar</b>: danh từ /ˈʌpɡreɪd/.",
+   "example": {
+    "en": "After a few years you may want to <b>upgrade</b> your computer.",
+    "vi": "Sau vài năm bạn có thể muốn <b>nâng cấp</b> máy tính."
+   }
+  },
+  {
+   "word": "run",
+   "sense": "software",
+   "pos": "verb",
+   "ipa": "/rʌn/",
+   "def_en": "(Of a computer) to operate a program.",
+   "def_vi": "(Máy tính) chạy chương trình.",
+   "gloss_vi": "chạy (phần mềm)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Run</i> (verb) = chạy (phần mềm). <b>Grammar</b>: <i>run a program</i>.",
+   "example": {
+    "en": "If you don’t do this you may not be able to <b>run</b> all the software you need.",
+    "vi": "Nếu không nâng cấp, bạn có thể không <b>chạy</b> được phần mềm cần thiết."
+   }
+  }
+ ]
+}

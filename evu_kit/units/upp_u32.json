@@ -1,0 +1,400 @@
+{
+ "book": "upp",
+ "unit": 32,
+ "title_vi": "Kỳ nghỉ",
+ "theory_html": "<p><b>A. Places to stay and types of holiday</b><br><i>A. Chỗ ở và loại kỳ nghỉ</i></p> <p><b>campsite (pitch a tent, caravan), self-catering flat, guesthouse, youth hostel (bunk beds), package holiday (excursions), cruise (cruising), adventure holiday (adventurous)</b>.</p><p><i><b>khu cắm trại, dựng lều, nhà di động, căn hộ tự nấu, nhà khách, giường tầng, tour trọn gói, chuyến tham quan, du thuyền</b>.</i></p> <p><b>B. Holiday messages</b><br><i>B. Tin nhắn kỳ nghỉ</i></p> <p><b>get away; remote; winding road; surrounding countryside; terrifying; memorable; fascinating; impressive; delightful; inconvenient; exceptional</b>.</p><p><i><b>đi xa, hẻo lánh, quanh co, xung quanh, đáng sợ, đáng nhớ, hấp dẫn, ấn tượng, dễ chịu, bất tiện, đặc biệt xuất sắc</b>.</i></p> <p><b>C. Holiday brochures</b><br><i>C. Tờ quảng cáo du lịch</i></p> <p><b>breathtaking (stunning) views; exclusive access; exhilarating ride; exotic location; glamorous hotel; luxurious accommodation; picturesque villages (as pretty as a picture); unspoilt charm; unique opportunity</b>.</p><p><i><b>ngoạn mục, độc quyền, phấn khích, kỳ lạ hấp dẫn, quyến rũ, sang trọng, đẹp như tranh, hoang sơ, độc nhất</b>.</i></p>",
+ "items": [
+  {
+   "word": "pitch a tent",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌpɪtʃ ə ˈtent/",
+   "def_en": "To put up a tent.",
+   "def_vi": "Dựng lều.",
+   "gloss_vi": "dựng lều",
+   "synonyms": "put up a tent <i>(vp. dựng lều)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pitch a tent</i> (verb phrase) = dựng lều. <b>Grammar</b>: <i>pitch</i> = dựng.",
+   "example": {
+    "en": "A campsite is a place where you can <b>pitch a tent</b> or park a caravan.",
+    "vi": "Khu cắm trại là nơi bạn có thể <b>dựng lều</b> hay đỗ nhà di động."
+   }
+  },
+  {
+   "word": "caravan",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkærəvæn/",
+   "def_en": "A vehicle with beds, pulled by a car, for living in on holiday.",
+   "def_vi": "Xe có giường do ô tô kéo, để ở khi đi nghỉ.",
+   "gloss_vi": "nhà lưu động (xe kéo)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Caravan</i> (noun) = nhà lưu động (xe kéo). <b>Grammar</b>: Mỹ <i>trailer</i>.",
+   "example": {
+    "en": "You can pitch a tent or park a <b>caravan</b>.",
+    "vi": "Bạn có thể dựng lều hay đỗ <b>nhà lưu động</b>."
+   }
+  },
+  {
+   "word": "self-catering",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌself ˈkeɪtərɪŋ/",
+   "def_en": "(Of accommodation) where you cook for yourself.",
+   "def_vi": "(Chỗ ở) nơi bạn tự nấu ăn.",
+   "gloss_vi": "tự nấu ăn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Self-catering</i> (adjective) = tự nấu ăn. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "A <b>self-catering</b> flat is a flat which you rent; you cook for yourself.",
+    "vi": "Căn hộ <b>tự nấu ăn</b> là căn hộ bạn thuê và tự nấu."
+   }
+  },
+  {
+   "word": "guesthouse",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡesthaʊs/",
+   "def_en": "Accommodation like a hotel but cheaper with fewer services.",
+   "def_vi": "Chỗ ở như khách sạn nhưng rẻ hơn, ít dịch vụ.",
+   "gloss_vi": "nhà khách",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Guesthouse</i> (noun) = nhà khách. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "A <b>guesthouse</b> is accommodation like a hotel but cheaper and with fewer services.",
+    "vi": "<b>Nhà khách</b> giống khách sạn nhưng rẻ hơn và ít dịch vụ hơn."
+   }
+  },
+  {
+   "word": "bunk beds",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈbʌŋk bedz/",
+   "def_en": "Two beds, one on top of the other.",
+   "def_vi": "Hai giường chồng lên nhau.",
+   "gloss_vi": "giường tầng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bunk beds</i> (noun phrase) = giường tầng. <b>Grammar</b>: số nhiều.",
+   "example": {
+    "en": "Ten or more people sleep in <b>bunk beds</b> in one room.",
+    "vi": "Mười người ngủ <b>giường tầng</b> trong một phòng."
+   }
+  },
+  {
+   "word": "excursion",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪkˈskɜːʃn/",
+   "def_en": "A short organised trip.",
+   "def_vi": "Chuyến đi ngắn có tổ chức.",
+   "gloss_vi": "chuyến tham quan",
+   "synonyms": "trip <i>(n. chuyến đi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Excursion</i> (noun) = chuyến tham quan. <b>Grammar</b>: <i>go on an excursion</i>.",
+   "example": {
+    "en": "A package holiday includes travel, accommodation and food (even occasionally <b>excursions</b>).",
+    "vi": "Tour trọn gói đôi khi gồm cả <b>các chuyến tham quan</b>."
+   }
+  },
+  {
+   "word": "cruise",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kruːz/",
+   "def_en": "A holiday spent touring on a boat.",
+   "def_vi": "Kỳ nghỉ đi chơi trên tàu.",
+   "gloss_vi": "chuyến du ngoạn trên biển",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cruise</i> (noun) = chuyến du ngoạn trên biển. <b>Grammar</b>: cũng là động từ <i>cruise</i>.",
+   "example": {
+    "en": "A <b>cruise</b> is a holiday spent touring on a boat, stopping off to go sightseeing at different ports.",
+    "vi": "<b>Du thuyền</b> là kỳ nghỉ trên tàu, dừng tham quan các cảng."
+   }
+  },
+  {
+   "word": "get away",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌɡet əˈweɪ/",
+   "def_en": "To go somewhere different for a holiday.",
+   "def_vi": "Đi nơi khác để nghỉ.",
+   "gloss_vi": "đi xa, đi nghỉ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get away</i> (phrasal verb) = đi xa, đi nghỉ. <b>Grammar</b>: danh từ <i>getaway</i>.",
+   "example": {
+    "en": "It’s so nice to <b>get away</b>.",
+    "vi": "Thật tuyệt khi được <b>đi xa</b>."
+   }
+  },
+  {
+   "word": "remote",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/rɪˈməʊt/",
+   "def_en": "Far from other places.",
+   "def_vi": "Xa những nơi khác.",
+   "gloss_vi": "hẻo lánh",
+   "synonyms": "isolated <i>(adj. biệt lập)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Remote</i> (adjective) = hẻo lánh. <b>Grammar</b>: <i>a remote village</i>.",
+   "example": {
+    "en": "It’s very <b>remote</b>.",
+    "vi": "Nơi đó rất <b>hẻo lánh</b>."
+   }
+  },
+  {
+   "word": "winding",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈwaɪndɪŋ/",
+   "def_en": "With lots of bends, not at all straight.",
+   "def_vi": "Nhiều khúc cua, không thẳng.",
+   "gloss_vi": "quanh co",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "straight <i>(adj. thẳng)</i>",
+   "grammar_vi": "<i>Winding</i> (adjective) = quanh co. <b>Grammar</b>: /ˈwaɪndɪŋ/ (≠ <i>wind</i> gió).",
+   "example": {
+    "en": "We had to drive up an unbelievably <b>winding</b> road to get here.",
+    "vi": "Chúng tôi phải lái lên một con đường cực kỳ <b>quanh co</b>."
+   }
+  },
+  {
+   "word": "surrounding",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/səˈraʊndɪŋ/",
+   "def_en": "All around.",
+   "def_vi": "Ở xung quanh.",
+   "gloss_vi": "xung quanh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Surrounding</i> (adjective) = xung quanh. <b>Grammar</b>: <i>surroundings</i> (n.).",
+   "example": {
+    "en": "The views over the <b>surrounding</b> countryside made the drive worthwhile.",
+    "vi": "Cảnh nhìn ra vùng quê <b>xung quanh</b> khiến chuyến đi đáng giá."
+   }
+  },
+  {
+   "word": "memorable",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈmemərəbl/",
+   "def_en": "That will always be remembered.",
+   "def_vi": "Sẽ luôn được nhớ.",
+   "gloss_vi": "đáng nhớ",
+   "synonyms": "unforgettable <i>(adj. khó quên)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Memorable</i> (adjective) = đáng nhớ. <b>Grammar</b>: <i>a memorable holiday</i>.",
+   "example": {
+    "en": "This is turning out to be probably the most <b>memorable</b> holiday I’ve ever had.",
+    "vi": "Đây có lẽ là kỳ nghỉ <b>đáng nhớ</b> nhất tôi từng có."
+   }
+  },
+  {
+   "word": "impressive",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪmˈpresɪv/",
+   "def_en": "Grand, interesting and making an impact.",
+   "def_vi": "Hoành tráng, thú vị, gây ấn tượng.",
+   "gloss_vi": "ấn tượng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Impressive</i> (adjective) = ấn tượng. <b>Grammar</b>: <i>impress</i> (v.).",
+   "example": {
+    "en": "The town has lots of very <b>impressive</b> buildings.",
+    "vi": "Thị trấn có rất nhiều công trình <b>ấn tượng</b>."
+   }
+  },
+  {
+   "word": "delightful",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dɪˈlaɪtfl/",
+   "def_en": "Charming.",
+   "def_vi": "Duyên dáng.",
+   "gloss_vi": "dễ chịu, tuyệt diệu",
+   "synonyms": "charming <i>(adj. duyên dáng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Delightful</i> (adjective) = dễ chịu, tuyệt diệu. <b>Grammar</b>: <i>delight</i> (n.).",
+   "example": {
+    "en": "Our hotel is <b>delightful</b>.",
+    "vi": "Khách sạn của chúng tôi thật <b>dễ chịu</b>."
+   }
+  },
+  {
+   "word": "inconvenient",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɪnkənˈviːniənt/",
+   "def_en": "Hard to get to; causing problems.",
+   "def_vi": "Khó đến; gây phiền.",
+   "gloss_vi": "bất tiện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "convenient <i>(adj. tiện lợi)</i>",
+   "grammar_vi": "<i>Inconvenient</i> (adjective) = bất tiện. <b>Grammar</b>: <i>in-</i> phủ định.",
+   "example": {
+    "en": "Our hotel is delightful – if a little <b>inconvenient</b> from the transport point of view.",
+    "vi": "Khách sạn hơi <b>bất tiện</b> về mặt đi lại."
+   }
+  },
+  {
+   "word": "exceptional",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪkˈsepʃənl/",
+   "def_en": "Unusually good.",
+   "def_vi": "Tốt khác thường.",
+   "gloss_vi": "xuất sắc, đặc biệt",
+   "synonyms": "outstanding <i>(adj. xuất sắc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Exceptional</i> (adjective) = xuất sắc, đặc biệt. <b>Grammar</b>: <i>exception</i> (n.).",
+   "example": {
+    "en": "The food in this area is <b>exceptional</b>.",
+    "vi": "Đồ ăn ở vùng này <b>xuất sắc</b>."
+   }
+  },
+  {
+   "word": "breathtaking",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈbreθteɪkɪŋ/",
+   "def_en": "So magnificent that it takes your breath away.",
+   "def_vi": "Tuyệt đẹp đến nghẹt thở.",
+   "gloss_vi": "ngoạn mục",
+   "synonyms": "stunning <i>(adj. tuyệt đẹp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Breathtaking</i> (adjective) = ngoạn mục. <b>Grammar</b>: <i>breathtaking views/scenery</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "There are <b>breathtaking</b> views from the top of the mountain.",
+    "vi": "Cảnh quan <b>ngoạn mục</b> từ đỉnh núi."
+   }
+  },
+  {
+   "word": "exclusive",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪkˈskluːsɪv/",
+   "def_en": "Only for the most special people.",
+   "def_vi": "Chỉ dành cho người đặc biệt.",
+   "gloss_vi": "độc quyền, cao cấp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Exclusive</i> (adjective) = độc quyền, cao cấp. <b>Grammar</b>: <i>an exclusive club</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The hotel has <b>exclusive</b> access to the beach.",
+    "vi": "Khách sạn có quyền vào bãi biển <b>riêng</b>."
+   }
+  },
+  {
+   "word": "exhilarating",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪɡˈzɪləreɪtɪŋ/",
+   "def_en": "Making you feel excited and full of energy.",
+   "def_vi": "Làm bạn phấn khích, tràn năng lượng.",
+   "gloss_vi": "phấn khích, sảng khoái",
+   "synonyms": "thrilling <i>(adj. hồi hộp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Exhilarating</i> (adjective) = phấn khích, sảng khoái. <b>Grammar</b>: <i>exhilarating feeling/ride</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The rafting trip was an <b>exhilarating</b> ride.",
+    "vi": "Chuyến đi thuyền vượt ghềnh thật <b>phấn khích</b>."
+   }
+  },
+  {
+   "word": "exotic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪɡˈzɒtɪk/",
+   "def_en": "Unusual and more exciting than everyday reality.",
+   "def_vi": "Lạ và hấp dẫn hơn thực tế thường ngày.",
+   "gloss_vi": "kỳ thú, ngoại lai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "ordinary <i>(adj. bình thường)</i>",
+   "grammar_vi": "<i>Exotic</i> (adjective) = kỳ thú, ngoại lai. <b>Grammar</b>: <i>exotic location/beauty</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Bali is an <b>exotic</b> location.",
+    "vi": "Bali là một địa điểm <b>kỳ thú</b>."
+   }
+  },
+  {
+   "word": "glamorous",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɡlæmərəs/",
+   "def_en": "Especially exciting and attractive.",
+   "def_vi": "Đặc biệt hấp dẫn và lôi cuốn.",
+   "gloss_vi": "lộng lẫy, hào nhoáng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Glamorous</i> (adjective) = lộng lẫy, hào nhoáng. <b>Grammar</b>: <i>glamour</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "They stayed in a <b>glamorous</b> hotel in Monaco.",
+    "vi": "Họ ở trong một khách sạn <b>lộng lẫy</b> ở Monaco."
+   }
+  },
+  {
+   "word": "luxurious",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/lʌɡˈʒʊəriəs/",
+   "def_en": "Providing great comfort.",
+   "def_vi": "Mang lại sự tiện nghi lớn.",
+   "gloss_vi": "sang trọng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "basic <i>(adj. cơ bản)</i>",
+   "grammar_vi": "<i>Luxurious</i> (adjective) = sang trọng. <b>Grammar</b>: <i>luxury</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "We travelled on a <b>luxurious</b> cruise ship.",
+    "vi": "Chúng tôi đi trên một con tàu du lịch <b>sang trọng</b>."
+   }
+  },
+  {
+   "word": "unspoilt",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʌnˈspɔɪlt/",
+   "def_en": "Still in a beautiful and natural state.",
+   "def_vi": "Vẫn đẹp và tự nhiên.",
+   "gloss_vi": "hoang sơ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Unspoilt</i> (adjective) = hoang sơ. <b>Grammar</b>: Mỹ <i>unspoiled</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The village has an <b>unspoilt</b> charm.",
+    "vi": "Ngôi làng có nét duyên <b>hoang sơ</b>."
+   }
+  },
+  {
+   "word": "unique",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/juˈniːk/",
+   "def_en": "So special it does not exist anywhere else.",
+   "def_vi": "Đặc biệt đến mức không đâu có.",
+   "gloss_vi": "độc nhất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Unique</i> (adjective) = độc nhất. <b>Grammar</b>: không dùng <i>very unique</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "This is a <b>unique</b> opportunity to see whales.",
+    "vi": "Đây là cơ hội <b>độc nhất</b> để thấy cá voi."
+   }
+  }
+ ]
+}

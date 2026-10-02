@@ -1,0 +1,426 @@
+{
+ "book": "upp",
+ "unit": 33,
+ "title_vi": "Khoa học và công nghệ",
+ "theory_html": "<p><b>A. New sciences</b><br><i>A. Các ngành khoa học mới</i></p> <p><b>traditional branches</b> (chemistry, physics, botany, zoology) vs more recently <b>established</b> fields: <b>genetic engineering (alter features, GM / genetically modified foods), ergonomics (interact), molecular biology (structure, function, molecules, associated), voice technology (enables, interpret), stem cell research (cells), cloning (creation), hydroponics (soil)</b>.</p><p><i><b>ngành truyền thống, được thành lập; kỹ thuật di truyền, biến đổi gen, công thái học, sinh học phân tử, công nghệ giọng nói, nghiên cứu tế bào gốc, nhân bản, thủy canh</b>.</i></p> <p><b>B. Everyday technology</b><br><i>B. Công nghệ hằng ngày</i></p> <p><b>3D TV, smartphone, tablet, satnav/GPS, digital photo frame, high-definition (HD) camcorder</b>.</p><p><i><b>TV 3D, điện thoại thông minh, máy tính bảng, thiết bị định vị, khung ảnh kỹ thuật số, máy quay HD</b>.</i></p> <p><b>C. Verbs used in science and technology</b><br><i>C. Động từ trong khoa học</i></p> <p><b>experiment with, utilise; press a button, lights flashing; pull a lever, a wheel rotates; dissect an animal, extract organs; chemicals combined, react; analyse a problem, conclude, a flaw in the theory; insert a disk, install software</b>.</p><p><i><b>thử nghiệm, sử dụng; nhấn nút, đèn nhấp nháy; kéo cần, quay; mổ xẻ, lấy ra; kết hợp, phản ứng; phân tích, kết luận, sai sót; đưa vào, cài đặt</b>.</i></p>",
+ "items": [
+  {
+   "word": "branch",
+   "sense": "subject",
+   "pos": "noun",
+   "ipa": "/brɑːntʃ/",
+   "def_en": "A part of a subject.",
+   "def_vi": "Một nhánh của môn học.",
+   "gloss_vi": "ngành, nhánh",
+   "synonyms": "field <i>(n. lĩnh vực)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Branch</i> (noun) = ngành, nhánh. <b>Grammar</b>: <i>a branch of science</i>.",
+   "example": {
+    "en": "You are probably familiar with the traditional <b>branches</b> of science.",
+    "vi": "Bạn có lẽ quen với các <b>ngành</b> khoa học truyền thống."
+   }
+  },
+  {
+   "word": "established",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪˈstæblɪʃt/",
+   "def_en": "Set up; existing for some time.",
+   "def_vi": "Được thành lập; đã tồn tại.",
+   "gloss_vi": "được thành lập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Established</i> (adjective) = được thành lập. <b>Grammar</b>: <i>establish</i> (v.).",
+   "example": {
+    "en": "What about these more recently <b>established</b> fields?",
+    "vi": "Còn những lĩnh vực mới <b>được hình thành</b> gần đây thì sao?"
+   }
+  },
+  {
+   "word": "genetic engineering",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/dʒəˌnetɪk ˌendʒɪˈnɪərɪŋ/",
+   "def_en": "Changing the genetic material of living things.",
+   "def_vi": "Thay đổi vật liệu di truyền của sinh vật.",
+   "gloss_vi": "kỹ thuật di truyền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Genetic engineering</i> (noun phrase) = kỹ thuật di truyền. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "<b>genetic engineering</b>: works with genetic material (DNA) of living things to alter features",
+    "vi": "<b>Kỹ thuật di truyền</b> làm việc với DNA để thay đổi đặc điểm."
+   }
+  },
+  {
+   "word": "alter",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈɔːltə(r)/",
+   "def_en": "To change, usually slightly.",
+   "def_vi": "Thay đổi, thường nhẹ.",
+   "gloss_vi": "thay đổi",
+   "synonyms": "change <i>(v. thay đổi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Alter</i> (verb) = thay đổi. <b>Grammar</b>: <i>alteration</i> (n.).",
+   "example": {
+    "en": "It works with genetic material of living things to <b>alter</b> features.",
+    "vi": "Nó làm việc với DNA để <b>thay đổi</b> đặc điểm."
+   }
+  },
+  {
+   "word": "genetically modified",
+   "sense": "",
+   "pos": "adjp",
+   "ipa": "/dʒəˌnetɪkli ˈmɒdɪfaɪd/",
+   "def_en": "Having had its genes changed.",
+   "def_vi": "Đã bị thay đổi gen.",
+   "gloss_vi": "biến đổi gen",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Genetically modified</i> (adjp) = biến đổi gen. <b>Grammar</b>: viết tắt <i>GM</i>.",
+   "example": {
+    "en": "GM foods (<b>genetically modified</b> foods) are grown in some parts of the world.",
+    "vi": "Thực phẩm <b>biến đổi gen</b> được trồng ở một số nơi trên thế giới."
+   }
+  },
+  {
+   "word": "ergonomics",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɜːɡəˈnɒmɪks/",
+   "def_en": "The study of the design of working spaces and how people interact with them.",
+   "def_vi": "Nghiên cứu thiết kế nơi làm việc và cách người tương tác.",
+   "gloss_vi": "công thái học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ergonomics</i> (noun) = công thái học. <b>Grammar</b>: động từ số ít.",
+   "example": {
+    "en": "<b>ergonomics</b>: studies the design of physical working spaces and how people interact with them",
+    "vi": "<b>Công thái học</b> nghiên cứu thiết kế không gian làm việc."
+   }
+  },
+  {
+   "word": "molecular biology",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/məˌlekjələ baɪˈɒlədʒi/",
+   "def_en": "The study of the structure and function of molecules in living things.",
+   "def_vi": "Nghiên cứu cấu trúc, chức năng phân tử của sinh vật.",
+   "gloss_vi": "sinh học phân tử",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Molecular biology</i> (noun phrase) = sinh học phân tử. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "<b>molecular biology</b>: the study of the structure and function of the molecules associated with living things",
+    "vi": "<b>Sinh học phân tử</b> nghiên cứu cấu trúc và chức năng của phân tử."
+   }
+  },
+  {
+   "word": "molecule",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɒlɪkjuːl/",
+   "def_en": "A basic chemical unit; a group of atoms.",
+   "def_vi": "Đơn vị hóa học cơ bản; nhóm nguyên tử.",
+   "gloss_vi": "phân tử",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Molecule</i> (noun) = phân tử. <b>Grammar</b>: <i>molecular</i> (adj.).",
+   "example": {
+    "en": "The study of the structure and function of the <b>molecules</b> associated with living things.",
+    "vi": "Nghiên cứu cấu trúc và chức năng của các <b>phân tử</b>."
+   }
+  },
+  {
+   "word": "enable",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪˈneɪbl/",
+   "def_en": "To make possible.",
+   "def_vi": "Làm cho có thể.",
+   "gloss_vi": "cho phép, giúp",
+   "synonyms": "allow <i>(v. cho phép)</i>",
+   "antonyms": "prevent <i>(v. ngăn)</i>",
+   "grammar_vi": "<i>Enable</i> (verb) = cho phép, giúp. <b>Grammar</b>: <i>enable sb/sth to do sth</i>.",
+   "example": {
+    "en": "Technology which <b>enables</b> machines to interpret speech.",
+    "vi": "Công nghệ <b>giúp</b> máy móc hiểu được lời nói."
+   }
+  },
+  {
+   "word": "interpret",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪnˈtɜːprɪt/",
+   "def_en": "To decide the intended meaning of something.",
+   "def_vi": "Hiểu ý nghĩa của điều gì.",
+   "gloss_vi": "diễn giải, hiểu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Interpret</i> (verb) = diễn giải, hiểu. <b>Grammar</b>: cũng = phiên dịch.",
+   "example": {
+    "en": "Technology which enables machines to <b>interpret</b> speech.",
+    "vi": "Công nghệ giúp máy móc <b>hiểu</b> lời nói."
+   }
+  },
+  {
+   "word": "stem cell",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈstem sel/",
+   "def_en": "A basic cell that can develop into other types of cells.",
+   "def_vi": "Tế bào gốc phát triển thành loại khác.",
+   "gloss_vi": "tế bào gốc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stem cell</i> (noun phrase) = tế bào gốc. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "<b>stem cell research</b>: the study of the use of human cells to treat diseases",
+    "vi": "Nghiên cứu <b>tế bào gốc</b> dùng tế bào người để chữa bệnh."
+   }
+  },
+  {
+   "word": "cloning",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkləʊnɪŋ/",
+   "def_en": "Creating exact copies of plants or animals with the same genes.",
+   "def_vi": "Tạo bản sao chính xác cây hay vật cùng gen.",
+   "gloss_vi": "nhân bản vô tính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cloning</i> (noun) = nhân bản vô tính. <b>Grammar</b>: <i>clone</i> (v./n.).",
+   "example": {
+    "en": "<b>cloning</b>: the creation of exact copies of plants or animals with the same genes as the original",
+    "vi": "<b>Nhân bản vô tính</b> là tạo bản sao chính xác của cây hay vật."
+   }
+  },
+  {
+   "word": "hydroponics",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌhaɪdrəˈpɒnɪks/",
+   "def_en": "The science of growing plants without soil.",
+   "def_vi": "Khoa học trồng cây không cần đất.",
+   "gloss_vi": "thủy canh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hydroponics</i> (noun) = thủy canh. <b>Grammar</b>: động từ số ít.",
+   "example": {
+    "en": "<b>hydroponics</b>: the science of growing plants without using soil",
+    "vi": "<b>Thủy canh</b> là khoa học trồng cây không dùng đất."
+   }
+  },
+  {
+   "word": "satnav",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsætnæv/",
+   "def_en": "A system that tells drivers where to go using satellites.",
+   "def_vi": "Hệ thống chỉ đường cho tài xế bằng vệ tinh.",
+   "gloss_vi": "thiết bị dẫn đường",
+   "synonyms": "GPS <i>(n. định vị)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Satnav</i> (noun) = thiết bị dẫn đường. <b>Grammar</b>: viết tắt <i>satellite navigation</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>satnav</b> showed me the way to the hotel.",
+    "vi": "<b>Thiết bị định vị</b> chỉ cho tôi đường đến khách sạn."
+   }
+  },
+  {
+   "word": "camcorder",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkæmkɔːdə(r)/",
+   "def_en": "A portable video camera.",
+   "def_vi": "Máy quay video cầm tay.",
+   "gloss_vi": "máy quay phim cầm tay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Camcorder</i> (noun) = máy quay phim cầm tay. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "My dad filmed the wedding on his HD <b>camcorder</b>.",
+    "vi": "Bố tôi quay đám cưới bằng <b>máy quay</b> HD."
+   }
+  },
+  {
+   "word": "experiment with",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ɪkˈsperɪment wɪð/",
+   "def_en": "To try different things to see what happens.",
+   "def_vi": "Thử nhiều thứ xem kết quả.",
+   "gloss_vi": "thử nghiệm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Experiment with</i> (phrasal verb) = thử nghiệm. <b>Grammar</b>: <i>experiment with sth</i>.",
+   "example": {
+    "en": "He <b>experimented with</b> different materials before utilising the most suitable one.",
+    "vi": "Anh ấy <b>thử nghiệm</b> nhiều vật liệu trước khi dùng loại phù hợp nhất."
+   }
+  },
+  {
+   "word": "utilise",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈjuːtəlaɪz/",
+   "def_en": "To use (formal, technical).",
+   "def_vi": "Sử dụng (trang trọng, kỹ thuật).",
+   "gloss_vi": "sử dụng",
+   "synonyms": "use <i>(v. dùng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Utilise</i> (verb) = sử dụng. <b>Grammar</b>: Mỹ <i>utilize</i>.",
+   "example": {
+    "en": "He experimented with different materials before <b>utilising</b> the most suitable one.",
+    "vi": "Anh ấy thử nhiều vật liệu trước khi <b>sử dụng</b> loại phù hợp nhất."
+   }
+  },
+  {
+   "word": "flash",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/flæʃ/",
+   "def_en": "(Of a light) to shine on and off quickly.",
+   "def_vi": "(Đèn) bật tắt nhanh.",
+   "gloss_vi": "nhấp nháy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flash</i> (verb) = nhấp nháy. <b>Grammar</b>: cũng là danh từ.",
+   "example": {
+    "en": "The technician pressed a button and lights started <b>flashing</b>.",
+    "vi": "Kỹ thuật viên nhấn nút và đèn bắt đầu <b>nhấp nháy</b>."
+   }
+  },
+  {
+   "word": "lever",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈliːvə(r)/",
+   "def_en": "A bar or handle that moves to control a machine.",
+   "def_vi": "Thanh hay tay cầm di chuyển để điều khiển máy.",
+   "gloss_vi": "cần gạt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lever</i> (noun) = cần gạt. <b>Grammar</b>: /ˈliːvə/.",
+   "example": {
+    "en": "When she pulled the large <b>lever</b>, the wheel began to rotate.",
+    "vi": "Khi cô ấy kéo <b>cần gạt</b> lớn, bánh xe bắt đầu quay."
+   }
+  },
+  {
+   "word": "rotate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rəʊˈteɪt/",
+   "def_en": "To turn (formal, technical).",
+   "def_vi": "Quay (trang trọng, kỹ thuật).",
+   "gloss_vi": "quay",
+   "synonyms": "turn <i>(v. quay)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rotate</i> (verb) = quay. <b>Grammar</b>: <i>rotation</i> (n.).",
+   "example": {
+    "en": "When she pulled the large lever, the wheel began to <b>rotate</b>.",
+    "vi": "Khi cô ấy kéo cần, bánh xe bắt đầu <b>quay</b>."
+   }
+  },
+  {
+   "word": "dissect",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪˈsekt/",
+   "def_en": "To cut open a dead body or plant to study its parts.",
+   "def_vi": "Mổ xác hay cây để nghiên cứu.",
+   "gloss_vi": "mổ xẻ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dissect</i> (verb) = mổ xẻ. <b>Grammar</b>: <i>dissection</i> (n.).",
+   "example": {
+    "en": "The zoologist <b>dissected</b> the animal and extracted its organs.",
+    "vi": "Nhà động vật học <b>mổ xẻ</b> con vật và lấy nội tạng ra."
+   }
+  },
+  {
+   "word": "extract",
+   "sense": "verb",
+   "pos": "verb",
+   "ipa": "/ɪkˈstrækt/",
+   "def_en": "To take out (formal, technical).",
+   "def_vi": "Lấy ra (trang trọng, kỹ thuật).",
+   "gloss_vi": "lấy ra, chiết xuất",
+   "synonyms": "remove <i>(v. lấy ra)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Extract</i> (verb) = lấy ra, chiết xuất. <b>Grammar</b>: động từ /ɪkˈstrækt/.",
+   "example": {
+    "en": "The zoologist dissected the animal and <b>extracted</b> its organs.",
+    "vi": "Nhà động vật học mổ con vật và <b>lấy</b> nội tạng <b>ra</b>."
+   }
+  },
+  {
+   "word": "react",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/riˈækt/",
+   "def_en": "(Of chemicals) to change when mixed together.",
+   "def_vi": "(Hóa chất) biến đổi khi trộn lẫn.",
+   "gloss_vi": "phản ứng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>React</i> (verb) = phản ứng. <b>Grammar</b>: <i>reaction</i> (n.).",
+   "example": {
+    "en": "When they were combined, the two chemicals <b>reacted</b> violently with each other.",
+    "vi": "Khi kết hợp, hai hóa chất <b>phản ứng</b> dữ dội với nhau."
+   }
+  },
+  {
+   "word": "conclude",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kənˈkluːd/",
+   "def_en": "To decide something after thinking about it.",
+   "def_vi": "Quyết định sau khi suy nghĩ.",
+   "gloss_vi": "kết luận",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Conclude</i> (verb) = kết luận. <b>Grammar</b>: <i>conclusion</i> (n.).",
+   "example": {
+    "en": "After analysing the problem, she <b>concluded</b> that there was a flaw in the theory.",
+    "vi": "Sau khi phân tích, cô ấy <b>kết luận</b> có sai sót trong lý thuyết."
+   }
+  },
+  {
+   "word": "flaw",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/flɔː/",
+   "def_en": "A fault, mistake or weakness.",
+   "def_vi": "Lỗi, sai sót hay điểm yếu.",
+   "gloss_vi": "sai sót, khuyết điểm",
+   "synonyms": "fault <i>(n. lỗi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flaw</i> (noun) = sai sót, khuyết điểm. <b>Grammar</b>: <i>flawed</i> (adj.).",
+   "example": {
+    "en": "She concluded that there was a <b>flaw</b> in the theory.",
+    "vi": "Cô ấy kết luận có <b>sai sót</b> trong lý thuyết."
+   }
+  },
+  {
+   "word": "insert",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪnˈsɜːt/",
+   "def_en": "To put in (formal, technical).",
+   "def_vi": "Đưa vào (trang trọng, kỹ thuật).",
+   "gloss_vi": "đưa vào, cắm",
+   "synonyms": "put in <i>(pv. đưa vào)</i>",
+   "antonyms": "remove <i>(v. lấy ra)</i>",
+   "grammar_vi": "<i>Insert</i> (verb) = đưa vào, cắm. <b>Grammar</b>: <i>insert sth into sth</i>.",
+   "example": {
+    "en": "<b>Insert</b> the disk into the DVD drive to install the software.",
+    "vi": "<b>Đưa</b> đĩa <b>vào</b> ổ DVD để cài phần mềm."
+   }
+  }
+ ]
+}
