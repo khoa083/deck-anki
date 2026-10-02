@@ -48,14 +48,19 @@ def key_text(d, book, unit, log):
     toc = d.get_toc(); start = next((p - 1 for _, t, p in toc if t.strip().lower().startswith("answer key")), None)
     if start is None: return ""
     txt = "\n".join(fix_text(d[i].get_text(), log) for i in range(start, min(start + 60, len(d))))
-    m = re.search(rf"(?m)^\s*{unit}\.1\b.*?(?=^\s*{unit + 1}\.1\b|\Z)", txt, re.S)
-    return m.group(0).strip() if m else ""
+    m = re.search(rf"(?m)^\s*{unit}\.\d\b.*?(?=^\s*{unit + 1}\.\d\b|\Z)", txt, re.S)
+    return m.group(0).strip()[:5000] if m else ""
 def main():
     book = sys.argv[1]; d = pymupdf.open(os.path.join(KIT, "books", f"{book}.pdf"))
     for u in map(int, sys.argv[2:]):
         info = BOOKS[book]["units"][str(u)]; p = info["page"]; log = set()
-        left = page_lines(d[p], log); right = page_lines(d[p + 1], log, bold=False); key = key_text(d, book, u, log)
-        s = (f"### UNIT {u}: {info['en']} (PDF trang {p + 1}–{p + 2})\n### LIGATURE: {', '.join(sorted(log)) or '-'}\n"
+        n = info.get("npages", 2)
+        if "npages" in info:   # sách scan OCR (gva): không có thông tin in đậm; cả unit nhiều trang -> LEFT
+            left = sum(([f"### PAGE {i + 1}"] + [l.strip() for l in d[i].get_text().splitlines() if l.strip()] for i in range(p, p + n)), []); right = []
+        else:
+            left = page_lines(d[p], log); right = page_lines(d[p + 1], log, bold=False)
+        key = key_text(d, book, u, log)
+        s = (f"### UNIT {u}: {info['en']} (PDF trang {p + 1}–{p + n})\n### LIGATURE: {', '.join(sorted(log)) or '-'}\n"
              f"### LEFT\n" + "\n".join(left) + "\n### RIGHT\n" + "\n".join(right) + "\n### KEY\n" + key + "\n")
         open(os.path.join(KIT, "src", f"{book}_u{u:02d}.txt"), "w", encoding="utf-8").write(s)
         print(f"src/{book}_u{u:02d}.txt", len(s), "ligature:", len(log))
