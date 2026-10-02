@@ -1,0 +1,399 @@
+{
+ "book": "ess",
+ "unit": 72,
+ "title_en": "I like music / I hate exams",
+ "title_vi": "I like music / I hate exams (không dùng the cho ý chung)",
+ "theory_html": "<p style=\"text-align: justify;\"><b>A. No the for general ideas</b></p>\n<p style=\"text-align: justify;\"><i>A. Không dùng the cho ý chung chung</i></p>\n\n<ul>\n  <li>\n    <p style=\"text-align: justify;\">I like music. / I hate exams. / I don’t like cold weather.</p>\n    <p style=\"text-align: justify;\"><i>Tôi thích âm nhạc. / Tôi ghét thi cử. / Tôi không thích trời lạnh.</i></p>\n  </li>\n</ul>\n\n<p style=\"text-align: justify;\">We do not use <b>the</b> for general ideas:</p>\n<p style=\"text-align: justify;\"><i>Không dùng <b>the</b> cho ý chung chung:</i></p>\n\n<ul>\n  <li>\n    <p style=\"text-align: justify;\">I like <b>music</b>, especially <b>classical music</b>. (<i>not</i> the music … the classical music)</p>\n    <p style=\"text-align: justify;\"><i>Tôi thích <b>âm nhạc</b>, nhất là <b>nhạc cổ điển</b>. (<i>không nói</i> the music … the classical music)</i></p>\n  </li>\n  <li>\n    <p style=\"text-align: justify;\">We don’t eat <b>meat</b> very often. (<i>not</i> the meat)</p>\n    <p style=\"text-align: justify;\"><i>Chúng tôi không hay ăn <b>thịt</b>. (<i>không nói</i> the meat)</i></p>\n  </li>\n  <li>\n    <p style=\"text-align: justify;\"><b>Life</b> is not possible without <b>water</b>. (<i>not</i> The life … the water)</p>\n    <p style=\"text-align: justify;\"><i><b>Sự sống</b> không thể có nếu thiếu <b>nước</b>. (<i>không nói</i> The life … the water)</i></p>\n  </li>\n  <li>\n    <p style=\"text-align: justify;\">I hate <b>exams</b>. (<i>not</i> the exams)</p>\n    <p style=\"text-align: justify;\"><i>Tôi ghét <b>thi cử</b>. (<i>không nói</i> the exams)</i></p>\n  </li>\n  <li>\n    <p style=\"text-align: justify;\">Is there a shop near here that sells <b>newspapers</b>?</p>\n    <p style=\"text-align: justify;\"><i>Gần đây có cửa hàng nào bán <b>báo</b> không?</i></p>\n  </li>\n</ul>\n\n<p style=\"text-align: justify;\">We do not use <b>the</b> for games and sports:</p>\n<p style=\"text-align: justify;\"><i>Không dùng <b>the</b> cho trò chơi và thể thao:</i></p>\n\n<ul>\n  <li>\n    <p style=\"text-align: justify;\">My favourite sports are <b>football</b> and <b>skiing</b>. (<i>not</i> the football … the skiing)</p>\n    <p style=\"text-align: justify;\"><i>Môn thể thao tôi thích nhất là <b>bóng đá</b> và <b>trượt tuyết</b>. (<i>không nói</i> the football … the skiing)</i></p>\n  </li>\n</ul>\n\n<p style=\"text-align: justify;\">We do not use <b>the</b> for languages or school subjects (<b>history / geography / physics / biology</b> etc.):</p>\n<p style=\"text-align: justify;\"><i>Không dùng <b>the</b> cho ngôn ngữ hoặc môn học (<b>history / geography / physics / biology</b> v.v.):</i></p>\n\n<ul>\n  <li>\n    <p style=\"text-align: justify;\">Do you think <b>English</b> is difficult? (<i>not</i> the English)</p>\n    <p style=\"text-align: justify;\"><i>Bạn có nghĩ <b>tiếng Anh</b> khó không? (<i>không nói</i> the English)</i></p>\n  </li>\n  <li>\n    <p style=\"text-align: justify;\">Tom’s brother is studying <b>physics</b> and <b>chemistry</b>.</p>\n    <p style=\"text-align: justify;\"><i>Anh trai Tom đang học <b>vật lý</b> và <b>hóa học</b>.</i></p>\n  </li>\n</ul>\n\n<p style=\"text-align: justify;\"><b>B. flowers or the flowers?</b></p>\n<p style=\"text-align: justify;\"><i>B. flowers hay the flowers?</i></p>\n\n<table border=\"1\" style=\"border-collapse: collapse; border-color: black; padding: 8px; margin: 6px 0;\">\n  <thead>\n    <tr><th style=\"padding: 8px;\">general<br><i>chung chung</i></th><th style=\"padding: 8px;\">specific<br><i>cụ thể</i></th></tr>\n  </thead>\n  <tbody>\n    <tr><td style=\"padding: 8px;\"><b>Flowers</b> are beautiful. (= flowers in general)</td><td style=\"padding: 8px;\">I love this garden. <b>The flowers</b> are beautiful. (= the flowers in this garden)</td></tr>\n    <tr><td style=\"padding: 8px;\">I don’t like <b>cold weather</b>. (= cold weather in general)</td><td style=\"padding: 8px;\"><b>The weather</b> isn’t very good today. (= the weather today)</td></tr>\n    <tr><td style=\"padding: 8px;\">We don’t eat <b>fish</b> very often. (= fish in general)</td><td style=\"padding: 8px;\">We had a great meal last night. <b>The fish</b> was excellent. (= the fish we ate last night)</td></tr>\n    <tr><td style=\"padding: 8px;\">Are you interested in <b>history</b>? (= history in general)</td><td style=\"padding: 8px;\">Do you know much about <b>the history</b> of your country?</td></tr>\n  </tbody>\n</table>",
+ "mcq": [
+  {
+   "question": "I like ___ music, especially classical music.",
+   "a": "–",
+   "b": "the",
+   "c": "a",
+   "full": "I like music, especially classical music.",
+   "vi": "<i>Tôi thích <b>âm nhạc</b>, nhất là nhạc cổ điển.</i>",
+   "expl": "No the for things in general, sports/games, languages and school subjects (music, football, English, physics).<br><i>Không dùng the cho sự vật nói chung, thể thao/trò chơi, ngôn ngữ và môn học (music, football, English, physics).</i><br><b>Điểm ngữ pháp</b>: Chung chung → không the.",
+   "key": "I like ___ music, especially classical music.|–"
+  },
+  {
+   "question": "We don’t eat ___ meat very often.",
+   "a": "–",
+   "b": "the",
+   "c": "a",
+   "full": "We don’t eat meat very often.",
+   "vi": "<i>Chúng tôi không hay ăn <b>thịt</b>.</i>",
+   "expl": "No the for things in general, sports/games, languages and school subjects (music, football, English, physics).<br><i>Không dùng the cho sự vật nói chung, thể thao/trò chơi, ngôn ngữ và môn học (music, football, English, physics).</i><br><b>Điểm ngữ pháp</b>: Chung → không the.",
+   "key": "We don’t eat ___ meat very often.|–"
+  },
+  {
+   "question": "___ Life is not possible without water.",
+   "a": "–",
+   "b": "The",
+   "c": "A",
+   "full": "Life is not possible without water.",
+   "vi": "<i><b>Sự sống</b> không thể có nếu thiếu nước.</i>",
+   "expl": "No the for things in general, sports/games, languages and school subjects (music, football, English, physics).<br><i>Không dùng the cho sự vật nói chung, thể thao/trò chơi, ngôn ngữ và môn học (music, football, English, physics).</i><br><b>Điểm ngữ pháp</b>: Không nói The life.",
+   "key": "___ Life is not possible without water.|–"
+  },
+  {
+   "question": "Life is not possible without ___ water.",
+   "a": "–",
+   "b": "the",
+   "c": "a",
+   "full": "Life is not possible without water.",
+   "vi": "<i>Sự sống không thể có nếu thiếu <b>nước</b>.</i>",
+   "expl": "No the for things in general, sports/games, languages and school subjects (music, football, English, physics).<br><i>Không dùng the cho sự vật nói chung, thể thao/trò chơi, ngôn ngữ và môn học (music, football, English, physics).</i><br><b>Điểm ngữ pháp</b>: Chung → không the.",
+   "key": "Life is not possible without ___ water.|–"
+  },
+  {
+   "question": "I hate ___ exams.",
+   "a": "–",
+   "b": "the",
+   "c": "an",
+   "full": "I hate exams.",
+   "vi": "<i>Tôi ghét <b>thi cử</b>.</i>",
+   "expl": "No the for things in general, sports/games, languages and school subjects (music, football, English, physics).<br><i>Không dùng the cho sự vật nói chung, thể thao/trò chơi, ngôn ngữ và môn học (music, football, English, physics).</i><br><b>Điểm ngữ pháp</b>: Chung → không the.",
+   "key": "I hate ___ exams.|–"
+  },
+  {
+   "question": "My favourite sports are ___ football and skiing.",
+   "a": "–",
+   "b": "the",
+   "c": "a",
+   "full": "My favourite sports are football and skiing.",
+   "vi": "<i>Môn thể thao tôi thích nhất là <b>bóng đá</b> và trượt tuyết.</i>",
+   "expl": "No the for things in general, sports/games, languages and school subjects (music, football, English, physics).<br><i>Không dùng the cho sự vật nói chung, thể thao/trò chơi, ngôn ngữ và môn học (music, football, English, physics).</i><br><b>Điểm ngữ pháp</b>: Thể thao → không the.",
+   "key": "My favourite sports are ___ football and skiing.|–"
+  },
+  {
+   "question": "Do you think ___ English is difficult?",
+   "a": "–",
+   "b": "the",
+   "c": "an",
+   "full": "Do you think English is difficult?",
+   "vi": "<i>Bạn có nghĩ <b>tiếng Anh</b> khó không?</i>",
+   "expl": "No the for things in general, sports/games, languages and school subjects (music, football, English, physics).<br><i>Không dùng the cho sự vật nói chung, thể thao/trò chơi, ngôn ngữ và môn học (music, football, English, physics).</i><br><b>Điểm ngữ pháp</b>: Ngôn ngữ → không the.",
+   "key": "Do you think ___ English is difficult?|–"
+  },
+  {
+   "question": "Tom’s brother is studying ___ physics and chemistry.",
+   "a": "–",
+   "b": "the",
+   "c": "a",
+   "full": "Tom’s brother is studying physics and chemistry.",
+   "vi": "<i>Anh trai Tom đang học <b>vật lý</b> và hóa học.</i>",
+   "expl": "No the for things in general, sports/games, languages and school subjects (music, football, English, physics).<br><i>Không dùng the cho sự vật nói chung, thể thao/trò chơi, ngôn ngữ và môn học (music, football, English, physics).</i><br><b>Điểm ngữ pháp</b>: Môn học → không the.",
+   "key": "Tom’s brother is studying ___ physics and chemistry.|–"
+  },
+  {
+   "question": "My favourite sport is ___ football.",
+   "a": "–",
+   "b": "the",
+   "c": "a",
+   "full": "My favourite sport is football.",
+   "vi": "<i>Môn thể thao tôi thích nhất là <b>bóng đá</b>.</i>",
+   "expl": "No the for things in general, sports/games, languages and school subjects (music, football, English, physics).<br><i>Không dùng the cho sự vật nói chung, thể thao/trò chơi, ngôn ngữ và môn học (music, football, English, physics).</i><br><b>Điểm ngữ pháp</b>: football (không the).",
+   "key": "My favourite sport is ___ football.|–"
+  },
+  {
+   "question": "Everybody needs ___ friends.",
+   "a": "–",
+   "b": "the",
+   "c": "a",
+   "full": "Everybody needs friends.",
+   "vi": "<i>Ai cũng cần <b>bạn bè</b>.</i>",
+   "expl": "No the for things in general, sports/games, languages and school subjects (music, football, English, physics).<br><i>Không dùng the cho sự vật nói chung, thể thao/trò chơi, ngôn ngữ và môn học (music, football, English, physics).</i><br><b>Điểm ngữ pháp</b>: Chung → không the.",
+   "key": "Everybody needs ___ friends.|–"
+  },
+  {
+   "question": "Jane doesn’t go to ___ parties very often.",
+   "a": "–",
+   "b": "the",
+   "c": "a",
+   "full": "Jane doesn’t go to parties very often.",
+   "vi": "<i>Jane không hay đi <b>tiệc</b>.</i>",
+   "expl": "No the for things in general, sports/games, languages and school subjects (music, football, English, physics).<br><i>Không dùng the cho sự vật nói chung, thể thao/trò chơi, ngôn ngữ và môn học (music, football, English, physics).</i><br><b>Điểm ngữ pháp</b>: Chung → parties.",
+   "key": "Jane doesn’t go to ___ parties very often.|–"
+  },
+  {
+   "question": "I don’t like ___ milk. I never drink it.",
+   "a": "–",
+   "b": "the",
+   "c": "a",
+   "full": "I don’t like milk. I never drink it.",
+   "vi": "<i>Tôi không thích <b>sữa</b>. Tôi không bao giờ uống.</i>",
+   "expl": "No the for things in general, sports/games, languages and school subjects (music, football, English, physics).<br><i>Không dùng the cho sự vật nói chung, thể thao/trò chơi, ngôn ngữ và môn học (music, football, English, physics).</i><br><b>Điểm ngữ pháp</b>: Chung → milk.",
+   "key": "I don’t like ___ milk. I never drink it.|–"
+  },
+  {
+   "question": "‘Do you do any sports?’ ‘Yes, I play ___ basketball.’",
+   "a": "–",
+   "b": "the",
+   "c": "a",
+   "full": "‘Do you do any sports?’ ‘Yes, I play basketball.’",
+   "vi": "<i>‘Bạn có chơi thể thao không?’ ‘Có, tôi chơi <b>bóng rổ</b>.’</i>",
+   "expl": "No the for things in general, sports/games, languages and school subjects (music, football, English, physics).<br><i>Không dùng the cho sự vật nói chung, thể thao/trò chơi, ngôn ngữ và môn học (music, football, English, physics).</i><br><b>Điểm ngữ pháp</b>: Thể thao → không the.",
+   "key": "‘Do you do any sports?’ ‘Yes, I play ___ basketball.’|–"
+  },
+  {
+   "question": "An architect is a person who designs ___ buildings.",
+   "a": "–",
+   "b": "the",
+   "c": "a",
+   "full": "An architect is a person who designs buildings.",
+   "vi": "<i>Kiến trúc sư là người thiết kế <b>các tòa nhà</b>.</i>",
+   "expl": "No the for things in general, sports/games, languages and school subjects (music, football, English, physics).<br><i>Không dùng the cho sự vật nói chung, thể thao/trò chơi, ngôn ngữ và môn học (music, football, English, physics).</i><br><b>Điểm ngữ pháp</b>: Chung → buildings.",
+   "key": "An architect is a person who designs ___ buildings.|–"
+  },
+  {
+   "question": "I don’t like swimming in ___ cold water.",
+   "a": "–",
+   "b": "the",
+   "c": "a",
+   "full": "I don’t like swimming in cold water.",
+   "vi": "<i>Tôi không thích bơi trong <b>nước lạnh</b>.</i>",
+   "expl": "No the for things in general, sports/games, languages and school subjects (music, football, English, physics).<br><i>Không dùng the cho sự vật nói chung, thể thao/trò chơi, ngôn ngữ và môn học (music, football, English, physics).</i><br><b>Điểm ngữ pháp</b>: Chung → cold water.",
+   "key": "I don’t like swimming in ___ cold water.|–"
+  },
+  {
+   "question": "___ Vegetables are good for you.",
+   "a": "–",
+   "b": "The",
+   "c": "A",
+   "full": "Vegetables are good for you.",
+   "vi": "<i><b>Rau củ</b> tốt cho sức khỏe.</i>",
+   "expl": "No the for things in general, sports/games, languages and school subjects (music, football, English, physics).<br><i>Không dùng the cho sự vật nói chung, thể thao/trò chơi, ngôn ngữ và môn học (music, football, English, physics).</i><br><b>Điểm ngữ pháp</b>: Chung → Vegetables.",
+   "key": "___ Vegetables are good for you.|–"
+  },
+  {
+   "question": "I enjoy taking ___ pictures. It’s my hobby.",
+   "a": "–",
+   "b": "the",
+   "c": "a",
+   "full": "I enjoy taking pictures. It’s my hobby.",
+   "vi": "<i>Tôi thích chụp <b>ảnh</b>. Đó là sở thích của tôi.</i>",
+   "expl": "No the for things in general, sports/games, languages and school subjects (music, football, English, physics).<br><i>Không dùng the cho sự vật nói chung, thể thao/trò chơi, ngôn ngữ và môn học (music, football, English, physics).</i><br><b>Điểm ngữ pháp</b>: Chung → pictures.",
+   "key": "I enjoy taking ___ pictures. It’s my hobby.|–"
+  },
+  {
+   "question": "___ English is used a lot in international business.",
+   "a": "–",
+   "b": "The",
+   "c": "An",
+   "full": "English is used a lot in international business.",
+   "vi": "<i><b>Tiếng Anh</b> được dùng nhiều trong kinh doanh quốc tế.</i>",
+   "expl": "No the for things in general, sports/games, languages and school subjects (music, football, English, physics).<br><i>Không dùng the cho sự vật nói chung, thể thao/trò chơi, ngôn ngữ và môn học (music, football, English, physics).</i><br><b>Điểm ngữ pháp</b>: Ngôn ngữ → không the.",
+   "key": "___ English is used a lot in international business.|–"
+  },
+  {
+   "question": "English is used a lot in ___ international business.",
+   "a": "–",
+   "b": "the",
+   "c": "an",
+   "full": "English is used a lot in international business.",
+   "vi": "<i>Tiếng Anh được dùng nhiều trong <b>kinh doanh quốc tế</b>.</i>",
+   "expl": "No the for things in general, sports/games, languages and school subjects (music, football, English, physics).<br><i>Không dùng the cho sự vật nói chung, thể thao/trò chơi, ngôn ngữ và môn học (music, football, English, physics).</i><br><b>Điểm ngữ pháp</b>: Chung → không the.",
+   "key": "English is used a lot in ___ international business.|–"
+  },
+  {
+   "question": "___ Money doesn’t always bring happiness.",
+   "a": "–",
+   "b": "The",
+   "c": "A",
+   "full": "Money doesn’t always bring happiness.",
+   "vi": "<i><b>Tiền bạc</b> không phải lúc nào cũng mang lại hạnh phúc.</i>",
+   "expl": "No the for things in general, sports/games, languages and school subjects (music, football, English, physics).<br><i>Không dùng the cho sự vật nói chung, thể thao/trò chơi, ngôn ngữ và môn học (music, football, English, physics).</i><br><b>Điểm ngữ pháp</b>: Chung → Money.",
+   "key": "___ Money doesn’t always bring happiness.|–"
+  },
+  {
+   "question": "Money doesn’t always bring ___ happiness.",
+   "a": "–",
+   "b": "the",
+   "c": "a",
+   "full": "Money doesn’t always bring happiness.",
+   "vi": "<i>Tiền bạc không phải lúc nào cũng mang lại <b>hạnh phúc</b>.</i>",
+   "expl": "No the for things in general, sports/games, languages and school subjects (music, football, English, physics).<br><i>Không dùng the cho sự vật nói chung, thể thao/trò chơi, ngôn ngữ và môn học (music, football, English, physics).</i><br><b>Điểm ngữ pháp</b>: Chung → happiness.",
+   "key": "Money doesn’t always bring ___ happiness.|–"
+  },
+  {
+   "question": "Is there a shop near here that sells ___ newspapers?",
+   "a": "–",
+   "b": "the",
+   "c": "a",
+   "full": "Is there a shop near here that sells newspapers?",
+   "vi": "<i>Gần đây có cửa hàng nào bán <b>báo</b> không?</i>",
+   "expl": "No the for things in general, sports/games, languages and school subjects (music, football, English, physics).<br><i>Không dùng the cho sự vật nói chung, thể thao/trò chơi, ngôn ngữ và môn học (music, football, English, physics).</i><br><b>Điểm ngữ pháp</b>: Chung → newspapers.",
+   "key": "Is there a shop near here that sells ___ newspapers?|–"
+  },
+  {
+   "question": "___ Flowers are beautiful. (= flowers in general)",
+   "a": "–",
+   "b": "The",
+   "c": "A",
+   "full": "Flowers are beautiful. (= flowers in general)",
+   "vi": "<i><b>Hoa</b> thì đẹp. (= hoa nói chung)</i>",
+   "expl": "the = specific things (the flowers in this garden, the weather today, the fish we ate).<br><i>the = sự vật cụ thể (hoa trong khu vườn này, thời tiết hôm nay, món cá đã ăn).</i><br><b>Điểm ngữ pháp</b>: Chung → không the.",
+   "key": "___ Flowers are beautiful. (= flowers in general)|–"
+  },
+  {
+   "question": "I love this garden. ___ flowers are beautiful.",
+   "a": "The",
+   "b": "–",
+   "c": "A",
+   "full": "I love this garden. <b>The</b> flowers are beautiful.",
+   "vi": "<i>Tôi yêu khu vườn này. <b>Hoa ở đây</b> đẹp quá.</i>",
+   "expl": "the = specific things (the flowers in this garden, the weather today, the fish we ate).<br><i>the = sự vật cụ thể (hoa trong khu vườn này, thời tiết hôm nay, món cá đã ăn).</i><br><b>Điểm ngữ pháp</b>: Hoa trong vườn này → The.",
+   "key": "I love this garden. ___ flowers are beautiful.|The"
+  },
+  {
+   "question": "I don’t like ___ cold weather. (in general)",
+   "a": "–",
+   "b": "the",
+   "c": "a",
+   "full": "I don’t like cold weather. (in general)",
+   "vi": "<i>Tôi không thích <b>trời lạnh</b>. (nói chung)</i>",
+   "expl": "the = specific things (the flowers in this garden, the weather today, the fish we ate).<br><i>the = sự vật cụ thể (hoa trong khu vườn này, thời tiết hôm nay, món cá đã ăn).</i><br><b>Điểm ngữ pháp</b>: Chung → không the.",
+   "key": "I don’t like ___ cold weather. (in general)|–"
+  },
+  {
+   "question": "___ weather isn’t very good today.",
+   "a": "The",
+   "b": "–",
+   "c": "A",
+   "full": "<b>The</b> weather isn’t very good today.",
+   "vi": "<i>Hôm nay <b>thời tiết</b> không đẹp lắm.</i>",
+   "expl": "the = specific things (the flowers in this garden, the weather today, the fish we ate).<br><i>the = sự vật cụ thể (hoa trong khu vườn này, thời tiết hôm nay, món cá đã ăn).</i><br><b>Điểm ngữ pháp</b>: Thời tiết hôm nay → The.",
+   "key": "___ weather isn’t very good today.|The"
+  },
+  {
+   "question": "We don’t eat ___ fish very often.",
+   "a": "–",
+   "b": "the",
+   "c": "a",
+   "full": "We don’t eat fish very often.",
+   "vi": "<i>Chúng tôi không hay ăn <b>cá</b>.</i>",
+   "expl": "the = specific things (the flowers in this garden, the weather today, the fish we ate).<br><i>the = sự vật cụ thể (hoa trong khu vườn này, thời tiết hôm nay, món cá đã ăn).</i><br><b>Điểm ngữ pháp</b>: Chung → không the.",
+   "key": "We don’t eat ___ fish very often.|–"
+  },
+  {
+   "question": "We had a great meal last night. ___ fish was excellent.",
+   "a": "The",
+   "b": "–",
+   "c": "A",
+   "full": "We had a great meal last night. <b>The</b> fish was excellent.",
+   "vi": "<i>Tối qua chúng tôi có bữa ăn tuyệt vời. <b>Món cá</b> rất ngon.</i>",
+   "expl": "the = specific things (the flowers in this garden, the weather today, the fish we ate).<br><i>the = sự vật cụ thể (hoa trong khu vườn này, thời tiết hôm nay, món cá đã ăn).</i><br><b>Điểm ngữ pháp</b>: Món cá đã ăn → The.",
+   "key": "We had a great meal last night. ___ fish was excellent.|The"
+  },
+  {
+   "question": "Are you interested in ___ history? (in general)",
+   "a": "–",
+   "b": "the",
+   "c": "a",
+   "full": "Are you interested in history? (in general)",
+   "vi": "<i>Bạn có quan tâm đến <b>lịch sử</b> không?</i>",
+   "expl": "the = specific things (the flowers in this garden, the weather today, the fish we ate).<br><i>the = sự vật cụ thể (hoa trong khu vườn này, thời tiết hôm nay, món cá đã ăn).</i><br><b>Điểm ngữ pháp</b>: Chung → không the.",
+   "key": "Are you interested in ___ history? (in general)|–"
+  },
+  {
+   "question": "Do you know much about ___ history of your country?",
+   "a": "the",
+   "b": "–",
+   "c": "a",
+   "full": "Do you know much about <b>the</b> history of your country?",
+   "vi": "<i>Bạn có biết nhiều về <b>lịch sử</b> đất nước mình không?</i>",
+   "expl": "the = specific things (the flowers in this garden, the weather today, the fish we ate).<br><i>the = sự vật cụ thể (hoa trong khu vườn này, thời tiết hôm nay, món cá đã ăn).</i><br><b>Điểm ngữ pháp</b>: Lịch sử của … (cụ thể) → the.",
+   "key": "Do you know much about ___ history of your country?|the"
+  },
+  {
+   "question": "I like this hotel. ___ rooms are very nice.",
+   "a": "The",
+   "b": "–",
+   "c": "A",
+   "full": "I like this hotel. <b>The</b> rooms are very nice.",
+   "vi": "<i>Tôi thích khách sạn này. <b>Các phòng</b> rất đẹp.</i>",
+   "expl": "the = specific things (the flowers in this garden, the weather today, the fish we ate).<br><i>the = sự vật cụ thể (hoa trong khu vườn này, thời tiết hôm nay, món cá đã ăn).</i><br><b>Điểm ngữ pháp</b>: Phòng của khách sạn này → The.",
+   "key": "I like this hotel. ___ rooms are very nice.|The"
+  },
+  {
+   "question": "I went shopping this morning. ___ shops were very busy.",
+   "a": "The",
+   "b": "–",
+   "c": "A",
+   "full": "I went shopping this morning. <b>The</b> shops were very busy.",
+   "vi": "<i>Sáng nay tôi đi mua sắm. <b>Các cửa hàng</b> rất đông.</i>",
+   "expl": "the = specific things (the flowers in this garden, the weather today, the fish we ate).<br><i>the = sự vật cụ thể (hoa trong khu vườn này, thời tiết hôm nay, món cá đã ăn).</i><br><b>Điểm ngữ pháp</b>: Cửa hàng sáng nay → The.",
+   "key": "I went shopping this morning. ___ shops were very busy.|The"
+  },
+  {
+   "question": "‘Where’s ___ milk?’ ‘It’s in the fridge.’",
+   "a": "the",
+   "b": "–",
+   "c": "a",
+   "full": "‘Where’s <b>the</b> milk?’ ‘It’s in the fridge.’",
+   "vi": "<i>‘<b>Sữa</b> đâu rồi?’ ‘Trong tủ lạnh.’</i>",
+   "expl": "the = specific things (the flowers in this garden, the weather today, the fish we ate).<br><i>the = sự vật cụ thể (hoa trong khu vườn này, thời tiết hôm nay, món cá đã ăn).</i><br><b>Điểm ngữ pháp</b>: Sữa cụ thể → the.",
+   "key": "‘Where’s ___ milk?’ ‘It’s in the fridge.’|the"
+  },
+  {
+   "question": "We went for a swim in the river. ___ water was very cold.",
+   "a": "The",
+   "b": "–",
+   "c": "A",
+   "full": "We went for a swim in the river. <b>The</b> water was very cold.",
+   "vi": "<i>Chúng tôi bơi ở sông. <b>Nước</b> rất lạnh.</i>",
+   "expl": "the = specific things (the flowers in this garden, the weather today, the fish we ate).<br><i>the = sự vật cụ thể (hoa trong khu vườn này, thời tiết hôm nay, món cá đã ăn).</i><br><b>Điểm ngữ pháp</b>: Nước sông đó → The.",
+   "key": "We went for a swim in the river. ___ water was very cold.|The"
+  },
+  {
+   "question": "Excuse me, can you pass ___ salt, please?",
+   "a": "the",
+   "b": "–",
+   "c": "a",
+   "full": "Excuse me, can you pass <b>the</b> salt, please?",
+   "vi": "<i>Xin lỗi, bạn chuyển giúp <b>lọ muối</b> được không?</i>",
+   "expl": "the = specific things (the flowers in this garden, the weather today, the fish we ate).<br><i>the = sự vật cụ thể (hoa trong khu vườn này, thời tiết hôm nay, món cá đã ăn).</i><br><b>Điểm ngữ pháp</b>: Muối trên bàn → the.",
+   "key": "Excuse me, can you pass ___ salt, please?|the"
+  },
+  {
+   "question": "I like this town. I like ___ people here.",
+   "a": "the",
+   "b": "–",
+   "c": "a",
+   "full": "I like this town. I like <b>the</b> people here.",
+   "vi": "<i>Tôi thích thị trấn này. Tôi quý <b>người dân</b> ở đây.</i>",
+   "expl": "the = specific things (the flowers in this garden, the weather today, the fish we ate).<br><i>the = sự vật cụ thể (hoa trong khu vườn này, thời tiết hôm nay, món cá đã ăn).</i><br><b>Điểm ngữ pháp</b>: Người ở đây (cụ thể) → the.",
+   "key": "I like this town. I like ___ people here.|the"
+  },
+  {
+   "question": "___ houses in this street are all the same.",
+   "a": "The",
+   "b": "–",
+   "c": "A",
+   "full": "<b>The</b> houses in this street are all the same.",
+   "vi": "<i><b>Những ngôi nhà</b> trên phố này đều giống nhau.</i>",
+   "expl": "the = specific things (the flowers in this garden, the weather today, the fish we ate).<br><i>the = sự vật cụ thể (hoa trong khu vườn này, thời tiết hôm nay, món cá đã ăn).</i><br><b>Điểm ngữ pháp</b>: Cụ thể → The.",
+   "key": "___ houses in this street are all the same.|The"
+  },
+  {
+   "question": "I can’t sing this song. I don’t know ___ words.",
+   "a": "the",
+   "b": "–",
+   "c": "a",
+   "full": "I can’t sing this song. I don’t know <b>the</b> words.",
+   "vi": "<i>Tôi không hát được bài này. Tôi không biết <b>lời bài hát</b>.</i>",
+   "expl": "the = specific things (the flowers in this garden, the weather today, the fish we ate).<br><i>the = sự vật cụ thể (hoa trong khu vườn này, thời tiết hôm nay, món cá đã ăn).</i><br><b>Điểm ngữ pháp</b>: Lời của bài này → the.",
+   "key": "I can’t sing this song. I don’t know ___ words.|the"
+  },
+  {
+   "question": "Do you want to see ___ pictures that I took when I was on holiday?",
+   "a": "the",
+   "b": "–",
+   "c": "a",
+   "full": "Do you want to see <b>the</b> pictures that I took when I was on holiday?",
+   "vi": "<i>Bạn có muốn xem <b>những bức ảnh</b> tôi chụp khi đi nghỉ không?</i>",
+   "expl": "the = specific things (the flowers in this garden, the weather today, the fish we ate).<br><i>the = sự vật cụ thể (hoa trong khu vườn này, thời tiết hôm nay, món cá đã ăn).</i><br><b>Điểm ngữ pháp</b>: Ảnh cụ thể → the.",
+   "key": "Do you want to see ___ pictures that I took when I was on holiday?|the"
+  }
+ ]
+}
