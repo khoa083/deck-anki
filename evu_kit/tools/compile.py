@@ -213,6 +213,24 @@ def theory_html(lines):
     return " ".join(out)
 
 
+IMAGES = {}
+for _s in json.load(open(os.path.join(KIT, "tools", "images.json"), encoding="utf-8")):
+    IMAGES.setdefault((_s["book"], _s["unit"]), []).append(_s)
+
+
+def images_html(book, un):
+    """Hình minh họa cắt từ trang sách gốc (tools/images.json, tạo bằng tools/mkimg.py) – khung bo góc, chú thích song ngữ."""
+    figs = []
+    for s in IMAGES.get((book, un), []):
+        figs.append(f'<figure style="margin: 10px auto 16px; max-width: 640px; text-align: center;">'
+                    f'<img src="{s["file"]}" style="width: 100%; height: auto; border-radius: 10px; border: 1px solid #e0e0e0; '
+                    f'box-shadow: 0 1px 4px rgba(0,0,0,0.12);">'
+                    f'<figcaption style="font-size: 0.85em; color: #666; margin-top: 6px;">{s["cap_en"]}<br><i>{s["cap_vi"]}</i></figcaption></figure>')
+    if not figs: return ""
+    return ('<hr><div style="text-align: center; color: rgb(0, 107, 166); margin-top: 8px;"><b>Book illustration</b>'
+            ' · <i>Hình minh họa từ sách</i></div>' + "".join(figs))
+
+
 def main():
     book = sys.argv[1]; bad = 0
     for un in [int(x) for x in sys.argv[2:] if x != '-q']:
@@ -221,7 +239,7 @@ def main():
         u = parse(os.path.join(KIT, "data", name + ".txt"), src)
         for e in u["errors"]: print(f"  LỖI {name}: {e}")
         bad += len(u["errors"])
-        out = {"book": book, "unit": un, "title_vi": u["title_vi"], "theory_html": theory_html(u["theory"]), "items": u["items"]}
+        out = {"book": book, "unit": un, "title_vi": u["title_vi"], "theory_html": theory_html(u["theory"]) + images_html(book, un), "items": u["items"]}
         json.dump(out, open(os.path.join(KIT, "units", name + ".json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
         if "-q" not in sys.argv:
             for it in u["items"]:

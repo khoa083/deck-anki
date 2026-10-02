@@ -14,10 +14,13 @@
 |---|---|---|
 | E1 | Elementary 1–60 | 60 unit, 1244 mục; build 1305 note / 2549 thẻ (60 note lý thuyết + 1 mục lục); 0 bad renders; audio 1244/1244; GUID trùng 0; note logic trùng 0 |
 | E2 | Pre-int & Int 1–100 | 100 unit, 2260 mục (365 câu kit đặt); build 2361 note / 4621 thẻ (100 note lý thuyết + 1 mục lục); 0 bad renders; audio 2260/2260; GUID trùng 0; note logic trùng 0 |
-| E3 | Upper-int 5–79, 83–101 (+ demo 1–4, 80–82) | 94 unit, 2486 mục mới (784 câu kit đặt); build 3124 note / 6146 thẻ (2486 mới + 94 lý thuyết + 544 note demo giữ nguyên, 291 IPA demo đổi sang chuẩn Anh); 0 bad renders; audio 3022/3022; GUID trùng 0; note logic trùng 0 |
+| E3 | Upper-int 5–79, 83–101 (+ demo 1–4, 80–82) | 94 unit, 2485 mục mới (784 câu kit đặt; bỏ `Briton` u100 trùng u05 ở lượt rà soát); build 3123 note / 6144 thẻ (2485 mới + 94 lý thuyết + 544 note demo giữ nguyên, 291 IPA demo đổi sang chuẩn Anh); 0 bad renders; audio 3021/3021; GUID trùng 0; note logic trùng 0 |
 | E4 | Advanced 1–101 | 101 unit, 2654 mục (347 câu kit đặt); build 2756 note / 5410 thẻ (101 note lý thuyết + 1 mục lục); 0 bad renders; audio 2654/2654; GUID trùng 0; note logic trùng 0 |
 | E6 | GVA 1–45 | 45 unit, 1083 mục (129 câu kit đặt); build 1129 note / 2212 thẻ (45 note lý thuyết + 1 mục lục); 0 bad renders; audio 1083/1083; GUID trùng 0; note logic trùng 0 |
-| E5 | Business Int 1–66 | 66 unit, 1220 mục (45 câu kit đặt); build 1287 note / 2507 thẻ (66 note lý thuyết + 1 mục lục); 0 bad renders; audio 1220/1220; GUID trùng 0; note logic trùng 0 |
+| E5 | Business Int 1–66 | 66 unit, 1220 mục (48 câu kit đặt); build 1287 note / 2507 thẻ (66 note lý thuyết + 1 mục lục); 0 bad renders; audio 1220/1220; GUID trùng 0; note logic trùng 0 |
+
+| R | Rà soát cuối toàn bộ (6 sách EVU + EPV) | 366 bản sửa dữ liệu (cặp EN/VI lệch nghĩa, câu sách bị cắt, nhãn người nói/nhãn liệt kê dính vào câu, tiêu đề dính câu, bôi đậm VI sai chỗ, trùng thẻ); EPV đọc lại 1847 mục – không cần sửa; build lại 6 sách: 0 bad renders, audio đủ, GUID trùng 0, note logic trùng 0 |
+| I | Hình minh họa | 80 ảnh cắt từ trang sách gốc trong note lý thuyết (ele 28, pre 29, upp 16, bus 3, gva 3, adv 1) |
 
 ## Quyết định thiết kế (đã đối chiếu 2 deck demo)
 - **Note type & giao diện**: lấy nguyên từ demo `English Vocabulary In Use (Upper-Intermediate).apkg` – "(Vocab In Use) Nhìn từ đoán nghĩa" (13 field: Từ vựng, Định nghĩa (a), IPA, Định nghĩa (v), Dịch nghĩa, Câu ví dụ hoàn chỉnh, Dịch câu ví dụ, Trái nghĩa, Đồng nghĩa, Ngữ pháp, Phát âm, STT, Nguồn; 2 thẻ) + "Tóm tắt" (lý thuyết). Không thêm field (khác EPV: demo EVU không có field lý thuyết trong note từ vựng).
@@ -32,6 +35,9 @@
 - **Audio**: Kokoro TTS offline, giọng `bm_george` (như EPV), mp3 mono 24 kHz **64 kbps** (EPV 96 kbps) để apkg mỗi sách < 100 MB. `media/` không commit (tái tạo xác định bằng `evu.py audio`).
 - **GUID**: `evu|book|unit|word|sense` (sha1) → build lại nhiều lần không nhân đôi; verify đếm GUID trùng + note logic trùng.
 - **Nguồn PDF**: `tools/extract_src.py` dựng dòng từ glyph (rawdict): chèn dấu cách theo khoảng trống glyph (PDF Elementary không có ký tự cách), đánh dấu **in đậm**, sửa glyph ghép bị mất (fi/fl/ff…) bằng tần suất từ `wordfreq`, ghi mọi chỗ sửa ở dòng `### LIGATURE`.
+
+- **Hình minh họa** (`tools/images.json` → `tools/mkimg.py` → `img/`, không commit, tạo lại từ PDF): chỉ thêm khi tranh là chính nội dung từ vựng – trang lý thuyết dạng từ điển tranh có nhãn (bộ phận cơ thể, quần áo, nhà bếp, động vật, phương tiện, biển báo, hình khối, đồ chứa…) và vài ảnh cắt mục tiêu: sơ đồ phân phối (bus u24), sơ đồ tổ chức (bus u09), dụng cụ thuyết trình (bus u60), bảng màu (adv u65), tranh thể thao mạo hiểm/phương tiện mới/nét mặt (gva u30/u34/u35). Không thêm ảnh trang chủ yếu là chữ/bảng hoặc tranh trang trí. Ảnh đặt cuối note lý thuyết dưới tiêu đề song ngữ, khung bo góc, chú thích song ngữ; JPEG rộng ~900 px, bỏ chân trang. Chú thích chỉ dùng chữ của sách (GVA không có đáp án nên không tự gán tranh ↔ từ).
+- `compile.py`: bỏ nhãn liệt kê `b–h` của sách đứng đầu câu (`a` trùng mạo từ → sửa tay bằng `exb`).
 
 ## Deviations
 - Elementary: `music` (u15 môn học / u26 sense general), `musical` (u24 phim / u26 sense adjective), `take off` (u4 cởi / u32 sense plane), `turn down` (u46 volume / refuse), `call` (u2 đặt tên / u17 sense phone), `hot`/`cold` (u7 cảm giác / u28 sense weather), `dry` (u11 lau khô / u28 sense weather), `back` (u3 lưng / u53 sense place), `right` (u53 phải / u54 sense correct), `well` (u6 khỏe / u54 sense manner), `get` (u45 become / obtain), `take` (u43 time / u44 carry), `play` (u23 / u24 sense act), `mug` (u11 cốc / u34 sense attack), `side` (u3 / u53 position), `water` (u36 tưới / u55 drink), `crash` (u36 computer), `fly` (u18 / u49 pilot), `carry`, `pass`, `after`, `like`, `for`, `do`, `single`, `delete`, `hope` – mỗi cặp là nghĩa khác, có `sense`.

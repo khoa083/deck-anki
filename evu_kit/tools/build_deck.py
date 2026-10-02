@@ -76,6 +76,7 @@ def validate(u, fname, book):
     body = u.get("theory_html", "")
     if len(strip_html(body)) < 150: E.append("theory_html quá ngắn")
     E += ["theory_html: " + e for e in tag_balance_errors(body)]
+    E += [f"thiếu ảnh img/{f} – chạy tools/mkimg.py" for f in re.findall(r'<img src="([^"]+)"', body) if not os.path.exists(os.path.join(KIT, "img", f))]
     if len(u.get("items", [])) < 3: E.append("quá ít mục")
     seen = set()
     for k, it in enumerate(u.get("items", []), 1):
@@ -161,6 +162,7 @@ def main():
         if un in demo_units(book): continue
         sec, sub = section_of(book, un), unit_deck(book, un); tag = [f"EVU::{book}::u{un:02d}"]
         n = col.new_note(tm); n.guid = guid_for(book, un, "__theory__")
+        for f in re.findall(r'<img src="([^"]+)"', u["theory_html"]): col.media.add_file(os.path.join(KIT, "img", f))
         n.fields[0] = curly(theory_field(book, u)); n.fields[3] = SOURCE; n.tags = tag
         col.add_note(n, deck(root, V_THEORY, sec, sub)); st["theory_added"] += 1
         d_look, d_listen = deck(root, V_LOOK, sec, sub), deck(root, V_LISTEN, sec, sub)
