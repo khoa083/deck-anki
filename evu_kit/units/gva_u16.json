@@ -1,0 +1,200 @@
+{
+ "book": "gva",
+ "unit": 16,
+ "title_vi": "Mệnh đề danh từ",
+ "theory_html": "<p><b>2.1. Noun clauses</b><br><i>2.1. Mệnh đề danh từ</i></p> <p>A noun clause functions like a noun or noun phrase; usually begins with <b>that</b> or a wh-word (<b>what, when, where, which, who, why, whether, whatever, how</b>).</p><p><i>Mệnh đề danh từ có chức năng như danh từ; bắt đầu bằng <b>that</b> hoặc từ để hỏi.</i></p> <p><b>2.2. That-noun clauses</b><br><i>2.2. Mệnh đề danh từ với that</i></p> <p><b>that</b> often left out informally; <b>the fact that</b> when the clause is subject, after a preposition or after <b>change, face (up to), overlook</b>; also <b>the argument / assumption / belief / claim / idea / notion / view that</b>.</p><p><i>Có thể bỏ <b>that</b>; dùng <b>the fact that</b> làm chủ ngữ, sau giới từ; <b>the idea that</b>.</i></p> <p><b>2.3. Wh-noun clauses</b><br><i>2.3. Mệnh đề danh từ với wh-</i></p> <p><b>of</b> + wh-word after nouns like <b>example, problem</b>; object before wh-word with <b>advise, teach</b>; <b>how</b> after <b>decide, know</b>; wh-clause (not that-clause) after a preposition; <b>whatever, whoever, whichever</b> for indefinite things/people; alternatives <b>the reason (why), something which, the place, the time, the way, somebody</b>.</p><p><i><b>the example of what…</b>; <b>advise you when…</b>; sau giới từ dùng wh-; <b>whatever, whoever</b>.</i></p> <p><b>2.4. Whether and if</b><br><i>2.4. Whether và if</i></p> <p><b>whether / if</b> for possible choices (vs <b>that</b> for facts); formal <b>as to whether</b>; only <b>whether</b> before <b>or not</b>, before a to-infinitive, usually after a preposition and after <b>advise, choose, consider, debate, discuss, enquire, question</b>, and as subject or complement.</p><p><i><b>whether</b> (không <b>if</b>) trước <b>or not</b>, to V, sau giới từ, làm chủ ngữ.</i></p>",
+ "items": [
+  {
+   "word": "noun clause",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈnaʊn klɔːz/",
+   "def_en": "A clause that functions in a sentence like a noun or noun phrase.",
+   "def_vi": "Mệnh đề có chức năng như danh từ.",
+   "gloss_vi": "mệnh đề danh từ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Noun clause</i> (structure) = mệnh đề danh từ. <b>Grammar</b>: bắt đầu bằng <i>that</i> hoặc <i>what, when, where, why, whether, how</i>.",
+   "example": {
+    "en": "<b>What you've told us</b> is very interesting.",
+    "vi": "<b>Những gì bạn kể</b> rất thú vị."
+   }
+  },
+  {
+   "word": "that (omitted)",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ðæt/",
+   "def_en": "That is often left out at the beginning of a that-noun clause in informal contexts.",
+   "def_vi": "Thường bỏ that ở đầu mệnh đề danh từ khi thân mật.",
+   "gloss_vi": "rằng (có thể bỏ)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>That (omitted)</i> (structure) = rằng (có thể bỏ). <b>Grammar</b>: = <i>I can guarantee you'll make…</i>.",
+   "example": {
+    "en": "I can guarantee <b>that</b> you'll make a lot of new friends.",
+    "vi": "Tôi đảm bảo <b>rằng</b> bạn sẽ có nhiều bạn mới."
+   }
+  },
+  {
+   "word": "the fact that",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ðə ˈfækt ðæt/",
+   "def_en": "Used instead of that when the noun clause is subject, after prepositions, or after face, overlook.",
+   "def_vi": "Dùng thay that khi làm chủ ngữ, sau giới từ, sau face, overlook.",
+   "gloss_vi": "việc / thực tế là",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The fact that</i> (structure) = việc / thực tế là. <b>Grammar</b>: <i>face (up to) the fact that…</i>; cũng <i>the idea / belief / claim that</i>.",
+   "example": {
+    "en": "<b>The fact that</b> you're not a member of the trust makes no difference.",
+    "vi": "<b>Việc</b> bạn không phải thành viên không quan trọng."
+   }
+  },
+  {
+   "word": "the idea that",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ði aɪˈdɪə ðæt/",
+   "def_en": "A noun like idea, belief, claim, view used before a that-clause.",
+   "def_vi": "Danh từ như idea, belief, claim + that.",
+   "gloss_vi": "ý nghĩ rằng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The idea that</i> (structure) = ý nghĩ rằng. <b>Grammar</b>: cũng <i>argument, assumption, notion, view</i>.",
+   "example": {
+    "en": "<b>The idea that</b> it's all hard work is just wrong.",
+    "vi": "<b>Ý nghĩ rằng</b> toàn là việc nặng nhọc là sai."
+   }
+  },
+  {
+   "word": "the example of what",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ði ɪɡˈzɑːmpl əv wɒt/",
+   "def_en": "Of before a wh-word after nouns like example, problem.",
+   "def_vi": "of trước từ để hỏi sau example, problem.",
+   "gloss_vi": "tấm gương về những gì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The example of what</i> (structure) = tấm gương về những gì. <b>Grammar</b>: danh từ + <i>of</i> + wh-.",
+   "example": {
+    "en": "We'd like to follow <b>the example of what</b> they've done at Broadstone Park",
+    "vi": "Chúng tôi muốn theo <b>tấm gương về những gì</b> họ làm ở Broadstone Park."
+   }
+  },
+  {
+   "word": "advise sb when",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ədˈvaɪz ... wen/",
+   "def_en": "Some verbs must have an object before the wh-word.",
+   "def_vi": "Vài động từ cần tân ngữ trước từ để hỏi.",
+   "gloss_vi": "khuyên ai khi nào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Advise sb when</i> (structure) = khuyên ai khi nào. <b>Grammar</b>: cũng <i>teach sb how</i>.",
+   "example": {
+    "en": "I'll be happy to <b>advise you when</b> to come.",
+    "vi": "Tôi sẵn lòng <b>khuyên bạn khi nào</b> nên đến."
+   }
+  },
+  {
+   "word": "about what",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/əˈbaʊt wɒt/",
+   "def_en": "A wh-noun clause (not a that-clause) can follow a preposition.",
+   "def_vi": "Sau giới từ dùng mệnh đề wh- (không that).",
+   "gloss_vi": "về những gì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>About what</i> (structure) = về những gì. <b>Grammar</b>: không <i>about that I've said</i>.",
+   "example": {
+    "en": "If you've got any questions <b>about what</b> I've said so far, I'd be happy to answer them.",
+    "vi": "Nếu có câu hỏi <b>về những gì</b> tôi nói, tôi sẵn lòng trả lời."
+   }
+  },
+  {
+   "word": "whatever",
+   "sense": "",
+   "pos": "pronoun",
+   "ipa": "/wɒtˈevə(r)/",
+   "def_en": "Anything; it doesn’t matter what.",
+   "def_vi": "Bất cứ thứ gì.",
+   "gloss_vi": "bất cứ gì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Whatever</i> (pronoun) = bất cứ gì. <b>Grammar</b>: cũng <i>whoever</i> (người nào), <i>whichever</i> (cái nào trong số có hạn).",
+   "example": {
+    "en": "We will be very grateful for <b>whatever</b> time people can spare.",
+    "vi": "Chúng tôi rất biết ơn <b>bất cứ</b> thời gian nào mọi người dành ra."
+   }
+  },
+  {
+   "word": "whoever",
+   "sense": "",
+   "pos": "pronoun",
+   "ipa": "/huːˈevə(r)/",
+   "def_en": "The person or group who; any person who.",
+   "def_vi": "Người nào, bất cứ ai.",
+   "gloss_vi": "bất cứ ai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Whoever</i> (pronoun) = bất cứ ai. <b>Grammar</b>: mệnh đề danh từ chỉ người không xác định.",
+   "example": {
+    "en": "You can phone <b>whoever</b> is in charge of arranging lifts",
+    "vi": "Bạn có thể gọi <b>người nào</b> phụ trách sắp xếp xe."
+   }
+  },
+  {
+   "word": "whether",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/ˈweðə(r)/",
+   "def_en": "Used for possible choices, similar to if.",
+   "def_vi": "Dùng cho lựa chọn có thể, như if.",
+   "gloss_vi": "liệu… hay không",
+   "synonyms": "if <i>(conj. liệu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Whether</i> (conjunction) = liệu… hay không. <b>Grammar</b>: <i>whether</i> (không <i>if</i>) trước <i>or not</i>, to V, sau giới từ, làm chủ ngữ.",
+   "example": {
+    "en": "I can't remember <b>whether</b> it runs on Sundays.",
+    "vi": "Tôi không nhớ <b>liệu</b> nó có chạy Chủ nhật <b>không</b>."
+   }
+  },
+  {
+   "word": "as to whether",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/əz tə ˈweðə(r)/",
+   "def_en": "About, concerning (formal, before a whether-clause).",
+   "def_vi": "Về việc liệu (trang trọng).",
+   "gloss_vi": "về việc liệu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As to whether</i> (structure) = về việc liệu. <b>Grammar</b>: trang trọng, văn viết.",
+   "example": {
+    "en": "There was some debate <b>as to whether</b> he could legally give us the land.",
+    "vi": "Có tranh luận <b>về việc liệu</b> ông ấy có thể hợp pháp cho đất không."
+   }
+  },
+  {
+   "word": "whether to",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈweðə tə/",
+   "def_en": "Whether (not if) before a to-infinitive.",
+   "def_vi": "whether (không if) trước to V.",
+   "gloss_vi": "có nên… hay không",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Whether to</i> (structure) = có nên… hay không. <b>Grammar</b>: không <i>if to</i>.",
+   "example": {
+    "en": "I can't make up my mind <b>whether to</b> help on Saturdays or Sundays.",
+    "vi": "Tôi không quyết được <b>nên</b> giúp thứ Bảy hay Chủ nhật."
+   }
+  }
+ ]
+}
