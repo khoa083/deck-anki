@@ -1,0 +1,329 @@
+{
+ "book": "adv",
+ "unit": 30,
+ "title_vi": "Tường gạch và trần kính",
+ "theory_html": "<p><b>A. Buildings</b><br><i>A. Công trình</i></p> <p>Building words used metaphorically: <b>build up</b> [praise to increase expectations], <b>cement</b> [make relationships more solid], <b>come up against a brick wall</b> [meet a barrier], <b>ceiling</b> [a limit], <b>glass ceiling</b> [invisible barrier stopping women rising to top positions], <b>the roof fell in, the floor gives way, go through the roof</b> (of prices), <b>hit the roof</b> [get very angry], <b>window of opportunity, go out (of) the window, ivory tower, tower of strength, tower above</b>.</p><p><i>Từ về công trình dùng ẩn dụ: <b>tâng bốc, củng cố, gặp bức tường, mức trần, trần kính, thế giới sụp đổ, ngất, tăng vọt, nổi giận, cơ hội, tan biến, tháp ngà, chỗ dựa vững chắc, vượt trội</b>.</i></p> <p><b>B. Entrances</b><br><i>B. Lối vào</i></p> <p><b>a gateway to, close/shut doors, open doors, close the door on, through/by the back door, behind closed doors, provide/hold the key to, the key to success</b>.</p><p><i><b>cửa ngõ dẫn tới, đóng cửa cơ hội, mở ra cơ hội, khép lại quá khứ, đi cửa sau, kín đáo bí mật, nắm chìa khóa, chìa khóa thành công</b>.</i></p>",
+ "items": [
+  {
+   "word": "build up",
+   "sense": "praise",
+   "pos": "verb",
+   "ipa": "/ˌbɪld ˈʌp/",
+   "def_en": "To praise someone in a way that increases expectations of them.",
+   "def_vi": "Khen ai làm tăng kỳ vọng.",
+   "gloss_vi": "tâng bốc",
+   "synonyms": "hype <i>(v. thổi phồng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Build up</i> (verb) = tâng bốc. <b>Grammar</b>: <i>build sb/sth up</i>.",
+   "example": {
+    "en": "The press has <b>built up</b> the young footballer so much that it must be extra pressure on him.",
+    "vi": "Báo chí đã <b>tâng bốc</b> cầu thủ trẻ quá nhiều."
+   }
+  },
+  {
+   "word": "cement",
+   "sense": "relationship",
+   "pos": "verb",
+   "ipa": "/sɪˈment/",
+   "def_en": "To make a relationship more solid.",
+   "def_vi": "Làm quan hệ bền chặt hơn.",
+   "gloss_vi": "củng cố",
+   "synonyms": "strengthen <i>(v. củng cố)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cement</i> (verb) = củng cố. <b>Grammar</b>: cũng danh từ.",
+   "example": {
+    "en": "Let’s have a drink together <b>to cement</b> our partnership.",
+    "vi": "Hãy uống một ly để <b>củng cố</b> quan hệ đối tác."
+   }
+  },
+  {
+   "word": "come up against a brick wall",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkʌm ʌp əˌɡenst ə ˌbrɪk ˈwɔːl/",
+   "def_en": "To meet a barrier.",
+   "def_vi": "Gặp trở ngại.",
+   "gloss_vi": "gặp bức tường ngăn cản",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Come up against a brick wall</i> (verb) = gặp bức tường ngăn cản. <b>Grammar</b>: động từ nhiều từ <i>come up against a brick wall</i>.",
+   "example": {
+    "en": "When I tried to find out who had opened my letters, I <b>came up against a brick wall</b>.",
+    "vi": "Khi cố tìm ai mở thư, tôi <b>gặp bức tường ngăn cản</b>."
+   }
+  },
+  {
+   "word": "ceiling",
+   "sense": "limit",
+   "pos": "noun",
+   "ipa": "/ˈsiːlɪŋ/",
+   "def_en": "A limit on something.",
+   "def_vi": "Giới hạn.",
+   "gloss_vi": "mức trần",
+   "synonyms": "limit <i>(n. giới hạn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ceiling</i> (noun) = mức trần. <b>Collocations / chunks</b>: <i>put a ceiling on</i>.",
+   "example": {
+    "en": "They put a <b>ceiling</b> on the number of planned redundancies.",
+    "vi": "Họ đặt <b>mức trần</b> cho số người bị cắt giảm."
+   }
+  },
+  {
+   "word": "glass ceiling",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɡlɑːs ˈsiːlɪŋ/",
+   "def_en": "An invisible barrier that stops people, especially women, from rising to top positions.",
+   "def_vi": "Rào cản vô hình ngăn phụ nữ lên vị trí cao.",
+   "gloss_vi": "trần kính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Glass ceiling</i> (noun) = trần kính. <b>Collocations / chunks</b>: cụm danh từ cố định <i>glass ceiling</i>.",
+   "example": {
+    "en": "The <b>glass ceiling</b> is a phrase used to refer to an invisible barrier.",
+    "vi": "<b>Trần kính</b> là rào cản vô hình ở nơi làm việc."
+   }
+  },
+  {
+   "word": "the roof fell in",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ðə ˌruːf fel ˈɪn/",
+   "def_en": "Your world collapsed.",
+   "def_vi": "Thế giới sụp đổ.",
+   "gloss_vi": "trời sập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The roof fell in</i> (cl) = trời sập. <b>Grammar</b>: ẩn dụ.",
+   "example": {
+    "en": "The <b>roof fell in</b> on my world on the day he died.",
+    "vi": "<b>Trời như sập xuống</b> với tôi vào ngày anh ấy mất."
+   }
+  },
+  {
+   "word": "go through the roof",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡəʊ θruː ðə ˈruːf/",
+   "def_en": "(Of prices) to increase rapidly and uncontrollably (informal).",
+   "def_vi": "(Giá) tăng vọt không kiểm soát (thân mật).",
+   "gloss_vi": "tăng vọt",
+   "synonyms": "soar <i>(v. tăng vọt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go through the roof</i> (verb) = tăng vọt. <b>Grammar</b>: thân mật.",
+   "ex_kit": true,
+   "example": {
+    "en": "House prices have <b>gone through the roof</b>.",
+    "vi": "Giá nhà <b>tăng vọt</b>."
+   }
+  },
+  {
+   "word": "hit the roof",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌhɪt ðə ˈruːf/",
+   "def_en": "To get very angry.",
+   "def_vi": "Rất tức giận.",
+   "gloss_vi": "nổi trận lôi đình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hit the roof</i> (verb) = nổi trận lôi đình. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "My mother will <b>hit the roof</b> when she sees what we’ve done.",
+    "vi": "Mẹ tôi sẽ <b>nổi trận lôi đình</b> khi thấy chúng tôi đã làm gì."
+   }
+  },
+  {
+   "word": "window of opportunity",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌwɪndəʊ əv ˌɒpəˈtjuːnəti/",
+   "def_en": "A chance to do something special.",
+   "def_vi": "Cơ hội làm điều đặc biệt.",
+   "gloss_vi": "cơ hội",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Window of opportunity</i> (noun) = cơ hội. <b>Collocations / chunks</b>: cụm danh từ cố định <i>window of opportunity</i>.",
+   "example": {
+    "en": "If you see a <b>window of opportunity</b>, then take advantage of it.",
+    "vi": "Nếu thấy <b>cơ hội</b>, hãy tận dụng nó."
+   }
+  },
+  {
+   "word": "go out of the window",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡəʊ ˌaʊt əv ðə ˈwɪndəʊ/",
+   "def_en": "(Of a quality or idea) to disappear.",
+   "def_vi": "(Phẩm chất, ý tưởng) biến mất.",
+   "gloss_vi": "tan biến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go out of the window</i> (verb) = tan biến. <b>Grammar</b>: cũng <i>go out the window</i>.",
+   "example": {
+    "en": "Once the boys started going around together, common sense <b>went out of the window</b>.",
+    "vi": "Khi bọn con trai đi cùng nhau, lý trí <b>tan biến</b>."
+   }
+  },
+  {
+   "word": "ivory tower",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌaɪvəri ˈtaʊə(r)/",
+   "def_en": "A place where someone does not know about the ordinary, unpleasant things in life.",
+   "def_vi": "Nơi tách biệt khỏi thực tế đời thường.",
+   "gloss_vi": "tháp ngà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ivory tower</i> (noun) = tháp ngà. <b>Collocations / chunks</b>: cụm danh từ cố định <i>ivory tower</i>.",
+   "example": {
+    "en": "Academics are often criticised for living in their <b>ivory towers</b>.",
+    "vi": "Giới học thuật thường bị chê sống trong <b>tháp ngà</b>."
+   }
+  },
+  {
+   "word": "tower of strength",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌtaʊər əv ˈstreŋθ/",
+   "def_en": "A person who is extremely strong emotionally.",
+   "def_vi": "Người rất vững vàng về tinh thần.",
+   "gloss_vi": "chỗ dựa vững chắc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tower of strength</i> (noun) = chỗ dựa vững chắc. <b>Collocations / chunks</b>: cụm danh từ cố định <i>tower of strength</i>.",
+   "example": {
+    "en": "Our friends were a <b>tower of strength</b> when our house burnt down.",
+    "vi": "Bạn bè là <b>chỗ dựa vững chắc</b> khi nhà chúng tôi bị cháy."
+   }
+  },
+  {
+   "word": "tower above",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈtaʊər əbʌv/",
+   "def_en": "To be outstandingly tall or outstanding in another way.",
+   "def_vi": "Cao vượt hẳn hay nổi bật.",
+   "gloss_vi": "cao vượt hẳn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tower above</i> (verb) = cao vượt hẳn. <b>Grammar</b>: <i>tower above/over</i>.",
+   "example": {
+    "en": "Lauren <b>towers above</b> all her classmates.",
+    "vi": "Lauren <b>cao vượt hẳn</b> các bạn cùng lớp."
+   }
+  },
+  {
+   "word": "a gateway to",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ə ˈɡeɪtweɪ tə/",
+   "def_en": "An opportunity to get somewhere.",
+   "def_vi": "Cơ hội đến được đâu.",
+   "gloss_vi": "cửa ngõ dẫn tới",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A gateway to</i> (noun) = cửa ngõ dẫn tới. <b>Collocations / chunks</b>: cụm danh từ cố định <i>a gateway to</i>.",
+   "example": {
+    "en": "A degree in law is a <b>gateway to</b> a well-paid job.",
+    "vi": "Bằng luật là <b>cửa ngõ dẫn tới</b> công việc lương cao."
+   }
+  },
+  {
+   "word": "open doors",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌəʊpən ˈdɔːz/",
+   "def_en": "To create opportunities.",
+   "def_vi": "Tạo cơ hội.",
+   "gloss_vi": "mở ra cơ hội",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "close doors <i>(v. đóng cửa cơ hội)</i>",
+   "grammar_vi": "<i>Open doors</i> (verb) = mở ra cơ hội. <b>Grammar</b>: trái nghĩa <i>close/shut doors</i>.",
+   "example": {
+    "en": "Knowing several languages <b>opens doors</b> when it comes to finding work.",
+    "vi": "Biết nhiều ngoại ngữ <b>mở ra cơ hội</b> khi tìm việc."
+   }
+  },
+  {
+   "word": "close the door on",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkləʊz ðə ˈdɔːr ɒn/",
+   "def_en": "To end something and make a fresh start.",
+   "def_vi": "Kết thúc và bắt đầu lại.",
+   "gloss_vi": "khép lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Close the door on</i> (verb) = khép lại. <b>Grammar</b>: động từ nhiều từ <i>close the door on</i>.",
+   "example": {
+    "en": "The new year gives us the opportunity to <b>close the door on</b> the past.",
+    "vi": "Năm mới cho ta cơ hội <b>khép lại</b> quá khứ."
+   }
+  },
+  {
+   "word": "by the back door",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/baɪ ðə ˌbæk ˈdɔː(r)/",
+   "def_en": "Unofficially.",
+   "def_vi": "Không chính thức.",
+   "gloss_vi": "bằng cửa sau",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>By the back door</i> (adverb) = bằng cửa sau. <b>Grammar</b>: cũng <i>through the back door</i>.",
+   "example": {
+    "en": "Jack came into the business <b>by the back door</b>.",
+    "vi": "Jack vào công ty <b>bằng cửa sau</b>."
+   }
+  },
+  {
+   "word": "behind closed doors",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/bɪˌhaɪnd ˌkləʊzd ˈdɔːz/",
+   "def_en": "In secret.",
+   "def_vi": "Bí mật.",
+   "gloss_vi": "sau cánh cửa đóng kín",
+   "synonyms": "in private <i>(adv. kín)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Behind closed doors</i> (adverb) = sau cánh cửa đóng kín. <b>Collocations / chunks</b>: cụm trạng từ cố định <i>behind closed doors</i>.",
+   "example": {
+    "en": "The decision was taken <b>behind closed doors</b>.",
+    "vi": "Quyết định được đưa ra <b>sau cánh cửa đóng kín</b>."
+   }
+  },
+  {
+   "word": "hold the key to",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌhəʊld ðə ˈkiː tə/",
+   "def_en": "To be the most important thing for achieving something.",
+   "def_vi": "Là điều quan trọng nhất để đạt điều gì.",
+   "gloss_vi": "nắm giữ chìa khóa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hold the key to</i> (verb) = nắm giữ chìa khóa. <b>Grammar</b>: cũng <i>provide the key to</i>.",
+   "example": {
+    "en": "This research may provide/<b>hold the key to</b> developing a cure for cancer.",
+    "vi": "Nghiên cứu này có thể <b>nắm giữ chìa khóa</b> chữa ung thư."
+   }
+  },
+  {
+   "word": "the key to success",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ðə ˌkiː tə səkˈses/",
+   "def_en": "The most important thing for success.",
+   "def_vi": "Điều quan trọng nhất để thành công.",
+   "gloss_vi": "chìa khóa thành công",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The key to success</i> (noun) = chìa khóa thành công. <b>Collocations / chunks</b>: cụm danh từ cố định <i>the key to success</i>.",
+   "example": {
+    "en": "Knowing the right people is <b>the key to success</b> in that country.",
+    "vi": "Quen đúng người là <b>chìa khóa thành công</b> ở đó."
+   }
+  }
+ ]
+}

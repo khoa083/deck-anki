@@ -1,0 +1,376 @@
+{
+ "book": "adv",
+ "unit": 29,
+ "title_vi": "Thời tiết và khí hậu",
+ "theory_html": "<p><b>A. Weather conversations</b><br><i>A. Hội thoại về thời tiết</i></p> <p>Agreeing using near-synonyms (B is more informal): <b>cold – chilly/freezing/nippy; hot – boiling/sweltering/roasting; windy – blowy/breezy; oppressive/sultry – stifling/heavy/close; downpour/deluge – chucking it down / it’s pouring; humid – muggy/clammy/sticky</b>.</p><p><i>Đồng ý bằng từ gần nghĩa: <b>lạnh, nóng, gió, oi bức, mưa như trút, ẩm</b>.</i></p> <p><b>B. Climate and metaphors</b><br><i>B. Khí hậu và ẩn dụ</i></p> <p><b>Climate</b> can refer to the general atmosphere in society: <b>climate of distrust/change</b>; collocates with <b>cultural, current, economic, financial, moral, political, social, prevailing</b>. Others: <b>sunny disposition, frosty reception, snowed under, under a cloud, cloud your judgement, hail of bullets, hail/storm of abuse, hazy memory, in the mists of history, whirlwind, whirlwind romance, thunder, thunderous applause</b> (<b>thundery</b> = stormy weather), <b>winds of change</b>.</p><p><i>Ẩn dụ khí hậu: <b>bầu không khí ngờ vực, tính tình vui vẻ, đón tiếp lạnh nhạt, ngập việc, bị nghi ngờ, che mờ phán đoán, mưa đạn, cơn bão chửi rủa, ký ức mơ hồ, chìm trong màn sương lịch sử, cơn lốc, tình yêu chớp nhoáng, ầm ầm, tràng pháo tay như sấm, làn gió thay đổi</b>.</i></p>",
+ "items": [
+  {
+   "word": "chilly",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈtʃɪli/",
+   "def_en": "Unpleasantly cold.",
+   "def_vi": "Lạnh khó chịu.",
+   "gloss_vi": "se lạnh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chilly</i> (adjective) = se lạnh. <b>Grammar</b>: thân mật hơn <i>cold</i>.",
+   "example": {
+    "en": "Yes, it’s <b>chilly</b>, isn’t it?",
+    "vi": "Ừ, trời <b>se lạnh</b> nhỉ?"
+   }
+  },
+  {
+   "word": "nippy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈnɪpi/",
+   "def_en": "Cold (informal).",
+   "def_vi": "Lạnh (thân mật).",
+   "gloss_vi": "lạnh buốt",
+   "synonyms": "chilly <i>(adj. se lạnh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nippy</i> (adjective) = lạnh buốt. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "Yes, it’s <b>nippy</b>, isn’t it?",
+    "vi": "Ừ, trời <b>lạnh buốt</b> nhỉ?"
+   }
+  },
+  {
+   "word": "sweltering",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsweltərɪŋ/",
+   "def_en": "Extremely hot.",
+   "def_vi": "Cực kỳ nóng.",
+   "gloss_vi": "nóng như thiêu",
+   "synonyms": "boiling <i>(adj. nóng sôi)</i>",
+   "antonyms": "freezing <i>(adj. lạnh cóng)</i>",
+   "grammar_vi": "<i>Sweltering</i> (adjective) = nóng như thiêu. <b>Grammar</b>: cũng <i>boiling, roasting</i>.",
+   "example": {
+    "en": "Yes, it’s <b>sweltering</b>!",
+    "vi": "Ừ, trời <b>nóng như thiêu</b>!"
+   }
+  },
+  {
+   "word": "breezy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈbriːzi/",
+   "def_en": "Quite windy.",
+   "def_vi": "Có gió nhẹ.",
+   "gloss_vi": "lộng gió",
+   "synonyms": "blowy <i>(adj. có gió)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Breezy</i> (adjective) = lộng gió. <b>Grammar</b>: thân mật hơn <i>windy</i>.",
+   "example": {
+    "en": "Yes, really blowy/<b>breezy</b>, isn’t it?",
+    "vi": "Ừ, trời thật <b>lộng gió</b> nhỉ?"
+   }
+  },
+  {
+   "word": "sultry",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsʌltri/",
+   "def_en": "Hot and humid, making you feel uncomfortable.",
+   "def_vi": "Nóng ẩm, khó chịu.",
+   "gloss_vi": "oi bức",
+   "synonyms": "oppressive <i>(adj. ngột ngạt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sultry</i> (adjective) = oi bức. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "What oppressive/<b>sultry</b> weather!",
+    "vi": "Thời tiết <b>oi bức</b> quá!"
+   }
+  },
+  {
+   "word": "stifling",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈstaɪflɪŋ/",
+   "def_en": "So hot it is difficult to breathe.",
+   "def_vi": "Nóng đến khó thở.",
+   "gloss_vi": "ngột ngạt",
+   "synonyms": "close <i>(adj. bí bách)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stifling</i> (adjective) = ngột ngạt. <b>Grammar</b>: cũng <i>heavy, close</i>.",
+   "example": {
+    "en": "Yes, isn’t it <b>stifling</b>?",
+    "vi": "Ừ, thật <b>ngột ngạt</b>!"
+   }
+  },
+  {
+   "word": "downpour",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdaʊnpɔː(r)/",
+   "def_en": "A lot of rain falling quickly.",
+   "def_vi": "Mưa nhiều, nhanh.",
+   "gloss_vi": "trận mưa như trút",
+   "synonyms": "deluge <i>(n. mưa lũ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Downpour</i> (noun) = trận mưa như trút. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "What a <b>downpour</b>!",
+    "vi": "Mưa <b>như trút nước</b>!"
+   }
+  },
+  {
+   "word": "deluge",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdeljuːdʒ/",
+   "def_en": "A very heavy fall of rain.",
+   "def_vi": "Mưa rất to.",
+   "gloss_vi": "mưa lớn như lũ",
+   "synonyms": "downpour <i>(n. mưa như trút)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Deluge</i> (noun) = mưa lớn như lũ. <b>Common mistakes</b>: cũng = ào ạt (<i>a deluge of letters</i>).",
+   "example": {
+    "en": "What a downpour/<b>deluge</b>!",
+    "vi": "Mưa <b>như lũ</b>!"
+   }
+  },
+  {
+   "word": "chuck it down",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌtʃʌk ɪt ˈdaʊn/",
+   "def_en": "To rain very heavily (informal).",
+   "def_vi": "Mưa rất to (thân mật).",
+   "gloss_vi": "mưa xối xả",
+   "synonyms": "pour <i>(v. mưa như trút)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chuck it down</i> (verb) = mưa xối xả. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "Yes, it’s <b>chucking it down</b>!",
+    "vi": "Ừ, trời <b>mưa xối xả</b>!"
+   }
+  },
+  {
+   "word": "muggy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈmʌɡi/",
+   "def_en": "Unpleasantly warm and humid.",
+   "def_vi": "Ấm ẩm khó chịu.",
+   "gloss_vi": "oi nồng",
+   "synonyms": "humid <i>(adj. ẩm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Muggy</i> (adjective) = oi nồng. <b>Grammar</b>: cũng <i>clammy, sticky</i>.",
+   "example": {
+    "en": "Yes, horrible <b>muggy</b> weather!",
+    "vi": "Thời tiết <b>oi nồng</b> khó chịu!"
+   }
+  },
+  {
+   "word": "climate of distrust",
+   "sense": "society",
+   "pos": "noun",
+   "ipa": "/ˌklaɪmət əv dɪsˈtrʌst/",
+   "def_en": "A general atmosphere where people do not trust each other.",
+   "def_vi": "Bầu không khí ngờ vực.",
+   "gloss_vi": "bầu không khí ngờ vực",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Climate of distrust</i> (noun) = bầu không khí ngờ vực. <b>Collocations / chunks</b>: <i>climate</i> + <i>of change/fear</i>; <i>economic/political climate</i>.",
+   "example": {
+    "en": "His secrecy and dishonesty created a <b>climate of distrust</b>.",
+    "vi": "Sự giấu giếm của ông ta tạo ra <b>bầu không khí ngờ vực</b>."
+   }
+  },
+  {
+   "word": "sunny disposition",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsʌni ˌdɪspəˈzɪʃn/",
+   "def_en": "A cheerful character.",
+   "def_vi": "Tính tình vui vẻ.",
+   "gloss_vi": "tính tình vui vẻ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sunny disposition</i> (noun) = tính tình vui vẻ. <b>Collocations / chunks</b>: cụm danh từ cố định <i>sunny disposition</i>.",
+   "example": {
+    "en": "She has a very <b>sunny disposition</b>.",
+    "vi": "Cô ấy có <b>tính tình rất vui vẻ</b>."
+   }
+  },
+  {
+   "word": "frosty",
+   "sense": "unfriendly",
+   "pos": "adjective",
+   "ipa": "/ˈfrɒsti/",
+   "def_en": "(Of a reception) unfriendly.",
+   "def_vi": "(Sự đón tiếp) lạnh nhạt.",
+   "gloss_vi": "lạnh nhạt",
+   "synonyms": "cold <i>(adj. lạnh lùng)</i>",
+   "antonyms": "warm <i>(adj. nồng hậu)</i>",
+   "grammar_vi": "<i>Frosty</i> (adjective) = lạnh nhạt. <b>Collocations / chunks</b>: <i>a frosty reception</i>.",
+   "example": {
+    "en": "Our plans met with a <b>frosty</b> reception.",
+    "vi": "Kế hoạch của chúng tôi gặp sự đón nhận <b>lạnh nhạt</b>."
+   }
+  },
+  {
+   "word": "snowed under",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌsnəʊd ˈʌndə(r)/",
+   "def_en": "Having too much work.",
+   "def_vi": "Có quá nhiều việc.",
+   "gloss_vi": "ngập việc",
+   "synonyms": "swamped <i>(adj. ngập đầu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Snowed under</i> (adjective) = ngập việc. <b>Grammar</b>: <i>snowed under with work</i>.",
+   "example": {
+    "en": "I’m <b>snowed under</b> with work.",
+    "vi": "Tôi <b>ngập việc</b> – không thể xong kịp."
+   }
+  },
+  {
+   "word": "under a cloud",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌʌndər ə ˈklaʊd/",
+   "def_en": "Suspected of having done something wrong.",
+   "def_vi": "Bị nghi có lỗi.",
+   "gloss_vi": "bị nghi ngờ, mang tiếng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Under a cloud</i> (adverb) = bị nghi ngờ, mang tiếng. <b>Collocations / chunks</b>: cụm trạng từ cố định <i>under a cloud</i>.",
+   "example": {
+    "en": "After the company accounts were examined, the manager left <b>under a cloud</b>.",
+    "vi": "Sau khi kiểm tra sổ sách, quản lý ra đi <b>trong tai tiếng</b>."
+   }
+  },
+  {
+   "word": "cloud your judgement",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌklaʊd jɔː ˈdʒʌdʒmənt/",
+   "def_en": "To make you unable to judge clearly.",
+   "def_vi": "Làm phán đoán thiếu sáng suốt.",
+   "gloss_vi": "che mờ phán đoán",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cloud your judgement</i> (verb) = che mờ phán đoán. <b>Grammar</b>: động từ nhiều từ <i>cloud your judgement</i>.",
+   "example": {
+    "en": "Don’t let your love for him <b>cloud your judgement</b>.",
+    "vi": "Đừng để tình yêu <b>che mờ phán đoán</b> của bạn."
+   }
+  },
+  {
+   "word": "hail of bullets",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌheɪl əv ˈbʊlɪts/",
+   "def_en": "A lot of bullets fired at once.",
+   "def_vi": "Rất nhiều đạn bắn cùng lúc.",
+   "gloss_vi": "mưa đạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hail of bullets</i> (noun) = mưa đạn. <b>Collocations / chunks</b>: cũng <i>a hail/storm of abuse</i>.",
+   "example": {
+    "en": "The soldiers were hit with a <b>hail of bullets</b>.",
+    "vi": "Binh lính hứng một <b>trận mưa đạn</b>."
+   }
+  },
+  {
+   "word": "hazy memory",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌheɪzi ˈmeməri/",
+   "def_en": "An unclear memory.",
+   "def_vi": "Ký ức mơ hồ.",
+   "gloss_vi": "ký ức mơ hồ",
+   "synonyms": "vague memory <i>(n. ký ức lờ mờ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hazy memory</i> (noun) = ký ức mơ hồ. <b>Collocations / chunks</b>: cụm danh từ cố định <i>hazy memory</i>.",
+   "example": {
+    "en": "I’ve only a <b>hazy memory</b> of my first day at school.",
+    "vi": "Tôi chỉ có <b>ký ức mơ hồ</b> về ngày đầu đi học."
+   }
+  },
+  {
+   "word": "in the mists of history",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ɪn ðə ˌmɪsts əv ˈhɪstri/",
+   "def_en": "Hidden long ago in the past.",
+   "def_vi": "Chìm sâu trong quá khứ.",
+   "gloss_vi": "chìm trong màn sương lịch sử",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In the mists of history</i> (adverb) = chìm trong màn sương lịch sử. <b>Collocations / chunks</b>: cụm trạng từ cố định <i>in the mists of history</i>.",
+   "example": {
+    "en": "The truth is hidden <b>in the mists of history</b>.",
+    "vi": "Sự thật bị giấu <b>trong màn sương lịch sử</b>."
+   }
+  },
+  {
+   "word": "whirlwind romance",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌwɜːlwɪnd rəʊˈmæns/",
+   "def_en": "A love affair that develops very quickly.",
+   "def_vi": "Chuyện tình diễn ra rất nhanh.",
+   "gloss_vi": "tình yêu chớp nhoáng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Whirlwind romance</i> (noun) = tình yêu chớp nhoáng. <b>Grammar</b>: <i>whirlwind</i> = cơn lốc.",
+   "example": {
+    "en": "They had a <b>whirlwind romance</b> and got married just a month after they met.",
+    "vi": "Họ có <b>tình yêu chớp nhoáng</b> và cưới sau một tháng."
+   }
+  },
+  {
+   "word": "thunder",
+   "sense": "move",
+   "pos": "verb",
+   "ipa": "/ˈθʌndə(r)/",
+   "def_en": "To move making a loud, deep noise.",
+   "def_vi": "Chuyển động gây tiếng ầm ầm.",
+   "gloss_vi": "lao ầm ầm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Thunder</i> (verb) = lao ầm ầm. <b>Grammar</b>: nghĩa ẩn dụ.",
+   "example": {
+    "en": "The horses <b>thundered</b> down the racetrack.",
+    "vi": "Những con ngựa <b>lao ầm ầm</b> xuống đường đua."
+   }
+  },
+  {
+   "word": "thunderous",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈθʌndərəs/",
+   "def_en": "Very loud and deep.",
+   "def_vi": "Rất to và trầm.",
+   "gloss_vi": "như sấm",
+   "synonyms": "deafening <i>(adj. điếc tai)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Thunderous</i> (adjective) = như sấm. <b>Grammar</b>: khác <i>thundery</i> = có sấm (thời tiết).",
+   "example": {
+    "en": "<b>Thunderous</b> applause followed his speech.",
+    "vi": "Tràng pháo tay <b>như sấm</b> sau bài phát biểu."
+   }
+  },
+  {
+   "word": "winds of change",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌwɪndz əv ˈtʃeɪndʒ/",
+   "def_en": "Forces bringing change in society.",
+   "def_vi": "Làn sóng thay đổi trong xã hội.",
+   "gloss_vi": "làn gió thay đổi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Winds of change</i> (noun) = làn gió thay đổi. <b>Collocations / chunks</b>: cũng <i>winds of discontent/democracy</i>.",
+   "example": {
+    "en": "The <b>winds of change</b> are blowing across the country.",
+    "vi": "<b>Làn gió thay đổi</b> đang thổi khắp đất nước."
+   }
+  }
+ ]
+}

@@ -1,0 +1,360 @@
+{
+ "book": "adv",
+ "unit": 28,
+ "title_vi": "Miêu tả thế giới",
+ "theory_html": "<p><b>A. Climate</b><br><i>A. Khí hậu</i></p> <p><b>rainfall, arid, prone to, drought</b>.</p><p><i><b>lượng mưa, khô cằn, dễ bị, hạn hán</b>.</i></p> <p><b>B. Vegetation</b><br><i>B. Thảm thực vật</i></p> <p><b>tundra, vegetation, coniferous</b> (evergreen, produce cones; unlike <b>deciduous</b>), <b>prairies</b> (similar to steppes, pampas).</p><p><i><b>lãnh nguyên, thảm thực vật, cây lá kim (thường xanh; khác cây rụng lá), đồng cỏ</b>.</i></p> <p><b>C. Agriculture</b><br><i>C. Nông nghiệp</i></p> <p><b>paddy fields, cereals, tend</b>.</p><p><i><b>ruộng lúa nước, ngũ cốc, chăm sóc</b>.</i></p> <p><b>D. Industry</b><br><i>D. Công nghiệp</i></p> <p><b>developed, manufacturing, at the forefront, generate, developing</b>.</p><p><i><b>phát triển, sản xuất, đi đầu, tạo ra, đang phát triển</b>.</i></p> <p><b>E. Population</b><br><i>E. Dân số</i></p> <p><b>be descended from, indigenous, ancestors / descendants, migrants</b> (<b>emigrant</b> leaves, <b>immigrant</b> arrives), <b>settle</b>.</p><p><i><b>là hậu duệ của, bản địa, tổ tiên/hậu duệ, người di cư, định cư</b>.</i></p>",
+ "items": [
+  {
+   "word": "rainfall",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈreɪnfɔːl/",
+   "def_en": "The amount of rain that falls in a month or year.",
+   "def_vi": "Lượng mưa trong tháng hay năm.",
+   "gloss_vi": "lượng mưa",
+   "synonyms": "precipitation <i>(n. lượng giáng thủy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rainfall</i> (noun) = lượng mưa. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "<b>Rainfall</b> in the south-east can be extremely high in the wet season.",
+    "vi": "<b>Lượng mưa</b> ở đông nam có thể rất cao mùa mưa."
+   }
+  },
+  {
+   "word": "arid",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈærɪd/",
+   "def_en": "Dry.",
+   "def_vi": "Khô.",
+   "gloss_vi": "khô cằn",
+   "synonyms": "dry <i>(adj. khô)</i>",
+   "antonyms": "humid <i>(adj. ẩm)</i>",
+   "grammar_vi": "<i>Arid</i> (adjective) = khô cằn. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "The northern part of the country is <b>arid</b>.",
+    "vi": "Phía bắc đất nước <b>khô cằn</b>."
+   }
+  },
+  {
+   "word": "prone to",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈprəʊn tə/",
+   "def_en": "Tending to have a particular negative characteristic.",
+   "def_vi": "Dễ có đặc điểm tiêu cực.",
+   "gloss_vi": "dễ bị",
+   "synonyms": "susceptible to <i>(adj. dễ bị)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Prone to</i> (adjective) = dễ bị. <b>Grammar</b>: + danh từ tiêu cực.",
+   "example": {
+    "en": "The northern part is arid and <b>prone to</b> drought during the dry season.",
+    "vi": "Phía bắc <b>dễ bị</b> hạn hán mùa khô."
+   }
+  },
+  {
+   "word": "drought",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/draʊt/",
+   "def_en": "A long period without rain.",
+   "def_vi": "Thời gian dài không mưa.",
+   "gloss_vi": "hạn hán",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "flood <i>(n. lũ)</i>",
+   "grammar_vi": "<i>Drought</i> (noun) = hạn hán. <b>Grammar</b>: /draʊt/.",
+   "example": {
+    "en": "prone to <b>drought</b> during the dry season",
+    "vi": "Dễ bị <b>hạn hán</b> mùa khô."
+   }
+  },
+  {
+   "word": "tundra",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtʌndrə/",
+   "def_en": "An area in the north with no trees and permanently frozen ground.",
+   "def_vi": "Vùng phía bắc không cây, đất đóng băng vĩnh viễn.",
+   "gloss_vi": "lãnh nguyên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tundra</i> (noun) = lãnh nguyên. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "In these regions, known as the <b>tundra</b>, vegetation is limited.",
+    "vi": "Ở vùng <b>lãnh nguyên</b>, thực vật hạn chế."
+   }
+  },
+  {
+   "word": "vegetation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌvedʒəˈteɪʃn/",
+   "def_en": "Plant life.",
+   "def_vi": "Thực vật.",
+   "gloss_vi": "thảm thực vật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Vegetation</i> (noun) = thảm thực vật. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "In these regions, known as the tundra, <b>vegetation</b> is limited.",
+    "vi": "Ở vùng lãnh nguyên, <b>thảm thực vật</b> hạn chế."
+   }
+  },
+  {
+   "word": "coniferous",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kəˈnɪfərəs/",
+   "def_en": "(Of trees) evergreen and producing cones.",
+   "def_vi": "(Cây) thường xanh, có quả nón.",
+   "gloss_vi": "lá kim",
+   "synonyms": "evergreen <i>(adj. thường xanh)</i>",
+   "antonyms": "deciduous <i>(adj. rụng lá)</i>",
+   "grammar_vi": "<i>Coniferous</i> (adjective) = lá kim. <b>Grammar</b>: khác <i>deciduous</i>.",
+   "example": {
+    "en": "Further south, dense, <b>coniferous</b> forests known as taiga cover large areas.",
+    "vi": "Rừng <b>lá kim</b> dày đặc phủ những vùng rộng."
+   }
+  },
+  {
+   "word": "deciduous",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dɪˈsɪdʒuəs/",
+   "def_en": "(Of trees) losing their leaves in winter.",
+   "def_vi": "(Cây) rụng lá mùa đông.",
+   "gloss_vi": "rụng lá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "evergreen <i>(adj. thường xanh)</i>",
+   "grammar_vi": "<i>Deciduous</i> (adjective) = rụng lá. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "unlike <b>deciduous</b> trees, which lose their leaves in winter",
+    "vi": "Cây <b>rụng lá</b> mất lá vào mùa đông."
+   }
+  },
+  {
+   "word": "prairie",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpreəri/",
+   "def_en": "Flat grassland in Canada and northern USA.",
+   "def_vi": "Đồng cỏ phẳng ở Canada và bắc Mỹ.",
+   "gloss_vi": "đồng cỏ (Bắc Mỹ)",
+   "synonyms": "steppe <i>(n. thảo nguyên (châu Á))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Prairie</i> (noun) = đồng cỏ (Bắc Mỹ). <b>Grammar</b>: giống <i>steppes</i> (châu Á), <i>pampas</i> (Nam Mỹ).",
+   "example": {
+    "en": "Towards the border with the United States are the grasslands of the <b>prairies</b>.",
+    "vi": "Gần biên giới Mỹ là đồng cỏ <b>thảo nguyên</b>."
+   }
+  },
+  {
+   "word": "paddy field",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpædi fiːld/",
+   "def_en": "A field planted with rice growing in water.",
+   "def_vi": "Ruộng trồng lúa nước.",
+   "gloss_vi": "ruộng lúa nước",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Paddy field</i> (noun) = ruộng lúa nước. <b>Collocations / chunks</b>: cụm danh từ cố định <i>paddy field</i>.",
+   "example": {
+    "en": "The rice is planted in flooded <b>paddy fields</b>.",
+    "vi": "Lúa được cấy ở <b>ruộng lúa nước</b> ngập nước."
+   }
+  },
+  {
+   "word": "cereal",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɪəriəl/",
+   "def_en": "A type of grass grown to produce a grain, e.g. rice, wheat or maize.",
+   "def_vi": "Cây cỏ trồng lấy hạt như lúa, lúa mì, ngô.",
+   "gloss_vi": "ngũ cốc",
+   "synonyms": "grain <i>(n. hạt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cereal</i> (noun) = ngũ cốc. <b>Common mistakes</b>: cũng = ngũ cốc ăn sáng.",
+   "example": {
+    "en": "Farmers generally harvest a single crop of <b>cereals</b>.",
+    "vi": "Nông dân thu một vụ <b>ngũ cốc</b>."
+   }
+  },
+  {
+   "word": "tend",
+   "sense": "care",
+   "pos": "verb",
+   "ipa": "/tend/",
+   "def_en": "To take care of.",
+   "def_vi": "Chăm sóc.",
+   "gloss_vi": "chăm sóc, chăn",
+   "synonyms": "look after <i>(v. chăm sóc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tend</i> (verb) = chăm sóc, chăn. <b>Grammar</b>: trang trọng.",
+   "example": {
+    "en": "In addition, <b>tend</b> sheep and cattle.",
+    "vi": "Thêm vào đó, họ <b>chăn</b> cừu và gia súc."
+   }
+  },
+  {
+   "word": "developed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dɪˈveləpt/",
+   "def_en": "With a modern, industrial economy.",
+   "def_vi": "Có nền kinh tế công nghiệp hiện đại.",
+   "gloss_vi": "phát triển",
+   "synonyms": "industrialised <i>(adj. công nghiệp hóa)</i>",
+   "antonyms": "developing <i>(adj. đang phát triển)</i>",
+   "grammar_vi": "<i>Developed</i> (adjective) = phát triển. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "France is one of the world’s leading <b>developed</b> nations.",
+    "vi": "Pháp là một trong những nước <b>phát triển</b> hàng đầu."
+   }
+  },
+  {
+   "word": "manufacturing",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌmænjuˈfæktʃərɪŋ/",
+   "def_en": "Producing goods in large numbers.",
+   "def_vi": "Sản xuất hàng loạt.",
+   "gloss_vi": "chế tạo, sản xuất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Manufacturing</i> (adjective) = chế tạo, sản xuất. <b>Grammar</b>: cũng danh từ.",
+   "example": {
+    "en": "It is home to large <b>manufacturing</b>, steel and chemical industries.",
+    "vi": "Pháp có ngành <b>chế tạo</b> lớn."
+   }
+  },
+  {
+   "word": "at the forefront",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ət ðə ˈfɔːfrʌnt/",
+   "def_en": "In an important, leading position.",
+   "def_vi": "Ở vị trí hàng đầu.",
+   "gloss_vi": "đi đầu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>At the forefront</i> (adverb) = đi đầu. <b>Grammar</b>: <i>at the forefront of sth</i>.",
+   "example": {
+    "en": "It is <b>at the forefront</b> of technology and engineering.",
+    "vi": "Pháp <b>đi đầu</b> về công nghệ và kỹ thuật."
+   }
+  },
+  {
+   "word": "generate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈdʒenəreɪt/",
+   "def_en": "To produce or create.",
+   "def_vi": "Sản xuất, tạo ra.",
+   "gloss_vi": "tạo ra",
+   "synonyms": "produce <i>(v. sản xuất)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Generate</i> (verb) = tạo ra. <b>Collocations / chunks</b>: <i>generate electricity/power</i>.",
+   "example": {
+    "en": "Its sizeable nuclear industry <b>generates</b> a significant proportion of the nation’s electrical power.",
+    "vi": "Ngành hạt nhân <b>tạo ra</b> phần lớn điện năng."
+   }
+  },
+  {
+   "word": "developing",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dɪˈveləpɪŋ/",
+   "def_en": "(Of a country) poor and without a modern, industrial economy.",
+   "def_vi": "(Nước) nghèo, chưa công nghiệp hóa.",
+   "gloss_vi": "đang phát triển",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "developed <i>(adj. phát triển)</i>",
+   "grammar_vi": "<i>Developing</i> (adjective) = đang phát triển. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "France provides a lot of help and aid to <b>developing</b> countries.",
+    "vi": "Pháp viện trợ nhiều cho các nước <b>đang phát triển</b>."
+   }
+  },
+  {
+   "word": "be descended from",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/bi dɪˈsendɪd frəm/",
+   "def_en": "To be related to someone who lived in the past.",
+   "def_vi": "Có quan hệ huyết thống với người xưa.",
+   "gloss_vi": "là hậu duệ của",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be descended from</i> (verb) = là hậu duệ của. <b>Grammar</b>: <i>descendant</i> (n.).",
+   "example": {
+    "en": "Some <b>are descended from</b> indigenous tribes.",
+    "vi": "Một số <b>là hậu duệ của</b> các bộ tộc bản địa."
+   }
+  },
+  {
+   "word": "indigenous",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪnˈdɪdʒənəs/",
+   "def_en": "Existing naturally in a place.",
+   "def_vi": "Tồn tại tự nhiên ở nơi đó.",
+   "gloss_vi": "bản địa",
+   "synonyms": "native <i>(adj. bản xứ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Indigenous</i> (adjective) = bản địa. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "Some are descended from <b>indigenous</b> tribes.",
+    "vi": "Một số là hậu duệ của các bộ tộc <b>bản địa</b>."
+   }
+  },
+  {
+   "word": "ancestor",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈænsestə(r)/",
+   "def_en": "A relative from earlier times.",
+   "def_vi": "Người thân thời xa xưa.",
+   "gloss_vi": "tổ tiên",
+   "synonyms": "forebear <i>(n. tổ tiên)</i>",
+   "antonyms": "descendant <i>(n. hậu duệ)</i>",
+   "grammar_vi": "<i>Ancestor</i> (noun) = tổ tiên. <b>Grammar</b>: ta là <i>descendants</i> của tổ tiên.",
+   "example": {
+    "en": "Many Brazilians have African <b>ancestors</b>.",
+    "vi": "Nhiều người Brazil có <b>tổ tiên</b> châu Phi."
+   }
+  },
+  {
+   "word": "migrant",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmaɪɡrənt/",
+   "def_en": "A person who moves to live in another country or region, often for economic reasons.",
+   "def_vi": "Người chuyển đến nơi khác sống, thường vì kinh tế.",
+   "gloss_vi": "người di cư",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Migrant</i> (noun) = người di cư. <b>Grammar</b>: <i>emigrant</i> (rời đi), <i>immigrant</i> (đến).",
+   "example": {
+    "en": "Large numbers of European <b>migrants</b> settled in the south.",
+    "vi": "Nhiều <b>người di cư</b> châu Âu định cư ở phía nam."
+   }
+  },
+  {
+   "word": "settle",
+   "sense": "live",
+   "pos": "verb",
+   "ipa": "/ˈsetl/",
+   "def_en": "To make your home in a place.",
+   "def_vi": "Đến sống lâu dài ở đâu.",
+   "gloss_vi": "định cư",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Settle</i> (verb) = định cư. <b>Grammar</b>: <i>settler</i> (n.).",
+   "example": {
+    "en": "European migrants <b>settled</b> in the south.",
+    "vi": "Người di cư châu Âu <b>định cư</b> ở phía nam."
+   }
+  }
+ ]
+}
