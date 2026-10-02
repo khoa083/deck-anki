@@ -1,0 +1,525 @@
+{
+ "book": "gva",
+ "unit": 32,
+ "title_vi": "Giáo dục",
+ "theory_html": "<p><b>V1. workshop: two meanings</b><br><i>V1. workshop: hai nghĩa</i></p> <p>A room or building where things are made or repaired (<b>an engineering workshop</b>); a meeting of people to discuss and/or perform practical work (<b>a drama workshop</b>).</p><p><i>Xưởng; hội thảo thực hành.</i></p> <p><b>V2. Collective nouns</b><br><i>V2. Danh từ tập hợp</i></p> <p>Most collective nouns like <b>team, staff, class</b> can take a singular or plural verb: <b>The company is/are keen to recognise this extra time.</b></p><p><i>Danh từ tập hợp dùng được động từ số ít hoặc số nhiều.</i></p>",
+ "items": [
+  {
+   "word": "boarding school",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɔːdɪŋ skuːl/",
+   "def_en": "A school where students live during term.",
+   "def_vi": "Trường nội trú.",
+   "gloss_vi": "trường nội trú",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Boarding school</i> (noun) = trường nội trú. <b>Collocations / chunks</b>: cụm danh từ cố định <i>boarding school</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Have you ever been to a <b>boarding school</b>?",
+    "vi": "Bạn đã từng học <b>trường nội trú</b> chưa?"
+   }
+  },
+  {
+   "word": "fee-paying school",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfiː peɪɪŋ skuːl/",
+   "def_en": "A school where parents pay for their children's education.",
+   "def_vi": "Trường thu học phí.",
+   "gloss_vi": "trường tư thục",
+   "synonyms": "independent school <i>(n. trường tư)</i>",
+   "antonyms": "state school <i>(n. trường công)</i>",
+   "grammar_vi": "<i>Fee-paying school</i> (noun) = trường tư thục. <b>Collocations / chunks</b>: cụm danh từ cố định <i>fee-paying school</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Their children go to a <b>fee-paying school</b>.",
+    "vi": "Con họ học <b>trường tư thục</b>."
+   }
+  },
+  {
+   "word": "faith school",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfeɪθ skuːl/",
+   "def_en": "A school connected with a particular religion.",
+   "def_vi": "Trường tôn giáo.",
+   "gloss_vi": "trường tôn giáo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Faith school</i> (noun) = trường tôn giáo. <b>Collocations / chunks</b>: cụm danh từ cố định <i>faith school</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She went to a <b>faith school</b>.",
+    "vi": "Cô ấy học ở một <b>trường tôn giáo</b>."
+   }
+  },
+  {
+   "word": "distance learning course",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdɪstəns ˈlɜːnɪŋ kɔːs/",
+   "def_en": "A course you study at home, not in a classroom.",
+   "def_vi": "Khóa học từ xa.",
+   "gloss_vi": "học từ xa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Distance learning course</i> (noun) = học từ xa. <b>Collocations / chunks</b>: cụm danh từ cố định <i>distance learning course</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I'm doing a <b>distance learning course</b>.",
+    "vi": "Tôi đang theo một <b>khóa học từ xa</b>."
+   }
+  },
+  {
+   "word": "technical college",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈteknɪkl ˈkɒlɪdʒ/",
+   "def_en": "A college that teaches practical and technical skills.",
+   "def_vi": "Trường cao đẳng kỹ thuật.",
+   "gloss_vi": "cao đẳng kỹ thuật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Technical college</i> (noun) = cao đẳng kỹ thuật. <b>Collocations / chunks</b>: cụm danh từ cố định <i>technical college</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He studied electronics at a <b>technical college</b>.",
+    "vi": "Anh ấy học điện ở <b>trường cao đẳng kỹ thuật</b>."
+   }
+  },
+  {
+   "word": "educator",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈedʒukeɪtə(r)/",
+   "def_en": "A person whose job is to teach.",
+   "def_vi": "Nhà giáo dục.",
+   "gloss_vi": "nhà giáo dục",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Educator</i> (noun) = nhà giáo dục. <b>Word family</b>: education (n.), educate (v.), educational (adj.).",
+   "example": {
+    "en": "Maria Montessori was one of the most important early years <b>educators</b> of the 20th century.",
+    "vi": "Maria Montessori là một trong những <b>nhà giáo dục</b> mầm non quan trọng nhất."
+   }
+  },
+  {
+   "word": "graduate from",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈɡrædʒueɪt frəm/",
+   "def_en": "To complete a university degree at a particular place.",
+   "def_vi": "Tốt nghiệp.",
+   "gloss_vi": "tốt nghiệp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Graduate from</i> (verb) = tốt nghiệp. <b>Word family</b>: graduation (n.), graduate (n.).",
+   "example": {
+    "en": "My brother <b>graduated from</b> Harvard University in 2009.",
+    "vi": "Anh tôi <b>tốt nghiệp</b> Đại học Harvard năm 2009."
+   }
+  },
+  {
+   "word": "special needs",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌspeʃl ˈniːdz/",
+   "def_en": "Requirements due to physical or mental problems.",
+   "def_vi": "Nhu cầu đặc biệt.",
+   "gloss_vi": "nhu cầu đặc biệt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Special needs</i> (noun) = nhu cầu đặc biệt. <b>Grammar</b>: children with ~.",
+   "example": {
+    "en": "treating children with <b>special needs</b>",
+    "vi": "Chữa cho trẻ có <b>nhu cầu đặc biệt</b>."
+   }
+  },
+  {
+   "word": "disadvantaged",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌdɪsədˈvɑːntɪdʒd/",
+   "def_en": "Without the necessary education, money, etc. to succeed in life.",
+   "def_vi": "Thiệt thòi.",
+   "gloss_vi": "thiệt thòi",
+   "synonyms": "deprived <i>(adj. thiếu thốn)</i>",
+   "antonyms": "privileged <i>(adj. có đặc quyền)</i>",
+   "grammar_vi": "<i>Disadvantaged</i> (adjective) = thiệt thòi. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "establish schools for the <b>disadvantaged</b> children of working parents",
+    "vi": "Bà lập trường cho trẻ <b>thiệt thòi</b> của cha mẹ lao động."
+   }
+  },
+  {
+   "word": "achieve your potential",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˌtʃiːv jɔː pəˈtenʃl/",
+   "def_en": "To succeed to the best of your ability.",
+   "def_vi": "Phát huy hết tiềm năng.",
+   "gloss_vi": "phát huy tiềm năng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Achieve your potential</i> (verb) = phát huy tiềm năng. <b>Grammar</b>: động từ nhiều từ <i>achieve your potential</i>.",
+   "example": {
+    "en": "finding ways to help them to <b>achieve their full potential</b>",
+    "vi": "Tìm cách giúp trẻ <b>phát huy hết tiềm năng</b>."
+   }
+  },
+  {
+   "word": "teaching method",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtiːtʃɪŋ ˌmeθəd/",
+   "def_en": "A way of teaching.",
+   "def_vi": "Phương pháp giảng dạy.",
+   "gloss_vi": "phương pháp dạy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Teaching method</i> (noun) = phương pháp dạy. <b>Collocations / chunks</b>: cụm danh từ cố định <i>teaching method</i>.",
+   "example": {
+    "en": "Dr Montessori had developed a highly effective <b>teaching method</b>",
+    "vi": "Bà đã phát triển một <b>phương pháp giảng dạy</b> rất hiệu quả."
+   }
+  },
+  {
+   "word": "pioneer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpaɪəˈnɪə(r)/",
+   "def_en": "A person who is the first to develop an idea.",
+   "def_vi": "Người tiên phong.",
+   "gloss_vi": "người tiên phong",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pioneer</i> (noun) = người tiên phong. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "She was a true <b>pioneer</b> of child-centred education.",
+    "vi": "Bà là <b>người tiên phong</b> thực sự của giáo dục lấy trẻ làm trung tâm."
+   }
+  },
+  {
+   "word": "child-centred",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌtʃaɪld ˈsentəd/",
+   "def_en": "Based on the needs and interests of children.",
+   "def_vi": "Lấy trẻ làm trung tâm.",
+   "gloss_vi": "lấy trẻ làm trung tâm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Child-centred</i> (adjective) = lấy trẻ làm trung tâm. <b>Grammar</b>: tính từ ghép <i>child</i> + <i>centred</i>.",
+   "example": {
+    "en": "She was a true pioneer of <b>child-centred</b> education.",
+    "vi": "Người tiên phong của giáo dục <b>lấy trẻ làm trung tâm</b>."
+   }
+  },
+  {
+   "word": "innovative",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɪnəveɪtɪv/",
+   "def_en": "New and original.",
+   "def_vi": "Đổi mới, sáng tạo.",
+   "gloss_vi": "đổi mới",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Innovative</i> (adjective) = đổi mới. <b>Word family</b>: innovation (n.), innovate (v.), innovator (n.).",
+   "example": {
+    "en": "Her <b>innovative</b> classroom practices and ideas have had a profound influence",
+    "vi": "Các phương pháp lớp học <b>đổi mới</b> của bà có ảnh hưởng sâu rộng."
+   }
+  },
+  {
+   "word": "self-motivated",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌself ˈməʊtɪveɪtɪd/",
+   "def_en": "Able to work at something without encouragement.",
+   "def_vi": "Tự giác, tự tạo động lực.",
+   "gloss_vi": "tự giác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Self-motivated</i> (adjective) = tự giác. <b>Grammar</b>: tính từ ghép <i>self</i> + <i>motivated</i>.",
+   "example": {
+    "en": "happy <b>self-motivated</b> learners form positive images of themselves",
+    "vi": "Người học vui vẻ và <b>tự giác</b> hình thành hình ảnh tích cực về bản thân."
+   }
+  },
+  {
+   "word": "image of",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɪmɪdʒ əv/",
+   "def_en": "An idea of what someone or something is like.",
+   "def_vi": "Hình ảnh về.",
+   "gloss_vi": "hình ảnh về",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Image of</i> (noun) = hình ảnh về. <b>Collocations / chunks</b>: cụm danh từ cố định <i>image of</i>.",
+   "example": {
+    "en": "Students who have a positive <b>image of</b> themselves are usually happy and successful.",
+    "vi": "Học sinh có <b>hình ảnh</b> tích cực <b>về</b> bản thân thường vui và thành công."
+   }
+  },
+  {
+   "word": "foster",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈfɒstə(r)/",
+   "def_en": "To encourage something to develop.",
+   "def_vi": "Nuôi dưỡng, thúc đẩy.",
+   "gloss_vi": "nuôi dưỡng",
+   "synonyms": "encourage <i>(v. khuyến khích)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Foster</i> (verb) = nuôi dưỡng. <b>Grammar</b>: động từ.",
+   "example": {
+    "en": "She created specially designed resources to <b>foster</b> independence and a love for learning",
+    "vi": "Học liệu được thiết kế để <b>nuôi dưỡng</b> tính tự lập và tình yêu học tập."
+   }
+  },
+  {
+   "word": "holistic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/həʊˈlɪstɪk/",
+   "def_en": "Dealing with the whole person or thing, not just parts.",
+   "def_vi": "Toàn diện.",
+   "gloss_vi": "toàn diện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Holistic</i> (adjective) = toàn diện. <b>Note</b>: phát triển <i>the whole child</i>.",
+   "example": {
+    "en": "The Montessori approach is <b>holistic</b>",
+    "vi": "Phương pháp Montessori mang tính <b>toàn diện</b>."
+   }
+  },
+  {
+   "word": "capacity to",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəˈpæsəti tə/",
+   "def_en": "The ability to do something.",
+   "def_vi": "Khả năng.",
+   "gloss_vi": "khả năng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Capacity to</i> (noun) = khả năng. <b>Collocations / chunks</b>: cụm danh từ cố định <i>capacity to</i>.",
+   "example": {
+    "en": "the period when they have the greatest <b>capacity to</b> learn",
+    "vi": "Giai đoạn trẻ có <b>khả năng</b> học lớn nhất."
+   }
+  },
+  {
+   "word": "fundamental to",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌfʌndəˈmentl tə/",
+   "def_en": "Forming the basic part of something.",
+   "def_vi": "Nền tảng cho, cốt lõi với.",
+   "gloss_vi": "cốt lõi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fundamental to</i> (adjective) = cốt lõi. <b>Collocations / chunks</b>: cụm tính từ cố định <i>fundamental to</i>.",
+   "example": {
+    "en": "This idea is <b>fundamental to</b> my beliefs about education.",
+    "vi": "Ý tưởng này là <b>cốt lõi trong</b> niềm tin giáo dục của tôi."
+   }
+  },
+  {
+   "word": "newly established",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌnjuːli ɪˈstæblɪʃt/",
+   "def_en": "Recently set up.",
+   "def_vi": "Mới thành lập.",
+   "gloss_vi": "mới thành lập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Newly established</i> (adjective) = mới thành lập. <b>Collocations / chunks</b>: so sánh <i>firmly established</i> = đã vững vàng.",
+   "example": {
+    "en": "The <b>newly established</b> early years centre is already serving a large number of local families.",
+    "vi": "Trung tâm mầm non <b>mới thành lập</b> đã phục vụ nhiều gia đình."
+   }
+  },
+  {
+   "word": "firmly established",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌfɜːmli ɪˈstæblɪʃt/",
+   "def_en": "Strongly accepted as something for a long time.",
+   "def_vi": "Đã khẳng định vững chắc.",
+   "gloss_vi": "vững vàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Firmly established</i> (adjective) = vững vàng. <b>Collocations / chunks</b>: cụm tính từ cố định <i>firmly established</i>.",
+   "example": {
+    "en": "The historic university is <b>firmly established</b> as top choice for international students",
+    "vi": "Trường đại học lâu đời đã <b>khẳng định vững chắc</b> là lựa chọn hàng đầu."
+   }
+  },
+  {
+   "word": "highly educated",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌhaɪli ˈedʒukeɪtɪd/",
+   "def_en": "Having a lot of education.",
+   "def_vi": "Có trình độ cao.",
+   "gloss_vi": "trình độ cao",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "poorly educated <i>(adj. học vấn thấp)</i>",
+   "grammar_vi": "<i>Highly educated</i> (adjective) = trình độ cao. <b>Collocations / chunks</b>: cụm tính từ cố định <i>highly educated</i>.",
+   "example": {
+    "en": "how to recruit the <b>highly educated</b> workforce needed for these skilled roles",
+    "vi": "Tuyển lực lượng lao động <b>có trình độ cao</b> cho các vị trí kỹ năng."
+   }
+  },
+  {
+   "word": "poorly educated",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌpɔːli ˈedʒukeɪtɪd/",
+   "def_en": "Having little education.",
+   "def_vi": "Học vấn thấp.",
+   "gloss_vi": "ít học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "highly educated <i>(adj. trình độ cao)</i>",
+   "grammar_vi": "<i>Poorly educated</i> (adjective) = ít học. <b>Collocations / chunks</b>: cụm tính từ cố định <i>poorly educated</i>.",
+   "example": {
+    "en": "He plays the character of a <b>poorly educated</b> caretaker who has an innate gift for mathematics.",
+    "vi": "Anh đóng vai người bảo vệ <b>ít học</b> có năng khiếu toán bẩm sinh."
+   }
+  },
+  {
+   "word": "highly influential",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌhaɪli ˌɪnfluˈenʃl/",
+   "def_en": "Having a great effect.",
+   "def_vi": "Có ảnh hưởng lớn.",
+   "gloss_vi": "rất có ảnh hưởng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Highly influential</i> (adjective) = rất có ảnh hưởng. <b>Collocations / chunks</b>: so sánh <i>increasingly influential</i> = ngày càng ảnh hưởng.",
+   "example": {
+    "en": "His theory was <b>highly influential</b> in the development of educational practices",
+    "vi": "Lý thuyết của ông <b>có ảnh hưởng lớn</b> tới thực tiễn giáo dục."
+   }
+  },
+  {
+   "word": "politically motivated",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/pəˌlɪtɪkli ˈməʊtɪveɪtɪd/",
+   "def_en": "Done for political reasons.",
+   "def_vi": "Có động cơ chính trị.",
+   "gloss_vi": "vì động cơ chính trị",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Politically motivated</i> (adjective) = vì động cơ chính trị. <b>Collocations / chunks</b>: so sánh <i>strongly motivated</i> = rất có động lực.",
+   "example": {
+    "en": "has been seen as a <b>politically motivated</b> attempt to deflect allegations of a U-turn",
+    "vi": "Một nỗ lực <b>vì động cơ chính trị</b> nhằm lái đi cáo buộc."
+   }
+  },
+  {
+   "word": "apprenticeship",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈprentɪʃɪp/",
+   "def_en": "A period of learning a trade by working for an employer.",
+   "def_vi": "Thời gian học nghề.",
+   "gloss_vi": "học việc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Apprenticeship</i> (noun) = học việc. <b>Word family</b>: apprentice (n.).",
+   "example": {
+    "en": "Listen to Peter describing his <b>apprenticeship</b>",
+    "vi": "Peter mô tả quá trình <b>học nghề</b> của mình."
+   }
+  },
+  {
+   "word": "learn a trade",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/lɜːn ə ˈtreɪd/",
+   "def_en": "To learn a skilled job, especially with your hands.",
+   "def_vi": "Học nghề.",
+   "gloss_vi": "học một nghề",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Learn a trade</i> (verb) = học một nghề. <b>Grammar</b>: động từ nhiều từ <i>learn a trade</i>.",
+   "example": {
+    "en": "While he was working as an apprentice, Peter <b>learned a trade</b>.",
+    "vi": "Khi làm thợ học việc, Peter đã <b>học một nghề</b>."
+   }
+  },
+  {
+   "word": "insight into",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɪnsaɪt ˈɪntə/",
+   "def_en": "A clear understanding of something.",
+   "def_vi": "Sự hiểu biết sâu sắc về.",
+   "gloss_vi": "hiểu sâu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Insight into</i> (noun) = hiểu sâu. <b>Collocations / chunks</b>: cụm danh từ cố định <i>insight into</i>.",
+   "example": {
+    "en": "My experience has given me a real <b>insight into</b> how universities work.",
+    "vi": "Kinh nghiệm cho tôi <b>hiểu sâu về</b> cách đại học vận hành."
+   }
+  },
+  {
+   "word": "team-building",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtiːm bɪldɪŋ/",
+   "def_en": "Activities to help staff work well together.",
+   "def_vi": "Xây dựng đội nhóm.",
+   "gloss_vi": "gắn kết đội nhóm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Team-building</i> (noun) = gắn kết đội nhóm. <b>Grammar</b>: danh từ ghép <i>team</i> + <i>building</i>.",
+   "example": {
+    "en": "Modern companies often organise <b>team-building</b> days to enable staff to work well together.",
+    "vi": "Công ty hiện đại thường tổ chức ngày <b>gắn kết đội nhóm</b>."
+   }
+  },
+  {
+   "word": "apply for",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈplaɪ fə(r)/",
+   "def_en": "To formally ask for a place on a course or a job.",
+   "def_vi": "Nộp đơn xin.",
+   "gloss_vi": "nộp đơn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Apply for</i> (verb) = nộp đơn. <b>Grammar</b>: không <i>request for</i>.",
+   "example": {
+    "en": "I'm going to <b>apply for</b> a catering course in September.",
+    "vi": "Tôi sẽ <b>nộp đơn</b> học khóa nấu ăn vào tháng Chín."
+   }
+  },
+  {
+   "word": "workshop",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɜːkʃɒp/",
+   "def_en": "A room where things are made or repaired; or a meeting for practical work.",
+   "def_vi": "Xưởng; buổi hội thảo thực hành.",
+   "gloss_vi": "xưởng; hội thảo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Workshop</i> (noun) = xưởng; hội thảo. <b>Note</b>: <i>a drama workshop</i> = buổi thực hành kịch.",
+   "example": {
+    "en": "an engineering <b>workshop</b>",
+    "vi": "Một <b>xưởng</b> cơ khí."
+   }
+  }
+ ]
+}
