@@ -1,0 +1,296 @@
+{
+ "book": "upp",
+ "unit": 69,
+ "title_vi": "Nói chuyện và giao tiếp",
+ "theory_html": "<p><b>A. Idioms connected with communication problems</b><br><i>A. Thành ngữ về trục trặc giao tiếp</i></p> <p><b>talk at cross-purposes</b> [talk about different things without realising it], <b>get the wrong end of the stick</b> [not understand something in the correct way], <b>can’t get a word in edgeways</b> [doesn’t get a chance to speak because others are talking so much], <b>can’t make head or tail of</b> [cannot understand at all].</p><p><i><b>ông nói gà bà nói vịt, hiểu sai, không chen được lời nào, không hiểu đầu cua tai nheo</b>.</i></p> <p><b>B. Good talk, bad talk</b><br><i>B. Nói tốt, nói xấu</i></p> <p><b>talk down to</b> [talk as if someone were inferior], <b>talk behind sb’s back</b>, <b>small talk</b> [purely social talk], <b>talk shop</b> [talk about work], <b>talking point</b> [subject that everyone wants to talk about], <b>give sb a talking to</b> [reproach/scold].</p><p><i><b>nói trịch thượng, nói sau lưng, chuyện phiếm, bàn chuyện công việc, chủ đề bàn tán, mắng cho một trận</b>.</i></p> <p><b>C. Talk in discussions, meetings, etc.</b><br><i>C. Nói trong thảo luận, họp hành</i></p> <p><b>start the ball rolling</b> [start the discussion], <b>to put it in a nutshell</b> [say it in few words], <b>get to the point</b> [come to the important part], <b>speak your mind</b> [say exactly what you think], <b>wrap up the discussion</b> [finish], <b>talk sense</b> [say intelligent, reasonable things], <b>talk rubbish</b> [say stupid things], <b>long-winded</b> [says things in a long, indirect way].</p><p><i><b>mở đầu, nói tóm lại, vào thẳng vấn đề, nói thẳng suy nghĩ, kết thúc thảo luận, nói có lý, nói nhảm, dài dòng</b>.</i></p>",
+ "items": [
+  {
+   "word": "talk at cross-purposes",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌtɔːk ət ˌkrɒs ˈpɜːpəsɪz/",
+   "def_en": "To talk about different things without realising it.",
+   "def_vi": "Nói về những điều khác nhau mà không nhận ra.",
+   "gloss_vi": "ông nói gà bà nói vịt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Talk at cross-purposes</i> (verb) = ông nói gà bà nói vịt. <b>Grammar</b>: <i>be talking at cross-purposes</i>.",
+   "example": {
+    "en": "They’re <b>talking at cross-purposes</b>.",
+    "vi": "Họ đang <b>ông nói gà bà nói vịt</b>."
+   }
+  },
+  {
+   "word": "get the wrong end of the stick",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡet ðə ˌrɒŋ ˌend əv ðə ˈstɪk/",
+   "def_en": "Not to understand something in the correct way.",
+   "def_vi": "Hiểu sai điều gì.",
+   "gloss_vi": "hiểu sai",
+   "synonyms": "misunderstand <i>(v. hiểu lầm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get the wrong end of the stick</i> (verb) = hiểu sai. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "He’s got <b>the wrong end of the stick</b>.",
+    "vi": "Anh ta <b>hiểu sai</b> rồi."
+   }
+  },
+  {
+   "word": "can’t get a word in edgeways",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkɑːnt ˌɡet ə ˌwɜːd ɪn ˈedʒweɪz/",
+   "def_en": "Not to get a chance to speak because others are talking so much.",
+   "def_vi": "Không có cơ hội nói vì người khác nói quá nhiều.",
+   "gloss_vi": "không chen được lời nào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Can’t get a word in edgeways</i> (verb) = không chen được lời nào. <b>Grammar</b>: /ˈedʒweɪz/.",
+   "example": {
+    "en": "She <b>can’t get a word in edgeways</b>.",
+    "vi": "Cô ấy <b>không chen được lời nào</b>."
+   }
+  },
+  {
+   "word": "can’t make head or tail of",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkɑːnt ˌmeɪk ˌhed ɔː ˈteɪl əv/",
+   "def_en": "Cannot understand something at all.",
+   "def_vi": "Hoàn toàn không hiểu.",
+   "gloss_vi": "không hiểu đầu cua tai nheo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Can’t make head or tail of</i> (verb) = không hiểu đầu cua tai nheo. <b>Grammar</b>: + danh từ/mệnh đề <i>what…</i>.",
+   "example": {
+    "en": "He <b>can’t make head or tail of</b> what she’s saying.",
+    "vi": "Anh ấy <b>không hiểu đầu cua tai nheo</b> những gì cô ấy nói."
+   }
+  },
+  {
+   "word": "talk down to",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌtɔːk ˈdaʊn tə/",
+   "def_en": "To talk to someone as if they were inferior.",
+   "def_vi": "Nói với ai như thể họ thấp kém hơn.",
+   "gloss_vi": "nói trịch thượng",
+   "synonyms": "patronise <i>(v. kẻ cả)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Talk down to</i> (verb) = nói trịch thượng. <b>Grammar</b>: <i>talk down to sb</i>.",
+   "example": {
+    "en": "The boss always <b>talks down</b> to us.",
+    "vi": "Sếp lúc nào cũng <b>nói trịch thượng</b> với chúng tôi."
+   }
+  },
+  {
+   "word": "talk behind sb’s back",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌtɔːk bɪˌhaɪnd ˌsʌmbədiz ˈbæk/",
+   "def_en": "To say negative things about someone when they are not there.",
+   "def_vi": "Nói xấu ai khi họ vắng mặt.",
+   "gloss_vi": "nói sau lưng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Talk behind sb’s back</i> (verb) = nói sau lưng. <b>Grammar</b>: tính từ sở hữu đổi theo người.",
+   "example": {
+    "en": "My workmates are always <b>talking behind my back</b>.",
+    "vi": "Đồng nghiệp lúc nào cũng <b>nói sau lưng</b> tôi."
+   }
+  },
+  {
+   "word": "small talk",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsmɔːl tɔːk/",
+   "def_en": "Purely social talk, nothing serious.",
+   "def_vi": "Chuyện xã giao, không nghiêm túc.",
+   "gloss_vi": "chuyện phiếm",
+   "synonyms": "chit-chat <i>(n. tán gẫu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Small talk</i> (noun) = chuyện phiếm. <b>Grammar</b>: không đếm được; <i>make small talk</i>.",
+   "example": {
+    "en": "It was just <b>small talk</b>, nothing more, I promise.",
+    "vi": "Đó chỉ là <b>chuyện phiếm</b>, không hơn, tôi hứa."
+   }
+  },
+  {
+   "word": "talk shop",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌtɔːk ˈʃɒp/",
+   "def_en": "To talk about work.",
+   "def_vi": "Nói chuyện công việc.",
+   "gloss_vi": "bàn chuyện công việc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Talk shop</i> (verb) = bàn chuyện công việc. <b>Grammar</b>: thường ngoài giờ làm, gây chán cho người khác.",
+   "example": {
+    "en": "They always <b>talk shop</b> over lunch, and it bores me rigid.",
+    "vi": "Họ luôn <b>bàn chuyện công việc</b> trong bữa trưa, chán chết."
+   }
+  },
+  {
+   "word": "talking point",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtɔːkɪŋ pɔɪnt/",
+   "def_en": "A subject that everyone wants to talk about.",
+   "def_vi": "Chủ đề mọi người muốn bàn.",
+   "gloss_vi": "chủ đề bàn tán",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Talking point</i> (noun) = chủ đề bàn tán. <b>Grammar</b>: <i>become a talking point</i>.",
+   "example": {
+    "en": "Your new friend’s become a real <b>talking point</b> among the staff!",
+    "vi": "Bạn mới của bạn đã thành <b>chủ đề bàn tán</b> trong nhân viên đấy!"
+   }
+  },
+  {
+   "word": "give sb a talking to",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡɪv ˌsʌmbədi ə ˈtɔːkɪŋ tuː/",
+   "def_en": "To reproach or scold someone.",
+   "def_vi": "Trách mắng ai.",
+   "gloss_vi": "mắng cho một trận",
+   "synonyms": "tell off <i>(v. mắng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Give sb a talking to</i> (verb) = mắng cho một trận. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "I shall have to <b>give him a talking to</b>.",
+    "vi": "Lần này quá đáng rồi. Tôi sẽ phải <b>mắng cho anh ta một trận</b>."
+   }
+  },
+  {
+   "word": "start the ball rolling",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌstɑːt ðə ˈbɔːl ˌrəʊlɪŋ/",
+   "def_en": "To start the discussion.",
+   "def_vi": "Bắt đầu cuộc thảo luận.",
+   "gloss_vi": "mở đầu, khơi mào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "wrap up <i>(v. kết thúc)</i>",
+   "grammar_vi": "<i>Start the ball rolling</i> (verb) = mở đầu, khơi mào. <b>Grammar</b>: cũng <i>get/set the ball rolling</i>.",
+   "example": {
+    "en": "Who’s going to <b>start the ball rolling</b>?",
+    "vi": "Ai sẽ <b>mở đầu</b> đây?"
+   }
+  },
+  {
+   "word": "to put it in a nutshell",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/tə ˌpʊt ɪt ɪn ə ˈnʌtʃel/",
+   "def_en": "To say it in few words.",
+   "def_vi": "Nói ngắn gọn.",
+   "gloss_vi": "nói tóm lại",
+   "synonyms": "in short <i>(adv. tóm lại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>To put it in a nutshell</i> (adverb) = nói tóm lại. <b>Grammar</b>: đầu câu.",
+   "example": {
+    "en": "<b>To put it in a nutshell</b>, this is a waste of time.",
+    "vi": "<b>Nói tóm lại</b>, đây là lãng phí thời gian."
+   }
+  },
+  {
+   "word": "get to the point",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡet tə ðə ˈpɔɪnt/",
+   "def_en": "To come to the important part of the matter.",
+   "def_vi": "Đi vào phần quan trọng.",
+   "gloss_vi": "vào thẳng vấn đề",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get to the point</i> (verb) = vào thẳng vấn đề. <b>Grammar</b>: cũng <i>come to the point</i>.",
+   "example": {
+    "en": "I hope they <b>get to the point</b> soon.",
+    "vi": "Tôi mong họ sớm <b>vào thẳng vấn đề</b>."
+   }
+  },
+  {
+   "word": "speak your mind",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌspiːk jɔː ˈmaɪnd/",
+   "def_en": "To say exactly what you think.",
+   "def_vi": "Nói thẳng suy nghĩ của mình.",
+   "gloss_vi": "nói thẳng suy nghĩ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Speak your mind</i> (verb) = nói thẳng suy nghĩ. <b>Grammar</b>: tính từ sở hữu đổi theo chủ ngữ.",
+   "example": {
+    "en": "I want to <b>speak my mind</b> today.",
+    "vi": "Hôm nay tôi muốn <b>nói thẳng suy nghĩ của mình</b>."
+   }
+  },
+  {
+   "word": "wrap up",
+   "sense": "finish",
+   "pos": "verb",
+   "ipa": "/ˌræp ˈʌp/",
+   "def_en": "To finish a discussion or meeting.",
+   "def_vi": "Kết thúc cuộc thảo luận hay cuộc họp.",
+   "gloss_vi": "kết thúc",
+   "synonyms": "conclude <i>(v. kết thúc)</i>",
+   "antonyms": "start the ball rolling <i>(v. mở đầu)</i>",
+   "grammar_vi": "<i>Wrap up</i> (verb) = kết thúc. <b>Grammar</b>: <i>wrap up the discussion</i>.",
+   "example": {
+    "en": "I hope we <b>wrap up</b> the discussion by 12.30.",
+    "vi": "Tôi mong chúng ta <b>kết thúc</b> cuộc thảo luận trước 12 giờ 30."
+   }
+  },
+  {
+   "word": "talk sense",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌtɔːk ˈsens/",
+   "def_en": "To say intelligent, reasonable things.",
+   "def_vi": "Nói điều thông minh, hợp lý.",
+   "gloss_vi": "nói có lý",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "talk rubbish <i>(v. nói nhảm)</i>",
+   "grammar_vi": "<i>Talk sense</i> (verb) = nói có lý. <b>Grammar</b>: trái nghĩa <i>talk rubbish</i>.",
+   "example": {
+    "en": "I hope Will speaks; he always <b>talks sense</b>.",
+    "vi": "Tôi mong Will phát biểu; anh ấy luôn <b>nói có lý</b>."
+   }
+  },
+  {
+   "word": "talk rubbish",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌtɔːk ˈrʌbɪʃ/",
+   "def_en": "To say stupid things.",
+   "def_vi": "Nói điều ngớ ngẩn.",
+   "gloss_vi": "nói nhảm",
+   "synonyms": "talk nonsense <i>(v. nói vớ vẩn)</i>",
+   "antonyms": "talk sense <i>(v. nói có lý)</i>",
+   "grammar_vi": "<i>Talk rubbish</i> (verb) = nói nhảm. <b>Grammar</b>: Anh-Anh.",
+   "example": {
+    "en": "Sophie always <b>talks rubbish</b>.",
+    "vi": "Sophie lúc nào cũng <b>nói nhảm</b>."
+   }
+  },
+  {
+   "word": "long-winded",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌlɒŋ ˈwɪndɪd/",
+   "def_en": "Saying things in a long, indirect way.",
+   "def_vi": "Nói dài, vòng vo.",
+   "gloss_vi": "dài dòng",
+   "synonyms": "verbose <i>(adj. rườm rà)</i>",
+   "antonyms": "concise <i>(adj. súc tích)</i>",
+   "grammar_vi": "<i>Long-winded</i> (adjective) = dài dòng. <b>Grammar</b>: /ˌlɒŋ ˈwɪndɪd/.",
+   "example": {
+    "en": "Alex is so <b>long-winded</b>.",
+    "vi": "Alex nói <b>dài dòng</b> quá."
+   }
+  }
+ ]
+}

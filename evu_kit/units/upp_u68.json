@@ -1,0 +1,441 @@
+{
+ "book": "upp",
+ "unit": 68,
+ "title_vi": "Từ nối trong văn viết",
+ "theory_html": "<p><b>A. Organising a formal text</b><br><i>A. Tổ chức văn bản trang trọng</i></p> <p><b>First / Firstly / First of all, Next, Secondly, Thirdly, Finally / Lastly</b> (final point on a list), <b>Turning to</b> (changing to a new topic), <b>Leaving aside</b> (the writer will not deal with that question here), <b>In parenthesis</b> (a side issue, not part of the main argument), <b>In summary / To sum up</b> (summing up the main points), <b>In sum</b> (much more formal), <b>In conclusion / To conclude</b> (finishing the text).</p><p><i><b>Trước hết, Tiếp theo, Thứ hai, Thứ ba, Cuối cùng, Chuyển sang</b> (đổi chủ đề), <b>Gác lại</b> (không bàn ở đây), <b>Nhân tiện</b> (ý phụ), <b>Tóm lại, Tóm lại</b> (rất trang trọng), <b>Kết luận</b>.</i></p> <p><b>CM. Common mistakes</b><br><i>CM. Lỗi thường gặp</i></p> <p><b>Lastly</b> is used when making a final point (NOT <b>At last let us consider…</b>). <b>At last</b> means finally after a long time.</p><p><i><b>Lastly</b> dùng cho ý cuối; <b>at last</b> = cuối cùng sau thời gian dài.</i></p> <p><b>B. Linking words for explaining, exemplifying, rephrasing, etc.</b><br><i>B. Từ nối để giải thích, ví dụ, diễn đạt lại</i></p> <p><b>in other words / that is to say</b> (<b>that is to say</b> is much more formal), <b>for example / for instance</b>, <b>say</b> (similar to <b>for example</b>; commas before and after), <b>briefly</b> [the explanation will be short and not comprehensive], <b>so to speak / as it were</b> (makes what you are saying sound less definite; <b>as it were</b> is more formal).</p><p><i><b>nói cách khác, ví dụ, chẳng hạn, nói ngắn gọn, có thể nói là</b>.</i></p> <p><b>C. Referring backwards and forwards in the text</b><br><i>C. Tham chiếu trước và sau trong văn bản</i></p> <p><b>the following, above/earlier, see, below, overleaf, further, refer you to</b> (formal), <b>with reference to</b> (at the beginning of a letter or email; formal).</p><p><i><b>sau đây, ở trên, xem, dưới đây, mặt sau, thêm, xin mời xem, liên quan đến</b>.</i></p>",
+ "items": [
+  {
+   "word": "first of all",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌfɜːst əv ˈɔːl/",
+   "def_en": "Used to introduce the first point.",
+   "def_vi": "Dùng để giới thiệu ý đầu tiên.",
+   "gloss_vi": "trước hết",
+   "synonyms": "firstly <i>(adv. thứ nhất)</i>",
+   "antonyms": "lastly <i>(adv. cuối cùng)</i>",
+   "grammar_vi": "<i>First of all</i> (adverb) = trước hết. <b>Grammar</b>: cũng <i>First / Firstly</i>.",
+   "example": {
+    "en": "<b>First of all</b>, we must consider …",
+    "vi": "<b>Trước hết</b>, chúng ta phải xem xét…"
+   }
+  },
+  {
+   "word": "next",
+   "sense": "sequence",
+   "pos": "adverb",
+   "ipa": "/nekst/",
+   "def_en": "Used to introduce the following point.",
+   "def_vi": "Dùng để giới thiệu ý tiếp theo.",
+   "gloss_vi": "tiếp theo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Next</i> (adverb) = tiếp theo. <b>Grammar</b>: dùng trong danh sách.",
+   "example": {
+    "en": "<b>Next</b>, it is important to remember that …",
+    "vi": "<b>Tiếp theo</b>, điều quan trọng cần nhớ là…"
+   }
+  },
+  {
+   "word": "secondly",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈsekəndli/",
+   "def_en": "Used to introduce the second point.",
+   "def_vi": "Dùng để giới thiệu ý thứ hai.",
+   "gloss_vi": "thứ hai là",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Secondly</i> (adverb) = thứ hai là. <b>Grammar</b>: dùng cùng <i>first/firstly</i>; cũng <i>thirdly</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Secondly</b>, we need to consider the cost.",
+    "vi": "<b>Thứ hai</b>, chúng ta cần xét chi phí."
+   }
+  },
+  {
+   "word": "lastly",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈlɑːstli/",
+   "def_en": "Used when making a final point.",
+   "def_vi": "Dùng khi nêu ý cuối.",
+   "gloss_vi": "cuối cùng",
+   "synonyms": "finally <i>(adv. sau cùng)</i>",
+   "antonyms": "firstly <i>(adv. thứ nhất)</i>",
+   "grammar_vi": "<i>Lastly</i> (adverb) = cuối cùng. <b>Grammar</b>: KHÔNG dùng <i>at last</i> (= cuối cùng sau thời gian dài).",
+   "example": {
+    "en": "<b>Lastly</b>, let us consider what the future holds.",
+    "vi": "<b>Cuối cùng</b>, hãy xem tương lai sẽ ra sao."
+   }
+  },
+  {
+   "word": "finally",
+   "sense": "list",
+   "pos": "adverb",
+   "ipa": "/ˈfaɪnəli/",
+   "def_en": "Used to introduce the last point on a list.",
+   "def_vi": "Dùng để giới thiệu ý cuối trong danh sách.",
+   "gloss_vi": "sau cùng",
+   "synonyms": "lastly <i>(adv. cuối cùng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Finally</i> (adverb) = sau cùng. <b>Grammar</b>: đến ý cuối danh sách.",
+   "example": {
+    "en": "<b>Finally</b>, we should recall that …",
+    "vi": "<b>Sau cùng</b>, chúng ta nên nhớ lại rằng…"
+   }
+  },
+  {
+   "word": "turning to",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ˈtɜːnɪŋ tə/",
+   "def_en": "Used when changing to a new topic.",
+   "def_vi": "Dùng khi chuyển sang chủ đề mới.",
+   "gloss_vi": "chuyển sang",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Turning to</i> (preposition) = chuyển sang. <b>Grammar</b>: + danh từ.",
+   "example": {
+    "en": "<b>Turning to</b> the question of foreign policy, …",
+    "vi": "<b>Chuyển sang</b> vấn đề chính sách đối ngoại,…"
+   }
+  },
+  {
+   "word": "leaving aside",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ˌliːvɪŋ əˈsaɪd/",
+   "def_en": "Not dealing with something here.",
+   "def_vi": "Không bàn đến điều gì ở đây.",
+   "gloss_vi": "gác lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Leaving aside</i> (preposition) = gác lại. <b>Grammar</b>: người viết không bàn vấn đề đó ở đây.",
+   "example": {
+    "en": "<b>Leaving aside</b> the question of pollution, there are also other reasons …",
+    "vi": "<b>Gác lại</b> vấn đề ô nhiễm, còn những lý do khác…"
+   }
+  },
+  {
+   "word": "in parenthesis",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ɪn pəˈrenθəsɪs/",
+   "def_en": "Used for a point that is a side issue.",
+   "def_vi": "Dùng cho ý phụ, ngoài lập luận chính.",
+   "gloss_vi": "nhân tiện nói thêm",
+   "synonyms": "incidentally <i>(adv. nhân tiện)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In parenthesis</i> (adverb) = nhân tiện nói thêm. <b>Grammar</b>: ý phụ, không thuộc lập luận chính.",
+   "example": {
+    "en": "<b>In parenthesis</b>, let us not forget that …",
+    "vi": "<b>Nhân tiện nói thêm</b>, đừng quên rằng…"
+   }
+  },
+  {
+   "word": "in summary",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ɪn ˈsʌməri/",
+   "def_en": "Used to sum up the main points.",
+   "def_vi": "Dùng để tóm tắt ý chính.",
+   "gloss_vi": "tóm lại",
+   "synonyms": "to sum up <i>(adv. tóm lại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In summary</i> (adverb) = tóm lại. <b>Grammar</b>: cũng <i>To sum up</i>.",
+   "example": {
+    "en": "<b>In summary</b>, we may state that …",
+    "vi": "<b>Tóm lại</b>, ta có thể nói rằng…"
+   }
+  },
+  {
+   "word": "to sum up",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/tə ˌsʌm ˈʌp/",
+   "def_en": "Used to sum up the main points.",
+   "def_vi": "Dùng để tóm tắt ý chính.",
+   "gloss_vi": "tóm lại",
+   "synonyms": "in summary <i>(adv. tóm lại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>To sum up</i> (adverb) = tóm lại. <b>Grammar</b>: <i>sum up</i> (v.).",
+   "example": {
+    "en": "<b>To sum up</b>, we may state that …",
+    "vi": "<b>Tóm lại</b>, ta có thể nói rằng…"
+   }
+  },
+  {
+   "word": "in sum",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ɪn ˈsʌm/",
+   "def_en": "In summary (much more formal).",
+   "def_vi": "Tóm lại (rất trang trọng).",
+   "gloss_vi": "tóm lại",
+   "synonyms": "in summary <i>(adv. tóm lại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In sum</i> (adverb) = tóm lại. <b>Grammar</b>: trang trọng hơn nhiều.",
+   "example": {
+    "en": "<b>In sum</b>, the economic issues are at the centre of this debate …",
+    "vi": "<b>Tóm lại</b>, các vấn đề kinh tế là trung tâm của cuộc tranh luận này."
+   }
+  },
+  {
+   "word": "in conclusion",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ɪn kənˈkluːʒn/",
+   "def_en": "Used to finish a text.",
+   "def_vi": "Dùng để kết thúc văn bản.",
+   "gloss_vi": "kết luận",
+   "synonyms": "to conclude <i>(adv. để kết luận)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In conclusion</i> (adverb) = kết luận. <b>Grammar</b>: cũng <i>To conclude</i>.",
+   "example": {
+    "en": "<b>In conclusion</b>, I should like to point out that …",
+    "vi": "<b>Kết luận</b>, tôi muốn chỉ ra rằng…"
+   }
+  },
+  {
+   "word": "at last",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ət ˈlɑːst/",
+   "def_en": "Finally, after a long time.",
+   "def_vi": "Cuối cùng, sau một thời gian dài.",
+   "gloss_vi": "cuối cùng thì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>At last</i> (adverb) = cuối cùng thì. <b>Grammar</b>: khác <i>lastly</i> (ý cuối).",
+   "example": {
+    "en": "<b>At last</b> I’ve finished my essay - what a relief!",
+    "vi": "<b>Cuối cùng thì</b> tôi cũng xong bài luận – nhẹ cả người!"
+   }
+  },
+  {
+   "word": "in other words",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ɪn ˌʌðə ˈwɜːdz/",
+   "def_en": "Used to explain something in a different way.",
+   "def_vi": "Dùng để giải thích cách khác.",
+   "gloss_vi": "nói cách khác",
+   "synonyms": "that is to say <i>(adv. tức là)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In other words</i> (adverb) = nói cách khác. <b>Grammar</b>: ít trang trọng hơn <i>that is to say</i>.",
+   "example": {
+    "en": "To learn new words properly a lot of recycling is needed; <b>in other words</b>, you have to study the same words over and over again.",
+    "vi": "Học từ mới cần ôn lại nhiều; <b>nói cách khác</b>, bạn phải học đi học lại cùng từ."
+   }
+  },
+  {
+   "word": "that is to say",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ðæt ɪz tə ˈseɪ/",
+   "def_en": "In other words (much more formal).",
+   "def_vi": "Nói cách khác (trang trọng hơn nhiều).",
+   "gloss_vi": "tức là",
+   "synonyms": "in other words <i>(adv. nói cách khác)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>That is to say</i> (adverb) = tức là. <b>Grammar</b>: trang trọng hơn nhiều.",
+   "example": {
+    "en": "A lot of recycling is needed; <b>that is to say</b>, you have to study the same words over and over again.",
+    "vi": "Học từ mới cần ôn lại nhiều; <b>tức là</b>, bạn phải học đi học lại cùng từ."
+   }
+  },
+  {
+   "word": "for instance",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/fər ˈɪnstəns/",
+   "def_en": "For example.",
+   "def_vi": "Ví dụ.",
+   "gloss_vi": "chẳng hạn",
+   "synonyms": "for example <i>(adv. ví dụ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>For instance</i> (adverb) = chẳng hạn. <b>Grammar</b>: = <i>for example</i>.",
+   "example": {
+    "en": "Some English words are hard to pronounce, <b>for instance</b>, ‘eighth’.",
+    "vi": "Một số từ tiếng Anh khó phát âm, <b>chẳng hạn</b> ‘eighth’."
+   }
+  },
+  {
+   "word": "say",
+   "sense": "example",
+   "pos": "adverb",
+   "ipa": "/seɪ/",
+   "def_en": "For example.",
+   "def_vi": "Ví dụ.",
+   "gloss_vi": "chẳng hạn",
+   "synonyms": "for example <i>(adv. ví dụ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Say</i> (adverb) = chẳng hạn. <b>Grammar</b>: có dấu phẩy trước và sau; phổ biến trong văn nói.",
+   "example": {
+    "en": "It might be possible, <b>say</b>, to include the parents in the discussion.",
+    "vi": "Có thể, <b>chẳng hạn</b>, đưa phụ huynh vào cuộc thảo luận."
+   }
+  },
+  {
+   "word": "briefly",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈbriːfli/",
+   "def_en": "In a short explanation that is not comprehensive.",
+   "def_vi": "Giải thích ngắn, không đầy đủ.",
+   "gloss_vi": "nói ngắn gọn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Briefly</i> (adverb) = nói ngắn gọn. <b>Grammar</b>: lời giải thích ngắn, không toàn diện.",
+   "example": {
+    "en": "The Parliament has different committees. <b>Briefly</b>, these consist of two main types.",
+    "vi": "Nghị viện có nhiều ủy ban. <b>Nói ngắn gọn</b>, gồm hai loại chính."
+   }
+  },
+  {
+   "word": "so to speak",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌsəʊ tə ˈspiːk/",
+   "def_en": "Used to make what you say sound less definite.",
+   "def_vi": "Làm lời nói bớt chắc chắn.",
+   "gloss_vi": "có thể nói là",
+   "synonyms": "as it were <i>(adv. có thể nói)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>So to speak</i> (adverb) = có thể nói là. <b>Grammar</b>: ít trang trọng hơn <i>as it were</i>.",
+   "example": {
+    "en": "She is, <b>so to speak</b>, living in a world of her own.",
+    "vi": "Cô ấy, <b>có thể nói là</b>, sống trong thế giới riêng."
+   }
+  },
+  {
+   "word": "as it were",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/əz ɪt ˈwɜː(r)/",
+   "def_en": "Used to make what you say sound less precise (more formal).",
+   "def_vi": "Làm lời nói bớt chính xác (trang trọng hơn).",
+   "gloss_vi": "có thể nói",
+   "synonyms": "so to speak <i>(adv. có thể nói là)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As it were</i> (adverb) = có thể nói. <b>Grammar</b>: trang trọng hơn <i>so to speak</i>.",
+   "example": {
+    "en": "She is, <b>as it were</b>, living in a world of her own.",
+    "vi": "Cô ấy, <b>có thể nói</b>, sống trong thế giới riêng."
+   }
+  },
+  {
+   "word": "the following",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ðə ˈfɒləʊɪŋ/",
+   "def_en": "Used to introduce a list.",
+   "def_vi": "Dùng để giới thiệu danh sách.",
+   "gloss_vi": "sau đây",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The following</i> (adjective) = sau đây. <b>Grammar</b>: giới thiệu danh sách.",
+   "example": {
+    "en": "<b>The following</b> points will be covered in this essay: …",
+    "vi": "Những điểm <b>sau đây</b> sẽ được đề cập trong bài luận."
+   }
+  },
+  {
+   "word": "above",
+   "sense": "text",
+   "pos": "adverb",
+   "ipa": "/əˈbʌv/",
+   "def_en": "Earlier in the text.",
+   "def_vi": "Ở phần trước của văn bản.",
+   "gloss_vi": "ở trên",
+   "synonyms": "earlier <i>(adv. trước đó)</i>",
+   "antonyms": "below <i>(adv. dưới đây)</i>",
+   "grammar_vi": "<i>Above</i> (adverb) = ở trên. <b>Grammar</b>: cũng <i>earlier</i>.",
+   "example": {
+    "en": "It was stated <b>above</b> that the history of the USA is …",
+    "vi": "<b>Ở trên</b> đã nêu rằng lịch sử nước Mỹ…"
+   }
+  },
+  {
+   "word": "below",
+   "sense": "text",
+   "pos": "adverb",
+   "ipa": "/bɪˈləʊ/",
+   "def_en": "Later in the text.",
+   "def_vi": "Ở phần sau của văn bản.",
+   "gloss_vi": "dưới đây",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "above <i>(adv. ở trên)</i>",
+   "grammar_vi": "<i>Below</i> (adverb) = dưới đây. <b>Grammar</b>: ví dụ sẽ đưa sau.",
+   "example": {
+    "en": "Many writers have claimed this (see <b>below</b>).",
+    "vi": "Nhiều tác giả đã khẳng định điều này (xem <b>dưới đây</b>)."
+   }
+  },
+  {
+   "word": "overleaf",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌəʊvəˈliːf/",
+   "def_en": "On the other side of the page.",
+   "def_vi": "Ở mặt sau trang.",
+   "gloss_vi": "ở mặt sau",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Overleaf</i> (adverb) = ở mặt sau. <b>Grammar</b>: lật trang sẽ thấy.",
+   "example": {
+    "en": "A full list is given <b>overleaf</b>.",
+    "vi": "Danh sách đầy đủ ở <b>mặt sau</b>."
+   }
+  },
+  {
+   "word": "further",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈfɜːðə(r)/",
+   "def_en": "More; additional.",
+   "def_vi": "Thêm.",
+   "gloss_vi": "thêm",
+   "synonyms": "additional <i>(adj. bổ sung)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Further</i> (adjective) = thêm. <b>Grammar</b>: <i>further details/information</i>.",
+   "example": {
+    "en": "For <b>further</b> details/discussion, see Chapter 4.",
+    "vi": "Để biết <b>thêm</b> chi tiết, xem Chương 4."
+   }
+  },
+  {
+   "word": "refer you to",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rɪˈfɜː ju tə/",
+   "def_en": "To ask you to look at or read (formal).",
+   "def_vi": "Mời bạn xem hay đọc (trang trọng).",
+   "gloss_vi": "xin mời xem",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Refer you to</i> (verb) = xin mời xem. <b>Grammar</b>: trang trọng.",
+   "example": {
+    "en": "May I <b>refer you to</b> page 3 of my last letter to you?",
+    "vi": "Tôi có thể <b>mời ông xem</b> trang 3 bức thư trước của tôi?"
+   }
+  },
+  {
+   "word": "with reference to",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/wɪð ˈrefrəns tə/",
+   "def_en": "About; concerning (formal, at the start of a letter).",
+   "def_vi": "Về việc (trang trọng, đầu thư).",
+   "gloss_vi": "liên quan đến",
+   "synonyms": "regarding <i>(prep. về việc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>With reference to</i> (preposition) = liên quan đến. <b>Grammar</b>: thường mở đầu thư/email.",
+   "example": {
+    "en": "<b>With reference to</b> your email of 12th March, …",
+    "vi": "<b>Liên quan đến</b> email ngày 12 tháng Ba của ông,…"
+   }
+  }
+ ]
+}

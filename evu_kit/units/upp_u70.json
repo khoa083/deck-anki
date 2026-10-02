@@ -1,0 +1,839 @@
+{
+ "book": "upp",
+ "unit": 70,
+ "title_vi": "Hậu tố",
+ "theory_html": "<p><b>A. Common noun suffixes</b><br><i>A. Hậu tố danh từ phổ biến</i></p> <p><b>-er</b> is used for the person who does an activity (<b>writer, painter</b>); sometimes written <b>-or</b> (<b>actor, donor, supervisor</b>). <b>-er/-or</b> are also used for things which do a particular job (<b>pencil sharpener, bottle opener, grater, projector, stapler, coat hanger</b>). <b>-er</b> and <b>-ee</b> (/iː/) contrast: person who does vs. person who receives (<b>employer/employee, sender/addressee, payee</b>). <b>-tion/-sion/-ion</b> form nouns from verbs. <b>-ist</b> [a person] and <b>-ism</b> [an activity or ideology] are used for politics, beliefs, ideologies and sometimes professions; <b>-ist</b> is also used for people who play musical instruments. <b>-ness</b> makes nouns from adjectives (<b>-y</b> changes to <b>-i</b>: <b>happiness</b>).</p><p><i><b>-er/-or</b>: người làm hoặc vật làm việc gì. <b>-er</b> (người làm) đối lập <b>-ee</b> (người nhận). <b>-tion/-sion/-ion</b>: danh từ từ động từ. <b>-ist</b> (người), <b>-ism</b> (hoạt động, hệ tư tưởng); <b>-ist</b> cho người chơi nhạc cụ. <b>-ness</b>: danh từ từ tính từ (<b>-y</b> → <b>-i</b>).</i></p> <p><b>B. Adjective suffixes</b><br><i>B. Hậu tố tính từ</i></p> <p><b>-able/-ible</b> with verbs means ‘can be done’: <b>drinkable, washable, readable, forgivable, edible, flexible</b>.</p><p><i><b>-able/-ible</b> = có thể được làm.</i></p> <p><b>C. Verbs</b><br><i>C. Động từ</i></p> <p><b>-ise</b> (or <b>-ize</b>, more common in American English) forms verbs from adjectives: <b>modernise, commercialise, industrialise, computerise</b>.</p><p><i><b>-ise/-ize</b> tạo động từ từ tính từ.</i></p> <p><b>D. Other suffixes that can help you recognise the word class</b><br><i>D. Hậu tố khác giúp nhận biết từ loại</i></p> <p>Nouns: <b>-ment, -ity, -hood</b> (especially family terms), <b>-ship</b> (especially status). Adjectives: <b>-ive, -al</b> (also nouns), <b>-ous, -ful, -less</b>. Verbs: <b>-ify</b>. The informal suffix <b>-ish</b> can be added to most common adjectives, ages and times to make them less precise.</p><p><i>Danh từ: <b>-ment, -ity, -hood, -ship</b>; tính từ: <b>-ive, -al, -ous, -ful, -less</b>; động từ: <b>-ify</b>. <b>-ish</b> (thân mật) làm từ bớt chính xác.</i></p> <p><b>LH. Language help</b><br><i>LH. Lưu ý ngôn ngữ</i></p> <p>Adding a suffix can sometimes change the stress in a word: <b>flexible → flexibility, productive → productivity, piano → pianist</b>. Check in a dictionary.</p><p><i>Thêm hậu tố có thể đổi trọng âm; nên tra từ điển.</i></p>",
+ "items": [
+  {
+   "word": "donor",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdəʊnə(r)/",
+   "def_en": "A person who donates something.",
+   "def_vi": "Người hiến tặng.",
+   "gloss_vi": "người hiến tặng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "recipient <i>(n. người nhận)</i>",
+   "grammar_vi": "<i>Donor</i> (noun) = người hiến tặng. <b>Grammar</b>: <i>-or</i> đọc /ə/.",
+   "ex_kit": true,
+   "example": {
+    "en": "a blood <b>donor</b>",
+    "vi": "Một <b>người hiến</b> máu."
+   }
+  },
+  {
+   "word": "operator",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɒpəreɪtə(r)/",
+   "def_en": "A person who operates a machine or service.",
+   "def_vi": "Người vận hành máy hay dịch vụ.",
+   "gloss_vi": "người vận hành, tổng đài viên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Operator</i> (noun) = người vận hành, tổng đài viên. <b>Grammar</b>: <i>operate</i> + <i>-or</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Call the <b>operator</b> if you need help.",
+    "vi": "Gọi <b>tổng đài viên</b> nếu cần giúp."
+   }
+  },
+  {
+   "word": "sailor",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈseɪlə(r)/",
+   "def_en": "A person who works on a ship.",
+   "def_vi": "Người làm việc trên tàu.",
+   "gloss_vi": "thủy thủ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sailor</i> (noun) = thủy thủ. <b>Grammar</b>: <i>sail</i> + <i>-or</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "My grandfather was a <b>sailor</b>.",
+    "vi": "Ông tôi từng là <b>thủy thủ</b>."
+   }
+  },
+  {
+   "word": "pencil sharpener",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpensl ˌʃɑːpnə(r)/",
+   "def_en": "A tool for making pencils sharp.",
+   "def_vi": "Dụng cụ gọt bút chì.",
+   "gloss_vi": "gọt bút chì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pencil sharpener</i> (noun) = gọt bút chì. <b>Grammar</b>: <i>-er</i> cho vật làm việc gì.",
+   "ex_kit": true,
+   "example": {
+    "en": "Can I borrow your <b>pencil sharpener</b>?",
+    "vi": "Cho tôi mượn <b>gọt bút chì</b> được không?"
+   }
+  },
+  {
+   "word": "bottle opener",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɒtl ˌəʊpənə(r)/",
+   "def_en": "A tool for opening bottles.",
+   "def_vi": "Dụng cụ mở chai.",
+   "gloss_vi": "đồ khui chai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bottle opener</i> (noun) = đồ khui chai. <b>Grammar</b>: <i>-er</i> cho vật.",
+   "ex_kit": true,
+   "example": {
+    "en": "Where’s the <b>bottle opener</b>?",
+    "vi": "<b>Đồ khui chai</b> đâu rồi?"
+   }
+  },
+  {
+   "word": "projector",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/prəˈdʒektə(r)/",
+   "def_en": "A machine that shows images on a screen.",
+   "def_vi": "Máy chiếu hình lên màn.",
+   "gloss_vi": "máy chiếu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Projector</i> (noun) = máy chiếu. <b>Grammar</b>: <i>-or</i> cho vật.",
+   "ex_kit": true,
+   "example": {
+    "en": "The teacher switched on the <b>projector</b>.",
+    "vi": "Giáo viên bật <b>máy chiếu</b>."
+   }
+  },
+  {
+   "word": "stapler",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsteɪplə(r)/",
+   "def_en": "A tool for fastening papers with metal staples.",
+   "def_vi": "Dụng cụ dập ghim giấy.",
+   "gloss_vi": "cái dập ghim",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stapler</i> (noun) = cái dập ghim. <b>Grammar</b>: <i>staple</i> + <i>-er</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Can I borrow your <b>stapler</b>?",
+    "vi": "Cho tôi mượn <b>cái dập ghim</b>."
+   }
+  },
+  {
+   "word": "coat hanger",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkəʊt ˌhæŋə(r)/",
+   "def_en": "A shaped piece of wood, plastic or metal for hanging clothes.",
+   "def_vi": "Vật để treo quần áo.",
+   "gloss_vi": "móc áo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Coat hanger</i> (noun) = móc áo. <b>Grammar</b>: <i>hang</i> + <i>-er</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Put your jacket on a <b>coat hanger</b>.",
+    "vi": "Treo áo khoác lên <b>móc</b>."
+   }
+  },
+  {
+   "word": "employer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪmˈplɔɪə(r)/",
+   "def_en": "A person or company that employs people.",
+   "def_vi": "Người hay công ty thuê nhân viên.",
+   "gloss_vi": "người sử dụng lao động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "employee <i>(n. nhân viên)</i>",
+   "grammar_vi": "<i>Employer</i> (noun) = người sử dụng lao động. <b>Grammar</b>: <i>-er</i> = người làm hành động.",
+   "ex_kit": true,
+   "example": {
+    "en": "My <b>employer</b> is very fair.",
+    "vi": "<b>Chủ</b> của tôi rất công bằng."
+   }
+  },
+  {
+   "word": "employee",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪmˈplɔɪiː/",
+   "def_en": "A person who is employed.",
+   "def_vi": "Người được thuê làm.",
+   "gloss_vi": "nhân viên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "employer <i>(n. chủ)</i>",
+   "grammar_vi": "<i>Employee</i> (noun) = nhân viên. <b>Grammar</b>: <i>-ee</i> /iː/ = người nhận hành động; trọng âm cuối.",
+   "ex_kit": true,
+   "example": {
+    "en": "The company has 200 <b>employees</b>.",
+    "vi": "Công ty có 200 <b>nhân viên</b>."
+   }
+  },
+  {
+   "word": "addressee",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌædreˈsiː/",
+   "def_en": "The person a letter is addressed to.",
+   "def_vi": "Người nhận thư.",
+   "gloss_vi": "người nhận",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "sender <i>(n. người gửi)</i>",
+   "grammar_vi": "<i>Addressee</i> (noun) = người nhận. <b>Grammar</b>: đối lập <i>sender</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Write the name of the <b>addressee</b> on the envelope.",
+    "vi": "Ghi tên <b>người nhận</b> lên phong bì."
+   }
+  },
+  {
+   "word": "payee",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/peɪˈiː/",
+   "def_en": "A person who receives a sum of money.",
+   "def_vi": "Người nhận khoản tiền.",
+   "gloss_vi": "người thụ hưởng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Payee</i> (noun) = người thụ hưởng. <b>Grammar</b>: <i>pay</i> + <i>-ee</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Write the name of the <b>payee</b> on the cheque.",
+    "vi": "Ghi tên <b>người thụ hưởng</b> trên séc."
+   }
+  },
+  {
+   "word": "complication",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkɒmplɪˈkeɪʃn/",
+   "def_en": "Something that makes a situation more difficult.",
+   "def_vi": "Điều làm tình hình khó hơn.",
+   "gloss_vi": "biến chứng, rắc rối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Complication</i> (noun) = biến chứng, rắc rối. <b>Grammar</b>: <i>complicate</i> + <i>-ion</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "There were no <b>complications</b> after the operation.",
+    "vi": "Ca phẫu thuật không có <b>biến chứng</b> nào."
+   }
+  },
+  {
+   "word": "alteration",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɔːltəˈreɪʃn/",
+   "def_en": "A change.",
+   "def_vi": "Sự thay đổi.",
+   "gloss_vi": "sự sửa đổi",
+   "synonyms": "change <i>(n. thay đổi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Alteration</i> (noun) = sự sửa đổi. <b>Grammar</b>: <i>alter</i> + <i>-ation</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We made some <b>alterations</b> to the plan.",
+    "vi": "Chúng tôi đã <b>sửa</b> vài chỗ trong kế hoạch."
+   }
+  },
+  {
+   "word": "admission",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ədˈmɪʃn/",
+   "def_en": "Permission to enter a place.",
+   "def_vi": "Sự cho phép vào.",
+   "gloss_vi": "sự cho vào, vé vào",
+   "synonyms": "entry <i>(n. lối vào)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Admission</i> (noun) = sự cho vào, vé vào. <b>Grammar</b>: <i>admit</i> + <i>-sion</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Admission</b> is free.",
+    "vi": "<b>Vé vào cửa</b> miễn phí."
+   }
+  },
+  {
+   "word": "physicist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfɪzɪsɪst/",
+   "def_en": "A person who studies physics.",
+   "def_vi": "Người nghiên cứu vật lý.",
+   "gloss_vi": "nhà vật lý",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Physicist</i> (noun) = nhà vật lý. <b>Grammar</b>: <i>-ist</i> cho nghề.",
+   "ex_kit": true,
+   "example": {
+    "en": "Einstein was a famous <b>physicist</b>.",
+    "vi": "Einstein là một <b>nhà vật lý</b> nổi tiếng."
+   }
+  },
+  {
+   "word": "typist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtaɪpɪst/",
+   "def_en": "A person whose job is typing.",
+   "def_vi": "Người làm nghề đánh máy.",
+   "gloss_vi": "nhân viên đánh máy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Typist</i> (noun) = nhân viên đánh máy. <b>Grammar</b>: <i>type</i> + <i>-ist</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She used to work as a <b>typist</b>.",
+    "vi": "Bà ấy từng làm <b>nhân viên đánh máy</b>."
+   }
+  },
+  {
+   "word": "journalism",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdʒɜːnəlɪzəm/",
+   "def_en": "The work of writing for newspapers or other media.",
+   "def_vi": "Nghề viết báo.",
+   "gloss_vi": "nghề báo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Journalism</i> (noun) = nghề báo. <b>Grammar</b>: <i>-ism</i> = hoạt động; người: <i>journalist</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She studied <b>journalism</b> at university.",
+    "vi": "Cô ấy học <b>báo chí</b> ở đại học."
+   }
+  },
+  {
+   "word": "pianist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpiːənɪst/",
+   "def_en": "A person who plays the piano.",
+   "def_vi": "Người chơi piano.",
+   "gloss_vi": "nghệ sĩ piano",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pianist</i> (noun) = nghệ sĩ piano. <b>Grammar</b>: trọng âm đổi: piˈano → ˈpianist.",
+   "ex_kit": true,
+   "example": {
+    "en": "She is a talented <b>pianist</b>.",
+    "vi": "Cô ấy là <b>nghệ sĩ piano</b> tài năng."
+   }
+  },
+  {
+   "word": "cellist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtʃelɪst/",
+   "def_en": "A person who plays the cello.",
+   "def_vi": "Người chơi cello.",
+   "gloss_vi": "nghệ sĩ cello",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cellist</i> (noun) = nghệ sĩ cello. <b>Grammar</b>: /ˈtʃelɪst/; <i>-ist</i> cho nhạc cụ.",
+   "ex_kit": true,
+   "example": {
+    "en": "He is a <b>cellist</b> in the orchestra.",
+    "vi": "Anh ấy là <b>nghệ sĩ cello</b> trong dàn nhạc."
+   }
+  },
+  {
+   "word": "readiness",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈredinəs/",
+   "def_en": "The state of being ready or willing.",
+   "def_vi": "Trạng thái sẵn sàng.",
+   "gloss_vi": "sự sẵn sàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Readiness</i> (noun) = sự sẵn sàng. <b>Grammar</b>: <i>-y</i> → <i>-i</i> + <i>-ness</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "They showed a <b>readiness</b> to help.",
+    "vi": "Họ thể hiện <b>sự sẵn sàng</b> giúp đỡ."
+   }
+  },
+  {
+   "word": "forgetfulness",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/fəˈɡetflnəs/",
+   "def_en": "The quality of often forgetting things.",
+   "def_vi": "Tính hay quên.",
+   "gloss_vi": "tính đãng trí",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Forgetfulness</i> (noun) = tính đãng trí. <b>Grammar</b>: <i>forgetful</i> + <i>-ness</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "His <b>forgetfulness</b> gets worse with age.",
+    "vi": "<b>Tính đãng trí</b> của ông ấy tăng theo tuổi."
+   }
+  },
+  {
+   "word": "drinkable",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈdrɪŋkəbl/",
+   "def_en": "Safe to drink.",
+   "def_vi": "Uống được.",
+   "gloss_vi": "uống được",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Drinkable</i> (adjective) = uống được. <b>Grammar</b>: <i>-able</i> = có thể được làm.",
+   "ex_kit": true,
+   "example": {
+    "en": "Is this water <b>drinkable</b>?",
+    "vi": "Nước này có <b>uống được</b> không?"
+   }
+  },
+  {
+   "word": "washable",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈwɒʃəbl/",
+   "def_en": "That can be washed without damage.",
+   "def_vi": "Giặt được mà không hỏng.",
+   "gloss_vi": "giặt được",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Washable</i> (adjective) = giặt được. <b>Grammar</b>: <i>wash</i> + <i>-able</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "This jacket is machine <b>washable</b>.",
+    "vi": "Chiếc áo này <b>giặt máy được</b>."
+   }
+  },
+  {
+   "word": "forgivable",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/fəˈɡɪvəbl/",
+   "def_en": "That can be forgiven.",
+   "def_vi": "Có thể tha thứ.",
+   "gloss_vi": "có thể tha thứ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "unforgivable <i>(adj. không thể tha thứ)</i>",
+   "grammar_vi": "<i>Forgivable</i> (adjective) = có thể tha thứ. <b>Grammar</b>: <i>forgive</i> + <i>-able</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "His mistake was <b>forgivable</b>.",
+    "vi": "Sai lầm của cậu ấy là <b>có thể tha thứ</b>."
+   }
+  },
+  {
+   "word": "edible",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈedəbl/",
+   "def_en": "That can be eaten.",
+   "def_vi": "Ăn được.",
+   "gloss_vi": "ăn được",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "inedible <i>(adj. không ăn được)</i>",
+   "grammar_vi": "<i>Edible</i> (adjective) = ăn được. <b>Grammar</b>: <i>-ible</i> = có thể được làm.",
+   "ex_kit": true,
+   "example": {
+    "en": "Are these mushrooms <b>edible</b>?",
+    "vi": "Loại nấm này có <b>ăn được</b> không?"
+   }
+  },
+  {
+   "word": "modernise",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈmɒdənaɪz/",
+   "def_en": "To make modern.",
+   "def_vi": "Làm cho hiện đại.",
+   "gloss_vi": "hiện đại hóa",
+   "synonyms": "update <i>(v. cập nhật)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Modernise</i> (verb) = hiện đại hóa. <b>Grammar</b>: <i>-ise</i> (Anh) / <i>-ize</i> (Mỹ).",
+   "ex_kit": true,
+   "example": {
+    "en": "They are <b>modernising</b> the factory.",
+    "vi": "Họ đang <b>hiện đại hóa</b> nhà máy."
+   }
+  },
+  {
+   "word": "commercialise",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kəˈmɜːʃəlaɪz/",
+   "def_en": "To use something to make money.",
+   "def_vi": "Dùng điều gì để kiếm tiền.",
+   "gloss_vi": "thương mại hóa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Commercialise</i> (verb) = thương mại hóa. <b>Grammar</b>: <i>commercial</i> + <i>-ise</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Christmas has become too <b>commercialised</b>.",
+    "vi": "Giáng sinh đã bị <b>thương mại hóa</b> quá mức."
+   }
+  },
+  {
+   "word": "industrialise",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪnˈdʌstriəlaɪz/",
+   "def_en": "To develop industries in a country.",
+   "def_vi": "Phát triển công nghiệp ở một nước.",
+   "gloss_vi": "công nghiệp hóa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Industrialise</i> (verb) = công nghiệp hóa. <b>Grammar</b>: <i>industrial</i> + <i>-ise</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The country <b>industrialised</b> rapidly.",
+    "vi": "Đất nước đã <b>công nghiệp hóa</b> nhanh chóng."
+   }
+  },
+  {
+   "word": "computerise",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kəmˈpjuːtəraɪz/",
+   "def_en": "To use computers to do something.",
+   "def_vi": "Dùng máy tính để làm việc gì.",
+   "gloss_vi": "tin học hóa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Computerise</i> (verb) = tin học hóa. <b>Grammar</b>: <i>computer</i> + <i>-ise</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The library has <b>computerised</b> its records.",
+    "vi": "Thư viện đã <b>tin học hóa</b> hồ sơ."
+   }
+  },
+  {
+   "word": "replacement",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˈpleɪsmənt/",
+   "def_en": "The act of putting someone or something in the place of someone or something else.",
+   "def_vi": "Việc thay người/vật này bằng người/vật khác.",
+   "gloss_vi": "sự thay thế, người thay",
+   "synonyms": "substitute <i>(n. người thay)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Replacement</i> (noun) = sự thay thế, người thay. <b>Grammar</b>: <i>replace</i> + <i>-ment</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We need to find a <b>replacement</b> for her.",
+    "vi": "Chúng tôi cần tìm <b>người thay thế</b> cho cô ấy."
+   }
+  },
+  {
+   "word": "productivity",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌprɒdʌkˈtɪvəti/",
+   "def_en": "The rate at which goods are produced.",
+   "def_vi": "Tốc độ sản xuất.",
+   "gloss_vi": "năng suất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Productivity</i> (noun) = năng suất. <b>Grammar</b>: trọng âm đổi: proˈductive → producˈtivity.",
+   "ex_kit": true,
+   "example": {
+    "en": "New technology has increased <b>productivity</b>.",
+    "vi": "Công nghệ mới đã tăng <b>năng suất</b>."
+   }
+  },
+  {
+   "word": "scarcity",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈskeəsəti/",
+   "def_en": "A situation where there is not enough of something.",
+   "def_vi": "Tình trạng khan hiếm.",
+   "gloss_vi": "sự khan hiếm",
+   "synonyms": "shortage <i>(n. thiếu hụt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Scarcity</i> (noun) = sự khan hiếm. <b>Grammar</b>: <i>scarce</i> + <i>-ity</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "There is a <b>scarcity</b> of water in summer.",
+    "vi": "Có sự <b>khan hiếm</b> nước trong mùa hè."
+   }
+  },
+  {
+   "word": "childhood",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtʃaɪldhʊd/",
+   "def_en": "The time when you are a child.",
+   "def_vi": "Thời kỳ là trẻ con.",
+   "gloss_vi": "thời thơ ấu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Childhood</i> (noun) = thời thơ ấu. <b>Grammar</b>: <i>-hood</i> = danh từ trừu tượng, nhất là quan hệ gia đình.",
+   "ex_kit": true,
+   "example": {
+    "en": "I had a happy <b>childhood</b>.",
+    "vi": "Tôi có <b>tuổi thơ</b> hạnh phúc."
+   }
+  },
+  {
+   "word": "motherhood",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmʌðəhʊd/",
+   "def_en": "The state of being a mother.",
+   "def_vi": "Trạng thái làm mẹ.",
+   "gloss_vi": "thiên chức làm mẹ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Motherhood</i> (noun) = thiên chức làm mẹ. <b>Grammar</b>: <i>mother</i> + <i>-hood</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She loves <b>motherhood</b>.",
+    "vi": "Cô ấy rất thích <b>làm mẹ</b>."
+   }
+  },
+  {
+   "word": "brotherhood",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbrʌðəhʊd/",
+   "def_en": "Friendship and loyalty between people.",
+   "def_vi": "Tình bạn và lòng trung thành giữa người với người.",
+   "gloss_vi": "tình huynh đệ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Brotherhood</i> (noun) = tình huynh đệ. <b>Grammar</b>: <i>brother</i> + <i>-hood</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "the <b>brotherhood</b> between soldiers",
+    "vi": "<b>Tình huynh đệ</b> giữa những người lính."
+   }
+  },
+  {
+   "word": "partnership",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɑːtnəʃɪp/",
+   "def_en": "The state of being partners.",
+   "def_vi": "Trạng thái là đối tác.",
+   "gloss_vi": "quan hệ đối tác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Partnership</i> (noun) = quan hệ đối tác. <b>Grammar</b>: <i>-ship</i> = trạng thái, địa vị.",
+   "ex_kit": true,
+   "example": {
+    "en": "The two companies formed a <b>partnership</b>.",
+    "vi": "Hai công ty đã thành lập <b>quan hệ đối tác</b>."
+   }
+  },
+  {
+   "word": "membership",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmembəʃɪp/",
+   "def_en": "The state of being a member.",
+   "def_vi": "Trạng thái là thành viên.",
+   "gloss_vi": "tư cách thành viên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Membership</i> (noun) = tư cách thành viên. <b>Grammar</b>: <i>member</i> + <i>-ship</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "My <b>membership</b> expires next month.",
+    "vi": "<b>Thẻ hội viên</b> của tôi hết hạn tháng sau."
+   }
+  },
+  {
+   "word": "passive",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpæsɪv/",
+   "def_en": "(In grammar) the form where the receiver of an action becomes the subject.",
+   "def_vi": "(Ngữ pháp) dạng mà người nhận hành động làm chủ ngữ.",
+   "gloss_vi": "thể bị động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "active <i>(n. chủ động)</i>",
+   "grammar_vi": "<i>Passive</i> (noun) = thể bị động. <b>Grammar</b>: <i>-ive</i> thường là tính từ.",
+   "example": {
+    "en": "In language, the <b>passive</b> is when the receiver of an action becomes the subject, e.g. The bank was robbed.",
+    "vi": "‘Ngân hàng bị cướp’ ở <b>thể bị động</b>."
+   }
+  },
+  {
+   "word": "brutal",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈbruːtl/",
+   "def_en": "Violent and cruel.",
+   "def_vi": "Bạo lực và tàn nhẫn.",
+   "gloss_vi": "tàn bạo",
+   "synonyms": "cruel <i>(adj. độc ác)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Brutal</i> (adjective) = tàn bạo. <b>Grammar</b>: <i>-al</i> tính từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>brutal</b> attack",
+    "vi": "Một cuộc tấn công <b>tàn bạo</b>."
+   }
+  },
+  {
+   "word": "legal",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈliːɡl/",
+   "def_en": "Related to or following the law.",
+   "def_vi": "Liên quan hoặc tuân theo luật.",
+   "gloss_vi": "hợp pháp, pháp lý",
+   "synonyms": "lawful <i>(adj. hợp pháp)</i>",
+   "antonyms": "illegal <i>(adj. bất hợp pháp)</i>",
+   "grammar_vi": "<i>Legal</i> (adjective) = hợp pháp, pháp lý. <b>Grammar</b>: <i>-al</i> tính từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "Is that <b>legal</b>?",
+    "vi": "Điều đó có <b>hợp pháp</b> không?"
+   }
+  },
+  {
+   "word": "refusal",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˈfjuːzl/",
+   "def_en": "The act of refusing.",
+   "def_vi": "Sự từ chối.",
+   "gloss_vi": "sự từ chối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "acceptance <i>(n. sự chấp nhận)</i>",
+   "grammar_vi": "<i>Refusal</i> (noun) = sự từ chối. <b>Grammar</b>: <i>-al</i> cũng tạo danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "Her <b>refusal</b> surprised me.",
+    "vi": "Sự <b>từ chối</b> của cô ấy làm tôi bất ngờ."
+   }
+  },
+  {
+   "word": "outrageous",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/aʊtˈreɪdʒəs/",
+   "def_en": "Shocking and morally unacceptable.",
+   "def_vi": "Gây sốc, không chấp nhận được về đạo đức.",
+   "gloss_vi": "thái quá, quá quắt",
+   "synonyms": "shocking <i>(adj. gây sốc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Outrageous</i> (adjective) = thái quá, quá quắt. <b>Grammar</b>: <i>-ous</i> tính từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "The prices are <b>outrageous</b>.",
+    "vi": "Giá cả thật <b>quá quắt</b>."
+   }
+  },
+  {
+   "word": "harmless",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈhɑːmləs/",
+   "def_en": "Not able to hurt or damage anyone or anything.",
+   "def_vi": "Không thể gây hại.",
+   "gloss_vi": "vô hại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "harmful <i>(adj. có hại)</i>",
+   "grammar_vi": "<i>Harmless</i> (adjective) = vô hại. <b>Grammar</b>: <i>-less</i> = không có.",
+   "ex_kit": true,
+   "example": {
+    "en": "This spider is <b>harmless</b>.",
+    "vi": "Con nhện này <b>vô hại</b>."
+   }
+  },
+  {
+   "word": "homeless",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈhəʊmləs/",
+   "def_en": "Having no home.",
+   "def_vi": "Không có nhà.",
+   "gloss_vi": "vô gia cư",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Homeless</i> (adjective) = vô gia cư. <b>Grammar</b>: <i>the homeless</i> = người vô gia cư.",
+   "ex_kit": true,
+   "example": {
+    "en": "More and more people are <b>homeless</b>.",
+    "vi": "Ngày càng nhiều người <b>vô gia cư</b>."
+   }
+  },
+  {
+   "word": "beautify",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈbjuːtɪfaɪ/",
+   "def_en": "To make beautiful.",
+   "def_vi": "Làm cho đẹp.",
+   "gloss_vi": "làm đẹp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Beautify</i> (verb) = làm đẹp. <b>Grammar</b>: <i>-ify</i> tạo động từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "They planted trees to <b>beautify</b> the city.",
+    "vi": "Họ trồng cây để <b>làm đẹp</b> thành phố."
+   }
+  },
+  {
+   "word": "purify",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈpjʊərɪfaɪ/",
+   "def_en": "To make pure.",
+   "def_vi": "Làm cho tinh khiết.",
+   "gloss_vi": "lọc sạch",
+   "synonyms": "clean <i>(v. làm sạch)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Purify</i> (verb) = lọc sạch. <b>Grammar</b>: <i>pure</i> + <i>-ify</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "This machine <b>purifies</b> water.",
+    "vi": "Máy này <b>lọc</b> nước."
+   }
+  },
+  {
+   "word": "terrify",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈterɪfaɪ/",
+   "def_en": "To cause someone to be extremely afraid.",
+   "def_vi": "Khiến ai cực kỳ sợ hãi.",
+   "gloss_vi": "làm khiếp sợ",
+   "synonyms": "frighten <i>(v. làm sợ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Terrify</i> (verb) = làm khiếp sợ. <b>Grammar</b>: <i>terror</i> (n.); <i>terrified</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "Big dogs <b>terrify</b> her.",
+    "vi": "Chó lớn <b>làm cô ấy khiếp sợ</b>."
+   }
+  },
+  {
+   "word": "thirtyish",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈθɜːtiɪʃ/",
+   "def_en": "About thirty years old (informal).",
+   "def_vi": "Khoảng ba mươi tuổi (thân mật).",
+   "gloss_vi": "khoảng ba mươi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Thirtyish</i> (adjective) = khoảng ba mươi. <b>Grammar</b>: hậu tố thân mật <i>-ish</i> làm từ bớt chính xác: <i>reddish, eightish</i>.",
+   "example": {
+    "en": "She’s <b>thirtyish</b>.",
+    "vi": "Cô ấy <b>khoảng ba mươi tuổi</b>."
+   }
+  }
+ ]
+}
