@@ -1,0 +1,361 @@
+{
+ "book": "upp",
+ "unit": 28,
+ "title_vi": "Sức khỏe và y tế",
+ "theory_html": "<p><b>A. What are your symptoms?</b><br><i>A. Triệu chứng của bạn là gì?</i></p> <p><b>I’ve got…</b> a sore throat, a temperature, high/low blood pressure, chest pains, backache, earache, a rash, a bruise, a black eye, a lump, indigestion, sickness and diarrhoea, sunburn, a virus. Verbs: <b>aching, itching, trembling, shivering, hurts, get over (recover from)</b>. Adjectives: <b>sick, breathless, dizzy; depressed, exhausted, stressed</b>. Expressions: <b>lose your appetite/voice; pick up a bug; break your wrist, sprain your ankle, dislocate your shoulder; die of a heart attack; contract AIDS; suffer a stroke</b>.</p><p><i><b>huyết áp, phát ban, mắt thâm tím, cục u, khó tiêu, tiêu chảy; ngứa, run, rùng mình; khó thở, chóng mặt; mất khẩu vị, nhiễm bệnh, bong gân, trật khớp, đột quỵ</b>.</i></p> <p><b>B. What does the doctor prescribe?</b><br><i>B. Bác sĩ kê gì?</i></p> <p><b>a teaspoonful of medicine, a bandage, injections, an operation, plaster, tablets</b>. <b>operate on</b> a patient.</p><p><i><b>một thìa, băng, tiêm, phẫu thuật, bó bột, viên thuốc</b>.</i></p>",
+ "items": [
+  {
+   "word": "rash",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ræʃ/",
+   "def_en": "An area of red spots on the skin.",
+   "def_vi": "Vùng chấm đỏ trên da.",
+   "gloss_vi": "phát ban",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rash</i> (noun) = phát ban. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "I’ve got a <b>rash</b> on my chest.",
+    "vi": "Tôi bị <b>phát ban</b> ở ngực."
+   }
+  },
+  {
+   "word": "lump",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/lʌmp/",
+   "def_en": "A hard swelling under the skin.",
+   "def_vi": "Chỗ sưng cứng dưới da.",
+   "gloss_vi": "cục u",
+   "synonyms": "swelling <i>(n. chỗ sưng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lump</i> (noun) = cục u. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "I’ve got a <b>lump</b> on my arm.",
+    "vi": "Tôi có một <b>cục u</b> trên cánh tay."
+   }
+  },
+  {
+   "word": "black eye",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌblæk ˈaɪ/",
+   "def_en": "A dark area around the eye after being hit.",
+   "def_vi": "Vùng thâm quanh mắt sau khi bị đánh.",
+   "gloss_vi": "mắt thâm tím",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Black eye</i> (noun phrase) = mắt thâm tím. <b>Grammar</b>: <i>give sb a black eye</i>.",
+   "example": {
+    "en": "I’ve got a <b>black eye</b> (e.g. after being hit in the eye).",
+    "vi": "Tôi bị <b>thâm mắt</b> sau khi bị đánh vào mắt."
+   }
+  },
+  {
+   "word": "blood pressure",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈblʌd ˌpreʃə(r)/",
+   "def_en": "The force with which blood moves through your body.",
+   "def_vi": "Áp lực máu chảy trong cơ thể.",
+   "gloss_vi": "huyết áp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Blood pressure</i> (noun phrase) = huyết áp. <b>Grammar</b>: <i>high/low blood pressure</i>.",
+   "example": {
+    "en": "I’ve got high <b>blood pressure</b>.",
+    "vi": "Tôi bị <b>huyết áp</b> cao."
+   }
+  },
+  {
+   "word": "indigestion",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɪndɪˈdʒestʃən/",
+   "def_en": "Pain in your stomach after eating too fast.",
+   "def_vi": "Đau dạ dày sau khi ăn quá nhanh.",
+   "gloss_vi": "chứng khó tiêu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Indigestion</i> (noun) = chứng khó tiêu. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "I’ve got <b>indigestion</b> (after eating too fast).",
+    "vi": "Tôi bị <b>khó tiêu</b> sau khi ăn quá nhanh."
+   }
+  },
+  {
+   "word": "diarrhoea",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdaɪəˈrɪə/",
+   "def_en": "An illness that makes you need to go to the toilet frequently.",
+   "def_vi": "Bệnh khiến phải đi vệ sinh nhiều lần.",
+   "gloss_vi": "tiêu chảy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Diarrhoea</i> (noun) = tiêu chảy. <b>Grammar</b>: Mỹ <i>diarrhea</i>.",
+   "example": {
+    "en": "I’ve got sickness and <b>diarrhoea</b>.",
+    "vi": "Tôi bị nôn mửa và <b>tiêu chảy</b>."
+   }
+  },
+  {
+   "word": "itch",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪtʃ/",
+   "def_en": "To feel that you want to scratch your skin.",
+   "def_vi": "Cảm thấy muốn gãi.",
+   "gloss_vi": "ngứa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Itch</i> (verb) = ngứa. <b>Grammar</b>: <i>itchy</i> (adj.).",
+   "example": {
+    "en": "My leg is <b>itching</b> – I think I’ve been bitten by an insect.",
+    "vi": "Chân tôi <b>ngứa</b> – chắc bị côn trùng cắn."
+   }
+  },
+  {
+   "word": "tremble",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈtrembl/",
+   "def_en": "To shake slightly.",
+   "def_vi": "Run nhẹ.",
+   "gloss_vi": "run rẩy",
+   "synonyms": "shake <i>(v. run)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tremble</i> (verb) = run rẩy. <b>Grammar</b>: vì sợ, sốc, yếu.",
+   "example": {
+    "en": "My hands are <b>trembling</b> after the shock of falling down.",
+    "vi": "Tay tôi <b>run</b> sau cú sốc vì ngã."
+   }
+  },
+  {
+   "word": "shiver",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈʃɪvə(r)/",
+   "def_en": "To shake because you are cold.",
+   "def_vi": "Run vì lạnh.",
+   "gloss_vi": "rùng mình, run cầm cập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shiver</i> (verb) = rùng mình, run cầm cập. <b>Grammar</b>: vì lạnh hay sốt.",
+   "example": {
+    "en": "I had a headache and started <b>shivering</b>. I knew it was the flu.",
+    "vi": "Tôi đau đầu và bắt đầu <b>run</b>. Tôi biết mình bị cúm."
+   }
+  },
+  {
+   "word": "get over",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌɡet ˈəʊvə(r)/",
+   "def_en": "To get better after an illness.",
+   "def_vi": "Khỏi bệnh.",
+   "gloss_vi": "khỏi (bệnh)",
+   "synonyms": "recover from <i>(pv. hồi phục)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get over</i> (phrasal verb) = khỏi (bệnh). <b>Grammar</b>: không tách: <i>get over it</i>.",
+   "example": {
+    "en": "I had a cold and it took me two weeks to <b>get over</b> it.",
+    "vi": "Tôi bị cảm và mất hai tuần mới <b>khỏi</b>."
+   }
+  },
+  {
+   "word": "breathless",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈbreθləs/",
+   "def_en": "Having difficulty breathing.",
+   "def_vi": "Khó thở.",
+   "gloss_vi": "khó thở, hụt hơi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Breathless</i> (adjective) = khó thở, hụt hơi. <b>Grammar</b>: <i>breath</i> + <i>-less</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I feel <b>breathless</b> after climbing the stairs.",
+    "vi": "Tôi thấy <b>hụt hơi</b> sau khi leo cầu thang."
+   }
+  },
+  {
+   "word": "dizzy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈdɪzi/",
+   "def_en": "Feeling that your head is spinning.",
+   "def_vi": "Cảm giác đầu quay cuồng.",
+   "gloss_vi": "chóng mặt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dizzy</i> (adjective) = chóng mặt. <b>Grammar</b>: <i>feel dizzy</i>.",
+   "example": {
+    "en": "I feel <b>dizzy</b>.",
+    "vi": "Tôi thấy <b>chóng mặt</b>."
+   }
+  },
+  {
+   "word": "lose your appetite",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌluːz jər ˈæpɪtaɪt/",
+   "def_en": "To stop wanting to eat.",
+   "def_vi": "Không muốn ăn nữa.",
+   "gloss_vi": "mất khẩu vị",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lose your appetite</i> (verb phrase) = mất khẩu vị. <b>Grammar</b>: <i>lose your voice</i> = mất giọng.",
+   "example": {
+    "en": "I’ve <b>lost my appetite</b>.",
+    "vi": "Tôi <b>mất khẩu vị</b> rồi."
+   }
+  },
+  {
+   "word": "pick up a bug",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌpɪk ʌp ə ˈbʌɡ/",
+   "def_en": "To catch a virus or infection (informal).",
+   "def_vi": "Bị nhiễm virus hay bệnh (thân mật).",
+   "gloss_vi": "bị nhiễm bệnh",
+   "synonyms": "catch a virus <i>(vp. nhiễm virus)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pick up a bug</i> (verb phrase) = bị nhiễm bệnh. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "I think I’ve <b>picked up a bug</b> somewhere.",
+    "vi": "Tôi nghĩ mình <b>bị nhiễm bệnh</b> ở đâu đó."
+   }
+  },
+  {
+   "word": "sprain",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/spreɪn/",
+   "def_en": "To injure a joint by twisting it.",
+   "def_vi": "Làm đau khớp do vặn.",
+   "gloss_vi": "bong gân",
+   "synonyms": "twist <i>(v. trẹo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sprain</i> (verb) = bong gân. <b>Grammar</b>: <i>sprain your ankle/wrist</i>.",
+   "example": {
+    "en": "I’ve <b>sprained</b> my ankle.",
+    "vi": "Tôi bị <b>bong gân</b> mắt cá."
+   }
+  },
+  {
+   "word": "dislocate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈdɪsləkeɪt/",
+   "def_en": "To move a bone out of its normal position.",
+   "def_vi": "Làm xương lệch khỏi vị trí.",
+   "gloss_vi": "trật khớp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dislocate</i> (verb) = trật khớp. <b>Grammar</b>: <i>dislocated shoulder</i>.",
+   "example": {
+    "en": "I’ve <b>dislocated</b> my shoulder.",
+    "vi": "Tôi bị <b>trật khớp</b> vai."
+   }
+  },
+  {
+   "word": "contract",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kənˈtrækt/",
+   "def_en": "To catch a serious disease (formal).",
+   "def_vi": "Mắc bệnh nặng (trang trọng).",
+   "gloss_vi": "mắc (bệnh)",
+   "synonyms": "catch <i>(v. mắc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Contract</i> (verb) = mắc (bệnh). <b>Grammar</b>: động từ /kənˈtrækt/; danh từ /ˈkɒntrækt/ = hợp đồng.",
+   "example": {
+    "en": "He <b>contracted</b> AIDS.",
+    "vi": "Anh ấy <b>mắc</b> bệnh AIDS."
+   }
+  },
+  {
+   "word": "suffer a stroke",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌsʌfər ə ˈstrəʊk/",
+   "def_en": "To have a sudden change in the blood supply to the brain.",
+   "def_vi": "Bị thay đổi đột ngột lượng máu lên não.",
+   "gloss_vi": "bị đột quỵ",
+   "synonyms": "have a stroke <i>(vp. bị đột quỵ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Suffer a stroke</i> (verb phrase) = bị đột quỵ. <b>Grammar</b>: <i>stroke</i> (n.).",
+   "example": {
+    "en": "My uncle <b>suffered a stroke</b>.",
+    "vi": "Chú tôi <b>bị đột quỵ</b>."
+   }
+  },
+  {
+   "word": "teaspoonful",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtiːspuːnfʊl/",
+   "def_en": "The amount a teaspoon holds.",
+   "def_vi": "Lượng một thìa cà phê.",
+   "gloss_vi": "một thìa cà phê",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Teaspoonful</i> (noun) = một thìa cà phê. <b>Grammar</b>: số nhiều <i>teaspoonfuls</i>.",
+   "example": {
+    "en": "Take a <b>teaspoonful</b> of medicine last thing at night.",
+    "vi": "Uống <b>một thìa</b> thuốc trước khi đi ngủ."
+   }
+  },
+  {
+   "word": "injection",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˈdʒekʃn/",
+   "def_en": "Putting medicine into the body with a needle.",
+   "def_vi": "Đưa thuốc vào người bằng kim tiêm.",
+   "gloss_vi": "mũi tiêm",
+   "synonyms": "jab <i>(n. mũi tiêm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Injection</i> (noun) = mũi tiêm. <b>Grammar</b>: <i>have an injection</i>.",
+   "example": {
+    "en": "You’ll need to have some <b>injections</b> before you go to the Amazon.",
+    "vi": "Bạn cần tiêm vài <b>mũi</b> trước khi đến vùng Amazon."
+   }
+  },
+  {
+   "word": "plaster",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈplɑːstə(r)/",
+   "def_en": "A hard covering put on a broken leg or arm.",
+   "def_vi": "Lớp cứng bó chân tay bị gãy.",
+   "gloss_vi": "bột (bó xương)",
+   "synonyms": "cast <i>(n. bó bột)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Plaster</i> (noun) = bột (bó xương). <b>Grammar</b>: <i>in plaster</i>. <b>Common mistakes</b>: cũng = băng dán cá nhân.",
+   "example": {
+    "en": "You’ll have to have your leg put in <b>plaster</b> until the break mends.",
+    "vi": "Bạn sẽ phải <b>bó bột</b> chân đến khi xương lành."
+   }
+  },
+  {
+   "word": "operate on",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˈɒpəreɪt ɒn/",
+   "def_en": "To cut open a patient’s body to treat them.",
+   "def_vi": "Mổ cơ thể người bệnh để chữa.",
+   "gloss_vi": "phẫu thuật cho",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Operate on</i> (phrasal verb) = phẫu thuật cho. <b>Grammar</b>: <i>operate on sb</i> (không <i>operate sb</i>).",
+   "example": {
+    "en": "They decided to <b>operate on</b> her and remove the tumour.",
+    "vi": "Họ quyết định <b>phẫu thuật cho</b> cô ấy và cắt bỏ khối u."
+   }
+  }
+ ]
+}

@@ -1,0 +1,463 @@
+{
+ "book": "upp",
+ "unit": 26,
+ "title_vi": "Thế giới tự nhiên",
+ "theory_html": "<p><b>A. Birds and animals</b><br><i>A. Chim và động vật</i></p> <p><b>horns, mane, beak, whiskers, wing, tail, fur, eggs, nest, hoof, feather, claws, paw</b>.</p><p><i><b>sừng, bờm, mỏ, ria, cánh, đuôi, lông thú, trứng, tổ, móng guốc, lông vũ, vuốt, bàn chân (thú)</b>.</i></p> <p><b>B. Flowers and trees</b><br><i>B. Hoa và cây</i></p> <p><b>leaves, petals, pollen, branch, bud, bough, thorn, bark, twig, trunk, stem, roots</b>.</p><p><i><b>lá, cánh hoa, phấn hoa, cành, nụ, cành lớn, gai, vỏ cây, cành con, thân, cuống, rễ</b>.</i></p> <p><b>C. Specific animals</b><br><i>C. Một số con vật</i></p> <p><b>frog, whale, shark, bat, worm, deer, owl, fox, snail, crab, pigeon, peacock, seal</b>.</p><p><i><b>ếch, cá voi, cá mập, dơi, giun, hươu, cú, cáo, ốc sên, cua, bồ câu, công, hải cẩu</b>.</i></p> <p><b>D. Processes in nature</b><br><i>D. Quá trình trong tự nhiên</i></p> <p><b>flower / blossom; pick flowers</b> (NOT <b>pick up</b>); <b>lay eggs; collect pollen; grow; breed</b>.</p><p><i><b>ra hoa, hái hoa, đẻ trứng, lấy phấn, mọc/trồng, sinh sản/nhân giống</b>.</i></p>",
+ "items": [
+  {
+   "word": "horns",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/hɔːnz/",
+   "def_en": "The hard pointed parts on the head of some animals.",
+   "def_vi": "Phần cứng nhọn trên đầu một số con vật.",
+   "gloss_vi": "sừng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Horns</i> (plural noun) = sừng. <b>Grammar</b>: số ít <i>horn</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The bull has long <b>horns</b>.",
+    "vi": "Con bò đực có cặp <b>sừng</b> dài."
+   }
+  },
+  {
+   "word": "mane",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/meɪn/",
+   "def_en": "The long hair on the neck of a horse or lion.",
+   "def_vi": "Lông dài trên cổ ngựa hay sư tử.",
+   "gloss_vi": "bờm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mane</i> (noun) = bờm. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The male lion has a thick <b>mane</b>.",
+    "vi": "Sư tử đực có <b>bờm</b> dày."
+   }
+  },
+  {
+   "word": "beak",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/biːk/",
+   "def_en": "The hard pointed mouth of a bird.",
+   "def_vi": "Miệng cứng nhọn của chim.",
+   "gloss_vi": "mỏ chim",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Beak</i> (noun) = mỏ chim. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The bird had a worm in its <b>beak</b>.",
+    "vi": "Con chim mang một con sâu trong <b>mỏ</b>."
+   }
+  },
+  {
+   "word": "whiskers",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈwɪskəz/",
+   "def_en": "Long stiff hairs near the mouth of a cat or other animal.",
+   "def_vi": "Lông dài cứng gần miệng mèo hay thú khác.",
+   "gloss_vi": "ria (mèo)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Whiskers</i> (plural noun) = ria (mèo). <b>Grammar</b>: số nhiều.",
+   "ex_kit": true,
+   "example": {
+    "en": "The cat has long white <b>whiskers</b>.",
+    "vi": "Con mèo có <b>ria</b> dài màu trắng."
+   }
+  },
+  {
+   "word": "hoof",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/huːf/",
+   "def_en": "The hard part of the foot of a horse or cow.",
+   "def_vi": "Phần cứng ở chân ngựa hay bò.",
+   "gloss_vi": "móng guốc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hoof</i> (noun) = móng guốc. <b>Grammar</b>: số nhiều <i>hooves/hoofs</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The horse has hurt one of its <b>hooves</b>.",
+    "vi": "Con ngựa bị đau một <b>móng</b>."
+   }
+  },
+  {
+   "word": "feather",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfeðə(r)/",
+   "def_en": "One of the soft light parts covering a bird’s body.",
+   "def_vi": "Phần mềm nhẹ phủ thân chim.",
+   "gloss_vi": "lông vũ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Feather</i> (noun) = lông vũ. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The peacock has beautiful <b>feathers</b>.",
+    "vi": "Con công có <b>lông</b> đẹp tuyệt."
+   }
+  },
+  {
+   "word": "claws",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/klɔːz/",
+   "def_en": "Sharp curved nails on the feet of animals or birds.",
+   "def_vi": "Móng cong nhọn ở chân thú hay chim.",
+   "gloss_vi": "móng vuốt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Claws</i> (plural noun) = móng vuốt. <b>Grammar</b>: số ít <i>claw</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Cats have sharp <b>claws</b>.",
+    "vi": "Mèo có <b>móng vuốt</b> sắc."
+   }
+  },
+  {
+   "word": "paw",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pɔː/",
+   "def_en": "The foot of an animal such as a dog or cat.",
+   "def_vi": "Bàn chân thú như chó, mèo.",
+   "gloss_vi": "bàn chân (thú)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Paw</i> (noun) = bàn chân (thú). <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The dog gave me its <b>paw</b>.",
+    "vi": "Con chó đưa <b>chân</b> cho tôi."
+   }
+  },
+  {
+   "word": "petal",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpetl/",
+   "def_en": "One of the coloured parts of a flower.",
+   "def_vi": "Một phần có màu của bông hoa.",
+   "gloss_vi": "cánh hoa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Petal</i> (noun) = cánh hoa. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The rose has soft red <b>petals</b>.",
+    "vi": "Hoa hồng có <b>cánh hoa</b> mềm màu đỏ."
+   }
+  },
+  {
+   "word": "pollen",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɒlən/",
+   "def_en": "Powder produced by flowers.",
+   "def_vi": "Bột do hoa tạo ra.",
+   "gloss_vi": "phấn hoa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pollen</i> (noun) = phấn hoa. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "Bees collect <b>pollen</b> from flowers to make honey.",
+    "vi": "Ong lấy <b>phấn hoa</b> từ hoa để làm mật."
+   }
+  },
+  {
+   "word": "bud",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bʌd/",
+   "def_en": "A part of a plant that will become a flower or leaf.",
+   "def_vi": "Phần cây sẽ thành hoa hay lá.",
+   "gloss_vi": "nụ, chồi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bud</i> (noun) = nụ, chồi. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The tree is covered in <b>buds</b> in spring.",
+    "vi": "Cây đầy <b>nụ</b> vào mùa xuân."
+   }
+  },
+  {
+   "word": "bough",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/baʊ/",
+   "def_en": "A large branch of a tree.",
+   "def_vi": "Cành cây lớn.",
+   "gloss_vi": "cành lớn",
+   "synonyms": "branch <i>(n. cành)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bough</i> (noun) = cành lớn. <b>Grammar</b>: /baʊ/.",
+   "ex_kit": true,
+   "example": {
+    "en": "A large <b>bough</b> broke off in the storm.",
+    "vi": "Một <b>cành lớn</b> gãy trong cơn bão."
+   }
+  },
+  {
+   "word": "thorn",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/θɔːn/",
+   "def_en": "A sharp point on a plant.",
+   "def_vi": "Mũi nhọn trên cây.",
+   "gloss_vi": "gai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Thorn</i> (noun) = gai. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "Be careful – roses have <b>thorns</b>.",
+    "vi": "Cẩn thận – hoa hồng có <b>gai</b>."
+   }
+  },
+  {
+   "word": "bark",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bɑːk/",
+   "def_en": "The hard outer covering of a tree.",
+   "def_vi": "Lớp vỏ cứng bên ngoài cây.",
+   "gloss_vi": "vỏ cây",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bark</i> (noun) = vỏ cây. <b>Grammar</b>: không đếm được. <b>Common mistakes</b>: động từ = (chó) sủa.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>bark</b> of the oak tree is very thick.",
+    "vi": "<b>Vỏ cây</b> sồi rất dày."
+   }
+  },
+  {
+   "word": "twig",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/twɪɡ/",
+   "def_en": "A very small thin branch.",
+   "def_vi": "Cành rất nhỏ mảnh.",
+   "gloss_vi": "cành con",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Twig</i> (noun) = cành con. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "Birds build nests from <b>twigs</b>.",
+    "vi": "Chim làm tổ bằng <b>cành con</b>."
+   }
+  },
+  {
+   "word": "stem",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/stem/",
+   "def_en": "The long thin part of a plant that holds the flower.",
+   "def_vi": "Phần dài mảnh của cây đỡ bông hoa.",
+   "gloss_vi": "cuống, thân (hoa)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stem</i> (noun) = cuống, thân (hoa). <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "Cut the <b>stems</b> before you put the flowers in a vase.",
+    "vi": "Cắt <b>cuống</b> hoa trước khi cắm vào bình."
+   }
+  },
+  {
+   "word": "worm",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/wɜːm/",
+   "def_en": "A long thin creature with no legs that lives in soil.",
+   "def_vi": "Sinh vật dài mảnh không chân sống trong đất.",
+   "gloss_vi": "con giun",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Worm</i> (noun) = con giun. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The bird caught a <b>worm</b>.",
+    "vi": "Con chim bắt một con <b>giun</b>."
+   }
+  },
+  {
+   "word": "deer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪə(r)/",
+   "def_en": "A large animal; males have horns like branches.",
+   "def_vi": "Con vật lớn, con đực có sừng như cành cây.",
+   "gloss_vi": "con hươu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Deer</i> (noun) = con hươu. <b>Grammar</b>: số ít và số nhiều giống nhau.",
+   "ex_kit": true,
+   "example": {
+    "en": "We saw some <b>deer</b> in the forest.",
+    "vi": "Chúng tôi thấy một đàn <b>hươu</b> trong rừng."
+   }
+  },
+  {
+   "word": "owl",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/aʊl/",
+   "def_en": "A bird that hunts at night.",
+   "def_vi": "Loài chim săn mồi ban đêm.",
+   "gloss_vi": "con cú",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Owl</i> (noun) = con cú. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "We heard an <b>owl</b> in the night.",
+    "vi": "Chúng tôi nghe tiếng <b>cú</b> kêu ban đêm."
+   }
+  },
+  {
+   "word": "fox",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/fɒks/",
+   "def_en": "A wild animal like a dog with red-brown fur.",
+   "def_vi": "Thú hoang giống chó, lông nâu đỏ.",
+   "gloss_vi": "con cáo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fox</i> (noun) = con cáo. <b>Grammar</b>: số nhiều <i>foxes</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "A <b>fox</b> killed our chickens.",
+    "vi": "Một con <b>cáo</b> đã giết gà của chúng tôi."
+   }
+  },
+  {
+   "word": "snail",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/sneɪl/",
+   "def_en": "A small soft creature with a shell on its back.",
+   "def_vi": "Sinh vật mềm nhỏ có vỏ trên lưng.",
+   "gloss_vi": "ốc sên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Snail</i> (noun) = ốc sên. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>snails</b> ate the lettuces in the garden.",
+    "vi": "<b>Ốc sên</b> ăn rau diếp trong vườn."
+   }
+  },
+  {
+   "word": "pigeon",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɪdʒɪn/",
+   "def_en": "A grey bird common in towns.",
+   "def_vi": "Loài chim xám phổ biến ở thành phố.",
+   "gloss_vi": "chim bồ câu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pigeon</i> (noun) = chim bồ câu. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "There are lots of <b>pigeons</b> in the square.",
+    "vi": "Có rất nhiều <b>bồ câu</b> ở quảng trường."
+   }
+  },
+  {
+   "word": "peacock",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpiːkɒk/",
+   "def_en": "A large bird with long colourful tail feathers.",
+   "def_vi": "Chim lớn có đuôi dài sặc sỡ.",
+   "gloss_vi": "con công",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Peacock</i> (noun) = con công. <b>Grammar</b>: con mái <i>peahen</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>peacock</b> spread its tail.",
+    "vi": "<b>Con công</b> xòe đuôi."
+   }
+  },
+  {
+   "word": "seal",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/siːl/",
+   "def_en": "A sea animal with smooth fur that eats fish.",
+   "def_vi": "Động vật biển lông mượt ăn cá.",
+   "gloss_vi": "hải cẩu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Seal</i> (noun) = hải cẩu. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "We saw <b>seals</b> lying on the rocks.",
+    "vi": "Chúng tôi thấy <b>hải cẩu</b> nằm trên đá."
+   }
+  },
+  {
+   "word": "blossom",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈblɒsəm/",
+   "def_en": "(Of a tree) to produce flowers.",
+   "def_vi": "(Cây) ra hoa.",
+   "gloss_vi": "trổ hoa",
+   "synonyms": "flower <i>(v. ra hoa)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Blossom</i> (verb) = trổ hoa. <b>Grammar</b>: cũng là danh từ <i>blossom</i>.",
+   "example": {
+    "en": "Our apple tree flowers / <b>blossoms</b> in April.",
+    "vi": "Cây táo của chúng tôi <b>ra hoa</b> vào tháng Tư."
+   }
+  },
+  {
+   "word": "lay eggs",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌleɪ ˈeɡz/",
+   "def_en": "(Of a bird) to produce eggs.",
+   "def_vi": "(Chim) đẻ trứng.",
+   "gloss_vi": "đẻ trứng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lay eggs</i> (verb phrase) = đẻ trứng. <b>Grammar</b>: <i>lay – laid – laid</i>.",
+   "example": {
+    "en": "These birds <b>lay</b> their <b>eggs</b> on the ground.",
+    "vi": "Những con chim này <b>đẻ trứng</b> trên mặt đất."
+   }
+  },
+  {
+   "word": "breed",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/briːd/",
+   "def_en": "To produce young animals; to keep animals to produce young.",
+   "def_vi": "Sinh con; nuôi để nhân giống.",
+   "gloss_vi": "sinh sản, nhân giống",
+   "synonyms": "reproduce <i>(v. sinh sản)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Breed</i> (verb) = sinh sản, nhân giống. <b>Grammar</b>: <i>breed – bred – bred</i>; nội/ngoại động từ.",
+   "example": {
+    "en": "These animals <b>breed</b> in the spring.",
+    "vi": "Những con vật này <b>sinh sản</b> vào mùa xuân."
+   }
+  }
+ ]
+}
