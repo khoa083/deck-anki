@@ -1,0 +1,280 @@
+{
+ "book": "gva",
+ "unit": 17,
+ "title_vi": "Liên từ và từ nối",
+ "theory_html": "<p><b>2.1. Sentence connectors and conjunctions: general</b><br><i>2.1. Từ nối câu và liên từ: tổng quát</i></p> <p>Use only one conjunction to link two clauses; usually a comma between clauses (not before <b>because</b> or time <b>while</b> in second clause). Sentence connectors usually begin a sentence, followed by a comma; <b>too</b> and <b>as well</b> can't begin a sentence; connectors can link clauses joined by <b>and, but, or, so</b>, a semi-colon, colon or dash.</p><p><i>Chỉ dùng một liên từ; từ nối câu thường đứng đầu câu + dấu phẩy; <b>too, as well</b> không đứng đầu câu.</i></p> <p><b>2.2. Conjunctions: before, until</b><br><i>2.2. Liên từ before, until</i></p> <p><b>before / until</b> can be similar; <b>until</b> (not <b>before</b>) when an action continues to a particular time and then stops.</p><p><i><b>until</b> khi hành động kéo dài đến một thời điểm rồi dừng.</i></p> <p><b>2.3. Conjunctions: hardly, no sooner, scarcely</b><br><i>2.3. hardly, no sooner, scarcely</i></p> <p>After <b>hardly / scarcely</b> the second clause begins with <b>when / before</b>; after <b>no sooner</b> with <b>than / when</b>; often past perfect + past simple.</p><p><i><b>hardly … when/before</b>; <b>no sooner … than/when</b>; quá khứ hoàn thành + quá khứ đơn.</i></p> <p><b>2.4. first(ly), at first; last(ly), at last</b><br><i>2.4. first(ly), at first; last(ly), at last</i></p> <p><b>first(ly) / last(ly)</b> label points in a list; <b>at first</b> = contrast between two past situations; <b>at last</b> = later than hoped; not <b>at last</b> for the last point.</p><p><i><b>firstly/lastly</b> đánh dấu ý; <b>at first</b> = lúc đầu; <b>at last</b> = cuối cùng thì (muộn hơn mong đợi).</i></p> <p><b>2.5. However</b><br><i>2.5. However</i></p> <p>Sentence connector; adverb before adjective/adverb/<b>much/many</b> (= despite how); conjunction meaning 'in whatever way'.</p><p><i><b>however</b> + tính từ/trạng từ = dù… đến đâu; = bằng bất cứ cách nào.</i></p> <p><b>2.6. Even so, even though</b><br><i>2.6. Even so, even though</i></p> <p><b>Even so</b> (connector) introduces a fact surprising given what was just said; <b>even though</b> (conjunction) = a fact doesn't make the rest untrue.</p><p><i><b>even so</b> = dù vậy; <b>even though</b> = mặc dù.</i></p> <p><b>2.7. On the other hand, on the contrary</b><br><i>2.7. On the other hand, on the contrary</i></p> <p><b>On the (one hand) … on the other hand</b> compares/contrasts two statements; <b>on the contrary</b> rejects the first statement and accepts the second.</p><p><i><b>on the other hand</b> = mặt khác; <b>on the contrary</b> = ngược lại (bác bỏ ý trước).</i></p> <p><b>2.8. Prepositions confused with conjunctions</b><br><i>2.8. Giới từ dễ nhầm với liên từ</i></p> <p><b>as well as, apart from, besides, despite, in spite of, due to, during</b> are prepositions (+ noun / -ing), not conjunctions or connectors.</p><p><i>Là giới từ: theo sau là danh từ / V-ing, không phải mệnh đề.</i></p>",
+ "items": [
+  {
+   "word": "sentence connector",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈsentəns kəˈnektə(r)/",
+   "def_en": "A word or phrase linking ideas across sentences, usually at the start of a sentence followed by a comma.",
+   "def_vi": "Từ/cụm nối ý giữa các câu, thường đầu câu kèm dấu phẩy.",
+   "gloss_vi": "từ nối câu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sentence connector</i> (structure) = từ nối câu. <b>Grammar</b>: <i>too, as well</i> không đứng đầu câu.",
+   "example": {
+    "en": "My mum thought I was ready to take my driving test. <b>However</b>, I failed first time.",
+    "vi": "Mẹ tôi nghĩ tôi đã sẵn sàng. <b>Tuy nhiên</b>, tôi trượt lần đầu."
+   }
+  },
+  {
+   "word": "as well",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/əz ˈwel/",
+   "def_en": "Also; a connector that cannot come at the beginning of a sentence.",
+   "def_vi": "Cũng; không đứng đầu câu.",
+   "gloss_vi": "cũng",
+   "synonyms": "too <i>(adv. cũng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As well</i> (adverb) = cũng. <b>Grammar</b>: đứng cuối câu.",
+   "example": {
+    "en": "You can spend a lot more time practising <b>as well</b>.",
+    "vi": "Bạn có thể dành nhiều thời gian luyện tập hơn <b>nữa</b>."
+   }
+  },
+  {
+   "word": "until",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/ənˈtɪl/",
+   "def_en": "Up to a particular time when an action stops (not before in this sense).",
+   "def_vi": "Cho đến khi (hành động dừng lại).",
+   "gloss_vi": "cho đến khi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Until</i> (conjunction) = cho đến khi. <b>Grammar</b>: <i>before/until</i> đôi khi như nhau.",
+   "example": {
+    "en": "I just carried on having lessons <b>until</b> my instructor said I was ready to take the driving test",
+    "vi": "Tôi cứ học lái <b>cho đến khi</b> thầy bảo tôi sẵn sàng thi."
+   }
+  },
+  {
+   "word": "hardly ... before",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈhɑːdli bɪˈfɔː(r)/",
+   "def_en": "Used to say one thing happened immediately after another.",
+   "def_vi": "Vừa mới… thì đã.",
+   "gloss_vi": "vừa mới… thì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hardly ... before</i> (structure) = vừa mới… thì. <b>Grammar</b>: <i>hardly/scarcely … when/before</i>; quá khứ hoàn thành + quá khứ đơn.",
+   "example": {
+    "en": "We'd <b>hardly</b> driven out of our road <b>before</b> we were shouting at each other.",
+    "vi": "Chúng tôi <b>vừa</b> ra khỏi đường nhà <b>thì đã</b> cãi nhau."
+   }
+  },
+  {
+   "word": "no sooner ... than",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/nəʊ ˈsuːnə ðæn/",
+   "def_en": "Used to say one thing happened immediately after another.",
+   "def_vi": "Vừa… thì ngay.",
+   "gloss_vi": "vừa… thì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>No sooner ... than</i> (structure) = vừa… thì. <b>Grammar</b>: <i>no sooner … than/when</i>.",
+   "example": {
+    "en": "I'd <b>no sooner</b> passed my test <b>than</b> my friends started asking me for lifts.",
+    "vi": "Tôi <b>vừa</b> thi đỗ <b>thì</b> bạn bè đã nhờ chở."
+   }
+  },
+  {
+   "word": "firstly",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈfɜːstli/",
+   "def_en": "Used to label the first point in a list.",
+   "def_vi": "Dùng đánh dấu ý thứ nhất.",
+   "gloss_vi": "thứ nhất",
+   "synonyms": "first <i>(adv. đầu tiên)</i>",
+   "antonyms": "lastly <i>(adv. cuối cùng)</i>",
+   "grammar_vi": "<i>Firstly</i> (adverb) = thứ nhất. <b>Grammar</b>: <i>first(ly) … finally/lastly</i>.",
+   "example": {
+    "en": "<b>Firstly</b>, cars like the one I learnt in have dual controls.",
+    "vi": "<b>Thứ nhất</b>, những xe như xe tôi học có hai bộ điều khiển."
+   }
+  },
+  {
+   "word": "at first",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ət ˈfɜːst/",
+   "def_en": "Used to show a contrast between an earlier and a later past situation.",
+   "def_vi": "Lúc đầu (đối lập với sau đó).",
+   "gloss_vi": "lúc đầu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>At first</i> (structure) = lúc đầu. <b>Grammar</b>: khác <i>firstly</i> (đánh dấu ý).",
+   "example": {
+    "en": "<b>At first</b> I couldn't get the hang of this at all.",
+    "vi": "<b>Lúc đầu</b> tôi không nắm được cách làm việc này."
+   }
+  },
+  {
+   "word": "at last",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ət ˈlɑːst/",
+   "def_en": "Later than hoped or expected.",
+   "def_vi": "Cuối cùng thì (muộn hơn mong đợi).",
+   "gloss_vi": "cuối cùng thì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>At last</i> (structure) = cuối cùng thì. <b>Grammar</b>: không dùng để đánh dấu ý cuối trong danh sách.",
+   "example": {
+    "en": "I passed my driving test <b>at last</b>, after taking it five times.",
+    "vi": "<b>Cuối cùng</b> tôi cũng thi đỗ sau năm lần."
+   }
+  },
+  {
+   "word": "however",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/haʊˈevə(r)/",
+   "def_en": "Despite how (before an adjective/adverb); or in whatever way.",
+   "def_vi": "Dù… đến mức nào; bằng bất cứ cách nào.",
+   "gloss_vi": "dù… thế nào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>However</i> (adverb) = dù… thế nào. <b>Grammar</b>: cũng là từ nối câu = tuy nhiên.",
+   "example": {
+    "en": "My instructor never got annoyed, <b>however</b> badly I was driving",
+    "vi": "Thầy không bao giờ bực, <b>dù</b> tôi lái tệ <b>đến đâu</b>."
+   }
+  },
+  {
+   "word": "even so",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈiːvn səʊ/",
+   "def_en": "Introduces a fact that is surprising given what has just been said.",
+   "def_vi": "Dù vậy.",
+   "gloss_vi": "dù vậy",
+   "synonyms": "nevertheless <i>(adv. tuy nhiên)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Even so</i> (structure) = dù vậy. <b>Grammar</b>: từ nối câu; khác <i>even though</i> (liên từ).",
+   "example": {
+    "en": "<b>Even so</b>, I always found the replacements very patient and helpful.",
+    "vi": "<b>Dù vậy</b>, tôi luôn thấy người thay thế rất kiên nhẫn."
+   }
+  },
+  {
+   "word": "on the other hand",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ɒn ði ˈʌðə hænd/",
+   "def_en": "Used to compare or contrast two statements.",
+   "def_vi": "Mặt khác.",
+   "gloss_vi": "mặt khác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>On the other hand</i> (structure) = mặt khác. <b>Grammar</b>: có thể mở đầu bằng <i>on the one hand</i>.",
+   "example": {
+    "en": "<b>On the other hand</b>, it's cheaper if your parents teach you.",
+    "vi": "<b>Mặt khác</b>, bố mẹ dạy thì rẻ hơn."
+   }
+  },
+  {
+   "word": "on the contrary",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ɒn ðə ˈkɒntrəri/",
+   "def_en": "Used to reject the first statement and accept the second.",
+   "def_vi": "Ngược lại (bác bỏ ý trước).",
+   "gloss_vi": "ngược lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>On the contrary</i> (structure) = ngược lại. <b>Grammar</b>: khác <i>on the other hand</i> (so sánh).",
+   "example": {
+    "en": "<b>On the contrary</b>, it works out cheaper",
+    "vi": "<b>Ngược lại</b>, học thầy còn rẻ hơn."
+   }
+  },
+  {
+   "word": "as well as",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/əz ˈwel əz/",
+   "def_en": "In addition to; a preposition followed by a noun or -ing.",
+   "def_vi": "Cũng như, ngoài ra (giới từ).",
+   "gloss_vi": "cũng như",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As well as</i> (preposition) = cũng như. <b>Grammar</b>: + V-ing, không + mệnh đề.",
+   "example": {
+    "en": "<b>As well as</b> being calm and patient, he was always very encouraging",
+    "vi": "<b>Ngoài việc</b> bình tĩnh và kiên nhẫn, thầy luôn động viên."
+   }
+  },
+  {
+   "word": "apart from",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/əˈpɑːt frəm/",
+   "def_en": "Except for; a preposition, not a conjunction.",
+   "def_vi": "Ngoại trừ (giới từ).",
+   "gloss_vi": "ngoại trừ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Apart from</i> (preposition) = ngoại trừ. <b>Grammar</b>: + danh từ, không + mệnh đề.",
+   "example": {
+    "en": "<b>Apart from</b> the cost of insurance, I think it's much better to be taught by your parents.",
+    "vi": "<b>Ngoại trừ</b> chi phí bảo hiểm, tôi nghĩ bố mẹ dạy tốt hơn."
+   }
+  },
+  {
+   "word": "besides",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/bɪˈsaɪdz/",
+   "def_en": "In addition to (as a preposition + noun/-ing).",
+   "def_vi": "Ngoài (giới từ).",
+   "gloss_vi": "ngoài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Besides</i> (preposition) = ngoài. <b>Grammar</b>: + V-ing.",
+   "example": {
+    "en": "I think there's a lot of other good things about having your parents teach you, <b>besides</b> saving money.",
+    "vi": "Có nhiều điều tốt khác, <b>ngoài</b> việc tiết kiệm tiền."
+   }
+  },
+  {
+   "word": "due to",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ˈdjuː tə/",
+   "def_en": "Because of; a preposition followed by a noun.",
+   "def_vi": "Do (giới từ).",
+   "gloss_vi": "do, vì",
+   "synonyms": "because of <i>(prep. vì)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Due to</i> (preposition) = do, vì. <b>Grammar</b>: không <i>due to it was raining</i>.",
+   "example": {
+    "en": "The lesson was cancelled <b>due to</b> the heavy rain.",
+    "vi": "Buổi học bị hủy <b>do</b> mưa to."
+   }
+  },
+  {
+   "word": "during",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ˈdjʊərɪŋ/",
+   "def_en": "At some point in a period; a preposition, not a conjunction.",
+   "def_vi": "Trong lúc (giới từ).",
+   "gloss_vi": "trong lúc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>During</i> (preposition) = trong lúc. <b>Grammar</b>: + danh từ; mệnh đề dùng <i>while</i>.",
+   "example": {
+    "en": "We used to stop driving at some point <b>during</b> the lesson",
+    "vi": "Chúng tôi thường dừng lái lúc nào đó <b>trong</b> buổi học."
+   }
+  }
+ ]
+}
