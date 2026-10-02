@@ -1,0 +1,434 @@
+{
+ "book": "adv",
+ "unit": 55,
+ "title_vi": "Các ngành công nghiệp: từ sản xuất đến dịch vụ",
+ "theory_html": "<p><b>A. Industries and industrial practices</b><br><i>A. Các ngành công nghiệp</i></p> <p>Opposites: <b>heavy industry</b> (steel works, shipbuilding) ↔ <b>light industry</b> (car parts, TV sets); <b>manufacturing industry</b> ↔ <b>service industry</b>; <b>high-technology (high-tech)</b> ↔ <b>low-technology (low-tech)</b>; <b>cutting-edge technology</b> ↔ <b>conventional technology</b>; <b>privatisation</b> ↔ <b>nationalisation / state ownership</b>. Also: <b>public-private partnerships, subsidy, inward investment</b>.</p><p><i>Cặp đối lập: <b>công nghiệp nặng</b> ↔ <b>công nghiệp nhẹ</b>; <b>công nghiệp sản xuất</b> ↔ <b>ngành dịch vụ</b>; <b>công nghệ cao</b> ↔ <b>công nghệ thấp</b>; <b>công nghệ tiên tiến</b> ↔ <b>công nghệ thông thường</b>; <b>tư nhân hóa</b> ↔ <b>quốc hữu hóa</b>. Thêm: <b>hợp tác công tư, trợ cấp, đầu tư nước ngoài</b>.</i></p> <p><b>B. Industrial practices</b><br><i>B. Thực tiễn công nghiệp</i></p> <p><b>on piecework, zero hours contracts, child labour, trade union representation, sweatshops, retraining, reskilling</b>; <b>multinationals, cost-cutting exercise, relocate, switch production, components, assemble</b>.</p><p><i><b>trả lương theo sản phẩm, hợp đồng không giờ, lao động trẻ em, đại diện công đoàn, xưởng bóc lột, đào tạo lại, tái trang bị kỹ năng</b>; <b>công ty đa quốc gia, nỗ lực cắt giảm chi phí, chuyển địa điểm, chuyển sản xuất, linh kiện, lắp ráp</b>.</i></p>",
+ "items": [
+  {
+   "word": "heavy industry",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌhevi ˈɪndəstri/",
+   "def_en": "Industry such as steel works or shipbuilding.",
+   "def_vi": "Ngành như luyện thép, đóng tàu.",
+   "gloss_vi": "công nghiệp nặng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "light industry <i>(n. công nghiệp nhẹ)</i>",
+   "grammar_vi": "<i>Heavy industry</i> (noun) = công nghiệp nặng. <b>Collocations / chunks</b>: cụm danh từ cố định <i>heavy industry</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Steel works and shipbuilding are examples of <b>heavy industry</b>.",
+    "vi": "Luyện thép và đóng tàu là <b>công nghiệp nặng</b>."
+   }
+  },
+  {
+   "word": "light industry",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌlaɪt ˈɪndəstri/",
+   "def_en": "Industry such as manufacturing car parts or TV sets.",
+   "def_vi": "Ngành như sản xuất phụ tùng ô tô, TV.",
+   "gloss_vi": "công nghiệp nhẹ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "heavy industry <i>(n. công nghiệp nặng)</i>",
+   "grammar_vi": "<i>Light industry</i> (noun) = công nghiệp nhẹ. <b>Collocations / chunks</b>: cụm danh từ cố định <i>light industry</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Manufacturing car parts and TV sets is <b>light industry</b>.",
+    "vi": "Sản xuất phụ tùng ô tô là <b>công nghiệp nhẹ</b>."
+   }
+  },
+  {
+   "word": "manufacturing industry",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmænjuˈfæktʃərɪŋ ˌɪndəstri/",
+   "def_en": "Industry that makes things, e.g. consumer goods.",
+   "def_vi": "Ngành làm ra hàng hóa, vd hàng tiêu dùng.",
+   "gloss_vi": "công nghiệp sản xuất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "service industry <i>(n. ngành dịch vụ)</i>",
+   "grammar_vi": "<i>Manufacturing industry</i> (noun) = công nghiệp sản xuất. <b>Collocations / chunks</b>: cụm danh từ cố định <i>manufacturing industry</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Consumer goods are made by the <b>manufacturing industry</b>.",
+    "vi": "Hàng tiêu dùng do <b>công nghiệp sản xuất</b> làm ra."
+   }
+  },
+  {
+   "word": "service industry",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɜːvɪs ˌɪndəstri/",
+   "def_en": "Industry serving people, e.g. tourism, banking.",
+   "def_vi": "Ngành phục vụ con người, vd du lịch, ngân hàng.",
+   "gloss_vi": "ngành dịch vụ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "manufacturing industry <i>(n. công nghiệp sản xuất)</i>",
+   "grammar_vi": "<i>Service industry</i> (noun) = ngành dịch vụ. <b>Collocations / chunks</b>: cụm danh từ cố định <i>service industry</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Tourism and banking are part of the <b>service industry</b>.",
+    "vi": "Du lịch và ngân hàng thuộc <b>ngành dịch vụ</b>."
+   }
+  },
+  {
+   "word": "high-tech",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌhaɪ ˈtek/",
+   "def_en": "Involving computers (informal for high-technology).",
+   "def_vi": "Liên quan máy tính (thân mật).",
+   "gloss_vi": "công nghệ cao",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "low-tech <i>(adj. công nghệ thấp)</i>",
+   "grammar_vi": "<i>High-tech</i> (adjective) = công nghệ cao. <b>Grammar</b>: viết tắt thân mật của <i>high-technology</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The software industry is a <b>high-tech</b> industry.",
+    "vi": "Ngành phần mềm là ngành <b>công nghệ cao</b>."
+   }
+  },
+  {
+   "word": "low-tech",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌləʊ ˈtek/",
+   "def_en": "Involving little or no computer technology (informal for low-technology).",
+   "def_vi": "Ít hay không dùng công nghệ máy tính.",
+   "gloss_vi": "công nghệ thấp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "high-tech <i>(adj. công nghệ cao)</i>",
+   "grammar_vi": "<i>Low-tech</i> (adjective) = công nghệ thấp. <b>Grammar</b>: viết tắt thân mật của <i>low-technology</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Many small factories still use <b>low-tech</b> methods.",
+    "vi": "Nhiều nhà máy nhỏ vẫn dùng phương pháp <b>công nghệ thấp</b>."
+   }
+  },
+  {
+   "word": "cutting-edge technology",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkʌtɪŋ edʒ tekˈnɒlədʒi/",
+   "def_en": "New and innovative technology.",
+   "def_vi": "Công nghệ mới và đột phá.",
+   "gloss_vi": "công nghệ tiên tiến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "conventional technology <i>(n. công nghệ thông thường)</i>",
+   "grammar_vi": "<i>Cutting-edge technology</i> (noun) = công nghệ tiên tiến. <b>Collocations / chunks</b>: <i>cutting-edge</i> + <i>technology/research</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The company invests heavily in <b>cutting-edge technology</b>.",
+    "vi": "Công ty đầu tư vào <b>công nghệ tiên tiến</b>."
+   }
+  },
+  {
+   "word": "conventional technology",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kənˌvenʃənl tekˈnɒlədʒi/",
+   "def_en": "Standard, proven technology.",
+   "def_vi": "Công nghệ tiêu chuẩn, đã được kiểm chứng.",
+   "gloss_vi": "công nghệ thông thường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "cutting-edge technology <i>(n. công nghệ tiên tiến)</i>",
+   "grammar_vi": "<i>Conventional technology</i> (noun) = công nghệ thông thường. <b>Collocations / chunks</b>: cụm danh từ cố định <i>conventional technology</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The old plant still relies on <b>conventional technology</b>.",
+    "vi": "Nhà máy cũ vẫn dùng <b>công nghệ thông thường</b>."
+   }
+  },
+  {
+   "word": "privatisation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpraɪvətaɪˈzeɪʃn/",
+   "def_en": "Selling off state-owned industry to private companies.",
+   "def_vi": "Bán ngành nhà nước cho công ty tư nhân.",
+   "gloss_vi": "tư nhân hóa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "nationalisation <i>(n. quốc hữu hóa)</i>",
+   "grammar_vi": "<i>Privatisation</i> (noun) = tư nhân hóa. <b>Grammar</b>: động từ <i>privatise</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Selling off state railways to private companies is called <b>privatisation</b>.",
+    "vi": "Bán đường sắt quốc gia cho công ty tư là <b>tư nhân hóa</b>."
+   }
+  },
+  {
+   "word": "nationalisation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌnæʃnəlaɪˈzeɪʃn/",
+   "def_en": "When industry is owned by the government.",
+   "def_vi": "Khi ngành do chính phủ sở hữu.",
+   "gloss_vi": "quốc hữu hóa",
+   "synonyms": "state ownership <i>(n. sở hữu nhà nước)</i>",
+   "antonyms": "privatisation <i>(n. tư nhân hóa)</i>",
+   "grammar_vi": "<i>Nationalisation</i> (noun) = quốc hữu hóa. <b>Grammar</b>: động từ <i>nationalise</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The workers supported the <b>nationalisation</b> of the coal industry.",
+    "vi": "Công nhân ủng hộ <b>quốc hữu hóa</b> ngành than."
+   }
+  },
+  {
+   "word": "public-private partnership",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpʌblɪk ˌpraɪvət ˈpɑːtnəʃɪp/",
+   "def_en": "A business partly state-owned, partly owned by private industries or businesses.",
+   "def_vi": "Doanh nghiệp một phần nhà nước, một phần tư nhân.",
+   "gloss_vi": "hợp tác công tư",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Public-private partnership</i> (noun) = hợp tác công tư. <b>Grammar</b>: danh từ ghép <i>public</i> + <i>private</i> + <i>partnership</i>.",
+   "example": {
+    "en": "Many big industries are run as <b>public-private partnerships</b>.",
+    "vi": "Nhiều ngành lớn vận hành theo hình thức <b>hợp tác công tư</b>."
+   }
+  },
+  {
+   "word": "subsidy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsʌbsədi/",
+   "def_en": "Money/grants which enable an industry to stay in profit.",
+   "def_vi": "Tiền/trợ cấp giúp ngành có lãi.",
+   "gloss_vi": "trợ cấp",
+   "synonyms": "grant <i>(n. tài trợ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Subsidy</i> (noun) = trợ cấp. <b>Grammar</b>: động từ <i>subsidise</i>.",
+   "example": {
+    "en": "The nuclear industry receives a huge <b>subsidy</b> from the government.",
+    "vi": "Ngành hạt nhân nhận khoản <b>trợ cấp</b> lớn từ chính phủ."
+   }
+  },
+  {
+   "word": "inward investment",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɪnwəd ɪnˈvestmənt/",
+   "def_en": "Investment from foreign companies.",
+   "def_vi": "Đầu tư từ công ty nước ngoài.",
+   "gloss_vi": "đầu tư nước ngoài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Inward investment</i> (noun) = đầu tư nước ngoài. <b>Collocations / chunks</b>: <i>encourage / attract inward investment</i>.",
+   "example": {
+    "en": "The government tries to encourage <b>inward investment</b>.",
+    "vi": "Chính phủ cố khuyến khích <b>đầu tư nước ngoài</b>."
+   }
+  },
+  {
+   "word": "on piecework",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɒn ˈpiːswɜːk/",
+   "def_en": "Only paid for the amount you produce.",
+   "def_vi": "Chỉ được trả theo lượng sản phẩm làm ra.",
+   "gloss_vi": "làm khoán theo sản phẩm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>On piecework</i> (adjective) = làm khoán theo sản phẩm. <b>Collocations / chunks</b>: <i>be on piecework</i>.",
+   "example": {
+    "en": "Most of the factory workers are <b>on piecework</b>.",
+    "vi": "Phần lớn công nhân nhà máy <b>làm khoán theo sản phẩm</b>."
+   }
+  },
+  {
+   "word": "zero hours contract",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌzɪərəʊ ˈaʊəz ˌkɒntrækt/",
+   "def_en": "A contract where the number of hours you work each week may vary, and some weeks there may be no work or pay.",
+   "def_vi": "Hợp đồng số giờ làm mỗi tuần thay đổi, có tuần không việc không lương.",
+   "gloss_vi": "hợp đồng không giờ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Zero hours contract</i> (noun) = hợp đồng không giờ. <b>Collocations / chunks</b>: <i>work on a zero hours contract</i>.",
+   "example": {
+    "en": "Many people now work on <b>zero hours contracts</b>, which means they have no job security.",
+    "vi": "Nhiều người làm theo <b>hợp đồng không giờ</b>, nghĩa là không có an toàn việc làm."
+   }
+  },
+  {
+   "word": "child labour",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌtʃaɪld ˈleɪbə(r)/",
+   "def_en": "The employment of children to do adult jobs.",
+   "def_vi": "Thuê trẻ em làm việc của người lớn.",
+   "gloss_vi": "lao động trẻ em",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Child labour</i> (noun) = lao động trẻ em. <b>Collocations / chunks</b>: cụm danh từ cố định <i>child labour</i>.",
+   "example": {
+    "en": "<b>Child labour</b> is a serious problem in some countries.",
+    "vi": "<b>Lao động trẻ em</b> là vấn đề nghiêm trọng ở một số nước."
+   }
+  },
+  {
+   "word": "trade union representation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌtreɪd ˌjuːniən ˌreprɪzenˈteɪʃn/",
+   "def_en": "Having a union that negotiates wages and conditions for the people it represents.",
+   "def_vi": "Có công đoàn đàm phán lương và điều kiện cho người lao động.",
+   "gloss_vi": "đại diện công đoàn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trade union representation</i> (noun) = đại diện công đoàn. <b>Collocations / chunks</b>: <i>trade union</i> = công đoàn.",
+   "example": {
+    "en": "In many countries, the right to <b>trade union representation</b> has only come after long struggles.",
+    "vi": "Ở nhiều nước, quyền <b>đại diện công đoàn</b> chỉ có sau đấu tranh lâu dài."
+   }
+  },
+  {
+   "word": "sweatshop",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈswetʃɒp/",
+   "def_en": "A factory where people work very long hours for low wages.",
+   "def_vi": "Nhà máy nơi người ta làm rất nhiều giờ với lương thấp.",
+   "gloss_vi": "xưởng bóc lột",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sweatshop</i> (noun) = xưởng bóc lột. <b>Grammar</b>: danh từ ghép <i>sweat</i> + <i>shop</i>.",
+   "example": {
+    "en": "Many cheap electrical goods are produced in <b>sweatshops</b> in poorer countries.",
+    "vi": "Nhiều đồ điện rẻ được sản xuất ở <b>xưởng bóc lột</b> tại nước nghèo."
+   }
+  },
+  {
+   "word": "retraining",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌriːˈtreɪnɪŋ/",
+   "def_en": "Training people for new jobs.",
+   "def_vi": "Đào tạo người cho công việc mới.",
+   "gloss_vi": "đào tạo lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Retraining</i> (noun) = đào tạo lại. <b>Grammar</b>: tiền tố <i>re-</i> + <i>training</i>.",
+   "example": {
+    "en": "<b>Retraining</b> and reskilling are necessary when an economy is modernised.",
+    "vi": "<b>Đào tạo lại</b> là cần thiết khi nền kinh tế hiện đại hóa."
+   }
+  },
+  {
+   "word": "reskilling",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌriːˈskɪlɪŋ/",
+   "def_en": "Teaching people new skills.",
+   "def_vi": "Dạy người kỹ năng mới.",
+   "gloss_vi": "tái trang bị kỹ năng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reskilling</i> (noun) = tái trang bị kỹ năng. <b>Grammar</b>: tiền tố <i>re-</i> + <i>skilling</i>.",
+   "example": {
+    "en": "Retraining and <b>reskilling</b> are necessary when an economy is modernised.",
+    "vi": "Đào tạo lại và <b>tái trang bị kỹ năng</b> là cần thiết."
+   }
+  },
+  {
+   "word": "multinational",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmʌltiˈnæʃnəl/",
+   "def_en": "A big company with operations in many different countries.",
+   "def_vi": "Công ty lớn hoạt động ở nhiều nước.",
+   "gloss_vi": "công ty đa quốc gia",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Multinational</i> (noun) = công ty đa quốc gia. <b>Grammar</b>: cũng là tính từ <i>a multinational company</i>.",
+   "example": {
+    "en": "The big <b>multinationals</b> often close factories",
+    "vi": "Các <b>công ty đa quốc gia</b> lớn thường đóng cửa nhà máy."
+   }
+  },
+  {
+   "word": "cost-cutting exercise",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɒst kʌtɪŋ ˌeksəsaɪz/",
+   "def_en": "An effort to reduce costs.",
+   "def_vi": "Nỗ lực cắt giảm chi phí.",
+   "gloss_vi": "đợt cắt giảm chi phí",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cost-cutting exercise</i> (noun) = đợt cắt giảm chi phí. <b>Collocations / chunks</b>: <i>as a cost-cutting exercise</i>.",
+   "example": {
+    "en": "often close factories as a <b>cost-cutting exercise</b>",
+    "vi": "Họ đóng cửa nhà máy như một <b>đợt cắt giảm chi phí</b>."
+   }
+  },
+  {
+   "word": "relocate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌriːləʊˈkeɪt/",
+   "def_en": "To move a company’s offices (or, less commonly, production) to a different place.",
+   "def_vi": "Chuyển văn phòng (hay sản xuất) công ty đến nơi khác.",
+   "gloss_vi": "chuyển địa điểm",
+   "synonyms": "move <i>(v. chuyển)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Relocate</i> (verb) = chuyển địa điểm. <b>Grammar</b>: danh từ <i>relocation</i>.",
+   "example": {
+    "en": "close factories as a cost-cutting exercise and <b>relocate</b>",
+    "vi": "Họ đóng nhà máy và <b>chuyển</b> sang nước có chi phí rẻ hơn."
+   }
+  },
+  {
+   "word": "switch production",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌswɪtʃ prəˈdʌkʃn/",
+   "def_en": "To move the centre of manufacturing to a different place.",
+   "def_vi": "Chuyển trung tâm sản xuất đến nơi khác.",
+   "gloss_vi": "chuyển sản xuất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Switch production</i> (verb) = chuyển sản xuất. <b>Collocations / chunks</b>: <i>switch production to</i> + nơi.",
+   "example": {
+    "en": "<b>switch production</b> to countries where labour and costs are cheaper",
+    "vi": "Họ <b>chuyển sản xuất</b> sang nước có nhân công rẻ hơn."
+   }
+  },
+  {
+   "word": "components",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəmˈpəʊnənts/",
+   "def_en": "Parts.",
+   "def_vi": "Bộ phận.",
+   "gloss_vi": "linh kiện",
+   "synonyms": "parts <i>(n. bộ phận)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Components</i> (noun) = linh kiện. <b>Collocations / chunks</b>: <i>car components</i>.",
+   "example": {
+    "en": "<b>components</b> for cars are imported and then assembled",
+    "vi": "<b>Linh kiện</b> ô tô được nhập khẩu rồi lắp ráp."
+   }
+  },
+  {
+   "word": "assemble",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈsembl/",
+   "def_en": "To put together.",
+   "def_vi": "Ráp lại với nhau.",
+   "gloss_vi": "lắp ráp",
+   "synonyms": "put together <i>(v. ráp lại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Assemble</i> (verb) = lắp ráp. <b>Grammar</b>: danh từ <i>assembly</i> (<i>assembly line</i>).",
+   "example": {
+    "en": "components for cars are imported and then <b>assembled</b>, rather than manufactured in the country",
+    "vi": "Linh kiện được nhập khẩu rồi <b>lắp ráp</b> trong nước."
+   }
+  }
+ ]
+}

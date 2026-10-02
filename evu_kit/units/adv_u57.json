@@ -1,0 +1,397 @@
+{
+ "book": "adv",
+ "unit": 57,
+ "title_vi": "Công nghệ của tương lai",
+ "theory_html": "<p><b>A. Technology</b><br><i>A. Công nghệ</i></p> <p>Things we are likely to see more of: <b>smart buildings/homes</b> (<b>smart</b> = anything that uses computers or electronic information: smartphone, smart TV, smart car), <b>interplanetary travel, space tourism, nanotechnology, keyhole surgery</b>.</p><p><i>Điều sẽ phổ biến hơn: <b>tòa nhà/nhà thông minh</b>, <b>du hành liên hành tinh, du lịch vũ trụ, công nghệ nano, phẫu thuật nội soi</b>.</i></p> <p><b>B. The environment and nature</b><br><i>B. Môi trường và tự nhiên</i></p> <p><b>doomsday scenario, destiny, foresee, mega-cities, gridlocked, population explosion, genetic modification/engineering, genetically modified (GM) food/crops, gene therapy, the human genome, envisage, designer babies, cloning</b>.</p><p><i><b>viễn cảnh tận thế, số phận, tiên liệu, siêu đô thị, tắc nghẽn hoàn toàn, bùng nổ dân số, biến đổi/kỹ thuật gen, thực phẩm biến đổi gen, liệu pháp gen, bộ gen người, hình dung, em bé thiết kế, nhân bản</b>.</i></p> <p><b>C. Society and people</b><br><i>C. Xã hội và con người</i></p> <p><b>nuclear family, globalisation, global village, extraterrestrial beings, gulf (between rich and poor), drastic measures</b>.</p><p><i><b>gia đình hạt nhân, toàn cầu hóa, ngôi làng toàn cầu, sinh vật ngoài Trái Đất, hố ngăn cách, biện pháp quyết liệt</b>.</i></p>",
+ "items": [
+  {
+   "word": "smart home",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsmɑːt ˈhəʊm/",
+   "def_en": "A computer-controlled home where lighting, heating, security, etc. are completely automatic.",
+   "def_vi": "Nhà điều khiển bằng máy tính, đèn, sưởi, an ninh hoàn toàn tự động.",
+   "gloss_vi": "nhà thông minh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Smart home</i> (noun) = nhà thông minh. <b>Collocations / chunks</b>: <i>smart</i> + <i>building/home/TV/car</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We are likely to see more <b>smart homes</b> in the future.",
+    "vi": "Trong tương lai sẽ có nhiều <b>nhà thông minh</b> hơn."
+   }
+  },
+  {
+   "word": "interplanetary travel",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɪntəˌplænɪtri ˈtrævl/",
+   "def_en": "Travel to planets in outer space.",
+   "def_vi": "Du hành đến các hành tinh ngoài vũ trụ.",
+   "gloss_vi": "du hành liên hành tinh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Interplanetary travel</i> (noun) = du hành liên hành tinh. <b>Grammar</b>: tiền tố <i>inter-</i> + <i>planetary</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Interplanetary travel</b> may one day be for tourism as well as exploration.",
+    "vi": "<b>Du hành liên hành tinh</b> có thể để thám hiểm hay du lịch."
+   }
+  },
+  {
+   "word": "space tourism",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈspeɪs ˌtʊərɪzəm/",
+   "def_en": "Travel to outer space for tourism.",
+   "def_vi": "Du lịch lên vũ trụ.",
+   "gloss_vi": "du lịch vũ trụ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Space tourism</i> (noun) = du lịch vũ trụ. <b>Collocations / chunks</b>: cụm danh từ cố định <i>space tourism</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Space tourism</b> may become more common in the future.",
+    "vi": "<b>Du lịch vũ trụ</b> có thể trở nên phổ biến."
+   }
+  },
+  {
+   "word": "nanotechnology",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌnænəʊtekˈnɒlədʒi/",
+   "def_en": "The science of developing and producing extremely small tools and machines by controlling the arrangement of atoms and molecules.",
+   "def_vi": "Khoa học chế tạo công cụ, máy cực nhỏ bằng cách điều khiển nguyên tử, phân tử.",
+   "gloss_vi": "công nghệ nano",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nanotechnology</i> (noun) = công nghệ nano. <b>Grammar</b>: tiền tố <i>nano-</i> + <i>technology</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Nanotechnology</b> produces extremely small tools and machines.",
+    "vi": "<b>Công nghệ nano</b> tạo ra máy móc cực nhỏ."
+   }
+  },
+  {
+   "word": "keyhole surgery",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkiːhəʊl ˌsɜːdʒəri/",
+   "def_en": "A medical operation in which a very small hole is made in a person’s body to reach the organ or tissue inside.",
+   "def_vi": "Ca mổ chỉ rạch lỗ rất nhỏ để tới cơ quan bên trong.",
+   "gloss_vi": "phẫu thuật nội soi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Keyhole surgery</i> (noun) = phẫu thuật nội soi. <b>Collocations / chunks</b>: cụm danh từ cố định <i>keyhole surgery</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She recovered quickly after <b>keyhole surgery</b>.",
+    "vi": "Cô ấy hồi phục nhanh sau <b>phẫu thuật nội soi</b>."
+   }
+  },
+  {
+   "word": "doomsday scenario",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈduːmzdeɪ səˌnɑːriəʊ/",
+   "def_en": "The worst possible prediction.",
+   "def_vi": "Dự đoán tồi tệ nhất có thể.",
+   "gloss_vi": "viễn cảnh tận thế",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Doomsday scenario</i> (noun) = viễn cảnh tận thế. <b>Collocations / chunks</b>: cụm danh từ cố định <i>doomsday scenario</i>.",
+   "example": {
+    "en": "A <b>doomsday scenario</b> for the environment sees our destiny as a world choked with pollution",
+    "vi": "Một <b>viễn cảnh tận thế</b> cho môi trường thấy thế giới ngập ô nhiễm."
+   }
+  },
+  {
+   "word": "destiny",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdestəni/",
+   "def_en": "The things that will happen to us in the future.",
+   "def_vi": "Những điều sẽ xảy đến với ta trong tương lai.",
+   "gloss_vi": "số phận, định mệnh",
+   "synonyms": "fate <i>(n. số phận)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Destiny</i> (noun) = số phận, định mệnh. <b>Grammar</b>: danh từ đếm được/không đếm được.",
+   "example": {
+    "en": "sees our <b>destiny</b> as a world choked with pollution",
+    "vi": "Viễn cảnh tận thế thấy <b>số phận</b> ta là thế giới ngập ô nhiễm."
+   }
+  },
+  {
+   "word": "foresee",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/fɔːˈsiː/",
+   "def_en": "To think that something will occur in the future.",
+   "def_vi": "Nghĩ điều gì đó sẽ xảy ra trong tương lai.",
+   "gloss_vi": "tiên liệu, thấy trước",
+   "synonyms": "predict <i>(v. dự đoán)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Foresee</i> (verb) = tiên liệu, thấy trước. <b>Grammar</b>: bất quy tắc <i>foresee – foresaw – foreseen</i>.",
+   "example": {
+    "en": "Many experts <b>foresee</b> a situation where traffic in mega-cities becomes completely gridlocked.",
+    "vi": "Nhiều chuyên gia <b>thấy trước</b> giao thông ở siêu đô thị sẽ tắc hoàn toàn."
+   }
+  },
+  {
+   "word": "mega-city",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmeɡə ˌsɪti/",
+   "def_en": "A city of more than 10 million people.",
+   "def_vi": "Thành phố trên 10 triệu dân.",
+   "gloss_vi": "siêu đô thị",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mega-city</i> (noun) = siêu đô thị. <b>Grammar</b>: tiền tố <i>mega-</i> + <i>city</i>.",
+   "example": {
+    "en": "traffic in <b>mega-cities</b> becomes completely gridlocked",
+    "vi": "Giao thông ở <b>siêu đô thị</b> sẽ tắc hoàn toàn."
+   }
+  },
+  {
+   "word": "gridlocked",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɡrɪdlɒkt/",
+   "def_en": "Unable to move at all.",
+   "def_vi": "Hoàn toàn không di chuyển được.",
+   "gloss_vi": "tắc nghẽn hoàn toàn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gridlocked</i> (adjective) = tắc nghẽn hoàn toàn. <b>Grammar</b>: danh từ <i>gridlock</i>.",
+   "example": {
+    "en": "traffic in mega-cities becomes completely <b>gridlocked</b>",
+    "vi": "Giao thông ở siêu đô thị sẽ <b>tắc nghẽn hoàn toàn</b>."
+   }
+  },
+  {
+   "word": "population explosion",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpɒpjuˈleɪʃn ɪkˌspləʊʒn/",
+   "def_en": "A rapid increase in population.",
+   "def_vi": "Sự gia tăng dân số nhanh.",
+   "gloss_vi": "bùng nổ dân số",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Population explosion</i> (noun) = bùng nổ dân số. <b>Collocations / chunks</b>: cụm danh từ cố định <i>population explosion</i>.",
+   "example": {
+    "en": "The <b>population explosion</b> may lead to widespread food and water shortages.",
+    "vi": "<b>Bùng nổ dân số</b> có thể gây thiếu lương thực, nước."
+   }
+  },
+  {
+   "word": "genetic modification",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dʒəˌnetɪk ˌmɒdɪfɪˈkeɪʃn/",
+   "def_en": "Changing genes.",
+   "def_vi": "Thay đổi gen.",
+   "gloss_vi": "biến đổi gen",
+   "synonyms": "genetic engineering <i>(n. kỹ thuật gen)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Genetic modification</i> (noun) = biến đổi gen. <b>Collocations / chunks</b>: <i>genetic modification/engineering</i>.",
+   "example": {
+    "en": "<b>Genetic modification</b>/engineering is already used to change fruit and vegetables so that they grow better.",
+    "vi": "<b>Biến đổi gen</b> đã được dùng để rau quả mọc tốt hơn."
+   }
+  },
+  {
+   "word": "genetically modified",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dʒəˌnetɪkli ˈmɒdɪfaɪd/",
+   "def_en": "Created by changing the genes of the ingredients (GM).",
+   "def_vi": "Tạo ra bằng cách thay đổi gen (GM).",
+   "gloss_vi": "biến đổi gen",
+   "synonyms": "GM <i>(adj. biến đổi gen)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Genetically modified</i> (adjective) = biến đổi gen. <b>Collocations / chunks</b>: <i>GM food / crops</i>.",
+   "example": {
+    "en": "many people object to the idea of <b>genetically modified</b> (or GM) food/crops",
+    "vi": "Nhiều người phản đối thực phẩm <b>biến đổi gen</b>."
+   }
+  },
+  {
+   "word": "gene therapy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdʒiːn ˌθerəpi/",
+   "def_en": "Changing genes in order to prevent disease or disability.",
+   "def_vi": "Thay đổi gen để ngăn bệnh hay khuyết tật.",
+   "gloss_vi": "liệu pháp gen",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gene therapy</i> (noun) = liệu pháp gen. <b>Collocations / chunks</b>: cụm danh từ cố định <i>gene therapy</i>.",
+   "example": {
+    "en": "<b>Gene therapy</b> will be used to eradicate some diseases",
+    "vi": "<b>Liệu pháp gen</b> sẽ được dùng để loại trừ một số bệnh."
+   }
+  },
+  {
+   "word": "the human genome",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ðə ˌhjuːmən ˈdʒiːnəʊm/",
+   "def_en": "The ‘map’ or index of all the genes in a human being.",
+   "def_vi": "‘Bản đồ’ mọi gen trong cơ thể người.",
+   "gloss_vi": "bộ gen người",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The human genome</i> (noun) = bộ gen người. <b>Collocations / chunks</b>: cụm danh từ cố định <i>the human genome</i>.",
+   "example": {
+    "en": "thanks to our knowledge of <b>the human genome</b>",
+    "vi": "Nhờ hiểu biết về <b>bộ gen người</b>."
+   }
+  },
+  {
+   "word": "envisage",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪnˈvɪzɪdʒ/",
+   "def_en": "To see a possible or probable situation in the future.",
+   "def_vi": "Thấy trước tình huống có thể xảy ra.",
+   "gloss_vi": "hình dung",
+   "synonyms": "foresee <i>(v. thấy trước)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Envisage</i> (verb) = hình dung. <b>Grammar</b>: <i>envisage</i> + danh từ / V-ing.",
+   "example": {
+    "en": "Some people <b>envisage</b> a world in which designer babies will be popular.",
+    "vi": "Một số người <b>hình dung</b> thế giới ưa chuộng em bé thiết kế."
+   }
+  },
+  {
+   "word": "designer babies",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˌzaɪnə ˈbeɪbiz/",
+   "def_en": "Babies whose genetic characteristics are artificially created.",
+   "def_vi": "Em bé có đặc điểm di truyền được tạo nhân tạo.",
+   "gloss_vi": "em bé thiết kế",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Designer babies</i> (noun) = em bé thiết kế. <b>Collocations / chunks</b>: <i>designer</i> + danh từ (theo thiết kế).",
+   "example": {
+    "en": "a world in which <b>designer babies</b> will be popular",
+    "vi": "Thế giới mà <b>em bé thiết kế</b> được ưa chuộng."
+   }
+  },
+  {
+   "word": "cloning",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkləʊnɪŋ/",
+   "def_en": "Making a genetically identical copy.",
+   "def_vi": "Tạo bản sao giống hệt về gen.",
+   "gloss_vi": "nhân bản vô tính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cloning</i> (noun) = nhân bản vô tính. <b>Grammar</b>: động từ <i>clone</i>.",
+   "example": {
+    "en": "<b>Cloning</b> of animals, and even human beings, may become common.",
+    "vi": "<b>Nhân bản</b> động vật có thể trở nên phổ biến."
+   }
+  },
+  {
+   "word": "nuclear family",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌnjuːkliə ˈfæməli/",
+   "def_en": "A family with father, mother and one or two children.",
+   "def_vi": "Gia đình gồm bố, mẹ và một hai con.",
+   "gloss_vi": "gia đình hạt nhân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "extended family <i>(n. đại gia đình)</i>",
+   "grammar_vi": "<i>Nuclear family</i> (noun) = gia đình hạt nhân. <b>Collocations / chunks</b>: cụm danh từ cố định <i>nuclear family</i>.",
+   "example": {
+    "en": "In future, the <b>nuclear family</b> may no longer be the main type of family unit",
+    "vi": "Tương lai <b>gia đình hạt nhân</b> có thể không còn là đơn vị gia đình chính."
+   }
+  },
+  {
+   "word": "globalisation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɡləʊbəlaɪˈzeɪʃn/",
+   "def_en": "The increase of trade around the world, or the spread of similar social and cultural behaviour around the world.",
+   "def_vi": "Gia tăng thương mại hay lan rộng văn hóa giống nhau khắp thế giới.",
+   "gloss_vi": "toàn cầu hóa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Globalisation</i> (noun) = toàn cầu hóa. <b>Grammar</b>: động từ <i>globalise</i>.",
+   "example": {
+    "en": "<b>Globalisation</b> will increase, affecting how things are produced and sold",
+    "vi": "<b>Toàn cầu hóa</b> sẽ tăng lên."
+   }
+  },
+  {
+   "word": "global village",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɡləʊbl ˈvɪlɪdʒ/",
+   "def_en": "A single community covering the whole world.",
+   "def_vi": "Một cộng đồng duy nhất bao trùm cả thế giới.",
+   "gloss_vi": "ngôi làng toàn cầu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Global village</i> (noun) = ngôi làng toàn cầu. <b>Collocations / chunks</b>: <i>become a global village</i>.",
+   "example": {
+    "en": "The world has become a <b>global village</b>",
+    "vi": "Thế giới đã thành <b>ngôi làng toàn cầu</b>."
+   }
+  },
+  {
+   "word": "extraterrestrial beings",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌekstrətəˌrestriəl ˈbiːɪŋz/",
+   "def_en": "Creatures from other planets.",
+   "def_vi": "Sinh vật từ hành tinh khác.",
+   "gloss_vi": "sinh vật ngoài Trái Đất",
+   "synonyms": "aliens <i>(n. người ngoài hành tinh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Extraterrestrial beings</i> (noun) = sinh vật ngoài Trái Đất. <b>Grammar</b>: tiền tố <i>extra-</i> (bên ngoài) + <i>terrestrial</i>.",
+   "example": {
+    "en": "We may even make contact with <b>extraterrestrial beings</b>.",
+    "vi": "Ta thậm chí có thể liên lạc với <b>sinh vật ngoài Trái Đất</b>."
+   }
+  },
+  {
+   "word": "gulf",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɡʌlf/",
+   "def_en": "A gap/difference.",
+   "def_vi": "Khoảng cách/khác biệt.",
+   "gloss_vi": "hố ngăn cách",
+   "synonyms": "gap <i>(n. khoảng cách)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gulf</i> (noun) = hố ngăn cách. <b>Collocations / chunks</b>: <i>the gulf between A and B</i>.",
+   "example": {
+    "en": "The <b>gulf</b> between rich and poor nations will widen",
+    "vi": "<b>Hố ngăn cách</b> giữa nước giàu và nghèo sẽ rộng thêm."
+   }
+  },
+  {
+   "word": "drastic measures",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdræstɪk ˈmeʒəz/",
+   "def_en": "Severe actions that have noticeable effects.",
+   "def_vi": "Hành động mạnh có tác động rõ rệt.",
+   "gloss_vi": "biện pháp quyết liệt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Drastic measures</i> (noun) = biện pháp quyết liệt. <b>Collocations / chunks</b>: <i>take drastic measures/action</i>.",
+   "example": {
+    "en": "if we do not take <b>drastic measures</b> now to improve the situation",
+    "vi": "Nếu không có <b>biện pháp quyết liệt</b> ngay bây giờ."
+   }
+  }
+ ]
+}

@@ -1,0 +1,329 @@
+{
+ "book": "adv",
+ "unit": 56,
+ "title_vi": "Công nghệ và tác động của nó",
+ "theory_html": "<p><b>A. Technological advances affecting daily life</b><br><i>A. Tiến bộ công nghệ trong đời sống</i></p> <p><b>digital technology</b> (↔ <b>analogue</b>), <b>wi-fi</b>, <b>satellite communications</b> (<b>SATNAV, GPS</b>), <b>biotechnology</b> (<b>disease-resistant</b> crops), <b>artificial intelligence (AI)</b>, <b>ergonomics</b> (<b>ergonomically designed</b>), <b>Bluetooth</b>.</p><p><i><b>công nghệ số</b> (↔ <b>tương tự</b>), <b>wifi</b>, <b>truyền thông vệ tinh</b> (<b>định vị vệ tinh, GPS</b>), <b>công nghệ sinh học</b> (cây <b>kháng bệnh</b>), <b>trí tuệ nhân tạo</b>, <b>công thái học</b>, <b>Bluetooth</b>.</i></p> <p><b>B. How much of a techie are you?</b><br><i>B. Bạn mê công nghệ đến đâu?</i></p> <p><b>techie</b>; <b>smartphone, hands-free, smart ID card, laptop / notebook, desktop, MP3 player, games console, tablet, touchscreen, e-reader, interactive flat-screen TV, router</b>. Language help: <b>technical / technically</b> (relating to knowledge, machines, materials; also ‘according to an exact understanding of the facts’) vs <b>technological / technologically</b> (relating to technology).</p><p><i><b>người mê công nghệ</b>; <b>điện thoại thông minh, rảnh tay, thẻ ID thông minh, máy tính xách tay, máy bàn, máy MP3, máy chơi game, máy tính bảng, màn hình cảm ứng, máy đọc sách, TV màn phẳng tương tác, bộ định tuyến</b>. Lưu ý: <b>technically</b> (về kỹ thuật; về mặt lý thuyết) khác <b>technologically</b> (về công nghệ).</i></p>",
+ "items": [
+  {
+   "word": "digital",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈdɪdʒɪtl/",
+   "def_en": "Using a system of numbers to record or send information.",
+   "def_vi": "Dùng hệ số để ghi hay truyền thông tin.",
+   "gloss_vi": "kỹ thuật số",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "analogue <i>(adj. tương tự)</i>",
+   "grammar_vi": "<i>Digital</i> (adjective) = kỹ thuật số. <b>Collocations / chunks</b>: <i>digital photography / broadcasting</i>.",
+   "example": {
+    "en": "The sound quality of a <b>digital</b> voice recorder is superior to that of an analogue one.",
+    "vi": "Chất lượng âm của máy ghi âm <b>kỹ thuật số</b> tốt hơn máy analog."
+   }
+  },
+  {
+   "word": "analogue",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈænəlɒɡ/",
+   "def_en": "Non-digital.",
+   "def_vi": "Không phải kỹ thuật số.",
+   "gloss_vi": "tương tự, analog",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "digital <i>(adj. kỹ thuật số)</i>",
+   "grammar_vi": "<i>Analogue</i> (adjective) = tương tự, analog. <b>Grammar</b>: Mỹ: <i>analog</i>.",
+   "example": {
+    "en": "superior to that of an <b>analogue</b> one",
+    "vi": "Máy ghi kỹ thuật số tốt hơn máy <b>analog</b>."
+   }
+  },
+  {
+   "word": "wi-fi",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwaɪ faɪ/",
+   "def_en": "A system for connecting electronic devices to the internet without using wires.",
+   "def_vi": "Hệ thống kết nối thiết bị vào internet không dây.",
+   "gloss_vi": "wifi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wi-fi</i> (noun) = wifi. <b>Grammar</b>: danh từ không đếm được.",
+   "example": {
+    "en": "The hotel has <b>wi-fi</b> in every room.",
+    "vi": "Khách sạn có <b>wifi</b> ở mọi phòng."
+   }
+  },
+  {
+   "word": "satnav",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsætnæv/",
+   "def_en": "A satellite navigation system.",
+   "def_vi": "Hệ thống định vị vệ tinh.",
+   "gloss_vi": "máy định vị",
+   "synonyms": "GPS <i>(n. hệ thống định vị toàn cầu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Satnav</i> (noun) = máy định vị. <b>Grammar</b>: viết tắt <i>satellite navigation</i>.",
+   "example": {
+    "en": "so she gave me her old plug-in <b>SATNAV</b>",
+    "vi": "Cô ấy đưa tôi <b>máy định vị</b> cắm ngoài cũ của mình."
+   }
+  },
+  {
+   "word": "GPS",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdʒiː piː ˈes/",
+   "def_en": "Global positioning system.",
+   "def_vi": "Hệ thống định vị toàn cầu.",
+   "gloss_vi": "GPS",
+   "synonyms": "satnav <i>(n. máy định vị)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>GPS</i> (noun) = GPS. <b>Grammar</b>: viết tắt <i>global positioning system</i>.",
+   "example": {
+    "en": "her new car has <b>GPS</b> (global positioning system) built in",
+    "vi": "Xe mới của cô ấy có sẵn <b>GPS</b>."
+   }
+  },
+  {
+   "word": "biotechnology",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌbaɪəʊtekˈnɒlədʒi/",
+   "def_en": "The use of living cells, e.g. genetic modification of plants.",
+   "def_vi": "Ứng dụng tế bào sống, vd biến đổi gen thực vật.",
+   "gloss_vi": "công nghệ sinh học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Biotechnology</i> (noun) = công nghệ sinh học. <b>Grammar</b>: tiền tố <i>bio-</i> + <i>technology</i>.",
+   "example": {
+    "en": "<b>Biotechnology</b> companies are experimenting with new, disease-resistant crops for farmers.",
+    "vi": "Các công ty <b>công nghệ sinh học</b> đang thử nghiệm cây trồng mới."
+   }
+  },
+  {
+   "word": "disease-resistant",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dɪˈziːz rɪˌzɪstənt/",
+   "def_en": "With a high level of protection against diseases.",
+   "def_vi": "Có khả năng chống bệnh cao.",
+   "gloss_vi": "kháng bệnh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Disease-resistant</i> (adjective) = kháng bệnh. <b>Grammar</b>: tính từ ghép <i>noun</i> + <i>-resistant</i>.",
+   "example": {
+    "en": "experimenting with new, <b>disease-resistant</b> crops for farmers",
+    "vi": "Họ thử nghiệm cây trồng mới <b>kháng bệnh</b> cho nông dân."
+   }
+  },
+  {
+   "word": "artificial intelligence",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɑːtɪfɪʃl ɪnˈtelɪdʒəns/",
+   "def_en": "Computer systems that can do things like translate or identify, more and more like the human brain (AI).",
+   "def_vi": "Hệ thống máy tính làm được việc như dịch, nhận dạng (AI).",
+   "gloss_vi": "trí tuệ nhân tạo",
+   "synonyms": "AI <i>(n. trí tuệ nhân tạo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Artificial intelligence</i> (noun) = trí tuệ nhân tạo. <b>Grammar</b>: viết tắt <i>AI</i>.",
+   "example": {
+    "en": "Scientists working in <b>AI</b> are hoping to create computers that will be more and more like the human brain.",
+    "vi": "Các nhà khoa học làm về <b>trí tuệ nhân tạo</b> mong tạo ra máy tính giống não người."
+   }
+  },
+  {
+   "word": "ergonomics",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɜːɡəˈnɒmɪks/",
+   "def_en": "The design of environments so people can work efficiently and comfortably.",
+   "def_vi": "Thiết kế môi trường để người làm việc hiệu quả, thoải mái.",
+   "gloss_vi": "công thái học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ergonomics</i> (noun) = công thái học. <b>Grammar</b>: danh từ số ít đuôi <i>-s</i>; trạng từ <i>ergonomically</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Ergonomics</b> helps people to work efficiently and comfortably.",
+    "vi": "<b>Công thái học</b> giúp người ta làm việc thoải mái."
+   }
+  },
+  {
+   "word": "Bluetooth",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbluːtuːθ/",
+   "def_en": "A way of connecting electronic devices to each other with no wires.",
+   "def_vi": "Cách kết nối thiết bị điện tử với nhau không dây.",
+   "gloss_vi": "Bluetooth",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bluetooth</i> (noun) = Bluetooth. <b>Grammar</b>: tên thương hiệu, viết hoa.",
+   "example": {
+    "en": "My car has <b>Bluetooth</b>, so I can connect my phone to the speakers.",
+    "vi": "Xe tôi có <b>Bluetooth</b> nên tôi kết nối được điện thoại với loa."
+   }
+  },
+  {
+   "word": "techie",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈteki/",
+   "def_en": "A person who loves acquiring all the new technology.",
+   "def_vi": "Người thích sắm mọi công nghệ mới.",
+   "gloss_vi": "người mê công nghệ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Techie</i> (noun) = người mê công nghệ. <b>Grammar</b>: thân mật; <i>how much of a</i> + danh từ.",
+   "example": {
+    "en": "How much of a <b>techie</b> are you?",
+    "vi": "Bạn là <b>người mê công nghệ</b> đến mức nào?"
+   }
+  },
+  {
+   "word": "smartphone",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsmɑːtfəʊn/",
+   "def_en": "A mobile phone that can be used as a small computer.",
+   "def_vi": "Điện thoại di động dùng như máy tính nhỏ.",
+   "gloss_vi": "điện thoại thông minh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Smartphone</i> (noun) = điện thoại thông minh. <b>Grammar</b>: danh từ ghép <i>smart</i> + <i>phone</i>.",
+   "example": {
+    "en": "a <b>smartphone</b>",
+    "vi": "Bạn có <b>điện thoại thông minh</b> không?"
+   }
+  },
+  {
+   "word": "hands-free",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌhændz ˈfriː/",
+   "def_en": "Able to be used without holding it in your hands.",
+   "def_vi": "Dùng được mà không cần cầm tay.",
+   "gloss_vi": "rảnh tay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hands-free</i> (adjective) = rảnh tay. <b>Grammar</b>: tính từ ghép <i>hands</i> + <i>free</i>.",
+   "example": {
+    "en": "a <b>hands-free</b> earpiece and microphone for your mobile",
+    "vi": "Tai nghe và micro <b>rảnh tay</b> cho điện thoại."
+   }
+  },
+  {
+   "word": "smart ID card",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsmɑːt aɪ ˈdiː kɑːd/",
+   "def_en": "An electronic card for entering your workplace or college.",
+   "def_vi": "Thẻ điện tử để vào nơi làm việc hay trường.",
+   "gloss_vi": "thẻ ID thông minh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Smart ID card</i> (noun) = thẻ ID thông minh. <b>Collocations / chunks</b>: <i>smart</i> = dùng máy tính.",
+   "example": {
+    "en": "a <b>smart ID card</b> for entering your workplace or college",
+    "vi": "<b>Thẻ ID thông minh</b> để vào nơi làm việc."
+   }
+  },
+  {
+   "word": "games console",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡeɪmz ˌkɒnsəʊl/",
+   "def_en": "An electronic device for playing video games.",
+   "def_vi": "Thiết bị chơi trò chơi điện tử.",
+   "gloss_vi": "máy chơi game",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Games console</i> (noun) = máy chơi game. <b>Collocations / chunks</b>: cụm danh từ cố định <i>games console</i>.",
+   "example": {
+    "en": "a <b>games console</b>",
+    "vi": "Bạn có <b>máy chơi game</b> không?"
+   }
+  },
+  {
+   "word": "touchscreen",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtʌtʃskriːn/",
+   "def_en": "A screen that you use by touching it.",
+   "def_vi": "Màn hình dùng bằng cách chạm.",
+   "gloss_vi": "màn hình cảm ứng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Touchscreen</i> (noun) = màn hình cảm ứng. <b>Grammar</b>: danh từ ghép <i>touch</i> + <i>screen</i>.",
+   "example": {
+    "en": "a tablet using a <b>touchscreen</b>, such as an iPad",
+    "vi": "Máy tính bảng dùng <b>màn hình cảm ứng</b>, như iPad."
+   }
+  },
+  {
+   "word": "e-reader",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈiː riːdə(r)/",
+   "def_en": "A device for reading electronic books, such as a Kindle.",
+   "def_vi": "Thiết bị đọc sách điện tử, như Kindle.",
+   "gloss_vi": "máy đọc sách điện tử",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>E-reader</i> (noun) = máy đọc sách điện tử. <b>Grammar</b>: tiền tố <i>e-</i> (electronic).",
+   "example": {
+    "en": "an <b>e-reader</b>, such as a Kindle",
+    "vi": "<b>Máy đọc sách điện tử</b>, như Kindle."
+   }
+  },
+  {
+   "word": "router",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈruːtə(r)/",
+   "def_en": "A device to let you connect to the internet from different devices.",
+   "def_vi": "Thiết bị cho phép kết nối internet từ nhiều thiết bị.",
+   "gloss_vi": "bộ định tuyến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Router</i> (noun) = bộ định tuyến. <b>Grammar</b>: Anh /ˈruːtə/, Mỹ /ˈraʊtər/.",
+   "example": {
+    "en": "a <b>router</b> to let you connect to the internet from different devices",
+    "vi": "<b>Bộ định tuyến</b> cho phép bạn kết nối internet từ nhiều thiết bị."
+   }
+  },
+  {
+   "word": "technically",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈteknɪkli/",
+   "def_en": "Relating to knowledge, machines and materials used in science and industry; according to an exact understanding of the facts.",
+   "def_vi": "Về mặt kỹ thuật; về mặt lý thuyết/chính xác.",
+   "gloss_vi": "về mặt kỹ thuật; về lý thuyết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Technically</i> (adverb) = về mặt kỹ thuật; về lý thuyết. <b>Grammar</b>: tính từ <i>technical</i>; khác <i>technologically</i>.",
+   "example": {
+    "en": "The recession is <b>technically</b> over but things are still difficult for many people.",
+    "vi": "Suy thoái <b>về lý thuyết</b> đã qua nhưng nhiều người vẫn khó khăn."
+   }
+  },
+  {
+   "word": "technologically",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌteknəˈlɒdʒɪkli/",
+   "def_en": "Relating to or involving technology.",
+   "def_vi": "Liên quan đến công nghệ.",
+   "gloss_vi": "về mặt công nghệ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Technologically</i> (adverb) = về mặt công nghệ. <b>Grammar</b>: tính từ <i>technological</i>; không dùng nghĩa ‘về lý thuyết’.",
+   "example": {
+    "en": "<b>Technologically</b>, their company is a long way behind ours.",
+    "vi": "<b>Về mặt công nghệ</b>, công ty họ thua xa chúng tôi."
+   }
+  }
+ ]
+}
