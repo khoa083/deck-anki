@@ -1,0 +1,168 @@
+{
+ "book": "gva",
+ "unit": 22,
+ "title_vi": "Danh từ hóa",
+ "theory_html": "<p><b>2.1. Nominalisation</b><br><i>2.1. Danh từ hóa</i></p> <p>Using a noun or noun phrase for an idea usually expressed by a verb or adjective; common in formal writing. An adverb modifying a verb becomes an adjective (<b>rose suddenly → a sudden rise</b>); the main noun is often followed by prepositional phrases (<b>a rise in the level of…</b>). Used to avoid mentioning the agent, to express two clauses concisely as one, and to give a different focus (new information at the end).</p><p><i>Dùng danh từ thay động từ/tính từ; trạng từ → tính từ; thường + cụm giới từ; tránh nêu tác nhân, cô đọng, đổi tiêu điểm.</i></p> <p><b>2.2. do, give, have, make, take + noun</b><br><i>2.2. do, give, have, make, take + danh từ</i></p> <p>A verb can often be replaced by <b>do / give / have / make / take</b> + noun (<b>took immediate action = acted immediately</b>; <b>the decision was made = it was decided</b>); these patterns are often less formal than the verb alone (<b>do all the cooking</b>).</p><p><i><b>take action, make a decision, do the cooking</b> thay cho động từ; thường ít trang trọng hơn.</i></p>",
+ "items": [
+  {
+   "word": "nominalisation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌnɒmɪnəlaɪˈzeɪʃn/",
+   "def_en": "Using a noun or noun phrase for an idea usually expressed by a verb or adjective.",
+   "def_vi": "Dùng danh từ thay cho động từ hoặc tính từ.",
+   "gloss_vi": "danh từ hóa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nominalisation</i> (noun) = danh từ hóa. <b>Grammar</b>: = <i>The number of people … has increased.</i>; phổ biến trong văn viết trang trọng.",
+   "example": {
+    "en": "There has been an <b>increase in</b> the number of people living close to the lake.",
+    "vi": "Đã có <b>sự gia tăng</b> số người sống gần hồ."
+   }
+  },
+  {
+   "word": "the danger of",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ðə ˈdeɪndʒər əv/",
+   "def_en": "A noun used instead of an adjective (dangerous).",
+   "def_vi": "Danh từ thay cho tính từ dangerous.",
+   "gloss_vi": "sự nguy hiểm của",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The danger of</i> (structure) = sự nguy hiểm của. <b>Grammar</b>: = <i>The situation was so dangerous that…</i>.",
+   "example": {
+    "en": "<b>The danger of</b> the situation made it necessary to bring in the army to oversee operations.",
+    "vi": "<b>Sự nguy hiểm của</b> tình hình khiến phải điều quân đội đến."
+   }
+  },
+  {
+   "word": "a sudden rise in",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ə ˈsʌdn ˈraɪz ɪn/",
+   "def_en": "Adverb + verb becomes adjective + noun in nominalisation.",
+   "def_vi": "Trạng từ + động từ → tính từ + danh từ.",
+   "gloss_vi": "sự tăng đột ngột",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A sudden rise in</i> (structure) = sự tăng đột ngột. <b>Grammar</b>: = <i>the temperature of the lake had risen suddenly</i>.",
+   "example": {
+    "en": "Scientists noticed <b>a sudden rise in</b> the temperature of the lake.",
+    "vi": "Các nhà khoa học nhận thấy <b>nhiệt độ hồ tăng đột ngột</b>."
+   }
+  },
+  {
+   "word": "breakdown in",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbreɪkdaʊn ɪn/",
+   "def_en": "A failure, e.g. of communication; nominalised form of break down.",
+   "def_vi": "Sự đổ vỡ (danh từ hóa của break down).",
+   "gloss_vi": "sự đổ vỡ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Breakdown in</i> (noun) = sự đổ vỡ. <b>Grammar</b>: = <i>Communication broke down and this cost…</i>.",
+   "example": {
+    "en": "A <b>breakdown in</b> communication cost at least a hundred lives.",
+    "vi": "<b>Sự đổ vỡ</b> liên lạc đã làm ít nhất một trăm người chết."
+   }
+  },
+  {
+   "word": "the evacuation of",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ði ɪˌvækjuˈeɪʃn əv/",
+   "def_en": "Nominalisation used to avoid mentioning the agent.",
+   "def_vi": "Danh từ hóa để không nêu tác nhân.",
+   "gloss_vi": "việc sơ tán",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The evacuation of</i> (structure) = việc sơ tán. <b>Grammar</b>: so sánh <i>the authorities began to evacuate 30,000 people</i> (có tác nhân).",
+   "example": {
+    "en": "Two days ago <b>the evacuation of</b> around 30,000 people began.",
+    "vi": "Hai ngày trước <b>việc sơ tán</b> khoảng 30.000 người đã bắt đầu."
+   }
+  },
+  {
+   "word": "the building of",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ðə ˈbɪldɪŋ əv/",
+   "def_en": "Nominalisation used to express two clauses as one.",
+   "def_vi": "Danh từ hóa gộp hai mệnh đề thành một.",
+   "gloss_vi": "việc xây dựng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The building of</i> (structure) = việc xây dựng. <b>Grammar</b>: = <i>Two power stations were built… This was strongly criticised…</i>.",
+   "example": {
+    "en": "<b>The building of</b> two power stations just a few kilometres away was strongly criticised by environmentalists.",
+    "vi": "<b>Việc xây</b> hai nhà máy điện gần đó bị giới môi trường chỉ trích."
+   }
+  },
+  {
+   "word": "the provision of",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ðə prəˈvɪʒn əv/",
+   "def_en": "Nominalisation used to put new important information at the end.",
+   "def_vi": "Danh từ hóa để đặt thông tin mới ở cuối câu.",
+   "gloss_vi": "việc cung cấp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The provision of</i> (structure) = việc cung cấp. <b>Grammar</b>: tiêu điểm = <i>the army's top priority</i>.",
+   "example": {
+    "en": "<b>The provision of</b> temporary shelter in a safe location for those displaced is the army's top priority.",
+    "vi": "<b>Việc cung cấp</b> chỗ ở tạm cho người bị di dời là ưu tiên hàng đầu của quân đội."
+   }
+  },
+  {
+   "word": "take action",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/teɪk ˈækʃn/",
+   "def_en": "To do something to deal with a situation (= act).",
+   "def_vi": "Hành động (để giải quyết).",
+   "gloss_vi": "hành động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take action</i> (structure) = hành động. <b>Grammar</b>: = <i>acted immediately</i>.",
+   "example": {
+    "en": "The authorities <b>took immediate action</b>.",
+    "vi": "Nhà chức trách <b>đã hành động</b> ngay."
+   }
+  },
+  {
+   "word": "make a decision",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/meɪk ə dɪˈsɪʒn/",
+   "def_en": "To decide.",
+   "def_vi": "Quyết định.",
+   "gloss_vi": "ra quyết định",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Make a decision</i> (structure) = ra quyết định. <b>Grammar</b>: = <i>It was decided to evacuate the area.</i>.",
+   "example": {
+    "en": "The <b>decision was made</b> to evacuate the area.",
+    "vi": "<b>Quyết định</b> sơ tán khu vực đã được đưa ra."
+   }
+  },
+  {
+   "word": "do the cooking",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/duː ðə ˈkʊkɪŋ/",
+   "def_en": "To cook (less formal than the verb alone).",
+   "def_vi": "Nấu ăn (ít trang trọng hơn cook).",
+   "gloss_vi": "nấu nướng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Do the cooking</i> (structure) = nấu nướng. <b>Grammar</b>: so sánh trang trọng hơn <i>I had to cook for the family.</i>.",
+   "example": {
+    "en": "I had to <b>do all the cooking</b> last week because Mum was away.",
+    "vi": "Tuần trước tôi phải <b>nấu nướng hết</b> vì mẹ đi vắng."
+   }
+  }
+ ]
+}
