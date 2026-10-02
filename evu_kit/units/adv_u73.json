@@ -1,0 +1,384 @@
+{
+ "book": "adv",
+ "unit": 73,
+ "title_vi": "Phàn nàn và phản đối",
+ "theory_html": "<p><b>A. Expressions connected with complaining</b><br><i>A. Cách nói khi phàn nàn</i></p> <p>Informal: <b>You’ve got to do something about…, I’m fed up with / sick of…, I’ve just about had enough of…, This is just not on!, Enough is enough!</b> Neutral: <b>I’m not at all satisfied with…, Something will have to be done about…, I wish you would/wouldn’t…, It just won’t do!</b> Formal: <b>I wish to complain about…, This is most unsatisfactory, I take great exception to…, I really must object to…, This is (simply) unacceptable, This is shameful</b>.</p><p><i>Thân mật: <b>phải làm gì với…, chán ngấy…, chịu hết nổi…, thế này là không được!, đủ rồi đấy!</b> Trung tính: <b>không hài lòng chút nào, phải xử lý…, mong bạn…, không thể như thế được!</b> Trang trọng: <b>tôi muốn khiếu nại, hết sức không thỏa đáng, tôi rất phản đối, không thể chấp nhận, thật đáng xấu hổ</b>.</i></p> <p><b>B. Verbs and nouns relating to complaining and protesting</b><br><i>B. Động từ và danh từ</i></p> <p><b>complain (about) – complaint; protest /prəˈtest/ – protest /ˈprəʊtest/; object (to) – objection; remonstrate with/about – remonstrance; find fault (with) – fault-finding; grumble; gripe; grouse; whinge</b>. Common mistake: <b>object to</b> + noun/pronoun/-ing (NOT base form).</p><p><i><b>phàn nàn, phản đối, phản đối, khiển trách, bới lỗi, càu nhàu, kêu ca, than phiền, rên rỉ</b>. Lưu ý: <b>object to</b> + V-ing.</i></p>",
+ "items": [
+  {
+   "word": "you’ve got to do something about",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/juːv ˌɡɒt tə ˌduː ˈsʌmθɪŋ əˌbaʊt/",
+   "def_en": "Used to complain informally about something someone should fix.",
+   "def_vi": "Phàn nàn thân mật về điều ai đó nên sửa.",
+   "gloss_vi": "bạn phải làm gì đó với",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>You’ve got to do something about</i> (cl) = bạn phải làm gì đó với. <b>Collocations / chunks</b>: thân mật.",
+   "example": {
+    "en": "<b>You’ve got to do something about</b> that window of yours.",
+    "vi": "<b>Bạn phải làm gì đó với</b> cái cửa sổ đi. Nó kêu lạch cạch làm tôi mất ngủ."
+   }
+  },
+  {
+   "word": "fed up with",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌfed ˈʌp wɪð/",
+   "def_en": "Annoyed and bored with something (informal).",
+   "def_vi": "Bực và chán (thân mật).",
+   "gloss_vi": "chán ngấy",
+   "synonyms": "sick of <i>(adj. phát ngán)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fed up with</i> (adjective) = chán ngấy. <b>Collocations / chunks</b>: <i>be fed up with</i> + danh từ/V-ing.",
+   "example": {
+    "en": "<b>I’m fed up with</b> all your moaning and grumbling.",
+    "vi": "Tôi <b>chán ngấy</b> mấy lời than vãn càu nhàu của bạn rồi."
+   }
+  },
+  {
+   "word": "have just about had enough of",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌhæv dʒʌst əˌbaʊt hæd ɪˈnʌf əv/",
+   "def_en": "To be almost unable to tolerate something any more.",
+   "def_vi": "Gần như không chịu nổi nữa.",
+   "gloss_vi": "chịu hết nổi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have just about had enough of</i> (verb) = chịu hết nổi. <b>Collocations / chunks</b>: thân mật, khá mạnh.",
+   "example": {
+    "en": "<b>I’ve just about had enough of</b> your stupid comments.",
+    "vi": "Tôi <b>chịu hết nổi</b> mấy lời bình ngu ngốc của anh rồi."
+   }
+  },
+  {
+   "word": "this is just not on",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ˌðɪs ɪz ˌdʒʌst ˈnɒt ɒn/",
+   "def_en": "This is not acceptable (informal).",
+   "def_vi": "Điều này không chấp nhận được (thân mật).",
+   "gloss_vi": "thế này là không được",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>This is just not on</i> (cl) = thế này là không được. <b>Collocations / chunks</b>: <i>not on</i> = không chấp nhận được.",
+   "example": {
+    "en": "Look, <b>this is just not on</b>! You promised to be here by two o’clock and it’s almost three!",
+    "vi": "<b>Thế này là không được</b>! Bạn hứa đến lúc hai giờ mà giờ gần ba giờ!"
+   }
+  },
+  {
+   "word": "enough is enough",
+   "sense": "",
+   "pos": "excl",
+   "ipa": "/ɪˌnʌf ɪz ɪˈnʌf/",
+   "def_en": "Used to say that something must stop.",
+   "def_vi": "Nói rằng việc gì phải dừng.",
+   "gloss_vi": "đủ rồi đấy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Enough is enough</i> (excl) = đủ rồi đấy. <b>Collocations / chunks</b>: thân mật.",
+   "example": {
+    "en": "<b>Enough is enough</b>! Please, no more arguments – be nice to each other!",
+    "vi": "<b>Đủ rồi đấy</b>! Đừng cãi nhau nữa."
+   }
+  },
+  {
+   "word": "not at all satisfied with",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌnɒt ət ˌɔːl ˈsætɪsfaɪd wɪð/",
+   "def_en": "Completely unhappy with (neutral).",
+   "def_vi": "Hoàn toàn không hài lòng (trung tính).",
+   "gloss_vi": "không hài lòng chút nào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Not at all satisfied with</i> (adjective) = không hài lòng chút nào. <b>Collocations / chunks</b>: trung tính.",
+   "example": {
+    "en": "I’m <b>not at all satisfied with</b> the service I’ve received.",
+    "vi": "Tôi <b>không hài lòng chút nào</b> với dịch vụ đã nhận."
+   }
+  },
+  {
+   "word": "something will have to be done about",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ˌsʌmθɪŋ wɪl ˌhæv tə bi ˈdʌn əˌbaʊt/",
+   "def_en": "Used to say a problem must be dealt with (neutral).",
+   "def_vi": "Nói rằng vấn đề phải được giải quyết.",
+   "gloss_vi": "phải xử lý",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Something will have to be done about</i> (cl) = phải xử lý. <b>Collocations / chunks</b>: trung tính.",
+   "example": {
+    "en": "<b>Something will have to be done about</b> that pile of rubbish.",
+    "vi": "<b>Phải xử lý</b> đống rác đó."
+   }
+  },
+  {
+   "word": "I wish you wouldn’t",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/aɪ ˌwɪʃ ju ˈwʊdnt/",
+   "def_en": "Used to complain about someone’s behaviour.",
+   "def_vi": "Phàn nàn về hành vi của ai.",
+   "gloss_vi": "mong bạn đừng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>I wish you wouldn’t</i> (cl) = mong bạn đừng. <b>Grammar</b>: <i>wish</i> + <i>would(n’t)</i> = phàn nàn.",
+   "example": {
+    "en": "<b>I wish you wouldn’t</b> play your music so loudly.",
+    "vi": "<b>Mong bạn đừng</b> bật nhạc to thế."
+   }
+  },
+  {
+   "word": "it just won’t do",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ɪt ˌdʒʌst ˌwəʊnt ˈduː/",
+   "def_en": "It is not acceptable.",
+   "def_vi": "Không chấp nhận được.",
+   "gloss_vi": "không thể như thế được",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>It just won’t do</i> (cl) = không thể như thế được. <b>Collocations / chunks</b>: trung tính.",
+   "example": {
+    "en": "You never help around the house. <b>It just won’t do</b>!",
+    "vi": "Bạn chẳng bao giờ giúp việc nhà. <b>Không thể như thế được</b>!"
+   }
+  },
+  {
+   "word": "I wish to complain about",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/aɪ ˌwɪʃ tə kəmˈpleɪn əˌbaʊt/",
+   "def_en": "Used to make a formal complaint.",
+   "def_vi": "Dùng khi khiếu nại trang trọng.",
+   "gloss_vi": "tôi muốn khiếu nại về",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>I wish to complain about</i> (cl) = tôi muốn khiếu nại về. <b>Collocations / chunks</b>: trang trọng.",
+   "example": {
+    "en": "<b>I wish to complain about</b> the delay in delivering my order.",
+    "vi": "<b>Tôi muốn khiếu nại về</b> việc giao hàng chậm."
+   }
+  },
+  {
+   "word": "most unsatisfactory",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌməʊst ˌʌnsætɪsˈfæktəri/",
+   "def_en": "Very bad (formal complaint).",
+   "def_vi": "Rất tệ (khiếu nại trang trọng).",
+   "gloss_vi": "hết sức không thỏa đáng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Most unsatisfactory</i> (adjective) = hết sức không thỏa đáng. <b>Grammar</b>: <i>most</i> = rất (trang trọng).",
+   "example": {
+    "en": "The carpet in my room is stained and dirty. This is <b>most unsatisfactory</b>.",
+    "vi": "Thảm trong phòng tôi bẩn. <b>Thật hết sức không thỏa đáng</b>."
+   }
+  },
+  {
+   "word": "take great exception to",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ˌɡreɪt ɪkˈsepʃn tə/",
+   "def_en": "To be very offended by and object to.",
+   "def_vi": "Rất phật ý và phản đối.",
+   "gloss_vi": "rất phản đối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take great exception to</i> (verb) = rất phản đối. <b>Collocations / chunks</b>: trang trọng <i>take exception to</i>.",
+   "example": {
+    "en": "<b>I take great exception to</b> your unfair comments about our committee.",
+    "vi": "Tôi <b>rất phản đối</b> những lời nhận xét bất công về ủy ban."
+   }
+  },
+  {
+   "word": "object to",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əbˈdʒekt tə/",
+   "def_en": "To be against something or someone.",
+   "def_vi": "Chống lại điều gì hay ai.",
+   "gloss_vi": "phản đối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Object to</i> (verb) = phản đối. <b>Grammar</b>: + danh từ/V-ing, không + V nguyên mẫu; danh từ <i>objection</i>.",
+   "example": {
+    "en": "I <b>object to being</b> made to wait here for an hour before seeing the Principal",
+    "vi": "Tôi <b>phản đối</b> việc bị bắt chờ cả tiếng."
+   }
+  },
+  {
+   "word": "unacceptable",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʌnəkˈseptəbl/",
+   "def_en": "Not acceptable (formal complaint).",
+   "def_vi": "Không thể chấp nhận (trang trọng).",
+   "gloss_vi": "không thể chấp nhận",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "acceptable <i>(adj. chấp nhận được)</i>",
+   "grammar_vi": "<i>Unacceptable</i> (adjective) = không thể chấp nhận. <b>Collocations / chunks</b>: <i>This is simply unacceptable.</i>.",
+   "example": {
+    "en": "This is (simply) <b>unacceptable</b>.",
+    "vi": "Ống nước sửa ba lần lại rò. <b>Thật không thể chấp nhận</b>."
+   }
+  },
+  {
+   "word": "shameful",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈʃeɪmfl/",
+   "def_en": "That should make you feel embarrassed and guilty.",
+   "def_vi": "Đáng khiến ai xấu hổ và áy náy.",
+   "gloss_vi": "đáng xấu hổ",
+   "synonyms": "disgraceful <i>(adj. đáng hổ thẹn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shameful</i> (adjective) = đáng xấu hổ. <b>Grammar</b>: <i>shame</i> + <i>-ful</i>.",
+   "example": {
+    "en": "This is <b>shameful</b>.",
+    "vi": "Tài xế bỏ bọn trẻ bên đường dưới mưa. <b>Thật đáng xấu hổ</b>."
+   }
+  },
+  {
+   "word": "complain",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kəmˈpleɪn/",
+   "def_en": "To express dissatisfaction or annoyance.",
+   "def_vi": "Bày tỏ không hài lòng, bực bội.",
+   "gloss_vi": "phàn nàn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Complain</i> (verb) = phàn nàn. <b>Grammar</b>: <i>complain about</i> sth; danh từ <i>complaint</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The guests <b>complained</b> about the food.",
+    "vi": "Khách <b>phàn nàn</b> về đồ ăn."
+   }
+  },
+  {
+   "word": "protest",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/prəˈtest/",
+   "def_en": "To strongly express complaint, disapproval or disagreement.",
+   "def_vi": "Mạnh mẽ bày tỏ phàn nàn, phản đối.",
+   "gloss_vi": "phản đối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Protest</i> (verb) = phản đối. <b>Grammar</b>: động từ /prəˈtest/, danh từ /ˈprəʊtest/.",
+   "ex_kit": true,
+   "example": {
+    "en": "Students <b>protested</b> about the rise in fees.",
+    "vi": "Sinh viên <b>phản đối</b> việc tăng học phí."
+   }
+  },
+  {
+   "word": "remonstrate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈremənstreɪt/",
+   "def_en": "To complain to someone / about something (formal).",
+   "def_vi": "Phàn nàn với ai / về điều gì (trang trọng).",
+   "gloss_vi": "khiển trách, phản đối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Remonstrate</i> (verb) = khiển trách, phản đối. <b>Collocations / chunks</b>: <i>remonstrate with sb / about sth</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He <b>remonstrated</b> with the referee about the decision.",
+    "vi": "Anh ấy <b>phản đối</b> với trọng tài về quyết định."
+   }
+  },
+  {
+   "word": "find fault with",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌfaɪnd ˈfɔːlt wɪð/",
+   "def_en": "To criticise or complain about even small mistakes.",
+   "def_vi": "Chỉ trích cả lỗi nhỏ.",
+   "gloss_vi": "bới lông tìm vết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Find fault with</i> (verb) = bới lông tìm vết. <b>Grammar</b>: danh từ <i>fault-finding</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She always <b>finds fault with</b> everything I do.",
+    "vi": "Bà ấy luôn <b>bới lỗi</b> mọi việc tôi làm."
+   }
+  },
+  {
+   "word": "grumble",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈɡrʌmbl/",
+   "def_en": "To complain in a quiet but angry way.",
+   "def_vi": "Phàn nàn nhỏ nhưng bực.",
+   "gloss_vi": "càu nhàu",
+   "synonyms": "moan <i>(v. than vãn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Grumble</i> (verb) = càu nhàu. <b>Collocations / chunks</b>: <i>grumble about</i> sth.",
+   "ex_kit": true,
+   "example": {
+    "en": "He’s always <b>grumbling</b> about his job.",
+    "vi": "Anh ấy luôn <b>càu nhàu</b> về công việc."
+   }
+  },
+  {
+   "word": "gripe",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɡraɪp/",
+   "def_en": "To complain continuously (informal).",
+   "def_vi": "Phàn nàn liên tục (thân mật).",
+   "gloss_vi": "kêu ca",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gripe</i> (verb) = kêu ca. <b>Grammar</b>: thân mật; cũng là danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "They keep <b>griping</b> about their pay.",
+    "vi": "Họ cứ <b>kêu ca</b> về lương."
+   }
+  },
+  {
+   "word": "grouse",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɡraʊs/",
+   "def_en": "To complain, usually often (informal).",
+   "def_vi": "Phàn nàn, thường xuyên (thân mật).",
+   "gloss_vi": "than phiền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Grouse</i> (verb) = than phiền. <b>Grammar</b>: thân mật; cũng là danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "Passengers <b>groused</b> about the late trains.",
+    "vi": "Hành khách <b>than phiền</b> về tàu trễ."
+   }
+  },
+  {
+   "word": "whinge",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/wɪndʒ/",
+   "def_en": "To complain persistently (informal).",
+   "def_vi": "Phàn nàn dai dẳng (thân mật).",
+   "gloss_vi": "rên rỉ, ca cẩm",
+   "synonyms": "whine <i>(v. than vãn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Whinge</i> (verb) = rên rỉ, ca cẩm. <b>Grammar</b>: thân mật; danh từ <i>whinge, whingeing</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Stop <b>whingeing</b> and get on with it!",
+    "vi": "Đừng <b>ca cẩm</b> nữa và làm việc đi!"
+   }
+  }
+ ]
+}
