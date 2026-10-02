@@ -1,0 +1,376 @@
+{
+ "book": "adv",
+ "unit": 19,
+ "title_vi": "Giao lưu và mở rộng quan hệ",
+ "theory_html": "<p><b>A. Nouns for social events</b><br><i>A. Danh từ chỉ sự kiện xã hội</i></p> <p><b>housewarming, stag party, hen night, fancy dress, wedding party, reception, black-tie, launch party, girls’ night out, leaving do</b> (<b>do</b> is an informal noun).</p><p><i><b>tiệc tân gia, tiệc độc thân chú rể, tiệc độc thân cô dâu, hóa trang, nhóm người thân dự cưới, tiệc chiêu đãi, lễ phục, tiệc ra mắt, buổi đi chơi của hội chị em, tiệc chia tay</b>.</i></p> <p><b>B. Networking</b><br><i>B. Mở rộng quan hệ</i></p> <p><b>exchange business cards, do lunch</b> (informal), <b>hobnob with, rub shoulders with</b> (informal), <b>socialising</b> (meeting people purely for pleasure) vs <b>networking</b> (making useful contacts), <b>be proactive</b>.</p><p><i><b>trao danh thiếp, đi ăn trưa, giao du với người quan trọng, tiếp xúc, giao lưu vs mở rộng quan hệ, chủ động</b>.</i></p> <p><b>C. Expressions for social activity</b><br><i>C. Cụm từ về hoạt động xã hội</i></p> <p><b>hang out with / knock around with</b> (informal), <b>outstay your welcome, party animal, cliquey / clique, crowd, an item, stand someone up</b>.</p><p><i><b>chơi với, ở lâu quá, người mê tiệc tùng, kéo bè kéo cánh/bè phái, nhóm bạn, một cặp, cho leo cây</b>.</i></p>",
+ "items": [
+  {
+   "word": "housewarming",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhaʊswɔːmɪŋ/",
+   "def_en": "A party to celebrate moving to a new house or flat.",
+   "def_vi": "Tiệc mừng chuyển nhà mới.",
+   "gloss_vi": "tiệc tân gia",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Housewarming</i> (noun) = tiệc tân gia. <b>Grammar</b>: cũng <i>housewarming party</i>.",
+   "example": {
+    "en": "Frankie and Joe had their <b>housewarming</b> last week.",
+    "vi": "Frankie và Joe tổ chức <b>tiệc tân gia</b> tuần trước."
+   }
+  },
+  {
+   "word": "stag party",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈstæɡ ˌpɑːti/",
+   "def_en": "A party before a wedding for the future husband and his male friends.",
+   "def_vi": "Tiệc trước đám cưới cho chú rể và bạn nam.",
+   "gloss_vi": "tiệc độc thân (chú rể)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "hen night <i>(n. tiệc độc thân cô dâu)</i>",
+   "grammar_vi": "<i>Stag party</i> (noun) = tiệc độc thân (chú rể). <b>Collocations / chunks</b>: cụm danh từ cố định <i>stag party</i>.",
+   "example": {
+    "en": "Josh went to his friend Mick’s <b>stag party</b> last weekend.",
+    "vi": "Josh dự <b>tiệc độc thân</b> của bạn Mick."
+   }
+  },
+  {
+   "word": "hen night",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhen naɪt/",
+   "def_en": "A night out before a wedding for the future wife and her female friends.",
+   "def_vi": "Buổi đi chơi trước đám cưới của cô dâu và bạn nữ.",
+   "gloss_vi": "tiệc độc thân (cô dâu)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "stag party <i>(n. tiệc độc thân chú rể)</i>",
+   "grammar_vi": "<i>Hen night</i> (noun) = tiệc độc thân (cô dâu). <b>Collocations / chunks</b>: cụm danh từ cố định <i>hen night</i>.",
+   "example": {
+    "en": "Next week, my old schoolmate Angela’s having her <b>hen night</b>.",
+    "vi": "Angela sẽ tổ chức <b>tiệc độc thân</b> tuần sau."
+   }
+  },
+  {
+   "word": "fancy dress",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌfænsi ˈdres/",
+   "def_en": "Costumes that everyone dresses up in.",
+   "def_vi": "Trang phục hóa trang.",
+   "gloss_vi": "hóa trang",
+   "synonyms": "costume <i>(n. trang phục)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fancy dress</i> (noun) = hóa trang. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "It’s <b>fancy dress</b> too.",
+    "vi": "Bữa tiệc cũng là tiệc <b>hóa trang</b>."
+   }
+  },
+  {
+   "word": "wedding party",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwedɪŋ ˌpɑːti/",
+   "def_en": "The main group of close family and friends at a wedding.",
+   "def_vi": "Nhóm người thân và bạn bè chính ở đám cưới.",
+   "gloss_vi": "nhóm thân thích dự cưới",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wedding party</i> (noun) = nhóm thân thích dự cưới. <b>Common mistakes</b>: <i>party</i> = nhóm người.",
+   "example": {
+    "en": "I think the <b>wedding party</b> will include a lot of our year from school.",
+    "vi": "<b>Nhóm thân thích dự cưới</b> sẽ có nhiều bạn cùng khóa."
+   }
+  },
+  {
+   "word": "reception",
+   "sense": "party",
+   "pos": "noun",
+   "ipa": "/rɪˈsepʃn/",
+   "def_en": "A formal party, e.g. after a wedding.",
+   "def_vi": "Tiệc trang trọng, như sau đám cưới.",
+   "gloss_vi": "tiệc chiêu đãi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reception</i> (noun) = tiệc chiêu đãi. <b>Common mistakes</b>: cũng = quầy lễ tân.",
+   "example": {
+    "en": "They’re having the <b>reception</b> at the Royal Hotel.",
+    "vi": "Họ tổ chức <b>tiệc chiêu đãi</b> ở khách sạn Royal."
+   }
+  },
+  {
+   "word": "black-tie",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌblæk ˈtaɪ/",
+   "def_en": "(Of an event) formal, with men in dinner jackets and black bow ties.",
+   "def_vi": "(Sự kiện) trang trọng, nam mặc lễ phục nơ đen.",
+   "gloss_vi": "lễ phục, dạ tiệc",
+   "synonyms": "formal <i>(adj. trang trọng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Black-tie</i> (adjective) = lễ phục, dạ tiệc. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "It’s a <b>black-tie</b> affair.",
+    "vi": "Đó là buổi tiệc <b>lễ phục</b>."
+   }
+  },
+  {
+   "word": "launch party",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlɔːntʃ ˌpɑːti/",
+   "def_en": "A party to celebrate the publication of a new book or product.",
+   "def_vi": "Tiệc mừng ra mắt sách hay sản phẩm mới.",
+   "gloss_vi": "tiệc ra mắt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Launch party</i> (noun) = tiệc ra mắt. <b>Collocations / chunks</b>: cụm danh từ cố định <i>launch party</i>.",
+   "example": {
+    "en": "I’ve got the <b>launch party</b> for my new book coming up next month.",
+    "vi": "Tôi sắp có <b>tiệc ra mắt</b> cuốn sách mới."
+   }
+  },
+  {
+   "word": "girls’ night out",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɡɜːlz naɪt ˈaʊt/",
+   "def_en": "An evening out just for female friends.",
+   "def_vi": "Buổi tối đi chơi chỉ của bạn nữ.",
+   "gloss_vi": "buổi đi chơi của hội chị em",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Girls’ night out</i> (noun) = buổi đi chơi của hội chị em. <b>Collocations / chunks</b>: cụm danh từ cố định <i>girls’ night out</i>.",
+   "example": {
+    "en": "I have the usual <b>girls’ night out</b> with Amy and Izzie every few weeks.",
+    "vi": "Vài tuần tôi lại có <b>buổi đi chơi của hội chị em</b>."
+   }
+  },
+  {
+   "word": "leaving do",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈliːvɪŋ duː/",
+   "def_en": "A party to celebrate somebody leaving a job (informal).",
+   "def_vi": "Tiệc chia tay người nghỉ việc (thân mật).",
+   "gloss_vi": "tiệc chia tay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Leaving do</i> (noun) = tiệc chia tay. <b>Grammar</b>: <i>do</i> = bữa tiệc (thân mật).",
+   "example": {
+    "en": "There’s a <b>leaving do</b> at the office next week.",
+    "vi": "Tuần sau có <b>tiệc chia tay</b> ở văn phòng."
+   }
+  },
+  {
+   "word": "exchange",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪksˈtʃeɪndʒ/",
+   "def_en": "To give each other something.",
+   "def_vi": "Trao cho nhau.",
+   "gloss_vi": "trao đổi",
+   "synonyms": "swap <i>(v. đổi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Exchange</i> (verb) = trao đổi. <b>Collocations / chunks</b>: <i>exchange business cards</i>.",
+   "example": {
+    "en": "<b>Exchange</b> business cards.",
+    "vi": "<b>Trao đổi</b> danh thiếp."
+   }
+  },
+  {
+   "word": "do lunch",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌduː ˈlʌntʃ/",
+   "def_en": "To have lunch, especially for business (informal).",
+   "def_vi": "Ăn trưa, nhất là bàn công việc (thân mật).",
+   "gloss_vi": "đi ăn trưa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Do lunch</i> (verb) = đi ăn trưa. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "<b>Do lunch</b> with useful people.",
+    "vi": "<b>Đi ăn trưa</b> với những người có ích."
+   }
+  },
+  {
+   "word": "hobnob with",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈhɒbnɒb wɪð/",
+   "def_en": "To be friendly with someone important or famous (sometimes negative).",
+   "def_vi": "Thân thiện với người quan trọng (đôi khi tiêu cực).",
+   "gloss_vi": "giao du với",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hobnob with</i> (verb) = giao du với. <b>Grammar</b>: đôi khi hàm ý tiêu cực.",
+   "example": {
+    "en": "Don’t be afraid to <b>hobnob with</b> the boss.",
+    "vi": "Đừng ngại <b>giao du với</b> sếp."
+   }
+  },
+  {
+   "word": "rub shoulders with",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌrʌb ˈʃəʊldəz wɪð/",
+   "def_en": "To mix socially with people (informal).",
+   "def_vi": "Tiếp xúc giao lưu (thân mật).",
+   "gloss_vi": "tiếp xúc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rub shoulders with</i> (verb) = tiếp xúc. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "Make sure you <b>rub shoulders with</b> the people who really matter.",
+    "vi": "Hãy <b>tiếp xúc với</b> những người thực sự quan trọng."
+   }
+  },
+  {
+   "word": "networking",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈnetwɜːkɪŋ/",
+   "def_en": "Making contacts that are useful to your business or career.",
+   "def_vi": "Tạo mối quan hệ có ích cho công việc.",
+   "gloss_vi": "mở rộng quan hệ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Networking</i> (noun) = mở rộng quan hệ. <b>Grammar</b>: khác <i>socialising</i> (gặp gỡ cho vui).",
+   "example": {
+    "en": "<b>Networking</b> is making contacts that are going to be useful to your business or career.",
+    "vi": "<b>Mở rộng quan hệ</b> là tạo quan hệ có ích cho sự nghiệp."
+   }
+  },
+  {
+   "word": "be proactive",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/bi ˌprəʊˈæktɪv/",
+   "def_en": "To take action yourself rather than waiting for something to happen.",
+   "def_vi": "Tự hành động thay vì chờ đợi.",
+   "gloss_vi": "chủ động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "reactive <i>(adj. bị động)</i>",
+   "grammar_vi": "<i>Be proactive</i> (verb) = chủ động. <b>Grammar</b>: động từ nhiều từ <i>be proactive</i>.",
+   "example": {
+    "en": "Try to <b>be proactive</b> in the workplace.",
+    "vi": "Hãy cố <b>chủ động</b> ở nơi làm việc."
+   }
+  },
+  {
+   "word": "hang out with",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌhæŋ ˈaʊt wɪð/",
+   "def_en": "To spend social time with someone (informal).",
+   "def_vi": "Dành thời gian vui chơi với ai (thân mật).",
+   "gloss_vi": "đi chơi với",
+   "synonyms": "knock around with <i>(v. chơi với)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hang out with</i> (verb) = đi chơi với. <b>Grammar</b>: thân mật; cũng <i>knock around with</i>.",
+   "example": {
+    "en": "I don’t like the people Chris <b>hangs out with</b>.",
+    "vi": "Tôi không thích những người Chris <b>đi chơi cùng</b>."
+   }
+  },
+  {
+   "word": "outstay your welcome",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌaʊtsteɪ jɔː ˈwelkəm/",
+   "def_en": "To stay too long somewhere.",
+   "def_vi": "Ở lại quá lâu.",
+   "gloss_vi": "ở lâu quá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Outstay your welcome</i> (verb) = ở lâu quá. <b>Grammar</b>: tính từ sở hữu đổi theo chủ ngữ.",
+   "example": {
+    "en": "I hope I’m not <b>outstaying my welcome</b>.",
+    "vi": "Hy vọng tôi không <b>ở lâu quá</b>."
+   }
+  },
+  {
+   "word": "party animal",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɑːti ˌænɪml/",
+   "def_en": "Someone who loves going to parties.",
+   "def_vi": "Người rất mê đi tiệc.",
+   "gloss_vi": "người mê tiệc tùng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Party animal</i> (noun) = người mê tiệc tùng. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "Jamie’s a real <b>party animal</b>.",
+    "vi": "Jamie là <b>người mê tiệc tùng</b> thực thụ."
+   }
+  },
+  {
+   "word": "cliquey",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈkliːki/",
+   "def_en": "(Of a group) not allowing others to join.",
+   "def_vi": "(Nhóm) không cho người khác tham gia.",
+   "gloss_vi": "kéo bè kéo cánh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cliquey</i> (adjective) = kéo bè kéo cánh. <b>Grammar</b>: <i>clique</i> (n.), từ chê.",
+   "example": {
+    "en": "I hate it at my new job – everyone’s so <b>cliquey</b>.",
+    "vi": "Ở chỗ làm mới mọi người rất <b>kéo bè kéo cánh</b>."
+   }
+  },
+  {
+   "word": "crowd",
+   "sense": "friends",
+   "pos": "noun",
+   "ipa": "/kraʊd/",
+   "def_en": "A group of friends; the people someone socialises with (informal).",
+   "def_vi": "Nhóm bạn; những người hay giao lưu cùng (thân mật).",
+   "gloss_vi": "nhóm bạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Crowd</i> (noun) = nhóm bạn. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "Pete Esterhaus was there with his <b>crowd</b>.",
+    "vi": "Pete có mặt cùng <b>nhóm bạn</b> của anh ấy."
+   }
+  },
+  {
+   "word": "an item",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ən ˈaɪtəm/",
+   "def_en": "Two people having a romantic relationship (informal).",
+   "def_vi": "Hai người đang yêu nhau (thân mật).",
+   "gloss_vi": "một cặp",
+   "synonyms": "couple <i>(n. cặp đôi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>An item</i> (noun) = một cặp. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "Are they <b>an item</b>?",
+    "vi": "Họ có phải <b>một cặp</b> không?"
+   }
+  },
+  {
+   "word": "stand someone up",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌstænd ˌsʌmwʌn ˈʌp/",
+   "def_en": "Not to arrive for a date you had made.",
+   "def_vi": "Không đến buổi hẹn.",
+   "gloss_vi": "cho leo cây",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stand someone up</i> (verb) = cho leo cây. <b>Grammar</b>: <i>stand sb up</i>.",
+   "example": {
+    "en": "Molly <b>stood him up</b> last night.",
+    "vi": "Molly đã <b>cho anh ấy leo cây</b> tối qua."
+   }
+  }
+ ]
+}

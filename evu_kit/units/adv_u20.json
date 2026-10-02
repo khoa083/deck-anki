@@ -1,0 +1,536 @@
+{
+ "book": "adv",
+ "unit": 20,
+ "title_vi": "Nghệ thuật biểu diễn: bình luận và phê bình",
+ "theory_html": "<p><b>A. Useful adjectives for describing works and performances</b><br><i>A. Tính từ mô tả tác phẩm và màn trình diễn</i></p> <p><b>overrated, hackneyed, disjointed, far-fetched, risqué, gripping, harrowing, moving, memorable/unforgettable, understated, tedious, hilarious</b>. These adjectives can also be used about writing.</p><p><i><b>được đánh giá quá cao, nhàm chán sáo mòn, rời rạc, khó tin, táo bạo, lôi cuốn, đau lòng, cảm động, đáng nhớ, giản dị tinh tế, buồn tẻ, cực kỳ buồn cười</b>; cũng dùng cho văn viết.</i></p> <p><b>B. Success and failure</b><br><i>B. Thành công và thất bại</i></p> <p><b>applause, glowing reviews, encores, standing ovation, awards, up-and-coming, masterpiece, typecast, panned/slated, lauded, bomb, boo, total flop, miscast, unconvincing</b>.</p><p><i><b>tràng pháo tay, lời khen nồng nhiệt, diễn thêm, khán giả đứng vỗ tay, giải thưởng, đầy triển vọng, kiệt tác, bị đóng khung vai, bị chê thậm tệ, được ca ngợi, thất bại, bị la ó, thất bại hoàn toàn, chọn sai vai, thiếu thuyết phục</b>.</i></p> <p><b>C. Nouns relating to performing</b><br><i>C. Danh từ về biểu diễn</i></p> <p><b>audition, rehearsals, interpretation, version, covers, portrayal</b>.</p><p><i><b>buổi thử vai, buổi diễn tập, cách diễn giải, phiên bản, bản cover, sự khắc họa</b>.</i></p>",
+ "items": [
+  {
+   "word": "overrated",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌəʊvəˈreɪtɪd/",
+   "def_en": "Not as good as people say.",
+   "def_vi": "Không hay như người ta nói.",
+   "gloss_vi": "được đánh giá quá cao",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "underrated <i>(adj. bị đánh giá thấp)</i>",
+   "grammar_vi": "<i>Overrated</i> (adjective) = được đánh giá quá cao. <b>Grammar</b>: <i>over-</i> = quá.",
+   "example": {
+    "en": "That TV series is <b>overrated</b>.",
+    "vi": "Bộ phim truyền hình đó <b>được đánh giá quá cao</b>."
+   }
+  },
+  {
+   "word": "hackneyed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈhæknid/",
+   "def_en": "Done so often that it is boring.",
+   "def_vi": "Lặp lại quá nhiều đến nhàm.",
+   "gloss_vi": "sáo mòn",
+   "synonyms": "clichéd <i>(adj. sáo rỗng)</i>",
+   "antonyms": "original <i>(adj. độc đáo)</i>",
+   "grammar_vi": "<i>Hackneyed</i> (adjective) = sáo mòn. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "The plot was so <b>hackneyed</b>!",
+    "vi": "Cốt truyện quá <b>sáo mòn</b>!"
+   }
+  },
+  {
+   "word": "disjointed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dɪsˈdʒɔɪntɪd/",
+   "def_en": "Unconnected and not in a clear order.",
+   "def_vi": "Rời rạc, không theo trật tự rõ.",
+   "gloss_vi": "rời rạc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "coherent <i>(adj. mạch lạc)</i>",
+   "grammar_vi": "<i>Disjointed</i> (adjective) = rời rạc. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "The play was <b>disjointed</b> and difficult to follow.",
+    "vi": "Vở kịch <b>rời rạc</b> và khó theo dõi."
+   }
+  },
+  {
+   "word": "far-fetched",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌfɑː ˈfetʃt/",
+   "def_en": "Impossible to believe.",
+   "def_vi": "Không thể tin được.",
+   "gloss_vi": "khó tin",
+   "synonyms": "implausible <i>(adj. khó tin)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Far-fetched</i> (adjective) = khó tin. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "The film Green Aliens from Mars was a bit <b>far-fetched</b>.",
+    "vi": "Bộ phim Người ngoài hành tinh xanh hơi <b>khó tin</b>."
+   }
+  },
+  {
+   "word": "risqué",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/rɪˈskeɪ/",
+   "def_en": "Against accepted social standards and likely to shock some people.",
+   "def_vi": "Trái chuẩn mực xã hội, dễ gây sốc.",
+   "gloss_vi": "táo bạo, khiếm nhã",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Risqué</i> (adjective) = táo bạo, khiếm nhã. <b>Grammar</b>: /rɪˈskeɪ/, gốc Pháp.",
+   "example": {
+    "en": "The play was a bit <b>risqué</b>, and some religious leaders criticised it.",
+    "vi": "Vở kịch hơi <b>táo bạo</b> và bị lãnh đạo tôn giáo chỉ trích."
+   }
+  },
+  {
+   "word": "gripping",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɡrɪpɪŋ/",
+   "def_en": "Exciting and keeping your attention the whole time.",
+   "def_vi": "Hấp dẫn, giữ chân suốt.",
+   "gloss_vi": "lôi cuốn",
+   "synonyms": "riveting <i>(adj. cuốn hút)</i>",
+   "antonyms": "tedious <i>(adj. buồn tẻ)</i>",
+   "grammar_vi": "<i>Gripping</i> (adjective) = lôi cuốn. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "It was a <b>gripping</b> film from start to finish.",
+    "vi": "Đó là bộ phim <b>lôi cuốn</b> từ đầu đến cuối."
+   }
+  },
+  {
+   "word": "harrowing",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈhærəʊɪŋ/",
+   "def_en": "Extremely upsetting.",
+   "def_vi": "Cực kỳ đau lòng.",
+   "gloss_vi": "đau lòng, ám ảnh",
+   "synonyms": "distressing <i>(adj. đau lòng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Harrowing</i> (adjective) = đau lòng, ám ảnh. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "It was a <b>harrowing</b> documentary about war and refugee camps.",
+    "vi": "Đó là phim tài liệu <b>ám ảnh</b> về chiến tranh."
+   }
+  },
+  {
+   "word": "moving",
+   "sense": "emotion",
+   "pos": "adjective",
+   "ipa": "/ˈmuːvɪŋ/",
+   "def_en": "Making you feel pity or sadness.",
+   "def_vi": "Khiến cảm thấy thương, buồn.",
+   "gloss_vi": "cảm động",
+   "synonyms": "touching <i>(adj. cảm động)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Moving</i> (adjective) = cảm động. <b>Grammar</b>: <i>move</i> (v.) = làm xúc động.",
+   "example": {
+    "en": "It’s a <b>moving</b> story about a child whose mother dies.",
+    "vi": "Đó là câu chuyện <b>cảm động</b> về đứa trẻ mất mẹ."
+   }
+  },
+  {
+   "word": "memorable",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈmemərəbl/",
+   "def_en": "Remembered long after.",
+   "def_vi": "Được nhớ rất lâu.",
+   "gloss_vi": "đáng nhớ",
+   "synonyms": "unforgettable <i>(adj. khó quên)</i>",
+   "antonyms": "forgettable <i>(adj. dễ quên)</i>",
+   "grammar_vi": "<i>Memorable</i> (adjective) = đáng nhớ. <b>Grammar</b>: cũng <i>unforgettable</i>.",
+   "example": {
+    "en": "What a truly <b>memorable</b> performance.",
+    "vi": "Thật là màn trình diễn <b>đáng nhớ</b>."
+   }
+  },
+  {
+   "word": "understated",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʌndəˈsteɪtɪd/",
+   "def_en": "Done or expressed in a simple but attractive style.",
+   "def_vi": "Thể hiện giản dị mà cuốn hút.",
+   "gloss_vi": "giản dị tinh tế",
+   "synonyms": "subtle <i>(adj. tinh tế)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Understated</i> (adjective) = giản dị tinh tế. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "The ballerina’s performance was <b>understated</b>.",
+    "vi": "Màn trình diễn của nữ diễn viên ba lê rất <b>giản dị tinh tế</b>."
+   }
+  },
+  {
+   "word": "tedious",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈtiːdiəs/",
+   "def_en": "Boring.",
+   "def_vi": "Chán.",
+   "gloss_vi": "buồn tẻ",
+   "synonyms": "boring <i>(adj. chán)</i>",
+   "antonyms": "gripping <i>(adj. lôi cuốn)</i>",
+   "grammar_vi": "<i>Tedious</i> (adjective) = buồn tẻ. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "The play was long and <b>tedious</b>.",
+    "vi": "Vở kịch dài và <b>buồn tẻ</b>."
+   }
+  },
+  {
+   "word": "hilarious",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/hɪˈleəriəs/",
+   "def_en": "Extremely funny.",
+   "def_vi": "Cực kỳ buồn cười.",
+   "gloss_vi": "cực kỳ hài hước",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hilarious</i> (adjective) = cực kỳ hài hước. <b>Grammar</b>: <i>hilarity</i> (n.).",
+   "example": {
+    "en": "That new stand-up comedian is <b>hilarious</b>.",
+    "vi": "Nghệ sĩ hài độc thoại mới đó <b>cực kỳ hài hước</b>."
+   }
+  },
+  {
+   "word": "applause",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈplɔːz/",
+   "def_en": "Clapping to show enjoyment.",
+   "def_vi": "Vỗ tay thể hiện sự thích thú.",
+   "gloss_vi": "tràng pháo tay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Applause</i> (noun) = tràng pháo tay. <b>Grammar</b>: không đếm được; <i>applaud</i> (v.).",
+   "example": {
+    "en": "The <b>applause</b> was deafening.",
+    "vi": "<b>Tràng pháo tay</b> vang dội."
+   }
+  },
+  {
+   "word": "glowing reviews",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɡləʊɪŋ rɪˈvjuːz/",
+   "def_en": "Excellent reviews.",
+   "def_vi": "Bài phê bình khen ngợi.",
+   "gloss_vi": "lời khen nồng nhiệt",
+   "synonyms": "rave reviews <i>(n. lời khen hết mực)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Glowing reviews</i> (noun) = lời khen nồng nhiệt. <b>Collocations / chunks</b>: <i>get glowing reviews</i>.",
+   "example": {
+    "en": "It got <b>glowing reviews</b>.",
+    "vi": "Không lạ khi vở kịch nhận <b>lời khen nồng nhiệt</b>."
+   }
+  },
+  {
+   "word": "encore",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɒŋkɔː(r)/",
+   "def_en": "A call from the audience to perform some more.",
+   "def_vi": "Khán giả yêu cầu diễn thêm.",
+   "gloss_vi": "tiết mục diễn thêm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Encore</i> (noun) = tiết mục diễn thêm. <b>Grammar</b>: /ˈɒŋkɔː/.",
+   "example": {
+    "en": "The audience called for several <b>encores</b> after his concert.",
+    "vi": "Khán giả yêu cầu <b>diễn thêm</b> vài lần."
+   }
+  },
+  {
+   "word": "standing ovation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌstændɪŋ əʊˈveɪʃn/",
+   "def_en": "When the audience stands up and applauds at the end of a performance.",
+   "def_vi": "Khán giả đứng dậy vỗ tay cuối buổi diễn.",
+   "gloss_vi": "khán giả đứng dậy vỗ tay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Standing ovation</i> (noun) = khán giả đứng dậy vỗ tay. <b>Collocations / chunks</b>: <i>get / receive a standing ovation</i>.",
+   "example": {
+    "en": "She got a <b>standing ovation</b> as Juliet in Romeo and Juliet.",
+    "vi": "Cô ấy được <b>khán giả đứng dậy vỗ tay</b> trong vai Juliet."
+   }
+  },
+  {
+   "word": "award",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈwɔːd/",
+   "def_en": "A prize or honour.",
+   "def_vi": "Giải thưởng, vinh dự.",
+   "gloss_vi": "giải thưởng",
+   "synonyms": "prize <i>(n. giải)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Award</i> (noun) = giải thưởng. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "Her latest album has already won three <b>awards</b>.",
+    "vi": "Album mới đã giành ba <b>giải thưởng</b>."
+   }
+  },
+  {
+   "word": "up-and-coming",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʌp ən ˈkʌmɪŋ/",
+   "def_en": "Likely to become very successful.",
+   "def_vi": "Có khả năng rất thành công.",
+   "gloss_vi": "đầy triển vọng",
+   "synonyms": "promising <i>(adj. triển vọng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Up-and-coming</i> (adjective) = đầy triển vọng. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "Sam Dell won the award for ‘Best <b>up-and-coming</b> actor’.",
+    "vi": "Sam Dell đoạt giải ‘Diễn viên <b>triển vọng</b> nhất’."
+   }
+  },
+  {
+   "word": "masterpiece",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɑːstəpiːs/",
+   "def_en": "A very great work of art.",
+   "def_vi": "Tác phẩm nghệ thuật vĩ đại.",
+   "gloss_vi": "kiệt tác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Masterpiece</i> (noun) = kiệt tác. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "The critics generally agree that her new symphony is a <b>masterpiece</b>.",
+    "vi": "Giới phê bình đồng ý bản giao hưởng mới là <b>kiệt tác</b>."
+   }
+  },
+  {
+   "word": "typecast",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈtaɪpkɑːst/",
+   "def_en": "Always associated with one type of role.",
+   "def_vi": "Luôn gắn với một kiểu vai.",
+   "gloss_vi": "bị đóng khung vai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Typecast</i> (adjective) = bị đóng khung vai. <b>Grammar</b>: thường <i>be/become typecast</i>.",
+   "example": {
+    "en": "She has become <b>typecast</b> as a middle-aged mother in TV drama series.",
+    "vi": "Cô ấy <b>bị đóng khung</b> vai bà mẹ trung niên."
+   }
+  },
+  {
+   "word": "panned",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/pænd/",
+   "def_en": "Very negatively criticised.",
+   "def_vi": "Bị chê rất thậm tệ.",
+   "gloss_vi": "bị chê thậm tệ",
+   "synonyms": "slated <i>(adj. bị chỉ trích)</i>",
+   "antonyms": "lauded <i>(adj. được ca ngợi)</i>",
+   "grammar_vi": "<i>Panned</i> (adjective) = bị chê thậm tệ. <b>Grammar</b>: <i>pan</i> (v.); cũng <i>slated</i>.",
+   "example": {
+    "en": "His latest opera was <b>panned</b> by the critics.",
+    "vi": "Vở opera mới nhất bị giới phê bình <b>chê thậm tệ</b>."
+   }
+  },
+  {
+   "word": "lauded",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈlɔːdɪd/",
+   "def_en": "Highly praised.",
+   "def_vi": "Được ca ngợi.",
+   "gloss_vi": "được ca ngợi",
+   "synonyms": "acclaimed <i>(adj. được hoan nghênh)</i>",
+   "antonyms": "panned <i>(adj. bị chê)</i>",
+   "grammar_vi": "<i>Lauded</i> (adjective) = được ca ngợi. <b>Grammar</b>: trang trọng; <i>laud</i> (v.).",
+   "example": {
+    "en": "All his previous works have been universally <b>lauded</b>.",
+    "vi": "Mọi tác phẩm trước của ông đều được <b>ca ngợi</b>."
+   }
+  },
+  {
+   "word": "bomb",
+   "sense": "fail",
+   "pos": "verb",
+   "ipa": "/bɒm/",
+   "def_en": "(Of a show) to be a failure.",
+   "def_vi": "(Chương trình) thất bại.",
+   "gloss_vi": "thất bại thảm hại",
+   "synonyms": "flop <i>(v. thất bại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bomb</i> (verb) = thất bại thảm hại. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "The play <b>bombed</b> in London’s West End.",
+    "vi": "Vở kịch <b>thất bại thảm hại</b> ở West End London."
+   }
+  },
+  {
+   "word": "boo",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/buː/",
+   "def_en": "To make disapproving noises at a performance.",
+   "def_vi": "La ó phản đối.",
+   "gloss_vi": "la ó",
+   "synonyms": "jeer <i>(v. chế nhạo)</i>",
+   "antonyms": "cheer <i>(v. cổ vũ)</i>",
+   "grammar_vi": "<i>Boo</i> (verb) = la ó. <b>Grammar</b>: động từ.",
+   "example": {
+    "en": "The show was <b>booed</b> on the first night.",
+    "vi": "Buổi diễn bị <b>la ó</b> đêm đầu."
+   }
+  },
+  {
+   "word": "total flop",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌtəʊtl ˈflɒp/",
+   "def_en": "A complete failure.",
+   "def_vi": "Thất bại hoàn toàn.",
+   "gloss_vi": "thất bại hoàn toàn",
+   "synonyms": "failure <i>(n. thất bại)</i>",
+   "antonyms": "hit <i>(n. thành công)</i>",
+   "grammar_vi": "<i>Total flop</i> (noun) = thất bại hoàn toàn. <b>Collocations / chunks</b>: cụm danh từ cố định <i>total flop</i>.",
+   "example": {
+    "en": "The new TV soap has turned out to be a <b>total flop</b>.",
+    "vi": "Phim truyền hình mới hóa ra <b>thất bại hoàn toàn</b>."
+   }
+  },
+  {
+   "word": "miscast",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌmɪsˈkɑːst/",
+   "def_en": "(Of an actor) the wrong person for a role.",
+   "def_vi": "(Diễn viên) không hợp vai.",
+   "gloss_vi": "bị chọn sai vai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Miscast</i> (adjective) = bị chọn sai vai. <b>Grammar</b>: <i>mis-</i> = sai.",
+   "example": {
+    "en": "Novak <b>was</b> definitely <b>miscast</b> as the father in that film.",
+    "vi": "Novak rõ ràng <b>bị chọn sai vai</b> người cha."
+   }
+  },
+  {
+   "word": "unconvincing",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʌnkənˈvɪnsɪŋ/",
+   "def_en": "Not seeming real or true.",
+   "def_vi": "Không có vẻ thật.",
+   "gloss_vi": "thiếu thuyết phục",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "convincing <i>(adj. thuyết phục)</i>",
+   "grammar_vi": "<i>Unconvincing</i> (adjective) = thiếu thuyết phục. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "He was very <b>unconvincing</b>.",
+    "vi": "Anh ấy diễn rất <b>thiếu thuyết phục</b>."
+   }
+  },
+  {
+   "word": "audition",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɔːˈdɪʃn/",
+   "def_en": "A short performance where actors show what they can do, hoping to get a role.",
+   "def_vi": "Buổi diễn ngắn để thử vai.",
+   "gloss_vi": "buổi thử vai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Audition</i> (noun) = buổi thử vai. <b>Grammar</b>: cũng động từ <i>audition for</i>.",
+   "example": {
+    "en": "Megan did well in the <b>audition</b>.",
+    "vi": "Megan làm tốt <b>buổi thử vai</b>."
+   }
+  },
+  {
+   "word": "rehearsal",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˈhɜːsl/",
+   "def_en": "A practice performance.",
+   "def_vi": "Buổi diễn tập.",
+   "gloss_vi": "buổi diễn tập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rehearsal</i> (noun) = buổi diễn tập. <b>Grammar</b>: <i>rehearse</i> (v.).",
+   "example": {
+    "en": "She is now busy going to <b>rehearsals</b> for the play.",
+    "vi": "Giờ cô ấy bận đi <b>diễn tập</b> cho vở kịch."
+   }
+  },
+  {
+   "word": "interpretation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˌtɜːprɪˈteɪʃn/",
+   "def_en": "A way of understanding and performing something.",
+   "def_vi": "Cách hiểu và trình bày.",
+   "gloss_vi": "cách diễn giải",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Interpretation</i> (noun) = cách diễn giải. <b>Grammar</b>: <i>interpret</i> (v.).",
+   "example": {
+    "en": "I liked her <b>interpretation</b> of the song ‘Yesterday’.",
+    "vi": "Tôi thích <b>cách diễn giải</b> bài ‘Yesterday’ của cô ấy."
+   }
+  },
+  {
+   "word": "version",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈvɜːʃn/",
+   "def_en": "One of several performances that exist.",
+   "def_vi": "Một trong nhiều bản trình bày.",
+   "gloss_vi": "phiên bản",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Version</i> (noun) = phiên bản. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "I prefer the original <b>version</b> by the Beatles.",
+    "vi": "Tôi thích <b>bản</b> gốc của Beatles hơn."
+   }
+  },
+  {
+   "word": "cover",
+   "sense": "song",
+   "pos": "noun",
+   "ipa": "/ˈkʌvə(r)/",
+   "def_en": "A version of a song that is not the original.",
+   "def_vi": "Bản hát lại không phải bản gốc.",
+   "gloss_vi": "bản cover",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "original <i>(n. bản gốc)</i>",
+   "grammar_vi": "<i>Cover</i> (noun) = bản cover. <b>Grammar</b>: <i>cover version</i>.",
+   "example": {
+    "en": "None of the <b>covers</b> are as good, in my opinion.",
+    "vi": "Không <b>bản cover</b> nào hay bằng."
+   }
+  },
+  {
+   "word": "portrayal",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pɔːˈtreɪəl/",
+   "def_en": "The picture an actor creates of a character.",
+   "def_vi": "Hình ảnh diễn viên tạo cho nhân vật.",
+   "gloss_vi": "sự khắc họa",
+   "synonyms": "depiction <i>(n. sự mô tả)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Portrayal</i> (noun) = sự khắc họa. <b>Grammar</b>: <i>portray</i> (v.).",
+   "example": {
+    "en": "The actor’s <b>portrayal</b> of the mother in the film was very tender.",
+    "vi": "Sự <b>khắc họa</b> người mẹ của nữ diễn viên rất dịu dàng."
+   }
+  }
+ ]
+}
