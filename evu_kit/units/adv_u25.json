@@ -1,0 +1,456 @@
+{
+ "book": "adv",
+ "unit": 25,
+ "title_vi": "Trên đường: giao thông và lái xe",
+ "theory_html": "<p><b>A. Driving and traffic regulations</b><br><i>A. Quy định lái xe và giao thông</i></p> <p>In the UK, you must <b>give way</b> at a give-way sign and at a roundabout, where traffic from the right has the <b>right of way</b>; give way to pedestrians at a <b>crossing</b>. <b>Sounding/beeping</b> your horn may be prohibited. <b>Jumping</b> a red light and <b>reckless</b> driving are serious offences; <b>drink-driving</b> or <b>drug-driving</b> can bring a heavy fine. Drivers may take a <b>breathalyser</b> test; <b>hit-and-run</b> accidents may result in a <b>ban</b>. Less serious breaches may lead to <b>penalty points</b>; <b>on-the-spot</b> fines may be issued. <b>Exhaust emissions</b> must meet standards; the car must be <b>roadworthy</b> with minimum <b>tyre tread</b>: driving with a <b>bald</b> tyre is illegal.</p><p><i>Nhường đường, quyền ưu tiên, vạch qua đường, bấm còi, vượt đèn đỏ, lái ẩu, lái xe khi say/dùng ma túy, kiểm tra nồng độ cồn, gây tai nạn rồi bỏ chạy, tước bằng, điểm phạt, phạt tại chỗ, khí thải, đủ điều kiện lưu thông, gai lốp, lốp mòn trọc.</i></p> <p><b>B. Traffic problems</b><br><i>B. Vấn đề giao thông</i></p> <p><b>tailback, congestion, congestion charge, toll, pile-up, divert, disruption, tow-away zone, clamp, road rage, skid, head-on collision</b>.</p><p><i><b>dòng xe ùn dài, tắc nghẽn, phí vào trung tâm, phí cầu đường, tai nạn liên hoàn, chuyển hướng, gián đoạn, khu kéo xe, khóa bánh xe, cơn giận trên đường, trượt bánh, đâm trực diện</b>.</i></p>",
+ "items": [
+  {
+   "word": "give way",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡɪv ˈweɪ/",
+   "def_en": "To stop at a junction to let other traffic go first.",
+   "def_vi": "Dừng ở giao lộ nhường xe khác.",
+   "gloss_vi": "nhường đường",
+   "synonyms": "yield <i>(v. nhường)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Give way</i> (verb) = nhường đường. <b>Grammar</b>: Mỹ <i>yield</i>.",
+   "example": {
+    "en": "In the UK, you must <b>give way</b> at a give-way sign and at a roundabout.",
+    "vi": "Ở Anh, bạn phải <b>nhường đường</b> ở biển nhường đường và vòng xuyến."
+   }
+  },
+  {
+   "word": "right of way",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌraɪt əv ˈweɪ/",
+   "def_en": "The right to go before other traffic.",
+   "def_vi": "Quyền đi trước xe khác.",
+   "gloss_vi": "quyền ưu tiên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Right of way</i> (noun) = quyền ưu tiên. <b>Collocations / chunks</b>: cụm danh từ cố định <i>right of way</i>.",
+   "example": {
+    "en": "traffic coming from the right has the <b>right of way</b>",
+    "vi": "Xe từ bên phải có <b>quyền ưu tiên</b>."
+   }
+  },
+  {
+   "word": "crossing",
+   "sense": "road",
+   "pos": "noun",
+   "ipa": "/ˈkrɒsɪŋ/",
+   "def_en": "A place for pedestrians to cross a road.",
+   "def_vi": "Chỗ người đi bộ qua đường.",
+   "gloss_vi": "lối qua đường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Crossing</i> (noun) = lối qua đường. <b>Grammar</b>: có vạch đen trắng gọi <i>zebra crossing</i>.",
+   "example": {
+    "en": "You must give way to pedestrians at a pedestrian <b>crossing</b>.",
+    "vi": "Bạn phải nhường người đi bộ ở <b>lối qua đường</b>."
+   }
+  },
+  {
+   "word": "beep your horn",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌbiːp jɔː ˈhɔːn/",
+   "def_en": "To make the horn of a car sound (less formal than sound).",
+   "def_vi": "Bấm còi xe (ít trang trọng hơn sound).",
+   "gloss_vi": "bấm còi",
+   "synonyms": "sound your horn <i>(v. bấm còi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Beep your horn</i> (verb) = bấm còi. <b>Grammar</b>: ít trang trọng hơn <i>sound your horn</i>.",
+   "example": {
+    "en": "In some countries, sounding/<b>beeping your horn</b> is prohibited, except in emergencies.",
+    "vi": "Ở một số nước, <b>bấm còi</b> bị cấm trừ khi khẩn cấp."
+   }
+  },
+  {
+   "word": "jump a red light",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌdʒʌmp ə ˌred ˈlaɪt/",
+   "def_en": "Not to stop at a red traffic light.",
+   "def_vi": "Không dừng ở đèn đỏ.",
+   "gloss_vi": "vượt đèn đỏ",
+   "synonyms": "run a red light <i>(v. vượt đèn đỏ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Jump a red light</i> (verb) = vượt đèn đỏ. <b>Grammar</b>: động từ nhiều từ <i>jump a red light</i>.",
+   "example": {
+    "en": "In most countries, <b>jumping a red light</b> is a serious offence.",
+    "vi": "Ở hầu hết các nước, <b>vượt đèn đỏ</b> là vi phạm nghiêm trọng."
+   }
+  },
+  {
+   "word": "reckless",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈrekləs/",
+   "def_en": "Very dangerous, without any care for others.",
+   "def_vi": "Rất nguy hiểm, bất chấp người khác.",
+   "gloss_vi": "liều lĩnh, ẩu",
+   "synonyms": "careless <i>(adj. bất cẩn)</i>",
+   "antonyms": "careful <i>(adj. cẩn thận)</i>",
+   "grammar_vi": "<i>Reckless</i> (adjective) = liều lĩnh, ẩu. <b>Collocations / chunks</b>: <i>reckless driving</i>.",
+   "example": {
+    "en": "as is <b>reckless</b> driving",
+    "vi": "Lái xe <b>ẩu</b> cũng là vi phạm nghiêm trọng."
+   }
+  },
+  {
+   "word": "drink-driving",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdrɪŋk ˈdraɪvɪŋ/",
+   "def_en": "Driving after drinking alcohol above the official limit.",
+   "def_vi": "Lái xe khi uống rượu quá giới hạn.",
+   "gloss_vi": "lái xe khi say rượu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Drink-driving</i> (noun) = lái xe khi say rượu. <b>Grammar</b>: Mỹ <i>drunk driving</i>.",
+   "example": {
+    "en": "In many parts of the world, <b>drink-driving</b> can result in a heavy fine or imprisonment.",
+    "vi": "<b>Lái xe khi say rượu</b> có thể bị phạt nặng."
+   }
+  },
+  {
+   "word": "drug-driving",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdrʌɡ ˈdraɪvɪŋ/",
+   "def_en": "Driving after taking illegal drugs.",
+   "def_vi": "Lái xe sau khi dùng ma túy.",
+   "gloss_vi": "lái xe khi dùng ma túy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Drug-driving</i> (noun) = lái xe khi dùng ma túy. <b>Grammar</b>: danh từ ghép <i>drug</i> + <i>driving</i>.",
+   "example": {
+    "en": "drink-driving or <b>drug-driving</b> can result in a heavy fine or imprisonment",
+    "vi": "<b>Lái xe khi dùng ma túy</b> có thể bị phạt tù."
+   }
+  },
+  {
+   "word": "breathalyser",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbreθəlaɪzə(r)/",
+   "def_en": "An instrument you breathe into to measure alcohol level.",
+   "def_vi": "Máy thổi đo nồng độ cồn.",
+   "gloss_vi": "máy đo nồng độ cồn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Breathalyser</i> (noun) = máy đo nồng độ cồn. <b>Grammar</b>: Mỹ <i>breathalyzer</i>.",
+   "example": {
+    "en": "Drivers may be asked by a police officer to take a <b>breathalyser</b> test.",
+    "vi": "Tài xế có thể phải thổi <b>máy đo nồng độ cồn</b>."
+   }
+  },
+  {
+   "word": "hit-and-run",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌhɪt ən ˈrʌn/",
+   "def_en": "(Of an accident) where a driver hits someone and does not stop.",
+   "def_vi": "(Tai nạn) đâm người rồi bỏ chạy.",
+   "gloss_vi": "gây tai nạn rồi bỏ chạy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hit-and-run</i> (adjective) = gây tai nạn rồi bỏ chạy. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "<b>Hit-and-run</b> accidents are almost always considered to be grave offences.",
+    "vi": "Tai nạn <b>gây rồi bỏ chạy</b> luôn bị coi là tội nghiêm trọng."
+   }
+  },
+  {
+   "word": "ban",
+   "sense": "licence",
+   "pos": "noun",
+   "ipa": "/bæn/",
+   "def_en": "The removal of your driving licence.",
+   "def_vi": "Tước bằng lái.",
+   "gloss_vi": "lệnh tước bằng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ban</i> (noun) = lệnh tước bằng. <b>Collocations / chunks</b>: <i>a driving ban</i>.",
+   "example": {
+    "en": "may result in a <b>ban</b> for several years",
+    "vi": "Có thể bị <b>tước bằng</b> nhiều năm."
+   }
+  },
+  {
+   "word": "penalty points",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpenəlti pɔɪnts/",
+   "def_en": "Negative points added up over time that can result in the loss of your licence.",
+   "def_vi": "Điểm phạt cộng dồn có thể dẫn đến mất bằng.",
+   "gloss_vi": "điểm phạt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Penalty points</i> (noun) = điểm phạt. <b>Grammar</b>: số nhiều.",
+   "example": {
+    "en": "Less serious breaches may lead to <b>penalty points</b> on the driver’s licence.",
+    "vi": "Vi phạm nhẹ có thể bị ghi <b>điểm phạt</b> vào bằng lái."
+   }
+  },
+  {
+   "word": "on-the-spot",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɒn ðə ˈspɒt/",
+   "def_en": "Given at the scene of the offence.",
+   "def_vi": "Áp dụng ngay tại chỗ vi phạm.",
+   "gloss_vi": "tại chỗ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>On-the-spot</i> (adjective) = tại chỗ. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "In many countries, <b>on-the-spot</b> fines may be issued for careless driving.",
+    "vi": "Có thể bị phạt <b>tại chỗ</b> khi lái ẩu."
+   }
+  },
+  {
+   "word": "exhaust emissions",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪɡˈzɔːst ɪˌmɪʃnz/",
+   "def_en": "Waste gases produced by a vehicle.",
+   "def_vi": "Khí thải của xe.",
+   "gloss_vi": "khí thải",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Exhaust emissions</i> (noun) = khí thải. <b>Collocations / chunks</b>: cụm danh từ cố định <i>exhaust emissions</i>.",
+   "example": {
+    "en": "In the European Union, <b>exhaust emissions</b> must meet certain standards.",
+    "vi": "<b>Khí thải</b> phải đạt tiêu chuẩn nhất định."
+   }
+  },
+  {
+   "word": "roadworthy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈrəʊdwɜːði/",
+   "def_en": "In a condition to be driven safely.",
+   "def_vi": "Đủ điều kiện chạy an toàn.",
+   "gloss_vi": "đủ điều kiện lưu thông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Roadworthy</i> (adjective) = đủ điều kiện lưu thông. <b>Grammar</b>: <i>-worthy</i> = đủ điều kiện.",
+   "example": {
+    "en": "The car must be <b>roadworthy</b>.",
+    "vi": "Xe phải <b>đủ điều kiện lưu thông</b>."
+   }
+  },
+  {
+   "word": "tyre tread",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtaɪə tred/",
+   "def_en": "The depth of the grooves in the tyre rubber.",
+   "def_vi": "Độ sâu rãnh trên lốp.",
+   "gloss_vi": "gai lốp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tyre tread</i> (noun) = gai lốp. <b>Grammar</b>: Mỹ <i>tire</i>.",
+   "example": {
+    "en": "a minimum depth of <b>tyre tread</b>",
+    "vi": "Phải có độ sâu <b>gai lốp</b> tối thiểu."
+   }
+  },
+  {
+   "word": "bald",
+   "sense": "tyre",
+   "pos": "adjective",
+   "ipa": "/bɔːld/",
+   "def_en": "(Of a tyre) having lost its tread.",
+   "def_vi": "(Lốp) đã mòn hết gai.",
+   "gloss_vi": "mòn trọc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bald</i> (adjective) = mòn trọc. <b>Common mistakes</b>: nghĩa gốc = hói.",
+   "example": {
+    "en": "Driving with a <b>bald</b> tyre is against the law.",
+    "vi": "Lái xe với lốp <b>mòn trọc</b> là phạm luật."
+   }
+  },
+  {
+   "word": "tailback",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈteɪlbæk/",
+   "def_en": "A line of slow or stopped traffic.",
+   "def_vi": "Dòng xe chậm hay đứng yên.",
+   "gloss_vi": "dòng xe ùn dài",
+   "synonyms": "queue <i>(n. hàng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tailback</i> (noun) = dòng xe ùn dài. <b>Grammar</b>: Anh-Anh.",
+   "example": {
+    "en": "It was the rush hour, and there was a long <b>tailback</b>.",
+    "vi": "Giờ cao điểm có <b>dòng xe ùn dài</b>."
+   }
+  },
+  {
+   "word": "congestion",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kənˈdʒestʃən/",
+   "def_en": "A situation in which there is a lot of traffic that can’t move.",
+   "def_vi": "Tình trạng nhiều xe không di chuyển được.",
+   "gloss_vi": "tắc nghẽn",
+   "synonyms": "traffic jam <i>(n. kẹt xe)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Congestion</i> (noun) = tắc nghẽn. <b>Collocations / chunks</b>: <i>congestion charge</i> = phí vào trung tâm.",
+   "example": {
+    "en": "There’s always <b>congestion</b> in the city centre.",
+    "vi": "Trung tâm thành phố luôn <b>tắc nghẽn</b>."
+   }
+  },
+  {
+   "word": "toll",
+   "sense": "charge",
+   "pos": "noun",
+   "ipa": "/təʊl/",
+   "def_en": "A charge you have to pay to use a road.",
+   "def_vi": "Phí phải trả để đi đường.",
+   "gloss_vi": "phí cầu đường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Toll</i> (noun) = phí cầu đường. <b>Common mistakes</b>: cũng = số thương vong (<i>death toll</i>).",
+   "example": {
+    "en": "You have to pay a <b>toll</b> on the new motorway.",
+    "vi": "Bạn phải trả <b>phí</b> trên đường cao tốc mới."
+   }
+  },
+  {
+   "word": "pile-up",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpaɪl ʌp/",
+   "def_en": "A crash between several or many cars.",
+   "def_vi": "Va chạm của nhiều xe.",
+   "gloss_vi": "tai nạn liên hoàn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pile-up</i> (noun) = tai nạn liên hoàn. <b>Grammar</b>: danh từ ghép <i>pile</i> + <i>up</i>.",
+   "example": {
+    "en": "There was a <b>pile-up</b> involving ten cars, because of the fog.",
+    "vi": "Có <b>tai nạn liên hoàn</b> mười xe vì sương mù."
+   }
+  },
+  {
+   "word": "divert",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/daɪˈvɜːt/",
+   "def_en": "To direct traffic away from its usual road.",
+   "def_vi": "Chuyển xe khỏi đường thường đi.",
+   "gloss_vi": "chuyển hướng",
+   "synonyms": "redirect <i>(v. đổi hướng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Divert</i> (verb) = chuyển hướng. <b>Grammar</b>: <i>diversion</i> (n.).",
+   "example": {
+    "en": "We were <b>diverted</b> onto a narrow country lane.",
+    "vi": "Chúng tôi bị <b>chuyển hướng</b> sang đường làng hẹp."
+   }
+  },
+  {
+   "word": "disruption",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪsˈrʌpʃn/",
+   "def_en": "When a system or event is prevented from continuing as usual.",
+   "def_vi": "Khi hệ thống, sự việc bị cản trở.",
+   "gloss_vi": "sự gián đoạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Disruption</i> (noun) = sự gián đoạn. <b>Grammar</b>: <i>disrupt</i> (v.).",
+   "example": {
+    "en": "Overnight snow caused <b>disruption</b> this morning on many roads.",
+    "vi": "Tuyết gây <b>gián đoạn</b> trên nhiều tuyến đường."
+   }
+  },
+  {
+   "word": "tow-away zone",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtəʊ əweɪ zəʊn/",
+   "def_en": "An area where your car may be taken away if you park illegally.",
+   "def_vi": "Khu xe đỗ sai có thể bị kéo đi.",
+   "gloss_vi": "khu cấm đỗ (bị kéo xe)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tow-away zone</i> (noun) = khu cấm đỗ (bị kéo xe). <b>Collocations / chunks</b>: cụm danh từ cố định <i>tow-away zone</i>.",
+   "example": {
+    "en": "I had stupidly parked in a <b>tow-away zone</b> and came back to find my car had gone!",
+    "vi": "Tôi lỡ đỗ ở <b>khu bị kéo xe</b> và quay lại thì xe mất."
+   }
+  },
+  {
+   "word": "clamp",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/klæmp/",
+   "def_en": "To fit a metal device on a car wheel to prevent it from moving.",
+   "def_vi": "Gắn khóa kim loại vào bánh xe.",
+   "gloss_vi": "khóa bánh xe",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Clamp</i> (verb) = khóa bánh xe. <b>Grammar</b>: thường bị động.",
+   "example": {
+    "en": "When I came out my car had been <b>clamped</b>.",
+    "vi": "Khi ra, xe tôi đã bị <b>khóa bánh</b>."
+   }
+  },
+  {
+   "word": "road rage",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈrəʊd reɪdʒ/",
+   "def_en": "Anger or violence between drivers because of difficult driving conditions.",
+   "def_vi": "Giận dữ, bạo lực giữa tài xế.",
+   "gloss_vi": "cơn giận trên đường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Road rage</i> (noun) = cơn giận trên đường. <b>Collocations / chunks</b>: cụm danh từ cố định <i>road rage</i>.",
+   "example": {
+    "en": "I think it was a case of <b>road rage</b>.",
+    "vi": "Tôi nghĩ đó là một vụ <b>nổi điên trên đường</b>."
+   }
+  },
+  {
+   "word": "skid",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/skɪd/",
+   "def_en": "To lose control so that the car slides across the road.",
+   "def_vi": "Mất lái, xe trượt trên đường.",
+   "gloss_vi": "trượt bánh",
+   "synonyms": "slide <i>(v. trượt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Skid</i> (verb) = trượt bánh. <b>Grammar</b>: skidded.",
+   "example": {
+    "en": "The road was wet and I <b>skidded</b> on a bend and almost crashed.",
+    "vi": "Tôi <b>trượt bánh</b> ở khúc cua và suýt đâm."
+   }
+  },
+  {
+   "word": "head-on collision",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌhed ɒn kəˈlɪʒn/",
+   "def_en": "Two vehicles hitting each other directly in the front.",
+   "def_vi": "Hai xe đâm trực diện.",
+   "gloss_vi": "vụ đâm trực diện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Head-on collision</i> (noun) = vụ đâm trực diện. <b>Collocations / chunks</b>: cụm danh từ cố định <i>head-on collision</i>.",
+   "example": {
+    "en": "There was a <b>head-on collision</b> on the main road last night.",
+    "vi": "Có <b>vụ đâm trực diện</b> trên đường chính tối qua."
+   }
+  }
+ ]
+}

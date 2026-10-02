@@ -1,0 +1,536 @@
+{
+ "book": "adv",
+ "unit": 26,
+ "title_vi": "Du lịch và chỗ ở",
+ "theory_html": "<p><b>A. Booking travel and holidays</b><br><i>A. Đặt chuyến đi và kỳ nghỉ</i></p> <p>By air: <b>first, business or economy class; route (via); airline (low-cost/budget, national carrier); package / all-inclusive holiday; flight only; extras; scheduled flight vs charter flight; restrictions, value for money, non-refundable, cancellation fee, stopover, transfers, shuttle bus</b>. By sea: <b>ferry, crossing, go on a cruise, holiday of a lifetime, berth, shared cabin, deluxe, upper deck, exotic, get away from it all</b>. By train: <b>carriage, change trains, through/direct train</b>. Car hire: <b>getting around, unlimited mileage, extras, come and go as you please</b>.</p><p><i>Đường hàng không, đường biển, tàu hỏa và thuê xe: các lựa chọn khi đặt chuyến.</i></p> <p><b>B. Accommodation when travelling</b><br><i>B. Chỗ ở khi đi du lịch</i></p> <p><b>camping, self-catering, chalet, guest house, inn, half board, full board</b>.</p><p><i><b>cắm trại, tự nấu ăn, nhà gỗ nghỉ dưỡng, nhà khách, quán trọ, bao hai bữa, bao trọn bữa</b>.</i></p>",
+ "items": [
+  {
+   "word": "low-cost airline",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌləʊ kɒst ˈeəlaɪn/",
+   "def_en": "A cheap airline offering few extra services.",
+   "def_vi": "Hãng bay giá rẻ, ít dịch vụ thêm.",
+   "gloss_vi": "hãng bay giá rẻ",
+   "synonyms": "budget airline <i>(n. hãng giá rẻ)</i>",
+   "antonyms": "national carrier <i>(n. hãng quốc gia)</i>",
+   "grammar_vi": "<i>Low-cost airline</i> (noun) = hãng bay giá rẻ. <b>Grammar</b>: cũng <i>budget airline</i>.",
+   "example": {
+    "en": "airline (e.g. <b>low-cost</b>/budget such as easyJet)",
+    "vi": "Hãng <b>giá rẻ</b> như easyJet."
+   }
+  },
+  {
+   "word": "national carrier",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌnæʃnəl ˈkæriə(r)/",
+   "def_en": "The main airline of a country.",
+   "def_vi": "Hãng bay chính của một nước.",
+   "gloss_vi": "hãng hàng không quốc gia",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>National carrier</i> (noun) = hãng hàng không quốc gia. <b>Collocations / chunks</b>: cụm danh từ cố định <i>national carrier</i>.",
+   "example": {
+    "en": "or <b>national carrier</b> such as Emirates",
+    "vi": "<b>Hãng hàng không quốc gia</b> như Emirates."
+   }
+  },
+  {
+   "word": "scheduled flight",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌʃedjuːld ˈflaɪt/",
+   "def_en": "A normal, regular flight.",
+   "def_vi": "Chuyến bay thường lệ.",
+   "gloss_vi": "chuyến bay thường lệ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "charter flight <i>(n. chuyến bay thuê)</i>",
+   "grammar_vi": "<i>Scheduled flight</i> (noun) = chuyến bay thường lệ. <b>Collocations / chunks</b>: cụm danh từ cố định <i>scheduled flight</i>.",
+   "example": {
+    "en": "A <b>scheduled flight</b> is a normal, regular flight.",
+    "vi": "<b>Chuyến bay thường lệ</b> là chuyến bình thường, định kỳ."
+   }
+  },
+  {
+   "word": "charter flight",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtʃɑːtə flaɪt/",
+   "def_en": "A special flight taking a group of people to the same destination.",
+   "def_vi": "Chuyến bay đặc biệt chở một nhóm đến cùng điểm.",
+   "gloss_vi": "chuyến bay thuê chuyến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "scheduled flight <i>(n. chuyến thường lệ)</i>",
+   "grammar_vi": "<i>Charter flight</i> (noun) = chuyến bay thuê chuyến. <b>Collocations / chunks</b>: cụm danh từ cố định <i>charter flight</i>.",
+   "example": {
+    "en": "A <b>charter flight</b> is a special flight taking a group of people, usually to the same holiday destination.",
+    "vi": "<b>Chuyến bay thuê chuyến</b> chở một nhóm người đến cùng điểm nghỉ."
+   }
+  },
+  {
+   "word": "restrictions",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˈstrɪkʃnz/",
+   "def_en": "Limits on how a ticket can be used.",
+   "def_vi": "Giới hạn sử dụng vé.",
+   "gloss_vi": "điều kiện hạn chế",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Restrictions</i> (noun) = điều kiện hạn chế. <b>Grammar</b>: số nhiều.",
+   "example": {
+    "en": "Some airline tickets may have <b>restrictions</b>.",
+    "vi": "Một số vé có <b>điều kiện hạn chế</b>."
+   }
+  },
+  {
+   "word": "value for money",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌvæljuː fə ˈmʌni/",
+   "def_en": "Good quality for the price paid.",
+   "def_vi": "Chất lượng tốt so với giá.",
+   "gloss_vi": "đáng đồng tiền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Value for money</i> (noun) = đáng đồng tiền. <b>Collocations / chunks</b>: cụm danh từ cố định <i>value for money</i>.",
+   "example": {
+    "en": "Such tickets can offer good <b>value for money</b>.",
+    "vi": "Những vé đó có thể rất <b>đáng đồng tiền</b>."
+   }
+  },
+  {
+   "word": "non-refundable",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌnɒn rɪˈfʌndəbl/",
+   "def_en": "(Of a ticket) you can’t get your money back.",
+   "def_vi": "(Vé) không được hoàn tiền.",
+   "gloss_vi": "không hoàn tiền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "refundable <i>(adj. hoàn tiền được)</i>",
+   "grammar_vi": "<i>Non-refundable</i> (adjective) = không hoàn tiền. <b>Grammar</b>: <i>non-</i> + <i>refundable</i>.",
+   "example": {
+    "en": "If you cancel, they are <b>non-refundable</b>.",
+    "vi": "Nếu hủy, vé <b>không hoàn tiền</b>."
+   }
+  },
+  {
+   "word": "cancellation fee",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkænsəˈleɪʃn fiː/",
+   "def_en": "Money you pay if you cancel a booking.",
+   "def_vi": "Tiền trả khi hủy đặt chỗ.",
+   "gloss_vi": "phí hủy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cancellation fee</i> (noun) = phí hủy. <b>Collocations / chunks</b>: cụm danh từ cố định <i>cancellation fee</i>.",
+   "example": {
+    "en": "You may have to pay a <b>cancellation fee</b>.",
+    "vi": "Bạn có thể phải trả <b>phí hủy</b>."
+   }
+  },
+  {
+   "word": "stopover",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈstɒpəʊvə(r)/",
+   "def_en": "A stay somewhere overnight before continuing to your destination.",
+   "def_vi": "Dừng nghỉ qua đêm trước khi đi tiếp.",
+   "gloss_vi": "điểm dừng chân",
+   "synonyms": "layover <i>(n. quá cảnh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stopover</i> (noun) = điểm dừng chân. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "Some tickets allow a <b>stopover</b>.",
+    "vi": "Một số vé cho phép <b>dừng chân</b>."
+   }
+  },
+  {
+   "word": "transfers",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtrænsfɜːz/",
+   "def_en": "Transport to and from your hotel.",
+   "def_vi": "Phương tiện đưa đón khách sạn.",
+   "gloss_vi": "đưa đón",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Transfers</i> (noun) = đưa đón. <b>Grammar</b>: danh từ /ˈtrænsfɜː/.",
+   "example": {
+    "en": "A package holiday normally includes accommodation and <b>transfers</b>.",
+    "vi": "Kỳ nghỉ trọn gói gồm chỗ ở và <b>đưa đón</b>."
+   }
+  },
+  {
+   "word": "shuttle bus",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈʃʌtl bʌs/",
+   "def_en": "A bus going regularly between two places.",
+   "def_vi": "Xe buýt chạy qua lại thường xuyên.",
+   "gloss_vi": "xe buýt đưa đón",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shuttle bus</i> (noun) = xe buýt đưa đón. <b>Collocations / chunks</b>: cụm danh từ cố định <i>shuttle bus</i>.",
+   "example": {
+    "en": "e.g. a coach or a <b>shuttle bus</b> to and from your hotel",
+    "vi": "Xe khách hay <b>xe buýt đưa đón</b> đến khách sạn."
+   }
+  },
+  {
+   "word": "all-inclusive",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɔːl ɪnˈkluːsɪv/",
+   "def_en": "Including flight, accommodation and all meals, drinks and snacks.",
+   "def_vi": "Gồm vé bay, chỗ ở, mọi bữa ăn và đồ uống.",
+   "gloss_vi": "trọn gói",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>All-inclusive</i> (adjective) = trọn gói. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "An <b>all-inclusive</b> holiday includes your flight, accommodation and all meals, drinks and snacks.",
+    "vi": "Kỳ nghỉ <b>trọn gói</b> gồm vé bay, chỗ ở và mọi bữa ăn."
+   }
+  },
+  {
+   "word": "ferry",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈferi/",
+   "def_en": "A boat carrying people and vehicles across water.",
+   "def_vi": "Tàu chở người và xe qua sông, biển.",
+   "gloss_vi": "phà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ferry</i> (noun) = phà. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "Sea travel is normally on a <b>ferry</b>.",
+    "vi": "Đi biển thường bằng <b>phà</b>."
+   }
+  },
+  {
+   "word": "crossing",
+   "sense": "sea",
+   "pos": "noun",
+   "ipa": "/ˈkrɒsɪŋ/",
+   "def_en": "A journey across the sea.",
+   "def_vi": "Chuyến vượt biển.",
+   "gloss_vi": "chuyến vượt biển",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Crossing</i> (noun) = chuyến vượt biển. <b>Grammar</b>: <i>a rough crossing</i>.",
+   "example": {
+    "en": "The journey is called a <b>crossing</b>.",
+    "vi": "Chuyến đi gọi là <b>chuyến vượt biển</b>."
+   }
+  },
+  {
+   "word": "go on a cruise",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡəʊ ɒn ə ˈkruːz/",
+   "def_en": "To take a holiday on a ship.",
+   "def_vi": "Đi nghỉ trên du thuyền.",
+   "gloss_vi": "đi du thuyền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go on a cruise</i> (verb) = đi du thuyền. <b>Grammar</b>: động từ nhiều từ <i>go on a cruise</i>.",
+   "example": {
+    "en": "You can have a holiday on the sea if you <b>go on a cruise</b>.",
+    "vi": "Bạn có thể nghỉ trên biển nếu <b>đi du thuyền</b>."
+   }
+  },
+  {
+   "word": "holiday of a lifetime",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌhɒlədeɪ əv ə ˈlaɪftaɪm/",
+   "def_en": "A holiday you will always remember.",
+   "def_vi": "Kỳ nghỉ sẽ nhớ mãi.",
+   "gloss_vi": "kỳ nghỉ để đời",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Holiday of a lifetime</i> (noun) = kỳ nghỉ để đời. <b>Collocations / chunks</b>: cụm danh từ cố định <i>holiday of a lifetime</i>.",
+   "example": {
+    "en": "For some people, a luxury cruise is the <b>holiday of a lifetime</b>.",
+    "vi": "Với nhiều người, du thuyền sang trọng là <b>kỳ nghỉ để đời</b>."
+   }
+  },
+  {
+   "word": "berth",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bɜːθ/",
+   "def_en": "A bed on a ship or train.",
+   "def_vi": "Giường trên tàu.",
+   "gloss_vi": "giường tàu",
+   "synonyms": "bunk <i>(n. giường tầng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Berth</i> (noun) = giường tàu. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "You may decide to book a <b>berth</b> in a shared cabin.",
+    "vi": "Bạn có thể đặt một <b>giường</b> trong cabin chung."
+   }
+  },
+  {
+   "word": "deluxe",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dɪˈlʌks/",
+   "def_en": "Of very high quality and luxury.",
+   "def_vi": "Chất lượng cao, sang trọng.",
+   "gloss_vi": "hạng sang",
+   "synonyms": "luxury <i>(adj. sang trọng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Deluxe</i> (adjective) = hạng sang. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "For more money, you can often get a <b>deluxe</b> cabin.",
+    "vi": "Trả thêm tiền để có cabin <b>hạng sang</b>."
+   }
+  },
+  {
+   "word": "upper deck",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌʌpə ˈdek/",
+   "def_en": "The higher part of a ship, often bigger and more comfortable.",
+   "def_vi": "Phần trên của tàu, thường rộng và thoải mái.",
+   "gloss_vi": "boong trên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "lower deck <i>(n. boong dưới)</i>",
+   "grammar_vi": "<i>Upper deck</i> (noun) = boong trên. <b>Collocations / chunks</b>: cụm danh từ cố định <i>upper deck</i>.",
+   "example": {
+    "en": "perhaps on the <b>upper deck</b>",
+    "vi": "Có lẽ ở <b>boong trên</b>."
+   }
+  },
+  {
+   "word": "exotic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪɡˈzɒtɪk/",
+   "def_en": "Unusual or exciting, often from a distant country.",
+   "def_vi": "Lạ, thú vị, thường ở xứ xa.",
+   "gloss_vi": "kỳ thú, ngoại lai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Exotic</i> (adjective) = kỳ thú, ngoại lai. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "Cruises often go to <b>exotic</b> islands.",
+    "vi": "Du thuyền thường đến các hòn đảo <b>kỳ thú</b>."
+   }
+  },
+  {
+   "word": "get away from it all",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡet əˌweɪ frəm ɪt ˈɔːl/",
+   "def_en": "To escape your daily life and routines.",
+   "def_vi": "Thoát khỏi cuộc sống thường ngày.",
+   "gloss_vi": "thoát khỏi bộn bề",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get away from it all</i> (verb) = thoát khỏi bộn bề. <b>Grammar</b>: động từ nhiều từ <i>get away from it all</i>.",
+   "example": {
+    "en": "islands where you can <b>get away from it all</b>",
+    "vi": "Những hòn đảo nơi bạn có thể <b>thoát khỏi bộn bề</b>."
+   }
+  },
+  {
+   "word": "carriage",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkærɪdʒ/",
+   "def_en": "A section of a train for passengers.",
+   "def_vi": "Toa chở khách của tàu.",
+   "gloss_vi": "toa tàu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Carriage</i> (noun) = toa tàu. <b>Grammar</b>: Mỹ <i>car</i>.",
+   "example": {
+    "en": "look at the countryside through the windows of your <b>carriage</b>",
+    "vi": "Ngắm cảnh qua cửa sổ <b>toa tàu</b>."
+   }
+  },
+  {
+   "word": "change trains",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌtʃeɪndʒ ˈtreɪnz/",
+   "def_en": "To get off one train and on to another.",
+   "def_vi": "Xuống tàu này lên tàu khác.",
+   "gloss_vi": "đổi tàu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Change trains</i> (verb) = đổi tàu. <b>Grammar</b>: <i>trains</i> số nhiều.",
+   "example": {
+    "en": "You may have to <b>change trains</b>.",
+    "vi": "Bạn có thể phải <b>đổi tàu</b>."
+   }
+  },
+  {
+   "word": "through train",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈθruː treɪn/",
+   "def_en": "A train that takes you directly to your destination.",
+   "def_vi": "Tàu chạy thẳng đến nơi.",
+   "gloss_vi": "tàu chạy thẳng",
+   "synonyms": "direct train <i>(n. tàu thẳng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Through train</i> (noun) = tàu chạy thẳng. <b>Collocations / chunks</b>: cụm danh từ cố định <i>through train</i>.",
+   "example": {
+    "en": "if you are not able to get a <b>through train</b>",
+    "vi": "Nếu không bắt được <b>tàu chạy thẳng</b>."
+   }
+  },
+  {
+   "word": "get around",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡet əˈraʊnd/",
+   "def_en": "To travel to different places (informal).",
+   "def_vi": "Đi lại nhiều nơi (thân mật).",
+   "gloss_vi": "đi lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get around</i> (verb) = đi lại. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "Car hire is another way of <b>getting around</b>.",
+    "vi": "Thuê xe là cách khác để <b>đi lại</b>."
+   }
+  },
+  {
+   "word": "unlimited mileage",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ʌnˌlɪmɪtɪd ˈmaɪlɪdʒ/",
+   "def_en": "Being able to travel as many miles as you like for the same price.",
+   "def_vi": "Đi bao nhiêu dặm cũng cùng giá.",
+   "gloss_vi": "không giới hạn số dặm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Unlimited mileage</i> (noun) = không giới hạn số dặm. <b>Grammar</b>: <i>mileage</i> /ˈmaɪlɪdʒ/.",
+   "example": {
+    "en": "You may have to choose whether you want <b>unlimited mileage</b>.",
+    "vi": "Bạn có thể chọn <b>không giới hạn số dặm</b>."
+   }
+  },
+  {
+   "word": "come and go as you please",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkʌm ən ˌɡəʊ əz ju ˈpliːz/",
+   "def_en": "To go where you want when you want.",
+   "def_vi": "Đi đâu khi nào tùy thích.",
+   "gloss_vi": "tự do đi lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Come and go as you please</i> (verb) = tự do đi lại. <b>Grammar</b>: động từ nhiều từ <i>come and go as you please</i>.",
+   "example": {
+    "en": "It gives you the freedom to <b>come and go as you please</b>.",
+    "vi": "Thuê xe cho bạn tự do <b>đi lại tùy thích</b>."
+   }
+  },
+  {
+   "word": "self-catering",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌself ˈkeɪtərɪŋ/",
+   "def_en": "Where you do your own cooking.",
+   "def_vi": "Tự nấu ăn.",
+   "gloss_vi": "tự nấu ăn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Self-catering</i> (adjective) = tự nấu ăn. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "You can have a <b>self-catering</b> holiday.",
+    "vi": "Có thể chọn kỳ nghỉ <b>tự nấu ăn</b>."
+   }
+  },
+  {
+   "word": "chalet",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈʃæleɪ/",
+   "def_en": "A small cottage or cabin built for holiday-makers.",
+   "def_vi": "Nhà gỗ nhỏ cho khách nghỉ.",
+   "gloss_vi": "nhà gỗ nghỉ dưỡng",
+   "synonyms": "cabin <i>(n. nhà gỗ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chalet</i> (noun) = nhà gỗ nghỉ dưỡng. <b>Grammar</b>: /ˈʃæleɪ/.",
+   "example": {
+    "en": "such as staying in an apartment or <b>chalet</b>",
+    "vi": "Ở trong căn hộ hay <b>nhà gỗ</b>."
+   }
+  },
+  {
+   "word": "guest house",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡest haʊs/",
+   "def_en": "A small, relatively cheap hotel.",
+   "def_vi": "Khách sạn nhỏ, khá rẻ.",
+   "gloss_vi": "nhà khách",
+   "synonyms": "B&B <i>(n. nhà nghỉ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Guest house</i> (noun) = nhà khách. <b>Collocations / chunks</b>: cụm danh từ cố định <i>guest house</i>.",
+   "example": {
+    "en": "You can also choose to stay in a <b>guest house</b> or an inn.",
+    "vi": "Bạn có thể ở <b>nhà khách</b>."
+   }
+  },
+  {
+   "word": "inn",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪn/",
+   "def_en": "A pub that also offers accommodation.",
+   "def_vi": "Quán rượu có phòng trọ.",
+   "gloss_vi": "quán trọ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Inn</i> (noun) = quán trọ. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "You can also choose to stay in a guest house or an <b>inn</b>.",
+    "vi": "Bạn có thể ở nhà khách hay <b>quán trọ</b>."
+   }
+  },
+  {
+   "word": "half board",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌhɑːf ˈbɔːd/",
+   "def_en": "Accommodation with breakfast and one other meal.",
+   "def_vi": "Chỗ ở kèm bữa sáng và một bữa khác.",
+   "gloss_vi": "bao hai bữa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "full board <i>(n. bao trọn bữa)</i>",
+   "grammar_vi": "<i>Half board</i> (noun) = bao hai bữa. <b>Collocations / chunks</b>: cụm danh từ cố định <i>half board</i>.",
+   "example": {
+    "en": "Some types of accommodation offer <b>half board</b> or full board.",
+    "vi": "Một số nơi có <b>bao hai bữa</b>."
+   }
+  },
+  {
+   "word": "full board",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌfʊl ˈbɔːd/",
+   "def_en": "Accommodation with all meals.",
+   "def_vi": "Chỗ ở kèm mọi bữa.",
+   "gloss_vi": "bao trọn bữa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "half board <i>(n. bao hai bữa)</i>",
+   "grammar_vi": "<i>Full board</i> (noun) = bao trọn bữa. <b>Collocations / chunks</b>: cụm danh từ cố định <i>full board</i>.",
+   "example": {
+    "en": "Some types of accommodation offer half board or <b>full board</b>.",
+    "vi": "Một số nơi có bao hai bữa hoặc <b>bao trọn bữa</b>."
+   }
+  }
+ ]
+}
