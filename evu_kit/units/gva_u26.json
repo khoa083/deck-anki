@@ -1,0 +1,645 @@
+{
+ "book": "gva",
+ "unit": 26,
+ "title_vi": "Thành phố",
+ "theory_html": "<p><b>V1. Language chunks</b><br><i>V1. Các cụm ngôn ngữ</i></p> <p>COLLOCATIONS = words frequently used together (<b>densely populated, leafy suburbs, open spaces, violent crime</b>); COMPOUND NOUNS = nouns made of two or more words (<b>tourist attraction, skyscraper, cost of living</b>); DEPENDENT PREPOSITIONS (<b>steeped in history, plagued by crime</b>); PHRASAL VERBS (<b>break down, get around, look forward to</b>); IDIOMS (<b>go to town on something, hit the road, cut and dried</b>).</p><p><i>Kết hợp từ, danh từ ghép, giới từ đi kèm, cụm động từ, thành ngữ.</i></p> <p><b>V2. Adjectives as noun suffixes</b><br><i>V2. Tính từ làm hậu tố</i></p> <p><b>-free</b> = without an undesirable thing (<b>fat-free</b>); <b>-friendly</b> = suitable for or welcoming of (<b>child-friendly</b>); <b>-mad</b> = liking or doing something obsessively (<b>football-mad</b>). The noun in these phrases is singular.</p><p><i><b>-free</b> (không có), <b>-friendly</b> (thân thiện với), <b>-mad</b> (mê); danh từ ở số ít.</i></p> <p><b>V3. people / persons</b><br><i>V3. people / persons</i></p> <p><b>people</b> is the usual plural of <b>person</b>; <b>persons</b> is rare in speech but used in formal contexts (<b>by person or persons unknown</b>).</p><p><i>Số nhiều thường dùng <b>people</b>; <b>persons</b> chỉ trong ngữ cảnh trang trọng.</i></p>",
+ "items": [
+  {
+   "word": "commercial centre",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəˈmɜːʃl ˈsentə(r)/",
+   "def_en": "A city or area that is important for trade and business.",
+   "def_vi": "Trung tâm thương mại (thành phố quan trọng về kinh doanh).",
+   "gloss_vi": "trung tâm thương mại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Commercial centre</i> (noun) = trung tâm thương mại. <b>Collocations / chunks</b>: an important ~.",
+   "ex_kit": true,
+   "example": {
+    "en": "The city is <b>an important commercial centre</b>.",
+    "vi": "Thành phố là <b>một trung tâm thương mại quan trọng</b>."
+   }
+  },
+  {
+   "word": "vibrant",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈvaɪbrənt/",
+   "def_en": "Full of energy and activity.",
+   "def_vi": "Sôi động, đầy sức sống.",
+   "gloss_vi": "sôi động",
+   "synonyms": "lively <i>(adj. sôi nổi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Vibrant</i> (adjective) = sôi động. <b>Collocations / chunks</b>: a ~ cultural centre.",
+   "ex_kit": true,
+   "example": {
+    "en": "It's <b>a vibrant cultural centre</b>.",
+    "vi": "Đó là <b>một trung tâm văn hóa sôi động</b>."
+   }
+  },
+  {
+   "word": "tourist attraction",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtʊərɪst əˌtrækʃn/",
+   "def_en": "A place that people visit for pleasure and interest.",
+   "def_vi": "Điểm thu hút khách du lịch.",
+   "gloss_vi": "điểm du lịch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tourist attraction</i> (noun) = điểm du lịch. <b>Collocations / chunks</b>: a major ~; danh từ ghép.",
+   "example": {
+    "en": "The Eiffel Tower is one of the most popular <b>tourist attractions</b> in the world.",
+    "vi": "Tháp Eiffel là một trong những <b>điểm du lịch</b> nổi tiếng nhất thế giới."
+   }
+  },
+  {
+   "word": "sprawling",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsprɔːlɪŋ/",
+   "def_en": "Spreading out over a large area in an untidy way.",
+   "def_vi": "Trải rộng lộn xộn.",
+   "gloss_vi": "trải rộng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sprawling</i> (adjective) = trải rộng. <b>Collocations / chunks</b>: a ~ metropolis.",
+   "ex_kit": true,
+   "example": {
+    "en": "It's <b>a sprawling metropolis</b>.",
+    "vi": "Đó là <b>một đô thị khổng lồ trải rộng</b>."
+   }
+  },
+  {
+   "word": "metropolis",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/məˈtrɒpəlɪs/",
+   "def_en": "A very large and busy city.",
+   "def_vi": "Đô thị lớn.",
+   "gloss_vi": "đô thị lớn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Metropolis</i> (noun) = đô thị lớn. <b>Grammar</b>: danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "It's a sprawling <b>metropolis</b>.",
+    "vi": "Đó là <b>một đô thị khổng lồ trải rộng</b>."
+   }
+  },
+  {
+   "word": "gridlocked",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɡrɪdlɒkt/",
+   "def_en": "So full of traffic that vehicles cannot move.",
+   "def_vi": "Tắc nghẽn hoàn toàn.",
+   "gloss_vi": "tắc cứng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gridlocked</i> (adjective) = tắc cứng. <b>Collocations / chunks</b>: ~ rush-hour traffic.",
+   "ex_kit": true,
+   "example": {
+    "en": "The city has <b>gridlocked rush-hour traffic</b>.",
+    "vi": "Thành phố có <b>giao thông giờ cao điểm tắc cứng</b>."
+   }
+  },
+  {
+   "word": "open spaces",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈəʊpən ˈspeɪsɪz/",
+   "def_en": "Areas of land without buildings, such as parks, that people can use.",
+   "def_vi": "Không gian mở (công viên, bãi cỏ).",
+   "gloss_vi": "không gian mở",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Open spaces</i> (noun) = không gian mở. <b>Collocations / chunks</b>: accessible ~.",
+   "ex_kit": true,
+   "example": {
+    "en": "The city has plenty of <b>accessible open spaces</b>.",
+    "vi": "Thành phố có nhiều <b>không gian mở dễ tiếp cận</b>."
+   }
+  },
+  {
+   "word": "run-down",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌrʌn ˈdaʊn/",
+   "def_en": "In bad condition because of lack of care or money.",
+   "def_vi": "Xuống cấp, tồi tàn.",
+   "gloss_vi": "xuống cấp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Run-down</i> (adjective) = xuống cấp. <b>Collocations / chunks</b>: ~ estates.",
+   "ex_kit": true,
+   "example": {
+    "en": "There are <b>run-down estates</b> on the edge of the city.",
+    "vi": "Có những <b>khu nhà xuống cấp</b> ở rìa thành phố."
+   }
+  },
+  {
+   "word": "affluent",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈæfluənt/",
+   "def_en": "Having a lot of money; rich.",
+   "def_vi": "Giàu có, sung túc.",
+   "gloss_vi": "giàu có",
+   "synonyms": "wealthy <i>(adj. giàu)</i>",
+   "antonyms": "poor <i>(adj. nghèo)</i>",
+   "grammar_vi": "<i>Affluent</i> (adjective) = giàu có. <b>Collocations / chunks</b>: ~ suburbs.",
+   "ex_kit": true,
+   "example": {
+    "en": "They live in the <b>affluent suburbs</b>.",
+    "vi": "Họ sống ở <b>vùng ngoại ô giàu có</b>."
+   }
+  },
+  {
+   "word": "steeped in history",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/stiːpt ɪn ˈhɪstri/",
+   "def_en": "Having a lot of history connected with it.",
+   "def_vi": "Đậm chất lịch sử.",
+   "gloss_vi": "đậm chất lịch sử",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Steeped in history</i> (adjective) = đậm chất lịch sử. <b>Grammar</b>: giới từ đi kèm <i>steeped in</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Rome is a city <b>steeped in history</b>.",
+    "vi": "Rome là thành phố <b>đậm chất lịch sử</b>."
+   }
+  },
+  {
+   "word": "densely populated",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈdensli ˈpɒpjuleɪtɪd/",
+   "def_en": "Having a lot of people living in a small area.",
+   "def_vi": "Đông dân.",
+   "gloss_vi": "đông dân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "sparsely populated <i>(adj. thưa dân)</i>",
+   "grammar_vi": "<i>Densely populated</i> (adjective) = đông dân. <b>Collocations / chunks</b>: kết hợp từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "It's a <b>densely populated</b> area.",
+    "vi": "Đó là khu vực <b>đông dân cư</b>."
+   }
+  },
+  {
+   "word": "urban sprawl",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɜːbən sprɔːl/",
+   "def_en": "The unchecked spreading of a city or its suburbs.",
+   "def_vi": "Sự đô thị hóa tràn lan.",
+   "gloss_vi": "đô thị lan rộng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Urban sprawl</i> (noun) = đô thị lan rộng. <b>Collocations / chunks</b>: cụm danh từ cố định <i>urban sprawl</i>.",
+   "example": {
+    "en": "<b>Urban sprawl</b> is the unchecked spreading of a city or its suburbs.",
+    "vi": "<b>Đô thị lan rộng</b> là sự mở rộng không kiểm soát của thành phố."
+   }
+  },
+  {
+   "word": "urban",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɜːbən/",
+   "def_en": "Related to towns and cities.",
+   "def_vi": "Thuộc đô thị.",
+   "gloss_vi": "đô thị",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "rural <i>(adj. nông thôn)</i>",
+   "grammar_vi": "<i>Urban</i> (adjective) = đô thị. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "<b>Urban</b> sprawl is the unchecked spreading of a city or its suburbs.",
+    "vi": "<b>Đô thị</b> lan rộng là sự mở rộng không kiểm soát của thành phố."
+   }
+  },
+  {
+   "word": "suburb",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsʌbɜːb/",
+   "def_en": "An area where people live, outside the centre of a city.",
+   "def_vi": "Vùng ngoại ô.",
+   "gloss_vi": "ngoại ô",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Suburb</i> (noun) = ngoại ô. <b>Collocations / chunks</b>: leafy / affluent ~s.",
+   "example": {
+    "en": "the unchecked spreading of a city or its <b>suburbs</b>",
+    "vi": "Sự mở rộng không kiểm soát của thành phố hay <b>vùng ngoại ô</b>."
+   }
+  },
+  {
+   "word": "construction",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kənˈstrʌkʃn/",
+   "def_en": "The process of building something.",
+   "def_vi": "Việc xây dựng.",
+   "gloss_vi": "xây dựng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "demolition <i>(n. phá dỡ)</i>",
+   "grammar_vi": "<i>Construction</i> (noun) = xây dựng. <b>Word family</b>: construct (v.).",
+   "example": {
+    "en": "It often involves the <b>construction</b> of residential or commercial buildings",
+    "vi": "Nó thường liên quan đến việc <b>xây dựng</b> nhà ở hoặc tòa nhà thương mại."
+   }
+  },
+  {
+   "word": "commercial",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kəˈmɜːʃl/",
+   "def_en": "Related to trade or business.",
+   "def_vi": "Thuộc thương mại.",
+   "gloss_vi": "thương mại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Commercial</i> (adjective) = thương mại. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "construction of residential or <b>commercial</b> buildings",
+    "vi": "Xây dựng nhà ở hoặc tòa nhà <b>thương mại</b>."
+   }
+  },
+  {
+   "word": "undeveloped",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʌndɪˈveləpt/",
+   "def_en": "Not previously built on.",
+   "def_vi": "Chưa được xây dựng, chưa phát triển.",
+   "gloss_vi": "chưa khai phá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Undeveloped</i> (adjective) = chưa khai phá. <b>Word family</b>: develop (v.), developer (n.).",
+   "example": {
+    "en": "in rural areas or otherwise <b>undeveloped</b> land on the outskirts of a city",
+    "vi": "Ở vùng nông thôn hoặc đất <b>chưa xây dựng</b> ở ngoại vi."
+   }
+  },
+  {
+   "word": "outskirts",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈaʊtskɜːts/",
+   "def_en": "The areas around the edge of a city.",
+   "def_vi": "Vùng ven, ngoại vi.",
+   "gloss_vi": "vùng ven",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "centre <i>(n. trung tâm)</i>",
+   "grammar_vi": "<i>Outskirts</i> (noun) = vùng ven. <b>Grammar</b>: luôn số nhiều: <i>on the ~ of</i>.",
+   "example": {
+    "en": "undeveloped land on the <b>outskirts</b> of a city",
+    "vi": "Đất chưa xây dựng ở <b>vùng ven</b> thành phố."
+   }
+  },
+  {
+   "word": "resident",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈrezɪdənt/",
+   "def_en": "A person who lives in a place.",
+   "def_vi": "Cư dân.",
+   "gloss_vi": "cư dân",
+   "synonyms": "inhabitant <i>(n. cư dân)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Resident</i> (noun) = cư dân. <b>Word family</b>: residence (n.), reside (v.), residential (adj.).",
+   "example": {
+    "en": "Typical <b>residents</b> of these areas live in single-family homes",
+    "vi": "<b>Cư dân</b> điển hình của khu này sống trong nhà riêng."
+   }
+  },
+  {
+   "word": "commute",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kəˈmjuːt/",
+   "def_en": "To travel regularly between home and work.",
+   "def_vi": "Đi lại giữa nhà và nơi làm việc.",
+   "gloss_vi": "đi làm xa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Commute</i> (verb) = đi làm xa. <b>Word family</b>: commuter (n.).",
+   "example": {
+    "en": "The tendency of people living in these neighbourhoods to <b>commute</b> to work",
+    "vi": "Cư dân ở đây có xu hướng <b>đi làm</b> bằng ô tô."
+   }
+  },
+  {
+   "word": "exhaust fumes",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪɡˈzɔːst fjuːmz/",
+   "def_en": "Gases that come out of a vehicle's engine.",
+   "def_vi": "Khí thải xe cộ.",
+   "gloss_vi": "khói xe",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Exhaust fumes</i> (noun) = khói xe. <b>Collocations / chunks</b>: car ~.",
+   "example": {
+    "en": "<b>Exhaust fumes</b> from cars, buses and lorries are the main cause of air pollution in cities.",
+    "vi": "<b>Khói thải</b> từ ô tô, xe buýt là nguyên nhân chính gây ô nhiễm không khí."
+   }
+  },
+  {
+   "word": "traffic congestion",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtræfɪk kənˈdʒestʃən/",
+   "def_en": "A situation where there are too many vehicles on the roads.",
+   "def_vi": "Ùn tắc giao thông.",
+   "gloss_vi": "ùn tắc giao thông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Traffic congestion</i> (noun) = ùn tắc giao thông. <b>Collocations / chunks</b>: combat ~.",
+   "example": {
+    "en": "Our council is doing everything it can to combat <b>traffic congestion</b>",
+    "vi": "Hội đồng đang làm mọi cách để chống <b>ùn tắc giao thông</b>."
+   }
+  },
+  {
+   "word": "public transport",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpʌblɪk ˈtrænspɔːt/",
+   "def_en": "Buses, trains, etc. available for everyone to use.",
+   "def_vi": "Giao thông công cộng.",
+   "gloss_vi": "giao thông công cộng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Public transport</i> (noun) = giao thông công cộng. <b>Collocations / chunks</b>: cụm danh từ cố định <i>public transport</i>.",
+   "example": {
+    "en": "The underground is an integral part of the <b>public transport</b> system in many large cities.",
+    "vi": "Tàu điện ngầm là phần không thể thiếu của hệ thống <b>giao thông công cộng</b>."
+   }
+  },
+  {
+   "word": "pedestrian area",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pəˈdestriən ˈeəriə/",
+   "def_en": "A part of a town where vehicles are not allowed.",
+   "def_vi": "Khu đi bộ.",
+   "gloss_vi": "khu phố đi bộ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pedestrian area</i> (noun) = khu phố đi bộ. <b>Collocations / chunks</b>: traffic-free ~.",
+   "example": {
+    "en": "Since the town centre became a traffic-free <b>pedestrian area</b>, shopping has been a more pleasant experience.",
+    "vi": "Từ khi trung tâm thành <b>khu đi bộ</b>, mua sắm dễ chịu hơn."
+   }
+  },
+  {
+   "word": "traffic jam",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtræfɪk dʒæm/",
+   "def_en": "A long line of vehicles that cannot move or move slowly.",
+   "def_vi": "Kẹt xe.",
+   "gloss_vi": "kẹt xe",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Traffic jam</i> (noun) = kẹt xe. <b>Collocations / chunks</b>: frequent ~s.",
+   "example": {
+    "en": "There are frequent <b>traffic jams</b> during the morning and evening rush hours",
+    "vi": "Thường có <b>kẹt xe</b> vào giờ cao điểm sáng và chiều."
+   }
+  },
+  {
+   "word": "rush hour",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈrʌʃ aʊə(r)/",
+   "def_en": "The time when most people are travelling to or from work.",
+   "def_vi": "Giờ cao điểm.",
+   "gloss_vi": "giờ cao điểm",
+   "synonyms": "peak time <i>(n. giờ cao điểm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rush hour</i> (noun) = giờ cao điểm. <b>Collocations / chunks</b>: ~ traffic.",
+   "example": {
+    "en": "There are frequent traffic jams during the morning and evening <b>rush hours</b> in many towns and cities.",
+    "vi": "Thường có kẹt xe vào <b>giờ cao điểm</b> sáng và chiều."
+   }
+  },
+  {
+   "word": "-free",
+   "sense": "",
+   "pos": "suffix",
+   "ipa": "/friː/",
+   "def_en": "Without an undesirable thing.",
+   "def_vi": "Không có (điều không mong muốn).",
+   "gloss_vi": "không có",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>-free</i> (suffix) = không có. <b>Grammar</b>: <i>fat-free yoghurt</i>; danh từ số ít.",
+   "ex_kit": true,
+   "example": {
+    "en": "Our neighbourhood doesn't have any crime. It's a <b>crime-free</b> neighbourhood.",
+    "vi": "Khu phố chúng tôi không có tội phạm. Đó là khu <b>không tội phạm</b>."
+   }
+  },
+  {
+   "word": "-friendly",
+   "sense": "",
+   "pos": "suffix",
+   "ipa": "/ˈfrendli/",
+   "def_en": "Suitable for or welcoming of.",
+   "def_vi": "Phù hợp với, thân thiện với.",
+   "gloss_vi": "thân thiện với",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>-friendly</i> (suffix) = thân thiện với. <b>Grammar</b>: <i>child-friendly software</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I need accommodation where they allow pets. I need <b>pet-friendly</b> accommodation.",
+    "vi": "Tôi cần chỗ ở cho phép thú cưng. Tôi cần chỗ ở <b>thân thiện với thú cưng</b>."
+   }
+  },
+  {
+   "word": "-mad",
+   "sense": "",
+   "pos": "suffix",
+   "ipa": "/mæd/",
+   "def_en": "Liking or doing something obsessively.",
+   "def_vi": "Mê (làm gì) một cách ám ảnh.",
+   "gloss_vi": "mê",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>-mad</i> (suffix) = mê. <b>Grammar</b>: <i>My husband is football-mad.</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The young people around here are all obsessed with their cars. They're all <b>car-mad</b>.",
+    "vi": "Giới trẻ ở đây mê xe. Họ đều <b>mê xe</b>."
+   }
+  },
+  {
+   "word": "persons",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɜːsnz/",
+   "def_en": "A plural of person used only in formal contexts.",
+   "def_vi": "Số nhiều của person, chỉ dùng trang trọng.",
+   "gloss_vi": "những người (trang trọng)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Persons</i> (noun) = những người (trang trọng). <b>Grammar</b>: thường dùng <i>people</i>.",
+   "example": {
+    "en": "The crime was committed by person or <b>persons</b> unknown.",
+    "vi": "Tội ác do <b>người hoặc những người</b> không rõ danh tính gây ra."
+   }
+  },
+  {
+   "word": "hustle and bustle",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌhʌsl ən ˈbʌsl/",
+   "def_en": "Busy, noisy activity.",
+   "def_vi": "Sự náo nhiệt, ồn ã.",
+   "gloss_vi": "sự náo nhiệt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "peace and quiet <i>(n. sự yên tĩnh)</i>",
+   "grammar_vi": "<i>Hustle and bustle</i> (noun) = sự náo nhiệt. <b>Grammar</b>: cụm hai phần.",
+   "example": {
+    "en": "I love the <b>hustle and bustle</b> of life in the city.",
+    "vi": "Tôi yêu <b>sự náo nhiệt</b> của cuộc sống thành phố."
+   }
+  },
+  {
+   "word": "cost of living",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkɒst əv ˈlɪvɪŋ/",
+   "def_en": "The amount of money needed to pay for basic things.",
+   "def_vi": "Chi phí sinh hoạt.",
+   "gloss_vi": "chi phí sinh hoạt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cost of living</i> (noun) = chi phí sinh hoạt. <b>Grammar</b>: danh từ ghép.",
+   "example": {
+    "en": "The only downside is the <b>cost of living</b>.",
+    "vi": "Điểm bất lợi duy nhất là <b>chi phí sinh hoạt</b>."
+   }
+  },
+  {
+   "word": "crime rate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkraɪm reɪt/",
+   "def_en": "The amount of crime in a particular place.",
+   "def_vi": "Tỷ lệ tội phạm.",
+   "gloss_vi": "tỷ lệ tội phạm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Crime rate</i> (noun) = tỷ lệ tội phạm. <b>Collocations / chunks</b>: cụm danh từ cố định <i>crime rate</i>.",
+   "example": {
+    "en": "<b>Crime rates</b> are higher in cities than in rural areas.",
+    "vi": "<b>Tỷ lệ tội phạm</b> ở thành phố cao hơn ở nông thôn."
+   }
+  },
+  {
+   "word": "rural",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈrʊərəl/",
+   "def_en": "Related to the countryside.",
+   "def_vi": "Thuộc nông thôn.",
+   "gloss_vi": "nông thôn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "urban <i>(adj. đô thị)</i>",
+   "grammar_vi": "<i>Rural</i> (adjective) = nông thôn. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "Crime rates are higher in cities than in <b>rural</b> areas.",
+    "vi": "Tỷ lệ tội phạm ở thành phố cao hơn ở vùng <b>nông thôn</b>."
+   }
+  },
+  {
+   "word": "peace and quiet",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpiːs ən ˈkwaɪət/",
+   "def_en": "A calm atmosphere.",
+   "def_vi": "Sự yên bình, tĩnh lặng.",
+   "gloss_vi": "yên tĩnh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "hustle and bustle <i>(n. sự náo nhiệt)</i>",
+   "grammar_vi": "<i>Peace and quiet</i> (noun) = yên tĩnh. <b>Grammar</b>: cụm hai phần.",
+   "example": {
+    "en": "Some people move to the country for the <b>peace and quiet</b>.",
+    "vi": "Một số người chuyển về quê để tìm <b>sự yên tĩnh</b>."
+   }
+  },
+  {
+   "word": "pros and cons",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌprəʊz ən ˈkɒnz/",
+   "def_en": "Advantages and disadvantages.",
+   "def_vi": "Ưu và nhược điểm.",
+   "gloss_vi": "ưu và nhược điểm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pros and cons</i> (noun) = ưu và nhược điểm. <b>Collocations / chunks</b>: weigh up the ~.",
+   "example": {
+    "en": "We've been weighing up the <b>pros and cons</b> of commuting.",
+    "vi": "Chúng tôi đang cân nhắc <b>ưu nhược điểm</b> của việc đi làm xa."
+   }
+  },
+  {
+   "word": "ups and downs",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌʌps ən ˈdaʊnz/",
+   "def_en": "Good times and bad times.",
+   "def_vi": "Lúc thăng lúc trầm.",
+   "gloss_vi": "thăng trầm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ups and downs</i> (noun) = thăng trầm. <b>Collocations / chunks</b>: cụm danh từ cố định <i>ups and downs</i>.",
+   "example": {
+    "en": "Most people have <b>ups and downs</b> at work.",
+    "vi": "Hầu hết mọi người có <b>lúc thăng lúc trầm</b> trong công việc."
+   }
+  },
+  {
+   "word": "give and take",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɡɪv ən ˈteɪk/",
+   "def_en": "Compromise; willingness to accept some of what others want.",
+   "def_vi": "Sự nhân nhượng lẫn nhau.",
+   "gloss_vi": "có qua có lại",
+   "synonyms": "compromise <i>(n. thỏa hiệp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Give and take</i> (noun) = có qua có lại. <b>Collocations / chunks</b>: cụm danh từ cố định <i>give and take</i>.",
+   "example": {
+    "en": "We need some <b>give and take</b> between residents and developers.",
+    "vi": "Cần <b>có sự nhân nhượng</b> giữa cư dân và chủ đầu tư."
+   }
+  },
+  {
+   "word": "surveillance",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/sɜːˈveɪləns/",
+   "def_en": "The careful watching of a person or place, especially by police or cameras.",
+   "def_vi": "Sự giám sát.",
+   "gloss_vi": "giám sát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Surveillance</i> (noun) = giám sát. <b>Collocations / chunks</b>: ~ systems / cameras.",
+   "example": {
+    "en": "The explosive growth in the number of closed-circuit television (CCTV) <b>surveillance</b> systems",
+    "vi": "Sự gia tăng hệ thống camera <b>giám sát</b> đang thay đổi trung tâm thành phố."
+   }
+  }
+ ]
+}
