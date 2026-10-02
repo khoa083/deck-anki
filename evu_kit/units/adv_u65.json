@@ -1,0 +1,805 @@
+{
+ "book": "adv",
+ "unit": 65,
+ "title_vi": "Đủ màu sắc cầu vồng",
+ "theory_html": "<p><b>A. Words for specific colours</b><br><i>A. Từ chỉ màu cụ thể</i></p> <p><b>pitch black</b> (darkness, night; pitch = tar), <b>jet black</b> (hair, eyes; jet = black gemstone), <b>scarlet, crimson, shocking pink, ginger</b> (hair, fur), <b>navy</b> (clothes, not eyes), <b>turquoise</b> (not usually eyes), <b>lime, beige, mousy</b> (only hair), <b>chestnut</b> (hair, horses), <b>auburn</b> (hair). Gemstones as colours: <b>ruby, emerald, amber, coral, sapphire, jade</b>.</p><p><i><b>đen kịt, đen nhánh, đỏ tươi, đỏ thẫm, hồng chói, đỏ hoe, xanh nước biển đậm, xanh ngọc lam, xanh chanh, be, nâu xỉn, nâu hạt dẻ, nâu đỏ</b>; đá quý: <b>đỏ hồng ngọc, xanh lục bảo, hổ phách, hồng san hô, xanh ngọc bích, xanh ngọc thạch</b>.</i></p> <p><b>B. Words for talking about colour</b><br><i>B. Từ nói về màu</i></p> <p><b>primary colours, pastel colours, mauve, strong / harsh / vivid / fluorescent / electric colours, tinge, monochrome</b>; suffixes <b>-y</b> and <b>-ish</b> (bluey green, reddish brown).</p><p><i><b>màu cơ bản, màu phấn, tím nhạt, màu đậm / chói gắt / rực rỡ / dạ quang / sáng chói, ánh màu, đơn sắc</b>; hậu tố <b>-y</b>, <b>-ish</b> = hơi.</i></p> <p><b>C. Colour metaphors</b><br><i>C. Ẩn dụ màu sắc</i></p> <p>blue (<b>feel blue, blue-collar</b>), red (<b>see red, red alert, red flag, red-carpet treatment, red-letter day</b>), green (<b>look/turn green, green with envy, green tourism</b>), black (<b>black future, as black as thunder, black market, black sheep, black mark</b>), grey (<b>grey area, grey matter</b>), white (<b>whiter than white, white as a sheet, white-knuckle, white-collar</b>).</p><p><i>xanh = buồn, lao động chân tay; đỏ = giận, nguy hiểm, quan trọng; xanh lá = buồn nôn, ghen tị, môi trường; đen = vô vọng, giận, phi pháp; xám = mơ hồ, trí óc; trắng = trong sạch, tái mét, kinh hoàng, nhân viên văn phòng.</i></p>",
+ "items": [
+  {
+   "word": "pitch black",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌpɪtʃ ˈblæk/",
+   "def_en": "Intensely black, used about darkness, night, etc.",
+   "def_vi": "Đen kịt, dùng cho bóng tối, đêm.",
+   "gloss_vi": "tối đen như mực",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pitch black</i> (adjective) = tối đen như mực. <b>Collocations / chunks</b>: <i>pitch</i> = hắc ín (từ cổ).",
+   "ex_kit": true,
+   "example": {
+    "en": "It was <b>pitch black</b> outside.",
+    "vi": "Bên ngoài trời <b>tối đen như mực</b>."
+   }
+  },
+  {
+   "word": "jet black",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌdʒet ˈblæk/",
+   "def_en": "Intensely black, used about hair, eyes, etc.",
+   "def_vi": "Đen nhánh, dùng cho tóc, mắt.",
+   "gloss_vi": "đen nhánh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Jet black</i> (adjective) = đen nhánh. <b>Collocations / chunks</b>: <i>jet</i> = đá quý đen.",
+   "ex_kit": true,
+   "example": {
+    "en": "She has <b>jet black</b> hair.",
+    "vi": "Cô ấy có mái tóc <b>đen nhánh</b>."
+   }
+  },
+  {
+   "word": "scarlet",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈskɑːlət/",
+   "def_en": "Very bright red.",
+   "def_vi": "Đỏ rất tươi.",
+   "gloss_vi": "đỏ tươi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Scarlet</i> (adjective) = đỏ tươi. <b>Grammar</b>: cũng là danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "She was wearing a <b>scarlet</b> dress.",
+    "vi": "Cô ấy mặc chiếc váy <b>đỏ tươi</b>."
+   }
+  },
+  {
+   "word": "crimson",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈkrɪmzn/",
+   "def_en": "Strong deep red.",
+   "def_vi": "Đỏ đậm.",
+   "gloss_vi": "đỏ thẫm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Crimson</i> (adjective) = đỏ thẫm. <b>Collocations / chunks</b>: <i>go/turn crimson</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "His face went <b>crimson</b> with embarrassment.",
+    "vi": "Mặt anh ấy đỏ <b>thẫm</b> vì xấu hổ."
+   }
+  },
+  {
+   "word": "shocking pink",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʃɒkɪŋ ˈpɪŋk/",
+   "def_en": "An extremely bright pink.",
+   "def_vi": "Hồng cực chói.",
+   "gloss_vi": "hồng chói",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shocking pink</i> (adjective) = hồng chói. <b>Collocations / chunks</b>: cụm tính từ cố định <i>shocking pink</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She painted her nails <b>shocking pink</b>.",
+    "vi": "Cô ấy sơn móng màu <b>hồng chói</b>."
+   }
+  },
+  {
+   "word": "ginger",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈdʒɪndʒə(r)/",
+   "def_en": "Orangey red, used about hair and animal fur.",
+   "def_vi": "Đỏ cam, dùng cho tóc và lông thú.",
+   "gloss_vi": "(tóc/lông) màu đỏ hoe",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ginger</i> (adjective) = (tóc/lông) màu đỏ hoe. <b>Collocations / chunks</b>: <i>ginger hair/cat</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "They have a <b>ginger</b> cat.",
+    "vi": "Họ có một con mèo <b>lông đỏ hoe</b>."
+   }
+  },
+  {
+   "word": "navy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈneɪvi/",
+   "def_en": "Dark blue, used about clothes, not eyes.",
+   "def_vi": "Xanh dương đậm, dùng cho quần áo, không cho mắt.",
+   "gloss_vi": "xanh nước biển đậm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Navy</i> (adjective) = xanh nước biển đậm. <b>Grammar</b>: không dùng cho mắt.",
+   "ex_kit": true,
+   "example": {
+    "en": "He wore a <b>navy</b> suit.",
+    "vi": "Anh ấy mặc bộ vest <b>xanh đậm</b>."
+   }
+  },
+  {
+   "word": "turquoise",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈtɜːkwɔɪz/",
+   "def_en": "Greenish blue, used about fabrics, paint, sea, etc., but not usually eyes.",
+   "def_vi": "Xanh lục lam, dùng cho vải, sơn, biển.",
+   "gloss_vi": "xanh ngọc lam",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Turquoise</i> (adjective) = xanh ngọc lam. <b>Grammar</b>: thường không dùng cho mắt.",
+   "ex_kit": true,
+   "example": {
+    "en": "The sea here is <b>turquoise</b>.",
+    "vi": "Biển ở đây có màu <b>xanh ngọc lam</b>."
+   }
+  },
+  {
+   "word": "lime",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/laɪm/",
+   "def_en": "A bright yellowish green.",
+   "def_vi": "Xanh lá hơi vàng sáng.",
+   "gloss_vi": "xanh chanh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lime</i> (adjective) = xanh chanh. <b>Collocations / chunks</b>: <i>lime green</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She bought a <b>lime</b> green jacket.",
+    "vi": "Cô ấy mua áo khoác <b>xanh chanh</b>."
+   }
+  },
+  {
+   "word": "beige",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/beɪʒ/",
+   "def_en": "A light creamy brown.",
+   "def_vi": "Nâu kem nhạt.",
+   "gloss_vi": "màu be",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Beige</i> (adjective) = màu be. <b>Grammar</b>: phát âm /beɪʒ/.",
+   "ex_kit": true,
+   "example": {
+    "en": "The walls were painted <b>beige</b>.",
+    "vi": "Tường được sơn màu <b>be</b>."
+   }
+  },
+  {
+   "word": "mousy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈmaʊsi/",
+   "def_en": "A light, not very interesting brown, used only about hair.",
+   "def_vi": "Nâu nhạt, không hấp dẫn, chỉ dùng cho tóc.",
+   "gloss_vi": "(tóc) nâu xỉn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mousy</i> (adjective) = (tóc) nâu xỉn. <b>Grammar</b>: chỉ dùng cho tóc.",
+   "ex_kit": true,
+   "example": {
+    "en": "She has <b>mousy</b> hair.",
+    "vi": "Cô ấy có mái tóc <b>nâu xỉn</b>."
+   }
+  },
+  {
+   "word": "chestnut",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈtʃesnʌt/",
+   "def_en": "A deep reddish brown, used about hair and horses.",
+   "def_vi": "Nâu đỏ đậm, dùng cho tóc và ngựa.",
+   "gloss_vi": "nâu hạt dẻ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chestnut</i> (adjective) = nâu hạt dẻ. <b>Collocations / chunks</b>: tóc và ngựa.",
+   "ex_kit": true,
+   "example": {
+    "en": "She rode a <b>chestnut</b> horse.",
+    "vi": "Cô ấy cưỡi một con ngựa <b>màu hạt dẻ</b>."
+   }
+  },
+  {
+   "word": "auburn",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɔːbən/",
+   "def_en": "A red-brown colour, usually used about hair.",
+   "def_vi": "Màu nâu đỏ, thường dùng cho tóc.",
+   "gloss_vi": "nâu đỏ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Auburn</i> (adjective) = nâu đỏ. <b>Grammar</b>: thường dùng cho tóc.",
+   "ex_kit": true,
+   "example": {
+    "en": "She has long <b>auburn</b> hair.",
+    "vi": "Cô ấy có mái tóc <b>nâu đỏ</b> dài."
+   }
+  },
+  {
+   "word": "ruby",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈruːbi/",
+   "def_en": "Deep red.",
+   "def_vi": "Đỏ đậm.",
+   "gloss_vi": "đỏ hồng ngọc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ruby</i> (adjective) = đỏ hồng ngọc. <b>Grammar</b>: tên đá quý dùng làm màu.",
+   "ex_kit": true,
+   "example": {
+    "en": "She wore <b>ruby</b> lipstick.",
+    "vi": "Cô ấy tô son <b>đỏ hồng ngọc</b>."
+   }
+  },
+  {
+   "word": "emerald",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈemərəld/",
+   "def_en": "Bright green.",
+   "def_vi": "Xanh lá sáng.",
+   "gloss_vi": "xanh lục bảo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Emerald</i> (adjective) = xanh lục bảo. <b>Grammar</b>: tên đá quý dùng làm màu.",
+   "ex_kit": true,
+   "example": {
+    "en": "She has <b>emerald</b> eyes.",
+    "vi": "Cô ấy có đôi mắt <b>xanh lục bảo</b>."
+   }
+  },
+  {
+   "word": "amber",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈæmbə(r)/",
+   "def_en": "Yellowy orange.",
+   "def_vi": "Cam hơi vàng.",
+   "gloss_vi": "màu hổ phách",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Amber</i> (adjective) = màu hổ phách. <b>Grammar</b>: tên đá quý dùng làm màu.",
+   "ex_kit": true,
+   "example": {
+    "en": "The traffic lights turned <b>amber</b>.",
+    "vi": "Đèn giao thông chuyển sang <b>vàng</b>."
+   }
+  },
+  {
+   "word": "coral",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈkɒrəl/",
+   "def_en": "Orangey pink.",
+   "def_vi": "Hồng cam.",
+   "gloss_vi": "hồng san hô",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Coral</i> (adjective) = hồng san hô. <b>Grammar</b>: tên vật liệu dùng làm màu.",
+   "ex_kit": true,
+   "example": {
+    "en": "She wore a <b>coral</b> dress.",
+    "vi": "Cô ấy mặc váy <b>hồng san hô</b>."
+   }
+  },
+  {
+   "word": "sapphire",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsæfaɪə(r)/",
+   "def_en": "Deep blue.",
+   "def_vi": "Xanh dương đậm.",
+   "gloss_vi": "xanh ngọc bích",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sapphire</i> (adjective) = xanh ngọc bích. <b>Grammar</b>: tên đá quý dùng làm màu.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>sapphire</b> sky",
+    "vi": "Bầu trời <b>xanh ngọc bích</b>."
+   }
+  },
+  {
+   "word": "jade",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dʒeɪd/",
+   "def_en": "Dark green.",
+   "def_vi": "Xanh lá đậm.",
+   "gloss_vi": "xanh ngọc thạch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Jade</i> (adjective) = xanh ngọc thạch. <b>Grammar</b>: tên đá quý dùng làm màu.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>jade</b> vase",
+    "vi": "Chiếc bình <b>xanh ngọc thạch</b>."
+   }
+  },
+  {
+   "word": "primary colours",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpraɪməri ˈkʌləz/",
+   "def_en": "Red, blue and yellow, which can be mixed to make other colours.",
+   "def_vi": "Đỏ, xanh dương, vàng – pha ra màu khác.",
+   "gloss_vi": "màu cơ bản",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Primary colours</i> (noun) = màu cơ bản. <b>Collocations / chunks</b>: cụm danh từ cố định <i>primary colours</i>.",
+   "example": {
+    "en": "Red, blue and yellow are <b>primary colours</b>",
+    "vi": "Đỏ, xanh dương và vàng là <b>màu cơ bản</b>."
+   }
+  },
+  {
+   "word": "pastel colours",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpæstl ˈkʌləz/",
+   "def_en": "Pale shades of colour.",
+   "def_vi": "Sắc màu nhạt.",
+   "gloss_vi": "màu phấn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "strong colours <i>(n. màu đậm)</i>",
+   "grammar_vi": "<i>Pastel colours</i> (noun) = màu phấn. <b>Collocations / chunks</b>: cụm danh từ cố định <i>pastel colours</i>.",
+   "example": {
+    "en": "<b>Pastel colours</b> are pale shades of colour",
+    "vi": "<b>Màu phấn</b> là sắc nhạt như hồng, tím nhạt."
+   }
+  },
+  {
+   "word": "mauve",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/məʊv/",
+   "def_en": "Pale purple.",
+   "def_vi": "Tím nhạt.",
+   "gloss_vi": "tím nhạt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mauve</i> (adjective) = tím nhạt. <b>Grammar</b>: phát âm /məʊv/.",
+   "example": {
+    "en": "pink, <b>mauve</b> and pale yellow",
+    "vi": "Hồng, <b>tím nhạt</b> và vàng nhạt là màu phấn."
+   }
+  },
+  {
+   "word": "harsh colours",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌhɑːʃ ˈkʌləz/",
+   "def_en": "Colours that are unpleasantly strong.",
+   "def_vi": "Màu đậm khó chịu.",
+   "gloss_vi": "màu chói gắt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Harsh colours</i> (noun) = màu chói gắt. <b>Collocations / chunks</b>: cụm danh từ <i>harsh colours</i>.",
+   "example": {
+    "en": "<b>Harsh colours</b> are colours that are unpleasantly strong.",
+    "vi": "<b>Màu chói gắt</b> là màu đậm khó chịu."
+   }
+  },
+  {
+   "word": "vivid",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈvɪvɪd/",
+   "def_en": "(Of colours) strong and bright.",
+   "def_vi": "(Màu) đậm và sáng.",
+   "gloss_vi": "rực rỡ",
+   "synonyms": "bright <i>(adj. sáng)</i>",
+   "antonyms": "pale <i>(adj. nhạt)</i>",
+   "grammar_vi": "<i>Vivid</i> (adjective) = rực rỡ. <b>Collocations / chunks</b>: <i>vivid colours</i>.",
+   "example": {
+    "en": "<b>Vivid</b> colours are strong, bright colours like scarlet or turquoise.",
+    "vi": "<b>Màu rực rỡ</b> là màu đậm, sáng như đỏ tươi."
+   }
+  },
+  {
+   "word": "fluorescent",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/flɔːˈresnt/",
+   "def_en": "(Of colours) very bright and seeming to glow in the dark.",
+   "def_vi": "(Màu) rất sáng, như phát sáng trong tối.",
+   "gloss_vi": "dạ quang",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fluorescent</i> (adjective) = dạ quang. <b>Collocations / chunks</b>: <i>fluorescent colours/jackets</i>.",
+   "example": {
+    "en": "<b>Fluorescent</b> colours are very bright colours which seem to glow in the dark.",
+    "vi": "Màu <b>dạ quang</b> là màu rất sáng như phát sáng trong tối."
+   }
+  },
+  {
+   "word": "electric",
+   "sense": "extremely bright colour",
+   "pos": "adjective",
+   "ipa": "/ɪˈlektrɪk/",
+   "def_en": "(Of blues or greens) extremely bright.",
+   "def_vi": "(Xanh) cực sáng.",
+   "gloss_vi": "(xanh) chói sáng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Electric</i> (adjective) = (xanh) chói sáng. <b>Collocations / chunks</b>: <i>electric blue/green</i>.",
+   "example": {
+    "en": "<b>Electric</b> blues or greens are extremely bright blues or greens.",
+    "vi": "Xanh <b>chói sáng</b> là xanh cực kỳ sáng."
+   }
+  },
+  {
+   "word": "tinge",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tɪndʒ/",
+   "def_en": "A very slight shade of a colour.",
+   "def_vi": "Sắc màu rất nhẹ.",
+   "gloss_vi": "ánh màu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tinge</i> (noun) = ánh màu. <b>Collocations / chunks</b>: <i>a tinge of</i> + màu/cảm xúc.",
+   "example": {
+    "en": "If white has a <b>tinge</b> of green, there is a very slight shade of green in it.",
+    "vi": "Màu trắng có <b>ánh</b> xanh lá."
+   }
+  },
+  {
+   "word": "monochrome",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈmɒnəkrəʊm/",
+   "def_en": "Using only one colour (or shades of one colour).",
+   "def_vi": "Chỉ dùng một màu (hay sắc độ của nó).",
+   "gloss_vi": "đơn sắc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Monochrome</i> (adjective) = đơn sắc. <b>Grammar</b>: tiền tố <i>mono-</i> (một).",
+   "example": {
+    "en": "If something is <b>monochrome</b>, it uses only one (or shades of one) colour",
+    "vi": "Ảnh <b>đơn sắc</b> chỉ có đen, trắng, xám."
+   }
+  },
+  {
+   "word": "feel blue",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌfiːl ˈbluː/",
+   "def_en": "To feel depressed.",
+   "def_vi": "Cảm thấy buồn chán.",
+   "gloss_vi": "buồn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Feel blue</i> (verb) = buồn. <b>Collocations / chunks</b>: <i>blue</i> = buồn.",
+   "ex_kit": true,
+   "example": {
+    "en": "I’m <b>feeling</b> a bit <b>blue</b> today.",
+    "vi": "Hôm nay tôi thấy hơi <b>buồn</b>."
+   }
+  },
+  {
+   "word": "blue-collar workers",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌbluː ˌkɒlə ˈwɜːkəz/",
+   "def_en": "People who do physical or unskilled work.",
+   "def_vi": "Người làm việc chân tay.",
+   "gloss_vi": "công nhân lao động chân tay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "white-collar workers <i>(n. nhân viên văn phòng)</i>",
+   "grammar_vi": "<i>Blue-collar workers</i> (noun) = công nhân lao động chân tay. <b>Collocations / chunks</b>: <i>blue-collar</i> ↔ <i>white-collar</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The factory employs many <b>blue-collar workers</b>.",
+    "vi": "Nhà máy thuê nhiều <b>công nhân lao động chân tay</b>."
+   }
+  },
+  {
+   "word": "see red",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌsiː ˈred/",
+   "def_en": "To be very angry.",
+   "def_vi": "Rất giận.",
+   "gloss_vi": "nổi giận",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>See red</i> (verb) = nổi giận. <b>Collocations / chunks</b>: thành ngữ <i>see red</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He <b>saw red</b> when he heard about it.",
+    "vi": "Anh ấy <b>nổi giận</b> khi nghe chuyện đó."
+   }
+  },
+  {
+   "word": "red alert",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌred əˈlɜːt/",
+   "def_en": "A state of being ready for danger.",
+   "def_vi": "Tình trạng sẵn sàng đối phó nguy hiểm.",
+   "gloss_vi": "báo động đỏ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Red alert</i> (noun) = báo động đỏ. <b>Collocations / chunks</b>: <i>on red alert</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Hospitals are on <b>red alert</b>.",
+    "vi": "Bệnh viện trong tình trạng <b>báo động đỏ</b>."
+   }
+  },
+  {
+   "word": "red-carpet treatment",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌred ˈkɑːpɪt ˌtriːtmənt/",
+   "def_en": "Special treatment for an important guest.",
+   "def_vi": "Đối xử đặc biệt với khách quan trọng.",
+   "gloss_vi": "đón tiếp trọng thị",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Red-carpet treatment</i> (noun) = đón tiếp trọng thị. <b>Collocations / chunks</b>: <i>give sb the red-carpet treatment</i>.",
+   "example": {
+    "en": "All the competitors were given the <b>red-carpet treatment</b>.",
+    "vi": "Mọi thí sinh đều được <b>đón tiếp trọng thị</b>."
+   }
+  },
+  {
+   "word": "red-letter day",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌred ˈletə deɪ/",
+   "def_en": "A day of special importance.",
+   "def_vi": "Ngày đặc biệt quan trọng.",
+   "gloss_vi": "ngày đáng nhớ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Red-letter day</i> (noun) = ngày đáng nhớ. <b>Collocations / chunks</b>: thành ngữ cố định.",
+   "example": {
+    "en": "The day we met will always be <b>a red-letter day</b> for me.",
+    "vi": "Ngày ta gặp nhau sẽ mãi là <b>ngày đáng nhớ</b> với tôi."
+   }
+  },
+  {
+   "word": "red",
+   "sense": "left-wing",
+   "pos": "adjective",
+   "ipa": "/red/",
+   "def_en": "Communist or very left-wing in politics.",
+   "def_vi": "Cộng sản hay cực tả trong chính trị.",
+   "gloss_vi": "cánh tả",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Red</i> (adjective) = cánh tả. <b>Grammar</b>: nghĩa chính trị.",
+   "example": {
+    "en": "People’s views sometimes become less <b>red</b> as they get older.",
+    "vi": "Quan điểm người ta đôi khi bớt <b>tả</b> khi già đi."
+   }
+  },
+  {
+   "word": "turn green",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌtɜːn ˈɡriːn/",
+   "def_en": "To look sick, with nausea.",
+   "def_vi": "Trông buồn nôn.",
+   "gloss_vi": "xanh mặt (buồn nôn)",
+   "synonyms": "go green <i>(v. xanh mặt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Turn green</i> (verb) = xanh mặt (buồn nôn). <b>Collocations / chunks</b>: <i>turn/go/look green</i>.",
+   "example": {
+    "en": "People who are seasick often <b>turn green</b> and sometimes vomit.",
+    "vi": "Người say sóng thường <b>xanh mặt</b> và đôi khi nôn."
+   }
+  },
+  {
+   "word": "green with envy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɡriːn wɪð ˈenvi/",
+   "def_en": "Very envious.",
+   "def_vi": "Rất ghen tị.",
+   "gloss_vi": "ghen tị đỏ mắt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Green with envy</i> (adjective) = ghen tị đỏ mắt. <b>Collocations / chunks</b>: <i>turn green with envy</i>.",
+   "example": {
+    "en": "She turned <b>green with envy</b> when she saw her friend’s new car.",
+    "vi": "Cô ấy <b>ghen tị đỏ mắt</b> khi thấy xe mới của bạn."
+   }
+  },
+  {
+   "word": "green tourism",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɡriːn ˈtʊərɪzəm/",
+   "def_en": "Tourism that cares for the environment.",
+   "def_vi": "Du lịch quan tâm môi trường.",
+   "gloss_vi": "du lịch xanh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Green tourism</i> (noun) = du lịch xanh. <b>Collocations / chunks</b>: <i>green</i> = bảo vệ môi trường.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Green tourism</b> is becoming more popular.",
+    "vi": "<b>Du lịch xanh</b> ngày càng phổ biến."
+   }
+  },
+  {
+   "word": "as black as thunder",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əz ˌblæk əz ˈθʌndə(r)/",
+   "def_en": "Very angry-looking.",
+   "def_vi": "Trông rất giận.",
+   "gloss_vi": "mặt hầm hầm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As black as thunder</i> (adjective) = mặt hầm hầm. <b>Collocations / chunks</b>: <i>look as black as thunder</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He looked <b>as black as thunder</b>.",
+    "vi": "Anh ấy trông <b>mặt hầm hầm</b>."
+   }
+  },
+  {
+   "word": "black market",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌblæk ˈmɑːkɪt/",
+   "def_en": "Illegal trade.",
+   "def_vi": "Buôn bán bất hợp pháp.",
+   "gloss_vi": "chợ đen",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Black market</i> (noun) = chợ đen. <b>Collocations / chunks</b>: <i>on the black market</i>.",
+   "example": {
+    "en": "During the war people bought many goods illegally on the <b>black market</b>.",
+    "vi": "Thời chiến người ta mua nhiều hàng trên <b>chợ đen</b>."
+   }
+  },
+  {
+   "word": "black mark",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌblæk ˈmɑːk/",
+   "def_en": "A record of something bad you have done.",
+   "def_vi": "Ghi nhận điều xấu đã làm.",
+   "gloss_vi": "vết đen",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Black mark</i> (noun) = vết đen. <b>Collocations / chunks</b>: <i>a black mark against sb’s name</i>.",
+   "example": {
+    "en": "that’ll be another <b>black mark</b> against my name",
+    "vi": "Nếu không xong báo cáo kịp, đó sẽ là thêm <b>vết đen</b> với tên tôi."
+   }
+  },
+  {
+   "word": "black sheep",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌblæk ˈʃiːp/",
+   "def_en": "A member of a family who is considered bad or embarrassing.",
+   "def_vi": "Thành viên gia đình bị coi là hư hỏng.",
+   "gloss_vi": "con chiên ghẻ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Black sheep</i> (noun) = con chiên ghẻ. <b>Collocations / chunks</b>: <i>the black sheep of the family</i>.",
+   "example": {
+    "en": "My brother was the <b>black sheep</b> of the family",
+    "vi": "Anh tôi là <b>con chiên ghẻ</b> của gia đình."
+   }
+  },
+  {
+   "word": "grey area",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɡreɪ ˈeəriə/",
+   "def_en": "Something with a lack of clarity.",
+   "def_vi": "Điều thiếu rõ ràng.",
+   "gloss_vi": "vùng xám",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Grey area</i> (noun) = vùng xám. <b>Collocations / chunks</b>: <i>grey</i> = không rõ ràng.",
+   "ex_kit": true,
+   "example": {
+    "en": "The law on this issue is a <b>grey area</b>.",
+    "vi": "Luật về vấn đề này là một <b>vùng xám</b>."
+   }
+  },
+  {
+   "word": "grey matter",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɡreɪ ˈmætə(r)/",
+   "def_en": "Brains; intelligence.",
+   "def_vi": "Bộ não; trí thông minh.",
+   "gloss_vi": "chất xám",
+   "synonyms": "grey cells <i>(n. tế bào não)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Grey matter</i> (noun) = chất xám. <b>Collocations / chunks</b>: <i>grey matter / grey cells</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "This puzzle needs a bit of <b>grey matter</b>.",
+    "vi": "Câu đố này cần chút <b>chất xám</b>."
+   }
+  },
+  {
+   "word": "whiter than white",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌwaɪtə ðən ˈwaɪt/",
+   "def_en": "Completely pure or honest.",
+   "def_vi": "Hoàn toàn trong sạch.",
+   "gloss_vi": "trong sạch tuyệt đối",
+   "synonyms": "white as snow <i>(adj. trắng như tuyết)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Whiter than white</i> (adjective) = trong sạch tuyệt đối. <b>Collocations / chunks</b>: <i>white</i> = trong sạch.",
+   "ex_kit": true,
+   "example": {
+    "en": "Not all politicians are <b>whiter than white</b>.",
+    "vi": "Chính trị gia không phải ai cũng <b>trong sạch tuyệt đối</b>."
+   }
+  },
+  {
+   "word": "white as a sheet",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌwaɪt əz ə ˈʃiːt/",
+   "def_en": "Very pale (from shock or fear).",
+   "def_vi": "Rất tái (vì sốc, sợ).",
+   "gloss_vi": "tái mét",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>White as a sheet</i> (adjective) = tái mét. <b>Collocations / chunks</b>: <i>go white as a sheet</i>.",
+   "example": {
+    "en": "She was so shocked that she went <b>white as a sheet</b>.",
+    "vi": "Cô ấy sốc đến mức mặt <b>tái mét</b>."
+   }
+  },
+  {
+   "word": "white-knuckle",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌwaɪt ˈnʌkl/",
+   "def_en": "Terrifying.",
+   "def_vi": "Đáng sợ.",
+   "gloss_vi": "kinh hoàng, thót tim",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>White-knuckle</i> (adjective) = kinh hoàng, thót tim. <b>Collocations / chunks</b>: <i>a white-knuckle ride</i>.",
+   "example": {
+    "en": "a <b>white-knuckle</b> ride at an amusement park such as Disneyland",
+    "vi": "Một trò chơi <b>thót tim</b> ở công viên giải trí."
+   }
+  },
+  {
+   "word": "white-collar workers",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌwaɪt ˌkɒlə ˈwɜːkəz/",
+   "def_en": "Office workers.",
+   "def_vi": "Nhân viên văn phòng.",
+   "gloss_vi": "nhân viên văn phòng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "blue-collar workers <i>(n. công nhân lao động chân tay)</i>",
+   "grammar_vi": "<i>White-collar workers</i> (noun) = nhân viên văn phòng. <b>Collocations / chunks</b>: <i>white-collar</i> ↔ <i>blue-collar</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>White-collar workers</b> usually work in offices.",
+    "vi": "<b>Nhân viên văn phòng</b> làm việc trong văn phòng."
+   }
+  }
+ ]
+}
