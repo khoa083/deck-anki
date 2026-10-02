@@ -1,0 +1,216 @@
+{
+ "book": "pre",
+ "unit": 84,
+ "title_vi": "Go: nghĩa và thành ngữ",
+ "theory_html": "<p><b>A. Different meanings of go</b><br><i>A. Các nghĩa của go</i></p> <p>activity: <b>go shopping/sightseeing/swimming/clubbing; go (out) for a walk/drive/drink/meal/picnic</b>; change of state (often bad): <b>go grey, go bald, go deaf, go blind, go mad</b>; route: <b>Does this bus go to…?</b>; disappear: <b>my watch had gone</b>; <b>go and get</b> = fetch.</p><p><i><b>đi chơi; bạc tóc, hói, điếc, mù, nổi điên; xe đi đến; biến mất; đi lấy</b>.</i></p> <p><b>B. Phrasal verbs and expressions</b><br><i>B. Cụm động từ và thành ngữ</i></p> <p><b>What’s going on? the lights went out; go on to the theatre; going well (opp badly); gone wrong; going away; go back; I’m going for the beef; How’s it going?</b></p><p><i><b>chuyện gì vậy; tắt; đi tiếp đến; suôn sẻ; trục trặc; đi nghỉ; quay lại; chọn món</b>.</i></p>",
+ "items": [
+  {
+   "word": "go clubbing",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ ˈklʌbɪŋ/",
+   "def_en": "To go to a nightclub.",
+   "def_vi": "Đi hộp đêm.",
+   "gloss_vi": "đi hộp đêm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go clubbing</i> (verb phrase) = đi hộp đêm. <b>Grammar</b>: <i>go</i> + V-ing cho hoạt động giải trí.",
+   "example": {
+    "en": "We could <b>go clubbing</b> tomorrow.",
+    "vi": "Ngày mai chúng ta có thể <b>đi hộp đêm</b>."
+   }
+  },
+  {
+   "word": "go for a meal",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ fər ə ˈmiːl/",
+   "def_en": "To go to a restaurant to eat.",
+   "def_vi": "Đi ăn nhà hàng.",
+   "gloss_vi": "đi ăn",
+   "synonyms": "eat out <i>(pv. ăn ngoài)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go for a meal</i> (verb phrase) = đi ăn. <b>Grammar</b>: <i>go (out) for a walk/drive/meal/picnic</i>.",
+   "example": {
+    "en": "Why don’t we go (out) <b>for a meal</b> at lunchtime?",
+    "vi": "Sao ta không <b>đi ăn</b> vào giờ trưa?"
+   }
+  },
+  {
+   "word": "go grey",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ ˈɡreɪ/",
+   "def_en": "(Of hair) to become grey.",
+   "def_vi": "(Tóc) chuyển bạc.",
+   "gloss_vi": "bạc tóc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go grey</i> (verb phrase) = bạc tóc. <b>Grammar</b>: <i>go</i> + tính từ = thay đổi trạng thái (thường xấu đi).",
+   "example": {
+    "en": "My dad’s <b>going grey</b>.",
+    "vi": "Bố tôi đang <b>bạc tóc</b>."
+   }
+  },
+  {
+   "word": "go bald",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ ˈbɔːld/",
+   "def_en": "To lose your hair.",
+   "def_vi": "Rụng tóc.",
+   "gloss_vi": "hói",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go bald</i> (verb phrase) = hói. <b>Grammar</b>: <i>bald</i> /bɔːld/.",
+   "example": {
+    "en": "My uncle is <b>going bald</b>.",
+    "vi": "Chú tôi đang <b>hói</b>."
+   }
+  },
+  {
+   "word": "go deaf",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ ˈdef/",
+   "def_en": "To become unable to hear.",
+   "def_vi": "Trở nên không nghe được.",
+   "gloss_vi": "bị điếc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go deaf</i> (verb phrase) = bị điếc. <b>Grammar</b>: <i>deaf</i> /def/ = không nghe được.",
+   "example": {
+    "en": "My grandmother is <b>going deaf</b>.",
+    "vi": "Bà tôi đang <b>bị điếc</b>."
+   }
+  },
+  {
+   "word": "go blind",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ ˈblaɪnd/",
+   "def_en": "To become unable to see.",
+   "def_vi": "Trở nên không nhìn thấy.",
+   "gloss_vi": "bị mù",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go blind</i> (verb phrase) = bị mù. <b>Grammar</b>: <i>blind</i> = không nhìn thấy.",
+   "example": {
+    "en": "Our 12-year-old dog is <b>going blind</b>.",
+    "vi": "Con chó 12 tuổi của chúng tôi đang <b>bị mù</b>."
+   }
+  },
+  {
+   "word": "go mad",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ ˈmæd/",
+   "def_en": "To become very angry (informal).",
+   "def_vi": "Trở nên rất giận (thân mật).",
+   "gloss_vi": "nổi điên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go mad</i> (verb phrase) = nổi điên. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "He’ll <b>go mad</b> if you wear his jacket.",
+    "vi": "Anh ấy sẽ <b>nổi điên</b> nếu bạn mặc áo khoác của anh ấy."
+   }
+  },
+  {
+   "word": "gone",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɡɒn/",
+   "def_en": "Not there any more.",
+   "def_vi": "Không còn ở đó.",
+   "gloss_vi": "biến mất",
+   "synonyms": "disappeared <i>(adj. biến mất)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gone</i> (adjective) = biến mất. <b>Grammar</b>: <i>go</i> = biến mất.",
+   "example": {
+    "en": "When I looked in the drawer, my watch <b>had gone</b>.",
+    "vi": "Khi nhìn vào ngăn kéo, chiếc đồng hồ của tôi <b>đã biến mất</b>."
+   }
+  },
+  {
+   "word": "go and get",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ ən ˈɡet/",
+   "def_en": "To go to a place and bring something back.",
+   "def_vi": "Đến một nơi và mang thứ gì về.",
+   "gloss_vi": "đi lấy",
+   "synonyms": "fetch <i>(v. đi lấy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go and get</i> (verb phrase) = đi lấy. <b>Grammar</b>: = <i>fetch</i>.",
+   "example": {
+    "en": "You stay here, and I’ll <b>go and get</b> the bags from the car.",
+    "vi": "Bạn ở đây, tôi sẽ <b>đi lấy</b> túi trên xe."
+   }
+  },
+  {
+   "word": "go out",
+   "sense": "light",
+   "pos": "phrasal verb",
+   "ipa": "/ˌɡəʊ ˈaʊt/",
+   "def_en": "(Of a light) to stop working.",
+   "def_vi": "(Đèn) tắt.",
+   "gloss_vi": "tắt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go out</i> (phrasal verb) = tắt. <b>Grammar</b>: nội động từ.",
+   "example": {
+    "en": "I touched this switch and the lights <b>went out</b>.",
+    "vi": "Tôi chạm vào công tắc này và đèn <b>tắt</b>."
+   }
+  },
+  {
+   "word": "go on to",
+   "sense": "place",
+   "pos": "phrasal verb",
+   "ipa": "/ˌɡəʊ ˈɒn tə/",
+   "def_en": "To continue or move to another place or thing.",
+   "def_vi": "Tiếp tục hay chuyển sang nơi khác.",
+   "gloss_vi": "đi tiếp đến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go on to</i> (phrasal verb) = đi tiếp đến. <b>Grammar</b>: <i>go on to</i> + nơi chốn / việc khác.",
+   "example": {
+    "en": "Shall we wait for George or <b>go on to</b> the theatre?",
+    "vi": "Chờ George hay <b>đi tiếp đến</b> nhà hát?"
+   }
+  },
+  {
+   "word": "go well",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡəʊ ˈwel/",
+   "def_en": "To be successful.",
+   "def_vi": "Thành công.",
+   "gloss_vi": "suôn sẻ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "go badly <i>(vp. không suôn sẻ)</i>",
+   "grammar_vi": "<i>Go well</i> (verb phrase) = suôn sẻ. <b>Grammar</b>: <i>Things are going well/badly</i>.",
+   "example": {
+    "en": "It was <b>going well</b> up until the summer.",
+    "vi": "Việc kinh doanh <b>suôn sẻ</b> cho đến mùa hè."
+   }
+  },
+  {
+   "word": "go for",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˈɡəʊ fə(r)/",
+   "def_en": "To choose.",
+   "def_vi": "Chọn.",
+   "gloss_vi": "chọn",
+   "synonyms": "choose <i>(v. chọn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go for</i> (phrasal verb) = chọn. <b>Grammar</b>: thân mật, khi chọn món.",
+   "example": {
+    "en": "I’m <b>going for</b> the roast beef.",
+    "vi": "Tôi <b>chọn</b> món bò nướng."
+   }
+  }
+ ]
+}

@@ -1,0 +1,248 @@
+{
+ "book": "pre",
+ "unit": 86,
+ "title_vi": "Danh từ không đếm được",
+ "theory_html": "<p><b>A. Common uncountable nouns</b><br><i>A. Danh từ không đếm được thường gặp</i></p> <p>No <b>a/an</b>, no plural, singular verb: <b>rubbish, news, advice, pocket money, equipment, furniture, scenery, knowledge, progress, room, toast, behaviour</b>. Labels: <b>bin, tent, sleeping bag, toast, torch</b>.</p><p><i><b>rác, tin tức, lời khuyên, tiền tiêu vặt, thiết bị, đồ nội thất, phong cảnh, kiến thức, tiến bộ, chỗ trống, bánh mì nướng, cách cư xử; túi ngủ, đèn pin</b>.</i></p> <p><b>B. Uncountable nouns in dictionaries</b><br><i>B. Trong từ điển</i></p> <p>(C) countable / (U) uncountable: <b>experience</b> (U) knowledge / (C) something that happens; <b>chance</b> (U) luck / (C) opportunity.</p><p><i><b>kinh nghiệm / trải nghiệm; may rủi / cơ hội</b>.</i></p> <p><b>C. Making uncountable nouns countable</b><br><i>C. Biến thành đếm được</i></p> <p><b>a piece of</b> (advice, equipment, toast, furniture, news), <b>a bit of</b> (infml): <b>a good piece of advice, an interesting bit of news</b>.</p><p><i><b>một lời khuyên, một mẩu tin</b>.</i></p>",
+ "items": [
+  {
+   "word": "rubbish",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈrʌbɪʃ/",
+   "def_en": "Things that you throw away because you do not want them.",
+   "def_vi": "Đồ vứt đi vì không cần.",
+   "gloss_vi": "rác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rubbish</i> (noun) = rác. <b>Grammar</b>: không đếm được; Mỹ <i>garbage, trash</i>.",
+   "example": {
+    "en": "You can put all that <b>rubbish</b> in the bin over there.",
+    "vi": "Bạn có thể bỏ hết <b>rác</b> vào thùng ở kia."
+   }
+  },
+  {
+   "word": "news",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/njuːz/",
+   "def_en": "New information about recent events.",
+   "def_vi": "Thông tin mới về sự kiện gần đây.",
+   "gloss_vi": "tin tức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>News</i> (noun) = tin tức. <b>Grammar</b>: không đếm được, động từ số ít: <i>The news is…</i>.",
+   "example": {
+    "en": "Is there any more <b>news</b> about the man who was injured?",
+    "vi": "Có thêm <b>tin tức</b> gì về người đàn ông bị thương không?"
+   }
+  },
+  {
+   "word": "advice",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ədˈvaɪs/",
+   "def_en": "What you think someone should do.",
+   "def_vi": "Điều bạn nghĩ ai đó nên làm.",
+   "gloss_vi": "lời khuyên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Advice</i> (noun) = lời khuyên. <b>Grammar</b>: không đếm được: <i>a piece of advice</i>. <b>Common mistakes</b>: <i>advice</i> /-s/ (n.), <i>advise</i> /-z/ (v.).",
+   "example": {
+    "en": "She gave me some good <b>advice</b> about buying a car.",
+    "vi": "Cô ấy cho tôi <b>lời khuyên</b> tốt về việc mua xe."
+   }
+  },
+  {
+   "word": "pocket money",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈpɒkɪt ˌmʌni/",
+   "def_en": "Money that parents give regularly to their children.",
+   "def_vi": "Tiền bố mẹ cho con đều đặn.",
+   "gloss_vi": "tiền tiêu vặt",
+   "synonyms": "allowance <i>(n. tiền trợ cấp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pocket money</i> (noun phrase) = tiền tiêu vặt. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "Do the children get <b>pocket money</b>?",
+    "vi": "Bọn trẻ có được <b>tiền tiêu vặt</b> không?"
+   }
+  },
+  {
+   "word": "equipment",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪˈkwɪpmənt/",
+   "def_en": "The things that are used for a particular activity.",
+   "def_vi": "Những thứ dùng cho một hoạt động.",
+   "gloss_vi": "thiết bị, đồ dùng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Equipment</i> (noun) = thiết bị, đồ dùng. <b>Grammar</b>: không đếm được: <i>a piece of equipment</i>.",
+   "example": {
+    "en": "You need a lot of <b>equipment</b> for camping.",
+    "vi": "Bạn cần nhiều <b>đồ dùng</b> để cắm trại."
+   }
+  },
+  {
+   "word": "furniture",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfɜːnɪtʃə(r)/",
+   "def_en": "Tables, chairs, armchairs, etc.",
+   "def_vi": "Bàn, ghế, ghế bành…",
+   "gloss_vi": "đồ nội thất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Furniture</i> (noun) = đồ nội thất. <b>Grammar</b>: không đếm được: <i>a piece of furniture</i>.",
+   "example": {
+    "en": "We sold the <b>furniture</b>.",
+    "vi": "Chúng tôi đã bán <b>đồ nội thất</b>."
+   }
+  },
+  {
+   "word": "knowledge",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈnɒlɪdʒ/",
+   "def_en": "What you know about something.",
+   "def_vi": "Điều bạn biết về thứ gì.",
+   "gloss_vi": "kiến thức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Knowledge</i> (noun) = kiến thức. <b>Grammar</b>: không đếm được; <i>k</i> câm.",
+   "example": {
+    "en": "My <b>knowledge of</b> Russian is limited.",
+    "vi": "<b>Kiến thức</b> tiếng Nga của tôi còn hạn chế."
+   }
+  },
+  {
+   "word": "room",
+   "sense": "space",
+   "pos": "noun",
+   "ipa": "/ruːm/",
+   "def_en": "Empty space.",
+   "def_vi": "Khoảng trống.",
+   "gloss_vi": "chỗ trống",
+   "synonyms": "space <i>(n. chỗ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Room</i> (noun) = chỗ trống. <b>Grammar</b>: không đếm được ở nghĩa này.",
+   "example": {
+    "en": "We haven’t got any <b>room</b> in our car.",
+    "vi": "Xe chúng tôi không còn <b>chỗ</b>."
+   }
+  },
+  {
+   "word": "toast",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/təʊst/",
+   "def_en": "Bread that has been made brown by heating it.",
+   "def_vi": "Bánh mì đã nướng vàng.",
+   "gloss_vi": "bánh mì nướng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Toast</i> (noun) = bánh mì nướng. <b>Grammar</b>: không đếm được: <i>a piece/slice of toast</i>.",
+   "example": {
+    "en": "Would anyone like some more <b>toast</b>?",
+    "vi": "Có ai muốn thêm <b>bánh mì nướng</b> không?"
+   }
+  },
+  {
+   "word": "behaviour",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bɪˈheɪvjə(r)/",
+   "def_en": "The way you do and say things.",
+   "def_vi": "Cách bạn làm và nói.",
+   "gloss_vi": "cách cư xử",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Behaviour</i> (noun) = cách cư xử. <b>Grammar</b>: không đếm được; Mỹ <i>behavior</i>. <b>Word family</b>: <i>behave</i> (v.).",
+   "example": {
+    "en": "The children’s <b>behaviour</b> was terrible.",
+    "vi": "<b>Cách cư xử</b> của bọn trẻ thật tệ."
+   }
+  },
+  {
+   "word": "sleeping bag",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈsliːpɪŋ bæɡ/",
+   "def_en": "A warm bag for sleeping in when camping.",
+   "def_vi": "Túi ấm để ngủ khi cắm trại.",
+   "gloss_vi": "túi ngủ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sleeping bag</i> (noun phrase) = túi ngủ. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "You need a lot of equipment for camping, e.g. tent, <b>sleeping bag</b>, torch.",
+    "vi": "Cắm trại cần lều, <b>túi ngủ</b> và đèn pin."
+   }
+  },
+  {
+   "word": "torch",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tɔːtʃ/",
+   "def_en": "A small electric light you can carry.",
+   "def_vi": "Đèn điện nhỏ cầm tay.",
+   "gloss_vi": "đèn pin",
+   "synonyms": "flashlight <i>(n. đèn pin (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Torch</i> (noun) = đèn pin. <b>Grammar</b>: Anh–Anh.",
+   "example": {
+    "en": "You need a lot of equipment for camping, e.g. tent, sleeping bag, <b>torch</b>.",
+    "vi": "Cắm trại cần lều, túi ngủ và <b>đèn pin</b>."
+   }
+  },
+  {
+   "word": "experience",
+   "sense": "countable",
+   "pos": "noun",
+   "ipa": "/ɪkˈspɪəriəns/",
+   "def_en": "Something that happens to you that affects the way you feel.",
+   "def_vi": "Điều xảy ra với bạn ảnh hưởng đến cảm xúc.",
+   "gloss_vi": "trải nghiệm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Experience</i> (noun) = trải nghiệm. <b>Grammar</b>: (C) trải nghiệm ≠ (U) kinh nghiệm.",
+   "example": {
+    "en": "I had so many fantastic <b>experiences</b> on my trip to Thailand and Japan.",
+    "vi": "Tôi có rất nhiều <b>trải nghiệm</b> tuyệt vời trong chuyến đi Thái Lan và Nhật Bản."
+   }
+  },
+  {
+   "word": "chance",
+   "sense": "luck",
+   "pos": "noun",
+   "ipa": "/tʃɑːns/",
+   "def_en": "Luck.",
+   "def_vi": "Sự may rủi.",
+   "gloss_vi": "may rủi",
+   "synonyms": "luck <i>(n. may mắn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chance</i> (noun) = may rủi. <b>Grammar</b>: (U) may rủi; (C) cơ hội: <i>several chances</i>.",
+   "example": {
+    "en": "Lotto is a game of <b>chance</b>.",
+    "vi": "Xổ số là trò chơi <b>may rủi</b>."
+   }
+  },
+  {
+   "word": "a piece of",
+   "sense": "",
+   "pos": "determiner",
+   "ipa": "/ə ˈpiːs əv/",
+   "def_en": "One item of an uncountable noun.",
+   "def_vi": "Một đơn vị của danh từ không đếm được.",
+   "gloss_vi": "một (lời, mẩu, món)",
+   "synonyms": "a bit of <i>(det. một chút)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A piece of</i> (determiner) = một (lời, mẩu, món). <b>Grammar</b>: <i>a piece of advice/furniture/news/toast</i>.",
+   "example": {
+    "en": "a good <b>piece of</b> advice",
+    "vi": "Một <b>lời</b> khuyên hay."
+   }
+  }
+ ]
+}

@@ -1,0 +1,284 @@
+{
+ "book": "pre",
+ "unit": 85,
+ "title_vi": "Các giác quan",
+ "theory_html": "<p><b>A. The five basic senses</b><br><i>A. Năm giác quan</i></p> <p><b>sight, hearing, taste, smell, touch</b> – the ability to see, hear, taste, smell and feel.</p><p><i><b>thị giác, thính giác, vị giác, khứu giác, xúc giác</b>.</i></p> <p><b>B. Sense verbs with adjectives</b><br><i>B. Động từ giác quan + tính từ</i></p> <p><b>look tired, sound foreign, taste strange, smell wonderful, feel damp</b>; nouns: <b>the look of, the sound of</b>.</p><p><i><b>trông, nghe có vẻ, có vị, có mùi, cảm thấy; ẩm</b>.</i></p> <p><b>C. Sense verbs with like or as if/though</b><br><i>C. Với like / as if</i></p> <p><b>look like peaches, sound like an alarm, smell like/of coconut, feel like silk; look as if…, sound as though…</b> (NOT <b>like</b> + adjective). <b>seem / appear</b> (<b>seemed quite happy</b>, <b>seems like a good idea</b>).</p><p><i><b>trông giống, nghe như, có mùi như; dường như</b>.</i></p> <p><b>D. Verbs easily confused</b><br><i>D. Động từ dễ nhầm</i></p> <p><b>look / see / watch</b> (<b>saw a film at the cinema</b>); <b>hear / listen</b>; <b>touch / feel</b>.</p><p><i><b>nhìn / thấy / xem; nghe thấy / lắng nghe; chạm / sờ</b>.</i></p>",
+ "items": [
+  {
+   "word": "sight",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/saɪt/",
+   "def_en": "The ability to see.",
+   "def_vi": "Khả năng nhìn.",
+   "gloss_vi": "thị giác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sight</i> (noun) = thị giác. <b>Grammar</b>: không đếm được ở nghĩa này. <b>Common mistakes</b>: <i>sights</i> = thắng cảnh.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Sight</b> is the ability to see.",
+    "vi": "<b>Thị giác</b> là khả năng nhìn."
+   }
+  },
+  {
+   "word": "hearing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhɪərɪŋ/",
+   "def_en": "The ability to hear.",
+   "def_vi": "Khả năng nghe.",
+   "gloss_vi": "thính giác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hearing</i> (noun) = thính giác. <b>Grammar</b>: không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "My grandfather’s <b>hearing</b> isn’t very good.",
+    "vi": "Ông tôi có <b>thính giác</b> kém."
+   }
+  },
+  {
+   "word": "smell",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/smel/",
+   "def_en": "The ability to notice things with your nose.",
+   "def_vi": "Khả năng nhận biết bằng mũi.",
+   "gloss_vi": "khứu giác, mùi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Smell</i> (noun) = khứu giác, mùi. <b>Grammar</b>: <i>sense of smell</i>; động từ <i>smell – smelt/smelled</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Dogs have a very good sense of <b>smell</b>.",
+    "vi": "Chó có <b>khứu giác</b> rất tốt."
+   }
+  },
+  {
+   "word": "touch",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tʌtʃ/",
+   "def_en": "The ability to feel things with your hands or body.",
+   "def_vi": "Khả năng cảm nhận bằng tay hay cơ thể.",
+   "gloss_vi": "xúc giác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Touch</i> (noun) = xúc giác. <b>Grammar</b>: <i>sense of touch</i>; cũng là động từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "Blind people depend a lot on <b>touch</b>.",
+    "vi": "Người mù dựa nhiều vào <b>xúc giác</b>."
+   }
+  },
+  {
+   "word": "sound",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/saʊnd/",
+   "def_en": "To seem, from what you hear.",
+   "def_vi": "Có vẻ, qua điều nghe được.",
+   "gloss_vi": "nghe có vẻ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sound</i> (verb) = nghe có vẻ. <b>Grammar</b>: <i>sound</i> + tính từ; <i>sound like</i> + danh từ.",
+   "example": {
+    "en": "That man <b>sounded</b> foreign.",
+    "vi": "Người đàn ông đó <b>nghe có vẻ</b> là người nước ngoài."
+   }
+  },
+  {
+   "word": "foreign",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈfɒrən/",
+   "def_en": "From another country.",
+   "def_vi": "Từ nước khác.",
+   "gloss_vi": "nước ngoài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Foreign</i> (adjective) = nước ngoài. <b>Grammar</b>: <i>g</i> câm. <b>Word family</b>: <i>foreigner</i> (n.).",
+   "example": {
+    "en": "That man sounded <b>foreign</b>.",
+    "vi": "Người đàn ông đó nghe có vẻ là người <b>nước ngoài</b>."
+   }
+  },
+  {
+   "word": "smell",
+   "sense": "verb",
+   "pos": "verb",
+   "ipa": "/smel/",
+   "def_en": "To have a particular smell.",
+   "def_vi": "Có mùi nào đó.",
+   "gloss_vi": "có mùi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Smell</i> (verb) = có mùi. <b>Grammar</b>: <i>smell</i> + tính từ; <i>smell of/like</i> + danh từ.",
+   "example": {
+    "en": "Fresh bread <b>smells</b> wonderful.",
+    "vi": "Bánh mì mới ra lò <b>thơm</b> tuyệt vời."
+   }
+  },
+  {
+   "word": "feel",
+   "sense": "touch",
+   "pos": "verb",
+   "ipa": "/fiːl/",
+   "def_en": "To give a particular feeling when touched.",
+   "def_vi": "Cho cảm giác nào đó khi chạm vào.",
+   "gloss_vi": "sờ thấy, có cảm giác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Feel</i> (verb) = sờ thấy, có cảm giác. <b>Grammar</b>: <i>feel</i> + tính từ; <i>feel like</i> + danh từ.",
+   "example": {
+    "en": "This shirt <b>feels</b> damp.",
+    "vi": "Chiếc áo này <b>sờ thấy</b> ẩm."
+   }
+  },
+  {
+   "word": "damp",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dæmp/",
+   "def_en": "Slightly wet, often in an unpleasant way.",
+   "def_vi": "Hơi ướt, thường khó chịu.",
+   "gloss_vi": "ẩm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "dry <i>(adj. khô)</i>",
+   "grammar_vi": "<i>Damp</i> (adjective) = ẩm. <b>Grammar</b>: <i>damp</i> (khó chịu) ≠ <i>moist</i>.",
+   "example": {
+    "en": "This shirt feels <b>damp</b>.",
+    "vi": "Chiếc áo này sờ thấy <b>ẩm</b>."
+   }
+  },
+  {
+   "word": "look like",
+   "sense": "similar",
+   "pos": "phrasal verb",
+   "ipa": "/ˈlʊk laɪk/",
+   "def_en": "To be similar in appearance to.",
+   "def_vi": "Có vẻ ngoài giống.",
+   "gloss_vi": "trông giống",
+   "synonyms": "resemble <i>(v. giống)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Look like</i> (phrasal verb) = trông giống. <b>Grammar</b>: <i>like</i> + danh từ (không <i>like</i> + tính từ).",
+   "example": {
+    "en": "Have you ever had a nectarine? They <b>look like</b> peaches.",
+    "vi": "Bạn ăn quả xuân đào chưa? Chúng <b>trông giống</b> quả đào."
+   }
+  },
+  {
+   "word": "sound like",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˈsaʊnd laɪk/",
+   "def_en": "To seem similar to, from what you hear.",
+   "def_vi": "Nghe giống.",
+   "gloss_vi": "nghe như",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sound like</i> (phrasal verb) = nghe như. <b>Grammar</b>: + danh từ.",
+   "example": {
+    "en": "Did you hear that noise? It <b>sounded like</b> an alarm.",
+    "vi": "Bạn nghe tiếng ồn đó không? Nó <b>nghe như</b> chuông báo động."
+   }
+  },
+  {
+   "word": "feel like",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˈfiːl laɪk/",
+   "def_en": "To seem similar to, when touched.",
+   "def_vi": "Sờ thấy giống.",
+   "gloss_vi": "sờ như",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Feel like</i> (phrasal verb) = sờ như. <b>Grammar</b>: + danh từ. <b>Common mistakes</b>: cũng = muốn.",
+   "example": {
+    "en": "Don’t you think this material <b>feels like</b> silk?",
+    "vi": "Bạn không thấy chất liệu này <b>sờ như</b> lụa sao?"
+   }
+  },
+  {
+   "word": "as if",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/əz ˈɪf/",
+   "def_en": "In a way that suggests something.",
+   "def_vi": "Theo cách gợi ra điều gì.",
+   "gloss_vi": "như thể",
+   "synonyms": "as though <i>(conj. như thể)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As if</i> (conjunction) = như thể. <b>Grammar</b>: <i>look/sound as if</i> + mệnh đề.",
+   "example": {
+    "en": "That boy looks <b>as if</b> he’s trying to get over the wall.",
+    "vi": "Cậu bé đó trông <b>như thể</b> đang cố trèo qua tường."
+   }
+  },
+  {
+   "word": "seem",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/siːm/",
+   "def_en": "To appear to be.",
+   "def_vi": "Có vẻ là.",
+   "gloss_vi": "dường như, có vẻ",
+   "synonyms": "appear <i>(v. có vẻ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Seem</i> (verb) = dường như, có vẻ. <b>Grammar</b>: <i>seem like</i> + danh từ; <i>seem to be</i>.",
+   "example": {
+    "en": "I saw Will and he <b>seemed</b> quite happy.",
+    "vi": "Tôi gặp Will và anh ấy <b>có vẻ</b> khá vui."
+   }
+  },
+  {
+   "word": "appear",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈpɪə(r)/",
+   "def_en": "To seem.",
+   "def_vi": "Có vẻ.",
+   "gloss_vi": "dường như",
+   "synonyms": "seem <i>(v. có vẻ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Appear</i> (verb) = dường như. <b>Grammar</b>: <i>appear to be</i>. <b>Common mistakes</b>: cũng = xuất hiện.",
+   "example": {
+    "en": "The shop <b>appears</b> to be very busy.",
+    "vi": "Cửa hàng <b>dường như</b> rất đông."
+   }
+  },
+  {
+   "word": "watch",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/wɒtʃ/",
+   "def_en": "To pay attention to something, often for a long time.",
+   "def_vi": "Chú ý vào thứ gì, thường lâu.",
+   "gloss_vi": "theo dõi, xem",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Watch</i> (verb) = theo dõi, xem. <b>Grammar</b>: <i>watch TV</i> nhưng <i>see a film at the cinema</i>.",
+   "example": {
+    "en": "They’ve been <b>watching</b> that man for weeks.",
+    "vi": "Họ đã <b>theo dõi</b> người đàn ông đó nhiều tuần."
+   }
+  },
+  {
+   "word": "listen",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈlɪsn/",
+   "def_en": "To pay attention to sounds.",
+   "def_vi": "Chú ý vào âm thanh.",
+   "gloss_vi": "lắng nghe",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Listen</i> (verb) = lắng nghe. <b>Grammar</b>: <i>listen to sb/sth</i>. <b>Common mistakes</b>: <i>t</i> câm.",
+   "example": {
+    "en": "I heard what she said but I wasn’t <b>listening</b>.",
+    "vi": "Tôi nghe thấy cô ấy nói gì nhưng tôi không <b>lắng nghe</b>."
+   }
+  }
+ ]
+}
