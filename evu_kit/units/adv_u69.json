@@ -1,0 +1,543 @@
+{
+ "book": "adv",
+ "unit": 69,
+ "title_vi": "Khó khăn và tình thế khó xử",
+ "theory_html": "<p><b>A. Nouns relating to difficulties</b><br><i>A. Danh từ chỉ khó khăn</i></p> <p>Fairly small: <b>a snag, a hitch, a glitch</b> (technical). More important: <b>setback, stumbling block, pitfall</b> (often plural), <b>obstacle, impediment, dilemma, ordeal</b>.</p><p><i>Nhỏ: <b>trục trặc, vướng mắc, lỗi kỹ thuật</b>. Lớn hơn: <b>trở ngại, rào cản, cạm bẫy, chướng ngại, sự cản trở, tình thế khó xử, thử thách khổ ải</b>.</i></p> <p><b>B. Adjectives relating to difficulty</b><br><i>B. Tính từ chỉ khó khăn</i></p> <p><b>problematic, abstruse, arduous, complex, convoluted, gruelling, insufferable, obstructive, tough, traumatic, wayward</b>. Common mistake: <b>have (great) difficulty in doing sth</b> (singular, NOT difficulties).</p><p><i><b>đầy vấn đề, khó hiểu, gian khổ, phức tạp, rối rắm, mệt nhoài, không chịu nổi, gây cản trở, khó khăn, gây chấn thương, ương bướng</b>. Lỗi thường gặp: <b>have difficulty in doing</b> (số ít).</i></p> <p><b>C. Informal expressions relating to difficulties</b><br><i>C. Cách nói thân mật</i></p> <p><b>What a pain! / What a drag!, chore, What’s eating him? / What’s got into him? / What’s bugging him?, hassle, torture, slog (your guts out) / grind / graft / flog yourself to death, in a fix / in a spot / in a hole / up against it / up to your neck, sticky / tricky, off the hook / in the clear / out of the wood(s), downside</b>.</p><p><i><b>Phiền quá!, việc nhàm chán, Anh ta bị sao thế?, phiền toái, cực hình, làm cật lực, gặp khó, khó xử, thoát nạn, mặt trái</b>.</i></p>",
+ "items": [
+  {
+   "word": "snag",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/snæɡ/",
+   "def_en": "A fairly small difficulty.",
+   "def_vi": "Khó khăn khá nhỏ.",
+   "gloss_vi": "trục trặc, vướng mắc",
+   "synonyms": "hitch <i>(n. vướng mắc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Snag</i> (noun) = trục trặc, vướng mắc. <b>Collocations / chunks</b>: <i>the only snag is…</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "There’s just one small <b>snag</b> with the plan.",
+    "vi": "Kế hoạch gặp một <b>trục trặc</b> nhỏ."
+   }
+  },
+  {
+   "word": "hitch",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/hɪtʃ/",
+   "def_en": "A fairly small difficulty.",
+   "def_vi": "Khó khăn khá nhỏ.",
+   "gloss_vi": "trục trặc nhỏ",
+   "synonyms": "snag <i>(n. trục trặc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hitch</i> (noun) = trục trặc nhỏ. <b>Collocations / chunks</b>: <i>without a hitch</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The ceremony went off without a <b>hitch</b>.",
+    "vi": "Buổi lễ diễn ra không một <b>trục trặc</b>."
+   }
+  },
+  {
+   "word": "glitch",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɡlɪtʃ/",
+   "def_en": "A small technical problem.",
+   "def_vi": "Lỗi kỹ thuật nhỏ.",
+   "gloss_vi": "lỗi kỹ thuật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Glitch</i> (noun) = lỗi kỹ thuật. <b>Grammar</b>: thường chỉ lỗi kỹ thuật.",
+   "ex_kit": true,
+   "example": {
+    "en": "A technical <b>glitch</b> stopped the system for a few minutes.",
+    "vi": "Một <b>lỗi kỹ thuật</b> làm hệ thống dừng vài phút."
+   }
+  },
+  {
+   "word": "setback",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsetbæk/",
+   "def_en": "Something that stops progress.",
+   "def_vi": "Điều làm ngưng tiến triển.",
+   "gloss_vi": "bước lùi, trở ngại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Setback</i> (noun) = bước lùi, trở ngại. <b>Collocations / chunks</b>: <i>suffer a setback</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The injury was a major <b>setback</b> to his career.",
+    "vi": "Chấn thương là một <b>bước lùi</b> lớn cho sự nghiệp anh ấy."
+   }
+  },
+  {
+   "word": "stumbling block",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈstʌmblɪŋ blɒk/",
+   "def_en": "Something that prevents action or agreement.",
+   "def_vi": "Điều cản trở hành động hay thỏa thuận.",
+   "gloss_vi": "rào cản",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stumbling block</i> (noun) = rào cản. <b>Collocations / chunks</b>: <i>a stumbling block to</i> sth.",
+   "ex_kit": true,
+   "example": {
+    "en": "Price is the main <b>stumbling block</b> to an agreement.",
+    "vi": "Giá cả là <b>rào cản</b> chính của thỏa thuận."
+   }
+  },
+  {
+   "word": "pitfall",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɪtfɔːl/",
+   "def_en": "An unexpected difficulty (often plural).",
+   "def_vi": "Khó khăn bất ngờ (thường số nhiều).",
+   "gloss_vi": "cạm bẫy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pitfall</i> (noun) = cạm bẫy. <b>Collocations / chunks</b>: <i>the pitfalls of</i> sth.",
+   "ex_kit": true,
+   "example": {
+    "en": "The book points out the <b>pitfalls</b> of buying a house.",
+    "vi": "Cuốn sách chỉ ra các <b>cạm bẫy</b> khi mua nhà."
+   }
+  },
+  {
+   "word": "obstacle",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɒbstəkl/",
+   "def_en": "Anything that stops progress, literally or metaphorically.",
+   "def_vi": "Bất cứ gì ngăn tiến triển (đen hay bóng).",
+   "gloss_vi": "chướng ngại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Obstacle</i> (noun) = chướng ngại. <b>Collocations / chunks</b>: <i>an obstacle to</i> sth.",
+   "ex_kit": true,
+   "example": {
+    "en": "Lack of money is the biggest <b>obstacle</b>.",
+    "vi": "Thiếu tiền là <b>chướng ngại</b> lớn nhất."
+   }
+  },
+  {
+   "word": "impediment",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪmˈpedɪmənt/",
+   "def_en": "Something that prevents free action, progress or movement.",
+   "def_vi": "Điều cản trở hành động, tiến triển hay di chuyển.",
+   "gloss_vi": "sự cản trở",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Impediment</i> (noun) = sự cản trở. <b>Collocations / chunks</b>: <i>speech impediment</i> = tật nói.",
+   "ex_kit": true,
+   "example": {
+    "en": "The old law is an <b>impediment</b> to progress.",
+    "vi": "Luật cũ là <b>sự cản trở</b> cho tiến bộ."
+   }
+  },
+  {
+   "word": "dilemma",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈlemə/",
+   "def_en": "A situation where a difficult choice has to be made between two, sometimes unpleasant, alternatives.",
+   "def_vi": "Tình huống phải chọn khó giữa hai lựa chọn, đôi khi đều tệ.",
+   "gloss_vi": "tình thế tiến thoái lưỡng nan",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dilemma</i> (noun) = tình thế tiến thoái lưỡng nan. <b>Collocations / chunks</b>: <i>face a dilemma</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I’m in a <b>dilemma</b>: take the job or stay.",
+    "vi": "Tôi đang ở <b>tình thế khó xử</b>: nhận việc hay ở lại."
+   }
+  },
+  {
+   "word": "ordeal",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɔːˈdiːl/",
+   "def_en": "A severe experience, which is very difficult, painful or tiring.",
+   "def_vi": "Trải nghiệm khắc nghiệt, rất khó, đau đớn hay mệt.",
+   "gloss_vi": "thử thách khổ ải",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ordeal</i> (noun) = thử thách khổ ải. <b>Collocations / chunks</b>: <i>go through an ordeal</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Being stuck in the lift for two hours was an <b>ordeal</b>.",
+    "vi": "Bị kẹt trong thang máy hai giờ là một <b>thử thách khổ ải</b>."
+   }
+  },
+  {
+   "word": "problematic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌprɒbləˈmætɪk/",
+   "def_en": "Full of problems or difficulties.",
+   "def_vi": "Đầy vấn đề hay khó khăn.",
+   "gloss_vi": "đầy vấn đề",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Problematic</i> (adjective) = đầy vấn đề. <b>Collocations / chunks</b>: <i>problematic relationship/situation/concept</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "They have a <b>problematic</b> relationship.",
+    "vi": "Họ có một mối quan hệ <b>đầy vấn đề</b>."
+   }
+  },
+  {
+   "word": "abstruse",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/æbˈstruːs/",
+   "def_en": "Difficult to understand.",
+   "def_vi": "Khó hiểu.",
+   "gloss_vi": "khó hiểu, uyên áo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Abstruse</i> (adjective) = khó hiểu, uyên áo. <b>Collocations / chunks</b>: <i>abstruse theory/argument/philosopher</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "His theory is too <b>abstruse</b> for me.",
+    "vi": "Lý thuyết của ông ấy quá <b>khó hiểu</b> với tôi."
+   }
+  },
+  {
+   "word": "arduous",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɑːdjuəs/",
+   "def_en": "Difficult, tiring, needing much effort.",
+   "def_vi": "Khó, mệt, cần nhiều nỗ lực.",
+   "gloss_vi": "gian khổ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Arduous</i> (adjective) = gian khổ. <b>Collocations / chunks</b>: <i>arduous climb/task/journey</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "It was an <b>arduous</b> climb.",
+    "vi": "Đó là chuyến leo núi <b>gian khổ</b>."
+   }
+  },
+  {
+   "word": "complex",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈkɒmpleks/",
+   "def_en": "Difficult to understand as it has many parts.",
+   "def_vi": "Khó hiểu vì có nhiều phần.",
+   "gloss_vi": "phức tạp",
+   "synonyms": "complicated <i>(adj. phức tạp)</i>",
+   "antonyms": "simple <i>(adj. đơn giản)</i>",
+   "grammar_vi": "<i>Complex</i> (adjective) = phức tạp. <b>Collocations / chunks</b>: <i>complex issue/problem/theory/process</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "This is a <b>complex</b> issue.",
+    "vi": "Đây là một vấn đề <b>phức tạp</b>."
+   }
+  },
+  {
+   "word": "convoluted",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈkɒnvəluːtɪd/",
+   "def_en": "Unreasonably long and hard to follow.",
+   "def_vi": "Dài quá mức, khó theo dõi.",
+   "gloss_vi": "rối rắm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Convoluted</i> (adjective) = rối rắm. <b>Collocations / chunks</b>: <i>convoluted explanation/sentences/theory</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He gave a <b>convoluted</b> explanation.",
+    "vi": "Anh ta đưa ra lời giải thích <b>rối rắm</b>."
+   }
+  },
+  {
+   "word": "gruelling",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɡruːəlɪŋ/",
+   "def_en": "Extremely tiring and difficult.",
+   "def_vi": "Cực kỳ mệt và khó.",
+   "gloss_vi": "mệt nhoài, khắc nghiệt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gruelling</i> (adjective) = mệt nhoài, khắc nghiệt. <b>Collocations / chunks</b>: <i>gruelling journey/work/match/expedition</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "After the <b>gruelling</b> journey, they fell asleep at once.",
+    "vi": "Sau chuyến đi <b>mệt nhoài</b>, họ ngủ ngay."
+   }
+  },
+  {
+   "word": "insufferable",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪnˈsʌfrəbl/",
+   "def_en": "Difficult to bear, as it is annoying or uncomfortable.",
+   "def_vi": "Khó chịu đựng vì phiền hay khó chịu.",
+   "gloss_vi": "không chịu nổi",
+   "synonyms": "unbearable <i>(adj. không chịu nổi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Insufferable</i> (adjective) = không chịu nổi. <b>Collocations / chunks</b>: <i>insufferable behaviour/heat/boredom/person</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The heat was <b>insufferable</b>.",
+    "vi": "Cái nóng thật <b>không chịu nổi</b>."
+   }
+  },
+  {
+   "word": "obstructive",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əbˈstrʌktɪv/",
+   "def_en": "Causing deliberate difficulties.",
+   "def_vi": "Cố ý gây khó khăn.",
+   "gloss_vi": "gây cản trở",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "helpful <i>(adj. hay giúp đỡ)</i>",
+   "grammar_vi": "<i>Obstructive</i> (adjective) = gây cản trở. <b>Grammar</b>: động từ <i>obstruct</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The official was being very <b>obstructive</b>.",
+    "vi": "Nhân viên đó rất <b>gây khó dễ</b>."
+   }
+  },
+  {
+   "word": "tough",
+   "sense": "difficult",
+   "pos": "adjective",
+   "ipa": "/tʌf/",
+   "def_en": "Difficult to deal with or do.",
+   "def_vi": "Khó đối phó hay làm.",
+   "gloss_vi": "khó khăn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tough</i> (adjective) = khó khăn. <b>Collocations / chunks</b>: <i>tough time/job/climate/decision</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "It was a <b>tough</b> decision.",
+    "vi": "Đó là một quyết định <b>khó khăn</b>."
+   }
+  },
+  {
+   "word": "traumatic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/trɔːˈmætɪk/",
+   "def_en": "Shocking and upsetting.",
+   "def_vi": "Gây sốc và đau buồn.",
+   "gloss_vi": "gây chấn thương tâm lý",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Traumatic</i> (adjective) = gây chấn thương tâm lý. <b>Collocations / chunks</b>: <i>traumatic experience/past/childhood</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She had a <b>traumatic</b> childhood.",
+    "vi": "Cô ấy có tuổi thơ <b>đầy sang chấn</b>."
+   }
+  },
+  {
+   "word": "wayward",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈweɪwəd/",
+   "def_en": "Changeable, selfish and/or hard to control.",
+   "def_vi": "Thất thường, ích kỷ, khó kiểm soát.",
+   "gloss_vi": "ương bướng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wayward</i> (adjective) = ương bướng. <b>Collocations / chunks</b>: <i>wayward behaviour/child</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The parents worried about their <b>wayward</b> son.",
+    "vi": "Cha mẹ lo lắng cho đứa con <b>ương bướng</b>."
+   }
+  },
+  {
+   "word": "have difficulty in",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/hæv ˈdɪfɪkəlti ɪn/",
+   "def_en": "To find it hard to do something.",
+   "def_vi": "Thấy khó làm việc gì.",
+   "gloss_vi": "gặp khó khăn trong",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have difficulty in</i> (verb) = gặp khó khăn trong. <b>Grammar</b>: <i>difficulty</i> số ít, không <i>great difficulties</i>.",
+   "example": {
+    "en": "I had great <b>difficulty in finding</b> a job at first",
+    "vi": "Lúc đầu tôi rất <b>khó khăn trong việc</b> tìm việc."
+   }
+  },
+  {
+   "word": "what a drag",
+   "sense": "",
+   "pos": "excl",
+   "ipa": "/ˌwɒt ə ˈdræɡ/",
+   "def_en": "What a nuisance!",
+   "def_vi": "Phiền quá!",
+   "gloss_vi": "chán quá!",
+   "synonyms": "what a pain <i>(excl. phiền quá)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>What a drag</i> (excl) = chán quá!. <b>Collocations / chunks</b>: thân mật, cũng <i>What a pain!</i>.",
+   "example": {
+    "en": "Oh dear, more homework! <b>What a drag</b>!",
+    "vi": "Ôi, lại bài tập! <b>Chán quá</b>!"
+   }
+  },
+  {
+   "word": "what’s eating him",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ˌwɒts ˈiːtɪŋ hɪm/",
+   "def_en": "What’s the matter with him?",
+   "def_vi": "Anh ta bị sao vậy?",
+   "gloss_vi": "anh ta bị làm sao thế",
+   "synonyms": "what’s got into him <i>(cl. anh ta bị sao)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>What’s eating him</i> (cl) = anh ta bị làm sao thế. <b>Collocations / chunks</b>: thân mật, cũng <i>What’s bugging him? / What’s (up) with him?</i>.",
+   "example": {
+    "en": "<b>What’s eating him</b>?",
+    "vi": "<b>Anh ta bị sao thế</b>? Cả ngày cáu kỉnh."
+   }
+  },
+  {
+   "word": "hassle",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhæsl/",
+   "def_en": "A situation causing trouble or difficulty.",
+   "def_vi": "Tình huống gây rắc rối.",
+   "gloss_vi": "sự phiền toái",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hassle</i> (noun) = sự phiền toái. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "I can’t face the <b>hassle</b> of moving house again.",
+    "vi": "Tôi không chịu nổi <b>phiền toái</b> chuyển nhà lần nữa."
+   }
+  },
+  {
+   "word": "hassle",
+   "sense": "ask again and again",
+   "pos": "verb",
+   "ipa": "/ˈhæsl/",
+   "def_en": "To ask again and again.",
+   "def_vi": "Hỏi đi hỏi lại.",
+   "gloss_vi": "nằng nặc đòi",
+   "synonyms": "pester <i>(v. quấy rầy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hassle</i> (verb) = nằng nặc đòi. <b>Collocations / chunks</b>: <i>hassle sb for/about</i> sth.",
+   "example": {
+    "en": "My daughter keeps <b>hassling</b> me for a new bike.",
+    "vi": "Con gái tôi cứ <b>nằng nặc đòi</b> xe đạp mới."
+   }
+  },
+  {
+   "word": "torture",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtɔːtʃə(r)/",
+   "def_en": "An unpleasant experience (figurative).",
+   "def_vi": "Trải nghiệm khó chịu (nghĩa bóng).",
+   "gloss_vi": "cực hình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Torture</i> (noun) = cực hình. <b>Collocations / chunks</b>: <i>sheer torture</i>.",
+   "example": {
+    "en": "Having to listen to him singing is sheer <b>torture</b>!",
+    "vi": "Phải nghe anh ta hát đúng là <b>cực hình</b>!"
+   }
+  },
+  {
+   "word": "slog your guts out",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌslɒɡ jə ˈɡʌts aʊt/",
+   "def_en": "To work hard (informal).",
+   "def_vi": "Làm việc cật lực (thân mật).",
+   "gloss_vi": "làm cật lực",
+   "synonyms": "graft <i>(v. làm lụng vất vả)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Slog your guts out</i> (verb) = làm cật lực. <b>Collocations / chunks</b>: thân mật, cũng <i>grind / graft / flog yourself to death</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I’ve been <b>slogging my guts out</b> all week on this project.",
+    "vi": "Tôi <b>làm cật lực</b> cả tuần cho dự án."
+   }
+  },
+  {
+   "word": "in a fix",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪn ə ˈfɪks/",
+   "def_en": "In a difficult situation (informal).",
+   "def_vi": "Trong tình thế khó (thân mật).",
+   "gloss_vi": "gặp rắc rối",
+   "synonyms": "in a hole <i>(adj. lâm vào thế khó)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In a fix</i> (adjective) = gặp rắc rối. <b>Collocations / chunks</b>: cũng <i>in a spot / in a hole / up against it / up to your neck</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I’ve lost my keys and now I’m <b>in a fix</b>.",
+    "vi": "Tôi mất chìa khóa, giờ <b>gặp rắc rối</b> rồi."
+   }
+  },
+  {
+   "word": "sticky",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈstɪki/",
+   "def_en": "Difficult (informal).",
+   "def_vi": "Khó khăn (thân mật).",
+   "gloss_vi": "khó xử",
+   "synonyms": "tricky <i>(adj. khó)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sticky</i> (adjective) = khó xử. <b>Collocations / chunks</b>: <i>a sticky/tricky situation</i>.",
+   "example": {
+    "en": "The company’s in a <b>sticky</b> situation now the workers are going to strike.",
+    "vi": "Công ty ở <b>tình thế khó xử</b> khi công nhân sắp đình công."
+   }
+  },
+  {
+   "word": "off the hook",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɒf ðə ˈhʊk/",
+   "def_en": "Freed from a difficult situation.",
+   "def_vi": "Thoát khỏi tình thế khó.",
+   "gloss_vi": "thoát nạn",
+   "synonyms": "in the clear <i>(adj. thoát tội)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Off the hook</i> (adjective) = thoát nạn. <b>Collocations / chunks</b>: cũng <i>in the clear / out of the wood(s)</i>.",
+   "example": {
+    "en": "I think I’m <b>off the hook</b> now.",
+    "vi": "Tôi nghĩ giờ tôi đã <b>thoát nạn</b>."
+   }
+  },
+  {
+   "word": "downside",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdaʊnsaɪd/",
+   "def_en": "The disadvantage of a situation.",
+   "def_vi": "Mặt bất lợi của tình huống.",
+   "gloss_vi": "mặt trái",
+   "synonyms": "disadvantage <i>(n. bất lợi)</i>",
+   "antonyms": "upside <i>(n. mặt tốt)</i>",
+   "grammar_vi": "<i>Downside</i> (noun) = mặt trái. <b>Grammar</b>: danh từ ghép <i>down</i> + <i>side</i>.",
+   "example": {
+    "en": "The <b>downside</b> of living here is the traffic thundering by.",
+    "vi": "<b>Mặt trái</b> của việc sống ở đây là xe cộ ầm ầm."
+   }
+  }
+ ]
+}

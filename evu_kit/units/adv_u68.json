@@ -1,0 +1,349 @@
+{
+ "book": "adv",
+ "unit": 68,
+ "title_vi": "Tìm điểm khác biệt: so sánh",
+ "theory_html": "<p><b>A. Talking about similarity</b><br><i>A. Nói về sự giống nhau</i></p> <p><b>affinity between / with, akin to, use an analogy, (not) correspond to, equate (with), tantamount to, interchangeable, indistinguishable from</b>.</p><p><i><b>sự gần gũi/tương đồng, giống với, dùng phép so sánh, (không) khớp với, đánh đồng, chẳng khác gì, có thể hoán đổi, không phân biệt được</b>.</i></p> <p><b>B. Talking about difference: adjectives beginning with di-</b><br><i>B. Nói về khác biệt: tính từ bắt đầu bằng di-</i></p> <p><b>diverse, disparate, dissimilar</b> (often with not), <b>divergent, distinct, distinctive, discrete</b>; verbs: <b>differentiate, diversify, diverge, distinguish</b>. Language help: <b>comparable (to)</b> = similar in some way; <b>comparative</b> = when comparing (comparative silence/freedom/comfort).</p><p><i><b>đa dạng, khác biệt rời rạc, không giống, trái ngược, riêng biệt, đặc trưng, tách bạch</b>; động từ: <b>phân biệt, đa dạng hóa, rẽ khác, nhận ra khác biệt</b>. <b>comparable</b> = tương đương; <b>comparative</b> = tương đối.</i></p>",
+ "items": [
+  {
+   "word": "affinity",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈfɪnəti/",
+   "def_en": "Closeness, similarity; a feeling that different things or people have much in common.",
+   "def_vi": "Sự gần gũi, tương đồng; cảm thấy có nhiều điểm chung.",
+   "gloss_vi": "sự tương đồng, đồng cảm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Affinity</i> (noun) = sự tương đồng, đồng cảm. <b>Collocations / chunks</b>: <i>an affinity between A and B</i>, <i>feel an affinity with</i>.",
+   "example": {
+    "en": "I often feel there is a cultural <b>affinity between</b> London and New York.",
+    "vi": "Tôi thấy có sự <b>tương đồng</b> văn hóa giữa London và New York."
+   }
+  },
+  {
+   "word": "akin to",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əˈkɪn tə/",
+   "def_en": "Similar in spirit/feel.",
+   "def_vi": "Giống về tinh thần/cảm giác.",
+   "gloss_vi": "giống với",
+   "synonyms": "similar to <i>(adj. giống)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Akin to</i> (adjective) = giống với. <b>Grammar</b>: <i>be akin to</i> sth.",
+   "example": {
+    "en": "Her singing is more <b>akin to</b> that of Rihanna than Adele.",
+    "vi": "Giọng hát cô ấy <b>giống</b> Rihanna hơn Adele."
+   }
+  },
+  {
+   "word": "analogy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈnælədʒi/",
+   "def_en": "A comparison seeing similarities that help us understand something.",
+   "def_vi": "Sự so sánh thấy điểm giống để hiểu điều gì.",
+   "gloss_vi": "phép loại suy, so sánh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Analogy</i> (noun) = phép loại suy, so sánh. <b>Collocations / chunks</b>: <i>use / draw an analogy</i>.",
+   "example": {
+    "en": "To use a sporting <b>analogy</b>, middle age is like half-time at a football match.",
+    "vi": "Dùng <b>phép so sánh</b> thể thao, tuổi trung niên như giờ nghỉ giữa trận."
+   }
+  },
+  {
+   "word": "correspond to",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkɒrəˈspɒnd tə/",
+   "def_en": "To be equal to / match.",
+   "def_vi": "Bằng / khớp với.",
+   "gloss_vi": "khớp với, tương ứng",
+   "synonyms": "match <i>(v. khớp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Correspond to</i> (verb) = khớp với, tương ứng. <b>Collocations / chunks</b>: <i>correspond to/with</i> sth.",
+   "example": {
+    "en": "The picture this news article paints does not <b>correspond to</b> the truth.",
+    "vi": "Bức tranh bài báo vẽ ra <b>không khớp với</b> sự thật."
+   }
+  },
+  {
+   "word": "equate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/iˈkweɪt/",
+   "def_en": "To consider as the same.",
+   "def_vi": "Coi như nhau.",
+   "gloss_vi": "đánh đồng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Equate</i> (verb) = đánh đồng. <b>Collocations / chunks</b>: <i>equate A with B</i>.",
+   "example": {
+    "en": "It’s a mistake to <b>equate</b> the price of something with its true value.",
+    "vi": "Thật sai lầm khi <b>đánh đồng</b> giá cả với giá trị thật."
+   }
+  },
+  {
+   "word": "tantamount to",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈtæntəmaʊnt tə/",
+   "def_en": "The equivalent of (normally used in negative contexts).",
+   "def_vi": "Tương đương với (thường ngữ cảnh tiêu cực).",
+   "gloss_vi": "chẳng khác gì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tantamount to</i> (adjective) = chẳng khác gì. <b>Grammar</b>: <i>be tantamount to</i> + V-ing/danh từ.",
+   "example": {
+    "en": "to apologise would be <b>tantamount to</b> admitting she had failed",
+    "vi": "Xin lỗi <b>chẳng khác gì</b> thừa nhận cô ấy đã thất bại."
+   }
+  },
+  {
+   "word": "interchangeable",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɪntəˈtʃeɪndʒəbl/",
+   "def_en": "So similar that they could be exchanged one for the other.",
+   "def_vi": "Giống đến mức có thể hoán đổi.",
+   "gloss_vi": "có thể hoán đổi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Interchangeable</i> (adjective) = có thể hoán đổi. <b>Grammar</b>: <i>inter-</i> + <i>changeable</i>.",
+   "example": {
+    "en": "The goals of the two sides in the war have become almost <b>interchangeable</b>.",
+    "vi": "Mục tiêu hai bên gần như <b>có thể hoán đổi</b>."
+   }
+  },
+  {
+   "word": "indistinguishable from",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɪndɪˈstɪŋɡwɪʃəbl frəm/",
+   "def_en": "So similar you cannot see the difference.",
+   "def_vi": "Giống đến mức không thấy khác biệt.",
+   "gloss_vi": "không phân biệt được với",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Indistinguishable from</i> (adjective) = không phân biệt được với. <b>Grammar</b>: tiền tố <i>in-</i> + <i>distinguishable</i>.",
+   "example": {
+    "en": "Mrs Burton’s house was <b>indistinguishable from</b> all the others in the street.",
+    "vi": "Nhà bà Burton <b>không khác gì</b> mọi căn khác trong phố."
+   }
+  },
+  {
+   "word": "diverse",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/daɪˈvɜːs/",
+   "def_en": "Made up of different types of something.",
+   "def_vi": "Gồm nhiều loại khác nhau.",
+   "gloss_vi": "đa dạng",
+   "synonyms": "varied <i>(adj. đa dạng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Diverse</i> (adjective) = đa dạng. <b>Grammar</b>: danh từ <i>diversity</i>.",
+   "example": {
+    "en": "The <b>diverse</b> ethnic groups living in Malaysia give the country its cultural richness.",
+    "vi": "Các nhóm dân tộc <b>đa dạng</b> ở Malaysia làm phong phú văn hóa."
+   }
+  },
+  {
+   "word": "disparate",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈdɪspərət/",
+   "def_en": "Different types within a group, emphasising separation and difference.",
+   "def_vi": "Các loại khác nhau trong nhóm, nhấn mạnh sự tách biệt.",
+   "gloss_vi": "khác biệt, tản mát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Disparate</i> (adjective) = khác biệt, tản mát. <b>Grammar</b>: danh từ <i>disparity</i>.",
+   "example": {
+    "en": "The <b>disparate</b> regions of Spain all have unique customs and cultures.",
+    "vi": "Các vùng <b>khác biệt</b> của Tây Ban Nha đều có phong tục riêng."
+   }
+  },
+  {
+   "word": "dissimilar",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dɪˈsɪmɪlə(r)/",
+   "def_en": "Different (very often used with not).",
+   "def_vi": "Khác (thường dùng với not).",
+   "gloss_vi": "không giống",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "similar <i>(adj. giống)</i>",
+   "grammar_vi": "<i>Dissimilar</i> (adjective) = không giống. <b>Collocations / chunks</b>: <i>not dissimilar to</i>.",
+   "example": {
+    "en": "This house is not <b>dissimilar</b> to the one I was born in.",
+    "vi": "Ngôi nhà này <b>không khác</b> mấy căn tôi sinh ra."
+   }
+  },
+  {
+   "word": "divergent",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/daɪˈvɜːdʒənt/",
+   "def_en": "(Of opinions or ideas) contrasting within a group.",
+   "def_vi": "(Ý kiến) trái ngược trong nhóm.",
+   "gloss_vi": "khác nhau, bất đồng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Divergent</i> (adjective) = khác nhau, bất đồng. <b>Collocations / chunks</b>: <i>widely divergent</i>.",
+   "example": {
+    "en": "They have widely <b>divergent</b> opinions.",
+    "vi": "Họ có những ý kiến <b>khác nhau</b> rất xa."
+   }
+  },
+  {
+   "word": "distinct",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dɪˈstɪŋkt/",
+   "def_en": "Different (where one might be deceived by similarities).",
+   "def_vi": "Khác hẳn (dù có thể tưởng giống).",
+   "gloss_vi": "khác biệt rõ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Distinct</i> (adjective) = khác biệt rõ. <b>Collocations / chunks</b>: <i>distinct from</i>.",
+   "example": {
+    "en": "The Swedish and Norwegian languages are quite <b>distinct</b> from one another",
+    "vi": "Tiếng Thụy Điển và Na Uy khá <b>khác biệt</b> nhau dù viết trông giống."
+   }
+  },
+  {
+   "word": "distinctive",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dɪˈstɪŋktɪv/",
+   "def_en": "Easy to recognise because it is different.",
+   "def_vi": "Dễ nhận ra vì khác biệt.",
+   "gloss_vi": "đặc trưng, dễ nhận",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Distinctive</i> (adjective) = đặc trưng, dễ nhận. <b>Collocations / chunks</b>: <i>a distinctive colour/voice/style</i>.",
+   "example": {
+    "en": "It’s easy to find our car in a car park because of its <b>distinctive</b> colour.",
+    "vi": "Dễ tìm xe chúng tôi vì màu <b>đặc trưng</b>."
+   }
+  },
+  {
+   "word": "discrete",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dɪˈskriːt/",
+   "def_en": "Different and separate, not overlapping.",
+   "def_vi": "Khác và tách biệt, không chồng lấn.",
+   "gloss_vi": "tách bạch, riêng rẽ",
+   "synonyms": "separate <i>(adj. riêng biệt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Discrete</i> (adjective) = tách bạch, riêng rẽ. <b>Grammar</b>: khác <i>discreet</i> (kín đáo).",
+   "example": {
+    "en": "There are several <b>discrete</b> categories of verbs in English.",
+    "vi": "Tiếng Anh có vài nhóm động từ <b>tách bạch</b>."
+   }
+  },
+  {
+   "word": "differentiate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌdɪfəˈrenʃieɪt/",
+   "def_en": "To find a difference between.",
+   "def_vi": "Tìm ra khác biệt.",
+   "gloss_vi": "phân biệt",
+   "synonyms": "distinguish <i>(v. phân biệt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Differentiate</i> (verb) = phân biệt. <b>Collocations / chunks</b>: <i>differentiate between A and B</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "It is hard to <b>differentiate</b> between the two species.",
+    "vi": "Rất khó <b>phân biệt</b> hai loài này."
+   }
+  },
+  {
+   "word": "diversify",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/daɪˈvɜːsɪfaɪ/",
+   "def_en": "To become or make more varied.",
+   "def_vi": "Trở nên hay làm cho đa dạng hơn.",
+   "gloss_vi": "đa dạng hóa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Diversify</i> (verb) = đa dạng hóa. <b>Grammar</b>: danh từ <i>diversification</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The company decided to <b>diversify</b> its products.",
+    "vi": "Công ty quyết định <b>đa dạng hóa</b> sản phẩm."
+   }
+  },
+  {
+   "word": "diverge",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/daɪˈvɜːdʒ/",
+   "def_en": "To move away, become more different from something.",
+   "def_vi": "Rẽ ra, trở nên khác hơn.",
+   "gloss_vi": "rẽ khác, khác dần",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "converge <i>(v. hội tụ)</i>",
+   "grammar_vi": "<i>Diverge</i> (verb) = rẽ khác, khác dần. <b>Collocations / chunks</b>: <i>diverge from</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Their views began to <b>diverge</b>.",
+    "vi": "Ý kiến của họ bắt đầu <b>khác dần</b> đi."
+   }
+  },
+  {
+   "word": "distinguish",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪˈstɪŋɡwɪʃ/",
+   "def_en": "To notice the difference between two things.",
+   "def_vi": "Nhận ra khác biệt giữa hai thứ.",
+   "gloss_vi": "phân biệt",
+   "synonyms": "differentiate <i>(v. phân biệt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Distinguish</i> (verb) = phân biệt. <b>Collocations / chunks</b>: <i>distinguish A from B / between A and B</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He can’t <b>distinguish</b> the twins.",
+    "vi": "Anh ấy không <b>phân biệt</b> được hai cặp song sinh."
+   }
+  },
+  {
+   "word": "comparable",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈkɒmpərəbl/",
+   "def_en": "Similar in some way to something else.",
+   "def_vi": "Giống ở mặt nào đó.",
+   "gloss_vi": "tương đương",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Comparable</i> (adjective) = tương đương. <b>Collocations / chunks</b>: <i>comparable to/with</i>.",
+   "example": {
+    "en": "The two girls are a <b>comparable</b> size.",
+    "vi": "Hai cô gái có cỡ người <b>tương đương</b>."
+   }
+  },
+  {
+   "word": "comparative",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kəmˈpærətɪv/",
+   "def_en": "When comparing different things; relative.",
+   "def_vi": "Khi so sánh; tương đối.",
+   "gloss_vi": "tương đối",
+   "synonyms": "relative <i>(adj. tương đối)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Comparative</i> (adjective) = tương đối. <b>Collocations / chunks</b>: <i>comparative silence/freedom/comfort</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "After the party, we enjoyed the <b>comparative</b> silence.",
+    "vi": "Sau buổi tiệc, chúng tôi tận hưởng sự yên tĩnh <b>tương đối</b>."
+   }
+  }
+ ]
+}
