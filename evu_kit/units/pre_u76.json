@@ -1,0 +1,344 @@
+{
+ "book": "pre",
+ "unit": 76,
+ "title_vi": "Cụm cố định trong hội thoại",
+ "theory_html": "<p><b>A. Common responses</b><br><i>A. Câu đáp thường gặp</i></p> <p><b>I’ve no idea. That depends / It depends. Why not? Not really. What for? No way (syn no chance). I suppose so. I couldn’t believe my eyes! You must be joking (syn you’re joking/kidding). I don’t believe it!</b></p><p><i><b>tôi không biết; còn tùy; sao lại không; không hẳn; để làm gì; không đời nào; chắc vậy; không tin vào mắt mình; bạn đùa à; không thể tin được</b>.</i></p> <p><b>B. In conversation</b><br><i>B. Trong hội thoại</i></p> <p><b>have a word with; you know; pay attention; that sort/kind of thing; in that case; feel bad about; can’t help it; wait and see; what if…?; change your mind</b>. <b>sort of / kind of</b> = approximately.</p><p><i><b>nói chuyện riêng; bạn biết đấy; chú ý; đại loại thế; nếu vậy; thấy áy náy; không kìm được; chờ xem; nếu… thì sao; đổi ý; kiểu như</b>.</i></p>",
+ "items": [
+  {
+   "word": "I’ve no idea",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/aɪv ˌnəʊ aɪˈdɪə/",
+   "def_en": "I don’t know.",
+   "def_vi": "Tôi không biết.",
+   "gloss_vi": "tôi chịu, không biết",
+   "synonyms": "I don’t know <i>(phr. tôi không biết)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>I’ve no idea</i> (phrase) = tôi chịu, không biết. <b>Grammar</b>: cũng <i>I have no idea</i>.",
+   "example": {
+    "en": "What time did he get here? – <b>I’ve no idea</b>.",
+    "vi": "Anh ấy đến lúc mấy giờ? – <b>Tôi chịu</b>."
+   }
+  },
+  {
+   "word": "that depends",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌðæt dɪˈpendz/",
+   "def_en": "I’m not sure because other things affect my answer.",
+   "def_vi": "Tôi không chắc vì còn phụ thuộc điều khác.",
+   "gloss_vi": "còn tùy",
+   "synonyms": "it depends <i>(phr. còn tùy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>That depends</i> (phrase) = còn tùy. <b>Grammar</b>: <i>It depends (on…)</i>.",
+   "example": {
+    "en": "Are you going tonight? – <b>That depends</b>.",
+    "vi": "Tối nay bạn đi không? – <b>Còn tùy</b>."
+   }
+  },
+  {
+   "word": "why not",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌwaɪ ˈnɒt/",
+   "def_en": "OK; yes.",
+   "def_vi": "Được; đồng ý.",
+   "gloss_vi": "sao lại không",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Why not</i> (phrase) = sao lại không. <b>Grammar</b>: đồng ý với gợi ý.",
+   "example": {
+    "en": "Shall we go out tonight? – Yeah, <b>why not</b>?",
+    "vi": "Tối nay đi chơi nhé? – Ừ, <b>sao lại không</b>?"
+   }
+  },
+  {
+   "word": "not really",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌnɒt ˈrɪəli/",
+   "def_en": "Used to say no, but not strongly.",
+   "def_vi": "Nói không nhưng nhẹ nhàng.",
+   "gloss_vi": "không hẳn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Not really</i> (phrase) = không hẳn. <b>Grammar</b>: phủ định nhẹ.",
+   "example": {
+    "en": "Did you like the film? – <b>Not really</b>.",
+    "vi": "Bạn có thích phim không? – <b>Không hẳn</b>."
+   }
+  },
+  {
+   "word": "what for",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌwɒt ˈfɔː(r)/",
+   "def_en": "Why?",
+   "def_vi": "Tại sao?",
+   "gloss_vi": "để làm gì",
+   "synonyms": "why <i>(adv. tại sao)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>What for</i> (phrase) = để làm gì. <b>Grammar</b>: hỏi mục đích.",
+   "example": {
+    "en": "I’m going to Sweden next week. – Really. <b>What for</b>?",
+    "vi": "Tuần sau tôi đi Thụy Điển. – Thật à. <b>Để làm gì</b>?"
+   }
+  },
+  {
+   "word": "no way",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌnəʊ ˈweɪ/",
+   "def_en": "That’s impossible (informal).",
+   "def_vi": "Không thể được (thân mật).",
+   "gloss_vi": "không đời nào",
+   "synonyms": "no chance <i>(phr. không có cửa)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>No way</i> (phrase) = không đời nào. <b>Grammar</b>: thân mật, mạnh.",
+   "example": {
+    "en": "Can I borrow your car? – <b>No way</b>.",
+    "vi": "Cho tôi mượn xe được không? – <b>Không đời nào</b>."
+   }
+  },
+  {
+   "word": "I suppose so",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/aɪ səˈpəʊz səʊ/",
+   "def_en": "Used to say yes, but not strongly.",
+   "def_vi": "Nói có nhưng không chắc lắm.",
+   "gloss_vi": "chắc vậy",
+   "synonyms": "I guess so <i>(phr. chắc thế)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>I suppose so</i> (phrase) = chắc vậy. <b>Grammar</b>: phủ định <i>I suppose not</i>.",
+   "example": {
+    "en": "They’re coming tonight, aren’t they? – <b>I suppose so</b>.",
+    "vi": "Tối nay họ đến phải không? – <b>Chắc vậy</b>."
+   }
+  },
+  {
+   "word": "I couldn’t believe my eyes",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/aɪ ˌkʊdnt bɪˌliːv maɪ ˈaɪz/",
+   "def_en": "I was very surprised when I saw it.",
+   "def_vi": "Tôi rất ngạc nhiên khi thấy.",
+   "gloss_vi": "không tin vào mắt mình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>I couldn’t believe my eyes</i> (phrase) = không tin vào mắt mình. <b>Grammar</b>: dùng ở quá khứ.",
+   "example": {
+    "en": "I know. <b>I couldn’t believe my eyes</b>!",
+    "vi": "Tôi biết. <b>Tôi không tin vào mắt mình</b>!"
+   }
+  },
+  {
+   "word": "you must be joking",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/juː ˌmʌst bi ˈdʒəʊkɪŋ/",
+   "def_en": "Used when someone has said something surprising.",
+   "def_vi": "Dùng khi ai nói điều gây bất ngờ.",
+   "gloss_vi": "bạn đùa à",
+   "synonyms": "you’re kidding <i>(phr. bạn đùa à)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>You must be joking</i> (phrase) = bạn đùa à. <b>Grammar</b>: bất ngờ dễ chịu hay khó chịu đều được.",
+   "example": {
+    "en": "We have to work tonight. – <b>You must be joking</b>.",
+    "vi": "Tối nay chúng ta phải làm việc. – <b>Bạn đùa à</b>."
+   }
+  },
+  {
+   "word": "I don’t believe it",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/aɪ ˌdəʊnt bɪˈliːv ɪt/",
+   "def_en": "Used to express great surprise.",
+   "def_vi": "Dùng để bày tỏ ngạc nhiên lớn.",
+   "gloss_vi": "không thể tin được",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>I don’t believe it</i> (phrase) = không thể tin được. <b>Grammar</b>: cảm thán.",
+   "example": {
+    "en": "Eli got top marks. – <b>I don’t believe it</b>!",
+    "vi": "Eli được điểm cao nhất. – <b>Không thể tin được</b>!"
+   }
+  },
+  {
+   "word": "have a word with",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌhæv ə ˈwɜːd wɪð/",
+   "def_en": "To speak to someone without others listening.",
+   "def_vi": "Nói riêng với ai.",
+   "gloss_vi": "nói chuyện riêng với",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have a word with</i> (verb phrase) = nói chuyện riêng với. <b>Grammar</b>: <i>have a word with sb (about sth)</i>.",
+   "example": {
+    "en": "I had to <b>have a word with</b> Vince and Milan today.",
+    "vi": "Hôm nay tôi phải <b>nói chuyện riêng với</b> Vince và Milan."
+   }
+  },
+  {
+   "word": "you know",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/juː ˈnəʊ/",
+   "def_en": "Used to fill a pause in conversation.",
+   "def_vi": "Dùng lấp khoảng ngừng khi nói.",
+   "gloss_vi": "bạn biết đấy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>You know</i> (phrase) = bạn biết đấy. <b>Grammar</b>: từ đệm trong văn nói.",
+   "example": {
+    "en": "Well, <b>you know</b>, they just keep talking to each other.",
+    "vi": "Ừ thì, <b>bạn biết đấy</b>, họ cứ nói chuyện với nhau."
+   }
+  },
+  {
+   "word": "pay attention",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌpeɪ əˈtenʃn/",
+   "def_en": "To listen or watch carefully.",
+   "def_vi": "Lắng nghe hay xem cẩn thận.",
+   "gloss_vi": "chú ý",
+   "synonyms": "listen <i>(v. lắng nghe)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pay attention</i> (verb phrase) = chú ý. <b>Grammar</b>: <i>pay attention (to sth)</i>.",
+   "example": {
+    "en": "They don’t <b>pay attention</b>.",
+    "vi": "Họ không <b>chú ý</b>."
+   }
+  },
+  {
+   "word": "that sort of thing",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˈðæt sɔːt əv θɪŋ/",
+   "def_en": "Examples of that type.",
+   "def_vi": "Những thứ thuộc loại đó.",
+   "gloss_vi": "đại loại thế",
+   "synonyms": "that kind of thing <i>(phr. những thứ như vậy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>That sort of thing</i> (phrase) = đại loại thế. <b>Grammar</b>: văn nói thân mật.",
+   "example": {
+    "en": "They don’t pay attention – <b>that sort of thing</b>.",
+    "vi": "Họ không chú ý – <b>đại loại thế</b>."
+   }
+  },
+  {
+   "word": "in that case",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪn ˈðæt keɪs/",
+   "def_en": "Because of the situation described.",
+   "def_vi": "Vì tình huống vừa nói.",
+   "gloss_vi": "nếu vậy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In that case</i> (phrase) = nếu vậy. <b>Grammar</b>: đứng đầu câu.",
+   "example": {
+    "en": "Well, <b>in that case</b>, you’ll have to move one of them.",
+    "vi": "<b>Nếu vậy</b>, bạn sẽ phải chuyển một em đi."
+   }
+  },
+  {
+   "word": "feel bad about",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌfiːl ˈbæd əbaʊt/",
+   "def_en": "To be unhappy about something you did.",
+   "def_vi": "Thấy không vui về việc mình làm.",
+   "gloss_vi": "thấy áy náy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Feel bad about</i> (verb phrase) = thấy áy náy. <b>Grammar</b>: + danh từ / V-ing.",
+   "example": {
+    "en": "Maybe, but I’d <b>feel bad about</b> that.",
+    "vi": "Có lẽ, nhưng tôi sẽ <b>thấy áy náy</b> về điều đó."
+   }
+  },
+  {
+   "word": "can’t help it",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌkɑːnt ˈhelp ɪt/",
+   "def_en": "Can’t control some actions or behaviour.",
+   "def_vi": "Không kiểm soát được hành động.",
+   "gloss_vi": "không kìm được",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Can’t help it</i> (phrase) = không kìm được. <b>Grammar</b>: <i>can’t help</i> + V-ing.",
+   "example": {
+    "en": "They just <b>can’t help it</b>.",
+    "vi": "Chúng chỉ <b>không kìm được</b> thôi."
+   }
+  },
+  {
+   "word": "wait and see",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌweɪt ən ˈsiː/",
+   "def_en": "To wait to discover what will happen.",
+   "def_vi": "Chờ để biết điều sẽ xảy ra.",
+   "gloss_vi": "chờ xem",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wait and see</i> (verb phrase) = chờ xem. <b>Grammar</b>: trật tự cố định.",
+   "example": {
+    "en": "Let’s <b>wait and see</b> what happens.",
+    "vi": "Hãy <b>chờ xem</b> chuyện gì xảy ra."
+   }
+  },
+  {
+   "word": "what if",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌwɒt ˈɪf/",
+   "def_en": "What will happen if…?",
+   "def_vi": "Điều gì sẽ xảy ra nếu…?",
+   "gloss_vi": "nếu… thì sao",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>What if</i> (phrase) = nếu… thì sao. <b>Grammar</b>: + mệnh đề hiện tại.",
+   "example": {
+    "en": "But <b>what if</b> they don’t improve?",
+    "vi": "Nhưng <b>nếu</b> chúng không tiến bộ <b>thì sao</b>?"
+   }
+  },
+  {
+   "word": "change your mind",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌtʃeɪndʒ jə ˈmaɪnd/",
+   "def_en": "To change your decision.",
+   "def_vi": "Thay đổi quyết định.",
+   "gloss_vi": "đổi ý",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Change your mind</i> (verb phrase) = đổi ý. <b>Grammar</b>: <i>change my/your mind</i>.",
+   "example": {
+    "en": "If you <b>change your mind</b>, come and see me again.",
+    "vi": "Nếu bạn <b>đổi ý</b>, hãy đến gặp tôi lần nữa."
+   }
+  },
+  {
+   "word": "sort of",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈsɔːt əv/",
+   "def_en": "Approximately; more or less.",
+   "def_vi": "Đại khái, hơi.",
+   "gloss_vi": "kiểu như, hơi",
+   "synonyms": "kind of <i>(adv. hơi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sort of</i> (adverb) = kiểu như, hơi. <b>Grammar</b>: văn nói thân mật.",
+   "example": {
+    "en": "Her new top is <b>sort of</b> blue.",
+    "vi": "Áo mới của cô ấy <b>hơi</b> xanh."
+   }
+  }
+ ]
+}
