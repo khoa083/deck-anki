@@ -1,0 +1,736 @@
+{
+ "book": "adv",
+ "unit": 15,
+ "title_vi": "Sinh và tử: từ nôi đến mộ",
+ "theory_html": "<p><b>A. At the beginning</b><br><i>A. Lúc khởi đầu</i></p> <p><b>pregnancy, conception, fertilise, embryo, implant, womb/uterus, conceive, fertility drugs, IVF (test tube babies), foetus, placenta, go into labour, be induced, give birth, midwife, deliver, caesarean section</b>.</p><p><i><b>thai kỳ, thụ thai, thụ tinh, phôi, làm tổ, tử cung, có thai, thuốc hỗ trợ sinh sản, thụ tinh ống nghiệm, thai nhi, nhau thai, chuyển dạ, kích sinh, sinh con, nữ hộ sinh, đỡ đẻ, mổ lấy thai</b>.</i></p> <p><b>LH. Language help</b><br><i>LH. Lưu ý ngôn ngữ</i></p> <p><b>Expect</b> when it means ‘expect a baby’ is only used in the continuous form: <b>Helena and her sister are both expecting.</b></p><p><i><b>Expect</b> (có thai) chỉ dùng thì tiếp diễn.</i></p> <p><b>B. At the end</b><br><i>B. Lúc cuối đời</i></p> <p><b>live to a ripe old age, late, pensioner, sheltered accommodation, doddery, gaga</b> (informal, offensive), <b>have all your wits about you, dementia, coffin, wake, will, ashes, mourning, mourners, bereaved, cremation, crematorium, burial, scatter</b>.</p><p><i><b>sống thọ, quá cố, người hưởng lương hưu, nhà dưỡng lão có người chăm, lẩy bẩy, lẩm cẩm, còn minh mẫn, sa sút trí tuệ, quan tài, lễ viếng, di chúc, tro cốt, để tang, hỏa táng, chôn cất, rải</b>.</i></p> <p><b>C. Death in different registers</b><br><i>C. Cái chết ở các văn phong</i></p> <p>Sympathy: <b>Please accept my condolences</b> (formal), <b>sorry to hear of your loss</b>. Euphemisms: <b>pass away/on/over</b>. Very informal: <b>be at death’s door, be on your last legs</b>. Newspaper: <b>fatalities, perished, slaughtered</b>. Legal: <b>the deceased, bequeath (a bequest), inherit (an inheritance), die intestate</b>.</p><p><i>Chia buồn, uyển ngữ, cách nói thân mật, từ báo chí, từ pháp lý.</i></p>",
+ "items": [
+  {
+   "word": "pregnancy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpreɡnənsi/",
+   "def_en": "The nine-month period when a woman is expecting a baby.",
+   "def_vi": "Chín tháng người phụ nữ mang thai.",
+   "gloss_vi": "thai kỳ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pregnancy</i> (noun) = thai kỳ. <b>Grammar</b>: <i>pregnant</i> (adj.).",
+   "example": {
+    "en": "<b>Pregnancy</b> is the nine-month period when a woman is expecting a baby.",
+    "vi": "<b>Thai kỳ</b> kéo dài chín tháng."
+   }
+  },
+  {
+   "word": "conception",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kənˈsepʃn/",
+   "def_en": "The time when sperm and egg meet and a baby starts to form.",
+   "def_vi": "Lúc tinh trùng gặp trứng, bắt đầu hình thành em bé.",
+   "gloss_vi": "sự thụ thai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Conception</i> (noun) = sự thụ thai. <b>Grammar</b>: <i>conceive</i> (v.).",
+   "example": {
+    "en": "It begins with <b>conception</b>.",
+    "vi": "Thai kỳ bắt đầu bằng <b>sự thụ thai</b>."
+   }
+  },
+  {
+   "word": "fertilise",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈfɜːtəlaɪz/",
+   "def_en": "To make an egg start developing into new life.",
+   "def_vi": "Làm trứng bắt đầu phát triển thành sự sống.",
+   "gloss_vi": "thụ tinh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fertilise</i> (verb) = thụ tinh. <b>Grammar</b>: Mỹ <i>fertilize</i>.",
+   "example": {
+    "en": "when the mother’s egg is <b>fertilised</b>",
+    "vi": "Khi trứng của người mẹ được <b>thụ tinh</b>."
+   }
+  },
+  {
+   "word": "embryo",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈembriəʊ/",
+   "def_en": "A developing baby in its early stages.",
+   "def_vi": "Em bé đang phát triển giai đoạn đầu.",
+   "gloss_vi": "phôi thai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Embryo</i> (noun) = phôi thai. <b>Grammar</b>: số nhiều <i>embryos</i>.",
+   "example": {
+    "en": "An <b>embryo</b> implants in the mother’s womb.",
+    "vi": "Một <b>phôi</b> làm tổ trong tử cung người mẹ."
+   }
+  },
+  {
+   "word": "implant",
+   "sense": "embryo",
+   "pos": "verb",
+   "ipa": "/ɪmˈplɑːnt/",
+   "def_en": "(Of an embryo) to fix itself in the womb.",
+   "def_vi": "(Phôi) bám vào tử cung.",
+   "gloss_vi": "làm tổ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Implant</i> (verb) = làm tổ. <b>Grammar</b>: động từ trọng âm 2.",
+   "example": {
+    "en": "An embryo <b>implants</b> in the mother’s womb.",
+    "vi": "Phôi <b>làm tổ</b> trong tử cung."
+   }
+  },
+  {
+   "word": "womb",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/wuːm/",
+   "def_en": "The organ inside the mother where the fertilised egg develops into a baby.",
+   "def_vi": "Cơ quan trong người mẹ nơi trứng phát triển thành em bé.",
+   "gloss_vi": "tử cung, dạ con",
+   "synonyms": "uterus <i>(n. tử cung)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Womb</i> (noun) = tử cung, dạ con. <b>Grammar</b>: /wuːm/, <i>b</i> câm; <i>uterus</i> mang tính y khoa hơn.",
+   "example": {
+    "en": "An embryo implants in the mother’s <b>womb</b>, or uterus.",
+    "vi": "Phôi làm tổ trong <b>tử cung</b> người mẹ."
+   }
+  },
+  {
+   "word": "conceive",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kənˈsiːv/",
+   "def_en": "To become pregnant.",
+   "def_vi": "Có thai.",
+   "gloss_vi": "có thai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Conceive</i> (verb) = có thai. <b>Grammar</b>: <i>conception</i> (n.).",
+   "example": {
+    "en": "Most mothers <b>conceive</b> naturally.",
+    "vi": "Hầu hết các bà mẹ <b>có thai</b> tự nhiên."
+   }
+  },
+  {
+   "word": "fertility drugs",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/fəˈtɪləti drʌɡz/",
+   "def_en": "Drugs that help a woman to become pregnant.",
+   "def_vi": "Thuốc giúp phụ nữ có thai.",
+   "gloss_vi": "thuốc hỗ trợ sinh sản",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fertility drugs</i> (noun) = thuốc hỗ trợ sinh sản. <b>Collocations / chunks</b>: cụm danh từ cố định <i>fertility drugs</i>.",
+   "example": {
+    "en": "Some are helped by <b>fertility drugs</b>.",
+    "vi": "Một số được giúp bằng <b>thuốc hỗ trợ sinh sản</b>."
+   }
+  },
+  {
+   "word": "IVF",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌaɪ viː ˈef/",
+   "def_en": "In vitro fertilisation; fertilising a woman’s egg in a laboratory.",
+   "def_vi": "Thụ tinh trong ống nghiệm.",
+   "gloss_vi": "thụ tinh ống nghiệm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>IVF</i> (noun) = thụ tinh ống nghiệm. <b>Grammar</b>: em bé sinh ra gọi là <i>test tube babies</i>.",
+   "example": {
+    "en": "other procedures such as <b>IVF</b>",
+    "vi": "Một số được giúp bằng <b>IVF</b>."
+   }
+  },
+  {
+   "word": "foetus",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfiːtəs/",
+   "def_en": "A developing baby in the uterus from eight weeks onward.",
+   "def_vi": "Em bé trong tử cung từ tuần thứ tám.",
+   "gloss_vi": "thai nhi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Foetus</i> (noun) = thai nhi. <b>Grammar</b>: Mỹ <i>fetus</i>.",
+   "example": {
+    "en": "As the <b>foetus</b> grows, it is fed through the mother’s placenta.",
+    "vi": "Khi <b>thai nhi</b> lớn, nó được nuôi qua nhau thai."
+   }
+  },
+  {
+   "word": "placenta",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pləˈsentə/",
+   "def_en": "The organ connecting the developing baby to the mother and giving it food.",
+   "def_vi": "Cơ quan nối em bé với mẹ, cung cấp dinh dưỡng.",
+   "gloss_vi": "nhau thai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Placenta</i> (noun) = nhau thai. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "It is fed through the mother’s <b>placenta</b>.",
+    "vi": "Thai nhi được nuôi qua <b>nhau thai</b>."
+   }
+  },
+  {
+   "word": "go into labour",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡəʊ ˌɪntə ˈleɪbə(r)/",
+   "def_en": "To start the last stage of pregnancy when the womb pushes the baby out.",
+   "def_vi": "Bắt đầu giai đoạn cuối, tử cung đẩy em bé ra.",
+   "gloss_vi": "chuyển dạ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go into labour</i> (verb) = chuyển dạ. <b>Grammar</b>: Mỹ <i>labor</i>.",
+   "example": {
+    "en": "After 40 weeks, the mother usually <b>goes into labour</b>.",
+    "vi": "Sau 40 tuần, người mẹ thường <b>chuyển dạ</b>."
+   }
+  },
+  {
+   "word": "induce",
+   "sense": "labour",
+   "pos": "verb",
+   "ipa": "/ɪnˈdjuːs/",
+   "def_en": "To help medically to start the process of labour.",
+   "def_vi": "Hỗ trợ y tế để bắt đầu chuyển dạ.",
+   "gloss_vi": "kích sinh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Induce</i> (verb) = kích sinh. <b>Grammar</b>: <i>induction</i> (n.).",
+   "example": {
+    "en": "If this doesn’t happen naturally, she may <b>be induced</b>.",
+    "vi": "Nếu không tự nhiên, cô ấy có thể được <b>kích sinh</b>."
+   }
+  },
+  {
+   "word": "give birth",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡɪv ˈbɜːθ/",
+   "def_en": "To have a baby.",
+   "def_vi": "Sinh con.",
+   "gloss_vi": "sinh con",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Give birth</i> (verb) = sinh con. <b>Grammar</b>: <i>give birth to a son/daughter</i>.",
+   "example": {
+    "en": "Usually, a mother is helped to <b>give birth</b> by a midwife.",
+    "vi": "Người mẹ được nữ hộ sinh giúp <b>sinh con</b>."
+   }
+  },
+  {
+   "word": "midwife",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɪdwaɪf/",
+   "def_en": "A person trained to help women when they are giving birth.",
+   "def_vi": "Người được đào tạo giúp phụ nữ sinh con.",
+   "gloss_vi": "nữ hộ sinh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Midwife</i> (noun) = nữ hộ sinh. <b>Grammar</b>: số nhiều <i>midwives</i>.",
+   "example": {
+    "en": "Usually, a mother is helped to give birth by a <b>midwife</b>.",
+    "vi": "Người mẹ được <b>nữ hộ sinh</b> giúp sinh con."
+   }
+  },
+  {
+   "word": "deliver",
+   "sense": "baby",
+   "pos": "verb",
+   "ipa": "/dɪˈlɪvə(r)/",
+   "def_en": "To help a mother to give birth.",
+   "def_vi": "Giúp người mẹ sinh con.",
+   "gloss_vi": "đỡ đẻ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Deliver</i> (verb) = đỡ đẻ. <b>Grammar</b>: <i>delivery</i> (n.).",
+   "example": {
+    "en": "Sometimes a surgeon is needed to <b>deliver</b> the baby.",
+    "vi": "Đôi khi cần bác sĩ phẫu thuật <b>đỡ đẻ</b>."
+   }
+  },
+  {
+   "word": "caesarean section",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/sɪˌzeəriən ˈsekʃn/",
+   "def_en": "An operation in which the abdomen and womb are cut open to remove the baby.",
+   "def_vi": "Phẫu thuật mở bụng, tử cung để lấy em bé.",
+   "gloss_vi": "mổ lấy thai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Caesarean section</i> (noun) = mổ lấy thai. <b>Grammar</b>: Mỹ <i>cesarean</i>.",
+   "example": {
+    "en": "to deliver the baby by <b>caesarean section</b>",
+    "vi": "Bác sĩ đỡ đẻ bằng <b>mổ lấy thai</b>."
+   }
+  },
+  {
+   "word": "expecting",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪkˈspektɪŋ/",
+   "def_en": "Pregnant.",
+   "def_vi": "Có thai.",
+   "gloss_vi": "đang có thai",
+   "synonyms": "pregnant <i>(adj. có thai)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Expecting</i> (adjective) = đang có thai. <b>Grammar</b>: chỉ dùng thì tiếp diễn.",
+   "example": {
+    "en": "Helena and her sister are both <b>expecting</b>.",
+    "vi": "Helena và chị gái đều <b>đang có thai</b>."
+   }
+  },
+  {
+   "word": "live to a ripe old age",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌlɪv tu ə ˌraɪp ˌəʊld ˈeɪdʒ/",
+   "def_en": "To live well into old age.",
+   "def_vi": "Sống đến tuổi rất cao.",
+   "gloss_vi": "sống thọ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Live to a ripe old age</i> (verb) = sống thọ. <b>Collocations / chunks</b>: cụm cố định.",
+   "example": {
+    "en": "More and more people these days are living to a <b>ripe old age</b>.",
+    "vi": "Ngày càng nhiều người <b>sống thọ</b>."
+   }
+  },
+  {
+   "word": "late",
+   "sense": "dead",
+   "pos": "adjective",
+   "ipa": "/leɪt/",
+   "def_en": "Now dead.",
+   "def_vi": "Đã mất.",
+   "gloss_vi": "quá cố",
+   "synonyms": "deceased <i>(adj. đã chết)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Late</i> (adjective) = quá cố. <b>Grammar</b>: đứng trước danh từ.",
+   "example": {
+    "en": "that’s my <b>late</b> father’s sister",
+    "vi": "Cô ấy là chị của người cha <b>quá cố</b> của tôi."
+   }
+  },
+  {
+   "word": "pensioner",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpenʃənə(r)/",
+   "def_en": "An elderly person receiving an old age pension from the state.",
+   "def_vi": "Người già hưởng lương hưu nhà nước.",
+   "gloss_vi": "người hưởng lương hưu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pensioner</i> (noun) = người hưởng lương hưu. <b>Grammar</b>: <i>pension</i> (n.).",
+   "example": {
+    "en": "She’s been a <b>pensioner</b> for more years than she worked.",
+    "vi": "Bà ấy làm <b>người hưởng lương hưu</b> lâu hơn thời gian đi làm."
+   }
+  },
+  {
+   "word": "sheltered accommodation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌʃeltəd əˌkɒməˈdeɪʃn/",
+   "def_en": "Special housing for old people where care staff also live.",
+   "def_vi": "Nhà ở đặc biệt cho người già có nhân viên chăm sóc.",
+   "gloss_vi": "nhà dưỡng lão",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sheltered accommodation</i> (noun) = nhà dưỡng lão. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "She lives in <b>sheltered accommodation</b>.",
+    "vi": "Bà sống ở <b>nhà dưỡng lão</b>."
+   }
+  },
+  {
+   "word": "doddery",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈdɒdəri/",
+   "def_en": "Weak and unable to walk well, usually because of old age (informal).",
+   "def_vi": "Yếu, đi không vững vì tuổi già (thân mật).",
+   "gloss_vi": "lẩy bẩy",
+   "synonyms": "frail <i>(adj. yếu ớt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Doddery</i> (adjective) = lẩy bẩy. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "She’s not at all <b>doddery</b> or gaga.",
+    "vi": "Bà không hề <b>lẩy bẩy</b>."
+   }
+  },
+  {
+   "word": "gaga",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɡɑːɡɑː/",
+   "def_en": "Unable to think clearly because of old age (informal, offensive).",
+   "def_vi": "Không suy nghĩ rõ vì tuổi già (thân mật, xúc phạm).",
+   "gloss_vi": "lẩm cẩm",
+   "synonyms": "senile <i>(adj. lú lẫn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gaga</i> (adjective) = lẩm cẩm. <b>Grammar</b>: thân mật, xúc phạm.",
+   "example": {
+    "en": "She’s not at all doddery or <b>gaga</b>.",
+    "vi": "Bà không hề lẩy bẩy hay <b>lẩm cẩm</b>."
+   }
+  },
+  {
+   "word": "have all your wits about you",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/hæv ˌɔːl jɔː ˈwɪts əˌbaʊt juː/",
+   "def_en": "To still be able to think and react quickly.",
+   "def_vi": "Vẫn suy nghĩ, phản ứng nhanh.",
+   "gloss_vi": "còn minh mẫn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have all your wits about you</i> (verb) = còn minh mẫn. <b>Grammar</b>: tính từ sở hữu đổi theo chủ ngữ.",
+   "example": {
+    "en": "She’s lucky still to <b>have all her wits about her</b>.",
+    "vi": "Bà may mắn vẫn <b>còn minh mẫn</b>."
+   }
+  },
+  {
+   "word": "dementia",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈmenʃə/",
+   "def_en": "An illness that causes problems with memory loss.",
+   "def_vi": "Bệnh gây mất trí nhớ.",
+   "gloss_vi": "sa sút trí tuệ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dementia</i> (noun) = sa sút trí tuệ. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "A lot of elderly people develop <b>dementia</b>.",
+    "vi": "Nhiều người già mắc <b>sa sút trí tuệ</b>."
+   }
+  },
+  {
+   "word": "coffin",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɒfɪn/",
+   "def_en": "A box where the dead person is put.",
+   "def_vi": "Hộp đặt người chết.",
+   "gloss_vi": "quan tài",
+   "synonyms": "casket <i>(n. quan tài (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Coffin</i> (noun) = quan tài. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "There was a <b>coffin</b> in the colours of the dead man’s football team.",
+    "vi": "Có một chiếc <b>quan tài</b> màu đội bóng của người mất."
+   }
+  },
+  {
+   "word": "wake",
+   "sense": "funeral",
+   "pos": "noun",
+   "ipa": "/weɪk/",
+   "def_en": "A gathering of family and friends after a funeral.",
+   "def_vi": "Buổi tụ họp gia đình, bạn bè sau tang lễ.",
+   "gloss_vi": "buổi họp mặt sau tang lễ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wake</i> (noun) = buổi họp mặt sau tang lễ. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "And at the <b>wake</b>, his sister told me.",
+    "vi": "Tại <b>buổi họp mặt sau tang lễ</b>, em gái ông kể với tôi."
+   }
+  },
+  {
+   "word": "will",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/wɪl/",
+   "def_en": "A legal document saying what is to happen to your possessions after your death.",
+   "def_vi": "Văn bản pháp lý về tài sản sau khi chết.",
+   "gloss_vi": "di chúc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Will</i> (noun) = di chúc. <b>Collocations / chunks</b>: <i>make a will</i>.",
+   "example": {
+    "en": "She’d put it in her <b>will</b> that her own ashes are to be sent up in a rocket!",
+    "vi": "Bà ghi trong <b>di chúc</b> rằng tro cốt sẽ được phóng lên bằng tên lửa."
+   }
+  },
+  {
+   "word": "ashes",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈæʃɪz/",
+   "def_en": "The remains of a body after cremation.",
+   "def_vi": "Phần còn lại của thi thể sau hỏa táng.",
+   "gloss_vi": "tro cốt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ashes</i> (noun) = tro cốt. <b>Grammar</b>: số nhiều.",
+   "example": {
+    "en": "Her own <b>ashes</b> are to be sent up in a rocket!",
+    "vi": "<b>Tro cốt</b> của bà sẽ được phóng lên bằng tên lửa."
+   }
+  },
+  {
+   "word": "mourning",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɔːnɪŋ/",
+   "def_en": "Expressing sadness after someone’s death.",
+   "def_vi": "Bày tỏ nỗi buồn sau khi ai mất.",
+   "gloss_vi": "sự để tang",
+   "synonyms": "grief <i>(n. nỗi đau)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mourning</i> (noun) = sự để tang. <b>Grammar</b>: người để tang: <i>mourners</i>; gia quyến: <i>the bereaved</i>.",
+   "example": {
+    "en": "Funerals now are often more about celebrating a person’s life rather than just about <b>mourning</b>.",
+    "vi": "Tang lễ ngày nay là để tôn vinh cuộc đời hơn là chỉ <b>để tang</b>."
+   }
+  },
+  {
+   "word": "cremation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/krəˈmeɪʃn/",
+   "def_en": "Burning a dead body at a crematorium.",
+   "def_vi": "Thiêu thi thể ở lò thiêu.",
+   "gloss_vi": "sự hỏa táng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "burial <i>(n. chôn cất)</i>",
+   "grammar_vi": "<i>Cremation</i> (noun) = sự hỏa táng. <b>Grammar</b>: nơi hỏa táng: <i>crematorium</i>.",
+   "example": {
+    "en": "I think I’d prefer an ordinary <b>cremation</b>.",
+    "vi": "Tôi thích <b>hỏa táng</b> bình thường."
+   }
+  },
+  {
+   "word": "burial",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈberiəl/",
+   "def_en": "Putting a dead body in the ground.",
+   "def_vi": "Chôn thi thể xuống đất.",
+   "gloss_vi": "sự chôn cất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "cremation <i>(n. hỏa táng)</i>",
+   "grammar_vi": "<i>Burial</i> (noun) = sự chôn cất. <b>Grammar</b>: /ˈberiəl/.",
+   "example": {
+    "en": "as opposed to a <b>burial</b>, where the body is buried in the ground",
+    "vi": "Hỏa táng khác với <b>chôn cất</b>."
+   }
+  },
+  {
+   "word": "scatter",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈskætə(r)/",
+   "def_en": "To spread around.",
+   "def_vi": "Rải ra.",
+   "gloss_vi": "rải",
+   "synonyms": "spread <i>(v. rải)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Scatter</i> (verb) = rải. <b>Grammar</b>: động từ.",
+   "example": {
+    "en": "I’d quite like to have my ashes <b>scattered</b> at sea.",
+    "vi": "Tôi muốn tro cốt mình được <b>rải</b> trên biển."
+   }
+  },
+  {
+   "word": "condolences",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kənˈdəʊlənsɪz/",
+   "def_en": "Expressions of sympathy when someone has died (formal).",
+   "def_vi": "Lời chia buồn (trang trọng).",
+   "gloss_vi": "lời chia buồn",
+   "synonyms": "sympathy <i>(n. sự cảm thông)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Condolences</i> (noun) = lời chia buồn. <b>Grammar</b>: trang trọng.",
+   "example": {
+    "en": "Please accept my <b>condolences</b>.",
+    "vi": "Xin nhận <b>lời chia buồn</b> của tôi."
+   }
+  },
+  {
+   "word": "loss",
+   "sense": "death",
+   "pos": "noun",
+   "ipa": "/lɒs/",
+   "def_en": "The death of someone close.",
+   "def_vi": "Sự mất người thân.",
+   "gloss_vi": "mất mát",
+   "synonyms": "bereavement <i>(n. tang tóc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Loss</i> (noun) = mất mát. <b>Grammar</b>: ít trang trọng hơn <i>condolences</i>.",
+   "example": {
+    "en": "I was so sorry to hear/learn of your <b>loss</b>.",
+    "vi": "Tôi rất tiếc khi nghe về <b>mất mát</b> của bạn."
+   }
+  },
+  {
+   "word": "pass away",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌpɑːs əˈweɪ/",
+   "def_en": "To die (euphemism).",
+   "def_vi": "Qua đời (uyển ngữ).",
+   "gloss_vi": "qua đời",
+   "synonyms": "die <i>(v. chết)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pass away</i> (verb) = qua đời. <b>Grammar</b>: uyển ngữ; cũng <i>pass on/over</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "My grandfather <b>passed away</b> last year.",
+    "vi": "Ông nội tôi <b>qua đời</b> năm ngoái."
+   }
+  },
+  {
+   "word": "be on your last legs",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/bi ɒn jɔː ˌlɑːst ˈleɡz/",
+   "def_en": "To be close to death or failing (very informal).",
+   "def_vi": "Sắp chết hay sắp hỏng (rất thân mật).",
+   "gloss_vi": "sắp hỏng, gần đất xa trời",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be on your last legs</i> (verb) = sắp hỏng, gần đất xa trời. <b>Grammar</b>: hay dùng cho máy móc.",
+   "example": {
+    "en": "My laptop’s <b>on its last legs</b>.",
+    "vi": "Máy tính của tôi <b>sắp hỏng</b> rồi."
+   }
+  },
+  {
+   "word": "fatalities",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/fəˈtælətiz/",
+   "def_en": "Dead people (newspaper word).",
+   "def_vi": "Người chết (từ báo chí).",
+   "gloss_vi": "số người tử vong",
+   "synonyms": "deaths <i>(n. cái chết)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fatalities</i> (noun) = số người tử vong. <b>Grammar</b>: từ báo chí.",
+   "ex_kit": true,
+   "example": {
+    "en": "The crash caused three <b>fatalities</b>.",
+    "vi": "Vụ tai nạn có ba <b>người tử vong</b>."
+   }
+  },
+  {
+   "word": "perish",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈperɪʃ/",
+   "def_en": "To die (newspaper word).",
+   "def_vi": "Chết (từ báo chí).",
+   "gloss_vi": "thiệt mạng",
+   "synonyms": "die <i>(v. chết)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Perish</i> (verb) = thiệt mạng. <b>Grammar</b>: từ báo chí, trang trọng.",
+   "ex_kit": true,
+   "example": {
+    "en": "Hundreds <b>perished</b> in the floods.",
+    "vi": "Hàng trăm người <b>thiệt mạng</b> trong trận lũ."
+   }
+  },
+  {
+   "word": "slaughter",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈslɔːtə(r)/",
+   "def_en": "To kill violently (newspaper word).",
+   "def_vi": "Giết tàn bạo (từ báo chí).",
+   "gloss_vi": "tàn sát",
+   "synonyms": "massacre <i>(v. thảm sát)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Slaughter</i> (verb) = tàn sát. <b>Grammar</b>: từ báo chí.",
+   "ex_kit": true,
+   "example": {
+    "en": "The villagers were <b>slaughtered</b>.",
+    "vi": "Dân làng bị <b>tàn sát</b>."
+   }
+  },
+  {
+   "word": "the deceased",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ðə dɪˈsiːst/",
+   "def_en": "The dead person (legal word).",
+   "def_vi": "Người đã chết (từ pháp lý).",
+   "gloss_vi": "người quá cố",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The deceased</i> (noun) = người quá cố. <b>Grammar</b>: từ pháp lý.",
+   "ex_kit": true,
+   "example": {
+    "en": "the property of <b>the deceased</b>",
+    "vi": "Tài sản của <b>người quá cố</b>."
+   }
+  },
+  {
+   "word": "bequeath",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/bɪˈkwiːð/",
+   "def_en": "To leave something in a will (legal word).",
+   "def_vi": "Để lại trong di chúc (từ pháp lý).",
+   "gloss_vi": "để lại (di chúc)",
+   "synonyms": "leave <i>(v. để lại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bequeath</i> (verb) = để lại (di chúc). <b>Grammar</b>: <i>a bequest</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "She <b>bequeathed</b> her house to her niece.",
+    "vi": "Bà ấy <b>để lại</b> nhà cho cháu gái."
+   }
+  },
+  {
+   "word": "inheritance",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˈherɪtəns/",
+   "def_en": "Something you receive from someone who has died.",
+   "def_vi": "Thứ nhận từ người đã mất.",
+   "gloss_vi": "tài sản thừa kế",
+   "synonyms": "legacy <i>(n. di sản)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Inheritance</i> (noun) = tài sản thừa kế. <b>Grammar</b>: <i>inherit</i> (v.).",
+   "ex_kit": true,
+   "example": {
+    "en": "He used his <b>inheritance</b> to buy a house.",
+    "vi": "Anh ấy dùng <b>tài sản thừa kế</b> mua nhà."
+   }
+  },
+  {
+   "word": "intestate",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪnˈtesteɪt/",
+   "def_en": "Without having made a will (legal word).",
+   "def_vi": "Không để lại di chúc (từ pháp lý).",
+   "gloss_vi": "không di chúc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Intestate</i> (adjective) = không di chúc. <b>Grammar</b>: <i>die intestate</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He died <b>intestate</b>.",
+    "vi": "Ông ấy chết <b>không để lại di chúc</b>."
+   }
+  }
+ ]
+}
