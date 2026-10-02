@@ -1,0 +1,349 @@
+{
+ "book": "ess",
+ "unit": 101,
+ "title_en": "a person who … / a thing that/which … (relative clauses 1)",
+ "title_vi": "a person who … / a thing that/which … (mệnh đề quan hệ 1)",
+ "theory_html": "<p style=\"text-align: justify;\"><b>A. Two sentences → one sentence</b></p>\n<p style=\"text-align: justify;\"><i>A. Hai câu → một câu</i></p>\n\n<ul>\n  <li>\n    <p style=\"text-align: justify;\">I met a woman. <b>She</b> can speak six languages. → I met <b>a woman who</b> can speak six languages. (<b>she</b> → <b>who</b>)</p>\n    <p style=\"text-align: justify;\"><i>Tôi gặp một người phụ nữ. <b>Cô ấy</b> nói được sáu thứ tiếng. → Tôi gặp <b>một người phụ nữ</b> <b>nói được</b> sáu thứ tiếng. (<b>she</b> → <b>who</b>)</i></p>\n  </li>\n  <li>\n    <p style=\"text-align: justify;\">Jack was wearing a hat. <b>It</b> was too big for him. → Jack was wearing <b>a hat that</b> was too big for him. <i>or</i> Jack was wearing <b>a hat which</b> was too big for him. (<b>it</b> → <b>that</b> or <b>which</b>)</p>\n    <p style=\"text-align: justify;\"><i>Jack đội một cái mũ. <b>Nó</b> quá rộng với anh ấy. → Jack đội <b>một cái mũ</b> <b>quá rộng</b> với anh ấy. (<b>it</b> → <b>that</b> hoặc <b>which</b>)</i></p>\n  </li>\n</ul>\n\n<p style=\"text-align: justify;\"><b>B. who is for people (not things)</b></p>\n<p style=\"text-align: justify;\"><i>B. who dùng cho người (không dùng cho vật)</i></p>\n\n<ul>\n  <li>\n    <p style=\"text-align: justify;\">A thief is <b>a person who</b> steals things.</p>\n    <p style=\"text-align: justify;\"><i>Kẻ trộm là <b>người</b> <b>ăn cắp</b> đồ.</i></p>\n  </li>\n  <li>\n    <p style=\"text-align: justify;\">Do you know <b>anybody who</b> can play the piano?</p>\n    <p style=\"text-align: justify;\"><i>Bạn có biết <b>ai</b> <b>chơi được</b> piano không?</i></p>\n  </li>\n  <li>\n    <p style=\"text-align: justify;\"><b>The man who</b> phoned didn’t give his name.</p>\n    <p style=\"text-align: justify;\"><i><b>Người đàn ông đã gọi điện</b> không nói tên.</i></p>\n  </li>\n  <li>\n    <p style=\"text-align: justify;\"><b>The people who</b> work in the office are very friendly.</p>\n    <p style=\"text-align: justify;\"><i><b>Những người làm việc</b> trong văn phòng rất thân thiện.</i></p>\n  </li>\n</ul>\n\n<p style=\"text-align: justify;\"><b>C. that is for things or people</b></p>\n<p style=\"text-align: justify;\"><i>C. that dùng cho vật hoặc người</i></p>\n\n<ul>\n  <li>\n    <p style=\"text-align: justify;\">An airplane is <b>a machine that</b> flies.</p>\n    <p style=\"text-align: justify;\"><i>Máy bay là <b>một cỗ máy</b> <b>bay được</b>.</i></p>\n  </li>\n  <li>\n    <p style=\"text-align: justify;\">Emma lives in <b>a house that</b> is 400 years old.</p>\n    <p style=\"text-align: justify;\"><i>Emma sống trong <b>một ngôi nhà</b> <b>đã</b> 400 năm tuổi.</i></p>\n  </li>\n  <li>\n    <p style=\"text-align: justify;\"><b>The people that</b> work in the office are very friendly.</p>\n    <p style=\"text-align: justify;\"><i><b>Những người làm việc</b> trong văn phòng rất thân thiện.</i></p>\n  </li>\n</ul>\n\n<p style=\"text-align: justify;\">You can use <b>that</b> for people, but <b>who</b> is more usual.</p>\n<p style=\"text-align: justify;\"><i>Có thể dùng <b>that</b> cho người, nhưng <b>who</b> phổ biến hơn.</i></p>\n\n<p style=\"text-align: justify;\"><b>D. which is for things (not people)</b></p>\n<p style=\"text-align: justify;\"><i>D. which dùng cho vật (không dùng cho người)</i></p>\n\n<ul>\n  <li>\n    <p style=\"text-align: justify;\">An airplane is <b>a machine which</b> flies. (<i>not</i> a machine who …)</p>\n    <p style=\"text-align: justify;\"><i>Máy bay là <b>một cỗ máy</b> <b>bay được</b>. (<i>không</i> nói a machine who …)</i></p>\n  </li>\n  <li>\n    <p style=\"text-align: justify;\">Emma lives in <b>a house which</b> is 400 years old.</p>\n    <p style=\"text-align: justify;\"><i>Emma sống trong <b>một ngôi nhà</b> <b>đã</b> 400 năm tuổi.</i></p>\n  </li>\n</ul>\n\n<p style=\"text-align: justify;\">Do not use <b>which</b> for people:</p>\n<p style=\"text-align: justify;\"><i>Không dùng <b>which</b> cho người:</i></p>\n\n<ul>\n  <li>\n    <p style=\"text-align: justify;\">Do you remember <b>the woman who</b> was playing the piano at the party? (<i>not</i> the woman which …)</p>\n    <p style=\"text-align: justify;\"><i>Bạn có nhớ <b>người phụ nữ đã chơi</b> piano ở bữa tiệc không? (<i>không</i> nói the woman which …)</i></p>\n  </li>\n</ul>",
+ "mcq": [
+  {
+   "question": "I met a woman ___ can speak six languages.",
+   "a": "who",
+   "b": "which",
+   "c": "she",
+   "full": "I met a woman <b>who</b> can speak six languages.",
+   "vi": "<i>Tôi gặp một người phụ nữ <b>nói được</b> sáu thứ tiếng.</i>",
+   "expl": "A relative clause joins two sentences: she/he → who; it → that/which.<br><i>Mệnh đề quan hệ nối hai câu: she/he → who; it → that/which.</i><br><b>Điểm ngữ pháp</b>: she → who.",
+   "key": "I met a woman ___ can speak six languages.|who"
+  },
+  {
+   "question": "Jack was wearing a hat ___ was too big for him.",
+   "a": "which",
+   "b": "who",
+   "c": "it",
+   "full": "Jack was wearing a hat <b>which</b> was too big for him.",
+   "vi": "<i>Jack đội một cái mũ <b>quá rộng</b> với anh ấy.</i>",
+   "expl": "A relative clause joins two sentences: she/he → who; it → that/which.<br><i>Mệnh đề quan hệ nối hai câu: she/he → who; it → that/which.</i><br><b>Điểm ngữ pháp</b>: it → which/that.",
+   "key": "Jack was wearing a hat ___ was too big for him.|which"
+  },
+  {
+   "question": "The man who ___ didn’t give his name.",
+   "a": "phoned",
+   "b": "he phoned",
+   "c": "was phone",
+   "full": "The man who <b>phoned</b> didn’t give his name.",
+   "vi": "<i>Người đàn ông <b>đã gọi điện</b> không nói tên.</i>",
+   "expl": "A relative clause joins two sentences: she/he → who; it → that/which.<br><i>Mệnh đề quan hệ nối hai câu: she/he → who; it → that/which.</i><br><b>Điểm ngữ pháp</b>: who thay chủ ngữ → không lặp he.",
+   "key": "The man who ___ didn’t give his name.|phoned"
+  },
+  {
+   "question": "The woman who opened the door ___ a yellow dress.",
+   "a": "was wearing",
+   "b": "she was wearing",
+   "c": "wearing",
+   "full": "The woman who opened the door <b>was wearing</b> a yellow dress.",
+   "vi": "<i>Người phụ nữ mở cửa <b>mặc</b> một chiếc váy vàng.</i>",
+   "expl": "A relative clause joins two sentences: she/he → who; it → that/which.<br><i>Mệnh đề quan hệ nối hai câu: she/he → who; it → that/which.</i><br><b>Điểm ngữ pháp</b>: Không lặp chủ ngữ she.",
+   "key": "The woman who opened the door ___ a yellow dress.|was wearing"
+  },
+  {
+   "question": "Most of the students ___ took the exam passed.",
+   "a": "who",
+   "b": "which",
+   "c": "they",
+   "full": "Most of the students <b>who</b> took the exam passed.",
+   "vi": "<i>Hầu hết các sinh viên <b>dự thi</b> đều đỗ.</i>",
+   "expl": "A relative clause joins two sentences: she/he → who; it → that/which.<br><i>Mệnh đề quan hệ nối hai câu: she/he → who; it → that/which.</i><br><b>Điểm ngữ pháp</b>: Người → who.",
+   "key": "Most of the students ___ took the exam passed.|who"
+  },
+  {
+   "question": "The policeman ___ stopped our car wasn’t very friendly.",
+   "a": "who",
+   "b": "which",
+   "c": "he",
+   "full": "The policeman <b>who</b> stopped our car wasn’t very friendly.",
+   "vi": "<i>Viên cảnh sát <b>đã chặn</b> xe chúng tôi không thân thiện lắm.</i>",
+   "expl": "A relative clause joins two sentences: she/he → who; it → that/which.<br><i>Mệnh đề quan hệ nối hai câu: she/he → who; it → that/which.</i><br><b>Điểm ngữ pháp</b>: Người → who.",
+   "key": "The policeman ___ stopped our car wasn’t very friendly.|who"
+  },
+  {
+   "question": "A thief is a person ___ steals things.",
+   "a": "who",
+   "b": "which",
+   "c": "what",
+   "full": "A thief is a person <b>who</b> steals things.",
+   "vi": "<i>Kẻ trộm là người <b>ăn cắp</b> đồ.</i>",
+   "expl": "who is for people (not things).<br><i>who dùng cho người (không dùng cho vật).</i><br><b>Điểm ngữ pháp</b>: Người → who.",
+   "key": "A thief is a person ___ steals things.|who"
+  },
+  {
+   "question": "Do you know anybody ___ can play the piano?",
+   "a": "who",
+   "b": "which",
+   "c": "what",
+   "full": "Do you know anybody <b>who</b> can play the piano?",
+   "vi": "<i>Bạn có biết ai <b>chơi được</b> piano không?</i>",
+   "expl": "who is for people (not things).<br><i>who dùng cho người (không dùng cho vật).</i><br><b>Điểm ngữ pháp</b>: anybody (người) → who.",
+   "key": "Do you know anybody ___ can play the piano?|who"
+  },
+  {
+   "question": "The people ___ work in the office are very friendly.",
+   "a": "who",
+   "b": "which",
+   "c": "what",
+   "full": "The people <b>who</b> work in the office are very friendly.",
+   "vi": "<i>Những người <b>làm việc</b> trong văn phòng rất thân thiện.</i>",
+   "expl": "who is for people (not things).<br><i>who dùng cho người (không dùng cho vật).</i><br><b>Điểm ngữ pháp</b>: Người → who.",
+   "key": "The people ___ work in the office are very friendly.|who"
+  },
+  {
+   "question": "Do you remember the woman ___ was playing the piano at the party?",
+   "a": "who",
+   "b": "which",
+   "c": "what",
+   "full": "Do you remember the woman <b>who</b> was playing the piano at the party?",
+   "vi": "<i>Bạn có nhớ người phụ nữ <b>đã chơi</b> piano ở bữa tiệc không?</i>",
+   "expl": "who is for people (not things).<br><i>who dùng cho người (không dùng cho vật).</i><br><b>Điểm ngữ pháp</b>: Không dùng which cho người.",
+   "key": "Do you remember the woman ___ was playing the piano at the party?|who"
+  },
+  {
+   "question": "A butcher is a person who ___ meat.",
+   "a": "sells",
+   "b": "sell",
+   "c": "is sell",
+   "full": "A butcher is a person who <b>sells</b> meat.",
+   "vi": "<i>Người bán thịt là người <b>bán</b> thịt.</i>",
+   "expl": "who is for people (not things).<br><i>who dùng cho người (không dùng cho vật).</i><br><b>Điểm ngữ pháp</b>: a person who + V-s.",
+   "key": "A butcher is a person who ___ meat.|sells"
+  },
+  {
+   "question": "A musician is a person who ___ a musical instrument.",
+   "a": "plays",
+   "b": "play",
+   "c": "playing",
+   "full": "A musician is a person who <b>plays</b> a musical instrument.",
+   "vi": "<i>Nhạc công là người <b>chơi</b> nhạc cụ.</i>",
+   "expl": "who is for people (not things).<br><i>who dùng cho người (không dùng cho vật).</i><br><b>Điểm ngữ pháp</b>: V-s.",
+   "key": "A musician is a person who ___ a musical instrument.|plays"
+  },
+  {
+   "question": "A patient is a person who ___ ill in hospital.",
+   "a": "is",
+   "b": "are",
+   "c": "be",
+   "full": "A patient is a person who <b>is</b> ill in hospital.",
+   "vi": "<i>Bệnh nhân là người <b>bị</b> ốm nằm viện.</i>",
+   "expl": "who is for people (not things).<br><i>who dùng cho người (không dùng cho vật).</i><br><b>Điểm ngữ pháp</b>: who is.",
+   "key": "A patient is a person who ___ ill in hospital.|is"
+  },
+  {
+   "question": "A dentist is a person who ___ care of your teeth.",
+   "a": "takes",
+   "b": "take",
+   "c": "taking",
+   "full": "A dentist is a person who <b>takes</b> care of your teeth.",
+   "vi": "<i>Nha sĩ là người <b>chăm sóc</b> răng của bạn.</i>",
+   "expl": "who is for people (not things).<br><i>who dùng cho người (không dùng cho vật).</i><br><b>Điểm ngữ pháp</b>: V-s.",
+   "key": "A dentist is a person who ___ care of your teeth.|takes"
+  },
+  {
+   "question": "A fool is a person who ___ stupid things.",
+   "a": "does",
+   "b": "do",
+   "c": "is doing",
+   "full": "A fool is a person who <b>does</b> stupid things.",
+   "vi": "<i>Kẻ ngốc là người <b>làm</b> những điều ngu ngốc.</i>",
+   "expl": "who is for people (not things).<br><i>who dùng cho người (không dùng cho vật).</i><br><b>Điểm ngữ pháp</b>: V-s.",
+   "key": "A fool is a person who ___ stupid things.|does"
+  },
+  {
+   "question": "A genius is a person who is very ___.",
+   "a": "intelligent",
+   "b": "intelligence",
+   "c": "intelligently",
+   "full": "A genius is a person who is very <b>intelligent</b>.",
+   "vi": "<i>Thiên tài là người rất <b>thông minh</b>.</i>",
+   "expl": "who is for people (not things).<br><i>who dùng cho người (không dùng cho vật).</i><br><b>Điểm ngữ pháp</b>: be + tính từ.",
+   "key": "A genius is a person who is very ___.|intelligent"
+  },
+  {
+   "question": "A liar is a person who ___ tell the truth.",
+   "a": "doesn’t",
+   "b": "don’t",
+   "c": "isn’t",
+   "full": "A liar is a person who <b>doesn’t</b> tell the truth.",
+   "vi": "<i>Kẻ nói dối là người <b>không</b> nói sự thật.</i>",
+   "expl": "who is for people (not things).<br><i>who dùng cho người (không dùng cho vật).</i><br><b>Điểm ngữ pháp</b>: who doesn’t.",
+   "key": "A liar is a person who ___ tell the truth.|doesn’t"
+  },
+  {
+   "question": "What’s the name of the man ___ has just started work in your office?",
+   "a": "who",
+   "b": "which",
+   "c": "what",
+   "full": "What’s the name of the man <b>who</b> has just started work in your office?",
+   "vi": "<i>Tên người đàn ông <b>vừa</b> bắt đầu làm ở văn phòng bạn là gì?</i>",
+   "expl": "who is for people (not things).<br><i>who dùng cho người (không dùng cho vật).</i><br><b>Điểm ngữ pháp</b>: Người → who.",
+   "key": "What’s the name of the man ___ has just started work in your office?|who"
+  },
+  {
+   "question": "Do you know anybody ___ wants to buy a car?",
+   "a": "who",
+   "b": "which",
+   "c": "what",
+   "full": "Do you know anybody <b>who</b> wants to buy a car?",
+   "vi": "<i>Bạn có biết ai <b>muốn</b> mua xe không?</i>",
+   "expl": "who is for people (not things).<br><i>who dùng cho người (không dùng cho vật).</i><br><b>Điểm ngữ pháp</b>: anybody → who.",
+   "key": "Do you know anybody ___ wants to buy a car?|who"
+  },
+  {
+   "question": "I have a friend ___ is very good at repairing cars.",
+   "a": "who",
+   "b": "which",
+   "c": "what",
+   "full": "I have a friend <b>who</b> is very good at repairing cars.",
+   "vi": "<i>Tôi có một người bạn <b>rất giỏi</b> sửa xe.</i>",
+   "expl": "who is for people (not things).<br><i>who dùng cho người (không dùng cho vật).</i><br><b>Điểm ngữ pháp</b>: Người → who.",
+   "key": "I have a friend ___ is very good at repairing cars.|who"
+  },
+  {
+   "question": "I think everybody ___ went to the party enjoyed it very much.",
+   "a": "who",
+   "b": "which",
+   "c": "what",
+   "full": "I think everybody <b>who</b> went to the party enjoyed it very much.",
+   "vi": "<i>Tôi nghĩ mọi người <b>đi</b> dự tiệc đều rất thích.</i>",
+   "expl": "who is for people (not things).<br><i>who dùng cho người (không dùng cho vật).</i><br><b>Điểm ngữ pháp</b>: everybody → who.",
+   "key": "I think everybody ___ went to the party enjoyed it very much.|who"
+  },
+  {
+   "question": "I don’t like people ___ never stop talking.",
+   "a": "who",
+   "b": "which",
+   "c": "what",
+   "full": "I don’t like people <b>who</b> never stop talking.",
+   "vi": "<i>Tôi không thích những người <b>nói</b> không ngừng.</i>",
+   "expl": "who is for people (not things).<br><i>who dùng cho người (không dùng cho vật).</i><br><b>Điểm ngữ pháp</b>: Người → who/that, không dùng which.",
+   "key": "I don’t like people ___ never stop talking.|who"
+  },
+  {
+   "question": "I know somebody ___ works in that shop.",
+   "a": "who",
+   "b": "which",
+   "c": "what",
+   "full": "I know somebody <b>who</b> works in that shop.",
+   "vi": "<i>Tôi biết một người <b>làm việc</b> ở cửa hàng đó.</i>",
+   "expl": "who is for people (not things).<br><i>who dùng cho người (không dùng cho vật).</i><br><b>Điểm ngữ pháp</b>: Người → who.",
+   "key": "I know somebody ___ works in that shop.|who"
+  },
+  {
+   "question": "I know somebody ___ can help you.",
+   "a": "that",
+   "b": "which",
+   "c": "what",
+   "full": "I know somebody <b>that</b> can help you.",
+   "vi": "<i>Tôi biết một người <b>có thể giúp</b> bạn.</i>",
+   "expl": "that is for things or people (who is more usual for people).<br><i>that dùng cho vật hoặc người (với người, who phổ biến hơn).</i><br><b>Điểm ngữ pháp</b>: that dùng được cho người.",
+   "key": "I know somebody ___ can help you.|that"
+  },
+  {
+   "question": "An airplane is a machine ___ flies.",
+   "a": "that",
+   "b": "who",
+   "c": "what",
+   "full": "An airplane is a machine <b>that</b> flies.",
+   "vi": "<i>Máy bay là một cỗ máy <b>bay được</b>.</i>",
+   "expl": "that is for things or people (who is more usual for people).<br><i>that dùng cho vật hoặc người (với người, who phổ biến hơn).</i><br><b>Điểm ngữ pháp</b>: Vật → that/which.",
+   "key": "An airplane is a machine ___ flies.|that"
+  },
+  {
+   "question": "Emma lives in a house ___ is 400 years old.",
+   "a": "that",
+   "b": "who",
+   "c": "what",
+   "full": "Emma lives in a house <b>that</b> is 400 years old.",
+   "vi": "<i>Emma sống trong một ngôi nhà <b>đã</b> 400 năm tuổi.</i>",
+   "expl": "that is for things or people (who is more usual for people).<br><i>that dùng cho vật hoặc người (với người, who phổ biến hơn).</i><br><b>Điểm ngữ pháp</b>: Vật → that/which.",
+   "key": "Emma lives in a house ___ is 400 years old.|that"
+  },
+  {
+   "question": "What’s happened to the money ___ was on the table?",
+   "a": "that",
+   "b": "who",
+   "c": "what",
+   "full": "What’s happened to the money <b>that</b> was on the table?",
+   "vi": "<i>Số tiền <b>để</b> trên bàn đâu rồi?</i>",
+   "expl": "that is for things or people (who is more usual for people).<br><i>that dùng cho vật hoặc người (với người, who phổ biến hơn).</i><br><b>Điểm ngữ pháp</b>: Vật → that/which.",
+   "key": "What’s happened to the money ___ was on the table?|that"
+  },
+  {
+   "question": "A coffee maker is a machine ___ makes coffee.",
+   "a": "which",
+   "b": "who",
+   "c": "what",
+   "full": "A coffee maker is a machine <b>which</b> makes coffee.",
+   "vi": "<i>Máy pha cà phê là một cỗ máy <b>pha</b> cà phê.</i>",
+   "expl": "which is for things – never for people.<br><i>which dùng cho vật – không bao giờ dùng cho người.</i><br><b>Điểm ngữ pháp</b>: Vật → which/that.",
+   "key": "A coffee maker is a machine ___ makes coffee.|which"
+  },
+  {
+   "question": "What’s the name of the river ___ flows through the town?",
+   "a": "which",
+   "b": "who",
+   "c": "what",
+   "full": "What’s the name of the river <b>which</b> flows through the town?",
+   "vi": "<i>Tên con sông <b>chảy</b> qua thị trấn là gì?</i>",
+   "expl": "which is for things – never for people.<br><i>which dùng cho vật – không bao giờ dùng cho người.</i><br><b>Điểm ngữ pháp</b>: Vật → which.",
+   "key": "What’s the name of the river ___ flows through the town?|which"
+  },
+  {
+   "question": "Where is the picture ___ was hanging on the wall?",
+   "a": "which",
+   "b": "who",
+   "c": "what",
+   "full": "Where is the picture <b>which</b> was hanging on the wall?",
+   "vi": "<i>Bức tranh <b>treo</b> trên tường đâu rồi?</i>",
+   "expl": "which is for things – never for people.<br><i>which dùng cho vật – không bao giờ dùng cho người.</i><br><b>Điểm ngữ pháp</b>: Vật → which.",
+   "key": "Where is the picture ___ was hanging on the wall?|which"
+  },
+  {
+   "question": "You always ask questions ___ are difficult to answer.",
+   "a": "which",
+   "b": "who",
+   "c": "what",
+   "full": "You always ask questions <b>which</b> are difficult to answer.",
+   "vi": "<i>Bạn luôn hỏi những câu <b>khó</b> trả lời.</i>",
+   "expl": "which is for things – never for people.<br><i>which dùng cho vật – không bao giờ dùng cho người.</i><br><b>Điểm ngữ pháp</b>: Vật → which.",
+   "key": "You always ask questions ___ are difficult to answer.|which"
+  },
+  {
+   "question": "Why does he always wear clothes ___ are too small for him?",
+   "a": "which",
+   "b": "who",
+   "c": "what",
+   "full": "Why does he always wear clothes <b>which</b> are too small for him?",
+   "vi": "<i>Sao anh ấy luôn mặc quần áo <b>quá chật</b> với mình?</i>",
+   "expl": "which is for things – never for people.<br><i>which dùng cho vật – không bao giờ dùng cho người.</i><br><b>Điểm ngữ pháp</b>: Vật → which.",
+   "key": "Why does he always wear clothes ___ are too small for him?|which"
+  },
+  {
+   "question": "Correct the sentences ___ are wrong.",
+   "a": "which",
+   "b": "who",
+   "c": "what",
+   "full": "Correct the sentences <b>which</b> are wrong.",
+   "vi": "<i>Hãy sửa những câu <b>sai</b>.</i>",
+   "expl": "which is for things – never for people.<br><i>which dùng cho vật – không bao giờ dùng cho người.</i><br><b>Điểm ngữ pháp</b>: Vật → which/that (không dùng who).",
+   "key": "Correct the sentences ___ are wrong.|which"
+  },
+  {
+   "question": "My neighbour bought a car ___ cost £40,000.",
+   "a": "which",
+   "b": "who",
+   "c": "what",
+   "full": "My neighbour bought a car <b>which</b> cost £40,000.",
+   "vi": "<i>Hàng xóm tôi mua một chiếc xe <b>giá</b> 40.000 bảng.</i>",
+   "expl": "which is for things – never for people.<br><i>which dùng cho vật – không bao giờ dùng cho người.</i><br><b>Điểm ngữ pháp</b>: Vật → which/that.",
+   "key": "My neighbour bought a car ___ cost £40,000.|which"
+  }
+ ]
+}
