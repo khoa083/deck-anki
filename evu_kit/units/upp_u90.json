@@ -1,0 +1,568 @@
+{
+ "book": "upp",
+ "unit": 90,
+ "title_vi": "Cụm từ với bring và take",
+ "theory_html": "<p><b>A. Phrasal verbs with bring</b><br><i>A. Cụm động từ với bring</i></p> <p><b>bring up</b> [raise], <b>bring off</b> [succeed], <b>bring on</b> [cause to start], <b>bring about</b> [cause to happen], <b>bring out</b> [introduce], <b>bring back</b> [re-introduce], <b>bring down</b> [lower; destroy, remove from power], <b>bring round</b> [persuade].</p><p><i><b>nuôi dạy, thành công, gây ra, mang lại, tung ra, khôi phục, hạ xuống/lật đổ, thuyết phục</b>.</i></p> <p><b>B. Phrasal verbs with take</b><br><i>B. Cụm động từ với take</i></p> <p><b>take after</b> [resemble], <b>take back</b> [withdraw], <b>take in</b> [absorb, understand; deceive], <b>take off</b> [started to improve; left the ground; imitate], <b>take on</b> [employ; accept], <b>take over</b> [start doing a job], <b>take to</b> [form an immediate liking for], <b>take up</b> [start (a hobby)].</p><p><i><b>giống, rút lại, hiểu/lừa, khởi sắc/cất cánh/nhại, thuê/nhận, tiếp quản, có cảm tình ngay, bắt đầu (sở thích)</b>.</i></p> <p><b>C. Common expressions with bring and take</b><br><i>C. Cụm thường gặp với bring và take</i></p> <p><b>be brought into force</b> [become law], <b>bring to light</b> [reveal], <b>bring to a head, bring into the open</b> [make public], <b>bring out the best in</b>; <b>take advantage of, take for granted, take control, take your breath away, take place, take a risk, take seriously, take into account, take pride in, take the opportunity</b>.</p><p><i><b>có hiệu lực, đưa ra ánh sáng, đẩy đến đỉnh điểm, công khai, khơi dậy điều tốt nhất; lợi dụng, coi là đương nhiên, nắm quyền kiểm soát, làm sững sờ, diễn ra, liều, coi trọng, tính đến, tự hào, nắm lấy cơ hội</b>.</i></p>",
+ "items": [
+  {
+   "word": "bring up",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌbrɪŋ ˈʌp/",
+   "def_en": "To raise a child.",
+   "def_vi": "Nuôi dạy con.",
+   "gloss_vi": "nuôi dạy",
+   "synonyms": "raise <i>(v. nuôi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bring up</i> (verb) = nuôi dạy. <b>Grammar</b>: <i>bring sb up</i>.",
+   "example": {
+    "en": "My father’s parents <b>brought</b> him <b>up</b> in the country.",
+    "vi": "Ông bà nội đã <b>nuôi dạy</b> bố tôi ở nông thôn."
+   }
+  },
+  {
+   "word": "bring off",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌbrɪŋ ˈɒf/",
+   "def_en": "To succeed in doing something difficult.",
+   "def_vi": "Làm thành công điều khó.",
+   "gloss_vi": "làm thành công",
+   "synonyms": "succeed <i>(v. thành công)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bring off</i> (verb) = làm thành công. <b>Grammar</b>: <i>bring sth off</i>.",
+   "example": {
+    "en": "I’m sure you’ll <b>bring</b> it <b>off</b> in the end.",
+    "vi": "Đừng bỏ cuộc. Chắc chắn cuối cùng bạn sẽ <b>làm được</b>."
+   }
+  },
+  {
+   "word": "bring on",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌbrɪŋ ˈɒn/",
+   "def_en": "To cause something to start, e.g. an illness.",
+   "def_vi": "Gây ra, như bệnh.",
+   "gloss_vi": "gây ra, làm phát",
+   "synonyms": "trigger <i>(v. kích hoạt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bring on</i> (verb) = gây ra, làm phát. <b>Grammar</b>: thường dùng cho bệnh.",
+   "example": {
+    "en": "Cold winds always <b>bring on</b> her cough.",
+    "vi": "Gió lạnh luôn <b>làm phát</b> cơn ho của cô ấy."
+   }
+  },
+  {
+   "word": "bring out",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌbrɪŋ ˈaʊt/",
+   "def_en": "To introduce a new product.",
+   "def_vi": "Tung ra sản phẩm mới.",
+   "gloss_vi": "tung ra",
+   "synonyms": "launch <i>(v. ra mắt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bring out</i> (verb) = tung ra. <b>Grammar</b>: cũng <i>bring out the best in sb</i>.",
+   "example": {
+    "en": "Ford Motors are <b>bringing out</b> an interesting new model in the spring.",
+    "vi": "Ford sẽ <b>tung ra</b> một mẫu xe mới thú vị vào mùa xuân."
+   }
+  },
+  {
+   "word": "bring back",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌbrɪŋ ˈbæk/",
+   "def_en": "To re-introduce.",
+   "def_vi": "Khôi phục lại.",
+   "gloss_vi": "khôi phục",
+   "synonyms": "reintroduce <i>(v. tái áp dụng)</i>",
+   "antonyms": "abolish <i>(v. bãi bỏ)</i>",
+   "grammar_vi": "<i>Bring back</i> (verb) = khôi phục. <b>Grammar</b>: cũng = gợi lại (ký ức).",
+   "example": {
+    "en": "I hope they don’t <b>bring back</b> capital punishment.",
+    "vi": "Tôi mong họ không <b>khôi phục</b> án tử hình."
+   }
+  },
+  {
+   "word": "bring down",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌbrɪŋ ˈdaʊn/",
+   "def_en": "To lower.",
+   "def_vi": "Hạ xuống.",
+   "gloss_vi": "hạ, giảm",
+   "synonyms": "lower <i>(v. hạ)</i>",
+   "antonyms": "raise <i>(v. tăng)</i>",
+   "grammar_vi": "<i>Bring down</i> (verb) = hạ, giảm. <b>Grammar</b>: <i>bring down prices/taxes</i>.",
+   "example": {
+    "en": "They promised to <b>bring down</b> taxes but they have actually raised them.",
+    "vi": "Họ hứa <b>giảm</b> thuế nhưng thực ra lại tăng."
+   }
+  },
+  {
+   "word": "bring down",
+   "sense": "power",
+   "pos": "verb",
+   "ipa": "/ˌbrɪŋ ˈdaʊn/",
+   "def_en": "To destroy or remove from power.",
+   "def_vi": "Lật đổ khỏi quyền lực.",
+   "gloss_vi": "lật đổ",
+   "synonyms": "topple <i>(v. lật đổ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bring down</i> (verb) = lật đổ. <b>Grammar</b>: <i>bring down a government</i>.",
+   "example": {
+    "en": "Inflation will probably <b>bring down</b> the government.",
+    "vi": "Lạm phát có lẽ sẽ <b>lật đổ</b> chính phủ."
+   }
+  },
+  {
+   "word": "bring round",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌbrɪŋ ˈraʊnd/",
+   "def_en": "To persuade.",
+   "def_vi": "Thuyết phục.",
+   "gloss_vi": "thuyết phục",
+   "synonyms": "persuade <i>(v. thuyết phục)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bring round</i> (verb) = thuyết phục. <b>Grammar</b>: <i>bring sb round to sth</i>; cũng = làm tỉnh lại.",
+   "example": {
+    "en": "Keep trying to persuade him and you’ll <b>bring</b> him <b>round</b> to your point of view.",
+    "vi": "Cứ tiếp tục và bạn sẽ <b>thuyết phục được</b> anh ấy theo quan điểm của bạn."
+   }
+  },
+  {
+   "word": "take after",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ˈɑːftə(r)/",
+   "def_en": "To resemble an older family member.",
+   "def_vi": "Giống người lớn trong gia đình.",
+   "gloss_vi": "giống",
+   "synonyms": "resemble <i>(v. giống)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take after</i> (verb) = giống. <b>Grammar</b>: không dùng tiếp diễn.",
+   "example": {
+    "en": "Doesn’t he <b>take after</b> his father!",
+    "vi": "Anh ấy <b>giống</b> bố quá! Giọng còn y hệt."
+   }
+  },
+  {
+   "word": "take back",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ˈbæk/",
+   "def_en": "To withdraw something you said.",
+   "def_vi": "Rút lại lời đã nói.",
+   "gloss_vi": "rút lại",
+   "synonyms": "withdraw <i>(v. rút lại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take back</i> (verb) = rút lại. <b>Grammar</b>: cũng = trả lại hàng.",
+   "example": {
+    "en": "I wish I could <b>take back</b> what I said to her.",
+    "vi": "Ước gì tôi có thể <b>rút lại</b> những gì đã nói với cô ấy."
+   }
+  },
+  {
+   "word": "take in",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ˈɪn/",
+   "def_en": "To absorb or understand.",
+   "def_vi": "Tiếp thu, hiểu.",
+   "gloss_vi": "tiếp thu",
+   "synonyms": "absorb <i>(v. hấp thu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take in</i> (verb) = tiếp thu. <b>Grammar</b>: <i>take sth in</i>.",
+   "example": {
+    "en": "It’s hard to <b>take in</b> his lectures - he speaks in such an abstract way.",
+    "vi": "Khó <b>tiếp thu</b> bài giảng của ông ấy – ông nói quá trừu tượng."
+   }
+  },
+  {
+   "word": "take in",
+   "sense": "deceive",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ˈɪn/",
+   "def_en": "To deceive.",
+   "def_vi": "Lừa.",
+   "gloss_vi": "lừa",
+   "synonyms": "deceive <i>(v. lừa dối)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take in</i> (verb) = lừa. <b>Grammar</b>: thường bị động.",
+   "example": {
+    "en": "She was completely <b>taken in</b> by him and agreed to give him all her money.",
+    "vi": "Cô ấy hoàn toàn <b>bị</b> hắn <b>lừa</b> và đưa hết tiền."
+   }
+  },
+  {
+   "word": "take off",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ˈɒf/",
+   "def_en": "To start to improve quickly.",
+   "def_vi": "Bắt đầu tăng nhanh.",
+   "gloss_vi": "khởi sắc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take off</i> (verb) = khởi sắc. <b>Grammar</b>: cũng = cất cánh, nhại.",
+   "example": {
+    "en": "Sales have really <b>taken off</b> now - we should make a good profit this year.",
+    "vi": "Doanh số đã thực sự <b>khởi sắc</b>."
+   }
+  },
+  {
+   "word": "take off",
+   "sense": "plane",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ˈɒf/",
+   "def_en": "(Of a plane) to leave the ground.",
+   "def_vi": "(Máy bay) rời mặt đất.",
+   "gloss_vi": "cất cánh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "land <i>(v. hạ cánh)</i>",
+   "grammar_vi": "<i>Take off</i> (verb) = cất cánh. <b>Grammar</b>: danh từ <i>take-off</i>.",
+   "example": {
+    "en": "The plane <b>took off</b> two hours late.",
+    "vi": "Máy bay <b>cất cánh</b> muộn hai tiếng."
+   }
+  },
+  {
+   "word": "take off",
+   "sense": "imitate",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ˈɒf/",
+   "def_en": "To imitate someone.",
+   "def_vi": "Bắt chước ai.",
+   "gloss_vi": "nhại",
+   "synonyms": "imitate <i>(v. bắt chước)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take off</i> (verb) = nhại. <b>Grammar</b>: <i>take sb off</i>.",
+   "example": {
+    "en": "She’s very good at <b>taking off</b> her teacher - she sounds just like her.",
+    "vi": "Cô ấy rất giỏi <b>nhại</b> cô giáo."
+   }
+  },
+  {
+   "word": "take on",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ˈɒn/",
+   "def_en": "To employ.",
+   "def_vi": "Thuê.",
+   "gloss_vi": "tuyển, thuê",
+   "synonyms": "employ <i>(v. thuê)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take on</i> (verb) = tuyển, thuê. <b>Grammar</b>: cũng = nhận thêm (việc).",
+   "example": {
+    "en": "We’ll have to <b>take on</b> more staff.",
+    "vi": "Chúng ta sẽ phải <b>tuyển</b> thêm nhân viên."
+   }
+  },
+  {
+   "word": "take on",
+   "sense": "accept",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ˈɒn/",
+   "def_en": "To accept work or responsibility.",
+   "def_vi": "Nhận thêm việc hay trách nhiệm.",
+   "gloss_vi": "nhận",
+   "synonyms": "accept <i>(v. nhận)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take on</i> (verb) = nhận. <b>Grammar</b>: <i>take on work/responsibility</i>.",
+   "example": {
+    "en": "We’ll have to take on more staff if we’re to <b>take on</b> more work.",
+    "vi": "Nếu muốn <b>nhận</b> thêm việc, ta phải tuyển thêm người."
+   }
+  },
+  {
+   "word": "take over",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ˈəʊvə(r)/",
+   "def_en": "To start doing a job that someone else did before.",
+   "def_vi": "Bắt đầu làm công việc người khác làm trước.",
+   "gloss_vi": "tiếp quản",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take over</i> (verb) = tiếp quản. <b>Grammar</b>: danh từ <i>takeover</i>.",
+   "example": {
+    "en": "Nelson is going to <b>take over</b> as manager in July.",
+    "vi": "Nelson sẽ <b>tiếp quản</b> vị trí quản lý vào tháng Bảy."
+   }
+  },
+  {
+   "word": "take to",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈteɪk tə/",
+   "def_en": "To form an immediate liking for.",
+   "def_vi": "Có cảm tình ngay.",
+   "gloss_vi": "có cảm tình ngay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take to</i> (verb) = có cảm tình ngay. <b>Grammar</b>: <i>take to sb/sth</i>.",
+   "example": {
+    "en": "She <b>took to</b> him at once and they soon became close friends.",
+    "vi": "Cô ấy <b>có cảm tình</b> với anh ngay lập tức."
+   }
+  },
+  {
+   "word": "take up",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ˈʌp/",
+   "def_en": "To start a hobby.",
+   "def_vi": "Bắt đầu một sở thích.",
+   "gloss_vi": "bắt đầu chơi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "give up <i>(v. bỏ)</i>",
+   "grammar_vi": "<i>Take up</i> (verb) = bắt đầu chơi. <b>Grammar</b>: <i>take up a hobby/sport</i>.",
+   "example": {
+    "en": "When did you <b>take up</b> golf?",
+    "vi": "Bạn <b>bắt đầu chơi</b> golf khi nào?"
+   }
+  },
+  {
+   "word": "be brought into force",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/bi ˌbrɔːt ˌɪntə ˈfɔːs/",
+   "def_en": "To become law.",
+   "def_vi": "Trở thành luật.",
+   "gloss_vi": "có hiệu lực",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be brought into force</i> (verb) = có hiệu lực. <b>Grammar</b>: thường bị động.",
+   "example": {
+    "en": "The new regulations will <b>be brought into force</b> in May.",
+    "vi": "Quy định mới sẽ <b>có hiệu lực</b> vào tháng Năm."
+   }
+  },
+  {
+   "word": "bring to light",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌbrɪŋ tə ˈlaɪt/",
+   "def_en": "To reveal.",
+   "def_vi": "Tiết lộ.",
+   "gloss_vi": "đưa ra ánh sáng",
+   "synonyms": "reveal <i>(v. tiết lộ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bring to light</i> (verb) = đưa ra ánh sáng. <b>Grammar</b>: <i>bring sth to light</i>.",
+   "example": {
+    "en": "His research <b>brought</b> some very interesting facts <b>to light</b>.",
+    "vi": "Nghiên cứu của ông ấy <b>đưa ra ánh sáng</b> những sự thật thú vị."
+   }
+  },
+  {
+   "word": "bring to a head",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌbrɪŋ tu ə ˈhed/",
+   "def_en": "To bring to a point where changes have to be made.",
+   "def_vi": "Đẩy đến lúc phải thay đổi.",
+   "gloss_vi": "đẩy đến đỉnh điểm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bring to a head</i> (verb) = đẩy đến đỉnh điểm. <b>Grammar</b>: thường bị động.",
+   "example": {
+    "en": "Matters <b>were brought to a head</b> when Lily was sacked.",
+    "vi": "Mọi chuyện <b>lên đến đỉnh điểm</b> khi Lily bị sa thải."
+   }
+  },
+  {
+   "word": "bring into the open",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌbrɪŋ ˌɪntə ði ˈəʊpən/",
+   "def_en": "To make public.",
+   "def_vi": "Công khai.",
+   "gloss_vi": "đưa ra công khai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bring into the open</i> (verb) = đưa ra công khai. <b>Grammar</b>: thường bị động.",
+   "example": {
+    "en": "It’s better that everything should be <b>brought into the open</b>.",
+    "vi": "Tốt hơn hết mọi chuyện nên được <b>đưa ra công khai</b>."
+   }
+  },
+  {
+   "word": "bring out the best in",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌbrɪŋ ˌaʊt ðə ˈbest ɪn/",
+   "def_en": "To be good for someone.",
+   "def_vi": "Khiến ai bộc lộ điều tốt nhất.",
+   "gloss_vi": "khơi dậy điều tốt nhất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bring out the best in</i> (verb) = khơi dậy điều tốt nhất. <b>Grammar</b>: <i>bring out the best/worst in sb</i>.",
+   "example": {
+    "en": "His new girlfriend has really <b>brought out the best in</b> him.",
+    "vi": "Bạn gái mới thực sự <b>khơi dậy điều tốt nhất ở</b> anh ấy."
+   }
+  },
+  {
+   "word": "take advantage of",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ədˈvɑːntɪdʒ əv/",
+   "def_en": "To unfairly use your superiority.",
+   "def_vi": "Lợi dụng ưu thế một cách không công bằng.",
+   "gloss_vi": "lợi dụng",
+   "synonyms": "exploit <i>(v. bóc lột)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take advantage of</i> (verb) = lợi dụng. <b>Common mistakes</b>: cũng = tận dụng (tích cực).",
+   "example": {
+    "en": "Don’t let him <b>take advantage of</b> you.",
+    "vi": "Đừng để hắn <b>lợi dụng</b> bạn."
+   }
+  },
+  {
+   "word": "take for granted",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌteɪk fə ˈɡrɑːntɪd/",
+   "def_en": "Not to appreciate someone’s qualities; to assume.",
+   "def_vi": "Không trân trọng; mặc định.",
+   "gloss_vi": "coi là đương nhiên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "appreciate <i>(v. trân trọng)</i>",
+   "grammar_vi": "<i>Take for granted</i> (verb) = coi là đương nhiên. <b>Grammar</b>: <i>take it for granted (that)…</i> = mặc định.",
+   "example": {
+    "en": "After 20 years of marriage he <b>takes</b> her <b>for granted</b>.",
+    "vi": "Sau 20 năm hôn nhân anh ta <b>coi</b> cô ấy <b>là đương nhiên</b>."
+   }
+  },
+  {
+   "word": "take control",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌteɪk kənˈtrəʊl/",
+   "def_en": "To start organising.",
+   "def_vi": "Bắt đầu tổ chức, điều khiển.",
+   "gloss_vi": "nắm quyền kiểm soát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take control</i> (verb) = nắm quyền kiểm soát. <b>Grammar</b>: <i>take control of sth</i>.",
+   "example": {
+    "en": "She immediately <b>took control</b> of the situation.",
+    "vi": "Cô ấy lập tức <b>nắm quyền kiểm soát</b> tình hình."
+   }
+  },
+  {
+   "word": "take your breath away",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌteɪk jɔː ˈbreθ əweɪ/",
+   "def_en": "To surprise you very much.",
+   "def_vi": "Làm ai rất ngạc nhiên.",
+   "gloss_vi": "làm sững sờ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take your breath away</i> (verb) = làm sững sờ. <b>Grammar</b>: cũng dùng cho cảnh đẹp.",
+   "example": {
+    "en": "His unkind words <b>took my breath away</b>.",
+    "vi": "Lời nói tàn nhẫn của anh ta <b>làm tôi sững sờ</b>."
+   }
+  },
+  {
+   "word": "take place",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ˈpleɪs/",
+   "def_en": "To happen.",
+   "def_vi": "Xảy ra.",
+   "gloss_vi": "diễn ra",
+   "synonyms": "happen <i>(v. xảy ra)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take place</i> (verb) = diễn ra. <b>Grammar</b>: không dùng bị động.",
+   "example": {
+    "en": "The story <b>takes place</b> in Mexico.",
+    "vi": "Câu chuyện <b>diễn ra</b> ở Mexico."
+   }
+  },
+  {
+   "word": "take a risk",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ə ˈrɪsk/",
+   "def_en": "To do something risky.",
+   "def_vi": "Làm điều mạo hiểm.",
+   "gloss_vi": "liều, mạo hiểm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take a risk</i> (verb) = liều, mạo hiểm. <b>Collocations / chunks</b>: <i>take a risk</i>, KHÔNG <i>make a risk</i>.",
+   "example": {
+    "en": "Leaving his job before he’s found a new one is <b>taking a risk</b>.",
+    "vi": "Nghỉ việc trước khi tìm được việc mới là <b>liều lĩnh</b>."
+   }
+  },
+  {
+   "word": "take seriously",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ˈsɪəriəsli/",
+   "def_en": "To consider as serious.",
+   "def_vi": "Coi là nghiêm túc.",
+   "gloss_vi": "coi trọng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take seriously</i> (verb) = coi trọng. <b>Grammar</b>: <i>take sb/sth seriously</i>.",
+   "example": {
+    "en": "It’s impossible to <b>take</b> such a silly suggestion <b>seriously</b>.",
+    "vi": "Không thể <b>coi trọng</b> một đề xuất ngớ ngẩn như vậy."
+   }
+  },
+  {
+   "word": "take into account",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ˌɪntu əˈkaʊnt/",
+   "def_en": "To consider.",
+   "def_vi": "Xem xét, tính đến.",
+   "gloss_vi": "tính đến",
+   "synonyms": "consider <i>(v. xem xét)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take into account</i> (verb) = tính đến. <b>Grammar</b>: <i>take sth into account</i>.",
+   "example": {
+    "en": "Don’t forget to <b>take</b> travel costs <b>into account</b> in the budget.",
+    "vi": "Đừng quên <b>tính</b> chi phí đi lại <b>vào</b> ngân sách."
+   }
+  },
+  {
+   "word": "take pride in",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ˈpraɪd ɪn/",
+   "def_en": "To draw satisfaction from.",
+   "def_vi": "Thấy hài lòng, tự hào về.",
+   "gloss_vi": "tự hào về",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take pride in</i> (verb) = tự hào về. <b>Grammar</b>: <i>take pride in sth</i>.",
+   "example": {
+    "en": "He doesn’t seem to <b>take pride in</b> his work.",
+    "vi": "Anh ta có vẻ không <b>tự hào về</b> công việc của mình."
+   }
+  },
+  {
+   "word": "take the opportunity",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ði ˌɒpəˈtjuːnəti/",
+   "def_en": "To use the chance.",
+   "def_vi": "Tận dụng cơ hội.",
+   "gloss_vi": "nắm lấy cơ hội",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take the opportunity</i> (verb) = nắm lấy cơ hội. <b>Grammar</b>: <i>take the opportunity to do sth</i>.",
+   "example": {
+    "en": "You must <b>take the opportunity</b> to visit the castle while you’re here.",
+    "vi": "Bạn phải <b>nắm lấy cơ hội</b> thăm lâu đài khi ở đây."
+   }
+  }
+ ]
+}

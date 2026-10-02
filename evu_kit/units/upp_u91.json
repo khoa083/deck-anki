@@ -1,0 +1,408 @@
+{
+ "book": "upp",
+ "unit": 91,
+ "title_vi": "Cụm từ với get",
+ "theory_html": "<p><b>A. Meanings of get</b><br><i>A. Nghĩa của get</i></p> <p><b>Get</b> is used frequently in spoken English. Basic meanings: receive, obtain or buy something; change position – move or be moved; change state – become or make.</p><p><i><b>Get</b> rất phổ biến trong văn nói: nhận/lấy/mua; di chuyển; trở nên.</i></p> <p><b>B. Specific meanings of get</b><br><i>B. Nghĩa cụ thể của get</i></p> <p><b>get dinner</b> [prepare a meal], <b>get it</b> [understand], <b>get</b> [annoy], <b>get to</b> [manage], <b>get to know</b> [become acquainted], <b>get the phone/door</b> [answer, respond to].</p><p><i><b>nấu bữa tối, hiểu, làm bực, có dịp, làm quen, nghe máy/ra mở cửa</b>.</i></p> <p><b>C. Phrasal verbs based on get</b><br><i>C. Cụm động từ với get</i></p> <p><b>get across, get at, get behind with, get down, get down to, get into, get on, get out of, get over, get round, get round to, get through, get up to</b>.</p><p><i><b>truyền đạt, tìm ra, chậm trễ, làm chán nản, bắt tay vào, đỗ vào, xoay xở/tiến bộ, trốn tránh, hồi phục, lan truyền, có thời gian làm, vượt qua/tiêu hết, bày trò</b>.</i></p> <p><b>D. Other expressions based on get</b><br><i>D. Cụm khác với get</i></p> <p><b>get out of bed on the wrong side</b> [be in a bad mood], <b>get off to a good/bad start</b>, <b>get-together</b> [informal meeting/party], <b>get rid of</b> [throw away / destroy], <b>get your own back</b> [take revenge].</p><p><i><b>dậy không đúng giờ (cáu kỉnh), khởi đầu tốt/xấu, buổi họp mặt, vứt bỏ, trả đũa</b>.</i></p>",
+ "items": [
+  {
+   "word": "get dinner",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡet ˈdɪnə(r)/",
+   "def_en": "To prepare a meal.",
+   "def_vi": "Chuẩn bị bữa ăn.",
+   "gloss_vi": "nấu bữa tối",
+   "synonyms": "cook <i>(v. nấu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get dinner</i> (verb) = nấu bữa tối. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "It’s my turn to <b>get dinner</b> tonight.",
+    "vi": "Tối nay đến lượt tôi <b>nấu bữa tối</b>."
+   }
+  },
+  {
+   "word": "get it",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈɡet ɪt/",
+   "def_en": "To understand.",
+   "def_vi": "Hiểu.",
+   "gloss_vi": "hiểu",
+   "synonyms": "understand <i>(v. hiểu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get it</i> (verb) = hiểu. <b>Grammar</b>: thân mật, văn nói.",
+   "example": {
+    "en": "I don’t <b>get it</b>. Why did he speak like that?",
+    "vi": "Tôi <b>không hiểu</b>. Sao anh ta lại nói thế?"
+   }
+  },
+  {
+   "word": "get",
+   "sense": "annoy",
+   "pos": "verb",
+   "ipa": "/ɡet/",
+   "def_en": "To annoy.",
+   "def_vi": "Làm bực.",
+   "gloss_vi": "làm bực mình",
+   "synonyms": "annoy <i>(v. làm phiền)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get</i> (verb) = làm bực mình. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "His behaviour really <b>gets</b> me at times.",
+    "vi": "Cách cư xử của anh ta đôi khi thực sự <b>làm tôi bực</b>."
+   }
+  },
+  {
+   "word": "get to",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈɡet tə/",
+   "def_en": "To manage to do something.",
+   "def_vi": "Có dịp làm gì.",
+   "gloss_vi": "có dịp",
+   "synonyms": "manage <i>(v. xoay xở)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get to</i> (verb) = có dịp. <b>Grammar</b>: <i>get to do sth</i>.",
+   "example": {
+    "en": "I didn’t <b>get to</b> speak to her.",
+    "vi": "Tôi thấy bạn gái mới của Harry ở bữa tiệc nhưng không <b>có dịp</b> nói chuyện."
+   }
+  },
+  {
+   "word": "get to know",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡet tə ˈnəʊ/",
+   "def_en": "To become acquainted.",
+   "def_vi": "Làm quen.",
+   "gloss_vi": "làm quen, hiểu nhau",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get to know</i> (verb) = làm quen, hiểu nhau. <b>Grammar</b>: <i>get to know sb</i>.",
+   "example": {
+    "en": "Once we <b>got to know</b> each other, we became great friends.",
+    "vi": "Khi đã <b>hiểu nhau</b>, chúng tôi thành bạn thân."
+   }
+  },
+  {
+   "word": "get the door",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡet ðə ˈdɔː(r)/",
+   "def_en": "To answer the door.",
+   "def_vi": "Ra mở cửa.",
+   "gloss_vi": "ra mở cửa",
+   "synonyms": "answer <i>(v. trả lời)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get the door</i> (verb) = ra mở cửa. <b>Grammar</b>: cũng <i>get the phone</i>.",
+   "example": {
+    "en": "You get the phone and I’ll <b>get the door</b>.",
+    "vi": "Bạn nghe máy còn tôi <b>ra mở cửa</b>."
+   }
+  },
+  {
+   "word": "get across",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡet əˈkrɒs/",
+   "def_en": "To successfully communicate an idea.",
+   "def_vi": "Truyền đạt ý thành công.",
+   "gloss_vi": "truyền đạt",
+   "synonyms": "convey <i>(v. truyền đạt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get across</i> (verb) = truyền đạt. <b>Grammar</b>: <i>get sth across (to sb)</i>.",
+   "example": {
+    "en": "It was difficult to get my point of view <b>across</b> to the committee.",
+    "vi": "Thật khó để <b>truyền đạt</b> quan điểm của tôi với ủy ban."
+   }
+  },
+  {
+   "word": "get at",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈɡet æt/",
+   "def_en": "To reach or find.",
+   "def_vi": "Đạt tới, tìm ra.",
+   "gloss_vi": "tìm ra",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get at</i> (verb) = tìm ra. <b>Common mistakes</b>: cũng = ám chỉ (<i>What are you getting at?</i>).",
+   "example": {
+    "en": "I hope the inquiry will <b>get at</b> the truth.",
+    "vi": "Tôi mong cuộc điều tra sẽ <b>tìm ra</b> sự thật."
+   }
+  },
+  {
+   "word": "get behind with",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡet bɪˈhaɪnd wɪð/",
+   "def_en": "To fail to do something by a certain time.",
+   "def_vi": "Không làm kịp đúng hạn.",
+   "gloss_vi": "chậm trễ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get behind with</i> (verb) = chậm trễ. <b>Grammar</b>: <i>get behind with work/payments</i>.",
+   "example": {
+    "en": "I’ve <b>got terribly behind with</b> my work.",
+    "vi": "Tôi <b>chậm trễ</b> công việc kinh khủng."
+   }
+  },
+  {
+   "word": "get down",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡet ˈdaʊn/",
+   "def_en": "To depress.",
+   "def_vi": "Làm chán nản.",
+   "gloss_vi": "làm chán nản",
+   "synonyms": "depress <i>(v. làm buồn)</i>",
+   "antonyms": "cheer up <i>(v. làm vui)</i>",
+   "grammar_vi": "<i>Get down</i> (verb) = làm chán nản. <b>Grammar</b>: <i>get sb down</i>.",
+   "example": {
+    "en": "This weather is <b>getting me down</b>.",
+    "vi": "Thời tiết này <b>làm tôi chán nản</b>."
+   }
+  },
+  {
+   "word": "get down to",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡet ˈdaʊn tə/",
+   "def_en": "To begin to give serious attention to.",
+   "def_vi": "Bắt đầu tập trung nghiêm túc vào.",
+   "gloss_vi": "bắt tay vào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get down to</i> (verb) = bắt tay vào. <b>Grammar</b>: <i>get down to work/business</i>.",
+   "example": {
+    "en": "It’s time you <b>got down to</b> some work.",
+    "vi": "Đã đến lúc bạn <b>bắt tay vào</b> làm việc."
+   }
+  },
+  {
+   "word": "get into",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈɡet ɪntə/",
+   "def_en": "To be successful with an application, e.g. to a college.",
+   "def_vi": "Được nhận vào trường.",
+   "gloss_vi": "đỗ vào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get into</i> (verb) = đỗ vào. <b>Grammar</b>: <i>get into university/college</i>.",
+   "example": {
+    "en": "She did well in her exams and <b>got into</b> university.",
+    "vi": "Cô ấy thi tốt và <b>đỗ vào</b> đại học."
+   }
+  },
+  {
+   "word": "get on",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡet ˈɒn/",
+   "def_en": "To manage.",
+   "def_vi": "Xoay xở.",
+   "gloss_vi": "xoay xở",
+   "synonyms": "manage <i>(v. xoay xở)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get on</i> (verb) = xoay xở. <b>Grammar</b>: cũng = tiến bộ.",
+   "example": {
+    "en": "However will we <b>get on</b> without you?",
+    "vi": "Không có bạn thì chúng tôi <b>xoay xở</b> thế nào đây?"
+   }
+  },
+  {
+   "word": "get on",
+   "sense": "advance",
+   "pos": "verb",
+   "ipa": "/ˌɡet ˈɒn/",
+   "def_en": "To advance or develop.",
+   "def_vi": "Tiến bộ, phát triển.",
+   "gloss_vi": "tiến bộ",
+   "synonyms": "progress <i>(v. tiến bộ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get on</i> (verb) = tiến bộ. <b>Grammar</b>: <i>get on well at school/work</i>.",
+   "example": {
+    "en": "Jo is <b>getting on</b> very well at school.",
+    "vi": "Jo đang <b>học hành tiến bộ</b> ở trường."
+   }
+  },
+  {
+   "word": "get out of",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡet ˈaʊt əv/",
+   "def_en": "To avoid a responsibility.",
+   "def_vi": "Trốn tránh trách nhiệm.",
+   "gloss_vi": "trốn tránh",
+   "synonyms": "avoid <i>(v. tránh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get out of</i> (verb) = trốn tránh. <b>Grammar</b>: + danh từ hoặc -ing.",
+   "example": {
+    "en": "I’ll try to <b>get out of</b> my next lesson.",
+    "vi": "Tôi sẽ cố <b>trốn</b> tiết học sau."
+   }
+  },
+  {
+   "word": "get round",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡet ˈraʊnd/",
+   "def_en": "(Of news) to spread.",
+   "def_vi": "(Tin tức) lan truyền.",
+   "gloss_vi": "lan truyền",
+   "synonyms": "spread <i>(v. lan truyền)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get round</i> (verb) = lan truyền. <b>Grammar</b>: Mỹ <i>get around</i>.",
+   "example": {
+    "en": "The news soon <b>got round</b> the village.",
+    "vi": "Tin tức nhanh chóng <b>lan khắp</b> làng."
+   }
+  },
+  {
+   "word": "get round to",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡet ˈraʊnd tə/",
+   "def_en": "To do something you have intended to do for a long time.",
+   "def_vi": "Làm điều đã định từ lâu.",
+   "gloss_vi": "có thời gian làm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get round to</i> (verb) = có thời gian làm. <b>Grammar</b>: + danh từ hoặc -ing.",
+   "example": {
+    "en": "I need to buy a new desk but I can’t <b>get round to</b> it.",
+    "vi": "Tôi cần mua bàn mới nhưng chưa <b>có thời gian làm</b>."
+   }
+  },
+  {
+   "word": "get through",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡet ˈθruː/",
+   "def_en": "To come to a successful end, e.g. of exams.",
+   "def_vi": "Vượt qua thành công.",
+   "gloss_vi": "vượt qua",
+   "synonyms": "pass <i>(v. đỗ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get through</i> (verb) = vượt qua. <b>Grammar</b>: cũng = tiêu hết.",
+   "example": {
+    "en": "I’m glad she <b>got through</b> all her exams!",
+    "vi": "Tôi mừng là cô ấy <b>vượt qua</b> mọi kỳ thi!"
+   }
+  },
+  {
+   "word": "get through",
+   "sense": "use",
+   "pos": "verb",
+   "ipa": "/ˌɡet ˈθruː/",
+   "def_en": "To use up all of something.",
+   "def_vi": "Dùng hết.",
+   "gloss_vi": "tiêu hết",
+   "synonyms": "use up <i>(v. dùng hết)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get through</i> (verb) = tiêu hết. <b>Grammar</b>: <i>get through money/food</i>.",
+   "example": {
+    "en": "He <b>got through</b> his month’s salary in just one weekend.",
+    "vi": "Anh ta <b>tiêu hết</b> lương tháng chỉ trong một cuối tuần."
+   }
+  },
+  {
+   "word": "get up to",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡet ˈʌp tə/",
+   "def_en": "To do something, especially something bad.",
+   "def_vi": "Làm gì, nhất là việc xấu.",
+   "gloss_vi": "bày trò",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get up to</i> (verb) = bày trò. <b>Grammar</b>: thường dùng cho trẻ con.",
+   "example": {
+    "en": "I wonder what they’re <b>getting up to</b>?",
+    "vi": "Bọn trẻ im quá. Không biết chúng đang <b>bày trò</b> gì?"
+   }
+  },
+  {
+   "word": "get out of bed on the wrong side",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡet ˌaʊt əv ˌbed ɒn ðə ˌrɒŋ ˈsaɪd/",
+   "def_en": "To be in a bad mood.",
+   "def_vi": "Có tâm trạng tệ.",
+   "gloss_vi": "cáu kỉnh vô cớ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get out of bed on the wrong side</i> (verb) = cáu kỉnh vô cớ. <b>Grammar</b>: thường ở thì hoàn thành.",
+   "example": {
+    "en": "You seem to have <b>got out of bed on the wrong side</b> today.",
+    "vi": "Hôm nay có vẻ bạn <b>cáu kỉnh vô cớ</b>."
+   }
+  },
+  {
+   "word": "get off to a good start",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡet ˌɒf tu ə ˌɡʊd ˈstɑːt/",
+   "def_en": "To start well.",
+   "def_vi": "Khởi đầu tốt.",
+   "gloss_vi": "khởi đầu tốt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "get off to a bad start <i>(v. khởi đầu tệ)</i>",
+   "grammar_vi": "<i>Get off to a good start</i> (verb) = khởi đầu tốt. <b>Grammar</b>: cũng <i>bad start</i>.",
+   "example": {
+    "en": "The meeting <b>got off to a good start</b> with Elliot’s speech.",
+    "vi": "Cuộc họp <b>khởi đầu tốt</b> với bài phát biểu của Elliot."
+   }
+  },
+  {
+   "word": "get-together",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡet təɡeðə(r)/",
+   "def_en": "An informal meeting or party.",
+   "def_vi": "Buổi gặp mặt, tiệc thân mật.",
+   "gloss_vi": "buổi họp mặt",
+   "synonyms": "gathering <i>(n. buổi tụ họp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get-together</i> (noun) = buổi họp mặt. <b>Grammar</b>: danh từ có gạch nối.",
+   "example": {
+    "en": "I’m organising a little <b>get-together</b>.",
+    "vi": "Tôi đang tổ chức một <b>buổi họp mặt</b> nhỏ."
+   }
+  },
+  {
+   "word": "get rid of",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡet ˈrɪd əv/",
+   "def_en": "To throw away or destroy.",
+   "def_vi": "Vứt bỏ, tiêu hủy.",
+   "gloss_vi": "vứt bỏ",
+   "synonyms": "throw away <i>(v. vứt đi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get rid of</i> (verb) = vứt bỏ. <b>Grammar</b>: <i>get rid of sth/sb</i>.",
+   "example": {
+    "en": "When they broke up he <b>got rid of</b> everything of hers.",
+    "vi": "Khi chia tay, anh ta <b>vứt bỏ</b> mọi thứ của cô ấy."
+   }
+  },
+  {
+   "word": "get your own back",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡet jɔːr ˌəʊn ˈbæk/",
+   "def_en": "To take revenge.",
+   "def_vi": "Trả thù.",
+   "gloss_vi": "trả đũa",
+   "synonyms": "take revenge <i>(v. trả thù)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get your own back</i> (verb) = trả đũa. <b>Grammar</b>: <i>get your own back on sb</i>.",
+   "example": {
+    "en": "I’m going to <b>get my own back</b> on her somehow.",
+    "vi": "Tôi sẽ <b>trả đũa</b> cô ta bằng cách nào đó."
+   }
+  }
+ ]
+}
