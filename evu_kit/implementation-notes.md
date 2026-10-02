@@ -6,7 +6,7 @@
 | Elementary (ele) | EVU Elementary 3rd ed. (text PDF, không có dấu cách giữa từ → dựng lại từ khoảng cách glyph) | 60 | **xong 60/60** |
 | Pre-intermediate & Intermediate (pre) | EVU Pre-int & Int 4th ed. | 100 | **xong 100/100** |
 | Upper-intermediate (upp) | EVU Upper-int 4th ed. + demo (unit 1–4, 80–82) | 101 | **xong 94 unit mới + 7 unit demo giữ nguyên** |
-| Advanced (adv) | EVU Advanced | – | chưa |
+| Advanced (adv) | EVU Advanced 3rd ed. | 101 | **xong 101/101** |
 | Business Intermediate (bus) | Business Vocabulary in Use Int 3rd ed. | – | chưa |
 | Grammar & Vocabulary for Advanced (gva) | Hewings & Haines | – | chưa |
 
@@ -15,6 +15,7 @@
 | E1 | Elementary 1–60 | 60 unit, 1244 mục; build 1305 note / 2549 thẻ (60 note lý thuyết + 1 mục lục); 0 bad renders; audio 1244/1244; GUID trùng 0; note logic trùng 0 |
 | E2 | Pre-int & Int 1–100 | 100 unit, 2260 mục (365 câu kit đặt); build 2361 note / 4621 thẻ (100 note lý thuyết + 1 mục lục); 0 bad renders; audio 2260/2260; GUID trùng 0; note logic trùng 0 |
 | E3 | Upper-int 5–79, 83–101 (+ demo 1–4, 80–82) | 94 unit, 2486 mục mới (784 câu kit đặt); build 3124 note / 6146 thẻ (2486 mới + 94 lý thuyết + 544 note demo giữ nguyên, 291 IPA demo đổi sang chuẩn Anh); 0 bad renders; audio 3022/3022; GUID trùng 0; note logic trùng 0 |
+| E4 | Advanced 1–101 | 101 unit, 2654 mục (347 câu kit đặt); build 2756 note / 5410 thẻ (101 note lý thuyết + 1 mục lục); 0 bad renders; audio 2654/2654; GUID trùng 0; note logic trùng 0 |
 
 ## Quyết định thiết kế (đã đối chiếu 2 deck demo)
 - **Note type & giao diện**: lấy nguyên từ demo `English Vocabulary In Use (Upper-Intermediate).apkg` – "(Vocab In Use) Nhìn từ đoán nghĩa" (13 field: Từ vựng, Định nghĩa (a), IPA, Định nghĩa (v), Dịch nghĩa, Câu ví dụ hoàn chỉnh, Dịch câu ví dụ, Trái nghĩa, Đồng nghĩa, Ngữ pháp, Phát âm, STT, Nguồn; 2 thẻ) + "Tóm tắt" (lý thuyết). Không thêm field (khác EPV: demo EVU không có field lý thuyết trong note từ vựng).
@@ -37,6 +38,7 @@
 - `exb` đôi khi đổi chủ ngữ đại từ thành danh từ hoặc lược mệnh đề phụ để câu đứng độc lập (vd *Harry’s girlfriend was getting jealous* thay *his girlfriend…*) – vẫn là chữ của sách.
 - `evu.py`: sửa đọc số unit từ tên tệp (hỗ trợ unit 100) và kiểm trùng theo unit nhỏ nhất.
 - Upper-int: kiểm trùng gồm cả từ của 7 unit demo (`tools/upp_demo_words.json`, trích từ apkg demo) → bỏ từ demo đã có (vd `luggage`, `rectangle`, `knowledge`, `progress`, `weather`, `pair`, `roar`, `crash`), nghĩa khác đặt `sense` (vd `make up` invent ≠ demo constitute, `object` protest). Unit 99 (biển báo) và 100C (tiêu đề chơi chữ) đọc chữ từ ảnh trang PDF. Unit ngữ pháp từ vựng (70–78, 83–88, 100–101) phần lớn là danh sách không có câu → câu kit đặt nhiều (u70 47, u71 56, u75 43, u101 36). Trường `Ngữ pháp` không để trống: thêm `tools/fixg.py` điền ghi chú khi check báo thiếu.
+- Advanced: kiểm trùng toàn sách trước khi viết (grep headword) → từ đã có ở unit trước bị bỏ (vd `truce`, `ceasefire`, `standing ovation`, `remorse`, `yearn`, `webinar`, `breathalyser`, `e-commerce`, `overrated`, `condolences`, `contaminate`, `reach a compromise`, `a dog’s life`, `the deceased`); nghĩa khác đặt `sense` (vd `mourn` tiếc nuối ≠ `mourning` để tang, `conceive` nghĩ ra ≠ có thai, `comprehensive` toàn diện ≠ trường phổ thông, `besieged` bị nhà báo vây ≠ `besiege` quân sự, `crawl` nịnh ≠ bò). Unit 91 (đa nghĩa: fair/flat/capital/mean) tách mỗi nghĩa 1 note có `sense`. `tools/mk.sh` gộp fixg `--auto` + make, chỉ in LỖI/trùng.
 - Câu sách có lỗi in (`nationalies` u27) giữ nguyên trong src; ví dụ dùng câu đã ghép tay (`exb`).
 
 ## Kiểm trôi
@@ -44,6 +46,7 @@
 
 ## Todo for human
 - Upper-int: 784/2486 câu ví dụ do kit đặt (tag `EVU::ex_kit`), tập trung ở unit danh sách (hậu tố/tiền tố, danh từ ghép, viết tắt, US English, từ báo chí). 1758 mục có ghi chú `Ngữ pháp` ngắn (<15 từ, cảnh báo mềm của check; pre 1144).
+- Advanced: 347/2654 câu ví dụ do kit đặt (tag `EVU::ex_kit`), tập trung ở unit danh sách không có câu (u65 màu sắc 29, u79 từ học thuật 29, u85 viết tắt 26, u69 khó khăn 23, u86 tiền tố 17). 1547 cảnh báo mềm `Ngữ pháp` ngắn.
 - Pre-int: 365/2260 câu ví dụ do kit đặt (tag `EVU::ex_kit`), chủ yếu unit tranh (thức ăn, động vật, cơ thể, quần áo, đồ văn phòng).
 - 357 câu ví dụ Elementary là câu kit đặt (tag `EVU::ex_kit`) vì từ chỉ xuất hiện ở nhãn tranh / bảng; lọc bằng tag nếu muốn xem lại.
 - Lý thuyết là bản tóm tắt song ngữ, không chép nguyên trang như demo – nếu muốn chép nguyên trang như demo, cần quyết định riêng (vấn đề bản quyền và độ dài).
