@@ -1,0 +1,506 @@
+{
+ "book": "upp",
+ "unit": 93,
+ "title_vi": "Cụm từ với come và go",
+ "theory_html": "<p><b>A. Phrasal verbs based on come</b><br><i>A. Cụm động từ với come</i></p> <p><b>come off</b> [take place], <b>come out</b> [be published, made public], <b>come up</b> [be raised], <b>come round</b> [pay an informal visit], <b>come between</b> [separate, be a barrier between], <b>come across</b> [find by chance], <b>come by</b> [receive, obtain], <b>come down</b> [decrease], <b>come up with</b> [think of / suggest a plan].</p><p><i><b>diễn ra, công bố, được nêu ra, ghé chơi, chia rẽ, tình cờ thấy, có được, giảm, nghĩ ra</b>.</i></p> <p><b>B. Collocations with come to and come into</b><br><i>B. Kết hợp với come to và come into</i></p> <p><b>Come to</b> often refers to the idea of ‘arriving at’: <b>an agreement, a decision, a conclusion, terms with</b> [acknowledge and accept psychologically], <b>a standstill</b> [stop], <b>an end</b>. <b>Come into</b> often refers to the idea of starting or acquiring: <b>contact (with), a fortune</b> [receive when someone dies], <b>existence, fashion, operation</b> [start working], <b>sight/view</b>.</p><p><i><b>Come to</b> = đi đến: thỏa thuận, quyết định, kết luận, chấp nhận, đình trệ, kết thúc. <b>Come into</b> = bắt đầu/có được: tiếp xúc, thừa kế, ra đời, thành mốt, đi vào hoạt động, hiện ra.</i></p> <p><b>C. Phrasal verbs based on go</b><br><i>C. Cụm động từ với go</i></p> <p><b>go on</b> [happen; continue; pass; go in advance], <b>go on at</b> [criticise, complain], <b>go through</b> [experience, endure; check; be completed or approved], <b>go for</b> [attack; choose], <b>go with</b> [suit, match].</p><p><i><b>xảy ra/tiếp tục/trôi qua/đi trước, cằn nhằn, trải qua/xem lại/được thông qua, tấn công/chọn, hợp với</b>.</i></p> <p><b>D. Other expressions based on go</b><br><i>D. Cụm khác với go</i></p> <p><b>make a go of</b> [make a success of], <b>on the go</b> [very busy], <b>it goes without saying</b> [clear without being said], <b>as far as it goes</b> [but is limited], <b>the story goes that</b> [it is said that], <b>go to great lengths</b> [take a lot of trouble], <b>go bankrupt</b>.</p><p><i><b>làm nên chuyện, bận rộn, khỏi phải nói, nhưng còn hạn chế, người ta kể rằng, cất công, phá sản</b>.</i></p>",
+ "items": [
+  {
+   "word": "come off",
+   "sense": "happen",
+   "pos": "verb",
+   "ipa": "/ˌkʌm ˈɒf/",
+   "def_en": "To take place.",
+   "def_vi": "Diễn ra.",
+   "gloss_vi": "diễn ra",
+   "synonyms": "take place <i>(v. diễn ra)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Come off</i> (verb) = diễn ra. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "Did the meeting you were planning ever <b>come off</b>?",
+    "vi": "Cuộc họp bạn dự định có <b>diễn ra</b> không?"
+   }
+  },
+  {
+   "word": "come out",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkʌm ˈaʊt/",
+   "def_en": "To be published or made public.",
+   "def_vi": "Được công bố.",
+   "gloss_vi": "được công bố",
+   "synonyms": "be published <i>(v. xuất bản)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Come out</i> (verb) = được công bố. <b>Grammar</b>: cũng dùng cho sách, phim.",
+   "example": {
+    "en": "When do the exam results <b>come out</b>?",
+    "vi": "Khi nào kết quả thi <b>công bố</b>?"
+   }
+  },
+  {
+   "word": "come up",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkʌm ˈʌp/",
+   "def_en": "To be raised, e.g. at a meeting.",
+   "def_vi": "Được nêu ra, như ở cuộc họp.",
+   "gloss_vi": "được nêu ra",
+   "synonyms": "arise <i>(v. nảy sinh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Come up</i> (verb) = được nêu ra. <b>Grammar</b>: nội động từ.",
+   "example": {
+    "en": "I must tell you about an important point which <b>came up</b> at the meeting.",
+    "vi": "Một điểm quan trọng đã <b>được nêu ra</b> ở cuộc họp."
+   }
+  },
+  {
+   "word": "come round",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkʌm ˈraʊnd/",
+   "def_en": "To pay an informal visit.",
+   "def_vi": "Ghé thăm thân mật.",
+   "gloss_vi": "ghé chơi",
+   "synonyms": "drop in <i>(v. ghé qua)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Come round</i> (verb) = ghé chơi. <b>Grammar</b>: Mỹ <i>come around</i>.",
+   "example": {
+    "en": "Please <b>come round</b> and see me sometime.",
+    "vi": "Lúc nào đó <b>ghé chơi</b> nhé."
+   }
+  },
+  {
+   "word": "come between",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkʌm bɪˈtwiːn/",
+   "def_en": "To separate or be a barrier between.",
+   "def_vi": "Chia rẽ, làm rào cản.",
+   "gloss_vi": "chia rẽ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Come between</i> (verb) = chia rẽ. <b>Grammar</b>: <i>come between A and B</i>.",
+   "example": {
+    "en": "Nothing can <b>come between</b> him and football.",
+    "vi": "Không gì có thể <b>chia rẽ</b> anh ấy với bóng đá."
+   }
+  },
+  {
+   "word": "come by",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈkʌm baɪ/",
+   "def_en": "To receive or obtain.",
+   "def_vi": "Nhận được, có được.",
+   "gloss_vi": "có được",
+   "synonyms": "obtain <i>(v. có được)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Come by</i> (verb) = có được. <b>Grammar</b>: thường trong câu hỏi <i>How did you come by…?</i>.",
+   "example": {
+    "en": "How did you <b>come by</b> that bruise / that car?",
+    "vi": "Làm sao bạn <b>có</b> vết bầm đó / chiếc xe đó?"
+   }
+  },
+  {
+   "word": "come down",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkʌm ˈdaʊn/",
+   "def_en": "To decrease.",
+   "def_vi": "Giảm.",
+   "gloss_vi": "giảm",
+   "synonyms": "fall <i>(v. giảm)</i>",
+   "antonyms": "go up <i>(v. tăng)</i>",
+   "grammar_vi": "<i>Come down</i> (verb) = giảm. <b>Grammar</b>: dùng cho giá cả.",
+   "example": {
+    "en": "Computer prices have <b>come down</b> recently.",
+    "vi": "Giá máy tính gần đây đã <b>giảm</b>."
+   }
+  },
+  {
+   "word": "come to an agreement",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkʌm tu ən əˈɡriːmənt/",
+   "def_en": "To agree after discussion.",
+   "def_vi": "Thỏa thuận sau khi bàn bạc.",
+   "gloss_vi": "đi đến thỏa thuận",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Come to an agreement</i> (verb) = đi đến thỏa thuận. <b>Collocations / chunks</b>: <i>come to an agreement / a decision / a conclusion</i>.",
+   "example": {
+    "en": "The two sides have at last <b>come to an agreement</b>.",
+    "vi": "Hai bên cuối cùng đã <b>đi đến thỏa thuận</b>."
+   }
+  },
+  {
+   "word": "come to terms with",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkʌm tə ˈtɜːmz wɪð/",
+   "def_en": "To acknowledge and accept psychologically.",
+   "def_vi": "Thừa nhận và chấp nhận về mặt tâm lý.",
+   "gloss_vi": "chấp nhận",
+   "synonyms": "accept <i>(v. chấp nhận)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Come to terms with</i> (verb) = chấp nhận. <b>Grammar</b>: <i>come to terms with sth</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She still hasn’t <b>come to terms with</b> her mother’s death.",
+    "vi": "Cô ấy vẫn chưa <b>chấp nhận</b> cái chết của mẹ."
+   }
+  },
+  {
+   "word": "come to a standstill",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkʌm tu ə ˈstændstɪl/",
+   "def_en": "To stop.",
+   "def_vi": "Dừng lại.",
+   "gloss_vi": "đình trệ, tắc nghẽn",
+   "synonyms": "stop <i>(v. dừng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Come to a standstill</i> (verb) = đình trệ, tắc nghẽn. <b>Grammar</b>: <i>standstill</i> = sự đình trệ.",
+   "example": {
+    "en": "Traffic <b>came to a standstill</b> because of the snow.",
+    "vi": "Giao thông <b>tắc nghẽn hoàn toàn</b> vì tuyết."
+   }
+  },
+  {
+   "word": "come to an end",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkʌm tu ən ˈend/",
+   "def_en": "To finish.",
+   "def_vi": "Kết thúc.",
+   "gloss_vi": "kết thúc",
+   "synonyms": "end <i>(v. kết thúc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Come to an end</i> (verb) = kết thúc. <b>Grammar</b>: <i>come to</i> = đi đến.",
+   "example": {
+    "en": "The war finally <b>came to an end</b> in 2005.",
+    "vi": "Chiến tranh cuối cùng đã <b>kết thúc</b> năm 2005."
+   }
+  },
+  {
+   "word": "come into a fortune",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkʌm ˌɪntu ə ˈfɔːtʃuːn/",
+   "def_en": "To receive a lot of money when someone dies.",
+   "def_vi": "Nhận nhiều tiền khi ai đó mất.",
+   "gloss_vi": "thừa kế gia tài",
+   "synonyms": "inherit <i>(v. thừa kế)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Come into a fortune</i> (verb) = thừa kế gia tài. <b>Collocations / chunks</b>: <i>come into</i> = có được.",
+   "example": {
+    "en": "He <b>came into a fortune</b> when his uncle died.",
+    "vi": "Anh ấy <b>thừa kế một gia tài</b> khi chú mất."
+   }
+  },
+  {
+   "word": "come into operation",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkʌm ˌɪntu ˌɒpəˈreɪʃn/",
+   "def_en": "To start working.",
+   "def_vi": "Bắt đầu hoạt động.",
+   "gloss_vi": "đi vào hoạt động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Come into operation</i> (verb) = đi vào hoạt động. <b>Collocations / chunks</b>: <i>come into</i> = bắt đầu.",
+   "example": {
+    "en": "The new motorway will <b>come into operation</b> next March.",
+    "vi": "Đường cao tốc mới sẽ <b>đi vào hoạt động</b> tháng Ba tới."
+   }
+  },
+  {
+   "word": "come into sight",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkʌm ˌɪntə ˈsaɪt/",
+   "def_en": "To become visible.",
+   "def_vi": "Trở nên nhìn thấy được.",
+   "gloss_vi": "hiện ra",
+   "synonyms": "appear <i>(v. xuất hiện)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Come into sight</i> (verb) = hiện ra. <b>Grammar</b>: cũng <i>come into view</i>.",
+   "example": {
+    "en": "After two hours at sea, the island <b>came into sight</b>.",
+    "vi": "Sau hai giờ trên biển, hòn đảo <b>hiện ra</b>."
+   }
+  },
+  {
+   "word": "come into fashion",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkʌm ˌɪntə ˈfæʃn/",
+   "def_en": "To become fashionable.",
+   "def_vi": "Trở thành mốt.",
+   "gloss_vi": "thành mốt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "go out of fashion <i>(v. lỗi mốt)</i>",
+   "grammar_vi": "<i>Come into fashion</i> (verb) = thành mốt. <b>Collocations / chunks</b>: <i>come into</i> = bắt đầu.",
+   "ex_kit": true,
+   "example": {
+    "en": "Flared trousers have <b>come into fashion</b> again.",
+    "vi": "Quần ống loe lại <b>thành mốt</b>."
+   }
+  },
+  {
+   "word": "go on",
+   "sense": "happen",
+   "pos": "verb",
+   "ipa": "/ˌɡəʊ ˈɒn/",
+   "def_en": "To happen.",
+   "def_vi": "Xảy ra.",
+   "gloss_vi": "xảy ra",
+   "synonyms": "happen <i>(v. xảy ra)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go on</i> (verb) = xảy ra. <b>Grammar</b>: thường tiếp diễn <i>What’s going on?</i>.",
+   "example": {
+    "en": "What is <b>going on</b> next door?",
+    "vi": "Chuyện gì đang <b>xảy ra</b> bên nhà hàng xóm vậy?"
+   }
+  },
+  {
+   "word": "go on",
+   "sense": "continue",
+   "pos": "verb",
+   "ipa": "/ˌɡəʊ ˈɒn/",
+   "def_en": "To continue.",
+   "def_vi": "Tiếp tục.",
+   "gloss_vi": "tiếp tục",
+   "synonyms": "continue <i>(v. tiếp tục)</i>",
+   "antonyms": "stop <i>(v. dừng)</i>",
+   "grammar_vi": "<i>Go on</i> (verb) = tiếp tục. <b>Grammar</b>: <i>go on + -ing</i>.",
+   "example": {
+    "en": "They <b>went on</b> working despite the noise.",
+    "vi": "Họ <b>tiếp tục</b> làm việc dù ồn ào."
+   }
+  },
+  {
+   "word": "go on at",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡəʊ ˈɒn ət/",
+   "def_en": "To criticise or complain to someone repeatedly.",
+   "def_vi": "Liên tục chê trách, phàn nàn với ai.",
+   "gloss_vi": "cằn nhằn",
+   "synonyms": "nag <i>(v. cằn nhằn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go on at</i> (verb) = cằn nhằn. <b>Grammar</b>: <i>go on at sb about sth</i>.",
+   "example": {
+    "en": "He’s always <b>going on at</b> me about my untidy hair.",
+    "vi": "Anh ấy lúc nào cũng <b>cằn nhằn</b> tôi về mái tóc bù xù."
+   }
+  },
+  {
+   "word": "go through",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡəʊ ˈθruː/",
+   "def_en": "To experience or endure.",
+   "def_vi": "Trải qua, chịu đựng.",
+   "gloss_vi": "trải qua",
+   "synonyms": "endure <i>(v. chịu đựng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go through</i> (verb) = trải qua. <b>Grammar</b>: cũng = xem lại, được thông qua.",
+   "example": {
+    "en": "I wouldn’t like to <b>go through</b> that again.",
+    "vi": "Tôi không muốn <b>trải qua</b> điều đó lần nữa."
+   }
+  },
+  {
+   "word": "go through",
+   "sense": "check",
+   "pos": "verb",
+   "ipa": "/ˌɡəʊ ˈθruː/",
+   "def_en": "To check.",
+   "def_vi": "Kiểm tra.",
+   "gloss_vi": "xem lại",
+   "synonyms": "check <i>(v. kiểm tra)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go through</i> (verb) = xem lại. <b>Grammar</b>: nội động từ.",
+   "example": {
+    "en": "Let’s <b>go through</b> the plans once more.",
+    "vi": "Hãy <b>xem lại</b> kế hoạch thêm lần nữa."
+   }
+  },
+  {
+   "word": "go through",
+   "sense": "approve",
+   "pos": "verb",
+   "ipa": "/ˌɡəʊ ˈθruː/",
+   "def_en": "To be completed or approved.",
+   "def_vi": "Được hoàn tất hay phê duyệt.",
+   "gloss_vi": "được thông qua",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go through</i> (verb) = được thông qua. <b>Grammar</b>: nội động từ.",
+   "example": {
+    "en": "The business deal we were hoping for did not <b>go through</b> in the end.",
+    "vi": "Thương vụ chúng tôi mong đợi cuối cùng không <b>được thông qua</b>."
+   }
+  },
+  {
+   "word": "go for",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈɡəʊ fɔː(r)/",
+   "def_en": "To attack.",
+   "def_vi": "Tấn công.",
+   "gloss_vi": "lao vào, công kích",
+   "synonyms": "attack <i>(v. tấn công)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go for</i> (verb) = lao vào, công kích. <b>Grammar</b>: cũng = chọn.",
+   "example": {
+    "en": "He really <b>went for</b> her when she dared to criticise him.",
+    "vi": "Anh ta <b>lao vào</b> cô ấy khi cô dám chỉ trích."
+   }
+  },
+  {
+   "word": "go for",
+   "sense": "choose",
+   "pos": "verb",
+   "ipa": "/ˈɡəʊ fɔː(r)/",
+   "def_en": "To choose.",
+   "def_vi": "Chọn.",
+   "gloss_vi": "chọn",
+   "synonyms": "choose <i>(v. chọn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go for</i> (verb) = chọn. <b>Grammar</b>: <i>go for sth</i>.",
+   "example": {
+    "en": "Which course have you decided to <b>go for</b>?",
+    "vi": "Bạn quyết định <b>chọn</b> khóa học nào?"
+   }
+  },
+  {
+   "word": "go with",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈɡəʊ wɪð/",
+   "def_en": "To suit or match.",
+   "def_vi": "Hợp với.",
+   "gloss_vi": "hợp với",
+   "synonyms": "match <i>(v. hợp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go with</i> (verb) = hợp với. <b>Grammar</b>: không dùng tiếp diễn.",
+   "example": {
+    "en": "Those shoes don’t <b>go with</b> that dress.",
+    "vi": "Đôi giày đó không <b>hợp với</b> chiếc váy kia."
+   }
+  },
+  {
+   "word": "make a go of",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌmeɪk ə ˈɡəʊ əv/",
+   "def_en": "To make a success of.",
+   "def_vi": "Làm cho thành công.",
+   "gloss_vi": "làm nên chuyện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Make a go of</i> (verb) = làm nên chuyện. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "I hope they’ll <b>make a go of</b> the business but they are taking a big risk.",
+    "vi": "Tôi mong họ <b>làm nên chuyện</b> với việc kinh doanh."
+   }
+  },
+  {
+   "word": "on the go",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɒn ðə ˈɡəʊ/",
+   "def_en": "Very busy; on the move.",
+   "def_vi": "Rất bận, di chuyển liên tục.",
+   "gloss_vi": "bận rộn",
+   "synonyms": "busy <i>(adj. bận)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>On the go</i> (adjective) = bận rộn. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "He’s been <b>on the go</b> all day and he’s exhausted.",
+    "vi": "Anh ấy <b>bận rộn</b> cả ngày và kiệt sức."
+   }
+  },
+  {
+   "word": "it goes without saying",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ɪt ˌɡəʊz wɪˌðaʊt ˈseɪɪŋ/",
+   "def_en": "It is clear without being said.",
+   "def_vi": "Rõ ràng mà không cần nói.",
+   "gloss_vi": "khỏi phải nói",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>It goes without saying</i> (cl) = khỏi phải nói. <b>Grammar</b>: + <i>that…</i>.",
+   "example": {
+    "en": "<b>It goes without saying</b> that we’ll support you.",
+    "vi": "<b>Khỏi phải nói</b>, chúng tôi sẽ ủng hộ bạn."
+   }
+  },
+  {
+   "word": "as far as it goes",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/əz ˌfɑːr əz ɪt ˈɡəʊz/",
+   "def_en": "Good but limited or insufficient.",
+   "def_vi": "Tốt nhưng còn hạn chế.",
+   "gloss_vi": "ở mức độ nào đó",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As far as it goes</i> (adverb) = ở mức độ nào đó. <b>Grammar</b>: hàm ý chưa đủ.",
+   "example": {
+    "en": "Your work is good, <b>as far as it goes</b>.",
+    "vi": "Bài làm của bạn tốt, <b>ở mức độ nào đó</b>."
+   }
+  },
+  {
+   "word": "the story goes that",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ðə ˌstɔːri ˈɡəʊz ðət/",
+   "def_en": "It is said that.",
+   "def_vi": "Người ta kể rằng.",
+   "gloss_vi": "người ta kể rằng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The story goes that</i> (cl) = người ta kể rằng. <b>Grammar</b>: = <i>It is said that…</i>.",
+   "example": {
+    "en": "<b>The story goes that</b> they were once very close friends.",
+    "vi": "<b>Người ta kể rằng</b> họ từng là bạn rất thân."
+   }
+  },
+  {
+   "word": "go to great lengths",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡəʊ tə ˌɡreɪt ˈleŋθs/",
+   "def_en": "To take a lot of trouble.",
+   "def_vi": "Rất cất công.",
+   "gloss_vi": "cất công",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go to great lengths</i> (verb) = cất công. <b>Grammar</b>: + <i>to do sth</i>.",
+   "example": {
+    "en": "They <b>went to great lengths</b> to keep it a secret.",
+    "vi": "Họ đã <b>cất công</b> giữ bí mật."
+   }
+  },
+  {
+   "word": "go bankrupt",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡəʊ ˈbæŋkrʌpt/",
+   "def_en": "Not to have enough money to pay debts.",
+   "def_vi": "Không đủ tiền trả nợ.",
+   "gloss_vi": "phá sản",
+   "synonyms": "go under <i>(v. sập tiệm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go bankrupt</i> (verb) = phá sản. <b>Grammar</b>: <i>go</i> + tính từ (thay đổi trạng thái).",
+   "example": {
+    "en": "The business has <b>gone bankrupt</b>.",
+    "vi": "Công ty đã <b>phá sản</b>."
+   }
+  }
+ ]
+}
