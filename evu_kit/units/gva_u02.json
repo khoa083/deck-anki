@@ -1,0 +1,232 @@
+{
+ "book": "gva",
+ "unit": 2,
+ "title_vi": "Tương lai",
+ "theory_html": "<p><b>2.1. Will, be going to + infinitive and shall</b><br><i>2.1. Will, be going to và shall</i></p> <p><b>will</b>: decision without planning, prediction based on opinion, fact about the future, willingness; <b>be going to</b>: decision already made, prediction based on outside evidence (<b>will</b> + adverb possible); both in if-sentences, but only <b>will</b> for offers, requests, promises, ability; <b>shall</b> with I/we in formal contexts (questions about intentions; statements).</p><p><i><b>will</b>: quyết định tức thì, dự đoán theo ý kiến, sự thật tương lai, sẵn lòng; <b>be going to</b>: quyết định có sẵn, dự đoán có căn cứ; <b>shall</b> với I/we (trang trọng).</i></p> <p><b>2.2. Present continuous and present simple for the future</b><br><i>2.2. Hiện tại tiếp diễn và hiện tại đơn chỉ tương lai</i></p> <p>Present continuous: intended or arranged events (informal arrangements; avoid <b>be going to go</b>; not for events outside people’s control); present simple: official schedules (or <b>will</b> for formal arrangements); present tenses in time clauses (<b>after, as soon as, before, by the time, when, while, until</b>), conditional clauses (<b>if, in case, provided, unless</b>) and <b>suppose, supposing, what if</b>.</p><p><i>Hiện tại tiếp diễn: kế hoạch đã sắp xếp; hiện tại đơn: lịch trình chính thức; dùng thì hiện tại trong mệnh đề thời gian, điều kiện.</i></p> <p><b>2.3. Future continuous, future perfect and future perfect continuous</b><br><i>2.3. Tương lai tiếp diễn, hoàn thành, hoàn thành tiếp diễn</i></p> <p><b>will be + -ing</b>: predicted to happen at/over a future time; <b>will have + past participle</b>: completed by a future time; <b>will have been + -ing</b>: duration up to a future point; all three also for what we believe to be true now.</p><p><i><b>will be + V-ing</b>, <b>will have + V3</b>, <b>will have been + V-ing</b>; cũng dùng để suy đoán hiện tại.</i></p> <p><b>2.4. Be to + infinitive</b><br><i>2.4. Be to + nguyên mẫu</i></p> <p>News reports; formal plans, rules or instructions (active/passive); only for events people control; in if-clauses = ‘in order to’.</p><p><i>Tin tức; kế hoạch, quy định trang trọng; chỉ việc con người kiểm soát; trong mệnh đề if = ‘để’.</i></p> <p><b>2.5. Future in the past</b><br><i>2.5. Tương lai trong quá khứ</i></p> <p><b>was going to</b> (a plan that didn’t happen), <b>would</b> (a prediction made in the past).</p><p><i><b>was going to</b> (dự định không thành), <b>would</b> (dự đoán trong quá khứ).</i></p>",
+ "items": [
+  {
+   "word": "will",
+   "sense": "",
+   "pos": "modal verb",
+   "ipa": "/wɪl/",
+   "def_en": "Used for a decision made without planning, a prediction based on opinion, a fact about the future, or willingness.",
+   "def_vi": "Dùng cho quyết định tức thì, dự đoán theo ý kiến, sự thật tương lai, sự sẵn lòng.",
+   "gloss_vi": "sẽ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Will</i> (modal verb) = sẽ. <b>Grammar</b>: chỉ <i>will</i> (không <i>be going to</i>) cho lời đề nghị, yêu cầu, hứa, khả năng.",
+   "example": {
+    "en": "<b>I'll</b> meet you at the airport.",
+    "vi": "<b>Tôi sẽ</b> đón bạn ở sân bay."
+   }
+  },
+  {
+   "word": "be going to",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/bi ˈɡəʊɪŋ tə/",
+   "def_en": "Used for a decision already made or a prediction based on outside evidence.",
+   "def_vi": "Dùng cho quyết định đã có hoặc dự đoán có căn cứ.",
+   "gloss_vi": "định, sắp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be going to</i> (structure) = định, sắp. <b>Grammar</b>: tránh <i>be going to go</i> → dùng <i>be going to</i> (hiện tại tiếp diễn).",
+   "example": {
+    "en": "The cloud's building up. <b>It's going to</b> rain this afternoon.",
+    "vi": "Mây kéo đến. Chiều nay <b>trời sắp</b> mưa."
+   }
+  },
+  {
+   "word": "shall",
+   "sense": "",
+   "pos": "modal verb",
+   "ipa": "/ʃæl/",
+   "def_en": "Used instead of will with I or we in formal contexts, especially in questions about intentions.",
+   "def_vi": "Dùng thay will với I/we trong ngữ cảnh trang trọng, nhất là hỏi ý định.",
+   "gloss_vi": "sẽ (trang trọng)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shall</i> (modal verb) = sẽ (trang trọng). <b>Grammar</b>: chỉ với <i>I/we</i>; trang trọng.",
+   "example": {
+    "en": "<b>Shall</b> I/we see you before you leave?",
+    "vi": "<b>Chúng ta có gặp</b> bạn trước khi bạn đi không?"
+   }
+  },
+  {
+   "word": "present continuous for the future",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˌpreznt kənˈtɪnjuəs fə ðə ˈfjuːtʃə(r)/",
+   "def_en": "Used for future events that are intended or arranged.",
+   "def_vi": "Dùng cho sự kiện tương lai đã dự định, sắp xếp.",
+   "gloss_vi": "hiện tại tiếp diễn chỉ tương lai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Present continuous for the future</i> (structure) = hiện tại tiếp diễn chỉ tương lai. <b>Grammar</b>: không dùng cho sự kiện ngoài kiểm soát (<i>It's going to rain</i>, không <i>It's raining this afternoon</i>).",
+   "example": {
+    "en": "<b>I'm flying</b> on 15th July at ten in the evening. (= already arranged)",
+    "vi": "<b>Tôi bay</b> ngày 15 tháng Bảy lúc 10 giờ tối."
+   }
+  },
+  {
+   "word": "present simple for the future",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˌpreznt ˈsɪmpl fə ðə ˈfjuːtʃə(r)/",
+   "def_en": "Used for future events that are part of an official schedule.",
+   "def_vi": "Dùng cho sự kiện tương lai theo lịch chính thức.",
+   "gloss_vi": "hiện tại đơn chỉ tương lai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Present simple for the future</i> (structure) = hiện tại đơn chỉ tương lai. <b>Grammar</b>: cũng dùng trong mệnh đề thời gian, điều kiện: <i>As soon as I book my tickets…</i>.",
+   "example": {
+    "en": "Lectures <b>start</b> on 11th July. (= event as part of an official schedule)",
+    "vi": "Các bài giảng <b>bắt đầu</b> ngày 11 tháng Bảy."
+   }
+  },
+  {
+   "word": "as soon as",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/əz ˈsuːn əz/",
+   "def_en": "A time conjunction followed by a present tense when referring to the future.",
+   "def_vi": "Liên từ thời gian, theo sau là thì hiện tại khi nói tương lai.",
+   "gloss_vi": "ngay khi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As soon as</i> (conjunction) = ngay khi. <b>Grammar</b>: không dùng <i>will</i> sau <i>as soon as</i> (không <i>As soon as I will book</i>).",
+   "example": {
+    "en": "<b>As soon as</b> I book my tickets, I'll let you know.",
+    "vi": "<b>Ngay khi</b> đặt vé, tôi sẽ báo bạn."
+   }
+  },
+  {
+   "word": "in case",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/ɪn ˈkeɪs/",
+   "def_en": "A conjunction followed by a present tense when referring to the future.",
+   "def_vi": "Liên từ, theo sau là thì hiện tại khi nói tương lai.",
+   "gloss_vi": "phòng khi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In case</i> (conjunction) = phòng khi. <b>Grammar</b>: không <i>in case I will have</i>.",
+   "example": {
+    "en": "It'll be good to know I can contact them <b>in case</b> I have any problems.",
+    "vi": "Thật tốt khi biết có thể liên hệ họ <b>phòng khi</b> gặp rắc rối."
+   }
+  },
+  {
+   "word": "what if",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/ˌwɒt ˈɪf/",
+   "def_en": "Used to ask about a possible future situation, followed by a present tense.",
+   "def_vi": "Hỏi về tình huống có thể xảy ra, theo sau là thì hiện tại.",
+   "gloss_vi": "nếu… thì sao",
+   "synonyms": "suppose <i>(conj. giả sử)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>What if</i> (conjunction) = nếu… thì sao. <b>Grammar</b>: không <i>What if I won't like it</i>.",
+   "example": {
+    "en": "<b>What if</b> I don't like it?",
+    "vi": "<b>Nếu</b> tôi không thích nó <b>thì sao</b>?"
+   }
+  },
+  {
+   "word": "future continuous",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˌfjuːtʃə kənˈtɪnjuəs/",
+   "def_en": "A tense (will + be + -ing) for something predicted to happen at or over a particular future time.",
+   "def_vi": "Thì (will + be + V-ing) cho việc sẽ đang diễn ra ở thời điểm tương lai.",
+   "gloss_vi": "tương lai tiếp diễn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Future continuous</i> (structure) = tương lai tiếp diễn. <b>Grammar</b>: cũng để đoán việc đang/sẽ diễn ra: <i>Dad won't be using his car</i>.",
+   "example": {
+    "en": "<b>I'll be studying</b> really hard during the semesters.",
+    "vi": "<b>Tôi sẽ đang học</b> rất chăm trong học kỳ."
+   }
+  },
+  {
+   "word": "future perfect",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˌfjuːtʃə ˈpɜːfɪkt/",
+   "def_en": "A tense (will + have + past participle) for an action expected to be completed by a particular future time.",
+   "def_vi": "Thì (will + have + V3) cho việc sẽ hoàn tất trước một thời điểm tương lai.",
+   "gloss_vi": "tương lai hoàn thành",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Future perfect</i> (structure) = tương lai hoàn thành. <b>Grammar</b>: cũng để đoán việc đã xảy ra: <i>They'll have forgotten what I look like.</i>.",
+   "example": {
+    "en": "By the time you come I'm sure <b>I'll have got</b> to know the city really well",
+    "vi": "Khi bạn đến, chắc <b>tôi sẽ đã quen</b> thành phố rồi."
+   }
+  },
+  {
+   "word": "future perfect continuous",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˌfjuːtʃə ˌpɜːfɪkt kənˈtɪnjuəs/",
+   "def_en": "A tense (will + have been + -ing) emphasising the duration of an activity up to a future point.",
+   "def_vi": "Thì (will + have been + V-ing) nhấn mạnh độ dài hoạt động đến thời điểm tương lai.",
+   "gloss_vi": "tương lai hoàn thành tiếp diễn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Future perfect continuous</i> (structure) = tương lai hoàn thành tiếp diễn. <b>Grammar</b>: <i>will have been</i> + V-ing.",
+   "example": {
+    "en": "When I come to see you, <b>you'll have been living</b> in California for nearly six months.",
+    "vi": "Khi tôi đến, <b>bạn sẽ đã sống</b> ở California gần sáu tháng."
+   }
+  },
+  {
+   "word": "be to + infinitive",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/bi tə ˈɪnfɪnɪtɪv/",
+   "def_en": "Used in news reports and for formal plans, rules or instructions.",
+   "def_vi": "Dùng trong tin tức và kế hoạch, quy định trang trọng.",
+   "gloss_vi": "sẽ, phải (theo kế hoạch)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be to + infinitive</i> (structure) = sẽ, phải (theo kế hoạch). <b>Grammar</b>: chỉ việc con người kiểm soát; trong mệnh đề <i>if</i> = ‘để’: <i>If she is to get a good grade…</i>.",
+   "example": {
+    "en": "Students <b>are to hand in</b> project reports at the end of semester two.",
+    "vi": "Sinh viên <b>phải nộp</b> báo cáo cuối học kỳ hai."
+   }
+  },
+  {
+   "word": "was going to",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/wəz ˈɡəʊɪŋ tə/",
+   "def_en": "Used for a past plan that didn’t happen.",
+   "def_vi": "Dùng cho dự định trong quá khứ không thành.",
+   "gloss_vi": "đã định (nhưng không)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Was going to</i> (structure) = đã định (nhưng không). <b>Grammar</b>: tương lai trong quá khứ.",
+   "example": {
+    "en": "I <b>was going to</b> see an aunt in Seattle a couple of years ago, but I cancelled the trip",
+    "vi": "<b>Tôi đã định</b> thăm dì ở Seattle nhưng hủy chuyến."
+   }
+  },
+  {
+   "word": "would",
+   "sense": "future in the past",
+   "pos": "modal verb",
+   "ipa": "/wʊd/",
+   "def_en": "Used for a prediction made in the past (future in the past).",
+   "def_vi": "Dùng cho dự đoán trong quá khứ.",
+   "gloss_vi": "sẽ (tương lai trong quá khứ)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Would</i> (modal verb) = sẽ (tương lai trong quá khứ). <b>Grammar</b>: tương lai trong quá khứ.",
+   "example": {
+    "en": "I knew I <b>would</b> be feeling awful by the end of the flight.",
+    "vi": "Tôi biết <b>mình sẽ</b> thấy rất mệt cuối chuyến bay."
+   }
+  }
+ ]
+}

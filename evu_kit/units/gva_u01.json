@@ -1,0 +1,232 @@
+{
+ "book": "gva",
+ "unit": 1,
+ "title_vi": "Các thì",
+ "theory_html": "<p><b>2.1. Simple and continuous tenses</b><br><i>2.1. Thì đơn và tiếp diễn</i></p> <p>Present continuous: temporary state, action in progress; present simple: permanent state, habit; past continuous: action in progress at a past point; past simple: completed past action, past situation, repeated past action. Simple tenses with state verbs; continuous with state verbs = temporary/untypical; mental-state verbs (consider, regret) in continuous = developing process; <b>think of</b> (action) vs <b>think</b> (state); present simple for performative verbs (<b>I admit, I predict</b>); continuous + <b>always / constantly / continually / forever</b> = typical, annoying habit; continuous to make enquiries less certain (<b>I’m hoping…</b>) or requests more polite (<b>were you wanting…?</b>).</p><p><i>Hiện tại tiếp diễn: trạng thái tạm thời, hành động đang diễn ra; hiện tại đơn: trạng thái lâu dài, thói quen; quá khứ tiếp diễn: hành động đang diễn ra tại thời điểm quá khứ; quá khứ đơn: hành động đã xong. Động từ trạng thái dùng thì đơn; dùng tiếp diễn = tạm thời. <b>always/forever</b> + tiếp diễn = thói quen gây khó chịu. Tiếp diễn làm câu hỏi bớt chắc chắn, lời đề nghị lịch sự hơn.</i></p> <p><b>2.2. Perfect tenses</b><br><i>2.2. Thì hoàn thành</i></p> <p>Present perfect: past situation relevant to the present, recent action with present consequences, situation continuing until now, repeated action that might happen again, introducing news (details in past simple). Past perfect: past event before another past event (or past simple after <b>after, before, when</b>).</p><p><i>Hiện tại hoàn thành: quá khứ liên quan hiện tại, việc vừa xảy ra, tình huống kéo dài tới nay, việc lặp lại có thể tiếp diễn, mở đầu tin tức. Quá khứ hoàn thành: sự việc trước một sự việc quá khứ khác.</i></p> <p><b>2.3. Present perfect continuous and past perfect continuous</b><br><i>2.3. Hiện tại / quá khứ hoàn thành tiếp diễn</i></p> <p><b>have been + -ing</b>: action in progress until now (still in progress or just finished), how long; present perfect (simple) for completed actions when interested in the result. <b>had been + -ing</b>: action in progress up to a past point; past continuous if not interested in how long; past perfect for how many times; not usually with state verbs.</p><p><i><b>have been + V-ing</b>: hành động kéo dài tới nay, nhấn mạnh bao lâu; <b>had been + V-ing</b>: kéo dài tới một thời điểm quá khứ; không dùng với động từ trạng thái.</i></p>",
+ "items": [
+  {
+   "word": "present continuous",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˌpreznt kənˈtɪnjuəs/",
+   "def_en": "A tense (am/is/are + -ing) for a temporary state or an action in progress.",
+   "def_vi": "Thì (am/is/are + V-ing) diễn tả trạng thái tạm thời hay hành động đang diễn ra.",
+   "gloss_vi": "thì hiện tại tiếp diễn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "present simple <i>(st. hiện tại đơn)</i>",
+   "grammar_vi": "<i>Present continuous</i> (structure) = thì hiện tại tiếp diễn. <b>Grammar</b>: <i>am/is/are</i> + V-ing; dùng với động từ trạng thái = tạm thời.",
+   "example": {
+    "en": "<b>I'm working</b> at home while our office block is being renovated.",
+    "vi": "<b>Tôi đang làm việc</b> ở nhà trong khi tòa văn phòng được sửa."
+   }
+  },
+  {
+   "word": "present simple",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˌpreznt ˈsɪmpl/",
+   "def_en": "A tense for a permanent state or a habit or regular event.",
+   "def_vi": "Thì diễn tả trạng thái lâu dài hay thói quen.",
+   "gloss_vi": "thì hiện tại đơn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "present continuous <i>(st. hiện tại tiếp diễn)</i>",
+   "grammar_vi": "<i>Present simple</i> (structure) = thì hiện tại đơn. <b>Grammar</b>: dùng với động từ trạng thái (<i>love, know</i>) và động từ ngôn hành (<i>I admit, I predict</i>).",
+   "example": {
+    "en": "I <b>catch</b> the train at 7.05 at the station near my home every morning.",
+    "vi": "<b>Tôi bắt</b> tàu lúc 7 giờ 05 mỗi sáng."
+   }
+  },
+  {
+   "word": "past continuous",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˌpɑːst kənˈtɪnjuəs/",
+   "def_en": "A tense (was/were + -ing) for an action in progress at a past point; describes the background situation in a narrative.",
+   "def_vi": "Thì (was/were + V-ing) diễn tả hành động đang diễn ra ở thời điểm quá khứ; bối cảnh trong câu chuyện.",
+   "gloss_vi": "thì quá khứ tiếp diễn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "past simple <i>(st. quá khứ đơn)</i>",
+   "grammar_vi": "<i>Past continuous</i> (structure) = thì quá khứ tiếp diễn. <b>Grammar</b>: <i>was/were</i> + V-ing; + quá khứ đơn cho hành động xen vào.",
+   "example": {
+    "en": "I <b>was travelling</b> home when the train broke down.",
+    "vi": "<b>Tôi đang trên đường về</b> thì tàu hỏng."
+   }
+  },
+  {
+   "word": "past simple",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˌpɑːst ˈsɪmpl/",
+   "def_en": "A tense for a completed past action, a past situation that no longer exists, or a repeated past action.",
+   "def_vi": "Thì cho hành động đã xong, tình huống không còn, hay việc lặp lại trong quá khứ.",
+   "gloss_vi": "thì quá khứ đơn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "past continuous <i>(st. quá khứ tiếp diễn)</i>",
+   "grammar_vi": "<i>Past simple</i> (structure) = thì quá khứ đơn. <b>Grammar</b>: hai hành động nối tiếp đều dùng quá khứ đơn: <i>She woke me up and offered me a lift.</i>.",
+   "example": {
+    "en": "I <b>sold</b> my car last week.",
+    "vi": "Tuần trước <b>tôi đã bán</b> xe."
+   }
+  },
+  {
+   "word": "state verbs",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈsteɪt vɜːbz/",
+   "def_en": "Verbs that describe an unchanging state rather than an action, usually used in simple tenses.",
+   "def_vi": "Động từ chỉ trạng thái không đổi, thường dùng thì đơn.",
+   "gloss_vi": "động từ trạng thái",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>State verbs</i> (structure) = động từ trạng thái. <b>Grammar</b>: dùng tiếp diễn = tạm thời/bất thường: <i>I'm appreciating being able to get up later.</i>.",
+   "example": {
+    "en": "We usually use simple tenses with verbs that describe an unchanging state rather than an action: I <b>love</b> trains.",
+    "vi": "Ta thường dùng thì đơn với động từ trạng thái: <b>Tôi yêu</b> tàu hỏa."
+   }
+  },
+  {
+   "word": "I'm regretting",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/aɪm rɪˈɡretɪŋ/",
+   "def_en": "A mental-state verb in a continuous tense, showing a process that has started and may grow.",
+   "def_vi": "Động từ tâm trạng ở thì tiếp diễn, cho thấy quá trình đã bắt đầu và có thể tăng.",
+   "gloss_vi": "tôi đang bắt đầu hối tiếc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>I'm regretting</i> (structure) = tôi đang bắt đầu hối tiếc. <b>Grammar</b>: so sánh <i>I regret selling my car</i> (thái độ khó đổi).",
+   "example": {
+    "en": "<b>I'm regretting</b> selling my car already.",
+    "vi": "<b>Tôi đang bắt đầu hối tiếc</b> vì đã bán xe rồi."
+   }
+  },
+  {
+   "word": "think of",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈθɪŋk əv/",
+   "def_en": "(Action) to consider.",
+   "def_vi": "(Hành động) cân nhắc.",
+   "gloss_vi": "đang tính, cân nhắc",
+   "synonyms": "consider <i>(v. cân nhắc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Think of</i> (verb) = đang tính, cân nhắc. <b>Grammar</b>: <i>think of</i> (hành động) dùng tiếp diễn; <i>think</i> (trạng thái, ý kiến) dùng thì đơn.",
+   "example": {
+    "en": "I'm now <b>thinking of</b> buying a motorbike.",
+    "vi": "Giờ <b>tôi đang tính</b> mua xe máy."
+   }
+  },
+  {
+   "word": "forever + -ing",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/fərˈevə(r) ... ɪŋ/",
+   "def_en": "A continuous tense with always, constantly, continually or forever to show that something is typical because it happens so often.",
+   "def_vi": "Thì tiếp diễn với always/forever nhấn mạnh việc xảy ra thường xuyên, điển hình.",
+   "gloss_vi": "cứ… mãi (thói quen)",
+   "synonyms": "always + -ing <i>(st. luôn luôn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Forever + -ing</i> (structure) = cứ… mãi (thói quen). <b>Grammar</b>: <i>always / constantly / continually / forever</i> + thì tiếp diễn.",
+   "example": {
+    "en": "I <b>was forever arriving late</b> for work",
+    "vi": "<b>Tôi cứ đi làm muộn mãi</b>."
+   }
+  },
+  {
+   "word": "I'm hoping",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/aɪm ˈhəʊpɪŋ/",
+   "def_en": "A continuous form used to make an enquiry or statement less certain.",
+   "def_vi": "Dạng tiếp diễn làm câu hỏi/khẳng định bớt chắc chắn.",
+   "gloss_vi": "tôi mong là",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>I'm hoping</i> (structure) = tôi mong là. <b>Grammar</b>: tiếp diễn = bớt chắc chắn, lịch sự hơn.",
+   "example": {
+    "en": "<b>I'm hoping</b> we've got Dave Jones on the line.",
+    "vi": "<b>Tôi mong là</b> Dave Jones đang ở đầu dây."
+   }
+  },
+  {
+   "word": "were you wanting",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/wɜː ju ˈwɒntɪŋ/",
+   "def_en": "A past continuous form used to make a request or offer more polite.",
+   "def_vi": "Dạng quá khứ tiếp diễn làm lời đề nghị lịch sự hơn.",
+   "gloss_vi": "bạn có muốn… không (lịch sự)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Were you wanting</i> (structure) = bạn có muốn… không (lịch sự). <b>Grammar</b>: quá khứ tiếp diễn = lịch sự.",
+   "example": {
+    "en": "Karen, <b>were you wanting</b> to say something?",
+    "vi": "Karen, <b>bạn có muốn</b> nói gì không?"
+   }
+  },
+  {
+   "word": "present perfect",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˌpreznt ˈpɜːfɪkt/",
+   "def_en": "A tense (have + past participle) for a past situation relevant to now, a recent action with present consequences, or a situation continuing until now.",
+   "def_vi": "Thì (have + V3) cho quá khứ liên quan hiện tại, việc vừa xảy ra, tình huống kéo dài tới nay.",
+   "gloss_vi": "thì hiện tại hoàn thành",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Present perfect</i> (structure) = thì hiện tại hoàn thành. <b>Grammar</b>: tình huống còn tiếp diễn → hiện tại hoàn thành; đã chấm dứt → quá khứ đơn.",
+   "example": {
+    "en": "<b>I've just sold</b> my car and so now I go to work by bus.",
+    "vi": "<b>Tôi vừa bán</b> xe nên giờ đi xe buýt."
+   }
+  },
+  {
+   "word": "past perfect",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˌpɑːst ˈpɜːfɪkt/",
+   "def_en": "A tense (had + past participle) for a past event before another past event.",
+   "def_vi": "Thì (had + V3) cho sự việc xảy ra trước một sự việc quá khứ khác.",
+   "gloss_vi": "thì quá khứ hoàn thành",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Past perfect</i> (structure) = thì quá khứ hoàn thành. <b>Grammar</b>: sau <i>after, before, as soon as, when</i> có thể dùng quá khứ đơn thay thế.",
+   "example": {
+    "en": "This morning <b>I'd read</b> a couple of reports before I got off the train.",
+    "vi": "Sáng nay <b>tôi đã đọc</b> vài báo cáo trước khi xuống tàu."
+   }
+  },
+  {
+   "word": "present perfect continuous",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˌpreznt ˌpɜːfɪkt kənˈtɪnjuəs/",
+   "def_en": "A tense (have been + -ing) for an action in progress until now, still continuing or recently finished.",
+   "def_vi": "Thì (have been + V-ing) cho hành động kéo dài tới nay, còn tiếp hay vừa xong.",
+   "gloss_vi": "thì hiện tại hoàn thành tiếp diễn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Present perfect continuous</i> (structure) = thì hiện tại hoàn thành tiếp diễn. <b>Grammar</b>: nhấn mạnh bao lâu; kết quả thì dùng hiện tại hoàn thành.",
+   "example": {
+    "en": "<b>I've been working</b> at home for the last five years.",
+    "vi": "<b>Tôi đã làm việc</b> ở nhà năm năm nay."
+   }
+  },
+  {
+   "word": "past perfect continuous",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˌpɑːst ˌpɜːfɪkt kənˈtɪnjuəs/",
+   "def_en": "A tense (had been + -ing) for an action in progress up to a past point.",
+   "def_vi": "Thì (had been + V-ing) cho hành động kéo dài đến một thời điểm quá khứ.",
+   "gloss_vi": "thì quá khứ hoàn thành tiếp diễn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Past perfect continuous</i> (structure) = thì quá khứ hoàn thành tiếp diễn. <b>Grammar</b>: không dùng với động từ trạng thái: <i>I'd owned a car</i> (không <i>I'd been owning</i>).",
+   "example": {
+    "en": "<b>I'd been waiting</b> over an hour when they announced that the train had been cancelled.",
+    "vi": "<b>Tôi đã chờ</b> hơn một giờ thì họ báo tàu bị hủy."
+   }
+  }
+ ]
+}
