@@ -1,0 +1,328 @@
+{
+ "book": "gva",
+ "unit": 21,
+ "title_vi": "Trật tự từ và nhấn mạnh",
+ "theory_html": "<p><b>2.1. Fronting</b><br><i>2.1. Đảo lên đầu câu</i></p> <p>Move a part of the sentence (object, adverbial) to the front to emphasise it: <b>This she resisted.</b> <b>For some weeks Maria had been writing to me.</b></p><p><i>Đưa tân ngữ/trạng ngữ lên đầu câu để nhấn mạnh.</i></p> <p><b>2.2. Cleft sentences</b><br><i>2.2. Câu chẻ</i></p> <p>it-cleft: <b>it + is/was + emphasised part + relative clause</b> (<b>that, which, who</b> or none; <b>when, where</b> only informal). wh-cleft: <b>what-clause + is/was + emphasised part</b>; <b>all</b> = the only thing; usually singular <b>be</b>; can come at the end (<b>… was what impressed us most</b>); emphasise an action with <b>What she did was (to) + infinitive</b>.</p><p><i>Câu chẻ <b>It is … that…</b>; <b>What … is/was…</b>; <b>All she wanted was…</b>; <b>What she did was (to)…</b>.</i></p> <p><b>2.3. Inversion</b><br><i>2.3. Đảo ngữ</i></p> <p>After words with a negative meaning at the front: <b>never (before), rarely, seldom; barely/hardly/scarcely … when/before; no sooner … than; nowhere; neither, nor</b>; <b>only</b> + time expression / prepositional phrase; <b>at no time, on no account, under/in no circumstances, in no way</b>; <b>not only, not until, not since, not for one moment, not once, not a + noun</b>; <b>little</b>. Also after <b>first, next, now, then</b> with <b>be/come</b> (no inversion if a comma follows); <b>so + adjective … that</b>; <b>such + be … that</b>. Mainly formal.</p><p><i>Đảo ngữ sau từ mang nghĩa phủ định, <b>only…</b>, <b>not only</b>, <b>little</b>, <b>so … that</b>, <b>such was …</b>.</i></p> <p><b>2.4. Inversion in conditional sentences</b><br><i>2.4. Đảo ngữ trong câu điều kiện</i></p> <p>Formal <b>Were …</b>, <b>Should …</b>, <b>Had …</b> + subject instead of <b>if</b>; no contracted forms in negative inverted clauses (<b>Had Maria not…</b>).</p><p><i><b>Were/Should/Had</b> + chủ ngữ thay <b>if</b>; phủ định không viết tắt.</i></p>",
+ "items": [
+  {
+   "word": "fronting",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfrʌntɪŋ/",
+   "def_en": "Moving a part of a sentence to the front to emphasise it.",
+   "def_vi": "Đưa một phần câu lên đầu để nhấn mạnh.",
+   "gloss_vi": "đảo lên đầu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fronting</i> (noun) = đảo lên đầu. <b>Grammar</b>: tân ngữ hoặc trạng ngữ: <i>For some weeks Maria had been writing to me.</i>.",
+   "example": {
+    "en": "<b>This</b> she resisted.",
+    "vi": "<b>Điều này</b> bà ấy phản đối."
+   }
+  },
+  {
+   "word": "it-cleft",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈɪt kleft/",
+   "def_en": "It + is/was + emphasised part + relative clause.",
+   "def_vi": "It + is/was + phần nhấn mạnh + mệnh đề quan hệ.",
+   "gloss_vi": "câu chẻ với it",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>It-cleft</i> (structure) = câu chẻ với it. <b>Grammar</b>: <i>that/which/who</i> hoặc không; <i>when/where</i> chỉ thân mật.",
+   "example": {
+    "en": "<b>It was</b> in the mid-1990s <b>that</b> we first met",
+    "vi": "<b>Chính là</b> giữa thập niên 1990 <b>mà</b> chúng tôi gặp nhau lần đầu."
+   }
+  },
+  {
+   "word": "wh-cleft",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˌdʌbljuː ˈeɪtʃ kleft/",
+   "def_en": "What-clause + is/was + emphasised part.",
+   "def_vi": "Mệnh đề what + is/was + phần nhấn mạnh.",
+   "gloss_vi": "câu chẻ với what",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wh-cleft</i> (structure) = câu chẻ với what. <b>Grammar</b>: thường <i>be</i> số ít; có thể đặt cuối: <i>… was what impressed us most</i>.",
+   "example": {
+    "en": "<b>What impressed us most was</b> the way she calmly and clearly argued her case.",
+    "vi": "<b>Điều gây ấn tượng nhất với chúng tôi là</b> cách bà ấy bình tĩnh trình bày."
+   }
+  },
+  {
+   "word": "all (= the only thing)",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ɔːl/",
+   "def_en": "Used instead of what in a wh-cleft, meaning the only thing.",
+   "def_vi": "Dùng thay what: điều duy nhất.",
+   "gloss_vi": "tất cả những gì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>All (= the only thing)</i> (structure) = tất cả những gì. <b>Grammar</b>: = <i>the only thing</i>.",
+   "example": {
+    "en": "<b>All</b> she ever wanted to do as she was growing up was play the violin.",
+    "vi": "<b>Tất cả những gì</b> cô ấy muốn làm là chơi violin."
+   }
+  },
+  {
+   "word": "what she did was",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/wɒt ʃi dɪd wɒz/",
+   "def_en": "A wh-cleft with do to emphasise an action.",
+   "def_vi": "Câu chẻ với do để nhấn mạnh hành động.",
+   "gloss_vi": "điều bà ấy làm là",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>What she did was</i> (structure) = điều bà ấy làm là. <b>Grammar</b>: what + chủ ngữ + do + be + (to) V.",
+   "example": {
+    "en": "<b>What she did was</b> (to) convince us of the value of a musical education.",
+    "vi": "<b>Điều bà ấy làm là</b> thuyết phục chúng tôi về giá trị của giáo dục âm nhạc."
+   }
+  },
+  {
+   "word": "inversion",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˈvɜːʃn/",
+   "def_en": "Changing normal word order so the verb or auxiliary comes before the subject.",
+   "def_vi": "Đảo ngữ: động từ/trợ động từ đứng trước chủ ngữ.",
+   "gloss_vi": "đảo ngữ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Inversion</i> (noun) = đảo ngữ. <b>Grammar</b>: chủ yếu trang trọng; <i>Seldom did she raise her voice.</i>.",
+   "example": {
+    "en": "<b>Never have I</b> heard such a persuasive speaker",
+    "vi": "<b>Chưa bao giờ tôi</b> nghe một diễn giả thuyết phục như vậy."
+   }
+  },
+  {
+   "word": "rarely have I",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈreəli həv aɪ/",
+   "def_en": "Inversion after a negative adverb at the front.",
+   "def_vi": "Đảo ngữ sau trạng từ phủ định.",
+   "gloss_vi": "hiếm khi tôi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rarely have I</i> (structure) = hiếm khi tôi. <b>Grammar</b>: cũng <i>never, seldom, nowhere, neither, nor</i>.",
+   "example": {
+    "en": "<b>Rarely have I</b> met anyone with such enthusiasm.",
+    "vi": "<b>Hiếm khi tôi</b> gặp ai nhiệt tình như vậy."
+   }
+  },
+  {
+   "word": "no sooner had",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/nəʊ ˈsuːnə hæd/",
+   "def_en": "Inversion after no sooner at the front of a sentence.",
+   "def_vi": "Đảo ngữ sau no sooner.",
+   "gloss_vi": "vừa mới… thì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>No sooner had</i> (structure) = vừa mới… thì. <b>Grammar</b>: <i>had + S + V3 … than</i>.",
+   "example": {
+    "en": "<b>No sooner had</b> Maria walked through the door <b>than</b> she started to talk about her proposal.",
+    "vi": "Maria <b>vừa</b> bước qua cửa <b>thì</b> bắt đầu nói về đề xuất."
+   }
+  },
+  {
+   "word": "nor had",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/nɔː hæd/",
+   "def_en": "Inversion after nor/neither: the same negative is true of others.",
+   "def_vi": "Đảo ngữ sau nor/neither.",
+   "gloss_vi": "cũng không",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nor had</i> (structure) = cũng không. <b>Grammar</b>: = <i>neither had</i>.",
+   "example": {
+    "en": "I hadn't met Maria before, and <b>nor had</b> the other members of the committee.",
+    "vi": "Tôi chưa gặp Maria, <b>và các thành viên khác cũng không</b>."
+   }
+  },
+  {
+   "word": "only after",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈəʊnli ˈɑːftə(r)/",
+   "def_en": "Only + time expression causes inversion in the main clause.",
+   "def_vi": "only + cụm thời gian → đảo ngữ ở mệnh đề chính.",
+   "gloss_vi": "chỉ sau khi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Only after</i> (structure) = chỉ sau khi. <b>Grammar</b>: cũng <i>only later, only then</i>.",
+   "example": {
+    "en": "<b>Only after</b> Maria threatened to withdraw her support <b>did the council</b> back down.",
+    "vi": "<b>Chỉ sau khi</b> Maria dọa rút ủng hộ thì hội đồng <b>mới</b> nhượng bộ."
+   }
+  },
+  {
+   "word": "at no time",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ət nəʊ ˈtaɪm/",
+   "def_en": "Never; causes inversion at the front.",
+   "def_vi": "Không bao giờ (đảo ngữ).",
+   "gloss_vi": "không lúc nào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>At no time</i> (structure) = không lúc nào. <b>Grammar</b>: cũng <i>on no account, in no way</i>.",
+   "example": {
+    "en": "<b>At no time has she</b> ever accepted payment for her educational work",
+    "vi": "<b>Chưa lúc nào</b> bà ấy nhận tiền cho công việc giáo dục."
+   }
+  },
+  {
+   "word": "under no circumstances",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈʌndə nəʊ ˈsɜːkəmstənsɪz/",
+   "def_en": "Not in any situation; causes inversion.",
+   "def_vi": "Trong bất kỳ hoàn cảnh nào cũng không.",
+   "gloss_vi": "tuyệt đối không",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Under no circumstances</i> (structure) = tuyệt đối không. <b>Grammar</b>: = <i>in no circumstances</i>.",
+   "example": {
+    "en": "She argued that <b>under no circumstances should</b> children from poorer backgrounds be made to pay for music lessons.",
+    "vi": "<b>Trong bất kỳ hoàn cảnh nào</b> trẻ em nghèo <b>cũng không nên</b> phải trả tiền học nhạc."
+   }
+  },
+  {
+   "word": "not only",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/nɒt ˈəʊnli/",
+   "def_en": "Not only at the front causes inversion; often followed by but … also.",
+   "def_vi": "Không những… mà còn (đảo ngữ).",
+   "gloss_vi": "không những… mà còn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Not only</i> (structure) = không những… mà còn. <b>Grammar</b>: cũng <i>not until, not since, not once, not a + danh từ</i>.",
+   "example": {
+    "en": "<b>Not only has she</b> persuaded YCO members to give up their time, <b>but</b> she has <b>also</b> encouraged visiting musicians to give free concerts in schools.",
+    "vi": "<b>Không những</b> bà ấy thuyết phục được thành viên YCO, <b>mà còn</b> khuyến khích nghệ sĩ biểu diễn miễn phí."
+   }
+  },
+  {
+   "word": "little did she realise",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈlɪtl dɪd ʃi ˈrɪəlaɪz/",
+   "def_en": "Little with a negative meaning causes inversion.",
+   "def_vi": "little nghĩa phủ định → đảo ngữ.",
+   "gloss_vi": "bà ấy hầu như không ngờ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Little did she realise</i> (structure) = bà ấy hầu như không ngờ. <b>Grammar</b>: little = hầu như không.",
+   "example": {
+    "en": "<b>Little did she realise</b> when she set up the project that it would be so influential.",
+    "vi": "<b>Bà ấy hầu như không ngờ</b> dự án lại có ảnh hưởng lớn đến vậy."
+   }
+  },
+  {
+   "word": "then came",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ðen keɪm/",
+   "def_en": "Inversion after time sequence adverbs (first, next, now, then) with be or come.",
+   "def_vi": "Đảo ngữ sau then/next/now với be/come.",
+   "gloss_vi": "rồi đến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Then came</i> (structure) = rồi đến. <b>Grammar</b>: có dấu phẩy sau trạng từ → trật tự thường: <i>Then, an invitation came…</i>.",
+   "example": {
+    "en": "And <b>then came</b> an invitation to be a special adviser to the government on music education.",
+    "vi": "<b>Rồi đến</b> lời mời làm cố vấn đặc biệt cho chính phủ."
+   }
+  },
+  {
+   "word": "so ... that (inversion)",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/səʊ ... ðæt/",
+   "def_en": "So + adjective at the front with inversion to emphasise the adjective.",
+   "def_vi": "so + tính từ đầu câu + đảo ngữ.",
+   "gloss_vi": "đến mức… mà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>So ... that (inversion)</i> (structure) = đến mức… mà. <b>Grammar</b>: <i>So + adj + aux + S … that</i>.",
+   "example": {
+    "en": "<b>So successful has Music in Schools been that</b> those involved in music education around the world have visited the city to see the project in action.",
+    "vi": "<b>Thành công đến mức</b> dự án Music in Schools <b>khiến</b> giới giáo dục khắp thế giới đến xem."
+   }
+  },
+  {
+   "word": "such was",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/sʌtʃ wɒz/",
+   "def_en": "Such + be + subject … that, emphasising extent or degree.",
+   "def_vi": "such + be + chủ ngữ … that, nhấn mạnh mức độ.",
+   "gloss_vi": "lớn đến mức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Such was</i> (structure) = lớn đến mức. <b>Grammar</b>: = <i>Her understanding … was such that…</i>.",
+   "example": {
+    "en": "<b>Such was</b> her understanding of music education that the government wanted to draw on her expertise.",
+    "vi": "<b>Hiểu biết của bà ấy lớn đến mức</b> chính phủ muốn tận dụng chuyên môn đó."
+   }
+  },
+  {
+   "word": "were she to",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/wɜː ʃi tə/",
+   "def_en": "Formal inverted conditional = if she were to.",
+   "def_vi": "Đảo ngữ điều kiện trang trọng = if she were to.",
+   "gloss_vi": "nếu bà ấy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Were she to</i> (structure) = nếu bà ấy. <b>Grammar</b>: = <i>If she left…</i>; <i>Were he here tonight…</i>.",
+   "example": {
+    "en": "<b>Were she</b> ever <b>to</b> leave the orchestra, ...",
+    "vi": "<b>Nếu bà ấy</b> có rời dàn nhạc…"
+   }
+  },
+  {
+   "word": "should you need",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ʃʊd ju ˈniːd/",
+   "def_en": "Formal inverted conditional = if you need.",
+   "def_vi": "Đảo ngữ điều kiện = if you need.",
+   "gloss_vi": "nếu bạn cần",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Should you need</i> (structure) = nếu bạn cần. <b>Grammar</b>: trang trọng, thư từ.",
+   "example": {
+    "en": "<b>Should you need</b> any more information about Music in Schools, ...",
+    "vi": "<b>Nếu bạn cần</b> thêm thông tin về Music in Schools…"
+   }
+  },
+  {
+   "word": "had ... not",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/hæd ... nɒt/",
+   "def_en": "Formal inverted conditional = if … had not; no contraction.",
+   "def_vi": "Đảo ngữ điều kiện loại 3 phủ định; không viết tắt.",
+   "gloss_vi": "nếu… đã không",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Had ... not</i> (structure) = nếu… đã không. <b>Grammar</b>: không <i>Hadn't Maria…</i>.",
+   "example": {
+    "en": "<b>Had Maria not</b> set up the Music in Schools project ...",
+    "vi": "<b>Nếu Maria đã không</b> lập dự án Music in Schools…"
+   }
+  }
+ ]
+}
