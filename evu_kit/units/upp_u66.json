@@ -1,0 +1,448 @@
+{
+ "book": "upp",
+ "unit": 66,
+ "title_vi": "Từ quy chiếu",
+ "theory_html": "<p><b>A. Text-referring words</b><br><i>A. Từ quy chiếu văn bản</i></p> <p>Text-referring words take their meaning from the surrounding text. Words like <b>problem</b> and <b>solution</b> help organise the argument of the text, but they do not tell us the topic of the text. They refer to something somewhere else: <b>problem, issue</b> [topic causing great argument and controversy], <b>question, topic</b> [subject to argue about or discuss], <b>aspect</b> [part of the topic].</p><p><i>Từ quy chiếu lấy nghĩa từ văn bản xung quanh; chúng tổ chức lập luận nhưng không cho biết chủ đề: <b>vấn đề, vấn đề gây tranh cãi, câu hỏi, chủ đề, khía cạnh</b>.</i></p> <p><b>B. Problem-solution words</b><br><i>B. Từ vấn đề – giải pháp</i></p> <p>Text-referring words are often used with ‘problem-solution’ types of text. Try to learn these words as a family. Families: <b>situation: state of affairs, position (with regard to); problem: difficulty (more formal), crisis, matter; response (to): reaction (to), attitude (to), approach (to); solution: answer (to), resolution (to), key (to), way out (of); evaluation (of the solution): assessment, judgment</b>. In arguments: <b>claim, fact, point, argument, position, view</b>.</p><p><i>Hay dùng trong văn bản ‘vấn đề – giải pháp’; học theo nhóm: <b>tình hình, vấn đề, phản ứng, giải pháp, đánh giá</b>. Trong tranh luận: <b>tuyên bố, sự thật, điểm mấu chốt, lập luận, lập trường, quan điểm</b>.</i></p>",
+ "items": [
+  {
+   "word": "problem",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈprɒbləm/",
+   "def_en": "A situation that causes difficulties (text-referring).",
+   "def_vi": "Tình huống gây khó khăn (từ quy chiếu).",
+   "gloss_vi": "vấn đề",
+   "synonyms": "difficulty <i>(n. khó khăn)</i>",
+   "antonyms": "solution <i>(n. giải pháp)</i>",
+   "grammar_vi": "<i>Problem</i> (noun) = vấn đề. <b>Grammar</b>: từ quy chiếu; nhóm: <i>difficulty, crisis, matter</i>.",
+   "example": {
+    "en": "Pollution is increasing. The <b>problem</b> is getting worse each day.",
+    "vi": "Ô nhiễm đang tăng. <b>Vấn đề</b> tệ hơn mỗi ngày."
+   }
+  },
+  {
+   "word": "issue",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɪʃuː/",
+   "def_en": "A topic causing great argument and controversy.",
+   "def_vi": "Chủ đề gây tranh cãi lớn.",
+   "gloss_vi": "vấn đề (gây tranh cãi)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Issue</i> (noun) = vấn đề (gây tranh cãi). <b>Grammar</b>: <i>a big/key issue</i>.",
+   "example": {
+    "en": "Should taxes be raised or lowered? This was the biggest <b>issue</b> in the election.",
+    "vi": "Nên tăng hay giảm thuế? Đây là <b>vấn đề</b> lớn nhất trong cuộc bầu cử."
+   }
+  },
+  {
+   "word": "question",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkwestʃən/",
+   "def_en": "A matter that needs to be discussed or decided.",
+   "def_vi": "Vấn đề cần bàn hoặc quyết định.",
+   "gloss_vi": "câu hỏi, vấn đề",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Question</i> (noun) = câu hỏi, vấn đề. <b>Grammar</b>: từ quy chiếu.",
+   "example": {
+    "en": "Whether the war could have been avoided is a <b>question</b> that interests historians.",
+    "vi": "Liệu chiến tranh có thể tránh được không là <b>câu hỏi</b> khiến các nhà sử học quan tâm."
+   }
+  },
+  {
+   "word": "topic",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtɒpɪk/",
+   "def_en": "A subject to argue about or discuss.",
+   "def_vi": "Chủ đề để tranh luận hay bàn.",
+   "gloss_vi": "chủ đề",
+   "synonyms": "subject <i>(n. đề tài)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Topic</i> (noun) = chủ đề. <b>Grammar</b>: trong tranh luận, bài luận.",
+   "example": {
+    "en": "Let’s discuss crime. That’s always an interesting <b>topic</b>.",
+    "vi": "Hãy bàn về tội phạm. Đó luôn là một <b>chủ đề</b> thú vị."
+   }
+  },
+  {
+   "word": "aspect",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈæspekt/",
+   "def_en": "A part of a topic.",
+   "def_vi": "Một phần của chủ đề.",
+   "gloss_vi": "khía cạnh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Aspect</i> (noun) = khía cạnh. <b>Grammar</b>: <i>an aspect of sth</i>.",
+   "example": {
+    "en": "Punishment is only one <b>aspect</b> of crime.",
+    "vi": "Hình phạt chỉ là một <b>khía cạnh</b> của tội phạm."
+   }
+  },
+  {
+   "word": "situation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsɪtʃuˈeɪʃn/",
+   "def_en": "The set of conditions at a particular time.",
+   "def_vi": "Tập hợp các điều kiện tại một thời điểm.",
+   "gloss_vi": "tình hình",
+   "synonyms": "state of affairs <i>(n. tình trạng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Situation</i> (noun) = tình hình. <b>Grammar</b>: nhóm: <i>state of affairs, position (with regard to)</i>.",
+   "example": {
+    "en": "The <b>situation</b> in our cities with regard to traffic is going from bad to worse.",
+    "vi": "<b>Tình hình</b> giao thông ở các thành phố đang ngày càng tệ."
+   }
+  },
+  {
+   "word": "state of affairs",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsteɪt əv əˈfeəz/",
+   "def_en": "A situation.",
+   "def_vi": "Tình hình.",
+   "gloss_vi": "tình trạng",
+   "synonyms": "situation <i>(n. tình hình)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>State of affairs</i> (noun) = tình trạng. <b>Grammar</b>: khá trang trọng.",
+   "example": {
+    "en": "This <b>state of affairs</b> is partly a result of the financial difficulties currently being experienced globally.",
+    "vi": "<b>Tình trạng</b> này một phần do khó khăn tài chính toàn cầu."
+   }
+  },
+  {
+   "word": "position",
+   "sense": "situation",
+   "pos": "noun",
+   "ipa": "/pəˈzɪʃn/",
+   "def_en": "The situation someone is in.",
+   "def_vi": "Hoàn cảnh của ai đó.",
+   "gloss_vi": "tình thế, vị thế",
+   "synonyms": "situation <i>(n. tình hình)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Position</i> (noun) = tình thế, vị thế. <b>Grammar</b>: <i>position with regard to</i>.",
+   "example": {
+    "en": "Economically, the government is in a critical <b>position</b>.",
+    "vi": "Về kinh tế, chính phủ đang ở <b>tình thế</b> nguy kịch."
+   }
+  },
+  {
+   "word": "position",
+   "sense": "opinion",
+   "pos": "noun",
+   "ipa": "/pəˈzɪʃn/",
+   "def_en": "An opinion or attitude on a subject.",
+   "def_vi": "Ý kiến, thái độ về một vấn đề.",
+   "gloss_vi": "lập trường",
+   "synonyms": "view <i>(n. quan điểm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Position</i> (noun) = lập trường. <b>Grammar</b>: dùng trong tranh luận.",
+   "example": {
+    "en": "Our <b>position</b> has always been that we should encourage technology.",
+    "vi": "<b>Lập trường</b> của chúng tôi luôn là nên khuyến khích công nghệ."
+   }
+  },
+  {
+   "word": "crisis",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkraɪsɪs/",
+   "def_en": "A time of great difficulty or danger.",
+   "def_vi": "Thời điểm rất khó khăn hay nguy hiểm.",
+   "gloss_vi": "khủng hoảng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Crisis</i> (noun) = khủng hoảng. <b>Grammar</b>: số nhiều <i>crises</i> /ˈkraɪsiːz/.",
+   "ex_kit": true,
+   "example": {
+    "en": "The country is in an economic <b>crisis</b>.",
+    "vi": "Đất nước đang trong <b>khủng hoảng</b> kinh tế."
+   }
+  },
+  {
+   "word": "matter",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmætə(r)/",
+   "def_en": "A situation or problem.",
+   "def_vi": "Tình huống, vấn đề.",
+   "gloss_vi": "vấn đề, sự việc",
+   "synonyms": "problem <i>(n. vấn đề)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Matter</i> (noun) = vấn đề, sự việc. <b>Grammar</b>: <i>make matters worse</i>.",
+   "example": {
+    "en": "This may in fact be making <b>matters</b> worse.",
+    "vi": "Điều này thực ra có thể làm <b>mọi việc</b> tệ hơn."
+   }
+  },
+  {
+   "word": "response",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˈspɒns/",
+   "def_en": "A reaction to something.",
+   "def_vi": "Phản ứng với điều gì.",
+   "gloss_vi": "phản ứng, đáp lại",
+   "synonyms": "reaction <i>(n. phản ứng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Response</i> (noun) = phản ứng, đáp lại. <b>Grammar</b>: <i>response to</i>.",
+   "example": {
+    "en": "Our government’s initial <b>response</b> to the situation was to impose higher taxes.",
+    "vi": "<b>Phản ứng</b> ban đầu của chính phủ là tăng thuế."
+   }
+  },
+  {
+   "word": "reaction",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/riˈækʃn/",
+   "def_en": "What you do or feel because of something.",
+   "def_vi": "Điều bạn làm hay cảm thấy vì việc gì.",
+   "gloss_vi": "phản ứng",
+   "synonyms": "response <i>(n. phản ứng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reaction</i> (noun) = phản ứng. <b>Grammar</b>: <i>reaction to</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The public <b>reaction</b> to the new law was very negative.",
+    "vi": "<b>Phản ứng</b> của công chúng với luật mới rất tiêu cực."
+   }
+  },
+  {
+   "word": "attitude",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈætɪtjuːd/",
+   "def_en": "The way you think or feel about something.",
+   "def_vi": "Cách nghĩ hay cảm nhận về điều gì.",
+   "gloss_vi": "thái độ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Attitude</i> (noun) = thái độ. <b>Grammar</b>: <i>attitude to/towards</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "His <b>attitude</b> to work is very positive.",
+    "vi": "<b>Thái độ</b> của anh ấy với công việc rất tích cực."
+   }
+  },
+  {
+   "word": "approach",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈprəʊtʃ/",
+   "def_en": "A way of dealing with something.",
+   "def_vi": "Cách giải quyết điều gì.",
+   "gloss_vi": "cách tiếp cận",
+   "synonyms": "method <i>(n. phương pháp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Approach</i> (noun) = cách tiếp cận. <b>Grammar</b>: <i>approach to</i>.",
+   "example": {
+    "en": "Unless a new <b>approach</b> is found to control traffic, we will never find a solution to the dilemma.",
+    "vi": "Trừ khi tìm được <b>cách tiếp cận</b> mới để kiểm soát giao thông, ta sẽ không bao giờ có giải pháp."
+   }
+  },
+  {
+   "word": "solution",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/səˈluːʃn/",
+   "def_en": "A way of solving a problem.",
+   "def_vi": "Cách giải quyết vấn đề.",
+   "gloss_vi": "giải pháp",
+   "synonyms": "answer <i>(n. lời giải)</i>",
+   "antonyms": "problem <i>(n. vấn đề)</i>",
+   "grammar_vi": "<i>Solution</i> (noun) = giải pháp. <b>Grammar</b>: <i>solution to</i>.",
+   "example": {
+    "en": "We will never find a <b>solution</b> to the dilemma.",
+    "vi": "Ta sẽ không bao giờ tìm ra <b>giải pháp</b> cho tình thế khó này."
+   }
+  },
+  {
+   "word": "answer",
+   "sense": "solution",
+   "pos": "noun",
+   "ipa": "/ˈɑːnsə(r)/",
+   "def_en": "A solution to a problem.",
+   "def_vi": "Giải pháp cho vấn đề.",
+   "gloss_vi": "lời giải, giải pháp",
+   "synonyms": "solution <i>(n. giải pháp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Answer</i> (noun) = lời giải, giải pháp. <b>Grammar</b>: <i>answer to</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "There is no easy <b>answer</b> to this problem.",
+    "vi": "Không có <b>lời giải</b> dễ dàng cho vấn đề này."
+   }
+  },
+  {
+   "word": "resolution",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌrezəˈluːʃn/",
+   "def_en": "The act of solving a problem (formal).",
+   "def_vi": "Việc giải quyết vấn đề (trang trọng).",
+   "gloss_vi": "sự giải quyết",
+   "synonyms": "solution <i>(n. giải pháp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Resolution</i> (noun) = sự giải quyết. <b>Grammar</b>: <i>resolution to</i>; M: cũng = nghị quyết.",
+   "ex_kit": true,
+   "example": {
+    "en": "Both sides are looking for a <b>resolution</b> to the dispute.",
+    "vi": "Hai bên đang tìm <b>cách giải quyết</b> tranh chấp."
+   }
+  },
+  {
+   "word": "key",
+   "sense": "solution",
+   "pos": "noun",
+   "ipa": "/kiː/",
+   "def_en": "The most important way of achieving something.",
+   "def_vi": "Cách quan trọng nhất để đạt điều gì.",
+   "gloss_vi": "chìa khóa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Key</i> (noun) = chìa khóa. <b>Grammar</b>: <i>the key to</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Education is the <b>key</b> to reducing poverty.",
+    "vi": "Giáo dục là <b>chìa khóa</b> để giảm nghèo."
+   }
+  },
+  {
+   "word": "way out",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌweɪ ˈaʊt/",
+   "def_en": "A way of escaping from a difficult situation.",
+   "def_vi": "Lối thoát khỏi tình huống khó.",
+   "gloss_vi": "lối thoát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Way out</i> (noun) = lối thoát. <b>Grammar</b>: <i>way out of</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We need to find a <b>way out</b> of this crisis.",
+    "vi": "Chúng ta cần tìm <b>lối thoát</b> khỏi cuộc khủng hoảng này."
+   }
+  },
+  {
+   "word": "assessment",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈsesmənt/",
+   "def_en": "An evaluation or judgement.",
+   "def_vi": "Sự đánh giá.",
+   "gloss_vi": "đánh giá",
+   "synonyms": "evaluation <i>(n. đánh giá)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Assessment</i> (noun) = đánh giá. <b>Grammar</b>: <i>assess</i> (v.).",
+   "example": {
+    "en": "Economists’ current <b>assessment</b> is that this may in fact be making matters worse.",
+    "vi": "<b>Đánh giá</b> hiện nay của các nhà kinh tế là điều này có thể làm mọi việc tệ hơn."
+   }
+  },
+  {
+   "word": "judgment",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdʒʌdʒmənt/",
+   "def_en": "An opinion formed after thinking carefully.",
+   "def_vi": "Ý kiến hình thành sau khi cân nhắc.",
+   "gloss_vi": "nhận định",
+   "synonyms": "assessment <i>(n. đánh giá)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Judgment</i> (noun) = nhận định. <b>Grammar</b>: cũng viết <i>judgement</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "In my <b>judgment</b>, this plan will fail.",
+    "vi": "Theo <b>nhận định</b> của tôi, kế hoạch này sẽ thất bại."
+   }
+  },
+  {
+   "word": "claim",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kleɪm/",
+   "def_en": "A statement that something is true, which may not be.",
+   "def_vi": "Tuyên bố rằng điều gì đúng (có thể không).",
+   "gloss_vi": "lời khẳng định",
+   "synonyms": "assertion <i>(n. sự khẳng định)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Claim</i> (noun) = lời khẳng định. <b>Grammar</b>: <i>claim that…</i>.",
+   "example": {
+    "en": "Your <b>claim</b> that we’re doing nothing to invest in industry is false.",
+    "vi": "<b>Lời khẳng định</b> của ông rằng chúng tôi không đầu tư cho công nghiệp là sai."
+   }
+  },
+  {
+   "word": "fact",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/fækt/",
+   "def_en": "Something that is known to be true.",
+   "def_vi": "Điều được biết là đúng.",
+   "gloss_vi": "sự thật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fact</i> (noun) = sự thật. <b>Grammar</b>: <i>the fact that…</i>.",
+   "example": {
+    "en": "You’ve ignored this <b>fact</b>.",
+    "vi": "Ông đã bỏ qua <b>sự thật</b> này."
+   }
+  },
+  {
+   "word": "the real point",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ðə ˌrɪəl ˈpɔɪnt/",
+   "def_en": "The most important idea in an argument.",
+   "def_vi": "Ý quan trọng nhất trong lập luận.",
+   "gloss_vi": "điểm mấu chốt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The real point</i> (noun) = điểm mấu chốt. <b>Grammar</b>: <i>the point is that…</i>.",
+   "example": {
+    "en": "<b>The real point</b> is that we need to invest in our manufacturing industries.",
+    "vi": "<b>Điểm mấu chốt</b> là chúng ta cần đầu tư vào ngành sản xuất."
+   }
+  },
+  {
+   "word": "argument",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɑːɡjumənt/",
+   "def_en": "A reason or set of reasons to support an idea.",
+   "def_vi": "Lý lẽ ủng hộ một ý.",
+   "gloss_vi": "lập luận",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Argument</i> (noun) = lập luận. <b>Common mistakes</b>: cũng = cãi nhau.",
+   "example": {
+    "en": "That <b>argument</b> is out-of-date in a modern technological society.",
+    "vi": "<b>Lập luận</b> đó đã lỗi thời trong xã hội công nghệ hiện đại."
+   }
+  },
+  {
+   "word": "view",
+   "sense": "opinion",
+   "pos": "noun",
+   "ipa": "/vjuː/",
+   "def_en": "An opinion.",
+   "def_vi": "Ý kiến.",
+   "gloss_vi": "quan điểm",
+   "synonyms": "opinion <i>(n. ý kiến)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>View</i> (noun) = quan điểm. <b>Grammar</b>: <i>in my view</i>.",
+   "example": {
+    "en": "But that <b>view</b> won’t help to reduce unemployment.",
+    "vi": "Nhưng <b>quan điểm</b> đó sẽ không giúp giảm thất nghiệp."
+   }
+  }
+ ]
+}

@@ -1,0 +1,344 @@
+{
+ "book": "upp",
+ "unit": 65,
+ "title_vi": "Bổ sung thông tin",
+ "theory_html": "<p><b>A. Expressions for linking sentences/clauses</b><br><i>A. Cụm nối câu/mệnh đề</i></p> <p><b>In addition, Additionally, Furthermore, Moreover, What’s more, Equally, Likewise, On top of (all) that</b>. <b>Furthermore</b> and <b>moreover</b> are normally interchangeable, and are both rather formal; <b>what’s more</b> is informal; <b>what is more</b> is rather formal. <b>On top of (all) that</b> is emphatic: used mostly in informal spoken English. You can also use <b>plus</b> (normally used to connect noun phrases, but can connect clauses in informal speech).</p><p><i><b>Ngoài ra, thêm vào đó, hơn nữa, vả lại, tương tự, trên hết</b>. <b>Furthermore/moreover</b> trang trọng; <b>what’s more</b> thân mật; <b>what is more</b> khá trang trọng. <b>On top of (all) that</b> nhấn mạnh, văn nói thân mật. <b>Plus</b> thường nối cụm danh từ.</i></p> <p><b>B. Expressions at the end of sentences/clauses</b><br><i>B. Cụm cuối câu/mệnh đề</i></p> <p><b>and so on</b> (more informal than <b>etc.</b>), <b>and so on and so forth</b> [suggests a long continuation; informal], <b>into the bargain / to boot</b> [emphasises the combination of items; informal].</p><p><i><b>vân vân</b>, <b>cứ thế mãi</b>, <b>lại còn… nữa</b>.</i></p> <p><b>C. Expressions that begin, or come in the middle of, sentences/clauses</b><br><i>C. Cụm đầu hoặc giữa câu</i></p> <p><b>Further to</b> (formal opening for a letter or email), <b>in addition to, alongside, as well as, besides / apart from, along with / together with</b>.</p><p><i><b>Tiếp theo</b> (mở đầu thư trang trọng), <b>ngoài… ra, song song với, cũng như, bên cạnh, cùng với</b>.</i></p> <p><b>LH. Language help</b><br><i>LH. Lưu ý ngôn ngữ</i></p> <p>The words and expressions in C are followed by nouns, noun phrases, or a verb plus -ing: <b>As well as speaking Japanese, she also speaks French</b> (NOT <b>As well as she speaks Japanese…</b>).</p><p><i>Các cụm ở C theo sau là danh từ, cụm danh từ hoặc V-ing.</i></p>",
+ "items": [
+  {
+   "word": "in addition",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ɪn əˈdɪʃn/",
+   "def_en": "Also; as an extra point.",
+   "def_vi": "Ngoài ra, thêm vào đó.",
+   "gloss_vi": "ngoài ra",
+   "synonyms": "additionally <i>(adv. thêm vào đó)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In addition</i> (adverb) = ngoài ra. <b>Grammar</b>: đầu câu, có dấu phẩy.",
+   "example": {
+    "en": "For this job you need a degree. <b>In addition</b>, you need at least two years’ experience.",
+    "vi": "Công việc này cần bằng đại học. <b>Ngoài ra</b>, bạn cần ít nhất hai năm kinh nghiệm."
+   }
+  },
+  {
+   "word": "additionally",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/əˈdɪʃənəli/",
+   "def_en": "Also; as an extra point.",
+   "def_vi": "Thêm vào đó.",
+   "gloss_vi": "thêm vào đó",
+   "synonyms": "in addition <i>(adv. ngoài ra)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Additionally</i> (adverb) = thêm vào đó. <b>Grammar</b>: đầu câu.",
+   "example": {
+    "en": "For this job you need a degree. <b>Additionally</b>, you need at least two years’ experience.",
+    "vi": "Công việc này cần bằng đại học. <b>Thêm vào đó</b>, bạn cần ít nhất hai năm kinh nghiệm."
+   }
+  },
+  {
+   "word": "furthermore",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌfɜːðəˈmɔː(r)/",
+   "def_en": "In addition (rather formal).",
+   "def_vi": "Thêm nữa (khá trang trọng).",
+   "gloss_vi": "hơn nữa",
+   "synonyms": "moreover <i>(adv. vả lại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Furthermore</i> (adverb) = hơn nữa. <b>Grammar</b>: thay thế được cho <i>moreover</i>; khá trang trọng.",
+   "example": {
+    "en": "Smartphones are becoming more sophisticated. <b>Furthermore</b>, they are becoming cheaper.",
+    "vi": "Điện thoại thông minh ngày càng tinh vi. <b>Hơn nữa</b>, chúng ngày càng rẻ."
+   }
+  },
+  {
+   "word": "moreover",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/mɔːrˈəʊvə(r)/",
+   "def_en": "In addition (rather formal).",
+   "def_vi": "Thêm nữa (khá trang trọng).",
+   "gloss_vi": "vả lại, hơn nữa",
+   "synonyms": "furthermore <i>(adv. hơn nữa)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Moreover</i> (adverb) = vả lại, hơn nữa. <b>Grammar</b>: khá trang trọng.",
+   "example": {
+    "en": "Smartphones are becoming more sophisticated. <b>Moreover</b>, they are becoming cheaper.",
+    "vi": "Điện thoại thông minh ngày càng tinh vi. <b>Hơn nữa</b>, chúng ngày càng rẻ."
+   }
+  },
+  {
+   "word": "what’s more",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌwɒts ˈmɔː(r)/",
+   "def_en": "In addition (informal).",
+   "def_vi": "Thêm nữa (thân mật).",
+   "gloss_vi": "hơn thế nữa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>What’s more</i> (adverb) = hơn thế nữa. <b>Grammar</b>: thân mật; <i>what is more</i> khá trang trọng.",
+   "example": {
+    "en": "Smartphones are becoming more sophisticated. <b>What’s more</b>, they are becoming cheaper.",
+    "vi": "Điện thoại thông minh ngày càng tinh vi. <b>Hơn thế nữa</b>, chúng ngày càng rẻ."
+   }
+  },
+  {
+   "word": "equally",
+   "sense": "addition",
+   "pos": "adverb",
+   "ipa": "/ˈiːkwəli/",
+   "def_en": "In the same way.",
+   "def_vi": "Theo cách tương tự.",
+   "gloss_vi": "tương tự, đồng thời",
+   "synonyms": "likewise <i>(adv. cũng vậy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Equally</i> (adverb) = tương tự, đồng thời. <b>Grammar</b>: đầu câu khi nối ý.",
+   "example": {
+    "en": "Children should respect their parents. <b>Equally</b>, they should respect their teachers.",
+    "vi": "Trẻ em nên kính trọng cha mẹ. <b>Tương tự</b>, chúng nên kính trọng thầy cô."
+   }
+  },
+  {
+   "word": "likewise",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈlaɪkwaɪz/",
+   "def_en": "In the same way.",
+   "def_vi": "Cũng vậy.",
+   "gloss_vi": "cũng vậy",
+   "synonyms": "equally <i>(adv. tương tự)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Likewise</i> (adverb) = cũng vậy. <b>Grammar</b>: cũng dùng đáp lại: <i>Likewise!</i> = tôi cũng vậy.",
+   "example": {
+    "en": "Children should respect their parents. <b>Likewise</b>, they should respect their teachers.",
+    "vi": "Trẻ em nên kính trọng cha mẹ. <b>Cũng vậy</b>, chúng nên kính trọng thầy cô."
+   }
+  },
+  {
+   "word": "on top of all that",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ɒn ˌtɒp əv ˈɔːl ðæt/",
+   "def_en": "In addition, emphatically (informal spoken).",
+   "def_vi": "Thêm vào đó, nhấn mạnh (văn nói thân mật).",
+   "gloss_vi": "trên hết, chưa kể",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>On top of all that</i> (adverb) = trên hết, chưa kể. <b>Grammar</b>: nhấn mạnh; cũng <i>on top of that</i>.",
+   "example": {
+    "en": "We’ll have all the stress of going to court and giving evidence. <b>On top of all that</b>, we’ll have to pay the lawyers’ bills.",
+    "vi": "Ta sẽ chịu căng thẳng khi ra tòa. <b>Chưa kể</b>, ta phải trả tiền luật sư."
+   }
+  },
+  {
+   "word": "plus",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/plʌs/",
+   "def_en": "And also.",
+   "def_vi": "Và thêm.",
+   "gloss_vi": "cộng thêm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Plus</i> (conjunction) = cộng thêm. <b>Grammar</b>: thường nối cụm danh từ; nối mệnh đề trong văn nói thân mật.",
+   "example": {
+    "en": "To keep fit you need a good diet <b>plus</b> (you need) regular exercise.",
+    "vi": "Để giữ dáng bạn cần chế độ ăn tốt <b>cộng thêm</b> tập thể dục đều đặn."
+   }
+  },
+  {
+   "word": "and so on",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ənd ˈsəʊ ɒn/",
+   "def_en": "And other similar things.",
+   "def_vi": "Và những thứ tương tự.",
+   "gloss_vi": "vân vân",
+   "synonyms": "etc. <i>(adv. vân vân)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>And so on</i> (adverb) = vân vân. <b>Grammar</b>: thân mật hơn <i>etc.</i>.",
+   "example": {
+    "en": "They sell chairs, tables, beds, <b>and so on</b>.",
+    "vi": "Họ bán ghế, bàn, giường, <b>vân vân</b>."
+   }
+  },
+  {
+   "word": "and so on and so forth",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ənd ˌsəʊ ɒn ənd ˌsəʊ ˈfɔːθ/",
+   "def_en": "And continuing for a long time (informal).",
+   "def_vi": "Và cứ tiếp tục mãi (thân mật).",
+   "gloss_vi": "cứ thế mãi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>And so on and so forth</i> (adverb) = cứ thế mãi. <b>Grammar</b>: gợi ý kéo dài lâu; thân mật.",
+   "example": {
+    "en": "It’ll go to the committee, then to the board, then to another committee, <b>and so on and so forth</b>.",
+    "vi": "Nó sẽ đến ủy ban, rồi hội đồng, rồi ủy ban khác, <b>cứ thế mãi</b>."
+   }
+  },
+  {
+   "word": "into the bargain",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌɪntə ðə ˈbɑːɡɪn/",
+   "def_en": "As well; in addition (informal).",
+   "def_vi": "Thêm vào đó (thân mật).",
+   "gloss_vi": "lại còn… nữa",
+   "synonyms": "to boot <i>(adv. lại còn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Into the bargain</i> (adverb) = lại còn… nữa. <b>Grammar</b>: cuối câu; nhấn mạnh sự kết hợp.",
+   "example": {
+    "en": "He was a good sportsman and an excellent musician <b>into the bargain</b>.",
+    "vi": "Anh ấy là vận động viên giỏi và <b>còn là</b> nhạc sĩ xuất sắc <b>nữa</b>."
+   }
+  },
+  {
+   "word": "to boot",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/tə ˈbuːt/",
+   "def_en": "As well; in addition (informal).",
+   "def_vi": "Thêm vào đó (thân mật).",
+   "gloss_vi": "lại còn",
+   "synonyms": "into the bargain <i>(adv. lại còn… nữa)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>To boot</i> (adverb) = lại còn. <b>Grammar</b>: cuối câu; thân mật.",
+   "example": {
+    "en": "He was a good sportsman and an excellent musician <b>to boot</b>.",
+    "vi": "Anh ấy là vận động viên giỏi và <b>lại còn</b> là nhạc sĩ xuất sắc."
+   }
+  },
+  {
+   "word": "further to",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ˈfɜːðə tə/",
+   "def_en": "Following (formal opening for a letter or email).",
+   "def_vi": "Tiếp theo (mở đầu thư trang trọng).",
+   "gloss_vi": "tiếp theo",
+   "synonyms": "following <i>(prep. sau)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Further to</i> (preposition) = tiếp theo. <b>Grammar</b>: mở đầu thư/email trang trọng.",
+   "example": {
+    "en": "<b>Further to</b> my telephone call to you yesterday, I am now writing to …",
+    "vi": "<b>Tiếp theo</b> cuộc điện thoại hôm qua, tôi viết thư này để…"
+   }
+  },
+  {
+   "word": "in addition to",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ɪn əˈdɪʃn tə/",
+   "def_en": "As well as (fairly formal).",
+   "def_vi": "Cùng với (khá trang trọng).",
+   "gloss_vi": "ngoài… ra",
+   "synonyms": "as well as <i>(prep. cũng như)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In addition to</i> (preposition) = ngoài… ra. <b>Grammar</b>: + danh từ hoặc V-ing.",
+   "example": {
+    "en": "<b>In addition to</b> winning the gold medal, she also broke the world record.",
+    "vi": "<b>Ngoài</b> giành huy chương vàng <b>ra</b>, cô ấy còn phá kỷ lục thế giới."
+   }
+  },
+  {
+   "word": "alongside",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/əˌlɒŋˈsaɪd/",
+   "def_en": "Together with; at the same time as.",
+   "def_vi": "Cùng với, song song với.",
+   "gloss_vi": "song song với",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Alongside</i> (preposition) = song song với. <b>Grammar</b>: + danh từ.",
+   "example": {
+    "en": "<b>Alongside</b> her full-time job as a dentist, she does voluntary conservation work at weekends.",
+    "vi": "<b>Song song với</b> công việc nha sĩ toàn thời gian, cô ấy làm tình nguyện bảo tồn cuối tuần."
+   }
+  },
+  {
+   "word": "as well as",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/əz ˈwel əz/",
+   "def_en": "In addition to.",
+   "def_vi": "Ngoài ra còn.",
+   "gloss_vi": "cũng như, ngoài",
+   "synonyms": "in addition to <i>(prep. ngoài ra)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As well as</i> (preposition) = cũng như, ngoài. <b>Grammar</b>: + V-ing, KHÔNG + mệnh đề.",
+   "example": {
+    "en": "I have to go to the bank today, <b>as well as</b> getting my hair cut.",
+    "vi": "Hôm nay tôi phải ra ngân hàng, <b>ngoài</b> việc đi cắt tóc."
+   }
+  },
+  {
+   "word": "besides",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/bɪˈsaɪdz/",
+   "def_en": "In addition to.",
+   "def_vi": "Ngoài ra.",
+   "gloss_vi": "bên cạnh, ngoài",
+   "synonyms": "apart from <i>(prep. ngoài)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Besides</i> (preposition) = bên cạnh, ngoài. <b>Grammar</b>: khác <i>beside</i> = bên cạnh (vị trí).",
+   "example": {
+    "en": "<b>Besides</b> having a salary, he also has a private income.",
+    "vi": "<b>Ngoài</b> lương, anh ấy còn có thu nhập riêng."
+   }
+  },
+  {
+   "word": "apart from",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/əˈpɑːt frəm/",
+   "def_en": "In addition to.",
+   "def_vi": "Ngoài ra.",
+   "gloss_vi": "ngoài… ra",
+   "synonyms": "besides <i>(prep. ngoài)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Apart from</i> (preposition) = ngoài… ra. <b>Common mistakes</b>: cũng = trừ (<i>except</i>).",
+   "example": {
+    "en": "<b>Apart from</b> her many other hobbies, she restores old racing cars.",
+    "vi": "<b>Ngoài</b> nhiều sở thích khác, cô ấy còn phục chế xe đua cổ."
+   }
+  },
+  {
+   "word": "along with",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/əˈlɒŋ wɪð/",
+   "def_en": "Together with.",
+   "def_vi": "Cùng với.",
+   "gloss_vi": "cùng với",
+   "synonyms": "together with <i>(prep. cùng với)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Along with</i> (preposition) = cùng với. <b>Grammar</b>: + danh từ.",
+   "example": {
+    "en": "Jo Evans was there, <b>along with</b> a few other people who I didn’t know.",
+    "vi": "Jo Evans có mặt, <b>cùng với</b> vài người tôi không quen."
+   }
+  },
+  {
+   "word": "together with",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/təˈɡeðə wɪð/",
+   "def_en": "Along with.",
+   "def_vi": "Cùng với.",
+   "gloss_vi": "cùng với",
+   "synonyms": "along with <i>(prep. cùng với)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Together with</i> (preposition) = cùng với. <b>Grammar</b>: + danh từ.",
+   "example": {
+    "en": "Jo Evans was there, <b>together with</b> a few other people who I didn’t know.",
+    "vi": "Jo Evans có mặt, <b>cùng với</b> vài người tôi không quen."
+   }
+  }
+ ]
+}
