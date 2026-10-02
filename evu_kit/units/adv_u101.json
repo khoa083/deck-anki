@@ -1,0 +1,376 @@
+{
+ "book": "adv",
+ "unit": 101,
+ "title_vi": "Thủ tục hành chính rườm rà",
+ "theory_html": "<p><b>A. Characteristics of bureaucratic language</b><br><i>A. Đặc điểm ngôn ngữ hành chính</i></p> <p>Longer, ‘grander’ words; passive instead of active; unnecessary nouns as subject; a noun instead of <b>you</b>. Words: <b>attain, bestow on, demolish, adjoining, the undersigned, aforementioned, commence (commencement), cease operations (cessation), the deceased, next of kin, in the event of, be evacuated, endeavour, facilitate, be instructed, proceed, rectify, be resumed</b>.</p><p><i>Từ dài, ‘sang’; bị động; danh từ làm chủ ngữ; danh từ thay <b>you</b>. <b>đạt, ban cho, phá dỡ, liền kề, người ký tên dưới đây, nói trên, bắt đầu, ngừng hoạt động, người quá cố, thân nhân gần nhất, trong trường hợp, sơ tán, cố gắng, tạo điều kiện, được hướng dẫn, tiến hành, khắc phục, được khôi phục</b>.</i></p> <p><b>B. Bureaucratic correspondence</b><br><i>B. Thư từ hành chính</i></p> <p><b>acknowledge receipt of, with the compliments of, notify, at your earliest convenience, further clarification is required, in respect of, with regard to</b>.</p><p><i><b>xác nhận đã nhận, kính tặng, thông báo, sớm nhất có thể, cần làm rõ thêm, liên quan đến, về việc</b>.</i></p>",
+ "items": [
+  {
+   "word": "attain",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈteɪn/",
+   "def_en": "To reach.",
+   "def_vi": "Đạt tới.",
+   "gloss_vi": "đạt (đến)",
+   "synonyms": "reach <i>(v. đạt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Attain</i> (verb) = đạt (đến). <b>Grammar</b>: trang trọng, hành chính.",
+   "example": {
+    "en": "has <b>attained</b> the age of 50 years before the first day of the course",
+    "vi": "Sinh viên không đủ điều kiện vay nếu đã <b>đạt</b> 50 tuổi."
+   }
+  },
+  {
+   "word": "bestow on",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/bɪˈstəʊ ɒn/",
+   "def_en": "To give to.",
+   "def_vi": "Trao cho.",
+   "gloss_vi": "ban cho",
+   "synonyms": "give <i>(v. trao)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bestow on</i> (verb) = ban cho. <b>Grammar</b>: trang trọng.",
+   "example": {
+    "en": "any payment under a bursary or award of similar description <b>bestowed on</b> him/her",
+    "vi": "Học bổng <b>ban cho</b> người đó theo điều 63."
+   }
+  },
+  {
+   "word": "demolish",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪˈmɒlɪʃ/",
+   "def_en": "To knock down.",
+   "def_vi": "Phá đổ.",
+   "gloss_vi": "phá dỡ",
+   "synonyms": "knock down <i>(v. phá đổ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Demolish</i> (verb) = phá dỡ. <b>Grammar</b>: danh từ <i>demolition</i>.",
+   "example": {
+    "en": "Your request to <b>demolish</b> the garage adjoining your property is hereby rejected.",
+    "vi": "Yêu cầu <b>phá dỡ</b> gara của bạn bị bác."
+   }
+  },
+  {
+   "word": "adjoining",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əˈdʒɔɪnɪŋ/",
+   "def_en": "Next to.",
+   "def_vi": "Bên cạnh.",
+   "gloss_vi": "liền kề",
+   "synonyms": "next to <i>(adj. bên cạnh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Adjoining</i> (adjective) = liền kề. <b>Grammar</b>: động từ <i>adjoin</i>.",
+   "example": {
+    "en": "Your request to demolish the garage <b>adjoining</b> your property is hereby rejected.",
+    "vi": "Yêu cầu phá gara <b>liền kề</b> nhà bạn bị bác."
+   }
+  },
+  {
+   "word": "the undersigned",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ði ˌʌndəˈsaɪnd/",
+   "def_en": "The person who wrote (and signed) this letter.",
+   "def_vi": "Người viết và ký thư này.",
+   "gloss_vi": "người ký tên dưới đây",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The undersigned</i> (noun) = người ký tên dưới đây. <b>Grammar</b>: hành chính, trang trọng.",
+   "example": {
+    "en": "Any and all appeals regarding this decision must be submitted to the <b>undersigned</b> by Jan 31 2018.",
+    "vi": "Mọi khiếu nại phải gửi <b>người ký tên dưới đây</b> trước 31/1."
+   }
+  },
+  {
+   "word": "aforementioned",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əˌfɔːˈmenʃənd/",
+   "def_en": "Mentioned earlier.",
+   "def_vi": "Đã nói ở trên.",
+   "gloss_vi": "nói trên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Aforementioned</i> (adjective) = nói trên. <b>Grammar</b>: hành chính, trang trọng.",
+   "example": {
+    "en": "No exceptions to the <b>aforementioned</b> procedure will be considered.",
+    "vi": "Không có ngoại lệ cho thủ tục <b>nói trên</b>."
+   }
+  },
+  {
+   "word": "commence",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kəˈmens/",
+   "def_en": "To start.",
+   "def_vi": "Bắt đầu.",
+   "gloss_vi": "bắt đầu",
+   "synonyms": "start <i>(v. bắt đầu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Commence</i> (verb) = bắt đầu. <b>Grammar</b>: danh từ <i>commencement</i>.",
+   "example": {
+    "en": "Work will <b>commence</b> in May.",
+    "vi": "Công việc sẽ <b>bắt đầu</b> vào tháng Năm."
+   }
+  },
+  {
+   "word": "cease operations",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌsiːs ˌɒpəˈreɪʃnz/",
+   "def_en": "To stop functioning.",
+   "def_vi": "Ngừng hoạt động.",
+   "gloss_vi": "ngừng hoạt động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cease operations</i> (verb) = ngừng hoạt động. <b>Grammar</b>: danh từ <i>cessation</i>.",
+   "example": {
+    "en": "The company <b>ceased operations</b> last year.",
+    "vi": "Công ty đã <b>ngừng hoạt động</b> năm ngoái."
+   }
+  },
+  {
+   "word": "next of kin",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌnekst əv ˈkɪn/",
+   "def_en": "The closest relative.",
+   "def_vi": "Người thân gần nhất.",
+   "gloss_vi": "thân nhân gần nhất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Next of kin</i> (noun) = thân nhân gần nhất. <b>Grammar</b>: số ít và số nhiều giống nhau.",
+   "example": {
+    "en": "Property belonging to the deceased will be returned to the <b>next of kin</b>.",
+    "vi": "Tài sản sẽ được trả cho <b>thân nhân gần nhất</b>."
+   }
+  },
+  {
+   "word": "in the event of",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ɪn ði ɪˈvent əv/",
+   "def_en": "If there is.",
+   "def_vi": "Nếu có.",
+   "gloss_vi": "trong trường hợp",
+   "synonyms": "in case of <i>(prep. trong trường hợp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In the event of</i> (preposition) = trong trường hợp. <b>Collocations / chunks</b>: + danh từ.",
+   "example": {
+    "en": "<b>In the event of</b> an emergency, call 121.",
+    "vi": "<b>Trong trường hợp</b> khẩn cấp, gọi 121."
+   }
+  },
+  {
+   "word": "evacuate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪˈvækjueɪt/",
+   "def_en": "To make people leave (a building).",
+   "def_vi": "Cho mọi người rời (tòa nhà).",
+   "gloss_vi": "sơ tán",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Evacuate</i> (verb) = sơ tán. <b>Grammar</b>: danh từ <i>evacuation</i>.",
+   "example": {
+    "en": "In the event of fire, the building <b>must be evacuated</b> immediately.",
+    "vi": "Khi có cháy, tòa nhà phải được <b>sơ tán</b> ngay."
+   }
+  },
+  {
+   "word": "facilitate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/fəˈsɪlɪteɪt/",
+   "def_en": "To make possible, easier.",
+   "def_vi": "Làm cho khả thi, dễ hơn.",
+   "gloss_vi": "tạo điều kiện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Facilitate</i> (verb) = tạo điều kiện. <b>Grammar</b>: danh từ <i>facilitator</i>.",
+   "example": {
+    "en": "The developments will <b>facilitate</b> movement of traffic in the area.",
+    "vi": "Các công trình sẽ <b>tạo điều kiện</b> cho giao thông khu vực."
+   }
+  },
+  {
+   "word": "be instructed",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/bi ɪnˈstrʌktɪd/",
+   "def_en": "To be told (what to do).",
+   "def_vi": "Được bảo (phải làm gì).",
+   "gloss_vi": "được hướng dẫn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be instructed</i> (verb) = được hướng dẫn. <b>Grammar</b>: bị động hành chính.",
+   "example": {
+    "en": "Residents <b>will be instructed</b> what to do in the event of an emergency.",
+    "vi": "Cư dân sẽ <b>được hướng dẫn</b> phải làm gì khi khẩn cấp."
+   }
+  },
+  {
+   "word": "proceed",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/prəˈsiːd/",
+   "def_en": "To move (to the next stage).",
+   "def_vi": "Chuyển (sang giai đoạn tiếp).",
+   "gloss_vi": "tiến hành, chuyển sang",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Proceed</i> (verb) = tiến hành, chuyển sang. <b>Collocations / chunks</b>: <i>proceed to</i> sth.",
+   "example": {
+    "en": "The project will <b>proceed</b> to the next phase in June.",
+    "vi": "Dự án sẽ <b>chuyển sang</b> giai đoạn tiếp theo vào tháng Sáu."
+   }
+  },
+  {
+   "word": "rectify",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈrektɪfaɪ/",
+   "def_en": "To put right.",
+   "def_vi": "Sửa cho đúng.",
+   "gloss_vi": "khắc phục",
+   "synonyms": "correct <i>(v. sửa)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rectify</i> (verb) = khắc phục. <b>Grammar</b>: trang trọng.",
+   "example": {
+    "en": "We are currently attempting to <b>rectify</b> the situation.",
+    "vi": "Chúng tôi đang cố <b>khắc phục</b> tình hình."
+   }
+  },
+  {
+   "word": "resume",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rɪˈzjuːm/",
+   "def_en": "To start again.",
+   "def_vi": "Bắt đầu lại.",
+   "gloss_vi": "khôi phục, tiếp tục",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Resume</i> (verb) = khôi phục, tiếp tục. <b>Grammar</b>: danh từ <i>resumption</i>.",
+   "example": {
+    "en": "Normal service <b>will be resumed</b> as soon as possible.",
+    "vi": "Dịch vụ bình thường sẽ <b>được khôi phục</b> sớm nhất có thể."
+   }
+  },
+  {
+   "word": "acknowledge receipt of",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əkˌnɒlɪdʒ rɪˈsiːt əv/",
+   "def_en": "To inform someone that you have received something.",
+   "def_vi": "Báo đã nhận được.",
+   "gloss_vi": "xác nhận đã nhận",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Acknowledge receipt of</i> (verb) = xác nhận đã nhận. <b>Collocations / chunks</b>: thư hành chính.",
+   "example": {
+    "en": "Please <b>acknowledge receipt of</b> payment.",
+    "vi": "Vui lòng <b>xác nhận đã nhận</b> thanh toán."
+   }
+  },
+  {
+   "word": "with the compliments of",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/wɪð ðə ˈkɒmplɪmənts əv/",
+   "def_en": "Written on a slip of paper sent with an item from a company.",
+   "def_vi": "Ghi trên phiếu gửi kèm hàng của công ty.",
+   "gloss_vi": "kính tặng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>With the compliments of</i> (preposition) = kính tặng. <b>Collocations / chunks</b>: <i>compliments slip</i>.",
+   "example": {
+    "en": "<b>With the compliments of</b> Smith and Co.",
+    "vi": "<b>Kính tặng</b> từ Smith và Co."
+   }
+  },
+  {
+   "word": "notify",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈnəʊtɪfaɪ/",
+   "def_en": "To inform.",
+   "def_vi": "Thông báo.",
+   "gloss_vi": "thông báo",
+   "synonyms": "inform <i>(v. thông báo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Notify</i> (verb) = thông báo. <b>Grammar</b>: danh từ <i>notification</i>.",
+   "example": {
+    "en": "Please <b>notify</b> us immediately of any change of address.",
+    "vi": "Vui lòng <b>thông báo</b> ngay nếu đổi địa chỉ."
+   }
+  },
+  {
+   "word": "at your earliest convenience",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ət jər ˌɜːliɪst kənˈviːniəns/",
+   "def_en": "As soon as possible.",
+   "def_vi": "Sớm nhất có thể.",
+   "gloss_vi": "sớm nhất có thể",
+   "synonyms": "ASAP <i>(adv. càng sớm càng tốt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>At your earliest convenience</i> (adverb) = sớm nhất có thể. <b>Collocations / chunks</b>: thư hành chính, lịch sự.",
+   "example": {
+    "en": "I would be grateful for a reply <b>at your earliest convenience</b>.",
+    "vi": "Tôi mong được hồi âm <b>sớm nhất có thể</b>."
+   }
+  },
+  {
+   "word": "further clarification is required",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ˌfɜːðə ˌklærəfɪˈkeɪʃn ɪz rɪˈkwaɪəd/",
+   "def_en": "You need more of an explanation.",
+   "def_vi": "Bạn cần giải thích thêm.",
+   "gloss_vi": "cần làm rõ thêm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Further clarification is required</i> (cl) = cần làm rõ thêm. <b>Grammar</b>: bị động hành chính.",
+   "example": {
+    "en": "Contact us if <b>further clarification is required</b>.",
+    "vi": "Liên hệ nếu <b>cần làm rõ thêm</b>."
+   }
+  },
+  {
+   "word": "in respect of",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ɪn rɪˈspekt əv/",
+   "def_en": "Relating to, for.",
+   "def_vi": "Liên quan đến, cho.",
+   "gloss_vi": "liên quan đến",
+   "synonyms": "with regard to <i>(prep. về việc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In respect of</i> (preposition) = liên quan đến. <b>Collocations / chunks</b>: trang trọng.",
+   "example": {
+    "en": "I enclose payment <b>in respect of</b> your invoice.",
+    "vi": "Tôi gửi kèm thanh toán <b>cho</b> hóa đơn của quý vị."
+   }
+  },
+  {
+   "word": "with regard to",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/wɪð rɪˈɡɑːd tə/",
+   "def_en": "About.",
+   "def_vi": "Về.",
+   "gloss_vi": "về việc",
+   "synonyms": "regarding <i>(prep. về)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>With regard to</i> (preposition) = về việc. <b>Collocations / chunks</b>: trang trọng.",
+   "example": {
+    "en": "I am writing <b>with regard to</b> your advertisement.",
+    "vi": "Tôi viết thư <b>về việc</b> quảng cáo của quý vị."
+   }
+  }
+ ]
+}

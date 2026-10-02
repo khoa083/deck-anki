@@ -1,0 +1,232 @@
+{
+ "book": "adv",
+ "unit": 100,
+ "title_vi": "Trên các tít báo",
+ "theory_html": "<p><b>A. Features of headline language</b><br><i>A. Đặc điểm ngôn ngữ tít báo</i></p> <p><b>hit the headlines</b>; <b>tabloid newspapers</b>; headlines omit articles, prepositions, auxiliaries; use present simple for immediacy; are often ambiguous (<b>cloud</b>); use dramatic words (<b>danger</b>), celebrities, alliteration, strong simple words (<b>gunman</b>), emotional words (<b>crazed</b>). Language help: headline vocabulary is more useful for reading than speaking or writing.</p><p><i><b>lên tít báo</b>; <b>báo lá cải</b>; tít bỏ mạo từ, giới từ, trợ động từ; dùng hiện tại đơn; hay mơ hồ; dùng từ kịch tính, người nổi tiếng, điệp âm, từ ngắn mạnh, từ cảm xúc.</i></p> <p><b>B. Violent words</b><br><i>B. Từ ngữ bạo lực</i></p> <p><b>thugs, yobs, louts</b>; <b>crush, crackdown, besieged, rip (through)</b>.</p><p><i><b>côn đồ, du côn, kẻ vô học; đè bẹp, chiến dịch trấn áp, bị bao vây, quét qua</b>.</i></p> <p><b>C. Playing with words</b><br><i>C. Chơi chữ</i></p> <p><b>Rain of terror</b> (play on <b>reign of terror</b>); <b>Moon becomes shooting star</b> (<b>shooting star</b> = meteor; <b>shoot a goal</b>).</p><p><i><b>Mưa kinh hoàng</b> (chơi chữ <b>triều đại khủng bố</b>); <b>sao băng</b>.</i></p>",
+ "items": [
+  {
+   "word": "tabloid newspapers",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌtæblɔɪd ˈnjuːzpeɪpəz/",
+   "def_en": "Popular papers with small pages and short simple reports.",
+   "def_vi": "Báo phổ thông khổ nhỏ, bài ngắn đơn giản.",
+   "gloss_vi": "báo lá cải",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "broadsheet <i>(n. báo khổ lớn)</i>",
+   "grammar_vi": "<i>Tabloid newspapers</i> (noun) = báo lá cải. <b>Collocations / chunks</b>: cũng <i>the tabloids</i>.",
+   "example": {
+    "en": "Here are two typical examples of headlines from <b>tabloid newspapers</b>",
+    "vi": "Đây là hai ví dụ tít báo điển hình của <b>báo lá cải</b>."
+   }
+  },
+  {
+   "word": "cloud",
+   "sense": "internet storage",
+   "pos": "noun",
+   "ipa": "/klaʊd/",
+   "def_en": "Hosted services on the internet for storing personal data.",
+   "def_vi": "Dịch vụ lưu trữ dữ liệu trên internet.",
+   "gloss_vi": "điện toán đám mây",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cloud</i> (noun) = điện toán đám mây. <b>Collocations / chunks</b>: <i>store data in the cloud</i>.",
+   "example": {
+    "en": "It is actually about the dangers of storing electronic information on a ‘<b>cloud</b>’",
+    "vi": "Bài báo nói về nguy cơ lưu dữ liệu trên <b>đám mây</b>."
+   }
+  },
+  {
+   "word": "crazed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kreɪzd/",
+   "def_en": "Behaving in a wild or strange way, especially because of strong emotion.",
+   "def_vi": "Hành xử điên cuồng, nhất là do cảm xúc mạnh.",
+   "gloss_vi": "điên loạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Crazed</i> (adjective) = điên loạn. <b>Grammar</b>: từ cảm xúc mạnh trong tít báo.",
+   "example": {
+    "en": "TV STAR TRAGIC TARGET FOR <b>CRAZED</b> GUNMAN",
+    "vi": "Ngôi sao truyền hình là mục tiêu bi thảm của tay súng <b>điên loạn</b>."
+   }
+  },
+  {
+   "word": "gunman",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡʌnmən/",
+   "def_en": "A man who uses a gun to commit a crime.",
+   "def_vi": "Kẻ dùng súng phạm tội.",
+   "gloss_vi": "tay súng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gunman</i> (noun) = tay súng. <b>Grammar</b>: từ ngắn, mạnh của báo chí.",
+   "example": {
+    "en": "Newspapers tend to use strong, simple words such as ‘<b>gunman</b>’",
+    "vi": "Báo chí dùng từ mạnh, đơn giản như <b>tay súng</b>."
+   }
+  },
+  {
+   "word": "alliteration",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˌlɪtəˈreɪʃn/",
+   "def_en": "Repeating the same sound at the start of words.",
+   "def_vi": "Lặp âm đầu các từ.",
+   "gloss_vi": "điệp âm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Alliteration</i> (noun) = điệp âm. <b>Grammar</b>: thủ pháp tu từ.",
+   "example": {
+    "en": "<b>Alliteration</b> such as TV Star Tragic Target is often used to attract the eye in headlines",
+    "vi": "<b>Điệp âm</b> như TV Star Tragic Target hay được dùng."
+   }
+  },
+  {
+   "word": "thug",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/θʌɡ/",
+   "def_en": "A violent person who causes trouble.",
+   "def_vi": "Kẻ bạo lực gây rối.",
+   "gloss_vi": "côn đồ",
+   "synonyms": "yob <i>(n. du côn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Thug</i> (noun) = côn đồ. <b>Grammar</b>: từ tít báo.",
+   "example": {
+    "en": "EU acts to crush terror of <b>thugs</b>",
+    "vi": "EU hành động đè bẹp nỗi khiếp sợ <b>côn đồ</b>."
+   }
+  },
+  {
+   "word": "yob",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/jɒb/",
+   "def_en": "A young person who causes trouble (informal).",
+   "def_vi": "Người trẻ gây rối (thân mật).",
+   "gloss_vi": "du côn",
+   "synonyms": "lout <i>(n. kẻ vô học)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Yob</i> (noun) = du côn. <b>Grammar</b>: thân mật, Anh.",
+   "example": {
+    "en": "people who cause trouble may be referred to as thugs, <b>yobs</b> or louts",
+    "vi": "Người gây rối có thể bị gọi là <b>du côn</b>."
+   }
+  },
+  {
+   "word": "lout",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/laʊt/",
+   "def_en": "A rude, aggressive young man.",
+   "def_vi": "Thanh niên thô lỗ, hung hăng.",
+   "gloss_vi": "kẻ vô học",
+   "synonyms": "yob <i>(n. du côn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lout</i> (noun) = kẻ vô học. <b>Collocations / chunks</b>: <i>football/soccer louts</i>.",
+   "example": {
+    "en": "Crackdown on soccer <b>louts</b>",
+    "vi": "Trấn áp bọn <b>vô học</b> trong bóng đá."
+   }
+  },
+  {
+   "word": "crush",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/krʌʃ/",
+   "def_en": "To destroy.",
+   "def_vi": "Phá hủy.",
+   "gloss_vi": "đè bẹp",
+   "synonyms": "destroy <i>(v. phá hủy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Crush</i> (verb) = đè bẹp. <b>Grammar</b>: từ bạo lực trong tít báo.",
+   "example": {
+    "en": "EU acts to <b>crush</b> terror of thugs",
+    "vi": "EU hành động <b>đè bẹp</b> nỗi khiếp sợ côn đồ."
+   }
+  },
+  {
+   "word": "crackdown",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkrækdaʊn/",
+   "def_en": "Taking serious measures to deal with a problem.",
+   "def_vi": "Biện pháp mạnh để xử lý vấn đề.",
+   "gloss_vi": "chiến dịch trấn áp",
+   "synonyms": "clampdown <i>(n. sự siết chặt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Crackdown</i> (noun) = chiến dịch trấn áp. <b>Collocations / chunks</b>: <i>a crackdown on</i> sth; động từ <i>crack down on</i>.",
+   "example": {
+    "en": "<b>Crackdown</b> on soccer louts",
+    "vi": "<b>Trấn áp</b> bọn vô học trong bóng đá."
+   }
+  },
+  {
+   "word": "besieged",
+   "sense": "surrounded by journalists",
+   "pos": "adjective",
+   "ipa": "/bɪˈsiːdʒd/",
+   "def_en": "Surrounded, as if by an army.",
+   "def_vi": "Bị bao vây như bởi quân đội.",
+   "gloss_vi": "bị vây kín",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Besieged</i> (adjective) = bị vây kín. <b>Grammar</b>: nghĩa bóng trong tít báo.",
+   "example": {
+    "en": "Palace <b>besieged</b> by journalists",
+    "vi": "Cung điện <b>bị</b> nhà báo <b>vây kín</b>."
+   }
+  },
+  {
+   "word": "rip through",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌrɪp ˈθruː/",
+   "def_en": "To move in a destructive way.",
+   "def_vi": "Di chuyển một cách tàn phá.",
+   "gloss_vi": "quét qua",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rip through</i> (verb) = quét qua. <b>Collocations / chunks</b>: <i>rip through</i> + nơi.",
+   "example": {
+    "en": "Typhoon <b>rips</b> through town",
+    "vi": "Bão <b>quét qua</b> thị trấn."
+   }
+  },
+  {
+   "word": "reign of terror",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌreɪn əv ˈterə(r)/",
+   "def_en": "A period in which a ruler controls people in a particularly cruel way.",
+   "def_vi": "Thời kỳ kẻ cai trị kiểm soát dân rất tàn bạo.",
+   "gloss_vi": "triều đại khủng bố",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reign of terror</i> (noun) = triều đại khủng bố. <b>Collocations / chunks</b>: chơi chữ <i>rain/reign</i>.",
+   "example": {
+    "en": "This headline was a play on words based on the expression <b>reign of terror</b>",
+    "vi": "‘Mưa kinh hoàng’ chơi chữ từ <b>triều đại khủng bố</b>."
+   }
+  },
+  {
+   "word": "shooting star",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌʃuːtɪŋ ˈstɑː(r)/",
+   "def_en": "A meteor (informal).",
+   "def_vi": "Sao băng (thân mật).",
+   "gloss_vi": "sao băng",
+   "synonyms": "meteor <i>(n. thiên thạch)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shooting star</i> (noun) = sao băng. <b>Collocations / chunks</b>: chơi chữ <i>shoot a goal</i>.",
+   "example": {
+    "en": "<b>Shooting star</b> is an informal expression for a meteor.",
+    "vi": "<b>Sao băng</b> là cách nói thân mật về thiên thạch."
+   }
+  }
+ ]
+}
