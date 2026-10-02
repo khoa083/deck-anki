@@ -80,6 +80,8 @@ def verify(book):
     print(f"{book}: notes {col.note_count()} | cards {col.card_count()} | bad renders {bad} | audio {aud}/{aud + len(miss)}"
           + (f" THIẾU {miss[:8]}" if miss else "") + f" | GUID trùng {sum(v - 1 for v in guids.values() if v > 1)}"
           + f" | note logic trùng {sum(v - 1 for v in logical.values() if v > 1)}")
+    from nobrand import brand_left
+    print(f"  còn chữ Anki Support Vietnam: {brand_left(col)}")
     for k, v in sorted(cnt.items()): print(f"  {v:6d}  {k}")
     col.close()
 

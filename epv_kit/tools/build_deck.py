@@ -23,7 +23,7 @@ BOOKS = json.load(open(os.path.join(HERE, "books.json"), encoding="utf-8"))
 CFG = json.load(open(os.path.join(KIT, "config.json"), encoding="utf-8"))
 VOCAB_MODEL = "(Phrasal verb In Use) Nhìn từ đoán nghĩa"
 THEORY_MODEL = "Tóm tắt"
-SOURCE = "AnkiSupportVietnam"
+SOURCE = ""          # người dùng yêu cầu bỏ chữ "Anki Support Vietnam" khỏi mọi deck
 ROOT = "English Phrasal Verbs in Use"
 OLD_TOP = {"English Phrasal Verbs in Use (Advanced)": "Advanced", "English Phrasal Verbs in Use (Intermediate)": "Intermediate"}
 V_THEORY, V_LOOK, V_LISTEN = "Lý thuyết", "Từ vựng (nhìn từ, gõ nghĩa)", "Từ vựng (nghe, gõ từ đúng)"
@@ -267,6 +267,8 @@ def main():
             st["notes_added"] += 1
     col.decks.remove([nd.id for nd in col.decks.all_names_and_ids() if nd.name == "Default" and nd.id != 1])
     if os.path.exists(out): os.remove(out)
+    from nobrand import strip_brand
+    print("Bỏ chữ Anki Support Vietnam:", strip_brand(col))
     col.export_anki_package(out_path=os.path.abspath(out), limit=ExportLimit(whole_collection=Empty()),
                             options=ExportAnkiPackageOptions(with_scheduling=False, with_deck_configs=True, with_media=True, legacy=False))
     col.close()

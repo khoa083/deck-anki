@@ -19,7 +19,7 @@ CFG = json.load(open(os.path.join(KIT, "config.json"), encoding="utf-8"))
 MODEL_BASE = os.path.join(KIT, "base", "English Vocabulary In Use (Upper-Intermediate).apkg")
 DEMO = {"upp": MODEL_BASE}
 VOCAB_MODEL, THEORY_MODEL = "(Vocab In Use) Nhìn từ đoán nghĩa", "Tóm tắt"
-SOURCE = CFG.get("note_source", "AnkiSupportVietnam")
+SOURCE = ""          # người dùng yêu cầu bỏ chữ "Anki Support Vietnam" khỏi mọi deck
 V_THEORY, V_LOOK, V_LISTEN = "Lý thuyết", "Từ vựng (nhìn từ, đoán nghĩa)", "Từ vựng (nghe, gõ từ đúng)"
 HR = '<hr style="border: none; height: 0.5px; background-color: #e0e0e0;">'
 
@@ -176,6 +176,8 @@ def main():
     out = os.path.join(KIT, "out", root + ".apkg")
     os.makedirs(os.path.dirname(out), exist_ok=True)
     if os.path.exists(out): os.remove(out)
+    from nobrand import strip_brand
+    print("Bỏ chữ Anki Support Vietnam:", strip_brand(col))
     col.export_anki_package(out_path=out, limit=ExportLimit(whole_collection=Empty()),
                             options=ExportAnkiPackageOptions(with_scheduling=False, with_deck_configs=True, with_media=True, legacy=False))
     col.close()

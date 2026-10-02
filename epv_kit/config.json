@@ -1,7 +1,7 @@
 {
  "ipa_style": "uk",
  "_ipa_style": "uk = IPA chuẩn Anh (sách là tiếng Anh–Anh; thống nhất với deck English Collocations in Use). Build tự đổi IPA kiểu Mỹ của 347 thẻ demo sang chuẩn Anh. Đặt 'keep' để giữ nguyên IPA demo.",
- "note_source": "AnkiSupportVietnam",
+ "note_source": "",
  "tts_voice": "bm_george",
  "tts_speed": 0.95,
  "_tts": "Audio field Phát âm: Kokoro TTS offline (kokoro-onnx), giọng Anh–Anh nam bm_george (demo dùng giọng nam ~120 Hz). Đổi giọng: bf_emma, bm_daniel, bm_lewis… rồi chạy `epv.py audio --force`.",

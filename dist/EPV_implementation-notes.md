@@ -289,3 +289,8 @@ D1 thứ tự Adv 16→60 → bổ sung demo → Int 1→70 · D2 IPA chuẩn An
 - Ví dụ của thẻ demo cũ có câu chép từ sách – giữ nguyên vì là deck có sẵn của bạn; quyết định có viết lại không.
 - Bản dịch tiếng Việt của 347 thẻ demo chưa được rà từng thẻ.
 - Nếu đã import demo vào Anki: trước khi import bản mới, đổi tên deck `English Phrasal Verbs in Use (Advanced)` → `English Phrasal Verbs in Use::Advanced` (giữ tiến độ), vì Anki không tự chuyển thẻ cũ sang deck mới. Số unit 10–16 cũ cũng được đổi trong gói mới.
+
+## Bỏ chữ “Anki Support Vietnam” (yêu cầu người dùng, 2026-10-02)
+- `tools/nobrand.py` → `strip_brand(col)` chạy ngay trước khi export: xoá khối link `<a …>Anki Support Vietnam</a>` (cả `<div>` bọc) khỏi mọi template note type, xoá giá trị “AnkiSupportVietnam” ở mọi trường (kể cả note demo giữ nguyên GUID), xoá trong mô tả deck. Trường `Nguồn` để rỗng (`SOURCE = ""`, `config.json: note_source = ""`).
+- `verify` in thêm “còn chữ Anki Support Vietnam: N” (template + CSS + trường + mô tả deck); bản build hiện tại = 0 ở mọi deck. Số note/thẻ/audio không đổi so với trước.
+- Link “Chat GPT”, “Google”, “Cambridge” trong template giữ nguyên (không thuộc yêu cầu).

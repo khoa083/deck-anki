@@ -219,6 +219,8 @@ def verify():
             else: miss.append(strip(n.fields[0]))
     print(f"audio thẻ mới: {aud}/{aud + len(miss)}" + (f" – THIẾU: {miss[:10]}" if miss else " – đủ"))
     for k, v in sorted(cnt.items()): print(f"  {v:5d}  {k}")
+    from nobrand import brand_left
+    print("còn chữ Anki Support Vietnam:", brand_left(col))
     print("top decks:", sorted({n.name.split('::')[0] for n in col.decks.all_names_and_ids()}))
     col.close()
 

@@ -62,3 +62,8 @@
 - Pre-int: 365/2260 câu ví dụ do kit đặt (tag `EVU::ex_kit`), chủ yếu unit tranh (thức ăn, động vật, cơ thể, quần áo, đồ văn phòng).
 - 357 câu ví dụ Elementary là câu kit đặt (tag `EVU::ex_kit`) vì từ chỉ xuất hiện ở nhãn tranh / bảng; lọc bằng tag nếu muốn xem lại.
 - Lý thuyết là bản tóm tắt song ngữ, không chép nguyên trang như demo – nếu muốn chép nguyên trang như demo, cần quyết định riêng (vấn đề bản quyền và độ dài).
+
+## Bỏ chữ “Anki Support Vietnam” (yêu cầu người dùng, 2026-10-02)
+- `tools/nobrand.py` → `strip_brand(col)` chạy ngay trước khi export: xoá khối link `<a …>Anki Support Vietnam</a>` (cả `<div>` bọc) khỏi mọi template note type, xoá giá trị “AnkiSupportVietnam” ở mọi trường (kể cả note demo giữ nguyên GUID), xoá trong mô tả deck. Trường `Nguồn` để rỗng (`SOURCE = ""`, `config.json: note_source = ""`).
+- `verify` in thêm “còn chữ Anki Support Vietnam: N” (template + CSS + trường + mô tả deck); bản build hiện tại = 0 ở mọi deck. Số note/thẻ/audio không đổi so với trước.
+- Link “Chat GPT”, “Google”, “Cambridge” trong template giữ nguyên (không thuộc yêu cầu).

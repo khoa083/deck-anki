@@ -64,6 +64,8 @@ def verify(book):
     print(f"{book}: notes {col.note_count()} | cards {col.card_count()} | unit có MCQ {units} | bad renders {bad}"
           + f" | GUID trùng {sum(v - 1 for v in guids.values() if v > 1)} | MCQ logic trùng {sum(v - 1 for v in logical.values() if v > 1)}"
           + f" | note type {[m['name'] for m in col.models.all()]}")
+    from nobrand import brand_left
+    print(f"  còn chữ Anki Support Vietnam: {brand_left(col)}")
     for k, v in sorted(cnt.items()): print(f"  {v:6d}  {k}")
     col.close()
 

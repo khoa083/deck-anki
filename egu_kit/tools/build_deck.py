@@ -14,7 +14,7 @@ HERE = os.path.dirname(os.path.abspath(__file__)); KIT = os.path.dirname(HERE)
 BOOKS = json.load(open(os.path.join(HERE, "books.json"), encoding="utf-8"))
 BASE = os.path.join(KIT, "base", "English Grammar In Use (Intermediate).apkg")
 THEORY_MODEL, MCQ_MODEL = "Tóm tắt++", "MCQ custom shuffled (Grammar)"
-SOURCE = "AnkiSupportVietnam"
+SOURCE = ""          # người dùng yêu cầu bỏ chữ "Anki Support Vietnam" khỏi mọi deck
 A, B = "A. Lý thuyết", "B. Câu hỏi"
 
 
@@ -125,6 +125,8 @@ def main():
     out = os.path.join(KIT, "out", root + ".apkg")
     os.makedirs(os.path.dirname(out), exist_ok=True)
     if os.path.exists(out): os.remove(out)
+    from nobrand import strip_brand
+    print("Bỏ chữ Anki Support Vietnam:", strip_brand(col))
     col.export_anki_package(out_path=out, limit=ExportLimit(whole_collection=Empty()),
                             options=ExportAnkiPackageOptions(with_scheduling=False, with_deck_configs=True, with_media=True, legacy=False))
     col.close()

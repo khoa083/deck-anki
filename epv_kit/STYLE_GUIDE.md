@@ -43,7 +43,7 @@ Unit **bổ sung** cho demo (Advanced 1–15, thêm mục bản 2 mà demo thi�
 | `synonyms` | Đồng nghĩa | 2 mục `S(text, pos, vi)` → hiển thị `demolish <i>(v. phá dỡ)</i>, tear down <i>(phr.v. phá bỏ)</i>`. Phải cùng nghĩa với **nghĩa đang dạy**. |
 | `antonyms` | Trái nghĩa | 1–2 mục, cùng định dạng. Không có trái nghĩa thật → dùng cụm đối lập hợp lý nhất, KHÔNG lặp lại mục đồng nghĩa. |
 | `grammar_vi` | Ngữ pháp | 80–240 từ, khung cố định (bên dưới). |
-| (tự sinh) | STT, Nguồn, Bài giảng lý thuyết | `016`, `AnkiSupportVietnam`, lý thuyết của unit. **Phát âm** = `[sound:epv_<book>_u<NN>_<slug>.mp3]`, build tự gắn từ `media/` (tạo bằng `epv.py audio`). Thiếu file = LỖI. |
+| (tự sinh) | STT, Nguồn, Bài giảng lý thuyết | `016`, rỗng (đã bỏ chữ “Anki Support Vietnam” theo yêu cầu), lý thuyết của unit. **Phát âm** = `[sound:epv_<book>_u<NN>_<slug>.mp3]`, build tự gắn từ `media/` (tạo bằng `epv.py audio`). Thiếu file = LỖI. |
 
 ### Khung grammar_vi (bắt buộc có **Grammar** và **Register**)
 ```
