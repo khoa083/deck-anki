@@ -1,0 +1,612 @@
+{
+ "book": "gva",
+ "unit": 30,
+ "title_vi": "Mạo hiểm",
+ "theory_html": "<p><b>V1. -ing compound nouns for sports</b><br><i>V1. Danh từ ghép -ing chỉ môn thể thao</i></p> <p>Compound nouns for these sporting activities are formed with the -ing form; some are two separate words (<b>bungee jumping</b>), some have a hyphen (<b>hang-gliding</b>) and others are one word (<b>windsurfing</b>).</p><p><i>Tên môn thể thao dùng dạng -ing: tách rời, có gạch nối hoặc viết liền.</i></p> <p><b>V2. take part in</b><br><i>V2. take part in</i></p> <p><b>take part</b> is followed by <b>in</b>: <b>He's hoping to take part in the next Olympic Games.</b> (not <b>take part of</b>)</p><p><i><b>take part in</b>, không <b>take part of</b>.</i></p> <p><b>V3. Formal language</b><br><i>V3. Ngôn ngữ trang trọng</i></p> <p><b>conclusion</b> = decision; <b>determine</b> = find out; <b>display</b> = show; <b>engage in</b> = take part in; <b>foresee</b> = predict; <b>onset</b> = beginning; <b>response</b> = reaction, reply.</p><p><i>Từ trang trọng và từ thường tương ứng.</i></p> <p><b>V4. trip, slip, stumble</b><br><i>V4. trip, slip, stumble</i></p> <p><b>trip</b> = lose your balance after hitting your foot on something; <b>slip</b> = slide unintentionally on something wet or smooth; <b>stumble</b> = put a foot down awkwardly and begin to fall.</p><p><i><b>trip</b> (vấp), <b>slip</b> (trượt), <b>stumble</b> (loạng choạng).</i></p>",
+ "items": [
+  {
+   "word": "bungee jumping",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbʌndʒi ˌdʒʌmpɪŋ/",
+   "def_en": "Jumping from a high place attached to a long elastic rope.",
+   "def_vi": "Nhảy bungee.",
+   "gloss_vi": "nhảy bungee",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bungee jumping</i> (noun) = nhảy bungee. <b>Collocations / chunks</b>: cụm danh từ cố định <i>bungee jumping</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Bungee jumping</b> is an extreme sport.",
+    "vi": "<b>Nhảy bungee</b> là một môn thể thao mạo hiểm."
+   }
+  },
+  {
+   "word": "hang-gliding",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhæŋ ˌɡlaɪdɪŋ/",
+   "def_en": "Flying using a large frame covered with cloth, without an engine.",
+   "def_vi": "Bay lượn bằng diều.",
+   "gloss_vi": "dù lượn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hang-gliding</i> (noun) = dù lượn. <b>Grammar</b>: danh từ ghép <i>hang</i> + <i>gliding</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I'd like to try <b>hang-gliding</b>.",
+    "vi": "Tôi muốn thử <b>bay dù lượn</b>."
+   }
+  },
+  {
+   "word": "ice climbing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈaɪs ˌklaɪmɪŋ/",
+   "def_en": "Climbing frozen waterfalls or ice-covered rock.",
+   "def_vi": "Leo băng.",
+   "gloss_vi": "leo băng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ice climbing</i> (noun) = leo băng. <b>Collocations / chunks</b>: cụm danh từ cố định <i>ice climbing</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Ice climbing</b> needs special equipment.",
+    "vi": "<b>Leo băng</b> đòi hỏi thiết bị đặc biệt."
+   }
+  },
+  {
+   "word": "potholing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɒthəʊlɪŋ/",
+   "def_en": "Exploring underground caves.",
+   "def_vi": "Thám hiểm hang động.",
+   "gloss_vi": "thám hiểm hang",
+   "synonyms": "caving <i>(n. khám phá hang)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Potholing</i> (noun) = thám hiểm hang. <b>Grammar</b>: danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Potholing</b> can be very dangerous.",
+    "vi": "<b>Thám hiểm hang động</b> có thể rất nguy hiểm."
+   }
+  },
+  {
+   "word": "scuba diving",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈskuːbə ˌdaɪvɪŋ/",
+   "def_en": "Swimming underwater with a container of air on your back.",
+   "def_vi": "Lặn có bình dưỡng khí.",
+   "gloss_vi": "lặn bình khí",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Scuba diving</i> (noun) = lặn bình khí. <b>Collocations / chunks</b>: cụm danh từ cố định <i>scuba diving</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I've tried <b>scuba diving</b>.",
+    "vi": "Tôi đã thử <b>lặn có bình dưỡng khí</b>."
+   }
+  },
+  {
+   "word": "skydiving",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈskaɪdaɪvɪŋ/",
+   "def_en": "Jumping from a plane and falling before opening a parachute.",
+   "def_vi": "Nhảy dù tự do.",
+   "gloss_vi": "nhảy dù",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Skydiving</i> (noun) = nhảy dù. <b>Grammar</b>: danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Skydiving</b> is something I would never try.",
+    "vi": "<b>Nhảy dù</b> là môn tôi không bao giờ thử."
+   }
+  },
+  {
+   "word": "white-water rafting",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌwaɪt wɔːtə ˈrɑːftɪŋ/",
+   "def_en": "Travelling down a fast river in a rubber boat.",
+   "def_vi": "Chèo bè vượt thác.",
+   "gloss_vi": "vượt thác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>White-water rafting</i> (noun) = vượt thác. <b>Collocations / chunks</b>: cụm danh từ cố định <i>white-water rafting</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We went <b>white-water rafting</b> last summer.",
+    "vi": "Chúng tôi đi <b>chèo bè vượt thác</b> mùa hè năm ngoái."
+   }
+  },
+  {
+   "word": "windsurfing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɪndsɜːfɪŋ/",
+   "def_en": "Sailing on a board with a sail.",
+   "def_vi": "Lướt ván buồm.",
+   "gloss_vi": "lướt ván buồm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Windsurfing</i> (noun) = lướt ván buồm. <b>Grammar</b>: danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Windsurfing</b> needs a strong wind.",
+    "vi": "<b>Lướt ván buồm</b> cần gió mạnh."
+   }
+  },
+  {
+   "word": "induce",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪnˈdjuːs/",
+   "def_en": "To cause something to happen.",
+   "def_vi": "Gây ra.",
+   "gloss_vi": "gây ra",
+   "synonyms": "cause <i>(v. gây ra)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Induce</i> (verb) = gây ra. <b>Grammar</b>: động từ.",
+   "example": {
+    "en": "their alleged capacity to <b>induce</b> an adrenaline rush in participants",
+    "vi": "Khả năng <b>gây ra</b> cơn hưng phấn adrenaline ở người tham gia."
+   }
+  },
+  {
+   "word": "adrenaline rush",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈdrenəlɪn rʌʃ/",
+   "def_en": "A sudden feeling of excitement and energy.",
+   "def_vi": "Cơn hưng phấn (do adrenaline).",
+   "gloss_vi": "cơn hưng phấn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Adrenaline rush</i> (noun) = cơn hưng phấn. <b>Collocations / chunks</b>: cụm danh từ cố định <i>adrenaline rush</i>.",
+   "example": {
+    "en": "their alleged capacity to induce an <b>adrenaline rush</b> in participants",
+    "vi": "Khả năng gây ra <b>cơn hưng phấn adrenaline</b> ở người tham gia."
+   }
+  },
+  {
+   "word": "participant",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pɑːˈtɪsɪpənt/",
+   "def_en": "A person who takes part in an activity.",
+   "def_vi": "Người tham gia.",
+   "gloss_vi": "người tham gia",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Participant</i> (noun) = người tham gia. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "induce an adrenaline rush in <b>participants</b>",
+    "vi": "Gây ra cơn hưng phấn ở <b>người tham gia</b>."
+   }
+  },
+  {
+   "word": "release",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rɪˈliːs/",
+   "def_en": "(of a substance) To let it flow out, e.g. into the body.",
+   "def_vi": "Tiết ra, giải phóng.",
+   "gloss_vi": "tiết ra",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Release</i> (verb) = tiết ra. <b>Grammar</b>: động từ.",
+   "example": {
+    "en": "is not due to adrenaline being <b>released</b> as a response to fear",
+    "vi": "Cơn 'phê' không phải do adrenaline <b>được tiết ra</b> khi sợ hãi."
+   }
+  },
+  {
+   "word": "physical exertion",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌfɪzɪkl ɪɡˈzɜːʃn/",
+   "def_en": "Movement of the body which raises the heart rate.",
+   "def_vi": "Sự gắng sức thể chất.",
+   "gloss_vi": "gắng sức",
+   "synonyms": "effort <i>(n. nỗ lực)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Physical exertion</i> (noun) = gắng sức. <b>Collocations / chunks</b>: cụm danh từ cố định <i>physical exertion</i>.",
+   "example": {
+    "en": "resulting from extreme <b>physical exertion</b>",
+    "vi": "Do lượng dopamine tăng từ <b>sự gắng sức thể chất</b> cực độ."
+   }
+  },
+  {
+   "word": "tentative",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈtentətɪv/",
+   "def_en": "Not certain or definite.",
+   "def_vi": "Chưa chắc chắn, mong manh.",
+   "gloss_vi": "mong manh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "definite <i>(adj. chắc chắn)</i>",
+   "grammar_vi": "<i>Tentative</i> (adjective) = mong manh. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "the link between adrenaline and 'true' extreme sports is <b>tentative</b>",
+    "vi": "Mối liên hệ giữa adrenaline và thể thao mạo hiểm 'thực sự' là <b>mong manh</b>."
+   }
+  },
+  {
+   "word": "recreational",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌrekriˈeɪʃənl/",
+   "def_en": "Done for enjoyment in free time.",
+   "def_vi": "Mang tính giải trí.",
+   "gloss_vi": "giải trí",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Recreational</i> (adjective) = giải trí. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "leisure or <b>recreational</b> activities",
+    "vi": "Các hoạt động thư giãn hay <b>giải trí</b>."
+   }
+  },
+  {
+   "word": "outcome",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈaʊtkʌm/",
+   "def_en": "A result.",
+   "def_vi": "Kết quả.",
+   "gloss_vi": "kết cục",
+   "synonyms": "result <i>(n. kết quả)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Outcome</i> (noun) = kết cục. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "where the most likely <b>outcome</b> of a mismanaged accident or mistake was death",
+    "vi": "<b>Kết cục</b> khả dĩ nhất của tai nạn là tử vong."
+   }
+  },
+  {
+   "word": "mismanaged",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌmɪsˈmænɪdʒd/",
+   "def_en": "Poorly controlled or organised.",
+   "def_vi": "Bị quản lý kém.",
+   "gloss_vi": "xử lý kém",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mismanaged</i> (adjective) = xử lý kém. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "the most likely outcome of a <b>mismanaged</b> accident or mistake",
+    "vi": "Kết cục khả dĩ nhất của một tai nạn <b>xử lý kém</b>."
+   }
+  },
+  {
+   "word": "marketing hype",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɑːkɪtɪŋ haɪp/",
+   "def_en": "Exaggerated descriptions used in sales.",
+   "def_vi": "Quảng cáo thổi phồng.",
+   "gloss_vi": "quảng cáo thổi phồng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Marketing hype</i> (noun) = quảng cáo thổi phồng. <b>Collocations / chunks</b>: cụm danh từ cố định <i>marketing hype</i>.",
+   "example": {
+    "en": "to separate the <b>marketing hype</b> from the activity itself",
+    "vi": "Định nghĩa này nhằm tách <b>quảng cáo thổi phồng</b> khỏi chính hoạt động."
+   }
+  },
+  {
+   "word": "characteristic",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkærəktəˈrɪstɪk/",
+   "def_en": "A typical or noticeable quality.",
+   "def_vi": "Đặc điểm.",
+   "gloss_vi": "đặc điểm",
+   "synonyms": "feature <i>(n. đặc điểm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Characteristic</i> (noun) = đặc điểm. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "Another <b>characteristic</b> of these activities is that they tend to be individual",
+    "vi": "Một <b>đặc điểm</b> khác là chúng thường là môn cá nhân."
+   }
+  },
+  {
+   "word": "take part in",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/teɪk ˈpɑːt ɪn/",
+   "def_en": "To be involved in an activity.",
+   "def_vi": "Tham gia.",
+   "gloss_vi": "tham gia",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take part in</i> (verb) = tham gia. <b>Grammar</b>: không <i>take part of</i>.",
+   "example": {
+    "en": "He's hoping to <b>take part in</b> the next Olympic Games.",
+    "vi": "Anh ấy hy vọng <b>tham gia</b> Olympic tới."
+   }
+  },
+  {
+   "word": "take precautions",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/teɪk prɪˈkɔːʃnz/",
+   "def_en": "To do things to prevent something bad happening.",
+   "def_vi": "Phòng ngừa.",
+   "gloss_vi": "đề phòng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take precautions</i> (verb) = đề phòng. <b>Collocations / chunks</b>: take + advice / care / a chance / steps / responsibility.",
+   "example": {
+    "en": "check that you have <b>taken reasonable precautions</b> to avoid injury",
+    "vi": "Kiểm tra bạn đã <b>thực hiện phòng ngừa</b> hợp lý để tránh thương tích."
+   }
+  },
+  {
+   "word": "take responsibility",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/teɪk rɪˌspɒnsəˈbɪləti/",
+   "def_en": "To accept that you are responsible for something.",
+   "def_vi": "Chịu trách nhiệm.",
+   "gloss_vi": "chịu trách nhiệm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take responsibility</i> (verb) = chịu trách nhiệm. <b>Grammar</b>: động từ nhiều từ <i>take responsibility</i>.",
+   "example": {
+    "en": "It's important that participants in extreme sports <b>take</b> full <b>responsibility</b> for their own actions.",
+    "vi": "Người chơi thể thao mạo hiểm phải <b>chịu trách nhiệm</b> cho hành động mình."
+   }
+  },
+  {
+   "word": "make progress",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/meɪk ˈprəʊɡres/",
+   "def_en": "To improve or develop.",
+   "def_vi": "Tiến bộ.",
+   "gloss_vi": "tiến bộ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Make progress</i> (verb) = tiến bộ. <b>Collocations / chunks</b>: make + a decision / a difference / an effort / sure / use of.",
+   "example": {
+    "en": "my ski instructor says I am <b>making good progress</b>",
+    "vi": "Huấn luyện viên trượt tuyết nói tôi <b>đang tiến bộ tốt</b>."
+   }
+  },
+  {
+   "word": "take advice",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/teɪk ədˈvaɪs/",
+   "def_en": "To listen to and follow someone's advice.",
+   "def_vi": "Nghe lời khuyên.",
+   "gloss_vi": "nghe lời khuyên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take advice</i> (verb) = nghe lời khuyên. <b>Grammar</b>: động từ nhiều từ <i>take advice</i>.",
+   "example": {
+    "en": "you should <b>take advice</b> from those who are more experienced than yourself",
+    "vi": "Bạn nên <b>nghe lời khuyên</b> của người có kinh nghiệm hơn."
+   }
+  },
+  {
+   "word": "determine",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪˈtɜːmɪn/",
+   "def_en": "To find out (formal).",
+   "def_vi": "Xác định, tìm ra (trang trọng).",
+   "gloss_vi": "xác định",
+   "synonyms": "find out <i>(phr v. tìm ra)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Determine</i> (verb) = xác định. <b>Note</b>: trang trọng.",
+   "example": {
+    "en": "A US study set out to <b>determine</b> why people take risks",
+    "vi": "Một nghiên cứu Mỹ nhằm <b>xác định</b> vì sao người ta mạo hiểm."
+   }
+  },
+  {
+   "word": "onset",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɒnset/",
+   "def_en": "The beginning of something (formal).",
+   "def_vi": "Sự khởi đầu (trang trọng).",
+   "gloss_vi": "khởi phát",
+   "synonyms": "beginning <i>(n. bắt đầu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Onset</i> (noun) = khởi phát. <b>Note</b>: <i>the onset of adolescence</i> = sự bắt đầu giai đoạn trở thành người lớn.",
+   "example": {
+    "en": "the <b>onset</b> of adolescence",
+    "vi": "<b>Sự bắt đầu</b> tuổi dậy thì."
+   }
+  },
+  {
+   "word": "foresee",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/fɔːˈsiː/",
+   "def_en": "To predict (formal).",
+   "def_vi": "Lường trước (trang trọng).",
+   "gloss_vi": "lường trước",
+   "synonyms": "predict <i>(v. dự đoán)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Foresee</i> (verb) = lường trước. <b>Note</b>: trang trọng.",
+   "ex_kit": true,
+   "example": {
+    "en": "Older people tend to <b>foresee</b> risks better.",
+    "vi": "Người lớn tuổi thường <b>lường trước</b> rủi ro tốt hơn."
+   }
+  },
+  {
+   "word": "engage in",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪnˈɡeɪdʒ ɪn/",
+   "def_en": "To take part in (formal).",
+   "def_vi": "Tham gia (trang trọng).",
+   "gloss_vi": "tham gia",
+   "synonyms": "take part in <i>(v. tham gia)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Engage in</i> (verb) = tham gia. <b>Note</b>: trang trọng.",
+   "ex_kit": true,
+   "example": {
+    "en": "Teenagers are more likely to <b>engage in</b> risky behaviour.",
+    "vi": "Thanh thiếu niên dễ <b>tham gia</b> hành vi mạo hiểm hơn."
+   }
+  },
+  {
+   "word": "adolescent",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌædəˈlesnt/",
+   "def_en": "A young person developing into an adult.",
+   "def_vi": "Thanh thiếu niên.",
+   "gloss_vi": "vị thành niên",
+   "synonyms": "teenager <i>(n. thiếu niên)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Adolescent</i> (noun) = vị thành niên. <b>Word family</b>: adolescence (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Adolescents</b> are more likely to take risks than children or adults.",
+    "vi": "<b>Thanh thiếu niên</b> dễ mạo hiểm hơn trẻ em hay người lớn."
+   }
+  },
+  {
+   "word": "thrill",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/θrɪl/",
+   "def_en": "A strong feeling of excitement.",
+   "def_vi": "Cảm giác hồi hộp, phấn khích.",
+   "gloss_vi": "sự phấn khích",
+   "synonyms": "buzz <i>(n. hứng khởi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Thrill</i> (noun) = sự phấn khích. <b>Note</b>: cũng <i>kick, buzz, excitement</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Many people do extreme sports for the <b>thrill</b>.",
+    "vi": "Nhiều người chơi thể thao mạo hiểm vì <b>cảm giác phấn khích</b>."
+   }
+  },
+  {
+   "word": "control measures",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kənˈtrəʊl ˌmeʒəz/",
+   "def_en": "Actions taken to reduce a risk.",
+   "def_vi": "Biện pháp kiểm soát.",
+   "gloss_vi": "biện pháp kiểm soát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Control measures</i> (noun) = biện pháp kiểm soát. <b>Collocations / chunks</b>: cụm danh từ cố định <i>control measures</i>.",
+   "example": {
+    "en": "the risks are well known and the necessary <b>control measures</b> are easy to apply",
+    "vi": "Rủi ro đã rõ và các <b>biện pháp kiểm soát</b> cần thiết dễ áp dụng."
+   }
+  },
+  {
+   "word": "competent",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈkɒmpɪtənt/",
+   "def_en": "Having the skills or knowledge to do something well.",
+   "def_vi": "Có năng lực.",
+   "gloss_vi": "có năng lực",
+   "synonyms": "capable <i>(adj. có khả năng)</i>",
+   "antonyms": "incompetent <i>(adj. kém)</i>",
+   "grammar_vi": "<i>Competent</i> (adjective) = có năng lực. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "get help from someone who is <b>competent</b>",
+    "vi": "Nhờ người <b>có năng lực</b> giúp."
+   }
+  },
+  {
+   "word": "hazard",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhæzəd/",
+   "def_en": "Anything that may cause harm.",
+   "def_vi": "Mối nguy.",
+   "gloss_vi": "mối nguy",
+   "synonyms": "danger <i>(n. nguy hiểm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hazard</i> (noun) = mối nguy. <b>Word family</b>: hazardous (adj.).",
+   "example": {
+    "en": "a <b>hazard</b> is anything that may cause harm",
+    "vi": "<b>Mối nguy</b> là bất cứ thứ gì có thể gây hại."
+   }
+  },
+  {
+   "word": "risk",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪsk/",
+   "def_en": "The chance that somebody could be harmed by a hazard.",
+   "def_vi": "Rủi ro.",
+   "gloss_vi": "rủi ro",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Risk</i> (noun) = rủi ro. <b>Collocations / chunks</b>: take a ~; assess the ~s.",
+   "example": {
+    "en": "The <b>risk</b> is the chance, high or low, that somebody could be harmed",
+    "vi": "<b>Rủi ro</b> là khả năng ai đó bị hại bởi các mối nguy."
+   }
+  },
+  {
+   "word": "trip",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/trɪp/",
+   "def_en": "To lose your balance after hitting your foot on something.",
+   "def_vi": "Vấp.",
+   "gloss_vi": "vấp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trip</i> (verb) = vấp. <b>Grammar</b>: động từ.",
+   "example": {
+    "en": "I <b>tripped</b> while I was running for my train and fell flat on my face.",
+    "vi": "Tôi <b>vấp</b> khi chạy bắt tàu và ngã sấp mặt."
+   }
+  },
+  {
+   "word": "slip",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/slɪp/",
+   "def_en": "To slide unintentionally on something wet or smooth.",
+   "def_vi": "Trượt.",
+   "gloss_vi": "trượt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Slip</i> (verb) = trượt. <b>Grammar</b>: động từ.",
+   "example": {
+    "en": "Several people <b>slipped</b> on the icy pavements",
+    "vi": "Vài người <b>trượt</b> trên vỉa hè đóng băng."
+   }
+  },
+  {
+   "word": "stumble",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈstʌmbl/",
+   "def_en": "To put a foot down awkwardly and begin to fall.",
+   "def_vi": "Loạng choạng.",
+   "gloss_vi": "loạng choạng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stumble</i> (verb) = loạng choạng. <b>Grammar</b>: động từ.",
+   "example": {
+    "en": "Running along the beach, she <b>stumbled</b> and fell on to the sand.",
+    "vi": "Chạy dọc bãi biển, cô <b>loạng choạng</b> và ngã xuống cát."
+   }
+  }
+ ]
+}
