@@ -1,0 +1,273 @@
+{
+ "book": "upp",
+ "unit": 23,
+ "title_vi": "Địa lý tự nhiên",
+ "theory_html": "<p><b>A. Geographical features</b><br><i>A. Đặc điểm địa lý</i></p> <p>‘the’: no for countries, individual mountains, islands, lakes (<b>France, Mount Everest, Sicily, Lake Erie</b>); yes for plural countries, mountain chains, groups of islands, rivers, oceans, seas, gulfs/bays/straits, currents (<b>the USA, the Himalayas, the West Indies, the Volga, the Pacific, the Gulf of Mexico, the Strait of Malacca, the Gulf Stream</b>); also <b>the Japan of today</b>.</p><p><i>Quy tắc dùng <b>the</b> với địa danh.</i></p> <p><b>B. Geographical features in Iceland</b><br><i>B. Địa lý Iceland</i></p> <p><b>landscape, barren plains, mountains, active volcanoes, thermal springs, geysers, crops, economy, area, population, capital</b>.</p><p><i><b>đồng bằng cằn cỗi, núi lửa đang hoạt động, suối nước nóng, mạch nước phun, cây trồng</b>.</i></p> <p><b>C. The sea, rivers and mountains</b><br><i>C. Biển, sông và núi</i></p> <p><b>coast, shore, beach; valley, gorge, stream; foot, ridge, peak, summit, glacier</b>.</p><p><i><b>bờ biển, hẻm núi, suối; chân núi, sống núi, đỉnh, chóp, sông băng</b>.</i></p>",
+ "items": [
+  {
+   "word": "mountain chain",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈmaʊntən tʃeɪn/",
+   "def_en": "A line of mountains.",
+   "def_vi": "Dãy núi nối tiếp.",
+   "gloss_vi": "dãy núi",
+   "synonyms": "mountain range <i>(np. dãy núi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mountain chain</i> (noun phrase) = dãy núi. <b>Grammar</b>: dãy núi có <i>the</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The Himalayas is a <b>mountain chain</b>, so it takes ‘the’.",
+    "vi": "Dãy Himalaya là một <b>dãy núi</b> nên có ‘the’."
+   }
+  },
+  {
+   "word": "gulf",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɡʌlf/",
+   "def_en": "A large area of sea partly surrounded by land.",
+   "def_vi": "Vùng biển lớn được đất bao một phần.",
+   "gloss_vi": "vịnh (lớn)",
+   "synonyms": "bay <i>(n. vịnh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gulf</i> (noun) = vịnh (lớn). <b>Grammar</b>: có <i>the</i>.",
+   "example": {
+    "en": "<b>the Gulf</b> of Mexico",
+    "vi": "<b>Vịnh</b> Mexico."
+   }
+  },
+  {
+   "word": "strait",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/streɪt/",
+   "def_en": "A narrow area of sea connecting two larger seas.",
+   "def_vi": "Vùng biển hẹp nối hai biển lớn.",
+   "gloss_vi": "eo biển",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Strait</i> (noun) = eo biển. <b>Grammar</b>: có <i>the</i>.",
+   "example": {
+    "en": "the <b>Strait</b> of Malacca",
+    "vi": "<b>Eo biển</b> Malacca."
+   }
+  },
+  {
+   "word": "current",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkʌrənt/",
+   "def_en": "A movement of water in the sea.",
+   "def_vi": "Dòng chảy của nước biển.",
+   "gloss_vi": "hải lưu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Current</i> (noun) = hải lưu. <b>Grammar</b>: có <i>the</i>. <b>Common mistakes</b>: tính từ = hiện tại.",
+   "ex_kit": true,
+   "example": {
+    "en": "The Gulf Stream is a warm <b>current</b> in the Atlantic.",
+    "vi": "Gulf Stream là một <b>dòng hải lưu</b> ấm ở Đại Tây Dương."
+   }
+  },
+  {
+   "word": "barren",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈbærən/",
+   "def_en": "(Of land) where little grows.",
+   "def_vi": "(Đất) ít cây mọc.",
+   "gloss_vi": "cằn cỗi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "fertile <i>(adj. màu mỡ)</i>",
+   "grammar_vi": "<i>Barren</i> (adjective) = cằn cỗi. <b>Grammar</b>: <i>barren land/plains</i>.",
+   "example": {
+    "en": "The landscape consists largely of <b>barren</b> plains and mountains.",
+    "vi": "Cảnh quan chủ yếu là đồng bằng <b>cằn cỗi</b> và núi."
+   }
+  },
+  {
+   "word": "plain",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pleɪn/",
+   "def_en": "A large area of flat land.",
+   "def_vi": "Vùng đất phẳng rộng.",
+   "gloss_vi": "đồng bằng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Plain</i> (noun) = đồng bằng. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: tính từ = đơn giản.",
+   "example": {
+    "en": "The landscape consists largely of barren <b>plains</b> and mountains.",
+    "vi": "Cảnh quan chủ yếu là <b>đồng bằng</b> cằn cỗi và núi."
+   }
+  },
+  {
+   "word": "active volcano",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌæktɪv vɒlˈkeɪnəʊ/",
+   "def_en": "A volcano that still erupts.",
+   "def_vi": "Núi lửa còn phun trào.",
+   "gloss_vi": "núi lửa đang hoạt động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "extinct volcano <i>(np. núi lửa đã tắt)</i>",
+   "grammar_vi": "<i>Active volcano</i> (noun phrase) = núi lửa đang hoạt động. <b>Grammar</b>: <i>active</i> = vẫn hoạt động.",
+   "example": {
+    "en": "The island has <b>active volcanoes</b>.",
+    "vi": "Hòn đảo có <b>núi lửa đang hoạt động</b>."
+   }
+  },
+  {
+   "word": "thermal",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈθɜːml/",
+   "def_en": "Hot (of water).",
+   "def_vi": "Nóng (về nước).",
+   "gloss_vi": "(thuộc) nhiệt, nóng",
+   "synonyms": "hot <i>(adj. nóng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Thermal</i> (adjective) = (thuộc) nhiệt, nóng. <b>Grammar</b>: <i>thermal springs</i>.",
+   "example": {
+    "en": "The island is known for its <b>thermal</b> springs and geysers.",
+    "vi": "Hòn đảo nổi tiếng với suối nước <b>nóng</b> và mạch nước phun."
+   }
+  },
+  {
+   "word": "geyser",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡiːzə(r)/",
+   "def_en": "A hole in the ground that sends out hot water and steam.",
+   "def_vi": "Lỗ trên mặt đất phun nước nóng và hơi.",
+   "gloss_vi": "mạch nước phun",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Geyser</i> (noun) = mạch nước phun. <b>Grammar</b>: Anh /ˈɡiːzə/.",
+   "example": {
+    "en": "The island is known for its thermal springs and <b>geysers</b>.",
+    "vi": "Hòn đảo nổi tiếng với suối nước nóng và <b>mạch nước phun</b>."
+   }
+  },
+  {
+   "word": "gorge",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɡɔːdʒ/",
+   "def_en": "A valley with very steep sides.",
+   "def_vi": "Thung lũng có sườn rất dốc.",
+   "gloss_vi": "hẻm núi",
+   "synonyms": "canyon <i>(n. hẻm vực)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gorge</i> (noun) = hẻm núi. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The river flows through a deep <b>gorge</b>.",
+    "vi": "Con sông chảy qua một <b>hẻm núi</b> sâu."
+   }
+  },
+  {
+   "word": "stream",
+   "sense": "river",
+   "pos": "noun",
+   "ipa": "/striːm/",
+   "def_en": "A small river.",
+   "def_vi": "Con sông nhỏ.",
+   "gloss_vi": "suối",
+   "synonyms": "brook <i>(n. suối)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stream</i> (noun) = suối. <b>Grammar</b>: đếm được. <b>Common mistakes</b>: cũng là động từ (phát trực tuyến).",
+   "ex_kit": true,
+   "example": {
+    "en": "A small <b>stream</b> runs through the garden.",
+    "vi": "Một <b>con suối</b> nhỏ chảy qua khu vườn."
+   }
+  },
+  {
+   "word": "foot",
+   "sense": "mountain",
+   "pos": "noun",
+   "ipa": "/fʊt/",
+   "def_en": "The bottom of a mountain.",
+   "def_vi": "Phần dưới của ngọn núi.",
+   "gloss_vi": "chân núi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "summit <i>(n. đỉnh)</i>",
+   "grammar_vi": "<i>Foot</i> (noun) = chân núi. <b>Grammar</b>: <i>at the foot of the mountain</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The village is at the <b>foot</b> of the mountain.",
+    "vi": "Ngôi làng nằm dưới <b>chân núi</b>."
+   }
+  },
+  {
+   "word": "ridge",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪdʒ/",
+   "def_en": "A long narrow raised part along the top of mountains.",
+   "def_vi": "Phần cao hẹp dài trên đỉnh núi.",
+   "gloss_vi": "sống núi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ridge</i> (noun) = sống núi. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "We walked along the <b>ridge</b>.",
+    "vi": "Chúng tôi đi bộ dọc <b>sống núi</b>."
+   }
+  },
+  {
+   "word": "peak",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/piːk/",
+   "def_en": "The pointed top of a mountain.",
+   "def_vi": "Đỉnh nhọn của núi.",
+   "gloss_vi": "đỉnh núi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Peak</i> (noun) = đỉnh núi. <b>Grammar</b>: cũng = đỉnh điểm.",
+   "ex_kit": true,
+   "example": {
+    "en": "The mountain <b>peaks</b> were covered in snow.",
+    "vi": "Những <b>đỉnh núi</b> phủ đầy tuyết."
+   }
+  },
+  {
+   "word": "summit",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsʌmɪt/",
+   "def_en": "The highest point of a mountain.",
+   "def_vi": "Điểm cao nhất của núi.",
+   "gloss_vi": "chóp đỉnh",
+   "synonyms": "top <i>(n. đỉnh)</i>",
+   "antonyms": "foot <i>(n. chân núi)</i>",
+   "grammar_vi": "<i>Summit</i> (noun) = chóp đỉnh. <b>Grammar</b>: cũng = hội nghị thượng đỉnh.",
+   "ex_kit": true,
+   "example": {
+    "en": "They reached the <b>summit</b> at midday.",
+    "vi": "Họ lên đến <b>đỉnh</b> lúc trưa."
+   }
+  },
+  {
+   "word": "glacier",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡlæsiə(r)/",
+   "def_en": "A river of ice.",
+   "def_vi": "Dòng sông băng.",
+   "gloss_vi": "sông băng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Glacier</i> (noun) = sông băng. <b>Grammar</b>: Anh /ˈɡlæsiə/.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>glacier</b> is melting faster than ever.",
+    "vi": "<b>Sông băng</b> đang tan nhanh hơn bao giờ hết."
+   }
+  }
+ ]
+}

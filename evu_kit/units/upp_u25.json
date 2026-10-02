@@ -1,0 +1,440 @@
+{
+ "book": "upp",
+ "unit": 25,
+ "title_vi": "Thị trấn và thành phố",
+ "theory_html": "<p><b>A. Describing a city</b><br><i>A. Miêu tả thành phố</i></p> <p><b>city</b> (large, more facilities) vs <b>town</b>. Cork: <b>population, suburbs, traffic system, lively, adventurous exhibitions, contemporary artists, residential districts, picturesque harbour, outskirts</b>.</p><p><i><b>dân số, ngoại ô, hệ thống giao thông, sôi động, táo bạo, đương đại, khu dân cư, đẹp như tranh, vùng ven</b>.</i></p> <p><b>B. Facilities</b><br><i>B. Tiện ích</i></p> <p>Sports (<b>sports centre, skating rink</b>), culture (<b>opera house, concert hall, art gallery</b>), education (<b>adult education centre</b>), catering (<b>take-away, youth hostel</b>), transport (<b>taxi rank, car hire, parking meters</b>), other (<b>health centre, law courts, registry office, citizens’ advice bureau, job centre, department store, garden centre, Town Hall, estate agent, housing estate, industrial estate</b>).</p><p><i><b>trung tâm thể thao, sân trượt băng, nhà hát opera, phòng hòa nhạc, nhà nghỉ thanh niên, đồng hồ đỗ xe, tòa án, phòng hộ tịch, trung tâm việc làm, đại lý bất động sản, khu nhà ở, khu công nghiệp</b>.</i></p> <p><b>C. Problems in cities</b><br><i>C. Vấn đề đô thị</i></p> <p><b>traffic jams (commuters, rush hour), slums (poverty), vandalism, overcrowding, pollution (deterioration in health)</b>.</p><p><i><b>tắc đường, khu ổ chuột, phá hoại tài sản, quá đông, ô nhiễm</b>.</i></p> <p><b>D. Adjectives to describe a city</b><br><i>D. Tính từ miêu tả thành phố</i></p> <p><b>picturesque, historic, spacious, elegant, magnificent, lively, deserted, bustling, packed, filthy, run-down</b>. <b>open spaces</b> (NOT <b>open places</b>).</p><p><i><b>đẹp như tranh, lịch sử, rộng rãi, vắng vẻ, nhộn nhịp, chật cứng, bẩn thỉu, xuống cấp</b>.</i></p>",
+ "items": [
+  {
+   "word": "suburbs",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈsʌbɜːbz/",
+   "def_en": "Areas where people live outside the centre of a city.",
+   "def_vi": "Khu dân cư ngoài trung tâm thành phố.",
+   "gloss_vi": "vùng ngoại ô",
+   "synonyms": "outskirts <i>(pn. vùng ven)</i>",
+   "antonyms": "city centre <i>(np. trung tâm)</i>",
+   "grammar_vi": "<i>Suburbs</i> (plural noun) = vùng ngoại ô. <b>Grammar</b>: <i>suburban</i> (adj.).",
+   "example": {
+    "en": "Many of the <b>suburbs</b> are within walking distance of the centre.",
+    "vi": "Nhiều <b>vùng ngoại ô</b> nằm trong khoảng cách đi bộ đến trung tâm."
+   }
+  },
+  {
+   "word": "traffic system",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈtræfɪk ˌsɪstəm/",
+   "def_en": "The way traffic is organised in a town.",
+   "def_vi": "Cách tổ chức giao thông trong thành phố.",
+   "gloss_vi": "hệ thống giao thông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Traffic system</i> (noun phrase) = hệ thống giao thông. <b>Grammar</b>: <i>one-way system</i>.",
+   "example": {
+    "en": "The one-way <b>traffic system</b> is extremely complicated.",
+    "vi": "<b>Hệ thống giao thông</b> một chiều cực kỳ phức tạp."
+   }
+  },
+  {
+   "word": "adventurous",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ədˈventʃərəs/",
+   "def_en": "New, exciting and unusual.",
+   "def_vi": "Mới, thú vị và khác lạ.",
+   "gloss_vi": "táo bạo",
+   "synonyms": "daring <i>(adj. táo bạo)</i>",
+   "antonyms": "conventional <i>(adj. truyền thống)</i>",
+   "grammar_vi": "<i>Adventurous</i> (adjective) = táo bạo. <b>Grammar</b>: cũng = thích phiêu lưu.",
+   "example": {
+    "en": "It regularly puts on <b>adventurous</b> exhibitions by contemporary artists.",
+    "vi": "Phòng tranh thường tổ chức những triển lãm <b>táo bạo</b>."
+   }
+  },
+  {
+   "word": "contemporary",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kənˈtemprəri/",
+   "def_en": "Belonging to the present time.",
+   "def_vi": "Thuộc thời hiện tại.",
+   "gloss_vi": "đương đại",
+   "synonyms": "modern <i>(adj. hiện đại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Contemporary</i> (adjective) = đương đại. <b>Grammar</b>: cũng = cùng thời.",
+   "example": {
+    "en": "Exhibitions by <b>contemporary</b> artists.",
+    "vi": "Triển lãm của các nghệ sĩ <b>đương đại</b>."
+   }
+  },
+  {
+   "word": "residential",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌrezɪˈdenʃl/",
+   "def_en": "(Of an area) where people live.",
+   "def_vi": "(Khu vực) nơi người ta sống.",
+   "gloss_vi": "(thuộc) dân cư",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "industrial <i>(adj. công nghiệp)</i>",
+   "grammar_vi": "<i>Residential</i> (adjective) = (thuộc) dân cư. <b>Grammar</b>: <i>resident</i> (n.).",
+   "example": {
+    "en": "The fashionable <b>residential</b> districts of Cork city overlook the picturesque harbour.",
+    "vi": "Các khu <b>dân cư</b> sang trọng nhìn ra bến cảng đẹp như tranh."
+   }
+  },
+  {
+   "word": "picturesque",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌpɪktʃəˈresk/",
+   "def_en": "Very pretty and attractive.",
+   "def_vi": "Rất đẹp và hấp dẫn.",
+   "gloss_vi": "đẹp như tranh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Picturesque</i> (adjective) = đẹp như tranh. <b>Grammar</b>: /ˌpɪktʃəˈresk/.",
+   "example": {
+    "en": "The residential districts overlook the <b>picturesque</b> harbour.",
+    "vi": "Các khu dân cư nhìn ra bến cảng <b>đẹp như tranh</b>."
+   }
+  },
+  {
+   "word": "skating rink",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈskeɪtɪŋ rɪŋk/",
+   "def_en": "A place for ice skating.",
+   "def_vi": "Nơi trượt băng.",
+   "gloss_vi": "sân trượt băng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Skating rink</i> (noun phrase) = sân trượt băng. <b>Grammar</b>: <i>ice rink</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The town has a swimming pool and a <b>skating rink</b>.",
+    "vi": "Thị trấn có hồ bơi và <b>sân trượt băng</b>."
+   }
+  },
+  {
+   "word": "opera house",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈɒprə haʊs/",
+   "def_en": "A theatre for opera.",
+   "def_vi": "Nhà hát dành cho opera.",
+   "gloss_vi": "nhà hát opera",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Opera house</i> (noun phrase) = nhà hát opera. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The Sydney <b>Opera House</b> is world-famous.",
+    "vi": "<b>Nhà hát opera</b> Sydney nổi tiếng thế giới."
+   }
+  },
+  {
+   "word": "concert hall",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈkɒnsət hɔːl/",
+   "def_en": "A building for concerts.",
+   "def_vi": "Tòa nhà để hòa nhạc.",
+   "gloss_vi": "phòng hòa nhạc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Concert hall</i> (noun phrase) = phòng hòa nhạc. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The new <b>concert hall</b> holds 2,000 people.",
+    "vi": "<b>Phòng hòa nhạc</b> mới chứa được 2.000 người."
+   }
+  },
+  {
+   "word": "youth hostel",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈjuːθ ˌhɒstl/",
+   "def_en": "Cheap accommodation, especially for young travellers.",
+   "def_vi": "Chỗ ở rẻ, nhất là cho du khách trẻ.",
+   "gloss_vi": "nhà nghỉ thanh niên",
+   "synonyms": "hostel <i>(n. nhà trọ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Youth hostel</i> (noun phrase) = nhà nghỉ thanh niên. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "We stayed in a <b>youth hostel</b> to save money.",
+    "vi": "Chúng tôi ở <b>nhà nghỉ thanh niên</b> để tiết kiệm tiền."
+   }
+  },
+  {
+   "word": "car hire",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈkɑː haɪə(r)/",
+   "def_en": "A service that lends cars for money.",
+   "def_vi": "Dịch vụ cho thuê xe.",
+   "gloss_vi": "thuê ô tô",
+   "synonyms": "car rental <i>(np. thuê xe (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Car hire</i> (noun phrase) = thuê ô tô. <b>Grammar</b>: Anh–Anh.",
+   "ex_kit": true,
+   "example": {
+    "en": "There’s a <b>car hire</b> desk at the airport.",
+    "vi": "Sân bay có quầy <b>thuê ô tô</b>."
+   }
+  },
+  {
+   "word": "parking meter",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈpɑːkɪŋ ˌmiːtə(r)/",
+   "def_en": "A machine where you pay to park in the street.",
+   "def_vi": "Máy trả tiền đỗ xe trên phố.",
+   "gloss_vi": "đồng hồ tính tiền đỗ xe",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Parking meter</i> (noun phrase) = đồng hồ tính tiền đỗ xe. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "Remember to put money in the <b>parking meter</b>.",
+    "vi": "Nhớ bỏ tiền vào <b>đồng hồ đỗ xe</b>."
+   }
+  },
+  {
+   "word": "registry office",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈredʒɪstri ˌɒfɪs/",
+   "def_en": "An office where marriages, births and deaths are recorded.",
+   "def_vi": "Văn phòng đăng ký kết hôn, khai sinh, khai tử.",
+   "gloss_vi": "phòng hộ tịch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Registry office</i> (noun phrase) = phòng hộ tịch. <b>Grammar</b>: Anh–Anh.",
+   "ex_kit": true,
+   "example": {
+    "en": "They got married at the <b>registry office</b>, not in a church.",
+    "vi": "Họ cưới ở <b>phòng hộ tịch</b>, không phải nhà thờ."
+   }
+  },
+  {
+   "word": "job centre",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈdʒɒb ˌsentə(r)/",
+   "def_en": "A government office that helps people find work.",
+   "def_vi": "Cơ quan nhà nước giúp tìm việc.",
+   "gloss_vi": "trung tâm việc làm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Job centre</i> (noun phrase) = trung tâm việc làm. <b>Grammar</b>: Anh–Anh.",
+   "ex_kit": true,
+   "example": {
+    "en": "He went to the <b>job centre</b> to look for work.",
+    "vi": "Anh ấy đến <b>trung tâm việc làm</b> để tìm việc."
+   }
+  },
+  {
+   "word": "estate agent",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ɪˈsteɪt ˌeɪdʒənt/",
+   "def_en": "A person or company that sells and rents houses.",
+   "def_vi": "Người hay công ty bán và cho thuê nhà.",
+   "gloss_vi": "đại lý bất động sản",
+   "synonyms": "realtor <i>(n. môi giới nhà (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Estate agent</i> (noun phrase) = đại lý bất động sản. <b>Grammar</b>: Anh–Anh.",
+   "ex_kit": true,
+   "example": {
+    "en": "We sold our house through an <b>estate agent</b>.",
+    "vi": "Chúng tôi bán nhà qua <b>đại lý bất động sản</b>."
+   }
+  },
+  {
+   "word": "housing estate",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈhaʊzɪŋ ɪˌsteɪt/",
+   "def_en": "An area with a large number of houses built together.",
+   "def_vi": "Khu vực nhiều nhà xây cùng lúc.",
+   "gloss_vi": "khu nhà ở",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Housing estate</i> (noun phrase) = khu nhà ở. <b>Grammar</b>: <i>on a housing estate</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "They live on a new <b>housing estate</b> on the edge of town.",
+    "vi": "Họ sống ở một <b>khu nhà ở</b> mới ven thị trấn."
+   }
+  },
+  {
+   "word": "industrial estate",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ɪnˌdʌstriəl ɪˈsteɪt/",
+   "def_en": "An area with factories and businesses.",
+   "def_vi": "Khu có nhà máy và doanh nghiệp.",
+   "gloss_vi": "khu công nghiệp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Industrial estate</i> (noun phrase) = khu công nghiệp. <b>Grammar</b>: Anh–Anh.",
+   "ex_kit": true,
+   "example": {
+    "en": "The factory is on the <b>industrial estate</b>.",
+    "vi": "Nhà máy nằm trong <b>khu công nghiệp</b>."
+   }
+  },
+  {
+   "word": "commuter",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəˈmjuːtə(r)/",
+   "def_en": "A person who travels a long distance to work every day.",
+   "def_vi": "Người đi làm xa mỗi ngày.",
+   "gloss_vi": "người đi làm hằng ngày",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Commuter</i> (noun) = người đi làm hằng ngày. <b>Grammar</b>: <i>commute</i> (v.).",
+   "example": {
+    "en": "Traffic is very slow; <b>commuters</b> get very stressed.",
+    "vi": "<b>Người đi làm</b> rất căng thẳng vì tắc đường."
+   }
+  },
+  {
+   "word": "slum",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/slʌm/",
+   "def_en": "An area of housing in a bad condition.",
+   "def_vi": "Khu nhà ở xuống cấp.",
+   "gloss_vi": "khu ổ chuột",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Slum</i> (noun) = khu ổ chuột. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "<b>slums</b> – housing in a bad condition – poverty",
+    "vi": "<b>Khu ổ chuột</b> là nhà ở trong tình trạng tồi tệ do nghèo đói."
+   }
+  },
+  {
+   "word": "vandalism",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈvændəlɪzəm/",
+   "def_en": "Pointless destruction of property.",
+   "def_vi": "Phá hoại tài sản vô cớ.",
+   "gloss_vi": "sự phá hoại của công",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Vandalism</i> (noun) = sự phá hoại của công. <b>Grammar</b>: <i>vandal</i> (người).",
+   "example": {
+    "en": "<b>vandalism</b> – pointless destruction of property – poverty; lack of hope",
+    "vi": "<b>Phá hoại tài sản</b> là phá hoại vô nghĩa do nghèo đói và thiếu hy vọng."
+   }
+  },
+  {
+   "word": "overcrowding",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌəʊvəˈkraʊdɪŋ/",
+   "def_en": "Too many people living in one place.",
+   "def_vi": "Quá nhiều người sống ở một chỗ.",
+   "gloss_vi": "tình trạng quá đông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Overcrowding</i> (noun) = tình trạng quá đông. <b>Grammar</b>: <i>overcrowded</i> (adj.).",
+   "example": {
+    "en": "<b>overcrowding</b> – difficult living conditions – too many people living in one place",
+    "vi": "<b>Quá đông</b> gây điều kiện sống khó khăn."
+   }
+  },
+  {
+   "word": "spacious",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈspeɪʃəs/",
+   "def_en": "With plenty of space.",
+   "def_vi": "Có nhiều không gian.",
+   "gloss_vi": "rộng rãi",
+   "synonyms": "roomy <i>(adj. rộng)</i>",
+   "antonyms": "cramped <i>(adj. chật chội)</i>",
+   "grammar_vi": "<i>Spacious</i> (adjective) = rộng rãi. <b>Grammar</b>: <i>space</i> → <i>spacious</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The city has <b>spacious</b> squares.",
+    "vi": "Thành phố có những quảng trường <b>rộng rãi</b>."
+   }
+  },
+  {
+   "word": "deserted",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dɪˈzɜːtɪd/",
+   "def_en": "With no one on the streets, e.g. at night.",
+   "def_vi": "Không có ai trên phố, ví dụ ban đêm.",
+   "gloss_vi": "vắng tanh",
+   "synonyms": "empty <i>(adj. trống)</i>",
+   "antonyms": "bustling <i>(adj. nhộn nhịp)</i>",
+   "grammar_vi": "<i>Deserted</i> (adjective) = vắng tanh. <b>Grammar</b>: <i>desert</i> (v.) = bỏ rơi.",
+   "ex_kit": true,
+   "example": {
+    "en": "Late at night the streets are <b>deserted</b>.",
+    "vi": "Đêm khuya phố xá <b>vắng tanh</b>."
+   }
+  },
+  {
+   "word": "bustling",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈbʌslɪŋ/",
+   "def_en": "With lots of movement.",
+   "def_vi": "Nhiều người qua lại.",
+   "gloss_vi": "nhộn nhịp",
+   "synonyms": "busy <i>(adj. đông)</i>",
+   "antonyms": "deserted <i>(adj. vắng)</i>",
+   "grammar_vi": "<i>Bustling</i> (adjective) = nhộn nhịp. <b>Grammar</b>: <i>bustling with people</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The market is always <b>bustling</b> with people.",
+    "vi": "Chợ luôn <b>nhộn nhịp</b> người."
+   }
+  },
+  {
+   "word": "filthy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈfɪlθi/",
+   "def_en": "Very dirty.",
+   "def_vi": "Rất bẩn.",
+   "gloss_vi": "bẩn thỉu",
+   "synonyms": "dirty <i>(adj. bẩn)</i>",
+   "antonyms": "clean <i>(adj. sạch)</i>",
+   "grammar_vi": "<i>Filthy</i> (adjective) = bẩn thỉu. <b>Grammar</b>: tính từ mạnh.",
+   "ex_kit": true,
+   "example": {
+    "en": "The streets behind the market were <b>filthy</b>.",
+    "vi": "Những con phố sau chợ <b>bẩn thỉu</b>."
+   }
+  },
+  {
+   "word": "run-down",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌrʌn ˈdaʊn/",
+   "def_en": "In a very bad condition.",
+   "def_vi": "Trong tình trạng rất tệ.",
+   "gloss_vi": "xuống cấp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Run-down</i> (adjective) = xuống cấp. <b>Grammar</b>: có gạch nối trước danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "This area used to be <b>run-down</b> but now it’s fashionable.",
+    "vi": "Khu vực này trước đây <b>xuống cấp</b> nhưng giờ rất sành điệu."
+   }
+  }
+ ]
+}
