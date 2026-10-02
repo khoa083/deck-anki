@@ -1,0 +1,280 @@
+{
+ "book": "gva",
+ "unit": 19,
+ "title_vi": "Câu tường thuật",
+ "theory_html": "<p><b>2.1. Structures in the reported clause: that-clause</b><br><i>2.1. Cấu trúc mệnh đề tường thuật: that</i></p> <p>verb + that (<b>reckon</b>); verb + object + that (<b>convince, tell</b>); verb + (object) + that (<b>warn</b>); <b>tell</b> + object + that vs <b>say</b> (+ to + object) + that; verb + that or verb + object + to-infinitive (<b>find</b>); verb + (to/with + object) + that (<b>admit, agree</b>). <b>that</b> often left out with common verbs (<b>reckon, say, tell, think</b>), but not when the clause doesn't immediately follow the verb.</p><p><i>Các mẫu với <b>that</b>; <b>tell sb that</b> / <b>say (to sb) that</b>; có thể bỏ <b>that</b> khi mệnh đề đứng ngay sau động từ.</i></p> <p><b>2.2. Structures in the reported clause: to-infinitive and -ing</b><br><i>2.2. Cấu trúc với to V và V-ing</i></p> <p>verb + to-inf (<b>decide</b>); verb + object + to-inf (<b>encourage</b>); verb + (object) + to-inf (<b>expect</b>); verb + to-inf or that (<b>promise</b>); verb + object + to-inf or object + that (<b>advise</b>); verb + -ing or that (<b>suggest</b>, not <b>suggest to</b>).</p><p><i><b>decide to</b>, <b>encourage sb to</b>, <b>promise to / that</b>, <b>advise sb to</b>, <b>suggest + V-ing / that</b>.</i></p> <p><b>2.3. Verb tenses in reporting</b><br><i>2.3. Thì trong câu tường thuật</i></p> <p>Tenses often move back; past perfect doesn't change; present tense possible for a situation that still exists; present simple reporting verb for current news/views or what many people say.</p><p><i>Lùi thì; quá khứ hoàn thành giữ nguyên; tình huống còn đúng có thể giữ hiện tại.</i></p> <p><b>2.4. Modal verbs in reporting</b><br><i>2.4. Động từ khuyết thiếu khi tường thuật</i></p> <p><b>will → would, can → could, may → might</b>; no change with a present reporting verb for current/future situations; <b>shall → would</b> (future) / <b>should</b> (suggestions, advice); <b>must</b> → <b>must / had to</b>; <b>could, should, would, might, ought to, used to</b> don't change.</p><p><i>will→would, can→could, may→might, shall→would/should, must→had to.</i></p> <p><b>2.5. Reporting questions</b><br><i>2.5. Tường thuật câu hỏi</i></p> <p><b>asked what … were</b> or <b>asked (for) our views</b>; <b>wanted to know if/whether</b>; statement word order, no question mark or <b>do</b>; negative <b>do</b> for negative questions; <b>who Sue Ray was / who was Sue Ray</b>; <b>what to do</b> for <b>should</b> questions, but not for <b>why</b>.</p><p><i>Trật tự câu trần thuật; <b>what to do</b> thay <b>what should we do</b>; không <b>why to</b>.</i></p>",
+ "items": [
+  {
+   "word": "reporting verb",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/rɪˈpɔːtɪŋ vɜːb/",
+   "def_en": "A verb used to report what people think or have said.",
+   "def_vi": "Động từ dùng để tường thuật lời nói, suy nghĩ.",
+   "gloss_vi": "động từ tường thuật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reporting verb</i> (structure) = động từ tường thuật. <b>Grammar</b>: mệnh đề tường thuật + mệnh đề được tường thuật.",
+   "example": {
+    "en": "Mr Kelly <b>announced</b> that there would be a public enquiry.",
+    "vi": "Ông Kelly <b>thông báo</b> rằng sẽ có điều tra công khai."
+   }
+  },
+  {
+   "word": "reckon that",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈrekən ðæt/",
+   "def_en": "Verb + that-clause: to think or believe something.",
+   "def_vi": "Cho rằng.",
+   "gloss_vi": "cho rằng",
+   "synonyms": "think <i>(v. nghĩ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reckon that</i> (structure) = cho rằng. <b>Grammar</b>: có thể bỏ <i>that</i>.",
+   "example": {
+    "en": "Sue <b>reckoned that</b> the expansion would damage tourism",
+    "vi": "Sue <b>cho rằng</b> việc mở rộng sẽ hại du lịch."
+   }
+  },
+  {
+   "word": "convince sb that",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/kənˈvɪns ... ðæt/",
+   "def_en": "Verb + object + that: to make someone believe something.",
+   "def_vi": "Thuyết phục ai rằng.",
+   "gloss_vi": "thuyết phục ai rằng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Convince sb that</i> (structure) = thuyết phục ai rằng. <b>Grammar</b>: bắt buộc có tân ngữ.",
+   "example": {
+    "en": "He <b>convinced me that</b> noise wouldn't be a problem for us.",
+    "vi": "Ông ấy <b>thuyết phục tôi rằng</b> tiếng ồn không thành vấn đề."
+   }
+  },
+  {
+   "word": "warn (sb) that",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/wɔːn ... ðæt/",
+   "def_en": "Verb + (object) + that: to tell someone about a possible danger.",
+   "def_vi": "Cảnh báo (ai) rằng.",
+   "gloss_vi": "cảnh báo rằng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Warn (sb) that</i> (structure) = cảnh báo rằng. <b>Grammar</b>: tân ngữ tùy chọn.",
+   "example": {
+    "en": "She <b>warned (us) that</b> the airport authorities were not telling the truth.",
+    "vi": "Bà ấy <b>cảnh báo (chúng tôi) rằng</b> nhà chức trách sân bay không nói thật."
+   }
+  },
+  {
+   "word": "tell sb that",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/tel ... ðæt/",
+   "def_en": "Tell + object + that (tell needs an object).",
+   "def_vi": "tell + tân ngữ + that.",
+   "gloss_vi": "bảo ai rằng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tell sb that</i> (structure) = bảo ai rằng. <b>Grammar</b>: so sánh <i>say (to us) that</i>.",
+   "example": {
+    "en": "They <b>told us that</b> the expansion would create around 2,000 jobs.",
+    "vi": "Họ <b>bảo chúng tôi rằng</b> dự án sẽ tạo 2.000 việc làm."
+   }
+  },
+  {
+   "word": "say (to sb) that",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/seɪ tə ... ðæt/",
+   "def_en": "Say + (to + object) + that.",
+   "def_vi": "say + (to + tân ngữ) + that.",
+   "gloss_vi": "nói (với ai) rằng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Say (to sb) that</i> (structure) = nói (với ai) rằng. <b>Grammar</b>: không <i>said us</i>.",
+   "example": {
+    "en": "They <b>said (to us) that</b> it might increase tourism in the region.",
+    "vi": "Họ <b>nói (với chúng tôi) rằng</b> nó có thể tăng du lịch."
+   }
+  },
+  {
+   "word": "find sth to be",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/faɪnd ... tə bi/",
+   "def_en": "Verb + object + to-infinitive (more formal than find that).",
+   "def_vi": "Thấy cái gì là (trang trọng).",
+   "gloss_vi": "thấy là",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Find sth to be</i> (structure) = thấy là. <b>Grammar</b>: = <i>found that his reassurances were…</i>.",
+   "example": {
+    "en": "I found his reassurances <b>to be</b> quite convincing.",
+    "vi": "Tôi <b>thấy</b> lời trấn an của ông ấy <b>khá</b> thuyết phục."
+   }
+  },
+  {
+   "word": "admit (to sb) that",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ədˈmɪt tə ... ðæt/",
+   "def_en": "Verb + (to + object) + that: to agree that something is true, often unwillingly.",
+   "def_vi": "Thừa nhận (với ai) rằng.",
+   "gloss_vi": "thừa nhận rằng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "deny <i>(v. phủ nhận)</i>",
+   "grammar_vi": "<i>Admit (to sb) that</i> (structure) = thừa nhận rằng. <b>Grammar</b>: <i>agree (with sb) that</i>; không bỏ <i>that</i> khi không đứng ngay sau động từ.",
+   "example": {
+    "en": "They <b>admitted (to us) that</b> they're not sure exactly how many people it will attract",
+    "vi": "Họ <b>thừa nhận (với chúng tôi) rằng</b> họ không chắc bao nhiêu người đến."
+   }
+  },
+  {
+   "word": "promise to",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈprɒmɪs tə/",
+   "def_en": "Verb + to-infinitive or verb + that.",
+   "def_vi": "Hứa làm gì / hứa rằng.",
+   "gloss_vi": "hứa sẽ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Promise to</i> (structure) = hứa sẽ. <b>Grammar</b>: = <i>They promised that they would keep us informed.</i>.",
+   "example": {
+    "en": "They <b>promised to</b> keep us informed.",
+    "vi": "Họ <b>hứa sẽ</b> cập nhật cho chúng tôi."
+   }
+  },
+  {
+   "word": "advise sb to",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ədˈvaɪz ... tə/",
+   "def_en": "Verb + object + to-infinitive or verb + object + that.",
+   "def_vi": "Khuyên ai làm gì.",
+   "gloss_vi": "khuyên ai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Advise sb to</i> (structure) = khuyên ai. <b>Grammar</b>: = <i>advised us that we should write…</i>.",
+   "example": {
+    "en": "She <b>advised us to</b> write to our local politicians with our objections.",
+    "vi": "Bà ấy <b>khuyên chúng tôi</b> viết thư cho chính trị gia địa phương."
+   }
+  },
+  {
+   "word": "suggest doing",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/səˈdʒest ˈduːɪŋ/",
+   "def_en": "Suggest + -ing or suggest + that (not suggest + to-infinitive).",
+   "def_vi": "Đề xuất làm gì.",
+   "gloss_vi": "đề xuất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Suggest doing</i> (structure) = đề xuất. <b>Grammar</b>: = <i>suggested that we should invite</i>; không <i>suggested to invite</i>.",
+   "example": {
+    "en": "She <b>suggested inviting</b> the Minister for Transport to hear our complaints.",
+    "vi": "Bà ấy <b>đề xuất mời</b> Bộ trưởng Giao thông."
+   }
+  },
+  {
+   "word": "change the tense",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/tʃeɪndʒ ðə ˈtens/",
+   "def_en": "Changing the tense of the original words when reporting.",
+   "def_vi": "Lùi thì khi tường thuật.",
+   "gloss_vi": "lùi thì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Change the tense</i> (structure) = lùi thì. <b>Grammar</b>: quá khứ hoàn thành giữ nguyên; còn đúng → giữ hiện tại.",
+   "example": {
+    "en": "She warned that the airport authorities <b>were not telling</b> the truth.",
+    "vi": "'The airport authorities are not telling the truth' → Bà ấy cảnh báo họ <b>không nói</b> thật."
+   }
+  },
+  {
+   "word": "I hear that",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/aɪ ˈhɪə ðæt/",
+   "def_en": "Present simple reporting verb for current news or views.",
+   "def_vi": "Động từ tường thuật ở hiện tại cho tin tức hiện tại.",
+   "gloss_vi": "nghe nói",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>I hear that</i> (structure) = nghe nói. <b>Grammar</b>: cũng điều mọi người hay nói: <i>Everyone … thinks it's awful.</i>.",
+   "example": {
+    "en": "<b>I hear that</b> Boeing 737s will be landing there.",
+    "vi": "<b>Tôi nghe nói</b> máy bay Boeing 737 sẽ hạ cánh ở đó."
+   }
+  },
+  {
+   "word": "will → would",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/wɪl ... wʊd/",
+   "def_en": "Modal changes in reporting: will → would, can → could, may → might.",
+   "def_vi": "Đổi động từ khuyết thiếu khi tường thuật.",
+   "gloss_vi": "đổi will → would",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Will → would</i> (structure) = đổi will → would. <b>Grammar</b>: <i>shall</i> → <i>would</i> / <i>should</i>; <i>must</i> → <i>had to</i>; <i>could, should, would, might, ought to, used to</i> giữ nguyên.",
+   "example": {
+    "en": "They said it <b>might</b> increase tourism in the region.",
+    "vi": "'It may increase tourism' → Họ nói nó <b>có thể</b> tăng du lịch."
+   }
+  },
+  {
+   "word": "asked what ... were",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈɑːskt wɒt ... wɜː(r)/",
+   "def_en": "A reported wh-question uses statement word order, no question mark, no do.",
+   "def_vi": "Câu hỏi tường thuật dùng trật tự câu trần thuật.",
+   "gloss_vi": "hỏi… là gì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Asked what ... were</i> (structure) = hỏi… là gì. <b>Grammar</b>: hoặc <i>asked (for) our views</i>.",
+   "example": {
+    "en": "They <b>asked what our views were</b>.",
+    "vi": "Họ <b>hỏi quan điểm của chúng tôi là gì</b>."
+   }
+  },
+  {
+   "word": "wanted to know if",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈwɒntɪd tə nəʊ ɪf/",
+   "def_en": "Used to report a yes/no question.",
+   "def_vi": "Tường thuật câu hỏi có/không.",
+   "gloss_vi": "muốn biết liệu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wanted to know if</i> (structure) = muốn biết liệu. <b>Grammar</b>: <i>if/whether</i>.",
+   "example": {
+    "en": "They <b>wanted to know if/whether</b> we had any more questions.",
+    "vi": "Họ <b>muốn biết liệu</b> chúng tôi còn câu hỏi không."
+   }
+  },
+  {
+   "word": "what to do",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/wɒt tə duː/",
+   "def_en": "A to-infinitive to report a should-question asking for advice.",
+   "def_vi": "to V để tường thuật câu hỏi với should.",
+   "gloss_vi": "nên làm gì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>What to do</i> (structure) = nên làm gì. <b>Grammar</b>: không dùng cho <i>why</i>: không <i>why to believe</i>.",
+   "example": {
+    "en": "Someone asked Sue <b>what to do</b> to protest.",
+    "vi": "Có người hỏi Sue <b>nên làm gì</b> để phản đối."
+   }
+  }
+ ]
+}
