@@ -1,0 +1,344 @@
+{
+ "book": "upp",
+ "unit": 6,
+ "title_vi": "Thời tiết",
+ "theory_html": "<p><b>A. Cold weather</b><br><i>A. Thời tiết lạnh</i></p> <p><b>daytime temperatures, late autumn, misty, foggy, damp, frost, icy roads, severe weather; people expect bad weather and try not to freeze; the ground starts to thaw and the ice melts.</b></p><p><i><b>ban ngày, cuối (thu), có sương mù, ẩm, sương giá, khắc nghiệt, đóng băng, tan băng, tan chảy</b>.</i></p> <p><b>B. Warm/hot weather</b><br><i>B. Thời tiết ấm/nóng</i></p> <p><b>tropical, stifling, muggy, humid, boiling hot, heatwaves</b>.</p><p><i><b>nhiệt đới, ngột ngạt, oi bức, ẩm, nóng như thiêu, đợt nắng nóng</b>.</i></p> <p><b>C. Wet weather</b><br><i>C. Thời tiết ẩm ướt</i></p> <p>Scale: <b>shower → heavy rain → pour down / downpour → torrential rain → flood</b>; <b>overcast; drought</b>.</p><p><i><b>mưa rào → mưa to → mưa như trút → mưa xối xả → lũ; u ám; hạn hán</b>.</i></p> <p><b>D. Wind</b><br><i>D. Gió</i></p> <p><b>a gentle breeze → a strong/high wind → a gale → a hurricane</b>. <b>weather</b> is uncountable (<b>bad weather</b>, NOT <b>a bad weather</b>).</p><p><i><b>gió nhẹ → gió mạnh → gió bão → bão lớn</b>.</i></p>",
+ "items": [
+  {
+   "word": "daytime",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈdeɪtaɪm/",
+   "def_en": "During the day.",
+   "def_vi": "Trong ban ngày.",
+   "gloss_vi": "ban ngày",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "night-time <i>(adj. ban đêm)</i>",
+   "grammar_vi": "<i>Daytime</i> (adjective) = ban ngày. <b>Grammar</b>: dùng trước danh từ: <i>daytime temperatures</i>.",
+   "example": {
+    "en": "In Northern Europe, <b>daytime</b> temperatures are often quite mild.",
+    "vi": "Ở Bắc Âu, nhiệt độ <b>ban ngày</b> thường khá ôn hòa."
+   }
+  },
+  {
+   "word": "late",
+   "sense": "period",
+   "pos": "adjective",
+   "ipa": "/leɪt/",
+   "def_en": "Towards the end of a period of time.",
+   "def_vi": "Gần cuối một khoảng thời gian.",
+   "gloss_vi": "cuối (giai đoạn)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "early <i>(adj. đầu)</i>",
+   "grammar_vi": "<i>Late</i> (adjective) = cuối (giai đoạn). <b>Grammar</b>: <i>late autumn / the late 1990s</i>.",
+   "example": {
+    "en": "Daytime temperatures are often quite mild, even in <b>late</b> autumn.",
+    "vi": "Nhiệt độ thường ôn hòa, kể cả vào <b>cuối</b> mùa thu."
+   }
+  },
+  {
+   "word": "misty",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈmɪsti/",
+   "def_en": "With clouds of small drops of water in the air, making it hard to see far.",
+   "def_vi": "Có sương mỏng khiến khó nhìn xa.",
+   "gloss_vi": "có sương mù",
+   "synonyms": "foggy <i>(adj. có sương mù)</i>",
+   "antonyms": "clear <i>(adj. quang đãng)</i>",
+   "grammar_vi": "<i>Misty</i> (adjective) = có sương mù. <b>Grammar</b>: <i>mist</i> (n.) + <i>-y</i>.",
+   "example": {
+    "en": "The days are often <b>misty</b>, foggy and damp.",
+    "vi": "Ngày thường <b>có sương mù</b> và ẩm."
+   }
+  },
+  {
+   "word": "frost",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/frɒst/",
+   "def_en": "A thin white layer of ice on surfaces when it is very cold.",
+   "def_vi": "Lớp băng mỏng trắng trên bề mặt khi rất lạnh.",
+   "gloss_vi": "sương giá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Frost</i> (noun) = sương giá. <b>Grammar</b>: không đếm được. <b>Word family</b>: <i>frosty</i> (adj.).",
+   "example": {
+    "en": "Soon, winter arrives, with <b>frost</b>, icy roads and severe weather.",
+    "vi": "Mùa đông đến với <b>sương giá</b> và đường đóng băng."
+   }
+  },
+  {
+   "word": "severe",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/sɪˈvɪə(r)/",
+   "def_en": "Extremely bad.",
+   "def_vi": "Cực kỳ tệ.",
+   "gloss_vi": "khắc nghiệt",
+   "synonyms": "harsh <i>(adj. khắc nghiệt)</i>",
+   "antonyms": "mild <i>(adj. ôn hòa)</i>",
+   "grammar_vi": "<i>Severe</i> (adjective) = khắc nghiệt. <b>Grammar</b>: <i>severe weather/winter</i>.",
+   "example": {
+    "en": "Winter arrives, with frost, icy roads and <b>severe</b> weather.",
+    "vi": "Mùa đông đến với sương giá và thời tiết <b>khắc nghiệt</b>."
+   }
+  },
+  {
+   "word": "freeze",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/friːz/",
+   "def_en": "To be very cold; to become ice.",
+   "def_vi": "Rất lạnh; đóng thành băng.",
+   "gloss_vi": "lạnh cóng, đóng băng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "thaw <i>(v. tan băng)</i>",
+   "grammar_vi": "<i>Freeze</i> (verb) = lạnh cóng, đóng băng. <b>Grammar</b>: <i>freeze – froze – frozen</i>.",
+   "example": {
+    "en": "They try and keep warm so they don’t <b>freeze</b>!",
+    "vi": "Mọi người cố giữ ấm để không bị <b>lạnh cóng</b>!"
+   }
+  },
+  {
+   "word": "thaw",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/θɔː/",
+   "def_en": "To change from a hard, frozen state to a softer state.",
+   "def_vi": "Chuyển từ đông cứng sang mềm hơn.",
+   "gloss_vi": "tan băng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "freeze <i>(v. đóng băng)</i>",
+   "grammar_vi": "<i>Thaw</i> (verb) = tan băng. <b>Grammar</b>: cũng là danh từ <i>a thaw</i>.",
+   "example": {
+    "en": "The ground starts to <b>thaw</b> and the ice melts again.",
+    "vi": "Mặt đất bắt đầu <b>tan băng</b> và băng tan chảy."
+   }
+  },
+  {
+   "word": "melt",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/melt/",
+   "def_en": "To change from solid to liquid under heat.",
+   "def_vi": "Chuyển từ rắn sang lỏng khi nóng.",
+   "gloss_vi": "tan chảy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "freeze <i>(v. đóng băng)</i>",
+   "grammar_vi": "<i>Melt</i> (verb) = tan chảy. <b>Grammar</b>: nội và ngoại động từ.",
+   "example": {
+    "en": "The ground starts to thaw and the ice <b>melts</b> again.",
+    "vi": "Mặt đất bắt đầu tan băng và băng <b>tan chảy</b>."
+   }
+  },
+  {
+   "word": "tropical",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈtrɒpɪkl/",
+   "def_en": "Very hot, as in countries near the Equator.",
+   "def_vi": "Rất nóng, như các nước gần xích đạo.",
+   "gloss_vi": "nhiệt đới",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tropical</i> (adjective) = nhiệt đới. <b>Grammar</b>: <i>the tropics</i> (n.).",
+   "example": {
+    "en": "In a <b>tropical</b> climate, the weather is often stifling.",
+    "vi": "Ở khí hậu <b>nhiệt đới</b>, thời tiết thường ngột ngạt."
+   }
+  },
+  {
+   "word": "stifling",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈstaɪflɪŋ/",
+   "def_en": "Hot and uncomfortable, so you can hardly breathe.",
+   "def_vi": "Nóng khó chịu đến khó thở.",
+   "gloss_vi": "ngột ngạt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stifling</i> (adjective) = ngột ngạt. <b>Grammar</b>: <i>stifle</i> (v.) = làm ngạt.",
+   "example": {
+    "en": "In a tropical climate, the weather is often <b>stifling</b>, muggy and humid.",
+    "vi": "Ở khí hậu nhiệt đới, thời tiết thường <b>ngột ngạt</b>, oi bức và ẩm."
+   }
+  },
+  {
+   "word": "muggy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈmʌɡi/",
+   "def_en": "Very warm and a little damp.",
+   "def_vi": "Rất ấm và hơi ẩm.",
+   "gloss_vi": "oi bức",
+   "synonyms": "humid <i>(adj. ẩm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Muggy</i> (adjective) = oi bức. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "The weather is often stifling, <b>muggy</b> and humid.",
+    "vi": "Thời tiết thường ngột ngạt, <b>oi bức</b> và ẩm."
+   }
+  },
+  {
+   "word": "heatwave",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhiːtweɪv/",
+   "def_en": "A very hot, dry period.",
+   "def_vi": "Đợt nóng khô kéo dài.",
+   "gloss_vi": "đợt nắng nóng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "cold snap <i>(np. đợt rét)</i>",
+   "grammar_vi": "<i>Heatwave</i> (noun) = đợt nắng nóng. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "In other hot climates, <b>heatwaves</b> may be common.",
+    "vi": "Ở vùng khí hậu nóng khác, <b>đợt nắng nóng</b> có thể phổ biến."
+   }
+  },
+  {
+   "word": "downpour",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdaʊnpɔː(r)/",
+   "def_en": "A lot of rain in a short time.",
+   "def_vi": "Mưa nhiều trong thời gian ngắn.",
+   "gloss_vi": "trận mưa như trút",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Downpour</i> (noun) = trận mưa như trút. <b>Grammar</b>: danh từ của <i>pour down</i>.",
+   "example": {
+    "en": "There was a real <b>downpour</b>.",
+    "vi": "Hôm qua có một <b>trận mưa như trút</b> thật sự."
+   }
+  },
+  {
+   "word": "pour down",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌpɔː ˈdaʊn/",
+   "def_en": "To rain very heavily.",
+   "def_vi": "Mưa rất to.",
+   "gloss_vi": "mưa như trút",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pour down</i> (phrasal verb) = mưa như trút. <b>Grammar</b>: chủ ngữ <i>it</i>.",
+   "example": {
+    "en": "It was absolutely <b>pouring down</b> yesterday.",
+    "vi": "Hôm qua trời <b>mưa như trút</b>."
+   }
+  },
+  {
+   "word": "torrential rain",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/təˌrenʃl ˈreɪn/",
+   "def_en": "Extremely heavy rain.",
+   "def_vi": "Mưa cực to.",
+   "gloss_vi": "mưa xối xả",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Torrential rain</i> (noun phrase) = mưa xối xả. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "In Malaysia there is usually <b>torrential rain</b> most days.",
+    "vi": "Ở Malaysia thường có <b>mưa xối xả</b> hầu như mỗi ngày."
+   }
+  },
+  {
+   "word": "flooded",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈflʌdɪd/",
+   "def_en": "Covered with water.",
+   "def_vi": "Bị nước ngập.",
+   "gloss_vi": "bị ngập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flooded</i> (adjective) = bị ngập. <b>Grammar</b>: <i>flood</i> (n./v.).",
+   "example": {
+    "en": "The roads sometimes get <b>flooded</b>.",
+    "vi": "Đường sá đôi khi <b>bị ngập</b>."
+   }
+  },
+  {
+   "word": "overcast",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌəʊvəˈkɑːst/",
+   "def_en": "Very cloudy.",
+   "def_vi": "Rất nhiều mây.",
+   "gloss_vi": "u ám",
+   "synonyms": "cloudy <i>(adj. nhiều mây)</i>",
+   "antonyms": "clear <i>(adj. quang)</i>",
+   "grammar_vi": "<i>Overcast</i> (adjective) = u ám. <b>Grammar</b>: dùng cho bầu trời.",
+   "example": {
+    "en": "The sky’s a bit <b>overcast</b>; I think it’s going to rain.",
+    "vi": "Trời hơi <b>u ám</b>; tôi nghĩ sắp mưa."
+   }
+  },
+  {
+   "word": "gentle breeze",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌdʒentl ˈbriːz/",
+   "def_en": "A light pleasant wind.",
+   "def_vi": "Gió nhẹ dễ chịu.",
+   "gloss_vi": "gió nhẹ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "gale <i>(n. gió bão)</i>",
+   "grammar_vi": "<i>Gentle breeze</i> (noun phrase) = gió nhẹ. <b>Grammar</b>: <i>gentle</i> = nhẹ nhàng.",
+   "example": {
+    "en": "There was a <b>gentle breeze</b> on the beach, just enough to cool us.",
+    "vi": "Có <b>gió nhẹ</b> trên bãi biển, vừa đủ làm mát."
+   }
+  },
+  {
+   "word": "high wind",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌhaɪ ˈwɪnd/",
+   "def_en": "A very strong wind.",
+   "def_vi": "Gió rất mạnh.",
+   "gloss_vi": "gió mạnh",
+   "synonyms": "strong wind <i>(np. gió mạnh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>High wind</i> (noun phrase) = gió mạnh. <b>Grammar</b>: <i>high/strong wind</i> (không <i>big wind</i>).",
+   "example": {
+    "en": "There was a very strong/<b>high wind</b> and my umbrella blew away.",
+    "vi": "Có <b>gió</b> rất <b>mạnh</b> và ô của tôi bị thổi bay."
+   }
+  },
+  {
+   "word": "gale",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɡeɪl/",
+   "def_en": "A very high wind.",
+   "def_vi": "Gió rất mạnh.",
+   "gloss_vi": "gió bão",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "breeze <i>(n. gió nhẹ)</i>",
+   "grammar_vi": "<i>Gale</i> (noun) = gió bão. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "There was a <b>gale</b> that day, so we didn’t go sailing.",
+    "vi": "Hôm đó có <b>gió bão</b>, nên chúng tôi không đi thuyền."
+   }
+  },
+  {
+   "word": "hurricane",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhʌrɪkən/",
+   "def_en": "An extremely high, dangerous wind.",
+   "def_vi": "Gió cực mạnh nguy hiểm.",
+   "gloss_vi": "bão lớn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hurricane</i> (noun) = bão lớn. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "People stayed indoors because there was a <b>hurricane</b> on the way.",
+    "vi": "Mọi người ở trong nhà vì có <b>bão</b> sắp đến."
+   }
+  }
+ ]
+}

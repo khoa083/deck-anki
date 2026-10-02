@@ -1,0 +1,438 @@
+{
+ "book": "upp",
+ "unit": 5,
+ "title_vi": "Quốc gia, quốc tịch và ngôn ngữ",
+ "theory_html": "<p><b>A. Using ‘the’</b><br><i>A. Dùng ‘the’</i></p> <p>Most countries without <b>the</b>, but <b>the United States / the US(A), the United Kingdom / the UK, the Netherlands, the Philippines, the United Arab Emirates / the UAE, the European Union / the EU, the Commonwealth</b>.</p><p><i>Phần lớn tên nước không có <b>the</b>; một số có <b>the</b>.</i></p> <p><b>B. Adjectives referring to people, countries and languages</b><br><i>B. Tính từ chỉ người, nước, ngôn ngữ</i></p> <p><b>-ish</b> (British, Flemish, Danish), <b>-(i)an</b> (Brazilian, Latvian), <b>-ese</b> (Vietnamese, Maltese), <b>-i</b> (Israeli, Kuwaiti), <b>-ic</b> (Icelandic, Slavonic); learn separately: <b>Swiss, Thai, Greek, Dutch, Cypriot</b>.</p><p><i>Các hậu tố tính từ quốc tịch.</i></p> <p><b>C. Nationalities</b><br><i>C. Quốc tịch</i></p> <p>Nouns for people: <b>a Finn, a Swede, a Turk, a Spaniard, a Dane, a Briton, an Arab, a Pole</b>; adjective as noun: <b>a German, an Italian</b>; add <b>man/woman/person</b>: <b>a Dutch man, an Irish person</b> (NOT <b>a Dutch</b>).</p><p><i>Danh từ chỉ người; thêm <b>man/woman/person</b> khi cần.</i></p> <p><b>D. World regions</b><br><i>D. Các vùng trên thế giới</i></p> <p><b>the Arctic, the Antarctic / Antarctica, the Mediterranean, the Atlantic, the Pacific, the Indian Ocean, Central America, East Asia, Southern Africa</b>.</p><p><i><b>Bắc Cực, Nam Cực, Địa Trung Hải, Đại Tây Dương, Thái Bình Dương, Ấn Độ Dương, Trung Mỹ, Đông Á, Nam Phi</b>.</i></p> <p><b>E. Regional groups and ethnic groups</b><br><i>E. Nhóm vùng miền và sắc tộc</i></p> <p><b>ethnic groups, regional groups</b> (African-Caribbean, Asian, Scandinavian); <b>dialects; native language / first language / mother tongue; second and third languages; bilingual, multilingual, monolingual</b>.</p><p><i><b>nhóm sắc tộc, phương ngữ, tiếng mẹ đẻ, song ngữ, đa ngữ, đơn ngữ</b>.</i></p>",
+ "items": [
+  {
+   "word": "the Netherlands",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ðə ˈneðələndz/",
+   "def_en": "A country in north-west Europe (Holland).",
+   "def_vi": "Nước ở tây bắc châu Âu (Hà Lan).",
+   "gloss_vi": "Hà Lan",
+   "synonyms": "Holland <i>(pn. Hà Lan)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The Netherlands</i> (plural noun) = Hà Lan. <b>Grammar</b>: luôn có <i>the</i>. <b>Word family</b>: <i>Dutch</i> (adj.).",
+   "example": {
+    "en": "Some countries have ‘the’ before them, e.g. <b>the Netherlands</b>.",
+    "vi": "Một số nước có ‘the’ phía trước, ví dụ <b>Hà Lan</b>."
+   }
+  },
+  {
+   "word": "the Commonwealth",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ðə ˈkɒmənwelθ/",
+   "def_en": "An organisation of countries that were once part of the British Empire.",
+   "def_vi": "Tổ chức các nước từng thuộc Đế quốc Anh.",
+   "gloss_vi": "Khối Thịnh vượng chung",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The Commonwealth</i> (plural noun) = Khối Thịnh vượng chung. <b>Grammar</b>: luôn có <i>the</i>.",
+   "example": {
+    "en": "Some other names have ‘the’ before them, e.g. <b>the Commonwealth</b>.",
+    "vi": "Một số tên có ‘the’ phía trước, ví dụ <b>Khối Thịnh vượng chung</b>."
+   }
+  },
+  {
+   "word": "Flemish",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈflemɪʃ/",
+   "def_en": "From Flanders, the Dutch-speaking part of Belgium.",
+   "def_vi": "Thuộc vùng Flanders nói tiếng Hà Lan của Bỉ.",
+   "gloss_vi": "(người/tiếng) Flemish",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flemish</i> (adjective) = (người/tiếng) Flemish. <b>Grammar</b>: hậu tố <i>-ish</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Flemish</b> is spoken in the north of Belgium.",
+    "vi": "<b>Tiếng Flemish</b> được nói ở miền bắc nước Bỉ."
+   }
+  },
+  {
+   "word": "Maltese",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌmɔːlˈtiːz/",
+   "def_en": "From Malta.",
+   "def_vi": "Thuộc Malta.",
+   "gloss_vi": "(người/tiếng) Malta",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Maltese</i> (adjective) = (người/tiếng) Malta. <b>Grammar</b>: hậu tố <i>-ese</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He speaks both English and <b>Maltese</b>.",
+    "vi": "Anh ấy nói được cả tiếng Anh lẫn <b>tiếng Malta</b>."
+   }
+  },
+  {
+   "word": "Slavonic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/sləˈvɒnɪk/",
+   "def_en": "Relating to the Slavic languages, e.g. Russian and Polish.",
+   "def_vi": "Thuộc nhóm ngôn ngữ Slav như Nga, Ba Lan.",
+   "gloss_vi": "(thuộc) nhóm Slav",
+   "synonyms": "Slavic <i>(adj. thuộc Slav)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Slavonic</i> (adjective) = (thuộc) nhóm Slav. <b>Grammar</b>: hậu tố <i>-ic</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Russian and Polish are <b>Slavonic</b> languages.",
+    "vi": "Tiếng Nga và tiếng Ba Lan là ngôn ngữ <b>Slav</b>."
+   }
+  },
+  {
+   "word": "Dutch",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dʌtʃ/",
+   "def_en": "From the Netherlands.",
+   "def_vi": "Thuộc Hà Lan.",
+   "gloss_vi": "(người/tiếng) Hà Lan",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dutch</i> (adjective) = (người/tiếng) Hà Lan. <b>Grammar</b>: người: <i>a Dutch man/woman</i> (không <i>a Dutch</i>).",
+   "example": {
+    "en": "You can’t say ‘a Dutch’, so if in doubt, use a <b>Dutch</b> man.",
+    "vi": "Không thể nói ‘a Dutch’, nên hãy nói ‘một người đàn ông <b>Hà Lan</b>’."
+   }
+  },
+  {
+   "word": "Cypriot",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsɪpriət/",
+   "def_en": "From Cyprus.",
+   "def_vi": "Thuộc Síp.",
+   "gloss_vi": "(người) Síp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cypriot</i> (adjective) = (người) Síp. <b>Grammar</b>: cũng là danh từ: <i>a Cypriot</i>.",
+   "example": {
+    "en": "Some adjectives are worth learning separately, e.g. Swiss, Thai, Greek, Dutch, <b>Cypriot</b>.",
+    "vi": "Một số tính từ nên học riêng, ví dụ Swiss, Thai, <b>Cypriot</b>."
+   }
+  },
+  {
+   "word": "a Finn",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ə ˈfɪn/",
+   "def_en": "A person from Finland.",
+   "def_vi": "Người Phần Lan.",
+   "gloss_vi": "người Phần Lan",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A Finn</i> (noun phrase) = người Phần Lan. <b>Grammar</b>: danh từ riêng chỉ người; tính từ <i>Finnish</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She’s <b>a Finn</b> who lives in Helsinki.",
+    "vi": "Cô ấy là <b>người Phần Lan</b> sống ở Helsinki."
+   }
+  },
+  {
+   "word": "a Swede",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ə ˈswiːd/",
+   "def_en": "A person from Sweden.",
+   "def_vi": "Người Thụy Điển.",
+   "gloss_vi": "người Thụy Điển",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A Swede</i> (noun phrase) = người Thụy Điển. <b>Grammar</b>: tính từ <i>Swedish</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Her husband is <b>a Swede</b>.",
+    "vi": "Chồng cô ấy là <b>người Thụy Điển</b>."
+   }
+  },
+  {
+   "word": "a Spaniard",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ə ˈspænjəd/",
+   "def_en": "A person from Spain.",
+   "def_vi": "Người Tây Ban Nha.",
+   "gloss_vi": "người Tây Ban Nha",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A Spaniard</i> (noun phrase) = người Tây Ban Nha. <b>Grammar</b>: tính từ <i>Spanish</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>A Spaniard</b> won the race.",
+    "vi": "Một <b>người Tây Ban Nha</b> đã thắng cuộc đua."
+   }
+  },
+  {
+   "word": "a Dane",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ə ˈdeɪn/",
+   "def_en": "A person from Denmark.",
+   "def_vi": "Người Đan Mạch.",
+   "gloss_vi": "người Đan Mạch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A Dane</i> (noun phrase) = người Đan Mạch. <b>Grammar</b>: tính từ <i>Danish</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "My flatmate is <b>a Dane</b>.",
+    "vi": "Bạn cùng phòng của tôi là <b>người Đan Mạch</b>."
+   }
+  },
+  {
+   "word": "a Briton",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ə ˈbrɪtn/",
+   "def_en": "A person from Britain.",
+   "def_vi": "Người Anh.",
+   "gloss_vi": "người Anh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A Briton</i> (noun phrase) = người Anh. <b>Grammar</b>: chủ yếu dùng trên báo; tính từ <i>British</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Two <b>Britons</b> were injured in the accident.",
+    "vi": "Hai <b>người Anh</b> bị thương trong vụ tai nạn."
+   }
+  },
+  {
+   "word": "a Pole",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ə ˈpəʊl/",
+   "def_en": "A person from Poland.",
+   "def_vi": "Người Ba Lan.",
+   "gloss_vi": "người Ba Lan",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A Pole</i> (noun phrase) = người Ba Lan. <b>Grammar</b>: tính từ <i>Polish</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Many <b>Poles</b> live and work in the UK.",
+    "vi": "Nhiều <b>người Ba Lan</b> sống và làm việc ở Anh."
+   }
+  },
+  {
+   "word": "the Arctic",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ði ˈɑːktɪk/",
+   "def_en": "The area around the North Pole.",
+   "def_vi": "Vùng quanh Bắc Cực.",
+   "gloss_vi": "Bắc Cực",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "the Antarctic <i>(pn. Nam Cực)</i>",
+   "grammar_vi": "<i>The Arctic</i> (plural noun) = Bắc Cực. <b>Grammar</b>: luôn có <i>the</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Polar bears live in <b>the Arctic</b>.",
+    "vi": "Gấu Bắc Cực sống ở <b>Bắc Cực</b>."
+   }
+  },
+  {
+   "word": "Antarctica",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ænˈtɑːktɪkə/",
+   "def_en": "The continent around the South Pole.",
+   "def_vi": "Lục địa quanh Nam Cực.",
+   "gloss_vi": "châu Nam Cực",
+   "synonyms": "the Antarctic <i>(pn. Nam Cực)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Antarctica</i> (plural noun) = châu Nam Cực. <b>Grammar</b>: không có <i>the</i>; <i>the Antarctic</i> có <i>the</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Antarctica</b> is covered in ice.",
+    "vi": "<b>Châu Nam Cực</b> được bao phủ bởi băng."
+   }
+  },
+  {
+   "word": "the Mediterranean",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ðə ˌmedɪtəˈreɪniən/",
+   "def_en": "The sea between southern Europe and North Africa.",
+   "def_vi": "Biển giữa Nam Âu và Bắc Phi.",
+   "gloss_vi": "Địa Trung Hải",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The Mediterranean</i> (plural noun) = Địa Trung Hải. <b>Grammar</b>: cũng là tính từ: <i>a Mediterranean climate</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We went on a cruise around <b>the Mediterranean</b>.",
+    "vi": "Chúng tôi đi du thuyền quanh <b>Địa Trung Hải</b>."
+   }
+  },
+  {
+   "word": "the Indian Ocean",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ði ˌɪndiən ˈəʊʃn/",
+   "def_en": "The ocean between Africa, Asia and Australia.",
+   "def_vi": "Đại dương giữa châu Phi, châu Á và Úc.",
+   "gloss_vi": "Ấn Độ Dương",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The Indian Ocean</i> (plural noun) = Ấn Độ Dương. <b>Grammar</b>: có <i>the</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The Maldives are in <b>the Indian Ocean</b>.",
+    "vi": "Maldives nằm ở <b>Ấn Độ Dương</b>."
+   }
+  },
+  {
+   "word": "ethnic group",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈeθnɪk ɡruːp/",
+   "def_en": "A group of people with the same culture or origins.",
+   "def_vi": "Nhóm người cùng văn hóa hay nguồn gốc.",
+   "gloss_vi": "nhóm sắc tộc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ethnic group</i> (noun phrase) = nhóm sắc tộc. <b>Grammar</b>: <i>ethnic</i> (adj.) /ˈeθnɪk/.",
+   "example": {
+    "en": "People belong to <b>ethnic groups</b> and regional groups.",
+    "vi": "Mọi người thuộc về <b>nhóm sắc tộc</b> và nhóm vùng miền."
+   }
+  },
+  {
+   "word": "African-Caribbean",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌæfrɪkən kærɪˈbiːən/",
+   "def_en": "Of African origin and from the Caribbean.",
+   "def_vi": "Gốc Phi đến từ vùng Caribe.",
+   "gloss_vi": "gốc Phi – Caribe",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>African-Caribbean</i> (adjective) = gốc Phi – Caribe. <b>Grammar</b>: dùng như tính từ hoặc danh từ đếm được.",
+   "example": {
+    "en": "People belong to groups such as <b>African-Caribbean</b>, Asian, Latin American.",
+    "vi": "Mọi người thuộc các nhóm như <b>gốc Phi – Caribe</b>, châu Á, Mỹ Latinh."
+   }
+  },
+  {
+   "word": "Scandinavian",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌskændɪˈneɪviən/",
+   "def_en": "From Norway, Sweden, Denmark (or Finland, Iceland).",
+   "def_vi": "Thuộc Na Uy, Thụy Điển, Đan Mạch (hay Phần Lan, Iceland).",
+   "gloss_vi": "(thuộc) Bắc Âu",
+   "synonyms": "Nordic <i>(adj. Bắc Âu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Scandinavian</i> (adjective) = (thuộc) Bắc Âu. <b>Grammar</b>: <i>Scandinavia</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Scandinavian</b> design is very popular.",
+    "vi": "Thiết kế <b>Bắc Âu</b> rất phổ biến."
+   }
+  },
+  {
+   "word": "Asian",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈeɪʒn/",
+   "def_en": "From Asia.",
+   "def_vi": "Thuộc châu Á.",
+   "gloss_vi": "(thuộc) châu Á",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Asian</i> (adjective) = (thuộc) châu Á. <b>Grammar</b>: cũng là danh từ đếm được.",
+   "example": {
+    "en": "Many Europeans enjoy travelling to the Far East to experience <b>Asian</b> cultures.",
+    "vi": "Nhiều người châu Âu thích đến Viễn Đông để trải nghiệm văn hóa <b>châu Á</b>."
+   }
+  },
+  {
+   "word": "Arabic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈærəbɪk/",
+   "def_en": "Relating to the Arab world or its language.",
+   "def_vi": "Thuộc thế giới Ả Rập hay tiếng Ả Rập.",
+   "gloss_vi": "(thuộc) Ả Rập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Arabic</i> (adjective) = (thuộc) Ả Rập. <b>Grammar</b>: <i>an Arab</i> = người Ả Rập.",
+   "example": {
+    "en": "<b>Arabic</b> culture extends across a vast region of North Africa and the Middle East.",
+    "vi": "Văn hóa <b>Ả Rập</b> trải rộng khắp Bắc Phi và Trung Đông."
+   }
+  },
+  {
+   "word": "dialect",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdaɪəlekt/",
+   "def_en": "A form of a language spoken in a particular area.",
+   "def_vi": "Dạng ngôn ngữ nói ở một vùng.",
+   "gloss_vi": "phương ngữ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dialect</i> (noun) = phương ngữ. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "People speak <b>dialects</b> as well as languages.",
+    "vi": "Người ta nói <b>phương ngữ</b> cũng như ngôn ngữ."
+   }
+  },
+  {
+   "word": "native language",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌneɪtɪv ˈlæŋɡwɪdʒ/",
+   "def_en": "The first language you learn as a child.",
+   "def_vi": "Ngôn ngữ đầu tiên học khi nhỏ.",
+   "gloss_vi": "tiếng mẹ đẻ",
+   "synonyms": "mother tongue <i>(np. tiếng mẹ đẻ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Native language</i> (noun phrase) = tiếng mẹ đẻ. <b>Grammar</b>: = <i>first language</i>.",
+   "example": {
+    "en": "Everyone has a <b>native language</b> or first language.",
+    "vi": "Ai cũng có <b>tiếng mẹ đẻ</b> hay ngôn ngữ thứ nhất."
+   }
+  },
+  {
+   "word": "multilingual",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌmʌltiˈlɪŋɡwəl/",
+   "def_en": "Able to speak several languages.",
+   "def_vi": "Nói được nhiều ngôn ngữ.",
+   "gloss_vi": "đa ngữ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "monolingual <i>(adj. đơn ngữ)</i>",
+   "grammar_vi": "<i>Multilingual</i> (adjective) = đa ngữ. <b>Grammar</b>: <i>multi-</i> = nhiều.",
+   "example": {
+    "en": "Some people are expert in more than one language and are bilingual or <b>multilingual</b>.",
+    "vi": "Một số người giỏi hơn một ngôn ngữ và là người song ngữ hay <b>đa ngữ</b>."
+   }
+  },
+  {
+   "word": "monolingual",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌmɒnəˈlɪŋɡwəl/",
+   "def_en": "Knowing only one language.",
+   "def_vi": "Chỉ biết một ngôn ngữ.",
+   "gloss_vi": "đơn ngữ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "multilingual <i>(adj. đa ngữ)</i>",
+   "grammar_vi": "<i>Monolingual</i> (adjective) = đơn ngữ. <b>Grammar</b>: <i>mono-</i> = một.",
+   "example": {
+    "en": "People who only know one language are <b>monolingual</b>.",
+    "vi": "Người chỉ biết một ngôn ngữ là người <b>đơn ngữ</b>."
+   }
+  }
+ ]
+}

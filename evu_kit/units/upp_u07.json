@@ -1,0 +1,457 @@
+{
+ "book": "upp",
+ "unit": 7,
+ "title_vi": "Miêu tả người: ngoại hình",
+ "theory_html": "<p><b>A. Hair, face, skin and complexion</b><br><i>A. Tóc, mặt, da và nước da</i></p> <p><b>straight / wavy / curly hair; thin-faced / round-faced; a crew-cut; bald; freckles; a beard and moustache; chubby; receding hair; wrinkles; grey; blonde, fair, dark, ginger-haired / red-haired, auburn; get a tan; sunburnt</b>.</p><p><i><b>mặt gầy/tròn, đầu đinh, hói, tàn nhang, râu, mũm mĩm, tóc hói trán, nếp nhăn, tóc đỏ hung, da rám nắng, cháy nắng</b>.</i></p> <p><b>B. Height and build</b><br><i>B. Chiều cao và vóc dáng</i></p> <p><b>plump, stout, a bit overweight, stocky, well-built, muscular, obese; slim (positive), skinny (negative); has a nice figure</b>.</p><p><i><b>mũm mĩm, chắc nịch, vạm vỡ, cơ bắp, béo phì, thon thả, gầy nhom, dáng đẹp</b>.</i></p> <p><b>C. General appearance</b><br><i>C. Vẻ ngoài chung</i></p> <p><b>smart, elegant, well-dressed; scruffy, untidy-looking / messy-looking; stunning; good-looking / unattractive; her best feature; personality; first impressions</b>. <b>-ish</b>: <b>tallish, brownish, thirtyish</b>.</p><p><i><b>thanh lịch, lôi thôi, đẹp lộng lẫy, nét đẹp nhất, tính cách, ấn tượng đầu tiên</b>.</i></p>",
+ "items": [
+  {
+   "word": "complexion",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəmˈplekʃn/",
+   "def_en": "The natural colour and quality of the skin of your face.",
+   "def_vi": "Màu và chất da mặt tự nhiên.",
+   "gloss_vi": "nước da",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Complexion</i> (noun) = nước da. <b>Grammar</b>: <i>a fair/dark complexion</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She has a fair <b>complexion</b>.",
+    "vi": "Cô ấy có <b>nước da</b> trắng."
+   }
+  },
+  {
+   "word": "thin-faced",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌθɪn ˈfeɪst/",
+   "def_en": "Having a thin face.",
+   "def_vi": "Có khuôn mặt gầy.",
+   "gloss_vi": "mặt gầy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "round-faced <i>(adj. mặt tròn)</i>",
+   "grammar_vi": "<i>Thin-faced</i> (adjective) = mặt gầy. <b>Grammar</b>: tính từ ghép <i>-faced</i>.",
+   "example": {
+    "en": "She’s got straight hair and she’s <b>thin-faced</b>.",
+    "vi": "Cô ấy có tóc thẳng và <b>mặt gầy</b>."
+   }
+  },
+  {
+   "word": "round-faced",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌraʊnd ˈfeɪst/",
+   "def_en": "Having a round face.",
+   "def_vi": "Có khuôn mặt tròn.",
+   "gloss_vi": "mặt tròn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "thin-faced <i>(adj. mặt gầy)</i>",
+   "grammar_vi": "<i>Round-faced</i> (adjective) = mặt tròn. <b>Grammar</b>: tính từ ghép <i>-faced</i>.",
+   "example": {
+    "en": "She’s got long, wavy hair and she’s <b>round-faced</b>.",
+    "vi": "Cô ấy có tóc dài gợn sóng và <b>mặt tròn</b>."
+   }
+  },
+  {
+   "word": "crew-cut",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkruː kʌt/",
+   "def_en": "A very short hairstyle.",
+   "def_vi": "Kiểu tóc cắt rất ngắn.",
+   "gloss_vi": "tóc húi cua",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Crew-cut</i> (noun) = tóc húi cua. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "He’s got a <b>crew-cut</b>.",
+    "vi": "Anh ấy để <b>tóc húi cua</b>."
+   }
+  },
+  {
+   "word": "bald",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/bɔːld/",
+   "def_en": "Having no hair on your head.",
+   "def_vi": "Không có tóc trên đầu.",
+   "gloss_vi": "hói",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bald</i> (adjective) = hói. <b>Grammar</b>: <i>go bald</i>. <b>Common mistakes</b>: /bɔːld/.",
+   "example": {
+    "en": "He’s <b>bald</b> and has freckles.",
+    "vi": "Ông ấy <b>hói</b> và có tàn nhang."
+   }
+  },
+  {
+   "word": "freckles",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈfreklz/",
+   "def_en": "Small brown spots on the skin.",
+   "def_vi": "Đốm nâu nhỏ trên da.",
+   "gloss_vi": "tàn nhang",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Freckles</i> (plural noun) = tàn nhang. <b>Grammar</b>: thường số nhiều.",
+   "example": {
+    "en": "He’s bald and has <b>freckles</b>.",
+    "vi": "Ông ấy hói và có <b>tàn nhang</b>."
+   }
+  },
+  {
+   "word": "moustache",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/məˈstɑːʃ/",
+   "def_en": "Hair growing above the top lip.",
+   "def_vi": "Râu mọc trên môi trên.",
+   "gloss_vi": "ria mép",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Moustache</i> (noun) = ria mép. <b>Grammar</b>: Mỹ <i>mustache</i>. <b>Common mistakes</b>: /mʊsˈtɑːʃ/.",
+   "example": {
+    "en": "He’s got a beard and <b>moustache</b>.",
+    "vi": "Ông ấy có râu quai nón và <b>ria mép</b>."
+   }
+  },
+  {
+   "word": "chubby",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈtʃʌbi/",
+   "def_en": "Slightly fat in a pleasant way.",
+   "def_vi": "Hơi mập, dễ thương.",
+   "gloss_vi": "mũm mĩm",
+   "synonyms": "plump <i>(adj. mập mạp)</i>",
+   "antonyms": "thin <i>(adj. gầy)</i>",
+   "grammar_vi": "<i>Chubby</i> (adjective) = mũm mĩm. <b>Grammar</b>: hay dùng cho trẻ em, khuôn mặt.",
+   "example": {
+    "en": "He has a <b>chubby</b> face.",
+    "vi": "Ông ấy có khuôn mặt <b>mũm mĩm</b>."
+   }
+  },
+  {
+   "word": "receding hair",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/rɪˌsiːdɪŋ ˈheə(r)/",
+   "def_en": "Hair that is disappearing from the front of the head.",
+   "def_vi": "Tóc rụng dần từ phía trán.",
+   "gloss_vi": "tóc hói trán",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Receding hair</i> (noun phrase) = tóc hói trán. <b>Grammar</b>: <i>recede</i> (v.) = lùi lại.",
+   "example": {
+    "en": "He’s got <b>receding</b> hair and a few wrinkles.",
+    "vi": "Ông ấy có <b>tóc hói trán</b> và vài nếp nhăn."
+   }
+  },
+  {
+   "word": "wrinkles",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈrɪŋklz/",
+   "def_en": "Lines on the skin, especially of the face, caused by age.",
+   "def_vi": "Đường hằn trên da, nhất là mặt, do tuổi.",
+   "gloss_vi": "nếp nhăn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wrinkles</i> (plural noun) = nếp nhăn. <b>Grammar</b>: số ít <i>a wrinkle</i>. <b>Word family</b>: <i>wrinkled</i> (adj.).",
+   "example": {
+    "en": "He’s got receding hair and a few <b>wrinkles</b>.",
+    "vi": "Ông ấy có tóc hói trán và vài <b>nếp nhăn</b>."
+   }
+  },
+  {
+   "word": "ginger-haired",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌdʒɪndʒə ˈheəd/",
+   "def_en": "Having orange-brown hair.",
+   "def_vi": "Có tóc màu cam nâu.",
+   "gloss_vi": "tóc đỏ hoe",
+   "synonyms": "red-haired <i>(adj. tóc đỏ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ginger-haired</i> (adjective) = tóc đỏ hoe. <b>Grammar</b>: tính từ ghép <i>-haired</i>.",
+   "example": {
+    "en": "What sort of person would you find attractive? Blonde, fair, dark or <b>ginger-haired</b>?",
+    "vi": "Bạn thấy kiểu người nào hấp dẫn? Tóc vàng, nâu nhạt, sẫm hay <b>tóc đỏ hoe</b>?"
+   }
+  },
+  {
+   "word": "auburn",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɔːbən/",
+   "def_en": "(Of hair) red-brown.",
+   "def_vi": "(Tóc) nâu đỏ.",
+   "gloss_vi": "nâu đỏ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Auburn</i> (adjective) = nâu đỏ. <b>Grammar</b>: chỉ dùng cho tóc.",
+   "example": {
+    "en": "She has such beautiful <b>auburn</b> hair.",
+    "vi": "Cô ấy có mái tóc <b>nâu đỏ</b> thật đẹp."
+   }
+  },
+  {
+   "word": "get a tan",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡet ə ˈtæn/",
+   "def_en": "To make your skin darker by sitting in the sun.",
+   "def_vi": "Phơi nắng cho da sạm.",
+   "gloss_vi": "phơi nắng cho da rám",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get a tan</i> (verb phrase) = phơi nắng cho da rám. <b>Grammar</b>: <i>tan</i> (n.); <i>tanned</i> (adj.).",
+   "example": {
+    "en": "Some people like <b>getting a tan</b> in summer.",
+    "vi": "Một số người thích <b>phơi nắng cho da rám</b> vào mùa hè."
+   }
+  },
+  {
+   "word": "sunburnt",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsʌnbɜːnt/",
+   "def_en": "Having red, painful skin from too much sun.",
+   "def_vi": "Da đỏ rát vì nắng.",
+   "gloss_vi": "cháy nắng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sunburnt</i> (adjective) = cháy nắng. <b>Grammar</b>: Mỹ <i>sunburned</i>.",
+   "example": {
+    "en": "The risks of getting <b>sunburnt</b> are well known.",
+    "vi": "Rủi ro bị <b>cháy nắng</b> ai cũng biết."
+   }
+  },
+  {
+   "word": "plump",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/plʌmp/",
+   "def_en": "Slightly fat (polite).",
+   "def_vi": "Hơi mập (lịch sự).",
+   "gloss_vi": "đầy đặn, mập mạp",
+   "synonyms": "chubby <i>(adj. mũm mĩm)</i>",
+   "antonyms": "thin <i>(adj. gầy)</i>",
+   "grammar_vi": "<i>Plump</i> (adjective) = đầy đặn, mập mạp. <b>Grammar</b>: lịch sự hơn <i>fat</i>.",
+   "example": {
+    "en": "Instead we can say that someone is rather <b>plump</b> or stout.",
+    "vi": "Thay vì nói béo, ta có thể nói ai đó khá <b>đầy đặn</b>."
+   }
+  },
+  {
+   "word": "stocky",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈstɒki/",
+   "def_en": "Broad and solid.",
+   "def_vi": "Thấp đậm và chắc.",
+   "gloss_vi": "chắc nịch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stocky</i> (adjective) = chắc nịch. <b>Grammar</b>: thường dùng cho nam.",
+   "example": {
+    "en": "If someone is broad and solid, we can say they are <b>stocky</b>.",
+    "vi": "Nếu ai đó vai rộng và chắc, ta nói họ <b>chắc nịch</b>."
+   }
+  },
+  {
+   "word": "well-built",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌwel ˈbɪlt/",
+   "def_en": "Having a strong, muscular body.",
+   "def_vi": "Có thân hình khỏe, cơ bắp.",
+   "gloss_vi": "vạm vỡ",
+   "synonyms": "muscular <i>(adj. cơ bắp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Well-built</i> (adjective) = vạm vỡ. <b>Grammar</b>: thường cho nam.",
+   "example": {
+    "en": "A person with good muscles can be <b>well-built</b> or muscular.",
+    "vi": "Người có cơ bắp tốt có thể <b>vạm vỡ</b> hay cơ bắp."
+   }
+  },
+  {
+   "word": "obese",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əʊˈbiːs/",
+   "def_en": "Very fat, especially in a medical context.",
+   "def_vi": "Rất béo, nhất là trong y học.",
+   "gloss_vi": "béo phì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Obese</i> (adjective) = béo phì. <b>Grammar</b>: dùng trong y học. <b>Word family</b>: <i>obesity</i> (n.).",
+   "example": {
+    "en": "Someone who is very fat can be described as <b>obese</b>.",
+    "vi": "Người rất béo có thể được mô tả là <b>béo phì</b>."
+   }
+  },
+  {
+   "word": "slim",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/slɪm/",
+   "def_en": "Thin in an attractive way.",
+   "def_vi": "Gầy một cách hấp dẫn.",
+   "gloss_vi": "thon thả",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "plump <i>(adj. mập)</i>",
+   "grammar_vi": "<i>Slim</i> (adjective) = thon thả. <b>Grammar</b>: nghĩa tích cực.",
+   "example": {
+    "en": "Someone who is thin can be described as <b>slim</b>.",
+    "vi": "Người gầy có thể được mô tả là <b>thon thả</b> (tích cực)."
+   }
+  },
+  {
+   "word": "skinny",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈskɪni/",
+   "def_en": "Very thin (negative).",
+   "def_vi": "Rất gầy (tiêu cực).",
+   "gloss_vi": "gầy nhom",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Skinny</i> (adjective) = gầy nhom. <b>Grammar</b>: nghĩa tiêu cực.",
+   "example": {
+    "en": "Someone who is thin can be described as slim or <b>skinny</b>.",
+    "vi": "Người gầy có thể là thon thả hay <b>gầy nhom</b> (tiêu cực)."
+   }
+  },
+  {
+   "word": "have a nice figure",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌhæv ə ˌnaɪs ˈfɪɡə(r)/",
+   "def_en": "To have an attractive body shape.",
+   "def_vi": "Có dáng người đẹp.",
+   "gloss_vi": "có dáng đẹp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have a nice figure</i> (verb phrase) = có dáng đẹp. <b>Grammar</b>: thường dùng cho phụ nữ.",
+   "example": {
+    "en": "If someone <b>has a nice figure</b>, they have an attractive shape.",
+    "vi": "Nếu ai đó <b>có dáng đẹp</b>, họ có thân hình hấp dẫn."
+   }
+  },
+  {
+   "word": "elegant",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈelɪɡənt/",
+   "def_en": "Attractive and stylish.",
+   "def_vi": "Hấp dẫn và có phong cách.",
+   "gloss_vi": "thanh lịch",
+   "synonyms": "stylish <i>(adj. sành điệu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Elegant</i> (adjective) = thanh lịch. <b>Grammar</b>: <i>elegance</i> (n.).",
+   "example": {
+    "en": "She’s a very smart and <b>elegant</b> woman.",
+    "vi": "Cô ấy là người phụ nữ rất chỉn chu và <b>thanh lịch</b>."
+   }
+  },
+  {
+   "word": "scruffy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈskrʌfi/",
+   "def_en": "Dirty and untidy.",
+   "def_vi": "Bẩn và lôi thôi.",
+   "gloss_vi": "lôi thôi",
+   "synonyms": "messy <i>(adj. bừa bộn)</i>",
+   "antonyms": "smart <i>(adj. bảnh bao)</i>",
+   "grammar_vi": "<i>Scruffy</i> (adjective) = lôi thôi. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "Her husband is quite the opposite, very <b>scruffy</b> and untidy-looking.",
+    "vi": "Chồng cô ấy thì ngược lại, rất <b>lôi thôi</b>."
+   }
+  },
+  {
+   "word": "stunning",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈstʌnɪŋ/",
+   "def_en": "Very attractive.",
+   "def_vi": "Rất hấp dẫn.",
+   "gloss_vi": "đẹp lộng lẫy",
+   "synonyms": "gorgeous <i>(adj. lộng lẫy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stunning</i> (adjective) = đẹp lộng lẫy. <b>Grammar</b>: không dùng <i>very stunning</i>.",
+   "example": {
+    "en": "Chloe looked <b>stunning</b> in her red dress.",
+    "vi": "Chloe trông <b>lộng lẫy</b> trong chiếc váy đỏ."
+   }
+  },
+  {
+   "word": "unattractive",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʌnəˈtræktɪv/",
+   "def_en": "Not attractive.",
+   "def_vi": "Không hấp dẫn.",
+   "gloss_vi": "kém hấp dẫn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "attractive <i>(adj. hấp dẫn)</i>",
+   "grammar_vi": "<i>Unattractive</i> (adjective) = kém hấp dẫn. <b>Grammar</b>: lịch sự hơn <i>ugly</i>.",
+   "example": {
+    "en": "He’s very good-looking, but his friend’s rather <b>unattractive</b>.",
+    "vi": "Anh ấy rất đẹp trai, nhưng bạn anh ấy khá <b>kém hấp dẫn</b>."
+   }
+  },
+  {
+   "word": "feature",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfiːtʃə(r)/",
+   "def_en": "A part of the face, especially an attractive one.",
+   "def_vi": "Một phần khuôn mặt, nhất là phần đẹp.",
+   "gloss_vi": "nét (mặt)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Feature</i> (noun) = nét (mặt). <b>Grammar</b>: <i>features</i> = các nét mặt.",
+   "example": {
+    "en": "Her eyes are her best <b>feature</b>.",
+    "vi": "Đôi mắt là <b>nét</b> đẹp nhất của cô ấy."
+   }
+  },
+  {
+   "word": "personality",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpɜːsəˈnæləti/",
+   "def_en": "The type of person you are, shown by your behaviour.",
+   "def_vi": "Kiểu người bạn là, thể hiện qua hành vi.",
+   "gloss_vi": "tính cách",
+   "synonyms": "character <i>(n. tính cách)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Personality</i> (noun) = tính cách. <b>Grammar</b>: đếm được và không đếm được.",
+   "example": {
+    "en": "I think <b>personality</b> matters most.",
+    "vi": "Tôi nghĩ <b>tính cách</b> mới là quan trọng nhất."
+   }
+  },
+  {
+   "word": "first impression",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌfɜːst ɪmˈpreʃn/",
+   "def_en": "Your first reaction to someone.",
+   "def_vi": "Phản ứng đầu tiên với ai.",
+   "gloss_vi": "ấn tượng đầu tiên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>First impression</i> (noun phrase) = ấn tượng đầu tiên. <b>Grammar</b>: <i>make a good first impression</i>.",
+   "example": {
+    "en": "<b>First impressions</b> are always important.",
+    "vi": "<b>Ấn tượng đầu tiên</b> luôn quan trọng."
+   }
+  }
+ ]
+}

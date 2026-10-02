@@ -31,6 +31,13 @@ def check(book=None, units=None):
         u = json.load(open(f, encoding="utf-8"))
         for it in u["items"]:
             k = (it["word"].lower(), it.get("sense", "").lower()); seen[u["book"]][k] = min(seen[u["book"]].get(k, 999), u["unit"])
+    dw = os.path.join(KIT, "tools", "upp_demo_words.json")   # thẻ demo upp (unit 1–4, 80–82)
+    if os.path.exists(dw):
+        for deck, words in json.load(open(dw, encoding="utf-8")).items():
+            m = re.match(r"(\d+)-", deck)
+            if m and int(m.group(1)) > 1 or deck.startswith("01-L"):
+                un = 1 if deck.startswith("01-L") else int(m.group(1))
+                for w in words: seen["upp"][(w.lower(), "")] = min(seen["upp"].get((w.lower(), ""), 999), un)
     nerr = 0
     for f in files:
         u = json.load(open(f, encoding="utf-8")); b = u["book"]; E = BD.validate(u, os.path.basename(f), b); W = []
