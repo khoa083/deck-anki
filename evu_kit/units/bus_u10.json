@@ -1,0 +1,248 @@
+{
+ "book": "bus",
+ "unit": 10,
+ "title_vi": "Doanh nhân và lãnh đạo doanh nghiệp",
+ "theory_html": "<p><b>A. Businesspeople and entrepreneurs</b><br><i>A. Doanh nhân và nhà khởi nghiệp</i></p> <p><b>businessman / businesswoman / businessperson</b> (pl. <b>businesspeople</b>), <b>entrepreneur</b> (e.g. <b>internet entrepreneur</b>), <b>found</b> (regular: <b>founded</b>) / <b>establish</b> (<b>establishment</b>), <b>founder, start-ups, entrepreneurial, grow</b> (a business).</p><p><i><b>doanh nhân, nhà khởi nghiệp, thành lập, người sáng lập, công ty khởi nghiệp, có tinh thần kinh doanh, phát triển (doanh nghiệp)</b>.</i></p> <p><b>B. Leaders and leadership</b><br><i>B. Lãnh đạo</i></p> <p><b>business empire, business leaders, captains of industry</b> (old-fashioned), <b>leadership skills</b>.</p><p><i><b>đế chế kinh doanh, lãnh đạo doanh nghiệp, ông trùm công nghiệp, kỹ năng lãnh đạo</b>.</i></p> <p><b>C. Magnates, moguls and tycoons</b><br><i>C. Ông trùm</i></p> <p><b>magnates, moguls, tycoons</b>: <b>media magnate, property mogul, software tycoon</b>.</p><p><i><b>ông trùm truyền thông, ông trùm bất động sản, ông trùm phần mềm</b>.</i></p>",
+ "items": [
+  {
+   "word": "businessperson",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɪznəspɜːsn/",
+   "def_en": "Someone who works in their own business or as a manager in an organization.",
+   "def_vi": "Người làm kinh doanh riêng hay quản lý trong tổ chức.",
+   "gloss_vi": "doanh nhân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Businessperson</i> (noun) = doanh nhân. <b>Grammar</b>: số nhiều <i>businesspeople</i>; có thể viết tách.",
+   "example": {
+    "en": "A businessman, businesswoman or <b>businessperson</b> is someone who works in their own business or as a manager in an organization.",
+    "vi": "<b>Doanh nhân</b> là người làm kinh doanh riêng hay làm quản lý."
+   }
+  },
+  {
+   "word": "entrepreneur",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɒntrəprəˈnɜː(r)/",
+   "def_en": "Someone who starts their own company.",
+   "def_vi": "Người tự thành lập công ty.",
+   "gloss_vi": "nhà khởi nghiệp, doanh nhân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Entrepreneur</i> (noun) = nhà khởi nghiệp, doanh nhân. <b>Collocations / chunks</b>: <i>internet entrepreneur</i>.",
+   "example": {
+    "en": "An <b>entrepreneur</b> is someone who starts or founds or establishes their own company.",
+    "vi": "<b>Nhà khởi nghiệp</b> là người tự lập công ty."
+   }
+  },
+  {
+   "word": "found",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/faʊnd/",
+   "def_en": "To start (a company).",
+   "def_vi": "Thành lập (công ty).",
+   "gloss_vi": "thành lập",
+   "synonyms": "establish <i>(v. thành lập)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Found</i> (verb) = thành lập. <b>Grammar</b>: có quy tắc <i>found – founded</i> (khác <i>find – found</i>).",
+   "example": {
+    "en": "An entrepreneur is someone who starts or <b>founds</b> or establishes their own company.",
+    "vi": "Nhà khởi nghiệp là người <b>thành lập</b> công ty riêng."
+   }
+  },
+  {
+   "word": "founder",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfaʊndə(r)/",
+   "def_en": "Someone who starts a company.",
+   "def_vi": "Người lập ra công ty.",
+   "gloss_vi": "người sáng lập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Founder</i> (noun) = người sáng lập. <b>Grammar</b>: động từ <i>found</i>.",
+   "example": {
+    "en": "Someone who starts a company is its <b>founder</b>.",
+    "vi": "Người lập công ty là <b>người sáng lập</b> của nó."
+   }
+  },
+  {
+   "word": "establishment",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪˈstæblɪʃmənt/",
+   "def_en": "The act of founding something; a particular organization.",
+   "def_vi": "Việc thành lập; một tổ chức.",
+   "gloss_vi": "sự thành lập; cơ sở",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Establishment</i> (noun) = sự thành lập; cơ sở. <b>Grammar</b>: động từ <i>establish</i>.",
+   "example": {
+    "en": "<b>Establishment</b> is used to talk about the act of founding something as well as a particular organization",
+    "vi": "<b>Sự thành lập</b> chỉ việc lập ra tổ chức."
+   }
+  },
+  {
+   "word": "start-up",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈstɑːt ʌp/",
+   "def_en": "A new company.",
+   "def_vi": "Công ty mới thành lập.",
+   "gloss_vi": "công ty khởi nghiệp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Start-up</i> (noun) = công ty khởi nghiệp. <b>Grammar</b>: danh từ ghép.",
+   "example": {
+    "en": "An entrepreneur may found a series of companies or <b>start-ups</b>.",
+    "vi": "Nhà khởi nghiệp có thể lập hàng loạt <b>công ty khởi nghiệp</b>."
+   }
+  },
+  {
+   "word": "entrepreneurial",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɒntrəprəˈnɜːriəl/",
+   "def_en": "Risk-taking in business (positive).",
+   "def_vi": "Dám mạo hiểm trong kinh doanh (tích cực).",
+   "gloss_vi": "có tinh thần kinh doanh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Entrepreneurial</i> (adjective) = có tinh thần kinh doanh. <b>Grammar</b>: tính từ của <i>entrepreneur</i>.",
+   "example": {
+    "en": "<b>Entrepreneurial</b> is used in a positive way to describe the risk-taking people who do this",
+    "vi": "<b>Có tinh thần kinh doanh</b> dùng theo nghĩa tích cực."
+   }
+  },
+  {
+   "word": "grow",
+   "sense": "develop a business",
+   "pos": "verb",
+   "ipa": "/ɡrəʊ/",
+   "def_en": "To develop and make (a business) bigger.",
+   "def_vi": "Phát triển, mở rộng (doanh nghiệp).",
+   "gloss_vi": "phát triển (doanh nghiệp)",
+   "synonyms": "expand <i>(v. mở rộng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Grow</i> (verb) = phát triển (doanh nghiệp). <b>Grammar</b>: ngoại động từ (vài người cho là không chuẩn).",
+   "example": {
+    "en": "Others may stay to develop and <b>grow</b> their businesses.",
+    "vi": "Những người khác ở lại phát triển và <b>mở rộng</b> doanh nghiệp."
+   }
+  },
+  {
+   "word": "business empire",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɪznəs ˌempaɪə(r)/",
+   "def_en": "A large group of companies mainly owned by one person or family.",
+   "def_vi": "Nhóm công ty lớn chủ yếu của một người hay gia đình.",
+   "gloss_vi": "đế chế kinh doanh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Business empire</i> (noun) = đế chế kinh doanh. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "A large group of companies mainly owned by one person or family is a <b>business empire</b>.",
+    "vi": "Nhóm công ty lớn của một gia đình là <b>đế chế kinh doanh</b>."
+   }
+  },
+  {
+   "word": "business leader",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɪznəs ˌliːdə(r)/",
+   "def_en": "A successful businessperson, especially the head of a large organization.",
+   "def_vi": "Doanh nhân thành đạt, nhất là người đứng đầu tổ chức lớn.",
+   "gloss_vi": "lãnh đạo doanh nghiệp",
+   "synonyms": "captain of industry <i>(n. ông trùm công nghiệp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Business leader</i> (noun) = lãnh đạo doanh nghiệp. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "Successful businesspeople, especially heads of large organizations, are <b>business leaders</b>",
+    "vi": "Doanh nhân thành đạt là <b>lãnh đạo doanh nghiệp</b>."
+   }
+  },
+  {
+   "word": "captain of industry",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkæptɪn əv ˈɪndəstri/",
+   "def_en": "A business leader (slightly old-fashioned, journalistic).",
+   "def_vi": "Lãnh đạo doanh nghiệp (hơi cổ, báo chí).",
+   "gloss_vi": "ông trùm công nghiệp",
+   "synonyms": "business leader <i>(n. lãnh đạo doanh nghiệp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Captain of industry</i> (noun) = ông trùm công nghiệp. <b>Grammar</b>: hơi cổ.",
+   "example": {
+    "en": "or in slightly old-fashioned journalistic terms, <b>captains of industry</b>",
+    "vi": "Báo chí cổ gọi họ là <b>ông trùm công nghiệp</b>."
+   }
+  },
+  {
+   "word": "leadership skills",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈliːdəʃɪp skɪlz/",
+   "def_en": "The ability to lead people.",
+   "def_vi": "Khả năng dẫn dắt người khác.",
+   "gloss_vi": "kỹ năng lãnh đạo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Leadership skills</i> (noun) = kỹ năng lãnh đạo. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "whether people like this are born with <b>leadership skills</b>, or whether these can be taught",
+    "vi": "Người ta bàn liệu <b>kỹ năng lãnh đạo</b> là bẩm sinh hay học được."
+   }
+  },
+  {
+   "word": "magnate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmæɡneɪt/",
+   "def_en": "A person in charge of a big business empire.",
+   "def_vi": "Người đứng đầu đế chế kinh doanh lớn.",
+   "gloss_vi": "ông trùm",
+   "synonyms": "mogul <i>(n. ông trùm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Magnate</i> (noun) = ông trùm. <b>Collocations / chunks</b>: <i>media magnate</i>.",
+   "example": {
+    "en": "<b>media magnate</b>",
+    "vi": "Một <b>ông trùm</b> truyền thông."
+   }
+  },
+  {
+   "word": "mogul",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈməʊɡl/",
+   "def_en": "A person in charge of a big business empire.",
+   "def_vi": "Người đứng đầu đế chế kinh doanh lớn.",
+   "gloss_vi": "ông trùm",
+   "synonyms": "tycoon <i>(n. ông trùm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mogul</i> (noun) = ông trùm. <b>Collocations / chunks</b>: <i>property mogul</i>.",
+   "example": {
+    "en": "<b>property mogul</b>",
+    "vi": "Một <b>ông trùm</b> bất động sản."
+   }
+  },
+  {
+   "word": "tycoon",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/taɪˈkuːn/",
+   "def_en": "A person in charge of a big business empire.",
+   "def_vi": "Người đứng đầu đế chế kinh doanh lớn.",
+   "gloss_vi": "ông trùm",
+   "synonyms": "magnate <i>(n. ông trùm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tycoon</i> (noun) = ông trùm. <b>Collocations / chunks</b>: <i>software tycoon</i>.",
+   "example": {
+    "en": "<b>software tycoon</b>",
+    "vi": "Một <b>ông trùm</b> phần mềm."
+   }
+  }
+ ]
+}

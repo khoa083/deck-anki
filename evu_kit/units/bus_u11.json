@@ -1,0 +1,333 @@
+{
+ "book": "bus",
+ "unit": 11,
+ "title_vi": "Tổ chức 1",
+ "theory_html": "<p><b>A. Business and businesses</b><br><i>A. Kinh doanh và doanh nghiệp</i></p> <p><b>business</b> (activity), <b>a business, company, firm, concern</b> (formal), <b>big business, enterprise, self-employed, small or medium enterprise (SME), multinational, corporation, corporate</b> (<b>culture, ladder, headquarters, logo, image, profits</b>).</p><p><i><b>kinh doanh, doanh nghiệp, công ty, hãng, đại doanh nghiệp, doanh nghiệp vừa và nhỏ, công ty đa quốc gia, tập đoàn; văn hóa/nấc thang/trụ sở/logo/hình ảnh/lợi nhuận doanh nghiệp</b>.</i></p> <p><b>B. Commerce</b><br><i>B. Thương mại</i></p> <p><b>commerce</b>: business in relation to other fields; <b>Department of Commerce</b>; <b>chambers of commerce</b>; <b>electronic commerce / e-commerce</b>; <b>commercial</b> (<b>airline, artist, disaster</b>).</p><p><i><b>thương mại; Bộ Thương mại; phòng thương mại; thương mại điện tử; hãng hàng không thương mại, họa sĩ thương mại, thảm họa thương mại</b>.</i></p> <p><b>C. Enterprise</b><br><i>C. Doanh nghiệp</i></p> <p><b>state-owned / government-owned companies, nationalized, privatized, privatization, bureaucracy, bureaucratic</b>; <b>enterprise</b> (positive): <b>free / private enterprise, enterprise culture, enterprise economy, enterprise zone</b>.</p><p><i><b>công ty nhà nước, quốc hữu hóa, tư nhân hóa, quan liêu; doanh nghiệp tự do/tư nhân, văn hóa kinh doanh, kinh tế doanh nghiệp, đặc khu kinh doanh</b>.</i></p>",
+ "items": [
+  {
+   "word": "firm",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/fɜːm/",
+   "def_en": "A company.",
+   "def_vi": "Công ty.",
+   "gloss_vi": "hãng, công ty",
+   "synonyms": "company <i>(n. công ty)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Firm</i> (noun) = hãng, công ty. <b>Grammar</b>: thường dùng cho công ty dịch vụ.",
+   "example": {
+    "en": "A business, company or <b>firm</b>, or more formally a concern, is an organization that sells goods or services.",
+    "vi": "Doanh nghiệp, công ty hay <b>hãng</b> là tổ chức bán hàng hóa dịch vụ."
+   }
+  },
+  {
+   "word": "concern",
+   "sense": "company",
+   "pos": "noun",
+   "ipa": "/kənˈsɜːn/",
+   "def_en": "A company (formal).",
+   "def_vi": "Công ty (trang trọng).",
+   "gloss_vi": "doanh nghiệp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Concern</i> (noun) = doanh nghiệp. <b>Grammar</b>: trang trọng.",
+   "example": {
+    "en": "or more formally a <b>concern</b>",
+    "vi": "Trang trọng hơn gọi là <b>doanh nghiệp</b>."
+   }
+  },
+  {
+   "word": "big business",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌbɪɡ ˈbɪznəs/",
+   "def_en": "Large companies considered together.",
+   "def_vi": "Các công ty lớn nói chung.",
+   "gloss_vi": "các tập đoàn lớn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Big business</i> (noun) = các tập đoàn lớn. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "Large companies considered together are referred to as <b>big business</b>.",
+    "vi": "Các công ty lớn gộp lại gọi là <b>đại doanh nghiệp</b>."
+   }
+  },
+  {
+   "word": "enterprise",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈentəpraɪz/",
+   "def_en": "A company or activity, emphasizing its risk-taking nature.",
+   "def_vi": "Công ty hay hoạt động, nhấn mạnh tính mạo hiểm.",
+   "gloss_vi": "doanh nghiệp, công cuộc kinh doanh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Enterprise</i> (noun) = doanh nghiệp, công cuộc kinh doanh. <b>Collocations / chunks</b>: <i>free/private enterprise</i>.",
+   "example": {
+    "en": "You can talk about a company or a particular activity as an <b>enterprise</b>, especially to emphasize its risk-taking nature.",
+    "vi": "Có thể gọi công ty là <b>doanh nghiệp</b> để nhấn mạnh tính mạo hiểm."
+   }
+  },
+  {
+   "word": "self-employed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌself ɪmˈplɔɪd/",
+   "def_en": "Working for yourself, not for an employer.",
+   "def_vi": "Tự làm chủ, không làm thuê.",
+   "gloss_vi": "tự kinh doanh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Self-employed</i> (adjective) = tự kinh doanh. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "from the <b>self-employed</b> person working on their own",
+    "vi": "Doanh nghiệp đủ cỡ, từ người <b>tự kinh doanh</b> một mình."
+   }
+  },
+  {
+   "word": "SME",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌes em ˈiː/",
+   "def_en": "A small or medium enterprise.",
+   "def_vi": "Doanh nghiệp vừa và nhỏ.",
+   "gloss_vi": "doanh nghiệp vừa và nhỏ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>SME</i> (noun) = doanh nghiệp vừa và nhỏ. <b>Grammar</b>: viết tắt <i>small or medium enterprise</i>.",
+   "example": {
+    "en": "through the small or medium enterprise (<b>SME</b>) to the large multinational",
+    "vi": "Qua <b>doanh nghiệp vừa và nhỏ</b> đến công ty đa quốc gia lớn."
+   }
+  },
+  {
+   "word": "corporation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkɔːpəˈreɪʃn/",
+   "def_en": "A large company, especially in the US.",
+   "def_vi": "Công ty lớn, nhất là ở Mỹ.",
+   "gloss_vi": "tập đoàn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Corporation</i> (noun) = tập đoàn. <b>Grammar</b>: tính từ <i>corporate</i>.",
+   "example": {
+    "en": "A large company, especially in the US, is a <b>corporation</b>.",
+    "vi": "Công ty lớn, nhất là ở Mỹ, là <b>tập đoàn</b>."
+   }
+  },
+  {
+   "word": "corporate culture",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkɔːpərət ˈkʌltʃə(r)/",
+   "def_en": "The way a company’s employees think and act.",
+   "def_vi": "Cách nhân viên công ty suy nghĩ, hành động.",
+   "gloss_vi": "văn hóa doanh nghiệp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Corporate culture</i> (noun) = văn hóa doanh nghiệp. <b>Collocations / chunks</b>: <i>corporate</i> + <i>culture/ladder/headquarters/logo/image/profits</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>corporate culture</b> here is very open.",
+    "vi": "<b>Văn hóa doanh nghiệp</b> ở đây rất cởi mở."
+   }
+  },
+  {
+   "word": "corporate ladder",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkɔːpərət ˈlædə(r)/",
+   "def_en": "The different levels of management in a company.",
+   "def_vi": "Các cấp quản lý trong công ty.",
+   "gloss_vi": "nấc thang doanh nghiệp",
+   "synonyms": "career ladder <i>(n. nấc thang sự nghiệp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Corporate ladder</i> (noun) = nấc thang doanh nghiệp. <b>Collocations / chunks</b>: <i>climb the corporate ladder</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She climbed the <b>corporate ladder</b> quickly.",
+    "vi": "Cô ấy leo nhanh trên <b>nấc thang doanh nghiệp</b>."
+   }
+  },
+  {
+   "word": "corporate image",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkɔːpərət ˈɪmɪdʒ/",
+   "def_en": "All the ideas and opinions people have about a company.",
+   "def_vi": "Mọi ý kiến người ta có về công ty.",
+   "gloss_vi": "hình ảnh doanh nghiệp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Corporate image</i> (noun) = hình ảnh doanh nghiệp. <b>Collocations / chunks</b>: cụm danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "The scandal damaged the <b>corporate image</b>.",
+    "vi": "Vụ bê bối làm hại <b>hình ảnh doanh nghiệp</b>."
+   }
+  },
+  {
+   "word": "commerce",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɒmɜːs/",
+   "def_en": "Business, especially in relation to other fields.",
+   "def_vi": "Kinh doanh, nhất là khi so với lĩnh vực khác.",
+   "gloss_vi": "thương mại",
+   "synonyms": "trade <i>(n. thương mại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Commerce</i> (noun) = thương mại. <b>Collocations / chunks</b>: <i>chamber of commerce</i>; <i>e-commerce</i>.",
+   "example": {
+    "en": "‘literature, politics and <b>commerce</b>’",
+    "vi": "Văn học, chính trị và <b>thương mại</b>."
+   }
+  },
+  {
+   "word": "chamber of commerce",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌtʃeɪmbər əv ˈkɒmɜːs/",
+   "def_en": "An organization that exists to help business.",
+   "def_vi": "Tổ chức hỗ trợ doanh nghiệp.",
+   "gloss_vi": "phòng thương mại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chamber of commerce</i> (noun) = phòng thương mại. <b>Collocations / chunks</b>: số nhiều <i>chambers of commerce</i>.",
+   "example": {
+    "en": "in the names of organizations that exist to help business: <b>chambers of commerce</b>",
+    "vi": "<b>Phòng thương mại</b> là tổ chức hỗ trợ doanh nghiệp."
+   }
+  },
+  {
+   "word": "commercial",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kəˈmɜːʃl/",
+   "def_en": "Relating to money-making business activities.",
+   "def_vi": "Liên quan hoạt động kinh doanh kiếm tiền.",
+   "gloss_vi": "thương mại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Commercial</i> (adjective) = thương mại. <b>Collocations / chunks</b>: <i>commercial airline/artist/disaster</i>.",
+   "example": {
+    "en": "<b>commercial</b> airline, commercial artist, commercial disaster",
+    "vi": "Một hãng hàng không <b>thương mại</b>."
+   }
+  },
+  {
+   "word": "state-owned",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌsteɪt ˈəʊnd/",
+   "def_en": "Owned by the government.",
+   "def_vi": "Do nhà nước sở hữu.",
+   "gloss_vi": "thuộc sở hữu nhà nước",
+   "synonyms": "government-owned <i>(adj. thuộc chính phủ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>State-owned</i> (adjective) = thuộc sở hữu nhà nước. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "there were <b>state-owned</b> or government-owned companies in many different industries",
+    "vi": "Thập niên 1970 Anh có nhiều công ty <b>nhà nước</b>."
+   }
+  },
+  {
+   "word": "nationalized",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈnæʃnəlaɪzd/",
+   "def_en": "Entirely state-owned.",
+   "def_vi": "Hoàn toàn do nhà nước sở hữu.",
+   "gloss_vi": "được quốc hữu hóa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "privatized <i>(adj. được tư nhân hóa)</i>",
+   "grammar_vi": "<i>Nationalized</i> (adjective) = được quốc hữu hóa. <b>Grammar</b>: Anh <i>nationalised</i>.",
+   "example": {
+    "en": "Some industries, such as coal and electricity, had been <b>nationalized</b> – they were entirely state-owned.",
+    "vi": "Than và điện đã được <b>quốc hữu hóa</b>."
+   }
+  },
+  {
+   "word": "privatize",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈpraɪvətaɪz/",
+   "def_en": "To sell state-owned companies to investors.",
+   "def_vi": "Bán công ty nhà nước cho nhà đầu tư.",
+   "gloss_vi": "tư nhân hóa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "nationalize <i>(v. quốc hữu hóa)</i>",
+   "grammar_vi": "<i>Privatize</i> (verb) = tư nhân hóa. <b>Grammar</b>: danh từ <i>privatization</i>.",
+   "example": {
+    "en": "many of them were <b>privatized</b> by selling them to investors",
+    "vi": "Nhiều công ty được <b>tư nhân hóa</b> bằng cách bán cho nhà đầu tư."
+   }
+  },
+  {
+   "word": "bureaucracy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bjʊəˈrɒkrəsi/",
+   "def_en": "The system for running government departments, with rigid rules and slow decisions.",
+   "def_vi": "Hệ thống vận hành cơ quan nhà nước, luật cứng, quyết định chậm.",
+   "gloss_vi": "bộ máy quan liêu",
+   "synonyms": "red tape <i>(n. thủ tục rườm rà)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bureaucracy</i> (noun) = bộ máy quan liêu. <b>Grammar</b>: tính từ <i>bureaucratic</i>.",
+   "example": {
+    "en": "<b>bureaucracy</b> – the system for running government departments, with its rigid rules and slow decisions – was not good for business",
+    "vi": "<b>Quan liêu</b> không tốt cho kinh doanh."
+   }
+  },
+  {
+   "word": "free enterprise",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌfriː ˈentəpraɪz/",
+   "def_en": "Business activity owned by individuals rather than the state.",
+   "def_vi": "Hoạt động kinh doanh của cá nhân, không phải nhà nước.",
+   "gloss_vi": "doanh nghiệp tự do",
+   "synonyms": "private enterprise <i>(n. doanh nghiệp tư nhân)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Free enterprise</i> (noun) = doanh nghiệp tự do. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "free / private <b>enterprise</b>: business activity owned by individuals rather than the state",
+    "vi": "<b>Doanh nghiệp tự do</b> là kinh doanh do cá nhân sở hữu."
+   }
+  },
+  {
+   "word": "enterprise culture",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈentəpraɪz ˌkʌltʃə(r)/",
+   "def_en": "When people are encouraged to make money through their own activities.",
+   "def_vi": "Khi người ta được khuyến khích tự kiếm tiền.",
+   "gloss_vi": "văn hóa kinh doanh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Enterprise culture</i> (noun) = văn hóa kinh doanh. <b>Collocations / chunks</b>: <i>enterprise economy</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The government wanted to create an <b>enterprise culture</b>.",
+    "vi": "<b>Văn hóa kinh doanh</b> khuyến khích người ta tự làm giàu."
+   }
+  },
+  {
+   "word": "enterprise zone",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈentəpraɪz zəʊn/",
+   "def_en": "Part of a country where business is encouraged by less strict laws and lower taxes.",
+   "def_vi": "Vùng khuyến khích kinh doanh nhờ luật lỏng, thuế thấp.",
+   "gloss_vi": "đặc khu kinh doanh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Enterprise zone</i> (noun) = đặc khu kinh doanh. <b>Collocations / chunks</b>: cụm danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "The new factory is in an <b>enterprise zone</b>.",
+    "vi": "Nhà máy mới nằm trong <b>đặc khu kinh doanh</b>."
+   }
+  }
+ ]
+}
