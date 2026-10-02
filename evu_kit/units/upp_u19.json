@@ -1,0 +1,443 @@
+{
+ "book": "upp",
+ "unit": 19,
+ "title_vi": "Nghệ thuật và văn học",
+ "theory_html": "<p><b>A. Art and the arts</b><br><i>A. Mỹ thuật và nghệ thuật</i></p> <p><b>the arts</b>: literature (biographies, novels, short stories, poetry, drama), performing arts (theatre, dance, ballet, opera, cinema), fine art(s) (painting, sculpture, ceramics, architecture). <b>art</b> (uncountable) = fine art, or technique and creativity. <b>the arts page, an art lover, the art of poetry, artistic, a work of art, arts and crafts</b>.</p><p><i><b>nghệ thuật biểu diễn, mỹ thuật, điêu khắc, gốm; người yêu nghệ thuật, có óc nghệ thuật, tác phẩm nghệ thuật, thủ công mỹ nghệ</b>.</i></p> <p><b>B. Types of art and artists</b><br><i>B. Loại hình và nghệ sĩ</i></p> <p><b>a sculptor creating a statue (sculpture); a potter throwing a pot (pottery); an architect designing a building (architecture); abstract, images, portrait, landscape, still life, original, reproduction</b>.</p><p><i><b>nhà điêu khắc, thợ gốm, trừu tượng, chân dung, phong cảnh, tĩnh vật, bản gốc, bản sao</b>.</i></p> <p><b>C. Literature</b><br><i>C. Văn học</i></p> <p><b>novelists (short story), a series, a historical setting, bestsellers, critics, plots, characters, literary, reviews, publication, ebooks, copies, passage, extract</b>.</p><p><i><b>tiểu thuyết gia, bộ truyện, bối cảnh, sách bán chạy, nhà phê bình, cốt truyện, nhân vật, văn chương, xuất bản, sách điện tử, đoạn văn, trích đoạn</b>.</i></p>",
+ "items": [
+  {
+   "word": "performing arts",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/pəˌfɔːmɪŋ ˈɑːts/",
+   "def_en": "Arts such as theatre, dance and music performed for an audience.",
+   "def_vi": "Nghệ thuật như kịch, múa, nhạc biểu diễn trước khán giả.",
+   "gloss_vi": "nghệ thuật biểu diễn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Performing arts</i> (noun phrase) = nghệ thuật biểu diễn. <b>Grammar</b>: số nhiều.",
+   "ex_kit": true,
+   "example": {
+    "en": "Theatre and dance are <b>performing arts</b>.",
+    "vi": "Kịch và múa là <b>nghệ thuật biểu diễn</b>."
+   }
+  },
+  {
+   "word": "fine art",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌfaɪn ˈɑːt/",
+   "def_en": "Art such as painting and sculpture.",
+   "def_vi": "Nghệ thuật như hội họa, điêu khắc.",
+   "gloss_vi": "mỹ thuật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fine art</i> (noun phrase) = mỹ thuật. <b>Grammar</b>: cũng <i>fine arts</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She studied <b>fine art</b> at university.",
+    "vi": "Cô ấy học <b>mỹ thuật</b> ở đại học."
+   }
+  },
+  {
+   "word": "ceramics",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/səˈræmɪks/",
+   "def_en": "Making pots, bowls, etc.",
+   "def_vi": "Làm bình, bát…",
+   "gloss_vi": "đồ gốm, nghề gốm",
+   "synonyms": "pottery <i>(n. đồ gốm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ceramics</i> (noun) = đồ gốm, nghề gốm. <b>Grammar</b>: /sɪˈræmɪks/.",
+   "ex_kit": true,
+   "example": {
+    "en": "He takes evening classes in <b>ceramics</b>.",
+    "vi": "Anh ấy học lớp <b>làm gốm</b> buổi tối."
+   }
+  },
+  {
+   "word": "art lover",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈɑːt ˌlʌvə(r)/",
+   "def_en": "A person who loves painting and sculpture.",
+   "def_vi": "Người yêu hội họa và điêu khắc.",
+   "gloss_vi": "người yêu nghệ thuật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Art lover</i> (noun phrase) = người yêu nghệ thuật. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "She’s a great <b>art lover</b>.",
+    "vi": "Cô ấy là một <b>người yêu nghệ thuật</b> lớn."
+   }
+  },
+  {
+   "word": "artistic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɑːˈtɪstɪk/",
+   "def_en": "Showing skill and imagination in creating things.",
+   "def_vi": "Có kỹ năng và óc tưởng tượng sáng tạo.",
+   "gloss_vi": "có khiếu nghệ thuật",
+   "synonyms": "creative <i>(adj. sáng tạo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Artistic</i> (adjective) = có khiếu nghệ thuật. <b>Grammar</b>: <i>art</i> → <i>artistic</i>.",
+   "example": {
+    "en": "Ask Sara to help you decorate your room – she’s very <b>artistic</b>.",
+    "vi": "Nhờ Sara trang trí phòng nhé – cô ấy rất <b>có khiếu nghệ thuật</b>."
+   }
+  },
+  {
+   "word": "work of art",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌwɜːk əv ˈɑːt/",
+   "def_en": "An object made by a skilled artist.",
+   "def_vi": "Vật do nghệ sĩ tài năng tạo ra.",
+   "gloss_vi": "tác phẩm nghệ thuật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Work of art</i> (noun phrase) = tác phẩm nghệ thuật. <b>Grammar</b>: số nhiều <i>works of art</i>.",
+   "example": {
+    "en": "A <b>work of art</b> is an object made by a skilled artist – typically a painting, drawing or statue.",
+    "vi": "<b>Tác phẩm nghệ thuật</b> thường là tranh, bản vẽ hay tượng."
+   }
+  },
+  {
+   "word": "arts and crafts",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌɑːts ən ˈkrɑːfts/",
+   "def_en": "The skills of making objects such as decorations by hand.",
+   "def_vi": "Kỹ năng làm đồ như trang trí bằng tay.",
+   "gloss_vi": "thủ công mỹ nghệ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Arts and crafts</i> (noun phrase) = thủ công mỹ nghệ. <b>Grammar</b>: trật tự cố định.",
+   "example": {
+    "en": "The phrase <b>arts and crafts</b> is used to refer to the skills of making objects such as decorations, jewellery and furniture by hand.",
+    "vi": "<b>Thủ công mỹ nghệ</b> là kỹ năng làm đồ trang trí, trang sức bằng tay."
+   }
+  },
+  {
+   "word": "sculptor",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈskʌlptə(r)/",
+   "def_en": "An artist who makes sculptures.",
+   "def_vi": "Nghệ sĩ làm tác phẩm điêu khắc.",
+   "gloss_vi": "nhà điêu khắc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sculptor</i> (noun) = nhà điêu khắc. <b>Grammar</b>: <i>sculpture</i> (tác phẩm, loại hình).",
+   "example": {
+    "en": "This is a <b>sculptor</b> – he’s creating a statue.",
+    "vi": "Đây là <b>nhà điêu khắc</b> – ông ấy đang tạc tượng."
+   }
+  },
+  {
+   "word": "sculpture",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈskʌlptʃə(r)/",
+   "def_en": "The art of making objects from stone, wood, etc.",
+   "def_vi": "Nghệ thuật tạo vật từ đá, gỗ…",
+   "gloss_vi": "điêu khắc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sculpture</i> (noun) = điêu khắc. <b>Grammar</b>: đếm được (tác phẩm) và không đếm được.",
+   "example": {
+    "en": "His type of art is called <b>sculpture</b>.",
+    "vi": "Loại hình nghệ thuật của ông ấy gọi là <b>điêu khắc</b>."
+   }
+  },
+  {
+   "word": "potter",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɒtə(r)/",
+   "def_en": "A person who makes pots.",
+   "def_vi": "Người làm đồ gốm.",
+   "gloss_vi": "thợ gốm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Potter</i> (noun) = thợ gốm. <b>Grammar</b>: <i>throw a pot</i> = nặn gốm trên bàn xoay.",
+   "example": {
+    "en": "This is a <b>potter</b> – she’s throwing a pot.",
+    "vi": "Đây là <b>thợ gốm</b> – cô ấy đang nặn bình."
+   }
+  },
+  {
+   "word": "pottery",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɒtəri/",
+   "def_en": "The art of making pots.",
+   "def_vi": "Nghệ thuật làm gốm.",
+   "gloss_vi": "nghề gốm",
+   "synonyms": "ceramics <i>(n. gốm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pottery</i> (noun) = nghề gốm. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "Her type of art is called <b>pottery</b>.",
+    "vi": "Loại hình nghệ thuật của cô ấy gọi là <b>nghề gốm</b>."
+   }
+  },
+  {
+   "word": "abstract",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈæbstrækt/",
+   "def_en": "Involving shapes and colours rather than images of real things.",
+   "def_vi": "Dùng hình khối và màu thay vì hình ảnh thật.",
+   "gloss_vi": "trừu tượng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "realistic <i>(adj. hiện thực)</i>",
+   "grammar_vi": "<i>Abstract</i> (adjective) = trừu tượng. <b>Grammar</b>: <i>abstract art</i>.",
+   "example": {
+    "en": "An <b>abstract</b> painting involves shapes and colours rather than images of real people or things.",
+    "vi": "Tranh <b>trừu tượng</b> dùng hình khối và màu sắc."
+   }
+  },
+  {
+   "word": "portrait",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɔːtreɪt/",
+   "def_en": "A painting of a person.",
+   "def_vi": "Tranh vẽ một người.",
+   "gloss_vi": "tranh chân dung",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Portrait</i> (noun) = tranh chân dung. <b>Grammar</b>: <i>paint sb’s portrait</i>.",
+   "example": {
+    "en": "A <b>portrait</b> is a painting of a person.",
+    "vi": "<b>Tranh chân dung</b> là tranh vẽ một người."
+   }
+  },
+  {
+   "word": "still life",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌstɪl ˈlaɪf/",
+   "def_en": "A painting of objects that do not move, usually fruit or flowers.",
+   "def_vi": "Tranh vẽ đồ vật tĩnh, thường hoa quả.",
+   "gloss_vi": "tranh tĩnh vật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Still life</i> (noun phrase) = tranh tĩnh vật. <b>Grammar</b>: số nhiều <i>still lifes</i>.",
+   "example": {
+    "en": "A <b>still life</b> is a painting of a set of objects that do not move, usually fruit or flowers.",
+    "vi": "<b>Tranh tĩnh vật</b> vẽ các vật không chuyển động, thường là hoa quả."
+   }
+  },
+  {
+   "word": "original",
+   "sense": "art",
+   "pos": "noun",
+   "ipa": "/əˈrɪdʒənl/",
+   "def_en": "A painting produced by the painter himself/herself.",
+   "def_vi": "Bức tranh do chính họa sĩ vẽ.",
+   "gloss_vi": "bản gốc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "reproduction <i>(n. bản sao)</i>",
+   "grammar_vi": "<i>Original</i> (noun) = bản gốc. <b>Grammar</b>: tính từ và danh từ.",
+   "example": {
+    "en": "An <b>original</b> painting is one produced by the painter him/herself rather than a copy.",
+    "vi": "Bức tranh <b>gốc</b> là do chính họa sĩ vẽ, không phải bản sao."
+   }
+  },
+  {
+   "word": "reproduction",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌriːprəˈdʌkʃn/",
+   "def_en": "A copy of a painting.",
+   "def_vi": "Bản sao của bức tranh.",
+   "gloss_vi": "bản sao",
+   "synonyms": "copy <i>(n. bản sao)</i>",
+   "antonyms": "original <i>(n. bản gốc)</i>",
+   "grammar_vi": "<i>Reproduction</i> (noun) = bản sao. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "An original painting is one produced by the painter rather than a copy or <b>reproduction</b>.",
+    "vi": "Tranh gốc là do họa sĩ vẽ, không phải bản sao hay <b>bản in lại</b>."
+   }
+  },
+  {
+   "word": "novelist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈnɒvəlɪst/",
+   "def_en": "A person who writes novels.",
+   "def_vi": "Người viết tiểu thuyết.",
+   "gloss_vi": "tiểu thuyết gia",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Novelist</i> (noun) = tiểu thuyết gia. <b>Grammar</b>: <i>novel</i> (n.).",
+   "example": {
+    "en": "Lisa O’Donnell is one of the country’s most popular <b>novelists</b>.",
+    "vi": "Lisa O’Donnell là một trong những <b>tiểu thuyết gia</b> nổi tiếng nhất nước."
+   }
+  },
+  {
+   "word": "setting",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsetɪŋ/",
+   "def_en": "The background for a story or film.",
+   "def_vi": "Bối cảnh của câu chuyện hay phim.",
+   "gloss_vi": "bối cảnh",
+   "synonyms": "background <i>(n. bối cảnh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Setting</i> (noun) = bối cảnh. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "She has written a series of romantic novels all with a historical <b>setting</b>.",
+    "vi": "Cô ấy viết một loạt tiểu thuyết lãng mạn với <b>bối cảnh</b> lịch sử."
+   }
+  },
+  {
+   "word": "bestseller",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌbestˈselə(r)/",
+   "def_en": "A very popular book that sells in large numbers.",
+   "def_vi": "Sách rất được ưa chuộng, bán nhiều.",
+   "gloss_vi": "sách bán chạy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bestseller</i> (noun) = sách bán chạy. <b>Grammar</b>: <i>best-selling</i> (adj.).",
+   "example": {
+    "en": "These have all been <b>bestsellers</b>.",
+    "vi": "Tất cả đều là <b>sách bán chạy</b>."
+   }
+  },
+  {
+   "word": "critic",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkrɪtɪk/",
+   "def_en": "A person whose job is to give their opinion of books, films or music.",
+   "def_vi": "Người làm nghề nhận xét sách, phim, nhạc.",
+   "gloss_vi": "nhà phê bình",
+   "synonyms": "reviewer <i>(n. người điểm sách)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Critic</i> (noun) = nhà phê bình. <b>Grammar</b>: <i>criticise</i> (v.), <i>criticism</i> (n.).",
+   "example": {
+    "en": "The <b>critics</b> complain that her plots are predictable.",
+    "vi": "<b>Các nhà phê bình</b> phàn nàn cốt truyện của cô ấy dễ đoán."
+   }
+  },
+  {
+   "word": "plot",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/plɒt/",
+   "def_en": "The story of a book or film.",
+   "def_vi": "Câu chuyện của sách hay phim.",
+   "gloss_vi": "cốt truyện",
+   "synonyms": "storyline <i>(n. mạch truyện)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Plot</i> (noun) = cốt truyện. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "The critics complain that her <b>plots</b> are predictable.",
+    "vi": "Các nhà phê bình phàn nàn <b>cốt truyện</b> của cô ấy dễ đoán."
+   }
+  },
+  {
+   "word": "character",
+   "sense": "book",
+   "pos": "noun",
+   "ipa": "/ˈkærəktə(r)/",
+   "def_en": "A person in a book or film.",
+   "def_vi": "Người trong sách hay phim.",
+   "gloss_vi": "nhân vật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Character</i> (noun) = nhân vật. <b>Grammar</b>: <i>main character</i>. <b>Common mistakes</b>: cũng = tính cách.",
+   "example": {
+    "en": "Her <b>characters</b> are not very realistic.",
+    "vi": "<b>Nhân vật</b> của cô ấy không thực tế lắm."
+   }
+  },
+  {
+   "word": "literary",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈlɪtərəri/",
+   "def_en": "Serious rather than popular (of writing).",
+   "def_vi": "Nghiêm túc thay vì đại chúng (về văn viết).",
+   "gloss_vi": "(mang tính) văn chương",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "popular <i>(adj. đại chúng)</i>",
+   "grammar_vi": "<i>Literary</i> (adjective) = (mang tính) văn chương. <b>Grammar</b>: ≠ <i>literal</i> (theo nghĩa đen).",
+   "example": {
+    "en": "Her cousin, Lucy Smith, is a more <b>literary</b> writer.",
+    "vi": "Em họ cô ấy, Lucy Smith, là nhà văn <b>văn chương</b> hơn."
+   }
+  },
+  {
+   "word": "publication",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpʌblɪˈkeɪʃn/",
+   "def_en": "Making something available in a printed form.",
+   "def_vi": "Phát hành ở dạng in.",
+   "gloss_vi": "sự xuất bản",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Publication</i> (noun) = sự xuất bản. <b>Grammar</b>: <i>publish</i> (v.).",
+   "example": {
+    "en": "Both writers have a novel which will be ready for <b>publication</b> later this year.",
+    "vi": "Cả hai nhà văn có tiểu thuyết sẵn sàng <b>xuất bản</b> cuối năm nay."
+   }
+  },
+  {
+   "word": "ebook",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈiːbʊk/",
+   "def_en": "An electronic book.",
+   "def_vi": "Sách điện tử.",
+   "gloss_vi": "sách điện tử",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ebook</i> (noun) = sách điện tử. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "They will also be available to download as <b>ebooks</b>.",
+    "vi": "Chúng cũng sẽ có thể tải về dưới dạng <b>sách điện tử</b>."
+   }
+  },
+  {
+   "word": "passage",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpæsɪdʒ/",
+   "def_en": "A short piece of text.",
+   "def_vi": "Đoạn văn ngắn.",
+   "gloss_vi": "đoạn văn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Passage</i> (noun) = đoạn văn. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "It is interesting to compare the opening <b>passage</b> from Smith’s latest book.",
+    "vi": "Thật thú vị khi so sánh <b>đoạn</b> mở đầu cuốn sách mới nhất của Smith."
+   }
+  },
+  {
+   "word": "extract",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈekstrækt/",
+   "def_en": "Part of a book chosen for an article or discussion.",
+   "def_vi": "Phần sách chọn cho bài báo hay thảo luận.",
+   "gloss_vi": "trích đoạn",
+   "synonyms": "excerpt <i>(n. trích đoạn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Extract</i> (noun) = trích đoạn. <b>Grammar</b>: danh từ /ˈek-/, động từ /ɪkˈstrækt/.",
+   "example": {
+    "en": "Compare it with an <b>extract</b> from the first chapter of O’Donnell’s.",
+    "vi": "So sánh với một <b>trích đoạn</b> chương đầu của O’Donnell."
+   }
+  }
+ ]
+}

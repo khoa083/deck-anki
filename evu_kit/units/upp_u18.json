@@ -1,0 +1,556 @@
+{
+ "book": "upp",
+ "unit": 18,
+ "title_vi": "Thể thao",
+ "theory_html": "<p><b>A. Some sports whose names you may not know</b><br><i>A. Một số môn ít biết tên</i></p> <p><b>hang-gliding, (ten-pin) bowling, fencing, showjumping, snooker/pool/billiards, snowboarding, scuba diving, archery</b>.</p><p><i><b>dù lượn, bowling, đấu kiếm, nhảy ngựa vượt rào, bi-a, trượt ván tuyết, lặn bình khí, bắn cung</b>.</i></p> <p><b>B. Equipment – what you hold in your hand</b><br><i>B. Dụng cụ cầm tay</i></p> <p>golf – <b>club</b>; tennis – <b>racket</b>; darts – <b>dart</b>; archery – <b>bow</b>; cricket/baseball – <b>bat</b>; hockey – <b>stick</b>; snooker – <b>cue</b>; canoeing – <b>paddle</b>; rowing – <b>oar</b>; fishing – <b>rod/line</b>.</p><p><i><b>gậy gôn, vợt, phi tiêu, cung, gậy bóng chày, cơ bi-a, mái chèo, cần câu</b>.</i></p> <p><b>C. Athletics</b><br><i>C. Điền kinh</i></p> <p><b>pole vault, discus, javelin, high jump, long jump, gymnastics; sprinter, long-distance runner, marathon</b>.</p><p><i><b>nhảy sào, ném đĩa, ném lao, nhảy cao, nhảy xa, thể dục dụng cụ, vận động viên chạy nước rút, chạy đường dài</b>.</i></p> <p><b>D. Competition in sport</b><br><i>D. Thi đấu</i></p> <p><b>set / hold a record; qualify; get knocked out in the third round; reach the semi-final; competitive; trophy; referee; spectators</b>.</p><p><i><b>lập/giữ kỷ lục, giành vé, bị loại, vào bán kết, tính cạnh tranh, cúp, trọng tài, khán giả</b>.</i></p> <p><b>E. People who do particular sports</b><br><i>E. Người chơi thể thao</i></p> <p><b>-er</b> (footballer), <b>player</b> (tennis player); learn separately: <b>canoeist, mountaineer, jockey, archer, gymnast</b>. <b>sports equipment</b> (NOT <b>sport</b>).</p><p><i><b>vận động viên chèo xuồng, nhà leo núi, nài ngựa, cung thủ, vận động viên thể dục</b>.</i></p>",
+ "items": [
+  {
+   "word": "hang-gliding",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhæŋ ɡlaɪdɪŋ/",
+   "def_en": "Flying with a large frame covered with cloth.",
+   "def_vi": "Bay bằng khung lớn phủ vải.",
+   "gloss_vi": "dù lượn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hang-gliding</i> (noun) = dù lượn. <b>Grammar</b>: <i>go hang-gliding</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He goes <b>hang-gliding</b> in the mountains.",
+    "vi": "Anh ấy đi <b>dù lượn</b> ở vùng núi."
+   }
+  },
+  {
+   "word": "fencing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfensɪŋ/",
+   "def_en": "The sport of fighting with long thin swords.",
+   "def_vi": "Môn đấu bằng kiếm dài mảnh.",
+   "gloss_vi": "đấu kiếm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fencing</i> (noun) = đấu kiếm. <b>Grammar</b>: không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Fencing</b> is an Olympic sport.",
+    "vi": "<b>Đấu kiếm</b> là một môn Olympic."
+   }
+  },
+  {
+   "word": "showjumping",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈʃəʊdʒʌmpɪŋ/",
+   "def_en": "A sport in which horses jump over fences.",
+   "def_vi": "Môn ngựa nhảy qua rào.",
+   "gloss_vi": "nhảy ngựa vượt rào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Showjumping</i> (noun) = nhảy ngựa vượt rào. <b>Grammar</b>: không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "She has competed in <b>showjumping</b> since she was a child.",
+    "vi": "Cô ấy thi <b>nhảy ngựa vượt rào</b> từ nhỏ."
+   }
+  },
+  {
+   "word": "snooker",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsnuːkə(r)/",
+   "def_en": "A game in which balls are hit with a cue on a table.",
+   "def_vi": "Trò đánh bóng bằng cơ trên bàn.",
+   "gloss_vi": "bi-a snooker",
+   "synonyms": "billiards <i>(n. bi-a)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Snooker</i> (noun) = bi-a snooker. <b>Grammar</b>: không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "They watch <b>snooker</b> on TV for hours.",
+    "vi": "Họ xem <b>bi-a</b> trên TV hàng giờ."
+   }
+  },
+  {
+   "word": "scuba diving",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈskuːbə ˌdaɪvɪŋ/",
+   "def_en": "Swimming under water with a supply of air.",
+   "def_vi": "Bơi dưới nước có bình khí.",
+   "gloss_vi": "lặn bình khí",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Scuba diving</i> (noun phrase) = lặn bình khí. <b>Grammar</b>: <i>go scuba diving</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We went <b>scuba diving</b> in the Red Sea.",
+    "vi": "Chúng tôi đi <b>lặn bình khí</b> ở Biển Đỏ."
+   }
+  },
+  {
+   "word": "archery",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɑːtʃəri/",
+   "def_en": "The sport of shooting arrows with a bow.",
+   "def_vi": "Môn bắn tên bằng cung.",
+   "gloss_vi": "bắn cung",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Archery</i> (noun) = bắn cung. <b>Grammar</b>: người: <i>archer</i> (không <i>archerer</i>).",
+   "ex_kit": true,
+   "example": {
+    "en": "She’s good at <b>archery</b>.",
+    "vi": "Cô ấy giỏi <b>bắn cung</b>."
+   }
+  },
+  {
+   "word": "club",
+   "sense": "golf",
+   "pos": "noun",
+   "ipa": "/klʌb/",
+   "def_en": "A long stick used to hit the ball in golf.",
+   "def_vi": "Gậy dài dùng để đánh bóng gôn.",
+   "gloss_vi": "gậy gôn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Club</i> (noun) = gậy gôn. <b>Grammar</b>: <i>golf club</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He bought a new set of golf <b>clubs</b>.",
+    "vi": "Anh ấy mua một bộ <b>gậy</b> gôn mới."
+   }
+  },
+  {
+   "word": "racket",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈrækɪt/",
+   "def_en": "A bat with strings, used in tennis, squash and badminton.",
+   "def_vi": "Vợt có dây dùng cho tennis, squash, cầu lông.",
+   "gloss_vi": "vợt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Racket</i> (noun) = vợt. <b>Grammar</b>: cũng <i>racquet</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I need a new tennis <b>racket</b>.",
+    "vi": "Tôi cần một cây <b>vợt</b> tennis mới."
+   }
+  },
+  {
+   "word": "bow",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bəʊ/",
+   "def_en": "A curved piece of wood used to shoot arrows.",
+   "def_vi": "Thanh gỗ cong để bắn tên.",
+   "gloss_vi": "cây cung",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bow</i> (noun) = cây cung. <b>Grammar</b>: /bəʊ/ (≠ <i>bow</i> /baʊ/ = cúi chào).",
+   "ex_kit": true,
+   "example": {
+    "en": "Archers use a <b>bow</b> and arrows.",
+    "vi": "Cung thủ dùng <b>cung</b> và tên."
+   }
+  },
+  {
+   "word": "bat",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bæt/",
+   "def_en": "A piece of wood used to hit the ball in cricket, baseball or table tennis.",
+   "def_vi": "Gậy gỗ đánh bóng trong cricket, bóng chày, bóng bàn.",
+   "gloss_vi": "gậy (bóng chày), vợt (bóng bàn)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bat</i> (noun) = gậy (bóng chày), vợt (bóng bàn). <b>Grammar</b>: <i>table tennis bat</i>. <b>Common mistakes</b>: cũng = con dơi.",
+   "ex_kit": true,
+   "example": {
+    "en": "The baseball player swung the <b>bat</b>.",
+    "vi": "Cầu thủ bóng chày vung <b>gậy</b>."
+   }
+  },
+  {
+   "word": "cue",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kjuː/",
+   "def_en": "A long stick used to hit balls in snooker or billiards.",
+   "def_vi": "Gậy dài đánh bóng bi-a.",
+   "gloss_vi": "cơ bi-a",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cue</i> (noun) = cơ bi-a. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "He chalked the end of his <b>cue</b> before playing.",
+    "vi": "Anh ấy phấn đầu <b>cơ</b> trước khi đánh."
+   }
+  },
+  {
+   "word": "paddle",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpædl/",
+   "def_en": "A short pole with a flat end, used to move a canoe.",
+   "def_vi": "Cây chèo ngắn đầu dẹt dùng cho xuồng.",
+   "gloss_vi": "mái chèo (xuồng)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Paddle</i> (noun) = mái chèo (xuồng). <b>Grammar</b>: cũng là động từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "Each canoeist has a <b>paddle</b>.",
+    "vi": "Mỗi người chèo xuồng có một <b>mái chèo</b>."
+   }
+  },
+  {
+   "word": "oar",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɔː(r)/",
+   "def_en": "A long pole with a flat end, used to row a boat.",
+   "def_vi": "Cây dài đầu dẹt để chèo thuyền.",
+   "gloss_vi": "mái chèo (thuyền)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Oar</i> (noun) = mái chèo (thuyền). <b>Grammar</b>: /ɔː/ như <i>or</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He pulled the <b>oars</b> through the water.",
+    "vi": "Anh ấy kéo <b>mái chèo</b> qua làn nước."
+   }
+  },
+  {
+   "word": "rod",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɒd/",
+   "def_en": "A long thin pole used for fishing.",
+   "def_vi": "Cây dài mảnh để câu cá.",
+   "gloss_vi": "cần câu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rod</i> (noun) = cần câu. <b>Grammar</b>: <i>fishing rod</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He sat by the lake with his fishing <b>rod</b>.",
+    "vi": "Ông ấy ngồi bên hồ với <b>cần câu</b>."
+   }
+  },
+  {
+   "word": "pole vault",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈpəʊl vɔːlt/",
+   "def_en": "A sport in which you jump over a high bar using a long pole.",
+   "def_vi": "Môn nhảy qua xà cao bằng sào dài.",
+   "gloss_vi": "nhảy sào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pole vault</i> (noun phrase) = nhảy sào. <b>Grammar</b>: <i>the pole vault</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She won the gold medal in the <b>pole vault</b>.",
+    "vi": "Cô ấy thắng huy chương vàng <b>nhảy sào</b>."
+   }
+  },
+  {
+   "word": "discus",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdɪskəs/",
+   "def_en": "A heavy flat round object thrown as a sport.",
+   "def_vi": "Vật tròn dẹt nặng để ném.",
+   "gloss_vi": "đĩa (ném đĩa)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Discus</i> (noun) = đĩa (ném đĩa). <b>Grammar</b>: <i>the discus (throw)</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He threw the <b>discus</b> 60 metres.",
+    "vi": "Anh ấy ném <b>đĩa</b> xa 60 mét."
+   }
+  },
+  {
+   "word": "javelin",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdʒævlɪn/",
+   "def_en": "A long spear thrown as a sport.",
+   "def_vi": "Cây lao dài để ném.",
+   "gloss_vi": "lao (ném lao)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Javelin</i> (noun) = lao (ném lao). <b>Grammar</b>: /ˈdʒævlɪn/.",
+   "ex_kit": true,
+   "example": {
+    "en": "She’s very good at the <b>javelin</b>.",
+    "vi": "Cô ấy giỏi ném <b>lao</b>."
+   }
+  },
+  {
+   "word": "gymnastics",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dʒɪmˈnæstɪks/",
+   "def_en": "Exercises that develop strength and balance.",
+   "def_vi": "Bài tập phát triển sức mạnh và thăng bằng.",
+   "gloss_vi": "thể dục dụng cụ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gymnastics</i> (noun) = thể dục dụng cụ. <b>Grammar</b>: động từ số ít. <b>Word family</b>: <i>gymnast</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She’s done <b>gymnastics</b> since she was five.",
+    "vi": "Cô bé tập <b>thể dục dụng cụ</b> từ năm 5 tuổi."
+   }
+  },
+  {
+   "word": "sprinter",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsprɪntə(r)/",
+   "def_en": "A person who runs fast over short distances.",
+   "def_vi": "Người chạy nhanh cự ly ngắn.",
+   "gloss_vi": "vận động viên chạy nước rút",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "long-distance runner <i>(np. VĐV chạy đường dài)</i>",
+   "grammar_vi": "<i>Sprinter</i> (noun) = vận động viên chạy nước rút. <b>Grammar</b>: <i>sprint</i> (v./n.).",
+   "example": {
+    "en": "She’s a great <b>sprinter</b>.",
+    "vi": "Cô ấy là một <b>vận động viên chạy nước rút</b> tuyệt vời."
+   }
+  },
+  {
+   "word": "long-distance",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌlɒŋ ˈdɪstəns/",
+   "def_en": "Covering a long distance, e.g. 5,000 metres.",
+   "def_vi": "Cự ly dài, ví dụ 5.000 mét.",
+   "gloss_vi": "đường dài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Long-distance</i> (adjective) = đường dài. <b>Grammar</b>: có gạch nối trước danh từ.",
+   "example": {
+    "en": "He’s a great <b>long-distance</b> runner.",
+    "vi": "Anh ấy là vận động viên chạy <b>đường dài</b> giỏi."
+   }
+  },
+  {
+   "word": "marathon",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmærəθən/",
+   "def_en": "A race of about 42 kilometres.",
+   "def_vi": "Cuộc đua khoảng 42 km.",
+   "gloss_vi": "cuộc chạy marathon",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Marathon</i> (noun) = cuộc chạy marathon. <b>Grammar</b>: <i>run/do a marathon</i>.",
+   "example": {
+    "en": "He’s doing a <b>marathon</b> next month.",
+    "vi": "Tháng sau anh ấy chạy <b>marathon</b>."
+   }
+  },
+  {
+   "word": "set a record",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌset ə ˈrekɔːd/",
+   "def_en": "To achieve a new best result.",
+   "def_vi": "Đạt kết quả tốt nhất mới.",
+   "gloss_vi": "lập kỷ lục",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Set a record</i> (verb phrase) = lập kỷ lục. <b>Grammar</b>: <i>set – set – set</i>.",
+   "example": {
+    "en": "She <b>set a</b> new Olympic <b>record</b> last year.",
+    "vi": "Cô ấy <b>lập</b> kỷ lục Olympic mới năm ngoái."
+   }
+  },
+  {
+   "word": "hold the record",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌhəʊld ðə ˈrekɔːd/",
+   "def_en": "To have the best result so far.",
+   "def_vi": "Có thành tích tốt nhất đến nay.",
+   "gloss_vi": "giữ kỷ lục",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hold the record</i> (verb phrase) = giữ kỷ lục. <b>Grammar</b>: <i>hold – held – held</i>.",
+   "example": {
+    "en": "He <b>holds the record</b> for the 100 metres breaststroke.",
+    "vi": "Anh ấy <b>giữ kỷ lục</b> 100 mét bơi ếch."
+   }
+  },
+  {
+   "word": "qualify",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈkwɒlɪfaɪ/",
+   "def_en": "To achieve the necessary standard to enter a competition.",
+   "def_vi": "Đạt chuẩn để vào cuộc thi.",
+   "gloss_vi": "giành quyền tham dự",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Qualify</i> (verb) = giành quyền tham dự. <b>Grammar</b>: <i>qualify for sth</i>.",
+   "example": {
+    "en": "England <b>qualified</b> for the World Cup but got knocked out in the third round.",
+    "vi": "Anh <b>giành vé</b> dự World Cup nhưng bị loại ở vòng ba."
+   }
+  },
+  {
+   "word": "get knocked out",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡet nɒkt ˈaʊt/",
+   "def_en": "To lose and be excluded from a competition.",
+   "def_vi": "Thua và bị loại khỏi cuộc thi.",
+   "gloss_vi": "bị loại",
+   "synonyms": "be eliminated <i>(vp. bị loại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get knocked out</i> (verb phrase) = bị loại. <b>Grammar</b>: <i>knockout competition</i> = thể thức loại trực tiếp.",
+   "example": {
+    "en": "England qualified for the World Cup but <b>got knocked out</b> in the third round.",
+    "vi": "Anh giành vé dự World Cup nhưng <b>bị loại</b> ở vòng ba."
+   }
+  },
+  {
+   "word": "round",
+   "sense": "competition",
+   "pos": "noun",
+   "ipa": "/raʊnd/",
+   "def_en": "One stage in a competition.",
+   "def_vi": "Một vòng trong cuộc thi.",
+   "gloss_vi": "vòng (đấu)",
+   "synonyms": "stage <i>(n. giai đoạn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Round</i> (noun) = vòng (đấu). <b>Grammar</b>: <i>the first/second round</i>.",
+   "example": {
+    "en": "They got knocked out in the third <b>round</b>.",
+    "vi": "Họ bị loại ở <b>vòng</b> ba."
+   }
+  },
+  {
+   "word": "semi-final",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsemi ˈfaɪnl/",
+   "def_en": "The match before the final.",
+   "def_vi": "Trận trước chung kết.",
+   "gloss_vi": "trận bán kết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Semi-final</i> (noun) = trận bán kết. <b>Grammar</b>: <i>reach the semi-final</i>.",
+   "example": {
+    "en": "Our team made it to / reached the <b>semi-final</b> but then we were beaten.",
+    "vi": "Đội chúng tôi vào đến <b>bán kết</b> nhưng bị đánh bại."
+   }
+  },
+  {
+   "word": "competitive",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kəmˈpetətɪv/",
+   "def_en": "Involving a strong desire to win.",
+   "def_vi": "Có mong muốn thắng mạnh mẽ.",
+   "gloss_vi": "mang tính cạnh tranh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Competitive</i> (adjective) = mang tính cạnh tranh. <b>Grammar</b>: <i>competition</i> (n.), <i>compete</i> (v.).",
+   "example": {
+    "en": "Most sports are very <b>competitive</b> these days.",
+    "vi": "Hầu hết các môn thể thao ngày nay đều rất <b>cạnh tranh</b>."
+   }
+  },
+  {
+   "word": "trophy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtrəʊfi/",
+   "def_en": "A cup or other object that shows someone has won.",
+   "def_vi": "Cúp hay vật cho thấy ai đã thắng.",
+   "gloss_vi": "cúp",
+   "synonyms": "cup <i>(n. cúp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trophy</i> (noun) = cúp. <b>Grammar</b>: số nhiều <i>trophies</i>.",
+   "example": {
+    "en": "She felt proud as she held the <b>trophy</b> in her hands.",
+    "vi": "Cô ấy tự hào cầm <b>cúp</b> trên tay."
+   }
+  },
+  {
+   "word": "referee",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌrefəˈriː/",
+   "def_en": "The person who controls a game and makes sure rules are followed.",
+   "def_vi": "Người điều khiển trận đấu theo luật.",
+   "gloss_vi": "trọng tài",
+   "synonyms": "umpire <i>(n. trọng tài)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Referee</i> (noun) = trọng tài. <b>Grammar</b>: tennis/cricket dùng <i>umpire</i>.",
+   "example": {
+    "en": "Players who disagree with the <b>referee</b> set a bad example to the spectators.",
+    "vi": "Cầu thủ cãi <b>trọng tài</b> là tấm gương xấu cho khán giả."
+   }
+  },
+  {
+   "word": "spectator",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/spekˈteɪtə(r)/",
+   "def_en": "A person who watches a sporting event.",
+   "def_vi": "Người xem sự kiện thể thao.",
+   "gloss_vi": "khán giả",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spectator</i> (noun) = khán giả. <b>Grammar</b>: <i>spectator sport</i>.",
+   "example": {
+    "en": "Players who disagree with the referee set a bad example to the <b>spectators</b>.",
+    "vi": "Cầu thủ cãi trọng tài là tấm gương xấu cho <b>khán giả</b>."
+   }
+  },
+  {
+   "word": "mountaineer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmaʊntɪˈnɪə(r)/",
+   "def_en": "A person who climbs mountains.",
+   "def_vi": "Người leo núi.",
+   "gloss_vi": "nhà leo núi",
+   "synonyms": "climber <i>(n. người leo núi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mountaineer</i> (noun) = nhà leo núi. <b>Grammar</b>: tên người phải học riêng.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>mountaineers</b> reached the top of Everest.",
+    "vi": "<b>Nhà leo núi</b> lên đến đỉnh Everest."
+   }
+  },
+  {
+   "word": "jockey",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdʒɒki/",
+   "def_en": "A person who rides horses in races.",
+   "def_vi": "Người cưỡi ngựa trong cuộc đua.",
+   "gloss_vi": "nài ngựa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Jockey</i> (noun) = nài ngựa. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>jockey</b> won three races today.",
+    "vi": "<b>Nài ngựa</b> đã thắng ba cuộc đua hôm nay."
+   }
+  }
+ ]
+}
