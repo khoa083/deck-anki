@@ -1,0 +1,232 @@
+{
+ "book": "gva",
+ "unit": 18,
+ "title_vi": "Câu bị động",
+ "theory_html": "<p><b>2.1. Using the passive</b><br><i>2.1. Khi nào dùng bị động</i></p> <p>When the agent is unknown, is 'people in general', is unimportant or obvious, or we don't want to say who; to describe procedures/processes; to avoid repeating the agent. Informally we use <b>people, someone, they, you</b> + active instead. State verbs <b>have, become, seem</b> are not usually passive, but <b>intend, know, own</b> can be.</p><p><i>Dùng bị động khi tác nhân không rõ, không quan trọng, hiển nhiên, hoặc để mô tả quy trình; <b>have, become, seem</b> thường không bị động.</i></p> <p><b>2.2. Active and passive verb forms</b><br><i>2.2. Dạng chủ động và bị động</i></p> <p>Passive patterns: <b>started to be kept</b>, <b>starts being used</b>, <b>are made to repair</b>, <b>were caught selling</b>, <b>is expected to fall</b>; perfect passive <b>claim to have been</b>, <b>have been caught</b>; modal + <b>be</b> / <b>have been</b> + past participle. Some verbs (e.g. <b>want</b>) in the object + to-infinitive pattern have no passive.</p><p><i>Bị động sau động từ + to V / -ing; <b>be made to do</b>; modal + be/have been + V3.</i></p> <p><b>2.3. Verbs with two objects; object + complement</b><br><i>2.3. Động từ hai tân ngữ; tân ngữ + bổ ngữ</i></p> <p>Two passives: <b>I was given the figures</b> or <b>the figures were given (to) me</b>. Object + complement verbs have one passive: <b>was appointed head of…</b>.</p><p><i>Hai tân ngữ → hai cách bị động; tân ngữ + bổ ngữ → một cách.</i></p> <p><b>2.4. get + past participle; have/get + object + past participle</b><br><i>2.4. get + V3; have/get + tân ngữ + V3</i></p> <p><b>get</b> + past participle in speech, mostly for unwelcome events (<b>get mugged</b>) but also positive (<b>got elected</b>); not with state verbs. <b>have/get sth done</b> = arrange for someone to do it, or something unpleasant happens to someone. Reflexive <b>get oneself arrested</b> = subject is responsible.</p><p><i><b>get mugged</b> (văn nói); <b>have sth done</b> = nhờ làm / bị (điều xấu).</i></p>",
+ "items": [
+  {
+   "word": "passive",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈpæsɪv/",
+   "def_en": "A verb form used when the agent is unknown, unimportant, obvious or not mentioned.",
+   "def_vi": "Dạng động từ dùng khi tác nhân không rõ hoặc không quan trọng.",
+   "gloss_vi": "thể bị động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Passive</i> (structure) = thể bị động. <b>Grammar</b>: be + V3; cũng dùng mô tả quy trình: <i>The figures were collected over a ten-year period.</i>.",
+   "example": {
+    "en": "My house <b>was broken into</b> only last week.",
+    "vi": "Nhà tôi <b>bị đột nhập</b> mới tuần trước."
+   }
+  },
+  {
+   "word": "can be found",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/kən bi ˈfaʊnd/",
+   "def_en": "A modal passive: modal + be + past participle.",
+   "def_vi": "Bị động với động từ khuyết thiếu.",
+   "gloss_vi": "có thể được tìm thấy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Can be found</i> (structure) = có thể được tìm thấy. <b>Grammar</b>: tác nhân = mọi người nói chung; quá khứ: <i>might have been caused</i>.",
+   "example": {
+    "en": "The details <b>can be found</b> at the back of the report.",
+    "vi": "Chi tiết <b>có thể được tìm thấy</b> ở cuối báo cáo."
+   }
+  },
+  {
+   "word": "is intended to",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ɪz ɪnˈtendɪd tə/",
+   "def_en": "A state verb that can be used in the passive.",
+   "def_vi": "Động từ trạng thái có thể ở dạng bị động.",
+   "gloss_vi": "nhằm mục đích",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Is intended to</i> (structure) = nhằm mục đích. <b>Grammar</b>: <i>have, become, seem</i> thường không bị động.",
+   "example": {
+    "en": "Our latest poster campaign <b>is intended to</b> reassure people.",
+    "vi": "Chiến dịch áp phích mới nhất <b>nhằm</b> trấn an mọi người."
+   }
+  },
+  {
+   "word": "started to be kept",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈstɑːtɪd tə bi ˈkept/",
+   "def_en": "Passive form after a verb + to-infinitive.",
+   "def_vi": "Bị động sau động từ + to V.",
+   "gloss_vi": "bắt đầu được lưu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Started to be kept</i> (structure) = bắt đầu được lưu. <b>Grammar</b>: chủ động <i>They started to keep records</i>.",
+   "example": {
+    "en": "Records <b>started to be kept</b> only ten years ago.",
+    "vi": "Hồ sơ chỉ <b>bắt đầu được lưu</b> mười năm trước."
+   }
+  },
+  {
+   "word": "be made to do",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/bi ˈmeɪd tə duː/",
+   "def_en": "Passive of make sb do: to be forced to do something (with to).",
+   "def_vi": "Bị bắt phải làm (bị động của make sb do).",
+   "gloss_vi": "bị bắt phải",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be made to do</i> (structure) = bị bắt phải. <b>Grammar</b>: chủ động không có <i>to</i>: <i>They made them repair</i>.",
+   "example": {
+    "en": "People found guilty of vandalism <b>are made to repair</b> the damage they've caused.",
+    "vi": "Người phá hoại <b>bị bắt phải</b> sửa chữa thiệt hại."
+   }
+  },
+  {
+   "word": "be caught doing",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/bi ˈkɔːt ˈduːɪŋ/",
+   "def_en": "Passive of catch sb doing: to be discovered doing something wrong.",
+   "def_vi": "Bị bắt quả tang đang làm.",
+   "gloss_vi": "bị bắt quả tang",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be caught doing</i> (structure) = bị bắt quả tang. <b>Grammar</b>: chủ động <i>The police caught them selling drugs.</i>.",
+   "example": {
+    "en": "More people <b>were caught selling</b> drugs.",
+    "vi": "Nhiều người hơn <b>bị bắt quả tang bán</b> ma túy."
+   }
+  },
+  {
+   "word": "is expected to",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ɪz ɪkˈspektɪd tə/",
+   "def_en": "Passive of expect sb/sth to do.",
+   "def_vi": "Được dự kiến sẽ.",
+   "gloss_vi": "được dự kiến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Is expected to</i> (structure) = được dự kiến. <b>Grammar</b>: <i>want</i> trong mẫu này không có bị động; hoàn thành: <i>is expected to have fallen</i>.",
+   "example": {
+    "en": "This figure <b>is expected to</b> fall rapidly.",
+    "vi": "Con số này <b>được dự kiến</b> giảm nhanh."
+   }
+  },
+  {
+   "word": "claim to have been",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/kleɪm tə həv biːn/",
+   "def_en": "A perfect passive infinitive after a verb.",
+   "def_vi": "Bị động hoàn thành sau động từ.",
+   "gloss_vi": "cho là đã bị",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Claim to have been</i> (structure) = cho là đã bị. <b>Grammar</b>: to have been + V3 / danh từ.",
+   "example": {
+    "en": "More people <b>claim to have been</b> the victims of crime.",
+    "vi": "Nhiều người hơn <b>cho là đã là</b> nạn nhân của tội phạm."
+   }
+  },
+  {
+   "word": "was given",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/wɒz ˈɡɪvn/",
+   "def_en": "Passive of a verb with two objects; the person can be the subject.",
+   "def_vi": "Bị động của động từ hai tân ngữ.",
+   "gloss_vi": "được đưa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Was given</i> (structure) = được đưa. <b>Grammar</b>: hoặc <i>the figures were given (to) me</i>.",
+   "example": {
+    "en": "I was delighted when I <b>was given</b> the figures by our Crime Statistics Department.",
+    "vi": "Tôi rất vui khi <b>được đưa</b> số liệu."
+   }
+  },
+  {
+   "word": "was appointed",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/wɒz əˈpɔɪntɪd/",
+   "def_en": "Passive of a verb + object + complement (one passive form only).",
+   "def_vi": "Bị động của động từ + tân ngữ + bổ ngữ.",
+   "gloss_vi": "được bổ nhiệm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Was appointed</i> (structure) = được bổ nhiệm. <b>Grammar</b>: chỉ một dạng bị động.",
+   "example": {
+    "en": "Attitudes have changed significantly since Peter Miles <b>was appointed</b> head of the police service.",
+    "vi": "Thái độ đã thay đổi từ khi Peter Miles <b>được bổ nhiệm</b> làm người đứng đầu."
+   }
+  },
+  {
+   "word": "get mugged",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ɡet ˈmʌɡd/",
+   "def_en": "Get + past participle, used especially in speech for unwelcome events.",
+   "def_vi": "get + V3, văn nói, sự việc không mong muốn.",
+   "gloss_vi": "bị cướp giật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get mugged</i> (structure) = bị cướp giật. <b>Grammar</b>: = <i>are mugged</i>; cũng tích cực: <i>got elected</i>; không dùng với động từ trạng thái.",
+   "example": {
+    "en": "It's true that more people <b>get mugged</b> today than they did ten years ago.",
+    "vi": "Ngày nay nhiều người <b>bị cướp giật</b> hơn mười năm trước."
+   }
+  },
+  {
+   "word": "have sth fitted",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/hæv ... ˈfɪtɪd/",
+   "def_en": "Have/get + object + past participle: arrange for someone to do something for you.",
+   "def_vi": "Nhờ/thuê ai làm gì.",
+   "gloss_vi": "được lắp (nhờ người)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have sth fitted</i> (structure) = được lắp (nhờ người). <b>Grammar</b>: thân mật hơn: <i>has got … fitted</i>.",
+   "example": {
+    "en": "Virtually every person in my road <b>has had</b> a burglar alarm <b>fitted</b> recently.",
+    "vi": "Gần như ai trong phố tôi cũng <b>lắp</b> chuông báo trộm gần đây."
+   }
+  },
+  {
+   "word": "have sth taken",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/hæv ... ˈteɪkən/",
+   "def_en": "Have/get + object + past participle: something unpleasant happens to someone.",
+   "def_vi": "Bị (điều xấu xảy ra).",
+   "gloss_vi": "bị lấy mất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have sth taken</i> (structure) = bị lấy mất. <b>Grammar</b>: rất thân mật: <i>got my TV and stereo taken</i>.",
+   "example": {
+    "en": "I <b>had</b> my TV and stereo <b>taken</b>",
+    "vi": "Tôi <b>bị lấy mất</b> TV và dàn âm thanh."
+   }
+  },
+  {
+   "word": "get oneself arrested",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ɡet wʌnˈself əˈrestɪd/",
+   "def_en": "Get + reflexive + past participle: the subject is responsible for what happens.",
+   "def_vi": "Tự chuốc lấy (chủ ngữ chịu trách nhiệm).",
+   "gloss_vi": "tự chuốc bị bắt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get oneself arrested</i> (structure) = tự chuốc bị bắt. <b>Grammar</b>: đại từ phản thân + get.",
+   "example": {
+    "en": "People will think more carefully if they know they're going to <b>get themselves arrested</b>.",
+    "vi": "Người ta sẽ cân nhắc kỹ nếu biết mình sẽ <b>tự chuốc bị bắt</b>."
+   }
+  }
+ ]
+}
