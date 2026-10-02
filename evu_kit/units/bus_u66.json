@@ -1,0 +1,348 @@
+{
+ "book": "bus",
+ "unit": 66,
+ "title_vi": "Đàm phán 4: đạt thỏa thuận",
+ "theory_html": "<p><b>A. Deadlock and mediators</b><br><i>A. Bế tắc và hòa giải</i></p> <p><b>deadlock, break down, stalemate, impasse, irreconcilable differences, mediator, mediation, impose, cooling-off period, arbitrator, settlement / resolution, arbitration</b>.</p><p><i><b>bế tắc, đổ vỡ, thế giằng co, ngõ cụt, khác biệt không thể hòa giải, người hòa giải, hòa giải, áp đặt, thời gian hạ nhiệt, trọng tài, giải pháp, phân xử trọng tài</b>.</i></p> <p><b>B. Agreements and contracts</b><br><i>B. Thỏa thuận và hợp đồng</i></p> <p><b>deal, close a deal</b> (more frequent) / <b>clinch a deal, bargain, drive a hard bargain, contract</b>: <b>employment / labour contract, commercial contract, oral / verbal contract, (legally) binding contract, lucrative contract</b>.</p><p><i><b>thương vụ, chốt thương vụ, thỏa thuận, mặc cả gắt; hợp đồng lao động, thương mại, miệng, ràng buộc pháp lý, béo bở</b>.</i></p> <p><b>C. Checking the deal</b><br><i>C. Kiểm tra thỏa thuận</i></p> <p><b>Let me just go/run over the main points; On A, we agreed that…; As far as B is concerned…; We still have the question of C to settle; outstanding issue; written proposal; draw up a contract; I think that covers everything</b>.</p><p><i><b>Tôi xin điểm lại các ý chính; Về A, ta đã thỏa thuận…; Về B…; Còn vấn đề C cần giải quyết; vấn đề còn tồn đọng; đề xuất bằng văn bản; soạn hợp đồng</b>.</i></p>",
+ "items": [
+  {
+   "word": "deadlock",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdedlɒk/",
+   "def_en": "A situation that is completely stuck.",
+   "def_vi": "Tình huống hoàn toàn bế tắc.",
+   "gloss_vi": "sự bế tắc",
+   "synonyms": "stalemate <i>(n. thế giằng co)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Deadlock</i> (noun) = sự bế tắc. <b>Grammar</b>: tính từ <i>deadlocked</i>.",
+   "example": {
+    "en": "after months of negotiations, there was <b>deadlock</b>",
+    "vi": "Sau nhiều tháng đàm phán, đã có <b>bế tắc</b>."
+   }
+  },
+  {
+   "word": "break down",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌbreɪk ˈdaʊn/",
+   "def_en": "(Of negotiations) to fail because there is a problem.",
+   "def_vi": "(Đàm phán) thất bại vì có vấn đề.",
+   "gloss_vi": "đổ vỡ",
+   "synonyms": "collapse <i>(v. sụp đổ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Break down</i> (verb) = đổ vỡ. <b>Grammar</b>: danh từ <i>breakdown</i>.",
+   "example": {
+    "en": "and the negotiations <b>broke down</b>",
+    "vi": "Các cuộc đàm phán <b>đổ vỡ</b>."
+   }
+  },
+  {
+   "word": "stalemate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsteɪlmeɪt/",
+   "def_en": "A situation in which neither group can win.",
+   "def_vi": "Tình huống không bên nào thắng được.",
+   "gloss_vi": "thế giằng co",
+   "synonyms": "deadlock <i>(n. bế tắc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stalemate</i> (noun) = thế giằng co. <b>Grammar</b>: từ cờ vua.",
+   "example": {
+    "en": "Some commentators said there was <b>stalemate</b>",
+    "vi": "Có người nói đó là <b>thế giằng co</b>."
+   }
+  },
+  {
+   "word": "impasse",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈæmpæs/",
+   "def_en": "A situation where no progress can be made.",
+   "def_vi": "Tình huống không thể tiến triển.",
+   "gloss_vi": "ngõ cụt",
+   "synonyms": "deadlock <i>(n. bế tắc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Impasse</i> (noun) = ngõ cụt. <b>Grammar</b>: gốc tiếng Pháp.",
+   "example": {
+    "en": "others, an <b>impasse</b>",
+    "vi": "Người khác nói là <b>ngõ cụt</b>."
+   }
+  },
+  {
+   "word": "irreconcilable differences",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪˌrekənsaɪləbl ˈdɪfrənsɪz/",
+   "def_en": "Differences making it impossible to find agreement.",
+   "def_vi": "Khác biệt khiến không thể thỏa thuận.",
+   "gloss_vi": "khác biệt không thể dung hòa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Irreconcilable differences</i> (noun) = khác biệt không thể dung hòa. <b>Collocations / chunks</b>: cụm cố định.",
+   "example": {
+    "en": "There were <b>irreconcilable differences</b> between the two sides",
+    "vi": "Có <b>khác biệt không thể dung hòa</b> giữa hai bên."
+   }
+  },
+  {
+   "word": "mediator",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmiːdieɪtə(r)/",
+   "def_en": "Someone from outside who helps restart negotiations and bring the two sides closer.",
+   "def_vi": "Người ngoài giúp khởi động lại đàm phán, kéo hai bên lại gần.",
+   "gloss_vi": "người hòa giải",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mediator</i> (noun) = người hòa giải. <b>Grammar</b>: danh từ <i>mediation</i>.",
+   "example": {
+    "en": "The two sides agreed to bring in a <b>mediator</b>",
+    "vi": "Hai bên đồng ý mời <b>người hòa giải</b>."
+   }
+  },
+  {
+   "word": "mediation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmiːdiˈeɪʃn/",
+   "def_en": "Helping two sides to agree.",
+   "def_vi": "Giúp hai bên đồng ý.",
+   "gloss_vi": "sự hòa giải",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mediation</i> (noun) = sự hòa giải. <b>Grammar</b>: động từ <i>mediate</i>.",
+   "example": {
+    "en": "and the process of <b>mediation</b> began",
+    "vi": "Quá trình <b>hòa giải</b> bắt đầu."
+   }
+  },
+  {
+   "word": "cooling-off period",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkuːlɪŋ ˈɒf ˌpɪəriəd/",
+   "def_en": "A period where each side takes no action against the other.",
+   "def_vi": "Thời gian hai bên không hành động chống nhau.",
+   "gloss_vi": "thời gian hạ nhiệt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cooling-off period</i> (noun) = thời gian hạ nhiệt. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "He recommended a <b>cooling-off period</b>.",
+    "vi": "Ông khuyến nghị một <b>thời gian hạ nhiệt</b>."
+   }
+  },
+  {
+   "word": "arbitrator",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɑːbɪtreɪtə(r)/",
+   "def_en": "A person chosen to make a decision in a dispute.",
+   "def_vi": "Người được chọn để phân xử tranh chấp.",
+   "gloss_vi": "trọng tài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Arbitrator</i> (noun) = trọng tài. <b>Grammar</b>: danh từ <i>arbitration</i>.",
+   "example": {
+    "en": "The two sides said they would accept an agreement imposed by an <b>arbitrator</b>.",
+    "vi": "Hai bên chấp nhận thỏa thuận do <b>trọng tài</b> áp đặt."
+   }
+  },
+  {
+   "word": "settlement",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsetlmənt/",
+   "def_en": "An arrangement to end a disagreement.",
+   "def_vi": "Thỏa thuận chấm dứt bất đồng.",
+   "gloss_vi": "giải pháp, sự dàn xếp",
+   "synonyms": "resolution <i>(n. giải pháp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Settlement</i> (noun) = giải pháp, sự dàn xếp. <b>Grammar</b>: động từ <i>settle</i>.",
+   "example": {
+    "en": "She looked at the claims of each side and imposed a <b>settlement</b> or a resolution to the dispute",
+    "vi": "Bà ấy áp đặt <b>giải pháp</b> cho tranh chấp."
+   }
+  },
+  {
+   "word": "arbitration",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɑːbɪˈtreɪʃn/",
+   "def_en": "The process of solving a disagreement between two groups by an arbitrator.",
+   "def_vi": "Quá trình trọng tài giải quyết bất đồng.",
+   "gloss_vi": "phân xử trọng tài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Arbitration</i> (noun) = phân xử trọng tài. <b>Grammar</b>: người = <i>arbitrator</i>.",
+   "example": {
+    "en": "The public was glad that <b>arbitration</b> had settled the dispute.",
+    "vi": "Công chúng vui vì <b>trọng tài</b> đã giải quyết tranh chấp."
+   }
+  },
+  {
+   "word": "close a deal",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkləʊz ə ˈdiːl/",
+   "def_en": "To reach an agreement.",
+   "def_vi": "Đạt thỏa thuận.",
+   "gloss_vi": "chốt thương vụ",
+   "synonyms": "clinch a deal <i>(v. chốt thương vụ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Close a deal</i> (verb) = chốt thương vụ. <b>Grammar</b>: phổ biến hơn <i>clinch a deal</i>.",
+   "example": {
+    "en": "When you reach an agreement, you can talk about <b>closing a deal</b> or clinching a deal.",
+    "vi": "Khi đạt thỏa thuận, bạn <b>chốt thương vụ</b>."
+   }
+  },
+  {
+   "word": "drive a hard bargain",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌdraɪv ə ˌhɑːd ˈbɑːɡɪn/",
+   "def_en": "To get what you want in a negotiation and make few concessions.",
+   "def_vi": "Đạt điều muốn mà ít nhượng bộ.",
+   "gloss_vi": "mặc cả gắt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Drive a hard bargain</i> (verb) = mặc cả gắt. <b>Collocations / chunks</b>: thành ngữ.",
+   "example": {
+    "en": "People who get what they want in a negotiation and make few concessions are said to <b>drive a hard bargain</b>.",
+    "vi": "Người ít nhượng bộ được nói là <b>mặc cả gắt</b>."
+   }
+  },
+  {
+   "word": "employment contract",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪmˈplɔɪmənt ˌkɒntrækt/",
+   "def_en": "A contract about what someone has to do in their job.",
+   "def_vi": "Hợp đồng về việc người lao động phải làm.",
+   "gloss_vi": "hợp đồng lao động",
+   "synonyms": "labour contract <i>(n. hợp đồng lao động)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Employment contract</i> (noun) = hợp đồng lao động. <b>Collocations / chunks</b>: cụm danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "Read your <b>employment contract</b> carefully.",
+    "vi": "<b>Hợp đồng lao động</b> nêu việc người đó phải làm."
+   }
+  },
+  {
+   "word": "verbal contract",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌvɜːbl ˈkɒntrækt/",
+   "def_en": "A contract that is not written down.",
+   "def_vi": "Hợp đồng không viết ra.",
+   "gloss_vi": "hợp đồng miệng",
+   "synonyms": "oral contract <i>(n. hợp đồng miệng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Verbal contract</i> (noun) = hợp đồng miệng. <b>Collocations / chunks</b>: cụm danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "They only had a <b>verbal contract</b>.",
+    "vi": "<b>Hợp đồng miệng</b> không được viết ra."
+   }
+  },
+  {
+   "word": "binding",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈbaɪndɪŋ/",
+   "def_en": "Forcing both sides by law to carry out what they promised.",
+   "def_vi": "Buộc hai bên theo luật thực hiện điều đã hứa.",
+   "gloss_vi": "có tính ràng buộc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Binding</i> (adjective) = có tính ràng buộc. <b>Collocations / chunks</b>: <i>legally binding</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "This is a legally <b>binding</b> contract.",
+    "vi": "Hợp đồng <b>ràng buộc pháp lý</b>."
+   }
+  },
+  {
+   "word": "lucrative",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈluːkrətɪv/",
+   "def_en": "Very profitable.",
+   "def_vi": "Rất sinh lời.",
+   "gloss_vi": "béo bở",
+   "synonyms": "profitable <i>(adj. có lãi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lucrative</i> (adjective) = béo bở. <b>Collocations / chunks</b>: <i>a lucrative contract/deal</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "They won a <b>lucrative</b> contract.",
+    "vi": "Họ giành được một hợp đồng <b>béo bở</b>."
+   }
+  },
+  {
+   "word": "go over",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡəʊ ˈəʊvə(r)/",
+   "def_en": "To repeat and summarize.",
+   "def_vi": "Nhắc lại và tóm tắt.",
+   "gloss_vi": "điểm lại",
+   "synonyms": "run over <i>(v. điểm lại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go over</i> (verb) = điểm lại. <b>Grammar</b>: không tách được.",
+   "example": {
+    "en": "Let me just <b>go/run over</b> – repeat and summarize – the main points.",
+    "vi": "Để tôi <b>điểm lại</b> các ý chính."
+   }
+  },
+  {
+   "word": "as far as … is concerned",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/əz ˈfɑːr əz ... ɪz kənˈsɜːnd/",
+   "def_en": "In relation to.",
+   "def_vi": "Liên quan đến.",
+   "gloss_vi": "về phần",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As far as … is concerned</i> (preposition) = về phần. <b>Collocations / chunks</b>: cụm cố định.",
+   "example": {
+    "en": "<b>As far as B is concerned</b>, – In relation to B, – we agreed …",
+    "vi": "<b>Về phần</b> B, chúng ta đã thỏa thuận…"
+   }
+  },
+  {
+   "word": "outstanding issue",
+   "sense": "not yet decided",
+   "pos": "noun",
+   "ipa": "/aʊtˌstændɪŋ ˈɪʃuː/",
+   "def_en": "A remaining undecided issue.",
+   "def_vi": "Vấn đề chưa quyết.",
+   "gloss_vi": "vấn đề còn tồn đọng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Outstanding issue</i> (noun) = vấn đề còn tồn đọng. <b>Grammar</b>: <i>outstanding</i> = chưa giải quyết.",
+   "example": {
+    "en": "And there’s still the <b>outstanding</b> – remaining undecided – <b>issue</b> of D.",
+    "vi": "Và còn <b>vấn đề tồn đọng</b> D."
+   }
+  },
+  {
+   "word": "draw up",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌdrɔː ˈʌp/",
+   "def_en": "To write (a contract).",
+   "def_vi": "Soạn (hợp đồng).",
+   "gloss_vi": "soạn thảo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Draw up</i> (verb) = soạn thảo. <b>Collocations / chunks</b>: <i>draw up a contract/plan</i>.",
+   "example": {
+    "en": "We’ll <b>draw up</b> – write – a contract based on those points.",
+    "vi": "Chúng tôi sẽ <b>soạn</b> hợp đồng dựa trên các điểm đó."
+   }
+  }
+ ]
+}
