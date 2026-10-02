@@ -1,0 +1,379 @@
+{
+ "book": "upp",
+ "unit": 38,
+ "title_vi": "Chính trị và thể chế công",
+ "theory_html": "<p><b>A. Types of government</b><br><i>A. Các kiểu chính thể</i></p> <p><b>republic</b> (governed by representatives and a president), <b>monarchy</b> (ruled by a king or queen), <b>federation</b>, <b>democracy</b>, <b>dictatorship</b> (a dictator), <b>independence</b>.</p><p><i><b>nền cộng hòa, chế độ quân chủ, liên bang, nền dân chủ, chế độ độc tài, độc lập</b>.</i></p> <p><b>B. Presidential and parliamentary government</b><br><i>B. Chính thể tổng thống và nghị viện</i></p> <p>US: <b>President, legislature (Congress), branches, elected, a four-year term, appoint / nominate officials, cabinet, judges, the majority party, two houses: House of Representatives and Senate</b>. UK: <b>Parliament, Cabinet of Ministers, coalition, Prime Minister, House of Commons / House of Lords, chambers, MPs, constituency</b>.</p><p><i><b>cơ quan lập pháp, nhánh, nhiệm kỳ, bổ nhiệm, nội các, đảng đa số, Hạ viện, Thượng viện, liên minh, viện</b>.</i></p> <p><b>C. Parliamentary elections</b><br><i>C. Bầu cử nghị viện</i></p> <p><b>general election, politician, representative, candidates standing/running for Parliament, policies, polling day, polling station, cast a vote, ballot paper, majority, seat, marginal seat</b>. Word families: <b>rule – ruler; govern – governor – government; preside – president – presidency; represent – representative – representation; elect – elector, electorate – election</b>.</p><p><i><b>đại diện, ứng cử viên, ra tranh cử, ngày bầu cử, điểm bỏ phiếu, bỏ phiếu, lá phiếu, ghế, ghế bấp bênh, cử tri</b>.</i></p>",
+ "items": [
+  {
+   "word": "republic",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˈpʌblɪk/",
+   "def_en": "A state governed by representatives and usually a president.",
+   "def_vi": "Nhà nước do đại biểu và thường là tổng thống điều hành.",
+   "gloss_vi": "nền cộng hòa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "monarchy <i>(n. quân chủ)</i>",
+   "grammar_vi": "<i>Republic</i> (noun) = nền cộng hòa. <b>Grammar</b>: <i>republican</i> (adj.).",
+   "example": {
+    "en": "A <b>republic</b> is a state governed by representatives and, usually, a president.",
+    "vi": "<b>Nền cộng hòa</b> là nhà nước do đại biểu và thường là tổng thống điều hành."
+   }
+  },
+  {
+   "word": "monarchy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɒnəki/",
+   "def_en": "A state ruled by a king or queen.",
+   "def_vi": "Nhà nước do vua hay nữ hoàng cai trị.",
+   "gloss_vi": "chế độ quân chủ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "republic <i>(n. cộng hòa)</i>",
+   "grammar_vi": "<i>Monarchy</i> (noun) = chế độ quân chủ. <b>Grammar</b>: <i>monarch</i> (người).",
+   "example": {
+    "en": "A <b>monarchy</b> is a state ruled by a king or queen.",
+    "vi": "<b>Chế độ quân chủ</b> là nhà nước do vua hay nữ hoàng cai trị."
+   }
+  },
+  {
+   "word": "federation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌfedəˈreɪʃn/",
+   "def_en": "A union of political units under a central government.",
+   "def_vi": "Liên hiệp các đơn vị chính trị dưới chính phủ trung ương.",
+   "gloss_vi": "liên bang",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Federation</i> (noun) = liên bang. <b>Grammar</b>: <i>federal</i> (adj.).",
+   "example": {
+    "en": "A <b>federation</b> is a union of political units under a central government.",
+    "vi": "<b>Liên bang</b> là liên hiệp các đơn vị chính trị dưới một chính phủ trung ương."
+   }
+  },
+  {
+   "word": "democracy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈmɒkrəsi/",
+   "def_en": "Government of, by and for the people.",
+   "def_vi": "Chính phủ của dân, do dân, vì dân.",
+   "gloss_vi": "nền dân chủ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "dictatorship <i>(n. độc tài)</i>",
+   "grammar_vi": "<i>Democracy</i> (noun) = nền dân chủ. <b>Grammar</b>: <i>democratic</i> (adj.).",
+   "example": {
+    "en": "<b>Democracy</b> is government of, by and for the people.",
+    "vi": "<b>Dân chủ</b> là chính quyền của dân, do dân và vì dân."
+   }
+  },
+  {
+   "word": "dictatorship",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪkˈteɪtəʃɪp/",
+   "def_en": "A system of government run by a dictator.",
+   "def_vi": "Chế độ do một nhà độc tài điều hành.",
+   "gloss_vi": "chế độ độc tài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "democracy <i>(n. dân chủ)</i>",
+   "grammar_vi": "<i>Dictatorship</i> (noun) = chế độ độc tài. <b>Grammar</b>: <i>dictator</i> (người).",
+   "example": {
+    "en": "A <b>dictatorship</b> is a system of government run by a dictator.",
+    "vi": "<b>Chế độ độc tài</b> là hệ thống do nhà độc tài điều hành."
+   }
+  },
+  {
+   "word": "independence",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɪndɪˈpendəns/",
+   "def_en": "Freedom from outside control; self-governing.",
+   "def_vi": "Không bị kiểm soát từ bên ngoài; tự quản.",
+   "gloss_vi": "độc lập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Independence</i> (noun) = độc lập. <b>Grammar</b>: <i>independent</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "The country gained <b>independence</b> in 1960.",
+    "vi": "Đất nước giành <b>độc lập</b> năm 1960."
+   }
+  },
+  {
+   "word": "legislature",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈledʒɪsleɪtʃə(r)/",
+   "def_en": "A group of people who make new laws.",
+   "def_vi": "Nhóm người làm ra luật mới.",
+   "gloss_vi": "cơ quan lập pháp",
+   "synonyms": "parliament <i>(n. nghị viện)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Legislature</i> (noun) = cơ quan lập pháp. <b>Grammar</b>: <i>legislation</i> (n.).",
+   "example": {
+    "en": "The powers of the President and the <b>legislature</b> (Congress) are separate.",
+    "vi": "Quyền lực của Tổng thống và <b>cơ quan lập pháp</b> tách biệt."
+   }
+  },
+  {
+   "word": "term",
+   "sense": "office",
+   "pos": "noun",
+   "ipa": "/tɜːm/",
+   "def_en": "A fixed period of time in office.",
+   "def_vi": "Khoảng thời gian cố định giữ chức.",
+   "gloss_vi": "nhiệm kỳ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Term</i> (noun) = nhiệm kỳ. <b>Grammar</b>: <i>serve a second term</i>. <b>Common mistakes</b>: cũng = học kỳ.",
+   "example": {
+    "en": "The President is elected for a four-year <b>term</b>.",
+    "vi": "Tổng thống được bầu cho <b>nhiệm kỳ</b> bốn năm."
+   }
+  },
+  {
+   "word": "appoint",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈpɔɪnt/",
+   "def_en": "To decide who to give positions of authority to.",
+   "def_vi": "Quyết định trao chức vụ cho ai.",
+   "gloss_vi": "bổ nhiệm",
+   "synonyms": "nominate <i>(v. đề cử)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Appoint</i> (verb) = bổ nhiệm. <b>Grammar</b>: <i>appointment</i> (n.).",
+   "example": {
+    "en": "The President can <b>appoint</b> or nominate high officials in government.",
+    "vi": "Tổng thống có thể <b>bổ nhiệm</b> quan chức cấp cao."
+   }
+  },
+  {
+   "word": "cabinet",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkæbɪnət/",
+   "def_en": "A group of the most important ministers who advise.",
+   "def_vi": "Nhóm bộ trưởng quan trọng nhất cố vấn.",
+   "gloss_vi": "nội các",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cabinet</i> (noun) = nội các. <b>Grammar</b>: <i>the Cabinet</i>.",
+   "example": {
+    "en": "The President can appoint high officials, including <b>cabinet</b> members.",
+    "vi": "Tổng thống bổ nhiệm thành viên <b>nội các</b>."
+   }
+  },
+  {
+   "word": "majority party",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/məˌdʒɒrəti ˈpɑːti/",
+   "def_en": "The political party which won the most votes.",
+   "def_vi": "Đảng giành nhiều phiếu nhất.",
+   "gloss_vi": "đảng đa số",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "minority party <i>(np. đảng thiểu số)</i>",
+   "grammar_vi": "<i>Majority party</i> (noun phrase) = đảng đa số. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "The President leads a major party, usually the <b>majority party</b> in Congress.",
+    "vi": "Tổng thống thường lãnh đạo <b>đảng đa số</b> trong Quốc hội."
+   }
+  },
+  {
+   "word": "coalition",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkəʊəˈlɪʃn/",
+   "def_en": "A government formed from more than one party.",
+   "def_vi": "Chính phủ gồm nhiều đảng.",
+   "gloss_vi": "liên minh, chính phủ liên hiệp",
+   "synonyms": "alliance <i>(n. liên minh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Coalition</i> (noun) = liên minh, chính phủ liên hiệp. <b>Grammar</b>: <i>a coalition government</i>.",
+   "example": {
+    "en": "If no party has an overall majority, there may be a <b>coalition</b> government.",
+    "vi": "Nếu không đảng nào chiếm đa số, có thể thành lập chính phủ <b>liên minh</b>."
+   }
+  },
+  {
+   "word": "House of Commons",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌhaʊs əv ˈkɒmənz/",
+   "def_en": "The elected chamber of the UK Parliament.",
+   "def_vi": "Viện dân cử của Nghị viện Anh.",
+   "gloss_vi": "Hạ viện (Anh)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "House of Lords <i>(np. Thượng viện)</i>",
+   "grammar_vi": "<i>House of Commons</i> (noun phrase) = Hạ viện (Anh). <b>Grammar</b>: viết hoa.",
+   "example": {
+    "en": "The Prime Minister is the leader of the majority party in the <b>House of Commons</b>.",
+    "vi": "Thủ tướng là lãnh đạo đảng đa số ở <b>Hạ viện</b>."
+   }
+  },
+  {
+   "word": "chamber",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtʃeɪmbə(r)/",
+   "def_en": "One of the parts of a parliament.",
+   "def_vi": "Một viện của nghị viện.",
+   "gloss_vi": "viện",
+   "synonyms": "house <i>(n. viện)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chamber</i> (noun) = viện. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Parliament consists of two <b>chambers</b>.",
+    "vi": "Nghị viện gồm hai <b>viện</b>."
+   }
+  },
+  {
+   "word": "candidate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkændɪdət/",
+   "def_en": "A person who is trying to be elected.",
+   "def_vi": "Người đang tranh cử.",
+   "gloss_vi": "ứng cử viên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Candidate</i> (noun) = ứng cử viên. <b>Grammar</b>: <i>stand as a candidate</i>.",
+   "example": {
+    "en": "Usually there are several <b>candidates</b> to choose from.",
+    "vi": "Thường có nhiều <b>ứng cử viên</b> để lựa chọn."
+   }
+  },
+  {
+   "word": "stand for",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˈstænd fə(r)/",
+   "def_en": "To be a candidate in an election.",
+   "def_vi": "Ra ứng cử.",
+   "gloss_vi": "ra tranh cử",
+   "synonyms": "run for <i>(pv. tranh cử)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stand for</i> (phrasal verb) = ra tranh cử. <b>Grammar</b>: Anh–Anh <i>stand for</i>, Mỹ <i>run for</i>. <b>Common mistakes</b>: cũng = viết tắt của.",
+   "example": {
+    "en": "These candidates are all <b>standing</b> (or running) <b>for</b> Parliament.",
+    "vi": "Các ứng cử viên đều <b>ra tranh cử</b> Quốc hội."
+   }
+  },
+  {
+   "word": "polling station",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈpəʊlɪŋ ˌsteɪʃn/",
+   "def_en": "The place where people go to vote.",
+   "def_vi": "Nơi người dân đến bỏ phiếu.",
+   "gloss_vi": "điểm bỏ phiếu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Polling station</i> (noun phrase) = điểm bỏ phiếu. <b>Grammar</b>: <i>polling day</i>.",
+   "example": {
+    "en": "On polling day every adult goes to the <b>polling station</b>.",
+    "vi": "Vào ngày bầu cử, mọi người lớn đến <b>điểm bỏ phiếu</b>."
+   }
+  },
+  {
+   "word": "cast a vote",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌkɑːst ə ˈvəʊt/",
+   "def_en": "To vote.",
+   "def_vi": "Bỏ phiếu.",
+   "gloss_vi": "bỏ phiếu",
+   "synonyms": "vote <i>(v. bầu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cast a vote</i> (verb phrase) = bỏ phiếu. <b>Grammar</b>: <i>cast – cast – cast</i>.",
+   "example": {
+    "en": "Every adult <b>casts a vote</b> by marking a cross on their ballot paper.",
+    "vi": "Họ <b>bỏ phiếu</b> bằng cách đánh dấu chéo lên lá phiếu."
+   }
+  },
+  {
+   "word": "ballot paper",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈbælət ˌpeɪpə(r)/",
+   "def_en": "The paper on which you mark your vote.",
+   "def_vi": "Tờ giấy đánh dấu phiếu bầu.",
+   "gloss_vi": "lá phiếu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ballot paper</i> (noun phrase) = lá phiếu. <b>Grammar</b>: <i>secret ballot</i>.",
+   "example": {
+    "en": "Every adult casts a vote by marking a cross on their <b>ballot paper</b>.",
+    "vi": "Họ bỏ phiếu bằng cách đánh dấu chéo lên <b>lá phiếu</b>."
+   }
+  },
+  {
+   "word": "seat",
+   "sense": "parliament",
+   "pos": "noun",
+   "ipa": "/siːt/",
+   "def_en": "A position as a member of parliament.",
+   "def_vi": "Vị trí nghị sĩ.",
+   "gloss_vi": "ghế (nghị sĩ)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Seat</i> (noun) = ghế (nghị sĩ). <b>Grammar</b>: <i>win/lose a seat</i>.",
+   "example": {
+    "en": "The candidate who gets the majority of votes wins the <b>seat</b>.",
+    "vi": "Ứng cử viên nhiều phiếu nhất giành <b>ghế</b>."
+   }
+  },
+  {
+   "word": "marginal seat",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌmɑːdʒɪnl ˈsiːt/",
+   "def_en": "A seat where the vote is very close.",
+   "def_vi": "Ghế có kết quả rất sát nút.",
+   "gloss_vi": "ghế bấp bênh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "safe seat <i>(np. ghế an toàn)</i>",
+   "grammar_vi": "<i>Marginal seat</i> (noun phrase) = ghế bấp bênh. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "If the vote is very close, the constituency may be referred to as a <b>marginal seat</b>.",
+    "vi": "Nếu kết quả rất sát, khu vực có thể được gọi là <b>ghế bấp bênh</b>."
+   }
+  },
+  {
+   "word": "electorate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪˈlektərət/",
+   "def_en": "All the people who can vote.",
+   "def_vi": "Toàn bộ người có quyền bầu cử.",
+   "gloss_vi": "cử tri",
+   "synonyms": "voters <i>(pn. cử tri)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Electorate</i> (noun) = cử tri. <b>Grammar</b>: danh từ tập hợp.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>electorate</b> chose a new government.",
+    "vi": "<b>Cử tri</b> đã chọn một chính phủ mới."
+   }
+  },
+  {
+   "word": "presidency",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈprezɪdənsi/",
+   "def_en": "The job or period of being president.",
+   "def_vi": "Chức vụ hay thời gian làm tổng thống.",
+   "gloss_vi": "nhiệm kỳ tổng thống",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Presidency</i> (noun) = nhiệm kỳ tổng thống. <b>Grammar</b>: <i>preside (over)</i> (v.).",
+   "ex_kit": true,
+   "example": {
+    "en": "During her <b>presidency</b>, the economy grew.",
+    "vi": "Trong <b>nhiệm kỳ tổng thống</b> của bà ấy, nền kinh tế phát triển."
+   }
+  }
+ ]
+}

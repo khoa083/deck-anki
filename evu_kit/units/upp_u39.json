@@ -1,0 +1,494 @@
+{
+ "book": "upp",
+ "unit": 39,
+ "title_vi": "Tội phạm",
+ "theory_html": "<p><b>A. Crimes and criminals</b><br><i>A. Tội và tội phạm</i></p> <p><b>murder – murderer; shoplifting – shoplifter – shoplift; burglary – burglar – burgle; smuggling – smuggler – smuggle; kidnapping – kidnapper – kidnap; terrorism – terrorist – (terrorise); fraud – fraudster – defraud; abduction – abductor – abduct</b>.</p><p><i><b>giết người, trộm ở cửa hàng, trộm đột nhập, buôn lậu, bắt cóc tống tiền, khủng bố, lừa đảo, bắt cóc</b>.</i></p> <p><b>B. Investigating crime</b><br><i>B. Điều tra tội phạm</i></p> <p><b>commit a crime; witness; arrest; charge sb with; accuse sb of; accomplice; case; evidence; crime scene; fingerprints; DNA evidence; proof</b>.</p><p><i><b>phạm tội, chứng kiến, bắt, buộc tội, tố cáo, đồng phạm, vụ án, bằng chứng, hiện trường, dấu vân tay, chứng cứ</b>.</i></p> <p><b>C. Trial and punishment</b><br><i>C. Xét xử và hình phạt</i></p> <p><b>came to court; were tried; trial; plead not guilty; defend; prosecuting lawyer; deliberations; pass verdict; guilty; convicted of; innocent; acquit sb of; sentence sb to; prison sentence; pay a fine; serve; be released from prison; get time off</b>.</p><p><i><b>ra tòa, bị xét xử, phiên tòa, không nhận tội, bào chữa, công tố, nghị án, tuyên án, bị kết tội, tha bổng, kết án, thụ án, được giảm án</b>.</i></p> <p><b>D. People</b><br><i>D. Người liên quan</i></p> <p><b>offender (offence), judge, jury (verdict), victim, suspect (suspected of), witness</b>.</p><p><i><b>người phạm tội, thẩm phán, bồi thẩm đoàn, nạn nhân, nghi phạm, nhân chứng</b>.</i></p>",
+ "items": [
+  {
+   "word": "shoplifting",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈʃɒplɪftɪŋ/",
+   "def_en": "Stealing something from a shop.",
+   "def_vi": "Ăn cắp đồ ở cửa hàng.",
+   "gloss_vi": "trộm đồ ở cửa hàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shoplifting</i> (noun) = trộm đồ ở cửa hàng. <b>Grammar</b>: <i>shoplifter, shoplift</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He was arrested for <b>shoplifting</b>.",
+    "vi": "Cậu ta bị bắt vì <b>trộm đồ ở cửa hàng</b>."
+   }
+  },
+  {
+   "word": "smuggling",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsmʌɡlɪŋ/",
+   "def_en": "Taking something illegally into another country.",
+   "def_vi": "Đưa hàng trái phép vào nước khác.",
+   "gloss_vi": "buôn lậu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Smuggling</i> (noun) = buôn lậu. <b>Grammar</b>: <i>smuggler, smuggle</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Drug <b>smuggling</b> is a serious crime.",
+    "vi": "<b>Buôn lậu</b> ma túy là tội nghiêm trọng."
+   }
+  },
+  {
+   "word": "kidnapping",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɪdnæpɪŋ/",
+   "def_en": "Taking a person hostage in exchange for money or favours.",
+   "def_vi": "Bắt giữ người để đòi tiền hay điều kiện.",
+   "gloss_vi": "bắt cóc tống tiền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Kidnapping</i> (noun) = bắt cóc tống tiền. <b>Grammar</b>: <i>kidnapper, kidnap</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>kidnapping</b> shocked the whole country.",
+    "vi": "Vụ <b>bắt cóc</b> gây chấn động cả nước."
+   }
+  },
+  {
+   "word": "terrorism",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈterərɪzəm/",
+   "def_en": "Violent action for political purposes.",
+   "def_vi": "Hành động bạo lực vì mục đích chính trị.",
+   "gloss_vi": "khủng bố",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Terrorism</i> (noun) = khủng bố. <b>Grammar</b>: <i>terrorist</i>; <i>terrorise</i> (làm khiếp sợ).",
+   "ex_kit": true,
+   "example": {
+    "en": "The government promised to fight <b>terrorism</b>.",
+    "vi": "Chính phủ cam kết chống <b>khủng bố</b>."
+   }
+  },
+  {
+   "word": "fraud",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/frɔːd/",
+   "def_en": "Deceiving people in order to take money from them.",
+   "def_vi": "Lừa người để lấy tiền.",
+   "gloss_vi": "gian lận, lừa đảo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fraud</i> (noun) = gian lận, lừa đảo. <b>Grammar</b>: <i>fraudster, defraud</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He was found guilty of <b>fraud</b>.",
+    "vi": "Ông ta bị kết tội <b>lừa đảo</b>."
+   }
+  },
+  {
+   "word": "abduct",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/æbˈdʌkt/",
+   "def_en": "To take someone, especially a child, usually in order to harm them.",
+   "def_vi": "Bắt người, nhất là trẻ em, thường để làm hại.",
+   "gloss_vi": "bắt cóc",
+   "synonyms": "kidnap <i>(v. bắt cóc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Abduct</i> (verb) = bắt cóc. <b>Grammar</b>: <i>abduction, abductor</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The child was <b>abducted</b> on her way home from school.",
+    "vi": "Đứa trẻ bị <b>bắt cóc</b> trên đường đi học về."
+   }
+  },
+  {
+   "word": "witness",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈwɪtnəs/",
+   "def_en": "To see a crime or event happen.",
+   "def_vi": "Chứng kiến tội ác hay sự việc.",
+   "gloss_vi": "chứng kiến",
+   "synonyms": "see <i>(v. thấy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Witness</i> (verb) = chứng kiến. <b>Grammar</b>: cũng là danh từ (nhân chứng).",
+   "example": {
+    "en": "Someone <b>witnessed</b> the crime and told the police.",
+    "vi": "Có người đã <b>chứng kiến</b> vụ phạm tội và báo cảnh sát."
+   }
+  },
+  {
+   "word": "charge with",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˈtʃɑːdʒ wɪð/",
+   "def_en": "To formally accuse someone of a crime.",
+   "def_vi": "Chính thức buộc tội ai.",
+   "gloss_vi": "buộc tội",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Charge with</i> (phrasal verb) = buộc tội. <b>Grammar</b>: <i>charge sb with sth</i>.",
+   "example": {
+    "en": "The police arrested Ross and <b>charged</b> him <b>with</b> bank robbery.",
+    "vi": "Cảnh sát bắt Ross và <b>buộc tội</b> anh ta cướp ngân hàng."
+   }
+  },
+  {
+   "word": "accuse of",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/əˈkjuːz əv/",
+   "def_en": "To say someone has done something wrong.",
+   "def_vi": "Nói ai đã làm sai.",
+   "gloss_vi": "tố cáo, buộc tội",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Accuse of</i> (phrasal verb) = tố cáo, buộc tội. <b>Grammar</b>: <i>accuse sb of (doing) sth</i>.",
+   "example": {
+    "en": "They also <b>accused</b> his twin brother, Ben, <b>of</b> being his accomplice.",
+    "vi": "Họ cũng <b>tố cáo</b> anh trai sinh đôi của anh ta là đồng phạm."
+   }
+  },
+  {
+   "word": "accomplice",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈkʌmplɪs/",
+   "def_en": "Someone who helps someone commit a crime.",
+   "def_vi": "Người giúp ai phạm tội.",
+   "gloss_vi": "đồng phạm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Accomplice</i> (noun) = đồng phạm. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "They accused his twin brother of being his <b>accomplice</b>.",
+    "vi": "Họ tố cáo anh trai anh ta là <b>đồng phạm</b>."
+   }
+  },
+  {
+   "word": "case",
+   "sense": "crime",
+   "pos": "noun",
+   "ipa": "/keɪs/",
+   "def_en": "A crime that is being investigated.",
+   "def_vi": "Vụ án đang được điều tra.",
+   "gloss_vi": "vụ án",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Case</i> (noun) = vụ án. <b>Grammar</b>: <i>solve a case</i>.",
+   "example": {
+    "en": "The police investigated the <b>case</b>.",
+    "vi": "Cảnh sát điều tra <b>vụ án</b>."
+   }
+  },
+  {
+   "word": "evidence",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈevɪdəns/",
+   "def_en": "Information used in court to decide whether the accused is guilty.",
+   "def_vi": "Thông tin dùng ở tòa để xét có tội.",
+   "gloss_vi": "bằng chứng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Evidence</i> (noun) = bằng chứng. <b>Grammar</b>: không đếm được: <i>a piece of evidence</i>.",
+   "example": {
+    "en": "They collected <b>evidence</b> at the crime scene.",
+    "vi": "Họ thu thập <b>bằng chứng</b> ở hiện trường."
+   }
+  },
+  {
+   "word": "crime scene",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈkraɪm siːn/",
+   "def_en": "The place where a crime happened.",
+   "def_vi": "Nơi tội ác xảy ra.",
+   "gloss_vi": "hiện trường vụ án",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Crime scene</i> (noun phrase) = hiện trường vụ án. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "They collected evidence at the <b>crime scene</b>.",
+    "vi": "Họ thu thập bằng chứng ở <b>hiện trường vụ án</b>."
+   }
+  },
+  {
+   "word": "fingerprints",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈfɪŋɡəprɪnts/",
+   "def_en": "Marks left by the skin on the ends of your fingers.",
+   "def_vi": "Dấu da đầu ngón tay để lại.",
+   "gloss_vi": "dấu vân tay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fingerprints</i> (plural noun) = dấu vân tay. <b>Grammar</b>: số ít <i>fingerprint</i>.",
+   "example": {
+    "en": "They found Ross’s <b>fingerprints</b>.",
+    "vi": "Họ tìm thấy <b>dấu vân tay</b> của Ross."
+   }
+  },
+  {
+   "word": "proof",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pruːf/",
+   "def_en": "Evidence that shows conclusively that something is a fact.",
+   "def_vi": "Bằng chứng xác thực điều gì.",
+   "gloss_vi": "chứng cứ xác thực",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Proof</i> (noun) = chứng cứ xác thực. <b>Grammar</b>: không đếm được; <i>prove</i> (v.).",
+   "example": {
+    "en": "They were confident they had <b>proof</b> that the two men were guilty.",
+    "vi": "Họ tin chắc có <b>chứng cứ</b> hai người có tội."
+   }
+  },
+  {
+   "word": "be tried",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/bi ˈtraɪd/",
+   "def_en": "To be put through a legal process to decide if you committed a crime.",
+   "def_vi": "Bị đưa ra xét xử.",
+   "gloss_vi": "bị xét xử",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be tried</i> (verb phrase) = bị xét xử. <b>Grammar</b>: <i>try</i> (v.) → <i>trial</i> (n.).",
+   "example": {
+    "en": "The case came to court, and Ross and Ben <b>were tried</b>.",
+    "vi": "Vụ án ra tòa, Ross và Ben <b>bị xét xử</b>."
+   }
+  },
+  {
+   "word": "trial",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtraɪəl/",
+   "def_en": "The legal process in court where an accused person is tried.",
+   "def_vi": "Quá trình xét xử bị cáo ở tòa.",
+   "gloss_vi": "phiên tòa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trial</i> (noun) = phiên tòa. <b>Grammar</b>: <i>be on trial</i>.",
+   "example": {
+    "en": "The <b>trial</b> did not last very long.",
+    "vi": "<b>Phiên tòa</b> không kéo dài lắm."
+   }
+  },
+  {
+   "word": "plead not guilty",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌpliːd nɒt ˈɡɪlti/",
+   "def_en": "To say you did not commit the crime.",
+   "def_vi": "Nói mình không phạm tội.",
+   "gloss_vi": "không nhận tội",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "plead guilty <i>(vp. nhận tội)</i>",
+   "grammar_vi": "<i>Plead not guilty</i> (verb phrase) = không nhận tội. <b>Grammar</b>: <i>plead – pleaded</i>.",
+   "example": {
+    "en": "Ross and Ben both <b>pleaded not guilty</b> in court.",
+    "vi": "Cả Ross và Ben đều <b>không nhận tội</b> trước tòa."
+   }
+  },
+  {
+   "word": "defend",
+   "sense": "court",
+   "pos": "verb",
+   "ipa": "/dɪˈfend/",
+   "def_en": "To speak for someone in court.",
+   "def_vi": "Bào chữa cho ai ở tòa.",
+   "gloss_vi": "bào chữa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "prosecute <i>(v. truy tố)</i>",
+   "grammar_vi": "<i>Defend</i> (verb) = bào chữa. <b>Grammar</b>: <i>defence</i> (n.).",
+   "example": {
+    "en": "Their lawyer did her best to <b>defend</b> them.",
+    "vi": "Luật sư của họ cố hết sức <b>bào chữa</b> cho họ."
+   }
+  },
+  {
+   "word": "prosecute",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈprɒsɪkjuːt/",
+   "def_en": "To present the case against someone in court.",
+   "def_vi": "Trình bày cáo buộc ai trước tòa.",
+   "gloss_vi": "truy tố, công tố",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "defend <i>(v. bào chữa)</i>",
+   "grammar_vi": "<i>Prosecute</i> (verb) = truy tố, công tố. <b>Grammar</b>: <i>prosecution</i> (n.).",
+   "example": {
+    "en": "The <b>prosecuting</b> lawyer produced a very strong case against them.",
+    "vi": "Luật sư <b>công tố</b> đưa ra lập luận rất mạnh."
+   }
+  },
+  {
+   "word": "deliberations",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/dɪˌlɪbəˈreɪʃnz/",
+   "def_en": "Discussions.",
+   "def_vi": "Cuộc thảo luận.",
+   "gloss_vi": "sự nghị án",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Deliberations</i> (plural noun) = sự nghị án. <b>Grammar</b>: số nhiều.",
+   "example": {
+    "en": "After brief <b>deliberations</b>, the jury passed verdict on them.",
+    "vi": "Sau khi <b>nghị án</b> ngắn, bồi thẩm đoàn đưa ra phán quyết."
+   }
+  },
+  {
+   "word": "pass verdict",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌpɑːs ˈvɜːdɪkt/",
+   "def_en": "To give a decision about whether someone is guilty.",
+   "def_vi": "Ra quyết định có tội hay không.",
+   "gloss_vi": "tuyên phán quyết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pass verdict</i> (verb phrase) = tuyên phán quyết. <b>Grammar</b>: <i>verdict</i> = phán quyết.",
+   "example": {
+    "en": "The jury <b>passed verdict</b> on them.",
+    "vi": "Bồi thẩm đoàn <b>tuyên phán quyết</b>."
+   }
+  },
+  {
+   "word": "convict of",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/kənˈvɪkt əv/",
+   "def_en": "To find someone guilty of a crime.",
+   "def_vi": "Kết luận ai có tội.",
+   "gloss_vi": "kết tội",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "acquit of <i>(pv. tha bổng)</i>",
+   "grammar_vi": "<i>Convict of</i> (phrasal verb) = kết tội. <b>Grammar</b>: danh từ <i>conviction</i>; <i>convict</i> /ˈkɒnvɪkt/ = phạm nhân.",
+   "example": {
+    "en": "He was <b>convicted of</b> robbery.",
+    "vi": "Anh ta bị <b>kết tội</b> cướp."
+   }
+  },
+  {
+   "word": "acquit",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈkwɪt/",
+   "def_en": "To decide officially that someone is not guilty.",
+   "def_vi": "Chính thức tuyên ai vô tội.",
+   "gloss_vi": "tha bổng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "convict <i>(v. kết tội)</i>",
+   "grammar_vi": "<i>Acquit</i> (verb) = tha bổng. <b>Grammar</b>: <i>acquit sb of sth</i>; <i>acquit – acquitted</i>.",
+   "example": {
+    "en": "The judge <b>acquitted</b> Ben of any involvement in the robbery.",
+    "vi": "Thẩm phán <b>tha bổng</b> Ben khỏi mọi liên quan."
+   }
+  },
+  {
+   "word": "sentence",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈsentəns/",
+   "def_en": "To give a punishment to someone found guilty.",
+   "def_vi": "Đưa ra hình phạt cho người có tội.",
+   "gloss_vi": "kết án",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sentence</i> (verb) = kết án. <b>Grammar</b>: <i>sentence sb to…</i>; cũng là danh từ.",
+   "example": {
+    "en": "The judge <b>sentenced</b> Ross to three years in prison.",
+    "vi": "Thẩm phán <b>kết án</b> Ross ba năm tù."
+   }
+  },
+  {
+   "word": "serve",
+   "sense": "prison",
+   "pos": "verb",
+   "ipa": "/sɜːv/",
+   "def_en": "To spend time in prison as a punishment.",
+   "def_vi": "Ở tù như hình phạt.",
+   "gloss_vi": "thụ án",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Serve</i> (verb) = thụ án. <b>Grammar</b>: <i>serve a sentence</i>.",
+   "example": {
+    "en": "Ross <b>served</b> two years in prison.",
+    "vi": "Ross <b>thụ án</b> hai năm tù."
+   }
+  },
+  {
+   "word": "be released",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/bi rɪˈliːst/",
+   "def_en": "To be allowed to leave prison.",
+   "def_vi": "Được phép ra tù.",
+   "gloss_vi": "được thả",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be released</i> (verb phrase) = được thả. <b>Grammar</b>: <i>release</i> (v./n.).",
+   "example": {
+    "en": "He <b>was released from</b> prison a year early.",
+    "vi": "Anh ta <b>được thả</b> khỏi tù sớm một năm."
+   }
+  },
+  {
+   "word": "get time off",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡet ˌtaɪm ˈɒf/",
+   "def_en": "To have a prison sentence reduced.",
+   "def_vi": "Được giảm án.",
+   "gloss_vi": "được giảm án",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get time off</i> (verb phrase) = được giảm án. <b>Grammar</b>: <i>for good behaviour</i>.",
+   "example": {
+    "en": "He <b>got time off</b> for good behaviour.",
+    "vi": "Anh ta <b>được giảm án</b> vì cải tạo tốt."
+   }
+  },
+  {
+   "word": "offender",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈfendə(r)/",
+   "def_en": "Someone who commits an illegal act.",
+   "def_vi": "Người làm điều phạm pháp.",
+   "gloss_vi": "người phạm tội",
+   "synonyms": "criminal <i>(n. tội phạm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Offender</i> (noun) = người phạm tội. <b>Grammar</b>: <i>offence</i> (n.).",
+   "example": {
+    "en": "An <b>offender</b> is someone who commits an illegal act (an offence).",
+    "vi": "<b>Người phạm tội</b> là người làm điều phạm pháp."
+   }
+  },
+  {
+   "word": "suspect",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsʌspekt/",
+   "def_en": "A person suspected of committing an offence.",
+   "def_vi": "Người bị nghi phạm tội.",
+   "gloss_vi": "nghi phạm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Suspect</i> (noun) = nghi phạm. <b>Grammar</b>: danh từ /ˈsʌs-/, động từ /səˈspekt/.",
+   "example": {
+    "en": "A <b>suspect</b> is a person who is suspected of committing an offence.",
+    "vi": "<b>Nghi phạm</b> là người bị nghi là đã phạm tội."
+   }
+  }
+ ]
+}

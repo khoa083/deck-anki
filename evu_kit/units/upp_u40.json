@@ -1,0 +1,408 @@
+{
+ "book": "upp",
+ "unit": 40,
+ "title_vi": "Tiền bạc",
+ "theory_html": "<p><b>A. Personal finance</b><br><i>A. Tài chính cá nhân</i></p> <p><b>current account, interest rates, overdraft facility; consolidate debts into one payment; credit limit; raise money; competitive interest rates; mortgage; deposits; repayments</b>.</p><p><i><b>tài khoản vãng lai, lãi suất, hạn mức thấu chi, gộp nợ, khoản thanh toán, hạn mức tín dụng, gây quỹ, cạnh tranh, khoản vay mua nhà, tiền đặt cọc, khoản trả nợ</b>.</i></p> <p><b>B. Bank accounts and services</b><br><i>B. Tài khoản và dịch vụ ngân hàng</i></p> <p><b>a steady income; outgoings; expenses; direct debit (debit); a credit rating; finance; open a savings account; transfer; in credit / overdrawn; in the red; charge interest; overdraft limit; online banking; cash machine</b>.</p><p><i><b>thu nhập ổn định, khoản chi, chi phí, ghi nợ tự động, xếp hạng tín dụng, tài trợ, tài khoản tiết kiệm, chuyển khoản, còn tiền / thấu chi, âm tiền, tính lãi</b>.</i></p> <p><b>C. Public finance</b><br><i>C. Tài chính công</i></p> <p><b>income tax, inheritance tax, customs / excise duty, duty-free, VAT, corporation tax</b>.</p><p><i><b>thuế thu nhập, thuế thừa kế, thuế hải quan, miễn thuế, thuế giá trị gia tăng, thuế doanh nghiệp</b>.</i></p>",
+ "items": [
+  {
+   "word": "current account",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈkʌrənt əˌkaʊnt/",
+   "def_en": "An account you use for most everyday business.",
+   "def_vi": "Tài khoản dùng cho giao dịch hằng ngày.",
+   "gloss_vi": "tài khoản vãng lai",
+   "synonyms": "checking account <i>(np. tài khoản thanh toán (Mỹ))</i>",
+   "antonyms": "savings account <i>(np. tài khoản tiết kiệm)</i>",
+   "grammar_vi": "<i>Current account</i> (noun phrase) = tài khoản vãng lai. <b>Grammar</b>: Anh–Anh.",
+   "example": {
+    "en": "Need a good <b>current account</b> with the best interest rates?",
+    "vi": "Cần một <b>tài khoản vãng lai</b> tốt với lãi suất tốt nhất?"
+   }
+  },
+  {
+   "word": "overdraft",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈəʊvədrɑːft/",
+   "def_en": "Permission to have a negative amount of money in your account.",
+   "def_vi": "Sự cho phép tài khoản âm tiền.",
+   "gloss_vi": "thấu chi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Overdraft</i> (noun) = thấu chi. <b>Grammar</b>: <i>overdraft facility/limit</i>.",
+   "example": {
+    "en": "Need a guaranteed <b>overdraft</b> facility?",
+    "vi": "Bạn cần hạn mức <b>thấu chi</b> được bảo đảm?"
+   }
+  },
+  {
+   "word": "consolidate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kənˈsɒlɪdeɪt/",
+   "def_en": "To join together to make one.",
+   "def_vi": "Gộp lại thành một.",
+   "gloss_vi": "hợp nhất, gộp",
+   "synonyms": "combine <i>(v. kết hợp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Consolidate</i> (verb) = hợp nhất, gộp. <b>Grammar</b>: <i>consolidation</i> (n.).",
+   "example": {
+    "en": "<b>Consolidate</b> all your cards and debts into one convenient payment.",
+    "vi": "<b>Gộp</b> tất cả thẻ và nợ vào một khoản thanh toán tiện lợi."
+   }
+  },
+  {
+   "word": "debt",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/det/",
+   "def_en": "Money you owe someone.",
+   "def_vi": "Tiền bạn nợ ai.",
+   "gloss_vi": "khoản nợ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Debt</i> (noun) = khoản nợ. <b>Grammar</b>: <i>in debt</i>; <i>b</i> câm.",
+   "example": {
+    "en": "Consolidate all your cards and <b>debts</b> into one convenient payment.",
+    "vi": "Gộp tất cả thẻ và <b>khoản nợ</b> vào một khoản thanh toán."
+   }
+  },
+  {
+   "word": "credit limit",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈkredɪt ˌlɪmɪt/",
+   "def_en": "The maximum amount you may spend on your card.",
+   "def_vi": "Số tiền tối đa được tiêu trên thẻ.",
+   "gloss_vi": "hạn mức tín dụng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Credit limit</i> (noun phrase) = hạn mức tín dụng. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Discuss your <b>credit limit</b> with us today.",
+    "vi": "Hãy trao đổi về <b>hạn mức tín dụng</b> với chúng tôi hôm nay."
+   }
+  },
+  {
+   "word": "raise money",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌreɪz ˈmʌni/",
+   "def_en": "To get money for a purpose.",
+   "def_vi": "Kiếm tiền cho một mục đích.",
+   "gloss_vi": "gây quỹ, kiếm tiền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Raise money</i> (verb phrase) = gây quỹ, kiếm tiền. <b>Grammar</b>: <i>raise money for charity</i>.",
+   "example": {
+    "en": "Need to <b>raise money</b> for that round-the-world trip?",
+    "vi": "Cần <b>kiếm tiền</b> cho chuyến đi vòng quanh thế giới?"
+   }
+  },
+  {
+   "word": "competitive",
+   "sense": "price",
+   "pos": "adjective",
+   "ipa": "/kəmˈpetətɪv/",
+   "def_en": "As good as or better than others.",
+   "def_vi": "Bằng hay tốt hơn nơi khác.",
+   "gloss_vi": "cạnh tranh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Competitive</i> (adjective) = cạnh tranh. <b>Grammar</b>: <i>competitive prices</i>.",
+   "example": {
+    "en": "For a loan with <b>competitive</b> interest rates visit our website.",
+    "vi": "Để vay với lãi suất <b>cạnh tranh</b>, hãy vào trang web."
+   }
+  },
+  {
+   "word": "mortgage",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɔːɡɪdʒ/",
+   "def_en": "A loan used to buy a house.",
+   "def_vi": "Khoản vay để mua nhà.",
+   "gloss_vi": "khoản vay mua nhà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mortgage</i> (noun) = khoản vay mua nhà. <b>Grammar</b>: <i>t</i> câm /ˈmɔːɡɪdʒ/.",
+   "example": {
+    "en": "Looking for a <b>mortgage</b>? Act now!",
+    "vi": "Đang tìm <b>khoản vay mua nhà</b>? Hãy hành động ngay!"
+   }
+  },
+  {
+   "word": "repayment",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˈpeɪmənt/",
+   "def_en": "A payment to reduce the amount you owe.",
+   "def_vi": "Khoản trả để giảm số nợ.",
+   "gloss_vi": "khoản trả nợ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Repayment</i> (noun) = khoản trả nợ. <b>Grammar</b>: <i>repay</i> (v.).",
+   "example": {
+    "en": "For mortgages with low deposits and flexible <b>repayments</b> call us.",
+    "vi": "Vay mua nhà với tiền đặt cọc thấp và <b>trả nợ</b> linh hoạt."
+   }
+  },
+  {
+   "word": "steady income",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌstedi ˈɪnkʌm/",
+   "def_en": "Money coming in regularly in a way that does not change much.",
+   "def_vi": "Tiền vào đều đặn, ít thay đổi.",
+   "gloss_vi": "thu nhập ổn định",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Steady income</i> (noun phrase) = thu nhập ổn định. <b>Grammar</b>: <i>steady</i> = đều đặn.",
+   "example": {
+    "en": "I have a <b>steady income</b> now, which is great.",
+    "vi": "Giờ tôi có <b>thu nhập ổn định</b>, thật tuyệt."
+   }
+  },
+  {
+   "word": "outgoings",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈaʊtɡəʊɪŋz/",
+   "def_en": "Money you pay each month, e.g. rent.",
+   "def_vi": "Tiền phải trả mỗi tháng, như tiền nhà.",
+   "gloss_vi": "khoản chi",
+   "synonyms": "expenses <i>(pn. chi phí)</i>",
+   "antonyms": "income <i>(n. thu nhập)</i>",
+   "grammar_vi": "<i>Outgoings</i> (plural noun) = khoản chi. <b>Grammar</b>: Anh–Anh, số nhiều.",
+   "example": {
+    "en": "My <b>outgoings</b> are quite low.",
+    "vi": "Các <b>khoản chi</b> của tôi khá thấp."
+   }
+  },
+  {
+   "word": "expenses",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ɪkˈspensɪz/",
+   "def_en": "Money you spend on things.",
+   "def_vi": "Tiền bạn tiêu cho các thứ.",
+   "gloss_vi": "chi phí",
+   "synonyms": "costs <i>(pn. chi phí)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Expenses</i> (plural noun) = chi phí. <b>Grammar</b>: <i>business expenses</i>.",
+   "example": {
+    "en": "I don’t have any major <b>expenses</b>.",
+    "vi": "Tôi không có <b>chi phí</b> lớn nào."
+   }
+  },
+  {
+   "word": "direct debit",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/dəˌrekt ˈdebɪt/",
+   "def_en": "Money taken automatically from your account to pay bills.",
+   "def_vi": "Tiền tự động trích từ tài khoản để trả hóa đơn.",
+   "gloss_vi": "ghi nợ tự động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Direct debit</i> (noun phrase) = ghi nợ tự động. <b>Grammar</b>: <i>debit</i> (v.) = trích tiền.",
+   "example": {
+    "en": "I pay all my bills by <b>direct debit</b>.",
+    "vi": "Tôi trả mọi hóa đơn bằng <b>ghi nợ tự động</b>."
+   }
+  },
+  {
+   "word": "credit rating",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈkredɪt ˌreɪtɪŋ/",
+   "def_en": "A bank’s judgement about how likely someone is to pay back money.",
+   "def_vi": "Đánh giá của ngân hàng về khả năng trả nợ.",
+   "gloss_vi": "xếp hạng tín dụng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Credit rating</i> (noun phrase) = xếp hạng tín dụng. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "I have a good <b>credit rating</b>, so I can borrow money if I need to.",
+    "vi": "Tôi có <b>xếp hạng tín dụng</b> tốt nên có thể vay khi cần."
+   }
+  },
+  {
+   "word": "finance",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈfaɪnæns/",
+   "def_en": "To find the money needed to pay for something.",
+   "def_vi": "Tìm tiền để trả cho thứ gì.",
+   "gloss_vi": "tài trợ, xoay tiền",
+   "synonyms": "fund <i>(v. tài trợ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Finance</i> (verb) = tài trợ, xoay tiền. <b>Grammar</b>: cũng là danh từ.",
+   "example": {
+    "en": "I need to buy a car, but I’m not sure how I’m going to <b>finance</b> it.",
+    "vi": "Tôi cần mua xe nhưng chưa biết <b>xoay tiền</b> thế nào."
+   }
+  },
+  {
+   "word": "savings account",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈseɪvɪŋz əˌkaʊnt/",
+   "def_en": "An account where you put money you do not immediately need.",
+   "def_vi": "Tài khoản để tiền chưa cần dùng.",
+   "gloss_vi": "tài khoản tiết kiệm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "current account <i>(np. tài khoản vãng lai)</i>",
+   "grammar_vi": "<i>Savings account</i> (noun phrase) = tài khoản tiết kiệm. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "I’ve just opened a <b>savings account</b>.",
+    "vi": "Tôi vừa mở một <b>tài khoản tiết kiệm</b>."
+   }
+  },
+  {
+   "word": "transfer",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/trænsˈfɜː(r)/",
+   "def_en": "To move money from one account to another.",
+   "def_vi": "Chuyển tiền giữa các tài khoản.",
+   "gloss_vi": "chuyển khoản",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Transfer</i> (verb) = chuyển khoản. <b>Grammar</b>: danh từ /ˈtrænsfɜː/.",
+   "example": {
+    "en": "I <b>transfer</b> money into it regularly.",
+    "vi": "Tôi <b>chuyển</b> tiền vào đó đều đặn."
+   }
+  },
+  {
+   "word": "overdrawn",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌəʊvəˈdrɔːn/",
+   "def_en": "Having a negative amount of money in your account.",
+   "def_vi": "Tài khoản âm tiền.",
+   "gloss_vi": "bị thấu chi",
+   "synonyms": "in the red <i>(phr. âm tiền)</i>",
+   "antonyms": "in credit <i>(phr. còn tiền)</i>",
+   "grammar_vi": "<i>Overdrawn</i> (adjective) = bị thấu chi. <b>Grammar</b>: <i>overdraw</i> (v.).",
+   "example": {
+    "en": "By the end of the month it’s always <b>overdrawn</b>.",
+    "vi": "Cuối tháng tài khoản tôi luôn <b>bị thấu chi</b>."
+   }
+  },
+  {
+   "word": "in the red",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪn ðə ˈred/",
+   "def_en": "Having a negative amount of money in your account (informal).",
+   "def_vi": "Tài khoản âm (thân mật).",
+   "gloss_vi": "âm tiền",
+   "synonyms": "overdrawn <i>(adj. thấu chi)</i>",
+   "antonyms": "in the black <i>(phr. có lãi)</i>",
+   "grammar_vi": "<i>In the red</i> (phrase) = âm tiền. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "I hate being <b>in the red</b>.",
+    "vi": "Tôi ghét bị <b>âm tiền</b>."
+   }
+  },
+  {
+   "word": "charge interest",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌtʃɑːdʒ ˈɪntrəst/",
+   "def_en": "To make someone pay a percentage of the amount borrowed.",
+   "def_vi": "Bắt trả phần trăm số tiền vay.",
+   "gloss_vi": "tính lãi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Charge interest</i> (verb phrase) = tính lãi. <b>Grammar</b>: <i>charge interest on sth</i>.",
+   "example": {
+    "en": "The banks all <b>charge interest</b> on overdrafts!",
+    "vi": "Ngân hàng đều <b>tính lãi</b> khoản thấu chi!"
+   }
+  },
+  {
+   "word": "online banking",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌɒnlaɪn ˈbæŋkɪŋ/",
+   "def_en": "Managing your bank account on the Internet.",
+   "def_vi": "Quản lý tài khoản qua mạng.",
+   "gloss_vi": "ngân hàng trực tuyến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Online banking</i> (noun phrase) = ngân hàng trực tuyến. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "I use <b>online banking</b> most of the time.",
+    "vi": "Tôi dùng <b>ngân hàng trực tuyến</b> hầu hết thời gian."
+   }
+  },
+  {
+   "word": "inheritance tax",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ɪnˈherɪtəns tæks/",
+   "def_en": "Tax on money people get from people who have died.",
+   "def_vi": "Thuế trên tiền nhận từ người đã mất.",
+   "gloss_vi": "thuế thừa kế",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Inheritance tax</i> (noun phrase) = thuế thừa kế. <b>Grammar</b>: <i>inherit</i> (v.).",
+   "example": {
+    "en": "<b>Inheritance tax</b> is collected on money people get from people who have died.",
+    "vi": "<b>Thuế thừa kế</b> đánh vào tiền nhận từ người đã mất."
+   }
+  },
+  {
+   "word": "customs duty",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈkʌstəmz ˌdjuːti/",
+   "def_en": "Tax paid on goods imported from other countries.",
+   "def_vi": "Thuế đánh trên hàng nhập khẩu.",
+   "gloss_vi": "thuế hải quan",
+   "synonyms": "excise duty <i>(np. thuế tiêu thụ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Customs duty</i> (noun phrase) = thuế hải quan. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "<b>Customs</b> (or excise) <b>duty</b> is paid on goods imported from other countries.",
+    "vi": "<b>Thuế hải quan</b> đánh vào hàng nhập từ nước khác."
+   }
+  },
+  {
+   "word": "VAT",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌviː eɪ ˈtiː/",
+   "def_en": "Value added tax, paid on most goods and services.",
+   "def_vi": "Thuế giá trị gia tăng.",
+   "gloss_vi": "thuế VAT",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>VAT</i> (noun) = thuế VAT. <b>Grammar</b>: viết tắt <i>value added tax</i>.",
+   "example": {
+    "en": "<b>VAT</b> (value added tax) is a tax paid on most goods and services.",
+    "vi": "<b>Thuế VAT</b> đánh trên hầu hết hàng hóa và dịch vụ."
+   }
+  },
+  {
+   "word": "corporation tax",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌkɔːpəˈreɪʃn tæks/",
+   "def_en": "Tax companies pay on their profits.",
+   "def_vi": "Thuế công ty nộp trên lợi nhuận.",
+   "gloss_vi": "thuế doanh nghiệp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Corporation tax</i> (noun phrase) = thuế doanh nghiệp. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "Companies pay <b>corporation tax</b> on their profits.",
+    "vi": "Các công ty nộp <b>thuế doanh nghiệp</b> trên lợi nhuận."
+   }
+  }
+ ]
+}
