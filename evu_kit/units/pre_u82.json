@@ -1,0 +1,264 @@
+{
+ "book": "pre",
+ "unit": 82,
+ "title_vi": "Động từ then chốt: give, keep và miss",
+ "theory_html": "<p><b>A. Give</b><br><i>A. Give</i></p> <p>cause an effect: <b>give me a headache / an appetite / an idea</b>; action: <b>give advice, give sb a shock, give a speech/lecture, give sb a ring, give sb a hand, give sb a hug, give the car a push</b>.</p><p><i><b>gây đau đầu, khiến đói, nảy ra ý; khuyên, làm giật mình, phát biểu, gọi, giúp, ôm, đẩy</b>.</i></p> <p><b>B. Keep</b><br><i>B. Keep</i></p> <p>stay in a state: <b>keep right, keep quiet, keep you warm, keep me fit</b>; <b>keep (on) doing</b> (repeat): <b>I keep losing my glasses</b>; <b>keep in touch</b>; <b>keep a secret</b>; <b>keep it up</b>.</p><p><i><b>giữ im lặng, giữ ấm; cứ liên tục; giữ liên lạc; giữ bí mật; cứ thế phát huy</b>.</i></p> <p><b>C. Miss</b><br><i>C. Miss</i></p> <p><b>miss</b> a person (feel sad), <b>miss that</b> (not hear), <b>miss a chance/opportunity</b>, <b>miss the rush hour</b> (avoid).</p><p><i><b>nhớ, không nghe kịp, bỏ lỡ cơ hội, tránh được</b>.</i></p>",
+ "items": [
+  {
+   "word": "give sb a headache",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡɪv ə ˈhedeɪk/",
+   "def_en": "To cause someone to have a headache.",
+   "def_vi": "Làm ai đau đầu.",
+   "gloss_vi": "làm đau đầu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Give sb a headache</i> (verb phrase) = làm đau đầu. <b>Grammar</b>: <i>give</i> = gây ra hiệu quả.",
+   "example": {
+    "en": "All that noise has <b>given me a headache</b>.",
+    "vi": "Tất cả tiếng ồn đó <b>làm tôi đau đầu</b>."
+   }
+  },
+  {
+   "word": "appetite",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈæpɪtaɪt/",
+   "def_en": "The feeling of wanting to eat.",
+   "def_vi": "Cảm giác muốn ăn.",
+   "gloss_vi": "sự thèm ăn",
+   "synonyms": "hunger <i>(n. cơn đói)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Appetite</i> (noun) = sự thèm ăn. <b>Grammar</b>: <i>give sb an appetite</i>; <i>lose your appetite</i>.",
+   "example": {
+    "en": "The walk this morning gave me an <b>appetite</b>.",
+    "vi": "Cuộc đi bộ sáng nay làm tôi <b>thấy đói</b>."
+   }
+  },
+  {
+   "word": "give advice",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡɪv ədˈvaɪs/",
+   "def_en": "To advise.",
+   "def_vi": "Khuyên.",
+   "gloss_vi": "cho lời khuyên",
+   "synonyms": "advise <i>(v. khuyên)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Give advice</i> (verb phrase) = cho lời khuyên. <b>Grammar</b>: <i>advice</i> không đếm được: <i>some advice / a piece of advice</i>.",
+   "example": {
+    "en": "He <b>gave</b> me some <b>advice</b>.",
+    "vi": "Anh ấy <b>cho</b> tôi vài <b>lời khuyên</b>."
+   }
+  },
+  {
+   "word": "shock",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ʃɒk/",
+   "def_en": "A sudden unpleasant surprise.",
+   "def_vi": "Sự bất ngờ khó chịu đột ngột.",
+   "gloss_vi": "cú sốc, sự giật mình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shock</i> (noun) = cú sốc, sự giật mình. <b>Grammar</b>: <i>give sb a shock</i>; <i>shocked</i> (adj.).",
+   "example": {
+    "en": "Valentina gave us a <b>shock</b> when she shouted like that.",
+    "vi": "Valentina làm chúng tôi <b>giật mình</b> khi hét lên như vậy."
+   }
+  },
+  {
+   "word": "give a speech",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡɪv ə ˈspiːtʃ/",
+   "def_en": "To talk formally to a group of people.",
+   "def_vi": "Nói trang trọng trước nhóm người.",
+   "gloss_vi": "phát biểu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Give a speech</i> (verb phrase) = phát biểu. <b>Grammar</b>: cũng <i>give a lecture</i>.",
+   "example": {
+    "en": "I had to <b>give</b> a <b>speech</b> at the wedding.",
+    "vi": "Tôi phải <b>phát biểu</b> ở đám cưới."
+   }
+  },
+  {
+   "word": "give sb a hand",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌɡɪv ə ˈhænd/",
+   "def_en": "To help someone.",
+   "def_vi": "Giúp ai.",
+   "gloss_vi": "giúp một tay",
+   "synonyms": "help <i>(v. giúp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Give sb a hand</i> (verb phrase) = giúp một tay. <b>Grammar</b>: <i>give sb a hand (with sth)</i>.",
+   "example": {
+    "en": "Fortunately Ollie <b>gave</b> me <b>a hand</b>.",
+    "vi": "May thay Ollie đã <b>giúp tôi một tay</b>."
+   }
+  },
+  {
+   "word": "hug",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/hʌɡ/",
+   "def_en": "The act of putting your arms around someone.",
+   "def_vi": "Vòng tay ôm ai.",
+   "gloss_vi": "cái ôm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hug</i> (noun) = cái ôm. <b>Grammar</b>: cũng là động từ <i>hug – hugged</i>.",
+   "example": {
+    "en": "She gave me a <b>hug</b>.",
+    "vi": "Cô ấy <b>ôm</b> tôi."
+   }
+  },
+  {
+   "word": "push",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pʊʃ/",
+   "def_en": "The act of pressing something to move it.",
+   "def_vi": "Hành động đẩy cho vật di chuyển.",
+   "gloss_vi": "cú đẩy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "pull <i>(n. cú kéo)</i>",
+   "grammar_vi": "<i>Push</i> (noun) = cú đẩy. <b>Grammar</b>: <i>give sth a push</i>.",
+   "example": {
+    "en": "He gave the car a <b>push</b>.",
+    "vi": "Anh ấy <b>đẩy</b> chiếc xe."
+   }
+  },
+  {
+   "word": "keep quiet",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌkiːp ˈkwaɪət/",
+   "def_en": "To stay quiet.",
+   "def_vi": "Giữ im lặng.",
+   "gloss_vi": "giữ im lặng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Keep quiet</i> (verb phrase) = giữ im lặng. <b>Grammar</b>: <i>keep</i> + tính từ = giữ ở trạng thái.",
+   "example": {
+    "en": "She asked us to <b>keep quiet</b>.",
+    "vi": "Cô ấy yêu cầu chúng tôi <b>giữ im lặng</b>."
+   }
+  },
+  {
+   "word": "keep warm",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌkiːp ˈwɔːm/",
+   "def_en": "To stay or make someone stay warm.",
+   "def_vi": "Giữ ấm.",
+   "gloss_vi": "giữ ấm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Keep warm</i> (verb phrase) = giữ ấm. <b>Grammar</b>: <i>keep sb warm</i>.",
+   "example": {
+    "en": "This coat will <b>keep you warm</b>.",
+    "vi": "Chiếc áo khoác này sẽ <b>giữ ấm cho bạn</b>."
+   }
+  },
+  {
+   "word": "keep doing",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˈkiːp ˈduːɪŋ/",
+   "def_en": "To repeat doing something, often something you don’t want.",
+   "def_vi": "Lặp lại việc gì, thường điều không muốn.",
+   "gloss_vi": "cứ (liên tục)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Keep doing</i> (verb phrase) = cứ (liên tục). <b>Grammar</b>: <i>keep (on) + V-ing</i>.",
+   "example": {
+    "en": "I <b>keep losing</b> my glasses.",
+    "vi": "Tôi <b>cứ làm mất</b> kính."
+   }
+  },
+  {
+   "word": "keep in touch",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌkiːp ɪn ˈtʌtʃ/",
+   "def_en": "To continue to communicate with someone.",
+   "def_vi": "Tiếp tục liên lạc với ai.",
+   "gloss_vi": "giữ liên lạc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "lose touch <i>(vp. mất liên lạc)</i>",
+   "grammar_vi": "<i>Keep in touch</i> (verb phrase) = giữ liên lạc. <b>Grammar</b>: <i>keep in touch with sb</i>.",
+   "example": {
+    "en": "I met Mara on holiday and we’ve <b>kept in touch</b> ever since.",
+    "vi": "Tôi gặp Mara khi đi nghỉ và chúng tôi <b>giữ liên lạc</b> từ đó."
+   }
+  },
+  {
+   "word": "keep a secret",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌkiːp ə ˈsiːkrət/",
+   "def_en": "Not to tell other people something you know.",
+   "def_vi": "Không kể điều mình biết cho người khác.",
+   "gloss_vi": "giữ bí mật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Keep a secret</i> (verb phrase) = giữ bí mật. <b>Grammar</b>: <i>keep sth secret</i>.",
+   "example": {
+    "en": "I’m not very good at <b>keeping a secret</b>.",
+    "vi": "Tôi không giỏi <b>giữ bí mật</b>."
+   }
+  },
+  {
+   "word": "keep it up",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌkiːp ɪt ˈʌp/",
+   "def_en": "To continue doing something at a high level.",
+   "def_vi": "Tiếp tục làm tốt.",
+   "gloss_vi": "cứ thế phát huy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Keep it up</i> (verb phrase) = cứ thế phát huy. <b>Grammar</b>: <i>keep sth up</i>.",
+   "example": {
+    "en": "Your English is improving. That’s good – <b>keep it up</b>.",
+    "vi": "Tiếng Anh của bạn đang tiến bộ – <b>cứ thế phát huy</b>."
+   }
+  },
+  {
+   "word": "miss",
+   "sense": "person",
+   "pos": "verb",
+   "ipa": "/mɪs/",
+   "def_en": "To feel sad because a person is not there.",
+   "def_vi": "Buồn vì người nào đó không ở đó.",
+   "gloss_vi": "nhớ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Miss</i> (verb) = nhớ. <b>Grammar</b>: <i>miss sb</i>. <b>Common mistakes</b>: cũng = lỡ (xe), không nghe kịp.",
+   "example": {
+    "en": "When I went to work in Hungary, I really <b>missed</b> my girlfriend.",
+    "vi": "Khi sang Hungary làm việc, tôi rất <b>nhớ</b> bạn gái."
+   }
+  },
+  {
+   "word": "miss a chance",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌmɪs ə ˈtʃɑːns/",
+   "def_en": "Not to use an opportunity to do something.",
+   "def_vi": "Không tận dụng cơ hội.",
+   "gloss_vi": "bỏ lỡ cơ hội",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Miss a chance</i> (verb phrase) = bỏ lỡ cơ hội. <b>Grammar</b>: <i>miss a chance/opportunity</i>.",
+   "example": {
+    "en": "Now she’s injured, she might <b>miss her chance</b> to play.",
+    "vi": "Giờ cô ấy bị thương, cô ấy có thể <b>bỏ lỡ cơ hội</b> thi đấu."
+   }
+  }
+ ]
+}
