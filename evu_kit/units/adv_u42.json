@@ -1,0 +1,424 @@
+{
+ "book": "adv",
+ "unit": 42,
+ "title_vi": "Chính trị quốc tế",
+ "theory_html": "<p><b>A. United Nations</b><br><i>A. Liên Hợp Quốc</i></p> <p><b>constituted, humanity, foundation / established, pursue, establish, conquer, illiteracy, negotiation, injustice, uphold, minorities, intervention, justified</b>.</p><p><i><b>được thành lập, nhân loại, sự thành lập, theo đuổi, thiết lập, chinh phục, nạn mù chữ, đàm phán, bất công, bảo vệ, dân tộc thiểu số, can thiệp, chính đáng</b>.</i></p> <p><b>B. Political movements</b><br><i>B. Phong trào chính trị</i></p> <p><b>movement, slogan, liberation, integration, march, solidarity</b>.</p><p><i><b>phong trào, khẩu hiệu, giải phóng, hội nhập, tuần hành, tình đoàn kết</b>.</i></p> <p><b>C. International conferences</b><br><i>C. Hội nghị quốc tế</i></p> <p><b>delegates, infrastructure, recognise, undertake, undeniably, delicate, unity, customary</b>.</p><p><i><b>đại biểu, cơ sở hạ tầng, công nhận, cam kết, không thể phủ nhận, tế nhị, sự thống nhất, thường lệ</b>.</i></p>",
+ "items": [
+  {
+   "word": "constitute",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈkɒnstɪtjuːt/",
+   "def_en": "To form an official organisation.",
+   "def_vi": "Thành lập tổ chức chính thức.",
+   "gloss_vi": "thành lập",
+   "synonyms": "found <i>(v. thành lập)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Constitute</i> (verb) = thành lập. <b>Grammar</b>: thường bị động.",
+   "example": {
+    "en": "The UN is an international organisation <b>constituted</b> in 1945.",
+    "vi": "LHQ là tổ chức quốc tế <b>được thành lập</b> năm 1945."
+   }
+  },
+  {
+   "word": "humanity",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/hjuːˈmænəti/",
+   "def_en": "All people.",
+   "def_vi": "Toàn thể loài người.",
+   "gloss_vi": "nhân loại",
+   "synonyms": "mankind <i>(n. loài người)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Humanity</i> (noun) = nhân loại. <b>Common mistakes</b>: cũng = lòng nhân đạo.",
+   "example": {
+    "en": "to make the world a better place for <b>humanity</b>",
+    "vi": "Làm thế giới tốt đẹp hơn cho <b>nhân loại</b>."
+   }
+  },
+  {
+   "word": "foundation",
+   "sense": "start",
+   "pos": "noun",
+   "ipa": "/faʊnˈdeɪʃn/",
+   "def_en": "The time when an organisation was established.",
+   "def_vi": "Thời điểm tổ chức được lập.",
+   "gloss_vi": "sự thành lập",
+   "synonyms": "establishment <i>(n. thành lập)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Foundation</i> (noun) = sự thành lập. <b>Grammar</b>: <i>found</i> (v.) = lập.",
+   "example": {
+    "en": "From its <b>foundation</b>, it has pursued these key aims.",
+    "vi": "Từ khi <b>thành lập</b>, LHQ theo đuổi các mục tiêu chính."
+   }
+  },
+  {
+   "word": "pursue",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/pəˈsjuː/",
+   "def_en": "To try to achieve.",
+   "def_vi": "Cố đạt được.",
+   "gloss_vi": "theo đuổi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pursue</i> (verb) = theo đuổi. <b>Collocations / chunks</b>: <i>pursue an aim/goal/career/strategy</i>.",
+   "example": {
+    "en": "It has <b>pursued</b> these key aims.",
+    "vi": "LHQ đã <b>theo đuổi</b> các mục tiêu chính."
+   }
+  },
+  {
+   "word": "establish",
+   "sense": "set up",
+   "pos": "verb",
+   "ipa": "/ɪˈstæblɪʃ/",
+   "def_en": "To set up or put in place.",
+   "def_vi": "Thiết lập.",
+   "gloss_vi": "thiết lập",
+   "synonyms": "set up <i>(v. lập)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Establish</i> (verb) = thiết lập. <b>Grammar</b>: động từ.",
+   "example": {
+    "en": "To <b>establish</b> friendly relations between countries.",
+    "vi": "<b>Thiết lập</b> quan hệ hữu nghị giữa các nước."
+   }
+  },
+  {
+   "word": "conquer",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈkɒŋkə(r)/",
+   "def_en": "To beat or get rid of.",
+   "def_vi": "Đánh bại, loại bỏ.",
+   "gloss_vi": "đẩy lùi",
+   "synonyms": "overcome <i>(v. vượt qua)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Conquer</i> (verb) = đẩy lùi. <b>Common mistakes</b>: cũng = chinh phục (lãnh thổ).",
+   "example": {
+    "en": "by <b>conquering</b> poverty, disease, illiteracy and environmental destruction",
+    "vi": "Cải thiện cuộc sống bằng cách <b>đẩy lùi</b> nghèo đói, bệnh tật."
+   }
+  },
+  {
+   "word": "illiteracy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪˈlɪtərəsi/",
+   "def_en": "The inability to read or write.",
+   "def_vi": "Không biết đọc viết.",
+   "gloss_vi": "nạn mù chữ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "literacy <i>(n. khả năng đọc viết)</i>",
+   "grammar_vi": "<i>Illiteracy</i> (noun) = nạn mù chữ. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "conquering poverty, disease, <b>illiteracy</b> and environmental destruction",
+    "vi": "Đẩy lùi nghèo đói, bệnh tật, <b>nạn mù chữ</b>."
+   }
+  },
+  {
+   "word": "negotiation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/nɪˌɡəʊʃiˈeɪʃn/",
+   "def_en": "Discussions in an attempt to reach an agreement.",
+   "def_vi": "Thảo luận nhằm đạt thỏa thuận.",
+   "gloss_vi": "đàm phán",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Negotiation</i> (noun) = đàm phán. <b>Grammar</b>: <i>negotiate</i> (v.).",
+   "example": {
+    "en": "The UN stresses the importance of <b>negotiation</b> when there are disagreements.",
+    "vi": "LHQ nhấn mạnh tầm quan trọng của <b>đàm phán</b>."
+   }
+  },
+  {
+   "word": "injustice",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˈdʒʌstɪs/",
+   "def_en": "Unfairness.",
+   "def_vi": "Sự bất công.",
+   "gloss_vi": "bất công",
+   "synonyms": "unfairness <i>(n. bất công)</i>",
+   "antonyms": "justice <i>(n. công lý)</i>",
+   "grammar_vi": "<i>Injustice</i> (noun) = bất công. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "It is opposed to <b>injustice</b>.",
+    "vi": "LHQ phản đối <b>bất công</b>."
+   }
+  },
+  {
+   "word": "uphold",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ʌpˈhəʊld/",
+   "def_en": "To support.",
+   "def_vi": "Ủng hộ, bảo vệ.",
+   "gloss_vi": "bảo vệ",
+   "synonyms": "support <i>(v. ủng hộ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Uphold</i> (verb) = bảo vệ. <b>Grammar</b>: bất quy tắc: upheld.",
+   "example": {
+    "en": "It <b>upholds</b> the rights of minorities.",
+    "vi": "LHQ <b>bảo vệ</b> quyền của các nhóm thiểu số."
+   }
+  },
+  {
+   "word": "minority",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/maɪˈnɒrəti/",
+   "def_en": "A group of people who differ racially or in another way from most people around them.",
+   "def_vi": "Nhóm người khác với đa số xung quanh.",
+   "gloss_vi": "nhóm thiểu số",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "majority <i>(n. đa số)</i>",
+   "grammar_vi": "<i>Minority</i> (noun) = nhóm thiểu số. <b>Collocations / chunks</b>: <i>ethnic/religious/oppressed minority</i>.",
+   "example": {
+    "en": "It upholds the rights of <b>minorities</b>.",
+    "vi": "LHQ bảo vệ quyền của các <b>nhóm thiểu số</b>."
+   }
+  },
+  {
+   "word": "intervention",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɪntəˈvenʃn/",
+   "def_en": "Involvement in a difficult situation in order to improve it.",
+   "def_vi": "Can thiệp để cải thiện tình hình.",
+   "gloss_vi": "sự can thiệp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Intervention</i> (noun) = sự can thiệp. <b>Grammar</b>: <i>intervene</i> (v.).",
+   "example": {
+    "en": "It will only support military <b>intervention</b> if its Security Council agrees.",
+    "vi": "LHQ chỉ ủng hộ <b>can thiệp</b> quân sự nếu Hội đồng Bảo an đồng ý."
+   }
+  },
+  {
+   "word": "movement",
+   "sense": "group",
+   "pos": "noun",
+   "ipa": "/ˈmuːvmənt/",
+   "def_en": "A group of people with the same beliefs who work together to achieve something.",
+   "def_vi": "Nhóm người cùng niềm tin hành động chung.",
+   "gloss_vi": "phong trào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Movement</i> (noun) = phong trào. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "A political <b>movement</b> is a group of people with the same beliefs.",
+    "vi": "Một <b>phong trào</b> chính trị là nhóm người cùng niềm tin."
+   }
+  },
+  {
+   "word": "slogan",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsləʊɡən/",
+   "def_en": "A short phrase that catches people’s attention and is easy to remember.",
+   "def_vi": "Câu ngắn gây chú ý, dễ nhớ.",
+   "gloss_vi": "khẩu hiệu",
+   "synonyms": "motto <i>(n. phương châm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Slogan</i> (noun) = khẩu hiệu. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "They often make use of a <b>slogan</b>.",
+    "vi": "Họ thường dùng <b>khẩu hiệu</b>."
+   }
+  },
+  {
+   "word": "liberation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌlɪbəˈreɪʃn/",
+   "def_en": "Freeing a group from control.",
+   "def_vi": "Giải phóng một nhóm khỏi sự kiểm soát.",
+   "gloss_vi": "sự giải phóng",
+   "synonyms": "freedom <i>(n. tự do)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Liberation</i> (noun) = sự giải phóng. <b>Grammar</b>: <i>liberate</i> (v.).",
+   "example": {
+    "en": "The aim might be the <b>liberation</b> of a minority.",
+    "vi": "Mục tiêu có thể là <b>giải phóng</b> một nhóm thiểu số."
+   }
+  },
+  {
+   "word": "integration",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɪntɪˈɡreɪʃn/",
+   "def_en": "Bringing a group into a society from which it feels excluded.",
+   "def_vi": "Đưa một nhóm vào xã hội họ bị loại trừ.",
+   "gloss_vi": "sự hội nhập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "exclusion <i>(n. loại trừ)</i>",
+   "grammar_vi": "<i>Integration</i> (noun) = sự hội nhập. <b>Grammar</b>: <i>integrate</i> (v.).",
+   "example": {
+    "en": "or the <b>integration</b> of one particular social group into the society",
+    "vi": "Hay <b>hội nhập</b> một nhóm xã hội vào cộng đồng."
+   }
+  },
+  {
+   "word": "march",
+   "sense": "protest",
+   "pos": "noun",
+   "ipa": "/mɑːtʃ/",
+   "def_en": "A walk where people demonstrate.",
+   "def_vi": "Cuộc đi bộ biểu tình.",
+   "gloss_vi": "cuộc tuần hành",
+   "synonyms": "demonstration <i>(n. biểu tình)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>March</i> (noun) = cuộc tuần hành. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "Members of a political movement sometimes go on a <b>march</b>.",
+    "vi": "Thành viên đôi khi tham gia <b>tuần hành</b>."
+   }
+  },
+  {
+   "word": "solidarity",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsɒlɪˈdærəti/",
+   "def_en": "Support and loyalty between people with the same aims.",
+   "def_vi": "Ủng hộ lẫn nhau của người cùng mục tiêu.",
+   "gloss_vi": "tình đoàn kết",
+   "synonyms": "unity <i>(n. sự thống nhất)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Solidarity</i> (noun) = tình đoàn kết. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "where they can demonstrate their <b>solidarity</b> with others sharing the same attitudes",
+    "vi": "Thể hiện <b>tình đoàn kết</b> với người cùng chí hướng."
+   }
+  },
+  {
+   "word": "delegate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdelɪɡət/",
+   "def_en": "A representative at a meeting or conference.",
+   "def_vi": "Đại diện tại hội nghị.",
+   "gloss_vi": "đại biểu",
+   "synonyms": "representative <i>(n. đại diện)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Delegate</i> (noun) = đại biểu. <b>Grammar</b>: danh từ /ˈdelɪɡət/.",
+   "example": {
+    "en": "<b>Delegates</b> from 60 different countries are attending.",
+    "vi": "<b>Đại biểu</b> từ 60 nước đang dự."
+   }
+  },
+  {
+   "word": "infrastructure",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɪnfrəstrʌktʃə(r)/",
+   "def_en": "Basic systems and services such as transport.",
+   "def_vi": "Hệ thống, dịch vụ cơ bản như giao thông.",
+   "gloss_vi": "cơ sở hạ tầng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Infrastructure</i> (noun) = cơ sở hạ tầng. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "to minimise the energy requirements of its <b>infrastructure</b>",
+    "vi": "Giảm nhu cầu năng lượng của <b>cơ sở hạ tầng</b>."
+   }
+  },
+  {
+   "word": "recognise",
+   "sense": "accept",
+   "pos": "verb",
+   "ipa": "/ˈrekəɡnaɪz/",
+   "def_en": "To accept that something is true or important.",
+   "def_vi": "Chấp nhận điều gì đúng, quan trọng.",
+   "gloss_vi": "thừa nhận",
+   "synonyms": "acknowledge <i>(v. thừa nhận)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Recognise</i> (verb) = thừa nhận. <b>Common mistakes</b>: cũng = nhận ra.",
+   "example": {
+    "en": "The governments of each country <b>recognise</b> the importance of these discussions.",
+    "vi": "Chính phủ các nước <b>thừa nhận</b> tầm quan trọng của thảo luận."
+   }
+  },
+  {
+   "word": "undertake",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌʌndəˈteɪk/",
+   "def_en": "To promise to do something.",
+   "def_vi": "Hứa làm gì.",
+   "gloss_vi": "cam kết",
+   "synonyms": "promise <i>(v. hứa)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Undertake</i> (verb) = cam kết. <b>Grammar</b>: <i>undertake to do sth</i>; bất quy tắc.",
+   "example": {
+    "en": "They have <b>undertaken</b> to support any programme of measures.",
+    "vi": "Họ đã <b>cam kết</b> ủng hộ mọi chương trình được thông qua."
+   }
+  },
+  {
+   "word": "undeniably",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌʌndɪˈnaɪəbli/",
+   "def_en": "Certainly.",
+   "def_vi": "Chắc chắn.",
+   "gloss_vi": "không thể phủ nhận",
+   "synonyms": "certainly <i>(adv. chắc chắn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Undeniably</i> (adverb) = không thể phủ nhận. <b>Grammar</b>: trạng từ.",
+   "example": {
+    "en": "Some of the issues under discussion are <b>undeniably</b> delicate.",
+    "vi": "Một số vấn đề <b>không thể phủ nhận</b> là tế nhị."
+   }
+  },
+  {
+   "word": "delicate",
+   "sense": "situation",
+   "pos": "adjective",
+   "ipa": "/ˈdelɪkət/",
+   "def_en": "Needing to be handled with great skill.",
+   "def_vi": "Cần xử lý rất khéo.",
+   "gloss_vi": "tế nhị",
+   "synonyms": "sensitive <i>(adj. nhạy cảm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Delicate</i> (adjective) = tế nhị. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "Some of the issues under discussion are undeniably <b>delicate</b>.",
+    "vi": "Một số vấn đề không thể phủ nhận là <b>tế nhị</b>."
+   }
+  },
+  {
+   "word": "unity",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈjuːnəti/",
+   "def_en": "Being together as one.",
+   "def_vi": "Sự đồng lòng.",
+   "gloss_vi": "sự thống nhất",
+   "synonyms": "solidarity <i>(n. đoàn kết)</i>",
+   "antonyms": "division <i>(n. chia rẽ)</i>",
+   "grammar_vi": "<i>Unity</i> (noun) = sự thống nhất. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "The conference has so far shown more <b>unity</b> than is customary.",
+    "vi": "Hội nghị thể hiện <b>sự thống nhất</b> hơn thường lệ."
+   }
+  },
+  {
+   "word": "customary",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈkʌstəməri/",
+   "def_en": "Usual.",
+   "def_vi": "Thông thường.",
+   "gloss_vi": "thường lệ",
+   "synonyms": "usual <i>(adj. thường)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Customary</i> (adjective) = thường lệ. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "more unity than is <b>customary</b> at such gatherings",
+    "vi": "Thống nhất hơn <b>thường lệ</b> ở những hội nghị như vậy."
+   }
+  }
+ ]
+}

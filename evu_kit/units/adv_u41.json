@@ -1,0 +1,424 @@
+{
+ "book": "adv",
+ "unit": 41,
+ "title_vi": "Chính trị Anh",
+ "theory_html": "<p><b>A. Influencing political decisions</b><br><i>A. Tác động đến quyết định chính trị</i></p> <p>Citizens can <b>lobby</b> MPs and peers, <b>petition</b> the House of Commons, comment on <b>legislation</b> during the <b>committee stage</b> of a <b>Bill</b>, and submit evidence to a <b>Select Committee</b> <b>scrutinising</b> the government.</p><p><i>Công dân có thể vận động hành lang, kiến nghị, góp ý luật ở giai đoạn ủy ban, gửi bằng chứng cho ủy ban đặc biệt giám sát chính phủ.</i></p> <p><b>B. Lobbying and petitioning</b><br><i>B. Vận động hành lang và kiến nghị</i></p> <p><b>briefing, rallies, ultimately, down to; set out, Hansard, present, constituents, constituency, the Speaker, observations, substantive</b>.</p><p><i><b>thông tin tóm tắt, mít tinh, cuối cùng, tùy thuộc; trình bày đúng mẫu, biên bản quốc hội, trình lên, cử tri, khu vực bầu cử, Chủ tịch Hạ viện, nhận xét, quan trọng</b>.</i></p> <p><b>C. Select Committees</b><br><i>C. Ủy ban đặc biệt</i></p> <p><b>policies, cross departmental boundaries, environmental audit, allegations, conduct, shadow, wide-ranging, expertise, constitution</b>.</p><p><i><b>chính sách, liên bộ, kiểm toán môi trường, cáo buộc, hành vi, theo dõi sát, đa dạng, chuyên môn, hiến pháp</b>.</i></p>",
+ "items": [
+  {
+   "word": "lobby",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈlɒbi/",
+   "def_en": "To try to influence the opinions of politicians.",
+   "def_vi": "Cố tác động ý kiến chính trị gia.",
+   "gloss_vi": "vận động hành lang",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lobby</i> (verb) = vận động hành lang. <b>Grammar</b>: <i>lobbyist</i> (n.).",
+   "example": {
+    "en": "<b>Lobby</b> MPs and Members of the House of Lords about a particular issue.",
+    "vi": "Công dân có thể <b>vận động</b> nghị sĩ về một vấn đề."
+   }
+  },
+  {
+   "word": "petition",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/pəˈtɪʃn/",
+   "def_en": "To send a formal written appeal to Parliament.",
+   "def_vi": "Gửi đơn kiến nghị chính thức.",
+   "gloss_vi": "kiến nghị",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Petition</i> (verb) = kiến nghị. <b>Grammar</b>: cũng danh từ.",
+   "example": {
+    "en": "<b>Petition</b> the House of Commons to tell MPs about views on an issue.",
+    "vi": "<b>Kiến nghị</b> Hạ viện để bày tỏ quan điểm."
+   }
+  },
+  {
+   "word": "legislation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌledʒɪsˈleɪʃn/",
+   "def_en": "Possible future laws; laws.",
+   "def_vi": "Luật, dự luật.",
+   "gloss_vi": "luật pháp",
+   "synonyms": "law <i>(n. luật)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Legislation</i> (noun) = luật pháp. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "Comment on <b>legislation</b> going through Parliament.",
+    "vi": "Góp ý về <b>luật</b> đang qua Nghị viện."
+   }
+  },
+  {
+   "word": "committee stage",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəˈmɪti steɪdʒ/",
+   "def_en": "The period when a proposed law is looked at in detail by a group of people.",
+   "def_vi": "Giai đoạn dự luật được nhóm người xem xét chi tiết.",
+   "gloss_vi": "giai đoạn ủy ban",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Committee stage</i> (noun) = giai đoạn ủy ban. <b>Collocations / chunks</b>: cụm danh từ cố định <i>committee stage</i>.",
+   "example": {
+    "en": "during the <b>committee stage</b> of a Public Bill",
+    "vi": "Trong <b>giai đoạn ủy ban</b> của dự luật."
+   }
+  },
+  {
+   "word": "bill",
+   "sense": "law",
+   "pos": "noun",
+   "ipa": "/bɪl/",
+   "def_en": "A proposal for a law currently under discussion.",
+   "def_vi": "Đề xuất luật đang thảo luận.",
+   "gloss_vi": "dự luật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bill</i> (noun) = dự luật. <b>Common mistakes</b>: cũng = hóa đơn.",
+   "example": {
+    "en": "the committee stage of a Public <b>Bill</b>",
+    "vi": "Giai đoạn ủy ban của một <b>dự luật</b> công."
+   }
+  },
+  {
+   "word": "Select Committee",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/sɪˌlekt kəˈmɪti/",
+   "def_en": "A committee that checks and reports on government work.",
+   "def_vi": "Ủy ban kiểm tra, báo cáo công việc chính phủ.",
+   "gloss_vi": "ủy ban đặc biệt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Select Committee</i> (noun) = ủy ban đặc biệt. <b>Collocations / chunks</b>: cụm danh từ cố định <i>Select Committee</i>.",
+   "example": {
+    "en": "Submit evidence to a <b>Select Committee</b> inquiry.",
+    "vi": "Gửi bằng chứng cho cuộc điều tra của <b>ủy ban đặc biệt</b>."
+   }
+  },
+  {
+   "word": "scrutinise",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈskruːtənaɪz/",
+   "def_en": "To look very closely at.",
+   "def_vi": "Xem xét kỹ.",
+   "gloss_vi": "giám sát kỹ",
+   "synonyms": "examine <i>(v. xem xét)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Scrutinise</i> (verb) = giám sát kỹ. <b>Grammar</b>: <i>scrutiny</i> (n.).",
+   "example": {
+    "en": "a Select Committee inquiry <b>scrutinising</b> the work and policies of the government",
+    "vi": "Ủy ban <b>giám sát kỹ</b> công việc của chính phủ."
+   }
+  },
+  {
+   "word": "briefing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbriːfɪŋ/",
+   "def_en": "Information given to prepare someone.",
+   "def_vi": "Thông tin chuẩn bị cho ai.",
+   "gloss_vi": "thông tin tóm tắt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Briefing</i> (noun) = thông tin tóm tắt. <b>Grammar</b>: <i>brief</i> (v.).",
+   "example": {
+    "en": "providing <b>briefing</b> material to Members",
+    "vi": "Cung cấp tài liệu <b>tóm tắt</b> cho nghị sĩ."
+   }
+  },
+  {
+   "word": "rally",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈræli/",
+   "def_en": "A large political meeting or demonstration.",
+   "def_vi": "Cuộc họp, biểu tình chính trị lớn.",
+   "gloss_vi": "cuộc mít tinh",
+   "synonyms": "demonstration <i>(n. biểu tình)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rally</i> (noun) = cuộc mít tinh. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "organising <b>rallies</b>",
+    "vi": "Tổ chức các <b>cuộc mít tinh</b>."
+   }
+  },
+  {
+   "word": "ultimately",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈʌltɪmətli/",
+   "def_en": "In the end.",
+   "def_vi": "Cuối cùng.",
+   "gloss_vi": "rốt cuộc",
+   "synonyms": "eventually <i>(adv. cuối cùng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ultimately</i> (adverb) = rốt cuộc. <b>Grammar</b>: trạng từ.",
+   "example": {
+    "en": "This decision will <b>ultimately</b> be down to the MP or peer’s own judgement.",
+    "vi": "Quyết định <b>rốt cuộc</b> tùy vào nghị sĩ."
+   }
+  },
+  {
+   "word": "down to",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈdaʊn tə/",
+   "def_en": "The responsibility of.",
+   "def_vi": "Thuộc trách nhiệm của.",
+   "gloss_vi": "tùy thuộc vào",
+   "synonyms": "up to <i>(adj. tùy vào)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Down to</i> (adjective) = tùy thuộc vào. <b>Grammar</b>: <i>be down to sb</i>.",
+   "example": {
+    "en": "This decision will ultimately be <b>down to</b> the MP or peer’s own judgement.",
+    "vi": "Quyết định rốt cuộc <b>tùy thuộc vào</b> phán đoán của nghị sĩ."
+   }
+  },
+  {
+   "word": "set out",
+   "sense": "format",
+   "pos": "verb",
+   "ipa": "/ˌset ˈaʊt/",
+   "def_en": "To present in the correct format.",
+   "def_vi": "Trình bày đúng mẫu.",
+   "gloss_vi": "trình bày",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Set out</i> (verb) = trình bày. <b>Grammar</b>: thường bị động.",
+   "example": {
+    "en": "All that’s needed is that the petition is properly <b>set out</b>.",
+    "vi": "Kiến nghị chỉ cần được <b>trình bày</b> đúng mẫu."
+   }
+  },
+  {
+   "word": "Hansard",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhænsɑːd/",
+   "def_en": "The official record of parliamentary business.",
+   "def_vi": "Biên bản chính thức của Nghị viện.",
+   "gloss_vi": "biên bản Nghị viện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hansard</i> (noun) = biên bản Nghị viện. <b>Grammar</b>: tên riêng.",
+   "example": {
+    "en": "The text of the petition is published in <b>Hansard</b>.",
+    "vi": "Văn bản kiến nghị được đăng trong <b>biên bản Nghị viện</b>."
+   }
+  },
+  {
+   "word": "constituent",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kənˈstɪtʃuənt/",
+   "def_en": "A person who voted for an MP; a person in their political region.",
+   "def_vi": "Người trong khu vực bầu cử của nghị sĩ.",
+   "gloss_vi": "cử tri",
+   "synonyms": "voter <i>(n. cử tri)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Constituent</i> (noun) = cử tri. <b>Grammar</b>: <i>constituency</i> (n.) = khu vực bầu cử.",
+   "example": {
+    "en": "MPs will present all petitions they receive from their <b>constituents</b>.",
+    "vi": "Nghị sĩ trình mọi kiến nghị nhận từ <b>cử tri</b>."
+   }
+  },
+  {
+   "word": "the Speaker",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ðə ˈspiːkə(r)/",
+   "def_en": "The MP who controls the way parliamentary business is done.",
+   "def_vi": "Nghị sĩ điều khiển công việc Nghị viện.",
+   "gloss_vi": "Chủ tịch Hạ viện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The Speaker</i> (noun) = Chủ tịch Hạ viện. <b>Grammar</b>: viết hoa.",
+   "example": {
+    "en": "the Petition Bag (which hangs behind the <b>Speaker’s</b> Chair)",
+    "vi": "Túi kiến nghị treo sau ghế của <b>Chủ tịch Hạ viện</b>."
+   }
+  },
+  {
+   "word": "observations",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɒbzəˈveɪʃnz/",
+   "def_en": "Comments.",
+   "def_vi": "Nhận xét.",
+   "gloss_vi": "nhận xét",
+   "synonyms": "comments <i>(n. nhận xét)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Observations</i> (noun) = nhận xét. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "Government departments are expected to offer <b>observations</b> on all substantive petitions.",
+    "vi": "Các bộ phải đưa <b>nhận xét</b> về mọi kiến nghị quan trọng."
+   }
+  },
+  {
+   "word": "substantive",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/səbˈstæntɪv/",
+   "def_en": "Of significance.",
+   "def_vi": "Có ý nghĩa quan trọng.",
+   "gloss_vi": "thực chất, quan trọng",
+   "synonyms": "significant <i>(adj. đáng kể)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Substantive</i> (adjective) = thực chất, quan trọng. <b>Grammar</b>: trang trọng.",
+   "example": {
+    "en": "on all <b>substantive</b> petitions",
+    "vi": "Nhận xét về mọi kiến nghị <b>quan trọng</b>."
+   }
+  },
+  {
+   "word": "policy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɒləsi/",
+   "def_en": "An official plan of action.",
+   "def_vi": "Kế hoạch hành động chính thức.",
+   "gloss_vi": "chính sách",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Policy</i> (noun) = chính sách. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "examining three aspects: spending, <b>policies</b> and administration",
+    "vi": "Ủy ban xem xét chi tiêu, <b>chính sách</b> và quản trị."
+   }
+  },
+  {
+   "word": "cross departmental boundaries",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkrɒs ˌdiːpɑːtmentl ˈbaʊndriz/",
+   "def_en": "To deal with different departments.",
+   "def_vi": "Liên quan nhiều bộ.",
+   "gloss_vi": "vượt ranh giới các bộ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cross departmental boundaries</i> (verb) = vượt ranh giới các bộ. <b>Grammar</b>: động từ nhiều từ <i>cross departmental boundaries</i>.",
+   "example": {
+    "en": "Some Select Committees have a role that <b>crosses departmental boundaries</b>.",
+    "vi": "Một số ủy ban có vai trò <b>liên bộ</b>."
+   }
+  },
+  {
+   "word": "audit",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɔːdɪt/",
+   "def_en": "A close official examination.",
+   "def_vi": "Sự kiểm tra chính thức kỹ lưỡng.",
+   "gloss_vi": "kiểm toán",
+   "synonyms": "inspection <i>(n. kiểm tra)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Audit</i> (noun) = kiểm toán. <b>Grammar</b>: <i>auditor</i> (n.).",
+   "example": {
+    "en": "such as the Environmental <b>Audit</b> Committee",
+    "vi": "Ủy ban <b>Kiểm toán</b> Môi trường."
+   }
+  },
+  {
+   "word": "allegation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌæləˈɡeɪʃn/",
+   "def_en": "A complaint that has not been proven.",
+   "def_vi": "Lời buộc tội chưa được chứng minh.",
+   "gloss_vi": "lời cáo buộc",
+   "synonyms": "accusation <i>(n. lời buộc tội)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Allegation</i> (noun) = lời cáo buộc. <b>Grammar</b>: <i>allege</i> (v.).",
+   "example": {
+    "en": "<b>allegations</b> about the conduct of individual MPs",
+    "vi": "Điều tra <b>cáo buộc</b> về hành vi của nghị sĩ."
+   }
+  },
+  {
+   "word": "conduct",
+   "sense": "behaviour",
+   "pos": "noun",
+   "ipa": "/ˈkɒndʌkt/",
+   "def_en": "Behaviour.",
+   "def_vi": "Hành vi.",
+   "gloss_vi": "hành vi",
+   "synonyms": "behaviour <i>(n. hành vi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Conduct</i> (noun) = hành vi. <b>Grammar</b>: danh từ /ˈkɒndʌkt/.",
+   "example": {
+    "en": "allegations about the <b>conduct</b> of individual MPs",
+    "vi": "Cáo buộc về <b>hành vi</b> của nghị sĩ."
+   }
+  },
+  {
+   "word": "shadow",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈʃædəʊ/",
+   "def_en": "To follow closely to see how a job is done.",
+   "def_vi": "Theo sát xem công việc làm thế nào.",
+   "gloss_vi": "theo dõi sát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shadow</i> (verb) = theo dõi sát. <b>Grammar</b>: <i>shadow cabinet</i> = nội các đối lập.",
+   "example": {
+    "en": "Lords Select Committees do not <b>shadow</b> the work of government departments.",
+    "vi": "Ủy ban Thượng viện không <b>theo sát</b> công việc các bộ."
+   }
+  },
+  {
+   "word": "wide-ranging",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌwaɪd ˈreɪndʒɪŋ/",
+   "def_en": "Covering many subjects.",
+   "def_vi": "Bao quát nhiều lĩnh vực.",
+   "gloss_vi": "đa dạng, bao quát",
+   "synonyms": "diverse <i>(adj. đa dạng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wide-ranging</i> (adjective) = đa dạng, bao quát. <b>Grammar</b>: tính từ ghép <i>wide</i> + <i>ranging</i>.",
+   "example": {
+    "en": "taking advantage of the <b>wide-ranging</b> expertise of the Lords",
+    "vi": "Tận dụng chuyên môn <b>đa dạng</b> của Thượng viện."
+   }
+  },
+  {
+   "word": "expertise",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌekspɜːˈtiːz/",
+   "def_en": "A high level of knowledge or skill.",
+   "def_vi": "Kiến thức, kỹ năng cao.",
+   "gloss_vi": "chuyên môn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Expertise</i> (noun) = chuyên môn. <b>Grammar</b>: /ˌekspɜːˈtiːz/.",
+   "example": {
+    "en": "the wide-ranging <b>expertise</b> of the Lords",
+    "vi": "<b>Chuyên môn</b> đa dạng của Thượng viện."
+   }
+  },
+  {
+   "word": "constitution",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkɒnstɪˈtjuːʃn/",
+   "def_en": "The full set of laws of a country.",
+   "def_vi": "Bộ luật cơ bản của quốc gia.",
+   "gloss_vi": "hiến pháp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Constitution</i> (noun) = hiến pháp. <b>Grammar</b>: <i>constitutional</i> (adj.).",
+   "example": {
+    "en": "economic affairs, communications and the UK <b>constitution</b>",
+    "vi": "Ủy ban tập trung vào <b>hiến pháp</b> Anh."
+   }
+  }
+ ]
+}
