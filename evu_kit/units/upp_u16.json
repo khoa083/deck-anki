@@ -1,0 +1,413 @@
+{
+ "book": "upp",
+ "unit": 16,
+ "title_vi": "Công việc",
+ "theory_html": "<p><b>A. Jobs in a workplace</b><br><i>A. Các vị trí trong nơi làm việc</i></p> <p><b>director, executive, administrator, skilled / unskilled worker, receptionist, public relations officer, union representative, researcher, supervisor</b>. <b>work</b> (activity, uncountable) vs <b>job</b> (a role).</p><p><i><b>giám đốc, giám đốc điều hành, quản trị viên, công nhân lành nghề / không lành nghề, lễ tân, nhân viên quan hệ công chúng, đại diện công đoàn, nhà nghiên cứu, giám sát viên</b>.</i></p> <p><b>B. Trades and professions</b><br><i>B. Nghề thủ công và nghề chuyên môn</i></p> <p>Professions: <b>civil servant, judge, lecturer, ambassador, physiotherapist, economist, banker, scientist</b>. Trades: <b>firefighter, carpenter, plumber, childminder, designer</b>.</p><p><i><b>công chức, thẩm phán, đại sứ, nhà vật lý trị liệu; người trông trẻ</b>.</i></p> <p><b>C. Collocations of words connected with work</b><br><i>C. Kết hợp từ về công việc</i></p> <p><b>get/find work; be offered work; be in publishing; make a living; take on; do shiftwork / work shifts; be on flexi-time; work nine-to-five; go/be on strike; get the sack; be fired; be made redundant; be laid off; maternity/paternity leave; sick leave; take early retirement; be a workaholic; be promoted</b>.</p><p><i><b>kiếm việc, kiếm sống, đảm nhận, làm ca, giờ linh hoạt, đình công, bị đuổi, bị cắt giảm, nghỉ thai sản, nghỉ ốm, nghỉ hưu sớm, người nghiện việc</b>.</i></p>",
+ "items": [
+  {
+   "word": "executive",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪɡˈzekjətɪv/",
+   "def_en": "An important person who makes big decisions in a company.",
+   "def_vi": "Người quan trọng đưa ra quyết định lớn.",
+   "gloss_vi": "giám đốc điều hành",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Executive</i> (noun) = giám đốc điều hành. <b>Grammar</b>: <i>chief executive</i> = tổng giám đốc.",
+   "ex_kit": true,
+   "example": {
+    "en": "She’s a senior <b>executive</b> at the bank.",
+    "vi": "Cô ấy là một <b>giám đốc điều hành</b> cấp cao ở ngân hàng."
+   }
+  },
+  {
+   "word": "administrator",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ədˈmɪnɪstreɪtə(r)/",
+   "def_en": "A person who runs the office day-to-day.",
+   "def_vi": "Người điều hành văn phòng hằng ngày.",
+   "gloss_vi": "quản trị viên, nhân viên hành chính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Administrator</i> (noun) = quản trị viên, nhân viên hành chính. <b>Grammar</b>: <i>administration</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>administrator</b> runs the office day-to-day.",
+    "vi": "<b>Nhân viên hành chính</b> lo công việc văn phòng hằng ngày."
+   }
+  },
+  {
+   "word": "skilled worker",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌskɪld ˈwɜːkə(r)/",
+   "def_en": "A worker trained to do specific tasks.",
+   "def_vi": "Người được đào tạo làm việc cụ thể.",
+   "gloss_vi": "công nhân lành nghề",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "unskilled worker <i>(np. lao động phổ thông)</i>",
+   "grammar_vi": "<i>Skilled worker</i> (noun phrase) = công nhân lành nghề. <b>Grammar</b>: <i>skilled</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "The factory needs more <b>skilled workers</b>.",
+    "vi": "Nhà máy cần thêm <b>công nhân lành nghề</b>."
+   }
+  },
+  {
+   "word": "unskilled worker",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌʌnskɪld ˈwɜːkə(r)/",
+   "def_en": "A worker doing a job that needs no training.",
+   "def_vi": "Người làm việc không cần đào tạo.",
+   "gloss_vi": "lao động phổ thông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "skilled worker <i>(np. công nhân lành nghề)</i>",
+   "grammar_vi": "<i>Unskilled worker</i> (noun phrase) = lao động phổ thông. <b>Grammar</b>: <i>unskilled</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "Wages for <b>unskilled workers</b> are often low.",
+    "vi": "Lương của <b>lao động phổ thông</b> thường thấp."
+   }
+  },
+  {
+   "word": "receptionist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˈsepʃənɪst/",
+   "def_en": "A person visitors must check in with.",
+   "def_vi": "Người khách phải đăng ký khi đến.",
+   "gloss_vi": "lễ tân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Receptionist</i> (noun) = lễ tân. <b>Grammar</b>: <i>reception</i> (nơi).",
+   "ex_kit": true,
+   "example": {
+    "en": "Visitors must check in with the <b>receptionist</b>.",
+    "vi": "Khách phải đăng ký với <b>lễ tân</b>."
+   }
+  },
+  {
+   "word": "public relations officer",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌpʌblɪk rɪˈleɪʃnz ˌɒfɪsə(r)/",
+   "def_en": "A person who gives information about the company to the media.",
+   "def_vi": "Người cung cấp thông tin công ty cho báo chí.",
+   "gloss_vi": "nhân viên quan hệ công chúng",
+   "synonyms": "PR officer <i>(np. nhân viên PR)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Public relations officer</i> (noun phrase) = nhân viên quan hệ công chúng. <b>Grammar</b>: viết tắt <i>PR</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>public relations officer</b> answered the journalists’ questions.",
+    "vi": "<b>Nhân viên quan hệ công chúng</b> trả lời câu hỏi của nhà báo."
+   }
+  },
+  {
+   "word": "union representative",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈjuːniən ˌreprɪzentətɪv/",
+   "def_en": "A person who looks after the staff’s interests.",
+   "def_vi": "Người bảo vệ quyền lợi nhân viên.",
+   "gloss_vi": "đại diện công đoàn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Union representative</i> (noun phrase) = đại diện công đoàn. <b>Grammar</b>: <i>trade union</i> = công đoàn.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>union representative</b> met the management about pay.",
+    "vi": "<b>Đại diện công đoàn</b> gặp ban quản lý về lương."
+   }
+  },
+  {
+   "word": "researcher",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˈsɜːtʃə(r)/",
+   "def_en": "A person who investigates and develops new products.",
+   "def_vi": "Người tìm hiểu và phát triển sản phẩm mới.",
+   "gloss_vi": "nhà nghiên cứu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Researcher</i> (noun) = nhà nghiên cứu. <b>Grammar</b>: <i>research</i> (n./v.).",
+   "example": {
+    "en": "Jack’s got a new job as a <b>researcher</b>.",
+    "vi": "Jack có công việc mới là <b>nhà nghiên cứu</b>."
+   }
+  },
+  {
+   "word": "supervisor",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsuːpəvaɪzə(r)/",
+   "def_en": "A person who makes sure workers are doing their job properly.",
+   "def_vi": "Người đảm bảo nhân viên làm đúng việc.",
+   "gloss_vi": "giám sát viên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Supervisor</i> (noun) = giám sát viên. <b>Grammar</b>: <i>supervise</i> (v.).",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>supervisor</b> checks the work every day.",
+    "vi": "<b>Giám sát viên</b> kiểm tra công việc mỗi ngày."
+   }
+  },
+  {
+   "word": "civil servant",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌsɪvl ˈsɜːvənt/",
+   "def_en": "A person who works for a government department.",
+   "def_vi": "Người làm việc cho cơ quan chính phủ.",
+   "gloss_vi": "công chức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Civil servant</i> (noun phrase) = công chức. <b>Grammar</b>: <i>the civil service</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "My father is a <b>civil servant</b> in the Ministry of Education.",
+    "vi": "Bố tôi là <b>công chức</b> ở Bộ Giáo dục."
+   }
+  },
+  {
+   "word": "ambassador",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/æmˈbæsədə(r)/",
+   "def_en": "A chief diplomat representing his or her government abroad.",
+   "def_vi": "Nhà ngoại giao đứng đầu đại diện chính phủ ở nước ngoài.",
+   "gloss_vi": "đại sứ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ambassador</i> (noun) = đại sứ. <b>Grammar</b>: <i>embassy</i> = đại sứ quán.",
+   "ex_kit": true,
+   "example": {
+    "en": "The French <b>ambassador</b> met the president.",
+    "vi": "<b>Đại sứ</b> Pháp đã gặp tổng thống."
+   }
+  },
+  {
+   "word": "physiotherapist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌfɪziəʊˈθerəpɪst/",
+   "def_en": "A person who treats muscle injuries by rubbing and moving the injured areas.",
+   "def_vi": "Người chữa chấn thương cơ bằng xoa bóp và vận động.",
+   "gloss_vi": "nhà vật lý trị liệu",
+   "synonyms": "physio <i>(n. vật lý trị liệu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Physiotherapist</i> (noun) = nhà vật lý trị liệu. <b>Grammar</b>: thân mật <i>physio</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>physiotherapist</b> helped me with my knee.",
+    "vi": "<b>Nhà vật lý trị liệu</b> giúp tôi chữa lành đầu gối."
+   }
+  },
+  {
+   "word": "childminder",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtʃaɪldmaɪndə(r)/",
+   "def_en": "A person who looks after other people’s children in her own home.",
+   "def_vi": "Người trông con người khác tại nhà mình.",
+   "gloss_vi": "người trông trẻ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Childminder</i> (noun) = người trông trẻ. <b>Grammar</b>: Anh–Anh.",
+   "ex_kit": true,
+   "example": {
+    "en": "My son stays with a <b>childminder</b> while I’m at work.",
+    "vi": "Con trai tôi ở với <b>người trông trẻ</b> khi tôi đi làm."
+   }
+  },
+  {
+   "word": "make a living",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌmeɪk ə ˈlɪvɪŋ/",
+   "def_en": "To earn enough money to live comfortably.",
+   "def_vi": "Kiếm đủ tiền để sống thoải mái.",
+   "gloss_vi": "kiếm sống",
+   "synonyms": "earn a living <i>(vp. kiếm sống)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Make a living</i> (verb phrase) = kiếm sống. <b>Grammar</b>: <i>make a living from/as sth</i>.",
+   "example": {
+    "en": "It’s hard to <b>make a living</b> as a freelance writer.",
+    "vi": "Thật khó <b>kiếm sống</b> bằng nghề viết tự do."
+   }
+  },
+  {
+   "word": "take on",
+   "sense": "responsibility",
+   "pos": "phrasal verb",
+   "ipa": "/ˌteɪk ˈɒn/",
+   "def_en": "To accept a job or responsibility.",
+   "def_vi": "Nhận một việc hay trách nhiệm.",
+   "gloss_vi": "đảm nhận",
+   "synonyms": "accept <i>(v. nhận)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take on</i> (phrasal verb) = đảm nhận. <b>Grammar</b>: tách được.",
+   "example": {
+    "en": "She’s not prepared to <b>take on</b> that job.",
+    "vi": "Cô ấy không sẵn sàng <b>đảm nhận</b> công việc đó."
+   }
+  },
+  {
+   "word": "work shifts",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌwɜːk ˈʃɪfts/",
+   "def_en": "To work nights one week, days the next.",
+   "def_vi": "Làm đêm tuần này, ngày tuần sau.",
+   "gloss_vi": "làm theo ca",
+   "synonyms": "do shiftwork <i>(vp. làm ca)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Work shifts</i> (verb phrase) = làm theo ca. <b>Grammar</b>: <i>shift</i> (n.) = ca.",
+   "ex_kit": true,
+   "example": {
+    "en": "Nurses have to <b>work shifts</b>.",
+    "vi": "Các y tá phải <b>làm theo ca</b>."
+   }
+  },
+  {
+   "word": "flexi-time",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfleksi taɪm/",
+   "def_en": "Flexible working hours.",
+   "def_vi": "Giờ làm linh hoạt.",
+   "gloss_vi": "giờ làm linh hoạt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flexi-time</i> (noun) = giờ làm linh hoạt. <b>Grammar</b>: <i>be on flexi-time</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I’m on <b>flexi-time</b>, so I can start late.",
+    "vi": "Tôi làm theo <b>giờ linh hoạt</b> nên có thể bắt đầu muộn."
+   }
+  },
+  {
+   "word": "be fired",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/bi ˈfaɪəd/",
+   "def_en": "To be told to leave your job (more formal than ‘get the sack’).",
+   "def_vi": "Bị cho thôi việc.",
+   "gloss_vi": "bị đuổi việc",
+   "synonyms": "get the sack <i>(vp. bị sa thải)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be fired</i> (verb phrase) = bị đuổi việc. <b>Grammar</b>: <i>You’re fired!</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He <b>was fired</b> for always being late.",
+    "vi": "Anh ta <b>bị đuổi việc</b> vì liên tục đi muộn."
+   }
+  },
+  {
+   "word": "be made redundant",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/bi ˌmeɪd rɪˈdʌndənt/",
+   "def_en": "To lose your job because you are no longer needed.",
+   "def_vi": "Mất việc vì không còn cần nữa.",
+   "gloss_vi": "bị cắt giảm biên chế",
+   "synonyms": "be laid off <i>(vp. bị cho nghỉ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be made redundant</i> (verb phrase) = bị cắt giảm biên chế. <b>Grammar</b>: <i>redundancy</i> (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "Three hundred workers <b>were made redundant</b>.",
+    "vi": "Ba trăm công nhân <b>bị cắt giảm</b>."
+   }
+  },
+  {
+   "word": "be laid off",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/bi ˌleɪd ˈɒf/",
+   "def_en": "To lose your job because there is no work (informal).",
+   "def_vi": "Mất việc vì không có việc (thân mật).",
+   "gloss_vi": "bị cho nghỉ việc",
+   "synonyms": "be made redundant <i>(vp. bị cắt giảm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be laid off</i> (verb phrase) = bị cho nghỉ việc. <b>Grammar</b>: <i>lay off – laid off</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Many workers <b>were laid off</b> when the factory closed.",
+    "vi": "Nhiều công nhân <b>bị cho nghỉ</b> khi nhà máy đóng cửa."
+   }
+  },
+  {
+   "word": "maternity leave",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/məˈtɜːnəti liːv/",
+   "def_en": "Time off work for a woman before and after the birth of a baby.",
+   "def_vi": "Nghỉ phép cho phụ nữ trước và sau sinh.",
+   "gloss_vi": "nghỉ thai sản",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Maternity leave</i> (noun phrase) = nghỉ thai sản. <b>Grammar</b>: nam: <i>paternity leave</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She’s on <b>maternity leave</b>.",
+    "vi": "Cô ấy đang <b>nghỉ thai sản</b>."
+   }
+  },
+  {
+   "word": "sick leave",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈsɪk liːv/",
+   "def_en": "Time off work because of illness.",
+   "def_vi": "Nghỉ làm vì ốm.",
+   "gloss_vi": "nghỉ ốm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sick leave</i> (noun phrase) = nghỉ ốm. <b>Grammar</b>: <i>be on / take sick leave</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He took two weeks’ <b>sick leave</b>.",
+    "vi": "Anh ấy <b>nghỉ ốm</b> hai tuần."
+   }
+  },
+  {
+   "word": "early retirement",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌɜːli rɪˈtaɪəmənt/",
+   "def_en": "Retiring before the usual age.",
+   "def_vi": "Nghỉ hưu trước tuổi.",
+   "gloss_vi": "nghỉ hưu sớm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Early retirement</i> (noun phrase) = nghỉ hưu sớm. <b>Grammar</b>: <i>take early retirement</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He took <b>early retirement</b> at 55.",
+    "vi": "Ông ấy <b>nghỉ hưu sớm</b> lúc 55 tuổi."
+   }
+  },
+  {
+   "word": "workaholic",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌwɜːkəˈhɒlɪk/",
+   "def_en": "A person who loves work too much.",
+   "def_vi": "Người quá ham công việc.",
+   "gloss_vi": "người nghiện công việc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Workaholic</i> (noun) = người nghiện công việc. <b>Grammar</b>: <i>work</i> + <i>-aholic</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She’s a <b>workaholic</b> – she never takes a holiday.",
+    "vi": "Cô ấy là <b>người nghiện công việc</b> – không bao giờ nghỉ."
+   }
+  }
+ ]
+}

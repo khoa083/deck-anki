@@ -1,0 +1,392 @@
+{
+ "book": "upp",
+ "unit": 15,
+ "title_vi": "Giáo dục đại học",
+ "theory_html": "<p><b>A. University studies</b><br><i>A. Học đại học</i></p> <p><b>undergraduate studies → a bachelor’s degree; a programme of modules; credits; a dissertation; graduate → graduates; postgraduate studies: a master’s degree, a PhD; a field; research; a thesis</b>. <b>undergrad / postgrad</b>.</p><p><i><b>bậc đại học, bằng cử nhân, chương trình, tín chỉ, luận văn, tốt nghiệp, sau đại học, thạc sĩ, tiến sĩ, lĩnh vực, nghiên cứu, luận án</b>.</i></p> <p><b>B. People, places, and types of classes</b><br><i>B. Người, nơi chốn, loại lớp</i></p> <p><b>university campus, lecture theatre, lectures, lecturer, seminars, academic staff, tutors, tutorials, on campus, halls of residence</b>.</p><p><i><b>khuôn viên, giảng đường, bài giảng, xê-mi-na, cán bộ giảng dạy, trợ giảng, giờ hướng dẫn, ký túc xá</b>.</i></p> <p><b>C. Student services</b><br><i>C. Dịch vụ sinh viên</i></p> <p><b>Admissions, entry requirements, submit your application; funding, tuition fees, student loan, scholarship; student union, student societies</b>.</p><p><i><b>tuyển sinh, yêu cầu đầu vào, nộp hồ sơ, tài trợ, học phí, khoản vay, học bổng, hội sinh viên, câu lạc bộ</b>.</i></p>",
+ "items": [
+  {
+   "word": "undergraduate studies",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌʌndəˈɡrædʒuət ˌstʌdiz/",
+   "def_en": "University studies towards a first degree.",
+   "def_vi": "Việc học đại học hướng đến bằng đầu tiên.",
+   "gloss_vi": "bậc đại học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "postgraduate studies <i>(np. sau đại học)</i>",
+   "grammar_vi": "<i>Undergraduate studies</i> (noun phrase) = bậc đại học. <b>Grammar</b>: <i>undergrad</i> (thân mật).",
+   "example": {
+    "en": "Students who attend university in the UK start with <b>undergraduate studies</b>.",
+    "vi": "Sinh viên ở Anh bắt đầu với <b>bậc đại học</b>."
+   }
+  },
+  {
+   "word": "bachelor’s degree",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈbætʃələz dɪˌɡriː/",
+   "def_en": "A first degree at university.",
+   "def_vi": "Bằng đầu tiên ở đại học.",
+   "gloss_vi": "bằng cử nhân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "master’s degree <i>(np. bằng thạc sĩ)</i>",
+   "grammar_vi": "<i>Bachelor’s degree</i> (noun phrase) = bằng cử nhân. <b>Grammar</b>: BA, BSc.",
+   "example": {
+    "en": "These are usually the studies towards a <b>bachelor’s degree</b>.",
+    "vi": "Đó thường là việc học để lấy <b>bằng cử nhân</b>."
+   }
+  },
+  {
+   "word": "programme",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈprəʊɡræm/",
+   "def_en": "A course of study made up of modules.",
+   "def_vi": "Khóa học gồm nhiều học phần.",
+   "gloss_vi": "chương trình học",
+   "synonyms": "course <i>(n. khóa học)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Programme</i> (noun) = chương trình học. <b>Grammar</b>: Mỹ <i>program</i>.",
+   "example": {
+    "en": "They follow a <b>programme</b> of different modules.",
+    "vi": "Họ theo một <b>chương trình</b> gồm nhiều học phần."
+   }
+  },
+  {
+   "word": "credit",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkredɪt/",
+   "def_en": "A unit that counts towards a university qualification.",
+   "def_vi": "Đơn vị tính cho bằng đại học.",
+   "gloss_vi": "tín chỉ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Credit</i> (noun) = tín chỉ. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "They usually have to complete a certain number of <b>credits</b> each year.",
+    "vi": "Họ phải hoàn thành một số <b>tín chỉ</b> mỗi năm."
+   }
+  },
+  {
+   "word": "dissertation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdɪsəˈteɪʃn/",
+   "def_en": "A long piece of writing for a degree.",
+   "def_vi": "Bài viết dài cho một bằng cấp.",
+   "gloss_vi": "luận văn",
+   "synonyms": "thesis <i>(n. luận án)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dissertation</i> (noun) = luận văn. <b>Grammar</b>: <i>write a dissertation</i>.",
+   "example": {
+    "en": "Their <b>dissertation</b> might be worth another 60 credits.",
+    "vi": "<b>Luận văn</b> của họ có thể được tính 60 tín chỉ."
+   }
+  },
+  {
+   "word": "graduate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈɡrædʒueɪt/",
+   "def_en": "To complete a university degree.",
+   "def_vi": "Hoàn thành bằng đại học.",
+   "gloss_vi": "tốt nghiệp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Graduate</i> (verb) = tốt nghiệp. <b>Grammar</b>: động từ /-eɪt/, danh từ /-ət/.",
+   "example": {
+    "en": "When they have <b>graduated</b>, students become graduates.",
+    "vi": "Khi đã <b>tốt nghiệp</b>, sinh viên trở thành cử nhân."
+   }
+  },
+  {
+   "word": "postgraduate studies",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌpəʊstˈɡrædʒuət ˌstʌdiz/",
+   "def_en": "Studies after a first degree.",
+   "def_vi": "Việc học sau bằng đầu tiên.",
+   "gloss_vi": "sau đại học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "undergraduate studies <i>(np. bậc đại học)</i>",
+   "grammar_vi": "<i>Postgraduate studies</i> (noun phrase) = sau đại học. <b>Grammar</b>: <i>postgrad</i> (thân mật).",
+   "example": {
+    "en": "Students can begin <b>postgraduate studies</b>.",
+    "vi": "Sinh viên có thể bắt đầu học <b>sau đại học</b>."
+   }
+  },
+  {
+   "word": "master’s degree",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈmɑːstəz dɪˌɡriː/",
+   "def_en": "A university degree after a bachelor’s degree.",
+   "def_vi": "Bằng sau cử nhân.",
+   "gloss_vi": "bằng thạc sĩ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Master’s degree</i> (noun phrase) = bằng thạc sĩ. <b>Grammar</b>: MA, MSc.",
+   "example": {
+    "en": "The first stage of this would be a <b>master’s degree</b>.",
+    "vi": "Giai đoạn đầu sẽ là <b>bằng thạc sĩ</b>."
+   }
+  },
+  {
+   "word": "PhD",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpiː eɪtʃ ˈdiː/",
+   "def_en": "Doctor of philosophy, the highest university degree.",
+   "def_vi": "Tiến sĩ, bằng cao nhất.",
+   "gloss_vi": "bằng tiến sĩ",
+   "synonyms": "doctorate <i>(n. học vị tiến sĩ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>PhD</i> (noun) = bằng tiến sĩ. <b>Grammar</b>: <i>do a PhD in sth</i>.",
+   "example": {
+    "en": "After that they can do a <b>PhD</b>.",
+    "vi": "Sau đó họ có thể làm <b>tiến sĩ</b>."
+   }
+  },
+  {
+   "word": "field",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/fiːld/",
+   "def_en": "An area of study.",
+   "def_vi": "Một lĩnh vực học thuật.",
+   "gloss_vi": "lĩnh vực",
+   "synonyms": "area <i>(n. lĩnh vực)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Field</i> (noun) = lĩnh vực. <b>Grammar</b>: <i>in the field of sth</i>. <b>Common mistakes</b>: cũng = cánh đồng.",
+   "example": {
+    "en": "Postgraduate studies require students to specialise in a particular <b>field</b>.",
+    "vi": "Học sau đại học yêu cầu chuyên sâu vào một <b>lĩnh vực</b>."
+   }
+  },
+  {
+   "word": "thesis",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈθiːsɪs/",
+   "def_en": "A long piece of writing for a PhD.",
+   "def_vi": "Bài viết dài cho tiến sĩ.",
+   "gloss_vi": "luận án",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Thesis</i> (noun) = luận án. <b>Grammar</b>: số nhiều <i>theses</i> /-siːz/.",
+   "example": {
+    "en": "They usually have to write a <b>thesis</b> (for a PhD).",
+    "vi": "Họ phải viết <b>luận án</b> cho bằng tiến sĩ."
+   }
+  },
+  {
+   "word": "campus",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkæmpəs/",
+   "def_en": "The buildings and land of a university.",
+   "def_vi": "Tòa nhà và đất của trường đại học.",
+   "gloss_vi": "khuôn viên trường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Campus</i> (noun) = khuôn viên trường. <b>Grammar</b>: <i>on campus</i> (không có <i>the</i>).",
+   "example": {
+    "en": "Many students live <b>on</b> <b>campus</b> in halls of residence.",
+    "vi": "Nhiều sinh viên sống <b>trong khuôn viên trường</b>."
+   }
+  },
+  {
+   "word": "lecture theatre",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈlektʃə ˌθɪətə(r)/",
+   "def_en": "A large room where lectures are given.",
+   "def_vi": "Phòng lớn để giảng bài.",
+   "gloss_vi": "giảng đường",
+   "synonyms": "lecture hall <i>(np. giảng đường)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lecture theatre</i> (noun phrase) = giảng đường. <b>Grammar</b>: Mỹ <i>theater</i>.",
+   "example": {
+    "en": "If you visit a university campus, you’ll see a <b>lecture theatre</b>.",
+    "vi": "Ở khuôn viên trường, bạn sẽ thấy <b>giảng đường</b>."
+   }
+  },
+  {
+   "word": "seminar",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsemɪnɑː(r)/",
+   "def_en": "A class where a small group discusses a subject in detail.",
+   "def_vi": "Lớp nhóm nhỏ thảo luận chi tiết.",
+   "gloss_vi": "buổi xê-mi-na",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Seminar</i> (noun) = buổi xê-mi-na. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Some modules have <b>seminars</b> where smaller groups discuss the subject in detail.",
+    "vi": "Một số học phần có <b>xê-mi-na</b> để nhóm nhỏ thảo luận."
+   }
+  },
+  {
+   "word": "academic staff",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌækəˌdemɪk ˈstɑːf/",
+   "def_en": "The people who teach at a university.",
+   "def_vi": "Những người dạy ở đại học.",
+   "gloss_vi": "đội ngũ giảng dạy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Academic staff</i> (noun phrase) = đội ngũ giảng dạy. <b>Grammar</b>: danh từ tập hợp.",
+   "example": {
+    "en": "The <b>academic staff</b> might also include tutors.",
+    "vi": "<b>Đội ngũ giảng dạy</b> có thể gồm cả trợ giảng."
+   }
+  },
+  {
+   "word": "tutor",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtjuːtə(r)/",
+   "def_en": "A teacher who teaches students individually or in small groups.",
+   "def_vi": "Giáo viên dạy cá nhân hay nhóm nhỏ.",
+   "gloss_vi": "người hướng dẫn, trợ giảng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tutor</i> (noun) = người hướng dẫn, trợ giảng. <b>Grammar</b>: <i>tutorial</i> = buổi hướng dẫn.",
+   "example": {
+    "en": "<b>Tutors</b> teach students individually or in small groups.",
+    "vi": "<b>Người hướng dẫn</b> dạy sinh viên riêng lẻ hay theo nhóm nhỏ."
+   }
+  },
+  {
+   "word": "tutorial",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tjuːˈtɔːriəl/",
+   "def_en": "A session where a tutor teaches individually or in small groups.",
+   "def_vi": "Buổi người hướng dẫn dạy riêng hay nhóm nhỏ.",
+   "gloss_vi": "giờ hướng dẫn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tutorial</i> (noun) = giờ hướng dẫn. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Tutors teach students in sessions called <b>tutorials</b>.",
+    "vi": "Trợ giảng dạy nhóm nhỏ trong các buổi gọi là <b>giờ hướng dẫn</b>."
+   }
+  },
+  {
+   "word": "halls of residence",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌhɔːlz əv ˈrezɪdəns/",
+   "def_en": "University buildings where students live.",
+   "def_vi": "Tòa nhà nơi sinh viên ở.",
+   "gloss_vi": "ký túc xá",
+   "synonyms": "halls <i>(pn. ký túc xá)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Halls of residence</i> (noun phrase) = ký túc xá. <b>Grammar</b>: thân mật <i>halls</i>.",
+   "example": {
+    "en": "Many students live on campus in <b>halls of residence</b>.",
+    "vi": "Nhiều sinh viên sống trong khuôn viên ở <b>ký túc xá</b>."
+   }
+  },
+  {
+   "word": "admissions",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ədˈmɪʃnz/",
+   "def_en": "A university department that deals with new applications.",
+   "def_vi": "Phòng xử lý hồ sơ nhập học.",
+   "gloss_vi": "phòng tuyển sinh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Admissions</i> (plural noun) = phòng tuyển sinh. <b>Grammar</b>: số nhiều ở nghĩa này.",
+   "example": {
+    "en": "<b>Admissions</b>: To apply for one of our postgraduate programmes …",
+    "vi": "<b>Tuyển sinh</b>: để đăng ký chương trình sau đại học…"
+   }
+  },
+  {
+   "word": "entry requirements",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈentri rɪˌkwaɪəmənts/",
+   "def_en": "Qualifications needed to enter a programme.",
+   "def_vi": "Bằng cấp cần để vào chương trình.",
+   "gloss_vi": "yêu cầu đầu vào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Entry requirements</i> (noun phrase) = yêu cầu đầu vào. <b>Grammar</b>: số nhiều.",
+   "example": {
+    "en": "Check the <b>entry requirements</b> on the programme page.",
+    "vi": "Hãy kiểm tra <b>yêu cầu đầu vào</b> trên trang chương trình."
+   }
+  },
+  {
+   "word": "tuition fees",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/tjuˈɪʃn fiːz/",
+   "def_en": "Money that students have to pay for their course.",
+   "def_vi": "Tiền sinh viên trả cho khóa học.",
+   "gloss_vi": "học phí",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tuition fees</i> (noun phrase) = học phí. <b>Grammar</b>: số nhiều.",
+   "example": {
+    "en": "<b>Tuition fees</b> should be paid at the beginning of the academic year.",
+    "vi": "<b>Học phí</b> phải nộp đầu năm học."
+   }
+  },
+  {
+   "word": "scholarship",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈskɒləʃɪp/",
+   "def_en": "Money given to a student to pay for a course.",
+   "def_vi": "Tiền trao cho sinh viên để học.",
+   "gloss_vi": "học bổng",
+   "synonyms": "grant <i>(n. trợ cấp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Scholarship</i> (noun) = học bổng. <b>Grammar</b>: <i>win/get a scholarship</i>.",
+   "example": {
+    "en": "To apply for a student loan or a <b>scholarship</b> click here.",
+    "vi": "Để đăng ký khoản vay sinh viên hoặc <b>học bổng</b>, hãy nhấp vào đây."
+   }
+  },
+  {
+   "word": "student union",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌstjuːdnt ˈjuːniən/",
+   "def_en": "An organisation that deals with student life, and a place where students meet.",
+   "def_vi": "Tổ chức lo đời sống sinh viên, và nơi sinh viên gặp nhau.",
+   "gloss_vi": "hội sinh viên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Student union</i> (noun phrase) = hội sinh viên. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Visit our <b>student union</b> page to find out more.",
+    "vi": "Hãy vào trang <b>hội sinh viên</b> để biết thêm."
+   }
+  },
+  {
+   "word": "student society",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌstjuːdnt səˈsaɪəti/",
+   "def_en": "A club for students with a shared interest.",
+   "def_vi": "Câu lạc bộ cho sinh viên cùng sở thích.",
+   "gloss_vi": "câu lạc bộ sinh viên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Student society</i> (noun phrase) = câu lạc bộ sinh viên. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Find out more about <b>student societies</b> and clubs.",
+    "vi": "Tìm hiểu thêm về các <b>câu lạc bộ sinh viên</b>."
+   }
+  }
+ ]
+}
