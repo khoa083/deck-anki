@@ -1,0 +1,216 @@
+{
+ "book": "gva",
+ "unit": 13,
+ "title_vi": "Mệnh đề trạng ngữ",
+ "theory_html": "<p><b>2.1. Adverbial clauses: general</b><br><i>2.1. Mệnh đề trạng ngữ: tổng quát</i></p> <p>An adverbial clause adds information (time, reason, purpose…) to a main clause, usually begins with a conjunction, can come before or after it; it can’t be a separate sentence; only one conjunction.</p><p><i>Mệnh đề trạng ngữ bổ sung thời gian, lý do, mục đích; không đứng riêng; chỉ một liên từ.</i></p> <p><b>2.2. Time clauses</b><br><i>2.2. Mệnh đề thời gian</i></p> <p>No <b>will</b> after time conjunctions (<b>before, until, when</b>); <b>when</b> (not <b>as / while</b>) for a point in time, circumstances, a past period of life, ‘every time’ (<b>whenever</b>); <b>as</b> for two things changing together; <b>as / when</b> for the moment something happens; <b>as</b> can mean ‘because’ or ‘while’.</p><p><i>Không dùng <b>will</b>; <b>when</b> cho thời điểm, hoàn cảnh, giai đoạn đời; <b>as</b> cho thay đổi song song.</i></p> <p><b>2.3. Contrast and concession clauses</b><br><i>2.3. Mệnh đề tương phản, nhượng bộ</i></p> <p><b>although / though</b> (<b>though</b> at the end of a clause), <b>despite / in spite of the fact that</b>, <b>despite / in spite of (my) + -ing</b>, <b>while / whereas</b> (formal <b>whilst</b>).</p><p><i><b>although, though, despite the fact that, whereas</b>.</i></p> <p><b>2.4. Reason clauses</b><br><i>2.4. Mệnh đề lý do</i></p> <p><b>because, so, because of</b> + noun; formal <b>as, since</b>; informal <b>seeing that / seeing as</b>.</p><p><i><b>because, as, since, seeing that</b>.</i></p> <p><b>2.5. Purpose and result clauses</b><br><i>2.5. Mệnh đề mục đích</i></p> <p><b>in order / so as + to-infinitive</b> (informally just to-infinitive); negatives <b>in order not to / so as not to</b>; <b>in order that / so (that)</b> + often modal verbs.</p><p><i><b>in order to, so as not to, so that + can/would</b>.</i></p>",
+ "items": [
+  {
+   "word": "adverbial clause",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ədˈvɜːbiəl klɔːz/",
+   "def_en": "A clause that adds extra information to a main clause about time, reason or purpose.",
+   "def_vi": "Mệnh đề bổ sung thông tin thời gian, lý do, mục đích.",
+   "gloss_vi": "mệnh đề trạng ngữ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Adverbial clause</i> (structure) = mệnh đề trạng ngữ. <b>Grammar</b>: phải gắn với mệnh đề chính; chỉ một liên từ.",
+   "example": {
+    "en": "<b>Although I'd like to eat more fresh food</b>, I don't have time to prepare meals in the evenings.",
+    "vi": "Dù muốn ăn đồ tươi hơn, <b>tôi không có thời gian nấu buổi tối</b>."
+   }
+  },
+  {
+   "word": "before (no will)",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/bɪˈfɔː(r)/",
+   "def_en": "A time conjunction followed by a present tense, not will, for the future.",
+   "def_vi": "Liên từ thời gian, theo sau thì hiện tại, không will.",
+   "gloss_vi": "trước khi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Before (no will)</i> (conjunction) = trước khi. <b>Grammar</b>: không <i>before I will leave</i>; <i>When I've written up the research, I'll…</i>.",
+   "example": {
+    "en": "I'd like to have something more substantial <b>before I leave</b> home in the morning.",
+    "vi": "Tôi muốn ăn gì đó chắc bụng hơn <b>trước khi rời nhà</b> buổi sáng."
+   }
+  },
+  {
+   "word": "whenever",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/wenˈevə(r)/",
+   "def_en": "Every time something happens.",
+   "def_vi": "Mỗi khi.",
+   "gloss_vi": "mỗi khi",
+   "synonyms": "every time <i>(conj. mỗi lần)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Whenever</i> (conjunction) = mỗi khi. <b>Grammar</b>: <i>when</i> (không <i>as/while</i>) cho thời điểm, hoàn cảnh, giai đoạn đời.",
+   "example": {
+    "en": "When/<b>Whenever</b> I've had one of those ready meals, I feel hungry by the time I go to bed.",
+    "vi": "<b>Mỗi khi</b> ăn đồ ăn sẵn, tôi lại đói trước giờ ngủ."
+   }
+  },
+  {
+   "word": "as (changing together)",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/æz/",
+   "def_en": "Used to show that one thing changes at the same time as another.",
+   "def_vi": "Diễn tả hai việc thay đổi cùng lúc.",
+   "gloss_vi": "khi, càng… càng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As (changing together)</i> (conjunction) = khi, càng… càng. <b>Grammar</b>: <i>as</i> cũng có thể = <i>because</i> hoặc <i>while</i>.",
+   "example": {
+    "en": "<b>As I put on weight</b>, it gets more and more difficult to exercise.",
+    "vi": "<b>Khi tôi tăng cân</b>, tập thể dục càng khó."
+   }
+  },
+  {
+   "word": "though (end)",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ðəʊ/",
+   "def_en": "Used at the end of a clause to show contrast (informal).",
+   "def_vi": "Đứng cuối mệnh đề diễn tả tương phản (thân mật).",
+   "gloss_vi": "tuy vậy",
+   "synonyms": "however <i>(adv. tuy nhiên)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Though (end)</i> (adverb) = tuy vậy. <b>Grammar</b>: không dùng <i>although</i> cuối câu.",
+   "example": {
+    "en": "In some ways, it's better now, <b>though</b>.",
+    "vi": "Ở vài mặt, giờ tốt hơn, <b>tuy vậy</b>."
+   }
+  },
+  {
+   "word": "despite the fact that",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/dɪˈspaɪt ðə ˌfækt ðæt/",
+   "def_en": "Although.",
+   "def_vi": "Mặc dù.",
+   "gloss_vi": "mặc dù thực tế là",
+   "synonyms": "in spite of the fact that <i>(conj. mặc dù)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Despite the fact that</i> (conjunction) = mặc dù thực tế là. <b>Grammar</b>: hoặc <i>despite (my) knowing…</i>.",
+   "example": {
+    "en": "<b>Despite the fact that</b> I know all about the theory of a healthy diet it's very hard to put it into practice.",
+    "vi": "<b>Mặc dù</b> tôi biết lý thuyết ăn uống lành mạnh, rất khó thực hành."
+   }
+  },
+  {
+   "word": "whereas",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/weərˈæz/",
+   "def_en": "Used to show a contrast with something in the main clause.",
+   "def_vi": "Diễn tả tương phản với mệnh đề chính.",
+   "gloss_vi": "trong khi (đó)",
+   "synonyms": "while <i>(conj. trong khi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Whereas</i> (conjunction) = trong khi (đó). <b>Grammar</b>: <i>whilst</i> = <i>while</i> trang trọng.",
+   "example": {
+    "en": "If I got hungry at school, I'd buy a chocolate bar, <b>whereas</b> nowadays I'll eat some fruit.",
+    "vi": "Hồi đi học đói tôi mua sô-cô-la, <b>trong khi</b> nay tôi ăn trái cây."
+   }
+  },
+  {
+   "word": "because of",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/bɪˈkɒz əv/",
+   "def_en": "Used before a noun or noun phrase to give a reason.",
+   "def_vi": "Đứng trước danh từ để nêu lý do.",
+   "gloss_vi": "vì, do",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Because of</i> (preposition) = vì, do. <b>Grammar</b>: + danh từ; <i>because</i> + mệnh đề.",
+   "example": {
+    "en": "Most recipes in magazines are no use to me <b>because of</b> the time they take.",
+    "vi": "Phần lớn công thức trên tạp chí vô dụng với tôi <b>vì</b> thời gian nấu."
+   }
+  },
+  {
+   "word": "since (reason)",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/sɪns/",
+   "def_en": "Because (formal).",
+   "def_vi": "Vì (trang trọng).",
+   "gloss_vi": "vì",
+   "synonyms": "as <i>(conj. vì)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Since (reason)</i> (conjunction) = vì. <b>Grammar</b>: trang trọng <i>as, since</i>.",
+   "example": {
+    "en": "She made a particular effort because/as/<b>since</b> I was often ill as a child.",
+    "vi": "Mẹ đặc biệt cố gắng <b>vì</b> hồi nhỏ tôi hay ốm."
+   }
+  },
+  {
+   "word": "seeing that",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/ˈsiːɪŋ ðæt/",
+   "def_en": "Because (informal).",
+   "def_vi": "Vì (thân mật).",
+   "gloss_vi": "vì, bởi",
+   "synonyms": "seeing as <i>(conj. vì)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Seeing that</i> (conjunction) = vì, bởi. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "We'll usually go out to eat <b>seeing that</b>/as none of us likes cooking.",
+    "vi": "Chúng tôi thường ăn ngoài <b>vì</b> chẳng ai thích nấu."
+   }
+  },
+  {
+   "word": "in order to",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ɪn ˈɔːdə tə/",
+   "def_en": "Used to talk about the purpose of an action.",
+   "def_vi": "Nói mục đích hành động.",
+   "gloss_vi": "để",
+   "synonyms": "so as to <i>(st. để)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In order to</i> (structure) = để. <b>Grammar</b>: thân mật chỉ dùng to V.",
+   "example": {
+    "en": "I have to get out by 7.30 <b>in order to</b> catch my bus.",
+    "vi": "Tôi phải ra khỏi nhà lúc 7 giờ 30 <b>để</b> kịp xe buýt."
+   }
+  },
+  {
+   "word": "so as not to",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/səʊ əz ˈnɒt tə/",
+   "def_en": "Negative purpose (preferred to not + to-infinitive).",
+   "def_vi": "Mục đích phủ định.",
+   "gloss_vi": "để không",
+   "synonyms": "in order not to <i>(st. để không)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>So as not to</i> (structure) = để không. <b>Grammar</b>: tránh <i>not to</i> đơn thuần.",
+   "example": {
+    "en": "I like to make something myself <b>so as not to</b> / in order not to eat processed food all the time.",
+    "vi": "Tôi tự nấu <b>để không</b> ăn đồ chế biến sẵn mãi."
+   }
+  },
+  {
+   "word": "so that",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/səʊ ðæt/",
+   "def_en": "Used to talk about purpose, often with a modal verb.",
+   "def_vi": "Nói mục đích, thường với động từ khuyết thiếu.",
+   "gloss_vi": "để mà",
+   "synonyms": "in order that <i>(conj. để)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>So that</i> (conjunction) = để mà. <b>Grammar</b>: trang trọng <i>in order that</i>.",
+   "example": {
+    "en": "It'll be interesting to read the results of the research <b>so that</b> I can see how typical my diet is.",
+    "vi": "Sẽ thú vị khi đọc kết quả <b>để</b> tôi xem chế độ ăn của mình điển hình ra sao."
+   }
+  }
+ ]
+}
