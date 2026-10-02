@@ -1,0 +1,340 @@
+{
+ "book": "adv",
+ "unit": 99,
+ "title_vi": "Ngôn ngữ và giới tính",
+ "theory_html": "<p><b>A. Gender awareness and vocabulary</b><br><i>A. Ý thức giới và từ vựng</i></p> <p>Gender-neutral language replaces ‘male’ words with neutral items: <b>chairman</b> → <b>chair/chairperson</b>, <b>salesman</b> → <b>sales assistant</b>; debated: <b>man in the street, Neanderthal Man, manhandle</b>; <b>Ms</b> as a neutral alternative to <b>Miss/Mrs</b>. Older → current: <b>spokesman → spokesperson, fireman → firefighter, policeman → police officer, air hostess → flight attendant, cleaning lady → cleaner, foreman → supervisor, man-made → artificial, mankind → the human race / human beings, to man → to staff</b>.</p><p><i>Ngôn ngữ trung tính giới: <b>chủ tọa, nhân viên bán hàng; người bình thường, người Neanderthal, đối xử thô bạo; Ms</b>. <b>phát ngôn viên, lính cứu hỏa, cảnh sát, tiếp viên hàng không, người dọn dẹp, giám sát, nhân tạo, loài người, bố trí nhân sự</b>.</i></p> <p><b>B. Words referring to men and women</b><br><i>B. Từ chỉ nam và nữ</i></p> <p><b>male / female</b> (biology), <b>masculine / feminine</b> (qualities), <b>guy, bloke, (you) guys, girlfriend</b> (female friend, used by women), <b>girlie/girly, lad, laddish, macho</b>.</p><p><i><b>đực/cái, nam tính/nữ tính, anh chàng, các bạn, bạn gái, kiểu con gái, chàng trai, kiểu đám con trai, nam nhi cứng rắn</b>.</i></p>",
+ "items": [
+  {
+   "word": "chairperson",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtʃeəpɜːsn/",
+   "def_en": "A gender-neutral word for chairman.",
+   "def_vi": "Từ trung tính giới thay cho chairman.",
+   "gloss_vi": "chủ tọa",
+   "synonyms": "chair <i>(n. chủ tọa)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chairperson</i> (noun) = chủ tọa. <b>Grammar</b>: trung tính giới; cũng <i>chair</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>chairperson</b> opened the meeting.",
+    "vi": "<b>Chủ tọa</b> khai mạc cuộc họp."
+   }
+  },
+  {
+   "word": "man in the street",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmæn ɪn ðə ˈstriːt/",
+   "def_en": "A typical person.",
+   "def_vi": "Người bình thường.",
+   "gloss_vi": "người dân thường",
+   "synonyms": "person in the street <i>(n. người bình thường)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Man in the street</i> (noun) = người dân thường. <b>Collocations / chunks</b>: trung tính: <i>person in the street</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>man in the street</b> doesn’t care about this.",
+    "vi": "<b>Người dân thường</b> không quan tâm chuyện này."
+   }
+  },
+  {
+   "word": "manhandle",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈmænhændl/",
+   "def_en": "To handle roughly, using force.",
+   "def_vi": "Đối xử thô bạo, dùng vũ lực.",
+   "gloss_vi": "đối xử thô bạo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Manhandle</i> (verb) = đối xử thô bạo. <b>Grammar</b>: nghĩa ‘đàn ông’ không còn nổi bật.",
+   "ex_kit": true,
+   "example": {
+    "en": "The protesters were <b>manhandled</b> by police.",
+    "vi": "Người biểu tình bị cảnh sát <b>đối xử thô bạo</b>."
+   }
+  },
+  {
+   "word": "Ms",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/mɪz/",
+   "def_en": "A neutral title for a woman, an alternative to Miss or Mrs.",
+   "def_vi": "Danh xưng trung tính cho phụ nữ, thay Miss/Mrs.",
+   "gloss_vi": "bà/cô (trung tính)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ms</i> (noun) = bà/cô (trung tính). <b>Grammar</b>: không cho biết tình trạng hôn nhân.",
+   "ex_kit": true,
+   "example": {
+    "en": "The letter was addressed to <b>Ms</b> Smith.",
+    "vi": "Thư gửi <b>Ms</b> Smith."
+   }
+  },
+  {
+   "word": "spokesperson",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈspəʊkspɜːsn/",
+   "def_en": "A person who speaks officially for an organisation (gender-neutral).",
+   "def_vi": "Người phát ngôn chính thức (trung tính giới).",
+   "gloss_vi": "người phát ngôn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spokesperson</i> (noun) = người phát ngôn. <b>Grammar</b>: thay <i>spokesman</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "A company <b>spokesperson</b> declined to comment.",
+    "vi": "Một <b>người phát ngôn</b> của công ty từ chối bình luận."
+   }
+  },
+  {
+   "word": "firefighter",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfaɪəfaɪtə(r)/",
+   "def_en": "A person whose job is to put out fires (gender-neutral).",
+   "def_vi": "Người dập lửa (trung tính giới).",
+   "gloss_vi": "lính cứu hỏa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Firefighter</i> (noun) = lính cứu hỏa. <b>Grammar</b>: thay <i>fireman</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Firefighters</b> put out the blaze.",
+    "vi": "Các <b>lính cứu hỏa</b> dập tắt đám cháy."
+   }
+  },
+  {
+   "word": "police officer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pəˈliːs ˌɒfɪsə(r)/",
+   "def_en": "A member of the police (gender-neutral).",
+   "def_vi": "Thành viên lực lượng cảnh sát (trung tính giới).",
+   "gloss_vi": "cảnh sát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Police officer</i> (noun) = cảnh sát. <b>Grammar</b>: thay <i>policeman</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "A <b>police officer</b> gave us directions.",
+    "vi": "Một <b>cảnh sát</b> chỉ đường cho chúng tôi."
+   }
+  },
+  {
+   "word": "flight attendant",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈflaɪt əˌtendənt/",
+   "def_en": "A person who looks after passengers on a plane (gender-neutral).",
+   "def_vi": "Người phục vụ hành khách trên máy bay (trung tính giới).",
+   "gloss_vi": "tiếp viên hàng không",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flight attendant</i> (noun) = tiếp viên hàng không. <b>Grammar</b>: thay <i>air hostess</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>flight attendant</b> served drinks.",
+    "vi": "<b>Tiếp viên hàng không</b> phục vụ đồ uống."
+   }
+  },
+  {
+   "word": "cleaner",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkliːnə(r)/",
+   "def_en": "A person whose job is cleaning (gender-neutral).",
+   "def_vi": "Người làm vệ sinh (trung tính giới).",
+   "gloss_vi": "người dọn dẹp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cleaner</i> (noun) = người dọn dẹp. <b>Grammar</b>: thay <i>cleaning lady</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>cleaner</b> comes twice a week.",
+    "vi": "<b>Người dọn dẹp</b> đến hai lần mỗi tuần."
+   }
+  },
+  {
+   "word": "artificial",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɑːtɪˈfɪʃl/",
+   "def_en": "Made by people, not natural (gender-neutral for man-made).",
+   "def_vi": "Do con người làm, không tự nhiên.",
+   "gloss_vi": "nhân tạo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "natural <i>(adj. tự nhiên)</i>",
+   "grammar_vi": "<i>Artificial</i> (adjective) = nhân tạo. <b>Grammar</b>: thay <i>man-made</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "It is an <b>artificial</b> lake.",
+    "vi": "Đó là hồ <b>nhân tạo</b>."
+   }
+  },
+  {
+   "word": "the human race",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ðə ˌhjuːmən ˈreɪs/",
+   "def_en": "All people (gender-neutral for mankind).",
+   "def_vi": "Tất cả con người (thay mankind).",
+   "gloss_vi": "loài người",
+   "synonyms": "human beings <i>(n. loài người)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The human race</i> (noun) = loài người. <b>Grammar</b>: thay <i>mankind</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Climate change threatens <b>the human race</b>.",
+    "vi": "Biến đổi khí hậu đe dọa <b>loài người</b>."
+   }
+  },
+  {
+   "word": "staff",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/stɑːf/",
+   "def_en": "To provide workers for a machine or place of work (gender-neutral for to man).",
+   "def_vi": "Bố trí người làm (thay to man).",
+   "gloss_vi": "bố trí nhân sự",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Staff</i> (verb) = bố trí nhân sự. <b>Grammar</b>: thay <i>to man</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The reception desk is <b>staffed</b> 24 hours a day.",
+    "vi": "Quầy lễ tân được <b>bố trí người trực</b> 24 giờ."
+   }
+  },
+  {
+   "word": "masculine",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈmæskjəlɪn/",
+   "def_en": "Having qualities traditionally felt to be typically male.",
+   "def_vi": "Có phẩm chất truyền thống của nam.",
+   "gloss_vi": "nam tính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "feminine <i>(adj. nữ tính)</i>",
+   "grammar_vi": "<i>Masculine</i> (adjective) = nam tính. <b>Grammar</b>: khác <i>male</i> (sinh học).",
+   "example": {
+    "en": "<b>masculine</b> pride",
+    "vi": "Lòng tự trọng <b>nam tính</b>."
+   }
+  },
+  {
+   "word": "feminine",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈfemənɪn/",
+   "def_en": "Having qualities traditionally felt to be typically female.",
+   "def_vi": "Có phẩm chất truyền thống của nữ.",
+   "gloss_vi": "nữ tính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "masculine <i>(adj. nam tính)</i>",
+   "grammar_vi": "<i>Feminine</i> (adjective) = nữ tính. <b>Grammar</b>: khác <i>female</i> (sinh học).",
+   "example": {
+    "en": "<b>feminine</b> charm",
+    "vi": "Sự duyên dáng <b>nữ tính</b>."
+   }
+  },
+  {
+   "word": "you guys",
+   "sense": "",
+   "pos": "pronoun",
+   "ipa": "/ˈjuː ɡaɪz/",
+   "def_en": "An informal way of addressing men and women directly.",
+   "def_vi": "Cách gọi thân mật cả nam lẫn nữ.",
+   "gloss_vi": "các bạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>You guys</i> (pronoun) = các bạn. <b>Grammar</b>: <i>guys</i> dùng cho cả nam và nữ.",
+   "example": {
+    "en": "Do any of you <b>guys</b> fancy going out for a pizza tonight?",
+    "vi": "<b>Các bạn</b> có ai muốn đi ăn pizza tối nay không?"
+   }
+  },
+  {
+   "word": "girlfriend",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡɜːlfrend/",
+   "def_en": "(Used by women) a female friend.",
+   "def_vi": "(Phụ nữ dùng) bạn nữ.",
+   "gloss_vi": "bạn gái (bạn bè)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Girlfriend</i> (noun) = bạn gái (bạn bè). <b>Grammar</b>: nghĩa bạn bè khi phụ nữ dùng.",
+   "example": {
+    "en": "I’m meeting up with a few <b>girlfriends</b> this evening.",
+    "vi": "Tối nay tôi gặp vài <b>bạn gái</b>."
+   }
+  },
+  {
+   "word": "girlie",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɡɜːli/",
+   "def_en": "Describing things that girls and young women often enjoy without men.",
+   "def_vi": "Chỉ điều con gái thích làm không có nam.",
+   "gloss_vi": "kiểu con gái",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Girlie</i> (adjective) = kiểu con gái. <b>Grammar</b>: cũng viết <i>girly</i>.",
+   "example": {
+    "en": "They’re having a <b>girlie</b> evening at home.",
+    "vi": "Họ có một buổi tối <b>kiểu con gái</b> ở nhà."
+   }
+  },
+  {
+   "word": "lad",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/læd/",
+   "def_en": "A boy or young man (informal).",
+   "def_vi": "Cậu bé, chàng trai (thân mật).",
+   "gloss_vi": "chàng trai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lad</i> (noun) = chàng trai. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "He’s having a night out with some of the <b>lads</b> tonight.",
+    "vi": "Tối nay anh ấy đi chơi với <b>đám bạn trai</b>."
+   }
+  },
+  {
+   "word": "laddish",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈlædɪʃ/",
+   "def_en": "Describing unpleasant behaviour thought typical of young men in a group, especially drinking.",
+   "def_vi": "Hành vi khó chịu của đám con trai, nhất là uống rượu.",
+   "gloss_vi": "kiểu đám con trai quậy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Laddish</i> (adjective) = kiểu đám con trai quậy. <b>Grammar</b>: <i>lad</i> + <i>-ish</i>; tiêu cực.",
+   "example": {
+    "en": "I can’t stand that kind of <b>laddish</b> behaviour!",
+    "vi": "Tôi không chịu nổi kiểu hành vi <b>quậy phá</b> đó!"
+   }
+  },
+  {
+   "word": "macho",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈmætʃəʊ/",
+   "def_en": "Describing a man who likes to appear strong and doesn’t show his feelings.",
+   "def_vi": "Đàn ông thích tỏ ra mạnh mẽ, không lộ cảm xúc.",
+   "gloss_vi": "nam nhi cứng rắn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Macho</i> (adjective) = nam nhi cứng rắn. <b>Grammar</b>: gốc tiếng Tây Ban Nha.",
+   "example": {
+    "en": "He refuses to cry – it would spoil his <b>macho</b> image!",
+    "vi": "Anh ta không chịu khóc – sẽ hỏng hình ảnh <b>nam nhi</b> mất!"
+   }
+  }
+ ]
+}

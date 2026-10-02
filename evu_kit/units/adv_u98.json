@@ -1,0 +1,440 @@
+{
+ "book": "adv",
+ "unit": 98,
+ "title_vi": "Bị chia cắt bởi một ngôn ngữ chung",
+ "theory_html": "<p><b>A. Streets and roads</b><br><i>A. Phố và đường</i></p> <p>US <b>street</b> is wider in meaning (<b>cross the street</b>; UK <b>cross the road</b>). US → UK: <b>kitty-corner</b> (diagonally opposite), <b>gas station</b> (petrol station), <b>crosswalk</b> (pedestrian/zebra crossing), <b>trail</b> (path), <b>creek</b> (stream), <b>take a left</b> (turn left), <b>Interstate</b> (major motorway), <b>intersection</b> (junction), <b>cart</b> (trolley), <b>parking lot</b> (car park), <b>back up</b> (reverse), <b>overpass</b> (flyover). Language help: UK road numbers use <b>the</b> (the M4), US no article (I-45).</p><p><i>Mỹ → Anh: <b>chéo góc, trạm xăng, vạch qua đường, lối mòn, con lạch, rẽ trái, cao tốc liên bang, giao lộ, xe đẩy, bãi đỗ xe, lùi xe, cầu vượt</b>.</i></p> <p><b>B. Educational terminology</b><br><i>B. Thuật ngữ giáo dục</i></p> <p>US → UK: <b>college</b> → <b>university</b>; <b>courses</b> → <b>modules</b>; <b>freshman</b> → <b>fresher / first year</b>; <b>sophomore</b> → <b>second year</b>; <b>junior</b> → <b>third year</b>; <b>major in</b> → <b>do honours in</b>; <b>professor</b> (general) → <b>lecturer</b>; <b>elementary</b> → <b>primary</b>; <b>high school</b> → <b>secondary school</b>.</p><p><i><b>đại học, học phần, sinh viên năm nhất, năm hai, năm ba, học chuyên ngành, giảng viên, tiểu học, trung học</b>.</i></p> <p><b>C. Around the home</b><br><i>C. Trong nhà</i></p> <p>US / UK: <b>ground / earth, dumpster / skip, faucet / tap, stove / cooker, skillet / frying pan</b>.</p><p><i><b>dây tiếp đất, thùng rác lớn, vòi nước, bếp nấu, chảo rán</b>.</i></p>",
+ "items": [
+  {
+   "word": "kitty-corner",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈkɪti ˌkɔːnə(r)/",
+   "def_en": "Diagonally opposite (US, informal).",
+   "def_vi": "Chéo góc đối diện (Mỹ, thân mật).",
+   "gloss_vi": "chéo góc",
+   "synonyms": "diagonally opposite <i>(adv. chéo đối diện)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Kitty-corner</i> (adverb) = chéo góc. <b>Grammar</b>: Mỹ, thân mật.",
+   "example": {
+    "en": "the car rental office is <b>kitty-corner</b> to the gas station",
+    "vi": "Văn phòng thuê xe nằm <b>chéo góc</b> với trạm xăng."
+   }
+  },
+  {
+   "word": "gas station",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡæs ˌsteɪʃn/",
+   "def_en": "A petrol station (US).",
+   "def_vi": "Trạm xăng (Mỹ).",
+   "gloss_vi": "trạm xăng",
+   "synonyms": "petrol station <i>(n. trạm xăng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gas station</i> (noun) = trạm xăng. <b>Grammar</b>: Mỹ; Anh <i>petrol station</i>.",
+   "example": {
+    "en": "the car rental office is kitty-corner to the <b>gas station</b>",
+    "vi": "Văn phòng thuê xe nằm chéo góc với <b>trạm xăng</b>."
+   }
+  },
+  {
+   "word": "crosswalk",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkrɒswɔːk/",
+   "def_en": "A pedestrian/zebra crossing (US).",
+   "def_vi": "Vạch qua đường (Mỹ).",
+   "gloss_vi": "vạch sang đường",
+   "synonyms": "zebra crossing <i>(n. vạch qua đường)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Crosswalk</i> (noun) = vạch sang đường. <b>Grammar</b>: Mỹ; Anh <i>pedestrian/zebra crossing</i>.",
+   "example": {
+    "en": "You should always use the <b>crosswalk</b> to cross the street.",
+    "vi": "Bạn nên luôn dùng <b>vạch sang đường</b> khi qua đường."
+   }
+  },
+  {
+   "word": "trail",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/treɪl/",
+   "def_en": "A path (US).",
+   "def_vi": "Lối đi (Mỹ).",
+   "gloss_vi": "lối mòn",
+   "synonyms": "path <i>(n. lối đi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trail</i> (noun) = lối mòn. <b>Grammar</b>: Mỹ; Anh <i>path</i>.",
+   "example": {
+    "en": "There’s a <b>trail</b> that leads down to the creek.",
+    "vi": "Có một <b>lối mòn</b> dẫn xuống con lạch."
+   }
+  },
+  {
+   "word": "creek",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kriːk/",
+   "def_en": "A stream, small river (US).",
+   "def_vi": "Suối, sông nhỏ (Mỹ).",
+   "gloss_vi": "con lạch",
+   "synonyms": "stream <i>(n. suối)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Creek</i> (noun) = con lạch. <b>Grammar</b>: Mỹ; Anh <i>stream</i>.",
+   "example": {
+    "en": "There’s a trail that leads down to the <b>creek</b>.",
+    "vi": "Có lối mòn dẫn xuống <b>con lạch</b>."
+   }
+  },
+  {
+   "word": "take a left",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ə ˈleft/",
+   "def_en": "To turn left (US).",
+   "def_vi": "Rẽ trái (Mỹ).",
+   "gloss_vi": "rẽ trái",
+   "synonyms": "turn left <i>(v. rẽ trái)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take a left</i> (verb) = rẽ trái. <b>Grammar</b>: Mỹ; Anh <i>turn left</i>.",
+   "example": {
+    "en": "<b>Take a left</b> here and you’ll come to the Interstate after about three miles.",
+    "vi": "<b>Rẽ trái</b> ở đây và bạn sẽ đến cao tốc liên bang."
+   }
+  },
+  {
+   "word": "Interstate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɪntəsteɪt/",
+   "def_en": "A major motorway in the US connecting different states.",
+   "def_vi": "Đường cao tốc lớn ở Mỹ nối các bang.",
+   "gloss_vi": "cao tốc liên bang",
+   "synonyms": "motorway <i>(n. đường cao tốc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Interstate</i> (noun) = cao tốc liên bang. <b>Grammar</b>: Mỹ; số đường không có <i>the</i> (<i>I-45</i>).",
+   "example": {
+    "en": "you’ll come to the <b>Interstate</b> after about three miles",
+    "vi": "Rẽ trái ở đây và bạn sẽ đến <b>cao tốc liên bang</b>."
+   }
+  },
+  {
+   "word": "intersection",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɪntəˈsekʃn/",
+   "def_en": "A junction (US).",
+   "def_vi": "Giao lộ (Mỹ).",
+   "gloss_vi": "giao lộ",
+   "synonyms": "junction <i>(n. ngã ba/tư)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Intersection</i> (noun) = giao lộ. <b>Grammar</b>: Mỹ; Anh <i>junction</i>.",
+   "example": {
+    "en": "After the <b>intersection</b>, look for a sign saying ‘International Airport’.",
+    "vi": "Qua <b>giao lộ</b>, tìm biển ‘Sân bay quốc tế’."
+   }
+  },
+  {
+   "word": "cart",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kɑːt/",
+   "def_en": "A shopping trolley (US).",
+   "def_vi": "Xe đẩy mua hàng (Mỹ).",
+   "gloss_vi": "xe đẩy",
+   "synonyms": "trolley <i>(n. xe đẩy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cart</i> (noun) = xe đẩy. <b>Grammar</b>: Mỹ; Anh <i>trolley</i>.",
+   "example": {
+    "en": "I hit a shopping <b>cart</b> in the parking lot when I was backing up.",
+    "vi": "Tôi va phải một <b>xe đẩy</b> ở bãi đỗ khi lùi xe."
+   }
+  },
+  {
+   "word": "parking lot",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɑːkɪŋ lɒt/",
+   "def_en": "A car park (US).",
+   "def_vi": "Bãi đỗ xe (Mỹ).",
+   "gloss_vi": "bãi đỗ xe",
+   "synonyms": "car park <i>(n. bãi đỗ xe)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Parking lot</i> (noun) = bãi đỗ xe. <b>Grammar</b>: Mỹ; Anh <i>car park</i>.",
+   "example": {
+    "en": "I hit a shopping cart in the <b>parking lot</b> when I was backing up.",
+    "vi": "Tôi va phải xe đẩy ở <b>bãi đỗ xe</b> khi lùi."
+   }
+  },
+  {
+   "word": "back up",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌbæk ˈʌp/",
+   "def_en": "To reverse (a car) (US).",
+   "def_vi": "Lùi xe (Mỹ).",
+   "gloss_vi": "lùi xe",
+   "synonyms": "reverse <i>(v. lùi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Back up</i> (verb) = lùi xe. <b>Grammar</b>: Mỹ; Anh <i>reverse</i>.",
+   "example": {
+    "en": "I hit a shopping cart in the parking lot when I was <b>backing up</b>.",
+    "vi": "Tôi va phải xe đẩy khi đang <b>lùi xe</b>."
+   }
+  },
+  {
+   "word": "overpass",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈəʊvəpɑːs/",
+   "def_en": "A flyover, i.e. a bridge that carries one road over another (US).",
+   "def_vi": "Cầu vượt (Mỹ).",
+   "gloss_vi": "cầu vượt",
+   "synonyms": "flyover <i>(n. cầu vượt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Overpass</i> (noun) = cầu vượt. <b>Grammar</b>: Mỹ; Anh <i>flyover</i>.",
+   "example": {
+    "en": "Look for the <b>overpass</b> and then take the next exit for downtown Chicago.",
+    "vi": "Tìm <b>cầu vượt</b> rồi ra lối kế tiếp vào trung tâm Chicago."
+   }
+  },
+  {
+   "word": "college",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɒlɪdʒ/",
+   "def_en": "University (US); in Britain usually a place for specialised education for people over 16.",
+   "def_vi": "Đại học (Mỹ); ở Anh thường là trường chuyên trên 16 tuổi.",
+   "gloss_vi": "đại học (Mỹ)",
+   "synonyms": "university <i>(n. đại học)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>College</i> (noun) = đại học (Mỹ). <b>Grammar</b>: Mỹ = đại học; Anh = cao đẳng/trường nghề.",
+   "example": {
+    "en": "My older brother never went to <b>college</b>.",
+    "vi": "Anh trai tôi chưa bao giờ học <b>đại học</b>."
+   }
+  },
+  {
+   "word": "freshman",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfreʃmən/",
+   "def_en": "A first-year student (US).",
+   "def_vi": "Sinh viên năm nhất (Mỹ).",
+   "gloss_vi": "sinh viên năm nhất",
+   "synonyms": "fresher <i>(n. sinh viên năm nhất)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Freshman</i> (noun) = sinh viên năm nhất. <b>Grammar</b>: Mỹ; Anh <i>fresher / first year</i>.",
+   "example": {
+    "en": "Are you a <b>freshman</b>?",
+    "vi": "Bạn là <b>sinh viên năm nhất</b> à?"
+   }
+  },
+  {
+   "word": "sophomore",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɒfəmɔː(r)/",
+   "def_en": "A second-year student (US).",
+   "def_vi": "Sinh viên năm hai (Mỹ).",
+   "gloss_vi": "sinh viên năm hai",
+   "synonyms": "second year <i>(n. năm hai)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sophomore</i> (noun) = sinh viên năm hai. <b>Grammar</b>: Mỹ; Anh <i>second year</i>.",
+   "example": {
+    "en": "No, I’m a <b>sophomore</b>.",
+    "vi": "Không, tôi là <b>sinh viên năm hai</b>."
+   }
+  },
+  {
+   "word": "junior",
+   "sense": "third-year student",
+   "pos": "noun",
+   "ipa": "/ˈdʒuːniə(r)/",
+   "def_en": "A third-year student (US).",
+   "def_vi": "Sinh viên năm ba (Mỹ).",
+   "gloss_vi": "sinh viên năm ba",
+   "synonyms": "third year <i>(n. năm ba)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Junior</i> (noun) = sinh viên năm ba. <b>Grammar</b>: Mỹ; Anh <i>third year</i>.",
+   "example": {
+    "en": "Most of my friends are <b>juniors</b>.",
+    "vi": "Phần lớn bạn tôi là <b>sinh viên năm ba</b>."
+   }
+  },
+  {
+   "word": "major in",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈmeɪdʒər ɪn/",
+   "def_en": "To study as your main subject at university (US).",
+   "def_vi": "Học chuyên ngành chính (Mỹ).",
+   "gloss_vi": "học chuyên ngành",
+   "synonyms": "do honours in <i>(v. học chuyên sâu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Major in</i> (verb) = học chuyên ngành. <b>Grammar</b>: Mỹ; Anh <i>do honours in</i>.",
+   "example": {
+    "en": "She’s <b>majoring</b> in French.",
+    "vi": "Cô ấy <b>học chuyên ngành</b> tiếng Pháp."
+   }
+  },
+  {
+   "word": "honours degree",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɒnəz dɪˌɡriː/",
+   "def_en": "A university degree of a higher standard (UK).",
+   "def_vi": "Bằng đại học loại chuyên sâu (Anh).",
+   "gloss_vi": "bằng cử nhân danh dự",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Honours degree</i> (noun) = bằng cử nhân danh dự. <b>Grammar</b>: Anh; Mỹ <i>major in</i>.",
+   "example": {
+    "en": "She’s doing a French <b>honours</b> degree.",
+    "vi": "Cô ấy đang học <b>bằng cử nhân</b> tiếng Pháp."
+   }
+  },
+  {
+   "word": "professor",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/prəˈfesə(r)/",
+   "def_en": "(US) a general term for university teachers; (UK) a person with the highest academic rank.",
+   "def_vi": "(Mỹ) giảng viên đại học nói chung; (Anh) người có học hàm cao nhất.",
+   "gloss_vi": "giáo sư; giảng viên (Mỹ)",
+   "synonyms": "lecturer <i>(n. giảng viên)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Professor</i> (noun) = giáo sư; giảng viên (Mỹ). <b>Grammar</b>: nghĩa khác nhau Anh–Mỹ.",
+   "example": {
+    "en": "My <b>professors</b> are all very friendly.",
+    "vi": "Các <b>giảng viên</b> của tôi đều rất thân thiện."
+   }
+  },
+  {
+   "word": "lecturer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlektʃərə(r)/",
+   "def_en": "A general term for university teachers (UK).",
+   "def_vi": "Giảng viên đại học nói chung (Anh).",
+   "gloss_vi": "giảng viên",
+   "synonyms": "professor <i>(n. giảng viên (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lecturer</i> (noun) = giảng viên. <b>Grammar</b>: Anh.",
+   "example": {
+    "en": "My <b>lecturers</b> are all very friendly.",
+    "vi": "Các <b>giảng viên</b> của tôi đều rất thân thiện."
+   }
+  },
+  {
+   "word": "elementary school",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌelɪˈmentri skuːl/",
+   "def_en": "A primary school (US).",
+   "def_vi": "Trường tiểu học (Mỹ).",
+   "gloss_vi": "trường tiểu học",
+   "synonyms": "primary school <i>(n. trường tiểu học)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Elementary school</i> (noun) = trường tiểu học. <b>Grammar</b>: Mỹ; Anh <i>primary school</i>.",
+   "example": {
+    "en": "I want to be an <b>elementary school</b> teacher.",
+    "vi": "Tôi muốn làm giáo viên <b>trường tiểu học</b>."
+   }
+  },
+  {
+   "word": "high school",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhaɪ skuːl/",
+   "def_en": "A secondary school (US).",
+   "def_vi": "Trường trung học (Mỹ).",
+   "gloss_vi": "trường trung học",
+   "synonyms": "secondary school <i>(n. trường trung học)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>High school</i> (noun) = trường trung học. <b>Grammar</b>: Mỹ; Anh <i>secondary school</i>.",
+   "example": {
+    "en": "My years in <b>high school</b> were not very happy.",
+    "vi": "Những năm ở <b>trường trung học</b> không vui lắm."
+   }
+  },
+  {
+   "word": "earth",
+   "sense": "electrical cable",
+   "pos": "noun",
+   "ipa": "/ɜːθ/",
+   "def_en": "A cable that takes electricity safely into the ground (UK; US ground).",
+   "def_vi": "Dây tiếp đất (Anh; Mỹ ground).",
+   "gloss_vi": "dây tiếp đất",
+   "synonyms": "ground <i>(n. dây tiếp đất (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Earth</i> (noun) = dây tiếp đất. <b>Grammar</b>: Anh; Mỹ <i>ground</i>.",
+   "example": {
+    "en": "This cable is the ground (US) / <b>earth</b> (UK).",
+    "vi": "Dây này là <b>dây tiếp đất</b>."
+   }
+  },
+  {
+   "word": "skip",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/skɪp/",
+   "def_en": "A large metal container for rubbish (UK; US dumpster).",
+   "def_vi": "Thùng kim loại lớn đựng rác (Anh; Mỹ dumpster).",
+   "gloss_vi": "thùng rác lớn",
+   "synonyms": "dumpster <i>(n. thùng rác lớn (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Skip</i> (noun) = thùng rác lớn. <b>Grammar</b>: Anh; Mỹ <i>dumpster</i>.",
+   "example": {
+    "en": "We need a dumpster (US) / <b>skip</b> (UK) to put all this old stuff in.",
+    "vi": "Ta cần một <b>thùng rác lớn</b> để bỏ đồ cũ."
+   }
+  },
+  {
+   "word": "faucet",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfɔːsɪt/",
+   "def_en": "A tap (US).",
+   "def_vi": "Vòi nước (Mỹ).",
+   "gloss_vi": "vòi nước",
+   "synonyms": "tap <i>(n. vòi nước)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Faucet</i> (noun) = vòi nước. <b>Grammar</b>: Mỹ; Anh <i>tap</i>.",
+   "example": {
+    "en": "The <b>faucet</b> (US) / tap (UK) in the kitchen never stops dripping!",
+    "vi": "<b>Vòi nước</b> trong bếp cứ nhỏ giọt mãi!"
+   }
+  },
+  {
+   "word": "cooker",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkʊkə(r)/",
+   "def_en": "A piece of kitchen equipment to cook food (UK; US stove).",
+   "def_vi": "Thiết bị nấu ăn (Anh; Mỹ stove).",
+   "gloss_vi": "bếp nấu",
+   "synonyms": "stove <i>(n. bếp (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cooker</i> (noun) = bếp nấu. <b>Grammar</b>: Anh; không phải người nấu (<i>cook</i>).",
+   "example": {
+    "en": "I have to cook for five people, so we need a big stove (US) / <b>cooker</b> (UK).",
+    "vi": "Tôi nấu cho năm người nên cần <b>bếp</b> to."
+   }
+  },
+  {
+   "word": "skillet",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈskɪlɪt/",
+   "def_en": "A frying pan (US).",
+   "def_vi": "Chảo rán (Mỹ).",
+   "gloss_vi": "chảo rán",
+   "synonyms": "frying pan <i>(n. chảo rán)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Skillet</i> (noun) = chảo rán. <b>Grammar</b>: Mỹ; Anh <i>frying pan</i>.",
+   "example": {
+    "en": "I fried the fish in a <b>skillet</b> (US) / frying pan (UK).",
+    "vi": "Tôi rán cá trong <b>chảo</b>."
+   }
+  }
+ ]
+}
