@@ -1,0 +1,456 @@
+{
+ "book": "adv",
+ "unit": 9,
+ "title_vi": "Miêu tả người: ngoại hình và cử chỉ",
+ "theory_html": "<p><b>A. Adjectives connected with size, weight and general appearance</b><br><i>A. Tính từ về vóc dáng và ngoại hình</i></p> <p><b>slender</b> [thin in an attractive way], <b>scrawny</b> [unattractively thin and bony-looking], <b>lanky</b> [very tall and thin, moving awkwardly], <b>gangling/gangly</b> [tall with long thin arms and legs; often of men and boys], <b>obese</b> [very fat, in an unhealthy way], <b>stout</b> [with a quite large, solid body], <b>stocky</b> [short and wide across the shoulders and chest].</p><p><i><b>mảnh mai, gầy giơ xương, cao lêu nghêu, lóng ngóng, béo phì, đẫy đà, thấp đậm</b>.</i></p> <p><b>B. Aspects of appearance and complexion</b><br><i>B. Ngoại hình và nước da</i></p> <p><b>bulk up, lean, wiry, unkempt, never a hair out of place, immaculate, swarthy, sallow, haggard</b>.</p><p><i><b>to con lên, gọn gàng khỏe mạnh, gầy mà rắn chắc, luộm thuộm, chỉn chu, tinh tươm, ngăm đen, vàng vọt, hốc hác</b>.</i></p> <p><b>C. Facial expression</b><br><i>C. Nét mặt</i></p> <p><b>grin, pout, grimace, scowl, leer</b>.</p><p><i><b>cười toe, bĩu môi/chu môi, nhăn mặt, cau có, nhìn đểu</b>.</i></p> <p><b>D. Mannerisms and actions</b><br><i>D. Cử chỉ và hành động</i></p> <p><b>shrug your shoulders, fold your arms, cross your legs, twitch, bite your nails, clench your fist, tap/drum your fingers</b>.</p><p><i><b>nhún vai, khoanh tay, bắt chéo chân, giật giật, cắn móng tay, nắm chặt tay, gõ ngón tay</b>.</i></p>",
+ "items": [
+  {
+   "word": "slender",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈslendə(r)/",
+   "def_en": "Thin in an attractive way.",
+   "def_vi": "Gầy một cách hấp dẫn.",
+   "gloss_vi": "mảnh mai",
+   "synonyms": "slim <i>(adj. thon thả)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Slender</i> (adjective) = mảnh mai. <b>Grammar</b>: tích cực.",
+   "example": {
+    "en": "She introduced me to a tall, <b>slender</b> woman who looked very serious.",
+    "vi": "Cô ấy giới thiệu tôi với một phụ nữ cao, <b>mảnh mai</b>."
+   }
+  },
+  {
+   "word": "scrawny",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈskrɔːni/",
+   "def_en": "Unattractively thin and bony-looking.",
+   "def_vi": "Gầy giơ xương, kém hấp dẫn.",
+   "gloss_vi": "gầy nhom",
+   "synonyms": "skinny <i>(adj. gầy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Scrawny</i> (adjective) = gầy nhom. <b>Grammar</b>: tiêu cực.",
+   "example": {
+    "en": "He was too <b>scrawny</b> to be a football player.",
+    "vi": "Anh ta quá <b>gầy nhom</b> để làm cầu thủ bóng đá."
+   }
+  },
+  {
+   "word": "lanky",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈlæŋki/",
+   "def_en": "Very tall and thin, usually moving awkwardly.",
+   "def_vi": "Rất cao gầy, cử động vụng về.",
+   "gloss_vi": "cao lêu nghêu",
+   "synonyms": "gangly <i>(adj. lóng ngóng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lanky</i> (adjective) = cao lêu nghêu. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "A <b>lanky</b> teenager walked in.",
+    "vi": "Một thiếu niên <b>cao lêu nghêu</b> bước vào."
+   }
+  },
+  {
+   "word": "gangling",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɡæŋɡlɪŋ/",
+   "def_en": "Tall, with long thin arms and legs and awkward movements.",
+   "def_vi": "Cao, tay chân dài gầy, cử động vụng.",
+   "gloss_vi": "lóng ngóng, lêu khêu",
+   "synonyms": "gangly <i>(adj. lêu khêu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gangling</i> (adjective) = lóng ngóng, lêu khêu. <b>Grammar</b>: cũng <i>gangly</i>; thường dùng cho nam.",
+   "example": {
+    "en": "A <b>gangling</b> youth approached him.",
+    "vi": "Một thanh niên <b>lêu khêu</b> tiến lại gần."
+   }
+  },
+  {
+   "word": "obese",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əʊˈbiːs/",
+   "def_en": "Very fat, in an unhealthy way.",
+   "def_vi": "Rất béo, không khỏe mạnh.",
+   "gloss_vi": "béo phì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Obese</i> (adjective) = béo phì. <b>Grammar</b>: <i>obesity</i> (n.).",
+   "example": {
+    "en": "An increasing number of children are <b>obese</b>.",
+    "vi": "Ngày càng nhiều trẻ em bị <b>béo phì</b>."
+   }
+  },
+  {
+   "word": "stout",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/staʊt/",
+   "def_en": "With a quite large, solid body.",
+   "def_vi": "Thân hình khá to, chắc.",
+   "gloss_vi": "đẫy đà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stout</i> (adjective) = đẫy đà. <b>Grammar</b>: dùng cho cả nam và nữ.",
+   "example": {
+    "en": "She’s the rather <b>stout</b> woman wearing glasses over there.",
+    "vi": "Đó là người phụ nữ khá <b>đẫy đà</b> đeo kính."
+   }
+  },
+  {
+   "word": "stocky",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈstɒki/",
+   "def_en": "Short and with a body that is wide across the shoulders and chest.",
+   "def_vi": "Thấp, vai và ngực rộng.",
+   "gloss_vi": "thấp đậm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stocky</i> (adjective) = thấp đậm. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "My grandfather was a <b>stocky</b> man with big hands and broad shoulders.",
+    "vi": "Ông tôi là người <b>thấp đậm</b>, tay to, vai rộng."
+   }
+  },
+  {
+   "word": "bulk up",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌbʌlk ˈʌp/",
+   "def_en": "To increase in body size, especially by gaining more muscle.",
+   "def_vi": "Tăng kích thước cơ thể, nhất là cơ bắp.",
+   "gloss_vi": "to con lên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bulk up</i> (verb) = to con lên. <b>Grammar</b>: động từ nhiều từ <i>bulk up</i>.",
+   "example": {
+    "en": "He’s really <b>bulked up</b>.",
+    "vi": "Anh ấy thật sự đã <b>to con lên</b>."
+   }
+  },
+  {
+   "word": "lean",
+   "sense": "thin",
+   "pos": "adjective",
+   "ipa": "/liːn/",
+   "def_en": "Thin and healthy.",
+   "def_vi": "Gầy mà khỏe mạnh.",
+   "gloss_vi": "thon gọn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lean</i> (adjective) = thon gọn. <b>Common mistakes</b>: cũng = nạc (thịt).",
+   "example": {
+    "en": "He used to be so <b>lean</b> and wiry.",
+    "vi": "Anh ấy từng rất <b>thon gọn</b>."
+   }
+  },
+  {
+   "word": "wiry",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈwaɪəri/",
+   "def_en": "Thin but strong.",
+   "def_vi": "Gầy nhưng rắn chắc.",
+   "gloss_vi": "gầy mà rắn chắc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wiry</i> (adjective) = gầy mà rắn chắc. <b>Grammar</b>: /ˈwaɪəri/.",
+   "example": {
+    "en": "He used to be so lean and <b>wiry</b>.",
+    "vi": "Anh ấy từng thon gọn và <b>rắn chắc</b>."
+   }
+  },
+  {
+   "word": "unkempt",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʌnˈkempt/",
+   "def_en": "Untidy, scruffy.",
+   "def_vi": "Bừa bộn, luộm thuộm.",
+   "gloss_vi": "luộm thuộm",
+   "synonyms": "scruffy <i>(adj. nhếch nhác)</i>",
+   "antonyms": "smart <i>(adj. gọn gàng)</i>",
+   "grammar_vi": "<i>Unkempt</i> (adjective) = luộm thuộm. <b>Grammar</b>: không tồn tại <i>kempt</i>.",
+   "example": {
+    "en": "He still looks so <b>unkempt</b>.",
+    "vi": "Trông anh ấy vẫn <b>luộm thuộm</b>."
+   }
+  },
+  {
+   "word": "never a hair out of place",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌnevər ə ˌheər aʊt əv ˈpleɪs/",
+   "def_en": "Always well-dressed, neat and smart-looking.",
+   "def_vi": "Luôn ăn mặc chỉn chu, gọn gàng.",
+   "gloss_vi": "luôn chỉn chu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Never a hair out of place</i> (adjective) = luôn chỉn chu. <b>Grammar</b>: cụm cố định.",
+   "example": {
+    "en": "His sister was always the opposite – <b>never a hair out of place</b>.",
+    "vi": "Em gái anh ấy thì <b>luôn chỉn chu</b>."
+   }
+  },
+  {
+   "word": "immaculate",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪˈmækjələt/",
+   "def_en": "In perfect condition, smart.",
+   "def_vi": "Hoàn hảo, gọn gàng.",
+   "gloss_vi": "tinh tươm",
+   "synonyms": "spotless <i>(adj. sạch bong)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Immaculate</i> (adjective) = tinh tươm. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "<b>immaculate</b> clothes",
+    "vi": "Quần áo <b>tinh tươm</b>."
+   }
+  },
+  {
+   "word": "swarthy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈswɔːði/",
+   "def_en": "(Of skin) dark-coloured.",
+   "def_vi": "(Da) sẫm màu.",
+   "gloss_vi": "ngăm đen",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Swarthy</i> (adjective) = ngăm đen. <b>Collocations / chunks</b>: <i>a swarthy complexion</i>.",
+   "example": {
+    "en": "He has a rather <b>swarthy</b> complexion.",
+    "vi": "Anh ấy có nước da khá <b>ngăm đen</b>."
+   }
+  },
+  {
+   "word": "sallow",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsæləʊ/",
+   "def_en": "(Of skin) yellowish.",
+   "def_vi": "(Da) vàng vọt.",
+   "gloss_vi": "vàng vọt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sallow</i> (adjective) = vàng vọt. <b>Collocations / chunks</b>: <i>a sallow complexion</i>.",
+   "example": {
+    "en": "His sister’s was more <b>sallow</b>.",
+    "vi": "Da em gái anh ấy <b>vàng vọt</b> hơn."
+   }
+  },
+  {
+   "word": "haggard",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈhæɡəd/",
+   "def_en": "Looking ill and tired.",
+   "def_vi": "Trông ốm mệt.",
+   "gloss_vi": "hốc hác",
+   "synonyms": "gaunt <i>(adj. gầy gò)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Haggard</i> (adjective) = hốc hác. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "He looked a bit <b>haggard</b> and exhausted too.",
+    "vi": "Anh ấy trông hơi <b>hốc hác</b> và kiệt sức."
+   }
+  },
+  {
+   "word": "grin",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɡrɪn/",
+   "def_en": "To give a big smile.",
+   "def_vi": "Cười rộng miệng.",
+   "gloss_vi": "cười toe toét",
+   "synonyms": "beam <i>(v. cười rạng rỡ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Grin</i> (verb) = cười toe toét. <b>Grammar</b>: <i>grin at sb</i>; grinned.",
+   "example": {
+    "en": "What are you <b>grinning</b> at?",
+    "vi": "Bạn đang <b>cười toe toét</b> gì thế?"
+   }
+  },
+  {
+   "word": "pout",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/paʊt/",
+   "def_en": "To push your lips forward in an attractive way or to show annoyance.",
+   "def_vi": "Chu môi để quyến rũ hoặc tỏ ý bực.",
+   "gloss_vi": "chu môi, bĩu môi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pout</i> (verb) = chu môi, bĩu môi. <b>Grammar</b>: cũng = bĩu môi dỗi.",
+   "example": {
+    "en": "Look at those models <b>pouting</b> for the photographers!",
+    "vi": "Nhìn các người mẫu <b>chu môi</b> cho nhiếp ảnh gia kìa!"
+   }
+  },
+  {
+   "word": "grimace",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈɡrɪməs/",
+   "def_en": "To make an expression of pain or strong dislike.",
+   "def_vi": "Nhăn mặt vì đau hay ghét.",
+   "gloss_vi": "nhăn mặt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Grimace</i> (verb) = nhăn mặt. <b>Grammar</b>: cũng danh từ.",
+   "example": {
+    "en": "You don’t have to <b>grimace</b> every time I eat raw garlic.",
+    "vi": "Bạn đâu cần <b>nhăn mặt</b> mỗi lần tôi ăn tỏi sống."
+   }
+  },
+  {
+   "word": "scowl",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/skaʊl/",
+   "def_en": "To give a bad-tempered, angry look.",
+   "def_vi": "Nhìn cau có, giận dữ.",
+   "gloss_vi": "cau có",
+   "synonyms": "glower <i>(v. trừng mắt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Scowl</i> (verb) = cau có. <b>Grammar</b>: <i>scowl at sb</i>.",
+   "example": {
+    "en": "I arrived late and she just <b>scowled</b> at me.",
+    "vi": "Tôi đến muộn và cô ấy chỉ <b>cau có</b> nhìn tôi."
+   }
+  },
+  {
+   "word": "leer",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/lɪə(r)/",
+   "def_en": "To look at someone in an unpleasant, sexually interested way.",
+   "def_vi": "Nhìn đểu, đầy dục vọng.",
+   "gloss_vi": "nhìn đểu",
+   "synonyms": "ogle <i>(v. nhìn chòng chọc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Leer</i> (verb) = nhìn đểu. <b>Grammar</b>: <i>leer at sb</i>.",
+   "example": {
+    "en": "He was <b>leering</b> at us.",
+    "vi": "Hắn cứ <b>nhìn đểu</b> chúng tôi."
+   }
+  },
+  {
+   "word": "shrug your shoulders",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌʃrʌɡ jɔː ˈʃəʊldəz/",
+   "def_en": "To lift your shoulders up and down to show you don’t know.",
+   "def_vi": "Nhún vai tỏ ý không biết.",
+   "gloss_vi": "nhún vai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shrug your shoulders</i> (verb) = nhún vai. <b>Grammar</b>: tính từ sở hữu đổi theo chủ ngữ.",
+   "example": {
+    "en": "I asked him for advice but he just <b>shrugged his shoulders</b>.",
+    "vi": "Tôi hỏi lời khuyên nhưng anh ấy chỉ <b>nhún vai</b>."
+   }
+  },
+  {
+   "word": "fold your arms",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌfəʊld jɔːr ˈɑːmz/",
+   "def_en": "To cross one arm over the other close to your body.",
+   "def_vi": "Khoanh tay trước người.",
+   "gloss_vi": "khoanh tay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fold your arms</i> (verb) = khoanh tay. <b>Grammar</b>: động từ nhiều từ <i>fold your arms</i>.",
+   "example": {
+    "en": "He <b>folded his arms</b> and crossed his legs and waited for me to speak.",
+    "vi": "Anh ấy <b>khoanh tay</b> và chờ tôi nói."
+   }
+  },
+  {
+   "word": "cross your legs",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkrɒs jɔː ˈleɡz/",
+   "def_en": "To put one leg over the other while sitting.",
+   "def_vi": "Bắt chéo chân khi ngồi.",
+   "gloss_vi": "bắt chéo chân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cross your legs</i> (verb) = bắt chéo chân. <b>Grammar</b>: động từ nhiều từ <i>cross your legs</i>.",
+   "example": {
+    "en": "He folded his arms and <b>crossed his legs</b> and waited for me to speak.",
+    "vi": "Anh ấy khoanh tay, <b>bắt chéo chân</b> và chờ."
+   }
+  },
+  {
+   "word": "twitch",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/twɪtʃ/",
+   "def_en": "To suddenly make small movements.",
+   "def_vi": "Đột ngột cử động nhỏ.",
+   "gloss_vi": "giật giật, bồn chồn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Twitch</i> (verb) = giật giật, bồn chồn. <b>Grammar</b>: cũng danh từ <i>a nervous twitch</i>.",
+   "example": {
+    "en": "He sat there <b>twitching</b> nervously as he waited for his interview.",
+    "vi": "Anh ấy ngồi <b>bồn chồn</b> chờ phỏng vấn."
+   }
+  },
+  {
+   "word": "bite your nails",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌbaɪt jɔː ˈneɪlz/",
+   "def_en": "To bite the ends of your fingernails, often from nerves.",
+   "def_vi": "Cắn móng tay, thường do lo.",
+   "gloss_vi": "cắn móng tay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bite your nails</i> (verb) = cắn móng tay. <b>Grammar</b>: <i>bite</i> bất quy tắc: bit, bitten.",
+   "example": {
+    "en": "She <b>bites her nails</b> all the time.",
+    "vi": "Cô ấy <b>cắn móng tay</b> suốt."
+   }
+  },
+  {
+   "word": "clench your fist",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌklentʃ jɔː ˈfɪst/",
+   "def_en": "To close your hand tightly because of anger.",
+   "def_vi": "Nắm chặt tay vì giận.",
+   "gloss_vi": "nắm chặt tay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Clench your fist</i> (verb) = nắm chặt tay. <b>Grammar</b>: động từ nhiều từ <i>clench your fist</i>.",
+   "example": {
+    "en": "She <b>clenched her fist</b> and told him to get out of the room at once.",
+    "vi": "Cô ấy <b>nắm chặt tay</b> và bảo anh ra khỏi phòng."
+   }
+  },
+  {
+   "word": "drum your fingers",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌdrʌm jɔː ˈfɪŋɡəz/",
+   "def_en": "To make quick, light hitting movements with your fingers, impatiently.",
+   "def_vi": "Gõ ngón tay liên tục, sốt ruột.",
+   "gloss_vi": "gõ ngón tay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Drum your fingers</i> (verb) = gõ ngón tay. <b>Grammar</b>: cũng <i>tap your fingers</i>.",
+   "example": {
+    "en": "He just kept <b>drumming his fingers</b> on the table, looking impatient.",
+    "vi": "Anh ấy cứ <b>gõ ngón tay</b> lên bàn, vẻ sốt ruột."
+   }
+  }
+ ]
+}
