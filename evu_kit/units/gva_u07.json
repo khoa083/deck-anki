@@ -1,0 +1,280 @@
+{
+ "book": "gva",
+ "unit": 7,
+ "title_vi": "Trạng từ và tính từ",
+ "theory_html": "<p><b>2.1. Position of adverbs</b><br><i>2.1. Vị trí trạng từ</i></p> <p>Front, mid (between subject and verb, after <b>be</b>, after first/second auxiliary) and end position. <b>always, never</b>, indefinite frequency (<b>rarely, seldom</b>), degree adverbs (<b>almost, hardly, quite</b>): mid; <b>constantly, greatly, completely</b>: mid or end, not front; place and definite time/frequency: end; multi-word time/frequency (<b>as a rule, from time to time</b>): front or end; not between verb and object, nor after an -ing form or to-infinitive; place before time in end position.</p><p><i>Vị trí đầu, giữa, cuối; trạng từ tần suất không xác định ở giữa; nơi chốn, thời gian xác định ở cuối; không đặt giữa động từ và tân ngữ; nơi chốn trước thời gian.</i></p> <p><b>2.2. Quite, rather; already, yet, still; even, only; really</b><br><i>2.2. Quite, rather, already, yet, still, even, only, really</i></p> <p><b>quite</b> + a/an + adj = moderately; a + <b>quite</b> + adj = completely; <b>rather</b> between or before a/an; <b>already</b> mid or end; <b>yet</b> end (negatives, questions); <b>still</b> mid; <b>even / only</b> mid, before the subject if referring to it; <b>really</b> before an adjective = very, elsewhere = actually.</p><p><i>Vị trí và nghĩa thay đổi theo vị trí.</i></p> <p><b>2.3. Position of adjectives</b><br><i>2.3. Vị trí tính từ</i></p> <p>Before the noun or after a linking verb (<b>be, become, feel, seem</b>); immediately after a noun: participle adjectives (<b>people waiting</b>), after indefinite pronouns (<b>nothing extraordinary</b>).</p><p><i>Trước danh từ hoặc sau động từ nối; ngay sau danh từ: tính từ phân từ, sau đại từ bất định.</i></p> <p><b>2.4. Gradable adjectives</b><br><i>2.4. Tính từ có mức độ</i></p> <p>Gradable (<b>ambitious, busy</b>) with <b>extremely, slightly, very, pretty, somewhat</b>; non-gradable (<b>huge, impossible</b>) with <b>absolutely, completely, totally, practically, almost</b>; some have both uses (<b>common, diplomatic</b>).</p><p><i>Tính từ có mức độ + very; tính từ cực hạn + absolutely.</i></p> <p><b>2.5. Patterns after adjectives</b><br><i>2.5. Cấu trúc sau tính từ</i></p> <p>After a linking verb: to-infinitive, -ing form, that-clause (<b>unwilling to, fantastic having, aware that, relieved that</b>).</p><p><i>Sau tính từ: to V, V-ing, mệnh đề that.</i></p>",
+ "items": [
+  {
+   "word": "mid position",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈmɪd pəˌzɪʃn/",
+   "def_en": "The position between the subject and verb, after be, or after the first auxiliary.",
+   "def_vi": "Vị trí giữa chủ ngữ và động từ, sau be, sau trợ động từ đầu.",
+   "gloss_vi": "vị trí giữa câu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mid position</i> (structure) = vị trí giữa câu. <b>Grammar</b>: <i>always, never, rarely, seldom, almost, hardly</i> thường ở vị trí giữa.",
+   "example": {
+    "en": "I <b>usually</b> start work by about 8.00.",
+    "vi": "Tôi <b>thường</b> bắt đầu làm lúc 8 giờ."
+   }
+  },
+  {
+   "word": "greatly",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈɡreɪtli/",
+   "def_en": "Very much; put in mid or end position, not front.",
+   "def_vi": "Rất nhiều; vị trí giữa hoặc cuối, không đầu câu.",
+   "gloss_vi": "rất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Greatly</i> (adverb) = rất. <b>Grammar</b>: cũng <i>constantly, completely, perfectly</i> (không đứng đầu câu).",
+   "example": {
+    "en": "I <b>greatly</b> admire William Boyd.",
+    "vi": "Tôi <b>rất</b> ngưỡng mộ William Boyd."
+   }
+  },
+  {
+   "word": "as a rule",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/əz ə ˈruːl/",
+   "def_en": "Usually; put in front or end position, not mid.",
+   "def_vi": "Thường thì; đứng đầu hay cuối câu.",
+   "gloss_vi": "theo lệ thường",
+   "synonyms": "usually <i>(adv. thường)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As a rule</i> (adverb) = theo lệ thường. <b>Grammar</b>: trạng từ nhiều từ (<i>from time to time, every so often</i>) không ở vị trí giữa.",
+   "example": {
+    "en": "<b>As a rule</b>, I prefer finding information from books.",
+    "vi": "<b>Theo lệ thường</b>, tôi thích tìm thông tin trong sách."
+   }
+  },
+  {
+   "word": "end position",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈend pəˌzɪʃn/",
+   "def_en": "After the verb; used for adverbs of place and definite time.",
+   "def_vi": "Sau động từ; cho trạng từ nơi chốn, thời gian xác định.",
+   "gloss_vi": "vị trí cuối câu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>End position</i> (structure) = vị trí cuối câu. <b>Grammar</b>: nơi chốn trước thời gian; không đặt trạng từ giữa động từ và tân ngữ: <i>speak Swedish quite well</i>.",
+   "example": {
+    "en": "I work <b>upstairs</b>.",
+    "vi": "Tôi làm việc <b>trên lầu</b>."
+   }
+  },
+  {
+   "word": "quite",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/kwaɪt/",
+   "def_en": "Before a/an + adjective = moderately; between a/an and adjective = completely.",
+   "def_vi": "Trước a/an + tính từ = khá; giữa a/an và tính từ = hoàn toàn.",
+   "gloss_vi": "khá; hoàn toàn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Quite</i> (adverb) = khá; hoàn toàn. <b>Grammar</b>: <i>a quite remarkable story</i> = hoàn toàn đáng chú ý.",
+   "example": {
+    "en": "Elsa is <b>quite</b> a dominant figure",
+    "vi": "Elsa là <b>một nhân vật khá</b> áp đảo."
+   }
+  },
+  {
+   "word": "rather",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈrɑːðə(r)/",
+   "def_en": "Fairly; usually between a/an and an adjective.",
+   "def_vi": "Khá; thường giữa a/an và tính từ.",
+   "gloss_vi": "khá là",
+   "synonyms": "quite <i>(adv. khá)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rather</i> (adverb) = khá là. <b>Grammar</b>: cũng <i>rather a gentle woman</i>.",
+   "example": {
+    "en": "My mother was a <b>rather</b> gentle woman.",
+    "vi": "Mẹ tôi là một phụ nữ <b>khá</b> hiền."
+   }
+  },
+  {
+   "word": "yet",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/jet/",
+   "def_en": "Usually in end position in negatives, questions and expressions of uncertainty.",
+   "def_vi": "Thường cuối câu phủ định, nghi vấn.",
+   "gloss_vi": "(vẫn) chưa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "already <i>(adv. đã)</i>",
+   "grammar_vi": "<i>Yet</i> (adverb) = (vẫn) chưa. <b>Grammar</b>: <i>already</i> giữa hoặc cuối; <i>still</i> ở giữa.",
+   "example": {
+    "en": "I don't know if I can tell you <b>yet</b>.",
+    "vi": "Tôi không biết có thể nói với bạn <b>chưa</b>."
+   }
+  },
+  {
+   "word": "even",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈiːvn/",
+   "def_en": "Used to emphasise something surprising; mid position, or before the subject it refers to.",
+   "def_vi": "Nhấn mạnh điều bất ngờ; vị trí giữa, hoặc trước chủ ngữ.",
+   "gloss_vi": "thậm chí",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Even</i> (adverb) = thậm chí. <b>Grammar</b>: <i>Sometimes even I'm surprised.</i>.",
+   "example": {
+    "en": "He can <b>even</b> speak Swedish.",
+    "vi": "Anh ấy <b>thậm chí</b> nói được tiếng Thụy Điển."
+   }
+  },
+  {
+   "word": "only",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈəʊnli/",
+   "def_en": "Mid position, or before the subject it refers to.",
+   "def_vi": "Vị trí giữa, hoặc trước chủ ngữ.",
+   "gloss_vi": "chỉ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Only</i> (adverb) = chỉ. <b>Grammar</b>: trước chủ ngữ khi bổ nghĩa chủ ngữ.",
+   "example": {
+    "en": "<b>Only</b> my close family had read anything I'd written.",
+    "vi": "<b>Chỉ</b> gia đình tôi đọc những gì tôi viết."
+   }
+  },
+  {
+   "word": "really",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈrɪəli/",
+   "def_en": "Before an adjective = very; in other positions = actually, in fact.",
+   "def_vi": "Trước tính từ = rất; vị trí khác = thực sự.",
+   "gloss_vi": "rất; thực sự",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Really</i> (adverb) = rất; thực sự. <b>Grammar</b>: <i>really tired</i> = rất mệt.",
+   "example": {
+    "en": "My friends thought I was joking but I <b>really</b> had decided to leave teaching.",
+    "vi": "Bạn bè tưởng tôi đùa nhưng tôi <b>thực sự</b> đã quyết nghỉ dạy."
+   }
+  },
+  {
+   "word": "participle adjectives",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈpɑːtɪsɪpl ˈædʒɪktɪvz/",
+   "def_en": "Adjectives ending in -ing or -ed that can be used immediately after a noun.",
+   "def_vi": "Tính từ đuôi -ing/-ed đứng ngay sau danh từ.",
+   "gloss_vi": "tính từ phân từ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Participle adjectives</i> (structure) = tính từ phân từ. <b>Grammar</b>: = mệnh đề quan hệ rút gọn (<i>people who will be waiting</i>).",
+   "example": {
+    "en": "There'll be a lot of people <b>waiting</b> eagerly to get hold of it",
+    "vi": "Sẽ có nhiều người <b>háo hức chờ</b> để có nó."
+   }
+  },
+  {
+   "word": "nothing + adjective",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈnʌθɪŋ plʌs ˈædʒɪktɪv/",
+   "def_en": "An adjective used after an indefinite pronoun.",
+   "def_vi": "Tính từ đứng sau đại từ bất định.",
+   "gloss_vi": "không có gì + tính từ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nothing + adjective</i> (structure) = không có gì + tính từ. <b>Grammar</b>: <i>something special, anything new</i>.",
+   "example": {
+    "en": "There was <b>nothing extraordinary</b> about my first novel.",
+    "vi": "<b>Không có gì đặc biệt</b> về cuốn tiểu thuyết đầu tay."
+   }
+  },
+  {
+   "word": "gradable adjectives",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈɡreɪdəbl ˈædʒɪktɪvz/",
+   "def_en": "Adjectives that can have more or less of a quality, used with very, extremely, slightly.",
+   "def_vi": "Tính từ có mức độ, dùng với very, extremely.",
+   "gloss_vi": "tính từ có mức độ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "non-gradable adjectives <i>(st. tính từ không mức độ)</i>",
+   "grammar_vi": "<i>Gradable adjectives</i> (structure) = tính từ có mức độ. <b>Grammar</b>: không dùng <i>absolutely</i> với tính từ có mức độ.",
+   "example": {
+    "en": "somewhat ambitious, <b>extremely busy</b>, slightly different, very rich, pretty strong",
+    "vi": "<b>Cực kỳ bận</b>, hơi khác, rất giàu."
+   }
+  },
+  {
+   "word": "non-gradable adjectives",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˌnɒn ˈɡreɪdəbl ˈædʒɪktɪvz/",
+   "def_en": "Adjectives with an extreme or absolute quality, used with absolutely, completely, totally.",
+   "def_vi": "Tính từ cực hạn, dùng với absolutely, completely.",
+   "gloss_vi": "tính từ không có mức độ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "gradable adjectives <i>(st. tính từ có mức độ)</i>",
+   "grammar_vi": "<i>Non-gradable adjectives</i> (structure) = tính từ không có mức độ. <b>Grammar</b>: không dùng <i>very</i> với <i>huge, impossible</i>.",
+   "example": {
+    "en": "<b>absolutely huge</b>, completely impossible, practically unknown",
+    "vi": "<b>Cực kỳ lớn</b>, hoàn toàn không thể."
+   }
+  },
+  {
+   "word": "common",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈkɒmən/",
+   "def_en": "(Gradable) frequent; (non-gradable) similar, shared.",
+   "def_vi": "(Có mức độ) phổ biến; (không mức độ) chung.",
+   "gloss_vi": "phổ biến; chung",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Common</i> (adjective) = phổ biến; chung. <b>Grammar</b>: <i>not a very common surname</i> (= phổ biến).",
+   "example": {
+    "en": "Elsa and my mother have certain <b>common</b> characteristics.",
+    "vi": "Elsa và mẹ tôi có vài đặc điểm <b>chung</b>."
+   }
+  },
+  {
+   "word": "aware that",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/əˈweə ðæt/",
+   "def_en": "An adjective followed by a that-clause.",
+   "def_vi": "Tính từ theo sau là mệnh đề that.",
+   "gloss_vi": "biết rằng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Aware that</i> (structure) = biết rằng. <b>Grammar</b>: sau tính từ: to V (<i>unwilling to</i>), V-ing (<i>fantastic having</i>), mệnh đề that (<i>relieved that</i>).",
+   "example": {
+    "en": "I was <b>aware that</b> I needed rest.",
+    "vi": "Tôi <b>biết rằng</b> mình cần nghỉ ngơi."
+   }
+  },
+  {
+   "word": "unwilling to",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ʌnˈwɪlɪŋ tə/",
+   "def_en": "An adjective followed by a to-infinitive.",
+   "def_vi": "Tính từ theo sau là to V.",
+   "gloss_vi": "không muốn",
+   "synonyms": "reluctant <i>(adj. miễn cưỡng)</i>",
+   "antonyms": "willing to <i>(st. sẵn lòng)</i>",
+   "grammar_vi": "<i>Unwilling to</i> (structure) = không muốn. <b>Grammar</b>: tính từ + to V.",
+   "example": {
+    "en": "I was <b>unwilling to</b> leave teaching",
+    "vi": "Tôi <b>không muốn</b> rời nghề dạy."
+   }
+  }
+ ]
+}
