@@ -1,0 +1,360 @@
+{
+ "book": "bus",
+ "unit": 5,
+ "title_vi": "Lương và phúc lợi",
+ "theory_html": "<p><b>A. Wages, salary and benefits</b><br><i>A. Lương và phúc lợi</i></p> <p><b>salary, (do) overtime, perks, earn, wages, minimum wage, tips, basic salary, commission, bonus, fringe benefits, company car, health plan, pension, benefits package, working conditions</b>.</p><p><i><b>lương tháng, làm thêm giờ, đặc quyền, kiếm được, lương tuần, lương tối thiểu, tiền boa, lương cơ bản, hoa hồng, thưởng, phúc lợi phụ, xe công ty, gói bảo hiểm y tế, lương hưu, gói phúc lợi, điều kiện làm việc</b>.</i></p> <p><b>B. Compensation 1</b><br><i>B. Thù lao 1</i></p> <p><b>pay and conditions, remuneration, compensation</b> (formal), <b>remuneration / compensation package</b> (esp. US), <b>share options</b> (BrE) / <b>stock options</b> (AmE), <b>performance(-related) bonuses</b>.</p><p><i><b>lương và điều kiện, thù lao, gói thù lao, quyền chọn mua cổ phiếu, thưởng theo hiệu quả</b>.</i></p> <p><b>C. Compensation 2</b><br><i>C. Thù lao 2</i></p> <p>Money when forced to leave: <b>boardroom row, compensation payment / severance payment, compensation package / severance package, fat cats</b>.</p><p><i><b>tranh cãi trong hội đồng quản trị, khoản bồi thường thôi việc, gói trợ cấp thôi việc, ‘mèo béo’</b>.</i></p>",
+ "items": [
+  {
+   "word": "salary",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsæləri/",
+   "def_en": "Pay received every month.",
+   "def_vi": "Tiền lương nhận mỗi tháng.",
+   "gloss_vi": "lương tháng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Salary</i> (noun) = lương tháng. <b>Grammar</b>: khác <i>wages</i> (trả theo tuần).",
+   "example": {
+    "en": "I get paid a <b>salary</b> every month.",
+    "vi": "Tôi nhận <b>lương tháng</b> mỗi tháng."
+   }
+  },
+  {
+   "word": "perks",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pɜːks/",
+   "def_en": "Extra things you get from your job, e.g. free meals.",
+   "def_vi": "Thứ thêm nhận từ công việc, vd bữa ăn miễn phí.",
+   "gloss_vi": "đặc quyền, bổng lộc",
+   "synonyms": "fringe benefits <i>(n. phúc lợi phụ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Perks</i> (noun) = đặc quyền, bổng lộc. <b>Grammar</b>: thân mật, thường số nhiều.",
+   "example": {
+    "en": "we also get some nice <b>perks</b> – for example, free meals!",
+    "vi": "Làm khách sạn, chúng tôi có vài <b>đặc quyền</b> hay – vd bữa ăn miễn phí!"
+   }
+  },
+  {
+   "word": "earn",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɜːn/",
+   "def_en": "To get money for work.",
+   "def_vi": "Nhận tiền nhờ làm việc.",
+   "gloss_vi": "kiếm được",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Earn</i> (verb) = kiếm được. <b>Grammar</b>: danh từ <i>earnings</i>.",
+   "example": {
+    "en": "I like my job even if I don’t <b>earn</b> very much",
+    "vi": "Tôi thích việc dù không <b>kiếm được</b> nhiều."
+   }
+  },
+  {
+   "word": "wages",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈweɪdʒɪz/",
+   "def_en": "Pay received every week.",
+   "def_vi": "Tiền lương nhận mỗi tuần.",
+   "gloss_vi": "lương tuần",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wages</i> (noun) = lương tuần. <b>Grammar</b>: khác <i>salary</i>.",
+   "example": {
+    "en": "I get paid <b>wages</b> every week by the restaurant.",
+    "vi": "Tôi nhận <b>lương tuần</b> từ nhà hàng."
+   }
+  },
+  {
+   "word": "minimum wage",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmɪnɪməm ˈweɪdʒ/",
+   "def_en": "The lowest amount of pay allowed by law.",
+   "def_vi": "Mức lương thấp nhất luật cho phép.",
+   "gloss_vi": "lương tối thiểu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Minimum wage</i> (noun) = lương tối thiểu. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "We get the <b>minimum wage</b> – the lowest amount allowed by law.",
+    "vi": "Chúng tôi nhận <b>lương tối thiểu</b>."
+   }
+  },
+  {
+   "word": "tips",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tɪps/",
+   "def_en": "Money that customers leave in addition to the bill.",
+   "def_vi": "Tiền khách để lại ngoài hóa đơn.",
+   "gloss_vi": "tiền boa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tips</i> (noun) = tiền boa. <b>Grammar</b>: động từ <i>tip</i>.",
+   "example": {
+    "en": "But we also get <b>tips</b> – money that customers leave in addition to the bill.",
+    "vi": "Chúng tôi cũng nhận <b>tiền boa</b>."
+   }
+  },
+  {
+   "word": "basic salary",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌbeɪsɪk ˈsæləri/",
+   "def_en": "The fixed part of your pay, without extras.",
+   "def_vi": "Phần lương cố định, không gồm phụ cấp.",
+   "gloss_vi": "lương cơ bản",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Basic salary</i> (noun) = lương cơ bản. <b>Collocations / chunks</b>: <i>basic salary + commission</i>.",
+   "example": {
+    "en": "I get a <b>basic salary</b>, plus commission",
+    "vi": "Tôi nhận <b>lương cơ bản</b> cộng hoa hồng."
+   }
+  },
+  {
+   "word": "commission",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəˈmɪʃn/",
+   "def_en": "A percentage on everything you sell.",
+   "def_vi": "Phần trăm trên mọi thứ bạn bán.",
+   "gloss_vi": "hoa hồng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Commission</i> (noun) = hoa hồng. <b>Collocations / chunks</b>: <i>on commission</i>.",
+   "example": {
+    "en": "plus <b>commission</b> – a percentage on everything I sell",
+    "vi": "Tôi nhận lương cơ bản cộng <b>hoa hồng</b>."
+   }
+  },
+  {
+   "word": "bonus",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbəʊnəs/",
+   "def_en": "Extra money paid for good performance.",
+   "def_vi": "Tiền thêm cho thành tích tốt.",
+   "gloss_vi": "tiền thưởng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bonus</i> (noun) = tiền thưởng. <b>Collocations / chunks</b>: <i>performance bonus</i>.",
+   "example": {
+    "en": "If I sell more than a particular amount in a year, I also get a <b>bonus</b>",
+    "vi": "Nếu bán vượt mức, tôi được <b>thưởng</b>."
+   }
+  },
+  {
+   "word": "fringe benefits",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfrɪndʒ ˌbenɪfɪts/",
+   "def_en": "Extra things you get from your job in addition to pay.",
+   "def_vi": "Phúc lợi ngoài lương.",
+   "gloss_vi": "phúc lợi phụ",
+   "synonyms": "perks <i>(n. bổng lộc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fringe benefits</i> (noun) = phúc lợi phụ. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "There are some good <b>fringe benefits</b> with this job",
+    "vi": "Công việc này có vài <b>phúc lợi phụ</b> tốt."
+   }
+  },
+  {
+   "word": "company car",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkʌmpəni ˈkɑː(r)/",
+   "def_en": "A car provided by your employer.",
+   "def_vi": "Xe do công ty cấp.",
+   "gloss_vi": "xe công ty",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Company car</i> (noun) = xe công ty. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "I get a <b>company car</b>, a BMW",
+    "vi": "Tôi được cấp <b>xe công ty</b>, một chiếc BMW."
+   }
+  },
+  {
+   "word": "health plan",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhelθ plæn/",
+   "def_en": "A scheme to pay the costs of medical treatment if you get ill.",
+   "def_vi": "Chương trình chi trả chi phí y tế khi ốm.",
+   "gloss_vi": "gói bảo hiểm y tế",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Health plan</i> (noun) = gói bảo hiểm y tế. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "there’s a <b>health plan</b> to pay the costs of medical treatment if I get ill",
+    "vi": "Có <b>gói bảo hiểm y tế</b> chi trả chữa bệnh."
+   }
+  },
+  {
+   "word": "pension",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpenʃn/",
+   "def_en": "Money that you get regularly after you stop working.",
+   "def_vi": "Tiền nhận đều đặn sau khi nghỉ hưu.",
+   "gloss_vi": "lương hưu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pension</i> (noun) = lương hưu. <b>Collocations / chunks</b>: <i>pension plan/scheme</i>.",
+   "example": {
+    "en": "the company makes payments for my <b>pension</b> – money that I’ll get regularly after I stop working",
+    "vi": "Công ty đóng tiền cho <b>lương hưu</b> của tôi."
+   }
+  },
+  {
+   "word": "benefits package",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbenɪfɪts ˌpækɪdʒ/",
+   "def_en": "All the benefits you receive in addition to pay.",
+   "def_vi": "Toàn bộ phúc lợi ngoài lương.",
+   "gloss_vi": "gói phúc lợi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Benefits package</i> (noun) = gói phúc lợi. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "I’ve got a very nice <b>benefits package</b>",
+    "vi": "Tôi có <b>gói phúc lợi</b> rất tốt."
+   }
+  },
+  {
+   "word": "working conditions",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɜːkɪŋ kənˌdɪʃnz/",
+   "def_en": "The physical conditions in which you work.",
+   "def_vi": "Điều kiện nơi làm việc.",
+   "gloss_vi": "điều kiện làm việc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Working conditions</i> (noun) = điều kiện làm việc. <b>Collocations / chunks</b>: <i>pay and conditions</i>.",
+   "example": {
+    "en": "And the <b>working conditions</b> are good too",
+    "vi": "<b>Điều kiện làm việc</b> cũng tốt."
+   }
+  },
+  {
+   "word": "remuneration",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˌmjuːnəˈreɪʃn/",
+   "def_en": "Pay and conditions (formal, esp. of senior managers).",
+   "def_vi": "Lương và điều kiện (trang trọng).",
+   "gloss_vi": "thù lao",
+   "synonyms": "compensation <i>(n. thù lao)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Remuneration</i> (noun) = thù lao. <b>Collocations / chunks</b>: <i>remuneration package</i>.",
+   "example": {
+    "en": "<b>Remuneration</b> and compensation are formal words used to talk about pay and conditions",
+    "vi": "<b>Thù lao</b> là từ trang trọng chỉ lương và điều kiện."
+   }
+  },
+  {
+   "word": "compensation package",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkɒmpenˈseɪʃn ˌpækɪdʒ/",
+   "def_en": "All the pay and benefits employees receive (esp. US); also money and benefits when forced to leave.",
+   "def_vi": "Toàn bộ lương và phúc lợi (Mỹ); cũng là gói bồi thường khi buộc nghỉ.",
+   "gloss_vi": "gói thù lao; gói bồi thường",
+   "synonyms": "severance package <i>(n. gói thôi việc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Compensation package</i> (noun) = gói thù lao; gói bồi thường. <b>Collocations / chunks</b>: Mỹ.",
+   "example": {
+    "en": "the payment and the benefits form a <b>compensation package</b> or severance package",
+    "vi": "Khoản tiền và phúc lợi tạo thành <b>gói bồi thường</b>."
+   }
+  },
+  {
+   "word": "stock options",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈstɒk ˌɒpʃnz/",
+   "def_en": "The right to buy the company’s shares at low prices (AmE).",
+   "def_vi": "Quyền mua cổ phiếu công ty giá thấp (Mỹ).",
+   "gloss_vi": "quyền chọn mua cổ phiếu",
+   "synonyms": "share options <i>(n. quyền mua cổ phần)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stock options</i> (noun) = quyền chọn mua cổ phiếu. <b>Grammar</b>: Anh <i>share options</i>.",
+   "example": {
+    "en": "this may include share options (BrE) or <b>stock options</b> (AmE)",
+    "vi": "Gói có thể gồm <b>quyền chọn mua cổ phiếu</b>."
+   }
+  },
+  {
+   "word": "performance-related bonus",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pəˌfɔːməns rɪˌleɪtɪd ˈbəʊnəs/",
+   "def_en": "A bonus paid if a manager reaches particular objectives.",
+   "def_vi": "Thưởng khi quản lý đạt mục tiêu.",
+   "gloss_vi": "thưởng theo hiệu quả",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Performance-related bonus</i> (noun) = thưởng theo hiệu quả. <b>Collocations / chunks</b>: cũng <i>performance bonus</i>.",
+   "example": {
+    "en": "There may be <b>performance (-related) bonuses</b> if the manager reaches particular objectives",
+    "vi": "Có thể có <b>thưởng theo hiệu quả</b>."
+   }
+  },
+  {
+   "word": "boardroom row",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɔːdruːm raʊ/",
+   "def_en": "A disagreement between senior managers.",
+   "def_vi": "Tranh cãi giữa các lãnh đạo cấp cao.",
+   "gloss_vi": "tranh cãi trong ban lãnh đạo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Boardroom row</i> (noun) = tranh cãi trong ban lãnh đạo. <b>Grammar</b>: <i>row</i> /raʊ/ = cãi nhau.",
+   "example": {
+    "en": "in what newspapers call a <b>boardroom row</b>",
+    "vi": "Báo chí gọi đó là <b>tranh cãi trong ban lãnh đạo</b>."
+   }
+  },
+  {
+   "word": "severance payment",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsevərəns ˌpeɪmənt/",
+   "def_en": "Money someone receives if forced to leave the organization.",
+   "def_vi": "Tiền nhận khi bị buộc rời tổ chức.",
+   "gloss_vi": "trợ cấp thôi việc",
+   "synonyms": "compensation payment <i>(n. khoản bồi thường)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Severance payment</i> (noun) = trợ cấp thôi việc. <b>Collocations / chunks</b>: <i>severance package</i>.",
+   "example": {
+    "en": "This money is in the form of a compensation payment or <b>severance payment</b>.",
+    "vi": "Tiền này là <b>trợ cấp thôi việc</b>."
+   }
+  },
+  {
+   "word": "fat cats",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌfæt ˈkæts/",
+   "def_en": "Executives with very high pay that they do not deserve.",
+   "def_vi": "Lãnh đạo lương quá cao không xứng đáng.",
+   "gloss_vi": "‘mèo béo’ (sếp lương khủng)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fat cats</i> (noun) = ‘mèo béo’ (sếp lương khủng). <b>Grammar</b>: Anh, tiêu cực.",
+   "example": {
+    "en": "executives with very high pay and benefits may be referred to as <b>fat cats</b>",
+    "vi": "Lãnh đạo lương cực cao bị gọi là <b>‘mèo béo’</b>."
+   }
+  }
+ ]
+}

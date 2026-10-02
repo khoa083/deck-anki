@@ -1,0 +1,365 @@
+{
+ "book": "bus",
+ "unit": 6,
+ "title_vi": "Con người và nơi làm việc",
+ "theory_html": "<p><b>A. Employees and management</b><br><i>A. Nhân viên và ban quản lý</i></p> <p><b>payroll, employees, personnel, staff, workers, workforce</b> (also <b>work-force, work force</b>), <b>management</b>.</p><p><i><b>bảng lương, nhân viên, nhân sự, đội ngũ, công nhân, lực lượng lao động, ban quản lý</b>.</i></p> <p><b>B. Management and administration</b><br><i>B. Quản lý và hành chính</i></p> <p><b>sites, head office / headquarters (HQ), offices, open-plan offices, administration (admin), administrative staff / support staff, technical support</b>.</p><p><i><b>địa điểm, trụ sở chính, văn phòng, văn phòng mở, hành chính, nhân viên hành chính / hỗ trợ, hỗ trợ kỹ thuật</b>.</i></p> <p><b>C. Labour</b><br><i>C. Lao động</i></p> <p><b>labour</b> (AmE <b>labor</b>) = everyone except management: <b>labour costs, labour dispute, labour leader, labour relations, labour shortage, labour unrest</b>; <b>labor unions</b> (AmE) / <b>trade unions</b> (BrE); <b>industrial action</b>: <b>strike, stoppage, walk-out, go-slow, overtime ban</b>. Also <b>white-collar workers, manual / blue-collar workers, shop floor</b>.</p><p><i><b>chi phí lao động, tranh chấp lao động, lãnh đạo công đoàn, quan hệ lao động, thiếu lao động, bất ổn lao động; công đoàn; hành động công nghiệp: đình công, ngừng việc, bỏ việc, lãn công, cấm làm thêm giờ</b>.</i></p> <p><b>D. Personnel and HRM</b><br><i>D. Nhân sự và quản trị nhân lực</i></p> <p><b>human resources department (HRD), human resources (HR), human resource management (HRM), personnel department</b> (older).</p><p><i><b>phòng nhân sự, nguồn nhân lực, quản trị nhân lực</b>.</i></p>",
+ "items": [
+  {
+   "word": "payroll",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpeɪrəʊl/",
+   "def_en": "The list of people employed and paid by a company.",
+   "def_vi": "Danh sách người được công ty thuê và trả lương.",
+   "gloss_vi": "bảng lương",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Payroll</i> (noun) = bảng lương. <b>Collocations / chunks</b>: <i>be on the payroll</i>.",
+   "example": {
+    "en": "The people who work for a company are on its <b>payroll</b>.",
+    "vi": "Người làm cho công ty có tên trong <b>bảng lương</b>."
+   }
+  },
+  {
+   "word": "personnel",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpɜːsəˈnel/",
+   "def_en": "The people who work for a company.",
+   "def_vi": "Những người làm cho công ty.",
+   "gloss_vi": "nhân sự",
+   "synonyms": "staff <i>(n. nhân viên)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Personnel</i> (noun) = nhân sự. <b>Grammar</b>: nhấn âm cuối; khác <i>personal</i>.",
+   "example": {
+    "en": "They are its employees, <b>personnel</b>, staff, workers or workforce.",
+    "vi": "Họ là nhân viên, <b>nhân sự</b> của công ty."
+   }
+  },
+  {
+   "word": "workforce",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɜːkfɔːs/",
+   "def_en": "All the people who work for a company.",
+   "def_vi": "Toàn bộ người làm cho công ty.",
+   "gloss_vi": "lực lượng lao động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Workforce</i> (noun) = lực lượng lao động. <b>Grammar</b>: cũng <i>work-force, work force</i>.",
+   "example": {
+    "en": "They are its employees, personnel, staff, workers or <b>workforce</b>.",
+    "vi": "Họ là nhân viên hay <b>lực lượng lao động</b> của công ty."
+   }
+  },
+  {
+   "word": "management",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmænɪdʒmənt/",
+   "def_en": "The people leading and organizing a company.",
+   "def_vi": "Những người lãnh đạo, tổ chức công ty.",
+   "gloss_vi": "ban quản lý",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Management</i> (noun) = ban quản lý. <b>Grammar</b>: danh từ tập hợp.",
+   "example": {
+    "en": "rather than the <b>management</b> – those leading and organizing the company",
+    "vi": "Khác với <b>ban quản lý</b> – người lãnh đạo và tổ chức công ty."
+   }
+  },
+  {
+   "word": "head office",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌhed ˈɒfɪs/",
+   "def_en": "The place where a company’s most important managers work.",
+   "def_vi": "Nơi các quản lý quan trọng nhất làm việc.",
+   "gloss_vi": "trụ sở chính",
+   "synonyms": "headquarters <i>(n. trụ sở)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Head office</i> (noun) = trụ sở chính. <b>Collocations / chunks</b>: <i>HQ</i> = headquarters.",
+   "example": {
+    "en": "A company’s most important managers usually work in its <b>head office</b> or headquarters (HQ).",
+    "vi": "Quản lý quan trọng nhất thường làm ở <b>trụ sở chính</b>."
+   }
+  },
+  {
+   "word": "open-plan office",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌəʊpən plæn ˈɒfɪs/",
+   "def_en": "A large area where many people work.",
+   "def_vi": "Khu rộng nhiều người cùng làm.",
+   "gloss_vi": "văn phòng mở",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Open-plan office</i> (noun) = văn phòng mở. <b>Grammar</b>: tính từ ghép <i>open-plan</i>.",
+   "example": {
+    "en": "often employees work in <b>open-plan offices</b> – large areas where many people work",
+    "vi": "Nhân viên thường làm trong <b>văn phòng mở</b>."
+   }
+  },
+  {
+   "word": "administration",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ədˌmɪnɪˈstreɪʃn/",
+   "def_en": "The ordinary work supporting a company’s activities.",
+   "def_vi": "Công việc thường ngày hỗ trợ hoạt động công ty.",
+   "gloss_vi": "hành chính",
+   "synonyms": "admin <i>(n. hành chính)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Administration</i> (noun) = hành chính. <b>Grammar</b>: thân mật <i>admin</i>.",
+   "example": {
+    "en": "<b>Administration</b> or, informally, admin – the ordinary work supporting a company’s activities",
+    "vi": "<b>Hành chính</b> là công việc hỗ trợ hoạt động công ty."
+   }
+  },
+  {
+   "word": "support staff",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/səˈpɔːt stɑːf/",
+   "def_en": "Staff who do administrative work.",
+   "def_vi": "Nhân viên làm việc hành chính.",
+   "gloss_vi": "nhân viên hỗ trợ",
+   "synonyms": "administrative staff <i>(n. nhân viên hành chính)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Support staff</i> (noun) = nhân viên hỗ trợ. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "is often done in offices like these by administrative staff or <b>support staff</b>",
+    "vi": "Việc đó do <b>nhân viên hỗ trợ</b> làm."
+   }
+  },
+  {
+   "word": "technical support",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌteknɪkl səˈpɔːt/",
+   "def_en": "Giving technical help to buyers of a company’s products.",
+   "def_vi": "Trợ giúp kỹ thuật cho người mua sản phẩm.",
+   "gloss_vi": "hỗ trợ kỹ thuật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Technical support</i> (noun) = hỗ trợ kỹ thuật. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "those giving technical help to buyers of the company’s products are in <b>technical support</b>",
+    "vi": "Người giúp khách về kỹ thuật làm ở bộ phận <b>hỗ trợ kỹ thuật</b>."
+   }
+  },
+  {
+   "word": "labour",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈleɪbə(r)/",
+   "def_en": "Everyone except the management who works for a company.",
+   "def_vi": "Mọi người làm cho công ty trừ ban quản lý.",
+   "gloss_vi": "người lao động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Labour</i> (noun) = người lao động. <b>Grammar</b>: Anh <i>labour</i>, Mỹ <i>labor</i>.",
+   "example": {
+    "en": "You use <b>labour</b> to talk about everyone except the management who works for a company",
+    "vi": "Dùng <b>lao động</b> để nói về mọi người trừ ban quản lý."
+   }
+  },
+  {
+   "word": "labour costs",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈleɪbə ˌkɒsts/",
+   "def_en": "What companies have to pay for labour, rather than materials.",
+   "def_vi": "Chi phí trả cho lao động, không phải vật liệu.",
+   "gloss_vi": "chi phí lao động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Labour costs</i> (noun) = chi phí lao động. <b>Collocations / chunks</b>: <i>labour</i> + <i>costs/dispute/leader/relations/shortage/unrest</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Labour costs</b> are low here.",
+    "vi": "<b>Chi phí lao động</b> ở đây thấp."
+   }
+  },
+  {
+   "word": "labour dispute",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈleɪbə dɪˌspjuːt/",
+   "def_en": "A disagreement between management and labour.",
+   "def_vi": "Bất đồng giữa ban quản lý và người lao động.",
+   "gloss_vi": "tranh chấp lao động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Labour dispute</i> (noun) = tranh chấp lao động. <b>Collocations / chunks</b>: cụm danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>labour dispute</b> lasted three months.",
+    "vi": "<b>Tranh chấp lao động</b> kéo dài ba tháng."
+   }
+  },
+  {
+   "word": "labour relations",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈleɪbə rɪˌleɪʃnz/",
+   "def_en": "The relationship between management and employees in general.",
+   "def_vi": "Quan hệ chung giữa quản lý và nhân viên.",
+   "gloss_vi": "quan hệ lao động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Labour relations</i> (noun) = quan hệ lao động. <b>Collocations / chunks</b>: cụm danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Labour relations</b> in the company are very good.",
+    "vi": "<b>Quan hệ lao động</b> trong công ty rất tốt."
+   }
+  },
+  {
+   "word": "labour shortage",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈleɪbə ˌʃɔːtɪdʒ/",
+   "def_en": "A period when there are not enough people available to work.",
+   "def_vi": "Lúc không đủ người làm.",
+   "gloss_vi": "thiếu hụt lao động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Labour shortage</i> (noun) = thiếu hụt lao động. <b>Collocations / chunks</b>: cụm danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "The building industry has a <b>labour shortage</b>.",
+    "vi": "Ngành xây dựng đang <b>thiếu hụt lao động</b>."
+   }
+  },
+  {
+   "word": "trade union",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌtreɪd ˈjuːniən/",
+   "def_en": "An organization that defends the interests of workers (BrE).",
+   "def_vi": "Tổ chức bảo vệ quyền lợi người lao động (Anh).",
+   "gloss_vi": "công đoàn",
+   "synonyms": "labor union <i>(n. công đoàn (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trade union</i> (noun) = công đoàn. <b>Grammar</b>: Anh; Mỹ <i>labor union</i>.",
+   "example": {
+    "en": "Labor unions (AmE) and <b>trade unions</b> (BrE) defend the interests of workers.",
+    "vi": "<b>Công đoàn</b> bảo vệ quyền lợi người lao động."
+   }
+  },
+  {
+   "word": "industrial action",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˌdʌstriəl ˈækʃn/",
+   "def_en": "Action by workers, e.g. a strike, when not happy with pay or conditions.",
+   "def_vi": "Hành động của công nhân như đình công khi bất mãn.",
+   "gloss_vi": "hành động công nghiệp (đình công…)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Industrial action</i> (noun) = hành động công nghiệp (đình công…). <b>Collocations / chunks</b>: <i>take industrial action</i>.",
+   "example": {
+    "en": "they may take <b>industrial action</b>",
+    "vi": "Khi không hài lòng, công nhân có thể <b>đình công</b>."
+   }
+  },
+  {
+   "word": "strike",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/straɪk/",
+   "def_en": "When workers stop working for a time.",
+   "def_vi": "Công nhân ngừng làm một thời gian.",
+   "gloss_vi": "cuộc đình công",
+   "synonyms": "stoppage <i>(n. ngừng việc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Strike</i> (noun) = cuộc đình công. <b>Collocations / chunks</b>: <i>go on strike</i>; cũng <i>walk-out</i>.",
+   "example": {
+    "en": "a <b>strike</b>, stoppage or walk-out – workers stop working for a time",
+    "vi": "<b>Đình công</b> – công nhân ngừng làm một thời gian."
+   }
+  },
+  {
+   "word": "go-slow",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɡəʊ ˈsləʊ/",
+   "def_en": "When workers continue to work, but more slowly than usual.",
+   "def_vi": "Công nhân vẫn làm nhưng chậm hơn bình thường.",
+   "gloss_vi": "lãn công",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go-slow</i> (noun) = lãn công. <b>Grammar</b>: danh từ ghép.",
+   "example": {
+    "en": "a <b>go-slow</b> – workers continue to work, but more slowly than usual",
+    "vi": "<b>Lãn công</b> – vẫn làm nhưng chậm hơn."
+   }
+  },
+  {
+   "word": "overtime ban",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈəʊvətaɪm bæn/",
+   "def_en": "When workers refuse to work more than the normal number of hours.",
+   "def_vi": "Công nhân từ chối làm quá số giờ bình thường.",
+   "gloss_vi": "cấm làm thêm giờ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Overtime ban</i> (noun) = cấm làm thêm giờ. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "an <b>overtime ban</b> – workers refuse to work more than the normal number of hours",
+    "vi": "<b>Cấm làm thêm giờ</b> – từ chối làm quá giờ."
+   }
+  },
+  {
+   "word": "shop floor",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌʃɒp ˈflɔː(r)/",
+   "def_en": "The area of a factory where manual workers work.",
+   "def_vi": "Khu vực nhà máy nơi công nhân làm.",
+   "gloss_vi": "phân xưởng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shop floor</i> (noun) = phân xưởng. <b>Collocations / chunks</b>: <i>on the shop floor</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Manual workers work on the <b>shop floor</b>.",
+    "vi": "Công nhân chân tay làm ở <b>phân xưởng</b>."
+   }
+  },
+  {
+   "word": "human resources",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌhjuːmən rɪˈzɔːsɪz/",
+   "def_en": "The area of an organization that deals with pay, recruitment, etc. (HR).",
+   "def_vi": "Bộ phận lo lương, tuyển dụng (HR).",
+   "gloss_vi": "nhân sự",
+   "synonyms": "personnel <i>(n. nhân sự)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Human resources</i> (noun) = nhân sự. <b>Collocations / chunks</b>: <i>human resources department (HRD)</i>.",
+   "example": {
+    "en": "This area is called <b>human resources</b> (HR) or human resource management (HRM).",
+    "vi": "Lĩnh vực này gọi là <b>nhân sự</b> (HR)."
+   }
+  },
+  {
+   "word": "personnel department",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpɜːsəˈnel dɪˌpɑːtmənt/",
+   "def_en": "An older name for the human resources department.",
+   "def_vi": "Tên cũ của phòng nhân sự.",
+   "gloss_vi": "phòng tổ chức cán bộ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Personnel department</i> (noun) = phòng tổ chức cán bộ. <b>Grammar</b>: tên cũ.",
+   "example": {
+    "en": "Another, older, name for this department is the <b>personnel department</b>.",
+    "vi": "Tên cũ của phòng này là <b>phòng tổ chức cán bộ</b>."
+   }
+  }
+ ]
+}

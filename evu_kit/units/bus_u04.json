@@ -1,0 +1,424 @@
+{
+ "book": "bus",
+ "unit": 4,
+ "title_vi": "Kỹ năng và bằng cấp",
+ "theory_html": "<p><b>A. Education and training</b><br><i>A. Giáo dục và đào tạo</i></p> <p><b>graduates, paper qualifications, qualifications in, work experience, train for, graduate from … with a degree in, training in, train as, qualify as, in-house training, management development, go on courses, acquire experience</b>. Notes: AmE <b>graduate from high school</b>; <b>master’s degree, graduate study, MBA</b>.</p><p><i><b>sinh viên tốt nghiệp, bằng cấp trên giấy, bằng về, kinh nghiệm làm việc, đào tạo cho, tốt nghiệp… với bằng, đào tạo về, học để thành, đủ tiêu chuẩn làm, đào tạo nội bộ, phát triển quản lý, đi học khóa, tích lũy kinh nghiệm</b>.</i></p> <p><b>B. Skilled and unskilled</b><br><i>B. Lành nghề và không lành nghề</i></p> <p><b>skill; highly skilled, skilled, semi-skilled, unskilled; skilled at / in</b> + noun / -ing; <b>good with</b> (computers, figures, people).</p><p><i><b>kỹ năng; tay nghề cao, lành nghề, bán lành nghề, không cần tay nghề; giỏi về; giỏi xử lý</b>.</i></p> <p><b>C. The right person</b><br><i>C. Người phù hợp</i></p> <p><b>methodical, systematic, organized, computer-literate, numerate, motivated, talented, self-starters, proactive, self-motivated, self-driven, team players</b>. Note: <b>self-starter</b> and <b>team player</b> are nouns.</p><p><i><b>có phương pháp, có hệ thống, ngăn nắp, thạo máy tính, giỏi số, có động lực, tài năng, người tự chủ, chủ động, tự tạo động lực, người làm việc nhóm tốt</b>.</i></p>",
+ "items": [
+  {
+   "word": "graduate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡrædʒuət/",
+   "def_en": "A person who has just left university with a degree.",
+   "def_vi": "Người vừa tốt nghiệp đại học.",
+   "gloss_vi": "sinh viên tốt nghiệp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Graduate</i> (noun) = sinh viên tốt nghiệp. <b>Grammar</b>: danh từ /-ət/, động từ /-eɪt/.",
+   "example": {
+    "en": "The trouble with <b>graduates</b> – people who’ve just left university – is that their paper qualifications are good.",
+    "vi": "Vấn đề với <b>sinh viên mới tốt nghiệp</b> là họ thiếu kinh nghiệm."
+   }
+  },
+  {
+   "word": "paper qualifications",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpeɪpə ˌkwɒlɪfɪˈkeɪʃnz/",
+   "def_en": "Qualifications shown by certificates rather than experience.",
+   "def_vi": "Bằng cấp trên giấy, không phải kinh nghiệm.",
+   "gloss_vi": "bằng cấp trên giấy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Paper qualifications</i> (noun) = bằng cấp trên giấy. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "their <b>paper qualifications</b> are good",
+    "vi": "<b>Bằng cấp trên giấy</b> của họ tốt."
+   }
+  },
+  {
+   "word": "work experience",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɜːk ɪkˌspɪəriəns/",
+   "def_en": "Experience of doing a job.",
+   "def_vi": "Kinh nghiệm làm việc.",
+   "gloss_vi": "kinh nghiệm làm việc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Work experience</i> (noun) = kinh nghiệm làm việc. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "but they have no <b>work experience</b>",
+    "vi": "Họ không có <b>kinh nghiệm làm việc</b>."
+   }
+  },
+  {
+   "word": "graduate from",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈɡrædʒueɪt frəm/",
+   "def_en": "To complete a university degree at (an institution).",
+   "def_vi": "Hoàn thành bằng đại học tại.",
+   "gloss_vi": "tốt nghiệp (trường)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Graduate from</i> (verb) = tốt nghiệp (trường). <b>Collocations / chunks</b>: <i>graduate from… with a degree in…</i>; Mỹ cả <i>high school</i>.",
+   "example": {
+    "en": "One of last year’s recruits <b>graduated from</b> Oxford University with a degree in philosophy",
+    "vi": "Cô ấy <b>tốt nghiệp</b> Oxford với bằng triết học."
+   }
+  },
+  {
+   "word": "degree in",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈɡriː ɪn/",
+   "def_en": "A university qualification in a subject.",
+   "def_vi": "Bằng đại học về một môn.",
+   "gloss_vi": "bằng (đại học) về",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Degree in</i> (noun) = bằng (đại học) về. <b>Collocations / chunks</b>: <i>a degree in</i> + môn học.",
+   "example": {
+    "en": "with a <b>degree in</b> philosophy",
+    "vi": "Cô ấy tốt nghiệp với <b>bằng</b> triết học."
+   }
+  },
+  {
+   "word": "train as",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈtreɪn əz/",
+   "def_en": "To learn the skills for a particular job.",
+   "def_vi": "Học kỹ năng cho một nghề.",
+   "gloss_vi": "học để trở thành",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Train as</i> (verb) = học để trở thành. <b>Collocations / chunks</b>: <i>train as</i> + nghề; <i>training in</i> + môn.",
+   "example": {
+    "en": "it’s better for us if you <b>train as</b> a scientist",
+    "vi": "Tốt hơn nếu bạn <b>học để thành</b> nhà khoa học."
+   }
+  },
+  {
+   "word": "qualify as",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈkwɒlɪfaɪ əz/",
+   "def_en": "To pass the exams needed for a profession.",
+   "def_vi": "Đỗ các kỳ thi cần cho một nghề.",
+   "gloss_vi": "đủ tiêu chuẩn làm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Qualify as</i> (verb) = đủ tiêu chuẩn làm. <b>Grammar</b>: danh từ <i>qualification</i>.",
+   "example": {
+    "en": "and <b>qualify as</b> a biologist or a doctor",
+    "vi": "Và <b>đủ tiêu chuẩn làm</b> nhà sinh học hay bác sĩ."
+   }
+  },
+  {
+   "word": "in-house training",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɪn haʊs ˈtreɪnɪŋ/",
+   "def_en": "Courses within the company.",
+   "def_vi": "Khóa học trong nội bộ công ty.",
+   "gloss_vi": "đào tạo nội bộ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In-house training</i> (noun) = đào tạo nội bộ. <b>Grammar</b>: <i>in-house</i> = nội bộ.",
+   "example": {
+    "en": "which we can achieve through <b>in-house training</b> – courses within the company",
+    "vi": "Chúng tôi đạt được điều đó qua <b>đào tạo nội bộ</b>."
+   }
+  },
+  {
+   "word": "management development",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmænɪdʒmənt dɪˈveləpmənt/",
+   "def_en": "Training to improve managers’ skills.",
+   "def_vi": "Đào tạo nâng cao kỹ năng quản lý.",
+   "gloss_vi": "phát triển năng lực quản lý",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Management development</i> (noun) = phát triển năng lực quản lý. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "we put a lot of money into <b>management development</b>",
+    "vi": "Chúng tôi đầu tư nhiều tiền vào <b>phát triển năng lực quản lý</b>."
+   }
+  },
+  {
+   "word": "go on a course",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡəʊ ɒn ə ˈkɔːs/",
+   "def_en": "To attend a training course.",
+   "def_vi": "Tham gia khóa học.",
+   "gloss_vi": "đi học khóa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go on a course</i> (verb) = đi học khóa. <b>Collocations / chunks</b>: <i>go on a course in</i> sth.",
+   "example": {
+    "en": "managers regularly <b>go on</b> specialized <b>courses</b> in leadership",
+    "vi": "Các quản lý thường xuyên <b>đi học khóa</b> chuyên về lãnh đạo."
+   }
+  },
+  {
+   "word": "acquire experience",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˌkwaɪər ɪkˈspɪəriəns/",
+   "def_en": "To get knowledge through doing things.",
+   "def_vi": "Có kiến thức qua thực hành.",
+   "gloss_vi": "tích lũy kinh nghiệm",
+   "synonyms": "gain experience <i>(v. có kinh nghiệm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Acquire experience</i> (verb) = tích lũy kinh nghiệm. <b>Collocations / chunks</b>: trang trọng.",
+   "example": {
+    "en": "You need to <b>acquire experience</b> – get knowledge through doing things",
+    "vi": "Bạn cần <b>tích lũy kinh nghiệm</b> cho việc đó."
+   }
+  },
+  {
+   "word": "master’s degree",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɑːstəz dɪˌɡriː/",
+   "def_en": "A qualification you can get after one or two years of graduate study.",
+   "def_vi": "Bằng sau một hai năm học sau đại học.",
+   "gloss_vi": "bằng thạc sĩ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Master’s degree</i> (noun) = bằng thạc sĩ. <b>Collocations / chunks</b>: <i>MBA</i> = thạc sĩ quản trị kinh doanh.",
+   "example": {
+    "en": "A <b>master’s degree</b> is a qualification you can get after one or two years of graduate study.",
+    "vi": "<b>Bằng thạc sĩ</b> lấy sau một hoặc hai năm học sau đại học."
+   }
+  },
+  {
+   "word": "MBA",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌem biː ˈeɪ/",
+   "def_en": "Master’s of Business Administration: a master’s degree in advanced business studies.",
+   "def_vi": "Thạc sĩ quản trị kinh doanh.",
+   "gloss_vi": "thạc sĩ quản trị kinh doanh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>MBA</i> (noun) = thạc sĩ quản trị kinh doanh. <b>Grammar</b>: viết tắt.",
+   "example": {
+    "en": "A Master’s of Business Administration (<b>MBA</b>) is a master’s degree in advanced business studies.",
+    "vi": "<b>MBA</b> là bằng thạc sĩ về kinh doanh nâng cao."
+   }
+  },
+  {
+   "word": "skill",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/skɪl/",
+   "def_en": "A particular ability to do something well, because you have learned and practised it.",
+   "def_vi": "Khả năng làm tốt việc gì nhờ học và luyện.",
+   "gloss_vi": "kỹ năng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Skill</i> (noun) = kỹ năng. <b>Grammar</b>: tính từ <i>skilled</i>.",
+   "example": {
+    "en": "A <b>skill</b> is a particular ability to do something well, especially because you have learned and practised it.",
+    "vi": "<b>Kỹ năng</b> là khả năng làm tốt điều gì nhờ học và luyện tập."
+   }
+  },
+  {
+   "word": "highly skilled",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌhaɪli ˈskɪld/",
+   "def_en": "Having a high level of skill.",
+   "def_vi": "Có tay nghề cao.",
+   "gloss_vi": "tay nghề cao",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "unskilled <i>(adj. không cần tay nghề)</i>",
+   "grammar_vi": "<i>Highly skilled</i> (adjective) = tay nghề cao. <b>Collocations / chunks</b>: <i>highly skilled / skilled / semi-skilled / unskilled</i>.",
+   "example": {
+    "en": "<b>highly skilled</b>, e.g. car designer",
+    "vi": "Nhà thiết kế ô tô là việc <b>tay nghề cao</b>."
+   }
+  },
+  {
+   "word": "semi-skilled",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌsemi ˈskɪld/",
+   "def_en": "Having some skill.",
+   "def_vi": "Có chút tay nghề.",
+   "gloss_vi": "bán lành nghề",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Semi-skilled</i> (adjective) = bán lành nghề. <b>Grammar</b>: tiền tố <i>semi-</i> = nửa.",
+   "example": {
+    "en": "<b>semi-skilled</b>, e.g. taxi driver",
+    "vi": "Tài xế taxi là việc <b>bán lành nghề</b>."
+   }
+  },
+  {
+   "word": "unskilled",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʌnˈskɪld/",
+   "def_en": "Not needing special skills.",
+   "def_vi": "Không cần kỹ năng đặc biệt.",
+   "gloss_vi": "không cần tay nghề",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "skilled <i>(adj. lành nghề)</i>",
+   "grammar_vi": "<i>Unskilled</i> (adjective) = không cần tay nghề. <b>Grammar</b>: tiền tố <i>un-</i>.",
+   "example": {
+    "en": "<b>unskilled</b>, e.g. car cleaner",
+    "vi": "Rửa xe là việc <b>không cần tay nghề</b>."
+   }
+  },
+  {
+   "word": "skilled in",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈskɪld ɪn/",
+   "def_en": "Good at something because you have learned it.",
+   "def_vi": "Giỏi về điều gì nhờ đã học.",
+   "gloss_vi": "giỏi về",
+   "synonyms": "skilled at <i>(adj. giỏi về)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Skilled in</i> (adjective) = giỏi về. <b>Grammar</b>: + danh từ / V-ing.",
+   "example": {
+    "en": "<b>skilled in</b> customer care",
+    "vi": "Cô ấy <b>giỏi về</b> chăm sóc khách hàng."
+   }
+  },
+  {
+   "word": "good with",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɡʊd wɪð/",
+   "def_en": "Skilled at dealing with (computers, figures, people).",
+   "def_vi": "Giỏi xử lý (máy tính, số liệu, con người).",
+   "gloss_vi": "giỏi xử lý",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Good with</i> (adjective) = giỏi xử lý. <b>Collocations / chunks</b>: <i>good with computers/figures/people</i>.",
+   "example": {
+    "en": "<b>good with</b> computers",
+    "vi": "Anh ấy <b>giỏi</b> máy tính."
+   }
+  },
+  {
+   "word": "methodical",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/məˈθɒdɪkl/",
+   "def_en": "Working in a planned, orderly way.",
+   "def_vi": "Làm việc có kế hoạch, ngăn nắp.",
+   "gloss_vi": "có phương pháp",
+   "synonyms": "systematic <i>(adj. có hệ thống)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Methodical</i> (adjective) = có phương pháp. <b>Grammar</b>: danh từ <i>method</i>.",
+   "example": {
+    "en": "a <b>methodical</b>, systematic and organized – working in a planned, orderly way",
+    "vi": "Các công ty tìm người <b>có phương pháp</b>."
+   }
+  },
+  {
+   "word": "computer-literate",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kəmˌpjuːtə ˈlɪtərət/",
+   "def_en": "Good with computers.",
+   "def_vi": "Giỏi máy tính.",
+   "gloss_vi": "thạo máy tính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Computer-literate</i> (adjective) = thạo máy tính. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "b <b>computer-literate</b> – good with computers",
+    "vi": "Công ty tìm người <b>thạo máy tính</b>."
+   }
+  },
+  {
+   "word": "numerate",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈnjuːmərət/",
+   "def_en": "Good with numbers.",
+   "def_vi": "Giỏi con số.",
+   "gloss_vi": "giỏi tính toán",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "innumerate <i>(adj. kém tính toán)</i>",
+   "grammar_vi": "<i>Numerate</i> (adjective) = giỏi tính toán. <b>Grammar</b>: so sánh <i>literate</i>.",
+   "example": {
+    "en": "c <b>numerate</b> – good with numbers",
+    "vi": "Công ty tìm người <b>giỏi tính toán</b>."
+   }
+  },
+  {
+   "word": "motivated",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈməʊtɪveɪtɪd/",
+   "def_en": "Very keen to do well in your job because you find it interesting.",
+   "def_vi": "Rất muốn làm tốt vì thấy việc thú vị.",
+   "gloss_vi": "có động lực",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Motivated</i> (adjective) = có động lực. <b>Grammar</b>: danh từ <i>motivation</i>.",
+   "example": {
+    "en": "d <b>motivated</b> – very keen to do well in their job because they find it interesting",
+    "vi": "Công ty tìm người <b>có động lực</b>."
+   }
+  },
+  {
+   "word": "self-starter",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌself ˈstɑːtə(r)/",
+   "def_en": "A person who is good at working on their own.",
+   "def_vi": "Người giỏi tự làm việc.",
+   "gloss_vi": "người tự chủ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Self-starter</i> (noun) = người tự chủ. <b>Grammar</b>: danh từ (khác <i>proactive</i> là tính từ).",
+   "example": {
+    "en": "f <b>self-starters</b>; they must be proactive, self-motivated, or self-driven – good at working on their own",
+    "vi": "Họ phải là <b>người tự chủ</b>."
+   }
+  },
+  {
+   "word": "proactive",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌprəʊˈæktɪv/",
+   "def_en": "Good at taking action on your own.",
+   "def_vi": "Giỏi tự hành động.",
+   "gloss_vi": "chủ động",
+   "synonyms": "self-motivated <i>(adj. tự tạo động lực)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Proactive</i> (adjective) = chủ động. <b>Grammar</b>: tiền tố <i>pro-</i>.",
+   "example": {
+    "en": "they must be <b>proactive</b>, self-motivated, or self-driven",
+    "vi": "Họ phải <b>chủ động</b>."
+   }
+  },
+  {
+   "word": "team player",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtiːm ˌpleɪə(r)/",
+   "def_en": "A person who works well with other people.",
+   "def_vi": "Người làm việc tốt với người khác.",
+   "gloss_vi": "người làm việc nhóm tốt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Team player</i> (noun) = người làm việc nhóm tốt. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "g <b>team players</b> – people who work well with other people",
+    "vi": "Công ty tìm <b>người làm việc nhóm tốt</b>."
+   }
+  }
+ ]
+}
