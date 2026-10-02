@@ -1,0 +1,302 @@
+{
+ "book": "bus",
+ "unit": 60,
+ "title_vi": "Thuyết trình 1: ý chính",
+ "theory_html": "<p><b>A. Types of presentation</b><br><i>A. Các loại thuyết trình</i></p> <p><b>press conference, demonstration, product launch, workshop, seminar</b>.</p><p><i><b>họp báo, buổi trình diễn, ra mắt sản phẩm, hội thảo thực hành, hội thảo chuyên đề</b>.</i></p> <p><b>B. What makes a good presentation?</b><br><i>B. Thế nào là bài thuyết trình hay?</i></p> <p><b>presenter</b>; organized: <b>ideas, visual aids, clearly structured, interesting examples and stories</b>; delivered: <b>rapport, eye contact, loud enough voice, variety in tone of voice, speed</b>; feelings: <b>confident, relaxed look, enthusiastic, positive attitude, interested in, involved</b>.</p><p><i><b>người thuyết trình; ý tưởng, phương tiện trực quan, cấu trúc rõ ràng, ví dụ và câu chuyện thú vị; sự kết nối, giao tiếp mắt, giọng đủ to, giọng đa dạng, tốc độ; tự tin, thoải mái, nhiệt tình, thái độ tích cực, quan tâm, cuốn hút</b>.</i></p> <p><b>C. Presentation tools and visual aids</b><br><i>C. Dụng cụ trình bày</i></p> <p><b>flipchart, screen, whiteboard, projector, handout, slides, marker, laptop, remote control</b>.</p><p><i><b>bảng lật, màn chiếu, bảng trắng, máy chiếu, tài liệu phát tay, trang chiếu, bút dạ, máy tính xách tay, điều khiển từ xa</b>.</i></p>",
+ "items": [
+  {
+   "word": "press conference",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpres ˌkɒnfərəns/",
+   "def_en": "A meeting where people tell journalists about something.",
+   "def_vi": "Buổi gặp thông báo cho nhà báo.",
+   "gloss_vi": "họp báo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Press conference</i> (noun) = họp báo. <b>Collocations / chunks</b>: <i>hold a press conference</i>.",
+   "example": {
+    "en": "a <b>press conference</b> – the chief executives of two companies tell journalists why their companies have merged",
+    "vi": "<b>Họp báo</b>: lãnh đạo hai công ty cho nhà báo biết lý do sáp nhập."
+   }
+  },
+  {
+   "word": "demonstration",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdemənˈstreɪʃn/",
+   "def_en": "A presentation showing how something works.",
+   "def_vi": "Thuyết trình cho thấy cách thứ gì hoạt động.",
+   "gloss_vi": "buổi trình diễn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Demonstration</i> (noun) = buổi trình diễn. <b>Grammar</b>: động từ <i>demonstrate</i>.",
+   "example": {
+    "en": "<b>demonstration</b> – the head of research and development gives a presentation to non-technical colleagues about a new machine",
+    "vi": "<b>Trình diễn</b>: trưởng R&D giới thiệu máy mới."
+   }
+  },
+  {
+   "word": "workshop",
+   "sense": "practical session",
+   "pos": "noun",
+   "ipa": "/ˈwɜːkʃɒp/",
+   "def_en": "A session where people do practical exercises.",
+   "def_vi": "Buổi người ta làm bài tập thực hành.",
+   "gloss_vi": "hội thảo thực hành",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Workshop</i> (noun) = hội thảo thực hành. <b>Grammar</b>: nghĩa khóa học.",
+   "example": {
+    "en": "<b>workshop</b> – company employees do practical exercises on time management",
+    "vi": "<b>Hội thảo thực hành</b>: nhân viên tập quản lý thời gian."
+   }
+  },
+  {
+   "word": "seminar",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsemɪnɑː(r)/",
+   "def_en": "A meeting where an expert gives advice or information.",
+   "def_vi": "Buổi chuyên gia tư vấn, cung cấp thông tin.",
+   "gloss_vi": "hội thảo chuyên đề",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Seminar</i> (noun) = hội thảo chuyên đề. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "<b>seminar</b> – a financial adviser gives advice to people about investments",
+    "vi": "<b>Hội thảo chuyên đề</b>: chuyên gia tư vấn đầu tư."
+   }
+  },
+  {
+   "word": "presenter",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/prɪˈzentə(r)/",
+   "def_en": "The person giving a presentation.",
+   "def_vi": "Người thuyết trình.",
+   "gloss_vi": "người thuyết trình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Presenter</i> (noun) = người thuyết trình. <b>Grammar</b>: động từ <i>present</i>.",
+   "example": {
+    "en": "A presentation, and the <b>presenter</b>, the person giving it, are usually judged by",
+    "vi": "Bài thuyết trình và <b>người thuyết trình</b> được đánh giá theo…"
+   }
+  },
+  {
+   "word": "visual aids",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌvɪʒuəl ˈeɪdz/",
+   "def_en": "Pictures, charts and data designed to help people understand or remember information.",
+   "def_vi": "Hình, biểu đồ, dữ liệu giúp hiểu và nhớ.",
+   "gloss_vi": "phương tiện trực quan",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Visual aids</i> (noun) = phương tiện trực quan. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "The ideas and the <b>visual aids</b> (pictures, charts and data designed to help people understand or remember particular information) are clearly structured",
+    "vi": "Ý tưởng và <b>phương tiện trực quan</b> có cấu trúc rõ ràng."
+   }
+  },
+  {
+   "word": "clearly structured",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌklɪəli ˈstrʌktʃəd/",
+   "def_en": "Easy to follow.",
+   "def_vi": "Dễ theo dõi.",
+   "gloss_vi": "có cấu trúc rõ ràng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Clearly structured</i> (adjective) = có cấu trúc rõ ràng. <b>Collocations / chunks</b>: cụm tính từ.",
+   "example": {
+    "en": "are <b>clearly structured</b> – easy to follow",
+    "vi": "Ý tưởng <b>có cấu trúc rõ ràng</b> – dễ theo dõi."
+   }
+  },
+  {
+   "word": "rapport",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ræˈpɔː(r)/",
+   "def_en": "A feeling that the presenter understands the audience.",
+   "def_vi": "Cảm giác người thuyết trình hiểu khán giả.",
+   "gloss_vi": "sự kết nối, đồng cảm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rapport</i> (noun) = sự kết nối, đồng cảm. <b>Grammar</b>: phát âm /ræˈpɔː/, <i>t</i> câm.",
+   "example": {
+    "en": "<b>rapport</b> with the audience – members feel that the presenter understands them",
+    "vi": "<b>Kết nối</b> với khán giả – họ thấy người nói hiểu mình."
+   }
+  },
+  {
+   "word": "tone of voice",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌtəʊn əv ˈvɔɪs/",
+   "def_en": "The way your voice sounds.",
+   "def_vi": "Cách giọng nói nghe ra sao.",
+   "gloss_vi": "giọng điệu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tone of voice</i> (noun) = giọng điệu. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "variety in your <b>tone of voice</b> – it’s important not to speak in a monotone",
+    "vi": "Đa dạng <b>giọng điệu</b> – đừng nói đều đều."
+   }
+  },
+  {
+   "word": "enthusiastic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪnˌθjuːziˈæstɪk/",
+   "def_en": "Showing great interest and excitement.",
+   "def_vi": "Rất hứng thú, phấn khởi.",
+   "gloss_vi": "nhiệt tình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Enthusiastic</i> (adjective) = nhiệt tình. <b>Grammar</b>: danh từ <i>enthusiasm</i>.",
+   "example": {
+    "en": "<b>enthusiastic</b> about the topic",
+    "vi": "<b>Nhiệt tình</b> với chủ đề."
+   }
+  },
+  {
+   "word": "positive attitude",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpɒzətɪv ˈætɪtjuːd/",
+   "def_en": "A hopeful, confident way of thinking.",
+   "def_vi": "Cách nghĩ lạc quan, tự tin.",
+   "gloss_vi": "thái độ tích cực",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Positive attitude</i> (noun) = thái độ tích cực. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "<b>positive attitude</b>",
+    "vi": "Có <b>thái độ tích cực</b>."
+   }
+  },
+  {
+   "word": "involved",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪnˈvɒlvd/",
+   "def_en": "Participating (in your mind).",
+   "def_vi": "Tham gia (trong suy nghĩ).",
+   "gloss_vi": "được lôi cuốn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Involved</i> (adjective) = được lôi cuốn. <b>Collocations / chunks</b>: <i>get sb involved</i>.",
+   "example": {
+    "en": "interested in the audience and getting them <b>involved</b> – participating in their minds",
+    "vi": "Quan tâm khán giả và khiến họ <b>được lôi cuốn</b>."
+   }
+  },
+  {
+   "word": "flipchart",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈflɪptʃɑːt/",
+   "def_en": "A large pad of paper on a stand for presentations.",
+   "def_vi": "Tập giấy lớn trên giá dùng khi thuyết trình.",
+   "gloss_vi": "bảng lật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flipchart</i> (noun) = bảng lật. <b>Grammar</b>: danh từ ghép.",
+   "ex_kit": true,
+   "example": {
+    "en": "She wrote the main points on the <b>flipchart</b>.",
+    "vi": "Cô ấy viết ý chính lên <b>bảng lật</b>."
+   }
+  },
+  {
+   "word": "projector",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/prəˈdʒektə(r)/",
+   "def_en": "A machine that shows images on a screen.",
+   "def_vi": "Máy chiếu hình lên màn.",
+   "gloss_vi": "máy chiếu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Projector</i> (noun) = máy chiếu. <b>Grammar</b>: động từ <i>project</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>projector</b> isn’t working.",
+    "vi": "<b>Máy chiếu</b> không hoạt động."
+   }
+  },
+  {
+   "word": "handout",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhændaʊt/",
+   "def_en": "A document given to people at a presentation.",
+   "def_vi": "Tài liệu phát cho người nghe.",
+   "gloss_vi": "tài liệu phát tay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Handout</i> (noun) = tài liệu phát tay. <b>Grammar</b>: động từ <i>hand out</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I’ll give you a <b>handout</b> at the end.",
+    "vi": "Tôi sẽ phát <b>tài liệu</b> cuối buổi."
+   }
+  },
+  {
+   "word": "slides",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/slaɪdz/",
+   "def_en": "Images shown on a screen in a presentation.",
+   "def_vi": "Hình chiếu lên màn khi thuyết trình.",
+   "gloss_vi": "trang chiếu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Slides</i> (noun) = trang chiếu. <b>Collocations / chunks</b>: <i>PowerPoint slides</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He used ten <b>slides</b> in his presentation.",
+    "vi": "Anh ấy dùng mười <b>trang chiếu</b>."
+   }
+  },
+  {
+   "word": "marker",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɑːkə(r)/",
+   "def_en": "A pen with a thick tip for writing on a whiteboard or flipchart.",
+   "def_vi": "Bút đầu to để viết bảng.",
+   "gloss_vi": "bút dạ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Marker</i> (noun) = bút dạ. <b>Collocations / chunks</b>: <i>whiteboard marker</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Do you have a <b>marker</b> for the whiteboard?",
+    "vi": "Bạn có <b>bút dạ</b> cho bảng trắng không?"
+   }
+  },
+  {
+   "word": "remote control",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˌməʊt kənˈtrəʊl/",
+   "def_en": "A device to control equipment from a distance.",
+   "def_vi": "Thiết bị điều khiển từ xa.",
+   "gloss_vi": "điều khiển từ xa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Remote control</i> (noun) = điều khiển từ xa. <b>Collocations / chunks</b>: cụm danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "She used a <b>remote control</b> to change the slides.",
+    "vi": "Cô ấy dùng <b>điều khiển từ xa</b> để chuyển trang."
+   }
+  }
+ ]
+}

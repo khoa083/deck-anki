@@ -1,0 +1,248 @@
+{
+ "book": "bus",
+ "unit": 59,
+ "title_vi": "Cuộc họp 5: kỹ thuật thảo luận",
+ "theory_html": "<p><b>A. Interrupting, referring back, checking understanding, avoiding confrontation</b><br><i>A. Ngắt lời, nhắc lại, kiểm tra hiểu, tránh đối đầu</i></p> <p>Check: <b>Are you saying / suggesting that…?, If I understand (you) correctly…, If I follow you…</b>; avoid <b>confrontation</b>: <b>I take your point…, I understand what you’re saying…, I see/know what you mean, but…, I hear where you’re coming from on this, but…</b>; interrupt: <b>If I can just stop you for a moment, Can I (just) come in here?, Sorry to interrupt you, but…</b>; refer back: <b>To go back to what you were saying earlier…, As we were saying earlier…</b></p><p><i><b>Ý bạn là…?; Nếu tôi hiểu đúng…; Tôi hiểu ý bạn, nhưng…; Cho tôi ngắt lời chút; Xin lỗi ngắt lời; Quay lại điều bạn nói lúc nãy…</b></i></p> <p><b>B. Agreement, consensus or compromise?</b><br><i>B. Thỏa thuận, đồng thuận hay thỏa hiệp?</i></p> <p><b>agreement (agree about / on), compromise (n/v), consensus, have a disagreement about, disagree about</b>; <b>come to / reach / find (an) agreement / compromise / consensus</b>.</p><p><i><b>thỏa thuận, thỏa hiệp, đồng thuận, bất đồng; đạt được thỏa thuận</b>.</i></p> <p><b>C. Concluding</b><br><i>C. Kết thúc</i></p> <p><b>We’ve covered a lot of ground; It’s been a very interesting discussion; We’re running out of time; To go over what’s been said…; To sum up…; We’re going to have to agree to disagree; Unless anyone has anything else to add…; We’re going to have to stop there; I think that’s it; Thank you all for coming</b>.</p><p><i><b>Ta đã bàn nhiều; Sắp hết giờ; Điểm lại…; Tóm lại…; Đành chấp nhận bất đồng; Nếu không ai thêm gì…; Đành dừng ở đây</b>.</i></p>",
+ "items": [
+  {
+   "word": "are you saying that",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ɑː ju ˈseɪɪŋ ðæt/",
+   "def_en": "Used to check that you understand.",
+   "def_vi": "Dùng để kiểm tra mình hiểu đúng.",
+   "gloss_vi": "ý bạn là",
+   "synonyms": "are you suggesting that <i>(cl. ý bạn gợi ý là)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Are you saying that</i> (cl) = ý bạn là. <b>Collocations / chunks</b>: kiểm tra hiểu.",
+   "example": {
+    "en": "<b>Are you saying that</b> … ?",
+    "vi": "<b>Ý bạn là</b>…?"
+   }
+  },
+  {
+   "word": "if I understand you correctly",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ɪf aɪ ˌʌndəˌstænd ju kəˈrektli/",
+   "def_en": "Used to check understanding.",
+   "def_vi": "Dùng để kiểm tra hiểu.",
+   "gloss_vi": "nếu tôi hiểu đúng",
+   "synonyms": "if I follow you <i>(cl. nếu tôi theo kịp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>If I understand you correctly</i> (cl) = nếu tôi hiểu đúng. <b>Collocations / chunks</b>: kiểm tra hiểu.",
+   "example": {
+    "en": "<b>If I understand (you) correctly</b>, …",
+    "vi": "<b>Nếu tôi hiểu đúng ý bạn</b>…"
+   }
+  },
+  {
+   "word": "confrontation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkɒnfrʌnˈteɪʃn/",
+   "def_en": "Disagreement.",
+   "def_vi": "Sự bất đồng.",
+   "gloss_vi": "sự đối đầu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Confrontation</i> (noun) = sự đối đầu. <b>Grammar</b>: động từ <i>confront</i>.",
+   "example": {
+    "en": "To avoid direct <b>confrontation</b> – disagreement",
+    "vi": "Để tránh <b>đối đầu</b> trực tiếp."
+   }
+  },
+  {
+   "word": "I take your point",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/aɪ ˌteɪk jə ˈpɔɪnt/",
+   "def_en": "I understand your argument (but may not fully agree).",
+   "def_vi": "Tôi hiểu lập luận của bạn.",
+   "gloss_vi": "tôi hiểu ý bạn",
+   "synonyms": "I see what you mean <i>(cl. tôi hiểu ý bạn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>I take your point</i> (cl) = tôi hiểu ý bạn. <b>Collocations / chunks</b>: tránh đối đầu.",
+   "example": {
+    "en": "<b>I take your point</b> …",
+    "vi": "<b>Tôi hiểu ý bạn</b>…"
+   }
+  },
+  {
+   "word": "I hear where you’re coming from",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/aɪ ˌhɪə ˌweə jɔː ˈkʌmɪŋ frɒm/",
+   "def_en": "I understand your point of view (informal).",
+   "def_vi": "Tôi hiểu quan điểm của bạn (thân mật).",
+   "gloss_vi": "tôi hiểu lập trường của bạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>I hear where you’re coming from</i> (cl) = tôi hiểu lập trường của bạn. <b>Collocations / chunks</b>: thân mật.",
+   "example": {
+    "en": "<b>I hear where you’re coming from</b> on this, but …",
+    "vi": "<b>Tôi hiểu lập trường của bạn</b> về việc này, nhưng…"
+   }
+  },
+  {
+   "word": "can I come in here",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/kæn aɪ ˌkʌm ˈɪn hɪə(r)/",
+   "def_en": "Used to interrupt politely.",
+   "def_vi": "Ngắt lời lịch sự.",
+   "gloss_vi": "cho tôi nói một chút",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Can I come in here</i> (cl) = cho tôi nói một chút. <b>Collocations / chunks</b>: ngắt lời lịch sự.",
+   "example": {
+    "en": "<b>Can I (just) come in here</b>?",
+    "vi": "<b>Cho tôi nói một chút</b> được không?"
+   }
+  },
+  {
+   "word": "sorry to interrupt",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ˌsɒri tʊ ˌɪntəˈrʌpt/",
+   "def_en": "Used to interrupt politely.",
+   "def_vi": "Ngắt lời lịch sự.",
+   "gloss_vi": "xin lỗi ngắt lời",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sorry to interrupt</i> (cl) = xin lỗi ngắt lời. <b>Collocations / chunks</b>: ngắt lời lịch sự.",
+   "example": {
+    "en": "<b>Sorry to interrupt</b> you, but …",
+    "vi": "<b>Xin lỗi ngắt lời bạn</b>, nhưng…"
+   }
+  },
+  {
+   "word": "to go back to",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/tə ˌɡəʊ ˈbæk tə/",
+   "def_en": "Used to refer back to something said earlier.",
+   "def_vi": "Dùng để quay lại điều đã nói.",
+   "gloss_vi": "quay lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>To go back to</i> (preposition) = quay lại. <b>Collocations / chunks</b>: nhắc lại.",
+   "example": {
+    "en": "<b>To go back to</b> what you were saying earlier …",
+    "vi": "<b>Quay lại</b> điều bạn nói lúc nãy…"
+   }
+  },
+  {
+   "word": "agreement",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈɡriːmənt/",
+   "def_en": "When people agree about or on something.",
+   "def_vi": "Khi mọi người đồng ý về điều gì.",
+   "gloss_vi": "sự thỏa thuận",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "disagreement <i>(n. bất đồng)</i>",
+   "grammar_vi": "<i>Agreement</i> (noun) = sự thỏa thuận. <b>Collocations / chunks</b>: <i>come to / reach / find (an) agreement</i>.",
+   "example": {
+    "en": "An <b>agreement</b> is when people agree about or on something.",
+    "vi": "<b>Thỏa thuận</b> là khi người ta đồng ý về điều gì."
+   }
+  },
+  {
+   "word": "compromise",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɒmprəmaɪz/",
+   "def_en": "An agreement where each side accepts less than it wanted.",
+   "def_vi": "Thỏa thuận mỗi bên nhận ít hơn mong muốn.",
+   "gloss_vi": "sự thỏa hiệp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Compromise</i> (noun) = sự thỏa hiệp. <b>Grammar</b>: cũng là động từ.",
+   "example": {
+    "en": "A <b>compromise</b> is an agreement where each side accepts less than it wanted",
+    "vi": "<b>Thỏa hiệp</b> là thỏa thuận mỗi bên chấp nhận ít hơn."
+   }
+  },
+  {
+   "word": "disagreement",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdɪsəˈɡriːmənt/",
+   "def_en": "When people do not agree.",
+   "def_vi": "Khi người ta không đồng ý.",
+   "gloss_vi": "sự bất đồng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "agreement <i>(n. thỏa thuận)</i>",
+   "grammar_vi": "<i>Disagreement</i> (noun) = sự bất đồng. <b>Collocations / chunks</b>: <i>have a disagreement with sb about sth</i>.",
+   "example": {
+    "en": "If people have a <b>disagreement</b> about something, they disagree about it.",
+    "vi": "Nếu người ta <b>bất đồng</b> về điều gì."
+   }
+  },
+  {
+   "word": "we’re running out of time",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/wɪə ˌrʌnɪŋ aʊt əv ˈtaɪm/",
+   "def_en": "There is not much time left.",
+   "def_vi": "Không còn nhiều thời gian.",
+   "gloss_vi": "sắp hết giờ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>We’re running out of time</i> (cl) = sắp hết giờ. <b>Collocations / chunks</b>: kết thúc cuộc họp.",
+   "example": {
+    "en": "<b>We’re running out of time</b>.",
+    "vi": "<b>Chúng ta sắp hết giờ</b>."
+   }
+  },
+  {
+   "word": "to sum up",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/tə ˌsʌm ˈʌp/",
+   "def_en": "Used to give a summary.",
+   "def_vi": "Dùng để tóm tắt.",
+   "gloss_vi": "tóm lại",
+   "synonyms": "in sum <i>(adv. tóm lại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>To sum up</i> (adverb) = tóm lại. <b>Collocations / chunks</b>: kết thúc cuộc họp.",
+   "example": {
+    "en": "<b>To sum up</b> …",
+    "vi": "<b>Tóm lại</b>…"
+   }
+  },
+  {
+   "word": "agree to disagree",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˌɡriː tə ˌdɪsəˈɡriː/",
+   "def_en": "To accept that you will not agree.",
+   "def_vi": "Chấp nhận không đồng ý với nhau.",
+   "gloss_vi": "chấp nhận bất đồng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Agree to disagree</i> (verb) = chấp nhận bất đồng. <b>Collocations / chunks</b>: cụm cố định.",
+   "example": {
+    "en": "We’re going to have to <b>agree to disagree</b>.",
+    "vi": "Chúng ta đành <b>chấp nhận bất đồng</b>."
+   }
+  },
+  {
+   "word": "I think that’s it",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/aɪ ˌθɪŋk ˈðæts ɪt/",
+   "def_en": "Used to say a meeting has finished.",
+   "def_vi": "Báo cuộc họp đã xong.",
+   "gloss_vi": "tôi nghĩ thế là xong",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>I think that’s it</i> (cl) = tôi nghĩ thế là xong. <b>Collocations / chunks</b>: kết thúc cuộc họp.",
+   "example": {
+    "en": "<b>I think that’s it</b>.",
+    "vi": "<b>Tôi nghĩ thế là xong</b>. Cảm ơn mọi người đã đến."
+   }
+  }
+ ]
+}
