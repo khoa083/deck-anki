@@ -1,0 +1,479 @@
+{
+ "book": "gva",
+ "unit": 44,
+ "title_vi": "Môi trường",
+ "theory_html": "<p><b>V1. Verb suffix -ify</b><br><i>V1. Hậu tố động từ -ify</i></p> <p><b>-ify</b> adds the meaning 'make' or 'become' to some adjectives: <b>purify</b> (= make pure), <b>simplify</b> (= make simple), <b>solidify</b> (= become solid); action nouns: <b>purification, simplification, solidification</b>; similar: <b>identify / identification, modify / modification, verify / verification</b>.</p><p><i><b>-ify</b> = làm cho / trở nên; danh từ <b>-ification</b>.</i></p>",
+ "items": [
+  {
+   "word": "coastal erosion",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkəʊstl ɪˈrəʊʒn/",
+   "def_en": "The gradual wearing away of land by the sea.",
+   "def_vi": "Xói mòn bờ biển.",
+   "gloss_vi": "xói lở bờ biển",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Coastal erosion</i> (noun) = xói lở bờ biển. <b>Word family</b>: erode (v.).",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Coastal erosion</b> has a negative effect on the environment where I live.",
+    "vi": "<b>Xói lở bờ biển</b> ảnh hưởng xấu đến môi trường nơi tôi sống."
+   }
+  },
+  {
+   "word": "intensive agriculture",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˌtensɪv ˈæɡrɪkʌltʃə(r)/",
+   "def_en": "Farming that produces as much as possible from the land, often using chemicals.",
+   "def_vi": "Nông nghiệp thâm canh.",
+   "gloss_vi": "thâm canh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Intensive agriculture</i> (noun) = thâm canh. <b>Word family</b>: intensify (v.).",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Intensive agriculture</b> is affecting Australia's coasts.",
+    "vi": "<b>Nông nghiệp thâm canh</b> đang ảnh hưởng đến bờ biển Úc."
+   }
+  },
+  {
+   "word": "oil spill",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɔɪl spɪl/",
+   "def_en": "An accident in which oil escapes into the sea.",
+   "def_vi": "Sự cố tràn dầu.",
+   "gloss_vi": "tràn dầu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Oil spill</i> (noun) = tràn dầu. <b>Collocations / chunks</b>: cụm danh từ cố định <i>oil spill</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Oil spills</b> harm marine life.",
+    "vi": "<b>Sự cố tràn dầu</b> gây hại cho sinh vật biển."
+   }
+  },
+  {
+   "word": "invasive species",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˌveɪsɪv ˈspiːʃiːz/",
+   "def_en": "Animals or plants that spread into a new area and harm native species.",
+   "def_vi": "Loài xâm lấn.",
+   "gloss_vi": "loài xâm lấn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Invasive species</i> (noun) = loài xâm lấn. <b>Collocations / chunks</b>: cụm danh từ cố định <i>invasive species</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Cane toads are an <b>invasive species</b> in Australia.",
+    "vi": "Cóc mía là một <b>loài xâm lấn</b> ở Úc."
+   }
+  },
+  {
+   "word": "deforestation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/diːˌfɒrɪˈsteɪʃn/",
+   "def_en": "The cutting down of large numbers of trees.",
+   "def_vi": "Nạn phá rừng.",
+   "gloss_vi": "phá rừng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "reforestation <i>(n. trồng lại rừng)</i>",
+   "grammar_vi": "<i>Deforestation</i> (noun) = phá rừng. <b>Grammar</b>: danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Deforestation</b> increases the salinity of the soil.",
+    "vi": "<b>Phá rừng</b> làm tăng độ mặn của đất."
+   }
+  },
+  {
+   "word": "salinity",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/səˈlɪnəti/",
+   "def_en": "The amount of salt in something.",
+   "def_vi": "Độ mặn.",
+   "gloss_vi": "độ mặn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Salinity</i> (noun) = độ mặn. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "When large numbers of trees are cut down, the <b>salinity</b> of the soil can greatly increase.",
+    "vi": "Khi chặt nhiều cây, <b>độ mặn</b> của đất có thể tăng mạnh."
+   }
+  },
+  {
+   "word": "overgrazing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌəʊvəˈɡreɪzɪŋ/",
+   "def_en": "Letting animals eat too much grass on land so plants cannot recover.",
+   "def_vi": "Chăn thả quá mức.",
+   "gloss_vi": "chăn thả quá mức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Overgrazing</i> (noun) = chăn thả quá mức. <b>Grammar</b>: danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Overgrazing</b> has modified vast areas of grasslands.",
+    "vi": "<b>Chăn thả quá mức</b> đã làm thay đổi đồng cỏ rộng lớn."
+   }
+  },
+  {
+   "word": "biodiversity",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+   "def_en": "The range of organisms in an environment.",
+   "def_vi": "Đa dạng sinh học.",
+   "gloss_vi": "đa dạng sinh học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Biodiversity</i> (noun) = đa dạng sinh học. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "Pasture mismanagement is one of the main pressures on <b>biodiversity</b>.",
+    "vi": "Quản lý đồng cỏ kém là một áp lực chính lên <b>đa dạng sinh học</b>."
+   }
+  },
+  {
+   "word": "unsustainable",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʌnsəˈsteɪnəbl/",
+   "def_en": "Unable to continue without damaging the environment.",
+   "def_vi": "Không bền vững.",
+   "gloss_vi": "không bền vững",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "sustainable <i>(adj. bền vững)</i>",
+   "grammar_vi": "<i>Unsustainable</i> (adjective) = không bền vững. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "The <b>unsustainable</b> use of grazed pasture",
+    "vi": "Việc sử dụng đồng cỏ <b>không bền vững</b>."
+   }
+  },
+  {
+   "word": "desertification",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˌzɜːtɪfɪˈkeɪʃn/",
+   "def_en": "The process by which land becomes desert.",
+   "def_vi": "Sa mạc hóa.",
+   "gloss_vi": "sa mạc hóa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Desertification</i> (noun) = sa mạc hóa. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "This kind of continued defoliation has led to <b>desertification</b> and erosion.",
+    "vi": "Việc trụi lá liên tục dẫn đến <b>sa mạc hóa</b> và xói mòn."
+   }
+  },
+  {
+   "word": "erosion",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪˈrəʊʒn/",
+   "def_en": "The gradual wearing away of soil or rock.",
+   "def_vi": "Sự xói mòn.",
+   "gloss_vi": "xói mòn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Erosion</i> (noun) = xói mòn. <b>Word family</b>: erode (v.).",
+   "example": {
+    "en": "has led to desertification and <b>erosion</b>",
+    "vi": "Dẫn đến sa mạc hóa và <b>xói mòn</b>."
+   }
+  },
+  {
+   "word": "erode",
+   "sense": "soil",
+   "pos": "verb",
+   "ipa": "/ɪˈrəʊd/",
+   "def_en": "To gradually wear away soil or rock.",
+   "def_vi": "Xói mòn.",
+   "gloss_vi": "làm xói mòn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Erode</i> (verb) = làm xói mòn. <b>Word family</b>: erosion (n.).",
+   "example": {
+    "en": "The stronger the wind and the heavier the rain, the more soil they can <b>erode</b>.",
+    "vi": "Gió càng mạnh, mưa càng to thì càng <b>làm xói mòn</b> nhiều đất."
+   }
+  },
+  {
+   "word": "regeneration",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˌdʒenəˈreɪʃn/",
+   "def_en": "The process of growing again or renewing.",
+   "def_vi": "Sự tái sinh.",
+   "gloss_vi": "tái sinh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Regeneration</i> (noun) = tái sinh. <b>Word family</b>: regenerate (v.).",
+   "example": {
+    "en": "slow <b>regeneration</b> of marine populations",
+    "vi": "Sự <b>tái sinh</b> chậm của các quần thể sinh vật biển."
+   }
+  },
+  {
+   "word": "depletion",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈpliːʃn/",
+   "def_en": "Reduction in the amount of something.",
+   "def_vi": "Sự cạn kiệt.",
+   "gloss_vi": "cạn kiệt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Depletion</i> (noun) = cạn kiệt. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "<b>depletion</b> of fish stocks by commercial over-exploitation",
+    "vi": "Sự <b>cạn kiệt</b> nguồn cá do khai thác thương mại quá mức."
+   }
+  },
+  {
+   "word": "pest",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pest/",
+   "def_en": "An animal or insect that damages crops or is a nuisance.",
+   "def_vi": "Loài gây hại.",
+   "gloss_vi": "sinh vật gây hại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pest</i> (noun) = sinh vật gây hại. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "It is estimated that Australia gains around 20 new <b>pests</b> each year.",
+    "vi": "Mỗi năm Úc có thêm khoảng 20 <b>loài gây hại</b> mới."
+   }
+  },
+  {
+   "word": "feral",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈferəl/",
+   "def_en": "(of animals) Wild, especially after escaping from domestic life.",
+   "def_vi": "Hoang dã (vốn là vật nuôi).",
+   "gloss_vi": "hoang hóa",
+   "synonyms": "wild <i>(adj. hoang dã)</i>",
+   "antonyms": "domestic <i>(adj. nuôi)</i>",
+   "grammar_vi": "<i>Feral</i> (adjective) = hoang hóa. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "<b>feral</b> cats and foxes have been a cause of local extinctions",
+    "vi": "<b>Mèo hoang</b> và cáo là nguyên nhân tuyệt chủng cục bộ."
+   }
+  },
+  {
+   "word": "predation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/prɪˈdeɪʃn/",
+   "def_en": "The killing and eating of other animals.",
+   "def_vi": "Sự săn mồi.",
+   "gloss_vi": "săn mồi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Predation</i> (noun) = săn mồi. <b>Word family</b>: predator (n.).",
+   "example": {
+    "en": "a combination of habitat modification and <b>predation</b>",
+    "vi": "Kết hợp biến đổi môi trường sống và <b>săn mồi</b>."
+   }
+  },
+  {
+   "word": "weed",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/wiːd/",
+   "def_en": "An unwanted wild plant.",
+   "def_vi": "Cỏ dại.",
+   "gloss_vi": "cỏ dại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Weed</i> (noun) = cỏ dại. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "<b>Weeds</b> are an equally significant pressure on ecosystems",
+    "vi": "<b>Cỏ dại</b> cũng là áp lực đáng kể với hệ sinh thái."
+   }
+  },
+  {
+   "word": "estuary",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈestʃuəri/",
+   "def_en": "The wide part of a river where it meets the sea.",
+   "def_vi": "Cửa sông.",
+   "gloss_vi": "cửa sông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Estuary</i> (noun) = cửa sông. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "particularly <b>estuaries</b> and environments near the shore",
+    "vi": "Nông nghiệp thâm canh ảnh hưởng đến <b>cửa sông</b>."
+   }
+  },
+  {
+   "word": "displace",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪsˈpleɪs/",
+   "def_en": "To force something out of its usual place.",
+   "def_vi": "Chiếm chỗ, đẩy ra.",
+   "gloss_vi": "đẩy lùi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Displace</i> (verb) = đẩy lùi. <b>Grammar</b>: động từ.",
+   "example": {
+    "en": "could <b>displace</b> much valuable biodiversity",
+    "vi": "Đô thị lớn có thể <b>đẩy lùi</b> đa dạng sinh học quý giá."
+   }
+  },
+  {
+   "word": "modify",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈmɒdɪfaɪ/",
+   "def_en": "To change something slightly.",
+   "def_vi": "Biến đổi, sửa đổi.",
+   "gloss_vi": "biến đổi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Modify</i> (verb) = biến đổi. <b>Word family</b>: modification (n.); hậu tố <i>-ify</i>.",
+   "example": {
+    "en": "Humans have always <b>modified</b> their environment in order to survive and protect themselves.",
+    "vi": "Con người luôn <b>biến đổi</b> môi trường để tồn tại."
+   }
+  },
+  {
+   "word": "intensify",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪnˈtensɪfaɪ/",
+   "def_en": "To make something stronger or more extreme.",
+   "def_vi": "Tăng cường.",
+   "gloss_vi": "tăng cường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Intensify</i> (verb) = tăng cường. <b>Word family</b>: intensive (adj.).",
+   "example": {
+    "en": "we should <b>intensify</b> our efforts to slow the rate of climate change",
+    "vi": "Ta nên <b>tăng cường</b> nỗ lực làm chậm biến đổi khí hậu."
+   }
+  },
+  {
+   "word": "overpopulated",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌəʊvəˈpɒpjuleɪtɪd/",
+   "def_en": "Having too many people.",
+   "def_vi": "Quá đông dân.",
+   "gloss_vi": "quá tải dân số",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Overpopulated</i> (adjective) = quá tải dân số. <b>Word family</b>: overpopulation (n.).",
+   "example": {
+    "en": "food supplies will be insufficient to meet the needs of our <b>overpopulated</b> planet",
+    "vi": "Lương thực sẽ không đủ cho hành tinh <b>quá đông dân</b>."
+   }
+  },
+  {
+   "word": "purify",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈpjʊərɪfaɪ/",
+   "def_en": "To make pure.",
+   "def_vi": "Làm sạch, tinh lọc.",
+   "gloss_vi": "lọc sạch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Purify</i> (verb) = lọc sạch. <b>Word family</b>: purification (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "Plants help to <b>purify</b> the air.",
+    "vi": "Cây giúp <b>lọc sạch</b> không khí."
+   }
+  },
+  {
+   "word": "reforestation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌriːfɒrɪˈsteɪʃn/",
+   "def_en": "Planting trees where they have been cut down.",
+   "def_vi": "Trồng lại rừng.",
+   "gloss_vi": "tái trồng rừng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "deforestation <i>(n. phá rừng)</i>",
+   "grammar_vi": "<i>Reforestation</i> (noun) = tái trồng rừng. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "A programme of <b>reforestation</b> in India is aimed at preventing soil erosion",
+    "vi": "Chương trình <b>trồng lại rừng</b> ở Ấn Độ nhằm chống xói mòn đất."
+   }
+  },
+  {
+   "word": "biodegradable",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌbaɪəʊdɪˈɡreɪdəbl/",
+   "def_en": "Able to be broken down by bacteria into safe substances.",
+   "def_vi": "Phân hủy sinh học.",
+   "gloss_vi": "phân hủy sinh học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Biodegradable</i> (adjective) = phân hủy sinh học. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "Ideally, waste that is put in landfill sites should be <b>biodegradable</b>.",
+    "vi": "Lý tưởng là rác chôn lấp nên <b>phân hủy sinh học</b> được."
+   }
+  },
+  {
+   "word": "conservation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkɒnsəˈveɪʃn/",
+   "def_en": "Long-term protection and sustainable management of natural resources.",
+   "def_vi": "Sự bảo tồn.",
+   "gloss_vi": "bảo tồn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Conservation</i> (noun) = bảo tồn. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "Wildlife <b>conservation</b> is becoming increasingly important",
+    "vi": "<b>Bảo tồn</b> động vật hoang dã ngày càng quan trọng."
+   }
+  },
+  {
+   "word": "recyclable",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌriːˈsaɪkləbl/",
+   "def_en": "Able to be processed and used again.",
+   "def_vi": "Có thể tái chế.",
+   "gloss_vi": "tái chế được",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Recyclable</i> (adjective) = tái chế được. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "have a symbol which tells consumers that they are <b>recyclable</b>",
+    "vi": "Bao bì có ký hiệu cho biết chúng <b>tái chế được</b>."
+   }
+  },
+  {
+   "word": "renewable",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/rɪˈnjuːəbl/",
+   "def_en": "Able to be replaced or restored naturally.",
+   "def_vi": "Tái tạo được.",
+   "gloss_vi": "tái tạo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Renewable</i> (adjective) = tái tạo. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "Solar power and wind power are <b>renewable</b> energy sources.",
+    "vi": "Năng lượng mặt trời và gió là nguồn năng lượng <b>tái tạo</b>."
+   }
+  }
+ ]
+}
