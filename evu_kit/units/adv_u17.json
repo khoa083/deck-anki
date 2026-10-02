@@ -1,0 +1,671 @@
+{
+ "book": "adv",
+ "unit": 17,
+ "title_vi": "Thịnh hành: quần áo và thời trang",
+ "theory_html": "<p><b>A. Dressing for work</b><br><i>A. Ăn mặc đi làm</i></p> <p>Students often look <b>scruffy</b>; in business you learn about <b>dress codes</b>. Business <b>attire</b> projects a professional image; clothing that <b>reveals</b> too much <b>cleavage</b>, back or <b>midriff</b> is not appropriate. See-through <b>fabrics</b> should be avoided; nobody wants to look <b>frumpy</b>. <b>Outfits, suits, accessories, cufflinks</b> are <b>invaluable</b>. Some offices have <b>dress-down days</b>; other jobs require <b>uniforms</b> or <b>protective clothing</b> such as <b>overalls</b> and <b>safety helmets</b>.</p><p><i>Sinh viên thường luộm thuộm; đi làm cần biết quy định trang phục. Trang phục công sở phải chuyên nghiệp, không hở hang; tránh vải xuyên thấu nhưng cũng đừng quê mùa. Có ngày mặc thoải mái; một số nghề cần đồng phục, đồ bảo hộ.</i></p> <p><b>LH. Language help</b><br><i>LH. Lưu ý ngôn ngữ</i></p> <p><b>Invaluable</b> means extremely valuable. The opposite of <b>valuable</b> is <b>valueless</b> or <b>without value</b>.</p><p><i><b>Invaluable</b> = vô giá; trái nghĩa của <b>valuable</b> là <b>valueless</b>.</i></p> <p><b>B. Words and expressions about clothes</b><br><i>B. Từ và cụm về quần áo</i></p> <p><b>revealing, skimpy, baggy, clingy, chic, smart-casual, dolled up / dressed up / done up to the nines, designer (label) clothes, on the High Street, made-to-measure, off the peg/rack</b>.</p><p><i><b>hở hang, cũn cỡn, rộng thùng thình, bó sát, sành điệu, lịch sự thoải mái, diện bảnh, hàng hiệu, ở phố mua sắm bình dân, may đo, may sẵn</b>.</i></p> <p><b>C. Being in fashion</b><br><i>C. Hợp thời trang</i></p> <p><b>all the rage, the very latest fashion, the height of fashion, up-to-the-minute, set a new trend, trend-setter, on trend, must-have item, catch on, slave to fashion</b> (disapproving), <b>suit</b>.</p><p><i><b>rất thịnh hành, mốt mới nhất, đỉnh cao thời trang, cập nhật nhất, tạo xu hướng, người tạo xu hướng, hợp mốt, món phải có, trở nên phổ biến, nô lệ thời trang, hợp với</b>.</i></p> <p><b>D. Clothes in metaphors</b><br><i>D. Quần áo trong ẩn dụ</i></p> <p><b>off the cuff, hand in glove with, on a shoestring, no frills, put someone in a straitjacket, draw a veil over, have something up your sleeve</b>.</p><p><i><b>ứng khẩu, cấu kết với, chi tiêu dè sẻn, đơn giản, trói buộc, lờ đi không nhắc, có ý định bí mật</b>.</i></p>",
+ "items": [
+  {
+   "word": "scruffy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈskrʌfi/",
+   "def_en": "Untidy.",
+   "def_vi": "Luộm thuộm.",
+   "gloss_vi": "luộm thuộm",
+   "synonyms": "unkempt <i>(adj. bừa bộn)</i>",
+   "antonyms": "smart <i>(adj. gọn gàng)</i>",
+   "grammar_vi": "<i>Scruffy</i> (adjective) = luộm thuộm. <b>Grammar</b>: <i>scruff</i> (n.) = người ăn mặc luộm thuộm.",
+   "example": {
+    "en": "They often look <b>scruffy</b> in their T-shirts and jeans.",
+    "vi": "Sinh viên thường trông <b>luộm thuộm</b> trong áo phông và quần jean."
+   }
+  },
+  {
+   "word": "dress code",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdres kəʊd/",
+   "def_en": "The accepted way of dressing in a particular social group.",
+   "def_vi": "Cách ăn mặc được chấp nhận trong một nhóm.",
+   "gloss_vi": "quy định trang phục",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dress code</i> (noun) = quy định trang phục. <b>Collocations / chunks</b>: cụm danh từ cố định <i>dress code</i>.",
+   "example": {
+    "en": "They have to learn about <b>dress codes</b> in the workplace.",
+    "vi": "Họ phải học về <b>quy định trang phục</b> nơi làm việc."
+   }
+  },
+  {
+   "word": "attire",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈtaɪə(r)/",
+   "def_en": "Clothing (formal).",
+   "def_vi": "Trang phục (trang trọng).",
+   "gloss_vi": "trang phục",
+   "synonyms": "clothing <i>(n. quần áo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Attire</i> (noun) = trang phục. <b>Grammar</b>: trang trọng.",
+   "example": {
+    "en": "Business <b>attire</b> needs to project a professional image.",
+    "vi": "<b>Trang phục</b> công sở cần thể hiện hình ảnh chuyên nghiệp."
+   }
+  },
+  {
+   "word": "reveal",
+   "sense": "show",
+   "pos": "verb",
+   "ipa": "/rɪˈviːl/",
+   "def_en": "To show.",
+   "def_vi": "Để lộ.",
+   "gloss_vi": "để lộ",
+   "synonyms": "expose <i>(v. phơi bày)</i>",
+   "antonyms": "conceal <i>(v. che giấu)</i>",
+   "grammar_vi": "<i>Reveal</i> (verb) = để lộ. <b>Grammar</b>: <i>revealing</i> (adj.).",
+   "example": {
+    "en": "clothing that <b>reveals</b> too much",
+    "vi": "Quần áo <b>để lộ</b> quá nhiều là không phù hợp."
+   }
+  },
+  {
+   "word": "cleavage",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkliːvɪdʒ/",
+   "def_en": "The space between a woman’s breasts.",
+   "def_vi": "Khe ngực phụ nữ.",
+   "gloss_vi": "khe ngực",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cleavage</i> (noun) = khe ngực. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "clothing that reveals too much <b>cleavage</b> (for women)",
+    "vi": "Quần áo để lộ quá nhiều <b>khe ngực</b> là không phù hợp."
+   }
+  },
+  {
+   "word": "midriff",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɪdrɪf/",
+   "def_en": "The part of the body between the chest and the waist.",
+   "def_vi": "Phần thân giữa ngực và eo.",
+   "gloss_vi": "vùng bụng trên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Midriff</i> (noun) = vùng bụng trên. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "your back, your chest or your <b>midriff</b> is not appropriate",
+    "vi": "Để lộ lưng, ngực hay <b>bụng</b> là không phù hợp."
+   }
+  },
+  {
+   "word": "fabric",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfæbrɪk/",
+   "def_en": "Material for making clothes.",
+   "def_vi": "Vải may quần áo.",
+   "gloss_vi": "vải",
+   "synonyms": "material <i>(n. chất liệu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fabric</i> (noun) = vải. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "For women, see-through <b>fabrics</b> should be avoided.",
+    "vi": "Nên tránh <b>vải</b> xuyên thấu."
+   }
+  },
+  {
+   "word": "frumpy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈfrʌmpi/",
+   "def_en": "Old-fashioned and boring.",
+   "def_vi": "Lỗi thời và nhàm chán.",
+   "gloss_vi": "quê mùa",
+   "synonyms": "dowdy <i>(adj. xuề xòa)</i>",
+   "antonyms": "chic <i>(adj. sành điệu)</i>",
+   "grammar_vi": "<i>Frumpy</i> (adjective) = quê mùa. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "Nobody wants to look <b>frumpy</b>.",
+    "vi": "Chẳng ai muốn trông <b>quê mùa</b>."
+   }
+  },
+  {
+   "word": "outfit",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈaʊtfɪt/",
+   "def_en": "A set of clothes for a particular occasion.",
+   "def_vi": "Bộ quần áo cho dịp nào đó.",
+   "gloss_vi": "bộ trang phục",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Outfit</i> (noun) = bộ trang phục. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "Women often need a good choice of <b>outfits</b>.",
+    "vi": "Phụ nữ thường cần nhiều <b>bộ trang phục</b>."
+   }
+  },
+  {
+   "word": "invaluable",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪnˈvæljuəbl/",
+   "def_en": "Extremely useful or valuable.",
+   "def_vi": "Cực kỳ hữu ích, quý giá.",
+   "gloss_vi": "vô giá",
+   "synonyms": "priceless <i>(adj. vô giá)</i>",
+   "antonyms": "valueless <i>(adj. vô giá trị)</i>",
+   "grammar_vi": "<i>Invaluable</i> (adjective) = vô giá. <b>Grammar</b>: KHÔNG phải nghĩa phủ định.",
+   "example": {
+    "en": "Men find a good range of suits, ties and casual trousers and jackets <b>invaluable</b>.",
+    "vi": "Đàn ông thấy nhiều bộ vest, cà vạt là <b>vô giá</b>."
+   }
+  },
+  {
+   "word": "accessories",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əkˈsesəriz/",
+   "def_en": "Extra items added to clothing for useful or decorative purposes.",
+   "def_vi": "Đồ thêm vào trang phục để dùng hay trang trí.",
+   "gloss_vi": "phụ kiện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Accessories</i> (noun) = phụ kiện. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "<b>Accessories</b>, e.g. jewellery, shoes and cufflinks, can also enhance the professional look.",
+    "vi": "<b>Phụ kiện</b> như trang sức, giày cũng nâng tầm vẻ chuyên nghiệp."
+   }
+  },
+  {
+   "word": "cufflinks",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkʌflɪŋks/",
+   "def_en": "Decorative objects used to fasten the cuffs on men’s shirts.",
+   "def_vi": "Vật trang trí cài cổ tay áo sơ mi nam.",
+   "gloss_vi": "khuy măng sét",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cufflinks</i> (noun) = khuy măng sét. <b>Grammar</b>: số nhiều.",
+   "example": {
+    "en": "jewellery, shoes and <b>cufflinks</b>",
+    "vi": "Trang sức, giày và <b>khuy măng sét</b>."
+   }
+  },
+  {
+   "word": "dress-down day",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdres ˈdaʊn deɪ/",
+   "def_en": "A day when people wear less formal clothes at work.",
+   "def_vi": "Ngày mặc đồ thoải mái ở nơi làm.",
+   "gloss_vi": "ngày mặc thường phục",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dress-down day</i> (noun) = ngày mặc thường phục. <b>Collocations / chunks</b>: cụm danh từ cố định <i>dress-down day</i>.",
+   "example": {
+    "en": "Some offices have <b>dress-down days</b>, often Fridays.",
+    "vi": "Một số văn phòng có <b>ngày mặc thường phục</b>."
+   }
+  },
+  {
+   "word": "protective clothing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/prəˌtektɪv ˈkləʊðɪŋ/",
+   "def_en": "Clothes worn to protect you at work.",
+   "def_vi": "Quần áo bảo vệ khi làm việc.",
+   "gloss_vi": "đồ bảo hộ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Protective clothing</i> (noun) = đồ bảo hộ. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "People are required to wear uniforms, or <b>protective clothing</b>.",
+    "vi": "Người ta phải mặc <b>đồ bảo hộ</b>."
+   }
+  },
+  {
+   "word": "safety helmet",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈseɪfti ˌhelmɪt/",
+   "def_en": "A hat to protect the head.",
+   "def_vi": "Mũ bảo vệ đầu.",
+   "gloss_vi": "mũ bảo hộ",
+   "synonyms": "hard hat <i>(n. mũ cứng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Safety helmet</i> (noun) = mũ bảo hộ. <b>Collocations / chunks</b>: cụm danh từ cố định <i>safety helmet</i>.",
+   "example": {
+    "en": "protective clothing such as overalls and <b>safety helmets</b>",
+    "vi": "Đồ bảo hộ như quần áo lao động và <b>mũ bảo hộ</b>."
+   }
+  },
+  {
+   "word": "skimpy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈskɪmpi/",
+   "def_en": "Short, using little material.",
+   "def_vi": "Ngắn, ít vải.",
+   "gloss_vi": "cũn cỡn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Skimpy</i> (adjective) = cũn cỡn. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "Clothes can be described as revealing, <b>skimpy</b>, baggy, clingy, or chic.",
+    "vi": "Quần áo có thể được mô tả là <b>cũn cỡn</b>."
+   }
+  },
+  {
+   "word": "baggy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈbæɡi/",
+   "def_en": "Loose, e.g. a sweater.",
+   "def_vi": "Rộng, như áo len.",
+   "gloss_vi": "rộng thùng thình",
+   "synonyms": "loose <i>(adj. rộng)</i>",
+   "antonyms": "tight <i>(adj. bó)</i>",
+   "grammar_vi": "<i>Baggy</i> (adjective) = rộng thùng thình. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "Clothes can be described as revealing, skimpy, <b>baggy</b>, clingy, or chic.",
+    "vi": "Một chiếc áo len <b>rộng thùng thình</b>."
+   }
+  },
+  {
+   "word": "clingy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈklɪŋi/",
+   "def_en": "Close-fitting.",
+   "def_vi": "Ôm sát người.",
+   "gloss_vi": "bó sát",
+   "synonyms": "tight <i>(adj. bó)</i>",
+   "antonyms": "baggy <i>(adj. rộng)</i>",
+   "grammar_vi": "<i>Clingy</i> (adjective) = bó sát. <b>Common mistakes</b>: cũng = bám người (tính cách).",
+   "example": {
+    "en": "Clothes can be described as revealing, skimpy, baggy, <b>clingy</b>, or chic.",
+    "vi": "Quần áo có thể <b>bó sát</b>."
+   }
+  },
+  {
+   "word": "chic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ʃiːk/",
+   "def_en": "Modern and stylish.",
+   "def_vi": "Hiện đại, phong cách.",
+   "gloss_vi": "sành điệu",
+   "synonyms": "stylish <i>(adj. phong cách)</i>",
+   "antonyms": "frumpy <i>(adj. quê mùa)</i>",
+   "grammar_vi": "<i>Chic</i> (adjective) = sành điệu. <b>Grammar</b>: /ʃiːk/.",
+   "example": {
+    "en": "Clothes can be described as revealing, skimpy, baggy, clingy, or <b>chic</b>.",
+    "vi": "Quần áo có thể <b>sành điệu</b>."
+   }
+  },
+  {
+   "word": "smart-casual",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌsmɑːt ˈkæʒuəl/",
+   "def_en": "Informal but clean, tidy and stylish.",
+   "def_vi": "Không trang trọng nhưng sạch, gọn, phong cách.",
+   "gloss_vi": "lịch sự thoải mái",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Smart-casual</i> (adjective) = lịch sự thoải mái. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "An invitation will ask people to dress in <b>smart-casual</b> clothes.",
+    "vi": "Thiệp mời yêu cầu mặc đồ <b>lịch sự thoải mái</b>."
+   }
+  },
+  {
+   "word": "done up to the nines",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌdʌn ʌp tə ðə ˈnaɪnz/",
+   "def_en": "Dressed in a very fashionable or very formal way.",
+   "def_vi": "Ăn diện rất mốt hoặc rất trang trọng.",
+   "gloss_vi": "diện bảnh",
+   "synonyms": "dressed up <i>(adj. diện)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Done up to the nines</i> (adjective) = diện bảnh. <b>Grammar</b>: cũng <i>dolled up, dressed up</i>.",
+   "example": {
+    "en": "To be dolled (up) / dressed up / <b>done up to the nines</b> means to be dressed in a very fashionable or very formal way.",
+    "vi": "Cô ấy <b>diện bảnh</b> cho bữa tiệc."
+   }
+  },
+  {
+   "word": "designer clothes",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˌzaɪnə ˈkləʊðz/",
+   "def_en": "Clothes made by a famous designer.",
+   "def_vi": "Quần áo của nhà thiết kế nổi tiếng.",
+   "gloss_vi": "quần áo hàng hiệu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Designer clothes</i> (noun) = quần áo hàng hiệu. <b>Grammar</b>: cũng <i>designer label clothes</i>.",
+   "example": {
+    "en": "Some people choose to buy <b>designer (label) clothes</b>.",
+    "vi": "Một số người chọn mua <b>quần áo hàng hiệu</b>."
+   }
+  },
+  {
+   "word": "on the High Street",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ɒn ðə ˈhaɪ striːt/",
+   "def_en": "From ordinary, much less expensive shops.",
+   "def_vi": "Từ các cửa hàng bình dân.",
+   "gloss_vi": "ở cửa hàng bình dân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>On the High Street</i> (adverb) = ở cửa hàng bình dân. <b>Grammar</b>: Anh-Anh.",
+   "example": {
+    "en": "Most people prefer to buy clothes more cheaply <b>on the High Street</b>.",
+    "vi": "Hầu hết mọi người mua quần áo rẻ hơn <b>ở cửa hàng bình dân</b>."
+   }
+  },
+  {
+   "word": "made-to-measure",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌmeɪd tə ˈmeʒə(r)/",
+   "def_en": "Made especially for one person.",
+   "def_vi": "May riêng cho một người.",
+   "gloss_vi": "may đo",
+   "synonyms": "tailor-made <i>(adj. may đo)</i>",
+   "antonyms": "off the peg <i>(adj. may sẵn)</i>",
+   "grammar_vi": "<i>Made-to-measure</i> (adjective) = may đo. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "People who can afford to sometimes have clothes <b>made-to-measure</b>.",
+    "vi": "Người có tiền đôi khi may đồ <b>may đo</b>."
+   }
+  },
+  {
+   "word": "off the peg",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɒf ðə ˈpeɡ/",
+   "def_en": "Ready-made.",
+   "def_vi": "May sẵn.",
+   "gloss_vi": "may sẵn",
+   "synonyms": "ready-made <i>(adj. làm sẵn)</i>",
+   "antonyms": "made-to-measure <i>(adj. may đo)</i>",
+   "grammar_vi": "<i>Off the peg</i> (adjective) = may sẵn. <b>Grammar</b>: Mỹ <i>off the rack</i>.",
+   "example": {
+    "en": "More often people buy their clothes <b>off the peg</b>.",
+    "vi": "Thường người ta mua quần áo <b>may sẵn</b>."
+   }
+  },
+  {
+   "word": "all the rage",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɔːl ðə ˈreɪdʒ/",
+   "def_en": "Very fashionable.",
+   "def_vi": "Rất thịnh hành.",
+   "gloss_vi": "rất thịnh hành",
+   "synonyms": "trendy <i>(adj. hợp mốt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>All the rage</i> (adjective) = rất thịnh hành. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "These jackets are <b>all the rage</b>.",
+    "vi": "Những chiếc áo khoác này đang <b>rất thịnh hành</b>."
+   }
+  },
+  {
+   "word": "the height of fashion",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ðə ˌhaɪt əv ˈfæʃn/",
+   "def_en": "Very fashionable.",
+   "def_vi": "Rất hợp thời trang.",
+   "gloss_vi": "đỉnh cao thời trang",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The height of fashion</i> (noun) = đỉnh cao thời trang. <b>Collocations / chunks</b>: cụm danh từ cố định <i>the height of fashion</i>.",
+   "example": {
+    "en": "Dresses like this are <b>the height of fashion</b>.",
+    "vi": "Váy như thế này là <b>đỉnh cao thời trang</b>."
+   }
+  },
+  {
+   "word": "up-to-the-minute",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʌp tə ðə ˈmɪnɪt/",
+   "def_en": "Dealing with the most recent trends.",
+   "def_vi": "Cập nhật xu hướng mới nhất.",
+   "gloss_vi": "cập nhật nhất",
+   "synonyms": "latest <i>(adj. mới nhất)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Up-to-the-minute</i> (adjective) = cập nhật nhất. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "The magazine has <b>up-to-the-minute</b> fashion articles.",
+    "vi": "Tạp chí có những bài thời trang <b>cập nhật nhất</b>."
+   }
+  },
+  {
+   "word": "set a new trend",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌset ə ˌnjuː ˈtrend/",
+   "def_en": "To start a new fashion.",
+   "def_vi": "Khởi đầu mốt mới.",
+   "gloss_vi": "tạo xu hướng mới",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Set a new trend</i> (verb) = tạo xu hướng mới. <b>Grammar</b>: động từ nhiều từ <i>set a new trend</i>.",
+   "example": {
+    "en": "The film has <b>set a new trend</b> for the silk top the star wore.",
+    "vi": "Bộ phim <b>tạo xu hướng mới</b> cho chiếc áo lụa."
+   }
+  },
+  {
+   "word": "trend-setter",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtrend setə(r)/",
+   "def_en": "A person whose style is followed by others.",
+   "def_vi": "Người có phong cách được người khác theo.",
+   "gloss_vi": "người tạo xu hướng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trend-setter</i> (noun) = người tạo xu hướng. <b>Grammar</b>: danh từ ghép <i>trend</i> + <i>setter</i>.",
+   "example": {
+    "en": "A <b>trend-setter</b> is a person whose style is followed by others.",
+    "vi": "<b>Người tạo xu hướng</b> là người có phong cách được người khác theo."
+   }
+  },
+  {
+   "word": "on trend",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɒn ˈtrend/",
+   "def_en": "Fashionable.",
+   "def_vi": "Hợp mốt.",
+   "gloss_vi": "hợp mốt",
+   "synonyms": "fashionable <i>(adj. hợp thời)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>On trend</i> (adjective) = hợp mốt. <b>Collocations / chunks</b>: cụm tính từ cố định <i>on trend</i>.",
+   "example": {
+    "en": "High heels are <b>on trend</b> this year.",
+    "vi": "Giày cao gót đang <b>hợp mốt</b> năm nay."
+   }
+  },
+  {
+   "word": "must-have item",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmʌst hæv ˈaɪtəm/",
+   "def_en": "A thing that everyone wants.",
+   "def_vi": "Thứ ai cũng muốn.",
+   "gloss_vi": "món phải có",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Must-have item</i> (noun) = món phải có. <b>Collocations / chunks</b>: cụm danh từ cố định <i>must-have item</i>.",
+   "example": {
+    "en": "Large handbags are this year’s <b>must-have item</b>.",
+    "vi": "Túi xách lớn là <b>món phải có</b> năm nay."
+   }
+  },
+  {
+   "word": "catch on",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkætʃ ˈɒn/",
+   "def_en": "(Of a fashion) to become popular.",
+   "def_vi": "(Mốt) trở nên phổ biến.",
+   "gloss_vi": "trở nên thịnh hành",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Catch on</i> (verb) = trở nên thịnh hành. <b>Common mistakes</b>: cũng = hiểu ra.",
+   "example": {
+    "en": "If a fashion/trend <b>catches on</b>, it becomes popular.",
+    "vi": "Nếu một mốt <b>trở nên thịnh hành</b>, nó phổ biến."
+   }
+  },
+  {
+   "word": "slave to fashion",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsleɪv tə ˈfæʃn/",
+   "def_en": "Someone strongly influenced by fashion (disapproving).",
+   "def_vi": "Người bị thời trang chi phối mạnh (chê).",
+   "gloss_vi": "nô lệ thời trang",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Slave to fashion</i> (noun) = nô lệ thời trang. <b>Grammar</b>: mang ý chê.",
+   "example": {
+    "en": "A <b>slave to fashion</b> is someone who is strongly influenced by fashion.",
+    "vi": "<b>Nô lệ thời trang</b> là người bị thời trang chi phối."
+   }
+  },
+  {
+   "word": "off the cuff",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌɒf ðə ˈkʌf/",
+   "def_en": "Without having prepared anything.",
+   "def_vi": "Không chuẩn bị trước.",
+   "gloss_vi": "ứng khẩu",
+   "synonyms": "impromptu <i>(adv. ngẫu hứng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Off the cuff</i> (adverb) = ứng khẩu. <b>Grammar</b>: cũng tính từ <i>off-the-cuff remarks</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He spoke <b>off the cuff</b>.",
+    "vi": "Anh ấy phát biểu <b>ứng khẩu</b>."
+   }
+  },
+  {
+   "word": "hand in glove with",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌhænd ɪn ˈɡlʌv wɪð/",
+   "def_en": "Having a close working relationship with someone.",
+   "def_vi": "Có quan hệ làm việc rất chặt với ai.",
+   "gloss_vi": "cấu kết với",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hand in glove with</i> (adjective) = cấu kết với. <b>Grammar</b>: thường hàm ý tiêu cực.",
+   "ex_kit": true,
+   "example": {
+    "en": "The police were suspected of being <b>hand in glove with</b> the criminals.",
+    "vi": "Cảnh sát bị nghi <b>cấu kết với</b> bọn tội phạm."
+   }
+  },
+  {
+   "word": "on a shoestring",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ɒn ə ˈʃuːstrɪŋ/",
+   "def_en": "Spending as little as possible.",
+   "def_vi": "Chi tiêu ít nhất có thể.",
+   "gloss_vi": "với ngân sách eo hẹp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>On a shoestring</i> (adverb) = với ngân sách eo hẹp. <b>Collocations / chunks</b>: cụm trạng từ cố định <i>on a shoestring</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "They made the film <b>on a shoestring</b>.",
+    "vi": "Họ làm phim <b>với ngân sách eo hẹp</b>."
+   }
+  },
+  {
+   "word": "no frills",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌnəʊ ˈfrɪlz/",
+   "def_en": "Simple and plain.",
+   "def_vi": "Đơn giản, không cầu kỳ.",
+   "gloss_vi": "đơn giản, không phụ phí",
+   "synonyms": "basic <i>(adj. cơ bản)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>No frills</i> (adjective) = đơn giản, không phụ phí. <b>Grammar</b>: cũng viết <i>no-frills</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>no frills</b> airline",
+    "vi": "Một hãng hàng không <b>giá rẻ không dịch vụ thêm</b>."
+   }
+  },
+  {
+   "word": "put someone in a straitjacket",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌpʊt ˌsʌmwʌn ɪn ə ˈstreɪtdʒækɪt/",
+   "def_en": "To restrict someone’s freedom.",
+   "def_vi": "Hạn chế tự do của ai.",
+   "gloss_vi": "trói buộc",
+   "synonyms": "restrict <i>(v. hạn chế)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Put someone in a straitjacket</i> (verb) = trói buộc. <b>Grammar</b>: động từ nhiều từ <i>put someone in a straitjacket</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The new rules <b>put teachers in a straitjacket</b>.",
+    "vi": "Quy định mới <b>trói buộc</b> giáo viên."
+   }
+  },
+  {
+   "word": "draw a veil over",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌdrɔː ə ˈveɪl əʊvə(r)/",
+   "def_en": "Not to talk about something.",
+   "def_vi": "Không nhắc đến điều gì.",
+   "gloss_vi": "lờ đi, không nhắc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Draw a veil over</i> (verb) = lờ đi, không nhắc. <b>Grammar</b>: động từ nhiều từ <i>draw a veil over</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Let’s <b>draw a veil over</b> what happened last night.",
+    "vi": "Hãy <b>lờ đi</b> chuyện tối qua."
+   }
+  },
+  {
+   "word": "have something up your sleeve",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/hæv ˌsʌmθɪŋ ʌp jɔː ˈsliːv/",
+   "def_en": "To have a secret plan or idea.",
+   "def_vi": "Có kế hoạch, ý tưởng bí mật.",
+   "gloss_vi": "có sẵn kế sách",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have something up your sleeve</i> (verb) = có sẵn kế sách. <b>Grammar</b>: tính từ sở hữu đổi theo chủ ngữ.",
+   "ex_kit": true,
+   "example": {
+    "en": "She always <b>has something up her sleeve</b>.",
+    "vi": "Cô ấy luôn <b>có sẵn kế sách</b>."
+   }
+  }
+ ]
+}

@@ -1,0 +1,360 @@
+{
+ "book": "adv",
+ "unit": 18,
+ "title_vi": "Kiểu nhà, lối sống",
+ "theory_html": "<p><b>A. Home styles</b><br><i>A. Các kiểu nhà</i></p> <p><b>squat</b> [empty building where people live without permission], <b>hovel</b> [very small, dirty house in bad condition], <b>furnished/unfurnished, penthouse, council/social housing, council estate, high-rise (flats) / tower blocks, granny flat</b>.</p><p><i><b>nhà chiếm dụng, túp lều tồi tàn, có/không đồ đạc, căn hộ áp mái sang trọng, nhà ở xã hội, khu nhà ở xã hội, nhà cao tầng, căn hộ cho ông bà</b>.</i></p> <p><b>B. Idioms and expressions relating to house and home</b><br><i>B. Thành ngữ về nhà cửa</i></p> <p><b>get on like a house on fire, a household word/name, on the house, home truths, nothing to write home about, hit home, make yourself at home</b>.</p><p><i><b>rất hợp nhau, cái tên ai cũng biết, miễn phí, sự thật mất lòng, chẳng có gì đặc biệt, thấm thía, cứ tự nhiên như ở nhà</b>.</i></p> <p><b>C. Idioms and metaphors relating to life</b><br><i>C. Thành ngữ về cuộc sống</i></p> <p><b>life in the fast lane, have the time of your life, get a new lease of life, a dog’s life, lead a sheltered life, (not) be a matter of life and death, take your life in your hands, breathe new life into</b>.</p><p><i><b>cuộc sống sôi động, có quãng thời gian tuyệt vời nhất, như được hồi sinh, cuộc sống khổ cực, sống trong vòng tay bao bọc, (không) phải chuyện sống chết, liều mạng, thổi luồng sinh khí mới</b>.</i></p>",
+ "items": [
+  {
+   "word": "squat",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/skwɒt/",
+   "def_en": "An empty building where people start living without the owner’s permission.",
+   "def_vi": "Tòa nhà bỏ trống bị người ở chiếm dụng không phép.",
+   "gloss_vi": "nhà chiếm dụng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Squat</i> (noun) = nhà chiếm dụng. <b>Grammar</b>: <i>squatter</i> (n.).",
+   "example": {
+    "en": "A <b>squat</b> is an empty building where people start living without the owner’s permission.",
+    "vi": "<b>Nhà chiếm dụng</b> là tòa nhà trống có người ở không phép."
+   }
+  },
+  {
+   "word": "hovel",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhɒvl/",
+   "def_en": "A very small, dirty house or flat in a bad condition.",
+   "def_vi": "Nhà nhỏ, bẩn, xuống cấp.",
+   "gloss_vi": "túp lều tồi tàn",
+   "synonyms": "shack <i>(n. lán)</i>",
+   "antonyms": "mansion <i>(n. dinh thự)</i>",
+   "grammar_vi": "<i>Hovel</i> (noun) = túp lều tồi tàn. <b>Grammar</b>: /ˈhɒvl/.",
+   "example": {
+    "en": "A <b>hovel</b> is a very small, dirty house or flat in a bad (or run down) condition.",
+    "vi": "<b>Túp lều tồi tàn</b> là ngôi nhà rất nhỏ và bẩn."
+   }
+  },
+  {
+   "word": "furnished",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈfɜːnɪʃt/",
+   "def_en": "(Of rented accommodation) with furniture.",
+   "def_vi": "(Nhà thuê) có đồ đạc.",
+   "gloss_vi": "có sẵn đồ đạc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "unfurnished <i>(adj. không có đồ)</i>",
+   "grammar_vi": "<i>Furnished</i> (adjective) = có sẵn đồ đạc. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "Rented accommodation can be either <b>furnished</b> or unfurnished.",
+    "vi": "Nhà thuê có thể <b>có sẵn đồ đạc</b> hoặc không."
+   }
+  },
+  {
+   "word": "penthouse",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpenthaʊs/",
+   "def_en": "A luxury flat at the top of a building.",
+   "def_vi": "Căn hộ sang trọng tầng trên cùng.",
+   "gloss_vi": "căn hộ áp mái",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Penthouse</i> (noun) = căn hộ áp mái. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "A <b>penthouse</b> is a luxury flat at the top of a building.",
+    "vi": "<b>Căn hộ áp mái</b> là căn hộ sang trọng trên đỉnh tòa nhà."
+   }
+  },
+  {
+   "word": "council housing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkaʊnsl ˌhaʊzɪŋ/",
+   "def_en": "Rented accommodation provided by the state for people on low incomes.",
+   "def_vi": "Nhà thuê nhà nước cấp cho người thu nhập thấp.",
+   "gloss_vi": "nhà ở xã hội",
+   "synonyms": "social housing <i>(n. nhà ở xã hội)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Council housing</i> (noun) = nhà ở xã hội. <b>Grammar</b>: Anh-Anh; cũng <i>social housing</i>.",
+   "example": {
+    "en": "<b>Council</b> or social housing is rented accommodation provided by the state.",
+    "vi": "<b>Nhà ở xã hội</b> do nhà nước cung cấp."
+   }
+  },
+  {
+   "word": "council estate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkaʊnsl ɪˌsteɪt/",
+   "def_en": "A large group of council housing.",
+   "def_vi": "Khu lớn gồm nhà ở xã hội.",
+   "gloss_vi": "khu nhà ở xã hội",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Council estate</i> (noun) = khu nhà ở xã hội. <b>Grammar</b>: Anh-Anh.",
+   "example": {
+    "en": "A <b>council estate</b> is a large group of such housing.",
+    "vi": "Họ sống trong một <b>khu nhà ở xã hội</b>."
+   }
+  },
+  {
+   "word": "tower block",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtaʊə blɒk/",
+   "def_en": "A tall, modern building with a lot of floors containing flats.",
+   "def_vi": "Tòa nhà cao hiện đại nhiều tầng có căn hộ.",
+   "gloss_vi": "nhà cao tầng",
+   "synonyms": "high-rise <i>(n. nhà cao tầng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tower block</i> (noun) = nhà cao tầng. <b>Grammar</b>: cũng <i>high-rise (flats)</i>.",
+   "example": {
+    "en": "High-rise (flats) or <b>tower blocks</b> are flats in a tall, modern building.",
+    "vi": "Họ sống ở một <b>tòa nhà cao tầng</b>."
+   }
+  },
+  {
+   "word": "granny flat",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡræni flæt/",
+   "def_en": "A set of rooms for an elderly person, connected to a relative’s house.",
+   "def_vi": "Phòng ở cho người già gắn với nhà người thân.",
+   "gloss_vi": "căn hộ cho ông bà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Granny flat</i> (noun) = căn hộ cho ông bà. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "A <b>granny flat</b> is a set of rooms for an elderly person, connected to a relative’s house.",
+    "vi": "Bà sống ở <b>căn hộ cho ông bà</b> cạnh nhà chúng tôi."
+   }
+  },
+  {
+   "word": "household name",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌhaʊshəʊld ˈneɪm/",
+   "def_en": "Something or someone everyone knows.",
+   "def_vi": "Thứ hay người ai cũng biết.",
+   "gloss_vi": "cái tên ai cũng biết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Household name</i> (noun) = cái tên ai cũng biết. <b>Grammar</b>: cũng <i>household word</i>.",
+   "example": {
+    "en": "Nike has become a <b>household name</b>.",
+    "vi": "Nike đã thành <b>cái tên ai cũng biết</b>."
+   }
+  },
+  {
+   "word": "on the house",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ɒn ðə ˈhaʊs/",
+   "def_en": "Free of charge.",
+   "def_vi": "Miễn phí.",
+   "gloss_vi": "miễn phí (quán mời)",
+   "synonyms": "free <i>(adj. miễn phí)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>On the house</i> (adverb) = miễn phí (quán mời). <b>Grammar</b>: thường dùng ở quán ăn.",
+   "example": {
+    "en": "The restaurant owner offered us coffees <b>on the house</b>.",
+    "vi": "Chủ nhà hàng mời chúng tôi cà phê <b>miễn phí</b>."
+   }
+  },
+  {
+   "word": "home truths",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌhəʊm ˈtruːθs/",
+   "def_en": "Information that is true but not pleasant or welcome.",
+   "def_vi": "Sự thật đúng nhưng khó nghe.",
+   "gloss_vi": "sự thật mất lòng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Home truths</i> (noun) = sự thật mất lòng. <b>Grammar</b>: số nhiều.",
+   "example": {
+    "en": "It’s time he was told some <b>home truths</b> about the way he’s been behaving!",
+    "vi": "Đã đến lúc nói cho anh ta vài <b>sự thật mất lòng</b>."
+   }
+  },
+  {
+   "word": "nothing to write home about",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌnʌθɪŋ tə ˌraɪt ˈhəʊm əbaʊt/",
+   "def_en": "Nothing special.",
+   "def_vi": "Không có gì đặc biệt.",
+   "gloss_vi": "chẳng có gì đặc biệt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nothing to write home about</i> (adjective) = chẳng có gì đặc biệt. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "The town is OK but <b>nothing to write home about</b>.",
+    "vi": "Thị trấn ổn nhưng <b>chẳng có gì đặc biệt</b>."
+   }
+  },
+  {
+   "word": "hit home",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌhɪt ˈhəʊm/",
+   "def_en": "To become fully understood or fully felt.",
+   "def_vi": "Được hiểu hay cảm nhận đầy đủ.",
+   "gloss_vi": "thấm thía",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hit home</i> (verb) = thấm thía. <b>Grammar</b>: động từ nhiều từ <i>hit home</i>.",
+   "example": {
+    "en": "The difficulty of managing without a regular salary is <b>hitting home</b> now.",
+    "vi": "Khó khăn khi không có lương ổn định giờ đang <b>thấm thía</b>."
+   }
+  },
+  {
+   "word": "make yourself at home",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌmeɪk jɔːˌself ət ˈhəʊm/",
+   "def_en": "To make yourself comfortable in someone else’s home.",
+   "def_vi": "Thoải mái trong nhà người khác.",
+   "gloss_vi": "cứ tự nhiên như ở nhà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Make yourself at home</i> (verb) = cứ tự nhiên như ở nhà. <b>Grammar</b>: thường ở mệnh lệnh.",
+   "example": {
+    "en": "Please just <b>make yourself at home</b> while I get dinner ready.",
+    "vi": "Cứ <b>tự nhiên như ở nhà</b> trong lúc tôi nấu bữa tối."
+   }
+  },
+  {
+   "word": "life in the fast lane",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌlaɪf ɪn ðə ˌfɑːst ˈleɪn/",
+   "def_en": "A way of life full of activity and excitement.",
+   "def_vi": "Lối sống đầy hoạt động và sôi động.",
+   "gloss_vi": "cuộc sống sôi động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Life in the fast lane</i> (noun) = cuộc sống sôi động. <b>Collocations / chunks</b>: cụm danh từ cố định <i>life in the fast lane</i>.",
+   "example": {
+    "en": "As a rock star, Joe lived <b>life in the fast lane</b>.",
+    "vi": "Là ngôi sao nhạc rock, Joe sống <b>cuộc sống sôi động</b>."
+   }
+  },
+  {
+   "word": "have the time of your life",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/hæv ðə ˌtaɪm əv jɔː ˈlaɪf/",
+   "def_en": "To have a wonderful time.",
+   "def_vi": "Có quãng thời gian tuyệt vời.",
+   "gloss_vi": "có quãng thời gian tuyệt nhất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have the time of your life</i> (verb) = có quãng thời gian tuyệt nhất. <b>Grammar</b>: tính từ sở hữu đổi theo chủ ngữ.",
+   "example": {
+    "en": "Paula’s <b>having the time of her life</b> in Canada.",
+    "vi": "Paula đang <b>có quãng thời gian tuyệt nhất</b> ở Canada."
+   }
+  },
+  {
+   "word": "get a new lease of life",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡet ə ˌnjuː ˌliːs əv ˈlaɪf/",
+   "def_en": "To become more energetic and active than before.",
+   "def_vi": "Trở nên năng động hơn trước.",
+   "gloss_vi": "như được hồi sinh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get a new lease of life</i> (verb) = như được hồi sinh. <b>Grammar</b>: Mỹ <i>a new lease on life</i>.",
+   "example": {
+    "en": "When Georgie moved jobs, she seemed to <b>get a new lease of life</b>.",
+    "vi": "Khi chuyển việc, Georgie dường như <b>được hồi sinh</b>."
+   }
+  },
+  {
+   "word": "a dog’s life",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ə ˌdɒɡz ˈlaɪf/",
+   "def_en": "A very unhappy and difficult life.",
+   "def_vi": "Cuộc sống rất khổ.",
+   "gloss_vi": "cuộc sống khổ cực",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A dog’s life</i> (noun) = cuộc sống khổ cực. <b>Collocations / chunks</b>: cụm danh từ cố định <i>a dog’s life</i>.",
+   "example": {
+    "en": "Ryan had <b>a dog’s life</b> in the army.",
+    "vi": "Ryan sống <b>cuộc đời khổ cực</b> trong quân đội."
+   }
+  },
+  {
+   "word": "lead a sheltered life",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌliːd ə ˌʃeltəd ˈlaɪf/",
+   "def_en": "To have a life protected from unpleasantness.",
+   "def_vi": "Sống được che chở khỏi điều xấu.",
+   "gloss_vi": "sống trong vòng tay bao bọc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lead a sheltered life</i> (verb) = sống trong vòng tay bao bọc. <b>Collocations / chunks</b>: cũng <i>lead a busy/quiet/normal life</i>.",
+   "example": {
+    "en": "Kyoko has <b>led a very sheltered life</b> and may find it hard to adapt to the big city.",
+    "vi": "Kyoko <b>sống trong vòng tay bao bọc</b> và có thể khó thích nghi với thành phố lớn."
+   }
+  },
+  {
+   "word": "a matter of life and death",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ə ˌmætər əv ˌlaɪf ən ˈdeθ/",
+   "def_en": "Something very serious.",
+   "def_vi": "Chuyện rất nghiêm trọng.",
+   "gloss_vi": "chuyện sống chết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A matter of life and death</i> (noun) = chuyện sống chết. <b>Grammar</b>: thường phủ định.",
+   "example": {
+    "en": "If we miss the last train, it’s not <b>a matter of life and death</b>.",
+    "vi": "Nếu lỡ chuyến tàu cuối, cũng <b>không phải chuyện sống chết</b>."
+   }
+  },
+  {
+   "word": "take your life in your hands",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌteɪk jɔː ˈlaɪf ɪn jɔː ˈhændz/",
+   "def_en": "To do something very dangerous.",
+   "def_vi": "Làm điều rất nguy hiểm.",
+   "gloss_vi": "liều mạng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take your life in your hands</i> (verb) = liều mạng. <b>Grammar</b>: động từ nhiều từ <i>take your life in your hands</i>.",
+   "example": {
+    "en": "<b>You’re taking your life in your hands</b> if you cross the road here!",
+    "vi": "Băng qua đường ở đây là <b>liều mạng</b> đấy!"
+   }
+  },
+  {
+   "word": "breathe new life into",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌbriːð ˌnjuː ˈlaɪf ˌɪntuː/",
+   "def_en": "To bring new ideas and energy to something.",
+   "def_vi": "Mang ý tưởng, năng lượng mới.",
+   "gloss_vi": "thổi luồng sinh khí mới",
+   "synonyms": "revitalise <i>(v. hồi sinh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Breathe new life into</i> (verb) = thổi luồng sinh khí mới. <b>Grammar</b>: động từ nhiều từ <i>breathe new life into</i>.",
+   "example": {
+    "en": "When Orla joined the staff, she <b>breathed new life into</b> the school.",
+    "vi": "Orla đã <b>thổi luồng sinh khí mới vào</b> trường."
+   }
+  }
+ ]
+}
