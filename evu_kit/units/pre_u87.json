@@ -1,0 +1,264 @@
+{
+ "book": "pre",
+ "unit": 87,
+ "title_vi": "Cấu trúc động từ 1",
+ "theory_html": "<p><b>A. Verb + -ing form</b><br><i>A. Động từ + V-ing</i></p> <p><b>enjoy, mind, dislike, hate, avoid, imagine, consider, recommend, suggest</b> + -ing. <b>I enjoy going</b> (NOT <b>to go</b>); <b>They suggested leaving early</b>; <b>He recommended staying there</b>.</p><p><i><b>thích, phiền, không thích, ghét, tránh, tưởng tượng, cân nhắc, giới thiệu, gợi ý + V-ing</b>.</i></p> <p><b>C. Verb + to infinitive</b><br><i>C. Động từ + to V</i></p> <p><b>hope, agree, intend, offer, attempt, promise, demand</b> + to infinitive.</p><p><i><b>hy vọng, đồng ý, dự định, đề nghị, cố gắng, hứa, đòi</b>.</i></p> <p><b>D. Verb + (object) + preposition + noun/-ing</b><br><i>D. Động từ + giới từ</i></p> <p><b>ask sb for advice; be thinking of going; blame sb for sth; insist on going</b>.</p><p><i><b>xin lời khuyên; đang tính đi; đổ lỗi; khăng khăng đòi</b>.</i></p>",
+ "items": [
+  {
+   "word": "mind",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/maɪnd/",
+   "def_en": "To be unhappy or annoyed about something.",
+   "def_vi": "Thấy không vui hay phiền vì điều gì.",
+   "gloss_vi": "phiền, ngại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mind</i> (verb) = phiền, ngại. <b>Grammar</b>: <i>mind</i> + V-ing; <i>Do you mind if…?</i>.",
+   "example": {
+    "en": "Do you <b>mind</b> getting up early?",
+    "vi": "Bạn có <b>ngại</b> dậy sớm không?"
+   }
+  },
+  {
+   "word": "dislike",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪsˈlaɪk/",
+   "def_en": "Not to like.",
+   "def_vi": "Không thích.",
+   "gloss_vi": "không thích",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "like <i>(v. thích)</i>",
+   "grammar_vi": "<i>Dislike</i> (verb) = không thích. <b>Grammar</b>: + V-ing.",
+   "example": {
+    "en": "Do you like or <b>dislike</b> having your photograph taken?",
+    "vi": "Bạn thích hay <b>không thích</b> bị chụp ảnh?"
+   }
+  },
+  {
+   "word": "avoid",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈvɔɪd/",
+   "def_en": "To try not to do something.",
+   "def_vi": "Cố không làm gì.",
+   "gloss_vi": "tránh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Avoid</i> (verb) = tránh. <b>Grammar</b>: <i>avoid</i> + V-ing.",
+   "example": {
+    "en": "Do you usually <b>avoid</b> speaking to strangers at parties?",
+    "vi": "Bạn có thường <b>tránh</b> nói chuyện với người lạ ở bữa tiệc không?"
+   }
+  },
+  {
+   "word": "imagine",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪˈmædʒɪn/",
+   "def_en": "To think of yourself in a situation.",
+   "def_vi": "Nghĩ mình ở trong một tình huống.",
+   "gloss_vi": "tưởng tượng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Imagine</i> (verb) = tưởng tượng. <b>Grammar</b>: <i>imagine</i> + V-ing. <b>Word family</b>: <i>imagination</i> (n.).",
+   "example": {
+    "en": "Can you <b>imagine</b> being without a car?",
+    "vi": "Bạn có thể <b>tưởng tượng</b> không có ô tô không?"
+   }
+  },
+  {
+   "word": "consider",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kənˈsɪdə(r)/",
+   "def_en": "To think about something.",
+   "def_vi": "Suy nghĩ về điều gì.",
+   "gloss_vi": "cân nhắc",
+   "synonyms": "think about <i>(pv. nghĩ về)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Consider</i> (verb) = cân nhắc. <b>Grammar</b>: <i>consider</i> + V-ing.",
+   "example": {
+    "en": "Have you ever <b>considered</b> living in another country?",
+    "vi": "Bạn đã bao giờ <b>cân nhắc</b> sống ở nước khác chưa?"
+   }
+  },
+  {
+   "word": "suggest",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/səˈdʒest/",
+   "def_en": "To tell someone about a possible idea or plan.",
+   "def_vi": "Đưa ra ý tưởng hay kế hoạch.",
+   "gloss_vi": "gợi ý",
+   "synonyms": "propose <i>(v. đề xuất)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Suggest</i> (verb) = gợi ý. <b>Grammar</b>: <i>suggest</i> + V-ing / <i>that…</i> (không <i>suggest to do</i>).",
+   "example": {
+    "en": "I would <b>suggest</b> going in spring or autumn.",
+    "vi": "Tôi sẽ <b>gợi ý</b> đi vào mùa xuân hoặc mùa thu."
+   }
+  },
+  {
+   "word": "hope",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/həʊp/",
+   "def_en": "To want something and believe it will happen.",
+   "def_vi": "Muốn và tin điều gì sẽ xảy ra.",
+   "gloss_vi": "hy vọng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hope</i> (verb) = hy vọng. <b>Grammar</b>: <i>hope to do sth / hope (that)…</i>.",
+   "example": {
+    "en": "I <b>hope</b> to see them next week.",
+    "vi": "Tôi <b>hy vọng</b> gặp họ tuần sau."
+   }
+  },
+  {
+   "word": "agree",
+   "sense": "to do",
+   "pos": "verb",
+   "ipa": "/əˈɡriː/",
+   "def_en": "To say you will do something.",
+   "def_vi": "Nói sẽ làm gì.",
+   "gloss_vi": "đồng ý (làm gì)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "refuse <i>(v. từ chối)</i>",
+   "grammar_vi": "<i>Agree</i> (verb) = đồng ý (làm gì). <b>Grammar</b>: <i>agree to do sth</i>.",
+   "example": {
+    "en": "They <b>agreed</b> to help me.",
+    "vi": "Họ <b>đồng ý</b> giúp tôi."
+   }
+  },
+  {
+   "word": "intend",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪnˈtend/",
+   "def_en": "To plan.",
+   "def_vi": "Lên kế hoạch.",
+   "gloss_vi": "dự định",
+   "synonyms": "plan <i>(v. dự định)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Intend</i> (verb) = dự định. <b>Grammar</b>: <i>intend to do sth</i>. <b>Word family</b>: <i>intention</i> (n.).",
+   "example": {
+    "en": "I <b>intend</b> to leave next month.",
+    "vi": "Tôi <b>dự định</b> rời đi vào tháng sau."
+   }
+  },
+  {
+   "word": "offer",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈɒfə(r)/",
+   "def_en": "To say you are happy to do something.",
+   "def_vi": "Nói sẵn lòng làm gì.",
+   "gloss_vi": "đề nghị (làm gì)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "refuse <i>(v. từ chối)</i>",
+   "grammar_vi": "<i>Offer</i> (verb) = đề nghị (làm gì). <b>Grammar</b>: <i>offer to do sth / offer sb sth</i>.",
+   "example": {
+    "en": "I <b>offered</b> to help them.",
+    "vi": "Tôi <b>đề nghị</b> giúp họ."
+   }
+  },
+  {
+   "word": "attempt",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈtempt/",
+   "def_en": "To try.",
+   "def_vi": "Cố gắng.",
+   "gloss_vi": "cố, thử",
+   "synonyms": "try <i>(v. thử)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Attempt</i> (verb) = cố, thử. <b>Grammar</b>: trang trọng hơn <i>try</i>; cũng là danh từ.",
+   "example": {
+    "en": "I <b>attempted</b> to cook the dinner, but it was terrible.",
+    "vi": "Tôi đã <b>thử</b> nấu bữa tối nhưng thật tệ."
+   }
+  },
+  {
+   "word": "promise",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈprɒmɪs/",
+   "def_en": "To say you will definitely do something.",
+   "def_vi": "Nói chắc chắn sẽ làm gì.",
+   "gloss_vi": "hứa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Promise</i> (verb) = hứa. <b>Grammar</b>: <i>promise to do sth / promise sb (that)…</i>.",
+   "example": {
+    "en": "I <b>promised</b> to bring her book back.",
+    "vi": "Tôi đã <b>hứa</b> mang trả sách cho cô ấy."
+   }
+  },
+  {
+   "word": "demand",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪˈmɑːnd/",
+   "def_en": "To say something in a firm way.",
+   "def_vi": "Nói một cách cương quyết.",
+   "gloss_vi": "đòi, yêu cầu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Demand</i> (verb) = đòi, yêu cầu. <b>Grammar</b>: <i>demand to do sth</i>.",
+   "example": {
+    "en": "The shop assistant was very rude, so I <b>demanded</b> to see the manager.",
+    "vi": "Nhân viên rất thô lỗ, nên tôi <b>đòi</b> gặp quản lý."
+   }
+  },
+  {
+   "word": "ask for",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˈɑːsk fə(r)/",
+   "def_en": "To say you want something from someone.",
+   "def_vi": "Nói muốn ai cho mình điều gì.",
+   "gloss_vi": "xin, hỏi xin",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ask for</i> (phrasal verb) = xin, hỏi xin. <b>Grammar</b>: <i>ask sb for sth</i>.",
+   "example": {
+    "en": "Jo has just rung and <b>asked</b> me <b>for</b> advice about Greece.",
+    "vi": "Jo vừa gọi và <b>xin</b> tôi lời khuyên về Hy Lạp."
+   }
+  },
+  {
+   "word": "blame",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/bleɪm/",
+   "def_en": "To say someone is responsible for something bad.",
+   "def_vi": "Nói ai chịu trách nhiệm việc xấu.",
+   "gloss_vi": "đổ lỗi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Blame</i> (verb) = đổ lỗi. <b>Grammar</b>: <i>blame sb for sth</i>.",
+   "example": {
+    "en": "They <b>blamed</b> you <b>for</b> the terrible holiday they had.",
+    "vi": "Rồi họ <b>đổ lỗi</b> cho bạn về kỳ nghỉ tồi tệ."
+   }
+  },
+  {
+   "word": "insist on",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ɪnˈsɪst ɒn/",
+   "def_en": "To say you must do something.",
+   "def_vi": "Nói nhất định phải làm gì.",
+   "gloss_vi": "khăng khăng đòi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Insist on</i> (phrasal verb) = khăng khăng đòi. <b>Grammar</b>: <i>insist on</i> + V-ing.",
+   "example": {
+    "en": "They <b>insisted on</b> going in the summer when it was far too hot.",
+    "vi": "Họ <b>khăng khăng đòi</b> đi vào mùa hè."
+   }
+  }
+ ]
+}
