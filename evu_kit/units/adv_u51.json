@@ -1,0 +1,456 @@
+{
+ "book": "adv",
+ "unit": 51,
+ "title_vi": "Chăm sóc sức khỏe",
+ "theory_html": "<p><b>A. Healthcare professionals</b><br><i>A. Chuyên gia y tế</i></p> <p><b>primary care, physicians, home visit, locum, acute condition, chronic, secondary care, referred to, organ</b>; specialists: <b>ophthalmologists, cardiologists, psychiatrists, dermatologists, gynaecologists, obstetricians, paediatricians, anaesthetists (anaesthesia)</b>; <b>alternative/complementary medicine</b>: <b>acupuncturists, chiropractors (spine), homeopathic doctors, aromatherapists</b>.</p><p><i><b>chăm sóc ban đầu, bác sĩ, khám tại nhà, bác sĩ thay thế, bệnh cấp tính, mãn tính, chăm sóc chuyên khoa, được chuyển đến, cơ quan; bác sĩ mắt, tim, tâm thần, da liễu, phụ khoa, sản khoa, nhi khoa, gây mê; y học thay thế: châm cứu, nắn khớp, vi lượng đồng căn, liệu pháp hương thơm</b>.</i></p> <p><b>B. Health systems</b><br><i>B. Hệ thống y tế</i></p> <p><b>healthcare, national insurance, National Health Service (NHS), family doctor / GP (general practitioner), surgery, clinic, prescription charge, insurance schemes, go private</b>.</p><p><i><b>chăm sóc y tế, bảo hiểm quốc gia, hệ thống y tế quốc gia, bác sĩ gia đình, phòng khám, phòng khám chuyên khoa, phí đơn thuốc, chương trình bảo hiểm, khám tư</b>.</i></p>",
+ "items": [
+  {
+   "word": "primary care",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpraɪməri ˈkeə(r)/",
+   "def_en": "Care from the doctor or nurse a patient goes to first.",
+   "def_vi": "Chăm sóc từ bác sĩ, y tá đầu tiên.",
+   "gloss_vi": "chăm sóc ban đầu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "secondary care <i>(n. chăm sóc chuyên khoa)</i>",
+   "grammar_vi": "<i>Primary care</i> (noun) = chăm sóc ban đầu. <b>Collocations / chunks</b>: cụm danh từ cố định <i>primary care</i>.",
+   "example": {
+    "en": "<b>Primary care</b> is provided by the doctors or nurses who the patient goes to first.",
+    "vi": "<b>Chăm sóc ban đầu</b> do bác sĩ hay y tá cung cấp."
+   }
+  },
+  {
+   "word": "physician",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/fɪˈzɪʃn/",
+   "def_en": "A doctor.",
+   "def_vi": "Bác sĩ.",
+   "gloss_vi": "bác sĩ",
+   "synonyms": "doctor <i>(n. bác sĩ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Physician</i> (noun) = bác sĩ. <b>Grammar</b>: khác <i>physicist</i> (nhà vật lý).",
+   "example": {
+    "en": "the doctors (also known as <b>physicians</b>)",
+    "vi": "Các bác sĩ còn gọi là <b>physician</b>."
+   }
+  },
+  {
+   "word": "home visit",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌhəʊm ˈvɪzɪt/",
+   "def_en": "A visit by a doctor to a patient’s home.",
+   "def_vi": "Bác sĩ đến nhà khám.",
+   "gloss_vi": "khám tại nhà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Home visit</i> (noun) = khám tại nhà. <b>Collocations / chunks</b>: cụm danh từ cố định <i>home visit</i>.",
+   "example": {
+    "en": "during a <b>home visit</b>",
+    "vi": "Đôi khi trong lúc <b>khám tại nhà</b>."
+   }
+  },
+  {
+   "word": "locum",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈləʊkəm/",
+   "def_en": "A doctor who does the job of another doctor who is ill or on holiday.",
+   "def_vi": "Bác sĩ làm thay bác sĩ ốm hay nghỉ.",
+   "gloss_vi": "bác sĩ thay thế",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Locum</i> (noun) = bác sĩ thay thế. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "A <b>locum</b> is a doctor who does the job of another doctor who is ill or on holiday.",
+    "vi": "<b>Bác sĩ thay thế</b> làm việc của bác sĩ đang nghỉ."
+   }
+  },
+  {
+   "word": "acute",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əˈkjuːt/",
+   "def_en": "(Of an illness) severe and sudden.",
+   "def_vi": "(Bệnh) nặng và đột ngột.",
+   "gloss_vi": "cấp tính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "chronic <i>(adj. mãn tính)</i>",
+   "grammar_vi": "<i>Acute</i> (adjective) = cấp tính. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "whether it is for an <b>acute</b> condition or a chronic condition",
+    "vi": "Dù là bệnh <b>cấp tính</b> hay mãn tính."
+   }
+  },
+  {
+   "word": "chronic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈkrɒnɪk/",
+   "def_en": "(Of an illness) lasting a long time.",
+   "def_vi": "(Bệnh) kéo dài.",
+   "gloss_vi": "mãn tính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "acute <i>(adj. cấp tính)</i>",
+   "grammar_vi": "<i>Chronic</i> (adjective) = mãn tính. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "an acute condition or a <b>chronic</b> condition",
+    "vi": "Bệnh cấp tính hay <b>mãn tính</b>."
+   }
+  },
+  {
+   "word": "secondary care",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsekəndri ˈkeə(r)/",
+   "def_en": "Care provided by specialists in clinics or hospitals.",
+   "def_vi": "Chăm sóc do chuyên gia ở phòng khám, bệnh viện.",
+   "gloss_vi": "chăm sóc chuyên khoa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "primary care <i>(n. chăm sóc ban đầu)</i>",
+   "grammar_vi": "<i>Secondary care</i> (noun) = chăm sóc chuyên khoa. <b>Collocations / chunks</b>: cụm danh từ cố định <i>secondary care</i>.",
+   "example": {
+    "en": "<b>Secondary care</b> is provided by specialists in special clinics or hospitals.",
+    "vi": "<b>Chăm sóc chuyên khoa</b> do bác sĩ chuyên khoa cung cấp."
+   }
+  },
+  {
+   "word": "refer to",
+   "sense": "medical",
+   "pos": "verb",
+   "ipa": "/rɪˈfɜː tə/",
+   "def_en": "To send a patient to a specialist.",
+   "def_vi": "Chuyển bệnh nhân đến chuyên gia.",
+   "gloss_vi": "chuyển đến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Refer to</i> (verb) = chuyển đến. <b>Grammar</b>: <i>referral</i> (n.).",
+   "example": {
+    "en": "Patients are <b>referred to</b> a specialist by their doctor.",
+    "vi": "Bác sĩ <b>chuyển</b> bệnh nhân <b>đến</b> chuyên gia."
+   }
+  },
+  {
+   "word": "organ",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɔːɡən/",
+   "def_en": "A part of the body, e.g. stomach, liver.",
+   "def_vi": "Bộ phận cơ thể như dạ dày, gan.",
+   "gloss_vi": "cơ quan (cơ thể)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Organ</i> (noun) = cơ quan (cơ thể). <b>Common mistakes</b>: cũng = đàn organ.",
+   "example": {
+    "en": "These may specialise, for example, in a particular <b>organ</b>.",
+    "vi": "Họ có thể chuyên về một <b>cơ quan</b> cụ thể."
+   }
+  },
+  {
+   "word": "ophthalmologist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɒfθælˈmɒlədʒɪst/",
+   "def_en": "A specialist in eyes.",
+   "def_vi": "Chuyên gia về mắt.",
+   "gloss_vi": "bác sĩ nhãn khoa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ophthalmologist</i> (noun) = bác sĩ nhãn khoa. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "<b>ophthalmologists</b> (eyes)",
+    "vi": "<b>Bác sĩ nhãn khoa</b> chuyên về mắt."
+   }
+  },
+  {
+   "word": "cardiologist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkɑːdiˈɒlədʒɪst/",
+   "def_en": "A specialist in the heart.",
+   "def_vi": "Chuyên gia về tim.",
+   "gloss_vi": "bác sĩ tim mạch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cardiologist</i> (noun) = bác sĩ tim mạch. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "<b>cardiologists</b> (heart)",
+    "vi": "<b>Bác sĩ tim mạch</b> chuyên về tim."
+   }
+  },
+  {
+   "word": "psychiatrist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/saɪˈkaɪətrɪst/",
+   "def_en": "A specialist in the mind.",
+   "def_vi": "Chuyên gia về tâm thần.",
+   "gloss_vi": "bác sĩ tâm thần",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Psychiatrist</i> (noun) = bác sĩ tâm thần. <b>Grammar</b>: /saɪˈkaɪətrɪst/.",
+   "example": {
+    "en": "<b>psychiatrists</b> (the mind)",
+    "vi": "<b>Bác sĩ tâm thần</b> chuyên về tâm trí."
+   }
+  },
+  {
+   "word": "dermatologist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdɜːməˈtɒlədʒɪst/",
+   "def_en": "A specialist in skin.",
+   "def_vi": "Chuyên gia về da.",
+   "gloss_vi": "bác sĩ da liễu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dermatologist</i> (noun) = bác sĩ da liễu. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "<b>dermatologists</b> (skin)",
+    "vi": "<b>Bác sĩ da liễu</b> chuyên về da."
+   }
+  },
+  {
+   "word": "gynaecologist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɡaɪnəˈkɒlədʒɪst/",
+   "def_en": "A specialist in women’s reproductive systems.",
+   "def_vi": "Chuyên gia hệ sinh sản nữ.",
+   "gloss_vi": "bác sĩ phụ khoa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gynaecologist</i> (noun) = bác sĩ phụ khoa. <b>Grammar</b>: Mỹ <i>gynecologist</i>.",
+   "example": {
+    "en": "<b>gynaecologists</b> (women’s reproductive systems)",
+    "vi": "<b>Bác sĩ phụ khoa</b> chuyên hệ sinh sản nữ."
+   }
+  },
+  {
+   "word": "obstetrician",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɒbstəˈtrɪʃn/",
+   "def_en": "A specialist in pregnancy and childbirth.",
+   "def_vi": "Chuyên gia về thai sản.",
+   "gloss_vi": "bác sĩ sản khoa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Obstetrician</i> (noun) = bác sĩ sản khoa. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "<b>obstetricians</b> (pregnancy and childbirth)",
+    "vi": "<b>Bác sĩ sản khoa</b> chuyên về mang thai và sinh nở."
+   }
+  },
+  {
+   "word": "paediatrician",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpiːdiəˈtrɪʃn/",
+   "def_en": "A specialist in children.",
+   "def_vi": "Chuyên gia về trẻ em.",
+   "gloss_vi": "bác sĩ nhi khoa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Paediatrician</i> (noun) = bác sĩ nhi khoa. <b>Grammar</b>: Mỹ <i>pediatrician</i>.",
+   "example": {
+    "en": "<b>paediatricians</b> (children)",
+    "vi": "<b>Bác sĩ nhi khoa</b> chuyên về trẻ em."
+   }
+  },
+  {
+   "word": "anaesthetist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈniːsθətɪst/",
+   "def_en": "A specialist who stops people feeling pain during surgery.",
+   "def_vi": "Chuyên gia làm bệnh nhân không đau khi mổ.",
+   "gloss_vi": "bác sĩ gây mê",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Anaesthetist</i> (noun) = bác sĩ gây mê. <b>Grammar</b>: <i>anaesthesia</i> (n.).",
+   "example": {
+    "en": "<b>anaesthetists</b> (anaesthesia or stopping people from feeling pain during surgery)",
+    "vi": "<b>Bác sĩ gây mê</b> giúp bệnh nhân không đau khi phẫu thuật."
+   }
+  },
+  {
+   "word": "alternative medicine",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɔːlˌtɜːnətɪv ˈmedsn/",
+   "def_en": "Approaches that differ from conventional western medicine.",
+   "def_vi": "Phương pháp khác y học phương Tây.",
+   "gloss_vi": "y học thay thế",
+   "synonyms": "complementary medicine <i>(n. y học bổ trợ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Alternative medicine</i> (noun) = y học thay thế. <b>Collocations / chunks</b>: cụm danh từ cố định <i>alternative medicine</i>.",
+   "example": {
+    "en": "what is sometimes referred to as <b>alternative medicine</b> or complementary medicine",
+    "vi": "Có nhân viên y tế chuyên <b>y học thay thế</b>."
+   }
+  },
+  {
+   "word": "acupuncturist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈækjupʌŋktʃərɪst/",
+   "def_en": "A person who treats patients using needles at special points on the skin.",
+   "def_vi": "Người chữa bệnh bằng kim ở huyệt.",
+   "gloss_vi": "người châm cứu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Acupuncturist</i> (noun) = người châm cứu. <b>Grammar</b>: <i>acupuncture</i> (n.).",
+   "example": {
+    "en": "<b>acupuncturists</b>",
+    "vi": "<b>Người châm cứu</b> dùng kim ở các điểm đặc biệt."
+   }
+  },
+  {
+   "word": "chiropractor",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkaɪrəʊpræktə(r)/",
+   "def_en": "A person who treats patients by pressing joints, e.g. the spine.",
+   "def_vi": "Người chữa bằng ấn khớp như cột sống.",
+   "gloss_vi": "người nắn khớp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chiropractor</i> (noun) = người nắn khớp. <b>Grammar</b>: /ˈkaɪrəʊpræktə/.",
+   "example": {
+    "en": "<b>chiropractors</b>",
+    "vi": "<b>Người nắn khớp</b> ấn vào khớp như cột sống."
+   }
+  },
+  {
+   "word": "homeopathic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌhəʊmiəʊˈpæθɪk/",
+   "def_en": "Using tiny amounts of natural substances to treat illness.",
+   "def_vi": "Dùng lượng rất nhỏ chất tự nhiên chữa bệnh.",
+   "gloss_vi": "vi lượng đồng căn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Homeopathic</i> (adjective) = vi lượng đồng căn. <b>Grammar</b>: <i>homeopathy</i> (n.).",
+   "example": {
+    "en": "<b>homeopathic</b> doctors",
+    "vi": "Bác sĩ <b>vi lượng đồng căn</b>."
+   }
+  },
+  {
+   "word": "aromatherapist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˌrəʊməˈθerəpɪst/",
+   "def_en": "A therapist who uses aromatic oils and massage.",
+   "def_vi": "Người trị liệu bằng tinh dầu, massage.",
+   "gloss_vi": "chuyên gia liệu pháp hương thơm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Aromatherapist</i> (noun) = chuyên gia liệu pháp hương thơm. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "<b>aromatherapists</b>",
+    "vi": "<b>Chuyên gia liệu pháp hương thơm</b> dùng tinh dầu."
+   }
+  },
+  {
+   "word": "national insurance",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌnæʃnəl ɪnˈʃʊərəns/",
+   "def_en": "A tax paid by working adults which covers healthcare costs.",
+   "def_vi": "Thuế người đi làm trả chi phí y tế.",
+   "gloss_vi": "bảo hiểm quốc gia",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>National insurance</i> (noun) = bảo hiểm quốc gia. <b>Grammar</b>: Anh-Anh.",
+   "example": {
+    "en": "healthcare is paid for through taxes and <b>national insurance</b> payments",
+    "vi": "Y tế được trả qua thuế và <b>bảo hiểm quốc gia</b>."
+   }
+  },
+  {
+   "word": "National Health Service",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌnæʃnəl ˈhelθ ˌsɜːvɪs/",
+   "def_en": "The British state-funded health service.",
+   "def_vi": "Hệ thống y tế nhà nước Anh.",
+   "gloss_vi": "hệ thống y tế quốc gia (Anh)",
+   "synonyms": "NHS <i>(n. hệ thống y tế Anh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>National Health Service</i> (noun) = hệ thống y tế quốc gia (Anh). <b>Grammar</b>: viết tắt <i>the NHS</i>.",
+   "example": {
+    "en": "The government decides how much will be spent on the <b>National Health Service</b>.",
+    "vi": "Chính phủ quyết định chi bao nhiêu cho <b>hệ thống y tế quốc gia</b>."
+   }
+  },
+  {
+   "word": "GP",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdʒiː ˈpiː/",
+   "def_en": "General practitioner; a doctor who looks after people’s general health.",
+   "def_vi": "Bác sĩ đa khoa gia đình.",
+   "gloss_vi": "bác sĩ gia đình",
+   "synonyms": "family doctor <i>(n. bác sĩ gia đình)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>GP</i> (noun) = bác sĩ gia đình. <b>Grammar</b>: viết tắt <i>general practitioner</i>.",
+   "example": {
+    "en": "visits to a family doctor (or <b>GP</b>) at a surgery or clinic are free",
+    "vi": "Khám <b>bác sĩ gia đình</b> miễn phí."
+   }
+  },
+  {
+   "word": "surgery",
+   "sense": "place",
+   "pos": "noun",
+   "ipa": "/ˈsɜːdʒəri/",
+   "def_en": "A small centre offering primary care, run by GPs.",
+   "def_vi": "Phòng khám nhỏ của bác sĩ gia đình.",
+   "gloss_vi": "phòng khám (bác sĩ gia đình)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Surgery</i> (noun) = phòng khám (bác sĩ gia đình). <b>Common mistakes</b>: cũng = phẫu thuật.",
+   "example": {
+    "en": "visits to a family doctor at a <b>surgery</b> or clinic are free",
+    "vi": "Khám bác sĩ gia đình ở <b>phòng khám</b>."
+   }
+  },
+  {
+   "word": "prescription charge",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/prɪˈskrɪpʃn tʃɑːdʒ/",
+   "def_en": "A charge for medication the doctor prescribes.",
+   "def_vi": "Phí thuốc theo đơn bác sĩ.",
+   "gloss_vi": "phí đơn thuốc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Prescription charge</i> (noun) = phí đơn thuốc. <b>Collocations / chunks</b>: cụm danh từ cố định <i>prescription charge</i>.",
+   "example": {
+    "en": "There is often a <b>prescription charge</b>.",
+    "vi": "Thường có <b>phí đơn thuốc</b>."
+   }
+  },
+  {
+   "word": "go private",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡəʊ ˈpraɪvət/",
+   "def_en": "To choose private healthcare.",
+   "def_vi": "Chọn khám dịch vụ tư.",
+   "gloss_vi": "khám tư",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go private</i> (verb) = khám tư. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "insurance schemes exist to enable people to ‘<b>go private</b>’",
+    "vi": "Bảo hiểm giúp người dân <b>khám tư</b>."
+   }
+  }
+ ]
+}

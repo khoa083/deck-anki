@@ -1,0 +1,520 @@
+{
+ "book": "adv",
+ "unit": 50,
+ "title_vi": "Tin tức: thu thập và đưa tin",
+ "theory_html": "<p><b>A. Gathering the news</b><br><i>A. Thu thập tin</i></p> <p>Types: <b>print, broadcast, online</b> and <b>citizen journalism</b>. Journalists get stories from <b>pressure groups</b> which <b>air their views</b>; attend <b>press conferences</b> where people <b>issue a statement</b>; people <b>seeking publicity</b> include a <b>soundbite</b>; journalists <b>hunt for</b> stories by <b>tapping useful sources</b> and <b>monitoring</b> agencies; important stories get more <b>airtime</b>, <b>column inches</b> and <b>coverage</b>; <b>paparazzi</b> follow celebrities.</p><p><i>Các loại báo chí; nguồn tin từ nhóm áp lực, họp báo, câu nói ấn tượng; săn tin, khai thác nguồn, theo dõi hãng tin; thời lượng phát sóng, dung lượng bài, sự đưa tin; thợ săn ảnh.</i></p> <p><b>B. Delivering the news</b><br><i>B. Đưa tin</i></p> <p><b>rag</b> (informal), <b>gutter press</b> (disapproving), <b>copy, deadline, go to press, back copies, archive, exclusive / scoop, run a story, hit the headlines, break, libel, defamation of character, put your own gloss/spin on, muck-raking, heroic, triumph, occurrence</b>.</p><p><i><b>báo lá cải, báo chí rẻ tiền, bản thảo, hạn chót, đưa in, số cũ, kho lưu trữ, tin độc quyền, đăng tin, lên trang nhất, vỡ lở, phỉ báng, bôi nhọ danh dự, thêm thắt theo ý mình, bới móc bê bối, anh hùng, chiến thắng, sự việc</b>.</i></p> <p><b>LH. Language help</b><br><i>LH. Lưu ý ngôn ngữ</i></p> <p><b>Media</b> is a plural noun and should be used with a plural verb (<b>The media are blamed…</b>), though some treat it as singular (<b>Social media has…</b>). Often used as an adjective: <b>media reports/coverage/attention/interest/hype</b>.</p><p><i><b>Media</b> là danh từ số nhiều, nhưng một số người dùng như số ít; hay dùng như tính từ.</i></p>",
+ "items": [
+  {
+   "word": "print journalism",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌprɪnt ˈdʒɜːnəlɪzəm/",
+   "def_en": "Journalism in newspapers and magazines.",
+   "def_vi": "Báo chí trên báo, tạp chí.",
+   "gloss_vi": "báo in",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Print journalism</i> (noun) = báo in. <b>Collocations / chunks</b>: cụm danh từ cố định <i>print journalism</i>.",
+   "example": {
+    "en": "There are a number of different types of journalism: <b>print journalism</b>.",
+    "vi": "Có nhiều loại: <b>báo in</b>, báo phát thanh truyền hình…"
+   }
+  },
+  {
+   "word": "broadcast journalism",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌbrɔːdkɑːst ˈdʒɜːnəlɪzəm/",
+   "def_en": "Journalism on radio and TV.",
+   "def_vi": "Báo chí trên radio, TV.",
+   "gloss_vi": "báo phát thanh truyền hình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Broadcast journalism</i> (noun) = báo phát thanh truyền hình. <b>Collocations / chunks</b>: cụm danh từ cố định <i>broadcast journalism</i>.",
+   "example": {
+    "en": "print journalism, <b>broadcast journalism</b>, online journalism",
+    "vi": "Báo in, <b>báo phát thanh truyền hình</b>, báo mạng."
+   }
+  },
+  {
+   "word": "citizen journalism",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsɪtɪzn ˈdʒɜːnəlɪzəm/",
+   "def_en": "When ordinary citizens use social media to report and share news.",
+   "def_vi": "Người dân dùng mạng xã hội đưa tin.",
+   "gloss_vi": "báo chí công dân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Citizen journalism</i> (noun) = báo chí công dân. <b>Collocations / chunks</b>: cụm danh từ cố định <i>citizen journalism</i>.",
+   "example": {
+    "en": "and, increasingly, <b>citizen journalism</b>",
+    "vi": "Ngày càng phổ biến là <b>báo chí công dân</b>."
+   }
+  },
+  {
+   "word": "pressure group",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpreʃə ɡruːp/",
+   "def_en": "People trying to influence what others think about an issue.",
+   "def_vi": "Nhóm cố tác động suy nghĩ người khác.",
+   "gloss_vi": "nhóm áp lực",
+   "synonyms": "lobby <i>(n. nhóm vận động)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pressure group</i> (noun) = nhóm áp lực. <b>Collocations / chunks</b>: cụm danh từ cố định <i>pressure group</i>.",
+   "example": {
+    "en": "They may get stories from <b>pressure groups</b>.",
+    "vi": "Họ lấy tin từ các <b>nhóm áp lực</b>."
+   }
+  },
+  {
+   "word": "air your views",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌeə jɔː ˈvjuːz/",
+   "def_en": "To express your opinions.",
+   "def_vi": "Bày tỏ ý kiến.",
+   "gloss_vi": "bày tỏ quan điểm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Air your views</i> (verb) = bày tỏ quan điểm. <b>Grammar</b>: tính từ sở hữu đổi theo chủ ngữ.",
+   "example": {
+    "en": "pressure groups which want to <b>air their views</b> in public",
+    "vi": "Các nhóm muốn <b>bày tỏ quan điểm</b> công khai."
+   }
+  },
+  {
+   "word": "press conference",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpres ˌkɒnfərəns/",
+   "def_en": "A meeting to give information to and answer questions from the press.",
+   "def_vi": "Buổi họp báo.",
+   "gloss_vi": "họp báo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Press conference</i> (noun) = họp báo. <b>Collocations / chunks</b>: cụm danh từ cố định <i>press conference</i>.",
+   "example": {
+    "en": "Journalists also attend <b>press conferences</b>.",
+    "vi": "Nhà báo dự <b>họp báo</b>."
+   }
+  },
+  {
+   "word": "issue a statement",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɪʃuː ə ˈsteɪtmənt/",
+   "def_en": "To give a formal announcement to the press.",
+   "def_vi": "Đưa ra thông báo chính thức.",
+   "gloss_vi": "ra tuyên bố",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Issue a statement</i> (verb) = ra tuyên bố. <b>Grammar</b>: động từ nhiều từ <i>issue a statement</i>.",
+   "example": {
+    "en": "where politicians or others may <b>issue a statement</b>",
+    "vi": "Chính trị gia có thể <b>ra tuyên bố</b>."
+   }
+  },
+  {
+   "word": "seek publicity",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌsiːk pʌbˈlɪsəti/",
+   "def_en": "To want to reach a wider audience.",
+   "def_vi": "Muốn tiếp cận nhiều người hơn.",
+   "gloss_vi": "tìm kiếm sự chú ý",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Seek publicity</i> (verb) = tìm kiếm sự chú ý. <b>Grammar</b>: động từ nhiều từ <i>seek publicity</i>.",
+   "example": {
+    "en": "A person <b>seeking publicity</b> will try to include a soundbite.",
+    "vi": "Người <b>tìm kiếm sự chú ý</b> cố chèn câu nói ấn tượng."
+   }
+  },
+  {
+   "word": "soundbite",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsaʊndbaɪt/",
+   "def_en": "A short memorable phrase repeated in news bulletins.",
+   "def_vi": "Câu ngắn dễ nhớ được nhắc lại trên tin.",
+   "gloss_vi": "câu nói ấn tượng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Soundbite</i> (noun) = câu nói ấn tượng. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "will try to include a <b>soundbite</b> in what they say",
+    "vi": "Họ cố chèn <b>câu nói ấn tượng</b>."
+   }
+  },
+  {
+   "word": "hunt for",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈhʌnt fə(r)/",
+   "def_en": "To look for.",
+   "def_vi": "Tìm kiếm.",
+   "gloss_vi": "săn",
+   "synonyms": "look for <i>(v. tìm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hunt for</i> (verb) = săn. <b>Grammar</b>: động từ nhiều từ <i>hunt for</i>.",
+   "example": {
+    "en": "Journalists also <b>hunt for</b> stories by tapping useful sources.",
+    "vi": "Nhà báo <b>săn</b> tin bằng cách khai thác nguồn."
+   }
+  },
+  {
+   "word": "tap a source",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌtæp ə ˈsɔːs/",
+   "def_en": "To make use of people or organisations who provide news.",
+   "def_vi": "Khai thác người, tổ chức cung cấp tin.",
+   "gloss_vi": "khai thác nguồn tin",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tap a source</i> (verb) = khai thác nguồn tin. <b>Common mistakes</b>: <i>tap</i> = khai thác.",
+   "example": {
+    "en": "by <b>tapping useful sources</b>",
+    "vi": "Bằng cách <b>khai thác nguồn tin</b> hữu ích."
+   }
+  },
+  {
+   "word": "monitor",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈmɒnɪtə(r)/",
+   "def_en": "To check something regularly.",
+   "def_vi": "Kiểm tra thường xuyên.",
+   "gloss_vi": "theo dõi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Monitor</i> (verb) = theo dõi. <b>Grammar</b>: cũng danh từ = màn hình.",
+   "example": {
+    "en": "by <b>monitoring</b> international news agencies like Reuters",
+    "vi": "Bằng cách <b>theo dõi</b> hãng tin quốc tế như Reuters."
+   }
+  },
+  {
+   "word": "airtime",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈeətaɪm/",
+   "def_en": "The minutes given to something on radio or TV.",
+   "def_vi": "Số phút phát sóng.",
+   "gloss_vi": "thời lượng phát sóng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Airtime</i> (noun) = thời lượng phát sóng. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "the more <b>airtime</b> it will achieve",
+    "vi": "Tin càng quan trọng càng có nhiều <b>thời lượng phát sóng</b>."
+   }
+  },
+  {
+   "word": "column inches",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkɒləm ˈɪntʃɪz/",
+   "def_en": "Space in a newspaper.",
+   "def_vi": "Dung lượng trên báo.",
+   "gloss_vi": "dung lượng bài báo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Column inches</i> (noun) = dung lượng bài báo. <b>Collocations / chunks</b>: cụm danh từ cố định <i>column inches</i>.",
+   "example": {
+    "en": "the more <b>column inches</b> it will be given in the newspaper",
+    "vi": "Nhiều <b>dung lượng</b> hơn trên báo."
+   }
+  },
+  {
+   "word": "coverage",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkʌvərɪdʒ/",
+   "def_en": "Media attention.",
+   "def_vi": "Sự đưa tin của truyền thông.",
+   "gloss_vi": "sự đưa tin",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Coverage</i> (noun) = sự đưa tin. <b>Grammar</b>: <i>cover</i> (v.).",
+   "example": {
+    "en": "the more <b>coverage</b> it will receive",
+    "vi": "Tin sẽ được <b>đưa tin</b> nhiều hơn."
+   }
+  },
+  {
+   "word": "paparazzi",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpæpəˈrætsi/",
+   "def_en": "Press photographers who follow celebrities (informal, sometimes disapproving).",
+   "def_vi": "Thợ chụp ảnh bám người nổi tiếng.",
+   "gloss_vi": "thợ săn ảnh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Paparazzi</i> (noun) = thợ săn ảnh. <b>Grammar</b>: số nhiều của <i>paparazzo</i>.",
+   "example": {
+    "en": "<b>Paparazzi</b> follow celebrities or public figures.",
+    "vi": "<b>Thợ săn ảnh</b> bám theo người nổi tiếng."
+   }
+  },
+  {
+   "word": "rag",
+   "sense": "newspaper",
+   "pos": "noun",
+   "ipa": "/ræɡ/",
+   "def_en": "A newspaper of low quality (informal).",
+   "def_vi": "Tờ báo kém chất lượng (thân mật).",
+   "gloss_vi": "báo lá cải",
+   "synonyms": "tabloid <i>(n. báo khổ nhỏ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rag</i> (noun) = báo lá cải. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "A <b>rag</b> is an informal word for a newspaper and it suggests that it is not of very high quality.",
+    "vi": "<b>Báo lá cải</b> là từ thân mật chỉ báo kém."
+   }
+  },
+  {
+   "word": "gutter press",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡʌtə pres/",
+   "def_en": "Newspapers more interested in crime and sex than serious news (disapproving).",
+   "def_vi": "Báo quan tâm tội phạm, tình dục hơn tin nghiêm túc.",
+   "gloss_vi": "báo chí rẻ tiền",
+   "synonyms": "tabloids <i>(n. báo lá cải)</i>",
+   "antonyms": "quality press <i>(n. báo chính thống)</i>",
+   "grammar_vi": "<i>Gutter press</i> (noun) = báo chí rẻ tiền. <b>Grammar</b>: chê.",
+   "example": {
+    "en": "The <b>gutter press</b> is a disapproving term.",
+    "vi": "<b>Báo chí rẻ tiền</b> là từ chê."
+   }
+  },
+  {
+   "word": "copy",
+   "sense": "journalism",
+   "pos": "noun",
+   "ipa": "/ˈkɒpi/",
+   "def_en": "Written material that journalists produce.",
+   "def_vi": "Bài viết nhà báo soạn.",
+   "gloss_vi": "bản thảo bài báo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Copy</i> (noun) = bản thảo bài báo. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "Journalists produce <b>copy</b>, which has to be ready for a deadline.",
+    "vi": "Nhà báo viết <b>bản thảo</b> phải xong trước hạn."
+   }
+  },
+  {
+   "word": "go to press",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡəʊ tə ˈpres/",
+   "def_en": "(Of a newspaper) to be printed.",
+   "def_vi": "(Báo) được đưa in.",
+   "gloss_vi": "lên khuôn, đưa in",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go to press</i> (verb) = lên khuôn, đưa in. <b>Grammar</b>: động từ nhiều từ <i>go to press</i>.",
+   "example": {
+    "en": "When everything is ready, the newspaper <b>goes to press</b>.",
+    "vi": "Khi mọi thứ xong, tờ báo <b>được đưa in</b>."
+   }
+  },
+  {
+   "word": "back copies",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌbæk ˈkɒpiz/",
+   "def_en": "Previous issues of a paper.",
+   "def_vi": "Các số báo cũ.",
+   "gloss_vi": "số báo cũ",
+   "synonyms": "back issues <i>(n. số cũ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Back copies</i> (noun) = số báo cũ. <b>Collocations / chunks</b>: cụm danh từ cố định <i>back copies</i>.",
+   "example": {
+    "en": "Previous issues of a paper are known as <b>back copies</b>.",
+    "vi": "<b>Số báo cũ</b> có trong kho lưu trữ trực tuyến."
+   }
+  },
+  {
+   "word": "archive",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɑːkaɪv/",
+   "def_en": "A collection of historical records.",
+   "def_vi": "Kho lưu trữ tư liệu.",
+   "gloss_vi": "kho lưu trữ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Archive</i> (noun) = kho lưu trữ. <b>Grammar</b>: /ˈɑːkaɪv/.",
+   "example": {
+    "en": "These are usually accessible in an online <b>archive</b>.",
+    "vi": "Số cũ có trong <b>kho lưu trữ</b> trực tuyến."
+   }
+  },
+  {
+   "word": "scoop",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/skuːp/",
+   "def_en": "A story found in only one newspaper.",
+   "def_vi": "Tin chỉ có ở một tờ báo.",
+   "gloss_vi": "tin độc quyền",
+   "synonyms": "exclusive <i>(n. tin độc quyền)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Scoop</i> (noun) = tin độc quyền. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "A story that is only to be found in one newspaper is an exclusive or <b>scoop</b>.",
+    "vi": "Tin chỉ có ở một tờ báo là <b>tin độc quyền</b>."
+   }
+  },
+  {
+   "word": "run a story",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌrʌn ə ˈstɔːri/",
+   "def_en": "To publish a news story.",
+   "def_vi": "Đăng tin.",
+   "gloss_vi": "đăng tin",
+   "synonyms": "publish <i>(v. đăng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Run a story</i> (verb) = đăng tin. <b>Grammar</b>: động từ nhiều từ <i>run a story</i>.",
+   "example": {
+    "en": "All newspapers hope to <b>run a story</b> that no one else has discovered.",
+    "vi": "Mọi tờ báo muốn <b>đăng tin</b> chưa ai phát hiện."
+   }
+  },
+  {
+   "word": "hit the headlines",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌhɪt ðə ˈhedlaɪnz/",
+   "def_en": "(Of a story) to be published as major news.",
+   "def_vi": "(Tin) lên trang nhất.",
+   "gloss_vi": "lên trang nhất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hit the headlines</i> (verb) = lên trang nhất. <b>Grammar</b>: động từ nhiều từ <i>hit the headlines</i>.",
+   "example": {
+    "en": "A major story can be said to <b>hit the headlines</b> on the day it is published.",
+    "vi": "Tin lớn <b>lên trang nhất</b> ngày đăng."
+   }
+  },
+  {
+   "word": "break",
+   "sense": "news",
+   "pos": "verb",
+   "ipa": "/breɪk/",
+   "def_en": "(Of a news story) to become public knowledge.",
+   "def_vi": "(Tin) được công bố.",
+   "gloss_vi": "vỡ lở, được công bố",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Break</i> (verb) = vỡ lở, được công bố. <b>Collocations / chunks</b>: <i>breaking news</i>.",
+   "example": {
+    "en": "At that time, the story <b>breaks</b> or becomes public knowledge.",
+    "vi": "Lúc đó tin <b>được công bố</b>."
+   }
+  },
+  {
+   "word": "libel",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlaɪbl/",
+   "def_en": "Publishing an untrue statement that damages someone’s reputation.",
+   "def_vi": "Đăng điều sai gây hại danh tiếng.",
+   "gloss_vi": "tội phỉ báng",
+   "synonyms": "defamation <i>(n. bôi nhọ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Libel</i> (noun) = tội phỉ báng. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "A newspaper may be taken to court for <b>libel</b>.",
+    "vi": "Tờ báo có thể bị kiện vì <b>phỉ báng</b>."
+   }
+  },
+  {
+   "word": "defamation of character",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdefəˌmeɪʃn əv ˈkærəktə(r)/",
+   "def_en": "Damaging someone’s reputation with untrue statements.",
+   "def_vi": "Làm hại danh tiếng bằng lời sai.",
+   "gloss_vi": "bôi nhọ danh dự",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Defamation of character</i> (noun) = bôi nhọ danh dự. <b>Collocations / chunks</b>: cụm danh từ cố định <i>defamation of character</i>.",
+   "example": {
+    "en": "taken to court for libel or <b>defamation of character</b>",
+    "vi": "Bị kiện vì phỉ báng hay <b>bôi nhọ danh dự</b>."
+   }
+  },
+  {
+   "word": "put your own spin on",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌpʊt jɔːr ˌəʊn ˈspɪn ɒn/",
+   "def_en": "To present a story in your own way.",
+   "def_vi": "Trình bày tin theo cách riêng.",
+   "gloss_vi": "thêm thắt theo ý mình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Put your own spin on</i> (verb) = thêm thắt theo ý mình. <b>Grammar</b>: cũng <i>put your own gloss on</i>.",
+   "example": {
+    "en": "Journalists will <b>put their own gloss/spin on</b> a story.",
+    "vi": "Nhà báo <b>thêm thắt</b> tin <b>theo ý mình</b>."
+   }
+  },
+  {
+   "word": "muck-raking",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmʌk reɪkɪŋ/",
+   "def_en": "Collecting scandal.",
+   "def_vi": "Thu thập bê bối.",
+   "gloss_vi": "bới móc bê bối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Muck-raking</i> (noun) = bới móc bê bối. <b>Grammar</b>: danh từ ghép <i>muck</i> + <i>raking</i>.",
+   "example": {
+    "en": "Some journalists gather stories by <b>muck-raking</b>.",
+    "vi": "Một số nhà báo lấy tin bằng <b>bới móc bê bối</b>."
+   }
+  },
+  {
+   "word": "occurrence",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈkʌrəns/",
+   "def_en": "A happening or event.",
+   "def_vi": "Sự việc, sự kiện.",
+   "gloss_vi": "sự việc",
+   "synonyms": "event <i>(n. sự kiện)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Occurrence</i> (noun) = sự việc. <b>Grammar</b>: <i>occur</i> (v.).",
+   "example": {
+    "en": "even for some <b>occurrence</b> that is quite ordinary",
+    "vi": "Kể cả <b>sự việc</b> khá bình thường."
+   }
+  },
+  {
+   "word": "media",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmiːdiə/",
+   "def_en": "Newspapers, TV, radio, etc. as a group.",
+   "def_vi": "Báo, TV, radio nói chung.",
+   "gloss_vi": "truyền thông",
+   "synonyms": "press <i>(n. báo chí)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Media</i> (noun) = truyền thông. <b>Grammar</b>: số nhiều, nhưng có người dùng số ít.",
+   "example": {
+    "en": "The <b>media</b> are blamed for a number of social problems.",
+    "vi": "<b>Truyền thông</b> bị đổ lỗi cho nhiều vấn đề xã hội."
+   }
+  }
+ ]
+}
