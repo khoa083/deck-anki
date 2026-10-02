@@ -1,0 +1,552 @@
+{
+ "book": "adv",
+ "unit": 44,
+ "title_vi": "Chiến tranh và hòa bình",
+ "theory_html": "<p><b>A. War and violence</b><br><i>A. Chiến tranh và bạo lực</i></p> <p><b>a last resort, diplomacy, sanctions, weaponry, civilian casualties, intervention, regime change, tyrannical, overthrow, civil war, unrest, clashes, rival, ethnic, escalate, all-out, brutal suppression, ethnic cleansing, massacres, conflict resolution, mistrust, hatred</b>.</p><p><i><b>biện pháp cuối cùng, ngoại giao, trừng phạt, vũ khí, thương vong dân thường, can thiệp, thay đổi chế độ, chuyên chế, lật đổ, nội chiến, bất ổn, đụng độ, đối địch, sắc tộc, leo thang, toàn diện, đàn áp tàn bạo, thanh lọc sắc tộc, thảm sát, giải quyết xung đột, ngờ vực, thù hận</b>.</i></p> <p><b>B. Other words and expressions relating to war and peace</b><br><i>B. Từ và cụm khác về chiến tranh và hòa bình</i></p> <p><b>wage war on, hostilities, besiege (siege), ambush, truce, ceasefire, peacekeeping force, international observers, campaign, rebellion, suicide bomber</b>.</p><p><i><b>gây chiến, chiến sự, bao vây, phục kích, đình chiến, ngừng bắn, lực lượng gìn giữ hòa bình, quan sát viên quốc tế, chiến dịch, cuộc nổi dậy, kẻ đánh bom liều chết</b>.</i></p> <p><b>C. Metaphors of warfare</b><br><i>C. Ẩn dụ chiến tranh</i></p> <p><b>wage war on drink-driving, besiege, campaign, battle, a fight on our hands, fleet</b>.</p><p><i>Ẩn dụ: <b>tuyên chiến với, vây kín, chiến dịch quảng cáo, giành giật, cuộc chiến phía trước, đoàn xe</b>.</i></p>",
+ "items": [
+  {
+   "word": "a last resort",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ə ˌlɑːst rɪˈzɔːt/",
+   "def_en": "Something you do when everything else has failed.",
+   "def_vi": "Việc làm khi mọi cách đã thất bại.",
+   "gloss_vi": "biện pháp cuối cùng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A last resort</i> (noun) = biện pháp cuối cùng. <b>Collocations / chunks</b>: cụm danh từ cố định <i>a last resort</i>.",
+   "example": {
+    "en": "War is often seen as <b>a last resort</b>.",
+    "vi": "Chiến tranh thường được xem là <b>biện pháp cuối cùng</b>."
+   }
+  },
+  {
+   "word": "diplomacy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈpləʊməsi/",
+   "def_en": "Activities concerning the relationships between governments.",
+   "def_vi": "Hoạt động về quan hệ giữa các chính phủ.",
+   "gloss_vi": "ngoại giao",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Diplomacy</i> (noun) = ngoại giao. <b>Grammar</b>: <i>diplomat</i> (n.).",
+   "example": {
+    "en": "when <b>diplomacy</b> and such measures as economic sanctions have failed",
+    "vi": "Khi <b>ngoại giao</b> đã thất bại."
+   }
+  },
+  {
+   "word": "sanctions",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsæŋkʃnz/",
+   "def_en": "Official orders, such as stopping trade, taken against a country to make it obey international law.",
+   "def_vi": "Biện pháp như cấm vận buộc một nước tuân luật quốc tế.",
+   "gloss_vi": "lệnh trừng phạt",
+   "synonyms": "embargo <i>(n. cấm vận)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sanctions</i> (noun) = lệnh trừng phạt. <b>Collocations / chunks</b>: <i>impose / lift sanctions</i>.",
+   "example": {
+    "en": "diplomacy and such measures as economic <b>sanctions</b> have failed",
+    "vi": "Ngoại giao và <b>trừng phạt</b> kinh tế đã thất bại."
+   }
+  },
+  {
+   "word": "weaponry",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwepənri/",
+   "def_en": "Weapons in general.",
+   "def_vi": "Vũ khí nói chung.",
+   "gloss_vi": "vũ khí",
+   "synonyms": "arms <i>(n. vũ khí)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Weaponry</i> (noun) = vũ khí. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "carried out with the benefit of the latest hi-tech <b>weaponry</b>",
+    "vi": "Với <b>vũ khí</b> công nghệ cao mới nhất."
+   }
+  },
+  {
+   "word": "civilian casualties",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/səˌvɪliən ˈkæʒuəltiz/",
+   "def_en": "People injured or killed who are not military or police.",
+   "def_vi": "Người không phải quân đội, cảnh sát bị thương vong.",
+   "gloss_vi": "thương vong dân thường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Civilian casualties</i> (noun) = thương vong dân thường. <b>Collocations / chunks</b>: cụm danh từ cố định <i>civilian casualties</i>.",
+   "example": {
+    "en": "inevitably result in <b>civilian casualties</b>",
+    "vi": "Không tránh khỏi <b>thương vong dân thường</b>."
+   }
+  },
+  {
+   "word": "regime change",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/reɪˈʒiːm tʃeɪndʒ/",
+   "def_en": "Changing the government or leader of a country, especially by force.",
+   "def_vi": "Thay chính phủ hay lãnh đạo, nhất là bằng vũ lực.",
+   "gloss_vi": "thay đổi chế độ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Regime change</i> (noun) = thay đổi chế độ. <b>Collocations / chunks</b>: cụm danh từ cố định <i>regime change</i>.",
+   "example": {
+    "en": "Military intervention may be carried out with the goal of <b>regime change</b>.",
+    "vi": "Can thiệp quân sự nhằm <b>thay đổi chế độ</b>."
+   }
+  },
+  {
+   "word": "tyrannical",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/tɪˈrænɪkl/",
+   "def_en": "Using power in a cruel way over people.",
+   "def_vi": "Dùng quyền lực tàn ác.",
+   "gloss_vi": "chuyên chế, bạo ngược",
+   "synonyms": "despotic <i>(adj. chuyên quyền)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tyrannical</i> (adjective) = chuyên chế, bạo ngược. <b>Grammar</b>: <i>tyranny, tyrant</i> (n.).",
+   "example": {
+    "en": "It is often the leaders of <b>tyrannical</b> regimes who are the most difficult to overthrow.",
+    "vi": "Lãnh đạo các chế độ <b>bạo ngược</b> khó lật đổ nhất."
+   }
+  },
+  {
+   "word": "overthrow",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌəʊvəˈθrəʊ/",
+   "def_en": "To remove somebody from power using force.",
+   "def_vi": "Dùng vũ lực đưa ai khỏi quyền lực.",
+   "gloss_vi": "lật đổ",
+   "synonyms": "topple <i>(v. lật đổ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Overthrow</i> (verb) = lật đổ. <b>Grammar</b>: bất quy tắc: overthrew, overthrown.",
+   "example": {
+    "en": "the most difficult to <b>overthrow</b>",
+    "vi": "Lãnh đạo bạo ngược khó <b>lật đổ</b> nhất."
+   }
+  },
+  {
+   "word": "civil war",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsɪvl ˈwɔː(r)/",
+   "def_en": "War between groups who live in the same country.",
+   "def_vi": "Chiến tranh giữa các nhóm trong một nước.",
+   "gloss_vi": "nội chiến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Civil war</i> (noun) = nội chiến. <b>Collocations / chunks</b>: cụm danh từ cố định <i>civil war</i>.",
+   "example": {
+    "en": "Even more tragic than wars between states is <b>civil war</b>.",
+    "vi": "Bi thảm hơn là <b>nội chiến</b>."
+   }
+  },
+  {
+   "word": "unrest",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ʌnˈrest/",
+   "def_en": "Disagreement or fighting between groups.",
+   "def_vi": "Bất đồng hay đánh nhau giữa các nhóm.",
+   "gloss_vi": "tình trạng bất ổn",
+   "synonyms": "turmoil <i>(n. hỗn loạn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Unrest</i> (noun) = tình trạng bất ổn. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "which often begins with civil <b>unrest</b>",
+    "vi": "Nội chiến thường bắt đầu bằng <b>bất ổn</b> xã hội."
+   }
+  },
+  {
+   "word": "clash",
+   "sense": "fight",
+   "pos": "noun",
+   "ipa": "/klæʃ/",
+   "def_en": "A fight or argument.",
+   "def_vi": "Cuộc đánh nhau, tranh cãi.",
+   "gloss_vi": "cuộc đụng độ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Clash</i> (noun) = cuộc đụng độ. <b>Grammar</b>: cũng động từ.",
+   "example": {
+    "en": "<b>clashes</b> between rival ethnic, religious or political groups",
+    "vi": "<b>Đụng độ</b> giữa các nhóm đối địch."
+   }
+  },
+  {
+   "word": "rival",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈraɪvl/",
+   "def_en": "Competing against one another.",
+   "def_vi": "Cạnh tranh nhau.",
+   "gloss_vi": "đối địch",
+   "synonyms": "opposing <i>(adj. đối lập)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rival</i> (adjective) = đối địch. <b>Grammar</b>: cũng danh từ.",
+   "example": {
+    "en": "clashes between <b>rival</b> ethnic, religious or political groups",
+    "vi": "Đụng độ giữa các nhóm <b>đối địch</b>."
+   }
+  },
+  {
+   "word": "ethnic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈeθnɪk/",
+   "def_en": "National or racial.",
+   "def_vi": "Thuộc dân tộc, chủng tộc.",
+   "gloss_vi": "sắc tộc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ethnic</i> (adjective) = sắc tộc. <b>Grammar</b>: <i>ethnicity</i> (n.).",
+   "example": {
+    "en": "clashes between rival <b>ethnic</b>, religious or political groups",
+    "vi": "Đụng độ giữa các nhóm <b>sắc tộc</b>."
+   }
+  },
+  {
+   "word": "escalate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈeskəleɪt/",
+   "def_en": "To become greater or more serious.",
+   "def_vi": "Trở nên lớn, nghiêm trọng hơn.",
+   "gloss_vi": "leo thang",
+   "synonyms": "intensify <i>(v. tăng cường)</i>",
+   "antonyms": "de-escalate <i>(v. giảm căng thẳng)</i>",
+   "grammar_vi": "<i>Escalate</i> (verb) = leo thang. <b>Grammar</b>: <i>escalation</i> (n.).",
+   "example": {
+    "en": "and may <b>escalate</b> into all-out war",
+    "vi": "Có thể <b>leo thang</b> thành chiến tranh toàn diện."
+   }
+  },
+  {
+   "word": "brutal suppression",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌbruːtl səˈpreʃn/",
+   "def_en": "The violent and cruel ending of the right or freedom to do something.",
+   "def_vi": "Chấm dứt tàn bạo quyền tự do.",
+   "gloss_vi": "đàn áp tàn bạo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Brutal suppression</i> (noun) = đàn áp tàn bạo. <b>Grammar</b>: <i>suppress</i> (v.).",
+   "example": {
+    "en": "and end in the <b>brutal suppression</b> of one group by another",
+    "vi": "Kết thúc bằng <b>đàn áp tàn bạo</b> một nhóm bởi nhóm khác."
+   }
+  },
+  {
+   "word": "ethnic cleansing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌeθnɪk ˈklenzɪŋ/",
+   "def_en": "An organised violent attempt to remove a racial group from an area.",
+   "def_vi": "Nỗ lực bạo lực loại bỏ một nhóm chủng tộc.",
+   "gloss_vi": "thanh lọc sắc tộc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ethnic cleansing</i> (noun) = thanh lọc sắc tộc. <b>Collocations / chunks</b>: cụm danh từ cố định <i>ethnic cleansing</i>.",
+   "example": {
+    "en": "in extreme cases, <b>ethnic cleansing</b> and massacres",
+    "vi": "Trường hợp cực đoan là <b>thanh lọc sắc tộc</b>."
+   }
+  },
+  {
+   "word": "massacre",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmæsəkə(r)/",
+   "def_en": "The killing of large numbers of people.",
+   "def_vi": "Giết hại rất nhiều người.",
+   "gloss_vi": "cuộc thảm sát",
+   "synonyms": "slaughter <i>(n. tàn sát)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Massacre</i> (noun) = cuộc thảm sát. <b>Grammar</b>: cũng động từ.",
+   "example": {
+    "en": "ethnic cleansing and <b>massacres</b>",
+    "vi": "Thanh lọc sắc tộc và <b>thảm sát</b>."
+   }
+  },
+  {
+   "word": "conflict resolution",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkɒnflɪkt ˌrezəˈluːʃn/",
+   "def_en": "Finding a way to end conflict and negative feelings between groups.",
+   "def_vi": "Tìm cách chấm dứt xung đột giữa các nhóm.",
+   "gloss_vi": "giải quyết xung đột",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Conflict resolution</i> (noun) = giải quyết xung đột. <b>Collocations / chunks</b>: cụm danh từ cố định <i>conflict resolution</i>.",
+   "example": {
+    "en": "<b>Conflict resolution</b> may take years to bring into effect.",
+    "vi": "<b>Giải quyết xung đột</b> có thể mất nhiều năm."
+   }
+  },
+  {
+   "word": "mistrust",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmɪsˈtrʌst/",
+   "def_en": "A lack or absence of trust.",
+   "def_vi": "Thiếu lòng tin.",
+   "gloss_vi": "sự ngờ vực",
+   "synonyms": "distrust <i>(n. ngờ vực)</i>",
+   "antonyms": "trust <i>(n. tin tưởng)</i>",
+   "grammar_vi": "<i>Mistrust</i> (noun) = sự ngờ vực. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "<b>Mistrust</b> and hatred between groups may continue for many years.",
+    "vi": "<b>Ngờ vực</b> và thù hận có thể kéo dài nhiều năm."
+   }
+  },
+  {
+   "word": "hatred",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈheɪtrɪd/",
+   "def_en": "A feeling of intense dislike.",
+   "def_vi": "Cảm giác căm ghét.",
+   "gloss_vi": "lòng thù hận",
+   "synonyms": "hate <i>(n. căm ghét)</i>",
+   "antonyms": "love <i>(n. tình yêu)</i>",
+   "grammar_vi": "<i>Hatred</i> (noun) = lòng thù hận. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "mistrust and <b>hatred</b> between groups within the same country",
+    "vi": "Ngờ vực và <b>thù hận</b> có thể kéo dài."
+   }
+  },
+  {
+   "word": "wage war on",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌweɪdʒ ˈwɔːr ɒn/",
+   "def_en": "To fight a war against.",
+   "def_vi": "Tiến hành chiến tranh chống.",
+   "gloss_vi": "gây chiến với",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wage war on</i> (verb) = gây chiến với. <b>Common mistakes</b>: ẩn dụ: <i>wage war on drink-driving</i>.",
+   "example": {
+    "en": "Powerful West African rulers <b>waged war on</b> their neighbours in the 19th century.",
+    "vi": "Các nhà cai trị Tây Phi <b>gây chiến với</b> láng giềng."
+   }
+  },
+  {
+   "word": "hostilities",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/hɒˈstɪlətiz/",
+   "def_en": "Acts of war.",
+   "def_vi": "Hành động chiến tranh.",
+   "gloss_vi": "chiến sự",
+   "synonyms": "fighting <i>(n. giao tranh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hostilities</i> (noun) = chiến sự. <b>Grammar</b>: số nhiều trong nghĩa này.",
+   "example": {
+    "en": "<b>Hostilities</b> finally ceased after five years of bloodshed.",
+    "vi": "<b>Chiến sự</b> cuối cùng chấm dứt sau năm năm."
+   }
+  },
+  {
+   "word": "besiege",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/bɪˈsiːdʒ/",
+   "def_en": "To attack a place by surrounding it for a period of time.",
+   "def_vi": "Tấn công bằng cách bao vây lâu.",
+   "gloss_vi": "bao vây",
+   "synonyms": "surround <i>(v. vây quanh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Besiege</i> (verb) = bao vây. <b>Grammar</b>: <i>siege</i> (n.); ẩn dụ: <i>Paparazzi are besieging…</i>.",
+   "example": {
+    "en": "The invading army <b>besieged</b> the city.",
+    "vi": "Quân xâm lược <b>bao vây</b> thành phố."
+   }
+  },
+  {
+   "word": "ambush",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈæmbʊʃ/",
+   "def_en": "To attack unexpectedly from secret positions.",
+   "def_vi": "Tấn công bất ngờ từ chỗ ẩn nấp.",
+   "gloss_vi": "phục kích",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ambush</i> (verb) = phục kích. <b>Grammar</b>: cũng danh từ.",
+   "example": {
+    "en": "The patrol was <b>ambushed</b> on a remote highway.",
+    "vi": "Đội tuần tra bị <b>phục kích</b> trên đường vắng."
+   }
+  },
+  {
+   "word": "truce",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/truːs/",
+   "def_en": "An agreement during a war to stop fighting for a time.",
+   "def_vi": "Thỏa thuận ngừng chiến một thời gian.",
+   "gloss_vi": "sự đình chiến",
+   "synonyms": "ceasefire <i>(n. ngừng bắn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Truce</i> (noun) = sự đình chiến. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "The two armies signed a <b>truce</b> in 2016.",
+    "vi": "Hai quân đội ký <b>đình chiến</b> năm 2016."
+   }
+  },
+  {
+   "word": "ceasefire",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsiːsfaɪə(r)/",
+   "def_en": "An agreement between two armies or groups to stop fighting.",
+   "def_vi": "Thỏa thuận ngừng bắn.",
+   "gloss_vi": "lệnh ngừng bắn",
+   "synonyms": "truce <i>(n. đình chiến)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ceasefire</i> (noun) = lệnh ngừng bắn. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "A <b>ceasefire</b> was declared in 2015.",
+    "vi": "<b>Lệnh ngừng bắn</b> được tuyên bố năm 2015."
+   }
+  },
+  {
+   "word": "peacekeeping force",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpiːskiːpɪŋ fɔːs/",
+   "def_en": "Neutral soldiers who keep the peace in a divided society.",
+   "def_vi": "Binh lính trung lập giữ hòa bình.",
+   "gloss_vi": "lực lượng gìn giữ hòa bình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Peacekeeping force</i> (noun) = lực lượng gìn giữ hòa bình. <b>Collocations / chunks</b>: cụm danh từ cố định <i>peacekeeping force</i>.",
+   "example": {
+    "en": "A <b>peacekeeping force</b> entered the country in 2016.",
+    "vi": "<b>Lực lượng gìn giữ hòa bình</b> vào nước này năm 2016."
+   }
+  },
+  {
+   "word": "international observers",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɪntənæʃnəl əbˈzɜːvəz/",
+   "def_en": "Outside, neutral people or bodies who watch events.",
+   "def_vi": "Người, tổ chức trung lập bên ngoài theo dõi.",
+   "gloss_vi": "quan sát viên quốc tế",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>International observers</i> (noun) = quan sát viên quốc tế. <b>Collocations / chunks</b>: cụm danh từ cố định <i>international observers</i>.",
+   "example": {
+    "en": "<b>International observers</b> monitored the ceasefire.",
+    "vi": "<b>Quan sát viên quốc tế</b> giám sát lệnh ngừng bắn."
+   }
+  },
+  {
+   "word": "campaign",
+   "sense": "military",
+   "pos": "noun",
+   "ipa": "/kæmˈpeɪn/",
+   "def_en": "A planned group of military activities.",
+   "def_vi": "Loạt hoạt động quân sự có kế hoạch.",
+   "gloss_vi": "chiến dịch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Campaign</i> (noun) = chiến dịch. <b>Common mistakes</b>: cũng <i>advertising campaign</i>.",
+   "example": {
+    "en": "The rebels fought a long <b>campaign</b> against the dictatorship.",
+    "vi": "Quân nổi dậy tiến hành <b>chiến dịch</b> dài chống chế độ độc tài."
+   }
+  },
+  {
+   "word": "rebellion",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˈbeljən/",
+   "def_en": "People fighting against their government.",
+   "def_vi": "Người dân chống lại chính phủ.",
+   "gloss_vi": "cuộc nổi dậy",
+   "synonyms": "uprising <i>(n. khởi nghĩa)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rebellion</i> (noun) = cuộc nổi dậy. <b>Grammar</b>: <i>rebel</i> (n./v.).",
+   "example": {
+    "en": "The <b>rebellion</b> lasted ten years before the dictator was defeated.",
+    "vi": "<b>Cuộc nổi dậy</b> kéo dài mười năm."
+   }
+  },
+  {
+   "word": "suicide bomber",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsuːɪsaɪd ˌbɒmə(r)/",
+   "def_en": "A person who lets off explosives, deliberately killing themselves.",
+   "def_vi": "Người kích nổ bom, cố ý chết theo.",
+   "gloss_vi": "kẻ đánh bom liều chết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Suicide bomber</i> (noun) = kẻ đánh bom liều chết. <b>Collocations / chunks</b>: cụm danh từ cố định <i>suicide bomber</i>.",
+   "example": {
+    "en": "A <b>suicide bomber</b> killed 25 people at a military base yesterday.",
+    "vi": "Một <b>kẻ đánh bom liều chết</b> giết 25 người."
+   }
+  },
+  {
+   "word": "battle",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈbætl/",
+   "def_en": "To try very hard to achieve something against others.",
+   "def_vi": "Cố hết sức giành điều gì.",
+   "gloss_vi": "giành giật",
+   "synonyms": "compete <i>(v. cạnh tranh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Battle</i> (verb) = giành giật. <b>Common mistakes</b>: ẩn dụ chiến tranh.",
+   "example": {
+    "en": "Several companies are <b>battling</b> to win market supremacy in sales of smartphones.",
+    "vi": "Nhiều công ty <b>giành giật</b> vị thế trên thị trường điện thoại."
+   }
+  },
+  {
+   "word": "a fight on your hands",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ə ˌfaɪt ɒn jɔː ˈhændz/",
+   "def_en": "A difficult struggle that you have to face.",
+   "def_vi": "Cuộc đấu tranh khó khăn phải đối mặt.",
+   "gloss_vi": "cuộc chiến cam go",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A fight on your hands</i> (noun) = cuộc chiến cam go. <b>Grammar</b>: tính từ sở hữu đổi theo người.",
+   "example": {
+    "en": "We have a major <b>fight on our hands</b> if we are to save the company.",
+    "vi": "Ta có <b>cuộc chiến cam go</b> để cứu công ty khỏi phá sản."
+   }
+  },
+  {
+   "word": "fleet",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/fliːt/",
+   "def_en": "A large group of vehicles or ships.",
+   "def_vi": "Đoàn xe hay tàu lớn.",
+   "gloss_vi": "đoàn xe, hạm đội",
+   "synonyms": "convoy <i>(n. đoàn xe)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fleet</i> (noun) = đoàn xe, hạm đội. <b>Grammar</b>: thường dùng cho tàu.",
+   "example": {
+    "en": "A <b>fleet</b> of bullet-proof cars followed the President’s limousine.",
+    "vi": "Một <b>đoàn</b> xe chống đạn theo sau xe Tổng thống."
+   }
+  }
+ ]
+}

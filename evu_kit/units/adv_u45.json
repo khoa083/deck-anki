@@ -1,0 +1,456 @@
+{
+ "book": "adv",
+ "unit": 45,
+ "title_vi": "Kinh tế và tài chính",
+ "theory_html": "<p><b>A. International aid and development</b><br><i>A. Viện trợ và phát triển quốc tế</i></p> <p>Collocations: <b>sustainable development, encouraging signs, take root, achieve economic growth, recover from a long decline, deep/abject poverty, determined efforts, allocate funds, development grants, pursue policies, eradicate poverty, improve access to</b>.</p><p><i>Kết hợp từ: <b>phát triển bền vững, dấu hiệu khả quan, bén rễ, đạt tăng trưởng, phục hồi sau suy giảm, nghèo cùng cực, nỗ lực quyết liệt, phân bổ quỹ, khoản tài trợ phát triển, theo đuổi chính sách, xóa nghèo, cải thiện tiếp cận</b>.</i></p> <p><b>B. Collocations related to the noun debt</b><br><i>B. Kết hợp với debt</i></p> <p><b>repay debt, debt burden, ease the debt burden, cancel debt, debtor countries/nations, incur debt, alleviate debt, debt relief</b>.</p><p><i><b>trả nợ, gánh nặng nợ, giảm gánh nặng nợ, xóa nợ, nước con nợ, mắc nợ, giảm nợ, xóa giảm nợ</b>.</i></p> <p><b>C. Trade and cooperation</b><br><i>C. Thương mại và hợp tác</i></p> <p><b>free trade agreements, restrictive practices, trade wars, sanctions, embargoes, impose / lift, monetary union, single currency</b>.</p><p><i><b>hiệp định thương mại tự do, hành vi hạn chế, chiến tranh thương mại, trừng phạt, cấm vận, áp đặt/dỡ bỏ, liên minh tiền tệ, đồng tiền chung</b>.</i></p> <p><b>D. Economic difficulties</b><br><i>D. Khó khăn kinh tế</i></p> <p><b>war-torn, ailing, devaluation/revaluation, go into / come out of / emerge from recession, double-dip recession, slump in prices, lower taxes, boost the economy</b>.</p><p><i><b>tàn phá bởi chiến tranh, ốm yếu, phá giá/nâng giá, rơi vào/thoát khỏi suy thoái, suy thoái kép, giá sụt giảm, giảm thuế, kích thích kinh tế</b>.</i></p> <p><b>CM. Common mistakes</b><br><i>CM. Lỗi thường gặp</i></p> <p>The verb meaning to reduce the value of a currency is <b>devalue</b> (NOT <b>devaluate</b>).</p><p><i>Động từ là <b>devalue</b>, không phải <b>devaluate</b>.</i></p>",
+ "items": [
+  {
+   "word": "encouraging signs",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˌkʌrɪdʒɪŋ ˈsaɪnz/",
+   "def_en": "Signs that something is going well.",
+   "def_vi": "Dấu hiệu việc gì đang tốt.",
+   "gloss_vi": "dấu hiệu khả quan",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Encouraging signs</i> (noun) = dấu hiệu khả quan. <b>Collocations / chunks</b>: cụm danh từ cố định <i>encouraging signs</i>.",
+   "example": {
+    "en": "There are many <b>encouraging signs</b> that such projects have taken root.",
+    "vi": "Có nhiều <b>dấu hiệu khả quan</b> rằng các dự án đã bén rễ."
+   }
+  },
+  {
+   "word": "achieve economic growth",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˌtʃiːv ˌiːkənɒmɪk ˈɡrəʊθ/",
+   "def_en": "To make the economy grow.",
+   "def_vi": "Làm nền kinh tế tăng trưởng.",
+   "gloss_vi": "đạt tăng trưởng kinh tế",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Achieve economic growth</i> (verb) = đạt tăng trưởng kinh tế. <b>Grammar</b>: động từ nhiều từ <i>achieve economic growth</i>.",
+   "example": {
+    "en": "A score of African countries <b>achieved economic growth</b> of more than 4% per year.",
+    "vi": "Nhiều nước châu Phi <b>đạt tăng trưởng kinh tế</b> hơn 4%."
+   }
+  },
+  {
+   "word": "recover from a long decline",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rɪˌkʌvə frəm ə ˌlɒŋ dɪˈklaɪn/",
+   "def_en": "To get better after a long period of getting worse.",
+   "def_vi": "Khá lên sau thời gian dài đi xuống.",
+   "gloss_vi": "phục hồi sau suy giảm dài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Recover from a long decline</i> (verb) = phục hồi sau suy giảm dài. <b>Grammar</b>: động từ nhiều từ <i>recover from a long decline</i>.",
+   "example": {
+    "en": "Africa’s share in world trade now shows real signs of <b>recovering from a long decline</b>.",
+    "vi": "Thị phần thương mại châu Phi đang <b>phục hồi sau suy giảm dài</b>."
+   }
+  },
+  {
+   "word": "deep poverty",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdiːp ˈpɒvəti/",
+   "def_en": "Very great poverty.",
+   "def_vi": "Nghèo rất nặng.",
+   "gloss_vi": "nghèo cùng cực",
+   "synonyms": "abject poverty <i>(n. nghèo khổ cùng cực)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Deep poverty</i> (noun) = nghèo cùng cực. <b>Collocations / chunks</b>: cũng <i>abject poverty</i>.",
+   "example": {
+    "en": "Many millions of people in Africa still live in <b>deep poverty</b>.",
+    "vi": "Hàng triệu người châu Phi vẫn sống trong <b>nghèo cùng cực</b>."
+   }
+  },
+  {
+   "word": "determined efforts",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˌtɜːmɪnd ˈefəts/",
+   "def_en": "Strong attempts to achieve something.",
+   "def_vi": "Nỗ lực quyết tâm.",
+   "gloss_vi": "nỗ lực quyết liệt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Determined efforts</i> (noun) = nỗ lực quyết liệt. <b>Collocations / chunks</b>: cụm danh từ cố định <i>determined efforts</i>.",
+   "example": {
+    "en": "More <b>determined efforts</b> are needed to tackle the problem.",
+    "vi": "Cần <b>nỗ lực quyết liệt</b> hơn để giải quyết vấn đề."
+   }
+  },
+  {
+   "word": "allocate funds",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌæləkeɪt ˈfʌndz/",
+   "def_en": "To give money to be used for a particular purpose.",
+   "def_vi": "Cấp tiền cho mục đích cụ thể.",
+   "gloss_vi": "phân bổ quỹ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Allocate funds</i> (verb) = phân bổ quỹ. <b>Grammar</b>: <i>allocation</i> (n.).",
+   "example": {
+    "en": "The European Union is committed to supporting and <b>allocating funds</b>.",
+    "vi": "EU cam kết <b>phân bổ quỹ</b> cho các chính phủ châu Phi."
+   }
+  },
+  {
+   "word": "development grant",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈveləpmənt ɡrɑːnt/",
+   "def_en": "Money given to help development.",
+   "def_vi": "Tiền cấp để hỗ trợ phát triển.",
+   "gloss_vi": "khoản tài trợ phát triển",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Development grant</i> (noun) = khoản tài trợ phát triển. <b>Collocations / chunks</b>: cụm danh từ cố định <i>development grant</i>.",
+   "example": {
+    "en": "allocating funds and <b>development grants</b>",
+    "vi": "Phân bổ quỹ và <b>tài trợ phát triển</b>."
+   }
+  },
+  {
+   "word": "pursue policies",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/pəˌsjuː ˈpɒləsiz/",
+   "def_en": "To follow particular policies.",
+   "def_vi": "Theo đuổi chính sách.",
+   "gloss_vi": "theo đuổi chính sách",
+   "synonyms": "follow policies <i>(v. theo chính sách)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pursue policies</i> (verb) = theo đuổi chính sách. <b>Grammar</b>: động từ nhiều từ <i>pursue policies</i>.",
+   "example": {
+    "en": "those African governments which are <b>pursuing policies</b> to reduce and eradicate poverty",
+    "vi": "Các chính phủ <b>theo đuổi chính sách</b> xóa nghèo."
+   }
+  },
+  {
+   "word": "improve access to",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪmˌpruːv ˈækses tə/",
+   "def_en": "To make it easier for people to get or use something.",
+   "def_vi": "Giúp người dân dễ tiếp cận điều gì.",
+   "gloss_vi": "cải thiện tiếp cận",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Improve access to</i> (verb) = cải thiện tiếp cận. <b>Grammar</b>: động từ nhiều từ <i>improve access to</i>.",
+   "example": {
+    "en": "and <b>improve access to</b> healthcare, education and clean water supplies",
+    "vi": "<b>Cải thiện tiếp cận</b> y tế, giáo dục và nước sạch."
+   }
+  },
+  {
+   "word": "repay debt",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rɪˌpeɪ ˈdet/",
+   "def_en": "To pay back money that is owed.",
+   "def_vi": "Trả lại tiền nợ.",
+   "gloss_vi": "trả nợ",
+   "synonyms": "pay off <i>(v. trả hết)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Repay debt</i> (verb) = trả nợ. <b>Grammar</b>: động từ nhiều từ <i>repay debt</i>.",
+   "example": {
+    "en": "Countries often find it impossible to <b>repay debt</b>.",
+    "vi": "Các nước thường không thể <b>trả nợ</b>."
+   }
+  },
+  {
+   "word": "debt burden",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdet ˌbɜːdn/",
+   "def_en": "The heavy load of debt a country must pay.",
+   "def_vi": "Gánh nợ nặng.",
+   "gloss_vi": "gánh nặng nợ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Debt burden</i> (noun) = gánh nặng nợ. <b>Collocations / chunks</b>: <i>ease the debt burden</i>.",
+   "example": {
+    "en": "The <b>debt burden</b> is too great.",
+    "vi": "<b>Gánh nặng nợ</b> quá lớn."
+   }
+  },
+  {
+   "word": "cancel debt",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkænsl ˈdet/",
+   "def_en": "To say that debt no longer has to be paid.",
+   "def_vi": "Tuyên bố không cần trả nợ nữa.",
+   "gloss_vi": "xóa nợ",
+   "synonyms": "write off <i>(v. xóa sổ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cancel debt</i> (verb) = xóa nợ. <b>Grammar</b>: động từ nhiều từ <i>cancel debt</i>.",
+   "example": {
+    "en": "Easing the debt burden or <b>cancelling debt</b> helps debtor countries.",
+    "vi": "Giảm gánh nặng nợ hay <b>xóa nợ</b> giúp nước con nợ."
+   }
+  },
+  {
+   "word": "debtor nation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdetə ˌneɪʃn/",
+   "def_en": "A country that owes money.",
+   "def_vi": "Nước nợ tiền.",
+   "gloss_vi": "nước con nợ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "creditor <i>(n. chủ nợ)</i>",
+   "grammar_vi": "<i>Debtor nation</i> (noun) = nước con nợ. <b>Grammar</b>: cũng <i>debtor country</i>.",
+   "example": {
+    "en": "helps <b>debtor countries</b>/nations free themselves",
+    "vi": "Xóa nợ giúp <b>nước con nợ</b> thoát khỏi vấn đề."
+   }
+  },
+  {
+   "word": "incur debt",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪnˌkɜː ˈdet/",
+   "def_en": "To get into debt.",
+   "def_vi": "Mắc nợ.",
+   "gloss_vi": "mắc nợ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Incur debt</i> (verb) = mắc nợ. <b>Collocations / chunks</b>: <i>incur debt/costs</i>.",
+   "example": {
+    "en": "free themselves from the problem of <b>incurring</b> more and more <b>debt</b>",
+    "vi": "Thoát khỏi vấn đề <b>mắc</b> ngày càng nhiều <b>nợ</b>."
+   }
+  },
+  {
+   "word": "debt relief",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdet rɪˌliːf/",
+   "def_en": "Reducing or cancelling the debt of poor countries.",
+   "def_vi": "Giảm, xóa nợ cho nước nghèo.",
+   "gloss_vi": "xóa giảm nợ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Debt relief</i> (noun) = xóa giảm nợ. <b>Collocations / chunks</b>: cũng <i>alleviate debt</i>.",
+   "example": {
+    "en": "Alleviating debt / <b>Debt relief</b> for poor countries should be a priority.",
+    "vi": "<b>Xóa giảm nợ</b> cho nước nghèo nên là ưu tiên."
+   }
+  },
+  {
+   "word": "free trade agreement",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌfriː ˈtreɪd əˌɡriːmənt/",
+   "def_en": "An agreement allowing trade between countries without restrictions.",
+   "def_vi": "Thỏa thuận thương mại không hạn chế.",
+   "gloss_vi": "hiệp định thương mại tự do",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Free trade agreement</i> (noun) = hiệp định thương mại tự do. <b>Collocations / chunks</b>: cụm danh từ cố định <i>free trade agreement</i>.",
+   "example": {
+    "en": "<b>Free trade agreements</b> often cause disputes between countries.",
+    "vi": "<b>Hiệp định thương mại tự do</b> thường gây tranh chấp."
+   }
+  },
+  {
+   "word": "restrictive practices",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˌstrɪktɪv ˈpræktɪsɪz/",
+   "def_en": "Placing unfair restrictions, e.g. limiting imports.",
+   "def_vi": "Đặt hạn chế bất công như hạn chế nhập khẩu.",
+   "gloss_vi": "hành vi hạn chế thương mại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Restrictive practices</i> (noun) = hành vi hạn chế thương mại. <b>Collocations / chunks</b>: cụm danh từ cố định <i>restrictive practices</i>.",
+   "example": {
+    "en": "when one country thinks the other is engaged in <b>restrictive practices</b>",
+    "vi": "Một nước nghĩ nước kia có <b>hành vi hạn chế thương mại</b>."
+   }
+  },
+  {
+   "word": "trade war",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtreɪd wɔː(r)/",
+   "def_en": "A situation where countries try to damage each other’s trade.",
+   "def_vi": "Tình trạng các nước làm hại thương mại nhau.",
+   "gloss_vi": "chiến tranh thương mại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trade war</i> (noun) = chiến tranh thương mại. <b>Collocations / chunks</b>: cụm danh từ cố định <i>trade war</i>.",
+   "example": {
+    "en": "Occasionally, <b>trade wars</b> erupt.",
+    "vi": "Đôi khi <b>chiến tranh thương mại</b> nổ ra."
+   }
+  },
+  {
+   "word": "embargo",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪmˈbɑːɡəʊ/",
+   "def_en": "A total prohibition on importing or exporting certain goods.",
+   "def_vi": "Cấm hoàn toàn xuất nhập khẩu hàng nào.",
+   "gloss_vi": "lệnh cấm vận",
+   "synonyms": "ban <i>(n. lệnh cấm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Embargo</i> (noun) = lệnh cấm vận. <b>Collocations / chunks</b>: <i>impose / lift an embargo</i>; số nhiều <i>embargoes</i>.",
+   "example": {
+    "en": "sanctions or <b>embargoes</b> are imposed on countries",
+    "vi": "Trừng phạt hay <b>cấm vận</b> được áp đặt."
+   }
+  },
+  {
+   "word": "monetary union",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmʌnɪtri ˈjuːniən/",
+   "def_en": "An agreement between countries to share a currency.",
+   "def_vi": "Thỏa thuận các nước dùng chung tiền tệ.",
+   "gloss_vi": "liên minh tiền tệ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Monetary union</i> (noun) = liên minh tiền tệ. <b>Collocations / chunks</b>: cụm danh từ cố định <i>monetary union</i>.",
+   "example": {
+    "en": "countries have the possibility of entering into <b>monetary union</b>",
+    "vi": "Các nước có thể tham gia <b>liên minh tiền tệ</b>."
+   }
+  },
+  {
+   "word": "single currency",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsɪŋɡl ˈkʌrənsi/",
+   "def_en": "One currency shared by several countries.",
+   "def_vi": "Một đồng tiền chung nhiều nước.",
+   "gloss_vi": "đồng tiền chung",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Single currency</i> (noun) = đồng tiền chung. <b>Collocations / chunks</b>: cụm danh từ cố định <i>single currency</i>.",
+   "example": {
+    "en": "entering into monetary union and having a <b>single currency</b>",
+    "vi": "Liên minh tiền tệ và <b>đồng tiền chung</b>."
+   }
+  },
+  {
+   "word": "war-torn",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈwɔː tɔːn/",
+   "def_en": "Badly affected by war.",
+   "def_vi": "Bị chiến tranh tàn phá.",
+   "gloss_vi": "tàn phá bởi chiến tranh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>War-torn</i> (adjective) = tàn phá bởi chiến tranh. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "we may refer to it as a <b>war-torn</b> economy",
+    "vi": "Nền kinh tế <b>bị chiến tranh tàn phá</b>."
+   }
+  },
+  {
+   "word": "ailing",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈeɪlɪŋ/",
+   "def_en": "In a bad state.",
+   "def_vi": "Trong tình trạng tồi tệ.",
+   "gloss_vi": "ốm yếu, suy yếu",
+   "synonyms": "weak <i>(adj. yếu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ailing</i> (adjective) = ốm yếu, suy yếu. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "Economies in a bad state are often referred to as <b>ailing</b> economies.",
+    "vi": "Nền kinh tế tồi tệ thường gọi là kinh tế <b>ốm yếu</b>."
+   }
+  },
+  {
+   "word": "devaluation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdiːvæljuˈeɪʃn/",
+   "def_en": "A reduction in the value of a currency against other currencies.",
+   "def_vi": "Giảm giá trị tiền tệ so với tiền khác.",
+   "gloss_vi": "sự phá giá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "revaluation <i>(n. nâng giá)</i>",
+   "grammar_vi": "<i>Devaluation</i> (noun) = sự phá giá. <b>Grammar</b>: động từ <i>devalue</i> (KHÔNG <i>devaluate</i>).",
+   "example": {
+    "en": "<b>Devaluation</b>/Revaluation of the currency may be necessary.",
+    "vi": "<b>Phá giá</b> đồng tiền có thể cần thiết."
+   }
+  },
+  {
+   "word": "go into recession",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡəʊ ˌɪntə rɪˈseʃn/",
+   "def_en": "(Of an economy) to start a period of decline.",
+   "def_vi": "(Kinh tế) bắt đầu suy thoái.",
+   "gloss_vi": "rơi vào suy thoái",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "emerge from recession <i>(v. thoát suy thoái)</i>",
+   "grammar_vi": "<i>Go into recession</i> (verb) = rơi vào suy thoái. <b>Collocations / chunks</b>: <i>come out of / emerge from recession</i>.",
+   "example": {
+    "en": "Economies may <b>go into recession</b>.",
+    "vi": "Nền kinh tế có thể <b>rơi vào suy thoái</b>."
+   }
+  },
+  {
+   "word": "double-dip recession",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdʌbl dɪp rɪˈseʃn/",
+   "def_en": "A recession which ends and then begins again after a short time.",
+   "def_vi": "Suy thoái kết thúc rồi lại xảy ra.",
+   "gloss_vi": "suy thoái kép",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Double-dip recession</i> (noun) = suy thoái kép. <b>Collocations / chunks</b>: cụm danh từ cố định <i>double-dip recession</i>.",
+   "example": {
+    "en": "Countries may even suffer a <b>double-dip</b> recession.",
+    "vi": "Một số nước thậm chí chịu <b>suy thoái kép</b>."
+   }
+  },
+  {
+   "word": "slump in prices",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌslʌmp ɪn ˈpraɪsɪz/",
+   "def_en": "A serious fall or collapse in prices.",
+   "def_vi": "Giá sụt mạnh.",
+   "gloss_vi": "giá sụt giảm mạnh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Slump in prices</i> (noun) = giá sụt giảm mạnh. <b>Grammar</b>: <i>slump</i> (v.).",
+   "example": {
+    "en": "A country may suffer from a <b>slump in prices</b> for its goods.",
+    "vi": "Một nước có thể chịu <b>giá sụt giảm mạnh</b> cho hàng hóa."
+   }
+  },
+  {
+   "word": "boost the economy",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌbuːst ði ɪˈkɒnəmi/",
+   "def_en": "To give the economy a lift.",
+   "def_vi": "Kích thích nền kinh tế.",
+   "gloss_vi": "kích thích kinh tế",
+   "synonyms": "stimulate <i>(v. kích thích)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Boost the economy</i> (verb) = kích thích kinh tế. <b>Grammar</b>: động từ nhiều từ <i>boost the economy</i>.",
+   "example": {
+    "en": "Lower taxes may be introduced to <b>boost the economy</b>.",
+    "vi": "Giảm thuế có thể được áp dụng để <b>kích thích kinh tế</b>."
+   }
+  }
+ ]
+}
