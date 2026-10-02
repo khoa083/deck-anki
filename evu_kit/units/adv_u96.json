@@ -1,0 +1,136 @@
+{
+ "book": "adv",
+ "unit": 96,
+ "title_vi": "Hàm ý: các liên tưởng",
+ "theory_html": "<p><b>A. Different kinds of associations</b><br><i>A. Các kiểu liên tưởng</i></p> <p>We <b>associate</b> words with things not obvious from their literal meaning: <b>dove</b> (peacemaker) vs <b>hawk</b> (hard-liner); some associations vary by region (<b>black cats</b>: good luck in Britain, bad luck in the USA); many are personal (<b>dog</b>: faithfulness; but <b>a dog’s life</b> = an unhappy life).</p><p><i>Ta <b>liên tưởng</b> từ với điều không hiển nhiên: <b>bồ câu</b> (ôn hòa) vs <b>diều hâu</b> (cứng rắn); có liên tưởng khác theo vùng; nhiều liên tưởng mang tính cá nhân.</i></p> <p><b>B. Understanding associations</b><br><i>B. Hiểu các liên tưởng</i></p> <p>Writers use associations: <b>that Paris look</b> (glamour, style), <b>cowboy builders</b> (careless, untrustworthy), <b>sharks</b> (aggressive), <b>a scar on the landscape</b> (spoils it), <b>a real diamond</b> (high opinion). Language help: words are remembered better with personal associations.</p><p><i><b>phong cách Paris, thợ xây ẩu, bọn cá mập, vết sẹo trên cảnh quan, viên ngọc quý</b>. Từ dễ nhớ hơn khi gắn với liên tưởng cá nhân.</i></p>",
+ "items": [
+  {
+   "word": "associate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈsəʊsieɪt/",
+   "def_en": "To make connections between things.",
+   "def_vi": "Tạo liên hệ giữa các điều.",
+   "gloss_vi": "liên tưởng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Associate</i> (verb) = liên tưởng. <b>Collocations / chunks</b>: <i>associate A with B</i>; danh từ <i>association</i>.",
+   "example": {
+    "en": "We often <b>associate</b> words with something that is not obvious from the literal meaning of the word.",
+    "vi": "Ta thường <b>liên tưởng</b> từ với điều không rõ từ nghĩa đen."
+   }
+  },
+  {
+   "word": "dove",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dʌv/",
+   "def_en": "A politician who is a peacemaker.",
+   "def_vi": "Chính trị gia ôn hòa.",
+   "gloss_vi": "phe bồ câu (ôn hòa)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "hawk <i>(n. phe diều hâu)</i>",
+   "grammar_vi": "<i>Dove</i> (noun) = phe bồ câu (ôn hòa). <b>Grammar</b>: liên tưởng: bồ câu = hòa bình.",
+   "example": {
+    "en": "So if a journalist calls a politician a <b>dove</b>, they are suggesting that he or she is a peacemaker.",
+    "vi": "Nếu nhà báo gọi một chính trị gia là <b>bồ câu</b>, họ ngụ ý người đó ôn hòa."
+   }
+  },
+  {
+   "word": "hawk",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/hɔːk/",
+   "def_en": "An aggressive, hard-line politician.",
+   "def_vi": "Chính trị gia hiếu chiến, cứng rắn.",
+   "gloss_vi": "phe diều hâu (cứng rắn)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "dove <i>(n. phe bồ câu)</i>",
+   "grammar_vi": "<i>Hawk</i> (noun) = phe diều hâu (cứng rắn). <b>Grammar</b>: liên tưởng: chim săn mồi.",
+   "example": {
+    "en": "they might call a more aggressive, hard-line politician a <b>hawk</b>",
+    "vi": "Họ có thể gọi chính trị gia cứng rắn là <b>diều hâu</b>."
+   }
+  },
+  {
+   "word": "black cats",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌblæk ˈkæts/",
+   "def_en": "Animals associated with good luck in Britain but bad luck in the USA.",
+   "def_vi": "Con vật gắn với may mắn ở Anh, xui xẻo ở Mỹ.",
+   "gloss_vi": "mèo đen",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Black cats</i> (noun) = mèo đen. <b>Grammar</b>: liên tưởng khác nhau theo vùng.",
+   "example": {
+    "en": "<b>Black cats</b>, for example, have associations with good luck in Britain but with bad luck in the USA.",
+    "vi": "<b>Mèo đen</b> mang may mắn ở Anh nhưng xui ở Mỹ."
+   }
+  },
+  {
+   "word": "cowboy builders",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkaʊbɔɪ ˈbɪldəz/",
+   "def_en": "Builders who are not careful or trustworthy.",
+   "def_vi": "Thợ xây ẩu, không đáng tin.",
+   "gloss_vi": "thợ xây ẩu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cowboy builders</i> (noun) = thợ xây ẩu. <b>Collocations / chunks</b>: <i>cowboy</i> = làm ẩu, gian dối.",
+   "example": {
+    "en": "someone might refer to <b>cowboy builders</b>, meaning builders who are not careful or trustworthy",
+    "vi": "Ai đó có thể nhắc đến <b>thợ xây ẩu</b>."
+   }
+  },
+  {
+   "word": "sharks",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ʃɑːks/",
+   "def_en": "People who are aggressive and dishonest, especially in business.",
+   "def_vi": "Người hung hăng, gian xảo, nhất là kinh doanh.",
+   "gloss_vi": "bọn cá mập",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sharks</i> (noun) = bọn cá mập. <b>Grammar</b>: liên tưởng: răng sắc, hung hãn.",
+   "example": {
+    "en": "‘They’re all <b>sharks</b> in that garage.’",
+    "vi": "Ở gara đó toàn <b>bọn cá mập</b>."
+   }
+  },
+  {
+   "word": "a scar on the landscape",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ə ˌskɑːr ɒn ðə ˈlændskeɪp/",
+   "def_en": "Something ugly that spoils a place.",
+   "def_vi": "Thứ xấu xí làm hỏng cảnh quan.",
+   "gloss_vi": "vết sẹo trên cảnh quan",
+   "synonyms": "eyesore <i>(n. thứ chướng mắt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A scar on the landscape</i> (noun) = vết sẹo trên cảnh quan. <b>Grammar</b>: liên tưởng: vết thương trên thứ từng nguyên vẹn.",
+   "example": {
+    "en": "‘I think that new office block is a <b>scar on the landscape</b>.’",
+    "vi": "Tòa văn phòng mới là <b>vết sẹo trên cảnh quan</b>."
+   }
+  },
+  {
+   "word": "a real diamond",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ə ˌrɪəl ˈdaɪəmənd/",
+   "def_en": "A person you have a very high opinion of.",
+   "def_vi": "Người rất được quý trọng.",
+   "gloss_vi": "viên ngọc quý",
+   "synonyms": "gem <i>(n. viên ngọc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A real diamond</i> (noun) = viên ngọc quý. <b>Grammar</b>: liên tưởng: đẹp và giá trị.",
+   "example": {
+    "en": "‘Emma’s a <b>real diamond</b>.’",
+    "vi": "Emma đúng là <b>viên ngọc quý</b>."
+   }
+  }
+ ]
+}
