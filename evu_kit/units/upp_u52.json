@@ -1,0 +1,615 @@
+{
+ "book": "upp",
+ "unit": 52,
+ "title_vi": "Số và hình dạng",
+ "theory_html": "<p><b>A. Pronunciation of numbers</b><br><i>A. Cách đọc số</i></p> <p>28% twenty-eight per cent; 10m × 12m ten metres by twelve metres; 1⅔ one and two thirds; ⅘ four fifths; 9/13 nine thirteenths / nine over thirteen; 4² four squared; 7³ seven cubed; 8⁴ eight to the power of four; 10.3 ten point three; 32°C or F thirty-two degrees Celsius or Fahrenheit. Decimal fractions are separated by a dot and not a comma in English and this is pronounced <b>point</b>. Commas are used to separate each set of three numbers in long numbers. Telephone numbers: 01223 20675 = oh one double two three, two oh six, seven five.</p><p><i>Cách đọc: phần trăm, kích thước <b>by</b>, phân số, bình phương, lập phương, lũy thừa, thập phân <b>point</b>, độ. Tiếng Anh dùng dấu chấm cho số thập phân (đọc <b>point</b>), dấu phẩy ngăn mỗi nhóm ba chữ số. Số điện thoại đọc từng chữ số, <b>oh</b> = 0, <b>double</b> cho hai số giống nhau.</i></p> <p><b>LH. Language help</b><br><i>LH. Lưu ý ngôn ngữ</i></p> <p>When saying a long number, you pronounce each set of up to three digits separately with rising intonation, until the last set, where the intonation falls at the end to make it clear that the number is complete.</p><p><i>Khi đọc số dài, đọc từng nhóm tối đa ba chữ số với ngữ điệu lên, đến nhóm cuối thì xuống giọng để báo số đã hết.</i></p> <p><b>B. Two-dimensional shapes</b><br><i>B. Hình hai chiều</i></p> <p><b>rectangle, circle, pentagon, triangle, square, octagon, oval</b>; adjectives <b>circular, pentagonal, rectangular, triangular, square, octagonal, oval</b>. A rectangle has four <b>right angles</b>. A pentagon has five <b>sides</b>. A circle is cut in half by its <b>diameter</b>; its two halves can be called <b>semi-circles</b>. The <b>radius</b> of a circle is the distance from its centre to the <b>circumference</b>.</p><p><i><b>hình chữ nhật, tròn, ngũ giác, tam giác, vuông, bát giác, bầu dục</b> và tính từ tương ứng. Hình chữ nhật có bốn <b>góc vuông</b>; ngũ giác có năm <b>cạnh</b>; <b>đường kính</b> chia đôi hình tròn thành hai <b>nửa hình tròn</b>; <b>bán kính</b> là khoảng cách từ tâm đến <b>chu vi</b>.</i></p> <p><b>C. Three-dimensional shapes</b><br><i>C. Hình ba chiều</i></p> <p><b>sphere, cube, pyramid, spiral</b>; adjectives <b>spherical, cubic, pyramidal, spiral</b>. The two halves of a sphere can be called <b>hemispheres</b>.</p><p><i><b>hình cầu, lập phương, kim tự tháp, xoắn ốc</b>; hai nửa hình cầu gọi là <b>bán cầu</b>.</i></p> <p><b>D. Arithmetic</b><br><i>D. Số học</i></p> <p>+ <b>addition</b>, – <b>subtraction</b>, × <b>multiplication</b>, ÷ <b>division</b>. 2x + 3y – z = 3z/4x: <b>Two x plus three y minus z equals three z divided by four x</b> or <b>three z over four x</b>. 6 × 7 = 42: <b>Six times / multiplied by seven is forty-two</b> or <b>six sevens are forty-two</b>.</p><p><i><b>phép cộng, trừ, nhân, chia</b>. Đọc <b>plus, minus, equals, divided by / over, times / multiplied by</b>.</i></p>",
+ "items": [
+  {
+   "word": "per cent",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pə ˈsent/",
+   "def_en": "For or out of every 100.",
+   "def_vi": "Trên mỗi 100.",
+   "gloss_vi": "phần trăm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Per cent</i> (noun) = phần trăm. <b>Grammar</b>: Mỹ <i>percent</i>; <i>percentage</i> (n.).",
+   "example": {
+    "en": "28% twenty-eight <b>per cent</b>",
+    "vi": "28% đọc là twenty-eight <b>per cent</b>."
+   }
+  },
+  {
+   "word": "by",
+   "sense": "measurement",
+   "pos": "preposition",
+   "ipa": "/baɪ/",
+   "def_en": "Used between measurements of length and width.",
+   "def_vi": "Dùng giữa chiều dài và chiều rộng.",
+   "gloss_vi": "nhân (kích thước)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>By</i> (preposition) = nhân (kích thước). <b>Grammar</b>: kích thước: <i>ten metres by twelve metres</i>.",
+   "example": {
+    "en": "10m × 12m ten metres <b>by</b> twelve metres",
+    "vi": "10m × 12m đọc là ten metres <b>by</b> twelve metres."
+   }
+  },
+  {
+   "word": "squared",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/skweəd/",
+   "def_en": "Multiplied by itself.",
+   "def_vi": "Nhân với chính nó.",
+   "gloss_vi": "bình phương",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Squared</i> (adjective) = bình phương. <b>Grammar</b>: <i>square</i> (v.).",
+   "example": {
+    "en": "4² four <b>squared</b>",
+    "vi": "4² đọc là four <b>squared</b>."
+   }
+  },
+  {
+   "word": "cubed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kjuːbd/",
+   "def_en": "Multiplied by itself twice.",
+   "def_vi": "Nhân với chính nó hai lần.",
+   "gloss_vi": "lập phương",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cubed</i> (adjective) = lập phương. <b>Grammar</b>: <i>cube</i> (v./n.).",
+   "example": {
+    "en": "7³ seven <b>cubed</b>",
+    "vi": "7³ đọc là seven <b>cubed</b>."
+   }
+  },
+  {
+   "word": "to the power of",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/tə ðə ˈpaʊər əv/",
+   "def_en": "Used to show how many times a number is multiplied by itself.",
+   "def_vi": "Chỉ số lần nhân một số với chính nó.",
+   "gloss_vi": "mũ, lũy thừa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>To the power of</i> (preposition) = mũ, lũy thừa. <b>Grammar</b>: <i>x to the power of n</i>.",
+   "example": {
+    "en": "8⁴ eight <b>to the power of</b> four",
+    "vi": "8⁴ đọc là eight <b>to the power of</b> four."
+   }
+  },
+  {
+   "word": "point",
+   "sense": "decimal",
+   "pos": "noun",
+   "ipa": "/pɔɪnt/",
+   "def_en": "The dot separating a whole number from its decimal fraction.",
+   "def_vi": "Dấu chấm ngăn phần nguyên và phần thập phân.",
+   "gloss_vi": "phẩy (số thập phân)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Point</i> (noun) = phẩy (số thập phân). <b>Grammar</b>: tiếng Anh dùng dấu chấm, không dùng dấu phẩy.",
+   "example": {
+    "en": "10.3 ten <b>point</b> three",
+    "vi": "10.3 đọc là ten <b>point</b> three."
+   }
+  },
+  {
+   "word": "degree",
+   "sense": "temperature",
+   "pos": "noun",
+   "ipa": "/dɪˈɡriː/",
+   "def_en": "A unit for measuring temperature.",
+   "def_vi": "Đơn vị đo nhiệt độ.",
+   "gloss_vi": "độ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Degree</i> (noun) = độ. <b>Grammar</b>: <i>degrees Celsius / Fahrenheit</i>.",
+   "example": {
+    "en": "32°C or F thirty-two <b>degrees</b> Celsius or Fahrenheit",
+    "vi": "32°C đọc là thirty-two <b>degrees</b> Celsius."
+   }
+  },
+  {
+   "word": "circle",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɜːkl/",
+   "def_en": "A perfectly round shape.",
+   "def_vi": "Hình tròn hoàn hảo.",
+   "gloss_vi": "hình tròn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Circle</i> (noun) = hình tròn. <b>Grammar</b>: tính từ <i>circular</i>.",
+   "example": {
+    "en": "A <b>circle</b> is cut in half by its diameter.",
+    "vi": "Một <b>hình tròn</b> bị đường kính chia đôi."
+   }
+  },
+  {
+   "word": "pentagon",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpentəɡən/",
+   "def_en": "A shape with five sides.",
+   "def_vi": "Hình có năm cạnh.",
+   "gloss_vi": "hình ngũ giác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pentagon</i> (noun) = hình ngũ giác. <b>Grammar</b>: tính từ <i>pentagonal</i>.",
+   "example": {
+    "en": "A <b>pentagon</b> has five sides.",
+    "vi": "Một <b>hình ngũ giác</b> có năm cạnh."
+   }
+  },
+  {
+   "word": "triangle",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtraɪæŋɡl/",
+   "def_en": "A shape with three sides.",
+   "def_vi": "Hình có ba cạnh.",
+   "gloss_vi": "hình tam giác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Triangle</i> (noun) = hình tam giác. <b>Grammar</b>: tính từ <i>triangular</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "A <b>triangle</b> has three sides.",
+    "vi": "Một <b>hình tam giác</b> có ba cạnh."
+   }
+  },
+  {
+   "word": "square",
+   "sense": "shape",
+   "pos": "noun",
+   "ipa": "/skweə(r)/",
+   "def_en": "A shape with four equal sides and four right angles.",
+   "def_vi": "Hình có bốn cạnh bằng nhau và bốn góc vuông.",
+   "gloss_vi": "hình vuông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Square</i> (noun) = hình vuông. <b>Grammar</b>: tính từ cùng dạng <i>square</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "A <b>square</b> has four equal sides.",
+    "vi": "Một <b>hình vuông</b> có bốn cạnh bằng nhau."
+   }
+  },
+  {
+   "word": "octagon",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɒktəɡən/",
+   "def_en": "A shape with eight sides.",
+   "def_vi": "Hình có tám cạnh.",
+   "gloss_vi": "hình bát giác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Octagon</i> (noun) = hình bát giác. <b>Grammar</b>: tính từ <i>octagonal</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "An <b>octagon</b> has eight sides.",
+    "vi": "Một <b>hình bát giác</b> có tám cạnh."
+   }
+  },
+  {
+   "word": "oval",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈəʊvl/",
+   "def_en": "A shape like an egg.",
+   "def_vi": "Hình như quả trứng.",
+   "gloss_vi": "hình bầu dục",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Oval</i> (noun) = hình bầu dục. <b>Grammar</b>: tính từ cùng dạng <i>oval</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The table is an <b>oval</b>.",
+    "vi": "Bàn có hình <b>bầu dục</b>."
+   }
+  },
+  {
+   "word": "circular",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsɜːkjələ(r)/",
+   "def_en": "Shaped like a circle.",
+   "def_vi": "Có hình tròn.",
+   "gloss_vi": "tròn",
+   "synonyms": "round <i>(adj. tròn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Circular</i> (adjective) = tròn. <b>Grammar</b>: từ <i>circle</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>circular</b> table",
+    "vi": "Một chiếc bàn <b>tròn</b>."
+   }
+  },
+  {
+   "word": "pentagonal",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/penˈtæɡənl/",
+   "def_en": "Having five sides.",
+   "def_vi": "Có năm cạnh.",
+   "gloss_vi": "ngũ giác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pentagonal</i> (adjective) = ngũ giác. <b>Grammar</b>: trọng âm /penˈtæɡənl/.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>pentagonal</b> building",
+    "vi": "Một tòa nhà hình <b>ngũ giác</b>."
+   }
+  },
+  {
+   "word": "rectangular",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/rekˈtæŋɡjələ(r)/",
+   "def_en": "Shaped like a rectangle.",
+   "def_vi": "Có hình chữ nhật.",
+   "gloss_vi": "hình chữ nhật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rectangular</i> (adjective) = hình chữ nhật. <b>Grammar</b>: từ <i>rectangle</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>rectangular</b> room",
+    "vi": "Một căn phòng <b>hình chữ nhật</b>."
+   }
+  },
+  {
+   "word": "triangular",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/traɪˈæŋɡjələ(r)/",
+   "def_en": "Shaped like a triangle.",
+   "def_vi": "Có hình tam giác.",
+   "gloss_vi": "hình tam giác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Triangular</i> (adjective) = hình tam giác. <b>Grammar</b>: từ <i>triangle</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>triangular</b> flag",
+    "vi": "Một lá cờ <b>hình tam giác</b>."
+   }
+  },
+  {
+   "word": "octagonal",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɒkˈtæɡənl/",
+   "def_en": "Having eight sides.",
+   "def_vi": "Có tám cạnh.",
+   "gloss_vi": "bát giác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Octagonal</i> (adjective) = bát giác. <b>Grammar</b>: trọng âm /ɒkˈtæɡənl/.",
+   "ex_kit": true,
+   "example": {
+    "en": "an <b>octagonal</b> room",
+    "vi": "Một căn phòng <b>bát giác</b>."
+   }
+  },
+  {
+   "word": "right angle",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈraɪt æŋɡl/",
+   "def_en": "An angle of 90 degrees.",
+   "def_vi": "Góc 90 độ.",
+   "gloss_vi": "góc vuông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Right angle</i> (noun) = góc vuông. <b>Grammar</b>: <i>at right angles to</i>.",
+   "example": {
+    "en": "A rectangle has four <b>right angles</b>.",
+    "vi": "Hình chữ nhật có bốn <b>góc vuông</b>."
+   }
+  },
+  {
+   "word": "side",
+   "sense": "shape",
+   "pos": "noun",
+   "ipa": "/saɪd/",
+   "def_en": "One of the straight lines forming a shape.",
+   "def_vi": "Một đường thẳng tạo nên hình.",
+   "gloss_vi": "cạnh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Side</i> (noun) = cạnh. <b>Grammar</b>: <i>a five-sided shape</i>.",
+   "example": {
+    "en": "A pentagon has five <b>sides</b>.",
+    "vi": "Hình ngũ giác có năm <b>cạnh</b>."
+   }
+  },
+  {
+   "word": "diameter",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/daɪˈæmɪtə(r)/",
+   "def_en": "A straight line through the centre of a circle from side to side.",
+   "def_vi": "Đường thẳng qua tâm nối hai bên hình tròn.",
+   "gloss_vi": "đường kính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Diameter</i> (noun) = đường kính. <b>Grammar</b>: trọng âm /daɪˈæmɪtə/.",
+   "example": {
+    "en": "A circle is cut in half by its <b>diameter</b>.",
+    "vi": "Hình tròn bị <b>đường kính</b> chia đôi."
+   }
+  },
+  {
+   "word": "semi-circle",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsemi sɜːkl/",
+   "def_en": "Half of a circle.",
+   "def_vi": "Nửa hình tròn.",
+   "gloss_vi": "nửa hình tròn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Semi-circle</i> (noun) = nửa hình tròn. <b>Grammar</b>: <i>semi-</i> = nửa.",
+   "example": {
+    "en": "Its two halves can be called <b>semi-circles</b>.",
+    "vi": "Hai nửa của nó có thể gọi là <b>nửa hình tròn</b>."
+   }
+  },
+  {
+   "word": "radius",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈreɪdiəs/",
+   "def_en": "The distance from the centre of a circle to its edge.",
+   "def_vi": "Khoảng cách từ tâm hình tròn đến mép.",
+   "gloss_vi": "bán kính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Radius</i> (noun) = bán kính. <b>Grammar</b>: số nhiều <i>radii</i> /ˈreɪdiaɪ/.",
+   "example": {
+    "en": "The <b>radius</b> of a circle is the distance from its centre to the circumference.",
+    "vi": "<b>Bán kính</b> là khoảng cách từ tâm đến chu vi."
+   }
+  },
+  {
+   "word": "circumference",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/səˈkʌmfərəns/",
+   "def_en": "The line round the edge of a circle.",
+   "def_vi": "Đường bao quanh hình tròn.",
+   "gloss_vi": "chu vi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Circumference</i> (noun) = chu vi. <b>Grammar</b>: trọng âm /səˈkʌmfərəns/.",
+   "example": {
+    "en": "The radius of a circle is the distance from its centre to the <b>circumference</b>.",
+    "vi": "Bán kính là khoảng cách từ tâm đến <b>đường tròn</b>."
+   }
+  },
+  {
+   "word": "sphere",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/sfɪə(r)/",
+   "def_en": "A round solid shape like a ball.",
+   "def_vi": "Khối tròn như quả bóng.",
+   "gloss_vi": "hình cầu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sphere</i> (noun) = hình cầu. <b>Grammar</b>: tính từ <i>spherical</i>.",
+   "example": {
+    "en": "The two halves of a <b>sphere</b> can be called hemispheres.",
+    "vi": "Hai nửa <b>hình cầu</b> có thể gọi là bán cầu."
+   }
+  },
+  {
+   "word": "cube",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kjuːb/",
+   "def_en": "A solid shape with six equal square sides.",
+   "def_vi": "Khối có sáu mặt vuông bằng nhau.",
+   "gloss_vi": "hình lập phương",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cube</i> (noun) = hình lập phương. <b>Grammar</b>: tính từ <i>cubic</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "An ice <b>cube</b> is shaped like a cube.",
+    "vi": "Một viên đá có hình <b>lập phương</b>."
+   }
+  },
+  {
+   "word": "pyramid",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɪrəmɪd/",
+   "def_en": "A solid shape with a square base and triangular sides meeting at a point.",
+   "def_vi": "Khối có đáy vuông và các mặt tam giác chụm lại.",
+   "gloss_vi": "hình kim tự tháp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pyramid</i> (noun) = hình kim tự tháp. <b>Grammar</b>: tính từ <i>pyramidal</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "the <b>pyramids</b> of Egypt",
+    "vi": "Các <b>kim tự tháp</b> ở Ai Cập."
+   }
+  },
+  {
+   "word": "spiral",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈspaɪrəl/",
+   "def_en": "A curve that winds round a central point.",
+   "def_vi": "Đường cong xoắn quanh một tâm.",
+   "gloss_vi": "hình xoắn ốc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spiral</i> (noun) = hình xoắn ốc. <b>Grammar</b>: tính từ cùng dạng <i>spiral</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>spiral</b> staircase",
+    "vi": "Cầu thang <b>xoắn ốc</b>."
+   }
+  },
+  {
+   "word": "spherical",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsferɪkl/",
+   "def_en": "Shaped like a sphere.",
+   "def_vi": "Có hình cầu.",
+   "gloss_vi": "hình cầu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spherical</i> (adjective) = hình cầu. <b>Grammar</b>: /ˈsferɪkl/.",
+   "ex_kit": true,
+   "example": {
+    "en": "The Earth is almost <b>spherical</b>.",
+    "vi": "Trái Đất gần như <b>hình cầu</b>."
+   }
+  },
+  {
+   "word": "cubic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈkjuːbɪk/",
+   "def_en": "Shaped like a cube.",
+   "def_vi": "Có hình lập phương.",
+   "gloss_vi": "lập phương, khối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cubic</i> (adjective) = lập phương, khối. <b>Grammar</b>: <i>cubic metre</i> = mét khối.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>cubic</b> metre",
+    "vi": "Một mét <b>khối</b>."
+   }
+  },
+  {
+   "word": "pyramidal",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/pɪˈræmɪdl/",
+   "def_en": "Shaped like a pyramid.",
+   "def_vi": "Có hình kim tự tháp.",
+   "gloss_vi": "hình chóp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pyramidal</i> (adjective) = hình chóp. <b>Grammar</b>: trọng âm /pɪˈræmɪdl/.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>pyramidal</b> roof",
+    "vi": "Một mái nhà <b>hình chóp</b>."
+   }
+  },
+  {
+   "word": "hemisphere",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhemɪsfɪə(r)/",
+   "def_en": "One half of a sphere.",
+   "def_vi": "Nửa hình cầu.",
+   "gloss_vi": "bán cầu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hemisphere</i> (noun) = bán cầu. <b>Grammar</b>: <i>the northern hemisphere</i>.",
+   "example": {
+    "en": "The two halves of a sphere can be called <b>hemispheres</b>.",
+    "vi": "Hai nửa hình cầu có thể gọi là <b>bán cầu</b>."
+   }
+  },
+  {
+   "word": "addition",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈdɪʃn/",
+   "def_en": "Adding numbers together (+).",
+   "def_vi": "Cộng các số (+).",
+   "gloss_vi": "phép cộng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "subtraction <i>(n. phép trừ)</i>",
+   "grammar_vi": "<i>Addition</i> (noun) = phép cộng. <b>Grammar</b>: đọc <i>plus</i>.",
+   "example": {
+    "en": "+ <b>addition</b>",
+    "vi": "Dấu + là <b>phép cộng</b>."
+   }
+  },
+  {
+   "word": "subtraction",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/səbˈtrækʃn/",
+   "def_en": "Taking one number away from another (–).",
+   "def_vi": "Lấy số này trừ số kia (–).",
+   "gloss_vi": "phép trừ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "addition <i>(n. phép cộng)</i>",
+   "grammar_vi": "<i>Subtraction</i> (noun) = phép trừ. <b>Grammar</b>: đọc <i>minus</i>.",
+   "example": {
+    "en": "– <b>subtraction</b>",
+    "vi": "Dấu – là <b>phép trừ</b>."
+   }
+  },
+  {
+   "word": "multiplication",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmʌltɪplɪˈkeɪʃn/",
+   "def_en": "Multiplying numbers (×).",
+   "def_vi": "Nhân các số (×).",
+   "gloss_vi": "phép nhân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "division <i>(n. phép chia)</i>",
+   "grammar_vi": "<i>Multiplication</i> (noun) = phép nhân. <b>Grammar</b>: đọc <i>times / multiplied by</i>.",
+   "example": {
+    "en": "× <b>multiplication</b>",
+    "vi": "Dấu × là <b>phép nhân</b>."
+   }
+  },
+  {
+   "word": "division",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈvɪʒn/",
+   "def_en": "Dividing one number by another (÷).",
+   "def_vi": "Chia số này cho số kia (÷).",
+   "gloss_vi": "phép chia",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "multiplication <i>(n. phép nhân)</i>",
+   "grammar_vi": "<i>Division</i> (noun) = phép chia. <b>Grammar</b>: đọc <i>divided by</i> hoặc <i>over</i>.",
+   "example": {
+    "en": "÷ <b>division</b>",
+    "vi": "Dấu ÷ là <b>phép chia</b>."
+   }
+  },
+  {
+   "word": "times",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/taɪmz/",
+   "def_en": "Multiplied by.",
+   "def_vi": "Nhân với.",
+   "gloss_vi": "nhân",
+   "synonyms": "multiplied by <i>(prep. nhân với)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Times</i> (preposition) = nhân. <b>Grammar</b>: cũng <i>six sevens are forty-two</i>.",
+   "example": {
+    "en": "Six <b>times</b> seven is forty-two.",
+    "vi": "Sáu <b>nhân</b> bảy là bốn mươi hai."
+   }
+  }
+ ]
+}

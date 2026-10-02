@@ -1,0 +1,392 @@
+{
+ "book": "upp",
+ "unit": 51,
+ "title_vi": "Số lượng, mức độ và cường độ",
+ "theory_html": "<p><b>A. Number and quantity</b><br><i>A. Số và lượng</i></p> <p><b>Number</b> is used for countable nouns (e.g. <b>a large number of students</b>), <b>amount</b> for uncountable nouns (e.g. <b>a large amount of money</b>). Adjectives from smaller to bigger: <b>minute, tiny, average, considerable, significant, substantial, excessive, vast, enormous</b>.</p><p><i><b>Number</b> dùng cho danh từ đếm được, <b>amount</b> cho danh từ không đếm được. Tính từ từ nhỏ đến lớn: <b>cực nhỏ, rất nhỏ, trung bình, đáng kể, đáng chú ý, lớn, quá mức, khổng lồ, to lớn</b>.</i></p> <p><b>B. Informal words for number/quantity</b><br><i>B. Từ thân mật chỉ số lượng</i></p> <p><b>dozens of, scores of, heaps/bags/loads of, tons of, a drop of</b>. Number depends on the noun following, not on <b>tons/lots/loads</b>: <b>There was tons of food… There are tons of apples…</b></p><p><i><b>hàng tá, hàng chục, cả đống, hàng tấn, một giọt</b>. Động từ chia theo danh từ phía sau chứ không theo <b>tons/lots/loads</b>.</i></p> <p><b>C. Degree and intensity: collocations with utter(ly), total(ly), wholly</b><br><i>C. Mức độ: kết hợp với utter(ly), total(ly), wholly</i></p> <p><b>Utter(ly), total(ly)</b> and <b>wholly</b> mean complete(ly). <b>Utter</b> combines with ‘strong’ nouns like <b>nonsense, contempt, silence, confusion, chaos</b> and <b>despair</b>. <b>Utterly</b> combines with adjectives such as <b>ridiculous, confused</b> and <b>impossible</b>. <b>Total</b> combines most often with <b>disbelief</b> and <b>ban</b>. <b>Totally</b> combines most often with <b>different, unexpected, unsuitable</b> and <b>wrong</b>. <b>Wholly</b> combines most often with <b>dependent, inadequate</b> and <b>unacceptable</b>.</p><p><i>Cả ba nghĩa là hoàn toàn. <b>Utter</b> + danh từ ‘mạnh’; <b>utterly</b> + <b>ridiculous, confused, impossible</b>; <b>total</b> + <b>disbelief, ban</b>; <b>totally</b> + <b>different, unexpected, unsuitable, wrong</b>; <b>wholly</b> + <b>dependent, inadequate, unacceptable</b>.</i></p>",
+ "items": [
+  {
+   "word": "number",
+   "sense": "quantity",
+   "pos": "noun",
+   "ipa": "/ˈnʌmbə(r)/",
+   "def_en": "A quantity of countable things.",
+   "def_vi": "Số lượng của vật đếm được.",
+   "gloss_vi": "số lượng (đếm được)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Number</i> (noun) = số lượng (đếm được). <b>Grammar</b>: dùng với danh từ đếm được; <i>amount</i> với không đếm được.",
+   "example": {
+    "en": "a large <b>number</b> of students",
+    "vi": "Một <b>số lượng</b> lớn sinh viên."
+   }
+  },
+  {
+   "word": "amount",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈmaʊnt/",
+   "def_en": "A quantity of something uncountable.",
+   "def_vi": "Số lượng của thứ không đếm được.",
+   "gloss_vi": "lượng (không đếm được)",
+   "synonyms": "quantity <i>(n. lượng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Amount</i> (noun) = lượng (không đếm được). <b>Grammar</b>: dùng với danh từ không đếm được.",
+   "example": {
+    "en": "a large <b>amount</b> of money",
+    "vi": "Một <b>lượng</b> tiền lớn."
+   }
+  },
+  {
+   "word": "minute",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/maɪˈnjuːt/",
+   "def_en": "Extremely small (formal).",
+   "def_vi": "Cực kỳ nhỏ (trang trọng).",
+   "gloss_vi": "cực nhỏ",
+   "synonyms": "tiny <i>(adj. rất nhỏ)</i>",
+   "antonyms": "vast <i>(adj. khổng lồ)</i>",
+   "grammar_vi": "<i>Minute</i> (adjective) = cực nhỏ. <b>Grammar</b>: /maɪˈnjuːt/, khác <i>minute</i> /ˈmɪnɪt/ (phút).",
+   "example": {
+    "en": "Even <b>minute</b> amounts of toxic material can be dangerous.",
+    "vi": "Ngay cả một lượng <b>cực nhỏ</b> chất độc cũng có thể nguy hiểm."
+   }
+  },
+  {
+   "word": "tiny",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈtaɪni/",
+   "def_en": "Very small.",
+   "def_vi": "Rất nhỏ.",
+   "gloss_vi": "rất nhỏ, chút xíu",
+   "synonyms": "minute <i>(adj. cực nhỏ)</i>",
+   "antonyms": "enormous <i>(adj. to lớn)</i>",
+   "grammar_vi": "<i>Tiny</i> (adjective) = rất nhỏ, chút xíu. <b>Grammar</b>: thân mật hơn <i>minute</i>.",
+   "example": {
+    "en": "Add just a <b>tiny</b> amount of chilli pepper, or else it may get too hot.",
+    "vi": "Chỉ thêm <b>chút xíu</b> ớt thôi, không thì sẽ quá cay."
+   }
+  },
+  {
+   "word": "average",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈævərɪdʒ/",
+   "def_en": "Neither large nor small; usual (fairly informal).",
+   "def_vi": "Không lớn không nhỏ; bình thường.",
+   "gloss_vi": "trung bình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Average</i> (adjective) = trung bình. <b>Grammar</b>: khá thân mật trong nghĩa này.",
+   "example": {
+    "en": "Were there many people at the airport? Oh, about <b>average</b>, I’d say.",
+    "vi": "Sân bay có đông người không? Ồ, <b>trung bình</b> thôi."
+   }
+  },
+  {
+   "word": "considerable",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kənˈsɪdərəbl/",
+   "def_en": "Large (formal).",
+   "def_vi": "Lớn (trang trọng).",
+   "gloss_vi": "đáng kể",
+   "synonyms": "substantial <i>(adj. lớn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Considerable</i> (adjective) = đáng kể. <b>Grammar</b>: trang trọng; <i>considerably</i> (adv.).",
+   "example": {
+    "en": "A <b>considerable</b> number of people failed to get tickets.",
+    "vi": "Một số <b>đáng kể</b> người không mua được vé."
+   }
+  },
+  {
+   "word": "significant",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/sɪɡˈnɪfɪkənt/",
+   "def_en": "Noticeably large.",
+   "def_vi": "Lớn đến mức đáng chú ý.",
+   "gloss_vi": "đáng kể, đáng chú ý",
+   "synonyms": "considerable <i>(adj. đáng kể)</i>",
+   "antonyms": "insignificant <i>(adj. không đáng kể)</i>",
+   "grammar_vi": "<i>Significant</i> (adjective) = đáng kể, đáng chú ý. <b>Grammar</b>: <i>significantly</i> (adv.).",
+   "example": {
+    "en": "A <b>significant</b> number of students have dropped out of university in the last year.",
+    "vi": "Một số <b>đáng kể</b> sinh viên đã bỏ học trong năm qua."
+   }
+  },
+  {
+   "word": "substantial",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/səbˈstænʃl/",
+   "def_en": "Large (formal).",
+   "def_vi": "Lớn (trang trọng).",
+   "gloss_vi": "lớn, đáng kể",
+   "synonyms": "considerable <i>(adj. đáng kể)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Substantial</i> (adjective) = lớn, đáng kể. <b>Grammar</b>: trang trọng.",
+   "example": {
+    "en": "<b>Substantial</b> amounts of money have been wasted on this project.",
+    "vi": "Những khoản tiền <b>lớn</b> đã bị lãng phí vào dự án này."
+   }
+  },
+  {
+   "word": "excessive",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪkˈsesɪv/",
+   "def_en": "Too much (rather formal).",
+   "def_vi": "Quá nhiều (khá trang trọng).",
+   "gloss_vi": "quá mức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Excessive</i> (adjective) = quá mức. <b>Grammar</b>: <i>excess</i> (n.).",
+   "example": {
+    "en": "There is an <b>excessive</b> amount of sugar in many soft drinks.",
+    "vi": "Có một lượng đường <b>quá mức</b> trong nhiều nước ngọt."
+   }
+  },
+  {
+   "word": "vast",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/vɑːst/",
+   "def_en": "Extremely large.",
+   "def_vi": "Cực kỳ lớn.",
+   "gloss_vi": "khổng lồ",
+   "synonyms": "enormous <i>(adj. to lớn)</i>",
+   "antonyms": "minute <i>(adj. cực nhỏ)</i>",
+   "grammar_vi": "<i>Vast</i> (adjective) = khổng lồ. <b>Grammar</b>: <i>a vast quantity/amount of</i>.",
+   "example": {
+    "en": "A <b>vast</b> quantity of sand was blown on to the road during the storm.",
+    "vi": "Một lượng cát <b>khổng lồ</b> bị thổi lên đường trong cơn bão."
+   }
+  },
+  {
+   "word": "enormous",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪˈnɔːməs/",
+   "def_en": "Extremely large.",
+   "def_vi": "Cực kỳ lớn.",
+   "gloss_vi": "to lớn",
+   "synonyms": "vast <i>(adj. khổng lồ)</i>",
+   "antonyms": "tiny <i>(adj. rất nhỏ)</i>",
+   "grammar_vi": "<i>Enormous</i> (adjective) = to lớn. <b>Grammar</b>: <i>an enormous quantity of</i>.",
+   "example": {
+    "en": "An <b>enormous</b> quantity of sand was blown on to the road during the storm.",
+    "vi": "Một lượng cát <b>rất lớn</b> bị thổi lên đường trong cơn bão."
+   }
+  },
+  {
+   "word": "dozens of",
+   "sense": "",
+   "pos": "determiner",
+   "ipa": "/ˈdʌznz əv/",
+   "def_en": "Many (a dozen is 12).",
+   "def_vi": "Nhiều (một tá là 12).",
+   "gloss_vi": "hàng tá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dozens of</i> (determiner) = hàng tá. <b>Grammar</b>: đặc biệt dùng với danh từ đếm được.",
+   "example": {
+    "en": "I’ve got <b>dozens of</b> nails in my tool box.",
+    "vi": "Tôi có <b>hàng tá</b> đinh trong hộp dụng cụ."
+   }
+  },
+  {
+   "word": "scores of",
+   "sense": "",
+   "pos": "determiner",
+   "ipa": "/ˈskɔːz əv/",
+   "def_en": "A large number of (a score is 20 or about 20).",
+   "def_vi": "Rất nhiều (một score là 20).",
+   "gloss_vi": "hàng chục",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Scores of</i> (determiner) = hàng chục. <b>Grammar</b>: thường trang trọng.",
+   "example": {
+    "en": "<b>Scores of</b> people were injured when the gas tank exploded.",
+    "vi": "<b>Hàng chục</b> người bị thương khi bình ga phát nổ."
+   }
+  },
+  {
+   "word": "heaps of",
+   "sense": "",
+   "pos": "determiner",
+   "ipa": "/ˈhiːps əv/",
+   "def_en": "A lot of (informal).",
+   "def_vi": "Rất nhiều (thân mật).",
+   "gloss_vi": "cả đống",
+   "synonyms": "loads of <i>(det. cả đống)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Heaps of</i> (determiner) = cả đống. <b>Grammar</b>: thường với <i>there is</i> số ít; đếm được hoặc không.",
+   "example": {
+    "en": "There’s <b>heaps</b> of time yet, slow down!",
+    "vi": "Vẫn còn <b>cả đống</b> thời gian, chậm lại đi!"
+   }
+  },
+  {
+   "word": "bags of",
+   "sense": "",
+   "pos": "determiner",
+   "ipa": "/ˈbæɡz əv/",
+   "def_en": "A lot of (informal).",
+   "def_vi": "Rất nhiều (thân mật).",
+   "gloss_vi": "khối, cả đống",
+   "synonyms": "heaps of <i>(det. cả đống)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bags of</i> (determiner) = khối, cả đống. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "There’s <b>bags</b> of time yet, slow down!",
+    "vi": "Vẫn còn <b>khối</b> thời gian, chậm lại đi!"
+   }
+  },
+  {
+   "word": "loads of",
+   "sense": "",
+   "pos": "determiner",
+   "ipa": "/ˈləʊdz əv/",
+   "def_en": "A lot of (informal).",
+   "def_vi": "Rất nhiều (thân mật).",
+   "gloss_vi": "cả đống",
+   "synonyms": "heaps of <i>(det. cả đống)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Loads of</i> (determiner) = cả đống. <b>Grammar</b>: động từ chia theo danh từ phía sau.",
+   "example": {
+    "en": "There’s <b>loads</b> of time yet, slow down!",
+    "vi": "Vẫn còn <b>cả đống</b> thời gian, chậm lại đi!"
+   }
+  },
+  {
+   "word": "tons of",
+   "sense": "",
+   "pos": "determiner",
+   "ipa": "/ˈtʌnz əv/",
+   "def_en": "A very large amount or number of (informal).",
+   "def_vi": "Lượng rất lớn (thân mật).",
+   "gloss_vi": "hàng tấn, vô số",
+   "synonyms": "loads of <i>(det. cả đống)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tons of</i> (determiner) = hàng tấn, vô số. <b>Grammar</b>: chia động từ theo danh từ: <i>there was tons of food / there are tons of apples</i>.",
+   "example": {
+    "en": "There are <b>tons of</b> apples on this tree this year – last year there were hardly any.",
+    "vi": "Năm nay cây này có <b>vô số</b> táo – năm ngoái hầu như không có."
+   }
+  },
+  {
+   "word": "a drop of",
+   "sense": "",
+   "pos": "determiner",
+   "ipa": "/ə ˈdrɒp əv/",
+   "def_en": "A tiny amount of any liquid.",
+   "def_vi": "Lượng nhỏ chất lỏng.",
+   "gloss_vi": "một chút, một giọt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A drop of</i> (determiner) = một chút, một giọt. <b>Grammar</b>: dùng cho chất lỏng.",
+   "example": {
+    "en": "Just <b>a drop</b> of milk for me, please.",
+    "vi": "Cho tôi <b>một chút</b> sữa thôi."
+   }
+  },
+  {
+   "word": "utter chaos",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌʌtə ˈkeɪɒs/",
+   "def_en": "Complete confusion.",
+   "def_vi": "Hỗn loạn hoàn toàn.",
+   "gloss_vi": "hỗn loạn hoàn toàn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Utter chaos</i> (noun) = hỗn loạn hoàn toàn. <b>Collocations / chunks</b>: <i>utter</i> + danh từ mạnh: <i>nonsense, contempt, silence, confusion, despair</i>.",
+   "example": {
+    "en": "There was <b>utter chaos</b> during the transport strike.",
+    "vi": "Đã có <b>hỗn loạn hoàn toàn</b> trong cuộc đình công giao thông."
+   }
+  },
+  {
+   "word": "utterly confused",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʌtəli kənˈfjuːzd/",
+   "def_en": "Completely confused.",
+   "def_vi": "Hoàn toàn bối rối.",
+   "gloss_vi": "hoàn toàn bối rối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Utterly confused</i> (adjective) = hoàn toàn bối rối. <b>Collocations / chunks</b>: <i>utterly ridiculous / impossible</i>.",
+   "example": {
+    "en": "I was <b>utterly confused</b> by the instruction manual that came with my camcorder!",
+    "vi": "Tôi <b>hoàn toàn bối rối</b> với sách hướng dẫn đi kèm máy quay."
+   }
+  },
+  {
+   "word": "total disbelief",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌtəʊtl ˌdɪsbɪˈliːf/",
+   "def_en": "Complete inability to believe something.",
+   "def_vi": "Hoàn toàn không tin nổi.",
+   "gloss_vi": "hoàn toàn không tin",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Total disbelief</i> (noun) = hoàn toàn không tin. <b>Collocations / chunks</b>: <i>total</i> + <i>disbelief / ban</i>.",
+   "example": {
+    "en": "She looked at him in <b>total disbelief</b>.",
+    "vi": "Cô ấy nhìn anh với vẻ <b>hoàn toàn không tin nổi</b>."
+   }
+  },
+  {
+   "word": "total ban",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌtəʊtl ˈbæn/",
+   "def_en": "A complete prohibition.",
+   "def_vi": "Lệnh cấm hoàn toàn.",
+   "gloss_vi": "lệnh cấm hoàn toàn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Total ban</i> (noun) = lệnh cấm hoàn toàn. <b>Collocations / chunks</b>: <i>a total ban on sth</i>.",
+   "example": {
+    "en": "The government introduced a <b>total ban</b> on smoking in public places.",
+    "vi": "Chính phủ ban hành <b>lệnh cấm hoàn toàn</b> hút thuốc nơi công cộng."
+   }
+  },
+  {
+   "word": "totally different",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌtəʊtəli ˈdɪfrənt/",
+   "def_en": "Completely different.",
+   "def_vi": "Hoàn toàn khác.",
+   "gloss_vi": "hoàn toàn khác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Totally different</i> (adjective) = hoàn toàn khác. <b>Collocations / chunks</b>: <i>totally</i> + <i>different, unexpected, unsuitable, wrong</i>.",
+   "example": {
+    "en": "The two brothers have <b>totally different</b> personalities.",
+    "vi": "Hai anh em có tính cách <b>hoàn toàn khác nhau</b>."
+   }
+  },
+  {
+   "word": "wholly dependent",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌhəʊlli dɪˈpendənt/",
+   "def_en": "Completely dependent.",
+   "def_vi": "Hoàn toàn phụ thuộc.",
+   "gloss_vi": "hoàn toàn phụ thuộc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wholly dependent</i> (adjective) = hoàn toàn phụ thuộc. <b>Collocations / chunks</b>: <i>wholly</i> + <i>dependent, inadequate, unacceptable</i>.",
+   "example": {
+    "en": "The success of the project was <b>wholly dependent</b> on the weather.",
+    "vi": "Sự thành công của dự án <b>hoàn toàn phụ thuộc</b> vào thời tiết."
+   }
+  }
+ ]
+}

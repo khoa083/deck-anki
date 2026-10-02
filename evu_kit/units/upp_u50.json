@@ -1,0 +1,512 @@
+{
+ "book": "upp",
+ "unit": 50,
+ "title_vi": "Bình luận về tình huống khó khăn",
+ "theory_html": "<p><b>A. Types of problems and difficulties</b><br><i>A. Các loại vấn đề và khó khăn</i></p> <p><b>Chaos</b> is a state of total confusion, where there is no order at all. A <b>disaster</b> is an event which causes great harm or damage. If you are <b>facing a dilemma</b> or are <b>in a dilemma</b> you are in a situation where you have to make a difficult decision between two things. <b>To be in a fix</b> = be in a difficult situation; <b>to be in a tight corner</b> = be in a situation that is hard to get out of; <b>to be in a muddle</b> = be confused / mixed up. The word <b>challenge</b> puts a positive slant on a problem situation in that it focuses on the fact that it needs great mental or physical effort in order to be done successfully and therefore tests a person’s ability.</p><p><i><b>Chaos</b>: hỗn loạn hoàn toàn. <b>Disaster</b>: thảm họa gây thiệt hại lớn. <b>Dilemma</b>: tình thế phải chọn khó khăn giữa hai điều. <b>In a fix</b>: gặp khó; <b>in a tight corner</b>: bị dồn vào thế bí; <b>in a muddle</b>: rối tung. <b>Challenge</b> nhìn vấn đề theo hướng tích cực: đòi hỏi nỗ lực lớn nên thử thách năng lực.</i></p> <p><b>B. Specific difficulties</b><br><i>B. Khó khăn cụ thể</i></p> <p><b>badly affected, mildly irritating, intensely annoying, disrupted, collapse, deprived of, heart broken, lack</b>. Related nouns: <b>effect, irritant/irritation, annoyance, disruption, collapse, deprivation, heartbreak, lack</b>.</p><p><i><b>bị ảnh hưởng nặng, hơi khó chịu, cực kỳ bực mình, bị gián đoạn, sụp đổ, bị tước, tan nát cõi lòng, thiếu</b>. Danh từ liên quan tương ứng.</i></p> <p><b>C. Idioms about dealing with problems and difficulties</b><br><i>C. Thành ngữ về cách đối phó vấn đề</i></p> <p><b>take a back seat ≠ take the bull by the horns; stir things up ≠ pour oil on troubled waters; can’t face; lay your cards on the table; get your act together; get to the bottom of things; get people to sit up and take notice; get a grasp of</b>.</p><p><i><b>đứng ngoài ≠ dũng cảm đối mặt; khuấy động ≠ xoa dịu; không muốn đối mặt; nói thẳng; chấn chỉnh lại; tìm ra ngọn ngành; khiến người ta chú ý; nắm bắt</b>.</i></p> <p><b>D. Idioms relating to changes in problem situations</b><br><i>D. Thành ngữ về thay đổi trong tình huống khó</i></p> <p><b>the tide has turned, see the light at the end of the tunnel, come to a dead end, reach a turning point, bury the hatchet, sweep under the carpet</b>.</p><p><i><b>tình thế đã đảo chiều, thấy ánh sáng cuối đường hầm, đi vào ngõ cụt, đến bước ngoặt, làm hòa, ỉm đi</b>.</i></p>",
+ "items": [
+  {
+   "word": "chaos",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkeɪɒs/",
+   "def_en": "A state of total confusion, where there is no order at all.",
+   "def_vi": "Tình trạng hỗn loạn hoàn toàn.",
+   "gloss_vi": "hỗn loạn",
+   "synonyms": "turmoil <i>(n. náo loạn)</i>",
+   "antonyms": "order <i>(n. trật tự)</i>",
+   "grammar_vi": "<i>Chaos</i> (noun) = hỗn loạn. <b>Grammar</b>: /ˈkeɪɒs/; <i>chaotic</i> (adj.).",
+   "example": {
+    "en": "The transport system was in <b>chaos</b> for some time afterwards.",
+    "vi": "Hệ thống giao thông <b>hỗn loạn</b> một thời gian sau đó."
+   }
+  },
+  {
+   "word": "disaster",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈzɑːstə(r)/",
+   "def_en": "An event which causes great harm or damage.",
+   "def_vi": "Sự kiện gây thiệt hại lớn.",
+   "gloss_vi": "thảm họa",
+   "synonyms": "catastrophe <i>(n. tai ương)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Disaster</i> (noun) = thảm họa. <b>Grammar</b>: <i>disastrous</i> (adj.).",
+   "example": {
+    "en": "The earthquake was a dreadful <b>disaster</b> for the country.",
+    "vi": "Trận động đất là một <b>thảm họa</b> khủng khiếp với đất nước."
+   }
+  },
+  {
+   "word": "dilemma",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈlemə/",
+   "def_en": "A situation where you have to make a difficult decision between two things.",
+   "def_vi": "Tình thế phải chọn khó khăn giữa hai điều.",
+   "gloss_vi": "tình thế khó xử",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dilemma</i> (noun) = tình thế khó xử. <b>Grammar</b>: <i>face a dilemma / be in a dilemma</i>.",
+   "example": {
+    "en": "The government were faced with a <b>dilemma</b>.",
+    "vi": "Chính phủ đối mặt <b>tình thế khó xử</b>: xây dựng lại ngay hay chờ hết dư chấn."
+   }
+  },
+  {
+   "word": "in a fix",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪn ə ˈfɪks/",
+   "def_en": "In a difficult situation.",
+   "def_vi": "Trong tình thế khó khăn.",
+   "gloss_vi": "gặp khó, kẹt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In a fix</i> (adjective) = gặp khó, kẹt. <b>Grammar</b>: <i>be in a fix</i>; thân mật.",
+   "ex_kit": true,
+   "example": {
+    "en": "I’m <b>in a fix</b> – I’ve lost my keys.",
+    "vi": "Tôi đang <b>gặp khó</b> – tôi làm mất chìa khóa rồi."
+   }
+  },
+  {
+   "word": "in a tight corner",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪn ə ˌtaɪt ˈkɔːnə(r)/",
+   "def_en": "In a situation that is hard to get out of.",
+   "def_vi": "Trong tình thế khó thoát ra.",
+   "gloss_vi": "bị dồn vào thế bí",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In a tight corner</i> (adjective) = bị dồn vào thế bí. <b>Grammar</b>: <i>be in a tight corner</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The company is <b>in a tight corner</b>.",
+    "vi": "Công ty đang <b>bị dồn vào thế bí</b>."
+   }
+  },
+  {
+   "word": "in a muddle",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪn ə ˈmʌdl/",
+   "def_en": "Confused or mixed up.",
+   "def_vi": "Bối rối, lộn xộn.",
+   "gloss_vi": "rối tung",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In a muddle</i> (adjective) = rối tung. <b>Grammar</b>: <i>be in a muddle</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I’m <b>in a muddle</b> with these figures.",
+    "vi": "Tôi <b>rối tung</b> với các con số này."
+   }
+  },
+  {
+   "word": "challenge",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtʃælɪndʒ/",
+   "def_en": "A difficult task that needs great effort and tests your ability.",
+   "def_vi": "Nhiệm vụ khó đòi hỏi nỗ lực lớn, thử thách năng lực.",
+   "gloss_vi": "thử thách",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Challenge</i> (noun) = thử thách. <b>Grammar</b>: nhìn vấn đề theo hướng tích cực; <i>challenging</i> (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "The new job is a real <b>challenge</b>.",
+    "vi": "Công việc mới là một <b>thử thách</b> thực sự."
+   }
+  },
+  {
+   "word": "badly affected",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌbædli əˈfektɪd/",
+   "def_en": "Strongly and negatively influenced by something.",
+   "def_vi": "Bị tác động tiêu cực mạnh.",
+   "gloss_vi": "bị ảnh hưởng nặng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Badly affected</i> (adjective) = bị ảnh hưởng nặng. <b>Grammar</b>: danh từ <i>effect</i>.",
+   "example": {
+    "en": "You can be <b>badly affected</b> by all sorts of things.",
+    "vi": "Bạn có thể <b>bị ảnh hưởng nặng</b> bởi đủ thứ."
+   }
+  },
+  {
+   "word": "mildly irritating",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌmaɪldli ˈɪrɪteɪtɪŋ/",
+   "def_en": "Slightly annoying.",
+   "def_vi": "Hơi gây khó chịu.",
+   "gloss_vi": "hơi khó chịu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "intensely annoying <i>(adj. cực kỳ bực mình)</i>",
+   "grammar_vi": "<i>Mildly irritating</i> (adjective) = hơi khó chịu. <b>Grammar</b>: danh từ <i>irritant / irritation</i>.",
+   "example": {
+    "en": "from those that are <b>mildly irritating</b> to the intensely annoying",
+    "vi": "Đủ thứ, từ những việc <b>hơi khó chịu</b> đến cực kỳ bực mình."
+   }
+  },
+  {
+   "word": "intensely annoying",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪnˌtensli əˈnɔɪɪŋ/",
+   "def_en": "Extremely annoying.",
+   "def_vi": "Cực kỳ gây bực mình.",
+   "gloss_vi": "cực kỳ bực mình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "mildly irritating <i>(adj. hơi khó chịu)</i>",
+   "grammar_vi": "<i>Intensely annoying</i> (adjective) = cực kỳ bực mình. <b>Grammar</b>: danh từ <i>annoyance</i>.",
+   "example": {
+    "en": "from those that are mildly irritating to the <b>intensely annoying</b>",
+    "vi": "Đủ thứ, từ những việc hơi khó chịu đến <b>cực kỳ bực mình</b>."
+   }
+  },
+  {
+   "word": "disrupt",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪsˈrʌpt/",
+   "def_en": "To prevent something from continuing as intended.",
+   "def_vi": "Ngăn điều gì diễn ra như dự định.",
+   "gloss_vi": "làm gián đoạn",
+   "synonyms": "interrupt <i>(v. làm đứt quãng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Disrupt</i> (verb) = làm gián đoạn. <b>Grammar</b>: danh từ <i>disruption</i>.",
+   "example": {
+    "en": "Your plans may be <b>disrupted</b>.",
+    "vi": "Kế hoạch của bạn có thể <b>bị gián đoạn</b>."
+   }
+  },
+  {
+   "word": "collapse",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kəˈlæps/",
+   "def_en": "To fail because of a lack of support.",
+   "def_vi": "Thất bại vì thiếu chỗ dựa.",
+   "gloss_vi": "sụp đổ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Collapse</i> (verb) = sụp đổ. <b>Grammar</b>: danh từ cùng dạng <i>collapse</i>.",
+   "example": {
+    "en": "Negotiations or a building may <b>collapse</b>.",
+    "vi": "Các cuộc đàm phán hay một tòa nhà có thể <b>sụp đổ</b>."
+   }
+  },
+  {
+   "word": "deprived of",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dɪˈpraɪvd əv/",
+   "def_en": "Having something you value taken away from you.",
+   "def_vi": "Bị lấy mất điều mình quý.",
+   "gloss_vi": "bị tước đoạt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Deprived of</i> (adjective) = bị tước đoạt. <b>Grammar</b>: <i>deprive sb of sth</i>; danh từ <i>deprivation</i>.",
+   "example": {
+    "en": "You can be <b>deprived of</b> something you value.",
+    "vi": "Bạn có thể <b>bị tước</b> thứ mình trân trọng."
+   }
+  },
+  {
+   "word": "heart broken",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌhɑːt ˈbrəʊkən/",
+   "def_en": "Made extremely sad.",
+   "def_vi": "Bị làm cho cực kỳ buồn.",
+   "gloss_vi": "tan nát cõi lòng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Heart broken</i> (adjective) = tan nát cõi lòng. <b>Grammar</b>: danh từ <i>heartbreak</i>; tính từ <i>heartbroken</i>.",
+   "example": {
+    "en": "Someone’s heart can be <b>broken</b>.",
+    "vi": "Trái tim một người có thể <b>tan vỡ</b>."
+   }
+  },
+  {
+   "word": "lack",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/læk/",
+   "def_en": "To not have (enough of) something.",
+   "def_vi": "Không có (đủ) điều gì.",
+   "gloss_vi": "thiếu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lack</i> (verb) = thiếu. <b>Grammar</b>: danh từ cùng dạng <i>lack</i>; không dùng <i>lack of</i> với động từ.",
+   "example": {
+    "en": "Your life may <b>lack</b> something that you would like.",
+    "vi": "Cuộc sống của bạn có thể <b>thiếu</b> điều bạn mong muốn."
+   }
+  },
+  {
+   "word": "take a back seat",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ə ˌbæk ˈsiːt/",
+   "def_en": "Not to do anything; let others act instead.",
+   "def_vi": "Không làm gì, để người khác hành động.",
+   "gloss_vi": "đứng ngoài, lui về sau",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "take the bull by the horns <i>(v. dũng cảm đối mặt)</i>",
+   "grammar_vi": "<i>Take a back seat</i> (verb) = đứng ngoài, lui về sau. <b>Grammar</b>: trái nghĩa <i>take the bull by the horns</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "This time I’ll <b>take a back seat</b> and let others decide.",
+    "vi": "Lần này tôi sẽ <b>đứng ngoài</b> để người khác quyết."
+   }
+  },
+  {
+   "word": "take the bull by the horns",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ðə ˌbʊl baɪ ðə ˈhɔːnz/",
+   "def_en": "To act positively to face and attack the problem.",
+   "def_vi": "Chủ động đối mặt và giải quyết vấn đề.",
+   "gloss_vi": "dũng cảm đối mặt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "take a back seat <i>(v. đứng ngoài)</i>",
+   "grammar_vi": "<i>Take the bull by the horns</i> (verb) = dũng cảm đối mặt. <b>Grammar</b>: trái nghĩa <i>take a back seat</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "It’s time to <b>take the bull by the horns</b> and talk to the boss.",
+    "vi": "Đã đến lúc <b>dũng cảm đối mặt</b> và nói chuyện với sếp."
+   }
+  },
+  {
+   "word": "stir things up",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌstɜː ˌθɪŋz ˈʌp/",
+   "def_en": "To do or say things that make the situation worse.",
+   "def_vi": "Làm hay nói điều khiến tình hình tệ hơn.",
+   "gloss_vi": "khuấy động, gây rối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "pour oil on troubled waters <i>(v. xoa dịu)</i>",
+   "grammar_vi": "<i>Stir things up</i> (verb) = khuấy động, gây rối. <b>Grammar</b>: <i>stir</i> + <i>up</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She always likes to <b>stir things up</b>.",
+    "vi": "Cô ta lúc nào cũng thích <b>khuấy động mọi chuyện</b>."
+   }
+  },
+  {
+   "word": "pour oil on troubled waters",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌpɔːr ˌɔɪl ɒn ˌtrʌbld ˈwɔːtəz/",
+   "def_en": "To do or say things that calm the situation down.",
+   "def_vi": "Làm hay nói điều xoa dịu tình hình.",
+   "gloss_vi": "xoa dịu, dĩ hòa vi quý",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "stir things up <i>(v. khuấy động)</i>",
+   "grammar_vi": "<i>Pour oil on troubled waters</i> (verb) = xoa dịu, dĩ hòa vi quý. <b>Grammar</b>: trái nghĩa <i>stir things up</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He tried to <b>pour oil on troubled waters</b> after the argument.",
+    "vi": "Anh ấy cố <b>xoa dịu</b> sau cuộc cãi vã."
+   }
+  },
+  {
+   "word": "can’t face",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkɑːnt ˈfeɪs/",
+   "def_en": "To not want to deal with something.",
+   "def_vi": "Không muốn đối mặt với điều gì.",
+   "gloss_vi": "không muốn đối mặt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Can’t face</i> (verb) = không muốn đối mặt. <b>Grammar</b>: + danh từ hoặc -ing.",
+   "example": {
+    "en": "I <b>can’t face</b> (the thought of) clearing up all this mess today.",
+    "vi": "Tôi <b>không muốn nghĩ tới</b> việc dọn đống bừa bộn này hôm nay."
+   }
+  },
+  {
+   "word": "lay your cards on the table",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌleɪ jɔː ˌkɑːdz ɒn ðə ˈteɪbl/",
+   "def_en": "To state exactly what your position is.",
+   "def_vi": "Nói rõ lập trường của mình.",
+   "gloss_vi": "nói thẳng, ngửa bài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lay your cards on the table</i> (verb) = nói thẳng, ngửa bài. <b>Grammar</b>: tính từ sở hữu đổi theo chủ ngữ.",
+   "example": {
+    "en": "I thought it would be best just to <b>lay my cards on the table</b>.",
+    "vi": "Tôi nghĩ tốt nhất là cứ <b>ngửa bài</b>."
+   }
+  },
+  {
+   "word": "get your act together",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡet jɔːr ˈækt təˌɡeðə(r)/",
+   "def_en": "To organise yourself to respond (informal).",
+   "def_vi": "Tổ chức lại để phản ứng (thân mật).",
+   "gloss_vi": "chấn chỉnh lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get your act together</i> (verb) = chấn chỉnh lại. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "We must <b>get our act together</b> before it’s too late.",
+    "vi": "Chúng ta phải <b>chấn chỉnh lại</b> trước khi quá muộn."
+   }
+  },
+  {
+   "word": "get to the bottom of things",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡet tə ðə ˈbɒtəm əv ˌθɪŋz/",
+   "def_en": "To find the true explanation.",
+   "def_vi": "Tìm ra lời giải thích thật.",
+   "gloss_vi": "tìm ra ngọn ngành",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get to the bottom of things</i> (verb) = tìm ra ngọn ngành. <b>Grammar</b>: cũng <i>get to the bottom of sth</i>.",
+   "example": {
+    "en": "We need a proper investigation to <b>get to the bottom of things</b>.",
+    "vi": "Chúng ta cần một cuộc điều tra đúng nghĩa để <b>tìm ra ngọn ngành</b>."
+   }
+  },
+  {
+   "word": "sit up and take notice",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌsɪt ʌp ən ˌteɪk ˈnəʊtɪs/",
+   "def_en": "To pay attention.",
+   "def_vi": "Chú ý.",
+   "gloss_vi": "phải chú ý",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sit up and take notice</i> (verb) = phải chú ý. <b>Grammar</b>: <i>get/make sb sit up and take notice</i>.",
+   "example": {
+    "en": "It’s quite difficult to get people to <b>sit up and take notice</b>.",
+    "vi": "Khá khó để khiến mọi người <b>phải chú ý</b>."
+   }
+  },
+  {
+   "word": "get a grasp of",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡet ə ˈɡrɑːsp əv/",
+   "def_en": "To find out or understand.",
+   "def_vi": "Tìm hiểu, nắm được.",
+   "gloss_vi": "nắm bắt",
+   "synonyms": "understand <i>(v. hiểu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get a grasp of</i> (verb) = nắm bắt. <b>Grammar</b>: <i>grasp</i> (v.) = hiểu.",
+   "example": {
+    "en": "I’m trying to <b>get a grasp</b> of what’s happening; it’s not easy.",
+    "vi": "Tôi đang cố <b>nắm bắt</b> những gì đang xảy ra; không dễ chút nào."
+   }
+  },
+  {
+   "word": "the tide has turned",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ðə ˌtaɪd həz ˈtɜːnd/",
+   "def_en": "The situation has changed, usually for the better.",
+   "def_vi": "Tình thế đã đổi, thường theo hướng tốt.",
+   "gloss_vi": "tình thế đã đảo chiều",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The tide has turned</i> (cl) = tình thế đã đảo chiều. <b>Grammar</b>: <i>the tide turns</i>.",
+   "example": {
+    "en": "<b>The tide has turned</b> for us; better days are ahead.",
+    "vi": "<b>Tình thế đã đảo chiều</b> với chúng ta; ngày tốt đẹp đang ở phía trước."
+   }
+  },
+  {
+   "word": "see the light at the end of the tunnel",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌsiː ðə ˌlaɪt ət ði ˌend əv ðə ˈtʌnl/",
+   "def_en": "To see that a difficult situation may be ending soon.",
+   "def_vi": "Thấy tình thế khó có thể sắp kết thúc.",
+   "gloss_vi": "thấy ánh sáng cuối đường hầm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>See the light at the end of the tunnel</i> (verb) = thấy ánh sáng cuối đường hầm. <b>Grammar</b>: tích cực.",
+   "example": {
+    "en": "We can <b>see the light at the end of the tunnel</b> at last.",
+    "vi": "Cuối cùng chúng ta cũng <b>thấy ánh sáng cuối đường hầm</b>."
+   }
+  },
+  {
+   "word": "come to a dead end",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkʌm tu ə ˌded ˈend/",
+   "def_en": "To reach a point where no more progress is possible.",
+   "def_vi": "Đến chỗ không thể tiến thêm.",
+   "gloss_vi": "đi vào ngõ cụt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Come to a dead end</i> (verb) = đi vào ngõ cụt. <b>Grammar</b>: <i>dead end</i> (n.) = ngõ cụt.",
+   "example": {
+    "en": "I’m afraid we’ve just <b>come to a dead end</b> with our plans.",
+    "vi": "E rằng kế hoạch của chúng ta vừa <b>đi vào ngõ cụt</b>."
+   }
+  },
+  {
+   "word": "reach a turning point",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌriːtʃ ə ˈtɜːnɪŋ pɔɪnt/",
+   "def_en": "To reach a time when an important change happens.",
+   "def_vi": "Đến lúc có thay đổi quan trọng.",
+   "gloss_vi": "đến bước ngoặt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reach a turning point</i> (verb) = đến bước ngoặt. <b>Grammar</b>: <i>a turning point in sth</i>.",
+   "example": {
+    "en": "I think I’ve <b>reached a turning point</b> in my career.",
+    "vi": "Tôi nghĩ mình đã <b>đến bước ngoặt</b> trong sự nghiệp."
+   }
+  },
+  {
+   "word": "bury the hatchet",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌberi ðə ˈhætʃɪt/",
+   "def_en": "To make peace; stop fighting each other.",
+   "def_vi": "Làm hòa, thôi đối đầu.",
+   "gloss_vi": "làm hòa",
+   "synonyms": "make up <i>(v. làm lành)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bury the hatchet</i> (verb) = làm hòa. <b>Grammar</b>: <i>bury</i> /ˈberi/.",
+   "example": {
+    "en": "The government and the unions have <b>buried the hatchet</b> for the time being.",
+    "vi": "Chính phủ và công đoàn đã <b>làm hòa</b> trong lúc này."
+   }
+  },
+  {
+   "word": "sweep under the carpet",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌswiːp ˌʌndə ðə ˈkɑːpɪt/",
+   "def_en": "To ignore or deliberately forget something without solving it.",
+   "def_vi": "Lờ đi, cố tình quên mà không giải quyết.",
+   "gloss_vi": "ỉm đi, giấu nhẹm",
+   "synonyms": "hush up <i>(v. bưng bít)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sweep under the carpet</i> (verb) = ỉm đi, giấu nhẹm. <b>Grammar</b>: <i>sweep sth under the carpet</i>.",
+   "example": {
+    "en": "All that trouble last year was just <b>swept under the carpet</b> in the end.",
+    "vi": "Mọi rắc rối năm ngoái cuối cùng chỉ <b>bị ỉm đi</b>."
+   }
+  }
+ ]
+}
