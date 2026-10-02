@@ -1,0 +1,352 @@
+{
+ "book": "upp",
+ "unit": 87,
+ "title_vi": "Danh từ tập hợp",
+ "theory_html": "<p><b>A. People</b><br><i>A. Người</i></p> <p>Collective nouns are used to describe a group of the same people or things: <b>a group of people</b> (smaller number), <b>a crowd of people</b> (large number), <b>a gang of thieves</b> (rather negative).</p><p><i>Danh từ tập hợp chỉ một nhóm người hay vật giống nhau: <b>nhóm</b> (ít), <b>đám đông</b> (nhiều), <b>băng</b> (tiêu cực).</i></p> <p><b>B. Words associated with certain animals</b><br><i>B. Từ đi với động vật cụ thể</i></p> <p><b>a flock of sheep/birds; a herd of cows, deer, goats; a shoal of fish</b> (or a particular fish, singular: <b>a shoal of herring</b>); <b>a swarm of insects</b> (typically flying); <b>a pack of dogs, hyenas, wolves</b>, also <b>(playing) cards</b>.</p><p><i><b>đàn cừu/chim; đàn bò; đàn cá; đàn côn trùng bay; bầy chó sói</b>, cũng <b>bộ bài</b>.</i></p> <p><b>C. People involved in the same job/activity</b><br><i>C. Người cùng công việc/hoạt động</i></p> <p>These nouns are used with singular or plural verbs, depending on your point of view: <b>team, crew</b> [workers on a ship/ambulance/plane], <b>company</b> [group of actors], <b>cast</b> [actors in a film or theatre production], <b>public</b> [the people as a whole], <b>staff</b> (normally plural verb).</p><p><i>Dùng động từ số ít hoặc số nhiều tùy góc nhìn: <b>đội, phi hành đoàn, đoàn kịch, dàn diễn viên, công chúng, nhân viên</b> (thường số nhiều).</i></p> <p><b>D. Physical features of landscapes</b><br><i>D. Đặc điểm cảnh quan</i></p> <p><b>a row of cottages, a clump of trees, a range of hills, a group of islands</b>.</p><p><i><b>dãy nhà, lùm cây, dãy đồi, quần đảo</b>.</i></p> <p><b>E. Things in general</b><br><i>E. Đồ vật nói chung</i></p> <p><b>a pair</b> [two of anything that are the same], <b>a couple</b> [vague way of saying two], <b>a pile/heap of papers, a bunch of flowers, a stack of chairs, a set of tools</b>.</p><p><i><b>đôi, vài, chồng/đống, bó, chồng xếp, bộ</b>.</i></p>",
+ "items": [
+  {
+   "word": "crowd",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kraʊd/",
+   "def_en": "A large number of people together.",
+   "def_vi": "Rất nhiều người tụ tập.",
+   "gloss_vi": "đám đông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Crowd</i> (noun) = đám đông. <b>Grammar</b>: số lượng lớn.",
+   "ex_kit": true,
+   "example": {
+    "en": "A <b>crowd</b> of people gathered outside.",
+    "vi": "Một <b>đám đông</b> người tụ tập bên ngoài."
+   }
+  },
+  {
+   "word": "gang",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɡæŋ/",
+   "def_en": "A group of criminals (rather negative).",
+   "def_vi": "Nhóm tội phạm (khá tiêu cực).",
+   "gloss_vi": "băng nhóm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gang</i> (noun) = băng nhóm. <b>Grammar</b>: khá tiêu cực.",
+   "ex_kit": true,
+   "example": {
+    "en": "A <b>gang</b> of thieves robbed the bank.",
+    "vi": "Một <b>băng</b> trộm đã cướp ngân hàng."
+   }
+  },
+  {
+   "word": "flock",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/flɒk/",
+   "def_en": "A group of sheep or birds.",
+   "def_vi": "Đàn cừu hay chim.",
+   "gloss_vi": "đàn (cừu, chim)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flock</i> (noun) = đàn (cừu, chim). <b>Collocations / chunks</b>: <i>a flock of sheep/geese/pigeons</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>flock</b> of sheep on the hill",
+    "vi": "Một <b>đàn</b> cừu trên đồi."
+   }
+  },
+  {
+   "word": "herd",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/hɜːd/",
+   "def_en": "A group of cows, deer or goats.",
+   "def_vi": "Đàn bò, hươu, dê.",
+   "gloss_vi": "đàn (bò, hươu)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Herd</i> (noun) = đàn (bò, hươu). <b>Collocations / chunks</b>: <i>a herd of cows/deer/goats</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>herd</b> of cows in the field",
+    "vi": "Một <b>đàn</b> bò trên cánh đồng."
+   }
+  },
+  {
+   "word": "shoal",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ʃəʊl/",
+   "def_en": "A large group of fish swimming together.",
+   "def_vi": "Đàn cá bơi cùng nhau.",
+   "gloss_vi": "đàn cá",
+   "synonyms": "school <i>(n. đàn cá)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shoal</i> (noun) = đàn cá. <b>Grammar</b>: tên cá dùng số ít: <i>a shoal of herring/mackerel</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>shoal</b> of herring",
+    "vi": "Một <b>đàn</b> cá trích."
+   }
+  },
+  {
+   "word": "swarm",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/swɔːm/",
+   "def_en": "A large group of flying insects.",
+   "def_vi": "Đàn côn trùng bay đông đúc.",
+   "gloss_vi": "đàn, bầy (côn trùng)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Swarm</i> (noun) = đàn, bầy (côn trùng). <b>Grammar</b>: /swɔːm/; thường côn trùng bay.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>swarm</b> of bees",
+    "vi": "Một <b>đàn</b> ong."
+   }
+  },
+  {
+   "word": "pack",
+   "sense": "group",
+   "pos": "noun",
+   "ipa": "/pæk/",
+   "def_en": "A group of dogs, wolves, etc.; also a set of playing cards.",
+   "def_vi": "Bầy chó, sói…; cũng là bộ bài.",
+   "gloss_vi": "bầy; bộ (bài)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pack</i> (noun) = bầy; bộ (bài). <b>Collocations / chunks</b>: <i>a pack of dogs/hyenas/wolves/cards</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>pack</b> of wolves",
+    "vi": "Một <b>bầy</b> sói."
+   }
+  },
+  {
+   "word": "team",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tiːm/",
+   "def_en": "A group of people working together.",
+   "def_vi": "Nhóm người làm việc cùng nhau.",
+   "gloss_vi": "đội, nhóm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Team</i> (noun) = đội, nhóm. <b>Grammar</b>: động từ số ít hoặc số nhiều.",
+   "example": {
+    "en": "A <b>team</b> of reporters was/were at the scene of the disaster.",
+    "vi": "Một <b>đội</b> phóng viên có mặt tại hiện trường thảm họa."
+   }
+  },
+  {
+   "word": "crew",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kruː/",
+   "def_en": "The workers on a ship, ambulance or plane.",
+   "def_vi": "Nhân viên trên tàu, xe cứu thương, máy bay.",
+   "gloss_vi": "thủy thủ đoàn, phi hành đoàn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Crew</i> (noun) = thủy thủ đoàn, phi hành đoàn. <b>Grammar</b>: động từ số ít hoặc số nhiều.",
+   "example": {
+    "en": "The <b>crew</b> was/were saved when the ship sank.",
+    "vi": "<b>Thủy thủ đoàn</b> được cứu khi tàu chìm."
+   }
+  },
+  {
+   "word": "company",
+   "sense": "actors",
+   "pos": "noun",
+   "ipa": "/ˈkʌmpəni/",
+   "def_en": "A group of actors.",
+   "def_vi": "Nhóm diễn viên.",
+   "gloss_vi": "đoàn kịch",
+   "synonyms": "troupe <i>(n. đoàn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Company</i> (noun) = đoàn kịch. <b>Grammar</b>: động từ số ít hoặc số nhiều.",
+   "example": {
+    "en": "The <b>company</b> is/are rehearsing a new production.",
+    "vi": "<b>Đoàn kịch</b> đang tập vở mới."
+   }
+  },
+  {
+   "word": "public",
+   "sense": "noun",
+   "pos": "noun",
+   "ipa": "/ˈpʌblɪk/",
+   "def_en": "The people as a whole.",
+   "def_vi": "Toàn thể người dân.",
+   "gloss_vi": "công chúng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Public</i> (noun) = công chúng. <b>Grammar</b>: <i>the public</i>; động từ số ít hoặc số nhiều.",
+   "example": {
+    "en": "The <b>public</b> has/have a right to know the truth.",
+    "vi": "<b>Công chúng</b> có quyền biết sự thật."
+   }
+  },
+  {
+   "word": "staff",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/stɑːf/",
+   "def_en": "The people who work in the same place.",
+   "def_vi": "Những người cùng nơi làm việc.",
+   "gloss_vi": "nhân viên",
+   "synonyms": "personnel <i>(n. nhân sự)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Staff</i> (noun) = nhân viên. <b>Grammar</b>: thường dùng động từ số nhiều.",
+   "example": {
+    "en": "The <b>staff</b> are on strike.",
+    "vi": "<b>Nhân viên</b> đang đình công."
+   }
+  },
+  {
+   "word": "row",
+   "sense": "line",
+   "pos": "noun",
+   "ipa": "/rəʊ/",
+   "def_en": "A line of things or people.",
+   "def_vi": "Hàng người hay vật.",
+   "gloss_vi": "dãy, hàng",
+   "synonyms": "line <i>(n. hàng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Row</i> (noun) = dãy, hàng. <b>Grammar</b>: /rəʊ/; khác <i>row</i> /raʊ/ = cãi nhau.",
+   "example": {
+    "en": "a <b>row</b> of cottages",
+    "vi": "Một <b>dãy</b> nhà tranh gần lùm cây."
+   }
+  },
+  {
+   "word": "clump",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/klʌmp/",
+   "def_en": "A small group of trees or plants growing together.",
+   "def_vi": "Nhóm cây nhỏ mọc cùng nhau.",
+   "gloss_vi": "lùm, bụi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Clump</i> (noun) = lùm, bụi. <b>Collocations / chunks</b>: <i>a clump of trees</i>.",
+   "example": {
+    "en": "a <b>clump</b> of trees",
+    "vi": "Một <b>lùm</b> cây."
+   }
+  },
+  {
+   "word": "range",
+   "sense": "hills",
+   "pos": "noun",
+   "ipa": "/reɪndʒ/",
+   "def_en": "A line of hills or mountains.",
+   "def_vi": "Dãy đồi hay núi.",
+   "gloss_vi": "dãy (núi, đồi)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Range</i> (noun) = dãy (núi, đồi). <b>Collocations / chunks</b>: <i>a range of hills/mountains</i>.",
+   "example": {
+    "en": "a <b>range</b> of hills in the background",
+    "vi": "Một <b>dãy</b> đồi phía sau."
+   }
+  },
+  {
+   "word": "couple",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkʌpl/",
+   "def_en": "A vague way of saying two.",
+   "def_vi": "Cách nói mơ hồ chỉ hai.",
+   "gloss_vi": "vài, đôi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Couple</i> (noun) = vài, đôi. <b>Grammar</b>: không nhất thiết đúng hai hay giống nhau.",
+   "example": {
+    "en": "a <b>couple</b> of strawberries",
+    "vi": "<b>Vài</b> quả dâu tây."
+   }
+  },
+  {
+   "word": "pile",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/paɪl/",
+   "def_en": "A number of things on top of each other.",
+   "def_vi": "Nhiều thứ chồng lên nhau.",
+   "gloss_vi": "chồng, đống",
+   "synonyms": "heap <i>(n. đống)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pile</i> (noun) = chồng, đống. <b>Grammar</b>: cũng <i>a heap of</i>; cho giấy, quần áo, bát đĩa.",
+   "example": {
+    "en": "a <b>pile</b> of papers",
+    "vi": "Một <b>chồng</b> giấy tờ."
+   }
+  },
+  {
+   "word": "heap",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/hiːp/",
+   "def_en": "An untidy pile of things.",
+   "def_vi": "Đống lộn xộn.",
+   "gloss_vi": "đống",
+   "synonyms": "pile <i>(n. chồng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Heap</i> (noun) = đống. <b>Grammar</b>: thường lộn xộn hơn <i>pile</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>heap</b> of clothes",
+    "vi": "Một <b>đống</b> quần áo."
+   }
+  },
+  {
+   "word": "bunch",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bʌntʃ/",
+   "def_en": "A number of flowers or fruit held together.",
+   "def_vi": "Một bó hoa hay chùm quả.",
+   "gloss_vi": "bó, chùm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bunch</i> (noun) = bó, chùm. <b>Collocations / chunks</b>: <i>a bunch of flowers/grapes/bananas</i>.",
+   "example": {
+    "en": "a <b>bunch</b> of flowers",
+    "vi": "Một <b>bó</b> hoa."
+   }
+  },
+  {
+   "word": "stack",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/stæk/",
+   "def_en": "A neat pile of similar things.",
+   "def_vi": "Chồng gọn các vật giống nhau.",
+   "gloss_vi": "chồng",
+   "synonyms": "pile <i>(n. chồng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stack</i> (noun) = chồng. <b>Collocations / chunks</b>: <i>a stack of chairs/tables/boxes/logs</i>.",
+   "example": {
+    "en": "a <b>stack</b> of chairs",
+    "vi": "Một <b>chồng</b> ghế."
+   }
+  },
+  {
+   "word": "set",
+   "sense": "group",
+   "pos": "noun",
+   "ipa": "/set/",
+   "def_en": "A group of things that belong together.",
+   "def_vi": "Nhóm đồ đi cùng nhau.",
+   "gloss_vi": "bộ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Set</i> (noun) = bộ. <b>Collocations / chunks</b>: <i>a set of tools / pots and pans / dishes</i>.",
+   "example": {
+    "en": "a <b>set</b> of tools",
+    "vi": "Một <b>bộ</b> dụng cụ."
+   }
+  }
+ ]
+}

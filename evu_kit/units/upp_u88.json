@@ -1,0 +1,346 @@
+{
+ "book": "upp",
+ "unit": 88,
+ "title_vi": "Đồ đựng và vật bên trong",
+ "theory_html": "<p><b>A. Containers</b><br><i>A. Đồ đựng</i></p> <p><b>basket, bowl, box, bucket, bag, barrel, bottle, case, crate, jug, can, carton, glass, jar, mug, pack, packet, pan, pot, sack, tin, tub, tube</b>.</p><p><i><b>giỏ, bát, hộp, xô, túi, thùng gỗ, chai, hộp đựng, két, bình rót, lon, hộp giấy, cốc, lọ, cốc có quai, lốc, gói, chảo/nồi, chậu, bao tải, hộp thiếc, hộp nhựa/bồn, tuýp</b>.</i></p> <p><b>B. More information about these containers</b><br><i>B. Thông tin thêm về các đồ đựng</i></p> <p>The table gives what each container is usually made of and its typical contents, e.g. <b>barrel</b>: wood and metal – oil, wine, beer; <b>carton</b>: card – milk, juice; <b>crate</b>: wood, plastic – bottles; <b>jar</b>: glass, pottery – jam, honey, olives, instant coffee; <b>sack</b>: cloth, plastic – coal, rubbish; <b>tube</b>: soft metal, plastic – toothpaste, paint, ointment.</p><p><i>Bảng cho biết chất liệu thường dùng và vật đựng điển hình của mỗi loại.</i></p>",
+ "items": [
+  {
+   "word": "basket",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɑːskɪt/",
+   "def_en": "A container usually made of wicker or metal, for shopping, clothes or waste paper.",
+   "def_vi": "Đồ đựng bằng mây hay kim loại, đựng đồ mua, quần áo, giấy vụn.",
+   "gloss_vi": "cái giỏ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Basket</i> (noun) = cái giỏ. <b>Grammar</b>: thường bằng mây, kim loại.",
+   "ex_kit": true,
+   "example": {
+    "en": "a shopping <b>basket</b>",
+    "vi": "Một <b>giỏ</b> đồ đi chợ."
+   }
+  },
+  {
+   "word": "bowl",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bəʊl/",
+   "def_en": "A round container usually made of china, glass or wood, for fruit, soup or sugar.",
+   "def_vi": "Đồ đựng tròn bằng sứ, thủy tinh, gỗ, đựng hoa quả, súp, đường.",
+   "gloss_vi": "cái bát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bowl</i> (noun) = cái bát. <b>Grammar</b>: <i>a bowl of fruit/soup/sugar</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>bowl</b> of soup",
+    "vi": "Một <b>bát</b> súp."
+   }
+  },
+  {
+   "word": "box",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bɒks/",
+   "def_en": "A container usually made of cardboard or wood, for matches, tools, toys or chocolates.",
+   "def_vi": "Đồ đựng bằng bìa hay gỗ, đựng diêm, dụng cụ, đồ chơi, sô-cô-la.",
+   "gloss_vi": "cái hộp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Box</i> (noun) = cái hộp. <b>Grammar</b>: <i>a box of matches/tools/toys</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>box</b> of chocolates",
+    "vi": "Một <b>hộp</b> sô-cô-la."
+   }
+  },
+  {
+   "word": "bucket",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbʌkɪt/",
+   "def_en": "A container usually made of metal or plastic, for sand or water.",
+   "def_vi": "Đồ đựng bằng kim loại hay nhựa, đựng cát, nước.",
+   "gloss_vi": "cái xô",
+   "synonyms": "pail <i>(n. thùng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bucket</i> (noun) = cái xô. <b>Grammar</b>: <i>a bucket of sand/water</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>bucket</b> of water",
+    "vi": "Một <b>xô</b> nước."
+   }
+  },
+  {
+   "word": "barrel",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbærəl/",
+   "def_en": "A large container usually made of wood and metal, for oil, wine or beer.",
+   "def_vi": "Thùng lớn bằng gỗ và kim loại, đựng dầu, rượu, bia.",
+   "gloss_vi": "thùng tô nô",
+   "synonyms": "cask <i>(n. thùng gỗ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Barrel</i> (noun) = thùng tô nô. <b>Grammar</b>: <i>a barrel of oil</i> (đơn vị đo dầu).",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>barrel</b> of wine",
+    "vi": "Một <b>thùng</b> rượu vang."
+   }
+  },
+  {
+   "word": "case",
+   "sense": "container",
+   "pos": "noun",
+   "ipa": "/keɪs/",
+   "def_en": "A container usually made of leather, wood or cardboard, for jewellery, spectacles or wine.",
+   "def_vi": "Hộp bằng da, gỗ, bìa, đựng trang sức, kính, rượu.",
+   "gloss_vi": "hộp đựng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Case</i> (noun) = hộp đựng. <b>Grammar</b>: <i>a case of wine</i> = thùng rượu.",
+   "ex_kit": true,
+   "example": {
+    "en": "a glasses <b>case</b>",
+    "vi": "Một <b>hộp</b> đựng kính."
+   }
+  },
+  {
+   "word": "crate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kreɪt/",
+   "def_en": "A container usually made of wood or plastic, for bottles.",
+   "def_vi": "Két bằng gỗ hay nhựa, đựng chai.",
+   "gloss_vi": "két",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Crate</i> (noun) = két. <b>Grammar</b>: dùng cho chai lọ.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>crate</b> of beer bottles",
+    "vi": "Một <b>két</b> bia."
+   }
+  },
+  {
+   "word": "jug",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dʒʌɡ/",
+   "def_en": "A container usually made of pottery, for milk, cream or water.",
+   "def_vi": "Bình bằng gốm, đựng sữa, kem, nước.",
+   "gloss_vi": "bình rót",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Jug</i> (noun) = bình rót. <b>Grammar</b>: Mỹ <i>pitcher</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>jug</b> of milk",
+    "vi": "Một <b>bình</b> sữa."
+   }
+  },
+  {
+   "word": "can",
+   "sense": "container",
+   "pos": "noun",
+   "ipa": "/kæn/",
+   "def_en": "A metal container for cola or beer.",
+   "def_vi": "Lon kim loại đựng cola, bia.",
+   "gloss_vi": "lon",
+   "synonyms": "tin <i>(n. hộp thiếc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Can</i> (noun) = lon. <b>Grammar</b>: <i>a can of cola/beer</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>can</b> of cola",
+    "vi": "Một <b>lon</b> cola."
+   }
+  },
+  {
+   "word": "carton",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɑːtn/",
+   "def_en": "A container made of card, for milk or juice.",
+   "def_vi": "Hộp giấy đựng sữa, nước ép.",
+   "gloss_vi": "hộp giấy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Carton</i> (noun) = hộp giấy. <b>Grammar</b>: <i>a carton of milk/juice</i>.",
+   "example": {
+    "en": "two <b>cartons</b> of milk",
+    "vi": "Hai <b>hộp</b> sữa."
+   }
+  },
+  {
+   "word": "jar",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dʒɑː(r)/",
+   "def_en": "A container usually made of glass or pottery, for jam, honey, olives or instant coffee.",
+   "def_vi": "Lọ thủy tinh hay gốm, đựng mứt, mật ong, ô liu, cà phê.",
+   "gloss_vi": "lọ, hũ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Jar</i> (noun) = lọ, hũ. <b>Grammar</b>: <i>a jar of jam/honey/olives</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>jar</b> of jam",
+    "vi": "Một <b>lọ</b> mứt."
+   }
+  },
+  {
+   "word": "mug",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/mʌɡ/",
+   "def_en": "A large cup usually made of pottery, for tea, coffee or cocoa.",
+   "def_vi": "Cốc lớn bằng gốm, đựng trà, cà phê, ca cao.",
+   "gloss_vi": "cốc có quai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mug</i> (noun) = cốc có quai. <b>Grammar</b>: to hơn <i>cup</i>, không có đĩa lót.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>mug</b> of coffee",
+    "vi": "Một <b>cốc</b> cà phê."
+   }
+  },
+  {
+   "word": "pack",
+   "sense": "container",
+   "pos": "noun",
+   "ipa": "/pæk/",
+   "def_en": "A container made of card, for playing cards or six cans.",
+   "def_vi": "Hộp bìa đựng bài hay sáu lon.",
+   "gloss_vi": "lốc, bộ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pack</i> (noun) = lốc, bộ. <b>Grammar</b>: <i>a pack of cards</i>; <i>a six-pack</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "a six-<b>pack</b> of beer",
+    "vi": "Một <b>lốc</b> sáu lon bia."
+   }
+  },
+  {
+   "word": "packet",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpækɪt/",
+   "def_en": "A container made of card, paper or plastic, for tea, biscuits, cereal or crisps.",
+   "def_vi": "Gói bằng bìa, giấy, nhựa, đựng trà, bánh quy, ngũ cốc, khoai chiên.",
+   "gloss_vi": "gói",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Packet</i> (noun) = gói. <b>Grammar</b>: Mỹ thường <i>package</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>packet</b> of biscuits",
+    "vi": "Một <b>gói</b> bánh quy."
+   }
+  },
+  {
+   "word": "pan",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pæn/",
+   "def_en": "A metal container for food that is being cooked.",
+   "def_vi": "Đồ kim loại để nấu thức ăn.",
+   "gloss_vi": "chảo, nồi",
+   "synonyms": "saucepan <i>(n. nồi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pan</i> (noun) = chảo, nồi. <b>Grammar</b>: thường bằng kim loại.",
+   "ex_kit": true,
+   "example": {
+    "en": "Put the vegetables in a <b>pan</b>.",
+    "vi": "Cho rau vào <b>nồi</b>."
+   }
+  },
+  {
+   "word": "pot",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pɒt/",
+   "def_en": "A container usually made of plastic, metal or pottery, for yoghurt, a plant or paint.",
+   "def_vi": "Hũ bằng nhựa, kim loại, gốm, đựng sữa chua, cây, sơn.",
+   "gloss_vi": "hũ, chậu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pot</i> (noun) = hũ, chậu. <b>Grammar</b>: <i>a plant pot, a pot of paint</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>pot</b> of yoghurt",
+    "vi": "Một <b>hũ</b> sữa chua."
+   }
+  },
+  {
+   "word": "sack",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/sæk/",
+   "def_en": "A large bag usually made of cloth or plastic, for coal or rubbish.",
+   "def_vi": "Bao lớn bằng vải hay nhựa, đựng than, rác.",
+   "gloss_vi": "bao tải",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sack</i> (noun) = bao tải. <b>Grammar</b>: <i>a sack of coal/rubbish</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>sack</b> of coal",
+    "vi": "Một <b>bao</b> than."
+   }
+  },
+  {
+   "word": "tin",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tɪn/",
+   "def_en": "A metal container for tomatoes, sardines or fruit.",
+   "def_vi": "Hộp kim loại đựng cà chua, cá mòi, hoa quả.",
+   "gloss_vi": "hộp thiếc, đồ hộp",
+   "synonyms": "can <i>(n. lon)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tin</i> (noun) = hộp thiếc, đồ hộp. <b>Grammar</b>: Anh-Anh; Mỹ <i>can</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>tin</b> of sardines",
+    "vi": "Một <b>hộp</b> cá mòi."
+   }
+  },
+  {
+   "word": "tub",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tʌb/",
+   "def_en": "A container usually made of wood, plastic or card, for flowers, rainwater or ice cream.",
+   "def_vi": "Bồn/hộp bằng gỗ, nhựa, bìa, đựng hoa, nước mưa, kem.",
+   "gloss_vi": "hộp, bồn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tub</i> (noun) = hộp, bồn. <b>Grammar</b>: /tʌb/.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>tub</b> of ice cream",
+    "vi": "Một <b>hộp</b> kem."
+   }
+  },
+  {
+   "word": "tube",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tjuːb/",
+   "def_en": "A container usually made of soft metal or plastic, for toothpaste, paint or ointment.",
+   "def_vi": "Tuýp bằng kim loại mềm hay nhựa, đựng kem đánh răng, sơn, thuốc mỡ.",
+   "gloss_vi": "tuýp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tube</i> (noun) = tuýp. <b>Grammar</b>: /tjuːb/ hoặc /tʃuːb/.",
+   "example": {
+    "en": "a <b>tube</b> of toothpaste",
+    "vi": "Một <b>tuýp</b> kem đánh răng."
+   }
+  }
+ ]
+}

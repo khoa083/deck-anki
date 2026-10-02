@@ -1,0 +1,410 @@
+{
+ "book": "upp",
+ "unit": 86,
+ "title_vi": "Biến danh từ không đếm được thành đếm được",
+ "theory_html": "<p><b>A. Bit and piece</b><br><i>A. Bit và piece</i></p> <p>You can make many uncountable nouns singular and countable by adding <b>a piece of</b> or <b>a (little) bit of</b>, and plural with <b>pieces of</b> or <b>bits of</b>. <b>Bit</b> is less formal than <b>piece</b> and they are not always interchangeable. <b>Bit</b> can be used with all types of nouns; <b>piece</b> tends to be used more with uncountable nouns. <b>Bit</b> suggests a smaller amount than <b>piece</b>.</p><p><i>Thêm <b>a piece of / a bit of</b> để biến danh từ không đếm được thành đếm được. <b>Bit</b> ít trang trọng hơn, dùng với mọi danh từ và chỉ lượng nhỏ hơn; <b>piece</b> thường dùng với danh từ không đếm được.</i></p> <p><b>CM. Common mistakes</b><br><i>CM. Lỗi thường gặp</i></p> <p><b>What an attractive piece of furniture!</b> (NOT <b>What an attractive furniture!</b>)</p><p><i>Không dùng <b>a/an</b> trực tiếp với danh từ không đếm được.</i></p> <p><b>B. Words that go with specific uncountable nouns</b><br><i>B. Từ đi với danh từ không đếm được cụ thể</i></p> <p>Weather: <b>a shower (of rain), a sunny spell, a rumble of thunder, a flash of lightning, a clap of thunder, a spot of rain, a gust of wind</b>. Groceries: <b>a loaf of bread, a slice of ham, a bar of chocolate/soap, a tube of toothpaste, a carton of milk</b>. Nature: <b>a blade of grass, a cloud of smoke, a puff of smoke, a breath of fresh air, a lump of coal/sugar</b>. Others: <b>a stroke of luck, a stroke of work</b> (only negative), <b>a fit of temper, a means of transport, an article/item of clothing, an item of news</b>.</p><p><i>Thời tiết, hàng tạp hóa, thiên nhiên và các từ khác có lượng từ riêng.</i></p> <p><b>C. A state of</b><br><i>C. A state of</i></p> <p>Nouns used with <b>a state of</b> are usually abstract: <b>chaos, tension, confusion, health, disorder, uncertainty, poverty, agitation, disrepair, flux</b> [continuous change].</p><p><i>Danh từ đi với <b>a state of</b> thường trừu tượng.</i></p>",
+ "items": [
+  {
+   "word": "a piece of",
+   "sense": "",
+   "pos": "determiner",
+   "ipa": "/ə ˈpiːs əv/",
+   "def_en": "One item of something uncountable.",
+   "def_vi": "Một đơn vị của thứ không đếm được.",
+   "gloss_vi": "một món, một mẩu",
+   "synonyms": "a bit of <i>(det. một chút)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A piece of</i> (determiner) = một món, một mẩu. <b>Grammar</b>: chủ yếu với danh từ không đếm được; trang trọng hơn <i>bit</i>.",
+   "example": {
+    "en": "How many <b>pieces of</b> luggage have you got with you?",
+    "vi": "Bạn mang theo mấy <b>kiện</b> hành lý?"
+   }
+  },
+  {
+   "word": "a bit of",
+   "sense": "",
+   "pos": "determiner",
+   "ipa": "/ə ˈbɪt əv/",
+   "def_en": "A small amount or item of something (less formal).",
+   "def_vi": "Một chút, một mẩu (ít trang trọng).",
+   "gloss_vi": "một chút, một mẩu",
+   "synonyms": "a piece of <i>(det. một món)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A bit of</i> (determiner) = một chút, một mẩu. <b>Grammar</b>: dùng với mọi danh từ; chỉ lượng nhỏ hơn <i>piece</i>.",
+   "example": {
+    "en": "The police collected <b>bits of</b> information from different sources.",
+    "vi": "Cảnh sát thu thập <b>những mẩu</b> thông tin từ nhiều nguồn."
+   }
+  },
+  {
+   "word": "shower",
+   "sense": "rain",
+   "pos": "noun",
+   "ipa": "/ˈʃaʊə(r)/",
+   "def_en": "A short period of rain.",
+   "def_vi": "Cơn mưa ngắn.",
+   "gloss_vi": "mưa rào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shower</i> (noun) = mưa rào. <b>Collocations / chunks</b>: <i>heavy showers</i>; <i>a shower of rain</i>.",
+   "example": {
+    "en": "In the north there are likely to be heavy <b>showers</b> (of rain).",
+    "vi": "Phía bắc có thể có <b>mưa rào</b> nặng hạt."
+   }
+  },
+  {
+   "word": "sunny spell",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsʌni ˈspel/",
+   "def_en": "A short period of sunny weather.",
+   "def_vi": "Một đợt trời nắng ngắn.",
+   "gloss_vi": "đợt nắng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sunny spell</i> (noun) = đợt nắng. <b>Grammar</b>: <i>spell</i> = khoảng thời gian ngắn.",
+   "example": {
+    "en": "The <b>sunny spell</b> (of weather) that we have had this last week will continue in much of the south.",
+    "vi": "<b>Đợt nắng</b> tuần qua sẽ tiếp tục ở phần lớn miền nam."
+   }
+  },
+  {
+   "word": "rumble of thunder",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌrʌmbl əv ˈθʌndə(r)/",
+   "def_en": "A low, continuous sound of thunder.",
+   "def_vi": "Tiếng sấm trầm kéo dài.",
+   "gloss_vi": "tiếng sấm rền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rumble of thunder</i> (noun) = tiếng sấm rền. <b>Collocations / chunks</b>: lượng từ cho <i>thunder</i>.",
+   "example": {
+    "en": "There may be occasional <b>rumbles of thunder</b>.",
+    "vi": "Có thể thỉnh thoảng có <b>tiếng sấm rền</b>."
+   }
+  },
+  {
+   "word": "flash of lightning",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌflæʃ əv ˈlaɪtnɪŋ/",
+   "def_en": "A sudden bright light of lightning.",
+   "def_vi": "Ánh chớp đột ngột.",
+   "gloss_vi": "tia chớp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flash of lightning</i> (noun) = tia chớp. <b>Collocations / chunks</b>: lượng từ cho <i>lightning</i>.",
+   "example": {
+    "en": "There may be <b>flashes of lightning</b> in some areas.",
+    "vi": "Có thể có <b>tia chớp</b> ở vài nơi."
+   }
+  },
+  {
+   "word": "clap of thunder",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌklæp əv ˈθʌndə(r)/",
+   "def_en": "A sudden loud sound of thunder.",
+   "def_vi": "Tiếng sấm to đột ngột.",
+   "gloss_vi": "tiếng sét",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Clap of thunder</i> (noun) = tiếng sét. <b>Collocations / chunks</b>: lượng từ cho <i>thunder</i>.",
+   "example": {
+    "en": "some quite loud <b>claps of thunder</b> in one or two areas",
+    "vi": "Vài <b>tiếng sét</b> khá to ở một hai khu vực."
+   }
+  },
+  {
+   "word": "spot of rain",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌspɒt əv ˈreɪn/",
+   "def_en": "A single drop of rain.",
+   "def_vi": "Một giọt mưa.",
+   "gloss_vi": "hạt mưa lất phất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spot of rain</i> (noun) = hạt mưa lất phất. <b>Collocations / chunks</b>: lượng từ cho <i>rain</i>.",
+   "example": {
+    "en": "These will be followed by a few <b>spots of rain</b>.",
+    "vi": "Sau đó sẽ có vài <b>hạt mưa</b>."
+   }
+  },
+  {
+   "word": "gust of wind",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɡʌst əv ˈwɪnd/",
+   "def_en": "A sudden strong movement of wind.",
+   "def_vi": "Luồng gió mạnh đột ngột.",
+   "gloss_vi": "cơn gió giật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gust of wind</i> (noun) = cơn gió giật. <b>Collocations / chunks</b>: lượng từ cho <i>wind</i>.",
+   "example": {
+    "en": "<b>Gusts of wind</b> should soon blow them away.",
+    "vi": "Những <b>cơn gió giật</b> sẽ sớm thổi chúng đi."
+   }
+  },
+  {
+   "word": "loaf",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ləʊf/",
+   "def_en": "Bread shaped and baked in one piece.",
+   "def_vi": "Bánh mì nướng nguyên khối.",
+   "gloss_vi": "ổ (bánh mì)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Loaf</i> (noun) = ổ (bánh mì). <b>Grammar</b>: số nhiều <i>loaves</i>.",
+   "example": {
+    "en": "I need a <b>loaf</b> of bread.",
+    "vi": "Tôi cần một <b>ổ</b> bánh mì."
+   }
+  },
+  {
+   "word": "slice",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/slaɪs/",
+   "def_en": "A thin flat piece cut from something.",
+   "def_vi": "Miếng mỏng cắt ra.",
+   "gloss_vi": "lát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Slice</i> (noun) = lát. <b>Collocations / chunks</b>: cũng dùng cho bánh mì nướng, thịt, phô mai.",
+   "example": {
+    "en": "a couple of <b>slices</b> of ham",
+    "vi": "Vài <b>lát</b> giăm bông."
+   }
+  },
+  {
+   "word": "bar",
+   "sense": "block",
+   "pos": "noun",
+   "ipa": "/bɑː(r)/",
+   "def_en": "A solid block of something, e.g. chocolate or soap.",
+   "def_vi": "Khối đặc như sô-cô-la, xà phòng.",
+   "gloss_vi": "thanh, bánh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bar</i> (noun) = thanh, bánh. <b>Collocations / chunks</b>: <i>a bar of chocolate/soap</i>.",
+   "example": {
+    "en": "two <b>bars</b> of chocolate",
+    "vi": "Hai <b>thanh</b> sô-cô-la và ba <b>bánh</b> xà phòng."
+   }
+  },
+  {
+   "word": "blade of grass",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌbleɪd əv ˈɡrɑːs/",
+   "def_en": "A single long thin leaf of grass.",
+   "def_vi": "Một ngọn cỏ.",
+   "gloss_vi": "ngọn cỏ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Blade of grass</i> (noun) = ngọn cỏ. <b>Collocations / chunks</b>: lượng từ cho <i>grass</i>.",
+   "example": {
+    "en": "Look at the ladybird on that <b>blade of grass</b>!",
+    "vi": "Nhìn con bọ rùa trên <b>ngọn cỏ</b> kìa!"
+   }
+  },
+  {
+   "word": "cloud of smoke",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌklaʊd əv ˈsməʊk/",
+   "def_en": "A large mass of smoke in the air.",
+   "def_vi": "Khối khói lớn trên không.",
+   "gloss_vi": "đám khói",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cloud of smoke</i> (noun) = đám khói. <b>Collocations / chunks</b>: lượng từ cho <i>smoke</i>.",
+   "example": {
+    "en": "Look at that <b>cloud of smoke</b> hanging over the town!",
+    "vi": "Nhìn <b>đám khói</b> lơ lửng trên thị trấn kìa!"
+   }
+  },
+  {
+   "word": "puff of smoke",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpʌf əv ˈsməʊk/",
+   "def_en": "A small amount of smoke blown out.",
+   "def_vi": "Lượng khói nhỏ phả ra.",
+   "gloss_vi": "làn khói",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Puff of smoke</i> (noun) = làn khói. <b>Collocations / chunks</b>: lượng từ cho <i>smoke</i>.",
+   "example": {
+    "en": "We could see little <b>puffs of smoke</b> coming out of the volcano.",
+    "vi": "Chúng tôi thấy <b>làn khói</b> nhỏ bốc ra từ núi lửa."
+   }
+  },
+  {
+   "word": "breath of fresh air",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌbreθ əv ˌfreʃ ˈeə(r)/",
+   "def_en": "Some clean air from outside.",
+   "def_vi": "Chút không khí trong lành.",
+   "gloss_vi": "hít thở không khí trong lành",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Breath of fresh air</i> (noun) = hít thở không khí trong lành. <b>Grammar</b>: <i>get a breath of fresh air</i>.",
+   "example": {
+    "en": "Let’s go out and get a <b>breath of fresh air</b>.",
+    "vi": "Ra ngoài <b>hít thở không khí trong lành</b> đi."
+   }
+  },
+  {
+   "word": "lump",
+   "sense": "piece",
+   "pos": "noun",
+   "ipa": "/lʌmp/",
+   "def_en": "A solid piece of something, e.g. coal or sugar.",
+   "def_vi": "Cục đặc như than, đường.",
+   "gloss_vi": "cục, viên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lump</i> (noun) = cục, viên. <b>Collocations / chunks</b>: <i>a lump of coal/sugar</i>.",
+   "example": {
+    "en": "Put another <b>lump</b> of coal on the fire, please.",
+    "vi": "Cho thêm một <b>cục</b> than vào lò."
+   }
+  },
+  {
+   "word": "stroke of luck",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌstrəʊk əv ˈlʌk/",
+   "def_en": "A sudden piece of good luck.",
+   "def_vi": "Một vận may bất ngờ.",
+   "gloss_vi": "vận may",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stroke of luck</i> (noun) = vận may. <b>Collocations / chunks</b>: lượng từ cho <i>luck</i>.",
+   "example": {
+    "en": "I had an amazing <b>stroke of luck</b> this morning.",
+    "vi": "Sáng nay tôi gặp <b>vận may</b> lạ thường."
+   }
+  },
+  {
+   "word": "stroke of work",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌstrəʊk əv ˈwɜːk/",
+   "def_en": "Any work at all (only in negative sentences).",
+   "def_vi": "Chút việc nào (chỉ dùng câu phủ định).",
+   "gloss_vi": "chút việc nào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stroke of work</i> (noun) = chút việc nào. <b>Grammar</b>: chỉ trong câu phủ định; mạnh hơn <i>a bit of work</i>.",
+   "example": {
+    "en": "I’ve never seen him do a <b>stroke of work</b>.",
+    "vi": "Tôi chưa bao giờ thấy anh ta làm <b>chút việc nào</b>."
+   }
+  },
+  {
+   "word": "fit of temper",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌfɪt əv ˈtempə(r)/",
+   "def_en": "A sudden short period of anger.",
+   "def_vi": "Cơn giận đột ngột.",
+   "gloss_vi": "cơn nóng giận",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fit of temper</i> (noun) = cơn nóng giận. <b>Collocations / chunks</b>: lượng từ cho <i>temper</i>.",
+   "example": {
+    "en": "I’ve never seen him in such a <b>fit of temper</b> before.",
+    "vi": "Tôi chưa bao giờ thấy anh ấy <b>nổi nóng</b> như vậy."
+   }
+  },
+  {
+   "word": "item of clothing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌaɪtəm əv ˈkləʊðɪŋ/",
+   "def_en": "A single piece of clothing.",
+   "def_vi": "Một món quần áo.",
+   "gloss_vi": "món đồ mặc",
+   "synonyms": "article of clothing <i>(n. món đồ mặc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Item of clothing</i> (noun) = món đồ mặc. <b>Grammar</b>: cũng <i>article of clothing</i>.",
+   "example": {
+    "en": "Jeans must be the most useful <b>item of clothing</b> ever invented.",
+    "vi": "Quần jean hẳn là <b>món đồ</b> hữu ích nhất từng được phát minh."
+   }
+  },
+  {
+   "word": "item of news",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌaɪtəm əv ˈnjuːz/",
+   "def_en": "A single piece of news.",
+   "def_vi": "Một mẩu tin.",
+   "gloss_vi": "mẩu tin",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Item of news</i> (noun) = mẩu tin. <b>Collocations / chunks</b>: lượng từ cho <i>news</i>.",
+   "example": {
+    "en": "There was an interesting <b>item of news</b> about France on TV last night.",
+    "vi": "Tối qua có <b>mẩu tin</b> thú vị về Pháp trên TV."
+   }
+  },
+  {
+   "word": "a state of",
+   "sense": "",
+   "pos": "determiner",
+   "ipa": "/ə ˈsteɪt əv/",
+   "def_en": "Used with abstract nouns to describe a condition.",
+   "def_vi": "Dùng với danh từ trừu tượng chỉ tình trạng.",
+   "gloss_vi": "tình trạng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A state of</i> (determiner) = tình trạng. <b>Collocations / chunks</b>: + <i>chaos, tension, confusion, uncertainty, disrepair…</i>.",
+   "example": {
+    "en": "The transport system is in <b>a state of</b> chaos.",
+    "vi": "Hệ thống giao thông đang trong <b>tình trạng</b> hỗn loạn."
+   }
+  },
+  {
+   "word": "flux",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/flʌks/",
+   "def_en": "Continuous change.",
+   "def_vi": "Thay đổi liên tục.",
+   "gloss_vi": "biến động liên tục",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flux</i> (noun) = biến động liên tục. <b>Collocations / chunks</b>: <i>in a state of flux</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The market is in a state of <b>flux</b>.",
+    "vi": "Thị trường đang trong tình trạng <b>biến động liên tục</b>."
+   }
+  },
+  {
+   "word": "disrepair",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdɪsrɪˈpeə(r)/",
+   "def_en": "Bad condition because of lack of repair.",
+   "def_vi": "Tình trạng xuống cấp vì thiếu sửa chữa.",
+   "gloss_vi": "tình trạng hư hỏng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Disrepair</i> (noun) = tình trạng hư hỏng. <b>Collocations / chunks</b>: <i>in a state of disrepair</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The building is in a state of <b>disrepair</b>.",
+    "vi": "Tòa nhà ở trong tình trạng <b>hư hỏng</b>."
+   }
+  }
+ ]
+}
