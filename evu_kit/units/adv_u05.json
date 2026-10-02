@@ -1,0 +1,616 @@
+{
+ "book": "adv",
+ "unit": 5,
+ "title_vi": "Tại nơi làm việc: đồng nghiệp và công việc hằng ngày",
+ "theory_html": "<p><b>A. Colleagues</b><br><i>A. Đồng nghiệp</i></p> <p><b>opposite number</b> [has the same position as me], <b>working relationship, collaboration, counterpart</b> (more formal equivalent of <b>opposite number</b>), <b>rapport, take the initiative, hierarchical, pecking order, job-share, hot-desking, workmates</b> (informal), <b>talk shop</b> (informal).</p><p><i><b>người cùng vị trí, quan hệ công việc, hợp tác, người tương nhiệm, sự hòa hợp, chủ động, có thứ bậc, trật tự ưu tiên, chia sẻ việc, ngồi bàn luân phiên, bạn đồng nghiệp, bàn chuyện công việc</b>.</i></p> <p><b>B. During the day (different work patterns)</b><br><i>B. Trong ngày (các kiểu làm việc)</i></p> <p><b>mundane, meet a deadline, volunteer, rewarding, stimulating, workload; day shift, mechanical, repetitive, knock off, night shift, monotonous, satisfying, challenging; glamorous, irregular, anti-social, stuck behind a desk, mind-numbing, tight schedules, stuck in a rut, dead-end; technician, go in with, start-up, self-employed, freelance, programmer</b>.</p><p><i>Các từ mô tả nhịp làm việc và loại công việc khác nhau.</i></p>",
+ "items": [
+  {
+   "word": "opposite number",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɒpəzɪt ˈnʌmbə(r)/",
+   "def_en": "A person who has the same position or does the same job as you elsewhere.",
+   "def_vi": "Người cùng vị trí ở nơi khác.",
+   "gloss_vi": "người cùng vị trí",
+   "synonyms": "counterpart <i>(n. người tương nhiệm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Opposite number</i> (noun) = người cùng vị trí. <b>Grammar</b>: thân mật hơn <i>counterpart</i>.",
+   "example": {
+    "en": "Philip is my <b>opposite number</b> in the company’s New York office.",
+    "vi": "Philip là <b>người cùng vị trí</b> với tôi ở văn phòng New York."
+   }
+  },
+  {
+   "word": "working relationship",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌwɜːkɪŋ rɪˈleɪʃnʃɪp/",
+   "def_en": "A way of communicating and working together.",
+   "def_vi": "Cách giao tiếp và làm việc cùng nhau.",
+   "gloss_vi": "quan hệ công việc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Working relationship</i> (noun) = quan hệ công việc. <b>Collocations / chunks</b>: <i>a good working relationship</i>.",
+   "example": {
+    "en": "We have a good <b>working relationship</b>.",
+    "vi": "Chúng tôi có <b>quan hệ công việc</b> tốt."
+   }
+  },
+  {
+   "word": "collaboration",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəˌlæbəˈreɪʃn/",
+   "def_en": "Working together to achieve shared goals.",
+   "def_vi": "Làm việc cùng nhau vì mục tiêu chung.",
+   "gloss_vi": "sự hợp tác",
+   "synonyms": "cooperation <i>(n. hợp tác)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Collaboration</i> (noun) = sự hợp tác. <b>Grammar</b>: <i>collaborate</i> (v.).",
+   "example": {
+    "en": "There’s a lot of day-to-day <b>collaboration</b>.",
+    "vi": "Có nhiều <b>hợp tác</b> hằng ngày."
+   }
+  },
+  {
+   "word": "counterpart",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkaʊntəpɑːt/",
+   "def_en": "A person with the same position elsewhere (more formal than opposite number).",
+   "def_vi": "Người cùng vị trí (trang trọng hơn).",
+   "gloss_vi": "người tương nhiệm",
+   "synonyms": "opposite number <i>(n. người cùng vị trí)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Counterpart</i> (noun) = người tương nhiệm. <b>Grammar</b>: trang trọng hơn <i>opposite number</i>.",
+   "example": {
+    "en": "Having a <b>counterpart</b> like Philip in another branch is a great support.",
+    "vi": "Có một <b>người tương nhiệm</b> như Philip là chỗ dựa lớn."
+   }
+  },
+  {
+   "word": "rapport",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ræˈpɔː(r)/",
+   "def_en": "A good relationship and communication.",
+   "def_vi": "Quan hệ và giao tiếp tốt.",
+   "gloss_vi": "sự hòa hợp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rapport</i> (noun) = sự hòa hợp. <b>Grammar</b>: /ræˈpɔː/, <i>t</i> câm; <i>establish a rapport</i>.",
+   "example": {
+    "en": "She quickly established a good <b>rapport</b> with everyone.",
+    "vi": "Sếp mới nhanh chóng tạo được <b>sự hòa hợp</b> với mọi người."
+   }
+  },
+  {
+   "word": "take the initiative",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ði ɪˈnɪʃətɪv/",
+   "def_en": "To make decisions without being told what to do.",
+   "def_vi": "Tự quyết định mà không cần chỉ bảo.",
+   "gloss_vi": "chủ động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take the initiative</i> (verb) = chủ động. <b>Collocations / chunks</b>: <i>take the initiative</i>.",
+   "example": {
+    "en": "She likes us to <b>take the initiative</b>.",
+    "vi": "Sếp muốn chúng tôi <b>chủ động</b>."
+   }
+  },
+  {
+   "word": "hierarchical",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌhaɪəˈrɑːkɪkl/",
+   "def_en": "Having a structure with important and less important people.",
+   "def_vi": "Có cấu trúc người quan trọng và ít quan trọng.",
+   "gloss_vi": "có thứ bậc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hierarchical</i> (adjective) = có thứ bậc. <b>Grammar</b>: <i>hierarchy</i> (n.).",
+   "example": {
+    "en": "The company is very <b>hierarchical</b>.",
+    "vi": "Công ty rất <b>nặng thứ bậc</b>."
+   }
+  },
+  {
+   "word": "pecking order",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpekɪŋ ˌɔːdə(r)/",
+   "def_en": "A system where some people get benefits before others.",
+   "def_vi": "Hệ thống ai được ưu tiên trước.",
+   "gloss_vi": "trật tự ưu tiên",
+   "synonyms": "hierarchy <i>(n. thứ bậc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pecking order</i> (noun) = trật tự ưu tiên. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "There’s a <b>pecking order</b> for everything.",
+    "vi": "Có <b>trật tự ưu tiên</b> cho mọi thứ."
+   }
+  },
+  {
+   "word": "job-share",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdʒɒb ʃeə(r)/",
+   "def_en": "An agreement where two people share the same job.",
+   "def_vi": "Thỏa thuận hai người cùng chia một việc.",
+   "gloss_vi": "chia sẻ công việc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Job-share</i> (noun) = chia sẻ công việc. <b>Collocations / chunks</b>: <i>do a job-share</i>.",
+   "example": {
+    "en": "I do a <b>job-share</b> with a woman called Rose.",
+    "vi": "Tôi <b>chia sẻ công việc</b> với một người tên Rose."
+   }
+  },
+  {
+   "word": "hot-desking",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhɒt ˌdeskɪŋ/",
+   "def_en": "A policy of sharing desks, so people sit at whichever desk is free.",
+   "def_vi": "Chính sách ngồi bất kỳ bàn nào còn trống.",
+   "gloss_vi": "ngồi bàn luân phiên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hot-desking</i> (noun) = ngồi bàn luân phiên. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "My office uses a <b>hot-desking</b> system.",
+    "vi": "Văn phòng tôi dùng hệ thống <b>ngồi bàn luân phiên</b>."
+   }
+  },
+  {
+   "word": "workmate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɜːkmeɪt/",
+   "def_en": "A colleague you are friendly with (informal).",
+   "def_vi": "Đồng nghiệp thân (thân mật).",
+   "gloss_vi": "bạn đồng nghiệp",
+   "synonyms": "colleague <i>(n. đồng nghiệp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Workmate</i> (noun) = bạn đồng nghiệp. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "I socialise with my <b>workmates</b> outside of work.",
+    "vi": "Tôi giao lưu với <b>bạn đồng nghiệp</b> ngoài giờ."
+   }
+  },
+  {
+   "word": "talk shop",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌtɔːk ˈʃɒp/",
+   "def_en": "To talk about work (informal).",
+   "def_vi": "Nói chuyện công việc (thân mật).",
+   "gloss_vi": "bàn chuyện công việc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Talk shop</i> (verb) = bàn chuyện công việc. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "We try not to <b>talk shop</b> on those occasions.",
+    "vi": "Chúng tôi cố không <b>bàn chuyện công việc</b> những lúc đó."
+   }
+  },
+  {
+   "word": "mundane",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/mʌnˈdeɪn/",
+   "def_en": "Ordinary, not interesting.",
+   "def_vi": "Bình thường, không thú vị.",
+   "gloss_vi": "tẻ nhạt, đơn điệu",
+   "synonyms": "dull <i>(adj. buồn tẻ)</i>",
+   "antonyms": "stimulating <i>(adj. kích thích)</i>",
+   "grammar_vi": "<i>Mundane</i> (adjective) = tẻ nhạt, đơn điệu. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "I do fairly <b>mundane</b> tasks.",
+    "vi": "Tôi làm những việc khá <b>tẻ nhạt</b>."
+   }
+  },
+  {
+   "word": "meet a deadline",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌmiːt ə ˈdedlaɪn/",
+   "def_en": "To have something finished by a fixed day or time.",
+   "def_vi": "Hoàn thành đúng hạn.",
+   "gloss_vi": "kịp hạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "miss a deadline <i>(v. trễ hạn)</i>",
+   "grammar_vi": "<i>Meet a deadline</i> (verb) = kịp hạn. <b>Collocations / chunks</b>: <i>meet / miss a deadline</i>.",
+   "example": {
+    "en": "Occasionally I have to <b>meet a deadline</b>.",
+    "vi": "Thỉnh thoảng tôi phải <b>kịp hạn chót</b>."
+   }
+  },
+  {
+   "word": "volunteer",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌvɒlənˈtɪə(r)/",
+   "def_en": "To offer to do something without being asked.",
+   "def_vi": "Tự nguyện làm gì.",
+   "gloss_vi": "tình nguyện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Volunteer</i> (verb) = tình nguyện. <b>Grammar</b>: cũng danh từ.",
+   "example": {
+    "en": "They need someone to <b>volunteer</b> for something.",
+    "vi": "Họ cần ai đó <b>tình nguyện</b> làm việc gì."
+   }
+  },
+  {
+   "word": "rewarding",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/rɪˈwɔːdɪŋ/",
+   "def_en": "Making you feel satisfied that you have done something useful or well.",
+   "def_vi": "Khiến bạn hài lòng vì làm việc có ích.",
+   "gloss_vi": "bổ ích, đáng làm",
+   "synonyms": "fulfilling <i>(adj. thỏa mãn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rewarding</i> (adjective) = bổ ích, đáng làm. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "Then the job is more <b>rewarding</b> and stimulating.",
+    "vi": "Khi đó công việc <b>bổ ích</b> hơn."
+   }
+  },
+  {
+   "word": "stimulating",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈstɪmjuleɪtɪŋ/",
+   "def_en": "Encouraging new ideas or new thinking.",
+   "def_vi": "Khơi gợi ý tưởng mới.",
+   "gloss_vi": "kích thích tư duy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "mundane <i>(adj. tẻ nhạt)</i>",
+   "grammar_vi": "<i>Stimulating</i> (adjective) = kích thích tư duy. <b>Grammar</b>: <i>stimulate</i> (v.).",
+   "example": {
+    "en": "Then the job is more rewarding and <b>stimulating</b>.",
+    "vi": "Công việc bổ ích và <b>kích thích tư duy</b> hơn."
+   }
+  },
+  {
+   "word": "workload",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈwɜːkləʊd/",
+   "def_en": "The amount of work you have to do.",
+   "def_vi": "Lượng việc phải làm.",
+   "gloss_vi": "khối lượng công việc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Workload</i> (noun) = khối lượng công việc. <b>Collocations / chunks</b>: <i>heavy / light workload</i>.",
+   "example": {
+    "en": "Sometimes I have a heavy <b>workload</b>.",
+    "vi": "Đôi khi <b>khối lượng công việc</b> nặng."
+   }
+  },
+  {
+   "word": "day shift",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdeɪ ʃɪft/",
+   "def_en": "A period of work during the day.",
+   "def_vi": "Ca làm ban ngày.",
+   "gloss_vi": "ca ngày",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "night shift <i>(n. ca đêm)</i>",
+   "grammar_vi": "<i>Day shift</i> (noun) = ca ngày. <b>Collocations / chunks</b>: <i>be on the day shift</i>.",
+   "example": {
+    "en": "I start work at my machine at seven o’clock when I’m on the <b>day shift</b>.",
+    "vi": "Tôi bắt đầu lúc bảy giờ khi làm <b>ca ngày</b>."
+   }
+  },
+  {
+   "word": "mechanical",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/məˈkænɪkl/",
+   "def_en": "Done without having to think.",
+   "def_vi": "Làm không cần suy nghĩ.",
+   "gloss_vi": "máy móc",
+   "synonyms": "automatic <i>(adj. tự động)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mechanical</i> (adjective) = máy móc. <b>Common mistakes</b>: cũng = thuộc máy móc.",
+   "example": {
+    "en": "The job’s <b>mechanical</b> and repetitive.",
+    "vi": "Công việc <b>máy móc</b> và lặp đi lặp lại."
+   }
+  },
+  {
+   "word": "repetitive",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/rɪˈpetətɪv/",
+   "def_en": "Repeating the same thing every day.",
+   "def_vi": "Lặp lại cùng việc mỗi ngày.",
+   "gloss_vi": "lặp đi lặp lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "varied <i>(adj. đa dạng)</i>",
+   "grammar_vi": "<i>Repetitive</i> (adjective) = lặp đi lặp lại. <b>Grammar</b>: <i>repetition</i> (n.).",
+   "example": {
+    "en": "The job’s mechanical and <b>repetitive</b>.",
+    "vi": "Công việc máy móc và <b>lặp đi lặp lại</b>."
+   }
+  },
+  {
+   "word": "knock off",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌnɒk ˈɒf/",
+   "def_en": "To finish work (informal).",
+   "def_vi": "Tan làm (thân mật).",
+   "gloss_vi": "tan ca",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Knock off</i> (verb) = tan ca. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "All I ever think about is <b>knocking off</b> at three o’clock.",
+    "vi": "Tôi chỉ nghĩ đến lúc <b>tan ca</b> lúc ba giờ."
+   }
+  },
+  {
+   "word": "night shift",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈnaɪt ʃɪft/",
+   "def_en": "A period of work during the night.",
+   "def_vi": "Ca làm ban đêm.",
+   "gloss_vi": "ca đêm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "day shift <i>(n. ca ngày)</i>",
+   "grammar_vi": "<i>Night shift</i> (noun) = ca đêm. <b>Collocations / chunks</b>: cụm danh từ cố định <i>night shift</i>.",
+   "example": {
+    "en": "The shift I hate most is the <b>night shift</b>.",
+    "vi": "Ca tôi ghét nhất là <b>ca đêm</b>."
+   }
+  },
+  {
+   "word": "monotonous",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/məˈnɒtənəs/",
+   "def_en": "Boring because it never changes.",
+   "def_vi": "Chán vì không bao giờ thay đổi.",
+   "gloss_vi": "đơn điệu",
+   "synonyms": "tedious <i>(adj. tẻ nhạt)</i>",
+   "antonyms": "varied <i>(adj. đa dạng)</i>",
+   "grammar_vi": "<i>Monotonous</i> (adjective) = đơn điệu. <b>Grammar</b>: <i>monotony</i> (n.).",
+   "example": {
+    "en": "It’s a bit <b>monotonous</b>.",
+    "vi": "Công việc hơi <b>đơn điệu</b>."
+   }
+  },
+  {
+   "word": "satisfying",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsætɪsfaɪɪŋ/",
+   "def_en": "Making you feel pleased by providing what you need.",
+   "def_vi": "Làm bạn hài lòng.",
+   "gloss_vi": "thỏa mãn",
+   "synonyms": "fulfilling <i>(adj. thỏa mãn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Satisfying</i> (adjective) = thỏa mãn. <b>Grammar</b>: <i>satisfy</i> (v.).",
+   "example": {
+    "en": "It’s not a <b>satisfying</b> job.",
+    "vi": "Đây không phải công việc <b>thỏa mãn</b>."
+   }
+  },
+  {
+   "word": "glamorous",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɡlæmərəs/",
+   "def_en": "Very exciting and admired by everyone.",
+   "def_vi": "Rất hấp dẫn, ai cũng ngưỡng mộ.",
+   "gloss_vi": "hào nhoáng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Glamorous</i> (adjective) = hào nhoáng. <b>Grammar</b>: <i>glamour</i> (n.).",
+   "example": {
+    "en": "I have a pretty <b>glamorous</b> job. I’m a pilot.",
+    "vi": "Tôi có công việc khá <b>hào nhoáng</b>. Tôi là phi công."
+   }
+  },
+  {
+   "word": "anti-social",
+   "sense": "hours",
+   "pos": "adjective",
+   "ipa": "/ˌænti ˈsəʊʃl/",
+   "def_en": "(Of hours) not enabling you to have a normal social life.",
+   "def_vi": "(Giờ làm) không cho phép đời sống xã hội bình thường.",
+   "gloss_vi": "không thuận lợi cho đời sống",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Anti-social</i> (adjective) = không thuận lợi cho đời sống. <b>Grammar</b>: <i>anti-social hours</i>.",
+   "example": {
+    "en": "The hours are irregular and <b>anti-social</b>.",
+    "vi": "Giờ làm thất thường và <b>bất tiện</b>."
+   }
+  },
+  {
+   "word": "stuck behind a desk",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌstʌk bɪˌhaɪnd ə ˈdesk/",
+   "def_en": "Sitting at a desk all day (informal).",
+   "def_vi": "Ngồi bàn giấy cả ngày (thân mật).",
+   "gloss_vi": "ngồi bàn giấy cả ngày",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stuck behind a desk</i> (adjective) = ngồi bàn giấy cả ngày. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "I’m not <b>stuck behind a desk</b>.",
+    "vi": "Tôi không phải <b>ngồi bàn giấy cả ngày</b>."
+   }
+  },
+  {
+   "word": "mind-numbing",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈmaɪnd nʌmɪŋ/",
+   "def_en": "Extremely boring.",
+   "def_vi": "Cực kỳ chán.",
+   "gloss_vi": "chán chết",
+   "synonyms": "tedious <i>(adj. tẻ nhạt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mind-numbing</i> (adjective) = chán chết. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "Long-haul flights can be a bit <b>mind-numbing</b>.",
+    "vi": "Chuyến bay dài có thể hơi <b>chán chết</b>."
+   }
+  },
+  {
+   "word": "tight schedule",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌtaɪt ˈʃedjuːl/",
+   "def_en": "A very strict or severely limited timetable.",
+   "def_vi": "Lịch trình rất gấp.",
+   "gloss_vi": "lịch trình dày đặc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tight schedule</i> (noun) = lịch trình dày đặc. <b>Collocations / chunks</b>: <i>work to a tight schedule</i>.",
+   "example": {
+    "en": "We work to very <b>tight schedules</b>.",
+    "vi": "Chúng tôi làm việc theo <b>lịch trình dày đặc</b>."
+   }
+  },
+  {
+   "word": "stuck in a rut",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌstʌk ɪn ə ˈrʌt/",
+   "def_en": "Trapped in a job you can’t escape from.",
+   "def_vi": "Mắc kẹt trong công việc không thoát được.",
+   "gloss_vi": "sa lầy, giậm chân tại chỗ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stuck in a rut</i> (adjective) = sa lầy, giậm chân tại chỗ. <b>Grammar</b>: <i>rut</i> = vết lún.",
+   "example": {
+    "en": "I feel sorry for people who are <b>stuck in a rut</b>.",
+    "vi": "Tôi thương những người <b>giậm chân tại chỗ</b>."
+   }
+  },
+  {
+   "word": "dead-end",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌded ˈend/",
+   "def_en": "With no prospects of promotion.",
+   "def_vi": "Không có triển vọng thăng tiến.",
+   "gloss_vi": "không có tương lai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dead-end</i> (adjective) = không có tương lai. <b>Collocations / chunks</b>: <i>a dead-end job</i>.",
+   "example": {
+    "en": "people who are in <b>dead-end</b> jobs",
+    "vi": "Những người làm công việc <b>không có tương lai</b>."
+   }
+  },
+  {
+   "word": "technician",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tekˈnɪʃn/",
+   "def_en": "A person whose job involves practical work with scientific or electrical equipment.",
+   "def_vi": "Người làm việc thực hành với thiết bị khoa học, điện.",
+   "gloss_vi": "kỹ thuật viên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Technician</i> (noun) = kỹ thuật viên. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "I started off as a <b>technician</b>.",
+    "vi": "Tôi khởi đầu là <b>kỹ thuật viên</b>."
+   }
+  },
+  {
+   "word": "go in with",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡəʊ ˈɪn wɪð/",
+   "def_en": "To form a business partnership with someone.",
+   "def_vi": "Hợp tác kinh doanh với ai.",
+   "gloss_vi": "hùn vốn với",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go in with</i> (verb) = hùn vốn với. <b>Grammar</b>: <i>go in with sb</i>.",
+   "example": {
+    "en": "I <b>went in with</b> a friend and we formed our own software company.",
+    "vi": "Tôi <b>hùn vốn với</b> một người bạn lập công ty."
+   }
+  },
+  {
+   "word": "start-up",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈstɑːt ʌp/",
+   "def_en": "A small business that has just started.",
+   "def_vi": "Doanh nghiệp nhỏ mới thành lập.",
+   "gloss_vi": "công ty khởi nghiệp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Start-up</i> (noun) = công ty khởi nghiệp. <b>Grammar</b>: danh từ có gạch nối.",
+   "example": {
+    "en": "We formed our own software company as a <b>start-up</b> in 2009.",
+    "vi": "Chúng tôi lập công ty dạng <b>khởi nghiệp</b> năm 2009."
+   }
+  },
+  {
+   "word": "self-employed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌself ɪmˈplɔɪd/",
+   "def_en": "Working for yourself, not for an employer.",
+   "def_vi": "Tự làm chủ.",
+   "gloss_vi": "tự làm chủ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "employed <i>(adj. làm thuê)</i>",
+   "grammar_vi": "<i>Self-employed</i> (adjective) = tự làm chủ. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "So now I’m <b>self-employed</b>.",
+    "vi": "Giờ tôi <b>tự làm chủ</b>."
+   }
+  },
+  {
+   "word": "freelance",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈfriːlɑːns/",
+   "def_en": "Working for several companies as and when they need work done.",
+   "def_vi": "Làm cho nhiều công ty khi họ cần.",
+   "gloss_vi": "tự do, làm tự do",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Freelance</i> (adjective) = tự do, làm tự do. <b>Grammar</b>: cũng <i>work freelance</i>; <i>freelancer</i> (n.).",
+   "example": {
+    "en": "My husband is <b>freelance</b>.",
+    "vi": "Chồng tôi làm <b>tự do</b>."
+   }
+  },
+  {
+   "word": "programmer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈprəʊɡræmə(r)/",
+   "def_en": "Someone who writes computer programs.",
+   "def_vi": "Người viết chương trình máy tính.",
+   "gloss_vi": "lập trình viên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Programmer</i> (noun) = lập trình viên. <b>Grammar</b>: <i>program</i> (v.).",
+   "example": {
+    "en": "He’s a computer <b>programmer</b>.",
+    "vi": "Anh ấy là <b>lập trình viên</b> máy tính."
+   }
+  }
+ ]
+}
