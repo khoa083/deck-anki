@@ -1,0 +1,248 @@
+{
+ "book": "gva",
+ "unit": 6,
+ "title_vi": "Từ hạn định và từ chỉ lượng",
+ "theory_html": "<p><b>2.1. No, none, not a, not any</b><br><i>2.1. No, none, not a, not any</i></p> <p><b>no</b> (= not any), <b>none of</b> (= not any of); <b>neither of</b> for two; at the start of a clause use <b>no / none of</b>, not <b>not a / not any</b>; <b>none</b> without a noun when clear.</p><p><i><b>no</b>, <b>none of</b>; hai người/vật dùng <b>neither of</b>; đầu mệnh đề không dùng <b>not any</b>.</i></p> <p><b>2.2. Much, many, a lot of, lots of</b><br><i>2.2. Much, many, a lot of</i></p> <p><b>much (of)</b> + uncountable, <b>many (of)</b> + plural, mainly in negatives and questions (formal positives too); <b>a lot (of) / lots (of)</b> in positives; <b>much / many</b> without a noun; <b>much of / many of</b> = a large part / number of; <b>many</b> with time expressions and ‘number + of’.</p><p><i><b>much/many</b> ở câu phủ định, nghi vấn; <b>a lot of</b> câu khẳng định; <b>many hours, many hundreds of</b>.</i></p> <p><b>2.3. All, both, whole</b><br><i>2.3. All, both, whole</i></p> <p><b>all</b> after <b>be</b> / first auxiliary, before main verb, after the noun; <b>both (of)</b> positive / <b>neither (of)</b> negative for two; <b>the whole</b> before singular countable nouns; <b>all</b> before <b>day, week, night</b>; <b>all the / the whole</b> + <b>way, time</b>.</p><p><i>Vị trí <b>all</b>; <b>both/neither</b> cho hai; <b>the whole</b> + danh từ số ít; <b>all day</b>.</i></p> <p><b>2.4. Every, each</b><br><i>2.4. Every, each</i></p> <p><b>each (of)</b> for two or more, <b>every</b> for three or more; <b>every</b> with <b>almost, nearly, practically, virtually</b> and regular intervals (<b>every other, every few weeks</b>); <b>each</b> for both in a pair, as a pronoun.</p><p><i><b>every</b> (từ ba trở lên, khoảng đều đặn); <b>each</b> (cặp, đại từ).</i></p> <p><b>2.5. (A / the) few, little; less, fewer (than)</b><br><i>2.5. Few, little, less, fewer</i></p> <p><b>few / little</b> formal (= not many / not much); <b>a few / a little</b> = enough or more than expected; <b>few / little</b> = not enough; <b>less</b> + uncountable, <b>fewer</b> + plural; <b>fewer than</b> (not <b>less than</b>) with plural nouns in exams; <b>less than</b> for time, distance, money.</p><p><i><b>a few</b> (đủ), <b>few</b> (không đủ); <b>fewer</b> + số nhiều; <b>less than</b> cho thời gian, khoảng cách, tiền.</i></p> <p><b>2.6. Much, many, both, all, each, none, few, little + (of)</b><br><i>2.6. … + of</i></p> <p><b>of</b> needed before a pronoun, a determiner, a possessive; informally <b>of</b> can be left out after <b>both / all</b> before <b>the, these, my…</b> but not before <b>them, you, us</b>.</p><p><i>Cần <b>of</b> trước đại từ, từ hạn định, sở hữu.</i></p>",
+ "items": [
+  {
+   "word": "none of",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈnʌn əv/",
+   "def_en": "Not any of.",
+   "def_vi": "Không ai/cái nào trong số.",
+   "gloss_vi": "không ai trong số",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "all of <i>(st. tất cả)</i>",
+   "grammar_vi": "<i>None of</i> (structure) = không ai trong số. <b>Grammar</b>: đầu mệnh đề dùng <i>none of</i> (không <i>not any of</i>); hai người dùng <i>neither of</i>.",
+   "example": {
+    "en": "<b>None of</b> them like the thought of running long distances.",
+    "vi": "<b>Không ai trong số</b> họ thích chạy đường dài."
+   }
+  },
+  {
+   "word": "neither of",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈnaɪðər əv/",
+   "def_en": "Not either of two people or things.",
+   "def_vi": "Không ai trong hai.",
+   "gloss_vi": "không ai trong hai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "both of <i>(st. cả hai)</i>",
+   "grammar_vi": "<i>Neither of</i> (structure) = không ai trong hai. <b>Grammar</b>: không <i>Both of us didn't do…</i>.",
+   "example": {
+    "en": "<b>Neither of</b> us did any exercise.",
+    "vi": "<b>Không ai trong hai chúng tôi</b> tập thể dục cả."
+   }
+  },
+  {
+   "word": "much of",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈmʌtʃ əv/",
+   "def_en": "A large part of.",
+   "def_vi": "Phần lớn.",
+   "gloss_vi": "phần lớn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Much of</i> (structure) = phần lớn. <b>Grammar</b>: <i>much</i> + không đếm được, chủ yếu câu phủ định/nghi vấn.",
+   "example": {
+    "en": "I used to spend <b>much of</b> my free time sitting around.",
+    "vi": "Tôi từng dành <b>phần lớn</b> thời gian rảnh ngồi một chỗ."
+   }
+  },
+  {
+   "word": "many",
+   "sense": "",
+   "pos": "determiner",
+   "ipa": "/ˈmeni/",
+   "def_en": "A large number of (used with time expressions and ‘number + of’).",
+   "def_vi": "Nhiều (dùng với biểu thức thời gian, ‘số + of’).",
+   "gloss_vi": "nhiều",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Many</i> (determiner) = nhiều. <b>Grammar</b>: <i>many hundreds of</i>, <i>many years</i>; câu khẳng định thông thường dùng <i>a lot of</i>.",
+   "example": {
+    "en": "I spend <b>many</b> hours training.",
+    "vi": "Tôi dành <b>nhiều</b> giờ tập luyện."
+   }
+  },
+  {
+   "word": "a lot of",
+   "sense": "",
+   "pos": "determiner",
+   "ipa": "/ə ˈlɒt əv/",
+   "def_en": "Much / many (in positive sentences).",
+   "def_vi": "Nhiều (câu khẳng định).",
+   "gloss_vi": "nhiều",
+   "synonyms": "lots of <i>(det. nhiều)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A lot of</i> (determiner) = nhiều. <b>Grammar</b>: văn trang trọng ưu tiên <i>much/many</i>.",
+   "example": {
+    "en": "I get <b>a lot of</b> satisfaction out of it.",
+    "vi": "Tôi có <b>nhiều</b> sự hài lòng từ việc đó."
+   }
+  },
+  {
+   "word": "all",
+   "sense": "",
+   "pos": "determiner",
+   "ipa": "/ɔːl/",
+   "def_en": "Every one of a group; placed after be or the first auxiliary, or before the main verb.",
+   "def_vi": "Tất cả; đứng sau be/trợ động từ đầu, hoặc trước động từ chính.",
+   "gloss_vi": "tất cả",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "none <i>(pron. không ai)</i>",
+   "grammar_vi": "<i>All</i> (determiner) = tất cả. <b>Grammar</b>: <i>We all went</i>; <i>My friends all think…</i>; <i>all day/week</i> (không <i>the whole day</i> thường).",
+   "example": {
+    "en": "Next spring we're <b>all</b> going to Madrid.",
+    "vi": "Mùa xuân tới <b>tất cả chúng tôi</b> sẽ đi Madrid."
+   }
+  },
+  {
+   "word": "both",
+   "sense": "",
+   "pos": "determiner",
+   "ipa": "/bəʊθ/",
+   "def_en": "The two (in positive sentences).",
+   "def_vi": "Cả hai (câu khẳng định).",
+   "gloss_vi": "cả hai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "neither <i>(det. không ai trong hai)</i>",
+   "grammar_vi": "<i>Both</i> (determiner) = cả hai. <b>Grammar</b>: câu phủ định dùng <i>neither</i>.",
+   "example": {
+    "en": "We certainly <b>both</b> got a lot fitter.",
+    "vi": "<b>Cả hai</b> chúng tôi đều khỏe hơn nhiều."
+   }
+  },
+  {
+   "word": "the whole",
+   "sense": "",
+   "pos": "determiner",
+   "ipa": "/ðə ˈhəʊl/",
+   "def_en": "All of (before singular countable nouns).",
+   "def_vi": "Toàn bộ (trước danh từ đếm được số ít).",
+   "gloss_vi": "toàn bộ",
+   "synonyms": "all <i>(det. tất cả)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The whole</i> (determiner) = toàn bộ. <b>Grammar</b>: <i>all the way / the whole way</i>; <i>whole weeks</i>.",
+   "example": {
+    "en": "I thought <b>the whole</b> event was brilliant",
+    "vi": "Tôi thấy <b>toàn bộ</b> sự kiện thật tuyệt."
+   }
+  },
+  {
+   "word": "every",
+   "sense": "",
+   "pos": "determiner",
+   "ipa": "/ˈevri/",
+   "def_en": "Each of three or more; used with nearly, virtually and for regular intervals.",
+   "def_vi": "Mỗi (ba trở lên); dùng với nearly, khoảng đều.",
+   "gloss_vi": "mỗi, mọi",
+   "synonyms": "each <i>(det. mỗi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Every</i> (determiner) = mỗi, mọi. <b>Grammar</b>: <i>every other kilometre, every few weeks, every couple of days</i>.",
+   "example": {
+    "en": "Now I run nearly <b>every</b> day.",
+    "vi": "Giờ tôi chạy <b>gần như mỗi</b> ngày."
+   }
+  },
+  {
+   "word": "each",
+   "sense": "",
+   "pos": "determiner",
+   "ipa": "/iːtʃ/",
+   "def_en": "Each of two or more; used for both in a pair and as a pronoun.",
+   "def_vi": "Mỗi (hai trở lên); dùng cho cặp và làm đại từ.",
+   "gloss_vi": "mỗi",
+   "synonyms": "every <i>(det. mỗi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Each</i> (determiner) = mỗi. <b>Grammar</b>: đại từ: <i>We were each given a medal.</i>.",
+   "example": {
+    "en": "I had to wear a bandage on <b>each</b> knee.",
+    "vi": "Tôi phải băng <b>mỗi bên</b> đầu gối."
+   }
+  },
+  {
+   "word": "a few",
+   "sense": "",
+   "pos": "determiner",
+   "ipa": "/ə ˈfjuː/",
+   "def_en": "A small number, enough or more than expected.",
+   "def_vi": "Một ít, đủ hoặc hơn mong đợi.",
+   "gloss_vi": "một vài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A few</i> (determiner) = một vài. <b>Grammar</b>: khác <i>few</i> (= quá ít).",
+   "example": {
+    "en": "He's won <b>a few</b> medals.",
+    "vi": "Anh ấy đã giành <b>vài</b> huy chương."
+   }
+  },
+  {
+   "word": "few",
+   "sense": "",
+   "pos": "determiner",
+   "ipa": "/fjuː/",
+   "def_en": "Not many, not enough (formal).",
+   "def_vi": "Không nhiều, không đủ (trang trọng).",
+   "gloss_vi": "rất ít",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "many <i>(det. nhiều)</i>",
+   "grammar_vi": "<i>Few</i> (determiner) = rất ít. <b>Grammar</b>: thân mật dùng <i>not many</i>.",
+   "example": {
+    "en": "Before I joined the club I had very <b>few</b> friends who lived nearby.",
+    "vi": "Trước khi vào câu lạc bộ tôi có <b>rất ít</b> bạn ở gần."
+   }
+  },
+  {
+   "word": "little",
+   "sense": "",
+   "pos": "determiner",
+   "ipa": "/ˈlɪtl/",
+   "def_en": "Not much, not enough (formal).",
+   "def_vi": "Không nhiều, không đủ (trang trọng).",
+   "gloss_vi": "rất ít",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "much <i>(det. nhiều)</i>",
+   "grammar_vi": "<i>Little</i> (determiner) = rất ít. <b>Grammar</b>: <i>a little</i> = một chút (đủ).",
+   "example": {
+    "en": "There is <b>little</b> evidence that running causes major problems.",
+    "vi": "Có <b>rất ít</b> bằng chứng chạy bộ gây vấn đề lớn."
+   }
+  },
+  {
+   "word": "fewer",
+   "sense": "",
+   "pos": "determiner",
+   "ipa": "/ˈfjuːə(r)/",
+   "def_en": "A smaller number of (with plural nouns).",
+   "def_vi": "Ít hơn (với danh từ số nhiều).",
+   "gloss_vi": "ít hơn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "more <i>(det. nhiều hơn)</i>",
+   "grammar_vi": "<i>Fewer</i> (determiner) = ít hơn. <b>Grammar</b>: <i>fewer than 20 competitors</i> (không <i>less than</i> trong bài thi).",
+   "example": {
+    "en": "I seem to have <b>fewer</b> injuries now than when I was younger.",
+    "vi": "Giờ tôi bị <b>ít</b> chấn thương <b>hơn</b> hồi trẻ."
+   }
+  },
+  {
+   "word": "less",
+   "sense": "",
+   "pos": "determiner",
+   "ipa": "/les/",
+   "def_en": "A smaller amount of (with uncountable nouns); less than for time, distance, money.",
+   "def_vi": "Ít hơn (với danh từ không đếm được); less than cho thời gian, tiền.",
+   "gloss_vi": "ít hơn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "more <i>(det. nhiều hơn)</i>",
+   "grammar_vi": "<i>Less</i> (determiner) = ít hơn. <b>Grammar</b>: <i>in less than six hours</i> (không <i>fewer than six hours</i>).",
+   "example": {
+    "en": "You should eat <b>less</b> protein as you prepare for a race.",
+    "vi": "Bạn nên ăn <b>ít</b> đạm <b>hơn</b> khi chuẩn bị thi."
+   }
+  }
+ ]
+}
