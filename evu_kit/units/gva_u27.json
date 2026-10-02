@@ -1,0 +1,606 @@
+{
+ "book": "gva",
+ "unit": 27,
+ "title_vi": "Lịch sử cá nhân",
+ "theory_html": "<p><b>V1. information (uncountable)</b><br><i>V1. information (không đếm được)</i></p> <p><b>Information</b> is an uncountable noun and cannot be made plural: <b>I'd like some information about my family.</b> (not <b>some informations</b>).</p><p><i><b>information</b> không đếm được, không có số nhiều.</i></p> <p><b>V2. The language of secrets</b><br><i>V2. Ngôn ngữ về bí mật</i></p> <p>We often talk about secrets as something unseen or hidden: <b>skeletons in the cupboard, expose long-buried secrets, keep sb in the dark, dig up dirt on sb, sweep sth under the carpet, cover your tracks, muddy the waters</b>.</p><p><i>Bí mật được nói như thứ bị che giấu, chôn vùi.</i></p>",
+ "items": [
+  {
+   "word": "ancestor",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈænsestə(r)/",
+   "def_en": "A person in your family who lived a long time before you.",
+   "def_vi": "Tổ tiên.",
+   "gloss_vi": "tổ tiên",
+   "synonyms": "forebear <i>(n. tổ tiên)</i>",
+   "antonyms": "descendant <i>(n. con cháu)</i>",
+   "grammar_vi": "<i>Ancestor</i> (noun) = tổ tiên. <b>Word family</b>: ancestry (n.), ancestral (adj.).",
+   "example": {
+    "en": "With each additional clue, your <b>ancestors</b> will become more than just names or dates",
+    "vi": "Với mỗi manh mối mới, <b>tổ tiên</b> bạn sẽ không chỉ là những cái tên."
+   }
+  },
+  {
+   "word": "ancestry",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈænsestri/",
+   "def_en": "Your family origins; all your ancestors.",
+   "def_vi": "Dòng dõi, nguồn gốc tổ tiên.",
+   "gloss_vi": "dòng dõi",
+   "synonyms": "lineage <i>(n. dòng dõi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ancestry</i> (noun) = dòng dõi. <b>Grammar</b>: danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "Where could you find out more about your <b>ancestry</b>?",
+    "vi": "Bạn có thể tìm hiểu thêm về <b>dòng dõi</b> của mình ở đâu?"
+   }
+  },
+  {
+   "word": "official records",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˌfɪʃl ˈrekɔːdz/",
+   "def_en": "Documents kept by the government about births, marriages, etc.",
+   "def_vi": "Hồ sơ chính thức.",
+   "gloss_vi": "hồ sơ chính thức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Official records</i> (noun) = hồ sơ chính thức. <b>Collocations / chunks</b>: cụm danh từ cố định <i>official records</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "You can find out about your ancestors in <b>official records</b>.",
+    "vi": "Bạn có thể tìm hiểu về tổ tiên qua <b>hồ sơ chính thức</b>."
+   }
+  },
+  {
+   "word": "archive",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɑːkaɪv/",
+   "def_en": "A collection of historical records, or the place where they are kept.",
+   "def_vi": "Kho lưu trữ.",
+   "gloss_vi": "lưu trữ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Archive</i> (noun) = lưu trữ. <b>Collocations / chunks</b>: newspaper ~s.",
+   "ex_kit": true,
+   "example": {
+    "en": "Look in <b>local newspaper archives</b>.",
+    "vi": "Hãy tìm trong <b>kho lưu trữ báo địa phương</b>."
+   }
+  },
+  {
+   "word": "unlock",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ʌnˈlɒk/",
+   "def_en": "To discover the secrets of something.",
+   "def_vi": "Khám phá, giải mã (bí ẩn).",
+   "gloss_vi": "khám phá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Unlock</i> (verb) = khám phá. <b>Collocations / chunks</b>: ~ the mysteries of.",
+   "example": {
+    "en": "There is nothing more exciting than <b>unlocking</b> the mysteries of your own past.",
+    "vi": "Không gì thú vị hơn <b>khám phá</b> bí ẩn về quá khứ của chính mình."
+   }
+  },
+  {
+   "word": "genealogical",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌdʒiːniəˈlɒdʒɪkl/",
+   "def_en": "Related to the study of family history.",
+   "def_vi": "Thuộc phả hệ.",
+   "gloss_vi": "phả hệ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Genealogical</i> (adjective) = phả hệ. <b>Word family</b>: genealogy (n.).",
+   "example": {
+    "en": "more than just names or dates on a <b>genealogical</b> form",
+    "vi": "Không chỉ là tên hay ngày tháng trên một mẫu <b>phả hệ</b>."
+   }
+  },
+  {
+   "word": "genealogy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdʒiːniˈælədʒi/",
+   "def_en": "The study of the history of families.",
+   "def_vi": "Phả hệ học.",
+   "gloss_vi": "phả hệ học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Genealogy</i> (noun) = phả hệ học. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "In <b>genealogy</b> you always start from the present and work backwards.",
+    "vi": "Trong <b>phả hệ học</b>, bạn luôn bắt đầu từ hiện tại và lần ngược."
+   }
+  },
+  {
+   "word": "work backwards",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/wɜːk ˈbækwədz/",
+   "def_en": "To start at the end and go back step by step.",
+   "def_vi": "Lần ngược lại.",
+   "gloss_vi": "lần ngược",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Work backwards</i> (verb) = lần ngược. <b>Grammar</b>: động từ nhiều từ <i>work backwards</i>.",
+   "example": {
+    "en": "you always start from the present and <b>work backwards</b>",
+    "vi": "Bạn luôn bắt đầu từ hiện tại và <b>lần ngược về trước</b>."
+   }
+  },
+  {
+   "word": "conduct an investigation",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kənˌdʌkt ən ɪnˌvestɪˈɡeɪʃn/",
+   "def_en": "To carry out an investigation.",
+   "def_vi": "Tiến hành điều tra.",
+   "gloss_vi": "tiến hành điều tra",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Conduct an investigation</i> (verb) = tiến hành điều tra. <b>Collocations / chunks</b>: conduct + research / a survey.",
+   "example": {
+    "en": "as if you were a detective <b>conducting an investigation</b>",
+    "vi": "Như một thám tử <b>đang tiến hành điều tra</b>."
+   }
+  },
+  {
+   "word": "source",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/sɔːs/",
+   "def_en": "A person or document that provides information.",
+   "def_vi": "Nguồn tin.",
+   "gloss_vi": "nguồn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Source</i> (noun) = nguồn. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "looking for clues, interviewing <b>sources</b> and carefully documenting your facts",
+    "vi": "Tìm manh mối, phỏng vấn <b>nguồn tin</b> và ghi chép cẩn thận."
+   }
+  },
+  {
+   "word": "document",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈdɒkjument/",
+   "def_en": "To record the details of something.",
+   "def_vi": "Ghi chép, lập hồ sơ.",
+   "gloss_vi": "ghi chép",
+   "synonyms": "record <i>(v. ghi lại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Document</i> (verb) = ghi chép. <b>Grammar</b>: động từ.",
+   "example": {
+    "en": "interviewing sources and carefully <b>documenting</b> your facts",
+    "vi": "Phỏng vấn nguồn tin và <b>ghi chép</b> dữ kiện cẩn thận."
+   }
+  },
+  {
+   "word": "descent",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈsent/",
+   "def_en": "Your family origins; the line of ancestors you come from.",
+   "def_vi": "Dòng dõi, nguồn gốc.",
+   "gloss_vi": "dòng dõi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Descent</i> (noun) = dòng dõi. <b>Collocations / chunks</b>: line of ~.",
+   "example": {
+    "en": "you need to be able to prove that your line of <b>descent</b> is correct",
+    "vi": "Bạn cần chứng minh <b>dòng dõi</b> của mình là đúng."
+   }
+  },
+  {
+   "word": "descendant",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈsendənt/",
+   "def_en": "A person related to someone who lived long ago.",
+   "def_vi": "Con cháu, hậu duệ.",
+   "gloss_vi": "hậu duệ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "ancestor <i>(n. tổ tiên)</i>",
+   "grammar_vi": "<i>Descendant</i> (noun) = hậu duệ. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "Anyone can claim that they are a <b>descendant</b> of George Washington",
+    "vi": "Ai cũng có thể tự nhận là <b>hậu duệ</b> của George Washington."
+   }
+  },
+  {
+   "word": "verify",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈverɪfaɪ/",
+   "def_en": "To check that information is correct.",
+   "def_vi": "Xác minh.",
+   "gloss_vi": "xác minh",
+   "synonyms": "check <i>(v. kiểm tra)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Verify</i> (verb) = xác minh. <b>Word family</b>: verification (n.), verifiable (adj.).",
+   "example": {
+    "en": "<b>verify</b> your facts",
+    "vi": "<b>Xác minh</b> dữ kiện của bạn."
+   }
+  },
+  {
+   "word": "accumulate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈkjuːmjəleɪt/",
+   "def_en": "To collect a lot of something over a period of time.",
+   "def_vi": "Tích lũy.",
+   "gloss_vi": "tích lũy",
+   "synonyms": "gather <i>(v. thu thập)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Accumulate</i> (verb) = tích lũy. <b>Word family</b>: accumulation (n.).",
+   "ex_kit": true,
+   "example": {
+    "en": "You will <b>accumulate</b> a lot of data.",
+    "vi": "Bạn sẽ <b>tích lũy</b> rất nhiều dữ liệu."
+   }
+  },
+  {
+   "word": "accurate",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈækjərət/",
+   "def_en": "Correct and true in every detail.",
+   "def_vi": "Chính xác.",
+   "gloss_vi": "chính xác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "inaccurate <i>(adj. không chính xác)</i>",
+   "grammar_vi": "<i>Accurate</i> (adjective) = chính xác. <b>Word family</b>: accuracy (n.).",
+   "example": {
+    "en": "you must weigh up whether they are <b>accurate</b> in any objective sense",
+    "vi": "Bạn phải xem chúng có <b>chính xác</b> theo nghĩa khách quan không."
+   }
+  },
+  {
+   "word": "inaccurate",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪnˈækjərət/",
+   "def_en": "Not correct or exact.",
+   "def_vi": "Không chính xác.",
+   "gloss_vi": "sai lệch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "accurate <i>(adj. chính xác)</i>",
+   "grammar_vi": "<i>Inaccurate</i> (adjective) = sai lệch. <b>Collocations / chunks</b>: wildly ~.",
+   "example": {
+    "en": "Historians have accused a new biographical film about the king's personal life of being wildly <b>inaccurate</b>.",
+    "vi": "Các nhà sử học cáo buộc bộ phim tiểu sử về nhà vua <b>sai lệch</b> nghiêm trọng."
+   }
+  },
+  {
+   "word": "embellishment",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪmˈbelɪʃmənt/",
+   "def_en": "An added detail that makes a story more interesting but less true.",
+   "def_vi": "Sự thêm thắt.",
+   "gloss_vi": "thêm thắt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Embellishment</i> (noun) = thêm thắt. <b>Word family</b>: embellish (v.).",
+   "example": {
+    "en": "Every time my father tells a story he adds some <b>embellishments</b> to make them funnier or more dramatic.",
+    "vi": "Mỗi lần kể, bố tôi lại <b>thêm thắt</b> cho vui hoặc kịch tính hơn."
+   }
+  },
+  {
+   "word": "reminisce",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌremɪˈnɪs/",
+   "def_en": "To enjoy talking or thinking about memories.",
+   "def_vi": "Hồi tưởng.",
+   "gloss_vi": "hồi tưởng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reminisce</i> (verb) = hồi tưởng. <b>Word family</b>: reminiscence (n.), reminiscent (adj.).",
+   "ex_kit": true,
+   "example": {
+    "en": "Older relatives love to <b>reminisce</b> about the past.",
+    "vi": "Người lớn tuổi thích <b>hồi tưởng</b> về quá khứ."
+   }
+  },
+  {
+   "word": "reminiscent of",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌremɪˈnɪsnt əv/",
+   "def_en": "Making you think of something similar.",
+   "def_vi": "Gợi nhớ đến.",
+   "gloss_vi": "gợi nhớ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reminiscent of</i> (adjective) = gợi nhớ. <b>Grammar</b>: + danh từ.",
+   "example": {
+    "en": "There's an animal living in the woods that makes a sound strangely <b>reminiscent of</b> a crying baby.",
+    "vi": "Có con vật trong rừng phát ra tiếng <b>giống</b> tiếng em bé khóc."
+   }
+  },
+  {
+   "word": "draw the line at",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/drɔː ðə ˈlaɪn ət/",
+   "def_en": "To set a limit for something you are willing to do.",
+   "def_vi": "Đặt giới hạn, không chịu làm.",
+   "gloss_vi": "dừng ở mức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Draw the line at</i> (verb) = dừng ở mức. <b>Grammar</b>: + V-ing.",
+   "example": {
+    "en": "Researching my family tree is just a hobby and I <b>draw the line at</b> spending any money on it.",
+    "vi": "Tìm phả hệ chỉ là sở thích và tôi <b>không chịu</b> tiêu tiền vào nó."
+   }
+  },
+  {
+   "word": "skeletons in the cupboard",
+   "sense": "",
+   "pos": "idiom",
+   "ipa": "/ˈskelɪtnz ɪn ðə ˈkʌbəd/",
+   "def_en": "Shocking personal secrets from the past.",
+   "def_vi": "Bí mật đáng xấu hổ trong quá khứ.",
+   "gloss_vi": "bí mật gia đình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Skeletons in the cupboard</i> (idiom) = bí mật gia đình. <b>Grammar</b>: idiom nhiều từ <i>skeletons in the cupboard</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Every family has <b>skeletons in the cupboard</b>.",
+    "vi": "Gia đình nào cũng có <b>bí mật đáng xấu hổ</b>."
+   }
+  },
+  {
+   "word": "expose long-buried secrets",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪkˈspəʊz ˌlɒŋ ˈberid ˈsiːkrəts/",
+   "def_en": "To make public information that was unknown for many years.",
+   "def_vi": "Phơi bày bí mật bị chôn giấu lâu năm.",
+   "gloss_vi": "phơi bày bí mật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Expose long-buried secrets</i> (verb) = phơi bày bí mật. <b>Grammar</b>: động từ nhiều từ <i>expose long-buried secrets</i>.",
+   "example": {
+    "en": "A recently published history of the local area <b>exposes long-buried secrets</b> of the family",
+    "vi": "Cuốn sử địa phương mới <b>phơi bày bí mật bị chôn giấu lâu năm</b> của gia đình."
+   }
+  },
+  {
+   "word": "keep sb in the dark",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kiːp ... ɪn ðə ˈdɑːk/",
+   "def_en": "To not share information with people who are interested.",
+   "def_vi": "Giấu ai thông tin.",
+   "gloss_vi": "giấu kín",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Keep sb in the dark</i> (verb) = giấu kín. <b>Grammar</b>: động từ nhiều từ <i>keep sb in the dark</i>.",
+   "example": {
+    "en": "It's not fair to <b>keep residents in the dark</b> about development plans for the local area.",
+    "vi": "Không công bằng khi <b>giấu</b> cư dân về kế hoạch phát triển."
+   }
+  },
+  {
+   "word": "dig up dirt on",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪɡ ʌp ˈdɜːt ɒn/",
+   "def_en": "To investigate to find unpleasant or damaging information about someone.",
+   "def_vi": "Bới móc chuyện xấu.",
+   "gloss_vi": "bới móc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dig up dirt on</i> (verb) = bới móc. <b>Grammar</b>: động từ nhiều từ <i>dig up dirt on</i>.",
+   "example": {
+    "en": "Journalists shouldn't spend their time <b>digging up dirt on</b> celebrities.",
+    "vi": "Nhà báo không nên mất thời gian <b>bới móc chuyện xấu</b> của người nổi tiếng."
+   }
+  },
+  {
+   "word": "sweep sth under the carpet",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/swiːp ... ˌʌndə ðə ˈkɑːpɪt/",
+   "def_en": "To ignore or avoid discussion of an issue.",
+   "def_vi": "Lờ đi, ém nhẹm.",
+   "gloss_vi": "ém nhẹm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sweep sth under the carpet</i> (verb) = ém nhẹm. <b>Grammar</b>: động từ nhiều từ <i>sweep sth under the carpet</i>.",
+   "example": {
+    "en": "The government seem to think that they can just <b>sweep</b> recent statistics on inner-city crime <b>under the carpet</b>.",
+    "vi": "Chính phủ nghĩ có thể <b>ém nhẹm</b> số liệu tội phạm."
+   }
+  },
+  {
+   "word": "cover your tracks",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkʌvə jɔː ˈtræks/",
+   "def_en": "To make evidence more difficult or impossible to find.",
+   "def_vi": "Xóa dấu vết.",
+   "gloss_vi": "xóa dấu vết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cover your tracks</i> (verb) = xóa dấu vết. <b>Grammar</b>: động từ nhiều từ <i>cover your tracks</i>.",
+   "example": {
+    "en": "Although he had tried hard to <b>cover his tracks</b>, all investigators had to do was follow the money.",
+    "vi": "Dù hắn cố <b>xóa dấu vết</b>, điều tra viên chỉ cần lần theo dòng tiền."
+   }
+  },
+  {
+   "word": "muddy the waters",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌmʌdi ðə ˈwɔːtəz/",
+   "def_en": "To confuse an issue under discussion.",
+   "def_vi": "Làm rối vấn đề.",
+   "gloss_vi": "đánh lạc hướng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Muddy the waters</i> (verb) = đánh lạc hướng. <b>Grammar</b>: động từ nhiều từ <i>muddy the waters</i>.",
+   "example": {
+    "en": "The councillor tried to <b>muddy the waters</b> over the scrapped housing development",
+    "vi": "Ủy viên hội đồng cố <b>làm rối vấn đề</b> khi nêu chuyện hành vi chống đối xã hội."
+   }
+  },
+  {
+   "word": "autobiography",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɔːtəbaɪˈɒɡrəfi/",
+   "def_en": "A book someone writes about their own life.",
+   "def_vi": "Tự truyện.",
+   "gloss_vi": "tự truyện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Autobiography</i> (noun) = tự truyện. <b>Note</b>: khác <i>biography</i> (tiểu sử do người khác viết).",
+   "example": {
+    "en": "<b>Autobiography</b> is a curiously naked business.",
+    "vi": "Viết <b>tự truyện</b> là việc phơi bày đến lạ lùng."
+   }
+  },
+  {
+   "word": "confront",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kənˈfrʌnt/",
+   "def_en": "To deal with a difficult situation or feeling.",
+   "def_vi": "Đối mặt.",
+   "gloss_vi": "đối mặt",
+   "synonyms": "face <i>(v. đối mặt)</i>",
+   "antonyms": "avoid <i>(v. né tránh)</i>",
+   "grammar_vi": "<i>Confront</i> (verb) = đối mặt. <b>Grammar</b>: động từ.",
+   "example": {
+    "en": "You have to <b>confront</b> your guilt and fears",
+    "vi": "Bạn phải <b>đối mặt</b> với cảm giác tội lỗi và nỗi sợ."
+   }
+  },
+  {
+   "word": "weigh up",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/weɪ ˈʌp/",
+   "def_en": "To consider something carefully.",
+   "def_vi": "Cân nhắc.",
+   "gloss_vi": "cân nhắc",
+   "synonyms": "consider <i>(v. xem xét)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Weigh up</i> (phr v) = cân nhắc. <b>Grammar</b>: phr v nhiều từ <i>weigh up</i>.",
+   "example": {
+    "en": "Then you must <b>weigh up</b> whether they are accurate in any objective sense",
+    "vi": "Rồi bạn phải <b>cân nhắc</b> xem chúng có chính xác không."
+   }
+  },
+  {
+   "word": "myth",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/mɪθ/",
+   "def_en": "A story or idea that many people believe but that is not true.",
+   "def_vi": "Chuyện truyền miệng, chuyện hoang đường.",
+   "gloss_vi": "huyền thoại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Myth</i> (noun) = huyền thoại. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "or simply memories formulated from family <b>myths</b>",
+    "vi": "Hay chỉ là ký ức hình thành từ <b>chuyện truyền miệng</b> của gia đình."
+   }
+  },
+  {
+   "word": "a multitude of",
+   "sense": "",
+   "pos": "determiner",
+   "ipa": "/ə ˈmʌltɪtjuːd əv/",
+   "def_en": "A very large number of.",
+   "def_vi": "Vô số.",
+   "gloss_vi": "vô số",
+   "synonyms": "countless <i>(adj. vô số)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A multitude of</i> (determiner) = vô số. <b>Grammar</b>: từ hạn định nhiều từ <i>a multitude of</i>.",
+   "example": {
+    "en": "Any life as long as mine has left <b>a multitude of</b> traces.",
+    "vi": "Một cuộc đời dài như tôi để lại <b>vô số</b> dấu vết."
+   }
+  },
+  {
+   "word": "trace",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/treɪs/",
+   "def_en": "A sign that something has existed or happened.",
+   "def_vi": "Dấu vết.",
+   "gloss_vi": "dấu vết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trace</i> (noun) = dấu vết. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "Any life as long as mine has left a multitude of <b>traces</b>.",
+    "vi": "Một cuộc đời dài như tôi để lại vô số <b>dấu vết</b>."
+   }
+  },
+  {
+   "word": "hoard",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/hɔːd/",
+   "def_en": "To collect and keep large amounts of something.",
+   "def_vi": "Tích trữ, cất giữ.",
+   "gloss_vi": "tích trữ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hoard</i> (verb) = tích trữ. <b>Grammar</b>: động từ.",
+   "example": {
+    "en": "Ever since I was a child, I have <b>hoarded</b> scraps of paper, childish sketches",
+    "vi": "Từ nhỏ tôi đã <b>cất giữ</b> những mẩu giấy và bức vẽ."
+   }
+  },
+  {
+   "word": "scrap",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/skræp/",
+   "def_en": "A small piece of paper, cloth, etc.",
+   "def_vi": "Mẩu, mảnh vụn.",
+   "gloss_vi": "mẩu",
+   "synonyms": "fragment <i>(n. mảnh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Scrap</i> (noun) = mẩu. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "I have hoarded <b>scraps</b> of paper, childish sketches",
+    "vi": "Tôi đã cất giữ <b>mẩu</b> giấy và tranh vẽ trẻ con."
+   }
+  },
+  {
+   "word": "pinpoint",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈpɪnpɔɪnt/",
+   "def_en": "To discover or describe something exactly.",
+   "def_vi": "Xác định chính xác.",
+   "gloss_vi": "xác định chính xác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pinpoint</i> (verb) = xác định chính xác. <b>Grammar</b>: động từ.",
+   "example": {
+    "en": "allowed me to <b>pinpoint</b>, though only roughly — there are many blank pages — what I was doing",
+    "vi": "Nhật ký giúp tôi <b>xác định</b> mình làm gì trong năm nào."
+   }
+  }
+ ]
+}
