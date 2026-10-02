@@ -1,0 +1,360 @@
+{
+ "book": "adv",
+ "unit": 91,
+ "title_vi": "Một từ, nhiều nghĩa",
+ "theory_html": "<p><b>A. Polysemy</b><br><i>A. Hiện tượng đa nghĩa</i></p> <p>Many words have more than one meaning (<b>polysemy</b>): <b>fair</b> (just; trade fair; fine weather; light skin; average marks), <b>flat</b> (apartment; level; fixed fee; ♭ in music; exactly), <b>capital</b> (letters; city; money; punishment), <b>mean</b> (signify; intend; ungenerous; average; unkind). Unrelated meanings with the same spelling are <b>homographs</b>.</p><p><i>Nhiều từ có nhiều nghĩa (<b>đa nghĩa</b>): <b>fair, flat, capital, mean</b>. Từ cùng chính tả nhưng nghĩa không liên quan gọi là <b>từ đồng tự</b>.</i></p> <p><b>B. Being aware of polysemy</b><br><i>B. Lưu ý về đa nghĩa</i></p> <p>The first meaning you learnt may not be the one in a new context; words can be different parts of speech (<b>a set of flat keys</b>); learn several meanings for the price of one; jokes often play on polysemy. Language help: context makes the meaning clear, e.g. <b>drill</b> in dental/army/road-building/language-learning contexts.</p><p><i>Nghĩa học đầu tiên chưa chắc đúng ngữ cảnh mới; từ có thể đổi từ loại; học nhiều nghĩa một lúc; truyện cười hay chơi chữ. Ngữ cảnh làm rõ nghĩa, vd <b>drill</b>.</i></p>",
+ "items": [
+  {
+   "word": "fair",
+   "sense": "just",
+   "pos": "adjective",
+   "ipa": "/feə(r)/",
+   "def_en": "Just; reasonable.",
+   "def_vi": "Công bằng; hợp lý.",
+   "gloss_vi": "công bằng",
+   "synonyms": "just <i>(adj. công bằng)</i>",
+   "antonyms": "unfair <i>(adj. bất công)</i>",
+   "grammar_vi": "<i>Fair</i> (adjective) = công bằng. <b>Grammar</b>: đa nghĩa.",
+   "example": {
+    "en": "It’s only <b>fair</b> that we should share the housework.",
+    "vi": "Chia việc nhà là <b>công bằng</b> thôi."
+   }
+  },
+  {
+   "word": "fair",
+   "sense": "trade fair",
+   "pos": "noun",
+   "ipa": "/feə(r)/",
+   "def_en": "A large event where businesses show their products.",
+   "def_vi": "Sự kiện lớn trưng bày sản phẩm.",
+   "gloss_vi": "hội chợ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fair</i> (noun) = hội chợ. <b>Grammar</b>: từ đồng tự, không liên quan nghĩa khác.",
+   "example": {
+    "en": "The Frankfurt Book <b>Fair</b> is a very important event for most publishers.",
+    "vi": "<b>Hội chợ</b> Sách Frankfurt là sự kiện quan trọng với nhà xuất bản."
+   }
+  },
+  {
+   "word": "fair",
+   "sense": "fine weather",
+   "pos": "adjective",
+   "ipa": "/feə(r)/",
+   "def_en": "(Of weather) fine, not raining.",
+   "def_vi": "(Thời tiết) đẹp, không mưa.",
+   "gloss_vi": "(trời) đẹp",
+   "synonyms": "fine <i>(adj. đẹp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fair</i> (adjective) = (trời) đẹp. <b>Grammar</b>: đa nghĩa.",
+   "example": {
+    "en": "The forecast is for the weather to stay <b>fair</b> for the next week.",
+    "vi": "Dự báo trời sẽ <b>đẹp</b> tuần tới."
+   }
+  },
+  {
+   "word": "fair",
+   "sense": "light skin",
+   "pos": "adjective",
+   "ipa": "/feə(r)/",
+   "def_en": "(Of skin or hair) light in colour.",
+   "def_vi": "(Da, tóc) sáng màu.",
+   "gloss_vi": "(da) trắng, (tóc) vàng",
+   "synonyms": "pale <i>(adj. nhợt)</i>",
+   "antonyms": "dark <i>(adj. sẫm)</i>",
+   "grammar_vi": "<i>Fair</i> (adjective) = (da) trắng, (tóc) vàng. <b>Grammar</b>: đa nghĩa.",
+   "example": {
+    "en": "I’ve got <b>fair</b> skin and burn easily in the sun.",
+    "vi": "Tôi da <b>trắng</b> nên dễ cháy nắng."
+   }
+  },
+  {
+   "word": "fair",
+   "sense": "average",
+   "pos": "adjective",
+   "ipa": "/feə(r)/",
+   "def_en": "Average; quite good but not very good.",
+   "def_vi": "Trung bình; khá nhưng không giỏi.",
+   "gloss_vi": "trung bình, tạm được",
+   "synonyms": "average <i>(adj. trung bình)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fair</i> (adjective) = trung bình, tạm được. <b>Grammar</b>: đa nghĩa.",
+   "example": {
+    "en": "His marks in his final exams ranged from excellent to <b>fair</b>.",
+    "vi": "Điểm thi cuối của anh ấy từ xuất sắc đến <b>trung bình</b>."
+   }
+  },
+  {
+   "word": "flat",
+   "sense": "apartment",
+   "pos": "noun",
+   "ipa": "/flæt/",
+   "def_en": "A set of rooms on one floor of a building.",
+   "def_vi": "Căn hộ trên một tầng.",
+   "gloss_vi": "căn hộ",
+   "synonyms": "apartment <i>(n. căn hộ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flat</i> (noun) = căn hộ. <b>Grammar</b>: cũng dùng như tính từ <i>flat keys</i>.",
+   "example": {
+    "en": "The firefighters managed to save the children from the burning third-floor <b>flat</b>.",
+    "vi": "Lính cứu hỏa cứu bọn trẻ khỏi <b>căn hộ</b> tầng ba đang cháy."
+   }
+  },
+  {
+   "word": "flat",
+   "sense": "level",
+   "pos": "adjective",
+   "ipa": "/flæt/",
+   "def_en": "Level, without hills.",
+   "def_vi": "Bằng phẳng, không đồi.",
+   "gloss_vi": "bằng phẳng",
+   "synonyms": "level <i>(adj. bằng)</i>",
+   "antonyms": "hilly <i>(adj. nhiều đồi)</i>",
+   "grammar_vi": "<i>Flat</i> (adjective) = bằng phẳng. <b>Grammar</b>: đa nghĩa.",
+   "example": {
+    "en": "The countryside round here is terribly <b>flat</b> and boring.",
+    "vi": "Vùng quê quanh đây <b>bằng phẳng</b> và buồn tẻ kinh khủng."
+   }
+  },
+  {
+   "word": "flat fee",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌflæt ˈfiː/",
+   "def_en": "A fixed amount of money that does not change.",
+   "def_vi": "Khoản tiền cố định.",
+   "gloss_vi": "phí trọn gói",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flat fee</i> (noun) = phí trọn gói. <b>Collocations / chunks</b>: <i>flat fee/rate</i>.",
+   "example": {
+    "en": "To join the Fitness Club, you pay a <b>flat fee</b> of £500.",
+    "vi": "Để vào câu lạc bộ, bạn trả <b>phí trọn gói</b> 500 bảng."
+   }
+  },
+  {
+   "word": "flat",
+   "sense": "music ♭",
+   "pos": "adjective",
+   "ipa": "/flæt/",
+   "def_en": "(In music) a semitone lower (♭).",
+   "def_vi": "(Âm nhạc) giáng nửa cung (♭).",
+   "gloss_vi": "giáng (♭)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "sharp <i>(adj. thăng)</i>",
+   "grammar_vi": "<i>Flat</i> (adjective) = giáng (♭). <b>Grammar</b>: thuật ngữ âm nhạc.",
+   "example": {
+    "en": "The sonata is in B <b>flat</b> minor.",
+    "vi": "Bản sonata ở cung Si <b>giáng</b> thứ."
+   }
+  },
+  {
+   "word": "flat",
+   "sense": "exactly",
+   "pos": "adverb",
+   "ipa": "/flæt/",
+   "def_en": "Exactly (used after a period of time).",
+   "def_vi": "Đúng (sau khoảng thời gian).",
+   "gloss_vi": "đúng, tròn",
+   "synonyms": "exactly <i>(adv. đúng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flat</i> (adverb) = đúng, tròn. <b>Grammar</b>: đứng sau thời gian.",
+   "example": {
+    "en": "She finished the exercise in five minutes <b>flat</b>.",
+    "vi": "Cô ấy làm xong bài trong <b>đúng</b> năm phút."
+   }
+  },
+  {
+   "word": "capital letters",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkæpɪtl ˈletəz/",
+   "def_en": "Upper-case letters.",
+   "def_vi": "Chữ hoa.",
+   "gloss_vi": "chữ in hoa",
+   "synonyms": "block capitals <i>(n. chữ in hoa)</i>",
+   "antonyms": "lower case <i>(n. chữ thường)</i>",
+   "grammar_vi": "<i>Capital letters</i> (noun) = chữ in hoa. <b>Collocations / chunks</b>: <i>in capital letters</i>.",
+   "example": {
+    "en": "Fill in the form in <b>capital letters</b>.",
+    "vi": "Điền mẫu đơn bằng <b>chữ in hoa</b>."
+   }
+  },
+  {
+   "word": "capital",
+   "sense": "city",
+   "pos": "noun",
+   "ipa": "/ˈkæpɪtl/",
+   "def_en": "The city where the government of a country is.",
+   "def_vi": "Thành phố nơi đặt chính phủ.",
+   "gloss_vi": "thủ đô",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Capital</i> (noun) = thủ đô. <b>Collocations / chunks</b>: <i>the capital of</i> + nước.",
+   "example": {
+    "en": "Wellington is the <b>capital</b> of New Zealand.",
+    "vi": "Wellington là <b>thủ đô</b> của New Zealand."
+   }
+  },
+  {
+   "word": "capital",
+   "sense": "money",
+   "pos": "noun",
+   "ipa": "/ˈkæpɪtl/",
+   "def_en": "Money used to start a business.",
+   "def_vi": "Tiền để mở doanh nghiệp.",
+   "gloss_vi": "vốn",
+   "synonyms": "funds <i>(n. quỹ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Capital</i> (noun) = vốn. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "You need plenty of <b>capital</b> to open a restaurant.",
+    "vi": "Bạn cần nhiều <b>vốn</b> để mở nhà hàng."
+   }
+  },
+  {
+   "word": "capital punishment",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkæpɪtl ˈpʌnɪʃmənt/",
+   "def_en": "The death penalty.",
+   "def_vi": "Án tử hình.",
+   "gloss_vi": "án tử hình",
+   "synonyms": "death penalty <i>(n. án tử hình)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Capital punishment</i> (noun) = án tử hình. <b>Collocations / chunks</b>: cụm danh từ cố định.",
+   "example": {
+    "en": "<b>Capital punishment</b> has been abolished in many countries.",
+    "vi": "<b>Án tử hình</b> đã bị bãi bỏ ở nhiều nước."
+   }
+  },
+  {
+   "word": "mean",
+   "sense": "signify",
+   "pos": "verb",
+   "ipa": "/miːn/",
+   "def_en": "To have as a meaning.",
+   "def_vi": "Có nghĩa là.",
+   "gloss_vi": "có nghĩa là",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mean</i> (verb) = có nghĩa là. <b>Grammar</b>: bất quy tắc <i>mean – meant</i>.",
+   "example": {
+    "en": "What does ‘coagulate’ <b>mean</b>?",
+    "vi": "‘Coagulate’ <b>nghĩa là</b> gì?"
+   }
+  },
+  {
+   "word": "mean",
+   "sense": "intend",
+   "pos": "verb",
+   "ipa": "/miːn/",
+   "def_en": "To intend.",
+   "def_vi": "Có ý định.",
+   "gloss_vi": "cố ý",
+   "synonyms": "intend <i>(v. định)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mean</i> (verb) = cố ý. <b>Grammar</b>: <i>mean to</i> + V.",
+   "example": {
+    "en": "I didn’t <b>mean</b> to hurt you.",
+    "vi": "Tôi không <b>cố ý</b> làm bạn tổn thương."
+   }
+  },
+  {
+   "word": "mean",
+   "sense": "ungenerous",
+   "pos": "adjective",
+   "ipa": "/miːn/",
+   "def_en": "Not generous with money.",
+   "def_vi": "Không hào phóng về tiền.",
+   "gloss_vi": "keo kiệt",
+   "synonyms": "stingy <i>(adj. keo kiệt)</i>",
+   "antonyms": "generous <i>(adj. hào phóng)</i>",
+   "grammar_vi": "<i>Mean</i> (adjective) = keo kiệt. <b>Grammar</b>: đa nghĩa.",
+   "example": {
+    "en": "He’s far too <b>mean</b> to buy her flowers.",
+    "vi": "Anh ta quá <b>keo kiệt</b> để mua hoa cho cô ấy."
+   }
+  },
+  {
+   "word": "mean",
+   "sense": "average",
+   "pos": "adjective",
+   "ipa": "/miːn/",
+   "def_en": "Average (in maths/statistics).",
+   "def_vi": "Trung bình (toán, thống kê).",
+   "gloss_vi": "trung bình",
+   "synonyms": "average <i>(adj. trung bình)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mean</i> (adjective) = trung bình. <b>Grammar</b>: thuật ngữ thống kê.",
+   "example": {
+    "en": "The <b>mean</b> temperature for July is 25°C.",
+    "vi": "Nhiệt độ <b>trung bình</b> tháng Bảy là 25°C."
+   }
+  },
+  {
+   "word": "mean",
+   "sense": "unkind",
+   "pos": "adjective",
+   "ipa": "/miːn/",
+   "def_en": "Unkind.",
+   "def_vi": "Không tử tế.",
+   "gloss_vi": "xấu tính, ác",
+   "synonyms": "unkind <i>(adj. không tử tế)</i>",
+   "antonyms": "kind <i>(adj. tử tế)</i>",
+   "grammar_vi": "<i>Mean</i> (adjective) = xấu tính, ác. <b>Collocations / chunks</b>: <i>be mean to</i> sb.",
+   "example": {
+    "en": "You shouldn’t be so <b>mean</b> to your little sister.",
+    "vi": "Con không nên <b>xấu tính</b> với em gái như thế."
+   }
+  },
+  {
+   "word": "polysemy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pəˈlɪsəmi/",
+   "def_en": "Having more than one meaning.",
+   "def_vi": "Hiện tượng một từ nhiều nghĩa.",
+   "gloss_vi": "hiện tượng đa nghĩa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Polysemy</i> (noun) = hiện tượng đa nghĩa. <b>Grammar</b>: tính từ <i>polysemous</i>.",
+   "example": {
+    "en": "Linguists call this aspect of vocabulary <b>polysemy</b>.",
+    "vi": "Các nhà ngôn ngữ học gọi đó là <b>hiện tượng đa nghĩa</b>."
+   }
+  },
+  {
+   "word": "homographs",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhɒməɡrɑːfs/",
+   "def_en": "Words with the same spellings but different meanings.",
+   "def_vi": "Từ cùng chính tả nhưng khác nghĩa.",
+   "gloss_vi": "từ đồng tự",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Homographs</i> (noun) = từ đồng tự. <b>Grammar</b>: <i>homo-</i> (giống) + <i>-graph-</i> (viết).",
+   "example": {
+    "en": "Words like this can be called <b>homographs</b>",
+    "vi": "Những từ như vậy có thể gọi là <b>từ đồng tự</b>."
+   }
+  },
+  {
+   "word": "drill",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/drɪl/",
+   "def_en": "A word with different meanings in dental, army, road-building and language-learning contexts.",
+   "def_vi": "Từ có nghĩa khác nhau theo ngữ cảnh: nha khoa, quân đội, làm đường, học ngôn ngữ.",
+   "gloss_vi": "máy khoan; bài tập luyện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Drill</i> (noun) = máy khoan; bài tập luyện. <b>Grammar</b>: ví dụ đa nghĩa; ngữ cảnh quyết định nghĩa.",
+   "example": {
+    "en": "you can understand what, for example, the noun <b>drill</b> probably means in (a) a dental context",
+    "vi": "Ngữ cảnh cho biết <b>drill</b> nghĩa là máy khoan hay bài luyện."
+   }
+  }
+ ]
+}

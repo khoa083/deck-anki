@@ -1,0 +1,372 @@
+{
+ "book": "adv",
+ "unit": 93,
+ "title_vi": "Ẩn dụ: nhìn ra vấn đề",
+ "theory_html": "<p><b>A. What are metaphors?</b><br><i>A. Ẩn dụ là gì?</i></p> <p>Using words in abstract rather than literal ways, comparing something indirectly with something with similar characteristics: a city is a <b>jungle</b>; someone <b>lights up our life</b>.</p><p><i>Dùng từ theo nghĩa trừu tượng, so sánh gián tiếp: thành phố là <b>rừng rậm</b>; ai đó <b>thắp sáng cuộc đời ta</b>.</i></p> <p><b>B. Idioms and metaphors</b><br><i>B. Thành ngữ và ẩn dụ</i></p> <p><b>be on the ball, keep sb/sth on a tight rein</b>; body parts: <b>the heart of the city, the mouth of a river, the head of an organisation, have an eye for, keep a (close) eye on, in safe hands, go hand in hand with, rule of thumb</b>.</p><p><i><b>nhanh nhạy, kiểm soát chặt; trung tâm, cửa sông, người đứng đầu, có con mắt tinh tường, để mắt đến, trong tay người đáng tin, đi đôi với, quy tắc ước lượng</b>.</i></p> <p><b>C. Common metaphorical concepts in English</b><br><i>C. Các khái niệm ẩn dụ phổ biến</i></p> <p>Intelligence = light (<b>bright, dim, see the light, cast light on</b>); feeling = temperature (<b>blow hot and cold, hotheaded, cold-hearted</b>); people/traffic = water (<b>flood, trickle, stream</b>); time = money (<b>spend, waste, invest, pay dividends</b>); business = military (<b>strategies, tactics, campaigns, launch an advertising campaign, marketing strategy</b>).</p><p><i>Trí tuệ = ánh sáng; cảm xúc = nhiệt độ; dòng người = nước; thời gian = tiền; kinh doanh = quân sự.</i></p>",
+ "items": [
+  {
+   "word": "jungle",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdʒʌŋɡl/",
+   "def_en": "A place that is wild and full of dangers (metaphorical).",
+   "def_vi": "Nơi hoang dã và đầy nguy hiểm (ẩn dụ).",
+   "gloss_vi": "rừng rậm (nghĩa bóng)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Jungle</i> (noun) = rừng rậm (nghĩa bóng). <b>Collocations / chunks</b>: <i>concrete jungle</i>.",
+   "example": {
+    "en": "If we call a city a <b>jungle</b>, for example, we are using a metaphor.",
+    "vi": "Gọi thành phố là <b>rừng rậm</b> là dùng ẩn dụ."
+   }
+  },
+  {
+   "word": "light up sb’s life",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌlaɪt ʌp ... ˈlaɪf/",
+   "def_en": "To make someone’s life brighter and happier.",
+   "def_vi": "Làm cuộc sống ai tươi sáng, hạnh phúc hơn.",
+   "gloss_vi": "thắp sáng cuộc đời ai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Light up sb’s life</i> (verb) = thắp sáng cuộc đời ai. <b>Collocations / chunks</b>: ẩn dụ ánh sáng.",
+   "ex_kit": true,
+   "example": {
+    "en": "Her little grandson <b>lights up her life</b>.",
+    "vi": "Đứa cháu nhỏ <b>thắp sáng cuộc đời</b> bà."
+   }
+  },
+  {
+   "word": "be on the ball",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/bi ɒn ðə ˈbɔːl/",
+   "def_en": "To be very aware of things and ready to act.",
+   "def_vi": "Rất nhạy bén, sẵn sàng hành động.",
+   "gloss_vi": "nhanh nhạy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be on the ball</i> (verb) = nhanh nhạy. <b>Collocations / chunks</b>: ẩn dụ cầu thủ giỏi.",
+   "ex_kit": true,
+   "example": {
+    "en": "The new secretary is really <b>on the ball</b>.",
+    "vi": "Cô thư ký mới thật sự <b>nhanh nhạy</b>."
+   }
+  },
+  {
+   "word": "keep sb on a tight rein",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkiːp ... ɒn ə ˌtaɪt ˈreɪn/",
+   "def_en": "To have a lot of control over someone or something.",
+   "def_vi": "Kiểm soát chặt ai/gì.",
+   "gloss_vi": "kiểm soát chặt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Keep sb on a tight rein</i> (verb) = kiểm soát chặt. <b>Collocations / chunks</b>: ẩn dụ người cưỡi ngựa.",
+   "ex_kit": true,
+   "example": {
+    "en": "His parents <b>keep him on a tight rein</b>.",
+    "vi": "Bố mẹ <b>kiểm soát chặt</b> cậu ấy."
+   }
+  },
+  {
+   "word": "the heart of",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ðə ˈhɑːt əv/",
+   "def_en": "The centre of (a place).",
+   "def_vi": "Trung tâm (nơi chốn).",
+   "gloss_vi": "trung tâm, giữa lòng",
+   "synonyms": "centre <i>(n. trung tâm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The heart of</i> (noun) = trung tâm, giữa lòng. <b>Collocations / chunks</b>: ẩn dụ bộ phận cơ thể.",
+   "example": {
+    "en": "a building is in the <b>heart</b> of the city",
+    "vi": "Tòa nhà nằm ở <b>trung tâm</b> thành phố."
+   }
+  },
+  {
+   "word": "mouth",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/maʊθ/",
+   "def_en": "The place where a river joins the sea.",
+   "def_vi": "Nơi sông đổ ra biển.",
+   "gloss_vi": "cửa sông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mouth</i> (noun) = cửa sông. <b>Collocations / chunks</b>: <i>the mouth of a river</i>.",
+   "example": {
+    "en": "We can call the place where a river joins the sea its <b>mouth</b>",
+    "vi": "Thị trấn nằm ở <b>cửa sông</b>."
+   }
+  },
+  {
+   "word": "have an eye for",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/hæv ən ˈaɪ fə(r)/",
+   "def_en": "To be good at finding or noticing something.",
+   "def_vi": "Giỏi tìm hay nhận ra điều gì.",
+   "gloss_vi": "có con mắt tinh tường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Have an eye for</i> (verb) = có con mắt tinh tường. <b>Collocations / chunks</b>: <i>have an eye for</i> sth.",
+   "example": {
+    "en": "If you say that someone <b>has an eye for</b> a bargain, you mean they are good at finding a bargain.",
+    "vi": "Cô ấy <b>có con mắt tinh tường</b> với hàng hời."
+   }
+  },
+  {
+   "word": "keep a close eye on",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkiːp ə ˌkləʊs ˈaɪ ɒn/",
+   "def_en": "To watch someone or something carefully.",
+   "def_vi": "Theo dõi ai/gì cẩn thận.",
+   "gloss_vi": "để mắt kỹ đến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Keep a close eye on</i> (verb) = để mắt kỹ đến. <b>Collocations / chunks</b>: <i>keep an eye on</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Keep a close eye on</b> the children when they’re swimming.",
+    "vi": "<b>Để mắt kỹ đến</b> bọn trẻ khi chúng bơi."
+   }
+  },
+  {
+   "word": "in safe hands",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪn ˌseɪf ˈhændz/",
+   "def_en": "Looked after by someone capable.",
+   "def_vi": "Được người có năng lực chăm lo.",
+   "gloss_vi": "trong tay người đáng tin",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In safe hands</i> (adjective) = trong tay người đáng tin. <b>Collocations / chunks</b>: <i>be in safe hands</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Don’t worry – the project is <b>in safe hands</b>.",
+    "vi": "Đừng lo – dự án đang <b>trong tay người đáng tin</b>."
+   }
+  },
+  {
+   "word": "go hand in hand with",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡəʊ ˌhænd ɪn ˈhænd wɪð/",
+   "def_en": "To exist together and be interconnected.",
+   "def_vi": "Tồn tại cùng nhau, gắn liền.",
+   "gloss_vi": "đi đôi với",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go hand in hand with</i> (verb) = đi đôi với. <b>Collocations / chunks</b>: thành ngữ cố định.",
+   "example": {
+    "en": "Rights <b>go hand in hand with</b> responsibilities.",
+    "vi": "Quyền lợi <b>đi đôi với</b> trách nhiệm."
+   }
+  },
+  {
+   "word": "rule of thumb",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌruːl əv ˈθʌm/",
+   "def_en": "A way of calculating that is not exact but accurate enough.",
+   "def_vi": "Cách tính không chính xác nhưng đủ dùng.",
+   "gloss_vi": "quy tắc ước lượng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rule of thumb</i> (noun) = quy tắc ước lượng. <b>Collocations / chunks</b>: <i>as a rule of thumb</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "As a <b>rule of thumb</b>, a person needs two litres of water a day.",
+    "vi": "Theo <b>quy tắc ước lượng</b>, một người cần hai lít nước mỗi ngày."
+   }
+  },
+  {
+   "word": "bright",
+   "sense": "clever",
+   "pos": "adjective",
+   "ipa": "/braɪt/",
+   "def_en": "Clever.",
+   "def_vi": "Thông minh.",
+   "gloss_vi": "sáng dạ",
+   "synonyms": "clever <i>(adj. thông minh)</i>",
+   "antonyms": "dim <i>(adj. đần)</i>",
+   "grammar_vi": "<i>Bright</i> (adjective) = sáng dạ. <b>Collocations / chunks</b>: ẩn dụ trí tuệ = ánh sáng.",
+   "ex_kit": true,
+   "example": {
+    "en": "She’s a very <b>bright</b> student.",
+    "vi": "Cô ấy là học sinh rất <b>sáng dạ</b>."
+   }
+  },
+  {
+   "word": "dim",
+   "sense": "not intelligent",
+   "pos": "adjective",
+   "ipa": "/dɪm/",
+   "def_en": "Less intelligent.",
+   "def_vi": "Kém thông minh.",
+   "gloss_vi": "đần, chậm hiểu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "bright <i>(adj. sáng dạ)</i>",
+   "grammar_vi": "<i>Dim</i> (adjective) = đần, chậm hiểu. <b>Collocations / chunks</b>: ẩn dụ trí tuệ = ánh sáng.",
+   "ex_kit": true,
+   "example": {
+    "en": "He’s a bit <b>dim</b>.",
+    "vi": "Anh ta hơi <b>chậm hiểu</b>."
+   }
+  },
+  {
+   "word": "see the light",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌsiː ðə ˈlaɪt/",
+   "def_en": "To understand something.",
+   "def_vi": "Hiểu ra điều gì.",
+   "gloss_vi": "vỡ lẽ, hiểu ra",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>See the light</i> (verb) = vỡ lẽ, hiểu ra. <b>Collocations / chunks</b>: ẩn dụ hiểu biết = ánh sáng.",
+   "ex_kit": true,
+   "example": {
+    "en": "He finally <b>saw the light</b> and apologised.",
+    "vi": "Cuối cùng anh ấy <b>vỡ lẽ</b> và xin lỗi."
+   }
+  },
+  {
+   "word": "cast light on",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkɑːst ˈlaɪt ɒn/",
+   "def_en": "To make something easier to understand.",
+   "def_vi": "Làm điều gì dễ hiểu hơn.",
+   "gloss_vi": "làm sáng tỏ",
+   "synonyms": "shed light on <i>(v. làm sáng tỏ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cast light on</i> (verb) = làm sáng tỏ. <b>Collocations / chunks</b>: cũng <i>shed light on</i>.",
+   "example": {
+    "en": "The discovery of the poet’s letters has <b>cast light on</b> his troubled relationship with his brother.",
+    "vi": "Thư của nhà thơ <b>làm sáng tỏ</b> mối quan hệ rắc rối với em trai."
+   }
+  },
+  {
+   "word": "blow hot and cold",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌbləʊ ˌhɒt ən ˈkəʊld/",
+   "def_en": "To be enthusiastic at one time and not at another.",
+   "def_vi": "Lúc nhiệt tình lúc không.",
+   "gloss_vi": "thất thường, lúc nóng lúc lạnh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Blow hot and cold</i> (verb) = thất thường, lúc nóng lúc lạnh. <b>Collocations / chunks</b>: ẩn dụ cảm xúc = nhiệt độ.",
+   "ex_kit": true,
+   "example": {
+    "en": "She’s been <b>blowing hot and cold</b> about the plan.",
+    "vi": "Cô ấy <b>lúc nóng lúc lạnh</b> về kế hoạch."
+   }
+  },
+  {
+   "word": "hotheaded",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌhɒtˈhedɪd/",
+   "def_en": "Reacting quickly on the basis of feelings without thinking first.",
+   "def_vi": "Phản ứng nhanh theo cảm xúc, không nghĩ trước.",
+   "gloss_vi": "nóng nảy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hotheaded</i> (adjective) = nóng nảy. <b>Grammar</b>: tính từ ghép <i>hot</i> + <i>headed</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He’s too <b>hotheaded</b> to be a leader.",
+    "vi": "Anh ta quá <b>nóng nảy</b> để làm lãnh đạo."
+   }
+  },
+  {
+   "word": "cold-hearted",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌkəʊld ˈhɑːtɪd/",
+   "def_en": "Without feeling.",
+   "def_vi": "Không có cảm xúc.",
+   "gloss_vi": "lạnh lùng, nhẫn tâm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "warm-hearted <i>(adj. ấm áp)</i>",
+   "grammar_vi": "<i>Cold-hearted</i> (adjective) = lạnh lùng, nhẫn tâm. <b>Grammar</b>: tính từ ghép <i>cold</i> + <i>hearted</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "How can you be so <b>cold-hearted</b>?",
+    "vi": "Sao bạn có thể <b>nhẫn tâm</b> thế?"
+   }
+  },
+  {
+   "word": "pay dividends",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌpeɪ ˈdɪvɪdendz/",
+   "def_en": "To bring you advantages in the future.",
+   "def_vi": "Mang lại lợi ích trong tương lai.",
+   "gloss_vi": "sinh lợi, đáng công",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pay dividends</i> (verb) = sinh lợi, đáng công. <b>Collocations / chunks</b>: ẩn dụ thời gian = tiền.",
+   "example": {
+    "en": "using it in a way that you think will <b>pay dividends</b> in future",
+    "vi": "Đầu tư thời gian vào việc học sẽ <b>đáng công</b>."
+   }
+  },
+  {
+   "word": "launch an advertising campaign",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌlɔːntʃ ən ˈædvətaɪzɪŋ kæmˌpeɪn/",
+   "def_en": "To start a series of advertisements.",
+   "def_vi": "Bắt đầu loạt quảng cáo.",
+   "gloss_vi": "phát động chiến dịch quảng cáo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Launch an advertising campaign</i> (verb) = phát động chiến dịch quảng cáo. <b>Collocations / chunks</b>: ẩn dụ kinh doanh = quân sự.",
+   "example": {
+    "en": "a company might <b>launch an advertising campaign</b>",
+    "vi": "Công ty có thể <b>phát động chiến dịch quảng cáo</b>."
+   }
+  },
+  {
+   "word": "marketing strategy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɑːkɪtɪŋ ˌstrætədʒi/",
+   "def_en": "A plan for selling products.",
+   "def_vi": "Kế hoạch bán sản phẩm.",
+   "gloss_vi": "chiến lược tiếp thị",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Marketing strategy</i> (noun) = chiến lược tiếp thị. <b>Collocations / chunks</b>: ẩn dụ kinh doanh = quân sự.",
+   "example": {
+    "en": "or work on its <b>marketing strategy</b>",
+    "vi": "Công ty làm việc trên <b>chiến lược tiếp thị</b>."
+   }
+  },
+  {
+   "word": "tactics",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtæktɪks/",
+   "def_en": "Methods used to achieve something (military and business).",
+   "def_vi": "Phương pháp để đạt mục tiêu (quân sự, kinh doanh).",
+   "gloss_vi": "chiến thuật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tactics</i> (noun) = chiến thuật. <b>Grammar</b>: thường số nhiều.",
+   "example": {
+    "en": "strategies, <b>tactics</b> and campaigns are used in both contexts",
+    "vi": "Chiến lược, <b>chiến thuật</b> và chiến dịch dùng trong cả hai ngữ cảnh."
+   }
+  }
+ ]
+}
