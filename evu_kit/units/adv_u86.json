@@ -1,0 +1,537 @@
+{
+ "book": "adv",
+ "unit": 86,
+ "title_vi": "Tiền tố: tạo nghĩa mới",
+ "theory_html": "<p><b>A. Common prefixes</b><br><i>A. Tiền tố thông dụng</i></p> <p><b>in-</b> (<b>im-, il-, ir-</b>) negative: <b>inappropriate, incapable, inaccuracy, inability, imperfect</b>; <b>mis-</b> wrongly: <b>misbehave, misuse</b>; <b>out-</b> greater/better: <b>outnumber, outweigh</b>; <b>re-</b> again: <b>reconsider, redevelop, rethink</b>; <b>e-</b> electronic: <b>e-commerce, e-reader, e-cigarettes</b>; <b>eco-</b> good for the environment: <b>eco-friendly, eco-city, eco-warrior</b>.</p><p><i><b>in-</b> phủ định; <b>mis-</b> sai; <b>out-</b> vượt hơn; <b>re-</b> lại; <b>e-</b> điện tử; <b>eco-</b> thân thiện môi trường.</i></p> <p><b>B. Preposition-based prefixes</b><br><i>B. Tiền tố gốc giới từ</i></p> <p><b>over-</b> excess/above/across: <b>overrated, overpriced, overhang, overshadowed by, overstep the mark, overnight</b>; <b>under-</b> less/below/negative: <b>underestimate, understaffed, underfoot, underlying, undermine, underhand</b>; <b>up-</b> change (often positive): <b>upgrade, upturn</b>.</p><p><i><b>over-</b> quá mức/bên trên/vượt qua; <b>under-</b> thiếu/bên dưới/tiêu cực; <b>up-</b> thay đổi tốt lên.</i></p> <p><b>C. Less frequent prefixes</b><br><i>C. Tiền tố ít gặp</i></p> <p><b>con-/com-</b> mixing together: <b>converse, commiserate, condolences, congeal, contaminate</b>; <b>pro-</b> pushing forward: <b>promote, proliferate, procrastinate, procreate</b>; <b>e-</b> coming out: <b>eject, emit</b>.</p><p><i><b>con-/com-</b> cùng nhau; <b>pro-</b> đẩy tới; <b>e-</b> ra ngoài.</i></p>",
+ "items": [
+  {
+   "word": "inability",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɪnəˈbɪləti/",
+   "def_en": "Not being able to do something.",
+   "def_vi": "Không có khả năng làm gì.",
+   "gloss_vi": "sự không có khả năng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "ability <i>(n. khả năng)</i>",
+   "grammar_vi": "<i>Inability</i> (noun) = sự không có khả năng. <b>Grammar</b>: tiền tố <i>in-</i> phủ định.",
+   "ex_kit": true,
+   "example": {
+    "en": "He was frustrated by his <b>inability</b> to find work.",
+    "vi": "Anh ấy thất vọng vì <b>không thể</b> tìm được việc."
+   }
+  },
+  {
+   "word": "inaccuracy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˈækjərəsi/",
+   "def_en": "Something that is not correct.",
+   "def_vi": "Điều không chính xác.",
+   "gloss_vi": "sự thiếu chính xác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "accuracy <i>(n. sự chính xác)</i>",
+   "grammar_vi": "<i>Inaccuracy</i> (noun) = sự thiếu chính xác. <b>Grammar</b>: tiền tố <i>in-</i> phủ định.",
+   "ex_kit": true,
+   "example": {
+    "en": "The report contains several <b>inaccuracies</b>.",
+    "vi": "Báo cáo có vài chỗ <b>không chính xác</b>."
+   }
+  },
+  {
+   "word": "misbehave",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌmɪsbɪˈheɪv/",
+   "def_en": "To behave badly.",
+   "def_vi": "Cư xử không tốt.",
+   "gloss_vi": "cư xử không đúng mực",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "behave <i>(v. ngoan)</i>",
+   "grammar_vi": "<i>Misbehave</i> (verb) = cư xử không đúng mực. <b>Grammar</b>: tiền tố <i>mis-</i> = sai, tệ.",
+   "ex_kit": true,
+   "example": {
+    "en": "The children <b>misbehaved</b> when the teacher left the room.",
+    "vi": "Bọn trẻ <b>nghịch ngợm</b> khi cô giáo ra ngoài."
+   }
+  },
+  {
+   "word": "misuse",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌmɪsˈjuːz/",
+   "def_en": "To use in the wrong way or for the wrong purpose.",
+   "def_vi": "Dùng sai cách hay sai mục đích.",
+   "gloss_vi": "lạm dụng, dùng sai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Misuse</i> (verb) = lạm dụng, dùng sai. <b>Grammar</b>: danh từ <i>misuse</i> /-ˈjuːs/.",
+   "ex_kit": true,
+   "example": {
+    "en": "He was accused of <b>misusing</b> public money.",
+    "vi": "Ông ta bị buộc tội <b>lạm dụng</b> tiền công."
+   }
+  },
+  {
+   "word": "outnumber",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌaʊtˈnʌmbə(r)/",
+   "def_en": "To be larger in number than another group.",
+   "def_vi": "Đông hơn nhóm khác.",
+   "gloss_vi": "đông hơn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Outnumber</i> (verb) = đông hơn. <b>Grammar</b>: tiền tố <i>out-</i> = vượt hơn.",
+   "ex_kit": true,
+   "example": {
+    "en": "In the class, women <b>outnumber</b> men.",
+    "vi": "Trong lớp, nữ <b>đông hơn</b> nam."
+   }
+  },
+  {
+   "word": "outweigh",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌaʊtˈweɪ/",
+   "def_en": "To be greater or more important than something else.",
+   "def_vi": "Lớn hơn, quan trọng hơn.",
+   "gloss_vi": "lớn hơn, nặng ký hơn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Outweigh</i> (verb) = lớn hơn, nặng ký hơn. <b>Grammar</b>: tiền tố <i>out-</i> = vượt hơn.",
+   "ex_kit": true,
+   "example": {
+    "en": "The benefits <b>outweigh</b> the risks.",
+    "vi": "Lợi ích <b>lớn hơn</b> rủi ro."
+   }
+  },
+  {
+   "word": "reconsider",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌriːkənˈsɪdə(r)/",
+   "def_en": "To think again about a decision or opinion.",
+   "def_vi": "Nghĩ lại quyết định hay ý kiến.",
+   "gloss_vi": "xem xét lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reconsider</i> (verb) = xem xét lại. <b>Grammar</b>: tiền tố <i>re-</i> = lại.",
+   "ex_kit": true,
+   "example": {
+    "en": "Please <b>reconsider</b> your decision.",
+    "vi": "Xin hãy <b>xem xét lại</b> quyết định của bạn."
+   }
+  },
+  {
+   "word": "rethink",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌriːˈθɪŋk/",
+   "def_en": "To change what you think about something or what you plan to do.",
+   "def_vi": "Thay đổi suy nghĩ hay kế hoạch.",
+   "gloss_vi": "suy nghĩ lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rethink</i> (verb) = suy nghĩ lại. <b>Grammar</b>: bất quy tắc <i>rethought</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We need to <b>rethink</b> our strategy.",
+    "vi": "Ta cần <b>suy nghĩ lại</b> chiến lược."
+   }
+  },
+  {
+   "word": "e-cigarettes",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈiː sɪɡəˌrets/",
+   "def_en": "Cigarettes that use water vapour rather than tobacco.",
+   "def_vi": "Thuốc lá dùng hơi nước thay thuốc lá.",
+   "gloss_vi": "thuốc lá điện tử",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>E-cigarettes</i> (noun) = thuốc lá điện tử. <b>Grammar</b>: tiền tố <i>e-</i> = điện tử.",
+   "ex_kit": true,
+   "example": {
+    "en": "Many people have switched to <b>e-cigarettes</b>.",
+    "vi": "Nhiều người chuyển sang <b>thuốc lá điện tử</b>."
+   }
+  },
+  {
+   "word": "eco-friendly",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌiːkəʊ ˈfrendli/",
+   "def_en": "Good for the environment.",
+   "def_vi": "Tốt cho môi trường.",
+   "gloss_vi": "thân thiện môi trường",
+   "synonyms": "green <i>(adj. xanh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Eco-friendly</i> (adjective) = thân thiện môi trường. <b>Grammar</b>: tiền tố <i>eco-</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We use <b>eco-friendly</b> cleaning products.",
+    "vi": "Chúng tôi dùng sản phẩm tẩy rửa <b>thân thiện môi trường</b>."
+   }
+  },
+  {
+   "word": "eco-city",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈiːkəʊ ˌsɪti/",
+   "def_en": "A city using energy efficiently and producing very little pollution.",
+   "def_vi": "Thành phố dùng năng lượng hiệu quả, ít ô nhiễm.",
+   "gloss_vi": "thành phố sinh thái",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Eco-city</i> (noun) = thành phố sinh thái. <b>Grammar</b>: tiền tố <i>eco-</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "They plan to build an <b>eco-city</b>.",
+    "vi": "Họ định xây một <b>thành phố sinh thái</b>."
+   }
+  },
+  {
+   "word": "eco-warrior",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈiːkəʊ ˌwɒriə(r)/",
+   "def_en": "Someone who campaigns to protect the environment (informal).",
+   "def_vi": "Người vận động bảo vệ môi trường (thân mật).",
+   "gloss_vi": "chiến binh môi trường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Eco-warrior</i> (noun) = chiến binh môi trường. <b>Grammar</b>: thân mật.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Eco-warriors</b> protested against the new road.",
+    "vi": "Các <b>chiến binh môi trường</b> phản đối con đường mới."
+   }
+  },
+  {
+   "word": "overpriced",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌəʊvəˈpraɪst/",
+   "def_en": "Too expensive.",
+   "def_vi": "Quá đắt.",
+   "gloss_vi": "giá cắt cổ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Overpriced</i> (adjective) = giá cắt cổ. <b>Grammar</b>: <i>over-</i> = quá mức.",
+   "example": {
+    "en": "It was a bad restaurant, with an <b>overpriced</b> menu.",
+    "vi": "Nhà hàng tệ, thực đơn <b>giá cắt cổ</b>."
+   }
+  },
+  {
+   "word": "overhang",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌəʊvəˈhæŋ/",
+   "def_en": "To stick out over something.",
+   "def_vi": "Chìa ra phía trên.",
+   "gloss_vi": "chìa ra phía trên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Overhang</i> (verb) = chìa ra phía trên. <b>Grammar</b>: <i>over-</i> = phía trên.",
+   "example": {
+    "en": "Several of our neighbour’s large trees <b>overhang</b> our garden.",
+    "vi": "Vài cây lớn nhà hàng xóm <b>chìa sang</b> vườn chúng tôi."
+   }
+  },
+  {
+   "word": "overshadowed by",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌəʊvəˈʃædəʊd baɪ/",
+   "def_en": "Cast in shadow by; made to feel less important than.",
+   "def_vi": "Bị che bóng; bị lu mờ.",
+   "gloss_vi": "bị lu mờ bởi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Overshadowed by</i> (adjective) = bị lu mờ bởi. <b>Grammar</b>: <i>over-</i> = phía trên; nghĩa bóng.",
+   "example": {
+    "en": "She always felt <b>overshadowed by</b> her older, more successful, sister.",
+    "vi": "Cô ấy luôn thấy mình <b>bị lu mờ bởi</b> người chị thành đạt."
+   }
+  },
+  {
+   "word": "overstep the mark",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌəʊvəstep ðə ˈmɑːk/",
+   "def_en": "To cross a barrier into offensive or unacceptable behaviour.",
+   "def_vi": "Vượt quá giới hạn chấp nhận được.",
+   "gloss_vi": "quá trớn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Overstep the mark</i> (verb) = quá trớn. <b>Collocations / chunks</b>: thành ngữ cố định.",
+   "example": {
+    "en": "He <b>overstepped the mark</b> when he said that.",
+    "vi": "Anh ta đã <b>quá trớn</b> khi nói vậy."
+   }
+  },
+  {
+   "word": "overnight",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌəʊvəˈnaɪt/",
+   "def_en": "From one day to the next; during the night.",
+   "def_vi": "Qua đêm.",
+   "gloss_vi": "qua đêm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Overnight</i> (adverb) = qua đêm. <b>Grammar</b>: <i>over-</i> = vượt qua.",
+   "example": {
+    "en": "Will you be staying <b>overnight</b>?",
+    "vi": "Bạn sẽ ở lại <b>qua đêm</b> chứ?"
+   }
+  },
+  {
+   "word": "underestimate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌʌndərˈestɪmeɪt/",
+   "def_en": "To think something will be less than it really is.",
+   "def_vi": "Nghĩ điều gì nhỏ hơn thực tế.",
+   "gloss_vi": "đánh giá thấp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "overestimate <i>(v. đánh giá quá cao)</i>",
+   "grammar_vi": "<i>Underestimate</i> (verb) = đánh giá thấp. <b>Grammar</b>: <i>under-</i> = thiếu.",
+   "example": {
+    "en": "Don’t <b>underestimate</b> the time it will take.",
+    "vi": "Đừng <b>đánh giá thấp</b> thời gian cần thiết."
+   }
+  },
+  {
+   "word": "understaffed",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʌndəˈstɑːft/",
+   "def_en": "Lacking staff.",
+   "def_vi": "Thiếu nhân viên.",
+   "gloss_vi": "thiếu nhân sự",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "overstaffed <i>(adj. thừa nhân sự)</i>",
+   "grammar_vi": "<i>Understaffed</i> (adjective) = thiếu nhân sự. <b>Grammar</b>: <i>under-</i> = thiếu.",
+   "example": {
+    "en": "The company is seriously <b>understaffed</b>.",
+    "vi": "Công ty <b>thiếu nhân sự</b> nghiêm trọng."
+   }
+  },
+  {
+   "word": "underfoot",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌʌndəˈfʊt/",
+   "def_en": "On the ground, beneath your feet.",
+   "def_vi": "Trên mặt đất, dưới chân.",
+   "gloss_vi": "dưới chân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Underfoot</i> (adverb) = dưới chân. <b>Grammar</b>: <i>under-</i> = bên dưới.",
+   "example": {
+    "en": "It’s quite wet <b>underfoot</b>. Did it rain last night?",
+    "vi": "Mặt đất <b>dưới chân</b> khá ướt. Đêm qua mưa à?"
+   }
+  },
+  {
+   "word": "underlying",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʌndəˈlaɪɪŋ/",
+   "def_en": "Deeper (question, cause, etc.).",
+   "def_vi": "Sâu xa hơn.",
+   "gloss_vi": "tiềm ẩn, sâu xa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Underlying</i> (adjective) = tiềm ẩn, sâu xa. <b>Collocations / chunks</b>: <i>underlying cause/problem</i>.",
+   "example": {
+    "en": "The <b>underlying</b> question is a very difficult one.",
+    "vi": "Câu hỏi <b>sâu xa</b> là một câu rất khó."
+   }
+  },
+  {
+   "word": "undermine",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌʌndəˈmaɪn/",
+   "def_en": "To attack, weaken.",
+   "def_vi": "Tấn công, làm suy yếu.",
+   "gloss_vi": "phá hoại, làm suy yếu",
+   "synonyms": "weaken <i>(v. làm yếu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Undermine</i> (verb) = phá hoại, làm suy yếu. <b>Grammar</b>: <i>under-</i> nghĩa tiêu cực.",
+   "example": {
+    "en": "I wish you would not <b>undermine</b> everything I do.",
+    "vi": "Mong anh đừng <b>phá</b> mọi việc tôi làm."
+   }
+  },
+  {
+   "word": "underhand",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʌndəˈhænd/",
+   "def_en": "Secret and possibly dishonest.",
+   "def_vi": "Lén lút, có thể không trung thực.",
+   "gloss_vi": "lén lút, mờ ám",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Underhand</i> (adjective) = lén lút, mờ ám. <b>Grammar</b>: <i>under-</i> nghĩa tiêu cực.",
+   "example": {
+    "en": "He did it in a very <b>underhand</b> way.",
+    "vi": "Anh ta làm việc đó rất <b>mờ ám</b>."
+   }
+  },
+  {
+   "word": "upgrade",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌʌpˈɡreɪd/",
+   "def_en": "To change to a better class or version.",
+   "def_vi": "Đổi sang hạng hay phiên bản tốt hơn.",
+   "gloss_vi": "nâng hạng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "downgrade <i>(v. hạ cấp)</i>",
+   "grammar_vi": "<i>Upgrade</i> (verb) = nâng hạng. <b>Grammar</b>: <i>up-</i> = thay đổi tốt.",
+   "example": {
+    "en": "The airline <b>upgraded</b> me to business class.",
+    "vi": "Hãng hàng không <b>nâng hạng</b> tôi lên hạng thương gia."
+   }
+  },
+  {
+   "word": "upturn",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈʌptɜːn/",
+   "def_en": "A change for the better.",
+   "def_vi": "Thay đổi tốt lên.",
+   "gloss_vi": "sự khởi sắc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "downturn <i>(n. sự suy thoái)</i>",
+   "grammar_vi": "<i>Upturn</i> (noun) = sự khởi sắc. <b>Collocations / chunks</b>: <i>an upturn in</i> sth.",
+   "example": {
+    "en": "There has been an <b>upturn</b> in the economy.",
+    "vi": "Nền kinh tế đã <b>khởi sắc</b>."
+   }
+  },
+  {
+   "word": "converse",
+   "sense": "talk",
+   "pos": "verb",
+   "ipa": "/kənˈvɜːs/",
+   "def_en": "To have a conversation (formal).",
+   "def_vi": "Trò chuyện (trang trọng).",
+   "gloss_vi": "trò chuyện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Converse</i> (verb) = trò chuyện. <b>Grammar</b>: tiền tố <i>con-</i> = cùng nhau.",
+   "ex_kit": true,
+   "example": {
+    "en": "They <b>conversed</b> in French.",
+    "vi": "Họ <b>trò chuyện</b> bằng tiếng Pháp."
+   }
+  },
+  {
+   "word": "commiserate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kəˈmɪzəreɪt/",
+   "def_en": "To express sympathy.",
+   "def_vi": "Bày tỏ cảm thông.",
+   "gloss_vi": "chia buồn, an ủi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Commiserate</i> (verb) = chia buồn, an ủi. <b>Collocations / chunks</b>: <i>commiserate with sb on/over</i> sth.",
+   "ex_kit": true,
+   "example": {
+    "en": "I <b>commiserated</b> with her on failing the exam.",
+    "vi": "Tôi <b>an ủi</b> cô ấy về việc thi trượt."
+   }
+  },
+  {
+   "word": "proliferate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/prəˈlɪfəreɪt/",
+   "def_en": "To increase quickly in number.",
+   "def_vi": "Tăng nhanh về số lượng.",
+   "gloss_vi": "sinh sôi, tăng nhanh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Proliferate</i> (verb) = sinh sôi, tăng nhanh. <b>Grammar</b>: tiền tố <i>pro-</i> = đẩy tới.",
+   "ex_kit": true,
+   "example": {
+    "en": "Mobile phone shops have <b>proliferated</b> across the city.",
+    "vi": "Cửa hàng điện thoại <b>mọc lên nhanh chóng</b> khắp thành phố."
+   }
+  },
+  {
+   "word": "procrastinate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/prəˈkræstɪneɪt/",
+   "def_en": "To keep delaying something that must be done.",
+   "def_vi": "Cứ trì hoãn việc phải làm.",
+   "gloss_vi": "trì hoãn, chần chừ",
+   "synonyms": "put off <i>(v. hoãn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Procrastinate</i> (verb) = trì hoãn, chần chừ. <b>Grammar</b>: danh từ <i>procrastination</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Stop <b>procrastinating</b> and write your essay!",
+    "vi": "Đừng <b>trì hoãn</b> nữa – làm bài luận đi!"
+   }
+  },
+  {
+   "word": "procreate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈprəʊkrieɪt/",
+   "def_en": "To produce young (formal).",
+   "def_vi": "Sinh sản (trang trọng).",
+   "gloss_vi": "sinh sản",
+   "synonyms": "reproduce <i>(v. sinh sản)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Procreate</i> (verb) = sinh sản. <b>Grammar</b>: trang trọng.",
+   "ex_kit": true,
+   "example": {
+    "en": "All living things need to <b>procreate</b>.",
+    "vi": "Mọi sinh vật đều có nhu cầu <b>sinh sản</b>."
+   }
+  },
+  {
+   "word": "eject",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/iˈdʒekt/",
+   "def_en": "To throw out (formal).",
+   "def_vi": "Đuổi ra (trang trọng).",
+   "gloss_vi": "đuổi ra",
+   "synonyms": "throw out <i>(v. tống ra)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Eject</i> (verb) = đuổi ra. <b>Grammar</b>: tiền tố <i>e-</i> = ra ngoài.",
+   "example": {
+    "en": "They were <b>ejected</b> from the restaurant for bad behaviour.",
+    "vi": "Họ bị <b>đuổi</b> khỏi nhà hàng vì cư xử tệ."
+   }
+  },
+  {
+   "word": "emit",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/iˈmɪt/",
+   "def_en": "To give out (formal).",
+   "def_vi": "Phát ra (trang trọng).",
+   "gloss_vi": "phát ra",
+   "synonyms": "give out <i>(v. phát ra)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Emit</i> (verb) = phát ra. <b>Grammar</b>: danh từ <i>emission</i>; <i>emit – emitted</i>.",
+   "example": {
+    "en": "The machine <b>emitted</b> a loud noise and then stopped working.",
+    "vi": "Máy <b>phát ra</b> tiếng ồn lớn rồi ngừng chạy."
+   }
+  }
+ ]
+}

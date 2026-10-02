@@ -1,0 +1,618 @@
+{
+ "book": "adv",
+ "unit": 87,
+ "title_vi": "Hậu tố: tạo từ mới",
+ "theory_html": "<p><b>A. Productive suffixes</b><br><i>A. Hậu tố sinh sản</i></p> <p><b>productive</b> (still used to create new words), <b>coin</b> (create). <b>-able</b> (can be: washable, disposable, predictable, avoidable, manageable; <b>-ible</b> never productive), <b>-conscious</b> (health-, class-, safety-, time-), <b>-free</b> (stress-, tax-, additive-), <b>-rich</b> (fibre-, calcium-), <b>-led</b> (community-, student-, worker-), <b>-minded</b> (like-, career-, money-, high-), <b>-proof</b> (oven-, water-, sound-, idiot-), <b>-related</b> (stress-, age-), <b>-ridden</b> (guilt-, crime-, bed-), <b>-worthy</b> (news-, praise-). Language help: first part usually singular (<b>university-led</b>, NOT universities-led).</p><p><i><b>còn tạo từ mới, đặt ra (từ)</b>; <b>-able</b> có thể; <b>-conscious</b> chú trọng; <b>-free</b> không có; <b>-rich</b> giàu; <b>-led</b> do… dẫn dắt; <b>-minded</b> có đầu óc; <b>-proof</b> chống; <b>-related</b> liên quan; <b>-ridden</b> đầy; <b>-worthy</b> đáng. Phần đầu thường số ít.</i></p> <p><b>B. Suffixes in different word classes</b><br><i>B. Hậu tố ở các từ loại khác nhau</i></p> <p><b>-ly</b> adjectives: <b>lively, costly, leisurely, miserly</b>; <b>-ant</b> nouns for people: <b>applicant, claimant, informant, contestant, occupant</b>; <b>-en</b> verbs from adjectives: <b>moisten, sweeten, worsen, redden</b>.</p><p><i><b>-ly</b> tạo tính từ: <b>sôi nổi, tốn kém, thong thả, keo kiệt</b>; <b>-ant</b> chỉ người: <b>ứng viên, người đòi bồi thường, người cung cấp tin, thí sinh, người cư ngụ</b>; <b>-en</b> tạo động từ: <b>làm ẩm, làm ngọt, xấu đi, đỏ lên</b>.</i></p>",
+ "items": [
+  {
+   "word": "productive",
+   "sense": "still used to create words",
+   "pos": "adjective",
+   "ipa": "/prəˈdʌktɪv/",
+   "def_en": "(Of a suffix or prefix) still used to create new words.",
+   "def_vi": "(Hậu tố, tiền tố) còn được dùng tạo từ mới.",
+   "gloss_vi": "có tính sinh sản",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Productive</i> (adjective) = có tính sinh sản. <b>Grammar</b>: nghĩa ngôn ngữ học.",
+   "example": {
+    "en": "Many suffixes (and prefixes too) are <b>productive</b>.",
+    "vi": "Nhiều hậu tố <b>còn tạo từ mới</b>."
+   }
+  },
+  {
+   "word": "coin",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kɔɪn/",
+   "def_en": "To create (a new word or phrase).",
+   "def_vi": "Đặt ra (từ mới).",
+   "gloss_vi": "đặt ra (từ)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Coin</i> (verb) = đặt ra (từ). <b>Collocations / chunks</b>: <i>coin a word/phrase</i>.",
+   "example": {
+    "en": "You might feel adventurous enough to try <b>coining</b> some words of your own!",
+    "vi": "Bạn có thể thử <b>đặt ra</b> vài từ của riêng mình!"
+   }
+  },
+  {
+   "word": "washable",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈwɒʃəbl/",
+   "def_en": "That can be washed.",
+   "def_vi": "Có thể giặt.",
+   "gloss_vi": "giặt được",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Washable</i> (adjective) = giặt được. <b>Grammar</b>: <i>-able</i> = có thể được.",
+   "example": {
+    "en": "a <b>washable</b> jacket",
+    "vi": "Một chiếc áo khoác <b>giặt được</b>."
+   }
+  },
+  {
+   "word": "disposable",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/dɪˈspəʊzəbl/",
+   "def_en": "Intended to be thrown away after use.",
+   "def_vi": "Dùng một lần rồi bỏ.",
+   "gloss_vi": "dùng một lần",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "reusable <i>(adj. dùng lại được)</i>",
+   "grammar_vi": "<i>Disposable</i> (adjective) = dùng một lần. <b>Grammar</b>: <i>-able</i> = có thể được.",
+   "example": {
+    "en": "<b>disposable</b> nappies",
+    "vi": "Tã <b>dùng một lần</b>."
+   }
+  },
+  {
+   "word": "avoidable",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/əˈvɔɪdəbl/",
+   "def_en": "That can be avoided.",
+   "def_vi": "Có thể tránh được.",
+   "gloss_vi": "tránh được",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "unavoidable <i>(adj. không tránh được)</i>",
+   "grammar_vi": "<i>Avoidable</i> (adjective) = tránh được. <b>Grammar</b>: <i>-able</i> = có thể được.",
+   "example": {
+    "en": "<b>avoidable</b> problems",
+    "vi": "Những vấn đề <b>tránh được</b>."
+   }
+  },
+  {
+   "word": "manageable",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈmænɪdʒəbl/",
+   "def_en": "That can be dealt with.",
+   "def_vi": "Có thể xử lý được.",
+   "gloss_vi": "kiểm soát được",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "unmanageable <i>(adj. không kiểm soát được)</i>",
+   "grammar_vi": "<i>Manageable</i> (adjective) = kiểm soát được. <b>Grammar</b>: <i>-able</i> = có thể được.",
+   "example": {
+    "en": "a <b>manageable</b> situation",
+    "vi": "Một tình huống <b>kiểm soát được</b>."
+   }
+  },
+  {
+   "word": "health-conscious",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈhelθ ˌkɒnʃəs/",
+   "def_en": "Considering health especially important.",
+   "def_vi": "Rất chú trọng sức khỏe.",
+   "gloss_vi": "chú trọng sức khỏe",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Health-conscious</i> (adjective) = chú trọng sức khỏe. <b>Grammar</b>: danh từ + <i>-conscious</i>.",
+   "example": {
+    "en": "<b>health-conscious</b> person",
+    "vi": "Một người <b>chú trọng sức khỏe</b>."
+   }
+  },
+  {
+   "word": "class-conscious",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈklɑːs ˌkɒnʃəs/",
+   "def_en": "Very aware of social class differences.",
+   "def_vi": "Rất ý thức về giai cấp.",
+   "gloss_vi": "nặng ý thức giai cấp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Class-conscious</i> (adjective) = nặng ý thức giai cấp. <b>Grammar</b>: danh từ + <i>-conscious</i>.",
+   "example": {
+    "en": "<b>class-conscious</b> society",
+    "vi": "Một xã hội <b>nặng ý thức giai cấp</b>."
+   }
+  },
+  {
+   "word": "stress-free",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌstres ˈfriː/",
+   "def_en": "Without stress.",
+   "def_vi": "Không căng thẳng.",
+   "gloss_vi": "không căng thẳng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stress-free</i> (adjective) = không căng thẳng. <b>Grammar</b>: danh từ (điều không mong muốn) + <i>-free</i>.",
+   "example": {
+    "en": "<b>stress-free</b> life",
+    "vi": "Một cuộc sống <b>không căng thẳng</b>."
+   }
+  },
+  {
+   "word": "additive-free",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌædətɪv ˈfriː/",
+   "def_en": "Without additives.",
+   "def_vi": "Không chất phụ gia.",
+   "gloss_vi": "không phụ gia",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Additive-free</i> (adjective) = không phụ gia. <b>Grammar</b>: danh từ + <i>-free</i>.",
+   "example": {
+    "en": "<b>additive-free</b> food",
+    "vi": "Thực phẩm <b>không phụ gia</b>."
+   }
+  },
+  {
+   "word": "calcium-rich",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈkælsiəm rɪtʃ/",
+   "def_en": "Containing a lot of calcium.",
+   "def_vi": "Chứa nhiều canxi.",
+   "gloss_vi": "giàu canxi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Calcium-rich</i> (adjective) = giàu canxi. <b>Grammar</b>: danh từ + <i>-rich</i>.",
+   "example": {
+    "en": "<b>calcium-rich</b> foods",
+    "vi": "Thực phẩm <b>giàu canxi</b>."
+   }
+  },
+  {
+   "word": "community-led",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kəˌmjuːnəti ˈled/",
+   "def_en": "Controlled or influenced by the community.",
+   "def_vi": "Do cộng đồng dẫn dắt.",
+   "gloss_vi": "do cộng đồng dẫn dắt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Community-led</i> (adjective) = do cộng đồng dẫn dắt. <b>Grammar</b>: danh từ số ít + <i>-led</i>.",
+   "example": {
+    "en": "<b>community-led</b> initiative",
+    "vi": "Một sáng kiến <b>do cộng đồng dẫn dắt</b>."
+   }
+  },
+  {
+   "word": "student-led",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌstjuːdnt ˈled/",
+   "def_en": "Controlled or organised by students.",
+   "def_vi": "Do sinh viên dẫn dắt.",
+   "gloss_vi": "do sinh viên tổ chức",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Student-led</i> (adjective) = do sinh viên tổ chức. <b>Grammar</b>: số ít <i>student-led</i> (không <i>students-led</i>).",
+   "example": {
+    "en": "<b>student-led</b> protest",
+    "vi": "Một cuộc biểu tình <b>do sinh viên tổ chức</b>."
+   }
+  },
+  {
+   "word": "like-minded",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌlaɪk ˈmaɪndɪd/",
+   "def_en": "With similar interests.",
+   "def_vi": "Có cùng sở thích.",
+   "gloss_vi": "cùng chí hướng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Like-minded</i> (adjective) = cùng chí hướng. <b>Grammar</b>: <i>-minded</i> = có đầu óc/thái độ.",
+   "example": {
+    "en": "<b>like-minded</b> friends",
+    "vi": "Những người bạn <b>cùng chí hướng</b>."
+   }
+  },
+  {
+   "word": "career-minded",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/kəˈrɪə ˌmaɪndɪd/",
+   "def_en": "Focused on their career.",
+   "def_vi": "Chú trọng sự nghiệp.",
+   "gloss_vi": "đặt nặng sự nghiệp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Career-minded</i> (adjective) = đặt nặng sự nghiệp. <b>Grammar</b>: danh từ + <i>-minded</i>.",
+   "example": {
+    "en": "<b>career-minded</b> young women",
+    "vi": "Những phụ nữ trẻ <b>đặt nặng sự nghiệp</b>."
+   }
+  },
+  {
+   "word": "high-minded",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌhaɪ ˈmaɪndɪd/",
+   "def_en": "Having high moral standards.",
+   "def_vi": "Có chuẩn mực đạo đức cao.",
+   "gloss_vi": "cao thượng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>High-minded</i> (adjective) = cao thượng. <b>Grammar</b>: tính từ + <i>-minded</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He is a <b>high-minded</b> man.",
+    "vi": "Ông ấy là người <b>cao thượng</b>."
+   }
+  },
+  {
+   "word": "ovenproof",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈʌvnpruːf/",
+   "def_en": "Able to resist damage in an oven.",
+   "def_vi": "Chịu được nhiệt lò nướng.",
+   "gloss_vi": "dùng được trong lò",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ovenproof</i> (adjective) = dùng được trong lò. <b>Grammar</b>: danh từ + <i>-proof</i> = chống.",
+   "example": {
+    "en": "<b>ovenproof</b> dish",
+    "vi": "Một chiếc đĩa <b>dùng được trong lò</b>."
+   }
+  },
+  {
+   "word": "soundproof",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsaʊndpruːf/",
+   "def_en": "Not letting sound pass through.",
+   "def_vi": "Không cho âm thanh lọt qua.",
+   "gloss_vi": "cách âm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Soundproof</i> (adjective) = cách âm. <b>Grammar</b>: danh từ + <i>-proof</i>.",
+   "example": {
+    "en": "<b>soundproof</b> room",
+    "vi": "Một căn phòng <b>cách âm</b>."
+   }
+  },
+  {
+   "word": "idiot-proof",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɪdiət pruːf/",
+   "def_en": "So simple that nobody can get it wrong (informal).",
+   "def_vi": "Đơn giản đến mức ai cũng làm đúng.",
+   "gloss_vi": "ai cũng làm được",
+   "synonyms": "foolproof <i>(adj. chắc chắn đúng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Idiot-proof</i> (adjective) = ai cũng làm được. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "<b>idiot-proof</b> instructions",
+    "vi": "Hướng dẫn <b>ai cũng làm được</b>."
+   }
+  },
+  {
+   "word": "stress-related",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈstres rɪˌleɪtɪd/",
+   "def_en": "Connected with stress.",
+   "def_vi": "Liên quan đến căng thẳng.",
+   "gloss_vi": "liên quan đến căng thẳng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stress-related</i> (adjective) = liên quan đến căng thẳng. <b>Grammar</b>: danh từ số ít + <i>-related</i>.",
+   "example": {
+    "en": "<b>stress-related</b> absence from work",
+    "vi": "Nghỉ làm vì lý do <b>liên quan đến căng thẳng</b>."
+   }
+  },
+  {
+   "word": "age-related",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈeɪdʒ rɪˌleɪtɪd/",
+   "def_en": "Connected with age.",
+   "def_vi": "Liên quan đến tuổi tác.",
+   "gloss_vi": "liên quan đến tuổi tác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Age-related</i> (adjective) = liên quan đến tuổi tác. <b>Grammar</b>: danh từ số ít + <i>-related</i>.",
+   "example": {
+    "en": "<b>age-related</b> illness",
+    "vi": "Bệnh <b>liên quan đến tuổi tác</b>."
+   }
+  },
+  {
+   "word": "guilt-ridden",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɡɪlt ˌrɪdn/",
+   "def_en": "Full of guilt.",
+   "def_vi": "Đầy cảm giác tội lỗi.",
+   "gloss_vi": "day dứt tội lỗi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Guilt-ridden</i> (adjective) = day dứt tội lỗi. <b>Grammar</b>: danh từ + <i>-ridden</i> = đầy.",
+   "example": {
+    "en": "<b>guilt-ridden</b> person",
+    "vi": "Một người <b>day dứt tội lỗi</b>."
+   }
+  },
+  {
+   "word": "crime-ridden",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈkraɪm ˌrɪdn/",
+   "def_en": "Full of crime.",
+   "def_vi": "Đầy tội phạm.",
+   "gloss_vi": "đầy tội phạm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Crime-ridden</i> (adjective) = đầy tội phạm. <b>Grammar</b>: danh từ + <i>-ridden</i>.",
+   "example": {
+    "en": "<b>crime-ridden</b> city",
+    "vi": "Một thành phố <b>đầy tội phạm</b>."
+   }
+  },
+  {
+   "word": "bedridden",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈbedrɪdn/",
+   "def_en": "Having to stay in bed because of illness.",
+   "def_vi": "Phải nằm liệt giường vì bệnh.",
+   "gloss_vi": "nằm liệt giường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bedridden</i> (adjective) = nằm liệt giường. <b>Grammar</b>: <i>bed</i> + <i>-ridden</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "My grandmother was <b>bedridden</b> for months.",
+    "vi": "Bà tôi <b>nằm liệt giường</b> nhiều tháng."
+   }
+  },
+  {
+   "word": "newsworthy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈnjuːzwɜːði/",
+   "def_en": "Worth reporting in the news.",
+   "def_vi": "Đáng đưa tin.",
+   "gloss_vi": "đáng đưa tin",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Newsworthy</i> (adjective) = đáng đưa tin. <b>Grammar</b>: danh từ + <i>-worthy</i> = đáng.",
+   "example": {
+    "en": "<b>newsworthy</b> incident",
+    "vi": "Một sự việc <b>đáng đưa tin</b>."
+   }
+  },
+  {
+   "word": "lively",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈlaɪvli/",
+   "def_en": "Full of energy.",
+   "def_vi": "Đầy năng lượng.",
+   "gloss_vi": "sôi nổi, hiếu động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lively</i> (adjective) = sôi nổi, hiếu động. <b>Grammar</b>: <i>-ly</i> tạo tính từ, không phải trạng từ.",
+   "example": {
+    "en": "<b>lively</b> children",
+    "vi": "Những đứa trẻ <b>hiếu động</b>."
+   }
+  },
+  {
+   "word": "costly",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈkɒstli/",
+   "def_en": "Expensive.",
+   "def_vi": "Đắt tiền.",
+   "gloss_vi": "tốn kém",
+   "synonyms": "expensive <i>(adj. đắt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Costly</i> (adjective) = tốn kém. <b>Grammar</b>: <i>-ly</i> tạo tính từ.",
+   "example": {
+    "en": "<b>costly</b> holiday",
+    "vi": "Một kỳ nghỉ <b>tốn kém</b>."
+   }
+  },
+  {
+   "word": "leisurely",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈleʒəli/",
+   "def_en": "Relaxed.",
+   "def_vi": "Thư thả.",
+   "gloss_vi": "thong thả",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Leisurely</i> (adjective) = thong thả. <b>Grammar</b>: <i>-ly</i> tạo tính từ.",
+   "example": {
+    "en": "<b>leisurely</b> walk",
+    "vi": "Một cuộc dạo bộ <b>thong thả</b>."
+   }
+  },
+  {
+   "word": "miserly",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈmaɪzəli/",
+   "def_en": "Mean with money.",
+   "def_vi": "Keo kiệt.",
+   "gloss_vi": "keo kiệt",
+   "synonyms": "stingy <i>(adj. keo kiệt)</i>",
+   "antonyms": "generous <i>(adj. hào phóng)</i>",
+   "grammar_vi": "<i>Miserly</i> (adjective) = keo kiệt. <b>Grammar</b>: <i>miser</i> + <i>-ly</i>.",
+   "example": {
+    "en": "<b>miserly</b> man",
+    "vi": "Một người đàn ông <b>keo kiệt</b>."
+   }
+  },
+  {
+   "word": "applicant",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈæplɪkənt/",
+   "def_en": "A person who applies for a job.",
+   "def_vi": "Người nộp đơn xin việc.",
+   "gloss_vi": "ứng viên",
+   "synonyms": "candidate <i>(n. ứng viên)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Applicant</i> (noun) = ứng viên. <b>Grammar</b>: <i>-ant</i> = người làm.",
+   "example": {
+    "en": "an <b>applicant</b> for a job",
+    "vi": "Một <b>ứng viên</b> cho công việc."
+   }
+  },
+  {
+   "word": "claimant",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkleɪmənt/",
+   "def_en": "A person who claims money, e.g. from insurance.",
+   "def_vi": "Người đòi tiền, vd bảo hiểm.",
+   "gloss_vi": "người đòi bồi thường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Claimant</i> (noun) = người đòi bồi thường. <b>Grammar</b>: <i>claim</i> + <i>-ant</i>.",
+   "example": {
+    "en": "an insurance <b>claimant</b>",
+    "vi": "Một <b>người đòi bồi thường</b> bảo hiểm."
+   }
+  },
+  {
+   "word": "informant",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˈfɔːmənt/",
+   "def_en": "A person who gives information, e.g. to the police.",
+   "def_vi": "Người cung cấp thông tin, vd cho cảnh sát.",
+   "gloss_vi": "người cung cấp tin",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Informant</i> (noun) = người cung cấp tin. <b>Grammar</b>: <i>inform</i> + <i>-ant</i>.",
+   "example": {
+    "en": "a police <b>informant</b>",
+    "vi": "Một <b>người cung cấp tin</b> cho cảnh sát."
+   }
+  },
+  {
+   "word": "contestant",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kənˈtestənt/",
+   "def_en": "A person who takes part in a competition.",
+   "def_vi": "Người tham gia cuộc thi.",
+   "gloss_vi": "thí sinh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Contestant</i> (noun) = thí sinh. <b>Grammar</b>: <i>contest</i> + <i>-ant</i>.",
+   "example": {
+    "en": "a quiz <b>contestant</b>",
+    "vi": "Một <b>thí sinh</b> trò chơi đố vui."
+   }
+  },
+  {
+   "word": "occupant",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɒkjəpənt/",
+   "def_en": "A person who lives in a house.",
+   "def_vi": "Người sống trong ngôi nhà.",
+   "gloss_vi": "người cư ngụ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Occupant</i> (noun) = người cư ngụ. <b>Grammar</b>: <i>occupy</i> → <i>occupant</i>.",
+   "example": {
+    "en": "an <b>occupant</b> of a house",
+    "vi": "Một <b>người cư ngụ</b> trong ngôi nhà."
+   }
+  },
+  {
+   "word": "moisten",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈmɔɪsn/",
+   "def_en": "To make moist.",
+   "def_vi": "Làm ẩm.",
+   "gloss_vi": "làm ẩm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Moisten</i> (verb) = làm ẩm. <b>Grammar</b>: <i>-en</i> tạo động từ từ tính từ; <i>t</i> câm.",
+   "example": {
+    "en": "to <b>moisten</b> your lips",
+    "vi": "<b>Làm ẩm</b> môi."
+   }
+  },
+  {
+   "word": "sweeten",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈswiːtn/",
+   "def_en": "To make sweet.",
+   "def_vi": "Làm ngọt.",
+   "gloss_vi": "làm ngọt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sweeten</i> (verb) = làm ngọt. <b>Grammar</b>: <i>sweet</i> + <i>-en</i>.",
+   "example": {
+    "en": "to <b>sweeten</b> tea",
+    "vi": "<b>Làm ngọt</b> trà."
+   }
+  },
+  {
+   "word": "worsen",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈwɜːsn/",
+   "def_en": "To become worse.",
+   "def_vi": "Trở nên tệ hơn.",
+   "gloss_vi": "xấu đi",
+   "synonyms": "deteriorate <i>(v. xấu đi)</i>",
+   "antonyms": "improve <i>(v. cải thiện)</i>",
+   "grammar_vi": "<i>Worsen</i> (verb) = xấu đi. <b>Grammar</b>: <i>worse</i> + <i>-en</i>.",
+   "example": {
+    "en": "a situation <b>worsens</b>",
+    "vi": "Một tình huống <b>xấu đi</b>."
+   }
+  },
+  {
+   "word": "redden",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈredn/",
+   "def_en": "To become red.",
+   "def_vi": "Trở nên đỏ.",
+   "gloss_vi": "đỏ lên",
+   "synonyms": "blush <i>(v. đỏ mặt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Redden</i> (verb) = đỏ lên. <b>Grammar</b>: <i>red</i> + <i>-en</i>.",
+   "example": {
+    "en": "a face <b>reddens</b>",
+    "vi": "Gương mặt <b>đỏ lên</b>."
+   }
+  }
+ ]
+}

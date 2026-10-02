@@ -1,0 +1,514 @@
+{
+ "book": "adv",
+ "unit": 85,
+ "title_vi": "Chữ viết tắt và từ cấu tạo từ chữ đầu",
+ "theory_html": "<p><b>A. Abbreviations pronounced as individual letters</b><br><i>A. Viết tắt đọc từng chữ cái</i></p> <p><b>e.g., i.e., AD (CE), BC (BCE), EU, ID, NB, IQ, PTO, USB, FAQ, ASAP, VIP, RSVP, UFO</b>.</p><p><i><b>ví dụ, tức là, sau Công nguyên, trước Công nguyên, Liên minh châu Âu, giấy tờ tùy thân, lưu ý, chỉ số thông minh, xem trang sau, cổng USB, câu hỏi thường gặp, càng sớm càng tốt, khách quan trọng, vui lòng hồi âm, vật thể bay không xác định</b>.</i></p> <p><b>B. Shortened and blended words</b><br><i>B. Từ rút gọn và ghép</i></p> <p><b>bedsit, sitcom, sci-fi, info, biodata, biopic, wi-fi</b>.</p><p><i><b>phòng trọ một gian, phim hài tình huống, khoa học viễn tưởng, thông tin, lý lịch, phim tiểu sử, wifi</b>.</i></p> <p><b>C. Acronyms</b><br><i>C. Từ viết tắt đọc như một từ</i></p> <p>Formed from first letters (or syllables) and pronounced as a word: <b>AIDS, NATO, PIN, VAT</b>.</p><p><i>Tạo từ chữ cái đầu, đọc như một từ.</i></p> <p><b>D. Abbreviations in academic writing and bibliographies</b><br><i>D. Viết tắt trong văn bản học thuật</i></p> <p><b>fig., ed. (eds.), p. (pp.), cf., et al.</b></p><p><i><b>hình, biên tập viên, trang, so sánh, và cộng sự</b>.</i></p>",
+ "items": [
+  {
+   "word": "e.g.",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌiː ˈdʒiː/",
+   "def_en": "For example (from Latin exempli gratia).",
+   "def_vi": "Ví dụ (từ tiếng Latinh).",
+   "gloss_vi": "ví dụ",
+   "synonyms": "for example <i>(adv. ví dụ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>E.g.</i> (adverb) = ví dụ. <b>Grammar</b>: viết tắt Latinh <i>exempli gratia</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Bring some fruit, <b>e.g.</b> apples or bananas.",
+    "vi": "Mang trái cây, <b>ví dụ</b> táo hay chuối."
+   }
+  },
+  {
+   "word": "i.e.",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌaɪ ˈiː/",
+   "def_en": "That is (from Latin id est).",
+   "def_vi": "Tức là (từ tiếng Latinh).",
+   "gloss_vi": "tức là",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>I.e.</i> (adverb) = tức là. <b>Grammar</b>: viết tắt Latinh <i>id est</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The deadline is the end of the month, <b>i.e.</b> the 31st.",
+    "vi": "Hạn chót là cuối tháng, <b>tức là</b> ngày 31."
+   }
+  },
+  {
+   "word": "AD",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌeɪ ˈdiː/",
+   "def_en": "The year of our Lord, used to count years since the birth of Christ (from Latin Anno Domini).",
+   "def_vi": "Năm sau Công nguyên (Latinh Anno Domini).",
+   "gloss_vi": "sau Công nguyên",
+   "synonyms": "CE <i>(adv. Công nguyên)</i>",
+   "antonyms": "BC <i>(adv. trước Công nguyên)</i>",
+   "grammar_vi": "<i>AD</i> (adverb) = sau Công nguyên. <b>Grammar</b>: nhiều người dùng <i>CE</i> (Common Era).",
+   "ex_kit": true,
+   "example": {
+    "en": "The castle was built in 1100 <b>AD</b>.",
+    "vi": "Lâu đài được xây năm 1100 <b>sau Công nguyên</b>."
+   }
+  },
+  {
+   "word": "BC",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌbiː ˈsiː/",
+   "def_en": "Before Christ, used to count years before the birth of Christ.",
+   "def_vi": "Trước Công nguyên.",
+   "gloss_vi": "trước Công nguyên",
+   "synonyms": "BCE <i>(adv. trước Công nguyên)</i>",
+   "antonyms": "AD <i>(adv. sau Công nguyên)</i>",
+   "grammar_vi": "<i>BC</i> (adverb) = trước Công nguyên. <b>Grammar</b>: nhiều người dùng <i>BCE</i> (before the Common Era).",
+   "ex_kit": true,
+   "example": {
+    "en": "The city was founded in 500 <b>BC</b>.",
+    "vi": "Thành phố được lập năm 500 <b>trước Công nguyên</b>."
+   }
+  },
+  {
+   "word": "ID",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌaɪ ˈdiː/",
+   "def_en": "Identity document.",
+   "def_vi": "Giấy tờ tùy thân.",
+   "gloss_vi": "giấy tờ tùy thân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>ID</i> (noun) = giấy tờ tùy thân. <b>Grammar</b>: viết tắt <i>identity document</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "You need to bring some <b>ID</b>.",
+    "vi": "Bạn cần mang theo <b>giấy tờ tùy thân</b>."
+   }
+  },
+  {
+   "word": "NB",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌen ˈbiː/",
+   "def_en": "Note well (from Latin nota bene); used to point out something important.",
+   "def_vi": "Lưu ý (Latinh nota bene).",
+   "gloss_vi": "lưu ý",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>NB</i> (adverb) = lưu ý. <b>Grammar</b>: viết tắt Latinh <i>nota bene</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>NB</b>: The library is closed on Mondays.",
+    "vi": "<b>Lưu ý</b>: thư viện đóng cửa ngày thứ Hai."
+   }
+  },
+  {
+   "word": "IQ",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌaɪ ˈkjuː/",
+   "def_en": "Intelligence quotient: a way of measuring intelligence using numbers.",
+   "def_vi": "Chỉ số thông minh.",
+   "gloss_vi": "chỉ số IQ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>IQ</i> (noun) = chỉ số IQ. <b>Grammar</b>: viết tắt <i>intelligence quotient</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She has a very high <b>IQ</b>.",
+    "vi": "Cô ấy có <b>chỉ số IQ</b> rất cao."
+   }
+  },
+  {
+   "word": "PTO",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ˌpiː tiː ˈəʊ/",
+   "def_en": "Please turn over.",
+   "def_vi": "Vui lòng xem trang sau.",
+   "gloss_vi": "xem trang sau",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>PTO</i> (cl) = xem trang sau. <b>Grammar</b>: viết tắt <i>please turn over</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "At the bottom of the page it said <b>PTO</b>.",
+    "vi": "Cuối trang có ghi <b>‘xem trang sau’</b>."
+   }
+  },
+  {
+   "word": "USB",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌjuː es ˈbiː/",
+   "def_en": "Universal Serial Bus: a type of connection between a computer and an electronic device.",
+   "def_vi": "Cổng kết nối máy tính với thiết bị.",
+   "gloss_vi": "cổng USB",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>USB</i> (noun) = cổng USB. <b>Grammar</b>: viết tắt <i>Universal Serial Bus</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Plug the camera into the <b>USB</b> port.",
+    "vi": "Cắm máy ảnh vào cổng <b>USB</b>."
+   }
+  },
+  {
+   "word": "ASAP",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌeɪ es eɪ ˈpiː/",
+   "def_en": "As soon as possible.",
+   "def_vi": "Càng sớm càng tốt.",
+   "gloss_vi": "càng sớm càng tốt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>ASAP</i> (adverb) = càng sớm càng tốt. <b>Grammar</b>: viết tắt <i>as soon as possible</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Please reply <b>ASAP</b>.",
+    "vi": "Vui lòng trả lời <b>càng sớm càng tốt</b>."
+   }
+  },
+  {
+   "word": "VIP",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌviː aɪ ˈpiː/",
+   "def_en": "A very important person.",
+   "def_vi": "Người rất quan trọng.",
+   "gloss_vi": "khách VIP",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>VIP</i> (noun) = khách VIP. <b>Grammar</b>: viết tắt <i>very important person</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "There is a separate lounge for <b>VIPs</b>.",
+    "vi": "Có phòng chờ riêng cho <b>khách VIP</b>."
+   }
+  },
+  {
+   "word": "RSVP",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɑːr es viː ˈpiː/",
+   "def_en": "Please reply (used on invitations; from French répondez s’il vous plaît).",
+   "def_vi": "Vui lòng hồi âm (trên thiệp mời).",
+   "gloss_vi": "vui lòng hồi âm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>RSVP</i> (verb) = vui lòng hồi âm. <b>Grammar</b>: viết tắt tiếng Pháp.",
+   "ex_kit": true,
+   "example": {
+    "en": "The invitation says <b>RSVP</b> by 1 May.",
+    "vi": "Thiệp mời ghi <b>‘vui lòng hồi âm’</b> trước ngày 1/5."
+   }
+  },
+  {
+   "word": "UFO",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌjuː ef ˈəʊ/",
+   "def_en": "Unidentified flying object; often an alien spaceship.",
+   "def_vi": "Vật thể bay không xác định; thường là tàu người ngoài hành tinh.",
+   "gloss_vi": "vật thể bay không xác định",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>UFO</i> (noun) = vật thể bay không xác định. <b>Grammar</b>: viết tắt <i>unidentified flying object</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He claims he saw a <b>UFO</b>.",
+    "vi": "Anh ấy khẳng định đã thấy <b>UFO</b>."
+   }
+  },
+  {
+   "word": "bedsit",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbedsɪt/",
+   "def_en": "A flat with only one room which is a bedroom and a sitting room.",
+   "def_vi": "Căn hộ một phòng vừa ngủ vừa sinh hoạt.",
+   "gloss_vi": "phòng trọ một gian",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bedsit</i> (noun) = phòng trọ một gian. <b>Grammar</b>: ghép <i>bedroom</i> + <i>sitting room</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "As a student I lived in a <b>bedsit</b>.",
+    "vi": "Hồi sinh viên tôi sống trong <b>phòng trọ một gian</b>."
+   }
+  },
+  {
+   "word": "sitcom",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɪtkɒm/",
+   "def_en": "Situational comedy: a kind of humorous TV programme.",
+   "def_vi": "Hài tình huống: chương trình TV hài.",
+   "gloss_vi": "phim hài tình huống",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sitcom</i> (noun) = phim hài tình huống. <b>Grammar</b>: ghép <i>situational</i> + <i>comedy</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "It’s my favourite <b>sitcom</b>.",
+    "vi": "Đó là <b>phim hài tình huống</b> tôi thích nhất."
+   }
+  },
+  {
+   "word": "sci-fi",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsaɪfaɪ/",
+   "def_en": "Science fiction.",
+   "def_vi": "Khoa học viễn tưởng.",
+   "gloss_vi": "khoa học viễn tưởng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sci-fi</i> (noun) = khoa học viễn tưởng. <b>Grammar</b>: rút gọn <i>science fiction</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He loves <b>sci-fi</b> films.",
+    "vi": "Anh ấy mê phim <b>khoa học viễn tưởng</b>."
+   }
+  },
+  {
+   "word": "info",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɪnfəʊ/",
+   "def_en": "Information (informal).",
+   "def_vi": "Thông tin (thân mật).",
+   "gloss_vi": "thông tin",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Info</i> (noun) = thông tin. <b>Grammar</b>: rút gọn <i>information</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "See the website for more <b>info</b>.",
+    "vi": "Xem trang web để biết thêm <b>thông tin</b>."
+   }
+  },
+  {
+   "word": "biodata",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbaɪəʊ deɪtə/",
+   "def_en": "Biographical data: details about someone’s life, job and achievements.",
+   "def_vi": "Dữ liệu tiểu sử: đời sống, công việc, thành tích.",
+   "gloss_vi": "lý lịch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Biodata</i> (noun) = lý lịch. <b>Grammar</b>: ghép <i>biographical</i> + <i>data</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Please send us your short <b>biodata</b>.",
+    "vi": "Vui lòng gửi <b>lý lịch</b> ngắn của bạn."
+   }
+  },
+  {
+   "word": "biopic",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbaɪəʊpɪk/",
+   "def_en": "Biographical picture: a film about the life of a real person.",
+   "def_vi": "Phim về cuộc đời người thật.",
+   "gloss_vi": "phim tiểu sử",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Biopic</i> (noun) = phim tiểu sử. <b>Grammar</b>: ghép <i>biographical</i> + <i>picture</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "There was a <b>biopic</b> about her last year.",
+    "vi": "Năm ngoái có <b>phim tiểu sử</b> về cô ấy."
+   }
+  },
+  {
+   "word": "acronym",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈækrənɪm/",
+   "def_en": "An abbreviation formed from first letters and pronounced as a word.",
+   "def_vi": "Từ viết tắt từ chữ đầu, đọc như một từ.",
+   "gloss_vi": "từ viết tắt đọc như từ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Acronym</i> (noun) = từ viết tắt đọc như từ. <b>Grammar</b>: khác viết tắt đọc từng chữ (<i>FBI</i>).",
+   "ex_kit": true,
+   "example": {
+    "en": "NATO is an <b>acronym</b>.",
+    "vi": "NATO là một <b>từ viết tắt đọc như từ</b>."
+   }
+  },
+  {
+   "word": "AIDS",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/eɪdz/",
+   "def_en": "Acquired immune deficiency syndrome.",
+   "def_vi": "Hội chứng suy giảm miễn dịch mắc phải.",
+   "gloss_vi": "AIDS",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>AIDS</i> (noun) = AIDS. <b>Grammar</b>: acronym, đọc /eɪdz/.",
+   "ex_kit": true,
+   "example": {
+    "en": "They raise money for <b>AIDS</b> research.",
+    "vi": "Họ gây quỹ nghiên cứu <b>AIDS</b>."
+   }
+  },
+  {
+   "word": "NATO",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈneɪtəʊ/",
+   "def_en": "North Atlantic Treaty Organisation.",
+   "def_vi": "Tổ chức Hiệp ước Bắc Đại Tây Dương.",
+   "gloss_vi": "NATO",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>NATO</i> (noun) = NATO. <b>Grammar</b>: acronym, đọc /ˈneɪtəʊ/.",
+   "ex_kit": true,
+   "example": {
+    "en": "The country joined <b>NATO</b> in 2004.",
+    "vi": "Nước này gia nhập <b>NATO</b> năm 2004."
+   }
+  },
+  {
+   "word": "PIN",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pɪn/",
+   "def_en": "Personal identification number (used on bank cards, etc.).",
+   "def_vi": "Mã số cá nhân (thẻ ngân hàng...).",
+   "gloss_vi": "mã PIN",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>PIN</i> (noun) = mã PIN. <b>Grammar</b>: acronym; nói <i>PIN</i> (không <i>PIN number</i> trong văn trang trọng).",
+   "ex_kit": true,
+   "example": {
+    "en": "Enter your <b>PIN</b>.",
+    "vi": "Nhập <b>mã PIN</b> của bạn."
+   }
+  },
+  {
+   "word": "VAT",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/væt/",
+   "def_en": "Value-added tax (a kind of tax on goods).",
+   "def_vi": "Thuế giá trị gia tăng.",
+   "gloss_vi": "thuế VAT",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>VAT</i> (noun) = thuế VAT. <b>Grammar</b>: đọc /væt/ hoặc /ˌviː eɪ ˈtiː/.",
+   "ex_kit": true,
+   "example": {
+    "en": "The price includes <b>VAT</b>.",
+    "vi": "Giá đã bao gồm <b>thuế VAT</b>."
+   }
+  },
+  {
+   "word": "fig.",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/fɪɡ/",
+   "def_en": "Figure (a picture or drawing in a book).",
+   "def_vi": "Hình (trong sách).",
+   "gloss_vi": "hình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fig.</i> (noun) = hình. <b>Grammar</b>: viết tắt <i>figure</i>.",
+   "example": {
+    "en": "See <b>fig.</b> 2.",
+    "vi": "Xem <b>hình</b> 2."
+   }
+  },
+  {
+   "word": "pp.",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpeɪdʒɪz/",
+   "def_en": "Pages (singular p. = page).",
+   "def_vi": "Các trang (số ít p.).",
+   "gloss_vi": "trang",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pp.</i> (noun) = trang. <b>Grammar</b>: <i>p.</i> = page, <i>pp.</i> = pages.",
+   "example": {
+    "en": "see <b>pp.</b> 58–61",
+    "vi": "Xem <b>trang</b> 58–61."
+   }
+  },
+  {
+   "word": "cf.",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌsiː ˈef/",
+   "def_en": "Compare.",
+   "def_vi": "So sánh.",
+   "gloss_vi": "so sánh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cf.</i> (verb) = so sánh. <b>Grammar</b>: viết tắt Latinh <i>confer</i>.",
+   "example": {
+    "en": "Carter (1997) investigated core vocabulary (<b>cf.</b> Lee 1987).",
+    "vi": "Carter (1997) nghiên cứu từ vựng cốt lõi (<b>so sánh</b> Lee 1987)."
+   }
+  },
+  {
+   "word": "et al.",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/et ˈæl/",
+   "def_en": "And others (in references to works with several authors).",
+   "def_vi": "Và cộng sự (trích dẫn nhiều tác giả).",
+   "gloss_vi": "và cộng sự",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Et al.</i> (adverb) = và cộng sự. <b>Grammar</b>: viết tắt Latinh <i>et alii</i>; thường ba tác giả trở lên.",
+   "example": {
+    "en": "O’Keeffe <b>et al.</b> (2010) discuss this problem.",
+    "vi": "O’Keeffe <b>và cộng sự</b> (2010) bàn về vấn đề này."
+   }
+  },
+  {
+   "word": "EU",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌiː ˈjuː/",
+   "def_en": "The European Union.",
+   "def_vi": "Liên minh châu Âu.",
+   "gloss_vi": "EU",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>EU</i> (noun) = EU. <b>Grammar</b>: viết tắt <i>European Union</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "France is a member of the <b>EU</b>.",
+    "vi": "Pháp là thành viên <b>EU</b>."
+   }
+  },
+  {
+   "word": "FAQ",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌef eɪ ˈkjuː/",
+   "def_en": "Frequently asked questions.",
+   "def_vi": "Câu hỏi thường gặp.",
+   "gloss_vi": "câu hỏi thường gặp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>FAQ</i> (noun) = câu hỏi thường gặp. <b>Grammar</b>: viết tắt <i>frequently asked questions</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Read the <b>FAQs</b> on the website.",
+    "vi": "Đọc mục <b>câu hỏi thường gặp</b> trên trang web."
+   }
+  }
+ ]
+}
