@@ -1,0 +1,312 @@
+{
+ "book": "upp",
+ "unit": 21,
+ "title_vi": "Âm nhạc",
+ "theory_html": "<p><b>A. Downloading and managing your music</b><br><i>A. Tải và quản lý nhạc</i></p> <p><b>MP3 files; download an album or individual tracks; playlists; sync (synchronise) files; stream music</b>.</p><p><i><b>tải về, bài, danh sách phát, đồng bộ, phát trực tuyến</b>.</i></p> <p><b>B. A typical rock band</b><br><i>B. Một ban nhạc rock</i></p> <p><b>lead singer, lead guitar, keyboard player, drums / drummer, bass (guitarist)</b>.</p><p><i><b>ca sĩ chính, ghi-ta chính, người chơi keyboard, tay trống, người chơi bass</b>.</i></p> <p><b>C. Types of music</b><br><i>C. Thể loại nhạc</i></p> <p><b>tastes in music; classical, folk, jazz, R&B, hip-hop, rap, 60s music, soundtracks, canned music</b>; <b>be into</b>. <b>classical music</b> (NOT <b>classic</b>); <b>music</b> uncountable.</p><p><i><b>gu, cổ điển, dân gian, R&B, hip-hop, rap, nhạc phim, nhạc nền phát sẵn; mê</b>.</i></p> <p><b>D. Collocations for musical activities</b><br><i>D. Kết hợp từ về hoạt động âm nhạc</i></p> <p><b>read music; play by ear; have a good ear; pick out a tune; a talented / trained musician; make music</b>.</p><p><i><b>đọc nốt nhạc, chơi theo tai, tai thính, dò ra giai điệu, nhạc công có tài / được đào tạo</b>.</i></p>",
+ "items": [
+  {
+   "word": "playlist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpleɪlɪst/",
+   "def_en": "A list of songs you save so you can find them easily.",
+   "def_vi": "Danh sách bài hát lưu lại để dễ tìm.",
+   "gloss_vi": "danh sách phát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Playlist</i> (noun) = danh sách phát. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "You can save your favourite albums and tracks in <b>playlists</b> so you can find them easily.",
+    "vi": "Bạn có thể lưu bài yêu thích trong <b>danh sách phát</b>."
+   }
+  },
+  {
+   "word": "sync",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/sɪŋk/",
+   "def_en": "To have exactly the same files on more than one device.",
+   "def_vi": "Có cùng tệp trên nhiều thiết bị.",
+   "gloss_vi": "đồng bộ",
+   "synonyms": "synchronise <i>(v. đồng bộ hóa)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sync</i> (verb) = đồng bộ. <b>Grammar</b>: thân mật; trang trọng <i>synchronise</i>.",
+   "example": {
+    "en": "You can <b>sync</b> the music files on your computer with your phone.",
+    "vi": "Bạn có thể <b>đồng bộ</b> tệp nhạc trên máy tính với điện thoại."
+   }
+  },
+  {
+   "word": "stream",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/striːm/",
+   "def_en": "To play music in real time from one source to another.",
+   "def_vi": "Phát nhạc trực tiếp từ nguồn này sang nguồn khác.",
+   "gloss_vi": "phát trực tuyến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stream</i> (verb) = phát trực tuyến. <b>Grammar</b>: <i>streaming</i> (n.).",
+   "example": {
+    "en": "You can also <b>stream</b> music from the Internet.",
+    "vi": "Bạn cũng có thể <b>phát trực tuyến</b> nhạc từ Internet."
+   }
+  },
+  {
+   "word": "lead singer",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌliːd ˈsɪŋə(r)/",
+   "def_en": "The main singer in a band.",
+   "def_vi": "Ca sĩ chính trong ban nhạc.",
+   "gloss_vi": "ca sĩ chính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lead singer</i> (noun phrase) = ca sĩ chính. <b>Grammar</b>: <i>lead</i> /liːd/.",
+   "example": {
+    "en": "She’s <b>lead singer</b> in a rock band.",
+    "vi": "Cô ấy là <b>ca sĩ chính</b> trong một ban nhạc rock."
+   }
+  },
+  {
+   "word": "lead guitar",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌliːd ɡɪˈtɑː(r)/",
+   "def_en": "The main guitar part in a band.",
+   "def_vi": "Phần ghi-ta chính trong ban nhạc.",
+   "gloss_vi": "ghi-ta chính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lead guitar</i> (noun phrase) = ghi-ta chính. <b>Grammar</b>: <i>play lead guitar</i>.",
+   "example": {
+    "en": "One of her brothers plays <b>lead guitar</b>.",
+    "vi": "Một người anh chơi <b>ghi-ta chính</b>."
+   }
+  },
+  {
+   "word": "keyboard player",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈkiːbɔːd ˌpleɪə(r)/",
+   "def_en": "A person who plays an electronic keyboard.",
+   "def_vi": "Người chơi đàn phím điện tử.",
+   "gloss_vi": "người chơi keyboard",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Keyboard player</i> (noun phrase) = người chơi keyboard. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Her other brother is a <b>keyboard player</b>.",
+    "vi": "Người anh kia là <b>người chơi keyboard</b>."
+   }
+  },
+  {
+   "word": "bass guitarist",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌbeɪs ɡɪˈtɑːrɪst/",
+   "def_en": "A person who plays the bass guitar.",
+   "def_vi": "Người chơi ghi-ta bass.",
+   "gloss_vi": "người chơi bass",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bass guitarist</i> (noun phrase) = người chơi bass. <b>Grammar</b>: <i>bass</i> /beɪs/.",
+   "example": {
+    "en": "I think I could become a fairly good <b>bass guitarist</b>.",
+    "vi": "Tôi nghĩ tôi có thể thành <b>người chơi bass</b> khá giỏi."
+   }
+  },
+  {
+   "word": "R&B",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɑːr ən ˈbiː/",
+   "def_en": "Rhythm and blues, a form of popular music with a strong rhythm.",
+   "def_vi": "Nhạc rhythm and blues, nhịp mạnh.",
+   "gloss_vi": "nhạc R&B",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>R&B</i> (noun) = nhạc R&B. <b>Grammar</b>: viết tắt <i>rhythm and blues</i>.",
+   "example": {
+    "en": "I like <b>R&B</b> and hip-hop.",
+    "vi": "Tôi thích <b>R&B</b> và hip-hop."
+   }
+  },
+  {
+   "word": "hip-hop",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhɪp hɒp/",
+   "def_en": "A style of popular music where the words are spoken rather than sung.",
+   "def_vi": "Phong cách nhạc mà lời được nói thay vì hát.",
+   "gloss_vi": "nhạc hip-hop",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hip-hop</i> (noun) = nhạc hip-hop. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "I like R&B and <b>hip-hop</b>.",
+    "vi": "Tôi thích R&B và <b>hip-hop</b>."
+   }
+  },
+  {
+   "word": "rap",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ræp/",
+   "def_en": "The words spoken in hip-hop music.",
+   "def_vi": "Lời nói trong nhạc hip-hop.",
+   "gloss_vi": "nhạc rap",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rap</i> (noun) = nhạc rap. <b>Grammar</b>: cũng là động từ; <i>rapper</i>.",
+   "example": {
+    "en": "I even compose a bit of <b>rap</b> myself!",
+    "vi": "Tôi còn tự sáng tác một chút <b>rap</b>!"
+   }
+  },
+  {
+   "word": "be into",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/bi ˈɪntə/",
+   "def_en": "To be interested in and enthusiastic about (informal).",
+   "def_vi": "Thích và say mê (thân mật).",
+   "gloss_vi": "mê",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be into</i> (verb phrase) = mê. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "My older brother <b>is into</b> The Beatles.",
+    "vi": "Anh trai tôi <b>mê</b> The Beatles."
+   }
+  },
+  {
+   "word": "soundtrack",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsaʊndtræk/",
+   "def_en": "Music from a film or TV show.",
+   "def_vi": "Nhạc từ phim hay chương trình TV.",
+   "gloss_vi": "nhạc phim",
+   "synonyms": "score <i>(n. nhạc phim)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Soundtrack</i> (noun) = nhạc phim. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "My mother loves film <b>soundtracks</b>.",
+    "vi": "Mẹ tôi thích <b>nhạc phim</b>."
+   }
+  },
+  {
+   "word": "canned music",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌkænd ˈmjuːzɪk/",
+   "def_en": "Artificial or recorded music played in the background.",
+   "def_vi": "Nhạc thu sẵn phát làm nền.",
+   "gloss_vi": "nhạc nền phát sẵn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "live music <i>(np. nhạc sống)</i>",
+   "grammar_vi": "<i>Canned music</i> (noun phrase) = nhạc nền phát sẵn. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "One type of music I can’t stand is the <b>canned music</b> you get in supermarkets and airports.",
+    "vi": "Tôi không chịu nổi <b>nhạc nền</b> ở siêu thị và sân bay."
+   }
+  },
+  {
+   "word": "read music",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌriːd ˈmjuːzɪk/",
+   "def_en": "To understand written musical notes.",
+   "def_vi": "Hiểu nốt nhạc viết.",
+   "gloss_vi": "đọc nốt nhạc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Read music</i> (verb phrase) = đọc nốt nhạc. <b>Grammar</b>: <i>music</i> = bản nhạc.",
+   "example": {
+    "en": "She plays the guitar but she doesn’t <b>read music</b>.",
+    "vi": "Cô ấy chơi ghi-ta nhưng không <b>đọc được nốt nhạc</b>."
+   }
+  },
+  {
+   "word": "play by ear",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌpleɪ baɪ ˈɪə(r)/",
+   "def_en": "To play music by listening, without reading notes.",
+   "def_vi": "Chơi nhạc bằng cách nghe, không đọc nốt.",
+   "gloss_vi": "chơi theo tai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Play by ear</i> (verb phrase) = chơi theo tai. <b>Grammar</b>: cũng thành ngữ = tùy cơ ứng biến.",
+   "example": {
+    "en": "She <b>plays by ear</b>.",
+    "vi": "Cô ấy <b>chơi theo tai</b>."
+   }
+  },
+  {
+   "word": "a good ear",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ə ˌɡʊd ˈɪə(r)/",
+   "def_en": "An ability to hear and copy music well (informal).",
+   "def_vi": "Khả năng nghe và chép nhạc tốt (thân mật).",
+   "gloss_vi": "tai nghe tốt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A good ear</i> (noun phrase) = tai nghe tốt. <b>Grammar</b>: <i>have a good ear (for music)</i>.",
+   "example": {
+    "en": "She’s got <b>a good ear</b>.",
+    "vi": "Cô ấy có <b>tai nghe nhạc tốt</b>."
+   }
+  },
+  {
+   "word": "pick out",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌpɪk ˈaʊt/",
+   "def_en": "To play a tune slowly by finding the notes (informal).",
+   "def_vi": "Dò chậm từng nốt để chơi giai điệu (thân mật).",
+   "gloss_vi": "dò ra (giai điệu)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pick out</i> (phrasal verb) = dò ra (giai điệu). <b>Grammar</b>: <i>pick out a tune</i>.",
+   "example": {
+    "en": "She can <b>pick out</b> a tune on almost any instrument.",
+    "vi": "Cô ấy có thể <b>dò ra</b> giai điệu trên hầu như mọi nhạc cụ."
+   }
+  },
+  {
+   "word": "trained musician",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌtreɪnd mjuˈzɪʃn/",
+   "def_en": "A musician who has studied music formally.",
+   "def_vi": "Nhạc công được học bài bản.",
+   "gloss_vi": "nhạc công được đào tạo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trained musician</i> (noun phrase) = nhạc công được đào tạo. <b>Grammar</b>: <i>train</i> (v.).",
+   "example": {
+    "en": "You don’t need to be a <b>trained musician</b> to enjoy music to the full.",
+    "vi": "Bạn không cần là <b>nhạc công được đào tạo</b> để tận hưởng âm nhạc."
+   }
+  },
+  {
+   "word": "make music",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌmeɪk ˈmjuːzɪk/",
+   "def_en": "To play or create music.",
+   "def_vi": "Chơi hay sáng tạo âm nhạc.",
+   "gloss_vi": "chơi nhạc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Make music</i> (verb phrase) = chơi nhạc. <b>Grammar</b>: <i>music</i> không đếm được.",
+   "example": {
+    "en": "You can <b>make music</b> in lots of ways.",
+    "vi": "Bạn có thể <b>chơi nhạc</b> theo nhiều cách."
+   }
+  }
+ ]
+}

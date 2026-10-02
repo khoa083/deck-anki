@@ -1,0 +1,441 @@
+{
+ "book": "upp",
+ "unit": 22,
+ "title_vi": "Thức ăn",
+ "theory_html": "<p><b>A. Flavours and tastes</b><br><i>A. Hương vị</i></p> <p><b>hot, spicy ≠ mild; bland; salty; sugary; sickly; savoury; sour; bitter; tasty ≠ tasteless; moreish</b>.</p><p><i><b>cay ≠ dịu; nhạt nhẽo; mặn; nhiều đường; ngọt lợ; mặn mà thơm; chua; đắng; ngon ≠ vô vị; ăn mãi không chán</b>.</i></p> <p><b>B. Appearance, presentation and quality of food</b><br><i>B. Hình thức và chất lượng</i></p> <p><b>overcooked/overdone, undercooked/underdone; unripe (opp ripe), in season; has gone off; heavy / light; stodgy; organic; a balanced diet; junk food; processed food</b>.</p><p><i><b>nấu quá chín / chưa chín, chưa chín (quả), đúng mùa, bị hỏng, nặng bụng / nhẹ, khó tiêu, hữu cơ, chế độ ăn cân bằng, đồ ăn vặt, thực phẩm chế biến</b>.</i></p> <p><b>C. Eating out</b><br><i>C. Ăn ngoài</i></p> <p><b>book a table / make a reservation; cancel the booking; starter, main course, dessert; side dishes; set menu; à-la-carte; specials; non-meat-eaters; vegans</b>.</p><p><i><b>đặt bàn, hủy đặt chỗ, món phụ, thực đơn cố định, gọi món lẻ, món đặc biệt trong ngày, người ăn chay trường</b>.</i></p> <p><b>D. Eating at home</b><br><i>D. Ăn ở nhà</i></p> <p><b>host; seconds; help yourself; pudding (a sweet, afters); re-fill; Say when. – When!</b></p><p><i><b>chủ nhà, suất thứ hai, cứ tự nhiên, món tráng miệng, rót thêm, bảo khi nào đủ nhé</b>.</i></p>",
+ "items": [
+  {
+   "word": "mild",
+   "sense": "taste",
+   "pos": "adjective",
+   "ipa": "/maɪld/",
+   "def_en": "(Of food) not hot or spicy.",
+   "def_vi": "(Đồ ăn) không cay.",
+   "gloss_vi": "dịu, không cay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "hot <i>(adj. cay)</i>",
+   "grammar_vi": "<i>Mild</i> (adjective) = dịu, không cay. <b>Grammar</b>: ≠ <i>hot, spicy</i>.",
+   "example": {
+    "en": "My sister prefers <b>mild</b> curries.",
+    "vi": "Em gái tôi thích cà ri <b>không cay</b>."
+   }
+  },
+  {
+   "word": "bland",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/blænd/",
+   "def_en": "With very little flavour.",
+   "def_vi": "Rất ít hương vị.",
+   "gloss_vi": "nhạt nhẽo",
+   "synonyms": "tasteless <i>(adj. vô vị)</i>",
+   "antonyms": "tasty <i>(adj. ngon)</i>",
+   "grammar_vi": "<i>Bland</i> (adjective) = nhạt nhẽo. <b>Grammar</b>: nghĩa hơi tiêu cực.",
+   "example": {
+    "en": "The food on the plane was <b>bland</b> and tasteless.",
+    "vi": "Đồ ăn trên máy bay <b>nhạt nhẽo</b> và vô vị."
+   }
+  },
+  {
+   "word": "sugary",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈʃʊɡəri/",
+   "def_en": "Containing a lot of sugar.",
+   "def_vi": "Chứa nhiều đường.",
+   "gloss_vi": "nhiều đường",
+   "synonyms": "sweet <i>(adj. ngọt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sugary</i> (adjective) = nhiều đường. <b>Grammar</b>: <i>sugar</i> + <i>-y</i>.",
+   "example": {
+    "en": "Those cakes are too <b>sugary</b> for me.",
+    "vi": "Những chiếc bánh đó quá <b>nhiều đường</b> với tôi."
+   }
+  },
+  {
+   "word": "sickly",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsɪkli/",
+   "def_en": "Too sweet in an unpleasant way.",
+   "def_vi": "Ngọt quá mức khó chịu.",
+   "gloss_vi": "ngọt lợ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sickly</i> (adjective) = ngọt lợ. <b>Grammar</b>: tính từ dù tận cùng <i>-ly</i>.",
+   "example": {
+    "en": "They have a <b>sickly</b> taste.",
+    "vi": "Chúng có vị <b>ngọt lợ</b>."
+   }
+  },
+  {
+   "word": "savoury",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈseɪvəri/",
+   "def_en": "Pleasant, slightly salty or with herbs, not sweet.",
+   "def_vi": "Ngon, hơi mặn hay có thảo mộc, không ngọt.",
+   "gloss_vi": "mặn (không ngọt)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "sweet <i>(adj. ngọt)</i>",
+   "grammar_vi": "<i>Savoury</i> (adjective) = mặn (không ngọt). <b>Grammar</b>: Mỹ <i>savory</i>.",
+   "example": {
+    "en": "They had some delicious <b>savoury</b> snacks at the party.",
+    "vi": "Bữa tiệc có những món ăn vặt <b>mặn</b> ngon tuyệt."
+   }
+  },
+  {
+   "word": "tasteless",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈteɪstləs/",
+   "def_en": "Having no flavour at all.",
+   "def_vi": "Hoàn toàn không có vị.",
+   "gloss_vi": "vô vị",
+   "synonyms": "bland <i>(adj. nhạt)</i>",
+   "antonyms": "tasty <i>(adj. ngon)</i>",
+   "grammar_vi": "<i>Tasteless</i> (adjective) = vô vị. <b>Grammar</b>: cũng = thiếu thẩm mỹ.",
+   "example": {
+    "en": "The food on the plane was bland and <b>tasteless</b>.",
+    "vi": "Đồ ăn trên máy bay nhạt nhẽo và <b>vô vị</b>."
+   }
+  },
+  {
+   "word": "moreish",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈmɔːrɪʃ/",
+   "def_en": "Having a pleasant taste, so you want to eat more.",
+   "def_vi": "Ngon đến mức muốn ăn thêm.",
+   "gloss_vi": "ăn mãi không chán",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Moreish</i> (adjective) = ăn mãi không chán. <b>Grammar</b>: thân mật, Anh–Anh.",
+   "example": {
+    "en": "They were very <b>moreish</b>.",
+    "vi": "Chúng rất <b>ăn mãi không chán</b>."
+   }
+  },
+  {
+   "word": "overcooked",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌəʊvəˈkʊkt/",
+   "def_en": "Cooked too much.",
+   "def_vi": "Nấu quá lâu.",
+   "gloss_vi": "nấu quá chín",
+   "synonyms": "overdone <i>(adj. quá chín)</i>",
+   "antonyms": "undercooked <i>(adj. chưa chín)</i>",
+   "grammar_vi": "<i>Overcooked</i> (adjective) = nấu quá chín. <b>Grammar</b>: tiền tố <i>over-</i>.",
+   "example": {
+    "en": "This meat is <b>overcooked</b>.",
+    "vi": "Thịt này <b>bị nấu quá chín</b>."
+   }
+  },
+  {
+   "word": "undercooked",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʌndəˈkʊkt/",
+   "def_en": "Not cooked enough.",
+   "def_vi": "Nấu chưa đủ.",
+   "gloss_vi": "chưa chín",
+   "synonyms": "underdone <i>(adj. tái)</i>",
+   "antonyms": "overcooked <i>(adj. quá chín)</i>",
+   "grammar_vi": "<i>Undercooked</i> (adjective) = chưa chín. <b>Grammar</b>: tiền tố <i>under-</i>.",
+   "example": {
+    "en": "This meat is <b>undercooked</b>.",
+    "vi": "Thịt này <b>chưa chín</b>."
+   }
+  },
+  {
+   "word": "unripe",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʌnˈraɪp/",
+   "def_en": "(Of fruit) not ready to eat.",
+   "def_vi": "(Quả) chưa ăn được.",
+   "gloss_vi": "chưa chín",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "ripe <i>(adj. chín)</i>",
+   "grammar_vi": "<i>Unripe</i> (adjective) = chưa chín. <b>Grammar</b>: <i>ripe</i> = chín.",
+   "example": {
+    "en": "I’m afraid this mango is a bit <b>unripe</b>.",
+    "vi": "E là quả xoài này hơi <b>chưa chín</b>."
+   }
+  },
+  {
+   "word": "in season",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪn ˈsiːzn/",
+   "def_en": "Being produced and available.",
+   "def_vi": "Đang vào mùa và có bán.",
+   "gloss_vi": "đúng mùa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "out of season <i>(phr. trái mùa)</i>",
+   "grammar_vi": "<i>In season</i> (phrase) = đúng mùa. <b>Grammar</b>: <i>in/out of season</i>.",
+   "example": {
+    "en": "They’re not really <b>in season</b> at the moment.",
+    "vi": "Chúng chưa thật sự <b>vào mùa</b> lúc này."
+   }
+  },
+  {
+   "word": "go off",
+   "sense": "food",
+   "pos": "phrasal verb",
+   "ipa": "/ˌɡəʊ ˈɒf/",
+   "def_en": "(Of food) to become bad because it is too old.",
+   "def_vi": "(Thức ăn) hỏng vì để lâu.",
+   "gloss_vi": "bị hỏng, ôi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go off</i> (phrasal verb) = bị hỏng, ôi. <b>Grammar</b>: nội động từ. <b>Common mistakes</b>: cũng = (chuông) reo.",
+   "example": {
+    "en": "This butter <b>has gone off</b>.",
+    "vi": "Bơ này <b>bị hỏng</b> rồi."
+   }
+  },
+  {
+   "word": "stodgy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈstɒdʒi/",
+   "def_en": "(Of food) heavy and hard to digest.",
+   "def_vi": "(Đồ ăn) nặng bụng, khó tiêu.",
+   "gloss_vi": "nặng bụng, khó tiêu",
+   "synonyms": "heavy <i>(adj. nặng)</i>",
+   "antonyms": "light <i>(adj. nhẹ)</i>",
+   "grammar_vi": "<i>Stodgy</i> (adjective) = nặng bụng, khó tiêu. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "British cooking can be very <b>stodgy</b>.",
+    "vi": "Món ăn Anh có thể rất <b>nặng bụng</b>."
+   }
+  },
+  {
+   "word": "organic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɔːˈɡænɪk/",
+   "def_en": "Grown without artificial chemicals.",
+   "def_vi": "Trồng không dùng hóa chất nhân tạo.",
+   "gloss_vi": "hữu cơ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Organic</i> (adjective) = hữu cơ. <b>Grammar</b>: <i>organic food/farming</i>.",
+   "example": {
+    "en": "Zoe will only buy <b>organic</b> fruit and vegetables.",
+    "vi": "Zoe chỉ mua rau quả <b>hữu cơ</b>."
+   }
+  },
+  {
+   "word": "balanced diet",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌbælənst ˈdaɪət/",
+   "def_en": "A diet without too much or too little of any particular thing.",
+   "def_vi": "Chế độ ăn không quá nhiều hay ít thứ gì.",
+   "gloss_vi": "chế độ ăn cân bằng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Balanced diet</i> (noun phrase) = chế độ ăn cân bằng. <b>Grammar</b>: <i>a balanced diet</i>.",
+   "example": {
+    "en": "We should try to have <b>a balanced diet</b>.",
+    "vi": "Chúng ta nên có <b>chế độ ăn cân bằng</b>."
+   }
+  },
+  {
+   "word": "junk food",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈdʒʌŋk fuːd/",
+   "def_en": "Food that is unhealthy but easy and quick to eat.",
+   "def_vi": "Thức ăn không lành mạnh nhưng nhanh tiện.",
+   "gloss_vi": "đồ ăn vặt, đồ ăn nhanh",
+   "synonyms": "fast food <i>(np. đồ ăn nhanh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Junk food</i> (noun phrase) = đồ ăn vặt, đồ ăn nhanh. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "A diet of <b>junk food</b> can cause long-term health problems.",
+    "vi": "Ăn <b>đồ ăn vặt</b> có thể gây vấn đề sức khỏe lâu dài."
+   }
+  },
+  {
+   "word": "processed food",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌprəʊsest ˈfuːd/",
+   "def_en": "Food treated with chemicals to preserve it or add colour or taste.",
+   "def_vi": "Thức ăn xử lý hóa chất để bảo quản hay tạo màu, vị.",
+   "gloss_vi": "thực phẩm chế biến sẵn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "fresh food <i>(np. thực phẩm tươi)</i>",
+   "grammar_vi": "<i>Processed food</i> (noun phrase) = thực phẩm chế biến sẵn. <b>Grammar</b>: <i>process</i> (v.).",
+   "example": {
+    "en": "<b>Processed</b> food in general is not good for you.",
+    "vi": "<b>Thực phẩm chế biến</b> nói chung không tốt cho sức khỏe."
+   }
+  },
+  {
+   "word": "cancel the booking",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌkænsl ðə ˈbʊkɪŋ/",
+   "def_en": "To say you no longer want a reservation.",
+   "def_vi": "Báo không muốn giữ chỗ nữa.",
+   "gloss_vi": "hủy đặt chỗ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cancel the booking</i> (verb phrase) = hủy đặt chỗ. <b>Grammar</b>: <i>cancel a booking/reservation</i>.",
+   "example": {
+    "en": "If you are ill, you may need to <b>cancel the booking</b>.",
+    "vi": "Nếu bị ốm, bạn có thể cần <b>hủy đặt chỗ</b>."
+   }
+  },
+  {
+   "word": "side dish",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈsaɪd dɪʃ/",
+   "def_en": "A smaller dish served alongside the main course.",
+   "def_vi": "Món nhỏ ăn kèm món chính.",
+   "gloss_vi": "món ăn kèm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Side dish</i> (noun phrase) = món ăn kèm. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "You can often order <b>side dishes</b>.",
+    "vi": "Bạn thường có thể gọi <b>món ăn kèm</b>."
+   }
+  },
+  {
+   "word": "set menu",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌset ˈmenjuː/",
+   "def_en": "A selection of dishes at a fixed price.",
+   "def_vi": "Một số món với giá cố định.",
+   "gloss_vi": "thực đơn cố định",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "à la carte <i>(adv. gọi món lẻ)</i>",
+   "grammar_vi": "<i>Set menu</i> (noun phrase) = thực đơn cố định. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Some restaurants may have a <b>set menu</b>.",
+    "vi": "Một số nhà hàng có <b>thực đơn cố định</b>."
+   }
+  },
+  {
+   "word": "à la carte",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌɑː lɑː ˈkɑːt/",
+   "def_en": "Ordering individual dishes from a menu.",
+   "def_vi": "Gọi từng món lẻ trên thực đơn.",
+   "gloss_vi": "gọi món lẻ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "set menu <i>(np. thực đơn cố định)</i>",
+   "grammar_vi": "<i>À la carte</i> (adverb) = gọi món lẻ. <b>Grammar</b>: gốc Pháp.",
+   "example": {
+    "en": "You can order individual dishes (called ordering <b>à-la-carte</b>).",
+    "vi": "Hoặc bạn có thể gọi từng món (<b>gọi món lẻ</b>)."
+   }
+  },
+  {
+   "word": "specials",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈspeʃlz/",
+   "def_en": "Dishes only available on that day.",
+   "def_vi": "Món chỉ có trong ngày.",
+   "gloss_vi": "món đặc biệt trong ngày",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Specials</i> (plural noun) = món đặc biệt trong ngày. <b>Grammar</b>: số nhiều.",
+   "example": {
+    "en": "Restaurants often have <b>specials</b> advertised on a board.",
+    "vi": "Nhà hàng thường quảng cáo <b>món đặc biệt</b> trên bảng."
+   }
+  },
+  {
+   "word": "vegan",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈviːɡən/",
+   "def_en": "A person who doesn’t eat or use any animal products.",
+   "def_vi": "Người không ăn hay dùng sản phẩm động vật.",
+   "gloss_vi": "người ăn chay trường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Vegan</i> (noun) = người ăn chay trường. <b>Grammar</b>: cũng là tính từ.",
+   "example": {
+    "en": "They often cater for vegetarians, non-meat-eaters and <b>vegans</b>.",
+    "vi": "Nhà hàng thường phục vụ người ăn chay và <b>người ăn chay trường</b>."
+   }
+  },
+  {
+   "word": "host",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/həʊst/",
+   "def_en": "The person who has invited the guests.",
+   "def_vi": "Người mời khách.",
+   "gloss_vi": "chủ nhà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "guest <i>(n. khách)</i>",
+   "grammar_vi": "<i>Host</i> (noun) = chủ nhà. <b>Grammar</b>: nữ cũng có <i>hostess</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>host</b> asked who wanted more soup.",
+    "vi": "<b>Chủ nhà</b> hỏi ai muốn thêm súp."
+   }
+  },
+  {
+   "word": "seconds",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈsekəndz/",
+   "def_en": "A second serving of food.",
+   "def_vi": "Suất ăn thứ hai.",
+   "gloss_vi": "suất thứ hai, phần thêm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Seconds</i> (plural noun) = suất thứ hai, phần thêm. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "Right, there’s more soup. Who wants <b>seconds</b>?",
+    "vi": "Còn súp đấy. Ai muốn <b>ăn thêm</b> không?"
+   }
+  },
+  {
+   "word": "pudding",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpʊdɪŋ/",
+   "def_en": "Dessert (at home).",
+   "def_vi": "Món tráng miệng (ở nhà).",
+   "gloss_vi": "món tráng miệng",
+   "synonyms": "dessert <i>(n. tráng miệng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pudding</i> (noun) = món tráng miệng. <b>Grammar</b>: Anh–Anh; cũng <i>a sweet, afters</i>.",
+   "example": {
+    "en": "Be sure to keep a bit of room for some <b>pudding</b>.",
+    "vi": "Nhớ chừa bụng cho <b>món tráng miệng</b> nhé."
+   }
+  },
+  {
+   "word": "say when",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌseɪ ˈwen/",
+   "def_en": "Tell me when I have poured enough.",
+   "def_vi": "Nói khi nào rót đủ.",
+   "gloss_vi": "bảo khi nào đủ nhé",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Say when</i> (phrase) = bảo khi nào đủ nhé. <b>Grammar</b>: trả lời <i>When!</i> = đủ rồi.",
+   "example": {
+    "en": "Can I re-fill your glass? <b>Say when</b>. – When!",
+    "vi": "Tôi rót thêm cho bạn nhé? <b>Bảo khi nào đủ nhé</b>. – Đủ rồi!"
+   }
+  }
+ ]
+}
