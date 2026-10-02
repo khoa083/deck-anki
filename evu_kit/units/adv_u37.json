@@ -1,0 +1,328 @@
+{
+ "book": "adv",
+ "unit": 37,
+ "title_vi": "Lễ hội trong bối cảnh văn hóa",
+ "theory_html": "<p><b>A. Describing festivals</b><br><i>A. Miêu tả lễ hội</i></p> <p>Mombasa Carnival <b>falls</b> in November; it <b>features</b> people in costumes. Word families: <b>celebration – celebrate – celebratory; festival, festivities – festive; parade (n./v.); spectacle – spectacular; feast – feasting; ceremony – ceremonial; renewal – renew – renewed</b>. There is no verb for <b>spectacle</b> and no adjective for <b>parade</b>.</p><p><i>Lễ hội Mombasa <b>diễn ra</b> vào tháng 11, <b>có</b> người mặc trang phục rực rỡ. Họ từ: <b>lễ kỷ niệm, lễ hội, diễu hành, cảnh tượng, yến tiệc, nghi lễ, sự đổi mới</b>. <b>Spectacle</b> không có động từ; <b>parade</b> không có tính từ.</i></p> <p><b>B. Other words and phrases connected with festivals</b><br><i>B. Từ và cụm khác về lễ hội</i></p> <p><b>superstitious, centenary / bi-centenary, flamboyant, raucous, sombre, atmospheric, be traced back to, pagan times, commemorate</b> (formal).</p><p><i><b>mê tín, kỷ niệm 100/200 năm, rực rỡ phô trương, ồn ào náo nhiệt, trang nghiêm, đầy không khí, có nguồn gốc từ, thời ngoại giáo, tưởng niệm</b>.</i></p>",
+ "items": [
+  {
+   "word": "fall",
+   "sense": "date",
+   "pos": "verb",
+   "ipa": "/fɔːl/",
+   "def_en": "(Of an event) to happen on a particular date.",
+   "def_vi": "(Sự kiện) diễn ra vào ngày nào.",
+   "gloss_vi": "rơi vào, diễn ra",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fall</i> (verb) = rơi vào, diễn ra. <b>Grammar</b>: <i>fall on/in</i> + thời gian.",
+   "example": {
+    "en": "The Mombasa Carnival <b>falls</b> in November each year.",
+    "vi": "Lễ hội Mombasa <b>diễn ra</b> vào tháng 11 hằng năm."
+   }
+  },
+  {
+   "word": "feature",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈfiːtʃə(r)/",
+   "def_en": "To include as an important part.",
+   "def_vi": "Có như phần quan trọng.",
+   "gloss_vi": "có, nổi bật với",
+   "synonyms": "include <i>(v. bao gồm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Feature</i> (verb) = có, nổi bật với. <b>Grammar</b>: cũng danh từ.",
+   "example": {
+    "en": "The carnival <b>features</b> people dressed in spectacular costumes.",
+    "vi": "Lễ hội <b>có</b> người mặc trang phục rực rỡ diễu hành."
+   }
+  },
+  {
+   "word": "celebratory",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌseləˈbreɪtəri/",
+   "def_en": "Showing that you are celebrating.",
+   "def_vi": "Thể hiện sự ăn mừng.",
+   "gloss_vi": "hân hoan, ăn mừng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Celebratory</i> (adjective) = hân hoan, ăn mừng. <b>Grammar</b>: <i>celebrate</i> (v.), <i>celebration</i> (n.).",
+   "example": {
+    "en": "Everyone was in a <b>celebratory</b> mood.",
+    "vi": "Mọi người trong tâm trạng <b>hân hoan</b>."
+   }
+  },
+  {
+   "word": "festivities",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/feˈstɪvətiz/",
+   "def_en": "Enjoyable activities at a festival.",
+   "def_vi": "Các hoạt động vui chơi lễ hội.",
+   "gloss_vi": "các hoạt động lễ hội",
+   "synonyms": "celebrations <i>(n. lễ kỷ niệm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Festivities</i> (noun) = các hoạt động lễ hội. <b>Grammar</b>: số nhiều.",
+   "example": {
+    "en": "The <b>festivities</b> go on for days.",
+    "vi": "<b>Các hoạt động lễ hội</b> kéo dài nhiều ngày."
+   }
+  },
+  {
+   "word": "festive",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈfestɪv/",
+   "def_en": "Happy and cheerful because of a festival.",
+   "def_vi": "Vui tươi vì lễ hội.",
+   "gloss_vi": "không khí lễ hội",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Festive</i> (adjective) = không khí lễ hội. <b>Collocations / chunks</b>: <i>festive season/mood</i>.",
+   "example": {
+    "en": "There was a <b>festive</b> mood in the village during the spring holiday.",
+    "vi": "Có không khí <b>lễ hội</b> trong làng kỳ nghỉ xuân."
+   }
+  },
+  {
+   "word": "parade",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pəˈreɪd/",
+   "def_en": "A public celebration where people walk through the streets.",
+   "def_vi": "Lễ diễu hành công khai.",
+   "gloss_vi": "cuộc diễu hành",
+   "synonyms": "procession <i>(n. đám rước)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Parade</i> (noun) = cuộc diễu hành. <b>Grammar</b>: cũng động từ; không có tính từ.",
+   "example": {
+    "en": "The <b>parade</b> in the town square was a very colourful spectacle.",
+    "vi": "<b>Cuộc diễu hành</b> ở quảng trường là cảnh tượng rực rỡ."
+   }
+  },
+  {
+   "word": "spectacle",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈspektəkl/",
+   "def_en": "An impressive show or sight.",
+   "def_vi": "Cảnh tượng ấn tượng.",
+   "gloss_vi": "cảnh tượng",
+   "synonyms": "sight <i>(n. cảnh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spectacle</i> (noun) = cảnh tượng. <b>Grammar</b>: không có động từ; <i>spectacular</i> (adj.).",
+   "example": {
+    "en": "The parade in the town square was a very colourful <b>spectacle</b>.",
+    "vi": "Cuộc diễu hành là <b>cảnh tượng</b> rực rỡ."
+   }
+  },
+  {
+   "word": "spectacular",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/spekˈtækjələ(r)/",
+   "def_en": "Extremely impressive.",
+   "def_vi": "Rất ấn tượng.",
+   "gloss_vi": "hoành tráng",
+   "synonyms": "impressive <i>(adj. ấn tượng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spectacular</i> (adjective) = hoành tráng. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "The parade is always very <b>spectacular</b>.",
+    "vi": "Cuộc diễu hành luôn rất <b>hoành tráng</b>."
+   }
+  },
+  {
+   "word": "feast",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/fiːst/",
+   "def_en": "A big meal to celebrate something.",
+   "def_vi": "Bữa ăn lớn để ăn mừng.",
+   "gloss_vi": "yến tiệc",
+   "synonyms": "banquet <i>(n. đại tiệc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Feast</i> (noun) = yến tiệc. <b>Grammar</b>: <i>feasting</i> (n.).",
+   "example": {
+    "en": "Everyone in the village attends a big <b>feast</b> in the evening.",
+    "vi": "Cả làng dự một <b>yến tiệc</b> lớn buổi tối."
+   }
+  },
+  {
+   "word": "ceremonial",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌserɪˈməʊniəl/",
+   "def_en": "Used in or connected with a ceremony.",
+   "def_vi": "Thuộc nghi lễ.",
+   "gloss_vi": "mang tính nghi lễ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ceremonial</i> (adjective) = mang tính nghi lễ. <b>Grammar</b>: <i>ceremony</i> (n.).",
+   "example": {
+    "en": "A <b>ceremonial</b> procession goes through the streets of the city.",
+    "vi": "Một đoàn rước <b>nghi lễ</b> đi qua phố."
+   }
+  },
+  {
+   "word": "renewal",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˈnjuːəl/",
+   "def_en": "Making something new or strong again.",
+   "def_vi": "Làm mới, làm mạnh lại.",
+   "gloss_vi": "sự đổi mới",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Renewal</i> (noun) = sự đổi mới. <b>Grammar</b>: <i>renew</i> (v.), <i>renewed</i> (adj.).",
+   "example": {
+    "en": "The festival is a time of <b>renewal</b>.",
+    "vi": "Lễ hội là thời gian của <b>sự đổi mới</b>."
+   }
+  },
+  {
+   "word": "superstitious",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌsuːpəˈstɪʃəs/",
+   "def_en": "Having illogical beliefs about hidden forces in nature.",
+   "def_vi": "Có niềm tin phi lý về sức mạnh huyền bí.",
+   "gloss_vi": "mê tín",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Superstitious</i> (adjective) = mê tín. <b>Grammar</b>: <i>superstition</i> (n.).",
+   "example": {
+    "en": "A lot of people are very <b>superstitious</b>, especially about numbers and colours.",
+    "vi": "Nhiều người rất <b>mê tín</b>, nhất là về số và màu."
+   }
+  },
+  {
+   "word": "centenary",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/senˈtiːnəri/",
+   "def_en": "The 100th anniversary.",
+   "def_vi": "Kỷ niệm 100 năm.",
+   "gloss_vi": "kỷ niệm 100 năm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Centenary</i> (noun) = kỷ niệm 100 năm. <b>Grammar</b>: <i>bi-centenary</i> = 200 năm.",
+   "example": {
+    "en": "The festival celebrated the <b>centenary</b> of the country’s independence.",
+    "vi": "Lễ hội mừng <b>100 năm</b> độc lập."
+   }
+  },
+  {
+   "word": "flamboyant",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/flæmˈbɔɪənt/",
+   "def_en": "Extremely colourful and exaggerated.",
+   "def_vi": "Cực kỳ rực rỡ, phô trương.",
+   "gloss_vi": "rực rỡ phô trương",
+   "synonyms": "showy <i>(adj. phô trương)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flamboyant</i> (adjective) = rực rỡ phô trương. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "The Rio de Janeiro Carnival is always a very <b>flamboyant</b> and raucous event.",
+    "vi": "Lễ hội Rio luôn <b>rực rỡ</b> và náo nhiệt."
+   }
+  },
+  {
+   "word": "raucous",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈrɔːkəs/",
+   "def_en": "Very noisy.",
+   "def_vi": "Rất ồn ào.",
+   "gloss_vi": "ồn ào náo nhiệt",
+   "synonyms": "rowdy <i>(adj. huyên náo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Raucous</i> (adjective) = ồn ào náo nhiệt. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "a very flamboyant and <b>raucous</b> event",
+    "vi": "Lễ hội Rio luôn rực rỡ và <b>náo nhiệt</b>."
+   }
+  },
+  {
+   "word": "sombre",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsɒmbə(r)/",
+   "def_en": "Serious, heavy and sad.",
+   "def_vi": "Nghiêm trọng, nặng nề, buồn.",
+   "gloss_vi": "trang nghiêm",
+   "synonyms": "solemn <i>(adj. trang nghiêm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sombre</i> (adjective) = trang nghiêm. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "The Festival of the Dead is very <b>sombre</b> and atmospheric.",
+    "vi": "Lễ hội Người chết rất <b>trang nghiêm</b>."
+   }
+  },
+  {
+   "word": "atmospheric",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌætməsˈferɪk/",
+   "def_en": "Having a special feeling or atmosphere.",
+   "def_vi": "Có không khí đặc biệt.",
+   "gloss_vi": "đầy không khí",
+   "synonyms": "evocative <i>(adj. gợi cảm xúc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Atmospheric</i> (adjective) = đầy không khí. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "The Festival of the Dead is very sombre and <b>atmospheric</b>.",
+    "vi": "Lễ hội trang nghiêm và <b>đầy không khí</b>."
+   }
+  },
+  {
+   "word": "be traced back to",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/bi ˌtreɪst ˈbæk tə/",
+   "def_en": "To have its origin found in.",
+   "def_vi": "Có nguồn gốc từ.",
+   "gloss_vi": "có nguồn gốc từ",
+   "synonyms": "date back to <i>(v. có từ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be traced back to</i> (verb) = có nguồn gốc từ. <b>Grammar</b>: động từ nhiều từ <i>be traced back to</i>.",
+   "example": {
+    "en": "It can <b>be traced back to</b> pagan times.",
+    "vi": "Lễ hội <b>có nguồn gốc từ</b> thời ngoại giáo."
+   }
+  },
+  {
+   "word": "pagan",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈpeɪɡən/",
+   "def_en": "Of the times when people believed nature had special powers.",
+   "def_vi": "Thuộc thời con người tin thiên nhiên có quyền năng.",
+   "gloss_vi": "ngoại giáo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pagan</i> (adjective) = ngoại giáo. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "It can be traced back to <b>pagan</b> times.",
+    "vi": "Có thể truy về thời <b>ngoại giáo</b>."
+   }
+  },
+  {
+   "word": "commemorate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kəˈmeməreɪt/",
+   "def_en": "To respect and remember officially (formal).",
+   "def_vi": "Tưởng nhớ chính thức (trang trọng).",
+   "gloss_vi": "tưởng niệm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Commemorate</i> (verb) = tưởng niệm. <b>Grammar</b>: <i>commemoration</i> (n.).",
+   "example": {
+    "en": "The annual holiday <b>commemorates</b> all those who died in the country’s civil war.",
+    "vi": "Ngày lễ hằng năm <b>tưởng niệm</b> những người chết trong nội chiến."
+   }
+  }
+ ]
+}

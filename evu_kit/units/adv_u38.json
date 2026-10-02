@@ -1,0 +1,472 @@
+{
+ "book": "adv",
+ "unit": 38,
+ "title_vi": "Nói về ngôn ngữ",
+ "theory_html": "<p><b>A. Specialist terms for talking about language</b><br><i>A. Thuật ngữ về ngôn ngữ</i></p> <p><b>syntax</b> (grammar and word order), <b>modality, modal verbs</b>, <b>phonology</b> (sound system), <b>phonemes, diphthongs</b>, <b>lexicon</b> (vocabulary), <b>orthography</b> (writing systems and spelling), <b>characters, pictograms, ideograms</b>, <b>morphology</b> (how words are formed), <b>morphemes</b>.</p><p><i><b>cú pháp, tình thái, động từ khuyết thiếu, âm vị học, âm vị, nguyên âm đôi, từ vựng, chính tả, ký tự, chữ tượng hình, chữ biểu ý, hình thái học, hình vị</b>.</i></p> <p><b>B. Other useful words for talking about language</b><br><i>B. Từ hữu ích khác</i></p> <p><b>polysemous, context, metaphorical, literal, usage, obsolete, coined, registers, jargon</b>.</p><p><i><b>đa nghĩa, ngữ cảnh, ẩn dụ, nghĩa đen, cách dùng, lỗi thời, được tạo ra, phong cách ngôn ngữ, biệt ngữ</b>.</i></p> <p><b>C. Using language well or badly</b><br><i>C. Dùng ngôn ngữ tốt hay kém</i></p> <p><b>articulate, eloquent, succinct, mot juste, inarticulate, speechless, lost for words, put your foot in it</b>.</p><p><i><b>ăn nói lưu loát, hùng hồn, súc tích, từ chuẩn xác, ăn nói vụng, cứng họng, không nói nên lời, lỡ lời</b>.</i></p>",
+ "items": [
+  {
+   "word": "syntax",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsɪntæks/",
+   "def_en": "The grammar and word order of a language.",
+   "def_vi": "Ngữ pháp và trật tự từ.",
+   "gloss_vi": "cú pháp",
+   "synonyms": "grammar <i>(n. ngữ pháp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Syntax</i> (noun) = cú pháp. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "<b>Syntax</b>: the grammar and word order",
+    "vi": "<b>Cú pháp</b> là ngữ pháp và trật tự từ."
+   }
+  },
+  {
+   "word": "modality",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/məʊˈdæləti/",
+   "def_en": "Meanings such as possibility and necessity.",
+   "def_vi": "Nghĩa như khả năng, sự cần thiết.",
+   "gloss_vi": "tình thái",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Modality</i> (noun) = tình thái. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "Different languages express <b>modality</b> in different ways.",
+    "vi": "Mỗi ngôn ngữ diễn đạt <b>tình thái</b> khác nhau."
+   }
+  },
+  {
+   "word": "modal verb",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌməʊdl ˈvɜːb/",
+   "def_en": "A verb like must, could or should that expresses modality.",
+   "def_vi": "Động từ như must, could, should.",
+   "gloss_vi": "động từ khuyết thiếu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Modal verb</i> (noun) = động từ khuyết thiếu. <b>Collocations / chunks</b>: cụm danh từ cố định <i>modal verb</i>.",
+   "example": {
+    "en": "English does it with <b>modal verbs</b> like must, could and should.",
+    "vi": "Tiếng Anh dùng <b>động từ khuyết thiếu</b> như must, could."
+   }
+  },
+  {
+   "word": "phonology",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/fəˈnɒlədʒi/",
+   "def_en": "The sound system: pronunciation and intonation.",
+   "def_vi": "Hệ thống âm: phát âm và ngữ điệu.",
+   "gloss_vi": "âm vị học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Phonology</i> (noun) = âm vị học. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "<b>Phonology</b>: the sound system, i.e. pronunciation and intonation",
+    "vi": "<b>Âm vị học</b> là hệ thống âm thanh."
+   }
+  },
+  {
+   "word": "phoneme",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfəʊniːm/",
+   "def_en": "A sound that distinguishes meanings.",
+   "def_vi": "Âm phân biệt nghĩa.",
+   "gloss_vi": "âm vị",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Phoneme</i> (noun) = âm vị. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "All languages have <b>phonemes</b>, such as /b/ and /v/.",
+    "vi": "Mọi ngôn ngữ đều có <b>âm vị</b>, như /b/ và /v/."
+   }
+  },
+  {
+   "word": "diphthong",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdɪfθɒŋ/",
+   "def_en": "A sound made by combining vowels, such as /eɪ/.",
+   "def_vi": "Âm kết hợp hai nguyên âm.",
+   "gloss_vi": "nguyên âm đôi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Diphthong</i> (noun) = nguyên âm đôi. <b>Grammar</b>: /ˈdɪfθɒŋ/.",
+   "example": {
+    "en": "English has ten <b>diphthongs</b>.",
+    "vi": "Tiếng Anh có mười <b>nguyên âm đôi</b>."
+   }
+  },
+  {
+   "word": "lexicon",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈleksɪkən/",
+   "def_en": "A specialised term for vocabulary.",
+   "def_vi": "Thuật ngữ chỉ từ vựng.",
+   "gloss_vi": "từ vựng (thuật ngữ)",
+   "synonyms": "vocabulary <i>(n. từ vựng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lexicon</i> (noun) = từ vựng (thuật ngữ). <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "<b>Lexicon</b>: specialised term for vocabulary",
+    "vi": "<b>Từ vựng</b> là thuật ngữ chuyên ngành chỉ vốn từ."
+   }
+  },
+  {
+   "word": "orthography",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɔːˈθɒɡrəfi/",
+   "def_en": "Writing systems and spelling.",
+   "def_vi": "Hệ chữ viết và chính tả.",
+   "gloss_vi": "chính tả học",
+   "synonyms": "spelling <i>(n. chính tả)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Orthography</i> (noun) = chính tả học. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "<b>Orthography</b>: specialised term for writing systems and spelling",
+    "vi": "<b>Chính tả học</b> là hệ chữ viết và chính tả."
+   }
+  },
+  {
+   "word": "character",
+   "sense": "letter",
+   "pos": "noun",
+   "ipa": "/ˈkærəktə(r)/",
+   "def_en": "A letter or symbol in a writing system.",
+   "def_vi": "Chữ cái hay ký hiệu.",
+   "gloss_vi": "ký tự",
+   "synonyms": "symbol <i>(n. ký hiệu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Character</i> (noun) = ký tự. <b>Common mistakes</b>: cũng = tính cách, nhân vật.",
+   "example": {
+    "en": "The English alphabet has 26 <b>characters</b>.",
+    "vi": "Bảng chữ cái tiếng Anh có 26 <b>ký tự</b>."
+   }
+  },
+  {
+   "word": "pictogram",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɪktəɡræm/",
+   "def_en": "A character representing a picture.",
+   "def_vi": "Ký tự biểu diễn hình ảnh.",
+   "gloss_vi": "chữ tượng hình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pictogram</i> (noun) = chữ tượng hình. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "Some writing systems are not alphabetic but have <b>pictograms</b> or ideograms.",
+    "vi": "Một số hệ chữ có <b>chữ tượng hình</b>."
+   }
+  },
+  {
+   "word": "ideogram",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɪdiəɡræm/",
+   "def_en": "A character representing an idea or concept.",
+   "def_vi": "Ký tự biểu diễn ý tưởng.",
+   "gloss_vi": "chữ biểu ý",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ideogram</i> (noun) = chữ biểu ý. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "Some writing systems have pictograms or <b>ideograms</b>.",
+    "vi": "Hệ chữ Trung Quốc có <b>chữ biểu ý</b>."
+   }
+  },
+  {
+   "word": "morphology",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/mɔːˈfɒlədʒi/",
+   "def_en": "How words are formed.",
+   "def_vi": "Cách từ được cấu tạo.",
+   "gloss_vi": "hình thái học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Morphology</i> (noun) = hình thái học. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "<b>Morphology</b>: how words are formed",
+    "vi": "<b>Hình thái học</b> là cách từ được cấu tạo."
+   }
+  },
+  {
+   "word": "morpheme",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɔːfiːm/",
+   "def_en": "A unit of meaning.",
+   "def_vi": "Đơn vị nghĩa.",
+   "gloss_vi": "hình vị",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Morpheme</i> (noun) = hình vị. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "In English, there are three <b>morphemes</b> in unthinkable: un, think and able.",
+    "vi": "Từ unthinkable có ba <b>hình vị</b>."
+   }
+  },
+  {
+   "word": "polysemous",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌpɒliˈsiːməs/",
+   "def_en": "Having a number of different meanings.",
+   "def_vi": "Có nhiều nghĩa.",
+   "gloss_vi": "đa nghĩa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Polysemous</i> (adjective) = đa nghĩa. <b>Grammar</b>: <i>polysemy</i> (n.).",
+   "example": {
+    "en": "Many words in English are <b>polysemous</b>.",
+    "vi": "Nhiều từ tiếng Anh <b>đa nghĩa</b>."
+   }
+  },
+  {
+   "word": "context",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɒntekst/",
+   "def_en": "The language or situation around something.",
+   "def_vi": "Ngôn ngữ hay tình huống xung quanh.",
+   "gloss_vi": "ngữ cảnh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Context</i> (noun) = ngữ cảnh. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "The meaning will usually be clear from its <b>context</b>.",
+    "vi": "Nghĩa thường rõ nhờ <b>ngữ cảnh</b>."
+   }
+  },
+  {
+   "word": "metaphorical",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌmetəˈfɒrɪkl/",
+   "def_en": "Used in a way that is not literal.",
+   "def_vi": "Dùng không theo nghĩa đen.",
+   "gloss_vi": "ẩn dụ",
+   "synonyms": "figurative <i>(adj. bóng)</i>",
+   "antonyms": "literal <i>(adj. đen)</i>",
+   "grammar_vi": "<i>Metaphorical</i> (adjective) = ẩn dụ. <b>Grammar</b>: <i>metaphor</i> (n.).",
+   "example": {
+    "en": "Words are often used in a <b>metaphorical</b> way.",
+    "vi": "Từ thường được dùng theo nghĩa <b>ẩn dụ</b>."
+   }
+  },
+  {
+   "word": "literal",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈlɪtərəl/",
+   "def_en": "Having the basic, original meaning of a word.",
+   "def_vi": "Theo nghĩa gốc của từ.",
+   "gloss_vi": "nghĩa đen",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "metaphorical <i>(adj. ẩn dụ)</i>",
+   "grammar_vi": "<i>Literal</i> (adjective) = nghĩa đen. <b>Grammar</b>: <i>literally</i> (adv.).",
+   "example": {
+    "en": "a way that is not <b>literal</b>",
+    "vi": "Cách dùng không theo <b>nghĩa đen</b>."
+   }
+  },
+  {
+   "word": "usage",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈjuːsɪdʒ/",
+   "def_en": "The way words are used.",
+   "def_vi": "Cách dùng từ.",
+   "gloss_vi": "cách dùng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Usage</i> (noun) = cách dùng. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "Language <b>usage</b> inevitably changes with time.",
+    "vi": "<b>Cách dùng</b> ngôn ngữ chắc chắn thay đổi theo thời gian."
+   }
+  },
+  {
+   "word": "obsolete",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɒbsəliːt/",
+   "def_en": "No longer in use.",
+   "def_vi": "Không còn dùng.",
+   "gloss_vi": "lỗi thời",
+   "synonyms": "outdated <i>(adj. lỗi thời)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Obsolete</i> (adjective) = lỗi thời. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "Some words become <b>obsolete</b> while new words are coined.",
+    "vi": "Một số từ trở nên <b>lỗi thời</b>."
+   }
+  },
+  {
+   "word": "coin",
+   "sense": "word",
+   "pos": "verb",
+   "ipa": "/kɔɪn/",
+   "def_en": "To create a new word.",
+   "def_vi": "Tạo từ mới.",
+   "gloss_vi": "đặt ra (từ mới)",
+   "synonyms": "invent <i>(v. sáng tạo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Coin</i> (verb) = đặt ra (từ mới). <b>Common mistakes</b>: danh từ = đồng xu.",
+   "example": {
+    "en": "Some words become obsolete while new words are <b>coined</b>.",
+    "vi": "Từ mới được <b>đặt ra</b>."
+   }
+  },
+  {
+   "word": "register",
+   "sense": "style",
+   "pos": "noun",
+   "ipa": "/ˈredʒɪstə(r)/",
+   "def_en": "The style of language used in a particular situation.",
+   "def_vi": "Phong cách ngôn ngữ trong một tình huống.",
+   "gloss_vi": "phong cách ngôn ngữ",
+   "synonyms": "style <i>(n. văn phong)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Register</i> (noun) = phong cách ngôn ngữ. <b>Grammar</b>: trang trọng, thân mật….",
+   "example": {
+    "en": "Any language has a number of different <b>registers</b>.",
+    "vi": "Mọi ngôn ngữ đều có nhiều <b>phong cách</b> khác nhau."
+   }
+  },
+  {
+   "word": "jargon",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdʒɑːɡən/",
+   "def_en": "Language used by a particular group sharing a job or interest.",
+   "def_vi": "Ngôn ngữ của một nhóm cùng nghề.",
+   "gloss_vi": "biệt ngữ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Jargon</i> (noun) = biệt ngữ. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "<b>Jargon</b> is used to describe a specific type of language that is used by a particular group of people.",
+    "vi": "<b>Biệt ngữ</b> quân sự, biệt ngữ máy tính."
+   }
+  },
+  {
+   "word": "articulate",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɑːˈtɪkjələt/",
+   "def_en": "Able to express ideas clearly in words.",
+   "def_vi": "Diễn đạt ý rõ ràng.",
+   "gloss_vi": "ăn nói lưu loát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "inarticulate <i>(adj. ăn nói vụng)</i>",
+   "grammar_vi": "<i>Articulate</i> (adjective) = ăn nói lưu loát. <b>Grammar</b>: tính từ /ɑːˈtɪkjələt/.",
+   "example": {
+    "en": "Someone who uses language well can be described as <b>articulate</b>.",
+    "vi": "Người dùng ngôn ngữ giỏi được mô tả là <b>ăn nói lưu loát</b>."
+   }
+  },
+  {
+   "word": "eloquent",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈeləkwənt/",
+   "def_en": "Able to express ideas clearly in a way that may influence others.",
+   "def_vi": "Diễn đạt rõ, có sức thuyết phục.",
+   "gloss_vi": "hùng hồn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Eloquent</i> (adjective) = hùng hồn. <b>Grammar</b>: <i>eloquence</i> (n.).",
+   "example": {
+    "en": "Someone who uses language well can be described as articulate or <b>eloquent</b>.",
+    "vi": "Họ có thể <b>hùng hồn</b>."
+   }
+  },
+  {
+   "word": "succinct",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/səkˈsɪŋkt/",
+   "def_en": "Clear and using few words.",
+   "def_vi": "Rõ ràng, ít từ.",
+   "gloss_vi": "súc tích",
+   "synonyms": "concise <i>(adj. ngắn gọn)</i>",
+   "antonyms": "verbose <i>(adj. dài dòng)</i>",
+   "grammar_vi": "<i>Succinct</i> (adjective) = súc tích. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "They may express something in a <b>succinct</b> way.",
+    "vi": "Họ diễn đạt <b>súc tích</b>."
+   }
+  },
+  {
+   "word": "mot juste",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌməʊ ˈʒuːst/",
+   "def_en": "Exactly the right word or phrase for a situation.",
+   "def_vi": "Từ hay cụm hoàn toàn chính xác.",
+   "gloss_vi": "từ chuẩn xác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mot juste</i> (noun) = từ chuẩn xác. <b>Grammar</b>: tiếng Pháp.",
+   "example": {
+    "en": "They may always be able to think of the <b>mot juste</b>.",
+    "vi": "Họ luôn nghĩ ra <b>từ chuẩn xác</b>."
+   }
+  },
+  {
+   "word": "inarticulate",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɪnɑːˈtɪkjələt/",
+   "def_en": "Unable to express ideas clearly in words.",
+   "def_vi": "Không diễn đạt rõ ý.",
+   "gloss_vi": "ăn nói vụng về",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "articulate <i>(adj. lưu loát)</i>",
+   "grammar_vi": "<i>Inarticulate</i> (adjective) = ăn nói vụng về. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "Someone who does not use language well can be described as <b>inarticulate</b>.",
+    "vi": "Người không dùng ngôn ngữ tốt được mô tả là <b>ăn nói vụng về</b>."
+   }
+  },
+  {
+   "word": "lost for words",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌlɒst fə ˈwɜːdz/",
+   "def_en": "So surprised that you cannot say anything.",
+   "def_vi": "Ngạc nhiên đến không nói được.",
+   "gloss_vi": "không nói nên lời",
+   "synonyms": "speechless <i>(adj. cứng họng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lost for words</i> (adjective) = không nói nên lời. <b>Collocations / chunks</b>: cụm tính từ cố định <i>lost for words</i>.",
+   "example": {
+    "en": "If you are speechless or <b>lost for words</b>, you are so surprised that you are unable to say anything.",
+    "vi": "Nếu bạn <b>không nói nên lời</b>, bạn quá ngạc nhiên."
+   }
+  },
+  {
+   "word": "put your foot in it",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌpʊt jɔː ˈfʊt ɪn ɪt/",
+   "def_en": "To say something without thinking and upset or embarrass someone.",
+   "def_vi": "Nói không suy nghĩ làm ai phật lòng.",
+   "gloss_vi": "lỡ lời",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Put your foot in it</i> (verb) = lỡ lời. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "If you <b>put your foot in it</b>, you say something without thinking carefully.",
+    "vi": "Nếu bạn <b>lỡ lời</b>, bạn có thể làm ai đó khó chịu."
+   }
+  }
+ ]
+}
