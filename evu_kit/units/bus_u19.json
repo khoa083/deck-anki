@@ -1,0 +1,235 @@
+{
+ "book": "bus",
+ "unit": 19,
+ "title_vi": "Người mua, người bán và thị trường",
+ "theory_html": "<p><b>A. Customers and clients</b><br><i>A. Khách hàng</i></p> <p><b>customers, clients</b> (buyers of professional services), <b>customer base / client base, clientele</b> (rarely plural), <b>users, end-users, consumers</b>.</p><p><i><b>khách hàng, khách hàng (dịch vụ chuyên môn), lượng khách hàng, giới khách hàng, người dùng, người dùng cuối, người tiêu dùng</b>.</i></p> <p><b>B. Buyers, sellers and vendors</b><br><i>B. Người mua, người bán</i></p> <p><b>buyer / purchaser, buying / purchasing managers, industrial buyer, seller, vendor, street vendors, vending machine</b>.</p><p><i><b>người mua, trưởng phòng mua hàng, người mua công nghiệp, người bán, bên bán, người bán hàng rong, máy bán hàng tự động</b>.</i></p> <p><b>C. The market</b><br><i>C. Thị trường</i></p> <p><b>the market, the free market, market economy</b>; <b>market forces / pressures, marketplace, market prices, market reforms</b>.</p><p><i><b>thị trường, thị trường tự do, kinh tế thị trường; sức ép thị trường, thương trường, giá thị trường, cải cách thị trường</b>.</i></p>",
+ "items": [
+  {
+   "word": "client",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈklaɪənt/",
+   "def_en": "A person or organization who buys the services of professionals such as accountants or lawyers.",
+   "def_vi": "Người, tổ chức mua dịch vụ chuyên môn như kế toán, luật sư.",
+   "gloss_vi": "khách hàng (dịch vụ)",
+   "synonyms": "customer <i>(n. khách hàng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Client</i> (noun) = khách hàng (dịch vụ). <b>Grammar</b>: dùng cho dịch vụ chuyên môn.",
+   "example": {
+    "en": "Foster and Partners, a big architectural firm, has <b>clients</b>, rather than customers.",
+    "vi": "Foster and Partners có <b>khách hàng</b> thay vì người mua."
+   }
+  },
+  {
+   "word": "customer base",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkʌstəmə beɪs/",
+   "def_en": "A company’s customers considered as a group.",
+   "def_vi": "Khách hàng của công ty xét như một nhóm.",
+   "gloss_vi": "lượng khách hàng",
+   "synonyms": "client base <i>(n. lượng khách hàng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Customer base</i> (noun) = lượng khách hàng. <b>Grammar</b>: hơi chuyên môn.",
+   "example": {
+    "en": "IBM’s customers considered as a group make up its <b>customer base</b>.",
+    "vi": "Khách hàng của IBM hợp thành <b>lượng khách hàng</b> của họ."
+   }
+  },
+  {
+   "word": "clientele",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkliːənˈtel/",
+   "def_en": "People who buy a company’s products or services, especially expensive or exclusive ones.",
+   "def_vi": "Người mua sản phẩm/dịch vụ, nhất là hàng đắt hay độc quyền.",
+   "gloss_vi": "giới khách hàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Clientele</i> (noun) = giới khách hàng. <b>Grammar</b>: hiếm dùng số nhiều.",
+   "example": {
+    "en": "People who buy a company’s or a professional’s products or services, especially expensive or exclusive ones, are its <b>clientele</b>.",
+    "vi": "Người mua hàng cao cấp là <b>giới khách hàng</b> của họ."
+   }
+  },
+  {
+   "word": "end-user",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌend ˈjuːzə(r)/",
+   "def_en": "A person who actually uses a product, especially computer equipment.",
+   "def_vi": "Người thực sự dùng sản phẩm, nhất là thiết bị máy tính.",
+   "gloss_vi": "người dùng cuối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>End-user</i> (noun) = người dùng cuối. <b>Grammar</b>: danh từ ghép.",
+   "example": {
+    "en": "the <b>end-users</b> are the employees of the companies that buy its products",
+    "vi": "<b>Người dùng cuối</b> là nhân viên các công ty mua sản phẩm."
+   }
+  },
+  {
+   "word": "consumer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kənˈsjuːmə(r)/",
+   "def_en": "A person who buys products or services for their own use.",
+   "def_vi": "Người mua hàng để tự dùng.",
+   "gloss_vi": "người tiêu dùng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Consumer</i> (noun) = người tiêu dùng. <b>Grammar</b>: động từ <i>consume</i>.",
+   "example": {
+    "en": "People who buy products or services for their own use are <b>consumers</b>",
+    "vi": "Người mua để tự dùng là <b>người tiêu dùng</b>."
+   }
+  },
+  {
+   "word": "purchaser",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɜːtʃəsə(r)/",
+   "def_en": "A person or organization that buys something.",
+   "def_vi": "Người hay tổ chức mua thứ gì.",
+   "gloss_vi": "người mua",
+   "synonyms": "buyer <i>(n. người mua)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Purchaser</i> (noun) = người mua. <b>Grammar</b>: trang trọng; động từ <i>purchase</i>.",
+   "example": {
+    "en": "A person or organization that buys something is a buyer or <b>purchaser</b>.",
+    "vi": "Người mua thứ gì là người mua hay <b>bên mua</b>."
+   }
+  },
+  {
+   "word": "purchasing manager",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɜːtʃəsɪŋ ˌmænɪdʒə(r)/",
+   "def_en": "Someone in a company responsible for buying goods it uses or sells.",
+   "def_vi": "Người trong công ty phụ trách mua hàng.",
+   "gloss_vi": "trưởng phòng mua hàng",
+   "synonyms": "buying manager <i>(n. quản lý mua hàng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Purchasing manager</i> (noun) = trưởng phòng mua hàng. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "These people are also buying managers or <b>purchasing managers</b>.",
+    "vi": "Họ cũng là <b>trưởng phòng mua hàng</b>."
+   }
+  },
+  {
+   "word": "industrial buyer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˌdʌstriəl ˈbaɪə(r)/",
+   "def_en": "An organization that buys things for use in producing its own goods or services.",
+   "def_vi": "Tổ chức mua để dùng sản xuất.",
+   "gloss_vi": "người mua công nghiệp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Industrial buyer</i> (noun) = người mua công nghiệp. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "An <b>industrial buyer</b> is an organization that buys things for use in producing its own goods or services.",
+    "vi": "<b>Người mua công nghiệp</b> mua để sản xuất hàng của mình."
+   }
+  },
+  {
+   "word": "vendor",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈvendə(r)/",
+   "def_en": "A person or organization that sells something, e.g. property.",
+   "def_vi": "Người, tổ chức bán thứ gì, vd nhà đất.",
+   "gloss_vi": "bên bán",
+   "synonyms": "seller <i>(n. người bán)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Vendor</i> (noun) = bên bán. <b>Collocations / chunks</b>: <i>street vendor</i>.",
+   "example": {
+    "en": "In some contexts, for example selling property, they are referred to as the <b>vendor</b>.",
+    "vi": "Khi bán nhà, người bán gọi là <b>bên bán</b>."
+   }
+  },
+  {
+   "word": "vending machine",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈvendɪŋ məˌʃiːn/",
+   "def_en": "A machine from which you can buy coffee, cigarettes, etc.",
+   "def_vi": "Máy bán cà phê, thuốc lá…",
+   "gloss_vi": "máy bán hàng tự động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Vending machine</i> (noun) = máy bán hàng tự động. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "A <b>vending machine</b> is a machine from which you can buy coffee, cigarettes, etc.",
+    "vi": "<b>Máy bán hàng tự động</b> bán cà phê, thuốc lá."
+   }
+  },
+  {
+   "word": "free market",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌfriː ˈmɑːkɪt/",
+   "def_en": "An economic system where prices depend on what people want to buy, not on government.",
+   "def_vi": "Hệ thống kinh tế giá do người mua quyết định, không phải chính phủ.",
+   "gloss_vi": "thị trường tự do",
+   "synonyms": "market economy <i>(n. kinh tế thị trường)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Free market</i> (noun) = thị trường tự do. <b>Collocations / chunks</b>: <i>free-market economy</i>.",
+   "example": {
+    "en": "The market, <b>the free market</b> and market economy are used to talk about an economic system",
+    "vi": "<b>Thị trường tự do</b> dùng để nói về hệ thống kinh tế."
+   }
+  },
+  {
+   "word": "market forces",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmɑːkɪt ˈfɔːsɪz/",
+   "def_en": "The way a market economy makes sellers produce what people want, at prices they will pay.",
+   "def_vi": "Cách kinh tế thị trường buộc người bán làm ra thứ người ta muốn.",
+   "gloss_vi": "các lực lượng thị trường",
+   "synonyms": "market pressures <i>(n. sức ép thị trường)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Market forces</i> (noun) = các lực lượng thị trường. <b>Collocations / chunks</b>: <i>market</i> + <i>forces/pressures/prices/reforms</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Prices are decided by <b>market forces</b>.",
+    "vi": "Giá được quyết định bởi <b>lực lượng thị trường</b>."
+   }
+  },
+  {
+   "word": "marketplace",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɑːkɪtpleɪs/",
+   "def_en": "Producers and buyers in a particular market economy and the way they behave.",
+   "def_vi": "Người sản xuất, người mua và cách họ hành xử.",
+   "gloss_vi": "thương trường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Marketplace</i> (noun) = thương trường. <b>Grammar</b>: danh từ ghép.",
+   "ex_kit": true,
+   "example": {
+    "en": "There is fierce competition in the <b>marketplace</b>.",
+    "vi": "Cạnh tranh gay gắt trên <b>thương trường</b>."
+   }
+  },
+  {
+   "word": "market reforms",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmɑːkɪt rɪˈfɔːmz/",
+   "def_en": "Changes made by a government so that an economy becomes more like a market economy.",
+   "def_vi": "Thay đổi để nền kinh tế giống kinh tế thị trường.",
+   "gloss_vi": "cải cách thị trường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Market reforms</i> (noun) = cải cách thị trường. <b>Collocations / chunks</b>: cụm danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "The government introduced <b>market reforms</b>.",
+    "vi": "Chính phủ đưa ra <b>cải cách thị trường</b>."
+   }
+  }
+ ]
+}

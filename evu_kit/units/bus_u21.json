@@ -1,0 +1,280 @@
+{
+ "book": "bus",
+ "unit": 21,
+ "title_vi": "Tiếp thị và định hướng thị trường",
+ "theory_html": "<p><b>A. Marketing</b><br><i>A. Tiếp thị</i></p> <p><b>Marketing</b> = <b>planning, designing, pricing, promoting, distributing</b> goods/services to satisfy customer needs profitably; <b>marketing concept, marketing department, features, benefits, social marketing</b>.</p><p><i><b>Tiếp thị</b> = lập kế hoạch, thiết kế, định giá, quảng bá, phân phối để thỏa mãn khách có lãi; <b>khái niệm tiếp thị, phòng tiếp thị, đặc điểm, lợi ích, tiếp thị xã hội</b>.</i></p> <p><b>B. The four Ps</b><br><i>B. 4P</i></p> <p><b>product, price, place, promotion</b> (+ <b>packaging</b>), <b>marketing mix, market</b> (v), <b>marketing plan, marketer / marketeer</b> (<b>free marketeer, black marketeer</b>).</p><p><i><b>sản phẩm, giá, phân phối, xúc tiến (+ bao bì), hỗn hợp tiếp thị, tiếp thị (đgt), kế hoạch tiếp thị, nhà tiếp thị</b>.</i></p> <p><b>C. The market orientation</b><br><i>C. Định hướng thị trường</i></p> <p><b>market orientation, market-driven, market-led, market-oriented</b>.</p><p><i><b>định hướng thị trường, do thị trường dẫn dắt</b>.</i></p>",
+ "items": [
+  {
+   "word": "marketing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɑːkɪtɪŋ/",
+   "def_en": "Planning, designing, pricing, promoting and distributing goods/services to satisfy customer needs profitably.",
+   "def_vi": "Lập kế hoạch, thiết kế, định giá, quảng bá, phân phối để thỏa mãn khách có lãi.",
+   "gloss_vi": "tiếp thị",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Marketing</i> (noun) = tiếp thị. <b>Grammar</b>: động từ <i>market</i>.",
+   "example": {
+    "en": "<b>Marketing</b> is the process of planning, designing, pricing, promoting, distributing goods/services in order to satisfy customer needs profitably.",
+    "vi": "<b>Tiếp thị</b> là quá trình thỏa mãn nhu cầu khách một cách có lãi."
+   }
+  },
+  {
+   "word": "pricing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpraɪsɪŋ/",
+   "def_en": "Deciding the price for goods or services.",
+   "def_vi": "Quyết định giá.",
+   "gloss_vi": "định giá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pricing</i> (noun) = định giá. <b>Grammar</b>: động từ <i>price</i>.",
+   "example": {
+    "en": "<b>pricing</b> – deciding the price for",
+    "vi": "<b>Định giá</b> là quyết định giá cho hàng hóa."
+   }
+  },
+  {
+   "word": "promote",
+   "sense": "inform customers",
+   "pos": "verb",
+   "ipa": "/prəˈməʊt/",
+   "def_en": "To inform customers about (a product).",
+   "def_vi": "Thông tin cho khách về (sản phẩm).",
+   "gloss_vi": "quảng bá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Promote</i> (verb) = quảng bá. <b>Grammar</b>: danh từ <i>promotion</i>.",
+   "example": {
+    "en": "<b>promoting</b> – informing customers about",
+    "vi": "<b>Quảng bá</b> là thông tin cho khách về sản phẩm."
+   }
+  },
+  {
+   "word": "distribute",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪˈstrɪbjuːt/",
+   "def_en": "To make (goods) available.",
+   "def_vi": "Làm cho (hàng) có sẵn.",
+   "gloss_vi": "phân phối",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Distribute</i> (verb) = phân phối. <b>Grammar</b>: danh từ <i>distribution</i>.",
+   "example": {
+    "en": "<b>distributing</b> – making available",
+    "vi": "<b>Phân phối</b> là đưa hàng đến người mua."
+   }
+  },
+  {
+   "word": "marketing concept",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɑːkɪtɪŋ ˌkɒnsept/",
+   "def_en": "The idea of profitability through satisfying customer needs, shared by everyone.",
+   "def_vi": "Ý tưởng có lãi nhờ thỏa mãn khách, chung cho mọi người.",
+   "gloss_vi": "khái niệm tiếp thị",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Marketing concept</i> (noun) = khái niệm tiếp thị. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "The <b>marketing concept</b> should be shared by everyone in an organization",
+    "vi": "<b>Khái niệm tiếp thị</b> nên được mọi người trong tổ chức chia sẻ."
+   }
+  },
+  {
+   "word": "features",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfiːtʃəz/",
+   "def_en": "Important characteristics and qualities of a product.",
+   "def_vi": "Đặc điểm, chất lượng quan trọng của sản phẩm.",
+   "gloss_vi": "đặc điểm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Features</i> (noun) = đặc điểm. <b>Collocations / chunks</b>: <i>features and benefits</i>.",
+   "example": {
+    "en": "Companies point out how the special <b>features</b> – important characteristics and qualities – of their products",
+    "vi": "Công ty chỉ ra <b>đặc điểm</b> đặc biệt của sản phẩm."
+   }
+  },
+  {
+   "word": "benefits",
+   "sense": "advantages of product",
+   "pos": "noun",
+   "ipa": "/ˈbenɪfɪts/",
+   "def_en": "Advantages (of a product for buyers).",
+   "def_vi": "Lợi ích (của sản phẩm cho người mua).",
+   "gloss_vi": "lợi ích",
+   "synonyms": "advantages <i>(n. ưu điểm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Benefits</i> (noun) = lợi ích. <b>Grammar</b>: số nhiều.",
+   "example": {
+    "en": "possess particular <b>benefits</b> – advantages – in relation to the needs of the people who buy them",
+    "vi": "Sản phẩm có <b>lợi ích</b> riêng với nhu cầu người mua."
+   }
+  },
+  {
+   "word": "social marketing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsəʊʃl ˈmɑːkɪtɪŋ/",
+   "def_en": "Marketing techniques used by non-profit organizations for social goals.",
+   "def_vi": "Kỹ thuật tiếp thị cho mục tiêu xã hội.",
+   "gloss_vi": "tiếp thị xã hội",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Social marketing</i> (noun) = tiếp thị xã hội. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "This is <b>social marketing</b>.",
+    "vi": "Đó là <b>tiếp thị xã hội</b>."
+   }
+  },
+  {
+   "word": "the four Ps",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ðə ˌfɔː ˈpiːz/",
+   "def_en": "Product, price, place and promotion.",
+   "def_vi": "Sản phẩm, giá, phân phối, xúc tiến.",
+   "gloss_vi": "4P",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The four Ps</i> (noun) = 4P. <b>Collocations / chunks</b>: P thứ năm: <i>packaging</i>.",
+   "example": {
+    "en": "<b>The four Ps</b> are: product, price, place, promotion",
+    "vi": "<b>4P</b> là sản phẩm, giá, phân phối, xúc tiến."
+   }
+  },
+  {
+   "word": "place",
+   "sense": "distribution (4Ps)",
+   "pos": "noun",
+   "ipa": "/pleɪs/",
+   "def_en": "Deciding how a product will be distributed and where people will buy it.",
+   "def_vi": "Quyết định cách phân phối và nơi bán sản phẩm.",
+   "gloss_vi": "phân phối (P thứ 3)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Place</i> (noun) = phân phối (P thứ 3). <b>Grammar</b>: nghĩa trong 4P.",
+   "example": {
+    "en": "<b>place</b> – deciding how the product will be distributed and where people will buy it",
+    "vi": "<b>Phân phối</b> – quyết định nơi người ta mua sản phẩm."
+   }
+  },
+  {
+   "word": "promotion",
+   "sense": "advertising support",
+   "pos": "noun",
+   "ipa": "/prəˈməʊʃn/",
+   "def_en": "Supporting a product with advertising, special activities, etc.",
+   "def_vi": "Hỗ trợ sản phẩm bằng quảng cáo, hoạt động đặc biệt.",
+   "gloss_vi": "xúc tiến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Promotion</i> (noun) = xúc tiến. <b>Grammar</b>: nghĩa trong 4P.",
+   "example": {
+    "en": "<b>promotion</b> – deciding how the product will be supported with advertising, special activities, etc.",
+    "vi": "<b>Xúc tiến</b> – hỗ trợ sản phẩm bằng quảng cáo."
+   }
+  },
+  {
+   "word": "packaging",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpækɪdʒɪŋ/",
+   "def_en": "The materials used to protect and present a product before it is sold.",
+   "def_vi": "Vật liệu bảo vệ, trình bày sản phẩm trước khi bán.",
+   "gloss_vi": "bao bì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Packaging</i> (noun) = bao bì. <b>Grammar</b>: động từ <i>package</i>.",
+   "example": {
+    "en": "A fifth P which is sometimes added is <b>packaging</b> – the materials used to protect and present a product before it is sold.",
+    "vi": "P thứ năm là <b>bao bì</b>."
+   }
+  },
+  {
+   "word": "marketing mix",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɑːkɪtɪŋ mɪks/",
+   "def_en": "The activities you have to combine successfully in order to sell.",
+   "def_vi": "Các hoạt động cần kết hợp để bán được.",
+   "gloss_vi": "hỗn hợp tiếp thị",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Marketing mix</i> (noun) = hỗn hợp tiếp thị. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "The four Ps are a useful summary of the <b>marketing mix</b>",
+    "vi": "4P tóm tắt <b>hỗn hợp tiếp thị</b>."
+   }
+  },
+  {
+   "word": "market",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈmɑːkɪt/",
+   "def_en": "To make a plan based on a marketing mix and put it into action.",
+   "def_vi": "Lập kế hoạch tiếp thị và thực hiện.",
+   "gloss_vi": "tiếp thị",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Market</i> (verb) = tiếp thị. <b>Grammar</b>: động từ.",
+   "example": {
+    "en": "To <b>market</b> a product is to make a plan based on a particular marketing mix and put it into action.",
+    "vi": "<b>Tiếp thị</b> sản phẩm là lập kế hoạch và thực hiện nó."
+   }
+  },
+  {
+   "word": "marketer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɑːkɪtə(r)/",
+   "def_en": "Someone who works in marketing; an organization that sells particular goods.",
+   "def_vi": "Người làm tiếp thị; tổ chức bán hàng.",
+   "gloss_vi": "nhà tiếp thị",
+   "synonyms": "marketeer <i>(n. nhà tiếp thị)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Marketer</i> (noun) = nhà tiếp thị. <b>Collocations / chunks</b>: <i>free marketeer, black marketeer</i>.",
+   "example": {
+    "en": "A <b>marketer</b> or marketeer is someone who works in this area.",
+    "vi": "<b>Nhà tiếp thị</b> là người làm việc trong mảng này."
+   }
+  },
+  {
+   "word": "market orientation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmɑːkɪt ˌɔːriənˈteɪʃn/",
+   "def_en": "The fact that everything is designed to meet the needs of the market.",
+   "def_vi": "Mọi thứ được thiết kế để đáp ứng thị trường.",
+   "gloss_vi": "định hướng thị trường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Market orientation</i> (noun) = định hướng thị trường. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "Marketers often talk about <b>market orientation</b>",
+    "vi": "Nhà tiếp thị hay nói về <b>định hướng thị trường</b>."
+   }
+  },
+  {
+   "word": "market-driven",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌmɑːkɪt ˈdrɪvn/",
+   "def_en": "Designed to meet the needs of the market.",
+   "def_vi": "Được thiết kế để đáp ứng thị trường.",
+   "gloss_vi": "do thị trường dẫn dắt",
+   "synonyms": "market-led <i>(adj. theo thị trường)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Market-driven</i> (adjective) = do thị trường dẫn dắt. <b>Grammar</b>: tính từ ghép.",
+   "example": {
+    "en": "may be described as <b>market-driven</b>, market-led or market-oriented",
+    "vi": "Sản phẩm có thể được mô tả là <b>do thị trường dẫn dắt</b>."
+   }
+  }
+ ]
+}
