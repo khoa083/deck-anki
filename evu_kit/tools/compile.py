@@ -10,7 +10,8 @@ POS = {"n": "noun", "v": "verb", "adj": "adjective", "adv": "adverb", "np": "nou
        "pv": "phrasal verb", "idm": "idiom", "exp": "expression", "phr": "phrase", "prep": "preposition", "conj": "conjunction",
        "pron": "pronoun", "det": "determiner", "num": "number", "intj": "exclamation", "abbr": "abbreviation", "pref": "prefix",
        "suf": "suffix", "ap": "adjective phrase", "pp": "prepositional phrase", "mv": "modal verb", "un": "uncountable noun",
-       "cn": "countable noun", "aux": "auxiliary verb", "dm": "discourse marker", "lw": "linking word", "sim": "simile", "prov": "proverb"}
+       "cn": "countable noun", "aux": "auxiliary verb", "dm": "discourse marker", "lw": "linking word", "sim": "simile", "prov": "proverb",
+       "cl": "fixed expression", "excl": "exclamation", "adjp": "adjective phrase", "st": "structure"}
 INFL = r"(?:s|es|ed|d|ing|er|ers|est|ies|ied|ier|iest|'s|’s|n|en|ly)?"
 
 
