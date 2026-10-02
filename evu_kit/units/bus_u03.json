@@ -1,0 +1,376 @@
+{
+ "book": "bus",
+ "unit": 3,
+ "title_vi": "Tuyển dụng và tuyển chọn",
+ "theory_html": "<p><b>A. Recruitment</b><br><i>A. Tuyển dụng</i></p> <p><b>recruitment</b> (AmE <b>hiring</b>), <b>recruit</b> (v/n; AmE <b>hire</b>), <b>employ / hire, join, recruiters, recruitment agencies, employment agencies, headhunters, headhunted, headhunting</b>.</p><p><i><b>tuyển dụng, tuyển / người được tuyển, thuê, gia nhập, nhà tuyển dụng, công ty tuyển dụng, trung tâm việc làm, săn đầu người</b>.</i></p> <p><b>B. Applying for a job</b><br><i>B. Nộp đơn xin việc</i></p> <p><b>situations vacant, apply for, application form, jobs website, make an application, CV (curriculum vitae; AmE résumé), covering letter (AmE cover letter)</b>. Note: <b>situation, post, position</b> are formal words in job advertisements.</p><p><i><b>mục tuyển dụng, nộp đơn, mẫu đơn, trang việc làm, nộp hồ sơ, sơ yếu lý lịch, thư xin việc</b>. <b>situation, post, position</b> = vị trí (trang trọng).</i></p> <p><b>C. Selection procedures</b><br><i>C. Quy trình tuyển chọn</i></p> <p><b>selection process, backgrounds, applicants, experience, qualifications, candidates, group discussion, interviews, psychometric tests, shortlist, references, referees, offer, turn down, job offers, accept, appoint</b>.</p><p><i><b>quy trình tuyển chọn, lý lịch, ứng viên, kinh nghiệm, bằng cấp, ứng cử viên, thảo luận nhóm, phỏng vấn, trắc nghiệm tâm lý, chọn vào danh sách ngắn, thư giới thiệu, người giới thiệu, mời nhận việc, từ chối, lời mời làm việc, nhận, bổ nhiệm</b>.</i></p>",
+ "items": [
+  {
+   "word": "recruitment",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˈkruːtmənt/",
+   "def_en": "The process of finding people for particular jobs.",
+   "def_vi": "Quá trình tìm người cho công việc.",
+   "gloss_vi": "tuyển dụng",
+   "synonyms": "hiring <i>(n. tuyển dụng (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Recruitment</i> (noun) = tuyển dụng. <b>Grammar</b>: động từ <i>recruit</i>; Mỹ <i>hiring</i>.",
+   "example": {
+    "en": "The process of finding people for particular jobs is <b>recruitment</b>",
+    "vi": "Quá trình tìm người cho công việc là <b>tuyển dụng</b>."
+   }
+  },
+  {
+   "word": "recruit",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˈkruːt/",
+   "def_en": "Someone who has been recruited.",
+   "def_vi": "Người vừa được tuyển.",
+   "gloss_vi": "người mới được tuyển",
+   "synonyms": "hire <i>(n. người được thuê (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Recruit</i> (noun) = người mới được tuyển. <b>Grammar</b>: cũng là động từ.",
+   "example": {
+    "en": "Someone who has been recruited is a <b>recruit</b>",
+    "vi": "Người đã được tuyển là <b>người mới được tuyển</b>."
+   }
+  },
+  {
+   "word": "hire",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈhaɪə(r)/",
+   "def_en": "To employ someone.",
+   "def_vi": "Thuê người làm.",
+   "gloss_vi": "thuê",
+   "synonyms": "employ <i>(v. tuyển dụng)</i>",
+   "antonyms": "fire <i>(v. sa thải)</i>",
+   "grammar_vi": "<i>Hire</i> (verb) = thuê. <b>Grammar</b>: Mỹ; danh từ <i>a hire</i> = người được thuê.",
+   "example": {
+    "en": "The company employs or <b>hires</b> them and they join the company.",
+    "vi": "Công ty <b>thuê</b> họ và họ gia nhập công ty."
+   }
+  },
+  {
+   "word": "recruitment agency",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˈkruːtmənt ˌeɪdʒənsi/",
+   "def_en": "An outside company that finds employees for organisations.",
+   "def_vi": "Công ty bên ngoài tìm nhân viên cho tổ chức.",
+   "gloss_vi": "công ty tuyển dụng",
+   "synonyms": "employment agency <i>(n. trung tâm việc làm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Recruitment agency</i> (noun) = công ty tuyển dụng. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "A company may recruit employees directly or use outside recruiters, <b>recruitment agencies</b> or employment agencies.",
+    "vi": "Công ty có thể dùng <b>công ty tuyển dụng</b> bên ngoài."
+   }
+  },
+  {
+   "word": "headhunter",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhedhʌntə(r)/",
+   "def_en": "An outside specialist who finds people for very important jobs.",
+   "def_vi": "Chuyên gia tìm người cho vị trí rất quan trọng.",
+   "gloss_vi": "người săn đầu người",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Headhunter</i> (noun) = người săn đầu người. <b>Grammar</b>: động từ <i>headhunt</i>; danh từ <i>headhunting</i>.",
+   "example": {
+    "en": "Outside specialists called <b>headhunters</b> may be used to find people for very important jobs",
+    "vi": "<b>Người săn đầu người</b> được dùng để tìm người cho vị trí quan trọng."
+   }
+  },
+  {
+   "word": "situations vacant",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsɪtʃueɪʃnz ˈveɪkənt/",
+   "def_en": "Newspaper pages advertising jobs.",
+   "def_vi": "Trang báo quảng cáo việc làm.",
+   "gloss_vi": "mục tuyển dụng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Situations vacant</i> (noun) = mục tuyển dụng. <b>Grammar</b>: <i>situation</i> = vị trí (trang trọng).",
+   "example": {
+    "en": "He looked in the <b>situations vacant</b> pages of his local newspaper",
+    "vi": "Anh ấy xem <b>mục tuyển dụng</b> trên báo địa phương."
+   }
+  },
+  {
+   "word": "apply for",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈplaɪ fə(r)/",
+   "def_en": "To formally ask for a job.",
+   "def_vi": "Chính thức xin việc.",
+   "gloss_vi": "nộp đơn xin",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Apply for</i> (verb) = nộp đơn xin. <b>Grammar</b>: danh từ <i>application</i>.",
+   "example": {
+    "en": "He <b>applied for</b> the job by completing an application form",
+    "vi": "Anh ấy <b>nộp đơn xin</b> việc bằng mẫu đơn."
+   }
+  },
+  {
+   "word": "application form",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌæplɪˈkeɪʃn fɔːm/",
+   "def_en": "A document you complete to apply for a job.",
+   "def_vi": "Mẫu điền để xin việc.",
+   "gloss_vi": "mẫu đơn xin việc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Application form</i> (noun) = mẫu đơn xin việc. <b>Collocations / chunks</b>: <i>complete/fill in an application form</i>.",
+   "example": {
+    "en": "by completing an <b>application form</b> and sending it in",
+    "vi": "Anh ấy điền <b>mẫu đơn xin việc</b> và gửi đi."
+   }
+  },
+  {
+   "word": "make an application",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌmeɪk ən ˌæplɪˈkeɪʃn/",
+   "def_en": "To apply for a job.",
+   "def_vi": "Nộp đơn xin việc.",
+   "gloss_vi": "nộp hồ sơ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Make an application</i> (verb) = nộp hồ sơ. <b>Collocations / chunks</b>: <i>make an application for</i> sth.",
+   "example": {
+    "en": "He <b>made an application</b>, sending in his CV",
+    "vi": "Anh ấy <b>nộp hồ sơ</b>, gửi kèm CV."
+   }
+  },
+  {
+   "word": "CV",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsiː ˈviː/",
+   "def_en": "Curriculum vitae: a document describing your education, qualifications and previous jobs.",
+   "def_vi": "Tài liệu mô tả học vấn, bằng cấp, việc đã làm.",
+   "gloss_vi": "sơ yếu lý lịch",
+   "synonyms": "résumé <i>(n. lý lịch (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>CV</i> (noun) = sơ yếu lý lịch. <b>Grammar</b>: Anh <i>CV</i>; Mỹ <i>résumé</i>.",
+   "example": {
+    "en": "sending in his <b>CV</b> (curriculum vitae)",
+    "vi": "Anh ấy gửi <b>CV</b> cho nhà tuyển dụng tương lai."
+   }
+  },
+  {
+   "word": "covering letter",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkʌvərɪŋ ˈletə(r)/",
+   "def_en": "A letter explaining why you want the job and why you are the right person.",
+   "def_vi": "Thư giải thích lý do muốn việc và vì sao phù hợp.",
+   "gloss_vi": "thư xin việc",
+   "synonyms": "cover letter <i>(n. thư xin việc (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Covering letter</i> (noun) = thư xin việc. <b>Grammar</b>: Anh; Mỹ <i>cover letter</i>.",
+   "example": {
+    "en": "and a <b>covering letter</b> explaining why he wanted the job",
+    "vi": "Anh ấy gửi kèm <b>thư xin việc</b> giải thích lý do."
+   }
+  },
+  {
+   "word": "position",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pəˈzɪʃn/",
+   "def_en": "A job (formal, in advertisements).",
+   "def_vi": "Vị trí việc làm (trang trọng).",
+   "gloss_vi": "vị trí",
+   "synonyms": "post <i>(n. vị trí)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Position</i> (noun) = vị trí. <b>Grammar</b>: trang trọng; cũng <i>post, situation</i>.",
+   "example": {
+    "en": "a local supermarket was advertising for a new accountant’s <b>position</b>",
+    "vi": "Siêu thị quảng cáo <b>vị trí</b> kế toán mới."
+   }
+  },
+  {
+   "word": "selection process",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/sɪˈlekʃn ˌprəʊses/",
+   "def_en": "The methods a company uses to recruit people.",
+   "def_vi": "Các phương pháp công ty dùng để tuyển người.",
+   "gloss_vi": "quy trình tuyển chọn",
+   "synonyms": "selection procedures <i>(n. thủ tục tuyển chọn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Selection process</i> (noun) = quy trình tuyển chọn. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "She talks about the <b>selection process</b>",
+    "vi": "Cô ấy nói về <b>quy trình tuyển chọn</b>."
+   }
+  },
+  {
+   "word": "applicant",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈæplɪkənt/",
+   "def_en": "A person who applies for a job.",
+   "def_vi": "Người nộp đơn xin việc.",
+   "gloss_vi": "người nộp đơn",
+   "synonyms": "candidate <i>(n. ứng viên)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Applicant</i> (noun) = người nộp đơn. <b>Grammar</b>: động từ <i>apply</i>.",
+   "example": {
+    "en": "We look at the backgrounds of <b>applicants</b>",
+    "vi": "Chúng tôi xem lý lịch của <b>người nộp đơn</b>."
+   }
+  },
+  {
+   "word": "qualifications",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkwɒlɪfɪˈkeɪʃnz/",
+   "def_en": "Exams passed and certificates obtained.",
+   "def_vi": "Bằng cấp, chứng chỉ đạt được.",
+   "gloss_vi": "bằng cấp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Qualifications</i> (noun) = bằng cấp. <b>Collocations / chunks</b>: <i>educational qualifications</i>.",
+   "example": {
+    "en": "their experience of different jobs and their educational <b>qualifications</b>",
+    "vi": "Chúng tôi xem kinh nghiệm và <b>bằng cấp</b> học vấn."
+   }
+  },
+  {
+   "word": "candidate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkændɪdət/",
+   "def_en": "A person being considered for a job.",
+   "def_vi": "Người đang được xét cho vị trí.",
+   "gloss_vi": "ứng viên",
+   "synonyms": "applicant <i>(n. người nộp đơn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Candidate</i> (noun) = ứng viên. <b>Collocations / chunks</b>: <i>shortlist candidates</i>.",
+   "example": {
+    "en": "We invite the most interesting <b>candidates</b> to a group discussion.",
+    "vi": "Chúng tôi mời <b>ứng viên</b> thú vị nhất tham gia thảo luận nhóm."
+   }
+  },
+  {
+   "word": "psychometric test",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsaɪkəˌmetrɪk ˈtest/",
+   "def_en": "A written test to assess intelligence and personality.",
+   "def_vi": "Bài viết đánh giá trí tuệ và tính cách.",
+   "gloss_vi": "trắc nghiệm tâm lý",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Psychometric test</i> (noun) = trắc nghiệm tâm lý. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "We also give the candidates written <b>psychometric tests</b> to assess their intelligence and personality.",
+    "vi": "Chúng tôi cho ứng viên làm <b>trắc nghiệm tâm lý</b>."
+   }
+  },
+  {
+   "word": "shortlist",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈʃɔːtlɪst/",
+   "def_en": "To choose a small number of candidates for the final stage.",
+   "def_vi": "Chọn số ít ứng viên vào vòng cuối.",
+   "gloss_vi": "chọn vào danh sách ngắn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shortlist</i> (verb) = chọn vào danh sách ngắn. <b>Grammar</b>: cũng là danh từ <i>a shortlist</i>.",
+   "example": {
+    "en": "we <b>shortlist</b> three or four candidates",
+    "vi": "Chúng tôi <b>chọn</b> ba bốn ứng viên <b>vào danh sách ngắn</b>."
+   }
+  },
+  {
+   "word": "references",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈrefrənsɪz/",
+   "def_en": "Statements about a candidate from previous employers, teachers, etc.",
+   "def_vi": "Nhận xét về ứng viên từ chủ cũ, giáo viên…",
+   "gloss_vi": "thư giới thiệu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>References</i> (noun) = thư giới thiệu. <b>Grammar</b>: người viết = <i>referee</i>.",
+   "example": {
+    "en": "We check their <b>references</b> by writing to their referees",
+    "vi": "Chúng tôi kiểm tra <b>thư giới thiệu</b> bằng cách viết cho người giới thiệu."
+   }
+  },
+  {
+   "word": "referee",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌrefəˈriː/",
+   "def_en": "A previous employer, teacher, etc. that a candidate names in their application.",
+   "def_vi": "Chủ cũ, giáo viên… được ứng viên nêu tên.",
+   "gloss_vi": "người giới thiệu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Referee</i> (noun) = người giới thiệu. <b>Grammar</b>: cũng = trọng tài (thể thao).",
+   "example": {
+    "en": "by writing to their <b>referees</b> – previous employers, teachers, and so on",
+    "vi": "Chúng tôi viết cho <b>người giới thiệu</b> của họ."
+   }
+  },
+  {
+   "word": "turn down",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌtɜːn ˈdaʊn/",
+   "def_en": "To refuse (an offer).",
+   "def_vi": "Từ chối (lời mời).",
+   "gloss_vi": "từ chối",
+   "synonyms": "refuse <i>(v. từ chối)</i>",
+   "antonyms": "accept <i>(v. nhận)</i>",
+   "grammar_vi": "<i>Turn down</i> (verb) = từ chối. <b>Grammar</b>: tách được <i>turn it down</i>.",
+   "example": {
+    "en": "if they <b>turn it down</b> we have to think again",
+    "vi": "Nếu họ <b>từ chối</b>, chúng tôi phải nghĩ lại."
+   }
+  },
+  {
+   "word": "job offer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdʒɒb ˌɒfə(r)/",
+   "def_en": "An offer of a job.",
+   "def_vi": "Lời mời làm việc.",
+   "gloss_vi": "lời mời làm việc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Job offer</i> (noun) = lời mời làm việc. <b>Collocations / chunks</b>: <i>accept/turn down a job offer</i>.",
+   "example": {
+    "en": "Some applicants may get other <b>job offers</b> at the same time as ours.",
+    "vi": "Vài ứng viên có thể nhận <b>lời mời làm việc</b> khác cùng lúc."
+   }
+  },
+  {
+   "word": "appoint",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈpɔɪnt/",
+   "def_en": "To choose someone for a job.",
+   "def_vi": "Chọn ai vào vị trí.",
+   "gloss_vi": "bổ nhiệm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Appoint</i> (verb) = bổ nhiệm. <b>Grammar</b>: danh từ <i>appointment</i>.",
+   "example": {
+    "en": "We <b>appoint</b> someone only if we find the right person.",
+    "vi": "Chúng tôi chỉ <b>bổ nhiệm</b> khi tìm được đúng người."
+   }
+  }
+ ]
+}

@@ -1,0 +1,360 @@
+{
+ "book": "bus",
+ "unit": 1,
+ "title_vi": "Công việc và nghề nghiệp",
+ "theory_html": "<p><b>A. What do you do?</b><br><i>A. Bạn làm nghề gì?</i></p> <p>Ask <b>What do you do?</b> Talking about your job: <b>work for, work on, run, manage, work under, responsibilities, in charge of, deal with, responsible for, work with</b>. Note: <b>in charge of</b> + noun; <b>responsible for</b> + -ing; <b>responsibility</b> + infinitive / -ing; NOT ‘I’m a responsible’.</p><p><i>Hỏi <b>What do you do?</b> Nói về công việc: <b>làm cho, làm về, điều hành, quản lý, làm dưới quyền, trách nhiệm, phụ trách, xử lý, chịu trách nhiệm, làm cùng</b>.</i></p> <p><b>B. Word combinations with ‘work’</b><br><i>B. Kết hợp với ‘work’</i></p> <p><b>work / have work</b> (NOT ‘a work’; NOT ‘at the work’): <b>in work, out of work, leave for work, go to work, get to / arrive at work, at work, time off work</b>.</p><p><i><b>có việc, thất nghiệp, đi làm, đến chỗ làm, ở chỗ làm, nghỉ làm</b>.</i></p> <p><b>C. Types of job and types of work</b><br><i>C. Loại việc</i></p> <p><b>full-time job, part-time job, work full-time / part-time, permanent job, temporary job, temporary / permanent work</b>.</p><p><i><b>việc toàn thời gian, bán thời gian, việc lâu dài, việc tạm thời</b>.</i></p>",
+ "items": [
+  {
+   "word": "What do you do?",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ˌwɒt də ju ˈduː/",
+   "def_en": "The question you ask to find out what someone’s job is.",
+   "def_vi": "Câu hỏi để biết ai làm nghề gì.",
+   "gloss_vi": "bạn làm nghề gì?",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>What do you do?</i> (cl) = bạn làm nghề gì?. <b>Collocations / chunks</b>: câu hỏi cố định về nghề nghiệp.",
+   "example": {
+    "en": "To find out what someone’s job is, you ask <b>‘What do you do?’</b>",
+    "vi": "Để biết nghề của ai, bạn hỏi <b>‘Bạn làm nghề gì?’</b>."
+   }
+  },
+  {
+   "word": "work for",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈwɜːk fə(r)/",
+   "def_en": "To be employed by (a company).",
+   "def_vi": "Được (công ty) thuê làm.",
+   "gloss_vi": "làm việc cho",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Work for</i> (verb) = làm việc cho. <b>Collocations / chunks</b>: <i>work for</i> + công ty.",
+   "example": {
+    "en": "I <b>work for</b> a large European car maker.",
+    "vi": "Tôi <b>làm việc cho</b> một hãng ô tô lớn của châu Âu."
+   }
+  },
+  {
+   "word": "work on",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈwɜːk ɒn/",
+   "def_en": "To spend time doing or producing something.",
+   "def_vi": "Dành thời gian làm điều gì.",
+   "gloss_vi": "làm về",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Work on</i> (verb) = làm về. <b>Collocations / chunks</b>: <i>work on</i> + dự án/lĩnh vực.",
+   "example": {
+    "en": "I <b>work on</b> car design.",
+    "vi": "Tôi <b>làm về</b> thiết kế ô tô."
+   }
+  },
+  {
+   "word": "run",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rʌn/",
+   "def_en": "To be in charge of (a department, business).",
+   "def_vi": "Phụ trách (phòng, doanh nghiệp).",
+   "gloss_vi": "điều hành",
+   "synonyms": "manage <i>(v. quản lý)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Run</i> (verb) = điều hành. <b>Grammar</b>: bất quy tắc <i>run – ran – run</i>.",
+   "example": {
+    "en": "In fact, I <b>run</b> the design department",
+    "vi": "Tôi <b>điều hành</b> phòng thiết kế."
+   }
+  },
+  {
+   "word": "manage",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈmænɪdʒ/",
+   "def_en": "To be in charge of people or an activity.",
+   "def_vi": "Phụ trách người hay hoạt động.",
+   "gloss_vi": "quản lý",
+   "synonyms": "run <i>(v. điều hành)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Manage</i> (verb) = quản lý. <b>Grammar</b>: danh từ <i>management, manager</i>.",
+   "example": {
+    "en": "I <b>manage</b> a team of designers",
+    "vi": "Tôi <b>quản lý</b> một nhóm nhà thiết kế."
+   }
+  },
+  {
+   "word": "work under",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈwɜːk ˌʌndə(r)/",
+   "def_en": "To have someone as your boss.",
+   "def_vi": "Có ai làm sếp.",
+   "gloss_vi": "làm dưới quyền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Work under</i> (verb) = làm dưới quyền. <b>Collocations / chunks</b>: <i>work under</i> sb.",
+   "example": {
+    "en": "20 people <b>work under</b> me",
+    "vi": "20 người <b>làm dưới quyền</b> tôi."
+   }
+  },
+  {
+   "word": "responsibilities",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˌspɒnsəˈbɪlətiz/",
+   "def_en": "Duties that are part of your job.",
+   "def_vi": "Nhiệm vụ trong công việc.",
+   "gloss_vi": "trách nhiệm",
+   "synonyms": "duties <i>(n. nhiệm vụ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Responsibilities</i> (noun) = trách nhiệm. <b>Grammar</b>: + to V / V-ing.",
+   "example": {
+    "en": "One of my main <b>responsibilities</b> is to make sure that new model designs are finished on time.",
+    "vi": "Một <b>trách nhiệm</b> chính của tôi là đảm bảo thiết kế xong đúng hạn."
+   }
+  },
+  {
+   "word": "in charge of",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪn ˈtʃɑːdʒ əv/",
+   "def_en": "Having control of or responsibility for.",
+   "def_vi": "Kiểm soát, chịu trách nhiệm.",
+   "gloss_vi": "phụ trách",
+   "synonyms": "responsible for <i>(adj. chịu trách nhiệm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In charge of</i> (adjective) = phụ trách. <b>Grammar</b>: + danh từ.",
+   "example": {
+    "en": "I’m also <b>in charge of</b> design budgets.",
+    "vi": "Tôi cũng <b>phụ trách</b> ngân sách thiết kế."
+   }
+  },
+  {
+   "word": "deal with",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈdiːl wɪð/",
+   "def_en": "To have contact with people as part of your job.",
+   "def_vi": "Tiếp xúc với người trong công việc.",
+   "gloss_vi": "làm việc với, giao dịch với",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Deal with</i> (verb) = làm việc với, giao dịch với. <b>Grammar</b>: bất quy tắc <i>deal – dealt</i>.",
+   "example": {
+    "en": "I <b>deal with</b> a lot of different people in the company.",
+    "vi": "Tôi <b>làm việc với</b> nhiều người khác nhau trong công ty."
+   }
+  },
+  {
+   "word": "responsible for",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/rɪˈspɒnsəbl fə(r)/",
+   "def_en": "Having the job of dealing with something.",
+   "def_vi": "Có nhiệm vụ xử lý điều gì.",
+   "gloss_vi": "chịu trách nhiệm về",
+   "synonyms": "in charge of <i>(adj. phụ trách)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Responsible for</i> (adjective) = chịu trách nhiệm về. <b>Grammar</b>: + danh từ / V-ing; không nói <i>I’m a responsible</i>.",
+   "example": {
+    "en": "I’m <b>responsible for</b> coordination between design and production",
+    "vi": "Tôi <b>chịu trách nhiệm</b> phối hợp giữa thiết kế và sản xuất."
+   }
+  },
+  {
+   "word": "work with",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈwɜːk wɪð/",
+   "def_en": "To work together with.",
+   "def_vi": "Làm cùng với.",
+   "gloss_vi": "làm việc cùng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Work with</i> (verb) = làm việc cùng. <b>Collocations / chunks</b>: <i>work with</i> sb.",
+   "example": {
+    "en": "I <b>work with</b> managers at our manufacturing plants.",
+    "vi": "Tôi <b>làm việc cùng</b> các quản lý ở nhà máy."
+   }
+  },
+  {
+   "word": "in work",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ɪn ˈwɜːk/",
+   "def_en": "Having a job.",
+   "def_vi": "Có việc làm.",
+   "gloss_vi": "có việc làm",
+   "synonyms": "employed <i>(adj. có việc)</i>",
+   "antonyms": "out of work <i>(adj. thất nghiệp)</i>",
+   "grammar_vi": "<i>In work</i> (adjective) = có việc làm. <b>Grammar</b>: <i>work</i> không đếm được; không nói <i>a work</i>.",
+   "example": {
+    "en": "more people are <b>in work</b> – have a job – than ever before",
+    "vi": "Nhiều người <b>có việc làm</b> hơn bao giờ hết."
+   }
+  },
+  {
+   "word": "out of work",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌaʊt əv ˈwɜːk/",
+   "def_en": "Without a job.",
+   "def_vi": "Không có việc.",
+   "gloss_vi": "thất nghiệp",
+   "synonyms": "unemployed <i>(adj. thất nghiệp)</i>",
+   "antonyms": "in work <i>(adj. có việc)</i>",
+   "grammar_vi": "<i>Out of work</i> (adjective) = thất nghiệp. <b>Collocations / chunks</b>: <i>be out of work</i>.",
+   "example": {
+    "en": "The percentage of people <b>out of work</b> – without a job – has fallen to its lowest level for 30 years.",
+    "vi": "Tỉ lệ người <b>thất nghiệp</b> thấp nhất trong 30 năm."
+   }
+  },
+  {
+   "word": "leave for work",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌliːv fə ˈwɜːk/",
+   "def_en": "To leave home to go to your job.",
+   "def_vi": "Rời nhà đi làm.",
+   "gloss_vi": "đi làm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Leave for work</i> (verb) = đi làm. <b>Grammar</b>: không có mạo từ trước <i>work</i>.",
+   "example": {
+    "en": "I leave <b>for work</b> at 7.30 every morning.",
+    "vi": "Tôi <b>đi làm</b> lúc 7 giờ 30 mỗi sáng."
+   }
+  },
+  {
+   "word": "go to work",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡəʊ tə ˈwɜːk/",
+   "def_en": "To travel to your job.",
+   "def_vi": "Đi đến chỗ làm.",
+   "gloss_vi": "đi làm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go to work</i> (verb) = đi làm. <b>Grammar</b>: không nói <i>to the work</i>.",
+   "example": {
+    "en": "I <b>go to work</b> by train and subway.",
+    "vi": "Tôi <b>đi làm</b> bằng tàu và tàu điện ngầm."
+   }
+  },
+  {
+   "word": "get to work",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡet tə ˈwɜːk/",
+   "def_en": "To arrive at your job.",
+   "def_vi": "Đến chỗ làm.",
+   "gloss_vi": "đến chỗ làm",
+   "synonyms": "arrive at work <i>(v. đến chỗ làm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Get to work</i> (verb) = đến chỗ làm. <b>Grammar</b>: không có mạo từ.",
+   "example": {
+    "en": "I <b>get to</b> / arrive at work at about 9.",
+    "vi": "Tôi <b>đến chỗ làm</b> khoảng 9 giờ."
+   }
+  },
+  {
+   "word": "at work",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ət ˈwɜːk/",
+   "def_en": "At the place where you do your job.",
+   "def_vi": "Ở chỗ làm.",
+   "gloss_vi": "ở chỗ làm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>At work</i> (adverb) = ở chỗ làm. <b>Grammar</b>: không nói <i>at the work</i>.",
+   "example": {
+    "en": "I’m usually <b>at work</b> till 6.",
+    "vi": "Tôi thường <b>ở chỗ làm</b> đến 6 giờ."
+   }
+  },
+  {
+   "word": "time off work",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌtaɪm ɒf ˈwɜːk/",
+   "def_en": "Time away from work, e.g. due to illness.",
+   "def_vi": "Thời gian nghỉ làm, vd vì ốm.",
+   "gloss_vi": "thời gian nghỉ làm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Time off work</i> (noun) = thời gian nghỉ làm. <b>Collocations / chunks</b>: <i>take time off work</i>.",
+   "example": {
+    "en": "I don’t often take <b>time off work</b> – away from work due to illness",
+    "vi": "Tôi ít khi <b>nghỉ làm</b>."
+   }
+  },
+  {
+   "word": "full-time job",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌfʊl taɪm ˈdʒɒb/",
+   "def_en": "A job for the whole of the normal working week.",
+   "def_vi": "Việc làm cả tuần làm việc bình thường.",
+   "gloss_vi": "việc toàn thời gian",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "part-time job <i>(n. việc bán thời gian)</i>",
+   "grammar_vi": "<i>Full-time job</i> (noun) = việc toàn thời gian. <b>Collocations / chunks</b>: <i>work full-time</i>.",
+   "example": {
+    "en": "A <b>full-time job</b> is one for the whole of the normal working week",
+    "vi": "<b>Việc toàn thời gian</b> là việc làm suốt tuần làm việc."
+   }
+  },
+  {
+   "word": "part-time job",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpɑːt taɪm ˈdʒɒb/",
+   "def_en": "A job for less time than the normal working week.",
+   "def_vi": "Việc làm ít hơn tuần làm việc bình thường.",
+   "gloss_vi": "việc bán thời gian",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "full-time job <i>(n. việc toàn thời gian)</i>",
+   "grammar_vi": "<i>Part-time job</i> (noun) = việc bán thời gian. <b>Collocations / chunks</b>: <i>work part-time</i>.",
+   "example": {
+    "en": "a <b>part-time job</b> is for less time than that",
+    "vi": "<b>Việc bán thời gian</b> là việc ít giờ hơn thế."
+   }
+  },
+  {
+   "word": "permanent job",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpɜːmənənt ˈdʒɒb/",
+   "def_en": "A job that does not finish after a fixed period.",
+   "def_vi": "Việc không kết thúc sau thời hạn cố định.",
+   "gloss_vi": "việc lâu dài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "temporary job <i>(n. việc tạm thời)</i>",
+   "grammar_vi": "<i>Permanent job</i> (noun) = việc lâu dài. <b>Collocations / chunks</b>: <i>permanent work</i>.",
+   "example": {
+    "en": "A <b>permanent job</b> does not finish after a fixed period",
+    "vi": "<b>Việc lâu dài</b> không kết thúc sau một thời hạn."
+   }
+  },
+  {
+   "word": "temporary job",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌtemprəri ˈdʒɒb/",
+   "def_en": "A job that finishes after a fixed period.",
+   "def_vi": "Việc kết thúc sau thời hạn cố định.",
+   "gloss_vi": "việc tạm thời",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "permanent job <i>(n. việc lâu dài)</i>",
+   "grammar_vi": "<i>Temporary job</i> (noun) = việc tạm thời. <b>Collocations / chunks</b>: <i>temporary work</i>.",
+   "example": {
+    "en": "a <b>temporary job</b> finishes after a fixed period",
+    "vi": "<b>Việc tạm thời</b> kết thúc sau một thời hạn."
+   }
+  }
+ ]
+}
