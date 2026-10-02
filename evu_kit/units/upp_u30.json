@@ -1,0 +1,392 @@
+{
+ "book": "upp",
+ "unit": 30,
+ "title_vi": "Sức khỏe và lối sống",
+ "theory_html": "<p><b>A. Diet</b><br><i>A. Chế độ ăn</i></p> <p>Some food is <b>considered</b> <b>good for</b> health; others cause <b>long-term</b> problems if <b>consumed in large quantities</b>: <b>fizzy</b> drinks, <b>nuts</b>, high fat <b>content</b>, <b>wholemeal</b> bread, <b>processed</b> food. <b>superfoods</b> improve <b>mental</b> and <b>physical</b> health: <b>short-term</b> memory, <b>slow the ageing process</b>, a good <b>source</b> of <b>vitamin</b> C, <b>lower cholesterol</b>, <b>boost the immune system</b>, <b>reduce the risk</b> of heart disease.</p><p><i><b>được coi là, tốt cho, lâu dài, tiêu thụ, có ga, hạt, hàm lượng, nguyên cám, chế biến; siêu thực phẩm, tinh thần, thể chất, ngắn hạn, lão hóa, nguồn, giảm cholesterol, tăng cường hệ miễn dịch, giảm nguy cơ</b>.</i></p> <p><b>B. Lifestyle</b><br><i>B. Lối sống</i></p> <p><b>a sharp rise; obese / obesity; a major problem; fit / fitness; maintain a good level; exercise; stress, depression; harm / harmful</b>. <b>food/fruit</b> uncountable in general, plural for types (<b>fatty foods, citrus fruits</b>); <b>fish</b> singular.</p><p><i><b>tăng mạnh, béo phì, nghiêm trọng, thể lực, duy trì, trầm cảm, tác hại, có hại</b>.</i></p>",
+ "items": [
+  {
+   "word": "consider",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kənˈsɪdə(r)/",
+   "def_en": "To think of something in a particular way.",
+   "def_vi": "Coi điều gì theo một cách.",
+   "gloss_vi": "coi là, xem là",
+   "synonyms": "regard <i>(v. coi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Consider</i> (verb) = coi là, xem là. <b>Grammar</b>: <i>be considered (to be) sth</i>. <b>Common mistakes</b>: cũng = cân nhắc.",
+   "example": {
+    "en": "Some types of food are <b>considered</b> to be good for our health.",
+    "vi": "Một số loại thực phẩm <b>được coi là</b> tốt cho sức khỏe."
+   }
+  },
+  {
+   "word": "long-term",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌlɒŋ ˈtɜːm/",
+   "def_en": "Lasting a long time into the future.",
+   "def_vi": "Kéo dài lâu trong tương lai.",
+   "gloss_vi": "lâu dài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "short-term <i>(adj. ngắn hạn)</i>",
+   "grammar_vi": "<i>Long-term</i> (adjective) = lâu dài. <b>Grammar</b>: có gạch nối.",
+   "example": {
+    "en": "Others can cause <b>long-term</b> health problems.",
+    "vi": "Những thứ khác có thể gây vấn đề sức khỏe <b>lâu dài</b>."
+   }
+  },
+  {
+   "word": "consume",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kənˈsjuːm/",
+   "def_en": "To eat or drink (formal).",
+   "def_vi": "Ăn uống (trang trọng).",
+   "gloss_vi": "tiêu thụ",
+   "synonyms": "eat <i>(v. ăn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Consume</i> (verb) = tiêu thụ. <b>Grammar</b>: <i>consumption</i> (n.).",
+   "example": {
+    "en": "They can cause problems if they are <b>consumed</b> in large quantities.",
+    "vi": "Nếu <b>tiêu thụ</b> với lượng lớn có thể gây vấn đề."
+   }
+  },
+  {
+   "word": "fizzy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈfɪzi/",
+   "def_en": "(Of a drink) with a lot of bubbles.",
+   "def_vi": "(Đồ uống) có nhiều bọt khí.",
+   "gloss_vi": "có ga",
+   "synonyms": "sparkling <i>(adj. có ga)</i>",
+   "antonyms": "still <i>(adj. không ga)</i>",
+   "grammar_vi": "<i>Fizzy</i> (adjective) = có ga. <b>Grammar</b>: <i>fizzy drinks</i>.",
+   "example": {
+    "en": "sugary foods (e.g. <b>fizzy</b> drinks)",
+    "vi": "Thực phẩm nhiều đường như đồ uống <b>có ga</b>."
+   }
+  },
+  {
+   "word": "nuts",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/nʌts/",
+   "def_en": "Dry fruits of some trees with a hard shell.",
+   "def_vi": "Quả khô có vỏ cứng của một số cây.",
+   "gloss_vi": "các loại hạt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Nuts</i> (plural noun) = các loại hạt. <b>Grammar</b>: số ít <i>nut</i>.",
+   "example": {
+    "en": "fruit and <b>nuts</b>",
+    "vi": "Trái cây và <b>các loại hạt</b> tốt cho sức khỏe."
+   }
+  },
+  {
+   "word": "content",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɒntent/",
+   "def_en": "The amount of something in food.",
+   "def_vi": "Lượng thứ gì trong thực phẩm.",
+   "gloss_vi": "hàm lượng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Content</i> (noun) = hàm lượng. <b>Grammar</b>: <i>fat/salt content</i>. <b>Common mistakes</b>: tính từ <i>content</i> /kənˈtent/ = hài lòng.",
+   "example": {
+    "en": "food with a high fat or high salt <b>content</b>",
+    "vi": "Thực phẩm có <b>hàm lượng</b> chất béo hay muối cao."
+   }
+  },
+  {
+   "word": "wholemeal",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈhəʊlmiːl/",
+   "def_en": "Containing all the grain, with nothing taken out.",
+   "def_vi": "Chứa cả hạt, không loại bỏ gì.",
+   "gloss_vi": "nguyên cám",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "white <i>(adj. trắng (tinh bột))</i>",
+   "grammar_vi": "<i>Wholemeal</i> (adjective) = nguyên cám. <b>Grammar</b>: Mỹ <i>whole wheat</i>.",
+   "example": {
+    "en": "<b>wholemeal</b> bread",
+    "vi": "Bánh mì <b>nguyên cám</b> tốt cho sức khỏe."
+   }
+  },
+  {
+   "word": "superfood",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsuːpəfuːd/",
+   "def_en": "A food that may prevent diseases and improve health.",
+   "def_vi": "Thực phẩm có thể phòng bệnh và tăng sức khỏe.",
+   "gloss_vi": "siêu thực phẩm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Superfood</i> (noun) = siêu thực phẩm. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Some foods are considered to be <b>superfoods</b>.",
+    "vi": "Một số loại được coi là <b>siêu thực phẩm</b>."
+   }
+  },
+  {
+   "word": "mental",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈmentl/",
+   "def_en": "Of the mind.",
+   "def_vi": "Thuộc về tâm trí.",
+   "gloss_vi": "(thuộc) tinh thần",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "physical <i>(adj. thể chất)</i>",
+   "grammar_vi": "<i>Mental</i> (adjective) = (thuộc) tinh thần. <b>Grammar</b>: <i>mental health</i>.",
+   "example": {
+    "en": "Superfoods may improve <b>mental</b> as well as physical health.",
+    "vi": "Siêu thực phẩm có thể cải thiện sức khỏe <b>tinh thần</b> lẫn thể chất."
+   }
+  },
+  {
+   "word": "physical",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈfɪzɪkl/",
+   "def_en": "Of the body.",
+   "def_vi": "Thuộc về cơ thể.",
+   "gloss_vi": "(thuộc) thể chất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "mental <i>(adj. tinh thần)</i>",
+   "grammar_vi": "<i>Physical</i> (adjective) = (thuộc) thể chất. <b>Grammar</b>: <i>physical exercise</i>.",
+   "example": {
+    "en": "They may improve mental as well as <b>physical</b> health.",
+    "vi": "Có thể cải thiện sức khỏe tinh thần lẫn <b>thể chất</b>."
+   }
+  },
+  {
+   "word": "short-term",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʃɔːt ˈtɜːm/",
+   "def_en": "Lasting a short time.",
+   "def_vi": "Kéo dài ngắn.",
+   "gloss_vi": "ngắn hạn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "long-term <i>(adj. lâu dài)</i>",
+   "grammar_vi": "<i>Short-term</i> (adjective) = ngắn hạn. <b>Grammar</b>: có gạch nối.",
+   "example": {
+    "en": "Blueberries may improve <b>short-term</b> memory.",
+    "vi": "Việt quất có thể cải thiện trí nhớ <b>ngắn hạn</b>."
+   }
+  },
+  {
+   "word": "ageing process",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈeɪdʒɪŋ ˌprəʊses/",
+   "def_en": "The changes by which we grow old.",
+   "def_vi": "Những thay đổi khiến ta già đi.",
+   "gloss_vi": "quá trình lão hóa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ageing process</i> (noun phrase) = quá trình lão hóa. <b>Grammar</b>: Mỹ <i>aging</i>.",
+   "example": {
+    "en": "They may slow the <b>ageing process</b>.",
+    "vi": "Việt quất có thể làm chậm <b>quá trình lão hóa</b>."
+   }
+  },
+  {
+   "word": "source",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/sɔːs/",
+   "def_en": "The place something comes from.",
+   "def_vi": "Nơi thứ gì đến từ.",
+   "gloss_vi": "nguồn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Source</i> (noun) = nguồn. <b>Grammar</b>: <i>a good source of sth</i>.",
+   "example": {
+    "en": "Apples are a good <b>source</b> of vitamin C.",
+    "vi": "Táo là <b>nguồn</b> vitamin C tốt."
+   }
+  },
+  {
+   "word": "cholesterol",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəˈlestərɒl/",
+   "def_en": "A fatty substance in the blood.",
+   "def_vi": "Chất béo trong máu.",
+   "gloss_vi": "cholesterol",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cholesterol</i> (noun) = cholesterol. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "They can also lower <b>cholesterol</b>.",
+    "vi": "Táo có thể giảm <b>cholesterol</b>."
+   }
+  },
+  {
+   "word": "boost",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/buːst/",
+   "def_en": "To improve or increase.",
+   "def_vi": "Cải thiện hay tăng cường.",
+   "gloss_vi": "tăng cường",
+   "synonyms": "strengthen <i>(v. củng cố)</i>",
+   "antonyms": "weaken <i>(v. làm yếu)</i>",
+   "grammar_vi": "<i>Boost</i> (verb) = tăng cường. <b>Grammar</b>: cũng là danh từ.",
+   "example": {
+    "en": "Spinach can <b>boost</b> the immune system.",
+    "vi": "Rau chân vịt có thể <b>tăng cường</b> hệ miễn dịch."
+   }
+  },
+  {
+   "word": "immune system",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ɪˈmjuːn ˌsɪstəm/",
+   "def_en": "The system in the body that fights disease.",
+   "def_vi": "Hệ thống trong cơ thể chống bệnh.",
+   "gloss_vi": "hệ miễn dịch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Immune system</i> (noun phrase) = hệ miễn dịch. <b>Grammar</b>: <i>immune</i> (adj.).",
+   "example": {
+    "en": "It can boost <b>the immune system</b>.",
+    "vi": "Rau chân vịt có thể tăng cường <b>hệ miễn dịch</b>."
+   }
+  },
+  {
+   "word": "reduce the risk",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/rɪˌdjuːs ðə ˈrɪsk/",
+   "def_en": "To make it less likely that something will happen.",
+   "def_vi": "Làm điều gì ít có khả năng xảy ra.",
+   "gloss_vi": "giảm nguy cơ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "increase the risk <i>(vp. tăng nguy cơ)</i>",
+   "grammar_vi": "<i>Reduce the risk</i> (verb phrase) = giảm nguy cơ. <b>Grammar</b>: <i>reduce the risk of sth</i>.",
+   "example": {
+    "en": "Vegetable juice can <b>reduce the risk</b> of heart disease.",
+    "vi": "Nước ép rau có thể <b>giảm nguy cơ</b> bệnh tim."
+   }
+  },
+  {
+   "word": "sharp rise",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌʃɑːp ˈraɪz/",
+   "def_en": "A sudden and quick increase.",
+   "def_vi": "Sự tăng đột ngột và nhanh.",
+   "gloss_vi": "sự tăng mạnh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "sharp fall <i>(np. giảm mạnh)</i>",
+   "grammar_vi": "<i>Sharp rise</i> (noun phrase) = sự tăng mạnh. <b>Grammar</b>: <i>a sharp rise in sth</i>.",
+   "example": {
+    "en": "There has been <b>a sharp rise</b> in the number of children who are obese.",
+    "vi": "Số trẻ béo phì đã <b>tăng mạnh</b>."
+   }
+  },
+  {
+   "word": "obesity",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əʊˈbiːsəti/",
+   "def_en": "Being extremely fat.",
+   "def_vi": "Tình trạng cực kỳ béo.",
+   "gloss_vi": "bệnh béo phì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Obesity</i> (noun) = bệnh béo phì. <b>Grammar</b>: <i>obese</i> (adj.).",
+   "example": {
+    "en": "Childhood <b>obesity</b> is now a major problem.",
+    "vi": "<b>Béo phì</b> ở trẻ em giờ là vấn đề nghiêm trọng."
+   }
+  },
+  {
+   "word": "major",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈmeɪdʒə(r)/",
+   "def_en": "Very big and serious.",
+   "def_vi": "Rất lớn và nghiêm trọng.",
+   "gloss_vi": "lớn, nghiêm trọng",
+   "synonyms": "serious <i>(adj. nghiêm trọng)</i>",
+   "antonyms": "minor <i>(adj. nhỏ)</i>",
+   "grammar_vi": "<i>Major</i> (adjective) = lớn, nghiêm trọng. <b>Grammar</b>: chỉ đứng trước danh từ.",
+   "example": {
+    "en": "Childhood obesity is now a <b>major</b> problem.",
+    "vi": "Béo phì trẻ em giờ là vấn đề <b>nghiêm trọng</b>."
+   }
+  },
+  {
+   "word": "maintain",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/meɪnˈteɪn/",
+   "def_en": "To keep (formal).",
+   "def_vi": "Giữ (trang trọng).",
+   "gloss_vi": "duy trì",
+   "synonyms": "keep <i>(v. giữ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Maintain</i> (verb) = duy trì. <b>Grammar</b>: <i>maintenance</i> (n.).",
+   "example": {
+    "en": "You can <b>maintain</b> a good level of fitness with a simple routine of daily exercise.",
+    "vi": "Bạn có thể <b>duy trì</b> thể lực tốt bằng việc tập thể dục hằng ngày."
+   }
+  },
+  {
+   "word": "depression",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈpreʃn/",
+   "def_en": "A mental illness when someone is extremely unhappy for a long time.",
+   "def_vi": "Bệnh tâm lý khi ai rất buồn kéo dài.",
+   "gloss_vi": "bệnh trầm cảm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Depression</i> (noun) = bệnh trầm cảm. <b>Grammar</b>: <i>depressed</i> (adj.).",
+   "example": {
+    "en": "Stress can cause high blood pressure, increased risk of heart attacks and <b>depression</b>.",
+    "vi": "Căng thẳng có thể gây huyết áp cao và <b>trầm cảm</b>."
+   }
+  },
+  {
+   "word": "harm",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/hɑːm/",
+   "def_en": "Injury or damage.",
+   "def_vi": "Tổn thương hay thiệt hại.",
+   "gloss_vi": "tác hại",
+   "synonyms": "damage <i>(n. thiệt hại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Harm</i> (noun) = tác hại. <b>Grammar</b>: không đếm được; <i>do harm</i>.",
+   "example": {
+    "en": "Bad habits can cause serious <b>harm</b> to the body.",
+    "vi": "Thói quen xấu có thể gây <b>hại</b> nghiêm trọng cho cơ thể."
+   }
+  },
+  {
+   "word": "harmful",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈhɑːmfl/",
+   "def_en": "Causing harm.",
+   "def_vi": "Gây hại.",
+   "gloss_vi": "có hại",
+   "synonyms": "damaging <i>(adj. gây hại)</i>",
+   "antonyms": "harmless <i>(adj. vô hại)</i>",
+   "grammar_vi": "<i>Harmful</i> (adjective) = có hại. <b>Grammar</b>: <i>harmful to sb/sth</i>.",
+   "example": {
+    "en": "Alcohol and tobacco are particularly <b>harmful</b> if consumed in large quantities.",
+    "vi": "Rượu và thuốc lá đặc biệt <b>có hại</b> nếu dùng nhiều."
+   }
+  }
+ ]
+}

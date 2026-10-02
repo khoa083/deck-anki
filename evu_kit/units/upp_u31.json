@@ -1,0 +1,503 @@
+{
+ "book": "upp",
+ "unit": 31,
+ "title_vi": "Du lịch và đi lại",
+ "theory_html": "<p><b>A. Basic vocabulary for different kinds of travel</b><br><i>A. Từ vựng cơ bản</i></p> <p>road: <b>tram, van, lorry; boot, steering wheel; motorist, chauffeur; break down, breakdown service</b>. rail: <b>high-speed train, sleeping car, buffet, ticket collector, conductor, seat reservation</b>. sea: <b>liner, ferry, yacht; deck, bridge, gangway; steward(ess); cabin, cruise</b>. air: <b>jumbo jet, helicopter; cockpit, aisle; ground staff, cabin crew, air traffic controller; terminal, security</b>.</p><p><i><b>xe điện, cốp xe, vô lăng, tài xế riêng; toa nằm, toa ăn, người soát vé; tàu viễn dương, phà, du thuyền, boong, cầu tàu; buồng lái, lối đi, kiểm soát không lưu</b>.</i></p> <p><b>B. Journey, trip, travel, voyage</b><br><i>B. Phân biệt</i></p> <p><b>trip</b> is shorter than a <b>journey</b>; <b>a business trip</b>; <b>go on / take a trip</b>; <b>travel</b> (uncountable / verb); <b>voyage</b> (a long journey by sea, formal; <b>a voyage of discovery</b>).</p><p><i><b>chuyến đi ngắn / dài; du hành; chuyến hải trình</b>.</i></p> <p><b>C. Collocations and expressions</b><br><i>C. Kết hợp từ</i></p> <p><b>severely delayed; stuck at the airport; put sb up; put sb on standby; get a seat; on time; turbulence; a bumpy landing; get airsick; have jetlag; sail; get seasick; crew member on board; run smoothly; rough (opp calm) sea; suffer from seasickness</b>.</p><p><i><b>trễ nghiêm trọng, kẹt ở sân bay, cho ở nhờ, xếp hàng chờ, nhiễu động, hạ cánh xóc, say máy bay, lệch múi giờ, say sóng, thuận lợi, biển động</b>.</i></p>",
+ "items": [
+  {
+   "word": "tram",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/træm/",
+   "def_en": "An electric vehicle that runs on rails in the streets.",
+   "def_vi": "Xe điện chạy trên ray ngoài phố.",
+   "gloss_vi": "xe điện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tram</i> (noun) = xe điện. <b>Grammar</b>: Mỹ <i>streetcar</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We took the <b>tram</b> into the city centre.",
+    "vi": "Chúng tôi đi <b>xe điện</b> vào trung tâm."
+   }
+  },
+  {
+   "word": "boot",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/buːt/",
+   "def_en": "The space at the back of a car for luggage.",
+   "def_vi": "Khoang sau ô tô để hành lý.",
+   "gloss_vi": "cốp xe",
+   "synonyms": "trunk <i>(n. cốp xe (Mỹ))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Boot</i> (noun) = cốp xe. <b>Grammar</b>: Anh–Anh. <b>Common mistakes</b>: cũng = giày bốt.",
+   "ex_kit": true,
+   "example": {
+    "en": "Put the suitcases in the <b>boot</b>.",
+    "vi": "Để va li vào <b>cốp xe</b>."
+   }
+  },
+  {
+   "word": "steering wheel",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈstɪərɪŋ wiːl/",
+   "def_en": "The wheel you turn to control a car.",
+   "def_vi": "Bánh xe bạn xoay để lái.",
+   "gloss_vi": "vô lăng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Steering wheel</i> (noun phrase) = vô lăng. <b>Grammar</b>: <i>steer</i> (v.).",
+   "ex_kit": true,
+   "example": {
+    "en": "Keep both hands on the <b>steering wheel</b>.",
+    "vi": "Giữ hai tay trên <b>vô lăng</b>."
+   }
+  },
+  {
+   "word": "motorist",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈməʊtərɪst/",
+   "def_en": "A person who drives a car.",
+   "def_vi": "Người lái ô tô.",
+   "gloss_vi": "người lái xe",
+   "synonyms": "driver <i>(n. tài xế)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Motorist</i> (noun) = người lái xe. <b>Grammar</b>: thường dùng trên báo.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Motorists</b> are warned to avoid the motorway.",
+    "vi": "<b>Người lái xe</b> được cảnh báo tránh đường cao tốc."
+   }
+  },
+  {
+   "word": "chauffeur",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈʃəʊfə(r)/",
+   "def_en": "A person whose job is to drive someone’s car.",
+   "def_vi": "Người làm nghề lái xe cho ai.",
+   "gloss_vi": "tài xế riêng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chauffeur</i> (noun) = tài xế riêng. <b>Grammar</b>: /ˈʃəʊfə/.",
+   "ex_kit": true,
+   "example": {
+    "en": "The minister has a <b>chauffeur</b>.",
+    "vi": "Bộ trưởng có <b>tài xế riêng</b>."
+   }
+  },
+  {
+   "word": "breakdown service",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈbreɪkdaʊn ˌsɜːvɪs/",
+   "def_en": "A service that helps when your car stops working.",
+   "def_vi": "Dịch vụ giúp khi xe hỏng.",
+   "gloss_vi": "dịch vụ cứu hộ xe",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Breakdown service</i> (noun phrase) = dịch vụ cứu hộ xe. <b>Grammar</b>: <i>breakdown</i> (n.) ← <i>break down</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I called the <b>breakdown service</b> when my car broke down.",
+    "vi": "Tôi gọi <b>dịch vụ cứu hộ</b> khi xe hỏng."
+   }
+  },
+  {
+   "word": "sleeping car",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈsliːpɪŋ kɑː(r)/",
+   "def_en": "A railway carriage with beds.",
+   "def_vi": "Toa tàu có giường.",
+   "gloss_vi": "toa giường nằm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sleeping car</i> (noun phrase) = toa giường nằm. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "We booked a <b>sleeping car</b> for the night train.",
+    "vi": "Chúng tôi đặt chỗ ở <b>toa giường nằm</b> cho chuyến tàu đêm."
+   }
+  },
+  {
+   "word": "ticket collector",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈtɪkɪt kəˌlektə(r)/",
+   "def_en": "A person who checks tickets on a train.",
+   "def_vi": "Người kiểm vé trên tàu.",
+   "gloss_vi": "người soát vé",
+   "synonyms": "conductor <i>(n. người soát vé)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ticket collector</i> (noun phrase) = người soát vé. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>ticket collector</b> asked for my ticket.",
+    "vi": "<b>Người soát vé</b> hỏi vé của tôi."
+   }
+  },
+  {
+   "word": "liner",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlaɪnə(r)/",
+   "def_en": "A large passenger ship.",
+   "def_vi": "Tàu chở khách lớn.",
+   "gloss_vi": "tàu viễn dương",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Liner</i> (noun) = tàu viễn dương. <b>Grammar</b>: <i>ocean liner</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The Titanic was a famous <b>liner</b>.",
+    "vi": "Titanic là một <b>tàu viễn dương</b> nổi tiếng."
+   }
+  },
+  {
+   "word": "ferry",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈferi/",
+   "def_en": "A boat that carries people and vehicles across water.",
+   "def_vi": "Thuyền chở người và xe qua sông, biển.",
+   "gloss_vi": "phà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ferry</i> (noun) = phà. <b>Grammar</b>: số nhiều <i>ferries</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We took the <b>ferry</b> to France.",
+    "vi": "Chúng tôi đi <b>phà</b> sang Pháp."
+   }
+  },
+  {
+   "word": "yacht",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/jɒt/",
+   "def_en": "A boat with sails, used for pleasure or racing.",
+   "def_vi": "Thuyền buồm để chơi hay đua.",
+   "gloss_vi": "du thuyền",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Yacht</i> (noun) = du thuyền. <b>Grammar</b>: /jɒt/ (<i>ch</i> câm).",
+   "example": {
+    "en": "I volunteered to work as a crew member on board a <b>yacht</b>.",
+    "vi": "Tôi làm thủy thủ trên một chiếc <b>du thuyền</b>."
+   }
+  },
+  {
+   "word": "deck",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dek/",
+   "def_en": "The floor of a ship.",
+   "def_vi": "Sàn tàu.",
+   "gloss_vi": "boong tàu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Deck</i> (noun) = boong tàu. <b>Grammar</b>: <i>on deck</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We sat on the <b>deck</b> watching the sea.",
+    "vi": "Chúng tôi ngồi trên <b>boong</b> ngắm biển."
+   }
+  },
+  {
+   "word": "gangway",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡæŋweɪ/",
+   "def_en": "A board for walking on and off a ship.",
+   "def_vi": "Tấm ván để lên xuống tàu.",
+   "gloss_vi": "cầu lên tàu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gangway</i> (noun) = cầu lên tàu. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The passengers walked down the <b>gangway</b>.",
+    "vi": "Hành khách đi xuống <b>cầu tàu</b>."
+   }
+  },
+  {
+   "word": "cockpit",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɒkpɪt/",
+   "def_en": "The area at the front of a plane where the pilot sits.",
+   "def_vi": "Khoang trước máy bay nơi phi công ngồi.",
+   "gloss_vi": "buồng lái",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cockpit</i> (noun) = buồng lái. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The pilot sits in the <b>cockpit</b>.",
+    "vi": "Phi công ngồi trong <b>buồng lái</b>."
+   }
+  },
+  {
+   "word": "aisle",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/aɪl/",
+   "def_en": "The passage between rows of seats.",
+   "def_vi": "Lối đi giữa các hàng ghế.",
+   "gloss_vi": "lối đi giữa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Aisle</i> (noun) = lối đi giữa. <b>Grammar</b>: /aɪl/ (<i>s</i> câm).",
+   "ex_kit": true,
+   "example": {
+    "en": "I prefer a seat next to the <b>aisle</b>.",
+    "vi": "Tôi thích ngồi cạnh <b>lối đi</b>."
+   }
+  },
+  {
+   "word": "air traffic controller",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌeə ˈtræfɪk kənˌtrəʊlə(r)/",
+   "def_en": "A person who directs planes from the ground.",
+   "def_vi": "Người điều hướng máy bay từ mặt đất.",
+   "gloss_vi": "kiểm soát viên không lưu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Air traffic controller</i> (noun phrase) = kiểm soát viên không lưu. <b>Grammar</b>: đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>air traffic controllers</b> are on strike.",
+    "vi": "<b>Kiểm soát viên không lưu</b> đang đình công."
+   }
+  },
+  {
+   "word": "journey",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdʒɜːni/",
+   "def_en": "Travelling from one place to another, usually long.",
+   "def_vi": "Đi từ nơi này đến nơi khác, thường dài.",
+   "gloss_vi": "hành trình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Journey</i> (noun) = hành trình. <b>Grammar</b>: dài hơn <i>trip</i>; không nói <i>a travel</i>.",
+   "example": {
+    "en": "We <b>had a long journey</b> by coach from the north to the south of the country.",
+    "vi": "Chúng tôi có <b>hành trình</b> dài bằng xe khách từ bắc vào nam."
+   }
+  },
+  {
+   "word": "business trip",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈbɪznəs trɪp/",
+   "def_en": "A journey for work.",
+   "def_vi": "Chuyến đi vì công việc.",
+   "gloss_vi": "chuyến công tác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Business trip</i> (noun phrase) = chuyến công tác. <b>Grammar</b>: <i>go on a business trip</i>.",
+   "example": {
+    "en": "We usually say <b>business trip</b> (NOT business journey).",
+    "vi": "Ta thường nói <b>chuyến công tác</b>, không nói business journey."
+   }
+  },
+  {
+   "word": "voyage",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈvɔɪɪdʒ/",
+   "def_en": "A long journey, usually by sea (formal).",
+   "def_vi": "Chuyến đi dài, thường bằng biển (trang trọng).",
+   "gloss_vi": "chuyến hải trình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Voyage</i> (noun) = chuyến hải trình. <b>Grammar</b>: <i>a voyage of discovery</i>.",
+   "example": {
+    "en": "Learning English is a <b>voyage</b> of discovery!",
+    "vi": "Học tiếng Anh là một <b>hành trình</b> khám phá!"
+   }
+  },
+  {
+   "word": "severely delayed",
+   "sense": "",
+   "pos": "adjp",
+   "ipa": "/sɪˌvɪəli dɪˈleɪd/",
+   "def_en": "Delayed for a very long time.",
+   "def_vi": "Bị trễ rất lâu.",
+   "gloss_vi": "bị trễ nghiêm trọng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Severely delayed</i> (adjp) = bị trễ nghiêm trọng. <b>Grammar</b>: <i>severely</i> + quá khứ phân từ.",
+   "example": {
+    "en": "My flight from New York to Tokyo was <b>severely delayed</b> because of bad weather.",
+    "vi": "Chuyến bay của tôi <b>bị trễ nghiêm trọng</b> vì thời tiết xấu."
+   }
+  },
+  {
+   "word": "put sb up",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˌpʊt ˈsʌmbədi ˈʌp/",
+   "def_en": "To pay for someone to stay.",
+   "def_vi": "Trả tiền cho ai ở lại.",
+   "gloss_vi": "cho ở nhờ, bố trí chỗ ở",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Put sb up</i> (phrasal verb) = cho ở nhờ, bố trí chỗ ở. <b>Grammar</b>: tách được.",
+   "example": {
+    "en": "The airline <b>put me up</b> in a hotel overnight.",
+    "vi": "Hãng hàng không <b>bố trí cho tôi ở</b> khách sạn qua đêm."
+   }
+  },
+  {
+   "word": "on standby",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɒn ˈstændbaɪ/",
+   "def_en": "Waiting for a seat to become available.",
+   "def_vi": "Chờ có ghế trống.",
+   "gloss_vi": "trong danh sách chờ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>On standby</i> (phrase) = trong danh sách chờ. <b>Grammar</b>: <i>put sb on standby</i>.",
+   "example": {
+    "en": "They <b>put me on standby</b> for the early morning flight.",
+    "vi": "Họ <b>xếp tôi vào danh sách chờ</b> cho chuyến sáng sớm."
+   }
+  },
+  {
+   "word": "turbulence",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtɜːbjələns/",
+   "def_en": "Strong, sudden movements of a plane in the air.",
+   "def_vi": "Chuyển động mạnh đột ngột của máy bay.",
+   "gloss_vi": "nhiễu động không khí",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Turbulence</i> (noun) = nhiễu động không khí. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "There was quite a lot of <b>turbulence</b> during the flight.",
+    "vi": "Có khá nhiều <b>nhiễu động</b> trong chuyến bay."
+   }
+  },
+  {
+   "word": "bumpy landing",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌbʌmpi ˈlændɪŋ/",
+   "def_en": "A landing that is not smooth.",
+   "def_vi": "Hạ cánh không êm.",
+   "gloss_vi": "hạ cánh xóc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "smooth landing <i>(np. hạ cánh êm)</i>",
+   "grammar_vi": "<i>Bumpy landing</i> (noun phrase) = hạ cánh xóc. <b>Grammar</b>: <i>bumpy</i> (adj.).",
+   "example": {
+    "en": "The weather was bad and we had <b>a bumpy landing</b>.",
+    "vi": "Thời tiết xấu và chúng tôi <b>hạ cánh xóc</b>."
+   }
+  },
+  {
+   "word": "airsick",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈeəsɪk/",
+   "def_en": "Feeling sick because of the movement of a plane.",
+   "def_vi": "Buồn nôn vì máy bay chuyển động.",
+   "gloss_vi": "say máy bay",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Airsick</i> (adjective) = say máy bay. <b>Grammar</b>: <i>airsickness</i> (n.); <i>seasick, carsick</i>.",
+   "example": {
+    "en": "Luckily, I don’t <b>get airsick</b>.",
+    "vi": "May là tôi không <b>say máy bay</b>."
+   }
+  },
+  {
+   "word": "jetlag",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdʒetlæɡ/",
+   "def_en": "Tiredness caused by moving quickly from one time zone to another.",
+   "def_vi": "Mệt mỏi do di chuyển nhanh qua múi giờ.",
+   "gloss_vi": "lệch múi giờ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Jetlag</i> (noun) = lệch múi giờ. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "I had terrible <b>jetlag</b> for days afterwards.",
+    "vi": "Tôi bị <b>lệch múi giờ</b> nặng nhiều ngày sau đó."
+   }
+  },
+  {
+   "word": "seasick",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈsiːsɪk/",
+   "def_en": "Feeling sick because of the movement of a boat.",
+   "def_vi": "Buồn nôn vì thuyền chuyển động.",
+   "gloss_vi": "say sóng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Seasick</i> (adjective) = say sóng. <b>Grammar</b>: <i>seasickness</i> (n.).",
+   "example": {
+    "en": "I was worried I might get <b>seasick</b>.",
+    "vi": "Tôi lo mình có thể bị <b>say sóng</b>."
+   }
+  },
+  {
+   "word": "on board",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɒn ˈbɔːd/",
+   "def_en": "On a ship, plane or train.",
+   "def_vi": "Trên tàu, máy bay.",
+   "gloss_vi": "trên tàu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>On board</i> (phrase) = trên tàu. <b>Grammar</b>: <i>on board</i> + phương tiện.",
+   "example": {
+    "en": "I volunteered to work as a crew member <b>on board</b> a yacht.",
+    "vi": "Tôi tình nguyện làm thủy thủ <b>trên</b> một chiếc du thuyền."
+   }
+  },
+  {
+   "word": "run smoothly",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌrʌn ˈsmuːðli/",
+   "def_en": "To happen without problems.",
+   "def_vi": "Diễn ra không trục trặc.",
+   "gloss_vi": "diễn ra suôn sẻ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Run smoothly</i> (verb phrase) = diễn ra suôn sẻ. <b>Grammar</b>: <i>things run smoothly</i>.",
+   "example": {
+    "en": "Everything <b>ran</b> very <b>smoothly</b>.",
+    "vi": "Mọi thứ <b>diễn ra</b> rất <b>suôn sẻ</b>."
+   }
+  },
+  {
+   "word": "rough",
+   "sense": "sea",
+   "pos": "adjective",
+   "ipa": "/rʌf/",
+   "def_en": "(Of the sea) with big waves.",
+   "def_vi": "(Biển) có sóng lớn.",
+   "gloss_vi": "(biển) động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "calm <i>(adj. lặng)</i>",
+   "grammar_vi": "<i>Rough</i> (adjective) = (biển) động. <b>Grammar</b>: /rʌf/.",
+   "example": {
+    "en": "Everything ran very smoothly, even when the sea was <b>rough</b>.",
+    "vi": "Mọi thứ suôn sẻ, kể cả khi biển <b>động</b>."
+   }
+  }
+ ]
+}

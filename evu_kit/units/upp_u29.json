@@ -1,0 +1,408 @@
+{
+ "book": "upp",
+ "unit": 29,
+ "title_vi": "Y học và công nghệ",
+ "theory_html": "<p><b>A. A history of health technology</b><br><i>A. Lịch sử công nghệ y tế</i></p> <p><b>crutches; spectacles (to correct vision); wheelchairs; general anaesthetic; X-rays; contact lenses manufactured</b>.</p><p><i><b>nạng, kính đeo mắt, thị lực, xe lăn, thuốc gây mê toàn thân, tia X, kính áp tròng</b>.</i></p> <p><b>B. The present day</b><br><i>B. Ngày nay</i></p> <p><b>medical technology; rapid advances in recent decades; a vast range of devices; hearing difficulties; sophisticated hearing aids; pacemakers; artificial hips; highly efficient; prosthetic leg; robotic arm; laser surgery</b>.</p><p><i><b>tiến bộ nhanh, thập kỷ, thiết bị, tinh vi, máy trợ thính, máy tạo nhịp tim, nhân tạo, hông, chân giả, cánh tay rô-bốt, phẫu thuật laser</b>.</i></p> <p><b>C. The future</b><br><i>C. Tương lai</i></p> <p><b>developments; scanners identify problems at an early stage; diagnosing illnesses; automatically; blood pressure; thermometers; databases; tools to treat diseases; keyhole surgery; operate on</b>.</p><p><i><b>máy quét, phát hiện sớm, chẩn đoán, tự động, nhiệt kế, cơ sở dữ liệu, công cụ, điều trị bệnh, phẫu thuật nội soi</b>.</i></p>",
+ "items": [
+  {
+   "word": "crutches",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈkrʌtʃɪz/",
+   "def_en": "Sticks that help you walk when you have hurt your leg.",
+   "def_vi": "Gậy giúp đi khi chân bị thương.",
+   "gloss_vi": "nạng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Crutches</i> (plural noun) = nạng. <b>Grammar</b>: <i>on crutches</i>.",
+   "example": {
+    "en": "Ancient Egypt: The earliest <b>crutches</b> were in use.",
+    "vi": "Những chiếc <b>nạng</b> sớm nhất được dùng ở Ai Cập cổ đại."
+   }
+  },
+  {
+   "word": "spectacles",
+   "sense": "",
+   "pos": "plural noun",
+   "ipa": "/ˈspektəklz/",
+   "def_en": "Glasses (formal).",
+   "def_vi": "Kính đeo mắt (trang trọng).",
+   "gloss_vi": "kính đeo mắt",
+   "synonyms": "glasses <i>(pn. kính)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spectacles</i> (plural noun) = kính đeo mắt. <b>Grammar</b>: trang trọng; số nhiều.",
+   "example": {
+    "en": "<b>Spectacles</b> were used to correct vision.",
+    "vi": "<b>Kính đeo mắt</b> được dùng để chỉnh thị lực."
+   }
+  },
+  {
+   "word": "vision",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈvɪʒn/",
+   "def_en": "The ability to see.",
+   "def_vi": "Khả năng nhìn.",
+   "gloss_vi": "thị lực",
+   "synonyms": "sight <i>(n. thị lực)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Vision</i> (noun) = thị lực. <b>Grammar</b>: cũng = tầm nhìn (kế hoạch).",
+   "example": {
+    "en": "Spectacles were used to correct <b>vision</b>.",
+    "vi": "Kính đeo mắt được dùng để chỉnh <b>thị lực</b>."
+   }
+  },
+  {
+   "word": "general anaesthetic",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˌdʒenrəl ˌænəsˈθetɪk/",
+   "def_en": "Something used to make you unconscious during an operation.",
+   "def_vi": "Thứ làm bất tỉnh khi phẫu thuật.",
+   "gloss_vi": "thuốc gây mê toàn thân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "local anaesthetic <i>(np. gây tê cục bộ)</i>",
+   "grammar_vi": "<i>General anaesthetic</i> (noun phrase) = thuốc gây mê toàn thân. <b>Grammar</b>: Mỹ <i>anesthetic</i>.",
+   "example": {
+    "en": "1804: the first <b>general anaesthetic</b> was used in an operation in Japan.",
+    "vi": "Năm 1804, <b>thuốc gây mê toàn thân</b> đầu tiên được dùng trong phẫu thuật ở Nhật."
+   }
+  },
+  {
+   "word": "X-ray",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈeks reɪ/",
+   "def_en": "A type of radiation that makes photographs of bones and organs possible.",
+   "def_vi": "Loại bức xạ cho phép chụp ảnh xương và nội tạng.",
+   "gloss_vi": "tia X, ảnh chụp X-quang",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>X-ray</i> (noun) = tia X, ảnh chụp X-quang. <b>Grammar</b>: cũng là động từ.",
+   "example": {
+    "en": "1896: <b>X-rays</b> were first used in medicine.",
+    "vi": "Năm 1896, <b>tia X</b> lần đầu được dùng trong y học."
+   }
+  },
+  {
+   "word": "contact lens",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈkɒntækt lenz/",
+   "def_en": "A small piece of plastic worn on the eye to improve your sight.",
+   "def_vi": "Mảnh nhựa nhỏ đeo trên mắt để nhìn rõ hơn.",
+   "gloss_vi": "kính áp tròng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Contact lens</i> (noun phrase) = kính áp tròng. <b>Grammar</b>: số nhiều <i>lenses</i>.",
+   "example": {
+    "en": "The first <b>contact lenses</b> were manufactured.",
+    "vi": "<b>Kính áp tròng</b> đầu tiên được sản xuất vào những năm 1960."
+   }
+  },
+  {
+   "word": "rapid",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈræpɪd/",
+   "def_en": "Very fast.",
+   "def_vi": "Rất nhanh.",
+   "gloss_vi": "nhanh chóng",
+   "synonyms": "fast <i>(adj. nhanh)</i>",
+   "antonyms": "slow <i>(adj. chậm)</i>",
+   "grammar_vi": "<i>Rapid</i> (adjective) = nhanh chóng. <b>Grammar</b>: <i>rapidly</i> (adv.).",
+   "example": {
+    "en": "Medical technology has made <b>rapid</b> advances in recent decades.",
+    "vi": "Công nghệ y tế đã có những tiến bộ <b>nhanh chóng</b> trong những thập kỷ gần đây."
+   }
+  },
+  {
+   "word": "advance",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ədˈvɑːns/",
+   "def_en": "An improvement or development.",
+   "def_vi": "Sự cải thiện hay phát triển.",
+   "gloss_vi": "tiến bộ",
+   "synonyms": "progress <i>(n. tiến bộ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Advance</i> (noun) = tiến bộ. <b>Grammar</b>: <i>make advances in sth</i>.",
+   "example": {
+    "en": "Medical technology has made rapid <b>advances</b> in recent decades.",
+    "vi": "Công nghệ y tế đã có những <b>tiến bộ</b> nhanh."
+   }
+  },
+  {
+   "word": "vast",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/vɑːst/",
+   "def_en": "Very wide or big.",
+   "def_vi": "Rất rộng hay lớn.",
+   "gloss_vi": "rộng lớn, rất nhiều",
+   "synonyms": "huge <i>(adj. khổng lồ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Vast</i> (adjective) = rộng lớn, rất nhiều. <b>Grammar</b>: <i>a vast range/amount</i>.",
+   "example": {
+    "en": "Nowadays, a <b>vast</b> range of devices is available.",
+    "vi": "Ngày nay có <b>rất nhiều</b> loại thiết bị."
+   }
+  },
+  {
+   "word": "device",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dɪˈvaɪs/",
+   "def_en": "An object or machine made for a particular purpose.",
+   "def_vi": "Vật hay máy làm cho mục đích riêng.",
+   "gloss_vi": "thiết bị",
+   "synonyms": "gadget <i>(n. đồ dùng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Device</i> (noun) = thiết bị. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Nowadays, a vast range of <b>devices</b> is available.",
+    "vi": "Ngày nay có rất nhiều loại <b>thiết bị</b>."
+   }
+  },
+  {
+   "word": "sophisticated",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/səˈfɪstɪkeɪtɪd/",
+   "def_en": "Clever in a complicated way and able to do complicated tasks.",
+   "def_vi": "Thông minh, phức tạp, làm được việc phức tạp.",
+   "gloss_vi": "tinh vi",
+   "synonyms": "advanced <i>(adj. tiên tiến)</i>",
+   "antonyms": "simple <i>(adj. đơn giản)</i>",
+   "grammar_vi": "<i>Sophisticated</i> (adjective) = tinh vi. <b>Grammar</b>: cũng = sành điệu.",
+   "example": {
+    "en": "People with hearing difficulties wear <b>sophisticated</b> hearing aids.",
+    "vi": "Người khiếm thính đeo máy trợ thính <b>tinh vi</b>."
+   }
+  },
+  {
+   "word": "hearing aid",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈhɪərɪŋ eɪd/",
+   "def_en": "A small device put inside the ear to help hearing.",
+   "def_vi": "Thiết bị nhỏ đặt trong tai giúp nghe.",
+   "gloss_vi": "máy trợ thính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hearing aid</i> (noun phrase) = máy trợ thính. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "People with hearing difficulties wear sophisticated <b>hearing aids</b>.",
+    "vi": "Người khiếm thính đeo <b>máy trợ thính</b> tinh vi."
+   }
+  },
+  {
+   "word": "pacemaker",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpeɪsmeɪkə(r)/",
+   "def_en": "A small device put inside the chest to help the heart beat correctly.",
+   "def_vi": "Thiết bị nhỏ đặt trong ngực giúp tim đập đều.",
+   "gloss_vi": "máy tạo nhịp tim",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pacemaker</i> (noun) = máy tạo nhịp tim. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "People with heart problems wear tiny <b>pacemakers</b>.",
+    "vi": "Người bệnh tim đeo <b>máy tạo nhịp tim</b> tí hon."
+   }
+  },
+  {
+   "word": "artificial",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌɑːtɪˈfɪʃl/",
+   "def_en": "Not natural; a copy made by humans.",
+   "def_vi": "Không tự nhiên; do người làm.",
+   "gloss_vi": "nhân tạo",
+   "synonyms": "man-made <i>(adj. nhân tạo)</i>",
+   "antonyms": "natural <i>(adj. tự nhiên)</i>",
+   "grammar_vi": "<i>Artificial</i> (adjective) = nhân tạo. <b>Grammar</b>: <i>artificial intelligence</i>.",
+   "example": {
+    "en": "<b>Artificial</b> hips and knees are common.",
+    "vi": "Hông và đầu gối <b>nhân tạo</b> rất phổ biến."
+   }
+  },
+  {
+   "word": "hip",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/hɪp/",
+   "def_en": "The joint which connects the leg to the upper body.",
+   "def_vi": "Khớp nối chân với thân trên.",
+   "gloss_vi": "hông, khớp háng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hip</i> (noun) = hông, khớp háng. <b>Grammar</b>: <i>hip replacement</i>.",
+   "example": {
+    "en": "Artificial <b>hips</b> and knees are common.",
+    "vi": "<b>Hông</b> và đầu gối nhân tạo rất phổ biến."
+   }
+  },
+  {
+   "word": "prosthetic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/prɒsˈθetɪk/",
+   "def_en": "Made to replace a missing arm or leg.",
+   "def_vi": "Làm để thay tay chân bị mất.",
+   "gloss_vi": "giả (chân, tay)",
+   "synonyms": "artificial <i>(adj. nhân tạo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Prosthetic</i> (adjective) = giả (chân, tay). <b>Grammar</b>: <i>prosthesis</i> (n.).",
+   "example": {
+    "en": "People who have lost an arm or a leg can have a <b>prosthetic</b> leg.",
+    "vi": "Người mất chân có thể lắp chân <b>giả</b>."
+   }
+  },
+  {
+   "word": "robotic",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/rəʊˈbɒtɪk/",
+   "def_en": "Able to be controlled and moved by the user.",
+   "def_vi": "Có thể điều khiển và cử động theo người dùng.",
+   "gloss_vi": "rô-bốt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Robotic</i> (adjective) = rô-bốt. <b>Grammar</b>: <i>robot</i> (n.).",
+   "example": {
+    "en": "They can have a modern <b>robotic</b> arm and hand.",
+    "vi": "Họ có thể lắp cánh tay và bàn tay <b>rô-bốt</b> hiện đại."
+   }
+  },
+  {
+   "word": "laser surgery",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈleɪzə ˌsɜːdʒəri/",
+   "def_en": "Medical operations using powerful narrow beams of light.",
+   "def_vi": "Phẫu thuật dùng chùm sáng hẹp mạnh.",
+   "gloss_vi": "phẫu thuật laser",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Laser surgery</i> (noun phrase) = phẫu thuật laser. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "Eyesight problems can be corrected by <b>laser surgery</b>.",
+    "vi": "Tật mắt có thể được chỉnh bằng <b>phẫu thuật laser</b>."
+   }
+  },
+  {
+   "word": "scanner",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈskænə(r)/",
+   "def_en": "A machine that examines the inside of the body.",
+   "def_vi": "Máy kiểm tra bên trong cơ thể.",
+   "gloss_vi": "máy quét, máy chụp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Scanner</i> (noun) = máy quét, máy chụp. <b>Grammar</b>: <i>scan</i> (v./n.).",
+   "example": {
+    "en": "<b>Scanners</b> which can identify health problems at an early stage will become more and more sophisticated.",
+    "vi": "<b>Máy quét</b> phát hiện sớm vấn đề sức khỏe sẽ ngày càng tinh vi."
+   }
+  },
+  {
+   "word": "at an early stage",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ət ən ˌɜːli ˈsteɪdʒ/",
+   "def_en": "During the first period of development.",
+   "def_vi": "Trong giai đoạn đầu phát triển.",
+   "gloss_vi": "ở giai đoạn sớm",
+   "synonyms": "early on <i>(phr. từ sớm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>At an early stage</i> (phrase) = ở giai đoạn sớm. <b>Grammar</b>: <i>at a late stage</i>.",
+   "example": {
+    "en": "Scanners can identify health problems <b>at an early stage</b>.",
+    "vi": "Máy quét có thể phát hiện vấn đề sức khỏe <b>ở giai đoạn sớm</b>."
+   }
+  },
+  {
+   "word": "diagnose",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈdaɪəɡnəʊz/",
+   "def_en": "To name the exact character of a disease by examining it.",
+   "def_vi": "Xác định chính xác bệnh qua thăm khám.",
+   "gloss_vi": "chẩn đoán",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Diagnose</i> (verb) = chẩn đoán. <b>Grammar</b>: <i>diagnosis</i> (n.).",
+   "example": {
+    "en": "<b>Diagnosing</b> illnesses from a distance.",
+    "vi": "<b>Chẩn đoán</b> bệnh từ xa."
+   }
+  },
+  {
+   "word": "automatically",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌɔːtəˈmætɪkli/",
+   "def_en": "Without a person controlling it.",
+   "def_vi": "Không cần người điều khiển.",
+   "gloss_vi": "tự động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "manually <i>(adv. thủ công)</i>",
+   "grammar_vi": "<i>Automatically</i> (adverb) = tự động. <b>Grammar</b>: <i>automatic</i> (adj.).",
+   "example": {
+    "en": "Patients will send information <b>automatically</b> to their doctor.",
+    "vi": "Bệnh nhân gửi thông tin <b>tự động</b> cho bác sĩ."
+   }
+  },
+  {
+   "word": "thermometer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/θəˈmɒmɪtə(r)/",
+   "def_en": "An instrument for measuring temperature.",
+   "def_vi": "Dụng cụ đo nhiệt độ.",
+   "gloss_vi": "nhiệt kế",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Thermometer</i> (noun) = nhiệt kế. <b>Grammar</b>: trọng âm /θəˈmɒm-/.",
+   "example": {
+    "en": "Using instruments such as <b>thermometers</b> connected to their computer.",
+    "vi": "Dùng dụng cụ như <b>nhiệt kế</b> kết nối với máy tính."
+   }
+  },
+  {
+   "word": "database",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdeɪtəbeɪs/",
+   "def_en": "A large collection of information stored on a computer.",
+   "def_vi": "Kho thông tin lớn lưu trên máy tính.",
+   "gloss_vi": "cơ sở dữ liệu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Database</i> (noun) = cơ sở dữ liệu. <b>Grammar</b>: đếm được.",
+   "example": {
+    "en": "Computers and huge <b>databases</b> will provide doctors with more and more information.",
+    "vi": "Máy tính và <b>cơ sở dữ liệu</b> khổng lồ sẽ cho bác sĩ nhiều thông tin hơn."
+   }
+  },
+  {
+   "word": "keyhole surgery",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈkiːhəʊl ˌsɜːdʒəri/",
+   "def_en": "Operations in which a very small hole is made in the body.",
+   "def_vi": "Phẫu thuật chỉ rạch lỗ rất nhỏ.",
+   "gloss_vi": "phẫu thuật nội soi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Keyhole surgery</i> (noun phrase) = phẫu thuật nội soi. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "<b>Keyhole surgery</b> will become more common.",
+    "vi": "<b>Phẫu thuật nội soi</b> sẽ phổ biến hơn."
+   }
+  }
+ ]
+}
