@@ -1,0 +1,264 @@
+{
+ "book": "bus",
+ "unit": 26,
+ "title_vi": "Thương mại điện tử",
+ "theory_html": "<p><b>A. B2C, B2B and B2G</b><br><i>A. B2C, B2B và B2G</i></p> <p><b>business-to-consumer (B2C) e-commerce, business-to-business (B2B), e-procurement, business-to-government (B2G)</b>.</p><p><i><b>thương mại điện tử doanh nghiệp – người tiêu dùng, doanh nghiệp – doanh nghiệp, mua sắm điện tử, doanh nghiệp – chính phủ</b>.</i></p> <p><b>B. Web 2.0</b><br><i>B. Web 2.0</i></p> <p><b>dot-com bust, internet sellers, internet selling, Web 2.0, social-networking sites, video-sharing sites, blogs, collaborative sites</b>.</p><p><i><b>sự sụp đổ dot-com, người bán trên mạng, bán hàng trên mạng, Web 2.0, mạng xã hội, chia sẻ video, nhật ký trực tuyến, trang cộng tác</b>.</i></p> <p><b>C. E-commerce companies</b><br><i>C. Công ty thương mại điện tử</i></p> <p><b>host, commission, auction site, bids, highest bidder</b>.</p><p><i><b>cho đăng bán, hoa hồng, trang đấu giá, giá đặt, người trả giá cao nhất</b>.</i></p> <p><b>D. Word combinations with ‘online’</b><br><i>D. Kết hợp với ‘online’</i></p> <p><b>online selling, online banking, dating, gambling / gaming, brokerage, travel, fundraising</b>. Note: also <b>on-line</b> (<b>online</b> ten times more frequent).</p><p><i><b>bán hàng, ngân hàng, hẹn hò, cờ bạc, môi giới, du lịch, gây quỹ trực tuyến</b>.</i></p>",
+ "items": [
+  {
+   "word": "e-commerce",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈiː ˌkɒmɜːs/",
+   "def_en": "Buying and selling on the internet.",
+   "def_vi": "Mua bán trên internet.",
+   "gloss_vi": "thương mại điện tử",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>E-commerce</i> (noun) = thương mại điện tử. <b>Grammar</b>: tiền tố <i>e-</i>.",
+   "example": {
+    "en": "Selling to the public on the internet is business-to-consumer or B2C <b>e-commerce</b>.",
+    "vi": "Bán cho công chúng trên mạng là <b>thương mại điện tử</b> B2C."
+   }
+  },
+  {
+   "word": "business-to-consumer",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌbɪznəs tə kənˈsjuːmə(r)/",
+   "def_en": "Selling to the public on the internet (B2C).",
+   "def_vi": "Bán cho công chúng trên mạng (B2C).",
+   "gloss_vi": "doanh nghiệp – người tiêu dùng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Business-to-consumer</i> (adjective) = doanh nghiệp – người tiêu dùng. <b>Grammar</b>: viết tắt <i>B2C</i>.",
+   "example": {
+    "en": "Selling to the public on the internet is <b>business-to-consumer</b> or B2C e-commerce.",
+    "vi": "Bán cho công chúng trên mạng là <b>B2C</b>."
+   }
+  },
+  {
+   "word": "business-to-business",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌbɪznəs tə ˈbɪznəs/",
+   "def_en": "Firms communicating with and ordering from their suppliers over the internet (B2B).",
+   "def_vi": "Doanh nghiệp liên hệ, đặt hàng nhà cung cấp trên mạng (B2B).",
+   "gloss_vi": "doanh nghiệp – doanh nghiệp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Business-to-business</i> (adjective) = doanh nghiệp – doanh nghiệp. <b>Grammar</b>: viết tắt <i>B2B</i>.",
+   "example": {
+    "en": "<b>Business-to-business</b> e-commerce or B2B, with firms communicating with and ordering from their suppliers over the internet, is e-procurement.",
+    "vi": "Thương mại điện tử <b>B2B</b> là mua sắm điện tử."
+   }
+  },
+  {
+   "word": "e-procurement",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌiː prəˈkjʊəmənt/",
+   "def_en": "Firms ordering from suppliers over the internet.",
+   "def_vi": "Doanh nghiệp đặt hàng nhà cung cấp trên mạng.",
+   "gloss_vi": "mua sắm điện tử",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>E-procurement</i> (noun) = mua sắm điện tử. <b>Grammar</b>: <i>procurement</i> = mua sắm.",
+   "example": {
+    "en": "with firms communicating with and ordering from their suppliers over the internet, is <b>e-procurement</b>",
+    "vi": "B2B là <b>mua sắm điện tử</b>."
+   }
+  },
+  {
+   "word": "business-to-government",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌbɪznəs tə ˈɡʌvənmənt/",
+   "def_en": "Businesses using the internet to deal with government (B2G).",
+   "def_vi": "Doanh nghiệp dùng mạng giao dịch với chính phủ (B2G).",
+   "gloss_vi": "doanh nghiệp – chính phủ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Business-to-government</i> (adjective) = doanh nghiệp – chính phủ. <b>Grammar</b>: viết tắt <i>B2G</i>.",
+   "example": {
+    "en": "Businesses doing this are using the internet for <b>business-to-government</b> or B2G purposes.",
+    "vi": "Doanh nghiệp dùng mạng với chính phủ cho mục đích <b>B2G</b>."
+   }
+  },
+  {
+   "word": "dot-com bust",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdɒt ˈkɒm bʌst/",
+   "def_en": "The collapse in 2001 when many internet sellers went out of business.",
+   "def_vi": "Sụp đổ năm 2001 khi nhiều công ty mạng phá sản.",
+   "gloss_vi": "sự sụp đổ dot-com",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dot-com bust</i> (noun) = sự sụp đổ dot-com. <b>Collocations / chunks</b>: <i>bust</i> = phá sản.",
+   "example": {
+    "en": "The first phase of selling over the internet ended with the <b>dot-com bust</b> of 2001",
+    "vi": "Giai đoạn đầu kết thúc với <b>sự sụp đổ dot-com</b> năm 2001."
+   }
+  },
+  {
+   "word": "Web 2.0",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌweb ˌtuː ˈpɔɪnt əʊ/",
+   "def_en": "The second, more stable phase of internet selling; also the importance of social networking, blogs, etc.",
+   "def_vi": "Giai đoạn hai ổn định hơn; cả tầm quan trọng của mạng xã hội, blog.",
+   "gloss_vi": "Web 2.0",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Web 2.0</i> (noun) = Web 2.0. <b>Grammar</b>: đọc <i>two point oh</i>.",
+   "example": {
+    "en": "This second phase is sometimes referred to as <b>Web 2.0</b>.",
+    "vi": "Giai đoạn thứ hai đôi khi gọi là <b>Web 2.0</b>."
+   }
+  },
+  {
+   "word": "social-networking site",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsəʊʃl ˈnetwɜːkɪŋ saɪt/",
+   "def_en": "A website like Facebook where people connect with each other.",
+   "def_vi": "Trang như Facebook để kết nối.",
+   "gloss_vi": "trang mạng xã hội",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Social-networking site</i> (noun) = trang mạng xã hội. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "the increasing importance of <b>social-networking</b> sites such as Facebook",
+    "vi": "Web 2.0 gắn với <b>mạng xã hội</b> như Facebook."
+   }
+  },
+  {
+   "word": "blog",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/blɒɡ/",
+   "def_en": "An online diary.",
+   "def_vi": "Nhật ký trực tuyến.",
+   "gloss_vi": "blog",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Blog</i> (noun) = blog. <b>Grammar</b>: người viết = <i>blogger</i>.",
+   "example": {
+    "en": "<b>blogs</b> – online diaries",
+    "vi": "<b>Blog</b> là nhật ký trực tuyến."
+   }
+  },
+  {
+   "word": "collaborative site",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kəˈlæbərətɪv saɪt/",
+   "def_en": "A website where people work together on particular projects.",
+   "def_vi": "Trang web mọi người cùng làm dự án.",
+   "gloss_vi": "trang cộng tác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Collaborative site</i> (noun) = trang cộng tác. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "and <b>collaborative sites</b> where people work together on particular projects",
+    "vi": "Nổi tiếng nhất trong <b>trang cộng tác</b> là Wikipedia."
+   }
+  },
+  {
+   "word": "host",
+   "sense": "let sellers use site",
+   "pos": "verb",
+   "ipa": "/həʊst/",
+   "def_en": "To let other sellers offer their goods on your website.",
+   "def_vi": "Cho người bán khác đăng hàng trên trang mình.",
+   "gloss_vi": "cho đăng bán",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Host</i> (verb) = cho đăng bán. <b>Grammar</b>: nghĩa thương mại điện tử.",
+   "example": {
+    "en": "It also <b>hosts</b> other sellers on its site",
+    "vi": "Amazon cũng <b>cho</b> người bán khác <b>đăng bán</b> trên trang."
+   }
+  },
+  {
+   "word": "auction site",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɔːkʃn saɪt/",
+   "def_en": "A website where buyers put in increasing offers for goods.",
+   "def_vi": "Trang web người mua trả giá tăng dần.",
+   "gloss_vi": "trang đấu giá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Auction site</i> (noun) = trang đấu giá. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "It’s an <b>auction site</b> linking buyers and sellers",
+    "vi": "eBay là <b>trang đấu giá</b> kết nối người mua và bán."
+   }
+  },
+  {
+   "word": "bid",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bɪd/",
+   "def_en": "An increasing offer for goods at an auction.",
+   "def_vi": "Giá đặt tăng dần trong đấu giá.",
+   "gloss_vi": "giá đặt mua",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bid</i> (noun) = giá đặt mua. <b>Grammar</b>: cũng là động từ <i>bid</i>.",
+   "example": {
+    "en": "buyers put in <b>bids</b> – increasing offers – for goods",
+    "vi": "Người mua đặt <b>giá</b> cho hàng hóa."
+   }
+  },
+  {
+   "word": "highest bidder",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌhaɪɪst ˈbɪdə(r)/",
+   "def_en": "The person offering the most at an auction.",
+   "def_vi": "Người trả giá cao nhất.",
+   "gloss_vi": "người trả giá cao nhất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Highest bidder</i> (noun) = người trả giá cao nhất. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "the <b>highest bidder</b> – person offering the most – wins",
+    "vi": "<b>Người trả giá cao nhất</b> thắng."
+   }
+  },
+  {
+   "word": "online banking",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɒnlaɪn ˈbæŋkɪŋ/",
+   "def_en": "Checking and managing your bank account on the internet.",
+   "def_vi": "Kiểm tra, quản lý tài khoản qua mạng.",
+   "gloss_vi": "ngân hàng trực tuyến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Online banking</i> (noun) = ngân hàng trực tuyến. <b>Collocations / chunks</b>: <i>online</i> + <i>banking/dating/gambling/brokerage/travel/fundraising</i>.",
+   "example": {
+    "en": "With <b>online banking</b> you can check the state of your bank account.",
+    "vi": "Với <b>ngân hàng trực tuyến</b> bạn kiểm tra được tài khoản."
+   }
+  },
+  {
+   "word": "online brokerage",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɒnlaɪn ˈbrəʊkərɪdʒ/",
+   "def_en": "Buying and selling shares on the internet.",
+   "def_vi": "Mua bán cổ phiếu qua mạng.",
+   "gloss_vi": "môi giới trực tuyến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Online brokerage</i> (noun) = môi giới trực tuyến. <b>Grammar</b>: người = <i>broker</i>.",
+   "example": {
+    "en": "With online <b>brokerage</b> you can buy and sell shares, etc.",
+    "vi": "Với <b>môi giới trực tuyến</b> bạn mua bán được cổ phiếu."
+   }
+  }
+ ]
+}

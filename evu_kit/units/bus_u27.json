@@ -1,0 +1,328 @@
+{
+ "book": "bus",
+ "unit": 27,
+ "title_vi": "Doanh số và chi phí",
+ "theory_html": "<p><b>A. Sales</b><br><i>A. Doanh số</i></p> <p><b>sales, work in sales, sales director, sales department, sales team, sales meeting, sales figures, revenue / turnover, sales volume / unit sales, target, sales growth, sales forecast</b>. Note: <b>sale(s)</b> nouns, <b>sell</b> verb; <b>the sales</b> = period of cheaper prices; <b>sales revenue</b> (BrE/AmE), <b>sales turnover</b> (BrE).</p><p><i><b>doanh số, làm mảng bán hàng, giám đốc kinh doanh, phòng kinh doanh, đội bán hàng, họp bán hàng, số liệu doanh số, doanh thu, số lượng bán, chỉ tiêu, tăng trưởng doanh số, dự báo doanh số; mùa giảm giá</b>.</i></p> <p><b>B. Costs</b><br><i>B. Chi phí</i></p> <p><b>costs: direct costs, fixed costs, variable costs, cost of goods sold (COGS), overheads / overhead costs / indirect costs, expenses / operating expenses, costing, costings</b>.</p><p><i><b>chi phí trực tiếp, cố định, biến đổi, giá vốn hàng bán, chi phí chung / gián tiếp, chi phí hoạt động, tính chi phí, các khoản tính toán</b>.</i></p> <p><b>C. Margins and mark-ups</b><br><i>C. Biên lợi nhuận và mức cộng giá</i></p> <p><b>selling price, direct production costs, gross margin, total costs, net margin / profit margin / mark-up</b> (margin as % of selling price; mark-up as % of total costs).</p><p><i><b>giá bán, chi phí sản xuất trực tiếp, lãi gộp, tổng chi phí, lãi ròng / biên lợi nhuận / mức cộng giá</b>.</i></p>",
+ "items": [
+  {
+   "word": "sales",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/seɪlz/",
+   "def_en": "The goods and services a business sells, and the money it receives for them.",
+   "def_vi": "Hàng hóa, dịch vụ bán ra và tiền thu được.",
+   "gloss_vi": "doanh số",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sales</i> (noun) = doanh số. <b>Grammar</b>: <i>the sales</i> = mùa giảm giá.",
+   "example": {
+    "en": "The goods and services that a business sells, and the money it receives for them from customers, are its <b>sales</b>.",
+    "vi": "Hàng bán ra và tiền thu về là <b>doanh số</b>."
+   }
+  },
+  {
+   "word": "work in sales",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌwɜːk ɪn ˈseɪlz/",
+   "def_en": "To work in the department that sells products.",
+   "def_vi": "Làm ở bộ phận bán hàng.",
+   "gloss_vi": "làm mảng bán hàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Work in sales</i> (verb) = làm mảng bán hàng. <b>Collocations / chunks</b>: <i>work in</i> + bộ phận.",
+   "example": {
+    "en": "Denise van Beek of Nordsee Marine <b>works in sales</b>.",
+    "vi": "Denise <b>làm mảng bán hàng</b>."
+   }
+  },
+  {
+   "word": "sales director",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈseɪlz dəˌrektə(r)/",
+   "def_en": "The person in charge of the sales department.",
+   "def_vi": "Người phụ trách phòng kinh doanh.",
+   "gloss_vi": "giám đốc kinh doanh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sales director</i> (noun) = giám đốc kinh doanh. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "In fact, she is <b>sales director</b>, in charge of the sales department.",
+    "vi": "Cô ấy là <b>giám đốc kinh doanh</b>, phụ trách phòng kinh doanh."
+   }
+  },
+  {
+   "word": "sales figures",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈseɪlz ˌfɪɡəz/",
+   "def_en": "Numbers showing how much has been sold.",
+   "def_vi": "Con số cho biết đã bán bao nhiêu.",
+   "gloss_vi": "số liệu doanh số",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sales figures</i> (noun) = số liệu doanh số. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "Our <b>sales figures</b> last year were good",
+    "vi": "<b>Số liệu doanh số</b> năm ngoái tốt."
+   }
+  },
+  {
+   "word": "revenue",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈrevənjuː/",
+   "def_en": "Money from sales.",
+   "def_vi": "Tiền thu từ bán hàng.",
+   "gloss_vi": "doanh thu",
+   "synonyms": "turnover <i>(n. doanh thu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Revenue</i> (noun) = doanh thu. <b>Collocations / chunks</b>: <i>sales revenue</i>.",
+   "example": {
+    "en": "<b>revenue</b> or turnover – money from sales – was €14.5 million",
+    "vi": "<b>Doanh thu</b> là 14,5 triệu euro."
+   }
+  },
+  {
+   "word": "turnover",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtɜːnəʊvə(r)/",
+   "def_en": "Money from sales (esp. BrE).",
+   "def_vi": "Tiền thu từ bán hàng (Anh).",
+   "gloss_vi": "doanh thu",
+   "synonyms": "revenue <i>(n. doanh thu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Turnover</i> (noun) = doanh thu. <b>Grammar</b>: Anh; <i>sales turnover</i>.",
+   "example": {
+    "en": "revenue or <b>turnover</b> – money from sales – was €14.5 million",
+    "vi": "Doanh thu hay <b>doanh số</b> là 14,5 triệu euro."
+   }
+  },
+  {
+   "word": "sales volume",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈseɪlz ˌvɒljuːm/",
+   "def_en": "The number of units sold.",
+   "def_vi": "Số đơn vị đã bán.",
+   "gloss_vi": "số lượng bán",
+   "synonyms": "unit sales <i>(n. số đơn vị bán)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sales volume</i> (noun) = số lượng bán. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "on <b>sales volume</b> or unit sales of 49 boats",
+    "vi": "Trên <b>số lượng bán</b> 49 chiếc thuyền."
+   }
+  },
+  {
+   "word": "target",
+   "sense": "planned amount",
+   "pos": "noun",
+   "ipa": "/ˈtɑːɡɪt/",
+   "def_en": "An amount you plan to achieve.",
+   "def_vi": "Mức dự định đạt được.",
+   "gloss_vi": "chỉ tiêu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Target</i> (noun) = chỉ tiêu. <b>Collocations / chunks</b>: <i>sales target</i>.",
+   "example": {
+    "en": "This was above our <b>target</b> for the year of €13 million.",
+    "vi": "Vượt <b>chỉ tiêu</b> năm là 13 triệu euro."
+   }
+  },
+  {
+   "word": "sales forecast",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈseɪlz ˌfɔːkɑːst/",
+   "def_en": "An estimate of future sales.",
+   "def_vi": "Ước tính doanh số tương lai.",
+   "gloss_vi": "dự báo doanh số",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sales forecast</i> (noun) = dự báo doanh số. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "so my <b>sales forecast</b> for next year is nearly €16 million",
+    "vi": "<b>Dự báo doanh số</b> năm tới gần 16 triệu euro."
+   }
+  },
+  {
+   "word": "direct costs",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dəˌrekt ˈkɒsts/",
+   "def_en": "Costs directly related to providing the product, e.g. salaries.",
+   "def_vi": "Chi phí liên quan trực tiếp đến sản phẩm, vd lương.",
+   "gloss_vi": "chi phí trực tiếp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "indirect costs <i>(n. chi phí gián tiếp)</i>",
+   "grammar_vi": "<i>Direct costs</i> (noun) = chi phí trực tiếp. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "<b>direct costs</b> are directly related to providing the product, e.g. salaries",
+    "vi": "<b>Chi phí trực tiếp</b> liên quan trực tiếp đến sản phẩm."
+   }
+  },
+  {
+   "word": "fixed costs",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌfɪkst ˈkɒsts/",
+   "def_en": "Costs that do not change when production goes up or down, e.g. rent.",
+   "def_vi": "Chi phí không đổi khi sản lượng thay đổi, vd tiền thuê.",
+   "gloss_vi": "chi phí cố định",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "variable costs <i>(n. chi phí biến đổi)</i>",
+   "grammar_vi": "<i>Fixed costs</i> (noun) = chi phí cố định. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "<b>fixed costs</b> do not change when production goes up or down, e.g. rent, heating, etc.",
+    "vi": "<b>Chi phí cố định</b> không đổi khi sản lượng tăng giảm."
+   }
+  },
+  {
+   "word": "variable costs",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌveəriəbl ˈkɒsts/",
+   "def_en": "Costs that change when production goes up or down, e.g. materials.",
+   "def_vi": "Chi phí thay đổi theo sản lượng, vd vật liệu.",
+   "gloss_vi": "chi phí biến đổi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "fixed costs <i>(n. chi phí cố định)</i>",
+   "grammar_vi": "<i>Variable costs</i> (noun) = chi phí biến đổi. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "<b>variable costs</b> change when production goes up or down, e.g. materials",
+    "vi": "<b>Chi phí biến đổi</b> thay đổi theo sản lượng."
+   }
+  },
+  {
+   "word": "cost of goods sold",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkɒst əv ˌɡʊdz ˈsəʊld/",
+   "def_en": "The variable costs in making particular goods (COGS).",
+   "def_vi": "Chi phí biến đổi làm ra hàng (COGS).",
+   "gloss_vi": "giá vốn hàng bán",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cost of goods sold</i> (noun) = giá vốn hàng bán. <b>Grammar</b>: viết tắt <i>COGS</i>.",
+   "example": {
+    "en": "<b>cost of goods sold</b> (COGS) are the variable costs in making particular goods",
+    "vi": "<b>Giá vốn hàng bán</b> là chi phí biến đổi làm ra hàng."
+   }
+  },
+  {
+   "word": "overheads",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈəʊvəhedz/",
+   "def_en": "Costs not directly related to production, e.g. administration.",
+   "def_vi": "Chi phí không trực tiếp sản xuất, vd hành chính.",
+   "gloss_vi": "chi phí chung",
+   "synonyms": "indirect costs <i>(n. chi phí gián tiếp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Overheads</i> (noun) = chi phí chung. <b>Grammar</b>: Anh/Mỹ số nhiều <i>overheads</i>; Mỹ <i>overhead</i>.",
+   "example": {
+    "en": "<b>overheads</b>, overhead costs or indirect costs are not directly related to production, e.g. administration",
+    "vi": "<b>Chi phí chung</b> không liên quan trực tiếp sản xuất."
+   }
+  },
+  {
+   "word": "operating expenses",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɒpəreɪtɪŋ ɪkˌspensɪz/",
+   "def_en": "Costs, especially indirect ones.",
+   "def_vi": "Chi phí, nhất là gián tiếp.",
+   "gloss_vi": "chi phí hoạt động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Operating expenses</i> (noun) = chi phí hoạt động. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "Some costs, especially indirect ones, are also called expenses or <b>operating expenses</b>.",
+    "vi": "Chi phí gián tiếp còn gọi là <b>chi phí hoạt động</b>."
+   }
+  },
+  {
+   "word": "costing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɒstɪŋ/",
+   "def_en": "The activity of calculating costs.",
+   "def_vi": "Việc tính chi phí.",
+   "gloss_vi": "việc tính chi phí",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Costing</i> (noun) = việc tính chi phí. <b>Grammar</b>: số nhiều <i>costings</i> = các khoản tính.",
+   "example": {
+    "en": "<b>Costing</b> is the activity of calculating costs.",
+    "vi": "<b>Tính chi phí</b> là hoạt động tính các khoản chi."
+   }
+  },
+  {
+   "word": "selling price",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈselɪŋ praɪs/",
+   "def_en": "The price at which something is sold.",
+   "def_vi": "Giá bán ra.",
+   "gloss_vi": "giá bán",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Selling price</i> (noun) = giá bán. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "<b>selling price</b> = €50,000",
+    "vi": "<b>Giá bán</b> = 50.000 euro."
+   }
+  },
+  {
+   "word": "gross margin",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɡrəʊs ˈmɑːdʒɪn/",
+   "def_en": "Selling price minus direct production costs.",
+   "def_vi": "Giá bán trừ chi phí sản xuất trực tiếp.",
+   "gloss_vi": "lãi gộp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "net margin <i>(n. lãi ròng)</i>",
+   "grammar_vi": "<i>Gross margin</i> (noun) = lãi gộp. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "selling price – direct production costs = <b>gross margin</b> = €15,000",
+    "vi": "Giá bán – chi phí sản xuất trực tiếp = <b>lãi gộp</b>."
+   }
+  },
+  {
+   "word": "profit margin",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈprɒfɪt ˌmɑːdʒɪn/",
+   "def_en": "Selling price minus total costs, usually as a percentage of the selling price.",
+   "def_vi": "Giá bán trừ tổng chi phí, thường tính % trên giá bán.",
+   "gloss_vi": "biên lợi nhuận",
+   "synonyms": "net margin <i>(n. lãi ròng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Profit margin</i> (noun) = biên lợi nhuận. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "The net margin or <b>profit margin</b> is usually given as a percentage of the selling price",
+    "vi": "<b>Biên lợi nhuận</b> thường tính bằng % giá bán."
+   }
+  },
+  {
+   "word": "mark-up",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɑːk ʌp/",
+   "def_en": "Selling price minus total costs, usually as a percentage of total costs.",
+   "def_vi": "Giá bán trừ tổng chi phí, thường % trên tổng chi phí.",
+   "gloss_vi": "mức cộng giá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mark-up</i> (noun) = mức cộng giá. <b>Grammar</b>: động từ <i>mark up</i>.",
+   "example": {
+    "en": "The <b>mark-up</b> is usually given as a percentage of the total costs, in this case 25 per cent.",
+    "vi": "<b>Mức cộng giá</b> thường tính bằng % tổng chi phí."
+   }
+  }
+ ]
+}

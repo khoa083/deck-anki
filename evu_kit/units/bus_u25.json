@@ -1,0 +1,312 @@
+{
+ "book": "bus",
+ "unit": 25,
+ "title_vi": "Xúc tiến bán hàng",
+ "theory_html": "<p><b>A. Advertising</b><br><i>A. Quảng cáo</i></p> <p>Advertising <b>media</b>: <b>classified advertisements, open-air hoardings (BrE) / billboards (AmE), TV commercial, special displays, neon signs</b>; <b>advertising campaign, commercial, advertise, advertiser, advertising agency, sponsorship, sponsor</b>. Note: BrE <b>ad, advert, advertisement</b>; AmE <b>ad, advertisement</b>.</p><p><i><b>phương tiện quảng cáo: rao vặt, biển quảng cáo ngoài trời, quảng cáo truyền hình, gian trưng bày, biển neon; chiến dịch quảng cáo, quảng cáo TV, quảng cáo, nhà quảng cáo, công ty quảng cáo, tài trợ</b>.</i></p> <p><b>B. The sales force</b><br><i>B. Lực lượng bán hàng</i></p> <p><b>salespeople, salesmen, saleswomen, sales force, sales area / sales territory, sales manager</b>.</p><p><i><b>nhân viên bán hàng, lực lượng bán hàng, khu vực bán hàng, quản lý bán hàng</b>.</i></p> <p><b>C. Promotional activities</b><br><i>C. Hoạt động xúc tiến</i></p> <p><b>promotion</b> (uncountable / countable): <b>special offer, discount, free sample, free gift, competition, prizes, loyalty cards, cross-promotion, product endorsements, product placement</b>.</p><p><i><b>xúc tiến / đợt khuyến mãi: ưu đãi đặc biệt, giảm giá, mẫu dùng thử, quà tặng, cuộc thi, giải thưởng, thẻ khách hàng thân thiết, khuyến mãi chéo, người nổi tiếng giới thiệu, quảng cáo lồng ghép</b>.</i></p>",
+ "items": [
+  {
+   "word": "medium",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmiːdiəm/",
+   "def_en": "A way of communicating information, e.g. for advertising.",
+   "def_vi": "Phương tiện truyền tải thông tin, vd quảng cáo.",
+   "gloss_vi": "phương tiện (quảng cáo)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Medium</i> (noun) = phương tiện (quảng cáo). <b>Grammar</b>: số nhiều <i>media</i>.",
+   "example": {
+    "en": "Each photo shows a different advertising <b>medium</b>.",
+    "vi": "Mỗi ảnh là một <b>phương tiện</b> quảng cáo khác nhau."
+   }
+  },
+  {
+   "word": "classified advertisements",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌklæsɪfaɪd ədˈvɜːtɪsmənts/",
+   "def_en": "Small advertisements in a newspaper, arranged by type.",
+   "def_vi": "Quảng cáo nhỏ trên báo xếp theo loại.",
+   "gloss_vi": "quảng cáo rao vặt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Classified advertisements</i> (noun) = quảng cáo rao vặt. <b>Collocations / chunks</b>: thân mật <i>classifieds</i>.",
+   "example": {
+    "en": "<b>Classified advertisements</b>",
+    "vi": "<b>Quảng cáo rao vặt</b> là một phương tiện quảng cáo."
+   }
+  },
+  {
+   "word": "billboard",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɪlbɔːd/",
+   "def_en": "A large outdoor board for advertisements (AmE; BrE hoarding).",
+   "def_vi": "Bảng lớn ngoài trời để quảng cáo (Mỹ).",
+   "gloss_vi": "biển quảng cáo",
+   "synonyms": "hoarding <i>(n. biển quảng cáo (Anh))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Billboard</i> (noun) = biển quảng cáo. <b>Grammar</b>: Mỹ; Anh <i>hoarding</i>.",
+   "example": {
+    "en": "Open-air hoardings (BrE) / <b>Billboards</b> (AmE)",
+    "vi": "Biển quảng cáo ngoài trời (Anh) / <b>biển quảng cáo</b> (Mỹ)."
+   }
+  },
+  {
+   "word": "advertising campaign",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈædvətaɪzɪŋ kæmˌpeɪn/",
+   "def_en": "A series of advertisements for a particular company or product.",
+   "def_vi": "Loạt quảng cáo cho công ty hay sản phẩm.",
+   "gloss_vi": "chiến dịch quảng cáo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Advertising campaign</i> (noun) = chiến dịch quảng cáo. <b>Collocations / chunks</b>: <i>launch an advertising campaign</i>.",
+   "example": {
+    "en": "A series of advertisements for a particular company, product, etc. is an <b>advertising campaign</b>.",
+    "vi": "Loạt quảng cáo cho một sản phẩm là <b>chiến dịch quảng cáo</b>."
+   }
+  },
+  {
+   "word": "commercial",
+   "sense": "TV advertisement",
+   "pos": "noun",
+   "ipa": "/kəˈmɜːʃl/",
+   "def_en": "A television advertisement.",
+   "def_vi": "Quảng cáo truyền hình.",
+   "gloss_vi": "quảng cáo truyền hình",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Commercial</i> (noun) = quảng cáo truyền hình. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "A television advertisement is also called a <b>commercial</b>.",
+    "vi": "Quảng cáo trên TV còn gọi là <b>quảng cáo truyền hình</b>."
+   }
+  },
+  {
+   "word": "advertiser",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈædvətaɪzə(r)/",
+   "def_en": "A person or business that advertises.",
+   "def_vi": "Người hay doanh nghiệp quảng cáo.",
+   "gloss_vi": "nhà quảng cáo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Advertiser</i> (noun) = nhà quảng cáo. <b>Grammar</b>: động từ <i>advertise</i>.",
+   "example": {
+    "en": "A person or business that advertises is an <b>advertiser</b>.",
+    "vi": "Người hay doanh nghiệp quảng cáo là <b>nhà quảng cáo</b>."
+   }
+  },
+  {
+   "word": "advertising agency",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈædvətaɪzɪŋ ˌeɪdʒənsi/",
+   "def_en": "An organization that designs and manages advertising.",
+   "def_vi": "Tổ chức thiết kế và quản lý quảng cáo.",
+   "gloss_vi": "công ty quảng cáo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Advertising agency</i> (noun) = công ty quảng cáo. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "An organization that designs and manages advertising is an <b>advertising agency</b>.",
+    "vi": "Tổ chức thiết kế quảng cáo là <b>công ty quảng cáo</b>."
+   }
+  },
+  {
+   "word": "sponsorship",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈspɒnsəʃɪp/",
+   "def_en": "When companies pay some costs of events like concerts or display their products there.",
+   "def_vi": "Công ty trả một phần chi phí sự kiện hay trưng bày sản phẩm.",
+   "gloss_vi": "tài trợ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sponsorship</i> (noun) = tài trợ. <b>Grammar</b>: động từ <i>sponsor</i>.",
+   "example": {
+    "en": "Another form of advertising is <b>sponsorship</b>, where companies sponsor events like concerts and sports events",
+    "vi": "Một hình thức quảng cáo khác là <b>tài trợ</b>."
+   }
+  },
+  {
+   "word": "sales force",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈseɪlz fɔːs/",
+   "def_en": "All of a company’s salespeople.",
+   "def_vi": "Toàn bộ nhân viên bán hàng của công ty.",
+   "gloss_vi": "lực lượng bán hàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sales force</i> (noun) = lực lượng bán hàng. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "Each member of this <b>sales force</b> has his or her own sales area",
+    "vi": "Mỗi thành viên <b>lực lượng bán hàng</b> có khu vực riêng."
+   }
+  },
+  {
+   "word": "salespeople",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈseɪlzpiːpl/",
+   "def_en": "People who visit or phone customers and persuade them to buy.",
+   "def_vi": "Người gặp hay gọi khách để thuyết phục mua.",
+   "gloss_vi": "nhân viên bán hàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Salespeople</i> (noun) = nhân viên bán hàng. <b>Grammar</b>: số ít <i>salesperson</i>.",
+   "example": {
+    "en": "A company’s <b>salespeople</b> – its salesmen and saleswomen – visit or phone customers and persuade them to buy its products.",
+    "vi": "<b>Nhân viên bán hàng</b> gặp hay gọi khách để thuyết phục mua."
+   }
+  },
+  {
+   "word": "sales territory",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈseɪlz ˌterətri/",
+   "def_en": "The region a salesperson is responsible for.",
+   "def_vi": "Khu vực nhân viên bán hàng phụ trách.",
+   "gloss_vi": "khu vực bán hàng",
+   "synonyms": "sales area <i>(n. khu vực bán hàng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sales territory</i> (noun) = khu vực bán hàng. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "has his or her own sales area or <b>sales territory</b>",
+    "vi": "Mỗi người có <b>khu vực bán hàng</b> riêng."
+   }
+  },
+  {
+   "word": "sales manager",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈseɪlz ˌmænɪdʒə(r)/",
+   "def_en": "The head of the sales force.",
+   "def_vi": "Người đứng đầu lực lượng bán hàng.",
+   "gloss_vi": "quản lý bán hàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sales manager</i> (noun) = quản lý bán hàng. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "The head of the sales force is the <b>sales manager</b>.",
+    "vi": "Người đứng đầu là <b>quản lý bán hàng</b>."
+   }
+  },
+  {
+   "word": "promotion",
+   "sense": "special offer",
+   "pos": "noun",
+   "ipa": "/prəˈməʊʃn/",
+   "def_en": "A special offer, free sample, free gift or competition to support sales.",
+   "def_vi": "Ưu đãi, mẫu thử, quà tặng, cuộc thi để hỗ trợ bán.",
+   "gloss_vi": "đợt khuyến mãi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Promotion</i> (noun) = đợt khuyến mãi. <b>Grammar</b>: đếm được = đợt khuyến mãi.",
+   "example": {
+    "en": "<b>A promotion</b> (countable) can describe: a special offer such as a discount",
+    "vi": "Một <b>đợt khuyến mãi</b> có thể là ưu đãi đặc biệt."
+   }
+  },
+  {
+   "word": "special offer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌspeʃl ˈɒfə(r)/",
+   "def_en": "A discount or reduced price.",
+   "def_vi": "Giảm giá.",
+   "gloss_vi": "ưu đãi đặc biệt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Special offer</i> (noun) = ưu đãi đặc biệt. <b>Collocations / chunks</b>: <i>on special offer</i>.",
+   "example": {
+    "en": "a <b>special offer</b> such as a discount or reduced price",
+    "vi": "<b>Ưu đãi đặc biệt</b> như giảm giá."
+   }
+  },
+  {
+   "word": "free sample",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌfriː ˈsɑːmpl/",
+   "def_en": "A small amount of a product to try or taste.",
+   "def_vi": "Lượng nhỏ sản phẩm để thử.",
+   "gloss_vi": "mẫu dùng thử miễn phí",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Free sample</i> (noun) = mẫu dùng thử miễn phí. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "a <b>free sample</b> – a small amount of the product to try or taste",
+    "vi": "<b>Mẫu thử miễn phí</b> – lượng nhỏ để thử."
+   }
+  },
+  {
+   "word": "free gift",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌfriː ˈɡɪft/",
+   "def_en": "Something given away with a product.",
+   "def_vi": "Thứ tặng kèm sản phẩm.",
+   "gloss_vi": "quà tặng kèm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Free gift</i> (noun) = quà tặng kèm. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "a <b>free gift</b> given away with the product",
+    "vi": "<b>Quà tặng kèm</b> sản phẩm."
+   }
+  },
+  {
+   "word": "loyalty card",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlɔɪəlti kɑːd/",
+   "def_en": "A card that gives you points for spending, exchangeable for free goods.",
+   "def_vi": "Thẻ tích điểm khi mua, đổi được quà.",
+   "gloss_vi": "thẻ khách hàng thân thiết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Loyalty card</i> (noun) = thẻ khách hàng thân thiết. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "Supermarkets, chain stores and airlines also offer <b>loyalty cards</b>",
+    "vi": "Siêu thị và hãng bay có <b>thẻ khách hàng thân thiết</b>."
+   }
+  },
+  {
+   "word": "cross-promotion",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌkrɒs prəˈməʊʃn/",
+   "def_en": "Recommending another product when someone buys one.",
+   "def_vi": "Giới thiệu sản phẩm khác khi khách mua một món.",
+   "gloss_vi": "khuyến mãi chéo",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cross-promotion</i> (noun) = khuyến mãi chéo. <b>Grammar</b>: tiền tố <i>cross-</i>.",
+   "example": {
+    "en": "A <b>cross-promotion</b> is where you buy one product, and you are recommended to buy another product",
+    "vi": "<b>Khuyến mãi chéo</b> là mua máy giặt được gợi ý bột giặt."
+   }
+  },
+  {
+   "word": "product endorsement",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈprɒdʌkt ɪnˌdɔːsmənt/",
+   "def_en": "An advertisement where a famous person recommends the product.",
+   "def_vi": "Quảng cáo người nổi tiếng giới thiệu sản phẩm.",
+   "gloss_vi": "người nổi tiếng quảng bá sản phẩm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Product endorsement</i> (noun) = người nổi tiếng quảng bá sản phẩm. <b>Grammar</b>: động từ <i>endorse</i>.",
+   "example": {
+    "en": "Advertisements where famous people recommend the product are <b>product endorsements</b>.",
+    "vi": "Quảng cáo người nổi tiếng giới thiệu là <b>quảng bá sản phẩm</b>."
+   }
+  }
+ ]
+}
