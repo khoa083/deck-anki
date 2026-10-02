@@ -1,0 +1,520 @@
+{
+ "book": "gva",
+ "unit": 41,
+ "title_vi": "Kinh tế và kinh doanh",
+ "theory_html": "<p><b>V1. Verbs for reporting research findings</b><br><i>V1. Động từ báo cáo kết quả nghiên cứu</i></p> <p><b>New research found that…; the survey showed that…; people surveyed indicated (that)…</b></p><p><i><b>find, show, indicate</b> dùng khi báo cáo kết quả khảo sát.</i></p>",
+ "items": [
+  {
+   "word": "pension fund",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpenʃn fʌnd/",
+   "def_en": "Money set aside to provide income for people when they are retired.",
+   "def_vi": "Quỹ hưu trí.",
+   "gloss_vi": "quỹ hưu trí",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pension fund</i> (noun) = quỹ hưu trí. <b>Collocations / chunks</b>: cụm danh từ cố định <i>pension fund</i>.",
+   "example": {
+    "en": "<b>PENSION FUND</b>",
+    "vi": "Báo đưa tin về <b>quỹ hưu trí</b> gặp khó."
+   }
+  },
+  {
+   "word": "economic downturn",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌiːkəˌnɒmɪk ˈdaʊntɜːn/",
+   "def_en": "A period of economic decline.",
+   "def_vi": "Suy thoái kinh tế.",
+   "gloss_vi": "suy thoái",
+   "synonyms": "recession <i>(n. suy thoái)</i>",
+   "antonyms": "boom <i>(n. bùng nổ)</i>",
+   "grammar_vi": "<i>Economic downturn</i> (noun) = suy thoái. <b>Note</b>: cũng <i>recession, slump</i>.",
+   "example": {
+    "en": "<b>ECONOMIC DOWNTURN</b>",
+    "vi": "<b>Suy thoái kinh tế</b>."
+   }
+  },
+  {
+   "word": "recession",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/rɪˈseʃn/",
+   "def_en": "A period when the economy of a country is not successful.",
+   "def_vi": "Suy thoái kinh tế.",
+   "gloss_vi": "suy thoái",
+   "synonyms": "slump <i>(n. suy thoái)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Recession</i> (noun) = suy thoái. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "WORLDWIDE <b>RECESSION</b>",
+    "vi": "<b>Suy thoái</b> toàn cầu."
+   }
+  },
+  {
+   "word": "slump",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/slʌmp/",
+   "def_en": "A period when economic activity falls.",
+   "def_vi": "Sự sụt giảm mạnh.",
+   "gloss_vi": "suy sụp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Slump</i> (noun) = suy sụp. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "<b>Slump</b> worsens",
+    "vi": "<b>Suy thoái</b> tồi tệ hơn."
+   }
+  },
+  {
+   "word": "credit crunch",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkredɪt krʌntʃ/",
+   "def_en": "An economic situation where banks stop lending money.",
+   "def_vi": "Khủng hoảng tín dụng.",
+   "gloss_vi": "khủng hoảng tín dụng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Credit crunch</i> (noun) = khủng hoảng tín dụng. <b>Collocations / chunks</b>: cụm danh từ cố định <i>credit crunch</i>.",
+   "example": {
+    "en": "<b>Credit crunch</b> hits home",
+    "vi": "<b>Khủng hoảng tín dụng</b> ảnh hưởng đến từng nhà."
+   }
+  },
+  {
+   "word": "crash",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kræʃ/",
+   "def_en": "A sudden fall in the value of shares.",
+   "def_vi": "Sự sụp đổ (thị trường).",
+   "gloss_vi": "sụp đổ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Crash</i> (noun) = sụp đổ. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "<b>CRASH</b> ON WALL STREET!",
+    "vi": "<b>Sụp đổ</b> ở phố Wall!"
+   }
+  },
+  {
+   "word": "inflation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪnˈfleɪʃn/",
+   "def_en": "An increase in prices leading to an increase in the cost of living.",
+   "def_vi": "Lạm phát.",
+   "gloss_vi": "lạm phát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Inflation</i> (noun) = lạm phát. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "<b>Inflation</b> soars",
+    "vi": "<b>Lạm phát</b> tăng vọt."
+   }
+  },
+  {
+   "word": "soar",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/sɔː(r)/",
+   "def_en": "To rise quickly to a high level.",
+   "def_vi": "Tăng vọt.",
+   "gloss_vi": "tăng vọt",
+   "synonyms": "rocket <i>(v. tăng vọt)</i>",
+   "antonyms": "plummet <i>(v. lao dốc)</i>",
+   "grammar_vi": "<i>Soar</i> (verb) = tăng vọt. <b>Note</b>: cũng <i>shoot up, rocket, rise dramatically</i>.",
+   "example": {
+    "en": "Inflation <b>soars</b>",
+    "vi": "Lạm phát <b>tăng vọt</b>."
+   }
+  },
+  {
+   "word": "weaken",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈwiːkən/",
+   "def_en": "To go down in value.",
+   "def_vi": "Yếu đi, mất giá.",
+   "gloss_vi": "mất giá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "strengthen <i>(v. tăng giá)</i>",
+   "grammar_vi": "<i>Weaken</i> (verb) = mất giá. <b>Note</b>: cũng <i>fall, tumble</i>.",
+   "example": {
+    "en": "Pound <b>weakens</b> against dollar",
+    "vi": "Đồng bảng <b>mất giá</b> so với đô la."
+   }
+  },
+  {
+   "word": "tumble",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈtʌmbl/",
+   "def_en": "To fall suddenly in value.",
+   "def_vi": "Rớt giá đột ngột.",
+   "gloss_vi": "rơi mạnh",
+   "synonyms": "fall <i>(v. giảm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tumble</i> (verb) = rơi mạnh. <b>Grammar</b>: động từ.",
+   "example": {
+    "en": "stocks <b>tumble</b>",
+    "vi": "Cổ phiếu <b>rơi mạnh</b>."
+   }
+  },
+  {
+   "word": "finances",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfaɪnænsɪz/",
+   "def_en": "The money a person or organisation has.",
+   "def_vi": "Tình hình tài chính.",
+   "gloss_vi": "tài chính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Finances</i> (noun) = tài chính. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "due to continued worry about their <b>finances</b>",
+    "vi": "Người Mỹ sẽ chi ít hơn vì lo về <b>tài chính</b> của họ."
+   }
+  },
+  {
+   "word": "retailer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈriːteɪlə(r)/",
+   "def_en": "A business that sells goods to the public.",
+   "def_vi": "Nhà bán lẻ.",
+   "gloss_vi": "nhà bán lẻ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Retailer</i> (noun) = nhà bán lẻ. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "This is bad news for <b>retailers</b> trying to eke out their earnings",
+    "vi": "Tin xấu cho <b>nhà bán lẻ</b> mùa lễ này."
+   }
+  },
+  {
+   "word": "eke out",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/iːk ˈaʊt/",
+   "def_en": "To make something last longer by using it carefully.",
+   "def_vi": "Dè sẻn, kéo dài.",
+   "gloss_vi": "chắt chiu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Eke out</i> (phr v) = chắt chiu. <b>Grammar</b>: phr v nhiều từ <i>eke out</i>.",
+   "example": {
+    "en": "retailers trying to <b>eke out</b> their earnings this holiday season",
+    "vi": "Nhà bán lẻ cố <b>chắt chiu</b> thu nhập mùa lễ này."
+   }
+  },
+  {
+   "word": "slash prices",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/slæʃ ˈpraɪsɪz/",
+   "def_en": "To reduce prices greatly.",
+   "def_vi": "Giảm giá mạnh.",
+   "gloss_vi": "giảm giá mạnh",
+   "synonyms": "cut <i>(v. cắt giảm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Slash prices</i> (verb) = giảm giá mạnh. <b>Note</b>: cũng <i>cut, lower, reduce</i>.",
+   "example": {
+    "en": "had to <b>slash prices</b> even before Christmas to help move stock",
+    "vi": "Phải <b>giảm giá mạnh</b> trước cả Giáng sinh để bán được hàng."
+   }
+  },
+  {
+   "word": "inch up",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/ɪntʃ ˈʌp/",
+   "def_en": "To increase slowly.",
+   "def_vi": "Tăng từ từ.",
+   "gloss_vi": "nhích lên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Inch up</i> (phr v) = nhích lên. <b>Grammar</b>: phr v nhiều từ <i>inch up</i>.",
+   "example": {
+    "en": "Even the news that household spending <b>inched up</b> is a double-edged sword.",
+    "vi": "Tin chi tiêu hộ gia đình <b>nhích lên</b> là con dao hai lưỡi."
+   }
+  },
+  {
+   "word": "double-edged sword",
+   "sense": "",
+   "pos": "idiom",
+   "ipa": "/ˌdʌbl edʒd ˈsɔːd/",
+   "def_en": "Something that is both an advantage and a disadvantage.",
+   "def_vi": "Con dao hai lưỡi.",
+   "gloss_vi": "con dao hai lưỡi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Double-edged sword</i> (idiom) = con dao hai lưỡi. <b>Grammar</b>: idiom nhiều từ <i>double-edged sword</i>.",
+   "example": {
+    "en": "Even the news that household spending inched up is a <b>double-edged sword</b>.",
+    "vi": "Tin chi tiêu nhích lên là <b>con dao hai lưỡi</b>."
+   }
+  },
+  {
+   "word": "non-essentials",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌnɒn ɪˈsenʃlz/",
+   "def_en": "Things you do not really need.",
+   "def_vi": "Thứ không thiết yếu.",
+   "gloss_vi": "thứ không thiết yếu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "essentials <i>(n. thứ thiết yếu)</i>",
+   "grammar_vi": "<i>Non-essentials</i> (noun) = thứ không thiết yếu. <b>Grammar</b>: danh từ ghép <i>non</i> + <i>essentials</i>.",
+   "example": {
+    "en": "further cutting what they spend on <b>non-essentials</b> like movies or restaurant meals",
+    "vi": "Cắt giảm chi cho <b>thứ không thiết yếu</b> như xem phim."
+   }
+  },
+  {
+   "word": "troubling",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈtrʌblɪŋ/",
+   "def_en": "Causing worry.",
+   "def_vi": "Đáng lo ngại.",
+   "gloss_vi": "đáng lo",
+   "synonyms": "worrying <i>(adj. đáng lo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Troubling</i> (adjective) = đáng lo. <b>Note</b>: cũng <i>disconcerting, disturbing, worrying</i>.",
+   "example": {
+    "en": "Perhaps the most <b>troubling</b> part of the research",
+    "vi": "Phần <b>đáng lo</b> nhất của nghiên cứu."
+   }
+  },
+  {
+   "word": "cut sth to the bone",
+   "sense": "",
+   "pos": "idiom",
+   "ipa": "/ˌkʌt ... tə ðə ˈbəʊn/",
+   "def_en": "To reduce expenditure to a minimum.",
+   "def_vi": "Cắt giảm đến tối thiểu.",
+   "gloss_vi": "cắt đến tận xương",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cut sth to the bone</i> (idiom) = cắt đến tận xương. <b>Grammar</b>: idiom nhiều từ <i>cut sth to the bone</i>.",
+   "example": {
+    "en": "Most people have already <b>cut their spending to the bone</b>",
+    "vi": "Hầu hết đã <b>cắt giảm chi tiêu đến mức tối thiểu</b>."
+   }
+  },
+  {
+   "word": "make ends meet",
+   "sense": "",
+   "pos": "idiom",
+   "ipa": "/ˌmeɪk ˌendz ˈmiːt/",
+   "def_en": "To have just enough money to survive.",
+   "def_vi": "Xoay xở đủ sống.",
+   "gloss_vi": "kiếm đủ sống",
+   "synonyms": "get by <i>(phr v. xoay xở)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Make ends meet</i> (idiom) = kiếm đủ sống. <b>Grammar</b>: idiom nhiều từ <i>make ends meet</i>.",
+   "example": {
+    "en": "average Americans trying to <b>make ends meet</b>",
+    "vi": "Người Mỹ bình thường đang cố <b>xoay xở đủ sống</b>."
+   }
+  },
+  {
+   "word": "out of the woods",
+   "sense": "",
+   "pos": "idiom",
+   "ipa": "/ˌaʊt əv ðə ˈwʊdz/",
+   "def_en": "No longer in danger or difficulty.",
+   "def_vi": "Thoát khỏi khó khăn.",
+   "gloss_vi": "qua cơn nguy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Out of the woods</i> (idiom) = qua cơn nguy. <b>Grammar</b>: thường phủ định: <i>not out of the woods yet</i>.",
+   "example": {
+    "en": "this data shows that we're certainly not <b>out of the woods</b> yet",
+    "vi": "Chúng ta chắc chắn chưa <b>thoát khỏi khó khăn</b>."
+   }
+  },
+  {
+   "word": "indicate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈɪndɪkeɪt/",
+   "def_en": "To show or suggest (used when reporting research).",
+   "def_vi": "Cho thấy.",
+   "gloss_vi": "cho thấy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Indicate</i> (verb) = cho thấy. <b>Note</b>: cũng <i>found, showed</i>.",
+   "example": {
+    "en": "People surveyed <b>indicated</b> they'd be spending more on items like gas",
+    "vi": "Người được khảo sát <b>cho biết</b> họ sẽ chi nhiều hơn cho xăng."
+   }
+  },
+  {
+   "word": "business plan",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɪznəs plæn/",
+   "def_en": "A document describing a business's aims and how they will be achieved.",
+   "def_vi": "Kế hoạch kinh doanh.",
+   "gloss_vi": "kế hoạch kinh doanh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Business plan</i> (noun) = kế hoạch kinh doanh. <b>Collocations / chunks</b>: cụm danh từ cố định <i>business plan</i>.",
+   "example": {
+    "en": "put the time and effort into developing a solid <b>business plan</b> you can present to potential investors",
+    "vi": "Dành thời gian xây dựng một <b>kế hoạch kinh doanh</b> vững chắc."
+   }
+  },
+  {
+   "word": "the personal touch",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ðə ˌpɜːsənl ˈtʌtʃ/",
+   "def_en": "Friendly attention given to individuals.",
+   "def_vi": "Sự quan tâm cá nhân.",
+   "gloss_vi": "dấu ấn cá nhân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The personal touch</i> (noun) = dấu ấn cá nhân. <b>Collocations / chunks</b>: maintain ~.",
+   "example": {
+    "en": "<b>The personal touch</b> is also important",
+    "vi": "<b>Sự quan tâm cá nhân</b> cũng quan trọng."
+   }
+  },
+  {
+   "word": "cost base",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɒst beɪs/",
+   "def_en": "The basic costs of running a business.",
+   "def_vi": "Chi phí nền.",
+   "gloss_vi": "chi phí cơ bản",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cost base</i> (noun) = chi phí cơ bản. <b>Collocations / chunks</b>: cụm danh từ cố định <i>cost base</i>.",
+   "example": {
+    "en": "It is far more important to keep a low <b>cost base</b> at the start",
+    "vi": "Giữ <b>chi phí cơ bản</b> thấp lúc đầu quan trọng hơn nhiều."
+   }
+  },
+  {
+   "word": "locked into",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈlɒkt ˌɪntə/",
+   "def_en": "Unable to escape from an agreement.",
+   "def_vi": "Bị ràng buộc vào.",
+   "gloss_vi": "bị trói buộc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Locked into</i> (adjective) = bị trói buộc. <b>Collocations / chunks</b>: cụm tính từ cố định <i>locked into</i>.",
+   "example": {
+    "en": "Make sure you are not <b>locked into</b> long contracts",
+    "vi": "Đảm bảo bạn không <b>bị ràng buộc vào</b> hợp đồng dài."
+   }
+  },
+  {
+   "word": "thrive",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/θraɪv/",
+   "def_en": "To grow or develop successfully.",
+   "def_vi": "Phát triển mạnh.",
+   "gloss_vi": "phát đạt",
+   "synonyms": "flourish <i>(v. phát triển)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Thrive</i> (verb) = phát đạt. <b>Note</b>: cũng <i>flourish, prosper, succeed</i>.",
+   "example": {
+    "en": "your business may <b>thrive</b> where larger competitors have to struggle",
+    "vi": "Doanh nghiệp của bạn có thể <b>phát triển mạnh</b>."
+   }
+  },
+  {
+   "word": "seek out",
+   "sense": "",
+   "pos": "phr v",
+   "ipa": "/siːk ˈaʊt/",
+   "def_en": "To look for someone or something.",
+   "def_vi": "Tìm kiếm.",
+   "gloss_vi": "chủ động tìm",
+   "synonyms": "look for <i>(phr v. tìm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Seek out</i> (phr v) = chủ động tìm. <b>Grammar</b>: phr v nhiều từ <i>seek out</i>.",
+   "example": {
+    "en": "proactively <b>seek out</b> mentors",
+    "vi": "Chủ động <b>tìm</b> người cố vấn."
+   }
+  },
+  {
+   "word": "mentor",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmentɔː(r)/",
+   "def_en": "An experienced person who advises someone less experienced.",
+   "def_vi": "Người cố vấn.",
+   "gloss_vi": "người cố vấn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mentor</i> (noun) = người cố vấn. <b>Grammar</b>: danh từ.",
+   "example": {
+    "en": "proactively seek out <b>mentors</b>",
+    "vi": "Chủ động tìm <b>người cố vấn</b>."
+   }
+  },
+  {
+   "word": "buzzing",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈbʌzɪŋ/",
+   "def_en": "Full of activity and excitement.",
+   "def_vi": "Sôi động.",
+   "gloss_vi": "sôi động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Buzzing</i> (adjective) = sôi động. <b>Grammar</b>: tính từ.",
+   "example": {
+    "en": "It's important to be part of a <b>buzzing</b> business community.",
+    "vi": "Quan trọng là thuộc một cộng đồng kinh doanh <b>sôi động</b>."
+   }
+  },
+  {
+   "word": "advantage over",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ədˈvɑːntɪdʒ ˈəʊvə(r)/",
+   "def_en": "Something that makes you better than others.",
+   "def_vi": "Lợi thế so với.",
+   "gloss_vi": "lợi thế hơn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Advantage over</i> (noun) = lợi thế hơn. <b>Grammar</b>: không <i>advantage of</i>.",
+   "example": {
+    "en": "Small businesses often have <b>advantages over</b> their larger competitors.",
+    "vi": "Doanh nghiệp nhỏ thường có <b>lợi thế hơn</b> đối thủ lớn."
+   }
+  },
+  {
+   "word": "expenditure",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪkˈspendɪtʃə(r)/",
+   "def_en": "The amount of money spent.",
+   "def_vi": "Chi tiêu.",
+   "gloss_vi": "chi tiêu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Expenditure</i> (noun) = chi tiêu. <b>Word family</b>: expend (v.).",
+   "example": {
+    "en": "The company is trying to reduce <b>expenditure</b> on transport.",
+    "vi": "Công ty đang cố giảm <b>chi tiêu</b> cho vận tải."
+   }
+  }
+ ]
+}
