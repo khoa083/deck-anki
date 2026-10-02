@@ -1,0 +1,360 @@
+{
+ "book": "upp",
+ "unit": 58,
+ "title_vi": "Chuyển động và tốc độ",
+ "theory_html": "<p><b>A. Particular types of movement</b><br><i>A. Các kiểu chuyển động</i></p> <p><b>Move</b> is the basic verb for all movement, but it also means ‘to move to a new house/flat’. Cars, lorries, etc. <b>travel/drive</b> along roads; trains <b>travel</b> along rails; boats/ships <b>sail</b> on rivers / across the sea; rivers/streams <b>flow/run</b> through towns. Things often have particular verbs associated with their types of movement: <b>swerve, drift, flutter, stir, sway</b>. Learn these as typical collocations.</p><p><i><b>Move</b> là động từ cơ bản, cũng có nghĩa chuyển nhà. Xe <b>chạy</b> trên đường, tàu hỏa <b>chạy</b> trên ray, thuyền <b>đi</b>, sông <b>chảy</b>. Nhiều vật có động từ riêng: <b>ngoặt, trôi, phấp phới, lay động, đung đưa</b>; học như kết hợp từ.</i></p> <p><b>B. Verbs to describe fast and slow movement</b><br><i>B. Động từ chỉ chuyển động nhanh và chậm</i></p> <p><b>crawl along, dawdle, tear along, shoot past, hurry/rush, creep along, plod, cruise</b>.</p><p><i><b>bò, la cà, lao vun vút, vụt qua, vội vã, bò chậm, lê bước, chạy đều</b>.</i></p> <p><b>C. Nouns to describe speed and their typical contexts</b><br><i>C. Danh từ chỉ tốc độ và ngữ cảnh</i></p> <p><b>speed</b> is a general word used for vehicles, developments, changes, etc.; <b>rate</b> is often used in statistical contexts; <b>pace</b> shows how you experience something as happening fast or slow; <b>velocity</b> is used in technical/scientific contexts.</p><p><i><b>speed</b>: chung (xe, phát triển); <b>rate</b>: thống kê; <b>pace</b>: nhịp độ cảm nhận; <b>velocity</b>: kỹ thuật/khoa học.</i></p> <p><b>CM. Common mistakes</b><br><i>CM. Lỗi thường gặp</i></p> <p>We say <b>at</b> a speed/rate/pace (NOT <b>in</b> or <b>with</b>): <b>The train was travelling at a speed of 120 kph.</b></p><p><i>Dùng <b>at a speed/rate/pace</b>, không dùng <b>in/with</b>.</i></p>",
+ "items": [
+  {
+   "word": "move",
+   "sense": "house",
+   "pos": "verb",
+   "ipa": "/muːv/",
+   "def_en": "To go to live in a new house or flat.",
+   "def_vi": "Chuyển đến nhà mới.",
+   "gloss_vi": "chuyển nhà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Move</i> (verb) = chuyển nhà. <b>Grammar</b>: <i>move (house)</i>; cũng là động từ cơ bản chỉ chuyển động.",
+   "example": {
+    "en": "We’ve <b>moved</b>. Do you want our new address?",
+    "vi": "Chúng tôi đã <b>chuyển nhà</b>. Bạn có muốn địa chỉ mới không?"
+   }
+  },
+  {
+   "word": "travel",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈtrævl/",
+   "def_en": "(Of vehicles) to move along a road or rail.",
+   "def_vi": "(Xe cộ) di chuyển trên đường hay ray.",
+   "gloss_vi": "chạy, di chuyển",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Travel</i> (verb) = chạy, di chuyển. <b>Grammar</b>: <i>travel along roads/rails</i>.",
+   "example": {
+    "en": "Trains <b>travel</b> along rails.",
+    "vi": "Tàu hỏa <b>chạy</b> trên đường ray."
+   }
+  },
+  {
+   "word": "sail",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/seɪl/",
+   "def_en": "(Of boats/ships) to travel on water.",
+   "def_vi": "(Thuyền, tàu) đi trên nước.",
+   "gloss_vi": "đi thuyền, chạy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sail</i> (verb) = đi thuyền, chạy. <b>Collocations / chunks</b>: <i>sail across the sea</i>.",
+   "example": {
+    "en": "Boats/ships <b>sail</b> on rivers / across the sea.",
+    "vi": "Tàu thuyền <b>đi</b> trên sông và qua biển."
+   }
+  },
+  {
+   "word": "flow",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/fləʊ/",
+   "def_en": "(Of a river or stream) to move continuously.",
+   "def_vi": "(Sông, suối) chảy liên tục.",
+   "gloss_vi": "chảy",
+   "synonyms": "run <i>(v. chảy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flow</i> (verb) = chảy. <b>Grammar</b>: cũng <i>run</i>.",
+   "example": {
+    "en": "Rivers/streams <b>flow</b> through towns/villages.",
+    "vi": "Sông suối <b>chảy</b> qua thị trấn và làng mạc."
+   }
+  },
+  {
+   "word": "swerve",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/swɜːv/",
+   "def_en": "To move suddenly to the side.",
+   "def_vi": "Đột ngột chuyển hướng sang bên.",
+   "gloss_vi": "ngoặt, đánh lái",
+   "synonyms": "veer <i>(v. ngoặt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Swerve</i> (verb) = ngoặt, đánh lái. <b>Grammar</b>: /swɜːv/.",
+   "example": {
+    "en": "The car <b>swerved</b> to avoid a dog which had run into the road.",
+    "vi": "Chiếc xe <b>ngoặt</b> để tránh một con chó chạy ra đường."
+   }
+  },
+  {
+   "word": "drift",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/drɪft/",
+   "def_en": "To move slowly.",
+   "def_vi": "Di chuyển chậm.",
+   "gloss_vi": "trôi",
+   "synonyms": "float <i>(v. trôi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Drift</i> (verb) = trôi. <b>Grammar</b>: thường không theo hướng nhất định.",
+   "example": {
+    "en": "White clouds <b>drifted</b> across the sky.",
+    "vi": "Mây trắng <b>trôi</b> ngang bầu trời."
+   }
+  },
+  {
+   "word": "flutter",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈflʌtə(r)/",
+   "def_en": "To move gently from side to side.",
+   "def_vi": "Chuyển động nhẹ qua lại.",
+   "gloss_vi": "phấp phới",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flutter</i> (verb) = phấp phới. <b>Collocations / chunks</b>: cờ, cánh bướm.",
+   "example": {
+    "en": "The flag <b>fluttered</b> in the wind.",
+    "vi": "Lá cờ <b>phấp phới</b> trong gió."
+   }
+  },
+  {
+   "word": "stir",
+   "sense": "move",
+   "pos": "verb",
+   "ipa": "/stɜː(r)/",
+   "def_en": "To move slightly.",
+   "def_vi": "Chuyển động nhẹ.",
+   "gloss_vi": "lay động, khẽ động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stir</i> (verb) = lay động, khẽ động. <b>Grammar</b>: /stɜː/; M: cũng = khuấy.",
+   "example": {
+    "en": "The leaves <b>stirred</b> in the light breeze.",
+    "vi": "Lá cây <b>khẽ lay động</b> trong làn gió nhẹ."
+   }
+  },
+  {
+   "word": "sway",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/sweɪ/",
+   "def_en": "To move slowly from side to side.",
+   "def_vi": "Chuyển động chậm qua lại.",
+   "gloss_vi": "đung đưa, nghiêng ngả",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sway</i> (verb) = đung đưa, nghiêng ngả. <b>Collocations / chunks</b>: <i>sway back and forth</i>.",
+   "example": {
+    "en": "The trees <b>swayed</b> back and forth as the wind grew stronger.",
+    "vi": "Cây cối <b>nghiêng ngả</b> khi gió mạnh dần."
+   }
+  },
+  {
+   "word": "crawl along",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkrɔːl əˈlɒŋ/",
+   "def_en": "To move very slowly.",
+   "def_vi": "Di chuyển rất chậm.",
+   "gloss_vi": "bò, nhích từng chút",
+   "synonyms": "creep along <i>(v. bò chậm)</i>",
+   "antonyms": "tear along <i>(v. lao vun vút)</i>",
+   "grammar_vi": "<i>Crawl along</i> (verb) = bò, nhích từng chút. <b>Collocations / chunks</b>: xe cộ.",
+   "example": {
+    "en": "The traffic was <b>crawling along</b> because of the roadworks.",
+    "vi": "Xe cộ <b>nhích từng chút</b> vì công trình sửa đường."
+   }
+  },
+  {
+   "word": "dawdle",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈdɔːdl/",
+   "def_en": "To move more slowly than is necessary.",
+   "def_vi": "Đi chậm hơn mức cần.",
+   "gloss_vi": "la cà, lề mề",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "hurry <i>(v. vội)</i>",
+   "grammar_vi": "<i>Dawdle</i> (verb) = la cà, lề mề. <b>Grammar</b>: /ˈdɔːdl/.",
+   "example": {
+    "en": "Stop <b>dawdling</b>! We’ll be late!",
+    "vi": "Đừng <b>lề mề</b> nữa! Chúng ta sẽ muộn đấy!"
+   }
+  },
+  {
+   "word": "tear along",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌteər əˈlɒŋ/",
+   "def_en": "To move very fast.",
+   "def_vi": "Di chuyển rất nhanh.",
+   "gloss_vi": "lao vun vút",
+   "synonyms": "race <i>(v. phóng)</i>",
+   "antonyms": "crawl along <i>(v. bò)</i>",
+   "grammar_vi": "<i>Tear along</i> (verb) = lao vun vút. <b>Grammar</b>: /teə/; bất quy tắc: tore, torn.",
+   "example": {
+    "en": "Suddenly a car came round the bend and <b>tore along</b> the road at high speed.",
+    "vi": "Đột nhiên một chiếc xe vòng qua khúc cua và <b>lao vun vút</b> trên đường."
+   }
+  },
+  {
+   "word": "shoot past",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌʃuːt ˈpɑːst/",
+   "def_en": "To move past very quickly.",
+   "def_vi": "Vụt qua rất nhanh.",
+   "gloss_vi": "vụt qua",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shoot past</i> (verb) = vụt qua. <b>Grammar</b>: bất quy tắc: shot.",
+   "example": {
+    "en": "Seconds later, a police car <b>shot past</b> after it.",
+    "vi": "Vài giây sau, một xe cảnh sát <b>vụt qua</b> đuổi theo."
+   }
+  },
+  {
+   "word": "hurry",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈhʌri/",
+   "def_en": "To move or do things quickly.",
+   "def_vi": "Di chuyển, làm việc nhanh.",
+   "gloss_vi": "vội vã",
+   "synonyms": "rush <i>(v. vội)</i>",
+   "antonyms": "dawdle <i>(v. lề mề)</i>",
+   "grammar_vi": "<i>Hurry</i> (verb) = vội vã. <b>Grammar</b>: <i>hurry up</i>.",
+   "example": {
+    "en": "Everyone was <b>hurrying</b> to get their shopping done before closing time.",
+    "vi": "Mọi người <b>vội vã</b> mua sắm cho xong trước giờ đóng cửa."
+   }
+  },
+  {
+   "word": "rush",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rʌʃ/",
+   "def_en": "To move or do things very quickly.",
+   "def_vi": "Di chuyển, làm việc rất nhanh.",
+   "gloss_vi": "hối hả",
+   "synonyms": "hurry <i>(v. vội vã)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rush</i> (verb) = hối hả. <b>Grammar</b>: <i>the rush hour</i>.",
+   "example": {
+    "en": "Everyone was <b>rushing</b> to get their shopping done before closing time.",
+    "vi": "Mọi người <b>hối hả</b> mua sắm cho xong trước giờ đóng cửa."
+   }
+  },
+  {
+   "word": "creep along",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkriːp əˈlɒŋ/",
+   "def_en": "To move very slowly.",
+   "def_vi": "Di chuyển rất chậm.",
+   "gloss_vi": "bò chậm",
+   "synonyms": "crawl along <i>(v. nhích)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Creep along</i> (verb) = bò chậm. <b>Grammar</b>: bất quy tắc: crept.",
+   "example": {
+    "en": "The train was just <b>creeping along</b> at about 20 miles per hour.",
+    "vi": "Đoàn tàu chỉ <b>bò chậm</b> khoảng 20 dặm/giờ."
+   }
+  },
+  {
+   "word": "plod",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/plɒd/",
+   "def_en": "To walk with heavy, often tired, movement.",
+   "def_vi": "Bước nặng nề, thường mệt mỏi.",
+   "gloss_vi": "lê bước",
+   "synonyms": "trudge <i>(v. lê bước)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Plod</i> (verb) = lê bước. <b>Grammar</b>: gợi chuyển động nặng nề, mệt.",
+   "example": {
+    "en": "The donkey was <b>plodding</b> along the road.",
+    "vi": "Con lừa <b>lê bước</b> trên đường."
+   }
+  },
+  {
+   "word": "cruise",
+   "sense": "speed",
+   "pos": "verb",
+   "ipa": "/kruːz/",
+   "def_en": "To travel at a steady speed.",
+   "def_vi": "Di chuyển ở tốc độ đều.",
+   "gloss_vi": "bay/chạy đều",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cruise</i> (verb) = bay/chạy đều. <b>Grammar</b>: <i>cruising speed</i>.",
+   "example": {
+    "en": "The plane was <b>cruising</b> at a height of 30,000 metres.",
+    "vi": "Máy bay đang <b>bay ổn định</b> ở độ cao 30.000 mét."
+   }
+  },
+  {
+   "word": "speed",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/spiːd/",
+   "def_en": "How fast something moves (general word).",
+   "def_vi": "Mức nhanh của chuyển động (từ chung).",
+   "gloss_vi": "tốc độ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Speed</i> (noun) = tốc độ. <b>Grammar</b>: dùng cho xe cộ, phát triển, thay đổi; <i>at a speed of</i>.",
+   "example": {
+    "en": "We were travelling at high <b>speed</b>.",
+    "vi": "Chúng tôi đang di chuyển ở <b>tốc độ</b> cao."
+   }
+  },
+  {
+   "word": "rate",
+   "sense": "speed",
+   "pos": "noun",
+   "ipa": "/reɪt/",
+   "def_en": "Speed or frequency, often in statistical contexts.",
+   "def_vi": "Tốc độ, tần suất, thường trong thống kê.",
+   "gloss_vi": "tỉ lệ, tốc độ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rate</i> (noun) = tỉ lệ, tốc độ. <b>Grammar</b>: <i>the rate of increase/decrease</i>; <i>at a rate of</i>.",
+   "example": {
+    "en": "The birth <b>rate</b> is going down.",
+    "vi": "<b>Tỉ lệ</b> sinh đang giảm."
+   }
+  },
+  {
+   "word": "pace",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/peɪs/",
+   "def_en": "How fast or slow you experience something happening.",
+   "def_vi": "Mức nhanh chậm mà bạn cảm nhận.",
+   "gloss_vi": "nhịp độ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pace</i> (noun) = nhịp độ. <b>Grammar</b>: <i>at a slow/fast pace</i>.",
+   "example": {
+    "en": "The lesson was going at a very slow <b>pace</b>.",
+    "vi": "Bài học diễn ra với <b>nhịp độ</b> rất chậm."
+   }
+  },
+  {
+   "word": "velocity",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/vəˈlɒsəti/",
+   "def_en": "Speed in technical or scientific contexts.",
+   "def_vi": "Tốc độ trong kỹ thuật, khoa học.",
+   "gloss_vi": "vận tốc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Velocity</i> (noun) = vận tốc. <b>Grammar</b>: /vəˈlɒsəti/; kỹ thuật/khoa học.",
+   "example": {
+    "en": "The <b>velocity</b> of a moving object.",
+    "vi": "<b>Vận tốc</b> của một vật chuyển động."
+   }
+  }
+ ]
+}

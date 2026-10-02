@@ -1,0 +1,451 @@
+{
+ "book": "upp",
+ "unit": 56,
+ "title_vi": "Âm thanh và ánh sáng",
+ "theory_html": "<p><b>A. General words to describe sound</b><br><i>A. Từ chung mô tả âm thanh</i></p> <p><b>sound</b> (neutral), <b>noise</b> [loud, unpleasant sounds], <b>racket</b> [very loud, unbearable noise, often of human activity; informal]. <b>Sound</b> and <b>noise</b> can both be countable or uncountable. When they are of short duration or refer to different sounds/noises, they are countable. When they mean a lot of continual or continuous sounds, they are uncountable.</p><p><i><b>sound</b> (trung tính), <b>noise</b> [ồn, khó chịu], <b>racket</b> [ồn ào không chịu nổi, thường do người; thân mật]. <b>Sound</b> và <b>noise</b> đếm được khi ngắn hoặc chỉ nhiều âm khác nhau; không đếm được khi là âm liên tục.</i></p> <p><b>B. Sound words and things that typically make them</b><br><i>B. Từ chỉ âm thanh và vật tạo ra chúng</i></p> <p>All the words in this section can be used as nouns or verbs: <b>patter, bang, chime, clang, clatter, crash, hiss, hum, rattle, ring, roar, rumble, rustle, screech, thud</b>.</p><p><i>Tất cả có thể là danh từ hoặc động từ: <b>lộp độp, rầm, ngân, leng keng, loảng xoảng, đổ ầm, xì, vo ve, lạch cạch, reng, gầm, ầm ì, sột soạt, rít, phịch</b>.</i></p> <p><b>C. Darkness</b><br><i>C. Bóng tối</i></p> <p>Adjectives for dark conditions: <b>gloomy, dim, sombre</b> [serious, imposing].</p><p><i>Tính từ chỉ tối: <b>u ám, lờ mờ, ảm đạm</b> [nghiêm, nặng nề].</i></p> <p><b>D. Types of light</b><br><i>D. Các loại ánh sáng</i></p> <p>Collocations: a torch gives out a <b>beam</b> of light; a camera gives a <b>flash</b> of light; a candle flame <b>flickers</b>; the sun <b>shines</b> and gives out <b>rays</b> of light; a diamond ring <b>sparkles</b>; stars <b>twinkle</b>; white-hot coal <b>glows</b>; a gold object <b>glitters</b>.</p><p><i>Kết hợp: <b>chùm</b> sáng đèn pin, <b>ánh chớp</b> máy ảnh, ngọn nến <b>lập lòe</b>, mặt trời <b>chiếu</b> và tỏa <b>tia</b> sáng, nhẫn kim cương <b>lấp lánh</b>, sao <b>nhấp nháy</b>, than <b>rực đỏ</b>, vàng <b>óng ánh</b>.</i></p> <p><b>LH. Language help</b><br><i>LH. Lưu ý ngôn ngữ</i></p> <p>Many of the words relating to darkness and light can be used about people’s expressions too. Light suggests happiness and darkness suggests unhappiness: <b>Kate’s face was glowing with pleasure. Dan looks very gloomy.</b></p><p><i>Nhiều từ về sáng/tối cũng dùng cho nét mặt: sáng gợi vui, tối gợi buồn.</i></p>",
+ "items": [
+  {
+   "word": "sound",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/saʊnd/",
+   "def_en": "Something you can hear (neutral).",
+   "def_vi": "Thứ có thể nghe thấy (trung tính).",
+   "gloss_vi": "âm thanh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "silence <i>(n. im lặng)</i>",
+   "grammar_vi": "<i>Sound</i> (noun) = âm thanh. <b>Grammar</b>: đếm được khi ngắn; không đếm được khi liên tục: <i>The sound of the sea…</i>.",
+   "example": {
+    "en": "I could hear the <b>sound</b> of voices coming from the next room.",
+    "vi": "Tôi nghe thấy <b>tiếng</b> nói chuyện từ phòng bên."
+   }
+  },
+  {
+   "word": "noise",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/nɔɪz/",
+   "def_en": "Loud, unpleasant sounds.",
+   "def_vi": "Âm thanh to, khó chịu.",
+   "gloss_vi": "tiếng ồn",
+   "synonyms": "din <i>(n. ồn ào)</i>",
+   "antonyms": "silence <i>(n. im lặng)</i>",
+   "grammar_vi": "<i>Noise</i> (noun) = tiếng ồn. <b>Grammar</b>: <i>make so much noise</i> (không đếm được); <i>some strange noises</i> (đếm được).",
+   "example": {
+    "en": "The <b>noise</b> of the traffic here is pretty bad.",
+    "vi": "<b>Tiếng ồn</b> xe cộ ở đây khá tệ."
+   }
+  },
+  {
+   "word": "racket",
+   "sense": "noise",
+   "pos": "noun",
+   "ipa": "/ˈrækɪt/",
+   "def_en": "Very loud, unbearable noise, often of human activity (informal).",
+   "def_vi": "Ồn ào không chịu nổi, thường do người (thân mật).",
+   "gloss_vi": "tiếng ồn ào",
+   "synonyms": "din <i>(n. ồn ào)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Racket</i> (noun) = tiếng ồn ào. <b>Grammar</b>: thân mật; <i>make a racket</i>.",
+   "example": {
+    "en": "The children are making a terrible <b>racket</b> upstairs.",
+    "vi": "Bọn trẻ đang làm <b>ầm ĩ</b> trên lầu."
+   }
+  },
+  {
+   "word": "patter",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈpætə(r)/",
+   "def_en": "To make quick, light tapping sounds.",
+   "def_vi": "Tạo tiếng gõ nhẹ nhanh.",
+   "gloss_vi": "lộp độp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Patter</i> (verb) = lộp độp. <b>Grammar</b>: cũng danh từ: <i>the patter of a little child’s feet</i>.",
+   "example": {
+    "en": "I could hear the rain <b>pattering</b> on the roof.",
+    "vi": "Tôi nghe tiếng mưa <b>lộp độp</b> trên mái."
+   }
+  },
+  {
+   "word": "bang",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bæŋ/",
+   "def_en": "A sudden loud noise, e.g. a door closing in the wind.",
+   "def_vi": "Tiếng động to đột ngột, như cửa đóng sập.",
+   "gloss_vi": "tiếng rầm, tiếng nổ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bang</i> (noun) = tiếng rầm, tiếng nổ. <b>Grammar</b>: cũng động từ; bóng bay nổ.",
+   "ex_kit": true,
+   "example": {
+    "en": "The door closed in the wind with a <b>bang</b>.",
+    "vi": "Cửa đóng sập trong gió với một <b>tiếng rầm</b>."
+   }
+  },
+  {
+   "word": "chime",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/tʃaɪm/",
+   "def_en": "(Of a big clock) to make a ringing sound to mark the hour.",
+   "def_vi": "(Đồng hồ lớn) ngân để báo giờ.",
+   "gloss_vi": "ngân, điểm chuông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chime</i> (verb) = ngân, điểm chuông. <b>Grammar</b>: cũng danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "The town hall clock <b>chimed</b> twelve.",
+    "vi": "Đồng hồ trên tòa thị chính <b>điểm</b> mười hai giờ."
+   }
+  },
+  {
+   "word": "clang",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/klæŋ/",
+   "def_en": "To make a loud ringing metal sound.",
+   "def_vi": "Tạo tiếng kim loại vang to.",
+   "gloss_vi": "leng keng, choang",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Clang</i> (verb) = leng keng, choang. <b>Grammar</b>: chuông lớn, vật kim loại rỗng bị đập.",
+   "ex_kit": true,
+   "example": {
+    "en": "The big bell <b>clanged</b>.",
+    "vi": "Chiếc chuông lớn <b>vang lên</b>."
+   }
+  },
+  {
+   "word": "clatter",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈklætə(r)/",
+   "def_en": "To make a loud noise of hard objects hitting each other.",
+   "def_vi": "Tạo tiếng vật cứng va nhau.",
+   "gloss_vi": "loảng xoảng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Clatter</i> (verb) = loảng xoảng. <b>Grammar</b>: chảo kim loại rơi xuống sàn bê tông.",
+   "ex_kit": true,
+   "example": {
+    "en": "The pan <b>clattered</b> onto the concrete floor.",
+    "vi": "Chiếc chảo <b>rơi loảng xoảng</b> xuống sàn bê tông."
+   }
+  },
+  {
+   "word": "hiss",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/hɪs/",
+   "def_en": "To make a long ‘s’ sound, like gas escaping.",
+   "def_vi": "Tạo tiếng ‘xì’ kéo dài như khí thoát.",
+   "gloss_vi": "xì, rít",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hiss</i> (verb) = xì, rít. <b>Grammar</b>: khí/hơi nước thoát qua lỗ nhỏ.",
+   "ex_kit": true,
+   "example": {
+    "en": "Steam <b>hissed</b> out through a small hole.",
+    "vi": "Hơi nước <b>xì</b> ra qua lỗ nhỏ."
+   }
+  },
+  {
+   "word": "hum",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/hʌm/",
+   "def_en": "To make a low continuous sound, like an electrical appliance.",
+   "def_vi": "Tạo tiếng trầm liên tục như máy điện.",
+   "gloss_vi": "kêu vo vo, ù ù",
+   "synonyms": "buzz <i>(v. vo ve)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hum</i> (verb) = kêu vo vo, ù ù. <b>Grammar</b>: máy tính, tủ đông khi bật; cũng = ngân nga.",
+   "ex_kit": true,
+   "example": {
+    "en": "The freezer <b>hums</b> when it’s switched on.",
+    "vi": "Tủ đông <b>kêu ù ù</b> khi bật."
+   }
+  },
+  {
+   "word": "rattle",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈrætl/",
+   "def_en": "To make short sharp knocking sounds, e.g. stones in a tin being shaken.",
+   "def_vi": "Tạo tiếng lạch cạch như đá trong hộp bị lắc.",
+   "gloss_vi": "kêu lạch cạch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rattle</i> (verb) = kêu lạch cạch. <b>Grammar</b>: cũng danh từ = cái lúc lắc.",
+   "ex_kit": true,
+   "example": {
+    "en": "The stones <b>rattled</b> in the tin.",
+    "vi": "Những viên sỏi <b>kêu lạch cạch</b> trong hộp thiếc."
+   }
+  },
+  {
+   "word": "ring",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rɪŋ/",
+   "def_en": "(Of a small bell or telephone) to make a clear sound.",
+   "def_vi": "(Chuông nhỏ, điện thoại) kêu.",
+   "gloss_vi": "reo, reng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ring</i> (verb) = reo, reng. <b>Grammar</b>: bất quy tắc: rang, rung.",
+   "ex_kit": true,
+   "example": {
+    "en": "The telephone <b>rang</b>.",
+    "vi": "Điện thoại <b>reo</b>."
+   }
+  },
+  {
+   "word": "rustle",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈrʌsl/",
+   "def_en": "To make a soft dry sound, like paper or dry leaves.",
+   "def_vi": "Tạo tiếng khô nhẹ như giấy hay lá khô.",
+   "gloss_vi": "sột soạt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rustle</i> (verb) = sột soạt. <b>Grammar</b>: /ˈrʌsl/; mở túi giấy/nhựa.",
+   "ex_kit": true,
+   "example": {
+    "en": "Dry leaves <b>rustled</b> underfoot.",
+    "vi": "Lá khô <b>kêu sột soạt</b> dưới chân."
+   }
+  },
+  {
+   "word": "screech",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/skriːtʃ/",
+   "def_en": "To make a loud high unpleasant sound, e.g. tyres when braking suddenly.",
+   "def_vi": "Tạo tiếng rít cao chói như lốp xe phanh gấp.",
+   "gloss_vi": "rít, kít",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Screech</i> (verb) = rít, kít. <b>Grammar</b>: lốp xe phanh gấp.",
+   "ex_kit": true,
+   "example": {
+    "en": "The tyres <b>screeched</b> when the driver braked suddenly.",
+    "vi": "Lốp xe <b>rít lên</b> khi tài xế phanh gấp."
+   }
+  },
+  {
+   "word": "thud",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/θʌd/",
+   "def_en": "A dull sound of a heavy object falling onto something soft.",
+   "def_vi": "Tiếng trầm đục của vật nặng rơi xuống chỗ mềm.",
+   "gloss_vi": "tiếng phịch",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Thud</i> (noun) = tiếng phịch. <b>Grammar</b>: cũng động từ; vật nặng rơi trên sàn trải thảm.",
+   "ex_kit": true,
+   "example": {
+    "en": "The book fell onto the carpet with a <b>thud</b>.",
+    "vi": "Cuốn sách rơi xuống thảm đánh <b>phịch</b>."
+   }
+  },
+  {
+   "word": "gloomy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈɡluːmi/",
+   "def_en": "Dark in a depressing way.",
+   "def_vi": "Tối một cách ảm đạm.",
+   "gloss_vi": "u ám, tối tăm",
+   "synonyms": "dark <i>(adj. tối)</i>",
+   "antonyms": "bright <i>(adj. sáng)</i>",
+   "grammar_vi": "<i>Gloomy</i> (adjective) = u ám, tối tăm. <b>Common mistakes</b>: cũng = buồn rầu (<i>Dan looks very gloomy</i>).",
+   "example": {
+    "en": "These brown walls are a bit <b>gloomy</b>. We should paint them white.",
+    "vi": "Những bức tường nâu này hơi <b>u ám</b>. Ta nên sơn trắng."
+   }
+  },
+  {
+   "word": "dim",
+   "sense": "light",
+   "pos": "adjective",
+   "ipa": "/dɪm/",
+   "def_en": "(Of light) not bright.",
+   "def_vi": "(Ánh sáng) không sáng.",
+   "gloss_vi": "lờ mờ, yếu",
+   "synonyms": "faint <i>(adj. mờ nhạt)</i>",
+   "antonyms": "bright <i>(adj. sáng)</i>",
+   "grammar_vi": "<i>Dim</i> (adjective) = lờ mờ, yếu. <b>Grammar</b>: <i>dim the lights</i> (v.).",
+   "example": {
+    "en": "This torch is getting a bit <b>dim</b>. I think it needs new batteries.",
+    "vi": "Đèn pin này đang hơi <b>yếu</b>. Tôi nghĩ cần pin mới."
+   }
+  },
+  {
+   "word": "sombre",
+   "sense": "room",
+   "pos": "adjective",
+   "ipa": "/ˈsɒmbə(r)/",
+   "def_en": "(Of a place) dark, serious and imposing.",
+   "def_vi": "(Nơi) tối, nghiêm, nặng nề.",
+   "gloss_vi": "ảm đạm",
+   "synonyms": "gloomy <i>(adj. u ám)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sombre</i> (adjective) = ảm đạm. <b>Grammar</b>: /ˈsɒmbə/.",
+   "example": {
+    "en": "It was a <b>sombre</b> room with dark, heavy curtains.",
+    "vi": "Đó là một căn phòng <b>ảm đạm</b> với rèm dày tối màu."
+   }
+  },
+  {
+   "word": "beam",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/biːm/",
+   "def_en": "A line of light, e.g. from a torch.",
+   "def_vi": "Luồng sáng, như từ đèn pin.",
+   "gloss_vi": "chùm sáng",
+   "synonyms": "ray <i>(n. tia)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Beam</i> (noun) = chùm sáng. <b>Collocations / chunks</b>: <i>a beam of light</i>.",
+   "example": {
+    "en": "A torch gives out a <b>beam</b> of light.",
+    "vi": "Đèn pin phát ra một <b>chùm</b> sáng."
+   }
+  },
+  {
+   "word": "flash",
+   "sense": "noun",
+   "pos": "noun",
+   "ipa": "/flæʃ/",
+   "def_en": "A sudden bright light that lasts a very short time.",
+   "def_vi": "Ánh sáng chói đột ngột rất ngắn.",
+   "gloss_vi": "ánh chớp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flash</i> (noun) = ánh chớp. <b>Collocations / chunks</b>: <i>a flash of light / lightning</i>.",
+   "example": {
+    "en": "A camera gives a <b>flash</b> of light.",
+    "vi": "Máy ảnh phát ra một <b>ánh chớp</b>."
+   }
+  },
+  {
+   "word": "flicker",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈflɪkə(r)/",
+   "def_en": "(Of a light or flame) to shine unsteadily.",
+   "def_vi": "(Ánh sáng, ngọn lửa) chập chờn.",
+   "gloss_vi": "lập lòe, chập chờn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flicker</i> (verb) = lập lòe, chập chờn. <b>Collocations / chunks</b>: ngọn nến.",
+   "example": {
+    "en": "A candle flame <b>flickers</b> in the breeze.",
+    "vi": "Ngọn nến <b>lập lòe</b> trong gió nhẹ."
+   }
+  },
+  {
+   "word": "shine",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ʃaɪn/",
+   "def_en": "To give out bright light.",
+   "def_vi": "Phát ánh sáng.",
+   "gloss_vi": "chiếu sáng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shine</i> (verb) = chiếu sáng. <b>Grammar</b>: bất quy tắc: shone.",
+   "example": {
+    "en": "The sun <b>shines</b> and gives out rays of light.",
+    "vi": "Mặt trời <b>chiếu sáng</b> và tỏa ra những tia sáng."
+   }
+  },
+  {
+   "word": "ray",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/reɪ/",
+   "def_en": "A narrow line of light, e.g. from the sun.",
+   "def_vi": "Tia sáng hẹp, như từ mặt trời.",
+   "gloss_vi": "tia sáng",
+   "synonyms": "beam <i>(n. chùm sáng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ray</i> (noun) = tia sáng. <b>Collocations / chunks</b>: <i>rays of light</i>.",
+   "example": {
+    "en": "The sun shines and gives out <b>rays</b> of light.",
+    "vi": "Mặt trời chiếu sáng và tỏa ra những <b>tia</b> sáng."
+   }
+  },
+  {
+   "word": "sparkle",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈspɑːkl/",
+   "def_en": "To shine with small bright flashes.",
+   "def_vi": "Lóe sáng với những tia nhỏ.",
+   "gloss_vi": "lấp lánh",
+   "synonyms": "glitter <i>(v. óng ánh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sparkle</i> (verb) = lấp lánh. <b>Collocations / chunks</b>: kim cương.",
+   "example": {
+    "en": "A diamond ring <b>sparkles</b>.",
+    "vi": "Chiếc nhẫn kim cương <b>lấp lánh</b>."
+   }
+  },
+  {
+   "word": "twinkle",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈtwɪŋkl/",
+   "def_en": "(Of stars) to shine with a light that changes from bright to faint.",
+   "def_vi": "(Sao) sáng mờ xen kẽ.",
+   "gloss_vi": "nhấp nháy",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Twinkle</i> (verb) = nhấp nháy. <b>Collocations / chunks</b>: ngôi sao.",
+   "example": {
+    "en": "Stars <b>twinkle</b>.",
+    "vi": "Các ngôi sao <b>nhấp nháy</b>."
+   }
+  },
+  {
+   "word": "glow",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɡləʊ/",
+   "def_en": "To give out a steady light without flames.",
+   "def_vi": "Tỏa sáng đều, không có lửa.",
+   "gloss_vi": "rực đỏ, ửng sáng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Glow</i> (verb) = rực đỏ, ửng sáng. <b>Common mistakes</b>: cũng = rạng rỡ (<i>glowing with pleasure</i>).",
+   "example": {
+    "en": "White-hot coal on a fire <b>glows</b>.",
+    "vi": "Than nóng trắng trong lò <b>rực sáng</b>."
+   }
+  },
+  {
+   "word": "glitter",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈɡlɪtə(r)/",
+   "def_en": "To shine with many small flashes of light.",
+   "def_vi": "Lấp lánh nhiều tia sáng nhỏ.",
+   "gloss_vi": "óng ánh",
+   "synonyms": "sparkle <i>(v. lấp lánh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Glitter</i> (verb) = óng ánh. <b>Collocations / chunks</b>: vàng.",
+   "example": {
+    "en": "A gold object <b>glitters</b>.",
+    "vi": "Một vật bằng vàng <b>óng ánh</b>."
+   }
+  }
+ ]
+}

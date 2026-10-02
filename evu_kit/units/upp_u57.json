@@ -1,0 +1,440 @@
+{
+ "book": "upp",
+ "unit": 57,
+ "title_vi": "Sở hữu và cho tặng",
+ "theory_html": "<p><b>A. Possession</b><br><i>A. Sở hữu</i></p> <p><b>possessions</b> [everything someone owns], <b>belongings</b> [smaller things, e.g. bag, camera, coat; always plural]. <b>Estate</b> in the singular can mean a big area of private land and the buildings on it, or all of someone’s wealth upon death; <b>housing estate</b> [area containing a large number of houses built close together at the same time]. <b>Property</b> (uncountable) is used in a general sense for houses, land, etc. <b>A property</b> (countable) is a building or land.</p><p><i><b>possessions</b> [mọi thứ sở hữu], <b>belongings</b> [đồ đạc nhỏ; luôn số nhiều]. <b>Estate</b>: điền trang, hoặc toàn bộ tài sản khi chết; <b>housing estate</b>: khu nhà ở. <b>Property</b> (không đếm được): bất động sản nói chung; <b>a property</b> (đếm được): một tòa nhà hay mảnh đất.</i></p> <p><b>B. Words for people connected with ownership</b><br><i>B. Từ chỉ người liên quan đến sở hữu</i></p> <p><b>proprietor</b> (used for shops, businesses, etc.; formal; <b>owner</b> is less formal), <b>landlord/landlady</b> [owner of rented property], <b>tenant</b>, <b>inherit</b> [become the owner after someone’s death].</p><p><i><b>chủ</b> (trang trọng), <b>chủ nhà cho thuê</b>, <b>người thuê</b>, <b>thừa kế</b>.</i></p> <p><b>C. Giving</b><br><i>C. Cho tặng</i></p> <p><b>contribute/donate, provide sb with sth / provide sth for sb, supply</b> (often for ‘selling’ contexts), <b>present sb with, support, cater for</b> [look after the needs of], <b>leave</b> (in a will), <b>donate</b> (for large gifts to institutions), <b>sponsor</b> [give money if someone completes a race], <b>allocate</b>.</p><p><i><b>đóng góp/quyên góp, cung cấp, cung ứng</b> (thường bán), <b>trao tặng, chu cấp, phục vụ, để lại, hiến tặng, tài trợ, phân bổ</b>.</i></p> <p><b>D. Phrasal verbs connected with giving</b><br><i>D. Cụm động từ về cho tặng</i></p> <p><b>hand over, let go of, hand out / give out</b> [distribute], <b>give away</b> [give free to someone], <b>hand down</b>.</p><p><i><b>bàn giao, buông bỏ, phát, cho không, truyền lại</b>.</i></p>",
+ "items": [
+  {
+   "word": "possessions",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pəˈzeʃnz/",
+   "def_en": "Everything someone owns.",
+   "def_vi": "Mọi thứ một người sở hữu.",
+   "gloss_vi": "tài sản, của cải",
+   "synonyms": "belongings <i>(n. đồ đạc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Possessions</i> (noun) = tài sản, của cải. <b>Grammar</b>: thường số nhiều.",
+   "example": {
+    "en": "All his <b>possessions</b> were destroyed in the terrible fire.",
+    "vi": "Mọi <b>tài sản</b> của anh ấy bị thiêu rụi trong vụ cháy khủng khiếp."
+   }
+  },
+  {
+   "word": "belongings",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bɪˈlɒŋɪŋz/",
+   "def_en": "Smaller things you own, e.g. bag, camera, coat.",
+   "def_vi": "Đồ đạc nhỏ như túi, máy ảnh, áo khoác.",
+   "gloss_vi": "đồ đạc tư trang",
+   "synonyms": "possessions <i>(n. tài sản)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Belongings</i> (noun) = đồ đạc tư trang. <b>Grammar</b>: luôn số nhiều.",
+   "example": {
+    "en": "Don’t leave any of your <b>belongings</b> here; we’ve had a few thefts recently.",
+    "vi": "Đừng để <b>đồ đạc</b> ở đây; gần đây có vài vụ trộm."
+   }
+  },
+  {
+   "word": "estate",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪˈsteɪt/",
+   "def_en": "A big area of private land and the buildings on it.",
+   "def_vi": "Vùng đất tư rộng cùng các công trình.",
+   "gloss_vi": "điền trang",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Estate</i> (noun) = điền trang. <b>Grammar</b>: số ít; cũng = khu nhà ở (<i>an estate</i>).",
+   "example": {
+    "en": "She owns a huge <b>estate</b> in Scotland.",
+    "vi": "Bà ấy sở hữu một <b>điền trang</b> rộng lớn ở Scotland."
+   }
+  },
+  {
+   "word": "estate",
+   "sense": "wealth",
+   "pos": "noun",
+   "ipa": "/ɪˈsteɪt/",
+   "def_en": "All of someone’s wealth upon death.",
+   "def_vi": "Toàn bộ tài sản của một người khi chết.",
+   "gloss_vi": "di sản",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Estate</i> (noun) = di sản. <b>Grammar</b>: số ít trong nghĩa này.",
+   "example": {
+    "en": "After his death, his <b>estate</b> was calculated at 10 million euros.",
+    "vi": "Sau khi ông mất, <b>di sản</b> được tính là 10 triệu euro."
+   }
+  },
+  {
+   "word": "property",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈprɒpəti/",
+   "def_en": "Houses, land, etc. in general (uncountable).",
+   "def_vi": "Nhà, đất nói chung (không đếm được).",
+   "gloss_vi": "bất động sản",
+   "synonyms": "real estate <i>(n. bất động sản)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Property</i> (noun) = bất động sản. <b>Grammar</b>: không đếm được trong nghĩa chung.",
+   "example": {
+    "en": "He’s only 14; he’s too young to own <b>property</b>.",
+    "vi": "Cậu ấy mới 14; quá nhỏ để sở hữu <b>bất động sản</b>."
+   }
+  },
+  {
+   "word": "property",
+   "sense": "building",
+   "pos": "noun",
+   "ipa": "/ˈprɒpəti/",
+   "def_en": "A building or piece of land (countable).",
+   "def_vi": "Một tòa nhà hay mảnh đất (đếm được).",
+   "gloss_vi": "khu nhà đất",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Property</i> (noun) = khu nhà đất. <b>Grammar</b>: đếm được: <i>a property, properties</i>.",
+   "example": {
+    "en": "She owns some valuable <b>properties</b> in the town centre.",
+    "vi": "Bà ấy sở hữu vài <b>khu nhà</b> giá trị ở trung tâm thị trấn."
+   }
+  },
+  {
+   "word": "proprietor",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/prəˈpraɪətə(r)/",
+   "def_en": "The owner of a shop, business, etc. (formal).",
+   "def_vi": "Chủ cửa hàng, doanh nghiệp (trang trọng).",
+   "gloss_vi": "chủ sở hữu",
+   "synonyms": "owner <i>(n. chủ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Proprietor</i> (noun) = chủ sở hữu. <b>Grammar</b>: /prəˈpraɪətə/; trang trọng hơn <i>owner</i>.",
+   "example": {
+    "en": "The <b>proprietor</b> of this restaurant is a friend of mine.",
+    "vi": "<b>Chủ</b> nhà hàng này là bạn tôi."
+   }
+  },
+  {
+   "word": "landlord",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlændlɔːd/",
+   "def_en": "A man who owns rented property.",
+   "def_vi": "Người đàn ông cho thuê nhà.",
+   "gloss_vi": "chủ nhà (nam)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "tenant <i>(n. người thuê)</i>",
+   "grammar_vi": "<i>Landlord</i> (noun) = chủ nhà (nam). <b>Grammar</b>: nữ: <i>landlady</i>.",
+   "example": {
+    "en": "The <b>landlord</b> has put the rent up.",
+    "vi": "<b>Chủ nhà</b> đã tăng tiền thuê."
+   }
+  },
+  {
+   "word": "landlady",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈlændleɪdi/",
+   "def_en": "A woman who owns rented property.",
+   "def_vi": "Người phụ nữ cho thuê nhà.",
+   "gloss_vi": "bà chủ nhà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "tenant <i>(n. người thuê)</i>",
+   "grammar_vi": "<i>Landlady</i> (noun) = bà chủ nhà. <b>Grammar</b>: nam: <i>landlord</i>.",
+   "example": {
+    "en": "The <b>landlady</b> has put the rent up.",
+    "vi": "<b>Bà chủ nhà</b> đã tăng tiền thuê."
+   }
+  },
+  {
+   "word": "tenant",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtenənt/",
+   "def_en": "Someone who rents property from its owner.",
+   "def_vi": "Người thuê nhà của chủ.",
+   "gloss_vi": "người thuê",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "landlord <i>(n. chủ nhà)</i>",
+   "grammar_vi": "<i>Tenant</i> (noun) = người thuê. <b>Grammar</b>: <i>tenancy</i> (n.).",
+   "example": {
+    "en": "No, we’re just <b>tenants</b>.",
+    "vi": "Không, chúng tôi chỉ là <b>người thuê</b> thôi."
+   }
+  },
+  {
+   "word": "inherit",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪnˈherɪt/",
+   "def_en": "To become the owner of something after someone’s death.",
+   "def_vi": "Trở thành chủ sau khi ai đó chết.",
+   "gloss_vi": "thừa kế",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Inherit</i> (verb) = thừa kế. <b>Grammar</b>: <i>inheritance</i> (n.).",
+   "example": {
+    "en": "He <b>inherited</b> a big house in the country when his parents died.",
+    "vi": "Anh ấy <b>thừa kế</b> một ngôi nhà lớn ở quê khi bố mẹ mất."
+   }
+  },
+  {
+   "word": "contribute",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kənˈtrɪbjuːt/",
+   "def_en": "To give something to help a cause.",
+   "def_vi": "Cho để giúp một mục đích.",
+   "gloss_vi": "đóng góp",
+   "synonyms": "donate <i>(v. quyên góp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Contribute</i> (verb) = đóng góp. <b>Grammar</b>: <i>contribute sth to sth</i>.",
+   "example": {
+    "en": "Would you like to <b>contribute</b> something to the children’s hospital fund?",
+    "vi": "Bạn có muốn <b>đóng góp</b> gì cho quỹ bệnh viện nhi không?"
+   }
+  },
+  {
+   "word": "donate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dəʊˈneɪt/",
+   "def_en": "To give something, often a large gift to an institution.",
+   "def_vi": "Cho, thường món quà lớn cho tổ chức.",
+   "gloss_vi": "hiến tặng, quyên góp",
+   "synonyms": "contribute <i>(v. đóng góp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Donate</i> (verb) = hiến tặng, quyên góp. <b>Grammar</b>: thường quà lớn cho tổ chức; <i>donation</i> (n.).",
+   "example": {
+    "en": "When she died she <b>donated</b> all her books to the library.",
+    "vi": "Khi mất, bà ấy <b>hiến tặng</b> toàn bộ sách cho thư viện."
+   }
+  },
+  {
+   "word": "provide",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/prəˈvaɪd/",
+   "def_en": "To give someone something they need.",
+   "def_vi": "Cho ai thứ họ cần.",
+   "gloss_vi": "cung cấp",
+   "synonyms": "supply <i>(v. cung ứng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Provide</i> (verb) = cung cấp. <b>Grammar</b>: <i>provide sb with sth / provide sth for sb</i>.",
+   "example": {
+    "en": "The river <b>provides</b> the village with water.",
+    "vi": "Con sông <b>cung cấp</b> nước cho ngôi làng."
+   }
+  },
+  {
+   "word": "supply",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/səˈplaɪ/",
+   "def_en": "To provide something, often in selling contexts.",
+   "def_vi": "Cung cấp, thường trong ngữ cảnh bán hàng.",
+   "gloss_vi": "cung ứng",
+   "synonyms": "provide <i>(v. cung cấp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Supply</i> (verb) = cung ứng. <b>Grammar</b>: <i>supply sb with sth</i>; thường ngữ cảnh bán.",
+   "example": {
+    "en": "Jakes Ltd <b>supplies</b> our school with paper and other items.",
+    "vi": "Công ty Jakes <b>cung ứng</b> giấy và vật dụng khác cho trường chúng tôi."
+   }
+  },
+  {
+   "word": "present",
+   "sense": "give",
+   "pos": "verb",
+   "ipa": "/prɪˈzent/",
+   "def_en": "To give something formally.",
+   "def_vi": "Trao tặng trang trọng.",
+   "gloss_vi": "trao tặng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Present</i> (verb) = trao tặng. <b>Grammar</b>: <i>present sb with sth</i>; động từ /prɪˈzent/.",
+   "example": {
+    "en": "It gives me pleasure to <b>present</b> you with this gift from us all.",
+    "vi": "Tôi rất vui được <b>trao tặng</b> bạn món quà này từ tất cả chúng tôi."
+   }
+  },
+  {
+   "word": "support",
+   "sense": "money",
+   "pos": "verb",
+   "ipa": "/səˈpɔːt/",
+   "def_en": "To provide money for someone to live.",
+   "def_vi": "Chu cấp tiền cho ai sống.",
+   "gloss_vi": "chu cấp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Support</i> (verb) = chu cấp. <b>Grammar</b>: <i>support sb financially</i>.",
+   "example": {
+    "en": "His parents <b>supported</b> him while he was at college but now he’s independent.",
+    "vi": "Bố mẹ <b>chu cấp</b> cho anh ấy khi học đại học."
+   }
+  },
+  {
+   "word": "cater for",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈkeɪtə fɔː(r)/",
+   "def_en": "To look after the needs of.",
+   "def_vi": "Lo nhu cầu của.",
+   "gloss_vi": "phục vụ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cater for</i> (verb) = phục vụ. <b>Grammar</b>: Mỹ <i>cater to</i>; <i>catering</i> (n.).",
+   "example": {
+    "en": "The school restaurant <b>caters for</b> 500 people every day.",
+    "vi": "Nhà ăn trường <b>phục vụ</b> 500 người mỗi ngày."
+   }
+  },
+  {
+   "word": "leave",
+   "sense": "will",
+   "pos": "verb",
+   "ipa": "/liːv/",
+   "def_en": "To give something to someone after you die.",
+   "def_vi": "Để lại cho ai sau khi chết.",
+   "gloss_vi": "để lại",
+   "synonyms": "bequeath <i>(v. để lại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Leave</i> (verb) = để lại. <b>Grammar</b>: <i>leave sth to sb</i>.",
+   "example": {
+    "en": "That uncle of mine that died <b>left</b> £3,000 to an animal shelter.",
+    "vi": "Ông chú đã mất của tôi <b>để lại</b> £3.000 cho một trại động vật."
+   }
+  },
+  {
+   "word": "sponsor",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈspɒnsə(r)/",
+   "def_en": "To give money to someone if they complete a race for charity.",
+   "def_vi": "Cho tiền nếu ai hoàn thành cuộc đua từ thiện.",
+   "gloss_vi": "tài trợ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sponsor</i> (verb) = tài trợ. <b>Grammar</b>: cũng danh từ <i>sponsor</i>; <i>sponsorship</i>.",
+   "example": {
+    "en": "Will you <b>sponsor</b> me?",
+    "vi": "Bạn có <b>tài trợ</b> cho tôi không?"
+   }
+  },
+  {
+   "word": "allocate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈæləkeɪt/",
+   "def_en": "To give something officially for a particular purpose.",
+   "def_vi": "Chính thức giao cho mục đích nào.",
+   "gloss_vi": "phân, cấp",
+   "synonyms": "assign <i>(v. phân công)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Allocate</i> (verb) = phân, cấp. <b>Grammar</b>: <i>allocation</i> (n.).",
+   "example": {
+    "en": "You’ve been <b>allocated</b> room 24.",
+    "vi": "Bạn được <b>phân</b> phòng 24."
+   }
+  },
+  {
+   "word": "hand over",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌhænd ˈəʊvə(r)/",
+   "def_en": "To give something to someone else, e.g. responsibility.",
+   "def_vi": "Giao cho người khác.",
+   "gloss_vi": "bàn giao",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hand over</i> (verb) = bàn giao. <b>Grammar</b>: <i>hand sth over to sb</i>.",
+   "example": {
+    "en": "When I left the job I had to <b>hand over</b> the keys to my office to the new person.",
+    "vi": "Khi nghỉ việc tôi phải <b>bàn giao</b> chìa khóa văn phòng cho người mới."
+   }
+  },
+  {
+   "word": "let go of",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌlet ˈɡəʊ əv/",
+   "def_en": "To stop holding or owning something.",
+   "def_vi": "Thôi giữ hay sở hữu.",
+   "gloss_vi": "buông bỏ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Let go of</i> (verb) = buông bỏ. <b>Grammar</b>: <i>let go of sth</i>.",
+   "example": {
+    "en": "I didn’t really want to <b>let go of</b> my bike but I had no money so I had to sell it.",
+    "vi": "Tôi không muốn <b>buông bỏ</b> chiếc xe đạp nhưng không có tiền nên phải bán."
+   }
+  },
+  {
+   "word": "hand out",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌhænd ˈaʊt/",
+   "def_en": "To distribute.",
+   "def_vi": "Phân phát.",
+   "gloss_vi": "phát",
+   "synonyms": "give out <i>(v. phát)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hand out</i> (verb) = phát. <b>Grammar</b>: <i>handout</i> (n.).",
+   "example": {
+    "en": "The people from the charity <b>handed out</b> stickers for everyone to wear.",
+    "vi": "Người của tổ chức từ thiện <b>phát</b> nhãn dán cho mọi người đeo."
+   }
+  },
+  {
+   "word": "give out",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡɪv ˈaʊt/",
+   "def_en": "To distribute.",
+   "def_vi": "Phân phát.",
+   "gloss_vi": "phát",
+   "synonyms": "hand out <i>(v. phát)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Give out</i> (verb) = phát. <b>Grammar</b>: = <i>hand out</i>.",
+   "example": {
+    "en": "The people from the charity <b>gave out</b> stickers for everyone to wear.",
+    "vi": "Người của tổ chức từ thiện <b>phát</b> nhãn dán cho mọi người đeo."
+   }
+  },
+  {
+   "word": "give away",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡɪv əˈweɪ/",
+   "def_en": "To give something free to someone.",
+   "def_vi": "Cho ai miễn phí.",
+   "gloss_vi": "cho không",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Give away</i> (verb) = cho không. <b>Grammar</b>: <i>give sth away</i>; <i>giveaway</i> (n.).",
+   "example": {
+    "en": "I had a banjo once, but I <b>gave it away</b>.",
+    "vi": "Tôi từng có một cây banjo nhưng đã <b>cho đi</b>."
+   }
+  },
+  {
+   "word": "hand down",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌhænd ˈdaʊn/",
+   "def_en": "To pass something from older to younger generations.",
+   "def_vi": "Truyền từ thế hệ trước cho thế hệ sau.",
+   "gloss_vi": "truyền lại",
+   "synonyms": "pass down <i>(v. truyền lại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hand down</i> (verb) = truyền lại. <b>Grammar</b>: thường bị động.",
+   "example": {
+    "en": "This vase has been <b>handed down</b> from generation to generation in my family.",
+    "vi": "Chiếc bình này được <b>truyền lại</b> qua nhiều thế hệ trong gia đình tôi."
+   }
+  }
+ ]
+}
