@@ -1,0 +1,506 @@
+{
+ "book": "upp",
+ "unit": 54,
+ "title_vi": "Khoảng cách và kích thước",
+ "theory_html": "<p><b>A. Broad and wide and tall and high</b><br><i>A. Broad, wide, tall và high</i></p> <p><b>Wide</b> is more common than <b>broad</b>. Make a note of typical collocations for <b>broad</b> as you meet them, e.g. <b>a broad subject, a broad expanse of grassland</b>. Note the word order for dimensions: <b>The room’s five metres long and four wide</b>. <b>Tall</b> is for people but can be used for things such as buildings and trees when they are high and thin in some way. Otherwise, use <b>high</b> for things.</p><p><i><b>Wide</b> phổ biến hơn <b>broad</b>; ghi lại các kết hợp của <b>broad</b>. Trật tự kích thước: <b>five metres long and four wide</b>. <b>Tall</b> dùng cho người, và cho vật cao và mảnh (tòa nhà, cây); còn lại dùng <b>high</b>.</i></p> <p><b>B. Deep ≠ shallow</b><br><i>B. Sâu ≠ nông</i></p> <p><b>The deep and shallow ends of a swimming pool.</b></p><p><i>Đầu sâu và đầu nông của bể bơi.</i></p> <p><b>C. Derived words, phrases and compounds</b><br><i>C. Từ phái sinh, cụm và từ ghép</i></p> <p>long: <b>length, lengthen, lengthy, long-distance</b>; short: <b>shorten, shortcut</b>; wide: <b>width, widen</b>; broad: <b>broaden, broad-minded, breadth</b>; high: <b>height, heighten</b>; low: <b>lower</b>; far: <b>faraway</b>; distant: <b>distance</b>; deep: <b>depth, deepen</b>.</p><p><i>Các từ phái sinh: chiều dài, kéo dài, dài dòng, đường dài; rút ngắn, đường tắt; chiều rộng, mở rộng; mở mang, cởi mở, bề rộng; chiều cao, tăng cường; hạ thấp; xa xôi; khoảng cách; độ sâu, làm sâu sắc.</i></p> <p><b>D. Other verbs for dimensions and for changing them</b><br><i>D. Động từ khác về kích thước và thay đổi kích thước</i></p> <p><b>stretch, extend, spread, shrink, expand</b> (opp = <b>contract</b>).</p><p><i><b>trải dài, mở rộng, lan rộng, co lại, mở rộng</b> (trái nghĩa <b>thu hẹp</b>).</i></p>",
+ "items": [
+  {
+   "word": "wide",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/waɪd/",
+   "def_en": "Measuring a large distance from side to side.",
+   "def_vi": "Rộng từ bên này sang bên kia.",
+   "gloss_vi": "rộng",
+   "synonyms": "broad <i>(adj. rộng)</i>",
+   "antonyms": "narrow <i>(adj. hẹp)</i>",
+   "grammar_vi": "<i>Wide</i> (adjective) = rộng. <b>Grammar</b>: phổ biến hơn <i>broad</i>.",
+   "example": {
+    "en": "It’s a very <b>wide</b> road.",
+    "vi": "Đó là con đường rất <b>rộng</b>."
+   }
+  },
+  {
+   "word": "broad",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/brɔːd/",
+   "def_en": "Wide; covering many things.",
+   "def_vi": "Rộng; bao quát nhiều thứ.",
+   "gloss_vi": "rộng, bao quát",
+   "synonyms": "wide <i>(adj. rộng)</i>",
+   "antonyms": "narrow <i>(adj. hẹp)</i>",
+   "grammar_vi": "<i>Broad</i> (adjective) = rộng, bao quát. <b>Collocations / chunks</b>: <i>a broad expanse of grassland</i>.",
+   "example": {
+    "en": "Economics is a very <b>broad</b> subject.",
+    "vi": "Kinh tế học là môn rất <b>rộng</b>."
+   }
+  },
+  {
+   "word": "long",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/lɒŋ/",
+   "def_en": "Measuring a particular distance from end to end.",
+   "def_vi": "Có chiều dài nhất định.",
+   "gloss_vi": "dài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "short <i>(adj. ngắn)</i>",
+   "grammar_vi": "<i>Long</i> (adjective) = dài. <b>Grammar</b>: trật tự: số + đơn vị + <i>long/wide</i>.",
+   "example": {
+    "en": "The room’s five metres <b>long</b> and four wide.",
+    "vi": "Căn phòng <b>dài</b> năm mét và rộng bốn mét."
+   }
+  },
+  {
+   "word": "tall",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/tɔːl/",
+   "def_en": "(Of people, or high thin things) of more than average height.",
+   "def_vi": "(Người hoặc vật cao mảnh) cao hơn bình thường.",
+   "gloss_vi": "cao",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "short <i>(adj. thấp)</i>",
+   "grammar_vi": "<i>Tall</i> (adjective) = cao. <b>Grammar</b>: dùng cho người; cho tòa nhà, cây khi cao và mảnh.",
+   "example": {
+    "en": "She’s very <b>tall</b> for a five-year-old.",
+    "vi": "Cô bé rất <b>cao</b> so với một đứa trẻ năm tuổi."
+   }
+  },
+  {
+   "word": "high",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/haɪ/",
+   "def_en": "(Of things) a long way from the bottom to the top.",
+   "def_vi": "(Vật) cao từ chân đến đỉnh.",
+   "gloss_vi": "cao",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "low <i>(adj. thấp)</i>",
+   "grammar_vi": "<i>High</i> (adjective) = cao. <b>Grammar</b>: dùng cho vật; <i>tall</i> cho người.",
+   "example": {
+    "en": "There are some <b>high</b> mountains in the North.",
+    "vi": "Có vài ngọn núi <b>cao</b> ở phía Bắc."
+   }
+  },
+  {
+   "word": "deep",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/diːp/",
+   "def_en": "Going a long way down from the top.",
+   "def_vi": "Kéo dài xa xuống dưới.",
+   "gloss_vi": "sâu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "shallow <i>(adj. nông)</i>",
+   "grammar_vi": "<i>Deep</i> (adjective) = sâu. <b>Grammar</b>: danh từ <i>depth</i>.",
+   "example": {
+    "en": "The <b>deep</b> and shallow ends of a swimming pool.",
+    "vi": "Đầu <b>sâu</b> và đầu nông của bể bơi."
+   }
+  },
+  {
+   "word": "shallow",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈʃæləʊ/",
+   "def_en": "Not deep.",
+   "def_vi": "Không sâu.",
+   "gloss_vi": "nông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "deep <i>(adj. sâu)</i>",
+   "grammar_vi": "<i>Shallow</i> (adjective) = nông. <b>Common mistakes</b>: cũng = nông cạn (người).",
+   "example": {
+    "en": "The deep and <b>shallow</b> ends of a swimming pool.",
+    "vi": "Đầu sâu và đầu <b>nông</b> của bể bơi."
+   }
+  },
+  {
+   "word": "length",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/leŋθ/",
+   "def_en": "The measurement of something from end to end.",
+   "def_vi": "Số đo từ đầu này đến đầu kia.",
+   "gloss_vi": "chiều dài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Length</i> (noun) = chiều dài. <b>Grammar</b>: /leŋθ/.",
+   "example": {
+    "en": "Let’s measure the <b>length</b> of this rope.",
+    "vi": "Hãy đo <b>chiều dài</b> sợi dây này."
+   }
+  },
+  {
+   "word": "length",
+   "sense": "pool",
+   "pos": "noun",
+   "ipa": "/leŋθ/",
+   "def_en": "The distance from one end of a swimming pool to the other.",
+   "def_vi": "Khoảng cách từ đầu này đến đầu kia bể bơi.",
+   "gloss_vi": "vòng bể",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Length</i> (noun) = vòng bể. <b>Grammar</b>: đếm được trong nghĩa này.",
+   "example": {
+    "en": "I swam 20 <b>lengths</b> (of the swimming pool).",
+    "vi": "Tôi bơi 20 <b>vòng bể</b>."
+   }
+  },
+  {
+   "word": "lengthen",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈleŋθən/",
+   "def_en": "To make something longer.",
+   "def_vi": "Làm dài ra.",
+   "gloss_vi": "nới dài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "shorten <i>(v. rút ngắn)</i>",
+   "grammar_vi": "<i>Lengthen</i> (verb) = nới dài. <b>Grammar</b>: hậu tố <i>-en</i> tạo động từ.",
+   "example": {
+    "en": "I’ve <b>lengthened</b> her skirt for her.",
+    "vi": "Tôi đã <b>nới dài</b> váy cho cô ấy."
+   }
+  },
+  {
+   "word": "lengthy",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈleŋθi/",
+   "def_en": "Lasting a long time (rather negative).",
+   "def_vi": "Kéo dài lâu (khá tiêu cực).",
+   "gloss_vi": "dài dòng, lâu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "brief <i>(adj. ngắn gọn)</i>",
+   "grammar_vi": "<i>Lengthy</i> (adjective) = dài dòng, lâu. <b>Grammar</b>: thường chỉ thời gian; khá tiêu cực.",
+   "example": {
+    "en": "Getting a visa can be a <b>lengthy</b> process.",
+    "vi": "Xin visa có thể là một quá trình <b>dài dòng</b>."
+   }
+  },
+  {
+   "word": "shorten",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈʃɔːtn/",
+   "def_en": "To make something shorter.",
+   "def_vi": "Làm ngắn lại.",
+   "gloss_vi": "rút ngắn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "lengthen <i>(v. kéo dài)</i>",
+   "grammar_vi": "<i>Shorten</i> (verb) = rút ngắn. <b>Grammar</b>: <i>shorten sth by…</i>.",
+   "example": {
+    "en": "The new road will <b>shorten</b> our journey by ten minutes.",
+    "vi": "Con đường mới sẽ <b>rút ngắn</b> hành trình mười phút."
+   }
+  },
+  {
+   "word": "shortcut",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈʃɔːtkʌt/",
+   "def_en": "A quicker way of getting somewhere.",
+   "def_vi": "Đường đi nhanh hơn.",
+   "gloss_vi": "đường tắt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Shortcut</i> (noun) = đường tắt. <b>Grammar</b>: <i>take a shortcut</i>.",
+   "example": {
+    "en": "There’s a <b>shortcut</b> to the station.",
+    "vi": "Có một <b>đường tắt</b> đến nhà ga."
+   }
+  },
+  {
+   "word": "width",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/wɪdθ/",
+   "def_en": "The measurement of something from side to side.",
+   "def_vi": "Số đo từ bên này sang bên kia.",
+   "gloss_vi": "chiều rộng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Width</i> (noun) = chiều rộng. <b>Grammar</b>: /wɪdθ/.",
+   "example": {
+    "en": "Let’s measure the <b>width</b> of the room.",
+    "vi": "Hãy đo <b>chiều rộng</b> căn phòng."
+   }
+  },
+  {
+   "word": "widen",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈwaɪdn/",
+   "def_en": "To make something wider.",
+   "def_vi": "Làm rộng ra.",
+   "gloss_vi": "mở rộng",
+   "synonyms": "broaden <i>(v. mở rộng)</i>",
+   "antonyms": "narrow <i>(v. thu hẹp)</i>",
+   "grammar_vi": "<i>Widen</i> (verb) = mở rộng. <b>Grammar</b>: hậu tố <i>-en</i>: wide → widen.",
+   "example": {
+    "en": "They’re <b>widening</b> the road.",
+    "vi": "Họ đang <b>mở rộng</b> con đường."
+   }
+  },
+  {
+   "word": "broaden",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈbrɔːdn/",
+   "def_en": "To make something wider, usually in abstract contexts.",
+   "def_vi": "Làm rộng hơn, thường trừu tượng.",
+   "gloss_vi": "mở mang",
+   "synonyms": "widen <i>(v. mở rộng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Broaden</i> (verb) = mở mang. <b>Grammar</b>: thường ngữ cảnh trừu tượng.",
+   "example": {
+    "en": "I want to <b>broaden</b> my experience.",
+    "vi": "Tôi muốn <b>mở mang</b> kinh nghiệm của mình."
+   }
+  },
+  {
+   "word": "narrow-minded",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌnærəʊ ˈmaɪndɪd/",
+   "def_en": "Unwilling to accept other people’s behaviour and beliefs.",
+   "def_vi": "Không chấp nhận hành vi, niềm tin của người khác.",
+   "gloss_vi": "hẹp hòi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "broad-minded <i>(adj. cởi mở)</i>",
+   "grammar_vi": "<i>Narrow-minded</i> (adjective) = hẹp hòi. <b>Grammar</b>: trái nghĩa <i>broad-minded</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He’s too <b>narrow-minded</b> to accept new ideas.",
+    "vi": "Ông ấy quá <b>hẹp hòi</b> để chấp nhận ý tưởng mới."
+   }
+  },
+  {
+   "word": "breadth",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bredθ/",
+   "def_en": "Wide range, usually of abstract things.",
+   "def_vi": "Bề rộng, thường của thứ trừu tượng.",
+   "gloss_vi": "bề rộng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Breadth</i> (noun) = bề rộng. <b>Grammar</b>: /bredθ/; thường khái niệm trừu tượng.",
+   "example": {
+    "en": "I admire the <b>breadth</b> of his knowledge.",
+    "vi": "Tôi khâm phục <b>bề rộng</b> kiến thức của anh ấy."
+   }
+  },
+  {
+   "word": "height",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/haɪt/",
+   "def_en": "The measurement of something from bottom to top.",
+   "def_vi": "Số đo từ dưới lên trên.",
+   "gloss_vi": "chiều cao",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Height</i> (noun) = chiều cao. <b>Grammar</b>: /haɪt/.",
+   "example": {
+    "en": "The <b>height</b> of the wall is two metres.",
+    "vi": "<b>Chiều cao</b> bức tường là hai mét."
+   }
+  },
+  {
+   "word": "heighten",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈhaɪtn/",
+   "def_en": "To make a feeling or emotion stronger.",
+   "def_vi": "Làm cảm xúc mạnh hơn.",
+   "gloss_vi": "tăng thêm",
+   "synonyms": "intensify <i>(v. tăng cường)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Heighten</i> (verb) = tăng thêm. <b>Grammar</b>: thường chỉ dùng cho cảm xúc.",
+   "example": {
+    "en": "The fog <b>heightened</b> the feeling of mystery.",
+    "vi": "Sương mù <b>làm tăng thêm</b> cảm giác bí ẩn."
+   }
+  },
+  {
+   "word": "lower",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈləʊə(r)/",
+   "def_en": "To move something to a lower position.",
+   "def_vi": "Hạ xuống.",
+   "gloss_vi": "hạ thấp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "raise <i>(v. nâng lên)</i>",
+   "grammar_vi": "<i>Lower</i> (verb) = hạ thấp. <b>Grammar</b>: trái nghĩa <i>raise</i>.",
+   "example": {
+    "en": "You can <b>lower</b> the microphone if it’s too high.",
+    "vi": "Bạn có thể <b>hạ</b> micro xuống nếu nó quá cao."
+   }
+  },
+  {
+   "word": "faraway",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌfɑːrəˈweɪ/",
+   "def_en": "A long way away.",
+   "def_vi": "Ở rất xa.",
+   "gloss_vi": "xa xôi",
+   "synonyms": "distant <i>(adj. xa)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Faraway</i> (adjective) = xa xôi. <b>Grammar</b>: = <i>distant</i>.",
+   "example": {
+    "en": "He loves travelling to <b>faraway</b> places.",
+    "vi": "Anh ấy thích du lịch đến những nơi <b>xa xôi</b>."
+   }
+  },
+  {
+   "word": "distance",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdɪstəns/",
+   "def_en": "The amount of space between two places.",
+   "def_vi": "Khoảng không gian giữa hai nơi.",
+   "gloss_vi": "khoảng cách",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Distance</i> (noun) = khoảng cách. <b>Grammar</b>: = <i>How far is it…?</i>.",
+   "example": {
+    "en": "What’s the <b>distance</b> from Helsinki to St Petersburg?",
+    "vi": "<b>Khoảng cách</b> từ Helsinki đến St Petersburg là bao nhiêu?"
+   }
+  },
+  {
+   "word": "depth",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/depθ/",
+   "def_en": "The measurement of something from top to bottom.",
+   "def_vi": "Số đo từ trên xuống dưới.",
+   "gloss_vi": "độ sâu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Depth</i> (noun) = độ sâu. <b>Grammar</b>: /depθ/.",
+   "example": {
+    "en": "The <b>depth</b> of the river here is about three metres.",
+    "vi": "<b>Độ sâu</b> của con sông ở đây khoảng ba mét."
+   }
+  },
+  {
+   "word": "deepen",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈdiːpən/",
+   "def_en": "To make something deeper, often a feeling.",
+   "def_vi": "Làm sâu hơn, thường là cảm xúc.",
+   "gloss_vi": "làm sâu sắc thêm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Deepen</i> (verb) = làm sâu sắc thêm. <b>Grammar</b>: thường dùng với cảm xúc.",
+   "example": {
+    "en": "His death so soon after hers <b>deepened</b> our sadness.",
+    "vi": "Cái chết của anh ấy ngay sau cô ấy <b>làm nỗi buồn của chúng tôi thêm sâu sắc</b>."
+   }
+  },
+  {
+   "word": "stretch",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/stretʃ/",
+   "def_en": "To cover a large area or distance.",
+   "def_vi": "Trải dài trên khu vực rộng.",
+   "gloss_vi": "trải dài",
+   "synonyms": "extend <i>(v. kéo dài)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stretch</i> (verb) = trải dài. <b>Grammar</b>: <i>stretch to/as far as</i>.",
+   "example": {
+    "en": "Our garden <b>stretches</b> all the way to the river.",
+    "vi": "Khu vườn của chúng tôi <b>trải dài</b> tới tận bờ sông."
+   }
+  },
+  {
+   "word": "extend",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪkˈstend/",
+   "def_en": "To make something bigger.",
+   "def_vi": "Làm lớn hơn.",
+   "gloss_vi": "mở rộng, nới rộng",
+   "synonyms": "enlarge <i>(v. mở rộng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Extend</i> (verb) = mở rộng, nới rộng. <b>Grammar</b>: <i>extension</i> (n.).",
+   "example": {
+    "en": "We have plenty of room to <b>extend</b> the house if we want to.",
+    "vi": "Chúng tôi có nhiều chỗ để <b>nới rộng</b> ngôi nhà nếu muốn."
+   }
+  },
+  {
+   "word": "spread",
+   "sense": "size",
+   "pos": "verb",
+   "ipa": "/spred/",
+   "def_en": "To get bigger and cover a larger area.",
+   "def_vi": "Lớn dần, phủ vùng rộng hơn.",
+   "gloss_vi": "lan rộng",
+   "synonyms": "expand <i>(v. mở rộng)</i>",
+   "antonyms": "shrink <i>(v. co lại)</i>",
+   "grammar_vi": "<i>Spread</i> (verb) = lan rộng. <b>Grammar</b>: bất quy tắc: spread–spread.",
+   "example": {
+    "en": "The cities are <b>spreading</b> and the countryside is shrinking.",
+    "vi": "Các thành phố đang <b>lan rộng</b> còn nông thôn đang thu hẹp."
+   }
+  },
+  {
+   "word": "shrink",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ʃrɪŋk/",
+   "def_en": "To get smaller.",
+   "def_vi": "Nhỏ đi.",
+   "gloss_vi": "co lại, thu hẹp",
+   "synonyms": "contract <i>(v. thu hẹp)</i>",
+   "antonyms": "spread <i>(v. lan rộng)</i>",
+   "grammar_vi": "<i>Shrink</i> (verb) = co lại, thu hẹp. <b>Grammar</b>: bất quy tắc: shrank, shrunk.",
+   "example": {
+    "en": "The cities are spreading and the countryside is <b>shrinking</b>.",
+    "vi": "Các thành phố đang lan rộng còn nông thôn đang <b>thu hẹp</b>."
+   }
+  },
+  {
+   "word": "expand",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪkˈspænd/",
+   "def_en": "To grow in size.",
+   "def_vi": "Tăng kích thước.",
+   "gloss_vi": "mở rộng, phát triển",
+   "synonyms": "grow <i>(v. phát triển)</i>",
+   "antonyms": "contract <i>(v. thu hẹp)</i>",
+   "grammar_vi": "<i>Expand</i> (verb) = mở rộng, phát triển. <b>Grammar</b>: <i>expansion</i> (n.).",
+   "example": {
+    "en": "The business <b>expanded</b> considerably in the last decade.",
+    "vi": "Doanh nghiệp đã <b>mở rộng</b> đáng kể trong thập kỷ qua."
+   }
+  },
+  {
+   "word": "contract",
+   "sense": "shrink",
+   "pos": "verb",
+   "ipa": "/kənˈtrækt/",
+   "def_en": "To become smaller.",
+   "def_vi": "Nhỏ lại.",
+   "gloss_vi": "thu hẹp, co lại",
+   "synonyms": "shrink <i>(v. co lại)</i>",
+   "antonyms": "expand <i>(v. mở rộng)</i>",
+   "grammar_vi": "<i>Contract</i> (verb) = thu hẹp, co lại. <b>Grammar</b>: động từ /kənˈtrækt/; danh từ /ˈkɒntrækt/ = hợp đồng.",
+   "ex_kit": true,
+   "example": {
+    "en": "Metal <b>contracts</b> as it cools.",
+    "vi": "Kim loại <b>co lại</b> khi nguội."
+   }
+  }
+ ]
+}

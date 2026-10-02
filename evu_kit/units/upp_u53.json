@@ -1,0 +1,428 @@
+{
+ "book": "upp",
+ "unit": 53,
+ "title_vi": "Thời gian",
+ "theory_html": "<p><b>A. Periods of time – words and typical contexts</b><br><i>A. Khoảng thời gian – từ và ngữ cảnh điển hình</i></p> <p><b>the Ice Age, the Stone Age, the Middle Ages, the computer age</b> [major historical/geological periods]; <b>era</b> [long period, perhaps several decades]; <b>spell</b> [indefinite but short period]; <b>stage</b> [period of development or particular time in a process]; <b>phase</b> [a period which is part of a longer period; can also mean the same as stage].</p><p><i><b>Thời kỳ Băng hà, Đồ đá, Trung cổ, thời đại máy tính</b> [thời kỳ lịch sử/địa chất lớn]; <b>era</b> [thời đại, vài thập kỷ]; <b>spell</b> [đợt ngắn]; <b>stage</b> [giai đoạn phát triển]; <b>phase</b> [giai đoạn trong một quá trình dài hơn].</i></p> <p><b>B. Useful expressions with time</b><br><i>B. Cụm hữu ích với time</i></p> <p><b>for a time, for the time being, at times, by the time</b> (followed by present tense), <b>from time to time, one at a time, in time, on time, time and time again, over the course of time</b>.</p><p><i><b>một thời gian, tạm thời, đôi khi, vào lúc mà</b> (+ hiện tại), <b>thỉnh thoảng, từng người một, kịp lúc, đúng giờ, hết lần này đến lần khác, theo dòng thời gian</b>.</i></p> <p><b>C. Verbs associated with time passing</b><br><i>C. Động từ về thời gian trôi</i></p> <p><b>elapse</b> (normally used in the perfect or past, without adverbs; formal), <b>fly, last, go on / drag on</b> (longer than expected or desired; <b>drag on</b> is stronger).</p><p><i><b>trôi qua</b> (trang trọng), <b>trôi nhanh, kéo dài, kéo dài lê thê</b>.</i></p> <p><b>D. Adjectives describing duration</b><br><i>D. Tính từ chỉ độ dài thời gian</i></p> <p><b>momentary</b> [very brief], <b>fleeting</b> [very short and quick], <b>timeless</b>.</p><p><i><b>chốc lát, thoáng qua, vượt thời gian</b>.</i></p> <p><b>CM. Common mistakes</b><br><i>CM. Lỗi thường gặp</i></p> <p>Don’t confuse <b>in time</b> and <b>on time</b>. <b>In time</b> means with enough time to do something or at the right time. <b>On time</b> means punctual, neither early nor late.</p><p><i>Đừng nhầm <b>in time</b> (kịp lúc) với <b>on time</b> (đúng giờ, không sớm không muộn).</i></p>",
+ "items": [
+  {
+   "word": "the Ice Age",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ði ˈaɪs eɪdʒ/",
+   "def_en": "A major geological period when ice covered much of the earth.",
+   "def_vi": "Thời kỳ địa chất khi băng phủ phần lớn Trái Đất.",
+   "gloss_vi": "thời kỳ Băng hà",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The Ice Age</i> (noun) = thời kỳ Băng hà. <b>Grammar</b>: <i>age</i> = thời kỳ lịch sử/địa chất lớn.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>The Ice Age</b> was a major geological period.",
+    "vi": "<b>Thời kỳ Băng hà</b> là một thời kỳ địa chất lớn."
+   }
+  },
+  {
+   "word": "the Stone Age",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ðə ˈstəʊn eɪdʒ/",
+   "def_en": "A major historical period when people used stone tools.",
+   "def_vi": "Thời kỳ lịch sử con người dùng công cụ đá.",
+   "gloss_vi": "thời kỳ Đồ đá",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The Stone Age</i> (noun) = thời kỳ Đồ đá. <b>Grammar</b>: viết hoa.",
+   "ex_kit": true,
+   "example": {
+    "en": "People in <b>the Stone Age</b> used stone tools.",
+    "vi": "Con người trong <b>thời kỳ Đồ đá</b> dùng công cụ bằng đá."
+   }
+  },
+  {
+   "word": "the Middle Ages",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ðə ˌmɪdl ˈeɪdʒɪz/",
+   "def_en": "A major historical period in Europe, about 1000–1500 AD.",
+   "def_vi": "Thời kỳ lịch sử lớn ở châu Âu.",
+   "gloss_vi": "thời Trung cổ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The Middle Ages</i> (noun) = thời Trung cổ. <b>Grammar</b>: luôn số nhiều <i>Ages</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "This castle was built in <b>the Middle Ages</b>.",
+    "vi": "Lâu đài này được xây vào <b>thời Trung cổ</b>."
+   }
+  },
+  {
+   "word": "the computer age",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ðə kəmˈpjuːtər eɪdʒ/",
+   "def_en": "The period in which computers are central to life.",
+   "def_vi": "Thời kỳ máy tính giữ vai trò trung tâm.",
+   "gloss_vi": "thời đại máy tính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The computer age</i> (noun) = thời đại máy tính. <b>Grammar</b>: <i>age</i> = thời kỳ lớn.",
+   "ex_kit": true,
+   "example": {
+    "en": "We live in <b>the computer age</b>.",
+    "vi": "Chúng ta đang sống trong <b>thời đại máy tính</b>."
+   }
+  },
+  {
+   "word": "era",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɪərə/",
+   "def_en": "A long period, perhaps several decades.",
+   "def_vi": "Khoảng thời gian dài, có thể vài thập kỷ.",
+   "gloss_vi": "thời đại, kỷ nguyên",
+   "synonyms": "age <i>(n. thời kỳ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Era</i> (noun) = thời đại, kỷ nguyên. <b>Grammar</b>: <i>a new era of sth</i>.",
+   "example": {
+    "en": "After the war, a new <b>era</b> of stability began.",
+    "vi": "Sau chiến tranh, một <b>kỷ nguyên</b> ổn định mới bắt đầu."
+   }
+  },
+  {
+   "word": "spell",
+   "sense": "period",
+   "pos": "noun",
+   "ipa": "/spel/",
+   "def_en": "An indefinite but short period.",
+   "def_vi": "Khoảng thời gian ngắn không xác định.",
+   "gloss_vi": "đợt",
+   "synonyms": "period <i>(n. khoảng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spell</i> (noun) = đợt. <b>Grammar</b>: <i>a spell in hospital</i>; M: cũng = bùa chú.",
+   "example": {
+    "en": "A <b>spell</b> of hot weather",
+    "vi": "Một <b>đợt</b> nắng nóng."
+   }
+  },
+  {
+   "word": "stage",
+   "sense": "period",
+   "pos": "noun",
+   "ipa": "/steɪdʒ/",
+   "def_en": "A period of development or particular time in a process.",
+   "def_vi": "Giai đoạn phát triển, thời điểm trong một quá trình.",
+   "gloss_vi": "giai đoạn",
+   "synonyms": "phase <i>(n. giai đoạn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stage</i> (noun) = giai đoạn. <b>Grammar</b>: <i>at this stage</i>; khác nghĩa <i>sân khấu</i>.",
+   "example": {
+    "en": "The city went through several <b>stages</b> of development to become what it is today.",
+    "vi": "Thành phố đã trải qua nhiều <b>giai đoạn</b> phát triển."
+   }
+  },
+  {
+   "word": "phase",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/feɪz/",
+   "def_en": "A period which is part of a longer period.",
+   "def_vi": "Giai đoạn nằm trong một quá trình dài hơn.",
+   "gloss_vi": "giai đoạn",
+   "synonyms": "stage <i>(n. giai đoạn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Phase</i> (noun) = giai đoạn. <b>Grammar</b>: <i>go through a phase</i>.",
+   "example": {
+    "en": "Most teenagers go through a <b>phase</b> of being lazy.",
+    "vi": "Hầu hết thiếu niên đều trải qua <b>giai đoạn</b> lười biếng."
+   }
+  },
+  {
+   "word": "for a time",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/fər ə ˈtaɪm/",
+   "def_en": "For a vague, indefinite period.",
+   "def_vi": "Trong khoảng thời gian không xác định.",
+   "gloss_vi": "một thời gian",
+   "synonyms": "for a while <i>(adv. một lúc)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>For a time</i> (adverb) = một thời gian. <b>Grammar</b>: thời gian mơ hồ.",
+   "example": {
+    "en": "During the 1980s I lived in Barcelona <b>for a time</b>.",
+    "vi": "Trong thập niên 1980 tôi sống ở Barcelona <b>một thời gian</b>."
+   }
+  },
+  {
+   "word": "for the time being",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/fə ðə ˌtaɪm ˈbiːɪŋ/",
+   "def_en": "For now, not specific.",
+   "def_vi": "Tạm thời, chưa xác định.",
+   "gloss_vi": "tạm thời",
+   "synonyms": "for now <i>(adv. lúc này)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>For the time being</i> (adverb) = tạm thời. <b>Grammar</b>: cuối câu.",
+   "example": {
+    "en": "The doctor says you should stay in bed <b>for the time being</b>.",
+    "vi": "Bác sĩ bảo bạn nên nằm nghỉ <b>tạm thời</b>."
+   }
+  },
+  {
+   "word": "at times",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ət ˈtaɪmz/",
+   "def_en": "Occasionally; now and then.",
+   "def_vi": "Thỉnh thoảng.",
+   "gloss_vi": "đôi khi",
+   "synonyms": "sometimes <i>(adv. đôi khi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>At times</i> (adverb) = đôi khi. <b>Grammar</b>: không có <i>the</i>.",
+   "example": {
+    "en": "She can get a bit bad-tempered <b>at times</b>.",
+    "vi": "Cô ấy <b>đôi khi</b> hơi cáu kỉnh."
+   }
+  },
+  {
+   "word": "by the time",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/baɪ ðə ˈtaɪm/",
+   "def_en": "Not later than the moment when.",
+   "def_vi": "Vào lúc mà, trước khi.",
+   "gloss_vi": "khi mà, đến lúc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>By the time</i> (conjunction) = khi mà, đến lúc. <b>Grammar</b>: theo sau là thì hiện tại, không dùng <i>will</i>.",
+   "example": {
+    "en": "<b>By the time</b> we get home this pizza will be cold!",
+    "vi": "<b>Đến lúc</b> chúng ta về nhà thì pizza sẽ nguội mất!"
+   }
+  },
+  {
+   "word": "from time to time",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/frəm ˌtaɪm tə ˈtaɪm/",
+   "def_en": "Sometimes but not often.",
+   "def_vi": "Đôi khi, không thường xuyên.",
+   "gloss_vi": "thỉnh thoảng",
+   "synonyms": "occasionally <i>(adv. thỉnh thoảng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>From time to time</i> (adverb) = thỉnh thoảng. <b>Grammar</b>: thường cuối câu.",
+   "example": {
+    "en": "I just send her an email <b>from time to time</b>.",
+    "vi": "Tôi chỉ <b>thỉnh thoảng</b> gửi email cho cô ấy."
+   }
+  },
+  {
+   "word": "one at a time",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌwʌn ət ə ˈtaɪm/",
+   "def_en": "Individually, one after the other.",
+   "def_vi": "Lần lượt từng người/cái.",
+   "gloss_vi": "từng người một",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>One at a time</i> (adverb) = từng người một. <b>Grammar</b>: cũng <i>two at a time</i>.",
+   "example": {
+    "en": "<b>One at a time</b>, please! I can’t deal with you all together.",
+    "vi": "<b>Từng người một</b> thôi! Tôi không thể giải quyết tất cả cùng lúc."
+   }
+  },
+  {
+   "word": "in time",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ɪn ˈtaɪm/",
+   "def_en": "At the right time or with enough time to do something.",
+   "def_vi": "Đúng lúc hoặc có đủ thời gian.",
+   "gloss_vi": "kịp lúc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "too late <i>(adv. quá muộn)</i>",
+   "grammar_vi": "<i>In time</i> (adverb) = kịp lúc. <b>Grammar</b>: <i>in time for sth / to do sth</i>; khác <i>on time</i>.",
+   "example": {
+    "en": "We arrived just <b>in time</b> to hear the Prime Minister’s speech.",
+    "vi": "Chúng tôi đến vừa <b>kịp</b> nghe bài phát biểu của Thủ tướng."
+   }
+  },
+  {
+   "word": "on time",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ɒn ˈtaɪm/",
+   "def_en": "Punctual; neither early nor late.",
+   "def_vi": "Đúng giờ, không sớm không muộn.",
+   "gloss_vi": "đúng giờ",
+   "synonyms": "punctual <i>(adj. đúng giờ)</i>",
+   "antonyms": "late <i>(adj. muộn)</i>",
+   "grammar_vi": "<i>On time</i> (adverb) = đúng giờ. <b>Grammar</b>: khác <i>in time</i>.",
+   "example": {
+    "en": "Our plane was <b>on time</b> and she was waiting for us at the airport.",
+    "vi": "Máy bay của chúng tôi <b>đúng giờ</b>."
+   }
+  },
+  {
+   "word": "time and time again",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌtaɪm ən ˌtaɪm əˈɡen/",
+   "def_en": "Many times (very emphatic, usually negative).",
+   "def_vi": "Rất nhiều lần (nhấn mạnh, thường tiêu cực).",
+   "gloss_vi": "hết lần này đến lần khác",
+   "synonyms": "repeatedly <i>(adv. nhiều lần)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Time and time again</i> (adverb) = hết lần này đến lần khác. <b>Grammar</b>: rất nhấn mạnh, thường ngữ cảnh tiêu cực.",
+   "example": {
+    "en": "I’ve told you <b>time and time again</b> not to ring me at the office!",
+    "vi": "Tôi đã bảo bạn <b>hết lần này đến lần khác</b> đừng gọi tôi ở văn phòng!"
+   }
+  },
+  {
+   "word": "over the course of time",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌəʊvə ðə ˌkɔːs əv ˈtaɪm/",
+   "def_en": "During a long period of time.",
+   "def_vi": "Trong một thời gian dài.",
+   "gloss_vi": "theo dòng thời gian",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Over the course of time</i> (adverb) = theo dòng thời gian. <b>Grammar</b>: dùng cho thời gian dài; cũng <i>over the course of the last two centuries</i>.",
+   "example": {
+    "en": "The city has changed a great deal <b>over the course of time</b>.",
+    "vi": "Thành phố đã thay đổi rất nhiều <b>theo dòng thời gian</b>."
+   }
+  },
+  {
+   "word": "elapse",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪˈlæps/",
+   "def_en": "(Of time) to pass (formal).",
+   "def_vi": "(Thời gian) trôi qua (trang trọng).",
+   "gloss_vi": "trôi qua",
+   "synonyms": "pass <i>(v. trôi qua)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Elapse</i> (verb) = trôi qua. <b>Grammar</b>: thường dùng thì hoàn thành hoặc quá khứ, không kèm trạng từ.",
+   "example": {
+    "en": "Ten years had <b>elapsed</b> since they last saw each other.",
+    "vi": "Mười năm đã <b>trôi qua</b> kể từ lần cuối họ gặp nhau."
+   }
+  },
+  {
+   "word": "fly",
+   "sense": "time",
+   "pos": "verb",
+   "ipa": "/flaɪ/",
+   "def_en": "(Of time) to pass very quickly.",
+   "def_vi": "(Thời gian) trôi rất nhanh.",
+   "gloss_vi": "trôi nhanh, thấm thoắt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "drag <i>(v. trôi chậm)</i>",
+   "grammar_vi": "<i>Fly</i> (verb) = trôi nhanh, thấm thoắt. <b>Grammar</b>: <i>Time flies!</i>.",
+   "example": {
+    "en": "Time seems to <b>fly</b> as you get older.",
+    "vi": "Thời gian dường như <b>trôi nhanh</b> hơn khi bạn già đi."
+   }
+  },
+  {
+   "word": "last",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/lɑːst/",
+   "def_en": "To continue for a period of time.",
+   "def_vi": "Kéo dài một khoảng thời gian.",
+   "gloss_vi": "kéo dài",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Last</i> (verb) = kéo dài. <b>Grammar</b>: <i>last (for) + khoảng thời gian</i>.",
+   "example": {
+    "en": "This film <b>lasts</b> for three hours.",
+    "vi": "Bộ phim này <b>kéo dài</b> ba tiếng."
+   }
+  },
+  {
+   "word": "go on",
+   "sense": "time",
+   "pos": "verb",
+   "ipa": "/ˌɡəʊ ˈɒn/",
+   "def_en": "To continue, often longer than expected.",
+   "def_vi": "Tiếp diễn, thường lâu hơn dự kiến.",
+   "gloss_vi": "kéo dài",
+   "synonyms": "continue <i>(v. tiếp tục)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go on</i> (verb) = kéo dài. <b>Grammar</b>: gợi ý lâu hơn mong muốn.",
+   "example": {
+    "en": "The meeting <b>went on</b> for two hours.",
+    "vi": "Cuộc họp <b>kéo dài</b> hai tiếng."
+   }
+  },
+  {
+   "word": "drag on",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌdræɡ ˈɒn/",
+   "def_en": "To continue for much longer than expected or desired.",
+   "def_vi": "Kéo dài lâu hơn nhiều so với mong muốn.",
+   "gloss_vi": "kéo dài lê thê",
+   "synonyms": "go on <i>(v. kéo dài)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Drag on</i> (verb) = kéo dài lê thê. <b>Grammar</b>: mạnh hơn <i>go on</i>.",
+   "example": {
+    "en": "The meeting <b>dragged on</b> for two hours.",
+    "vi": "Cuộc họp <b>kéo dài lê thê</b> hai tiếng."
+   }
+  },
+  {
+   "word": "momentary",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈməʊməntri/",
+   "def_en": "Very brief.",
+   "def_vi": "Rất ngắn.",
+   "gloss_vi": "chốc lát",
+   "synonyms": "brief <i>(adj. ngắn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Momentary</i> (adjective) = chốc lát. <b>Grammar</b>: <i>moment</i> (n.).",
+   "example": {
+    "en": "There was a <b>momentary</b> loss of electrical power and the data was lost.",
+    "vi": "Mất điện <b>chốc lát</b> và dữ liệu bị mất."
+   }
+  },
+  {
+   "word": "fleeting",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈfliːtɪŋ/",
+   "def_en": "Very short and quick.",
+   "def_vi": "Rất ngắn và nhanh.",
+   "gloss_vi": "thoáng qua",
+   "synonyms": "momentary <i>(adj. chốc lát)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fleeting</i> (adjective) = thoáng qua. <b>Collocations / chunks</b>: <i>a fleeting glimpse</i>.",
+   "example": {
+    "en": "I just got a <b>fleeting</b> glimpse of the President as his car drove past.",
+    "vi": "Tôi chỉ <b>thoáng</b> thấy Tổng thống khi xe ông chạy qua."
+   }
+  },
+  {
+   "word": "timeless",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈtaɪmləs/",
+   "def_en": "Not affected by the passing of time.",
+   "def_vi": "Không bị thời gian ảnh hưởng.",
+   "gloss_vi": "vượt thời gian",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Timeless</i> (adjective) = vượt thời gian. <b>Collocations / chunks</b>: <i>timeless beauty</i>.",
+   "example": {
+    "en": "Venice has a <b>timeless</b> beauty.",
+    "vi": "Venice có vẻ đẹp <b>vượt thời gian</b>."
+   }
+  }
+ ]
+}
