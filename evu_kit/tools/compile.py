@@ -138,6 +138,19 @@ def find_example(word, src):
     return rx.sub(lambda x: f"<b>{x.group(0)}</b>", s, count=1)
 
 
+LABEL = re.compile(r"^(?:[AB]:\s+|[AB]\s+(?=(?:<b>)?(?:Do|Did|Are|And|Have|Is|What|Where|When|The|Can|If|Yes|No|She|He|We|I|It|They|You|Oh|Excuse|How|Go|Take|Turn|Usually)\b))")
+
+
+def drop_label(en):
+    """Bỏ nhãn người nói A:/B: ở câu một lượt (giữ nguyên hội thoại hai lượt A: … B: …)."""
+    if len(re.findall(r"(?:^|\s)[AB]:\s", en)) >= 2: return en
+    en = LABEL.sub("", en, count=1)
+    return ROLE.sub("", en, count=1)
+
+
+ROLE = re.compile(r"^(?:Customer|Waiter|Shop assistant|Receptionist|Guest|[A-Z]{3,}(?=\s+I\b))\s+(?=(?:<b>)?[A-Z‘“'(])")
+
+
 def parse(path, src):
     lines = open(path, encoding="utf-8").read().split("\n")
     u = {"title_vi": "", "theory": [], "items": [], "errors": []}
@@ -171,7 +184,7 @@ def parse(path, src):
             else:
                 en = find_example(w, src)
                 if not en: u["errors"].append(f"dòng {ln} '{w}': không thấy câu sách chứa từ – thêm ex=... ([từ] để bôi đậm)"); continue
-            it["example"] = {"en": en, "vi": exvi.replace("[", "<b>").replace("]", "</b>")}
+            it["example"] = {"en": drop_label(en), "vi": exvi.replace("[", "<b>").replace("]", "</b>")}
             u["items"].append(it)
     return u
 

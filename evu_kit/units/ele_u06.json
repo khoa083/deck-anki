@@ -48,7 +48,7 @@
    "antonyms": "<i>Not available</i>",
    "grammar_vi": "<i>Don’t feel very well</i> (phrase) = thấy không khỏe lắm. <b>Grammar</b>: <i>feel</i> + tính từ; phủ định <i>don’t feel</i>. <b>Collocations / chunks</b>: <i>I don’t feel very well, so I’m going home.</i> (tôi không khỏe nên về nhà).",
    "example": {
-    "en": "I <b>don’t feel very well</b>.",
+    "en": "I <b>don’t feel very well</b>. I must go home and rest.",
     "vi": "Tôi <b>thấy không khỏe lắm</b>. Tôi phải về nhà nghỉ."
    }
   },
@@ -64,7 +64,7 @@
    "antonyms": "feel well <i>(vp. thấy khỏe)</i>",
    "grammar_vi": "<i>Feel ill</i> (verb phrase) = thấy ốm. <b>Grammar</b>: <i>feel</i> + tính từ, không dùng trạng từ (<i>feel ill</i>, không nói <i>feel illy</i>). <b>Word family</b>: <i>illness</i> (n.).",
    "example": {
-    "en": "I <b>feel ill</b>.",
+    "en": "I <b>feel ill</b>. Can you get a doctor, please?",
     "vi": "Tôi <b>thấy ốm</b>. Bạn gọi bác sĩ giúp được không?"
    }
   },
@@ -80,8 +80,8 @@
    "antonyms": "patient <i>(n. bệnh nhân)</i>",
    "grammar_vi": "<i>Doctor</i> (noun) = bác sĩ. <b>Grammar</b>: đếm được; <i>go to the doctor</i> (đi khám). <b>Collocations / chunks</b>: <i>see a doctor</i> (gặp bác sĩ), <i>call a doctor</i> (gọi bác sĩ).",
    "example": {
-    "en": "Can you get a <b>doctor</b>, please?",
-    "vi": "Bạn gọi <b>bác sĩ</b> giúp được không?"
+    "en": "I feel ill. Can you get a <b>doctor</b>, please?",
+    "vi": "Tôi thấy ốm. Bạn gọi <b>bác sĩ</b> giúp được không?"
    }
   },
   {
@@ -96,7 +96,7 @@
    "antonyms": "well <i>(adj. khỏe)</i>",
    "grammar_vi": "<i>Sick</i> (adjective) = buồn nôn, ốm. <b>Grammar</b>: <i>be sick</i> (Anh–Anh) = nôn; <i>feel sick</i> = buồn nôn. <b>Collocations / chunks</b>: <i>a sick child</i> (đứa trẻ ốm). <b>Common mistakes</b>: <i>ill</i> thường đứng sau <i>be</i>, <i>sick</i> đứng được trước danh từ.",
    "example": {
-    "en": "I think I’m going to be <b>sick</b>!",
+    "en": "That fish was bad. I think I’m going to be <b>sick</b>!",
     "vi": "Món cá đó hỏng rồi. Chắc tôi sắp <b>nôn</b> mất!"
    }
   },
@@ -112,7 +112,7 @@
    "antonyms": "<i>Not available</i>",
    "grammar_vi": "<i>An aspirin</i> (noun phrase) = viên aspirin. <b>Grammar</b>: đếm được khi chỉ một viên: <i>an aspirin, two aspirins</i>. <b>Collocations / chunks</b>: <i>take an aspirin</i> (uống aspirin).",
    "example": {
-    "en": "Have you got <b>an aspirin</b>?",
+    "en": "Have you got <b>an aspirin</b>? I’ve got a headache.",
     "vi": "Bạn có <b>viên aspirin</b> nào không? Tôi bị đau đầu."
    }
   },
@@ -128,7 +128,7 @@
    "antonyms": "<i>Not available</i>",
    "grammar_vi": "<i>Have got a headache</i> (verb phrase) = bị đau đầu. <b>Grammar</b>: <i>have (got) a headache</i> có mạo từ <i>a</i>; <i>ache</i> đọc /eɪk/. <b>Collocations / chunks</b>: <i>a bad headache</i> (đau đầu dữ dội).",
    "example": {
-    "en": "I<b>’ve got a headache</b>.",
+    "en": "Have you got an aspirin? I<b>’ve got a headache</b>.",
     "vi": "Bạn có viên aspirin nào không? <b>Tôi bị đau đầu</b>."
    }
   },
@@ -144,7 +144,7 @@
    "antonyms": "<i>Not available</i>",
    "grammar_vi": "<i>Have got toothache</i> (verb phrase) = bị đau răng. <b>Grammar</b>: Anh–Anh thường không dùng <i>a</i>: <i>I’ve got toothache</i>. <b>Word family</b>: <i>tooth</i> + <i>ache</i>.",
    "example": {
-    "en": "I<b>’ve got toothache</b>.",
+    "en": "I<b>’ve got toothache</b>. I need to go to the dentist.",
     "vi": "<b>Tôi bị đau răng</b>. Tôi cần đi nha sĩ."
    }
   },
@@ -160,7 +160,7 @@
    "antonyms": "<i>Not available</i>",
    "grammar_vi": "<i>Dentist</i> (noun) = nha sĩ. <b>Grammar</b>: đếm được; <i>go to the dentist</i> (đi nha sĩ), <i>the dentist’s</i> (phòng nha).",
    "example": {
-    "en": "I need to go to the <b>dentist</b>.",
+    "en": "I’ve got toothache. I need to go to the <b>dentist</b>.",
     "vi": "Tôi bị đau răng. Tôi cần đi <b>nha sĩ</b>."
    }
   },
@@ -176,7 +176,7 @@
    "antonyms": "<i>Not available</i>",
    "grammar_vi": "<i>Have got a cold</i> (verb phrase) = bị cảm lạnh. <b>Grammar</b>: <i>have (got) a cold</i>, <i>catch a cold</i> (nhiễm lạnh). <b>Common mistakes</b>: <i>cold</i> (n.) = cảm lạnh, khác <i>cold</i> (adj.) = lạnh.",
    "example": {
-    "en": "I<b>’ve got a cold</b>.",
+    "en": "I’m going to bed with a hot drink. I<b>’ve got a cold</b>.",
     "vi": "Tôi lên giường với một cốc nóng. <b>Tôi bị cảm lạnh</b>."
    }
   },
@@ -192,7 +192,7 @@
    "antonyms": "<i>Not available</i>",
    "grammar_vi": "<i>Hay fever</i> (noun phrase) = sốt mùa hè, dị ứng phấn hoa. <b>Grammar</b>: không đếm được: <i>get/have hay fever</i>. <b>Collocations / chunks</b>: <i>suffer from hay fever</i> (bị dị ứng phấn hoa).",
    "example": {
-    "en": "Problems people have for many years / all their lives I get <b>hay fever</b> every summer, from flowers and grass.",
+    "en": "I get <b>hay fever</b> every summer, from flowers and grass.",
     "vi": "Mùa hè nào tôi cũng bị <b>dị ứng phấn hoa</b> vì hoa và cỏ."
    }
   },
@@ -336,7 +336,7 @@
    "antonyms": "unhealthy diet <i>(np. chế độ ăn không lành mạnh)</i>",
    "grammar_vi": "<i>Healthy diet</i> (noun phrase) = chế độ ăn lành mạnh. <b>Grammar</b>: <i>have a healthy diet</i>. <b>Word family</b>: <i>health</i> (n.), <i>healthy</i> (adj.).",
    "example": {
-    "en": "A Do you have a <b>healthy diet</b>?",
+    "en": "Do you have a <b>healthy diet</b>?",
     "vi": "Bạn có <b>ăn uống lành mạnh</b> không?"
    }
   },
@@ -352,7 +352,7 @@
    "antonyms": "<i>Not available</i>",
    "grammar_vi": "<i>Exercise</i> (verb) = tập thể dục. <b>Grammar</b>: nội động từ; cũng là danh từ: <i>do exercise</i>. <b>Collocations / chunks</b>: <i>exercise regularly</i> (tập đều đặn).",
    "example": {
-    "en": "A Do you <b>exercise</b>?",
+    "en": "Do you <b>exercise</b>?",
     "vi": "Bạn có <b>tập thể dục</b> không?"
    }
   },
@@ -385,7 +385,7 @@
    "grammar_vi": "<i>Relax</i> (verb) = thư giãn. <b>Grammar</b>: nội động từ. <b>Collocations / chunks</b>: <i>relax more</i> (thư giãn hơn). <b>Word family</b>: <i>relaxed</i> (adj.), <i>relaxation</i> (n.).",
    "example": {
     "en": "You need to <b>relax</b> more and don’t panic about work!",
-    "vi": "Bạn cần <b>thư giãn</b> nhiều hơn."
+    "vi": "Bạn cần <b>thư giãn</b> nhiều hơn và đừng hoảng lên vì công việc!"
    }
   },
   {
