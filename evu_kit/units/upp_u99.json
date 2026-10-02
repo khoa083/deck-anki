@@ -1,0 +1,312 @@
+{
+ "book": "upp",
+ "unit": 99,
+ "title_vi": "Ngôn ngữ biển báo và thông báo",
+ "theory_html": "<p><b>Intro. The language of signs and notices</b><br><i>Intro. Ngôn ngữ biển báo và thông báo</i></p> <p>Signs and notices in English often use words and expressions that are rarely seen in other contexts: <b>Alight here for Buckingham Palace; Trespassers will be prosecuted; Kindly refrain from using your mobile phone in the auditorium; Penalty for dropping litter – up to £1,000 fine; Lunches now being served; No admission to unaccompanied minors; Feeding the animals is strictly prohibited; No through road for motor vehicles; No entry to unauthorised personnel; Please place your purchases here; This packet carries a government health warning; Reduce speed now; Pay and display; Cyclists dismount here; Fishing permit holders only</b>.</p><p><i>Biển báo và thông báo tiếng Anh thường dùng từ ngữ ít gặp ở ngữ cảnh khác; mỗi biển có ‘bản dịch’ sang tiếng Anh thông thường.</i></p>",
+ "items": [
+  {
+   "word": "alight here for",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈlaɪt hɪə fɔː(r)/",
+   "def_en": "Get off here for (a place).",
+   "def_vi": "Xuống ở đây để đến (nơi nào).",
+   "gloss_vi": "xuống ở đây để đến",
+   "synonyms": "get off <i>(v. xuống)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Alight here for</i> (verb) = xuống ở đây để đến. <b>Grammar</b>: biển báo, rất trang trọng.",
+   "example": {
+    "en": "<b>Alight here for</b> Buckingham Palace",
+    "vi": "<b>Xuống ở đây để đến</b> Cung điện Buckingham."
+   }
+  },
+  {
+   "word": "trespasser",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈtrespəsə(r)/",
+   "def_en": "A person who walks on private land without permission.",
+   "def_vi": "Người vào đất tư không phép.",
+   "gloss_vi": "kẻ xâm nhập trái phép",
+   "synonyms": "intruder <i>(n. kẻ đột nhập)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trespasser</i> (noun) = kẻ xâm nhập trái phép. <b>Grammar</b>: <i>trespass</i> (v.).",
+   "example": {
+    "en": "<b>Trespassers</b> will be prosecuted",
+    "vi": "<b>Kẻ xâm nhập trái phép</b> sẽ bị truy tố."
+   }
+  },
+  {
+   "word": "kindly refrain from",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkaɪndli rɪˈfreɪn frəm/",
+   "def_en": "Please don’t (formal).",
+   "def_vi": "Vui lòng không (trang trọng).",
+   "gloss_vi": "vui lòng không",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Kindly refrain from</i> (verb) = vui lòng không. <b>Grammar</b>: + -ing; rất trang trọng.",
+   "example": {
+    "en": "<b>Kindly refrain from</b> using your mobile phone in the auditorium",
+    "vi": "<b>Vui lòng không</b> dùng điện thoại di động trong khán phòng."
+   }
+  },
+  {
+   "word": "auditorium",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɔːdɪˈtɔːriəm/",
+   "def_en": "The part of a theatre or hall where people sit.",
+   "def_vi": "Phần nhà hát, hội trường nơi khán giả ngồi.",
+   "gloss_vi": "khán phòng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Auditorium</i> (noun) = khán phòng. <b>Grammar</b>: số nhiều <i>auditoriums/auditoria</i>.",
+   "example": {
+    "en": "Kindly refrain from using your mobile phone in the <b>auditorium</b>",
+    "vi": "Vui lòng không dùng điện thoại trong <b>khán phòng</b>."
+   }
+  },
+  {
+   "word": "penalty",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpenəlti/",
+   "def_en": "A punishment, e.g. a fine.",
+   "def_vi": "Hình phạt, như tiền phạt.",
+   "gloss_vi": "hình phạt",
+   "synonyms": "punishment <i>(n. hình phạt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Penalty</i> (noun) = hình phạt. <b>Grammar</b>: <i>penalty for sth</i>.",
+   "example": {
+    "en": "<b>Penalty</b> for dropping litter - up to £1,000 fine",
+    "vi": "<b>Hình phạt</b> cho việc xả rác – phạt tới £1.000."
+   }
+  },
+  {
+   "word": "now being served",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌnaʊ ˌbiːɪŋ ˈsɜːvd/",
+   "def_en": "Available to buy now.",
+   "def_vi": "Hiện đang phục vụ.",
+   "gloss_vi": "đang phục vụ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Now being served</i> (adjective) = đang phục vụ. <b>Grammar</b>: bị động tiếp diễn, lược trợ động từ.",
+   "example": {
+    "en": "Lunches <b>now being served</b>",
+    "vi": "Bữa trưa <b>đang phục vụ</b>."
+   }
+  },
+  {
+   "word": "unaccompanied",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌʌnəˈkʌmpənid/",
+   "def_en": "Without an adult or other person with them.",
+   "def_vi": "Không có người lớn đi kèm.",
+   "gloss_vi": "không có người đi kèm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "accompanied <i>(adj. có người đi kèm)</i>",
+   "grammar_vi": "<i>Unaccompanied</i> (adjective) = không có người đi kèm. <b>Grammar</b>: <i>un-</i> + <i>accompanied</i>.",
+   "example": {
+    "en": "No admission to <b>unaccompanied</b> minors",
+    "vi": "Không cho trẻ vị thành niên <b>không có người đi kèm</b> vào."
+   }
+  },
+  {
+   "word": "minor",
+   "sense": "young person",
+   "pos": "noun",
+   "ipa": "/ˈmaɪnə(r)/",
+   "def_en": "A person under 18 years old.",
+   "def_vi": "Người dưới 18 tuổi.",
+   "gloss_vi": "trẻ vị thành niên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "adult <i>(n. người lớn)</i>",
+   "grammar_vi": "<i>Minor</i> (noun) = trẻ vị thành niên. <b>Grammar</b>: trang trọng, pháp lý.",
+   "example": {
+    "en": "No admission to unaccompanied <b>minors</b>",
+    "vi": "Không cho <b>trẻ vị thành niên</b> không có người đi kèm vào."
+   }
+  },
+  {
+   "word": "admission",
+   "sense": "sign",
+   "pos": "noun",
+   "ipa": "/ədˈmɪʃn/",
+   "def_en": "Permission to enter.",
+   "def_vi": "Sự cho phép vào.",
+   "gloss_vi": "sự cho vào",
+   "synonyms": "entry <i>(n. sự vào)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Admission</i> (noun) = sự cho vào. <b>Grammar</b>: <i>No admission to…</i>.",
+   "example": {
+    "en": "No <b>admission</b> to unaccompanied minors",
+    "vi": "<b>Không cho</b> trẻ vị thành niên không có người đi kèm <b>vào</b>."
+   }
+  },
+  {
+   "word": "strictly prohibited",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌstrɪktli prəˈhɪbɪtɪd/",
+   "def_en": "Not allowed at all (formal).",
+   "def_vi": "Hoàn toàn bị cấm (trang trọng).",
+   "gloss_vi": "nghiêm cấm",
+   "synonyms": "forbidden <i>(adj. bị cấm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Strictly prohibited</i> (adjective) = nghiêm cấm. <b>Grammar</b>: trang trọng, biển báo.",
+   "example": {
+    "en": "Feeding the animals is <b>strictly prohibited</b>",
+    "vi": "Cho thú ăn bị <b>nghiêm cấm</b>."
+   }
+  },
+  {
+   "word": "no through road",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌnəʊ ˈθruː rəʊd/",
+   "def_en": "A road with no way out at the other end.",
+   "def_vi": "Đường không có lối ra ở đầu kia.",
+   "gloss_vi": "đường cụt",
+   "synonyms": "dead end <i>(n. ngõ cụt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>No through road</i> (noun) = đường cụt. <b>Grammar</b>: biển báo.",
+   "example": {
+    "en": "<b>No through road</b> for motor vehicles",
+    "vi": "<b>Đường cụt</b> đối với xe cơ giới."
+   }
+  },
+  {
+   "word": "motor vehicle",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈməʊtə viːəkl/",
+   "def_en": "A car or other road vehicle with an engine.",
+   "def_vi": "Ô tô hay xe có động cơ.",
+   "gloss_vi": "xe cơ giới",
+   "synonyms": "car <i>(n. ô tô)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Motor vehicle</i> (noun) = xe cơ giới. <b>Grammar</b>: trang trọng.",
+   "example": {
+    "en": "No through road for <b>motor vehicles</b>",
+    "vi": "Đường cụt đối với <b>xe cơ giới</b>."
+   }
+  },
+  {
+   "word": "unauthorised personnel",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ʌnˌɔːθəraɪzd ˌpɜːsəˈnel/",
+   "def_en": "People without permission or who do not work here.",
+   "def_vi": "Người không có phép hoặc không làm việc ở đây.",
+   "gloss_vi": "người không phận sự",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Unauthorised personnel</i> (noun) = người không phận sự. <b>Grammar</b>: <i>personnel</i> = nhân viên (trang trọng).",
+   "example": {
+    "en": "No entry to <b>unauthorised personnel</b>",
+    "vi": "Cấm <b>người không phận sự</b> vào."
+   }
+  },
+  {
+   "word": "purchases",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɜːtʃəsɪz/",
+   "def_en": "Things you are going to buy or have bought.",
+   "def_vi": "Đồ định mua hoặc đã mua.",
+   "gloss_vi": "hàng mua",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Purchases</i> (noun) = hàng mua. <b>Grammar</b>: danh từ đếm được; trang trọng.",
+   "example": {
+    "en": "Please place your <b>purchases</b> here",
+    "vi": "Vui lòng đặt <b>hàng mua</b> ở đây."
+   }
+  },
+  {
+   "word": "health warning",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈhelθ wɔːnɪŋ/",
+   "def_en": "An official statement that something is bad for your health.",
+   "def_vi": "Tuyên bố chính thức rằng thứ gì có hại cho sức khỏe.",
+   "gloss_vi": "cảnh báo sức khỏe",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Health warning</i> (noun) = cảnh báo sức khỏe. <b>Grammar</b>: <i>carry a health warning</i>.",
+   "example": {
+    "en": "This packet carries a government <b>health warning</b>",
+    "vi": "Gói này có <b>cảnh báo sức khỏe</b> của chính phủ."
+   }
+  },
+  {
+   "word": "reduce speed now",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/rɪˌdjuːs ˈspiːd naʊ/",
+   "def_en": "Start going more slowly now.",
+   "def_vi": "Bắt đầu đi chậm lại.",
+   "gloss_vi": "giảm tốc độ ngay",
+   "synonyms": "slow down <i>(v. chạy chậm lại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reduce speed now</i> (cl) = giảm tốc độ ngay. <b>Grammar</b>: biển báo giao thông.",
+   "example": {
+    "en": "<b>Reduce speed now</b>",
+    "vi": "<b>Giảm tốc độ ngay</b>."
+   }
+  },
+  {
+   "word": "pay and display",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ˌpeɪ ən dɪˈspleɪ/",
+   "def_en": "Buy a ticket and put it where it can easily be seen.",
+   "def_vi": "Mua vé và để ở chỗ dễ thấy.",
+   "gloss_vi": "mua vé và đặt lên kính xe",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pay and display</i> (cl) = mua vé và đặt lên kính xe. <b>Grammar</b>: biển ở bãi đỗ xe.",
+   "example": {
+    "en": "<b>Pay and display</b>",
+    "vi": "Bãi đỗ xe <b>mua vé và đặt lên kính</b>."
+   }
+  },
+  {
+   "word": "dismount",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/dɪsˈmaʊnt/",
+   "def_en": "To get off a bike or horse.",
+   "def_vi": "Xuống xe đạp hay ngựa.",
+   "gloss_vi": "xuống xe",
+   "synonyms": "get off <i>(v. xuống)</i>",
+   "antonyms": "mount <i>(v. lên)</i>",
+   "grammar_vi": "<i>Dismount</i> (verb) = xuống xe. <b>Grammar</b>: trang trọng.",
+   "example": {
+    "en": "Cyclists <b>dismount</b> here",
+    "vi": "Người đi xe đạp <b>xuống xe</b> ở đây."
+   }
+  },
+  {
+   "word": "permit holder",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɜːmɪt həʊldə(r)/",
+   "def_en": "A person with a special card giving permission.",
+   "def_vi": "Người có thẻ cho phép.",
+   "gloss_vi": "người có giấy phép",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Permit holder</i> (noun) = người có giấy phép. <b>Grammar</b>: <i>permit</i> /ˈpɜːmɪt/ (n.).",
+   "example": {
+    "en": "Fishing <b>permit holders</b> only",
+    "vi": "Chỉ <b>người có giấy phép</b> câu cá."
+   }
+  }
+ ]
+}

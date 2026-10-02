@@ -1,0 +1,636 @@
+{
+ "book": "upp",
+ "unit": 101,
+ "title_vi": "Tiếng Anh Mỹ",
+ "theory_html": "<p><b>A. English in the USA</b><br><i>A. Tiếng Anh ở Mỹ</i></p> <p>English in the USA differs from British English. Pronunciation is the most striking difference but there are also differences in vocabulary and spelling as well as some differences in grammar (<b>the fall / autumn; on the weekend / at the weekend</b>). Yet, generally, British and American speakers have little difficulty in understanding each other.</p><p><i>Tiếng Anh Mỹ khác Anh-Anh, rõ nhất ở phát âm, nhưng cũng khác về từ vựng, chính tả và một ít ngữ pháp. Nhìn chung hai bên vẫn hiểu nhau dễ dàng.</i></p> <p><b>B. American English spelling</b><br><i>B. Chính tả Anh-Mỹ</i></p> <p>American English spelling is usually simpler: British <b>-our</b> and <b>-re</b> become <b>-or</b> and <b>-er</b> (<b>colour/color, centre/center</b>); many verbs ending in <b>-ise</b> end in <b>-ize</b> (<b>realise/realize</b>); individual words differ (<b>jewellery/jewelry</b>).</p><p><i>Chính tả Mỹ thường đơn giản hơn: <b>-our → -or, -re → -er, -ise → -ize</b>.</i></p> <p><b>C. US words and their British equivalents</b><br><i>C. Từ Mỹ và từ tương đương Anh</i></p> <p>Travel and street: <b>gas(oline)/petrol, truck/lorry, baggage/luggage, sidewalk/pavement, crosswalk/zebra crossing, line/queue, vacation/holiday, parking lot/car park, trunk/boot, hood/bonnet, freeway/interstate – motorway, one-way trip/single, round trip/return, railway car/railway carriage, subway/underground</b>. Home: <b>garbage/trash – rubbish, elevator/lift, eraser/rubber, apartment/flat, closet/wardrobe, yard/garden, drapes/curtains, flashlight/torch, French fries/chips, Scotch tape/Sellotape, cookie/biscuit, candy/sweets, bathroom/rest room – toilet/WC, diaper/nappy, pantyhose/tights</b>.</p><p><i>Các cặp từ Mỹ – Anh về đi lại và trong nhà.</i></p> <p><b>LH. Language help</b><br><i>LH. Lưu ý ngôn ngữ</i></p> <p>American and British pronunciations are often different. You can hear both on the Cambridge Advanced Learner’s Dictionary online.</p><p><i>Phát âm Mỹ và Anh thường khác nhau; có thể nghe cả hai trên từ điển Cambridge trực tuyến.</i></p> <p><b>D. Different meanings</b><br><i>D. Khác nghĩa</i></p> <p>Words that mean something different: <b>undershirt (AmE) = vest (BrE); pants (AmE) = trousers (BrE); vest (AmE) = waistcoat (BrE); the first floor (AmE) = the ground floor (BrE); the second floor (AmE) = the first floor (BrE); check (AmE) = bill (BrE); bill (AmE) = note (BrE); wash up (AmE) = wash your hands; wash up (BrE) = wash the dishes</b>.</p><p><i>Một số từ khác nghĩa giữa Anh và Mỹ, dễ gây nhầm lẫn.</i></p>",
+ "items": [
+  {
+   "word": "fall",
+   "sense": "autumn",
+   "pos": "noun",
+   "ipa": "/fɔːl/",
+   "def_en": "Autumn (American English).",
+   "def_vi": "Mùa thu (Anh-Mỹ).",
+   "gloss_vi": "mùa thu",
+   "synonyms": "autumn <i>(n. mùa thu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fall</i> (noun) = mùa thu. <b>Grammar</b>: Anh-Mỹ; Anh-Anh <i>autumn</i>.",
+   "example": {
+    "en": "Americans say <b>the fall</b>, while British English speakers say autumn.",
+    "vi": "Người Mỹ nói <b>the fall</b>, người Anh nói autumn."
+   }
+  },
+  {
+   "word": "gasoline",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡæsəliːn/",
+   "def_en": "Petrol (American English).",
+   "def_vi": "Xăng (Anh-Mỹ).",
+   "gloss_vi": "xăng",
+   "synonyms": "gas <i>(n. xăng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gasoline</i> (noun) = xăng. <b>Grammar</b>: Anh-Mỹ, gọi tắt <i>gas</i>; Anh-Anh <i>petrol</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I need to buy some <b>gasoline</b>.",
+    "vi": "Tôi cần đổ <b>xăng</b>."
+   }
+  },
+  {
+   "word": "truck",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/trʌk/",
+   "def_en": "A lorry (American English).",
+   "def_vi": "Xe tải (Anh-Mỹ).",
+   "gloss_vi": "xe tải",
+   "synonyms": "lorry <i>(n. xe tải)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Truck</i> (noun) = xe tải. <b>Grammar</b>: Anh-Mỹ; Anh-Anh <i>lorry</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "A <b>truck</b> blocked the road.",
+    "vi": "Một chiếc <b>xe tải</b> chặn đường."
+   }
+  },
+  {
+   "word": "sidewalk",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsaɪdwɔːk/",
+   "def_en": "A pavement (American English).",
+   "def_vi": "Vỉa hè (Anh-Mỹ).",
+   "gloss_vi": "vỉa hè",
+   "synonyms": "pavement <i>(n. vỉa hè)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sidewalk</i> (noun) = vỉa hè. <b>Grammar</b>: Anh-Mỹ; Anh-Anh <i>pavement</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Walk on the <b>sidewalk</b>.",
+    "vi": "Đi trên <b>vỉa hè</b>."
+   }
+  },
+  {
+   "word": "crosswalk",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkrɒswɔːk/",
+   "def_en": "A zebra crossing (American English).",
+   "def_vi": "Vạch qua đường (Anh-Mỹ).",
+   "gloss_vi": "vạch qua đường",
+   "synonyms": "zebra crossing <i>(n. vạch kẻ đường)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Crosswalk</i> (noun) = vạch qua đường. <b>Grammar</b>: Anh-Mỹ; Anh-Anh <i>zebra crossing</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Cross at the <b>crosswalk</b>.",
+    "vi": "Qua đường ở <b>vạch qua đường</b>."
+   }
+  },
+  {
+   "word": "line",
+   "sense": "queue",
+   "pos": "noun",
+   "ipa": "/laɪn/",
+   "def_en": "A queue (American English).",
+   "def_vi": "Hàng người (Anh-Mỹ).",
+   "gloss_vi": "hàng (người xếp)",
+   "synonyms": "queue <i>(n. hàng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Line</i> (noun) = hàng (người xếp). <b>Grammar</b>: Anh-Mỹ; Anh-Anh <i>queue</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "There was a long <b>line</b> at the cinema.",
+    "vi": "Có một <b>hàng</b> dài ở rạp."
+   }
+  },
+  {
+   "word": "vacation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/vəˈkeɪʃn/",
+   "def_en": "A holiday (American English).",
+   "def_vi": "Kỳ nghỉ (Anh-Mỹ).",
+   "gloss_vi": "kỳ nghỉ",
+   "synonyms": "holiday <i>(n. kỳ nghỉ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Vacation</i> (noun) = kỳ nghỉ. <b>Grammar</b>: Anh-Mỹ; Anh-Anh <i>holiday</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We went on <b>vacation</b> to Florida.",
+    "vi": "Chúng tôi đi <b>nghỉ</b> ở Florida."
+   }
+  },
+  {
+   "word": "parking lot",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɑːkɪŋ lɒt/",
+   "def_en": "A car park (American English).",
+   "def_vi": "Bãi đỗ xe (Anh-Mỹ).",
+   "gloss_vi": "bãi đỗ xe",
+   "synonyms": "car park <i>(n. bãi đỗ xe)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Parking lot</i> (noun) = bãi đỗ xe. <b>Grammar</b>: Anh-Mỹ; Anh-Anh <i>car park</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>parking lot</b> is full.",
+    "vi": "<b>Bãi đỗ xe</b> đã kín."
+   }
+  },
+  {
+   "word": "trunk",
+   "sense": "car",
+   "pos": "noun",
+   "ipa": "/trʌŋk/",
+   "def_en": "The boot of a car (American English).",
+   "def_vi": "Cốp xe (Anh-Mỹ).",
+   "gloss_vi": "cốp xe",
+   "synonyms": "boot <i>(n. cốp xe)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Trunk</i> (noun) = cốp xe. <b>Grammar</b>: Anh-Mỹ; Anh-Anh <i>boot</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Put the cases in the <b>trunk</b>.",
+    "vi": "Để vali vào <b>cốp xe</b>."
+   }
+  },
+  {
+   "word": "hood",
+   "sense": "car",
+   "pos": "noun",
+   "ipa": "/hʊd/",
+   "def_en": "The bonnet of a car (American English).",
+   "def_vi": "Nắp ca-pô (Anh-Mỹ).",
+   "gloss_vi": "nắp ca-pô",
+   "synonyms": "bonnet <i>(n. nắp ca-pô)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hood</i> (noun) = nắp ca-pô. <b>Grammar</b>: Anh-Mỹ; Anh-Anh <i>bonnet</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Open the <b>hood</b> and check the engine.",
+    "vi": "Mở <b>nắp ca-pô</b> ra xem máy."
+   }
+  },
+  {
+   "word": "freeway",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈfriːweɪ/",
+   "def_en": "A motorway (American English).",
+   "def_vi": "Đường cao tốc (Anh-Mỹ).",
+   "gloss_vi": "đường cao tốc",
+   "synonyms": "interstate <i>(n. xa lộ liên bang)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Freeway</i> (noun) = đường cao tốc. <b>Grammar</b>: Anh-Mỹ; cũng <i>interstate</i>; Anh-Anh <i>motorway</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We drove on the <b>freeway</b>.",
+    "vi": "Chúng tôi lái xe trên <b>đường cao tốc</b>."
+   }
+  },
+  {
+   "word": "one-way trip",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌwʌn weɪ ˈtrɪp/",
+   "def_en": "A single ticket or journey (American English).",
+   "def_vi": "Vé một chiều (Anh-Mỹ).",
+   "gloss_vi": "chuyến một chiều",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "round trip <i>(n. khứ hồi)</i>",
+   "grammar_vi": "<i>One-way trip</i> (noun) = chuyến một chiều. <b>Grammar</b>: Anh-Mỹ; Anh-Anh <i>single</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>one-way trip</b> to Boston",
+    "vi": "Một vé <b>một chiều</b> đến Boston."
+   }
+  },
+  {
+   "word": "round trip",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌraʊnd ˈtrɪp/",
+   "def_en": "A return ticket or journey (American English).",
+   "def_vi": "Vé khứ hồi (Anh-Mỹ).",
+   "gloss_vi": "chuyến khứ hồi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "one-way trip <i>(n. một chiều)</i>",
+   "grammar_vi": "<i>Round trip</i> (noun) = chuyến khứ hồi. <b>Grammar</b>: Anh-Mỹ; Anh-Anh <i>return</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>round trip</b> to Chicago",
+    "vi": "Một vé <b>khứ hồi</b> đến Chicago."
+   }
+  },
+  {
+   "word": "railway car",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈreɪlweɪ kɑː(r)/",
+   "def_en": "A railway carriage (American English).",
+   "def_vi": "Toa tàu (Anh-Mỹ).",
+   "gloss_vi": "toa tàu",
+   "synonyms": "carriage <i>(n. toa)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Railway car</i> (noun) = toa tàu. <b>Grammar</b>: Anh-Mỹ; Anh-Anh <i>railway carriage</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The train has ten <b>railway cars</b>.",
+    "vi": "Đoàn tàu có mười <b>toa</b>."
+   }
+  },
+  {
+   "word": "subway",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsʌbweɪ/",
+   "def_en": "The underground railway (American English).",
+   "def_vi": "Tàu điện ngầm (Anh-Mỹ).",
+   "gloss_vi": "tàu điện ngầm",
+   "synonyms": "underground <i>(n. tàu điện ngầm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Subway</i> (noun) = tàu điện ngầm. <b>Grammar</b>: Anh-Mỹ; ở Anh <i>subway</i> = đường hầm đi bộ.",
+   "ex_kit": true,
+   "example": {
+    "en": "I take the <b>subway</b> to work.",
+    "vi": "Tôi đi làm bằng <b>tàu điện ngầm</b>."
+   }
+  },
+  {
+   "word": "garbage",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡɑːbɪdʒ/",
+   "def_en": "Rubbish (American English).",
+   "def_vi": "Rác (Anh-Mỹ).",
+   "gloss_vi": "rác",
+   "synonyms": "trash <i>(n. rác)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Garbage</i> (noun) = rác. <b>Grammar</b>: Anh-Mỹ; cũng <i>trash</i>; Anh-Anh <i>rubbish</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Take out the <b>garbage</b>.",
+    "vi": "Đổ <b>rác</b> đi."
+   }
+  },
+  {
+   "word": "elevator",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈelɪveɪtə(r)/",
+   "def_en": "A lift (American English).",
+   "def_vi": "Thang máy (Anh-Mỹ).",
+   "gloss_vi": "thang máy",
+   "synonyms": "lift <i>(n. thang máy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Elevator</i> (noun) = thang máy. <b>Grammar</b>: Anh-Mỹ; Anh-Anh <i>lift</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Take the <b>elevator</b> to the tenth floor.",
+    "vi": "Đi <b>thang máy</b> lên tầng mười."
+   }
+  },
+  {
+   "word": "eraser",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɪˈreɪzə(r)/",
+   "def_en": "A rubber for removing pencil marks (American English).",
+   "def_vi": "Cục tẩy (Anh-Mỹ).",
+   "gloss_vi": "cục tẩy",
+   "synonyms": "rubber <i>(n. cục tẩy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Eraser</i> (noun) = cục tẩy. <b>Grammar</b>: Anh-Mỹ; Anh-Anh <i>rubber</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Can I borrow your <b>eraser</b>?",
+    "vi": "Cho tôi mượn <b>cục tẩy</b>."
+   }
+  },
+  {
+   "word": "apartment",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈpɑːtmənt/",
+   "def_en": "A flat (American English).",
+   "def_vi": "Căn hộ (Anh-Mỹ).",
+   "gloss_vi": "căn hộ",
+   "synonyms": "flat <i>(n. căn hộ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Apartment</i> (noun) = căn hộ. <b>Grammar</b>: Anh-Mỹ; Anh-Anh <i>flat</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "They live in a small <b>apartment</b>.",
+    "vi": "Họ sống trong một <b>căn hộ</b> nhỏ."
+   }
+  },
+  {
+   "word": "closet",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈklɒzɪt/",
+   "def_en": "A wardrobe (American English).",
+   "def_vi": "Tủ quần áo (Anh-Mỹ).",
+   "gloss_vi": "tủ quần áo",
+   "synonyms": "wardrobe <i>(n. tủ quần áo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Closet</i> (noun) = tủ quần áo. <b>Grammar</b>: Anh-Mỹ; Anh-Anh <i>wardrobe</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Hang your coat in the <b>closet</b>.",
+    "vi": "Treo áo vào <b>tủ</b>."
+   }
+  },
+  {
+   "word": "yard",
+   "sense": "garden",
+   "pos": "noun",
+   "ipa": "/jɑːd/",
+   "def_en": "A garden (American English).",
+   "def_vi": "Vườn (Anh-Mỹ).",
+   "gloss_vi": "sân vườn",
+   "synonyms": "garden <i>(n. vườn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Yard</i> (noun) = sân vườn. <b>Grammar</b>: Anh-Mỹ; Anh-Anh <i>garden</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The kids are playing in the <b>yard</b>.",
+    "vi": "Bọn trẻ chơi ngoài <b>sân</b>."
+   }
+  },
+  {
+   "word": "drapes",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dreɪps/",
+   "def_en": "Curtains (American English).",
+   "def_vi": "Rèm cửa (Anh-Mỹ).",
+   "gloss_vi": "rèm cửa",
+   "synonyms": "curtains <i>(n. rèm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Drapes</i> (noun) = rèm cửa. <b>Grammar</b>: Anh-Mỹ; Anh-Anh <i>curtains</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Close the <b>drapes</b>.",
+    "vi": "Kéo <b>rèm</b> lại."
+   }
+  },
+  {
+   "word": "flashlight",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈflæʃlaɪt/",
+   "def_en": "A torch (American English).",
+   "def_vi": "Đèn pin (Anh-Mỹ).",
+   "gloss_vi": "đèn pin",
+   "synonyms": "torch <i>(n. đèn pin)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Flashlight</i> (noun) = đèn pin. <b>Grammar</b>: Anh-Mỹ; Anh-Anh <i>torch</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I need a <b>flashlight</b>; the power’s off.",
+    "vi": "Tôi cần <b>đèn pin</b>; mất điện rồi."
+   }
+  },
+  {
+   "word": "French fries",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌfrentʃ ˈfraɪz/",
+   "def_en": "Chips (American English).",
+   "def_vi": "Khoai tây chiên (Anh-Mỹ).",
+   "gloss_vi": "khoai tây chiên",
+   "synonyms": "chips <i>(n. khoai tây chiên)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>French fries</i> (noun) = khoai tây chiên. <b>Grammar</b>: Anh-Mỹ; Anh-Anh <i>chips</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "a burger with <b>French fries</b>",
+    "vi": "Một chiếc burger với <b>khoai tây chiên</b>."
+   }
+  },
+  {
+   "word": "Scotch tape",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌskɒtʃ ˈteɪp/",
+   "def_en": "Sellotape (American English).",
+   "def_vi": "Băng dính trong (Anh-Mỹ).",
+   "gloss_vi": "băng dính",
+   "synonyms": "Sellotape <i>(n. băng dính)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Scotch tape</i> (noun) = băng dính. <b>Grammar</b>: Anh-Mỹ; Anh-Anh <i>Sellotape</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Stick it with <b>Scotch tape</b>.",
+    "vi": "Dán bằng <b>băng dính</b>."
+   }
+  },
+  {
+   "word": "cookie",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkʊki/",
+   "def_en": "A biscuit (American English).",
+   "def_vi": "Bánh quy (Anh-Mỹ).",
+   "gloss_vi": "bánh quy",
+   "synonyms": "biscuit <i>(n. bánh quy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cookie</i> (noun) = bánh quy. <b>Grammar</b>: Anh-Mỹ; Anh-Anh <i>biscuit</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "a chocolate chip <b>cookie</b>",
+    "vi": "Một chiếc <b>bánh quy</b> sô-cô-la."
+   }
+  },
+  {
+   "word": "candy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkændi/",
+   "def_en": "Sweets (American English).",
+   "def_vi": "Kẹo (Anh-Mỹ).",
+   "gloss_vi": "kẹo",
+   "synonyms": "sweets <i>(n. kẹo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Candy</i> (noun) = kẹo. <b>Grammar</b>: Anh-Mỹ; Anh-Anh <i>sweets</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Kids eat too much <b>candy</b>.",
+    "vi": "Bọn trẻ ăn quá nhiều <b>kẹo</b>."
+   }
+  },
+  {
+   "word": "rest room",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈrest ruːm/",
+   "def_en": "A public toilet (American English).",
+   "def_vi": "Nhà vệ sinh công cộng (Anh-Mỹ).",
+   "gloss_vi": "nhà vệ sinh",
+   "synonyms": "bathroom <i>(n. phòng vệ sinh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rest room</i> (noun) = nhà vệ sinh. <b>Grammar</b>: Anh-Mỹ; Anh-Anh <i>toilet/WC</i>; Canada <i>wash room</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Where’s the <b>rest room</b>?",
+    "vi": "<b>Nhà vệ sinh</b> ở đâu?"
+   }
+  },
+  {
+   "word": "diaper",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈdaɪpə(r)/",
+   "def_en": "A nappy (American English).",
+   "def_vi": "Tã (Anh-Mỹ).",
+   "gloss_vi": "tã",
+   "synonyms": "nappy <i>(n. tã)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Diaper</i> (noun) = tã. <b>Grammar</b>: Anh-Mỹ; Anh-Anh <i>nappy</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Change the baby’s <b>diaper</b>.",
+    "vi": "Thay <b>tã</b> cho em bé."
+   }
+  },
+  {
+   "word": "pantyhose",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpæntihəʊz/",
+   "def_en": "Tights (American English).",
+   "def_vi": "Quần tất (Anh-Mỹ).",
+   "gloss_vi": "quần tất",
+   "synonyms": "tights <i>(n. quần tất)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pantyhose</i> (noun) = quần tất. <b>Grammar</b>: Anh-Mỹ; Anh-Anh <i>tights</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "She wore black <b>pantyhose</b>.",
+    "vi": "Cô ấy mặc <b>quần tất</b> đen."
+   }
+  },
+  {
+   "word": "undershirt",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈʌndəʃɜːt/",
+   "def_en": "A vest worn under a shirt (American English).",
+   "def_vi": "Áo lót (Anh-Mỹ).",
+   "gloss_vi": "áo lót",
+   "synonyms": "vest <i>(n. áo lót (Anh-Anh))</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Undershirt</i> (noun) = áo lót. <b>Grammar</b>: Anh-Mỹ; Anh-Anh <i>vest</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He wears an <b>undershirt</b> under his shirt.",
+    "vi": "Anh ấy mặc <b>áo lót</b> dưới sơ mi."
+   }
+  },
+  {
+   "word": "pants",
+   "sense": "trousers",
+   "pos": "noun",
+   "ipa": "/pænts/",
+   "def_en": "Trousers (American English).",
+   "def_vi": "Quần dài (Anh-Mỹ).",
+   "gloss_vi": "quần dài",
+   "synonyms": "trousers <i>(n. quần dài)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pants</i> (noun) = quần dài. <b>Grammar</b>: ở Anh <i>pants</i> = quần lót.",
+   "ex_kit": true,
+   "example": {
+    "en": "He’s wearing blue <b>pants</b>.",
+    "vi": "Anh ấy mặc <b>quần dài</b> xanh."
+   }
+  },
+  {
+   "word": "vest",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/vest/",
+   "def_en": "A waistcoat (American English).",
+   "def_vi": "Áo gi-lê (Anh-Mỹ).",
+   "gloss_vi": "áo gi-lê",
+   "synonyms": "waistcoat <i>(n. áo gi-lê)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Vest</i> (noun) = áo gi-lê. <b>Grammar</b>: ở Anh <i>vest</i> = áo lót.",
+   "ex_kit": true,
+   "example": {
+    "en": "a three-piece suit with a <b>vest</b>",
+    "vi": "Một bộ vest ba mảnh có <b>áo gi-lê</b>."
+   }
+  },
+  {
+   "word": "the first floor",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ðə ˌfɜːst ˈflɔː(r)/",
+   "def_en": "The ground floor (American English); the floor above the ground floor (British English).",
+   "def_vi": "Tầng trệt (Mỹ); tầng một (Anh).",
+   "gloss_vi": "tầng trệt (Mỹ) / tầng một (Anh)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The first floor</i> (noun) = tầng trệt (Mỹ) / tầng một (Anh). <b>Grammar</b>: dễ nhầm giữa Anh và Mỹ.",
+   "ex_kit": true,
+   "example": {
+    "en": "In the US, <b>the first floor</b> is the ground floor.",
+    "vi": "Ở Mỹ, <b>the first floor</b> là tầng trệt."
+   }
+  },
+  {
+   "word": "check",
+   "sense": "bill",
+   "pos": "noun",
+   "ipa": "/tʃek/",
+   "def_en": "The bill in a restaurant (American English).",
+   "def_vi": "Hóa đơn ở nhà hàng (Anh-Mỹ).",
+   "gloss_vi": "hóa đơn",
+   "synonyms": "bill <i>(n. hóa đơn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Check</i> (noun) = hóa đơn. <b>Grammar</b>: Anh-Mỹ; Anh-Anh <i>bill</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Can we have the <b>check</b>, please?",
+    "vi": "Cho xin <b>hóa đơn</b>."
+   }
+  },
+  {
+   "word": "bill",
+   "sense": "banknote",
+   "pos": "noun",
+   "ipa": "/bɪl/",
+   "def_en": "A banknote (American English).",
+   "def_vi": "Tờ tiền giấy (Anh-Mỹ).",
+   "gloss_vi": "tờ tiền",
+   "synonyms": "note <i>(n. tờ tiền)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bill</i> (noun) = tờ tiền. <b>Grammar</b>: Anh-Mỹ; Anh-Anh <i>note</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "a twenty-dollar <b>bill</b>",
+    "vi": "Một <b>tờ</b> 20 đô."
+   }
+  },
+  {
+   "word": "wash up",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌwɒʃ ˈʌp/",
+   "def_en": "To wash the dishes (British English); to wash your hands (American English).",
+   "def_vi": "Rửa bát (Anh); rửa tay (Mỹ).",
+   "gloss_vi": "rửa bát (Anh) / rửa tay (Mỹ)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wash up</i> (verb) = rửa bát (Anh) / rửa tay (Mỹ). <b>Grammar</b>: dễ nhầm giữa Anh và Mỹ.",
+   "ex_kit": true,
+   "example": {
+    "en": "In Britain, to <b>wash up</b> means to wash the dishes.",
+    "vi": "Ở Anh, <b>wash up</b> nghĩa là rửa bát."
+   }
+  }
+ ]
+}

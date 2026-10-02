@@ -1,0 +1,534 @@
+{
+ "book": "upp",
+ "unit": 100,
+ "title_vi": "Tiếng Anh tiêu đề báo",
+ "theory_html": "<p><b>A. The grammar of headlines</b><br><i>A. Ngữ pháp tiêu đề báo</i></p> <p>Newspaper headlines try to catch the reader’s eye by using as few words as possible. Grammar words like articles or auxiliary verbs are often left out (<b>EARLY CUT IN INTEREST RATES FORECAST</b>). A present simple form of the verb is used (<b>MAYOR OPENS HOSPITAL</b>). The infinitive is used to express the fact that something is going to happen in the future (<b>PRESIDENT TO VISIT FLOOD AREAS</b>).</p><p><i>Tiêu đề dùng ít từ nhất có thể: lược mạo từ, trợ động từ; dùng hiện tại đơn; dùng động từ nguyên mẫu cho tương lai.</i></p> <p><b>B. Short dramatic words</b><br><i>B. Từ ngắn, kịch tính</i></p> <p>Newspapers usually prefer words that are shorter and sound more dramatic than ordinary English words: <b>aid, axe, back, bar, bid, blast, blaze, boost, boss/head, clash, curb, cut, drama, drive, gems, go-ahead, hit, key, link, move, ordeal, oust, plea, pledge, ploy, poll, probe, quit, riddle, strife, talks, threat, vow, wed</b>. Many can be used either as nouns or verbs. Headlines often use abbreviations, e.g. <b>PM, MP</b>.</p><p><i>Báo chí ưa dùng từ ngắn và kịch tính; nhiều từ dùng được cả danh từ và động từ. Hay dùng viết tắt như <b>PM, MP</b>.</i></p> <p><b>C. Jokes in headlines</b><br><i>C. Chơi chữ trong tiêu đề</i></p> <p>Some newspapers enjoy making jokes by playing with words or punning: <b>TORRENTIAL RAIN IN MOST ARIAS</b> (a wet open-air operatic concert); <b>WOMAN FROM MARS TO BE FIRST BRITON IN SPACE</b> (a woman working at the Mars chocolate company). The word ‘Briton’ is almost exclusively found in newspapers.</p><p><i>Một số báo chơi chữ trong tiêu đề. Từ ‘Briton’ hầu như chỉ dùng trên báo.</i></p>",
+ "items": [
+  {
+   "word": "aid",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/eɪd/",
+   "def_en": "Help (headline word).",
+   "def_vi": "Sự giúp đỡ (từ tiêu đề).",
+   "gloss_vi": "viện trợ",
+   "synonyms": "help <i>(n. giúp đỡ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Aid</i> (noun) = viện trợ. <b>Grammar</b>: dùng như danh từ hoặc động từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Aid</b> for flood victims",
+    "vi": "<b>Viện trợ</b> cho vùng lũ."
+   }
+  },
+  {
+   "word": "axe",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/æks/",
+   "def_en": "To cut or remove (headline word).",
+   "def_vi": "Cắt bỏ (từ tiêu đề).",
+   "gloss_vi": "cắt bỏ",
+   "synonyms": "cut <i>(v. cắt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Axe</i> (verb) = cắt bỏ. <b>Grammar</b>: dùng như danh từ hoặc động từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "Factory to <b>axe</b> 500 jobs",
+    "vi": "Nhà máy <b>cắt</b> 500 việc làm."
+   }
+  },
+  {
+   "word": "back",
+   "sense": "support",
+   "pos": "verb",
+   "ipa": "/bæk/",
+   "def_en": "To support (headline word).",
+   "def_vi": "Ủng hộ (từ tiêu đề).",
+   "gloss_vi": "ủng hộ",
+   "synonyms": "support <i>(v. ủng hộ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Back</i> (verb) = ủng hộ. <b>Grammar</b>: động từ trong tiêu đề.",
+   "ex_kit": true,
+   "example": {
+    "en": "PM <b>backs</b> new plan",
+    "vi": "Thủ tướng <b>ủng hộ</b> kế hoạch mới."
+   }
+  },
+  {
+   "word": "bar",
+   "sense": "forbid",
+   "pos": "verb",
+   "ipa": "/bɑː(r)/",
+   "def_en": "To exclude or forbid (headline word).",
+   "def_vi": "Loại trừ, cấm (từ tiêu đề).",
+   "gloss_vi": "cấm",
+   "synonyms": "ban <i>(v. cấm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bar</i> (verb) = cấm. <b>Grammar</b>: dùng như danh từ hoặc động từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "Player <b>barred</b> for three games",
+    "vi": "Cầu thủ bị <b>cấm</b> thi đấu ba trận."
+   }
+  },
+  {
+   "word": "bid",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bɪd/",
+   "def_en": "An attempt (headline word).",
+   "def_vi": "Nỗ lực (từ tiêu đề).",
+   "gloss_vi": "nỗ lực",
+   "synonyms": "attempt <i>(n. nỗ lực)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bid</i> (noun) = nỗ lực. <b>Grammar</b>: dùng như danh từ hoặc động từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Bid</b> to save local hospital",
+    "vi": "<b>Nỗ lực</b> cứu bệnh viện địa phương."
+   }
+  },
+  {
+   "word": "blast",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/blɑːst/",
+   "def_en": "An explosion (headline word).",
+   "def_vi": "Vụ nổ (từ tiêu đề).",
+   "gloss_vi": "vụ nổ",
+   "synonyms": "explosion <i>(n. vụ nổ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Blast</i> (noun) = vụ nổ. <b>Grammar</b>: dùng như danh từ hoặc động từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Blast</b> at chemical factory",
+    "vi": "<b>Vụ nổ</b> tại nhà máy hóa chất."
+   }
+  },
+  {
+   "word": "blaze",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/bleɪz/",
+   "def_en": "A fire (headline word).",
+   "def_vi": "Đám cháy (từ tiêu đề).",
+   "gloss_vi": "đám cháy",
+   "synonyms": "fire <i>(n. đám cháy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Blaze</i> (noun) = đám cháy. <b>Grammar</b>: dùng như danh từ hoặc động từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Blaze</b> destroys hotel",
+    "vi": "<b>Đám cháy</b> thiêu rụi khách sạn."
+   }
+  },
+  {
+   "word": "boost",
+   "sense": "noun",
+   "pos": "noun",
+   "ipa": "/buːst/",
+   "def_en": "An incentive or encouragement (headline word).",
+   "def_vi": "Sự thúc đẩy (từ tiêu đề).",
+   "gloss_vi": "cú hích",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Boost</i> (noun) = cú hích. <b>Grammar</b>: dùng như danh từ hoặc động từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Boost</b> for tourism",
+    "vi": "<b>Cú hích</b> cho ngành du lịch."
+   }
+  },
+  {
+   "word": "clash",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/klæʃ/",
+   "def_en": "A dispute (headline word).",
+   "def_vi": "Cuộc tranh chấp (từ tiêu đề).",
+   "gloss_vi": "xung đột",
+   "synonyms": "dispute <i>(n. tranh chấp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Clash</i> (noun) = xung đột. <b>Grammar</b>: dùng như danh từ hoặc động từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Clash</b> over budget",
+    "vi": "<b>Xung đột</b> về ngân sách."
+   }
+  },
+  {
+   "word": "curb",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kɜːb/",
+   "def_en": "A restraint or limit (headline word).",
+   "def_vi": "Sự hạn chế (từ tiêu đề).",
+   "gloss_vi": "hạn chế",
+   "synonyms": "limit <i>(n. giới hạn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Curb</i> (noun) = hạn chế. <b>Grammar</b>: dùng như danh từ hoặc động từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "New <b>curbs</b> on immigration",
+    "vi": "<b>Hạn chế</b> mới đối với nhập cư."
+   }
+  },
+  {
+   "word": "drive",
+   "sense": "campaign",
+   "pos": "noun",
+   "ipa": "/draɪv/",
+   "def_en": "A campaign or effort (headline word).",
+   "def_vi": "Chiến dịch, nỗ lực (từ tiêu đề).",
+   "gloss_vi": "chiến dịch",
+   "synonyms": "campaign <i>(n. chiến dịch)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Drive</i> (noun) = chiến dịch. <b>Grammar</b>: dùng như danh từ hoặc động từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Drive</b> to recruit more teachers",
+    "vi": "<b>Chiến dịch</b> tuyển thêm giáo viên."
+   }
+  },
+  {
+   "word": "gems",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dʒemz/",
+   "def_en": "Jewels (headline word).",
+   "def_vi": "Đá quý (từ tiêu đề).",
+   "gloss_vi": "đá quý",
+   "synonyms": "jewels <i>(n. trang sức)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gems</i> (noun) = đá quý. <b>Grammar</b>: danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Gems</b> stolen from museum",
+    "vi": "<b>Đá quý</b> bị đánh cắp từ bảo tàng."
+   }
+  },
+  {
+   "word": "go-ahead",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈɡəʊ əhed/",
+   "def_en": "Approval (headline word).",
+   "def_vi": "Sự chấp thuận (từ tiêu đề).",
+   "gloss_vi": "bật đèn xanh",
+   "synonyms": "approval <i>(n. chấp thuận)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Go-ahead</i> (noun) = bật đèn xanh. <b>Grammar</b>: <i>give sth the go-ahead</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Go-ahead</b> for new airport",
+    "vi": "<b>Bật đèn xanh</b> cho sân bay mới."
+   }
+  },
+  {
+   "word": "hit",
+   "sense": "affect",
+   "pos": "verb",
+   "ipa": "/hɪt/",
+   "def_en": "To affect badly (headline word).",
+   "def_vi": "Ảnh hưởng xấu (từ tiêu đề).",
+   "gloss_vi": "ảnh hưởng nặng",
+   "synonyms": "affect <i>(v. ảnh hưởng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hit</i> (verb) = ảnh hưởng nặng. <b>Grammar</b>: động từ trong tiêu đề.",
+   "ex_kit": true,
+   "example": {
+    "en": "Snowstorms <b>hit</b> traffic",
+    "vi": "Bão tuyết <b>ảnh hưởng nặng</b> đến giao thông."
+   }
+  },
+  {
+   "word": "key",
+   "sense": "vital",
+   "pos": "adjective",
+   "ipa": "/kiː/",
+   "def_en": "Essential, vital (headline word).",
+   "def_vi": "Thiết yếu (từ tiêu đề).",
+   "gloss_vi": "then chốt",
+   "synonyms": "vital <i>(adj. thiết yếu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Key</i> (adjective) = then chốt. <b>Grammar</b>: tính từ trong tiêu đề.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Key</b> witness speaks",
+    "vi": "Nhân chứng <b>then chốt</b> lên tiếng."
+   }
+  },
+  {
+   "word": "move",
+   "sense": "step",
+   "pos": "noun",
+   "ipa": "/muːv/",
+   "def_en": "A step towards a desired end (headline word).",
+   "def_vi": "Bước tiến tới mục tiêu (từ tiêu đề).",
+   "gloss_vi": "động thái",
+   "synonyms": "step <i>(n. bước)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Move</i> (noun) = động thái. <b>Grammar</b>: dùng như danh từ hoặc động từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Move</b> to cut taxes",
+    "vi": "<b>Động thái</b> cắt giảm thuế."
+   }
+  },
+  {
+   "word": "ordeal",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ɔːˈdiːl/",
+   "def_en": "A painful experience (headline word).",
+   "def_vi": "Trải nghiệm đau đớn (từ tiêu đề).",
+   "gloss_vi": "thử thách khắc nghiệt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ordeal</i> (noun) = thử thách khắc nghiệt. <b>Grammar</b>: danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "Climbers’ <b>ordeal</b> on mountain",
+    "vi": "<b>Thử thách khắc nghiệt</b> của người leo núi trên đỉnh núi."
+   }
+  },
+  {
+   "word": "oust",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/aʊst/",
+   "def_en": "To push out or remove (headline word).",
+   "def_vi": "Đẩy ra, phế truất (từ tiêu đề).",
+   "gloss_vi": "hất cẳng",
+   "synonyms": "remove <i>(v. loại bỏ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Oust</i> (verb) = hất cẳng. <b>Grammar</b>: động từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "Chairman <b>ousted</b>",
+    "vi": "Chủ tịch bị <b>hất cẳng</b>."
+   }
+  },
+  {
+   "word": "plea",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pliː/",
+   "def_en": "A request (headline word).",
+   "def_vi": "Lời thỉnh cầu (từ tiêu đề).",
+   "gloss_vi": "lời kêu gọi",
+   "synonyms": "request <i>(n. yêu cầu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Plea</i> (noun) = lời kêu gọi. <b>Grammar</b>: danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "Mother’s <b>plea</b> for missing child",
+    "vi": "<b>Lời kêu gọi</b> của mẹ đứa bé mất tích."
+   }
+  },
+  {
+   "word": "pledge",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pledʒ/",
+   "def_en": "A promise (headline word).",
+   "def_vi": "Lời hứa (từ tiêu đề).",
+   "gloss_vi": "cam kết",
+   "synonyms": "promise <i>(n. lời hứa)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pledge</i> (noun) = cam kết. <b>Grammar</b>: dùng như danh từ hoặc động từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "PM’s <b>pledge</b> on health",
+    "vi": "<b>Cam kết</b> của Thủ tướng về y tế."
+   }
+  },
+  {
+   "word": "ploy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/plɔɪ/",
+   "def_en": "A clever activity (headline word).",
+   "def_vi": "Mưu mẹo (từ tiêu đề).",
+   "gloss_vi": "mánh khóe",
+   "synonyms": "trick <i>(n. mẹo)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ploy</i> (noun) = mánh khóe. <b>Grammar</b>: danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "Party’s new <b>ploy</b> to win votes",
+    "vi": "<b>Mánh khóe</b> mới của đảng để giành phiếu."
+   }
+  },
+  {
+   "word": "poll",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pəʊl/",
+   "def_en": "An election or public opinion survey (headline word).",
+   "def_vi": "Bầu cử, thăm dò dư luận (từ tiêu đề).",
+   "gloss_vi": "cuộc thăm dò",
+   "synonyms": "survey <i>(n. khảo sát)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Poll</i> (noun) = cuộc thăm dò. <b>Grammar</b>: dùng như danh từ hoặc động từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Poll</b> shows government behind",
+    "vi": "<b>Thăm dò</b> cho thấy chính phủ tụt hạng."
+   }
+  },
+  {
+   "word": "probe",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/prəʊb/",
+   "def_en": "An investigation (headline word).",
+   "def_vi": "Cuộc điều tra (từ tiêu đề).",
+   "gloss_vi": "cuộc điều tra",
+   "synonyms": "investigation <i>(n. điều tra)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Probe</i> (noun) = cuộc điều tra. <b>Grammar</b>: dùng như danh từ hoặc động từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Probe</b> into train crash",
+    "vi": "<b>Điều tra</b> vụ tai nạn tàu."
+   }
+  },
+  {
+   "word": "quit",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kwɪt/",
+   "def_en": "To leave or resign (headline word).",
+   "def_vi": "Rời bỏ, từ chức (từ tiêu đề).",
+   "gloss_vi": "từ chức",
+   "synonyms": "resign <i>(v. từ chức)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Quit</i> (verb) = từ chức. <b>Grammar</b>: bất quy tắc: quit–quit.",
+   "ex_kit": true,
+   "example": {
+    "en": "Minister <b>quits</b>",
+    "vi": "Bộ trưởng <b>từ chức</b>."
+   }
+  },
+  {
+   "word": "riddle",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈrɪdl/",
+   "def_en": "A mystery (headline word).",
+   "def_vi": "Bí ẩn (từ tiêu đề).",
+   "gloss_vi": "bí ẩn",
+   "synonyms": "mystery <i>(n. bí ẩn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Riddle</i> (noun) = bí ẩn. <b>Grammar</b>: danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "Missing boat <b>riddle</b>",
+    "vi": "<b>Bí ẩn</b> chiếc thuyền mất tích."
+   }
+  },
+  {
+   "word": "strife",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/straɪf/",
+   "def_en": "Conflict (headline word).",
+   "def_vi": "Xung đột (từ tiêu đề).",
+   "gloss_vi": "xung đột",
+   "synonyms": "conflict <i>(n. xung đột)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Strife</i> (noun) = xung đột. <b>Grammar</b>: không đếm được.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Strife</b> in ruling party",
+    "vi": "<b>Xung đột</b> trong đảng cầm quyền."
+   }
+  },
+  {
+   "word": "talks",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/tɔːks/",
+   "def_en": "Discussions (headline word).",
+   "def_vi": "Các cuộc thảo luận (từ tiêu đề).",
+   "gloss_vi": "đàm phán",
+   "synonyms": "discussions <i>(n. thảo luận)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Talks</i> (noun) = đàm phán. <b>Grammar</b>: số nhiều.",
+   "ex_kit": true,
+   "example": {
+    "en": "Peace <b>talks</b> resume",
+    "vi": "<b>Đàm phán</b> hòa bình được nối lại."
+   }
+  },
+  {
+   "word": "threat",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/θret/",
+   "def_en": "Danger (headline word).",
+   "def_vi": "Nguy hiểm (từ tiêu đề).",
+   "gloss_vi": "mối đe dọa",
+   "synonyms": "danger <i>(n. nguy hiểm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Threat</i> (noun) = mối đe dọa. <b>Grammar</b>: danh từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>Threat</b> to rainforest",
+    "vi": "<b>Mối đe dọa</b> với rừng mưa."
+   }
+  },
+  {
+   "word": "vow",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/vaʊ/",
+   "def_en": "A promise (headline word).",
+   "def_vi": "Lời thề (từ tiêu đề).",
+   "gloss_vi": "lời thề",
+   "synonyms": "pledge <i>(n. cam kết)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Vow</i> (noun) = lời thề. <b>Grammar</b>: dùng như danh từ hoặc động từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "New mayor’s <b>vow</b>",
+    "vi": "<b>Lời thề</b> của tân Thị trưởng."
+   }
+  },
+  {
+   "word": "wed",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/wed/",
+   "def_en": "To marry (headline word).",
+   "def_vi": "Kết hôn (từ tiêu đề).",
+   "gloss_vi": "cưới",
+   "synonyms": "marry <i>(v. kết hôn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wed</i> (verb) = cưới. <b>Grammar</b>: động từ nguyên mẫu = sắp xảy ra.",
+   "ex_kit": true,
+   "example": {
+    "en": "Pop star to <b>wed</b>",
+    "vi": "Ngôi sao nhạc pop <b>cưới</b>."
+   }
+  },
+  {
+   "word": "Briton",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbrɪtn/",
+   "def_en": "A British person (almost only in newspapers).",
+   "def_vi": "Người Anh (hầu như chỉ dùng trên báo).",
+   "gloss_vi": "người Anh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Briton</i> (noun) = người Anh. <b>Grammar</b>: hầu như chỉ thấy trên báo.",
+   "example": {
+    "en": "WOMAN FROM MARS TO BE FIRST <b>BRITON</b> IN SPACE",
+    "vi": "Người phụ nữ từ Mars sẽ là <b>người Anh</b> đầu tiên lên vũ trụ."
+   }
+  }
+ ]
+}
