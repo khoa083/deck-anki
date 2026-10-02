@@ -1,0 +1,296 @@
+{
+ "book": "bus",
+ "unit": 55,
+ "title_vi": "Cuộc họp 1: các loại cuộc họp",
+ "theory_html": "<p><b>A. Word combinations with ‘meeting’</b><br><i>A. Kết hợp với ‘meeting’</i></p> <p><b>arrange / set up / fix a meeting, bring forward, put back / put off / postpone, call off / cancel, run / chair, attend, miss</b>. Note: <b>bring a meeting forward / bring forward a meeting</b>, but only <b>bring it forward</b> (same for <b>put back, call off</b>).</p><p><i><b>tổ chức, đưa lên sớm, hoãn, hủy, chủ trì, tham dự, vắng mặt</b>.</i></p> <p><b>B. Types of meeting</b><br><i>B. Các loại cuộc họp</i></p> <p><b>chat, brainstorming, project meeting / team meeting, department(al) meeting, meeting with suppliers, meeting with a customer, board meeting, AGM (annual general meeting; AmE annual meeting), EGM (extraordinary general meeting)</b>.</p><p><i><b>trò chuyện, động não, họp dự án/nhóm, họp phòng, họp nhà cung cấp, họp khách hàng, họp hội đồng quản trị, đại hội cổ đông thường niên, đại hội cổ đông bất thường</b>.</i></p> <p><b>C. How was the meeting?</b><br><i>C. Cuộc họp thế nào?</i></p> <p><b>productive, a waste of time, useful discussions, cover a lot of ground, ramble, wander off the point, show off, keep things moving, stick to the point</b>.</p><p><i><b>hiệu quả, phí thời gian, thảo luận hữu ích, bàn được nhiều việc, nói lan man, lạc đề, khoe khoang, giữ nhịp, bám sát vấn đề</b>.</i></p>",
+ "items": [
+  {
+   "word": "set up a meeting",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌset ʌp ə ˈmiːtɪŋ/",
+   "def_en": "To organize a meeting.",
+   "def_vi": "Tổ chức cuộc họp.",
+   "gloss_vi": "tổ chức cuộc họp",
+   "synonyms": "arrange a meeting <i>(v. sắp xếp cuộc họp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Set up a meeting</i> (verb) = tổ chức cuộc họp. <b>Collocations / chunks</b>: cũng <i>arrange / fix a meeting</i>.",
+   "example": {
+    "en": "arrange / <b>set up</b> / fix <b>a meeting</b> – organize a meeting",
+    "vi": "<b>Tổ chức</b> một cuộc họp."
+   }
+  },
+  {
+   "word": "bring forward",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌbrɪŋ ˈfɔːwəd/",
+   "def_en": "To make a meeting earlier than originally decided.",
+   "def_vi": "Đưa cuộc họp lên sớm hơn.",
+   "gloss_vi": "đưa lên sớm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "put back <i>(v. dời lại)</i>",
+   "grammar_vi": "<i>Bring forward</i> (verb) = đưa lên sớm. <b>Grammar</b>: <i>bring it forward</i> (không <i>bring forward it</i>).",
+   "example": {
+    "en": "<b>bring forward</b> a meeting – make a meeting earlier than originally decided",
+    "vi": "<b>Đưa</b> cuộc họp <b>lên sớm</b> hơn dự kiến."
+   }
+  },
+  {
+   "word": "postpone",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/pəˈspəʊn/",
+   "def_en": "To make a meeting later than originally planned.",
+   "def_vi": "Dời cuộc họp muộn hơn.",
+   "gloss_vi": "hoãn",
+   "synonyms": "put off <i>(v. hoãn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Postpone</i> (verb) = hoãn. <b>Grammar</b>: trang trọng hơn <i>put off</i>.",
+   "example": {
+    "en": "put back / put off / <b>postpone</b> a meeting – make a meeting later than originally planned",
+    "vi": "<b>Hoãn</b> cuộc họp."
+   }
+  },
+  {
+   "word": "cancel",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈkænsl/",
+   "def_en": "To decide not to have a meeting.",
+   "def_vi": "Quyết định không họp nữa.",
+   "gloss_vi": "hủy",
+   "synonyms": "call off <i>(v. hủy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cancel</i> (verb) = hủy. <b>Grammar</b>: Anh <i>cancelled</i>, Mỹ <i>canceled</i>.",
+   "example": {
+    "en": "call off / <b>cancel</b> a meeting – decide not to have a meeting",
+    "vi": "<b>Hủy</b> cuộc họp."
+   }
+  },
+  {
+   "word": "chair",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/tʃeə(r)/",
+   "def_en": "To be in charge of a meeting.",
+   "def_vi": "Phụ trách cuộc họp.",
+   "gloss_vi": "chủ trì",
+   "synonyms": "run <i>(v. điều hành)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Chair</i> (verb) = chủ trì. <b>Grammar</b>: danh từ <i>the chair</i>.",
+   "example": {
+    "en": "run / <b>chair</b> a meeting – be in charge of a meeting",
+    "vi": "Điều hành hay <b>chủ trì</b> cuộc họp."
+   }
+  },
+  {
+   "word": "attend",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈtend/",
+   "def_en": "To go to a meeting.",
+   "def_vi": "Đi họp.",
+   "gloss_vi": "tham dự",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "miss <i>(v. vắng mặt)</i>",
+   "grammar_vi": "<i>Attend</i> (verb) = tham dự. <b>Grammar</b>: danh từ <i>attendance</i>.",
+   "example": {
+    "en": "<b>attend</b> a meeting – go to a meeting",
+    "vi": "<b>Tham dự</b> cuộc họp."
+   }
+  },
+  {
+   "word": "brainstorming",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbreɪnstɔːmɪŋ/",
+   "def_en": "Producing as many ideas as possible, to evaluate later.",
+   "def_vi": "Đưa ra càng nhiều ý càng tốt, đánh giá sau.",
+   "gloss_vi": "động não",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Brainstorming</i> (noun) = động não. <b>Grammar</b>: động từ <i>brainstorm</i>.",
+   "example": {
+    "en": "<b>brainstorming</b> among colleagues where as many ideas are produced as possible, but are then evaluated later",
+    "vi": "<b>Động não</b> giữa đồng nghiệp để đưa ra nhiều ý."
+   }
+  },
+  {
+   "word": "board meeting",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈbɔːd ˌmiːtɪŋ/",
+   "def_en": "An official, formal meeting of a company’s directors.",
+   "def_vi": "Cuộc họp chính thức của các giám đốc.",
+   "gloss_vi": "họp hội đồng quản trị",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Board meeting</i> (noun) = họp hội đồng quản trị. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "<b>board meeting</b> – an official, formal meeting of a company’s directors",
+    "vi": "<b>Họp hội đồng quản trị</b> là cuộc họp chính thức của giám đốc."
+   }
+  },
+  {
+   "word": "AGM",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌeɪ dʒiː ˈem/",
+   "def_en": "Annual general meeting, where shareholders discuss the annual report.",
+   "def_vi": "Đại hội cổ đông thường niên.",
+   "gloss_vi": "đại hội cổ đông thường niên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>AGM</i> (noun) = đại hội cổ đông thường niên. <b>Grammar</b>: viết tắt; Mỹ <i>annual meeting</i>.",
+   "example": {
+    "en": "<b>AGM</b>: annual general meeting (BrE) / annual meeting (AmE) – where shareholders discuss the company’s annual report",
+    "vi": "<b>AGM</b> – cổ đông bàn về báo cáo thường niên."
+   }
+  },
+  {
+   "word": "EGM",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌiː dʒiː ˈem/",
+   "def_en": "Extraordinary general meeting, to discuss an important issue like a merger.",
+   "def_vi": "Đại hội cổ đông bất thường, bàn vấn đề quan trọng.",
+   "gloss_vi": "đại hội cổ đông bất thường",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>EGM</i> (noun) = đại hội cổ đông bất thường. <b>Grammar</b>: viết tắt.",
+   "example": {
+    "en": "<b>EGM</b>: extraordinary general meeting – a shareholders’ meeting to discuss an important issue such as a proposed merger",
+    "vi": "<b>EGM</b> bàn vấn đề quan trọng như sáp nhập."
+   }
+  },
+  {
+   "word": "productive",
+   "sense": "useful meeting",
+   "pos": "adjective",
+   "ipa": "/prəˈdʌktɪv/",
+   "def_en": "(Of a meeting) achieving a lot.",
+   "def_vi": "(Cuộc họp) đạt được nhiều.",
+   "gloss_vi": "hiệu quả",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Productive</i> (adjective) = hiệu quả. <b>Grammar</b>: danh từ <i>productivity</i>.",
+   "example": {
+    "en": "I thought it was very <b>productive</b>.",
+    "vi": "Tôi thấy cuộc họp rất <b>hiệu quả</b>."
+   }
+  },
+  {
+   "word": "a waste of time",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ə ˌweɪst əv ˈtaɪm/",
+   "def_en": "Something that achieves nothing useful.",
+   "def_vi": "Thứ chẳng được gì.",
+   "gloss_vi": "phí thời gian",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A waste of time</i> (noun) = phí thời gian. <b>Collocations / chunks</b>: cụm cố định.",
+   "example": {
+    "en": "Well, I thought it was <b>a waste of time</b>.",
+    "vi": "Tôi thấy đó là <b>phí thời gian</b>."
+   }
+  },
+  {
+   "word": "cover a lot of ground",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkʌvər ə ˌlɒt əv ˈɡraʊnd/",
+   "def_en": "To deal with many subjects.",
+   "def_vi": "Bàn nhiều chủ đề.",
+   "gloss_vi": "bàn được nhiều việc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cover a lot of ground</i> (verb) = bàn được nhiều việc. <b>Collocations / chunks</b>: thành ngữ.",
+   "example": {
+    "en": "We certainly <b>covered a lot of ground</b>.",
+    "vi": "Chắc chắn chúng ta đã <b>bàn được nhiều việc</b>."
+   }
+  },
+  {
+   "word": "ramble",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈræmbl/",
+   "def_en": "To talk for a long time in a confused way.",
+   "def_vi": "Nói dài lộn xộn.",
+   "gloss_vi": "nói lan man",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ramble</i> (verb) = nói lan man. <b>Grammar</b>: tính từ <i>rambling</i>.",
+   "example": {
+    "en": "As usual John was <b>rambling</b>",
+    "vi": "Như thường lệ John <b>nói lan man</b>."
+   }
+  },
+  {
+   "word": "wander off the point",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌwɒndər ɒf ðə ˈpɔɪnt/",
+   "def_en": "To start talking about something unrelated.",
+   "def_vi": "Bắt đầu nói chuyện không liên quan.",
+   "gloss_vi": "lạc đề",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "stick to the point <i>(v. bám sát vấn đề)</i>",
+   "grammar_vi": "<i>Wander off the point</i> (verb) = lạc đề. <b>Collocations / chunks</b>: thành ngữ.",
+   "example": {
+    "en": "and kept <b>wandering off the point</b>",
+    "vi": "Anh ta cứ <b>lạc đề</b>."
+   }
+  },
+  {
+   "word": "show off",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌʃəʊ ˈɒf/",
+   "def_en": "To try to impress people.",
+   "def_vi": "Cố gây ấn tượng.",
+   "gloss_vi": "khoe khoang",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Show off</i> (verb) = khoe khoang. <b>Grammar</b>: danh từ <i>show-off</i>.",
+   "example": {
+    "en": "He just uses meetings as a chance to <b>show off</b>.",
+    "vi": "Anh ta dùng cuộc họp để <b>khoe khoang</b>."
+   }
+  },
+  {
+   "word": "keep things moving",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌkiːp ˌθɪŋz ˈmuːvɪŋ/",
+   "def_en": "To make sure a meeting progresses.",
+   "def_vi": "Giữ cho cuộc họp tiến triển.",
+   "gloss_vi": "giữ nhịp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Keep things moving</i> (verb) = giữ nhịp. <b>Collocations / chunks</b>: cụm cố định.",
+   "example": {
+    "en": "the chair really <b>kept things moving</b>",
+    "vi": "Người chủ trì thực sự <b>giữ nhịp</b> cuộc họp."
+   }
+  },
+  {
+   "word": "stick to the point",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌstɪk tə ðə ˈpɔɪnt/",
+   "def_en": "To talk only about the subject being discussed.",
+   "def_vi": "Chỉ nói đúng chủ đề.",
+   "gloss_vi": "bám sát vấn đề",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "wander off the point <i>(v. lạc đề)</i>",
+   "grammar_vi": "<i>Stick to the point</i> (verb) = bám sát vấn đề. <b>Collocations / chunks</b>: cụm cố định.",
+   "example": {
+    "en": "she encouraged people to <b>stick to the point</b> by keeping things brief",
+    "vi": "Cô ấy khuyến khích mọi người <b>bám sát vấn đề</b>."
+   }
+  }
+ ]
+}

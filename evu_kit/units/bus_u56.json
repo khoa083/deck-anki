@@ -1,0 +1,296 @@
+{
+ "book": "bus",
+ "unit": 56,
+ "title_vi": "Cuộc họp 2: người chủ trì",
+ "theory_html": "<p><b>A. The role of the chair: before the meeting</b><br><i>A. Vai trò chủ tọa: trước cuộc họp</i></p> <p><b>chairman / chairwoman / chair, good organizer, agenda</b> (NOT diary), <b>circulate, venue</b>.</p><p><i><b>chủ tọa, người tổ chức giỏi, chương trình nghị sự, phát, địa điểm</b>.</i></p> <p><b>B. The role of the chair: running the meeting</b><br><i>B. Điều hành cuộc họp</i></p> <p><b>chairperson, good timekeeper, latecomers, Let’s make a start, minute-taker, action points, take the minutes, finish on time, Time’s up, make your point, allocate, resolve, move on to the next point, tactfully, digressions, get off the point</b>.</p><p><i><b>chủ tọa, người giữ giờ tốt, người đến muộn, Bắt đầu thôi, thư ký ghi biên bản, điểm hành động, ghi biên bản, kết thúc đúng giờ, Hết giờ, trình bày ý, phân bổ, giải quyết, chuyển sang ý tiếp, khéo léo, lạc đề</b>.</i></p> <p><b>C. Follow-up</b><br><i>C. Theo dõi sau họp</i></p> <p><b>minutes, action points, accurate record, matters arising</b>.</p><p><i><b>biên bản, điểm hành động, ghi chép chính xác, vấn đề phát sinh</b>.</i></p>",
+ "items": [
+  {
+   "word": "agenda",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/əˈdʒendə/",
+   "def_en": "The list of things to be discussed at a meeting.",
+   "def_vi": "Danh sách việc cần bàn ở cuộc họp.",
+   "gloss_vi": "chương trình nghị sự",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Agenda</i> (noun) = chương trình nghị sự. <b>Grammar</b>: không dùng thay <i>diary</i>.",
+   "example": {
+    "en": "They should ensure that the <b>agenda</b> – the list of things to be discussed – is complete",
+    "vi": "Chủ tọa nên đảm bảo <b>chương trình nghị sự</b> đầy đủ."
+   }
+  },
+  {
+   "word": "circulate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈsɜːkjəleɪt/",
+   "def_en": "To distribute (a document) to people.",
+   "def_vi": "Phát (tài liệu) cho mọi người.",
+   "gloss_vi": "phát, gửi",
+   "synonyms": "distribute <i>(v. phân phát)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Circulate</i> (verb) = phát, gửi. <b>Collocations / chunks</b>: <i>circulate the agenda/minutes</i>.",
+   "example": {
+    "en": "and then <b>circulating</b> – distributing – the agenda to those involved",
+    "vi": "Rồi <b>phát</b> chương trình nghị sự cho người liên quan."
+   }
+  },
+  {
+   "word": "venue",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈvenjuː/",
+   "def_en": "The place where a meeting happens.",
+   "def_vi": "Nơi diễn ra cuộc họp.",
+   "gloss_vi": "địa điểm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Venue</i> (noun) = địa điểm. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "They should check the <b>venue</b>, making sure the room will be free",
+    "vi": "Họ nên kiểm tra <b>địa điểm</b>."
+   }
+  },
+  {
+   "word": "good timekeeper",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɡʊd ˈtaɪmkiːpə(r)/",
+   "def_en": "Someone who makes sure things start and finish on time.",
+   "def_vi": "Người đảm bảo bắt đầu, kết thúc đúng giờ.",
+   "gloss_vi": "người giữ giờ tốt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Good timekeeper</i> (noun) = người giữ giờ tốt. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "The chairperson should be a <b>good timekeeper</b>.",
+    "vi": "Chủ tọa nên là <b>người giữ giờ tốt</b>."
+   }
+  },
+  {
+   "word": "latecomer",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈleɪtkʌmə(r)/",
+   "def_en": "Someone who arrives late.",
+   "def_vi": "Người đến muộn.",
+   "gloss_vi": "người đến muộn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Latecomer</i> (noun) = người đến muộn. <b>Grammar</b>: danh từ ghép.",
+   "example": {
+    "en": "Don’t wait for <b>latecomers</b>.",
+    "vi": "Đừng chờ <b>người đến muộn</b>."
+   }
+  },
+  {
+   "word": "let’s make a start",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ˌlets ˌmeɪk ə ˈstɑːt/",
+   "def_en": "Used to begin a meeting.",
+   "def_vi": "Dùng để bắt đầu cuộc họp.",
+   "gloss_vi": "ta bắt đầu thôi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Let’s make a start</i> (cl) = ta bắt đầu thôi. <b>Collocations / chunks</b>: mở đầu cuộc họp.",
+   "example": {
+    "en": "<b>Let’s make a start</b>.",
+    "vi": "<b>Ta bắt đầu thôi</b>."
+   }
+  },
+  {
+   "word": "minute-taker",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɪnɪt ˌteɪkə(r)/",
+   "def_en": "Someone who writes down what is said and decided at a meeting.",
+   "def_vi": "Người ghi lại nội dung cuộc họp.",
+   "gloss_vi": "thư ký ghi biên bản",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Minute-taker</i> (noun) = thư ký ghi biên bản. <b>Grammar</b>: <i>minutes</i> = biên bản.",
+   "example": {
+    "en": "They should appoint a <b>minute-taker</b>",
+    "vi": "Chủ tọa nên chỉ định <b>thư ký ghi biên bản</b>."
+   }
+  },
+  {
+   "word": "action points",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈækʃn pɔɪnts/",
+   "def_en": "Things participants agree to do or find out.",
+   "def_vi": "Việc người họp đồng ý làm.",
+   "gloss_vi": "điểm hành động",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Action points</i> (noun) = điểm hành động. <b>Collocations / chunks</b>: cụm danh từ.",
+   "example": {
+    "en": "opinions and <b>action points</b> – where participants agree to do something, find something out, etc. – are noted",
+    "vi": "<b>Điểm hành động</b> – những việc người họp đồng ý làm."
+   }
+  },
+  {
+   "word": "take the minutes",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌteɪk ðə ˈmɪnɪts/",
+   "def_en": "To write down what is said and decided at a meeting.",
+   "def_vi": "Ghi biên bản cuộc họp.",
+   "gloss_vi": "ghi biên bản",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take the minutes</i> (verb) = ghi biên bản. <b>Grammar</b>: <i>minutes</i> luôn số nhiều.",
+   "example": {
+    "en": "Would you mind <b>taking the minutes</b>, Adam?",
+    "vi": "Adam, anh <b>ghi biên bản</b> được không?"
+   }
+  },
+  {
+   "word": "time’s up",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ˌtaɪmz ˈʌp/",
+   "def_en": "There is no more time.",
+   "def_vi": "Hết thời gian.",
+   "gloss_vi": "hết giờ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Time’s up</i> (cl) = hết giờ. <b>Collocations / chunks</b>: thân mật.",
+   "example": {
+    "en": "OK. <b>Time’s up</b>. Thanks for coming.",
+    "vi": "Được rồi. <b>Hết giờ</b>. Cảm ơn đã đến."
+   }
+  },
+  {
+   "word": "make your point",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌmeɪk jə ˈpɔɪnt/",
+   "def_en": "To express your opinion.",
+   "def_vi": "Trình bày ý kiến.",
+   "gloss_vi": "trình bày ý",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Make your point</i> (verb) = trình bày ý. <b>Collocations / chunks</b>: cụm cố định.",
+   "example": {
+    "en": "each participant has the chance to <b>make their point</b>",
+    "vi": "Mỗi người có cơ hội <b>trình bày ý</b> của mình."
+   }
+  },
+  {
+   "word": "allocate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈæləkeɪt/",
+   "def_en": "To give (time) for a purpose.",
+   "def_vi": "Phân (thời gian) cho mục đích.",
+   "gloss_vi": "phân bổ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Allocate</i> (verb) = phân bổ. <b>Grammar</b>: danh từ <i>allocation</i>.",
+   "example": {
+    "en": "each point on the agenda is <b>allocated</b> the time it deserves",
+    "vi": "Mỗi mục được <b>phân bổ</b> thời gian xứng đáng."
+   }
+  },
+  {
+   "word": "resolve",
+   "sense": "decide an issue",
+   "pos": "verb",
+   "ipa": "/rɪˈzɒlv/",
+   "def_en": "To decide (an issue).",
+   "def_vi": "Quyết định (vấn đề).",
+   "gloss_vi": "giải quyết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Resolve</i> (verb) = giải quyết. <b>Grammar</b>: danh từ <i>resolution</i>.",
+   "example": {
+    "en": "Even if the current item has not been completely covered or <b>resolved</b> – decided",
+    "vi": "Dù mục hiện tại chưa được <b>giải quyết</b> hết."
+   }
+  },
+  {
+   "word": "move on to",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌmuːv ˈɒn tə/",
+   "def_en": "To start discussing the next subject.",
+   "def_vi": "Chuyển sang bàn chủ đề kế tiếp.",
+   "gloss_vi": "chuyển sang",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Move on to</i> (verb) = chuyển sang. <b>Collocations / chunks</b>: <i>move on to the next point/item</i>.",
+   "example": {
+    "en": "Let’s <b>move on to</b> the next item.",
+    "vi": "Ta <b>chuyển sang</b> mục tiếp theo."
+   }
+  },
+  {
+   "word": "tactfully",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈtæktfəli/",
+   "def_en": "Without annoying people.",
+   "def_vi": "Không làm người khác khó chịu.",
+   "gloss_vi": "khéo léo",
+   "synonyms": "diplomatically <i>(adv. ngoại giao)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Tactfully</i> (adverb) = khéo léo. <b>Grammar</b>: tính từ <i>tactful</i>.",
+   "example": {
+    "en": "Disagreements should be dealt with <b>tactfully</b> – without annoying people",
+    "vi": "Bất đồng nên được xử lý <b>khéo léo</b>."
+   }
+  },
+  {
+   "word": "digression",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/daɪˈɡreʃn/",
+   "def_en": "Talking about something unrelated to the main subject.",
+   "def_vi": "Nói chuyện không liên quan.",
+   "gloss_vi": "sự lạc đề",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Digression</i> (noun) = sự lạc đề. <b>Grammar</b>: động từ <i>digress</i>.",
+   "example": {
+    "en": "Avoid <b>digressions</b> where people get off the point.",
+    "vi": "Tránh <b>lạc đề</b> khi người ta đi ra ngoài vấn đề."
+   }
+  },
+  {
+   "word": "minutes",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈmɪnɪts/",
+   "def_en": "The written record of a meeting.",
+   "def_vi": "Bản ghi lại cuộc họp.",
+   "gloss_vi": "biên bản",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Minutes</i> (noun) = biên bản. <b>Grammar</b>: luôn số nhiều.",
+   "example": {
+    "en": "it’s necessary for the <b>minutes</b> from the previous meeting to be circulated",
+    "vi": "<b>Biên bản</b> cuộc họp trước cần được phát."
+   }
+  },
+  {
+   "word": "matters arising",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌmætəz əˈraɪzɪŋ/",
+   "def_en": "Points from the last meeting that need to be discussed but are not on the agenda.",
+   "def_vi": "Điểm từ cuộc họp trước cần bàn nhưng không có trong chương trình.",
+   "gloss_vi": "vấn đề phát sinh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Matters arising</i> (noun) = vấn đề phát sinh. <b>Collocations / chunks</b>: cụm cố định.",
+   "example": {
+    "en": "and see if there are any <b>matters arising</b>",
+    "vi": "Xem có <b>vấn đề phát sinh</b> nào không."
+   }
+  }
+ ]
+}
