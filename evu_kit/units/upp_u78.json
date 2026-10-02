@@ -1,0 +1,533 @@
+{
+ "book": "upp",
+ "unit": 78,
+ "title_vi": "Từ viết tắt",
+ "theory_html": "<p><b>A. Abbreviations pronounced as individual letters</b><br><i>A. Từ viết tắt đọc từng chữ cái</i></p> <p>Most abbreviations are pronounced as individual letters. Groups or organisations: <b>BBC, CIA, EU, FBI, MI6, WHO</b>. Others: <b>ID, GM, DNA, FAQ, AKA, IOU, ATM, ASAP</b>.</p><p><i>Hầu hết từ viết tắt đọc từng chữ cái: tổ chức (<b>BBC, CIA, EU, FBI, MI6, WHO</b>) và khác (<b>ID, GM, DNA, FAQ, AKA, IOU, ATM, ASAP</b>).</i></p> <p><b>LH. Language help</b><br><i>LH. Lưu ý ngôn ngữ</i></p> <p>When these abbreviations are stressed words in the sentence, the stress falls on the last letter: <b>She works for the CIA. I heard it on the BBC.</b></p><p><i>Khi được nhấn, trọng âm rơi vào chữ cái cuối.</i></p> <p><b>B. Abbreviations pronounced as words</b><br><i>B. Từ viết tắt đọc như một từ</i></p> <p>Abbreviations pronounced as individual words are called acronyms: <b>NATO, PIN, SAD, AWOL</b>. Some acronyms have become so normal as words that people do not think of them as abbreviations any longer, and so they are not written in capital letters: <b>laser, radar, scuba, sonar</b>.</p><p><i>Từ viết tắt đọc như một từ gọi là acronym. Một số đã thành từ thông thường, viết thường: <b>laser, radar, scuba, sonar</b>.</i></p> <p><b>C. Clippings</b><br><i>C. Từ rút gọn</i></p> <p>Some words are often used in an abbreviated form in informal situations: <b>kilo, gig, air con, satnav, uni, mobile / (US) cell, carbs, sci-fi, high-tech</b>.</p><p><i>Một số từ được rút gọn trong văn nói thân mật.</i></p> <p><b>D. Written abbreviations</b><br><i>D. Viết tắt trong văn viết</i></p> <p><b>PTO</b> (please turn over), <b>PS</b> (post script), <b>RSVP</b> (please answer; at the end of an invitation), <b>RIP</b> (rest in peace; on a headstone).</p><p><i>Viết tắt chủ yếu dùng khi viết.</i></p>",
+ "items": [
+  {
+   "word": "BBC",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌbiː biː ˈsiː/",
+   "def_en": "British Broadcasting Corporation.",
+   "def_vi": "Đài phát thanh truyền hình Anh.",
+   "gloss_vi": "đài BBC",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>BBC</i> (noun) = đài BBC. <b>Grammar</b>: trọng âm rơi vào chữ cuối.",
+   "example": {
+    "en": "I heard it on the <b>BBC</b>.",
+    "vi": "Tôi nghe tin đó trên <b>BBC</b>."
+   }
+  },
+  {
+   "word": "CIA",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌsiː aɪ ˈeɪ/",
+   "def_en": "Central Intelligence Agency (US agency collecting information about other countries).",
+   "def_vi": "Cơ quan Tình báo Trung ương Mỹ.",
+   "gloss_vi": "CIA",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>CIA</i> (noun) = CIA. <b>Grammar</b>: trọng âm rơi vào chữ cuối.",
+   "example": {
+    "en": "She works for the <b>CIA</b>.",
+    "vi": "Cô ấy làm cho <b>CIA</b>."
+   }
+  },
+  {
+   "word": "EU",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌiː ˈjuː/",
+   "def_en": "European Union.",
+   "def_vi": "Liên minh châu Âu.",
+   "gloss_vi": "Liên minh châu Âu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>EU</i> (noun) = Liên minh châu Âu. <b>Grammar</b>: đọc từng chữ.",
+   "ex_kit": true,
+   "example": {
+    "en": "France is a member of the <b>EU</b>.",
+    "vi": "Pháp là thành viên <b>EU</b>."
+   }
+  },
+  {
+   "word": "FBI",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌef biː ˈaɪ/",
+   "def_en": "Federal Bureau of Investigation.",
+   "def_vi": "Cục Điều tra Liên bang Mỹ.",
+   "gloss_vi": "FBI",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>FBI</i> (noun) = FBI. <b>Grammar</b>: đọc từng chữ.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>FBI</b> is investigating the case.",
+    "vi": "<b>FBI</b> đang điều tra vụ án."
+   }
+  },
+  {
+   "word": "MI6",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌem aɪ ˈsɪks/",
+   "def_en": "Military Intelligence 6, the UK equivalent of the CIA.",
+   "def_vi": "Cơ quan tình báo Anh.",
+   "gloss_vi": "MI6",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>MI6</i> (noun) = MI6. <b>Grammar</b>: tương đương CIA ở Anh.",
+   "ex_kit": true,
+   "example": {
+    "en": "James Bond works for <b>MI6</b>.",
+    "vi": "James Bond làm cho <b>MI6</b>."
+   }
+  },
+  {
+   "word": "WHO",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdʌbljuː eɪtʃ ˈəʊ/",
+   "def_en": "World Health Organisation.",
+   "def_vi": "Tổ chức Y tế Thế giới.",
+   "gloss_vi": "WHO",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>WHO</i> (noun) = WHO. <b>Grammar</b>: đọc từng chữ, không đọc như <i>who</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>WHO</b> issued a warning about the disease.",
+    "vi": "<b>WHO</b> đưa ra cảnh báo về dịch bệnh."
+   }
+  },
+  {
+   "word": "ID",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌaɪ ˈdiː/",
+   "def_en": "Identity; an identity card or passport.",
+   "def_vi": "Giấy tờ tùy thân.",
+   "gloss_vi": "giấy tờ tùy thân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>ID</i> (noun) = giấy tờ tùy thân. <b>Grammar</b>: không đếm được: <i>some ID</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Do you have any <b>ID</b>?",
+    "vi": "Bạn có mang <b>giấy tờ tùy thân</b> không?"
+   }
+  },
+  {
+   "word": "GM",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌdʒiː ˈem/",
+   "def_en": "Genetically modified.",
+   "def_vi": "Biến đổi gen.",
+   "gloss_vi": "biến đổi gen",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>GM</i> (adjective) = biến đổi gen. <b>Grammar</b>: đọc từng chữ.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>GM</b> food",
+    "vi": "Thực phẩm <b>biến đổi gen</b>."
+   }
+  },
+  {
+   "word": "DNA",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌdiː en ˈeɪ/",
+   "def_en": "Deoxyribonucleic acid, the chemical at the centre of living cells.",
+   "def_vi": "Axit deoxyribonucleic ở trung tâm tế bào sống.",
+   "gloss_vi": "ADN",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>DNA</i> (noun) = ADN. <b>Grammar</b>: đọc từng chữ.",
+   "ex_kit": true,
+   "example": {
+    "en": "Police found <b>DNA</b> at the scene.",
+    "vi": "Cảnh sát tìm thấy <b>ADN</b> tại hiện trường."
+   }
+  },
+  {
+   "word": "AKA",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ˌeɪ keɪ ˈeɪ/",
+   "def_en": "Also known as.",
+   "def_vi": "Còn được biết là.",
+   "gloss_vi": "còn gọi là",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>AKA</i> (preposition) = còn gọi là. <b>Grammar</b>: đọc từng chữ.",
+   "ex_kit": true,
+   "example": {
+    "en": "Robert Zimmerman, <b>AKA</b> Bob Dylan",
+    "vi": "Robert Zimmerman, <b>còn gọi là</b> Bob Dylan."
+   }
+  },
+  {
+   "word": "IOU",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌaɪ əʊ ˈjuː/",
+   "def_en": "I owe you; a note promising to pay a debt.",
+   "def_vi": "Tôi nợ bạn; giấy nhận nợ.",
+   "gloss_vi": "giấy nợ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>IOU</i> (noun) = giấy nợ. <b>Grammar</b>: từ <i>I owe you</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He gave me an <b>IOU</b> for £20.",
+    "vi": "Anh ấy đưa tôi một <b>giấy nợ</b> £20."
+   }
+  },
+  {
+   "word": "ATM",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌeɪ tiː ˈem/",
+   "def_en": "Automated teller machine; a cash machine usually outside a bank.",
+   "def_vi": "Máy rút tiền tự động.",
+   "gloss_vi": "cây ATM",
+   "synonyms": "cash machine <i>(n. máy rút tiền)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>ATM</i> (noun) = cây ATM. <b>Grammar</b>: đọc từng chữ.",
+   "ex_kit": true,
+   "example": {
+    "en": "I got some money from the <b>ATM</b>.",
+    "vi": "Tôi rút tiền ở <b>cây ATM</b>."
+   }
+  },
+  {
+   "word": "ASAP",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌeɪ es eɪ ˈpiː/",
+   "def_en": "As soon as possible.",
+   "def_vi": "Càng sớm càng tốt.",
+   "gloss_vi": "càng sớm càng tốt",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>ASAP</i> (adverb) = càng sớm càng tốt. <b>Grammar</b>: cũng đọc /ˈeɪsæp/.",
+   "ex_kit": true,
+   "example": {
+    "en": "Please reply <b>ASAP</b>.",
+    "vi": "Làm ơn trả lời <b>càng sớm càng tốt</b>."
+   }
+  },
+  {
+   "word": "NATO",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈneɪtəʊ/",
+   "def_en": "North Atlantic Treaty Organisation.",
+   "def_vi": "Tổ chức Hiệp ước Bắc Đại Tây Dương.",
+   "gloss_vi": "NATO",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>NATO</i> (noun) = NATO. <b>Grammar</b>: acronym, đọc như một từ.",
+   "ex_kit": true,
+   "example": {
+    "en": "Canada is a member of <b>NATO</b>.",
+    "vi": "Canada là thành viên <b>NATO</b>."
+   }
+  },
+  {
+   "word": "PIN",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pɪn/",
+   "def_en": "Personal Identity Number, e.g. for a bank card.",
+   "def_vi": "Số nhận dạng cá nhân, như cho thẻ ngân hàng.",
+   "gloss_vi": "mã PIN",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>PIN</i> (noun) = mã PIN. <b>Grammar</b>: acronym; KHÔNG nói <i>PIN number</i> trong văn trang trọng.",
+   "ex_kit": true,
+   "example": {
+    "en": "Enter your <b>PIN</b>.",
+    "vi": "Nhập <b>mã PIN</b> của bạn."
+   }
+  },
+  {
+   "word": "SAD",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/sæd/",
+   "def_en": "Seasonal affective disorder; lacking energy in winter where there is little sunlight.",
+   "def_vi": "Rối loạn cảm xúc theo mùa.",
+   "gloss_vi": "trầm cảm mùa đông",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>SAD</i> (noun) = trầm cảm mùa đông. <b>Grammar</b>: acronym.",
+   "ex_kit": true,
+   "example": {
+    "en": "Many people in the north suffer from <b>SAD</b>.",
+    "vi": "Nhiều người phương Bắc bị <b>trầm cảm mùa đông</b>."
+   }
+  },
+  {
+   "word": "AWOL",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˈeɪwɒl/",
+   "def_en": "Absent without leave (permission), usually in military contexts.",
+   "def_vi": "Vắng mặt không phép, thường trong quân đội.",
+   "gloss_vi": "vắng mặt không phép",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>AWOL</i> (adjective) = vắng mặt không phép. <b>Grammar</b>: <i>go AWOL</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The soldier went <b>AWOL</b>.",
+    "vi": "Người lính đã <b>đào ngũ</b>."
+   }
+  },
+  {
+   "word": "laser",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈleɪzə(r)/",
+   "def_en": "A narrow, powerful beam of light.",
+   "def_vi": "Chùm sáng hẹp, mạnh.",
+   "gloss_vi": "tia laze",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Laser</i> (noun) = tia laze. <b>Grammar</b>: acronym đã thành từ thường, viết thường.",
+   "ex_kit": true,
+   "example": {
+    "en": "The doctor used a <b>laser</b> for the eye operation.",
+    "vi": "Bác sĩ dùng <b>tia laze</b> để phẫu thuật mắt."
+   }
+  },
+  {
+   "word": "radar",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈreɪdɑː(r)/",
+   "def_en": "A system that uses radio waves to find objects.",
+   "def_vi": "Hệ thống dùng sóng vô tuyến để định vị.",
+   "gloss_vi": "ra-đa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Radar</i> (noun) = ra-đa. <b>Grammar</b>: acronym đã thành từ thường.",
+   "ex_kit": true,
+   "example": {
+    "en": "The plane appeared on the <b>radar</b>.",
+    "vi": "Máy bay xuất hiện trên <b>ra-đa</b>."
+   }
+  },
+  {
+   "word": "scuba",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈskuːbə/",
+   "def_en": "Equipment for breathing underwater.",
+   "def_vi": "Thiết bị thở dưới nước.",
+   "gloss_vi": "lặn bình khí",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Scuba</i> (noun) = lặn bình khí. <b>Grammar</b>: <i>scuba diving</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "We went <b>scuba</b> diving in Thailand.",
+    "vi": "Chúng tôi đi <b>lặn bình khí</b> ở Thái Lan."
+   }
+  },
+  {
+   "word": "sonar",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsəʊnɑː(r)/",
+   "def_en": "A system that uses sound to find objects underwater.",
+   "def_vi": "Hệ thống dùng âm thanh định vị dưới nước.",
+   "gloss_vi": "sô-na",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sonar</i> (noun) = sô-na. <b>Grammar</b>: acronym đã thành từ thường.",
+   "ex_kit": true,
+   "example": {
+    "en": "Submarines use <b>sonar</b>.",
+    "vi": "Tàu ngầm dùng <b>sô-na</b>."
+   }
+  },
+  {
+   "word": "kilo",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkiːləʊ/",
+   "def_en": "A kilogram (informal).",
+   "def_vi": "Ki-lô-gam (thân mật).",
+   "gloss_vi": "cân, ký",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Kilo</i> (noun) = cân, ký. <b>Grammar</b>: rút gọn của <i>kilogram</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "two <b>kilos</b> of apples",
+    "vi": "Hai <b>ký</b> táo."
+   }
+  },
+  {
+   "word": "air con",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈeə kɒn/",
+   "def_en": "Air conditioning (informal).",
+   "def_vi": "Điều hòa (thân mật).",
+   "gloss_vi": "điều hòa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Air con</i> (noun) = điều hòa. <b>Grammar</b>: rút gọn của <i>air conditioning</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Turn the <b>air con</b> on.",
+    "vi": "Bật <b>điều hòa</b> lên đi."
+   }
+  },
+  {
+   "word": "uni",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈjuːni/",
+   "def_en": "University (informal).",
+   "def_vi": "Đại học (thân mật).",
+   "gloss_vi": "đại học",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Uni</i> (noun) = đại học. <b>Grammar</b>: thân mật; <i>at uni</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "My son is at <b>uni</b>.",
+    "vi": "Con trai tôi đang học <b>đại học</b>."
+   }
+  },
+  {
+   "word": "carbs",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kɑːbz/",
+   "def_en": "Carbohydrates (informal).",
+   "def_vi": "Tinh bột (thân mật).",
+   "gloss_vi": "tinh bột",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Carbs</i> (noun) = tinh bột. <b>Grammar</b>: rút gọn của <i>carbohydrates</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I’m trying to eat fewer <b>carbs</b>.",
+    "vi": "Tôi đang cố ăn ít <b>tinh bột</b>."
+   }
+  },
+  {
+   "word": "sci-fi",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈsaɪ faɪ/",
+   "def_en": "Science fiction (informal).",
+   "def_vi": "Khoa học viễn tưởng (thân mật).",
+   "gloss_vi": "khoa học viễn tưởng",
+   "synonyms": "science fiction <i>(n. khoa học viễn tưởng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sci-fi</i> (noun) = khoa học viễn tưởng. <b>Grammar</b>: rút gọn.",
+   "ex_kit": true,
+   "example": {
+    "en": "She loves <b>sci-fi</b> films.",
+    "vi": "Cô ấy thích phim <b>khoa học viễn tưởng</b>."
+   }
+  },
+  {
+   "word": "high-tech",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌhaɪ ˈtek/",
+   "def_en": "Using advanced technology (informal).",
+   "def_vi": "Dùng công nghệ tiên tiến (thân mật).",
+   "gloss_vi": "công nghệ cao",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "low-tech <i>(adj. công nghệ thấp)</i>",
+   "grammar_vi": "<i>High-tech</i> (adjective) = công nghệ cao. <b>Grammar</b>: rút gọn của <i>high-technology</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "a <b>high-tech</b> factory",
+    "vi": "Một nhà máy <b>công nghệ cao</b>."
+   }
+  },
+  {
+   "word": "PTO",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌpiː tiː ˈəʊ/",
+   "def_en": "Please turn over (turn to the next page).",
+   "def_vi": "Xin lật sang trang.",
+   "gloss_vi": "xem mặt sau",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>PTO</i> (phrase) = xem mặt sau. <b>Grammar</b>: chủ yếu viết.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>PTO</b> at the bottom of the page",
+    "vi": "<b>Xem mặt sau</b> ở cuối trang."
+   }
+  },
+  {
+   "word": "PS",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpiː ˈes/",
+   "def_en": "Post script; added at the end of a letter.",
+   "def_vi": "Tái bút, thêm ở cuối thư.",
+   "gloss_vi": "tái bút",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>PS</i> (noun) = tái bút. <b>Grammar</b>: cuối thư/tin nhắn.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>PS</b> Don’t forget Mum’s birthday.",
+    "vi": "<b>Tái bút</b>: đừng quên sinh nhật mẹ."
+   }
+  },
+  {
+   "word": "RSVP",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌɑːr es viː ˈpiː/",
+   "def_en": "Please answer (French), at the end of an invitation.",
+   "def_vi": "Xin hồi âm (tiếng Pháp), ở cuối thiệp mời.",
+   "gloss_vi": "xin hồi âm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>RSVP</i> (phrase) = xin hồi âm. <b>Grammar</b>: từ tiếng Pháp <i>Répondez s’il vous plaît</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>RSVP</b> by 1st May.",
+    "vi": "<b>Xin hồi âm</b> trước ngày 1 tháng Năm."
+   }
+  },
+  {
+   "word": "RIP",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌɑːr aɪ ˈpiː/",
+   "def_en": "Rest in peace; often written on a headstone.",
+   "def_vi": "Yên nghỉ; thường ghi trên bia mộ.",
+   "gloss_vi": "an nghỉ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>RIP</i> (phrase) = an nghỉ. <b>Grammar</b>: ghi trên bia mộ.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>RIP</b> was carved on the headstone.",
+    "vi": "<b>Yên nghỉ</b> được khắc trên bia mộ."
+   }
+  }
+ ]
+}

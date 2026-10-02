@@ -1,0 +1,424 @@
+{
+ "book": "upp",
+ "unit": 77,
+ "title_vi": "Cặp từ cố định (binomials)",
+ "theory_html": "<p><b>A. What are binomials?</b><br><i>A. Binomial là gì?</i></p> <p>Binomials are expressions (often idiomatic) where two words are joined by a conjunction (usually ‘and’). The order of the words is normally fixed (<b>odds and ends</b>, NOT <b>ends and odds</b>). You can often tell something is a binomial because of the sound pattern, which may be a repetition of the same first sound or a rhyme.</p><p><i>Binomial là cụm (thường là thành ngữ) gồm hai từ nối bằng liên từ (thường là <b>and</b>); trật tự thường cố định. Thường nhận ra nhờ vần điệu hoặc lặp âm đầu.</i></p> <p><b>B. Pairs of near synonyms</b><br><i>B. Cặp từ gần nghĩa</i></p> <p>At other times, the clue is that the words are near synonyms: <b>pick and choose, leaps and bounds, peace and quiet, rest and recreation, first and foremost</b>.</p><p><i>Đôi khi hai từ gần nghĩa nhau.</i></p> <p><b>C. Binomials composed of grammar words</b><br><i>C. Binomial từ các từ ngữ pháp</i></p> <p><b>here and there, on and off / off and on, back and forth / to and fro, out and about, up and down</b>.</p><p><i><b>đây đó, lúc có lúc không, qua lại, đi ra ngoài, lên xuống</b>.</i></p> <p><b>LH. Language help</b><br><i>LH. Lưu ý ngôn ngữ</i></p> <p>Your language probably has many binomials. Check that the ones which look similar in English have the same word order as your language: <b>black and white, ladies and gentlemen, back and forth</b>.</p><p><i>Kiểm tra trật tự từ của binomial tiếng Anh có giống tiếng mẹ đẻ không.</i></p> <p><b>D. Binomials linked by words other than and</b><br><i>D. Binomial nối bằng từ khác ngoài and</i></p> <p><b>back to front, sink or swim, slowly but surely, sooner or later, all or nothing, take it or leave it, give or take</b>.</p><p><i><b>ngược, tự bơi hoặc chìm, chậm mà chắc, sớm muộn, được ăn cả ngã về không, chịu thì lấy, xê dịch</b>.</i></p>",
+ "items": [
+  {
+   "word": "odds and ends",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɒdz ən ˈendz/",
+   "def_en": "Small, unimportant things.",
+   "def_vi": "Những thứ nhỏ nhặt, không quan trọng.",
+   "gloss_vi": "đồ lặt vặt",
+   "synonyms": "bits and pieces <i>(n. đồ lặt vặt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Odds and ends</i> (noun) = đồ lặt vặt. <b>Grammar</b>: trật tự cố định (KHÔNG <i>ends and odds</i>).",
+   "example": {
+    "en": "Let’s get the main things packed - we can do the <b>odds and ends</b> later.",
+    "vi": "Đóng gói đồ chính trước – <b>đồ lặt vặt</b> làm sau."
+   }
+  },
+  {
+   "word": "give and take",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɡɪv ən ˈteɪk/",
+   "def_en": "A spirit of compromise.",
+   "def_vi": "Tinh thần thỏa hiệp.",
+   "gloss_vi": "có qua có lại",
+   "synonyms": "compromise <i>(n. thỏa hiệp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Give and take</i> (noun) = có qua có lại. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "Every relationship needs a bit of <b>give and take</b> to be successful.",
+    "vi": "Mối quan hệ nào cũng cần chút <b>có qua có lại</b> để thành công."
+   }
+  },
+  {
+   "word": "part and parcel",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpɑːt ən ˈpɑːsl/",
+   "def_en": "An important part of something.",
+   "def_vi": "Phần quan trọng của điều gì.",
+   "gloss_vi": "một phần tất yếu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Part and parcel</i> (noun) = một phần tất yếu. <b>Grammar</b>: <i>part and parcel of sth</i>; lặp âm đầu /p/.",
+   "example": {
+    "en": "Tears are <b>part and parcel</b> of growing up.",
+    "vi": "Nước mắt là <b>một phần tất yếu</b> của sự trưởng thành."
+   }
+  },
+  {
+   "word": "rant and rave",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌrænt ən ˈreɪv/",
+   "def_en": "To shout angrily.",
+   "def_vi": "La hét giận dữ.",
+   "gloss_vi": "la hét ầm ĩ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rant and rave</i> (verb) = la hét ầm ĩ. <b>Grammar</b>: /ˈreɪvɪŋ/; thường dạng tiếp diễn.",
+   "example": {
+    "en": "The boss was <b>ranting and raving</b> at us.",
+    "vi": "Sếp <b>la hét ầm ĩ</b> với chúng tôi."
+   }
+  },
+  {
+   "word": "rack and ruin",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌræk ən ˈruːɪn/",
+   "def_en": "A state of decay.",
+   "def_vi": "Tình trạng đổ nát.",
+   "gloss_vi": "đổ nát, tan hoang",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rack and ruin</i> (noun) = đổ nát, tan hoang. <b>Grammar</b>: <i>go to rack and ruin</i>.",
+   "example": {
+    "en": "The old cottage has gone to <b>rack and ruin</b>.",
+    "vi": "Căn nhà cũ đã <b>đổ nát</b>."
+   }
+  },
+  {
+   "word": "prim and proper",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌprɪm ən ˈprɒpə(r)/",
+   "def_en": "Rather formal and fussy.",
+   "def_vi": "Khá nghiêm trang và cầu kỳ.",
+   "gloss_vi": "nghiêm trang, khuôn phép",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Prim and proper</i> (adjective) = nghiêm trang, khuôn phép. <b>Grammar</b>: lặp âm đầu /pr/.",
+   "example": {
+    "en": "He’s so <b>prim and proper</b> at work.",
+    "vi": "Ở chỗ làm anh ấy rất <b>khuôn phép</b>."
+   }
+  },
+  {
+   "word": "rough and ready",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌrʌf ən ˈredi/",
+   "def_en": "Of poor standard or quality.",
+   "def_vi": "Chất lượng kém.",
+   "gloss_vi": "tạm bợ, sơ sài",
+   "synonyms": "basic <i>(adj. cơ bản)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rough and ready</i> (adjective) = tạm bợ, sơ sài. <b>Grammar</b>: lặp âm /r/.",
+   "example": {
+    "en": "The hotel was a bit <b>rough and ready</b>.",
+    "vi": "Khách sạn hơi <b>sơ sài</b>."
+   }
+  },
+  {
+   "word": "wine and dine",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌwaɪn ən ˈdaɪn/",
+   "def_en": "To entertain someone by taking them to restaurants.",
+   "def_vi": "Tiếp đãi ai bằng cách mời đi nhà hàng.",
+   "gloss_vi": "chiêu đãi",
+   "synonyms": "entertain <i>(v. tiếp đãi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wine and dine</i> (verb) = chiêu đãi. <b>Grammar</b>: vần /aɪn/.",
+   "example": {
+    "en": "She has to <b>wine and dine</b> important clients.",
+    "vi": "Cô ấy phải <b>chiêu đãi</b> những khách hàng quan trọng."
+   }
+  },
+  {
+   "word": "high and dry",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌhaɪ ən ˈdraɪ/",
+   "def_en": "In a very difficult situation.",
+   "def_vi": "Trong tình thế rất khó.",
+   "gloss_vi": "bị bỏ rơi, kẹt lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>High and dry</i> (adjective) = bị bỏ rơi, kẹt lại. <b>Grammar</b>: <i>leave sb high and dry</i>; vần /aɪ/.",
+   "example": {
+    "en": "I was left <b>high and dry</b>, with no money.",
+    "vi": "Họ lấy ví tôi. Tôi <b>bị kẹt lại</b>, không có xu nào."
+   }
+  },
+  {
+   "word": "pick and choose",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌpɪk ən ˈtʃuːz/",
+   "def_en": "To have a wide choice.",
+   "def_vi": "Có nhiều lựa chọn.",
+   "gloss_vi": "kén cá chọn canh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pick and choose</i> (verb) = kén cá chọn canh. <b>Grammar</b>: cặp gần nghĩa.",
+   "example": {
+    "en": "You can <b>pick and choose</b> - it’s up to you.",
+    "vi": "Bạn có thể <b>tha hồ lựa chọn</b> – tùy bạn."
+   }
+  },
+  {
+   "word": "leaps and bounds",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌliːps ən ˈbaʊndz/",
+   "def_en": "Big jumps; very fast progress.",
+   "def_vi": "Bước nhảy lớn; tiến bộ rất nhanh.",
+   "gloss_vi": "tiến bộ vượt bậc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Leaps and bounds</i> (noun) = tiến bộ vượt bậc. <b>Grammar</b>: <i>in/by leaps and bounds</i>.",
+   "example": {
+    "en": "My English is progressing in/by <b>leaps and bounds</b>.",
+    "vi": "Tiếng Anh của tôi tiến bộ <b>vượt bậc</b>."
+   }
+  },
+  {
+   "word": "peace and quiet",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌpiːs ən ˈkwaɪət/",
+   "def_en": "A peaceful, calm situation.",
+   "def_vi": "Tình trạng yên bình.",
+   "gloss_vi": "yên tĩnh",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Peace and quiet</i> (noun) = yên tĩnh. <b>Grammar</b>: không đếm được.",
+   "example": {
+    "en": "It’s nice to have some <b>peace and quiet</b> now that the children have left.",
+    "vi": "Thật dễ chịu có chút <b>yên tĩnh</b> khi bọn trẻ đã đi."
+   }
+  },
+  {
+   "word": "rest and recreation",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌrest ən ˌrekriˈeɪʃn/",
+   "def_en": "Relaxation.",
+   "def_vi": "Nghỉ ngơi thư giãn.",
+   "gloss_vi": "nghỉ ngơi thư giãn",
+   "synonyms": "relaxation <i>(n. thư giãn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rest and recreation</i> (noun) = nghỉ ngơi thư giãn. <b>Grammar</b>: viết tắt <i>R and R</i>.",
+   "example": {
+    "en": "The doctor recommended some <b>rest and recreation</b>.",
+    "vi": "Bác sĩ khuyên nên <b>nghỉ ngơi thư giãn</b>."
+   }
+  },
+  {
+   "word": "first and foremost",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌfɜːst ən ˈfɔːməʊst/",
+   "def_en": "First and most importantly.",
+   "def_vi": "Trước hết và quan trọng nhất.",
+   "gloss_vi": "trước hết và trên hết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>First and foremost</i> (adverb) = trước hết và trên hết. <b>Grammar</b>: đầu câu.",
+   "example": {
+    "en": "<b>First and foremost</b>, you must work hard.",
+    "vi": "<b>Trước hết và trên hết</b>, bạn phải làm việc chăm chỉ."
+   }
+  },
+  {
+   "word": "here and there",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌhɪər ən ˈðeə(r)/",
+   "def_en": "In different places.",
+   "def_vi": "Ở nhiều nơi.",
+   "gloss_vi": "đây đó",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Here and there</i> (adverb) = đây đó. <b>Grammar</b>: trật tự cố định.",
+   "example": {
+    "en": "There are cafés <b>here and there</b> along the sea front.",
+    "vi": "Có vài quán cà phê <b>đây đó</b> dọc bờ biển."
+   }
+  },
+  {
+   "word": "on and off",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌɒn ən ˈɒf/",
+   "def_en": "Occasionally.",
+   "def_vi": "Thỉnh thoảng.",
+   "gloss_vi": "lúc có lúc không",
+   "synonyms": "off and on <i>(adv. thỉnh thoảng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>On and off</i> (adverb) = lúc có lúc không. <b>Grammar</b>: cũng <i>off and on</i>.",
+   "example": {
+    "en": "We’ve had meetings <b>on and off</b>.",
+    "vi": "Chúng tôi họp <b>lúc có lúc không</b>."
+   }
+  },
+  {
+   "word": "back and forth",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌbæk ən ˈfɔːθ/",
+   "def_en": "In both directions, repeatedly.",
+   "def_vi": "Qua lại nhiều lần.",
+   "gloss_vi": "qua lại",
+   "synonyms": "to and fro <i>(adv. qua lại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Back and forth</i> (adverb) = qua lại. <b>Grammar</b>: cũng <i>to and fro</i>.",
+   "example": {
+    "en": "I’ve been running <b>back and forth</b> all day.",
+    "vi": "Tôi chạy <b>qua lại</b> cả ngày."
+   }
+  },
+  {
+   "word": "out and about",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌaʊt ən əˈbaʊt/",
+   "def_en": "Going out, especially after an illness.",
+   "def_vi": "Đi ra ngoài, nhất là sau ốm.",
+   "gloss_vi": "đi lại được",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Out and about</i> (adjective) = đi lại được. <b>Grammar</b>: thường sau khi ốm.",
+   "example": {
+    "en": "She’s better now, and <b>out and about</b> again.",
+    "vi": "Cô ấy đã khỏe và lại <b>đi lại được</b>."
+   }
+  },
+  {
+   "word": "up and down",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌʌp ən ˈdaʊn/",
+   "def_en": "Along, in both directions.",
+   "def_vi": "Dọc theo, cả hai chiều.",
+   "gloss_vi": "lên xuống, tới lui",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Up and down</i> (adverb) = lên xuống, tới lui. <b>Grammar</b>: trung tính, dùng trang trọng hay thân mật.",
+   "example": {
+    "en": "She ran <b>up and down</b> the street.",
+    "vi": "Cô ấy chạy <b>tới lui</b> trên phố."
+   }
+  },
+  {
+   "word": "back to front",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌbæk tə ˈfrʌnt/",
+   "def_en": "The wrong way round.",
+   "def_vi": "Sai chiều, ngược.",
+   "gloss_vi": "ngược (trước ra sau)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Back to front</i> (adverb) = ngược (trước ra sau). <b>Grammar</b>: nối bằng <i>to</i>.",
+   "example": {
+    "en": "You’ve got your sweater on <b>back to front</b>.",
+    "vi": "Bạn mặc áo len <b>ngược</b> rồi."
+   }
+  },
+  {
+   "word": "sink or swim",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌsɪŋk ɔː ˈswɪm/",
+   "def_en": "To survive or fail without help.",
+   "def_vi": "Tự sống sót hoặc thất bại không ai giúp.",
+   "gloss_vi": "tự bơi hoặc chìm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sink or swim</i> (verb) = tự bơi hoặc chìm. <b>Grammar</b>: nối bằng <i>or</i>.",
+   "example": {
+    "en": "He won’t help her - she’ll have to <b>sink or swim</b>.",
+    "vi": "Anh ta sẽ không giúp – cô ấy phải <b>tự lo liệu</b>."
+   }
+  },
+  {
+   "word": "slowly but surely",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌsləʊli bət ˈʃʊəli/",
+   "def_en": "Gradually.",
+   "def_vi": "Dần dần.",
+   "gloss_vi": "chậm mà chắc",
+   "synonyms": "gradually <i>(adv. dần dần)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Slowly but surely</i> (adverb) = chậm mà chắc. <b>Grammar</b>: nối bằng <i>but</i>.",
+   "example": {
+    "en": "<b>Slowly but surely</b>, I realised the boat was sinking.",
+    "vi": "<b>Dần dần</b>, tôi nhận ra con thuyền đang chìm."
+   }
+  },
+  {
+   "word": "sooner or later",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌsuːnər ɔː ˈleɪtə(r)/",
+   "def_en": "At some time in the future.",
+   "def_vi": "Một lúc nào đó trong tương lai.",
+   "gloss_vi": "sớm muộn gì",
+   "synonyms": "eventually <i>(adv. cuối cùng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sooner or later</i> (adverb) = sớm muộn gì. <b>Grammar</b>: nối bằng <i>or</i>.",
+   "example": {
+    "en": "<b>Sooner or later</b>, you’ll learn your lesson.",
+    "vi": "<b>Sớm muộn gì</b> bạn cũng sẽ rút ra bài học."
+   }
+  },
+  {
+   "word": "all or nothing",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɔːl ɔː ˈnʌθɪŋ/",
+   "def_en": "Everything or nothing at all.",
+   "def_vi": "Tất cả hoặc không gì cả.",
+   "gloss_vi": "được ăn cả ngã về không",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>All or nothing</i> (noun) = được ăn cả ngã về không. <b>Grammar</b>: nối bằng <i>or</i>.",
+   "example": {
+    "en": "She didn’t want to be just friends - it had to be <b>all or nothing</b>.",
+    "vi": "Cô ấy không muốn chỉ là bạn – phải là <b>tất cả hoặc không gì cả</b>."
+   }
+  },
+  {
+   "word": "take it or leave it",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ˌteɪk ɪt ɔː ˈliːv ɪt/",
+   "def_en": "Accept this offer or refuse it; there is no other.",
+   "def_vi": "Chấp nhận hoặc từ chối; không có lựa chọn khác.",
+   "gloss_vi": "chịu thì lấy không thì thôi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Take it or leave it</i> (cl) = chịu thì lấy không thì thôi. <b>Grammar</b>: thường ở cuối câu.",
+   "example": {
+    "en": "That’s all I can offer you - <b>take it or leave it</b>.",
+    "vi": "Đó là tất cả tôi có thể đưa – <b>chịu thì lấy, không thì thôi</b>."
+   }
+  },
+  {
+   "word": "give or take",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ˌɡɪv ɔː ˈteɪk/",
+   "def_en": "Perhaps a little more or a little less.",
+   "def_vi": "Có thể hơn hoặc kém một chút.",
+   "gloss_vi": "xê dịch, chênh lệch",
+   "synonyms": "approximately <i>(adv. khoảng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Give or take</i> (preposition) = xê dịch, chênh lệch. <b>Grammar</b>: + số lượng.",
+   "example": {
+    "en": "It’s about the same distance as from here to Dublin, <b>give or take</b> a few miles.",
+    "vi": "Xa bằng từ đây đến Dublin, <b>xê dịch</b> vài dặm."
+   }
+  }
+ ]
+}
