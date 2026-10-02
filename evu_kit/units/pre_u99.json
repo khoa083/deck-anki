@@ -1,0 +1,200 @@
+{
+ "book": "pre",
+ "unit": 99,
+ "title_vi": "Email và tin nhắn thân mật",
+ "theory_html": "<p><b>A. An email</b><br><i>A. Một email</i></p> <p>Begin: <b>Hi / Hello / Dear Beth</b>. <b>She’s a laugh; I’m hoping to…; I’ll be in touch; anything you fancy seeing; Give my regards to Conrad</b> (also <b>send my regards to</b>, <b>give/send my love to</b>); <b>once again</b>. End: <b>Love / Lots of love / Best wishes / All the best</b>.</p><p><i><b>người vui tính; hy vọng; sẽ liên lạc; muốn xem; gửi lời hỏi thăm; một lần nữa; thân, chúc mọi điều tốt đẹp</b>.</i></p> <p><b>B. Messaging</b><br><i>B. Nhắn tin</i></p> <p><b>it’s been ages since…; let you know; in two weeks’ time; actually (syn in fact); get together; join us; anyway</b>. <b>actually</b> = in fact, NOT <b>at the moment</b> (<b>currently</b>).</p><p><i><b>lâu lắm rồi; báo cho bạn; hai tuần nữa; thật ra; gặp nhau; đi cùng; thôi</b>.</i></p>",
+ "items": [
+  {
+   "word": "a laugh",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ə ˈlɑːf/",
+   "def_en": "A funny person (informal).",
+   "def_vi": "Người vui tính (thân mật).",
+   "gloss_vi": "người vui tính",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A laugh</i> (noun phrase) = người vui tính. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "She’s <b>a laugh</b>, isn’t she?",
+    "vi": "Cô ấy là <b>người vui tính</b>, phải không?"
+   }
+  },
+  {
+   "word": "hope to",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˈhəʊp tə/",
+   "def_en": "To plan or intend to.",
+   "def_vi": "Dự định.",
+   "gloss_vi": "hy vọng sẽ",
+   "synonyms": "intend to <i>(vp. dự định)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Hope to</i> (verb phrase) = hy vọng sẽ. <b>Grammar</b>: <i>be hoping to</i> = đang dự định.",
+   "example": {
+    "en": "I’m <b>hoping to</b> get tickets for the film festival next week.",
+    "vi": "Tôi <b>hy vọng</b> mua được vé liên hoan phim tuần sau."
+   }
+  },
+  {
+   "word": "be in touch",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/bi ɪn ˈtʌtʃ/",
+   "def_en": "To make contact, e.g. by phone, email or text.",
+   "def_vi": "Liên lạc qua điện thoại, email, tin nhắn.",
+   "gloss_vi": "liên lạc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be in touch</i> (verb phrase) = liên lạc. <b>Grammar</b>: <i>I’ll be in touch</i> (kết thư/tin).",
+   "example": {
+    "en": "<b>I’ll be in touch</b> to see if there’s anything you fancy seeing.",
+    "vi": "<b>Tôi sẽ liên lạc</b> để xem bạn thích xem gì."
+   }
+  },
+  {
+   "word": "give my regards to",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌɡɪv maɪ rɪˈɡɑːdz tə/",
+   "def_en": "Say hello to someone from me.",
+   "def_vi": "Gửi lời chào ai giúp tôi.",
+   "gloss_vi": "gửi lời hỏi thăm",
+   "synonyms": "send my regards to <i>(phr. gửi lời hỏi thăm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Give my regards to</i> (phrase) = gửi lời hỏi thăm. <b>Grammar</b>: gia đình/bạn thân: <i>give/send my love to</i>.",
+   "example": {
+    "en": "<b>Give my regards to</b> Conrad when he gets back from Poland.",
+    "vi": "<b>Gửi lời hỏi thăm</b> Conrad khi anh ấy về từ Ba Lan."
+   }
+  },
+  {
+   "word": "once again",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌwʌns əˈɡen/",
+   "def_en": "Again, as before.",
+   "def_vi": "Lại, một lần nữa.",
+   "gloss_vi": "một lần nữa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Once again</i> (phrase) = một lần nữa. <b>Grammar</b>: dùng để cảm ơn thêm lần nữa.",
+   "example": {
+    "en": "And <b>once again</b>, thanks for last night.",
+    "vi": "Và <b>một lần nữa</b>, cảm ơn vì tối qua."
+   }
+  },
+  {
+   "word": "love",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/lʌv/",
+   "def_en": "Used to end an informal email to a close friend or family member.",
+   "def_vi": "Dùng kết thư thân mật cho bạn thân, gia đình.",
+   "gloss_vi": "thân (cuối thư)",
+   "synonyms": "lots of love <i>(phr. thương nhiều)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Love</i> (noun) = thân (cuối thư). <b>Grammar</b>: <i>Best wishes / All the best</i> cho bạn bè.",
+   "example": {
+    "en": "<b>Love</b>, Sophie",
+    "vi": "<b>Thân</b>, Sophie"
+   }
+  },
+  {
+   "word": "best wishes",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌbest ˈwɪʃɪz/",
+   "def_en": "Used to end an email to a friend.",
+   "def_vi": "Dùng kết email gửi bạn.",
+   "gloss_vi": "chúc mọi điều tốt đẹp",
+   "synonyms": "all the best <i>(phr. chúc mọi điều tốt đẹp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Best wishes</i> (phrase) = chúc mọi điều tốt đẹp. <b>Grammar</b>: kết thư thân mật.",
+   "example": {
+    "en": "We also often use <b>Best wishes</b> or All the best when we end a letter or email to a friend.",
+    "vi": "Kết thư cho bạn bè thường dùng <b>Chúc mọi điều tốt đẹp</b>."
+   }
+  },
+  {
+   "word": "it’s been ages since",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ɪts bɪn ˈeɪdʒɪz sɪns/",
+   "def_en": "A long time has passed since.",
+   "def_vi": "Đã lâu kể từ khi.",
+   "gloss_vi": "lâu lắm rồi kể từ khi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>It’s been ages since</i> (phrase) = lâu lắm rồi kể từ khi. <b>Grammar</b>: + quá khứ đơn.",
+   "example": {
+    "en": "Sorry <b>it’s been ages since</b> I last got in touch.",
+    "vi": "Xin lỗi, <b>lâu lắm rồi</b> tôi mới liên lạc."
+   }
+  },
+  {
+   "word": "let you know",
+   "sense": "",
+   "pos": "verb phrase",
+   "ipa": "/ˌlet juː ˈnəʊ/",
+   "def_en": "To tell you.",
+   "def_vi": "Nói cho bạn biết.",
+   "gloss_vi": "báo cho bạn",
+   "synonyms": "tell <i>(v. nói)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Let you know</i> (verb phrase) = báo cho bạn. <b>Grammar</b>: <i>let sb know (sth)</i>.",
+   "example": {
+    "en": "I just wanted to <b>let you know</b> that I’m coming to Birmingham.",
+    "vi": "Tôi chỉ muốn <b>báo cho bạn</b> là tôi sắp đến Birmingham."
+   }
+  },
+  {
+   "word": "actually",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈæktʃuəli/",
+   "def_en": "Used to give more exact information or say something surprising.",
+   "def_vi": "Dùng để đưa thông tin chính xác hơn hay điều bất ngờ.",
+   "gloss_vi": "thật ra",
+   "synonyms": "in fact <i>(phr. thực tế)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Actually</i> (adverb) = thật ra. <b>Grammar</b>: ≠ <i>currently</i> (hiện tại).",
+   "example": {
+    "en": "He looks Italian, but <b>actually</b> he’s not.",
+    "vi": "Anh ấy trông giống người Ý, nhưng <b>thật ra</b> không phải."
+   }
+  },
+  {
+   "word": "join",
+   "sense": "come with",
+   "pos": "verb",
+   "ipa": "/dʒɔɪn/",
+   "def_en": "To come with someone.",
+   "def_vi": "Đi cùng ai.",
+   "gloss_vi": "đi cùng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Join</i> (verb) = đi cùng. <b>Grammar</b>: <i>join sb (for sth)</i>.",
+   "example": {
+    "en": "Maybe Mark could <b>join us</b> as well?",
+    "vi": "Có lẽ Mark cũng có thể <b>đi cùng chúng ta</b>?"
+   }
+  },
+  {
+   "word": "anyway",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈeniweɪ/",
+   "def_en": "Used to change the subject or end a conversation.",
+   "def_vi": "Dùng đổi chủ đề hay kết cuộc nói chuyện.",
+   "gloss_vi": "thôi, dù sao",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Anyway</i> (adverb) = thôi, dù sao. <b>Grammar</b>: văn nói và nhắn tin.",
+   "example": {
+    "en": "Great! <b>Anyway</b>, better get back to work.",
+    "vi": "Tuyệt! <b>Thôi</b>, phải quay lại làm việc đây."
+   }
+  }
+ ]
+}

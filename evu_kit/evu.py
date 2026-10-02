@@ -25,11 +25,12 @@ def run(*a): return subprocess.call([PY] + [os.path.join(KIT, "tools", a[0])] + 
 def check(book=None, units=None):
     import build_deck as BD
     files = sorted(glob.glob(os.path.join(KIT, "units", f"{book or '*'}_u*.json")))
-    if units: files = [f for f in files if int(f[-7:-5]) in units]
+    if units: files = [f for f in files if int(re.search(r'_u(\d+)\.json$', f).group(1)) in units]
     seen = collections.defaultdict(dict)   # book -> (word,sense) -> unit
     for f in sorted(glob.glob(os.path.join(KIT, "units", "*_u*.json"))):
         u = json.load(open(f, encoding="utf-8"))
-        for it in u["items"]: seen[u["book"]].setdefault((it["word"].lower(), it.get("sense", "").lower()), u["unit"])
+        for it in u["items"]:
+            k = (it["word"].lower(), it.get("sense", "").lower()); seen[u["book"]][k] = min(seen[u["book"]].get(k, 999), u["unit"])
     nerr = 0
     for f in files:
         u = json.load(open(f, encoding="utf-8")); b = u["book"]; E = BD.validate(u, os.path.basename(f), b); W = []
@@ -78,7 +79,7 @@ def verify(book):
 
 def status():
     for b, info in BOOKS.items():
-        have = sorted(int(f[-7:-5]) for f in glob.glob(os.path.join(KIT, "units", f"{b}_u*.json")))
+        have = sorted(int(re.search(r'_u(\d+)\.json$', f).group(1)) for f in glob.glob(os.path.join(KIT, "units", f"{b}_u*.json")))
         demo = set(info.get("demo_units", []))
         n = len(info["units"]); done = sorted(set(have) | demo)
         items = sum(len(json.load(open(f))["items"]) for f in glob.glob(os.path.join(KIT, "units", f"{b}_u*.json")))

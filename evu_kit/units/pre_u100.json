@@ -1,0 +1,260 @@
+{
+ "book": "pre",
+ "unit": 100,
+ "title_vi": "Chữ viết tắt",
+ "theory_html": "<p><b>A. Letters or words?</b><br><i>A. Đọc từng chữ hay đọc như từ?</i></p> <p>Most are spoken as letters: <b>EU, UN, PM, MP, BBC, ID, PC, CV, ISP</b>; some as words: <b>AIDS, PIN</b>. <b>What does EU stand for?</b></p><p><i>Đa số đọc từng chữ cái; <b>stand for</b> = viết tắt của.</i></p> <p><b>B. Written forms only</b><br><i>B. Chỉ dạng viết</i></p> <p><b>Mr, Mrs, Dr, St</b> (Saint / Street) – pronounced as full words.</p><p><i><b>ông, bà, bác sĩ, thánh/phố</b>.</i></p> <p><b>C. Abbreviations as part of the language</b><br><i>C. Viết tắt gốc Latin</i></p> <p><b>etc.</b> (and so on), <b>e.g.</b> (for example), <b>i.e.</b> (that’s to say / in other words).</p><p><i><b>vân vân, ví dụ, tức là</b>.</i></p> <p><b>D. Shortened words</b><br><i>D. Từ rút gọn</i></p> <p><b>phone, fridge, maths, exam, board, plane, case, photo, ad/advert, flu, gym, lab, bike, sales rep, TV/telly, vet, paper</b>.</p><p><i>Dạng rút gọn thường gặp hơn dạng đầy đủ.</i></p>",
+ "items": [
+  {
+   "word": "EU",
+   "sense": "",
+   "pos": "abbreviation",
+   "ipa": "/ˌiː ˈjuː/",
+   "def_en": "The European Union.",
+   "def_vi": "Liên minh châu Âu.",
+   "gloss_vi": "Liên minh châu Âu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>EU</i> (abbreviation) = Liên minh châu Âu. <b>Grammar</b>: đọc từng chữ cái.",
+   "example": {
+    "en": "What does <b>EU</b> stand for? – European Union.",
+    "vi": "EU là viết tắt của gì? – <b>Liên minh châu Âu</b>."
+   }
+  },
+  {
+   "word": "UN",
+   "sense": "",
+   "pos": "abbreviation",
+   "ipa": "/ˌjuː ˈen/",
+   "def_en": "The United Nations.",
+   "def_vi": "Liên Hợp Quốc.",
+   "gloss_vi": "Liên Hợp Quốc",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>UN</i> (abbreviation) = Liên Hợp Quốc. <b>Grammar</b>: <i>the UN</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>UN</b> has its headquarters in New York.",
+    "vi": "<b>Liên Hợp Quốc</b> có trụ sở ở New York."
+   }
+  },
+  {
+   "word": "PM",
+   "sense": "",
+   "pos": "abbreviation",
+   "ipa": "/ˌpiː ˈem/",
+   "def_en": "The Prime Minister.",
+   "def_vi": "Thủ tướng.",
+   "gloss_vi": "thủ tướng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>PM</i> (abbreviation) = thủ tướng. <b>Grammar</b>: <i>the PM</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The <b>PM</b> will make a speech tonight.",
+    "vi": "<b>Thủ tướng</b> sẽ phát biểu tối nay."
+   }
+  },
+  {
+   "word": "BBC",
+   "sense": "",
+   "pos": "abbreviation",
+   "ipa": "/ˌbiː biː ˈsiː/",
+   "def_en": "The British Broadcasting Corporation.",
+   "def_vi": "Đài phát thanh truyền hình Anh.",
+   "gloss_vi": "đài BBC",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>BBC</i> (abbreviation) = đài BBC. <b>Grammar</b>: <i>the BBC</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I heard the news on the <b>BBC</b>.",
+    "vi": "Tôi nghe tin tức trên <b>BBC</b>."
+   }
+  },
+  {
+   "word": "PC",
+   "sense": "",
+   "pos": "abbreviation",
+   "ipa": "/ˌpiː ˈsiː/",
+   "def_en": "A personal computer.",
+   "def_vi": "Máy tính cá nhân.",
+   "gloss_vi": "máy tính cá nhân",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>PC</i> (abbreviation) = máy tính cá nhân. <b>Grammar</b>: viết tắt <i>personal computer</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Do you use a <b>PC</b> or a laptop?",
+    "vi": "Bạn dùng <b>máy tính để bàn</b> hay máy tính xách tay?"
+   }
+  },
+  {
+   "word": "PIN",
+   "sense": "",
+   "pos": "abbreviation",
+   "ipa": "/pɪn/",
+   "def_en": "Personal identification number, used with a bank card.",
+   "def_vi": "Mã số cá nhân dùng cho thẻ ngân hàng.",
+   "gloss_vi": "mã PIN",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>PIN</i> (abbreviation) = mã PIN. <b>Grammar</b>: đọc như một từ /pɪn/.",
+   "ex_kit": true,
+   "example": {
+    "en": "Enter your <b>PIN</b>.",
+    "vi": "Nhập <b>mã PIN</b> của bạn."
+   }
+  },
+  {
+   "word": "stand for",
+   "sense": "",
+   "pos": "phrasal verb",
+   "ipa": "/ˈstænd fə(r)/",
+   "def_en": "To be a short form of.",
+   "def_vi": "Là dạng viết tắt của.",
+   "gloss_vi": "là viết tắt của",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stand for</i> (phrasal verb) = là viết tắt của. <b>Grammar</b>: <i>What does X stand for?</i>.",
+   "example": {
+    "en": "What does EU <b>stand for</b>?",
+    "vi": "EU <b>là viết tắt của</b> gì?"
+   }
+  },
+  {
+   "word": "Dr",
+   "sense": "",
+   "pos": "abbreviation",
+   "ipa": "/ˈdɒktə(r)/",
+   "def_en": "Doctor (written form).",
+   "def_vi": "Bác sĩ (dạng viết).",
+   "gloss_vi": "bác sĩ, tiến sĩ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Dr</i> (abbreviation) = bác sĩ, tiến sĩ. <b>Grammar</b>: chỉ dạng viết, đọc <i>doctor</i>.",
+   "example": {
+    "en": "<b>Dr</b> Chapman",
+    "vi": "<b>Bác sĩ</b> Chapman."
+   }
+  },
+  {
+   "word": "etc.",
+   "sense": "",
+   "pos": "abbreviation",
+   "ipa": "/et ˈsetərə/",
+   "def_en": "And so on.",
+   "def_vi": "Và vân vân.",
+   "gloss_vi": "vân vân",
+   "synonyms": "and so on <i>(phr. vân vân)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Etc.</i> (abbreviation) = vân vân. <b>Grammar</b>: từ Latin <i>et cetera</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I bought apples, oranges, bananas, <b>etc.</b>",
+    "vi": "Tôi mua táo, cam, chuối <b>v.v.</b>."
+   }
+  },
+  {
+   "word": "e.g.",
+   "sense": "",
+   "pos": "abbreviation",
+   "ipa": "/ˌiː ˈdʒiː/",
+   "def_en": "For example.",
+   "def_vi": "Ví dụ.",
+   "gloss_vi": "ví dụ",
+   "synonyms": "for example <i>(phr. ví dụ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>E.g.</i> (abbreviation) = ví dụ. <b>Grammar</b>: từ Latin <i>exempli gratia</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "Bring some fruit, <b>e.g.</b> apples or bananas.",
+    "vi": "Mang theo trái cây, <b>ví dụ</b> táo hay chuối."
+   }
+  },
+  {
+   "word": "i.e.",
+   "sense": "",
+   "pos": "abbreviation",
+   "ipa": "/ˌaɪ ˈiː/",
+   "def_en": "That’s to say; in other words.",
+   "def_vi": "Tức là; nói cách khác.",
+   "gloss_vi": "tức là",
+   "synonyms": "in other words <i>(phr. nói cách khác)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>I.e.</i> (abbreviation) = tức là. <b>Grammar</b>: từ Latin <i>id est</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "The deadline is the end of the month, <b>i.e.</b> the 30th.",
+    "vi": "Hạn cuối là cuối tháng, <b>tức là</b> ngày 30."
+   }
+  },
+  {
+   "word": "gym",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/dʒɪm/",
+   "def_en": "A gymnasium; a place for exercise.",
+   "def_vi": "Phòng tập thể dục.",
+   "gloss_vi": "phòng tập",
+   "synonyms": "gymnasium <i>(n. phòng tập)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Gym</i> (noun) = phòng tập. <b>Grammar</b>: dạng rút gọn phổ biến hơn.",
+   "ex_kit": true,
+   "example": {
+    "en": "I go to the <b>gym</b> three times a week.",
+    "vi": "Tôi đi <b>phòng tập</b> ba lần một tuần."
+   }
+  },
+  {
+   "word": "bike",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/baɪk/",
+   "def_en": "A bicycle.",
+   "def_vi": "Xe đạp.",
+   "gloss_vi": "xe đạp",
+   "synonyms": "bicycle <i>(n. xe đạp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bike</i> (noun) = xe đạp. <b>Grammar</b>: <i>by bike</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "I go to work by <b>bike</b>.",
+    "vi": "Tôi đi làm bằng <b>xe đạp</b>."
+   }
+  },
+  {
+   "word": "sales rep",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ˈseɪlz rep/",
+   "def_en": "A sales representative.",
+   "def_vi": "Đại diện bán hàng.",
+   "gloss_vi": "nhân viên kinh doanh",
+   "synonyms": "salesperson <i>(n. người bán hàng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Sales rep</i> (noun phrase) = nhân viên kinh doanh. <b>Grammar</b>: viết tắt <i>sales representative</i>.",
+   "ex_kit": true,
+   "example": {
+    "en": "He’s a <b>sales rep</b> for a computer company.",
+    "vi": "Anh ấy là <b>nhân viên kinh doanh</b> của một công ty máy tính."
+   }
+  },
+  {
+   "word": "telly",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈteli/",
+   "def_en": "Television (informal).",
+   "def_vi": "Ti vi (thân mật).",
+   "gloss_vi": "ti vi",
+   "synonyms": "TV <i>(n. ti vi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Telly</i> (noun) = ti vi. <b>Grammar</b>: thân mật, Anh–Anh.",
+   "ex_kit": true,
+   "example": {
+    "en": "Is there anything good on the <b>telly</b> tonight?",
+    "vi": "Có gì hay trên <b>ti vi</b> tối nay không?"
+   }
+  }
+ ]
+}
