@@ -1,0 +1,280 @@
+{
+ "book": "gva",
+ "unit": 14,
+ "title_vi": "Câu điều kiện",
+ "theory_html": "<p><b>2.1. Real and unreal conditionals</b><br><i>2.1. Điều kiện có thật và không có thật</i></p> <p>Real: true, generally happens, likely (<b>if + present simple, + present simple / will</b>); unreal: imaginary, untrue (<b>if + past simple, + would</b>; <b>if + past perfect, + would have + past participle</b>); many patterns in real conditionals (<b>going to, might</b>, continuous); no <b>will</b> in the if-clause except for a result of the main clause or strong disapproval (<b>if you will throw stones</b>); other modals in unreal main clauses; no <b>would</b> in the if-clause.</p><p><i>Có thật / không có thật; không dùng <b>will</b> trong mệnh đề if (trừ kết quả hoặc chê trách).</i></p> <p><b>2.2. Mixed conditionals</b><br><i>2.2. Câu điều kiện hỗn hợp</i></p> <p><b>if + past, would have + past participle</b>; <b>if + past perfect, would + bare infinitive</b>; formal <b>were</b> (<b>if I were you</b>); <b>if … were + to-infinitive</b> for imaginary future (not with state verbs).</p><p><i>Hỗn hợp thì; <b>were</b>; <b>if … were to</b>.</i></p> <p><b>2.3. If … not and unless</b><br><i>2.3. If … not và unless</i></p> <p><b>unless</b> = except if (real); <b>if … not</b> when the event is unexpected, in questions, meaning ‘because … not’, in unreal conditionals; <b>unless</b> for an afterthought.</p><p><i><b>unless</b> = trừ khi; <b>if not</b> trong câu hỏi, điều kiện không có thật.</i></p> <p><b>2.4. Even if and even though</b><br><i>2.4. Even if và even though</i></p> <p><b>even if</b> = whether or not; <b>even though</b> = despite the fact that.</p><p><i><b>even if</b> = dù có hay không; <b>even though</b> = mặc dù.</i></p> <p><b>2.5. If only and wish</b><br><i>2.5. If only và wish</i></p> <p><b>if only / wish</b> + past simple (present wish), + past perfect (past regret), + <b>would</b> (criticism, wanting change; not <b>I wish I would</b>).</p><p><i>Ước hiện tại, tiếc quá khứ, phàn nàn.</i></p> <p><b>2.6. Other conditional expressions</b><br><i>2.6. Cách diễn đạt điều kiện khác</i></p> <p><b>provided / providing (that), so long as / as long as, on condition that, in the event of, supposing, in case of, otherwise, but for</b>.</p><p><i><b>miễn là, với điều kiện, trong trường hợp, giả sử, nếu không thì, nếu không có</b>.</i></p>",
+ "items": [
+  {
+   "word": "real conditional",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˌrɪəl kənˈdɪʃənl/",
+   "def_en": "A conditional about something true, that generally happens, or is likely.",
+   "def_vi": "Câu điều kiện về điều có thật, thường xảy ra hay có khả năng.",
+   "gloss_vi": "câu điều kiện có thật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "unreal conditional <i>(st. điều kiện không thật)</i>",
+   "grammar_vi": "<i>Real conditional</i> (structure) = câu điều kiện có thật. <b>Grammar</b>: <i>if</i> + hiện tại đơn, + <i>will</i>; không dùng <i>will</i> trong mệnh đề <i>if</i>.",
+   "example": {
+    "en": "<b>If we don't provide safe havens for animals</b>, many will die out",
+    "vi": "<b>Nếu không tạo nơi trú ẩn an toàn</b>, nhiều loài sẽ tuyệt chủng."
+   }
+  },
+  {
+   "word": "unreal conditional",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˌʌnrɪəl kənˈdɪʃənl/",
+   "def_en": "A conditional about something imaginary, untrue or unlikely.",
+   "def_vi": "Câu điều kiện về điều tưởng tượng, không thật.",
+   "gloss_vi": "câu điều kiện không có thật",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "real conditional <i>(st. điều kiện có thật)</i>",
+   "grammar_vi": "<i>Unreal conditional</i> (structure) = câu điều kiện không có thật. <b>Grammar</b>: <i>if</i> + quá khứ đơn, + <i>would</i>; không dùng <i>would</i> trong mệnh đề <i>if</i>.",
+   "example": {
+    "en": "<b>If they were in the wild</b>, they would have more space to roam free.",
+    "vi": "<b>Nếu ở ngoài tự nhiên</b>, chúng sẽ có nhiều không gian hơn."
+   }
+  },
+  {
+   "word": "third conditional",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˌθɜːd kənˈdɪʃənl/",
+   "def_en": "If + past perfect, + would have + past participle, for an unreal past.",
+   "def_vi": "if + quá khứ hoàn thành, + would have + V3: quá khứ không thật.",
+   "gloss_vi": "câu điều kiện loại 3",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Third conditional</i> (structure) = câu điều kiện loại 3. <b>Grammar</b>: có thể dùng <i>might have</i> ở mệnh đề chính.",
+   "example": {
+    "en": "If we had introduced captive breeding programmes sooner, we <b>would have prevented</b> the extinction of a number of animals.",
+    "vi": "Nếu triển khai nhân giống sớm hơn, <b>ta đã ngăn được</b> sự tuyệt chủng."
+   }
+  },
+  {
+   "word": "if you will",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ɪf ju ˈwɪl/",
+   "def_en": "Will in the if-clause showing strong disapproval.",
+   "def_vi": "Will trong mệnh đề if thể hiện chê trách.",
+   "gloss_vi": "nếu cứ (mãi)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>If you will</i> (structure) = nếu cứ (mãi). <b>Grammar</b>: <i>will</i> trong mệnh đề <i>if</i> chỉ khi chê trách hoặc nói kết quả của mệnh đề chính.",
+   "example": {
+    "en": "Well, <b>if you will</b> throw stones at the animals, it's not surprising!",
+    "vi": "Nếu cứ <b>ném đá vào thú</b>, chẳng lạ gì!"
+   }
+  },
+  {
+   "word": "mixed conditional",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˌmɪkst kənˈdɪʃənl/",
+   "def_en": "A conditional mixing tenses, e.g. if + past perfect, + would + bare infinitive.",
+   "def_vi": "Câu điều kiện trộn thì.",
+   "gloss_vi": "câu điều kiện hỗn hợp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Mixed conditional</i> (structure) = câu điều kiện hỗn hợp. <b>Grammar</b>: cũng <i>if</i> + quá khứ, + <i>would have</i> + V3.",
+   "example": {
+    "en": "If game reserves had been set up earlier, there <b>would now be</b> fewer animals in danger",
+    "vi": "Nếu khu bảo tồn được lập sớm hơn, <b>giờ đã có ít</b> loài nguy cấp hơn."
+   }
+  },
+  {
+   "word": "if it were not for",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ɪf ɪt ˈwɜː nɒt fə(r)/",
+   "def_en": "Without (formal, with were).",
+   "def_vi": "Nếu không có (trang trọng).",
+   "gloss_vi": "nếu không có",
+   "synonyms": "but for <i>(prep. nếu không có)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>If it were not for</i> (structure) = nếu không có. <b>Grammar</b>: <i>if I were you</i> để khuyên.",
+   "example": {
+    "en": "<b>If it were not for</b> zoos, most people would never see wild animals.",
+    "vi": "<b>Nếu không có</b> sở thú, phần lớn người ta sẽ không bao giờ thấy thú hoang."
+   }
+  },
+  {
+   "word": "if … were to",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ɪf ... wɜː tə/",
+   "def_en": "Used to talk about imaginary future situations.",
+   "def_vi": "Nói về tình huống tương lai giả định.",
+   "gloss_vi": "nếu (giả sử)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>If … were to</i> (structure) = nếu (giả sử). <b>Grammar</b>: không dùng với động từ trạng thái (<i>know, understand</i>).",
+   "example": {
+    "en": "<b>If the government were to ban</b> zoos, it would put captive breeding programmes at risk.",
+    "vi": "<b>Nếu chính phủ cấm</b> sở thú, chương trình nhân giống sẽ gặp rủi ro."
+   }
+  },
+  {
+   "word": "unless",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/ənˈles/",
+   "def_en": "Except if.",
+   "def_vi": "Trừ khi.",
+   "gloss_vi": "trừ khi",
+   "synonyms": "if not <i>(conj. nếu không)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Unless</i> (conjunction) = trừ khi. <b>Grammar</b>: dùng <i>if… not</i> khi bất ngờ, trong câu hỏi, điều kiện không thật; <i>unless</i> cho ý bổ sung sau.",
+   "example": {
+    "en": "<b>Unless</b> we expand captive breeding many more animals will die out",
+    "vi": "<b>Trừ khi</b> mở rộng nhân giống, nhiều loài nữa sẽ tuyệt chủng."
+   }
+  },
+  {
+   "word": "even if",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/ˌiːvn ˈɪf/",
+   "def_en": "Whether or not.",
+   "def_vi": "Dù có hay không.",
+   "gloss_vi": "ngay cả nếu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Even if</i> (conjunction) = ngay cả nếu. <b>Grammar</b>: khác <i>even though</i>.",
+   "example": {
+    "en": "<b>Even if</b> wild animals are born in a zoo, it is still cruel to keep them in a small enclosure",
+    "vi": "<b>Ngay cả nếu</b> thú sinh ra ở sở thú, nhốt chúng vẫn tàn nhẫn."
+   }
+  },
+  {
+   "word": "even though",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/ˌiːvn ˈðəʊ/",
+   "def_en": "Despite the fact that.",
+   "def_vi": "Mặc dù thực tế là.",
+   "gloss_vi": "mặc dù",
+   "synonyms": "although <i>(conj. mặc dù)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Even though</i> (conjunction) = mặc dù. <b>Grammar</b>: khác <i>even if</i>.",
+   "example": {
+    "en": "<b>Even though</b> they say they are concerned about the welfare of animals, they are still businesses",
+    "vi": "<b>Mặc dù</b> nói quan tâm phúc lợi thú, họ vẫn là doanh nghiệp vì lợi nhuận."
+   }
+  },
+  {
+   "word": "if only",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ɪf ˈəʊnli/",
+   "def_en": "Used to say we want a situation to be different or regret a past event.",
+   "def_vi": "Ước tình huống khác đi hay tiếc quá khứ.",
+   "gloss_vi": "giá mà",
+   "synonyms": "I wish <i>(st. ước gì)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>If only</i> (structure) = giá mà. <b>Grammar</b>: + quá khứ đơn (hiện tại), + quá khứ hoàn thành (quá khứ), + <i>would</i> (phàn nàn).",
+   "example": {
+    "en": "<b>If only</b> we had acted sooner.",
+    "vi": "<b>Giá mà</b> chúng ta hành động sớm hơn."
+   }
+  },
+  {
+   "word": "wish + would",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/wɪʃ ... wʊd/",
+   "def_en": "Used to criticise someone or say we want their behaviour to change.",
+   "def_vi": "Phàn nàn, muốn ai thay đổi hành vi.",
+   "gloss_vi": "ước gì ai đó chịu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wish + would</i> (structure) = ước gì ai đó chịu. <b>Grammar</b>: không nói <i>I wish I would</i>.",
+   "example": {
+    "en": "<b>I wish</b> Nadia Muller and the people in Save the Animals <b>would</b> read the scientific research",
+    "vi": "Tôi <b>ước</b> Nadia Muller <b>chịu đọc</b> nghiên cứu khoa học."
+   }
+  },
+  {
+   "word": "provided that",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/prəˈvaɪdɪd ðæt/",
+   "def_en": "On condition that.",
+   "def_vi": "Với điều kiện là.",
+   "gloss_vi": "miễn là",
+   "synonyms": "providing <i>(conj. miễn là)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Provided that</i> (conjunction) = miễn là. <b>Grammar</b>: cũng <i>so long as, as long as, on condition that</i>.",
+   "example": {
+    "en": "I'm all in favour of safari parks <b>provided (that)</b> / providing (that) the animals are well looked after",
+    "vi": "Tôi ủng hộ công viên safari <b>miễn là</b> thú được chăm sóc tốt."
+   }
+  },
+  {
+   "word": "in the event of",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ɪn ði ɪˈvent əv/",
+   "def_en": "If something happens (formal).",
+   "def_vi": "Nếu điều gì xảy ra (trang trọng).",
+   "gloss_vi": "trong trường hợp",
+   "synonyms": "in case of <i>(prep. trong trường hợp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In the event of</i> (preposition) = trong trường hợp. <b>Grammar</b>: + danh từ / V-ing.",
+   "example": {
+    "en": "<b>In the event of</b> the alarm sounding visitors should leave the zoo by the nearest exit.",
+    "vi": "<b>Trong trường hợp</b> chuông báo động kêu, khách nên ra lối gần nhất."
+   }
+  },
+  {
+   "word": "supposing",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/səˈpəʊzɪŋ/",
+   "def_en": "Imagine that; what if.",
+   "def_vi": "Giả sử.",
+   "gloss_vi": "giả sử",
+   "synonyms": "what if <i>(conj. nếu… thì sao)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Supposing</i> (conjunction) = giả sử. <b>Grammar</b>: + thì hiện tại cho tương lai.",
+   "example": {
+    "en": "<b>Supposing</b> the proposal is rejected, what will you do then?",
+    "vi": "<b>Giả sử</b> đề xuất bị bác, bạn sẽ làm gì?"
+   }
+  },
+  {
+   "word": "otherwise",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈʌðəwaɪz/",
+   "def_en": "If not.",
+   "def_vi": "Nếu không thì.",
+   "gloss_vi": "nếu không thì",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Otherwise</i> (adverb) = nếu không thì. <b>Grammar</b>: nối hai mệnh đề.",
+   "example": {
+    "en": "We must protect natural habitats, <b>otherwise</b> more animals will become extinct.",
+    "vi": "Phải bảo vệ môi trường sống, <b>nếu không</b> nhiều loài sẽ tuyệt chủng."
+   }
+  },
+  {
+   "word": "but for",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ˈbʌt fə(r)/",
+   "def_en": "Without; if it were not for.",
+   "def_vi": "Nếu không có.",
+   "gloss_vi": "nếu không nhờ",
+   "synonyms": "if it were not for <i>(st. nếu không có)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>But for</i> (preposition) = nếu không nhờ. <b>Grammar</b>: trang trọng, + danh từ.",
+   "example": {
+    "en": "<b>But for</b> the existence of zoos, many people would never have seen wild animals.",
+    "vi": "<b>Nếu không có</b> sở thú, nhiều người chưa bao giờ thấy thú hoang."
+   }
+  }
+ ]
+}
