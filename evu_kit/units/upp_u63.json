@@ -1,0 +1,440 @@
+{
+ "book": "upp",
+ "unit": 63,
+ "title_vi": "Nguyên nhân, lý do, mục đích và kết quả",
+ "theory_html": "<p><b>A. Cause and reason</b><br><i>A. Nguyên nhân và lý do</i></p> <p>Besides <b>because, since</b> and <b>as</b>: <b>due to, be caused by, the cause of, cause sth to, owing to</b>. Other ‘cause’ words (all rather formal, more suitable for written use): <b>spark (off)</b> (often for very strong, perhaps violent, reactions), <b>give rise to / provoke / generate</b> (slightly less strong), <b>bring about / lead to</b> (often political/social change), <b>stem from</b> (direct origins), <b>arise from/out of</b>.</p><p><i>Ngoài <b>because, since, as</b>: <b>do, bị gây ra bởi, nguyên nhân của, khiến, vì</b>. Từ trang trọng: <b>châm ngòi</b> (phản ứng mạnh), <b>gây ra/khơi dậy/tạo ra</b>, <b>mang lại/dẫn đến</b> (thay đổi xã hội), <b>bắt nguồn từ</b>, <b>nảy sinh từ</b>.</i></p> <p><b>LH. Language help</b><br><i>LH. Lưu ý ngôn ngữ</i></p> <p>If you use <b>owing to</b> with a clause, you must follow it with <b>the fact that</b>: <b>Owing to the fact that the conditions were icy, the two cars collided.</b></p><p><i><b>Owing to</b> + mệnh đề phải dùng <b>the fact that</b>.</i></p> <p><b>B. Reasons for and purposes of doing things</b><br><i>B. Lý do và mục đích</i></p> <p><b>reason for, the reason (why)</b> (less formal). Fairly formal: <b>motives in</b> (purpose), <b>prompt</b> (reason/cause), <b>with the aim of</b> (purpose), <b>with a view to</b> (a bit more indirect), <b>on the grounds that</b> (reason), <b>the purpose of</b>.</p><p><i><b>lý do, động cơ, thúc đẩy, nhằm mục đích, với ý định, với lý do là, mục đích của</b>.</i></p> <p><b>C. Results</b><br><i>C. Kết quả</i></p> <p>Fairly formal: <b>as a result / as a consequence / consequently, result/consequence</b> (<b>consequence</b> sounds more formal), <b>result in</b>, <b>outcome</b> [result of a process, events, meetings], <b>upshot</b> (less formal than <b>outcome</b>), <b>ensue</b> (very formal).</p><p><i><b>kết quả là, hậu quả, dẫn đến, kết cục, kết cục (thân mật hơn), xảy ra sau đó (rất trang trọng)</b>.</i></p>",
+ "items": [
+  {
+   "word": "due to",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ˈdjuː tə/",
+   "def_en": "Because of.",
+   "def_vi": "Vì, do.",
+   "gloss_vi": "do",
+   "synonyms": "owing to <i>(prep. vì)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Due to</i> (preposition) = do. <b>Grammar</b>: thường sau <i>be</i>.",
+   "example": {
+    "en": "The collision was <b>due to</b> the icy conditions.",
+    "vi": "Vụ va chạm là <b>do</b> điều kiện đường đóng băng."
+   }
+  },
+  {
+   "word": "be caused by",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/bi ˈkɔːzd baɪ/",
+   "def_en": "To happen because of something.",
+   "def_vi": "Xảy ra vì điều gì.",
+   "gloss_vi": "bị gây ra bởi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Be caused by</i> (verb) = bị gây ra bởi. <b>Grammar</b>: bị động của <i>cause</i>.",
+   "example": {
+    "en": "The collision <b>was caused by</b> ice on the road.",
+    "vi": "Vụ va chạm <b>do</b> băng trên đường <b>gây ra</b>."
+   }
+  },
+  {
+   "word": "cause",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kɔːz/",
+   "def_en": "The thing that makes something happen.",
+   "def_vi": "Thứ khiến điều gì xảy ra.",
+   "gloss_vi": "nguyên nhân",
+   "synonyms": "reason <i>(n. lý do)</i>",
+   "antonyms": "effect <i>(n. hậu quả)</i>",
+   "grammar_vi": "<i>Cause</i> (noun) = nguyên nhân. <b>Grammar</b>: <i>the cause of sth</i>.",
+   "example": {
+    "en": "The <b>cause</b> of the collision was ice on the road.",
+    "vi": "<b>Nguyên nhân</b> vụ va chạm là băng trên đường."
+   }
+  },
+  {
+   "word": "cause",
+   "sense": "verb",
+   "pos": "verb",
+   "ipa": "/kɔːz/",
+   "def_en": "To make something happen.",
+   "def_vi": "Khiến điều gì xảy ra.",
+   "gloss_vi": "gây ra, khiến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Cause</i> (verb) = gây ra, khiến. <b>Grammar</b>: <i>cause sth to do sth</i>.",
+   "example": {
+    "en": "The heavy rain <b>caused</b> the river to flood.",
+    "vi": "Mưa lớn <b>khiến</b> sông ngập lụt."
+   }
+  },
+  {
+   "word": "owing to",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ˈəʊɪŋ tə/",
+   "def_en": "Because of.",
+   "def_vi": "Vì.",
+   "gloss_vi": "vì, bởi",
+   "synonyms": "due to <i>(prep. do)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Owing to</i> (preposition) = vì, bởi. <b>Grammar</b>: + mệnh đề phải dùng <i>owing to the fact that</i>.",
+   "example": {
+    "en": "<b>Owing to</b> the icy conditions, the two cars collided.",
+    "vi": "<b>Vì</b> điều kiện đường đóng băng, hai xe đã va chạm."
+   }
+  },
+  {
+   "word": "spark off",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌspɑːk ˈɒf/",
+   "def_en": "To cause a very strong, perhaps violent, reaction (formal).",
+   "def_vi": "Gây phản ứng rất mạnh, có thể bạo lực.",
+   "gloss_vi": "châm ngòi",
+   "synonyms": "trigger <i>(v. kích hoạt)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Spark off</i> (verb) = châm ngòi. <b>Grammar</b>: cũng <i>spark</i> (không <i>off</i>).",
+   "example": {
+    "en": "The rise in prices <b>sparked off</b> a lot of political protest.",
+    "vi": "Việc tăng giá đã <b>châm ngòi</b> nhiều cuộc biểu tình chính trị."
+   }
+  },
+  {
+   "word": "give rise to",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌɡɪv ˈraɪz tə/",
+   "def_en": "To cause something (formal).",
+   "def_vi": "Gây ra điều gì (trang trọng).",
+   "gloss_vi": "gây ra, làm nảy sinh",
+   "synonyms": "provoke <i>(v. khơi dậy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Give rise to</i> (verb) = gây ra, làm nảy sinh. <b>Grammar</b>: nhẹ hơn <i>spark off</i>.",
+   "example": {
+    "en": "The President’s statement <b>gave rise to</b> a lot of criticism.",
+    "vi": "Tuyên bố của Tổng thống đã <b>làm nảy sinh</b> nhiều chỉ trích."
+   }
+  },
+  {
+   "word": "provoke",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/prəˈvəʊk/",
+   "def_en": "To cause a reaction, especially a negative one.",
+   "def_vi": "Gây phản ứng, nhất là tiêu cực.",
+   "gloss_vi": "khơi dậy, gây ra",
+   "synonyms": "give rise to <i>(v. gây ra)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Provoke</i> (verb) = khơi dậy, gây ra. <b>Common mistakes</b>: cũng = khiêu khích.",
+   "example": {
+    "en": "The President’s statement <b>provoked</b> a lot of criticism.",
+    "vi": "Tuyên bố của Tổng thống đã <b>gây ra</b> nhiều chỉ trích."
+   }
+  },
+  {
+   "word": "generate",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈdʒenəreɪt/",
+   "def_en": "To produce or cause something.",
+   "def_vi": "Tạo ra hay gây ra.",
+   "gloss_vi": "tạo ra",
+   "synonyms": "produce <i>(v. tạo ra)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Generate</i> (verb) = tạo ra. <b>Grammar</b>: cũng <i>generate electricity</i>.",
+   "example": {
+    "en": "The President’s statement <b>generated</b> a lot of criticism.",
+    "vi": "Tuyên bố của Tổng thống đã <b>tạo ra</b> nhiều chỉ trích."
+   }
+  },
+  {
+   "word": "bring about",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˌbrɪŋ əˈbaʊt/",
+   "def_en": "To cause something to happen, often change.",
+   "def_vi": "Làm điều gì xảy ra, thường là thay đổi.",
+   "gloss_vi": "mang lại, tạo ra",
+   "synonyms": "lead to <i>(v. dẫn đến)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Bring about</i> (verb) = mang lại, tạo ra. <b>Grammar</b>: thường thay đổi chính trị/xã hội.",
+   "example": {
+    "en": "The new law has <b>brought about</b> great changes in education.",
+    "vi": "Luật mới đã <b>mang lại</b> những thay đổi lớn trong giáo dục."
+   }
+  },
+  {
+   "word": "lead to",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈliːd tə/",
+   "def_en": "To cause something to happen.",
+   "def_vi": "Dẫn đến điều gì.",
+   "gloss_vi": "dẫn đến",
+   "synonyms": "bring about <i>(v. mang lại)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Lead to</i> (verb) = dẫn đến. <b>Grammar</b>: bất quy tắc: led.",
+   "example": {
+    "en": "The new law has <b>led to</b> great changes in education.",
+    "vi": "Luật mới đã <b>dẫn đến</b> những thay đổi lớn trong giáo dục."
+   }
+  },
+  {
+   "word": "stem from",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ˈstem frəm/",
+   "def_en": "To be the direct result of something.",
+   "def_vi": "Là kết quả trực tiếp của điều gì.",
+   "gloss_vi": "bắt nguồn từ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Stem from</i> (verb) = bắt nguồn từ. <b>Grammar</b>: giải thích nguồn gốc trực tiếp.",
+   "example": {
+    "en": "This problem <b>stems from</b> the inflation of recent years.",
+    "vi": "Vấn đề này <b>bắt nguồn từ</b> lạm phát những năm gần đây."
+   }
+  },
+  {
+   "word": "arise from",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əˈraɪz frəm/",
+   "def_en": "To start as a result of something.",
+   "def_vi": "Bắt đầu do điều gì.",
+   "gloss_vi": "nảy sinh từ",
+   "synonyms": "stem from <i>(v. bắt nguồn từ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Arise from</i> (verb) = nảy sinh từ. <b>Grammar</b>: cũng <i>arise out of</i>; bất quy tắc: arose, arisen.",
+   "example": {
+    "en": "The court case <b>arose from</b> allegations made in a newspaper.",
+    "vi": "Vụ kiện <b>nảy sinh từ</b> những cáo buộc trên một tờ báo."
+   }
+  },
+  {
+   "word": "reason for",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈriːzn fə(r)/",
+   "def_en": "Why something happens or is done.",
+   "def_vi": "Tại sao điều gì xảy ra.",
+   "gloss_vi": "lý do",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Reason for</i> (noun) = lý do. <b>Grammar</b>: <i>the reason (why)…</i> (ít trang trọng hơn).",
+   "example": {
+    "en": "Her <b>reason for</b> not going with us was that she had no money.",
+    "vi": "<b>Lý do</b> cô ấy không đi cùng là cô không có tiền."
+   }
+  },
+  {
+   "word": "motive",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈməʊtɪv/",
+   "def_en": "A reason for doing something.",
+   "def_vi": "Lý do làm gì.",
+   "gloss_vi": "động cơ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Motive</i> (noun) = động cơ. <b>Grammar</b>: <i>motive in + -ing</i>; khá trang trọng.",
+   "example": {
+    "en": "I wonder what his <b>motives</b> were in sending that email?",
+    "vi": "Không biết <b>động cơ</b> của anh ta khi gửi email đó là gì?"
+   }
+  },
+  {
+   "word": "prompt",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/prɒmpt/",
+   "def_en": "To cause someone to do something.",
+   "def_vi": "Khiến ai làm gì.",
+   "gloss_vi": "thúc đẩy, khiến",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Prompt</i> (verb) = thúc đẩy, khiến. <b>Grammar</b>: <i>prompt sb to do sth</i>.",
+   "example": {
+    "en": "I wonder what <b>prompted</b> her to send that message?",
+    "vi": "Không biết điều gì đã <b>khiến</b> cô ấy gửi tin nhắn đó?"
+   }
+  },
+  {
+   "word": "with the aim of",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/wɪð ði ˈeɪm əv/",
+   "def_en": "In order to.",
+   "def_vi": "Nhằm mục đích.",
+   "gloss_vi": "nhằm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>With the aim of</i> (preposition) = nhằm. <b>Grammar</b>: + -ing.",
+   "example": {
+    "en": "She wrote to the press <b>with the aim of</b> exposing the scandal.",
+    "vi": "Cô ấy viết cho báo chí <b>nhằm</b> phanh phui vụ bê bối."
+   }
+  },
+  {
+   "word": "with a view to",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/wɪð ə ˈvjuː tə/",
+   "def_en": "With the intention of (more indirect).",
+   "def_vi": "Với ý định (gián tiếp hơn).",
+   "gloss_vi": "với mong muốn, nhằm",
+   "synonyms": "with the aim of <i>(prep. nhằm)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>With a view to</i> (preposition) = với mong muốn, nhằm. <b>Grammar</b>: + -ing; <i>to</i> là giới từ.",
+   "example": {
+    "en": "I’ve invited you here <b>with a view to</b> resolving our differences.",
+    "vi": "Tôi mời các bạn đến đây <b>với mong muốn</b> giải quyết bất đồng."
+   }
+  },
+  {
+   "word": "on the grounds that",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/ɒn ðə ˈɡraʊndz ðət/",
+   "def_en": "For the reason that.",
+   "def_vi": "Với lý do là.",
+   "gloss_vi": "với lý do là",
+   "synonyms": "because <i>(conj. vì)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>On the grounds that</i> (conjunction) = với lý do là. <b>Grammar</b>: trang trọng.",
+   "example": {
+    "en": "He refused to answer <b>on the grounds that</b> his lawyer wasn’t there.",
+    "vi": "Anh ta từ chối trả lời <b>với lý do là</b> luật sư không có mặt."
+   }
+  },
+  {
+   "word": "purpose",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈpɜːpəs/",
+   "def_en": "The reason why something is done.",
+   "def_vi": "Lý do làm việc gì.",
+   "gloss_vi": "mục đích",
+   "synonyms": "aim <i>(n. mục tiêu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Purpose</i> (noun) = mục đích. <b>Grammar</b>: <i>the purpose of sth</i>; <i>on purpose</i> = cố ý.",
+   "example": {
+    "en": "The <b>purpose</b> of her visit was to inspect the equipment.",
+    "vi": "<b>Mục đích</b> chuyến thăm của cô ấy là kiểm tra thiết bị."
+   }
+  },
+  {
+   "word": "as a result",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/əz ə rɪˈzʌlt/",
+   "def_en": "Because of this.",
+   "def_vi": "Vì vậy.",
+   "gloss_vi": "kết quả là",
+   "synonyms": "consequently <i>(adv. do đó)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As a result</i> (adverb) = kết quả là. <b>Grammar</b>: <i>as a result of sth</i>.",
+   "example": {
+    "en": "He did no work. <b>As a result</b>, he failed his exams.",
+    "vi": "Anh ta không học gì. <b>Kết quả là</b> trượt kỳ thi."
+   }
+  },
+  {
+   "word": "consequently",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈkɒnsɪkwəntli/",
+   "def_en": "As a result (more formal).",
+   "def_vi": "Kết quả là (trang trọng hơn).",
+   "gloss_vi": "do đó",
+   "synonyms": "as a result <i>(adv. kết quả là)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Consequently</i> (adverb) = do đó. <b>Grammar</b>: trang trọng hơn <i>as a result</i>; cũng <i>as a consequence</i>.",
+   "example": {
+    "en": "He did no work. <b>Consequently</b>, he failed his exams.",
+    "vi": "Anh ta không học gì. <b>Do đó</b>, anh ta trượt kỳ thi."
+   }
+  },
+  {
+   "word": "consequence",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈkɒnsɪkwəns/",
+   "def_en": "A result, often a bad one (more formal than result).",
+   "def_vi": "Kết quả, thường xấu (trang trọng hơn).",
+   "gloss_vi": "hậu quả",
+   "synonyms": "result <i>(n. kết quả)</i>",
+   "antonyms": "cause <i>(n. nguyên nhân)</i>",
+   "grammar_vi": "<i>Consequence</i> (noun) = hậu quả. <b>Grammar</b>: trang trọng hơn <i>result</i>.",
+   "example": {
+    "en": "The <b>consequence</b> of all these changes is that no one is happy any more.",
+    "vi": "<b>Hậu quả</b> của mọi thay đổi này là không ai còn vui nữa."
+   }
+  },
+  {
+   "word": "result in",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/rɪˈzʌlt ɪn/",
+   "def_en": "To cause a particular result.",
+   "def_vi": "Gây ra kết quả nào đó.",
+   "gloss_vi": "dẫn đến",
+   "synonyms": "lead to <i>(v. dẫn đến)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Result in</i> (verb) = dẫn đến. <b>Grammar</b>: động từ + <i>in</i>; khác <i>result from</i>.",
+   "example": {
+    "en": "His remarks <b>resulted in</b> everyone getting angry.",
+    "vi": "Lời nhận xét của anh ta <b>khiến</b> mọi người nổi giận."
+   }
+  },
+  {
+   "word": "outcome",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈaʊtkʌm/",
+   "def_en": "The result of a process, events or discussions.",
+   "def_vi": "Kết quả của quá trình, sự kiện, thảo luận.",
+   "gloss_vi": "kết cục, kết quả",
+   "synonyms": "result <i>(n. kết quả)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Outcome</i> (noun) = kết cục, kết quả. <b>Grammar</b>: kết quả của quá trình, cuộc họp.",
+   "example": {
+    "en": "The events had an <b>outcome</b> that no one could have predicted.",
+    "vi": "Các sự kiện đã có <b>kết cục</b> không ai đoán trước được."
+   }
+  },
+  {
+   "word": "upshot",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˈʌpʃɒt/",
+   "def_en": "The final result (less formal than outcome).",
+   "def_vi": "Kết cục cuối cùng (ít trang trọng hơn outcome).",
+   "gloss_vi": "rốt cuộc, kết cục",
+   "synonyms": "outcome <i>(n. kết cục)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Upshot</i> (noun) = rốt cuộc, kết cục. <b>Grammar</b>: <i>the upshot of sth was that…</i>.",
+   "example": {
+    "en": "The <b>upshot</b> of all these problems was that we had to start again.",
+    "vi": "<b>Rốt cuộc</b> mọi rắc rối đó khiến chúng tôi phải bắt đầu lại."
+   }
+  },
+  {
+   "word": "ensue",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ɪnˈsjuː/",
+   "def_en": "To happen as a result (very formal).",
+   "def_vi": "Xảy ra như kết quả (rất trang trọng).",
+   "gloss_vi": "xảy ra sau đó",
+   "synonyms": "follow <i>(v. theo sau)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Ensue</i> (verb) = xảy ra sau đó. <b>Grammar</b>: rất trang trọng; <i>ensuing</i> (adj.).",
+   "example": {
+    "en": "When the election results were announced, chaos <b>ensued</b>.",
+    "vi": "Khi kết quả bầu cử được công bố, hỗn loạn <b>xảy ra</b>."
+   }
+  }
+ ]
+}

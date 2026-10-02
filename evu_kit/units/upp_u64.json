@@ -1,0 +1,328 @@
+{
+ "book": "upp",
+ "unit": 64,
+ "title_vi": "Nhượng bộ và tương phản",
+ "theory_html": "<p><b>A. Verbs of concession</b><br><i>A. Động từ nhượng bộ</i></p> <p>Concession means accepting one part of an idea or fact, but putting another, more important argument or fact against it. It can be expressed with a conjunction (<b>Although…</b>), an adverb (<b>nevertheless</b>), or through verbs: <b>acknowledge/accept</b> (I agree but…; <b>accept</b> is less formal), <b>admit</b> (I accept I’m guilty), <b>concede</b> (you have won this point; rather formal, used in debates).</p><p><i>Nhượng bộ là chấp nhận một phần ý kiến nhưng đưa ra lập luận quan trọng hơn đối lại. Diễn đạt bằng liên từ, trạng từ hoặc động từ: <b>thừa nhận/chấp nhận</b>, <b>thú nhận</b>, <b>chịu nhận</b> (trang trọng, trong tranh luận).</i></p> <p><b>B. Adverbs and other phrases showing contrast</b><br><i>B. Trạng từ và cụm chỉ tương phản</i></p> <p>Fairly informal: <b>that’s all well and good / that’s all very well, after all, it’s all very well, for all that</b>. More formal: <b>admittedly, the reverse was true, quite the opposite, in contrast, on the other hand</b>.</p><p><i>Khá thân mật: <b>thế thì tốt rồi nhưng, dù sao thì, nói thì dễ, dù vậy</b>. Trang trọng hơn: <b>phải thừa nhận, điều ngược lại mới đúng, hoàn toàn ngược lại, ngược lại, mặt khác</b>.</i></p> <p><b>C. Collocating phrases for contrast</b><br><i>C. Cụm kết hợp chỉ tương phản</i></p> <p><b>poles apart, a world of difference, a great divide, a yawning gap, a huge discrepancy</b>.</p><p><i><b>khác nhau một trời một vực, khác biệt rất lớn, hố sâu ngăn cách, khoảng cách lớn, chênh lệch lớn</b>.</i></p> <p><b>LH. Language help</b><br><i>LH. Lưu ý ngôn ngữ</i></p> <p><b>On the other hand</b> means ‘that is true and this is also true if we look at it from a different viewpoint’. <b>On the contrary</b> is a rather formal expression which means ‘that is not true; the opposite is true’.</p><p><i><b>On the other hand</b>: cả hai đều đúng nhìn từ góc khác. <b>On the contrary</b> (khá trang trọng): điều đó sai, điều ngược lại mới đúng.</i></p>",
+ "items": [
+  {
+   "word": "acknowledge",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/əkˈnɒlɪdʒ/",
+   "def_en": "To accept that something is true (formal).",
+   "def_vi": "Chấp nhận điều gì đúng (trang trọng).",
+   "gloss_vi": "thừa nhận",
+   "synonyms": "accept <i>(v. chấp nhận)</i>",
+   "antonyms": "deny <i>(v. phủ nhận)</i>",
+   "grammar_vi": "<i>Acknowledge</i> (verb) = thừa nhận. <b>Grammar</b>: trang trọng hơn <i>accept</i>.",
+   "example": {
+    "en": "I <b>acknowledge</b> that he has worked hard but it isn’t enough.",
+    "vi": "Tôi <b>thừa nhận</b> anh ấy đã làm việc chăm chỉ nhưng vẫn chưa đủ."
+   }
+  },
+  {
+   "word": "accept",
+   "sense": "concede",
+   "pos": "verb",
+   "ipa": "/əkˈsept/",
+   "def_en": "To agree that something is true.",
+   "def_vi": "Đồng ý điều gì đúng.",
+   "gloss_vi": "chấp nhận, công nhận",
+   "synonyms": "acknowledge <i>(v. thừa nhận)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Accept</i> (verb) = chấp nhận, công nhận. <b>Grammar</b>: <i>accept that…</i>; ít trang trọng hơn <i>acknowledge</i>.",
+   "example": {
+    "en": "I <b>accept</b> that he has worked hard but it isn’t enough.",
+    "vi": "Tôi <b>công nhận</b> anh ấy đã làm việc chăm chỉ nhưng vẫn chưa đủ."
+   }
+  },
+  {
+   "word": "admit",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/ədˈmɪt/",
+   "def_en": "To accept that you are guilty of something.",
+   "def_vi": "Chấp nhận mình có lỗi.",
+   "gloss_vi": "thừa nhận, nhận",
+   "synonyms": "confess <i>(v. thú nhận)</i>",
+   "antonyms": "deny <i>(v. chối)</i>",
+   "grammar_vi": "<i>Admit</i> (verb) = thừa nhận, nhận. <b>Grammar</b>: <i>admit (that)…</i>; <i>admit + -ing</i>.",
+   "example": {
+    "en": "I <b>admit</b> I was wrong, but I still think we were right to doubt her.",
+    "vi": "Tôi <b>thừa nhận</b> mình sai, nhưng vẫn nghĩ chúng ta nghi ngờ cô ấy là đúng."
+   }
+  },
+  {
+   "word": "concede",
+   "sense": "",
+   "pos": "verb",
+   "ipa": "/kənˈsiːd/",
+   "def_en": "To accept that someone has won a point in an argument (rather formal).",
+   "def_vi": "Chấp nhận ai đó đúng ở một điểm (khá trang trọng).",
+   "gloss_vi": "chịu nhận, thừa nhận",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Concede</i> (verb) = chịu nhận, thừa nhận. <b>Grammar</b>: dùng trong tranh luận; <i>concession</i> (n.).",
+   "example": {
+    "en": "I <b>concede</b> that you are right about the goal, but not the method.",
+    "vi": "Tôi <b>thừa nhận</b> bạn đúng về mục tiêu, nhưng không đúng về phương pháp."
+   }
+  },
+  {
+   "word": "that’s all well and good",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ðæts ˌɔːl wel ən ˈɡʊd/",
+   "def_en": "That is fine, but there is a problem (informal).",
+   "def_vi": "Điều đó tốt, nhưng có vấn đề (thân mật).",
+   "gloss_vi": "thế thì tốt rồi, nhưng",
+   "synonyms": "that’s all very well <i>(cl. thế thì hay đấy)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>That’s all well and good</i> (cl) = thế thì tốt rồi, nhưng. <b>Grammar</b>: luôn có <i>but</i> theo sau.",
+   "example": {
+    "en": "OK, you’re sorry. <b>That’s all well and good</b>, but how are you going to pay us back?",
+    "vi": "Được rồi, bạn xin lỗi. <b>Thế thì tốt rồi</b>, nhưng bạn trả lại tiền thế nào?"
+   }
+  },
+  {
+   "word": "that’s all very well",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ðæts ˌɔːl ˌveri ˈwel/",
+   "def_en": "That is fine, but there is a problem (informal).",
+   "def_vi": "Điều đó tốt, nhưng có vấn đề (thân mật).",
+   "gloss_vi": "thế thì hay đấy, nhưng",
+   "synonyms": "that’s all well and good <i>(cl. thế thì tốt rồi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>That’s all very well</i> (cl) = thế thì hay đấy, nhưng. <b>Grammar</b>: luôn có <i>but</i> theo sau.",
+   "example": {
+    "en": "OK, you’re sorry. <b>That’s all very well</b>, but how are you going to pay us back?",
+    "vi": "Được rồi, bạn xin lỗi. <b>Thế thì hay đấy</b>, nhưng bạn trả lại tiền thế nào?"
+   }
+  },
+  {
+   "word": "after all",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌɑːftər ˈɔːl/",
+   "def_en": "Used to give a reason that should be remembered.",
+   "def_vi": "Dùng để nhắc lý do cần nhớ.",
+   "gloss_vi": "dù sao thì, xét cho cùng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>After all</i> (adverb) = dù sao thì, xét cho cùng. <b>Grammar</b>: khá thân mật.",
+   "example": {
+    "en": "You shouldn’t seem so surprised. <b>After all</b>, I did warn you.",
+    "vi": "Bạn đừng tỏ ra ngạc nhiên. <b>Dù sao thì</b> tôi đã cảnh báo bạn rồi."
+   }
+  },
+  {
+   "word": "it’s all very well",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ɪts ˌɔːl ˌveri ˈwel/",
+   "def_en": "Saying something is easy, but there is a problem (informal).",
+   "def_vi": "Nói thì dễ, nhưng có vấn đề (thân mật).",
+   "gloss_vi": "nói thì dễ lắm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>It’s all very well</i> (cl) = nói thì dễ lắm. <b>Grammar</b>: + -ing, rồi <i>but</i>.",
+   "example": {
+    "en": "<b>It’s all very well</b> saying you love dogs, but who will take it for walks if we do get one?",
+    "vi": "<b>Nói thì dễ lắm</b> là bạn yêu chó, nhưng ai sẽ dắt nó đi dạo?"
+   }
+  },
+  {
+   "word": "for all that",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/fər ˈɔːl ðæt/",
+   "def_en": "Despite what has just been said.",
+   "def_vi": "Bất chấp điều vừa nói.",
+   "gloss_vi": "dù vậy",
+   "synonyms": "nevertheless <i>(adv. tuy nhiên)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>For all that</i> (adverb) = dù vậy. <b>Grammar</b>: khá thân mật.",
+   "example": {
+    "en": "He is boring, and he is rather cold and unfriendly, but, <b>for all that</b>, he is your uncle and we should invite him.",
+    "vi": "Ông ấy chán ngắt và lạnh lùng, nhưng <b>dù vậy</b>, ông vẫn là chú của bạn."
+   }
+  },
+  {
+   "word": "admittedly",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ədˈmɪtɪdli/",
+   "def_en": "Used when accepting that something is true (formal).",
+   "def_vi": "Dùng khi chấp nhận điều gì đúng (trang trọng).",
+   "gloss_vi": "phải thừa nhận là",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Admittedly</i> (adverb) = phải thừa nhận là. <b>Grammar</b>: thường đầu câu, rồi <i>but</i>.",
+   "example": {
+    "en": "<b>Admittedly</b>, she put a lot of effort in, but it was all wasted.",
+    "vi": "<b>Phải thừa nhận là</b> cô ấy rất nỗ lực, nhưng tất cả đều phí công."
+   }
+  },
+  {
+   "word": "the reverse was true",
+   "sense": "",
+   "pos": "cl",
+   "ipa": "/ðə rɪˈvɜːs wəz ˈtruː/",
+   "def_en": "The opposite was the case (formal).",
+   "def_vi": "Điều ngược lại mới đúng (trang trọng).",
+   "gloss_vi": "điều ngược lại mới đúng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The reverse was true</i> (cl) = điều ngược lại mới đúng. <b>Grammar</b>: thường sau <i>in fact</i>.",
+   "example": {
+    "en": "I thought she didn’t like me. In fact, <b>the reverse was true</b>.",
+    "vi": "Tôi tưởng cô ấy không thích tôi. Thực ra <b>điều ngược lại mới đúng</b>."
+   }
+  },
+  {
+   "word": "quite the opposite",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌkwaɪt ði ˈɒpəzɪt/",
+   "def_en": "Completely the opposite (formal).",
+   "def_vi": "Hoàn toàn ngược lại (trang trọng).",
+   "gloss_vi": "hoàn toàn ngược lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Quite the opposite</i> (adverb) = hoàn toàn ngược lại. <b>Grammar</b>: thường đứng một mình rồi dấu hai chấm.",
+   "example": {
+    "en": "We’re not almost there at all. <b>Quite the opposite</b>: we’ve got five miles to go yet.",
+    "vi": "Chúng ta chưa gần tới đâu. <b>Hoàn toàn ngược lại</b>: còn năm dặm nữa."
+   }
+  },
+  {
+   "word": "in contrast",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ɪn ˈkɒntrɑːst/",
+   "def_en": "Used to show a difference between two things (formal).",
+   "def_vi": "Chỉ sự khác biệt giữa hai thứ (trang trọng).",
+   "gloss_vi": "ngược lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In contrast</i> (adverb) = ngược lại. <b>Grammar</b>: <i>in contrast to sth</i>.",
+   "example": {
+    "en": "In Europe they use metric measurements. <b>In contrast</b>, the USA still uses many non-metric measurements.",
+    "vi": "Châu Âu dùng hệ mét. <b>Ngược lại</b>, Mỹ vẫn dùng nhiều đơn vị không phải hệ mét."
+   }
+  },
+  {
+   "word": "on the other hand",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ɒn ði ˌʌðə ˈhænd/",
+   "def_en": "Looking at it from a different viewpoint, this is also true.",
+   "def_vi": "Nhìn từ góc khác, điều này cũng đúng.",
+   "gloss_vi": "mặt khác",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>On the other hand</i> (adverb) = mặt khác. <b>Grammar</b>: khác <i>on the contrary</i>.",
+   "example": {
+    "en": "It’s not actually raining now. <b>On the other hand</b>, it may rain later, so take the umbrella.",
+    "vi": "Giờ không mưa. <b>Mặt khác</b>, lát nữa có thể mưa, nên mang ô theo."
+   }
+  },
+  {
+   "word": "on the contrary",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ɒn ðə ˈkɒntrəri/",
+   "def_en": "That is not true; the opposite is true (rather formal).",
+   "def_vi": "Điều đó sai; điều ngược lại mới đúng (khá trang trọng).",
+   "gloss_vi": "trái lại",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>On the contrary</i> (adverb) = trái lại. <b>Grammar</b>: dùng để phủ nhận điều vừa nói.",
+   "example": {
+    "en": "<b>On the contrary</b>, I thought they would be much better.",
+    "vi": "A: Chắc bạn hài lòng với kết quả thi. B: <b>Trái lại</b>, tôi tưởng sẽ tốt hơn nhiều."
+   }
+  },
+  {
+   "word": "poles apart",
+   "sense": "",
+   "pos": "adjective",
+   "ipa": "/ˌpəʊlz əˈpɑːt/",
+   "def_en": "Completely different.",
+   "def_vi": "Hoàn toàn khác nhau.",
+   "gloss_vi": "khác nhau một trời một vực",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Poles apart</i> (adjective) = khác nhau một trời một vực. <b>Grammar</b>: <i>be poles apart</i>.",
+   "example": {
+    "en": "When it comes to politics, Jamie and Isla are <b>poles apart</b>.",
+    "vi": "Về chính trị, Jamie và Isla <b>khác nhau một trời một vực</b>."
+   }
+  },
+  {
+   "word": "a world of difference",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ə ˌwɜːld əv ˈdɪfrəns/",
+   "def_en": "A very big difference.",
+   "def_vi": "Khác biệt rất lớn.",
+   "gloss_vi": "khác biệt rất lớn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A world of difference</i> (noun) = khác biệt rất lớn. <b>Collocations / chunks</b>: <i>there’s a world of difference between…</i>.",
+   "example": {
+    "en": "There’s <b>a world of difference</b> between being a friend and a lover.",
+    "vi": "Có <b>khác biệt rất lớn</b> giữa bạn bè và người yêu."
+   }
+  },
+  {
+   "word": "great divide",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌɡreɪt dɪˈvaɪd/",
+   "def_en": "A big separation between groups.",
+   "def_vi": "Sự chia cách lớn giữa các nhóm.",
+   "gloss_vi": "hố sâu ngăn cách",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Great divide</i> (noun) = hố sâu ngăn cách. <b>Collocations / chunks</b>: <i>a great divide between…</i>.",
+   "example": {
+    "en": "There’s a <b>great divide</b> between city residents and people who live in the country.",
+    "vi": "Có <b>hố sâu ngăn cách</b> giữa cư dân thành phố và người nông thôn."
+   }
+  },
+  {
+   "word": "yawning gap",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌjɔːnɪŋ ˈɡæp/",
+   "def_en": "A very large difference.",
+   "def_vi": "Khoảng cách rất lớn.",
+   "gloss_vi": "khoảng cách rất lớn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Yawning gap</i> (noun) = khoảng cách rất lớn. <b>Collocations / chunks</b>: <i>yawning</i> = há rộng.",
+   "example": {
+    "en": "A <b>yawning gap</b> divides the rich and poor in many countries.",
+    "vi": "Một <b>khoảng cách rất lớn</b> chia rẽ người giàu và người nghèo ở nhiều nước."
+   }
+  },
+  {
+   "word": "huge discrepancy",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/ˌhjuːdʒ dɪˈskrepənsi/",
+   "def_en": "A big difference between things that should be the same.",
+   "def_vi": "Chênh lệch lớn giữa những thứ lẽ ra giống nhau.",
+   "gloss_vi": "chênh lệch lớn",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Huge discrepancy</i> (noun) = chênh lệch lớn. <b>Collocations / chunks</b>: <i>a discrepancy between…</i>.",
+   "example": {
+    "en": "There’s a <b>huge discrepancy</b> between his ideals and his actions.",
+    "vi": "Có <b>chênh lệch lớn</b> giữa lý tưởng và hành động của anh ta."
+   }
+  }
+ ]
+}

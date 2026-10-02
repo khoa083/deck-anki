@@ -1,0 +1,313 @@
+{
+ "book": "upp",
+ "unit": 62,
+ "title_vi": "Điều kiện",
+ "theory_html": "<p><b>A. Words connecting sentence parts</b><br><i>A. Từ nối các vế câu</i></p> <p>In addition to <b>if</b>, there are several other words and phrases for expressing condition: <b>unless</b> [if… not], <b>on condition that</b>, <b>in case of</b> [when there is…; usually seen on notices; also <b>in the event of</b>], <b>as/so long as</b> (<b>as long as</b> is less formal than <b>so long as</b> and less formal and not so strong as <b>on condition that</b>), <b>provided/providing (that)</b> (less formal and not so strong as <b>on condition that</b> but stronger and more restricting than <b>as/so long as</b>).</p><p><i>Ngoài <b>if</b> còn có: <b>unless</b> [nếu không], <b>on condition that</b> [với điều kiện], <b>in case of</b> [trong trường hợp; trên biển báo; cũng <b>in the event of</b>], <b>as/so long as</b> [miễn là], <b>provided/providing (that)</b> [miễn là; mạnh hơn <b>as long as</b>, nhẹ hơn <b>on condition that</b>].</i></p> <p><b>LH. Language help</b><br><i>LH. Lưu ý ngôn ngữ</i></p> <p>Don’t confuse <b>in case of</b> with <b>in case</b>. <b>Take your umbrella in case it rains</b> means ‘It isn’t raining but it might rain.’</p><p><i>Đừng nhầm <b>in case of</b> với <b>in case</b> (phòng khi).</i></p> <p><b>B. Supposing ... and What if ...</b><br><i>B. Supposing và What if</i></p> <p>Note the use of <b>supposing</b> and <b>what if</b> (both usually found in spoken language) for possible situations in the future. <b>What if</b> is more direct.</p><p><i><b>Supposing</b> và <b>what if</b> (văn nói) dùng cho tình huống có thể xảy ra; <b>what if</b> trực tiếp hơn.</i></p> <p><b>C. Conditions with -ever</b><br><i>C. Điều kiện với -ever</i></p> <p>The <b>-ever</b> suffix means ‘it does not matter which …’. The stress is normally on <b>ever</b>: <b>however, whichever, wherever, whoever</b>. These sentences can also be expressed using <b>no matter</b>.</p><p><i>Hậu tố <b>-ever</b> nghĩa là ‘bất kể…’; trọng âm thường rơi vào <b>ever</b>. Có thể thay bằng <b>no matter</b>.</i></p> <p><b>CM. Common mistakes</b><br><i>CM. Lỗi thường gặp</i></p> <p>With the condition phrases in A, B and C the present tense is used in the conditional clause: <b>Take a jacket in case it gets cold later on</b> (NOT <b>in case it will get cold</b>).</p><p><i>Mệnh đề điều kiện dùng thì hiện tại, không dùng <b>will</b>.</i></p> <p><b>D. Some nouns which express condition</b><br><i>D. Danh từ chỉ điều kiện</i></p> <p><b>conditions</b> (rather formal), <b>prerequisite</b> [absolutely necessary; very formal], <b>requirements</b> [official conditions; rather formal], <b>under any circumstances</b> (fairly formal).</p><p><i><b>điều kiện, điều kiện tiên quyết, yêu cầu, dù trong bất kỳ hoàn cảnh nào</b>.</i></p>",
+ "items": [
+  {
+   "word": "unless",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/ənˈles/",
+   "def_en": "If… not.",
+   "def_vi": "Nếu không.",
+   "gloss_vi": "trừ khi",
+   "synonyms": "if not <i>(conj. nếu không)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Unless</i> (conjunction) = trừ khi. <b>Grammar</b>: + thì hiện tại; = <i>if… not</i>.",
+   "example": {
+    "en": "You can’t come in <b>unless</b> you have a ticket.",
+    "vi": "Bạn không thể vào <b>trừ khi</b> có vé."
+   }
+  },
+  {
+   "word": "on condition that",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/ɒn kənˈdɪʃn ðət/",
+   "def_en": "Only if (strong).",
+   "def_vi": "Chỉ khi (mạnh).",
+   "gloss_vi": "với điều kiện là",
+   "synonyms": "provided <i>(conj. miễn là)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>On condition that</i> (conjunction) = với điều kiện là. <b>Grammar</b>: mạnh hơn <i>provided</i> và <i>as long as</i>.",
+   "example": {
+    "en": "You can borrow the bike <b>on condition that</b> you return it by five o’clock.",
+    "vi": "Bạn có thể mượn xe đạp <b>với điều kiện là</b> trả trước năm giờ."
+   }
+  },
+  {
+   "word": "in case of",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ɪn ˈkeɪs əv/",
+   "def_en": "When there is (usually on notices).",
+   "def_vi": "Khi có (thường trên biển báo).",
+   "gloss_vi": "trong trường hợp",
+   "synonyms": "in the event of <i>(prep. trong trường hợp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In case of</i> (preposition) = trong trường hợp. <b>Grammar</b>: + danh từ; khác <i>in case</i> + mệnh đề.",
+   "example": {
+    "en": "<b>In case of</b> fire, dial 112.",
+    "vi": "<b>Trong trường hợp</b> hỏa hoạn, gọi 112."
+   }
+  },
+  {
+   "word": "in the event of",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ɪn ði ɪˈvent əv/",
+   "def_en": "If something happens (formal).",
+   "def_vi": "Nếu điều gì xảy ra (trang trọng).",
+   "gloss_vi": "trong trường hợp",
+   "synonyms": "in case of <i>(prep. trong trường hợp)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In the event of</i> (preposition) = trong trường hợp. <b>Grammar</b>: + danh từ; trang trọng.",
+   "ex_kit": true,
+   "example": {
+    "en": "<b>In the event of</b> fire, dial 112.",
+    "vi": "<b>Trong trường hợp</b> hỏa hoạn, gọi 112."
+   }
+  },
+  {
+   "word": "as long as",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/əz ˈlɒŋ əz/",
+   "def_en": "Only if (less formal).",
+   "def_vi": "Chỉ khi (ít trang trọng).",
+   "gloss_vi": "miễn là",
+   "synonyms": "so long as <i>(conj. miễn là)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As long as</i> (conjunction) = miễn là. <b>Grammar</b>: ít trang trọng hơn <i>so long as</i>.",
+   "example": {
+    "en": "You can stay, <b>as long as</b> you don’t mind sleeping on the sofa.",
+    "vi": "Bạn có thể ở lại, <b>miễn là</b> không ngại ngủ trên sofa."
+   }
+  },
+  {
+   "word": "so long as",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/səʊ ˈlɒŋ əz/",
+   "def_en": "Only if.",
+   "def_vi": "Chỉ khi.",
+   "gloss_vi": "miễn là",
+   "synonyms": "as long as <i>(conj. miễn là)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>So long as</i> (conjunction) = miễn là. <b>Grammar</b>: trang trọng hơn <i>as long as</i>.",
+   "example": {
+    "en": "You can stay, <b>so long as</b> you don’t mind sleeping on the sofa.",
+    "vi": "Bạn có thể ở lại, <b>miễn là</b> không ngại ngủ trên sofa."
+   }
+  },
+  {
+   "word": "provided",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/prəˈvaɪdɪd/",
+   "def_en": "Only if.",
+   "def_vi": "Chỉ khi.",
+   "gloss_vi": "miễn là, với điều kiện",
+   "synonyms": "providing <i>(conj. miễn là)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Provided</i> (conjunction) = miễn là, với điều kiện. <b>Grammar</b>: <i>provided (that)</i>; mạnh hơn <i>as long as</i>.",
+   "example": {
+    "en": "<b>Provided</b> you don’t mind cats, you can stay with us.",
+    "vi": "<b>Miễn là</b> bạn không ngại mèo, bạn có thể ở với chúng tôi."
+   }
+  },
+  {
+   "word": "providing",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/prəˈvaɪdɪŋ/",
+   "def_en": "Only if.",
+   "def_vi": "Chỉ khi.",
+   "gloss_vi": "miễn là",
+   "synonyms": "provided <i>(conj. miễn là)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Providing</i> (conjunction) = miễn là. <b>Grammar</b>: <i>providing (that)</i>.",
+   "example": {
+    "en": "<b>Providing</b> you don’t mind cats, you can stay with us.",
+    "vi": "<b>Miễn là</b> bạn không ngại mèo, bạn có thể ở với chúng tôi."
+   }
+  },
+  {
+   "word": "in case",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/ɪn ˈkeɪs/",
+   "def_en": "Because something might happen.",
+   "def_vi": "Vì điều gì có thể xảy ra.",
+   "gloss_vi": "phòng khi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>In case</i> (conjunction) = phòng khi. <b>Grammar</b>: + thì hiện tại, KHÔNG dùng <i>will</i>.",
+   "example": {
+    "en": "Take your umbrella <b>in case</b> it rains.",
+    "vi": "Mang ô theo <b>phòng khi</b> trời mưa."
+   }
+  },
+  {
+   "word": "supposing",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/səˈpəʊzɪŋ/",
+   "def_en": "Used to imagine a possible situation (spoken).",
+   "def_vi": "Dùng để giả định tình huống (văn nói).",
+   "gloss_vi": "giả sử",
+   "synonyms": "what if <i>(conj. nếu như)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Supposing</i> (conjunction) = giả sử. <b>Grammar</b>: thường văn nói.",
+   "example": {
+    "en": "<b>Supposing</b> he doesn’t turn up - what shall we do then?",
+    "vi": "<b>Giả sử</b> anh ấy không đến thì ta làm gì?"
+   }
+  },
+  {
+   "word": "what if",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/ˌwɒt ˈɪf/",
+   "def_en": "Used to ask about a possible situation (spoken, direct).",
+   "def_vi": "Hỏi về tình huống có thể (văn nói, trực tiếp).",
+   "gloss_vi": "nếu như… thì sao",
+   "synonyms": "supposing <i>(conj. giả sử)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>What if</i> (conjunction) = nếu như… thì sao. <b>Grammar</b>: trực tiếp hơn <i>supposing</i>.",
+   "example": {
+    "en": "<b>What if</b> he doesn’t turn up - what shall we do then?",
+    "vi": "<b>Nếu</b> anh ấy không đến <b>thì sao</b> – ta làm gì?"
+   }
+  },
+  {
+   "word": "however",
+   "sense": "condition",
+   "pos": "adverb",
+   "ipa": "/haʊˈevə(r)/",
+   "def_en": "In whatever way.",
+   "def_vi": "Dù theo cách nào.",
+   "gloss_vi": "dù thế nào",
+   "synonyms": "no matter how <i>(adv. bất kể)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>However</i> (adverb) = dù thế nào. <b>Grammar</b>: trọng âm trên <i>ever</i>; = <i>no matter how</i>.",
+   "example": {
+    "en": "<b>However</b> you decide to travel in this country, it’ll cost you a lot of money.",
+    "vi": "<b>Dù</b> bạn chọn đi lại <b>thế nào</b> ở nước này, nó cũng tốn nhiều tiền."
+   }
+  },
+  {
+   "word": "whichever",
+   "sense": "",
+   "pos": "determiner",
+   "ipa": "/wɪtʃˈevə(r)/",
+   "def_en": "It does not matter which.",
+   "def_vi": "Bất kể cái nào.",
+   "gloss_vi": "bất kể cái nào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Whichever</i> (determiner) = bất kể cái nào. <b>Grammar</b>: trọng âm trên <i>ever</i>.",
+   "example": {
+    "en": "You’ll end up paying at least 70 euros, <b>whichever</b> means of transport you take.",
+    "vi": "Bạn sẽ trả ít nhất 70 euro, <b>bất kể</b> đi phương tiện <b>nào</b>."
+   }
+  },
+  {
+   "word": "wherever",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/weərˈevə(r)/",
+   "def_en": "It does not matter where.",
+   "def_vi": "Bất kể ở đâu.",
+   "gloss_vi": "bất kể đâu",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Wherever</i> (conjunction) = bất kể đâu. <b>Grammar</b>: = <i>no matter where</i>.",
+   "example": {
+    "en": "Public transport is expensive <b>wherever</b> you go here.",
+    "vi": "Phương tiện công cộng đắt đỏ <b>bất kể</b> bạn đi <b>đâu</b> ở đây."
+   }
+  },
+  {
+   "word": "whoever",
+   "sense": "",
+   "pos": "pronoun",
+   "ipa": "/huːˈevə(r)/",
+   "def_en": "It does not matter who.",
+   "def_vi": "Bất kể ai.",
+   "gloss_vi": "bất kể ai",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Whoever</i> (pronoun) = bất kể ai. <b>Grammar</b>: = <i>no matter who</i>.",
+   "example": {
+    "en": "<b>Whoever</b> wins the next election should try to lower fares.",
+    "vi": "<b>Bất kể ai</b> thắng cuộc bầu cử tới cũng nên cố giảm giá vé."
+   }
+  },
+  {
+   "word": "no matter",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/nəʊ ˈmætə(r)/",
+   "def_en": "It does not matter (how, who, etc.).",
+   "def_vi": "Bất kể (thế nào, ai…).",
+   "gloss_vi": "bất kể",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>No matter</i> (conjunction) = bất kể. <b>Grammar</b>: <i>no matter how/who/where…</i>.",
+   "example": {
+    "en": "<b>No matter</b> who wins the next election, they should try to lower fares.",
+    "vi": "<b>Bất kể</b> ai thắng cuộc bầu cử tới, họ cũng nên cố giảm giá vé."
+   }
+  },
+  {
+   "word": "conditions",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/kənˈdɪʃnz/",
+   "def_en": "Things that must happen before something else can (rather formal).",
+   "def_vi": "Điều phải có trước khi việc khác xảy ra.",
+   "gloss_vi": "điều kiện",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Conditions</i> (noun) = điều kiện. <b>Grammar</b>: <i>meet conditions</i>; khá trang trọng.",
+   "example": {
+    "en": "Certain <b>conditions</b> must be met before the peace talks can begin.",
+    "vi": "Một số <b>điều kiện</b> phải được đáp ứng trước khi đàm phán hòa bình bắt đầu."
+   }
+  },
+  {
+   "word": "prerequisite",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/priːˈrekwəzɪt/",
+   "def_en": "Something absolutely necessary (very formal).",
+   "def_vi": "Điều tuyệt đối cần (rất trang trọng).",
+   "gloss_vi": "điều kiện tiên quyết",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Prerequisite</i> (noun) = điều kiện tiên quyết. <b>Grammar</b>: /priːˈrekwəzɪt/; <i>a prerequisite for</i>.",
+   "example": {
+    "en": "A good standard of English is a <b>prerequisite</b> for studying at a British university.",
+    "vi": "Tiếng Anh tốt là <b>điều kiện tiên quyết</b> để học ở đại học Anh."
+   }
+  },
+  {
+   "word": "under any circumstances",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌʌndər ˌeni ˈsɜːkəmstænsɪz/",
+   "def_en": "In any situation at all (fairly formal).",
+   "def_vi": "Trong bất kỳ hoàn cảnh nào (khá trang trọng).",
+   "gloss_vi": "dù thế nào đi nữa",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Under any circumstances</i> (adverb) = dù thế nào đi nữa. <b>Grammar</b>: thường trong câu phủ định.",
+   "example": {
+    "en": "I would not move to London <b>under any circumstances</b>.",
+    "vi": "Tôi sẽ không chuyển đến London <b>dù thế nào đi nữa</b>."
+   }
+  }
+ ]
+}
