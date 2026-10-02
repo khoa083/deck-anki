@@ -1,0 +1,264 @@
+{
+ "book": "gva",
+ "unit": 5,
+ "title_vi": "Danh từ, sự hòa hợp và mạo từ",
+ "theory_html": "<p><b>2.1. Compound nouns and noun phrases</b><br><i>2.1. Danh từ ghép và cụm danh từ</i></p> <p>Patterns: noun + noun (<b>climate change</b>), -ing + noun (<b>recycling scheme</b>), noun + -ing (<b>energy-saving</b>); written as one word, separate words or hyphenated; first noun usually singular (<b>decision-making</b>); alternatives: noun + ’s + noun (user: <b>a women’s clinic</b>), noun + preposition + noun; <b>’s</b> for people/time, <b>of</b> for non-living things, processes, long noun phrases; longer combinations (<b>decision-making process</b>).</p><p><i>Mẫu danh từ ghép; danh từ đầu thường số ít; ’s cho người/thời gian, <b>of</b> cho vật, quá trình, cụm dài.</i></p> <p><b>2.2. Subject–verb agreement</b><br><i>2.2. Hòa hợp chủ – vị</i></p> <p>Group nouns (<b>government, team</b>) singular or plural verb; singular verb with names ending in -s, measurements, <b>percent</b> + singular noun; plural with plural-only nouns (<b>outskirts</b>), <b>the majority of / a number of</b> + plural; singular with <b>news, linguistics, mathematics, statistics</b>, <b>the number of</b>; agreement with the main noun; verb agrees with a subject that follows it.</p><p><i>Danh từ tập hợp; <b>a number of</b> + số nhiều nhưng <b>the number of</b> + số ít; <b>news, statistics</b> số ít.</i></p> <p><b>2.3. Countable and uncountable nouns</b><br><i>2.3. Danh từ đếm được và không đếm được</i></p> <p>Uncountable (<b>advice, equipment, information</b>); general idea uncountable vs particular example countable (<b>knowledge, success, business, education</b>); different meanings (<b>speech, work, accommodation</b>); <b>a good/great deal of, amount of</b> + uncountable; <b>a number of</b> + plural; <b>plenty of, a quantity of</b> + either.</p><p><i>Không đếm được; nghĩa chung / cụ thể; <b>a great deal of</b> + không đếm được; <b>a number of</b> + số nhiều.</i></p> <p><b>2.4. Articles</b><br><i>2.4. Mạo từ</i></p> <p><b>the</b>: identifiable, identified by a following phrase, unique (<b>the future, the environment</b>); <b>a/an</b>: first mention, unspecified, description, jobs, number/quantity expressions; <b>the</b> or no article for titles; no article: general plural/uncountable, institutions (<b>school, hospital, prison</b>), most countries (but <b>the Netherlands, the USA</b>), months/days, meals, <b>by</b> + transport/communication.</p><p><i><b>the</b> xác định, duy nhất; <b>a/an</b> lần đầu, nghề nghiệp; không mạo từ: nói chung, thể chế, phương tiện với <b>by</b>.</i></p>",
+ "items": [
+  {
+   "word": "compound noun",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˌkɒmpaʊnd ˈnaʊn/",
+   "def_en": "A noun made up of two or more words, e.g. noun + noun or -ing form + noun.",
+   "def_vi": "Danh từ gồm hai từ trở lên.",
+   "gloss_vi": "danh từ ghép",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Compound noun</i> (structure) = danh từ ghép. <b>Grammar</b>: <i>decision-making</i> (không <i>decisions-making</i>); viết liền, tách hoặc có gạch nối.",
+   "example": {
+    "en": "The first noun in a <b>compound</b> usually has a singular form, even if it has a plural meaning",
+    "vi": "Danh từ đầu trong <b>danh từ ghép</b> thường số ít: decision-making."
+   }
+  },
+  {
+   "word": "noun + 's + noun",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/naʊn plʌs ɪz plʌs naʊn/",
+   "def_en": "Used when the first noun is the user of the second, refers to a particular person/group, or to time.",
+   "def_vi": "Dùng khi danh từ đầu là người dùng, người cụ thể, hay thời gian.",
+   "gloss_vi": "sở hữu cách ’s",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "noun + of + noun <i>(st. cấu trúc of)</i>",
+   "grammar_vi": "<i>Noun + 's + noun</i> (structure) = sở hữu cách ’s. <b>Grammar</b>: <i>Mike's job, next year's field trip</i>.",
+   "example": {
+    "en": "<b>a women's clinic</b>, a boys' school",
+    "vi": "<b>Phòng khám phụ nữ</b>, trường nam sinh."
+   }
+  },
+  {
+   "word": "noun + of + noun",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/naʊn plʌs əv plʌs naʊn/",
+   "def_en": "Used when the second noun is a non-living thing, for processes, or with long noun phrases.",
+   "def_vi": "Dùng khi danh từ thứ hai là vật vô tri, quá trình, hay cụm dài.",
+   "gloss_vi": "cấu trúc of",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "noun + 's + noun <i>(st. sở hữu cách)</i>",
+   "grammar_vi": "<i>Noun + of + noun</i> (structure) = cấu trúc of. <b>Grammar</b>: <i>the title of the CD</i>.",
+   "example": {
+    "en": "<b>the destruction of the rainforest</b>",
+    "vi": "<b>Sự tàn phá rừng mưa</b>."
+   }
+  },
+  {
+   "word": "group nouns",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈɡruːp naʊnz/",
+   "def_en": "Nouns referring to a group (government, team), used with a singular or plural verb.",
+   "def_vi": "Danh từ chỉ nhóm, đi với động từ số ít hay nhiều.",
+   "gloss_vi": "danh từ tập hợp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Group nouns</i> (structure) = danh từ tập hợp. <b>Grammar</b>: văn trang trọng thường dùng số ít.",
+   "example": {
+    "en": "The government <b>has</b> (or have) introduced some really interesting projects.",
+    "vi": "Chính phủ <b>đã đưa ra</b> vài dự án rất thú vị."
+   }
+  },
+  {
+   "word": "percent",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/pəˈsent/",
+   "def_en": "Followed by a singular verb with a singular/uncountable noun, a plural verb with a plural noun.",
+   "def_vi": "Theo sau là động từ số ít với danh từ không đếm được, số nhiều với danh từ số nhiều.",
+   "gloss_vi": "phần trăm",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Percent</i> (noun) = phần trăm. <b>Grammar</b>: <i>60% of people there are malnourished</i> (số nhiều).",
+   "example": {
+    "en": "10% of the country's energy <b>comes</b> from wind power",
+    "vi": "10% năng lượng của đất nước <b>đến từ</b> gió."
+   }
+  },
+  {
+   "word": "the number of",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ðə ˈnʌmbər əv/",
+   "def_en": "Followed by a singular verb.",
+   "def_vi": "Theo sau là động từ số ít.",
+   "gloss_vi": "số lượng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "a number of <i>(st. một số)</i>",
+   "grammar_vi": "<i>The number of</i> (structure) = số lượng. <b>Grammar</b>: <i>the number of</i> + V số ít; <i>a number of</i> + V số nhiều.",
+   "example": {
+    "en": "<b>The number of</b> people suffering from malnutrition is increasing.",
+    "vi": "<b>Số người</b> bị suy dinh dưỡng đang tăng."
+   }
+  },
+  {
+   "word": "the majority of",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ðə məˈdʒɒrəti əv/",
+   "def_en": "Followed by a plural verb with a plural noun.",
+   "def_vi": "Theo sau là động từ số nhiều với danh từ số nhiều.",
+   "gloss_vi": "đa số",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "the minority of <i>(st. thiểu số)</i>",
+   "grammar_vi": "<i>The majority of</i> (structure) = đa số. <b>Grammar</b>: cũng <i>a number of, a lot of, plenty of, all of, some of</i> + số nhiều.",
+   "example": {
+    "en": "<b>The majority of</b> people there are farmers.",
+    "vi": "<b>Đa số</b> người dân ở đó là nông dân."
+   }
+  },
+  {
+   "word": "statistics",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/stəˈtɪstɪks/",
+   "def_en": "The academic subject (takes a singular verb).",
+   "def_vi": "Môn thống kê (động từ số ít).",
+   "gloss_vi": "môn thống kê",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Statistics</i> (noun) = môn thống kê. <b>Grammar</b>: <i>news, linguistics, mathematics, physics, politics, economics</i> + V số ít.",
+   "example": {
+    "en": "<b>Statistics</b> is included in the course.",
+    "vi": "<b>Môn thống kê</b> có trong khóa học."
+   }
+  },
+  {
+   "word": "uncountable nouns",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ʌnˈkaʊntəbl naʊnz/",
+   "def_en": "Nouns not used with a/an or in the plural, e.g. advice, equipment, information.",
+   "def_vi": "Danh từ không dùng với a/an hay số nhiều.",
+   "gloss_vi": "danh từ không đếm được",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Uncountable nouns</i> (structure) = danh từ không đếm được. <b>Grammar</b>: vài danh từ không đếm được khi nói chung, đếm được khi nói cụ thể (<i>success, knowledge</i>).",
+   "example": {
+    "en": "Many nouns in English are <b>uncountable</b>: they are not used with a/an or in the plural.",
+    "vi": "Nhiều danh từ <b>không đếm được</b>: advice, equipment, information."
+   }
+  },
+  {
+   "word": "speech",
+   "sense": "",
+   "pos": "noun",
+   "ipa": "/spiːtʃ/",
+   "def_en": "(Countable) a formal talk; (uncountable) the ability to speak.",
+   "def_vi": "(Đếm được) bài phát biểu; (không đếm được) khả năng nói.",
+   "gloss_vi": "bài phát biểu; lời nói",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Speech</i> (noun) = bài phát biểu; lời nói. <b>Grammar</b>: nghĩa khác nhau khi đếm được / không đếm được (cũng <i>work, accommodation</i>).",
+   "example": {
+    "en": "She gave a <b>speech</b> about global warming",
+    "vi": "Cô ấy có <b>bài phát biểu</b> về nóng lên toàn cầu."
+   }
+  },
+  {
+   "word": "a great deal of",
+   "sense": "",
+   "pos": "determiner",
+   "ipa": "/ə ˌɡreɪt ˈdiːl əv/",
+   "def_en": "A lot of (with uncountable nouns).",
+   "def_vi": "Nhiều (với danh từ không đếm được).",
+   "gloss_vi": "rất nhiều",
+   "synonyms": "an amount of <i>(det. một lượng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A great deal of</i> (determiner) = rất nhiều. <b>Grammar</b>: tránh dùng với danh từ đếm được số nhiều trong bài thi.",
+   "example": {
+    "en": "There's <b>a great deal of</b> interest in recycling in the country.",
+    "vi": "Có <b>rất nhiều</b> quan tâm đến tái chế ở nước này."
+   }
+  },
+  {
+   "word": "a number of",
+   "sense": "",
+   "pos": "determiner",
+   "ipa": "/ə ˈnʌmbər əv/",
+   "def_en": "Several (with plural countable nouns).",
+   "def_vi": "Một số (với danh từ đếm được số nhiều).",
+   "gloss_vi": "một số",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A number of</i> (determiner) = một số. <b>Grammar</b>: + danh từ số nhiều + V số nhiều.",
+   "example": {
+    "en": "There's been a drought there for <b>a number of</b> months.",
+    "vi": "Ở đó đã hạn hán <b>mấy</b> tháng nay."
+   }
+  },
+  {
+   "word": "plenty of",
+   "sense": "",
+   "pos": "determiner",
+   "ipa": "/ˈplenti əv/",
+   "def_en": "A lot of (with uncountable or plural countable nouns).",
+   "def_vi": "Nhiều (với cả hai loại danh từ).",
+   "gloss_vi": "nhiều",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Plenty of</i> (determiner) = nhiều. <b>Grammar</b>: cũng <i>a quantity of</i>.",
+   "example": {
+    "en": "There was <b>plenty of</b> opportunity for me to travel around the country.",
+    "vi": "Tôi có <b>nhiều</b> cơ hội đi khắp đất nước."
+   }
+  },
+  {
+   "word": "the (unique)",
+   "sense": "",
+   "pos": "determiner",
+   "ipa": "/ðə/",
+   "def_en": "Used with things that are unique or identified.",
+   "def_vi": "Dùng với vật duy nhất hay đã xác định.",
+   "gloss_vi": "(mạo từ xác định)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>The (unique)</i> (determiner) = (mạo từ xác định). <b>Grammar</b>: <i>the first/next time, the only problem, the environment</i>.",
+   "example": {
+    "en": "in one part of <b>the world</b>, the sky, the future",
+    "vi": "Ở một phần của <b>thế giới</b>."
+   }
+  },
+  {
+   "word": "a/an (job)",
+   "sense": "",
+   "pos": "determiner",
+   "ipa": "/ə, ən/",
+   "def_en": "Used to say what a person’s job is or describe what type of thing something is.",
+   "def_vi": "Dùng nói nghề nghiệp hay mô tả loại.",
+   "gloss_vi": "(mạo từ không xác định)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A/an (job)</i> (determiner) = (mạo từ không xác định). <b>Grammar</b>: chức danh duy nhất dùng <i>the</i> hoặc không mạo từ: <i>He's (the) head of a project.</i>.",
+   "example": {
+    "en": "You think that as <b>a politician</b>, you'd be able to do this?",
+    "vi": "Bạn nghĩ là <b>một chính trị gia</b>, bạn làm được việc này?"
+   }
+  },
+  {
+   "word": "zero article",
+   "sense": "",
+   "pos": "structure",
+   "ipa": "/ˈzɪərəʊ ˈɑːtɪkl/",
+   "def_en": "No article with general uncountable/plural nouns, institutions, most countries, months, meals, and by + transport.",
+   "def_vi": "Không mạo từ với danh từ chung, thể chế, phần lớn nước, tháng, bữa ăn, by + phương tiện.",
+   "gloss_vi": "không dùng mạo từ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Zero article</i> (structure) = không dùng mạo từ. <b>Grammar</b>: <i>at school, by car, in June, for breakfast</i>; nhưng <i>the Netherlands, the USA</i>.",
+   "example": {
+    "en": "I've always been fascinated by <b>plants and animals</b>.",
+    "vi": "Tôi luôn mê <b>cây cối và động vật</b>."
+   }
+  }
+ ]
+}
