@@ -1,0 +1,216 @@
+{
+ "book": "pre",
+ "unit": 90,
+ "title_vi": "Giới từ chỉ nơi chốn và chuyển động",
+ "theory_html": "<p><b>A. At, on and in</b><br><i>A. At, on, in</i></p> <p><b>at</b> a point or place (<b>at the bus stop, at work, at the airport</b>); <b>on</b> a surface (<b>on the desk/floor/wall</b>); <b>in</b> an area or inside (<b>in the kitchen, in Warsaw, in the drawer</b>).</p><p><i><b>at = điểm, on = bề mặt, in = bên trong / khu vực</b>.</i></p> <p><b>B. Where exactly?</b><br><i>B. Chính xác ở đâu?</i></p> <p><b>in Danvers Street, at number 23; beyond the farm; by (near) the church; right beside/by the river; above (opp below) the shop; before (opp after) the bank; against the wall; beneath/underneath cushions; among the trees</b>.</p><p><i><b>bên kia, gần, ngay cạnh, phía trên/dưới, trước/sau, dựa vào, bên dưới, giữa</b>.</i></p> <p><b>C. Movement</b><br><i>C. Chuyển động</i></p> <p><b>out of (opp into), towards, down, over (opp under), through, round, after (follow), past</b>.</p><p><i><b>ra khỏi/vào, về phía, xuống, qua trên/dưới, xuyên qua, vòng quanh, đuổi theo, đi ngang qua</b>.</i></p>",
+ "items": [
+  {
+   "word": "beyond",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/bɪˈjɒnd/",
+   "def_en": "On the other side of.",
+   "def_vi": "Ở phía bên kia.",
+   "gloss_vi": "bên kia",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Beyond</i> (preposition) = bên kia. <b>Grammar</b>: <i>beyond sth</i>.",
+   "example": {
+    "en": "Their house is <b>beyond</b> the farm.",
+    "vi": "Nhà họ ở <b>bên kia</b> trang trại."
+   }
+  },
+  {
+   "word": "by",
+   "sense": "place",
+   "pos": "preposition",
+   "ipa": "/baɪ/",
+   "def_en": "Near; next to.",
+   "def_vi": "Gần; cạnh.",
+   "gloss_vi": "gần, cạnh",
+   "synonyms": "near <i>(prep. gần)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>By</i> (preposition) = gần, cạnh. <b>Grammar</b>: <i>by the river/window</i>.",
+   "example": {
+    "en": "Their house is beyond the farm, <b>by</b> the old church.",
+    "vi": "Nhà họ ở bên kia trang trại, <b>gần</b> nhà thờ cũ."
+   }
+  },
+  {
+   "word": "beside",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/bɪˈsaɪd/",
+   "def_en": "Next to.",
+   "def_vi": "Ngay cạnh.",
+   "gloss_vi": "bên cạnh",
+   "synonyms": "next to <i>(prep. bên cạnh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Beside</i> (preposition) = bên cạnh. <b>Grammar</b>: ≠ <i>besides</i> (ngoài ra).",
+   "example": {
+    "en": "They’ve just bought a house right <b>beside</b> the river.",
+    "vi": "Họ vừa mua nhà ngay <b>cạnh</b> sông."
+   }
+  },
+  {
+   "word": "above",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/əˈbʌv/",
+   "def_en": "Higher than.",
+   "def_vi": "Cao hơn.",
+   "gloss_vi": "phía trên",
+   "synonyms": "over <i>(prep. trên)</i>",
+   "antonyms": "below <i>(prep. phía dưới)</i>",
+   "grammar_vi": "<i>Above</i> (preposition) = phía trên. <b>Grammar</b>: <i>above sth</i>.",
+   "example": {
+    "en": "Their office is <b>above</b> the shop.",
+    "vi": "Văn phòng của họ ở <b>phía trên</b> cửa hàng."
+   }
+  },
+  {
+   "word": "before",
+   "sense": "place",
+   "pos": "preposition",
+   "ipa": "/bɪˈfɔː(r)/",
+   "def_en": "In front of, coming first in a place.",
+   "def_vi": "Ở trước theo vị trí.",
+   "gloss_vi": "trước (vị trí)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "after <i>(prep. sau)</i>",
+   "grammar_vi": "<i>Before</i> (preposition) = trước (vị trí). <b>Grammar</b>: cũng dùng cho thời gian.",
+   "example": {
+    "en": "I’m sure there’s a chemist on the left <b>before</b> the bank.",
+    "vi": "Tôi chắc có một hiệu thuốc bên trái <b>trước</b> ngân hàng."
+   }
+  },
+  {
+   "word": "against",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/əˈɡenst/",
+   "def_en": "Touching something.",
+   "def_vi": "Chạm vào thứ gì.",
+   "gloss_vi": "dựa vào",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Against</i> (preposition) = dựa vào. <b>Grammar</b>: <i>lean against sth</i>.",
+   "example": {
+    "en": "I saw your bike in the back garden <b>against</b> the wall.",
+    "vi": "Tôi thấy xe đạp của bạn trong vườn <b>dựa vào</b> tường."
+   }
+  },
+  {
+   "word": "underneath",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ˌʌndəˈniːθ/",
+   "def_en": "Under.",
+   "def_vi": "Bên dưới.",
+   "gloss_vi": "bên dưới",
+   "synonyms": "beneath <i>(prep. bên dưới)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Underneath</i> (preposition) = bên dưới. <b>Grammar</b>: <i>beneath</i> trang trọng hơn.",
+   "example": {
+    "en": "I found your phone on the sofa <b>underneath</b> a pile of cushions.",
+    "vi": "Tôi tìm thấy điện thoại trên sofa <b>dưới</b> đống gối tựa."
+   }
+  },
+  {
+   "word": "among",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/əˈmʌŋ/",
+   "def_en": "Somewhere in the middle of.",
+   "def_vi": "Đâu đó ở giữa.",
+   "gloss_vi": "giữa (nhiều thứ)",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Among</i> (preposition) = giữa (nhiều thứ). <b>Grammar</b>: <i>among</i> (nhiều) ≠ <i>between</i> (hai).",
+   "example": {
+    "en": "You can just see the top of the building <b>among</b> the trees.",
+    "vi": "Bạn có thể thấy nóc tòa nhà <b>giữa</b> những cái cây."
+   }
+  },
+  {
+   "word": "out of",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/ˈaʊt əv/",
+   "def_en": "Moving from inside to outside.",
+   "def_vi": "Từ trong ra ngoài.",
+   "gloss_vi": "ra khỏi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "into <i>(prep. vào)</i>",
+   "grammar_vi": "<i>Out of</i> (preposition) = ra khỏi. <b>Grammar</b>: chuyển động.",
+   "example": {
+    "en": "The mouse ran <b>out of</b> the back door.",
+    "vi": "Con chuột chạy <b>ra khỏi</b> cửa sau."
+   }
+  },
+  {
+   "word": "towards",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/təˈwɔːdz/",
+   "def_en": "In the direction of.",
+   "def_vi": "Theo hướng.",
+   "gloss_vi": "về phía",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Towards</i> (preposition) = về phía. <b>Grammar</b>: Mỹ <i>toward</i>.",
+   "example": {
+    "en": "The mouse ran <b>towards</b> the gate.",
+    "vi": "Con chuột chạy <b>về phía</b> cổng."
+   }
+  },
+  {
+   "word": "through",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/θruː/",
+   "def_en": "From one side to the other of something.",
+   "def_vi": "Từ phía này sang phía kia.",
+   "gloss_vi": "xuyên qua",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Through</i> (preposition) = xuyên qua. <b>Grammar</b>: <i>through a tunnel/forest/door</i>.",
+   "example": {
+    "en": "We came over the bridge, then <b>through</b> the tunnel and round the lake.",
+    "vi": "Chúng tôi đi qua cầu, rồi <b>xuyên qua</b> đường hầm."
+   }
+  },
+  {
+   "word": "round",
+   "sense": "movement",
+   "pos": "preposition",
+   "ipa": "/raʊnd/",
+   "def_en": "In a circle around.",
+   "def_vi": "Vòng quanh.",
+   "gloss_vi": "vòng quanh",
+   "synonyms": "around <i>(prep. quanh)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Round</i> (preposition) = vòng quanh. <b>Grammar</b>: Mỹ thường <i>around</i>.",
+   "example": {
+    "en": "We came through the tunnel and <b>round</b> the lake.",
+    "vi": "Rồi chúng tôi đi <b>vòng quanh</b> hồ."
+   }
+  },
+  {
+   "word": "past",
+   "sense": "",
+   "pos": "preposition",
+   "ipa": "/pɑːst/",
+   "def_en": "Going beyond something without stopping.",
+   "def_vi": "Đi ngang qua không dừng.",
+   "gloss_vi": "ngang qua",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Past</i> (preposition) = ngang qua. <b>Grammar</b>: <i>go/walk past sth</i>.",
+   "example": {
+    "en": "Fortunately she went <b>past</b> the van and didn’t see us.",
+    "vi": "May là bà ấy đi <b>ngang qua</b> chiếc xe và không thấy chúng tôi."
+   }
+  }
+ ]
+}

@@ -1,0 +1,296 @@
+{
+ "book": "pre",
+ "unit": 91,
+ "title_vi": "Trạng từ",
+ "theory_html": "<p><b>A. Adverbs of frequency</b><br><i>A. Trạng từ chỉ tần suất</i></p> <p><b>always, often, frequently, quite often, sometimes, occasionally, hardly ever, rarely, seldom (fml), never</b>. Usually before the main verb, after <b>be</b>.</p><p><i><b>luôn, thường, thường xuyên, khá thường, thỉnh thoảng, đôi khi, hầu như không, hiếm khi, không bao giờ</b>.</i></p> <p><b>B. Adverbs of degree</b><br><i>B. Trạng từ chỉ mức độ</i></p> <p><b>a bit, a little (bit), slightly</b> (before negative adjectives; NOT <b>a bit happy</b>); <b>quite, fairly, rather, pretty</b> (more than a bit, less than very; <b>quite a nice room</b>); <b>completely/totally</b>; <b>extremely, incredibly</b>.</p><p><i><b>hơi; khá; hoàn toàn; cực kỳ</b>.</i></p> <p><b>C. Adverbs of manner</b><br><i>C. Trạng từ chỉ cách thức</i></p> <p><b>secretly, quietly, suddenly, urgently, briefly, politely, angrily</b>.</p><p><i><b>bí mật, khẽ, đột nhiên, khẩn cấp, ngắn gọn, lịch sự, giận dữ</b>.</i></p>",
+ "items": [
+  {
+   "word": "frequently",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈfriːkwəntli/",
+   "def_en": "Often.",
+   "def_vi": "Thường xuyên.",
+   "gloss_vi": "thường xuyên",
+   "synonyms": "often <i>(adv. thường)</i>",
+   "antonyms": "rarely <i>(adv. hiếm khi)</i>",
+   "grammar_vi": "<i>Frequently</i> (adverb) = thường xuyên. <b>Grammar</b>: <i>frequent</i> (adj.).",
+   "example": {
+    "en": "We see them quite <b>frequently</b>.",
+    "vi": "Chúng tôi gặp họ khá <b>thường xuyên</b>."
+   }
+  },
+  {
+   "word": "occasionally",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/əˈkeɪʒnəli/",
+   "def_en": "Sometimes, but not often.",
+   "def_vi": "Đôi khi, không thường.",
+   "gloss_vi": "thỉnh thoảng",
+   "synonyms": "now and again <i>(phr. thỉnh thoảng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Occasionally</i> (adverb) = thỉnh thoảng. <b>Grammar</b>: hai <i>c</i>, một <i>s</i>.",
+   "example": {
+    "en": "I <b>occasionally</b> go to the theatre.",
+    "vi": "Tôi <b>thỉnh thoảng</b> đi xem kịch."
+   }
+  },
+  {
+   "word": "hardly ever",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˌhɑːdli ˈevə(r)/",
+   "def_en": "Almost never.",
+   "def_vi": "Hầu như không bao giờ.",
+   "gloss_vi": "hầu như không",
+   "synonyms": "rarely <i>(adv. hiếm khi)</i>",
+   "antonyms": "often <i>(adv. thường)</i>",
+   "grammar_vi": "<i>Hardly ever</i> (adverb) = hầu như không. <b>Grammar</b>: đứng trước động từ chính.",
+   "example": {
+    "en": "She <b>hardly ever</b> plays tennis now.",
+    "vi": "Giờ cô ấy <b>hầu như không</b> chơi quần vợt."
+   }
+  },
+  {
+   "word": "rarely",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈreəli/",
+   "def_en": "Not often.",
+   "def_vi": "Không thường.",
+   "gloss_vi": "hiếm khi",
+   "synonyms": "seldom <i>(adv. hiếm khi)</i>",
+   "antonyms": "often <i>(adv. thường)</i>",
+   "grammar_vi": "<i>Rarely</i> (adverb) = hiếm khi. <b>Grammar</b>: <i>seldom</i> trang trọng hơn.",
+   "example": {
+    "en": "He <b>rarely</b> works at weekends.",
+    "vi": "Anh ấy <b>hiếm khi</b> làm việc cuối tuần."
+   }
+  },
+  {
+   "word": "a bit",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ə ˈbɪt/",
+   "def_en": "Slightly (informal).",
+   "def_vi": "Hơi (thân mật).",
+   "gloss_vi": "hơi",
+   "synonyms": "slightly <i>(adv. hơi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A bit</i> (adverb) = hơi. <b>Grammar</b>: thường trước tính từ tiêu cực; không đứng trước <i>tính từ + danh từ</i>.",
+   "example": {
+    "en": "I was <b>a bit</b> tired.",
+    "vi": "Tôi <b>hơi</b> mệt."
+   }
+  },
+  {
+   "word": "fairly",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈfeəli/",
+   "def_en": "More than a bit but less than very.",
+   "def_vi": "Hơn một chút nhưng chưa đến rất.",
+   "gloss_vi": "khá",
+   "synonyms": "quite <i>(adv. khá)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Fairly</i> (adverb) = khá. <b>Grammar</b>: <i>a fairly wet day</i>.",
+   "example": {
+    "en": "The food was <b>fairly</b> boring.",
+    "vi": "Đồ ăn <b>khá</b> nhạt nhẽo."
+   }
+  },
+  {
+   "word": "rather",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈrɑːðə(r)/",
+   "def_en": "Quite; more than a bit.",
+   "def_vi": "Khá; hơn một chút.",
+   "gloss_vi": "khá, hơi",
+   "synonyms": "quite <i>(adv. khá)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Rather</i> (adverb) = khá, hơi. <b>Grammar</b>: <i>a rather good party / rather a good party</i>.",
+   "example": {
+    "en": "I was <b>rather</b> annoyed I missed the film.",
+    "vi": "Tôi <b>khá</b> bực vì lỡ bộ phim."
+   }
+  },
+  {
+   "word": "pretty",
+   "sense": "degree",
+   "pos": "adverb",
+   "ipa": "/ˈprɪti/",
+   "def_en": "Quite (informal).",
+   "def_vi": "Khá (thân mật).",
+   "gloss_vi": "khá",
+   "synonyms": "fairly <i>(adv. khá)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Pretty</i> (adverb) = khá. <b>Grammar</b>: thân mật. <b>Common mistakes</b>: tính từ <i>pretty</i> = xinh.",
+   "example": {
+    "en": "The weather was <b>pretty</b> good.",
+    "vi": "Thời tiết <b>khá</b> đẹp."
+   }
+  },
+  {
+   "word": "completely",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/kəmˈpliːtli/",
+   "def_en": "Totally.",
+   "def_vi": "Hoàn toàn.",
+   "gloss_vi": "hoàn toàn",
+   "synonyms": "totally <i>(adv. hoàn toàn)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Completely</i> (adverb) = hoàn toàn. <b>Grammar</b>: <i>completely/totally agree</i>.",
+   "example": {
+    "en": "The restaurant was <b>completely</b> empty.",
+    "vi": "Nhà hàng <b>hoàn toàn</b> vắng tanh."
+   }
+  },
+  {
+   "word": "extremely",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ɪkˈstriːmli/",
+   "def_en": "Very.",
+   "def_vi": "Rất.",
+   "gloss_vi": "cực kỳ",
+   "synonyms": "very <i>(adv. rất)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Extremely</i> (adverb) = cực kỳ. <b>Grammar</b>: + tính từ thường.",
+   "example": {
+    "en": "We had an <b>extremely</b> interesting trip.",
+    "vi": "Chúng tôi có một chuyến đi <b>cực kỳ</b> thú vị."
+   }
+  },
+  {
+   "word": "incredibly",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ɪnˈkredəbli/",
+   "def_en": "Extremely.",
+   "def_vi": "Cực kỳ.",
+   "gloss_vi": "vô cùng",
+   "synonyms": "extremely <i>(adv. cực kỳ)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Incredibly</i> (adverb) = vô cùng. <b>Grammar</b>: + tính từ.",
+   "example": {
+    "en": "It’s an <b>incredibly</b> good book.",
+    "vi": "Đó là một cuốn sách <b>vô cùng</b> hay."
+   }
+  },
+  {
+   "word": "secretly",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈsiːkrətli/",
+   "def_en": "In a way that others couldn’t know about.",
+   "def_vi": "Theo cách người khác không biết.",
+   "gloss_vi": "bí mật, lén",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "openly <i>(adv. công khai)</i>",
+   "grammar_vi": "<i>Secretly</i> (adverb) = bí mật, lén. <b>Grammar</b>: <i>secret</i> (adj./n.).",
+   "example": {
+    "en": "Nora had <b>secretly</b> put all of the letters into her bag.",
+    "vi": "Nora đã <b>lén</b> bỏ hết thư vào túi."
+   }
+  },
+  {
+   "word": "quietly",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈkwaɪətli/",
+   "def_en": "Without making much noise.",
+   "def_vi": "Không gây nhiều tiếng động.",
+   "gloss_vi": "khẽ, nhẹ nhàng",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "loudly <i>(adv. ầm ĩ)</i>",
+   "grammar_vi": "<i>Quietly</i> (adverb) = khẽ, nhẹ nhàng. <b>Grammar</b>: <i>quiet</i> (adj.) + <i>-ly</i>.",
+   "example": {
+    "en": "I went in and shut the door <b>quietly</b>.",
+    "vi": "Tôi vào và đóng cửa <b>khẽ khàng</b>."
+   }
+  },
+  {
+   "word": "suddenly",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈsʌdənli/",
+   "def_en": "Quickly and unexpectedly.",
+   "def_vi": "Nhanh và bất ngờ.",
+   "gloss_vi": "đột nhiên",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "gradually <i>(adv. dần dần)</i>",
+   "grammar_vi": "<i>Suddenly</i> (adverb) = đột nhiên. <b>Grammar</b>: <i>sudden</i> (adj.).",
+   "example": {
+    "en": "I <b>suddenly</b> realised I wasn’t alone.",
+    "vi": "Tôi <b>đột nhiên</b> nhận ra mình không ở một mình."
+   }
+  },
+  {
+   "word": "urgently",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈɜːdʒəntli/",
+   "def_en": "Very quickly because of something important.",
+   "def_vi": "Rất gấp vì điều quan trọng.",
+   "gloss_vi": "khẩn cấp, gấp",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Urgently</i> (adverb) = khẩn cấp, gấp. <b>Grammar</b>: <i>urgent</i> (adj.).",
+   "example": {
+    "en": "I could see she needed help <b>urgently</b>.",
+    "vi": "Tôi thấy cô ấy cần giúp đỡ <b>khẩn cấp</b>."
+   }
+  },
+  {
+   "word": "briefly",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈbriːfli/",
+   "def_en": "For a short time.",
+   "def_vi": "Trong thời gian ngắn.",
+   "gloss_vi": "ngắn gọn, chốc lát",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Briefly</i> (adverb) = ngắn gọn, chốc lát. <b>Grammar</b>: <i>brief</i> (adj.).",
+   "example": {
+    "en": "I spoke to Charles <b>briefly</b> this morning.",
+    "vi": "Sáng nay tôi nói chuyện <b>chốc lát</b> với Charles."
+   }
+  },
+  {
+   "word": "politely",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/pəˈlaɪtli/",
+   "def_en": "In a polite way.",
+   "def_vi": "Một cách lịch sự.",
+   "gloss_vi": "lịch sự",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "rudely <i>(adv. thô lỗ)</i>",
+   "grammar_vi": "<i>Politely</i> (adverb) = lịch sự. <b>Grammar</b>: <i>polite</i> + <i>-ly</i>.",
+   "example": {
+    "en": "I asked him very <b>politely</b> if he could work an extra hour this evening.",
+    "vi": "Tôi hỏi anh ấy rất <b>lịch sự</b> liệu có thể làm thêm một giờ."
+   }
+  },
+  {
+   "word": "angrily",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈæŋɡrəli/",
+   "def_en": "In an angry way.",
+   "def_vi": "Một cách giận dữ.",
+   "gloss_vi": "giận dữ",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "calmly <i>(adv. bình tĩnh)</i>",
+   "grammar_vi": "<i>Angrily</i> (adverb) = giận dữ. <b>Grammar</b>: <i>angry</i> → <i>angrily</i> (y → i).",
+   "example": {
+    "en": "He reacted quite <b>angrily</b> and walked off.",
+    "vi": "Anh ấy phản ứng khá <b>giận dữ</b> và bỏ đi."
+   }
+  }
+ ]
+}

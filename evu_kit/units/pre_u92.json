@@ -1,0 +1,200 @@
+{
+ "book": "pre",
+ "unit": 92,
+ "title_vi": "Thời gian và trình tự",
+ "theory_html": "<p><b>A. When / As soon as</b><br><i>A. Khi / Ngay khi</i></p> <p><b>as soon as</b> is more immediate; no future form after them: <b>I’ll see you when I get there</b> (NOT <b>will get</b>).</p><p><i><b>khi / ngay khi</b>.</i></p> <p><b>B. Two things at the same time</b><br><i>B. Hai việc cùng lúc</i></p> <p><b>while</b> (two long actions, or long + short), <b>as / just as</b> (two short actions).</p><p><i><b>trong khi, ngay khi</b>.</i></p> <p><b>C. One thing after another</b><br><i>C. Việc này sau việc kia</i></p> <p><b>then / after that / afterwards; after (+ -ing); before going out</b>. <b>After seeing the film</b> (NOT <b>after see</b>).</p><p><i><b>rồi, sau đó, sau khi, trước khi</b>.</i></p> <p><b>D. A sequence of actions</b><br><i>D. Chuỗi hành động</i></p> <p><b>First of all / First…, After that / Then…, Finally…</b></p><p><i><b>trước hết, sau đó, cuối cùng</b>.</i></p> <p><b>E. At first … eventually</b><br><i>E. Lúc đầu … cuối cùng</i></p> <p><b>to begin with; after a while; eventually; at first; in the end</b>.</p><p><i><b>ban đầu; một thời gian sau; rốt cuộc</b>.</i></p> <p><b>F. A list of reasons</b><br><i>F. Liệt kê lý do</i></p> <p><b>firstly / for one thing / for a start</b>; <b>secondly / besides / anyway</b>.</p><p><i><b>thứ nhất, một là; thứ hai, vả lại, dù sao</b>.</i></p>",
+ "items": [
+  {
+   "word": "as soon as",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/əz ˈsuːn əz/",
+   "def_en": "Immediately when.",
+   "def_vi": "Ngay khi.",
+   "gloss_vi": "ngay khi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As soon as</i> (conjunction) = ngay khi. <b>Grammar</b>: không dùng tương lai sau <i>as soon as</i>.",
+   "example": {
+    "en": "I’ll phone my uncle <b>as soon as</b> I get home.",
+    "vi": "Tôi sẽ gọi cho chú <b>ngay khi</b> về đến nhà."
+   }
+  },
+  {
+   "word": "while",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/waɪl/",
+   "def_en": "During the time that.",
+   "def_vi": "Trong lúc.",
+   "gloss_vi": "trong khi",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>While</i> (conjunction) = trong khi. <b>Grammar</b>: hai hành động dài, hoặc dài + ngắn.",
+   "example": {
+    "en": "Violet got ready <b>while</b> I cooked the dinner.",
+    "vi": "Violet chuẩn bị <b>trong khi</b> tôi nấu bữa tối."
+   }
+  },
+  {
+   "word": "as",
+   "sense": "",
+   "pos": "conjunction",
+   "ipa": "/æz/",
+   "def_en": "At the same moment that.",
+   "def_vi": "Đúng lúc.",
+   "gloss_vi": "đúng lúc",
+   "synonyms": "when <i>(conj. khi)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>As</i> (conjunction) = đúng lúc. <b>Grammar</b>: hai hành động ngắn cùng lúc.",
+   "example": {
+    "en": "I saw him (just) <b>as</b> I came out of the office.",
+    "vi": "Tôi thấy anh ấy (ngay) <b>lúc</b> tôi ra khỏi văn phòng."
+   }
+  },
+  {
+   "word": "afterwards",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈɑːftəwədz/",
+   "def_en": "At a later time, usually the same day.",
+   "def_vi": "Sau đó, thường cùng ngày.",
+   "gloss_vi": "sau đó",
+   "synonyms": "after that <i>(phr. sau đó)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Afterwards</i> (adverb) = sau đó. <b>Grammar</b>: trạng từ (không có tân ngữ).",
+   "example": {
+    "en": "I talked to Joe, and <b>afterwards</b> I came home.",
+    "vi": "Tôi nói chuyện với Joe, và <b>sau đó</b> tôi về nhà."
+   }
+  },
+  {
+   "word": "first of all",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/ˌfɜːst əv ˈɔːl/",
+   "def_en": "Before anything else.",
+   "def_vi": "Trước mọi thứ.",
+   "gloss_vi": "trước hết",
+   "synonyms": "first <i>(adv. đầu tiên)</i>",
+   "antonyms": "finally <i>(adv. cuối cùng)</i>",
+   "grammar_vi": "<i>First of all</i> (phrase) = trước hết. <b>Grammar</b>: mở đầu chuỗi hành động.",
+   "example": {
+    "en": "<b>First of all</b> we spent a few days in St Moritz.",
+    "vi": "<b>Trước hết</b> chúng tôi ở St Moritz vài ngày."
+   }
+  },
+  {
+   "word": "finally",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈfaɪnəli/",
+   "def_en": "Used to introduce the last thing in a list.",
+   "def_vi": "Dùng giới thiệu điều cuối trong danh sách.",
+   "gloss_vi": "cuối cùng",
+   "synonyms": "lastly <i>(adv. sau cùng)</i>",
+   "antonyms": "firstly <i>(adv. thứ nhất)</i>",
+   "grammar_vi": "<i>Finally</i> (adverb) = cuối cùng. <b>Grammar</b>: cũng = sau thời gian dài.",
+   "example": {
+    "en": "<b>Finally</b>, we went back to Switzerland to stay with my uncle.",
+    "vi": "<b>Cuối cùng</b>, chúng tôi về Thụy Sĩ ở với chú."
+   }
+  },
+  {
+   "word": "to begin with",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/tə bɪˈɡɪn wɪð/",
+   "def_en": "At the beginning.",
+   "def_vi": "Lúc đầu.",
+   "gloss_vi": "ban đầu",
+   "synonyms": "at first <i>(phr. lúc đầu)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>To begin with</i> (phrase) = ban đầu. <b>Grammar</b>: cũng dùng để nêu lý do đầu tiên.",
+   "example": {
+    "en": "<b>To begin with</b>, the two girls got on very well.",
+    "vi": "<b>Ban đầu</b>, hai cô gái rất hòa hợp."
+   }
+  },
+  {
+   "word": "a while",
+   "sense": "",
+   "pos": "noun phrase",
+   "ipa": "/ə ˈwaɪl/",
+   "def_en": "A period of time.",
+   "def_vi": "Một khoảng thời gian.",
+   "gloss_vi": "một thời gian",
+   "synonyms": "<i>Not available</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>A while</i> (noun phrase) = một thời gian. <b>Grammar</b>: <i>for a while / after a while</i>.",
+   "example": {
+    "en": "After <b>a while</b>, they started arguing about various things.",
+    "vi": "Sau <b>một thời gian</b>, họ bắt đầu cãi nhau."
+   }
+  },
+  {
+   "word": "eventually",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ɪˈventʃuəli/",
+   "def_en": "Finally, after a long time or a lot of problems.",
+   "def_vi": "Cuối cùng, sau nhiều thời gian hay rắc rối.",
+   "gloss_vi": "rốt cuộc",
+   "synonyms": "in the end <i>(phr. cuối cùng)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Eventually</i> (adverb) = rốt cuộc. <b>Grammar</b>: ≠ <i>eventual</i> tiếng khác (<i>có thể</i>).",
+   "example": {
+    "en": "<b>Eventually</b> Lauren walked out and found a new place.",
+    "vi": "<b>Rốt cuộc</b> Lauren bỏ đi và tìm chỗ mới."
+   }
+  },
+  {
+   "word": "firstly",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/ˈfɜːstli/",
+   "def_en": "Used to introduce the first reason.",
+   "def_vi": "Dùng nêu lý do đầu tiên.",
+   "gloss_vi": "thứ nhất",
+   "synonyms": "for one thing <i>(phr. một là)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Firstly</i> (adverb) = thứ nhất. <b>Grammar</b>: <i>firstly…, secondly…</i>.",
+   "example": {
+    "en": "<b>Firstly</b>, it’s a horrible colour.",
+    "vi": "<b>Thứ nhất</b>, nó màu xấu kinh khủng."
+   }
+  },
+  {
+   "word": "for a start",
+   "sense": "",
+   "pos": "phrase",
+   "ipa": "/fər ə ˈstɑːt/",
+   "def_en": "Used to introduce a first reason.",
+   "def_vi": "Dùng nêu lý do đầu tiên.",
+   "gloss_vi": "trước hết",
+   "synonyms": "for one thing <i>(phr. một là)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>For a start</i> (phrase) = trước hết. <b>Grammar</b>: thân mật.",
+   "example": {
+    "en": "Well, <b>for a start</b>, I’ve got a lot of work.",
+    "vi": "<b>Trước hết</b> tôi có nhiều việc."
+   }
+  },
+  {
+   "word": "besides",
+   "sense": "",
+   "pos": "adverb",
+   "ipa": "/bɪˈsaɪdz/",
+   "def_en": "Used to add a further reason.",
+   "def_vi": "Dùng thêm lý do nữa.",
+   "gloss_vi": "vả lại",
+   "synonyms": "anyway <i>(adv. dù sao)</i>",
+   "antonyms": "<i>Not available</i>",
+   "grammar_vi": "<i>Besides</i> (adverb) = vả lại. <b>Grammar</b>: ≠ <i>beside</i> (bên cạnh).",
+   "example": {
+    "en": "And <b>besides</b>, I can’t afford it.",
+    "vi": "Và <b>vả lại</b>, tôi không đủ tiền."
+   }
+  }
+ ]
+}
