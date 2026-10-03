@@ -9,6 +9,7 @@
 | Advanced (adv) | EVU Advanced 3rd ed. | 101 | **xong 101/101** |
 | Business Intermediate (bus) | Business Vocabulary in Use Int 3rd ed. | 66 | **xong 66/66** |
 | Grammar & Vocabulary for Advanced (gva) | Hewings & Haines | 45 | **xong 45/45** |
+| Academic Vocabulary in Use | `English Vocabulary In Use (Academic).apkg` (deck có sẵn ở `main`) | – | chỉ đưa deck nguồn vào bundle; chưa có PDF/source để Việt hoá và build theo EVU |
 
 | Lượt | Phạm vi | Kết quả đo |
 |---|---|---|
@@ -24,7 +25,7 @@
 
 ## Quyết định thiết kế (đã đối chiếu 2 deck demo)
 - **Note type & giao diện**: lấy nguyên từ demo `English Vocabulary In Use (Upper-Intermediate).apkg` – "(Vocab In Use) Nhìn từ đoán nghĩa" (13 field: Từ vựng, Định nghĩa (a), IPA, Định nghĩa (v), Dịch nghĩa, Câu ví dụ hoàn chỉnh, Dịch câu ví dụ, Trái nghĩa, Đồng nghĩa, Ngữ pháp, Phát âm, STT, Nguồn; 2 thẻ) + "Tóm tắt" (lý thuyết). Không thêm field (khác EPV: demo EVU không có field lý thuyết trong note từ vựng).
-- **Cây deck** như demo: `<Root>::{Lý thuyết, Từ vựng (nhìn từ, đoán nghĩa), Từ vựng (nghe, gõ từ đúng)}::NN-Section::NN-Unit`, `01-Contents` = mục lục song ngữ, section đánh số từ 02 theo trang Contents của sách (khớp demo: upp `02-Effective vocabulary learning`, `08-Words and pronunciation`). Thẻ 1 → nhìn từ, thẻ 2 → nghe. Mỗi sách 1 file .apkg (giống demo; tránh file >100 MB).
+- **Cây deck** như demo: `<Root>::{Lý thuyết, Từ vựng (nhìn từ, đoán nghĩa), Từ vựng (nghe, gõ từ đúng)}::NN-Section::NN-Unit`, `01-Contents` = mục lục song ngữ, section đánh số từ 02 theo trang Contents của sách (khớp demo: upp `02-Effective vocabulary learning`, `08-Words and pronunciation`). Thẻ 1 → nhìn từ, thẻ 2 → nghe. Bản phân phối gộp bốn cấp độ vào một `English Vocabulary In Use.apkg`; Academic là nhánh chuyên đề dùng deck nguồn. Các APKG từng sách giữ ở `dist/individual/` để dự phòng.
 - **Root** theo tên demo: `English Vocabulary In Use (Elementary)`, `(Pre-Intermediate and Intermediate)`, `(Upper-Intermediate)`, … Hai sách không mang tên EVU (Business Vocabulary in Use, Grammar and Vocabulary for Advanced) dùng đúng tên sách.
 - **Câu ví dụ = nguyên văn câu sách** (demo dùng nguyên câu sách). `tools/compile.py` tự tìm câu chứa headword trên trang lý thuyết (ưu tiên chỗ in đậm), rồi trang bài tập; bôi đậm headword (kể cả dạng chia: bất quy tắc, -e/-y/gấp đôi phụ âm, rút gọn ’ve/’m/’s, phrasal verb tách được).
   - `exb=` : câu sách ghép lại bằng tay khi PDF trích rời (bảng 2–3 cột, bong bóng thoại) – vẫn là chữ của sách.
@@ -32,7 +33,7 @@
 - **Mật độ thẻ**: mục in đậm trên trang lý thuyết + cụm thiết yếu ở mục Expressions/Common mistakes; không làm thẻ cho chữ thường không in đậm, không làm lại thẻ đã có ở unit trước của cùng sách (trừ nghĩa khác → `sense`). Trung bình Elementary 20,7 mục/unit (demo 40–70/unit có cả từ phổ thông không in đậm – bỏ để tránh thẻ ít giá trị theo yêu cầu "no redundant/low-value cards").
 - **Lý thuyết**: tóm tắt song ngữ theo mục A/B/C… của trang (như EPV), không chép nguyên trang như demo – giữ nguyên tắc của dự án EPV (không chép đoạn dài), câu sách vẫn có trong thẻ.
 - **IPA**: chuẩn Anh, viết tay (không dùng IPA máy). Demo upp dùng IPA Mỹ → build đổi sang chuẩn Anh bằng `uk_ipa` (như EPV).
-- **Audio**: Kokoro TTS offline, giọng `bm_george` (như EPV), mp3 mono 24 kHz **64 kbps** (EPV 96 kbps) để apkg mỗi sách < 100 MB. `media/` không commit (tái tạo xác định bằng `evu.py audio`).
+- **Audio**: Kokoro TTS offline, giọng `bm_george` (như EPV), mp3 mono 24 kHz **64 kbps** (EPV 96 kbps). `media/` không commit (tái tạo xác định bằng `evu.py audio`). Bundle series có thể lớn hơn APKG đơn lẻ do chứa nhiều cấp sách.
 - **GUID**: `evu|book|unit|word|sense` (sha1) → build lại nhiều lần không nhân đôi; verify đếm GUID trùng + note logic trùng.
 - **Nguồn PDF**: `tools/extract_src.py` dựng dòng từ glyph (rawdict): chèn dấu cách theo khoảng trống glyph (PDF Elementary không có ký tự cách), đánh dấu **in đậm**, sửa glyph ghép bị mất (fi/fl/ff…) bằng tần suất từ `wordfreq`, ghi mọi chỗ sửa ở dòng `### LIGATURE`.
 

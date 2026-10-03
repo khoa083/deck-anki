@@ -6,12 +6,13 @@
 | English Grammar in Use 5th ed. (Intermediate) | deck mẫu `base/English Grammar In Use (Intermediate).apkg` (145 unit) | 145 | giữ nguyên nội dung; chỉ xuất lại bản đã bỏ chữ "Anki Support Vietnam" (`tools/clean_sample.py`) |
 | Essential Grammar in Use 4th ed. (ess) | `books/ess.pdf` (bản digital) | 115 | **xong 115/115** |
 | Advanced Grammar in Use 3rd ed. (agu) | `books/agu.pdf` | 100 | **xong 100/100** |
-| Supplementary Exercises (sup) | `books/sup.pdf` | – | chưa làm (xem "Todo for human") |
+| Supplementary Exercises (sup) | `books/sup.pdf` (EGU Intermediate, 200 bài) | 32 nhóm | **xong**; MCQ gắn với lý thuyết Intermediate theo `@egu` |
 
 | Deck | Kết quả đo (`egu.py verify`) |
 |---|---|
-| Essential Grammar In Use (Elementary) | 4651 note / 4651 thẻ (115 lý thuyết + 4536 MCQ); bad renders 0; GUID trùng 0; MCQ logic trùng 11 (xem dưới); còn chữ thương hiệu 0 |
+| Essential Grammar In Use (Elementary) | 4658 note / 4658 thẻ (115 unit theory + 4536 MCQ + 7 appendix theory); bad renders 0; GUID trùng 0; MCQ logic trùng 11 (xem dưới); còn chữ thương hiệu 0 |
 | Advanced Grammar In Use | 3715 note / 3715 thẻ (100 lý thuyết + 3615 MCQ); bad renders 0; GUID trùng 0; MCQ logic trùng 0; còn chữ thương hiệu 0 |
+| English Grammar In Use Supplementary Exercises | 1719 note / 1719 thẻ (32 lý thuyết + 1687 MCQ); bad renders 0; GUID trùng 0; MCQ logic trùng 0; còn chữ thương hiệu 0 |
 | English Grammar In Use (Intermediate) (mẫu) | 4981 note; đã bỏ link thương hiệu ở 3 template + giá trị `AnkiSupportVietnam` ở trường Nguồn của 4479 note; còn 0 |
 
 ## Quy trình
@@ -32,9 +33,10 @@ CLI: `python3 egu.py make|check|build|verify|status <book> [từ] [đến]`.
 ## Deviations
 - **agu – văn bản PDF bị mã hoá dịch ký tự**: một số đoạn bài tập trong `agu.pdf` trích ra bị dịch +3 (vd. `IURPKLVRI¿FH` = *from his office*). Đã giải mã bằng dịch −3 và đối chiếu với Key trước khi dùng.
 - **ess – 11 MCQ logic trùng giữa các unit**: sách lặp lại cùng câu ở các unit khác nhau (cùng câu, cùng đáp án). Giữ lại vì mỗi câu gắn với điểm ngữ pháp của unit đó; GUID vẫn khác nhau theo unit nên không trùng note.
-- **Phụ lục (Appendix)**: `build_deck.py` hỗ trợ `units/<book>_aNN.json` nhưng chưa có đường compile cho phụ lục → phụ lục ess (7) và agu chưa đưa vào deck.
+- **Phụ lục ess**: 7 appendix có note lý thuyết song ngữ ngắn gọn (chủ động/bị động, động từ bất quy tắc, dạng rút gọn, chính tả, cụm động từ). Nguồn biên soạn: phụ lục sách Essential Grammar in Use 4th ed.; nội dung là ghi chú học tập cô đọng, không chép nguyên bảng dài. Nguồn dữ liệu `data/ess_appendices.json`; compile bằng `python tools/compile_appendices.py` ra `units/ess_aNN.json`.
+- **Sup liên kết lý thuyết**: mỗi nhóm bài có `egu_units`; build kiểm tra mọi unit tham chiếu đều có trong deck mẫu Intermediate và đưa phần lý thuyết vào mặt sau ghi chú MCQ.
 - Một số câu trong Key chỉ là "Possible answers" (bài viết tự do): chỉ dùng phần cố định của câu trả lời mẫu; không tự đặt câu mới.
 
 ## Todo for human
-- Có làm thêm deck cho **Supplementary Exercises** (bài tập đi kèm EGU Intermediate) không? Nếu có: MCQ gắn với lý thuyết của deck mẫu Intermediate.
-- Có cần đưa **phụ lục** (bảng động từ bất quy tắc, chính tả, phrasal verbs…) thành note lý thuyết không?
+- Phụ lục agu chưa được bổ sung; ngoài phạm vi đợt này.
+- 11 MCQ ess trùng logic giữa các unit được giữ lại vì sách lặp lại câu hỏi theo các điểm ngữ pháp khác nhau.
