@@ -26,9 +26,14 @@ Kết quả verify: 10,304 notes / 20,227 cards; 0 bad renders; 0 GUID trùng; 0
 
 Đổi tên file từ `EPV_full.apkg`; nội dung đã là một deck có nhánh Advanced và Intermediate. Không thay đổi collection bên trong.
 
-## Các sách vẫn để riêng
+## Business Vocabulary In Use.apkg
 
-- `Business Vocabulary In Use (Intermediate).apkg`: một đầu sách độc lập, không có cấp khác để gộp.
-- `Grammar and Vocabulary for Advanced.apkg`: một đầu sách độc lập.
+- `01 Intermediate (B1-B2)`
+
+Repo hiện chỉ có bản Intermediate; Cambridge có bản Advanced cùng series nhưng PDF nguồn chưa có trong `main`.
+
+## Sách vẫn để riêng
+
+- `Grammar and Vocabulary for Advanced.apkg`: sách luyện thi độc lập, không thuộc Grammar in Use.
 
 Không tạo một gói “tất cả sách” vì việc gộp các họ sách khác nhau sẽ làm thứ tự học và nội dung từng series khó nhận biết.

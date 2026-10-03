@@ -69,3 +69,4 @@ def verify(filename: str) -> None:
 if __name__ == "__main__":
     verify("Grammar in Use.apkg")
     verify("English Vocabulary In Use.apkg")
+    verify("Business Vocabulary In Use.apkg")

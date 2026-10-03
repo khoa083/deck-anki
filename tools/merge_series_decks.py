@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import os
 import tempfile
+import sys
 from pathlib import Path
 
 from anki.collection import (
@@ -78,6 +79,16 @@ def merge(output: str, items: list[tuple[str, str, str]]) -> None:
 
 
 def main() -> None:
+    if len(sys.argv) > 1 and sys.argv[1] == "business-only":
+        merge(
+            "Business Vocabulary In Use.apkg",
+            [
+                ("dist/individual/Business Vocabulary In Use (Intermediate).apkg",
+                 "Business Vocabulary In Use (Intermediate)",
+                 "Business Vocabulary In Use::01 Intermediate (B1-B2)"),
+            ],
+        )
+        return
     merge(
         "Grammar in Use.apkg",
         [
@@ -113,6 +124,14 @@ def main() -> None:
             ("English Vocabulary In Use (Academic).apkg",
              "English Vocabulary In Use (Academic)",
              "English Vocabulary In Use::05 Academic Vocabulary in Use (B2-C1, source deck)"),
+        ],
+    )
+    merge(
+        "Business Vocabulary In Use.apkg",
+        [
+            ("dist/individual/Business Vocabulary In Use (Intermediate).apkg",
+             "Business Vocabulary In Use (Intermediate)",
+             "Business Vocabulary In Use::01 Intermediate (B1-B2)"),
         ],
     )
 
