@@ -48,11 +48,26 @@ def tag_balance_errors(s):
     return errs
 
 
-def theory_field(book, u):
-    un = u["unit"]; t = html.escape(BOOKS[book]["units"][str(un)]["title"], quote=False)
-    return (f'<p style="text-align: center;"><b><font color="#006ba6">Unit {un} – {t}</font></b></p>\n'
-            f'<p style="text-align: center;"><i>Bài {un} – {html.escape(u["title_vi"], quote=False)}</i></p>\n'
-            f'<hr style="text-align: center;">\n\n' + u["theory_html"])
+def theory_field(book, u, egu=None):
+    un = u["unit"]; info = BOOKS[book]["units"][str(un)]; t = html.escape(info["title"], quote=False)
+    lab, lab_vi = info.get("label", f"Unit {un}"), info.get("label_vi", f"Bài {un}")
+    t = t.replace(f" ({lab})", "")
+    out = (f'<p style="text-align: center;"><b><font color="#006ba6">{lab} – {t}</font></b></p>\n'
+           f'<p style="text-align: center;"><i>{lab_vi} – {html.escape(u["title_vi"], quote=False)}</i></p>\n'
+           f'<hr style="text-align: center;">\n\n' + u["theory_html"])
+    for e in u.get("egu_units", []):      # sup: lý thuyết các unit EGU liên quan, lấy nguyên từ deck mẫu
+        out += '\n\n<hr style="text-align: center;">\n\n' + egu[e]
+    return out
+
+
+def egu_theory(col):
+    """{số unit: nội dung lý thuyết} từ note "Tóm tắt++" của deck mẫu Intermediate (đọc trước khi xoá note mẫu)."""
+    m = {}
+    for nid in col.find_notes(f'note:"{THEORY_MODEL}"'):
+        n = col.get_note(nid); last = col.decks.name(col.get_card(n.card_ids()[0]).did).split("::")[-1]
+        g = re.match(r"(\d+) ", last)
+        if g: m[int(g.group(1))] = n["Câu hỏi"]
+    return m
 
 
 def validate(u, fname, book):
@@ -95,6 +110,9 @@ def main():
     col.import_anki_package(ImportAnkiPackageRequest(package_path=BASE,
                                                      options=ImportAnkiPackageOptions(with_scheduling=False, with_deck_configs=True)))
     tm, mm = col.models.by_name(THEORY_MODEL), col.models.by_name(MCQ_MODEL)
+    egu = egu_theory(col)
+    miss = sorted({e for u in units for e in u.get("egu_units", [])} - set(egu))
+    if miss: print("LỖI: deck mẫu không có lý thuyết unit", miss); sys.exit(2)
     col.remove_notes(list(col.find_notes("")))
     col.decks.remove([nd.id for nd in col.decks.all_names_and_ids() if nd.name.startswith("English Grammar In Use")])
     for m in col.models.all():          # chỉ giữ 2 note type của deck mẫu
@@ -104,7 +122,7 @@ def main():
     sec = sections(book); st = {"theory": 0, "mcq": 0, "appendix": 0}
     for u in sorted(units, key=lambda x: x["unit"]):
         un = u["unit"]; s = sec[BOOKS[book]["units"][str(un)]["section"]]; sub = unit_deck(book, un)
-        tag = [f"EGU::{book}::u{un:03d}"]; th = curly(theory_field(book, u))
+        tag = [f"EGU::{book}::u{un:03d}"]; th = curly(theory_field(book, u, egu))
         n = col.new_note(tm); n.guid = guid_for(book, un, "__theory__")
         n["Câu hỏi"] = th; n["Nguồn"] = SOURCE; n.tags = tag
         col.add_note(n, deck(root, A, s, sub)); st["theory"] += 1

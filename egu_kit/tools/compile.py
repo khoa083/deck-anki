@@ -5,6 +5,7 @@ Dùng:  python3 tools/compile.py BOOK U [U…]     (không có U -> mọi file d
 
 Định dạng data (mỗi dòng song ngữ dùng ‖ ngăn EN và VI; VI = "=" nghĩa là giống EN):
   @title_vi: tên bài tiếng Việt
+  @egu: 1-4,19,25                         -> (sup) unit EGU Intermediate liên quan: lý thuyết lấy từ deck mẫu khi build
   @theory
   ## A | EN heading | VI heading          -> mục A/B/C… (heading có thể rỗng)
   EN ‖ VI                                 -> đoạn văn
@@ -99,11 +100,22 @@ def fill(q, ans):
     return out
 
 
+def parse_units(s, where):
+    out = []
+    for p in s.replace(" ", "").split(","):
+        if not p: continue
+        a, _, b = p.replace("–", "-").partition("-")
+        if not a.isdigit() or (b and not b.isdigit()): raise ValueError(f"{where}: @egu sai – {s}")
+        out += range(int(a), int(b or a) + 1)
+    return sorted(set(out))
+
+
 def compile_file(book, un):
     fn = os.path.join(KIT, "data", f"{book}_u{un:03d}.txt"); where = os.path.basename(fn)
     meta, sect, buf = {}, None, {"theory": [], "rules": [], "mcq": []}
     for i, ln in enumerate(open(fn, encoding="utf-8").read().splitlines(), 1):
         if ln.startswith("@title_vi:"): meta["title_vi"] = ln.split(":", 1)[1].strip(); continue
+        if ln.startswith("@egu:"): meta["egu"] = parse_units(ln.split(":", 1)[1], where); continue
         if ln.strip() in ("@theory", "@rules", "@mcq"): sect = ln.strip()[1:]; continue
         if ln.strip().startswith("#!"): continue          # chú thích
         if sect: buf[sect].append(ln)
@@ -134,6 +146,7 @@ def compile_file(book, un):
     if not meta.get("title_vi"): raise ValueError(f"{where}: thiếu @title_vi")
     u = {"book": book, "unit": un, "title_en": BOOKS[book]["units"][str(un)]["title"], "title_vi": meta["title_vi"],
          "theory_html": theory_html(buf["theory"], where), "mcq": mcq}
+    if meta.get("egu"): u["egu_units"] = meta["egu"]
     os.makedirs(os.path.join(KIT, "units"), exist_ok=True)
     json.dump(u, open(os.path.join(KIT, "units", f"{book}_u{un:03d}.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     return u
