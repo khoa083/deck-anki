@@ -1,0 +1,675 @@
+{
+ "book": "sup",
+ "unit": 16,
+ "title_en": "The passive 1 (Exercises 103–108)",
+ "title_vi": "Câu bị động",
+ "theory_html": "<p style=\"text-align: justify;\"><b>A. Exercises in this group</b></p>\n<p style=\"text-align: justify;\"><i>A. Các bài tập trong nhóm</i></p>\n\n<p style=\"text-align: justify;\">Exercise 103: Complete the sentences using words from each box.</p>\n<p style=\"text-align: justify;\"><i>Bài 103: Hoàn thành câu bằng từ trong mỗi khung.</i></p>\n\n<p style=\"text-align: justify;\">Exercise 104: Put the verbs into the correct present perfect form, active or passive (has done or has been done).</p>\n<p style=\"text-align: justify;\"><i>Bài 104: Chia động từ ở dạng hiện tại hoàn thành đúng, chủ động hoặc bị động (has done hoặc has been done).</i></p>\n\n<p style=\"text-align: justify;\">Exercise 105: Rewrite this article using passive forms of the underlined verbs.</p>\n<p style=\"text-align: justify;\"><i>Bài 105: Viết lại bài báo dùng dạng bị động của các động từ được gạch chân.</i></p>\n\n<p style=\"text-align: justify;\">Exercise 106: Put the verbs into the correct passive form.</p>\n<p style=\"text-align: justify;\"><i>Bài 106: Chia động từ ở dạng bị động đúng.</i></p>\n\n<p style=\"text-align: justify;\">Exercise 107: There are mistakes in eight of these sentences. Correct the sentences where necessary. Write ‘OK’ if the sentence is already correct.</p>\n<p style=\"text-align: justify;\"><i>Bài 107: Tám trong số các câu này có lỗi. Sửa câu khi cần. Viết ‘OK’ nếu câu đã đúng.</i></p>\n\n<p style=\"text-align: justify;\">Exercise 108: Choose the correct alternative.</p>\n<p style=\"text-align: justify;\"><i>Bài 108: Chọn phương án đúng.</i></p>\n\n<p style=\"text-align: justify;\"><b>B. Related units</b></p>\n<p style=\"text-align: justify;\"><i>B. Các unit liên quan</i></p>\n\n<p style=\"text-align: justify;\">English Grammar in Use, Units 42–45 (theory below).</p>\n<p style=\"text-align: justify;\"><i>English Grammar in Use, Unit 42–45 (lý thuyết bên dưới).</i></p>",
+ "mcq": [
+  {
+   "question": "Greenland ___ Eric the Red.",
+   "a": "was named by",
+   "b": "named by",
+   "c": "was naming by",
+   "full": "Greenland <b>was named by</b> Eric the Red.",
+   "vi": "<i>Greenland <b>được đặt tên bởi</b> Eric the Red.</i>",
+   "expl": "Past simple passive: was / were + past participle + by + agent.<br><i>Bị động quá khứ đơn: was / were + quá khứ phân từ + by + tác nhân.</i><br><b>Điểm ngữ pháp</b>: was + V3 + by.",
+   "key": "Greenland ___ Eric the Red.|was named by"
+  },
+  {
+   "question": "Hamlet ___ William Shakespeare.",
+   "a": "was written by",
+   "b": "was wrote by",
+   "c": "written by",
+   "full": "Hamlet <b>was written by</b> William Shakespeare.",
+   "vi": "<i>Hamlet <b>được viết bởi</b> William Shakespeare.</i>",
+   "expl": "Past simple passive: was / were + past participle + by + agent.<br><i>Bị động quá khứ đơn: was / were + quá khứ phân từ + by + tác nhân.</i><br><b>Điểm ngữ pháp</b>: was + V3 + by.",
+   "key": "Hamlet ___ William Shakespeare.|was written by"
+  },
+  {
+   "question": "The Pyramids ___ the Ancient Egyptians.",
+   "a": "were built by",
+   "b": "was built by",
+   "c": "were build by",
+   "full": "The Pyramids <b>were built by</b> the Ancient Egyptians.",
+   "vi": "<i>Kim tự tháp <b>được xây bởi</b> người Ai Cập cổ đại.</i>",
+   "expl": "Past simple passive: was / were + past participle + by + agent.<br><i>Bị động quá khứ đơn: was / were + quá khứ phân từ + by + tác nhân.</i><br><b>Điểm ngữ pháp</b>: were (số nhiều) + V3 + by.",
+   "key": "The Pyramids ___ the Ancient Egyptians.|were built by"
+  },
+  {
+   "question": "The wireless ___ Guglielmo Marconi.",
+   "a": "was invented by",
+   "b": "invented by",
+   "c": "was invent by",
+   "full": "The wireless <b>was invented by</b> Guglielmo Marconi.",
+   "vi": "<i>Vô tuyến điện <b>được phát minh bởi</b> Guglielmo Marconi.</i>",
+   "expl": "Past simple passive: was / were + past participle + by + agent.<br><i>Bị động quá khứ đơn: was / were + quá khứ phân từ + by + tác nhân.</i><br><b>Điểm ngữ pháp</b>: was + V3 + by.",
+   "key": "The wireless ___ Guglielmo Marconi.|was invented by"
+  },
+  {
+   "question": "The Starry Night ___ Vincent van Gogh.",
+   "a": "was painted by",
+   "b": "painted by",
+   "c": "was paint by",
+   "full": "The Starry Night <b>was painted by</b> Vincent van Gogh.",
+   "vi": "<i>Đêm đầy sao <b>được vẽ bởi</b> Vincent van Gogh.</i>",
+   "expl": "Past simple passive: was / were + past participle + by + agent.<br><i>Bị động quá khứ đơn: was / were + quá khứ phân từ + by + tác nhân.</i><br><b>Điểm ngữ pháp</b>: was + V3 + by.",
+   "key": "The Starry Night ___ Vincent van Gogh.|was painted by"
+  },
+  {
+   "question": "The World Wide Web ___ Sir Tim Berners-Lee.",
+   "a": "was developed by",
+   "b": "developed by",
+   "c": "was develop by",
+   "full": "The World Wide Web <b>was developed by</b> Sir Tim Berners-Lee.",
+   "vi": "<i>World Wide Web <b>được phát triển bởi</b> Sir Tim Berners-Lee.</i>",
+   "expl": "Past simple passive: was / were + past participle + by + agent.<br><i>Bị động quá khứ đơn: was / were + quá khứ phân từ + by + tác nhân.</i><br><b>Điểm ngữ pháp</b>: was + V3 + by.",
+   "key": "The World Wide Web ___ Sir Tim Berners-Lee.|was developed by"
+  },
+  {
+   "question": "The Statue of Liberty ___ Gustave Eiffel.",
+   "a": "was designed by",
+   "b": "designed by",
+   "c": "was design by",
+   "full": "The Statue of Liberty <b>was designed by</b> Gustave Eiffel.",
+   "vi": "<i>Tượng Nữ thần Tự do <b>được thiết kế bởi</b> Gustave Eiffel.</i>",
+   "expl": "Past simple passive: was / were + past participle + by + agent.<br><i>Bị động quá khứ đơn: was / were + quá khứ phân từ + by + tác nhân.</i><br><b>Điểm ngữ pháp</b>: was + V3 + by.",
+   "key": "The Statue of Liberty ___ Gustave Eiffel.|was designed by"
+  },
+  {
+   "question": "The structure of DNA ___ Crick and Watson.",
+   "a": "was discovered by",
+   "b": "were discovered by",
+   "c": "was discover by",
+   "full": "The structure of DNA <b>was discovered by</b> Crick and Watson.",
+   "vi": "<i>Cấu trúc DNA <b>được khám phá bởi</b> Crick và Watson.</i>",
+   "expl": "Past simple passive: was / were + past participle + by + agent.<br><i>Bị động quá khứ đơn: was / were + quá khứ phân từ + by + tác nhân.</i><br><b>Điểm ngữ pháp</b>: was (chủ ngữ số ít: the structure) + V3 + by.",
+   "key": "The structure of DNA ___ Crick and Watson.|was discovered by"
+  },
+  {
+   "question": "Paper money ___ the Chinese.",
+   "a": "was invented by",
+   "b": "invented by",
+   "c": "was invent by",
+   "full": "Paper money <b>was invented by</b> the Chinese.",
+   "vi": "<i>Tiền giấy <b>được phát minh bởi</b> người Trung Quốc.</i>",
+   "expl": "Past simple passive: was / were + past participle + by + agent.<br><i>Bị động quá khứ đơn: was / were + quá khứ phân từ + by + tác nhân.</i><br><b>Điểm ngữ pháp</b>: was + V3 + by.",
+   "key": "Paper money ___ the Chinese.|was invented by"
+  },
+  {
+   "question": "Radium ___ Marie Curie.",
+   "a": "was discovered by",
+   "b": "discovered by",
+   "c": "was discover by",
+   "full": "Radium <b>was discovered by</b> Marie Curie.",
+   "vi": "<i>Radium <b>được khám phá bởi</b> Marie Curie.</i>",
+   "expl": "Past simple passive: was / were + past participle + by + agent.<br><i>Bị động quá khứ đơn: was / were + quá khứ phân từ + by + tác nhân.</i><br><b>Điểm ngữ pháp</b>: was + V3 + by.",
+   "key": "Radium ___ Marie Curie.|was discovered by"
+  },
+  {
+   "question": "(the woman / open) The woman ___ it.",
+   "a": "has opened",
+   "b": "has been opened",
+   "c": "have opened",
+   "full": "(the woman / open) The woman <b>has opened</b> it.",
+   "vi": "<i>(người phụ nữ / mở) Người phụ nữ <b>đã mở</b> nó.</i>",
+   "expl": "Present perfect active has / have + past participle; passive has / have been + past participle; intransitive verbs (disappear) have no passive.<br><i>Hiện tại hoàn thành chủ động has / have + quá khứ phân từ; bị động has / have been + quá khứ phân từ; nội động từ (disappear) không có bị động.</i><br><b>Điểm ngữ pháp</b>: Chủ động → has + V3.",
+   "key": "(the woman / open) The woman ___ it.|has opened"
+  },
+  {
+   "question": "(the fruit / eat) The fruit ___.",
+   "a": "has been eaten",
+   "b": "has eaten",
+   "c": "has been eat",
+   "full": "(the fruit / eat) The fruit <b>has been eaten</b>.",
+   "vi": "<i>(trái cây / ăn) Trái cây <b>đã bị ăn</b>.</i>",
+   "expl": "Present perfect active has / have + past participle; passive has / have been + past participle; intransitive verbs (disappear) have no passive.<br><i>Hiện tại hoàn thành chủ động has / have + quá khứ phân từ; bị động has / have been + quá khứ phân từ; nội động từ (disappear) không có bị động.</i><br><b>Điểm ngữ pháp</b>: Bị động → has been + V3.",
+   "key": "(the fruit / eat) The fruit ___.|has been eaten"
+  },
+  {
+   "question": "(the puncture / mend) The puncture ___.",
+   "a": "has been mended",
+   "b": "has mended",
+   "c": "has been mend",
+   "full": "(the puncture / mend) The puncture <b>has been mended</b>.",
+   "vi": "<i>(lỗ thủng / vá) Lỗ thủng <b>đã được vá</b>.</i>",
+   "expl": "Present perfect active has / have + past participle; passive has / have been + past participle; intransitive verbs (disappear) have no passive.<br><i>Hiện tại hoàn thành chủ động has / have + quá khứ phân từ; bị động has / have been + quá khứ phân từ; nội động từ (disappear) không có bị động.</i><br><b>Điểm ngữ pháp</b>: Bị động → has been + V3.",
+   "key": "(the puncture / mend) The puncture ___.|has been mended"
+  },
+  {
+   "question": "(the concert / cancel) The concert ___.",
+   "a": "has been cancelled",
+   "b": "has cancelled",
+   "c": "has been cancel",
+   "full": "(the concert / cancel) The concert <b>has been cancelled</b>.",
+   "vi": "<i>(buổi hòa nhạc / hủy) Buổi hòa nhạc <b>đã bị hủy</b>.</i>",
+   "expl": "Present perfect active has / have + past participle; passive has / have been + past participle; intransitive verbs (disappear) have no passive.<br><i>Hiện tại hoàn thành chủ động has / have + quá khứ phân từ; bị động has / have been + quá khứ phân từ; nội động từ (disappear) không có bị động.</i><br><b>Điểm ngữ pháp</b>: Bị động → has been + V3.",
+   "key": "(the concert / cancel) The concert ___.|has been cancelled"
+  },
+  {
+   "question": "(Jane Jones / elect) Jane Jones ___.",
+   "a": "has been elected",
+   "b": "has elected",
+   "c": "has been elect",
+   "full": "(Jane Jones / elect) Jane Jones <b>has been elected</b>.",
+   "vi": "<i>(Jane Jones / bầu) Jane Jones <b>đã được bầu</b>.</i>",
+   "expl": "Present perfect active has / have + past participle; passive has / have been + past participle; intransitive verbs (disappear) have no passive.<br><i>Hiện tại hoàn thành chủ động has / have + quá khứ phân từ; bị động has / have been + quá khứ phân từ; nội động từ (disappear) không có bị động.</i><br><b>Điểm ngữ pháp</b>: Bị động → has been + V3.",
+   "key": "(Jane Jones / elect) Jane Jones ___.|has been elected"
+  },
+  {
+   "question": "(the rabbit / disappear) The rabbit ___.",
+   "a": "has disappeared",
+   "b": "has been disappeared",
+   "c": "have disappeared",
+   "full": "(the rabbit / disappear) The rabbit <b>has disappeared</b>.",
+   "vi": "<i>(con thỏ / biến mất) Con thỏ <b>đã biến mất</b>.</i>",
+   "expl": "Present perfect active has / have + past participle; passive has / have been + past participle; intransitive verbs (disappear) have no passive.<br><i>Hiện tại hoàn thành chủ động has / have + quá khứ phân từ; bị động has / have been + quá khứ phân từ; nội động từ (disappear) không có bị động.</i><br><b>Điểm ngữ pháp</b>: disappear là nội động từ → không có bị động.",
+   "key": "(the rabbit / disappear) The rabbit ___.|has disappeared"
+  },
+  {
+   "question": "(the sculpture / steal) The sculpture ___.",
+   "a": "has been stolen",
+   "b": "has stolen",
+   "c": "has been stole",
+   "full": "(the sculpture / steal) The sculpture <b>has been stolen</b>.",
+   "vi": "<i>(bức tượng / lấy cắp) Bức tượng <b>đã bị lấy cắp</b>.</i>",
+   "expl": "Present perfect active has / have + past participle; passive has / have been + past participle; intransitive verbs (disappear) have no passive.<br><i>Hiện tại hoàn thành chủ động has / have + quá khứ phân từ; bị động has / have been + quá khứ phân từ; nội động từ (disappear) không có bị động.</i><br><b>Điểm ngữ pháp</b>: Bị động → has been + V3.",
+   "key": "(the sculpture / steal) The sculpture ___.|has been stolen"
+  },
+  {
+   "question": "(the students / pass) The students ___.",
+   "a": "have passed",
+   "b": "have been passed",
+   "c": "has passed",
+   "full": "(the students / pass) The students <b>have passed</b>.",
+   "vi": "<i>(sinh viên / đỗ) Các sinh viên <b>đã đỗ</b>.</i>",
+   "expl": "Present perfect active has / have + past participle; passive has / have been + past participle; intransitive verbs (disappear) have no passive.<br><i>Hiện tại hoàn thành chủ động has / have + quá khứ phân từ; bị động has / have been + quá khứ phân từ; nội động từ (disappear) không có bị động.</i><br><b>Điểm ngữ pháp</b>: Chủ động → have + V3.",
+   "key": "(the students / pass) The students ___.|have passed"
+  },
+  {
+   "question": "Thieves held the manager of the Ridgeway Hotel hostage last night. → The manager of the Ridgeway Hotel ___ hostage last night.",
+   "a": "was held",
+   "b": "held",
+   "c": "was hold",
+   "full": "Thieves held the manager of the Ridgeway Hotel hostage last night. → The manager of the Ridgeway Hotel <b>was held</b> hostage last night.",
+   "vi": "<i>Kẻ trộm bắt quản lý khách sạn Ridgeway làm con tin đêm qua. → Quản lý khách sạn Ridgeway <b>bị bắt</b> làm con tin đêm qua.</i>",
+   "expl": "Active past simple → passive was / were + past participle; the object becomes the subject; break into → be broken into.<br><i>Quá khứ đơn chủ động → bị động was / were + quá khứ phân từ; tân ngữ thành chủ ngữ; break into → be broken into.</i><br><b>Điểm ngữ pháp</b>: was + V3.",
+   "key": "Thieves held the manager of the Ridgeway Hotel hostage last night. → The manager of the Ridgeway Hotel ___ hostage last night.|was held"
+  },
+  {
+   "question": "They took nearly £50,000 from the hotel safe. → Nearly £50,000 ___ from the hotel safe.",
+   "a": "was taken",
+   "b": "took",
+   "c": "was took",
+   "full": "They took nearly £50,000 from the hotel safe. → Nearly £50,000 <b>was taken</b> from the hotel safe.",
+   "vi": "<i>Chúng lấy gần 50.000 bảng từ két khách sạn. → Gần 50.000 bảng <b>bị lấy</b> từ két khách sạn.</i>",
+   "expl": "Active past simple → passive was / were + past participle; the object becomes the subject; break into → be broken into.<br><i>Quá khứ đơn chủ động → bị động was / were + quá khứ phân từ; tân ngữ thành chủ ngữ; break into → be broken into.</i><br><b>Điểm ngữ pháp</b>: was + V3.",
+   "key": "They took nearly £50,000 from the hotel safe. → Nearly £50,000 ___ from the hotel safe.|was taken"
+  },
+  {
+   "question": "They also broke into several of the bedrooms. → Several of the bedrooms ___ also ___.",
+   "a": "were … broken into",
+   "b": "were … broken",
+   "c": "was … broke into",
+   "full": "They also broke into several of the bedrooms. → Several of the bedrooms <b>were</b> also <b>broken into</b>.",
+   "vi": "<i>Chúng còn đột nhập vài phòng ngủ. → Vài phòng ngủ cũng <b>bị đột nhập</b>.</i>",
+   "expl": "Active past simple → passive was / were + past participle; the object becomes the subject; break into → be broken into.<br><i>Quá khứ đơn chủ động → bị động was / were + quá khứ phân từ; tân ngữ thành chủ ngữ; break into → be broken into.</i><br><b>Điểm ngữ pháp</b>: break into → be broken into (giữ giới từ).",
+   "key": "They also broke into several of the bedrooms. → Several of the bedrooms ___ also ___.|were … broken into"
+  },
+  {
+   "question": "They removed articles of value. → Articles of value ___.",
+   "a": "were removed",
+   "b": "removed",
+   "c": "was removed",
+   "full": "They removed articles of value. → Articles of value <b>were removed</b>.",
+   "vi": "<i>Chúng lấy đi đồ có giá trị. → Đồ có giá trị <b>bị lấy đi</b>.</i>",
+   "expl": "Active past simple → passive was / were + past participle; the object becomes the subject; break into → be broken into.<br><i>Quá khứ đơn chủ động → bị động was / were + quá khứ phân từ; tân ngữ thành chủ ngữ; break into → be broken into.</i><br><b>Điểm ngữ pháp</b>: were (số nhiều) + V3.",
+   "key": "They removed articles of value. → Articles of value ___.|were removed"
+  },
+  {
+   "question": "They damaged several pieces of equipment. → Several pieces of equipment ___.",
+   "a": "were damaged",
+   "b": "damaged",
+   "c": "was damage",
+   "full": "They damaged several pieces of equipment. → Several pieces of equipment <b>were damaged</b>.",
+   "vi": "<i>Chúng làm hỏng vài thiết bị. → Vài thiết bị <b>bị hỏng</b>.</i>",
+   "expl": "Active past simple → passive was / were + past participle; the object becomes the subject; break into → be broken into.<br><i>Quá khứ đơn chủ động → bị động was / were + quá khứ phân từ; tân ngữ thành chủ ngữ; break into → be broken into.</i><br><b>Điểm ngữ pháp</b>: were + V3.",
+   "key": "They damaged several pieces of equipment. → Several pieces of equipment ___.|were damaged"
+  },
+  {
+   "question": "They tied up the chef. → The chef ___.",
+   "a": "was tied up",
+   "b": "tied up",
+   "c": "was tie up",
+   "full": "They tied up the chef. → The chef <b>was tied up</b>.",
+   "vi": "<i>Chúng trói đầu bếp. → Đầu bếp <b>bị trói</b>.</i>",
+   "expl": "Active past simple → passive was / were + past participle; the object becomes the subject; break into → be broken into.<br><i>Quá khứ đơn chủ động → bị động was / were + quá khứ phân từ; tân ngữ thành chủ ngữ; break into → be broken into.</i><br><b>Điểm ngữ pháp</b>: was + V3 (giữ tiểu từ up).",
+   "key": "They tied up the chef. → The chef ___.|was tied up"
+  },
+  {
+   "question": "They left him locked in a cupboard. → He ___ locked in a cupboard.",
+   "a": "was left",
+   "b": "left",
+   "c": "was leave",
+   "full": "They left him locked in a cupboard. → He <b>was left</b> locked in a cupboard.",
+   "vi": "<i>Chúng nhốt ông ấy trong tủ. → Ông ấy <b>bị bỏ lại</b> trong tủ khóa.</i>",
+   "expl": "Active past simple → passive was / were + past participle; the object becomes the subject; break into → be broken into.<br><i>Quá khứ đơn chủ động → bị động was / were + quá khứ phân từ; tân ngữ thành chủ ngữ; break into → be broken into.</i><br><b>Điểm ngữ pháp</b>: was + V3.",
+   "key": "They left him locked in a cupboard. → He ___ locked in a cupboard.|was left"
+  },
+  {
+   "question": "Police arrested the thieves early this morning. → The thieves ___ early this morning.",
+   "a": "were arrested",
+   "b": "arrested",
+   "c": "was arrest",
+   "full": "Police arrested the thieves early this morning. → The thieves <b>were arrested</b> early this morning.",
+   "vi": "<i>Cảnh sát bắt bọn trộm sáng sớm nay. → Bọn trộm <b>bị bắt</b> sáng sớm nay.</i>",
+   "expl": "Active past simple → passive was / were + past participle; the object becomes the subject; break into → be broken into.<br><i>Quá khứ đơn chủ động → bị động was / were + quá khứ phân từ; tân ngữ thành chủ ngữ; break into → be broken into.</i><br><b>Điểm ngữ pháp</b>: were + V3.",
+   "key": "Police arrested the thieves early this morning. → The thieves ___ early this morning.|were arrested"
+  },
+  {
+   "question": "I’ve collected all the documents that ___ for the house sale.",
+   "a": "are needed",
+   "b": "are need",
+   "c": "need be",
+   "full": "I’ve collected all the documents that <b>are needed</b> for the house sale.",
+   "vi": "<i>Tôi đã gom đủ giấy tờ <b>cần thiết</b> cho việc bán nhà.</i>",
+   "expl": "Passive forms: will be done, would have been done, is done, are done, have been done, had been done, is being done, was being done.<br><i>Các dạng bị động: will be done, would have been done, is done, are done, have been done, had been done, is being done, was being done.</i><br><b>Điểm ngữ pháp</b>: Bị động hiện tại → are + V3.",
+   "key": "I’ve collected all the documents that ___ for the house sale.|are needed"
+  },
+  {
+   "question": "Look, this is a secret. Come into the garden where we ___.",
+   "a": "won’t be overheard",
+   "b": "won’t overhear",
+   "c": "won’t be overhear",
+   "full": "Look, this is a secret. Come into the garden where we <b>won’t be overheard</b>.",
+   "vi": "<i>Này, đây là bí mật. Ra vườn nơi chúng ta <b>sẽ không bị nghe lén</b>.</i>",
+   "expl": "Passive forms: will be done, would have been done, is done, are done, have been done, had been done, is being done, was being done.<br><i>Các dạng bị động: will be done, would have been done, is done, are done, have been done, had been done, is being done, was being done.</i><br><b>Điểm ngữ pháp</b>: will not be + V3.",
+   "key": "Look, this is a secret. Come into the garden where we ___.|won’t be overheard"
+  },
+  {
+   "question": "If you hadn’t been so late for work, you ___.",
+   "a": "wouldn’t have been sacked",
+   "b": "wouldn’t have sacked",
+   "c": "wouldn’t been sacked",
+   "full": "If you hadn’t been so late for work, you <b>wouldn’t have been sacked</b>.",
+   "vi": "<i>Nếu bạn không đi làm muộn thế, bạn <b>đã không bị sa thải</b>.</i>",
+   "expl": "Passive forms: will be done, would have been done, is done, are done, have been done, had been done, is being done, was being done.<br><i>Các dạng bị động: will be done, would have been done, is done, are done, have been done, had been done, is being done, was being done.</i><br><b>Điểm ngữ pháp</b>: would have been + V3.",
+   "key": "If you hadn’t been so late for work, you ___.|wouldn’t have been sacked"
+  },
+  {
+   "question": "This office is very inefficient. The phone ___ promptly.",
+   "a": "is never answered",
+   "b": "never answers",
+   "c": "is never answer",
+   "full": "This office is very inefficient. The phone <b>is never answered</b> promptly.",
+   "vi": "<i>Văn phòng này rất kém. Điện thoại <b>không bao giờ được trả lời</b> kịp thời.</i>",
+   "expl": "Passive forms: will be done, would have been done, is done, are done, have been done, had been done, is being done, was being done.<br><i>Các dạng bị động: will be done, would have been done, is done, are done, have been done, had been done, is being done, was being done.</i><br><b>Điểm ngữ pháp</b>: is + V3.",
+   "key": "This office is very inefficient. The phone ___ promptly.|is never answered"
+  },
+  {
+   "question": "No proper records ___, and, worst of all, no reports have been written since I started work here.",
+   "a": "are kept",
+   "b": "keep",
+   "c": "are keep",
+   "full": "No proper records <b>are kept</b>, and, worst of all, no reports have been written since I started work here.",
+   "vi": "<i>Không có hồ sơ tử tế nào <b>được lưu giữ</b>, và tệ nhất là chẳng có báo cáo nào được viết từ khi tôi đến làm.</i>",
+   "expl": "Passive forms: will be done, would have been done, is done, are done, have been done, had been done, is being done, was being done.<br><i>Các dạng bị động: will be done, would have been done, is done, are done, have been done, had been done, is being done, was being done.</i><br><b>Điểm ngữ pháp</b>: are + V3.",
+   "key": "No proper records ___, and, worst of all, no reports have been written since I started work here.|are kept"
+  },
+  {
+   "question": "No reports ___ since I started work here.",
+   "a": "have been written",
+   "b": "have written",
+   "c": "have been wrote",
+   "full": "No reports <b>have been written</b> since I started work here.",
+   "vi": "<i>Chẳng có báo cáo nào <b>được viết</b> từ khi tôi đến làm.</i>",
+   "expl": "Passive forms: will be done, would have been done, is done, are done, have been done, had been done, is being done, was being done.<br><i>Các dạng bị động: will be done, would have been done, is done, are done, have been done, had been done, is being done, was being done.</i><br><b>Điểm ngữ pháp</b>: since → have been + V3.",
+   "key": "No reports ___ since I started work here.|have been written"
+  },
+  {
+   "question": "When I got home, I could see that the vegetables ___ every day.",
+   "a": "had been watered",
+   "b": "had watered",
+   "c": "have been watered",
+   "full": "When I got home, I could see that the vegetables <b>had been watered</b> every day.",
+   "vi": "<i>Khi về nhà, tôi thấy rau <b>đã được tưới</b> hằng ngày.</i>",
+   "expl": "Passive forms: will be done, would have been done, is done, are done, have been done, had been done, is being done, was being done.<br><i>Các dạng bị động: will be done, would have been done, is done, are done, have been done, had been done, is being done, was being done.</i><br><b>Điểm ngữ pháp</b>: Trước thời điểm quá khứ → had been + V3.",
+   "key": "When I got home, I could see that the vegetables ___ every day.|had been watered"
+  },
+  {
+   "question": "When I got home, I could see that the grass ___ regularly.",
+   "a": "had been cut",
+   "b": "had cut",
+   "c": "has been cut",
+   "full": "When I got home, I could see that the grass <b>had been cut</b> regularly.",
+   "vi": "<i>Khi về nhà, tôi thấy cỏ <b>đã được cắt</b> đều đặn.</i>",
+   "expl": "Passive forms: will be done, would have been done, is done, are done, have been done, had been done, is being done, was being done.<br><i>Các dạng bị động: will be done, would have been done, is done, are done, have been done, had been done, is being done, was being done.</i><br><b>Điểm ngữ pháp</b>: had been + V3.",
+   "key": "When I got home, I could see that the grass ___ regularly.|had been cut"
+  },
+  {
+   "question": "The man who ___ of stealing your wallet has been arrested.",
+   "a": "is suspected",
+   "b": "suspects",
+   "c": "is suspect",
+   "full": "The man who <b>is suspected</b> of stealing your wallet has been arrested.",
+   "vi": "<i>Người đàn ông <b>bị nghi</b> lấy trộm ví của bạn đã bị bắt.</i>",
+   "expl": "Passive forms: will be done, would have been done, is done, are done, have been done, had been done, is being done, was being done.<br><i>Các dạng bị động: will be done, would have been done, is done, are done, have been done, had been done, is being done, was being done.</i><br><b>Điểm ngữ pháp</b>: is + V3.",
+   "key": "The man who ___ of stealing your wallet has been arrested.|is suspected"
+  },
+  {
+   "question": "The man who is suspected of stealing your wallet ___.",
+   "a": "has been arrested",
+   "b": "has arrested",
+   "c": "has been arrest",
+   "full": "The man who is suspected of stealing your wallet <b>has been arrested</b>.",
+   "vi": "<i>Người đàn ông bị nghi lấy ví của bạn <b>đã bị bắt</b>.</i>",
+   "expl": "Passive forms: will be done, would have been done, is done, are done, have been done, had been done, is being done, was being done.<br><i>Các dạng bị động: will be done, would have been done, is done, are done, have been done, had been done, is being done, was being done.</i><br><b>Điểm ngữ pháp</b>: has been + V3.",
+   "key": "The man who is suspected of stealing your wallet ___.|has been arrested"
+  },
+  {
+   "question": "The man ___ at the moment.",
+   "a": "is being questioned",
+   "b": "is questioning",
+   "c": "is been questioned",
+   "full": "The man <b>is being questioned</b> at the moment.",
+   "vi": "<i>Người đàn ông <b>đang bị thẩm vấn</b> lúc này.</i>",
+   "expl": "Passive forms: will be done, would have been done, is done, are done, have been done, had been done, is being done, was being done.<br><i>Các dạng bị động: will be done, would have been done, is done, are done, have been done, had been done, is being done, was being done.</i><br><b>Điểm ngữ pháp</b>: at the moment → is being + V3.",
+   "key": "The man ___ at the moment.|is being questioned"
+  },
+  {
+   "question": "The police hope he ___, either by you or another witness.",
+   "a": "will be identified",
+   "b": "will identify",
+   "c": "will be identify",
+   "full": "The police hope he <b>will be identified</b>, either by you or another witness.",
+   "vi": "<i>Cảnh sát hy vọng hắn <b>sẽ được nhận diện</b>, bởi bạn hoặc nhân chứng khác.</i>",
+   "expl": "Passive forms: will be done, would have been done, is done, are done, have been done, had been done, is being done, was being done.<br><i>Các dạng bị động: will be done, would have been done, is done, are done, have been done, had been done, is being done, was being done.</i><br><b>Điểm ngữ pháp</b>: will be + V3.",
+   "key": "The police hope he ___, either by you or another witness.|will be identified"
+  },
+  {
+   "question": "We had hoped to see several famous paintings, but the gallery ___ at the time of our visit last month.",
+   "a": "was being reorganised",
+   "b": "was reorganising",
+   "c": "is being reorganised",
+   "full": "We had hoped to see several famous paintings, but the gallery <b>was being reorganised</b> at the time of our visit last month.",
+   "vi": "<i>Chúng tôi đã mong xem vài bức tranh nổi tiếng, nhưng phòng tranh <b>đang được sắp xếp lại</b> vào lúc chúng tôi đến tháng trước.</i>",
+   "expl": "Passive forms: will be done, would have been done, is done, are done, have been done, had been done, is being done, was being done.<br><i>Các dạng bị động: will be done, would have been done, is done, are done, have been done, had been done, is being done, was being done.</i><br><b>Điểm ngữ pháp</b>: Đang diễn ra trong quá khứ → was being + V3.",
+   "key": "We had hoped to see several famous paintings, but the gallery ___ at the time of our visit last month.|was being reorganised"
+  },
+  {
+   "question": "Most of the really valuable works ___ for safe keeping.",
+   "a": "had been moved",
+   "b": "had moved",
+   "c": "have been move",
+   "full": "Most of the really valuable works <b>had been moved</b> for safe keeping.",
+   "vi": "<i>Hầu hết các tác phẩm giá trị <b>đã được chuyển đi</b> để bảo quản.</i>",
+   "expl": "Passive forms: will be done, would have been done, is done, are done, have been done, had been done, is being done, was being done.<br><i>Các dạng bị động: will be done, would have been done, is done, are done, have been done, had been done, is being done, was being done.</i><br><b>Điểm ngữ pháp</b>: had been + V3.",
+   "key": "Most of the really valuable works ___ for safe keeping.|had been moved"
+  },
+  {
+   "question": "My neighbour is proud of her grandson who ___ last week.",
+   "a": "was born",
+   "b": "born",
+   "c": "has born",
+   "full": "My neighbour is proud of her grandson who <b>was born</b> last week.",
+   "vi": "<i>Hàng xóm tôi tự hào về đứa cháu trai <b>mới sinh</b> tuần trước.</i>",
+   "expl": "Intransitive verbs (be born is passive, but belong, collapse, disappear have no passive); is being repaired; get + past participle; be allowed.<br><i>Nội động từ (be born là bị động, nhưng belong, collapse, disappear không có bị động); is being repaired; get + quá khứ phân từ; be allowed.</i><br><b>Điểm ngữ pháp</b>: be born (bị động).",
+   "key": "My neighbour is proud of her grandson who ___ last week.|was born"
+  },
+  {
+   "question": "I’m very fond of this old necklace because it ___ to my grandmother.",
+   "a": "belonged",
+   "b": "was belonged",
+   "c": "was belonging",
+   "full": "I’m very fond of this old necklace because it <b>belonged</b> to my grandmother.",
+   "vi": "<i>Tôi rất quý chiếc vòng cổ cũ này vì nó <b>từng thuộc về</b> bà tôi.</i>",
+   "expl": "Intransitive verbs (be born is passive, but belong, collapse, disappear have no passive); is being repaired; get + past participle; be allowed.<br><i>Nội động từ (be born là bị động, nhưng belong, collapse, disappear không có bị động); is being repaired; get + quá khứ phân từ; be allowed.</i><br><b>Điểm ngữ pháp</b>: belong không có bị động.",
+   "key": "I’m very fond of this old necklace because it ___ to my grandmother.|belonged"
+  },
+  {
+   "question": "I’m afraid I can’t lend you my car. It’s ___ this week.",
+   "a": "being repaired",
+   "b": "repairing",
+   "c": "been repairing",
+   "full": "I’m afraid I can’t lend you my car. It’s <b>being repaired</b> this week.",
+   "vi": "<i>Xin lỗi, tôi không cho bạn mượn xe được. Tuần này nó <b>đang được sửa</b>.</i>",
+   "expl": "Intransitive verbs (be born is passive, but belong, collapse, disappear have no passive); is being repaired; get + past participle; be allowed.<br><i>Nội động từ (be born là bị động, nhưng belong, collapse, disappear không có bị động); is being repaired; get + quá khứ phân từ; be allowed.</i><br><b>Điểm ngữ pháp</b>: is being + V3.",
+   "key": "I’m afraid I can’t lend you my car. It’s ___ this week.|being repaired"
+  },
+  {
+   "question": "___ during the floods, but fortunately no one was using it at the time.",
+   "a": "The bridge collapsed",
+   "b": "The bridge was collapsed",
+   "c": "The bridge collapse",
+   "full": "<b>The bridge collapsed</b> during the floods, but fortunately no one was using it at the time.",
+   "vi": "<i><b>Cây cầu sập</b> trong trận lũ, nhưng may là lúc đó không ai đi qua.</i>",
+   "expl": "Intransitive verbs (be born is passive, but belong, collapse, disappear have no passive); is being repaired; get + past participle; be allowed.<br><i>Nội động từ (be born là bị động, nhưng belong, collapse, disappear không có bị động); is being repaired; get + quá khứ phân từ; be allowed.</i><br><b>Điểm ngữ pháp</b>: collapse không có bị động.",
+   "key": "___ during the floods, but fortunately no one was using it at the time.|The bridge collapsed"
+  },
+  {
+   "question": "If you don’t watch the barbecue carefully, someone will get ___.",
+   "a": "burnt",
+   "b": "burn",
+   "c": "burning",
+   "full": "If you don’t watch the barbecue carefully, someone will get <b>burnt</b>.",
+   "vi": "<i>Nếu bạn không trông chừng bếp nướng cẩn thận, sẽ có người <b>bị bỏng</b>.</i>",
+   "expl": "Intransitive verbs (be born is passive, but belong, collapse, disappear have no passive); is being repaired; get + past participle; be allowed.<br><i>Nội động từ (be born là bị động, nhưng belong, collapse, disappear không có bị động); is being repaired; get + quá khứ phân từ; be allowed.</i><br><b>Điểm ngữ pháp</b>: get + V3.",
+   "key": "If you don’t watch the barbecue carefully, someone will get ___.|burnt"
+  },
+  {
+   "question": "The word ‘stupid’ was in my report, but it ___ to you.",
+   "a": "didn’t refer",
+   "b": "wasn’t referred",
+   "c": "didn’t referred",
+   "full": "The word ‘stupid’ was in my report, but it <b>didn’t refer</b> to you.",
+   "vi": "<i>Từ ‘ngu ngốc’ có trong báo cáo của tôi, nhưng nó <b>không ám chỉ</b> bạn.</i>",
+   "expl": "Intransitive verbs (be born is passive, but belong, collapse, disappear have no passive); is being repaired; get + past participle; be allowed.<br><i>Nội động từ (be born là bị động, nhưng belong, collapse, disappear không có bị động); is being repaired; get + quá khứ phân từ; be allowed.</i><br><b>Điểm ngữ pháp</b>: Chủ ngữ (từ đó) thực hiện hành động → chủ động.",
+   "key": "The word ‘stupid’ was in my report, but it ___ to you.|didn’t refer"
+  },
+  {
+   "question": "When did you realise that your bag ___?",
+   "a": "had disappeared",
+   "b": "had been disappeared",
+   "c": "was disappeared",
+   "full": "When did you realise that your bag <b>had disappeared</b>?",
+   "vi": "<i>Bạn nhận ra túi của mình <b>đã biến mất</b> khi nào?</i>",
+   "expl": "Intransitive verbs (be born is passive, but belong, collapse, disappear have no passive); is being repaired; get + past participle; be allowed.<br><i>Nội động từ (be born là bị động, nhưng belong, collapse, disappear không có bị động); is being repaired; get + quá khứ phân từ; be allowed.</i><br><b>Điểm ngữ pháp</b>: disappear không có bị động.",
+   "key": "When did you realise that your bag ___?|had disappeared"
+  },
+  {
+   "question": "Children under the age of sixteen ___ in the jacuzzi.",
+   "a": "are not allowed",
+   "b": "do not allow",
+   "c": "are not allow",
+   "full": "Children under the age of sixteen <b>are not allowed</b> in the jacuzzi.",
+   "vi": "<i>Trẻ em dưới mười sáu tuổi <b>không được phép</b> vào bể sục.</i>",
+   "expl": "Intransitive verbs (be born is passive, but belong, collapse, disappear have no passive); is being repaired; get + past participle; be allowed.<br><i>Nội động từ (be born là bị động, nhưng belong, collapse, disappear không có bị động); is being repaired; get + quá khứ phân từ; be allowed.</i><br><b>Điểm ngữ pháp</b>: be allowed.",
+   "key": "Children under the age of sixteen ___ in the jacuzzi.|are not allowed"
+  },
+  {
+   "question": "Our group is small and ___ very well by our guide.",
+   "a": "we’re being looked after",
+   "b": "we were looked after",
+   "c": "we’re looking after",
+   "full": "Our group is small and <b>we’re being looked after</b> very well by our guide.",
+   "vi": "<i>Nhóm chúng tôi nhỏ và <b>chúng tôi đang được chăm sóc</b> rất tốt bởi hướng dẫn viên.</i>",
+   "expl": "Use the passive when the subject receives the action and the active when the subject does it.<br><i>Dùng bị động khi chủ ngữ nhận hành động và chủ động khi chủ ngữ thực hiện hành động.</i><br><b>Điểm ngữ pháp</b>: Đang diễn ra + by … → is being + V3.",
+   "key": "Our group is small and ___ very well by our guide.|we’re being looked after"
+  },
+  {
+   "question": "___ some amazing things already.",
+   "a": "We’ve been shown",
+   "b": "We were shown",
+   "c": "We’ve shown",
+   "full": "<b>We’ve been shown</b> some amazing things already.",
+   "vi": "<i><b>Chúng tôi đã được cho xem</b> vài điều tuyệt vời rồi.</i>",
+   "expl": "Use the passive when the subject receives the action and the active when the subject does it.<br><i>Dùng bị động khi chủ ngữ nhận hành động và chủ động khi chủ ngữ thực hiện hành động.</i><br><b>Điểm ngữ pháp</b>: already → hiện tại hoàn thành bị động.",
+   "key": "___ some amazing things already.|We’ve been shown"
+  },
+  {
+   "question": "We’ve been shown some amazing things already and ___ some fantastic landscapes.",
+   "a": "we’ve seen",
+   "b": "we’ve been seen",
+   "c": "we’ve been seeing",
+   "full": "We’ve been shown some amazing things already and <b>we’ve seen</b> some fantastic landscapes.",
+   "vi": "<i>Chúng tôi đã được xem vài điều tuyệt vời và <b>đã thấy</b> những phong cảnh tuyệt đẹp.</i>",
+   "expl": "Use the passive when the subject receives the action and the active when the subject does it.<br><i>Dùng bị động khi chủ ngữ nhận hành động và chủ động khi chủ ngữ thực hiện hành động.</i><br><b>Điểm ngữ pháp</b>: Chủ ngữ thực hiện hành động → chủ động.",
+   "key": "We’ve been shown some amazing things already and ___ some fantastic landscapes.|we’ve seen"
+  },
+  {
+   "question": "Last weekend we went to a National Park. ___ to a watering hole.",
+   "a": "We were driven",
+   "b": "We were driving",
+   "c": "We drove by",
+   "full": "Last weekend we went to a National Park. <b>We were driven</b> to a watering hole.",
+   "vi": "<i>Cuối tuần trước chúng tôi đến một công viên quốc gia. <b>Chúng tôi được chở</b> đến một hồ nước.</i>",
+   "expl": "Use the passive when the subject receives the action and the active when the subject does it.<br><i>Dùng bị động khi chủ ngữ nhận hành động và chủ động khi chủ ngữ thực hiện hành động.</i><br><b>Điểm ngữ pháp</b>: Hướng dẫn viên lái → bị động.",
+   "key": "Last weekend we went to a National Park. ___ to a watering hole.|We were driven"
+  },
+  {
+   "question": "We were driven to a watering hole where an amazing range of animals ___.",
+   "a": "could be seen",
+   "b": "could be seeing",
+   "c": "could seen",
+   "full": "We were driven to a watering hole where an amazing range of animals <b>could be seen</b>.",
+   "vi": "<i>Chúng tôi được chở đến một hồ nước nơi <b>có thể thấy</b> rất nhiều loài vật.</i>",
+   "expl": "Use the passive when the subject receives the action and the active when the subject does it.<br><i>Dùng bị động khi chủ ngữ nhận hành động và chủ động khi chủ ngữ thực hiện hành động.</i><br><b>Điểm ngữ pháp</b>: modal + be + V3.",
+   "key": "We were driven to a watering hole where an amazing range of animals ___.|could be seen"
+  },
+  {
+   "question": "We were told that the numbers ___ since the National Park was founded.",
+   "a": "have risen",
+   "b": "were risen",
+   "c": "have been risen",
+   "full": "We were told that the numbers <b>have risen</b> since the National Park was founded.",
+   "vi": "<i>Chúng tôi được biết số lượng <b>đã tăng</b> kể từ khi công viên quốc gia được thành lập.</i>",
+   "expl": "Use the passive when the subject receives the action and the active when the subject does it.<br><i>Dùng bị động khi chủ ngữ nhận hành động và chủ động khi chủ ngữ thực hiện hành động.</i><br><b>Điểm ngữ pháp</b>: rise là nội động từ → không có bị động.",
+   "key": "We were told that the numbers ___ since the National Park was founded.|have risen"
+  },
+  {
+   "question": "We were told that the numbers have risen since the National Park ___.",
+   "a": "was founded",
+   "b": "founded",
+   "c": "was found",
+   "full": "We were told that the numbers have risen since the National Park <b>was founded</b>.",
+   "vi": "<i>Chúng tôi được biết số lượng đã tăng kể từ khi công viên quốc gia <b>được thành lập</b>.</i>",
+   "expl": "Use the passive when the subject receives the action and the active when the subject does it.<br><i>Dùng bị động khi chủ ngữ nhận hành động và chủ động khi chủ ngữ thực hiện hành động.</i><br><b>Điểm ngữ pháp</b>: found (thành lập) → was founded.",
+   "key": "We were told that the numbers have risen since the National Park ___.|was founded"
+  },
+  {
+   "question": "___ that the accommodation there was quite basic, but it was fine.",
+   "a": "I’d been warned",
+   "b": "I’d been warning",
+   "c": "I’d warned",
+   "full": "<b>I’d been warned</b> that the accommodation there was quite basic, but it was fine.",
+   "vi": "<i><b>Tôi đã được cảnh báo</b> là chỗ ở khá đơn sơ, nhưng cũng ổn.</i>",
+   "expl": "Use the passive when the subject receives the action and the active when the subject does it.<br><i>Dùng bị động khi chủ ngữ nhận hành động và chủ động khi chủ ngữ thực hiện hành động.</i><br><b>Điểm ngữ pháp</b>: had been + V3.",
+   "key": "___ that the accommodation there was quite basic, but it was fine.|I’d been warned"
+  },
+  {
+   "question": "___ a big tent each, and there are outdoor showers.",
+   "a": "We were given",
+   "b": "We were giving",
+   "c": "We gave",
+   "full": "<b>We were given</b> a big tent each, and there are outdoor showers.",
+   "vi": "<i><b>Chúng tôi được phát</b> mỗi người một lều lớn, và có vòi sen ngoài trời.</i>",
+   "expl": "Use the passive when the subject receives the action and the active when the subject does it.<br><i>Dùng bị động khi chủ ngữ nhận hành động và chủ động khi chủ ngữ thực hiện hành động.</i><br><b>Điểm ngữ pháp</b>: were + V3.",
+   "key": "___ a big tent each, and there are outdoor showers.|We were given"
+  },
+  {
+   "question": "There are outdoor showers and so on, which ___ very clean.",
+   "a": "are kept",
+   "b": "have kept",
+   "c": "are keeping",
+   "full": "There are outdoor showers and so on, which <b>are kept</b> very clean.",
+   "vi": "<i>Có vòi sen ngoài trời và những thứ khác, <b>được giữ</b> rất sạch.</i>",
+   "expl": "Use the passive when the subject receives the action and the active when the subject does it.<br><i>Dùng bị động khi chủ ngữ nhận hành động và chủ động khi chủ ngữ thực hiện hành động.</i><br><b>Điểm ngữ pháp</b>: are + V3.",
+   "key": "There are outdoor showers and so on, which ___ very clean.|are kept"
+  },
+  {
+   "question": "He ___ to South Africa by his family to work in a bank.",
+   "a": "was sent",
+   "b": "sent",
+   "c": "was send",
+   "full": "He <b>was sent</b> to South Africa by his family to work in a bank.",
+   "vi": "<i>Anh ấy <b>được gia đình gửi</b> sang Nam Phi làm ngân hàng.</i>",
+   "expl": "Use the passive when the subject receives the action and the active when the subject does it.<br><i>Dùng bị động khi chủ ngữ nhận hành động và chủ động khi chủ ngữ thực hiện hành động.</i><br><b>Điểm ngữ pháp</b>: by his family → bị động.",
+   "key": "He ___ to South Africa by his family to work in a bank.|was sent"
+  },
+  {
+   "question": "He was sent to South Africa to work in a bank, but he ___ it.",
+   "a": "hated",
+   "b": "was hated",
+   "c": "was hating",
+   "full": "He was sent to South Africa to work in a bank, but he <b>hated</b> it.",
+   "vi": "<i>Anh ấy được gửi sang Nam Phi làm ngân hàng, nhưng <b>anh ấy ghét</b> công việc đó.</i>",
+   "expl": "Use the passive when the subject receives the action and the active when the subject does it.<br><i>Dùng bị động khi chủ ngữ nhận hành động và chủ động khi chủ ngữ thực hiện hành động.</i><br><b>Điểm ngữ pháp</b>: Chủ ngữ thực hiện hành động → chủ động.",
+   "key": "He was sent to South Africa to work in a bank, but he ___ it.|hated"
+  },
+  {
+   "question": "So he ___ very badly in order to lose his job.",
+   "a": "behaved",
+   "b": "has behaved",
+   "c": "was behaved",
+   "full": "So he <b>behaved</b> very badly in order to lose his job.",
+   "vi": "<i>Vì vậy anh ấy <b>cư xử</b> rất tệ để bị đuổi việc.</i>",
+   "expl": "Use the passive when the subject receives the action and the active when the subject does it.<br><i>Dùng bị động khi chủ ngữ nhận hành động và chủ động khi chủ ngữ thực hiện hành động.</i><br><b>Điểm ngữ pháp</b>: Câu chuyện quá khứ → quá khứ đơn.",
+   "key": "So he ___ very badly in order to lose his job.|behaved"
+  },
+  {
+   "question": "He behaved very badly in order to ___ his job.",
+   "a": "lose",
+   "b": "lost",
+   "c": "losing",
+   "full": "He behaved very badly in order to <b>lose</b> his job.",
+   "vi": "<i>Anh ấy cư xử rất tệ để <b>mất</b> việc.</i>",
+   "expl": "Use the passive when the subject receives the action and the active when the subject does it.<br><i>Dùng bị động khi chủ ngữ nhận hành động và chủ động khi chủ ngữ thực hiện hành động.</i><br><b>Điểm ngữ pháp</b>: in order to + nguyên mẫu.",
+   "key": "He behaved very badly in order to ___ his job.|lose"
+  },
+  {
+   "question": "Tomorrow ___ another group and going to see some rock paintings.",
+   "a": "we’ll be joining",
+   "b": "we’ll be joined",
+   "c": "we’ll joining",
+   "full": "Tomorrow <b>we’ll be joining</b> another group and going to see some rock paintings.",
+   "vi": "<i>Ngày mai <b>chúng tôi sẽ nhập</b> nhóm khác và đi xem tranh đá.</i>",
+   "expl": "Use the passive when the subject receives the action and the active when the subject does it.<br><i>Dùng bị động khi chủ ngữ nhận hành động và chủ động khi chủ ngữ thực hiện hành động.</i><br><b>Điểm ngữ pháp</b>: Chủ ngữ thực hiện hành động → tương lai tiếp diễn chủ động.",
+   "key": "Tomorrow ___ another group and going to see some rock paintings.|we’ll be joining"
+  },
+  {
+   "question": "___ quite recently, so we’re one of the first groups to be shown them.",
+   "a": "They were discovered",
+   "b": "They discovered",
+   "c": "They were discover",
+   "full": "<b>They were discovered</b> quite recently, so we’re one of the first groups to be shown them.",
+   "vi": "<i><b>Chúng được phát hiện</b> khá gần đây, nên chúng tôi là một trong những nhóm đầu tiên được xem.</i>",
+   "expl": "Use the passive when the subject receives the action and the active when the subject does it.<br><i>Dùng bị động khi chủ ngữ nhận hành động và chủ động khi chủ ngữ thực hiện hành động.</i><br><b>Điểm ngữ pháp</b>: were + V3.",
+   "key": "___ quite recently, so we’re one of the first groups to be shown them.|They were discovered"
+  },
+  {
+   "question": "We’re one of the first groups ___ them.",
+   "a": "to be shown",
+   "b": "to have shown",
+   "c": "to be show",
+   "full": "We’re one of the first groups <b>to be shown</b> them.",
+   "vi": "<i>Chúng tôi là một trong những nhóm đầu tiên <b>được cho xem</b> chúng.</i>",
+   "expl": "Use the passive when the subject receives the action and the active when the subject does it.<br><i>Dùng bị động khi chủ ngữ nhận hành động và chủ động khi chủ ngữ thực hiện hành động.</i><br><b>Điểm ngữ pháp</b>: to be + V3.",
+   "key": "We’re one of the first groups ___ them.|to be shown"
+  },
+  {
+   "question": "I’ll email again when I can ___ to the internet.",
+   "a": "get connected",
+   "b": "have connected",
+   "c": "get connect",
+   "full": "I’ll email again when I can <b>get connected</b> to the internet.",
+   "vi": "<i>Tôi sẽ email lại khi <b>kết nối được</b> internet.</i>",
+   "expl": "Use the passive when the subject receives the action and the active when the subject does it.<br><i>Dùng bị động khi chủ ngữ nhận hành động và chủ động khi chủ ngữ thực hiện hành động.</i><br><b>Điểm ngữ pháp</b>: get + V3.",
+   "key": "I’ll email again when I can ___ to the internet.|get connected"
+  }
+ ],
+ "egu_units": [
+  42,
+  43,
+  44,
+  45
+ ]
+}
