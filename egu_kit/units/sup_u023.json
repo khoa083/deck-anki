@@ -1,0 +1,343 @@
+{
+ "book": "sup",
+ "unit": 23,
+ "title_en": "Countable and uncountable (Exercises 144–148)",
+ "title_vi": "Danh từ đếm được và không đếm được",
+ "theory_html": "<p style=\"text-align: justify;\"><b>A. Exercises in this group</b></p>\n<p style=\"text-align: justify;\"><i>A. Các bài tập trong nhóm</i></p>\n\n<p style=\"text-align: justify;\">Exercise 144: Some of these sentences need a/an. Correct the sentences where necessary. Write ‘OK’ if the sentence is already correct.</p>\n<p style=\"text-align: justify;\"><i>Bài 144: Một số câu cần a/an. Sửa câu khi cần. Viết ‘OK’ nếu câu đã đúng.</i></p>\n\n<p style=\"text-align: justify;\">Exercise 145: Lizzie is training to run in a marathon. Look at the pictures of what she ate today and complete what she wrote, using a/an where necessary.</p>\n<p style=\"text-align: justify;\"><i>Bài 145: Lizzie đang tập chạy marathon. Xem tranh những gì cô ăn hôm nay và hoàn thành nhật ký, dùng a/an khi cần.</i></p>\n\n<p style=\"text-align: justify;\">Exercise 146: Look at what Lizzie wrote. Write down what you ate yesterday.</p>\n<p style=\"text-align: justify;\"><i>Bài 146: Xem những gì Lizzie viết. Ghi lại những gì bạn đã ăn hôm qua.</i></p>\n\n<p style=\"text-align: justify;\">Exercise 147: There are mistakes in seven of these sentences. Correct the sentences where necessary. Write ‘OK’ if the sentence is already correct.</p>\n<p style=\"text-align: justify;\"><i>Bài 147: Bảy trong số các câu này có lỗi. Sửa câu khi cần. Viết ‘OK’ nếu câu đã đúng.</i></p>\n\n<p style=\"text-align: justify;\">Exercise 148: Complete the conversation with the words from the box (case, day, experience, luggage, paper, room, scenery, view, weather). Sometimes you need the plural (-s).</p>\n<p style=\"text-align: justify;\"><i>Bài 148: Hoàn thành đoạn hội thoại với từ trong khung (case, day, experience, luggage, paper, room, scenery, view, weather). Đôi khi cần số nhiều (-s).</i></p>\n\n<p style=\"text-align: justify;\"><b>B. Related units</b></p>\n<p style=\"text-align: justify;\"><i>B. Các unit liên quan</i></p>\n\n<p style=\"text-align: justify;\">English Grammar in Use, Units 69–70 (theory below).</p>\n<p style=\"text-align: justify;\"><i>English Grammar in Use, Unit 69–70 (lý thuyết bên dưới).</i></p>",
+ "mcq": [
+  {
+   "question": "Joanna eats ___ every morning.",
+   "a": "an apple",
+   "b": "apple",
+   "c": "a apple",
+   "full": "Joanna eats <b>an apple</b> every morning.",
+   "vi": "<i>Joanna ăn <b>một quả táo</b> mỗi sáng.</i>",
+   "expl": "Singular countable nouns need a/an (an apple, a biscuit, an omelette); uncountable nouns have no a/an (milk, meat, juice).<br><i>Danh từ đếm được số ít cần a/an (an apple, a biscuit, an omelette); danh từ không đếm được không dùng a/an (milk, meat, juice).</i><br><b>Điểm ngữ pháp</b>: Danh từ đếm được số ít → an apple.",
+   "key": "Joanna eats ___ every morning.|an apple"
+  },
+  {
+   "question": "Peter doesn’t like ___ in his tea.",
+   "a": "milk",
+   "b": "a milk",
+   "c": "milks",
+   "full": "Peter doesn’t like <b>milk</b> in his tea.",
+   "vi": "<i>Peter không thích <b>sữa</b> trong trà.</i>",
+   "expl": "Singular countable nouns need a/an (an apple, a biscuit, an omelette); uncountable nouns have no a/an (milk, meat, juice).<br><i>Danh từ đếm được số ít cần a/an (an apple, a biscuit, an omelette); danh từ không đếm được không dùng a/an (milk, meat, juice).</i><br><b>Điểm ngữ pháp</b>: milk không đếm được → không a/an.",
+   "key": "Peter doesn’t like ___ in his tea.|milk"
+  },
+  {
+   "question": "Katie rarely has ___ with her coffee.",
+   "a": "a biscuit",
+   "b": "biscuit",
+   "c": "an biscuit",
+   "full": "Katie rarely has <b>a biscuit</b> with her coffee.",
+   "vi": "<i>Katie hiếm khi ăn <b>bánh quy</b> với cà phê.</i>",
+   "expl": "Singular countable nouns need a/an (an apple, a biscuit, an omelette); uncountable nouns have no a/an (milk, meat, juice).<br><i>Danh từ đếm được số ít cần a/an (an apple, a biscuit, an omelette); danh từ không đếm được không dùng a/an (milk, meat, juice).</i><br><b>Điểm ngữ pháp</b>: Danh từ đếm được số ít → a biscuit.",
+   "key": "Katie rarely has ___ with her coffee.|a biscuit"
+  },
+  {
+   "question": "George normally eats ___ for dinner.",
+   "a": "meat",
+   "b": "a meat",
+   "c": "an meat",
+   "full": "George normally eats <b>meat</b> for dinner.",
+   "vi": "<i>George thường ăn <b>thịt</b> vào bữa tối.</i>",
+   "expl": "Singular countable nouns need a/an (an apple, a biscuit, an omelette); uncountable nouns have no a/an (milk, meat, juice).<br><i>Danh từ đếm được số ít cần a/an (an apple, a biscuit, an omelette); danh từ không đếm được không dùng a/an (milk, meat, juice).</i><br><b>Điểm ngữ pháp</b>: meat không đếm được.",
+   "key": "George normally eats ___ for dinner.|meat"
+  },
+  {
+   "question": "Brian usually has ___ for lunch.",
+   "a": "an omelette",
+   "b": "omelette",
+   "c": "a omelette",
+   "full": "Brian usually has <b>an omelette</b> for lunch.",
+   "vi": "<i>Brian thường ăn <b>trứng ốp lết</b> vào bữa trưa.</i>",
+   "expl": "Singular countable nouns need a/an (an apple, a biscuit, an omelette); uncountable nouns have no a/an (milk, meat, juice).<br><i>Danh từ đếm được số ít cần a/an (an apple, a biscuit, an omelette); danh từ không đếm được không dùng a/an (milk, meat, juice).</i><br><b>Điểm ngữ pháp</b>: Danh từ đếm được số ít → an omelette.",
+   "key": "Brian usually has ___ for lunch.|an omelette"
+  },
+  {
+   "question": "Margaret never drinks ___.",
+   "a": "juice",
+   "b": "an juice",
+   "c": "a juices",
+   "full": "Margaret never drinks <b>juice</b>.",
+   "vi": "<i>Margaret không bao giờ uống <b>nước ép</b>.</i>",
+   "expl": "Singular countable nouns need a/an (an apple, a biscuit, an omelette); uncountable nouns have no a/an (milk, meat, juice).<br><i>Danh từ đếm được số ít cần a/an (an apple, a biscuit, an omelette); danh từ không đếm được không dùng a/an (milk, meat, juice).</i><br><b>Điểm ngữ pháp</b>: juice (chất lỏng) không dùng a/an ở đây.",
+   "key": "Margaret never drinks ___.|juice"
+  },
+  {
+   "question": "I ran 15 km. I had cereal and ___ for breakfast.",
+   "a": "an egg",
+   "b": "egg",
+   "c": "a egg",
+   "full": "I ran 15 km. I had cereal and <b>an egg</b> for breakfast.",
+   "vi": "<i>Tôi chạy 15 km. Bữa sáng tôi ăn ngũ cốc và <b>một quả trứng</b>.</i>",
+   "expl": "Food: a / an + countable (an egg, a sandwich, a banana, an orange); no article with uncountable (cereal, soup, pasta, sauce).<br><i>Đồ ăn: a / an + danh từ đếm được (an egg, a sandwich, a banana, an orange); không mạo từ với danh từ không đếm được (cereal, soup, pasta, sauce).</i><br><b>Điểm ngữ pháp</b>: an + nguyên âm.",
+   "key": "I ran 15 km. I had cereal and ___ for breakfast.|an egg"
+  },
+  {
+   "question": "At lunchtime I ate ___ and a banana.",
+   "a": "a sandwich",
+   "b": "sandwich",
+   "c": "an sandwich",
+   "full": "At lunchtime I ate <b>a sandwich</b> and a banana.",
+   "vi": "<i>Bữa trưa tôi ăn <b>một chiếc bánh mì kẹp</b> và một quả chuối.</i>",
+   "expl": "Food: a / an + countable (an egg, a sandwich, a banana, an orange); no article with uncountable (cereal, soup, pasta, sauce).<br><i>Đồ ăn: a / an + danh từ đếm được (an egg, a sandwich, a banana, an orange); không mạo từ với danh từ không đếm được (cereal, soup, pasta, sauce).</i><br><b>Điểm ngữ pháp</b>: a + danh từ đếm được.",
+   "key": "At lunchtime I ate ___ and a banana.|a sandwich"
+  },
+  {
+   "question": "At lunchtime I ate a sandwich and ___.",
+   "a": "a banana",
+   "b": "banana",
+   "c": "an banana",
+   "full": "At lunchtime I ate a sandwich and <b>a banana</b>.",
+   "vi": "<i>Bữa trưa tôi ăn một chiếc bánh mì kẹp và <b>một quả chuối</b>.</i>",
+   "expl": "Food: a / an + countable (an egg, a sandwich, a banana, an orange); no article with uncountable (cereal, soup, pasta, sauce).<br><i>Đồ ăn: a / an + danh từ đếm được (an egg, a sandwich, a banana, an orange); không mạo từ với danh từ không đếm được (cereal, soup, pasta, sauce).</i><br><b>Điểm ngữ pháp</b>: a + danh từ đếm được.",
+   "key": "At lunchtime I ate a sandwich and ___.|a banana"
+  },
+  {
+   "question": "For dinner I had ___ and a roll.",
+   "a": "soup",
+   "b": "a soup",
+   "c": "soups",
+   "full": "For dinner I had <b>soup</b> and a roll.",
+   "vi": "<i>Bữa tối tôi ăn <b>súp</b> và một ổ bánh mì nhỏ.</i>",
+   "expl": "Food: a / an + countable (an egg, a sandwich, a banana, an orange); no article with uncountable (cereal, soup, pasta, sauce).<br><i>Đồ ăn: a / an + danh từ đếm được (an egg, a sandwich, a banana, an orange); không mạo từ với danh từ không đếm được (cereal, soup, pasta, sauce).</i><br><b>Điểm ngữ pháp</b>: soup không đếm được.",
+   "key": "For dinner I had ___ and a roll.|soup"
+  },
+  {
+   "question": "For dinner I had soup and ___.",
+   "a": "a roll",
+   "b": "roll",
+   "c": "an roll",
+   "full": "For dinner I had soup and <b>a roll</b>.",
+   "vi": "<i>Bữa tối tôi ăn súp và <b>một ổ bánh mì nhỏ</b>.</i>",
+   "expl": "Food: a / an + countable (an egg, a sandwich, a banana, an orange); no article with uncountable (cereal, soup, pasta, sauce).<br><i>Đồ ăn: a / an + danh từ đếm được (an egg, a sandwich, a banana, an orange); không mạo từ với danh từ không đếm được (cereal, soup, pasta, sauce).</i><br><b>Điểm ngữ pháp</b>: a + danh từ đếm được.",
+   "key": "For dinner I had soup and ___.|a roll"
+  },
+  {
+   "question": "… then ___ with sauce.",
+   "a": "pasta",
+   "b": "a pasta",
+   "c": "pastas",
+   "full": "… then <b>pasta</b> with sauce.",
+   "vi": "<i>… rồi <b>mì Ý</b> với nước sốt.</i>",
+   "expl": "Food: a / an + countable (an egg, a sandwich, a banana, an orange); no article with uncountable (cereal, soup, pasta, sauce).<br><i>Đồ ăn: a / an + danh từ đếm được (an egg, a sandwich, a banana, an orange); không mạo từ với danh từ không đếm được (cereal, soup, pasta, sauce).</i><br><b>Điểm ngữ pháp</b>: pasta không đếm được.",
+   "key": "… then ___ with sauce.|pasta"
+  },
+  {
+   "question": "… then pasta with ___, followed by an orange.",
+   "a": "sauce",
+   "b": "a sauce",
+   "c": "an sauce",
+   "full": "… then pasta with <b>sauce</b>, followed by an orange.",
+   "vi": "<i>… rồi mì Ý với <b>nước sốt</b>, tiếp theo là một quả cam.</i>",
+   "expl": "Food: a / an + countable (an egg, a sandwich, a banana, an orange); no article with uncountable (cereal, soup, pasta, sauce).<br><i>Đồ ăn: a / an + danh từ đếm được (an egg, a sandwich, a banana, an orange); không mạo từ với danh từ không đếm được (cereal, soup, pasta, sauce).</i><br><b>Điểm ngữ pháp</b>: sauce không đếm được ở đây.",
+   "key": "… then pasta with ___, followed by an orange.|sauce"
+  },
+  {
+   "question": "… then pasta with sauce, followed by ___.",
+   "a": "an orange",
+   "b": "orange",
+   "c": "a orange",
+   "full": "… then pasta with sauce, followed by <b>an orange</b>.",
+   "vi": "<i>… rồi mì Ý với nước sốt, tiếp theo là <b>một quả cam</b>.</i>",
+   "expl": "Food: a / an + countable (an egg, a sandwich, a banana, an orange); no article with uncountable (cereal, soup, pasta, sauce).<br><i>Đồ ăn: a / an + danh từ đếm được (an egg, a sandwich, a banana, an orange); không mạo từ với danh từ không đếm được (cereal, soup, pasta, sauce).</i><br><b>Điểm ngữ pháp</b>: an + nguyên âm.",
+   "key": "… then pasta with sauce, followed by ___.|an orange"
+  },
+  {
+   "question": "You need ___ from your teacher to use this software.",
+   "a": "permission",
+   "b": "a permission",
+   "c": "permissions",
+   "full": "You need <b>permission</b> from your teacher to use this software.",
+   "vi": "<i>Bạn cần <b>sự cho phép</b> của giáo viên để dùng phần mềm này.</i>",
+   "expl": "Uncountable nouns (permission, traffic, behaviour, luck, hair, furniture, advice, information) take no a/an and no plural; experience (= something that happens) is countable.<br><i>Danh từ không đếm được (permission, traffic, behaviour, luck, hair, furniture, advice, information) không dùng a/an và không có số nhiều; experience (= trải nghiệm) đếm được.</i><br><b>Điểm ngữ pháp</b>: permission không đếm được.",
+   "key": "You need ___ from your teacher to use this software.|permission"
+  },
+  {
+   "question": "I’m late because ___ awful.",
+   "a": "the traffic is",
+   "b": "the traffics are",
+   "c": "a traffic is",
+   "full": "I’m late because <b>the traffic is</b> awful.",
+   "vi": "<i>Tôi đến muộn vì <b>giao thông</b> tệ quá.</i>",
+   "expl": "Uncountable nouns (permission, traffic, behaviour, luck, hair, furniture, advice, information) take no a/an and no plural; experience (= something that happens) is countable.<br><i>Danh từ không đếm được (permission, traffic, behaviour, luck, hair, furniture, advice, information) không dùng a/an và không có số nhiều; experience (= trải nghiệm) đếm được.</i><br><b>Điểm ngữ pháp</b>: traffic không đếm được → động từ số ít.",
+   "key": "I’m late because ___ awful.|the traffic is"
+  },
+  {
+   "question": "He was asked to leave the club because of ___.",
+   "a": "bad behaviour",
+   "b": "a bad behaviour",
+   "c": "bad behaviours",
+   "full": "He was asked to leave the club because of <b>bad behaviour</b>.",
+   "vi": "<i>Anh ta bị yêu cầu rời câu lạc bộ vì <b>cư xử tồi</b>.</i>",
+   "expl": "Uncountable nouns (permission, traffic, behaviour, luck, hair, furniture, advice, information) take no a/an and no plural; experience (= something that happens) is countable.<br><i>Danh từ không đếm được (permission, traffic, behaviour, luck, hair, furniture, advice, information) không dùng a/an và không có số nhiều; experience (= trải nghiệm) đếm được.</i><br><b>Điểm ngữ pháp</b>: behaviour không đếm được.",
+   "key": "He was asked to leave the club because of ___.|bad behaviour"
+  },
+  {
+   "question": "I phoned my brother to wish him ___ in the exam.",
+   "a": "good luck",
+   "b": "a good luck",
+   "c": "good lucks",
+   "full": "I phoned my brother to wish him <b>good luck</b> in the exam.",
+   "vi": "<i>Tôi gọi cho em trai để chúc em <b>may mắn</b> trong kỳ thi.</i>",
+   "expl": "Uncountable nouns (permission, traffic, behaviour, luck, hair, furniture, advice, information) take no a/an and no plural; experience (= something that happens) is countable.<br><i>Danh từ không đếm được (permission, traffic, behaviour, luck, hair, furniture, advice, information) không dùng a/an và không có số nhiều; experience (= trải nghiệm) đếm được.</i><br><b>Điểm ngữ pháp</b>: luck không đếm được.",
+   "key": "I phoned my brother to wish him ___ in the exam.|good luck"
+  },
+  {
+   "question": "It’s a pity Rebecca had her ___ cut so short.",
+   "a": "hair",
+   "b": "hairs",
+   "c": "a hair",
+   "full": "It’s a pity Rebecca had her <b>hair</b> cut so short.",
+   "vi": "<i>Tiếc là Rebecca cắt <b>tóc</b> ngắn quá.</i>",
+   "expl": "Uncountable nouns (permission, traffic, behaviour, luck, hair, furniture, advice, information) take no a/an and no plural; experience (= something that happens) is countable.<br><i>Danh từ không đếm được (permission, traffic, behaviour, luck, hair, furniture, advice, information) không dùng a/an và không có số nhiều; experience (= trải nghiệm) đếm được.</i><br><b>Điểm ngữ pháp</b>: hair (cả mái tóc) không đếm được.",
+   "key": "It’s a pity Rebecca had her ___ cut so short.|hair"
+  },
+  {
+   "question": "I like the flat but the furniture ___ very old-fashioned.",
+   "a": "is",
+   "b": "are",
+   "c": "were",
+   "full": "I like the flat but the furniture <b>is</b> very old-fashioned.",
+   "vi": "<i>Tôi thích căn hộ nhưng đồ đạc <b>thì</b> lỗi thời quá.</i>",
+   "expl": "Uncountable nouns (permission, traffic, behaviour, luck, hair, furniture, advice, information) take no a/an and no plural; experience (= something that happens) is countable.<br><i>Danh từ không đếm được (permission, traffic, behaviour, luck, hair, furniture, advice, information) không dùng a/an và không có số nhiều; experience (= trải nghiệm) đếm được.</i><br><b>Điểm ngữ pháp</b>: furniture không đếm được → is.",
+   "key": "I like the flat but the furniture ___ very old-fashioned.|is"
+  },
+  {
+   "question": "As an old friend, may I give you ___?",
+   "a": "some advice",
+   "b": "an advice",
+   "c": "some advices",
+   "full": "As an old friend, may I give you <b>some advice</b>?",
+   "vi": "<i>Là bạn cũ, cho tôi <b>khuyên</b> bạn một chút nhé?</i>",
+   "expl": "Uncountable nouns (permission, traffic, behaviour, luck, hair, furniture, advice, information) take no a/an and no plural; experience (= something that happens) is countable.<br><i>Danh từ không đếm được (permission, traffic, behaviour, luck, hair, furniture, advice, information) không dùng a/an và không có số nhiều; experience (= trải nghiệm) đếm được.</i><br><b>Điểm ngữ pháp</b>: advice không đếm được → some advice / a piece of advice.",
+   "key": "As an old friend, may I give you ___?|some advice"
+  },
+  {
+   "question": "We need to get up-to-date ___ about flight times.",
+   "a": "information",
+   "b": "informations",
+   "c": "an information",
+   "full": "We need to get up-to-date <b>information</b> about flight times.",
+   "vi": "<i>Chúng ta cần <b>thông tin</b> cập nhật về giờ bay.</i>",
+   "expl": "Uncountable nouns (permission, traffic, behaviour, luck, hair, furniture, advice, information) take no a/an and no plural; experience (= something that happens) is countable.<br><i>Danh từ không đếm được (permission, traffic, behaviour, luck, hair, furniture, advice, information) không dùng a/an và không có số nhiều; experience (= trải nghiệm) đếm được.</i><br><b>Điểm ngữ pháp</b>: information không đếm được.",
+   "key": "We need to get up-to-date ___ about flight times.|information"
+  },
+  {
+   "question": "Cycling home in the rain wasn’t ___!",
+   "a": "a pleasant experience",
+   "b": "pleasant experience",
+   "c": "an pleasant experience",
+   "full": "Cycling home in the rain wasn’t <b>a pleasant experience</b>!",
+   "vi": "<i>Đạp xe về nhà dưới mưa chẳng phải <b>một trải nghiệm dễ chịu</b>!</i>",
+   "expl": "Uncountable nouns (permission, traffic, behaviour, luck, hair, furniture, advice, information) take no a/an and no plural; experience (= something that happens) is countable.<br><i>Danh từ không đếm được (permission, traffic, behaviour, luck, hair, furniture, advice, information) không dùng a/an và không có số nhiều; experience (= trải nghiệm) đếm được.</i><br><b>Điểm ngữ pháp</b>: experience (= sự việc đã trải qua) đếm được.",
+   "key": "Cycling home in the rain wasn’t ___!|a pleasant experience"
+  },
+  {
+   "question": "All my luggage is here. I hope I haven’t got too many ___.",
+   "a": "cases",
+   "b": "case",
+   "c": "luggages",
+   "full": "All my luggage is here. I hope I haven’t got too many <b>cases</b>.",
+   "vi": "<i>Tất cả hành lý của tớ đây. Hy vọng không quá nhiều <b>vali</b>.</i>",
+   "expl": "Uncountable: luggage, room (= space), experience (= knowledge), scenery, weather, paper (= material); countable: case, room, experience (= event), day, view, paper (= newspaper).<br><i>Không đếm được: luggage, room (= chỗ trống), experience (= kinh nghiệm), scenery, weather, paper (= giấy); đếm được: case, room (= phòng), experience (= trải nghiệm), day, view, paper (= tờ báo).</i><br><b>Điểm ngữ pháp</b>: case đếm được; too many + số nhiều.",
+   "key": "All my luggage is here. I hope I haven’t got too many ___.|cases"
+  },
+  {
+   "question": "Don’t worry. There’s plenty of ___ in the car.",
+   "a": "room",
+   "b": "rooms",
+   "c": "a room",
+   "full": "Don’t worry. There’s plenty of <b>room</b> in the car.",
+   "vi": "<i>Đừng lo. Trong xe còn nhiều <b>chỗ</b>.</i>",
+   "expl": "Uncountable: luggage, room (= space), experience (= knowledge), scenery, weather, paper (= material); countable: case, room, experience (= event), day, view, paper (= newspaper).<br><i>Không đếm được: luggage, room (= chỗ trống), experience (= kinh nghiệm), scenery, weather, paper (= giấy); đếm được: case, room (= phòng), experience (= trải nghiệm), day, view, paper (= tờ báo).</i><br><b>Điểm ngữ pháp</b>: room (= chỗ trống) không đếm được.",
+   "key": "Don’t worry. There’s plenty of ___ in the car.|room"
+  },
+  {
+   "question": "I wasn’t sure what to bring as I haven’t had much ___ of travelling in the mountains.",
+   "a": "experience",
+   "b": "experiences",
+   "c": "an experience",
+   "full": "I wasn’t sure what to bring as I haven’t had much <b>experience</b> of travelling in the mountains.",
+   "vi": "<i>Tớ không chắc nên mang gì vì chưa có nhiều <b>kinh nghiệm</b> đi du lịch vùng núi.</i>",
+   "expl": "Uncountable: luggage, room (= space), experience (= knowledge), scenery, weather, paper (= material); countable: case, room, experience (= event), day, view, paper (= newspaper).<br><i>Không đếm được: luggage, room (= chỗ trống), experience (= kinh nghiệm), scenery, weather, paper (= giấy); đếm được: case, room (= phòng), experience (= trải nghiệm), day, view, paper (= tờ báo).</i><br><b>Điểm ngữ pháp</b>: experience (= kinh nghiệm) không đếm được.",
+   "key": "I wasn’t sure what to bring as I haven’t had much ___ of travelling in the mountains.|experience"
+  },
+  {
+   "question": "The ___ in the mountains is wonderful, but the weather can change very suddenly.",
+   "a": "scenery",
+   "b": "sceneries",
+   "c": "scenery’s",
+   "full": "The <b>scenery</b> in the mountains is wonderful, but the weather can change very suddenly.",
+   "vi": "<i><b>Phong cảnh</b> vùng núi tuyệt đẹp, nhưng thời tiết có thể thay đổi rất đột ngột.</i>",
+   "expl": "Uncountable: luggage, room (= space), experience (= knowledge), scenery, weather, paper (= material); countable: case, room, experience (= event), day, view, paper (= newspaper).<br><i>Không đếm được: luggage, room (= chỗ trống), experience (= kinh nghiệm), scenery, weather, paper (= giấy); đếm được: case, room (= phòng), experience (= trải nghiệm), day, view, paper (= tờ báo).</i><br><b>Điểm ngữ pháp</b>: scenery không đếm được.",
+   "key": "The ___ in the mountains is wonderful, but the weather can change very suddenly.|scenery"
+  },
+  {
+   "question": "The scenery in the mountains is wonderful, but the ___ can change very suddenly.",
+   "a": "weather",
+   "b": "weathers",
+   "c": "a weather",
+   "full": "The scenery in the mountains is wonderful, but the <b>weather</b> can change very suddenly.",
+   "vi": "<i>Phong cảnh vùng núi tuyệt đẹp, nhưng <b>thời tiết</b> có thể thay đổi rất đột ngột.</i>",
+   "expl": "Uncountable: luggage, room (= space), experience (= knowledge), scenery, weather, paper (= material); countable: case, room, experience (= event), day, view, paper (= newspaper).<br><i>Không đếm được: luggage, room (= chỗ trống), experience (= kinh nghiệm), scenery, weather, paper (= giấy); đếm được: case, room (= phòng), experience (= trải nghiệm), day, view, paper (= tờ báo).</i><br><b>Điểm ngữ pháp</b>: weather không đếm được.",
+   "key": "The scenery in the mountains is wonderful, but the ___ can change very suddenly.|weather"
+  },
+  {
+   "question": "Well, we’ve got a lovely ___ to start with.",
+   "a": "day",
+   "b": "weather",
+   "c": "scenery",
+   "full": "Well, we’ve got a lovely <b>day</b> to start with.",
+   "vi": "<i>Ừ, mình có <b>một ngày</b> đẹp để khởi đầu.</i>",
+   "expl": "Uncountable: luggage, room (= space), experience (= knowledge), scenery, weather, paper (= material); countable: case, room, experience (= event), day, view, paper (= newspaper).<br><i>Không đếm được: luggage, room (= chỗ trống), experience (= kinh nghiệm), scenery, weather, paper (= giấy); đếm được: case, room (= phòng), experience (= trải nghiệm), day, view, paper (= tờ báo).</i><br><b>Điểm ngữ pháp</b>: a + danh từ đếm được số ít (không dùng a weather / a scenery).",
+   "key": "Well, we’ve got a lovely ___ to start with.|day"
+  },
+  {
+   "question": "I’m sure you’ll like our ___ at the hotel, because they’ve promised me the ones I had last year.",
+   "a": "rooms",
+   "b": "room",
+   "c": "roomes",
+   "full": "I’m sure you’ll like our <b>rooms</b> at the hotel, because they’ve promised me the ones I had last year.",
+   "vi": "<i>Chắc cậu sẽ thích <b>phòng</b> của bọn mình ở khách sạn, vì họ hứa cho tớ những phòng năm ngoái.</i>",
+   "expl": "Uncountable: luggage, room (= space), experience (= knowledge), scenery, weather, paper (= material); countable: case, room, experience (= event), day, view, paper (= newspaper).<br><i>Không đếm được: luggage, room (= chỗ trống), experience (= kinh nghiệm), scenery, weather, paper (= giấy); đếm được: case, room (= phòng), experience (= trải nghiệm), day, view, paper (= tờ báo).</i><br><b>Điểm ngữ pháp</b>: room (= phòng) đếm được; the ones → số nhiều.",
+   "key": "I’m sure you’ll like our ___ at the hotel, because they’ve promised me the ones I had last year.|rooms"
+  },
+  {
+   "question": "Yes, and I packed some ___ so we can do some drawing.",
+   "a": "paper",
+   "b": "papers",
+   "c": "a paper",
+   "full": "Yes, and I packed some <b>paper</b> so we can do some drawing.",
+   "vi": "<i>Ừ, và tớ có mang ít <b>giấy</b> để mình vẽ.</i>",
+   "expl": "Uncountable: luggage, room (= space), experience (= knowledge), scenery, weather, paper (= material); countable: case, room, experience (= event), day, view, paper (= newspaper).<br><i>Không đếm được: luggage, room (= chỗ trống), experience (= kinh nghiệm), scenery, weather, paper (= giấy); đếm được: case, room (= phòng), experience (= trải nghiệm), day, view, paper (= tờ báo).</i><br><b>Điểm ngữ pháp</b>: paper (= giấy) không đếm được.",
+   "key": "Yes, and I packed some ___ so we can do some drawing.|paper"
+  },
+  {
+   "question": "And I’m sure I’m going to have some great ___ to write about.",
+   "a": "experiences",
+   "b": "experience",
+   "c": "an experience",
+   "full": "And I’m sure I’m going to have some great <b>experiences</b> to write about.",
+   "vi": "<i>Và tớ chắc sẽ có nhiều <b>trải nghiệm</b> tuyệt vời để viết.</i>",
+   "expl": "Uncountable: luggage, room (= space), experience (= knowledge), scenery, weather, paper (= material); countable: case, room, experience (= event), day, view, paper (= newspaper).<br><i>Không đếm được: luggage, room (= chỗ trống), experience (= kinh nghiệm), scenery, weather, paper (= giấy); đếm được: case, room (= phòng), experience (= trải nghiệm), day, view, paper (= tờ báo).</i><br><b>Điểm ngữ pháp</b>: experience (= sự việc) đếm được → số nhiều.",
+   "key": "And I’m sure I’m going to have some great ___ to write about.|experiences"
+  },
+  {
+   "question": "Well, the ___ are like nothing you’ve ever seen.",
+   "a": "views",
+   "b": "view",
+   "c": "sceneries",
+   "full": "Well, the <b>views</b> are like nothing you’ve ever seen.",
+   "vi": "<i>Ừ, những <b>quang cảnh</b> đó cậu chưa từng thấy bao giờ.</i>",
+   "expl": "Uncountable: luggage, room (= space), experience (= knowledge), scenery, weather, paper (= material); countable: case, room, experience (= event), day, view, paper (= newspaper).<br><i>Không đếm được: luggage, room (= chỗ trống), experience (= kinh nghiệm), scenery, weather, paper (= giấy); đếm được: case, room (= phòng), experience (= trải nghiệm), day, view, paper (= tờ báo).</i><br><b>Điểm ngữ pháp</b>: view đếm được → are + số nhiều.",
+   "key": "Well, the ___ are like nothing you’ve ever seen.|views"
+  }
+ ],
+ "egu_units": [
+  69,
+  70
+ ]
+}
