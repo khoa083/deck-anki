@@ -1,0 +1,343 @@
+{
+ "book": "sup",
+ "unit": 28,
+ "title_en": "Word order (Exercises 169–172)",
+ "title_vi": "Trật tự từ",
+ "theory_html": "<p style=\"text-align: justify;\"><b>A. Exercises in this group</b></p>\n<p style=\"text-align: justify;\"><i>A. Các bài tập trong nhóm</i></p>\n\n<p style=\"text-align: justify;\">Exercise 169: Rewrite the sentences using the words in brackets.</p>\n<p style=\"text-align: justify;\"><i>Bài 169: Viết lại câu dùng từ trong ngoặc.</i></p>\n\n<p style=\"text-align: justify;\">Exercise 170: Write three sentences about each of the three people in the table (Angela, John, Craig). Use the words in each row and add the adverbs at the top (occasionally, usually, hardly ever).</p>\n<p style=\"text-align: justify;\"><i>Bài 170: Viết ba câu về mỗi người trong bảng (Angela, John, Craig). Dùng từ ở mỗi hàng và thêm trạng từ ở đầu cột (occasionally, usually, hardly ever).</i></p>\n\n<p style=\"text-align: justify;\">Exercise 171: Rewrite each underlined sentence using the adverb in brackets.</p>\n<p style=\"text-align: justify;\"><i>Bài 171: Viết lại mỗi câu gạch chân dùng trạng từ trong ngoặc.</i></p>\n\n<p style=\"text-align: justify;\">Exercise 172: Answer the questions using the words in brackets.</p>\n<p style=\"text-align: justify;\"><i>Bài 172: Trả lời câu hỏi dùng từ trong ngoặc.</i></p>\n\n<p style=\"text-align: justify;\"><b>B. Related units</b></p>\n<p style=\"text-align: justify;\"><i>B. Các unit liên quan</i></p>\n\n<p style=\"text-align: justify;\">English Grammar in Use, Units 109–110 (theory below).</p>\n<p style=\"text-align: justify;\"><i>English Grammar in Use, Unit 109–110 (lý thuyết bên dưới).</i></p>",
+ "mcq": [
+  {
+   "question": "(the meeting) We left early. → ___",
+   "a": "We left the meeting early.",
+   "b": "We left early the meeting.",
+   "c": "We early left the meeting.",
+   "full": "(the meeting) We left early. → <b>We left the meeting early.</b>",
+   "vi": "<i>(cuộc họp) Chúng tôi rời đi sớm. → <b>Chúng tôi rời cuộc họp sớm.</b></i>",
+   "expl": "verb + object together (left the meeting early); place before time (in the park in summer); give somebody something; mid-position adverbs (also, all, definitely, even) go before the main verb or after be / the first auxiliary.<br><i>động từ + tân ngữ đi liền (left the meeting early); nơi chốn trước thời gian (in the park in summer); give somebody something; trạng từ giữa câu (also, all, definitely, even) đứng trước động từ chính hoặc sau be / trợ động từ đầu tiên.</i><br><b>Điểm ngữ pháp</b>: Động từ + tân ngữ đi liền.",
+   "key": "(the meeting) We left early. → ___|We left the meeting early."
+  },
+  {
+   "question": "(also) We went to the cinema and we had a meal. → ___",
+   "a": "We went to the cinema and we also had a meal.",
+   "b": "We went to the cinema and we had also a meal.",
+   "c": "We went to the cinema and we had a also meal.",
+   "full": "(also) We went to the cinema and we had a meal. → <b>We went to the cinema and we also had a meal.</b>",
+   "vi": "<i>(cũng) Chúng tôi đi xem phim và ăn tối. → <b>Chúng tôi đi xem phim và cũng ăn tối nữa.</b></i>",
+   "expl": "verb + object together (left the meeting early); place before time (in the park in summer); give somebody something; mid-position adverbs (also, all, definitely, even) go before the main verb or after be / the first auxiliary.<br><i>động từ + tân ngữ đi liền (left the meeting early); nơi chốn trước thời gian (in the park in summer); give somebody something; trạng từ giữa câu (also, all, definitely, even) đứng trước động từ chính hoặc sau be / trợ động từ đầu tiên.</i><br><b>Điểm ngữ pháp</b>: also đứng trước động từ chính.",
+   "key": "(also) We went to the cinema and we had a meal. → ___|We went to the cinema and we also had a meal."
+  },
+  {
+   "question": "(in the park) My sister plays volleyball in summer. → ___",
+   "a": "My sister plays volleyball in the park in summer.",
+   "b": "My sister in the park plays volleyball in summer.",
+   "c": "My sister plays in the park volleyball in summer.",
+   "full": "(in the park) My sister plays volleyball in summer. → <b>My sister plays volleyball in the park in summer.</b>",
+   "vi": "<i>(trong công viên) Chị tôi chơi bóng chuyền vào mùa hè. → <b>Chị tôi chơi bóng chuyền trong công viên vào mùa hè.</b></i>",
+   "expl": "verb + object together (left the meeting early); place before time (in the park in summer); give somebody something; mid-position adverbs (also, all, definitely, even) go before the main verb or after be / the first auxiliary.<br><i>động từ + tân ngữ đi liền (left the meeting early); nơi chốn trước thời gian (in the park in summer); give somebody something; trạng từ giữa câu (also, all, definitely, even) đứng trước động từ chính hoặc sau be / trợ động từ đầu tiên.</i><br><b>Điểm ngữ pháp</b>: Nơi chốn trước thời gian.",
+   "key": "(in the park) My sister plays volleyball in summer. → ___|My sister plays volleyball in the park in summer."
+  },
+  {
+   "question": "(for that company) She’s worked since she left school. → ___",
+   "a": "She’s worked for that company since she left school.",
+   "b": "She’s worked since for that company she left school.",
+   "c": "She’s for that company worked since she left school.",
+   "full": "(for that company) She’s worked since she left school. → <b>She’s worked for that company since she left school.</b>",
+   "vi": "<i>(cho công ty đó) Cô ấy làm việc từ khi ra trường. → <b>Cô ấy làm cho công ty đó từ khi ra trường.</b></i>",
+   "expl": "verb + object together (left the meeting early); place before time (in the park in summer); give somebody something; mid-position adverbs (also, all, definitely, even) go before the main verb or after be / the first auxiliary.<br><i>động từ + tân ngữ đi liền (left the meeting early); nơi chốn trước thời gian (in the park in summer); give somebody something; trạng từ giữa câu (also, all, definitely, even) đứng trước động từ chính hoặc sau be / trợ động từ đầu tiên.</i><br><b>Điểm ngữ pháp</b>: Cụm bổ nghĩa động từ đứng trước mệnh đề thời gian.",
+   "key": "(for that company) She’s worked since she left school. → ___|She’s worked for that company since she left school."
+  },
+  {
+   "question": "(now) (tomorrow) If you order the trainers online, they’ll be delivered by post. → ___",
+   "a": "If you order the trainers online now, they’ll be delivered by post tomorrow.",
+   "b": "If you now order the trainers online, they’ll be tomorrow delivered by post.",
+   "c": "If you order now the trainers online, they’ll be delivered tomorrow by post.",
+   "full": "(now) (tomorrow) If you order the trainers online, they’ll be delivered by post. → <b>If you order the trainers online now, they’ll be delivered by post tomorrow.</b>",
+   "vi": "<i>(bây giờ) (ngày mai) Nếu bạn đặt giày trực tuyến, chúng sẽ được gửi qua bưu điện. → <b>Nếu bạn đặt giày trực tuyến bây giờ, ngày mai chúng sẽ được gửi qua bưu điện.</b></i>",
+   "expl": "verb + object together (left the meeting early); place before time (in the park in summer); give somebody something; mid-position adverbs (also, all, definitely, even) go before the main verb or after be / the first auxiliary.<br><i>động từ + tân ngữ đi liền (left the meeting early); nơi chốn trước thời gian (in the park in summer); give somebody something; trạng từ giữa câu (also, all, definitely, even) đứng trước động từ chính hoặc sau be / trợ động từ đầu tiên.</i><br><b>Điểm ngữ pháp</b>: Thời gian ở cuối mệnh đề.",
+   "key": "(now) (tomorrow) If you order the trainers online, they’ll be delivered by post. → ___|If you order the trainers online now, they’ll be delivered by post tomorrow."
+  },
+  {
+   "question": "(his girlfriend) He sends an email from his office every lunchtime. → ___",
+   "a": "He sends his girlfriend an email from his office every lunchtime.",
+   "b": "He sends an email his girlfriend from his office every lunchtime.",
+   "c": "He sends an email from his office his girlfriend every lunchtime.",
+   "full": "(his girlfriend) He sends an email from his office every lunchtime. → <b>He sends his girlfriend an email from his office every lunchtime.</b>",
+   "vi": "<i>(bạn gái anh ấy) Anh ấy gửi email từ văn phòng mỗi trưa. → <b>Anh ấy gửi email cho bạn gái từ văn phòng mỗi trưa.</b></i>",
+   "expl": "verb + object together (left the meeting early); place before time (in the park in summer); give somebody something; mid-position adverbs (also, all, definitely, even) go before the main verb or after be / the first auxiliary.<br><i>động từ + tân ngữ đi liền (left the meeting early); nơi chốn trước thời gian (in the park in summer); give somebody something; trạng từ giữa câu (also, all, definitely, even) đứng trước động từ chính hoặc sau be / trợ động từ đầu tiên.</i><br><b>Điểm ngữ pháp</b>: send + người + vật.",
+   "key": "(his girlfriend) He sends an email from his office every lunchtime. → ___|He sends his girlfriend an email from his office every lunchtime."
+  },
+  {
+   "question": "(with them) When the flowers were delivered, was there a note? → ___",
+   "a": "When the flowers were delivered, was there a note with them?",
+   "b": "When the flowers were delivered with them, was there a note?",
+   "c": "When the flowers were delivered, was with them there a note?",
+   "full": "(with them) When the flowers were delivered, was there a note? → <b>When the flowers were delivered, was there a note with them?</b>",
+   "vi": "<i>(kèm theo) Khi hoa được giao, có tấm thiệp nào không? → <b>Khi hoa được giao, có tấm thiệp kèm theo không?</b></i>",
+   "expl": "verb + object together (left the meeting early); place before time (in the park in summer); give somebody something; mid-position adverbs (also, all, definitely, even) go before the main verb or after be / the first auxiliary.<br><i>động từ + tân ngữ đi liền (left the meeting early); nơi chốn trước thời gian (in the park in summer); give somebody something; trạng từ giữa câu (also, all, definitely, even) đứng trước động từ chính hoặc sau be / trợ động từ đầu tiên.</i><br><b>Điểm ngữ pháp</b>: Cụm giới từ đứng sau danh từ nó bổ nghĩa.",
+   "key": "(with them) When the flowers were delivered, was there a note? → ___|When the flowers were delivered, was there a note with them?"
+  },
+  {
+   "question": "(all) We were late for work because of the traffic jam. → ___",
+   "a": "We were all late for work because of the traffic jam.",
+   "b": "We were late all for work because of the traffic jam.",
+   "c": "All we were late for work because of the traffic jam.",
+   "full": "(all) We were late for work because of the traffic jam. → <b>We were all late for work because of the traffic jam.</b>",
+   "vi": "<i>(tất cả) Chúng tôi đi làm muộn vì kẹt xe. → <b>Tất cả chúng tôi đều đi làm muộn vì kẹt xe.</b></i>",
+   "expl": "verb + object together (left the meeting early); place before time (in the park in summer); give somebody something; mid-position adverbs (also, all, definitely, even) go before the main verb or after be / the first auxiliary.<br><i>động từ + tân ngữ đi liền (left the meeting early); nơi chốn trước thời gian (in the park in summer); give somebody something; trạng từ giữa câu (also, all, definitely, even) đứng trước động từ chính hoặc sau be / trợ động từ đầu tiên.</i><br><b>Điểm ngữ pháp</b>: all đứng sau be.",
+   "key": "(all) We were late for work because of the traffic jam. → ___|We were all late for work because of the traffic jam."
+  },
+  {
+   "question": "(definitely) I’m going to Zurich soon. → ___",
+   "a": "I’m definitely going to Zurich soon.",
+   "b": "I’m going definitely to Zurich soon.",
+   "c": "I’m going to definitely Zurich soon.",
+   "full": "(definitely) I’m going to Zurich soon. → <b>I’m definitely going to Zurich soon.</b>",
+   "vi": "<i>(chắc chắn) Tôi sắp đi Zurich. → <b>Tôi chắc chắn sắp đi Zurich.</b></i>",
+   "expl": "verb + object together (left the meeting early); place before time (in the park in summer); give somebody something; mid-position adverbs (also, all, definitely, even) go before the main verb or after be / the first auxiliary.<br><i>động từ + tân ngữ đi liền (left the meeting early); nơi chốn trước thời gian (in the park in summer); give somebody something; trạng từ giữa câu (also, all, definitely, even) đứng trước động từ chính hoặc sau be / trợ động từ đầu tiên.</i><br><b>Điểm ngữ pháp</b>: definitely đứng sau be.",
+   "key": "(definitely) I’m going to Zurich soon. → ___|I’m definitely going to Zurich soon."
+  },
+  {
+   "question": "(even) (for me) My friends had asked the restaurant to make a birthday cake. → ___",
+   "a": "My friends had even asked the restaurant to make a birthday cake for me.",
+   "b": "My friends had asked even the restaurant to make for me a birthday cake.",
+   "c": "Even my friends had asked for me the restaurant to make a birthday cake.",
+   "full": "(even) (for me) My friends had asked the restaurant to make a birthday cake. → <b>My friends had even asked the restaurant to make a birthday cake for me.</b>",
+   "vi": "<i>(thậm chí) (cho tôi) Bạn bè đã nhờ nhà hàng làm bánh sinh nhật. → <b>Bạn bè thậm chí đã nhờ nhà hàng làm bánh sinh nhật cho tôi.</b></i>",
+   "expl": "verb + object together (left the meeting early); place before time (in the park in summer); give somebody something; mid-position adverbs (also, all, definitely, even) go before the main verb or after be / the first auxiliary.<br><i>động từ + tân ngữ đi liền (left the meeting early); nơi chốn trước thời gian (in the park in summer); give somebody something; trạng từ giữa câu (also, all, definitely, even) đứng trước động từ chính hoặc sau be / trợ động từ đầu tiên.</i><br><b>Điểm ngữ pháp</b>: even sau trợ động từ đầu tiên; for me ở cuối.",
+   "key": "(even) (for me) My friends had asked the restaurant to make a birthday cake. → ___|My friends had even asked the restaurant to make a birthday cake for me."
+  },
+  {
+   "question": "(Angela – occasionally – arrives at work early) ___",
+   "a": "Angela occasionally arrives at work early.",
+   "b": "Angela arrives occasionally at work early.",
+   "c": "Angela arrives at occasionally work early.",
+   "full": "(Angela – occasionally – arrives at work early) <b>Angela occasionally arrives at work early.</b>",
+   "vi": "<i>(Angela – thỉnh thoảng – đến chỗ làm sớm) <b>Angela thỉnh thoảng đến chỗ làm sớm.</b></i>",
+   "expl": "Frequency adverbs go before the main verb, after be, after the first auxiliary, and after don’t / doesn’t (doesn’t usually eat).<br><i>Trạng từ tần suất đứng trước động từ chính, sau be, sau trợ động từ đầu tiên và sau don’t / doesn’t (doesn’t usually eat).</i><br><b>Điểm ngữ pháp</b>: Trạng từ tần suất trước động từ chính.",
+   "key": "(Angela – occasionally – arrives at work early) ___|Angela occasionally arrives at work early."
+  },
+  {
+   "question": "(John – occasionally – is late in the morning) ___",
+   "a": "John is occasionally late in the morning.",
+   "b": "John is late in occasionally the morning.",
+   "c": "Occasionally John late is in the morning.",
+   "full": "(John – occasionally – is late in the morning) <b>John is occasionally late in the morning.</b>",
+   "vi": "<i>(John – thỉnh thoảng – đi muộn buổi sáng) <b>John thỉnh thoảng đi muộn vào buổi sáng.</b></i>",
+   "expl": "Frequency adverbs go before the main verb, after be, after the first auxiliary, and after don’t / doesn’t (doesn’t usually eat).<br><i>Trạng từ tần suất đứng trước động từ chính, sau be, sau trợ động từ đầu tiên và sau don’t / doesn’t (doesn’t usually eat).</i><br><b>Điểm ngữ pháp</b>: Trạng từ tần suất sau be.",
+   "key": "(John – occasionally – is late in the morning) ___|John is occasionally late in the morning."
+  },
+  {
+   "question": "(Craig – occasionally – has worked from home) ___",
+   "a": "Craig has occasionally worked from home.",
+   "b": "Craig has worked from occasionally home.",
+   "c": "Occasionally has Craig worked from home.",
+   "full": "(Craig – occasionally – has worked from home) <b>Craig has occasionally worked from home.</b>",
+   "vi": "<i>(Craig – thỉnh thoảng – làm việc ở nhà) <b>Craig thỉnh thoảng làm việc ở nhà.</b></i>",
+   "expl": "Frequency adverbs go before the main verb, after be, after the first auxiliary, and after don’t / doesn’t (doesn’t usually eat).<br><i>Trạng từ tần suất đứng trước động từ chính, sau be, sau trợ động từ đầu tiên và sau don’t / doesn’t (doesn’t usually eat).</i><br><b>Điểm ngữ pháp</b>: Sau trợ động từ đầu tiên.",
+   "key": "(Craig – occasionally – has worked from home) ___|Craig has occasionally worked from home."
+  },
+  {
+   "question": "(Angela – usually – isn’t in the office at lunchtime) ___",
+   "a": "Angela isn’t usually in the office at lunchtime.",
+   "b": "Angela usually not is in the office at lunchtime.",
+   "c": "Angela isn’t in usually the office at lunchtime.",
+   "full": "(Angela – usually – isn’t in the office at lunchtime) <b>Angela isn’t usually in the office at lunchtime.</b>",
+   "vi": "<i>(Angela – thường – không ở văn phòng giờ trưa) <b>Angela thường không ở văn phòng giờ trưa.</b></i>",
+   "expl": "Frequency adverbs go before the main verb, after be, after the first auxiliary, and after don’t / doesn’t (doesn’t usually eat).<br><i>Trạng từ tần suất đứng trước động từ chính, sau be, sau trợ động từ đầu tiên và sau don’t / doesn’t (doesn’t usually eat).</i><br><b>Điểm ngữ pháp</b>: isn’t + usually.",
+   "key": "(Angela – usually – isn’t in the office at lunchtime) ___|Angela isn’t usually in the office at lunchtime."
+  },
+  {
+   "question": "(John – usually – doesn’t eat with his colleagues) ___",
+   "a": "John doesn’t usually eat with his colleagues.",
+   "b": "John doesn’t eat usually with his colleagues.",
+   "c": "John not usually eats with his colleagues.",
+   "full": "(John – usually – doesn’t eat with his colleagues) <b>John doesn’t usually eat with his colleagues.</b>",
+   "vi": "<i>(John – thường – không ăn cùng đồng nghiệp) <b>John thường không ăn cùng đồng nghiệp.</b></i>",
+   "expl": "Frequency adverbs go before the main verb, after be, after the first auxiliary, and after don’t / doesn’t (doesn’t usually eat).<br><i>Trạng từ tần suất đứng trước động từ chính, sau be, sau trợ động từ đầu tiên và sau don’t / doesn’t (doesn’t usually eat).</i><br><b>Điểm ngữ pháp</b>: doesn’t + usually + V.",
+   "key": "(John – usually – doesn’t eat with his colleagues) ___|John doesn’t usually eat with his colleagues."
+  },
+  {
+   "question": "(Craig – usually – drinks a lot of coffee) ___",
+   "a": "Craig usually drinks a lot of coffee.",
+   "b": "Craig drinks usually a lot of coffee.",
+   "c": "Craig drinks a lot usually of coffee.",
+   "full": "(Craig – usually – drinks a lot of coffee) <b>Craig usually drinks a lot of coffee.</b>",
+   "vi": "<i>(Craig – thường – uống nhiều cà phê) <b>Craig thường uống nhiều cà phê.</b></i>",
+   "expl": "Frequency adverbs go before the main verb, after be, after the first auxiliary, and after don’t / doesn’t (doesn’t usually eat).<br><i>Trạng từ tần suất đứng trước động từ chính, sau be, sau trợ động từ đầu tiên và sau don’t / doesn’t (doesn’t usually eat).</i><br><b>Điểm ngữ pháp</b>: Trước động từ chính.",
+   "key": "(Craig – usually – drinks a lot of coffee) ___|Craig usually drinks a lot of coffee."
+  },
+  {
+   "question": "(Angela – hardly ever – has been off sick) ___",
+   "a": "Angela has hardly ever been off sick.",
+   "b": "Angela has been off hardly ever sick.",
+   "c": "Hardly ever Angela has been off sick.",
+   "full": "(Angela – hardly ever – has been off sick) <b>Angela has hardly ever been off sick.</b>",
+   "vi": "<i>(Angela – hầu như không bao giờ – nghỉ ốm) <b>Angela hầu như chưa bao giờ nghỉ ốm.</b></i>",
+   "expl": "Frequency adverbs go before the main verb, after be, after the first auxiliary, and after don’t / doesn’t (doesn’t usually eat).<br><i>Trạng từ tần suất đứng trước động từ chính, sau be, sau trợ động từ đầu tiên và sau don’t / doesn’t (doesn’t usually eat).</i><br><b>Điểm ngữ pháp</b>: Sau trợ động từ đầu tiên.",
+   "key": "(Angela – hardly ever – has been off sick) ___|Angela has hardly ever been off sick."
+  },
+  {
+   "question": "(John – hardly ever – answers emails promptly) ___",
+   "a": "John hardly ever answers emails promptly.",
+   "b": "John answers hardly ever emails promptly.",
+   "c": "John answers emails hardly promptly ever.",
+   "full": "(John – hardly ever – answers emails promptly) <b>John hardly ever answers emails promptly.</b>",
+   "vi": "<i>(John – hầu như không bao giờ – trả lời email kịp thời) <b>John hầu như không bao giờ trả lời email kịp thời.</b></i>",
+   "expl": "Frequency adverbs go before the main verb, after be, after the first auxiliary, and after don’t / doesn’t (doesn’t usually eat).<br><i>Trạng từ tần suất đứng trước động từ chính, sau be, sau trợ động từ đầu tiên và sau don’t / doesn’t (doesn’t usually eat).</i><br><b>Điểm ngữ pháp</b>: Trước động từ chính.",
+   "key": "(John – hardly ever – answers emails promptly) ___|John hardly ever answers emails promptly."
+  },
+  {
+   "question": "(Craig – hardly ever – is in a bad temper) ___",
+   "a": "Craig is hardly ever in a bad temper.",
+   "b": "Craig is in a bad hardly ever temper.",
+   "c": "Craig is in a hardly ever bad temper.",
+   "full": "(Craig – hardly ever – is in a bad temper) <b>Craig is hardly ever in a bad temper.</b>",
+   "vi": "<i>(Craig – hầu như không bao giờ – cáu kỉnh) <b>Craig hầu như không bao giờ cáu kỉnh.</b></i>",
+   "expl": "Frequency adverbs go before the main verb, after be, after the first auxiliary, and after don’t / doesn’t (doesn’t usually eat).<br><i>Trạng từ tần suất đứng trước động từ chính, sau be, sau trợ động từ đầu tiên và sau don’t / doesn’t (doesn’t usually eat).</i><br><b>Điểm ngữ pháp</b>: Sau be.",
+   "key": "(Craig – hardly ever – is in a bad temper) ___|Craig is hardly ever in a bad temper."
+  },
+  {
+   "question": "(always) Do you lock the front door when you go out? → ___",
+   "a": "Do you always lock the front door when you go out?",
+   "b": "Do always you lock the front door when you go out?",
+   "c": "Always do you lock the front door when you go out?",
+   "full": "(always) Do you lock the front door when you go out? → <b>Do you always lock the front door when you go out?</b>",
+   "vi": "<i>(luôn) Anh có khóa cửa trước khi ra ngoài không? → <b>Anh có luôn khóa cửa trước khi ra ngoài không?</b></i>",
+   "expl": "always / even / probably / all / both / certainly in mid position: after be, after the first auxiliary, before the main verb; probably / certainly before a negative auxiliary (I certainly didn’t).<br><i>always / even / probably / all / both / certainly ở giữa câu: sau be, sau trợ động từ đầu tiên, trước động từ chính; probably / certainly đứng trước trợ động từ phủ định (I certainly didn’t).</i><br><b>Điểm ngữ pháp</b>: Câu hỏi: trợ động từ + S + always + V.",
+   "key": "(always) Do you lock the front door when you go out? → ___|Do you always lock the front door when you go out?"
+  },
+  {
+   "question": "(definitely) Yes, and I locked it yesterday. → ___",
+   "a": "Yes, and I definitely locked it yesterday.",
+   "b": "Yes, and I locked definitely it yesterday.",
+   "c": "Yes, and I locked it definitely yesterday.",
+   "full": "(definitely) Yes, and I locked it yesterday. → <b>Yes, and I definitely locked it yesterday.</b>",
+   "vi": "<i>(chắc chắn) Có, và hôm qua tôi đã khóa. → <b>Có, và hôm qua tôi chắc chắn đã khóa.</b></i>",
+   "expl": "always / even / probably / all / both / certainly in mid position: after be, after the first auxiliary, before the main verb; probably / certainly before a negative auxiliary (I certainly didn’t).<br><i>always / even / probably / all / both / certainly ở giữa câu: sau be, sau trợ động từ đầu tiên, trước động từ chính; probably / certainly đứng trước trợ động từ phủ định (I certainly didn’t).</i><br><b>Điểm ngữ pháp</b>: definitely trước động từ chính.",
+   "key": "(definitely) Yes, and I locked it yesterday. → ___|Yes, and I definitely locked it yesterday."
+  },
+  {
+   "question": "(always) Well, the downstairs ones are locked. → ___",
+   "a": "Well, the downstairs ones are always locked.",
+   "b": "Well, the always downstairs ones are locked.",
+   "c": "Well, the downstairs ones locked always are.",
+   "full": "(always) Well, the downstairs ones are locked. → <b>Well, the downstairs ones are always locked.</b>",
+   "vi": "<i>(luôn) À, cửa sổ tầng dưới thì khóa. → <b>À, cửa sổ tầng dưới luôn được khóa.</b></i>",
+   "expl": "always / even / probably / all / both / certainly in mid position: after be, after the first auxiliary, before the main verb; probably / certainly before a negative auxiliary (I certainly didn’t).<br><i>always / even / probably / all / both / certainly ở giữa câu: sau be, sau trợ động từ đầu tiên, trước động từ chính; probably / certainly đứng trước trợ động từ phủ định (I certainly didn’t).</i><br><b>Điểm ngữ pháp</b>: always sau be.",
+   "key": "(always) Well, the downstairs ones are locked. → ___|Well, the downstairs ones are always locked."
+  },
+  {
+   "question": "(even) We have a lock on the little one in the hall. → ___",
+   "a": "We even have a lock on the little one in the hall.",
+   "b": "We have a even lock on the little one in the hall.",
+   "c": "We have a lock on the little one in the even hall.",
+   "full": "(even) We have a lock on the little one in the hall. → <b>We even have a lock on the little one in the hall.</b>",
+   "vi": "<i>(thậm chí) Chúng tôi có khóa ở cái cửa sổ nhỏ ngoài sảnh. → <b>Chúng tôi thậm chí có khóa ở cái cửa sổ nhỏ ngoài sảnh.</b></i>",
+   "expl": "always / even / probably / all / both / certainly in mid position: after be, after the first auxiliary, before the main verb; probably / certainly before a negative auxiliary (I certainly didn’t).<br><i>always / even / probably / all / both / certainly ở giữa câu: sau be, sau trợ động từ đầu tiên, trước động từ chính; probably / certainly đứng trước trợ động từ phủ định (I certainly didn’t).</i><br><b>Điểm ngữ pháp</b>: even trước động từ chính.",
+   "key": "(even) We have a lock on the little one in the hall. → ___|We even have a lock on the little one in the hall."
+  },
+  {
+   "question": "(probably) Well, I think most of the windows were locked. → ___",
+   "a": "Well, I think most of the windows were probably locked.",
+   "b": "Well, I think most of the probably windows were locked.",
+   "c": "Well, I think most of the windows locked were probably.",
+   "full": "(probably) Well, I think most of the windows were locked. → <b>Well, I think most of the windows were probably locked.</b>",
+   "vi": "<i>(có lẽ) À, tôi nghĩ hầu hết cửa sổ đã khóa. → <b>À, tôi nghĩ có lẽ hầu hết cửa sổ đã được khóa.</b></i>",
+   "expl": "always / even / probably / all / both / certainly in mid position: after be, after the first auxiliary, before the main verb; probably / certainly before a negative auxiliary (I certainly didn’t).<br><i>always / even / probably / all / both / certainly ở giữa câu: sau be, sau trợ động từ đầu tiên, trước động từ chính; probably / certainly đứng trước trợ động từ phủ định (I certainly didn’t).</i><br><b>Điểm ngữ pháp</b>: probably sau be.",
+   "key": "(probably) Well, I think most of the windows were locked. → ___|Well, I think most of the windows were probably locked."
+  },
+  {
+   "question": "(all) They were locked on Friday. → ___",
+   "a": "They were all locked on Friday.",
+   "b": "They were locked on all Friday.",
+   "c": "All they were locked on Friday.",
+   "full": "(all) They were locked on Friday. → <b>They were all locked on Friday.</b>",
+   "vi": "<i>(tất cả) Chúng đã khóa hôm thứ Sáu. → <b>Tất cả đều đã được khóa hôm thứ Sáu.</b></i>",
+   "expl": "always / even / probably / all / both / certainly in mid position: after be, after the first auxiliary, before the main verb; probably / certainly before a negative auxiliary (I certainly didn’t).<br><i>always / even / probably / all / both / certainly ở giữa câu: sau be, sau trợ động từ đầu tiên, trước động từ chính; probably / certainly đứng trước trợ động từ phủ định (I certainly didn’t).</i><br><b>Điểm ngữ pháp</b>: all sau be.",
+   "key": "(all) They were locked on Friday. → ___|They were all locked on Friday."
+  },
+  {
+   "question": "(both) Yes, I knew we would be out all day, so I checked them all. → ___",
+   "a": "Yes, I knew we would both be out all day, so I checked them all.",
+   "b": "Yes, I knew both we would be out all day, so I checked them all.",
+   "c": "Yes, I knew we would be out both all day, so I checked them all.",
+   "full": "(both) Yes, I knew we would be out all day, so I checked them all. → <b>Yes, I knew we would both be out all day, so I checked them all.</b>",
+   "vi": "<i>(cả hai) Đúng, tôi biết chúng tôi sẽ ra ngoài cả ngày nên kiểm tra hết. → <b>Đúng, tôi biết cả hai chúng tôi sẽ ra ngoài cả ngày nên đã kiểm tra hết.</b></i>",
+   "expl": "always / even / probably / all / both / certainly in mid position: after be, after the first auxiliary, before the main verb; probably / certainly before a negative auxiliary (I certainly didn’t).<br><i>always / even / probably / all / both / certainly ở giữa câu: sau be, sau trợ động từ đầu tiên, trước động từ chính; probably / certainly đứng trước trợ động từ phủ định (I certainly didn’t).</i><br><b>Điểm ngữ pháp</b>: both sau trợ động từ (would).",
+   "key": "(both) Yes, I knew we would be out all day, so I checked them all. → ___|Yes, I knew we would both be out all day, so I checked them all."
+  },
+  {
+   "question": "(certainly) No, I didn’t. → ___",
+   "a": "No, I certainly didn’t.",
+   "b": "No, I did certainly not.",
+   "c": "No, certainly didn’t I.",
+   "full": "(certainly) No, I didn’t. → <b>No, I certainly didn’t.</b>",
+   "vi": "<i>(chắc chắn) Không, tôi không mở. → <b>Không, tôi chắc chắn không mở.</b></i>",
+   "expl": "always / even / probably / all / both / certainly in mid position: after be, after the first auxiliary, before the main verb; probably / certainly before a negative auxiliary (I certainly didn’t).<br><i>always / even / probably / all / both / certainly ở giữa câu: sau be, sau trợ động từ đầu tiên, trước động từ chính; probably / certainly đứng trước trợ động từ phủ định (I certainly didn’t).</i><br><b>Điểm ngữ pháp</b>: certainly trước trợ động từ phủ định.",
+   "key": "(certainly) No, I didn’t. → ___|No, I certainly didn’t."
+  },
+  {
+   "question": "What does Tim have for breakfast? (has muesli with yogurt + usually) → ___",
+   "a": "He usually has muesli with yogurt.",
+   "b": "He has usually muesli with yogurt.",
+   "c": "He has muesli usually with yogurt.",
+   "full": "What does Tim have for breakfast? (has muesli with yogurt + usually) → <b>He usually has muesli with yogurt.</b>",
+   "vi": "<i>Tim ăn sáng gì? → <b>Cậu ấy thường ăn ngũ cốc muesli với sữa chua.</b></i>",
+   "expl": "usually / probably / even / never / often / almost in mid position (doesn’t even belong, has never been, often has, has almost finished).<br><i>usually / probably / even / never / often / almost ở giữa câu (doesn’t even belong, has never been, often has, has almost finished).</i><br><b>Điểm ngữ pháp</b>: usually trước động từ chính.",
+   "key": "What does Tim have for breakfast? (has muesli with yogurt + usually) → ___|He usually has muesli with yogurt."
+  },
+  {
+   "question": "Why did James leave the party so early? (was getting bored + probably) → ___",
+   "a": "He was probably getting bored.",
+   "b": "Probably he getting was bored.",
+   "c": "He was getting probably bored.",
+   "full": "Why did James leave the party so early? (was getting bored + probably) → <b>He was probably getting bored.</b>",
+   "vi": "<i>Sao James rời bữa tiệc sớm thế? → <b>Có lẽ anh ấy thấy chán.</b></i>",
+   "expl": "usually / probably / even / never / often / almost in mid position (doesn’t even belong, has never been, often has, has almost finished).<br><i>usually / probably / even / never / often / almost ở giữa câu (doesn’t even belong, has never been, often has, has almost finished).</i><br><b>Điểm ngữ pháp</b>: probably sau be.",
+   "key": "Why did James leave the party so early? (was getting bored + probably) → ___|He was probably getting bored."
+  },
+  {
+   "question": "Does Maggie go to a gym regularly? (doesn’t belong to one + even) → ___",
+   "a": "She doesn’t even belong to one.",
+   "b": "She doesn’t to even belong one.",
+   "c": "She doesn’t belong even to one.",
+   "full": "Does Maggie go to a gym regularly? (doesn’t belong to one + even) → <b>She doesn’t even belong to one.</b>",
+   "vi": "<i>Maggie có đi tập gym đều không? → <b>Cô ấy thậm chí còn không phải hội viên phòng tập nào.</b></i>",
+   "expl": "usually / probably / even / never / often / almost in mid position (doesn’t even belong, has never been, often has, has almost finished).<br><i>usually / probably / even / never / often / almost ở giữa câu (doesn’t even belong, has never been, often has, has almost finished).</i><br><b>Điểm ngữ pháp</b>: doesn’t + even + V.",
+   "key": "Does Maggie go to a gym regularly? (doesn’t belong to one + even) → ___|She doesn’t even belong to one."
+  },
+  {
+   "question": "What does Saskia think of your new apartment? (has been there + never) → ___",
+   "a": "She has never been there.",
+   "b": "She has been there never.",
+   "c": "She has been never there.",
+   "full": "What does Saskia think of your new apartment? (has been there + never) → <b>She has never been there.</b>",
+   "vi": "<i>Saskia nghĩ gì về căn hộ mới của bạn? → <b>Cô ấy chưa bao giờ đến đó.</b></i>",
+   "expl": "usually / probably / even / never / often / almost in mid position (doesn’t even belong, has never been, often has, has almost finished).<br><i>usually / probably / even / never / often / almost ở giữa câu (doesn’t even belong, has never been, often has, has almost finished).</i><br><b>Điểm ngữ pháp</b>: never sau trợ động từ đầu tiên.",
+   "key": "What does Saskia think of your new apartment? (has been there + never) → ___|She has never been there."
+  },
+  {
+   "question": "Do you know where Maya might be? (has a few days off at this time of year + often) → ___",
+   "a": "She often has a few days off at this time of year.",
+   "b": "She has often a few days off at this time of year.",
+   "c": "She has a few days often off at this time of year.",
+   "full": "Do you know where Maya might be? (has a few days off at this time of year + often) → <b>She often has a few days off at this time of year.</b>",
+   "vi": "<i>Bạn có biết Maya có thể ở đâu không? → <b>Cô ấy thường nghỉ vài ngày vào thời điểm này trong năm.</b></i>",
+   "expl": "usually / probably / even / never / often / almost in mid position (doesn’t even belong, has never been, often has, has almost finished).<br><i>usually / probably / even / never / often / almost ở giữa câu (doesn’t even belong, has never been, often has, has almost finished).</i><br><b>Điểm ngữ pháp</b>: often trước động từ chính.",
+   "key": "Do you know where Maya might be? (has a few days off at this time of year + often) → ___|She often has a few days off at this time of year."
+  },
+  {
+   "question": "How is Keith getting on with his assignment? (has finished it + almost) → ___",
+   "a": "He has almost finished it.",
+   "b": "He has finished it almost.",
+   "c": "He has finished almost it.",
+   "full": "How is Keith getting on with his assignment? (has finished it + almost) → <b>He has almost finished it.</b>",
+   "vi": "<i>Bài tập của Keith tiến triển thế nào? → <b>Anh ấy gần xong rồi.</b></i>",
+   "expl": "usually / probably / even / never / often / almost in mid position (doesn’t even belong, has never been, often has, has almost finished).<br><i>usually / probably / even / never / often / almost ở giữa câu (doesn’t even belong, has never been, often has, has almost finished).</i><br><b>Điểm ngữ pháp</b>: almost sau trợ động từ đầu tiên.",
+   "key": "How is Keith getting on with his assignment? (has finished it + almost) → ___|He has almost finished it."
+  }
+ ],
+ "egu_units": [
+  109,
+  110
+ ]
+}
